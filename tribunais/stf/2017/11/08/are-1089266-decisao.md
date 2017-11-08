@@ -1,0 +1,18 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – Candidato que alega não ter sido intimado para a fase de convocação – Edital que previa a comunicação por meio de notificação eletrônica e publicação no Diário Oficial – Exigências atendidas pela impetrada – Segurança denegada em 1ª instância – Sentença mantida – Recurso improvido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, apoiou as suas conclusões em aspectos fático-probatórios e em interpretação de cláusula de edital:
+    “Com efeito, analisando detidamente o feito, tem-se que o impetrante foi convocado para comparecer e assinar o termo de compromisso, tendo sido informado acerca da antecipação da data inicialmente prevista.
+    Veja, às fls. 90/91 há comprovação do envio de duas mensagens eletrônicas ao impetrante, na qual se alertou que o comparecimento dos candidatos deveria ocorrer em 08/04/2016. Tudo nos termos do Edital nº 18/2015, que previa essa forma de publicidade para todos os atos praticados no certame.
+    Não obstante, houve também publicação no DOE de 05/04/2016 (fls. 89). E sabendo-se que a publicação no Diário Oficial trata-se de meio idôneo para a publicidade dos atos públicos, bastaria ao apelante cercar-se dos cuidados mínimos necessários para acompanhamento pessoal do expediente.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 08 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
