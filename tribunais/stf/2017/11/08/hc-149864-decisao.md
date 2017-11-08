@@ -1,0 +1,27 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado em favor de Iago da Costa Franca, contra decisão do Ministro Ribeiro Dantas, do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC 421.530/CE.
+    Consta dos autos que o paciente foi preso em flagrante em 23.9.2017 (eDOC 2, p. 3) ante a suposta prática do crime previsto no art. 33, caput, da Lei 11.343/2006. A prisão foi convertida em preventiva. (eDOC 5, p. 3-4)
+    Irresignada, a defesa impetrou habeas corpus perante o TJCE (eDOC 8), que indeferiu o pedido liminar e solicitou informações ao Juízo de primeiro grau em 5.10.2017. (eDOC 9)
+    Inconformada, impetrou novo habeas corpus no STJ (eDOC 10), que indeferiu liminarmente o pedido. (eDOC 11)
+    Nesta Corte, o impetrante repisa os argumentos apresentados nas instâncias anteriores. Em síntese, alega que: “a) não há razões de fato e de direito que autorizem a segregação cautelar do paciente, uma vez que se trata de réu primário, com residência fixa; b) o crime imputado não foi praticado com violência ou grave ameaça à pessoa e a aplicação de medidas cautelares diversas da prisão seriam suficientes para a preservação da ordem pública; c) o paciente possui ocupação lícita, trabalhando de Carteira assinada como auxiliar de produção na empresa Grendene; d) a decisão do Juiz de origem está despida de fundamentação idônea”. (eDOC 11, p. 1)
+    Requer a revogação da prisão preventiva decretada, com a expedição do respectivo alvará de soltura. (eDOC 1, p. 31)
+    É o relatório.
+    Decido.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, DJe 3.3.2017 e HC 139.829/SP, Rel. Min. Dias Toffoli, DJe 6.3.2017.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental contra a referida decisão monocrática do STJ até a presente data. Aliás, no que se refere ao tema, tenho-me posicionado, na Segunda Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014 e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no art. 102, inciso II, alínea “a”, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011; e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, inciso XXXV, CF), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de evidente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste habeas corpus.
+    Corroborando o já exposto, colho os seguintes trechos da decisão que converteu o flagrante em preventiva:
+    “As circunstâncias do fato são extremamente graves, e justificam a manutenção da prisão preventiva do preso. É que o autuado foi preso na posse que nada menos que 50 gramas do que seria cocaína, quantidade elevada da droga. Demais disso, registraram os policiais responsáveis pela prisão do autuado que constataram, no aparelho de telefone celular do autuado, que ele trocava mensagens com clientes efetivando comercialização de diversas espécies de drogas, com negociação de preços, além de ter combinado com terceiro um assalto a uma casa lotérica na vizinha cidade de Massapê.
+    Essas circunstâncias revelam que a liberdade do autuado, ao menos em princípio, importa em elevado risco à ordem pública, risco esse que não pode ser ignorado e nem outra medida cautelar que não seja a prisão é suficiente a resguardar os valores jurídicos em jogo.
+    (…)
+    Dispenso-me de maiores comentários acerca do descabimento de prisão preventiva em razão da gravidade abstrata do delito. Porém, as condições concretas do fato, acima registradas, indicam que a liberdade do autuado representa risco à ordem pública.
+    Os indícios de autoria por parte do autuado são veementes, haja vista os relatos das testemunhas ouvidas pela autoridade policial, e a apresentação da substância em poder do autuado nos termos das declarações dos policiais ouvidos, substância essa que o laudo provisório indicou tratar-se de cocaína”. (eDOC 5, p. 4-5)
+    Feitas essas considerações, ressalvo minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 8 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
