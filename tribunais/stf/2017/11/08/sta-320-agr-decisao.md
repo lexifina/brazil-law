@@ -1,0 +1,20 @@
+DECISÃO
+AGRAVO REGIMENTAL NA SUSPENSÃO DE TUTELA ANTECIPADA. AUSÊNCIA DE MANIFESTAÇÃO DO AGRAVANTE/REQUERENTE QUANTO AO INTERESSE PROCESSUAL. EXTINÇÃO DA SUSPENSÃO DE TUTELA ANTECIPADA E PREJUÍZO DO AGRAVO REGIMENTAL.
+Relatório
+    1. Consta dos autos: “Trata-se de pedido de suspensão de tutela antecipada formulado pelo Município de Maringá, com a finalidade de sustar os efeitos da decisão proferida pela Desembargadora Maria Aparecida Branco de Lima, do Tribunal de Justiça do Estado do Paraná (fls. 817-821, apenso 4), que, nos autos do Agravo de Instrumento nº 579269-6, indeferiu pedido de atribuição de efeito suspensivo ao mencionado recurso, com a consequente manutenção da liminar concedida pela 5ª Vara Cível da Comarca de Maringá (fls. 742-753, apenso 4), nos autos da Ação Civil Pública nº 265/2009.
+    Segundo o relato da petição inicial, o Ministério Público do Estado do Paraná ajuizou ação civil pública, a fim de que o Município de Maringá fosse condenado em (i) obrigação de fazer, consistente na exoneração dos 17 (dezessete) ocupantes dos cargos em comissão de assessor jurídico; e (ii) obrigação de não fazer, consubstanciada na não-nomeação dos mencionados servidores ou de quaisquer outros servidores para os referidos cargos em comissão (fl. 2-35, apenso 1).
+    Alega o autor da ação civil pública que as funções desempenhadas por esses servidores não envolveriam atividades de direção, chefia ou assessoramento, conforme exige a Constituição da República.
+    Sustenta, ademais, a existência de concurso público finalizado, homologado e ainda vigente, cujos aprovados poderiam desempenhar, na qualidade de servidores efetivos, as funções hoje exercidas pelos servidores comissionados.
+    O Juízo da 5ª Vara Cível da Comarca de Maringá deferiu o pedido de tutela antecipada, impondo ao réu a obrigação de exonerar os mencionados servidores, no prazo de 30 dias, e de não nomear ninguém para os cargos em comissão por eles ocupados (fl. 753, apenso 4).
+    Inconformado, o Município de Maringá interpôs agravo de instrumento, com pedido de efeito suspensivo, o qual foi indeferido pela Relatora (…).
+    A presente suspensão de tutela antecipada baseia-se em argumentos de lesão à ordem e segurança pública. Enfatiza o requerente que a exoneração, de uma só vez, dos servidores nomeados como assessores jurídicos resultaria em prejuízo ao serviço público (fl. 10).
+    Assevera, também, que a nomeação dos 16 (dezesseis) assessores jurídicos em janeiro de 2009 refere-se à legislação em vigor desde 1990 (fl. 9). Por fim, sustenta que a decisão que concedeu a liminar esgotou o objeto da ação em contrariedade ao art. 1º, §3º, da Lei nº 8.437/1992, além de ser inviável, na apreciação de tutela antecipada de ação civil pública, o reconhecimento de inconstitucionalidade de lei municipal. Alega, como precedente favorável a seu pleito, decisão desta Presidência nos autos da STA nº 300”.
+    2. Em 5.5.2009, o Ministro Gilmar Mendes, então Presidente deste Supremo Tribunal, indeferiu o pedido de suspensão. Contra essa decisão o requerente interpôs o presente agravo regimental.
+    3. Em 11.10.2017, determinei a intimação do agravante/requerente para manifestar-se, no prazo máximo de cinco dias, sobre interesse no prosseguimento do feito, justificando-o e juntando andamento atualizado do Processo n. 265/2009 e do Agravo de Instrumento n. 579269-6 e as certidões de trânsito em julgado, se houver, sob pena de extinção desta suspensão.
+    4. Em 31.10.2017, a Seção de Processos Diversos deste Supremo Tribunal certificou que, “até o dia 25/10/2017, não houve qualquer manifestação em relação ao despacho de 11/10/2017” (Evento 13).
+    5. Pelo exposto, diante da ausência da manifestação do agravante/requerente, determino a extinção desta suspensão de tutela antecipada e julgo prejudicado o agravo regimental (inc. XX do art. 21 do Regimento Interno do Supremo Tribunal Federal c/c o § 3º do art. 485 do Código de Processo Civil).
+    Publique-se.
+    Arquive-se.
+    Brasília, 8 de novembro de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
