@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF03 nº 3011, de 30 de outubro de 2017
+Assunto: Contribuições Sociais Previdenciárias
+EMENTA: SERVIÇOS DE LICENCIAMENTO DE PROGRAMAS E SISTEMAS DE COMPUTADOR (“SOFTWARES”). MANUTENÇÃO DE “SOFTWARES”. RETENÇÃO. INEXISTÊNCIA. Inexiste a incidência da retenção de contribuição previdenciária de 11% (onze por cento) sobre o valor bruto da nota fiscal, fatura ou recibo da prestação de serviços de licenciamento de programas e sistemas de computador (“softwares”), bem como nas manutenções desses “softwares”.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA N.º 253 - COSIT, DE 12 DE SETEMBRO DE 2014 (DOU DE 14 DE OUTUBRO DE 2014), E À SOLUÇÃO DE CONSULTA N.º 285 - COSIT, DE 14 DE OUTUBRO DE 2014 (DOU DE 24 DE OUTUBRO DE 2014).
+Dispositivos Legais: Lei nº 8.212, de 24 de julho de 1991, art. 31, “caput” e parágrafos 3º e 4º; Regulamento da Previdência Social, aprovado pelo Decreto 3.048, de 06 de maio de 1999, artigo 219, “caput” e parágrafos 1º a 3º; e Instrução Normativa RFB nº 971, de 13 de novembro de 2009, artigos 117, 118 e 119; Solução de Consulta n.º 253 - Cosit, de 12 de setembro de 2014 (DOU de 14 de outubro de 2014), e Solução de Consulta n.º 285 - Cosit, de 14 de outubro de 2014 (DOU de 24 de outubro de 2014).
+[arquivo anexo: SC SRRF03-Disit nº 3011-2017.pdf]
