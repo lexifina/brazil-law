@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO ORDINÁRIA – CONCURSO PÚBLICO – INVESTIGAÇÃO SOCIAL – Concurso para Soldado de 2ª classe da Polícia Militar – Candidato considerado inapto – Cabimento – Ato discricionário da Administração, lastreado em condutas que contraindicam a nomeação do requerente para o exercício da função policial – Entendimento deste E. Tribunal – Sentença de improcedência da ação mantida. Recurso não provido.
+    […]
+    O motivo da desclassificação do impetrado no concurso público foi porque o autor esteve envolvido em ocorrência policial, junto a um amigo, adolescente, cada um portando uma motocicleta e, ao avistaram policiais militares, evadiram-se em alta velocidade. Quando abordados, o adolescente alegou que a moto foi entregue pelo autor, o qual confirmou o empréstimo. Houve condução, durante a perseguição, de forma perigosa, colocando em risco a segurança de terceiros.
+    Nos autos, a Fazenda do Estado juntou histórico de averiguações (fls. 108/127) e documentos que a acompanham (fls. 128/139), sendo induvidoso a o ânime de desrespeitar regras de trânsito, com ausência de perfil para coibir infrações e crimes de trânsito, próprio do exercício da função do policial militar.
+    Questionável, portanto, sua postura social, demonstrando incompatibilidade com a conduta ilibada e ética naturalmente exigível para o cargo que pretendia assumir.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XLV, da Constituição Federal. Afirma que: (i) deixou sua motocicleta “para conserto com o Wesley, que se intitulava mecânico de motocicleta, cujo o autor desconhecia ser o rapaz menor de idade e inabilitado”; (ii) não é responsável pela infração de trânsito narrada pelo acórdão recorrido.
+    O recurso extraordinário é inadmissível, tendo em vista que, para dissentir da conclusão adotada pelo Tribunal de origem implica, necessariamente, a reapreciação dos fatos e do material probatório constante dos autos, providência vedada nesta fase processual, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita ao agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 08 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
