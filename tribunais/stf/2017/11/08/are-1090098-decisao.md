@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, caput, 7º, XXXII, 37, X e XIII, 169, § 1°, I e II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; ARE 657.312-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 22.5.2013; e ARE 931960 AgR, da minha lavra, Primeira Turma, DJe 25-02-2016, cuja ementa transcrevo:
+    “EMENTA DIREITO MATERIAL E PROCESSUAL DO TRABALHO. RECURSO DE REVISTA. REAJUSTE SALARIAL ASSEGURADO POR NORMAS DO CONSELHO DE REITORES DAS UNIVERSIDADES ESTADUAIS DE SÃO PAULO – CRUESP, DECRETO ESTADUAL Nº 41.554/1997. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 24.5.2013. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 08 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
