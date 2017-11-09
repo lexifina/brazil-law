@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 9ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “APELAÇÃO - Indenização por danos morais decorrentes de atraso no pagamento de precatório judicial - Descabimento - Não configurado o prejuízo moral passível de reparação - Ação julgada improcedente — Sentença mantida — Recurso não provido.”
+    No recurso extraordinário sustenta-se violação dos artigos 1º, inciso III, 5º, incisos X e LXXVIII, 37, caput e § 6º, e 100, § 5º, da Constituição Federal.
+    Decido.
+    No que se refere aos artigos 1º, inciso III, 5º, inciso LXXVIII, e 37, caput, da Constituição, indicados como violados no recurso extraordinário, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, para ultrapassar o entendimento da Corte de origem acerca da improcedência do pedido indenizatório seria necessário o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRECATÓRIOS. DEMORA NO PAGAMENTO. DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS DA CAUSA. ÓBICE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. A análise do extraordinário requer o reexame de fatos e provas da causa, providência vedada nesta instância em virtude do óbice da Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 761.311/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 29/10/09).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DO ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. PRECEDENTES. Hipótese em que a resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento” (RE nº 862.933/CE-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 25/3/15).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 9 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
