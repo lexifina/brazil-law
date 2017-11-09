@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 86, p. 2):
+    “Ação de obrigação de fazer. Plano de saúde. Recusa da cobertura de cirurgia com a implantação de material denominado prótese auditiva de "baha". Alegação de que a referida prótese não consta no rol da ANS. Incidência do Código de Defesa do Consumidor. Autora que logrou êxito em comprovar que o procedimento pretendido e a prótese constam no referido rol e, ainda que assim não fosse, o rol da ANS não é taxativo, têm apenas o intuito de referência às operadoras de planos de saúde. Responsabilidade da ré configurada. Inteligência da Súmula 102 do TJSP. Sentença mantida. Recurso improvido.”
+    No recurso extraordinário, com fundamento no artigo 102, III, “a”, do permissivo constitucional, aduz-se ofensa ao artigo, 5º, II, da Constituição da República.
+    Nas razões recursais sustenta-se, em suma, que “a manutenção do v. acórdão ofende por via reflexa o inciso II do artigo 5º da Constituição Federal”, de forma que “se o procedimento não consta do Rol da ANS não há que se falar em obrigatoriedade de cobertura” (eDOC 101, p. 3).
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    No exame do ARE-RG 697.312, Rel. Min. Ayres Britto, DJe 23.11.2012 (Tema 611), decidiu-se que não possuem repercussão geral as controvérsias que versam sobre a responsabilidade civil por danos morais e materiais decorrentes da negativa de cobertura por operadora de plano de saúde, não ensejando a abertura da via extraordinária por não prescindir do exame de legislação infraconstitucional, de cláusulas contratuais e do conjunto fático-probatório dos autos, como a do caso em exame.
+    Ademais, no exame do RE-RG 950.787, de relatoria do Min. Luiz Fux, DJe 9.6.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa aos princípios constitucionais da dignidade da pessoa humana, da legalidade, da propriedade e sua função social, do devido processo legal e do acesso à Justiça ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 9 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
