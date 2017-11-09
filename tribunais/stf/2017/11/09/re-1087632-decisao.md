@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. LICENÇA-PRÊMIO NÃO USUFRUÍDA. CONTAGEM EM DOBRO DE TEMPO DE SERVIÇO. DIREITO ADQUIRIDO ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL 20/1998. PRECEDENTES. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “1- Trata-se de recurso tempestivamente interposto pela União contra sentença que julgou procedente o pedido para emissão de certidão de tempo de serviço com contagem em dobro de licenças-prêmio não usufruídas.
+    Alega que o requerente não tem o direito de contagem em dobro por não ter preenchido os requisitos para aposentadoria antes do advento da EC 20/98, que vedou qualquer tipo de contagem ficta de tempo de contribuição.
+    2- Efeito suspensivo: A teor do art. 43 da Lei 9.099/95, não há que se falar em concessão de efeito suspensivo ao recurso.
+    3- Contagem em dobro: Conforme entendimento sedimentado pelo STJ, a contagem em dobro de licença-prêmio não gozada apenas é permitida nos casos em que o requerente já havia completados os períodos aquisitivos necessários para a concessão da aposentadoria anteriormente à vigência da Emenda Constitucional 20/98, de 15/12/1998 (REsp 547.006/SC, ReI. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 17/10/2006, DJ 06/11/2006).
+    Com efeito, a EC 20/98 acrescentou dispositivo que veda a contagem fictícia de tempo de contribuição, assegurando em seus artigos 3° e 4° a concessão de aposentadoria conforme a legislação pretérita apenas para aqueles que anteriormente a sua vigência haviam cumprido os requisitos para o jubilamento.
+    No caso vertente, nos termos da certidão de tempo de serviço de fi. 31, a parte autora não possuía em 15/12/1998 o tempo de serviço necessário para adquirir o direito à aposentadoria, razão pela qual, na esteira da jurisprudência acima, a sentença merece ser reformada para que seja julgado improcedente o pedido.
+    4- Prequestionamento: Não há necessidade de enfrentamento do juízo de todas as questões levantadas. As razões de convencimento constam da sentença e do presente voto.
+    5- Sentença reformada. Recurso provido.
+    6- Sem honorários.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, XXXVI, da Constituição Federal. Alega equívoco do acórdão recorrido ao condicionar a contagem em dobro do tempo de serviço ao preenchimento dos requisitos para a aposentadoria antes da EC 20/1998.
+    O Tribunal a quo proferiu juízo positivo de admissibilidade.
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    O Supremo Tribunal Federal firmou o entendimento no sentido da existência de direito adquirido à contagem de tempo em dobro para o servidor público que cumpriu os requisitos para o benefício da licença-prêmio antes do advento da Emenda Constitucional 20/1998. Nesse sentido:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO USUFRUÍDA. PERÍODO ANTERIOR À VIGÊNCIA DA EC 20/98. APOSENTADORIA. CONTAGEM DE TEMPO EM DOBRO. POSSIBILIDADE. DIREITO ADQUIRIDO. ART. 5º, XXXVI, DA LEI MAIOR. JURISPRUDÊNCIA PACÍFICA. ACÓRDÃO RECORRIDO PUBLICADO EM 08.10.2008. A jurisprudência desta Corte firmou-se no sentido de que o servidor público que completou os requisitos para usufruir da licença-prêmio em data anterior à EC 20/1998, e não a utilizou, tem direito ao cômputo em dobro do tempo de serviço prestado nesse período para fins de aquisição de aposentadoria. Agravo regimental conhecido e não provido.” (AI 760.595-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013)
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. APOSENTADORIA. CONVERSÃO DE LICENÇA-PRÊMIO NÃO GOZADA EM TEMPO DE SERVIÇO. DIREITO ADQUIRIDO ANTES DA EMENDA CONSTITUCIONAL Nº 20/1998. POSSIBILIDADE. PRECEDENTES. 1. O Supremo Tribunal Federal possui firme jurisprudência no sentido de que o servidor público tem direito adquirido à conversão da licença-prêmio não gozada em tempo de serviço, para fins de aposentadoria, se preencheu os requisitos para a concessão do benefício antes do advento da Emenda Constitucional nº 20/1998. Precedentes. 2. Agravo interno a que se nega provimento.” (ARE 852.194-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 14/3/2017)
+    “Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Conversão da licença-prêmio não gozada em tempo ficto. Aposentadoria. Período anterior à EC 20/98. Possibilidade. Precedente. 4. Ausência de prequestionamento. 5. Agravo regimental a que se nega provimento.” (AI 666.942-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 28/3/2008)
+    In casu, verifica-se que o acórdão recorrido divergiu desse entendimento, ao reformar a sentença que havia confirmado o preenchimento dos requisitos para a licença-prêmio antes do advento da EC 20/1998, in verbis:
+    “Veja-se que, in casu, os períodos aquisitivos das licenças-prêmio, objetos da pretensão, são de 09/03/78 a 09/03/83, 08/03/83 a 06/03/88 e 07/03/88 a 04/03/93. Assim, o direito à contagem em dobro das férias-prêmio, para fins de aposentadoria, já se incorporou ao patrimônio jurídico do autor, antes do advento da EC nº 20/98.” (Doc. 1, fl. 48)
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 932, V, do CPC/2015.
+    Publique-se.
+    Brasília, 9 de novembro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
