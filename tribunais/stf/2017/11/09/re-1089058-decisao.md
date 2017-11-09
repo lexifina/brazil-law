@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO CRIMINAL — BUSCA E APREENSÃO SEM MADADO JUDICIAL — SITUAÇÃO DE FLAGRANTE DELITO CONSTATADA POSTERIOMENTE — LICITUDE — PROVIMENTO PARCIAL.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro confirmou o entendimento do Juízo quanto à absolvição do réu da imputação dos crimes de porte ilegal de arma se fogo de uso permitido, associação para o tráfico e tráfico ilícito de entorpecentes, previstos, respectivamente, nos artigos 14 da Lei nº 10.826/03 e 33 e 35 da Lei nº 11.343/06, assentando a ilicitude de prova obtida mediante violação de domicílio. No extraordinário, o recorrente aponta a ofensa do artigo 5º, inciso XI, da Constituição Federal. Sustenta a legalidade do procedimento, tendo por constatada a situação de flagrância.
+    2. Muito embora tenha havido o controle judicial em momento posterior à entrada em domicílio sem autorização judicial, o Colegiado de origem assentou a ocorrência de violação. O acórdão recorrido diverge da jurisprudência do Supremo. Este Tribunal, no recurso extraordinário nº 603.616, assentou que entrada forçada em domicílio sem mandado judicial é lícita quando amparada em fundadas razões, devidamente justificadas posteriormente, indicando a situação de flagrante delito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade, e de nulidade dos atos praticados.
+    3. Ante o precedente, conheço e dou parcial provimento ao extraordinário para, reformando o acórdão recorrido, determinar o retorno do processo ao Colegiado de origem, a fim de que enfrente o tema na forma dos parâmetros indicados. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 9 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
