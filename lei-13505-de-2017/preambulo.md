@@ -1,0 +1,2 @@
+Acrescenta dispositivos à Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre o direito da mulher em situação de violência doméstica e familiar de ter atendimento policial e pericial especializado, ininterrupto e prestado, preferencialmente, por servidores do sexo feminino.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
