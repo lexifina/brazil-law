@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado (eDOC 1, p. 296):
+    “AGRAVO REGIMENTAL EM APELAÇÃO. AÇÃO REVISIONAL DE CONTRATO. PRELIMINAR. CERCEAMENTO DE DEFESA. PERÍCIA TÉCNICA. DESNECESSIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DE ABUSIVIDADE. JURISPRUDÊNCIA DO STJ. CAPITALIZAÇÃO DE JUROS. MP 2170-36. CONSTITUCIONALIDADE.
+    I - Não logrou êxito a parte autora em comprovar os fatos constitutivos de seu direito subjetivo, pois no caso de abusividade de cláusulas contratuais de empréstimo bancário, é iterativa a jurisprudência deste sodalício quanto à prescindibilidade de perícia técnica contábil, porquanto deve ser analisado o contrato à luz da legislação e jurisprudência do STJ, salvo demonstração de excessiva onerosidade, o que não ocorreu no caso concreto.
+    II. O STF posicionou-se, recentemente, acerca do art. 51 da Medida Provisória n° 2.170-36, de 23 de agosto de 2001, que trata da admissibilidade da capitalização de juros com periodicidade inferior a um ano, no RE no 592377, em sede de repercussão geral, no sentido de afastar a sua tão alegada inconstitucionalidade.
+    III. Agravo regimental conhecido e improvido.”
+    No recurso extraordinário, com fundamento no permissivo constitucional do art. 102, III, “a”, aponta-se ofensa aos artigos 1º, III, 3º, II e III, 5º, XXXV e LV, 62, 170, V e 192, da Constituição da República.
+    Nas razões recursais sustenta-se, inicialmente, que “a decisão atacada violou regras básicas do direito processual civil, cerceando o direito do recorrente de produzir provas necessárias ao desfeche da presente lide” (eDOC 1, p. 316).
+    Argumenta-se, também, que o contrato, objeto da ação revisional, desde o seu início impôs o pagamento de valores superiores àquele efetivamente devido e que, dessa forma, desrespeitou os artigos 170, V e 192 da Constituição da República, os quais “visam resguardar a ordem econômica e o consumidor cabendo ao sistema financeiro promover o equilíbrio e servir o interesse da coletividade” (eDOC 2, p. 1).
+    Aduz-se, ainda, violação à Súmula 121 do Supremo Tribunal Federal que veda a capitalização de juros, ainda que expressamente convencionada (eDOC 2, p. 1).
+    Por fim, sustenta-se a inconstitucionalidade do art. 5º da medida provisória MP 2170, haja vista que “a Constituição Federal obriga, sem exceção, que o sistema financeiro seja regulamentado por Lei Complementar, vedando, plenamente, a possibilidade de Medida Provisória tratar do assunto” (eDOC 2, p. 3).
+    O Supremo Tribunal Federal já se manifestou sobre os temas discutidos nestes autos.
+    Verifica-se que, em exame do RE-RG 568.396, de relatoria do Ministro Marco Aurélio, substituído pelo RE 592.377, Dje de 20.03.2015, de relatoria para o acórdão do Ministro Teori Zavascki, o Plenário desta Corte assentou a repercussão geral do Tema 33, que versa sobre a constitucionalidade, ou não, da MP 2.170-36/2001, a qual autorizou a capitalização de juros em periodicidade inferior a um ano, nas operações realizadas pelas instituições integrantes do Sistema Financeiro Nacional, como é o caso dos autos.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013 (Tema 660), o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal e da ampla defesa é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário, como no caso dos autos.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 10 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
