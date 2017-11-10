@@ -1,0 +1,6 @@
+Art. 33 - O cargo correspondente à função pública a que se refere a Lei nº 10.254, de 20 de julho de 1990, cujo detentor tiver sido efetivado em decorrência do disposto nos arts. 105 e 106 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado será transformado em cargo de carreira instituída por esta Lei, observada a correlação estabelecida no Anexo II.
+§ 1º - Os cargos resultantes da transformação de que trata o caput deste artigo serão extintos com a vacância.
+§ 2º - Aplicam-se ao detentor do cargo a que se refere o caput deste artigo as regras de enquadramento e posicionamento de que tratam os arts. 28 e 31.
+§ 3º - O detentor de função pública a que se refere a Lei nº 10.254, de 1990, que não tenha sido efetivado será enquadrado na estrutura das carreiras instituídas por esta Lei apenas para fins de percepção do vencimento básico correspondente ao nível e ao grau em que for posicionado, observadas as regras de enquadramento e posicionamento a que se referem os arts. 28 e 31 e mantida a identificação como "função pública", com a mesma denominação do cargo em que for posicionado.
+§ 4º - A função pública de que trata o § 3º deste artigo será extinta com a vacância.
+§ 5º - O quantitativo dos cargos a que se refere o § 1º deste artigo e das funções públicas de que trata o § 3º deste artigo é o constante no Anexo III.

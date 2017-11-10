@@ -1,0 +1,1 @@
+Art. 28 - Os servidores que, na data de publicação desta Lei, forem ocupantes dos cargos de provimento efetivo a que se referem os arts. 21 a 26 serão enquadrados na estrutura estabelecida no Anexo I, conforme a tabela de correlação constante no Anexo II.

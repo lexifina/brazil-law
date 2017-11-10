@@ -1,0 +1,1 @@
+Art. 26 - Para a obtenção do número de cargos de provimento efetivo da carreira de Auxiliar de Necropsia, previstos no Anexo I, ficam os setenta e cinco cargos de Auxiliar de Necropsia transformados, na forma da correlação estabelecida no Anexo II.

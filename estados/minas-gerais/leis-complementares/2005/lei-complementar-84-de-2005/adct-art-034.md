@@ -1,0 +1,2 @@
+Art. 34 - O servidor aposentado em cargo de provimento efetivo transformado em cargo de carreira de que trata esta Lei será posicionado na estrutura das carreiras da referida Lei, apenas para fins de percepção do vencimento básico correspondente ao nível e ao grau em que for posicionado, observado o disposto em decreto e no art. 31.
+Parágrafo único - Para fins do disposto no caput, a escolaridade de que trata o inciso I do art. 31 é a do cargo no qual se deu a aposentadoria.
