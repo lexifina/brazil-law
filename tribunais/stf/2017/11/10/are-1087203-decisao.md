@@ -1,0 +1,21 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto em face de acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. Impetração objetivando obstar a inscrição do nome da devedora no Cadastro Informativo dos Créditos não Quitados de Órgãos e Entidades Estaduais (CADIN Estadual). Sentença denegatória. Manutenção. Autorização legal para o ato apontado como coator. Ausência de causa de suspensão da inexigibilidade do crédito ou, ainda, de determinação judicial nesse sentido. Precedentes. RECURSO NÃO PROVIDO”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, IV, 5, XIII, XXXV e LXIX, e 170, todos da Carta, bem como às Súmulas 70 e 323 e 547/STF.
+    O Tribunal de origem, com apoio no acervo probatório dos autos e na interpretação da legislação infraconstitucional aplicável à espécie, concluiu pela legitimidade da inscrição da recorrente no CADIN. Para firmar entendimento diverso do acórdão recorrido, seria indispensável o reexame da legislação infraconstitucional local e do acervo fático-probatório, providência vedada em sede de recurso extraordinário. A hipótese atrai a incidência das Súmulas 279 e 280/STF. Nesse sentido, confiram-se os julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. SUSPENSÃO DE INSCRIÇÃO NO CADASTRO INFORMATIVO DE CRÉDITOS NÃO QUITADOS DO SETOR PÚBLICO FEDERAL – CADIN. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO PROBATÓRIO: SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 916.540-AgR, Rel.ª Min.ª Cármen Lúcia)
+    “TRIBUTÁRIO. CADIN. MANUTENÇÃO DA INSCRIÇÃO. DESCUMPRIMENTO DOS REQUISITOS PREVISTOS NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. SÚMULA 279.
+    I - o acórdão recorrido decidiu acerca da manutenção do registro do contribuinte no CADIN à luz da legislação infraconstitucional aplicável à espécie, o que inviabiliza o recurso extraordinário.
+    II - O RE demanda a análise do conjunto fático-probatório dos autos, o que atrai a Súmula 279 do STF.
+    III - A alegada violação ao art. 5º, XXXV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário.
+    IV - Agravo regimental improvido.” (AI 662.796-AgR, Rel. Min. Ricardo Lewandowski)
+    Ademais, esta Corte, no julgamento da ADI 1.454, Rel.ª Min.ª Ellen Gracie, assentou a constitucionalidade do Cadastro Informativo de Créditos não Quitados do Setor Público Federal (CADIN). Confira-se a ementa da decisão:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA 1.442, DE 10.05.1996, E SUAS SUCESSIVAS REEDIÇÕES. CRIAÇÃO DO CADASTRO INFORMATIVO DE CRÉDITOS NÃO QUITADOS DO SETOR PÚBLICO FEDERAL - CADIN. ARTIGOS 6º E 7º. CONSTITUCIONALIDADE DO ART. 6º RECONHECIDA, POR MAIORIA, NA SESSÃO PLENÁRIA DE 15.06.2000. MODIFICAÇÃO SUBSTANCIAL DO ART. 7º A PARTIR DA REEDIÇÃO DO ATO IMPUGNADO SOB O NÚMERO 1.863- 52, DE 26.08.1999, MANTIDA NO ATO DE CONVERSÃO NA LEI 10.522, DE 19.07.2002. DECLARAÇÃO DE PREJUDICIALIDADE DA AÇÃO, QUANTO AO ART. 7º, NA SESSÃO PLENÁRIA DE 20.06.2007.
+    1. A criação de cadastro no âmbito da Administração Pública Federal e a simples obrigatoriedade de sua prévia consulta por parte dos órgãos e entidades que a integram não representam, por si só, impedimento à celebração dos atos previstos no art. 6º do ato normativo impugnado.
+    2. A alteração substancial do art. 7º promovida quando da edição da Medida Provisória 1.863-52, de 26.08.1999, depois confirmada na sua conversão na Lei 10.522, de 19.07.2002, tornou a presente ação direta prejudicada, nessa parte, por perda superveniente de objeto.
+    3. Ação direta parcialmente prejudicada cujo pedido, no que persiste, se julga improcedente.”
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 10 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
