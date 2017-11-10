@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+    AÇÃO REVISIONAL DE CONTRATO - CARTÃO DE CRÉDITO - APLICAÇÃO DO CDC - TAXA DE JUROS - LIMITAÇÃO - VALORES PAGOS A MAIOR - DEVOLUÇÃO NA FORMA SIMPLES - COMISSÃO DE PERMANENCIA - MULTA E JUROS - IMPOSSIBILIDADE DE CUMULAÇÃO - IMPOSSIBILIDADE DE FIXAÇÃO À TAXA DE MERCADO – CAPITALIZAÇÃO.
+    Aplica-se a Lei de Usura às empresas administradoras de cartões de crédito que não integram o SFN e não se enquadram na definição do artigo 17 da Lei nº. 4.595/64. A devolução dos valores pagos a maior pelo devedor deve ser feita de forma simples. É vedada expressamente a cumulação de comissão de permanência com multa, bem como com juros moratórios. (Resolução nº 1.129/86 c/c Lei nº 4.595/64) A cobrança de comissão de permanência à taxa de mercado do dia do vencimento mostra-se abusiva se fixada por ser cláusula aberta.
+A capitalização mensal dos juros somente é admitida nos casos previstos em lei e ainda quando expressamente acordada nos contratos de mútuo firmados com instituições financeiras. (fls. 478, Vol. 03)
+    No apelo extremo, alegam-se, com amparo no art. 102, III, “a”, da Constituição Federal, violações às Súmulas 348 e 596 desta CORTE. Pleiteia, em síntese, que seja afastada a limitação dos juros remuneratórios à taxa de 12% ao ano, restituindo-se os índices previamente contratados.
+    É o relatório. Decido.
+    O Tribunal de origem, em sede de juízo de retratação determinado pela Terceira Vice-Presidência (fls. 592, Vol. 4) proferiu acórdão com a seguinte ementa:
+    EMENTA: PRETENSÃO REVISIONAL - CONTRATO DE CARTÃO DE CRÉDITO - PESSOA NATURAL - JUROS REMUNERATÓRIOS - REVISÃO - ENTENDIMENTOS EM DISSONÂNCIA COM O STJ - RECURSO ESPECIAL - RETRATAÇÃO DA DECISÃO.
+    Em contratos bancários, o entendimento fixado pelo STJ através do Recurso Especial n. 1061530/RS é de que "a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada pela Lei de Usura (Decreto 22.626/33), Súmula 596/STF; b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade; c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02; d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada (art. 51, §1º do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto."
+    O art. 543-C, § 7º, II do CPC, autoriza a manutenção ou retratação da decisão recorrida. Deve ser revisto o entendimento contido no acórdão quando a decisão encontra-se em dissonância com a jurisprudência do STJ. (fls. 600, Vol. 04).
+    Tal decisão modificou o entendimento do acórdão ora recorrido (fls. 478, Vol. 3), que limitava as taxas de juros ao índice de 12% ao ano.
+    O novo posicionamento da Corte origem pode ser resumido pelo dispositivo do voto condutor do acórdão de retratação:
+    “Firme em tais considerações, RETRATO-ME acerca do posicionamento adotado no acórdão às f. 478/484-TJ, para manter o parcial provimento à apelação, determinando o recálculo dos juros remuneratórios cobrados do requerente, limitando-os à taxa média de mercado para a época do vencimento das faturas, observados os números fornecidos pelo Banco Central do Brasil. Ficam inalterados os demais termos do acórdão recorrido.” (fls. 602, Vol. 04)
+    Dessa forma, caiu por terra a limitação dos juros às taxas de 12% ao ano, de modo que fica prejudicado o presente recurso extraordinário quanto a esse específico pleito.
+    Por outro lado, a discussão acerca do cálculo da taxa de juros pela média do mercado, bem como as controvérsias atinentes à interpretação da Lei 4.595/64, situam-se no contexto normativo infraconstitucional, de forma que as ofensas à Constituição seriam meramente indiretas (ou mediatas), bem como dependeriam do exame de fatos e provas, o que faz incidir a Súmula 279 desta CORTE (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 10 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
