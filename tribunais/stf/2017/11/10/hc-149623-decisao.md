@@ -1,0 +1,28 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Eduardo Ferrari Geraldes e outro em favor de Eduardo de Oliveira Ferreira, contra acórdão do Superior Tribunal de Justiça, que não conheceu do agravo regimental no HC 414.413/SP.
+    O Juízo da 5ª Vara Criminal da Comarca de Guarulhos/SP, forte no art. 386, VII, do Código de Processo Penal, absolveu o paciente da prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006).
+    Em sede de apelação, o Tribunal de Justiça de São Paulo deu parcial provimento ao recurso ministerial, para condenar o ora paciente à pena de 01 (um) ano e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas (art. 33 da Lei 11.343/2006). Opostos embargos infringentes e de declaração, ambos rejeitados.
+    Inconformada, a Defesa impetrou habeas corpus perante o Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Joel Ilan Paciornik, deferiu o pedido de liminar, ‘apenas para assegurar ao paciente que aguarde em regime semiaberto o julgamento do presente mandamus’. Ato contínuo, a Corte Superior não conheceu do agravo regimental lá interposto.
+    Neste writ, os Impetrantes alegam, em síntese, a possibilidade de fixação do regime aberto e de substituição da pena privativa de liberdade por restritiva de direitos. Defendem a detração do período em que o paciente permaneceu segregado cautelarmente, nos termos do art. 387, § 2º, do CPP. Requerem, em medida liminar e no mérito, a fixação do regime aberto e, sucessivamente, a substituição da pena privativa de liberdade por restritiva de direitos.
+    É o relatório.
+    Decido.
+    Ao deferir a liminar nos autos do HC 413.863/SP, a Corte Superior assim se manifestou:
+    “(...).
+    Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+    No caso, mesmo em juízo perfunctório, é possível identificar de plano o constrangimento ilegal aventado, bem como a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+    O Tribunal a quo, na fixação do regime prisional, destacou, in verbis: "a conduta do acusado se reveste de contornos ainda mais nocivos, pois, como dito, comercializava entorpecente de maior potencial lesivo do que o observado em casos comezinhos, qual seja, a cocaína, sabidamente dos mais potentes e devastadores. Vale conferir, inclusive, precedentes desta Corte que apontam para a imposição de regime inicial fechado ao se constatar, in concreto, a utilização de droga particularmente pesada, como na hipótese dos presentes autos " (fl. 255), de modo que o regime mais gravoso, apesar de mostrar-se exagerado, ao menos em juízo perfunctório, não está pautado exclusivamente em fundamentação genérica ou abstrata.
+    No entanto, é cediço que o regime mais gravoso para a hipótese em questão é o semiaberto.
+    Nesse sentido:
+    (…).
+    Por tais razões, defiro o pedido de liminar apenas para assegurar ao paciente que aguarde em regime semiaberto o julgamento do presente mandamus”.
+    Contra essa decisão, a Defesa interpôs agravo regimental, não conhecido, em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS . RECURSO INCABÍVEL. DEFERIMENTO DO REGIME SEMIABERTO NO PEDIDO DE LIMINAR. DECISÃO FUNDAMENTADA. GRAVIDADE CONCRETA DO DELITO. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. REGIME MAIS GRAVOSO. AGRAVO NÃO CONHECIDO.
+    1. Uníssono o entendimento desta Corte Superior de que não é passível de agravo regimental a decisão do relator que defere ou indefere de forma fundamentada o pedido de liminar. Precedentes.
+    Ademais, a decisão de deferimento da liminar foi devidamente fundamentada, com elementos autorizadores para a concessão da tutela de urgência, em que, dada a gravidade concreta do delito – evidenciada pela quantidade e natureza de drogas apreendidas (79 eppendorfs de cocaína) – e o quantum da pena aplicado (1 ano e 8 meses de reclusão), correto o deferimento para que o paciente aguardasse o julgamento do mérito do presente mandamus no regime prisional semiaberto, que é o mais gravoso no caso dos autos, sendo inviável a substituição da pena por restritiva de diretos.
+    Agravo regimental não conhecido”.
+    Com efeito, o ato dito coator guarda consonância com a jurisprudência desta Corte no sentido de que ‘não se revela suscetível de conhecimento, por incabível, recurso de agravo ("agravo regimental") contra decisão do Relator, que, motivadamente, defere ou indefere pedido de medida liminar formulado em sede de "habeas corpus" originariamente impetrado perante o Supremo Tribunal Federal’ (HC 94.993-MC/AgR, Rel. Min. Celso de Mello, Plenário, DJe 13.02.2009).
+     Ademais, a matéria trazida nestes autos não foi objeto de apreciação pela instância anterior, a inviabilizar a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
