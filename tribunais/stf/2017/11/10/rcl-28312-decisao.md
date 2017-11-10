@@ -1,0 +1,19 @@
+RECLAMAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA. ALEGAÇÃO DE OFENSA À SÚMULA VINCULANTE 10. AFRONTA À DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL NA ADC 16. DESCUMPRIMENTO DE DILIGÊNCIA. INDEFERIMENTO DA INICIAL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO.
+    Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada pela Companhia Paulista de Trens Metropolitanos - CPTM contra decisão do Tribunal Regional do Trabalho da 2ª Região, sob a alegação de violação da autoridade desta Suprema Corte a partir do julgado na ADC 16 e de afronta ao enunciado 10 da Súmula Vinculante do Supremo Tribunal Federal.
+    Eis o teor da decisão reclamada:
+    “Responsabilidade subsidiária. Terceirização. Sociedade de Economia Mista. Matéria já superada na jurisprudência do Tribunal Superior do Trabalho (Súmula 331, item IV). A regra contida no art. 71 da Lei 8.666/93 não afasta as disposições legais de proteção ao trabalho, que envolvem, em última análise, a dignidade da pessoa humana, além do valor social do trabalho, que formam princípios sobre os quais se assenta a República, conforme art. 1º, incisos III e IV da Constituição. Recurso Ordinário a que se nega provimento.”
+    Narra a reclamante que o Tribunal Regional do Trabalho da 2ª Região deu provimento ao Recurso Ordinário em ação trabalhista, com fundamento na Súmula 331, do C. Tribunal Superior do Trabalho e na inaplicabilidade do artigo 71, §1º, da Lei 8.666/1993.
+    Alega que a decisão viola a autoridade do julgado na ADC 16, bem como a Súmula Vinculante nº 10/STF, uma vez que reconheceu a condenação subsidiária da reclamante ao pagamento das parcelas deferidas a empregado da empresa VERDES CAMPOS CONSTRUTORA DE CASIMIRO ABREU LTDA, contratada sob a égide das normas legais retro mencionadas.
+    Segue aduzindo que “não poderia ocorrer a condenação subsidiária da empresa contratante, apenas pela mera inadimplência do contratado, reconhecendo que isso não significaria que eventual omissão da Administração Pública, na obrigação de fiscalizar obrigações do contratado, não viesse a gerar essa responsabilidade”.
+    O reclamante sustenta que o ato reclamado “fundamentou sua decisão na mera condição de tomadora dos serviços e na culpa genérica, sem examinar a documentação trazida pela CPTM, principalmente aquela que mostra a rescisão de contrato com a empresa terceirizada por ausência de prestação de contas do correto adimplemento das cláusulas contratuais”.
+    Requer, “[...] A concessão de medida liminar para SUSPENDER o r. acórdão da 11ª Turma do mesmo E. Tribunal” e, no mérito, “seja julgada procedente a presente RECLAMAÇÃO CONSTITUCIONAL para cassar o v. acórdão proferido pela 11ª turma do mesmo Tribunal, que afastou a aplicação e interpretou o § 1º art. 71 da Lei Federal 8.666/93 em total afronta à autoridade da decisão do Supremo Tribunal Federal que declarou a constitucionalidade do referido dispositivo, na forma julgada nos autos da ADC 16, em 24/11/2010, determinando, consequentemente, que a nobre 11ª turma do TRT/2ª Região profira nova decisão, em respeito à autoridade da decisão do Colendo Supremo Tribunal Federal”.
+    Em 19/9/2017 determinei a emenda da inicial para que a reclamante, no prazo de 15 (quinze) dias, atribuísse valor à causa correspondente ao da demanda originária, atualizado, bem como para formular pedido de gratuidade de justiça ou recolher as custas processuais.
+    É o relatório. DECIDO.
+    Verifico que houve o transcurso do prazo de 15 (quinze) dias sem que a reclamante se manifestasse nos autos.
+    Dessa forma, tem-se que a autora incorreu em nítido descumprimento de diligência.
+    Ex positis, indefiro a petição inicial e julgo extinto o processo sem resolução de mérito, nos termos do art. 485, I, e do art. 321 do CPC/ 2015.
+    Publique-se.
+    Brasília, 10 de novembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
