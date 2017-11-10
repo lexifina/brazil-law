@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal Regional Federal da 2ª Região assentou competir a Vara Federal de Execução Fiscal o julgamento de execução de título extrajudicial relativo a acórdão do Tribunal de Contas da União, considerada a legislação de regência. No extraordinário cujo trânsito pretende alcançar, a recorrente aponta a violação do artigo 71, § 3º, da Constituição Federal. Alega a desnecessidade de se inscrever em dívida ativa as condenações do Tribunal de Contas, porquanto dotadas de liquidez, certeza e exigibilidade, a implicar a competência de Vara Federal Cível e a observância do rito previsto no Código de Processo Civil.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    2. Com razão o Juízo suscitado. Conforme o artigo 39, § 2º, da Lei nº 4.320/1964, c/c artigo 1º da Lei nº 6.822/80, os acórdãos condenatórios proferidos pelo TCU enquadram-se no conceito de dívida ativa não tributária, que deve ser cobrada através de execução fiscal, em obediência ao disposto no artigo 2º da Lei nº 6.830/80, sendo desnecessária a materialização dos títulos executivos extrajudiciais decorrentes de tais acórdãos através de Certidão de Dívida Ativa.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, em especial a Lei de Execuções Fiscais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário, quanto ao desrespeito do citado dispositivo constitucional, apesar da interposição de embargos declaratórios, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Deixo de majorar os honorários recursais, previstos no artigo 85, § 11, do citado diploma legal, porquanto ausente fixação de verba sucumbencial na origem.
+    4. Publiquem.
+Brasília, 10 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
