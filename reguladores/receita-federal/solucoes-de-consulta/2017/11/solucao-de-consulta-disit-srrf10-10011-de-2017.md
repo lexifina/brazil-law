@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF10 nº 10011, de 5 de outubro de 2017
+ASSUNTO: Imposto sobre a Renda de Pessoa Física
+EMENTA: PAGAMENTO DE PRECATÓRIOS POSTERIOR AO FALECIMENTO DO AUTOR DA AÇÃO JUDICIAL. RENDIMENTOS TRIBUTÁVEIS. CONTRIBUINTE.
+Valores referentes a precatórios pagos aos sucessores, decorrentes de ação judicial cujo autor faleceu sem deixar bens, não se enquadram como herança. Tais valores constituem rendimentos tributáveis, em relação aos quais os sucessores revestem a condição de contribuintes.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 198, DE 5 DE AGOSTO DE 2015.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), arts. 43, 45 e 111; Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda e Proventos de Qualquer Natureza (RIR/1999), arts. 2º, caput e § 2º, 37, 38 e 39, inciso XV.
+[arquivo anexo: SC SRRF10-Disit nº 10011-2017.pdf]
