@@ -1,0 +1,2 @@
+Art. 456-A. Cabe ao empregador definir o padrão de vestimenta no meio ambiente laboral, sendo lícita a inclusão no uniforme de logomarcas da própria empresa ou de empresas parceiras e de outros itens de identificação relacionados à atividade desempenhada.
+Parágrafo único. A higienização do uniforme é de responsabilidade do trabalhador, salvo nas hipóteses em que forem necessários procedimentos ou produtos diferentes dos utilizados para a higienização das vestimentas de uso comum.

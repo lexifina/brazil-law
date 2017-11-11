@@ -1,0 +1,2 @@
+Art. 75-D. As disposições relativas à responsabilidade pela aquisição, manutenção ou fornecimento dos equipamentos tecnológicos e da infraestrutura necessária e adequada à prestação do trabalho remoto, bem como ao reembolso de despesas arcadas pelo empregado, serão previstas em contrato escrito.
+Parágrafo único. As utilidades mencionadas no caput deste artigo não integram a remuneração do empregado.
