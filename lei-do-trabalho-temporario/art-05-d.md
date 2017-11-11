@@ -1,0 +1,1 @@
+Art. 5º-D. O empregado que for demitido não poderá prestar serviços para esta mesma empresa na qualidade de empregado de empresa prestadora de serviços antes do decurso de prazo de dezoito meses, contados a partir da demissão do empregado.
