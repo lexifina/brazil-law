@@ -1,0 +1,1 @@
+Art. 883-A. A decisão judicial transitada em julgado somente poderá ser levada a protesto, gerar inscrição do nome do executado em órgãos de proteção ao crédito ou no Banco Nacional de Devedores Trabalhistas (BNDT), nos termos da lei, depois de transcorrido o prazo de quarenta e cinco dias a contar da citação do executado, se não houver garantia do juízo.

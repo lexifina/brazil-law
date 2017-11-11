@@ -1,0 +1,1 @@
+Art. 477-A. As dispensas imotivadas individuais, plúrimas ou coletivas equiparam-se para todos os fins, não havendo necessidade de autorização prévia de entidade sindical ou de celebração de convenção coletiva ou acordo coletivo de trabalho para sua efetivação.

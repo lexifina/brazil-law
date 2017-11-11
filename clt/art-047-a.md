@@ -1,0 +1,1 @@
+Art. 47-A. Na hipótese de não serem informados os dados a que se refere o parágrafo único do art. 41 desta Consolidação, o empregador ficará sujeito à multa de R$ 600,00 (seiscentos reais) por empregado prejudicado.

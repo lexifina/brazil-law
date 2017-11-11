@@ -1,0 +1,1 @@
+Art. 5º-C. Não pode figurar como contratada, nos termos do art. 4º-A desta Lei, a pessoa jurídica cujos titulares ou sócios tenham, nos últimos dezoito meses, prestado serviços à contratante na qualidade de empregado ou trabalhador sem vínculo empregatício, exceto se os referidos titulares ou sócios forem aposentados.

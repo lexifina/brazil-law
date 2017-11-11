@@ -1,0 +1,1 @@
+Art. 477-B. Plano de Demissão Voluntária ou Incentivada, para dispensa individual, plúrima ou coletiva, previsto em convenção coletiva ou acordo coletivo de trabalho, enseja quitação plena e irrevogável dos direitos decorrentes da relação empregatícia, salvo disposição em contrário estipulada entre as partes.

@@ -1,0 +1,1 @@
+Art. 223-B. Causa dano de natureza extrapatrimonial a ação ou omissão que ofenda a esfera moral ou existencial da pessoa física ou jurídica, as quais são as titulares exclusivas do direito à reparação.
