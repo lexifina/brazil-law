@@ -1,0 +1,2 @@
+Art. 59-B. O não atendimento das exigências legais para compensação de jornada, inclusive quando estabelecida mediante acordo tácito, não implica a repetição do pagamento das horas excedentes à jornada normal diária se não ultrapassada a duração máxima semanal, sendo devido apenas o respectivo adicional.
+Parágrafo único. A prestação de horas extras habituais não descaracteriza o acordo de compensação de jornada e o banco de horas.

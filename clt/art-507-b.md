@@ -1,0 +1,2 @@
+Art. 507-B. É facultado a empregados e empregadores, na vigência ou não do contrato de emprego, firmar o termo de quitação anual de obrigações trabalhistas, perante o sindicato dos empregados da categoria.
+Parágrafo único. O termo discriminará as obrigações de dar e fazer cumpridas mensalmente e dele constará a quitação anual dada pelo empregado, com eficácia liberatória das parcelas nele especificadas.

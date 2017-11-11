@@ -1,5 +1,6 @@
 Art. 20. A conta vinculada do trabalhador no FGTS poderá ser movimentada nas seguintes situações:
 I - despedida sem justa causa, inclusive a indireta, de culpa recíproca e de força maior;
+I-A - extinção do contrato de trabalho prevista no art. 484-A da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto- Lei nº 5.452, de 1º de maio de 1943;
 II - extinção total da empresa, fechamento de quaisquer de seus estabelecimentos, filiais ou agências, supressão de parte de suas atividades, declaração de nulidade do contrato de trabalho nas condições do art. 19-A, ou ainda falecimento do empregador individual sempre que qualquer dessas ocorrências implique rescisão de contrato de trabalho, comprovada por declaração escrita da empresa, suprida, quando for o caso, por decisão judicial transitada em julgado;
 III - aposentadoria concedida pela Previdência Social;
 IV - falecimento do trabalhador, sendo o saldo pago a seus dependentes, para esse fim habilitados perante a Previdência Social, segundo o critério adotado para a concessão de pensões por morte. Na falta de dependentes, farão jus ao recebimento do saldo da conta vinculada os seus sucessores previstos na lei civil, indicados em alvará judicial, expedido a requerimento do interessado, independente de inventário ou arrolamento;
