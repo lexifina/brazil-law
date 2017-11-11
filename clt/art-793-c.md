@@ -1,0 +1,4 @@
+Art. 793-C. De ofício ou a requerimento, o juízo condenará o litigante de má-fé a pagar multa, que deverá ser superior a 1% (um por cento) e inferior a 10% (dez por cento) do valor corrigido da causa, a indenizar a parte contrária pelos prejuízos que esta sofreu e a arcar com os honorários advocatícios e com todas as despesas que efetuou.
+§ 1º Quando forem dois ou mais os litigantes de má-fé, o juízo condenará cada um na proporção de seu respectivo interesse na causa ou solidariamente aqueles que se coligaram para lesar a parte contrária.
+§ 2º Quando o valor da causa for irrisório ou inestimável, a multa poderá ser fixada em até duas vezes o limite máximo dos benefícios do Regime Geral de Previdência Social.
+§ 3º O valor da indenização será fixado pelo juízo ou, caso não seja possível mensurá-lo, liquidado por arbitramento ou pelo procedimento comum, nos próprios autos.
