@@ -1,0 +1,13 @@
+ANEXO I
+TABELA DE CÓDIGOS DE RECEITAS
+a
+[arquivo anexo: Anexo I .pdf]
+ANEXO II
+TABELAS RELATIVAS A RENDIMENTOS DE BENEFICIÁRIO NO EXTERIOR
+a
+[arquivo anexo: Anexo II .pdf]
+ANEXO III
+TABELA DE CÓDIGOS DOS PAÍSES
+a
+[arquivo anexo: Anexo III .pdf]
+.
