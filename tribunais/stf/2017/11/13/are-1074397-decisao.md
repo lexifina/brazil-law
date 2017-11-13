@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Cerealista Palotinense Ltda. – ME contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NULIDADE DO TÍTULO EXECUTIVO.
+    É válida a CDA que, preenchendo os requisitos legais, permite a identificação de todos os aspectos do débito, inclusive da forma de cálculo da correção monetária e dos consectários moratórios.
+    PRESCRIÇÃO INTERCORRENTE. INÉRCIA.
+    Não demonstrada, em exceção de pré-executividade, a inércia da exequente na persecução de seu crédito e nem determinada a suspensão da execução com base no art. 40 da Lei nº 6.830, de 1980, não cabe reconhecer prescrição intercorrente, a qual não fica caracterizada tão somente pelo transcurso do tempo.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceito inscrito na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal:
+    “(...), quanto à alegação de nulidade, tenho que a certidão de dívida ativa (evento 1, OUT3, fls. 7-13) preenche, sob o ponto de vista formal, os requisitos legais elencados na Lei de Execução Fiscal, conforme se pode vislumbrar do cotejo entre ambos. Nela estão consignados: o nome do devedor e seu domicílio tributário; o valor originário da dívida (totalização e por competência, em moeda) e a maneira de calcular os acréscimos legais (correção monetária e juros); o número de inscrição na dívida ativa e a data de inscrição. Registrado, ainda, o número do processo administrativo.
+    Tais referências são suficientes, porquanto, acopladas à legislação pertinente (fundamento legal), permitem ao executado tomar conhecimento da natureza e origem da dívida, forma de atualização e incidência de juros, multa e demais encargos.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 689.102-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI – AI 746.770/SP, Rel. CÁRMEN LÚCIA – AI 763.239- -AgR/RJ, Rel. Min. ELLEN GRACIE – AI 790.347/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA - CDA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (AI 764.809-AgR/RS, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 13 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
