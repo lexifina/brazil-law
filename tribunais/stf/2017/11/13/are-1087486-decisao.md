@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro, reformando parcialmente o entendimento do Juízo, julgou procedente o pedido de condenação do Bradesco ao pagamento de indenização decorrente de demora no atendimento, de ausência de distribuição de senhas e de falta de assentos disponíveis para os clientes. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação do artigo 5º, incisos II, XXXVI e LV, § 2º, 21, inciso XXXIV, 22 e 170 da Constituição Federal. Argui nulidade processual por cerceamento de defesa, considerado o indeferimento da produção probatória. Aponta a competência privativa da União para legislar e fiscalizar a matéria. Diz ferida a livre iniciativa e o direito adquirido.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    A possibilidade de reparação dos danos morais coletivos nas ações civis públicas de consumo encontra-se prevista no CDC e na LACP, conforme se transcreve:
+    [...]
+    No caso concreto, entende-se que a indenização arbitrada pelo magistrado a quo merece redução, pois, restou evidenciado que ao longo do processo, o mesmo investiu na melhoria do atendimento, atenuando as condições inadequadas que existiam no início da ação, muito embora, sublinhe-se, a ação civil pública tem efeitos preventivos e prospectivos, ad futurum.
+    Considerando, ainda, o alto poderio econômico do réu, bem como que este deixou de efetuar gastos com pessoal e modernização das instalações durante longo período de tempo, única razão dos transtornos aos usuários do serviço, fixa-se o quantum indenizatório em R$ 300.000,00 (trezentos mil reais), de molde a coibir a reiteração das falhas por parte do demandado.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária. Por outro lado, o ato impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    Acresce que o Tribunal, no recurso extraordinário com agravo nº 639.228/RJ, consignando a natureza infraconstitucional da questão, concluiu não ter repercussão geral o tema relativo à suposta ofensa aos princípios da ampla defesa e do contraditório quando o juiz indefere pedido de produção de provas.
+    Por fim, o Tribunal, no julgamento do recurso extraordinário nº 610.221/SC, relatado pela ministra Ellen Gracie, reafirmou o entendimento jurisprudencial e concluiu competir aos municípios legislar sobre assuntos de interesse local, tais como medidas que propiciem segurança, conforto e rapidez aos usuários de serviços bancários, nos termos do artigo 30, incisos I e II, da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 13 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
