@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “RECURSO INOMINADO. PRINCÍPIO DA DIALETICIDADE. ABONO DE PERMANÊNCIA. SERVIDOR PÚBLICO ESTADUAL. PREENCHIMENTO DOS REQUISITOS PREVISTOS NO ART. 40, § 19, DA CONSTITUIÇÃO FEDERAL. TERMO INICIAL. REQUERIMENTO EXPRESSO POR PARTE DO SERVIDOR PÚBLICO. EXIGÊNCIA INEXISTENTE NO TEXTO CONSTITUCIONAL. NORMA CONSTITUCIONAL AUTOAPLICÁVEL. INÍCIO LA PARTIR DO IMPLEMENTO DAS CONDIÇÕES PARA A APOSENTADORIA VOLUNTÁRIA. OPÇÃO TÁCITA.
+    I - O fato da parte reiterar no recurso fundamentos da petição inicial e impugnação, por si só, não é motivo para o não conhecimento da apelação. A reprodução se justifica na medida em que eles não foram acolhidos pela sentença, o que demonstra seu interesse em reafirmá-los na segunda instância (RJM 200/142: AP 1.0701.10.041301-5/001);
+    II - O servidor público que tenha completado as exigências para aposentadoria voluntária estabelecida no § 1°, inciso 111, alínea 'a', da Constituição Federal, e que opte por permanecer em atividade fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para a aposentadoria compulsória;
+    III - A partir do momento em que o servidor público reúne os requisitos para a concessão da aposentadoria voluntária e permanece em atividade, passa a fazer jus á percepção do benefício do abono permanência, independentemente de requerimento, pois, embora o abono permanência se trate de um direito facultativo de cada servidor, em momento algum o legislador restringiu tal direito a requerimento administrativo. Não pode a administração criar requisitos que não constam da Constituição. (Acórdão n. 495329, 20080110431164APC, Relator JOÃO BATISTA TEIXEIRA, 3" Turma Cível, julgado em 16/02/2011, DJ 12/04/2011 p. 304);
+    IV - Restando incontroverso nos autos que a implementação dos requisitos para a aposentadoria se deu em 02/10/2013, este será o termo inicial do abono de permanência, e não a data do ingresso da ação;
+    V - Sem custas e honorários advocatícios.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 40, § 19, da Constituição.
+    O recurso extraordinário não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com o entendimento do Supremo Tribunal Federal de que, uma vez preenchido os requisitos para o recebimento do abono de permanência, esse direito não pode estar condicionado a outra exigência. Nesse sentido, veja-se a ementa do RE 310.159-AgR, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Recurso extraordinário. Agravo regimental. 2. Aposentadoria. Direito adquirido quando preenchidos todos os requisitos. Súmula 359/STF. 3. Requerimento administrativo. Desnecessidade. Precedentes. 4. Agravo regimental a que se dá parcial provimento, tão-somente, para afastar a retroação da data de início da aposentadoria”.
+    Outro precedente: ARE 857.933-AgR, Rel.ª Min.ª Rosa Weber.
+    Diante do exposto, com base no art. 932, IV e VII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 13 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
