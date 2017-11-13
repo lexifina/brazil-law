@@ -1,0 +1,16 @@
+Decisão
+    Trata-se de Agravo contra decisão que negou seguimento a Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça de Goiás.
+    No apelo extremo, alegam-se, com amparo no art. 102, III, da Constituição Federal, violações a dispositivos constitucionais.
+    É o relatório. Decido.
+    O Tribunal de origem, com base no conteúdo probatório constante dos autos, confirmou decisão monocrática que, no âmbito de ação civil pública, determinou a interdição do imóvel onde localizada delegacia de polícia, até o cumprimento pelo Estado de Goiás das adequações indicadas no laudos de inspeção dos órgãos de fiscalização, com o intuito de garantir as devidas condições de segurança e higiene dos servidores e usuários do distrito policial.
+    Verifica-se, portanto, que a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Quanto eventual ofensa ao art. 2º da Constituição Federal, a jurisprudência reiterada desta CORTE é no sentido de que o Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas a fim de assegurar direitos constitucionalmente reconhecidos como essenciais, sem que isso represente ofensa ao princípio da separação dos poderes. Nesse sentido:
+    RECURSO EXTRAORDINÁRIO – AÇÃO CIVIL PÚBLICA – OBRIGAÇÃO JURÍDICO-CONSTITUCIONAL QUE IMPÕE AOS ESTADOS O DEVER DE OBSERVÂNCIA DOS DIREITOS CONSTITUCIONAIS DOS PRESOS – REALIZAÇÃO DE OBRAS EM ESTABELECIMENTOS PENAIS – IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS – VIOLAÇÃO AOS PRINCÍPIOS DA SEPARAÇÃO DOS PODERES E DA RESERVA DO POSSÍVEL – INOCORRÊNCIA – REPERCUSSÃO GERAL DA MATÉRIA QUE O PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL RECONHECEU NO JULGAMENTO DO RE 592.581/RS – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, ANTE A AUSÊNCIA DE CONDENAÇÃO EM VERBA HONORÁRIA NA ORIGEM – AGRAVO INTERNO IMPROVIDO.(RE 1.026.698-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 9/8/2017)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. SEGURANÇA PÚBLICA. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. NÃO CARACTERIZAÇÃO. PRECEDENTES. 1. O Supremo Tribunal Federal já decidiu ser lícito ao Judiciário impor à Administração Pública obrigação de fazer, consistente na promoção de medidas ou na execução de obras emergenciais em estabelecimentos prisionais, tendo em conta a supremacia da dignidade da pessoa humana (RE 592.581-RG, Rel. Min. Ricardo Lewandowski) 2. Agravo regimental a que se nega provimento.(RE 930.454-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 16/9/2016)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 13 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
