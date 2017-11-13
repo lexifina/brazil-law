@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro confirmou o entendimento do Juízo quanto à procedência do pedido de contagem de tempo de serviço de servidor público. No extraordinário cujo trânsito busca alcançar, o recorrente alega violados os artigos 2º, 37, cabeça, e 42, § 1º, da Constituição Federal. Diz contrariado o verbete nº 472 da Súmula do Supremo. Aponta afronta ao princípio da separação dos Poderes. Defende o direito de a administração rever atos nulos. Afirma o não preenchimento dos requisitos legais para a averbação do período laborado.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida os seguintes trechos:
+    Conta-se, pois, para todos os efeitos, como tempo de serviço público, o período de trabalho prestado, na qualidade de aluno aprendiz, em Escola Pública Profissional, desde que comprovada a retribuição pecuniária à conta do Orçamento, admitindo-se, como tal, o recebimento de alimentação, fardamento, material escolar e parcela de renda auferida com a execução de encomendas para terceiros, como atestam as certidões fornecidas pelo colégio estadual.
+    Nesse contexto, tem-se clara a possibilidade de averbação como tempo de serviço público do período de trabalho como aluno aprendiz, conforme entendimento consolidado na Súmula nº 96 do Tribunal de Contas da União, que assim dispõe: “Conta-se para todos os efeitos, como tempo de serviço público, o período de trabalho prestado na qualidade de aluno aprendiz, em escola pública profissional, desde que comprovada a retribuição à conta do orçamento, admitindo como tal o recebimento de alimentação, fardamento, material escolar e parcela de renda auferida com a execução de encomendas para terceiros”.
+    Conclui-se não haver qualquer óbice ou impossibilidade de se admitir a averbação do período em que o autor foi aprendiz no Colégio Estadual José Lannes Dantas Brandão, para fins de percepção de triênios, uma vez que comprovados os requisitos estabelecidos pelo enunciado nº 96 do Tribunal de Contas da União.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais em R$ 250,00 (duzentos e cinquenta reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 13 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
