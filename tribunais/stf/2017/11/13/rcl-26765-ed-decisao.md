@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de embargos de declaração opostos  a decisão que, por mim proferida em 31/10/2017, negou seguimento à reclamação ajuizada pela parte reclamante, ora embargante.
+    Sustenta-se, nesta sede recursal, a ocorrência de vícios a que se refere o art. 1.022 do CPC.
+    Cabe verificar, inicialmente, se se revelam processualmente viáveis os presentes embargos de declaração, considerada a norma inscrita no art. 1.024, § 2º, do CPC, e tendo em vista, ainda, os poderes que essa mesma regra legal confere ao Relator da causa.
+    Os embargos de declaração, como se sabe, destinam-se, precipuamente, a desfazer obscuridades, a afastar contradições, a suprir omissões e a corrigir erros materiais que eventualmente se registrem na decisão impugnada. Essa modalidade recursal só permite o reexame do ato decisório embargado, quando utilizada com o específico objetivo de viabilizar um pronunciamento jurisdicional de caráter integrativo-retificador, vocacionado a afastar as situações de obscuridade, omissão, contradição ou erro material e a complementar e esclarecer o conteúdo da decisão proferida (RTJ 191/372-373 – RTJ 194/325-326, v.g.).
+    Desse modo, a decisão recorrida – que aprecia, como no caso, com plena exatidão e em toda a sua inteireza, determinada pretensão jurídica – não permite o emprego da via recursal dos embargos de declaração, sob pena de grave disfunção jurídico-processual dessa modalidade de recurso, eis que inocorrentes, em tal situação, os pressupostos que justificariam a sua adequada utilização:
+    “Embargos declaratórios. Inexistência de omissão, contradição, obscuridade ou dúvida, no acórdão embargado (art. 337 do RISTF).
+    Embargos rejeitados.”
+    (RTJ 134/1296, Rel. Min. SYDNEY SANCHES – grifei)
+    “EMBARGOS DE DECLARAÇÃO – INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO – EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    – Os embargos de declaração destinam-se, precipuamente,  a desfazer obscuridades, a afastar contradições e a suprir omissões que eventualmente se registrem no acórdão proferido pelo Tribunal.  A inocorrência dos pressupostos de embargabilidade, a que se refere o art. 535 do CPC, autoriza a rejeição dos embargos de declaração, por incabíveis.”
+    (AI 338.127-ED-AgR/SP, Rel. Min. CELSO DE MELLO)
+    O exame dos autos evidencia que a decisão ora embargada apreciou, de modo inteiramente adequado, as questões cuja análise apresentava-se cabível, não havendo, por isso mesmo, qualquer vício a corrigir, mesmo porque os fundamentos em que se apoiou o julgado objeto do presente recurso revelavam-se plenamente suficientes para desautorizar a pretensão jurídica deduzida pela parte embargante, tanto que foi negado seguimento à reclamação por ela ajuizada.
+    A inviabilidade dos presentes embargos de declaração, em decorrência da razão mencionada, impõe uma observação final: no desempenho dos poderes processuais de que dispõe, assiste ao Ministro Relator competência plena para exercer, monocraticamente, o controle das ações, pedidos ou recursos dirigidos ao Supremo Tribunal Federal, legitimando-se, em consequência, os atos decisórios que, nessa condição, venha a praticar.
+    Nem se alegue que tal procedimento implicaria transgressão ao princípio da colegialidade, eis que o postulado em questão sempre restará preservado ante a possibilidade de submissão da decisão singular ao controle recursal dos órgãos colegiados no âmbito do Supremo Tribunal Federal (CPC, art. 1.021, “caput”), consoante esta Corte tem reiteradamente proclamado (RTJ 181/1133-1134, Rel. Min. CARLOS VELLOSO – AI 159.892-AgR/SP, Rel. Min. CELSO DE MELLO, v.g.).
+    Sendo assim, em face das razões expostas, e considerando a competência do Relator para examinar a própria admissibilidade dos embargos de declaração, ainda que opostos a decisão monocrática, não conheço, por manifestamente incabíveis, dos presentes embargos de declaração (CPC, art. 1.024, § 2º).
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 13 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
