@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 111):
+    “Responsabilidade civil - Indenização por danos morais, estéticos e materiais - Erro médico - Litisconsórcio passivo - Fazenda Estadual - Inadmissibilidade - Hospital das Clínicas da FMUSP e Hospital Universitário da USP, autarquias que têm patrimônio próprio e responderão por eventual sentença condenatória por danos que causaram, não implicando litisconsórcio a responsabilidade subsidiária da pessoa jurídica de direito público da administração direta - Recurso não provido.”
+    O embargos de declaração opostos foram rejeitados (eDOC 1, p. 140).
+    No recurso extraordinário, com fundamento no permissivo constitucional do artigo 102, III, a, alega-se violação do art. 196 da Constituição da República. Sustenta-se a legitimidade passiva do ente público para atuar no feito em razão de convênio celebrado entre o SUS e os hospitais litisconsortes.
+    É o relatório. Decido.
+    O Tribunal de origem, quando do julgamento do recurso, assim consignou (eDOC 1, pp. 112-114):
+    “Todavia, correta a decisão agravada que excluiu o Estado de São Paulo do pólo passivo, extinguindo o processo em relação a ele, nos termos do artigo 267, VI, do CPC. O dever estatal de prestação médica difere da responsabilidade civil por falha na prestação de assistência médica cometida por agentes de autarquias. A jurisprudência do Superior Tribunal de Justiça é no sentido de que somente a autarquia, que tem personalidade jurídica e patrimônio próprios, tem legitimidade para figurar no pólo passivo da indenizatória de danos decorrentes de falha no serviço por ela prestado, a saber:
+    (…)
+    No presente caso, a responsabilidade do Estado é somente subsidiária, pois condicionada à impossibilidade da autarquia responder por suas obrigações.”
+    Nesse contexto, como se observa da leitura dos fundamentos acolhidos pelo voto condutor do acórdão, conforme consta na transcrição acima, eventual divergência em relação ao entendimento adotado pelo Tribunal a quo, em relação à responsabilidade civil subsidiária do ente público, demandaria o exame do conjunto fático-probatório dos autos, bem como da legislação infraconstitucional aplicável à espécie. Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo, além da vedação contida na Súmula 279 do STF. Nesse sentido, confira-se:
+     “direito administrativo. responsabilidade subsidiária. união. estado do rio grande do sul. obrigação principal. lei 11.738/2008. pressupostos processuais. negativa de prestação jurisdicional. artigo 93, IX, da constituição da república. nulidade. inocorrência. razões de decidir explicitadas pelo órgão jurisdicional. legitimidade ad causam. debate de âmbito infraconstitucional. eventual violação reflexa da constituição da república não viabiliza o manejo de recurso extraordinário. acórdão recorrido publicado em 12.4.2012.
+     1. Inexiste violação do artigo 93, IX, da Constituição Federal. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes.
+     2. A discussão acerca da legitimidade passiva ad causam da União dependeria de prévia análise da legislação processual aplicada à espécie, o que refoge à competência jurisdicional extraordinária prevista no art. 102 da Magna Carta.
+     3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+     4. Agravo regimental conhecido e não provido.” (RE 894.412 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 5.11.2015).
+    Ante o exposto, nego provimento ao recurso, nos termos do 932, IV, a, do CPC, c/c o art. 21, § 1º do RISTF.
+    Publique-se.
+    Brasília, 13 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
