@@ -1,0 +1,11 @@
+DESPACHO:
+    1. Trata-se de mandado de segurança, com pedido liminar, impetrado contra ato do Tribunal de Contas da União (TCU) que, mediante o acórdão nº 3.071/2011, confirmado pelo acórdão nº 2.833/2012, determinou à Eletrobrás - Centrais Elétricas Brasileiras S.A, ora impetrante, que se abstivesse de prorrogar o prazo de vigência do contrato por ela firmado com sociedade de advogados para acompanhar processos judicias em que é parte ou terceira interessada no Estado do Paraná (Tomada de Preços DAC 02/2011).
+    2. Segundo o ato impugnado, como a Eletrobrás, sociedade de economia mista, possui advogados em seu quadro de pessoal, e o serviço objeto da Tomada de Preços DAC 02/2011, da forma como consta do edital, tem caráter continuado, a contratação de advogados por licitação viola o art. 37, II, da Constituição.
+    3. A impetrante pede a anulação do ato impugnado. Justifica a contratação na ausência de vedação legal, na impossibilidade de ampliação de seu quadro de pessoal, na menor onerosidade e na transitoriedade do serviço. Afirma, na inicial, que o objeto do contrato restringe-se, basicamente, a ações relativas ao empréstimo compulsório de energia elétrica e que a estimativa de finalização dos processos gira em torno de cinco anos.
+    4. O Min. Joaquim Barbosa, relator originário do feito, indeferiu o pedido liminar (doc. 15). Contra a decisão liminar, a parte impetrante interpôs agravo regimental (doc. 20). O TCU prestou as informações solicitadas (doc. 23). A União requereu ingresso no feito (doc. 25). A Procuradoria-Geral da República manifestou-se pela denegação da ordem (doc. 27).
+    5. Observo que (i) já ultrapassado o prazo estimado para a duração dos processos judiciais em questão; (ii) é bem provável que tais processos, se ainda pendentes, estejam tramitando nas Cortes Superiores, as quais se localizam em Brasília, onde tem sede a sociedade impetrante; e (iii) não justificaria mais a contratação a existência de poucos processos em trâmite na Justiça do Estado do Paraná.
+    6. Diante do exposto, intimem-se as partes e a PGR, no prazo sucessivo de 05 (cinco) dias cada, a começar pela impetrante, para que informem sobre possível perda do objeto do writ, justificando sua manifestação.
+     Publique-se. Intimem-se.
+          Brasília, 13 de novembro de 2017.
+Ministro LUÍS ROBERTO BARROSO
+Relator
