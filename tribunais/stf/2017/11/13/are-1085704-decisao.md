@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, IV, 5º, caput, II, XXII, XIV e XXV, 37, caput e § 6º, 49, I, 87, I, 170, II, parágrafo único, 174 e 237 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos arts. 1º, IV, 5º, caput, II, XXII, XIV e XXV, 37, caput e § 6º, 49, I, 87, I, 170, II, parágrafo único, 174 e 237 da Constituição da República. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário. Administrativo. Prequestionamento. Ausência. Plano de retenção do café. Portaria Interministerial nº 197/2000. Poder regulamentar. Alegação de excesso. Legislação infraconstitucional. Ofensa reflexa. Responsabilidade objetiva do Estado. Nexo de causalidade. Dever de indenizar. Fatos e provas. Reexame. Impossibilidade. 1. É inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. A verificação de suposto excesso na regulamentação de lei pela Administração Pública, mediante ato infralegal, não prescinde da análise dos atos normativos envolvidos, a qual é inadmissível em recurso extraordinário. Incidência da Súmula nº 636/STF. 3. A Corte de origem, assentou que não há nos autos prova do nexo de causalidade entre a conduta da Administração e o dano patrimonial alegado. 4. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 5. Agravo regimental não provido.” (RE 775991 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 15/03/2016, ACÓRDÃO ELETRÔNICO DJe-085 DIVULG 29-04-2016 PUBLIC 02-05-2016)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
