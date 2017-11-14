@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “EMBARGOS DE DECLARAÇÃO – Execução de alimentos – Pedido de penhora de quantias depositadas em conta de FGTS – Execução que se encontra ainda em fase de citação – Não cabimento - Inexistência de vício a ser remediado – Prequestionamento - Embargos Rejeitados.” (eDOC 1, p. 98)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 1°, inciso III, do texto constitucional.
+    Nas razões recursais, alega-se que foram utilizados todos os meios disponíveis para a tentativa de citação do recorrido. Assevera-se que apesar das inúmeras tentativas todas restaram infrutíferas, pois não se localizou o recorrido. Sob essa ótica, aduz-se que se deve dar provimento ao recurso para que sejam deferidas “as medidas constritivas de bens em termos de penhora prévia à conclusão do ciclo citatório”. (eDOC. 2, p. 17)
+    É o Relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, Código de Processo Civil, e o conjunto probatório constante dos autos, consignou que não se encontram presentes os requisitos para a penhora, uma vez que a execução ainda encontra-se em fase inicial. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Registre-se que este relator admite em casos excepcionais, a possibilidade de bloqueio de eventuais valores depositados em conta de FGTS.
+    Tal medida, a meu ver, são medidas de apoio, como forma de coagir o devedor de alimentos a cumprir sua obrigação. Ademais, sendo menos gravosas que a própria prisão civil, não se vislumbra qualquer óbices à efetivação da medida, a teor do disposto nos artigos 613 e 620, ambos do Código de Processo Civil.
+    Não obstante, in casu, não se mostram presentes os requisitos autorizadores de tal medida. Isto porque, pelo que se infere dos autos, o processo executivo encontra-se ainda em sua fase inicial, não tendo sido citado o agravado após as tentativas frustradas.
+    Assim, correta a r. decisão que indeferiu o pedido pela constrição de bens do agravado.
+    4. Assim, cuidando-se de recurso manifestamente improcedente, nego-lhe seguimento, “ex vi” dos artigos 527, inciso I e 557 do Código de Processo Civil.” (eDOC. 1, p. 74) (grifo nosso)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTERPOSTO EM 12.12.2016. PROCESSO CIVIL. AÇÃO DE EXECUÇÃO. PENHORA DESALÁRIO. LEGISLAÇÃO INFRACONSTITCIONAL. OFENSA REFLEXA. 1. As execuções, quando determinada a penhora de valores referentes a rendimentos líquidos do executado, demandam a análise da legislação infraconstitucional aplicável à espécie. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Fica a parte vencida exonerada de honorários advocatícios, nos termos da Súmula 512 do STF.” (ARE 990.408-AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 21.6.2017)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CITAÇÃO POSTAL. OFENSA REFLEXA. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. AGRAVO IMPROVIDO. I - É pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância de normas processuais. Ofensa reflexa. Precedentes. II - Não há contrariedade ao art. 93, IX, da Magna Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III - Agravo regimental improvido” (AI 806.268 – AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 10.11.2010)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
