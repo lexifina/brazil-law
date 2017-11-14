@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao extraordinário em face da intempestividade.
+    O agravo não merece acolhida, dado que a recorrente deixou de atacar o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux, e ARE 752.372-AgR/MG, de minha relatoria.
+    Ainda que superado esse óbice, o extraordinário não prosperaria.
+    Isso porque o recorrente não demonstrou a existência de repercussão geral das questões constitucionais discutidas no caso, consoante determinam os arts. 102, § 3°, da CF; 1.035, § 2°, do CPC; e 327, § 1°, do RISTF. Nesse sentido, destaco o julgamento do RE 1.022.897-AgR/MG, de relatoria da Ministra Rosa Weber, cuja ementa transcrevo a seguir:
+    “DIREITO PROCESSUAL CIVIL. SEGURO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS AUTOMOTORES DE VIA TERRESTRE (DPVAT). INDENIZAÇÃO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    2. Não houve no recurso extraordinário, interposto sob a égide do CPC/2015, demonstração da existência de repercussão geral. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015.
+    3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    4. Agravo interno conhecido e não provido” (grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
