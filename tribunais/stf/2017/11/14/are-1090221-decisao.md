@@ -1,0 +1,24 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “Ação ordinária. Pensionistas de funcionários da antiga FEPASA. Complementação da pensão considerando como paradigma o cargo de Especialista V. Prescrição do fundo do direito afastada. Relação jurídica de trato sucessivo. Incidência da Súmula 85 do STJ. Art. 4°, § 2°, da Lei Estadual n° 9.343/1996, arts. 192 e 193, do Decreto n° 33.530/59 (Estatuto dos Ferroviários) e Enunciado n° 10 da Seção de Direito Público que apenas asseguram o reajuste das complementações de aposentadorias e pensões com base nos mesmos índices e datas aplicados aos salários dos servidores da ativa, sem que isso configure equiparação com os cargos da atual estrutura da CPTM. Ausência de demonstração de igualdade de condições entre o paradigma apontado e os instituidores das pensões. Sentença de improcedência. Recurso das autoras não provido” (pág. 240 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação aos arts. 5°, caput, XXXVI; 37, XV; 40, § 4° e § 8°; e 194, IV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Consta do voto condutor do acórdão recorrido:
+    “A Lei Estadual 9.342/96 autorizou a cisão do patrimônio da FEPASA e a incorporação parcial do patrimônio e de servidores pela CPTM, formalizado o respectivo Instrumento de Protocolo em 29.3.1996.
+    Dispõe a Lei Estadual 9.343/96 acerca do direito dos ferroviários à complementação de aposentadorias e pensões, a cargo da Fazenda do Estado, bem como do reajuste desses benefícios pelos mesmos índices e datas, conforme acordo ou convenção coletiva de trabalho, ou dissídio coletivo na data-base da respectiva categoria dos ferroviários:
+    […]
+    E o Estatuto dos Ferroviários instituído pelo Decreto Estadual no à 35.530/1959, reforça a garantia ao aumento dos proventos em igualdade de condições com os salários dos servidores em atividade:
+    […]
+    Revendo posicionamento anterior, entendo que a legislação ó.~ citada assegura aos aposentados e pensionistas da antiga FEPASA o y reajuste seguindo os índices concedidos aos funcionários ativos da CPTM, sem implicar na equiparação dos cargos antigos com os existentes atualmente na sua estrutura.
+    […]
+    Dessa forma, as pensões percebidas pelas autoras devem sofrer á os reajustes concedidos aos servidores ativos da CPTM, apenas, não 0 existindo amparo legal para o pretendido reenquadramento do cargo após a aposentadoria dos ex-ferroviários.
+    A mera alegação das autoras de que "não há justificativa plausível' para que o reenquadramento de cargo concedido ao paradigma apontado não lhes seja também concedido, não é suficiente para o acolhimento do pleito.
+    Não demonstraram as autoras, ônus da prova que lhes incumbia, nos termos do art. 333, I, do CPC, a igualdade de condições entre o paradigma e os instituidores das pensões ao longo da carreira, impondo-se a improcedência da ação (págs. 242-246 do documento eletrônico 1).
+    Preliminarmente, acerca da alegada nulidade do acórdão recorrido, observo que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ademais, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos (Súmula 279/ STF) e das normas infraconstitucionais locais (Súmula 280/STF) pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Nesse mesmo sentido, cito o ARE 1.070.700, de relatoria do Ministro Roberto Barroso; ARE 1.065.959/SP, de relatoria do Ministro Celso de Mello; ARE 1.065.173/SP, de relatoria do Ministro Luiz Fux; ARE 1.036.112/SP, de relatoria do Ministro Gilmar Mendes; AI 762.347/SP, de relatoria da Ministra Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
