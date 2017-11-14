@@ -1,0 +1,26 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. CONTRATO DE FINANCIAMENTO ESTUDANTIL DE ENSINO SUPERIOR. ERRO DA INSTITUIÇÃO DE ENSINO UNIT NO PREENCHIMENTO DE FORMULÁRIO DE TRANSFERÊNCIA DE INSTITUIÇÃO. NEGATIVA DE SOLUÇÃO DA CONTENDA. LEGITIMIDADE ATIVA DO FNDE E DA UNIÃO. APELAÇÕES NÃO PROVIDAS.
+    1. Insurgências da União e do FNDE contra sentença que julgou procedente o pleito autoral, confirmando liminar anteriormente deferida, para determinar que a UNIÃO e a UNIT promovessem a regularização do nome do curso da autora e que finalizassem os procedimentos necessários para que esta possa fazer o aditamento não simplificado do seu contra do financiamento estudantil – FIES junto à CEF – Caixa Econômica Federal, determinando, ainda, que a UNIT promovesse a matrícula da requerente no curso de enfermagem (2012.2) sem cobranças de quaisquer taxas ou mensalidades acaso pendentes do semestre 2012.1 e que a União se abstivesse de cancelar o contrato de financiamento estudantil – FIES da autora firmado desde 10.06.2011.
+    2. A legitimidade ativa do FNDE – é nítida, tendo em vista ser o órgão gestor do FIES, financiamento ao qual aderiu a autora e foi cancelado em virtude do erro cometido pela UNIT. A própria Universidade, quando do pedido de correção das informações, informa que o FIES tem acesso aos mecanismos de modificação do erro. Assim, por ser o agente operador e administrador os ativos e passivos, necessária a sua presença na lide.
+    3. Em que pese não ter a Administração direta realizado nenhuma ilegalidade ou irregularidade, devida sua permanência na contenda, pois na presente ação, discute-se também aspectos relativos ao restabelecimento do FIES. O art. 3° da Lei 10.260/2001, que instituiu o Fundo de Financiamento ao Estudante do Ensino Superior – FIES, estabeleceu a competência do Ministério da Educação, órgão da Administração Pública Federal, para a gestão e regulamentação do processo seletivo para a concessão do respectivo financiamento.
+    4. A Autora possui contrato de financiamento estudantil junto ao FNDE n. 3962 desde 10.06.2011, regido pela Portaria n. 25 de 22/11/2011, que estabelece meio de correção de informações registradas do SisFIES.
+    5. Autora comprovou ter realizado diversas tentativas de correção do erro da UNIT, alimentando o SisFIES com informação de que estava apenas requerendo a transferência da Universidade, e não da Universidade e do curso, como a UNIT havia cadastrado sem, no entanto, obter êxito nas tentativas.
+    6. Comprovou a apelada que apresentou também junto ao FNDE e a CPSA da UNIT pedidos para corrigir a irregularidade cometida pela UNIT, porém, acabou por perder o prazo de aditamento do contrato junto ao FIES e a CEF, ficando também impedida de ser matriculada no segundo semestre de 2012, no curso de enfermagem, que cursava.
+    7. Apelações não providas“(págs. 188-189 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, caput; e 206, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Consta do voto condutor do acórdão recorrido:
+    “A Autora possui contrato de financiamento estudantil junto ao FNDE n. 3962 desde 10.06.2011, regido pela Portaria n. 25 de 22/12/2011, cujos arts. 5° e 6° dispõem:
+    […]
+    Consoante supramencionados dispositivos, os estudantes em geral possuem um meio de correção de informações registradas nos SisFIES.
+    Autora comprovou ter realizado diversas tentativas de correção do erro da UNIT, alimentando o SisFIES com informação de que estava apenas requerendo a transferência da Universidade, e não da Universidade e do curso, como a UNIT havia cadastrado, sem, no entanto, obter êxito nas tentativas.
+    Apresentou também junto ao FNDE e a CPSA da UNIT pedidos para corrigir a irregularidade cometida, porém, acabou por perder o prazo de aditamento do contrato junto ao FIES e à CEF, ficando também impedida de ser matriculada no segundo semestre de 2012; no curso de enfermagem, que cursava.
+    […]
+    Assim, a conduta da UNIT consistiu em negativa, quando a própria Universidade poderia ter resolvido a situação de plano. Tanto assim, que, posteriormente, cumpriu a determinação em de tutela. Por sua vez, a conduta do FNDE foi omissiva, quanto à solução do impasse. Na verdade, faltou por parte das ora Apeladas, boa vontade na resolução do problema e a burocracia das instituições e o vai-e-vem dos e-mails e pedidos sem solução acabou findando na perda do convênio com o FIES” (págs. 185-186 do documento eletrônico 2).
+    Assim para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos (Súmula 279 do STF) e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Nesse mesmo sentido, cito o RE 1.087.929/SE, de relatoria do Ministro Luiz Fux; ARE 1.024.275/RN, de relatoria do Ministro Edson Fachin; ARE 1.036.952/SC, de relatoria do Ministro Marco Aurélio.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
