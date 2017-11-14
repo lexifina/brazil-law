@@ -1,0 +1,1 @@
+Art. 49. As instituições referidas nos incisos II e III do caput do art. 7º, na alínea "c" do inciso I do § 1º do art. 7º e nas alíneas "a", "b", "c" e "e" do inciso II do § 1º do art. 7º da Lei nº 4.829, de 5 de novembro de 1965, que apresentarem deficiência na aplicação de recursos no crédito rural sujeitam-se ao disposto nesta Lei.

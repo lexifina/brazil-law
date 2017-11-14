@@ -1,0 +1,1 @@
+Art. 56. Fica suspensa a prescrição de que trata a Lei nº 9.873, de 23 de novembro de 1999, durante a vigência do termo de compromisso de que tratam o § 5º do art. 11 da Lei nº 6.385, de 7 de dezembro de 1976, e os arts. 11, 12, 13, 14 e 15 desta Lei.

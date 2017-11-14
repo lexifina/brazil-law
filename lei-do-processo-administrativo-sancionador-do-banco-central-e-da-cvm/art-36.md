@@ -1,0 +1,6 @@
+Art. 36. O Banco Central do Brasil disciplinará as penalidades, as medidas coercitivas, os meios alternativos de solução de controvérsias e o processo administrativo sancionador previstos no Capítulo II desta Lei, e disporá sobre:
+I - a gradação das penalidades de multa, de proibição de prestar determinados serviços, de proibição de realizar determinadas atividades ou modalidades de operação e de inabilitação para atuar como administrador ou para exercer cargo em órgão previsto no estatuto ou no contrato social de pessoa mencionada no caput do art. 2º desta Lei;
+II - a multa cominatória e os critérios a serem considerados para a definição de seu valor, tendo em vista os seus objetivos;
+III - o cabimento, o tempo e o modo de celebração do termo de compromisso e do acordo administrativo em processo de supervisão e, no caso deste último instrumento, sobre os critérios para declarar a extinção da ação punitiva administrativa e para a aplicação da redução da penalidade;
+IV - o rito e os prazos do processo administrativo sancionador no âmbito do Banco Central do Brasil.
+Parágrafo único. Aplicam-se subsidiariamente aos processos administrativos sancionadores na esfera de atuação do Banco Central do Brasil as normas previstas na Lei nº 9.784, de 29 de janeiro de 1999, no que não conflitarem com aquelas previstas no Capítulo II desta Lei.

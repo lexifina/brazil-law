@@ -1,0 +1,1 @@
+Art. 39. O Banco Central do Brasil e a Comissão de Valores Mobiliários deverão coordenar suas atividades para assegurar o cumprimento de suas atribuições com a maior eficiência e o menor custo para os regulados.

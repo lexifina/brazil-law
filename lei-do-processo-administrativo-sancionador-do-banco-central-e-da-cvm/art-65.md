@@ -1,0 +1,2 @@
+Art. 65. O art. 29 da Lei nº 12.810, de 15 de maio de 2013, passa a vigorar com a seguinte redação:
+"Art. 29. A infração às normas legais e regulamentares que regem as atividades de depósito centralizado e de registro de ativos financeiros e de valores mobiliários sujeita as entidades autorizadas a exercer essas atividades, seus administradores e membros de conselhos fiscais, consultivos e assemelhados ao disposto na Lei nº 6.385, de 7 de dezembro de 1976, aplicável pela Comissão de Valores Mobiliários, e às demais disposições legais." (NR)
