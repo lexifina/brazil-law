@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, sob o fundamento de que a parte recorrente deixou de recolher a multa aplicada com base no § 2º do art. 557 do Código de Processo Civil/1973.
+    O agravo não merece acolhida, dado que os recorrentes deixaram de atacar o fundamento da decisão agravada – limitando-se a transcrever as razões do extraordinário, sem, contudo, desenvolver argumentação autônoma destinada a refutar a decisão que inadmitiu o apelo extremo –, o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Ademais, consoante assinalado na decisão agravada, a jurisprudência desta Corte está firmada no sentido de que o prévio depósito da multa aplicada, com base no art. 557, § 2º, do Código de Processo Civil/1973, configura pressuposto objetivo de recorribilidade, sendo certo que a ausência de recolhimento inviabiliza o conhecimento do recurso. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal cujas ementas seguem transcritas:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO NÃO ADMITIDO NA ORIGEM POR AUSÊNCIA DE RECOLHIMENTO DE MULTA IMPOSTA. MULTA PREVISTA NO ART. 557, § 2º, DO CPC/1973. AGRAVO INTERNO DESPROVIDO.
+    1.  O prévio depósito da multa estabelecida com base no art. 557, § 2º, do CPC/1973 configura pressuposto objetivo de recorribilidade. O seu não recolhimento inviabiliza o conhecimento do recurso. Precedentes.
+    2.  Agravo interno a que se nega provimento” (AI 749.559-AgR/RJ, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. MULTA PREVISTA NO ART. 557, § 2º, DO CPC. AUSÊNCIA DE RECOLHIMENTO. INTERPOSIÇÃO PREMATURA DO AGRAVO REGIMENTAL. AUSÊNCIA DE RATIFICAÇÃO. RECURSO EXTEMPORÂNEO. AGRAVO REGIMENTAL CONTRA ACÓRDÃO. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO. BAIXA IMEDIATA DOS AUTOS.
+    I - O prévio depósito da multa aplicada, com base no art. 557, § 2º, do Código de Processo Civil, configura pressuposto objetivo de recorribilidade, sendo certo que a ausência de recolhimento inviabiliza o recurso.
+    II - É extemporâneo o recurso interposto antes da publicação do acórdão de que se recorre, sem que haja a devida ratificação do ato no prazo recursal.
+    III - Esta Corte firmou o entendimento no sentido de que não cabe agravo regimental contra acórdão do Plenário ou de Turma. Inaplicabilidade do princípio da fungibilidade recursal ante a ocorrência de erro grosseiro.
+    IV – Configurado o abuso do direito de recorrer mediante o manifesto intuito protelatório do recurso, devem os autos baixar à origem independentemente de publicação do acórdão.
+    V - Agravo regimental não conhecido” (ARE 777.814-AgR-AgR-AgR-AgR/RJ, de minha relatoria, Segunda Turma – grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
