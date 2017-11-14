@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. IPVA. PAGAMENTO. VEÍCULO FINANCIADO. OBRIGAÇÃO DO CREDOR FIDUCIANTE. RECURSO NÃO PROVIDO.
+    - A exceção de pré-executividade "in thesi" pode ser oposta à execução fiscal, mas para tanto deverá vir em companhia de aliada prova que inquine o título exeqüendo de qualquer pecha de incerteza e iliquidez.
+    -A presunção de legitimidade do título executivo fiscal por si só e de regra se contrapõe à exceção de pré-executividade.
+    -Somente a imprestabilidade absoluta ou "ictu oculi" do título tisnado de inexecutividade se compraz com a exceção de pré-executividade.
+    -Na alienação fiduciária a responsabilidade pelo pagamento de IPVA de veiculo financiado recai sobre o credor fiduciante que na realidade é o titular do domínio do automotor” (pág. 159 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 146, III, a, e 155, III, da mesma Carta.
+    A pretensão recursal não merece prosperar.
+    O tribunal de origem, com apoio na legislação local aplicável à espécie (Lei Estadual 14.937/2003), firmou o entendimento de que, na alienação fiduciária, a responsabilidade pelo pagamento do IPVA de veículo financiado recai sobre o credor fiduciante.
+    Dessa forma, para concluir em sentido diverso, faz-se necessário o reexame da legislação local pertinente ao caso, o que é inviável nos termos da Súmula 280/STF. Nesse sentido, cito julgados de ambas as Turmas desta Corte:
+    “Ementa: DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA (CDA). IPVA. RESPONSABILIDADE TRIBUTÁRIA. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. LEI Nº 14.937/2003 DO ESTADO DE MINAS GERAIS. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. RECURSO MANEJADO EM 16.02.2016. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido” (ARE 936.170-AgR/MG, Rel. Min. Rosa Weber, Primeira Turma).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Imposto sobre Propriedade de Veículos Automotores (IPVA). 4. Responsabilidade solidária. Alienação fiduciária. 5. Lei estadual 14.937/03. 6. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 7. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 8. Ausência de argumentos capazes de infirmar a decisão agravada. 9. Agravo regimental a que se nega provimento” (ARE 935.555-AgR/MG, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+      Ministro Ricardo Lewandowski
+Relator
