@@ -1,0 +1,35 @@
+Trata-se de embargos de declaração, fundados no art. 1.022, III, do CPC, opostos contra decisão monocrática na qual neguei seguimento ao feito.
+    O embargante sustenta, inicialmente, que,
+    “[...] conforme se verifica da decisão embargada acima reproduzida, data maxima venia, este D. Relator incorreu em erro de premissa ao relatar, fundamentar e decidir sobre pedido diverso do que fora formulado pela Embargante, adotando-se como premissa que se tratava de Pedido de Concessão de Efeito Suspensivo a Recurso Extraordinário (art. 1.029, do CPC), enquanto o pedido da Embargante, tal como consta de sua inicial, se refere a Pedido de Tutela Provisória de Evidência (art. 311, do CPC), para SUSPENSÃO DO CRÉDITO TRIBUTÁRIO, nos termos do art. 151 do CTN, e NÃO efeito suspensivo ao recurso extraordinário” (pág. 2 do documento eletrônico 21).
+    Afirma, então, que,
+    “[...] diante da ausência de manifestação do Tribunal de origem sobre o pedido formulado nos autos originários, a Embargante então formulou Pedido de Tutela Provisória de Evidência, com fulcro no art. 311, inciso II, do CPC, perante esta C. Corte, pleiteando a declaração de suspensão da exigibilidade do crédito tributário na forma do art. 151, V, do CTN, amparada na tese de repercussão geral firmada pelo Plenário desta C. Corte no julgamento do RE 574.706/PR, por meio do qual restou decidido que o ‘O ICMS não compõe a base de cálculo para a incidência do PIS e da Cofins’.” (pág. 3 do documento eletrônico 21).
+    Entende, ademais, estar
+    “[...] demonstrado o erro material incorrido pela r. decisão embargada ao utilizar-se de premissa equivocada que não condiz aos fatos dos autos e, ainda, analisar pedido diverso do que fora formulado pela Embargante, devem ser acolhidos os presentes aclaratórios para que seja sanado o vício apontado e seja reformada a decisão embargada ” (pág. 4 do documento eletrônico 21).
+    Requer, por essas razões,
+    “[...] sejam conhecidos e providos os presentes Embargos de Declaração, inclusive com efeitos infringentes, a fim de que seja sanado o erro material verificado no d. decisium, de modo que haja manifestação expressa desse D. Juízo quanto às questões suscitadas e seja reformada a r. decisão embargada para suspender a exigibilidade do crédito tributário, na forma do art. 151, V, do CTN, e autorizar a exclusão do ICMS das parcelas futuras de PIS e COFINS, em conformidade com a tese de repercussão geral firmada no RE 574.706/PR” (pág. 4 do documento eletrônico 21).
+    É o relatório necessário. Decido.
+    A pretensão recursal não merece acolhida.
+    Conforme preceitua o CPC, art. 1.022, I, II e III, ressalto que há pressupostos certos para a oposição dos embargos de declaração, os quais, nestes autos, mostram-se ausentes. A insurgência na espécie reflete tão somente o inconformismo com o decidido.
+    Desse modo, verifico que a parte embargante, a pretexto de sanar suposta omissão ou contradição, busca apenas a rediscussão da matéria. Os embargos de declaração, por sua vez, não constituem meio processual adequado para a reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão.
+    Destaco, ainda, que o entendimento desta Corte é no sentido de que os embargos de declaração não se prestam à rediscussão da matéria, em decorrência de inconformismo da parte embargante. Nesse sentido: RE 580.330-AgR-ED/RJ, Rel. Min. Gilmar Mendes; ARE 906.026-AgR-ED/BA, Rel. Min. Cármen Lúcia; AI 768.149-AgR-ED/RS, Rel. Min. Teori Zavascki; AI 735.115-AgR/RS, Rel. Min. Dias Toffoli, entre outros.
+    Assim, a parte embargante deixou de observar os requisitos próprios do recurso manejado (art. 1.022, I, II e III, do CPC), uma vez que inexiste omissão, contradição ou obscuridade na decisão guerreada.
+    Observo, ainda, que o pedido formulado pela embargante na origem é idêntico ao formulado na presente ação, verbis:
+    “Diante do exposto, requer seja concedida a tutelta de evidência prevista no art. 311, inciso II do Código de Processo Civil (Lei n° 13.105/2015), tendo em vista que a matéria já se encontra pacificada pelo Supremo Tribunal Federal em julgamento do Recurso Extraordinário n° 574.706/PR com fixação de tese repercussão geral, com declaração de suspensão da exigibilidade do crédito tributário na forma do art. 151, V, do CTN, para que V. Exa. se digne a reconhecer o direito da Requerente à não inclusão do ICMS na base de cáclulo das parcelas futuras das contribuições ao PIS e da COFINS, sem que os valores sejam apontados em seu [sic] conta corrente, não impeçam a renovação de sua certidão de regularidade fiscal e nem enseje a inclusão da empresa no CADIN” (págs. 6-7 do documento eletrônico 12).
+    Verifica-se, desse modo, que a propositura deste feito reflete o inconformismo do reclamante com a ausência de pronunciamento pela instância ordinária, não cabendo a esta Corte analisar, per saltum, a matéria.
+    Ademais, mesmo que os embargos de declaração fossem acolhidos, ainda assim não seria o caso de deferimento do pedido formulado.
+    Com efeito, a parte requer “seja julgado procedente o PEDIDO DE TUTELA PROVISÓRIA DE EVIDÊNCIA” (pág. 7 do documento eletrônico 1) com base no disposto do art. 311 do Código de Processo Civil – CPC, verbis:
+    “Art. 311. A tutela da evidência será concedida, independentemente da demonstração de perigo de dano ou de risco ao resultado útil do processo, quando:
+    I - ficar caracterizado o abuso do direito de defesa ou o manifesto propósito protelatório da parte;
+    II - as alegações de fato puderem ser comprovadas apenas documentalmente e houver tese firmada em julgamento de casos repetitivos ou em súmula vinculante;
+    III - se tratar de pedido reipersecutório fundado em prova documental adequada do contrato de depósito, caso em que será decretada a ordem de entrega do objeto custodiado, sob cominação de multa;
+    IV - a petição inicial for instruída com prova documental suficiente dos fatos constitutivos do direito do autor, a que o réu não oponha prova capaz de gerar dúvida razoável.
+    Parágrafo único. Nas hipóteses dos incisos II e III, o juiz poderá decidir liminarmente” (grifei).
+    Obverso que se considera como julgamento de casos repetitivos a decisão proferida em: (i) incidente de resolução de demandas repetitivas e (ii) recursos especial e extraordinário repetitivos (art. 928 do CPC).
+    Todavia o pedido formulado é baseado em decisão proferida em julgamento de recurso extraordinário com repercussão geral, o que evidencia a sua manifesta inadmissibilidade, já que não se enquadra em nenhuma das hipóteses dos incisos do art. 928 do CPC.
+    A pretensão da embargante, portanto, mesmo que superada, implicaria na extinção prematura da ação.
+    Registro, por fim, que o embargante pretende exame per saltum de questão que pende de apreciação no Tribunal de origem, situação vedada pela jurisprudência pacífica desta Suprema Corte.
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
