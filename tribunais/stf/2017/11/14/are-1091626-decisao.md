@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Goiás, que deu parcial provimento à apelação do Estado, ante a ausência de comprovação das ilegalidades supostamente ocorridas durante teste de aptidão física a que foi submetido o recorrente durante o concurso para provimento do cargo de Soldado da Polícia Militar.
+    Os embargos de declaração opostos pelo Estado de Goiás foram acolhidos, sem efeitos modificativos, apenas para sanar a ocorrência de erro material, ao passo que os embargos opostos pelo ora recorrente foram rejeitados. Confira-se a ementa:
+    “EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA. ERRO MATERIAL. CORREÇÃO. OMISSÃO INOCORRENTE. AUSÊNCIA DOS PRESSUPOSTOS DO ART. 535, CPC. PREQUESTIONAMENTO.
+    I- Constatado nos autos a existência de erro material, impõe-se a sua correção, evitando-se confusões na interpretação do julgado.
+    II- Os Embargos de Declaração não se prestam à promoção, ainda que obliquamente, de reexame da causa, destinando-se tão somente sanar omissão e a esclarecer contradições ou obscuridades, nos termos do art. 535, do Código de Processo Civil.
+    III- ‘O julgador não está obrigado a abordar todos os pontos arguidos pelas partes e nem a se manifestar expressamente sobre todos os dispositivos elencados, sobretudo quando a apreciação da matéria é feita com fundamentação suficiente à dirimência da controvérsia.’
+    EMBARGOS DE DECLARAÇÃO CONHECIDOS, SENDO O PRIMEIRO ACOLHIDO E O SEGUNDO REJEITADO”. (eDOC 9, p. 3-4)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º e 37, caput, I e II, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, ofensa ao princípio da isonomia. Ademais, sustenta-se violação ao princípio da legalidade, uma vez que o Tribunal a quo entendeu pela inaplicabilidade da Portaria 42/2008 ao concurso em questão.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas edital do concurso público, consignou que a Portaria 42/2008 da PM/GO não se aplica ao concurso e que o recorrente não comprovou as ilegalidade apontadas no TAF.
+    Assim, divergir do entendimento firmado pelo Tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas editalícias, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. TESTE DE APTIDÃO FÍSICA. REPROVAÇÃO. ANÁLISE NO CONTEXTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. PRECEDENTES. DESPROVIMENTO DO AGRAVO. 1. É inviável o processamento do apelo extremo quando sua análise implica a análise no contexto fático-probatório. Incidência da Súmula 279 do STF. 2. Há necessidade de rever cláusulas editalícias que fundamentaram a conclusão do Tribunal de origem, tal providência é inadmissível em sede de recurso extraordinário, como expressamente reconhece a jurisprudência deste Tribunal. Incidência da Súmula 454 do STF. 3. Agravo Regimental a que se nega provimento”. (ARE-AgR 907.189, Rel. Min. Edson Fachin, Primeira Turma, DJe 15.4.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE-AgR 784.815, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 24.2.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
