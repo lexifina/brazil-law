@@ -1,1 +1,1 @@
-Art. 223-C. A honra, a imagem, a intimidade, a liberdade de ação, a autoestima, a sexualidade, a saúde, o lazer e a integridade física são os bens juridicamente tutelados inerentes à pessoa física.
+Art. 223-C. A etnia, a idade, a nacionalidade, a honra, a imagem, a intimidade, a liberdade de ação, a autoestima, o gênero, a orientação sexual, a saúde, o lazer e a integridade física são os bens juridicamente tutelados inerentes à pessoa natural.
