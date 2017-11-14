@@ -1,0 +1,10 @@
+Trata-se de dois agravos regimentais interpostos por Noemi Simei da Silva Amorim contra decisão monocrática de minha lavra (fls. 156/162), que julgou procedente ação rescisória.
+    O primeiro agravo regimental foi interposto por Alexandre Martire Lopes, advogado constituído por procuração à fl. 49, datada de 13 de novembro de 2006, e revogada tacitamente por procuração posterior (fl. 69), datada de 29 de novembro de 2006, uma vez que, segundo entendimento do Supremo Tribunal Federal, “[a] constituição de novo advogado para atuar na causa, sem ressalva ou reserva de poderes, representa revogação tácita do mandato anteriormente concedido” (Recurso Ordinário em Habeas Corpus 127.258 - Pernambuco, Rel. Min. Teori Zavascki). O caso, portanto, é de não conhecimento do agravo, uma vez que não há falar em preclusão consumativa quando o recurso foi interposto por advogado que não representa a parte.
+    O segundo agravo regimental, interposto por André Barbalho Torres, este sim o advogado que representa a ré nos autos, foi interposto, primeiramente, por fax, e protocolado em 27 de setembro de 2017. Posteriormente, foi protocolado em 29 de setembro de 2017, versão escrita da petição protocolada por fax.
+    Entretanto, mesmo considerada a data do protocolo via fax, o agravo regimental interposto é extemporâneo.
+    Com efeito, a decisão foi publicada em 4 de setembro de 2017 (fl. 163), iniciando-se o prazo no dia útil seguinte, portanto em 5 de setembro de 2017. Considerado o prazo de 15 (quinze) dias úteis para interposição do agravo interno, tal como disposto no art. 1.070 do Código de Processo Civil, e mesmo considerando o feriado o dia 7 de setembro de 2017, verifica-se que, inelutavelmente, o agravo regimental é intempestivo, porque o último dia do prazo foi dia 26 de setembro de 2017.
+    Pelos motivos expostos, deixo de conhecer dos agravos regimentais interpostos. Oportunamente, certifique-se o trânsito em julgado da decisão monocrática de fls. 156/162 e arquivem-se os autos.
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
