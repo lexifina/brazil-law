@@ -4,4 +4,3 @@ Art. 4º No exercício de suas atribuições, o Banco Central poderá examinar o
 § 3º Os pedidos de registro submetidos ao Banco Central, nos têrmos dos arts. 19 e 20 desta Lei, consideram-se deferidos dentro de 30 (trinta) dias da sua apresentação, se nesse prazo não forem indeferidos.
 § 4º A fluência do prazo referido no parágrafo anterior poderá ser interrompida uma única vez, se o Banco Central pedir informações ou documentos suplementares, em cumprimento das normas legais ou regulamentares em vigor.
 § 5º Ressalvado o disposto no § 3º, o Conselho Monetário Nacional fixará os prazos em que o Banco Central deverá processar os pedidos de autorização, registro ou aprovação previstos nesta Lei.
-§ 6º O Banco Central fará aplicar aos infratores do disposto na presente lei as penalidades previstas no capítulo V da Lei n. 4.595, de 31 de dezembro de 1964.
