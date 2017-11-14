@@ -1,0 +1,1 @@
+Art. 452-H. No contrato de trabalho intermitente, o empregador efetuará o recolhimento das contribuições previdenciárias próprias e do empregado e o depósito do FGTS com base nos valores pagos no período mensal e fornecerá ao empregado comprovante do cumprimento dessas obrigações, observado o disposto no art. 911-A.
