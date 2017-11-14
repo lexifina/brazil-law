@@ -1,0 +1,1 @@
+Art. 452-G. Até 31 de dezembro de 2020, o empregado registrado por meio de contrato de trabalho por prazo indeterminado demitido não poderá prestar serviços para o mesmo empregador por meio de contrato de trabalho intermitente pelo prazo de dezoito meses, contado da data da demissão do empregado.
