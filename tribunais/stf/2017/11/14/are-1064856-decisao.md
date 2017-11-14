@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado (eDOC 04, p. 590):
+    APELAÇÃO CRIMINAL – HOMICÍDIO QUALIFICADO - IRRESIGNAÇÃO DEFENSIVA - EXCLUSÃO DA QUALIFICADORA RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA - QUALIFICADORA CARACTERIZADA E RECONHECIDA PELO CONSELHO DE SENTENÇA - CONCRETUDE FÁTICA – UNIVERSO PROBATÓRIO QUE INVIABILIZA A VERSÃO DEFENSIVA TAREFA DOS JURADOS - OPÇÃO POR UMA DAS VERSÕES APRESENTADAS - SOBERANIA DAS DECISÕES DO CONSELHO DE SENTENÇA – CF, ART. 5°, XXXVIII, 'C' - RECONHECIMENTO E APLICAÇÃO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA - SÚMULA 545 DO STJ - POSSIBILIDADE DE RECONHECIMENTO - READEQUAÇÃO DA FRAÇÃO APLICADA PELA TENTATIVA - ARTIGO 14, II, DO CÓDIGO PENAL - QUANTUM JUSTIFICADO - ITER CRIMINIS - PROXIMIDADE DA CONSUMAÇÃO - FRAÇÃO ESCORREITA - READEQUAÇÃO DA MAJORAÇÃO DECORRENTE DO CONCURSO FORMAL - TRÊS INFRAÇÕES PENAIS - REDUÇÃO DE 2/5 (DOIS QUINTOS) PARA 1/5 (UM QUINTO). PRECEDENTES DO STJ - DOSIMETRIA - READEQUAÇÃO DA PENA-BASE - FUNDAMENTAÇÃO INIDÔNEA - RETIFICAÇÃO QUE SE IMPÕE - RECURSO PROVIDO PARCIALMENTE.
+    Não se caracteriza como manifestamente contrária à prova dos autos a decisão que, optando por uma das versões trazidas aos autos, não se encontra inteiramente divorciado do acervo probatório existente no processo. É acertado o reconhecimento da qualificadora de utilização de recurso que impossibilitou a defesa da vítima, de acordo com a prova produzida nos autos, não sendo, portanto, admitida a sua exclusão.
+    Nos termos da Súmula 545 do Superior Tribunal de Justiça, “quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art, 65, III, d, do Código Penal.” (Súmula 545, TERCEIRA SEÇÃO, julgado em 14/10/2015, DJe 19/10/2015).
+    Quanto mais próximo do aperfeiçoamento do resultado homicida pretendido, consoante as circunstâncias do fato, menor deve ser a fração de diminuição da pena no que se refere ao flagitium.
+    A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a pena deve ser aumentada na fração de 1/5 quando caracterizada a prática de roubo contra três vítimas em concurso formal. Precedentes (AgRg no HC 233.842/MG)
+    As circunstâncias judiciais elencadas no artigo 59, do Código Penal, devem ser devidamente fundamentadas para exasperação da pena-base acima do mínimo legal, sob pena de afronta aos princípios constitucionais da motivação das decisões judiciais e do Estado Democrático de Direito.
+    Impõe-se a retificação da pena-base estabelecida acima do mínimo legal, quando se verifica que as circunstâncias judiciais referentes à culpabilidade e motivos do crime foram fundamentadas inidoneamente.
+    Os embargos de declaração opostos foram desprovidos.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II, e 93, IX, ambos da Constituição.
+    Alega-se, em suma, que o acórdão recorrido violou o princípio da legalidade ao deixar de decretar a nulidade do julgamento pelo Tribunal do Júri, manifestamente contrário à prova dos autos.
+    Sustenta-se, ainda, a inidoneidade da fundamentação utilizada na aplicação da causa de diminuição.
+    A Vice-Presidência do TJMT inadmitiu o recurso sob os fundamentos de ofensa meramente reflexa ao Texto Constitucional e incidência da Súmula 279 do STF.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifico que as questões referentes à violação ao princípio da legalidade, não foram objeto de debate no acórdão recorrido. Falta-lhes, pois, o indispensável prequestionamento (Súmula 282 do STF).
+    Ademais, noto que o Tribunal de origem, ao apreciar o apelo da defesa, concluiu que:
+    “não há que se falar em decisão manifestamente contrária à prova dos autos, uma vez que o veredicto dos jurados aderiu a uma das versões constantes das provas do processo, reconhecendo a autoria do homicídio e a qualificadora do recurso que impossibilitou a defesa da vítima, amparada no contexto fático que lhe foi apresentado.
+    Assim sendo, não cabe a este Tribunal verificar qual das versões para os fatos era a mais convincente – se a da acusação ou a da defesa – pois essa escolha compete exclusivamente ao Júri. […]”
+    Dessa forma, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Por fim, observo que inexiste a alegada ofensa ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
