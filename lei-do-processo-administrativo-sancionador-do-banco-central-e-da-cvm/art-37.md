@@ -1,0 +1,1 @@
+Art. 37. À exceção do disposto nos arts. 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º e 10 desta Lei, as regras estabelecidas nos Capítulos II e IV desta Lei aplicam-se, no que couber, às infrações previstas na Lei nº 9.613, de 3 de março de 1998, quando apuradas pelo Banco Central do Brasil.

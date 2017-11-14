@@ -1,0 +1,1 @@
+Art. 46. Às infrações à Lei nº 4.380, de 21 de agosto de 1964, e às demais normas legais e regulamentares que regem o Sistema Financeiro da Habitação e as instituições que o integram referidas nos incisos I, II, III, IV, V e VI do art. 8º da Lei nº 4.380, de 21 de agosto de 1964, aplica-se o disposto nesta Lei.

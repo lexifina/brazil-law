@@ -1,0 +1,1 @@
+Art. 62. As infrações às normas que regulam os registros, no Banco Central do Brasil, de capital estrangeiro em moeda nacional sujeitam os responsáveis aos dispositivos desta Lei aplicáveis nos termos do art. 38.

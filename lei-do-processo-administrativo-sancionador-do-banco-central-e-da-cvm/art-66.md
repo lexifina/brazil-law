@@ -1,0 +1,1 @@
+Art. 66. A infração às normas legais e regulamentares que regem as atividades de depósito centralizado e de registro de ativos financeiros e de valores mobiliários sujeita as entidades autorizadas a exercer essas atividades, seus administradores e membros de conselhos fiscais, consultivos e assemelhados ao disposto nesta Lei, aplicável pelo Banco Central do Brasil.

@@ -1,0 +1,1 @@
+Art. 47. Às infrações à Lei nº 4.728, de 14 de julho de 1965, e às demais normas legais e regulamentares que regem as sociedades corretoras, as sociedades referidas nos arts. 11 e 12 da Lei nº 4.728, de 14 de julho de 1965, e os bancos de investimento, aplica-se o disposto nesta Lei.

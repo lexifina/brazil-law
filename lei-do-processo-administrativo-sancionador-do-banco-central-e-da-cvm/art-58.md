@@ -1,0 +1,1 @@
+Art. 58. A infração às normas legais e regulamentares que regem o sistema de pagamentos sujeita as câmaras e os prestadores de serviços de compensação e de liquidação, seus administradores e membros de conselhos fiscais, consultivos e assemelhados ao disposto nesta Lei.

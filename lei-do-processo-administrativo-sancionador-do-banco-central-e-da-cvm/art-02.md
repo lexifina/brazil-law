@@ -1,0 +1,6 @@
+Art. 2º Este Capítulo dispõe sobre infrações, penalidades, medidas coercitivas e meios alternativos de solução de controvérsias aplicáveis às instituições financeiras, às demais instituições supervisionadas pelo Banco Central do Brasil e aos integrantes do Sistema de Pagamentos Brasileiro, e estabelece o rito processual a ser observado nos processos administrativos sancionadores no âmbito do Banco Central do Brasil.
+§ 1º O disposto neste Capítulo aplica-se também às pessoas físicas ou jurídicas que:
+I - exerçam, sem a devida autorização, atividade sujeita à supervisão ou à vigilância do Banco Central do Brasil;
+II - prestem serviço de auditoria independente para as instituições de que trata o caput deste artigo ou de auditoria cooperativa de que trata o inciso V do caput do art. 12 da Lei Complementar nº 130, de 17 de abril de 2009;
+III - atuem como administradores, membros da diretoria, do conselho de administração, do conselho fiscal, do comitê de auditoria e de outros órgãos previstos no estatuto ou no contrato social de instituição de que trata o caput deste artigo.
+§ 2º O disposto neste Capítulo aplica-se também aos administradores e aos responsáveis técnicos das pessoas jurídicas que prestem os serviços mencionados no inciso II do § 1º deste artigo.

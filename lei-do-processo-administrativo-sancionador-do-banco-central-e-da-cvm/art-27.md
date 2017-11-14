@@ -1,0 +1,2 @@
+Art. 27. As decisões de primeira instância em processo administrativo do Banco Central do Brasil instaurado contra pessoa mencionada no art. 2º desta Lei serão tomadas por órgão colegiado previsto em seu regimento interno, do qual, no caso de infração grave, fará parte ao menos 1 (um) diretor do Banco Central do Brasil.
+Parágrafo único. As sessões do órgão colegiado referido no caput deste artigo serão públicas, mas poderá ser restringido o acesso de terceiros em função do interesse público envolvido.

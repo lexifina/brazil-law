@@ -1,0 +1,1 @@
+Art. 12. O termo de compromisso poderá prever cláusula penal para a hipótese de total ou parcial inadimplemento das obrigações compromissadas, para a hipótese de mora do devedor ou para a garantia especial de determinada cláusula.

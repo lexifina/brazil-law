@@ -1,0 +1,3 @@
+Art. 15. Durante a vigência do termo de compromisso, os prazos de prescrição de que trata a Lei nº 9.873, de 23 de novembro de 1999, ficarão suspensos, e o procedimento administrativo será arquivado se todas as condições nele estabelecidas forem atendidas.
+§ 1º O cumprimento das condições do termo de compromisso gerará efeitos exclusivamente na esfera de atuação do Banco Central do Brasil.
+§ 2º Na hipótese de descumprimento do compromisso, o Banco Central do Brasil adotará as medidas administrativas e judiciais necessárias para a execução das obrigações assumidas e determinará a instauração ou o prosseguimento do processo administrativo, a fim de dar continuidade à apuração das infrações e de aplicar as sanções cabíveis.

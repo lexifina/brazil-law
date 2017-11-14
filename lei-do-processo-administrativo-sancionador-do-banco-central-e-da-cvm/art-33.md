@@ -1,0 +1,2 @@
+Art. 33. Este Capítulo dispõe sobre o processo administrativo sancionador no âmbito da Comissão de Valores Mobiliários e altera a Lei nº 6.385, de 7 de dezembro de 1976.
+Parágrafo único. Aplicam-se as regras constantes deste Capítulo às infrações previstas na Lei nº 9.613, de 3 de março de 1998, no que couber, quando apuradas pela Comissão de Valores Mobiliários, mantidas as penalidades previstas na lei específica.

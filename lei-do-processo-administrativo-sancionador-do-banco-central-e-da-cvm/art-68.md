@@ -1,0 +1,1 @@
+Art. 68. As infrações às normas legais e regulamentares que regem os arranjos e as instituições de pagamento sujeitam o instituidor de arranjo de pagamento e a instituição de pagamento, os seus administradores e os membros de seus órgãos estatutários ou contratuais ao disposto nesta Lei.
