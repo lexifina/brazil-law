@@ -1,0 +1,1 @@
+Art. 40. Sujeitam-se ao disposto nesta Lei as infrações previstas nos arts. 1º e 2º do Decreto nº 23.258, de 19 de outubro de 1933, e as sonegações de cobertura nos valores de exportação ocorridas até 3 de agosto de 2006.

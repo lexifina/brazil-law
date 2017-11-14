@@ -1,0 +1,6 @@
+Art. 19. O processo administrativo sancionador será instaurado nos casos em que se verificarem indícios da ocorrência de infração prevista neste Capítulo ou nas demais normas legais e regulamentares cujo cumprimento seja fiscalizado pelo Banco Central do Brasil.
+§ 1º O Banco Central do Brasil poderá deixar de instaurar processo administrativo sancionador se considerada baixa a lesão ao bem jurídico tutelado, devendo utilizar outros instrumentos e medidas de supervisão que julgar mais efetivos, observados os princípios da finalidade, da razoabilidade e da eficiência.
+§ 2º A instauração do processo administrativo sancionador ocorrerá por meio de citação.
+§ 3º Os atos e os termos processuais poderão ser formalizados, comunicados e transmitidos em meio eletrônico, observado o disposto nesta Lei, em regulamentação editada pelo Banco Central do Brasil e na legislação específica.
+§ 4º As pessoas físicas e jurídicas sujeitas ao disposto nesta Lei deverão manter atualizados no Banco Central do Brasil seu endereço, seu telefone e seu endereço eletrônico, e também os de seu procurador, quando houver, e acompanhar o andamento do processo.
+§ 5º O Banco Central do Brasil estabelecerá diretrizes, em regulamentação, para a aplicação do disposto no § 1º deste artigo.
