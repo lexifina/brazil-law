@@ -1,0 +1,21 @@
+Trata-se de embargos de declaração, fundados no art. 1.022, I, do CPC, opostos contra decisão monocrática na qual neguei seguimento ao feito.
+    O embargante sustenta que:
+    “Consta na decisão embargada evidente contradição.
+    Isso porque, data máxima vênia, a referida decisão afirma que, pelas vias recursais próprias, poderia ser contestada a partir dos instrumentos processuais adequados.
+    Ocorre que a impossibilidade do embargante interpor os recursos adequados, é justamente o objeto da reclamação, pois, com a baixa dos autos ao tribunal de origem com a consequente retirada do processo do sistema do STF, é impossível fazer qualquer protocolo. Ou seja, o reclamante ficou podado de protocolar qualquer petição, quiçá recurso.
+    Assim de notar a contradição, pois a decisão embargada remete justamente para o objeto da reclamação, objetivamente: a impossibilidade de peticionar nos aludidos autos diante da determinação de baixa dos autos antes da publicação” (págs. 1-2 do documento eletrônico 7).
+    Requer, por essas razões, “o provimento dos presentes embargos de declaração, para sanar a contradição comprovada” (pág. 2 do documento eletrônico 7).
+    É o relatório necessário. Decido.
+    A pretensão recursal não merece acolhida.
+    Conforme preceitua o CPC, art. 1.022, I, II e III, ressalto que há pressupostos certos para a oposição dos embargos de declaração, os quais, nestes autos, mostram-se ausentes. A insurgência na espécie reflete tão somente o inconformismo com o decidido.
+    Desse modo, verifico que a parte embargante, a pretexto de sanar suposta omissão ou contradição, busca apenas a rediscussão da matéria. Os embargos de declaração, por sua vez, não constituem meio processual adequado para a reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão.
+    Destaco, ainda, que o entendimento desta Corte é no sentido de que os embargos de declaração não se prestam à rediscussão da matéria, em decorrência de inconformismo da parte embargante. Nesse sentido: RE 580.330-AgR-ED/RJ, Rel. Min. Gilmar Mendes; ARE 906.026-AgR-ED/BA, Rel. Min. Cármen Lúcia; AI 768.149-AgR-ED/RS, Rel. Min. Teori Zavascki; AI 735.115-AgR/RS, Rel. Min. Dias Toffoli, entre outros.
+    Assim, a parte embargante deixou de observar os requisitos próprios do recurso manejado (art. 1.022, I, II e III, do CPC), uma vez que inexiste omissão, contradição ou obscuridade na decisão guerreada.
+    Com efeito, o instrumento processual da reclamação, enquanto medida de direito constitucional vocacionada a preservar a integridade da competência desta Suprema Corte e a fazer prevalecer a autoridade de suas decisões, nos termos do art. 102, I, l, da CF, não se revela admissível contra atos emanados dos Ministros ou das Turmas que integram esta Corte Suprema, pois os julgamentos, monocráticos ou colegiados, por eles proferidos, qualificam-se como decisões juridicamente imputáveis ao próprio Supremo Tribunal Federal. Também não é via para preservar as competências dos órgãos do STF definidas em seu regimento.
+    A reclamação, considerada a sua dupla função constitucional, tem por finalidade neutralizar situações anômalas, que, criadas por terceiros estranhos ao Supremo Tribunal Federal, venham a afetar a integridade da competência institucional desta Corte ou a comprometer a autoridade de suas próprias decisões. Nesse sentido, destaco ementa do seguinte julgado:
+    “RECLAMAÇÃO CONTRA DECISÃO DE MINISTRO DO STF. NÃO CABIMENTO. 1. A competência originária do STF para processar e julgar reclamação, prevista nos arts. 102, I, ‘l’, e 103-A, § 3º, limita-se a preservar a competência do Tribunal, garantir a autoridade de suas decisões ou a eficácia de súmula vinculante. Na hipótese dos autos, não está configurada nenhuma dessas situações. Isso porque, (a) inadmissível falar em decisão do STF que usurpa a competência do próprio STF e (b) a reclamação não é via para preservar as competências dos órgãos do STF definidas em seu regimento. Precedentes. 2. Agravo regimental a que se nega provimento” (Rcl 13.996-AgR/BA Rel. Min. Teori Zavascki, Tribunal Pleno, DJ 11/6/2013).
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
