@@ -1,0 +1,22 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. SELEÇÃO PARA MESTRADO. GRADUAÇÃO INCOMPLETA. GREVE. OCORRÊNCIA. REALIZAÇÃO DE MATRÍCULA INDEPENDENTEMENTE DA APRESENTAÇÃO DO DIPLOMA/DOCUMENTO DE CONCLUSÃO DE CURSO. POSSIBILIDADE.
+    1. Remessa oficial e apelação interposta contra sentença que concedeu a segurança, assegurando à impetrante a matrícula no Programa de Pós Graduação de Linguagem e Ensino – POSLE (Mestrado), da Universidade Federal de Campina Grande, devendo o certificado de conclusão do curso superior ser apresentado àquela IES tão logo seja ultimada a graduação em Letras, no período 2016.1.
+    2. ‘In casu’, a apelada foi prejudicada por movimentos grevistas deflagrados por professores da UFCG, nos anos de 2012 e 2015, atrasando a sua colação de grau, a qual estava prevista para dezembro/15, tendo sido adiada para out/16.
+    3. Tendo sido aprovada na seleção para o mestrado da UFCG, resta viável a realização da sua matrícula antes mesmo de concluído o curso de graduação, pois, sendo a greve motivo de força maior, não pode a impetrante ser penalizada por sua ocorrência, especialmente se for considerada a proximidade do início das aulas de mestrado e a integralização de todas as disciplinas do curso de graduação, inclusive com a apresentação da monografia.
+    4. Remessa oficial e apelação desprovidas.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe observar, desde logo, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 5ª Região, ao manter a sentença por seus próprios fundamentos, apoiou as suas conclusões em aspectos fático-probatórios e em interpretação de cláusula de edital:
+    “6. Aduz a impetrante que as matrículas no Programa de Pós Graduação em Linguagem e Ensino – POSLE da UFCG, em que logrou êxito (id. n. 1031135), ocorrerão nos dias 08 a 10 de agosto do corrente ano, momento em que os aprovados deverão apresentar o certificado de conclusão do curso.
+    7. Dessa forma, a impetrante, em virtude da greve dos professores da UFCG, não poderia participar do referido certame, pois, na data da matrícula, ainda não teria concluído o curso de Letras.
+    8. Ocorre que o TRF da 5ª Região possui vários precedentes no sentido de que a greve dos servidores federais há de ser considerada como motivo de força maior, a fim de temperar as exigências do edital, permitido a matrícula, em casos análogos ao do presente feito, independente da apresentação do certificado de conclusão de curso na data aprazada.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 14 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
