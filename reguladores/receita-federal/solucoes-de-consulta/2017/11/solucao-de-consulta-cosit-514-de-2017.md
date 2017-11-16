@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 514, de 23 de outubro de 2017
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: REMESSA AO EXTERIOR. FINS EDUCACIONAIS. INCIDÊNCIA NA FONTE. NÃO SUJEIÇÃO. Não se sujeita à retenção na fonte do Imposto sobre a Renda o valor remetido ao exterior para pagamento de serviços de natureza educacional. Dispositivos Legais: Lei nº 13.315, de 2016, art. 2º, I; Decreto nº 3.000, de 1999 (RIR/1999), arts. 682, inciso I, e 685, inciso II, “a”; Instrução Normativa RFB nº 1.645, de 2016, arts. 1º, II, e 4º, I e parágrafo único. ASSUNTO: PROCESSO ADMINISTRATIVO FISCAL EMENTA: INEFICÁCIA DA CONSULTA. É ineficaz a consulta na parte que não atende aos requisitos legais exigidos para sua apresentação. Dispositivos Legais: Decreto nº 70.235, de 1972, arts. 46, caput, e 52, inciso I; Instrução Normativa RFB nº 1.396, de 2013, arts. 3º, § 2º, inciso IV, e 18, incisos I e II.
+.
+[arquivo anexo: SC Cosit nº 514-2017.pdf]
