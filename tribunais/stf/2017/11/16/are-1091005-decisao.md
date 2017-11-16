@@ -1,0 +1,21 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao recurso da defesa e manteve sentença que condenou o ora recorrente à pena de 3 anos de detenção, em regime inicial aberto, pelo prática do crime previsto no art. 89 da Lei nº 8.666/1993.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 5º, LIV, LV, e 37, XXI, da Constituição. Sustenta que a “prova irrefutável da afronta à nova liturgia hospeda-se no fato de o próprio Magistrado oficiante, presentes os novos dispositivos legais, em vez de determinar a intimação das partes para manifestação na fase procedimental do artigo 499 do CPP (que era a sistemática usual anterior, agora revogada), abriu vista para apresentação, desde logo, das alegações finais”. Aduz que “não se sustenta a acusação direcionada ao Recorrente, razão pela qual deve ele ser absolvido”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trecho dos voto condutor do acórdão recorrido:
+    “[...]
+    Consta da inicial acusatória que durante o ano de 2004, Elias Abrahão Saad, Prefeito Municipal de Cordeirópolis e Antonio Carlos Maas, Chefe do Departamento de Suprimentos daquela Municipalidade, previamente ajustados entre si, deixaram de realizar procedimento licitatório para a aquisição de combustível para a frota municipal, deixando de observar as formalidades pertinentes à dispensa. Extrai-se da dinâmica fático-probatória, decorrente da instrução: ao longo do exercício de 2004, a Prefeitura Municipal de Cordeirópolis, por reiteradas vezes, realizou a contratação de fornecimento de combustíveis, em caráter emergencial, para aquisição de aproximadamente 20.000 litros de álcool, 92.000 litros de gasolina e 90.000 litros de óleo diesel, representando o equivalente a R$ 310.000,00 (trezentos e dez mil reais), sem a realização do devido processo licitatório.
+    A materialidade restou demonstrada pela requisição de fls. 02, documentos (fls 03/75 e 93/286) além da prova oral.
+    Quanto à autoria, resta igualmente comprovada.
+    [...]
+    Como se sabe, a Constituição Federal, em seu art. 37, inciso XXI, estabelece a obrigatoriedade do processo licitatório, com vistas a atender o interesse público, bem como garantir o princípio da isonomia entre os participantes. Desta forma, a dispensa da licitação somente é admitida em caráter excepcional, nas estritas hipóteses do art. 24 da Lei 8.666/93. E mais, nos casos de dispensa com fulcro no inciso IV de aludido dispositivo legal, deve ser comprovado que se trata de emergência concreta e efetiva.
+    E como bem destacou o MM. Juiz de primeiro grau “não me parece situação excepcional, mas má gerência administrativa, pois compete ao Município provisionar o pagamento de suas despesas. E, ainda, realizar licitação para fornecimento de combustível com prazo de pagamento dilatado, se for o caso, mas não dispensar a licitação fundada em seu descontrole orçamentário” (fls.613).
+    […]
+    Portanto, a versão apresentada pelos acusados em cotejo com a coesa prova acusatória, mostrou-se totalmente inverossímil, mormente porque não se desincumbiram do ônus de confirmar seu álibi, com o lhe competia, a teor do que dispõe o artigo 156 do Código de Processo Penal.
+    […].”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 16 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
