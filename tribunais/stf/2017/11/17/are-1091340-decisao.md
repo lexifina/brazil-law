@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra decisão que não admitiu recurso extraordinário no qual sustenta violação dos artigos 2º, 5º, II e XXXVI, 21, XII, 22, IV e 175, parágrafo único, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acordão assim ementado:
+    “MANDADO DE SEGURANÇA. COMPENSAÇÃO. HOMOLOGAÇÃO PARCIAL. CONVALIDAÇÃO. DESCABIMENTO. SÚMULA 460 DO STJ.
+    Não cabe mandado de segurança para convalidar compensação tributária realizada pelo contribuinte (Superior Tribunal de Justiça - STJ, Súmula 460)”.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 2º, 21, XII, 22, IV e 175, parágrafo único, da CF/88 carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie os enunciados das Súmulas nºs 282 e 356 desta Corte. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Inadmissibilidade de prequestionamento implícito. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Precedentes. 1. Entendimento sedimentado na Corte no sentido de não admitir o chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal de origem, é necessária e indispensável a oposição de embargos de declaração para suprir a omissão. Precedentes. (...) 4. Agravo regimental não provido” (AI nº 735.115/RS-AgR, Primeira Turma, de minha relatoria, DJe de 11/5/12 – grifei).
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apoia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o "prequestionamento implícito" da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE n° 353.514/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 1°/10/10 – grifei).
+    Ademais, anote-se que a jurisprudência desta Corte é firme no sentido de que a discussão em torno dos requisitos de cabimento do mandado de segurança possui natureza eminentemente processual, o que enseja a análise prévia da legislação infraconstitucional aplicável à espécie, não configurando, portanto, ofensa direta à Constituição Federal. Nesse sentido:
+     “Agravo regimental no recurso extraordinário. Alegada violação à norma do artigo 5º, incisos LXIX e LXX, alínea “b”, da Constituição Federal. Decisão agravada que apresenta explícita e exaustiva fundamentação sobre o tema. 1. Muito embora o instituto do mandado de segurança seja de índole constitucional, a discussão em torno dos requisitos de seu cabimento, em cada caso concreto, situa-se no plano infraconstitucional. 2. Associações de classe podem impetrar mandados de segurança coletivo, do que decorre a perfeita adequação da via eleita no presente caso, não se cogitando aqui discutir sobre o próprio mérito dessa impetração. 3. Agravo regimental não provido” ( RE nº 450.913/PR-AgR, Primeira Turma, de minha relatoria, DJe de 17/5/11)
+    Destaco ainda que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do Agravo de Instrumento nº 800.074/SP, Pleno, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria constitucional referente à análise do cabimento do referido writ:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.
+    Essa decisão, nos termos do artigo 543-A, § 5º, do Código de Processo Civil, com a redação da Lei nº 11.418/06, valerá para todos os recursos sobre matéria idêntica, que serão indeferidos liminarmente”.
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 17 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
