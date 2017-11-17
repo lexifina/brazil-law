@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Ricardo Luis Pasquali, apontado como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 415.213/SP , Relator o Ministro Ribeiro Dantas.
+    Alega o impetrante, em síntese, que o paciente está submetido a constrangimento ilegal, pois a defesa não teria sido intimada da data de audiência da oitiva de testemunha de acusação, realizada por precatória ao Juízo deprecado da Comarca de Laguna/SC.
+    Sustenta, para tanto, que
+     “o exercício de defesa pressupõe a necessidade de intimação para a audiência designada, no juízo deprecado, visando a oitiva da testemunha. A formalidade essencial, à falta de sua observação, implica na nulidade do processo, isto porque a ciência referente à expedição da carta precatória não a supre.
+    Ademais, o entendimento do Colendo STJ e do e. TJRS de que necessária a demonstração de prejuízo e, no caso do paciente, de que não haveria prejuízo algum pois nomeada Advogada dativa para atuar na audiência de inquirição do ofendido, com a devida vênia, não se sustenta (…).
+    Aduz que
+    “a designação de Defensora dativa ao paciente pelo r. Juízo deprecado, não tem o condão de sanar a nulidade decorrente da violação à paridade de armas, posto que, mesmo com atuação de um profissional tecnicamente habilitado no ato, com o máximo respeito a Colega da Advocacia, mas não é uma profissional da confiança do paciente, ora réu, o qual não teve acesso à sua versão dos fatos, bem como não conhece a linha de defesa, tampouco possui todas as informações fáticas para o adequado desempenho da defesa.”
+    Argumenta, outrossim, que “habeas corpus que suplica o reconhecimento de flagrante nulidade é medida de urgência e dá fundamento em substituição de recurso ordinário”.
+    Requer-se a concessão da ordem para que
+    “seja reconhecida e declarada nula a audiência realizada no dia 19/06/2017 perante o r. Juízo deprecado da Vara Criminal da Comarca de Laguna/SC, onde houve a inquirição de vítima, determinando-se que o r. Juízo deprecante renove o ato com a garantia de que a Defesa técnica particular seja intimada da futura data da solenidade que deverá ser aprazada”
+    Examinados os autos, decido.
+    Transcrevo a ementa do aresto ora impugnado:
+    “PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO. EXPEDIÇÃO DE CARTA PRECATÓRIA. INTIMAÇÃO. NECESSIDADE. REALIZAÇÃO DE AUDIÊNCIA PELO JUÍZO DEPRECADO PARA OITIVA DE TESTEMUNHA DA ACUSAÇÃO. INTIMAÇÃO DA DEFESA TÉCNICA. DISPENSABILIDADE. NULIDADE. INEXISTÊNCIA. NECESSIDADE DE DEMONSTRAÇÃO DO PREJUÍZO. NÃO OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+    1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+    2. Ao interpretar a disposição normativa inserida no art. 222 do Código de Processo Penal, o Superior Tribunal de Justiça pacificou o entendimento, sintetizado na Súmula 273, acerca da desnecessidade de intimação do acusado e do seu defensor da data da audiência realizada no juízo deprecado, sendo suficiente que sejam cientificados da expedição da carta precatória.
+    3. A jurisprudência desta Corte Superior de Justiça firmou entendimento no sentido de que o reconhecimento de nulidade no curso do processo penal reclama efetiva demonstração de prejuízo, à luz do art. 563 do Código de Processo Penal, segundo o princípio pas de nullité sans grief, o que não se verifica na espécie.
+    4. No caso em exame, as instâncias ordinárias afirmaram que a defesa técnica do paciente foi devidamente intimada ‘a respeito da expedição da carta precatória’, sendo desnecessária nova intimação da data da audiência a ser realizada no Juízo deprecado.
+    5. Hipótese em que não se verifica prejuízo ao paciente, ‘pois ele foi devidamente assistido por advogada nomeada para o ato’, de modo que foram ‘observadas, portanto, as garantias constitucionais da ampla defesa e do contraditório’.
+    6. Atingida a finalidade do ato e inexistente qualquer prejuízo à ampla defesa, não há falar em nulidade processual por ausência de intimação da defesa da data da realização da audiência no juízo deprecado.
+    7. Habeas corpus não conhecido.”
+    O julgado proferido pela Quinta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Com efeito, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Conforme anotado pelo Ministro Ribeiro Dantas em seu voto,
+    “[n]o caso em exame, as instâncias ordinárias afirmaram que a defesa do paciente foi devidamente intimada ‘a respeito da expedição da carta precatória’ (e-STJ, fl. 57), sendo, realmente, desnecessária nova intimação da audiência de ouvida de testemunha da acusação, a ser realizada no Juízo deprecado.
+    De mais a mais, não houve comprovação de prejuízo, visto, inclusive, que, conforme o Tribunal a quo, ‘a ausência dos defensores constituídos não causou qualquer prejuízo ao réu, pois ele foi devidamente assistido por advogada nomeada para o ato’, de modo que foram ‘observadas, portanto, as garantias constitucionais da ampla defesa e do contraditório’ (e-STJ, fl. 58).
+    Ora, atingida a finalidade do ato e inexistente qualquer prejuízo à ampla defesa, não há falar em nulidade processual por ausência de intimação da defesa da data da realização da audiência no juízo deprecado.”
+    Com efeito, a jurisprudência desta Corte Superior é pacífica “no sentido de que, intimadas as partes da expedição da precatória, a elas cabe o respectivo acompanhamento, sendo desnecessária a intimação da data designada para a audiência no Juízo deprecado” (v.g. RHC nº 106.394/MG, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 8/2/13).
+    Perfilhando esse entendimento: HC nº 104.767/BA, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 17/8/11; HC nº 91.501/RJ, Segunda Turma, Relator o Ministro Eros Grau, DJe de 8/5/09; HC nº 96.026/RJ, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 6/2/09; e HC nº 87.027/RJ, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 3/2/06.
+    Além disso, registro que o Superior Tribunal de Justiça consignou que o depoimento da testemunha foi acompanhado por defensor dativo e o impetrante não logrou êxito em comprovar o prejuízo advindo da aventada falta de sua intimação para a audiência no juízo deprecado.
+    Com efeito, o entendimento firmado está em consonância com a jurisprudência da Corte segundo a qual “a nulidade por deficiência na defesa do réu só deverá ser declarada se comprovado o efetivo prejuízo. Esse entendimento está, ainda, preconizado na Súmula nº 523/STF, que assim dispõe: ‘No processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu’” (HC nº 110.820/ES, Primeira Turma, de minha relatoria, DJe de 25/6/12).
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 17 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
