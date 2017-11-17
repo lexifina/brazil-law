@@ -1,0 +1,34 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto por Diorgeles da Motta Falcão, assistido pela Defensoria Pública do Estado do Espírito Santo (eDOC 2, p. 54-68), contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao Agravo Regimental no HC 369.835/ES (eDOC 2, p. 34-44).
+    Inicialmente, consta dos autos que, em agravo de execução interposto pelo recorrente (eDOC 1, p. 23-57), a Primeira Câmara Criminal do Tribunal de Justiça do Estado do Espírito Santo decidira que, sobrevindo nova condenação no curso da execução, seja por fato anterior ou posterior, o prazo para concessão de benefícios fica interrompido, devendo o novo cálculo ter por base a unificação das penas, sendo certo que o termo a quo para a contagem do período aquisitivo é o trânsito em julgado da nova condenação (eDOC 1, p. 59-65).
+    Houve, então, no STJ, a impetração do citado HC 369.835/ES (eDOC 1, p. 2-14), cujo relator indeferiu o pedido de liminar (eDOC 1, p. 86-88) e, posteriormente, não conheceu do pedido (eDOC 2, p. 11-15). Sucessivamente, foi interposto agravo regimental, ao qual a Sexta Turma negou provimento (eDOC 2, p. 34-44).
+    Daí o presente RHC (eDOC 2, p. 54-68), no qual a Defensoria Pública estadual pondera a necessidade de se afastar a jurisprudência atual sobre o tema, alegando, em síntese, que a utilização da data do trânsito em julgado da última condenação como data-base para eventuais benefícios da execução penal viola os princípios da legalidade, da isonomia e da segurança jurídica.
+    Ao final, o recorrente pede o provimento deste RHC para determinar que o cálculo de sua pena “tenha como marco interruptivo, em razão da unificação de penas, a data do último crime dentre os quais ocorre a somatória de penas, ressalvada a prática de falta de natureza grave em data posterior” (eDOC 2, p. 31).
+    O Vice-Presidente do STJ determinou o encaminhamento dos presentes autos a esta Suprema Corte (eDOC 2, p. 75).
+    Ofertaram-se contrarrazões (eDOC 2, p. 81-84).
+    O Ministério Público Federal opinou pelo provimento do presente RHC (eDOC 4, p. 1-2).
+    É o relatório.
+    Decido.
+    Preliminarmente, para melhor compreensão da controvérsia, destaco a ementa do acórdão ora recorrido:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. ALTERAÇÃO DO TERMO INICIAL PARA OBTENÇÃO DE NOVOS BENEFÍCIOS. TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO. PRECEDENTES.
+    1. A jurisprudência desta Corte Superior está sedimentada no sentido da possibilidade de alteração do marco inicial da execução penal, quando sobrevier nova condenação, seja por fato anterior ou posterior ao início da execução penal, tendo como novo termo a quo a data do trânsito em julgado do decreto condenatório superveniente. Precedentes.
+    2. Agravo regimental a que se nega provimento. ” (eDOC 2, p. 34)
+    Assim, consoante afirmei ao julgar o RHC 137.414/MG, decisão monocrática, DJe 14.10.2016, a jurisprudência dessa Corte é pacífica no sentido de que a superveniência do trânsito em julgado de ação penal, no curso da execução penal por crime diverso, tem como consequência a alteração da data-base para concessão de novos benefícios, tendo como marco inicial a data do último trânsito em julgado, independentemente de o crime ter sido praticado antes ou depois do início da execução da pena.
+    Nesse sentido, destaco os seguintes julgados:
+    “HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CONDENAÇÃO SUPERVENIENTE. ALTERAÇÃO DA DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. PRECEDENTES. ORDEM DENEGADA.
+    I - A superveniência de nova condenação definitiva no curso da execução criminal sempre altera a data-base para concessão de benefícios, ainda que o crime tenha sido cometido antes do início de cumprimento da pena.
+    II - A data do trânsito em julgado da nova condenação é o termo inicial de contagem para concessão de benefícios, que passa a ser calculado a partir do somatório das penas que restam a ser cumpridas.
+    III - Habeas corpus denegado”. (HC 101.023/RS, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 26.3.2010)
+     “Habeas Corpus. 2. Execução Penal. 3. Condenação superveniente, decorrente de fato cometido antes do início da execução da pena. 4. Fixação de nova data-base para obtenção de benefícios executórios. Possibilidade. Precedentes. 5. Constrangimento não configurado. 6. Ordem denegada”. (HC 102.492/RS, de minha relatoria, Segunda Turma, DJe 28.10.2010).
+     “Recurso ordinário em habeas corpus. Penal. Roubo triplamente qualificado. Não conhecimento da impetração pelo Superior Tribunal de Justiça, por ser ela substitutiva de recurso especial. Entendimento que não se coaduna com o entendimento da Corte. Precedentes. Execução penal. Somatória ou unificação de penas. Alteração da data-base para a concessão de benefícios. Trânsito em julgado de última condenação. Precedentes. Recurso parcialmente provido.
+    1. O Supremo Tribunal Federal não tem admitido a rejeição da impetração perante o Superior Tribunal de Justiça a pretexto de se cuidar de substitutivo de recurso especial cabível (HC nº 115.715/CE, Primeira Turma, Rel. p/ o ac. Min. Marco Aurélio, julg. Em 11/6/13).
+    2. Firmou-se na Turma o entendimento de que, sobrevindo nova condenação no curso da execução penal, a contagem do prazo para a concessão de benefícios é interrompida e passa a ter como parâmetro a pena unificada ou somada, considerando-se como termo inicial para a contagem do período aquisitivo, a data do trânsito em julgado da última condenação, não importando se o delito é anterior ou posterior ao início da execução penal. Precedentes.
+    3. Recurso a que se dá parcial provimento.” (RHC 121.849/MG, Rel. Min. Dias Toffoli, Primeira Turma, DJe 17.6.2014)
+    Mais recentemente: ARE 962.208/MG, Rel. Min. Celso de Mello, decisão monocrática, DJe 25.4.2016; RHC 147.039/ES, Rel. Min. Edson Fachin, decisão monocrática, DJe 6.11.2017; RHC 147.693/ES, Rel. Min. Celso de Mello, decisão monocrática, DJe 26.10.2017; RHC 147.038/ES, Rel. Min. Luiz Fux, decisão monocrática, DJe 20.10.2017, dentre outros.
+    Depreende-se, portanto, que o acórdão recorrido encontra-se ajustado à jurisprudência desta Suprema Corte.
+    Ademais, caso sobrevenha condenação definitiva no curso da execução penal, consoante o art. 111, parágrafo único, da LEP, somar-se-á a nova pena ao restante da que está sendo cumprida, interrompendo-se o prazo para a concessão de benefícios, que será recalculado a partir do trânsito em julgado da nova condenação.
+    Diante do exposto, com fundamento no art. 312 c/c o art. 192, caput, do RI/STF, nego provimento ao presente recurso ordinário em habeas corpus.
+    Publique-se..
+    Brasília, 17 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+                 Documento assinado digitalmente
