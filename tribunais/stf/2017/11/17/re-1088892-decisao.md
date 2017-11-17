@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA – BENEFÍCIO PREVIDENCIÁRIO – REAJUSTE – TETO – EMENDA CONSTITUCIONAL Nº 20/98 – PROVIMENTO PARCIAL.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido da autora de revisão do benefício previdenciário originário, com reflexos na pensão por morte derivada, mediante adequação do valor recebido aos limites máximos previstos nas Emendas Constitucionais nº 20/98 e nº 41/03, porquanto anterior à promulgação da Constituição Federal de 1988. No extraordinário, a recorrente aponta violados os artigos 5º, cabeça, e 93, inciso IX, da Constituição Federal. Tece considerações sobre o decidido no recurso extraordinário nº 564.354/SE e na questão de ordem no agravo de instrumento nº 791.292/PE. Argui a falta de prestação jurisdicional ante a ausência de fundamentação de decisão recorrida. Discorre sobre a evolução legislativa do tema. Afirma o direito à revisão.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária ao que defendido. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. No caso, o pronunciamento atacado está fundamentado de forma consentânea com a ordem jurídica.
+    No mais, o Tribunal, no julgamento do recurso extraordinário nº 564.354/SE, confirmou a aplicação do novo teto previdenciário estabelecido pelas Emendas Constitucionais nº 20/98 e nº 41/2003 a aposentadorias concedidas antes da vigência da referida norma.
+    3. Ante o precedente, provejo o extraordinário para, reformando o acórdão recorrido, determinar o retorno do processo ao Colegiado de origem, a fim de que enfrente o tema na forma dos parâmetros indicados. Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, considerada a ausência de fixação na origem, descabendo, portanto, a referida condenação.
+    4. Declaro prejudicada a apreciação do pedido formalizado na petição/STF nº 68.385/2017.
+    5. Publiquem.
+Brasília, 17 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
