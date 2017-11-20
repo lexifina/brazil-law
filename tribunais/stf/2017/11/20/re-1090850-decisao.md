@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROFESSOR DE DEDICAÇÃO EXCLUSIVA. ACUMULAÇÃO DE CARGO PÚBLICO COM EMPREGADO NA INICIATIVA PRIVADA. NÃO CABIMENTO. JORNADA SEMANAL DE 80 HORAS.
+    1. O professor do CEFET/MT em regime de dedicação exclusiva, cumprindo carga horária semanal de 40 horas, não tem direito a acumular o exercício de seu cargo público com emprego na iniciativa privada, ainda que não haja sobreposição de jornadas, pois todos os turnos do dia destina-se ao cargo para o qual deve se dedicar com exclusividade, ainda que se trate de período de descanso para o bom desempenho do serviço público.
+    2. Ademais, a acumulação do total de 80 horas semanais de trabalho fere o princípio da compatibilidade de horários prevista no inciso XVI do art. 37 da CR/88, que é uma exigência mais ampla do que a simples inexistência de sobreposição de horários.
+    3. Apelação não provida.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, XXXV, LV; 37, caput, XVI; e 93, IX, da Constituição.
+    O recurso não merece ser provido. Quanto à alegada ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Em se tratando especificamente de supostas ofensas ao princípio da legalidade, o que se pode discutir nesta sede, em linha de princípio, é o eventual descumprimento da própria reserva legal, ou seja, da exigência de que determinada matéria seja disciplinada por lei, e não por ato secundário. Não é disso que se trata nos autos. Incide, na hipótese, a Súmula 636/STF.
+    Ademais, para dissentir do entendimento firmado pelo Tribunal de origem no sentido da incompatibilidade de horários para a acumulação de dois cargos de professor, seria necessário o exame dos fatos e material probatório constantes dos autos, providência inviável neste momento processual, a atrair a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
