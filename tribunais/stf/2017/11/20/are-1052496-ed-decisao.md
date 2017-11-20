@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra a decisão monocrática por mim proferida, pela qual negado seguimento ao recurso extraordinário, opõem embargos de declaração com amparo no art. 1.022 do CPC/2015 Salete Fátima Rocco e outro(a/s). Alegam ausente de fundamentação o pronunciamento embargado. Asseveram inaplicável a Súmula 279/STF. Aduzem que ”[...] A fundamentação foi devidamente impugnada, revelando-se cristalino a utilização apenas de fatos incontroversos, inclusive com a respectiva transcrição dos documentos dos autos, não demandando o revolvimento fático, mais sim a adequada subsunção jurídica [...]”. Afirma que “[...] Tratando-se de recurso que aponta vício por error in procedendo da decisão impungada, não guarda coerência afirmar que existem argumentos suficientes a manter a inadmissão: sustentou-se a nulidade da decisão como um todo, não havendo como se destacar fundamentação autônoma que driblasse a argumentação [...]”.
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios, opostos já na vigência do Novo Código de Processo Civil (Lei nº 13.105/2015).
+    O artigo 1.022 do novel Codex estabelece o cabimento de embargos de declaração “contra qualquer decisão judicial”, permitido expressamente, consoante o art. 1.024, § 2º, desse Diploma, sejam decididos monocraticamente quando “[...] opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes declaratórios, independentemente do caráter infringente que ostentam.
+    Inexistente vício a ensejar estes embargos declaratórios.
+    Verifico, de plano, nítido o caráter meramente infringente com o qual opostos os declaratórios, uma vez que o embargante deixou de indicar qualquer omissão, obscuridade ou contradição, tendo se restringido a atacar os fundamentos do julgado, hipótese que não se insere no rol art. 1022 do Código de Processo Civil. Reputo truísmo mencionar que o ônus da impugnação especificada, sem o que inviável a apreciação de recurso, consubstancia indeclinável ônus processual, albergado não só pelos Códigos de Processo Civil tanto de 1973 quanto de 2015, mas também pelo Regimento Interno desta Casa.
+    Essa orientação coaduna-se com o firme entendimento desta Suprema Corte de que constitui pressuposto de todo e qualquer recurso a fundamentação específica e suscetível de atacar a decisão recorrida. Nesse diapasão, os seguintes precedentes, prolatados sob a vigência do CPC de 2015, inter plures : ARE 935684 AgR, Tribunal Pleno, Relator Min. Ricardo Lewandowski, DJe 2.9.2016, ARE 958585 AgR, Tribunal Pleno, Relator Min. Ricardo Lewandowski, DJe 2.9.2016, ARE 974823 AgR, 2ª Turma, Relator Min. Teori Zavascki, DJe 8.9.2016, ARE 919185 AgR, 2ª Turma, Relatora Min. Cármen Lúcia, DJe 29.8.2016, ARE 887116 AgR, 1ª Turma, da minha lavra, DJe 25.8.2016, RE 630122 AgR-ED, 1ª Turma, Relator Min. Edson Fachin, DJe 25.11.2015.
+    Por conseguinte, inexistentes os pressupostos de embargabilidade.
+    Gizo, por derradeiro, que não se prestam, os embargos de declaração, em qualquer hipótese, não obstante a vocação democrática que lhes é pertinente e presente sua finalidade precípua de aperfeiçoamento da prestação jurisdicional, para o reexame das questões de fato e de direito já apreciadas.
+    Não configuradas, portanto, quaisquer das hipóteses elencadas no art. 1022 do CPC/2015, evidenciando-se tão somente o inconformismo da parte com a decisão que lhe foi desfavorável.
+    Ante o exposto, rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 20 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
