@@ -1,0 +1,3 @@
+Instrução CVM nº 593, de 2017
+COMISSÃO DE VALORES MOBILIÁRIOS
+Rua Sete de Setembro, 111/2-5º e 23-34º Andares – Centro – Rio de Janeiro - RJ – CEP: 20050-901 – Brasil Tel.: (21) 3554-8686 - www.cvm.gov.br INSTRUÇÃO CVM No 593, DE 17 DE NOVEMBRO DE 2017 Altera dispositivos das Instruções CVM nº 497, de 3 de junho de 2011, nº 539, de 13 de novembro de 2013, e nº 558, de 26 de março de 2015 O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada em 1º de novembro de 2017, tendo em vista o disposto nos arts. 8º, I; 15, III e § 1º; 16, I e III; e 23 da Lei nº 6.385, de 7 de dezembro de 1976, APROVOU a seguinte Instrução:
