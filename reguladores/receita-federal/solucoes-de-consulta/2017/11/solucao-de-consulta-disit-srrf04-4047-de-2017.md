@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF04 nº 4047, de 17 de novembro de 2017
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ O valor do IPI e o do ICMS-Substituição Tributária não se incluem na receita bruta total do vendedor dos bens ou prestador dos serviços. VINCULAÇÃO À SOLUÇÃO DE CONSULTA COSIT Nº 164, DE 25 DE JUNHO DE 2014. Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, art. 12, § 1º, III, e § 4º, com redação da Lei nº 12.973, de 2014; Lei nº 9.718, de 1998, art. 14, I, com redação da Lei nº 12.814, de 2013; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda), art. 279, parágrafo único; Instrução Normativa RFB nº 1.700, de 2017, arts. 26, § 2º, e 59; Parecer Normativo CST nº 77, de 1986.
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+O valor do IPI e o do ICMS-Substituição Tributária não se incluem na receita bruta total do vendedor dos bens ou prestador dos serviços.
+VINCULAÇÃO À SOLUÇÃO DE CONSULTA COSIT Nº 164, DE 25 DE JUNHO DE 2014.
+Dispositivos Legais: Decreto-Lei nº 1.598, de 1977, art. 12, § 1º, III, e § 4º, com redação da Lei nº 12.973, de 2014; Lei nº 9.718, de 1998, art. 14, I, com redação da Lei nº 12.814, de 2013; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda), art. 279, parágrafo único; Instrução Normativa RFB nº 1.700, de 2017, arts. 26, § 2º, e 59; Parecer Normativo CST nº 77, de 1986.
+FLÁVIO OSÓRIO DE BARROS Chefe
