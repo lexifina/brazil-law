@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1760, de 16 de novembro de 2017
+Altera a Instrução Normativa RFB nº 1.548, de 13 de fevereiro de 2015, que dispõe sobre o Cadastro de Pessoas Físicas (CPF).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 11 da Lei nº 4.862, de 29 de novembro de 1965, nos arts. 1º e 3º do Decreto-Lei nº 401, de 30 de dezembro de 1968, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, nos arts. 33 a 36 do Decreto nº 3.000, de 26 de março de 1999, e no Decreto nº 8.727, de 28 de abril de 2016, resolve:
