@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5°, II, e 114, I, da Carta Magna.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Deixou a parte agravante de impugnar o óbice oposto pela Presidência da Corte de origem ao trânsito do recurso extraordinário, relativo à ofensa reflexa à Constituição Federal e a incidência da súmula 636, em desalinho com a exigência contida no inciso III do art. 932 do CPC/2015, verbis:
+    “Art. 932. Incumbe ao relator:
+    [...]
+    III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.”
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 287/STF: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. Nesse sentido: ARE 645.366-AgR, 2ª Turma, Rel. Min. Ricardo Lewandowski, DJe 12.4.2012; ARE 665.547-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 06.3.2012; AI 805.701-AgR, 1ª Turma, Rel. Min. Luiz Fux, DJe 23.4.2012; RMS 30.366-AgR, Rel. Min. Roberto Barroso, 1ª Turma, DJe 16.8.2016; e ARE 974.823-AgR, Rel. Min. Teori Zavascki, 2ª Turma, DJe 08.9.2016, cuja ementa transcrevo:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. INADMISSÃO DO APELO EXTREMO PELA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 1. A decisão do Juízo a quo que obsta a subida de recurso extraordinário pode ser atacada por agravo (art. 1.042 do CPC/2015), o qual deve impugnar especificamente, de forma individualizada, todos os argumentos por si sós suficientes para manter a inadmissão, sob pena de não conhecimento (art. 932, III, do CPC/2015). 2. Agravo regimental a que se nega provimento.”
+    Além disso, não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional (Consolidação das Leis Trabalhistas e Leis 7.855/1989 e 10.593/2002) apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Alegação de ausência de prestação jurisdicional. Decisão fundamentada, embora contrária aos interesses da parte, não configura negativa de prestação jurisdicional. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, se dependente do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. 5. Alegação de ofensa ao princípio da legalidade. Enunciado 636 da Súmula desta Corte. 6. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.” (ARE 740877 AgR, Relator: Min. Gilmar Mendes, 2ª Turma, DJe 04.06.2013.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
