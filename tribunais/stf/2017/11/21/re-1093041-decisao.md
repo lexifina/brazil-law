@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado (e-STJ, fl. 139, Vol. 5):
+    PROCESSUAL CIVIL. AGRAVO INTERNO DO RECURSO EM MANDADO DE SEGURANÇA. PRECATÓRIO JUDICIAL. IDOSO, PORTADOR DE DOENÇA GRAVE. CRÉDITO HUMANITÁRIO. PAGAMENTO PREFERENCIAL MAIS DE UMA VEZ. POSSIBILIDADE. INEXISTÊNCIA DE VEDAÇÃO LEGAL. FUNDAMENTOS DO ACÓRDÃO. AUSÊNCIA DE IMPUGNAÇÃO. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. IRREGULARIDADE FORMAL QUE IMPEDE O SEGUIMENTO DO RECURSO. 1. Caso em que o Tribunal de origem denegou a segurança ao entendimento de que o idoso e o portador de doença grave podem receber precatório preferencial de crédito humanitário, mesmo que já tenha recebido outro em igual situação, visto que a Constituição Federal não limita a quantidade de vezes que um credor pode se beneficiar do referido crédito (humanitário). 2. A ausência de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283/STF (v.g.: AgInt no RMS 34.291/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 30/3/2017). 3. Agravo interno não provido.
+    No apelo extremo, interposto com amparo no art. 102, III, da Constituição Federal, a parte recorrente sustenta, em síntese, que o julgado ofendeu o art. 100, § 2º, da CF/1988.
+    É o relatório. Decido.
+    Trata-se de Mandado de Segurança contra ato do Presidente do Tribunal de Justiça do Estado de Rondônia que incluiu os ora substituídos em lista de credores a serem contemplados com o pagamento de precatório humanitário previsto no art. 100, § 2º, da Constituição Federal, mesmo aqueles já contemplados anteriormente com o referido benefício.
+    O Tribunal a quo, amparando-se na inobservância do princípio da dialeticidade, por ausência de impugnação aos fundamentos do acórdão proferido no Mandado de Segurança, aplicou o enunciado da Súmula 283 desta CORTE. Tal argumento, todavia, não foi infirmado pela parte ora recorrente que, em síntese, defendeu a existência de um limite à incidência do benefício da antecipação do crédito humanitário, em atenção ao princípio da isonomia e à escassez de recursos públicos, sem contudo, demonstrar de que forma o aresto recorrido teria afrontado o art. 100, § 2º, da CF/88.
+    Portanto, emergem como óbices ao conhecimento do Recurso Extraordinário os obstáculos constantes das Súmulas 283 (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles) 284 (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia), ambas do SUPREMO TRIBUNAL FEDERAL.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 21 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
