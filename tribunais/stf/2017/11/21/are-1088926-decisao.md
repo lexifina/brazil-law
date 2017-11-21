@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    União interpõe agravo contra decisão que não admitiu recurso extraordinário que impugna acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PENAL. MANDADO DE SEGURANÇA. IMPETRAÇÃO POR TERCEIRO: CABÍVEL. PENA DE PERDIMENTO NÃO DETERMINADA EXPRESSAMENTE. REEMBOLSO DO VALOR DO TRECHO NÃO UTILIZADO DE PASSAGEM AÉREA APREENDIDA. CONSEQUÊNCIA DA DECRETAÇÃO DA PENA DE PERDIMENTO: ILICITUDE.
+    1. Mandado de segurança impetrado contra ato do Juiz Federal da 5ª Vara de Guarulhos/SP que determinou o depósito em juízo do valor referente ao trecho do bilhete aéreo não utilizado por réu da ação penal.
+    2. Cabível a impetração, nos termos do entendimento jurisprudencial consolidado na Súmula 202 do Superior Tribunal de Justiça: "a impetração de segurança por terceiro, contra ato judicial, não se condiciona à interposição de recurso".
+    3. O réu da ação penal originária celebrou contrato de transporte aéreo de passageiro com a impetrante, recebendo o bilhete que lhe conferia o direito a empreender viagem. A impetrante, por sua vez, recebeu como contraprestação o valor cobrado pelo bilhete.
+    4. Negando a empresa aérea o caráter reembolsável do bilhete e não enquadrando-se o caso nas hipóteses do Código Brasileiro de Aeronáutica, não pode o Juízo Criminal exigir o reembolso, como simples e imediata conseqüência da decretação da pena de perdimento, ainda que implícita na condenação, como no caso dos autos.
+    5. A discussão sobre tal questão é de ser travada, se for o caso, pela União - em favor de quem foi decretada a devolução do valor - e a empresa aérea, pelas vias adequadas, e com obediência do devido processo legal. Precedentes.
+    5. Segurança concedida.”
+    Os embargos de declaração opostos não foram providos.
+    Em suas alegações, afirma a recorrente que o acórdão impugnado violou o art. 243, parágrafo único da Carta da República, uma vez que retirou a pena de perdimento, em favor da União, do valor das passagens aéreas que seriam utilizadas para fins de tráfico ilícito de entorpecentes.
+    Examinados os autos, decido.
+    Colhe-se do voto condutor do acórdão recorrido, que concedeu a segurança para afastar a ordem de depósito do valor correspondente ao trecho não utilizado da passagem aérea, a seguinte fundamentação:
+    “A questão que se coloca nestes autos, na verdade, é saber se é ou não lícita a requisição de reembolso do valor do trecho não utilizado da passagem aérea apreendida, em favor da União.
+    Entendo que não. O réu da ação penal originária celebrou contrato de transporte aéreo de passageiro com a impetrante, recebendo o bilhete que lhe conferia o direito a empreender viagem. A impetrante, por sua vez, recebeu como contraprestação o valor cobrado pelo bilhete .
+    A impetrante alega que o bilhete em questão não é reembolsável. Nos termos do artigo 203, parágrafo único da Lei nº 7.565/1986 - Código Brasileiro de Aeronáutica, a exploração de serviços de transporte aéreo público internacional sujeitam-se às disposições dos tratados ou acordos bilaterais vigentes com os respectivos Estados e o Brasil ou, na falta desses, ao disposto neste Código.
+    E, nos termos dos artigos 227 a 231 do Código Brasileiro de Aeronáutica, o reembolso do valor pago pelo bilhete é obrigação do transportador no caso de cancelamento da viagem, de atraso na partida superior a quatro horas, ou de interrupção ou atraso em aeroporto de escala, também por período superior a quatro horas.
+    Assim, negando a empresa aérea o caráter reembolsável do bilhete e não enquadrando-se o caso sub judice nas hipóteses do Código Brasileiro de Aeronáutica acima mencionadas, não pode o Juízo Criminal exigir o reembolso, como simples e imediata conseqüência da decretação da pena de perdimento (ainda que implícita na condenação, como no caso dos autos).
+    A discussão sobre tal questão é de ser travada, se for o caso, pela União - em favor de quem foi decretada a devolução do valor - e a empresa aérea, pelas vias adequadas, e com obediência do devido processo legal.
+    No sentido da impossibilidade do Juízo criminal exigir da empresa aérea o reembolso do valor do bilhete, em casos de perdimento decretado em ação penal, situação análoga a dos autos, situa-se o entendimento da Primeira Seção do Tribunal Regional Federal da Terceira Região:
+    (…)” - grifo nosso.
+    Assim, é certo que ultrapassar os fundamentos do acórdão recorrido e acolher a pretensão recursal da União não prescinde do reexame da legislação infraconstitucional pertinente e do conjunto fático-probatório dos autos, o que não se mostra cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. A propósito:
+    “DIREITO PENAL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. 1. A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Precedentes. 2. Agravo interno a que se nega provimento” (ARE nº 1.053.562/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 6/9/17).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. ALEGAÇÃO DE NULIDADES NO PROCESSO PENAL. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA REFLEXA. AGRAVO REGIMENTAL DESPROVIDO. I – A ausência de debate sobre os dispositivos constitucionais suscitados no recurso extraordinário impedem o exame da matéria no Supremo Tribunal Federal. II – A controvérsia dos autos foi resolvida com base em provas. Incidência da Súmula 279 do STF. III – Eventual violação ao texto constitucional, se ocorrente, seria reflexa, tendo em vista depender da reinterpretação de normas infraconstitucionais aplicáveis ao caso. IV – Agravo regimental desprovido” (ARE nº 1.031.035/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 21/9/17).
+    Nesse mesmo sentido, a seguinte decisão: ARE nº 888.178/SP, Relatora a Ministra Rosa Weber, DJe de 25/5/17.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 21 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
