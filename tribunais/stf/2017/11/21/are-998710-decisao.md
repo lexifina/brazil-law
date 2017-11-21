@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Órgão Especial do Tribunal de Justiça do Estado do Ceará, assim ementado (eDOC 7, pp. 39/40):
+    “EMENTA: EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES. MANDADO DE SEGURANÇA. ACÓRDÃO. INCONFORMAÇÃO. VÍCIO DE CONTRARIEDADE E OBSCURIDADE. CONCURSO PÚBLICO. PREJUDICIAL DE MÉRITO. REPROVAÇÃO NO CURSO DE CAPACITAÇÃO POR FALTA. REJEITADA. MÉRITO. VIOLAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. PUBLICIDADE VICIADA. CONFIGURADA. EMBARGOS DE DECLARAÇÃO. PROVIDOS.
+    1. A prejudicial de mérito refere-se a alegação de reprovação da impetrante no curso de capacitação por causa da quantidade de faltas, a qual deve ser reprochada, na medida em que tal fato decorreu única e exclusivamente por morosidade da própria administração pública, a qual não procedeu a matrícula da impetrante na época adequada. PREJUDICIAL REJEITADA.
+    2. In casu, há de se ressaltar o desrespeito aos ditames constitucionais e editalícios, porque a publicidade do concurso não foi ampla como determinado na Constituição e no Edital 002/2010. Ora, a convocação da impetrante para o curso de capacitação fora efetuada dentro do edital que noticiou o resultado da perícia médica, embora a impetrante não tenha se submetido a qualquer perícia. Considero não ser razoável exigir da embargante a leitura de toda e qualquer publicação, inclusive de resultado de perícia médica, quando a recorrente não é portadora de necessidade especial.
+    3. O princípio da publicidade não fora respeitado, pelo menos em sua integralidade, haja vista não fornecer informações a todos os candidatos de forma equânime, o que macula o princípio da igualdade. Entendimento doutrinário no mesmo sentido. Foi configurada violação aos princípios da publicidade e da razoabilidade. Precedentes do STJ e TJCE.
+    4. Embargos de Declaração com efeitos infringentes acolhido.” (Grifos no original)
+    Os embargos de declaração que se seguiram foram desprovidos (eDOC 7, pp. 86-104).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º, LV; e 37, “caput”, da Constituição Federal. Nas razões recursais, sustenta-se, em suma, que:
+    “... o instrumento usual de publicização da atividade administrativa é o Diário Oficial, sendo certo que, a partir da sua disponibilização, acessível a todos os cidadãos, restará atendido plenamente o princípio da publicidade.” (eDOC 8, p. 11)
+    “Deve-se informar que é dever do candidato, aceito quando de sua inscrição no certame, a leitura de todos os atos relativos ao certame, inclusive quanto às convocações, conforme expressamente previsto no edital.” (eDOC 8, p. 15)
+    “Com efeito, em tema de concursos públicos, a definição de critérios de publicização dos atos pertencem, exclusivamente, à Administração Pública, na pessoa do órgão gerenciador do certame, representado pela respectiva Banca Examinadora, desde que respeitados mínimos requisitos legais e haja respeito ao Edital.
+    Fixada esta premissa, tem-se que pretende a recorrida, na realidade, determinar que o magistrado substituta a atividade do administrador, pois, mesmo inexistindo vício a ser sanado, postula que o Judiciário interfira indevidamente no procedimento do concurso, conferindo-lhe outra oportunidade de convocação, mesmo tendo sido tal ato plenamente publicado pelo Diário Oficial, em flagrante desrespeito às regras da moralidade, da impessoalidade, da legalidade e da isonomia.” (eDOC 8, p. 16)
+     A Vice-Presidência do TJ/CE inadmitiu o recurso entendendo inexistente a alegada ofensa direta aos dispositivos constitucionais evocados (eDOC 8, pp. 61-63).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Na espécie, verifica-se que o Tribunal de origem, à luz dos fatos e provas constantes dos autos, entendeu existente o vício de publicidade, sob o argumento de que a convocação da impetrante para o curso de capacitação fora efetuada nos termos do edital que noticiou o resultado da perícia médica, embora a impetrante não tenha se submetido a qualquer perícia.
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, bem como o reexame das normas editalícias, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 21 de novembro de 2017.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
