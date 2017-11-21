@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região assim ementado (eDOC 1, p. 94) :
+    “AGRAVO DE INSTRUMENTO. IPTU E TAXA MUNICIPAIS. ALIENAÇÃO FIDUCIÁRIA IMÓVEL. ILEGITIMIDADE DA CEF. JUSTIÇA ESTADUAL
+    A alienação fiduciária de bem imóvel é a operação de financiamento através da qual o devedor/fiduciante, visando a garantia de determinada obrigação frente ao credor/fiduciário, concede a este a propriedade resolúvel de um imóvel, vuja posso fica desdobrada entre o devedor, que passa a ser possuidor direto, e o credor que se torna possuidor direto, e o credor que se torna possuidor indireto do bem.
+    A posse apta a ensejar a incidência do IPTU e taxas, somente seria aquela qualificada pelo ‘animus domini’, não incidindo sobre a aquisição da propriedade, tal como acontece nos casos do credor fiduciário que, possuindo a posse indireta do imóvel, não tem por objetivo a aquisição definitiva da propriedade do bem.
+    Há disposição de Lei atribuindo a responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel ao devedor fiduciante (lei 9.514/1997, § 8º do artigo 27).
+     A CEF é parte ilegítima para figurar no polo passivo da execução fiscal, de modo que os autos originários devem ser remetidos à Justiça Estadual.
+    Agravo de instrumento a que se nega provimento.”
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 146, III, “a”, do Texto Constitucional.
+    Nas razões recursais, sustenta-se que a Recorrida é proprietária do imóvel em conjunto com os devedores fiduciantes, devendo constar no polo passivo da demanda como responsável tributária.
+    Alega-se, ainda, que a Lei 9.514/1997 é via inadequada para contemplar matéria sob reserva de lei complementar.
+    É o relatório.
+    Inicialmente, convém reproduzir o assentado pelo Tribunal de origem, que manteve a decisão monocrática assim exarada (eDOC 1, p. 87):
+    “À vista dos referidos regramentos, forçoso concluir que o credor fiduciário não pode ser considerado como proprietário do imóvel para fins de sujeição passivo do IPTU, na medida em que o proprietário, como definido na lei civil – artigo 1.228 do Código Civil -, é aquele possuidor dos direitos do uso, gozo e disposição do bem, o que não ocorre no caso da propriedade fiduciária, onde não se fazem presentes nenhum desses direitos.
+    De outro vértice, o argumento no sentido de que o credor fiduciário é possuidor indireto do imóvel e que, nessa condição, seria contribuinte do imposto, ex vi do artigo 34 do CTN acima transcrito, também não comporta acolhimento.”
+    Sendo esses os fundamentos acolhidos pelo acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame da legislação infraconstitucional, notadamente o Código Civil, o CTN, a Lei 9.514/1997 e o código tributário municipal, o o que inviabiliza o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Veja-se, nesse sentido, o seguinte precedente:
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTOS INCIDENTES SOBRE BEM IMÓVEL (iptu E TAXAS MUNICIPAIS). EXCLUSÃO DA CAIXA ECONÔMICA FEDERAL (CREDORA FIDUCIÁRIA) DO POLO PASSIVO DO FEITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve anterior condenação em honorários advocatícios.” (ARE 991704 AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe 13.03.2017)
+    Em controvérsia análoga, veja-se o RE 1.082.362, de relatoria do Ministro Celso de Mello, DJe 24.10.2017; RE 1.085.364, de relatoria do Ministro Dias Toffoli, DJe 07.11.2017; e RE 1.090.646, de relatoria do Ministro Alexandre de Moraes, DJe 20.11.2017.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do artigo 932, IV, “a”, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 21 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
