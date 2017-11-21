@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. INEXISTÊNCIA. ESCLARECIMENTOS. 1 - Nos embargos de declaração opostos não se vislumbra a ocorrência de erro material. 2 - O laudo pericial mencionou que, " ... Como não foi apresentado exame de audiometria na admissão (de referência) e outras periódicas, não posso definir se a perda auditiva ocorreu devido ao trabalho a perda parcial de audição pode ter várias etiologias além da relacionada com o trabalho, sendo uma delas o próprio envelhecimento ... " (fi. 75). 3 - A matéria versada não diz respeito a benefício decorrente de acidente do trabalho, cuja competência para conhecer e julgar não seria deste Tribunal, a teor do que dispõe o art. 109, I, da Constituição Federal. 4 - Embargos de declaração rejeitados.” (eDOC 1, p. 153)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 109 do texto constitucional.
+    Nas razões recursais, alega-se incompetência absoluta da Justiça Federal para julgamento do feito, porquanto se discute benefício de acidente de trabalho. (eDOC 1, p. 184)
+    É o breve relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a matéria versada não diz respeito a benefício decorrente de acidente do trabalho. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Na espécie, não verifico a ocorrência de erro material. Vejamos: O laudo pericial mencionou que, ‘... Como não foi apresentado exame de audiometria na admissão (de referência) e outras periódicas, não posso definir se a perda auditiva ocorreu devido ao trabalho a perda parcial de audição pode ter várias etiologias além da relacionada com o trabalho, sendo uma delas o próprio envelhecimento ... ‘ (fi. 75). Com efeito, a matéria versada não diz respeito a benefício decorrente de acidente do trabalho, cuja competência para conhecer e julgar não seria deste Tribunal, a teor do que dispõe o art. 109, I, da Constituição Federal.” (eDOC 1, p. 152)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Benefício. Causa que não decorre exclusivamente de acidente de trabalho. Competência da Justiça Federal definida na origem. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido.” (ARE 636.437, Rel. Min. Dias Toffoli, Primeira Turma, Dje 10.10.2012)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO.BENEFÍCIO ACIDENTÁRIO. DOENÇA PROFISSIONAL. ACÓRDÃO PROFERIDO COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI-AgR 778.131, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1.8.2011)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 21 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
