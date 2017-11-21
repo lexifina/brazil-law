@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa reproduzo (eDOC 1, p. 71):
+    “Execução Fiscal. IPTU dos exercícios de 2001 a 2001 Sentença que reconheceu a ilegitimidade passiva do executado: Ação ajuizada em 2005 contra executado falecido em 1991. Aplicabilidade da Súmula 392 do STJ, por impossibilidade de modificação do sujeito passivo da execução. Sentença mantida. Recurso ao qual se nega provimento.”
+    Os embargos de declaração foram desprovidos (eDOC 1, p. 88).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 5º, LIV e LV, da Constituição Federal.
+    Nas razões recursais, sustenta-se que o juízo da execução não oportunizou ao Recorrente o direito de sanar eventuais vícios formais constantes da Certidão de Dívida Ativa. Essa situação violaria o princípio do contraditório e da ampla defesa.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalta-se que o Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não ostenta repercussão geral.
+    Confira-se, a propósito, a ementa do RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Ainda que assim não fosse, convém ressaltar o assentado pelo juízo de origem:
+    “Os documentos juntados aos autos trazem que antes da inscrição do débito na dívida ativa, o espólio ou os sucessores do imóvel já poderiam ser apontados como sujeitos passivos do tributo (IPTU), mas ainda assim o débito foi inscrito em nome de executado já falecido. Na Certidão de óbito consta que o executado Hermínio Alves faleceu em 20.01.1991, demonstrando que à época da inscrição a exequente tinha fácil acesso à informação de que o executado já era falecido e não deveria ter figurado como sujeito passivo do tributo em questão.”
+    Assim, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo, notadamente acerca da validade da CDA, demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. CDA. Nulidade. Princípio da legalidade. Incidência a Súmula 636/STF. Afronta reflexa. Fatos e provas. Súmula 279/STF. 1. Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade quando sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais na decisão recorrida (Súmula 636/STF). 2. O reexame da causa à luz da legislação infraconstitucional e dos fatos e provas dos autos, é vedado em sede de recurso extraordinário. Incidência do enunciado da Súmula nº 279/STF. 3. Agravo regimental não provido.”
+(ARE 840030 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 19.06.2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Tributário. Nulidade de CDA. 3. Incidência do Enunciado 279 da Súmula do STF. 4. Necessidade de exame prévio de normas infraconstitucionais. Ofensa reflexa. 5. Multa confiscatória. Prequestionamento. Precedentes 6. Taxa Selic. Débitos tributários. Legitimidade. Precedentes 7. Agravo regimental a que se nega provimento”
+(ARE 839366 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 18.02.2015)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. CDA. Nulidade. Alegada violação do art. 5º, LV, da CF/88. Infraconstitucional. Necessidade de reexame dos fatos e da provas. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. O exame da controvérsia relativa à nulidade da certidão de dívida ativa que fundamenta a execução fiscal pressupõe a análise da questão à luz legislação infraconstitucional aplicável, bem como o reexame das provas e dos documentos constantes nos autos, o que impede o conhecimento do recurso extraordinário. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido.”
+(ARE 872648 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 19.10.2015)
+    Ante o exposto, nego seguimento ao agravo, nos termos do artigo 932, IV, a, do CPC e do artigo 21, §1º, do RISTF.
+    Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo, bem como os §§ 3º e 4º do art. 98.
+    Publique-se.
+    Brasília, 21 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
