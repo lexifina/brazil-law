@@ -1,0 +1,24 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMISSIBILIDADE DE RECURSOS DE OUTROS TRIBUNAIS. MATÉRIA SEM REPERCUSSÃO GERAL. TEMA 181. RE 598.365. ALEGADA VIOLAÇÃO AO ARTIGO 5º, LVII, DA CONSTITUIÇÃO FEDERAL. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. SÚMULA 279/STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão do Superior Tribunal de Justiça que assentou, in verbis:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+    1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182/STJ.
+    2. Agravo regimental não provido”.
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, a parte recorrente sustentou preliminar de repercussão geral e, no mérito, apontou violação ao art. 105, III, “a” e “c”, da Constituição da República. Aduziu, ainda, ofensa ao princípio da presunção de inocência (art. 5º, LVII, da CRFB/88).
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a matéria referente ao cabimento de recursos da competência de outros tribunais não possui repercussão geral, pois está restrita ao âmbito infraconstitucional, o que não enseja a abertura da via extraordinária.
+    É o Relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Ab initio, assevere-se que, quanto à pretensão de admissibilidade do recurso especial, esta Corte já firmou entendimento no sentido de que a admissibilidade de recursos da competência de Cortes diversas, quando controversa, não revela repercussão geral apta a dar seguimento ao apelo extremo, consoante decidido pelo Plenário Virtual do STF, na análise do RE 598.365, Rel. Min. Ayres Britto, DJe de 26/3/2010, Tema 181, julgado que possui a seguinte ementa:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.“
+    Ressalte-se, ainda, não se revelar cognoscível, em sede de recurso extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, revelado pela alegação de eventual ofensa ao princípio da presunção de inocência (artigo 5º, LVII, da Constituição Federal). Referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279 do STF. Nesse sentido, aliás, é a jurisprudência desta Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal e Processo Penal. 3. Crime contra a liberdade sexual (art. 213 c/c art. 214 do Código Penal). 4. Ausência de prequestionamento, incidência das súmulas 282 e 356. 5. Suposta violação aos princípios do devido processo legal, do contraditório e da ampla defesa e da presunção de inocência. A ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. Precedentes. 6. Autoria e materialidade. Necessidade de revolvimento do acervo fático-probatório. Incidência da Súmula 279. 7. Agravo regimental a que se nega provimento.” (ARE 948.438-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 23/9/2016, grifei)
+    “RECURSOS EXTRAORDINÁRIOS COM AGRAVO – MATÉRIA PENAL – PRIMEIRO AGRAVO – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE SÚMULA 279/STF – SEGUNDO AGRAVO – ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV, LVII E 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA – AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO – AGRAVO INTERNO IMPROVIDO.” (ARE 1.022.673-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 26/6/2017, grifei)
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do referido verbete sumular, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de novembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
