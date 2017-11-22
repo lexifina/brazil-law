@@ -1,0 +1,23 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – ARTIGO 33, § 3º, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Segunda Vara Criminal da Comarca de Umuarama/PR, no processo nº 0003336-79.2008.8.16.0173, condenou a paciente a 4 anos, 11 meses e 15 dias de reclusão, em regime inicial fechado, ante a prática do crime previsto no artigo 1º, inciso II (submeter alguém, sob a própria guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico ou mental, como forma de aplicar castigo), combinado com o § 4º, inciso II (causa de aumento de pena em razão de a vítima ser criança), da Lei nº 9.455/1997. Ao fixar o regime mais gravoso, mencionou o § 7º do artigo 1º da Lei de Tortura.
+    O Tribunal de Justiça desproveu a apelação interposta pela defesa. Entendeu incabíveis a absolvição e a desclassificação pretendidas. Destacou a relevância da palavra da vítima, bem assim da avaliação psicológica e dos demais depoimentos, tendo-os como aptos a legitimarem a condenação.
+    Na sequência, o Vice-Presidente negou seguimento a recurso especial, referindo-se à impossibilidade de reexame fático-probatório e aos verbetes nº 282 e nº 356 da Súmula do Supremo. Agravo em recurso especial – de nº 85.414/PR – não foi conhecido pelo Relator.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 221.607, inadmitido pelo Relator, o qual deferiu a ordem de ofício para afastar a obrigatoriedade de imposição do regime inicial fechado e determinar que o Juízo da execução analisasse o caso concreto.
+    O Juízo da Vara de Execuções da Comarca de Cruzeiro do Oeste/PR, no processo nº 0002975-49.2014.8.16.0077, ao proceder ao reexame, estabeleceu o regime fechado. Reportou-se a três circunstâncias judiciais desfavoráveis consignadas na sentença: culpabilidade elevada, em virtude, consoante destacou, da atuação dissimulada da paciente, que agia de forma fria e inescrupulosa; motivação fútil no tocante aos atos de tortura perpetrados contra o enteado; e consequências do delito, afirmando-as extremamente nocivas ao desenvolvimento da criança. Ressaltou que a fixação do regime de cumprimento da pena faz-se observados os critérios descritos no artigo 59 do Código Penal, considerado o artigo 33, § 3º, do mesmo diploma, aludindo ao decidido pelo Juízo sentenciante.
+    A defesa formalizou agravo em execução – de nº 1.592.668-8 –, buscando o estabelecimento do regime semiaberto. A Primeira Câmara Criminal, ao desprovê-lo, assentou não merecer reparo o pronunciamento atacado, tendo-o como devidamente fundamentado.
+    No Superior Tribunal de Justiça, habeas corpus nº 388.872/SP, o Relator não acolheu o pedido de concessão de medida de urgência.
+    Os impetrantes sustentam o direito ao regime semiaberto, frisando tratar-se de paciente primária. Dizem inidônea a motivação do ato por meio do qual fixado o regime fechado, asseverando olvidado o disposto no artigo 33, § 2º, alínea “b”, do Código Penal, segundo o qual condenado não reincidente, cuja sanção seja superior a 4 anos e não exceda a 8, poderá, desde o início, cumpri-la em regime intermediário. Apontam a inobservância do princípio da individualização da pena.
+    Requerem, em âmbito liminar, seja declarada a nulidade da decisão prolatada pelo Juízo da execução e do acórdão formalizado pelo Tribunal de Justiça em sede de agravo em execução, assegurando-se à paciente o regime semiaberto. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça revelou ter ocorrido, em 17 de abril de 2012, o trânsito em julgado do título condenatório.
+    A fase é de apreciação da medida acauteladora.
+    2. Percebam a disciplina legal referente ao estabelecimento do regime de cumprimento da pena. Norteia-o o patamar alusivo à condenação e as circunstâncias judiciais. O Juízo da execução, ao proceder à reavaliação do regime, consoante determinado pelo Relator no habeas corpus nº 388.872, implementou o fechado. Levou em conta três circunstâncias judiciais desfavoráveis: culpabilidade elevada, motivação fútil e consequências do crime, ou seja, aplicou a regra prevista no artigo 33, § 3º, do Código Penal. Tem-se que atuou considerado o ordenamento jurídico, no que veio a ser acompanhado pelo Tribunal de Justiça por ocasião do julgamento do agravo em execução.
+    O habeas corpus pressupõe a configuração de ilegalidade e, ante as premissas acima consignadas, esta não surge.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 22 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
