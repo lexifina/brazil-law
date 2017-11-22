@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. ADMINISTRATIVO. ENSINO SUPERIOR. CERTIFICAÇÃO DE CONCLUSÃO DO ENSINO MÉDIO. UTILIZAÇÃO DO RESULTADO OBTIDO NO ENEM PARA EFETUAR MATRÍCULA EM CURSO DE UNIVERSIDADE FEDERAL PARA O QUAL FOI APROVADO. PORTARIA NORMATIVA 144/2012 DO INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA – INEP. LEI FEDERAL 9.394/1995 – LEI DE DIRETRIZES E BASES DA EDUCAÇÃO NACIONAL. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. ARTIGO 97 DA CONSTITUIÇÃO DA REPÚBLICA. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “MANDADO DE SEGURANÇA. PRETENSÃO DO IMPETRANTE DE OBTER CERTIFICADO DE CONCLUSÃO DO ENSINO MÉDIO, UTILIZANDO O RESULTADO OBTIDO NO ENEM, A FIM DE EFETUAR MATRÍCULA EM CURSO DE UNIVERSIDADE FEDERAL PARA O QUAL FOI APROVADO EM 11º LUGAR. NEGATIVA COM BASE EM PORTARIA NORMATIVA QUE TRAZ COMO REQUISITO PARA EMISSÃO DO CERTIFICADO A IDADE MÍNIMA DE 18 ANOS DO PARTICIPANTE NA DATA DA REALIZAÇÃO DA PRIMEIRA PROVA DO EXAME.
+    1. Direito Fundamental à Educação: artigos 205 e 208, inc. V, da CF.
+    2. As normas reguladoras do ENEM, no que respeita à idade mínima para a expedição do Certificado de Conclusão do Ensino Médio, nos termos dos arts. 1º e 2º da Portaria Normativa nº 144/2012, devem ser interpretadas em harmonia com a Constituição da República, que assegura, de forma prioritária, a toda criança e adolescente o direito à educação.
+    2. Carece de razoabilidade que um adolescente, prestes a completar a maioridade e matriculado no último ano do ensino médio, aprovado em 11º lugar para uma universidade federal, seja impedido de obter o certificado, porque ainda não completou dezoito anos.
+    3. Os conhecimentos necessários para ingresso na universidade foram regularmente aferidos com a realização do ENEM, devendo prevalecer, no caso concreto, o direito do menor à educação constitucionalmente assegurado, sendo de somenos importância sua idade cronológica.
+    CONCESSÃO DA ORDEM.” (Vol. 6 – fls. 9-15)
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega que o acórdão recorrido – ao deixar de aplicar a Lei 9.394/1995 no que se refere à idade mínima para a expedição do Certificado de Conclusão do Ensino Médio – realizou, por via transversa, o controle de constitucionalidade da referida legislação, sem, contudo, observar o princípio da reserva de plenário, insculpido no artigo 97 da Constituição da República.
+    O recorrido, em suas contrarrazões, pugna, preliminarmente, pelo não conhecimento do recurso, diante da ausência de demonstração da repercussão regal e, acaso superado o juízo de admissibilidade, pelo desprovimento do apelo (Vol. 4 – fls. 7-12).
+    O Tribunal a quo negou seguimento ao recurso extraordinário sob o argumento de incidência dos óbices erigidos pelas Súmulas 282 e 356 do STF (Vol. 4 – fls. 24-26).
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Com efeito, não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal a quo não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do artigo 97 da Constituição Federal, mas apenas interpretou a norma infraconstitucional que disciplina a matéria (Lei Federal 9.394/1995). Nesse sentido, confiram-se, à guisa de exemplo, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+    III - Agravo regimental a que se nega provimento.” (ARE 784.179-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 17/2/2014)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+    Ausência de argumentos capazes de infirmar a decisão agravada.
+    Agravo regimental a que se nega provimento.” (ARE 767.313-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 26/3/2015)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de novembro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
