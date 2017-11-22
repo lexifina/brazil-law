@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO ESTELIONATO Preliminares – Incompetência do Juízo - Conexão fática e probatória com feito que tramita na 1ª Vara Criminal da Comarca de Ribeirão Preto Pedido de reunião dos feitos Inviável - Separação dos processos correta e fundamentada - Reconhecimento da extinção da punibilidade do agente, por ter o dano sido ressarcido à vítima Impossibilidade Situação que não se aplica ao crime de estelionato – Pagamento realizado após o recebimento da denúncia Inaplicabilidade de legislação especial Preliminares rejeitadas Mérito - Pedido de absolvição Impossibilidade - Autoria e materialidade delitiva devidamente comprovadas Versão do réu restou isolada nos autos Conduta dolosa cabalmente demonstrada – Condenação era de rigor - Sentença que bem analisou o quadro probatório,devendo ser mantida por seus próprios fundamentos Recurso defensivo improvido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa ao art. 5º, LIV e LVII, da Constituição. Sustenta que: (i) “ao contrário do que se afirma no v. acórdão guerreado, a separação artificial dos feitos, além de violar diretamente o devido processo legal, gera, sem dúvida, inominável prejuízo ao recorrente – que se vê investigado e processado em inúmeros e esparsos procedimentos -, quando tudo não passa essencialmente do mesmo fato”; (ii) “não se pode confundir a conduta ilícita com a conduta lícita daquele que age com boa fé, não havendo a real intenção de causar o prejuízo alheio, iludir, mas que, por diversos motivos, acaba por cometer um ato jurídico que no máximo caracteriza um ilícito civil”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, Rel. Min. Gilmar Mendes).
+    A parte recorrente se limita a postular a análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Quanto à necessidade de reavaliação dos fatos subjacentes, confiram-se os seguintes trechos do voto condutor do acórdão recorrido:
+    “[...]
+    Preliminarmente, não há que se falar em reunião deste processo com o feito n° 976/2009, da 1a Vara Criminal da Comarca de Ribeirão Preto.
+    Com efeito, agiu com acerto o Magistrado de origem ao consignar que "à vista que o denunciado responde a vários processos nesta Comarca e também em outros foros, conforme bem discriminado pela defesa a fls. 218/225 – a indicar o montante de trinta e uma ações penais em andamento - parece-me evidente que a reunião dos processos implicará, evidentemente, em dificuldades para a colheita de provas e, quiçá, no julgamento da ação a considerar as inúmeras vítimas e, consequentemente a profusão de deprecatas a expedir. A prestigiar, portanto, o cumprimento de todos os atos processuais e a análise individual da conduta do denunciado, impraticável, portanto, a reunião dos processos. Não bastasse, houve o encerramento da instrução criminal desses autos" (fls. 246 - g.n.).
+    Desta forma, é certo que a reunião dos feitos poderia atrapalhar a marcha processual, mormente em razão da pluralidade de vítimas a serem ouvidas, com conseqüente expedição de cartas precatórias diversas.
+    E, quando da decisão, como já estava o presente processo com a instrução encerrada e pronto para ser julgado, evidente que a junção dos feitos apenas obstaria o deslinde desta causa, que já se arrasta desde o ano de 2008.
+    Temos, ainda, que, neste momento, este processo encontra-se em grau de recurso, não havendo motivos para determinar a reunião dos feitos, o que geraria, agora com mais razão, tumulto processual.
+    [...]
+    Além disso, não se vislumbra que a separação dos feitos tenha causado qualquer prejuízo ao réu, sendo certo que em sede de Execução Criminal poderá pleitear o reconhecimento da continuidade delitiva ou a unificação de suas penas.
+    […]
+    Note-se que os fatos aqui narrados, ainda que de origem civil ou comercial, constituem crime previsto na legislação penal, restando devidamente comprovado o dolo (animus tucri faciendí).
+    Desse modo, o delito restou configurado com a obtenção de vantagem ilícita pelo réu, ao induzir em erro, mediante engodo, terceiro de boa-fé.
+    Portanto, as alegações da Defesa não merecem ser acolhidas, eis que o conjunto probatório trazido aos autos é farto e suficiente para ensejar a condenação, que é de ser mantida em seus exatos termos."
+    […].”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 22 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
