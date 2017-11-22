@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, § 5º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao apontado dispositivo da Constituição da República.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 2.8.2017. ACIDENTE DE TRABALHO. PAGAMENTO DE PENSÃO POR MORTE. AÇÃO REGRESSIVA. PRESCRIÇÃO. NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. OFENSA REFLEXA. SÚMULA 279. 1. Nos termos da orientação firmada nesta Corte, é inviável o processamento do apelo extremo quando sua análise demanda o reexame da legislação aplicável à espécie e dos fatos e provas dos autos. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Nos termos do artigo 85, §11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo.” (ARE 1034831-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 27.10.2017.)
+    “Agravo regimental no recurso extraordinário com agravo. Trabalhista. Acidente de trabalho. Indenização. Prazo prescricional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.” (ARE 647.634-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 02.12.2011.)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Controvérsia acerca do prazo prescricional. Discussão de índole infraconstitucional. Precedentes. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento.” (ARE 734.619-AgR/DF, 2ª Turma, Rel. Min. Gilmar Mendes, DJe 04.6.2013.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
