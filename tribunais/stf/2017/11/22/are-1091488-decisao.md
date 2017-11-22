@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Apelação. Embargos à Execução Fiscal julgados procedentes. ITBI. Multa por registro de alienação de fração ideal sem a prova do pagamento do ITBI. Artigos 19 e 21 da redação originária da Lei n. 11.154/91, que impunham aos oficiais de Registro de Imóveis a obrigação de não efetuar nenhum ato sem a prova do pagamento do imposto ou do reconhecimento administrativo da não incidência, da imunidade ou da concessão de isenção. Órgão Especial deste Tribunal que, em situação análoga, envolvendo a própria Municipalidade de São Paulo, já se pronunciou sobre a questão da inconstitucionalidade da imposição de deveres aos tabeliães por lei municipal. Precedentes de que o ITBI tem por fato gerador a transmissão do imóvel ou dos direitos a ele , relativos junto ao Cartório Imobiliário. Recurso ao qual se nega provimento pelos fundamentos expostos no acórdão, prejudicadas as demais questões”. (eDOC 1, p. 195)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “b”, da Constituição Federal, aponta-se violação ao art. 156, II, do texto constitucional.
+    Nas razões recursais, alega-se que ocorrendo cessão dos direitos à futura aquisição do bem imóvel, estar-se-á diante de transmissão imobiliária — que revela a circulação de riqueza e, por isso mesmo há de ser tributado. (eDOC 2, p. 11)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Verifico que o entendimento fixado no acórdão não destoa da jurisprudência pacífica desta Corte, segundo a qual o fato gerador do ITBI origina-se no momento do registro do bem imóvel.
+    Nesse sentido, confiram-se os julgados abaixo:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. DEVIDO PROCESSO LEGAL. ITBI. FATO GERADOR. PROMESSA DE COMPRA E VENDA. 1. A jurisprudência do STF se consolidou no sentido de que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral. Precedente: RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013. 2. A transferência do domínio sobre o bem torna-se eficaz a partir do registro público, momento em que incide o Imposto Sobre Transferência de Bens Imóveis (ITBI), de acordo com a jurisprudência do Supremo Tribunal Federal. Logo, a promessa de compra e venda não representa fato gerador idôneo para propiciar o surgimento de obrigação tributária. 3. Agravo regimental a que se nega provimento”. (ARE 807255-AgR/RJ, Rel. Min. Edson Fachin, Primeira Turma,DJe 3.11.2015)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. ITBI. Fato gerador. Transferência efetiva da propriedade mediante registro em cartório. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento”. (ARE 825019-AgR/RJ, de minha relatoria, Segunda Turma, DJe 18.3.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
