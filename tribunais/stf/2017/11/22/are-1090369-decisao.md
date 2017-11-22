@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA — ICMS — Multa imposta por creditamento indevido de ICMS quando da aquisição de mercadorias de empresa o declarada inidônea — Descabimento — Empresas declaradas inidôneas posteriormente às operações de compra e venda de mercadorias — Adquirente que agiu de boa-fé, comprovada a efetividade das notas fiscais — Cancelamento do à débito fiscal que se impõe — Precedentes jurisprudenciais - Sentença reformada — Recurso á provido”. (eDOC 4, p. 5)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, LXIX;e 155, II, § 2º, I, do texto constitucional.
+    Nas razões recursais, alega-se que não há nos autos prova pré-constituída apta a ensejar a concessão da segurança, uma vez que a noticiada falsidade é objeto de inquérito policial e a própria recorrida coloca em dúvida a apontada falsidade. (eDOC 4, p. 78)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a impetrante agiu de boa-fé, ante os documentos apresentados que comprovaram a real existência dos negócios. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Dessa forma, vislumbra-se a boa-fé da impetrante, visto que os documentos juntados comprovam efetiva existência dos negócios; ou seja, que as mercadorias foram vendidas, entregues e devidamente quitadas, conforme se verifica nas transferências e autenticações bancárias, que correspondem aos valores apontados nas notas, não se evidenciando que a apelada tenha tido uma conduta inadequada em face da legislação que rege a matéria, ou tivesse como supor a irregularidade, considerando a forma de entrega da mercadoria. Não houve reciprocidade de conduta inidônea por parte da apelante ante a aparente regularidade das notas fiscais e efetiva entrega da mercadoria, com oportuno pagamento do preço”. (eDOC 4, p.8)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Além disso, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO TRIBUTÁRIO. ICMS. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. APROVEITAMENTO DE CRÉDITOS. NOTAS FISCAIS POSTERIORMENTE DECLARADAS INIDÔNEAS. COMPROVAÇÃO DA REALIZAÇÃO DA OPERAÇÃO COMERCIAL. INEXISTÊNCIA DE PAGAMENTO DO TRIBUTO. SÚMULA 279/STF. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes. 2. Agravo regimental a que se nega provimento”. (AI 751111 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe 11.2.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. ICMS. 4. Dívida ativa. 5. Fato gerador de aquisição de bem. 6. Impossibilidade de análise de legislação infraconstitucional e de reexame de matéria fático-probatória. Súmula 279. Precedentes. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental a que se nega provimento.” (ARE 902974 AgR, de minha relatoria, Segunda Turma, DJe 24.5.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
