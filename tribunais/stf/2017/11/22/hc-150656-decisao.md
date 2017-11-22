@@ -1,0 +1,29 @@
+Decisão:
+Ementa: Processual penal. Habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Ribeiro Dantas, assim ementado:
+    “PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA TRÁFICO E POSSE IRREGULAR DE ARMA DE FOGO. PRISÃO PREVENTIVA. QUANTIDADE E DIVERSIDADE DOS ENTORPECENTES APREENDIDOS. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+    1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+    2. No caso dos autos, quando da prisão em flagrante do recorrente, foram apreendidos, em sua residência e em seu estabelecimento comercial, 79 porções de cocaína, pesando 123 gramas e uma porção maior, com 63 gramas, também de cocaína, uma balança de precisão, dinheiro em moedas nacional e estrangeira e uma arma de fogo. Tais circunstâncias, além de configurar indícios de autoria, nos termos da exigência contida no art. 312 do CPP, justificam o encarceramento cautelar do recorrente, para garantia da ordem pública, diante do entendimento consolidado de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos, aliados aos demais apetrechos encontrados, podem servir de fundamento ao decreto de prisão preventiva.
+    3. Ademais, o recorrente registra anteriores passagens pela Vara da Infância e Juventude local e encontra-se respondendo em liberdade por ação penal de competência do Tribunal do Júri, o que também justifica sua segregação cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+    4. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa e a periculosidade do recorrente indicam que a ordem pública não estaria acautelada com sua soltura.
+    5. É incabível, na estreita via do habeas corpus, a análise de questões relacionadas à negativa de autoria, por demandarem o reexame do conjunto fático-probatório dos autos.
+    6. Recurso ordinário em habeas corpus desprovido.”
+    2. Extrai-se dos autos que o paciente foi preso em flagrante delito em 21.03.2017, pela suposta prática dos crimes previstos nos artigos 33 e 35, ambos c/c o artigo 40, III, todos da Lei 11.343/06 e no artigo 12 da Lei 10.826/03. O Juízo de origem, nos termos do art. 310, II, do Código de Processo Penal, converteu a prisão em flagrante em preventiva.
+    3.  Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado do Mato Grosso do Sul. Denegada a ordem, foi interposto recurso ordinário no Superior Tribunal de Justiça, não provido.
+    4.  Neste habeas corpus, a parte impetrante sustenta a ausência de fundamentação idônea para a decretação da custódia cautelar e requer a concessão da ordem a fim de revogar a prisão processual do paciente. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    Decido.
+    5. O habeas corpus não deve ser concedido.
+    6. Tal como apontou a autoridade impetrada, a prisão cautelar do paciente justifica-se em razão da quantidade da droga apreendida (“79 porções de cocaína, pesando 123 gramas e uma porção maior, com 63 gramas, também de cocaína”) e da fundada probabilidade de reiteração criminosa. Transcrevo, nesse sentido, as seguintes passagens do voto condutor do julgamento do recurso ordinário interposto no Superior Tribunal de Justiça:
+    “(...)
+    Os indícios de autoria estão configurados no fato de que, quando da prisão em flagrante do recorrente, foram apreendidos, em sua residência e em seu estabelecimento comercial, 79 (setenta e nove) porções de cocaína, pesando 123 (cento e vinte e três) gramas e uma porção maior, com 63 (sessenta e três) gramas, também de cocaína, uma balança de precisão, dinheiro em moedas nacional e estrangeira e uma arma de fogo.
+    Tais circunstâncias, além de configurar indícios de autoria, nos termos da exigência contida no art. 312 do CPP, justificam o encarceramento cautelar do recorrente, para garantia da ordem pública, diante do entendimento consolidado de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos, aliados aos demais apetrechos encontrados, podem servir de fundamento ao decreto de prisão preventiva.
+    (…)
+    Ademais, o recorrente registra anteriores passagens pela Vara da Infância e Juventude local e encontra-se respondendo em liberdade por ação penal de competência do Tribunal do Júri, o que também justifica sua segregação cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva, consoante pacífico entendimento desta Corte:
+    (...)”.
+    7. Nessas condições, o acórdão impugnado alinha-se à orientação jurisprudencial do Supremo Tribunal Federal no sentido de que a fundada probabilidade de reiteração criminosa, bem como a natureza e a quantidade da droga apreendida, que evidenciam a gravidade concreta da conduta, constituem fundamentação idônea para a decretação da custódia cautelar (Cf. HC 115.125, Rel. Min. Gilmar Mendes; HC 113.793, Rel. Min. Cármen Lúcia; HC 110.900, Rel. Min. Luiz Fux; HC 134.936, Rel. Min. Marco Aurélio, HC 140.512, Rel. Min. Ricardo Lewandowski).
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, não conheço do habeas corpus.
+    Publique-se.
+    Brasília, 22 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
