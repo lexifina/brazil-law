@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1762, de 21 de novembro de 2017
+Altera a Instrução Normativa RFB nº 1.711, de 16 de junho de 2017, que regulamenta o Programa Especial de Regularização Tributária (Pert) no âmbito da Secretaria da Receita Federal do Brasil, instituído pela Lei nº 13.496, de 24 de outubro de 2017.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto na Lei nº 13.496, de 24 de outubro de 2017, resolve:
