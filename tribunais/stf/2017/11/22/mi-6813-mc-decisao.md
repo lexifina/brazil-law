@@ -1,0 +1,22 @@
+MANDADO DE INJUNÇÃO. DIREITO CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ATIVIDADE PREJUDICIAL À SAÚDE OU À INTEGRIDADE FÍSICA. POLICIAL MILITAR. ART. 40, § 4º, III, DA CRFB/88. APOSENTADORIA ESPECIAL. PEDIDO DE MEDIDA LIMINAR. MANIFESTO DESCABIMENTO, CONSOANTE ITERATIVA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. MEDIDA LIMINAR INDEFERIDA.
+    Decisão: Trata-se de mandado de injunção, com pedido de medida liminar, impetrado por Valdemar Almeida dos Santos em face do Instituto Nacional de Seguro Social – INSS e do Congresso Nacional quanto a omissão na regulamentação da aposentadoria especial dos servidores cujas atividades sejam exercidas sob condições especiais que prejudiquem a saúde ou a integridade física, nos termos do artigo 40, § 4º, III, da Constituição da República.
+    Pugna o impetrante a condenação do INSS para “considerar o pedido de contagem do tempo especial de policial militar no RS como tempo apurado pelo fator 1,4 da mesma forma que faz com os trabalhadores do regime geral”.
+    Requer seja deferida medida liminar para “declarar o tempo de policial militar como especial para efeitos de aposentadoria no regime geral, de aposentadoria por tempo de contribuição pelo instituto de previdência nacional – INSS”. No mérito, pugna pela concessão da ordem injuncional, confirmando-se a liminar.
+    É o relatório. DECIDO.
+    Preliminarmente, deixo de apreciar o pedido de assistência judiciária gratuita, uma vez que, em mandado de injunção, não há custas processuais, tampouco condenação em honorários advocatícios (art. 25 da Lei 12.016/2009, c/c o art. 24, parágrafo único, da Lei 8.038/90, além da decisão proferida no MI 3.402-ED/DF, Rel. Min. Dias Toffoli, DJe 22/3/2012).
+    Quanto ao pedido de citação do Instituto Nacional do Seguro Social - INSS para figurar como litisconsorte passivo, razão jurídica não assiste ao impetrante.
+    É que, o INSS não tem legitimidade para regulamentar o art. 40, § 4º, da Constituição, de sorte que não dispõe de legitimidade passiva ad causam no mandado de injunção. Nesse sentido é o seguinte precedente desta Corte, in verbis:
+    EMENTA: AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO ESTADUAL. LEGITIMIDADE PASSIVA. 1. Apenas a autoridade, órgão ou entidade que tenha o dever de regulamentar a norma constitucional dispõe de legitimidade passiva 'ad causam' no mandado de injunção. 2. Agravo regimental ao qual se nega provimento. (MI 1525 AgR, Relatora Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 24/03/2011, DJe 12-04-2011).
+    Noutro giro, o pedido de concessão de liminar não merece acolhida, diante do seu manifesto descabimento, consoante iterativa jurisprudência da Corte (v.g., MI 940-MC/DF, rel. Min. Menezes Direito, DJe de 11/02/2009; MI 4.718-MC/DF, Rel. Min. Joaquim Barbosa, DJe de 05/6/2012; MI 4.753-MC/DF, Rel. Min. Rosa Weber, DJe de 24/5/2012, MI 4.149-TA/MG, Rel. Min. Ayres Britto, DJe de 28/11/2011, MI 542-MC/DF, Rel. Min. Celso de Mello, DJ de 05/11/1996 e MI 3.596-MC/DF, Rel. Min. Marco Aurélio, DJe de 1º/02/2011).
+    A corroborar essa assertiva, menciono o que consignou o Ministro Celso de Mello nos autos do MI 542 MC/DF, in verbis:
+    “A jurisprudência do Supremo Tribunal Federal - tendo presente a natureza da decisão injuncional (RTJ 133/11, Rel. Min. MOREIRA ALVES) – tem reputado incabível, em sede de mandado de injunção, a outorga de providência de natureza cautelar, especialmente quando o alcance desta ultrapassa os limites em que se deve conter o pronunciamento final do órgão judiciário”. (MI 542 MC/DF, Rel. Min. Celso de Mello, DJ de 05/11/1996).
+    Verifica-se, pois, que a tutela de urgência pretendida pelo impetrante está em desacordo com a orientação firmada por esta Corte nos referidos precedentes.
+    Ex positis, INDEFIRO o pedido de medida liminar, nos termos do art. 21, § 1º, do RISTF.
+    À Secretaria Judiciária para que promova a retificação da autuação, excluindo-se o Instituto Nacional do Seguro Social – INSS do polo passivo do mandado de injunção.
+    Notifique-se a autoridade impetrada para que preste informações no prazo legal (art. 5º, I, da Lei 13.300/2016), promovendo-se, também, a cientificação da Advocacia-Geral da União (art. 5º, II, da Lei 13.300/2016).
+    Após, ouça-se o representante do Ministério Público Federal (art. 7º da Lei 13.300/2016).
+    Publique-se. Int..
+    Brasília, 22 de novembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
