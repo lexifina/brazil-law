@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Maria Aparecida Rossini e outros contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “SERVIDORES MUNICIPAIS. Capital. Inativos. Gratificação de atividade. LM nº 15.364/11. LM nº 52.310/11. Extensão. Gratificação de atividade. Gratificação que não se incorpora aos vencimentos para nenhum efeito, nos termos da lei que a instituiu, paga tão somente aos servidores de nível básico e médio que estejam no efetivo exercício de suas atribuições, mediante aferição de desempenho individual e do desempenho institucional, o alcance de metas e a apresentação de títulos. Vantagem de natureza ‘propter laborem’. Precedentes deste Tribunal. Improcedência. Recurso dos autores a que se negou seguimento. Aplicação do art. 557 do CPC. Agravo interno desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    Cumpre ressaltar, desde logo, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei municipal nº 15.364/2011), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito dessa Suprema Corte (ARE 1.045.502-AgR/SP, Rel. Min. EDSON FACHIN – ARE 1.063.135/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO POR ATIVIDADE. EXTENSÃO AOS INATIVOS. NÃO POSSIBILIDADE. LEI COMPLEMENTAR MUNICIPAL Nº 15.364/2011. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 04.9.2012.
+    O Tribunal a quo decidiu que a Gratificação por Atividade aos integrantes das carreiras de níveis básico e médio depende de verificação de metas e realização de curso de reciclagem para sua concessão, razão pela qual não seria possível sua extensão aos servidores inativos. Para divergir desse entendimento, seria necessária a prévia análise da legislação infraconstitucional aplicável à espécie – Lei Complementar Municipal nº 15.364/2011, o que refoge à competência jurisdicional extraordinária, prevista no art. 102 da Constituição Federal.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    Agravo regimental conhecido e não provido.”
+    (ARE 724.094-AgR/SP, Rel. Min. ROSA WEBER)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXTENSÃO DE GRATIFICAÇÃO A SERVIDORES INATIVOS. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I – Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei Complementar municipal 15.364/2011), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes.
+    II – Agravo regimental improvido.”
+    (ARE 751.284-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto  a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 22 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
