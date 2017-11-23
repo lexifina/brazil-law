@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 3ª Região, confirmando o entendimento do Juízo, assentou, observada a legislação de regência, a ilegitimidade da credora fiduciária na execução fiscal de débito referente ao Imposto sobre a Propriedade Territorial Urbana – IPTU sobre o imóvel objeto de garantia fidejussória. No extraordinário cujo trânsito busca alcançar, o recorrente alega violado o artigo 146, inciso III, alínea “a”, da Constituição Federal. Aduz ser exigível a delimitação de exceção à regra prevista no artigo 123 do Código Tributário Nacional mediante lei complementar. Alegou a impropriedade da adoção de ressalva à norma tributária estabelecida na Lei nº 9.514/97, como definido no acórdão recorrido.
+    2. O Tribunal de origem concluiu pela ilegitimidade da Caixa Econômica Federal na execução fiscal sob exame. Asseverou a impossibilidade de execução de credora fiduciária de imóvel, ofertado em garantia fidejussória, como contribuinte do Imposto sobre a Propriedade Territorial Urbana – IPTU, ante o estabelecido no artigo 27, § 8º, da Lei nº 9.514/97 e no artigo 123 do Código Tributário Nacional. O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário quanto à necessidade de lei complementar para estabelecer ressalva à norma prevista no artigo 123 do Código Tributário Nacional, não foi enfrentado pelo Órgão julgador. Não se verifica, na espécie, a formalização dos devidos declaratórios. Padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 23 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
