@@ -1,0 +1,19 @@
+Decisão
+          Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão da Sexta Turma do Superior Tribunal de Justiça (Habeas Corpus 392.054/RJ, Rel. Min. ROGÉRIO SCHIETTI CRUZ).
+          Consta dos autos, em síntese, que o paciente foi condenado à pena de 11 anos de reclusão, em regime fechado, pela prática dos crimes de tráfico e associação para o tráfico ilícito de drogas (arts. 33 e 35 da Lei 11.343/06). Interposto recurso de apelação pela defesa, o Tribunal de origem negou-lhe provimento e determinou o início da execução provisória da pena. A defesa, então, interpôs recurso especial, pendente de julgamento no STJ.
+          Contra a decisão que determinou o cumprimento da reprimenda, a defesa impetrou habeas corpus no Tribunal estadual, cuja ordem foi denegada. Foi impetrado, então, outro writ no Superior Tribunal de Justiça, ao qual o Ministro relator negou seguimento. Essa decisão foi mantida pelo colegiado, no julgamento de agravo interno, em acórdão assim ementado:
+    PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E POSSE DE ARMA DE FOGO DE USO RESTRITO. SENTENÇA CONDENATÓRIA. DIREITO DE RECORRER EM LIBERDADE. ACÓRDÃO QUE CONFIRMA A SENTENÇA. EXECUÇÃO IMEDIATA DA PENA. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+    2. O Supremo Tribunal Federal, no julgamento do HC n. 126.292/SP, das ADCs n. 43 e 44, e, posteriormente, do ARE n. 964.246, sob a sistemática da repercussão geral, firmou o entendimento de que é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+    3. No caso, interposto recurso especial pela defesa contra o acórdão que confirmou a condenação do réu, é possível a execução imediata da pena, porquanto ocorreu o exaurimento da instância ordinária.
+    4. Agravo regimental não provido.
+          Nesta ação, o impetrante sustenta que o paciente sofre constrangimento ilegal, em razão do início do cumprimento da reprimenda antes do trânsito em julgado da ação penal. Requere, assim, a concessão da ordem, para que a execução da pena seja suspensa e, subsidiariamente, “a substituição da prisão preventiva por medida cautelar, conforme o teor do artigo 282, § 6º e artigo 319, ambos do Código de Processo Penal, com a redação determinada pela Lei 12.403/11”.
+          É o relatório. Decido.
+          A pretensão formulada não encontra amparo na orientação firmada por esta Corte, que, no julgamento do HC 126.292/SP (Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 17/5/2016), concluiu que a execução provisória de condenação penal confirmada em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência. Esse entendimento foi confirmado no julgamento das medidas cautelares nas ADCs 43 e 44 (julgadas em 05-10-2016), oportunidade na qual se decidiu, também, pelo indeferimento do pedido de modulação dos efeitos. E, em repercussão geral, foi reafirmada a jurisprudência, no exame do ARE 964.246 (Rel. Min. TEORI ZAVASCKI, DJe de 25/11/2016).
+          Portanto, o deferimento do pedido de expedição de mandado de prisão contra o paciente, para fins de execução da reprimenda, não enseja constrangimento ilegal.
+          Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO HABEAS CORPUS.
+          Publique-se.
+          Brasília, 23 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
