@@ -1,0 +1,31 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Antonio Donato em favor Cleomar Leite da Silva contra decisão monocrática da lavra do Ministro Gurgel de Faria, do Superior Tribunal de Justiça, que não conheceu do AREsp 538.291/SP.
+    Narra a inicial que o Juízo de Direito da 1ª Vara Criminal da Comarca de Taquaritinga/SP condenou o paciente à pena de 05 (cinco) anos, 04 (quatro) meses e 24 (vinte e quatro) dias de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas, tipificado no art. 12, c/c art. 18, i, ambos da Lei 6.368/76.
+    Em sede de apelação, o Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso defensivo.
+    Inconformada, a Defesa interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. O Ministro Felix Fischer, via decisão monocrática, negou seguimento ao recurso e, ato contínuo, rejeitados embargos de declaração. Após, o Relator na Corte Superior deu provimento ao respectivo agravo regimental defensivo, para não conhecer do agravo em recurso especial.
+    No presente habeas corpus, o Impetrante argumenta a possibilidade de aplicação, na hipótese, da causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/2006. Defende a fixação da pena no mínimo legal, com repercussão no regime inicial de cumprimento da pena e na substituição de pena privativa de liberdade por restritiva de direito. Requer, em medida liminar e no mérito, o redimensionamento da pena.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    O Superior Tribunal de Justiça, no julgamento do AgRg no AREsp n. 137.141/SE, mudou seu entendimento quanto à possibilidade de comprovação de feriado local ou suspensão do expediente forense em agravo regimental, acompanhando, assim, a alteração no âmbito do Supremo Tribunal Federal, no julgamento do AgRg no RE n. 626.358/MG.
+    (...).
+    Colhe-se dos autos que a publicação do acórdão da apelação se deu em 19/12/2012 e o protocolo do recurso especial em 09/01/2013.
+    O Tribunal de origem, ao proceder a admissibilidade do recurso especial não indicou sua extemporaneidade, tampouco a parte contrária apontou tal óbice, que veio a ser constatado apenas no âmbito deste Tribunal.
+    Sucede que, no presente recurso, o agravante apresentou comprovação apta a demonstrar que o expediente forense permaneceu suspenso no período de 20 de dezembro de 2012 a 6 de janeiro de 2013, fls. 530/534. Desse modo, o recurso especial foi protocolado no terceiro dia do prazo legal, sendo, portanto, tempestivo.
+    Superado o óbice, torno sem efeito a decisão dos embargos de declaração e reconsidero a decisão que negou seguimento ao recurso especial pela intempestividade.
+    Passo, assim, à análise do agravo em recurso especial interposto contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o processamento de recurso especial consubstanciado no art. 105, III, "a" e "c", da Carta Magna.
+    A inadmissibilidade do recurso louvou-se nos seguintes argumentos: ausência de fundamentação necessária e apta a autorizar o processamento do recurso especial; matéria ventilada sem o devido prequestionamento; dissídio jurisprudencial sem o cotejo analítico; incidência da Súmula 7 do STJ.
+    Da análise do agravo em recurso especial, verifica-se que o recorrente deixou de impugnar especificamente os fundamentos da decisão que embasaram a inadmissibilidade do recurso especial, limitando-se a repisar as razões do recurso especial, circunstância que atrai a incidência do disposto no art. 544, § 4º, I, do CPC.
+    (...).
+    Ante o exposto, DOU PROVIMENTO ao agravo regimental para revogar as decisões de fls. 506 e 521/522, e, com fundamento no art. 544, § 4º, I, do CPC, NÃO CONHEÇO do agravo em recurso especial”.
+     Registro a existência de óbice ao conhecimento do presente writ, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça, pois o ato impugnado é decisão monocrática extintiva do writ e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Por outro lado, compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem, o segundo, e definitivo, juízo de admissibilidade positivo ou negativo deste recurso de fundamentação vinculada.
+    O Supremo Tribunal Federal tem rejeitado submeter, a seu escrutínio, a decisão do Superior Tribunal de Justiça quanto à inadmissibilidade do recurso especial. Embora tal jurisprudência tenha se formado inicialmente no âmbito de julgamentos quanto à inadmissibilidade de recursos extraordinários sobre a matéria, foi também estendida ao habeas corpus (HC 112.130/MG, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012; e HC 99.174/SP, Rel. Min. Ayres Britto, 2ª Turma, DJe 26.8.2011).
+    À míngua de pronunciamento judicial conclusivo pela Corte anterior quanto à matéria trazida nestes autos, inviável a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+     Por outro lado, destaco a inviabilidade de utilização do habeas corpus como sucedâneo recursal ou revisão criminal (RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014).
+    De todo modo, conforme julgamento de mérito da repercussão geral no RE 600.817-RG/MS, Rel. Min. Ricardo Lewandowski, Plenário, DJe 30.10.2014, “é inadmissível a aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006 à pena relativa à condenação por crime cometido na vigência da Lei 6.368/1976”.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
