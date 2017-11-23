@@ -1,0 +1,19 @@
+DECISÃO: A Sociedade Educacional do Vale do Itajaí Mirim Ltda. – ASSEVIM formulou pedido de reconsideração, visando a aplicação da sistemática da Repercussão Geral ao caso ora em exame, considerados os Temas nºs 163 e 908/RG.
+    Cumpre assinalar, desde logo, que o pleito em questão não se revela viável, eis que a colenda Segunda Turma desta Suprema Corte, ao julgar o ARE 1.048.172-AgR/SC, Rel. Min. DIAS TOFFOLI, fixou entendimento que desautoriza a pretensão em referência:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Contribuição previdenciária patronal. Um terço de férias gozadas, horas extras, adicionais de insalubridade, periculosidade e adicional noturno. Verbas remuneratórias. Folha de salários. Ganhos habituais. Incidência.
+    1. A definição da natureza jurídica das verbas pagas pelo empregador, cuja natureza remuneratória é assentada pelo próprio texto constitucional, prescindem da análise de legislação infraconstitucional. A Constituição Federal consignou o caráter remuneratório das verbas referentes ao terço de férias usufruídas, à hora extra, aos adicionais de insalubridade, periculosidade e trabalho noturno.
+    2. O Tribunal Pleno, em sede de repercussão geral (Tema 20), fixou a tese no sentido de que ‘a contribuição social a cargo do empregador incide sobre ganhos habituais do empregado, quer anteriores ou posteriores à Emenda Constitucional nº 20/1998’. Desse modo, é válida a incidência de contribuição previdenciária patronal sobre os valores pagos a título de terço constitucional de férias, hora extra, adicionais de insalubridade, periculosidade e trabalho noturno, cuja natureza de contraprestação ao trabalho habitual prestado é patente.
+    3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC).
+    4. Inaplicável a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que a parte ora recorrente não foi condenada no pagamento de honorários sucumbenciais pela Corte de origem.”
+    Vê-se, desse modo, que inacolhível o pleito em questão.
+    Verifico, de outro lado, que a decisão por mim proferida nesta causa já transitou em julgado, eis que – como se sabe – simples pedido de reconsideração não se reveste de eficácia interruptiva ou suspensiva dos prazos recursais (RTJ 123/470 – RT 477/122 – RT 481/102 – RT 595/201).
+    Não se pode perder de perspectiva, neste ponto, que os prazos recursais são peremptórios e preclusivos (RT 473/200 – RT 504/217 – RT 611/155 – RT 698/209 – RF 251/244), razão pela qual, com o mero decurso “in albis” do lapso temporal respectivo, extinguiu-se, “pleno jure”, o direito de a parte ora requerente deduzir o recurso pertinente:
+    “– Os prazos recursais são peremptórios e preclusivos (RT 473/200 – RT 504/217 – RT 611/155 – RT 698/209 –  RF 251/244). Com o decurso, ‘in albis’, do prazo legal, extingue-se, de pleno direito, quanto à parte sucumbente, a faculdade processual de interpor, em tempo legalmente oportuno, o recurso pertinente.
+    – A tempestividade – que se qualifica como pressuposto objetivo inerente a qualquer modalidade recursal – constitui matéria de ordem pública, passível, por isso mesmo, de conhecimento  ‘ex officio’ pelos juízes e Tribunais. A inobservância desse requisito de ordem temporal, pela parte recorrente, provoca, como necessário efeito de caráter processual, a incognoscibilidade do recurso interposto.”
+    (AI 503.651-AgR/RJ, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e pelas razões expostas, indefiro o pedido de reconsideração, protocolado eletronicamente sob o nº 68.522/2017, por incabível, e, por tratar-se de decisão que já se tornou irrecorrível, determino seja certificado o trânsito em julgado da decisão por mim proferida e devolvidos os presentes autos ao E. Tribunal de origem.
+    2. Certifique-se
+    Publique-se.
+    Brasília, 23 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
