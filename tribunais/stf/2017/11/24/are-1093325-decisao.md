@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 4ª Câmara de Direito Público do Tribunal de Justiça de São Paulo, assim ementado:
+    “MANDADO DE SEGURANÇA - AGENTE DE SEGURANÇA PENITENCIÁRIA - REMOÇÃO POR UNIÃO DE CÔNJUGES - INADMISSIBILIDADE, NO CASO CASO, PELO PREJUÍZO AO SERVIÇO PÚBLICO - ORDEM CONCEDIDA - RECURSOS OFICIAL E DA FAZENDA DO ESTADO PROVIDOS.”
+    No recurso extraordinário, sustenta-se violação ao artigo 226 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, o acórdão recorrido denegou a segurança amparado nos seguintes fundamentos:
+    “A decisão monocrática não merece ser prestigiada, uma vez que realmente não se verifica no caso concreto nenhuma ofensa a direito líquido e certo da impetrante, a ser reparada na via eleita.
+    É que o direito de remoção assegurado aos servidores públicos por união de cônjuges, como não poderia ser diferente , encontra limitação no princípio da supremacia do interesse público, como resta claro da interpretação conjugada dos arts. 130 da Constituição Estadual e 234 e 235 da Lei Estadual n° 10.261/68, também aplicável à espécie:
+    (…)
+    Assim, ainda que haja disponibilidade de vagas na Penitenciária de Flórida Paulista, o déficit de servidores na unidade feminina ‘Sandra Aparecida Lario Vianna’ de Pirajuí, onde está lotada a impetrante, sem falar nas especificidades que distinguem os dois estabelecimentos prisionais, conforme documento de fis. 55/57, torna necessária a sua permanência , pela conveniência do serviço público.”
+    Nessa conformidade, verifica-se que o acolhimento da pretensão recursal não prescinde da análise da legislação local pertinente (Constituição do Estado de São Paulo e Lei Estadual nº 10.261/68) e dos fatos e provas dos autos, providências vedadas no âmbito do recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Suprema Corte.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. MANUTENÇÃO DA CESSÃO. PROTEÇÃO DA FAMÍLIA. ANULAÇÃO DE ATO ADMINISTRATIVO. INTERESSE PÚBLICO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 279 DO STF. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO” (RE nº 784.210/CE-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 31/5/16).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. REMOÇÃO PARA ACOMPANHAMENTO DE CÔNJUGE. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE nº 915.418/SP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 18/12/15).
+    “Agravo regimental no recurso extraordinário. Servidor público. Remoção. Impossibilidade de reexame de legislação infraconstitucional e de fatos e provas dos autos. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise de ofensa reflexa à Constituição Federal e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279 desta Corte. 2. Agravo regimental não provido” (RE nº 586.851/CE-AgR, Primeira Turma, de minha relatoria, DJe de 28/5/12).
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
