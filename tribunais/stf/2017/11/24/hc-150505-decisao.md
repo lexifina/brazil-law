@@ -1,0 +1,21 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Ian Anderson Staffa Maluf de Souza em favor de Elvis Cavalheiro da Silva, contra decisão monocrática da lavra do Ministro Joel Ilan Paciornik, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 410.016/PR.
+    O Juízo da 3ª Vara Criminal da Comarca de Foz do Iguaçu/PR condenou o paciente à pena de 05 (cinco) anos e 06 (seis) meses de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de drogas (art. 33 da Lei 11.343/2006), e de 01 (um) ano e 04 (quatro) meses de detenção, em regime inicial semiaberto, pelo delito de posse irregular de arma de fogo de uso permitido (art. 12 da Lei 10.826/2003).
+    Irresignada, a Defesa interpôs apelação perante o Tribunal de Justiça do Paraná, que negou provimento ao recurso.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Joel Ilan Paciornik, indeferiu liminarmente o HC 410.016/PR.
+    No presente writ, a Impetrante alega ausência de prova suficiente da prática do crime de tráfico de drogas. Sustenta a desclassificação da conduta de tráfico de drogas para a de uso de entorpecentes (art. 28 da Lei 11.343/2006). Ressalta a ínfima quantidade de droga apreendida. Requer, em medida liminar e no mérito, a desclassificação da conduta.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “(...).
+    Não há como conhecer do pedido.
+    É pacífico o entendimento desta Corte Superior de que não cabe habeas corpus para desclassificar a condenação de tráfico de drogas para uso de substância entorpecentes imposta ao paciente, pois a desconstituição das conclusões a que chegaram as instâncias ordinárias implica no aprofundado reexame de todos os fatos e provas constantes dos autos da ação penal, providência totalmente incompatível com os estreitos limites da via eleita, que é caracterizada pelo seu rito célere e vedação à dilação probatória.
+    São precedentes nossos:
+      (...).
+    Ante o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus”.
+    Registro a existência de óbice ao conhecimento do presente writ, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça, pois o ato impugnado é decisão monocrática extintiva do writ e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    De toda forma, o ato dito coator está em conformidade com a jurisprudência desta Corte no sentido de que “a apreciação do pedido de desclassificação da conduta imputada à ora paciente, ademais, também, implica necessariamente, no revolvimento do conjunto fático-probatório da causa, o que, como se sabe, não é possível nesta via estreita do habeas corpus, instrumento que exige a demonstração do direito alegado de plano e que não admite dilação probatória” (HC 118.349/BA, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 07.5.2014); ‘para operar-se a desclassificação pretendida, afastando-se as circunstâncias que levaram a julgadora de primeiro grau a reconhecer o tráfico, faz-se necessário o reexame de fatos e provas, incabível na via estreita do habeas corpus’ (HC 105.343/MS, Rel Min. Dias Toffoli, 1ª Turma, DJe 10.5.2012); e “A ação de habeas corpus – de caráter sumaríssimo – constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise aprofundada da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos indiciários e/ou coligidos no procedimento penal” (HC 92.887/GO, Rel. Min. Celso de Mello, 2ª Turma, DJe 19.12.2012). Outros precedentes: RHC 111.436/DF, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 02.4.2012; RHC 107.675/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 11.11.2011; e RHC 93.853/PA, Rel. Min. Menezes Direito, 1ª Turma, DJe 30.5.2008.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
