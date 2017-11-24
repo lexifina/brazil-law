@@ -1,0 +1,16 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de juízo de retratação pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “MANDADO DE SEGURANÇA – Funcionário Público Municipal que se insurge contra a redução de vencimentos – Aplicação do teto máximo da remuneração do Prefeito – Não aplicação sobre as vantagens pessoais, consoante entendimento da Suprema Corte – sentença mantida – Recursos não providos.”
+    A parte ora recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 606.358/SP, Rel. Min. ROSA WEBER, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. SERVIDORES PÚBLICOS. REMUNERAÇÃO. INCIDÊNCIA DO TETO DE RETRIBUIÇÃO. VANTAGENS PESSOAIS. VALORES PERCEBIDOS ANTES DO ADVENTO DA EMENDA CONSTITUCIONAL Nº 41/2003. INCLUSÃO. ART. 37, XI e XV, DA CONSTITUIÇÃO DA REPÚBLICA.
+    1. Computam-se para efeito de observância do teto remuneratório do art. 37, XI, da Constituição da República também os valores percebidos anteriormente à vigência da Emenda Constitucional nº 41/2003 a título de vantagens pessoais pelo servidor público, dispensada a restituição dos valores recebidos em excesso de boa-fé até o dia 18 de novembro de 2015.
+    2. O âmbito de incidência da garantia de irredutibilidade de vencimentos (art. 37, XV, da Lei Maior) não alcança valores excedentes do limite definido no art. 37, XI, da Constituição da República.
+    3. Traduz afronta direta ao art. 37, XI e XV, da Constituição da República a exclusão, da base de incidência do teto remuneratório, de valores percebidos, ainda que antes do advento da Emenda Constitucional nº 41/2003, a título de vantagens pessoais.
+    4. Recurso extraordinário conhecido e provido.”
+    O exame da presente causa evidencia que o acórdão ora questionado diverge da orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Vale referir que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questão idêntica à suscitada em sede recursal extraordinária (ARE 928.979/RJ, Rel. Min. DIAS TOFFOLI – ARE 963.881/SP, Rel. Min. EDSON FACHIN – RE 1.016.078/AM, Rel. Min. ROBERTO BARROSO, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, dou  provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, IV, “b”), em ordem a denegar o mandado de segurança impetrado pela parte ora recorrida. No que concerne à verba honorária, revela-se aplicável a Súmula 512/STF, reafirmada, agora, pelo art. 25 da Lei nº 12.016/2009.
+    Publique-se.
+    Brasília, 24 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
