@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – AUSÊNCIA DE PREQUESTIONAMENTO – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais confirmou o entendimento do Juízo quanto à improcedência do pedido de anulação de multa aplicada pelo PROCON, em razão da venda de produtos avariados e vencidos, com limitação quantitativa por cliente e sem precificação individual. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, incisos II e XL, e 24, parágrafos 1º e 3º, da Constituição Federal. Aponta a incidência da Lei estadual nº 13.765/2000. Destaca a constitucionalidade da Lei federal nº 10.962/2004, que regulamenta as formas de afixação de preços em produtos e serviços para o consumidor, ressaltando impor-se a retroação do referido diploma, porquanto mais benéfico.
+    2. De início, quanto à evocação do enquadramento do extraordinário na alínea “b” do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco da agravante, de vez que o Tribunal de origem não declarou a inconstitucionalidade de tratado ou de lei federal.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Assim, a alegação da recorrente no sentido de que a sobredita lei permite a utilização de códigos de barra para a precificação dos produtos é inócua.
+    Por sua vez, dispõe o art. 6°, III, do CDC que são direitos básicos do consumidor "a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem".
+    Cabe salientar que o art. 31 do CDC dispõe que:
+    'A oferta e apresentação de produtos ou serviços devem assegurar informações corretas, ciaras, precisas, ostensivas e em língua portuguesa sobre suas características, qualidades, quantidade, composição, preço, garantia, prazos de validade e origem, entre outros dados, bem como sobre os riscos que apresentam à saúde e segurança dos consumidores.'
+    Portanto, a oferta e a apresentação de produtos e serviços 'devem assegurar informações corretas, claras e precisas, não sendo o código de barras suficiente para garantir a todos os consumidores tais informações.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, sobretudo o Código de Defesa do Consumidor, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    A par desses aspectos, o que sustentado nas razões do extraordinário, quanto à violação dos referidos dispositivos constitucionais, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Ante o quadro, desprovejo o agravo.
+    4. Publiquem.
+Brasília, 24 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
