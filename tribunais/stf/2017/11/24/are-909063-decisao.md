@@ -1,0 +1,26 @@
+Decisão
+    Trata-se de Agravo contra decisão que negou seguimento a Recurso Extraordinário interposto, com fundamento no art. 102, III, da Constituição Federal, em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que possui a seguinte ementa (fl. 165, Vol. 1):
+    ADMINISTRATIVO. DEMISSÃO DE SERVIDOR. GOVERNO COLLOR. LEI 8.878/94. ANISTIA. INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. DATA DA DEMISSÃO. PRECEDENTES DO STJ. IMPOSSIBILIDADE JURÍDICA DO PEDIDO.
+    1. Sendo a pretensão de indenização por dano material dirigida contra a União, o prazo prescricional é de cinco anos (art. 1º do Decreto 20.910/32), a contar da data da demissão sem justa causa, segundo entendimento do STJ. No caso, o termo inicial é contado da interrupção do prazo prescricional, com a revogação da anistia concedida em 1994, pela edição do Decreto 1.449/1995.
+    2. Ainda que ultrapassada a questão do prazo prescricional, a jurisprudência do STJ é firme no sentido de que, nos termos da Lei 8.878/94, ex servidores demitidos no Governo 'Collor' não tem direito à percepção de valores retroativos a qualquer título em razão do desligamento, razão pela qual o pedido de pagamento de valores anteriores à readmissão é juridicamente impossível, uma vez que vedado em lei.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a recorrente sustenta, em síntese, que o julgado ofendeu os artigos 5º, caput, da Carta Magna, e ao artigo 8º, §§ 2º e 3º, do ADT.
+    A decisão agravada tem por fundamento a ofensa meramente reflexa à Constituição e a incidência da Súmula 282/STF.
+    No Agravo, a parte agravante sustenta, em síntese, que há violação direta à Carta Magna e que os dispositivos foram prequestionados.
+    É o relatório. Decido.
+    O Tribunal de origem, ao apreciar a controvérsia, assim se manifestou nos autos (fl. 161, Vol. 1):
+    A violação à esfera extrapatrimonial da parte apelante deu-se com a sua demissão, e, posteriormente com a revogação da anistia pela edição do Decreto nº 1.449 no ano de 1995. A partir de tal momento, nasceu para ela o direito de buscar judicialmente a reparação pelo ato tido como ofensivo. Veja-se que inexiste causa de impedimento, suspensão ou interrupção da prescrição.
+    Saliente-se que a reintegração obtida administrativamente, em 2009, não pode ser considerada como marco inicial do lapso extintivo. Ao contrário, a readmissão significou o reconhecimento do direito da parte autora a partir do ato reintegrador e nos limites que lhe foram reconhecidos. As lesões sofridas durante o período em que esteve alijada do serviço público - e que ora pretende reparar com a demanda em liça - foram mantidas e iniciaram-se com a mencionada demissão.
+    Gize-se, outrossim, que não se pode dizer que o advento da Lei nº 8.878/94 tenha suspendido ou interrompido o curso do prazo prescricional já iniciado. Ademais, aludido estatuto legislativo jamais previu indenização por danos sofridos anteriormente à reintegração. Para estes, restava à apelante somente a alternativa de propositura de demanda judicial, cujo prazo prescricional iniciou, como já salientado, com a sua demissão.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas indicadas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. Nesse sentido:
+    DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANO MORAL. ANISTIA POLÍTICA. PRESCRIÇÃO. DEBATE SOBRE O PRAZO PRESCRICIONAL. MATÉRIA DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. ACÓRDÃO RECORRIDO PUBLICADO EM 08.8.2014.
+    1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreender de modo diverso exigiria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte.
+    2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+    3. Agravo regimental conhecido e não provido. (ARE 925.476-AgR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 15/12/2015)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, porque o julgado recorrido foi publicado antes da entrada em vigor da nova codificação processual.
+    Publique-se.
+    Brasília, 24 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
