@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido de pagamento integral dos proventos de aposentadoria por invalidez, tendo por não preenchidos os requisitos da legislação de regência, aludindo ao laudo pericial. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos 5º, inciso XXXVI, 7º, 39, e 40, § 1º, da Constituição Federal. Discorre sobre o tema de fundo, insistindo no direito ao benefício pleiteado.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Ora, no caso vertente, possível entrever que o Município inicialmente concedeu a autora aposentadoria por invalidez com proventos integrais; mas, sendo possível rever seu próprio ato quando eivado de vício (dentro do prazo legal), ao verificar que as doenças apresentadas pela servidora não se enquadravam no rol taxativo do artigo 8% §5 1, da Lei Municipal n° 5.388/2005, editada em 19/05/2005 (v. fl. 351), um dia antes da publicação da sua aposentadoria que ocorreu em 20/05/2005 (v. fl. 132), a alterou para proventos proporcionais, não havendo que se falar em direito adquirido na espécie.
+    […]
+    De toda sorte, embora existam documentos médicos nos autos mencionando o quadro de tenossinovite crônica no tendão flexor do punho da apelante (v. fls. 29 e 50), não foi esta enfermidade que motivou a sua aposentadoria por invalidez permanente, máxime por ser ela uma doença controlável que poderia até mesmo levar a um reaproveitamento em outro posto de trabalho.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise das Leis municipais nº 1.729/68 e nº 5.388/05. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    De resto, o Tribunal, no recurso extraordinário com agravo nº 821.296/PE, da relatoria do ministro Roberto Barroso, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à verificação dos requisitos legais para a concessão de benefício previdenciário.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 24 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
