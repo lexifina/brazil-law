@@ -1,0 +1,15 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de José Antônio Bergamo Palchetti, contra decisão monocrática de Ministro do Superior Tribunal de Justiça que negou seguimento ao HC 399.698/SP (págs. 87-88 do documento eletrônico 2 e pág. 1 do documento eletrônico 3).
+    Consta da decisão combatida que o paciente foi “[...] denunciado pela suposta prática do crime previsto no artigo 1° [crime contra a ordem tributária], I [omitir informação, ou prestar declaração falsa às autoridades fazendária], da Lei n. 8.137/1990” (pág. 87 do documento eletrônico 2).
+    Os impetrantes alegam, em síntese, que,
+    “[na] hipótese vertente, em sede de cognição sumária, V. Exa., observará, de forma evidenciada, situação de flagrante ilegalidade, apta a ensejar o afastamento, excepcional, de qualquer óbice processual presente, mormente porque, no caso dos autos, manifesta a nulidade da decisão que confirma a admissibilidade da denúncia sem apreciar as teses arguidas na resposta à acusação, tratando-se a r. decisão objurgada, de um mero formulário pré-formatado, um modelo contendo fórmula genérica e desvinculada de qualquer base empírica” (pág. 2 do documento eletrônico 1).
+    Ao final, requerem
+    “[...] seja concedida à ordem de habeas corpus, em caráter definitivo, para fazer cessar o constrangimento ilegal a que está submetido o paciente, anulando-se o processo nº 0004117-42.2014.8.26.0358, a partir da decisão combatida e atos subsequentes, devendo outra ser proferida, apreciando-se os termos da resposta escrita à acusação, fazendo-o com fulcro nos arts. 5°, LV, LXVIII; art. 93, IX, da Constituição Federal; arts. 3°; 647, 648, VI, do Código de Processo Penal e art. 489, § 1°, do NCPC, bem como com alicerce nos argumentos expostos ao longo desta impetração” (pág. 23 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    A presente impetração volta-se contra decisão monocrática do Ministro Reynaldo Soares da Fonseca, que, como visto, negou seguimento ao HC 399.698/SP (págs. 87-88 do documento eletrônico 2 e pág. 1 do documento eletrônico 3).
+    Desse modo, este pleito não pode ter seguimento, sob pena de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, nego seguimento ao writ (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal). Prejudicado o exame do pleito cautelar.
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
