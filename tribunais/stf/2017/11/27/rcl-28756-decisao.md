@@ -1,0 +1,23 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pela União dos Estudantes da Paraíba (UEP), em face de três leis de municípios do mencionado Estado.
+    Na petição inicial, a reclamante alega que a decisão reclamada ofendeu a autoridade desta Corte, consubstanciada na decisão cautelar monocrática, ad referendum do Plenário, na ADI 5.108.
+    Afirma, em suma, que as Leis Municipais de João Pessoa 12.997/15 e 1.868/2017, e de Campina Grande 6.046/15, impedem-na de emitir carteiras de identidade estudantil nesses municípios, ou forçam-na a prestar contas a outra entidade para que possa fazê-lo. (eDOC 1, p. 9)
+    Requer a concessão de liminar para suspender os efeitos dos atos reclamados.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+    A decisão deste Tribunal com efeito vinculante que, segundo o reclamante, teria sido descumprida, é a medida cautelar na ADI 5.108, que suspendeu a eficácia da expressão “filiadas àquelas”, constante dos §§ 2º e 4º do art. 1º e do § 2º do art. 2º da Lei 12.933/2013, que dispõe sobre o benefício da meia-entrada para estudantes. Visou tal decisão a permitir que qualquer entidade estudantil pudesse emitir carteiras de identidade estudantil, sem a imposição de filiação às entidades de âmbito nacional.
+    Verifico que a Lei 12.997/2015 do Município de João Pessoa credencia diversas entidades estudantis, entre as quais a reclamante, a emitir a carteira de identidade estudantil – CIE, sem impedir que outras o façam.
+    Já a Lei 1.868/2017 do Município de João Pessoa obriga as entidades estudantis que emitem CIEs no Município a prestarem contas de suas atividades a órgão administrativo, sob pena de não mais poderem expedi-las.
+    Por outro lado, a Lei 6.046/2015 do Município de Campina Grande não é tratada no texto da exordial.
+    Dessarte, percebe-se que a reclamante não demonstrou a imposição, pelo três atos normativos impugnados, de filiação a outra entidade estudantil, para que possa emitir carteirinhas. Ao contrário, um deles lho permite expressamente.
+    Assim, não se verifica identidade material entre os atos reclamados e o decidido na medida cautelar da ADI 5.108, o que acarreta a inadmissibilidade da ação, por ausência de pressuposto de cabimento necessário.
+    Nesse sentido, trago precedentes de ambas as Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. AÇÃO CIVIL PÚBLICA. VALIDADE DE CONTRATO DE GESTÃO CELEBRADO ENTRE MUNICÍPIO E ORGANIZAÇÃO SOCIAL. ALEGADA AFRONTA À AUTORIDADE DO QUE DECIDIDO NO JULGAMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 3.395-MC/DF. AUSÊNCIA DE ESTRITA ADERÊNCIA. INAPLICABILIDADE DA TRANSCENDÊNCIA DOS MOTIVOS DETERMINANTES. AUSÊNCIA DAS HIPÓTESES DE CABIMENTO DA RECLAMAÇÃO. 1. À míngua de identidade material entre os paradigmas invocados e os atos reclamados, não há como divisar a alegada afronta à autoridade de decisão desta Excelsa Corte, mormente porque a exegese jurisprudencial conferida ao art. 102, I, “l”, da Magna Carta rechaça o cabimento de reclamação constitucional fundada na tese da transcendência dos motivos determinantes. 2. Agravo regimental conhecido e não provido”. (Rcl 11058 AgR, rel. Min. Rosa Weber, Primeira Turma, DJe 14.4.2016)
+    “RECLAMAÇÃO CONSTITUCIONAL. ALEGAÇÃO DE AFRONTA AO QUE DECIDIDO POR ESTA CORTE NA ADI 1.662/SP. AUSÊNCIA DE IDENTIDADE MATERIAL ENTRE OS FUNDAMENTOS DO ATO RECLAMADO E O QUE FOI EFETIVAMENTE DECIDIDO NO JULGADO APONTADO COMO PARADIGMA. PRECEDENTES. RECLAMAÇÃO IMPROCEDENTE, CASSADA A MEDIDA LIMINAR DEFERIDA. I - O ato decisório reclamado não guarda identidade material com a decisão proferida por esta Corte na Ação Direta de Inconstitucionalidade 1.662/SP, de relatoria do Ministro Maurício Corrêa. II - Reclamação julgada improcedente, com a consequente cassação da medida liminar anteriormente concedida”. (Rcl 21986, rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 6.12.2016)
+    Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF). Prejudicado o pedido liminar.
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
