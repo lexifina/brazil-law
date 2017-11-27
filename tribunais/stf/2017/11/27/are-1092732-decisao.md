@@ -1,0 +1,26 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “Apelação – direito administrativo – ação ordinária – servidor – pedido de aposentadoria especial – militar estadual – impossibilidade – regramento específico – art. 42, § 1° e 142, X da Constituição da República – Lei Estadual 5.301, de 1969 – Transferência para reserva – 30 anos de serviço – princípio da legalidade – apelação a qual se nega provimento.
+    1. O servidor militar possui regramento próprio quanto às condições para aposentadoria, tal como previsto nos art. 42, § 1° e 142, X da Constituição da República.
+    2. No Estado de Minas Gerais a lei 5.301, de 1969 contempla o Estatuto dos Militares do Estado, dispondo expressamente sobre os requisitos para a transferência para a reserva.
+    3. Dado que não foi intuito do legislador contemplar o servidor militar com aposentadoria especial, não pode a Administração Pública assim proceder, sob pena de manifesta ofensa ao princípio da legalidade.
+    4. Inexistência de ofensa ao Enunciado 33 da Súmula Vinculante do STF.” (pág. 3 do documento eletrônico 3) .
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se, em suma, violação ao art. 40, § 4°, I e II e § 12, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Destaca-se do voto condutor do acórdão recorrido (pág. 5 do documento eletrônico 3):
+    “[...]
+    E no Estado de Minas Gerais é a Lei 5.301, de 1969 que contém o Estatuto dos Militares do Estado de Minas Gerais, que, por sua vez, em seu art. 136, dispõe sobre as condições para a transferência para a reserva.
+    E no caso do autor, em que se pleiteia a aposentadoria por tempo de serviço, há que cumprir o prazo de 30 anos nos exatos termos da lei.
+                Art. 136 – Será transferido para a reserva remunerada o oficial ou praça que:
+                I – completar 30 (trinta) anos de efetivo serviço;
+    Logo, não tem qualquer suporte legal a pretensão de aposentadoria com prazo reduzido para 25 anos.
+    […]
+    Então, não dispondo a Lei Estadual 5.301, de 1969 sobre aposentadoria especial para militares é porque não foi intuito do legislador contemplá-los com esta modalidade de aposentadoria. Logo, adstrita que está ao princípio da legalidade, fica vedado à Administração Pública assim proceder.
+    […].”
+    Nesse contexto, observa-se que o tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei Estadual n° 5.301/1969). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que encontra óbice na Súmula 280 desta Corte. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “EMENTA DIREITO ADMINISTRATIVO. POLICIAL MILITAR ESTADUAL. APOSENTADORIA.REQUISITOS. LEI COMPLEMENTAR ESTADUAL Nº 1.062/2008. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Em se tratando de mandado de segurança, inaplicável o art. 85, § 11, do CPC/2015. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.” (ARE 1.050.066-AgR/SP, Rel. Min. Rosa Weber).
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO MILITAR. APOSENTADORIA ESPECIAL. ALEGAÇÃO DE OMISSÃO LEGISLATIVA. DECRETO-LEI 260/1970 DO ESTADO DE SÃO PAULO. INCIDÊNCIA DA SÚMULA 280/STF. 1. O Tribunal de origem assentou que inexiste omissão legislativa no Estado de São Paulo, referente ao regulamento da aposentadoria especial dos policiais militares do referido ente federativo, porquanto em vigor o Decreto-Lei 260/1970, que disciplina a matéria. 2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal a quo seria necessário o reexame da legislação infraconstitucional local pertinente. Incide, portanto, ao caso, a Súmula 280/STF. 3. Nos termos da orientação firmada nesta Corte, é incabível o recurso extraordinário por ofensa reflexa ou indireta à Constituição. 4. Agravo regimental a que se nega provimento.” (ARE 902.149-AgR/SP, Rel. Min, Edson Fachin).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
