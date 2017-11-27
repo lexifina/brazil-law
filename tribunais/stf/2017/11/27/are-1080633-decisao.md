@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário sob os fundamentos de incidência das Súmulas 282 e 636, deste Tribunal. (documento eletrônico 25).
+    O agravo não merece acolhida dado que o recorrente não atacou os fundamentos da decisão agravada, o que atrai a incidência da Súmula 287 desta Corte.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Relatora Ministra Rosa Weber; ARE 897.307-AgR/PE, Relator Ministro Edson Fachin; ARE 911.256-AgR/DF, Relator Ministro Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Ainda que superado esse óbice, verifico que o acórdão recorrido negou provimento ao agravo interposto contra o não seguimento do recurso de revista por entender ausentes os pressupostos de admissibilidade específicos para o cabimento do recurso. (documento eletrônico 8).
+    Desse modo, para divergir do referido entendimento, seria necessário reexaminar os pressupostos de admissibilidade de recurso de competência do TST, tema cuja repercussão geral foi rejeitada pelos Ministros deste Tribunal, no julgamento do RE 598.365-RG (Tema 181), Relator o Ministro Ayres Britto, em acórdão assim ementado:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
