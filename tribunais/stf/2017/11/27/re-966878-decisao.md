@@ -1,0 +1,25 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região que possui a seguinte ementa (Vol. 31):
+    PREVIDENCIÁRIO. DECADÊNCIA DO DIREITO DE REVISÃO. SUPREMO TRIBUNAL FEDERAL: RECURSO EXTRAORDINÁRIO Nº. 626.489/SE. SUPERIOR TRIBUNAL DE JUSTIÇA: RECURSO ESPECIAL Nº. 1.326.114/SC.
+    1. Em relação aos benefícios concedidos até 27/06/1997, ou seja, anteriormente à introdução do instituto da decadência no direito previdenciário, o prazo decadencial tem início no dia 01/08/1997, levando em conta que a primeira prestação superveniente à instituição da decadência foi paga em 07/1997, em decorrência da interpretação da aplicação do dispositivo - a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação. (art. 103 da Lei de Benefícios).
+    2. Nos casos dos benefícios concedidos posteriormente à edição da Medida Provisória nº. 1.523-9, ou seja, a partir de 28/06/1997, o prazo decadencial também tem início no dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo.
+    3. Havendo, no prazo legal de 30 dias (art. 305, do Decreto nº 3.048/1999), interposição de recurso administrativo pelo segurado contra o ato de concessão que atendeu parcialmente a pretensão, o prazo extintivo inicia-se com a ciência da decisão definitiva no âmbito administrativo que aprecie o recurso, de acordo com parte final do art. 103 da Lei nº. 8.213/1991.
+    4. Não há decadência quando o pedido administrativo de concessão de benefício tiver sido indeferido pela Autarquia Previdenciária, incidindo apenas a prescrição quinquenal sobre as prestações vencidas.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente sustenta, em síntese, que o julgado ofendeu o artigo 5º, XXXVI, da Constituição Federal.
+    É o relatório. Decido.
+    De início, verifico que acórdão recorrido exerceu o juízo de retratação para afastar a inaplicabilidade do prazo decadencial com fundamento na irretroatividade da MP 1.523/1997, com fulcro no entendimento afirmado pelo Plenário da CORTE no julgamento do RE 626.489-RG, Rel. Min. AYRES BRITTO, Tema 313.
+    Ademais, o Tribunal de origem, ao apreciar a controvérsia em juízo de retratação, concluiu que incide, no caso concreto, o prazo decadencial sob os seguintes fundamentos (Vol. 30):
+    O Superior Tribunal de Justiça, que já adotava o entendimento do Supremo Tribunal Federal, em razão do julgamento dos recursos especiais repetitivos anteriormente referidos, tem reiteradamente reformado as decisões deste Regional nos casos em que o reconhecimento da decadência foi afastado pela tese de que as questões não resolvidas no processo administrativo não seriam atingidas pelo prazo decadencial (REsp 1.406.361, AREsp 398.250, REsp 1.406.855, REsp 1.392.882 - todos julgados no segundo semestre de 2013).
+    A decadência no âmbito do direito previdenciário visa, portanto, à estabilização das relações jurídicas e econômicas estabelecidas entre a Autarquia Previdenciária e os beneficiários, tendo por objeto, ao fim e ao cabo, o valor do benefício propriamente dito.
+    [...]
+    No caso dos autos, o benefício foi concedido anteriormente à publicação da Medida Provisória nº. 1.523-9, de 28/06/1997, razão pela qual o prazo decadencial teve início em 01/08/1997, enquadrando-se na hipótese A das conclusões anteriormente apresentadas. A presente ação, por sua vez, foi ajuizada após o transcurso do prazo decenal.
+    Portanto, o processo deve ser extinto com resolução mérito, nos termos do art. 269, inc. IV, do Código do Processo Civil, em razão do reconhecimento da decadência do direito de revisão.
+    Assim, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    Embargos de declaração no recurso extraordinário. Conversão dos embargos declaratórios em agravo regimental. Benefício Previdenciário. Revisão. RE nº 564.354/SE-RG. Inaplicabilidade. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido. (RE 762.887-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 17/11/14).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
