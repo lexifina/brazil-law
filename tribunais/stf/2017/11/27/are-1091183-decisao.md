@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, assim ementado:
+    “RECURSO INOMINADO. MAGISTÉRIO ESTADUAL. CONTRATO ADMINISTRATIVO TEMPORÁRIO. VÍNCULO EMPREGATÍCIO NÃO RECONHECIDO. PERCEPÇÃO DE FGTS. AUSÊNCIA DE PREVISÃO LEGAL.
+    1) Trata-se de ação de cobrança através da qual a parte autora, contratada temporária do requerido, pretende o reconhecimento de vínculo empregatício, bem como à percepção ao pagamento do FGTS, julgada improcedente na origem.
+    2) Princípio da Legalidade - A Administração Pública é regida a luz dos princípios constitucionais inscritos no “caput” do artigo 37 da Carta Magna, sendo que o princípio da legalidade é a base de todos os demais princípios que instrui, limita e vincula as atividades administrativas. Dessa feita, o administrador público está adstrito ao princípio constitucional da legalidade e as normas de Direito Administrativo.
+    3) Da Contratação Emergencial - A Constituição Federal, em seu art. 37, IX, prevê a forma de contratação de servidor, na modalidade temporária, permitindo ao administrador a contratação de servidor por tempo determinado, visando atender ao interesse público. Em complementação, a Lei Estadual nº. 10.376/95 dispõe sobre a contratação de professor temporário, dispondo em seu art. 5º e 6º que o pagamento da remuneração do professor será realizado de acordo com as regras alcançadas aos servidores do quadro efetivo do magistério, ou seja, de acordo com as normas de direito público.
+    4) No caso telado, a demandante foi contratada em caráter temporário/emergencial para exercer a função de professora, nos termos do artigo 37, IX da CF e nos termos da Lei Estadual nº. 10.376/95, pelo que, o vínculo existente entre as partes é de natureza administrativa, não se tratando de relação de emprego com caráter obreiro clássico, razão pela qual, incabíveis as pretensões relativas aos dispositivos da CLT, especialmente ao pedido de vínculo e pagamento de FGTS.
+    5) Sentença mantida pelos próprios fundamentos, nos termos do art. 46, última parte, da Lei Federal nº 9.099/95.
+    RECURSO INOMINADO DESPROVIDO”.
+    Opostos embargos de declaração, não foram acolhidos.
+    No recurso extraordinário, sustenta-se violação dos artigos 7º, inciso III, e 37, incisos II e IX, e § 2º, da Constituição Federal.
+    Decido.
+    No julgamento do mérito do RE nº 596.478/RR, julgado sob a sistemática da repercussão geral, a Corte apreciou-se a questão relativa à constitucionalidade do art. 19-A da Lei nº 8.036/90, acrescido pela Medida Provisória nº 2.164-41, que assegura o direito ao FGTS à pessoa contratada pela Administração Pública sem a prévia realização de concurso público. O Tribunal, por maioria, entendeu que ante o reconhecimento de nulidade da contratação sem a prévia realização de concurso público, faz-se necessário reconhecer a existência de efeitos jurídicos residuais, qual seja, a necessidade de recolhimento da verba trabalhista.
+    O acórdão restou assim ementado:
+    “Recurso extraordinário. Direito Administrativo. Contrato nulo. Efeitos. Recolhimento do FGTS. Artigo 19-A da Lei nº 8.036/90. Constitucionalidade.
+    1. É constitucional o art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário.
+    2. Mesmo quando reconhecida a nulidade da contratação do empregado público, nos termos do art. 37, § 2º, da Constituição Federal, subsiste o direito do trabalhador ao depósito do FGTS quando reconhecido ser devido o salário pelos serviços prestados.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    In casu, o acórdão atacado atestou a higidez do contrato de trabalho, assentando que “A Lei estadual nº 10.376/95 dispõe sobre a contratação de professor temporário, dispondo em seu art. 5º e 6º que o pagamento da remuneração do professor será realizado de acordo com as regras alcançadas aos servidores do quadro efetivo do magistério, ou seja, de acordo com as normas de direito público, in verbis:”.
+    Assim, o acolhimento da pretensão recursal demandaria o reexame da causa à luz do conjunto fático-probatório dos autos e da legislação infraconstitucional local, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. A propósito:
+    “DIREITO ADMINISTRATIVO. CONTRATO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demanda a análise de cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, procedimentos inviáveis nesta fase recursal. Incidência das Súmulas 279 e 454/STF. Precedentes. 2. Agravo regimental a que se nega provimento.” (ARE nº 853.556/RS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 28/9/15).
+    No mesmo sentido, anotem-se as seguintes decisões monocráticas: ARE nº 987.200/MS, de minha relatoria, DJe de 28/11/19; RE nº 882.691/SC, Relatora a Ministra Rosa Weber, DJe de 5/4/16 e ARE nº 906.981/MS, Relator o Ministro Edson Fachin, DJe de 15/3/16.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
