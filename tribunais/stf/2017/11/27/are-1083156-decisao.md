@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 24, I, §§1º a 4º, e 155, II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A Corte de origem decidiu a controvérsia em acórdão cuja ementa transcrevo:
+    “AGRAVO DE INSTRUMENTO Execução Fiscal Exceção de pré-executividade Insurgência contra a r. decisão que acolheu parcialmente a pretensão, afastando os juros previstos pela Lei n. 13.918/09 - Alegada constitucionalidade da taxa de juros adotada pela Lei Estadual 13.918/09 Inadmissibilidade Decisão do Pleno do TJSP pela inconstitucionalidade da referida taxa Recurso improvido.”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: ARE 1069678/SP, Rel. Edson Fachin, DJe 28.09.2017, ARE 1071590/SP, Rel. Min. Gilmar Mendes, DJe 25.09.2017, e demais precedentes, verbis:
+    “Agravo regimental no agravo de instrumento. Tributos de competência do Estado. Correção monetária pela UFESP. Legitimidade declarada pelo Plenário do Tribunal. Parâmetro para atualização da unidade fiscal: índice fixado pelo Governo Federal. 1. A Corte consolidou o entendimento de que são válidos os decretos do Estado de São Paulo que determinaram a correção monetária do débito tributário antes do vencimento da obrigação, acentuando, contudo, que tal correção deve ser feita com base em índice que não supere aquele utilizado na atualização dos tributos federais. 2. Ademais, no julgamento da ADI nº 442/SP, da relatoria do Ministro Eros Grau, esta Corte teve a oportunidade de reafirmar esse posicionamento. 3. Agravo regimental não provido.” (AI 231875 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 30/10/2012, ACÓRDÃO ELETRÔNICO DJe-239 DIVULG 05-12-2012 PUBLIC 06-12-2012).
+    “ICMS – CORREÇÃO MONETÁRIA – COMPETÊNCIA CONCORRENTE – ARTIGOS 22, INCISO VI, E 24, INCISO I, DA CONSTITUIÇÃO FEDERAL – PRECEDENTE DO PLENÁRIO. O Tribunal, no julgamento do Recurso Extraordinário nº 183.907-4/SP, assentou competir ao Estado legislar sobre correção monetária de tributo, declarando o caráter oficial do fator da Fundação Instituto de Pesquisas Econômicas - FIPE utilizado na atualização da Unidade Fiscal do Estado de São Paulo - UFESP, devendo ser respeitado, como teto, o índice de reajuste dos tributos federais.” (AI 490050 AgR, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 13/04/2011, DJe-085 DIVULG 06-05-2011 PUBLIC 09-05-2011 EMENT VOL-02517-01 PP-00192).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
