@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que não admitiu recurso extraordinário tendo em vista que a análise do mérito demanda o reexame de direito local, a violar a Súmula 280/STF e que o órgão a quo não aplicou lei ou ato de governo local em face da Constituição Federal, a inviabilizar o RE com base no art. 102, III, c, da mesma Carta.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar os fundamentos da decisão agravada, reiterando apenas os argumentos expendidos no recurso extraordinário.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287/STF. Nesse sentido, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    Com o mesmo entendimento, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux e ARE 752.372-AgR/MG, de minha relatoria.
+    De todo modo, observo que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional local, aplicável à espécie (Lei Complementar 3.181/1976 do Município de Ribeirão Preto). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo de origem. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280/STF. Incabível, portanto, o recurso extraordinário.
+    Além disso, verifico que o acórdão impugnado não julgou válida lei ou ato de governo local contestado em face da Constituição, o que inviabiliza o apelo extremo com base na alínea c do art. 102, III, da mesma Carta.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
