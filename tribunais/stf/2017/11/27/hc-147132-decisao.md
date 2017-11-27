@@ -1,0 +1,21 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Odair José Moura, contra decisão monocrática de Ministro do Superior Tribunal de Justiça que indeferiu liminarmente o HC 411.745/SP (documento eletrônico 15).
+    Consta da decisão combatida que, “[...] em razão da prática, em tese, do crime de furto tentado de automóvel, o paciente foi preso em flagrante, o qual foi convertido, posteriormente, em prisão preventiva” (pág. 1 do documento eletrônico 15).
+    O impetrante alega, em síntese, que
+    “[o] paciente sofre evidente e desnecessário constrangimento ilegal, sanável, entretanto, pelo presente remédio constitucional.
+    Seja a decisão do juízo de piso, seja aquelas proferidas pelo Tribunal estadual e/ou pelo Superior Tribunal de Justiça, que apontaram, em síntese, o perigo abstrato do crime de furto e reincidência para justificar a manutenção da prisão cautelar da paciente.
+    Veja que nenhuma das decisões apontou motivo concreto de modo a evidenciar que a soltura do paciente no caso proposto cause eventual risco a ordem pública, instrução criminal e/ou frustração da lei penal.
+    Note-se, que a decisão atacada, por exemplo, está lastreada na reincidência, o que, segundo aludida decisão, evidencia, primo oculi, o risco concreto de reiteração delitiva, a ensejar, por conseguinte, a necessidade da custódia preventiva para garantia da ordem pública.
+    Na espécie, com o devido respeito, não há fundamento concreto a basilar eventual manutenção da prisão cautelar do paciente, aliás, a reincidência, per si, não é fundamento idôneo para lastrear a decretação e/ou a manutenção da prisão.
+    As decisões anteriores, seja a decisão do juízo de piso, seja aquelas proferidas pelo Tribunal estadual e pelo Superior Tribunal de Justiça, é contrária a jurisprudência consolidada nos Tribunais Superiores e nessa própria casa de Justiça.
+    Sendo assim, cabe, com o devido respeito, afastar a Súmula 691 e afastar a prisão preventiva do paciente. Não há como a prisão preventiva ser baseada em um perigo abstrato, duvidoso, que pode ou não acontecer, sem que haja nenhum indício concreto de que ocorrerá novamente. Este é um argumento inquisitório, irrefutável, onde não há possibilidade de se exercer a defesa diante da impossibilidade de demonstrar a contraprova. Conquanto comprovar que amanhã, permanecendo solto, não irá o agente cometer um crime. É uma análise impossível de ser feita” (pág. 6 do documento eletrônico 1).
+    Ao final, requer
+    “[...] seja deferida a medida liminar impetrada para revogar a prisão cautelar do paciente, concedendo ao mesmo o direito de responder em liberdade ao processo, determinando a imediata expedição de alvará de soltura em favor do mesmo, posteriormente, se entender necessário, seja notificando a DD. autoridade coatora a prestar as informações de estilo, e que ao final, a Turma conceda o presente habeas corpus, tornando definitiva a liminar que esperamos, com o devido respeito, seja concedida, por ser de lídima Justiça” (pág. 9 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    A presente impetração volta-se contra decisão monocrática do Ministro Rogério Schietti Cruz que indeferiu liminarmente o HC 411.745/SP (documento eletrônico 15).
+    Desse modo, este pleito não pode ter seguimento, sob pena de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, nego seguimento ao writ (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal). Prejudicado o exame do pleito cautelar.
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
