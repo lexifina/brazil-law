@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “APELAÇAO E REEXAME NECESSÁRIO — Servidora Pública Municipal — Abono desempenho — Incorporação aos vencimentos — Procedência — Pretensão de reforma — Possibilidade em parte - Vantagem de caráter transitório, não incorporável — Pedido alternativo de pagamento no período de férias e outros afastamentos considerados como de efetivo exercício, bem como sobre o 13° salario e contribuição previdenciária — Verba indevida em relação ao 13° salário e contribuição previdenciária — Devido, contudo, o pagamento durante os afastamentos, nos termos da Lei n° 1.972/72 - Recurso de apelação e Reexame necessário parcialmente providos” (pág. 198 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 7°, VIII, e 39, § 3°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Verifica-se que o Tribunal de origem, com apoio na legislação infraconstitucional local aplicável à espécie (Lei 3.925/1995 do Município de Piracicaba/SP), concluiu que o abono desempenho não seria incorporável aos vencimentos dos servidores, afastando a pretensão de que essa verba deveria integrar a base de cálculo para a apuração do 13° salário.
+    Desse modo, para divergir desse entendimento e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame da norma local alusiva ao caso, o que é vedado pela Súmula 280 do STF. Nesse sentido, destaco a ementa do ARE 909.659-AgR/SP, da relatoria da Ministra Cármen Lúcia, em que se analisou situação idêntica à destes autos:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. ABONO DE DESEMPENHO. NATUREZA JURÍDICA. INTEGRAÇÃO DA BASE DE CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2°, do CPC.
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
