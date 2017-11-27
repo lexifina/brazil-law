@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 7º, IX, e 39, § 3º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADICIONAL NOTURNO. AUSÊNCIA DE PREVISÃO EM LEI MUNICIPAL. REAPRECIAÇÃO DE NORMA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Para divergir da conclusão adotada pelo acórdão recorrido, seria necessário a realização de nova interpretação da legislação infraconstitucional local aplicável à espécie (Leis Municipais 667/2002 e 787/2009), circunstância que torna inviável o recurso, nos termos da Súmula 280 do STF. Precedente. II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais dos § 2° e § 3°, do mesmo artigo. III – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.” (ARE 965.696-AgR, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 29.5.2017.)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 8.7.2016. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL NOTURNO. EXAME DE LEI LOCAL. INVIABILIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. DESPROVIMENTO DO AGRAVO. 1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à possibilidade de concessão do adicional noturno à recorrente, seria necessário o reexame dos fatos e provas, além da legislação aplicável à espécie. Incidência das Súmulas 279 e 280 do STF. Precedentes. 2. Agravo regimental a que se nega provimento.” (ARE 979.996-AgR, Rel. Min. Edson Fachin, 1ª Turma, DJe 26.10.2016.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
