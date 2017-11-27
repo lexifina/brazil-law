@@ -1,0 +1,26 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “RECURSO DE APELAÇÃO. CONCURSO PÚBLICO. INVESTIGAÇÃO SOCIAL. ELIMINAÇÃO. AUSÊNCIA DE ILEGALIDADE.
+    1. Ação mandamental pela qual candidato ao cargo de soldado Policial Militar insurge-se contra eliminação advinda de fatos apurados em investigação social, da qual não teve conhecimento.
+    2. Motivação exposta no curso do processo, de forma a convalidar ato administrativo. Impossibilidade de, desde que não constatado desvio de finalidade, reapreciar os elementos que motivaram a comissão do concurso em decidir pela eliminação – mérito do ato administrativo. Sentença denegatória mantida.
+    Recurso desprovido” (pág. 2 do documento eletrônico 103).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 1º, III; 5º, LVII; e 37, I e II, da mesma Carta, bem como ao princípio da proporcionalidade.
+    A pretensão recursal não merece acolhida.
+    O tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “O autor foi eliminado de concurso público em razão de haver-se apurado, em investigação social, fatos considerados desabonadores, consoante documento apresentado pela autoridade impetrada a fls. 30/90, denominado ‘informação pessoal’. Tenho que a reavaliação deste ponto por parte do Judiciário (desde que não demonstrada falta de razoabilidade ou proporcionalidade) resultaria em manifesta ofensa ao artigo 2º da Constituição Federal, pois a avaliação da pertinência ou não das alegações é objeto do próprio mérito do ato administrativo.
+    Ademais, ainda que ultrapassado o referido óbice, insta ressalvar que, de tudo quanto consta dos autos, verifica-se que o autor incorreu em regra expressa do Edital do concurso, que estabeleceu dentre as várias hipóteses de exclusão do concurso, a regra sobre a inexatidão ou omissão dos dados declarados pelo candidato no item ‘5.29’. Isto, porque se constata que houve a omissão de dados pelo impetrante ao apresentar os dados requeridos acerca de sua vida no Formulário de Investigação Social (FIS) – dados esses que foram descobertos durante a investigação de vida pregressa feita pela equipe designada pela Comissão de Concurso. Como bem assentou o magistrado a quo em sua bem lançada sentença:
+    ‘a eliminação do impetrante não pode ser considerada desproporcional ou desarrazoada, pois motivadas em condutas do impetrante que o desabonaram perante a Comissão Examinadora a qual agiu em conformidade com o edital e, assim, impediram-no de obter indicação ao cargo de policial milita (...) Não sendo desproporcional a exclusão do impetrante do certame, deve prevalecer a discricionariedade da administração.’
+    [...]” (págs. 6-7 do documento eletrônico 103).
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos e de cláusulas do edital do certame, o que é vedado pelas Súmulas 279 e 454 desta Corte. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco julgados de ambas as Turmas deste Tribunal cujas ementas transcrevo a seguir:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONCURSO PÚBLICO. INVESTIGAÇÃO SOCIAL. OMISSÃO DE INFORMAÇÃO. SÚMULAS 279 E 454/STF. PRECEDENTES.
+    1. Para dissentir da solução conferida pelo Tribunal de origem, faz-se imprescindível nova apreciação dos fatos e do material probatório constantes dos atos, bem como das cláusulas editalícias, o que é vedado na instância recursal extraordinária (Súmulas 279 e 454/STF). Precedentes.
+    2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015” (ARE 953.762-AgR/SC, Rel. Min. Roberto Barroso, Primeira Turma – grifei).
+    “Segundo agravo regimental no recurso extraordinário com agravo. Concurso público. Formulário de investigação social. Omissão do candidato quanto a fato relevante. Reprovação. Fatos e provas. Cláusulas do edital. Reexame. Impossibilidade. Incidência das Súmulas nºs 279 e 454/STF. Precedentes.
+    1. A jurisprudência do Supremo Tribunal é assente no sentido de que, na análise do recurso extraordinário, os fatos devem ser considerados na ‘versão do acórdão recorrido’.
+    2. Para acolher a tese do agravante no sentido de que o acórdão recorrido teria incorrido em erro material e que, portanto, ele deveria ser considerado apto na fase de investigação social, seria necessário reexaminar o conjunto fático-probatório da causa e as cláusulas do instrumento convocatório do concurso público, o que é inadmissível em recurso extraordinário. Incidência das Súmulas nºs 279 e 454/STF.
+    3. Agravo regimental não provido” (ARE 881.318-AgR-segundo/SP, Rel. Min. Dias Toffoli, Segunda Turma – grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
