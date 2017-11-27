@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “EMENTA: EXCEÇÃO DE INCOMPATIBILIDADE. JUNTADA DE DOCUMENTOS EM MOMENTO POSTERIOR AO ENCERRAMENTO DA FASE INSTRUTÓRIA. EXCESSO DE LINGUAGEM EM DESPACHO QUE NOTIFICA AS PARTES PARA SE MANIFESTAREM SOBRE OS DOCUMENTOS. DEVOLUÇÃO DE PETIÇÃO APRESENTADA PELA DEFESA DO EXCIPIENTE. A JUNTADA DE DOCUMENTOS ENCAMINHADOS PELA AUTORIDADE POLICIAL ACERCA DE QUEBRAS DE SIGILO BANCÁRIO E TELEFÔNICO DAS PARTES É OBRIGAÇÃO DO MAGISTRADO. DOCUMENTOS QUE JÁ HAVIAM SIDO RELATADOS, E, OS RESPECTIVOS RELATÓRIOS JUNTADOS AOS AUTOS. JUNTADA DE DOCUMENTOS QUANDO OS AUTOS ENCONTRAVAM-SE CONCLUSOS AO JUIZ. A EXPRESSÃO IMPUGNADA PELO EXCIPIENTE É VAGA E IMPRECISA, NÃO SE CONSTATANDO, LIVRE DE DÚVIDAS, A FALTA DE ISENÇÃO DO EXCEPTO. A PETIÇÃO NÃO FORA RECEBIDA POIS OSAUTOS NÃO MAIS SE ENCONTRAVAM NO JUÍZO. IMPROCEDÊNCIA DA EXCEÇÃO.
+    1. O Excipiente indica que a juntada de documentos aos autos em momento posterior ao encerramento da fase instrutória, revela conduta parcial do Magistrado.
+    2. No entanto, é dever do Juiz de Direito acostar aos autos documentos encaminhados pela Autoridade Policial que digam respeito à quebra de sigilo telefônico e bancário dos réus. Os referidos documentos, não obstante, já encontravam-se relatados nos autos preexistentes.
+    3. A defesa do Excipiente argumenta, ainda, que a expressão “descortinou o incidente delituoso” revela a ausência de isenção de ânimo do Magistrado. Entrementes, tal expressão é extremamente vaga, tendo sido empregada no caso em sentido eminentemente conotativo, cujo significado irá variar a depender de quem seja o locutor. No caso, não restou evidenciado, livre de dúvidas, o que o Juiz quis dizer.
+    4. A petição a que se refere a defesa do Excipiente fora apresentada ao juízo do qual é titular o Excepto quando os autos processuais já se encontravam neste Egrégio Tribunal de Justiça. Não sendo possível, assim, o Juiz de Direito receber tal petição, e, outrossim, não caracteriza conduta que revela sua parcialidade.
+    5. Voto pela improcedência da Exceção de Incompatibilidade”. (págs. 50-51 do doc. eletrônico 4).
+    Os embargos de declaração que se seguiram foram desprovidos.
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 5°, LIV, LV e LVII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, no tocante a alegada violação dos incisos LIV, LV e LVII do art. 5°, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    No mais, registro que este Supremo Tribunal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660). Confira-se a ementa do leading case:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”. (ARE 748.371/SP-RG, Rel. Min. Gilmar Mendes)
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
