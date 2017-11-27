@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, interposto em face de acórdão do Tribunal Regional Federal da Primeira Região, sob o fundamento de que eventual ofensa a dispositivo constitucional teria ocorrido de forma indireta.
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, ofensa aos arts. 5º, XXXVI, LIV; 37, XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Esta Corte tem pacificado na sua jurisprudência o entendimento de não ser viável o recurso extraordinário quando a suposta ofensa a Constituição ocorrer de forma reflexa (indireta). Dessa forma, observando atentamente o acórdão recorrido, verifico que a controvérsia em tela foi decidida à luz de legislação infraconstitucional aplicada à espécie, no caso a Lei 10.855/2004. Portanto, o recurso encontra-se prejudicado. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário. Servidor público. Gratificação de Desempenho de Atividade de Seguro Social (GDASS). Manutenção da pontuação. Impossibilidade. Princípios do devido processo legal e da prestação jurisdicional. Discussão acerca da proporcionalidade da gratificação estendida aos inativos que se aposentaram de modo proporcional. Controvérsia que demanda a análise da legislação infraconstitucional. Ofensa reflexa. Precedentes. Agravo regimental não provido.” (RE 717.878 Ag/RS, Relator Ministro Dias Toffoli, Primeira Turma; grifei)
+    “Ementa: PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DEFICIÊNCIA NA PRELIMINAR DE REPERCUSSÃO GERAL. ÔNUS DA PARTE RECORRENTE. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DA SEGURIDADE SOCIAL - GDASS. PARIDADE ENTRE ATIVOS E INATIVOS. OFENSA CONSTITUCIONAL REFLEXA. PRECEDENTES. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF. ALTERAÇÃO NA FORMA DE CÁLCULO DE REMUNERAÇÃO. PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. AUSÊNCIA DE VULNERAÇÃO. PRECEDENTE: RE 563.965, REL. MIN. CÁRMEN LÚCIA, TRIBUNAL PLENO, REPERCUSSÃO GERAL – MÉRITO. DJE DE 20/3/2009. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (AI 794.363 AgR/PR, Relator Ministro Teori Zavascki, Segunda Turma; grifei)
+    Isso posto, nego seguimento ao recurso (art. 21, §1º, do RISTF)
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
