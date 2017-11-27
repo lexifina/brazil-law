@@ -1,0 +1,25 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “Constitucional e Administrativo – Omissão em relação ao pedido de Justiça Gratuita – Omissão suprida – Benefício deferido – Mérito – Revisão de Pensão Previdenciária por Morte – Servidor Policial Militar – Paridade com os servidores da ativa – Impossibilidade – Situação não prevista nas regras de exceção da Emenda Constitucional nº 47/2005 – Art. 3º da Lei Estadual nº 6.660/2009 aplicável apenas para os casos em que reconhecida a paridade – Sentença reformada – Inversão do ônus sucumbencial.
+    I – Verificando que o Juízo a quo não examinou o pedido de gratuidade judiciária formulado pela autora/Recorrida, passa-se a suprir tal omissão, deferindo-se o benefício em razão de inexistir, nos autos, qualquer elemento que vá de encontro à sua alegação de impossibilidade de arcar com as despesas processuais. Precedentes do STJ;
+    II – A regra da paridade plena outrora esculpida no art. 40, §8º da CF, com a redação anterior à EC nº 41/2003, alcançava todas as vantagens de natureza geral, configurando direito aos aposentados e pensionistas à revisão na mesma proporção e na mesma data, sempre que se alterar a remuneração dos servidores em atividade;
+    III – Após as Emendas Constitucionais nos 41/2003 e 47/2005, o direito à paridade não mais persiste, havendo, tão apenas, regras de transição para casos específicos;
+    IV – Na situação dos autos, tratando-se de pensão por morte autônoma, que não adveio de uma aposentadoria anterior do servidor, deve-se aplicar o entendimento contido na Súmula nº 340 do STJ, que estabelece que ‘A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado’;
+    V – Inexistindo legislação que preveja a extensão da paridade para o caso dos autos, não há que se falar em concessão de tal direito à Apelada;
+    VI – Com a reforma da sentença, a autora/Recorrida restará sucumbente em todos os seus pedidos, devendo ser invertido o ônus sucumbencial;
+    VII – Recurso conhecido e provido.” (documento eletrônico 6).
+    Os embargos de declaração, em seguida opostos, foram rejeitados.
+    No RE fundado no art. 102, III, alíneas a , da Constituição, alegou-se violação às Emendas Constitucionais 41/2003 e 47/2005.
+    A pretensão recursal não merece acolhida.
+    Isso porque a recorrente não demonstrou a existência de repercussão geral das questões constitucionais discutidas no caso, consoante determinam os arts. 102, § 3°, da CF; 1.035, § 2°, do CPC; e 327, § 1°, do RISTF. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. SEGURO DE DANOS PESSOAIS CAUSADOS POR VEÍCULOS AUTOMOTORES DE VIA TERRESTRE (DPVAT). INDENIZAÇÃO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. AUSÊNCIA DE DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 1.035, §§ 1º E 2º, DO CPC/2015. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+     1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada.
+     2. Não houve no recurso extraordinário, interposto sob a égide do CPC/2015, demonstração da existência de repercussão geral. Inobservância do art. 1.035, §§ 1º e 2º, do CPC/2015.
+     3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    4. Agravo interno conhecido e não provido” (RE 1.022.897-AgR/MG, Rel. Min. Rosa Weber - grifei).
+    “RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL – AUSÊNCIA DE CAPÍTULO NAS RAZÕES RECURSAIS – VÍCIO FORMAL. Deixando-se de versar, em capítulo próprio, a repercussão geral, a sequência do recurso fica obstaculizada – artigo 543-A, § 2º, do Código de Processo Civil. RECURSO – HONORÁRIOS ADVOCATÍCIOS. Descabe a fixação de honorários recursais, preconizados no artigo 85, § 11, do Código de Processo Civil de 2015, quando tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.” (ARE 955.930-AgR/MG, Rel. Min. Marco Aurélio).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – APELO EXTREMO DEDUZIDO NA VIGÊNCIA DO CPC/73 – EXIGÊNCIA DE DEMONSTRAÇÃO FORMAL E FUNDAMENTADA, EM CAPÍTULO AUTÔNOMO, NO RECURSO EXTRAORDINÁRIO, DA REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS – INOCORRÊNCIA – SUCUMBÊNCIA RECURSAL – MAJORAÇÃO DA VERBA HONORÁRIA – PRECEDENTE (PLENO) – NECESSÁRIA OBSERVÂNCIA DOS LIMITES ESTABELECIDOS NO ART. 85, §§ 2º E 3º DO CPC – ABUSO DO DIREITO DE RECORRER – IMPOSIÇÃO DE MULTA (1% SOBRE O VALOR CORRIGIDO DA CAUSA), SE UNÂNIME A VOTAÇÃO (CPC, ART. 1.021, § 4º) – AGRAVO INTERNO IMPROVIDO.” (ARE 1.057.015-AgR/RS, Rel. Min. Celso de Mello)
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
