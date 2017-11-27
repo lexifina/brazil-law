@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL Mandado de segurança Município de São Paulo ITBI Cabimento do recolhimento do imposto com base no valor da transação Aplicação da Lei nº 11.154/91 com redação dada pela Lei nº 14.256/2006 e Decreto Municipal 51.627/2010 - Base de Cálculo apurada segundo coleta de amostras de transações e ofertas de venda de imóveis pelo Poder Executivo - Majoração de tributo sem exame do Poder Legislativo - Violação do princípio da legalidade em matéria tributária consagrado no artigo 150, inciso I da Constituição Federal e 97, inciso IV do Código Tributário Nacional - Recursos oficial e voluntário da Municipalidade não providos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 150, I, da Carta.
+    A pretensão recursal não merece prosperar. Dissentir das conclusões do acórdão recorrido demandaria o reexame da legislação infraconstitucional aplicável e do acervo probatório dos autos, providência vedada em sede de recurso extraordinário. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Nesse sentido, confiram-se:
+    “Agravo regimental no agravo de instrumento. ITCMD. Base de cálculo. Vedação às deduções do montante partilhável. Alegação de que a tributação sobre o valor integral desse montante não teria caráter confiscatório. Ofensa meramente reflexa. 1. A conformação do critério quantitativo, da forma elastecida adotada pela lei estadual, com a definição de base de cálculo que se extrai da norma geral, é questão prejudicial à conclusão pelo reconhecimento do caráter confiscatório. Resta, assim, evidenciado, tratar-se de contencioso de mera legalidade. 2. Mesmo se restasse superada a questão de a ofensa ser de ordem infralegal, cumpre observar que a vedação das deduções deforma a regra matriz de incidência do imposto, fazendo incidir tributo onde não há base imponível. 3. Agravo regimental não provido.” (AI 733.976-AgR, Min. Dias Toffoli)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático-probatório dos autos.
+    2. Agravo regimental desprovido.” (RE 660.911-AgR, Rel. Min. Ayres Britto)
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 27 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
