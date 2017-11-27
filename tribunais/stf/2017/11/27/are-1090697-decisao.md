@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AGRAVO INTERNO QUE VISA TÃO SOMENTE REDISCUTIR MATÉRIA JÁ ANALISADA. MANIFESTAMENTE IMPROCEDENTE” (pág. 111 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Consta da sentença mantida no voto condutor do acórdão recorrido:
+    “No entanto, concessa vênia, as argumentações apresentadas pela parte requerente para se incluir a produtividade no conceito de vencimento básico, carecem de suporte jurídico. De fato, o vencimento básico não inclui a produtividade!
+     Explico!
+    É que o ‘vencimento básico’, consoante a Lei Complementar n. 385, de 1° de julho de 2010 ‘é a retribuição pecuniária devida ao servidor pelo efetivo exercício de cargo público, com valor fixado em lei’ (art. 3°, inciso VII). Assim, este conceito não se confunde com o de gratificação, conforme veremos a seguir. A propósito, a definição de vencimento básico também não se confunde com o conceito de ‘vencimento’, que nos termos do art. 3°, inciso VIII, desta mesma LCM, é entendido como sendo ‘a soma do vencimento básico, acrescido das vantagens de caráter permanente’;
+    Repare que o vencimento, segundo a legislação local acima, é acrescida de vantagens, dentre elas, destaco, as gratificações de produtividade. Com efeito, o vencimento básico não se confunde com a produtividade! Trata-se de parcelas independentes, inconfundíveis, impossíveis de serem fundidas. Na verdade, ambas, constituem verbas pecuniárias que compõe o conceito de ‘vencimento’ comumente denominado de ‘remuneração’.
+    […]
+    Destarte, em sendo a produtividade uma gratificação para a legislação local (LCM n. 163/2003, arts. 10 e 11; LCM n. 385/2010, art. 44, caput) , esta sua natureza jurídica não pode ser transmudada pelo Judiciário para vencimento básico, sob pena de se afrontar o critério funcional da separação dos poderes. Ainda que a Lei a considere uma gratificação permanente, ela mesma a diferencia do conceito de vencimento básico. Ou seja, o fato de se admitir uma gratificação como sendo permanente, não é pressuposto para admití-la como sendo integrante do conceito de vencimento básico, sob pena de se desvirtuar a intenção do legislador que as diferenciou de forma expressa na Lei.
+    Portanto, a produtividade não é vencimento básico, mas uma vantagem pecuniária integrante da remuneração do servidor (art. 18, parágrafo único, da LCM n. 163/2003). Não só isso, a produtividade compõe o atual regime jurídico remuneratório da parte requerente que, por sua vez, poderá ser alterado no futuro a critério da Administração Pública. É que o Pretório Excelso já assentou entendimento no sentido da inexistência de direito adquirido a regime jurídico (ARE 869569 AgR, Relator(a): Min. DIAS TOFFOLl, Segunda Turma, julgado em 26/05/2015, PROCESSO ELETRÔNICO DJe-128 DIVULG 30-06-2015 PUBLlC 01-07-2015).
+    Pensar de modo diferente, inviabilizaria a reforma administrativa que se impõe, especialmente em momentos de crise econômica.
+    Desta forma, o fato de se receber a produtividade desde o ingresso nos quadros da administração pública municipal não a toma vencimento básico, sob pena de se desvirtuar o sentido da LCM n. 163/2003 que a denomina como uma gratificação, isto é, uma vantagem independente do salário base (art. 18, parágrafo único). Qualquer interpretação contrária ao disposto neste dispositivo legal afrontaria o princípio da legalidade (CF/88, art. 37, caput)” (págs. 10-11 do documento eletrônico 2).
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso (Súmula 280/STF), sendo certo que eventual ofensa à Constituição seria apenas indireta.
+    Nesse sentido, cito o ARE 959.971/RO, de relatoria do Ministro Celso de Mello e o ARE 954.947/RO, de relatoria do Ministro Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
