@@ -1,0 +1,31 @@
+Decisão:
+Ementa: Processo penal militar. Habeas corpus. Posse de drogas (art. 290 do CPM). Alegações de “extemporaneidade” no oferecimento da denúncia e de dupla condenação pelo mesmo fato. Matérias não arguidas perante o Superior Tribunal Militar. Supressão de instância. Perda da condição de militar. Irrelevância. Pedido de absolvição. Fatos e provas.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime do Superior Tribunal Militar, da Relatoria do Ministro Alte. Esq. Marcus Vinícius Oliveira dos Santos, assim ementado:
+    “EMENTA: APELAÇÃO. RECURSO DEFENSIVO. POSSE DE ENTORPECENTE. ARTIGO 290 DO CPM. MATÉRIAS EXTEMPORÂNEAS. PRELIMINAR DE INCOMPETÊNCIA DA JUSTIÇA MILITAR DA UNIÃO. PRELIMINAR DE INCOMPETÊNCIA DO CONSELHO PERMANENTE DE JUSTIÇA. PRELIMINAR DE CERCEAMENTO DE DEFESA. PRELIMINAR DE RECONHECIMENTO DE ILEGITIMIDADE PASSIVA SUPERVENIENTE. REJEITADAS POR UNANIMIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. DESPROVIDO.
+    Devem ser conhecidas as preliminares arguidas extemporaneamente pela DPU se versarem sobre matéria de ordem pública.
+    Compete a esta Justiça Especializada sua apreciação e julgamento da conduta de portar entorpecente em local sob a Administração Militar, pois se enquadra perfeitamente à hipótese prevista no inciso I do art. 9º do CPM, caracterizando-se assim como delito militar.
+    Não há como sustentar a tese de incompetência do Conselho Permanente de Justiça para julgar o feito, por absoluta ausência de previsão legislativa. Tal possibilidade somente passará a ser legítima quando houver efetiva alteração na Lei nº 8.457/1992 (Lei de Organização Judiciária Militar – LOJM).
+    O licenciamento do Acusado do serviço ativo não constitui ausência superveniente de pressuposto de prosseguibilidade da ação penal militar para o crime do art. 290 do CPM.
+    Não há falar em cerceamento de defesa, por falta de descrição de como foram exercidas as garantias constitucionais por ocasião da prisão em flagrante. Basta que conste nos auto que o Flagranteado foi informado dos seus direitos, para caracterizar a ampla defesa. Precedentes do STJ e do STJ.
+    Preliminares rejeitadas.
+    Militar flagrado durante revista pessoal com cigarro e maconha dentro da gandola do uniforme.
+    O agente que coloca determinada substância entorpecente na vestimenta, a mesma que usará no aquartelamento no dia seguinte, utiliza de seu intelecto e de sua vontade para fazê-lo e age, no mínimo, com dolo eventual ao manter a droga na roupa e posteriormente adentrar a OM com ela.
+    A tendência de descriminalização de condutas ínsitas no art. 290 do CPM em outros países no ordenamento jurídico brasileiro, visto ser o Brasil um país soberano nos termos do inciso I do art. 1º e nos incisos I e IV do art. 4º da Constituição Federal. Na hipótese, prevalecem as disposições do Código Penal Militar, conforme previsto no seu art. 9º, inciso I, referendado pelo art. 124 da Constituição Federal.
+    Autoria e materialidade amplamente demonstradas pelas provas testemunhais, que confirmaram ter o agente consciência da ilicitude de sua conduta, e pelo Laudo Definitivo Pericial, constatando que a substância entorpecente apreendida e avaliada tratava-se de Cannabis Sativa Linneu, com presença de THC, capaz de causar dependência.
+    Recurso a que se nega provimento, mantendo íntegra a Sentença recorrida. Unânime.”
+    2. Extrai-se dos autos que o paciente, militar à época dos fatos, foi condenado à pena de 1 (um) ano de reclusão, em regime inicial aberto, pelo crime previsto no artigo 290, caput, c/c os artigos 70, II, “l”, 72, I, e 73, parte final, todos do Código Penal Militar. O Juízo de origem concedeu ao acionante o benefício do sursis, pelo prazo de 2 (dois) anos, assim como o direito de recorrer em liberdade.
+    3. O Superior Tribunal Militar negou provimento à apelação da defesa.
+    4. Neste habeas corpus, a parte impetrante sustenta que, “por fatos de 02/09/2016, mesmo preso por 10 dias, o Acusador oficial só ofereceu a Denúncia em 21/09/2016, extemporaneamente, descumprindo determinação da lei adjetiva castrense que determina em 05 dias, quando recluso”. Alega, ainda, que o paciente, “ao ser excluído/licenciado/desincorporado, em tempos de paz e no curso da Ação Penal Militar, perdeu a condição de prosseguibilidade para ser processado por crime que possui ‘pena tipicamente militar’”.
+    5. Prossegue a impetração para afirmar que o paciente foi punido duas vezes pelo mesmo fato (posse de substância entorpecente), na medida em que foi “excluído/desincorporado da Força Militar e, ao mesmo tempo, submetido a Ação Penal Militar, que o condena na pesadíssima pena de 01 ano de reclusão”.
+    6. Com essa argumentação, requer a concessão da ordem a fim de absolver o paciente.
+    Decido.
+    7. O habeas corpus não deve ser concedido.
+    8. De início, verifico que as alegações de “extemporaneidade” no oferecimento da denúncia e de dupla condenação pelo mesmo fato não foram suscitadas perante o Superior Tribunal Militar. O que impede o imediato exame da matéria por esta Corte, sob pena de indevida supressão de instância.
+    9. Quanto ao mais, o acórdão impugnando está alinhado com o entendimento do Supremo Tribunal Federal, no sentido de que “Não prospera a alegação do impetrante de incompetência da Justiça Militar para processar e julgar o paciente pelo delito previsto no art. 290 do Código Penal Militar (posse de entorpecente em lugar sujeito à administração militar). Isso porque no momento do delito ele ostentava a condição de militar, sendo irrelevante que, posteriormente, tenha se licenciado” - Sem grifos no original (HC 137.025, Rel. Min. Ricardo Lewandowski).
+    10. Não bastasse isso, o Tribunal pacificou o entendimento de que “o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição” (HC 107.550, Rel. Min. Luiz Fux. No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183, Rel. Min. Dias Toffoli; HC 122.436, Rel. Min. Dias Toffoli).
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+             Documento assinado digitalmente
