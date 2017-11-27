@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Edson Machado interpõe agravo contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao inc. inciso LV do artigo 5º da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado, no que interessa:
+    “APELAÇÃO CRIMINAL. ARTIGO 306 DA LEI 9.503/97. ABSOLVIÇÃO OU APLICAÇÃO DA ATENUANTE GENÉRICA DO ARTIGO 66 DO CÓDIGO PENAL, FUNDADA EM ABALO EMOCIONAL DO ACUSADO. INVIABILIDADE. EXCLUSÃO DA PENA ACESSÓRIA, PORQUE JÁ CUMPRIDA CAUTELARMENTE. DETRAÇÃO QUE COMPETE AO JUÍZO DAS EXECUÇÕES, RESTITUINDO-SE, CONTUDO, DE OFÍCIO, A CNH RETIDA. SANÇÃO ALTERNATIVA DESPROPORCIONAL À REPRIMENDA SUBSTITUÍDA. MODIFICAÇÃO, POR IMPULSO OFICIAL. ASSISTÊNCIA JUDICIÁRIA. IMPOSSIBILIDADE.
+    (...)”.
+    Requer o recorrente, em suma, o provimento do presente recurso para reformar o acórdão recorrido, para reconhecer a incidência da atenuante prevista no art. 66 do Código Penal.
+    Examinados os autos, decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 27 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
