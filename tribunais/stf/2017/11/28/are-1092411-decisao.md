@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado da Paraíba, assim ementado:
+    “DEVOLUÇÃO DE PARCELAS RECEBIDAS DE BOA-FÉ. SENTENÇA DE PROCEDÊNCIA. RECURSO DO INSS. DESPROVIMENTO. MANUTENÃO DA SENTENÇA POR SEUS PRÓPRIOS FUNDAMENTOS.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 5º; XXXVI; 37, caput; 167; 169, § 1º, I e II, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) “é pacífica a jurisprudência do Supremo Tribunal Federal no sentido de não admitir, em RE, alegação de ofensa indireta à CF/88, por má interpretação ou aplicação e mesmo inobservância de normas infraconstitucionais”; (ii) “a jurisprudência da Suprema Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em Recurso Extraordinário”; e (iii) incide, no caso, o óbice da Súmula 279/STF.
+    O recurso não merece acolhida. O Supremo Tribunal Federal, ao analisar o AI 841.473-RG, Rel. Min. Cezar Peluso, assentou a ausência de repercussão geral da questão relativa à restituição ao erário de valores recebidos de boa-fé. Veja-se a ementa do julgado:
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 28 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
