@@ -1,0 +1,15 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de São Paulo contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “AÇÃO RESCISÓRIA – Art. 485, inciso II, do Código de Processo Civil – Ação julgada no 1ª e 2ª instâncias antes da vigência da Emenda Constitucional nº 45/2004 – Incompetência absoluta da Justiça Comum (Estadual) não reconhecida – Observância do disposto no art. 114 da CF/88 – Ação improcedente.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, XXXVII e LII, e 114, da Constituição da República.
+    Cabe referir, desde logo, que – com a exceção do tema concernente à alegada transgressão ao preceito inscrito no art. 114 da Constituição – os demais temas não se acham devidamente prequestionados.
+    E, como se sabe, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+    Não ventilada, no acórdão recorrido, a matéria constitucional suscitada pelo recorrente, deixa de configurar-se, tecnicamente, o prequestionamento do tema, necessário ao conhecimento do recurso extraordinário.
+    Cumpre registrar, de outro lado, que o Plenário desta Suprema Corte, ao julgar o CC 7.204/MG, Rel. Min. AYRES BRITTO (RTJ 197/236), fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+    “(...) 4. A nova orientação alcança os processos em trâmite pela Justiça comum estadual, desde que pendentes de julgamento de mérito. É dizer: as ações que tramitam perante a Justiça comum dos Estados, com sentença de mérito anterior à promulgação da EC 45/04, lá continuam até o trânsito em julgado e correspondente execução. Quanto àquelas cujo mérito ainda não foi apreciado, hão de ser remetidas à Justiça do Trabalho, no estado em que se encontram, com total aproveitamento dos atos praticados até então. A medida se impõe, em razão das características que distinguem a Justiça comum estadual e a Justiça do Trabalho, cujos sistemas recursais, órgãos e instâncias não guardam exata correlação. (...).” (grifei)
+    Impõe-se observar, por relevante, que essa orientação plenária vem sendo observada em decisões proferidas no âmbito desta Suprema Corte (AI 713.869/RS, Rel. Min. DIAS TOFFOLI – RE 574.447/PA, Rel. Min. RICARDO LEWANDOWSKI – RE 643.199/SC, Rel. Min. CELSO DE MELLO, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, VIII, e RISTF, art. 21, § 1º).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11 do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 28 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
