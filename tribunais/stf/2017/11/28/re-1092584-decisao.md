@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais ementando nos seguintes termos:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO ACIDENTÁRIO. AUXÍLIO-SUPLEMENTAR. SUBSTITUIÇÃO LEGAL PELO AUXÍLIO-ACIDENTE. VIABILIDADE DO REAJUSTE. LEI MAIS BENÉFICA. INCIDÊNCIA. Conforme assentada Jurisprudência, o auxílio-suplementar que constava da Lei nº 6.367/76 foi substituído pelo chamado auxílio-acidente (Lei nº 8.213/91 e alterações posteriores), o que torna possível a revisão daquele com os reajustes adequados, não restando atingido o ato jurídico perfeito. Isto se dá porque, o princípio do amparo social justifica a incidência da norma mais benéfica ao hipossuficiente, em outro entendimento pacificado nos Pretórios Superiores.” (eDOC 1, p. 149)
+    No recurso, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV e XXXVI; 93, I; e 195, §5º, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, afronta ao princípio da irretroatividade das leis e do tempus regit actum, na medida em que a alteração do coeficiente do benefício de auxílio-acidente de 20 para 50%, inserida pela Lei 9.032/95, não poderia alcançar os benefícios concedidos durante a vigência da Lei 6.367/76, com coeficiente de 20%.
+    Além disso, a majoração de benefício previdenciário sem a correspondente fonte de custeio, violaria o disposto no art. 195, §5º da CF.
+    A Vice-Presidência do Tribunal de Justiça determinou a devolução dos autos à Turma Julgadora, para proceder juízo positivo de retratação, adequando a decisão ao decidido pelo Supremo Tribunal Federal no RE-RG 613.033, Rel. Min. Dias Toffoli, DJe 9.6.2011 (eDOC 2, p. 28-29).
+    A Turma Julgadora, entretanto, decidiu manter o entendimento anterior nos seguintes termos:
+    “APELAÇÃO CÍVEL – DIREITO PREVIDENCIÁRIO – INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO – DECISÃO DO SUPREMO TRIBUNAL FEDERAL EM SENTIDO CONTRÁRIO À ADOTADA NO ACÓRDÃO RECORRIDO – ARTIGOS 1.030, II e 1.040, II, DO CPC – JUÍZO DE RETRATAÇÃO – REAPRECIAÇÃO PELA TURMA JULGADORA – REVISÃO DE BENEFÍCIO ACIDENTÁRIO – AUXÍLIO SUPLEMENTAR – SUBSTITUIÇÃO LEGAL PELO AUXÍLIO-ACIDENTE – VIABILIDADE DO REAJUSTE – LEI MAIS BENÉFICA – INCIDÊNCIA.
+    (...)
+    Tendo em vista o caráter social e protetivo da legislação previdenciária, o antigo auxílio-suplementar da Lei nº 6.367/76, convolado em auxílio-acidente pela Lei 8.213/91 e alterações posteriores, deve ter seus valores reajustados e adaptados para a nova legislação que é mais benéfica ao segurado, não havendo que se falar em ofensa ao ato jurídico perfeito.
+    Vistos etc., acorda, em Turma, a 13ª CÂMARA CÍVEL do Tribunal de Justiça do Estado de Minas Gerais, na conformidade da ata dos julgamentos, em JUÍZO DE RETRATAÇÃO, MANTENHO O VOTO POR MIM PROFERIDO NO JULGAMENTO DA APELAÇÃO.” (eDOC 2, p. 41)
+    Diante disso, em novo exame de admissibilidade, o 3º Vice-Presidente remeteu o recurso extraordinário a esta Corte (eDOC 2, p. 60).
+    É o relatório.
+    Decido.
+    De plano, é cabível dizer que o juízo de retratação previsto no artigo 1.041 do CPC não se confunde com o julgamento do recurso extraordinário, o que inclui os pressupostos de admissibilidade. Logo, questões relacionadas ao prequestionamento ou à infraconstitucionalidade da matéria não são da alçada desse juízo.
+    Nos estritos termos da legislação processual, ao juízo de retratação cabe, tão somente, verificar a compatibilidade entre o acórdão recorrido e o paradigma e, na hipótese de diferença entre os dois, retratar-se. Caso haja identidade, mantém-se o acórdão. Proceder a demais considerações, como, por exemplo, a respeito do prequestionamento, significa fazer as vezes do Supremo Tribunal Federal em termos de competência jurisdicional.
+    Posto isso, verifico que a matéria guarda identidade temática com o decidido no RE-RG 613.033 (tema 388), Rel. Min. Dias Toffoli, DJe 9.6.2011, oportunidade em que o Pleno do STF consignou ser inviável a aplicação retroativa da majoração prevista na Lei nº 9.032/1995 aos benefícios de auxílio-acidente concedidos em data anterior à sua vigência. Confira-se a ementa desse julgado:
+    “DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. AUXÍLIO-ACIDENTE. LEI Nº 9.032/95. BENEFÍCIOS CONCEDIDOS ANTES DE SUA VIGÊNCIA. INAPLICABILIDADE. JURISPRUDÊNCIA PACIFICADA NA CORTE. MATÉRIA COM REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.”
+    Em face da evidente divergência entre o acórdão recorrido e o decidido pelo Plenário desta Corte sob a sistemática de repercussão geral, a hipótese é de reforma da decisão exarada pelo Tribunal a quo, nos termos do art. 1.041 do CPC.
+    Ante o exposto, dou provimento ao recurso extraordinário para afastar a aplicação da Lei 9.032/95 aos benefícios concedidos antes da sua vigência, nos termos do julgamento do RE-RG 613.033 (art. 932, VIII, do CPC c/c art. 21, §2°, RISTF).
+    Publique-se.
+    Brasília, 28 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
