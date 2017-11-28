@@ -1,0 +1,29 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Francisco Livelton Lopes Marcelino e outros, em favor de Claudenia da Silva Rodrigues, contra decisão do Juízo de Direito da 4ª Vara do Júri da Comarca de Fortaleza/CE, que teria afrontado a autoridade da Súmula Vinculante 11.
+    Consta dos autos que a reclamante foi denunciada, juntamente com Thiago de Almeida Gomes, pela suposta prática do delito descrito no art. 121, § 2º, incisos I, III e IV, c/c o art. 29 e art. 61, inciso II, alínea “e”, todos do Código Penal.
+    Segundo a denúncia, a acusada, ex-mulher da vítima, teria facilitado a entrada do corréu para que executasse a empreitada criminosa.
+    No curso das investigações, o delegado de polícia responsável pelo caso solicitou ao Juízo que fosse realizada a reconstituição do crime.
+    Nesta Corte, a defesa alega, em síntese, que durante o procedimento de reconstituição, a reclamante teria permanecido algemada sem qualquer justificativa, violando, assim o que dispõe a Súmula Vinculante 11.
+    Ainda, argui que a defesa não teria sido intimada a comparecer ao ato em questão, realizado em 22.8.2015. Para tanto, afirma:
+    “A DEFESA DA RECLAMANTE SÓ TOMOU CIÊNCIA DO CIRCO QUE FORA MONTADO COM SUA CONSTITUINTE PELA IMPRENSA POLICIAL E O PIOR DEPOIS QUE A MESMA JÁ TINHA SIDO CONSTRANGIDA A PARTICIPAR DE TODO O ATO ALGEMADA E INDEFESA, MESMO TENDO MANIFESTADO SEU DESINTERESSE DE COMPARECER AO LOCAL DO CRIME DESACOMPANHADA DE SEU ADVOGADO!!!” (eDOC 1, p. 3)
+    Ao final, requer seja julgada procedente a reclamação para anular o ato processual (reconstituição dos fatos), bem como todos os atos processuais posteriores, relaxando-se a prisão da reclamante.
+    A autoridade reclamada prestou informações. (eDOC 44)
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+    Passo a decidir.
+    A reclamação constitucional é ação destinada a verificar a violação às decisões do STF ou a usurpação de sua competência (art. 102, inciso I, alínea “l”, da CF, art. 13 da Lei 8.038 e art. 156 do RI/STF).
+    O Supremo Tribunal Federal, ao aprovar o enunciado da Súmula Vinculante 11, consolidou a jurisprudência da Corte no sentido de que o uso de algemas limita-se a casos excepcionais. O verbete sumular possui a seguinte redação:
+    “Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado”.
+    Com efeito, a citada decisão sumulada não aboliu o uso das algemas, mas tão somente buscou estabelecer parâmetros à sua utilização, a fim de limitar abusos.
+    No caso em exame, solicitadas informações, a autoridade reclamada esclareceu:
+    “Portanto, considerando que a reprodução se daria quase que em sua totalidade em vias públicas, sendo impossível não ter a aglomeração de pessoas, bem como considerando que a vítima era muito querida por toda a vizinhança em que se realizaria o ato pericial, mostrava-se patente o risco de haver alguma represália em face dos réus, razões pelas quais se fez necessário determinar ‘ad cautelam’ que os acusados permanecessem algemados, preservando, assim, a integridade física de todos os envolvidos na encenação.
+    Tal determinação foi, devidamente, justificada e consta no Laudo Pericial, cuja cópia segue no anexo 4, de igual maneira no referido documento e nas mídias que gravaram toda a diligência também se fez inserir que os réus não estavam obrigados a participar da reconstituição, não precisavam responder a qualquer indagação que lhes fossem feitas e que poderiam estar sendo assistidos pelos seus advogados.
+    Por isso tudo, entende a Delegacia de Polícia Civil infrassignatária que não descumpriu a Súmula Vinculante n. 11 da Suprema Corte Federal, sendo estas as informações que tinha a prestar a Sua Excelência”. (eDOC 44, p. 3-4).
+    Desse modo, verifico que a excepcionalidade do uso das algemas foi observada e devidamente justificada na necessidade de garantir a segurança e preservar a integridade física dos acusados, haja vista a comoção que o delito causou no estado do Ceará.
+    Ante o exposto, entendo que não houve violação à Súmula Vinculante 11. Nesse mesmo sentido, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. USO DE ALGEMAS EM AUDIÊNCIA. INEXISTÊNCIA DE CONTRARIEDADE À SÚMULA VINCULANTE N. 11 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (Rcl-AgR 15.047/SP, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 28.4.2014)
+    “RECLAMAÇÃO - RECURSO DE AGRAVO - ALEGADO DESRESPEITO AO ENUNCIADO CONSTANTE DA SÚMULA VINCULANTE Nº 11/STF - NÃO CONFIGURAÇÃO - ATO RECLAMADO PROFERIDO EM CONFORMIDADE COM O ENUNCIADO SUMULAR - PRECEDENTES - RECURSO DE AGRAVO IMPROVIDO. - As razões invocadas para justificar o ato em questão revelam-se em conformidade com aquelas que deram suporte à Súmula Vinculante nº 11/STF (que permite, excepcionalmente, o uso de algemas, desde que justificada sua necessidade), o que basta para afastar, por inocorrente, a alegação de desrespeito à autoridade daquele pronunciamento sumular do Supremo Tribunal Federal, inviabilizando-se, desse modo, o acesso à via reclamatória”. (Rcl-AgR 11.845/MT, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 10.4.2014)
+    Ante o exposto, julgo improcedente a presente reclamação.
+    Publique-se.
+    Brasília, 28 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
