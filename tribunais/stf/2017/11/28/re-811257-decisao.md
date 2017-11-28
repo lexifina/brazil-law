@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão do Tribunal de Justiça do Estado de São Paulo, maneja recurso extraordinário, com fundamento no art. 102, III, da Lei Maior, o Município de Guarulhos. Aparelhado o recurso na afronta aos arts. 5º, caput, e 30, I, da Constituição Federal. Sustenta a constitucionalidade da norma municipal que disciplina o horário de funcionamento de farmácias em escala de plantão.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    O Tribunal local manteve a sentença que declarou ilegal a multa aplicada e julgou procedência os embargos à execução opostos pela recorrida, reconhecendo a nulidade do título executivo que fundamenta a execução. Eis o teor da ementa resultante deste julgamento:
+    “APELAÇÃO - Embargos à execução – Multa imposta a estabelecimento farmacêutico. Limitação no horário de funcionamento durante feriados e fins de semana. Inadmissibilidade. Ofensa ao princípio da livre concorrência - Recurso desprovido.”
+    Assiste razão ao recorrente.
+    O entendimento adotado no acórdão recorrido diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da competência municipal para disciplinar o horário de funcionamento do comércio local. Esse entendimento está cristalizado no enunciado da Súmula Vinculante 38 desta Suprema Corte, segundo a qual: “É competente o Município para fixar o horário de funcionamento de estabelecimento comercial.” Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COMPETÊNCIA MUNICIPAL PARA LEGISLAR SOBRE HORÁRIO DE FUNCIONAMENTO DE ESTABELECIMENTO COMERCIAL. SÚMULA VINCULANTE 38. 1. O acórdão recorrido está em harmonia com a orientação sedimentada nesta Corte na Súmula Vinculante 38, no sentido de que o município é competente para legislar sobre horário de funcionamento de estabelecimento comercial. 2. Agravo regimental a que se nega provimento.” (RE 732222 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, julgado em 15/03/2016, PROCESSO ELETRÔNICO DJe-070 DIVULG 14-04-2016 PUBLIC 15-04-2016)
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. ESTABELECIMENTO COMERCIAL. HORÁRIO DE FUNCIONAMENTO. COMPETÊNCIA. MUNICÍPIO. 1. O Supremo Tribunal Federal, na Sessão Plenária de 11.03.2015, reafirmou o entendimento consagrado na Súmula 645/STF ao editar a Súmula Vinculante 38. Na oportunidade adotou, inclusive, o mesmo enunciado: “É competente o Município para fixar o horário de funcionamento de estabelecimento comercial”. 2. Agravo regimental a que se nega provimento.” (RE 852233 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 26/08/2016, PROCESSO ELETRÔNICO DJe-206 DIVULG 26-09-2016 PUBLIC 27-09-2016)
+    “Município: Competência: horário de funcionamento da farmácia, em regime de manutenção: validade” (AI 274919 AgR, Relator(a): Min. SEPÚLVEDA PERTENCE, Primeira Turma, julgado em 25/05/2004, DJ 17-09-2004)
+    “COMÉRCIO - FARMÁCIAS E DROGARIAS - PLANTÃO - PROIBIÇÃO DE FUNCIONAMENTO. Na dicção da ilustrada maioria, entendimento em relação ao qual guardo reservas, não conflita com a Carta da República a proibição de abertura de farmácias e drogarias que não estejam escaladas no plantão. Precedente: Recurso Extraordinário nº 189.170-0/SP.” (RE 267161, Relator(a): Min. MARCO AURÉLIO, Segunda Turma, julgado em 17/04/2001, DJ 16-11-2001)
+    Diante do exposto, com fundamento no artigo 932, VIII, do CPC/2015 c/c 21, § 1º, do RISTF, dou provimento ao recurso extraordinário. Invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 28 de novembro de 2017.
+Ministra Rosa Weber
+Relatora
