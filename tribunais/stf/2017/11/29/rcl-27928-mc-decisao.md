@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de reclamação ajuizada contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que denegou a segurança por considerou válida a eliminação do reclamante do concurso público para ingresso na graduação de soldado da Polícia Militar de 2ª classe, em virtude de sua inabilitação na fase de exame psicológico, cuja ementa transcrevo:
+    MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EXAME PSICOLÓGICO. POSSIBILIDADE. É imprescindível que a Polícia Militar verifique de forma objetiva e mediante os meios ao seu dispor se o candidato apresenta perfil exigido não somente para os requisitos de hierarquia e disciplina, mas também o equilíbrio necessário para portar uma arma e saber usá-la adequadamente. Ademais, presume-se que o candidato ao se inscrever em determinado concurso tenha aceitado todas as suas condições. Sentença mantida. Recurso não provido.
+    O reclamante aduz, em suma, que a previsão da fase de exame psicológico consta apenas do Decreto 54.911/2009 e não em lei. Assim, em razão da ausência de previsão legal expressa haveria ofensa à Súmula Vinculante 44.
+    Dispenso a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    A reclamação destina-se a preservar a competência e a autoridade das decisões do Supremo Tribunal Federal quando ocorrer a usurpação de sua competência ou, nos termo do art. 102, § 2º, da CR, quando decisões judiciais ou atos administrativos contrariarem decisão proferida por esta Corte em sede de controle concentrado de constitucionalidade ou que, nos termos do art. 102, § 3º, também da CR, o enunciado de súmula vinculante.
+    Em casos de relevância e fundado receio de dano irreparável, é possível ao Relator, nos termos do art. 989 do Código de Processo Civil, deferir medida liminar a fim de suspender o ato impugnado.
+    Estão presentes os pressupostos processuais para o deferimento da medida. Com efeito, no que tange à relevância do argumentos apresentados, esta Corte há muito consolidou o entendimento segundo o qual apenas por lei pode a Administração submeter os candidatos em concurso público ao exame psicotécnico como requisito para o ingresso no cargo. De fato, a Súmula 686 da Corte assentou que só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público.
+    Posteriormente, quando do julgamento do AI 758.533 QO-RG, Rel. Ministro Gilmar Mendes, Pleno, DJe 13.08.2010, o Tribunal confirmou o entendimento em sede de repercussão geral. Confira-se:
+    Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°).2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+    (AI 758533 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-04 PP-00779 )
+    A confirmação do precedente em sede de repercussão geral levou a Corte a, posteriormente, aprovar o enunciado da Súmula Vinculante 44, cuja redação é idêntica à Súmula 686.
+    Registre-se que diversos são os precedentes que aplicam esse entendimento aos concursos públicos para a polícia militar, não se vislumbrando, por ora, qualquer distinção que pudesse eximir o acórdão reclamado da observância da orientação do Supremo Tribunal Federal. Isso porque, nos termos do art. 927, II, do Código de Processo Civil, os tribunais devem observar os enunciados da súmula vinculante, somente podendo afastá-los se, nos termos do art. 489, VI, do CPC, demonstrarem a distinção do caso em julgamento relativamente ao precedente desta Corte.
+    No caso em exame, a inobservância da Súmula foi justificada ao fundamento de que:
+    Com efeito, é bem de ver que no edital o concurso a que ela concorreu prevê expressa e detalhadamente em seu Capítulo XI a realização de exames psicológicos (fls. 55/57). Tal edital prescreve, ainda, em seu Capítulo III, item I, que “a inscrição do candidato implica o conhecimento e aceitação das normas e condições estabelecidas neste Edital e anexos que o acompanham, em relação aos quais não poderá alegar espécie de desconhecimento.” (fls. 44).
+    Neste sentido, é vasta a jurisprudência deste Egrégio Tribunal:
+    […]
+    Em que pese os argumentos do apelante de que a aplicação do exame psicológico em concurso público está em desacordo com as Súmulas 686 e 44 do STF, não vislumbro elementos capazes de alterar a r. Sentença.
+    Ademais, o autor tinha conhecimento de todos os requisitos a serem preenchidos para sua aprovação no concurso público que se inscreveu, pois o edital constou todas as provas e avaliações às quais o candidato seria submetido (eDOC 11)
+    Como se verifica das razões que fundamentaram o acórdão, o Tribunal consignou que a exigência de avaliação psicológica, de caráter eliminatório, tem previsão no edital do concurso público.
+    Ora, o embasamento em edital não atende a necessidade indicada pelo precedente desta Corte.
+    Assim, relevantes os fundamentos trazidos pelo reclamante, cumprindo examinar se também está presente o requisito da urgência.
+    Neste ponto, há que se observar que o reclamante almeja reverter decisão que se negou a anular ato administrativo que o considerou inapta em uma das fases do concurso público para admissão no cargo de Soldado PM de 2ª Classe, razão pela qual há evidente prejuízo e razoável risco de que, caso somente ao término desta ação seja-lhe deferido o pedido, quede-se ineficaz o provimento judicial.
+    Ante o exposto, com fulcro nos arts. 989, II, do Código de Processo Civil, determino a suspensão do ato reclamado ate o julgamento final da presente reclamação, a fim de que a Administração promova a continuidade no certame do candidato reclamante.
+    Solicitem-se informações da autoridade reclamada, nos termos do art. 989, I, do Código de Processo Civil.
+    Após, cite-se o Estado de São Paulo, nos termos do art. 989, III, do Código de Processo Civil.
+    Com ou sem resposta, encaminhe-se os autos à Procuradoria-Geral da República, para emissão de Parecer, no prazo legal.
+    Decorrido o prazo, retornem conclusos.
+    Publique-se.
+    Brasília, 29 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
