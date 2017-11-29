@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 26, Vol. 3):
+    Servidor público municipal inativo - Adicional de Atividade Tributária (AAT) - Lei nº 734/2011 - Gratificação mista - 50% que tem natureza genérica e atinge a todos aqueles que pertencem aos quadros de funcionários da Secretaria Municipal de Finanças e deve ser aplicado aos inativos - Inteligência do art. 40, § 4º da Constituição Federal - Recurso parcialmente provido.
+    Nas razões recursais iniciais, com amparo no art. 102, III, “a”, da Constituição Federal, foram alegadas violações a dispositivos constitucionais.
+    É o relatório. Decido.
+    O Tribunal de origem, interpretando a Lei Complementar Municipal 734/2011 e o Decreto Municipal 6.065/2012, deu parcial provimento à apelação do ora recorrido, servidor público aposentado, ao entendimento de que o Adicional de Atividade Tributária (ATT) tem natureza dúplice, sendo que 50% desse benefício tem natureza genérica e os outros 50% possui caráter pro labore faciendo. Lastreado nesse entendimento, concluiu que aquela primeira metade trata-se, na verdade, de um aumento salarial disfarçado e, como tal, deve ser estendido aos inativos.
+    Assim, a reversão do acórdão recorrido, notadamente, quanto ao caráter genérico da gratificação, requer a análise da legislação local, medida inviável nesta sede recursal, nos termos da Súmula 280/STF. Nesse sentido:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXTENSÃO DE GRATIFICAÇÃO A SERVIDORES INATIVOS. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei Complementar municipal 15.364/2011), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes. II - Agravo regimental improvido.(ARE 751.284-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 17/10/2013)
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. SERVIDORES PÚBLICOS MUNICIPAIS. GRATIFICAÇÃO ESPECIAL PARA ESPECIALISTAS. EXTENSÃO AOS INATIVOS. NATUREZA JURÍDICA DA VANTAGEM. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (ARE 664.615-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 2/10/2013)
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADICIONAL OPERACIONAL PENITENCIÁRIO. NATUREZA JURÍDICA. SÚMULA 280/STF. PRECEDENTES. Em casos análogos, o Supremo Tribunal Federal assentou que, para dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza jurídica das vantagens concedidas aos servidores, se genéricas ou pro labore faciendo, seria necessário o exame da legislação local pertinente (incidência da Súmula 280/STF). Agravo regimental a que se nega provimento. (ARE 660.811-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 2/2/2015).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 29 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
