@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (eDOC 03, p. 240):
+    APELAÇÃO CRIMINAL. ART. 180, §1º, C/C O ART. 71 DO CÓDIGO PENAL. PRELIMINAR DE PROVA ILÍCITA REJEITADA. IMPOSSIBILIDADE DA ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. REANÁLISE DAS CIRCUNSTÂNCIAS JUDICIAIS PARA A PLICAÇÃO DA PENA E DO REGIME DE CUMPRIMENTO. APELO CONHECIDO E PROVIDO EM PARTE. REFORME DA SENTEÇA.(...)
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XLVI e LVI, e 93, IX, da CF. Alega-se que: a) a ação da polícia fora baseada numa apreensão ilegal, sem o mandado de busca e com violação de domicílio e b) o acórdão recorrido carece de fundamentação idônea, tendo em vista que, na dosimetria, considerou a culpabilidade como circunstância judicial desfavorável com base em elementos do próprio tipo penal, violando o art. 59 do CP.
+    Busca-se, em suma, a nulidade das provas obtidas por meio ilícito. Alternativamente, requer nova dosimetria, com a fixação da pena-base no mínimo legal.
+    A Segunda Vice-Presidência do TJBA inadmitiu o recurso sob os fundamentos: a) o acórdão está em consonância com a jurisprudência do STF (AI-QO-RG 791.292, quanto à ofensa ao art. 93, IX, da CF, e outro precedente, quanto à suposta violação ao domicílio) e b) ofensa meramente reflexa à Constituição, no tocante à individualização da pena.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já se manifestou sobre as matérias suscitadas sob a sistemática da repercussão geral.
+    Como bem assentado pelo Tribunal local, o Plenário desta Suprema Corte reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão (AI-QO-RG 791.292, Relator Gilmar Mendes, DJe 13.08.2010, Tema 339).
+    Quanto à tese de invasão de domicílio, o STF firmou o entendimento de que a entrada forçada em domicílio, sem mandado judicial, na situação de flagrante delito deve ser amparada por fundadas razões, motivadas a posteriori, sob pena de nulidade dos atos praticados e responsabilidade do agente (RE 603.616, Tema 280, Relator Gilmar Mendes, DJe 10.05.2016).
+    Por fim, quanto à suposta violação do princípio da individualização da pena, em razão da fixação da pena-base acima do mínimo legal, esta Corte decidiu que não possui repercussão geral o tema acerca da valoração das circunstâncias judiciais previstas no art. 59 do Código Penal na fundamentação da fixação da pena-base pelo juízo sentenciante (AI 742.460, Relator Cezar Peluso, DJe 25.09.2009, Tema 182).
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca das matérias suscitadas neste recurso extraordinário, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 29 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
