@@ -1,0 +1,37 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. REAJUSTES SALARIAIS. EXTENSÃO DE VANTAGENS COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA. APLICAÇÃO, EM JUÍZO DE RETRATAÇÃO, DE PRECEDENTE DESTA CORTE PROFERIDO NA SISTEMÁTICA DA REPERCUSSÃO GERAL. RE 598.259. TEMA 223. INTERPOSIÇÃO DE RECURSO. DESCABIMENTO. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+    Decisão: A Quinta Turma do Tribunal Superior do Trabalho negou provimento ao agravo interposto pela Fundação Municipal de Ensino Superior Marília e pela Faculdade de Medicina de Marília, mantendo incólume o acórdão proferido pelo Tribunal Regional do Trabalho.
+    A Fundação Municipal de Ensino Superior Marília e a Faculdade de Medicina de Marília interpuseram recurso extraordinário contra esse acórdão.
+    A Vice-Presidência do Tribunal Superior do Trabalho remeteu os autos à Turma julgadora para eventual juízo de retratação quanto ao decidido no RE 592.317, tema 315 da repercussão geral (doc. 27).
+    A Turma julgadora, por sua vez, exerceu juízo de retratação e adequou o acórdão ao que decidido no recurso paradigma, tendo assentado, in verbis:
+    “I - AGRAVO DE INSTRUMENTO DA FACULDADE DE MEDICINA DE MARÍLIA. RECURSO DE REVISTA. FACULDADE DE MEDICINA DE MARÍLIA. JULGAMENTO ANTERIOR PELA TURMA. DEVOLUÇÃO COM O FIM DE APRECIAÇÃO DE EVENTUAL JUÍZO DE RETRATAÇÃO. REAJUSTES SALARIAIS. ÍNDICES FIXADOS PELO CONSELHO DE REITORES DAS UNIVERSIDADES ESTADUAIS DO ESTADO DE SÃO PAULO - CRUESP.
+    1. Trata-se de remessa dos autos pelo Ministro Vice-Presidente desta Corte para eventual juízo de retratação previsto no artigo 543-B, § 3º, do CPC. Mostra-se prudente o provimento do agravo de instrumento para determinar o processamento do recurso de revista, ante a provável violação do artigo 37, X, da Constituição Federal.
+    Agravo de instrumento provido.
+    II - RECURSO DE REVISTA DA FACULDADE DE MEDICINA DE MARÍLIA. REAJUSTES SALARIAIS. ÍNDICES FIXADOS PELO CONSELHO DE REITORES DAS UNIVERSIDADES ESTADUAIS DO ESTADO DE SÃO PAULO - CRUESP.
+    A decisão do TRT contraria a Súmula Vinculante 37 do STF, que assenta: “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”. Seguindo o posicionamento do STF, apesar de as Universidades serem dotadas de autonomia para gerenciar seu pessoal e patrimônio, não podem conceder aumento ou vantagem de vencimentos a servidores públicos sem lei específica. Precedentes desta Corte.
+    Recurso de revista conhecido e provido.
+    III – AGRAVOS DE INSTRUMENTO DA RECLAMANTE E OUTRAS RECLAMADAS.
+    Prejudicado o exame dos demais agravos de instrumento em recurso de revista, em face do provimento dado ao recurso da reclamada FACULDADE DE MEDICINA DE MARILIA E OUTRA.”
+    (Doc. 37)
+    Inconformada com o acórdão supra, a parte ora recorrente, interpôs recurso extraordinário, alegando, em síntese, violação ao disposto nos artigos 5º, caput, e 7º, XXXII, da Constituição Federal.
+    É o relatório. DECIDO.
+    O recurso não comporta conhecimento.
+    A jurisprudência desta Corte é assente no sentido de que é inadmissível a interposição de recurso contra decisão que aplica a sistemática da repercussão geral. Nesse sentido:
+    “Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental.
+    1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral.
+    2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação.
+    3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida.
+    4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem.” (AI 760.358-QO, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 19/2/2010)
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009.
+    É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral.
+    A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno).
+    Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+    Agravo regimental a que se nega provimento.” (ARE 761.661-AgR, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe de 28/4/2014)
+    Destaque-se que, após o exame da existência de repercussão geral da matéria versada no recurso extraordinário, pelo Supremo Tribunal Federal, compete às cortes de origem a aplicação da decisão aos demais casos. Nesse sentido, ARE 823.651, Rel. Min. Gilmar Mendes, DJe de 16/9/2014; AI 846.808-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 10/11/2014; Rcl 11.940, Rel. Min. Ricardo Lewandowski, DJe de 14/2/2014; Rcl 12.395-AgR, Rel. Min. Dias Toffoli, Plenário, DJe de 6/11/2013; Rcl 15.080-AgR, Rel. Min. Celso de Mello, Plenário, DJe de 18/2/2014; e Rcl 16.915-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 13/3/2014, com a seguinte ementa:
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. CONSTITUCIONAL. PROCESSUAL PENAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRA AÇÃO JUDICIAL NO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, NÃO CONHEÇO o agravo, com fundamento no artigo 932, III, do CPC/2015.
+    Publique-se.
+    Brasília, 29 de novembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
