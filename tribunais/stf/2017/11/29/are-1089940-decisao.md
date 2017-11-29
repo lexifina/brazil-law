@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Sindicato dos Empregados em Estabelecimentos Bancários do Rio Grande do Norte contra acórdão que, proferido pelo E. Tribunal Superior do Trabalho, está assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA DO SINDICATO DOS EMPREGADOS EM ESTABELECIMENTOS BANCÁRIOS DO RIO GRANDE DO NORTE. ‘DIFERENCIAL DE MERCADO’ E/OU ‘FATOR PRAÇA’ – NATUREZA JURÍDICA. Nega-se provimento a agravo de instrumento que visa liberar recurso despido dos pressupostos de cabimento.
+    Agravo desprovido.
+    AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA DO BANCO DO BRASIL S.A. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. GRATIFICAÇÃO SEMESTRAL – INCIDÊNCIA SOBRE O ‘FATOR PRAÇA’ E/OU ‘DIFERENCIAL DE MERCADO’ – NATUREZA JURÍDICA. Nega-se provimento a agravo de instrumento que visa liberar recurso despido dos pressupostos de cabimento.
+    Agravo desprovido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, “caput”, e 7º, XXX, da Constituição da República.
+    Sob tal perspectiva, revela-se absolutamente inviável o apelo extremo em questão.
+    Cumpre ressaltar, desde logo, que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão impugnado em sede recursal extraordinária demonstra que o E. Tribunal Superior do Trabalho, no julgamento do recurso, sustentou as suas conclusões em aspectos fático- -probatórios:
+    “O Tribunal Regional consignou expressamente que o reclamado ‘...criou critérios objetivos para estabelecer a faixa salarial dos cargos de nível diretivo gerencial e alguns técnicos especializados’, sendo ‘...praça de maior competitividade, cujo parâmetro é definido pela receita orçamentária, quantidade de empresas, volume de depósitos, empréstimos e população economicamente ativa; e maior qualificação profissional;’.
+    Consignou-se, ainda, que ‘O empregador, quando às voltas com uma nova realidade vivenciada pela economia nacional, fruto da influência da globalização dos métodos e práticas econômico- -empresariais nunca dantes vistos, entendeu pela implantação de uma política salarial que melhor respondesse a essa conjuntura, sem que para isso desrespeitasse o patamar remuneratório já existente de seus empregados, uma vez que não houve redução ou supressão dos direitos adquiridos pelos seus funcionários até a implementação do Plano de Cargos e Salários.’.
+    …...................................................................................................
+    Além disso, não se trata uma alteração contratual, mas de uma ‘...implantação de uma política salarial que melhor respondesse a essa conjuntura, sem que para isso desrespeitasse o patamar remuneratório já existente de seus empregados...’. Assim, não havendo redução ou supressão dos direitos até então adquiridos por seus empregados, afasta-se a alegação de ‘alteração contratual’ lesiva.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 29 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
