@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Ministério Público do Estado do Rio Grande do Sul interpõe recurso extraordinário contra acórdão proferido pela Turma Recursal Criminal dos Juizados Especiais Criminais do Estado do Rio Grande do Sul, assim ementado:
+    “CRIME DE DESACATO. ART. 331 DO CÓDIGO PENAL. AUSÊNCIA DE DOLO ESPECÍFICO. Não há desacato quando se verifica ausência de dolo específico em desprestigiar a função pública na execução de ato de privação de liberdade ou de condução pessoal do autor do fato, máxime se a ofensa irrogada não tem potencialidade de ofender o bem jurídico tutelado, que é o prestígio das funções estatais. RECURSO PROVIDO.”
+    Opostos embargos de declaração, não foram acolhidos.
+    Nas razões do extraordinário sustenta o parquet que a Corte de origem, “ao entender atípica a conduta prevista no artigo 331 do Código Penal, a Turma contrariou os princípios da legalidade (artigo 5º, incisos II e XXXIX, da Constituição Federal), da igualdade (artigo 5º, caput, da Constituição Federal) e da dignidade da pessoa humana (artigo 1º, inciso III, da Constituição Federal)”.
+    O Ministério Público Federal, em parecer do ilustrado Subprocurador-Geral da República, Dr. Edson Oliveira de Almeida, opina pelo não conhecimento do recurso.
+    Examinados os autos, decido.
+    A irresignação não merece prosperar, uma vez que a Corte local, ao decidir a questão, ateve-se ao exame da legislação infraconstitucional, em especial, do Código Penal, e do conjunto fático-probatório dos autos. Por consequência, a violação ao texto constitucional, se ocorresse, seria indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário. Incidência, ainda, da Súmula nº 279/STF. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Penal. 3. Crime de desacato (331 do CP). 4. Ausência de prequestionamento. Súmulas 282 e 356. Precedentes. 5. Alegação de não recepção do delito de desacato pela legislação brasileira, haja vista incompatibilidade do tipo com o art. 13 da CADH. Suposta violação ao art. 5º, incisos IV, do texto constitucional. Ofensa aos dispositivos apontados, caso existente, ocorreria de forma reflexa. 6. Agravo regimental a que se nega provimento” (ARE nº 1.003.305/DF-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 8/2/17).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – CRIME DE DESACATO (CP, ART. 331) – COMPATIBILIDADE COM O ART. 13 DA CONVENÇÃO AMERICANA DE DIREITOS HUMANOS (CADH) – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO – PRECEDENTES – AGRAVO INTERNO IMPROVIDO” (ARE nº 1.064.572/DF-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 6/11/17).
+    “SEQUESTRO: ELEMENTO SUBJETIVO. - SE O ACÓRDÃO RECORRIDO NEGOU, NO CASO, A OCORRENCIA NÃO SÓ DE DOLO ESPECIFICO, MAS TAMBÉM DE DOLO GENERICO, COM RELAÇÃO AO CRIME DE SEQUESTRO, PARA CHEGAR-SE A CONCLUSÃO OPOSTA MISTER SERIA O REEXAME DA PROVA, O QUE NÃO E ADMISSIVEL EM RECURSO EXTRAORDINÁRIO (FLS. SÚMULA 279). - O MESMO OCORRE COM RELAÇÃO A DESCLASSIFICAÇÃO PARA O CRIME DE CONSTRANGIMENTO ILEGAL CUJA OCORRENCIA FOI TAMBÉM NEGADA COM BASE EM PREMISSA DE FATO. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO” (RE nº 117.807/PR, Primeira Turma, Relator o Ministro Moreira Alves, DJ de 17/3/89).
+    No mesmo sentido, as seguintes decisões monocráticas: RE nº 1.001.148/RS, Relator o Ministro Roberto Barroso, DJe de 28/4/17; RE nº 1.000.484/RS, Relator o Ministro Luiz Fux, DJe de 19/6/17; e RE nº 1.066.679/RS, Relatora a Ministra Rosa Weber, DJe de 31/8/17.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de novembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
