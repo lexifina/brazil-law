@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo reformou o entendimento do Juízo para assentar a improcedência do pedido de recebimento do adicional de sexta-parte. No extraordinário cujo trânsito buscam alcançar, os recorrentes alegam a violação do artigo 40, § 8º, da Constituição Federal. Discorrem sobre o direito pleiteado, considerada a legislação de regência.
+    2. Quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência da Corte.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Com efeito, assegura o art. 129 da Constituição do Estado o percebimento de sexta-parte aos servidores públicos estaduais que alcançarem vinte anos de efetivo exercício, com vistas a premiar "àqueles que há mais tempo se dedicam ao serviço público, e nos quais se presume maior experiência e mais eficiência no desempenho de suas funções (...)”
+    Ocorre que os funcionários ligados à Administração podem estar submetidos ao regime estatutário ou ao celetista, sendo, este o caso dos empregados públicos, de modo que nem sempre farão jus às mesmas vantagens dos estatutários, porquanto distinto o regramento remuneratório.
+    Feita tal consideração, oportuno consignar que o adicional' em apreço se aplica aos servidores, sujeitos ao regime jurídico' próprio, não podendo fazer jus a tal vantagem o empregado público vinculado à Administração por contrato de trabalho, como é o caso dos servidores da extinta FEPASA, diante da ausência de previsão nas normas aplicáveis ao regime celetista.
+    […]
+    Cumpre consignar, portanto, que o art. 40 da Lei Estadual n° 9.343/96 apenas transferiu à Fazenda Pública do Estado a obrigação de custear as complementações de aposentadoria e pensão, não autorizando concluir pela migração de regime jurídico, tampouco pela hibridização dos regramentos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de análise conferida a normas locais. Procedeu à interpretação do Estatuto dos Ferroviários e da Constituição Estadual. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    De resto, o Tribunal, no julgamento do recurso extraordinário com agravo nº 675.153/SP, relatado pelo ministro Ayres Britto, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo à incidência do adicional sexta-parte sobre a integralidade dos vencimentos de servidor público estadual estatutário.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
