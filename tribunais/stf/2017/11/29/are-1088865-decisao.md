@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da Turma Recursal do Estado do Rio Grande do Sul, ementado nos seguintes termos:
+    “RECURSO INOMINADO. TURMA RECURSAL PROVISÓRIA DA FAZENDA PÚBLICA. AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO. ESTADO DO RIO GRANDE DO SUL. TRIBUTÁRIO. COBRANÇA DE IMPOSTO DE RENDA SOBRE O TERÇO CONSTITUCIONAL DE FÉRIAS. POSSIBILIDADE. VERBA ACESSÓRIA, DE CARÁTER REMUNERATÓRIO. SENTENÇA MANTIDA. RECURSO INOMINADO DESPROVIDO, POR MAIORIA.” (eDOC 7)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 7º, inciso XVII; 100, §1º; e 153, III, do texto constitucional.
+    Nas razões recursais, alega-se que o terço de férias tem natureza indenizatória e não se amolda ao fato gerador do imposto de renda. (eDOC 8)
+    É o breve relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (o art. 43 do Código Tributário Nacional e a Consolidação das Leis do Trabalho), consignou que o terço de férias é verba de natureza remuneratória, configurando, pois, fato gerador para o imposto de renda. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Destarte, tenho que o pagamento do terço de férias constitui um acréscimo patrimonial, decorrente dos vencimentos recebidos pelo servidor público, em razão do trabalho prestado, possuindo, nitidamente, natureza remuneratória, pelo que se constitui um fato gerador do imposto de renda, conforme art. 43, inc. I, do CTN”. (eDOC 7, p. 10)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as turmas desta Corte:
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA. TERÇO DE FÉRIAS. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a discussão sobre a natureza jurídica da verba para fins de incidência de Imposto de Renda é de índole infraconstitucional. Precedentes. 2. Eventual ofensa ao texto da Carta, se existisse, seria meramente indireta ou reflexa. 3. Agravo interno a que se nega provimento.” (RE 1010292 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 13.6.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE TRIBUTOS. NATUREZA JURÍDICA DA VERBA. IMPOSTO DE RENDA. TERÇOCONSTITUCIONAL DE FÉRIAS. 1. A jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba. 2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame dos fatos e provas, além da legislação infraconstitucional aplicável à espécie. Precedentes. 3. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC.” (RE 1009131 AgR, Rel. Min. Edson Fachin, Segunda Turma, DJe 23.5.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 29 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
