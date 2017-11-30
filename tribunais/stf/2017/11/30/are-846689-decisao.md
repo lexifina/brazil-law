@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso extraordinário com agravo em face de acórdão da Quarta Turma Recursal do Juizado Especial Federal da 3a. Região, assim ementado:
+    “PROCEDIMENTO COMUM DOS JUIZADOS ESPECIAIS FEDERAIS – SENTENÇA DEVIDAMENTE FUNDAMENTADA OBSERVADAS AS PECULIARIDADES DO CASO CONCRETO - SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS
+    1. Trata-se de recurso interposto pela parte autora em face da r. sentença de improcedência.
+    2. Desta decisão, recorre tempestivamente a parte autora requerendo seja reformada a sentença para julgar procedente o seu pedido inicial.
+    3. Defiro benefício de assistência judiciária gratuita à parte autora, nos termos da Lei nº 1060/50.
+    4. Em relação ao prequestionamento de matérias que possam ensejar a interposição de recurso especial ou extraordinário, com base nas Súmulas nº 282 e 356, do Supremo Tribunal Federal, as razões do convencimento do Juiz sobre determinado assunto são subjetivas, singulares e não estão condicionadas aos fundamentos formulados pelas partes. Neste sentido pronuncia-se a jurisprudência:
+    ‘O juiz não está obrigado a responder todas as alegações das partes, quando já tenha encontrado motivo suficiente para fundar a decisão, nem se obriga a ater-se aos fundamentos indicados por elas e tampouco a responder um a um todos os seus argumentos.’ (RJTJESP 115/207).
+    5. No caso dos autos, verifico que a r. sentença recorrida foi clara e bem fundamentada com uma linha de raciocínio razoável e coerente, baseando-se nas provas constantes nos autos. Ademais, a matéria suscitada em sede recursal já foi exaustivamente analisada pelo juízo de origem.
+    Assim, utilizando-me do disposto no artigo 46 da Lei n. 9.099/95, combinado com o artigo 1º da Lei n. 10.259/01, entendo que a decisão recorrida deve ser mantida por seus próprios fundamentos, os quais adoto como razões de decidir, dando-os por transcritos.
+    Esclareço, por oportuno, que “não há que se falar em omissão em acórdão de Turma Recursal de Juizado Especial Federal, quando o recurso não é provido, total ou parcialmente, pois, nesses casos, a sentença é confirmada pelos próprios fundamentos. (Lei 9.099/95, art. 46.)” (Turma Recursal dos Juizados Especiais Federais de Minas Gerais, Segunda Turma, processo nº 2004.38.00.705831-2, Relator Juiz Federal João Carlos Costa Mayer Soares, julgado em 12/11/2004).
+    Do exposto, nego provimento ao recurso. Condeno o recorrente ao pagamento de honorários advocatícios que fixo em 10% sobre o valor da causa, vigente na data da execução. Na hipótese, enquanto o autor for beneficiário de assistência judiciária gratuita, o pagamento dos valores mencionados ficará suspenso nos termos do artigo 12, da Lei nº 1.060/50.” (eDOC 31, p. 2 e 5)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a , da Constituição Federal, no qual se aduz violação aos artigos 3º, I; 5º, II, XXXVI, do texto constitucional. (eDOC 34, p. 4)
+    Nas razões recursais, alega-se ser devida a repetição de indébito de contribuições previdenciárias recolhidas ao INSS após a aposentadoria do autor.
+    Foi determinada a remessa dos autos à origem, com base no RE-QO-RG 580.871 (Tema 343), de minha relatoria, DJe 13.12.2010, para os fins do disposto no art. 543-B do CPC 1973, atual art. 1.036 do NCPC (eDOC 52)
+    Ocorre que o Tribunal a quo remeteu o recurso extraordinário novamente ao Supremo Tribunal Federal, por entender que a situação fática dos autos seria diversa da referida pelo tema de repercussão geral. (eDOC 65)
+    É o Relatório.
+    Decido.
+    Após detida análise dos autos, verifico que, de fato, a matéria, do modo como é trazida na petição do recurso extraordinário, é diversa do citado paradigma.
+    Assim, torno sem efeito a devolução constante do eDOC 62, e passo a analisar o presente recurso extraordinário.
+    A irresignação não merece prosperar.
+    Isso porque o entendimento do Tribunal a quo não destoa da jurisprudência deste Tribunal no sentido de reconhecer a possibilidade de cobrança de contribuições previdenciárias do aposentado que retorna à atividade. Confiram-se, a propósito, os seguintes precedentes:
+    “PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PREVIDENCIÁRIA. APOSENTADO QUE RETORNA À ATIVIDADE. AGRAVO IMPROVIDO. I - A contribuição previdenciária do aposentado que retorna à atividade está amparada no princípio da universalidade do custeio da Previdência Social. Precedentes. II - Agravo regimental improvido. (AI 668.531 AgR/DF, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 21.8.2009)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL DO APOSENTADO QUE RETORNA À ATIVIDADE. POSSIBILIDADE. PRINCÍPIO DA SOLIDARIEDADE. PRECEDENTES. O Supremo Tribunal Federal consolidou o entendimento de que é constitucional a cobrança de contribuição previdenciária sobre o salário do aposentado que retorna à atividade. O princípio da solidariedade faz com que a referibilidade das contribuições sociais alcance a maior amplitude possível, de modo que não há uma correlação necessária e indispensável entre o dever de contribuir e a possibilidade de auferir proveito das contribuições vertidas em favor da seguridade. Agravo regimental a que se nega provimento.” (RE 430.418 AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma, DJe 6.5.2014)
+    “RECURSO EXTRAORDINÁRIO – EXIGIBILIDADE DA CONTRIBUIÇÃO PREVIDENCIÁRIA DO TRABALHADOR APOSENTADO QUE RETORNA À ATIVIDADE (LEI Nº 8.212/91, ART. 12, § 4º, NA REDAÇÃO DADA PELA LEI Nº 9.032/95) – CONSTITUCIONALIDADE – DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL – CONSEQUENTE INVIABILIDADE DO RECURSO QUE A IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO SUPORTE À DECISÃO RECORRIDA – AGRAVO INTERNO IMPROVIDO. (RE 447.923 AgR-segundo/RS, Rel. Min. Celso de Mello, Segunda Turma, DJe 12.6.2017)
+    Ante o exposto, torno sem efeito a devolução constante do eDOC 62 e nego seguimento ao recurso (artigo 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
