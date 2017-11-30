@@ -1,0 +1,20 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela União contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DO TÍTULO EXECUTIVO. PRESCRIÇÃO. INEXISTÊNCIA. IPTU. RFFSA. SUCESSÃO PELA UNIÃO. IMUNIDADE RECÍPROCA. INAPLICABILIDADE. LEI Nº 6.202, DE 1980. REDAÇÃO PELA LEI MUNICIPAL Nº 7.832, DE 1991. PROGRESSIVIDADE DO IPTU VERIFICADA. ART. 1º-F DA LEI Nº 9.494, DE 1997. ART. 46 DO ADCT. NÃO INCIDÊNCIA.
+    1. Se a Certidão de Dívida Ativa preenche os requisitos do art. 2º, § 5º, da LEF, possibilitando a plena defesa do executado, não há razão para determinar a extinção do executivo fiscal.
+    2. Se a paralisação dos autos ocorreu pela demora do Poder Judiciário em remeter os autos ao juízo competente, não se verifica a prescrição intercorrente.
+    3. É exigível o IPTU sobre a propriedade imobiliária de sociedade de economia mista, como a RFFSA, cabendo à União, como sucessora das obrigações correspondentes, responder pelos tributos anteriores à extinção daquela, por não se lhes aplicar a imunidade tributária recíproca, conforme assentado pelo Pleno do Supremo Tribunal Federal em processo submetido ao procedimento de repercussão geral (RE nº 599.176/PR, Rel. Ministro Joaquim Barbosa, DJe 30-10-2014).
+    4. Não sendo os serviços prestados pela RFFSA de prestação obrigatória e exclusiva da União, referida sociedade de economia mista não estava abrangida pela imunidade prevista no artigo 150, VI, 'a', e § 2º, da CF.
+    5. Sendo a Lei Municipal nº 6.202, de 1980, com redação dada pela Lei Municipal nº 7.832, de 1991, anterior à Emenda Constitucional nº 29, de 2000, é vedada a progressividade da alíquota do IPTU nela instituída.
+    6. O art. 1º-F da Lei nº 9.494, de 1997, diz respeito às condenações impostas à Fazenda Pública, sendo inaplicável para o cálculo de correção monetária e juros de créditos em execução fiscal.
+    7. O art. 46 do ADCT limita-se a garantir a exigibilidade da correção monetária para os créditos junto a entidades submetidas aos regimes de intervenção ou liquidação extrajudicial, nada dispondo acerca da cobrança de juros e multa.”
+    A parte recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 21, X, XI e XII, “d”, 150, VI, “a”, §§ 2º e 3º, 173, 175 e 177, todos da Constituição da República.
+    Sendo esse o contexto, passo a apreciar a admissibilidade do recurso extraordinário.
+    E, ao fazê-lo, devo registrar, desde logo, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no RE 959.489-RG/SP, Rel. Min. TEORI ZAVASCKI.
+    O tema objeto do recurso extraordinário representativo de mencionada controvérsia jurídica refere-se à questão pertinente ao “Preenchimento dos pressupostos necessários ao gozo da imunidade tributária recíproca pela Rede Ferroviária Federal S/A – RFFSA” (Tema nº 909 – www.stf.jus.br – Jurisprudência – Repercussão Geral).
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora recorrente.
+    Sendo assim, e tendo em considerações as razões expostas, não  conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
