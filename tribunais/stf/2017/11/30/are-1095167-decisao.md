@@ -1,0 +1,27 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Ferrari Agroindústria S/A contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Nulidade da sentença – Cerceamento de defesa não caracterizado – Alegação rejeitada.
+    Embargos à Execução Fiscal – Indevida compensação com valores de bens destinados ao ativo fixo – Irretroatividade da LC 87/96 – Correta incidência de multa – Recurso improvido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 639.228-RG/RJ, Rel. Min. CEZAR PELUSO, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora recorrente.
+    Cumpre ressaltar, de outro lado, no tocante ao fundo da controvérsia jurídica objeto deste processo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, ao proferir a decisão questionada, apoiou-se em dispositivos de ordem meramente legal:
+    “No que refere ao creditamento de mercadorias destinadas ao ativo fixo ou uso e consumo interno, é inviável a pretensão, porque elas não estão destinadas à circulação, situação em que a adquirente torna-se consumidora final. Assim, apenas quando há saída dos produtos é que se permite a compensação.
+    Assim, não pode retroagir a LC nº 87/96, visto que não é meramente interpretativa, de forma que sua retroação ofende o disposto no art. 106 do CTN.
+    Registra-se, ainda, que as legislações posteriores (Leis Complementares nº 92/97 e 99/99) retiraram o benefício de creditamento concedido pela LC nº 87/96.
+    Nesse sentido é  a Apelação nº 0001391-75.2012.8.26.0549, relatada pelo Desembargador Rui Stoco, de cujo voto se extrai o seguinte trecho de interesse:
+    Como se sabe, no que se refere ao creditamento do ICMS na aquisição de bens destinados ao ativo fixo ou ao consumo da empresa, a legislação anterior à edição da Lei Complementar nº 87/96, vedava essa operação.
+    Não se desconhece que a pretensão exposta na petição inicial encontrou guarida por curto período, através da Lei Complementar nº 87, de 1996.
+    Contudo, o beneficio do crédito foi retirado pelas Leis Complementares nº 92/97 e 99/99.
+    No entanto, mesmo após a permissão desse crédito por curto período, persistiu, no âmbito do Estado de São Paulo a vedação, conforme dispõe a Lei nº 6.374/89, art. 40, I e II (RICMS) c.c. Convênio ICM 66/88, art. 31, II.”
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável, por tratar-se de aplicação, ao caso concreto, de normas eminentemente infraconstitucionais.
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 488.345-ED/SP, Rel. Min. ROSA WEBER – AI 493.183-AgR/RS, Rel. Min. JOAQUIM BARBOSA – RE 872.968-AgR-Segundo/MT, Rel. Min. DIAS TOFFOLI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
