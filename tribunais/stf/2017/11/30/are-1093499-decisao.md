@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 3, p. 71):
+    “EMENTA: Mandado de Segurança - Direito de uso de propriedade - Lei Municipal que restringiu o plantio de cana de açúcar à distância de 1 km da última rua habitada do Município - Previsão constitucional que transfere ao Município o poder de regulamentação de uso do solo - Multa por infringência à lei vinculada ao salário mínimo - Impossibilidade - Circunstância em que já houve pronunciamento do ESTF na ADIN 1425 que veda a vinculação do salário mínimo para qualquer fim - Segurança concedida parcialmente - Recurso improvido.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 94).
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “c”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, I e XXII; 24, VI; 30, I e II; e 170, II, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “tendo em vista a própria Exposição da Justificativa do Projeto da Lei Municipal que expressamente aduz ser necessária edição de "Lei municipal que determine regras claras e limites objetivos para o plantio da cana-de-açúcar com o objetivo de tentar evitar ou mesmo minimizar os efeitos danosos e negativos ao meio ambiente local (...)'; não há como negar que a Lei Municipal trata objetiva proteção ao meio ambiente.” (eDOC 3, p. 108).
+    Alega-se, ainda, que “o Município extrapolou os limites de sua competência para legislar sobre matéria ambiental, em nítida violação aos artigos 24, inciso VI e 30, incisos 1 e II da Constituição Federal.” (eDOC 3, p. 109).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso em virtude de incidir na hipótese a Súmula 280 do STF (eDOC 3, p. 157-158).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 3, p. 72-73):
+    “Ao contrário do que pretendem os impetrantes, não lhes assiste o direito de levar a efeito o plantio, por si próprios, ou em decorrência da parceria contratada porque, como bem frisou o E. Sentenciante á Lei Municipal foi promulgada, à evidência, para evitar "os problemas ambientais e consequências graves" que o plantio da cultura de cana de açúcar próximo à Cidade pode causar à população, como, "por exemplo" as asfixias e intoxicações derivadas da queima da palha.
+    Assim, não exorbitou o Município ao editar tal lei porquanto há previsão constitucional que entrega ao Município o poder de planejar o controle do uso do parcelamento e da ocupação do solo urbano, no artigo 30, VIII, da Carta Magna.
+    Tal poder se dá em razão do direito de propriedade que sofreu grandes mudanças com as duas últimas constituições, vedando o exercício antissocial do deito de propriedade.
+    (…)
+    Há, ainda, a proteção à segurança ao sossego e ao bem estar social, preceitos esses encontrados na Lei Municipal que os impetrantes visam a desconstituição; entretanto, sem sucesso.
+    Se nos idos da anterior constituição tais direitos já eram protegidos, o que dirá com o advento da Constituição de 1988, ou seja, "A Constituição Cidadã" onde tais preceitos não foram derrogados.”
+    O entendimento adotado pelo acórdão recorrido não diverge da jurisprudência firmada no âmbito desta Corte, no sentido de que é da competência dos Municípios legislar sobre assuntos de interesse local para disciplinar o ordenamento territorial urbano. Nesse sentido:
+    “Agravo regimental em recurso extraordinário. 2. Direito de construir. Limitações administrativas. Adequação ao ordenamento territorial municipal. Planejamento e controle do uso e ocupação do solo urbano. Competência municipal. Precedente. 3. Construção. Manifestação do direito de propriedade que não prescinde de licença para construir. Não observância das regras aplicáveis. Ausência da faculdade de construir. Precedente. 4. Agravo regimental a que se nega provimento.” (RE 746.356-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 1º.6.2013).
+     “AGRAVOS REGIMENTAIS NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE DE LEI MUNICIPAL. PLANEJAMENTO COSTEIRO. 1. Competência dos Municípios para legislar sobre assuntos de interesse local e promover o ordenamento territorial urbano: necessidade de observância das normas estaduais sobre direito urbanístico, meio ambiente e proteção ao patrimônio turístico e paisagístico. 2. Deficiência na fundamentação do recurso. Súmula n. 284 do Supremo Tribunal Federal. 3. Agravos regimentais aos quais se nega provimento.” (RE 474.922-AgR-segundo, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe 20.2.2013).
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
