@@ -1,0 +1,31 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE LESÕES CORPORAIS EM ÂMBITO DOMÉSTICO. ARTIGO 129, § 9º, DO CÓDIGO PENAL. ALEGADA VIOLAÇÃO AO ARTIGO 5º, XLVI, DA CONSTITUIÇÃO FEDERAL. INDIVIDUALIZAÇÃO DA PENA. MATÉRIA INFRACONSTITUCIONAL. DIREITOS POLÍTICOS. SUSPENSÃO. SURSIS. POSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO CRIMINAL – SUSPENSÃO DOS DIREITOS POLÍTICOS – EFEITO DA CONDENAÇÃO CRIMINAL TRANSITADA EM JULGADO – SUSPENSÃO CONDICIONAL DA PENA – IRRELEVÂNCIA. I- Para a suspensão dos direitos políticos do sentenciado, basta a existência de condenação criminal transitada em julgado, nos termos do art. 15, III, da CR/88, sendo irrelevante a forma de execução da pena e o regime fixado.” (Doc. 1, fl. 141)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, XLVI, da Constituição Federal.
+    Argumenta que a “suspensão dos direitos políticos, (…), implicaria outra pena que traz consequências certamente mais severa que o próprio castigo cominado ao delito previsto no ordenamento jurídico-penal, em nítida violação aos princípios da individualização da pena (art. 5º, XLVI, CF) e da dignidade da pessoa (art. 1º, III, CF).” (Doc. 1, fl. 169)
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o acórdão recorrido estaria em harmonia com a jurisprudência do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, para divergir das razões do referido acórdão quanto à individualização da pena (artigo 5º, XLVI, da Constituição Federal) seria necessário o reexame da legislação infraconstitucional aplicável à espécie, o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. É o que se verifica dos seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Ausência de prequestionamento. Ofensa reflexa. Revaloração de provas testemunhais. Incidência da Súmula nº 279/STF. Ausência de violação do art. 93, IX, da Constituição. Agravo regimental não provido.
+    1. Os dispositivos constitucionais tido como violados carecem do necessário prequestionamento. Incidência das Súmulas nºs 282 e 256 da Corte.
+    2. A Corte já se pronunciou reiteradamente a respeito da não admissão da tese do chamado prequestionamento implícito. Precedentes.
+    3. A jurisprudência do Supremo Tribunal é pacífica no sentido de que questões relativas à individualização da pena configuram ofensa reflexa ao texto constitucional, por demandar exame prévio da legislação infraconstitucional.
+    4. A pretensão do agravante de rediscutir a prova testemunhal esbarra no óbice da Súmula nº 279/STF.
+    5. Ausência de violação ao art. 93, inciso IX, sendo desnecessário que o órgão judicante se manifeste minudentemente sobre todos os argumentos de defesa apresentados, devendo ele, no entanto, explicitar as razões que entendeu suficientes à formação de seu convencimento.
+    6. Recurso não provido.” (ARE 825.060-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 25/9/2015)
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. QUESTÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NEGADA (ARE 748.371, REL. MIN. GILMAR MENDES, TEMA 660). INDEFERIMENTO DE PRODUÇÃO DE PROVAS NO PROCESSO JUDICIAL. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA NO ARE 639.228 (REL. MIN. CEZAR PELUSO, TEMA 424). USO INDEVIDO DE ALGEMAS. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA. VALORAÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS PREVISTAS NO ART. 59 DO CÓDIGO PENAL. MATÉRIA INFRACONSTITUCIONAL (AI 742.460-RG, REL. MIN. CEZAR PELUSO, TEMA 182). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (ARE 965.920-AgR, Rel. Min. Teori Zavascki, Segunda Turma, DJe de 3/10/2016)
+    Ainda que superado esse óbice, em que pese haver tema semelhante submetido ao regime da repercussão geral (Tema 370), verifica-se que esta Corte fixou entendimento no sentido de que a suspensão condicional da pena não impede a suspensão dos direitos políticos decorrente de condenação criminal transitada em julgado.
+    In casu, o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal, consoante RE 179.502, Rel. Min. Moreira Alves, Tribunal Pleno, DJ de 8/9/1995, assim ementado:
+    “EMENTA: - Condição de elegibilidade. Cassação de diploma de candidato eleito vereador, porque fora ele condenado, com trânsito em julgado, por crime eleitoral contra a honra, estando em curso a suspensão condicional da pena. Interpretação do artigo 15, III, da Constituição Federal.
+    - Em face do disposto no artigo 15, III, da Constituição Federal, a suspensão dos direitos políticos se dá ainda quando, com referência ao condenado por sentença criminal transitada em julgado, esteja em curso o período da suspensão condicional da pena.
+    Recurso extraordinário conhecido e provido.” (Grifei)
+    Colacionam-se, ainda, as decisões monocráticas, transitadas em julgado, proferidas no RE 975.510, Rel. Min. Celso de Mello, DJe de 4/11/2016 e no RE 634.598, Rel. Min. Cármen Lúcia, DJe de 7/2/2011, que assentou, in verbis:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PENAL. ART. 15, CAPUT E INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. SUSPENSÃO DOS DIREITOS POLÍTICOS COMO EFEITO AUTOMÁTICO DE SENTENÇA PENAL CONDENATÓRIA COM TRÂNSITO EM JULGADO. IRRELEVÂNCIA DA INEXISTÊNCIA DE PRIVAÇÃO DE LIBERDADE. JULGADO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
