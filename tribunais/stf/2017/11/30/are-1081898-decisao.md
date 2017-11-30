@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS – TRANSFERÊNCIA DE MERCADORIAS ENTRE ESTABELECIMENTOS DA MESMA EMPRESA – PRECEDENTES – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem assentou a não incidência do Imposto sobre Circulação de Mercadorias e Prestação de Serviços – ICMS na transferência interestadual de mercadorias entre estabelecimentos da mesma empresa.
+    A matéria encontra-se pacificada neste Tribunal. Sob a vigência da Carta pretérita, o Supremo declarou inconstitucionais normas estaduais que determinaram a incidência do imposto presente simples deslocamento físico de bens entre estabelecimentos da mesma empresa – Representações de Inconstitucionalidade nº 1.355/PB, relator ministro Oscar Corrêa, Diário da Justiça de 12 de março de 1987, e nº 1.181/PA, relator ministro Rafael Mayer, Diário da Justiça de 8 de novembro de 1984.
+    Vigente a Constituição atual, o Tribunal manteve o entendimento. Eis as ementas dos acórdãos formalizados pela Primeira Turma, no Agravo Regimental no Agravo de Instrumento nº 810.921/RJ, de minha relatoria, e pela Segunda Turma, no Agravo Regimental em Agravo de Instrumento nº 131.941/SP, relator ministro Carlos Velloso:
+    IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS TRANSFERÊNCIA DE BENS DO ATIVO FIXO ENTRE ESTABELECIMENTOS DA MESMA EMPRESA. Não incide Imposto sobre Circulação de Mercadorias e Serviços na transferência interestadual de bens do ativo fixo entre estabelecimentos da mesma empresa.
+    AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.
+    …...........................................................................................
+    IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS – DESLOCAMENTO DE COISAS – INCIDÊNCIA – ARTIGO 23, INCISO II DA CONSTITUIÇÃO FEDERAL ANTERIOR. O simples deslocamento de coisas de um estabelecimento para outro, sem transferência de propriedade, não gera direito à cobrança de ICM. O emprego da expressão “Operações”, bem como a designação do imposto, no que consagrado o vocábulo “mercadoria”, são conducentes à premissa de que deve haver o envolvimento de ato mercantil e este não ocorre quando o produtor simplesmente movimenta frangos, de um estabelecimento a outro, para simples pesagem.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de novembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
