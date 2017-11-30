@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. CONCURSO PÚBLICO. CARGOS VAGOS. CONTROVÉRSIA ACERCA DO DEFERIMENTO OU INDEFERIMENTO DE MEDIDAS CAUTELARES, PROVIMENTOS LIMINARES OU ANTECIPAÇÃO DE TUTELA. AGRAVO DE INSTRUMENTO. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. ÁREA DE SAÚDE. CONCURSO PÚBLICO. ANTECIPAÇÃO DA TUTELA. POSSIBILIDADE CONTRA A FAZENDA PÚBLICA. PREECHIMENTO DE CARGOS VAGOS POR CANDIDATOS APROVADOS. CABIMENTO. MULTA CORRETAMENTE FIXADA. MANUTENÇÃO DA DECISÃO. Se existem cargos vagos de provimento efetivo e candidatos aprovados em concurso anterior válido, é obrigação constitucional da Administração Pública de proceder à sua convocação. Realização de concurso público que se submete aos critérios discricionários da Administração Pública, vedado ao Poder Judiciário se imiscuir em tal seara orçamentária e de conveniência e oportunidade para a sua realização, salvo quando violado direito público subjetivo. Preenchimento que atende aos princípios da Administração Pública. Ausência de prejuízo ao erário, uma vez que prevista a dotação orçamentária por ocasião da criação do cargo. Multa que deve suficiente e proporcional para que a administração pública seja compelida a cumprir o comando judicial. Conhecimento e desprovimento do recurso.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 2º, 37, I, IV e IX, 61, § 1º, II, 93, IX, 167 e 169 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Esta Suprema Corte firmou jurisprudência no sentido de que não cabe recurso extraordinário contra decisão que defere ou indefere provimento liminar ou antecipação dos efeitos da tutela, por vedação expressa da Súmula 735 deste Tribunal, de seguinte teor: “Não cabe recurso extraordinário contra acórdão que defere medida liminar“. Nesse sentido, confiram-se, à guisa de exemplo, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INCIDÊNCIA DA SÚMULA 735 DO STF.
+    1. A jurisprudência do STF consolidou o entendimento segundo o qual as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares, passíveis de alteração no curso do processo principal, não configuram decisão de última instância a ensejar o cabimento de recurso extraordinário. Súmula 735 do STF.
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o art. 85, § 11, do CPC, visto que não houve fixação prévia de honorários advocatícios no presente feito.” (ARE 988.731-AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe de 7/12/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. SÚMULA 735 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA.
+    I – Em regra é incabível a interposição de recurso extraordinário para combater decisão que concede ou denega pedido de medida cautelar ou de antecipação de tutela, porque esses provimentos judiciais não são definitivos e, assim, não se ajustam a um dos requisitos do art. 102, III, da Constituição.
+    II – Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC).” (ARE 987.342-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 23/2/2017)
+    Por sim, relativamente à alegada violação ao artigo 93, IX, da Constituição Federal, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a decisão judicial tem que ser fundamentada, ainda que sucintamente, sendo prescindível que o decisum se funde na tese suscitada pela parte. Nesse sentido: AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13/8/2010.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
