@@ -1,0 +1,17 @@
+Decisão
+    Cuida-se de agravo contra decisão da instância de origem que, apontando precedentes desta CORTE formados sob a sistemática da repercussão geral (AI 791.292-QO-RG/PE. Rel. Min. Min. GILMAR MENDES, Tema 339) e (are 748.371-RG, Rel. Min. GILMAR MENDES, Tema 660), julgou, no ponto, prejudicado o Recurso Extraordinário e, quanto às demais questões, negou seguimento ao apelo aos argumentos de que (a) incidem os óbices das Súmulas 279, 280 e 284 desta CORTE; e (b) a alegada violação constitucional seria apenas indireta ou reflexa.
+    É o relatório. Decido.
+    A jurisprudência desta CORTE firmou entendimento pela inadmissibilidade de agravo para o SUPREMO TRIBUNAL FEDERAL com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela SUPREMA CORTE, pois, como destacado pelo Decano de nosso SUPREMO TRIBUNAL FEDERAL, Min. CELSO DE MELLO, “se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta SUPREMA CORTE, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada” (RE 1.023.231/PR, DJe de 22/2/2017).
+    Dessa forma, não existe, contra a decisão do Juízo de origem que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso (ARE 960.182-AgR, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 15/3/2017).
+    No que remanesce, o Tribunal de origem, com base no conteúdo fático-probatório constante dos autos e na legislação ordinária pertinente (Lei Complementar 893/2001 e Instruções I-16 PM), manteve a sentença de improcedência do pedido, haja vista a legalidade do processo administrativo disciplinar que sancionou o militar estadual com a pena de demissão por ato incompatível com a sua função. A propósito, veja-se o seguinte trecho do voto condutor do acórdão recorrido (fl. 44, Vol. 5):
+    (...)
+    É de se consignar que o processo administrativo que resultou na demissão do Apelante das fileiras da Polícia Militar observou todos os ditames legais previstos para aplicação dessa penalidade, especialmente o devido processo legal, o contraditório e ampla defesa, não se vislumbrando vícios na instrução que pudessem vir a ensejar sua anulação.
+    A solução dessa controvérsia, portanto, depende da análise da legislação local, especialmente aquela que rege o procedimento disciplinar da carreira em tela, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+    Por fim, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
