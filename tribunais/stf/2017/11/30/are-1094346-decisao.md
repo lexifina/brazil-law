@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado, no relevante:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. Suspensão de pensão por morte recebida por ‘filhas solteiras’ de policiais militares, com base no art. 5º da Lei Federal n° 9.717/98. Inadmissibilidade. (...).” (eDOC 2, p. 126)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “d”, da Constituição Federal, aponta-se violação aos arts. 24, XII e §4°; e 42, § 2º, do texto constitucional.
+    Nas razões recursais, alega-se que a recorrida, na qualidade de filha solteira de militar estadual não pode ser beneficiada pela concessão da pensão por morte, mesmo havendo a previsão estadual no artigo 8º, III, da Lei n. 452/1974, dada a perda de sua eficácia a partir do advento do artigo 5º da Lei Federal n. 9.717/1998” (eDOC 1, p. 182)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Federal n. 9.717/98 e Lei Estadual n. 1.069/76), consignou ser inviável a revisão e cassação do benefício de pensão por morte recebida pelas filhas dos policiais militares falecidos. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Analisando o primeiro caso tem-se que, a época do falecimento do policial militar em 25.10.1994, vigorava a Lei Estadual no 452/74, com as alterações introduzidas pela Lei Estadual n° 1.069/76 e, portanto, antes da entrada em vigor da Lei Federal n° 9.717/98, sendo descabida a revisão e cassação do benefício havido regulamente sob a égide da Lei Estadual n° 452/74”. (eDOC 1, p. 128)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Prequestionamento. Falta. Agravo regimental não provido. Não se admite RE quando falte prequestionamento da matéria constitucional invocada. 2. RECURSO. Extraordinário. Inadmissibilidade. Pensão de filhas solteiras maiores de 21 anos. Lei Estadual 7.672/82. Interpretação de lei local. Agravo regimental não provido. Aplicação da súmula nº 280. Precedentes. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República. 3. RECURSO. Extraordinário. Inadmissibilidade. Servidor Público. Pensão por morte. Benefício integral. Inteligência dos arts. 37, XI, e 40, § 5º (atual §7º), da CF. Agravo regimental não provido. Precedentes. É pacífica a jurisprudência desta Corte no sentido de que o benefício da pensão por morte deve corresponder à totalidade dos vencimentos ou proventos do servidor falecido.” (RE 263534 AgR, Relator(a): Min. CEZAR PELUSO, Primeira Turma, DJ 5.3.2004)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PENSÃO POR MORTE. FILHAS SOLTEIRAS. LEI MUNICIPAL 10.828/1990 E LEI FEDERAL 9.717/1998. DEVOLUÇÃO DOS VALORES PAGOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Alegação insuscetível de apreciação na via extraordinária, pois demandaria o reexame da legislação infraconstitucional pertinente. Precedentes. 2. Agravo regimental desprovido.” (RE 574236 AgR, Relator(a): Min. AYRES BRITTO, Segunda Turma, DJe 19.10.2011)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
