@@ -1,0 +1,25 @@
+Decisão:
+EMENTA: PENAL. HABEAS CORPUS. TENTATIVA DE FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE.
+    1. Trata-se de habeas corpus impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça que negou provimento ao AREsp 438.239, de relatoria do Ministro Sebastião Reis Júnior, assim ementado:
+    “PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FURTO MEDIANTE ARROMBAMENTO E CONCURSO DE PESSOAS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. DOSIMETRIA. SEGUNDA QUALIFICADORA NO FURTO UTILIZADA COMO CIRCUNSTÂNCIA JUDICIAL. POSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE (SÚMULA 7/STJ).
+    1. O crime foi cometido mediante arrombamento e concurso de pessoas. Dessa forma, não se encontram presentes todas as condições necessárias para que se considere insignificante a conduta praticada, mormente a ausência de periculosidade social da ação e a inexpressividade da lesão jurídica provocada.
+    2. Esta Corte já assentou a possibilidade de, diante de várias qualificadoras, uma ser utilizada para qualificar o delito e as demais na primeira fase da dosimetria (HC n. 207.871/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 20/11/2013).
+    3. A análise das questões trazidas pelo agravante demandaria o reexame de matéria fático-probatória, o que é obstado, em âmbito especial, pela Súmula 7/STJ.
+    4. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o paciente foi condenado a 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 6 dias-multa, pela prática do crime de tentativa de furto qualificado pelo arrombamento e concurso de agentes (art. 155, §4º, incisos I e IV, c/c art. 14, inciso II, ambos do Código Penal). O juiz substituiu a pena privativa de liberdade por duas restritivas de direitos, prestação de serviços à comunidade e prestação pecuniária.
+    3. A defesa interpôs recurso de apelação, que foi parcialmente provida pelo Tribunal de Justiça do Estado de Minas Gerais para reconhecer a figura do privilégio.
+    4. Contra esta decisão foi interposto recurso especial no Superior Tribunal de Justiça buscando a absolvição do paciente e, alternativamente, reduzir a pena-base.
+    5. Neste habeas corpus, a defesa reitera a tese de que o paciente deve ser absolvido, ante o princípio da insignificância. Subsidiariamente, postula a fixação da pena-base no mínimo legal.
+    6. Prestadas as informações, a Procuradoria-Geral da República opinou pela denegação da ordem.
+    Decido.
+    7. O habeas corpus não deve ser concedido.
+    8. No julgamento dos HCs 123.734, 123.533 e 123.108, todos de minha relatoria, o Plenário do Supremo Tribunal Federal firmou orientação, no sentido de que, em se tratando de crime de furto, a aplicação do princípio da insignificância deve ser casuística, incumbindo ao Juízo de origem avaliar, no caso concreto, a melhor forma de assegurar a aplicação do princípio constitucional da individualização da pena, examinando a possibilidade da incidência do privilégio previsto no artigo 155, § 2º, do Código Penal, ou do reconhecimento da atipicidade da conduta, com fundamento no princípio da bagatela.
+    9. Por outro lado, o Plenário deste STF reiterou o entendimento de que o princípio da insignificância incide quando presentes, cumulativamente, as seguintes condições objetivas: (i) mínima ofensividade da conduta do agente, (ii) nenhuma periculosidade social da ação, (iii) grau reduzido de reprovabilidade do comportamento, e (iv) inexpressividade da lesão jurídica provocada, ressaltando, ainda, que a contumácia na prática delitiva impede a aplicação do princípio.
+    10. No caso de que se trata, não estão configurados os requisitos necessários ao reconhecimento da irrelevância material da conduta. Para além de observar que a hipótese é de tentativa de “crime de furto com arrombamento e concurso de agentes”, não há como deixar de reconhecer que se trata de réu contumaz na prática criminosa. Tanto assim que a página oficial do Tribunal de Justiça do Estado de Minas Gerais na internet revela que o paciente se encontra cumprindo pena pelo crime de furto nos processos 0239056-15.2012.8.13.0223 e 0049297-95.2013.8.13.0223.
+    11. Ademais, a dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível, em habeas corpus , a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, “ao exame da motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence). E as peças que instruem o processo não evidenciam teratologia, ilegalidade flagrante ou abuso de poder na dosimetria da pena.
+    12. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao presente habeas corpus.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
