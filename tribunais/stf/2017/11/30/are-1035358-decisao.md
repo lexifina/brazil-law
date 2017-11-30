@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA POR INVALIDEZ PROPORCIONAL AO TEMPO DE SERVIÇO. REVISÃO. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “Apelação cível. Rito sumário. Ação de revisão de aposentadoria por invalidez. Servidora pública. Sentença de procedência. Constitucionalidade do art. 219, § 4º, do Decreto Estadual 2.479/79. Aposentadoria por invalidez proporcional ao tempo de serviço. Inexistência de afronta às Emendas Constitucionais 20/98, 41/03 e 70/12. Acerto da sentença. Recurso a que se nega provimento.” (doc. 4, fl. 6)
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 40, § 1º, I, da Constituição Federal, 3º e 7º, da Emenda Constitucional 41/2003, e 3º, parágrafo único, da Emenda Constitucional 47/2005.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta e que encontraria óbice na Súmula 280 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Para divergir das razões do referido acórdão seria necessário o reexame da legislação infraconstitucional aplicável à espécie (Lei 10.887/2004), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Verifica-se, ainda, que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie (Decreto 2.479/79, do Estado do Rio de Janeiro), cuja análise se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Incide, na espécie, o óbice da Súmula 280 do STF, de seguinte teor: “Por ofensa a direito local não cabe recurso extraordinário".
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
