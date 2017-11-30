@@ -1,0 +1,16 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba – IFPPB contra acórdão que, proferido pela Turma Recursal Única dos Juizados Especiais Federais da Seção Judiciária da Paraíba, está assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. PARCELAS RELATIVAS A EXERCÍCIOS ANTERIORES. DIFERENÇAS SALARIAIS. FALTA DE DOTAÇÃO ORÇAMENTÁRIA. PRESCRIÇÃO. INOCORRÊNCIA. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO ART. 1º-F DA LEI Nº 9.494/97 COM RELAÇÃO À APLICAÇÃO DA TR. RECURSO DA PARTE RÉ IMPROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição Federal.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impende registrar, ainda, no tocante às alegadas transgressões aos arts. 165, § 5º, 167, II, V, VI, e 169, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, pois a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Vê-se, portanto, que a pretensão deduzida pela parte ora recorrente revela-se processualmente inviável.
+    Impõe-se observar, por relevante, no que concerne à própria controvérsia suscitada nestes autos, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria idêntica à veiculada no caso em exame (ARE 920.206/RJ, Rel. Min. GILMAR MENDES – ARE 965.956/PE, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    2. Assinalo, finalmente, que, no tocante à matéria relativa ao Tema nº 810/RG, foi determinado o sobrestamento da presente causa pelo órgão judiciário de origem.
+    Publique-se.
+    Brasília, 30 de novembro de 2017.
+Ministro CELSO DE MELLO
+Relator
