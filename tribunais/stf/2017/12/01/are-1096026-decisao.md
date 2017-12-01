@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário, interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE NULIDADE. INEXISTÊNCIA DE DEVER DE INTIMAÇÃO DA PARTE EMBARGANTE. ATUAÇÃO MEDIANTE INTERVENÇÃO PROCESSUAL. EMBARGOS REJEITADOS.
+    I - Para o acolhimento dos Embargos de Declaração é indispensável a existência de um dos vícios insertados no art. 1.022 do CPC/2015, descabendo o acolhimento de aclaratórios que não comprovam, remarque-se, qualquer uma das falhas ensejadoras da sua admissão.
+    II - Em virtude de a atuação dos órgãos responsáveis pela edição do ato impugnado ocorrer mediante intervenção processual, a qual, como dito, exige requerimento da parte interessada, a participação da embargante no incidente de inconstitucionalidade não era obrigatória, razão pela qual também não era impositiva a sua intimação prévia.
+    III - Embargos de Declaração rejeitados.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º , LIV e V; 48; 49, X e XI, da Constituição. Sustenta que “a ausência da Assembleia Legislativa do Estado do Amazonas no processo de Arguição de Inconstitucionalidade merece ser tratada de forma excepcional, não apenas pelo fato de configurar violação ao devido processo legal, ao contraditório e à ampla defesa, mas, principalmente, pelo fato de violentar prerrogativa constitucional básica assegurada ao Poder Legislativo de elaborar leis, e sustentar, de forma indelegável, intransferível, a defesa das leis aprovadas”.
+    O recurso extraordinário é inadmissível. De início, observa-se que os arts. 48 e 49, X e XI, da Constituição, tidos por violados não foram objeto de análise pelo Tribunal de origem. Tampouco foram suscitados nos embargos de declaração opostos. Nesse ponto, o recurso carece de prequestionamento (Súmulas 282 e 356/STF).
+    O Tribunal de origem, analisando o art. 482, § 1º, do CPC/1973, assentou que “em virtude de a atuação dos órgãos responsáveis pela edição do ato impugnado ocorrer mediante intervenção processual, a qual, como dito, depende de requerimento da parte interessada, a participação da embargante no incidente de inconstitucionalidade não era obrigatória, razão pela qual também não era impositiva sua intimação prévia”.
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Nessas condições, aplica-se a Súmula 283/STF.
+    Ainda que superado os óbices apontados, observa-se que para dissentir da conclusão do Tribunal de origem seria necessário rever interpretação dada a norma infraconstitucional, providência inviável de ser realizada neste momento processual.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 1º de dezembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
