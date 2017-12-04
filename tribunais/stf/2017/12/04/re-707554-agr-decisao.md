@@ -1,0 +1,11 @@
+Decisão: PROSEGUR BRASIL S/A – TRANSPORTADORA DE VALORES E SEGURANÇA E OUTRO(A/S), por meio da Petição 71.742/2017 (doc.18), juntada em 27/11/2017, manifesta sua desistência parcial do mandado de segurança, “apenas com relação à discussão sobre a incidência do FGTS sobre o vale-transporte pago em pecúnia”, requerendo, sobre essa parte da pretensão, a extinção do feito, sem resolução do mérito, nos termos do art. 485, VIII, do CPC/2015.
+    O pedido foi reiterado nas Petições 71.802/2017 (doc. 20) e 72.128/2017 (doc. 22).
+    Em julgamento realizado em Sessão Virtual de 27/10 a 6/11 de 2017 (doc. 17), a Primeira Turma negou provimento ao agravo interno no recurso extraordinário, para manter decisão que: 1) reconheceu a prejudicialidade do recurso extraordinário quanto ao pedido de não incidência da contribuição previdenciária sobre o vale-transporte pago em pecúnia (em razão de decisão transitada em julgado que deu provimento parcial a recurso especial interposto pela ora recorrente); e 2) negou seguimento ao recurso extraordinário em relação aos pedidos de inclusão das filiais da recorrente no polo ativo da demanda e de não incidência do FGTS sobre vale-transporte, por serem questões que demandam a análise de normas infraconstitucionais. O acórdão foi publicado no DJe de 22/11/2017.
+    É o relatório. DECIDO.
+    De plano, constata-se que este Tribunal firmou entendimento no sentido de que é lícito ao impetrante desistir, a qualquer tempo, de mandado de segurança, independentemente de anuência da parte contrária, termos em que fixou tese de repercussão geral (RE 669.367, Relatora p/ Acórdão Min. Rosa Weber, Tribunal Pleno, julgado em 02/05/2013). No mesmo sentido, cito: MS 34902, Relator Min. Roberto Barroso; MS 29391, Relator Min. Marco Aurélio; RE 550.258 AgR, Rel. Min. Dias Toffoli; RE 231.509 AgR-AgR, Rel. Min. Cármen Lúcia; RE 231.671 AgR-AgR, Rel. Min. Ellen Gracie.
+    Ex positis, tendo em vista que os advogados que firmam a petição de desistência têm poderes específicos para fazê-lo, HOMOLOGO o pedido de desistência parcial, para que produza os efeitos legais, com base no art. 485, VIII, do CPC, e no art. 21, VIII, do RISTF, mantendo, no mais, o que decidido pela Primeira Turma no julgamento do agravo interno.
+    Publique-se.
+    Brasília, 4 de dezembro de 2017.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
