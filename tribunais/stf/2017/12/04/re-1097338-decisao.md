@@ -1,0 +1,16 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Aposentadoria e pensões – Limite remuneratório – EC 41, de 2003 – Novo limite de valor que pode balizar vantagens futuras, mas que não pode ser aplicado como redutor de valores que já se percebia antes da alteração, em vista das garantias constitucionais do direito adquirido e da irredutibilidade de vencimentos, infensas ao poder constituinte derivado. Sentença reformada – Recurso provido.”
+    A parte ora recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, XI, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 606.358/SP, Rel. Min. ROSA WEBER, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. SERVIDORES PÚBLICOS. REMUNERAÇÃO. INCIDÊNCIA DO TETO DE RETRIBUIÇÃO. VANTAGENS PESSOAIS. VALORES PERCEBIDOS ANTES DO ADVENTO DA EMENDA CONSTITUCIONAL Nº 41/2003. INCLUSÃO. ART. 37, XI e XV, DA CONSTITUIÇÃO DA REPÚBLICA.
+    1. Computam-se para efeito de observância do teto remuneratório do art. 37, XI, da Constituição da República também os valores percebidos anteriormente à vigência da Emenda Constitucional nº 41/2003 a título de vantagens pessoais pelo servidor público, dispensada a restituição dos valores recebidos em excesso de boa-fé até o dia 18 de novembro de 2015.
+    2. O âmbito de incidência da garantia de irredutibilidade de vencimentos (art. 37, XV, da Lei Maior) não alcança valores excedentes do limite definido no art. 37, XI, da Constituição da República.
+    3. Traduz afronta direta ao art. 37, XI e XV, da Constituição da República a exclusão, da base de incidência do teto remuneratório, de valores percebidos, ainda que antes do advento da Emenda Constitucional nº 41/2003, a título de vantagens pessoais.
+    4. Recurso extraordinário conhecido e provido.”
+    O exame da presente causa evidencia que o acórdão ora questionado diverge da orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Vale referir que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questão idêntica à suscitada nesta sede recursal (ARE 928.979/RJ, Rel. Min. DIAS TOFFOLI – ARE 963.881/SP, Rel. Min. EDSON FACHIN – RE 1.016.078/AM, Rel. Min. ROBERTO BARROSO, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, dou  provimento ao recurso extraordinário, por estar o acórdão recorrido em confronto com entendimento emanado do Plenário desta Suprema Corte (CPC, art. 932, IV, “b”), em ordem a julgar improcedente a ação ajuizada pela parte ora recorrida, invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 04 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
