@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul confirmou o entendimento do Juízo quanto ao indeferimento da segurança no tocante ao pedido de honorários advocatícios por procuradora municipal. No extraordinário cujo trânsito pretende alcançar, a recorrente aponta a violação dos artigo 5º, cabeça e inciso XXII, e 37, inciso XI, da Constituição Federal. Alega ferido o direito à propriedade. Sustenta a ilegalidade da incorporação dos honorários advocatícios como receita orçamentária do município. Aduz o desrespeito ao Estatuto dos Advogados do Brasil.
+    2. Quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência da Corte.
+    No mais, colho do acórdão recorrido o seguinte trecho:
+    Em que pese o Estatuto da OAB preveja o direito dos advogados aos honorários de sucumbência, está a referida lei se referindo aos advogados que laboram no setor privado. visto que os procuradores municipais são remunerados de acordo com a lei que cria o cargo, não podendo perceber outros valores. Ademais, os honorários de sucumbência dados a favor da Fazendo Pública servem para ressarcir o ente dos custos com a causa. Com base nesses argumentos, pretensões como a do impetrante/apelante vêm sendo denegados pelo STJ, como exemplificam as seguintes decisões: […]
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+ Brasília, 4 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
