@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AUSÊNCIA DE PREQUESTIONAMENTO – NEGATIVA DE SEGUIMENTO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 4ª Região, confirmando o entendimento do Juízo, reconheceu, observada a legislação de regência, não exaurido o prazo prescricional, ante o efeito interruptivo do protesto judicial, consubstanciado por meio do ajuizamento de processo cautelar. No extraordinário, cujo trânsito busca alcançar, a União alega violado o artigo 146, inciso III, alínea “b”, da Constituição Federal. Afirma a exigência constitucional de edição de lei complementar para modificar o comando dos artigos 165, 166, 167, 168 169 do Código Tributário Nacional, quanto a admissibilidade de reconhecimento de efeito interruptivo do prazo prescricional mediante a propositura de medida cautelar de protesto.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    No casos dos autos, tendo a parte autora apresentado medida cautelar de protesto, a qual foi distribuída à 4ª Vara Federal de Florianópolis/SC sob o nº 5001492- 75.2010.4.04.7102, com citação da União em 03/04/2013, conforme consulta ao site do TRF da 4ª Região, deve tal marco ser considerado para fins de cômputo do prazo para repetição do indébito.
+    Dessa forma, considerando o referido protesto interruptivo da prescrição, encontra-se fulminada a pretensão da autora de discutir os recolhimentos efetuados anteriormente a 03/04/2008.
+    […].
+    Dito isso, verifico que o autor fora aposentado por invalidez permanente, com proventos proporcionais, em 31/10/2006. Ato contínuo, em 24/07/2007, ajuizou ação ordinária (Processo nº 0008826-53.2007.4.04.7200/SC) na qual alegou que fazia jus à aposentadoria com proventos integrais, por ser portador de transtorno afetivo bipolar crônico e refratário ao tratamento, que ocasionou alienação mental. A referida ação ordinária foi julgada parcialmente procedente, para declarar o direito do autor à aposentadoria por invalidez com proventos integrais, a partir de 04/10/2007, tendo em vista o reconhecimento da presença de alienação mental por peritos médicos oficiais. Sobre o tema foi editada a Lei nº 8.541/92, alterando a Lei nº 7.713/88, cujas disposições que pertinem ao caso encontram-se assim redigidas:
+    […].
+    In casu, tenho que a prova juntada aos autos demonstra que o autor padece de moléstia mental passível de enquadramento no rol legal, na condição de alienação mental, senão vejamos. O autor junta aos presentes autos o parecer da Junta Médica do Tribunal Regional federal da 12ª Região, no qual, através de inspeção médico-pericial concluiu o seguinte (Evento 1 - OUT2, fls. 10/11):
+    […].
+    Assim, tendo restado demonstrada a existência de moléstia prevista no rol do inc. XIV do art. 6º, da Lei n.º 7.713, merece ser confirmada a sentença, a fim de que seja reconhecida a isenção postulada
+    Revela o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, no caso, o que sustentado nas razões do extraordinário, quanto à necessidade de edição de lei complementar para admitir medida cautelar com efeito interruptivo do prazo prescricional sob exame, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Nego seguimento ao extraordinário. Considerada a fixação em sentença dos honorários advocatícios em 10% sobre o valor da condenação, majoro os honorários recursais no patamar de mais 5% do valor da condenação, consoante o artigo 85, § 11, do citado diploma legal.
+    4. Publiquem.
+Brasília, 4 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
