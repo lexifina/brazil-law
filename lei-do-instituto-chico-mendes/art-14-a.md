@@ -1,0 +1,6 @@
+Art. 14-A. Fica o Instituto Chico Mendes autorizado a selecionar instituição financeira oficial, dispensada a licitação, para criar e administrar fundo privado a ser integralizado com recursos oriundos da compensação ambiental de que trata o art. 36 da Lei nº 9.985, de 2000, destinados às unidades de conservação instituídas pela União.
+§ 1º A instituição financeira oficial será responsável pela execução, direta ou indireta, e pela gestão centralizada dos recursos de compensação ambiental destinados às unidades de conservação instituídas pela União.
+§ 2º O depósito integral do valor fixado pelo órgão licenciador desonera o empreendedor das obrigações relacionadas à compensação ambiental.
+§ 3º A instituição financeira oficial de que trata o caput fica autorizada a promover as desapropriações dos imóveis privados indicados pelo Instituto Chico Mendes que estejam inseridos na unidade de conservação destinatária dos recursos de compensação ambiental.
+§ 4º O regulamento e o regimento interno do fundo observarão os critérios, as políticas e as diretrizes definidas em ato do Instituto Chico Mendes.
+§ 5º A autorização prevista no caput estende-se aos órgãos executores do Sistema Nacional de Unidades de Conservação.
