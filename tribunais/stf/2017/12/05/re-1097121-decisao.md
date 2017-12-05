@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “AGRAVO REGIMENTAL. APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA. AÇÃO DECLARATÓRIA. LEI ESTADUAL Nº 17.097/2010. CONSTITUCIONALIDADE RECONHECIDA. REENQUADRAMENTO DE SERVIDORES INATIVOS. PROVENTOS MANTIDOS INALTERADOS. AUSÊNCIA DE FATO NOVO. REDISCUSSÃO DA MATÉRIA. 1. Ante a existência de expressa previsão legal a respaldar o julgamento monocrático pelo Relator (artigo 557, caput, do CPC) não há que se falar em inviabilidade de incidência do aludido dispositivo. 2. Ausentes argumentos novos que demonstrem o desacerto dos fundamentos utilizados na decisão monocrática que, consubstanciada em jurisprudência dominante deste Sodalício, reconheceu a constitucionalidade de legislação estadual (Lei nº 17.097/2010) que procedeu o reenquadramento de servidores inativos sem acarretar decréscimo vencimental, mostra-se imperioso o desprovimento do recurso, porquanto interposto à míngua de elemento capaz de desconstituir o ato judicial recorrido. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente sustenta violação aos arts. 5º, XXXVI; 40, § 8º, da Constituição.
+    O recursão não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Supremo Tribunal Federal. Nesse sentido, veja-se o RE 968.016, Rel. Min. Gilmar Mendes.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita a parte recorrente, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 05 de dezembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
