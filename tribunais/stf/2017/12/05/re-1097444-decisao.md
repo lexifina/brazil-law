@@ -1,0 +1,17 @@
+DECISÃO:
+     Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. TERRENO DE MARINHA. OCUPAÇÃO PRESUMIDA. PROCESSO DEMARCATÓRIO EM ANDAMENTO. CONTRADITÓRIO E AMPLA DEFESA. NULIDADE DE INSCRIÇÃO. IMPROVIMENTO.
+    I - Trata-se de apelação interposta pela União em face de sentença que julgou parcialmente procedente os pedidos autorais, determinando o cancelamento do regime de ocupação do imóvel dos demandantes, assim como das taxas de ocupação e laudêmio que se encontram pendentes.
+    II - Pelo que se depreende dos autos, em 2011, os autores e os demais moradores do citado edifício, receberam notificação da SPU, informando a necessidade de regularização da construção junto ao órgão, e que a área já possuía débitos em abertos e inscritos em Dívida Ativa.
+    III - Através de Ofício n.º 278/GAB/SPU/PB, informa a SPU que a área "era de propriedade da Portal Empreendimentos Ltda, que, em agosto de 1986, requereu a este órgão a sua regularização (em anexo) o que, consequentemente, gerou sua inscrição como pertencente à União" e que "verificado encontrar-se o imóvel em área de domínio da União, a então Delegacia Regional do Patrimônio da União expediu, em 1989, a certidão de inscrição de ocupação (em anexo), passando à cobrança da taxa de ocupação."
+    IV - No entanto, contraditoriamente, informa a SPU que os procedimentos demarcatórios da área em que está situado o Edifício Tom Jobim ‘encontram-se em fase inicial de estudo e o rito específico não resta concluído. Por essa razão, ainda serão percorridos todos os procedimentos descritos na lei para a sua conclusão, inclusive a notificação pessoal dos interessados certos, respeitado o direito ao contraditório e a ampla defesa, quando poderão apresentar elementos a fim de ilidir a dominialidade da União’.
+    V - Em se tratando de terreno de marinha, o reconhecimento do bem como sendo de ‘propriedade presumida da União’ consubstancia-se, portanto, como uma etapa preliminar à adoção dos procedimentos legalmente previstos para a demarcação da área, garantindo-se aos interessados o contraditório e a ampla defesa, para que, ao final, seja possível definir se aquilo que era presumido se constitui em terreno de marinha.
+    VI - Não se admite que determinado imóvel seja classificado como terreno de marinha apenas com base em declaração do proprietário anterior, sendo imprescindível o término do procedimento demarcatório para se proceder à inscrição do regime de ocupação do imóvel. Precedentes em relação a unidades do mesmo edifício.
+    VII - Apelação e remessa oficial improvidos.”
+    O recurso é inadmissível, tendo em vista que, para dissentir da conclusão do Tribunal de origem quanto à regularidade do processo administrativo de demarcação de terreno de marinha, seriam imprescindíveis a análise da legislação infraconstitucional aplicada ao caso e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    O Plenário do Supremo Tribunal Federal já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (Tema 660 - ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 05 de dezembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
