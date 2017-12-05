@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – –  DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, julgou procedente pedido formulado em embargos de terceiro. No extraordinário, cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso LV e 93, inciso IX, da Constituição Federal. Afirma contrariados os princípios do contraditório, da ampla defesa e da motivação das decisões judiciais. Pleiteia a reintegração de posse da área em em litígio, dizendo ser proprietário e possuidor, tendo a agravada como invasora.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    3. O conjunto probatório revela estar a apelante na posse do bem há bastante tempo. A ocupação ocorreu, segundo ela, porque o terreno, onde havia um barracão, encontrava-se abandonado (fls. 41 e 488/497).
+    Não obstante essa área, aparentemente, integrar outra maior, objeto de demanda possessória movida pelos apelados, naquele processo não se discutiu a situação específica da apelante. Reconheceu-se a posse deles sobre o imóvel, visto que o réu ali se encontrava na condição de empregado. Daqueles autos nada consta sobre a área menor, na qual a apelante exerce há vários anos.
+    Não encontra explicação plausível a omissão dos apelados em relação a essa parte do bem, especialmente porque postularam a reintegração da área maior. O conjunto probatório também não contraria a afirmação do abandono feita pela apelante. As conclusões da perícia realizada nos autos da demanda possessória não podem ser admitidas neste processo, visto que a apelante não participou daquela relação processual.
+    Em síntese, não há elementos para o reconhecimento da má-fé da apelante. Ao que tudo indica, a área por ela ocupada encontrava-se realmente abandonada, não obstante a possessória em curso. Fosse outra a situação, os apelados teriam adotado providências visando à cessação do esbulho, mesmo porque já litigavam com o possuidor da área maior.
+     As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce padecer o recurso da ausência do prequestionamento, esbarrando o recurso no óbice do verbete nº 356 da Súmula do Supremo.
+    Por fim, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação dos princípios do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 5 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
