@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “AÇÃO POPULAR. CABIMENTO. INCONSTITUCIONALIDADE FORMAL E MATERIAL DO ART. 37 E PARÁGRAFO ÚNICO DA MEDIDA PROVISÓRIA Nº 446/08. NULIDADE DAS RESOLUÇÕES DO CONSELHO NACIONAL DE ASSISTÊNCIA SOCIAL – CNAS. RENOVAÇÃO AUTOMÁTICA DO CERTIFICADO DE ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL (CEBAS). AUSÊNCIA DE ABUSO DO PODER DISCRICIONÁRIO. AUSÊNCIA DE AFRONTA AO PRINCÍPIO DA MORALIDADE.
+    A ação popular é instrumento cabível para o cidadão pleitear a anulação ou a declaração de nulidade de atos lesivos ao patrimônio da União, conforme determina o art. 5º, LXXIII, da CF/88 e o art. 1º da Lei nº 4.717/65.
+    Segundo entendimento do Supremo Tribunal Federal (AI-AgR 489108; ADI 2150), os requisitos de relevância e urgência para edição de medida provisória são de apreciação discricionária do Chefe do Poder Executivo, não cabendo, salvo os casos de excesso de poder, seu exame pelo Poder Judiciário.
+    Ainda que a referida MP tenha sido rejeitada pela Câmara dos Deputados em 10-02-2009 (publicação no Diário Oficial da União em 12-02-2009), as relações jurídicas decorrentes de sua rejeição não foram regulamentadas pelo Congresso Nacional, o que acarreta a convalidação de seus efeitos, nos termos do art. 62, §§ 3º e 11, da Constituição Federal.
+    No caso da Medida Provisória nº 446/2008, os motivos que ensejaram sua edição não evidenciam abuso da discricionariedade do Presidente da República ou afronta ao princípio da moralidade insculpido no art. 37 da Constituição Federal. A administração fez uma opção política, agindo dentro do seu poder de legislar, não caracterizando abuso de poder, não quebrando isonomia, e tendo seus motivos para fazê-lo. Este juízo político-administrativo é expressamente autorizado pelo texto constitucional, informado por razões de conveniência e oportunidade do Poder Executivo, cujo mérito não pode ser examinado pelo Poder Judiciário.
+    Não há lesão ao erário porque a concessão do CEBAS não é o único requisito exigido para a isenção tributária prevista no art. 195, § 7º, da Constituição Federal (Súmula nº 352 da jurisprudência do STJ, de 19-06-2008).
+    Ação improcedente.
+    Considerando que não restou comprovado nos autos a má-fé do autor, fica o mesmo isento das custas judiciais e honorários advocatícios, nos termos do que determina o artigo 5º, inciso LXXIII, da Constituição Federal.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impende assinalar, ainda, no tocante à alegada violação ao art. 62, §§ 3º e 11, da Constituição da República, que o Plenário desta Suprema Corte, ao julgar a ADI 2.150/DF, Rel. Min. ILMAR GALVÃO, fixou entendimento que torna inacolhível a pretensão de direito material deduzida pela parte ora recorrente:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTS. 11 E 18 DA MEDIDA PROVISÓRIA Nº 1.925-5, SUCESSIVAMENTE REEDITADA ATÉ O ADVENTO DA EMENDA CONSTITUCIONAL N.º 32/2001. ALEGADA VIOLAÇÃO AOS ARTS. 5º, ‘CAPUT’; 37, ‘CAPUT’, E 62, TODOS DA CONSTITUIÇÃO FEDERAL.
+    Os dispositivos em referência, ao atribuírem aos órgãos de trânsito o registro de ônus reais sobre veículos automotivos de qualquer espécie, não ofendem as normas constitucionais indicadas.
+    Os requisitos de relevância e urgência para edição de medida provisória são de apreciação discricionária do Chefe do Poder Executivo, não cabendo, salvo os casos de excesso de poder, seu exame pelo Poder Judiciário. Entendimento assentado na jurisprudência do STF.
+    Ação julgada improcedente.” (grifei)
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, e considerando, ainda, a existência de precedente específico sobre a matéria em análise (RE 968.449/RS, Rel. Min. MARCO AURÉLIO), nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem.
+    Publique-se.
+    Brasília, 06 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
