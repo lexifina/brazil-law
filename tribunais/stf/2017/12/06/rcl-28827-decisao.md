@@ -1,0 +1,22 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Jocimauro Belizário dos Santos assevera haver o Juízo da Vara de Execuções Criminais de Presidente Prudente, no processo nº 0009262-03.2017.8.26.0996, olvidado o decidido na reclamação nº 20.089, relator o ministro Luís Roberto Barroso, e o teor do verbete vinculante nº 26 da Súmula do Supremo.
+    Segundo narra, atingido o lapso temporal e atestado o bom comportamento, buscou a progressão para o regime semiaberto, no que o Órgão reclamado determinou a feitura de exame criminológico presente a gravidade da infração cometida e o saldo de pena a cumprir. Ressalta ter sido condenado, em primeira instância, a 6 anos de reclusão, em regime inicial fechado, ante a prática do delito de organização criminosa. Diz da pendência de julgamento de apelação por si interposta, já tendo cumprido, em 8 de novembro último, 1/4 da sanção total. Destaca a ausência de indícios de periculosidade, considerada a inexistência de relatos de emprego de armas de fogo ou ação violenta, afirmando inadequado admitir, como de longa duração, pena privativa de liberdade de 6 anos.
+    Sustenta ofendido o referido verbete vinculante, frisando mostrar-se insuficiente, para a imposição do exame, a simples referência à gravidade do crime praticado e à duração da pena. Sublinha ser imprescindível indicar dados concretos verificados na fase executiva para justificar a obrigatoriedade do exame. Salienta não possuir qualquer registro, nos assentamentos carcerários, a macular a conduta. Cita o decidido pelo ministro Luís Roberto Barroso na reclamação nº 20.089, no que proclamada imprópria a utilização de motivação genérica para respaldar a determinação de feitura de exame criminológico. Menciona o verbete nº 439 da Súmula do Superior Tribunal de Justiça. Evoca jurisprudência.
+    Sob o ângulo do risco, alude ao prejuízo ao direito de locomoção ante a exigência desnecessária de realização do citado exame.
+    Requer, em sede liminar, seja determinado à autoridade reclamada que se abstenha de exigir a conclusão de exame criminológico sem fundamentação idônea. Postula, alfim, a confirmação da medida acauteladora.
+    2. Relativamente ao apontado desrespeito à decisão proferida na reclamação nº 20.089, relator o ministro Luís Roberto Barroso, o reclamante não participou da relação processual nele formada. Esta medida é meio inábil a chegar-se a verdadeira uniformização de jurisprudência, evocando-se pronunciamento relacionado a partes diversas.
+    No mais, percebam as balizas retratadas. Buscada, na origem, a progressão do regime de cumprimento de pena, foi determinada a submissão do apenado a exame criminológico. Com esta reclamação, o condenado argui a ofensa ao que veiculado na parte final do verbete vinculante nº 26 da Súmula do Supremo, cujo texto transcrevo:
+    Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o Juízo da Execução observará a inconstitucionalidade do art. 2º da Lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico.
+    É imprópria a irresignação. Além de não versado crime hediondo ou a ele equiparado, o Órgão reclamado, ao impor a realização do exame criminológico como requisito à progressão de regime, consignou expressamente as razões de convencimento. Confiram o seguinte trecho do ato impugnado:
+    […]
+    No caso dos autos, verifica-se que o sentenciado praticou crimes graves, cometidos com violência ou grave ameaça à pessoa e possui considerável pena por cumprir.
+    Assim, considerando que o regime semiaberto prepara o condenado para o retorno ao convívio social, torna-se imprescindível a realização do exame criminológico para verificação da provável e frutífera adaptação no regime menos rigoroso.
+    […]
+    Descabe analisar, nesta via, a subsistência das premissas lançadas pela autoridade reclamada. Não se pode emprestar a esta medida excepcional os contornos de incidente de uniformização de jurisprudência ou, até mesmo, de sucedâneo recursal. A reclamação pressupõe a usurpação de competência do Supremo ou a inobservância de decisão por ele proferida.
+    3. Ante o quadro, nego seguimento ao pedido formulado.
+    4. Publiquem.
+Brasília, 6 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
