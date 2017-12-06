@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, cuja ementa exibe o seguinte cabeçalho:
+    AGRAVO REGIMENTAL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 530 DO CPC. NÃO CARACTERIZAÇÃO. VIOLAÇÃO DO ARTIGO 37. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. TÍTULO EXECUTIVO JUDICIAL. REAJUSTE DE 47,94%. FUNDAMENTO DE ÍNDOLE CONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA O PROVIMENTO.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta, em síntese, que o julgado ofendeu os arts. 5º, XXXV e XXXVI, 37, caput, 97 e 102, § 2º, da Constituição Federal.
+    A decisão agravada entendeu que a alegada ofensa constitucional se daria de maneira meramente reflexa.
+    No agravo, a parte agravante sustenta, em síntese, que há ofensa direta à Carta Magna. No mais, repisa as alegações de mérito do Recurso Extraordinário.
+    É o relatório. Decido.
+    Esta CORTE já firmou entendimento no sentido de que não cabe recurso extraordinário contra acórdão proferido pelo Superior Tribunal de Justiça que, em julgamento de recurso especial, mantém os fundamentos das instâncias ordinárias, os quais não foram objeto de apelo extremo em momento oportuno. Nesse sentido:
+    Agravo regimental no recurso extraordinário com agravo. Previdenciário. Pensão por morte. Violação do art. 5º, incisos XXXV, LIV e LV, da Constituição Federal. Ofensa reflexa. Recurso extraordinário interposto contra acórdão do STJ. Análise de questão decidida em segundo grau. Inexistência de controvérsia surgida no STJ. Preclusão. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa ou do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Não se admite recurso extraordinário contra acórdão do Superior Tribunal de Justiça no qual se suscita questão resolvida na decisão de segundo grau quando o STJ, ao negar seguimento ao recurso especial, mantém incólume a decisão proferida na origem. 3. Agravo regimental não provido. (ARE 757.260-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, Dje de 08/04/2015)
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. APELO EXTREMO MANEJADO CONTRA ACÓRDÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECLUSÃO DAS QUESTÕES CONSTITUCIONAIS ALEGADAS. 1. Nos termos da jurisprudência do STF, a admissibilidade do recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça está adstrita a discussões constitucionais inauguradas no julgamento do recurso especial. As matérias constitucionais que já foram objeto de análise pelas instâncias ordinárias precluem, ante a não interposição simultânea de recurso extraordinário e recurso especial. Precedentes. 2. Agravo regimental desprovido. (AI 761.983-AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 17/12/2010)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 6 de dezembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
