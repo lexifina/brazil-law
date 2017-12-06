@@ -1,0 +1,19 @@
+DECISÃO:
+Ementa: Direito Constitucional e Tributário. Embargos de Declaração. Inexistência dos vícios relacionados no art. 1022 do CPC/2015.
+1. Não há erro, obscuridade, contradição ou omissão na decisão embargada. Na forma do art. 1.022 do CPC/2015, não há como identificar os pressuposto de embargabilidade.
+2. A via recursal adotada não é adequada para suscitar o sobrestamento da tramitação de processos, nos termos do art. 1.035 § 5º do CPC/2015.
+3. Embargos de declaração rejeitados.
+    1. Trata-se de embargos de declaração opostos contra decisão monocrática que revogou tutela liminar, ressalvando parcialmente os efeitos produzidos durante a sua vigência, de modo a preservar os lançamentos efetivados pela Fazenda distrital apenas para prevenir a decadência dos créditos remitidos pela Lei nº 4.732/2011.
+    2. A parte embargante sustenta que a decisão não foi clara quanto ao sobrestamento dos processos pendentes que guardem relação com o recurso extraordinário com repercussão geral reconhecida. Alega que esta Corte, no julgamento do RE 966.177-QO firmou o entendimento de que a suspensão do processamento prevista no § 5º do art. 1.035 do CPC não consiste em consequência automática e necessária do reconhecimento da repercussão geral, sendo discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la, daí a necessidade de pronunciamento sobre a questão.
+    3. Decido.
+    4. Os embargos não podem ser providos, tendo em vista a inexistência de obscuridade, contradição, omissão ou erro material na decisão embargada.
+    5. A decisão agravada foi clara ao assentar que:
+    “...não há periculum in mora para o provimento liminar. Em primeiro lugar, porque o reconhecimento da repercussão geral do RE 851421 já produziu parte dos efeitos pretendidos com o pedido liminar. O sobrestamento dos recursos extraordinários que versem sobre a inconstitucionalidade da Lei distrital nº 4.732/2011 era uma consequência prevista no então vigente art. 543-B, §3º, do CPC/1973. Em segundo, não há como antever o prejuízo ao erário distrital. Conforme já fixado pela jurisprudência, a existência de discussão judicial acerca de crédito tributário, com a consequente suspensão de sua exigibilidade, não impede o curso de prazo decadencial para o lançamento do tributo. A natureza vinculada do ato de lançamento exige que os agentes públicos responsáveis adotem providências para afastar eventual prejuízo ao Erário, caso a controvérsia sobre a exigibilidade do tributo se resolva em favor da Fazenda. Diante disso, com o deferimento da liminar pelo Min. Marco Aurélio, caberia à Fazenda realizar o chamado lançamento para prevenir a decadência.”
+    6. Além disso, o Supremo Tribunal Federal, no julgamento do RE 966.177-QO, tratou sobre o sobrestamento previsto no art. 1.035, § 5º, do CPC/2015. Essa norma é mais ampla do que aquela prevista no art. 543-B do CPC/1973, que se limitava a dispor sobre a suspensão de recursos extraordinários.
+    7. No caso, a decisão de reconhecimento de repercussão geral foi proferida na vigência do CPC/1973. Desse modo, conforme pontuado pela decisão embargada, os efeitos dessa decisão foram aqueles previstos no art. 543-B. Portanto, o sobrestamento se limitou aos recursos extraordinários que envolvem a temática do paradigma.
+    8. É certo que esta Corte, antes da vigência do CPC/2015, já admitia a possibilidade de sobrestamento de todas as causas relacionadas ao tema com repercussão geral reconhecida. No entanto, nos termos da decisão proferida no RE 576.155-QO, Rel. Min. Ricardo Lewandowski, j. em 11.06.2008, o juízo quanto à extensão do sobrestamento cabe ao Ministro Relator. A decisão embargada não contou com qualquer determinação nesse sentido. Inexiste, portanto, vício a ser sanado.
+    9. Pelo exposto, com base no art. 1.024, § 2º, do CPC/2015, rejeito os embargos.
+          Publique-se.
+Brasília, 06 de dezembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
