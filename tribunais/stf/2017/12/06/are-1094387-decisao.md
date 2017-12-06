@@ -1,0 +1,43 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “APELAÇÃO CRIMINAL. CRIME DE QUADRILHA OU BANDO. SENTENÇA ABSOLUTÓRIA. AUSÊNCIA DE AUTORIZAÇÃO DAS INTERCEPTAÇÕES TELEFÔNICAS. RECURSO DO MINISTÉRIO PÚBLICO. CONJUNTO PROBATÓRIO SUFICIENTE PARA COMPROVAR A AUTORIA E A MATERIALIDADE DO CRIME. RECURSO CONHECIDO E PROVIDO.
+    1. A impossibilidade de se avaliar a legalidade das interceptações telefônicas impede a inclusão destes elementos e de seus derivados no conjunto probatório. Entretanto, tais informações não contaminam os demais elementos de prova obtidos e que delas não derivaram.
+    2. A confissão extrajudicial do réu, aliada às delações perpetradas por vários codenunciados, em sede de inquérito e confirmadas em juízo, sob o crivo do contraditório e da ampla defesa, forma um conjunto probatório seguro, robusto e coeso no sentido de comprovar a materialidade e a autoria do delito.
+    3. Recurso conhecido e provido para condenar o réu nas sanções do artigo 288, caput, do Código Penal, aplicando-lhe a pena de 01 (um) ano e 02 (dois) meses de reclusão, a ser cumprida em regime inicial semiaberto”. (eDOC 10, p. 79)
+    Consta dos autos que o recorrente foi condenado pelo TJDFT pela prática do crime previsto no art. 288, caput, do Código Penal à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 5º, incisos XII, LIV e LV, do texto constitucional. (eDOC 11, p. 33-44)
+    Sustenta-se a nulidade processual ab initio, “considerando que o Inquérito Policial e as interceptações telefônicas, principais peças instrumentalizadoras da ação penal foram extraviadas”, o que contaminaria todo o processo. (eDOC 11, p. 34)
+    Aduz-se que o entendimento do Juízo de primeiro grau, que proferiu sentença absolutória deve ser restabelecido, uma vez que considerou não haver “certeza da autoria, bem como, que todo o processo estava contaminado”, pelo desaparecimento do Inquérito Policial e da interceptação telefônica contida neste. (eDOC 11, p. 38)
+    Requer-se o provimento do presente recurso, para que seja restabelecida a decisão primeira, absolvendo o recorrente. (eDOC 11, p. 44)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da parte recorrente.
+    Da leitura dos autos, verifica-se que, na realidade, o recorrente pretende, a pretexto de suposta violação ao artigo 5º, incisos XII, LIV e LV, do texto constitucional, o revolvimento fático-probatório, o que é defeso em sede de recurso extraordinário.
+    O TJ/DFT considerou correto o entendimento do magistrado de primeiro grau que não valorou as interceptações telefônicas e as provas derivadas, em razão do extravio dos autos. Contudo, manteve a condenação do recorrente com base em outros elementos (confissão e delações dos corréus). A propósito, confiram-se os seguintes trechos do acórdão recorrido:
+    “No caso dos autos, a materialidade do delito está sobejamente comprovada por toda a prova testemunhal colhida nos autos, sob o crivo do contraditório, bem como pelo inquérito policial nº 560/2006 (fls. 08/448), que contém, inclusive, cópia do inquérito policial nº 415/2006 (fls. 76/138), que trata do crime de estelionato que deu origem à formação de quadrilha objeto dos presentes autos. Nestes inquéritos destacam-se o auto de prisão em flagrante de fls. 09/28; as ocorrências policiais de fls. 70/75, 79/80, 91/92 e 93/96; os relatórios policiais de fls. 236/248 e 372/380 e os autos de apresentação e apreensão de fls. 421/445.
+    A autoria do crime imputado ao apelado, da mesma forma, é inequívoca. Embora, em juízo, o acusado tenha exercido o direito de permanecer em silêncio (mídia de fl. 888), em sede de inquérito ele confessou o crime, conforme se confere (fls. 62/63)”. eDOC 10, p. 89)
+    (...)
+    O mesmo aconteceu com o acusado ISAÍAS MARTINS GOMES NETO. Em juízo (mídia de fl. 889), o corréu afirmou que apenas 'alguns fatos são verdadeiros', pois não conhecia todos os denunciados. No entanto, descreveu o papel de RENAN na associação criminosa e confirmou que praticava o crime com o mesmo e com JOÃO PEDRO, corroborando o que já havia narrado em sede de inquérito, in verbis (fls. 22/23)” (eDOC 10, p. 91)
+    (…)
+    Portanto, merece respaldo o pleito da acusação, pois o conjunto probatório, colhido sob o crivo do contraditório e da ampla defesa, se mostra seguro, robusto e coerente quanto à comprovação da materialidade e da autoria do delito, subsumindo-se a conduta ao crime previsto no art. 288, caput, do Código Penal, fato em desacordo com a norma penal de proteção à paz pública e merecedor de repreensão estatal”. (eDOC 10, p. 91-93)
+    O tema da nulidade das provas produzidas por meio de interceptação telefônica foi ventilado nas instâncias precedentes (TJDFT e STJ), sendo rechaçada em todas elas por decisões suficientemente fundamentadas.
+    Desse modo, é de fácil percepção que a tese desenvolvida no recurso extraordinário demanda a reanálise da instrução probatória, entretanto o apelo extremo não se presta à revisão dos fatos e provas já analisados pelas instâncias ordinárias.
+    Neste sentido, cito jurisprudência:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 5º, INCISOS LIV E LV. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA STF Nº 279. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INQUÉRITO. CONFIRMAÇÃO EM JUÍZO DOS TESTEMUNHOS PRESTADOS NA FASE INQUISITORIAL.
+     1. A suposta ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa passa, necessariamente, pelo prévio reexame de fatos e provas, tarefa que encontra óbice na Súmula STF nº 279.
+      2. Inviável o processamento do extraordinário para debater matéria infraconstitucional, sob o argumento de violação ao disposto nos incisos LIV e LV do art. 5º da Constituição.
+      3. Ao contrário do que alegado pelos ora agravantes, o conjunto probatório que ensejou a condenação dos recorrentes não vem embasado apenas nas declarações prestadas em sede policial, tendo suporte, também, em outras provas colhidas na fase judicial. Confirmação em juízo dos testemunhos prestados na fase inquisitorial.
+     4. Os elementos do inquérito podem influir na formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo.
+     5. Agravo regimental improvido”. (RE-AgR 425.734/MG, Rel. Min. Ellen Gracie, Segunda Turma, DJ 28.10.2005)
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL. ROUBO CIRCUNSTANCIADO. PROVA EMPRESTADA SUBMETIDA AO CONTRADITÓRIO DA DEFESA. SUFICIÊNCIA DE OUTRAS PROVAS PRODUZIDAS INCLUSIVE NA FASE JUDICIAL A CORROBORAR A CONDENAÇÃO E O RECONHECIMENTO FOTOGRÁFICO QUESTIONADO. INEXISTÊNCIA DE NULIDADE. IMPOSSIBILIDADE DE REEXAME EM HABEAS CORPUS. ORDEM DENEGADA.
+    1. Inexistência de nulidade na utilização da prova emprestada. A defesa do Paciente teve a oportunidade de contraditá-la, mas deixou de produzir novas provas.
+    2. Independentemente da suposta inadequação do reconhecimento fotográfico e da existência ou não dessa fotografia, as instâncias antecedentes assentaram haver outras provas, inclusive produzidas na fase judicial, para corroborar esse reconhecimento e subsidiar a manutenção da condenação do Paciente transitada em julgado.
+    3. Acolher a pretensão do Impetrante de absolvição do Paciente demandaria reexaminar o conjunto probatório dos autos para avaliar a suficiência das provas pelas quais se baseia a condenação e consideradas para a prolação das decisões nas instâncias antecedentes, ao que não se presta o habeas corpus.
+    4. Ordem denegada”. (HC 133.773, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 21.10.2016 - grifei)
+    Ademais, verifico que o assunto versado no recurso extraordinário (ofensa ao artigo 5º, incisos LIV e LV) corresponde ao tema 660 da sistemática da repercussão geral, cujo paradigma é o ARE-RG 748.371/MT, de minha relatoria, DJe 1º.8.2013.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 6 de dezembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
