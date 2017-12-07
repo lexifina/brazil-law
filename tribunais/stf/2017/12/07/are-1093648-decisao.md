@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de fixação de aluguéis. No extraordinário cujo trânsito buscam alcançar, os recorrentes apontam a violação dos artigos 5º, inciso XLIV e LV, e 93, inciso IX, da Constituição Federal. Arguem a nulidade do processo por cerceamento de defesa. Aludem à necessidade de produção probatória. Dizem discorrem sobre o tema de fundo, pretendendo o reconhecimento do usucapião.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário quanto ao julgamento antecipado da lide.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Pois bem. Não há falar em cerceamento de defesa. Suficientes as provas contidas nos autos, hábeis a formar o convencimento do julgador, podendo este conhecer diretamente do pedido com o julgamento da lide no estado sem incorrer em ofensa ao contraditório, segundo o comando contido no art. 330 do Código de Processo Civil.
+    […]
+    Do mesmo modo não há que se falar em carência da ação. Comprovada ser a autora co-proprietária do imóvel em questão, patente o interesse da autora em que sejam fixados alugueres em razão do desfrute exclusivo do bem pela inventariante.
+    […]
+    Nos termos do art. 1.319 e 1.326, do Código Civil, cada condômino responde aos outros pelos frutos que percebeu da coisa na proporção de seus quinhões. Assim, correto o entendimento do i. sentenciante a fls. 87/91, de que a autora têm direito a receber o valor correspondente a um locativo mensal, já que o uso exclusivo do imóvel pela inventariante implicaria em enriquecimento ilícito.
+    […]
+    Por fim, não prospera a exceção de usucapião em razão do não cumprimento de um de seu requisitos, qual seja, o "animus domini". A posse não é exercida pela apelante com a intenção de ser dona da integralidade do imóvel, mas sim mediante permissão da autora, co-proprietária do bem. Ressalte-se que a exceção de usucapião trata-se de verdadeiro meio de defesa a ser utilizado por aquele que for demandado em ações possessórias ou petitórias, que não é o caso dos autos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais em 5% sobre o valor das parcelas vencidas, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015,
+    4. Publiquem.
+Brasília, 7 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
