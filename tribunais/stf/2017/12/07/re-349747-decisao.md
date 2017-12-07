@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – SERVENTIA EXTRAJUDICIAL – DELEGAÇÃO – DESFAZIMENTO – COMPETÊNCIA – NEGATIVA DE SEGUIMENTO.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. Tem-se recurso extraordinário formalizado contra pronunciamento do Superior Tribunal de Justiça, mediante o qual desprovido o recurso ordinário em mandado de segurança nº 10.534/SC. A recorrente alega inobservância do devido processo legal e do contraditório, no que, por ato do Presidente do Tribunal de Justiça do Estado de Santa Catarina, desfez-se, sem oportunidade de defesa, delegação relativa à titularidade de cartório. Sustenta incompetência do Presidente do Tribunal de Justiça para implementar e desfazer a delegação. Aponta transgressão aos artigos 2º, 5º, incisos LIV e LV, e 236, § 1º, da Constituição Federal. Requer seja deferida a segurança para anular-se o ato por meio do qual declarado vago o cargo por si ocupado.
+    A matéria revela-se idêntica à examinada, pelo Supremo, no recurso extraordinário nº 355.856/SC, de minha relatoria, redator para o acórdão o ministro Luís Roberto Barroso, assim resumido:
+    RECURSO EXTRAORDINÁRIO. ATO DE PRESIDENTE DE TRIBUNAL DE JUSTIÇA. AFASTAMENTO DE SERVENTIA EXTRAJUDICIAL. INGRESSO APÓS A CONSTITUIÇÃO FEDERAL DE 1988. NECESSIDADE DE APROVAÇÃO EM CONCURSO PÚBLICO. AFASTAMENTO QUE PRESCINDE DE PRÉVIO PROCEDIMENTO ADMINISTRATIVO. PRECEDENTES. 1. A discussão acerca da legitimidade ou não do Presidente de Tribunal de Justiça para afastar serventuário cartorário se insere no âmbito infraconstitucional. 2. A jurisprudência do Supremo Tribunal Federal se firmou no sentido de que é imprescindível prévia aprovação em concurso público para o ingresso na atividade notarial e de registro após a promulgação da Constituição Federal de 1988. 3. Dispositivos da Constituição do Estado de Santa Catarina que mantinham serventuários no cargo sem aprovação em concurso público foram declarados inconstitucionais por esta Corte (ADIs 363 e 1.573), de modo que o afastamento do cargo prescinde da instauração de prévio procedimento administrativo. 4. Recurso extraordinário a que se nega provimento.
+    3. Ante o precedente, ressalvado entendimento pessoal, nego seguimento ao extraordinário e declaro o prejuízo da cautelar em apenso, afastando a eficácia da medida acauteladora antes deferida.
+    4. Juntem cópia desta decisão à ação cautelar nº 1.783/SC, arquivando-a.
+    5. Publiquem.
+Brasília, 7 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
