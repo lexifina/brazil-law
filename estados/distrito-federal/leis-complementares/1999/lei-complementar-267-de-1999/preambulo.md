@@ -1,0 +1,5 @@
+# LEI COMPLEMENTAR Nº 267, DE 15 DE DEZEMBRO DE 1999
+(regulamentado pelo(a) Decreto 21251 de 12/06/2000)
+(Autoria do Projeto: Poder Executivo)
+Dispõe sobre a criação de Programa de Apoio à Cultura - PAC.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
