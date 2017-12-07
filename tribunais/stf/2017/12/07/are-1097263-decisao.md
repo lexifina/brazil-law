@@ -1,0 +1,26 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM APRECIAÇÃO DO MÉRITO. APLICAÇÃO DO ART. 515, 3º DO CPC. PIS E COFINS. CREDITAMENTO. LEIS NºS 10.637/2002, 10.833/2003 E 10.865/2004. CONCESSIONÁRIAS DE VEÍCULOS. PRECEDENTES.
+    …...................................................................................................
+    9. Apelação desprovida.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 195, § 12, da Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Leis nº 10.637/2002, nº 10.833/2003 e nº 10.865/2004), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, para negar provimento à apelação da parte ora recorrente, apoiou-se em dispositivos de ordem meramente legal:
+    “Posteriormente houve a edição da Lei nº 10.865/2004, preconizando que as receitas de comercialização de veículos novos e autopeças passariam a ser submetidas ao regime da não-cumulatividade, todavia, depreende-se da leitura do referido diploma legal, a seguir transcrito, que a modificação só abarcou os fabricantes e importadores, mantendo-se a alíquota zero para os outros integrantes da cadeia comercial.
+    …...................................................................................................
+    Destarte, pode-se concluir que as concessionárias, na verdade, repassam os valores recolhidos nas etapas anteriores aos consumidores finais e, por sua vez, não precisam efetuar o recolhimento das exações em comento, não havendo o que se falar em direito a creditamento.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (RE 881.883/RS, Rel. Min. DIAS TOFFOLI, v.g.):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÕES PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS E PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS. DIREITO AO CRÉDITO. TRIBUTAÇÃO MONOFÁSICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 648.586-AgR/RS, Rel. Min. CÁRMEN LÚCIA)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. REGIME NÃO CUMULATIVO. TRIBUTAÇÃO MONOFÁSICA. REVENDA COM ALÍQUOTA ZERO. CREDITAMENTO. A CUMULATIVIDADE PRESSUPÕE A SOBREPOSIÇÃO DE INCIDÊNCIAS TRIBUTÁRIAS. LEIS Nº 10.637/2002, 10.833/2003 E 11.033/2004. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL.
+    1. Não há que se falar em ofensa ao princípio da não-cumulatividade quando a tributação se dá de forma monofásica, pois a existência do fenômeno cumulativo pressupõe a sobreposição de incidências tributárias. Precedente: RE 258.470, Rel. Min. Moreira Alves, Primeira Turma, DJ de 12/5/2000.
+    2. O aproveitamento de créditos relativos à revenda de veículos e autopeças adquiridos com a incidência da Contribuição ao PIS e da COFINS sob o regime monofásico encerra discussão de índole infraconstitucional, de forma que eventual ofensa à Constituição seria meramente reflexa. Precedentes: RE 709.352-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 11/6/2014; e RE 738.521-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 4/12/2013.
+    3. ‘In casu’, o acórdão recorrido extraordinariamente assentou: ‘TRIBUTÁRIO – PIS E COFINS – NÃO-CUMULATIVIDADE – COMERCIALIZAÇÃO DE VEÍCULOS NOVOS – SISTEMA MONOFÁSICO – PRINCÍPIO DA LEGALIDADE – LEIS 10.637/02, 10.833/03 E 11.033/04 – APELAÇÃO IMPROVIDA’.”
+    4. Agravo regimental DESPROVIDO.”
+    (RE 762.892-AgR/PE, Rel. Min. LUIZ FUX)
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 07 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
