@@ -1,0 +1,13 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA – PRESSUPOSTO ESPECÍFICO DE RECORRIBILIDADE – DISCUSSÃO RESTRITA À ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO – INADEQUAÇÃO – EMBARGOS – NEGATIVA DE SEGUIMENTO.
+    1. Estes embargos de divergência voltam-se a impugnar acórdão da Primeira Turma mediante o qual negado provimento a agravo interno formalizado, com a seguinte ementa:
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais.
+    2. Conforme aduz o embargante, há descompasso entre a tese jurídica revelada no pronunciamento atacado e a óptica adotada no julgamento do agravo regimental no recurso extraordinário nº 469.332, relatora a ministra Ellen Gracie, em 15 de setembro de 2009, no qual a Segunda Turma assentou a impossibilidade de o Poder Judiciário, ante omissão legislativa, fixar o vencimento básico do servidor como base de cálculo do adicional de insalubridade.
+    3. Mostram-se inadequados os embargos. O artigo 330 do Regimento Interno do Supremo revela o cabimento de embargos de divergência contra decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do Direito federal, devendo a parte comprovar a discrepância jurisprudencial na forma do disposto no artigo 322 nele contido, ou seja, via certidão ou cópia autenticada ou mediante citação do repositório de jurisprudência, oficial ou autorizado, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados. A par desse aspecto, o entendimento do Plenário evoluiu no sentido de inadmitir embargos de divergência contra pronunciamento em que não se tenha apreciado matéria de mérito:
+    AGRAVO – EMBARGOS DE DIVERGÊNCIA – PRESSUPOSTO DE ADMISSIBILIDADE – NÃO ATENDIMENTO. Descabem os embargos de divergência contra pronunciamento em que não se tenha examinado a matéria de mérito. HONORÁRIOS ADVOCATÍCIOS – FIXAÇÃO. Havendo interposição de recurso sob a regência do Código de Processo Civil de 2015, cabível é a fixação de honorários de sucumbência recursal previstos no artigo 85, § 11, do diploma legal.
+    (Agravo regimental nos embargos de divergência no agravo regimental no recurso extraordinário nº 850.405, de minha relatoria, acórdão publicado no Diário da Justiça de 31 de maio de 2017).
+    4. Havendo o recorrente interposto estes embargos de divergência contra acórdão no qual examinados apenas pressupostos específicos de admissibilidade, tenho-os como inadmissíveis e não os recebo.
+    5. Publiquem.
+Brasília, 7 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
