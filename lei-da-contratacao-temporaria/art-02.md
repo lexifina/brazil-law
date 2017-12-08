@@ -21,6 +21,7 @@ VIII - admissão de pesquisador, de técnico com formação em área tecnológic
 IX - combate a emergências ambientais, na hipótese de declaração, pelo Ministro de Estado do Meio Ambiente, da existência de emergência ambiental na região específica.
 X - admissão de professor para suprir demandas decorrentes da expansão das instituições federais de ensino, respeitados os limites e as condições fixados em ato conjunto dos Ministérios do Planejamento, Orçamento e Gestão e da Educação.
 XI - admissão de professor para suprir demandas excepcionais decorrentes de programas e projetos de aperfeiçoamento de médicos na área de Atenção Básica em saúde em regiões prioritárias para o Sistema Único de Saúde (SUS), mediante integração ensino-serviço, respeitados os limites e as condições fixados em ato conjunto dos Ministros de Estado do Planejamento, Orçamento e Gestão, da Saúde e da Educação.
+XII - admissão de profissional de nível superior especializado para atendimento a pessoas com deficiência, nos termos da legislação, matriculadas regularmente em cursos técnicos de nível médio e em cursos de nível superior nas instituições federais de ensino, em ato conjunto do Ministério do Planejamento, Desenvolvimento e Gestão e do Ministério da Educação.
 § 1º A contratação de professor substituto de que trata o inciso IV do caput poderá ocorrer para suprir a falta de professor efetivo em razão de:
 I - vacância do cargo;
 II - afastamento ou licença, na forma do regulamento; ou
