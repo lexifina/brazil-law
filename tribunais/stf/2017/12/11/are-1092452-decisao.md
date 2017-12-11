@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – LEGISLAÇÃO LOCAL – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo consignou, em síntese:
+    APELAÇÃO AÇÃO DE OBRIGAÇÃO DE FAZER - REAJUSTES DE PROVENTOS APOSENTADOS DA EXTINTA-FEPASA Pretensão inicial da autora, pensionista de ex-funcionário da extinta FEPASA, voltada a obter o reajuste de seus proventos de acordo com o piso salarial de 2,5 (dois e meio) salários-mínimos estabelecido no Contrato Coletivo de Trabalho de 1995/1996 inadmissibilidade inteligência do art. 7º, inciso IV, da Constituição Federal e da Súmula Vinculante nº 4 do STF precedentes desta E. Corte de Justiça sentença de improcedência da ação mantida. Recurso desprovido.
+    No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos 5º, inciso XXXVI, 7º, inciso XXVI, 37, cabeça, e 40, § 8º, da Constituição Federal. Discorre sobre o direito à complementação dos proventos, tendo em vista o piso salarial de 2,5 salários mínimos, observada a estrutura de cargos e salários implementada pela Ferrovia Paulista S/A. Diz feridos os princípios do direito adquirido e da legalidade.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Colho da decisão recorrida os seguintes trechos:
+    In casu, a autora figura como pensionista de ex-funcionário da extinta FEPASA (e-fls. 14/15) e, segundo afirma, pretende ver reconhecido o seu direito à percepção do piso salarial instituído na cláusula 4.17 do Contrato Coletivo de Trabalho 1995/19961 (dois salários mínimos e meio), tendo por fundamento os arts. 192 e 193 do “Estatuto dos Ferroviários”, art. 4º da Lei Estadual nº 9.343/1996 e art. 40, §8º da Constituição Federal (com a redação atribuída pela EC nº 20/98), todos in verbis:
+    […]
+    O piso salarial expresso no Contrato Coletivo de Trabalho foi estabelecido apenas para o biênio 1995/1996 (item 4.17 do contrato), sem que a autora comprovasse prorrogação do contrato em questão. Ademais, consoante disposto no art. 613, II da CLT, as convenções e os acordos deverão obrigatoriamente indicar o prazo de vigência, não podendo ser superior a dois anos (art. 614, § 3º).
+    […]
+    Se não bastasse, na hipótese sub examine, observe-se que a legislação estadual determinou que a Fazenda do Estado complementasse os proventos recebidos pelos ferroviários inativos e pensionistas até o valor pago aos paradigmas de cada um deles em atividade. Inobstante tal consideração, certo é que veda-se a vinculação do salário mínimo para fins de cálculo de parcela remuneratória ou qualquer outro objetivo pecuniário, consoante disposto expressamente na Constituição Federal (art. 39, §3º cc. art. 7º, IV, da CF/88):
+    […]
+    Nesse sentido, é o entendimento do Supremo Tribunal Federal, pacificado na Súmula Vinculante nº 04: “salvo nos casos previstos na constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial”.
+    […]
+    Logo, inexistindo fundamento jurídico apto a conferir legitimidade ao pedido da autora, a improcedência da pretensão inicial é de rigor.
+    A par desse aspecto, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida à Lei estadual nº 9.343/96. Ora, a controvérsia sobre o alcance de norma local não viabiliza, conforme sedimentado pela jurisprudência Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário, o acesso ao Supremo. Está-se diante de caso cujo desfecho fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários  recursais em 5% sobre o valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 11 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
