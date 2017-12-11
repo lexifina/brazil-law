@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, no qual se questiona ato que determinou a aplicação do tema 611, da sistemática da repercussão geral (eDOC 6).
+    Nas razões do agravo, sustenta-se a ausência de similitude fática entre o tema 611 e o disposto no recurso extraordinário interposto pelo recorrente.
+    Sob essa ótica, após detida análise, verifico que a matéria, do modo como é trazida no apelo extremo, difere-se do citado paradigma.
+    Desse modo, torno sem efeito a devolução constante do eDOC 4 e passo à apreciação do recurso.
+    Trata-se de a agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa transcrevo:
+    “APELAÇÃO CIVEL. SEGUROS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. IMPOSSIBILIDADE.
+    Abusiva a cláusula que exclui a cobertura do procedimento de cateterismo postulado pela apelante.
+    Ausência de ato causador a título de dano moral.
+    Apela parcialmente provido, por maioria.” (eDOC. 1, p. 175)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” , da Constituição Federal, aponta-se violação ao art. 5º, XXXVI do texto constitucional.
+    Alega-se, em síntese, violação ao ato jurídico perfeito, tendo em vista que a não cobertura do procedimento cirúrgico estava prevista no contrato firmado entre as partes pactuantes. (eDOC. 2, fl. 70)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie, Código de Defesa do Consumidor e Lei nº 9.656/98, e o conjunto probatório constante dos autos, bem como interpretar cláusulas contidas em contrato de prestação de serviço de plano de saúde, consignou que o plano não pode se negar à prestação de serviço de saúde quando existente a doença e prescrito o requerimento do serviço por médico. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Ocorre que a negativa da cobertura não encontra respaldo legal.
+    O contrato de prestação de serviços de assistência médica e hospitalar foi estabelecido em 1997, ou seja, já na vigência do CDC, ao qual está sujeita a Unimed, como fornecedora de serviços. E segundo o art. 51, inc. VII, é nula a cláusula que estabelecer obrigação considerada iníqua, abusiva, que coloque o consumidor em desvantagem exagerada, ou seja, incompatível com a boa-fé ou equidade.
+    [...]
+    E, nos termos da Lei nº 9.656/98, os planos de saúde não podem excluir da cobertura tratamentos prescritos por médicos assistentes […]
+    Assim, sendo incontroversa a existência da doença e o requerimento do médico assistente da parte autora, no sentido da necessidade de realizar o procedimento, é caso de manter a decisão de primeiro grau que deferiu a tutela antecipada (fl. 55).” (eDOC. 1,p. 178-179)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    "Agravo regimental no recurso extraordinário com agravo. Direito Civil e do Consumidor. Negativa de prestação jurisdicional. Não ocorrência. Ato jurídico perfeito. Revisão judicial dos contratos para coibir enriquecimento ilícito. Possibilidade. Contrato de plano de saúde. Tratamento fora da rede conveniada. Reembolso. Legislação infraconstitucional. Ofensa reflexa. Cláusulas contratuais. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada (AI nº 791.292-QO-RG, Relator o Ministro Gilmar Mendes). 2. A jurisprudência da Corte é de que a garantia constitucional do ato jurídico perfeito não elide a possibilidade da revisão judicial do contrato para coibir enriquecimento sem causa. 3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de cláusulas contratuais e do conjunto fático-probatório da causa. Incidência das Súmulas nºs 636, 454 e 279/STF. 4. Agravo regimental não provido." (ARE 871648 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 1º.7.2015)
+    "AGRAVO REGIMENTAL EM RECURSO EXTRAODINÁRIO COM AGRAVO. CONSUMIDOR. PLANO DE SAÚDE. DANO MORAL. VIOLAÇÃO ATO JURÍDICO PERFEITO. INOCORRÊNCIA. MATÉRIA INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DO MATERIAL FÁTICO PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454/STF. A questão só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. No presente recurso, a parte recorrente não cogita de retroação de lei superveniente, limita-se a questionar alegado erro no enquadramento do caso à legislação infraconstitucional, procedimento inviável em sede de recurso extraordinário. O Plenário do Supremo Tribunal Federal, no exame do ARE 697.312, sob a relatoria do Ministro Ayres Britto, assentou que “o tema alusivo à responsabilidade por danos morais e materiais decorrentes de negativa de cobertura para tratamento de beneficiário, por parte de operadora de plano de saúde, não enseja a abertura da via extraordinária, dado que não prescinde do reexame da legislação infraconstitucional, de cláusulas contratuais e do conjunto fático-probatório dos autos”. Agravo regimental a que se nega provimento." (ARE 707467 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 4.3.2015)
+    Ante o exposto, torno sem efeito a devolução constante do eDOC 4 e nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de dezembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
