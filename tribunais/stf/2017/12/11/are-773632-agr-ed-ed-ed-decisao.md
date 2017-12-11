@@ -1,0 +1,18 @@
+DECISÃO
+PRAZO PRESCRICIONAL – INTERRUPÇÃO – ACÓRDÃO – INDEFERIMENTO.
+    1. O assessor Dr. Pedro Júlio Sales D’Araújo prestou as seguintes informações:
+    Por meio da Petição nº 74.670/2017, Eduardo Donizeti Vilas Boas Bertocco requer o reconhecimento de transcurso do lapso prescricional da pretensão punitiva, com a consequente extinção deste processo.
+    Afirma ter sido condenado em sentença à pena de sete anos, cinco meses e dez dias de reclusão, pelo crime previsto no artigo 299, cabeça, do Código Penal. Aduz da desclassificação da conduta pelo Tribunal de Justiça de São Paulo para a tipificada no artigo 171, do citado diploma legal, tendo a nova pena estipulada em três anos e seis meses de reclusão.
+    Diz da inexistência de recurso pelo Ministério Público, devendo o prazo prescricional ser calculado, a partir da referida pena, em oito anos, consoante previsão legal. Articula ser a sentença condenatória – proferida em 30 de novembro de 2009 – o último marco interruptivo do prazo prescricional, considerada a desclassificação da conduta verificada quando do julgamento pelo Tribunal de Justiça do Estado de São Paulo, tendo transcorrido o citado período. Alega não ter o condão de interromper o prazo prescricional o acórdão a confirmar a condenação, mesmo modificada a pena.
+    Informo ter sido o recurso extraordinário com agravo desprovido por Vossa Excelência, mediante decisão individual, em 23 de outubro de 2013. Formalizado agravo interno, a Primeira Turma negou provimento em 18 de fevereiro de 2014. Em face do acórdão, foram os primeiros declaratórios, desprovidos em 6 de maio daquele ano. Insistiu o réu mediante novos embargos, não conhecidos pela Turma em 9 de março de 2017. Mediante os terceiros declaratórios, articula com a existência de vício nos procedimentos anteriores.
+    O processo foi liberado para julgamento em 29 de novembro de 2017, datando a petição de 7 de dezembro.
+    2. Observem a organicidade do Direito. Título condenatório implica a interrupção da prescrição. Descabe potencializar o surgimento da condenação, pela vez primeira, no Juízo, para, com isso, como que presente a morosidade da Justiça, afastar o fato jurídico relativo a pronunciamento revisional.
+    No âmbito do Tribunal de Justiça de São Paulo, veio a ser proferida decisão condenatória que, a teor do disposto no artigo 512 do Código de Processo Civil de 1973, versado no diploma de 2015 pelo artigo 1.008, substituiu a sentença. Assim consignei quando do exame do recurso extraordinário nº 751.394/MG, relator o ministro Dias Toffoli:
+    […]
+    A única colocação que faço é a seguinte: a sentença existe como título condenatório? Não. Ela foi substituída, a teor do disposto no artigo 512 do Código de Processo Civil aplicável, subsidiariamente, pelo acórdão. O que se executará será o acórdão e não a sentença. Por isso, a meu ver, a Lei nº 11.596/2007 apenas explicitou, no inciso IV do artigo 117 do Código Penal, o acórdão como fator interruptivo da prescrição, que poderia ser impugnado, como o foi. Estamos diante de recurso extraordinário. Não sei se houve a protocolação também do especial para o Superior Tribunal de Justiça. Por isso, penso que não cabe desprezar o acórdão como fator interruptivo.
+    O entendimento prevaleceu quando do julgamento do habeas corpus nº 126.514, por mim relatado, na Primeira Turma, com acórdão publicado no Diário da Justiça de 22 de maio de 2017:
+    PRESCRIÇÃO – TERMO INICIAL. Há de considerar-se fatores interruptivos da prescrição, como é o acórdão condenatório.
+    3. Indefiro o pedido.
+Brasília, 11 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
