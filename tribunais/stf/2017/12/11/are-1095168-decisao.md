@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “MANDADO DE SEGURANÇA. ITBI. Exercício de 2008. Município de São Paulo. Preliminares afastadas - Lei Municipal nº 14.256/06 e Decreto Municipal nº 46.228/05. Majoração indevida da base de cálculo fixada na Lei Municipal nº 11.154/91. Valor venal entendido como aquele em que o imóvel seria negociado à vista, em condições normais de mercado. Sistemática que delega sua fixação prévia ao Poder Executivo. Afronta ao princípio da legalidade, insculpido no artigo 150, inciso I, da CF/88. Precedentes do C. Órgão Especial e da 15ª Câmara de Direito Público deste E. TJSP, a propósito. Violação de direito líquido e certo demonstrada. Segurança bem concedida. Sentença mantida. Recurso oficial e apelo da municipalidade, improvidos” (eDOC 2, p. 99).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a , da Constituição Federal, aponta-se violação aos artigos 37; 150, I; e 156 do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o valor venal decorre da aplicação da Lei n. 14.256 e não do Decreto n. 46.228. Afirma-se que o valor venal para fins de lançamento do ITBI é aquele pelo qual o bem ou direito seria negociado à vista e em condições normais de mercado (eDOC 3, p. 4-9).
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Verifico que o Tribunal de origem decidiu conforme a jurisprudência pacífica desta Corte no sentido de que a base de cálculo do ITBI é o valor venal, ao tempo da transmissão do bem.
+    Nesse sentido, trago precedentes de ambas as Turmas deste Tribunal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS. FATO GERADOR. PROMESSA DE COMPRA E VENDA. IMPOSSIBILIDADE. 1. A cobrança de ITBI é devida no momento do registro da compra e venda na matrícula do imóvel. 2. A jurisprudência do STF considera ilegítima a exigência do ITBI em momento anterior ao registro do título de transferência da propriedade do bem, de modo que exação baseada em promessa de compra e venda revela-se indevida. 3. Agravo regimental provido” (ARE 759.964, Rel. Min. Edson Fachin, Primeira Turma, DJe de 29.9.15).
+    “Agravo regimental no recurso extraordinário com agravo. ITBI. Momento da ocorrência do fato gerador. Transferência da propriedade. Antecipação para o momento da promessa de compra e venda. Artigo 150, § 7º, da CF. Alcance. Ausência de debate ou decisão sobre seu alcance. Incidência das Súmulas 282 e 284/STF. 1. A Corte tem reiteradamente decidido que o fato gerador do ITBI somente ocorre com a transferência efetiva da propriedade imobiliária, mediante o registro no cartório competente. 2. O alcance das normas contidas no art. 150, § 7º, da Constituição não foi objeto de debate ou decisão prévios, tampouco o recorrente demonstrou em que medida a legislação do Município do Rio de Janeiro encontraria respaldo no referido dispositivo constitucional. Incidência das Súmulas nºs 282 e 284 da Corte. 3. Agravo regimental não provido” (ARE 813.943 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 26.5.2015).
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de dezembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
