@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 105, Vol. 1):
+    “ADMINISTRATIVO. SERVIDOR. ESTATUTÁRIO. ASSISTENTE SOCIAL. JORNADA. ALTERAÇÃO.
+    1. A jornada de trabalho do servidor é matéria que se insere no regime jurídico e, consequentemente, a sua alteração exige lei de iniciativa do Presidente da República, a teor do que dispõe o art. 61, § 1º, II, c, da Constituição. Assim, a Lei n° 12.317/2010, de iniciativa do legislativo, que acrescentou o art. 5º-A à Lei n° 8.662/1993, para estabelecer que a duração de trabalho do Assistente Social é de 30 horas semanais, não se aplica aos servidores públicos federais, como é o caso da Autora.
+    2. Remessa necessária provida.”
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente aponta violação ao art. 22, XVI, da CF/1988, sob o argumento de que compete aos parlamentares a iniciativa de leis que tratem das condições para o exercício das profissões, cabendo, portanto, a aplicação da jornada de trabalho de 30 horas semanais aos assistentes sociais regidos pela CLT.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012.
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do recurso extraordinário.
+    Ademais, o acolhimento das razões recursais demanda análise da legislação ordinária de regência, o que é inviável na sede extraordinária. Nesse sentido: RE 1021355, Relator(a): Min. RICARDO LEWANDOWSKI, DJe 01/03/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 11 de dezembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
