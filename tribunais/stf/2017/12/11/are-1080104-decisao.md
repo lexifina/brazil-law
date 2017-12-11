@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “NULIDADE DE ATO ADMINISTRATIVO. Lei Municipal nº 15.442/2011 de São Paulo, que dispõe sobre a limpeza de imóveis, o fechamento de terrenos não edificados e a construção e manutenção de passeios, com imposição de penalidade pecuniária. Regularidade do ato que possibilitou a ampla defesa no procedimento administrativo. Multa pecuniária que respeitou a tabela de multa anexada à Lei 15.442/2011, com critério necessário e proporcional, não alcançando caráter confiscatório. Sentença mantida. RECURSO DESPROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 2º, 61, § 1º, II, “b”, e 22, I, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei municipal nº 15.442/2011), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Pugna a recorrente pela nulidade de ato administrativo, ante a ilegalidade do auto de notificação e intimação por infringir o princípio do devido processo legal, por não descrever, com amplitude exigida, pelo direito à ampla defesa, os fatos e fundamentos da imputação da penalidade, conforme determinado pelos artigos 2º, II, II, III, 47, I, 48, da Lei Municipal nº 14.141/2006, bem como inconsistência na fixação do valor da multa, por basear-se em metragem da testada desconforme com o constante do registro imobiliário.
+    A Lei Municipal nº 15.442/2011 de São Paulo que dispõe sobre a limpeza de imóveis, o fechamento de terrenos não edificados e a construção e manutenção de passeios, bem como cria o Disque- -Calçadas.
+    A recorrente foi autuada, em 16/01/2012 (fls. 85/86), nos termos do artigo 7º, § 2º, da referida Lei, ‘in verbis’:
+    ‘Art. 7º Os responsáveis por imóveis, edificados ou não, lindeiros a vias ou logradouros públicos dotados de guias e sarjetas, são obrigados a executar, manter e conservar os respectivos passeios na extensão correspondente à sua testada, na conformidade da normatização específica expedida pelo Executivo.
+    § 2º Para os efeitos desta lei, o passeio será considerado:
+    II – em mau estado de manutenção e conservação, quando apresentar buracos, ondulações, desníveis não exigidos pela natureza do logradouro ou obstáculos que impeçam a circulação livre e segura dos pedestres, bem como execução de reparos em desacordo com o aspecto estético ou harmônico do passeio existente.’
+    Denota-se que, constatadas as irregularidades (fls. 32), o Agente responsável lavrou o Auto de Intimação, com a respectivo auto de multa nº 08-262.848-3 (fls. 26), no equivalente a R$ 3.054,00, intimando a responsável (Olga Marano – fls.86), presente no momento da vistoria, tomando ciência do ato administrativo.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 11 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
