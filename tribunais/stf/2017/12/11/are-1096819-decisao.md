@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Ação ordinária. Servidor público aposentado do Município de Santos. Pretensão ao recebimento de vantagens pessoais durante o período em que ocupava cargos em comissão. LCM 302/98 que impôs a renúncia a tais verbas. Alegada afronta à Lei Orgânica do Município (art. 73, § 9º). Dispositivo declarado inconstitucional pelo C. Órgão Especial deste Tribunal. Impossibilidade de se estabelecer regime híbrido. Sentença de procedência. Recursos oficial e voluntários providos.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar municipal nº 302/98), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Alega o autor que a disposição da LCM 302/98 não encontraria fundamento de validade na Lei Orgânica de Santos, uma vez que em seu art. 73, § 9º, consta expressamente que as vantagens dos servidores estatutários deveriam ser calculadas sobre os vencimentos do cargo efetivo ou daquele comissionado que ocupar.
+    …..................................................................................................
+    A Lei Complementar do Município de Santos nº 302/98 estabeleceu novos padrões de vencimentos aos ocupantes de cargos em comissão, compensando eventuais vantagens e remunerações do cargo de origem dos servidores de carreira.
+    Agasalhar a tese do autor seria admitir um regime híbrido, em que o servidor se beneficiaria das vantagens do cargo efetivo e perceberia, também, o padrão de vencimentos do cargo em comissão, para cuja fixação levou-se em conta as vantagens pessoais do cargo efetivo.”
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.068.804/SP, Rel. Min. DIAS TOFFOLI – ARE 1.080.264/SP, Rel. Min. ALEXANDRE DE MORAES).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 de referido estatuto processual civil.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 11 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
