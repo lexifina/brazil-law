@@ -1,0 +1,16 @@
+Vistos etc.
+    Trata-se de recurso extraordinário interposto por Jayr Benedicta de Campos, representada em juízo pela Defensoria Pública do Estado de Mato Grosso (doc. 01; fls. 148-68), contra acórdão do Tribunal de Justiça daquele Estado (doc. 01; fls. 100-11), assim ementado:
+    “APELAÇÃO/REEXAME NECESSÁRIO - AÇÃO DE OBRIGAÇÃO DE FAZER - INTERNAÇÃO EM UTI - DIREITO À SAÚDE - GARANTIA CONSTITUCIONAL - PROCEDÊNCIA - CONDENAÇÃO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA - VERBA HONORÁRIA INDEVIDA COM ADVENTO DA EC N° 80/2014 - EQUIPARAÇÃO ÀS PRERROGATIVAS DA MAGISTRATURA E DO MINISTÉRIO PÚBLICO - RECURSO DESPROVIDO - SENTENÇA RATIFICADA. A Emenda Constitucional n° 80, de 04 de junho de 2014, equipara a Defensoria Pública à Magistratura e ao Ministério Público, portanto, indevido o pagamento de honorários sucumbenciais em seu favor, conforme precedentes deste E. Tribunal de Justiça.” (grifei)
+    Nas razões recursais, pugna o órgão representante pela condenação do recorrido no pagamento de honorários advocatícios. Sustenta, em síntese, que “pelo novo entendimento da Corte de Justiça matogrossense, por causa da Emenda Constitucional n. 80/14, a Defensoria Pública perdeu seu direito ao recebimento de verbas sucumbenciais na gênese, independentemente daquele que figure no polo passivo” e que “o esposado entendimento não se confunde com a já pacificada discussão sobre existência de confusão entre credor e devedor quando a Defensoria Pública litiga contra a pessoa jurídica de direito público à qual está vinculada (RE 592.730 RG/RS)” (doc. 1; fls. 151-2). Defende a repercussão geral da controvérsia e invoca o art. 134 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos de admissibilidade.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+     O Plenário desta Suprema Corte, no julgamento do RE 592.730-RG (Tema 134), entendeu destituída de repercussão geral a questão constitucional versada nos autos. Eis a ementa do referido julgado:
+    “EMENTA DIREITO PROCESSUAL CIVIL. DEFENSORIA PÚBLICA REPRESENTANDO LITIGANTE VENCEDOR EM DEMANDA AJUIZADA CONTRA O PRÓPRIO ESTADO AO QUAL O REFERIDO ÓRGÃO ESTÁ VINCULADO. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO INCABÍVEL. AUSÊNCIA DE REPERCUSSÃO GERAL.” (RE 592.730-RG, Rel. Min. Menezes Direito, DJe 21.11.2008.)
+    Ao contrário do que afirma a recorrente, orienta-se a jurisprudência desta Corte no sentido de que aplicável à controvérsia em análise a tese firmada no mencionado paradigma. Cito as seguintes decisões monocráticas, proferidas em hipóteses análogas à que ora se examina: RE 1.015.994/MT, Rel. Min. Luiz Fux, DJe 23.02.2017; RE 987.569/MT, Rel. Min. Edson Fachin, DJe 20.02.2017; RE 1.009.945/MT, Rel. Min. Marco Aurélio, DJe 24.11.2016; RE 960.391/MT, Rel. Min. Dias Toffoli, DJe 02.6.2016; ARE 962.785/RS, Rel. Min. Gilmar Mendes, DJe 25.5.2016; e ARE 844.194/MT, Rel. Min. Celso de Mello, DJe 05.11.2014.
+    Nego seguimento ao recurso extraordinário (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de dezembro de 2017.
+Ministra Rosa Weber
+Relatora
