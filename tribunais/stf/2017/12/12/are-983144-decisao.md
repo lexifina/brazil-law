@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão de turma recursal federal, assim ementado:
+    “CONSTITUCIONAL E PROCESSUAL. TUTELA ESPECÍFICA DE OBRIGAÇÃO DE FAZER. DIREITO FUNDAMENTAL À SAÚDE. FORNECIMENTO DE TRATAMENTO DE EFICÁCIA INCOMPROVADA, NÃO FORNECIDO PELO SISTEMA PÚBLICO DE SAÚDE. OXIGENOTERAPIA HIPERBÁRICA NO CONTROLE DE ÚLCERA CRÔNICA. INEFICÁCIA. SENTENÇA DE PROCEDÊNCIA. RECURSO PROVIDO”. (eDOC 33, p. 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 196 do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o tratamento mais apto a restaurar a saúde da recorrente seria o da oxigenoterapia hiperbárica, não os disponíveis na rede pública de saúde, que não teriam sucedido em curá-la após vários anos de tentativas. (eDOC 38, p. 8)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar o conjunto probatório constante dos autos, consignou que o tratamento fornecido pelo SUS seria apropriado para a terapia da recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Em razão dessa realidade, tenho muito claramente que não há direito a tratamento de úlcera crônica para oxigenoterapia hiperbárica, seja pela sua ineficácia e custo, seja, mais, pela eficácia do tratamento fornecido pela rede pública de saúde”. (eDOC 33, p. 5)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO CONSTITUCIONAL. DIREITO À SAÚDE. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FORNECIMENTO DE MEDICAMENTO PELO PODER PÚBLICO. LISTA DO SUS. COMPROVAÇÃO DA NECESSIDADE. IMPOSSIBILIDADE. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF SOBRESTAMENTO. MEDICAMENTO DE ALTO CUSTO. INOVAÇÃO DE FUNDAMENTO EM AGRAVO REGIMENTAL. 1. O Tribunal de origem, com base na análise da perícia médica, entendeu por determinar o fornecimento de medicamento que não se encontra na lista de fármacos fornecidos pelo Sistema Único de Saúde – SUS. 2. Para chegar a conclusão diversa do acórdão recorrido, seria imprescindível uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário. Precedentes. 3. A tese de que os medicamentos se caracterizariam como de alto custo não fez parte das razões do recurso extraordinário, sendo aduzida somente nesta via recursal. Constitui-se, portanto, em inovação insuscetível de apreciação neste momento processual. Precedentes. 4. Agravo regimental a que se nega provimento”. (ARE 935824 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 26.8.2016)
+    “Agravo regimental no recurso extraordinário. Direito Administrativo. Fornecimento de medicamento. Medicamento não disponibilizado pelo SUS. Perícia judicial que conclui pela possibilidade de sua substituição por outro constante na rede pública. Escolha do melhor tratamento. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A verificação acerca do melhor tratamento a que deve ser submetido o agravante enseja, inevitavelmente, o reexame do conjunto fático-probatório da causa, para o que não se presta o recurso extraordinário. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido”. (RE 801841 AgR, rel. Min. Dias Toffoli, Segunda Turma, DJe 4.9.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de dezembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
