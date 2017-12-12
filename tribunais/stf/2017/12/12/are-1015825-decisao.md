@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário com agravo em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE ABERTURA DE CRÉDITO PARA FINANCIAMENTO DE BENS E/OU SEVIÇOS. GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO PERMITIDA. PERIODICIDADE ANUAL. POSSIBILIDADE NO CASO CONCRETO. IMPOSSIBILIDADE DE REFORMATIO IN PEJUS. COMISSÃO DE PERMANÊNCIA. ABUSIVIDADE CONSTATADA. AUSÊNCIA DE PACTUAÇÃO EXPRESSA. ADMITIDAS A COMPENSAÇÃO E A REPETIÇÃO DO INDÉBITO. PREQUESTIONAMENTO REJEITADO. APELAÇÃO PARCIALMENTE CONHECIDA E, NESTA, DESPROVIDA.” (eDOC 16, p. 217)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, no qual se aduz violação dos artigos 62, §1º, III; e 192 do texto constitucional. (eDOC 21, p. 7)
+    O recurso extraordinário foi inadmitido (eDOC 23).
+    Por ocasião do julgamento do agravo, determinei a remessa dos autos à origem, com base no AI-RG 592.377 (Tema 33), de minha relatoria, DJe 20.3.2015, para os fins do disposto no art. 543-B do CPC. (eDOC 28)
+    Ocorre que o Tribunal a quo remeteu novamente o agravo ao Supremo Tribunal Federal, por entender que seria inviável a aplicação do referido paradigma de repercussão geral. (eDOC 30)
+    É o relatório.
+    Decido.
+    Inicialmente, ante o entendimento do Tribunal a quo pela não aplicação do tema de repercussão geral, torno sem efeito a devolução constante do eDOC 28, e passo a analisar o mérito do presente recurso extraordinário.
+    A irresignação não merece prosperar.
+    Após detida análise dos autos, verifico que a matéria guarda identidade temática com o decidido no RE-RG 592.377 (tema 33), de minha relatoria, DJe 20.3.2015.
+    Com efeito, o entendimento do Tribunal a quo não destoa do entendimento ali firmado no sentido de reconhecer a constitucionalidade do artigo 5º da Medida Provisória n º 2.170-36/01 e a possibilidade de capitalização de juros com periodicidade inferior a um ano. Destaco a ementa do referido julgado:
+    “CONSTITUCIONAL. ART. 5º DA MP 2.170/01. CAPITALIZAÇÃO DE JUROS COM PERIODICIDADE INFERIOR A UM ANO. REQUISITOS NECESSÁRIOS PARA EDIÇÃO DE MEDIDA PROVISÓRIA. SINDICABILIDADE PELO PODER JUDICIÁRIO. ESCRUTÍNIO ESTRITO. AUSÊNCIA, NO CASO, DE ELEMENTOS SUFICIENTES PARA NEGÁ-LOS. RECURSO PROVIDO. 1. A jurisprudência da Suprema Corte está consolidada no sentido de que, conquanto os pressupostos para a edição de medidas provisórias se exponham ao controle judicial, o escrutínio a ser feito neste particular tem domínio estrito, justificando-se a invalidação da iniciativa presidencial apenas quando atestada a inexistência cabal de relevância e de urgência. 2. Não se pode negar que o tema tratado pelo art. 5º da MP 2.170/01 é relevante, porquanto o tratamento normativo dos juros é matéria extremamente sensível para a estruturação do sistema bancário, e, consequentemente, para assegurar estabilidade à dinâmica da vida econômica do país. 3. Por outro lado, a urgência para a edição do ato também não pode ser rechaçada, ainda mais em se considerando que, para tal, seria indispensável fazer juízo sobre a realidade econômica existente à época, ou seja, há quinze anos passados. 4. Recurso extraordinário provido.”
+    Nesse sentido, colaciono a ementa do acórdão resultante do juízo de retratação no recurso especial:
+    “APELAÇÃO CÍVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. AÇÃO REVISIONAL. JUÍZO DE RETRATAÇÃO. ART. 543-C, §7º, II, DO CPC. Possibilidade de incidência de capitalização mensal de juros após a edição da Medida Provisória nº 2.170/2001 e desde que expressamente pactuada no contrato. "A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (Recurso Especial n. 973827/RS, j. 27/06/2012). RECURSO PARCIALMENTE PROVIDO, EM JUÍZO DE RETRATAÇÃO. (Apelação Cível Nº 70035941582, Décima Quarta Câmara Cível, Tribunal de Justiça do RS, Relator: Judith dos Santos Mottecy, Julgado em 22/08/2013)” (eDOC 18)
+    Ante o exposto, torno sem efeito a devolução constante do eDOC 28 e nego seguimento ao recurso (artigo 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de dezembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
