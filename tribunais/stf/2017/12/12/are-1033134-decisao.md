@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de são Paulo confirmou o entendimento do Juízo quanto à improcedência do pedido de pagamento de indenização. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso LV, e 37 da Constituição Federal. Diz fazer jus à verba pleiteada. Aponta a incorreta aplicação da norma federal. Sustenta o afastamento da prescrição diante da ausência de ciência da incapacidade laboral do beneficiário. Defende a aplicação do prazo prescricional de 5 anos previsto no Código de Defesa do Consumidor.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Assim, constata-se que o pretensão do autor não encontra amparo, vez que, pelos termos da apólice, os males que o afetam não se caracterizam como acidente, tampouco foi demonstrado incapacidade resultante de invalidez permanente total ou parcial por acidente ou invalidez funcional permanente total por doença.
+    Afora isso, a apólice prevê expressamente que estão excluídas da garantia as doenças profissionais.
+    Logo, não padecendo o autor de invalidez permanente total ou parcial por acidente ou invalidez funcional permanente por doença, bem como estando excluídas da garantia as doenças profissionais, conforme disposto pelo contrato de seguro, não se mostra legítima a pretensão do apelante, de pagamento de indenização securitária.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desses aspectos, o que sustentado nas razões do extraordinário, quanto à violação dos referidos dispositivos constitucionais, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Ante o quadro, desprovejo o agravo. Fixo os honorários  recursais em 5% sobre o valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 12 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
