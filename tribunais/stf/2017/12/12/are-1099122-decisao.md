@@ -1,0 +1,26 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado do Rio de Janeiro contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. ACUMULAÇÃO DE CARGOS PÚBLICOS. PRESCRIÇÃO ADMINISTRATIVA. Admissão pela Administração da acumulação. Revisão do ato após o decurso do prazo de cinco anos. Observância dos princípios da segurança e da estabilidade das relações jurídicas. Comprovada compatibilidade dos horários. Concessão da ordem.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento.
+    Cumpre ressaltar, desde logo, que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituídas de repercussão geral as questões suscitadas no ARE 748.371-RG/MT e no AI 800.074-RG/SP, ambos de relatoria do eminente Min. GILMAR MENDES, fazendo-o em decisões assim ementadas:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Cabe registrar, de outro lado, que também incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    Com efeito, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Convém assinalar, ainda, que a questão ora em exame foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado do Rio de Janeiro, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-  -probatórios e em interpretação de direito local:
+    “Nesse ponto, cumpre registrar que a Lei Estadual nº 5.427/09 estabelece em seu art. 53 o seguinte:
+    ‘Art. 53 – A Administração tem o prazo de cinco anos, a contar da data da publicação da decisão final proferida no processo administrativo, para anular os atos administrativos dos quais decorram efeitos favoráveis para os administrados, ressalvado o caso de comprovada má-fé.’
+    Conforme restou demonstrado nos autos, a decisão final que declarou ilícita a acumulação de cargos pelo impetrante foi publicada em 27/04/2015 (pasta 2, do anexo 1), ao passo que a Administração havia autorizado referida acumulação em 10/08/2004 (pasta 24, fls. 25, do anexo 1).
+    Desta forma, transcorreu período superior a cinco anos entre a decisão que declarou a licitude da acumulação e a decisão que a reviu, a ensejar a decadência do exercício de autotutela.
+    Por outro lado, configurada a boa-fé do servidor, dado que a acumulação encontrava amparo em decisão definitiva proferida na esfera administrativa. Ademais, a boa-fé se presume, de sorte que incumbia ao impetrado a demonstração da má-fé, o que não ocorreu, na hipótese.
+    Considerado que o direito da Administração de anular os atos administrativos, de que decorram efeitos favoráveis para os destinatários, decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé, impõe-se a concessão da ordem, até porque se demonstrou a compatibilidade de horários, consoante decisão concessiva da liminar constante da pasta 57.”
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 12 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
