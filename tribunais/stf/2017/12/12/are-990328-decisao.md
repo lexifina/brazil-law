@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul confirmou o entendimento do Juízo quanto à condenação dos réus pela prática dos crimes de peculato-furto, previsto, no artigo 312 do Código Penal. No extraordinário cujo trânsito buscam alcançar, os recorrentes alegam a violação dos artigos 5º, incisos LIV e LV, e 129, inciso I, da Constituição Federal. Dizem contrariado o sistema acusatório. Arguem a nulidade da decisão por afronta ao devido processo legal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Os denunciados asseveraram que não lhes foi concedida a resposta preliminar prevista no artigo 514 do CPP, de modo que não puderam reparar o dano à Administração Pública antes do recebimento da denúncia e assim fazer jus ao benefício do artigo 16 do CP.
+    As razões de ser dessa oportunização defensiva antes do recebimento da denúncia são, em primeiro lugar, proteger o servidor público acusado de crime funcional contra acusações infundadas ou temerárias (as quais, caso constatadas, a denúncia nem mesmo será recebida) e, segundo, a possibilidade de o acusado impugnar os fatos constantes de documentos obtidos sem averiguação prévia.
+    Por causa do segundo motivo é que existe a súmula 330 do Superior Tribunal de Justiça:
+    […]
+    Ou seja, quando a ação penal vem instruída por algum lastro probatório mínimo - no caso, por inquérito policial ou outro procedimento investigativo — não se trata mais de denúncia infundada, pois alguma autoridade competente já verificou a documentação que embasa a acusação, de modo que o serviço público ficou protegido de eventual imputação totalmente vazia. Tal argumento já é suficiente para afastar a pretensão, tendo em vista que a acusação foi lastreada em procedimento investigatório criminal, conforme se depreende dos apensos deste processo.
+    [….]
+    Trata-se de crime cujo bem jurídico protegido é a Administração Pública e se subdivide em três espécies: Primeiro, o peculato-apropriação (primeira parte do caput). O crime possui semelhança com o delito de apropriação indébita previsto no artigo 168 CP e se consuma quando o funcionário público tem a posse do bem em razão da função e, a partir de um determinado momento, passa a agir como se dono da coisa fosse, invertendo o título da posse anteriormente adquirida.
+    Segundo, o peculato-desvio (segunda parte do caput), também admite a posse prévia, e ocorre quando o agente confere destinação diversa daquele endereçamento certo, determinado e pré-estabelecido aos bens ou valores. Trata-se da forma mais comum de peculato, sendo verificável quando o agente, por exemplo, utiliza fraude ou falsifica documentos para dar aparência de legalidade ao uso do dinheiro público.
+    […]
+    Terceiro, o peculato-furto (parágrafo primeiro), que se caracteriza pela subtração perpetrada utilizando-se da condição de funcionário público.
+    […]
+    Enquadrável, assim, a conduta nesta modalidade de peculato, porque os acusados não tinham a posse prévia, mas usufruíram de facilidade, decorrente da qualidade de servidores (mesmo que equiparados) para a subtração dos valores, pois bastava inserir dados falsos no sistema informatizado do IPERGS.
+    Há, sim, a diferença de tipicidade penal levantada peta Defesa. Contudo, essa pequena discrepância não é capaz de gerar o efeito de comprometer o direito á ampla defesa e ao contraditório. Isso porque nos parágrafos posteriores a denúncia foi bem clara ao pormenorizar a conduta imputada, narrando com detalhes suficientes para que os acusados pudessem exercer sua defesa. E é consagrado na doutrina que o réu se defende dos fatos explanados na denúncia e não da capitulação legal.
+    Ocorrente, portanto, a emendatio libelli em segundo grau, o que é plenamente aceitável. Com efeito, concretamente, na trilha da fundamentação esposada na sentença, a condenação é a conclusão mais consentânea com a prova judicializada.
+    Os denunciados MOISES e MELJNA confessaram a prática delitiva, de sorte que esse ponto é incontroverso nos autos, dispensando maiores digressões.
+    O que resta é a configuração, ou não, da autoria de MARCO ANTÔNIO.
+    […]
+    Com efeito, dadas essas premissas, é inegável que MARCO ANTÔNIO também foi autor da ação. Sendo o médico credenciado à autarquia estadual, os valores pertinentes às consultas fantasmas eram depositados na sua conta e, depois, repassados aos demais.
+    […]
+    Portanto, MARCO ANTÔNIO tinha o poder de fazer cessar a empreitada delitiva, ou mesmo de alterar seu modos operandi, pois era a chefia daquele consultório. Ele sabia o que estava ocorrendo, como mesmo confessou. E tendo esse poder de mando sobre a ação, ele é o autor intelectual desses crimes, mesmo que não tenha efetivamente praticado o verbo nuclear do tipo.
+    Por outro lado, sendo médico credenciado pelo IPERGS, ele se insere na cadeia de fornecimento de serviço público, então enquadra-se no conceito de funcionário publico previsto no artigo 327, caput e § único do CP. E, assim sendo funcionário público elementar do tipo, essa se comunica, para os fins do artigo 30 do CP.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/M, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 12 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
