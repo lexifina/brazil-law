@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Agravo contra decisão da instância de origem que não admitiu Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, que possui ementa com o seguinte cabeçalho (fl. 164, Vol. 1):
+    ADMINISTRATIVO. GDATEM. INATIVOS E PENSIONISTAS. GRATIFICAÇÃO GENÉRICA E PRO LABORE FACIENDO. PAGAMENTO EM PERCENTUAL EQUIVALENTE AO DOS ATIVOS ATÉ A REGULAMENTAÇÃO E EFETIVO IMPLEMENTO DA AVALIAÇÃO DE DESEMPENHO.
+    A parte recorrente sustenta, com fulcro no artigo 102, III, “a”, da Constituição Federal, violação aos artigos 5º, XXXV, LIV e LV, 40, § 8º, da Carta Magna, e artigo 7º, da EC 41/2003.
+    A decisão agravada entendeu que eventual violação constitucional se daria de forma meramente reflexa.
+    No Agravo, a parte agravante sustenta, em síntese, que há violação direta à Constituição.
+    É o relatório. Decido.
+    De início, pontuo que, em relação a alegação de afronta à ampla defesa e ao direito de ação, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, o Tribunal de origem não divergiu do entendimento firmado pelo Plenário desta CORTE, quando do julgamento do RE 597.154-QO-RG (Rel. Min. Presidente GILMAR MENDES, Tema 153, DJe de 29/5/2009), no sentido de que as gratificações de desempenho, enquanto possuírem caráter genérico, são extensíveis aos servidores inativos. Esse entendimento restou consignado na edição da Súmula Vinculante 20, nos seguintes termos: “A Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória no 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos”.
+    Da mesma forma, no que concerne à limitação da extensão do reajuste aos inativos, o Tribunal de origem está de acordo com o entendimento firmado pelo Plenário desta CORTE, que ao julgar o RE 662.406-RG, Rel. Min. TEORI ZAVASCKI, Tema 664, DJe de 13/02/2015, assentou tese no sentido de que “o termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações após a conclusão do primeiro ciclo de avaliações, não podendo a administração retroagir os efeitos financeiros à data anterior”. Confira-se a ementa do referido acórdão:
+    DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICA DE FISCALIZAÇÃO AGROPECUÁRIA - GDATFA. TERMO FINAL DO DIREITO À PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS. DATA DA REALIZAÇÃO DA AVALIAÇÃO DO PRIMEIRO CICLO.
+    1. O termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliações, não podendo a Administração retroagir os efeitos financeiros a data anterior.
+    2. É ilegítima, portanto, nesse ponto, a Portaria MAPA 1.031/2010, que retroagiu os efeitos financeiros da Gratificação de Desempenho de Atividade Técnica de Fiscalização Agropecuária - GDAFTA ao início do ciclo avaliativo.
+    3. Recurso extraordinário conhecido e não provido.”
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 12 de dezembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
