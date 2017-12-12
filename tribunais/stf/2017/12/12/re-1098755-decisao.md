@@ -1,0 +1,31 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de Jundiaí. Aparelhado o recurso na afronta ao art. 146, III, “a”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem assentou, como razão de decidir, a argumentação que ora transcrevo:
+    “Ainda, sustenta o agravante que é inconstitucional a aplicação do artigo 27, § 8°, da Lei 9.514/11 para determinar o contribuinte do IPTU, uma vez que, nos termos do artigo 146, III, alínea ‘a’, da Constituição Federal, cabe à lei complementar estabelecer normas gerais em matéria de legislação tributária.
+    Com efeito, preconiza o artigo 146, inciso UI, alínea ‘a’, da Constituição Federal:
+    Art. 146. Cabe à lei complementar:
+    III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
+    a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes;
+    Por sua vez, dispõe o artigo 27, § 8°, da Lei 9.514 :
+    Art. 27. Uma vez consolidada a propriedade em seu nome, o fiduciário, no prazo de trinta dias, contados da data do registro de que trata § 7º do artigo anterior, promoverá público leilão para a alienação do imóvel.
+    § 8º Responde o fiduciante pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse tenha sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse.
+    Nesse sentido, verifica-se que não houve definição de contribuinte por parte da Lei 9.514/97, que, ao regular as relações específicas acerca da alienação fiduciária de imóvel, somente estabeleceu exceção ao comando do artigo 123 do Código Tributário Nacional.
+    Desse modo, não subsiste qualquer alegação de violação ao artigo 146, inciso III, alínea ‘a’, da Constituição Federal, pois o artigo 27, § 8°, da Lei 9.514/97 não enuncia norma geral, e, portanto, não invade matéria reservada à lei complementar.
+    (...)
+    Como se vê, a decisão agravada resolveu de maneira fundamentada as questões discutidas na sede recursal, na esteira das orientação jurisprudencial já consolidada ou majoritária. O recurso interposto não tem, em seu conteúdo, razões que impugnem com suficiência a motivação exposta na decisão monocrática.”
+    Deixou a parte recorrente de impugnar, de forma específica, a fundamentação expendida, ensejando o entendimento jurisprudencial vertido vertido nas Súmulas 283 e 284/STF: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles” e “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Ainda que não se ressentisse o recurso quanto à inobservância do pressuposto, melhor sorte não colheria, porquanto compreensão diversa do entendimento adotado demandaria o exame prévio da lei ordinária aplicável, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Cito:
+    “DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. TRIBUTOS INCIDENTES SOBRE BEM IMÓVEL (IPTU E TAXAS MUNICIPAIS). EXCLUSÃO DA CAIXA ECONÔMICA FEDERAL (CREDORA FIDUCIÁRIA) DO POLO PASSIVO DO FEITO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. EVENTUAL OFENSA REFLEXA NÃO VIABILIZA O MANEJO DO RECURSO EXTRAORDINÁRIO. ART. 102 DA LEI MAIOR. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve anterior condenação em honorários advocatícios.” (ARE 991.704-AgR, de minha lavra, 1ª Turma, DJe 13.3.2017.)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO INTERPOSTO EM 22.11.2016. PROCESSO CIVIL. ILEGITIMIDADE PASSIVA. PROCESSO EXTINTO SEM JULGAMENTO DE MÉRITO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 279/STF.
+    1. A extinção do processo sem julgamento de mérito, em razão da ilegitimidade passiva, implica o reexame da legislação infraconstitucional aplicável à espécie, bem como o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário.
+    2. Agravo regimental a que se nega provimento, com majoração de honorários advocatícios, com base no art. 85, § 11, do CPC, e aplicação de multa, nos termos do art. 1.021, §4º, do CPC.” (ARE 1007535-AgR, Rel. Min. Edson Fachin, 2ª Turma, DJe 21.6.2017)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de dezembro de 2017.
+Ministra Rosa Weber
+Relatora
