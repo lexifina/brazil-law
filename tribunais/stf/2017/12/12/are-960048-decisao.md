@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado da Bahia, confirmando o entendimento do Juízo, assentou a constitucionalidade da Lei Orgânica do Município de Inhambupe. No extraordinário cujo trânsito buscam alcançar, o recorrentes apontam a violação dos artigos 1º, inciso IV, 5º, 22, inciso I, 24, inciso VI, 93, inciso IX, e 170, cabeça e parágrafo único, da Constituição Federal. Arguem a nulidade da decisão dos embargos declaratórios diante da negativa de prestação jurisdicional. Discorrem sobre a inconstitucionalidade da norma municipal no que trata sobre direito agrário. Diz indevida a intervenção na livre iniciativa e no domínio econômico pelo ente municipal.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, versando, detalhadamente, sobre as razões pelas quais afastou o pedido de declaração de inconstitucionalidade da norma.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Em que pese a alentada argumentação expendida, não merece prosperar o apelo.
+    Cinge-se, pelas razões aduzidas, que o tema da arguição incidental de inconstitucionalidade das normas da lei orgânica municipal, refere-se aos artigos 105 e 111, que estabelecem limitações ao reflorestamento em monocultura de espécies exóticas.
+    Vale iniciar por estabelecer, sem sombra de dúvida, ser de competência comum da União, Estados e Municípios, a proteção ao meio ambiente; preservação de florestas, fauna e flora, bem como fomentar a produção agropecuária. É o quanto determina o art. 23, VI, VII e VIII, da Magna Carta.
+    Não menos importante a referência ao art. 30, I, da CF, que outorga aos municípios o direito de "legislar sobre assuntos de interesse local".
+    Convém observar, por outro ângulo, que o art. 225, da mesma Carta Constitucional, estabelece de forma genérica caber ao "Poder Público" assegurar a efetividade do direito ao meio ambiente ecologicamente equilibrado.
+    Não procedem as alegações de ofensas a outras normas constitucionais.
+    Não se encontra entre os arts. 21 e 22 da Magna Carta, que estabelecem competência exclusiva da União, ou no art. 25, que trata das competências exclusivas dos Estados, a limitação que pretendeu apontar o apelante.
+    Mostra-se absolutamente imprópria a interpretação de que as normas municipais impugnadas estariam em confronto com o art. 22, I, da CF, por resultarem em legislação sobre Direito Agrário, de competência exclusiva da União.
+    E também não se sustenta a tese de ofensa aos princípios da livre iniciativa e da livre atividade econômica licita.
+    Cuida-se, em verdade, de artigos da Lei Orgânica Municipal que buscam a proteção ao meio ambiente; a preservação de florestas, fauna e flora; bem como fomentar a produção agropecuária, com pleno amparo no art. 23, VI, VII e VIII, da Magna Carta, e sem conflitar, em nada, com a legislação agrária em vigor. Logo, não houve intervenção quanto à legislação de agrário e, tampouco, deixou-se de observar o princípio da livre iniciativa.
+    Ao final e ao todo, diante da prova constante dos volumosos autos, e da mais acertada interpretação do texto constitucional, bem se houve o douto Julgador Singular ao declarar descabida a incidental arguição de inconstitucionalidade, julgando improcedente a ação ordinária.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 12 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
