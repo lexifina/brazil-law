@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: Direito constitucional e administrativo. Ação cível originária. Ilegitimidade ativa da DPU. Incompetência originária do STF.
+1. Ação cível originária ajuizada pela Defensoria Pública em face da União e dos Estados-membros, objetivando a extensão, a todos os servidores civis e militares mortos no exercício da função, de indenização por morte/acidente em serviço prevista na Lei nº 11.473/2007.
+2. O pedido de extensão da indenização assegurada apenas aos vitimados em ações da Força Nacional de Segurança Pública, com fundamento no princípio da isonomia, caracteriza alegação de inconstitucionalidade por omissão parcial da norma.
+3. A Defensoria Pública, no entanto, nos termos do art. 103 da CF/1988, não tem legitimidade para instaurar processo de fiscalização normativa abstrata, ainda que sob o rótulo de Ação Cível Originária.
+4. A pretensão de condenação dos entes públicos no pagamento de indenização não evidencia, de toda forma, qualquer das hipóteses de competência originária do STF, constantes do art. 102, I, da Constituição.
+5. Extinção do processo sem resolução de mérito.
+    1. Trata-se de ação cível originária, com pedido de antecipação de tutela, ajuizada pela Defensoria Pública da União em face da União e de todos os Estados-membros, objetivando a extensão, a todos os servidores civis e militares mortos no exercício da função, de indenização por morte/acidente em serviço, prevista no art. 7º da Lei nº 11.473/2007:
+    Art. 7º O servidor civil ou militar vitimado durante as atividades de cooperação federativa de que trata esta Lei, bem como o Policial Federal, o Policial Rodoviário Federal, o Policial Civil e o Policial Militar, em ação operacional conjunta com a Força Nacional de Segurança Pública, farão jus, no caso de invalidez incapacitante para o trabalho, à indenização no valor de R$ 100.000,00 (cem mil reais), e seus dependentes, ao mesmo valor, no caso de morte.
+    2.  A Defensoria Pública da União sustenta que o pagamento da indenização apenas aos vitimados em ações da Força Nacional de Segurança Pública viola o princípio da isonomia. Alega que não há fundamento para discriminar os demais servidores civis e militares mortos ou vitimados em suas funções.
+    3. É o relatório. Decido.
+    4. A tese de que o pagamento de indenização por morte ou acidente em serviço apenas aos integrantes da Força Nacional de Segurança viola o princípio da isonomia revela alegação de inconstitucionalidade por omissão parcial do art. 7º da Lei nº 11.473/2007. De acordo com a argumentação exposta na inicial, a lei federal excluiu indevidamente de seu âmbito de incidência as demais categorias de servidores civis e militares vitimados em serviço. No entanto, nos termos do art. 103, da CRFB/1988, a Defensoria Pública não tem legitimidade para instaurar processo de fiscalização normativa abstrata, ainda que sob o rótulo de Ação Cível Originária.
+    5. Veja-se, de toda forma, que a pretensão de condenação dos entes públicos no pagamento de indenização não consubstancia qualquer das hipóteses de competência originária do STF. O caso não envolve nenhuma dimensão político-federativa que fundamente a instauração da competência jurisdicional da Corte, nos termos da alínea f, do inciso I, do art. 102 da CF/1988. Apesar da relevância do tema, a discussão sobre a extensão de indenização a todos os servidores públicos vitimados em serviço não tem aptidão para desestabilizar o pacto federativo.
+    6. Diante do exposto, com base no art. 21, § 1º, do RI/STF e art. 485, IV e VI do CPC/2015, julgo extinta a ação cível originária sem resolução de mérito. Sem custas e honorários.
+          Publique-se. Intime-se.
+Brasília, 12 de dezembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
