@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – DIREITO CIVIL – LEGISLAÇÃO – COMPETÊNCIA PRIVATIVA DA UNIÃO – PRECEDENTES – NEGATIVA DE SEGUIMENTO.
+    1. De inicio, observem o momento da interposição, para fins de incidência da norma processual. A publicação da decisão atacada pelo extraordinário é posterior a 18 de março de 2016, data de início da eficácia do Código de Processo Civil de 2015, sendo a protocolação do recurso regida por esse diploma legal.
+    2. O Tribunal de Justiça do Estado de São Paulo assentou, em processo objetivo, a inconstitucionalidade da Lei nº 16.127/2016, daquele ente federado, ante fundamentos assim resumidos:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. Lei Estadual nº 16.127, de 04 de fevereiro de 2016, que “estabelece normas de mensuração de tarifas e visibilidade das formas de pagamento em estacionamento de veículos e dá outras providências”. Ilegitimidade ativa. Atendimento dos requisitos do art. 90, V, da Constituição do Estado de São Paulo. Associação Recorrida que, por estar legitimada para propor ações diretas de inconstitucionalidade perante o Supremo Tribunal de Federal, não poderá fazê-lo no âmbito deste Tribunal de Justiça. Precedentes jurisprudenciais do Órgão Especial. Interesse jurídico na causa e representatividade una. Recorrida que representa os interesses dos empreendedores, investidores e gestores de shopping centers, que, no mais das vezes, disponibilizam serviço de estacionamento aos seus usuários. Preliminar afastada. Inconstitucionalidade da norma. Invasão da competência privativa da União para legislar sobre Direito Civil. Lei que restringe o direito de propriedade e intervém no domínio econômico. Afronta ao artigo 1º, da Constituição Estadual, e aos artigos 22, I, e 25, § 1º, ambos da Constituição Federal. Inconstitucionalidade da lei reconhecida. Ação procedente.
+    No extraordinário, a recorrente aponta a violação dos artigos 5º, inciso XXXII, 24, inciso V e parágrafos 1º, 2ºe 3º, e 170, inciso V, da Constituição Federal. Consoante afirma, a norma questionada foi editada com base na regra de competência concorrente dos entes federados para legislar sobre produção e consumo. Articula com a ausência de interferência indevida do Estado no domínio econômico.
+    3. O acórdão recorrido está em harmonia com a jurisprudência do Tribunal. Confiram com as seguintes decisões:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL. ESTACIONAMENTO EM LOCAIS PRIVADOS. COBRANÇA. IMPOSSIBILIDADE. OFENSA AO ART. 22, I DA CONSTITUIÇÃO.
+    Esta Corte, em diversas ocasiões, firmou entendimento no sentido de que invade a competência da União para legislar sobre direito civil (art. 22, I da CF/88) a norma estadual que veda a cobrança de qualquer quantia ao usuário pela utilização de estabelecimento em local privado (ADI 1.918, rel. min. Maurício Corrêa; ADI 2.448, rel. Min. Sydney Sanches; ADI 1.472, rel. min. Ilmar Galvão).
+    Ação direta de inconstitucionalidade julgada procedente.
+    (Ação Direta de Inconstitucionalidade nº 1623/RJ, relator Ministro Joaquim Barbosa, julgada em 17 de março de 2011, no Tribunal Pleno).
+    […]
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 2º, CAPUT E §§ 1º E 2º, DA LEI Nº 4.711/92 DO ESTADO DO ESPÍRITO SANTO. ESTACIONAMENTO DE VEÍCULOS EM ÁREAS PARTICULARES. LEI ESTADUAL QUE LIMITA O VALOR DAS QUANTIAS COBRADAS PELO SEU USO. DIREITO CIVIL. INVASÃO DE COMPETÊNCIA PRIVATIVA DA UNIÃO.
+    1. Hipótese de inconstitucionalidade formal por invasão de competência privativa da União para legislar sobre direito civil (CF, artigo 22, I).
+    2.  Enquanto a União regula o direito de propriedade e estabelece as regras substantivas de intervenção no domínio econômico, os outros níveis de governo apenas exercem o policiamento administrativo do uso da propriedade e da atividade econômica dos particulares, tendo em vista, sempre, as normas substantivas editadas pela União.
+    Ação julgada procedente.
+    ( Ação Direta de Inconstitucionalidade nº 1918/ES, relator Ministro Maurício Corrêa, julgada em 23 de agosto de 2001, no Tribunal Pleno).
+    4. Ante os precedentes, nego seguimento ao extraordinário interposto pelo Estado de São Paulo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclui.
+    5. Publiquem.
+Brasília, 12 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
