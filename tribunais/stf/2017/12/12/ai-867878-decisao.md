@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais, reformando o entendimento do Juízo, julgou improcedente o pedido de cobrança de expurgos inflacionários, considerada a prescrição quinquenal. No extraordinário cujo trânsito buscam alcançar, os recorrentes afirmam a violação dos artigos 5º, inciso XXXVI, e 202 da Constituição Federal. Sustentam a contrariedade ao princípio da segurança jurídica. Afirmam a imprescritibilidade das parcelas relativas à previdência privada, ante à natureza social da rubrica. Apontam a impossibilidade de o verbete nº 291 da Súmula do Superior Tribunal de Justiça implicar a alteração de prazo prescricional referente a fatos pretéritos.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    Destarte, diante da pacificação da questão pelo c. Superior Tribunal de Justiça, à qual estou aderindo, e tendo-se em vista que a presente ação foi ajuizada muito depois de decorridos cinco anos da restituição aos Autores de suas reservas de poupança, deve ser reconhecida, como de fato RECONHEÇO A PRESCRIÇÃO, reformando a sentença, julgando improcedentes os pedidos formulados na inicial, invertendo os ônus da sucumbência, suspendendo sua exigibilidade por estares os Autores litigando sob o palio da assistência judiciária gratuita.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Além disso, o que sustentado nas razões do extraordinário, quanto à violação dos referidos dispositivos constitucionais, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 12 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
