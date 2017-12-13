@@ -1,0 +1,24 @@
+Decisão: Trata-se originalmente de recurso extraordinário com agravo, em que dei provimento ao agravo para melhor exame do recurso principal.
+    O recurso extraordinário foi interposto em face decisão da 2ª Turma Recursal dos Juizados Especiais de Pernambuco que consignou ser devida VPNI a recorrida entre 1º.4.2004 e 29.6.2006.
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 5º, caput e 37, XV, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, violação ao princípio da isonomia, uma vez que o acórdão recorrido consignou ser devida extensão da VPNI a todos os membros da carreira da AGU. Ademais, sustenta-se que a recorrida não preencheu os requisitos para o recebimento da referida vantagem pessoal.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do recurso extraordinário, em parecer assim ementado:
+    “Recurso extraordinário com agravo. Vantagem salarial concedida a Advogada da União. Suposta violação dos arts. 5º e 37, XV, da Constituição e incidência da Súmula 339 do STF.
+    O juizado especial federal decidiu que a vantagem pleiteada pelo autor decorreria da reestruturação da carreira, despida de natureza individual.
+    As violações apontadas no recurso extraordinário dependem de reavaliação das conclusões das instâncias ordinárias, na aplicação da lei.
+    Incidência da Súmula 279 do STF.
+    Parecer pelo não conhecimento do recurso extraordinário”. (eDOC 33)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (MP 2.229-43/2001, Leis 10.549/2001 e 10.909/2004) e o conjunto probatório constante dos autos, consignou ser ser devida VPNI entre 1º.4.2004 e 29.6.2006.
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADVOGADO DA UNIÃO. REMUNERAÇÃO. IRREDUTIBILIDADE. VPNI. NATUREZA PROVISÓRIA. MODIFICAÇÃO POSTERIOR. CARÁTER DEFINITIVO. MATÉRIA INFRACONSTITUCIONAL (MP 2.229-43/01, LEIS 10.549/2001 E 10.909/2004). OFENSA REFLEXA. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. APLICABILIDADE. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AGRAVO INTERNO DESPROVIDO”. (ARE-AgR 830.423, Rel. Min. Luiz Fux, Primeira Turma, DJe 23.9.2016)
+    “Agravo regimental no recurso extraordinário. Administrativo. Artigo 93, IX, da CF/88. Violação. Não ocorrência. Lei nº 10.483/02. VPNI. Absorção. Irredutibilidade de vencimentos. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. O art. 93, IX, da Constituição Federal não determina que o órgão judicante se manifeste sobre todos os argumentos de defesa apresentados, mas sim que ele explicite as razões que entendeu suficientes à formação de seu convencimento. Ao reconhecer a repercussão geral desse tema, o Plenário do Supremo Tribunal Federal reafirmou essa orientação (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10). 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 5. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça”. (RE-AgR 1.041.729, Rel. Min. Dias Toffoli, Segunda Turma, DJe 25.10.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF)
+    Publique-se.
+    Brasília, 13 de dezembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
