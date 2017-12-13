@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Alcindo Lima de Castro Junior, contra decisão monocrática do Ministro Félix Fischer, do Superior Tribunal de Justiça, que deferiu parcialmente liminar no HC nº 413.572/SP.
+    Em suma, sustenta-se neste recurso o constrangimento ilegal ocasionado ao recorrente pelo Tribunal Regional da 3ª Região que, em sede de recurso de apelação, determinou a execução provisória da sua pena privativa de liberdade.
+    Essa determinação, segundo se sustenta, violaria o princípio da presunção de inocência (CF, art. 5º, LVII).
+    Argumenta a defesa, ainda, à luz da existência de manifestações deste Supremo Tribunal sobre a possibilidade de “a execução da pena (...) ficar suspensa com a pendência de recurso especial ao STJ” (fl. 80), não ser
+    “adequado apenas aguardar o julgamento de eventuais embargos de declaração, como prolatou o eminente Ministro Felix Fisher na decisão que apreciou a liminar. Mas, sobretudo, ao menos, aguardar a análise do oportuno recurso especial que deverá modificar o regime inicial de cumprimento da pena, ao reconhecer a ilegalidade na dosimetria utilizada” (fl. 81).
+    Requer-se o deferimento da liminar para suspender a execução da do recorrente ou que se determine o seu início “após o julgamento do oportuno Recurso Especial no Superior Tribunal Justiça” (fl. 89).
+    No mérito, pede-se “o provimento do presente recurso, para que seja determinada a execução da pena apenas após o seu trânsito em julgado (...)” (fl. 89).
+    Vieram-me os autos conclusos, nos termos do art. 38, I, do RISTF.
+    É o relatório.
+    Decido.
+    O deferimento de liminar nesta sede, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos representar manifesto constrangimento ilegal, o que não vislumbro neste exame de cognição sumária.
+    É certo que a jurisprudência do Supremo Tribunal Federal não tem admitido o manejo do recurso ordinário com escopo de impugnar decisão monocrática proferida pelo relator do habeas corpus no Superior Tribunal de Justiça. In verbis:
+    “[N]ão se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça” (RHC nº 108.877/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/10/11).
+    Segundo preconizado pela eminente relatora julgado paradigma,
+    “tratando-se de decisão monocrática, contra ela não poderia ser interposto o Recurso Ordinário em Habeas Corpus, porque o art. 102, II, a, da Constituição da República, condiciona a sua apresentação às situações em que se teve um pronunciamento colegiado”
+    No mesmo sentido, destaco:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. RECURSO INTEMPESTIVO. SUPRESSÃO DE INSTÂNCIA. REITERAÇÃO DE IMPETRAÇÃO ANTERIOR. AUSÊNCIA DE RISCO À LIBERDADE DE LOCOMOÇÃO. (...)” (RHC nº 121.834/SP, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 6/11/14);
+    “Agravo regimental no recurso ordinário em habeas corpus. Argumentos insuficientes para modificar a decisão ora agravada. Recurso ordinário manejado contra decisão monocrática proferida em sede de habeas corpus impetrado ao Superior Tribunal de Justiça. Não cabimento. Precedentes. Violação do princípio da colegialidade suscitada de forma inovadora no agravo regimental. Impossibilidade. Precedentes. Regimental não provido. (...)” RHC nº 121.999-AgR/SP, Primeira Turma, de minha relatoria, DJe de 27/8/14);
+    “Penal e processual penal. Recurso ordinário em habeas corpus. Atentado violento ao pudor contra vulnerável menor de 4 anos de idade (CP, art. 214, c/c art. 224, a). Falsa declaração de pobreza. ilegitimidade do Ministério Público para propor ação penal pública condicionada. Tema não suscitado no Tribunal local. Writ não conhecido, monocraticamente, no STJ. Não interposição de agravo regimental. Jurisdição não exaurida no âmbito do Tribunal a quo. Inobservância do princípio da colegialidade (artigo 102, inciso II, alínea a, da Constituição Federal). Supressão de instância. Pretensão de habeas corpus, de ofício. Reexame de fatos e provas. Inviabilidade. (...)” (RHC nº 11.935/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13);
+    Esse raciocínio, com maior razão, deve ser observado quando o recurso ordinário for manejado em face de decisão, de caráter provisório, que decide liminar.
+    De qualquer modo, não obstante meu entendimento pessoal, consignado por ocasião do julgamento das ADC’s nsº 43-MC e 44-MC, registro que a situação de execução provisória evidenciada nos autos não evidencia, na minha compreensão, teratologia flagrante, sendo certo, ademais, que o entendimento, até o momento, predominante na Corte é o de que a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado no art. 5º, inciso LVII, da Constituição Federal (v.g. HC nº 126.292/SP, Tribunal Pleno, Relator o Ministro Teori Zavascki, DJe de 17/5/16).
+    Aliás, o Plenário virtual reafirmou o entendimento preconizado no HC nº 126.292/SP em sede de repercussão geral (Tema nº 925):
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). ACÓRDÃO PENAL CONDENATÓRIO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA. JURISPRUDÊNCIA REAFIRMADA. 1. Em regime de repercussão geral, fica reafirmada a jurisprudência do Supremo Tribunal Federal no sentido de que a execução provisória de acórdão penal condenatório proferido em grau recursal, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal. 2. Recurso extraordinário a que se nega provimento, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria” (ARE nº 964.246/SP, Relator o Ministro Teori Zavascki, DJe de 25/11/16).
+    Diante desse quadro, sem prejuízo do reexame posterior pelo eminente relator, indefiro a liminar requerida.
+    Solicitem-se informações à autoridade coatora.
+    Publique-se.
+    Brasília, 13 de dezembro de 2017.
+Ministro Dias Toffoli
+(RISTF, art. 38, I)
+Documento assinado digitalmente
