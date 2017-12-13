@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de reclamação, com pedido de liminar, em face de decisão proferida pela Primeira Turma Recursal Fazendária do Tribunal de Justiça do Rio de Janeiro, nos autos do Processo 0475818-65.2012.8.19.0001, que teria desrespeitado o princípio da presunção de inocência ao manter decisão administrativa de exclusão do candidato em concurso público para o cargo de policial militar.
+    Na reclamação, alega-se que o ato reclamado não observou a decisão proferida por esta Corte nos autos do RE 559.135, de relatoria do Ministro Ricardo Lewandowski.
+    Dispenso as informações e a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está em condições de julgamento.
+    É o relatório. Decido.
+    Após detido exame dos autos, verifico que não assiste razão à parte reclamante. O ato reclamado transitou em julgado em 29.08.2013, conforme certidão juntada em eDOC 8, p. 12, de modo que a presente reclamação, ajuizada em 18.10.2016, apresenta-se incabível, nos termos do artigo 988, §5º, inciso I do Código de Processo Civil.
+    Nesse sentido:
+    “E M E N T A: RECLAMAÇÃO – ALEGADA USURPAÇÃO DA COMPETÊNCIA DESTA SUPREMA CORTE – ATO JUDICIAL, OBJETO DA RECLAMAÇÃO, JÁ TRANSITADO EM JULGADO – AJUIZAMENTO DA RECLAMAÇÃO EM MOMENTO POSTERIOR AO TRÂNSITO EM JULGADO DA DECISÃO EMANADA DO E. SUPERIOR TRIBUNAL DE JUSTIÇA – INCIDÊNCIA, NA ESPÉCIE, DE OBSTÁCULO FUNDADO NA SÚMULA 734/STF E NO ART. 988, § 5º, INCISO I, DO CPC – EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO.”
+    (Rcl 24682 AgR, Relator(a):  Min. CELSO DE MELLO, Segunda Turma, julgado em 17/11/2017, PROCESSO ELETRÔNICO DJe-274 DIVULG 29-11-2017 PUBLIC 30-11-2017)
+    “Ementa: AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. APLICAÇÃO DA SÚMULA 734 DO STF. TRÂNSITO EM JULGADO DA DECISÃO RECLAMADA. PRECEDENTES. AGRAVO MANIFESTAMENTE IMPROCEDENTE. MULTA PREVISTA PELO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO REGIMENTAL DESPROVIDO. 1. Nos termos da Súmula nº 734 do STF, “Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”. 2. In casu, o Tribunal a quo certificou o trânsito em julgado da decisão reclamada em momento anterior ao ajuizamento da presente reclamação. 3. Impossibilidade de se utilizar a reclamação com o fim de se apurar a correção da contagem de prazo recursal pelo Tribunal de origem. 4. A reclamação “não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl 4.381-AgR, Rel. Min. Celso de Mello, Tribunal Pleno, Dje de 05.08.2011). 5. A interposição de agravo manifestamente improcedente autoriza a imposição de multa, com fundamento no art. 1.021, § 4º, do CPC/2015. 6. Agravo regimental desprovido.”
+    (Rcl 23116 ED-AgR, Relator(a):  Min. LUIZ FUX, Primeira Turma, julgado em 07/04/2017, PROCESSO ELETRÔNICO DJe-079 DIVULG 19-04-2017 PUBLIC 20-04-2017)
+    Ante o exposto, com base nos arts. 21, §1º, e 161, parágrafo único, do RISTF, nego seguimento à presente reclamação.
+    Publique-se.
+    Brasília, 13 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
