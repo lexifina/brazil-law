@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — LEGISLAÇÃO LOCAL —INTERPRETAÇÃO — INVIABILIDADE — AGRAVO DESPROVIDO
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto a improcedência do pedido de pagamento de adicional por tempo de serviço, aludindo à legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 7º, inciso VI, e 37, inciso XV, da Constituição Federal. Insiste no direito pleiteado, alegando ter a inovação legislativa contrariado o princípio da irredutibilidade dos vencimentos.
+    2. Eis a síntese da decisão recorrida:
+    RECURSO INOMINADO. SERVIDOR PÚBLICO MUNICIPAL MUNICIPIO DE TRIUNFO. CARGO EM COMISSÃO. EXONERAÇÁO E RENOMEAÇÃO NO MESMO CARGO. ADICIONAL POR TEMPO DE SERVIÇO. NOVA LEGISLAÇÃO. LEI MUNICIPAL No 2.330a009. SOMENTE AOS SERVIDORRES CONCURSADOS. POSSIBILIDADE.
+    1) Trata-se de ação declaratória na qual se insurge a parte autora contra a sua exoneração e nomeação dias após, alegando que a Municipalidade efetuou tal manobra para não lhe pagar anuênios, que alega fazer jus, em face da nova Lei Municipal que retirou este direto aos cargos em comissão, julgada improcedente na origem.
+    2) Princípio Da Legalidade - A Administração Pública Q regida a luz das princípios constitucionais inscritos no tapir do artigo 37 da Carta Magna. sendo que o principio da legalidade é a base de todos os demais principias que instrui; limita e vincula as atividades administrativas. Dessa feita. o administrador público está adstrito ao princípio constitucional da legalidade e as normas de Direito Administrativo.
+    3) A Lei Municipal no 2.330, de 12/05/2009, alterou o artigo 86 da Lei Municipal no 779/1992, passando a dispor que o adicional por tempo de serviço destina-se somente aos servidores ocupantes de cargo efetivo. pertencentes ao quadro permanente do Município, admitidos por concurso público.
+    4) No caso testada sendo a parte autora ocupante de cargo em comissão, legitimo o ato da administração em denegar-lhe o perseguido adicional, uma vez que o adicional por tempo de serviço não tem mais alcance aos ocupantes dos cargas em comissão, de natureza precária, de livre nomeação e exoneração, sem caráter de efetividade, por força da novel legislação. Inexistência de indícios de perseguição ou prejuízo calculado. Houve mudança de regime.
+    5) Sentença mantida pelos próprios fundamentos, nos termos do art. 46, última parte da Lei federal 9.099/95.
+    RECURSO INOMINADO DESPROVIDO
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, que o Tribunal de origem julgou a apelação a partir de interpretação conferida a normas locais. Procedeu à interpretação das Leis municipais nº 2.330/09 e nº 779/92. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários  recursais em 5% sobre o valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 13 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
