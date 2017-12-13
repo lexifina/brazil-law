@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Arguição de Descumprimento de Preceito Fundamental proposta pelo Procurador-Geral da República em face do Acórdão 775/2016 do Plenário do Tribunal de Contas da União, no qual determinadas várias medidas de natureza cautelar em relação ao Programa Nacional de Reforma Agrária, PNRA, do Governo Federal.
+    Deferi medida cautelar, ad referendum do Tribunal Pleno, para suspender a eficácia do ato impugnado na presente arguição, nos seguintes termos:
+    Ante o exposto, CONCEDO A MEDIDA CAUTELAR postulada na presente ADPF, ad referendum do Plenário (art. 5º, § 1º, da Lei 9.882/99) e, com base no art. 5º, § 3º, da Lei 9.882/99, SUSPENDO A EFICÁCIA DO ACÓRDÃO 775/2016, do Tribunal de Contas da União, até o julgamento de mérito da presente arguição.
+    Após, veio aos autos a informação de que as medidas cautelares implementadas pelo referido Acórdão 775/2016 foram revogadas por posterior deliberação do próprio Tribunal de Contas da União, no caso, pelo Acórdão 1976/2017-TCU-Plenário, de 6/9/2017.
+    O Advogado-Geral da União manifestou-se pelo prejuízo da arguição em decorrência da prolação do mencionado Acórdão 1976/2017, nos seguintes termos:
+    Nota-se, portanto, que a revogação do subitem 9.2 do Acórdão nº 775/2016 prejudica o exame da constitucionalidade do ato impugnado na presente arguição, uma vez que a fundamentação exposta na petição inicial se dirige, essencialmente, contra as medidas determinadas no mencionado tópico. Com efeito, como se pode observar do conteúdo do ato atacado, os demais subitens do acórdão descrevem diversas providências e recomendações ao INCRA, ou mesmo ao próprio Tribunal de Contas, mas não estabelecem restrição ao andamento do Programa Nacional de Reforma Agrária.
+    Some-se a isso que o próprio INCRA já havia conseguido realizar o desbloqueio da maioria dos beneficiários atingidos pelo acórdão impugnado, por meio de medidas adotadas em seu plano de enfrentamento, consoante demonstram as informações prestadas pelo Tribunal de Contas da União na presente arguição (...)
+    Desse modo, constata-se a prejudicialidade do pedido de declaração de inconstitucionalidade do Acórdão nº 775/2016 do Plenário do TCU.
+    Nesse mesmo sentido, a Procuradora-Geral da República, parte autora da presente arguição, também em vista da informação prestada pelo Tribunal de Contas da União a respeito da revogação do ato atacado, requereu a extinção do processo, sem resolução de mérito, em razão da superveniente perda de seu objeto.
+    De fato, o conteúdo do Acórdão 1976/2017-TCU-Plenário revela a insubsistência das medidas cautelares do item 9.2 do Acórdão 775/2016, objeto da presente ADPF, conforme colacionado a seguir:
+    9.1. considerar, no mérito, parcialmente procedente a presente Representação, conhecida por meio do Acórdão 775/2016 - Plenário;
+    9.2. revogar, a partir da apreciação de mérito destes autos, a medida cautelar determinada por meio do subitem 9.2 do Acórdão 775/2016 – Plenário, tendo em vista as determinações adiante indicadas, acerca do mérito da matéria apreciada por este Tribunal;
+    (...)
+    Assim, seja pela efetiva adoção, pelo INCRA, das providências cominadas pelo TCU, seja pela revogação das medidas cautelares que foram afastadas pela medida liminar concedida nestes autos, impõe-se reconhecer a ausência de quaisquer efeitos concretos a demandar o exercício da jurisdição constitucional pelo SUPREMO TRIBUNAL FEDERAL, conforme indica a jurisprudência da CORTE: ADPF 377, Rel. Min. LUIZ FUX, decisão monocrática, DJe de 4/8/2017; ADPF 459, Rel. Min. EDSON FACHIN, decisão monocrática, DJe de 8/6/2017; ADPF 451, Rel. Min. DIAS TOFFOLI, decisão monocrática, DJe de 17/2/2017; ADPF 7, Rel. Min. ROBERTO BARROSO, decisão monocrática, DJe de 3/11/2015; ADPF 139, Rel. Min. GILMAR MENDES, decisão monocrática, DJe de 13/2/2014; entre outros julgados.
+    Diante do exposto, REVOGO A MEDIDA CAUTELAR deferida nos presentes autos e JULGO PREJUDICADA a arguição em razão da perda superveniente de seu objeto. Determino a extinção do processo, sem resolução do mérito, conforme o art. 485, VI, do Código de Processo Civil de 2015, e o art. 21, IX, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 13 de dezembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
