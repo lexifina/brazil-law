@@ -1,0 +1,19 @@
+Decisão
+          Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido nos autos do HC 397.564/SP, Rel. Min. RIBEIRO DANTAS, em acórdão assim ementado:
+    1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+    2. A execução provisória da pena não se confunde com a prisão preventiva. Esta possui natureza cautelar e dever ser decretada quando presentes os requisitos dos arts. 312 e 313 do CPP e aquela decorre da condenação confirmada em segundo grau e ainda não transitada em julgado.
+    3. A condenação pelo Tribunal de origem, em grau de recurso, supera o decreto preventivo, iniciada, assim, automaticamente, a execução provisória.
+    4. Após o julgamento do Habeas Corpus n. 126.292/SP (STF, Relator Ministro TEORI ZAVASCKI, TRIBUNAL PLENO, julgado em 17/2/2016), esta Corte passou a adotar o entendimento do Supremo Tribunal Federal de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal". Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ.
+    5. O Supremo Tribunal Federal também reconheceu a repercussão geral do tema (ARE 964.246/SP, Rel. Ministro TEORI ZAVASCKI) e, em 11/11/2016, decidiu, em Plenário Virtual, pela reafirmação de sua jurisprudência externada no mencionado HC 126.292/SP.
+    6. A Terceira Seção desta Corte Superior, no julgamento da Rcl 30.193/SP, firmou entendimento de que, com a nova orientação da Suprema Corte, nos autos do HC 126.292/SP, "a manutenção da sentença penal pela segunda instância encerra a análise de fatos e provas que assentaram a culpa do condenado, o que autoriza o início da execução da pena".
+    7. Habeas corpus não conhecido.
+          Nesta ação, o impetrante sustenta que o paciente, condenado à pena de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, pela prática do crime previsto no art. 1º, VII, § 1º, I e II, da Lei 9.613/98, sofre constrangimento ilegal em decorrência da execução prematura da sanção penal. Requer, assim, a concessão da ordem, para que o paciente aguarde o trânsito em julgado da ação penal em liberdade.
+          É o relatório. Decido.
+          A pretensão formulada não encontra amparo na orientação firmada por esta CORTE, que, no julgamento do HC 126.292/SP (Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 17/5/2016), concluiu que a execução provisória de condenação penal confirmada em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência. Esse entendimento foi confirmado no julgamento das medidas cautelares nas ADCs 43 e 44 (julgadas em 5/10/2016), oportunidade na qual se decidiu, também, pelo indeferimento do pedido de modulação dos efeitos. E, em repercussão geral, foi reafirmada a jurisprudência, no exame do ARE 964.246 (Rel. Min. TEORI ZAVASCKI, DJe de 25/11/2016).
+          Em resumo, o deferimento do pedido de expedição de mandado de prisão contra o paciente, para fins de execução da reprimenda, não enseja constrangimento ilegal.
+          Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO HABEAS CORPUS.
+          Publique-se.
+          Brasília, 13 de dezembro de 2017.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
