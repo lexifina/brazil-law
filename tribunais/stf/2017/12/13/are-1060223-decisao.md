@@ -1,0 +1,21 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Santos contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “SERVIDOR PÚBLICO MUNICIPAL – SANTOS – Pretensão à inclusão da diferença pecuniária pela adesão ao Plano de Cargos, Carreiras e Salários – PCCS, no cálculo do adicional por tempo de serviço e da gratificação por oito anos – Cabimento – Inteligência dos artigos 2º e 3º da Lei Complementar Municipal nº 162/95, instituidora do Plano de Cargos, Carreiras e Salários (PCCS) – Precedentes – Ação julgada procedente em 1ª Instância – Sentença mantida – Recursos não providos.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 2º, 5º, I e II, 30, 37, “caput” e XIV, e 169, todos da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar municipal nº 162/1995), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Trata-se de ação ordinária ajuizada por JOSÉ DE JESUS, servidor público municipal, em face do MUNICÍPIO DE SANTOS, objetivando a inclusão da diferença pecuniária pela adesão ao Plano de Cargos, Carreiras e Salários – PCCS, no cálculo do adicional por tempo de serviço e da gratificação por oito anos, nos termos da Lei Complementar Municipal nº. 162/95, com reflexos nos meses subsequentes, bem como o não desconto de verbas previdenciárias (IPREV) e fiscais (Imposto de Renda).
+    Com efeito, dispõem os artigos 2º. e 3º. da Lei Complementar Municipal nº. 162/95, instituidora do Plano de Cargos, Carreiras e Salários PCCS, que:
+    …..................................................................................................
+    Ora, da análise dos dispositivos supra, resta evidente que, com a adesão ao plano de cargos, carreiras e salários, o servidor teve assegurado incorporação da diferença pecuniária aos seus vencimentos.
+    …...................................................................................................
+    Nota-se que, a diferença pecuniária em questão, na verdade, passa a fazer parte dos vencimentos do servidor. Ou seja, os vencimentos dos aderentes passam a ser compostos pelo vencimento básico mais a diferença obtida pela adesão ao PCCS.
+    Desta feita, o PCCS constitui verdadeiro reajuste de vencimento e assim deve ser considerado para cálculo do adicional por tempo de serviço, bem como da gratificação por oito anos no cargo.”
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 957.504/SP, Rel. Min. GILMAR MENDES – ARE 1.042.628/SP, Rel. Min. DIAS TOFFOLI – ARE 1.042.830/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no recentíssimo julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 13 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
