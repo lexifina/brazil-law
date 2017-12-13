@@ -1,0 +1,17 @@
+ANEXO ÚNICO
+
+“ANEXO ÚNICO (NR)
+
+CANDIDATOS À POLÍCIA MILITAR E AO CORPO DE BOMBEIROS MILITAR DE PERNAMBUCO
+
+VALOR DA BOLSA-AUXÍLIO DE FORMAÇÃO PROFISSIONAL R$
+
+Curso de Formação de Oficiais
+
+2.200,00
+
+Curso de Formação e Habilitação de Praças
+
+1.100,00
+
+”.
