@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem confirmou o entendimento do Juízo quanto à condenação do Estado do Rio de Janeiro a efetuar a transferência do autor para hospital da rede pública, ou para instituição privada, às custas do Poder Público.
+    No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a ofensa aos artigos 5º, cabeça e incisos LIV e LV, 37, cabeça, e 197, da Constituição Federal. Aponta a ausência de enfrentamento, pelo Tribunal de origem, dos preceitos constitucionais tido por violados. Articula com a impossibilidade de ser o Estado condenado a arcar com os custos de internação de indivíduo na rede privada de assistência à saúde quando disponível leito em hospital público.
+    2. A recorribilidade extraordinária mostra-se distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da sentença confirmada integralmente pelo Tribunal de Justiça do Estado do Rio de Janeiro o seguinte trecho (folha 110 à 111):
+     ODUWALDO DE OLIVEIRA propôs esta ação em face do MUNICÍPIO DO RIO DE JANEIRO e ESTADO DO RIO DE JANEIRO, alegando que diante de seu estado de saúde, necessitou de remoção para uma unidade hospitalar com suporte de CTI, sendo-lhe deferida a antecipação de tutela para tanto, motivo pelo qual requereu a condenação dos réus a efetuarem a sua transferência para um dos nosocômios da rede publica municipal ou estadual, que possua suporte de CTI, ou privada às expensas dos mesmos, bem como, a condenação em reparação por danos morais.
+    Rejeito a preliminar de ausência superveniente de interesse processual de agir, porquanto, a transferência da parte autora para hospital com leito de CTI somente ocorreu em cumprimento da antecipação de tutela deferida nos autos.
+    A questão meritória é exclusivamente de direito. Cabe o julgamento antecipado previsto no art. 330, I, do Código de Processo Civil.
+    O Sistema Único de Saúde, implantado pela Lei 8.080/90, compreende, por definição própria, um conjunto integrado de ações e serviços prestados nos âmbitos federal, estadual e municipal, o que evidencia verdadeira responsabilidade solidária entre os entes públicos, demonstrando serem os réus legitimados a figurarem no pólo passivo da relação processual.
+    No mérito, o pedido autoral deve ser acolhido, por ser certo que é competência comum aos entes da Federação cuidar da saúde e assistência pública, segundo os artigos 196 e 198 da Constituição da República, promovendo o atendimento integral das necessidades dos administrados quanto aos serviços de saúde.
+    Nesse sentido, é certo que o autor pode exigir o cumprimento da obrigação de tratamento médico-hospitalar de qualquer um dos réus, pois esta é a característica da solidariedade que, contudo, não autoriza a cobrança da integralidade da obrigação simultaneamente aos réus.
+    O direito à saúde é constitucionalmente garantido a todos e incumbe ao Estado o dever de prestá-lo de forma satisfatória, conforme artigo 196 da Constituição da República que não tem caráter meramente programático.
+    A parte autora comprovou por atestados médicos a existência da moléstia descrita na petição inicial e a necessidade de se submeter à transferência e ao tratamento médico-hospitalar pretendido em hospital da rede pública.
+    […]
+    Ante o exposto, JULGO PROCEDENTE, EM PARTE, O PEDIDO, somente para confirmar os efeitos da antecipação de tutela já deferida, e condenar os réus a arcarem com todo o custo do tratamento do autor, e medicamentos imprescindíveis à manutenção de sua vida, que forem necessários, e mediante a apresentação de receituário médico, expedido por uma unidade do SUS.
+    O Tribunal de origem entendeu procedente o pedido formulado pelo recorrido, assentando a obrigação do Estado de arcar com o respectivo tratamento médico, de forma direta ou indireta. O recorrente aduz a impertinência do pronunciamento, no que implica o pagamento de internação em hospital privado, aludindo à existência de leito disponível na rede pública, situação não reconhecida no ato questionado.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    3. Ante o quadro, conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 13 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
