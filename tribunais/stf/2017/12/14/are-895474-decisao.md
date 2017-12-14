@@ -1,0 +1,35 @@
+Decisão:
+    Cuida-se de agravo contra decisão que inadmitiu recurso extraordinário interposto contra acórdão prolatado pela Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO COLETIVA. TELECOMUNICAÇÃO. VALIDADE DA ASSINATURA BÁSICA. LEGITIMIDADE PASSIVA DA ANATEL CONFIGURADA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+    Nas demandas coletivas ajuizadas contra prestadoras de serviços de telecomunicação, em que se discute a tarifação de serviços, com base em regramento da ANATEL, reconhece-se a legitimidade passiva desta agência como litisconsorte necessário, bem como firma a competência da Justiça Federal para processar e julgar o feito.”
+    Opostos embargos de declaração, estes foram parcialmente providos, exclusivamente para fins de prequestionamento.
+    O recurso extraordinário centra-se em alegada violação ao artigo 109, inciso I da Constituição Federal.
+    Intimada, a parte contrária ofertou contrarrazões.
+    É o relatório. Decido.
+    O recurso não merece prosperar.
+    A jurisprudência da Suprema Corte é no sentido de que, integrando a lide uma autarquia ou empresa pública federal, a competência para processamento e julgamento do feito é da Justiça Federal, de acordo com a disposição do artigo 109, inciso I, da Constituição Federal. Nesse sentido, anote-se:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO ORDINÁRIA DE REPARAÇÃO DE DANOS. EMPRESA PÚBLICA FEDERAL. COMPETÊNCIA. ARTIGO 109, I, DA CONSTITUIÇÃO DO BRASIL. Competência da Justiça Federal para processar e julgar ação de reparação de danos proposta por mutuário contra a Caixa Econômica Federal Agravo regimental a que se nega provimento (RE nº 555.395/MT-AgR, Segunda Turma, relator o Ministro Eros Grau, DJe de 13/3/09).
+    CONSTITUCIONAL. PROCESSUAL CIVIL. COMPETÊNCIA DA JUSTIÇA FEDERAL. APLICABILIDADE DO ART. 109, § 2º, DA CONSTITUIÇÃO ÀS AUTARQUIAS FEDERAIS. I A jurisprudência do Supremo Tribunal Federal tem entendido pela aplicabilidade do disposto no art. 109, § 2º, da Constituição às autarquias federais. II Agravo regimental desprovido(RE nº 499.093/PR-AgR-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJ de 25/11/10).
+    Do voto condutor do acórdão recorrido colhe-se o seguinte:
+    “A 2ª seção desta Corte, em julgamento realizado em 18-05-2012, no EINF 2003.71.00.030735-4, firmou entendimento no sentido de a ANATEL ser parte legítima para figurar no pólo da ação quando se tratar de ação coletiva. Transcrevo parte do voto:
+    Por fim, quanto à alegação de que o precedente utilizado para novo exame dos embargos infringentes interpostos pela ANATEL (REsp n.º 1.068.944/PB) não encontra semelhança no caso em análise, eis que se trata o primeiro de direito individual e o segundo em ação coletiva, entendo que merece acolhimento.
+    Ademais, o recurso especial julgado pelo STJ n.º 1.068.944/PB 'no sentido de que, em demandas sobre a legitimidade da cobrança de tarifas por serviço de telefonia, movidas por usuário contra a concessionária, não se configura hipótese de litisconsórcio passivo necessário da ANATEL, que, na condição de concedente do serviço público, não ostenta interesse jurídico qualificado a justificar sua presença na relação processual', está limitado a ações individuais, situação essa não caracterizada no presente feito, que diz respeito a ação civil pública ajuizada pela ASSOCIACAO NACIONAL DE DEFESA E INFORMACAO DO CONSUMIDOR - ANDICOM.
+    No mesmo sentido, reproduzo decisão do STJ:
+    PROCESSUAL CIVIL ADMINISTRATIVO EMBARGOS DE DECLARAÇÃO EFEITOS INFRINGENTES AÇÃO COLETIVA TELECOMUNICAÇÃO LEGITIMIDADE PASSIVA DA ANATEL CONFIGURADA COMPETÊNCIA DA JUSTIÇA FEDERAL.
+    1. Nas demandas coletivas ajuizadas contra prestadoras de serviços de telecomunicação, em que se discute a tarifação de serviços, com base em regramento da ANATEL, reconhece-se a legitimidade passiva desta agência como litisconsorte necessário, bem como firma a competência da Justiça Federal para processar e julgar o feito.
+    2. Inaplicabilidade do posicionamento firmado em julgamento sob o rito do art. 543-C do CPC (REsp 1.068.944/PB), em razão da divergência com o suporte fático do precedente (demandas entre usuários e as operadoras de telefonia).
+    3. Embargos de declaração acolhidos com efeitos infringentes.
+    (EDcl no AgRg no Ag 1195826 / GO DJe 10/09/2010)
+    Nesse passo, os presentes embargos declaratórios merecem acolhimento a fim de declarar a inaplicabilidade do entendimento consolidado no acórdão REsp n.º 1.068.944 no presente caso, devendo prevalecer decisão adotada por esta Corte no julgamento dos embargos infringentes interpostos pela Brasil Telecom e ANATEL, julgados em 13 de maio de 2010 (fls. 569/571), reconhecendo a legitimidade da ANATEL para compor o polo passivo da presente demanda.
+    Assim, é de ser dado provimento ao agravo de instrumento, a fim reconhecer a legitimidade passiva da ANATEL e, consequentemente, a manutenção da ação na Justiça Federal.
+    Ante o exposto, voto por dar provimento ao agravo de instrumento.”
+    Como se vê, o Tribunal de origem entendeu que o caso concreto possui suporte fático diverso dos precedentes que envolvem demandas entre usuários e as operadoras de telefonia e manteve a ANATEL no polo passivo da ação civil pública.
+    Dessa forma, dissentir do que foi decidido acerca da alegada ilegitimidade ad causam, não prescinde do reexame da legislação infraconstitucional aplicada pela Corte local, o que não se mostra cabível em sede de recurso extraordinário. Nessa hipótese, a ofensa ao texto constitucional, se ocorresse, seria indireta ou reflexa, o que não ampara o apelo extremo. Nesse sentido, anote-se:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. DEMANDA EM QUE LITIGAM CONCESSIONÁRIA DE TELEFONIA E MUNICÍPIO. INTERVENÇÃO DE AUTARQUIA FEDERAL COM BASE NO ART. 5º, PARÁGRAFO ÚNICO, DA LEI 9.469/97. COMPETÊNCIA DA JUSTIÇA FEDERAL. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA 279/STF. PRECEDENTES EM CASOS IDÊNTICOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (RE nº 726.519/RS – AgR, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 14/9/15)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. II - Agravo regimental improvido (ARE nº 642.356/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJ de 15/8/11).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 14 de dezembro de 2017.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
