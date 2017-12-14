@@ -1,0 +1,37 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 5ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 289):
+    “EMENTA: REEXAME NECESSÁRIO // APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA NA DEFESA DE INTERESSES DAS PESSOAS PORTADORAS DE DEFICIÊNCIA
+    PRELIMINARES - INÉPCIA DA INICIAL E IMPOSSIBILIDADE JURÍDICA DO PEDIDO - QUESTÕES JÁ DECIDIDAS - AUSÊNCIA DE ADEQUADA IMPUGNAÇÃO - PRECLUSÃO
+    1. O conhecimento a qualquer tempo de questões de ordem pública faz-se possível, desde que não tenha havido preclusão a respeito. Se a matéria já fora, anteriormente, objeto de decisão judicial, contra a qual não houve adequada impugnação, não será dado ao Tribunal, no julgamento do recurso, em razão da nova arguição da parte, reexaminá-la.
+    2. Preliminares rejeitadas.
+    MÉRITO - OMISSÃO DO PODER PÚBLICO - ACESSIBILIDADE DE DEFICIENTES - ADAPTAÇÃO DE PRÉDIOS PÚBLICOS - DESCUMPRIMENTO DE DETERMINAÇÕES LEGAIS E REGULAMENTARES - ATUAÇÃO DO PODER JUDICIÁRIO - POSSIBILIDADE, EM OBSERVÂNCIA A PRINCÍPIOS CONSTITUCIONAIS E LEGAIS - AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES.
+    1. A Constituição da República estabelece, em seu art. 227, §2º, que "lei disporá sobre normas de construção dos logradouros e dos edifícios de uso público e de fabricação de veículos de transporte coletivo, a fim de garantir acesso adequado às pessoas portadoras de deficiência".
+    2. Embora se trate de norma constitucional de eficácia limitada, a Lei 10.098/2000 e o Decreto 5.296/2004 regulamentaram-na criteriosamente, dando-lhe plena aplicabilidade.
+    3. Compete, à União, a edição de normas gerais acerca da "proteção e integração social das pessoas portadoras de deficiência", competindo ao Estado apenas suplementar a legislação nacional.
+    4. Em regra, é vedado ao Poder Judiciário adentrar no mérito dos atos administrativos de efetivação de políticas públicas, cabendo-lhe unicamente examiná-los sob o aspecto da legalidade e da moralidade. Todavia, diante de flagrante descumprimento, pela Administração estadual, das normas legais e regulamentares da Lei 10.098/2000 e do Decreto 5.296/2004, é permitido ao Judiciário impor ao Executivo o cumprimento das disposições normativas respectivas.
+    5. Sentença confirmada, em reexame necessário. Prejudicado o recurso voluntário.” (Grifos no original)
+    Os embargos de declaração foram rejeitados (eDOC 1, pp. 329-334).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 2º; 5º, II; 244, caput; e 227, § 2º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que o acórdão recorrido impôs ao Estado de Minas Gerais a obrigação de “implementar a acessibilidade a prédio escolar sem que exista, ainda, lei determinando o prazo para tais implementações” e que “somente a Lei – e não o Decreto nº 5.296, de 02/12/2004 – deveria estabelecer prazo para as reportadas implementações de acessibilidade.” (eDOC 1, p. 369 e 370, grifos no original)
+    A Primeira Vice-Presidência do TJ/MG inadmitiu o recurso ao entendimento de que as teses defendidas nas razões recursais não encontram amparo na jurisprudência desta Corte (eDOC 1, pp. 402-406 ).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, assim asseverou (eDOC 1, pp. 298-300):
+    “... o Decreto federal 5.296/2004, que regulamenta as Leis 10.048 e 10.098, pormenoriza o alcance da norma, estabelecendo, inclusive, prazos para que certas adaptações sejam promovidas:
+    (...)
+    Verifica-se, da regulamentação transcrita, que os requerimentos do Parquet já deveriam ter sido implementados pelo Estado de Minas Gerais, porquanto estabelecido o prazo de 30 (trinta) a 48 (quarenta e oito) meses, contados da publicação do Decreto 5.296/2004, para a adaptação das edificações dos estabelecimentos públicos de ensino já existentes, notadamente a fim de proporcionar condições de acesso e utilização de todos os seus ambientes ou compartimentos para pessoas portadoras de deficiência ou com mobilidade reduzida, inclusive salas de aula, bibliotecas, auditórios, ginásios e instalações desportivas, laboratórios, áreas de lazer e sanitários (art. 24, caput).
+    (...)
+    Portanto, ante a expressa determinação da Lei 10.098/2000 e do Decreto 5.296/2004, tais medidas devem ser efetivadas, não havendo, na atuação impositiva do Poder Judiciário, violação ao princípio da separação dos Poderes, porquanto está-se, na espécie, apenas impedindo a perpetuação das omissões do Poder Executivo em dar cumprimento à legislação citada.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei 10.098/2000 e Decreto 5.296/2004). Desse modo, a discussão referente possibilidade do estabelecimento de prazo para implantação de acessibilidade em prédio escolar por meio de decreto revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Confira-se, a propósito, o seguinte acórdão:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLÍTICAS PÚBLICAS. ACESSIBILIDADE. PORTADORES DE NECESSIDADES FÍSICAS ESPECIAIS. PRAZO PARA REALIZAÇÃO DE OBRAS. LEI N. 10.098/2000 E DECRETO N. 5.296/2004: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 722.778 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 3.4.2014)
+    Ademais, esta Corte possui entendimento pacificado no sentido de que a discussão acerca de eventual extravasamento, pelo ato regulamentar, dos limites a que materialmente deve estar adstrito caracteriza típica crise de legalidade, e não de constitucionalidade.
+    Nesse sentido:
+    “ADIN - SISTEMA NACIONAL DE DEFESA DO CONSUMIDOR (SNDC) - DECRETO FEDERAL N. 861/93 - CONFLITO DE LEGALIDADE - LIMITES DO PODER REGULAMENTAR - AÇÃO DIRETA NÃO CONHECIDA.
+    - Se a interpretação administrativa da lei, que vier a consubstanciar-se em decreto executivo, divergir do sentido e do conteúdo da norma legal que o ato secundário pretendeu regulamentar, quer porque tenha este se projetado ultra legem, quer porque tenha permanecido citra legem, quer, ainda, porque tenha investido contra legem, a questão caracterizará, sempre, típica crise de legalidade, e não de inconstitucionalidade, a inviabilizar, em consequência, a utilização do mecanismo processual da fiscalização normativa abstrata.
+    - O eventual extravasamento, pelo ato regulamentar, dos limites a que materialmente deve estar adstrito poderá configurar insubordinação executiva aos comandos da lei. Mesmo que, a partir desse vício jurídico, se possa vislumbrar, num desdobramento ulterior, uma potencial violação da Carta Magna, ainda assim estar-se-á em face de uma situação de inconstitucionalidade reflexa ou oblíqua, cuja apreciação não se revela possível em sede jurisdicional concentrada.” (ADI 996-MC, Rel. Min. Celso de Mello, Plenário, DJ de 6.5.1994)
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, b, do CPC e 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 14 de dezembro de 2017.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
