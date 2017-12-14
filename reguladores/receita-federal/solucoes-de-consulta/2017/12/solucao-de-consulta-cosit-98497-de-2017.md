@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98497, de 30 de outubro de 2017
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8414.59.90 Mercadoria: Soprador de ar, próprio para limpeza em locais de grande extensão, como chácaras, sítios, residências, condomínios, clubes e áreas públicas; com motor à gasolina, de uso manual, capaz de ser convertido num sugador, denominado comercialmente “soprador, sugador de folhas”.
+DISPOSITIVOS LEGAIS: RGI 1 (Nota 3 da Seção XVI, Nota 2 do Capítulo 84 e texto da posição 84.14), RGI 6 (textos da subposição de 1º nível 8414.5 e da subposição de 2º nível 8414.59) e RGC 1 (texto do item 8414.59.90) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 15 de dezembro de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 29 de dezembro de 2016; e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 807, de 11 de janeiro de 2008, e alterações posteriores.
+[arquivo anexo: SC Cosit nº 98497-2017.pdf]
