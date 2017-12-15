@@ -1,0 +1,18 @@
+DECISÃO: O presente recurso extraordinário foi interposto por Gaber Lopes contra acórdão que, proferido pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “AGRAVO LEGAL. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. PODERES DO RELATOR DO RECURSO. MANUTENÇÃO DA DECISÃO. OAB – LEGITIMIDADE. TEORIA DA ASSERÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL – ART. 109, I, DA CF.
+    I. O Código de Processo Civil atribui poderes ao Relator para negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, bem como para dar provimento ao recurso interposto quando o ato judicial recorrido estiver em manifesto confronto com súmula ou jurisprudência dominante do Supremo Tribunal Federal ou de Tribunal Superior.
+    II. O presente feito foi proposto na Justiça Federal porque a matéria supostamente ofensiva que deu origem aos danos morais sofridos pelo autor foi veiculada pela imprensa a qual atribuiu a autoria ao Presidente da Ordem dos Advogados do Brasil.
+    III. No decorrer da instrução probatória ficou constatado que ao iniciar a denúncia contra o autor, o correquerido o fez como Presidente da OAB, mas agia em nome próprio em razão de ter um problema pessoal antigo com aquele, por isso acertada a decisão que excluiu a responsabilização da Autarquia.
+    IV. Pela teoria da asserção na verificação das condições da ação e dos pressupostos processuais, a competência jurisdicional deve ser feita com base nas alegações feitas na peça exordial, de forma abstrata, as quais deverão ser tidas como verdadeiras até o exame definitivo do mérito. Requerida a responsabilização da Ordem dos Advogados do Brasil, deve ser reconhecida sua legitimidade para figurar no polo passivo da ação atraindo a competência da Justiça Federal, a teor do artigo 109, I, da Constituição da República.
+    V. Agravo legal desprovido.”
+    A parte ora recorrente, ao deduzir o apelo extremo, sustentou que o E. Tribunal “a quo” teria transgredido o preceito inscrito no art. 109, I, da Constituição da República.
+    Cumpre observar, desde logo, que o recurso extraordinário não se revela viável, eis que se insurge contra acórdão que examinou a controvérsia jurídica sob uma perspectiva estritamente infraconstitucional.
+    Com efeito, o exame da presente causa evidencia que o acórdão emanado do E. Tribunal Regional Federal da 3ª Região discutiu a matéria pertinente à competência jurisdicional fazendo-o em contexto meramente legal, invocando, para fundamentar esse julgamento, regra inscrita em diploma infraconstitucional.
+    Isso significa, portanto, que o fundamento jurídico que sustenta a decisão em referência reveste-se, unicamente, de índole ordinária, apoiando-se, por isso mesmo, em prescrições e formulações que se situam em domínio regido pelo direito comum, circunstância esta que poderá caracterizar, quando muito, situação de ofensa reflexa ao texto da Carta Política, apta, por si só, a tornar incabível o acesso à via recursal extraordinária (RTJ 94/462 – RTJ 132/455 – RTJ 150/587 – RTJ 161/685, v.g.).
+    Vê-se, desse modo, que o debate veiculado no julgamento em questão fez instaurar, na espécie, contencioso de mera legalidade, o que basta para inviabilizar a admissibilidade do recurso extraordinário.
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 15 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
