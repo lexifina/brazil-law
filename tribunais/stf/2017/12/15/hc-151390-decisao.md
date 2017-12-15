@@ -1,0 +1,47 @@
+Decisão:
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal Militar, assim ementado:
+    APELAÇÃO. DESERÇÃO. PLEITO LIMINAR. INDEFERIDO. TRANCAMENTO DA AÇÃO PENAL MILITAR. PROSSEGUIBILIDADE. OMISSÃO DE FORMALIDADE ESSENCIAL ARGUMENTO DESPROVIDO. ORDEM DENEGADA. POR MAIORIA.
+    Medida liminar postulada pela Defesa do Paciente, para obstar o prosseguimento da Ação Penal Militar em tramite na 2ª Auditoria da 11ª CJM.
+    Pleito indeferido, considerando não terem se configurados os pressupostos básicos autorizadores da tutela cautelar - fumus boni iuris e o periculum in mora.
+    Trancamento da Ação Penal Militar, por ausência de condição de prosseguibilidade do processo, devido ao descumprimento de formalidade essencial.
+    A Defesa argui que somente o militar pode praticar o crime de deserção, sendo condição de procedibilidade/prosseguibilidade da respectiva ação penal. Configurada a incapacidade definitiva do Acusado, sem permanência no serviço ativo do exército, devem os autos serem arquivados.
+    O argumento defensivo rejeitado, pois a norma adjetiva castrense dispõe que, caso o desertor se apresente, ou seja, capturado, deverá ser submetido à inspeção de saúde e, quando julgado apto para o serviço militar, será reincluído, ex vi do disposto no art. 457, § 1º, do CPPM. São formalidades essenciais à instauração do processo especial de deserção.
+    A condição de militar na ativa constitui, tão somente, condição de procedibilidade da respectiva ação penal, que segue rito especial. Sendo o militar incapaz definitivamente, sem permanência no serviço ativo do exército, deve o feito prosseguir até o deslinde final, mediante a prolação de sentença.
+    A "prosseguibilidade" não possui fundamento legal no CPPM, constituindo mera construção jurisprudencial, hoje minoritária nesta Corte, embora tenha sido acolhida pelo STF.
+    No caso, as condições de procedibilidade não estão em discussão, pois o processo já teve início; mas a de prosseguibilidade do feito, devido ao Réu ter perdido a condição de militar, ao ter sido licenciado após o recebimento da Denúncia.
+    Situação da questão processual penal militar sob a égide da Lei do Serviço Militar. A exigência processual da necessidade da condição de militar, no início do processo penal militar, não guarda ligação direta com a Lei do Serviço Militar e seu regulamento.
+    Na Lei do Serviço Militar (Lei n° 4.375, de 17 de agosto de 1964) percebe-se ser a situação da deserção abordada apenas como causa interruptiva do serviço militar.
+    Descabe o argumento de ser impositivo manter a condição de militar para cumprir o período mínimo de serviço militar, e estar apto para eventual situação de mobilização, uma vez que só seria válido para o serviço militar inicial.
+    O processo se encontra na fase final da instrução criminal. Inexistem nos autos quaisquer elementos que possam sustentar as alegações da Impetrante, no sentido de estar o Paciente sendo submetido a suposto constrangimento ilegal por parte do Juiz-Auditor da 2ª Auditoria da 11ª CJM.
+    Ordem denegada.
+    Decisão por maioria.
+    Narra o impetrante que: a) o paciente foi denunciado pelo crime de deserção e, durante a instrução do processo, ausentou-se novamente sem justificativa; b) em razão de seu não comparecimento, determinou-se o sobrestamento da Ação Penal Militar; c) em 13.07.2017, o paciente apresentou-se voluntariamente e, inspecionado para fins de reinclusão, foi considerado “Incapaz definitivamente para fim de Serviço Militar”; d) o Juiz-Auditor concedeu vista ao MPM, que se manifestou pelo prosseguimento da ação, referente à primeira deserção, uma vez que anterior à declaração de inaptidão; e) sem conceder vista à DPU, o Juiz-Auditor designou a audiência de interrogatório e determinou a citação do paciente, já na condição de civil; f) a defesa impetrou habeas corpus perante o STM, que denegou a ordem para determinar o prosseguimento da ação penal; g) o paciente foi considerado definitivamente inapto para o serviço militar, o que conduz à ilegitimidade superveniente para figurar no polo passivo da ação penal militar, que deve ser extinta sem resolução de mérito, dada a perda da condição de procedibilidade/prosseguibilidade.
+    À vista do exposto, pugna pela extinção da ação penal militar.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    O sistema de recursos e meios de impugnação previsto na Constituição Federal, lida enquanto regra de distribuição de competências, tem uma razão de ser. Até então, acompanhando entendimento fixado na Primeira Turma, sustentei que não há como se admitir habeas corpus impetrado em substituição a instrumento recursal constitucionalmente previsto, como é o recurso ordinário. Nesse sentido:
+    “A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal” (HC 128.617 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 04.08.2015).
+    Contudo, a Segunda Turma desta Corte uniformizou posicionamento para admitir writ substitutivo de recurso ordinário constitucional. Nessa esteira:
+    “A Segunda Turma do Supremo Tribunal Federal admite a impetração de habeas corpus em substituição ao recurso ordinário constitucional (art. 102, II, a, da Constituição Federal).” (HC 122.268, Rel. Min. DIAS TOFFOLI, Segunda Turma, julgado em 24.03.2015).
+    Outros precedentes: HC 112.836, Rel. Min. Cármen Lúcia, DJe 15.08.2013; e HC 116.437, Rel. Min. Gilmar Mendes, DJe 19.06.2013.
+    Sendo assim, ressalvado posicionamento pessoal sobre a matéria, agora como integrante da Segunda Turma, em observância ao princípio da colegialidade, admito o habeas corpus.
+    2. No caso dos autos, a apontada ilegalidade pode ser aferida de pronto.
+    Ao disciplinar o procedimento especial de deserção de praça, prescreveu o Código de Processo Penal Militar:
+    “Art. 457. Recebidos do comandante da unidade, ou da autoridade competente, o termo de deserção e a cópia do boletim, ou documento equivalente que o publicou, acompanhados dos demais atos lavrados e dos assentamentos, o Juiz-Auditor mandará autuá-los e dar vista do processo, por cinco dias, ao procurador, que requererá o que for de direito, aguardando-se a captura ou apresentação voluntária do desertor, se nenhuma formalidade tiver sido omitida, ou após o cumprimento das diligências requeridas.
+      Inspeção de saúde
+      § 1º O desertor sem estabilidade que se apresentar ou for capturado deverá ser submetido à inspeção de saúde e, quando julgado apto para o serviço militar, será reincluído.
+      § 2º A ata de inspeção de saúde será remetida, com urgência, à auditoria a que tiverem sido distribuídos os autos, para que, em caso de incapacidade definitiva, seja o desertor sem estabilidade isento da reinclusão e do processo, sendo os autos arquivados, após o pronunciamento do representante do Ministério Público Militar.”
+    Como se vê, na hipótese do crime de deserção, a incapacidade definitiva obsta a instauração da ação penal, de modo que é compreendida como condição negativa de procedibilidade.
+    Diante da opção legislativa explícita direcionada à desnecessidade de processamento, o STF tem dado interpretação para o fim de alcançar ações penais em curso ou já solucionadas, razão pela qual parte da doutrina afirma que se trata de condição de prosseguibilidade da ação penal. Na mesma linha:
+    “A jurisprudência desta Corte se consolidou no sentido de que a qualidade de militar é elemento estrutural do tipo penal de deserção, de modo que a ausência de tal requisito impede o processamento do feito. Precedentes.” (HC 115.754, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 19.03.2013)
+    “Paciente condenado pela prática do crime de deserção, que foi licenciado a bem da disciplina, não mais ostentando a qualidade de militar. Ausente, pois, condição de procedibilidade para o prosseguimento da ação e, por conseguinte, para a execução da pena imposta pelo crime de deserção. Precedentes.” (HC 108.197, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 13.12.2011)
+    “Com o reconhecimento da incapacidade preexistente à condenação, e tendo em vista que a condição de militar é requisito para o exercício da pretensão punitiva em relação ao crime de deserção, nos termos do art. 457, § 2º do CPPM, não há justa causa para a execução.” (HC 90.672, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, julgado em 03.02.2009)
+    “Em razão da ausência de condição de procedibilidade, o art. 457, § 2º, do Código de Processo Penal Militar e a Súmula n. 8 do Superior Tribunal Militar impedem a execução da pena imposta ao réu incapaz para o serviço ativo do Exército, que não detinha a condição de militar no ato de julgamento do recurso de apelação.” (HC 90.838, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 14.10.2008)
+    Portanto, tendo em conta que o paciente foi considerado incapaz definitivamente para o exercício do serviço militar, o prosseguimento da ação penal não se afigura possível.
+    Posto isso, com fulcro no art. 192 do RISTF, concedo a ordem para o fim de determinar o trancamento da ação penal em curso.
+    Comunique-se à autoridade coatora.
+    Publique-se. Intimem-se.
+    Brasília, 15 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
