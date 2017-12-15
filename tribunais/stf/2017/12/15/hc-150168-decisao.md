@@ -1,0 +1,33 @@
+Decisão: Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que, no HC 396.052/PR, não conheceu o habeas corpus, mas concedeu a ordem de ofício para anular o acórdão proferido nos autos do HC 1.664.916-0 e determinar que o Tribunal a quo aprecie as questões ali deduzidas.
+    Narra o impetrante que: a) o paciente foi condenado pela prática do delito do art. 121, §2º, do CP, à pena de 13 (treze) anos de reclusão, em regime inicial fechado; b) o Juízo da Execução homologou falta disciplinar de natureza grave em decorrência de ter sido encontrado um aparelho celular no interior da unidade prisional em que o paciente cumpre pena; c) o TJPR não conheceu do writ por ser substitutivo de recurso de agravo em execução; d) o procedimento administrativo disciplinar está maculado por nulidades, pois o paciente não foi assistido por advogado e não restaram comprovadas a autoria e a materialidade da conduta.
+    À vista dos argumentos, pugna pela concessão da ordem a fim de seja reformada a decisão do Juízo da Execução.
+    É o relatório. Decido.
+    1.1. Cabimento do habeas corpus:
+    Não se inaugura a competência deste Supremo nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental. Precedentes:
+    “Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição, à falta de manejo de agravo regimental ao Colegiado, não se esgotou.”(HC 123.926, Rel. Min. ROSA WEBER, Primeira Turma, julgado em 14.04.2015, grifei)
+    “Inexistindo deliberação colegiada do Superior Tribunal de Justiça a respeito da questão de fundo suscitada pelo impetrante, não compete ao Supremo Tribunal Federal analisá-la originariamente, sob pena de indevida supressão de instância.” (HC 124.561-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 10.02.2015, grifei)
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que funciona como substitutivo de agravo regimental, cabível no âmbito do STJ.
+    2. Possibilidade de concessão da ordem de ofício:
+    Ainda que ausentes hipóteses de conhecimento, a Corte tem admitido, excepcionalmente, a concessão da ordem de ofício.
+    Calha enfatizar que tal providência tem sido tomada tão somente em casos absolutamente aberrantes e teratológicos, em que “a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF” (HC 95.009, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 06.11.2008, grifei).
+    Devido ao caráter excepcional da superação do verbete sumular, a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações. Nesse sentido, não pode ser atribuída a pecha de flagrante à ilegalidade cujo reconhecimento demande dispendioso cotejamento dos autos ou, pior, que desafie a complementação do caderno processual por meio da coleta de elementos externos.
+    Como reforço, cumpre assinalar que o Código de Processo Penal, ao permitir que as autoridades judiciárias concedam a ordem de ofício em habeas corpus, apenas o fez quanto aos processos que já lhes são submetidos à apreciação:
+    “Art. 654. (…)
+    (…)
+    § 2o Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal.”
+    De tal modo, ao meu sentir, não se admite que o processo tenha como nascedouro, pura e simplesmente, a alegada pretensão de atuação ex officio de Juiz ou Tribunal, mormente quando tal proceder se encontra em desconformidade com as regras de competência delineadas na Constituição da República. Em outras palavras: somente se cogita da expedição da ordem de ofício nas hipóteses em que não se desbordar da competência do órgão, de modo que essa não pode ser a finalidade precípua da impetração.
+    3. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+    No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Conforme relatado, o paciente impetrou habeas corpus perante o TJPR, que não conheceu da ação por ser substitutivo de recurso próprio. Dessa decisão, a defesa impetrou habeas corpus ao STJ, autuado como HC 396.052/PR.
+    O Ministro Relator, por sua vez, não conheceu do writ, mas concedeu a ordem de ofício para anular o acórdão proferido nos autos do Habeas Corpus 1.664.916-0, determinando sejam apreciadas pelo Tribunal a quo, como entender de direito, as questões ali deduzidas.
+    Em que pese a defesa impetrar habeas corpus em face de decisão monocrática proferida no STJ, não teceu qualquer consideração sobre possível ilegalidade na referida decisão. O impetrante pretende, na verdade, a revisão direta por esta Suprema Corte da decisão do Juízo da Execução.
+    Contudo, o não enfrentamento pelo Superior Tribunal de Justiça das supostas nulidades no procedimento administrativo disciplinar impede o conhecimento originário por esta Corte, sob pena de configurar supressão de instância. Com efeito, o Supremo não detém competência para revisar, em habeas corpus e diretamente, atos jurisdicionais emanados das instâncias ordinárias:
+    “Inviável o exame das teses defensivas não analisada pelo Superior Tribunal de Justiça e pela Corte Estadual, sob pena de indevida supressão de instâncias. Precedentes.” (RHC 135.560 AgR, Relatora Rosa Weber, Primeira Turma, julgado em 21.10.2016)
+    “A inexistência de manifestação do STJ sobre o mérito da impetração impede o exame da matéria por esta Corte, sob pena de incorrer-se em indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal.” (HC 135.949, Relator Ricardo Lewandowski, Segunda Turma, julgado em 04.10.2016)
+    “A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante a Corte Superior.” (HC 130.375 AgR, Relator Luiz Fux, Primeira Turma, julgado em 13.09.2016).
+    4. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 15 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
