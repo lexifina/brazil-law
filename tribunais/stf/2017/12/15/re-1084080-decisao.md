@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 8, p. 146):
+    “TRIBUTÁRIO. IRPJ. CSLL. INCIDÊNCIA. TAXA SELIC. TRIBUTOS PAGOS INDEVIDAMENTE E RESTITUÍDOS EM AÇÃO JUDICIAL. IMPOSSIBILIDADE. COMPENSAÇÃO.
+    1. As verbas auferidas a título de SELIC aplicada a tributos pagos e que foram ou que forem reconhecidos como indevidos em ações judiciais não constituem renda, acréscimo de capital ou lucro a fazer incidir imposto ou contribuição. A correção monetária visa tão-somente a preservar o poder de compra da moeda e os juros moratórios objetivam ressarcir o contribuinte que teve a indisponibilidade de parte de seu capital temporariamente tolhida para suspender a exigibilidade de tributos que, ao final de processo judicial, foram declarados ilegítimos pelo Poder Judiciário.
+    2. A compensação deverá ser efetuada após o trânsito em julgado da decisão (art. 170-A do CTN), na forma do disposto no art. 74 da Lei n.º 9.430/96 e alterações posteriores.
+    3. A atualização monetária do indébito incide desde a data do pagamento indevido do tributo, nos termos da Súmula n.º 162 do STJ, até a sua efetiva restituição ou compensação, mediante a aplicação da taxa SELIC, a qual engloba juros e correção monetária.”
+    De plano, verifica-se que a controvérsia cinge-se ao Tema 962 da sistemática da repercussão geral, cujo recurso-paradigma é o RE 1.063.187 RG, de relatoria do Ministro Dias Toffoli, DJe 22.09.2017, assim ementado:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TRIBUTÁRIO. IRPJ. CSLL. JUROS DE MORA. TAXA SELIC. REPETIÇÃO DO INDÉBITO. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI FEDERAL POR TRIBUNAL REGIONAL FEDERAL. A interposição do recurso extraordinário com fundamento no art. 102, III, b, da Constituição Federal, em razão do reconhecimento da inconstitucionalidade do art. 3º, § 1º, da Lei nº 7.713/1988, do art. 17 do Decreto-Lei nº 1.598/1977 e do art. 43, II, § 1º, do CTN por tribunal regional federal constitui circunstância nova suficiente para justificar, agora, seu caráter constitucional e o reconhecimento da repercussão geral da matéria relativa a incidência do imposto de renda das pessoas jurídicas (IRPJ) e da contribuição social sobre o lucro líquido (CSLL) sobre a taxa SELIC na repetição do indébito.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 15 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
