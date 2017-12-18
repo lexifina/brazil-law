@@ -1,0 +1,28 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO - AGRAVO RETIDO REJEITADO - AÇÃO DE INDENIZAÇÃO - MAGISTRADO QUE REQUISITA A DELEGADO DE POLÍCIA PROVIDÊNCIAS QUE FOGEM DA SUA COMPETÊNCIA JURISDICIONAL - IMPOSSIBILIDADE DE FIXAÇÃO DE NORMAS COMPORTAMENTAIS - MISSIVA QUE RESPONDE A TAIS QUESTIONAMENTOS, ATENDO-SE AO TEOR DO OFÍCIO JUDICIAL - AUSÊNCIA DE PROVA DE DIVULGAÇÃO DO FATO A TERCEIROS - INEXISTÊNCIA DE DANO MORAL INDENIZÁVEL - RECURSO DO REQUERIDO PROVIDO - APELO DO AUTOR PREJUDICADO.
+    Não ocorre a prescrição se a ação foi intentada dentro do prazo previsto no art. 206, § 3°, V, CC/2002, aplicado por força do artigo 2.028 do mesmo Código.
+    Não compete ao magistrado requisitar a adoção de normas de natureza comportamental da autoridade policial, tampouco exigir providências que não sejam de sua competência jurisdicional.
+    Eventual falha na atuação de Delegado de Polícia deve ser comunicada ao órgão fiscalizador competente para adoção das medidas disciplinares porventura cabíveis.
+    A missiva que reponde pontualmente as requisições infundadas que lhe foram dirigidas não causa dano moral, diante da inexistência de prova de que a divulgação do seu conteúdo tenha sido realizada pelo requerido” (págs. 74-75 do documento eletrônico 4) .
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação aos art. 5°, V e X, da mesma Carta, sob o argumento de que o acórdão recorrido distanciou-se dos fatos dos autos, pois a ocorrência do dano moral foi devidamente demonstrada.
+    A pretensão recursal não merece acolhida.
+    O tribunal de origem, com apoio no acervo probatório dos autos, afastou a alegada ocorrência de dano moral sob os seguintes fundamentos:
+    “[...]
+    A sentença partiu do princípio de que o apelante deu ampla divulgação do teor da carta encaminhada ao magistrado, em resposta à missiva anterior que lhe foi endereçada.
+    Todavia, tal divulgação não restou comprovada nos autos, haja vista que nenhuma das testemunhas inquiridas efetivamente recebeu qualquer cópia da carta subscrita pelo recorrente.
+    A testemunha Iosmar Martins de Souza (fi. 262), assessor de gabinete do autor, afirma que ficou sabendo por terceiros da existência da carta.
+    Já Anísio Gomes da Silva (fi. 293), que era Comandante da Polícia Militar de São José dos Quatro Marcos à época dos fatos, não recebeu a sobredita missiva, apenas tendo ‘ouvido falar’ dela.
+    Paulo Guilherme da Silva (fi. 294), advogado da prefeitura municipal, por sua vez, igualmente não recebeu a carta, apenas ‘tomou conhecimento’ da sua existência, que teria sido encaminhada para ‘as pessoas de maior influência na cidade’.
+    Nenhuma das testemunhas, no entanto, sequer indicou uma única ‘autoridade’ que a tenha comprovadamente recebido a carta redigida pelo recorrente.
+    Aliás, o autor não indicou uma única testemunha que tenha tido acesso à carta do requerido, limitando-se a arrolar pessoas que tiveram conhecimento por ‘ouvir dizer’ e por ‘comentários na cidade’.
+    Não se pode afirmar, dessa forma, de que tal divulgação tenha efetivamente sido realizada pelo apelante.
+    No que tange às reportagens publicadas no jornal ‘A Gazeta’, o requerido afirmou categoricamente que não concedeu tais entrevistas, cabendo ao autor o ônus de demonstrar que a fonte de tais informações tenha sido realmente o apelante.
+    Ademais, nesse caso, se algum dano foi provocado pelas mencionadas publicações ao recorrido, a responsabilidade deve ser atribuída ao periódico que as fez circular, e não ao apelante, que afirmou não ter concedido tais entrevistas”.
+    Assim, para divergir desse entendimento e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco os seguintes julgados desta Corte:
+    “Ementa: DIREITO CIVIL E TRABALHO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. NOTÍCIA PUBLICADA EM JORNAL. DANO MORAL INDENIZÁVEL. SÚMULA 279/STF. 1. Hipótese em que a resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. Precedentes. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015”(ARE 995.629-AgR/AM, Rel. Min. Roberto Barroso).
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. Negativa de prestação jurisdicional. Não ocorrência. Civil. Indenização. Dano moral. Divulgação de matéria jornalística. Ato ilícito. Demonstração. Não ocorrência. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. O Tribunal de origem concluiu, com base nos fatos e nas provas dos autos, que os agravados não abusaram do direito de expressão ao veicular reportagem jornalística envolvendo a agravante, razão pela qual não teria ficado demonstrado nos autos o ato ilícito apto a ensejar reparação. 3. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279 desta Corte. 4. Agravo regimental não provido” (ARE 668.066-AgR/SP, Rel. Min. Dias Toffoli).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
