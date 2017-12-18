@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto em face de acórdão que afastou a ocorrência de decadência do direito à revisão de benefício previdenciário.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação do art. 5°, XXXVI, da mesma Carta.
+    Defende-se, em suma, que a despeito da superveniência da MP 201/2004 (convertida na Lei 10.999/2004), incide, na espécie, o prazo decadencial previsto no artigo 103 da Lei 8.213/1991, que fixa como termo inicial para sua contagem a data do início do benefício, de modo que fatos posteriores, ainda que se trate da edição de uma lei, não podem determinar a suspensão ou interrupção do prazo decadencial em curso para revisão de benefício previdenciário.
+    A pretensão recursal não merece acolhida.
+    Para dissentir do acórdão impugnado, quanto à não caracterização da decadência na espécie, seria necessário a interpretação das normas infraconstitucionais aplicáveis à espécie (art. 103 da Lei 8.213/1991, art. 2º da MP 201/2004, Lei 10.999/2004 e art. 207 do Código Civil), sendo certo que eventual ofensa à Constituição, se existente, seria apenas indireta.
+    Incabível, dessa forma, o recurso extraordinário, a exemplo do que decidido no julgamento do ARE 685.033 AgR/RS, Rel. Min. LUIZ FUX, Primeira Turma, com a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DECADÊNCIA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LEI Nº 9.528/97. OFENSA REFLEXA. PRECEDENTE. 1. A decadência, quando controversa sua incidência, demanda a análise da legislação infraconstitucional, o que acarreta uma violação reflexa e oblíqua da Constituição Federal e torna inadmissível o recurso extraordinário. Precedente: AI Nº 708.897-AgR, Relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 20/11/2012. 2. In casu, o acórdão recorrido negou provimento ao recurso inominado, mantendo a sentença por seus próprios fundamentos, que julgou improcedente o pedido de revisão de benefício previdenciário, acolhendo a arguição de decadência. 3. Agravo regimental DESPROVIDO.”
+    Registre-se, por fim, que a Corte, ao julgar o RE 626.489 RG/SE, de relatoria do min. Roberto Barroso, submetido à sistemática da repercussão geral, fixou a seguinte tese quanto ao tema 313 (relativo à aplicação do prazo decadencial previsto na Medida Provisória nº 1.523/97 a benefícios concedidos antes da sua edição):
+    “I – Inexiste prazo decadencial para a concessão inicial do benefício previdenciário; II – Aplica-se o prazo decadencial de dez anos para a revisão de benefícios concedidos, inclusive os anteriores ao advento da Medida Provisória 1.523/1997, hipótese em que a contagem do prazo deve iniciar-se em 1º de agosto de 1997.”
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
