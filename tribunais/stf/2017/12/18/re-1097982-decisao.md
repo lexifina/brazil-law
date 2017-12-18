@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto em face de acórdão que afastou da incidência do teto remuneratório sobre quantia recebida a título de serviço extraordinário.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação do art. 37, XI, da mesma Carta e art. 17 do ADCT.
+    Apesar de remetidos os autos à origem, por força do art. 543-B do CPC/1973 (pág. 239, do documento eletrônico 1), o tribunal local não se retratou, por entender que a hipótese não guardaria identidade com a questão jurídica decidida no julgamento do RE 606.358-RG/SP, de relatoria da Min. Ellen Gracie.
+    Diante da negativa de retratação, os autos foram devolvido a esta Suprema Corte (pág. 256 do documento eletrônico 1).
+    A pretensão recursal não merece acolhida.
+    O Tribunal a quo, em razão da natureza indenizatória das verbas em debate, entendeu ser indevida a incidência do teto constitucional na espécie. Consta do voto condutor do acórdão impugnado:
+    “[...] Bem ressalta o douto Magistrado: ‘A própria justificação da retenção dos vencimentos, no hollerit, está expressa como saldo a pagar, a traduzir reconhecimento por parte da Administração do dever de solver a quantia retida. Fosse o caso de aplicação da mencionada limitação constitucional, nada mais haveria a ser solvido.’ (fls. 125). E, adiante, salienta o alcance da expressão ‘remuneração’ encontrada no inciso XI do artigo 37 da Constituição Federal, como ‘vencimento acrescido das vantagens pecuniárias permanentes e inerentes ao próprio cargo, excluídas aquelas de natureza transitória ou decorrente de situação funcional pessoal do servidor. A aludida diferença de plantão extra, constituiu vantagem de natureza nitidamente transitória, eis que se refere a contraprestação de serviço extraordinário, razão pela qual não deve ser incluída no cálculo para obtenção do limite salarial’ (fls. 126).
+    A redução determinada pela ré de fato não encontra amparo no referido texto constitucional, de modo que ilegal foi o desconto realizado nos vencimentos do autor.” (pág. 162 do documento eletrônico 1).
+    Para dissentir do acórdão impugnado, e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário a verificação da natureza jurídica das verbas pleiteadas — devidas em razão da realização de serviço extraordinário pelo recorrido —, o que exigiria a interpretação da legislação infraconstitucional pertinente e o reexame dos fatos e das provas dos autos, circunstância vedada pela Súmula 279 desta Corte, sendo certo, ademais, que eventual ofensa à Constituição, se existente, seria apenas indireta.
+    Incabível, dessa forma, o recurso extraordinário, a exemplo do que decidido no julgamento do ARE 896.630 AgR/ES, de relatoria da Min. Cármen Lúcia, Segunda Turma, com a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. TETO REMUNERATÓRIO. HORAS EXTRAS. NATUREZA JURÍDICA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
