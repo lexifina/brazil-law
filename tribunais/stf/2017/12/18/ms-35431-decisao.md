@@ -1,0 +1,17 @@
+Decisão: Trata-se de mandado de segurança preventivo, com pedido de liminar, impetrado pela Confederação Nacional das Carreiras Típicas de Estado – CONACATE, em favor dos seus diretores e membros associados, contra atos recentemente praticados pelo Presidente da Câmara dos Deputados, autoridade apontada como coatora.
+    Afirma ser de conhecimento público a proibição de acesso dos cidadãos às sessões da Câmara dos Deputados que visam discutir e deliberar sobre a Reforma da Previdência. Nesse sentido, aponta que entre os dias 6 a 10 de maio do presente ano, “a Câmara dos Deputados restringiu acesso às suas dependências ao público externo, quando da sessão que tinha como tema a Reforma da Previdência. Na oportunidade permitiu que somente os parlamentares, funcionários e pessoas credenciadas transitassem pelas dependências do prédio.” (eDOC 1, p.4)
+    Sustenta que a negativa de acesso dos cidadãos às dependências da Câmara dos Deputados agride “mortalmente” o ordenamento jurídico pátrio, o estado democrático de direito, bem como a jurisprudência e a doutrina, além de contrariar o art. 69 do Regimento Interno daquela Casa Legislativa que prevê, como regra, o caráter público das suas sessões.
+    Diante da argumentação expendida, entende estar presente o fumus boni iuris. Do mesmo modo, ante a proximidade da votação da Reforma da Previdência pela Câmara dos Deputados e da possibilidade de perda de objeto do presente writ, entende demonstrado o periculum in mora.
+    Requer, em sede liminar, que seja franqueado o acesso da Impetrante, seus diretores e membros associados à sessão relativa à Reforma da Previdência.
+    No mérito, requer a ratificação da liminar eventualmente concedida.
+    É o relatório.
+    Preliminarmente, tenho como não preenchidos os pressupostos de admissibilidade do mandado de segurança.
+    Por mais relevante que seja a controvérsia trazida a este Tribunal, cumpre assinalar que, nos termos do disposto no inciso LXIX, do art. 5º, da Constituição Federal, o mandado de segurança tem cabimento subsidiário na medida em que sua concessão somente se dará nas hipóteses em que o alegado direito líquido e certo não for amparado por habeas corpus ou habeas data.
+    In casu, o direito de acesso às dependências da Câmara dos Deputados compreende o direito dos cidadãos de ir, vir e permanecer e, nesse sentido, o habeas corpus é o remédio constitucional que, por excelência, visa sanar a referida ilegalidade ou abuso de poder.
+    Dessa forma, em diversos processos com fundamentação idêntica ao presente writ, tenho entendido pelo cabimento do habeas corpus e pela concessão da medida liminar visando assegurar o acesso aos setores da Câmara dos Deputados destinados aos cidadãos nos dias em que for designada a deliberação da PEC 287/2016, que trata da Reforma da Previdência. Confira-se com o habeas corpus nº 143.649-MC, DJe 11.05.2017, impetrado pelo Sindicato dos Servidores do Poder Legislativo Federal e do Tribunal de Contas da União – SINDLEGIS e HC nº 143.754, DJe 22.05.2017, impetrado em favor dos membros da Federação Nacional dos Trabalhadores do Judiciário Federal e do Ministério Público da União FENAJUFE.
+    Ante o exposto, diante do não preenchimento do requisito da subsidiariedade, deixo de conhecer do presente mandado de segurança.
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
