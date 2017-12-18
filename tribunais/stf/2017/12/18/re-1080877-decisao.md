@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. A Turma Recursal, modificando o entendimento do Juízo, julgou improcedente o pedido de reintegração ao cargo público. No extraordinário, o recorrente alega violados os artigos 37, inciso XVI, alíneas “a”, “b”, e “c” e § 10, e 41, § 1º, inciso II, da Constituição Federal. Afirma o direito à permanência no cargo e o percebimento cumulativo de proventos e remuneração.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis os fundamentos da decisão recorrida:
+    Tenho, assim, quando a lei municipal prever que um dos casos de vacância é a aposentadoria, como é o caso do Município de Capão de Leão, como aponta o nobre Magistrado sentenciante nas razões do decisum, independe se este município tenha Regime Próprio de Previdência Social ou se não tem e seus funcionários são aposentados pelo Regime Geral.
+    Caso não seja essa a interpretação, estar-se-á criando dois tipos distintos de municípios: os que têm Regime Próprio de Previdência Social e os que não têm: para os que têm, a aposentadoria seria forma de vacância no cargo, considerando a vedação constitucional de acumulação; e para os que não têm, independentemente do que diga a Lei Orgânica Municipal, o vínculo não estaria extinto.
+    Ora, permanecer com servidores aposentados pode não atender as necessidade municipais e, assim, ao conferir-se tal interpretação, estar-se-ia forçando os entes municipais à feitura de regime próprio o que, notadamente, pelo tamanho e receita de alguns municípios, pode não ser conveniente e, no mais das vezes, extremamente complexa a manutenção pela ausência necessária de fonte de custeio.
+    No caso do Município de Capão do Leão, o Estatuto dos Funcionários Municipais prevê que a vacância se dará com a aposentadoria no cargo, ou seja, que um dos casos de vacância do cargo é a aposentadoria do titular neste.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Nego seguimento ao extraordinário. Deixo de majorar os honorários previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto ausente fixação de verba sucumbencial na origem.
+    4. Publiquem.
+Brasília, 18 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
