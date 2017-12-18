@@ -1,0 +1,31 @@
+Decisão:
+Ementa: Processual Penal. Habeas Corpus. Alegação de demora no STJ. Prisão preventiva. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 411.672, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi denunciado pelo crime previsto no artigo 317, §1º, do Código Penal. Em 10.05.2017, o Juízo de origem decretou prisão preventiva do acusado.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado da Bahia. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 411.672, Ministro Rogerio Schietti Cruz, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta o excesso de prazo para o julgamento do mérito da impetração formalizada no Superior Tribunal de Justiça. Alega, ainda, a ausência de fundamentação idônea para a decretação da custódia cautelar.
+    5. Com essa argumentação, requer a concessão da ordem a fim de revogar a prisão processual do paciente. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    Decido.
+    6. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação da Súmula 691/STF.
+    8. De início, ressalto que ambas as Turmas deste Supremo Tribunal Federal têm precedentes admitindo, em determinadas hipóteses, a possibilidade de se caracterizar a ocorrência de constrangimento ilegal pela demora excessiva no julgamento de habeas corpus pelos tribunais de origem. Tal possibilidade fica reforçada pela explicitação, feita pela Emenda Constitucional nº 45/2004, do direito fundamental à razoável duração do processo. Nesse sentido, a título de exemplo, destaco o HC 110.367, julgado sob a relatoria da Ministra Cármen Lúcia.
+    9. No caso dos autos, contudo, a página oficial do Superior Tribunal de Justiça na internet não evidencia desídia que justifique a concessão do pedido. O HC 411.672 foi autuado naquele Tribunal em 14.08.2017 e prontamente distribuído ao Ministro Rogerio Schietti Cruz. A liminar foi indeferida em 18.08.2017. O feito encontra-se concluso ao relator, com parecer da Procuradoria-Geral da República. De modo que não vejo ilegalidade flagrante ou abuso de poder que justifique o acolhimento da pretensão defensiva.
+    10. Quanto ao mais, as peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a imediata revogação da prisão do paciente. Transcrevo, nesse sentido, as seguintes passagens do decreto prisional:
+    “(...)
+    No que concerne ao decreto de prisão preventiva, a esse respeito assim já se pronunciou o Supremo Tribunal Federal: "Não é necessária a mesma certeza que deve ter o juiz para a condenação do réu" (STF, RTJ 64/77).
+    Ante a gravidade dos crimes atribuídos aos Investigados, no exercício de cargos públicos, e para impedir que venham eles de qualquer modo embaraçar ou por em risco a investigação policial e a instrução criminal é que se faz imperiosa a aplicação desta medida extrema, cujo fito é desenvolver convenientemente a instrução criminal e assegurar a aplicação da lei penal, bem como garantir a ordem pública.
+    O Estado deve ter assegurada a garantia de aplicação da lei penal com a medida extrema de restrição da liberdade individual, se necessário.
+    Da leitura deste dispositivo observa-se que nas hipóteses em que houver prova da existência do crime e indícios suficientes de autoria, aliados a qualquer das demais condições previstas no artigo em comento (garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal, ou para assegurar a aplicação da lei penal), poderá o juiz decretar a prisão preventiva.
+    Estão presentes neste IP N° 30/2016 os requisitos ensejadores da custódia cautelar, vez que a prova da materialidade delitiva e os indícios de autoria, aliados a um infindável elenco de crimes noticiados pela autoridade policial correcional e ainda pendente de investigações para descoberta de outros mais.
+    Dito isso, resta saber se alguma das circunstâncias anteriormente citadas (garantia da ordem pública ou econômica, conveniência da instrução criminal, ou assegurar a aplicação da lei penal) se faz presente, já que, em caso afirmativo, forçoso será admitir a ocorrência dos requisitos consubstanciadores do decreto cautelar.
+    Em verdade, tenho que há indícios suficientes de autoria e materialidade dos crimes, ante o que já foi coligido nos autos como provas das infrações penais, por conveniência da instrução criminal, para assegurar a aplicação da lei penal e ainda garantia da ordem pública, salientando que um deles - JEREMIAS - estaria vendendo para dois ciganos, para destruição, um Inquérito policial de homicídio.
+    (…)
+    Há, ainda, que se resguardar a credibilidade da Justiça, devendo ser evitada a liberdade, sendo necessário o asseguramento da medida, principalmente nos tempos atuais em que a confiança no Poder Judiciário resta ameaçada, tornando-se imperiosa uma maior reprimenda por parte do Judiciário, do contrário sua credibilidade restará ameaçada, especialmente quando os crimes brotam do seio da Polícia Judiciária.
+    (...)Assim, em virtude dos motivos acima explanados, das circunstâncias dos fatos e da gravidade dos crimes que teriam convertido a Delegacia Territorial de Polícia Civil do Município de Carinhanha, na gestão do Delegado NILO EBRAHIM, num ambiente onde se praticava crimes quando o correto seria o extremo oposto, ou seja, o combate à criminalidade, é que se impõe a decretação da medida extrema.
+    (...)”.
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
