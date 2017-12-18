@@ -1,0 +1,40 @@
+DECISÃO: Trata-se de reclamação, com pedido de liminar, em face de decisão proferida pelo Tribunal Superior do Trabalho que negou provimento a agravo interposto contra negativa de seguimento de recurso extraordinário em razão da subsunção da matéria discutida a tema de repercussão geral não reconhecida por este Supremo Tribunal Federal.
+    Na reclamação, alega-se que o Tribunal a quo usurpou a competência desta Corte para análise do recurso extraordinário, bem como em razão da incorreta aplicação dos Temas 219, 660 e 662 de repercussão geral fixados por esta Corte.
+    Dispenso as informações, assim como a remessa à Procuradoria-Geral da República (art. 52, parágrafo único, do RISTF), por entender que o processo está suficientemente instruído e em condições de julgamento.
+    É o relatório. Decido.
+    Inviável a Reclamação.
+    A alegada usurpação de competência não se configura, haja vista que a aplicação da sistemática da repercussão geral é atribuição das Cortes ordinárias nos termos do art. 1.030 do Código de Processo Civil, de modo que não apresenta cabível o manejo de reclamação por este fundamento.
+    Quanto ao argumento de má aplicação dos Temas 219, 660 e 662 da sistemática da repercussão geral, melhor sorte não socorre à Reclamante. Verifica-se que a decisão reclamada assim registrou:
+    O recurso extraordinário interposto teve seguimento denegado, consoante os seguintes fundamentos adotados na decisão agravada:
+    Trata-se de recurso extraordinário interposto contra acórdão deste Tribunal que negou provimento ao agravo em todos os seus temas e desdobramentos.
+    A recorrente suscita preliminar de repercussão geral, apontando violação aos dispositivos constitucionais que especifica nas razões de recurso (arts. 5º, XXXVI, e 202, § 2º, da Constituição da República). Sustenta que a decisão agravada, ao chancelar a revisão/inclusão de cláusula não prevista numa transação lícita e editada sob a égide das normas vigentes à época, ofendeu o direito constitucional à segurança jurídica assegurado pela intangibilidade do ato jurídico perfeito. Aduz que a autonomia da relação de previdência privada complementar afasta a aplicação da regra prevista no artigo 468 da CLT.
+    É o relatório.
+    Decido.
+    Consta do acórdão recorrido:
+    “AGRAVO – INCLUSÃO DA PARCELA CTVA – REGRAS DE SALDAMENTO DO PLANO REG/REPLAN – ADESÃO A NOVO PLANO - EFEITOS A decisão agravada foi proferida em observância aos arts. 896, § 5º, da CLT e 557, caput, do CPC, razão pela qual é insuscetível de reforma ou reconsideração. Agravo a que se nega provimento.”.
+    O Supremo Tribunal Federal tem entendimento pacífico no sentido de que não cabe recurso extraordinário, por ausência de repercussão geral, em matéria de direito adquirido ao recebimento de complementação de aposentadoria calculada de acordo com as normas vigentes à época da adesão a contrato de plano de previdência privada.
+    Tal entendimento foi consagrado no ARE 742.083, da relatoria do Min. Ricardo Lewandowski, no qual a Corte Suprema firmou a tese de que não há repercussão geral em relação ao “Tema 662” do ementário temático de Repercussão Geral do STF, hipótese dos autos.
+    Ademais, quanto à alegada violação ao artigo 5º, XXXVI, da CF, há de se destacar que na controvérsia não há repercussão geral, segundo o “Tema 660” do ementário do STF que tem como precedente o ARE 748.371, da relatoria do Ministro Gilmar Mendes, com o trânsito em julgado em 06/08/2013 - "Violação dos princípios do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais. Extensão do entendimento ao princípio do devido processo legal e aos limites da coisa julgada"
+    Logo, versando o acórdão recorrido sobre questão atinente a tema cuja repercussão geral foi negada pelo Supremo Tribunal Federal, a interposição de recurso extraordinário para reexame deste ponto da decisão é manifestamente inviável, a teor do que dispunha o art. 543-A, § 5º, do CPC/1973 (atual art. 1.030, I, “a”, do CPC).
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Inconformada, a Agravante sustenta a existência de repercussão geral da matéria constitucional apresentada no recurso extraordinário, hábil a autorizar o processamento do apelo.
+    Sem razão, contudo.
+    Ressalto, inicialmente, que não se cogita de contrariedade à Súmula nº 727 do STF, pois, na esteira do julgamento do Pleno da Suprema Corte no AI 760.358/SE (Relator Ministro Gilmar Mendes), a decisão em que aplicado precedente de repercussão geral desafia agravo interno para a Corte de origem. Tal orientação foi consolidada no CPC vigente (artigo 1.030, § 2º).
+    O Supremo Tribunal Federal, ao examinar o Recurso Extraordinário com Agravo nº 742.083/DF, concluiu que não há questão constitucional com repercussão geral relativa ao direito adquirido ao recebimento de complementação de aposentadoria calculado de acordo com as normas vigentes à época da adesão a contrato de previdência complementar (Tema 662).
+    Transcrevo o teor da ementa do referido julgado:
+    Ementa: PREVIDENCIÁRIO. DIREITO ADQUIRIDO AO RECEBIMENTO DE COMPLEMENTAÇÃO DE BENEFÍCIO DE ACORDO COM AS REGRAS VIGENTES NO PERÍODO DE ADESÃO AO PLANO DE PREVIDÊNCIA PRIVADA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. (ARE 742083 RG, Relator: Min. RICARDO LEWANDOWSKI, PROCESSO ELETRÔNICO DJe-125 DIVULG 28-06-2013 PUBLIC 01-07-2013)
+    Infere-se que, no acórdão recorrido, a condenação em diferenças de complementação de aposentadoria, está calcada no fundamento de que, à época em que calculada parcela decorrente de adesão do novo plano instituído pela parte Agravante, não se considerou a integração de determinada parcela salarial que, por força do regulamento anterior, deveria integrar o suplemento de aposentadoria.
+    Com efeito, a discussão no presente caso está restrita à interpretação da legislação infraconstitucional e as cláusulas contratuais da parte Reclamada, razão pela qual, efetivamente, incide o precedente de repercussão geral supracitado.
+    Ademais, a Suprema Corte rejeitou a repercussão geral da suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal quando o julgamento da causa depende de prévia análise da adequada aplicação das normas infraconstitucionais (Tema 660).
+    Eis o teor da ementa:
+    Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral. (ARE 748371 RG, Relator: Min. Gilmar Mendes, DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013 )
+    Nesse sentir, ficam mantidos os fundamentos adotados pela decisão agravada, restando verificado, ainda, o caráter infundado do presente agravo, aplicando-se a multa prevista no § 4º do artigo 1.021 do atual CPC.
+    Pelo exposto, nego provimento ao agravo, condenando a Agravante ao pagamento de multa a favor da parte contrária, no importe de 5% do valor atualizado da causa, equivalente a R$ 1.329,86 (mil trezentos e vinte nove reais e oitenta e seis centavos), na forma do artigo 1.021, § 4º, do atual CPC.
+    Apartando-me da controvérsia, instaurada nesta Suprema Corte, acerca do cabimento de reclamação para impugnar decisões de Cortes inferiores, no tocante à aplicação dos precedentes firmados por este Tribunal em sede de repercussão geral, da análise dos presentes autos depreendo que as premissas fáticas postas na decisão reclamada inferem a correta aplicação dos Temas 219, 660 e 662, firmados sob a égide da sistemática da repercussão geral.
+    Ante o exposto, com base nos artigos 21, §1º, e 161, parágrafo único, do RISTF, julgo improcedente a reclamação, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
