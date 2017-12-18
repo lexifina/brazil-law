@@ -1,0 +1,25 @@
+Trata-se de agravo contra a parte da decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. PARCELAS RELATIVAS A EXERCÍCIOS ANTERIORES. RECONHECIMENTO DE SABERES E COMPETÊNCIAS - RSC. SENTENÇA DE PROCEDÊNCIA. PRESCRIÇÃO. INOCORRÊNCIA. FALTA DE DOTAÇÃO ORÇAMENTÁRIA. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO ART. 1º-F DA LEI Nº 9.494/97 COM RELAÇÃO À APLICAÇÃO DA TR. RECURSO DA PARTE RÉ DESPROVIDO” (pág. 1 do documento eletrônico 20).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação aos arts. 2°, 5°, XXXVI, 37, caput, 167 e 169, § 1°, I e II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, à exceção do art. 37, caput, os dispositivos constitucionais suscitados pelo recorrente não foram devidamente prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, destaco o RE 750.142-AgR/ES, da relatoria do Min. Edson Fachin:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. JUSTIÇA FEDERAL. SÚMULA 517 DO STF.
+    1. O recurso extraordinário esbarra nos óbices previstos nas Súmulas 282 e 356 do STF, por ausência de prequestionamento e não oposição de embargos declaratórios.
+    2. A competência é da Justiça Federal quando a União intervém como assistente nos casos envolvendo sociedades de economia mista.
+    3. Agravo regimental a que se nega provimento” (grifei).
+    Além disso, este Supremo Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (súmula 636/STF).
+    Ainda que superado esse óbice, o recurso não prosperaria. É que, para dissentir do acórdão recorrido quanto à ausência de dotação orçamentária para o pagamento das parcelas atrasadas reconhecidas administrativamente, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, e da legislação infraconstitucional aplicável ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, destaco as ementas dos seguintes julgados desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Competência do relator da causa para negar seguimento a recurso manifestamente inadmissível. Servidor público. Direito à incorporação de vantagem. Reconhecimento na via administrativa. Pagamento de atrasados. Discussão. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. É competente o relator da causa (art. 544, § 4º, II, alínea b, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal) para, conhecendo do agravo, “negar seguimento ao recurso manifestamente inadmissível, prejudicado ou em confronto com súmula ou jurisprudência dominante no tribunal”.
+    2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido” (ARE 790.210-AgR/RJ, Rel. Min. Dias Toffoli).
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público. Implementação de acréscimo pecuniário. LC nº 432/10 do Estado do Rio Grande do Norte. Discussão quanto à existência de prévia dotação orçamentária. LRF. Ofensa reflexa. Ausência de repercussão geral. Precedentes.
+    1. O recurso extraordinário não se presta para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 636 e 280/STF.
+    2. O Plenário da Corte, no exame do ARE nº 792.107/RN, Relator o Ministro Teori Zavascki, concluiu pela ausência de repercussão geral do tema relativo à possibilidade de o Poder Judiciário determinar o cumprimento de lei complementar estadual que, sem prévia dotação orçamentária, concedeu reajuste salarial a servidores públicos, uma vez que a matéria é de índole infraconstitucional.
+    3. Agravo regimental não provido” (ARE 780.318-AgR/RN, Rel. Min. Dias Toffoli).
+    Em caso análogos aos dos autos, cito, ainda, as decisões: ARE 1.067.002/PB, Rel. Min. Dias Toffoli; ARE 1.066.878/PB e ARE 852.881/PE, Rel. Min. Luiz Fux; ARE 1.066.994/PB, Rel. Min. Celso de Mello; ARE 1.067.187/PB, de minha relatoria; RE 1.026.839/AL e ARE 1.062.028/SC, Rel. Min. Edson Fachin; ARE 931.434/RJ, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2° e § 3°, do CPC.
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
