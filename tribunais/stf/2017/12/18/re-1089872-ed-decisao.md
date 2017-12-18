@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de embargos de declaração opostos contra decisão que negou seguimento ao recurso extraordinário, com base na jurisprudência desta Corte. Destaco os seguintes trechos do referido julgado:
+    “O Tribunal de origem decidiu conforme a jurisprudência desta Corte, no sentido de que é possível aplicação do regime de precatórios às entidades da Administração Indireta prestadoras de serviços públicos essenciais, desde que estas não realizem atividade concorrencial. Confiram-se, a propósito, os seguintes precedentes:
+    ‘Agravo regimental no recurso extraordinário. Constitucional. Sociedade de economia mista. Regime de precatório. Possibilidade. Prestação de serviço público próprio do Estado. Natureza não concorrencial. Precedentes. 1. A jurisprudência da Suprema Corte é no sentido da aplicabilidade do regime de precatório às sociedades de economia mista prestadoras de serviço público próprio do Estado e de natureza não concorrencial. 2. A CASAL, sociedade de economia mista prestadora de serviços de abastecimento de água e saneamento no Estado do Alagoas, presta serviço público primário e em regime de exclusividade, o qual corresponde à própria atuação do estado, haja vista não visar à obtenção de lucro e deter capital social majoritariamente estatal. Precedentes. 3. Agravo regimental não provido” (RE 852.302 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 29.2.2016).
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO EM REGIME NÃO CONCORRENCIAL: APLICABILIDADE DO REGIME DE PRECATÓRIO. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. AGRAVO E RECURSO EXTRAORDIN RIO PROVIDOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO’ (ARE nº 698.357RS-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 4/10/12).
+    Ademais, o acórdão recorrido atestou, conforme as provas dos autos que, além de a companhia exercer atividade concorrencial, também divide os lucros e dividendos entre os acionistas e servidores”. (eDOC 16).
+    Em suas razões, afirma-se que a perseguição de lucro não é um fim primordial da Companhia e que não há concorrência no município em que atua. Aduz-se, ainda, que é uma sociedade de economia mista, de capital exclusivamente público.
+    Alega-se, por fim, que a indisponibilidade de recursos decorrentes de execuções deflagradas em face de sociedades de economia mista que atuam no ramo de saneamento básico, retira-lhes a capacidade de investimento e planejamento no setor. (eDOC 17).
+    Intimada, a parte embargada não apresentou contrarrazões (eDOC 21).
+    É o breve relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC). No presente caso, não se verifica nenhuma dessas hipóteses.
+    Com efeito, os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, não vislumbradas no presente caso.
+    Como já consignado na decisão embargada, o Tribunal de origem decidiu com base no conjunto probatório constante dos autos(verificando que a embargante exerce atividade concorrencial) e de acordo com a jurisprudência desta Corte, no sentido de que é possível aplicação do regime de precatórios apenas às entidades da Administração Indireta prestadoras de serviços públicos essenciais, desde que estas não realizem atividade concorrencial.
+    Nesses termos, inexiste omissão, contradição, obscuridade ou erro material a ser sanada na decisão ora impugnada.
+    Ante o exposto, rejeito os embargos de declaração (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 20%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
