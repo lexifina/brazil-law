@@ -1,0 +1,15 @@
+Trata-se recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. PIS E COFINS. CRÉDITO PRESUMIDO. ARTS. 8º E 15 DA LEI N.º 10.925/04. COMPENSAÇÃO E RESTITUIÇÃO. NORMAS INFRALEGAIS.
+    1. Os artigos 17 da Lei n.º 11.033/2004 e 16 da Lei n.º 11.116/2005 tratam de saldos credores do PIS e da COFINS apurados na forma do art. 3º das Leis 10.637/02 e 10.833/03, ou seja, de créditos gerados a partir da sistemática da não-cumulatividade e inerentes a ela, calculados em relação aos bens e serviços descritos nos seus incisos, não alcançando os créditos previstos nos artigos 8º e 15 da Lei n.º 10.925/2004. 2. As próprias leis instituidoras dos créditos presumidos em questão previram como modo de aproveitamento destes crédito o desconto das contribuições do PIS e COFINS a pagar, limitando a sua utilização, assim, à esfera das próprias contribuições. 3. Tanto os artigos 1º e 2º do Ato Declaratório Interpretativo SRF n.º 15/2005 como o § 6º do artigo 3º da Instrução Normativa SRF n.º 636/2006 (substituído pelo art. 5º da IN SRF n.º 660/06), ao vedarem expressamente outra forma de devolução do montante do crédito presumido apurado, vieram somente a esclarecer aquilo que a lei já trazia em seu conteúdo. Assim, tais dispositivos infralegais possuem cunho meramente interpretativo, de modo que não "inovaram", desbordando de sua competência regulamentar.”
+    Após, embargos de declaração foram acolhidos para suprir omissão, mantendo inalterado o dispositivo do acórdão embargado.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em síntese, ofensa aos arts. 149, § 2º, I, e 150, II, da Constituição, por não ter sido permitida a compensação ou ressarcimento do crédito presumido de PIS e COFINS previsto no art. 8º da Lei 10.925/2004, como autorizado pelo art. 5º, § 1º e § 2º, da Lei 10.637/2002 e pelo art. 6º, § 1º e § 2º, da Lei 10.833/2003.
+    É o relatório necessário. Decido.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido, ao julgar o caso, baseou sua decisão na interpretação das Leis 10.637/2002, 10.833/2003, 10.925/2004, 11.033/2004 e 11.116/2005, do Ato Declaratório Interpretativo SRF n.º 15/2005 e das Instruções Normativas SRF n.º 636/2006 e 660/2006. Ademais, a própria parte recorrente, ao buscar demonstrar seu direito, recorreu à análise das Leis 10.925/2004, 10.637/2002 e 10.833/2003
+    Nesse quadro, a análise da pretensão recursal demandaria necessariamente o exame e a interpretação de legislação infraconstitucional. O recurso extraordinário, portanto, contém alegações de ofensas indiretas ou reflexas à Constituição, insuscetíveis de análise nesta sede recursal.
+    Cito, nesse sentido, os seguintes precedentes: RE 883.712-AgR, Rel. Min. Rosa Weber, Primeira Turma; RE 1.072.824, Rel. Min. Gilmar Mendes; RE 723.927, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso extraordinário (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
