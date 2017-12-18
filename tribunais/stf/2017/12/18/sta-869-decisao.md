@@ -1,0 +1,8 @@
+DESPACHO
+    1. Suspensão de tutela antecipada, com requerimento de medida liminar, ajuizada por Minas Gerais às 16h54 de 17.12.2017, objetivando a suspensão “dos efeitos da decisão que indeferiu o pedido de atribuição de efeito suspensivo proferida pelo Desembargador Presidente do Tribunal Regional Federal da 1ª Região e, por arrastamento, da decisão que deferiu a tutela de urgência almejada por Ana Caroline Santos Ceolin, nos autos do processo supra, ocasião em que se determinou a suspensão dos efeitos da decisão proferida pelo CNJ no PCA 0005289-79.2016.2.0000, e, em consequência, determinou ao Estado de Minas Gerais: (a) a suspensão da sessão pública de escolha designada para esta segunda-feira, 18; (b) a atribuição à autora, na apuração dos títulos, a pontuação (2,00 pontos) relativa ao exercício de serviços de notária ou registradora; e (c) a reclassificação da autora e republicação da lista de candidatos classificados pelo critério de provimento e remoção” (fls. 1-2, e-doc. 1).
+    2. No § 9º do art. 67 do Regimento Interno do Supremo Tribunal Federal, dispõe-se que o “Ministro que tiver exercido a Presidência do Conselho Nacional de Justiça será excluído da distribuição de processo no qual se impugne ato por ele praticado em tal exercício”.
+    3. Por ter presidido e votado no julgamento do procedimento de controle administrativo objeto da ação ordinária na qual proferida a decisão cujos efeitos se busca suspender na presente medida de contracautela, encaminhe-se este requerimento de suspensão ao Ministro Vice-Presidente deste Supremo Tribunal (art. 14 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministra CÁRMEN LÚCIA
+Presidente
