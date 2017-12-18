@@ -1,0 +1,16 @@
+Decisão: Trata-se agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 88):
+    “RECURSO ESPECIAL E RECURSO EXTRAORDINÁRIO — Reexame da matéria pela Turma Julgadora, na forma do artigo 543-C, § 7% do Código de Processo Civil — Servidores públicos estaduais — Reajuste de vencimentos — URV — No mérito, a ação improcede — Competência do Estado na administração orçamentária — Receita com limites de comprometimento — Decisão do Superior Tribunal de Justiça que não vincula a Turma Julgadora — Retratação do r. julgado para o fim de afastar a extinção do processo e dar provimento ao recurso da FESP.”
+    Vale ressaltar que a ementa supracitada decorre do exame de retratação no qual manteve a decisão de mérito, modificando apenas o entendimento a respeito da prescrição.
+    Os embargos de declaração foram rejeitados (eDOC 2, p. 115).
+    No recurso extraordinário, interposto com fulcro no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LV; e 22, VI, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “nos casos dos militares, não há que se falar em reestruturação da remuneração, pois, mesmo antes do advento da Lei 8.880/94, eles já recebiam seus proventos através de diversas nomenclaturas que existem até hoje, quais sejam, salário base, RETP — regime especial de trabalho policial, adicional por tempo de serviço (quinquenal), sexta-parte, entre outros.” (eDOC 2, p. 143).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário por entender que não houve ofensa direta à Constituição Federal (eDOC 2, p. 153-154).
+    É o relatório. Decido.
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do ARE 968.574-RG, Rel. Min. Teori Zavascki, DJe 12.9.2016 (tema 913), reconheceu a inexistência de repercussão geral da controvérsia debatida nos autos. Na oportunidade, a ementa restou assim redigida:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ÍNDICE RELATIVO À PERDA SALARIAL DECORRENTE DA CONVERSÃO DO CRUZEIRO REAL EM UNIDADE REAL DE VALOR (URV). TERMO FINAL DA INCORPORAÇÃO. REESTRUTURAÇÃO REMUNERATÓRIA DA CARREIRA. VERIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. Possui natureza infraconstitucional a controvérsia relativa à ocorrência ou não de reestruturação remuneratória da carreira de servidor público, para fins de estabelecimento do termo final da incorporação do percentual relativo à perda salarial decorrente da conversão do Cruzeiro Real em URV. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608-RG, Rel. Min. ELLEN GRACIE, DJe de 13/3/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 1.035 do CPC/2015.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 181 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
