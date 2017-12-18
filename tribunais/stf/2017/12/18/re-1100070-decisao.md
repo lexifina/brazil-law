@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto a concessão da segurança para determinar a reintegração do militar temporário. No extraordinário, a recorrente alega violados os artigos 2º, 5º, e 142, § 3º, inciso X, da Constituição Federal. Alega a discricionariedade da Administração para o licenciamento dos praças. Sustenta a contrariedade com o decidido no recurso extraordinário nº 600.885/RS.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    Verifico à fl. 75 que o licenciamento do impetrante não se deu por conveniência do serviço, e sim por ter o particular completado 43 (quarenta e três) anos de idade, o que o Exército considerou idade limite para permanência do militar. Fundamentou-se no artigo 154,,' II, da Port Nr 046 — DGP, de 27.03.2012.
+    Uma vez que o STF decidiu sob os auspícios da repercussão geral que (...) "A Constituição brasileira determina, expressamente, os requisitos para o ingresso nas Forças Armadas, previstos em lei: referência constitucional taxativa ao critério de idade. Descabimento de regulamentação por outra espécie normativa, ainda que por delegação legal." (...) e que não há lei que fundamente o limite de idade para permanência no serviço militar, mantenho a decisão do Juízo monocrático que anulou o ato de licenciamento 'do impetrante, determinando sua reintegração, com pagamento da remuneração desde o momento do desligamento.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Nego seguimento ao extraordinário. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 18 de dezembro de 2017.
+Ministro MARCO AURÉLIO
+Relator
