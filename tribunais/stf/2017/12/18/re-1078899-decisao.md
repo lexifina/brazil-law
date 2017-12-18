@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “TRIBUTÁRIO. PROCESSUAL CIVIL. COMPENSAÇÃO. CRITÉRIOS DE IMPUTAÇÃO NO PAGAMENTO. PROVA PERICIAL. DESNECESSIDADE. ART. 354 DO CC. INAPLICABILIDADE. SELIC. INCIDÊNCIA APÓS 01.01.1996.
+    1. Dispensável a produção de prova pericial para demonstração de descapitalização do crédito, porquanto o que está efetivamente em discussão é a forma de imputação levada a efeito pelo Fisco, sendo irrelevante o quantum resulta em decréscimo do crédito.
+    2. A 1ª Seção deste Tribunal, por ocasião do julgamento da AMS n.º 2005.72.03.000916-2/SC, pacificou o entendimento de que é incabível a aplicação analógica da legislação civil (arts. 354 Código Civil) quanto aos critérios a serem utilizados na imputação de crédito parcial do sujeito passivo no pagamento de débitos seus para com a Fazenda Pública, em face da existência de disciplina própria da matéria na legislação tributária.
+    3. Esse também o entendimento manifestado pelo egrégio STJ no julgamento do Recurso Especial representativo da controvérsia nº 960.239/SC, ocorrido em 09.06.2010, de relatoria do Min. Luiz Fux.
+    4. A atualização dos créditos tributários se dá pela taxa Selic somente a partir de 1º de janeiro de 1996, tal como disciplinado pelo § 4º do art. 39 da Lei nº 9.250/95.”
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em síntese, ofensa aos arts. 5º, caput, e 37, caput, da Constituição, “[...] a fim de que sobre os créditos e débitos compensados pela recorrente seja acrescida a Taxa SELIC até a data do encontro de contas, afastando o procedimento de retroprojeção/descapitalização adotado pela Receita Federal do Brasil [...]” e “[...] para possibilitar à recorrente atualizar monetariamente seus créditos passíveis de compensação na via administrativa por intermédio da aplicação da Taxa Selic desde 01/04/1995 [...]” (doc. eletrônico 7, pág. 50).
+    É o relatório. Decido.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido, ao julgar o caso, baseou sua decisão na interpretação do Código Civil, do Código Tributário Nacional, das Leis 4.414/1964, 8.383/1991, 9.430/1996, 9.250/1995, 10.677/2003 e 10.833/2003, e das Instruções Normativas 21/1997, 210/2002, 323/2003, 600/2005 e 900/2008.
+    Nesse quadro, a análise da pretensão recursal demandaria necessariamente o exame e a interpretação de legislação infraconstitucional. O recurso extraordinário, portanto, contém alegações de ofensas indiretas ou reflexas à Constituição, insuscetíveis de análise nesta sede recursal.
+    Confiram-se, nesse sentido, os seguintes precedentes:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO. 1. Por não ser objeto da questão, a referência à contribuição ao Programa de Integração Social - PIS deve ser excluída. 2. A possibilidade de compensação ou restituição de valores e atualização pela Selic estão restritas ao âmbito infraconstitucional. Precedentes. 3. A questão sobre as receitas que compõem a base de cálculo da Cofins não foi objeto do recurso extraordinário. Incabível a inovação nesta via recursal.” (RE 439.774-ED, Rel. Min. Cármen Lúcia, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COFINS. LEI N. 9.718/98. COMPENSAÇÃO. MATÉRIA INFRACONSTITUCIONAL. As questões atinentes à compensação dos valores recolhidos indevidamente com outros tributos devidos e à aplicação da taxa SELIC como índice de correção monetária são dotadas de caráter nitidamente infraconstitucional. Precedentes. Agravo regimental a que se nega provimento.” (RE 440.250-AgR, Rel. Min. Eros Grau, Segunda Turma)
+    Isso posto, nego seguimento ao recurso extraordinário (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 18 de dezembro de 2017.
+Ministro Ricardo Lewandowski
+Relator
