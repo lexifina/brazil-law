@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, na qual se sustenta que o ato judicial ora impugnado – proferido pela Senhora Presidente da 2ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Rio de Janeiro (Processo nº 0005949- -72.2013.4.02.5168/01) – teria transgredido o enunciado constante da Súmula Vinculante nº 10/STF, que possui o seguinte teor:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97)  a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.” (grifei)
+    Aduz a parte reclamante, em síntese, as seguintes considerações:
+    “O autor ingressou com ação de obrigação de fazer, com pedido de antecipação de tutela em face da União Federal, do Estado do Rio de Janeiro e do Município do Rio de Janeiro, pleiteando a realização ou custeio de tratamento médico.
+    O pedido autoral foi julgado procedente.
+    [A] União Federal interpôs apelação, tendo sido negado provimento ao recurso, e condenada a União ao pagamento de honorários advocatícios em favor da DPU.
+    A parte ré apresentou Embargos Declaratórios.
+    A r. decisão de fls. 295/296 deu parcial provimento aos embargos interpostos pela União, isentando-a do pagamento de honorários advocatícios.
+    Inconformada com o decidido pela Turma Recursal e enfrentada a violação dos dispositivos constitucionais que regem a matéria,  o recorrente impugnou o v. acórdão de fls. 295/296 por meio de recurso extraordinário, que foi inadmitido com base no tema 134 da repercussão geral (‘Direito a honorários advocatícios quando a Defensoria Pública Estadual representa vencedor em demanda ajuizada contra Estado ao qual é vinculada’).” (grifei)
+    Sendo esse o contexto, passo a apreciar a admissibilidade, no caso, desta reclamação. E, ao fazê-lo, constato que a parte autora, na realidade, postula, em nome próprio, na presente sede processual, a defesa de direito alheio (honorários sucumbenciais), conforme claramente se depreende do pedido por ela formulado nesta ação reclamatória.
+    Isso significa, portanto, que o autor, ao assim proceder, age na condição de verdadeiro substituto processual, sem que exista, para tanto, qualquer base normativa que lhe permita investir-se de legitimação anômala para efeito de ajuizamento desta reclamação.
+    Cumpre destacar, neste ponto, por necessário, que o ordenamento jurídico brasileiro estabelece que “Ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico” (CPC, art. 18, “caput” – grifei).
+    Vê-se, desse modo, considerado o contexto em exame, que falece ao autor (o Senhor Antônio Viana de Souza) legitimidade ativa “ad causam” para ajuizar, em nome próprio, esta reclamação, eis que, longe de vindicar a defesa de direito subjetivo próprio, limitou-se a pleitear, em seu nome, direito alheio titularizado, na verdade, pela Defensoria Pública da União.
+    Cabe assinalar, por oportuno, que o entendimento que venho de expor encontra apoio em autorizado magistério doutrinário (HELY LOPES MEIRELLES, “Mandado de Segurança, Ação Popular, Ação Civil Pública, Mandado de Injunção, ‘Habeas Data’”, p. 23, item n. 1, 23ª ed., atualizada por Arnoldo Wald, 2001, Malheiros; HUMBERTO THEODORO JUNIOR, “Curso de Direito Processual Civil”, vol. I/73, item n. 67, 41ª ed., 2004, Forense; CÂNDIDO RANGEL DINAMARCO, “Instituições de Direito Processual Civil”, vol. II/116, item n. 440, 4ª ed., 2004, Malheiros; VICENTE GRECO FILHO, “Direito Processual Civil Brasileiro”, vol. I/78, item n. 14, 17ª ed., 2003, Saraiva, v.g.).
+    Ainda que fosse possível superar esse obstáculo processual, mesmo assim não se revelaria cabível a presente reclamação.
+    É que eminentes Ministros de ambas as Turmas desta Suprema Corte, defrontando-se com pretensão jurídica idêntica à deduzida nestes autos, vieram a negar seguimento a ações reclamatórias nas quais também se alegava desrespeito ao enunciado constante da Súmula Vinculante nº 10/STF, supostamente ocorrido no âmbito de decisões judiciais que, ao aplicarem o entendimento consubstanciado na Súmula nº 421/STJ, afastavam a pretendida condenação da União Federal em honorários de sucumbência em favor da Defensoria Pública da União (Rcl 23.014/MG, Rel. Min. GILMAR MENDES – Rcl 24.299/SC, Rel. Min. LUIZ FUX – Rcl 26.170/RJ, Rel. Min. DIAS TOFFOLI, v.g.):
+    “RECLAMAÇÃO. AFASTAMENTO DE CONDENAÇÃO DA UNIÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA DA UNIÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. INEXISTÊNCIA.”
+    (Rcl 21.086/MG, Rel. Min. ROSA WEBER – grifei)
+    Esse entendimento, na realidade, nada mais reflete senão a própria orientação resultante de diretriz jurisprudencial que esta Corte Suprema firmou na matéria:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONDENAÇÃO DA UNIÃO EM HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA DA UNIÃO. AFASTAMENTO FUNDADO NO INSTITUTO DA CONFUSÃO. INEXISTÊNCIA DE JUÍZO DISSIMULADO DE INCONSTITUCIONALIDADE DO ART. 4º, XXI, DA LEI COMPLEMENTAR 80/1994. OFENSA À SÚMULA VINCULANTE 10. NÃO CONFIGURAÇÃO, NAS CIRCUNSTÂNCIAS DO CASO.
+    AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.”
+    (Rcl 20.397-AgR/MG, Rel. Min. TEORI ZAVASCKI – grifei)
+    Sendo assim, e pelas razões expostas, nego seguimento a esta reclamação (CPC, art. 932, VIII, c/c o RISTF, art. 21, § 1º), restando prejudicada, em consequência, a apreciação do pedido de medida liminar.
+    2. Defiro o pretendido benefício da gratuidade, tendo em vista a afirmação feita pela parte ora reclamante, nos termos e para os fins a que se refere a legislação processual (CPC, arts. 98 e 99, “caput” e §§ 3º e 4º, c/c o art. 21, XIX, do RISTF).
+    Arquivem-se estes autos.
+    Publique-se.
+    Brasília, 19 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
