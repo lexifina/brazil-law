@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (eDOC 9, p. 1):
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO. LICENÇA PRÊMIO NÃO GOZADA NEM REQUERIDA ANTES DA APOSENTADORIA. DIREITO ADQUIRIDO. VEDAÇÃO AO ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO PÚBLICA. DEVER DO ESTADO DE INDENIZAR. RECURSO CONHECIDO E PROVIDO. ”
+    Os embargos declaratórios opostos foram rejeitados (eDOC 13).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 1º, 5º, II, 37 e 97, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “O art.190-A da LC nº 381/07, com a redação da LC nº 534/11, já acima transcrito, inclusive incentiva o seu gozo, prescrevendo que o servidor – às vésperas da inatividade - tem preferência sobre os demais para o usufruto do benefício, sendo que a sua passagem à inatividade sem prévio requerimento implica na perda do direito de gozo. E isto é uma determinação à administração pública!
+    Portanto, o acórdão, ao acolher o pedido inicial, não levou em conta o que dispõem os arts. 5º, II, e 37, da CF, acarretando violação ao princípio da legalidade. Ora, tal princípio é capital à configuração do regime jurídico administrativo e, consequentemente, do Estado de Direito.” (eDOC 15, p. 6, grifo no original).
+    A Presidência da Oitava Turma de Recursos do TJ/SC inadmitiu o recurso mediante o óbice da incidência das Súmulas 280 e por considerar que a repercussão geral não está suficientemente fundamentada e que a matéria discutida é de caráter infraconstitucional (eDOC 17).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, à luz da jurisprudência pacificada do TJ/SC, decidiu que"Sendo garantida ao servidor público a vantagem da licença-prêmio, a ele é inerente o direito de ser indenizado pela remuneração que teria recebido durante os períodos em que deixou de usufruir da licença a ele concedida.
+    Dito isso, é descabida a obrigação imposta no art. 190-A, §4º, da Lei Complementar Estadual, que determina a perda do direito à licença especial pelo não requerimento de gozo antes da passagem à inatividade (eDOC 12, p. 2)
+    Eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação local aplicável à espécie (Lei Complementar Estadual 381/07 e 534/11), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Ademais, esta Corte possui firme entendimento no sentido de que a discussão acerca da natureza jurídica de vantagens pecuniárias percebidas por servidores civis ou militares se insere no âmbito da legislação infraconstitucional.
+    Desse modo, resta demonstrado a não ocorrência de ofensa constitucional direta, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido, confiram -se os precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público. Aposentadoria. Licença-prêmio não gozada. Natureza indenizatória da verba. Teto. Discussão de índole infraconstitucional. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise de legislação infraconstitucional e o exame de ofensa reflexa à Constituição. 2. Agravo regimental não provido.”(ARE 819.417-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 02.02.2015).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Teto Remuneratório. Licença-Prêmio. Verba de natureza indenizatória. 3. Análise da legislação infraconstitucional. Ofensa meramente reflexa ao texto constitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 784.580-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 08.04.2014).
+    Impende ressaltar, por relevante, que este tem sido o entendimento proferido nos julgados desta Corte, destacam-se as seguintes decisões monocráticas: ARE nº 1.013.941/SP, Relatora a Ministra Rosa Weber, DJe de 15/03/17; ARE nº 1.019.692/SP, de minha relatoria, DJe de 02/03/17; e ARE nº 1.015.983/SP, Relator o Ministro Marco Aurélio, DJe de 24/02/17.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a , do Código de Processo Civil.
+    Publique-se.
+    Brasília, 19 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
