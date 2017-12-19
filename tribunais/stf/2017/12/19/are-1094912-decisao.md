@@ -1,0 +1,20 @@
+DECISÃO: O presente agravo foi interposto por Ana Claudia Chagas Nespoli contra decisão que negou trânsito ao apelo extremo por ela deduzido, no qual sustentou que o acórdão proferido pela Turma Recursal Cível, Criminal e Fazenda Pública do Estado de São Paulo teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa, no entanto, evidencia que o recurso extraordinário em questão não se revela viável.
+    É que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cumpre ressaltar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Constituição do Estado de São Paulo e Leis Complementares estaduais nºs 207/79, 315/83, 959/04, 1.080/08, 1.116/10 e 1.246/14), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de direito local:
+    “Ocorre que a LC 315/83 exclui o benefício do Adicional de Periculosidade dos servidores que recebem a Gratificação pelo Regime Especial de Trabalho, ao dispor que:
+    …...................................................................................................
+    Dispõem os arts. 44 e 45 da LC 207/1979.
+    …...................................................................................................
+    Extrai-se, portanto, que o Regime Especial de Trabalho Policial se caracteriza pela prestação de serviços em condições precárias de segurança e visando atender as peculiaridades das suas atribuições, foi concedida aos servidores que trabalham em tais condições uma gratificação no valor equivalente a 30% do padrão de seus vencimentos, de modo que conceder-lhes outro benefício sob o mesmo fundamento, consistiria em bis in idem, vedado em nosso ordenamento jurídico.
+    Ademais, a Lei Complementar nº 1.116, de 27 de maio de 2010, alterou apenas o disposto nos arts. 1º e 6º da LC 315/1983, estendendo a concessão do Adicional de Periculosidade aos servidores das áreas meio e saúde em exercício permanente em todas as Unidades da Secretaria da Administração Penitenciária, vez que antes o concedia somente aos servidores em exercício nos estabelecimentos penitenciários, nada dispondo acerca do seu art. 7º, que continua, portanto, em pleno vigor.
+    A LC 1.246/2014 também não trouxe nenhuma modificação quanto à vedação de conceder o Adicional de Periculosidade aos servidores que já recebem a Gratificação do Regime Especial de Trabalho. Nesse sentido (…).”
+    Sendo assim, e em face das razões expostas, e considerando, ainda, a existência de precedente específico sobre a matéria ora em exame (ARE 1.086.920/SP, Rel. Min. EDSON FACHIN), ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária (Lei nº 9.099/95,  art. 55).
+    Publique-se.
+    Brasília, 19 de dezembro de 2017.
+Ministro CELSO DE MELLO
+Relator
