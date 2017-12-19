@@ -1,0 +1,1 @@
+Art. 6º-C No caso de lançamentos extemporâneos em ECD que alterem a base de cálculo do IRPJ ou da CSLL da ECF de ano-calendário anterior, a pessoa jurídica deverá efetuar o ajuste por meio de ECF retificadora relativa ao respectivo ano-calendário, mediante adições ou exclusões ao lucro líquido, ainda que a ECD recuperada na ECF retificada não tenha sido alterada.

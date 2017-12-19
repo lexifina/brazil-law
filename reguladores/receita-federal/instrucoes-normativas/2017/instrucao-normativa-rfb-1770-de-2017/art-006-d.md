@@ -1,0 +1,1 @@
+Art. 6º-D A pessoa jurídica que entregar ECF retificadora que altere valores de apuração do IRPJ ou da CSLL que haviam sido informados na Declaração de Débitos e Créditos de Tributos Federais (DCTF) deverá apresentar DCTF retificadora elaborada com observância das normas específicas relativas a esta declaração.”
