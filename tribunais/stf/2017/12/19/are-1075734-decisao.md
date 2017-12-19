@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário em face do acórdão da Primeira Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, assim ementado (eDOC 5, p.96):
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO ESTADUAL. POLICIAL MILITAR. ABONO DE PERMANÊNCIA. APOSENTADORIA ESPECIAL DA LEI COMPLEMENTAR FEDERAL N. 51/85. INAPLICABILIDADE.
+    1) Trata-se de ação de cobrança onde a parte autora persegue a indenização correspondente ao valor do abono de permanência, julgada improcedente na origem.
+    2) O servidor que tenha completado as exigências para aposentadoria voluntária e que opte por permanecer em atividade fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória (artigo 40, §19 da Constituição Federal/88, incluído pela EC n. 41/2003);
+    3) A Lei Complementar Federal n. 51/85, dispõe sobre a aposentadoria do servidor público policial, nos termos do § 4º, do art. 40 da Constituição Federal.
+    4) Ocorre que a parte autora é policial militar, e os militares possuem regime próprio de previdência social (RPSM), cabendo à lei específica do ente estadual dispor sobre as matérias do artigo 142, § 3°, inciso X, nos expressos termos do artigo 42, § 1°, todos da Constituição Federal/88.
+    5) O Estatuto dos servidores militares - Lei Complementar nº 10.990/97 - prevê, no artigo 58, §2°, o abono de incentivo à permanência no serviço ativo. Assim, em se tratando de policial militar, inviável a aplicação da regra da Lei Complementar n. 51/85 que alcança somente os policiais civis.
+    RECURSO INOMINADO DESPROVIDO”
+    Os embargos de declaração foram desprovidos (eDOC 7, p.120).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, caput e 40, incisos I e II e §§4º e 19, da Constituição Federal. Busca demonstrar possuir direito ao recebimento do abono de permanência, asseverando ter implementado os requisitos para aposentadoria voluntária, nos termos da Lei Complementar 51/85 e da legislação estadual de regência (Lei 10.990/97).
+    A 1ª Vice-Presidência do Tribunal de origem inadmitiu o recurso com base nas Súmulas 280 e 282 do STF (eDOC 10).
+    É o relatório. Decido.
+    O Plenário do Supremo Tribunal Federal concluiu pela existência de repercussão geral da tese debatida nos autos e ao julgar o ARE 954.408, Rel. Min. Teori Zavascki, incluído na sistemática da repercussão geral (Tema 888), reafirmou a jurisprudência ao concluir:
+    “ADMINISTRATIVO E PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO EM ATIVIDADE APÓS O PREENCHIMENTO DOS REQUISITOS PARA A CONCESSÃO DE APOSENTADORIA VOLUNTÁRIA ESPECIAL. CONCESSÃO DO ABONO DE PERMANÊNCIA. LEGITIMIDADE.
+    1. É legítimo o pagamento do abono de permanência previsto no art. 40, § 19, da Constituição Federal ao servidor público que opte por permanecer em atividade após o preenchimento dos requisitos para a concessão da aposentadoria voluntária especial (art. 40, § 4º, da Carta Magna).
+    2. Agravo conhecido para negar provimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria.”
+    Contudo, ressalva há de ser feita em relação aos servidores militares. Esta Corte, no julgamento do RE 570.177, Rel. Min. Ricardo Lewandowski, DJe 27.06.2008, reconheceu expressamente que aos militares não se aplica o regime jurídico dos servidores civis. Confira-se a ementa:
+    “CONSTITUCIONAL. SERVIÇO MILITAR OBRIGATÓRIO. SOLDO. VALOR INFERIOR AO SALÁRIO MÍNIMO. VIOLAÇÃO AOS ARTS. 1º, III, 5º, CAPUT, E 7º, IV, DA CF. INOCORRÊNCIA. RE DESPROVIDO. I - A Constituição Federal não estendeu aos militares a garantia de remuneração não inferior ao salário mínimo, como o fez para outras categorias de trabalhadores. II - O regime a que submetem os militares não se confunde com aquele aplicável aos servidores civis, visto que têm direitos, garantias, prerrogativas e impedimentos próprios. III - Os cidadãos que prestam serviço militar obrigatório exercem um múnus público relacionado com a defesa da soberania da pátria. IV - A obrigação do Estado quanto aos conscritos limita-se a fornecer-lhes as condições materiais para a adequada prestação do serviço militar obrigatório nas Forças Armadas. V - Recurso extraordinário desprovido.”
+    Quanto à matéria constitucional em debate, o acórdão recorrido encontra-se conforme entendimento desta Corte.
+    Ademais, observa-se que a Turma Recursal de origem concluiu pela impossibilidade de extensão do abono de permanência aos policiais militares, por compreender que a Lei Complementar 51/1985 alcança apenas os policiais civis. Assim, ainda que a parte Recorrente tenha implementado os requisitos previstos na Lei Complementar Estadual 10.990/1997, que autoriza sua transferência para a reserva, e tenha permanecido na ativa, não tem direito ao abono de permanência previsto na LCE 51/1985, face à ausência de previsão legal.
+    Logo, eventual divergência em relação ao entendimento adotado pela Turma Recursal a quo demandaria o reexame da legislação local aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 280 do STF.
+    Nesse sentido, confira: ARE 986.320, Rel. Min. Gilmar Mendes, DJe 16.08.2016; ARE 955.599, Rel. Min. Teori Zavascki, DJe 08.06.2016.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 19 de dezembro de 2017.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
