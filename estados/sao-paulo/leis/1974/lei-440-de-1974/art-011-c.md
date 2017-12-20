@@ -1,0 +1,1 @@
+Artigo 11-C - A solidariedade referida na alínea "c" do inciso I nas alíneas "b", "c" e "d" do inciso II e nos incisos V, VI, VII, VIII, IX e X do Artigo 11-A e nos incisos I e IV do Artigo 11-B não comporta beneficio de ordem.

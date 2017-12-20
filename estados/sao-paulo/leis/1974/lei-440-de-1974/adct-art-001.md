@@ -1,0 +1,4 @@
+## Disposições Transitórias
+Artigo 1º - Os débitos fiscais relativos ao imposto declarado ou transcrito nos termos da Lei n. 10.396, de 22 de dezembro de 1970, modificada pela Lei n. 10.424, de 8 de dezembro de 1971, bem como os decorrentes de parcela mensal devida por contribuinte enquadrado no regime de estimativa, vencidos até 31 de dezembro de 1974 ficarão sujeitos:
+I - à multa prevista no artigo 79 da Lei n. 9.590, de 30 de dezembro de 1966, na redação dada pelo artigo 8º do Decreto-lei n. 79, de 28 de maio de 1969;
+II - quando ajuizados para cobrança executiva, à correção monetária de seu valor a partir do primeiro mês do trimestre civil seguinte àquele em que tiver ocorrido o vencimento do prazo fixado para pagamento do imposto, observado no mais, o disposto nos §§ 1º e 2º do artigo 88 desta lei.
