@@ -1,0 +1,3 @@
+Art. 775-A. Suspende-se o curso do prazo processual nos dias compreendidos entre 20 de dezembro e 20 de janeiro, inclusive.
+§ 1º Ressalvadas as férias individuais e os feriados instituídos por lei, os juízes, os membros do Ministério Público, da Defensoria Pública e da Advocacia Pública e os auxiliares da Justiça exercerão suas atribuições durante o período previsto no caput deste artigo.
+§ 2º Durante a suspensão do prazo, não se realizarão audiências nem sessões de julgamento.
