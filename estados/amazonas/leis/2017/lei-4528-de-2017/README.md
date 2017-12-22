@@ -1,0 +1,5 @@
+# Lei nº 4.528, de 22 de dezembro de 2017, do Estado do Amazonas
+
+ALTERA O ART. 3º, CAPUT, ACRESCENTA-LHE PARÁGRAFO ÚNICO, BEM COMO CRIA DOIS CARGOS DE PROVIMENTO EFETIVO DE AGENTE TÉCNICO ENGENHEIRO CIVIL, UM CARGO DE PROVIMENTO EFETIVO DE AGENTE TÉCNICO ENGENHEIRO ELETRICISTA, TRÊS CARGOS DE PROVIMENTO EFETIVO DE AGENTE TÉCNICO CONTADOR E UM CARGO DE PROVIMENTO EFETIVO DE AGENTE TÉCNICO PEDAGOGO.
+
+Fonte: Assembleia Legislativa (sapl.al.am.leg.br), <https://sapl.al.am.leg.br/norma/9993>; texto: <http://sapl.al.am.leg.br/media/sapl/public/normajuridica/2017/9993/9993_texto_integral.docx>
