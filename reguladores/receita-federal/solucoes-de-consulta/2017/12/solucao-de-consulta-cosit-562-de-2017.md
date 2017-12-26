@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 562, de 20 de dezembro de 2017
+ASSUNTO: Outros Tributos ou Contribuições EMENTA: SEST. SENAT. CONTRIBUINTES. São contribuintes do SEST e do SENAT, as empresas de transporte rodoviário, em cujo conceito se incluem as empresas de transporte de valores, de locação de veículos e de distribuição de petróleo, sendo que nesta última atividade, incluem-se apenas, a título de apuração da base de cálculo, as remunerações pagas ou creditadas aos empregados diretamente envolvidos com o transporte. Dispositivos Legais: Decreto nº 1.007, de 1993, art. 2º, inciso I e §1º, na redação dada pelo Decreto nº 1.092, de 21 de março de 1994 e IN RFB nº 971, de 2013, art. 109-C, §2º, QUADRO 4. ASSUNTO: Processo Administrativo Fiscal EMENTA: INEFICÁCIA PARCIAL. É ineficaz a consulta cuja matéria é estranha à legislação tributária ou aduaneira. Dispositivos Legais: IN RFB nº 1.396, de 2013, art. 18, XIII.
+.
+[arquivo anexo: SC Cosit nº 562-2017.pdf]
