@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 555, de 20 de dezembro de 2017
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: RENDIMENTOS PAGOS EM CUMPRIMENTO DE DECISÃO JUDICIAL. HONORÁRIOS CONTRATUAIS. ADVOGADO. IMPOSTO SOBRE A RENDA. RETENÇÃO NA FONTE. O imposto sobre a renda incidente sobre os rendimentos pagos em cumprimento de decisão judicial, inclusive no caso de honorários advocatícios, será retido na fonte pela pessoa física ou jurídica obrigada ao pagamento, no momento em que, por qualquer forma, o rendimento se torne disponível para o beneficiário. Dispositivos Legais: § 4º do art. 3º da Lei nº 7.713, de 22 de dezembro de 1998, e arts. 38, 45, inciso I, 620, 628, e 718 do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999).
+.
+[arquivo anexo: SC Cosit nº 555-2017.pdf]
