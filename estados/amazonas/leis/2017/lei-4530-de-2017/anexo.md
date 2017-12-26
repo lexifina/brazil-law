@@ -1,0 +1,7 @@
+ANEXO I
+
+QUADRO DE REMUNERAÇÃO DOS CARGOS COMISSIONADOS
+
+CARGOS COMISSIONADOS QUANTIDADE REMUNERAÇÃO
+
+Secretário Executivo 1 R$ 18.000,00 Diretor 2 R$ 15.000,00 Coordenador 4 R$ 12.000,00 Assessor 4 R$ 8.000,00 Auxiliar Técnico 1 5 R$ 5.500,00 Auxiliar Técnico II 5 R$ 3.500,00
