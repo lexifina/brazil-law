@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 565, de 20 de dezembro de 2017
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB). BASE DE CÁLCULO. INCORPORAÇÃO. ATIVIDADE SECUNDÁRIA. Não há previsão normativa para que as receitas auferidas por obra de incorporação imobiliária deixem de compor a base de cálculo da CPRB de empresa para a qual a substituição da contribuição previdenciária sobre a folha de pagamento pela contribuição sobre a receita bruta esteja vinculada ao seu enquadramento no CNAE, em razão de se tratar de incorporação imobiliária objeto de patrimônio de afetação sujeitas ao Regime Especial de Tributação (RET) disposto nos arts. 1º a 10 da Lei nº 10.931, de 2004. Dispositivos Legais: Art. 9º, II e §§ 9º e 10, Lei nº 12.546, de 2011; art. 4º, Lei nº 10.931, de 2004; art. 3º, art. 13, §§1º e 2º, e art. 7º, IV, e § 9º, V, IN RFB nº 1.436, de 2013.
+.
+[arquivo anexo: SC Cosit nº 565-2017.pdf]
