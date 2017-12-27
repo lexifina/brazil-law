@@ -1,0 +1,2 @@
+Cria a Agência Nacional de Mineração (ANM); extingue o Departamento Nacional de Produção Mineral (DNPM); altera as Leis nº 11.046, de 27 de dezembro de 2004, e 10.826, de 22 de dezembro de 2003; e revoga a Lei nº 8.876, de 2 de maio de 1994, e dispositivos do Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração).
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:CAPÍTULO I

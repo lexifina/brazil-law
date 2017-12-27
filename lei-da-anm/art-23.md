@@ -1,0 +1,1 @@
+Art. 23. Fica criado o Quadro de Pessoal da Agência Nacional de Mineração (ANM), composto das Carreiras e do Plano Especial de Cargos de que tratam os arts. 1º e 3º da Lei nº 11.046, de 27 de dezembro de 2004.
