@@ -1,0 +1,3 @@
+Art. 38. Esta Lei entra em vigor:
+I - (VETADO);
+II - quanto aos demais dispositivos, na data de sua publicação.

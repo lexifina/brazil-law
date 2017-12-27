@@ -1,0 +1,3 @@
+Art. 5º A ANM será dirigida por Diretoria Colegiada, composta por um Diretor-Geral e quatro Diretores.
+§ 1º O Diretor-Geral da ANM exercerá a representação da ANM, a presidência da Diretoria Colegiada e o comando hierárquico sobre o pessoal e os serviços, e caber-lhe-á desempenhar as competências administrativas correspondentes e a presidência das sessões da Diretoria Colegiada, sem prejuízo das deliberações colegiadas para matérias definidas no regimento interno.
+§ 2º A estrutura organizacional da ANM será definida em decreto e contará com Procuradoria, Ouvidoria, Corregedoria, Auditoria e unidades administrativas.

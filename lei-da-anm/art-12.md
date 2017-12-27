@@ -1,0 +1,1 @@
+Art. 12. Os atos normativos da ANM que afetarem, de forma substancial e direta, direitos de agentes econômicos do setor de mineração deverão ser acompanhados da exposição formal dos motivos que os justifiquem e ser submetidos a consulta ou a audiência pública.

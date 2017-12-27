@@ -1,0 +1,1 @@
+Art. 8º Os membros da Diretoria Colegiada ficam impedidos de exercer atividade ou de prestar qualquer serviço no setor regulado pela ANM, pelo período de seis meses, contado da data de exoneração ou do término de seus mandatos, assegurada a remuneração compensatória.
