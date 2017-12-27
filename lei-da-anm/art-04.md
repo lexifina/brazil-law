@@ -1,0 +1,3 @@
+Art. 4º No exercício das competências de fiscalização da ANM, poderão ser requisitados e examinados livros, mercadorias, arquivos ou documentos que repercutam no objeto da fiscalização, e poderão ser realizadas vistorias ou inspeções nas instalações dos titulares de direitos minerários.
+§ 1º A ANM disciplinará os prazos e as condições para apresentação de documentos requisitados, salvo na hipótese de vistoria e inspeção, quando a apresentação dos documentos deverá ser imediata.
+§ 2º Os livros, os arquivos ou os documentos referidos no caput deste artigo deverão ser conservados até o termo final do prazo de prescrição dos créditos decorrentes das operações a que se refiram.
