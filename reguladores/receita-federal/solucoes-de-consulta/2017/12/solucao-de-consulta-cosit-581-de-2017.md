@@ -1,0 +1,37 @@
+Solução de Consulta Cosit nº 581, de 20 de dezembro de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: CRÉDITOS DA NÃO CUMULATIVIDADE. DESPESAS COM AQUISIÇÃO DE VALE-TRANSPORTE, VALE-REFEIÇÃO OU VALE-ALIMENTAÇÃO, FARDAMENTO OU UNIFORME.
+Para fins de cálculo dos créditos de que trata o inciso X do art. 3º da Lei nº 10.637, de 2002, são considerados os dispêndios com vale-transporte, vale-refeição ou vale-alimentação, fardamento ou uniforme relativos à mão-de-obra empregada nas atividades de prestação de serviços de limpeza, conservação e manutenção, não cabendo a apuração de créditos decorrentes destes dispêndios quando incorridos em relação aos empregados que atuem em outras atividades exercidas pela pessoa jurídica.
+O direito ao crédito em referência não depende de a pessoa jurídica desenvolver, concomitantemente, as três atividades relacionadas naquele inciso.
+Por falta de previsão legal, não haverá o direito ao crédito em comento para pessoa jurídica que empregar a mesma mão de obra, de forma indistinta e não segregada, na exploração das atividades de limpeza, conservação e manutenção, e de outras atividades delas distinta.
+Solução vinculada à Solução de Consulta Cosit nº 219, de 06 de agosto de 2014, publicada no Diário Oficial da União (DOU) de 21 de agosto de 2014.
+DESPESAS COM EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI).
+Os valores das despesas realizadas com a aquisição de equipamentos de proteção individual (EPI) tais como calçados, roupas protetoras e cremes protetores, não geram direito à apuração de créditos a serem descontados da Contribuição para o PIS/Pasep, por não se enquadrarem na categoria de insumos aplicados ou consumidos diretamente nos serviços prestados, e inexistir previsão legal específica para o desconto do crédito.
+Solução parcialmente vinculada à Solução de Consulta Cosit nº 106, de 27 de abril de 2015.
+DESPESAS COM COMBUSTÍVEIS.
+Por não se enquadrarem como insumos diretamente aplicados ou consumidos na prestação de serviços, e não haver autorização legal específica que autorize seu desconto, as despesas efetuadas com a aquisição de combustíveis e lubrificantes utilizados em veículo destinado ao transporte de empregados não geram direito a créditos a serem descontados da Contribuição do PIS/Pasep não-cumulativa. Tais orientações se aplicam inclusive quando os referidos empregados estejam envolvidos diretamente na prestação dos serviços.
+Solução parcialmente vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DESPESAS COM CRACHÁS DE IDENTIFICAÇÃO.
+Não geram direito à apuração de créditos a serem descontados da Contribuição para o PIS/Pasep os valores das despesas realizadas com a aquisição de crachás de identificação, por não se enquadrarem na categoria de insumos aplicados ou consumidos diretamente nos serviços prestados e por não existir previsão legal expressa para incluí-los na base de cálculo de apuração dos créditos. Solução parcialmente vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DESPESAS COM EQUIPAMENTOS E FERRAMENTAS.
+Os gastos incorridos com equipamentos e ferramentas podem ser considerados como insumos, para fins de crédito a ser descontado da Contribuição do PIS/Pasep, quando forem aplicados/consumidos diretamente na prestação de serviços das atividades-fim e desde que não estejam obrigados a serem incluídos no ativo imobilizado, nos termos da legislação vigente.
+Solução parcialmente vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3º; Lei nº 11.898, de 2009, art. 24; IN SRF nº 247, de 2002, art. 66 e 67.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+EMENTA: CRÉDITOS DA NÃO CUMULATIVIDADE. DESPESAS COM AQUISIÇÃO DE VALE-TRANSPORTE, VALE-REFEIÇÃO OU VALE-ALIMENTAÇÃO, FARDAMENTO OU UNIFORME.
+Para fins de cálculo dos créditos de que trata o inciso X do art. 3º da Lei nº 10.833, de 2003, são considerados os dispêndios com vale-transporte, vale-refeição ou vale-alimentação, fardamento ou uniforme relativos à mão-de-obra empregada nas atividades de prestação de serviços de limpeza, conservação e manutenção, não cabendo a apuração de créditos decorrentes destes dispêndios quando incorridos em relação aos empregados que atuem em outras atividades exercidas pela pessoa jurídica.
+O direito ao crédito em referência não depende de a pessoa jurídica desenvolver, concomitantemente, as três atividades relacionadas naquele inciso.
+Por falta de previsão legal, não haverá o direito ao crédito em comento para pessoa jurídica que empregar a mesma mão de obra, de forma indistinta e não segregada, na exploração das atividades de limpeza, conservação e manutenção, e de outras atividades delas distinta.
+Solução parcialmente vinculada à Solução de Consulta Cosit nº 219, de 06 de agosto de 2014, publicada no Diário Oficial da União (DOU) de 21 de agosto de 2014.
+DESPESAS COM COMBUSTÍVEIS.
+Por não se enquadrarem como insumos diretamente aplicados ou consumidos na prestação de serviços, as despesas efetuadas com a aquisição de combustíveis e lubrificantes utilizados em veículo destinado ao transporte de empregados não geram direito a créditos a serem descontados da Cofins não-cumulativa. Tais orientações se aplicam inclusive quando os referidos empregados estejam envolvidos diretamente na prestação dos serviços.
+Solução parcialmente vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DESPESAS COM EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI)
+Os valores das despesas realizadas com a aquisição de equipamentos de proteção individual (EPI) tais como calçados, roupas protetoras e cremes protetores, não geram direito à apuração de créditos a serem descontados da Cofins, porque não se enquadram na categoria de insumos aplicados ou consumidos diretamente nos serviços prestados. Solução parcialmente vinculada à Solução de Consulta Cosit nº 106, de 27 de abril de 2015.
+DESPESAS COM CRACHÁS DE IDENTIFICAÇÃO.
+Não geram direito à apuração de créditos a serem descontados da Cofins os valores das despesas realizadas com a aquisição de crachás de identificação, por não se enquadrarem na categoria de insumos aplicados ou consumidos diretamente nos serviços prestados e por não existir previsão legal expressa para incluí-los na base de cálculo de apuração dos créditos. Solução parcialmente vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DESPESAS COM EQUIPAMENTOS E FERRAMENTAS.
+Os gastos incorridos com equipamentos e ferramentas podem ser considerados como insumos, para fins de crédito a ser descontado da Cofins, quando forem aplicados/consumidos diretamente na prestação de serviços das atividades-fim e desde que não estejam obrigados a serem incluídos no ativo imobilizado, nos termos da legislação vigente. Solução parcialmente vinculada à Solução de Divergência Cosit nº 07, de 23 de agosto de 2016, publicada no Diário Oficial da União (DOU) de 14 de outubro de 2016.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º; Lei nº 11.898, de 2009, art. 25; IN SRF nº 404, de 2004, art. 8º.
+Novo segmento
+[arquivo anexo: SC Cosit nº 581-2017.pdf]
