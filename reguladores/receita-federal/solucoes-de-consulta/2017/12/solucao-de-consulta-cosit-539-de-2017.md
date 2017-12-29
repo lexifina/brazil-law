@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 539, de 19 de dezembro de 2017
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins EMENTA: ISENÇÃO. ENTIDADES BENEFICENTES DE ASSISTÊNCIA SOCIAL. SERVIÇOS DE “CASA LAR. São isentas da Cofins as receitas decorrentes da prestação do serviço de “casa lar” sem fins lucrativos e em decorrência de convênio firmado com Município, quando auferidas por entidade beneficente de assistência social certificada nos termos da Lei nº 12.101, de 2009, e que atenda aos requisitos da mesma lei. DISPOSITIVOS LEGAIS: Lei nº 12.101/2009, arts. 1º a 3º, 18 a 20, 29 a 33, e 36; MP nº 2.158-35/2001, arts. 13, III, 14, X, e 17; Lei nº 9.532, de 1997, art. 12; Lei nº 8.742, de 1993, arts. 1º a 3º.
+[arquivo anexo: SC Cosit nº 539-2017.pdf]
