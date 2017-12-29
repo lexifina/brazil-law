@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 589, de 21 de dezembro de 2017
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: LUCRO. CONVENÇÃO PARA EVITAR A DUPLA TRIBUTAÇÃO DA RENDA BRASIL-MÉXICO. Os rendimentos pagos, creditados, empregados, entregues ou remetidos por pessoa jurídica domiciliada no Brasil para pessoas jurídicas domiciliadas no México a título de remuneração pelo serviço de corretagem ou mediação, que não envolvam serviços técnicos ou de assistência técnica e sem intermédio de estabelecimento permanente da prestadora no Brasil, são tributados apenas no México em razão do disposto no art. 7º da Convenção Brasil-México, e, portanto, não estão sujeitos ao IRRF. DISPOSITIVOS LEGAIS: Decreto no 6.000, de 26 de dezembro de 2006, Parecer PGFN/CAT nº 2.363, de 19 de dezembro de 2013.
+Novo segmento
+[arquivo anexo: SC Cosit nº 589-2017.pdf]
