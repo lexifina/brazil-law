@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 626, de 26 de dezembro de 2017
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA FÍSICA - IRPF EMENTA: DECLARAÇÃO DE AJUSTE ANUAL. DEDUÇÃO. DESPESAS MÉDICAS. DESPESAS COM APARELHO PARA SURDEZ. IMPOSSIBILIDADE. As despesas efetuadas com a compra de aparelhos para surdez e com a sua manutenção não podem ser deduzidas como despesas médicas na Declaração de Ajuste Anual. DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), art. 80, § 1º, inciso V; Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, art. 94.
+[arquivo anexo: SC Cosit nº 626-2017.pdf]
