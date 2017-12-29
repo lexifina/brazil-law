@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 614, de 26 de dezembro de 2017
+ASSUNTO: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI EMENTA: FABRICAÇÃO DE ARMAS DE FOGO. AQUISIÇÃO DE MUNIÇÃO PARA REALIZAÇÃO DE TESTES DE TIRO. OPERAÇÃO DE INDUSTRIALIZAÇÃO NÃO CARACTERIZADA. INEXISTÊNCIA DE DIREITO A CRÉDITO DO IPI. Munição adquirida por fabricante de armas de fogo para a realização de testes de tiro com as armas que fabrica não dá direito a crédito do Imposto sobre Produtos Industrializados, uma vez que os referidos testes não se enquadram como operação de industrialização. DISPOSITIVOS LEGAIS: Decreto nº 7.212, de 2010, arts. 4º e 226, inciso I; PN CST nº 65, de 1979.
+[arquivo anexo: SC Cosit nº 614-2017.pdf]
