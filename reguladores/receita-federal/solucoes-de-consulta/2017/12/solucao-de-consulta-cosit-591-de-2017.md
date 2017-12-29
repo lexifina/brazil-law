@@ -1,0 +1,13 @@
+Solução de Consulta Cosit nº 591, de 21 de dezembro de 2017
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: COFINS-IMPORTAÇÃO. SUSPENSÃO. ZONA FRANCA DE MANAUS. DESVIO DE DESTINAÇÃO.
+Para a ocorrência da conversão da suspensão de exigência da Cofins-Importação com fulcro no art. 14-A da Lei nº 10.865, de 2014, na redução à alíquota 0 (zero) de que trata o inciso II do art. 8º da Lei nº 11.051, de 2004, as matérias-primas, os produtos intermediários e os materiais de embalagem importados com aquele benefício devem ser obrigatoriamente utilizados em processo de industrialização por estabelecimentos industriais instalados na Zona Franca de Manaus e consoante projetos aprovados pelo Conselho de Administração da Superintendência da Zona Franca de Manaus – SUFRAMA.
+Qualquer outro destino que seja a elas dado, seja sua destruição, ou venda, no próprio estado em que foram importadas, ou como resíduo/sucata de destruição, significa desvio da destinação legal que justificou a fruição do benefício, obrigando o responsável pelo fato ao pagamento da contribuição e das penalidades cabíveis, como se a suspensão não existisse.
+DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, arts. 14 e 14-A; Lei nº 11.051, de 2004, art. 8º; Decreto nº 6.759, de 2009, arts. 311 e 312; e Lei nº 11.945, de 2009, art. 22.
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: PIS/PASEP-IMPORTAÇÃO. SUSPENSÃO. ZONA FRANCA DE MANAUS. DESVIO DE DESTINAÇÃO.
+Para a ocorrência da conversão da suspensão de exigência da Contribuição para o PIS/Pasep-Importação com fulcro no art. 14-A da Lei nº 10.865, de 2014, na redução à alíquota 0 (zero) de que trata o inciso II do art. 8º da Lei nº 11.051, de 2004, as matérias-primas, os produtos intermediários e os materiais de embalagem importados com aquele benefício devem ser obrigatoriamente utilizados em processo de industrialização por estabelecimentos industriais instalados na Zona Franca de Manaus e consoante projetos aprovados pelo Conselho de Administração da Superintendência da Zona Franca de Manaus – SUFRAMA.
+Qualquer outro destino que seja a elas dado, seja sua destruição, ou venda, no próprio estado em que foram importadas, ou como resíduo/sucata de destruição, significa desvio da destinação legal que justificou a fruição do benefício, obrigando o responsável pelo fato ao pagamento da contribuição e das penalidades cabíveis, como se a suspensão não existisse.
+DISPOSITIVOS LEGAIS: Lei nº 10.865, de 2004, arts. 14 e 14-A; Lei nº 11.051, de 2004, art. 8º; Decreto nº 6.759, de 2009, arts. 311 e 312; e Lei nº 11.945, de 2009, art. 22.
+Novo segmento
+[arquivo anexo: SC Cosit nº 591-2017.pdf]
