@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 613, de 26 de dezembro de 2017
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS EMENTA: CPSS. SERVIDOR CEDIDO. NÃO INCIDÊNCIA SOBRE VERBAS NÃO RECEBIDAS. A base de cálculo da CPSS abrange apenas a remuneração efetivamente recebida. A CPSS não incide sobre a Gratificação Judiciária (GAJ) e o Adicional de Qualificação (AQ), previstos na Lei nº 11.416, de 2006, a cujo efetivo recebimento não tem direito o servidor cedido para órgão estadual enquanto durar a cessão. DISPOSITIVOS LEGAIS: Arts. 40 da CF/1988; §3º do art. 13 e §4º do art. 15 da Lei nº 11.416/2006; e Art. 4º da Lei nº 10.887/2004.
+[arquivo anexo: SC Cosit nº 613-2017.pdf]
