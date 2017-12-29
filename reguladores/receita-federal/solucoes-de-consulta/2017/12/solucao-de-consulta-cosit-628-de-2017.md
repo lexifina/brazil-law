@@ -1,0 +1,3 @@
+Solução de Consulta Cosit nº 628, de 26 de dezembro de 2017
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ EMENTA: VARIAÇÃO MONETÁRIA. REGIME DE APURAÇÃO. ALTERAÇÃO DE OPÇÃO. Definido pela legislação tributária que a variação superior a dez pontos percentuais para mais ou para menos corresponde ao que deve ser entendido como elevada oscilação da taxa de câmbio, a alteração da opção do regime de apuração destas variações prescinde de autorização expressa mediante Portaria Ministerial. DISPOSITIVOS LEGAIS: Medida Provisória nº 2.158-35/2001, art. 30, §1º; Decreto nº 8.451/2015, art. 1º; Instrução Normativa RFB nº 1.079/2010, arts. 5º e 5-A, com a redação dada pela Instrução Normativa RFB nº 1.656/2016.
+[arquivo anexo: SC Cosit nº 628-2017.pdf]
