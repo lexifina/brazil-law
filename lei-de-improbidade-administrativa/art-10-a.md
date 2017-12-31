@@ -1,0 +1,1 @@
+Art. 10-A. Constitui ato de improbidade administrativa qualquer ação ou omissão para conceder, aplicar ou manter benefício financeiro ou tributário contrário ao que dispõem o caput e o § 1º do art. 8º-A da Lei Complementar nº 116, de 31 de julho de 2003.
