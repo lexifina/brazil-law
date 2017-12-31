@@ -11,3 +11,4 @@ Art. 17. A ação principal, que terá o rito ordinário, será proposta pelo Mi
 § 10. Da decisão que receber a petição inicial, caberá agravo de instrumento.
 § 11. Em qualquer fase do processo, reconhecida a inadequação da ação de improbidade, o juiz extinguirá o processo sem julgamento do mérito.
 § 12. Aplica-se aos depoimentos ou inquirições realizadas nos processos regidos por esta Lei o disposto no art. 221, caput e § 1º, do Código de Processo Penal.
+§ 13. Para os efeitos deste artigo, também se considera pessoa jurídica interessada o ente tributante que figurar no polo ativo da obrigação tributária de que tratam o § 4º do art. 3º e o art. 8º-A da Lei Complementar nº 116, de 31 de julho de 2003.
