@@ -35,6 +35,7 @@ XIV - ISS devido:
 a) em relação aos serviços sujeitos à substituição tributária ou retenção na fonte;
 b) na importação de serviços;
 XV - demais tributos de competência da União, dos Estados, do Distrito Federal ou dos Municípios, não relacionados nos incisos anteriores.
+§ 1º-A. Os valores repassados aos profissionais de que trata a Lei nº 12.592, de 18 de janeiro de 2012, contratados por meio de parceria, nos termos da legislação civil, não integrarão a receita bruta da empresa contratante para fins de tributação, cabendo ao contratante a retenção e o recolhimento dos tributos devidos pelo contratado.
 § 2º Observada a legislação aplicável, a incidência do imposto de renda na fonte, na hipótese do inciso V do § 1º deste artigo, será definitiva.
 § 3º As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam dispensadas do pagamento das demais contribuições instituídas pela União, inclusive as contribuições para as entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical, de que trata o art. 240 da Constituição Federal, e demais entidades de serviço social autônomo.
 § 4º (VETADO).
