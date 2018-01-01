@@ -1,4 +1,4 @@
-Art. 18-C. Observado o disposto no art. 18-A, e seus parágrafos, desta Lei Complementar, poderá se enquadrar como MEI o empresário individual que possua um único empregado que receba exclusivamente 1 (um) salário mínimo ou o piso salarial da categoria profissional.
+Art. 18-C. Observado o disposto no caput e nos §§ 1º a 25 do art. 18-A desta Lei Complementar, poderá enquadrar-se como MEI o empresário individual ou o empreendedor que exerça as atividades de industrialização, comercialização e prestação de serviços no âmbito rural que possua um único empregado que receba exclusivamente um salário mínimo ou o piso salarial da categoria profissional.
 § 1º Na hipótese referida no caput, o MEI:
 I - deverá reter e recolher a contribuição previdenciária relativa ao segurado a seu serviço na forma da lei, observados prazo e condições estabelecidos pelo CGSN;
 II - é obrigado a prestar informações relativas ao segurado a seu serviço, na forma estabelecida pelo CGSN; e
