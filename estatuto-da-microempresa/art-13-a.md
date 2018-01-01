@@ -1,0 +1,1 @@
+Art. 13-A. Para efeito de recolhimento do ICMS e do ISS no Simples Nacional, o limite máximo de que trata o inciso II do caput do art. 3º será de R$ 3.600.000,00 (três milhões e seiscentos mil reais), observado o disposto nos §§ 11, 13, 14 e 15 do mesmo artigo, nos §§ 17 e 17-A do art. 18 e no § 4º do art. 19.

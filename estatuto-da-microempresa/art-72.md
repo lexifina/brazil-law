@@ -1,1 +1,0 @@
-Art. 72. As microempresas e as empresas de pequeno porte, nos termos da legislação civil, acrescentarão à sua firma ou denominação as expressões "Microempresa" ou "Empresa de Pequeno Porte", ou suas respectivas abreviações, "ME" ou "EPP", conforme o caso, sendo facultativa a inclusão do objeto da sociedade.

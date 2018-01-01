@@ -9,3 +9,4 @@ II - (Revogado).
 I - para a emissão de boletos de cobrança, os bancos públicos e privados deverão exigir das instituições sindicais e associativas autorização prévia específica a ser emitida pelo CGSIM;
 II - o desrespeito ao disposto neste parágrafo configurará vantagem ilícita pelo induzimento ao erro em prejuízo do MEI, aplicando-se as sanções previstas em lei.
 § 5º (VETADO).
+§ 6º Na ocorrência de fraude no registro do Microempreendedor Individual - MEI feito por terceiros, o pedido de baixa deve ser feito por meio exclusivamente eletrônico, com efeitos retroativos à data de registro, na forma a ser regulamentada pelo CGSIM, não sendo aplicáveis os efeitos do § 1º do art. 29 desta Lei Complementar.

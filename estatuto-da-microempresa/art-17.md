@@ -10,11 +10,15 @@ VIII - que exerça atividade de importação ou fabricação de automóveis e mo
 IX - que exerça atividade de importação de combustíveis;
 X - que exerça atividade de produção ou venda no atacado de:
 a) cigarros, cigarrilhas, charutos, filtros para cigarros, armas de fogo, munições e pólvoras, explosivos e detonantes;
-b) bebidas a seguir descritas:
-1 - alcoólicas;
+b) bebidas não alcoólicas a seguir descritas:
 2. (Revogado);
 3. (Revogado);
 4 - cervejas sem álcool;
+c) bebidas alcoólicas, exceto aquelas produzidas ou vendidas no atacado por:
+1. micro e pequenas cervejarias;
+2. micro e pequenas vinícolas;
+3. produtores de licores;
+4. micro e pequenas destilarias;
 XI - (Revogado);
 XII - que realize cessão ou locação de mão-de-obra;
 XIII - (Revogado);
@@ -53,3 +57,4 @@ XXVIII - (VETADO).
 § 2º Também poderá optar pelo Simples Nacional a microempresa ou empresa de pequeno porte que se dedique à prestação de outros serviços que não tenham sido objeto de vedação expressa neste artigo, desde que não incorra em nenhuma das hipóteses de vedação previstas nesta Lei Complementar.
 § 3º (VETADO).
 § 4º Na hipótese do inciso XVI do caput, deverá ser observado, para o MEI, o disposto no art. 4º desta Lei Complementar.
+§ 5º As empresas que exerçam as atividades previstas nos itens da alínea c do inciso X do caput deste artigo deverão obrigatoriamente ser registradas no Ministério da Agricultura, Pecuária e Abastecimento e obedecerão também à regulamentação da Agência Nacional de Vigilância Sanitária e da Secretaria da Receita Federal do Brasil quanto à produção e à comercialização de bebidas alcoólicas.

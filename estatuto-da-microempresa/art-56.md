@@ -23,3 +23,4 @@ V - ser resultante ou remanescente de cisão ou qualquer outra forma de desmembr
 VI - exercer a atividade vedada às microempresas e empresas de pequeno porte optantes pelo Simples Nacional.
 § 6º A inobservância do disposto no § 4º deste artigo acarretará a responsabilidade solidária das microempresas ou empresas de pequeno porte sócias da sociedade de propósito específico de que trata este artigo na hipótese em que seus titulares, sócios ou administradores conhecessem ou devessem conhecer tal inobservância.
 § 7º O Poder Executivo regulamentará o disposto neste artigo até 31 de dezembro de 2008.
+§ 8º (VETADO).
