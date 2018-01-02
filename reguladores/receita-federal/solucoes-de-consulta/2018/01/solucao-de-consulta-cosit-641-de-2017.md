@@ -1,0 +1,14 @@
+Solução de Consulta Cosit nº 641, de 27 de dezembro de 2017
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA: NÃO CUMULATIVIDADE. CRÉDITOS. ARMAZENAGEM DE MERCADORIAS COM EMISSÃO DE WARRANTS AGROPECUÁRIOS.
+Os valores totais pagos a armazéns gerais em decorrência da prestação cumulativa de serviços de (i) armazenagem de mercadorias destinadas à venda e (ii) emissão de Certificados de Depósitos Agropecuários (CDAs) e Warrants Agropecuários (WAs) não permitem a apuração de créditos da Contribuição para o PIS/Pasep, por falta de previsão legal.
+Contudo, o fato de o pagamento pelos diversos serviços englobados no serviço de armazenagem com emissão de CDAs e de WAs estar inserido na execução de um contrato global não inviabiliza a apuração de créditos em relação àqueles serviços contemplados na legislação da Contribuição para o PIS/Pasep, desde que os valores relativos a cada serviço estejam expressamente discriminados e sejam razoáveis e proporcionais ante as cláusulas contratuais e as operações efetivamente praticadas.
+Consequentemente, desde que atendidos os requisitos da legislação de regência, é permitida a apropriação de créditos da Contribuição para o PIS/Pasep vinculados às despesas que se refiram especificamente à armazenagem de mercadorias destinadas à venda e que não sofram influência da emissão de CDAs e de WAs.
+DISPOSITIVOS LEGAIS: Lei nº 11.076, de 2004, arts. 1º, 2º, 3º, 6º, 7º e 16; Lei nº 10.833, de 2003, art. 3º, IX, c/c art. 15, II.
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+EMENTA: NÃO CUMULATIVIDADE. CRÉDITOS. ARMAZENAGEM DE MERCADORIAS COM EMISSÃO DE WARRANTS AGROPECUÁRIOS.
+Os valores totais pagos a armazéns gerais em decorrência da prestação cumulativa de serviços de (i) armazenagem de mercadorias destinadas à venda e (ii) emissão de Certificados de Depósitos Agropecuários (CDAs) e Warrants Agropecuários (WAs) não permitem a apuração de créditos da Cofins, por falta de previsão legal.
+Contudo, o fato de o pagamento pelos diversos serviços englobados no serviço de armazenagem com emissão de CDAs e de WAs estar inserido na execução de um contrato global não inviabiliza a apuração de créditos em relação àqueles serviços contemplados na legislação da Cofins, desde que os valores relativos a cada serviço estejam expressamente discriminados e sejam razoáveis e proporcionais ante as cláusulas contratuais e as operações efetivamente praticadas.
+Consequentemente, desde que atendidos os requisitos da legislação de regência, é permitida a apropriação de créditos da Cofins vinculados às despesas que se refiram especificamente à armazenagem de mercadorias destinadas à venda e que não sofram influência da emissão de CDAs e de WAs.
+DISPOSITIVOS LEGAIS: Lei nº 11.076, de 2004, arts. 1º, 2º, 3º, 6º, 7º e 16; Lei nº 10.833, de 2003, art. 3º, IX.
+[arquivo anexo: SC Cosit nº 641-2017.pdf]
