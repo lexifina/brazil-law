@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 559, de 20 de dezembro de 2017
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONTRIBUIÇÕES SOCIAIS SUBSTITUTIVAS. PRODUTOR RURAL PESSOA JURÍDICA. COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. PRESTAÇÃO DE SERVIÇOS A TERCEIROS.
+Não constitui atividade econômica autônoma à atividade de produção rural a prestação de serviços a terceiros, por produtor rural pessoa jurídica, relacionados à atividade agropecuária, pesqueira ou silvicultural, ou à extração de produtos primários, vegetais ou animais, desde que esses serviços possuam estrita vinculação com a atividade econômica mais abrangente do produtor rural, ficando excluída a receita proveniente dessas operações da base de cálculo da contribuição sobre a receita bruta proveniente da comercialização da produção rural, exclusivamente em relação à remuneração dos segurados envolvidos na prestação desses serviços, hipótese em que são devidas as contribuições previstas nos incisos I e II do art. 22 da Lei nº 8.212, de 1991.
+Dispositivos Legais: Lei nº 8.212, de 24 de julho de 1991, art. 22 ; Lei n.º 8.870, de 15 de abril de 1994, art. 25, e Instrução Normativa RFB nº 971, de 13 de novembro de 2009, arts. 165, I, II e XXII, e 175.
+[arquivo anexo: SC Cosit nº 559-2017.pdf]
