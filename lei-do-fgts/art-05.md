@@ -21,3 +21,4 @@ f) estabelecer o limite máximo de participação dos recursos do FI-FGTS por se
 g) estabelecer o prazo mínimo de resgate das cotas e de retorno dos recursos à conta vinculada, observado o disposto no § 19 do art. 20 desta Lei;
 h) aprovar o regulamento do FI-FGTS, elaborado pela Caixa Econômica Federal; e
 i) autorizar a integralização de cotas do FI-FGTS pelos trabalhadores, estabelecendo previamente os limites globais e individuais, parâmetros e condições de aplicação e resgate.
+XIV - autorizar e definir as condições financeiras e contratuais a serem observadas na aplicação de recursos do FGTS em instrumentos de dívida emitidos pela Caixa Econômica Federal, observado o disposto em lei especial e em atos editados pelo Conselho Monetário Nacional.
