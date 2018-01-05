@@ -13,7 +13,7 @@ III - a implementação pelos Municípios dos instrumentos da Lei nº 10.257, de
 I - os parâmetros de priorização e enquadramento dos beneficiários do PMCMV; e
 II - a periodicidade de atualização dos limites de renda familiar estabelecidos nesta Lei.
 § 4º Além dos critérios estabelecidos no caput, os Estados, Municípios e Distrito Federal poderão fixar outros critérios de seleção de beneficiários do PMCMV, previamente aprovados pelos respectivos conselhos locais de habitação, quando existentes, e em conformidade com as respectivas políticas habitacionais e as regras estabelecidas pelo Poder Executivo federal.
-§ 5º Os Estados, Municípios e Distrito Federal que aderirem ao PMCMV serão responsáveis pela execução do trabalho técnico e social pós-ocupação dos empreendimentos implantados, na forma estabelecida em termo de adesão a ser definido em regulamento.
+§ 5º Os Estados, Municípios e Distrito Federal que aderirem ao PMCMV e a Caixa Econômica Federal serão responsáveis pela execução do trabalho técnico e social pós-ocupação dos empreendimentos implantados, na forma estabelecida em termo de adesão a ser definido em regulamento.
 § 6º Na atualização dos valores adotados como parâmetros de renda familiar estabelecidos nesta Lei deverão ser observados os seguintes critérios:
 I - quando o teto previsto no dispositivo for de R$ 4.650,00 (quatro mil, seiscentos e cinquenta reais), o valor atualizado não poderá ultrapassar 10 (dez) salários mínimos;
 II - quando o teto previsto no dispositivo for de R$ 2.790,00 (dois mil, setecentos e noventa reais), o valor atualizado não poderá ultrapassar 6 (seis) salários mínimos;
