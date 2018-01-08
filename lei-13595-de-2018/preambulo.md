@@ -1,0 +1,2 @@
+Altera a Lei nº 11.350, de 5 de outubro de 2006, para dispor sobre a reformulação das atribuições, a jornada e as condições de trabalho, o grau de formação profissional, os cursos de formação técnica e continuada e a indenização de transporte dos profissionais Agentes Comunitários de Saúde e Agentes de Combate às Endemias.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
