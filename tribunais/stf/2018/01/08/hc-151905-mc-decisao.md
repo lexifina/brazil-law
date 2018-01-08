@@ -1,0 +1,31 @@
+DECISÃO
+(petição/STF n. 78.139/2017)
+MEDIDA CAUTELAR NO HABEAS CORPUS. REITERAÇÃO DOS ARGUMENTOS APRESENTADOS NA PETIÇÃO INICIAL. PEDIDO DE RECONSIDERAÇÃO INDEFERIDO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Danilo Marques Borges, em benefício de Arthur Ferreira dos Santos, contra decisão do Ministro do Superior Tribunal de Justiça Nefi Cordeiro, que, em 19.12.2017, indeferiu medida liminar no habeas corpus n. 426.713. Pretende a defesa a concessão da liberdade ao paciente.
+    2. Em 22.12.2017, afirmei que o caso não se enquadrava na previsão do art. 13, inc. VIII, do Regimento Interno do Supremo Tribunal Federal.
+    3. O impetrante protocolizou pedido de reconsideração (petição/STF 78.139/2017), alegando que o ato coator foi proferido “no último dia de expediente do judiciário às 18 horas, razão pela qual não lhe restou outra opção, a não ser buscar guarida nessa Corte Superior”.
+    Pede seja reanalisado o requerimento de medida liminar no presente habeas corpus.
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. Os argumentos do impetrante não são suficientes para a aplicação do art. 13, inc. VIII, do Regimento Interno do Supremo Tribunal Federal.
+    O presente habeas corpus foi impetrado contra decisão de indeferimento de medida liminar proferida por Ministro do Superior Tribunal do Justiça que sequer foi ainda publicada, não se encontrando nos autos inteiro teor do ato indicado como coator.
+    Este Supremo Tribunal tem admitido, em casos excepcionais e em circunstâncias fora do ordinário, o temperamento na aplicação da Súmula n. 691 do Supremo Tribunal Federal (“Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”). Essa excepcionalidade é demonstrada em casos nos quais se patenteie flagrante ilegalidade ou contrariedade a princípios constitucionais ou legais na decisão questionada.
+    Neste momento da tramitação deste habeas corpus, não é possível constatar inidoneidade dos fundamentos apresentados para a prisão do paciente:
+    “Pela documentação carreada, constato que há prova da materialidade e indícios suficientes de que a autoria delitiva de crime contra a ordem tributária (artigo 1º, inciso II, da Lei 8.137/90) e associação criminosa (artigo 288, do Código Penal), cujas penas máximas somadas de reclusão excedem 04 (quatro) anos, devem ser imputadas aos representados Arthur Ferreira dos Santos, Walerson de Paula Mesquita, Elismar Mesquita e Bruna Mesquita Souza Ferreira.
+    (…)
+    Em diligência feita com o intuito de encontrar os representados foi constatado que o endereço fornecido como endereço da empresa encontra-se fechado sem nenhum indício de mercancia, ou, qualquer outra forma de atividade, conforme Parecer Fiscal de ff. 79-80.
+    Frise-se que em crimes dessa espécie os envolvidos costumam migrar para outras empresas a fim de furtar-se da responsabilização criminal e tributária, dando início a nova ações lesivas ao Fisco.
+    Saliente-se também que o montante das operações comerciais realizadas pela empresa chega a R$ 36.130.068,55 (trinta e seis milhões, cento e trinta mil, sessenta e oito reais e cinquenta e cinco centavos), sendo que o ICMS não recolhido computa a quantia de R$ 4.330.002,64 (quatro milhões, trezentos e trinta mil, dois reais e sessenta e quatro centavos). Quantidade exorbitante de tributo não recolhido, e que não será usado para o seu fim precípuo e mantenedor da sociedade.
+    Neste contexto, diante da gravidade em concreto demonstrada pelos elementos carreados aos autos, é importante sacrificar o direito individual dos representados em favor do interesse da garantia da ordem pública, resguardando o risco de que, em liberdade, voltaram a delinquir, gerando instabilidade na ordem tributária.
+    Ademais, a segregação cautelar visa também assegurar a tranquilidade da sociedade, diminuindo o sentimento de impunidade e desencorajando outros indivíduos a se enveredarem pelo crime.
+    Dito isso, verifica-se claramente que, in casu, a prisão cautelar é medida que se impõe, tanto pela ofensa à ordem pública, como pela conveniência da instrução criminal e, sobretudo, para assegurar que os representados não venham a se esquivar da persecução estatal e continuar suas atividades criminosas por meio de constituição de outras empresas.
+    Portanto, estão satisfatoriamente demonstrados os requisitos previstos no artigo 312 do Código de Processo Penal, quais sejam o fumus comissi delicti, concernente à prova de materialidade e indícios suficientes de autoria, associado ao periculum libertatis, referente à ameaça oferecida pelos representados à ordem econômica se postos em liberdade, bem como o risco de furtarem-se à aplicação da lei penal.
+    Lado outro, em virtude das próprias peculiaridades que envolvem o delito, entendo que as medidas cautelares diversas da prisão apontadas no art. 319 do Código de Processo Penal se apresentam inadequadas e insuficientes, pois levo em conta a periculosidade do agente e indícios de que em liberdade o agente apresentará entraves a persecução criminal.
+    Ademais, a prisão cautelar com base no resguardo da ordem pública visa evitar que o agente permaneça delinquindo no decorrer da persecução penal, evitando-se distúrbios e intranquilidade no meio social, ao mesmo tempo assegura a credibilidade das instituições no meio social, como mecanismo eficaz de repressão delitiva.
+    Destaco que eventuais circunstâncias abonadoras de natureza pessoal, mesmo que demonstradas nos autos, não são suficientes para justificar a aplicação das medidas cautelares diversas da prisão. (…)
+    Ante o exposto, presentes, portanto, os requisitos constantes do art. 312 do CPP e com fulcro no artigo 313, inciso I, do mesmo diploma legal, revelando-se inadequadas ou insuficientes as medidas cautelares diversas da prisão, decreto a prisão preventiva de Arthur Ferreira dos Santos, Walerson de Paula Mesquita, Elismar Mesquita e Bruna Mesquita Souza Ferreira”.
+    6. Pelo exposto, indefiro o pedido de reconsideração apresentado na petição/STF 78.139/2017.
+    Publique-se.
+    Brasília, 8 de janeiro de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
