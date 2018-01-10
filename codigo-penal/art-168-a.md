@@ -9,3 +9,4 @@ III - pagar benefício devido a segurado, quando as respectivas cotas ou valores
 § 3º É facultado ao juiz deixar de aplicar a pena ou aplicar somente a de multa se o agente for primário e de bons antecedentes, desde que:
 I - tenha promovido, após o início da ação fiscal e antes de oferecida a denúncia, o pagamento da contribuição social previdenciária, inclusive acessórios; ou
 II - o valor das contribuições devidas, inclusive acessórios, seja igual ou inferior àquele estabelecido pela previdência social, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais.
+§ 4º A faculdade prevista no § 3º deste artigo não se aplica aos casos de parcelamento de contribuições cujo valor, inclusive dos acessórios, seja superior àquele estabelecido, administrativamente, como sendo o mínimo para o ajuizamento de suas execuções fiscais.
