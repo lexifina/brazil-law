@@ -1,0 +1,2 @@
+Art. 20-C. A Procuradoria-Geral da Fazenda Nacional poderá condicionar o ajuizamento de execuções fiscais à verificação de indícios de bens, direitos ou atividade econômica dos devedores ou corresponsáveis, desde que úteis à satisfação integral ou parcial dos débitos a serem executados.
+Parágrafo único. Compete ao Procurador-Geral da Fazenda Nacional definir os limites, critérios e parâmetros para o ajuizamento da ação de que trata o caput deste artigo, observados os critérios de racionalidade, economicidade e eficiência.
