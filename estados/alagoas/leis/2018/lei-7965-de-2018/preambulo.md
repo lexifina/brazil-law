@@ -1,0 +1,7 @@
+LEI Nº 7.965, DE 9 DE JANEIRO DE 2018.
+
+INSTITUI O PROGRAMA CRIANÇA ALAGOANA – CRIA, E DÁ OUTRAS PROVIDÊNCIAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
+
+CAPÍTULO I DAS DISPOSIÇÕES GERAIS
