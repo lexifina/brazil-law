@@ -1,0 +1,4 @@
+LEI Nº 13.612, DE 10 DE JANEIRO DE 2018
+Denomina Rodovia Frei Jorge o trecho da rodovia BR-251 localizado no perímetro urbano da cidade de Unaí, Estado de Minas Gerais.
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
