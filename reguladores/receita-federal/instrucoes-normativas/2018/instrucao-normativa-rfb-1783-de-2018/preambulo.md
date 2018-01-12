@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1783, de 11 de janeiro de 2018
+Dispõe sobre a solicitação de serviços mediante dossiê digital de atendimento.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXV do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no parágrafo único do art. 2º e nos arts. 64-A e 64-B do Decreto nº 70.235, de 6 de março de 1972, na Lei nº 12.682, de 9 de julho de 2012, na Portaria MF nº 527, de 9 de novembro de 2010, e na Portaria SRF nº 259, de 13 de março de 2006, resolve:
