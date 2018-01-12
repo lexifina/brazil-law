@@ -7,6 +7,8 @@ IV - as diretrizes quanto à articulação intersetorial das políticas pública
 V - a delimitação das áreas com restrições à urbanização visando à proteção do patrimônio ambiental ou cultural, bem como das áreas sujeitas a controle especial pelo risco de desastres naturais, se existirem; e
 VI - o sistema de acompanhamento e controle de suas disposições.
 § 2º No processo de elaboração do plano previsto no caput deste artigo e na fiscalização de sua aplicação, serão assegurados:
-I - a promoção de audiências públicas e debates com a participação de representantes da sociedade civil e da população, em todos os Municípios integrantes da unidade territorial urbana;
+I - a promoção de audiências públicas com a participação de representantes da sociedade civil e da população;
 II - a publicidade quanto aos documentos e informações produzidos; e
 III - o acompanhamento pelo Ministério Público.
+§ 3º As audiências públicas a que se referem o inciso I do § 2º serão precedidas de ampla divulgação em todos os Municípios integrantes da unidade territorial urbana.
+§ 4º A realização de audiências públicas ocorrerá segundo os critérios estabelecidos pela instância colegiada deliberativa a que se refere o inciso II do caput do art. 8º, respeitadas as disposições desta Lei e das leis complementares que instituírem as unidades territoriais.
