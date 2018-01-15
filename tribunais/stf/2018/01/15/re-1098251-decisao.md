@@ -1,0 +1,32 @@
+Despacho: Trata-se de recurso extraordinário interposto pela União em face de acórdão do Superior Tribunal de Justiça assim ementado (eDOC 2, p. 19):
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REPARAÇÃO ECONÔMICA. ANISTIA DE MILITAR. PARCELAS PRETÉRITAS. MINISTRO DE ESTADO DA DEFESA. LEGITIMIDADE. ADEQUAÇÃO DA VIA ELEITA. DECADÊNCIA NÃO CONFIGURADA. INAPLICABILIDADE DA PRESCRIÇÃO. MERA SOLICITAÇÃO DE CASSAÇÃO DO ATO CONCESSIVO. INSUFICIÊNCIA PARA MODIFICAR A SUJEIÇÃO PASSIVA E AFASTAR A EXISTÊNCIA DO DIREITO LÍQUIDO E CERTO. DISPONIBILIDADE ORÇAMENTÁRIA. DESCUMPRIMENTO DO PRAZO ESTABELECIDO NA LEI 10.559/2002. CONCESSÃO DA ORDEM.
+    1. O Ministro de Estado da Defesa é competente para realizar pagamentos de reparações econômicas concedidas pelo Ministério da Justiça, relativas à anistia política para militares, nos termos do art. 18 da Lei 10.599/2002, tendo legitimidade para figurar como autoridade impetrada no Mandado de Segurança em que se pleiteia o recebimento das parcelas pretéritas.
+    2. O STJ fixou entendimento em conformidade com julgado do STF (RMS 24953/DF, Relator Min. Carlos Velloso, Segunda Turma, DJ 1º.10.2004), admitindo o manejo de Mandado de Segurança contra omissão no pagamento de reparação econômica por anistia concernente a períodos anteriores, não se aplicando à hipótese o óbice das Súmulas 269 e 271, ambas do STF.
+    3. A omissão quanto à reparação econômica é coação continuada no tempo, com relação à qual não caduca o direito de impetração da demanda.
+    4. Em se tratando de exercício de ação que se refere exclusivamente à efetivação de direito líquido e certo, não se cogita da ocorrência de prescrição da pretensão vinculada à satisfação do crédito.
+    5. A falta de recursos orçamentários suficientes para o pagamento das parcelas pretéritas da reparação econômica decorrente de anistia política, continuada ao longo dos anos, revela manifesta desobediência do Poder Executivo à lei que fixou prazo certo para tanto (art. 12, § 4º, da Lei 10.559/2002), razão pela qual não pode ser utilizada sine die como pretexto para inviabilizar a efetivação do direito cuja tutela é perseguida no Mandado de Segurança.
+    6. Caso inexista disponibilidade orçamentária para o imediato atendimento da ordem, o pagamento deverá ser efetuado mediante regular processo de execução contra a Fazenda Pública, com a expedição de precatório (art. 730 do CPC).
+    7. A Primeira Seção do STJ, em 23.2.2011, analisou o argumento de que as anistias outorgadas com base na Portaria 1.104/1964 estão em procedimento de revisão, decidindo que, como ainda subsiste o ato que concedeu a anistia ao impetrante, conferindo-lhe reparação econômica, permanece a omissão no seu cumprimento, de forma que não há alteração nas condições da ação.
+    8. Nada obstante, na assentada de 13.4.2011, em razão da edição da Portaria Interministerial 430, de 7.4.2011, que fixou prazo de 180 dias para a conclusão dos processos de revisão de anistias, a Seção concluiu que, como o pagamento das verbas será feito mediante precatório – e, portanto, os valores não serão levantados pelo impetrante antes do término do prazo estipulado –, a suspensão dos julgamentos será inócua. Por outro lado, salientou que, na eventualidade de ser cassada a anistia, fica prejudicado o provimento judicial obtido no presente mandamus.
+    9. Mandado de Segurança concedido, com a ressalva de que, revogada a anistia concedida ao impetrante, cessam os efeitos desta ordem.”
+    O Superior Tribunal de Justiça determinou o sobrestamento do feito para aguardar o julgamento do RE 553.710/DF, Tema 394 da Repercussão Geral (eDOC 2, p. 96).
+    Após o julgamento do Tema 394, por considerar que o acórdão recorrido estava em conformidade com o referido Tema, o Superior Tribunal de Justiça negou seguimento ao recurso extraordinário (eDOC 2, p. 114-117).
+    A União interpôs agravo interno (eDOC 2, p. 123), o qual foi provido pela Vice-Presidência do Superior Tribunal de Justiça, conforme a seguinte fundamentação (eDOC 2, p. 149-151):
+    “A decisão merece reconsideração.
+    Discute-se nos autos o pagamento imediato de reparação econômica a anistiados políticos.
+    Quanto ao tema, o Supremo Tribunal Federal, no julgamento do RE 553.710/DF, Rel. Min. Dias Toffoli, sob a sistemática da repercussão geral, firmou a seguinte tese:
+    "1) - Reconhecido o direito à anistia política, a falta de cumprimento de requisição ou determinação de providências por parte da União, por intermédio do órgão competente, no prazo previsto nos arts. 12, § 4º, e 18, caput e parágrafo único, da Lei nº 10.599/02, caracteriza ilegalidade e violação de direito líquido e certo;
+    2) - Havendo rubricas no orçamento destinadas ao pagamento das indenizações devidas aos anistiados políticos e não demonstrada a ausência de disponibilidade de caixa, a União há de promover o pagamento do valor ao anistiado no prazo de 60 dias;
+    3) - Na ausência ou na insuficiência de disponibilidade orçamentária no exercício em curso, cumpre à União promover sua previsão no projeto de lei orçamentária imediatamente seguinte" (Tema 394/STF).
+    No caso dos autos, o acórdão recorrido está em conformidade com a orientação firmada pelo Supremo Tribunal Federal, sob o rito da repercussão geral, por ocasião do julgamento do RE 553.710/DF (Tema 394/STF).
+    Contudo, observa-se também que o recurso extraordinário interposto pela UNIÃO vem discutir juros moratórios e correção monetária, verbas, segundo a recorrente, não previstas na portaria anistiadora. Pretende a União que sejam afastadas tais verbas da condenação.
+    Ante o exposto, no que se refere à incidência de juros e correção monetária, presentes os pressupostos de admissibilidade (tempestividade, regularidade formal, interesse recursal, legitimidade, cabimento e prequestionamento), reconsidero a decisão de fls. 203/206 (e-STJ) e ADMITO o recurso extraordinário nos termos do art. 1.030, inciso V, alínea "a", do Código de Processo Civil para análise pela Suprema Corte quanto aos consectários legais.
+    Publique-se. Intimem-se.”
+    É o relatório. Decido.
+    Observo que a matéria é idêntica à discutida no RE 553.710/DF-ED, Relator o Ministro Dias Toffoli, pendente de julgamento pelo Plenário desta Corte.
+    Posto isto, determino o sobrestamento deste feito até o julgamento definitivo dos embargos de declaração referidos.
+    Publique-se.
+    Brasília, 15 de janeiro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
