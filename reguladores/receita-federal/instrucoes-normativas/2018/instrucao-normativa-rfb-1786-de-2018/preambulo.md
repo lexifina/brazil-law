@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1786, de 29 de janeiro de 2018
+Altera a Instrução Normativa RFB nº 1.778, de 29 de dezembro de 2017, a Instrução Normativa RFB nº 1.455, de 6 de março de 2014, e dispõe sobre a depreciação, amortização ou exaustão dos bens adquiridos de partes vinculadas nos termos do parágrafo único do art. 2º do Decreto nº 9.128, de 17 de agosto de 2017.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXV do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 8º da Lei nº 13.586, de 28 de dezembro de 2017, resolve:
