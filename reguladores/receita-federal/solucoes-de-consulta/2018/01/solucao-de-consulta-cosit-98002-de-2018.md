@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98002, de 25 de janeiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 4016.99.90 Mercadoria: Artigo de borracha vulcanizada não endurecida e não alveolar, vulgarmente denominado teteira, utilizado em máquina ordenhadeira mecânica para extração do leite da vaca mediante encaixe em copo de inox que, por sua vez, é encaixado em um coletor que conduz o leite até um recipiente. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 40.16), RGI 6 (texto da subposição 4016.99) e RGC 1 (texto do item 4016.99.90) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 807, de 2008, com alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98_002-2018 .pdf]
