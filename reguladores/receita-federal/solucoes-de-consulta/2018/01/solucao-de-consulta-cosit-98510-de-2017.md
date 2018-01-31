@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98510, de 22 de dezembro de 2017
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3824.99.89 Mercadoria: Preparação química líquida à base de compostos orgânicos com propriedade selante a qual reage com a umidade no ponto de fuga para formar uma ligação polímero permanente para ser aplicada como vedante em sistemas de refrigeração de modo a bloquear vazamentos e eliminar a umidade contendo ainda corante UV 3 para destacar vazamentos. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 38.24), RGI 6 (texto das subposições 3824.9 e 3824.99) e RGC 1 (texto do item e subitem 3824.99.8 e 3824.99.89) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, com alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.510-2017 .pdf]
