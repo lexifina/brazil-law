@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98006, de 26 de janeiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8517.70.29 Mercadoria: Antena externa direcional, de alumínio, para telefonia celular, própria para ser instalada fora das casas ou prédios e ser conectada (por cabo coaxial) a aparelhos celulares portáteis, a aparelhos celulares de mesa ou a aparelhos repetidores de sinal, principalmente utilizada em área rural ou outras regiões ou locais com sinal fraco. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.17 e Nota 2-b da Seção XVI), RGI 6 (texto da subposição 8517.70) e RGC 1 (textos do item 8517.70.2 e do subitem 8517.70.29), da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.006-2018 .pdf]
