@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98001, de 25 de janeiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 2202.10.00 Mercadoria: Bebida não alcoólica pronta para o consumo humano, constituída por suco concentrado de limão, suco concentrado de laranja, suco concentrado de tangerina, açúcar, sorbato de potássio, ácido cítrico, aroma idêntico ao natural de laranja, água, tartrazina, goma xantana, benzoato de sódio e amarelo crepúsculo, apresentada em garrafa PET de 450 ml. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 22.02) e RGI 6 (texto da subposição 2202.10.00) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98_001-2018 .pdf]
