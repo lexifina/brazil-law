@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado (eDOC. 3, p. 22-23):
+    “EMENTA: DUPLO GRAU DE JURISDIÇÃO. AÇÃO DECLARATÓRIA. MONITORA DE CRECHE E PROFESSORA. EQUIPARAÇÃO SALARIAL. LEI N° 11.738/2008. VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DOS PODERES NÃO CONFIGURADA. DIFERENÇAS SALARIAIS.
+    1. Não caracteriza violação ao princípio da separação dos poderes a atuação do Poder Judiciário quando a ilegalidade está fundamentada em omissão da Administração Pública, consubstanciada na ausência de postura convincente por parte do Poder Executivo em obedecer a legislação aplicável à espécie (In casu, Lei n° 11.738/2008).
+    2. Revela devida a equiparação salarial pleiteada na exordial, com todos os consectários legais, nos termos da Lei nº 11.738/2008, à monitora de creche que possui formação na área de magistério.
+    3. Para a revisão e o pagamento de diferenças salariais deverá ser observado: da entrada em vigor da Lei Federal nº 11.738/2008 até o julgamento da ADI n° 4.167/DF pelo Supremo Tribunal Federal, piso salarial da categoria corresponderá a sua remuneração global; após o julgamento da ADI acima mencionada, o piso salarial da categoria corresponderá ao vencimento básico, tudo, observando-se o prazo quinquenal para a prescrição das verbas trabalhistas, conforme determina o art. 10 do Decreto n° 20.910, de 06 de janeiro de 1932.
+    Remessa obrigatória conhecida e desprovida. Sentença mantida.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se ofensa aos arts. 37 e 39 do Texto Constitucional e às Súmulas Vinculantes 37 e 43 desta Corte.
+    Nas razões recursais, sustenta não ser possível o aproveitamento de um servidor aprovado em concurso para determinado cargo vir a ocupar cargo diverso daquele em que se deu a aprovação, o que configuraria violação ao princípio do concurso público e, ainda, que o Poder Judiciário não pode conceder aos servidores municipais aumento de vencimentos, tampouco determinar que o Poder Executivo o faça.
+    A Vice-Presidência do TJ/GO admitiu o recurso extraordinário (eDOC 3, p. 66-68).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que a discussão não está relacionada ao aproveitamento da servidora em cargo diverso daquele que ocupa, mas sim acerca da consideração de seu cargo (monitora de creche) como abrangido pelo alcance do artigo 61 da Lei nº 9.394/1996, o que, de acordo com o entendimento do Tribunal de origem, atrai a incidência da Lei nº 11.738/2008, sem que haja alteração do seu enquadramento, transposição ou equiparação.
+    Logo, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria a análise da legislação infraconstitucional (Leis nº 9.394/1996 e nº 11.738/2008), bem como o exame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Neste sentido:
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. DIREITO ADMINISTRATIVO. MAGISTÉRIO ESTADUAL. EDUCAÇÃO BÁSICA. PISO SALARIAL NACIONAL. IMPLEMENTAÇÃO. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ANÁLISE DE EVENTUAL VIOLAÇÃO DA CONSTITUIÇÃO FEDERAL DEPENDENTE DE REELABORAÇÃO DA ESTRUTURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. ACÓRDÃO RECORRIDO PUBLICADO EM 17.4.2015.
+    1. Inexiste violação do art. 93, IX, da Lei Maior. A jurisprudência do Supremo Tribunal Federal é no sentido de que o referido dispositivo constitucional exige a explicitação, pelo órgão jurisdicional, das razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes.
+    2. A controvérsia, a teor do que já asseverado na decisão guerreada, não alcança estatura constitucional. A pretensão do agravante encontra óbice na Súmula nº 279 do Supremo Tribunal Federal, pois eventual ofensa aos preceitos constitucionais invocados somente se materializaria, no caso, de forma reflexa, a demandar, em primeiro plano, para sua constatação, a reelaboração do quadro fático delineado.
+    3. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa direta e literal a preceito da Constituição da República.
+    4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.”
+    (ARE 903.173-ED, Rel. Min. Rosa Weber, Primeira Turma, DJe 16.02.2016)
+    Por fim, ressalta-se que esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver a reapreciação de interpretação dada a normas infraconstitucionais pelo tribunal a quo, conforme Súmula nº 636.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos dos artigos 932, IV, “a” do Código de Processo Civil e 21, §1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
