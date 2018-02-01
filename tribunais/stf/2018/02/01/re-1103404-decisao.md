@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 2ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de nomeação e posse em cargo público. No extraordinário, o recorrente alega a violação dos artigos 2º, 37, cabeça e inciso IV, 61, § 1º, inciso II, alínea “a”, e 169, § 1º, da Constituição Federal. Entende contrariado o princípio da separação dos Poderes, alegando a discricionariedade do Poder Executivo no tocante a nomeação de novos servidores públicos.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    Isso porque, dos documentos coligidos aos autos, é possível verificar-se que o resultado de aprovação do autor no concurso em referência foi homologado em 11 de maio de 2006, por meio de Edital n° II, conforme se afere e I fl. 98. Assim, se a aprovação obtida pelo requerente foi homologada pela UFES, é imperiosa a conclusão de que o certame em referência encontra-se dentro do respectivo prazo de validade, que, segundo o item 7.5 do edital n° 04/2004 (fl. 18-verso), somente panará a ser contado quando da publicação da homologação resultado final do concurso, o que, a toda vista, ainda não ocorreu.
+    Destarte, se o demandante foi regularmente aprovado em concurso com prazo de validade em curso, e a UFES fez publicar novo edital com vistas ao preenchimento do mesmo cargo para o qual o autor foi aprovado e manifestou, quando instado a tanto pela própria autarquia, interesse em ocupá-la (fls. 22/23), mostra-se, também em juízo de cognição exauriente, ilegítima a conduta da instituição demandada.
+    Tal conclusão é corroborada quando se atenta para o fato de que a justificativa exposta pela UFES para deixar de nomear o requerente não se refere a prazo de validade, aprovação, ou algo do gênero, mas sim, na ausência de Certificado de Disponibilidade Orçamentária, que deveria ser autorizado pelo Ministério da Educação.
+    Ora, se era esse o motivo determinante para não nomear o autor, como justificar a edição de novo certame para preenchimento de 02 cargos (um em São Mateus e outro em Alegre) idênticos ao que o autor concorreu, ainda no ano de 2006, como estampado à fl. 30?
+    Não tenho dúvidas em afirmar que tal procedimento é flagradamente atentatório, não apenas à disposição constitucional acima transcrita, como ao próprio princípio da moralidade administrativa.
+    Com efeito, não há discricionariedade no ato de realizar novo concurso quando há outro ainda válido, com candidato devidamente aprovado, em virtude do disposto no § 2º da Lei 8.112/90, adrede mencionado.
+    À toda evidência, a decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
