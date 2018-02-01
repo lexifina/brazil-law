@@ -1,0 +1,46 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de Heitor Augusto Koeninkan Miguel da Silva de Santis, contra decisão do Superior Tribunal Militar que deu provimento ao Recurso em Sentido Estrito 255-40.2016.7.01.0401/RJ.
+    Consta nos autos que o Ministério Público Militar ofereceu denúncia contra o paciente em razão da suposta prática do delito descrito no artigo 290 do CPM (posse de substância entorpecente).
+    O paciente foi inicialmente preso em flagrante em 16.9.2016, tendo-lhe sido concedida a liberdade provisória em 19.9.2016. (eDOC 2, p. 29)
+    A denúncia foi rejeitada pelo Juízo da 4ª Auditoria da 1ª CJM, fundamentada na atipicidade da conduta. (eDOC 2, p. 98)
+    Irresignado, o Parquet interpôs recurso em sentido estrito no Superior Tribunal Militar, que deu provimento ao apelo para receber a denúncia, nos termos da ementa a seguir transcrita:
+    “RECURSO EM SENTIDO ESTRITO. REJEIÇÃO DA DENÚNCIA. POSSE DE SUBSTÂNCIA ENTORPECENTE. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+    Denúncia que, tanto no seu aspecto formal, como na sua face material, responde às exigências do artigo 77 do Código de Processo Penal Militar. Ausência de quaisquer das hipóteses de rejeição da exordial elencadas no artigo 78 do CPPM.
+    Não se negue que o juiz tem a faculdade de, mesmo em sede de juízo de delibação da Exordial, declarar a ausência de tipicidade material da conduta atribuída ao denunciado, a partir do reconhecimento da sua insignificância na órbita penal. Contudo, esta Corte possui entendimento consolidado acerca da inaplicabilidade do princípio da insignificância em casos de porte/posse de drogas.
+    A simples presença de entorpecentes nos quartéis, em desacordo com as normas legais e regimentais, constitui bem mais que um delito de perigo para a saúde individual e coletiva, na medida em que põe em risco de morte não só integrantes da força, como outras frações da sociedade, em face da própria natureza das atividades militares, com o impositivo uso de armamentos, inclusive pesados, e outros petrechos com elevado poder de destruição.
+    Além disso, notória é a repercussão negativa do uso de drogas na Caserna, no que diz à própria operacionalidade da tropa e à preservação dos princípios basilares da hierarquia e da disciplina.
+    Provimento do Recurso do MPM.
+    Unânime”. (eDOC 2, p. 146)
+    Nesta Corte, a impetrante alega a ausência de justa causa, porquanto a conduta é materialmente atípica, por efeito da aplicação do princípio da insignificância.
+    Sustenta, ainda, bis in idem em razão de o paciente já ter sofrido sanção administrativa/disciplinar das Forças Armadas.
+    Requer, liminarmente e no mérito, o trancamento da ação penal.
+    É o relatório.
+    Decido.
+    Trata-se de habeas corpus no qual a impetrante insurge-se contra acórdão proferido pelo Superior Tribunal Militar, nos autos do Recurso em Sentido Estrito 255-40.2016.7.01.0401/RJ.
+    É cediço que a jurisprudência dominante desta Corte é no sentido de que o trancamento de ação penal, por falta de justa causa, é medida excepcional, especialmente na via estreita do habeas corpus.
+    Após detida análise dos autos, verifico que a denúncia preencheu os requisitos de validade, estando em estrita consonância com o disposto no Código de Processo Penal Militar.
+    Assim assentou o Superior Tribunal Militar:
+    “A Denúncia, tanto no seu aspecto formal como na sua face material, responde às exigências do artigo 77 do Código de Processo Penal Militar. Assim é que, de um lado, descreve conduta em tese constitutiva de crime militar, oferece seguros indícios de autoria, expõe as razões de convicção do Parquet, além de ofertar as demais indicações de natureza secundária formalmente exigidas; ainda assim, de outro, encontra-se arrimada em satisfatória base probatória quanto ao fato indigitado criminoso.
+    Ademais, não se fazem presentes, in casu, quaisquer das hipóteses de rejeição da Exordial elencadas no artigo 78 do CPPM.
+    Noutro giro, não se negue que o Juiz tem a faculdade (a rigor, o poder dever) de, de logo, isso é, mesmo em sede de juízo de delibação da Exordial, declarar a ausência de tipicidade material da conduta atribuída ao Denunciado, a partir do reconhecimento da sua insignificância na órbita penal.
+    Contudo, esta Corte possui entendimento consolidado acerca da inaplicabilidade do referido princípio em hipóteses de porte/posse de drogas. Confira-se, a seguir, recente julgado deste Tribunal a respeito do tema:
+    (...)
+    Assim, como visto, a simples presença de entorpecentes nos quartéis, em desacordo com as normas legais e regimentais, constitui bem mais do que um delito de perigo para a saúde individual e coletiva, na medida em que põe em risco de morte não só integrantes da Força, como outras frações da sociedade, em face da própria natureza das atividades militares, com o impositivo uso de armamentos, inclusive pesados, e de outros petrechos com elevado poder de destruição”. (eDOC 3, p. 4-9)
+    Diante dos trechos transcritos acima, verifico que a inicial acusatória apresenta os elementos aptos à deflagração da persecução penal, porquanto houve exposição pormenorizada dos fatos criminosos, com todas as suas circunstâncias, qualificando o acusado de forma satisfatória, além de classificação adequada do crime, amoldando-se perfeitamente às exigências do art. 77 do CPPM.
+    A justa causa, da mesma forma, resta patente, considerando-se que o Ministério Público respalda-se em robustos indícios de autoria e materialidade, não sendo cabível, tampouco recomendável, o trancamento da ação penal pela via estreita do habeas corpus, ação em que sequer há espaço para dilação probatória.
+    Assim, se não se comprovar, de plano, a atipicidade da conduta, a incidência de causa de extinção da punibilidade ou a ausência de indícios de autoria e materialidade, é indispensável a continuidade da persecução criminal. Nesse sentido:
+    “Habeas corpus. Penal e processual penal. Tráfico e associação para o tráfico de drogas (arts. 33 e 35 da Lei nº 11.343/06). Trancamento da ação penal. Inépcia da denúncia e ausência de justa causa. Não ocorrência. Prisão preventiva. Revogação. Impossibilidade. Custódia assentada na periculosidade do paciente para a ordem pública. Suposto envolvimento com organização criminosa ligada ao PCC dedicada ao tráfico de grandes quantidades de drogas (941,5 g de crack e 1.026,89 kg de cocaína). Necessidade de se interromper ou diminuir a atuação de integrantes da referida organização. Precedentes. Ausência de constrangimento ilegal. Ordem denegada.
+    1. O trancamento da ação penal em habeas corpus constitui medida excepcional, a qual só deve ser aplicada quando houver, indiscutivelmente, ausência de justa causa ou flagrante ilegalidade demonstrada em inequívoca prova pré-constituída. Precedentes.
+    2. Não restou evidenciada nenhuma ilegalidade no oferecimento da denúncia, preenchida com os requisitos previstos no art. 41 do Código de Processo Penal, sendo essa, ademais, suficiente para permitir a defesa do paciente.
+    3. A leitura da exordial acusatória permite concluir que não há ilegalidade a merecer reparo pela via eleita, uma vez que ela, embora sucinta, contém descrição mínima dos fatos imputados ao ora paciente, principalmente considerando tratar-se de crimes de tráfico e associação para o tráfico, cuja existência do liame subjetivo e da estabilidade associativa deve ser apurada no curso da instrução criminal.
+    4. A prisão preventiva do paciente foi justificada em sua periculosidade para a ordem pública, tendo em vista seu suposto envolvimento com organização criminosa ligada ao PCC voltada ao tráfico de grandes quantidades de drogas (941,5 g de crack e 1.026,89 kg de cocaína).
+    5. Ordem denegada”. (HC 139.054/SP, Rel. Min. Dias Toffoli, Segunda Turma, DJe 2.6.2017)
+    Cito, ainda, os seguintes precedentes: HC-AgR 136.822/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 19.12.2016; RHC 137.074/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 16.12.2016 e RHC 135.300/DF, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 16.12.2016.
+    Mesmo que assim não fosse, o Plenário desta Suprema Corte já se orientou no sentido de que a posse, por militar, de reduzida quantidade de substância entorpecente em lugar sujeito à administração castrense (CPM, art. 290) não autoriza a aplicação do princípio da insignificância (Informativo 605/STF).
+    Naquela oportunidade, a Corte ressaltou que o cerne da questão não abrange a quantidade ou o tipo de entorpecente apreendido, mas a qualidade da relação jurídica entre o usuário e a instituição militar da qual faz parte, no momento em que flagrado com a posse da droga em recinto sob a administração castrense. Tal situação é incompatível com o princípio da insignificância penal.
+    Nesse sentido: HC 128.554/PE, de minha relatoria, Segunda Turma, DJe 1º.2.2016; HC 119.458/AM, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 3.4.2014; e HC 116.090/MG, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 2.4.2014.
+    Ante o exposto, com base no artigo 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
