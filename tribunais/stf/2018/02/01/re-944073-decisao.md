@@ -1,0 +1,31 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 1 evento 16):
+    “AGRAVO LEGAL. EXECUÇÃO DE SENTENÇA. AÇÃO COLETIVA. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. LEGITIMIDADE ATIVA. ASSOCIAÇÃO. HONORÁRIOS NO PROCESSO DE EXECUÇÃO.
+    1. As associações de classe possuem legitimidade ativa ad causam para atuarem como substitutos processuais nas ações coletivas, tanto na fase de conhecimento, como na de liquidação e execução, sendo desnecessária a juntada de relação nominal dos filiados, ou autorização expressa.
+    2. A verba honorária deve ser fixada em 10% sobre o valor executado, salvo se resultar em valor exorbitante ou ínfimo.”
+    No recurso extraordinário, com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 1º, XXI, da Constituição Federal. Segundo o INSS, não teria havido, por parte dos associados, a autorização expressa exigida pelo texto constitucional para que a Associação pudesse representá-los na ação civil pública proposta por esta última, assim, estaria inobservada a legitimidade ativa.
+    A Vice-Presidência do TRF determinou, nos termos do art. 543-B, § 3º, do CPC/1973, o retorno dos autos ao Órgão prolator por entender haver dissonância entre o acórdão recorrido e a tese assentada pelo STF no julgamento do RE 573.232, referente ao Tema 82 (eDOC 2, evento 52).
+    A Terceira Turma do TRF manteve a decisão recorrida, porém, realizou alguns esclarecimentos, nos seguintes termos (eDOC 2, evento 74):
+    “JUÍZO DE RETRATAÇÃO. EXECUÇÃO DE SENTENÇA. AÇÃO COLETIVA PROPOSTA POR ASSOCIAÇÃO DE CLASSE. LEGITIMIDADE ATIVA. ART. 5º, INCISO XXI DA CONSTITUIÇÃO FEDERAL. AUTORIZAÇÃO EXPRESSA. ATO INDIVIDUAL OU DELIBERAÇÃO ASSEMBLEAR.
+    1. O Supremo Tribunal Federal, no julgamento do RE nº 573232, conforme a sistemática prevista no art. 543-B do CPC, consolidou entendimento no sentido de que 'as balizas subjetivas do título judicial, formalizado em ação proposta por associação, é definida pela representação no processo de conhecimento, presente a autorização expressa dos associados e a lista destes juntada à inicial'.
+    2. No caso, a ASSINCRA ajuizou a Ação Civil Pública nº 5004262-56.2010.404.7000, na condição de substituto processual, postulando o reconhecimento do direito dos seus associados à percepção da GDARA, com base em 100 pontos, de forma a equipará-los aos demais servidores ativos mais antigos e juntou aos autos cópia do Edital de Convocação e da Ata da Assembléia Geral Extraordinária de 14/10/2009 e lista dos representados, de modo que cumpriu a determinação prevista no art. 5º, inciso XXI da Constituição Federal/88.”
+    A Relatora, ao justificar seu voto, apontou, verbis (eDOC 2, evento 74, p. 119):
+    “Logo, altero o entendimento firmado para reconhecer a necessidade de autorização expressa para a propositura de ação coletiva por associação, a teor do disposto no art. 5º, inciso XXI, da Constituição Federal, a qual pode ser por ato individual do associado ou por deliberação assemblear, mantida, todavia, a decisão que negou provimento ao agravo de instrumento interposto pelo INCRA no ponto, tendo em vista que foi juntada aos autos da ACP ora em execução a cópia do Edital de Convocação e da Ata da Assembléia Geral Extraordinária de 14/10/2009 e também lista dos servidores representados.”
+    Novo recurso extraordinário foi apresentado, e admitido, em que o INSS insurge-se contra o acórdão por afirmar ter sido, mais uma vez, reconhecida a legitimidade ativa da Associação dos Servidores para a propositura da ação. Alega contrariedade ao Tema 82 e ao artigo 5º, XXI, da Constituição Federal.
+    A Presidência deste Supremo Tribunal Federal determinou a devolução dos autos à origem, com fundamento no artigo 543-B do Código de Processo Civil, por entender que o caso versava sobre o Tema 82 (eDOC 4).
+    O Tribunal Regional Federal manteve seu posicionamento e esclareceu, novamente, verbis:
+    “Portanto, de fato, em relação à vexata quaestio, o Órgão julgados desta Corte decidiu a hipótese apresentada nos autos em consonância com o entendimento do STF, de forma que a pretensão recursal não merece trânsito” (eDOC 13).
+    Houve novo retorno dos autos a este Supremo Tribunal Federal, tendo a Ministra Presidente determinado a distribuição do feito na forma regimental (eDOC 21).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    A tese do Tema 82, assentada quando do julgamento do RE 573232/SC, assim preceitua:
+    “– A previsão estatutária genérica não é suficiente para legitimar a atuação, em Juízo, de associações na defesa de direitos dos filiados, sendo indispensável autorização expressa, ainda que deliberada em assembleia, nos termos do artigo 5º, inciso XXI, da Constituição Federal;
+    II – As balizas subjetivas do título judicial, formalizado em ação proposta por associação, são definidas pela representação no processo de conhecimento, limitada a execução aos associados apontados na inicial.” (Grifos não constantes do original)
+    O acórdão recorrido, tal como retro mencionado, decidiu a controvérsia interpretando que, em deliberação assemblear, houve manifestação expressa dos associados. Por isso, no juízo de retratação, o esclarecimento dos fatos para se assentar que, no caso em comento, tal exigência foi cumprida.
+    Assim, houve consonância entre a decisão recorrida e a tese do Tema 82, a qual permite que a autorização seja manifestada em deliberação assemblear.
+    Pelo que se percebe da leitura do recurso extraordinário, por outro lado, é uma demanda em torno do revolvimento de fatos e provas a fim de se concluir pela ausência de manifestação expressa dos associados durante a assembleia. Ora, se o tribunal a quo, juízo competente para a análise dos fatos, manifestou-se no sentido de que a manifestação ocorreu, que há nos autos rol dos associados participantes da assembleia e sua concordância com o ajuizamento da ação civil pública, não se pode na via estreita do recurso extraordinário resolver de forma diversa, pelo óbice da Súmula 279.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a” e “b”, do CPC.
+    Publique-se.
+    Brasília, 1 de fevereiro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
