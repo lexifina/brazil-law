@@ -1,0 +1,19 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “AGRAVO REGIMENTAL. FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. ICMS. OFERECIMENTO À PENHORA DE CRÉDITO DE PRECATÓRIO. RECUSA DO CREDOR. POSSIBILIDADE.
+    1. No Recurso Especial nº 1090898/SP, submetido ao rito do artigo 543-C do CPC, acabou pacificado o entendimento de que embora possível a efetivação de penhora sobre precatório, como ela não equivale a penhora de dinheiro, mas, sim a penhora de crédito, é legítima a recusa da Fazenda Pública.
+    2. A execução tramita no interesse do credor (art. 612 do CPC) e, no caso, o exequente simplesmente rejeitou a oferta feita, sequer tendo manifestado, por ora, se pretende a efetivação da penhora na ordem prevista no art. 655 do CPC e no art. 11 da LEF, tendo o juízo, por isso, simplesmente acolhido a recusa.
+    AGRAVO DESPROVIDO.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário não se revela viável.
+    É que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência, entendeu destituída de repercussão geral a questão suscitada no ARE 703.595- -RG/RS, Rel. Min. RICARDO LEWANDOWSKI, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “REPERCUSSÃO GERAL. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. ORDEM LEGAL DE PREFERÊNCIA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora recorrente.
+    Com efeito, o Supremo Tribunal Federal recusará o apelo extremo sempre que se registrar hipótese, como sucede na espécie, na qual a controvérsia jurídica não se qualifique como tema revestido de repercussão geral.
+    A rejeição, em causa anterior (ARE 703.595-RG/RS), do pretendido reconhecimento da existência de repercussão geral referente ao mesmo litígio ora renovado nesta sede recursal impede que se conheça do recurso extraordinário em questão, mesmo porque a repercussão geral supõe, necessariamente, apelo extremo cognoscível, situação de todo inocorrente no caso, eis que o julgamento da causa em análise depende de prévio exame concernente à aplicação de diplomas infraconstitucionais, a evidenciar, quando muito, a ocorrência de ofensa meramente reflexa ao texto da Constituição.
+    Cumpre destacar, ainda, o que dispõe o art. 326 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, que veicula regra no sentido de que a decisão que proclama inexistente a repercussão geral, como aquela proferida no ARE 703.595-RG/RS, a que anteriormente aludi (em tudo aplicável ao presente caso), vale “para todos os recursos sobre questão idêntica”, tal como tem advertido o Plenário desta Corte Suprema (RE 659.109-RG-ED/BA, Rel. Min. LUIZ FUX), motivo pelo qual se mostra evidente a inadmissibilidade, na espécie, do recurso extraordinário em causa.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2018.
+Ministro CELSO DE MELLO
+Relator
