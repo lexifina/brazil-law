@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Juízo de origem, ao julgar os embargos infringentes, confirmou a sentença que extinguiu a execução fiscal em razão da nulidade da certidão de dívida ativa . No extraordinário cujo trânsito busca alcançar, a recorrente afirma a violação dos artigos 5º, inciso LV, 30, inciso III, 145, incisos I e II e 156 da Constituição Federal. Aduz que a extinção da execução fiscal de ofício caracteriza cerceamento ao contraditório e à ampla defesa .
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do ato impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    E não há que se falar que poderiam ser sanados, no mesmo feito, por eventual “emenda da CDA”, por uma multiplicidade de motivos. A uma, que os vícios da CDA em relevo vão para além de um mero ajustamento de datas de exercícios, vez que dizem com a própria afronta, - a essa altura incontroversa, vez que as razões estão praticamente dissociadas dos fundamentos das sentenças, deixando de atacar sua essência, quanto à existência de vícios graves da CDA -, ao disposto pelo artigo 2°, §§ 5º e 6°, da LEF, que é Diploma Legal Especial que os estatui como requisitos da petição inicial, inflexíveis à integração, vez que dizem com a própria causa de pedir, ora ausente, pelo que o cenário é refratário à aplicação da norma geral do artigo 10, do NCPC, considerando-se o disposto pelo artigo 330, § 1º, I, do NCPC.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o ato impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Não houve interposição de embargos declaratórios, nem houve debate e decisão prévios sobre a violação aos princípios do contraditório e ampla defesa. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 1º de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
