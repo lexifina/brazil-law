@@ -1,0 +1,26 @@
+Decisão
+    Trata-se de recurso extraordinário contra decisão proferida pela Sexta Turma do Superior Tribunal de Justiça, que confirmou a concessão de habeas corpus para afastar a falta grave como marco interruptivo da contagem dos prazos para obtenção dos benefícios da execução penal, em acórdão assim ementado:
+    "HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE.
+INTERRUPÇÃO DA CONTAGEM DO TEMPO PARA A
+CONCESSÃO DE BENEFÍCIOS. IMPOSSIBILIDADE.
+AUSÊNCIA DE PREVISÃO LEGAL.
+1. O cometimento de falta grave no curso da execução não
+implica a interrupção do cômputo do tempo para a concessão de
+benefícios, incluindo a progressão de regime, sob pena de
+violação do princípio da legalidade. Precedentes da Sexta
+Turma.
+2. Ordem concedida para afastar a interrupção do cômputo
+do tempo para a concessão de benefícios inerentes à execução
+penal, ante o cometimento de falta grave pelo paciente."
+    No apelo extremo, interposto com amparo no art. 102, III, “a” da Constituição Federal, o recorrente sustenta, em síntese, a existência de repercussão geral e que o julgado ofendeu dispositivos constitucionais. Pede a procedência do recurso para reconhecer que o cometimento de falta grave impõe nova contagem de prazo para a progressão de regime.
+    É o relatório. Decido.
+    O recurso merece provimento.
+    A decisão impugnada diverge do entendimento firmado por esta CORTE que considera que o cometimento de falta grave no decorrer da execução penal interrompe o prazo para concessão de progressão de regime, reiniciando-se a contagem do prazo a partir do cometimento da infração disciplinar.
+    Nesse sentido, cito precedentes: HC 118.797/SP (Rel. Min. Rosa Weber), HC 136.376/SP (Rel. Min. RICARDO LEWANDOWSKI), RHC 114.967/GO (Rel. Min. TEORI ZAVASCKI). Transcrevo a ementa deste último:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. COMETIMENTO DE FALTA GRAVE. CONDENADO FLAGRADO NA POSSE DE UM APARELHO CELULAR SEM CHIP E BATERIA. INTERRUPÇÃO DO PRAZO PARA O PLEITO DE NOVA PROGRESSÃO. ILEGALIDADE. NÃO OCORRÊNCIA. PRECEDENTES. FRAÇÃO DE 1/3 PREVISTA NO ART. 127 DA LEP. LIMITE DE REVOGAÇÃO DOS DIAS REMIDOS. PRECEDENTES. RECURSO IMPROVIDO. ORDEM CONCEDIDA DE OFÍCIO. 1. O acórdão questionado está em perfeita consonância com a jurisprudência desta Corte, consagrada no sentido de que a posse pelo detento, no ambiente carcerário, de qualquer artefato destinado à comunicação com outros presos ou com o ambiente externo, ainda que o equipamento isoladamente considerado não possua tal aptidão, configura falta disciplinar grave, nos termos do inciso VII do art. 50 da Lei 7.210/1984 (introduzido pela Lei 11.466/2007). Precedentes. 2. É firme a jurisprudência desta Corte no sentido de que a prática de falta grave no decorrer da execução penal interrompe o prazo para concessão de progressão de regime, reiniciando-se, a partir do cometimento da infração disciplinar grave, a contagem do prazo para que o condenado possa pleitear novamente o referido benefício executório. Precedentes. 3. A Lei 12.433/2011 alterou a redação do art. 127 da LEP para limitar a revogação dos dias remidos à fração de um terço, mantendo a previsão de reinício da contagem do prazo para a obtenção de benefícios. A nova lei mais benéfica, portanto, deve retroagir para beneficiar o condenado, por força do que dispõe o art. 5º, XL, da Constituição Federal. 4. Recurso ordinário improvido. Ordem concedida de ofício, para que o juízo da execução limite a perda dos dias remidos em até um terço”
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, dou provimento ao recurso extraordinário.
+    Publique-se.
+Brasília, 1º de fevereiro de 2018.
+Ministro Alexandre de Moraes
+Relator
+documento assinado digitalmente
