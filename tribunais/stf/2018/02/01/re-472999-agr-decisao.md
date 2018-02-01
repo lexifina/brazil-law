@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de Agravo Interno contra decisão do ilustre Min. AYRES BRITTO que deu provimento ao recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Rio Grande do Sul, em que se discute a abrangência da imunidade prevista no artigo 150, inciso VI, alínea “c” da Constituição Federal, com relação à aquisição de mercadorias no mercado interno que venham a integrar o patrimônio das instituições de assistência social sem fins lucrativos.
+    Em suas razões, a parte agravante sustenta, em síntese, que a matéria não está pacificada no sentido da decisão agravada.
+    É o relatório. Decido.
+    É caso de reconsideração da decisão em apreço.
+    A sentença, ao julgar procedentes os embargos do devedor opostos pela parte ora agravada, assim asseverou:
+    “A embargante reúne os requisitos para o gozo da ‘imunidade’ elencados no art. 150, VI e 146 da Constituição Federal e art. 14 do CTN.
+    Porquanto, não se submete a embargante, como entidade sem fins lucrativos e de utilidade pública, à lei do ICMS, pois é detentora de imunidade (e não de isenção) em relação aos bens que adquire diretamente no mercado externo, não se podendo falar que praticou fato gerador, nem que seja contribuinte.
+    Já em relação aos bens que venha a adquirir no mercado interno, a situação é diferente, pois não goza da imunidade e sim de isenção se a lei ordinária do Rio Grande do Sul assim o prever.
+    No caso, a autora é imune, e, para poder gozar os benefícios dessa imunidade na importação de bens do exterior, deve tão somente observar os requisitos a que se refere o art. 14 do CTN, não se sujeitando, em hipótese alguma, a condições e requisitos da lei estadual.
+    Outrossim, também não merece guarida a alegação de que a imunidade estabelecida pela Constituição somente os impostos incidentes sobre o patrimônio, renda ou serviços das entidades nele mencionadas e que o ICMS é imposto que incide sobre o consumo, isto é, sobre a circulação de mercadorias e sobre a prestação de serviços de transporte interestadual e intermunicipal e de comunicações, nos termos do Decreto nº 33.178. Isso porque é induvidoso que os bens adquiridos, equipamentos de informática, foram para uso próprio da entidade e passar a integram o patrimônio da autora.
+    Ainda, inúmeros são os julgados no sentido de que, somente quem detém a qualidade de comerciante, operando com mercadorias (bens com o intuito de revenda habitual, mediante lucro, segundo o Código Comercial, pode ser considerado contribuinte do ICMS, nos termos do art. 155, II, da Constituição Federal, c/c art. 110 do CTN, o que não se aplica às sociedades civis, sem fins econômicos ou lucrativos, como as entidades assistenciais ou filantrópicas previstas no citado art. 150 da Constituição Federal” (fls. 91-92).
+    Contra essa decisão foram opostos embargos de declaração, que acabaram rejeitados (fl. 99).
+    Então, sobrevieram apelações do Estado do Rio Grande do Sul (fls. 100-115) e da FUVATES (FLS. 118-123). Para os fins do presente apelo, registre-se que o apelo da entidade dirigiu-se apenas ao valor dos honorários advocatícios.
+    O acórdão que analisou as referidas apelações foi assim ementado:
+    “DIREITO TRIBUTÁRIO. ICMS: IMUNIDADE NA IMPORTAÇÃO DE BENS DO EXTERIOR, POR INSTITUIÇÃO EDUCACIONAL SEM FINS LUCRATIVOS. Comprovado o atendimento, por entidade educacional sem fins lucrativos, dos requisitos previstos no art. 150, VI, alínea “c”, da CF/88, que são “ex vi” do art. 146, II, da mesma Carta, tão somente os previstos no art. 14 do CTN (I- não distribuir lucros, vale dizer, não ter fins lucrativos; II – aplicar todos os recursos na manutenção dos seus objetivos institucionais; e III – manter contabilidade organizada, em livros revestidos de formalidade capazes de assegurar sua exatidão), não há como deixar de reconhecer-lhe o benefício da imunidade em relação ao ICMS na importação de bens para seu uso próprio, nas finalidades institucionais.
+    Desprovido o primeiro apelo, provido o segundo, sentença confirmada em reexame. Unânime.” (fl. 144).
+    Em seu apelo extremo, a FUVATES requereu, com base nos arts. 150, VI, ‘c’, da CF/88 e 14 do CTN, seja “reconhecido também, o direito da recorrente em não ser compelida ao pagamento do ICMS quando da aquisição no mercado interno de bens, mercadorias e produtos destinados ao seu uso e consumo ou ao seu ativo imobilizado, face a sua imunidade constitucional” (fl. 260).
+    Ocorre que o TJRS manteve a sentença quanto à questão referente ao pagamento do ICMS no momento da aquisição de produtos no mercado interno. A FUVATES, em sua apelação, sequer impugnou os fundamentos utilizados pelo juízo de 1º grau quanto ao ponto, manifestando-se somente acerca da fixação do montante dos honorários advocatícios.
+    O Tribunal a quo, dentro desses parâmetros, analisou os fundamentos da apelação interposta pelo Estado do Rio Grande do Sul, confirmando a sentença e, quanto à irresignação da FUVATES, majorou os honorários do advogado.
+    Desse modo, nos termos do art. 473, do CPC/1973, ficou configurada a preclusão da matéria, sendo, vedada, portanto, sua análise nesse momento processual, prevalecendo o que ficou decidido na sentença.
+    Assim, reconsidero a decisão agravada e, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, nego seguimento ao RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
