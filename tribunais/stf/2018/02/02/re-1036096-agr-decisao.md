@@ -1,0 +1,17 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Passo, desse modo, a apreciar o apelo extremo deduzido pela União Federal.
+    Trata-se de recurso extraordinário interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 5ª Região, está assim ementado:
+    “CONSTITUCIONAL E PREVIDENCIÁRIO. LEI 9.717/98. CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA. CADASTRO DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL – CADPREV. INCONSTITUCIONALIDADE. RECONHECIMENTO PELO STF. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NECESSIDADE.
+    1. Sentença que, confirmando a tutela de urgência deferida, julgou procedente ‘o pedido formulado na inicial, com fulcro no art. 269, I, do CPC, para, extinguindo o processo com resolução do mérito, condenar a União à obrigação de se abster de exigir o Certificado de Regularidade Previdenciária do Município de Custódia/PE, devendo proceder à exclusão do autor do SIAFI/CAUC, a fim de possibilitar a realização de transferências voluntárias de recursos da União, desde que não haja outro impedimento que não o referido certificado, com arrimo na inconstitucionalidade dos arts. 7º e 9º da Lei nº 9.717/98 e dos arts. 1º e 2º do Decreto nº 3.788/01’.
+    2. O Plenário do Supremo Tribunal Federal, quando do julgamento da Ação Cível Originaria nº 830-1/PR, ratificou tutela concedida pelo Relator Ministro Marco Aurélio para declarar que a União, ao expedir a Lei nº 9.717/98 e Decreto nº 3.788/01, extrapolou os limites de sua competência constitucional quanto ao estabelecimento de normas gerais em matéria previdenciária.
+    3. Destarte, não cabe à União, sob o pretexto de descumprimento da referida Lei e do citado Decreto, aplicar sanções, deixar de expedir repasses ou mesmo abster-se quanto à expedição de Certificado de Regularidade Previdenciária – CRP.
+    4. Majoração dos honorários advocatícios em favor do patrono da Municipalidade de R$ 300,00 para R$ 2.000,00, nos termos do art. 20, §§ 3º e 4º do CPC.
+    5. Apelação da União e remessa oficial desprovidas e apelo do Município parcialmente provido.”
+    A União, ao deduzir o apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, apreciando o RE 1.007.271-RG/PE, Rel. Min. EDSON FACHIN, reconheceu existente a repercussão geral da questão constitucional nele suscitada, que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso extraordinário representativo de mencionada controvérsia jurídica, passível de se reproduzir em múltiplos feitos, refere-se à “Competência legislativa da União para dispor sobre normas gerais em matéria previdenciária no que diz respeito ao descumprimento da Lei 9.717/1998 e do Decreto 3.778/2001 pelos demais entes federados” (Tema nº 968 – Repercussão Geral).
+    Isso significa que se impõe, quanto ao Tema nº 968/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal “a quo”.
+    Publique-se.
+    Brasília, 02 de fevereiro de 2018.
+Ministro CELSO DE MELLO
+Relator
