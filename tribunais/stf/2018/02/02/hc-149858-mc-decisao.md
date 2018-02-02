@@ -1,0 +1,19 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – ARTIGO 33, § 3º, DO CÓDIGO PENAL.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Quarta Vara Criminal Federal da Subseção Judiciária de São Paulo, no processo nº 0010552-13.2005.403.6181, condenou o paciente a 2 anos e 8 meses de reclusão e ao pagamento de 129 dias-multa, ante o cometimento do delito versado no artigo 171, § 3º (estelionato contra entidade de direito público – Instituto Nacional de Seguridade Social – INSS), do Código Penal. Na aplicação da pena, teve como inexistentes circunstâncias judiciais desfavoráveis, destacando ser inviável levar em conta, para tal finalidade, a existência, em desfavor do paciente, de inquéritos em curso, estabelecendo a pena-base em 1 ano de reclusão, mínimo previsto para a tipo. Na segunda fase da dosimetria, disse não haver atenuantes e observou a agravante prevista no artigo 61, inciso II, alínea “g” (violação de dever inerente ao cargo), fixando a sanção intermediária em 2 anos de reclusão. Ausente causa de diminuição e considerada a de aumento referente à prática de crime contra autarquia federal, estipulou a pena definitiva em 2 anos e 8 meses de reclusão. Impôs o regime semiaberto para início do cumprimento da pena, salientando que a agravante e a causa de aumento reconhecidas justificavam regime diverso do aberto.
+    A Segunda Turma do Tribunal Regional Federal da 3ª Região desproveu apelação interposta pela defesa.
+    Protocolou-se recurso especial, inadmitido pela Vice-Presidência, que aludiu à necessidade do revolvimento fático-probatório.
+    Chegou-se ao Superior Tribunal de Justiça com o agravo em recurso especial nº 843.307, não conhecido ante a falta de impugnação específica dos fundamentos da decisão recorrida. A Sexta Turma negou provimento a agravo interno.
+    Os impetrantes alegam constrangimento ilegal, aduzindo a inadequação do regime semiaberto. Articulam com as condições pessoais do paciente – primariedade, bons antecedentes, família constituída e atividade lícita –, bem assim com o fato de o delito não ter envolvido violência ou grave ameaça. Sustentam inexistir risco à ordem pública. Assinalam a inidoneidade da pronunciamento mediante o qual imposto o semiaberto, evocando o artigo 33, § 2º, alínea “c”, e § 3º, do Código Penal e os verbetes nº 440 da Súmula do Superior Tribunal de Justiça e nº 718 e nº 719 da do Supremo. Anotam haver mandado de prisão expedido pelo Juízo da Quarta Vara Federal.
+    Requerem, liminarmente, a submissão do paciente ao regime aberto. Sucessivamente, buscam seja assegurada, na falta de estabelecimento prisional adequado ao semiaberto, a passagem ao aberto. No mérito, pretendem a confirmação da providência.
+    A etapa é de exame da medida acauteladora.
+    2. O Juízo, ao estabelecer a pena-base em 1 ano, mínimo previsto para o tipo, destacou inexistentes circunstâncias judiciais desfavoráveis. Fixou o regime semiaberto para o início do cumprimento da pena – 2 anos e 8 meses de reclusão –, tendo em conta a agravante prevista no artigo 61, inciso II, alínea “g”, do Código Penal e a causa de aumento de pena alusiva à prática de crime contra autarquia federal para justificar a imposição do regime mais gravoso.
+    Cumpre observar a disciplina legal referente ao estabelecimento do regime de cumprimento da pena. Norteia-o o patamar alusivo à condenação e as circunstâncias judiciais. É o que está previsto no artigo 33 do Código Penal. A sanção ficou abaixo de 4 anos, tendo sido as circunstâncias judiciais valoradas favoravelmente. Assim, o regime adequado é o aberto.
+    3. Defiro a liminar para que o paciente seja submetido, no cumprimento da pena, até o julgamento final da impetração, ao regime inicial aberto.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem
+Brasília, 2 de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
