@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de processo em que se discute o pagamento da Gratificação de Desempenho de Atividade de Perícia Médica Previdenciária _ GDAPMP, nos mesmos moldes recebidos pelos servidores da ativa.
+    O recurso extraordinário não deve ser provido, tendo em vista que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal. A legislação que instituiu as gratificações em exame determinou sua graduação segundo uma avaliação de desempenho institucional e individual, a ser realizada conforme critérios que serão instituídos por ato do Poder Executivo. Até que sobrevenha a regulamentação e sejam realizadas as avaliações, porém, a lei determina que todos os servidores da ativa receberão pelo mesmo patamar.
+    Nesse contexto, o acordão recorrido entendeu que a hipótese seria de gratificação dotada de caráter genérico, o que imporia a sua extensão aos servidores inativos ainda beneficiados pela regra de paridade. Vale dizer: aos servidores que tenham se aposentado antes da edição da Emenda Constitucional nº 41/2003, ou que, nos termos de seu art. 3º, já tivessem reunido as condições para tanto. Esse é, precisamente, o entendimento que o Supremo Tribunal Federal vem adotando quando examina gratificações análogas à GDATA, a exemplo da GDATEM. Nessa linha, confira-se a ementa do AI 811.049-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDORES INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO ADMINISTRATIVA GDATA E DE GRATIFICAÇÃO DESEMPENHO DE ATIVIDADE TÉCNICO-OPERACIONAL EM TECNOLOGIA MILITAR GDATEM. SÚMULA VINCULANTE N. 20. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 06 de fevereiro de 2018.
+Ministro Luís Roberto Barroso
+Relator
