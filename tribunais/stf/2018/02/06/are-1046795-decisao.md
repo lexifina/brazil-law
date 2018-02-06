@@ -1,0 +1,17 @@
+Decisão
+    Cuida-se de Agravo contra decisão da instância de origem que, aplicando precedentes desta Corte formados sob a sistemática da repercussão geral (AI 791.292 RG, Tema 339 e ARE 748.371 RG, Tema 660, ambos de Relatoria do Min. GILMAR MENDES), julgou, quanto a essas matérias, prejudicado o Recurso Extraordinário, e, quanto ao mais, inadmitiu o apelo ao argumento de que a análise das suscitadas afrontas à Constituição Federal demandaria a interpretação de legislação infraconstitucional, a indicar violação meramente reflexa ao texto constitucional.
+    É o relatório. Decido.
+    A jurisprudência desta CORTE firmou entendimento pela inadmissibilidade de agravo para o SUPREMO TRIBUNAL FEDERAL com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela SUPREMA CORTE, pois, como destacado pelo Decano de nosso SUPREMO TRIBUNAL FEDERAL, MIN. CELSO DE MELLO, “se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta SUPREMA CORTE, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada” (RE 1.023.231/PR, DJe de 21/2/2017).
+    Dessa forma, não existe, em relação à parte da decisão do Juízo de origem, no ponto em que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso para o SUPREMO (ARE 1.010.560-AgR, Rel. Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, DJe de 24/5/2017).
+    Ademais, o Juízo de origem, ao apreciar a controvérsia, assim se manifestou em relação à caracterização dos danos materiais e morais requeridos na inicial (Vol. 4):
+    “Neste sentido, incontroverso nos autos que o curso de nutrição oferecido pela ré não foi reconhecido pelo MEC. Também é certo que os alunos, além do aprendizado natural ínsito a qualquer curso, visam com a sua realização, a obtenção do respectivo diploma de conclusão, para enriquecer o seu currículo e possuir melhores condições no competitivo mercado de trabalho.
+    Evidente que a autora teve suas expectativas frustadas, ao frequentar o curso, com evidentes gastos físicos, psíquicos e financeiros.
+    Ora, é flagrante a abusividade da situação, por impor excessiva desvantagem ao consumidor. De fato, a inadequação da conduta perpetrada pela ré que não prestou os serviços nos moldes convencionados, descumprindo proposta oferecida á consumidora, frustando suas expectativas de formação profissional ultrapassa o mero dissabor, gerando abalo moral e justificando a reparação do dano daí decorrente.”
+    A argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 6 de fevereiro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
