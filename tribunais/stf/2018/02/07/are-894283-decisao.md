@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio de Janeiro, ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL/REEXAME NECESSÁRIO. BLOQUEIO DE REPASSE DE VERBAS PÚBLICAS EM RAZÃO DE DÉBITOS COM AUTARQUIA ESTADUAL, DE ACORDO COM O ARTIGO 160, PARÁGRAFO ÚNICO, I DA CONSTITUIÇÃO FEDERAL. LEGALIDADE DO BLOQUEIO. IMPOSSIBILIDADE DE COMPENSAÇÃO DO DÉBITO E PARCELA DE REPASSE DE RECEITA TRIBUTÁRIA SEM PREVISÃO EM LEI ESPECÍFICA, NOS MOLDES DO QUE PRECEITUA O ART. 161, II E III, DA LEI FUNDAMENTAL. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DE AUTARQUIA ESTADUAL PELO ESTADO. PERSONALIDADES DISTINTAS. DESPROVIMENTO DO PRIMEIRO RECURSO, PROVIMENTO DO SEGUNDO APELO, ENTRETANTO.” (eDOC 08, p. 57)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 5º XXXV e 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se que, inobstante se tenha provocado o Juízo, em todas as oportunidades que teve de falar nos autos, para que se manifestasse sobre o tema (necessidade de aplicação do art. 160 da CR, na redação anterior à EC 3/1993), ele nada disse, tendo deixado a discussão passar em silêncio, mesmo após a oposição de embargos de declaração.
+    A Procuradoria-Geral da República enxergou agressão ao artigo 93, IX, da Constituição e opinou pelo provimento. (eDOC 18)
+    Com razão o recorrente.
+    O acórdão recorrido está inquinado de nulidade, porquanto não enfrentou a matéria que lhe foi posta, nem mesmo perfunctoriamente, o que caracteriza irrefutável negativa da prestação jurisdicional.
+    Nos termos da jurisprudência desta Corte, firmada no tema 339 da sistemática da repercussão geral, não se exige que o magistrado proceda ao exame criterioso de cada uma das alegações, mas que fundamente suas decisões e se pronuncie, ao menos de modo sucinto, sobre a questão nuclear da demanda que lhe foi submetida.
+    Nesse sentido, confira-se o entendimento firmado no paradigma AI-RG 791.292 (tema 339 da sistemática da repercussão geral), de minha relatoria:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” [grifei]
+    Ante o exposto, ante a manifesta ausência de fundamentação, conheço do agravo e, desde logo, dou provimento ao recurso extraordinário e determino a devolução dos autos ao Tribunal de origem, para que se pronuncie sobre o ponto omisso.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
