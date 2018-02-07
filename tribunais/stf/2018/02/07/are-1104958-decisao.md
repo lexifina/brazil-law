@@ -1,0 +1,29 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão cuja ementa segue transcrita:
+    “AGRAVO LEGAL. HIPÓTESE DE APLICAÇÃO DO ART. 557, DO CPC. MANDADO DE SEGURANÇA. CSLL. MP 413/08. ALÍQUOTAS DIFERENCIADAS. LEGITIMIADE DA EXAÇÃO. AGRAVO IMPROVIDO.
+    1. O art. 557, caput e § 1°-A do CPC autoriza que o relator negue seguimento ou dê provimento ao recurso quando a decisão recorrida estiver em confronto com a jurisprudência dominante no respectivo Tribunal ou de Tribunal Superior. Possibilidade de aplicação do dispositivo à hipótese vertente.
+    2. Entendo inexistir violação aos princípios da isonomia tributária ou da capacidade contributiva. Percebe-se haver um discrímen razoável, por parte da Medida Provisória n.° 413, de 3 de janeiro de 2008, para o estabelecimento de alíquotas diferenciadas da CSLL.
+    3. Igualmente, não prospera a alegação das apelantes de que houve violação dos princípios da anterioridade e da irretroatividade. Conforme entendimento perfilhado pelo Pretório Excelso, o prazo para exigibilidade da exação conta-se a partir da edição da medida provisória convertida em lei. Destarte, entendo que houve respeito ao art. 195, § 6° da Constituição, uma vez que já decorridos mais de noventa dias, contados da data da edição da medida provisória, não havendo que se falar em violação aos princípios da anterioridade e da irretroatividade.
+    4. Não há elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+    5. Agravo legal improvido” (pág. 94 do documento eletrônico 2).
+    Opostos embargos de declaração, foram rejeitados. (pág. 117 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5°, caput; 62; 145, § 1°; 150, II, III, a e b; 152; 170; 194, V; 195, § 5° e § 9° e 246, da mesma Carta.
+     Sustenta em síntese a não observância da regra da anterioridade nonagesimal, ofensa aos princípios da isonomia e da referibilidade, bem como não ser válida a exigibilidade da Contribuição Social sobre o Lucro Líquido – CSLL por alíquota diferenciada em relação às instituições financeiras, nos termos da Medida Provisória 413/2008, convertida na Lei 11.727/2008.
+    A pretensão recursal não merece acolhida.
+    Isso porque a decisão do tribunal de origem está em harmonia com o entendimento jurisprudencial desta Corte. Verifico que o Supremo Tribunal Federal assentou a constitucionalidade da majoração de alíquota da Contribuição Social sobre o Lucro Líquido por medida provisória. Nesse sentido trago à colação decisões de ambas as turmas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. 1. POSSIBILIDADE DE MAJORAÇÃO DE ALÍQUOTA PELA MEDIDA PROVISÓRIA N. 1.807/99 E SUAS REEDIÇÕES. 2. PRAZO DO ART. 195, § 4°, DA CONSTITUIÇÃO DA REPÚBLICA: CONTAGEM A PARTIR DA PRIMEIRA EDIÇÃO DA MEDIDA PROVISÓRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 588.943-AgR, Rel. Min. Roberto Barroso, Primeira Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CSLL. MAJORAÇÃO DE ALÍQUOTA. MP 1.807/1999 E REEDIÇÕES. POSSIBILIDADE. CONTAGEM DO PRAZO NONAGESIMAL A PARTIR DA PRIMEIRA EDIÇÃO.
+    1. A jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, é firme no sentido de que é constitucional a majoração da alíquota da CSLL pela MP 1.807/1999 e suas reedições e que a contagem do prazo nonagesimal se dá com a primeira edição da medida provisória.
+    2. Agravo regimental desprovido” (RE 636.319- AgR, Rel. Min. Ayres Britto, Segunda Turma).
+    “Tributo. Contribuição Social sobre o Lucro Líquido - CSLL. Adicional instituído por meio de medida provisória. Admissibilidade. Violação ao art. 246 da CF. Não ocorrência. Tributo instituído e regulamentado pela Lei nº 7.689/88. Mero aumento da alíquota pela MP nº 1.807/99. Recurso extraordinário não provido. A Medida Provisória nº 1.807/99 não instituiu, nem regulamentou a Contribuição Social Sobre o Lucro Líquido - CSLL, mas apenas lhe aumentou a alíquota” (RE 403.512, Rel. Min. Cezar Peluso, Segunda Turma).
+    Em outro giro, no tocante à majoração da exação direcionada às instituições financeiras, o apelo extremo não encontra guarida. De fato, o Plenário do Supremo, no RE 598.572 -RG, de relatoria do Min. Edson Fachin, decidiu que a cobrança de alíquotas majoradas de instituições financeiras não viola a isonomia e nem a capacidade contributiva.
+    Nesses termos, em sede de repercussão geral, a Corte consolidou que art. 195, § 9°, da Constituição, desde a redação conferida pela Emenda Constitucional nº 20/1998, autoriza a instituição de bases de cálculo diferenciadas em razão da atividade econômica e do nível de uso de mão de obra. Assim, há possibilidade de tratamento não coincidente entre contribuintes que se encontrem em situações diversas.
+    Nesse ponto, cabe mencionar as palavras do Ministro Gilmar Mendes, que, no RE 781.234/RS, caso similar ao dos autos, assentou verbis:
+    ”[…]
+     Inicialmente, em relação à questão de Medida Provisória ter regulamentado artigo da Constituição, verifica-se que jurisprudência do STF tem-se firmado no sentido de que a mera majoração de alíquota de CSLL não atrai a aplicação do art. 246 do texto constitucional.
+    […]
+    Relativamente à desigualdade de tratamento pelo fato da atividade econômica desempenhada pela parte recorrente, tem-se que a jurisprudência desta Corte assentou a orientação no sentido de que não há violação à isonomia a majoração de alíquotas do CSLL para determinados segmentos econômicos escolhidos pelo legislador. […] Ante o exposto, conheço do presente agravo para negar-lhe provimento”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2018.
+Ministro Ricardo Lewandowski
+Relator
