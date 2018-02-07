@@ -1,0 +1,50 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido liminar, impetrado em favor de Randal Bechara Gibim, apontando como autoridades coatoras o Tribunal de Justiça do Estado de São Paulo e o Ministro Rogério Schietti Cruz, do Superior Tribunal de Justiça, que conheceu do agravo e negou provimento ao recurso especial no AREsp nº 1.009.890/SP.
+    Os impetrantes alegam, inicialmente, que o paciente faria jus à incidência da causa especial de redução de pena, prevista no § 4º do art. 33 da Lei de Drogas, em seu grau máximo, visto que preencheria os pressupostos necessários para tanto, pois seria primário, de bons antecedentes, não se dedicaria às atividades criminosas e nem integraria organização criminosa.
+    Sustentam, ainda, que a sentença de primeiro grau teria fixado, à míngua de fundamentação idônea, o regime inicialmente fechado para o cumprimento da pena de 3 (três) anos e 4 (quatro) meses de reclusão, imposta ao paciente pelo delito de tráfico de drogas.
+    Requer, liminarmente, a concessão da ordem para abrandar a pena do crime de tráfico, aplicando-se o redutor do § 4º art. 33 da Lei de Drogas em seu grau máximo, bem como para estabelecer o regime inicial aberto para cumprimento da reprimenda.
+    Examinados os autos, decido.
+    Em relação ao Tribunal de Justiça do Estado de São Paulo, ora apontado como autoridade coatora, o caso escapa à competência originária do Supremo Tribunal Federal, que não detém legitimidade para processar e julgar habeas corpus impetrado contra ato omissivo ou comissivo de Tribunal de Justiça estadual, não tendo o paciente foro por prerrogativa de função nesta Corte para efeito de ações penais por crimes comuns ou de responsabilidade (CF, art. 102, inciso I, alíneas d e i).
+    No que se refere ao Superior Tribunal de Justiça, tem-se como autoridade coatora o Ministro Rogério Schietti Cruz que conheceu do agravo e negou provimento ao recurso especial no AREsp nº 1.009.890/SP.
+    A decisão foi assim fundamentada na parte que interessa:
+    “RANDAL BECHARA GIBIM agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, ‘a’ e ‘c’, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 3001939-55.2013.8.26.0471).
+    Nas razões do recurso especial, o ora agravante alega violação dos arts. 28 e 33, § 4º, ambos da Lei n. 11.343/2006, Para tanto, primeiramente, sustenta a insuficiência probatória para a condenação por tráfico, devendo a conduta ser desclassificada para a conduta do art. 28 da Lei n. 11.343/2006.
+    Ademais, afirma que preenche todos os requisitos para que seja aplicada a minorante na fração de 2/3.
+    Requer o provimento do recurso, para que seja absolvido do crime de tráfico e desclassificada a conduta para a figura do art. 28 da Lei n. 11.343/2006. Subsidiariamente, pugna pela desclassificação para a conduta do art. 28 da Lei n. 11.343/2006 ou a aplicação da causa especial de diminuição da pena prevista no art. 33, § 4º, da Lei 11.343/2006 em grau máximo.
+    O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+    O Ministério Público Federal manifestou-se pelo não conhecimento do agravo, mas pela concessão da ordem, de ofício, para a fixação do regime semiaberto (fls. 844-852).
+    Decido.
+    O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+    I. Impossibilidade de absolvição ou de desclassificação – delito de tráfico de drogas
+    (…)
+    II. Fração da minorante
+    Em relação à causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, o Juízo singular aplicou fração de 1/3, nos seguintes termos:
+    Na terceira fase de dosimetria, não há causas de aumento de pena. Ante a primariedade do acusado, preenchidos, ainda, os demais requisitos presentes no parágrafo 4º do art. 33 da Lei 11.343/06, deve incidir a causa de diminuição de pena. Considerando expressiva quantidade de drogas apreendidas - 365 gramas de maconha, bem como a apreensão de cocaína - 17 gramas, substância altamente nociva, cujo vício é potencializado nos usuários, mostra-se razoável a redução em 1/3, perfazendo nesta fase e em definitivo em 03 anos e 04 meses de reclusão e 333 dias-multa (fl. 568, destaquei).
+    O Tribunal de origem assim fundamentou a manutenção no patamar de 1/3, verbis:
+    No tocante ao crime de tráfico, inviável a redução máxima prevista no artigo 33, § 4º, tendo em vista a quantidade e natureza dos entorpecentes apreendidos.
+    Aliás, a meu ver, a benesse sequer deveria ter sido aplicada.
+    O referido dispositivo legal autoriza a redução da pena corporal imposta ao condenado por tráfico de entorpecentes ‘desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa’ (fl. 699).
+    Com efeito, segundo o disposto no § 4º do art. 33 da Lei de Drogas, ‘Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa’.
+    Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nela prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+    Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+    Na espécie, verifico que o Tribunal de origem entendeu devida a incidência da fração de 1/3, em razão das circunstâncias objetivas e subjetivas do caso concreto: 365 g de maconha e 17 g de cocaína, o que evidencia maior ardil por parte do acusado, a justificar, por conseguinte, a aplicação da minorante em patamar abaixo do máximo previsto em lei.
+    Dessa forma, constato que o aresto impugnado está em consonância com o posicionamento deste Superior Tribunal de que compete ao julgador, dentro do seu livre convencimento motivado, decidir sobre a aplicação do redutor e o seu coeficiente.
+    Portanto, fica afastada a alegada violação do art. 33, § 4º, da Lei n. 11.343/2006, visto que a aplicação da minorante no patamar de 1/3 ocorreu de forma concretamente motivada.
+    III. Execução imediata da pena
+    Por fim, ante o esgotamento das instâncias ordinárias – como no caso –, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+    IV. Dispositivo
+    À vista do exposto, com fundamento no art. 932, VIII, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e no art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+    Determino o envio de cópia dos autos ao Juízo da 2ª Vara da Comarca de Porto Feliz – SP (juízo da condenação) para que encaminhe a guia de recolhimento ao juízo da VEC, a fim de dar início a execução da pena imposta ao agravante. A determinação deverá ser desconsiderada, caso o réu cumpra, atualmente, a reprimenda.”
+    Como visto, a impetração volta-se contra decisão singular proferida no bojo do ARE nº 1.009.890/SP. Logo, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente.” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14)
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Além desse óbice processual em evidência, destaco que o Superior Tribunal de Justiça deixou de analisar a questão acerca do regime inicial de cumprimento da pena, ora submetida à apreciação deste Supremo Tribunal.
+    Portanto, sua análise, de forma originária, neste ensejo, configuraria inadmissível supressão de instância. Perfilhando esse entendimento: HC nº 113.565/MS, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 18/3/13; HC nº 95.977/SP, Primeira Turma, Relator para o acórdão o Ministro Luiz Fux, DJe de 12/12/12; HC nº 103.131/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/10/10; HC nº 102.783/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 28/5/10; e HC nº 96.555/MG, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 18/12/09, entre outros.
+    Como se verifica, este Supremo Tribunal tem assentado a impossibilidade de, em exame per saltum, apreciar questão não analisada pelo Superior Tribunal de Justiça, sob pena de incorrer em grave violação às regras de competência constitucionalmente previstas (v.g. HC nº 111.171/DF, Primeira Turma, de minha relatoria, DJe de 9/4/12). Portanto, o entendimento emanado daquela Corte no ato ora impugnado não vulnera a jurisprudência da Corte.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
