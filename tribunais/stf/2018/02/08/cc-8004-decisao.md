@@ -1,0 +1,29 @@
+Decisão
+    Trata-se de conflito negativo de competência entre o Juízo de Direito da Comarca de Miguel Alves – PI e o Tribunal Superior do Trabalho suscitado em sede de ação trabalhista proposta por Débora Maria Ciríaco da Silva em face do Município de Miguel Alves – PI, com objetivo de discutir a cobrança de indenização decorrente de relação de trabalho.
+    A ação foi originalmente proposta junto ao Juízo da 2ª Vara do Trabalho de Teresina – PI, onde foi julgada procedente para condenar o município reclamado a pagar à reclamante o FGTS de todo o período trabalhado (3/1/2015 a 1º/1/2009) e o salário do mês de dezembro de 2008.
+    Inconformado com a sentença condenatória, o Município de Miguel Alves – PI interpôs recurso ordinário no Tribunal Regional do Trabalho da 22ª Região, que negou provimento ao pleito recursal. Contra esse acórdão o município reclamado ajuizou recurso de revista perante o Tribunal Superior do Trabalho, que deu provimento ao pedido para declarar a incompetência da Justiça do Trabalho para apreciar e julgar a causa, determinando a remessa dos autos à Justiça Comum.
+    A ação foi então distribuída ao Juízo da 1ª Vara da Fazenda Pública de Teresina – PI, oportunidade em que o magistrado titular declarou-se incompetente para processar e julgar a lide e determinou a remessa do processo ao Juízo de Direito da Comarca de Miguel Alves – PI.
+    Após receber os autos, o Juízo de Direito da Comarca de Miguel Alves – PI suscitou o presente conflito negativo de competência sob os seguintes fundamentos:
+    “Conforme se depreende da leitura do acórdão do TST a decisão foi baseada na falsa premissa de que ‘o TST vem, reiteradamente, declarando a incompetência da Justiça do Trabalho para conhecer e julgar ações que contemplam a instituição de regime estatutário por ente público’, porém, no Município de Miguel Alves não há lei municipal prevendo regime especial aos servidores municipais.
+    Por conseguinte, trata-se de pedido decorrente de relação de trabalho, já que não há estatuto específico a reger suas relações com a municipalidade, a autora não se submeteu a concurso público, e em nenhum momento menciona ter sido admitida mediante contratação temporária, inclusive porque não há legislação local regendo essa matéria, motivo pelo qual não pode ser aplicado ao caso concreto recente decisão do STF no CC 7.231 já que nessa decisão havia regime especial disciplinado por lei local, o que não ocorre no caso em comento.
+    (...)
+    Tratando-se de relação de trabalho havida com a administração pública sem a observância de concurso público, não há relação estatutária ou mesmo vínculo jurídico-administrativo, pois o que há é uma relação fática irregular, que gera tão somente os efeitos pecuniários descritos na Súmula 363 do TST, conforme a jurisprudência do STF: (...)
+    Devo frisar que não havendo neste Município de Miguel Alves regime jurídico de natureza estatutária e não sendo o cargo em comissão ou temporário não há possibilidade da autora ter sido contratada sob regime estatutário ou como servidora temporária, mas somente pelo regime celetista” (fls. 178/179).
+    Nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    É o relatório. Decido.
+     Segundo dispõe o art. 102, I, o, da Constituição Federal, compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    (…)
+    o) os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais, entre Tribunais Superiores, ou entre estes e qualquer outro tribunal.
+    A presente hipótese faz surgir conflito passível de análise por esta Corte, pois “compete a este Supremo Tribunal dirimir conflitos de competência instaurados entre juízes de primeiro grau e o Tribunal Superior do Trabalho” (CC 7.899/MG, Rel. Min. CÁRMEN LÚCIA, DJe de 12/2/2016).
+    Verifico, então, que assiste razão à autoridade suscitante do presente conflito negativo de competência, na medida em que o entendimento emanado do Juízo da Comarca de Miguel Alves – PI está em consonância com a orientação firmada pelo Plenário desta Corte no julgamento do CC 7.950/RN, no sentido de que compete à Justiça do Trabalho o julgamento de ações que envolvam prestações de natureza trabalhista. Eis a ementa desse julgado:
+    COMPETÊNCIA – CONFLITO. Envolvendo o conflito de competência o Tribunal Superior do Trabalho e Tribunal de Justiça, incumbe ao Supremo apreciá-lo.
+    CONFLITO DE COMPETÊNCIA – JUSTIÇA COMUM VERSUS JUSTIÇA DO TRABALHO. A definição da competência decorre da ação ajuizada. Tendo como causa de pedir relação jurídica regida pela Consolidação das Leis do Trabalho e pleito de reconhecimento do direito a verbas nela previstas, cabe à Justiça do Trabalho julgá-la (CC 7.950/RN, Rel. Min. MARCO AURÉLIO, Pleno, DJe de 1º/8/2017).
+    No mesmo sentido, menciono, ainda, as seguintes decisões monocráticas envolvendo casos semelhantes, também originários do Município de Miguel Alves – PI: CC 7.999/PI, Rel. Min. EDSON FACHIN, DJe de 14/11/2017; CC 8.000/PI, Rel. Min. LUIZ FUX, DJe de 6/11/2017; CC 8.001/PI, Rel. Min. ROSA WEBER, DJe de 5/12/2017.
+    Diante do exposto, com base no art. 955, parágrafo único, inciso I, do Código de Processo Civil, conheço do presente conflito, para reconhecer a competência da Justiça do Trabalho para processar e julgar a causa, determinando, por conseguinte, a remessa dos presentes autos ao Tribunal Superior do Trabalho.
+    Comunique-se, com urgência, transmitindo-se cópia desta decisão ao Tribunal Superior do Trabalho e ao Juízo de Direito da Comarca de Miguel Alves – PI.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
