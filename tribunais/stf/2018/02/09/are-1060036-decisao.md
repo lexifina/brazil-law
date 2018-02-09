@@ -1,0 +1,35 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 8ª Turma de Recursos do Tribunal de Justiça de Santa Catarina, assim ementado (eDOC 9, pp. 1-2):
+    “RECURSO INOMINADO – MILITAR NA RESERVA – FÉRIAS PROPORCIONAIS – PERÍODO AQUISITIVO – REFERÊNCIA ANO CIVIL – INCIDÊNCIA DO AUXÍLIO ALIMENTAÇÃO E TERÇO CONSTITUCIONAL – RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+    1.’Conforme se depreende do art. 59 da Lei Estadual n. 6.745/1985, o servidor tem direito ao usufruto de suas primeiras férias apenas depois de completar o primeiro período aquisitivo (365 dias). Daí em diante, o gozo das férias passa a ser permitido no início do ano civil seguinte, mesmo que o respectivo período aquisitivo ainda esteja incompleto. Com lastro em tal regra, deve se dar a apuração do período de férias não usufruído pelo servidor’ (AC n. 2012.082167-6, da Capital, rel. Des. Jorge Luiz de Borba, Primeira Câmara de Direito Público, j. 18-12-2012) (Apelação Cível n. 2014.017315-5, da Capital, Relator: Des. Subst. Paulo Henrique Moritz Martins da Silva, da Capital, Primeira Câmara de Direito Público, julgado em 25/08/2015).
+    2. ‘Incabível o reconhecimento da concessão de auxílio alimentação nos afastamentos decorrentes de férias e licenças prêmio em razão da previsão expressa de exclusão contida no art. 1º, § 8º, alínea ‘g’ da Lei Estadual nº 11.647/00.’ (TJSC, Recurso Inominado n. 1008478-14.2013.8.24.0023, da Capital, rel. Des. Simone Boing Guimarães, j. 20-08-2015).
+    3. ‘As férias não gozadas, integrais ou proporcionais, incorporam-se ao patrimônio jurídico dos servidores públicos (CF, art. 39, § 3º) e são devidas inclusive a servidores comissionados. Na indenização de férias não gozadas em virtude da exoneração ou aposentadoria do servidor deve ser incluída a importância referente ao adicional de um terço previsto no art. 7º, XVII, da Constituição Federal’ (RE nº 234.068, rel. Min. Sepúlveda Pertence, Primeira Turma, julgado em 19/10/2001). (TJSC, Apelação Cível n. 2014.023367-1, de Videira, rel. Des. Luiz Fernando Boller, j. 20-10-2015).”
+    Os embargos de declaração foram desprovidos.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 7º, XVII, e 39, § 3º, da Carta da República.
+    Nas razões recursais, sustenta-se, em suma (eDOC 15, p. 4):
+    “O acórdão recorrido, desvirtuando o caráter anual do período aquisitivo de férias, tal qual disciplinado pela legislação estadual, em conformidade com a Constituição Federal de 1988, assegurou ao recorrido o cômputo das férias associado ao calendário civil. Assim agindo, não só violou a legislação local, mas maculou a ordem constitucional.
+    (...)
+    O acórdão recorrido, ao determinar a indenização de férias não gozadas, não agasalhou a tese de que sua contagem deve levar em conta a data de ingresso do servidor no serviço público.”
+    A Presidência da Oitava Turma de Recurso – Capital do TJ/SC inadmitiu o recurso com base no óbice da Súmula 280 do STF (eDOC 17).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do recurso inominado, asseverou que (eDOC 9, pp. 3/4):
+    “Acerca da matéria, o artigo 59, § 1º, da Lei Estadual nº 6.745/1985 menciona: ‘Somente depois do primeiro ano de exercício, adquirirá o funcionário direito a férias, as quais corresponderão ao ano em que completar o período.’
+    Sendo assim, compreende-se com a simples leitura da legislação supra que o servidor fará jus as férias somente quando completar o primeiro ano de labor. Após este, poderá gozar férias no início do ano civil, mesmo não completando o período aquisitivo, sendo assente nosso Tribunal de Justiça:
+    (...)
+    No mesmo sentido: Apelação Cível n. 2015.021011-9, de São José, rel. Des. Ricardo Roesler, j. 17-09-2015 e Apelação Cível n. 2015.046842-8, da Capital, rel. Des. Francisco Oliveira Neto, j. 01-09-2015.
+    Logo, sendo o ano civil correspondente à 1º de janeiro a 31 de dezembro, e o autor ter se aposentado em 14 de agosto de 2014, este faz jus à indenização das férias proporcionais a razão de 8/12 avos.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o exame da legislação local aplicável à espécie (Lei Estadual 6.745/1985), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmulas 280 do STF.
+    Confira-se, a propósito:
+    “DIREITO ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 7º, XVII, 37 E 39, § 3º, DA CONSTITUIÇÃO DA REPÚBLICA. CONVERSÃO DE FÉRIAS NÃO USUFRUIDAS EM PECÚNIA. POSSIBILIDADE. ARE 721.001-RG, REL. MIN. GILMAR MENDES. REPERCUSSÃO GERAL. SERVIDOR PÚBLICO ESTADUAL. FÉRIAS PROPORCIONAIS. OBSERVÂNCIA DO ANO CIVIL PARA O CÔMPUTO. INTERPRETAÇÃO DA LEI ESTADUAL 6.745/1985. MATÉRIA INFRACONSTITUCIONAL. APLICAÇÃO DA SÚMULA Nº 280/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. RECURSO QUE NÃO MERECE TRÂNSITO. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015.
+    1. O acórdão recorrido harmoniza-se com a jurisprudência desta Corte. Ao julgamento do ARE 721.001-RG, Rel. Min. Gilmar Mendes, esta Suprema Corte reafirmou jurisprudência no sentido da possibilidade de ‘conversão de férias não gozadas em indenização pecuniária, por aqueles que não mais podem delas usufruir, seja por conta do rompimento do vínculo com a Administração, seja pela inatividade, tendo em vista a vedação do enriquecimento sem causa pela Administração’.
+    2. A Corte de origem decidiu a controvérsia com fundamento na Lei Estadual 6.745/1985. Obstada a análise da suposta afronta aos preceitos constitucionais invocados, porquanto dependeria de prévia análise da legislação infraconstitucional aplicada à espécie, procedimento que refoge à competência jurisdicional extraordinária desta Corte Suprema, a teor do art. 102 da Magna Carta.
+    3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República.
+    4. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça.
+    5. Agravo interno não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação.” (RE 1016001 AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 27.9.2017)
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a, do CPC e 21, § 1º, do RISTF.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC,porquanto não houve fixação de verba honorária nas instâncias de origem.
+    Publique-se.
+    Brasília, 9 de fevereiro de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
