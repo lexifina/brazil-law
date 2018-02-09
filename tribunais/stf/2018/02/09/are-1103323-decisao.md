@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo em face de decisão que inadmitiu o recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+    “AGRAVO REGIMENTAL. PEDIDO DE INTERVENÇÃO DO ESTADO. AUSÊNCIA DOS PRESSUPOSTOS.
+    Designação de servidor para atuar na função de inspetor de emissão veicular, demonstrando que, paulatinamente, o Município tem adotado medidas visando ao cumprimento da ordem judicial.
+    Ausência de adequação e necessidade da medida, já que a inspeção veicular pode ser realizada pelo Estado, independentemente de decreto interventivo.
+    NEGARAM PROVIMENTO. UNÂNIME”. (eDOC 5)
+    Nas razões do recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição, aponta-se violação ao art. 35, IV, do texto constitucional.
+    Narra-se que, nos autos da Ação Civil Pública 023/1.9.004336-6, ajuizada perante a 3ª Vara Cível da Comarca de Rio Grande com fundamento nos arts. 23, VI; e 225 da Constituição, foi dado parcial provimento ao pedido para condenar o Município a implementar medidas destinadas a inibir a emissão de gases poluentes por veículos automotores movidos a óleo diesel.
+    O Procurador-Geral de Justiça propôs representação buscando a intervenção do Estado do Rio Grande do Sul no Município de Rio Grande por descumprimento de ordem judicial, a qual foi desacolhida pelo Tribunal a quo.
+    Nessa esteira, o recorrente sustenta o injusto retardamento no cumprimento de comando judicial pelo Município. Aduz que a intervenção, no caso concreto, afigura inegavelmente proporcional, tendo em vista que a inércia do Município perdura há 16 (dezesseis) anos, “não sendo aceitável a justificativa de que a inércia advém de indisponibilidade financeira e de pessoal treinado para realizá-la”, seja pelo valor módico dos aparelhos necessários, seja pela possibilidade de treinar servidores para tal fim.
+    Argumenta, ainda, ser a intervenção solução adequada, pois o Estado teria condições efetivas de estabelecer a fiscalização pretendida, mostrando-se também necessária, haja vista inexistir outro meio menos gravoso à consecução do objetivo pretendido. Por fim, alega a proporcionalidade em sentido estrito da medida, em razão de o Município possuir sede portuária, que recebe diariamente grande quantidade de veículos automotores movidos a óleo diesel, responsáveis pelo transporte das mercadorias que aportam no Município para os vários destinos correspondentes.
+    Pugna, ao final, pela reforma da decisão, para que seja determinada a decretação da intervenção estadual no Município de Rio Grande.
+    Decido.
+    O recurso não merece prosperar.
+    De plano, verifico que o presente recurso extraordinário é insuscetível de conhecimento, uma vez que impugna decisão resultante de atividade materialmente administrativa, desenvolvida pelo Tribunal a quo, não configurando, portanto, caráter jurisdicional a dar ensejo ao prosseguimento do apelo.
+    A propósito, cito trecho de decisão proferida pelo Min. Celso de Melo, no julgamento do AI-AgR 343.461, Segunda Turma, DJ 29.11.2002:
+    “(...) Nas hipóteses de descumprimento de ordem ou de sentença judiciais (CF, art. 34, VI e art. 35, IV), o procedimento destinado a viabilizar a efetivação de intervenção – seja de intervenção federal nos Estados-membros, seja de intervenção estadual no Municípios – reveste-se de caráter político-administrativo, muito embora instaurado perante órgão competente do Poder Judiciário (CF, art. 36, II e art. 35, IV), circunstância essa que inviabiliza a utilização do recurso extraordinário, consoante tem sido reiteradamente enfatizado pela jurisprudência do Supremo Tribunal Federal (Pet 1.256-SP, Rel. Min. SEPÚLVEDA PERTENCE, Pleno – RE 232.937-SP, Rel. Min. NÉRI DA SILVEIRA – AG 278.891-SP, Rel. Min. CELSO DE MELLO, v. g.):
+    ‘Não cabe recurso extraordinário contra acórdão do Tribunal de Justiça, que, em sede de procedimento de intervenção estadual em Município, instaurado para promover a execução de ordem judicial, requisita, ao Governador do Estado, a decretação do ato interventivo. É que, em tal situação, a atividade desenvolvida pela Corte judiciária local, no exame do pedido de intervenção, não se reveste de caráter jurisdicional, afastando, por isso mesmo, a possibilidade de reconhecimento, na espécie, da necessária existência de uma causa , para os fins a que se refere o art. 102, III, da Constituição da República. Precedentes’.
+    (...)”.
+    Nesse sentido, indico ainda os seguintes precedentes: AI 597.466-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, Dje 1º.2.2008; AI 631.531, Rel. Min. Cármen Lúcia, Primeira Turma, Dje 20.11.2009; AI 598.988-AgR, Rel. Min. Marco Aurélio, Primeira Turma, Dje 19.8.2011; RE 609.298, Rel. Min. Luiz Fux, Dje 17.5.2011; e RE 888.465, Rel. Min. Celso de Mello, Dje 3.3.2016.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de fevereiro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
