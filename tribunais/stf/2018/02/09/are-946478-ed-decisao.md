@@ -1,0 +1,19 @@
+Trata-se de embargos de declaração opostos contra decisão que negou provimento ao recurso extraordinário com agravo ante a incidência da Súmula/STF 280 (fls. 366-370).
+    Os embargantes sustentam, em síntese, a ocorrência de omissão quanto ao pedido formulado às fls. 354-356 para que se suspenda o curso desta ação em razão do mandado de segurança coletivo impetrado pela Associação dos Delegados de Polícia de Pernambuco (ADEPPE) e o Estado de Pernambuco (MS 0018999-073.2010.8.17.0000) perante o Tribunal de Justiça deste Estado.
+    Registram que o objeto daquela ação mandamental é o mesmo deste recurso, e que sua suspensão teria por finalidade permitir que os embargantes pudessem beneficiar-se dos efeitos da coisa julgada decorrente daquela ação.
+    Noticiam a celebração de acordo naquele mandado de segurança, afirmando que o percentual de reajuste salarial objeto desta ação “[...] já consta nos contracheques dos Delegados de Pernambuco (inclusive dos Autores)” (fl. 373 v.).
+    Asseveram que tal acordo “[...] contém obrigação acessória que impõe aos delegados informarem nas ações individuais a existência de termo de acordo coletivo sobre a mesma matéria dos autos” (fl. 374).
+    Solicitam, ainda, considerando que seus patronos não são os mesmos da demanda coletiva, a intimação do Estado de Pernambuco para que junte o termo de acordo firmado naquele mandado de segurança (fl. 374).
+    Requerem, por fim, a extinção do processo com resolução de mérito.
+    Intimado, o Estado de Pernambuco pugnou pela rejeição dos embargos, salientando que os embargantes pretendem apenas dar caráter protelatório aos recursos interpostos (fls. 379-379v.).
+    À fl. 382 determinei a intimação dos embargantes para que se manifestassem quanto ao seu interesse no prosseguimento do feito, o que ocorreu mediante a petição de fls. 386-387, quando requereram a extinção do processo em relação à Ana Luiza de Mendonça Fonseca Carlos, Gilderley Alves Gondim, Gleide do Nascimento Ângelo, Luciano José Siqueira da Costa Silva, Paulo André Furtado da Silva e Walcir Martins de Faria, pois somente em relação a estes se comprovou a celebração de acordo. Quanto aos demais embargantes (Paulo Geraldo de Paula, Josinaldo Correia de Almeida, Inácio de Loiola Silva e Luiz Andrey Viana de Oliveira), requereram a intimação da parte recorrida para pronunciar-se quanto à existência de acordo.
+    Novamente intimado, o Estado de Pernambuco não se manifestou (fl. 404).
+    É o relatório. Passo a decidir.
+    Não há a alegada omissão. Diferentemente da apelação, o recurso extraordinário e, no caso, o agravo que busca seu destrancamento, têm devolutividade limitada, restringindo-se o seu julgamento, em respeito ao princípio da congruência, à apreciação do pedido de reforma ou nulidade da decisão recorrida. Por isso, e por não ter havido, naquele momento, qualquer pedido de suspensão formulado ao Supremo Tribunal Federal, não se tratando de matéria de ordem pública, a decisão ora embargada não haveria de apreciar pretensão dirigida ao Tribunal de origem.
+    De resto, verifico que, conforme registra o site do Tribunal de Justiça do Estado de Pernambuco, não só a impetração do mandado de segurança como a celebração dos acordos (fls. 386-399) ocorreram em momento anterior à decisão embargada de fls. 366-370.
+    Assim, torno sem efeito a decisão de fls. 366-370 em relação aos embargantes Ana Luiza de Mendonça Fonseca Carlos, Gilderley Alves Gondim, Gleide do Nascimento Ângelo, Luciano José Siqueira da Costa Silva, Paulo André Furtado da Silva e Walcir Martins de Faria para julgar prejudicado o recurso extraordinário com agravo interposto, ante a superveniente perda de objeto (RISTF, art. 21, IX).
+     Prossiga-se o feito em relação a Paulo Geraldo de Paula, Josinaldo Correia de Almeida, Inácio de Loiola Silva e Luiz Andrey Viana de Oliveira.
+    Publique-se.
+    Brasília, 9 de fevereiro de 2018
+Ministro Ricardo Lewandowski
+Relator
