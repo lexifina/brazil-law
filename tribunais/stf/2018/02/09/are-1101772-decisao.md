@@ -1,0 +1,9 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INVIABILIDADE – DECISÃO QUE NÃO SE MOSTRA DE ÚLTIMA INSTÂNCIA – ARTIGO 102, INCISO III, DA CARTA FEDERAL – AGRAVO DESPROVIDO.
+    1. Na espécie, não se trata de recurso extraordinário contra ato judicial que haja resultado no julgamento da causa. O acórdão proferido pelo Tribunal de Justiça do Estado do Paraná diz respeito à apreciação de agravo de instrumento interposto contra decisão que, em ação ordinária, implicou a concessão de liminar.
+    Assim, o extraordinário não se enquadra no permissivo do inciso III do artigo 102 da Constituição Federal, que estabelece a competência do Supremo para examinar, mediante o citado recurso, as causas decididas em única ou última instância, quando o pronunciamento recorrido contrariar dispositivo constitucional, declarar a inconstitucionalidade de tratado ou lei federal ou, ainda, julgar válida lei ou ato de governo local contestado em face da Carta da República. Decisões interlocutórias não podem ser atacadas, na via direta, mediante o extraordinário.
+    2. Conheço do agravo e o desprovejo. Deixo de majorar os honorários recursais, previstos no artigo 85, § 11, do citado diploma legal, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    3. Publiquem.
+Brasília, 9 de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
