@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1788, de 8 de fevereiro de 2018
+Aprova o texto consolidado das Notas Explicativas do Sistema Harmonizado de Designação e de Codificação de Mercadorias decorrentes de atualizações publicadas pela Organização Mundial das Alfândegas (OMA).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXV do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF no 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 2º do Decreto nº 435, de 27 de janeiro de 1992, e no art. 1º da Portaria MF nº 91, de 23 de fevereiro de 1994, resolve:
