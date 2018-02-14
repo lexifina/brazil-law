@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – APOSENTADORIA – BENEFÍCIO MAIS VANTAJOSO – PRECEDENTE – AGRAVO DESPROVIDO.
+    1. O Tribunal de origem, reformando o entendimento do Juízo, julgou procedente o pedido de conversão de aposentadoria proporcional para integral. No extraordinário, cujo trânsito pretende alcançar, o recorrente alega violação dos artigos 18, cabeça, 30, inciso I, 39, § 1º, 40, § 1º, inciso III, alínea “b”, da Constituição Federal, bem assim ao artigo 3º da Emenda Constitucional nº 41/2003. Afirma que o ato de concessão da aposentadoria por invalidez somente se dará quando reunidos todos os requisitos necessários. Discorre acerca da impossibilidade de aplicação da Lei nº 8.112/90, ante a autonomia municipal.
+    2. Colho do acórdão recorrido os seguintes trechos:
+    Dessume-se dos autos que o requerente se aposentou voluntariamente, com fundamento no art. 40, §1º, III, alínea b, da Constituição da República. Assim, foi-lhe concedida aposentadoria com proventos proporcionais ao tempo de contribuição.
+    Nota-se, contudo, que antes de dezembro de 2006, o requerente já apresentava “sinais de possível hipoperfusão de grau discreto na região látero-basal do ventrículo esquerdo” (fls. 38), inclusive já havia realizado angioplastia coronária em 2001, havendo posterior agravamento do quadro clínico em 2011 (fls. 127).
+    A fim de obter isenção de Imposto de Renda, o recorrente submeteu-se à perícia médica realizada pelo Departamento de Saúde do Servidor da Municipalidade requerida, sendo elaborado Laudo Médico nº 9531052. A avaliação, realizada em março de 2013, constatou que o autor possuía cardiopatia grave, em caráter definitivo (fls. 133).
+    Todavia, o recorrente não se aposentou em razão da cardiopatia, contudo é inegável que a patologia já havia lhe acometido antes da aposentadoria, havendo apenas agravamento do quadro de saúde.
+    O próprio laudo médico, elaborado pelo Departamento de Saúde da Municipalidade de São Paulo, atesta que em 1994 o autor fora submetido à revascularização do miocárdio, evoluindo com episódios de picos hipertensivos e cansaço. Em 2001, houve a piora do quadro, sendo submetido à angioplastia coronária, relatando melhora nos 04 (quatro) anos seguintes, período após o qual houve o agravamento da situação
+    (fls. 188).
+    (…)
+    Assim, entende-se que autor já possuía a doença cardiovascular grave antes de se aposentar, razão pela qual deve haver a alteração do fundamento de sua aposentadoria, consoante permissão do Decreto Municipal nº 46.861/05.
+    Portanto, constatada a existência de cardiopatia grave anos antes da aposentação, conforme o prontuário do servidor juntado pela própria recorrida, entende-se que o autor faz jus à revisão do ato administrativo, convertendo a aposentadoria voluntária com proventos proporcionais em aposentadoria por invalidez com proventos integrais, nos termos do art. 1º da Lei Municipal nº 13.383/2002 e do Decreto Municipal nº 46.861/05.
+    O acórdão recorrido está em consonância com a jurisprudência do Supremo. O Tribunal, no recurso extraordinário nº 630.501/RS, da relatoria da ministra Ellen Gracie, concluiu possuir o segurado do Instituto Nacional do Seguro Social – INSS direito adquirido ao cálculo do benefício mais vantajoso, consideradas todas as datas a partir das quais a aposentadoria proporcional poderia ter sido requerida, observado o preenchimento dos requisitos pertinentes.
+    3. Ante o precedente, conheço do agravo e o desprovejo. Considerada a fixação na origem dos honorários advocatícios no valor de R$ 2.500,00 (dois mil e quinhentos reais), fixo os honorários recursais no patamar de R$ 1.250,00 (mil duzentos e cinquenta reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 14 de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
