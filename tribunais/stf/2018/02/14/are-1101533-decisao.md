@@ -1,0 +1,9 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão da Quarta Turma Recursal dos Juizados Especiais Federais do Estado de São Paulo que declarou a decadência do direito de revisão do benefício previdenciário em discussão nos autos, nos termos do art. 103 da Lei nº 8.213/1991, com a redação dada pela MP 1.523-9/1997, de 28.06.1997, convertida na Lei nº 9.528/1997. Na hipótese, consta que o ato de concessão do benefício ocorreu em 20.02.1997, antes do advento da mencionada MP 1.523/1997. A presente ação, no entanto, foi ajuizada em 27.08.2009.
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega que ocorreu violação ao art. 5º, XXXVI, XXXVII, LIII, LIV e LV, da Constituição. Pede o pagamento de valores “atrasados”; isto é, diferenças oriundas da revisão determinadas pela Ação Civil Pública nº 0011237-82.2003.403.6183, que tramitou no TRF/3ª Região e fora concluída em novembro de 2007. Pugna pela não incidência do art. 103 da Lei nº 8.213/1991.
+    O recurso deve ser provido, parcialmente. A Turma de origem declarou a decadência do direito do recorrente sob o fundamento de que “o prazo entre a inovação legislativa e o ajuizamento é superior ao previsto legalmente”. No entanto, a pretensão dos autos refere-se a pagamento de valores relativos à revisão determinada em Ação Civil Pública, circunstância que evidencia equívoco do acórdão recorrido.
+    Diante do exposto, com base no art. 932, V, c/c art. 1.042, § 5º, do CPC/2015 e no art. 21, § 2º, do RI/STF, dou parcial provimento ao recurso extraordinário, tão somente para determinar à Turma de origem que aprecie novamente o processo, manifestando-se acerca do pedido de pagamento de valores relativos à revisão determinada em Ação Civil Pública nº 0011237-82.2003.403.6183.
+    Publique-se.
+          Brasília, 14 de fevereiro de 2018.
+Ministro Luís Roberto Barroso
+Relator
