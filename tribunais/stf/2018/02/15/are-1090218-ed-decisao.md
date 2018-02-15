@@ -1,0 +1,12 @@
+Trata-se de embargos de declaração opostos contra decisão que negou provimento ao recurso extraordinário com agravo, sob o entendimento de que eventual ofensa à Constituição seria meramente reflexa.
+    A parte embargante sustenta, em suma, que a decisão recorrida é omissa, porquanto não examinou a alegada ofensa ao art. 232 da Constituição Federal.
+    Tem razão a parte recorrente. A decisão agravada, de fato, não se manifestou sobre a suscitada contrariedade, motivo porque passo a fazê-lo.
+    A pretensão recursal não merece acolhida.
+    Isso porque o dispositivo constitucional indicado como violado não foi prequestionado. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Nesse sentido, cito a ementa do ARE 900.962-AgR/BA, da relatoria do Min. Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. COBRANÇA DE COTAS CONDOMINIAIS INADIMPLIDAS. INSURGÊNCIA CONTRA O PERCENTUAL DOS JUROS MORATÓRIOS APLICADOS. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. ALEGAÇÃO TARDIA. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO”.
+    “EMENTA: PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FALTA DE PREQUESTIONAMENTO DO DISPOSITIVO CONSTITUCIONAL SUPOSTAMENTE VIOLADO. SÚMULA 282 DO STF. HABEAS CORPUS. COMPETÊNCIA TAXATIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. CONCESSÃO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - Falta de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. II - A alegação tardia de ofensa ao texto constitucional, formulada somente em embargos de declaração, não supre a exigência de prequestionamento. III - A competência desta Corte, taxativamente fixada no art. 102 da Constituição Federal, não permite conhecer de habeas corpus que tenha como autoridade coatora juiz de primeiro grau de jurisdição ou de Tribunal de Justiça. Ademais, não é possível a concessão do writ quando o exame do pedido demandar a apreciação do conjunto fático-probatório da causa. Precedentes. IV - Agravo regimental improvido” (AI 821.072-AgR/SP, de minha relatoria - grifei).
+    Isso posto, acolho os embargos de declaração, sem modificação do julgado, apenas para suprir a omissão apontada.
+     Publique-se.
+    Brasília, 15 de fevereiro de 2018.
+Ministro Ricardo Lewandowski
+Relator
