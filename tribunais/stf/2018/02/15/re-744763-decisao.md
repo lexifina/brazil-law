@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. LEI MUNICIPAL QUE INSTITUI A COBRANÇA FRACIONADA EM ESTACIONAMENTOS PARTICULARES. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE DIREITO CIVIL. ART. 22, I, DA CRFB/88. PRECEDENTES. RECURSO PROVIDO.
+    Decisão: Trata-se de recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, verbis:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA PREVENTIVO. LEI MUNICIPAL QUE INSTITUI A COBRANÇA FRACIONADA EM ESTACIONAMENTOS PARTICULARES. ASSUNTO DE INTERESSE LOCAL. CONSTITUIÇÃO FEDERAL, ART. 30, INC. I. LEI MUNICIPAL QUE NÃO RESTRINGE O DIREITO DE PROPRIEDADE MAS REGULAMENTA O FUNCIONAMENTO DE ESTACIONAMENTO, ATENDIDAS AS PECULIARIDADES LOCAIS E O DIREITO DO CONSUMIDOR. VIOLAÇÃO AOS PRINCÍPIOS DA ORDEM ECONÔMICA. INOCORRÊNCIA. CONSTITUIÇÃO FEDERAL. ART. 170, CAPUT. ORDEM DENEGADA. SENTENÇA MANTIDA. RECURSO DESPROVIDO.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação ao disposto nos artigos 5º, XXII, 22, I, e 170, II, da Constituição Federal.
+    O Tribunal de origem admitiu o recurso extraordinário.
+    É o relatório. DECIDO.
+    O recurso merece provimento.
+    O acórdão recorrido divergiu da jurisprudência firmada pelo Plenário desta Corte, no julgamento da ADI 1.623, Rel. Min. Joaquim Barbosa DJe de 15/4/2011, segundo a qual compete à União, privativamente, legislar sobre direito civil. O julgado restou assim ementado, verbis:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL. ESTACIONAMENTO EM LOCAIS PRIVADOS. COBRANÇA. IMPOSSIBILIDADE. OFENSA AO ART. 22, I DA CONSTITUIÇÃO.
+    Esta Corte, em diversas ocasiões, firmou entendimento no sentido de que invade a competência da União para legislar sobre direito civil (art. 22, I da CF/88) a norma estadual que veda a cobrança de qualquer quantia ao usuário pela utilização de estabelecimento em local privado (ADI 1.918, rel. min. Maurício Corrêa; ADI 2.448, rel. Min. Sydney Sanches; ADI 1.472, rel. Min. Ilmar Galvão).
+    Ação direta de inconstitucionalidade julgada procedente.”
+    Destaco, ainda, que esse entendimento vem sendo aplicado pelo Supremo no julgamento de casos análogos a este, conforme se pode destacar dos seguintes julgados de ambas as Turmas desta Corte, in verbis:
+    “COMPETÊNCIA PRIVATIVA DA UNIÃO – DIREITO CIVIL – ESTACIONAMENTO – SHOPPING CENTER – HIPERMERCADOS – GRATUIDADE – LEI Nº 4.541/2005, DO ESTADO DO RIO DE JANEIRO – PRECEDENTES. Invade competência legislativa da União, prevista no artigo 22, inciso I, da Carta da República, norma estadual que veda a cobrança por serviço de estacionamento em locais privados. Precedentes: Ações Diretas de Inconstitucionalidade nº 1.472/DF, relator ministro Ilmar Galvão, nº 2.448/DF, relator ministro Sydney Sanches, e nº 1.623/RJ, relator ministro Joaquim Barbosa.” (AI 730.856-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 9/6/2014)
+    “REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL. COMPETÊNCIA LEGISLATIVA. LEI ESTADUAL 4.049/2002. ESTACIONAMENTOS PÚBLICOS E PRIVADOS. GRATUIDADE AOS PORTADORES DE DEFICIÊNCIA E AOS MAIORES DE SESSENTA E CINCO ANOS. VIOLAÇÃO AO ART. 22, I, DA CONSTITUIÇÃO. INCONSTITUCIONALIDADE FORMAL. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE DIREITO CIVIL. AGRAVO IMPROVIDO. I – A Lei estadual 4.049/2002, ao prever a gratuidade de todos os estacionamentos situados no Estado do Rio de Janeiro aos portadores de deficiência e aos maiores de sessenta e cinco anos, proprietários de automóveis, violou o art. 22, I, da Constituição Federal. Verifica-se, no caso, a inconstitucionalidade formal da mencionada lei, pois a competência para legislar sobre direito civil é privativa da União. Precedentes. II – Agravo regimental improvido.” (AI 742.679-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 11/10/2011
+    Ex positis, PROVEJO o recurso extraordinário, com fundamento no disposto no artigo 557, § 1º-A, do CPC/1973.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
