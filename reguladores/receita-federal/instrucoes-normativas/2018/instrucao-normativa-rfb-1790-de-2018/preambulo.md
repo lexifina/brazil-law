@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1790, de 9 de fevereiro de 2018
+Dispõe sobre a aplicação de procedimentos simplificados ao despacho aduaneiro de bens, equipamentos e componentes aeronáuticos destinados a conserto, reparo, revisão e manutenção de aeronaves.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 51 e 52 do Decreto-Lei nº 37, de 18 de novembro de 1966, e nos arts. 381, 448, 578, 579, 580, 581 e 595 do Decreto nº 6.759, de 5 de fevereiro de 2009 - Regulamento Aduaneiro, resolve:
