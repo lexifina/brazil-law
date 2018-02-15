@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1789, de 9 de fevereiro de 2018
+Altera a Instrução Normativa RFB nº 1.600, de 14 de dezembro de 2015, que dispõe sobre a aplicação dos regimes aduaneiros especiais de admissão temporária e de exportação temporária.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 51 e 52 do Decreto-Lei nº 37, de 18 de novembro de 1966, e nos arts. 381 e 448 do Decreto nº 6.759, de 5 de fevereiro de 2009 - Regulamento Aduaneiro, resolve:
