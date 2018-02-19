@@ -1,0 +1,28 @@
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. ALEGADA OMISSÃO NA DECISÃO EMBARGADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    Decisão: Trata-se de embargos de declaração opostos pelo MUNICÍPIO DE MOGI GUAÇU/SP em face de decisão assim ementada, in verbis:
+    “RECLAMAÇÃO. SERVIDOR PÚBLICO MUNICIPAL. REAJUSTE DE SALÁRIO. ALEGAÇÃO DE AFRONTA AO ENUNCIADO DA SÚMULA VINCULANTE Nº 37. AUSÊNCIA DE ESGOTAMENTO DAS VIAS ORDINÁRIAS. INVIABILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO OU DE OUTRAS AÇÕES CABÍVEIS. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.”
+    Em sua petição, o embargante justifica sua insurgência no fato de que “[...] Ao interpor a presente Reclamação, em 30 de maio de 2017, arguiu às fls. 2 (item II) que o Ministro Ricardo Lewandowski encontrava-se prevento para conhecer da presente, já que anteriormente havia sido proposta Ação semelhante a esta (Reclamação Constitucional n. 26771).
+    No entanto, de acordo com as razões do embargante, o decisum vergastado laborou em flagrante omissão, uma vez que esta Suprema Corte, “ao receber a Ação procedeu a sua distribuição de forma livre, vindo a ser nomeado como Relator o DD. Ministro Luiz Fux que nada mencionou a respeito da prevenção arguida relativamente ao Ministro Ricardo Lewandowski (...)”.
+    Dessa forma, sustenta que nada consta na decisão a respeito da preliminar de prevenção apontada na petição inicial, o que comprova a omissão, justificando a interposição dos embargos de declaração para esclarecer tal ponto.
+    Requer, ao final, o provimento dos embargos para que seja sanada a omissão apontada, no caso, a análise do pedido de prevenção do Ministro Ricardo Lewandowski para conhecer da reclamação.
+    É o relatório. Decido.
+    Ab initio, pontuo que os embargos de declaração opostos contra decisão do relator serão decididos monocraticamente, nos termos do artigo 1.024, § 2º, do CPC/2015, que dispõe que “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente”.
+    Com efeito, os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição ou omissão e para corrigir erro material, consoante dispõe o artigo 1.022 do CPC/2015.
+    In casu, não vislumbro qualquer vício a ser sanado, uma vez que o argumento principal apresentado pelo reclamante foi devidamente apreciado na decisão impugnada.
+    Extrai-se da decisão de minha relatoria, in verbis:
+    “(...)
+    Em preliminar, requer a distribuição desta reclamação, por dependência, ao Ministro Ricardo Lewandowski, tendo em vista sua relatoria na Reclamação 26.771, a qual versa sobre a mesma matéria e ostenta identidade de partes.
+    (…)
+    Ab initio, destaco que os autos não foram remetidos à Presidência desta Corte para analisar a alegação de prevenção do Ministro Ricardo Lewandowski, fundada em decisão anterior proferida em reclamação, uma vez que na espécie vertente não se revela situação jurídica ensejadora da prevenção suscitada.
+    Embora a controvérsia jurídica aqui explicitada coincida com aquela retratada nos autos da Reclamação 26.771, não há justificativa legal ou regimental que justifique a prevenção suscitada. A preliminar, na forma como requerida, transformaria o relator daquela reclamação em juízo universal de todas as reclamações nas quais o Município de Mogi Guaçu figurasse como parte processual e apontasse afronta ao enunciado da Súmula Vinculante 37/STF. Essa consequência indesejável foi repelida pela regra estampada no § 1º do art. 70 do Regimento Interno do Supremo Tribunal Federal.
+    Ademais, em recente decisão, o Ministro Roberto Barroso, rechaçou pedido semelhante em processo no qual figura como parte o ora embargante, nos seguintes termos: [...] A simples identidade da questão de fundo entre este e aquele feito não constitui nenhuma das hipóteses que torna prevendo o relator, nos termos do art. 69 e seguintes do RI/STF. (Rcl. 27.546 MC, Rel. Min. Roberto Barroso, DJe de 1º/8/2017).”
+    Dessa forma, não se constata nenhuma das hipóteses ensejadoras dos embargos de declaração, eis que a decisão impugnada apreciou devidamente a questão preliminar suscitada. Ademais, saliente-se que os restritos limites dos embargos de declaração não permitem, no caso sub examine, rejulgamento da causa, dada a inexistência de obscuridade, de contradição, de omissão ou de erro material no julgado, pelas razões acima delineadas. Nesse sentido:
+    embargos DECLARATÓRIOS - ACÓRDÃO - INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO. Uma vez voltados os embargos declaratórios ao simples rejulgamento de certa matéria, inexistindo, no acórdão proferido, qualquer dos vícios que os respaldam - omissão, contradição e obscuridade -, impõe-se o desprovimento. (RE 812.827-AgR-ED, Rel. Min. Marco Aurélio, Primeira Turma, DJ de 26/3/2015)
+    embargos DE DECLARAÇÃO - INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO - embargos DE DECLARAÇÃO rejeitados.
+    - Os embargos de declaração destinam-se, precipuamente, a desfazer obscuridades, a afastar contradições e a suprir omissões que eventualmente se registrem no acórdão proferido pelo Tribunal. A inocorrência dos pressupostos de embargabilidade, a que se refere o art. 535 do CPC, autoriza a rejeição dos embargos de declaração, por inadmissíveis. (ARE 835.081-AgR-ED, Rel. Min. Celso de Mello, Segunda Turma, DJ de 25/3/2015, grifos originais)
+    Ex positis, rejeito os embargos de declaração, nos termos do art. 1.024, § 2º, do CPC.
+     Publique-se. Int..
+     Brasília, 19 de fevereiro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
