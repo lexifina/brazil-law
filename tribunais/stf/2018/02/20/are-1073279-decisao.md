@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – SERVIDOR PÚBLICO – PRISÃO CAUTELAR – REDUÇÃO DOS VENCIMENTOS – IMPOSSIBILIDADE – PROVIMENTO PARCIAL EM AGRAVO PROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à parcial procedência do pedido de restabelecimento do pagamento dos vencimentos, suspensos em razão de prisão cautelar, ressalvado o desconto das verbas relativas à frequência ao serviço. No extraordinário cujo trânsito busca alcançar, o agravante aponta a violação dos artigos 5º, inciso LVII, e 37, inciso XV, da Constituição Federal. Afirma contrariados os princípios da presunção de inocência e da irredutibilidade de vencimentos.
+    2. O acórdão recorrido está em dissonância com a jurisprudência do Supremo. Confiram com as seguintes ementas:
+    SERVIDOR PÚBLICO PRESO PREVENTIVAMENTE. DESCONTOS NOS PROVENTOS. ILEGALIDADE. PRECEDENTES. 1. A jurisprudência da Corte fixou entendimento no sentido de que o fato de o servidor público estar preso preventivamente não legitima a Administração a proceder a descontos em seus proventos. 2. Agravo regimental não provido. (agravo regimental no recurso extraordinário com agravo 705.174, relatado na Primeira Turma pelo ministro Dias Toffoli, acórdão publicado no Diário da Justiça de 23 de outubro de 2013)
+    RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – POLICIAL CIVIL – PRISÃO CAUTELAR – REDUÇÃO DOS VENCIMENTOS – IMPOSSIBILIDADE – VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS (CF, ART. 5º, INCISO LVII, E ART. 37, INCISO XV) – RECURSO IMPROVIDO. (agravo regimental no recurso extraordinário com agravo 715.658/PR, relatados na Segunda Turma pelo ministro Celso de Mello, acórdão publicado no Diário da Justiça de 5 de setembro de 2013).
+    3. Conheço e provejo este agravo, assentando o enquadramento do extraordinário no permissivo da alínea a do inciso III do artigo 102 da Constituição Federal. Conheço do extraordinário e o provejo em parte para, reformando o acórdão recorrido, determinar o retorno do processo ao Colegiado de origem, a fim de que julgue o pedido na forma dos precedentes indicados.
+    4. Publiquem.
+Brasília, 20 de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
