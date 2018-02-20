@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PODER DE POLÍCIA. FARMÁCIA DE MANIPULAÇÃO. PROIBIÇÃO DE INTERMEDIAÇÃO E CAPTAÇÃO DE RECEITAS AINDA QUE EM FILIAIS DA MESMA EMPRESA OU ENTRE EMPRESAS DIFERENTES. LEI FEDERAL 11.951/2009 QUE CONFERIU NOVA REDAÇÃO AO ARTIGO 36 DA LEI FEDERAL 5.991/1973. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. PRECEDENTES. RECURSO DESPROVIDO.
+    Decisão: Trata-se de recurso extraordinário, manejado com arrimo na alínea b do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO.MANDADO DE SEGURANÇA PREVENTIVO.LEGITIMIDADE PASSIVA DO DIRETOR DO DEPARTAMENTO DE VIGILÂNCIA SANITÁRIA DO ESTADO DO PARANÁ. FARMÁCIA DE MANIPULAÇÃO. IMINÊNCIA DE SER AUTUADA POR CAPTAÇÃO DE RECEITAS A PARTIR DE FILIAIS, PARA MANIPULAÇÃO EM LABORATÓRIO CENTRAL. VEDAÇÃO TRAZIDA NA RDC 67/2007-ANVISA E NA LEI FEDERAL Nº 11.951/09. INCONSTITUCIONALIDADE DA PROIBIÇÃO. OFENSA AO PRINCÍPIO CONSTITUCIONAL DA LIVRE INICIATIVA.INCONSTITUCIONALIDADE JÁ DECLARADA PELO ÓRGÃO ESPECIAL NOS AUTOS Nº 528.562-3/01. RESERVA DE PLENÁRIO RESPEITADA (ART. 97, CF). MANTIDA A PROIBIÇÃO DE CAPTAR RECEITAS DE OUTRAS DROGARIAS.RECURSO 1 NÃO PROVIDO.RECURSO 2 NÃO PROVIDO.RECURSO 3 NÃO PROVIDO.SENTENÇA MANTIDA EM REEXAME NECESSÁRIO.”
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega que o entendimento adotado pelo Tribunal de origem – que as disposições encartadas na Lei Federal 11.951/2009, ao darem nova redação ao artigo 36 da Lei 5.991/1973, que proíbem a intermediação de receitas, ainda que em filiais da mesma empresa, bem como a intermediação entre empresas, afronta os princípios da livre concorrência e livre iniciativa – viola os artigos 196, 197 e 200, I, II e VII, da Constituição da República.
+    O Tribunal a quo admitiu o recurso extraordinário por entender que os requisitos extrínsecos e intrínsecos estariam demonstrados.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Isso porque, in casu, o entendimento fixado no acórdão recorrido sobre a possibilidade de superação da vedação da intermediação de receitas em filiais da mesma farmácia de manipulação, bem como entre empresas diversas, decorreu da interpretação das normas infraconstitucionais aplicadas à espécie, notadamente as disposições encartadas na Leis Federais 5.991/1973 e 11.951/2009, insuscetíveis de análise em recurso extraordinário, por configurar ofensa indireta à Constituição Federal.
+    Nesse sentido, destacam-se as decisões monocráticas proferidas no julgamento do RE 1.037.788, Rel. Min. Dias Toffoli, DJe de 4/5/2017; RE 896.725, Rel. Min. Edson Fachin, DJe de 17/4/2017; e RE 845.453, Rel. Min. Ricardo Lewandowski, DJe de 29/3/2017, nos quais também se discutia a vedação da intermediação e captação de receitas para manipulação em farmácias.
+    Ex positis, DESPROVEJO o recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 20 de fevereiro de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
