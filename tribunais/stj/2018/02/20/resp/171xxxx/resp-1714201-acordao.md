@@ -1,0 +1,36 @@
+EMENTA
+EXECUÇÃO FISCAL. IPTU. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA DO POSSUIDOR (PROMITENTE COMPRADOR) E DO PROPRIETÁRIO (PROMITENTE VENDEDOR).
+1. O Tribunal de origem decidiu que o promitente vendedor não teria qualquer responsabilidade em relação ao IPTU incidente sobre o imóvel em questão. É o que se extrai do seguinte trecho do acórdão recorrido: "Compulsando os autos, verifica-se que a Fazenda Municipal requereu a inclusão dos promitentes compradores e cessionários do imóvel, entre eles, [NOME] que ofertou exceção de pré-executividade alegando ser parte ilegítima para figurar no polo passivo do executivo fiscal em razão de ter cedido os direitos do compromisso de compra e venda a Cooperativa do Areião, conforme averbação de 15/08/1994 (fls. 152). (..) Assim, o titulo de cessão dos direitos do compromisso de compra e venda devidamente registrado no Cartório de Registro de Imóveis, afasta a possibilidade de prosseguimento da execução fiscal em face do apelado [NOME]."
+2. No entanto, a Primeira Seção do Superior Tribunal de Justiça, ao julgar o REsp 1.111.202/SP, na sistemática do art. 543-C do CPC/73, firmou compreensão de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU (Tema 122 dos Recursos Repetitivos).
+3. Assim, por estar em desconformidade com a jurisprudência firmada sob o rito dos recursos repetitivos, merece reparos o acórdão recorrido.
+4. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CÍVEL - Execução fiscal  Exceção de pré- executividade - IPTU e Taxas do exercício de 2001. 1) Alegação de ilegitimidade passiva do excipiente  Cessão dos direitos do compromisso de compra e venda devidamente registrada no Cartório de Registro de Imóveis em 15/8/1994  Exclusão do compromissário vendedor do polo passivo da execução  Possibilidade. 2) Acolhimento da exceção de pré executividade com extinção da execução fiscal  Condenação do Município ao pagamento das verbas sucumbenciais e honorários advocaticios  Possibilidade  Precedentes desta 15 1 Câmara de Direito Público - Sentença mantida - Recurso não provido.
+Os Embargos de Declaração foram rejeitados às fls. 356-360, e-STJ.
+O recorrente, em suas razões, aponta violação dos arts. 32, 34 e 124 do CTN e 2º da Lei 6.830/1980. Sustenta (fl. 367, e-STJ):
+E dado ao Município deduzir a cobrança em relação a qualquer pessoa que consta do cadastro municipal, co-possuidores, visto que existe a solidariedade e compete ao credor exigir de qualquer dos devedores a cobrança integral da dívida.
+Dispõe o Código Tributário Nacional acerca da competência para a cobrança do imposto, daquele que é proprietário, o titular do domínio útil ou o possuidor do imóvel: (..)
+Sem contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.12.2017.
+O Tribunal de origem decidiu que o promitente vendedor não teria qualquer responsabilidade em relação ao IPTU incidente sobre o imóvel em questão. É o que se extrai do seguinte trecho do acórdão recorrido (fls. 342-343, e-STJ):
+Compulsando os autos, verifica-se que a Fazenda Municipal requereu a inclusão dos promitentes compradores e cessionários do imóvel, entre eles, [NOME] que ofertou exceção de pré-executividade alegando ser parte ilegítima para figurar no polo passivo do executivo fiscal em razão de ter cedido os direitos do compromisso de compra e venda a Cooperativa do Areião, conforme averbação de 15/08/1994 (fls. 152).
+Portanto, há que se verificar que a Municipalidade requereu a inclusão de pessoa que, à época do fato gerador do tributo , ja não possuía os atributos de proprietário ou possuidor do imóvel, nos termos do art. 34 do CTN.
+(..)
+Assim, o titulo de cessão dos direitos do compromisso de compra e venda devidamente registrado no Cartório de Registro de Imóveis, afasta a possibilidade de prosseguimento da execução fiscal em face do apelado [NOME].
+No entanto, a Primeira Seção do Superior Tribunal de Justiça, ao julgar o REsp 1.111.202/SP, na sistemática do art. 543-C do CPC/73, firmou compreensão de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU (Tema 122 dos Recursos Repetitivos).
+Confira-se a ementa do citado repetitivo:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA DO POSSUIDOR (PROMITENTE COMPRADOR) E DO PROPRIETÁRIO (PROMITENTE VENDEDOR).
+1. Segundo o art. 34 do CTN, consideram-se contribuintes do IPTU o proprietário do imóvel, o titular do seu domínio útil ou o seu possuidor a qualquer título.
+2. A jurisprudência desta Corte Superior é no sentido de que tanto o promitente comprador (possuidor a qualquer título) do imóvel quanto seu proprietário/promitente vendedor (aquele que tem a propriedade registrada no Registro de Imóveis) são contribuintes responsáveis pelo pagamento do IPTU. Precedentes: RESP n.º 979.970/SP, Rel. Min. Luiz Fux, Primeira Turma, DJ de 18.6.2008; AgRg no REsp 1022614 / SP, Rel. Min. Humberto Martins, Segunda Turma, DJ de 17.4.2008; REsp 712.998/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJ 8.2.2008 ; REsp 759.279/RJ, Rel. Min. João Otávio de Noronha, Segunda Turma, DJ de 11.9.2007; REsp 868.826/RJ, Rel. Min. Castro Meira, Segunda Turma, DJ 1º.8.2007; REsp 793073/RS, Rel. Min. Castro Meira, Segunda Turma, DJ 20.2.2006.
+3. "Ao legislador municipal cabe eleger o sujeito passivo do tributo, contemplando qualquer das situações previstas no CTN.
+Definindo a lei como contribuinte o proprietário, o titular do domínio útil, ou o possuidor a qualquer título, pode a autoridade administrativa optar por um ou por outro visando a facilitar o procedimento de arrecadação" (REsp 475.078/SP, Rel. Min. Teori Albino Zavascki, DJ 27.9.2004).
+4. Recurso especial provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.
+(REsp 1.111.202/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 10/06/2009, DJe 18/06/2009)
+Assim, por estar em desconformidade com a jurisprudência firmada sob o rito dos recursos repetitivos, merece reparos o acórdão recorrido.
+Ante o exposto, dou provimento ao Recurso Especial para reincluir o recorrido no polo passivo da execução fiscal, nos termos da fundamentação, invertidos os ônus sucumbenciais.
+É como voto.
