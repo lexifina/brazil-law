@@ -1,0 +1,77 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. PENSÃO POR MORTE. REVISÃO. SERVIDOR PÚBLICO. REENQUADRAMENTO. PRESCRIÇÃO DO FUNDO DO DIREITO. SÚMULA 85/STJ. NÃO OCORRÊNCIA.
+1. A jurisprudência do STJ firmou-se no sentido de que o ato administrativo de enquadramento ou reenquadramento é único de efeitos concretos e que, portanto, caracteriza a possibilidade de configuração da prescrição do fundo de direito se a promoção da ação que visa a atacar o citado ato for posterior ao prazo quinquenal do art. 1º do Decreto 20.910/1932. (EREsp 1422247/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 19.12.2016).
+2. A hipótese tratada na mencionada jurisprudência pressupõe a existência de um ato comissivo para consubstanciar a prescrição do fundo de direito, o que não se verifica no presente caso.
+3. Para as situações em que há omissão da Administração quanto ao enquadramento ou reenquadramento, a jurisprudência se posiciona no sentido de a prescrição ser de trato sucessivo, não atingindo o fundo de direito, conforme Súmula 85/STJ. A propósito: AgInt no AREsp 859.401/DF, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30.8.2016; AgRg no REsp 1.337.789/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 19.4.2016; e AgRg no AREsp 133.913/SP, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 18.3.2013.
+4. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Dr(a). RICARDO VICTOR PINHEIRO DE LUCENA, pela parte RECORRIDA: MARIA BARROS CAPUXÚ"
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+EMENTA: DIREITO CONSTITUCIONAL E ADMINISTRATIVO. REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. MÉDICO DO IPERN. CUMPRIMENTO DAS DISPOSIÇÕES PREVISTAS PELA LCE 232/2002. DETERMINAÇÃO DE VINCULAÇÃO JUNTO A SESAP. ATO OMISSIVO DO PODER PÚBLICO. INÉRCIA ADMINISTRATIVA EM PROCEDER AO REENQUADRAMENTO FUNCIONAL DE PENSÃO DE VIÚVA DE SERVIDOR. APELO E REMESSA CONHECIDOS E DESPROVIDOS.
+Os Embargos de Declaração foram desprovidos.
+A parte recorrente alega, em Recurso Especial:
+5. O ato de enquadramento em cargo público não é renovável periodicamente nem continuado. Trata-se de ato concreto, único, estanque. Por conseguinte/ qualquer pleito judicial que vise à sua revisão - e, "in casu", o instituidor do beneficio não foi enquadrado pela Administração Estadual, razão por que sua viúva (beneficiária da pensão) resolveu ajuizar ação - deve observar o limite temporal estabelecido no art. 1º do Dec. 20.910/32.
+A recorrida peticionou (fls. 271-377/e-STJ) para requerer a juntada de documentos.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Os autos foram recebidos neste Gabinete em 11.9.2017.
+A jurisprudência do STJ firmou-se no sentido de que o ato administrativo de enquadramento ou reenquadramento é único de efeitos concretos e que, portanto, caracteriza a possibilidade de configuração da prescrição do fundo de direito se a promoção da ação que visa a atacar o citado ato for posterior ao prazo quinquenal do art. 1º do Decreto 20.910/1932.
+A propósito:
+PROCESSO CIVIL. ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA. PRESCRIÇÃO. SERVIDOR PÚBLICO. SUDENE. TÉCNICO DE PLANEJAMENTO. PLANO DE CLASSIFICAÇÃO DE CARGOS. ANALISTA DE PLANEJAMENTO E ORÇAMENTO. FUNDO DO DIREITO. PROVIMENTO.
+1. Discute-se nos embargos de divergência o prazo prescricional para os servidores impugnarem o enquadramento realizado pelo Ministério de Planejamento, Orçamento e Gestão quando da extinção da SUDENE, por não terem sido incluídos no Plano de Classificação de Cargos instituído pela Lei n. 5.645/70, com a consequente transformação no cargo de Analista de Planejamento e Orçamento.
+2. É cediço que o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ. Precedentes.
+3. Na espécie, a lesão ao direito dos autores consumou-se a partir do momento em que os servidores, ao invés de passarem a integrar a carreira de Técnico de Planejamento, foram erroneamente enquadrados no cargo de Pesquisador. Assim, não se trata de uma mera omissão administrativa, mas um equívoco no enquadramento promovido a partir da regulamentação da Lei n. 5.645/70, devendo-se reconhecer a prescrição do fundo de direito.
+4. Embargos de divergência a que se dá provimento.
+(EREsp 1422247/PE, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 28/09/2016, DJe 19/12/2016).
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2 DO STJ. SERVIDOR PÚBLICO FEDERAL. SUDENE. LEI N. 5.645/1970. REENQUADRAMENTO. ATO CONCRETO. PRESCRIÇÃO DO FUNDO DE DIREITO. INAPLICABILIDADE DA SÚM. N. 85 DO STJ. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+1. "É cediço que o enquadramento ou o reenquadramento de servidor público é ato único de efeitos concretos, o qual não reflete uma relação de trato sucessivo. Nesses casos, a pretensão envolve o reconhecimento de uma nova situação jurídica fundamental, e não os simples consectários de uma posição jurídica já definida. A prescrição, portanto, atinge o próprio fundo de direito, sendo inaplicável o disposto na Súmula 85/STJ" (EREsp 1422247/PE, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 28/09/2016, DJe 19/12/2016).
+2. Embargos de divergência providos.
+(EREsp 1449539/PE, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 23/08/2017, DJe 21/09/2017)
+A hipótese dos autos foi assim delineada pelo Tribunal de origem (fls. 200-201, e-STJ):
+Compulsando os autos, constata-se que com o advento da Lei nº 232/2002, restou estabelecido que o servidores da saúde seriam redistribuídos para SESAP.
+Ocorre que o falecido esposo da autora-pensionista não fora contemplado com referida determinação, imposta no artigo 3o, inciso I, da Lei nº 223/2002.
+Analisando detidamente o disposto na Lei Complementar nº 223/2002, constata-se que a mesma determinou a redistribuição dos servidores vinculados à prestação de serviços de proteção à saúde para a Secretaria da Saúde Pública- SESAP, o que não ocorreu com o falecido marido da autori.
+Abstrai-se, portanto, que não há um ato administrativo expresso sobre o enquadramento almejado, estando claramente caracterizado um ato omissivo da Administração.
+A hipótese tratada na jurisprudência antes colacionada indica a existência de um ato comissivo para consubstanciar a prescrição do fundo de direito, o que não se coaduna no presente caso.
+Para as situações em que há omissão da Administração, a jurisprudência se posiciona no sentido de a prescrição ser de trato sucessivo, não atingindo o fundo de direito. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. SERVIDOR PÚBLICO. REENQUADRAMENTO. PRESCRIÇÃO DO FUNDO DO DIREITO. INAPLICABILIDADE DA SÚMULA 85/STJ. HONORÁRIOS ADVOCATÍCIOS. BACEN. VERBA QUE INTEGRA O PATRIMÔNIO DA AUTARQUIA.
+1. Inexiste violação do art. 535 do CPC/73 quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Nos termos da jurisprudência desta Corte, nas discussões de recebimento de vantagens pecuniárias em que não houve negativa inequívoca do próprio direito reclamado, tem-se relação de trato sucessivo, aplicando-se a Súmula 85/STJ, que prevê a prescrição apenas em relação ao período anterior aos cinco anos da propositura da ação.
+3. Nas hipóteses de enquadramento e reenquadramento, a jurisprudência desta Corte firmou-se no sentido de que, transcorrido o prazo quinquenal entre a pretendida revisão de enquadramento funcional de servidor e a propositura da ação, a prescrição atinge igualmente o fundo de direito como as prestações decorrentes do enquadramento devido.
+4. A situação dos autos não espelha a exceção a tal regra, qual seja, quando o enquadramento ex officio por determinação legal não foi corretamente efetuado por omissão da própria Administração, cabendo, outrossim, a aplicação da Súmula 85 do STJ.
+5. Nos termos do art. 4º da Lei 9.527/97, a titularidade dos honorários advocatícios de sucumbência, quando vencedora a Administração Pública direta da União, dos Estados, do Distrito Federal e dos Municípios ou as autarquias, as fundações instituídas pelo Poder Público, ou as empresas públicas, ou as sociedades de economia mista, não constitui direito autônomo do procurador judicial, porque integra o patrimônio público da entidade.
+Agravo interno improvido.
+(AgInt no AREsp 859.401/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2016, DJe 30/08/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ADMINISTRATIVO. SERVIDORES PÚBLICOS. APOSENTADOS E PENSIONISTAS. EMENDA CONSTITUCIONAL Nº 41. PLANO DE CARREIRA DO IBAMA. REENQUADRAMENTO. PRESCRIÇÃO. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA. INCIDÊNCIA DA SÚMULA N. 83/STJ. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual ausente a negativa do próprio direito reclamado, não se opera a prescrição de fundo de direito nos casos em que se objetivem a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República, porquanto decorre de ato omissivo da Administração Pública, prescrevendo, tão somente, as parcelas vencidas a mais de cinco anos da propositura da ação, nos termos da Súmula n. 85/STJ.
+III - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+IV - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+V - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VI - Agravo Regimental improvido.
+(AgRg no REsp 1337789/SC, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/04/2016, DJe 19/04/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REENQUADRAMENTO. LEIS 5.645/70 E 6.550/78. DOZE REFERÊNCIAS. PRESCRIÇÃO. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. INCIDÊNCIA DA SÚMULA 85/STJ. PRECEDENTES.
+1. O Superior Tribunal de Justiça tem se manifestado, reiteradamente, no sentido de que, na hipótese de insurgência contra ato omissivo consubstanciado na ausência de inclusão dos autores no Plano de Classificação de Cargos da União instituído pela Lei n.º 5.645/70, não há falar em ocorrência de prescrição do fundo de direito, e sim de trato sucessivo. Precedentes: REsp 1235984/PB, Rel. Min. Mauro Campbell Marques, Segunda Turma DJe 29/03/2011; AgRg no Ag 1230524/SP, Rel. Min. Jorge Mussi, Quinta Turma, DJe 14/03/2011; AgRg no REsp 1189953/RJ, Rel. Min. Hamilton Carvalhido, Primeira Turma, DJe 03/11/2010.
+2. Agravo regimental improvido.
+(AgRg no REsp 1246801/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/05/2011, DJe 27/05/2011).
+ADMINISTRATIVO. DIFERENÇA DE VENCIMENTOS. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO.
+Espécie em que há relação de trato sucessivo, porquanto a ação visa ao recebimento dos valores devidos em função de reenquadramento promovido pelo Município de Santos (STJ, Súmula nº 85).
+Agravo regimental desprovido."
+(AgRg no AREsp 133.913/SP, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, DJe 18/03/2013).
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO DO MUNICÍPIO DE SANTOS. PLANO DE CARGOS E SALÁRIOS MUNICIPAL (LEIS COMPLEMENTARES Nos 162/95 E 214/96). REENQUADRAMENTO SALARIAL RESULTANTE DE AVALIAÇÃO DE DESEMPENHO. [NOME]. PRESCRIÇÃO DO FUNDO DO DIREITO. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Este Tribunal Superior firmou o entendimento de que, nas ações em que servidor público do Município de Santos busca o pagamento de diferenças de vencimentos referentes a reenquadramento funcional, ocasionado por avaliação de desempenho prevista no Plano de Cargos e Salários (Leis Complementares Municipais nos 162/95 e 214/96), há a configuração de relação de trato sucessivo, nos termos da Súmula nº 85 do STJ, a afastar a prescrição do fundo de direito.
+2. Agravo regimental a que se nega provimento."
+(AgRg no Ag 1155.374/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 12/12/2012).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PLANO DE CARGOS E SALÁRIOS MUNICIPAL. PRESCRIÇÃO DO FUNDO DO DIREITO. NÃO OCORRÊNCIA. MANIFESTAÇÃO DA CORTE DE ORIGEM ACERCA DA RELAÇÃO DE TRATO SUCESSIVO ENTRE AS PARTES. SÚMULA 85/STJ. ART. 1º-F DA MP 2.180-35/2001. SÚMULA 211/STJ.
+1. Agravo regimental do Município de Santos no qual sustenta: (i) a ocorrência da prescrição do fundo de direito; e (ii) o prequestionamento da matéria.
+2. "De acordo com entendimento desta Corte Superior de Justiça, nas ações em que os servidores públicos municipais pleiteiam diferenças de vencimentos referentes ao reenquadramento nos termos da Lei Municipal nº 162/95, ante a opção pelo Plano de Cargos e Salários, há relação de trato sucessivo, que determina a aplicação do disposto na Súmula 85/STJ (AgRg no Ag 1277047/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 08/06/2011)".
+(..)
+4. Agravo regimental não provido." (AgRg no Ag 1.327.926/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 09/04/2012).
+Alicerçado o que previsto na Súmula Administrativa 7/STJ, condeno os recorrentes sucumbentes ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor da verba sucumbencial fixada na origem, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Ante o exposto, nego provimento ao Recurso Especial e condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem.
+É como voto.
