@@ -1,0 +1,16 @@
+Decisão: Trata-se de embargos de declaração opostos contra decisão que negou seguimento à reclamação, em razão da sua utilização como sucedâneo recursal. (eDOC 7)
+    Em suas razões, a parte embargante sustenta erro material na decisão embargada, tendo em vista a citação de parte não integrante da lide, a saber, o Tribunal de Justiça do Distrito Federal e dos Territórios (eDOC 8)
+    É o breve relatório.
+    Decido.
+    Os embargos de declaração são cabíveis para sanar a ocorrência de omissão, contradição, obscuridade ou erro material da decisão embargada (art. 1.022 do NCPC).
+    No presente caso, verifica-se erro material no tocante a alusão, no trecho inicial da fundamentação da decisão embargada, ao Tribunal de Justiça do Distrito Federal e dos Territórios em vez do Juiz Presidente da Terceira Turma Recursal dos Juizados Especiais Cíveis, Criminais e da Fazenda Pública do Estado do Rio Grande do Norte, verdadeiro juízo reclamado. Ressalto que, entretanto, essa indicação está corretamente registrada no início do relatório da referida decisão.
+    Nesses contexto, saliento que os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, não vislumbradas no presente caso. Com efeito, a correção do erro ora indicado não é capaz de conferir efeitos infringentes à decisão impugnada, uma vez que não terá o condão de alterar a sua fundamentação.
+    Nesses termos, reitero o consignado na decisão embargada, no sentido de que a parte pretende, em verdade, a revisitação da tese firmada por este Tribunal em recurso afetado pela sistemática da repercussão geral, utilizando a reclamação como sucedâneo recursal, o que é inadmissível, nos termos da jurisprudência desta Corte.
+    Nesse sentido, confira-se o seguinte julgado:
+    “Agravo regimental na reclamação. Negativa de seguimento de recurso extraordinário pelo tribunal de origem com fundamento no art. 543-B do CPC/73. Reclamação constitucional. Sucedâneo recursal. Ausência de teratologia. Ação manifestamente infundada. Multa por litigância de má-fé. Agravo regimental não provido. 1. Ausente a demonstração de teratologia da decisão da Corte de origem em que ela aplica entendimento do STF firmado de acordo com a sistemática da repercussão geral, não se admite o uso da reclamação constitucional. 2. A provocação da competência originária do STF em sede reclamatória com paradigma em tese de repercussão geral de forma infundada constitui ato atentatório à dignidade da Justiça, porquanto revela a finalidade da parte de se furtar a se submeter à sistemática introduzida com o objetivo de conferir maior efetividade à atuação do STF como Corte Constitucional, o que justifica a incidência do comando normativo inscrito no art. 80, I e VI, c/c art. 81, do CPC. 3. Agravo regimental não provido, com aplicação de multa”. (Rcl 26336 AgR, Rela. Min. DIAS TOFFOLI, Segunda Turma, DJe 15.5.2017)
+    Ante o exposto, acolho os embargos de declaração unicamente para sanar a contradição no julgado embargado, no tocante à correta indicação do juízo reclamado, sem lhes atribuir efeitos infringentes.
+    Publique-se.
+    Brasília, 20 de fevereiro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
