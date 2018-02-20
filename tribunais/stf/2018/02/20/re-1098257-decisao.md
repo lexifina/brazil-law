@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – NEGATIVA DE SEGUIMENTO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à improcedência do pedido relativo ao adicional de fronteira, considerada a inexistência de regulamentação. No extraordinário, o recorrente alega a violação dos artigos 7º, inciso XXIII, e 39, § 2º, da Constituição Federal. Aponta a impossibilidade de supressão de direitos sociais. Insiste na existência do direito benefício pleiteado, afirmando a impossibilidade de ser prejudicado ante à omissão do Executivo em disciplinar o tema.
+    2. Colho do acórdão recorrido o seguinte trecho:
+    O adicional de penosidade está previsto no artigo 71 da Lei nº. 8.112/90, que dispõe:
+    Art. 71. O adicional de atividade penosa será devido aos servidores em exercício em zonas de fronteira ou em localidades cujas condições de vida o justifiquem, nos termos, condições e limites fixados em regulamento. - grifei
+    Da leitura do artigo depreende-se que a concessão do adicional de penosidade foi condicionada à edição de regulamento.
+    Portanto, o adicional em questão será devido quando e enquanto houver o reconhecimento de sua necessidade por regulamento (e não apenas para especificar as localidades que o ensejam).
+    No âmbito do Ministério Púbico da União, foi editada Portaria que regulamentou o pagamento do adicional de atividade penosa; porém, o mesmo não ocorreu na esfera do Poder Judiciário.
+    […]
+    A Administração Pública vincula-se ao princípio da legalidade, somente podendo fazer aquilo expressamente previsto em lei. E o Poder Judiciário, a seu turno, não possui função legislativa, não sendo possível estabelecer os requisitos para a concessão do referido adicional.
+    Ademais, peço vênia para adotar como razões de decidir os fundamentos do voto proferido pela Exma. Desembargadora Federal Vivian Josete Pantaleão Caminha no julgamento de caso semelhante (APELREEX 5000051-29.2014.404.7002/PR, Quarta Turma, juntado aos autos em 30/01/2015), in verbis:
+    […]
+    Desse modo, o adicional de atividade penosa, apesar de continuar sendo previsto no art. 71 da Lei nº 8.112/90, deixou de ser regulamentado e, por conseguinte, deixou de ser pago aos servidores públicos federais.
+    Disso decorre a conclusão de que, para ser plenamente eficaz e permitir o recebimento do adicional pelos servidores que atuam em faixa de fronteira, o art. 71 da Lei nº 8.112/90 deve ser regulamentado.
+    A decisão impugnada está em harmonia com a jurisprudência do Supremo. Confiram com as seguintes ementas:
+    DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ADICIONAL DE PENOSIDADE. ÁREA DE FRONTEIRA. EXISTÊNCIA DE REGULAMENTAÇÃO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. 1. O Supremo Tribunal Federal já decidiu que o adicional de penosidade para exercício de atividade em área de fronteira não se trata de direito subjetivo garantido pela Constituição aos servidores públicos e que, portanto, será devido nos termos da legislação infraconstitucional. Precedentes. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015. (agravo regimental no recurso extraordinário nº 966.691, relatado na 1ª Turma pelo ministro Roberto Barroso, acórdão publicado no Diário da Justiça de 17 de novembro de 2017).
+    Agravo regimental no recurso extraordinário com agravo. Administrativo. Servidor público. Adicional de penosidade em área de fronteira. Ausência de direito subjetivo. Súmula nº 339/STF. Orientação vigente. Súmula Vinculante nº 37. Precedentes. 1. O Plenário da Suprema Corte, ao examinar o MI nº 5.062/DF-AgR, Relator o Ministro Gilmar Mendes, concluiu que o servidor público que exerce suas funções em área de fronteira não tem direito constitucional subjetivo ao adicional de penosidade. 2. A orientação da Súmula nº 339/STF encontra-se plenamente vigente, tendo seu enunciado sido convertido na Súmula Vinculante nº 37, que assim dispõe: “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.” 3. Agravo regimental ao qual se dá provimento. (agravo regimental no recurso extraordinário com agravo nº 1.021.861, relatado na 2ª Turma pelo ministro Edson Fachin, acórdão publicado no Diário da Justiça de 23 de outubro de 2017).
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 20 de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
