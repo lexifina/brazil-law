@@ -1,0 +1,23 @@
+Trata-se de agravo regimental interposto de decisão que negou seguimento ao recurso extraordinário (art. 21, § 1°, do RISTF).
+    A parte agravante sustenta, em síntese, que demonstrou suficientemente, em preliminar, a repercussão geral da matéria tratada no recurso extraordinário.
+    Requer, assim, o provimento do agravo para que o recurso extraordinário seja conhecido e provido.
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico assistir razão à parte ora agravante.
+    Com efeito, a preliminar de repercussão geral descreve de forma satisfatória a questão jurídica debatida e fundamenta a sua transcendência para justificar o reconhecimento desse requisito constitucional. Desse modo, passo a examinar o recurso extraordinário com agravo.
+    Consta do voto condutor do acórdão recorrido:
+    “Sobrelevo que o direito à educação deve ser interpretado no sentido amplo da palavra, de modo a abranger não somente uma vaga garantida na escola, mas também o acesso ao estabelecimento de ensino, por meio do transporte escolar, quando houver necessidade.
+    É fato inconteste que os alunos da rede pública de ensino do Município de Itabaiana estão sem o devido e regular transporte escolar, por razões de ordem financeira, ou seja, por ausência de pagamento às empresas prestadoras dos serviços de transporte escolar, por parte da Administração Pública, não podendo os alunos serem penalizados por uma ingerência da gestão municipal ou estadual.
+    […]
+    Diante de tais considerações, conheço do recurso para lhe dar provimento, reformando a sentença, para afastar a preliminar de ilegitimidade ativa do Ministério Público, no tocante à obrigação de fazer, e para determinar que o Estado de Sergipe forneça o regular transporte escolar aos alunos da rede pública de ensino do Município de Itabaiana” (págs. 5 e 7 do documento eletrônico 7).
+    Esta Corte já se manifestou no sentido de que o Poder Judiciário pode, excepcionalmente, determinar a implementação de políticas públicas. Assim, é lícita a decisão judicial que, para efetivação do direito fundamental à educação, impõe ao ente estatal o transporte gratuito de estudantes (art. 208, VII, da CF), sem que isso configure ofensa ao princípio da separação dos Poderes. Nessa esteira, menciono precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Transporte gratuito. Direito à educação. 3. Omissão. Imposição de obrigação de fazer à Administração Pública. 4. Ausência de argumentos suficientes a infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento” (RE 545.882-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    “Agravo regimental no recurso extraordinário com agravo. Constitucional. Poder Judiciário. Determinação para implementação de políticas públicas. Melhoria da qualidade do ensino público. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. Precedentes. 1. O Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais sem que isso configure violação do princípio da separação de poderes. 2. Agravo regimental não provido” (ARE 635.679-AgR/GO, Rel. Min. Dias Toffoli, Primeira Turma).
+    É forçoso, portanto, concluir que o acórdão ora combatido não se afastou do entendimento fixado por esta Corte.
+    Por fim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, qual seja, a insuficiência orçamentária do ente estatal, seria necessário o reexame do conjunto fático-probatório pertinente ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito o ARE 896.076-AgR/SC, de relatoria do Min. Luiz Fux:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. TRANSPORTE ESCOLAR DE ALUNOS MATRICULADOS NOS ENSINOS FUNDAMENTAL E MÉDIO DA REDE PÚBLICA ESTADUAL. LIMITES ORÇAMENTÁRIOS. AUSÊNCIA DE COMPROVAÇÃO. DIREITO FUNDAMENTAL INDISPONÍVEL. DEVER DO ESTADO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO”.
+    Cito, também, o ARE 988.395/SP, Rel. Min. Edson Fachin; ARE 886.710-AgR/SE, Rel. Min. Rosa Weber; ARE 891.418-AgR/MG, Rel. Min. Rosa Weber; RE 850.215-AgR/PB, Rel. Min. Cármen Lúcia; ARE 761.127-AgR/AP, Rel. Min. Roberto Barroso.
+    Isso posto, com base no art. 317, § 2°, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão agravada, tornando-a sem efeito, e, por fundamento diverso, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2018.
+Ministro Ricardo Lewandowski
+Relator
