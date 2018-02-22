@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “MANDADO DE SEGURANÇA. ADICIONAL POR TEMPO DE SERVIÇO (ATS). PRETENSÃO DE QUE SEJA CALCULADO A SOMA DO VENCIMENTO E VANTAGENS PERMANENTES. LEIS ESTADUAIS 2.271/94 e 2.875/2004. DIREITO ADQUIRIDO.
+    1) O art. 1º, da Lei Estadual 2.531/99 extinguiu o ATS de que tratava a Lei Estadual 2.271/94. O parágrafo único , do referido dispositivo determinou que o valor do ATS passaria a constituir uma vantagem individual nominalmente identificada, sujeita, exclusivamente à atualização decorrente de revisão geral. O art. 4º, da Lei Estadual 2.875/2004 determinou que o valor do ATS não sofreria qualquer reajuste em decorrência das parcelas pecuniárias fixadas por aquele diploma legal. A desvinculação do ATS e a sua sujeição apenas aos reajustes decorrentes de revisão geral têm lastro na jurisprudência do STF.
+    2) No entanto, a jurisprudência do TJAM tem compreendido que o critério jurídico sob o qual o ATS foi calculado não pode ser alterado. Por conseguinte, deve incidir sobre os vencimentos, ou seja, sobre a soma do vencimento mais vantagens permanentes, ex vi do art. 210, da Lei Estadual 2.271/1994. Precedentes: [...]” (pág. 1 do documento eletrônico 4).
+    No RE fundado no art. 102, III, a , da Constituição Federal, alegou-se, em suma, violação ao art. 37, XIV, da mesma Carta.
+    A pretensão recursal merece prosperar.
+    Verifica-se que o tribunal de origem entendeu que a base de cálculo do Adicional por Tempo de Serviço (ATS) deve ser o vencimento do servidor mais as vantagens permanentes e não apenas sobre o vencimento.
+    Essa decisão encontra-se em divergência com o decidido por esta Corte no julgamento do RE 563.708/MG, com repercussão geral reconhecida, Relatora a Ministra Cármen Lúcia, no qual concluiu-se que: a) a Emenda Constitucional 19, de 1998, na parte que alterou o inciso XIV, do art. 37, da CF, tem aplicabilidade imediata e, portanto, as leis que previam como base de cálculo do ATS o total da remuneração não foram recepcionadas pelo texto constitucional; b) não há direito adquirido a regime jurídico, nos moldes do RE 563.965/RN; c) deve ser garantida, no entanto, em qualquer caso, a irredutibilidade dos vencimentos. Referida decisão recebeu a seguinte ementa:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE DIREITO ADQUIRIDO À REGIME JURÍDICO. BASE DE CÁLCULO DE VANTAGENS PESSOAIS. EFEITO CASCATA: PROIBIÇÃO CONSTITUCIONAL. PRECEDENTES. IMPOSSIBILIDADE DE REDUÇÃO DOS VENCIMENTOS. PRINCÍPIO DA IRREDUTIBILIDADE DOS VENCIMENTOS. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO.”
+    Isso posto, dou provimento ao recurso para determinar o retorno dos autos ao tribunal a quo a fim de que seja observada a jurisprudência deste Tribunal (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2018.
+Ministro Ricardo Lewandowski
+Relator
