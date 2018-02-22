@@ -1,0 +1,21 @@
+Vistos etc.
+    Cuida-se de petição apresentada pelo Estado de São Paulo (evento 86) na presente ação cível originária movida em face da União, pela qual alega descumprimento, pela ré, da tutela antecipada que determinou a suspensão “da inscrição negativa no Cauc/Siafi da Secretaria do Emprego e da Relações do Trabalho do Estado de São Paulo (CNPJ 46.385.100/0001-84) decorrente do Convênio MTE/SPPE/CODEFAT n°. 048/2004“ (evento 11).
+    Informa que tal apontamento foi realizado pela ré no SIAFI sob nº 505475.
+    Pede seja a ré novamente intimada para cessar o descumprimento da decisão judicial sob pena de multa diária nos termos dos arts. 139, IV e 536, § 1º, do CPC.
+    Apresentado o pedido no dia 10.1.2019, foi despachado em plantão judiciário pelo Presidente desta Corte Suprema com determinação de remessa do feito para minha apreciação do pleito após o plantão (evento 91).
+    No dia 1º.2.2019 determinei a intimação da ré para se manifestar em 5 (cinco) dias (evento 92).
+    Torna aos autos o autor reiterando o pedido anterior, alegando risco de graves consequências caso mantida a inscrição, especialmente a “inviabilização dos desembolsos de operações de crédito a serem realizados pelo Estado, bem como a contratação de novas operações, podendo gerar um impacto financeiro para o Estado na ordem de R$8.128,06 bilhões” e o “obstáculo ao recebimento de valores relativos às Transferências Voluntárias (convênios), na ordem de R$ 2.701,1 bilhões, receitas que já estão previstas Lei Orçamentária Anual de 2019“ (evento 93).
+    Dentre tais consequências, destaca o eventual prejuízo na “operação de crédito a ser realizada com a Corporação Andina de Fomento, no valor de 296 milhões de dólares (apontada na nota técnica em anexo, no valor de 964,66 milhões de reais), que deve ocorrer até 28/02/2019, com prazo de 15 anos e com aplicação destinada para a linha 17 do METRÔ (monotrilho)”.
+    Conquanto eletronicamente disponibilizada a intimação da ré desde o dia 06.2.2018 (evento 96), esta ainda não se manifestou.
+    É o relato do necessário. Passo a decidir.
+    O documento juntado pelo autor (evento 87) demonstra, numa análise prefacial, a sua inclusão no SIAF em data de 1º.12.2018, justamente por intermédio da Secretaria do Emprego e Relações do Trabalho, com referência ao convênio ali nominado por “505475”.
+    De outro documento também juntado pelo autor (evento 88), embora se trate de volumosa cópia de processo administrativo de convênio realizado entre o Ministério do Trabalho e Emprego – MTE e o Estado do Maranhão, sob nº 042/2004, possível deduzir, também em análise preliminar, a referência a convênios realizados com outros Estados, dentre eles o Estado de São Paulo. Verificam-se, no referido documento, diversos apontamentos referentes ao convênio nº MTE 048/2004, nº SIAFI 505475 (evento 88, pags. 190-200 e evento 89).
+    Possível inferir, de forma lógica, tratar-se o apontamento ora constante no SIAF sob nº 505475, como referente ao convênio nº MTE 048/2004, justamente aquele objeto destes autos, acobertado pela tutela antecipada concedida.
+    O prejuízo ao autor resta evidenciado, não só porque notórias as restrições de apontamento em cadastro de inadimplentes, como também pelo rol discriminado de operações trilionárias potencialmente afetadas (evento 94).
+    Por estes fundamentos, configurado o descumprimento de tutela antecipada deferida nestes autos e ainda vigente, bem como a urgência em razão dos iminentes e potencialmente graves danos ao autor, determino à ré que suspenda, no prazo máximo de 24 (vinte e quatro) horas, a inscrição do autor em seus cadastros de inadimplentes (SIAF/CAUC/CONCONV) caso ali se encontre o apontamento sob nº 505475, referente à Secretaria Estadual do Emprego e Relações do Trabalho do Estado de São Paulo, relativo ao convênio nº MTE nº 048/2004, sob pena de multa diária no valor de R$ 500.000,00 (quinhentos mil reais) nos termos dos arts. 139, IV e 536, § 1º, do CPC.
+    Comunique-se, com urgência o teor da presente decisão, cuja cópia deverá ser encaminhada à Advocacia-Geral da União, bem como intime-se com urgência pessoalmente o Sr. Secretário do Tesouro Nacional.
+    Publique-se. Intimem-se.
+    Após, voltem conclusos para prosseguimento.
+    Brasília, 22 de fevereiro de 2018.
+Ministra Rosa Weber
+Relatora
