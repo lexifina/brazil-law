@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Quarta Turma do Tribunal Regional Federal da 5º Região, assim ementado (eDOC 13, pp. 14-15):
+    “ADMINISTRATIVO. APELAÇÃO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. EX-PREFEITO E EX-SECRETÁRIA DE EDUCAÇÃO. COMPETÊNCIA DA JUSTIÇA FEDERAL. APLICAÇÃO DA LEI 8.429/92 AOS AGENTES POLÍTICOS. APLICAÇÃO IRREGULAR, EM MUNICÍPIO CEARENSE, DE VERBAS FEDERAIS DESTINADAS AO PROGRAMA DE EDUCAÇÃO DE JOVENS E ADULTOS - PEJA/FNDE. ATO DE IMPROBIDADE ADMINISTRATIVA CONFIGURADO. ART. 10 DA LEI 8.429/92. ELEMENTO SUBJETIVO E DANO AO ERÁRIO DEMONSTRADOS. DOSIMETRIA DAS SANÇÕES. RAZOABILIDADE E PROPORCIONALIDADE. NÃO PROVIMENTO.
+    1. Tratando-se de demanda que tem como objeto a apuração de ato de improbidade administrativa que envolve a aplicação irregular de recursos federais, sujeitos à fiscalização de entre público federal e ao controle do Tribunal de Contas da União, a competência da Justiça Federal para processar e julgar o presente feito é inconteste, à luz do disposto na Súmula 208 do STJ.
+    2. É firme a orientação jurisprudencial no sentido de que a Lei 8.429/92 é aplicável aos agentes políticos municipais, tais como prefeitos, ex-prefeitos e vereadores.
+    3. Conforme fiscalização realizada pela Controladoria Geral da União, os apelantes, demais de terem solicitados recursos federais muito superiores aos que efetivamente deveriam ter sido gastos pelo Município de Ibicuitinga/CE na execução do Programa de Educação de Jovens e Adultos PEJA/FNDE, aplicaram de forma irregular tais verbas públicas, porquanto adquiriram materiais escolares em quantidade muito excessiva em comparação ao número de alunos que se matricularam e concluíram, de fato, o referido programa.
+    4. A perda do cargo público é essencial para a punição de quem comete esse tipo de ato de improbidade administrativa, previsto no art. 10 da Lei 8.429/92, sendo a suspensão dos direitos políticos um consentâneo disso, como medida capaz de impossibilitar, pelo menos de imediato, o retorno do agente ímprobo ao manuseio da coisa pública ou à política.
+    5. Ademais, em relação ao "quantum" da multa, é de se ter em conta que, conforme determina o art. 12, II, da Lei n. 8.429/92, a multa civil pode ser fixada em até duas vezes o valor do dano. Ou seja, o Juízo singular, dentro do permissivo legal ora destacado, poderia ter cominado multa muito superior ao montante ora refutado. E, se assim não o fez, foi exatamente em homenagem e reforço aos princípios da proporcionalidade e razoabilidade ora destacados.
+    6. Apelação cujo provimento é negado. Vencido o em. Des. Federal relator quanto à dosimetria das sanções impostas na sentença recorrida.”
+    Não foram opostos embargos declaratórios.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 109, I, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, “que a Justiça Federal é absolutamente incompetente in ratione materie para julgar o feito em questão.” (eDOC 13, p. 103).
+     A Vice-Presidência do TRF 5ª Região inadmitiu o recurso mediante aplicação da Súmula 279 do STF (eDOC 13, p. 159).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou, nos termos do item 1. da ementa, tratar-se de “demanda que tem como objeto a apuração de ato de improbidade administrativa que envolve a aplicação irregular de recursos federais, sujeitos à fiscalização de entre público federal e ao controle do Tribunal de Contas da União”.
+     A jurisprudência desta Corte encontra-se pacificada no sentido de que o fato de a verba repassada ser proveniente de recurso federais sujeita à fiscalização do Tribunal de Contas da União é suficiente a demonstração do interesse da União e a atrair a competência da Justiça Federal para o caso.
+    Confiram-se, a propósito, os seguintes acórdãos:
+     “EMENTA Embargos de declaração no agravo regimental no recurso extraordinário. Efeitos infringentes. Processual. Malversação de verbas federais recebidas mediante convênio com a FUNASA. Artigo 109, inciso I, da CF. Presença do MPF em um dos polos. Competência da Justiça Federal. Recurso aclaratório acolhido com efeitos infringentes.
+    1. A circunstância de figurar o Ministério Público Federal como parte na lide não é suficiente para determinar a perpetuação da competência da Justiça Federal para o julgamento da ação.
+    2. O Supremo Tribunal Federal consolidou o entendimento de que a mera alegação de existência de interesse de um dos entes enumerados no art. 109, inciso I, da Constituição Federal não enseja o deslocamento da competência para a Justiça Federal.
+    3. A existência de competência da Justiça Federal será aferida por ela própria com base no caso concreto e supedâneo no rol ratione personae do art. 109, inciso I, da Constituição.
+    4. O fato de a verba repassada ser proveniente de recursos federais fiscalizáveis pelo TCU basta para afirmar a existência de interesse da União e a consequente competência da Justiça Federal para apreciar os autos. Precedentes da Suprema Corte.
+    5. Embargos de declaração acolhidos, com efeitos infringentes, para se anular o acórdão recorrido e se determinar novo julgamento pelo tribunal de origem.” (RE 669952 AgR-ED, Rel. Min. Dias Toffoli, Plenário, DJe 25.11.2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. IMPROBIDADE ADMINISTRATIVA. PREFEITO. REPASSE DE VERBA SUJEITA A PRESTAÇÃO DE CONTAS EM ÓRGÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL PARA DETERMINAR O INTERESSE DA UNIÃO: PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 767501 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 13.2.2015)
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
