@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 1, p. 347):
+    “AGRAVO. ARTIGO 557, § 1º DO CPC. ORDINÁRIA. SERVIÇOS. SERVENTIAS EXTRAJUDICIAIS. APOSENTADORIA. IPSEMG E ESTADO DE MINAS GERAIS. NÃO CABIMENTO. REQUISITOS. EMENDA À CONSTITUIÇÃO Nº 20, DE 1998. DEMONSTRAÇÃO. AUSÊNCIA. ENTENDIMENTO DO STF E DO TJMG. NEGATIVA DE SEGUIMENTO. MANUTENÇÃO.
+    Nos termos do artigo 557, caput, do CPC, o relator pode negar seguimento a recurso de apelação quando manifesto o confronto com entendimento do STF e do TJMG acerca da inviabilidade da aposentadoria pelo regime próprio àquele que presta serviços em serventias extrajudiciais, mas não preencheu os requisitos até a Emenda à Constituição nº 20, de 1998”.
+    Os embargos de declaração opostos foram rejeitados (eDOC 2, p. 31).
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV, LIV e LV; 93, IX; e 236, § 1º, da Constituição Federal.
+    Na fundamentação, a Recorrente sustenta, em suma, que, não tendo feito a opção do art. 48, § 2º, da Lei 8.935/1994, permaneceu no regime previdenciário de direito público, ao qual era vinculada antes do advento da EC 20/98, sendo-lhe devido o direito à aposentadoria pelo regime de previdência do Estado.
+    A Primeira Vice-Presidência do TJ/MG inadmitiu o recurso por entender que houve observância da jurisprudência do STF (E-DOC. 2, p. 97-100).
+    É o relatório. Decido.
+    Inicialmente, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional. (ARE-RG 748.371,da relatoria do Min. Gilmar Mendes, DJe 1º.08.2013, Tema 660 da sistemática da RG).
+    Outrossim, no tocante à alegada afronta ao art. 93, IX, da C.F., verifica-se que o acórdão recorrido inequivocamente prestou jurisdição e enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a Agravante.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.8.2010, o Plenário desta Corte assentou a repercussão geral do tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    No mérito, verifica-se que o Tribunal de origem assim asseverou (eDOC 1, p. 328):
+    “Por todo o exposto, para fazer jus ao benefício, necessário comprovar o preenchimento dos requisitos para a concessão da aposentadoria anteriormente à data da edição da Emenda à Constituição nº 20, de 1998. Após o advento dessa emenda, o segurado não poderá computar tempo de serviço posterior sem o implemento da idade mínima. Na linha, o Decreto estadual nº 45.172, de 2009, que regulamentou o artigo 3º da Lei Complementar estadual nº 64, 2002.
+    Assim, aqueles que não tinham completado os requisitos para a aposentadoria por tempo de serviço quando da entrada em vigor daquela emenda, passaram a ser regidos pelas novas regras, já que não decorridos mais de 30 (trinta) anos de exercício, como no caso dos autos”.
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo Tribunal a quo demandaria o exame da legislação local e o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Neste sentido:
+    “DIREITO ADMINISTRATIVO. FUNCIONÁRIO DE SERVENTIA EXTRAJUDICIAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PRETENSÃO DE ENQUADRAMENTO NO REGIME DOS SERVIDORES PÚBLICOS. DESCABIMENTO. 1. Hipótese em que a resolução da controvérsia demanda a análise de legislação infraconstitucional e o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), procedimentos inviáveis nesta fase recursal. Precedentes. 2. Agravo regimental a que se nega provimento.”
+(ARE 832534 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 25/08/2015, PROCESSO ELETRÔNICO DJe-184 DIVULG 16-09-2015 PUBLIC 17-09-2015)
+    Ante o exposto, nego provimento ao agravo, nos termos dos artigos 932, IV, a, do CPC e 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
