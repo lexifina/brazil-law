@@ -1,0 +1,12 @@
+Decisão:
+    Referente à Petição nº 38.290/2016: Trata-se de pedido de reconsideração formulado pela Fazenda Nacional.
+    A Fazenda Nacional sustenta que: (i) o recurso extraordinário ora sob exame restringe-se a questionar a suposta inconstitucionalidade do art. 3º, I, da Lei nº 8.200/1991; (ii) não há falar-se em provimento parcial do recurso extraordinário para estabelecer o índice de correção adequado. Pleiteia a retificação da decisão, de modo que reste consignado, tão somente, o sobrestamento relacionado ao Tema 298 da Repercussão Geral.
+    A pretensão encontra fundamento. Dessa forma, reconsidero a decisão monocrática anteriormente proferida. Passo à análise do recurso.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 148; 150, III, a e b; e 153, III, da Carta. Sustenta que: (i) a utilização de índice que não retrata a inflação real do período gera para a recorrente um aumento de sua carga tributária; (ii) a dedução postergada e efetuada em parcelas anuais equivale à criação de empréstimo compulsório, inconstitucional por não ter sido utilizado o instrumento legislativo próprio e não ter destinação como prevista na Carta Maior. Requer seja declarada a inconstitucionalidade do art. 3º, I, da Lei nº 8.200/91, bem como do art. 11, I, da Lei nº 8.682/93.
+    No que tange à inconstitucionalidade da art. 3° da Lei n° 8.200/1991, o recurso deve ser sobrestado. Isso porque o Plenário do Supremo Tribunal Federal, nos autos do RE 545.796-RG, de relatoria do Ministro Gilmar Mendes, reconheceu a repercussão geral da matéria em questão (Tema nº 298). Naquele recurso extraordinário se discute, à luz dos arts. 148 e 153, III, da Carta, a constitucionalidade, ou não, do diferimento promovido pela Lei nº 8.200/1991. Confira-se a ementa:
+    "Recurso extraordinário. Tributário. Correção Monetária. Demonstrações financeiras. Balanço patrimonial. Pessoas jurídicas. Compensação. Diferimento no tempo. Lei 8.200/91. Repercussão geral reconhecida”. (RE 545.796-RG, Rel. Min. Gilmar Mendes – Tema 298)
+    Diante do exposto, reconsidero a decisão anteriormente proferida e, com base no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 22 de fevereiro de 2018.
+Ministro Luís Roberto Barroso
+Relator
