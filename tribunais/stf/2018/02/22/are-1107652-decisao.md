@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE DIFERENÇAS SALARIAIS. EQUIPARAÇÃO DE CARGO. ISONOMIA SALARIAL. IMPROCEDÊNCIA DO PEDIDO. AUSÊNCIA DE PROVAS. 1. Sabido que a equiparação é a comparação de cargos de denominações e atribuições diversas, considerando-os iguais, par fins de lhes conferir os mesmos vencimentos. Para a pretendida equiparação salarial, mister a comprovação de identidade da natureza, grau de responsabilidade e a complexidades dos cargos componentes de cada carreira, além dos requisitos para a investidura e peculiaridades entre o cargo ocupado e o paradigma, conf. Art. 39 390, §1º, da Constituição Federal. 2 – Não tendo a parte autora comprovado tais requisitos, a improcedência do pedido é a medida que se impõe. RECURSO CONHECIDO E DESPROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, e 39, § 1º, da Constituição
+    A decisão agravada negou seguimento ao recurso por entender que incide, no caso, a Súmula 279/STF.
+    O recurso não deve ser admitido, tendo em vista que, para divergir do entendimento firmado pelo Tribunal de origem, seria necessário o reexame dos fatos e do material probatório constante dos autos, procedimento vedado neste momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279/STF. Nesse sentido, veja-se o RE 727.261-AgR, Rel. Min. Luiz Fux.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AÇÃO RESCISÓRIA. EQUIPARAÇÃO REMUNERATÓRIA ENTRE OCUPANTES DE CARGOS IDÊNTICOS. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF.
+    1. A equiparação remuneratória, quando sub judice a controvérsia sobre a identidade entre cargos ocupados por servidores públicos estaduais, implica a análise da legislação infraconstitucional local e reexame do conjunto fático-probatório.
+    2. A violação reflexa e oblíqua da Constituição Federal, configurada pela necessidade de análise de malferimento de dispositivo infraconstitucional local, torna inadmissível o recurso extraordinário, a teor do Enunciado da Súmula 280 do Supremo Tribunal Federal, verbis: Por ofensa a direito local não cabe recurso extraordinário .
+    3. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    4. In casu, o acórdão recorrido assentou: CONSTITUCIONAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PEDIDO IMPROCEDENTE. SÚMULA 343 DO STF. DIVERGÊNCIA DE ENTENDIMENTOS. AÇÃO MANDAMENTAL. EQUIPARAÇÃO REMUNERATÓRIA ENTRE OCUPANTES DE CARGOS IDÊNTICOS.
+    5. Agravo regimental DESPROVIDO”.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. Tal verba, contudo, fica com sua exigibilidade suspensa em razão do deferimento da assistência judiciária gratuita a parte agravante, nos termos do art. 98, § 3º, do CPC/2015.
+    Publique-se.
+       Brasília, 22 de fevereiro de 2018.
+Ministro Luís Roberto Barroso
+Relator
