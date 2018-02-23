@@ -1,1 +1,2 @@
 Art. 391-A. A confirmação do estado de gravidez advindo no curso do contrato de trabalho, ainda que durante o prazo do aviso prévio trabalhado ou indenizado, garante à empregada gestante a estabilidade provisória prevista na alínea b do inciso II do art. 10 do Ato das Disposições Constitucionais Transitórias.
+Parágrafo único. O disposto no caput deste artigo aplica-se ao empregado adotante ao qual tenha sido concedida guarda provisória para fins de adoção.
