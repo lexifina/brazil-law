@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto por FMC CORPORATION contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “PROCESSUAL. ADMINISTRATIVO. AMICUS CURIAE. POSSIBILIDADE DE SUA INTERVENÇÃO. CONCESSÃO DE PATENTE DE INVENÇÃO. PRAZO INTELIGÊNCIA DO ART. 40 § ÚNICO, LEI 9.279/96. POSSIBILIDADE DE REVISÃO DE OFÍCIO DE ATO IRREGULAR – SÚMULAR 473/STF – APELO E REMESSA PROVIDOS.
+    - Embora excepcional a intervenção do chamado “amicus curiae”, em se tratando de entidade que tem um interesse mais direto na questão em discussão, ao se demonstrar tratar-se de interesse jurídico.
+    - Deve ser reformada sentença que concluiu pela procedência de ação que fora proposta com o fim de cassar ato administrativo que retificou data de vigência de registros patentários, aplicando-se o princípio da auto-executoriedade e da auto-tutela da Administração Pública (Súmula 473/STF), o que ocorreu com o ato relativo à especificação do período de vigência da patente em discussão.
+    - Apelação e remessa necessária a que se dá provimento.”
+    O recurso extraordinário busca fundamento no art. 102, III, a da Constituição Federal. A parte recorrente alega violação aos arts. 3º, I e II; e 5º, XXIX, da Constituição.
+    O recurso não deve ser provido. De início, nota-se que as alegadas ofensas à Constituição não foram apreciadas pelo acórdão impugnado. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Para dissentir do acórdão recorrido seria necessária a análise da legislação infraconstitucional pertinente, bem como a análise de fatos e provas, procedimento vedado nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Quanto à necessidade de serem observados fatos subjacentes, veja-se o seguinte trecho do acórdão recorrido:
+    “Conclui-se, portanto, que o objeto da demanda foi transferido para a esfera judicial, caracterizando a exceção prevista no parágrafo único do artigo 40 da LPI que dispõe: “O prazo de vigência não será inferior a 10 (dez) anos para a patente de invenção e a 7 (sete) anos para a patende de modelo de utilidade, a contar da data da concessão, ressalvada a hipótese de o INPI estar impedido de proceder ao exame de mérito do pedido, por pendência judicial comprada ou por motivo de força maior”.
+    A ratio legis do parágrafo único (sem a exceção) do artigo 40 da LPI visa a sanar problemas decorrentes de uma demora injustificada no exame do pedido de registro de patentes pelo INPI, fato que não ocorreu com a patente em questão. Destaque-se que somente com o trânsito em julgado do processo judicial nº 88.0014938-3, o INPI deu prosseguimento ao processo administrativo em análise do pedido de registro da patente depositada pela FMC CORPORATION. Assim, não houve uma demora injustificada na concessão da patente por parte do INPI, mas apenas o prosseguimento do processo administrativo de registro que resultou na concessão da aludida patente em 23/11/2004.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de fevereiro de 2018.
+Ministro Luís Roberto Barroso
+Relator
