@@ -1,0 +1,14 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “Tributário ITCMD Anulatória Valor referente à meação já quitado no arrolamento de bens Isenção de ITCMD sobre valores investidos por meio de contratos de previdência privada - Admissibilidade - Interpretação do art. 6º, I, “e”, da Lei n 10.705/00. Sentença de procedência mantida. Recurso não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 1º, 2º, 18, 25 a 28, 145 a 149, 150, III, a, e 155, I, todos da Carta. Sustenta, em síntese, que sua competência tributária restou violada porquanto não observada a base de cálculo do ITCMD estabelecida pela Lei estadual nº 10.705/2000. Aduz que os decretos estaduais sobre a matéria apenas e tão somente regulamentou o emprego do valor venal de referência para fins de ITBI como base de cálculo para o ITCMD, posto que tal possibilidade já era prevista na legislação. Defende, ainda, que antes de lavrar o auto de infração, a Administração respeitou o princípio da ampla defesa, solicitando que o contribuinte apresentasse os documentos que comprovassem a operação.
+    A pretensão recursal não merece prosperar. A alegada ofensa aos arts. 1º, 2º, 18, 25 a 28, 145 a 149, 150, III, a, da Constituição não foi apreciada pelo acórdão impugnado. Tampouco os embargos de declaração opostos cuidaram das referidas matérias. Portanto, nestes pontos o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, verifico que no caso divergir do entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação infraconstitucional aplicável à espécie, notadamente a Lei estadual nº 10.705/2000, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279/STF. Veja-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS. NATUREZA JURÍDICA DAS VERBAS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE 612.173-AgR, Rel.ª Min.ª Cármen Lúcia)
+    No mesmo sentido as seguintes decisões: ARE 922.717, Rel. Min. Edson Fachin; ARE 1106832 / SP, Rel. Min. Alexandre de Moraes; ARE 1100323 / SP, Rel. Min. Marco Aurélio, e ARE 817.356, Rel. Min. Ricardo Lewandowski.
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada da na instância anterior, observados os limites legais do art. 85, §§§ 3º, 4º e 5º, do CPC/2015.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2018.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
