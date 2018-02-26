@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da 2ª Câmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “AGRAVOS REGIMENTAIS NA APELAÇÃO CÍVEL E NOS EMBARGOS DE DECLARAÇÃO. AÇÃO DE RESTITUIÇÃO DE IMPORTÂNCIAS PAGAS. AUSÊNCIA DE ARGUMENTAÇÃO OU FATOS NOVOS. DESPROVIMENTO. 1. Se as partes agravantes não trazem nenhum argumento suficiente para acarretar a modificação da linha de raciocínio adotada nas decisões ora agravadas monocrática, impõe-se o desprovimento dos agravos regimentais interpostos à míngua de elementos novos capazes de desconstituir as decisões ora impugnadas. 2. PRIMEIRO E SEGUNDO AGRAVOS REGIMENTAIS CONHECIDOS E DESPROVIDOS. DECISÕES AGRAVADAS MANTIDAS.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição.
+    O recurso extraordinário não pode ser provido, tendo em vista que a jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de violações à legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Com efeito, não há matéria constitucional nas causas em que se discute o direito à revisão de cláusulas de contrato bancário findo. Nessa linha, vejam-se os seguintes precedentes: ARE 789.693, Rel. Min Teori Zavascki; ARE 786.512, Rel. Min. Ricardo Lewandowski; e ARE 778.677, Relª. Minª. Cármen Lúcia.
+    Quanto à alegada violação ao art. 5º, XXXVI, da Constituição, a questão só entra no plano constitucional quando a eficácia inerente ao ato jurídico perfeito é violada pela aplicação de uma nova lei, discutindo-se matéria de direito intertemporal. A parte recorrente não cogita de retroação de lei superveniente, somente postula uma nova apreciação das cláusulas constantes do contrato celebrado entre as partes, o que impossibilita a abertura da via extraordinária. Nessas condições, a hipótese atrai a incidência da Súmula 454/STF.
+    Diante do exposto, com base no art. 21, § 1º, do RISTF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de fevereiro de 2018.
+Ministro Luís Roberto Barroso
+Relator
