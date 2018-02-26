@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1792, de 23 de fevereiro de 2018
+Aprova o programa multiplataforma Ganhos de Capital para apuração de resultado sujeito à incidência do Imposto sobre a Renda da Pessoa Física relativo ao ano-calendário de 2018.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVII do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto na Instrução Normativa SRF nº 84, de 11 de outubro de 2001, e na Instrução Normativa SRF nº 599, de 28 de dezembro de 2005, resolve:
