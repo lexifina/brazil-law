@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98010, de 1º de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 6212.90.00 Mercadoria: Faixa de tecido elástico, com fechos aderentes ajustáveis, para compressão da região abdominal, aplicada, dentre outros, para recuperação pós-operatória, flacidez e correções posturais ou estéticas, denominada comercialmente “faixa abdominal elástica”. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 62.12, Nota 1 do Capítulo 62 e Notas 1-b e 6 do Capítulo 90) e RGI/SH 6 (texto da subposição 6212.90), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435/1992, e atualizadas pela IN RFB nº 807/2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.010-2018 .pdf]
