@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, assim resumido:
+    “Tributário. Bolsa de extensão fornecida pela Fundação Médica de Rio Grande do Sul. Contribuição Social. Não incidência. Lei nº 9.250/1995.” (eDOC 25)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º; 5º, II; 150, I e §6º; e 195, I, “a”, do texto constitucional.
+    Nas razões recursais, alega-se ofensa ao princípio da legalidade tributária, sem o qual não se poderia falar em concessão de isenção ou outro benefício de natureza fiscal. (eDOC 27)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar os autos, consignou o seguinte:
+    “De fato, as verbas recebidas a título de bolsa de extensão não têm natureza salarial, não se incorporando aos proventos de aposentadoria. Conforme pontuado na tese uniformizada, as bolsas de estudo e de pesquisa são caracterizadas como doação. Desse modo, não sofrem incidência de contribuição. Seguindo esse raciocínio, este Colegiado já teve a oportunidade de afastar a incidência de contribuição previdenciária sobre a verba em questão, quando do julgamento do RI nº 5010531-92.2016.404.7100. Considerando que o entendimento adotado se mostra compatível com a linha jurisprudencial uniformizada pela Regional e seguida por esta Turma Recursal, a sentença merece ser confirmada pelos próprios fundamentos (art. 46 da Lei 9.099/1995).” (eDOC 24, p. 2)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Ademais, a jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE TRIBUTOS. NATUREZA JURÍDICA DA VERBA. IMPOSTO DE RENDA. TERÇO CONSTITUCIONAL DE FÉRIAS. 1. A jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba. 2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame dos fatos e provas, além da legislação infraconstitucional aplicável à espécie. Precedentes. 3. Agravo regimental a que se nega provimento, com aplicação de multa, nos termos do art. 1.021, §4º, do CPC.” (RE-AgR 1009131, Rel. Min. Edson Fachin, Segunda Turma, DJe 23.5.2017) grifo nosso
+    “Recurso. Extraordinário. Incognoscibilidade. Rescisão de contrato de trabalho. Verbas rescisórias. Natureza jurídica. Definição para fins de incidência de Imposto de Renda. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a definição da natureza jurídica de verbas rescisórias (salarial ou indenizatória), para fins de incidência de Imposto de Renda, versa sobre matéria infraconstitucional.” (AI-RG 705.941, Rel. Min. Cezar Peluso, DJe 23.4.2010)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro o valor da verba honorária fixada pela origem em 10%, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
