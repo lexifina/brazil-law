@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — NEGATIVA DE SEGUIMENTO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à condenação do réu pela prática do crime de desacato, previsto no artigo 331 do Código Penal. No extraordinário cujo trânsito pretende alcançar, o recorrente aponta a violação dos artigos 5º, incisos IV e IX ,e 37, cabeça, da Constituição Federal. Articula com a inconstitucionalidade do referido delito, tendo-o como contrário à liberdade de expressão. Sustenta a atipicidade da conduta.
+    2. Colho da sentença, mantida integralmente pelo acórdão recorrido, o seguinte trecho:
+    Importante frisar que não há nada que indique a intenção dos, policiais em querer prejudicar o acusado, devendo seus depoimentos serem efetivamente considerados, para fundamentar um decreto condenatório.
+    Não merece prosperar a alegação defensiva de absolvição por ter o réu respondido às condutas perpetradas contra ele pelos agentes públicos, haja vista que o réu desacatou os policiais, quando estes solicitaram ao mesmo que deixasse o local, por estar a cavalo, sendo que a conduta dos milicianos, após o réu ser detido, será analisada, por via própria, como requerido pelo Ministério Público em sua promoção final.
+    Quanto à culpabilidade, era o réu, à, época dos fatos, penalmente imputável, tendo, portanto, conhecimento do caráter ilícito de sua conduta, podendo, assim, se determinar de acordo com esse entendimento.
+    Agiu, assim, com vontade de praticar a conduta descrita no tipo.
+    Por fim, não há nada nos autos que comprove ter o denunciado praticado o fato amparado pelas hipóteses excludentes da ilicitude ou da culpabilidade, o que faz concluir ser o mesmo ilícito e culpável.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência deste Tribunal. Confiram com a seguinte ementa:
+    RECURSO EXTRAORDINÁRIO COM AGRAVO MATÉRIA PENAL CRIME DE DESACATO (CP, ART. 331) COMPATIBILIDADE COM O ART. 13 DA CONVENÇÃO AMERICANA DE DIREITOS HUMANOS (CADH) ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO PRECEDENTES AGRAVO INTERNO IMPROVIDO.(agravo regimental no recurso extraordinário com agravo nº 1.064.572, relatado pelo ministro Celso de Mello, na Segunda Turma, acórdão publicado no Diário de Justiça eletrônico de 06 de novembro 2017).
+    Acresce que, no caso, o que sustentado nas razões do extraordinário, apesar da interposição de embargos declaratórios, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    3. Nego seguimento ao extraordinário. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 26 de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
