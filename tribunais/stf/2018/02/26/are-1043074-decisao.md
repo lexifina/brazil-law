@@ -1,0 +1,35 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. COM AGRAVO. DISTRIBUIÇÃO ANTERIOR DE AGRAVO DE INSTRUMENTO CONEXO. PREVENÇÃO.
+    1. O Ministro Edson Fachin submeteu ao exame desta Presidência proposta de redistribuição do presente recurso extraordinário, por prevenção, ao Ministro Dias Toffoli:
+     “Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado da Bahia, assim ementado (eDOC 1, p. 244):
+    “ADMINISTRATIVO. AÇÃO ORDINÁRIA. CONCURSO PÚBLICO. CARGO DE AGENTE DE TRIBUTOS ESTADUAIS DA SECRETARIA DA FAZENDA. APROVAÇÃO. PRETENSÃO DE NOMEAÇÃO. INADMISSIBILIDADE. EXISTÊNCIA DE MERA EXPECTATIVA DE DIREITO. CESSÃO DE PESSOAL DOS QUADROS DO EXTINTO BANCO DO ESTADO DA BAHIA. POSSIBILIDADE. CONVENIÊNCIA E OPORTUNIDADE DA ADMINISTRAÇÃO PÚBLICA. PRETERIÇÃO NÃO DEMONSTRADA. PRECEDENTES DO STJ. IMPROCEDÊNCIA. APELAÇÃO. PRESENÇA DOS PRESSUPOSTOS DE ADMISSIBILIDADE. IRRESIGNAÇÃO IMOTIVADA. RECURSO IMPROVIDO.
+    Consoante a súmula 15 do STF, dentro do prazo de validade do concurso, o candidato aprovado tem o direito à nomeação, quando o cargo for preenchido sem observância da classificação.
+    A aprovação em concurso público gera mera expectativa de direito à nomeação, submetida ao juízo de conveniência de oportunidade da Administração Pública, não demonstrada a ocorrência de preterição por conta de nomeação de candidatos de classificação inferior.”
+    No recurso extraordinário, com fundamento no artigo 102, III, a , do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXV, XXXVI e LIV; e 37, II, III, IV e XVIII, da Constituição Federal.
+    Da análise dos autos, depreendo que, em razão da inadmissibilidade de anterior recurso extraordinário na origem, o recorrente interpôs agravo de instrumento, registrado sob o nº 731.353/BA, o qual fora provido pelo I. Min. Dias Toffoli, para admitir o apelo extraordinário.
+    Com o provimento de recurso especial interposto em face da mesma decisão, o feito foi remetido à origem e, com o novo julgamento dos embargos de declaração determinado pela Corte Superior, exsurgiu o presente recurso extraordinário, o qual fora a mim distribuído.
+    Diante do exposto, determino a remessa dos autos à Presidência para análise de possível prevenção, nos termos do art. 69 do RISTF, uma vez já ter havido a anterior distribuição de feito vinculado ao mesmo processo ao I. Min. Dias Toffoli.
+    Publique-se”.
+    2. A espécie revela situação jurídica ensejadora da prevenção suscitada, nos termos do caput do art. 69 do Regimento Interno do Supremo Tribunal Federal.
+    3. Em 23.5.2011, o Ministro Dias Toffoli deu provimento ao Agravo de Instrumento n. 731.535, determinando o sobrestamento do recurso extraordinário na origem, nos termos do art. 543-B do Código de Processo Civil de 1973:
+     “O Plenário desta Corte concluiu, em sessão realizada por meio eletrônico, no exame do RE nº 598.099/MS, Relator o Ministro Gilmar Mendes, pela existência da repercussão geral da matéria constitucional versada nestes autos. Trata-se de discussão acerca da limitação do poder discricionário da Administração Pública em favor do direito de nomeação dos candidatos, aprovados em concursos públicos, que estão classificados até o limite de vagas anunciadas no edital regulamentador do certame.
+    Nas Questões de Ordem suscitadas no AI nº 715.423/RS e no RE nº 540.410/RS, o Plenário deste Supremo Tribunal Federal concluiu pela possibilidade da aplicação da norma do artigo 543-B do Código de Processo Civil aos recursos extraordinários e agravos de instrumento que tratem de matéria constitucional com repercussão geral reconhecida por esta Corte, independentemente da data de interposição do apelo extremo.
+    Ante o exposto, dou provimento ao agravo para admitir o recurso extraordinário e, nos termos do artigo 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução destes autos ao Tribunal de origem para que sejam apensados aos autos originais, devendo ser aplicado, quanto ao apelo extremo ora admitido, o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se”.
+    4. No Doc-e n. 7, os recorrentes fazem o histórico do caso e suscitam a prevenção do Ministro Dias Toffoli:
+    “6. Em  razão da inadmissibilidade do recurso extraordinário de fls. 294/316, foi interposto o Agravo de Instrumento 731.535/BA que foi provido pelo eminente ministro Dias Toffoli, nos termos da r. decisão de fl. 208 daqueles autos que abaixo se transcreve:(…)
+    7. Por uma questão de lealdade  processual, não se pode deixar de esclarecer que o admitido recurso especial de fls. 270/287foi provido pela decisão de fl.356/357 do e.STJ, que determinou ao TJBA outro julgamento dos embargos de declaração opostos, cujo novo acórdão de fls. 398/401 foi novamente recorrido pelos recursos especiais de fls. 408/424 e o extraordinário de  fls. 431/449, que por sua vez não foram admitidos pelas decisões de fls. 476/477 e 478.
+    8. Contra essas decisões de inadmissibilidades foram opostos os respectivos agravos de instrumento de fls. 482/488 dirigido ao e. STJ e o de fls. 490/496 para essa c. Corte.
+    9. O agravo de instrumento dirigido ao c. STJ teve seu seguimento negado, sendo então os autos remetidos a essa e. Corte para julgamento do recurso extraordinário de fls. 294/316 e agravo de instrumento de fls. 490/496.
+    10. Feitos esses esclarecimentos, os Agravantes chamam a atenção ao que é relevante para o julgamento deste agravo regimental:
+    (i) o recurso extraordinário de fls. 294/316 foi admitido por ocasião do julgamento do Agravo de Instrumento 731.535/BA e não foi considerado na r. decisão ora recorrida;
+    (ii) o recurso extraordinário de fls. 431/449 e agravo de instrumento de fls. 490/496 são idênticos ao admitido recurso extraordinário de fls. 294/316 e ao provido Agravo de Instrumento 731.535/BA.
+    11. Visto isso, os Agravantes sustentam que tendo em vista a admissão do recurso extraordinário de fls. 294/316, estes autos devem ser distribuídos ao eminente ministro Dias Toffoli (art. 69 do RISTF), que foi o relator do Agravo de Instrumento 731.535/BA, para julgar o pendente apelo extremo”.
+    5. Demonstrado tratar-se o presente recurso extraordinário com agravo de incidente processual no mesmo processo originário ensejador de interposição do Agravo de Instrumento n. 731.535, caracterizada está a conexão e a necessidade de redistribuição por prevenção, nos termos do caput do art. 69 do Regimento Interno do Supremo Tribunal Federal.
+    A prevenção deve ser firmada em favor do relator do Agravo de Instrumento n. 731.535, Ministro Dias Toffoli, primeiro a examinar e decidir sobre a causa, evitando-se, assim, a possibilidade de eventuais decisões contraditórias.
+    6. Pelo exposto, determino a redistribuição, por prevenção, deste Recurso Extraordinário com Agravo n. 1.043.074 ao Ministro Dias Toffoli (caput do art. 69 do Regimento Interno do Supremo Tribunal Federal).
+    À Secretaria Judiciária para providências.
+    Publique-se.
+    Brasília, 26 de fevereiro de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
