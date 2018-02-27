@@ -1,0 +1,9 @@
+DECISÃO: O Plenário desta Suprema Corte, ao julgar a ADI 4.628/DF, Rel. Min. LUIZ FUX, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+    “CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO SOBRE OPERAÇÕES DE CIRCULAÇÃO DE MERCADORIAS E DE PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO E DE TRANSPORTE INTERESTADUAL E INTERMUNICIPAL (ICMS). PRELIMINAR. PERTINÊNCIA TEMÁTICA. PRESENÇA DE RELAÇÃO LÓGICA ENTRE OS FINS INSTITUCIONAIS DAS REQUERENTES E A QUESTÃO DE FUNDO VERSADA NOS AUTOS. PROTOCOLO ICMS Nº 21/2011. ATO NORMATIVO DOTADO DE GENERALIDADE, ABSTRAÇÃO E AUTONOMIA. MÉRITO. COBRANÇA NAS OPERAÇÕES INTERESTADUAIS PELO ESTADO DE DESTINO NAS HIPÓTESES EM QUE OS CONSUMIDORES FINAIS NÃO SE AFIGUREM COMO CONTRIBUINTES DO TRIBUTO. INCONSTITUCIONALIDADE. HIPÓTESE DE BITRIBUTAÇÃO (CRFB/88, ART. 155, § 2º, VII, ‘B’). OFENSA AO PRINCÍPIO DO NÃO CONFISCO (CRFB/88, ART. 150, IV). ULTRAJE À LIBERDADE DE TRÁFEGO DE BENS E PESSOAS (CRFB/88, ART. 150, V). VEDAÇÃO À COGNOMINADA GUERRA FISCAL (CRFB/88, ART. 155, § 2º, VI). AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE. MODULAÇÃO DOS EFEITOS A PARTIR DO DEFERIMENTO DA CONCESSÃO DA MEDIDA LIMINAR, RESSALVADAS AS AÇÕES JÁ AJUIZADAS.”
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com entendimento emanado desta Suprema Corte (CPC, art. 932, VIII, c/c o RISTF, art. 21, § 1º).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2018.
+Ministro CELSO DE MELLO
+Relator
