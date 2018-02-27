@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto com base no art. 102, III, da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 174, Vol. 1):
+    "EMBARGOS À EXECUÇÃO FISCAL. ICMS. TRANSPORTE RODOVIÁRIO DE PASSAGEIROS.
+    1. Constando da certidão da dívida ativa todos os elementos discriminados no art. 2º § 5º da Lei Federal n° 6.830/80, não há que se falar em nulidade.
+    2. Constitucional idade da LC 87/96.
+    3. Não ocorrência de violação aos princípios tributários da seletividade, capacidade contributiva e não cumulatividade.
+    4. A cobrança da multa é correta, pois segue a legislação de regência. O índice não é abusivo, não devendo ser aplicável nenhum outro.
+    Recurso improvido."
+    Nas razões recursais, a parte recorrente aponta violação aos artigos 145, § 1º, 146, 150, II, e 155, § 2º, da Constituição Federal.
+    É o relatório. Decido.
+    O acórdão proferido pelo Tribunal de origem está em harmonia com o entendimento firmado pelo Plenário desta CORTE, no julgamento da ADI 2.669/DF, Relator para o acórdão Min. MARCO AURÉLIO, DJe de 6/8/2014, no sentido de que incide ICMS na prestação de serviço de transporte terrestre. O julgado recebeu a seguinte ementa:
+    “ICMS – TRANSPORTE TERRESTRE – LEI COMPLEMENTAR Nº 87/96 – CONSTITUCIONALIDADE. Mostra-se harmônica com a Constituição Federal a incidência do ICMS sobre a prestação de serviço de transporte terrestre.”
+    No mesmo sentido, precedentes de ambas as Turmas:
+    “Agravo regimental no recurso extraordinário com agravo. ICMS. Prestação de serviço de transporte terrestre interestadual e intermunicipal de passageiros. Constitucionalidade. ADI nº 2.669/DF. Não cumulatividade. Dependência de previsão legal. Honorários recursais. Majoração. Possibilidade. 1. O Plenário da Corte, no julgamento da ADI nº 2.669/DF, Relator para o acórdão o Ministro Marco Aurélio, firmou entendimento no sentido da constitucionalidade da incidência de ICMS sobre a prestação de serviços de transporte terrestre interestadual e intermunicipal de passageiros. 2. O princípio constitucional da não cumulatividade é uma garantia do emprego de técnica escritural que evite a sobreposição de incidências, que não pode ser inferido diretamente do texto constitucional. Precedentes. 3. Aplica-se a majoração referente aos honorários recursais mesmo ante a ausência de contrarrazões ao recurso. 4. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício de gratuidade da justiça.” (ARE 1.044.410-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 4/9/2017)
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ICMS. INCIDÊNCIA SOBRE OPERAÇÕES DE TRANSPORTE RODOVIÁRIO INTERESTADUAL. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. EXISTÊNCIA DE PRECEDENTE FIRMADO PELO PLENÁRIO DO STF. POSSIBILIDADE DE JULGAMENTO IMEDIATO. 1. A jurisprudência desta Corte fixou entendimento no sentido da constitucionalidade da incidência de ICMS sobre a prestação de serviços de transporte rodoviário interestadual e intermunicipal de passageiros. 2. O entendimento adotado pelo Tribunal de origem não diverge da jurisprudência do Supremo Tribunal Federal. 3. A existência de precedente firmado pelo Plenário desta Corte autoriza o julgamento imediato de causas que versem sobre o mesmo tema, independentemente da publicação ou do trânsito em julgado do acórdão. 4. Nos termos do art. 85, §11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 1.055.550-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 13/10/2017)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+     Publique-se.
+    Brasília, 27 de fevereiro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
