@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Cuida-se de agravo regimental, interposto pelo Estado de São Paulo, mediante peça subscrita por apenas um de seus procuradores, em face de despacho da lavra do Ministro Ricardo Lewandowski, então Presidente desta Casa, mediante a qual aplicou ao processo ora em análise o procedimento abreviado do art. 12 da Lei nº 9.868/99, nos seguintes termos:
+    “Analisados aos autos, verifico que o caso sob exame não se amolda à hipótese prevista no art. 13, VIII, do RISTF.
+    Por outro lado, sendo incontestável a relevância da matéria e o seu especial significado para a ordem social e a segurança jurídica, adoto desde logo o rito abreviado do art. 12 da Lei 9.868/1999”.
+    Nas razões do agravo, o agravante sustenta que:
+    “A petição inicial apresenta pedido cautelar para suspender a ‘execução dos dispositivos impugnados, na medida em que, como é público e notório, o Poder Executivo do Estado de São Paulo pode vir a arcar com despesas não previstas, em proposta de lei de sua iniciativa provativa, ou vir a encerrar períodos de estágio confirmatório de servidores paulistas, sem que tenha havido a indispensável avalisação por três anos’.
+    O ‘periculum in mora’ e o ‘fumus boni iuris’ estão satisfatoriamente demonstrados na petição inicial, ensejando, data máxima vênia, a concessão da medida cautelar almejada”.
+    É o relatório. Decido.
+    Incabível o presente recurso.
+    Inicialmente, anoto que a teor da jurisprudência desta Corte, a legitimidade recursal no controle concentrado é paralela à legitimidade processual ativa, não se conferindo ao ente político a prerrogativa de recorrer das decisões tomadas pela Corte em sede de ação direta, seja de modo singular (art. 4º, parágrafo único, da Lei nº 9.868/99) seja colegiadamente (art. 26 da mesma legislação).
+    Com efeito, somente o Governador de Estado detém a legitimidade para recorrer de decisão que lhe seja eventualmente desfavorável e não o respectivo Estado-membro.
+    Nesse sentido:
+    “Agravo regimental. Arguição de descumprimento de preceito fundamental. Intimação pessoal da Fazenda Pública. Inaplicabilidade. Processo de natureza objetiva. Intempestividade. Recurso não subscrito pelo Governador do Estado. Ilegitimidade recursal. Precedentes. Agravo do qual não se conhece. 1. A jurisprudência desta Corte é pacífica no sentido de que as normas processuais destinadas a resguardar os interesses da Fazenda Pública não são aplicáveis aos processos de índole objetiva. Precedentes: ADI 2674-MC-AgR-ED, Rel. Min. Celso de Mello, Tribunal Pleno, DJe de 13/6/16; ADI 2130 AgR, Relator o Ministro Celso de Mello, Tribunal Pleno, DJ de 14/12/01; ADI 1797 MC-AgR-ED, Relator o Ministro Ilmar Galvão, Tribunal Pleno, DJ de 29/06/01. 2. Considerando a remansosa jurisprudência do Tribunal, reiterada recentemente pelo Plenário, é inaplicável ao controle concentrado a exigência de intimação pessoal dos entes públicos (art. 183 do CPC/2015), a revelar a intempestividade do recurso. 3. O agravo também é insuscetível de conhecimento, pois, embora alegadamente interposto pelo Governador do Estado do Piauí, foi assinado unicamente por Procurador do Estado, e não pelo Chefe do Poder Executivo estadual, único legitimado a instaurar os processos objetivos de constitucionalidade e a interpor os respectivos recursos. Precedentes. 4. Agravo regimental do qual não se conhece” (ADPF nº 205/PI-AgR-Segundo, Tribunal Pleno, minha Relatoria, DJe de 1º/8/17 – grifo nosso).
+    Ademais, o agravante insurge-se contra despacho por meio do qual simplesmente foi definido o rito a ser adotado no caso e determinada a instrução do processo. O referido ato detém natureza meramente procedimental, sendo destituído de conteúdo decisório.
+    O Supremo Tribunal Federal tem afirmado a irrecorribilidade dos despachos de mero experiente proferidos pelo relator no curso do processo, por não possuírem conteúdo decisório, nos termos do que dispõe o Código de Processo Civil (art. 504 do CPC/1973 e art. 1.001 do CPC/2015). Nesse sentido: AI 694046 AgR, Rel. Min. Gilmar Mendes (Presidente), Tribunal Pleno, DJe de 11.9.09; ARE 1033295 ED, Rel. Min. Edson Fachin, DJe de 29.11.17; ARE 814998 ED-ED, Rel. Min. Dias Toffoli, DJe de 24.11.16; MS 34010 ED, Rel. Min. Luiz Fux, DJe de 28.3.16.
+    Ante o exposto, não conheço do presente agravo regimental.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
