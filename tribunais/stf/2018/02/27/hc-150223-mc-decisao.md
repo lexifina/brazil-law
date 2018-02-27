@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Terceira Vara Criminal da Comarca de Rio Grande/RS, no processo nº 2.15.0004001-2, ao acolher pedido do Ministério Público, determinou a prisão preventiva do paciente, ocorrida em 22 de outubro de 2015, ante o suposto cometimento das infrações versadas nos artigos 33, cabeça (tráfico de drogas), 35 (associação para o tráfico), da Lei nº 11.343/2006, e 16, cabeça (porte ilegal de arma de fogo de uso restrito), da Lei nº 10.826/2003. Destacou presentes os elementos a revelarem tratar-se o paciente de gerente de associação criminosa responsável pelo comércio ilegal de entorpecentes. Aludiu a interceptações telefônicas autorizadas pela justiça, mediante as quais constatadas negociações de entrega de drogas. Considerou necessária a custódia para garantir a ordem pública, afirmando que a permanência em liberdade significa a continuação das atividades delitivas do grupo. Acrescentou serem notórias as consequências do tráfico para a sociedade.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas de nº 379.227/RS, o qual foi inadmitido pela Quinta Turma.
+    O impetrante alega excesso de prazo da constrição preventiva, articulando com a ofensa ao artigo 5º, inciso LXXVIII, da Constituição Federal. Afirma não encerrada a instrução processual, a repercutir na projeção da prisão no tempo. Realça a excepcionalidade da medida e as condições pessoais favoráveis do paciente – primariedade, bons antecedentes, residência fixa no distrito da culpa e família constituída.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura. No mérito, postula seja assegurado ao paciente o direito de responder, solto, ao processo-crime.
+    Pesquisa no sítio do Tribunal de Justiça estadual revelou haver o Juízo consignado, em 24 de fevereiro último, que o processo não está apto para julgamento, ante o fato de um dos corréus – oito ao todo – não ter apresentado memoriais.
+    A etapa é de exame da liminar.
+    2. Observem encontrar-se o paciente preso, sem culpa formada, há 2 anos, 4 meses e 5 dias. Surge o excesso de prazo considerada a custódia provisória e o estágio do processo-crime, porquanto não encerada a fase de alegações finais, pendente apresentação de memoriais pela defesa de corréu. A preventiva deve ser balizada no tempo. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento mediante o qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da prisão preventiva retratada no processo nº 2.15.0004001-2, da Terceira Vara Criminal da Comarca de Rio Grande/RS. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
