@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 567, de 20 de dezembro de 2017
+ASSUNTO: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI EMENTA: Empresário individual (CNAE - 213-5), que execute as operações referenciadas no art. 4º do Ripi, e que por isso se enquadre como estabelecimento industrial e seja contribuinte do IPI, poderá adquirir matérias-primas, produtos intermediários e materiais de embalagem de estabelecimento industrial vendedor com suspensão do IPI, desde que o empresário individual adquirente preencha as condições fixadas no art. 29 da Lei 10.637 de 30/12/2002. Dispositivos Legais: Art. 29 da Lei 10.637 de 30/12/2002, art. 4º e 8º do Decreto nº 7.212, de 2010 (Regulamento do IPI), Instrução Normativa RFB nº 948, de 15 de junho de 2009, Lei Complementar nº 123, de 14 de dezembro de 2006, Ajuste SINIEF 2, de 3 de abril de 2009.
+.
+[arquivo anexo: SC Cosit nº 567-2017.pdf]
