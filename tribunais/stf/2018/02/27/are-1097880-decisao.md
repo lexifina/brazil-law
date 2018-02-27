@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação do art. 127, § 1º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A Corte de origem decidiu a controvérsia nos seguintes termos:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. OMISSÃO INEXISTENTE. 1- Rejeitam-se os embargos declaratórios com o fim de rediscussão da matéria decidida e não havendo na decisão recorrida a obscuridade, a contradição ou omissão especificadas nos incisos do art. 535 do CPC. II – É entendimento do Superior Tribunal de Justiça que o o Ministério Público sendo autor da ação civil pública, sua atuação como fiscal da lei não é obrigatória em virtude do princípio da unicidade. Desse modo, a ausência de oitiva da procuradoria de justiça em segundo grau não gera nulidade do processo. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.”
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie (art. 5º, § 1º, da Lei 7.347/85), razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 127, § 1º, da Constituição da República. Destaco o julgamento os seguintes acórdãos:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. NECESSIDADE DE INTERVENÇÃO DO MINISTÉRIO PÚBLICO FEDERAL. NULIDADE DO PROCESSO. MATÉRIA INFRACONSTITUCIONAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA Nº 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 754081 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 28/06/2016, PROCESSO ELETRÔNICO DJe-165 DIVULG 05-08-2016 PUBLIC 08-08-2016)
+    “Agravo regimental no recurso extraordinário. Processual Civil. Intervenção do Ministério Público como custos legis. Legislação infraconstitucional. Ofensa reflexa. Reexame. Fatos e provas. Impossibilidade. Precedentes. 1. Necessidade de intervenção do Ministério Público resolvida pelo Tribunal de origem com fundamento na legislação infraconstitucional e nos fatos e nas provas do processo. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 3. Agravo regimental não provido.” (RE 602315 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 25/08/2015, PROCESSO ELETRÔNICO DJe-192 DIVULG 24-09-2015 PUBLIC 25-09-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2018.
+Ministra Rosa Weber
+Relatora
