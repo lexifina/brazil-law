@@ -1,0 +1,16 @@
+DECISÃO
+RENOVAÇÃO DE REGISTRO DE ARMA DE FOGO – INQUÉRITO EM ANDAMENTO – PRINCÍPIO DA NÃO CULPABILIDADE – PRECEDENTES – RECURSO EXTRAORDINÁRIO – PROVIMENTO PARCIAL .
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo, proferido em mandado de segurança, quanto à impossibilidade de renovação de registro de arma de fogo àqueles que estão sendo investigados em inquérito policia, assentando, em síntese:.
+    ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCESSÃO/RENOVAÇÃO DE PORTE DE ARMA DE FOGO. NÃO PREENCHIDOS REQUISITOS LEGAIS.
+    Tendo em vista que o deferimento de renovação do registro de porte de arma de fogo constitui medida excepcional e discricionária, não havendo demonstrado, nos autos, preencher os requisitos legais para renovação do certificado, não há que se conceder a segurança pleiteada.
+    No extraordinário, o recorrente alega a violação do artigo 5º, inciso LVII, Constituição Federal. Aponta a inconstitucionalidade dos artigos 4º, inciso I, e 5º, § 2º, da Lei nº 10.826/03.
+    2. De início, observem que o princípio da não culpabilidade irradia efeitos em âmbito extrapenal, conforme assentado pelo Pleno no recurso extraordinário nº 482.006/MG, relatoria do ministro Ricardo Lewandowski.
+    Acresce que a decisão recorrida está em dissonância com a jurisprudência do Supremo. Confiram as ementas das decisões proferidas por ambas as turmas em casos análogos:
+    CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. CANDIDATO. ELIMINAÇÃO. INVESTIGAÇÃO SOCIAL. ART. 5º, LVII, DA CF. VIOLAÇÃO. I - Viola o princípio constitucional da presunção da inocência, previsto no art. 5º, LVII, da Constituição Federal, a exclusão de candidato de concurso público que responde a inquérito ou ação penal sem trânsito em julgado da sentença condenatória. Precedentes. II - Agravo regimental improvido. (agravo regimental no recurso extraordinário nº 559.135, relatado pelo ministro Ricardo Lewandowski na Primeira Turma, acórdão publicado no Diário da Justiça de 13 de junho de 2008 )
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. DELEGADO DA POLÍCIA CIVIL. INQUÉRITO POLICIAL. EXCLUSÃO DO CERTAME. VIOLAÇÃO DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA.
+    O Supremo Tribunal Federal fixou entendimento no sentido de que viola o princípio constitucional da presunção de inocência a exclusão de candidato de concurso público que responde a inquérito ou ação penal sem trânsito em julgado da sentença condenatória. Precedentes. Agravo regimental a que se nega provimento. (agravo regimental no agravo de instrumento nº 769433, relatado pelo ministro Min. EROS GRAU na Segunda Turma, acórdão publicado no Diário da Justiça de 12 de fevereiro de 2010)
+    3. Ante os precedentes, conheço do extraordinário e o provejo parcialmente para, reformando o acórdão impugnado, determinar o retorno do processo ao Colegiado de origem a fim de que analise o recurso na forma dos precedentes indicados. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclui.
+    4.Publiquem.
+Brasília, 28 de fevereiro de 2018.
+Ministro MARCO AURÉLIO
+Relator
