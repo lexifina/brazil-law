@@ -1,0 +1,16 @@
+Decisão
+    Trata-se de recurso extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado (fl. 155, Vol. 1):
+    “Constitucional. Administrativo. Servidor público aposentado. Gratificação de desempenho de atividade. GDPST E GACEN. Preliminares: Impossibilidade jurídica do pedido e Prejudicial de prescrição bienal das parcelas atrasadas afastada. Não acolhimento. Direito à paridade em relação a ambas as gratificações. Limitação temporal. Precedente desta E. Turma. Apelação da Funasa improvida e apelação do particular provida.”
+    Nas razões recursais, com amparo no art. 102, III, “a”, da Constituição Federal, o recorrente alega violação ao artigo 40, § 8º, da CF/88 e artigo 7º da EC 41/2003.
+    É o relatório. Decido.
+    Esta CORTE já firmou jurisprudência, quando do julgamento do RE 597.154-QO-RG (Rel. Min. Presidente GILMAR MENDES, DJe de 29/05/2009), no sentido de que as gratificações de desempenho, enquanto possuírem caráter genérico, são extensíveis aos servidores inativos. Esse entendimento restou consignado na edição da Súmula Vinculante 20, nos seguintes termos: “A Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória no 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos”.
+    Ademais, para divergir do acórdão recorrido quanto à natureza das gratificações, seria necessária a análise da legislação ordinária.
+    Assim, trata-se de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas no recurso extraordinário seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DA CARREIRA DA PREVIDÊNCIA, DA SAÚDE E DO TRABALHO – GDPST. EXTENSÃO AOS INATIVOS LIMITADA AO PRIMEIRO CICLO AVALIATIVO. PRECEDENTES. GRATIFICAÇÃO DE ATIVIDADE DE COMBATE E CONTROLE DE ENDEMIAS – GACEN. NATUREZA DA GRATIFICAÇÃO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 973.701-AgR, Rel. Min. CARMÉN LÚCIA, Segunda Turma, DJe de 23/9/2016)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
