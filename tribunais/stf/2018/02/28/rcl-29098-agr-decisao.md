@@ -1,0 +1,59 @@
+Trata-se de agravo regimental contra decisão que negou seguimento a esta reclamação, nos seguintes termos:
+    “Trata-se de reclamação ajuizada por Aristides Gonçalves Bomfim, contra decisões do Tribunal Regional do Trabalho da 1ª Região - TRT1, proferidas nos autos dos Processos 0011755-56.2014.5.01.0073 e 0100386-86.2017.5.01.0067, para garantir a autoridade do acórdão proferido no ARE 773.884/RJ, de relatoria da Ministra Cármen Lúcia.
+    É o relatório necessário. Decido.
+    Bem examinados os autos, constato, de plano, a manifesta inadmissibilidade desta reclamação, tendo em vista a existência de óbice intransponível.
+    Com efeito, em consulta ao sítio eletrônico do TRT1, verifico que, após a publicação da decisão reclamada, em 26/10/217, foi certificado o seguinte: “Decorrido o prazo de Aristides Gonçalves Bonfim em 03/11/2017 23:59:59”. Portanto, é possível verificar que o ato decisório objeto desta ação transitou em julgado.
+    Contudo, esta ação reclamatória somente foi ajuizada nesta Corte em 18/11/2017, quando a decisão contestada já se encontrava sob o manto da coisa julgada material, aplicando-se, in casu, o disposto no art. 988, § 5°, I, do CPC:
+    ‘Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    [...]
+    § 5° É inadmissível a reclamação:
+    I – proposta após o trânsito em julgado da decisão reclamada’.
+    Ademais, é certo que a reclamação não é sucedâneo de ação rescisória (Rcl 8.716-AgR/SP, Rel. Min. Celso de Mello, Plenário), incidindo, assim, a Súmula 734/STF:
+    ‘Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal’.
+    O Ministro Celso de Mello, ao apreciar o óbice que ora se examina na Rcl 11.025/GO, assim se manifestou:
+    ‘Trata-se de reclamação na qual se sustenta que o ato judicial ora questionado - emanado da Vara Única do Trabalho da comarca de Catalão/GO - teria desrespeitado a autoridade da decisão proferida por esta Suprema Corte nos autos da ADI 2.652/DF, Rel. Min. MAURÍCIO CORRÊA.
+    Ocorre, no entanto, que, em consulta à página oficial que o E. Tribunal Superior do Trabalho mantém na 'Internet', constata-se que referida decisão transitou em julgado em momento anterior ao ajuizamento desta sede processual.
+    Por tal motivo, torna-se inviável a admissibilidade da presente reclamação.
+    É que, como se sabe, a ocorrência do fenômeno da 'res judicata' assume indiscutível relevo de ordem formal no exame dos pressupostos de constituição e de desenvolvimento da relação processual decorrente da instauração da via reclamatória.
+    A jurisprudência do Supremo Tribunal Federal, embora reconhecendo cabível a reclamação contra decisões judiciais, tem ressaltado revelar-se necessário, para esse específico efeito, que o ato decisório impugnado ainda não haja transitado em julgado.
+    Essa é a razão pela qual se tem acentuado, na linha da orientação jurisprudencial firmada pelo Supremo Tribunal Federal, que o cabimento da reclamação, contra decisões judiciais, pressupõe que o ato decisório por ela impugnado ainda não tenha transitado em julgado (Rcl 2.347/SP, Rel. Min. CELSO DE MELLO - Rcl 3.505/ES, Rel. Min. CELSO DE MELLO, v.g.), eis que a situação de plena recorribilidade qualifica-se, em tal contexto, como exigência inafastável e necessária à própria admissibilidade da via reclamatória (RTJ 132/620, Rel. Min. SEPÚLVEDA PERTENCE - RTJ 142/385, Rel. Min. MOREIRA ALVES):
+    'A EXISTÊNCIA DE COISA JULGADA IMPEDE A UTILIZAÇÃO DA VIA RECLAMATÓRIA.
+    - Não cabe reclamação, quando a decisão por ela impugnada já transitou em julgado, eis que esse meio de preservação da competência e de garantia da autoridade decisória dos pronunciamentos do Supremo Tribunal Federal - embora revestido de natureza constitucional (CF, art. 102, I, 'e') - não se qualifica como sucedâneo processual da ação rescisória.
+    - A inocorrência do trânsito em julgado da decisão impugnada em sede reclamatória constitui pressuposto negativo de admissibilidade da própria reclamação, eis que este instrumento processual - consideradas as notas que o caracterizam - não pode ser utilizado contra ato judicial que se tornou irrecorrível. Precedentes.'
+    (RTJ 181/925, Rel. Min. CELSO DE MELLO, Pleno)
+    Vê-se, portanto, considerada a diretriz jurisprudencial prevalecente nesta Corte, que 'A reclamação não pode ser utilizada como sucedâneo de recurso ou de ação rescisória' (RTJ 168/718, Rel. Min. CARLOS VELLOSO - grifei).
+    Cabe destacar, ainda, por necessário, que esse mesmo entendimento encontra-se consubstanciado no enunciado constante da Súmula 734/STF ('Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal' - grifei).
+    Sendo assim, em face das razões expostas, e ante a sua manifesta inadmissibilidade, nego seguimento à presente reclamação, restando prejudicado, em consequência, o exame do pedido de medida liminar’ (grifos no original).
+    Isso posto, configurada a hipótese de não cabimento prevista no Enunciado 734 da Súmula desta Casa, nego seguimento a esta reclamação (art. 21, § 1º, do RISTF). Prejudicada a análise do pedido de liminar” (documento eletrônico 25).
+    O agravante alega, em resumo, que
+    “[...] não se trata o presente caso de Reclamação proposta após o trânsito em julgado da decisão reclamada, uma vez que NÃO HOUVE O TRÂNSITO EM JULGADO DOS ACÓRDÃOS RECLAMADOS, JÁ QUE FORAM OPOSTOS TEMPESTIVAMENTE CONTRA ESTES ACÓRDÃOS EMBARGOS DE DECLARAÇÃO, QUE AINDA SERÃO INCLUÍDOS EM PAUTA DE JULGAMENTO, E NÃO EXISTEM CERITIDÕES DE TRÂNSITO EM JULGADO NOS AUTOS DOS PROCESSOS ELETRÔNICOS NÚMEROS 0011755-56.2014.5.01.0073 E 0100386- 86.2017.5.01.0067 ” (pág. 7 do documento eletrônico 26).
+    Requer, ao final, o provimento do recurso.
+    É o relatório necessário. Decido.
+    Bem examinados os autos, entendo que o pleito do agravante deve ser acolhido.
+    Com efeito, constato que a presente reclamação foi ajuizada antes do trânsito em julgado das decisões reclamadas.
+    Passo, por essa razão, a examinar o pedido formulado na petição inicial.
+    No caso em exame, a reclamação foi utilizada para, supostamente, garantir a autoridade das decisões proferidas no julgamento do ARE 773.884/RJ, de relatoria da Ministra Cármen Lúcia, assim ementadas:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. COMPETÊNCIA. ART. 114, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. ELEIÇÃO DE DIRIGENTE SINDICAL. CAUTELAR. BUSCA E APREENSÃO E BLOQUEIO DE CONTASCORRENTES. AUSÊNCIA DE SENTENÇA DE MÉRITO PROFERIDA NA JUSTIÇA COMUM ANTES DA VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 45/2004. COMPETÊNCIA DA JUSTIÇA DO TRABALHO: PRECEDENTES. ACÓRDÃO RECORRIDO EM DESARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO E RECURSO PROVIDOS” (pág. 1 do documento eletrônico 20).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. ELEIÇÃO SINDICAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTE. MARCO TEMPORAL: EMENDA CONSTITUCIONAL N. 45/2004. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (pág. 1 do documento eletrônico 21).
+    Observa-se que, nos citados julgamentos, esta Corte reconheceu a competência da Justiça do Trabalho e determinou a remessa deste processo ao órgão especializado competente, para que decida como de direito.
+    Por sua vez, o Tribunal Regional do Trabalho da 1ª Região – TRT1 extinguiu os Processos 0011755-56.2014.5.01.0073 e 0100386-86.2017.5.01.0067 ante a constatação da perda do objeto. Eis a ementa dos julgados reclamados:
+    “PERDA DO OBJETO – EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. Desprovido de objeto, tendo em vista que há muito tempo já se consumou o processo eleitoral iniciado em 2004, correta a respeitável sentença que julgou extintos os processos sem resolução de mérito, na forma do artigo 485, IV, do Código de Processo Civil” (pág. 1 do documento eletrônico 18).
+    “PERDA DO OBJETO – EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. Desprovido de objeto, tendo em vista que há muito tempo já se consumou o processo eleitoral iniciado em 2004, correta a respeitável sentença que julgou extintos os processos sem resolução de mérito, na forma do artigo 485, IV, do Código de Processo Civil” (pág. 1 do documento eletrônico 19).
+    Não há, portanto, qualquer autoridade a ser preservada no caso, uma vez que a decisão reclamada trata de questão diversa, qual seja, a possibilidade de extinção do processo sem julgamento de mérito ante a constatação da perda do objeto da ação.
+    Nessa linha, observo que, como consignado por esta Corte, por ocasião do julgamento da Rcl 6.534-AgR/MA, de relatoria do Ministro Celso de Mello,
+    “[...] os atos questionados em qualquer reclamação - nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal - hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal”.
+    Isso porque não se pode ampliar o alcance da reclamação, sob pena de transformá-la em verdadeiro sucedâneo ou substitutivo de recurso, ajuizada diretamente no órgão máximo do Poder Judiciário.
+    Recordo, ademais, que a jurisprudência desta Corte é firme no sentido de que a reclamação não pode ser utilizada como sucedâneo de recurso. Nessa linha, destaco os seguintes julgados da Segunda Turma: Rcl 18.344-AgR/SP, Rel. Min. Gilmar Mendes; Rcl 23.157-AgR, Rel. Min. Celso de Mello; e Rcl 20.713-AgR, Rel. Min. Dias Toffoli.
+    Deixo de condenar o reclamante ao pagamento de honorários porquanto ausente o contraditório.
+    Ressalto, todavia, que eventual interposição de recurso exigirá a intimação do beneficiário da decisão reclamada para que se manifeste sobre o teor do recurso, podendo implicar condenação ao pagamento da verba prevista no art. 85 do CPC à parte sucumbente e da multa prevista no art. 1.021, § 4°, do CPC.
+    No sentido do aqui afirmado, transcrevo a ementa do seguinte julgado:
+    “AGRAVO INTERNO EM RECLAMAÇÃO. DIREITO ADMINISTRATIVO E DO TRABALHO. REMUNERAÇÃO. SÚMULAS VINCULANTES 37 E 42. HONORÁRIOS ADVOCATÍCIOS EM RECLAMAÇÃO. NOVO REGIME PROCESSUAL. CABIMENTO.
+    1. Não viola as Súmulas Vinculantes 37 e 42 decisão que, com base no Decreto nº 41.554/97 e Lei nº 8.898/94, ambos do Estado de São Paulo, garante a empregada pública cedida da Fundação Municipal de Ensino Superior de Marília para a Faculdade de Medicina de Marília – FAMENA o percebimento de remuneração conforme índices estabelecidos pelo Conselho de Reitores das Universidades Estaduais de São Paulo – CRUESP. Precedentes.
+    2. O CPC/2015 promoveu modificação essencial no procedimento da reclamação, ao instituir o contraditório prévio à decisão final (art. 989, III). Neste novo cenário, a observância do princípio da causalidade viabiliza a condenação da sucumbente na reclamação ao pagamento dos respectivos honorários, devendo o respectivo cumprimento da condenação ser realizado nos autos do processo de origem, quando se tratar de impugnação de decisão judicial.
+    3. Agravo interno a que se nega provimento” (grifei; Rcl 24.417-AgR/SP, Rel. Min. Roberto Barroso).
+    Isso posto, nego seguimento a esta reclamação. Fica prejudicada, por conseguinte, a apreciação do pedido de medida liminar.
+    O reclamante, em caso de eventual interposição de recurso, deverá indicar as informações necessárias à citação da beneficiária da decisão impugnada (art. 319, II, combinado com o art. 989, III, do Código de Processo Civil CPC).
+    Publique-se.
+    Brasília, 28 de fevereiro de 2018.
+Ministro Ricardo Lewandowski
+Relator
