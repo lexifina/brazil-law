@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Agravo contra decisão da instância de origem que não admitiu Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, que possui a seguinte ementa (fl. 153, Vol. 5):
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORES PÚBLICOS. EXONERAÇÃO EM CUMPRIMENTO DE DECISÃO PROFERIDA EM SEDE DE AÇÃO DIRETA DE INCONSTITUCIONALIDADE. NECESSIDADE DE OBSERVÂNCIA DOS COMANDOS CONTIDOS NA LEI COMPLEMENTAR ESTADUAL 303/2005 E NO INCISO LV DA CARTA FEDERAL. GARANTIAS DO CONTRADITÓRIO E DA AMPLA DEFESA, NO CASO CONCRETO, INDEVIDAMENTE MITIGADAS. NECESSIDADE DE DILAÇÃO PROBATÓRIA E DO ENFRENTAMENTO FUNDAMENTADO DAS TESES LANÇADAS PELA DEFESA, ASSEGURANDO-SE AMPLO ACESSO AOS RECURSOS EVENTUALMENTE CABÍVEIS EM FACE DA DECISÃO PROLATADA. SEGURANÇA CONCEDIDA. PRECEDENTES.”
+    A parte recorrente sustenta, com fulcro no artigo 102, III, “a”, da Constituição Federal, violação ao artigo 102, §2º, da Carta Magna.
+    A decisão agravada entendeu que incide, no caso, o óbice da Súmula 282/STF.
+    No agravo, a parte agravante sustenta, em síntese, que o dispositivo constitucional foi prequestionado.
+    É o relatório. Decido.
+    O Tribunal de origem, ao analisar a controvérsia assim se manifestou nos autos (fl. 159, vol. 3):
+    “Não menos importante, sob minha ótica para caracteriza a ilegalidade do ato atacado sob prisma distinto, é que, de acordo com a leitura da defesa do servidores apresentada no âmbito administrativo (fls. 313/385 e 569/608), nenhum dos argumentos postos nas manifestações destes foi examinado pela autoridade impetrada, o que realça a transgressão aos princípios constitucionais acima ventilados, pois, ao julgar a ADI n° 2433, o STF não sinalizou que houvesse o desligamento automático dos servidores, mas limitou-se a declarar a inconstitucionalidade dos parágrafos 3°, 4o e 6o do art. 231 da LC n° 165/1999-RN, devendo as consequências jurídicas do julgado ser aquilatadas a partir da análise de cada caso.”
+    Assim, verifica-se que o Tribunal de origem não divergiu do entendimento firmado pelo Plenário desta CORTE, quando do julgamento do RE 594.296-RG (Rel. Min. DIAS TOFFOLI, Tema 138, DJe de 13/2/2012), no sentido de que “Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já tiverem decorrido efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo”. O julgado recebeu a seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA. 1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo. 2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa. 3. Recurso extraordinário a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 1º de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
