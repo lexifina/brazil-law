@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. AÇÃO COLETIVA. SERVIDOR PÚBLICO. APOSENTADORIA. PENSÃO. ARTIGO 15 DA LEI Nº 10.887/2004. LEI Nº 11.784/2008. REAJUSTE DE BENEFÍCIOS NA MESMA DATA E PELOS MESMOS ÍNDICES DO RGPS. SENTENÇA. EFEITOS.
+    1. As aposentadorias e pensões do regime próprio, concedidas com fundamento no artigo 40, §§ 3º e 4º, da Constituição Federal, com a redação determinada pela Emenda Constitucional n.º 41/2003, e no artigo 2º da Emenda Constitucional n.º 41/2003, sem garantia de paridade, devem ser corrigidas na mesma data e pelos mesmos índices de reajuste dos benefícios do Regime Geral da Previdência Social - RGPS, nos termos do artigo 15 da Lei n.º 10.887/2004, com a redação determinada pela Lei n.º 11.784/2008.
+    2. A decisão oriunda de ação coletiva, manejada por sindicato, gera efeitos para todos os servidores da categoria profissional por ele representada, não estando restrita aos filiados na data da propositura da ação, porquanto se trata de substituição processual, constitucionalmente regrada.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 40, § 8º; 61; 169, e 195, todos da Constituição.
+      O recurso não deve ser provido, tendo em vista que a decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência do Plenário do Supremo Tribunal Federal, no julgamento do MS 25.871, Rel. Min. Cezar Peluso, firmou entendimento no sentido de que é cabível o reajuste dos benefícios previdenciários dos servidores públicos segundo o mesmo índice do reajuste dos benefícios do regime geral de previdência social, antes do advento da Lei nº 11.784/2008. Veja-se a ementa do julgado:
+    “1. MANDADO DE SEGURANÇA. Legitimidade. Passiva. Tribunal de Contas da União –TCU. Caracterização. Servidor público aposentado desse órgão. Proventos. Pedido de ordem para reajuste e pagamento. Verba devida pelo Tribunal a que está vinculado o funcionário aposentado. Efeito jurídico eventual de sentença favorável que recai sobre o TCU. Aplicação do art. 185, § 1º, da Lei Federal nº 8.112/90. Preliminar repelida. O Tribunal de Contas da União é parte passiva legítima em mandado de segurança para obtenção de reajuste de proventos de servidor seu que se aposentou.
+    2. SERVIDOR PÚBLICO. Funcionário aposentado. Proventos. Reajuste ou reajustamento anual. Exercício de 2005. Índice. Falta de definição pelo TCU. Adoção do índice aplicado aos benefícios do RGPS. Direito líquido e certo ao reajuste. MS concedido para assegurá-lo. Aplicação do art. 40, § 8º, da CF, cc. art. 9º da Lei nº 9.717/98, e art. 65, § único, da Orientação Normativa nº 3 de 2004, do Ministério da Previdência Social. Inteligência do art. 15 da Lei nº 10.887/2004. Servidor aposentado do Tribunal de Contas da União tem direito líquido e certo a reajuste dos proventos na ordem de 5,405%, no exercício de 2005.
+    3. Desse entendimento não divergiu o acórdão proferido pelo Tribunal de origem, motivo pelo qual deve ser mantida tal decisão.
+    Nessa linha, confiram-se: RE 630.469-AgR, rel. Min Dias Toffoli; RE 856.615, Rel.ª Min.ª Cármen Lúcia; RE 778.871, Rel. Min. Luiz Fux.
+    Dessa orientação não divergiu o acórdão recorrido.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 1º de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
