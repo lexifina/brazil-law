@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRECLUSÃO. ERRO MATERIAL NÃO CARACTERIZADO.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A apontada afronta dos arts. 502, 505, I, 535, IV, 948, 950, 1022 e 1036 do CPC/2015; 27 e 28 da Lei 9868/1999 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Não caracteriza contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 535 do Código de Processo Civil, visto que é possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante.
+4. No caso dos autos, o Tribunal de origem entendeu que a reivindicação quanto ao excesso de execução está preclusa, porquanto não se trata de erro material, passível de correção. É o que se depreende do seguinte excerto do acórdão recorrido (fls. 620-621, e-STJ): "Ocorre que o excesso de execução - no caso a limitação temporal - é matéria de defesa do executado e não de ordem pública. Com efeito, o excesso deveria ter sido suscitado no momento oportuno, providência essa que a embargante não adotou. (..) Nesse momento, não sendo a caso de erro material, em respeito ao princípio da segurança jurídica, a conta não pode ser modificada no que tange aos seus critérios e elementos não oportunamente impugnados".
+5. Com efeito, nos termos da jurisprudência do STJ, erro material, alterável a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo. Assim, quanto aos artigos de lei apontados, quais sejam, art. 917, III, do CPC/2015 e art. 1º-E da Lei nº 9.494/1997, não merece provimento o apelo, porque, no caso dos autos, eventual existência de excesso de execução não decorre de erro material nos cálculos apresentados, não podendo ser corrigido a qualquer momento.
+6. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, II, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRECLUSÃO.
+O excesso de execução - no caso a limitação temporal - é matéria de defesa do executado e não de ordem pública. Com efeito, o excesso deveria ter sido suscitado no momento oportuno, providência essa que a embargante não adotou.
+Os Embargos de Declaração opostos foram parcialmente providos apenas para fins de prequestionamento (fls. 644-649, e-STJ).
+A recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 502, 505, I, 535, IV, 917, III, 948, 950, 1022 e 1036 do CPC/2015; 27 e 28 da Lei 9868/1999 e 1º-F da Lei 9.494/1997.
+Alega:
+Assim, o art. 1º -F da Lei nº 9.494/99 não foi objeto de pronunciamento expresso do Egrégio STF quanto à sua constitucionalidade, na parte em que rege a correção monetária das condenações impostas à Fazenda Pública até a expedição do requisitório, razão pela qual continua em vigor.
+Entretanto, com a devida vênia, em que pese o teor da decisão proferida no recurso aclaratório, não restou efetivamente apreciada a matéria em confronto com os dispositivos violados. (fl. 686, e-STJ)
+Contrarrazões apresentadas às fls. 731-750, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 10.1.2018.
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Ademais, verifica-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição. Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+A apontada afronta dos arts. 502, 505, I, 535, IV, 948, 950, 1022 e 1036 do CPC/2015; 27 e 28 da lei 9868/1999, não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Não caracteriza contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1022 do Código de Processo Civil, visto que é possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante.
+Por fim, no caso dos autos, o Tribunal de origem entendeu que a reivindicação quanto ao excesso de execução está preclusa, porquanto não se trata de erro material, passível de correção. É o que se depreende do seguinte excerto do acórdão recorrido (fls. 620-621, e-STJ):
+Ocorre que o excesso de execução - no caso a limitação temporal - é matéria de defesa do executado e não de ordem pública. Com efeito, o excesso deveria ter sido suscitado no momento oportuno, providência essa que a embargante não adotou.
+(..)
+Nesse momento, não sendo a caso de erro material, em respeito ao princípio da segurança jurídica, a conta não pode ser modificada no que tange aos seus critérios e elementos não oportunamente impugnados.
+Com efeito, nos termos da jurisprudência desta Corte, erro material, passível de alteração a qualquer tempo, é aquele derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO. INOBSERVÂNCIA DO ART. 20, § 3º, DO CPC. TRÂNSITO EM JULGADO. VÍCIO DE NATUREZA RESCISÓRIA. DESCABIMENTO DA QUERELA NULLITATIS. ERRO MATERIAL. NÃO CONFIGURAÇÃO. COISA JULGADA INCONSTITUCIONAL. DESCARACTERIZAÇÃO.
+1. É possível, de modo excepcional, o controle de nulidades processuais, sobretudo as de natureza absoluta, após o trânsito em julgado da decisão por meio de impugnações autônomas, como embargos à execução, ação anulatória (querela nullitatis) e ação rescisória, cabíveis conforme o grau de nulidade no processo originário.
+2. A querela nullitatis é instrumento utilizado para impugnar sentença contaminada pelos vícios mais graves de erros de atividade (errores in procedendo), nominados de vícios transrescisórios, que tornam o ato judicial inexistente, não se sanando com o transcurso do tempo.
+3. Se a insurgência é contra a parte da sentença que fixou a base de cálculo dos honorários advocatícios sem observar os ditames do art.
+20, § 3º, do CPC, o vício é de caráter rescisório, de modo que o instrumento processual adequado é a ação rescisória, apta a discutir a existência de violação literal de dispositivo de lei.
+4. O equívoco no arbitramento da verba honorária não é considerado erro material, pois somente os desacertos numéricos cometidos quando da elaboração da conta caracterizam esse vício. Logo, os critérios de cálculo utilizados quanto aos honorários advocatícios estão protegidos pela coisa julgada. A ausência de impugnação tempestiva da base de cálculo fixada atrai a aplicação do brocardo jurídico dormientibus non sucurrit jus (o direito não socorre aos que dormem). Precedentes.
+5. Não havendo vício transrescisório ou eventual coisa julgada inconstitucional, mas vício rescisório, descabida é a querela nullitatis.
+6. Agravo regimental não provido.
+(AgRg no REsp 1.524.632/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 3/9/2015, DJe 11/9/2015)
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA.
+1. Pretende a agravante, após o pagamento do precatório, executar um período inicialmente não executado, a saber, de 25/04/88 a 31/10/93.
+2. De acordo com o acórdão recorrido, a segunda execução iniciou-se em 25.11.2005, mais de cinco anos após o trânsito em julgado da sentença que homologou os cálculos e extinguiu o feito, em 28.3.2000.
+3. Não se trata de erro material, pois este é passível de alteração a qualquer tempo, quando derivado de simples cálculo aritmético, ou inexatidão material, e não decorrente de elementos ou critérios de cálculo. Na hipótese trata-se de prescrição da pretensão executiva em relação a parcelas até então não executadas e que estão sendo somente agora pretendidas pela exequente.
+4. O art. 103 da Lei 8.213/91 não se aplica ao caso dos autos, pois se trata de prazo decadencial para o direito de revisão de benefício, e não de prescrição da execução.
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1.490.890/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/3/2015, DJe 25/3/2015)
+PROCESSUAL CIVIL. TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. CRITÉRIO DE CORREÇÃO MONETÁRIA. OBSERVÂNCIA DA COISA JULGADA. NECESSIDADE. INPC. ÍNDICE REJEITADO PELO TÍTULO JUDICIAL. SÚMULA 7/STJ.
+1. A agravante aduz que a compensação tributária realizada na esfera administrativa foi efetuada de forma correta, porquanto devida a incidência do INPC como forma de atualização do indébito tributário.
+2. O Tribunal de origem, fazendo análise detalhada do iter processual alcançado pela recorrente na Ação Ordinária 1994.0006963-4, inclusive quanto ao alcance obtido com o provimento dos Embargos de Divergência 101782/CE perante o STJ, deixou consignado que a contribuinte não obteve provimento jurisdicional que legitimasse a incidência do apontado índice - INPC - nos cálculos da sistemática repetitória, cabendo à empresa contribuinte a observância estrita dos limites da coisa julgada.
+3. Consignou o Tribunal que a sentença teria expressamente rechaçada a incidência do INPC, sendo que o improvimento do recurso de apelação manteve incólume o entendimento sentencial. Concluiu ainda aquela Corte que o provimento exarado no STJ limitou-se à questão dos expurgos inflacionários, sem nada declarar sobre INPC.
+4. A coisa julgada se sobrepõe a qualquer aspecto legal atinente à correção monetária, cabendo a observância do título judicial ainda que contrário ao comando legal que rege a matéria atinente aos consectários legais. Precedentes.
+5. O acórdão proferido por Tribunal ad quem tem força substitutiva quanto ao anterior pronunciamento tão somente no limite do objeto impugnado.
+6. Neste contexto, a modificação do julgado demandaria reexame do acervo fático existente em outra demanda (Ação Ordinária 1994.0006963-4) para perquirir os exatos contornos da lide e, de consequência, da coisa julgada no referido processo, o que torna a via do recurso especial inadequada, a teor do disposto na Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.349.024/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/11/2014, DJe 3/12/2014)
+Assim, quanto aos artigos de lei apontados, quais sejam, art. 917, III, do CPC/2015 e art. 1º-E da Lei 9.494/97, não merece provimento o apelo, porque, no caso dos autos, eventual existência de excesso de execução não decorre de erro material nos cálculos apresentados, não podendo ser corrigido a qualquer momento.
+Diante do exposto, nego provimento ao Recurso Especial.
+É como voto.
