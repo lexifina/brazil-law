@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. OCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, a teor do disposto no art. 1.022 do CPC/2015.
+2. Hipótese em que, de fato, o então relator, no corpo do relatório do julgado embargado, fez alusão a ação de improbidade administrativa, quando, na verdade, o presente feito versa sobre ação civil pública, que objetiva o ressarcimento de valores ao erário.
+3. Quanto aos demais vícios apontados, as alegações apresentadas manifestam o inconformismo do embargante com o desfecho do recurso anterior, sendo certo que eventual reforma do julgado embargado não condiz com a natureza integrativa dos aclaratórios.
+4. Embargos de declaração acolhidos parcialmente, sem efeitos modificativos, para se consignar que o presente feito diz respeito à ação civil pública ressarcitória.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, de modo a consignar que o presente feito trata-se de ação civil pública ressarcitória, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves e Sérgio Kukina votaram com o Sr. Ministro Relator. Ausente, justificadamente, a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Cuida-se de embargos de declaração opostos por [NOME] contra acórdão que negou provimento ao seu agravo regimental, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. RESSARCIMENTO AO ERÁRIO. PRESCRIÇÃO. MATÉRIA NÃO VENTILADA NO APELO NOBRE. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. PRECEDENTES.
+AGRAVO REGIMENTAL NÃO CONHECIDO, ACOMPANHANDO O RELATOR, MINISTRO OLINDO MENEZES (DES. CONVOCADO DO TRF1).
+O embargante aduz, inicialmente, o equívoco no acórdão recorrido, ao fazer referência ao processo como sendo de improbidade administrativa. Quanto ao mais, sustenta padecer o julgado embargado de omissões e contradições, com relação aos seguintes pontos: a) omissão quanto à aplicabilidade da tese firmada no RE 669.069, segundo a qual "é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil", que deveria ter sido considerada até mesmo de ofício, haja vista o disposto no art. 493 do CPC; b) omissão quanto à Súmula 456 do STF, incorporada no art. 255, § 5º, do RISTJ, e art. 1.034 do CPC, segundo a qual, conhecido o recurso especial, julgar-se-á o processo, "aplicando o direito", isto é, partindo de premissa equivocada, o acórdão embargado entendeu haver "inovação recursal" e "preclusão consumativa", olvidando-se quanto à extensão do efeito devolutivo do recurso especial; c) contradição relativamente ao prequestionamento explícito acerca da prescrição.
+Impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+In casu, verifico que, de fato, o então relator, Min. Olindo Menezes (Convocado), no corpo do relatório do julgado embargado (e-STJ fl. 1414), fez alusão a ação de improbidade administrativa, quando, na verdade, o presente feito versa sobre ação civil pública, objetivando o ressarcimento ao erário da importância de R$ 171.617,81 (cento e setenta e um mil seiscentos e dezessete reais e oitenta e um centavos), atualizados monetariamente, em razão das irregularidades atestadas nas contas da Prefeitura local, quando da gestão do ora embargante no Município de Gouveia/MG, nos exercícios de 1985 e 1986.
+Tal circunstância é hábil a autorizar a retificação do aludido equívoco.
+Com relação aos demais vícios, constato que tais alegações, na realidade, manifestam o inconformismo do recorrente com o desfecho do recurso anterior, sendo certo que eventual reforma do julgado embargado não condiz com a natureza integrativa dos aclaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. 1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional. 2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC. 3. Embargos de declaração rejeitados. (EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 24/02/2016, DJe 04/03/2016)
+Com essas considerações, ACOLHO PARCIALMENTE os embargos de declaração, sem efeitos infringentes, para se consignar que o presente feito diz respeito à ação civil pública de ressarcimento de valores ao erário.
+É como voto.
