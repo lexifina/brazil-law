@@ -1,0 +1,37 @@
+Decisão
+    Trata-se de reclamação, com pedido de liminar, contra decisão da 9ª Vara do Trabalho de João Pessoa, que teria desrespeitado o decidido na ADI 3.395-MC (Rel. Min. CEZAR PELUSO), bem como às ADI 1150 (Rel. Min. MOREIRA ALVES), ADI 2135-MC (Rel. Min. NÉRI DA SILVEIRA, Rel. p/acórdão Min. ELLEN GRACIE).
+    Na inicial, o Município de João Pessoa sustenta que: (a) servidora pública aposentada apresentou demanda trabalhista em face do município, pleiteando o recebimento de depósitos de FGTS, sob a alegação que seu vínculo é o celetista até o momento atual (...) pois a mesma não ocuparia um cargo público, mas sim uma função regida pela CLT (fls. 2) ; (b) a sentença impugnada acolheu os pedidos do reclamante, afastando a incompetência da justiça do trabalho, aduzindo que o vínculo entre as partes se dá até hoje pelo regime Celetista, haja vista que a conversão de regime de celetista para estatutário por força do art. 1º da Lei 6.505/90 e fixando a obrigação de depositar os depósitos do FGTS da servidora do período compreendido entre 12.11.1990 a 05.11.2015 (fls. 2); (c) Cabe à Justiça Comum apreciar a matéria, tendo em vista que o município de João Pessoa, desde 12 de novembro de 1990 adotou o regime estatutário para a administração direta, autárquica e fundacional; e (d) o julgamento da demanda na seara trabalhista contraria a decisão proferida na ADI 3.395/DF, a qual afastou a competência da Justiça Especializada para julgar causas envolvendo vínculo jurídico-administrativo ou estatutário entre o Poder Público e seus servidores. Requer a concessão da liminar, a ser confirmada no julgamento do mérito, para que seja cassada a decisão prolatada no processo 0001309-97.2017.5.13.0026.
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõe o art. 102 da Constituição:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    (...)
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Veja-se também o art. 988, I, III e § 4º, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    (...)
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    (...)
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    O paradigma de confronto invocado é o decidido na ADI 3.395-MC (Rel. Min. CEZAR PELUSO), que reconheceu a incompetência da Justiça Trabalhista para o julgamento das causas envolvendo o Poder Público e seus servidores, vinculados por relação estatutária ou de caráter jurídico-administrativo, realizando interpretação conforme para restringir o alcance do inciso I do art. 114 da Constituição Federal, com redação dada pela EC 45/2004.
+    Na presente hipótese, assiste razão ao reclamante. A sentença impugnada, ao determinar a natureza celetista da relação entre as partes, assentou que (doc. 15, fls. 6 -8):
+    Restou documentalmente comprovado que a parte autora foi contratada pela administração pública municipal em 05 de julho de 1985.
+    Demais disso, é incontroverso o fato de que a reclamante jamais se submeteu a concurso público.
+    Nesse quadro, a transposição automática de regimes - intentada pelo município réu, através da Lei Municipal 6.505/90 - malferiu ao disposto no artigo 37, inciso II, da CF/88, à proporção que importou provimento de cargo público, sem a precedência do concurso. É nula, pois, de, como se pode pleno jure depreender do § 2o do art. 37 da CF.
+    (...)
+    Afigura-se, pois, que a relação contratual mantida pela parte reclamante com o ente estatal se manteve intacta, desde que encetada até a presente data, não tendo sido atingida pelo advento da Lei Municipal n. 6.505/90
+    E, mais, semelhante relação de trabalho, de índole celetista, é plenamente válida teve início antes da vigência da nova ordem constitucional, época em que, consoante entendimento majoritário, era despicienda a realização de certame, para a ocupação de emprego público.
+    Transcrevo, ainda, as razões utilizadas na reclamação trabalhista 0001309-97.2017.5.13.0026 para atrair a competência da Justiça Especializada, as quais justificaram a aplicação do mesmo entendimento no ato aqui impugnado (doc. 7, fls. 1-3):
+    A parte reclamante foi admitida pelo Município de João Pessoa em 05/07/1985 para exercer inicialmente a função de agente administrativo e, posteriormente, passou a ocupar a função de professora, estando, atualmente, aposentada.
+    Sua admissão não se deu mediante aprovação em concurso público, tendo a parte reclamante ingressado nos quadros do Município de João Pessoa por meio da formalização de contrato de trabalho, regulado, obviamente, pelas regras da Consolidação das Leis do Trabalho – CLT.
+    (...)
+    Com a edição da Lei Municipal n. 6.505/90, publicada em 12/11/1990, a parte reclamante deixou de receber corretamente sua remuneração, inclusive os valores relativos ao Fundo de Garantia por Tempo de Serviço – FGTS deixaram de ser depositados, pois, sua função, até então regulada pela CLT, foi convertida indevidamente para o regime estatutário, causando-lhe vários prejuízos.
+    Nota-se, pois, que há norma disciplinando o vínculo entre a Administração pública e seus servidores (Lei Municipal 6.505/90), o que permite concluir, a princípio, pelo caráter estatutário da relação firmada entre as partes aqui envolvidas. Essa premissa é reforçada pelo fato de que a servidora pública, em foco, desde de 2015, encontra-se aposentada pelo Regime Próprio de Previdência Municipal, que é o regime de previdência destinado exclusivamente aos regidos pelo regime jurídico estatutário.
+    Com efeito, acerca das alegações apresentadas, ressalta-se que esta CORTE já se manifestou, por diversas vezes, em casos semelhantes, no sentido de que compete à Justiça comum pronunciar-se sobre a existência, a validade e a eficácia das relações entre servidores e o poder público fundadas em vínculo jurídico-administrativo (Rcl 4.069 MC-AgR, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 10/11/2010). Portanto, não cabe à Justiça Especializada, como ocorreu na decisão impugnada, apreciar a regularidade do vínculo firmado entre o trabalhador e o Poder Público.
+    No mesmo sentido do acima exposto, cita-se as seguintes decisões monocráticas envolvendo casos análogos: Rcl 24.474, Min. DIAS TOFFOLI, DJe de 1º/8/2016; Rcl 23.358, Min. TEORI ZAVASCKI, DJe de 17/3/2016; Rcl 19.035, Min. GILMAR MENDES, DJe de 20/11/2014; Rcl 19.110, Min. LUIX FUX, DJe de 24/11/2014; Rcl 19.035, Min. GILMAR MENDES, DJe de 20/11/2014; Rcl 18.365/MA, Rel. Min. ROBERTO BARROSO, Dje 2/9/2014; Rcl 17.604, Min. CELSO DE MELLO, DJe de 15/8/2014; Rcl 17.682, Min. GILMAR MENDES, DJe de 12/5/2014.
+    Diante do exposto, com base no art. 161, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, JULGO PROCEDENTE o pedido para cassar os atos decisórios proferidos na Justiça do Trabalho e determinar a remessa dos autos à Justiça Comum.
+    Publique-se.
+    Brasília, 2 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
