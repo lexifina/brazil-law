@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98022, de 26 de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8302.30.00 Mercadoria: Trinco de travamento do capô da carroçaria de veículos automóveis de passageiros, com o trilho, sem segredo e sem fechadura por chave, constituído por fecho de aço com mecanismo de abertura comandado por dispositivo de mola, o qual é operado manualmente por mecanismo de alavanca interna da cabine e cabo de aço. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 83.02) e RGI 6 (texto da subposição 8302.30.00) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.022-2018 .pdf]
