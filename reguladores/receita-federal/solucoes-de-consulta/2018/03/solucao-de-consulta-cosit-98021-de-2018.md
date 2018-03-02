@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98021, de 26 de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8708.29.99 Mercadoria: Artefato em aço, próprio para montagem na carroçaria de veículos automóveis de passageiros, utilizado como suporte para fixação da rótula de direção, apresentando dimensões de 250 mm x 50 mm. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (textos da subposição de primeiro nível 8708.2 e de segundo nível 8708.29) e RGC-1 (textos do item 8708.29.9 e do subitem 8708.29.99) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.021-2018 .pdf]
