@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98028, de 26 de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3004.90.29 Mercadoria: Solução salina balanceada, estéril, constituída por cloreto de sódio, cloreto de potássio, cloreto de cálcio, cloreto de magnésio, acetato de sódio e citrato de sódio, hidróxido de sódio e/ou ácido clorídrico (para ajuste de pH), diluídos em água para injeção, de uso restrito a clínicas e hospitais para profilaxia em oftalmologia, indicada para a irrigação dos olhos durante procedimentos cirúrgicos oftalmológicos, acondicionada para venda a retalho em bolsa plástica, de uso único, com 500 ml. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 30.04), RGI 6 (texto da subposição 3004.90) e RGC 1 (texto do item 3004.90.2 e do subitem 3004.90.29) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016.
+.
+[arquivo anexo: SC Cosit nº 98.028-2018 .pdf]
