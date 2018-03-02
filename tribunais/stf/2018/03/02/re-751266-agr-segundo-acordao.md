@@ -1,0 +1,698 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 16
+
+02/03/2018
+
+SEGUNDA TURMA
+
+SEGUNDO AG.REG. NO RECURSO EXTRAORDINÁRIO 751.266 DISTRITO
+FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. EDSON FACHIN
+: MARCUS VINÍCIUS CABRAL FILHO
+: LUCIANE COÊLHO CARVALHO E OUTRO(A/S)
+: DISTRITO FEDERAL
+: PROCURADOR-GERAL DO DISTRITO FEDERAL
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+EM
+RECURSO
+EXTRAORDINÁRIO. INTERPOSIÇÃO EM 18.11.2016. DIREITO
+CONSTITUCIONAL.
+DECLARAÇÃO
+DE
+INCONSTITUCIONALIDADE.
+MODULAÇÃO
+DOS
+EFEITOS.
+VALIDADE. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. SÚMULA
+279 DO STF.
+1. A jurisprudência desta Corte é firme quanto à validade e
+observância da modulação dos efeitos da declaração de
+inconstitucionalidade, nos termos do art. 27 da Lei nº 9.868/1999.
+2. Para divergir do entendimento adotado pelo juízo a quo sobre a
+necessidade de modulação dos efeitos da declaração de
+inconstitucionalidade seria necessária a análise de fatos e provas e da
+legislação infraconstitucional pertinente, o que atrai a incidência da
+Súmula 279 do STF.
+3. Agravo regimental a que se nega provimento, com previsão de
+aplicação da multa prevista no art. 1.021, § 4º, do CPC. Nos termos do
+artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada
+anteriormente, devendo ser observados os §§ 2º e 3º do mesmo
+dispositivo.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em sessão virtual, de 23
+de fevereiro a 1 de março de 2018, sob a Presidência do Senhor Ministro
+Edson Fachin, na conformidade da ata de julgamento e das notas
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562055.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+taquigráficas, por unanimidade de votos, em negar provimento ao agravo
+regimental, com aplicação da multa prevista no art. 1.021, § 4º, do CPC, e
+majorou em ¼ (um quarto) a verba honorária fixada anteriormente, nos
+termos do artigo 85, § 11, CPC, devendo ser observados os §§ 2º e 3º do
+mesmo dispositivo, tudo nos termos do voto do Relator.
+Brasília, 2 de março de 2018.
+Ministro EDSON FACHIN
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562055.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 16
+
+02/03/2018
+
+SEGUNDA TURMA
+
+SEGUNDO AG.REG. NO RECURSO EXTRAORDINÁRIO 751.266 DISTRITO
+FEDERAL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+
+: MIN. EDSON FACHIN
+: MARCUS VINÍCIUS CABRAL FILHO
+: LUCIANE COÊLHO CARVALHO E OUTRO(A/S)
+: DISTRITO FEDERAL
+: PROCURADOR-GERAL DO DISTRITO FEDERAL
+RELATÓRIO
+
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se
+de agravo regimental, interposto em 18.11.2016, em face de decisão
+monocrática em que reconsiderei a decisão agravada para dar
+provimento ao recurso extraordinário, nos seguintes termos (eDOC 19):
+“Trata-se de agravo regimental, interposto em face de
+decisão em que o Min. Ricardo Lewandowski, a quem sucedi na
+relatoria do presente processo, negou seguimento ao recurso
+extraordinário, nos seguintes termos (eDOC 11):
+“Trata-se de recurso extraordinário interposto contra
+acórdão assim ementado:
+‘APELAÇÃO CÍVEL - REEXAME NECESSÁRIO
+- CONSTITUCIONAL - ADMINISTRATIVO CONCURSO PÚBLICO - APROVAÇÃO - TERMO DE
+OPÇÃO - POSSE EM CARGO DIVERSO ILEGALIDADE - RECONDUÇÃO AO CARGO
+ORIGINAL - VIABILIDADE. 1. ‘É inconstitucional toda
+modalidade de provimento que propicie ao servidor
+investir-se, sem prévia aprovação em concurso público
+destinado ao seu provimento, em cargo que não integra a
+carreira na qual anteriormente investido’ - Súmula nº 685
+do c. STF. 2. Aprovado o candidato em concurso público
+para o cargo de Técnico de Administração Pública especialidade Agente Administrativo, nulo é o ato que o
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+nomeou para cargo de Assistente de Educação,
+especialidade Apoio Administrativo da Carreira
+Assistência à Educação do Distrito Federal. O concurso
+público, nos termos da Constituição Federal, é requisito
+essencial à investidura em cargo ou emprego público, de
+acordo com a natureza e a complexidade dos mesmos - art.
+37, inc. II, CF/88. 3. A recepção pela ordem constitucional
+da chamada transposição de um servidor, de um cargo
+público para outro de carreira diversa, está
+definitivamente repelida pelo colendo STF, à vista da
+Constituição Federal de 1988 que, ressalvado
+exclusivamente o provimento derivado mediante promoção
+que pressupõe a integração de ambos os cargos na mesma
+carreira, são inadmissíveis quaisquer outras formas de
+provimento do servidor público, independentemente de
+concurso público, em cargo diverso daquele do qual já seja
+titular a qualquer título. 4. Recursos conhecidos e NÃO
+PROVIDOS. Sentença mantida’ (páginas 23-24 do
+documento eletrônico 4).
+Neste RE, fundado no art. 102, III, a, da Constituição,
+alega-se contrariedade aos arts. 5º, XXXVI; e 37, IV, da
+mesma Carta.
+A Procuradoria-Geral da República manifestou-se
+pelo desprovimento do recurso (páginas 1-4 do
+documento eletrônico 10).
+A pretensão recursal não merece acolhida.
+Consta do voto do Relator do acórdão recorrido:
+‘Como se pode verificar nos autos, o autor fez
+sua inscrição e foi aprovado em concurso para o
+cargo de Técnico de Administração Pública, Edital nº
+1/2004 – SGA/ADM (fls. 38-58). Convocado pela
+Secretaria de Gestão de Recursos Humanos do
+Distrito Federal, tomou conhecimento de que o
+ingresso imediato dar-se-ia àqueles que optassem
+por planos de carreira das Subsecretarias de Saúde
+ou de Educação do Distrito Federal, e o provimento
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+no cargo seria na mesma carreira e mesma
+remuneração. Na mesma reunião, foi ventilada a
+informação de que, caso não fizessem a opção pela
+nova carreira, os candidatos sequer seriam chamados
+para a Secretaria de Gestão Administrativa, razão
+pela qual assinou o termo de opção e tomou posse no
+cargo de Assistente de Educação – Especialidade
+Apoio Administrativo da Carreira de Assistência à
+Educação do Distrito Federal, na Secretaria de
+Educação do DF, em 22 de julho de 2005.
+Cinge-se à lide à validade do aproveitamento
+do autor em cargo diverso daquele para o qual foi
+aprovado em concurso público.
+Como se observa dos documentos colacionados
+aos autos, o aproveitamento do autor em Secretaria
+do Distrito Federal que não aquela para a qual foi
+aprovado teve por fundamento o Decreto nº
+21.688/2000, art. 6º (incisos e parágrafo único) – fl. 73,
+que assim dispõe: (...).
+O artigo acima transcrito foi julgado pelo
+Conselho Especial deste eg. Tribunal, sendo
+declarado inconstitucional, por maioria, restando o
+acórdão assim ementado: (...).
+O efeito ‘ex nunc’ do julgado em referência
+decorreu da excepcionalidade do caso e da
+prevalência do interesse público. Neste particular,
+assim se manifestou o e. Des. Nívio Gonçalves: (...).
+No caso em análise, como bem destacou o
+eminente Des. Waldir Leôncio quando da apreciação
+de matéria idêntica:
+‘Na ponderação do princípio da segurança jurídica
+com o da legalidade, deve predominar este último. O
+Distrito Federal não pode aproveitar-se da própria
+ilegalidade para manter situação inconstitucional a
+pretexto de assegurar o princípio da segurança jurídica.
+De fato, o Tribunal de Contas do Distrito
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+Federal, na decisão nº 5052/2006 proferida no
+processo nº 28836/2006, afirmou a invalidade do
+artigo 6º do Decreto Distrital nº 21.688/00.
+Posteriormente, na Decisão nº 1.366/2007 emprestou
+efeito ‘ex nunc’ à Decisão nº 5.052/2006, reformando
+esta na parte em que recomendava tornar sem efeito
+todas as nomeações feitas com base no referido
+Decreto Distrital.
+Realmente, no caso julgado pelo Tribunal de Contas
+do DF, poderia vislumbrar-se perigo à segurança jurídica,
+pois haveria remanejamento de centenas de servidores.
+Entretanto, no caso em tela, trata-se de apenas um
+servidor. Uma lide. Não se pode indeferir o pedido com
+base na presunção de que todos os outros servidores
+estatutários serão igualmente remanejados, apesar de
+existir a mesma razão jurídica, configurando direito
+individual homogêneo’ (APC 20070111029067, acórdão
+nº 328.045, 2ª Turma Cível).
+Deste modo, e em observância ainda às
+disposições contidas na Súmula nº 685 do c. STF, o
+aproveitamento do autor em cargo diverso daquele
+para o qual prestou concurso público e foi aprovada
+(Edital nº 1/2004 - SGA/ADM - fls. 39-58), baseado
+em decreto declarado inconstitucional, configura
+ilegalidade, a implicar o acolhimento da pretensão
+contida na petição inicial.
+Cabe salientar que o axioma jurídico ‘o edital é
+a lei do concurso’ não é absoluto, deixando de
+prevalecer quando em descompasso com norma
+constitucional ou legal.
+E, ainda, a recepção pela ordem constitucional da
+chamada transposição de um servidor, de um cargo
+público para outro de carreira diversa, está
+definitivamente repelida pelo colendo STF, à vista da
+Constituição Federal de 1988 que, ressalvado
+exclusivamente o provimento derivado mediante promoção
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+que pressupõe a integração de ambos os cargos na mesma
+carreira, são inadmissíveis quaisquer outras formas de
+provimento do servidor público, independentemente de
+concurso público, em cargo diverso daquele do qual já seja
+titular a qualquer título’ (páginas 27-29 do documento
+eletrônico 4 - grifei).
+O acórdão recorrido harmoniza-se com a
+jurisprudência desta Suprema Corte, que assentou a
+impossibilidade da investidura de servidor público em
+cargo de carreira diversa àquela à qual tenha prestado
+concurso público, ressalvado o provimento derivado
+mediante promoção, o que não se dá na espécie. Nesse
+sentido, destaco os seguintes precedentes:
+‘AGRAVO REGIMENTAL NO RECURSO
+EXTRAORDINÁRIO.
+CONSTITUCIONAL
+E
+ADMINISTRATIVO. IMPRESCINDIBILIDADE DE
+CONCURSO PÚBLICO PARA O PROVIMENTO DE
+CARGOS DE CARREIRA DIVERSA. NOMEAÇÃO
+DE CANDIDATO APROVADO. IRREGULARIDADE
+NA CONVOCAÇÃO. SÚMULAS NS. 279 E 454 DO
+SUPREMO TRIBUNAL FEDERAL. PRECEDENTES.
+AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO’ (RE 736.636-AgR/DF, Rel. Min.
+Cármen Lúcia).
+‘EMENTA: I. Concurso público: exigência
+incontornável para que o servidor seja investido em cargo
+de carreira diversa. À vista da Constituição de 1988,
+consolidou-se definitivamente no STF que - ressalvado
+exclusivamente o provimento derivado mediante promoção
+- que pressupõe a integração de ambos os cargos na mesma
+carreira -, são inadmissíveis quaisquer outras formas de
+provimento do servidor público, independentemente de
+concurso público, em cargo diverso daquele do qual já seja
+titular a qualquer título, precedido ou não a nova
+investidura de processo interno de seleção ou habilitação:
+precedentes. II. Direito constitucional intertemporal: caso
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+de direito adquirido inexistente. O provimento de cargo
+público, quando antecedido de qualquer modalidade de
+seleção ou habilitação dos candidatos, é um procedimento,
+que só com o ato final de nomeação ou equivalente gera
+direito à posse; antes - ainda que findo o processo seletivo o provimento e a investidura são objeto, como é curial, de
+mera expectativa de direito: por isso, frustra-as de
+imediato a superveniência de norma constitucional que
+subordine a validade do provimento do cargo a processo
+seletivo diverso, qual o concurso público. Não sendo o
+provimento esperado um efeito jurídico, ainda que futuro,
+da seleção finda sob o regime anterior, sequer será
+necessário cogitar de aplicabilidade imediata ou
+retroatividade mínima da Constituição vigente: esta
+simplesmente regerá os pressupostos de validade do ato de
+provimento a ser praticado na sua vigência: ‘tempus regit
+actum’’ (RE 143.807/SP, Rel. Min. Sepúlveda Pertence
+- grifei).
+Isso posto, nego seguimento ao recurso (art. 21, § 1º,
+do RISTF).”
+Nas razões do agravo, sustenta-se, em suma, a
+possibilidade de modulação dos efeitos da decisão em ação de
+declaração de inconstitucionalidade. Nesse sentido, afirma que
+a legalidade das nomeações ora discutidas foi objeto de
+Representação de Inconstitucionalidade perante o Tribunal de
+Justiça do Distrito Federal e Territórios – TJDFT, que julgou a
+ação procedente com efeitos ex nunc.
+Assevera que “ao desconsiderar a modulação temporal da
+inconstitucionalidade declarada pelo TJDF, o acórdão recorrido violou
+os artigos 5º, caput e inciso XXXVI e 37, IV da CF” (eDOC 13, p.2)
+e aponta precedentes do Supremo em questões idênticas à
+presente na qual entendeu-se pela prevalência da tese
+defendida pelo recorrente.
+A parte agravada, em contrarrazões, discorre acerca da
+ausência de requisitos para o reconhecimento prospectivo da
+declaração de inconstitucionalidade proferida pelo TJDFT e
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+defende a manutenção do ato impugnado. (eDOC 16).
+É o relatório.
+Com razão o agravante. De fato, da análise detida dos
+autos, verifica-se a inadequação da decisão ora impugnada.
+Desse modo, reconsidero a decisão agravada e passo,
+desde já, ao exame do recurso extraordinário.
+Trata-se de recurso extraordinário em que a parte,
+alegando a existência de ofensa aos arts. 5º, caput e XXXVI e 37,
+IV, da Constituição Federal, sustenta que a posse do servidor
+em questão tinha respaldo no art. 6º do Decreto 21.688/00 que,
+posteriormente foi considerado inconstitucional pelo TJDFT
+(ADI 20070020067407).
+Afirma, no entanto, que em homenagem ao princípio da
+segurança jurídica, o TJDFT modulou os efeitos da referida
+decisão de inconstitucionalidade, atribuindo-lhe efeitos ex nunc,
+o que, de acordo com o recorrente, foi desconsiderado pelo
+acórdão a quo.
+Por fim, aponta a impossibilidade de nomeação do
+recorrido no cargo pretendido com efeitos retroativos,
+asseverando que à época da nomeação do servidor, inexistia
+vaga no cargo para o qual concorreu.
+Decido.
+De fato, o Colegiado de origem, quando do julgamento da
+controvérsia, entendeu pela inaplicabilidade, ao caso, da
+modulação dos efeitos da decisão que declarou a
+inconstitucionalidade do Decreto distrital que subsidiou a
+nomeação do recorrido em cargo diverso daquele para o qual
+foi aprovado. Confiram (eDOC 4, p. 27-28):
+“Cinge-se à lide à validade do aproveitamento do
+autor em cargo diverso daquele para o qual foi aprovado
+em concurso público.
+Como se observados documentos colacionados aos
+autos, o aproveitamento do autor em Secretaria do Distrito
+Federal que não aquela para o qual foi aprovado teve por
+fundamento o Decreto n.º 21.688/2000, art. 6º (…)
+O artigo acima transcrito foi julgado inconstitucional
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+pelo Conselho Especial deste eg. Tribunal, sendo
+declarado inconstitucional por maioria, restando o
+acórdão assim ementado:
+‘AÇÃO
+DIRETA
+DE
+INCONSTITUCIONALIDADE
+DECRETO
+21.688/2000 COM REDAÇÃO DADA PELO
+DECRETO 24.109/2003 - ART. 6º , INCISOS E
+PARÁGRAFO ÚNICO QUE DISPÕE SOBRE
+CONCURSO PÚBLICO NA ADMINISTRAÇÃO DO
+DF - VÍCIO MATERIAL - PRELIMINARES
+REJEITADAS.
+01. Em que pese o Decreto prever que a
+nomeação ou admissão para outro cargo dependerá
+do atendimento de alguns requisitos, tais como a
+similitude de atribuições, respeitadas as habilitações
+específicas; o preenchimento das vagas por concurso;
+o respeito ao regime jurídico de regência, entendo
+que tal previsão não se mostra suficiente para
+impedir irregularidades e abusos, configurando
+verdadeiro ‘cheque em branco’ para a Administração
+Pública.
+02. Os editais dos concursos públicos prevêem
+os requisitos gerais e específicos para o
+preenchimento de determinado cargo público, pois
+cada órgão ou entidade possui peculiaridades em
+sua estrutura. Assim, seria possível que um servidor,
+aprovado em um concurso público para determinado
+cargo, fosse nomeado para assumir, em outro órgão,
+cargo com a mesma nomenclatura, mas com
+atribuições diferentes.
+03. Candidatos aprovados para o mesmo
+certame, mas nomeados para órgãos diferentes,
+poderiam receber salários diversos, ou trabalharem
+com cargas horárias desiguais, o que, sem dúvida
+alguma, violaria o Princípio da Isonomia, além de
+gerar o descontentamento por parte dos candidatos
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+não nomeados para cargos mais "vantajosos".
+04. A aprovação no certame público está
+diretamente ligada ao cargo a ser ocupado, não
+podendo, portanto, haver ‘aproveitamento’ ou
+‘transposição’
+de
+servidores,
+ainda
+que
+concursados, para outros cargos, para os quais não
+prestaram concurso público, porquanto o certame
+anterior a eles não se dirigia.
+05. Preliminares rejeitadas. No mérito, julgou-se
+procedente o pedido com efeito ex nunc. Maioria.
+(20070020067407ADI, Relator ROMEU GONZAGA
+NEIVA, Conselho Especial, julgado em 16/09/2008,
+DJ 01/06/2009 p.40) - grifei’
+O efeito ‘ex nunc’ do julgado em referência
+decorreu da excepcionalidade do caso e da prevalência
+do interesse público. (...)” grifei
+Verifica-se, desse modo, que o acórdão impugnado
+encontra-se
+em
+dissonância
+com
+o
+entendimento
+jurisprudencial dessa Corte sobre o tema. Nesse sentido, o
+Supremo Tribunal Federal, no julgamento da ADI 3.601-ED,
+fixou entendimento acerca da validade e observância da
+modulação dos efeitos de decisão que declara a
+inconstitucionalidade de ato normativo, nos termos do disposto
+no art. 27 da Lei 9.868/99. Eis o teor da ementa:
+“EMBARGOS DE DECLARAÇÃO. AÇÃO DIRETA
+DE INCONSTITUCIONALIDADE. LEI DISTRITAL Nº
+3.642/05, QUE ‘DISPÕE SOBRE A COMISSÃO
+PERMANENTE DE DISCIPLINA DA POLÍCIA CIVIL DO
+DISTRITO FEDERAL’. AUSÊNCIA DE PEDIDO
+ANTERIOR. NECESSIDADE DE MODULAÇÃO DOS
+EFEITOS.
+1. O art. 27 da Lei nº 9.868/99 tem fundamento na
+própria Carta Magna e em princípios constitucionais, de
+modo que sua efetiva aplicação, quando presentes os
+seus requisitos, garante a supremacia da Lei Maior.
+Presentes as condições necessárias à modulação dos
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+efeitos da decisão que proclama a inconstitucionalidade
+de determinado ato normativo, esta Suprema Corte tem o
+dever constitucional de, independentemente de pedido
+das partes, aplicar o art. 27 da Lei nº 9.868/99.
+2. Continua a dominar no Brasil a doutrina do
+princípio da nulidade da lei inconstitucional. Caso o
+Tribunal não faça nenhuma ressalva na decisão, reputa-se
+aplicado o efeito retroativo. Entretanto, podem as partes
+trazer o tema em sede de embargos de declaração.
+3. Necessidade de preservação dos atos praticados
+pela Comissão Permanente de Disciplina da Polícia Civil
+do Distrito Federal durante os quatro anos de aplicação da
+lei declarada inconstitucional.
+4. Aplicabilidade, ao caso, da excepcional restrição
+dos efeitos prevista no art. 27 da Lei 9.868/99. Presentes
+não só razões de segurança jurídica, mas também de
+excepcional interesse social (preservação da ordem
+pública e da incolumidade das pessoas e do patrimônio –
+primado da segurança pública), capazes de prevalecer
+sobre o postulado da nulidade da lei inconstitucional.
+5. Embargos declaratórios conhecidos e providos
+para
+esclarecer que a decisão de declaração de
+inconstitucionalidade da Lei distrital nº 3.642/05 tem
+eficácia a partir da data da publicação do acórdão
+embargado.” (grifei) (ADI-ED 3601, Rel. Min. Dias Toffoli,
+DJe 15.12.2010).
+Desse modo, uma vez assentado pelo TJDFT, no
+julgamento da Representação de Inconstitucionalidade n.º
+2007.002.006740-7, os efeitos prospectivos da declaração de
+inconstitucionalidade do Decreto 21.688/00, impõe-se sua
+observância ao caso, de modo a revelar a regularidade do
+aproveitamento do candidato para o cargo de Técnico em
+Saúde, da carreira Assistência à Saúde do Distrito Federal.
+No mesmo sentido da matéria em análise tem-se,
+especificamente: RE 718.452, Rel. Min. Celso de Mello, DJe
+02.04.2013; RE 738.374, Rel. Min. Gilmar Mendes, DJe
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+03.04.2013; RE 761.509, Rel. Min. Celso de Mello, DJe 20.09.2013.
+Ante o exposto, reconsidero a decisão agravada (eDOC 11)
+e, em consequência, julgo prejudicado o agravo regimental e
+dou provimento ao recurso extraordinário, nos termos do art.
+21, §1º, do RISTF.”
+
+Sustenta-se, preliminarmente, a impossibilidade de modulação dos
+efeitos da decisão pelo Tribunal de origem, uma vez que “restou
+consignado no próprio v. acórdão da ADI supra, que haveria ofensa à
+segurança jurídica e interesse público, mas não restou objetivamente
+argumentado em que sentido” (eDOC 21, p. 4). Neste sentido, alega-se
+que a jurisprudência do Supremo apenas admite a modulação dos efeitos
+da declaração de inconstitucionalidade em casos excepcionais, quando se
+coloca em risco a segurança jurídica ou relevante interesse social.
+No mérito, aponta-se ofensa à jurisprudência desta Corte, que não
+autoriza a posse de servidor, sem concurso público, em cargo diverso do
+qual é titular.
+Em contrarrazões, destaca-se a adequação da decisão agravada, haja
+vista o “descumprimento, pelo TJDFT, do comando judicial emergente da
+modulação dos efeitos da inconstitucionalidade proclamada pelo seu
+Conselho Especial” (eDOC 27, p. 2).
+É o relatório.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562056.
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 14 de 16
+
+02/03/2018
+
+SEGUNDA TURMA
+
+SEGUNDO AG.REG. NO RECURSO EXTRAORDINÁRIO 751.266 DISTRITO
+FEDERAL
+VOTO
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): As razões
+recursais são insuficientes para infirmar a conclusão da decisão agravada.
+Com efeito, o Tribunal de origem entendeu ser inaplicável ao
+presente caso a modulação dos efeitos da declaração de
+inconstitucionalidade do Decreto distrital que fundamentou a nomeação
+do agravado em cargo diverso daquele ao qual foi aprovado.
+Desta forma, a despeito do que afirma o agravante sobre a
+impossibilidade de nomeação de candidato para cargo diverso daquele
+para o qual foi aprovado, a controvérsia aqui tratada cinge-se à
+possibilidade, ou não, de modulação dos efeitos da declaração de
+inconstitucionalidade da norma em exame.
+Sendo assim, conforme registrado na decisão agravada, a
+jurisprudência desta Corte é firme quanto à validade e observância da
+modulação dos efeitos da declaração de inconstitucionalidade, nos termos
+do art. 27 da Lei nº 9.868/199.
+Confira-se, a propósito, o seguinte precedente:
+“RECURSO EXTRAORDINÁRIO – EMBARGOS DE
+DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO
+– DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA
+PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL –
+CONSEQUENTE INVIABILIDADE DO RECURSO QUE A
+IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE
+DÃO SUPORTE À DECISÃO RECORRIDA – RECURSO DE
+AGRAVO IMPROVIDO.”
+(RE 766162 ED, Relator(a): Min. CELSO DE MELLO, Segunda
+Turma, julgado em 25/03/2014, PROCESSO ELETRÔNICO DJe073 DIVULG 11-04-2014 PUBLIC 14-04-2014)
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562057.
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 15 de 16
+
+RE 751266 AGR-SEGUNDO / DF
+Ressalta-se que para divergir do entendimento adotado pelo juízo a
+quo sobre a necessidade de modulação dos efeitos da declaração de
+inconstitucionalidade seria necessária a análise de fatos e provas e da
+legislação infraconstitucional pertinente, o que atrai a incidência da
+Súmula 279 do STF.
+Ante o exposto, voto pelo não provimento do presente agravo
+regimental, bem como, diante da manifesta improcedência do agravo, nos
+termos da fundamentação acima declinada, por aplicar à parte agravante
+multa de 5% (cinco por cento) sobre o valor da causa, nos termos do art.
+1.021, § 4º, do CPC, em face de decisão desta Turma na hipótese de
+deliberação unânime, condicionando-se a interposição de qualquer outro
+recurso ao depósito prévio da quantia fixada, observado o disposto no
+art. 1.021, § 5º, do CPC.
+Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a
+verba honorária fixada anteriormente, devendo ser observados os §§ 2º e
+3º do mesmo dispositivo.
+É como voto.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 14562057.
+
+Supremo Tribunal Federal
+Extrato de Ata - 02/03/2018
+
+Inteiro Teor do Acórdão - Página 16 de 16
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+SEGUNDO AG.REG. NO RECURSO EXTRAORDINÁRIO 751.266
+PROCED. : DISTRITO FEDERAL
+RELATOR : MIN. EDSON FACHIN
+AGTE.(S) : MARCUS VINÍCIUS CABRAL FILHO
+ADV.(A/S) : LUCIANE COÊLHO CARVALHO (0021550/DF) E OUTRO(A/S)
+AGDO.(A/S) : DISTRITO FEDERAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO DISTRITO FEDERAL
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, com aplicação da multa prevista no art. 1.021, § 4º,
+do CPC, e majorou em ¼ (um quarto) a verba honorária fixada
+anteriormente, nos termos do artigo 85, § 11, CPC, devendo ser
+observados os §§ 2º e 3º do mesmo dispositivo, tudo nos termos do
+voto do Relator. Segunda Turma, Sessão Virtual de 23.2.2018 a
+1.3.2018.
+Composição: Ministros Edson Fachin (Presidente), Celso de
+Mello, Gilmar Mendes, Ricardo Lewandowski e Dias Toffoli.
+Disponibilizou processos para esta sessão o Ministro Alexandre
+de Moraes, não tendo participado do julgamento desses feitos o
+Ministro Edson Fachin por suceder, na Segunda Turma, o Ministro
+Teori Zavascki.
+Ravena Siqueira
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 14502643
