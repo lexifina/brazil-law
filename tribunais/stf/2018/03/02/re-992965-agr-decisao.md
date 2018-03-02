@@ -1,0 +1,15 @@
+Trata-se de agravo regimental interposto contra decisão por mim proferida, que aplicou a sistemática da repercussão geral, com base no Tema 409.
+    No presente agravo regimental, sustenta-se, em síntese, a impossibilidade de devolução dos autos à origem, para aplicação do art. 1.036 do CPC.
+    É o relatório necessário. Decido.
+    Bem reexaminados os autos, verifico assistir parcial razão à parte agravante, razão pela qual passo a examinar o recurso extraordinário interposto.
+    O acórdão recorrido está em consonância com a orientação firmada pelo Supremo Tribunal Federal, no julgamento do RE 662.406-RG (Tema 664 da repercussão geral), de que, nas gratificações de desempenho, o termo final do direito à paridade remuneratória entre servidores ativos e inativos corresponde à data de homologação do resultado referente ao primeiro ciclo de avaliações. Por oportuno, destaco o teor da tese jurídica então fixada:
+    “O termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliações, não podendo a Administração retroagir os efeitos financeiros a data anterior”.
+    De seu turno, o aresto combatido assim consignou:
+    “Conforme já decidiu o c. STF, o que não é lícito à Administração é atribuir indistintamente, quando do pagamento das gratificações de desempenho, a mesma pontuação a todos os servidores, independentemente da realização das avaliações previstas na legislação e nas normas regulamentares. Havendo efetiva avaliação, a concessão da gratificação aos inativos/pensionistas deve respeitar a pontuação prevista na lei” (grifei).
+    Nesse quadro, a apreciação da tese recursal esbarra no óbice previsto na Súmula 279/STF, pela sua análise demandar o reexame de fatos e provas nos quais se baseou o acórdão recorrido. Confira-se:
+    “Agravo regimental no recurso extraordinário. Administrativo. Servidor público inativo. Gratificação de Desempenho do Plano Geral de Cargos do Poder Executivo (GDPGPE). Paridade. Limitação temporal. Primeira avaliação de desempenho. Pagamento de forma integral e indistinta. Fatos e provas. Análise. Impossibilidade. Precedentes. 1. A jurisprudência firmada na Corte é no sentido de que o direito à paridade dos servidores inativos com os servidores em atividade, no tocante a gratificações como a em análise, ocorre somente até que sejam processados os resultados das primeiras avaliações de desempenho. 2. Não se presta o recurso extraordinário para a análise do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do Código de Processo Civil, pois não houve a condenação dos agravantes em honorários advocatícios.” (RE 999.704-AgR, Rel. Min. Dias Toffoli, Segunda Turma).
+    Isso posto, reconsidero a decisão agravada, tornando-a sem efeito, e nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 2 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
