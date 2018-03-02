@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98020, de 26 de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8708.30.90 Mercadoria: Parte de freio hidráulico para veículos automóveis de passageiros, constituída pela junção do cilindro mestre (atuador), em alumínio, reservatório de vácuo, em aço, e reservatório do fluido, em plástico, cuja função é realizar a distribuição do fluido hidráulico no sistema de freio a partir do acionamento do pedal. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08), RGI 6 (texto da subposição 8708.30) e RGC-1 (texto do item 8708.30.90) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.020-2018 .pdf]
