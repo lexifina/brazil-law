@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98019, de 26 de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8708.93.00 Mercadoria: Cilindro mestre de acionamento de embreagem hidráulica de veículos automóveis de passageiros, constituído por um cilindro metálico contendo o mecanismo interno de pistão, com a função de realizar a pressurização do fluido hidráulico a partir do acionamento do pedal pelo condutor. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 87.08) e RGI 6 (textos da subposição de primeiro nível 8708.9 e de segundo nível 8708.93.00) da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.019-2018 .pdf]
