@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “AÇÃO DE INDENIZAÇÃO – PROCESSO DISCIPLINAR PERANTE O TRIBUNAL DE ÉTICA DA OAB – SIGILO – ART. 72, § 2°, DA LEI 8.906/94 – VIOLÊNCIA – INOCORRÊNCIA – DANO MORAL – INEXISTÊNCIA – AUSENTE DEVER DE INDENIZAR. Não restando comprovado qualquer dano moral, decorrente dos fatos alegados, impossível a indenização” (pág. 21 do documento eletrônico 5).
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação aos arts. 5°, X, e 133 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, apoiado no acervo probatório dos autos, rejeitou pedido de indenização por danos morais, tendo em vista a ausência de demonstração da efetiva ocorrência do dano alegado.
+    Assim, para divergir desse entendimento e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco julgados de ambas as Turmas desta Corte:
+    “Ementa: Agravo regimental no agravo de instrumento. Negativa de prestação jurisdicional. Não ocorrência. Ofensa reflexa. Danos morais. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas da causa. Incidência da Súmula nº 279 /STF. 4. Agravo regimental não provido” (AI 852.486-AgR/RJ, Rel. Min. Dias Toffoli, Primeira Turma”.
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARACTERIZAÇÃO DE DANO MORAL INDENIZÁVEL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. II – Agravo regimental improvido” (ARE 728.061-AgR/MS, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
