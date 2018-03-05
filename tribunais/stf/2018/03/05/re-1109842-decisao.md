@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. OFENSA AO ART. 97 DA CONSTITUIÇÃO FEDERAL E À SÚMULA VINCULANTE 10/STF. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. CONTRATAÇÃO TEMPORÁRIA. ESTABILIDADE. APLICAÇÃO DO PRINCÍPIO DA SEGURANÇA JURÍDICA. IMPOSSIBILIDADE. SÚMULA VINCULANTE 43/STF. CONVALIDAÇÃO, PELO TEMPO, DE SITUAÇÃO MANIFESTAMENTE INCONSTITUCIONAL. IMPOSSIBILIDADE.
+    1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 2 do Plenário do STJ.
+    2. A alegação genérica de afronta ao art. 97 da Constituição Federal e à Súmula Vinculante 10/STF caracteriza deficiência de fundamentação, uma vez que não permite a exata compreensão da controvérsia e impede o conhecimento do agravo interno, neste ponto. Aplica-se à hipótese a Súmula 284/STF.
+    3. É firme o entendimento do STJ no sentido de que "as contratações temporárias, celebradas pela Administração Pública, na vigência da Constituição da República, ostentam caráter precário, submetendo-se à regra insculpida no art. 37, IX, da CR/88, conforme jurisprudência pacífica desta Corte" (AgInt no RMS 43.658/PA, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/3/2017).
+    4. Na "forma da jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, situações flagrantemente inconstitucionais - como o provimento de cargo público efetivo, sem a devida submissão a concurso público -, não podem e não devem ser superadas pelo eventual decurso do tempo (STF, MS 28.279/DF, Rel. Ministra ELLEN GRACIE, TRIBUNAL PLENO, DJe de 28/04/2010; STJ, REsp 1.293.378/RN, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 05/03/2013)" (AgRg no AgRg no REsp 1.366.545/MT, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 02/10/2015).
+    5. Agravo interno parcialmente conhecido e, nessa parte, não provido.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal.
+     O recurso extraordinário não deve ser admitido, uma vez que o acórdão recorrido está alinhado à jurisprudência do Supremo Tribunal Federal que assentou que, após a promulgação da Constituição Federal de 1988, é indispensável a prévia aprovação em concurso público para a investidura em cargo ou emprego público.
+    Ademais, divergir do entendimento do Tribunal de origem acerca do não preenchimento, pelos ora recorrentes, dos requisitos necessários a concessão da estabilidade especial ou excepcional previstos no art. 19 do ADCT exigiria a análise dos fatos e provas colacionados aos autos, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 05 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
