@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 5ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul, assim fundamentado (eDOC 29, p. 1):
+    “No mérito, a matéria já foi julgada por esta Turma Recursal, após a uniformização pela TRU no sentido de que a atividade desenvolvida é de estudo e pesquisa (5026530-56.2014.404.7100), nos autos do RECURSO CÍVEL Nº5010531- 92.2016.404.7100/RS, de Relatoria do Juiz Federal Guilherme Maines Caon, de modo que adiro às razões lançadas no aludido julgamento, que ora são adotadas como fundamentos de decidir:
+    Relativamente à exigibilidade de contribuição previdenciária, as verbas recebidas a título de bolsa de extensão não têm natureza salarial, não se incorporando aos proventos de aposentadoria.
+    Com efeito, conforme pontuado na tese uniformizada, as bolsas de estudo e de pesquisa são caracterizadas como doação. Desse modo, não sofrem incidência de contribuição.
+    Considerando que o entendimento adotado se mostra compatível com a linha jurisprudencial uniformizada pela Regional, a sentença merece ser confirmada por seus próprios fundamentos (art. 46 da Lei 9.099/1995.”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos artigos 2º; 5º, II; 150, § 6º; 195, I, “a”, da Constituição Federal.
+    Articula com a impossibilidade de o Judiciário conceder isenções não previstas em lei e com a incapacidade de interpretação extensiva referente a normas tributárias, “concessivas de isenção, total ou parcial, redutoras de alíquota, concessivas de regime especial e outras quaisquer que reduzam a incidência tributária” (eDOC 32, p. 5).
+    A Presidência das TRs do Rio Grande do Sul inadmitiu o recurso extraordinário pela ausência de violação direta e frontal à Constituição (eDOC 37).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observa-se que os artigos constitucionais apontados como violados carecem do necessário prequestionamento. Esta Corte tem consignado ser inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo ato recorrido. Incide, portanto, a Súmula 282 do Supremo Tribunal Federal.
+    Ademais, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional, notadamente a Lei nº 9.250/1995 e a Lei 8.212/1991. Sendo assim, a discussão referente à possibilidade de isenção das contribuições previdenciárias sobre valores concedidos à bolsa de extensão, recebidos pelos professores preceptores de residência médica, bem como a análise da natureza jurídica da verba, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    Neste sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. ISENÇÃO. LEI N. 9.250/1995 E DECRETO N. 3.000/1999. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. LIMITES OBJETIVOS DA COISA JULGADA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 884781 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 03.08.2015)
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE A RENDA E PROVENTOS DE QUALQUER NATUREZA. ISENÇÃO. ALEGADA EXTENSÃO DE BENEFÍCIO POR FORÇA DO PRINCÍPIO DA ISONOMIA. VIOLAÇÃO DA REGRA DA LEGALIDADE EM VIRTUDE DE FALTA DE AUTORIZAÇÃO EXPRESSA PARA BENEFICIAR A SITUAÇÃO ESPECÍFICA TRATADA NOS AUTOS. MATÉRIA INFRACONSTITUCIONAL. VIOLÊNCIA REFLEXA OU INDIRETA. Da forma como postas as razões recursais, a discussão sobre o alcance de isenção tributária a ex-funcionário da Companhia Estadual de Energia Elétrica CEEE tem alçada infraconstitucional, de modo que eventual violação constitucional seria indireta ou reflexa (Súmula 636/STF). Agravo regimental ao qual se nega provimento.” (RE 603.170-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 25.10.2011)
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 5 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
