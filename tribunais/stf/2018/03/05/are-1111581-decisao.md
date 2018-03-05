@@ -1,0 +1,15 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu o recurso extraordinário.
+    Decido.
+    Compulsando os autos, verifica-se que não foi observado o prazo de 15 (quinze) dias úteis (art. 219 do CPC/15) para a interposição do agravo, conforme estabelece o artigo 1.003 do Código de Processo Civil de 2015.
+    Anote-se que a decisão que não admitiu o recurso extraordinário foi publicada no dia 12 de dezembro de 2016, segunda-feira. A petição de agravo, todavia, foi protocolada somente em 6 de fevereiro de 2017, segunda-feira, após o término do prazo. É, portanto, intempestivo.
+    Ressalte-se que o novo Código de Processo Civil determina que “o recorrente deverá comprovar a ocorrência de feriado local no ato de interposição do recurso” (art. 1.003, § 6º - grifei), o que não ocorreu no caso. No mesmo sentido, anotem-se:
+    “Agravo regimental no recurso extraordinário com agravo. Intempestividade. 1. O agravante não observou o prazo de 15 (quinze) dias úteis para a interposição do agravo manejado contra a decisão de inadmissão do recurso extraordinário, segundo dispõe o § 5º do art. 1.003 do Código de Processo Civil. 2. O art. 1.003, § 6°, do Novo CPC determina que [o] recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais em favor do recorrido pela Corte de origem.” (ARE 1.033.168/RJ-AgR, Segunda Turma, de minha relatoria, DJe de 18/9/17)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL INTEMPESTIVIDADE DO RECURSO EXTRAORDINÁRIO. FERIADO LOCAL. MAJORAÇÃO DE HONORÁRIOS. AGRAVO A QUE SE NEGA PROVIMENTO COM APLICAÇÃO DE MULTA. I – Intempestividade do recurso extraordinário, pois segundo a jurisprudência desta Corte, incumbe ao recorrente comprovar, no momento da interposição do recurso, a ocorrência de feriado local ou de suspensão de prazos processuais pelo Tribunal de origem. II - Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais do art. 85, § 2° e § 3°, do CPC. III – Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4°, do CPC.” (ARE 1.011.686/PE-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 27/4/17).
+    Ante o exposto, não conheço do agravo. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) de seu total, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão do benefício da gratuidade da justiça.
+    Publique-se.
+    Brasília, 5 de março de 2018.
+Ministro Dias Toffoli
+Relator
+           Documento assinado digitalmente
