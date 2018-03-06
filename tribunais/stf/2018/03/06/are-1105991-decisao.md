@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Apelação — indenização por dano moral — candidato compelida a realizar prova pratica que a colocou em situação humilhante — situação de dissabor mas não caracterizado dano moral — ação improcedente — sentença mantida.” (eDOC 2 p. 114)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 1º, III, IV; 5º, caput, X; e 37, do texto constitucional.
+    Nas razões recursais, alega-se falta de razoabilidade durante a realização de prova prática de concurso público. Ademais, aponta-se violação aos princípios da razoabilidade, legalidade e proporcionalidade.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que à autora não é conferido o direito de indenização por danos morais. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Não obstante seja compreensível o sentimento de auto-estima ferida pelo qual passou a apelante, não há como se acolher esse argumento como fundamento do pedido indenizatório. Por certo que a prova prática do concurso não se deu de maneira correta, respeitando as diferenças entre homens e mulheres. Exatamente por isso o certame foi anulado. Contudo, tal fato não é capaz de ensejar indenização.” (eDOC 2 p. 115)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DANOS MORAIS. OFENSA À IMAGEM. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. O Plenário Virtual do Supremo Tribunal Federal, ao apreciar o ARE 739.382-RG (Tema 657), sob a relatoria do Ministro Gilmar Mendes, decidiu pela ausência de repercussão geral da questão relativa à responsabilidade civil por danos morais em razão de ofensa à imagem, por se restringir ao âmbito infraconstitucional. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento.” (ARE-AgR 1067.575, Rel. Min. Roberto Barroso, Primeira Turma, DJe 27.10.2017)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. RECURSO MANIFESTAMENTE INCABÍVEL. PRECEDENTES. DANOS MORAIS DECORRENTES DE ACIDENTE DE TRABALHO: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE-AgR 1078.331, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 27.2.2018)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 6 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
