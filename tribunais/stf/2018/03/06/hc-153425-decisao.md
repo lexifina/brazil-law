@@ -1,0 +1,19 @@
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de Djan da Luz Clivati, contra decisão de Ministra do Superior Tribunal de Justiça que negou provimento ao RHC 88.586/MT (documento eletrônico 13).
+    Consta da inicial que o paciente foi denunciado, com outros 14 (quatorze) corréus, “[...] pela suposta prática dos delitos previstos nos artigos 288, caput [associação criminosa], e 312 [peculato] (duas vezes), c.c. artigo 69, todos do Código Penal” (pág. 2 do documento eletrônico 1).
+    O impetrante alega, em síntese, que,
+    “[no] caso em tela, o constrangimento ilegal imposto ao Paciente é flagrante na medida em que a E. Relatora Min. Maria Thereza de Assis Moura, ao analisar o mérito suscitado no RHC nº 88.586, equivocadamente entendeu que não teriam sido identificados elementos suficientes para oferecimento de denúncia contra agente detentor de foro por prerrogativa de função, defendendo ainda que a regra seria o desmembramento de investigação e do processo.
+    Ora, a decisão da E. Ministra Relatora se afigura teratológica, eis que o próprio Parquet aduz que o E. Conselheiro tinha conhecimento e participou das fraudes, embasados em pagamentos fraudulentos superiores a R$6.000.000,00 (seis milhões de reais, além das cópias das notas de empenho assinadas apensadas à ação penal - houve o depoimento do colaborador premiado prestado em audiência de instrução e julgamento no dia 28 de outubro de 2016 e cujo acordo foi firmado nos últimos dias da instrução, os quais corroboraram o que vinha sendo afirmado pelas defesas de que o Ministério Público Estadual, sob o pálio do I. Juízo da 7ª Vara Criminal de Cuiabá, vinha investigando Conselheiro do Tribunal de Contas Estadual” (págs. 5-6 do documento eletrônico 1).
+    Ao final, requer:
+    “i) A concessão da medida liminar para que seja determinado o sobrestamento do Processo nº 8884-84.2015.811.0042 (Cód. 404402), até o julgamento de mérito do presente writ; e
+    ii) No mérito, a concessão da presente ordem para que seja reconhecida a ilicitude da decisão que recebeu a denúncia, bem como de todos os atos decisórios praticados pelo Juízo da 7ª Vara Criminal da Comarca de Cuiabá, por ofensa ao princípio do juiz natural, determinando-se o imediato encaminhamento dos autos ao C. STJ” (pág. 22 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    A presente impetração volta-se contra decisão monocrática da Ministra Maria Thereza de Assis Moura que negou provimento ao RHC 88.586/MT (documento eletrônico 13).
+    Desse modo, este pleito não pode ter seguimento, sob pena de extravasamento dos limites de competência desta Suprema Corte descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte, pois, do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Ademais, ainda que, em tese, essa orientação pudesse ser superada por teratologia, flagrante ilegalidade ou abuso de poder constatados ictu oculi, não é o que se dá na espécie.
+    Com efeito, da leitura do decisum combatido é possível constatar a ausência de elementos suficientes para a superação do óbice presente nestes autos.
+    Isso posto, nego seguimento ao writ (art. 21, § 1°, do RISTF). Prejudicado o exame do pleito cautelar.
+    Publique-se.
+    Brasília, 6 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
