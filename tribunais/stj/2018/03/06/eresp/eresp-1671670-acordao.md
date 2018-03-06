@@ -1,0 +1,56 @@
+EMENTA
+TRIBUTÁRIO. RESCISÃO DO CONTRATO DE TRABALHO. AJUSTE EM PACTO DE NÃO CONCORRÊNCIA E CONFIDENCIALIDADE. INDENIZAÇÃO POR LIBERALIDADE DO EMPREGADOR. NATUREZA REMUNERATÓRIA. IMPOSTO DE RENDA. INCIDÊNCIA.
+1. Trata-se na origem de Mandado de Segurança impetrado pela recorrida visando reconhecer a não incidência do Imposto de Renda sobre quantia recebida a título de pagamento de pacto de confidencialidade e não concorrência.
+2. A sentença denegou a segurança. Em Apelação, o Tribunal de origem reformou o decisum por considerar o pagamento efetuado pelo ex-empregador como de natureza indenizatória, sobre o qual não devia incidir o Imposto de Renda.
+3. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.102.575/MG, da Relatoria do Ministro Mauro Campbell Marques, decidiu que incide o Imposto de Renda sobre as gratificações pagas voluntariamente pelos empregadores em decorrência da quebra do contrato de trabalho.
+4. Recurso Especial provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA PREVENTIVO. IMPOSTO DE RENDA DE PESSOA FÍSICA. EXIGÊNCIA DA RECEITA FEDERAL SOBRE VALOR PAGO AO EX-EMPREGADO A TÍTULO DE INDENIZAÇÃO. AJUSTE EM PACTO DE NÃO CONCORRÊNCIA E CONFIDENCIALIDADE. VERBA INDENIZATÓRIA. NÃO INCIDÊNCIA DO IMPOSTO DE RENDA. APELO PROVIDO.
+1. As verbas oriundas do pacto de não concorrência e confidencialidade têm o hialino caráter indenizatório, pois possuem a finalidade de recompor os prejuízos inerentes da impossibilidade do exercício da atividade profissional com empresas que são concorrentes da ex-empregadora da autora pelo período de um ano.
+2. Não se trata de riqueza nova tributável, pois a verba recebida no caso sub judice é derivada do "não trabalhar", diferentemente da situação em que se pode verificar do "auferir de renda".
+3. Hipótese de não incidência tributária, porque não se trata de renda, assim definida na Constituição Federal e no Código Tributário Nacional, mas de indenização, oriunda do contrato de trabalho.
+4. Não há falar em liberalidade do ex-empregador, pois a verba em comento visa indenizar situação em que o autor tem limitado o seu direito de exercer a atividade profissional. Precedentes da 6ª Turma.
+5. Apelação provida.
+Os Embargos de Declaração foram rejeitados (fl. 231, e-STJ).
+A recorrente alega que o acórdão recorrido violou os arts. 6º, V, da Lei 7.713/88 e 43, I e II, e 111, II, do CTN. Alega que "as verbas recebidas não se caracterizam como indenização pela perda do empregado, ao contrário, tem característica de prêmio, cuja causa é a liberalidade do empregador, amoldando-se dessa forma ao conceito de renda, devendo ser tributado na forma prevista pela legislação de regência" (fl. 159, e-STJ).
+Contrarrazões nas fls. 177-195, e-STJ.
+O recurso foi inadmitido na origem. Para melhor análise da controvérsia, foi dado provimento ao Agravo para determinar sua conversão em Recurso Especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 25.5.2017.
+Trata-se na origem de Mandado de Segurança impetrado pela recorrida visando reconhecer a não incidência do Imposto de Renda sobre quantia recebida a título de pagamento de pacto de confidencialidade e não concorrência.
+A sentença denegou a segurança. Em Apelação, o Tribunal de origem reformou o decisum por considerar como de natureza indenizatória o pagamento efetuado pelo ex-empregador, sobre o qual não devia incidir o Imposto de Renda. Eis o teor do julgado:
+As verbas oriundas do pacto de não concorrência tem o hialino caráter indenizatório, pois têm a finalidade de recompor os prejuízos inerentes da impossibilidade do exercício da atividade profissional com empresas que são concorrentes da ex-empregadora da autora pelo período de um ano.
+A alegação de que existe uma riqueza nova tributável, ventilada pela apelada, não prospera, pois a verba recebida no caso sub judice é derivada do "não trabalhar" pelo autor, diferentemente da situação em que se pode verificar do "auferir de renda".
+Ocorre, no presente caso, a não incidência tributária, porque não se trata de renda, assim definida na Constituição Federal e no Código Tributário Nacional, mas de indenização, oriunda do contrato de trabalho.
+Tampouco se pode falar em liberalidade do ex-empregador, pois a verba em comento visa indenizar situação em que o autor tem limitado o seu direito de exercer a atividade profissional.
+A irresignação merece prosperar.
+A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.102.575/MG, da Relatoria do Ministro Mauro Campbell Marques, decidiu que recai o Imposto de Renda sobre as gratificações pagas voluntariamente pelos empregadores em decorrência da quebra do contrato de trabalho.
+Eis a ementa do julgado:
+PROCESSUAL CIVIL. VIOLAÇÃO AOS ARTIGOS 458 E 535, DO CPC. NÃO OCORRÊNCIA. TRIBUTÁRIO. RESCISÃO DO CONTRATO DE TRABALHO. INDENIZAÇÃO POR LIBERALIDADE DO EMPREGADOR. NATUREZA REMUNERATÓRIA. IMPOSTO DE RENDA. INCIDÊNCIA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC.
+1. O acórdão suficientemente fundamentado que não aborda todas as teses jurídicas e artigos de lei invocados pela parte não viola o disposto nos artigos 458 e 535, do CPC.
+2. As verbas concedidas ao empregado por mera liberalidade do empregador quando da rescisão unilateral de seu contrato de trabalho implicam acréscimo patrimonial por não possuírem caráter indenizatório, sujeitando-se, assim, à incidência do imposto de renda. Precedentes: EAg - Embargos de Divergência em Agravo 586.583/RJ, Rel. Ministro José Delgado, DJ 12.06.2006; EREsp 769.118 / SP, Rel. Min. Herman Benjamin, Primeira Seção, DJ de 15.10.2007, p. 221; REsp n.º 706.817/RJ, Primeira Turma, Rel. Min. Francisco Falcão, DJ de 28/11/2005; EAg 586.583/RJ, Rel. Ministro José Delgado, Primeira Seção, v.u., julgado em 24.5.2006, DJ 12.6.2006 p. 421; EREsp 775.701/SP, Relator Ministro Castro Meira, Relator p/ Acórdão Ministro Luiz Fux, Data do Julgamento 26/4/2006, Data da Publicação/Fonte DJ 1.8.2006 p. 364; EREsp 515.148/RS, Relator Ministro Luiz Fux, Data do Julgamento 8/2/2006, Data da Publicação/Fonte DJ 20.2.2006 p. 190 RET vol.. 48 p. 28; AgRg nos EREsp. Nº 860.888 - SP, Primeira Seção, Rel. Min. Francisco Falcão, julgado em 26.11.2008, entre outros.
+3. Recurso especial parcialmente conhecido e, nessa parte, provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008 (STJ, REsp 1102575/MG, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 01/10/2009).
+Ainda nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AÇÃO RESCISÓRIA COM FUNDAMENTO NO ART. 485, V E IX, DO CPC. AUSÊNCIA DE OFENSA LITERAL A DISPOSITIVO DE LEI. PAGAMENTO EFETUADO POR LIBERALIDADE DO EMPREGADOR, EM RAZÃO DE EXTINÇÃO DO CONTRATO DE TRABALHO. INCIDÊNCIA DE IMPOSTO DE RENDA. PROGRAMA DE DEMISSÃO VOLUNTÁRIA. ERRO DE FATO. NÃO DEMONSTRAÇÃO. ACÓRDÃO RESCINDENDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+1. Cuida-se de ação rescisória ajuizada com objetivo de rescindir acórdão que se debruçou sobre a incidência de imposto de renda sobre pagamento efetuado por liberalidade do empregador, por ocasião da rescisão do contrato de trabalho.
+2. A violação de lei, para justificar a procedência da demanda rescisória, nos termos do art. 485, inciso V, do Código de Processo Civil, deve ser de tal modo evidente que afronte o dispositivo legal em sua literalidade, o que não ocorreu no caso dos autos, uma vez que privilegiou entendimento consolidado na Primeira Seção no EREsp 770.078/SP (Rel. Min. Teori Albino Zavascki, DJ de 11.9.2006, p. 225).
+3. Há erro de fato quando o órgão julgador imagina ou supõe que um fato existiu, sem nunca ter ocorrido ou quando simplesmente ignora fato existente, não se pronunciando sobre ele. (AgRg na AR 4.367/PR, Rel. Min. Castro Meira, Primeira Seção, DJe 6.4.2010.).
+4. Trata-se, portanto, de um erro de percepção e, não, de um critério interpretativo do juiz, o que não ocorreu no caso dos autos, porquanto o Ministro Relator do aresto rescindendo consignou, expressamente, que o tema discutido nos autos do recurso especial, não se amoldava a nenhuma das hipótese de Programa de Demissão Voluntária, mas, sim, de pagamento espontâneo, recebido em razão da rescisão do contra de trabalho.
+5. A Primeira Seção, por ocasião do julgamento do recurso especial repetitivo 1102575/MG, da relatoria do Ministro Mauro Campbell Marques, reafirmou que, independentemente da nomenclatura que recebem, as verbas concedidas ao empregado por mera liberalidade do empregador, quando da rescisão unilateral de seu contrato de trabalho, implicam acréscimo patrimonial por não possuírem caráter indenizatório, sujeitando-se à incidência do imposto de renda.
+Ação rescisória improcedente (STJ, AR 4.555/RJ, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, DJe de 07/10/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. IMPOSTO DE RENDA. VERBA RESCISÓRIA PAGA POR LIBERALIDADE DO EMPREGADOR. INCIDÊNCIA.
+I - Incide imposto de renda sobre as verbas pagas espontaneamente ou por liberalidade do ex-empregador, na rescisão unilateral do contrato de trabalho. Precedentes.
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido" (STJ, AgRg no REsp 1.289.793/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 26/02/2016).
+TRIBUTÁRIO. IMPOSTO DE RENDA. PAGAMENTO POR LIBERALIDADE DO EMPREGADOR. AUSÊNCIA DE FONTE NORMATIVA PRÉVIA. NATUREZA REMUNERATÓRIA. INCIDÊNCIA DO TRIBUTO.
+1. As verbas pagas por liberalidade do empregador, na rescisão do contrato de trabalho, sofrem incidência de imposto de renda (REsp 1.112.745/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 1º/10/2009).
+2. In casu, não há, no acórdão recorrido, notícia de que o pagamento realizado a título de "acordo de confidencialidade e não concorrência" tenha decorrido de fonte normativa prévia à extinção do contrato de trabalho, razão pela qual se afigura legítima a incidência tributária.
+3. Destaque-se, por oportuno, a existência de precedente específico da Primeira Seção do STJ, que reconhece a natureza remuneratória da aludida verba (AgRg nos EREsp 911.667/SP, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 23/6/2008).
+4. Agravo Regimental não provido" (STJ, AgRg no REsp 1.485.605/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 04/12/2014).
+Merece reforma o aresto recorrido por estar em dissonância com o entendimento desta Corte Superior.
+Diante do exposto, dou provimento ao Recurso Especial.
+É como voto.
