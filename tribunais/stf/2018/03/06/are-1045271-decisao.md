@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – RAZÕES – DESCOMPASSO COM O ACÓRDÃO IMPUGNADO – AGRAVO DESPROVIDO.
+    1. Eis a síntese do acórdão prolatado pelo Tribunal Superior Eleitoral:
+    ELEIÇÕES 2012. AGRAVO REGIMENTAL. RECURSO ESPECIAL ELEITORAL. VEREADOR. AÇÃO DE INVESTIGAÇÃO JUDICIAL ELEITORAL. OFERECIMENTO DE DINHEIRO A ELEITOR.
+    1. Conquanto se guardem reservas em relação à tese de que é prova ilícita a gravação ambiental realizada por um dos interlocutores mormente porque não se cuida de interceptação telefônica sem autorização realizada por um terceiro estranho à conversa , está consolidada, quanto às eleições de 2012, a conclusão acerca da ilicitude desse meio de prova, merecendo reflexão para pleitos futuros.
+    2. Equivoca-se o Ministério Público Eleitoral ao afirmar que, na ponderação de valores, a decisão agravada prestigiou o direito à privacidade, pois a decisão impugnada simplesmente afirmou que a tese da ilicitude da gravação ambiental realizada por um dos interlocutores está consolidada na jurisprudência do TSE quanto às eleições de 2012, do modo que eventual modificação deve incidir em pleitos futuros, em respeito ao princípio da segurança jurídica, implicitamente previsto no art. 16 da Constituição Federal.
+    3. A segurança jurídica recomenda que, neste processo, referente às eleições de 2012, aplique-se a tese da ilicitude da gravação ambiental realizada por um dos interlocutores, evitando-se modificação de entendimento após o encerramento do processo eleitoral, a sugerir indesejável casuísmo.
+    4. A gravação ambiental realizada por eleitor foi a prova que ensejou o requerimento dos autores da ação para ouvir aquele cidadão, sendo essa prova, o depoimento, ilícita por derivação, pois somente surgiu com a gravação ambiental na linha da jurisprudência do Tribunal Superior Eleitoral quanto às eleições de 2012. Conclusão jurídica que nem sequer foi infirmada pelo agravante.
+    5. Agravo regimental desprovido.
+    No extraordinário cujo trânsito busca alcançar, o Ministério Público Eleitoral alega a violação dos artigos 5º, incisos II e XII, bem como do 93, inciso IX, da Constituição Federal. Insiste na licitude do procedimento. Discorre acerca da distinção entre gravação e interceptação, estando apenas a última submetida à clausula de reserva jurisdicional.
+    2. Há flagrante descompasso entre o que consignado pelo Tribunal Superior Eleitoral e o teor das razões do recurso. O fundamento do acórdão recorrido foi o princípio da segurança jurídica, ante à impossibilidade de alterar jurisprudência consolidada no tocante às eleições de 2012 após o encerramento do processo eleitoral. Nas razões do extraordinário, limitou-se o recorrente a aludir à licitude de prova oriunda de gravação ambiental por dos interlocutores. A ausência de impugnação específica leva à manutenção, por si só, da decisão impugnada.
+    Ressalto ter surgido no Pleno o enfoque segundo o qual o artigo 932, parágrafo único, do Código de Processo Civil de 2015 não alcança situação jurídica em que razões ou minuta recursais surjam incompletas ou deficientes. Ressalvo o entendimento pessoal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo eleitoral, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 6 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
