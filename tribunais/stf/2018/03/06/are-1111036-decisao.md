@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “AÇÃO RESSARCOTÓRIA DE DANOS. PAGAMENTO DE HORAS EXTRAORDINÁRIAS. CARGO EM COMISSÃO.
+    - O servidor nomeado para exercer cargo em comissão não faz jus à percepção de horas extraordinárias, dada a relação de confiança estabelecida para nomeação e que pressupõe devotamento maior ao serviço que o exigido dos demais servidores de diversa espécie de provimento.
+    - Situação peculiar, reconhecida pela própria lei aplicável ao caso, que vedou o pagamento da versada gratificação a esses servidores nomeados para cargo em provimento em comissão.
+    Não provimento do apelo da requerida.” (eDOC 5 p. 22)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se violação aos arts. 5º; 7º, XIII e XVI; e 39, § 3º , do texto constitucional.
+    Nas razões recursais, alega-se que os servidores em comissão têm o direito, constitucionalmente garantido, à remuneração pelo trabalho suplementar efetivamente realizado.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal 223/1974), consignou que há vedação expressa ao pagamento de horas extras aos exercentes de cargos em comissão. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Nomeando-se uma pessoa para o exercício de cargo de provimento em comissão, por sua própria natureza e as singularidades da função, esse cargo diferencia-se dos demais cargos públicos atrativos do modelo estabelecido no inciso XVI do art. 7° da vigente Constituição Federal (a que, combinando-o com o disposto no § 3° do art. 39 da mesma constituição, acenaram as razões recursórias).” (eDOC 5 p. 28)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. CARGO EM COMISSÃO. HORA EXTRAS. LEI Nº 233/1974, DO MUNICÍPIO DE ITAPEVI. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 280 E 279/STF. 1. A solução da controvérsia demanda a análise da legislação infraconstitucional pertinente bem como dos fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência das Súmulas 280 e 279/STF. Precedentes. 2. Nos termos do art. 85, §11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE-AgR 1.029.923, Rel. Min. Roberto Barroso, Primeira Turma, DJe 11.9.2017)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Cargo em comissão. Pagamento de horas extras. Artigo 93, inciso IX, da CF. Violação. Não ocorrência. Legislação local. Ofensa reflexa. Precedentes. 1. Não procede a alegada violação do art. 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente fundamentadas, não obstante contrárias à pretensão da parte recorrente. 2. O recurso extraordinário não se presta para a análise de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 3. Agravo regimental não provido. 4. Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício da gratuidade da justiça.” (ARE-AgR 1.026.519, Rel. Min. Dias Toffoli, Segunda Turma, DJe 26.5.2017)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 6 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
