@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98033, de 27 de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9021.90.89 Mercadoria: Vibrador laríngeo - aparelho eletrônico conhecido comercialmente como laringe eletrônica, utilizado por pessoas que perderam a voz após retirada das cordas vocais, cuja função é, por meio da geração de vibrações, recuperar a fala. O seu funcionamento se dá da seguinte forma: encosta-se o aparelho na parede externa do pescoço para a formação de fonemas, possibilitada pelo desenvolvimento de vibrações sonoras. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 90.21), RGI 6 (texto da subposição 9021.9) e RGC 1 (texto do item 9021.90.8 e do subitem 9021.90.89), da TEC, aprovada pela Resolução Camex nº 125/2016, e da Tipi, aprovada pelo Decreto nº 8.950/2016, e alterações posteriores.
+.
+[arquivo anexo: SC Cosit nº 98.033-2018 .pdf]
