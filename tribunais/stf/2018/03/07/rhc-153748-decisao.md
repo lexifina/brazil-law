@@ -1,0 +1,26 @@
+Decisão:
+Ementa: Penal. Habeas corpus. Tráfico de drogas. Dosimetria da pena. Regime inicial. Substituição da pena. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Sebastião Reis Júnior, assim ementado:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. INAPLICABILIDADE DA CAUSA DE REDUÇÃO DE PENA RELATIVA AO TRÁFICO PRIVILEGIADO. PROVAS CONCRETAS DO ENVOLVIMENTO DO AGENTE EM ATIVIDADES CRIMINOSAS. NATUREZA E QUANTIDADE DA DROGA CONSIDERADAS. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+    1. Demonstrado nos autos o envolvimento do agente com atividades criminosas, seja pela natureza e pela quantidade da droga apreendida, seja pela detalhada descrição da prova testemunhal, que aponta para a prática habitual do comércio ilícito de entorpecentes em local conhecido como ponto de venda de drogas, descabe a redução da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+    2. Ultrapassar esse entendimento e considerar que o paciente não é o traficante habitual relatado no acórdão da apelação, demandaria ampla incursão nos elementos de prova, o que não é possível nos autos de habeas corpus. Precedentes.
+    3. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o recorrente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, pelo crime previsto no artigo 33, caput, c/c o artigo 40, VI, ambos da Lei 11.343/06.
+    3. O Tribunal de Justiça do Estado do Mato Grosso do Sul negou provimento à apelação da defesa.
+    4. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 397.528, Ministro Sebastião Reis Júnior, não conheceu do writ.
+    5. Contra essa decisão, foi interposto agravo regimental, não provido.
+    6. Neste recurso ordinário, a defesa sustenta a aplicabilidade, no caso, da minorante prevista no artigo 33, § 4º, da Lei de Drogas, destacando que, ao contrário do que assentaram as instâncias ordinárias, o recorrente não integra organização criminosa.
+    7. Com essa argumentação, requer o provimento do recurso a fim de reduzir a pena imposta ao acionante, “com o consequente abrandamento do regime prisional inicial, bem como a substituição da pena corporal por restritiva de direitos”.
+    8. O Ministério Público Federal manifesta-se pelo não conhecimento do recurso “e, se conhecido, pelo seu desprovimento”.
+    Decido.
+    9. O recurso ordinário não deve ser provido.
+    10. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda pertence).
+    11. No caso de que se trata, as instâncias precedentes afastaram a aplicação da minorante prevista no artigo 33, § 4º, da Lei 11.343/06, com apoio em aspectos objetivos da causa, notadamente no fato de que, “Além da natureza da droga apreendida, que tem alto poder viciante, e da quantidade de droga apreendida, há contra o apelante indicativos suficientes de seu envolvimento com atividades criminosas. De acordo com as declarações prestadas pelos policiais militares ouvidos em juízo, o recorrente era conhecido como traficante habitual no endereço informado em diversas denúncias anônimas. Os demais elementos de prova colhidos ao longo da persecução penal, analisados em conjunto, também indicam sua dedicação contínua à prática delitiva”. (trecho do acórdão da apelação). Sendo assim, o acolhimento da pretensão defensiva demandaria o revolvimento de matéria fática, o que não é admitido na via processualmente restrita do habeas corpus.
+    12. Além disso, o recorrente foi condenado à pena de 5 (cinco) anos e 10 (dez) meses de reclusão. De modo que a imposição do regime inicial intermediário, está alinhada com o entendimento do Supremo Tribunal Federal no sentido de que “O artigo 33, § 2º, alínea b, do Código Penal determina que ‘o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto” (HC 117.774, Rel. Min. Luiz Fux).
+    13. Quanto ao mais, o caso atrai a orientação jurisprudencial do Supremo Tribunal Federal no sentido da impossibilidade de substituição da pena fixada em patamar superior a 4 (quatro) anos de reclusão, nos termos do artigo 44, inciso I, do Código Penal (vg. HC 119.811, Rel. Min. Teori Zavascki, DJe de 1º.07.14; HC 121.543, Rel. Min. Luiz Fux, DJe de 1º.08.14; HC 118.602, Rel. Min. Teori Zavascki, DJe de 11.03.14; HC 118.717, Rel. Min. Ricardo Lewandowski, DJe de 11.03.14).
+    14. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 7 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
