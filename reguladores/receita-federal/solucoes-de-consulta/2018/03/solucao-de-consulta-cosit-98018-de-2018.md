@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98018, de 26 de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3303.00.20 Mercadoria: Água-de-colônia (eau de toilette), apresentada em frasco de 100 ml. Código NCM: 3305.10.00 Mercadoria: Xampu para cabelo e corpo (shampooing cheveux et corps), apresentado em frasco de 75 ml. Código NCM: 3307.10.00 Mercadoria: Loção calmante pós-barba (baume après rasage apaisant), apresentada em frasco de 75 ml. DISPOSITIVOS LEGAIS: RGI-1 (textos das posições 33.03, 33.05 e 33.07), RGI-6 (textos das subposições 3305.10 e 3307.10) e RGC-1 (texto do item 3303.00.20) da NCM/SH, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, com alterações posteriores, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, com alterações posteriores. Subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.018-2018 .pdf]
