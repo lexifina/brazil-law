@@ -1,0 +1,20 @@
+Despacho: 1. Por meio da petição de fls. 2.010-2.017, Marcos Antônio Pereira interpõe agravo regimental contra a decisão publicada em 6.2.2018, na qual indeferi “o pedido ao qual se reporta o despacho que proferi na fl.1.546, pretensão contida na petição de fl. 1.548 usque 1.549, adotando o parecer do MPF de fl. 1.563” (fl. 1.640).
+    Em contrarrazões, o Ministério Público Federal assevera a impropriedade desse recurso (fls. 2.023-2.028), porquanto, em verdade, o que se combate não é o teor do sobredito comando, mas sim a anterior autorização de compartilhamento de peças informativas com a Comissão de Ética Pública.
+    Quanto à insurgência em comento, para otimizar a tramitação, determino sejam desentranhados esses petitórios e processados em apartado na classe “Petição”, a ser instruída com o traslado desta decisão e de mídia contendo a reprodução digital, na íntegra, do feito epigrafado.
+    Cumpridas essas deliberações, venham conclusos os autos formados.
+    2. Já por intermédio do petitório às fls. 2.004-2.008, Guido Mantega requer vista integral dos autos, a fim de lhe “seja disponibilizada mídia contendo os anexos complementares referidos na petição de JOESLEY BATISTA (doc. 01), em especial os anexos ns. 28, 29 e 30, bem como o pleiteado às fls. 352-353, para que sejam disponibilizadas aos ora signatários senhas de acesso aos documentos constantes das mídias de fls. 2 a 4 do apenso 10 dos autos”.
+    Instada a se manifestar, assim oficia a Procuradoria-Geral da República:
+    “Como já reiteradamente decidido pelo Ministro Relator estes autos estão digitalizados e tramitam sem restrição de publicidade, fica facultado o acesso pelo peticionante aos elementos probatórios já documentados a serem obtidos diretamente junto à Seção de Processos Originários Criminais do Supremo Tribunal Federal.
+    Alega o peticionante que, dentre outros, os anexos complementares n. 28, 29 e 3 de Joesley Batista, entregues à PGR em 31/8/2017, não constaram da mídia obtida junto ao STF. Os referidos anexos constam na mídia acostada à fl. 686, como se verificou na cópia da PET 7003, acautelada nesta Procuradoria-Geral da República, não havendo nenhum erro de gravação ou incompletude dos anexos complementares juntados a estes autos.
+    Ante o exposto, a Procuradora-Geral da República manifesta-se pelo deferimento do pedido formulado pelo Guido Mantega” ( fl. 2.032).
+    Na espécie, assiste razão ao Ministério Público Federal.
+    Com efeito, diante da ausência de sigilo, o acesso buscado depende de simples requerimento presencial junto à Seção de Processos Originários Criminais, oportunidade na qual os defensores poderão esclarecer aos serventuários que almejam não apenas os arquivos em formado “PDF”, como também as mídias anexadas.
+    No que tange ao pleito de obtenção da chave de acesso a arquivos protegidos, tampouco há o que se acolher, pois, como se extrai das peças digitalizadas da AC 4.328, sob regime de publicidade, já houve o esclarecimento da autoridade policial de que “a senha utilizada nos procedimentos da operação PATMOS foi kidiaba2017” (fl. 479 daquele procedimento).
+    3. À luz do exposto, determino: (i) sejam desentranhados o agravo regimental de fls. 2.010-2017 e as respectivas contrarrazões da Procuradoria-Geral da República (fls. 2.023-2.028), formando-se procedimento autônomo a ser instruído com cópia física desta decisão, bem como reprodução integral em mídia digital dos autos epigrafados; e (ii) sejam os advogados subscritores do pedido examinado no “item 2” intimados por meio da chamada de seus nomes no Diário de Justiça Eletrônico, porquanto estes não constam na autuação.
+    Cumpridas as determinações constantes no “item 1”, certifique-se, informando o número dos autos formados.
+    Após, aguarde-se manifestação da defesa técnica dos colaboradores WESLEY MENDONÇA BATISTA e FRANCISCO DE ASSIS E SILVA, ou o decurso do prazo fixado no despacho publicado em 1º.3.2018, vindo, em seguida, conclusos.
+    Publique-se, na forma acima indicada. Intimem-se.
+    Brasília, 7 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
