@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98029, de 26 de fevereiro de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8543.70.40 Mercadoria: Transcodificador e sincronizador de sinais de vídeo de televisão utilizado para converter e transcodificar de forma bidirecional sinais de áudio e vídeo, na recepção de conteúdos da programação em formato digital e conversão desses sinais para o padrão de vídeo utilizado pela emissora. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.43), RGI 6 (texto da subposição 8543.70) e RGC 1 (texto do item 8543.70.4) da NCM/SH constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e consolidadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.029-2018 .pdf]
