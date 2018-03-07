@@ -1,4 +1,4 @@
-Art. 37. A educação de jovens e adultos será destinada àqueles que não tiveram acesso ou continuidade de estudos no ensino fundamental e médio na idade própria.
+Art. 37. A educação de jovens e adultos será destinada àqueles que não tiveram acesso ou continuidade de estudos nos ensinos fundamental e médio na idade própria e constituirá instrumento para a educação e a aprendizagem ao longo da vida.
 § 1º Os sistemas de ensino assegurarão gratuitamente aos jovens e aos adultos, que não puderam efetuar os estudos na idade regular, oportunidades educacionais apropriadas, consideradas as características do alunado, seus interesses, condições de vida e de trabalho, mediante cursos e exames.
 § 2º O Poder Público viabilizará e estimulará o acesso e a permanência do trabalhador na escola, mediante ações integradas e complementares entre si.
 § 3º A educação de jovens e adultos deverá articular-se, preferencialmente, com a educação profissional, na forma do regulamento.
