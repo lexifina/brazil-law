@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PESQUISADORES CIENTÍFICOS. EQUIPARAÇÃO SALARIAL COM DOCENTES. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “SERVIDOR PÚBLICO. PESQUISADORES CIENTÍFICOS. EQUIPARAÇÃO SALARIAL COM DOCENTES. PRETENSÃO DE REFORMA DA SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO MEDIATO.
+    MÉRITO. Pretensão de equiparação salarial entre Pesquisadores Científicos e Docentes. As leis complementares n. 859/99, 727/93 e 125/75 não autorizam a interpretação pretendida, referindo-se aos integrantes de carreiras congêneres à dos autores, cujas funções não têm a amplitude daquelas desenvolvidas pelo docente universitário. A carreira de docente das universidades estaduais não envolve somente a atividade de investigação científica, possuindo atribuições diversas e mais amplas. Assim, tais carreiras não podem ser equiparadas, não havendo identificação entre os servidores de uma e de outra. Aplicação da Súmula 339 do Supremo Tribunal Federal. Existência de decisões judiciais que autorizam a equiparação salarial entre os pesquisadores científicos e os docentes. Atribuição de caráter extensivo. Impossibilidade. A processualística civil pode determinar um quadro de desigualdade diante das divergências da jurisprudência sobre o mesmo tema. Sem embargo da excepcionalidade dos precentes (sic) judiciais de efeito vinculante, o sistema prestigia a interpretação pluralística sobre o ordenamento jurídico, com a prevalência da livre  convicção motivada. Incumbe ao interesse o manejo de meios de impugnação para o reexame das decisões judiciais. O sistema contempla a possibilidade da uniformização de jurisprudência. A pretensão dos recorrentes configura verdadeiro efeito extensivo às avessas, perquirindo pela atribuição de eficácia vinculante à decisão colegiada de órgão fracionário desse mesmo Tribunal de Justiça.
+    RECURSO NÃO PROVIDO.” (Vol. 3 – fl. 31)
+    Os embargos de declaração opostos ao acórdão do recurso de apelação foram desprovidos (Vol. 3 – fls. 55-57).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput, 7º, caput e XXX, e 39, caput e § 3º, da Constituição da República.
+    O recorrido, em contrarrazões (Vol. 3 – fls. 92-109), pugna, preliminarmente, pelo não conhecimento do recurso diante da incidência da Súmula 280 do STF e, acaso superado o juízo de admissibilidade, pelo desprovimento do apelo nobre.
+    O Tribunal a quo negou seguimento ao recurso extraordinário ante a ausência de demonstração da repercussão geral, bem como pela incidência das Súmulas 280 e 282 do STF (Vol. 3 – fl. 111).
+    É o relatório. DECIDO.
+    O agravo não merece provimento.
+    Os recorrentes formularam pedido de desistência do feito por intermédio das Petições STF 61.996, 62.017, 62.020, 64.918, 64.922, 64.925, 64.935, 65.018, 65.023, 65.025, 65.049, 65.053, 65.058, 65.060, 66.061, 66.357 e 66.360, de 2015.
+    O Estado de São Paulo, instado a manifestar-se sobre os referidos pedidos, alegou a impossibilidade de concordância com a desistência do feito, uma vez que o mérito da causa já fora julgado, declarando textualmente que “não concorda com o pedido de desistência do feito formulado pelos recorrentes, bem como requer seja negado seguimento ao agravo interposto por eles, em face da incidência das Súmulas 280 e 287 desse Colendo Supremo Tribunal Federal” (Petição STF 4.151/2016 – Vol. 45).
+    Em tais circunstâncias, a constatação da superveniente falta de interesse recursal conduz ao desprovimento do recurso sub examine.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 7 de março de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
