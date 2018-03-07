@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal Superior Eleitoral, reformando parcialmente o decidido pelo Colegiado local, assentou a legitimidade passiva do representado e condenou-o ao pagamento de multa no valor de 5 mil Ufirs, em virtude do cometimento de conduta vedada a agente público, consubstanciada na divulgação de publicidade institucional nos três meses anteriores à eleição, considerada a legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º, incisos XIV e XXXIII, e 37, cabeça, § 1º e § 6º, da Constituição Federal. Afirma ser ilícito eleitoral a publicidade institucional com veiculação expresso de pedido de voto ou induvidosa promoção pessoal do agente público, o que não teria ocorrido. Sustenta a ausência de responsabilidade objetiva do ocupante do cargo de Governador pelos atos praticados por órgão integrantes da Administração estadual. Assevera não demostrada a participação do Chefe do Executivo na disponibilização da citada propaganda.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Confiram a síntese do acórdão recorrido:
+    ELEIÇÕES 2014. AGRAVO INTERNO EM RECURSO ORDINÁRIO. CONDUTA VEDADA A AGENTE PÚBLICO. PUBLICIDADE INSTITUCIONAL EM PERÍODO VEDADO. ART. 73, INCISO VI, ALÍNEA B, DA LEI Nº 9.504/97. DESPROVIMENTO.
+    1. Segundo preceitua o art. 515, caput, do Código de Processo Civil, ao se estabelecer a profundidade da cognição a ser exercida por este Tribunal, deve ser respeitada a extensão fixada nas razões recursais. Além disso, consoante já decidiu esta Corte, admite-se o enfrentamento de matéria arguida pela parte não sucumbente em contrarrazões (RO nº 504-06/MT, rel. designado Min. DIAS TOFFOLI, DJE de 6.8.2015). Portanto, fica inviável o exame de questão não devolvida ao conhecimento deste Tribunal por meio de recurso ou contrarrazões.
+    2. É vedada a inovação de tese recursal em agravo interno. Precedentes.
+    3. O chefe do Poder Executivo à época dos fatos é parte legítima para figurar no polo passivo da representação, tendo em vista que, do acervo fático dos autos, extrai-se que a publicidade institucional questionada foi efetivamente veiculada em sítio eletrônico oficial do Governo, havendo, portanto, vínculo concreto entre aquele e a conduta ilícita perpetrada.
+    4. O chefe do Poder Executivo, na condição de titular do órgão em que veiculada a publicidade institucional em período vedado, é por ela responsável, haja vista que era sua atribuição zelar pelo conteúdo divulgado na página eletrônica oficial do Governo.
+    Precedentes.
+    5. Agravo interno desprovido.
+    Percebe-se haver o Tribunal Superior Eleitoral responsabilizado o recorrente pelo ocorrido, vinculando-o ao ato ilícito eleitoral praticado, presente o quadro fático do processo. Somente seria dado concluir de forma contrária a partir da análise dos elementos probatórios do processo, o que é vedado em sede extraordinária.
+    A par desse aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso a este Tribunal. Procedeu-se à interpretação da Lei nº 9.504/1997. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário quanto à suposta violação dos artigos 5º, inciso XIV e 37, § 1º e § 6º, da Constituição Federal não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 7 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
