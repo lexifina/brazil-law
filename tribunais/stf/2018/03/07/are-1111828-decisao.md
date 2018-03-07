@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, da Constituição Federal, e 53, V, do Ato das Disposições Constitucionais Transitórias - ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta aos apontados dispositivos da Constituição da República.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido:
+    “AMINISTRATIVO. PREVIDENCIÁRIO. EX-COMBATENTE. PENSÃO. TETO REMUNERATÓRIO. DECRETO 2.172/97. NECESSÁRIO EXAME DE NORMAS INFRACONSTITUCIONAIS. SÚMULA 280 DO STF. PRECEDENTES. AGRAVO IMPROVIDO. I – A apreciação das alegadas ofensas à Constituição demanda a análise de normas infraconstitucionais (Lei 5.698/71 e Decreto 2.172/97), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. II – Agravo regimental improvido.” (RE 593933-AgR, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 25.11.2010)
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PENSÃO ESPECIAL DE EX-COMBATENTE. MATÉRIA DE ORDEM INFRACONSTITUCIONAL. 1. A questão tratada nos autos diz respeito à aplicação da Lei 4.297/63 e do Decreto 2.172/97, de índole infraconstitucional, não autorizando a apreciação por esta Corte. Precedentes. 2. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 3. Agravo regimental improvido.” (RE 368.433-AgR, Rel. Min. Ellen Gracie, 2ª Turma, DJe 07.8.2009)
+    “Recurso extraordinário: descabimento: questão relativa aos critérios de reajustamento de benefício de segurado ex-combatente, estabelecidos pela L. 5.698/71: alegada violação ao texto constitucional que, se ocorresse, seria reflexa ou indireta e não pode ser examinada no recurso extraordinário. Invocação impertinente do art. 248 da Constituição: discussão anterior à EC 20/98.”(RE 389039-AgR, Rel. Min. Sepúlveda pertence, 1ª Turma, DJe 10.3.2006)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 7 de março de 2018.
+Ministra Rosa Weber
+Relatora
