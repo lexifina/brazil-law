@@ -11,3 +11,4 @@ IX - garantia de padrão de qualidade;
 X - valorização da experiência extra-escolar;
 XI - vinculação entre a educação escolar, o trabalho e as práticas sociais.
 XII - consideração com a diversidade étnico-racial.
+XIII - garantia do direito à educação e à aprendizagem ao longo da vida.
