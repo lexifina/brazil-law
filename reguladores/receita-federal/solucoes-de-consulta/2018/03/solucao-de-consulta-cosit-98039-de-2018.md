@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98039, de 2 de março de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 7607.19.10 Mercadoria: Folha de alumínio gravada (etched), com camada de óxido de alumínio, de espessura inferior ou igual a 80 micrômetros (mícrons) e com um conteúdo de alumínio igual ou superior a 99,9%, em peso, sem suporte de outras matérias, utilizada na confecção de capacitores eletrolíticos, denominada comercialmente “folha de alumínio oxidada e formada”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 76.07), RGI 6 (textos da subposição de primeiro nível 7607.1 e da subposição de segundo nível 7607.19) e RGC 1 (texto do item 7607.19.10) da TEC, aprovada pela Res. Camex nº 125, de 2016, e da Tipi, aprovada pelo Dec. nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Dec. nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.039-2018 .pdf]
