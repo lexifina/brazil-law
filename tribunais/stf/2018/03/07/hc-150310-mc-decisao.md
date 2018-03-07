@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+LIMINAR – EXTENSÃO – CORRÉU.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da DIPO 3, Seção 3.2.2, do Foro Central Criminal Barra Funda, Comarca de São Paulo/SP, no processo nº 0083668-20.2017.8.26.0050, converteu em preventiva a prisão em flagrante do paciente, ocorrida no dia 19 de setembro de 2017, e de mais uma pessoa, ante o suposto cometimento das infrações descritas no artigo 155, § 4º, incisos I e IV (furto qualificado por rompimento de obstáculo e mediante concurso de pessoas), do Código Penal. Ressaltou os contornos do delito, dizendo-o grave, considerado o fato de terem sido surpreendidos logo após adentrarem duas residências e subtraírem bens lá existentes. Consignou necessário garantir a ordem pública, aludindo à não demonstração do exercício de atividade lícita e à presença de antecedentes criminais. Destacou não haver comprovação de endereço fixo, afirmando imprescindível a custódia para a aplicação da lei penal. Assentou insuficiente medida cautelar alternativa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 423.954/SP, indeferido liminarmente.
+    A Defensoria Pública do Estado de São Paulo assevera ser o caso de superação do verbete nº 691 da Súmula do Supremo. Assinala a primariedade e a ausência de gravidade em abstrato do delito. Argui violação do artigo 93, inciso IX, da Constituição Federal, aduzindo a inidoneidade da fundamentação do ato por meio do qual imposta a preventiva, tendo-a como abstrata. Frisa não atendidos os requisitos previstos no artigo 312 do Código de Processo Penal. Sublinha que a manutenção da prisão cautelar por crime sem grave ameaça ou violência em Centro de Detenção Provisória superlotado e com estrutura precária configura tratamento cruel e degradante.
+    Requer, no campo precário e efêmero, a revogação da preventiva. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal estadual, em 5 de março de 2018, constatou-se que o processo-crime tramita perante a Vigésima Sexta Vara Criminal do Foro Central da Barra Funda/SP e está em fase de instrução.
+    A etapa é de apreciação da liminar.
+    2. A prisão em flagrante por crime de furto qualificado, praticado no interior de duas residências, mediante o rompimento de obstáculo e concurso de pessoas, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade do agente, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que, sem culpa formada, o paciente está preso há 5 meses e 18 dias. Surge o excesso de prazo considerada a constrição cautelar e o estágio do processo-crime, porquanto não encerrada a fase de instrução. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. A custódia decorrente de título condenatório provisório, embora admitida pela lei penal, integra o campo da excepcionalidade.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0083668-20.2017.8.26.0050, da Vigésima Sexta Vara Criminal do Foro Central da Barra Funda/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Sendo idêntica a situação jurídica do corréu David Carvalho Munduruca, estendo-lhe a medida acauteladora, com os mesmos cuidados, observado o artigo 580 do Código de Processo Penal.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 7 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
