@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “LEGITIMIDADE ATIVA. Procuradores do Estado que pleiteiam o realinhamento de seus vencimentos, sem postular intervenção no cálculo, arrecadação e despesa de recursos públicos. Reparação de suposto prejuízo. Legitimidade reconhecida.
+    PROCURADORES DO ESTADO. Pagamento de diferença da parcela de honorários de advogado, que integra seus salários, entre a promulgação da Emenda Constitucional 19/98 e a Resolução GPG 139102. Alteração do art. 135 da CF que não obrigava a imediata alteração da Resolução GPG 108193, que continuava em vigor, sem nenhuma irregularidade. Novo entendimento, dispondo de forma diversa sobre a distribuição de honorários, sem qualquer relação com a alteração constitucional, apesar de constar nos considerando da Resolução. Apelo provido, para julgar improcedente a ação” (pág. 122 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação aos arts. 37, X, XIII, 39, § 4° e 135 (na redação original), da mesma Carta.
+    Alegam os recorrentes: (i) redução de vencimentos; (ii) a não observância da aplicação do limite de teto remuneratório; e (iii) que houve violação ao princípio da reserva legal, uma vez que teria ocorrido limitação, por meio de Resolução, da verba de natureza salarial - honorários advocatícios.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em harmonia com o entendimento firmado por esta Corte no sentido de que as verbas honorárias recebidas por Procuradores do Estado, por possuírem natureza de remuneração geral, serão incluídas no redutor do teto remuneratório do art. 37, XI, da Constituição Federal.
+    Com essa orientação, menciono os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. HONORÁRIOS ADVOCATÍCIOS DE PROCURADOR DO ESTADO. CARÁTER GERAL: INCLUSÃO NO TETO REMUNERATÓRIO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 500.054/SP, Rel. Min. Cármen Lúcia).
+    “Ementa: I. Procuradores do Município de São Paulo: teto de remuneração: inclusão, no cálculo, das parcelas referentes a honorários de advogado, adicional de função, regime de dedicação exclusiva e gratificação de nível superior conferidos a todos os integrantes da categoria: precedentes (RE 312.026, Galvão, DJ 14.12.2001; RE 220.397, Pleno, Galvão, DJ 18.6.99). II. Agravo regimental: motivação da decisão agravada: necessidade de impugnação: inviabilidade para discutir a aplicação de lei superveniente ao caso concreto” (AI–ED 352.349/SP, Rel. Min. Sepúlveda Pertence).
+    Na mesma linha de entendimento, cito, dentre outras, as seguintes decisões monocráticas: ARE 938.166, Rel. Min. Gilmar Mendes; ARE 734.014, Rel. Min. Luiz Fux; ARE 969.517, Rel. Min. Roberto Barroso e ARE 792.479, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% os honorários advocatícios anteriormente fixados, observados os limites do art. 85, § 2° e § 3°, do CPC.
+    Publique-se.
+    Brasília, 8 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
