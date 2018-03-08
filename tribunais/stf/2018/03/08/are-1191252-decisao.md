@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “ADMINISTRATIVO. MPU. CONCURSO DE REMOÇÃO. REABERTURA DO PRAZO DE INSCRIÇÃO. PARTICIPAÇÃO. PRAZO DE TRÊS ANOS NA LOTAÇÃO. ART. 28 DA LEI 11.415/2006. VAGAS EXISTENTES. CANDIDATOS APROVADOS EM NOVO CONCURSO. INTERESSE DA ADMINISTRAÇÃO. HONORÁRIOS ADVOCATÍCIOS. - A vedação da participação no concurso de remoção a quem não completou o período mínimo de três anos, acrescida da não-abertura de concurso de relotação prévio à nomeação dos aprovados em novo concurso, implicará preterição dos autores na escolha de vagas já existentes em localidades de sua preferência, com aparente ofensa ao princípio da proporcionalidade. - A lei, ao fixar o prazo mínimo de três anos, ressalva a remoção no interesse da administração, e, prima facie, não há justificativa para preferir a lotação dos novos concursados nas vagas remanescentes ao concurso de remoção, em detrimento dos mais antigos do concurso anterior. - Invertidos os ônus sucumbenciais para condenar a União ao ressarcimento das custas processuais e ao pagamento de honorários advocatícios ao procurador da parte autora em R$ 1.000 (um mil reais), dada a simplicidade da demanda." (eDOC 1, p. 165)
+    No recurso extraordinário, interposto com fundamento no art. 102, III,a, alega ofensa aos arts. 2º, 5.º, caput, XXXV, LIV e LV, 93, IX e 97 do texto constitucional. (eDOC 1, p. 207-225)
+    É o relatório.
+    Decido.
+    De pronto, verifico que a Min. Og Fernandes do Superior Tribunal de Justiça proferiu decisão nos autos do Recurso Especial, da qual destaco o seguinte trecho:
+    “Entretanto, houve a perda superveniente do objeto da ação em virtude do autor, ora recorrido, ter alcançado vaga na localidade pretendida, conforme Portaria n. 60, de 20 de agosto de 2018 (e-STJ, fls. 324-330). Ainda que o requerente não tivesse alcançado na vaga em virtude da realização de concurso de remoção, a jurisprudência desta Corte Superior ampara seu direito de não ser preterido em relação aos candidatos do novo concurso. Dessa forma, com fundamento no art. 85, § 10, do CPC/2015, a União deverá arcar com os honorários sucumbenciais por ter dado causa ao processo. Ante o exposto, em razão da perda superveniente de objeto, julgo prejudicado o recurso especial, facultando à parte autora a execução dos honorários advocatícios já estabelecidos em R$ 1.000,00 (mil reais)” (eDOC 1, p. 340-341).
+    Essa decisão do STJ transitou em julgado em 14.02.2019 (eDOC 1, p. 346).
+    Desse modo, tendo alcançado nesse ponto o objeto do recurso extraordinário, há que se reconhecer a prejudicialidade deste por perda superveniente do objeto.
+    Do exposto, julgo prejudicado o recurso extraordinário por perda superveniente de objeto, nos termos acima determinados. (art. 21 do RISTF).
+    Publique-se.
+    Brasília, 08 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
