@@ -1,0 +1,51 @@
+Decisão: Trata-se de 2 agravos contra decisões que não admitiram os recursos extraordinários interpostos pelos recorrentes César Romero do Nascimento Lyra (eDOC 20, p. 119-128 e eDOC 21, p. 1-16)); e José Felizardo dos Santos Neto (eDOC 21, p. 82-87 e eDOC 22, p. 1-8) em face do acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco (eDOC 20, p. 84-85), e 1 agravo contra decisão que não admitiu o recurso extraordinário interposto por César Romero do Nascimento Lyra em face de decisão do Superior Tribunal de Justiça.
+    Os dois primeiros (César Romero do Nascimento Lyra e José Felizardo dos Santos Neto) interpostos insurgem-se contra acórdão do TJPE assim ementado:
+    “PENAL E PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. PRELIMINARES DE NULIDADE DA SENTENÇA DE PRONÚNCIA POR ANÁLISE DO MÉRITO E POR CERCEAMENTO DE DEFESA. REJEIÇÃO. NEGATIVA DE AUTORIA INACOLHIDA. DIANTE DA COMPROVAÇÃO DA MATERIALIDADE DELITIVA E DA PRESENÇA DE INDÍCIOS DE AUTORIA DEVEM OS ACUSADOS SER SUBMETIDOS A JULGAMENTO PELO TRIBUNAL DO JÚRI. A IMPRONÚNCIA EXIGE PROVA INEQUÍVOCA DA AUTORIA DO ACUSADO. APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO SOCIETATE. RECURSO IMPROVIDO. DECISÃO UNÂNIME
+    I - Preliminar de nulidade da sentença de pronúncia por exteriorização monocrática: - A fundamentação da sentença de pronúncia deve ser feita de forma sucinta, sem adentrar no mérito da ação penal. Entretanto, é permitida à análise de determinadas provas, como os depoimentos testemunhais, para estabelecer a viabilidade acusatória. Preliminar inacolhida, à unanimidade de votos.
+    II - Preliminar de nulidade da sentença de pronúncia por cerceamento de defesa: - Segundo disposto no art. 222 do Código de Processo Penal, esgotado o prazo para a oitiva das testemunhas via carta precatória, pode ser proferida sentença, não havendo que se falar em nulidade.
+    - A parte interessada na oitiva da testemunha deve contribuir para o cumprimento da carta precatória, solicitando ao juízo celeridade no seu processamento, o que não ocorreu no caso presente.
+    - Em se tratando de processo de competência do Tribunal do Júri, poderá a defesa, querendo, oferecer rol de testemunhas para serem inquiridas em plenário.
+    - A ausência de perícia da arma de fogo e de balística não acarreta irregularidade formal, uma vez que, in casu, essa prova não se apresenta imprescindível para a prolação da sentença.
+    - Não há nulidade, sem comprovação do prejuízo. Interpretação do art. 563 do Código de Processo Penal.
+    - À unanimidade de votos, foi rejeitada a preliminar.
+    III - Mérito: - A sentença de pronúncia deve ser mantida em todos os seus termos, tendo em vista a presença de indícios suficientes de autoria e da prova da materialidade do crime.
+    - Validade dos depoimentos colhidos em sede policial na presença de Representantes do Ministério Público designados para esse único fim.
+    - Em atenção ao princípio in dúbio pro societate, os acusados só devem ser impronunciados diante de prova inequívoca de sua inocência, o que não é o caso dos autos.
+    - Recurso improvido, à unanimidade de votos. (fls. 1.812/1.840)”.
+    O terceiro recurso foi interposto por César Romero do Nascimento Lyra contra a decisão monocrática do Min. Joel Ilan Paciornik, relator da PET no Recurso Especial 1.418.066/PE, a qual considerou válida intimação feita em nome do advogado “Hélcio França”, da decisão que negou provimento ao recurso especial (eDOC 25, p. 148-151).
+    Consta dos autos que os recorrentes foram pronunciados pela prática do crime previsto no artigo 121, § 2º, incisos I e IV, c/c o artigo 29, todos do Código Penal. (eDOC 17, p. 64-80)
+    Os recursos extraordinários apresentados perante o TJPE, foram interpostos com fundamento no artigo 102, inciso III, alínea a, da CF. O recorrente César alega ofensa ao artigo 5º, incisos XXXVII e LV, e o recorrente José, ofensa ao artigo 5º, incisos XXXVIII, LIV e LV; e 93, inciso IX, todos do texto constitucional.
+    Já o recurso apresentado por César no STJ, foi interposto com fundamento no artigo 102, inciso III, alínea a, da CF. Aponta ofensa ao artigo 5º, incisos XXXVIII e LV, do texto constitucional. Alega excesso de linguagem na sentença de pronúncia, e falha da intimação da decisão proferida pelo STJ que não teria sido feita em “nome de todos os advogados”. (eDOC 26, p. 21)
+    A causa de pedir dos extraordinários é comum, para que sejam providos, anulando-se assim a sentença de pronúncia prolatada.
+    É o relatório.
+    Decido.
+    Registro que o TJPE inadmitiu o RE interposto por José Felizardo dos Santos Neto, por ausência de preliminar de repercussão geral.
+    Verifico, na petição do recurso extraordinário (eDOC 21, p. 82-87 e eDOC 22, p. 1-8), a ausência de preliminar formal e fundamentada de repercussão geral, pressuposto de admissibilidade do recurso (artigo 1.035, § 2º, do CPC).
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 6.9.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 3.5.2007, data da publicação da Emenda Regimental 21 do STF, o que ocorre no presente caso.
+    Quanto ao extraordinário interposto por César perante o TJPE, melhor sorte não lhe assiste, da leitura dos autos, verifica-se que o recorrente pretende, a pretexto de suposta violação ao artigo 5º, incisos XXXVII e LV, do texto constitucional, na realidade, o revolvimento fático-probatório, que é defeso em sede de recurso extraordinário.
+    Constata-se que o Tribunal a quo, com base no acervo fático- probatório produzido nos autos, não verificou ilegalidade manifesta a ensejar a reforma da decisão de pronúncia. A propósito, confiram-se os seguintes trechos do acórdão recorrido:
+    “Segundo relata o recorrente, a sentença de pronúncia contém a exteriorização do posicionamento do magistrado acerca do meritum causae, capaz de causar grande influência no convencimento dos jurados.
+    Não merece acolhida a alegação do recorrente.
+    (…)
+    Da leitura da sentença de pronúncia de fls. 1223/1239, verifica-se que o juiz a quo, ao pronunciar os réus precisou examinar determinadas provas, como, por exemplo, os depoimentos testemunhais, não para facilitar uma condenação pelo Tribunal do Júri, mas, sobretudo, para estabelecer a viabilidade acusatória e, em consequência, desacolher a pretendida impronúncia.
+    Ressalte-se, por fim, que o fato do juiz processante ter constado na sentença de pronúncia a expressão ‘indícios fortes de autoria’ não significa tenha adentrado no mérito da causa.
+    Diante desse contexto, rejeito a preliminar de nulidade da sentença suscitada pelo recorrente”. (eDOC 20, p. 65-67)
+    Neste sentido, cito julgado desta Corte: RHC 121.221/PE, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.6.2014.
+    De igual forma o TJPE também não encontrou ilegalidade a sustentar a alegação de cerceamento de defesa, nos seguintes termos:
+    “Da análise do contexto probatório, conclui-se que também não merece acolhida a segunda preliminar. Senão vejamos:
+    O recorrente, por meio de defesa prévia (fl. 620/621), arrolou como testemunhas Severino Cezário Vieira da Silva, Guilherme Aristóteles Uchoa C. Pessoa de Melo, José Aglailson Querálvares e Franciso Pinto de Freitas.
+    O juiz singular determinou, em caráter de urgência, a realização de todas as diligências necessárias para que as testemunhas arroladas pela defesa do recorrente César Romero do Nascimento Lyra fossem ouvidas (fl. 931/934).
+    Depreende-se dos autos, que a defesa do recorrente, por meio da petição de fl. 994, desistiu da oitiva de Francisco Pinto de Freitas, enquanto que Severino Cezário Vieira da Silva foi inquirido em 04.12.01, conforme documento de fl. 958/960.
+    O despacho de fl. 1145/1148 esclarece bastante a questão. Consta daquele documento que, apesar de devidamente intimada, a testemunha Guilherme Aristóteles Uchoa C. Pessoa de Melo, não compareceu às audiências (fl. 1071 e 1076). Enquanto que José Aglailson Querálvares não foi localizado para que pudesse ser inquirida.
+    Informou o magistrado a quo que foram envidados todos os esforços para a oitiva das testemunhas arroladas pela defesa do acusado César Romero do Nascimento Lyra. Por mais de quatro anos foram expedidas cartas precatórias, com a finalidade de ouvir José Aglailson Querálvares e Guilherme Aristóteles Uchoa C. Pessoa de Melo, parlamentares estaduais que gozavam da prerrogativa de designar dia, hora e local para a inquirição, entretanto o resultado foi infrutífero.
+    Segundo relato dos autos, a defesa, ao contrário do juiz sumariante, em nenhum momento demonstrou interesse em contribuir para a realização da audiência no sentido de diligenciar a localização das mesmas a fim de viabilizar suas oitivas e comprovar suas teses”. (eDOC 20, p. 68-69)
+    Desse modo, é de fácil percepção que a tese desenvolvida no recurso extraordinário demanda a reanálise da instrução probatória, entretanto o apelo extremo não se presta à revisão dos fatos e provas já analisados pelas instâncias ordinárias. Cito precedentes: ARE-AgR 1.040.958/SP, de minha relatoria, Segunda Turma, DJe 1º.12.2017; AI-AgR 780.123/PR, Rel Min. Cármen Lúcia, Primeira Turma, DJe 1º.10.2010 e AI-AgR 780.810/RS, Rel. Min. Ayres Britto, Primeira Turma, DJe 17.9.2010.
+    Em relação ao último recurso extraordinário inadmitido, o interposto por César no STJ o mesmo não merecer ser conhecido.
+    A jurisprudência desta Suprema Corte é farta no sentido de inadmitir recurso extraordinário interposto sem que haja exaurimento das vias recursais ordinárias nos termos da Súmula 281/STF: “É inadmissível o recurso extraordinário, quando couber na Justiça de origem, recurso ordinário da decisão impugnada”.
+    Além desta Súmula o assunto é objeto do tema 181 da sistemática de repercussão geral, cujo processo paradigma é o RE-RG 598.365, de relatoria do Min. Ayres Britto, DJe 14.8.2009.
+    Ante o exposto, nego seguimento aos recursos interpostos pelos recorrentes José e César (artigo 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 8 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
