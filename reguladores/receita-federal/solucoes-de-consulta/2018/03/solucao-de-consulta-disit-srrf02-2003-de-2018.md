@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF02 nº 2003, de 22 de fevereiro de 2018
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF EMENTA: PAGAMENTOS EFETUADOS POR PESSOAS JURÍDICAS A OUTRAS PESSOAS JURÍDICAS. DISPENSA DE RETENÇÃO. A dispensa de retenção de imposto de renda na fonte, prevista no art. 67 da Lei nº 9.430, de 1996, aplica-se a cada pagamento ou crédito realizado pela pessoa jurídica a outra pessoa jurídica, levando-se em consideração o total pago ou creditado nessa ocasião, ainda que se refira a mais de um documento fiscal. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 161, DE 24 DE JUNHO DE 2014. DISPOSITIVOS LEGAIS: Lei nº 9.430, de 1996, art. 67; ADN Cosit nº 15, de 1997.
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: PAGAMENTOS EFETUADOS POR PESSOAS JURÍDICAS A OUTRAS PESSOAS JURÍDICAS. DISPENSA DE RETENÇÃO. A dispensa de retenção de imposto de renda na fonte, prevista no art. 67 da Lei nº 9.430, de 1996, aplica-se a cada pagamento ou crédito realizado pela pessoa jurídica a outra pessoa jurídica, levando-se em consideração o total pago ou creditado nessa ocasião, ainda que se refira a mais de um documento fiscal. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 161, DE 24 DE JUNHO DE 2014.
+DISPOSITIVOS LEGAIS: Lei nº 9.430, de 1996, art. 67; ADN Cosit nº 15, de 1997.
+ALDENIR BRAGA CHRISTO Chefe
