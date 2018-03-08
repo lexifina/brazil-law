@@ -1,0 +1,31 @@
+DECISÃO
+RECLAMAÇÃO – AFASTAMENTO DE PRECEITO LEGAL – AUSÊNCIA DE INCIDENTE DE INCONSTITUCIONALIDADE – VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO – PROCEDÊNCIA DO PEDIDO.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Figueirense Futebol Clube afirma haver a Primeira Câmara do Tribunal Regional do Trabalho da 12ª Região, no recurso ordinário nº 0010679-69.2013.5.12.0026, desrespeitado o verbete vinculante nº 10 da Súmula do Supremo.
+    Segundo narra, o Ministério Público do Trabalhou ajuizou contra si demanda visando o adimplemento, relativamente aos atletas da categoria de base, das obrigações previstas no artigo 29 da Lei nº 9.615/1998 (Lei Pelé), bem assim a declaração de inconstitucionalidade do § 4º do citado dispositivo. Eis o teor:
+    Art. 29. A entidade de prática desportiva formadora do atleta terá o direito de assinar com ele, a partir de 16 (dezesseis) anos de idade, o primeiro contrato especial de trabalho desportivo, cujo prazo não poderá ser superior a 5 (cinco) anos. (Redação dada pela Lei nº 12.395, de 2011).
+    § 4o O atleta não profissional em formação, maior de quatorze e menor de vinte anos de idade, poderá receber auxílio financeiro da entidade de prática desportiva formadora, sob a forma de bolsa de aprendizagem livremente pactuada mediante contrato formal, sem que seja gerado vínculo empregatício entre as partes. (Incluído pela Lei nº 10.672, de 2003)
+    Julgado procedente o pedido em primeiro grau, o entendimento foi mantido pelo Tribunal reclamado, o qual teria admitido a invalidade do preceito considerado o disposto nos artigos 7º, inciso XXXIII, e 227 da Constituição Federal, e reputado inexistentes os argumentos de defesa e documentos juntados ao processo após o escoamento do prazo da contestação.
+    Sustenta contrariado o paradigma, dizendo assentado o descompasso do § 4º do artigo 29 da Lei nº 9.615/1998 por órgão fracionário, sem a observância da cláusula de reserva de plenário. Consoante argumenta, presente o decidido na origem, não pode valer-se do disposto no referido preceito quanto aos atletas de base, os quais ficariam regidos pelo artigo 428 da Consolidação das Leis do Trabalho, concernente ao contrato de aprendizagem, a implicar tratamento diferenciado relativamente aos demais clubes de futebol. Evoca jurisprudência. Insiste ter atendido a todas as obrigações indicadas no dispositivo, a justificar o próprio enquadramento como entidade formadora de atletas. Cita o versado no verbete nº 231 da Súmula do Tribunal, segundo o qual “o revel, em processo cível, pode produzir provas, desde que compareça em tempo oportuno”, além do artigo 321 do Código de Processo Civil de 1973.
+    Sob o ângulo do risco, alude ao desequilíbrio surgido a partir da adoção de tratamento diferenciado entre clubes de futebol e aos prejuízos decorrentes.
+    Requereu, no campo precário e efêmero, a suspensão da eficácia do acórdão impugnado e do curso do processo na origem. Postula, alfim, a cassação do pronunciamento atacado.
+    Em 29 de julho de 2014, o ministro Ricardo Lewandowski, então Presidente, deferiu a liminar para suspender a eficácia do ato reclamado.
+    O Tribunal Regional do Trabalho da 2ª Região, nas informações, esclarece as razões veiculadas na decisão impugnada.
+    O Ministério Público Federal opina pela procedência do pedido. Entende contrariado o verbete vinculante nº 10 uma vez assentada, com base na Constituição Federal, a invalidade do § 4º do artigo 29 da Lei nº 9.615/1998.
+    2. A irresignação merece prosperar. A leitura do acórdão questionado revela a declaração de inconstitucionalidade do § 4º do artigo 29 da Lei nº 9.615/1998 por órgão fracionário do Tribunal Regional do Trabalho da 12ª Região. A análise dos fundamentos nele consignados evidencia, até mesmo, a abertura de capítulo específico voltado a verificar o apontado descompasso da mencionada norma com a Lei Maior, que acabou reconhecido. Confiram o seguinte trecho do pronunciamento reclamado:
+    M É R I T O
+    1 - CONSTITUCIONALIDADE DO § 4º DO ART. 29 DA LEI Nº 9.615/98 (LEI PELÉ)
+    [...]
+    Quanto à constitucionalidade do § 4º do art. 29 da Lei nº 9.615/98 (Lei Pelé), destaque-se para o fato de que a especificidade das atividades por ela regidas (atleta profissional de futebol) não obsta a correta observância por parte dos clubes de futebol dos direitos trabalhistas e previdenciários assegurado a essa categoria de trabalhadores, sobretudo diante da indisponibilidade dos direitos trabalhistas e constitucionais da proteção integral, que não confere ao contrato de formação profissional dos atletas adolescentes a possibilidade de lhes assegurar direitos trabalhistas e previdenciários.
+    Na verdade, a referida lei, ao estabelecer no § 4º do art. 29 que "o atleta não profissional em formação, maior de quatorze e menor de vinte anos de idade, poderá receber auxílio financeiro da entidade de prática desportiva formadora, sob a forma de bolsa de aprendizagem livremente pactuado mediante contrato formal, sem que seja gerado vínculo empregatícios entre as partes" objetivou assegurar o interesse dos clubes de futebol em detrimento dos atletas nessa faixa etária.
+    A Constituição da República Federativa do Brasil de 1988 estabelece o seguinte:
+    [...]
+    Portanto, o referido § 4º do art. 29 da Lei nº 9.615/98, viola o disposto nos arts. 7º, inc. XXXIII, 227 da CRFB/88, motivo pelo qual reputo correta a sentença no ponto em que foi declarada sua inconstitucionalidade.
+    [...]
+    Ao confirmar a sentença, inclusive quanto à invalidade do citado dispositivo, o Tribunal reclamado desrespeitou o verbete vinculante nº 10 da Súmula do Supremo, cujo teor transcrevo:
+    Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
+    3. Julgo procedente o pedido formulado nesta reclamação para cassar o acórdão formalizado pela Primeira Câmara do Tribunal Regional do Trabalho da 12ª Região no recurso ordinário nº 0010679-69.2013.5.12.0026.
+    4. Publiquem.
+Brasília, 8 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
