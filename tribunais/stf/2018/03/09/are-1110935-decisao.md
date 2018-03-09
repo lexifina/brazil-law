@@ -1,0 +1,19 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Turma Recursal do Estado de Sergipe, assim ementado:
+    “RECURSO INOMINADO. DIREITO DO CONSUMIDOR. INCLUSÃO EM CADASTRO DE INADIMPLENTES. CANCELAMENTO PRETÉRITO DO SERVIÇO. PARTE REQUERIDA NÃO FAZ PROVA MODIFICATIVA, EXTINTIVA OU IMPEDITIVA DA PRETENSÃO AUTORAL. RESPONSABILIDADE OBJETIVA. DANO IN RE IPSA. ART. 14 DO CDC. DANOS MORAIS CONFIGURADOS. QUANTUM INDENIZATÓRIO FIXADO EM R$ 7.000,00 (SETE MIL REAIS). VALOR DE ACORDO COM OS PARÂMETROS DESTE COLEGIADO EM SITUAÇÕES ANÁLOGAS. SENTENÇA PRESERVADA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E DESPROVIDO.”
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos II, V, XXXVI, LIII, LIV e LV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Além disso, colhe-se do voto condutor do acórdão recorrido o seguinte excerto:
+    “Imperioso ressaltar que o recurso interposto versa tão somente sobre a redução da quantia fixada a título de indenização pelos danos morais, fixados em R$ 7.000,00. Nesse sentido, é de se observar que o montante arbitrado pelo Juízo a quo se encontra próximo aos parâmetros deste colegiado e atende às finalidades compensatória, punitiva e pedagógica, não gerando enriquecimento sem causa e não merecendo ser majorado ou minorado.”
+    Com efeito, o Plenário deste Supremo Tribunal Federal, no exame do ARE nº 743.771/SP, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da questão relativa à fixação do valor da indenização por danos morais, dado o caráter infraconstitucional desse tema. A decisão do Pleno está assim ementada:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. VALOR FIXADO A TÍTULO DE INDENIZAÇÃO POR DANOS MORAIS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO 279 DA SÚMULA DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL”.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo.
+    Publique-se.
+    Brasília, 9 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
