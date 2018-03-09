@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Município de Olímpia. Aparelhado o recurso na afronta ao art. 37, § 6º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A Corte de origem decidiu a controvérsia em acórdão assim ementado:
+    “RESPONSABILIDADE CIVIL — INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS — ACIDENTE DE VEÍCULO — MÁ CONSERVAÇÃO DE VIA PÚBLICA. Sem embargo da distinção terminológica, para á. fins processuais, o Município pode ser entendido como Prefeitura ou Municipalidade. Nos termos do art. 37, § 6, da Constituição Federal, é objetiva a responsabilidade civil das pessoas jurídicas de direito público. Ainda que se trate de ato omissivo, a municipalidade deve responder pelos danos causados aos familiares da vítima do acidente, em razão da má conservação da via pública. Precedente do E.  STF. Indenizações  devidas. Valores mantidos. PRELIMINARES AFASTADAS. RECURSOS DESPROVIDOS.”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que não somente os atos comissivos do Poder Público, mas também os omissivos, ensejam a responsabilização do Estado. Nesse sentido:
+    “RESPONSABILIDADE CIVIL DO PODER PÚBLICO - PRESSUPOSTOS PRIMÁRIOS QUE DETERMINAM A RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO - O NEXO DE CAUSALIDADE MATERIAL COMO REQUISITO INDISPENSÁVEL À CONFIGURAÇÃO DO DEVER ESTATAL DE REPARAR O DANO NÃO COMPROVAÇÃO, PELA PARTE RECORRENTE, DO VÍNCULO CAUSAL - RECONHECIMENTO DE SUA INEXISTÊNCIA, NA ESPÉCIE, PELAS INSTÂNCIAS ORDINÁRIAS - SOBERANIA DESSE PRONUNCIAMENTO JURISDICIONAL EM MATÉRIA FÁTICO-PROBATÓRIA - INVIABILIDADE DA DISCUSSÃO, EM SEDE RECURSAL EXTRAORDINÁRIA, DA EXISTÊNCIA DO NEXO CAUSAL - IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 279/STF) - RECURSO DE AGRAVO IMPROVIDO. - Os elementos que compõem a estrutura e delineiam o perfil da responsabilidade civil objetiva do Poder Público compreendem (a) a alteridade do dano, (b) a causalidade material entre o 'eventus damni' e o comportamento positivo (ação) ou negativo (omissão) do agente público, (c) a oficialidade da atividade causal e lesiva imputável a agente do Poder Público que tenha, nessa específica condição, incidido em conduta comissiva ou omissiva, independentemente da licitude, ou não, do comportamento funcional e (d) a ausência de causa excludente da responsabilidade estatal. Precedentes.” (RE 481.110-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 09.3.2007)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de março de 2018.
+Ministra Rosa Weber
+Relatora
