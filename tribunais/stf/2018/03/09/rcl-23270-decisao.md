@@ -1,0 +1,38 @@
+DECISÃO
+AUTUAÇÃO – RETIFICAÇÃO.
+RECLAMAÇÃO – ACÓRDÃO FORMALIZADO NO HABEAS CORPUS Nº 95.774/CE – DESRESPEITO – PROCEDÊNCIA DO PEDIDO.
+    1. O assessor Dr. Vinicius de Andrade Prado assim revelou as balizas do caso:
+    Em 10 de março de 2016, ao implementar a medida acauteladora, Vossa Excelência fez ver:
+RECLAMAÇÃO – ACÓRDÃO DO HABEAS CORPUS Nº 95.774/CE – DESRESPEITO – RELEVÂNCIA – LIMINAR DEFERIDA.
+    1. O assessor Dr. Vinicius de Andrade Prado prestou as seguintes informações:
+    Marcelo Fontenele Maia afirma haver o Juízo da 3ª Vara do Júri da Comarca de Fortaleza/CE, no Processo nº 0926603-46.2000.8.06.0001, inobservado o que decidido no Habeas Corpus nº 95.774/CE.
+    Segundo narra, o Órgão reclamado determinou, em 2 de março de 2016, a própria custódia, considerado o entendimento recentemente adotado pelo Pleno, por maioria, no Habeas Corpus nº 126.292/SP, no que admitida a execução provisória de pena corpórea.
+    Sustenta desrespeitado o paradigma, porquanto o Tribunal teria deferido a ordem nele pleiteada para obstar, em relação a si, a execução antecipada da reprimenda antes do trânsito em julgado da decisão condenatória. Aponta a preclusão maior do acórdão dito olvidado. Evoca o inciso XXXVI do artigo 5º da Carta da República, segundo o qual “a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada”. Diz da pendência de julgamento, no Superior Tribunal de Justiça, do Agravo em Recurso Especial nº 611.049, relator ministro Gurgel Faria.
+    Sob o ângulo do risco, alude à iminência do recolhimento.
+    Requer, em sede liminar, a sustação do ato impugnado e, alfim, a desconstituição do pronunciamento.
+    2. Percebam as balizas do caso. O reclamante teve a prisão determinada no curso da persecução penal. Embora tachada de preventiva, a leitura do ato impugnado demonstra ter o Juízo de origem assentado a execução provisória da pena restritiva de liberdade, antes de ocorrido o trânsito em julgado da condenação, presente a óptica consignada pelo Pleno, por maioria, no Habeas Corpus nº 126.292/SP, no que permitida a execução antecipada da reprimenda. Confiram o seguinte trecho do pronunciamento atacado:
+    […]
+    Quase seis anos depois, a Suprema Corte retoma o curso da própria história, ao julgar o HC 126292/SP e admitir, também por maioria de votos, a execução provisória da pena, lançando luzes sobre um obscuro e passado quinquênio, impondo limites à chamada presunção de inocência, estabelecendo nessa questão o arquétipo dos novos tempos.
+    […]
+    Partindo dessa concepção, considerando que a saraivada de recursos de natureza regimental interpostos pelo acusado no âmbito dos tribunais superiores não impedem o início da execução provisória de sua pena, tendo em mira a fixação no acórdão condenatório do regime inicial semiaberto para cumprimento da pena de reclusão de oito anos, avalio como pertinente a prisão do delatado recalcitrante recorrente para expedição da competente guia de recolhimento, a fim de que se cumpra o disposto no artigo 105 da Lei de Execução Penal, nos termos dos precedentes abaixo ementados, com grifos da signatária:
+    […]
+    Diante do exposto, decreto a PRISÃO PREVENTIVA de MARCELO FONTENELE MAIA e determino a expedição da competente Guia de Recolhimento Provisória (Carta de Guia Provisória) com o consequente encaminhamento a uma das varas de Execução Penal desta comarca.
+    Verifico a relevância da alegação. O entendimento revelado no pronunciamento questionado conflita com o decidido no Habeas Corpus nº 95.774/CE, de minha relatoria, no qual o reclamante figura como paciente. Na sessão ocorrida em 1º de dezembro de 2009, a Primeira Turma implementou a ordem para obstar a execução da pena na pendência de recurso. Esta foi a ementa:
+    PENA – EXECUÇÃO – RECURSO – ALCANCE. O princípio da não culpabilidade exclui a execução da pena quando pendente recurso, muito embora sem eficácia suspensiva.
+    (Habeas Corpus nº 95.774/SP, Primeira Turma, de minha relatoria, Diário da Justiça eletrônico de 19 de fevereiro de 2010.)
+    3. Defiro a liminar para suspender, até o julgamento final desta reclamação, a eficácia do ato formalizado, em 2 de março de 2016, pelo Juízo da 3ª Vara do Júri da Comarca de Fortaleza/CE no Processo nº 0926603-46.2000.8.06.0001.
+    4. Deem ciência desta reclamação ao interessado, o Ministério Público do Estado do Ceará, e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+    Luís Rosalvo de Araújo Carneiro, na condição de pai de Roberta Viana Carneiro – vítima do delito objeto do processo-crime – e assistente de acusação, esclarece, em agravo interno, o histórico processual do caso. Frisa que, embora acolhido requerimento visando a execução provisória da condenação imposta pelo Tribunal do Júri, considerado o decidido no habeas corpus nº 126.292, relator o ministro Teori Zavascki, acabou tendo a eficácia suspensa em virtude da liminar deferida nesta reclamação.
+    Marcelo Fontenele Maia, em contraminuta, postula o não conhecimento do agravo, dizendo não permitido a assistente de acusação recorrer contra o implemento de medida acauteladora. Evoca os artigos 584, § 1º, 577 e 598 do Código de Processo Penal, a revelarem, conforme aponta, rol taxativo dos casos nos quais é adequado o recurso do assistente. Menciona o verbete nº 208 da Súmula do Supremo. Articula com a extemporaneidade do agravo, afirmando-o protocolado antes da publicação do ato recorrido. Assinala, no mérito, o acerto da decisão liminar, salientando que teve assegurada, no habeas corpus nº 95.774/CE, a liberdade provisória até o trânsito em julgado do título condenatório.
+    O Juízo reclamado, nas informações, discorre sobre o caso, buscando demonstrar o esgotamento das instâncias ordinárias relativamente ao processo-crime surgido em desfavor do reclamante. Cita o decidido no habeas corpus nº 126.292, no qual admitida a execução provisória da pena.
+    Por meio da petição/STF nº 67.730/2016, Luís Rosalvo de Araújo Carneiro insiste na reconsideração do ato por meio do qual deferida a medida de urgência.
+    O Ministério Público Federal opina pela improcedência parcial do pedido. Consoante entende, confirmada a condenação em segundo grau, mostra-se pertinente a execução provisória da pena, não sendo possível falar de ilegalidade da prisão.
+    Em 8 de maio de 2017, Vossa Excelência, ao reconhecer o descumprimento da liminar, suspendeu a eficácia de pronunciamento mediante o qual o Juízo da Terceira Vara do Júri da Comarca de Fortaleza, em 10 de março de 2017, determinou a prisão do reclamante.
+    2. Retifiquem a autuação para fazer dela constar, como interessado, o assistente de acusação na origem, Luís Rosalvo de Araújo Carneiro.
+    3. Tenho por pertinentes as mesmas razões que conduziram ao acolhimento do pedido de medida acauteladora. Consoante fiz ver, a Primeira Turma, ao apreciar, em 1º de dezembro de 2009, o habeas corpus nº 95.774/CE, de minha relatoria, deferiu a ordem afastando a execução da pena na pendência de recurso, mesmo que desprovido de eficácia suspensiva. Ao impor a custódia provisória, tanto em 2 de março de 2016 como em 10 de março de 2017, o Órgão reclamado acabou por desrespeitar o paradigma.
+    4. Ante o quadro, julgo procedente o pedido formulado nesta reclamação para cassar as decisões proferidas pelo Juízo da Terceira Vara do Júri da Comarca de Fortaleza em 2 de março de 2016 e 10 de março de 2017 no processo nº 0926603-46.2000.8.06.0001, declarando o prejuízo do agravo interno protocolado.
+    5. Publiquem.
+Brasília, 9 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
