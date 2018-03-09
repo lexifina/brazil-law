@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado de São Paulo. Aparelhado o recurso na afronta ao art. 114, I e IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Oportuna a transcrição parcial do acórdão recorrido:
+    “[...]
+    A respeito da competência para o julgamento de controvérsia sobre complementação de aposentadoria relacionada ao contrato de trabalho, a matéria foi julgada pelo Supremo Tribunal Federal em recurso extraordinário com repercussão geral, nestes termos:
+    "O Tribunal, por maioria, deu provimento ao recurso para reconhecer a competência da Justiça Comum, vencidos os Ministros Cármen Lúcia e Joaquim Barbosa [...]. Em seguida, o Tribunal modulou os efeitos da decisão para reconhecer a competência da justiça trabalhista para processar e julgar, até o trânsito em julgado e correspondente execução, todas as causas da espécie que hajam sido sentenciadas, até a data de hoje (20/2/2013) [...]. Plenário, 20.2.2013" (Recurso extraordinário 586453, DJe 43/2013 de 06/03/2013).
+    [...]
+    Assim, considerando-se que no presente processo foi proferida sentença de mérito em data anterior a 20/02/2013 (sentença de mérito publicada em 26/02/2009), a tese firmada pelo Tribunal Regional
+    no sentido de não ser competente a Justiça do Trabalho para o exame de pedido de diferenças de complementação de aposentadoria, quando o direito postulado é uma decorrência da relação jurídica que o empregado mantém com a entidade de previdência privada instituída por seu empregador, parece violar o art. 114, I, da Constituição Federal. [...]”
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Previdência privada. Complementação de aposentadoria. RE nºs 586.453/SE-RG e 583.050/RS-RG. Competência da Justiça comum. Modulação dos efeitos para manter na Justiça do Trabalho processos com sentença de mérito proferida até a conclusão do julgamento do recurso (20/2/13). Regras do Direito Civil. Utilização pela Justiça Laboral. Possibilidade. 1. Por força do que decidido pelo Supremo Tribunal Federal na análise conjunta dos RE nºs 586.453/SE e 583.050/RS, a competência para processar e julgar a questão relativa ao saldamento do plano previdenciário, embora fosse, de fato, da Justiça comum, permaneceu com a Justiça do Trabalho em razão da modulação dos efeitos do julgamento. 2. Mesmo sendo a competência da Justiça do Trabalho, não significa, que essa não deva observar, ao se debruçar sobre uma relação de direito civil, as regras desse último. 3. O Contrato de previdência complementar dissocia-se do contrato de trabalho, não havendo razão ou respaldo legal para aplicar ao primeiro a lógica e o regramento do segundo. 4. Correta a decisão monocrática na qual se determinou o retorno dos autos à instância de origem, a fim de que aquele colegiado, com amparo na legislação pertinente e nos elementos coligidos no acórdão prolatado pelo Tribunal de 2ª instância, profira nova decisão acerca do saldamento operado e da cláusula de quitação plena celebrada, à luz do que dispõe o Direito Civil. 5. Agravo regimental não provido. 6. Inaplicável o art. 85, § 11, do CPC, pois não houve fixação prévia de honorários advocatícios na causa.” (ARE 1021537-AgR, Rel. Min. Dias Toffoli, 2ª Turma, DJe 31.10.2017)
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de março de 2018.
+Ministra Rosa Weber
+Relatora
