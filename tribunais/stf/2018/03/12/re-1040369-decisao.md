@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região.
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou o art. 5º, XV e XXXVI, da Carga Magna.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    No que diz respeito à afronta ao art. 5º, XV, da CF/88, o Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada) e 356 (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), ambas desta CORTE SUPREMA.
+    No tocante à alegação de afronta ao art. 5º, XXXVI, da CF/88, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, o acórdão recorrido restou assim ementado (fl. 205, Vol. 1):
+    “EMENTA: ADMINISTATIVO. SERVIDOR PÚBLICO. DNER. GDAR – GRATIFICAÇÃO DE ATIVIDADES RODOVIÁRIAS. TRANSFORMAÇÃO EM VPNI.
+    I – Cuida-se ação ordinária contra a União, objetivando seja implantada em seu contracheque a Gratificação de Desempenho de Atividade Rodoviária – GDAR, convertida em VPNI.
+    II – A GDAR – Gratificação pelo Desempenho de Atividades Rodoviárias foi instituída pelo Decreto-lei nº 2193/1984.
+    III – Com o advento da lei nº 7923/89, a GDAR foi absorvida pela nova remuneração, sendo incorporada aos vencimentos dos servidores, continuando a ser devida apenas aos servidores comissionados sem vínculo, até ser definitivamente extinta pela Lei nº 8460/92.
+    IV – Posteriormente, com a edição da Medida Provisória nº 210/2004, convertida na Lei nº 11.094/2005, a GDAR foi transformada em VPNI, estando sujeita apenas aos reajustes gerais de remuneração dos servidores públicos.
+    V – Impossibilidade do desconto de parcelas recebidas indevidamente, em razão de se tratar de valores recebidos de boa-fé.
+    VI – Sem condenação em honorários, em razão da gratuidade da justiça.
+    VII – Apelações e remessa oficial improvidas”
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas indicadas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Por fim, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Nesse sentido, cite-se o ARE 1.021.859/RS, Rel. Min. RICARDO LEWANDOWSKI, DJe de 9/2/2017.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 12 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
