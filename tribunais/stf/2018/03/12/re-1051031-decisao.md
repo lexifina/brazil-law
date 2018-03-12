@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 249, Vol. 2):
+    “PROCESSUAL CIVIL E ADMIISTRATIVO. AÇÃO CIVIL PÚBLICA. MPF. UNIÃO. DNIT. MANUTENÇÃO E RECUPERAÇÃO DE RODOVIA FEDERAL. FISCALIZAÇÃO. ATRIBUIÇÕES DA ADMINISTRAÇÃO INDIRETA.
+    Incabível a imposição à administração direta (União) de obrigação legalmente atribuída à entidade da administração indireta (DNIT), sob pena de inviabilizar a prestação do serviço público, uma vez que, criada autarquia federal para fiscalizar as obras de infra-estrutura, não há se falar em imputação de tal responsabilidade à União diretamente.”
+    Os Embargos de Declaração foram rejeitados (e-STJ, fl. 263, Vol. 2)
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, Constituição Federal, a parte recorrente sustenta que o julgado ofendeu o art. 21, XXI, da Carta Magna.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, ainda que superado esse grave óbice, o Juízo de origem, exclusivamente com base na análise da legislação infraconstitucional de regência (Lei 10.233/2001), decidiu acerca da responsabilidade do DNIT para fiscalização de obras de infraestrutura em rodovia federal. Nesse sentido, veja-se o seguinte trecho do acórdão recorrido:
+    “Com efeito, a Lei nº 10.233/01 criou o Departamento Nacional de Infra-Estrutura em Transporte – DNIT pessoa jurídica de direito público, submetido ao regime de autarquia, vinculado ao Ministério dos Transportes. Os artigos 82 e 83 da referida Lei assim estabelecem:
+    Art. 82. São atribuições do DNIT, em sua esfera de atuação:
+    (...)
+    IV – administra, diretamente ou por meio de convênios de delegação ou cooperação, os programas de operação, manutenção, conservação, restauração e reposição de rodovias, ferrovias, vias navegáveis, terminais e instalações portuária fluviais e lacustres, excetuadas as outorgadas às companhia docas;
+    V – gerenciar, diretamente ou por meio de convênios de delegação ou cooperação, projetos e obras de construção e ampliação de rodovias, ferrovias, vias navegáveis, terminais e instalações portuárias fluviais e lacustres, excetuadas as outorgadas às companhias docas, decorrentes de investimentos programados pelo Ministério dos Transportes e autorizados pelo Orçamento Geral da União;
+    (...)
+    Art. 83. Na contratação de programas, projetos e obras decorrentes do exercício direto das atribuições de que trata o art. 82, o DNIT deverá zelar pelo cumprimento das boas normas de concorrência, fazendo com que os procedimentos de divulgação de editais, julgamento de licitações e celebração de contratos se processem em fiel obediência aos preceitos da legislação vigente, revelando transparência e fomentando a competição, em defesa do interesse público.
+    Parágrafo único. O DNIT fiscalizará o cumprimento das condições contratuais, quanto às especificações técnicas, aos preços e seus reajustamentos, aos prazos e cronogramas, para o controle da qualidade, dos custos e do retorno econômico dos investimentos.’
+    Destarte, criada autarquia federal para fiscalizar as obras de infraestrutura, não há que se falar em imputação de tal responsabilidade à União diretamente.”
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas indicadas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 12 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
