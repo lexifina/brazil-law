@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “USUCAPIÃO ORDINÁRIO. Imóvel urbano. Transcrição imobiliária em nome de pessoa natural. Presunção de que o imóvel seja particular. Presunção não elidida. Ausência de fundamento para que se desloque a competência para um juízo da Fazenda Pública. Reconhecimento de que o imóvel se situa em área devoluta dependente de ação em andamento desde 1957. Inviabilidade de aguardar seu deslinde, tendo em vista o princípio da duração razoável do processo. Apelante que poderá obter o registro da área devoluta, caso seja julgada nesse sentido a referida ação. Art. 13 da Lei 6386/76. Sentença que, no mérito, bem demonstrou o cumprimento dos requisitos do usucapião ordinário. Sentença mantida, tal como lançada. Art. 252 do Regimento Interno. Recurso improvido”. (eDOC 3, p. 66)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 183, § 3º; e 191, parágrafo único, do texto constitucional.
+    Nas razões recursais, alega-se que, como tramita no mesmo foro ação de demarcação de área pública devoluta, que pode abranger o imóvel objeto da ação de origem, seria imperiosa a suspensão do curso desta última. (eDOC 3, p. 101)
+    A Procuradoria-Geral da República manifestou-se em parecer assim ementado:
+    “RECURSO EXTRAORDINÁRIO. AÇÃO DISCRIMINÁTÓRIA. USUCAPIÃO. TERRAS DEVOLUTAS. ALEGADA VIOLAÇÃO AOS ART. 183, §3° e 191, par. único, DA CF/88. O acórdão recorrido manteve a sentença de 1° grau que julgou procedente a ação de usucapião ajuizada pelos autores, ora recorridos, amparado no conjunto fático probatório constante dos autos. Entender de forma diversa ensejaria o reexame de fatos e provas vedado no âmbito do recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Quanto ao sobrestamento da ação de usucapião até o trânsito em julgado da ação discriminatória, o debate tem caráter processual. Portanto, se existente, a ofensa à Constituição seria reflexa. Pelo não seguimento”. (eDOC 8)
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 6.386/1976) e o conjunto probatório constante dos autos, consignou que a procedência do pedido não prejudicaria o recorrente, se o imóvel usucapiendo vier a ser reconhecido como terra devoluta. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O imóvel em testilha é objeto de transcrição imobiliária em nome de Riva Hernandes, representada nos autos por curador especial que não apelou da sentença.
+    Por conseguinte, há presunção relativa decorrente do registro imobiliário de que o imóvel é particular, presunção essa que não foi elidida pela apelante. Assim sendo, não há fundamento para deslocar-se a competência em primeiro grau para o juízo da Fazenda Pública.
+    Na verdade, o reconhecimento de que o imóvel estaria situado em área devoluta depende de decisão a ser proferida em ação discriminatória, aforada em 1957, que ainda se encontra em andamento.
+    (…)
+    De qualquer modo, se a apelante sair vencedora da ação discriminatória, poderá obter o registro da área devoluta, com o cancelamento dos títulos de particulares, na forma do art. 13 da Lei nº 6386 de 07.12.76”. (eDOC 3, p. 67)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Terras públicas. Usucapião. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e das provas dos autos. Incidência da Súmulas nº 279 desta Corte. 2. Agravo regimental não provido” (RE 633811 AgR, rel. Min. Dias Toffoli, Primeira Turma, DJe 9.11.2012).
+    “CONSTITUCIONAL. PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO DE USUCAPIÃO. TERRENO DE MARINHA. ART. 20, IV, DA CF. REEXAME DE FATOS E PROVAS. VALORAÇÃO DA PROVA. MATÉRIA INFRACONSTITUCIONAL. 1. Para reformar o acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, o que impede o trânsito do apelo extremo. Incidência da Súmula STF 279. 2. Inviável o processamento do extraordinário para debater controvérsia infraconstitucional relativa à valoração de prova. Precedentes. 3. Agravo regimental improvido” (AI-AgR 522895, rel. Min. Ellen Gracie, Segunda Turma, DJe 19.3.2010).
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
