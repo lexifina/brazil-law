@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    José Jovial Pascoal da Silva interpõe agravo contra decisão que não admitiu recurso extraordinário, assentado em contrariedade ao artigo 5º, inciso XLVI, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado:
+    “Apelação Criminal. Estelionato. Exclusão de dados de sistema de informações. Nulidade da sentença. Ausência de Fundamentação. Inocorrência. Prova. Autoria e materialidade comprovadas. Confissão. Retratação em juízo. Irrelevância. Conjunto probatório harmônico. Crime funcional praticado por particular. Participação. Possibilidade. Inteligência dos arts. 29 e 30 do CP. Condenação mantida. Pena-base. Fundamentação. Suficiência. Atenuante do desconhecimento da lei. Inaplicabilidade na espécie. Delação premiada. Não configuração. Prescrição. Ocorrência de lapso temporal. Punibilidade extinta.
+    1. Em sendo as provas coerentes e condizentes com toda a dinâmica delitiva praticada pelos recorrentes, permitindo evidenciar detalhadamente a ação criminosa e artificiosa, não há como acolher o pleito absolutório.
+    2. É possível a condenação estribada em confissão extrajudicial quando conjugada com outros elementos de convicção carreados para os autos, notadamente quando a retratação estiver desacompanhada de justificativa plausível.
+    3. Por ser elementar do crime do art. 313-A, do CP, a condição de funcionário público se comunica aos particular, podendo este concorrer para a prática delitiva. Exegese dos arts. 29 e 30 do CP.
+    4. Não é exacerbada a pena-base que pouco se afasta do mínimo legal, mormente quando o magistrado age com razoabilidade e proporcionalidade devidamente motivadas.
+    5. A atenuante do desconhecimento da lei é incompatível com agentes que ostentam grau de instrução elevado e profundo conhecimento dos trâmites burocráticos da administração pública fiscal.
+    6. A diminuição da pela delação premiada somente tem lugar quando essencial para o aclaramento da autoria dos demais consortes, não se aplicando quando estes confessam espontaneamente o crime.
+    7. Constatado que entre a data do fato e o recebimento da denúncia mediou tempo superior à sete anos, e sendo as penas não superiores a dois anos, impõe-se a extinção da punibilidade, quanto ao crime de estelionato, pela prescrição.”
+    Nas razões do extraordinário, sustenta o agravante que “o fundamento apontado para a majoração da pena mínima é equivocado, haja vista que o recorrente NUNCA fez parte da Gerência de Informática da Administração da Secretaria da Fazenda”.
+    Por fim, pugna pela reforma do acórdão recorrido “para reduzir a pena fixada para o tipo penal previsto no art. 313-A do CP para o seu mínimo legal’.
+    Examinados os autos, decido.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AJUDA DE CUSTO. MILITAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SÚMULA 636 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Ausência de prequestionamento. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III – Agravo regimental a que se nega provimento” (ARE nº 800.777/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 29/5/14).
+    Por outro lado, forçoso concluir que o Tribunal a quo ao decidir a questão, se ateve ao exame da legislação infraconstitucional, notadamente do Código Penal. Portanto, a violação à Constituição, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Cumpre, também, registrar que a Corte, no exame do AI nº 742.460/RJ, Relator o Ministro Cezar Peluso, concluiu pela ausência de repercussão geral de questões relativas à dosimetria de pena, em virtude de sua natureza infraconstitucional.
+    Confira-se a ementa do caso paradigma:
+    “RECURSO. Extraordinário. Inadmissibilidade. Circunstâncias judiciais previstas no art. 59 do Código penal. Fixação da pena-base. Fundamentação. Questão da ofensa aos princípios constitucionais da individualização da pena e da fundamentação das decisões judiciais. Inocorrência. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão da valoração das circunstâncias judiciais previstas no art. 59, do Código penal, na fundamentação da fixação da pena-base pelo juízo sentenciante, porque se trata de matéria infraconstitucional” (DJe de 25/9/09 - grifei).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 13 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
