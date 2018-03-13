@@ -1,0 +1,32 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO OCUPANTE DE CARGO COMISSIONADO. EXONERAÇÃO AD NUTUM. PERDA DO MANDATO NA JUNTA ADMINISTRATIVA DE RECURSOS DE INFRAÇÕES (JARI). AUSÊNCIA DE ILEGALIDADE. EXERCÍCIO DO MANDATO CONDICIONADO AO EXERCÍCIO DO CARGO PÚBLICO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A perda do mandado ocupado no JARI pelo recorrente não padece de qualquer ilegalidade, pois, conforme ressaltado pelo ilustre Membro do parquet, não mais existindo o vínculo jurídico-administrativo que possibilitava o exercício do cargo de membro da JARI, inviável cogitar, a permanência do ora recorrente no mencionado mandato. Sua destituição decorre, portanto, de ato vinculado da Administração, independentemente de qualquer manifestação do Governador. Assim, o acessório (mandato) deve seguir, por óbvio, a sorte do principal (cargo público).
+2. Dest"arte, inviável o reconhecimento de direito líquido e certo do impetrante a ser amparado na via do Mandado de Segurança, uma vez que sua exoneração se deu nos termos da legislação de regência da matéria.
+3. Agravo Interno do Particular a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto contra a decisão que negou provimento ao Recurso Ordinário em Mandado de Segurança, assim ementada:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO OCUPANTE DE CARGO COMISSIONADO. EXONERAÇÃO AD NUTUM. PERDA DO MANDATO NA JUNTA ADMINISTRATIVA DE RECURSOS DE INFRAÇÕES (JARI). AUSÊNCIA DE ILEGALIDADE. EXERCÍCIO DO MANDATO CONDICIONADO AO EXERCÍCIO DO CARGO PÚBLICO. RECURSO ORDINÁRIO DESPROVIDO, EM CONSONÂNCIA COM O PARECER DO MPF.
+2. Em suas razões recursais, afirma o agravante, em suma, a impossibilidade de destituição de mandato de membro da JARI diante da ausência de qualquer previsão legal de manutenção da condição de ingresso e da expressa previsão das hipóteses de perda do mandato. De outro lado, afirma que o ato de cassação do mandato é nulo, pois não houve observância do contraditório e da ampla defesa.
+3. Requer a reconsideração da decisão ora agravada ou, caso assim não aconteça, que o recurso seja levado à Turma competente.
+4. É o relatório.
+VOTO
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO OCUPANTE DE CARGO COMISSIONADO. EXONERAÇÃO AD NUTUM. PERDA DO MANDATO NA JUNTA ADMINISTRATIVA DE RECURSOS DE INFRAÇÕES (JARI). AUSÊNCIA DE ILEGALIDADE. EXERCÍCIO DO MANDATO CONDICIONADO AO EXERCÍCIO DO CARGO PÚBLICO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A perda do mandado ocupado no JARI pelo recorrente não padece de qualquer ilegalidade, pois, conforme ressaltado pelo ilustre Membro do parquet, não mais existindo o vínculo jurídico-administrativo que possibilitava o exercício do cargo de membro da JARI, inviável cogitar, a permanência do ora recorrente no mencionado mandato. Sua destituição decorre, portanto, de ato vinculado da Administração, independentemente de qualquer manifestação do Governador. Assim, o acessório (mandato) deve seguir, por óbvio, a sorte do principal (cargo público).
+2. Dest"arte, inviável o reconhecimento de direito líquido e certo do impetrante a ser amparado na via do Mandado de Segurança, uma vez que sua exoneração se deu nos termos da legislação de regência da matéria.
+3. Agravo Interno do Particular a que se nega provimento.
+1. A despeito das bem lançadas alegações do agravante, razão não lhe assiste.
+2. Conforme afirmado na decisão combatida, a Corte de origem denegou a ordem em razão da ausência de direito líquido e certo do impetrante, conforme se extrai do seguinte trecho do acórdão recorrido:
+Pois bem, dito isto fica clara que a constituição daqueles órgãos administrativos de revisão de penalidades, e nela vê-se também que o cargo ocupado pelo demandante era daqueles reservados à funcionário público.
+Portanto a condição de funcionário é condição sine qua para exercer-se o mandato, e em havendo a perda da condição inviável e o mandato.
+Aliás, é bom que se frise, que o conceito de mandato não é uma permanência imutável de um exercício, mas um "munus" fixado no tempo com encargo próprio, e por conta disto adstrito a regras de existência o validade.
+No caso concreto, temos que o impetrante era ocupante de cargo em comissão, de natureza temporária e de exoneração "ad nutum", ou seja, sem direito líquido e certo ao exercício desse.
+(..).
+Ora, o problema é coadunar a natureza peculiarmente limitada no tempo do cargo originário, com o conceito mandato que era exercido pelo mesmo.
+Ao ser verificado com mais vagar tais assertivas, alcança-se a conclusão de que a condição do mandato é ser o titular do mandato ocupante de ser funcionário público estadual, e não o contrário, o mandato ser vinculante da mantença do cargo público.
+Com outro expoente, é de ter bem claro que o requerente da ordem, perdeu o cargo comissionado junto com todos os outros comissionados da administração pública, quando da mudança dos titulares da administração política do Estado do Paraná, ou seja, não houve o direcionamento do ato ao impetrante, mas a todos que estavam ocupando cargos com a mesma natureza jurídica (fls. 319/320).
+3. Com efeito, da leitura do acórdão recorrido, extrai-se que a a perda do mandado ocupado no JARI pelo recorrente não padece de qualquer ilegalidade, pois, conforme ressaltado pelo ilustre membro do parquet, não mais existindo o vínculo jurídico-administrativo que possibilitava o exercício do cargo de membro da JARI, inviável cogitar, a permanência do ora recorrente no mencionado mandato. Sua destituição decorre, portanto, de ato vinculado da Administração, independentemente de qualquer manifestação do Governador. Assim, o acessório (mandato) deve seguir, por óbvio, a sorte do principal (cargo público).
+4. Assim, inviável o reconhecimento de direito líquido e certo do impetrante a ser amparado na via do Mandado de Segurança, uma vez que sua exoneração se deu nos termos da legislação de regência da matéria.
+5. Ante o exposto, nega-se provimento ao Agravo Interno.
+6. É como voto.
