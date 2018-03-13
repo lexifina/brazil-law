@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. VEICULAÇÃO DE SEGUNDA INSURGÊNCIA CONTRA A MESMA DECISÃO UNIPESSOAL PROFERIDA NESTE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE LÓGICA. AGRAVO INTERNO DO ÓRGÃO ACUSADOR NÃO CONHECIDO.
+1. Segundo o princípio da unirrecorribilidade, interpostos dois recursos contra a mesma decisão, admite-se apenas o primeiro, não sendo possível conhecer do segundo, em face da preclusão consumativa AgRg no AREsp 810.719/SC, Rel. Min. GURGEL DE FARIA, DJe 25.5.2016).
+2. No caso, observa-se que a Petição tombada sob o número 00412771/2016, protocolada em 26.08.2016, se reveste de conteúdo de insurgência direcionado ao Colegiado em adversidade à decisão monocrática proferida nesta Corte Superior.
+3. Mercê desta constatação, o presente Agravo Interno não pode ser conhecido, por ter sido anteriormente veiculada postulação com argumentação e pedido de reforma símiles.
+4. Agravo Interno do Órgão Acusador, PET 00466455/2016, não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do Agravo Interno do Ministério Público Federal, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática de minha lavra, que contou com a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. IMPUTAÇÃO E CONDENAÇÃO EM PRIMEIRO GRAU COM BASE NO ART. 11 DA LEI 8.429/92. REFORMA DA SENTENÇA PELO TJ/MG, PARA JULGAR IMPROCEDENTE A PRETENSÃO SANCIONATÓRIA, AO FUNDAMENTO DE QUE NÃO SE EVIDENCIOU O NECESSÁRIO ELEMENTO SUBJETIVO NA CONDUTA IMPUTADA AOS DEMANDADOS, ISTO É, O AUFERIMENTO DE VANTAGEM ECONÔMICA QUANTO AO CUMPRIMENTO, POR OFICIAL DE JUSTIÇA, DE MANDADOS DIRIGIDOS A OUTROS PROFISSIONAIS. NÃO SE EVIDENCIANDO O NECESSÁRIO ELEMENTO SUBJETIVO MALICIOSO NA [NOME], NÃO SE CARACTERIZA O ATO DE IMPROBIDADE ADMINISTRATIVA. PARECER DO MPF PELO PROVIMENTO DO AGRAVO. AGRAVO EM RECURSO ESPECIAL DO MP/MG DESPROVIDO (fls. 1.755/1.761).
+2. Referido julgado é oriundo de apreciação de Apelo Raro interposto pelo implicado contra acórdão do TJ/MG, que contou com a seguinte ementa:
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ART. 11 DA LEI 8.429/92. PROVA DO ELEMENTO SUBJETIVO DO TIPO. AUSÊNCIA. - Não há que se falar em improbidadle administrativa por atos que implicam violação dos principios que regem a Administração Pública se não restar comprovado nos autos o elemento subjetivo do tipo - dolo - dos agentes públicos na prática de ato ilícito caracterizadorda improbidade administrativa (fls. 1.616/1.640).
+3. Nas razões de seu recurso dirigido ao Colegiado, a parte insurgente alega que a decisão unipessoal merece reforma, ao argumento de que, para caracterizar a tipicidade do ato de improbidade administrativa, é suficiente o dolo natural, o qual, para existir, independe da comprovação de que o agente tinha consciência real da ilicitude, isto é, de que agiu com má-fé. Alega que, na espécie, a conduta do demandado foi voluntária. Pede a reconsideração da decisão ou a submissão do feito aos Pares, em ordem a que se restaure a eficácia do acórdão bandeirante.
+4. A parte agravada, conquanto intimado, não formulou razões de contrariedade (fls. 1.785).
+5. Em síntese, é o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. VEICULAÇÃO DE SEGUNDA INSURGÊNCIA CONTRA A MESMA DECISÃO UNIPESSOAL PROFERIDA NESTE TRIBUNAL SUPERIOR. IMPOSSIBILIDADE LÓGICA. AGRAVO INTERNO DO ÓRGÃO ACUSADOR NÃO CONHECIDO.
+1. Segundo o princípio da unirrecorribilidade, interpostos dois recursos contra a mesma decisão, admite-se apenas o primeiro, não sendo possível conhecer do segundo, em face da preclusão consumativa AgRg no AREsp 810.719/SC, Rel. Min. GURGEL DE FARIA, DJe 25.5.2016).
+2. No caso, observa-se que a Petição tombada sob o número 00412771/2016, protocolada em 26.08.2016, se reveste de conteúdo de insurgência direcionado ao Colegiado em adversidade à decisão monocrática proferida nesta Corte Superior.
+3. Mercê desta constatação, o presente Agravo Interno não pode ser conhecido, por ter sido anteriormente veiculada postulação com argumentação e pedido de reforma símiles.
+4. Agravo Interno do Órgão Acusador, PET 00466455/2016, não conhecido.
+1. Cinge-se a controvérsia em saber se a conduta dos imputados pode ser rotulada como ato de Improbidade Administrativa. Aponta o libelo que o réu [NOME] cumpriu diversos mandados destinados a outros colegas, obtendo, com isso, vantagem econômica indevida, ao passo que a KÁTIA BEATRIZ MAIA teria colaborado de forma efetiva nesse intento, ao atribuir a ele maior quantia de mandados.
+2. Previamente à análise meritória, observa-se que a Petição tombada sob o número 00412771/2016, protocolada em 26.08.2016, se reveste de conteúdo de insurgência direcionado ao Colegiado em adversidade à decisão monocrática proferida nesta Corte Superior.
+3. Mercê desta constatação, o presente Agravo Interno não pode ser conhecido, por ter sido anteriormente veiculada postulação com argumentação e pedido de reforma símiles.
+4. Diversos precedentes desta Corte Superior apontam para a incognoscibilidade do recurso nessas situações:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. ACÓRDÃO DA APELAÇÃO DESAFIADO POR EMBARGOS DECLARATÓRIOS E RECURSO ESPECIAL. NÃO CONHECIMENTO DO APELO ESPECIAL. PRECLUSÃO CONSUMATIVA E FALTA DE EXAURIMENTO DE INSTÂNCIA.
+1. Segundo o princípio da unirrecorribilidade, interpostos dois recursos contra a mesma decisão, admite-se apenas o primeiro, não sendo possível conhecer do segundo, em face da preclusão consumativa.
+2. Na hipótese dos autos, contra o acórdão da apelação o recorrente manejou embargos de declaração e, na sequência, recurso especial.
+3. A interposição do presente recurso especial não aguardou o esgotamento da instância ordinária, porquanto pendente o julgamento dos embargos de declaração já opostos, o qual veio a ser realizado mediante decisão do relator que, por sua vez, ainda poderia ser desafiada por agravo interno ou regimental.
+4. Agravo regimental não provido (AgRg no AREsp. 810.719/SC, Rel. Min. GURGEL DE FARIA, DJe 25.5.2016).
+
+PROCESSUAL CIVIL. ADMINISTRATIVO. INTERPOSIÇÃO DE DOIS AGRAVOS. CONHECIMENTO SOMENTE DO PRIMEIRO. UNIRRECORRIBILIDADE E PRECLUSÃO. ANTECIPAÇÃO DE TUTELA. REQUISITOS AUTORIZADORES DA TUTELA DE URGÊNCIA. MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A interposição de dois recursos simultâneos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões. (..). Primeiro agravo regimental de [NOME] improvido. Segundo agravo regimental de [NOME] não conhecido (AgRg no AREsp 471.979/MT, Rel. Min. HUMBERTO MARTINS, DJe 19.5.2014).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOIS RECURSOS OPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. RECURSO ESPECIAL INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. PREMATURIDADE. DECISÃO CONFORME JURISPRUDÊNCIA DESTA CORTE.
+1. Revela-se defeso a interposição simultânea de dois recursos pela mesma parte contra o mesmo ato judicial, ante o princípio da unirrecorribilidade recursal. (..).
+3. Agravo regimental de fls. 542-558 não provido. Agravo regimental de fls. 559-566 não conhecido (AgRg no AREsp 438.846/SP, Rel. Min. LUIS FELIPE SALOMÃO, DJe 18.12.2013).
+5. Portanto, conforme entendimento firme desta Corte Superior, a interposição de dois recursos contra a mesma decisão, resulta no não conhecimento do segundo, em função da preclusão consumativa e do princípio da unirrecorribilidade recursal. É o que deve ocorrer em relação a este recurso.
+6. Mercê do exposto, não se conhece do Agravo Interno do Órgão Acusador tombado sob a PET 00466455/2016. É como voto.
