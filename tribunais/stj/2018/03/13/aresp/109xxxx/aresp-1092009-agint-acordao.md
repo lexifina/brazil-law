@@ -1,0 +1,31 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. PROPRIEDADE RURAL. GRANJA. DEMORA EXCESSIVA NO RESTABELECIMENTO. MORTANDADE DE AVES. ACÓRDÃO QUE MANTEVE A CONDENAÇÃO POR DANOS MATERIAIS FIXADA NA SENTENÇA, À VISTA DA ANÁLISE DOS FATOS E PROVAS CONSTANTES DOS AUTOS. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. REEXAME SIMPLES VEDADO NESTA SEARA RECURSAL. ARGUMENTAÇÃO RECURSAL GENÉRICA QUE NÃO IMPUGNA A FUNDAMENTAÇÃO DA DECISÃO AGRAVA E TAMBÉM QUE NÃO SE MOSTRA CAPAZ DE ENSEJAR SUA REFORMA. AGRAVO INTERNO DA CELG DISTRIBUIDORA S.A. - CELG D A QUE SE NEGA PROVIMENTO.
+1. O fato de a agravante aduzir que em todo recurso deve o julgador se inteirar da causa conhecendo-a em seus pormenores, não é suficiente para afastar a jurisprudência consolidada através da Súmula 7/STJ, de que não cabe Recurso Especial para o mero reexame do conjunto fático-probatório da demanda.
+2. No presente caso, tendo o acórdão amparado seu entendimento nos elementos probatórios constantes da causa, esta Corte Superior não pode, sem adentrar na revisão dos fatos e provar, alterar o julgado da maneira que pretende a parte ora agravante.
+3. Agravo Interno no Agravo em Recurso Especial da CELG DISTRIBUIDORA S.A. - CELG D a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno em Agravo em Recurso Especial interposto por CELG DISTRIBUIÇÃO S.A.-CELG D contra decisão de minha lavra, assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. PRORIEDADE RURAL. GRANJA. DEMORA EXCESSIVA NO RESTABELECIMENTO. MORTANDADE DE AVES. ACÓRDÃO QUE MANTEVE A CONDENAÇÃO POR DANOS MATERIAIS FIXADA NA SENTENÇA, À VISTA DA ANÁLISE DOS FATOS E PROVAS CONSTANTES DOS AUTOS. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. REEXAME SIMPLES VEDADO NESTA SEARA RECURSAL. DECISÃO AGRAVADA QUE NEGOU TRÂMITE AO APELO PELA INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO (fls. 226).
+2. Em suas razões recursais, a parte agravante argumenta que a solução da lide depende da análise de circunstâncias eminentemente de direito, razão pela qual não seria aplicável o óbice da Súmula 7/STJ.
+3. Devidamente intimada, a parte agravada apresentou impugnação (fls. 246/247).
+4. É o relatório.
+VOTO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. INTERRUPÇÃO DO FORNECIMENTO DE ENERGIA ELÉTRICA. PROPRIEDADE RURAL. GRANJA. DEMORA EXCESSIVA NO RESTABELECIMENTO. MORTANDADE DE AVES. ACÓRDÃO QUE MANTEVE A CONDENAÇÃO POR DANOS MATERIAIS FIXADA NA SENTENÇA, À VISTA DA ANÁLISE DOS FATOS E PROVAS CONSTANTES DOS AUTOS. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. REEXAME SIMPLES VEDADO NESTA SEARA RECURSAL. ARGUMENTAÇÃO RECURSAL GENÉRICA QUE NÃO IMPUGNA A FUNDAMENTAÇÃO DA DECISÃO AGRAVA E TAMBÉM QUE NÃO SE MOSTRA CAPAZ DE ENSEJAR SUA REFORMA. AGRAVO INTERNO DA CELG DISTRIBUIDORA S.A. - CELG D A QUE SE NEGA PROVIMENTO.
+1. O fato de a agravante aduzir que em todo recurso deve o julgador se inteirar da causa conhecendo-a em seus pormenores, não é suficiente para afastar a jurisprudência consolidada através da Súmula 7/STJ, de que não cabe Recurso Especial para o mero reexame do conjunto fático-probatório da demanda.
+2. No presente caso, tendo o acórdão amparado seu entendimento nos elementos probatórios constantes da causa, esta Corte Superior não pode, sem adentrar na revisão dos fatos e provar, alterar o julgado da maneira que pretende a parte ora agravante.
+3. Agravo Interno no Agravo em Recurso Especial da CELG DISTRIBUIDORA S.A. - CELG D a que se nega provimento.
+1. Apesar das bem lançadas razões recursais veiculadas no Agravo Interno, nota-se que no presente caso, a revisão fático-probatória é o único caminho a ser trilhado para a reapreciação do acórdão local.
+2. Veja-se, por relevante, que nos itens 7 e 8 da decisão agravada está claramente demonstrado que o egrégio Tribunal local chegou à conclusão impugnada mediante a análise dos fatos e provas dele constantes.
+3. Ocorre que a argumentação trazida na peça recursal interna se apresente de maneira genérica:
+Ora, para julgamento de qualquer Recurso Especial ou Extraordinário é necessário ao julgador se inteirar da lide existente, justamente porque a discussão envolve a aplicação de determinado dispositivo legal ao caso concreto.
+A necessidade de se conhecer a lide é muito diferente da necessidade de reexame de provas.
+No presente caso não há necessidade, para julgamento do Recurso Especial interposto, que o STJ reexamine prova.
+Não é necessário, in casu, que o STJ reexamine se tal fato ocorreu ou não, muito menos necessidade de o STJ manifestar-se sobre a existência ou inexistência de prova e/ou interpretar cláusula contratual.
+O que aqui se questiona é tão somente a negativa de aplicação do disposto em determinados artigos de leis federais à lide em exame.
+É natural que em qualquer recurso sejam apontados aspectos da matéria fática, não para rediscuti-la, mas tão somente para que o julgador se inteire da lide.
+Não se trata, assim, de reexaminar provas, mas tão somente de exposição da lide para que possa ser valorada a aplicação das normas ao caso concreto (fls. 241).
+4. Dessa maneira, nota-se que as razões recursais enviadas não buscam atacar a fundamentação desenvolvida na decisão de que o acórdão local fundou seu entendimento na análise fático-probatória da demanda, circunstância cuja revisão, a princípio, se apresenta vedada, nesta seara recursal, à vista do óbice do Enunciado Sumular no. 7, desta Corte.
+5. Ante o exposto, nega-se provimento ao Agravo Interno da CELG D.
+6. É como voto.
