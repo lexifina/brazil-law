@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DE NATUREZA DECLARATÓRIA. VALOR DA CAUSA ARBITRADO EM VALOR SIMBÓLICO. LEGITIMIDADE. REEXAME DE PROVAS. INVIABILIDADE. AGRAVO REGIMENTAL DO ESTADO DA PARAÍBA A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias, soberanas no exame factual, registraram tratar-se de pedido de natureza declaratória, ilíquido, de quantificação econômica impossível nesta fase do processo, revelando-se autorizada a estipulação do valor da causa em quantia simbólica:
+2. Agravo Regimental do Estado da Paraíba a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Regimental interposto pelo ESTADO DA PARAÍBA contra a decisão assim ementada:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE NATUREZA DECLARATÓRIA. VALOR DA CAUSA ARBITRADO EM VALOR SIMBÓLICO. LEGITIMIDADE. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7 DO STJ. RECURSO ESPECIAL DO ESTADO DA PARAÍBA NÃO PROVIDO.
+2. Em suas razões recursais, a parte recorrente argumenta que a demanda pode gerar proveito econômico à autora, devendo ter um valor certo e determinado, baseado no mencionado proveito econômico, resultante da procedência dos pedidos (fls. 160/161).
+3. É o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DE NATUREZA DECLARATÓRIA. VALOR DA CAUSA ARBITRADO EM VALOR SIMBÓLICO. LEGITIMIDADE. REEXAME DE PROVAS. INVIABILIDADE. AGRAVO REGIMENTAL DO ESTADO DA PARAÍBA A QUE SE NEGA PROVIMENTO.
+1. As instâncias ordinárias, soberanas no exame factual, registraram tratar-se de pedido de natureza declaratória, ilíquido, de quantificação econômica impossível nesta fase do processo, revelando-se autorizada a estipulação do valor da causa em quantia simbólica:
+2. Agravo Regimental do Estado da Paraíba a que se nega provimento.
+1. A instância de origem, corroborando a sentença, considerou que o objetivo do impugnado é a declaração de isenção tributária na sua integralidade, e não a cobrança de uma dívida certa, líquida e com valor determinado (fls. 77), entendendo que é impossível estimar em valores exatos o seu efetivo conteúdo econômico nesta fase processual (fls. 79).
+2. À parte ora recorrente, se considerasse que essas conclusões discrepavam de outra passagem do julgado, competiria opor Embargos Declaratórios, a fim de ver superada eventual contradição. Não tendo sido o caso, resta reconhecer que as instâncias ordinárias, soberanas no exame factual, registraram tratar-se de pedido de natureza declaratória, ilíquido, de quantificação econômica impossível nesta fase do processo, revelando-se autorizada a estipulação do valor da causa em quantia simbólica:
+PROCESSO CIVIL. VALOR DA CAUSA. AÇÃO DECLARATÓRIA DE NULIDADE CUMULADA COM REPETIÇÃO DE INDÉBITO. ILIQUIDEZ DO VALOR ECONÔMICO DO BEM DA VIDA ALMEJADO. ESTIPULAÇÃO DE VALOR SIMBÓLICO E PROVISÓRIO. POSSIBILIDADE. ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE COTEJO ANALÍTICO. INEXISTÊNCIA DE SIMILITUDE FÁTICA ENTRE O JULGADO ATACADO E OS ACÓRDÃOS APONTADOS COMO PARADIGMAS. NÃO-CONHECIMENTO DO DISSENSO JURISPRUDENCIAL.
+1. A jurisprudência desta Corte, quando não se sabe precisamente o valor econômico do bem da vida buscado judicialmente, vem decidindo pela possibilidade da fixação de valor pelo autor em quantia simbólica e provisória, passível de posterior adequação ao valor apurado pela sentença ou no procedimento de liquidação. Precedentes.
+2. Não merece ser conhecida a irresignação manifestada pela alínea c do permissivo constitucional, se inexistente o necessário cotejo analítico entre o acórdão considerado paradigma e a decisão impugnada, na forma que determinam os arts. 541 do CPC e 255 do RISTJ, não bastando para tanto a simples transcrição de ementas e de trechos de acórdãos. Precedentes.
+3. Também não se conhece do recurso com fundamento na alínea c do permissivo constitucional quando há ausência de similitude fática entre o julgado atacado e os acórdãos apontados como paradigmas.
+4. Recurso conhecido parcialmente e, nesta parte, provido (REsp. 642.712/PE, Rel. Min. MAURO CAMPBELL MARQUES, DJe 16.9.2010).
+3. Tornar a investigar as provas dos autos para aferir se o pedido efetivamente é ilíquido, como registrado no acórdão recorrido, ou se é líquido, como defendido no Apelo Nobre, demandaria providência vedada neste âmbito, a teor da Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+4. Ante o exposto, nega-se provimento ao Agravo Regimental do Estado da Paraíba. É como voto.
