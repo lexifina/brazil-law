@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PENHORA DE VALORES DEPOSITADOS EM POUPANÇA PREVIDENCIÁRIA. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA. NATUREZA ALIMENTAR. IMPENHORABILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. EXISTÊNCIA DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Eventual reforma do acórdão recorrido, quanto à caracterização da natureza alimentar da previdência privada, exigiria o revolvimento do acervo fático-probatório da demanda, situação inviável nesta seara.
+2. Há outro fundamento utilizado pelo acórdão recorrido, suficiente à sua manutenção, e não impugnado pela Agravante, situação que exige a aplicação da Súmula 283/STF.
+3. Agravo Interno da FAZENDA NACIONAL desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela FAZENDA NACIONAL, em face da decisão que negou seguimento ao Recurso Especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. PREVIDÊNCIA PRIVADA. EXECUÇÃO. PENHORA DE VALORES DEPOSITADOS EM POUPANÇA PREVIDENCIÁRIA. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. NATUREZA ALIMENTAR. IMPENHORABILIDADE. ANÁLISE CASUÍSTICA. SÚMULA 83/STJ. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. APELO RARO A QUE SE NEGA SEGUIMENTO (fls. 738).
+2. Em suas razões, alega a agravante que são inaplicáveis os óbices sumulares, aduzindo que os valores oriundos de previdência privada podem ser penhorados para adimplir obrigações tributárias.
+3. A parte agravada não apresentou Impugnação (fls. 754).
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. PENHORA DE VALORES DEPOSITADOS EM POUPANÇA PREVIDENCIÁRIA. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA. NATUREZA ALIMENTAR. IMPENHORABILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. EXISTÊNCIA DE FUNDAMENTO SUFICIENTE À MANUTENÇÃO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Eventual reforma do acórdão recorrido, quanto à caracterização da natureza alimentar da previdência privada, exigiria o revolvimento do acervo fático-probatório da demanda, situação inviável nesta seara.
+2. Há outro fundamento utilizado pelo acórdão recorrido, suficiente à sua manutenção, e não impugnado pela Agravante, situação que exige a aplicação da Súmula 283/STF.
+3. Agravo Interno da FAZENDA NACIONAL desprovido.
+1. Insurge-se a agravante contra decisão que negou seguimento ao Recurso Especial.
+2. O egrégio TRF da 5a. Região deu provimento à Apelação do particular para declarar a impossibilidade de realização de penhora sobre as contribuições que se destinem a formações de reservas com a finalidade de prover o pagamento dos futuros beneficios de caráter previdenciário, sob os seguintes fundamentos:
+Apesar de não discriminado no rol de bens impenhoráveis constante do art. 649 do CPC, as contribuições vertidas para entidades de previdência privada não se sujeitam à constrição judicial, pois, compõem um fundo, administrado por entidade de previdência privada, destinado ao pagamento de benefícios de caráter previdenciário a todos os participantes do plano, e não apenas ao executado.
+Não poderá haver a penhora sobre as contribuições que se destinam a formação de reservas com a finalidade de prover o pagamento dos futuros benefícios de caráter previdenciário. Em sendo mantida a afetação de tais contribuições, elas não se sujeitam a penhora para satisfação de direitos de credores de participante de plano de previdência como também não se sujeitam a incidência de tributação e contribuições de qualquer natureza (art.69, § 1o., da Lei Complementar 109/2001) (fls. 681).
+3. Verifica-se que eventual reforma do acórdão recorrido, quanto à caracterização da natureza alimentar da previdência privada, exigiria o revolvimento do acervo fático-probatório da demanda, situação que faz incidir o óbice da Súmula 7/STJ.
+4. Finalmente, há outro fundamento utilizado pelo acórdão recorrido, suficiente à sua manutenção, e não impugnado pela agravante, situação que exige a aplicação da Súmula 283/STF. Assim, não se verifica a existência de irresignação quanto ao fato de que os valores vertidos ao fundo de previdência complementar pelo participante, não estão na posse do devedor da execução, mas compõem um fundo destinado ao pagamento de benefício de caráter previdenciário. Fora ali considerado bens de terceiros, sob pena de comprometer todos os participantes do plano e não apenas o executado (fls. 700).
+5. Ante o exposto, nego provimento ao Agravo Interno da Fazenda Nacional. É como voto.
