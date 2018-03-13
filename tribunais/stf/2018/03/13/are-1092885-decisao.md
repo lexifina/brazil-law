@@ -1,0 +1,40 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 3, p. 8):
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. ANS. MULTA ADMINISTRATIVA. PRESCRIÇÃO INTERCORRENTE. PRINCÍPIO DA LEGALIDADE E PROPORCIONALIDADE. COBERTURA TOTAL. JUROS DA MORA.
+    1. O agravo retido não deve ser conhecido, nos termos do artigo 523, § 1º, do CPC, uma vez que não requerida expressamente sua apreciação nas razões de apelação.
+    2. Não procede a alegação de existência de prescrição intercorrente, nos termos do art. 1º, §1º da Lei nº 9.873/99, pois o processo administrativo não ficou paralisado por prazo superior a 03 anos.
+    3. A regulamentação das penalidades descritas na Lei nº 9.656/98 encontra-se inserida no âmbito do poder normativo da ANS, de modo que não se pode cogitar de violação ao princípio da legalidade.
+    4. O valor originário imposto a título de multa (R$ 64.000,00) foi calculado levando em consideração parâmetros objetivos estabelecidos no art. 10, IV c/c art. 77 da Resolução Normativa nº 124/2006, inexistindo arbítrio da Administração em sua fixação.
+    5. Embora a segurada tenha apresentado doença pré-existente e não tenha cumprido a carência de 24 (vinte e quatro) meses, não poderia ter a apelante lhe negado cobertura integral.
+    De acordo com o art. 6º, §1º, da Resolução Normativa nº 162/2007, caso a operadora opte por não oferecer cobertura total à beneficiária, deverá formalizar o oferecimento de cobertura parcial temporária (CPT) ou agravo. Caso a CPT ou agravo não sejam apresentados no momento da adesão contratual, nos termos do art. 6º, §2º, da RN 162/2007, deve-se considerar que a operadora forneceu cobertura total à aderente.
+    6. Os juros da mora devem incidir a partir do trigésimo dia após o recebimento da notificação da primeira decisão administrativa proferida, na forma do art. 25, da Resolução Normativa nº 48/2003.
+    7. Verifica-se que a notificação expedida pela ANS demonstra expressamente que a taxa SELIC foi o índice utilizado para se efetuar o cálculo dos juros moratórios, devendo ser rechaçado o argumento de que não houve justificativa quanto aos parâmetros utilizados pela agência reguladora em seu cálculo.
+    8. Agravo Retido não conhecido e Apelação desprovida.”
+    Os embargos de declaração opostos foram rejeitados (eDOC 3, p. 25).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, II e LXXVIII; e 37, da Constituição da República.
+    Nas razões recursais, aduz-se que “a multa aplicada no presente caso foi definida, disciplinada, por mera Resolução Normativa (ato infralegal) expedida pela Agência Nacional de Saúde Suplementar, de modo que há evidente afronta o primado da LEGALIDADE”.
+    Ainda, afirma pretender “o reconhecimento de que os atos processuais utilizados pelo v. acórdão para afastar a ocorrência da prescrição intercorrente não são atos capazes de suspender o curso da prescrição, tendo em vista que são atos internos praticados pela ANS e que não têm o condão de conferir efetivo andamento à marcha processual.”
+    O recurso extraordinário foi inadmitido com fundamento na análise da legislação infraconstitucional (eDOC 3, p. 101).
+    É o relatório. Decido.
+    Com efeito, o Tribunal de origem dirimiu a controvérsia, objeto da causa dos autos, assentando o seguinte (eDOC 3, pp. 4-6):
+    “Por meio da análise de fls. 275/286, constata-se que o processo administrativo não ficou paralisado por mais de 03 anos, entre a data da interposição do recurso administrativo e a prolação de decisão.
+    Verifica-se que às fls. 279, 280 e 281, constam despachos, cujas datas fixadas são, respectivamente, 08/10/2010, 13/08/2013 e 13/09/2013.
+    Dessa forma, é possível concluir não ter ocorrido violação do art. 1º, §1º da Lei nº 9.873/99.
+    (…)
+    Não procede o argumento de que há violação ao princípio da legalidade.
+    A regulamentação das penalidades descritas na Lei nº 9.656/98 encontra-se inserida no âmbito do poder normativo da ANS. (…)
+    Além disso, o valor originário imposto a título de multa (R$ 64.000,00) foi calculado levando em consideração parâmetros objetivos estabelecidos no art. 10, IV c/c art. 77 da Resolução Normativa nº 124/2006, inexistindo arbítrio da Administração em sua fixação.
+    4. Em relação à ausência de descumprimento do art. 12, II, a, da Lei nº 9.656/98, verifica-se que, embora a segurada tenha apresentado doença pré-existente e não tenha cumprido a carência de 24 (vinte e quatro) meses, não poderia ter a apelante lhe negado cobertura integral.
+    De acordo com o art. 6º, §1º, da Resolução Normativa nº 162/2007, caso a operadora opte por não oferecer cobertura total à beneficiária, deverá formalizar o oferecimento de cobertura parcial temporária (CPT) ou agravo. Caso a CPT ou agravo não sejam apresentados no momento da adesão contratual, nos termos do art. 6º, §2º, da RN nº 162/2007, deve-se considerar que a operadora forneceu cobertura total à aderente.”
+    Nesse sentido, divergir do entendimento firmado pelo Tribunal a quo, no que concerne aplicação de penalidades para as infrações, demandaria o revolvimento do acervo fático-probatório e das cláusulas do contrato, restando inviabilizado o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 desta Corte.
+    Ademais, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional (Leis Federais 9.873/99 e 9.656/98), de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. No mesmo sentido, confiram-se os seguintes precedentes:
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional (Código Nacional de Trânsito): alegada ofensa reflexa ou indireta à Constituição, inviável no RE: pretensão a reexame de matéria de fato e de prova (Súmula 279).” (AI 451.268-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 30/4/2004).
+    “DIREITO ADMINISTRATIVO. INFRAÇÃO DE TRÂNSITO. APLICAÇÃO DE MULTA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXVI, DA LEI MAIOR. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 13.7.2009. Tendo a Corte de origem dirimido, à luz da legislação infraconstitucional, controvérsia acerca da aplicação de penalidade a infração de trânsito, obter decisão em sentido diverso demandaria a análise de matéria infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, da Lei Maior. Precedentes. Agravo regimental conhecido e não provido.” (RE 611.678-AgR. Rel. Min, Rosa Weber, Primeira Turma, DJe de 10/12/2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. DANO AMBIENTAL. REPARAÇÃO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO PROBATÓRIO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 888.055-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 28/8/2015).
+    Por fim, ressalta-se que é entendimento sumulado desta Corte que “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (Súmula 636 do STF).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b do CPC, c/c o art. 21, § 1º do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em ¼ (um quarto), os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º, bem como os §§ 3º e 4º do art. 98, do mesmo dispositivo legal.
+    Publique-se.
+    Brasília, 13 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
