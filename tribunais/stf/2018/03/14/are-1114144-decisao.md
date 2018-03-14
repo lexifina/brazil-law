@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. Execução fiscal Decisão recorrida que rejeitou a exceção de pré-executividade. Insurgência. Descabimento. Ilegitimidade passiva inexistente. Credor fiduciário que é responsável solidário pelos débitos de IPVA constituídos no curso do contrato de alienação fiduciária. Incidência da Lei Estadual nº 13.296/08. Multa aplicada não se apresenta confiscatória. Possibilidade de cumulação de juros e multa moratórios, porquanto advindas de causas diversas. Decisão mantida Recurso não provido.” (eDOC 4, p. 49) (grifei)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 155, III, do texto constitucional.
+    Nas razões recursais, alega-se que, para ser sujeito passivo da obrigação tributária, é indispensável ter a propriedade do veículo automotor, motivo por que o devedor do contrato de leasing é o único responsável pelo pagamento do IPVA.
+    É o relatório.
+    Decido.
+    O recurso não merece êxito.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei Estadual 13.296/2008) e o conjunto probatório constante dos autos, consignou que, no contrato de arrendamento mercantil, o credor é também responsável pelo pagamento de IPVA, por deter o domínio resolúvel do bem. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Sob a égide do art. 6º, II e § 2º, da Lei Estadual nº 13.296/08, o credor fiduciário é responsável solidariamente pelos débitos de IPVA constituídos no curso do contrato de alienação fiduciária, em razão de ser o titular do domínio resolúvel sobre o bem (artigo 6º, inciso XI, da citada lei).” (eDOC 4, p. 50)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes de ambas as Turmas:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IPVA. ALIENAÇÃO FIDUCIÁRIA. RESPONSABILIDADE TRIBUTÁRIA. LEI 14.937 DO ESTADO DE MINAS GERAIS. 1. A questão referente à responsabilidade fiscal solidária passiva para quitação do IPVA, entre o proprietário e o possuidor de fato do veículo automotor alienado é matéria de índole infraconstitucional. Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento” (ARE 934.007 AgR, Rel. Min. Edson Fachin, Primeira Turma, DJe 17.3.2016).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Tributário. 3. Imposto sobre Propriedade de Veículos Automotores (IPVA). 4. Responsabilidade solidária. Alienação fiduciária. 5. Lei estadual 14.937/03. 6. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 7. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. Precedentes. 8. Ausência de argumentos capazes de infirmar a decisão agravada. 9. Agravo regimental a que se nega provimento”(ARE 935.555AgR/MG, de minha relatoria, Segunda Turma, DJe 3.8.2017 ).
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista a ausência de fixação de honorários pela origem, deixo de aplicar o disposto no §11 do art. 85 do CPC.
+    Publique-se.
+    Brasília, 14 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
