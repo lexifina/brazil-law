@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSO-CRIME – SUSPENSÃO – RELEVÂNCIA NÃO DEMONSTRADA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara Federal de Umuarama – Seção Judiciária do Paraná, no processo nº 5005221-10.2013.404.7004, pronunciou o paciente pela suposta prática dos crimes previstos nos artigos 121, § 2º, incisos I e IV, combinado com o 14, inciso II (tentativa de homicídio qualificado em razão de ser cometido por motivo torpe e mediante recurso que torne impossível a defesa da vítima), combinado com o 29 (concurso de pessoas), do Código Penal.
+    A defesa interpôs recurso em sentido estrito, aduzindo inexistirem evidências da participação do paciente, a tornar inidônea a denúncia. A Oitava Turma do Tribunal Regional Federal da 4ª Região, ao desprover o recurso, assentou que a pronúncia constituiu juízo de admissibilidade da acusação, lastreada em indícios suficientes de autoria e materialidade, viabilizando a remessa do caso à apreciação do Tribunal do Júri.
+    Recursos especial e extraordinário, protocolados pela defesa, foram inadmitidos na origem.
+    No Superior Tribunal de Justiça, a Relatora desproveu o agravo em recurso especial nº 770.430/PR, afastando o argumento de ofensa aos artigos 239 e 413 do Código de Processo Penal. Aludiu ao acerto do decidido pelo Tribunal de origem, tendo-o como soberano na análise dos fatos. Consignou inviável o reexame do acervo probatório em instância extraordinária. Na sequência, a Sexta Turma negou provimento ao agravo regimental e aos declaratórios subsequentes.
+    Os impetrantes dizem equivocados os pronunciamentos formalizados no Superior Tribunal de Justiça, porque, consoante alegam, foi olvidada questão de direito atinente à imputação. Afirmam ser o caso de crime impossível, ante a absoluta ineficácia do meio, articulando não se haver submetido as vítimas a risco. Asseveram que a menção feita pelo paciente, dias antes, em relação à possibilidade de os fatos virem a ocorrer, não deve ser valorada como indícios. Reiteram estar a acusação amparada em mera presunção da culpa. Apontam violação da ampla defesa e do contraditório. Arguem não ter o paciente concorrido para o suposto delito.
+    Requerem, no campo precário e efêmero, seja determinada a suspensão do processo-crime nº 5005221-10.2013.404.7004, em curso perante a Primeira Vara Federal de Umuarama/PR, até a apreciação final deste habeas. No mérito, buscam a concessão da ordem para impronunciar o paciente.
+    Consulta ao sítio do Supremo, realizada em 13 de março de 2018, revelou ter Vossa Excelência, em 14 de março de 2016, negado provimento ao recurso extraordinário com agravo nº 940.199/PR. Seguiu-se a interposição de agravo interno, desprovido pela Primeira Turma, em 21 de novembro de 2017. Embargos de declaração tiveram a mesma sorte, em julgamento realizado no dia 6 de março último, estando pendente a publicação do acórdão.
+    Por meio das petições/STF nº 57.522/2017, nº 8.374/2018 e nº 13.317/2018, os impetrantes reiteram o pedido de medida acauteladora referente à determinação de suspensão do trâmite do processo-crime, aludindo a despacho do Juízo mediante o qual determinado o início da segunda fase do procedimento do Júri, bem assim a recente ordem de prisão preventiva do paciente.
+    A etapa é de análise da liminar.
+    2. Observem que a peça acusatória narrou ter o paciente, dias antes dos fatos, induzido o autor dos disparos a efetuá-los contra a residência das vítimas, valendo-se de veículo de propriedade do primeiro, ou seja, sublinhou em que consistiu a participação do acusado e o nexo de causalidade. Na sequência, a sentença de pronúncia limitou-se ao exame dos elementos colhidos na fase instrutória, a revelar juízo de admissibilidade, fundada em probabilidade e não em certeza.
+    O Tribunal estadual, no acórdão relativo ao recurso em sentido estrito, manteve a sentença. Consignou haver o magistrado atuado acertadamente, no que apontados indícios suficientes de autoria e materialidade delitiva. Cabe dizer, atuaram as instâncias ordinárias dentro do figurino legal.
+    O acolhimento da pretensão no campo precário e efêmero voltada à suspensão de processo-crime é excepcional. Surge indispensável que o quadro retrate desarmonia com a ordem jurídica e, ante as premissas acima assentadas, esta não ocorre.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 14 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
