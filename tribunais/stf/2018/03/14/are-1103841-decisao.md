@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão no qual se rejeitou pedido de pagamento a policial militar do abono de permanência previsto no art. 40, § 19, da Constituição Federal, sob o entendimento de que o referido dispositivo constitucional alcança apenas os servidores civis, não abarcando os militares, que possuem regramento diverso e estatuto próprio (Lei Complementar Estadual 10.990/1997).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5°, caput, e 40, § 4° e § 19, da mesma Carta.
+    A pretensão recursal não merece prosperar.
+    O Tribunal de origem, com amparo na interpretação da Lei Complementar Estadual 10.990/1997, concluiu que o autor, policial militar do Estado do Rio Grande do Sul, não faz jus ao abono de permanência. Assim, para dissentir desse entendimento, seria necessário o reexame da norma local aplicável ao caso, o que inviabiliza o recurso extraordinário, consoante a Súmula 280/STF. Nesse sentido, destaco o ARE 1.075.725-AgR/RS, de relatoria do Ministro Luiz Fux, cuja ementa segue transcrita:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. ABONO DE PERMANÊNCIA. REEXAME DE LEGISLAÇÃO LOCAL. LEI COMPLEMENTAR 10.990/1997 DO ESTADO DO RIO GRANDE DO SUL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO”.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: ARE 1.104.900/RS, Rel. Min. Celso de Mello; ARE 1.104.901/RS, Rel. Min. Luiz Fux; ARE 1.103.929/RS, Rel. Min. Dias Toffoli; ARE 1.103.309/RS, Rel. Min. Roberto Barroso; ARE 1.102.537/RS, Rel. Min. Gilmar Mendes; ARE 1.074.977/RS, de minha relatoria; ARE 1.064.240/RS, Rel. Min. Marco Aurélio.
+    Por fim, observo que o Supremo Tribunal Federal, no julgamento do ARE 954.408-RG (Tema 888), de relatoria do Ministro Teori Zavascki, reconheceu a repercussão geral e reafirmou sua jurisprudência no sentido de que é legítimo o pagamento do abono de permanência previsto no art. 40, § 19, da Constituição Federal ao servidor público que opte por permanecer em atividade após o preenchimento dos requisitos para a concessão da aposentadoria voluntária especial (art. 40, § 4º, da Lei Maior).
+    Todavia, essa orientação não abarca os militares, visto que a eles não se aplica o regime jurídico dos servidores civis, consoante já assentou esta Corte no julgamento do RE 570.177-RG (Tema 15 da repercussão geral), de minha relatoria, cuja ementa transcrevo a seguir:
+    “CONSTITUCIONAL. SERVIÇO MILITAR OBRIGATÓRIO. SOLDO. VALOR INFERIOR AO SALÁRIO MÍNIMO. VIOLAÇÃO AOS ARTS. 1º, III, 5º, CAPUT, E 7º, IV, DA CF. INOCORRÊNCIA. RE DESPROVIDO.
+    I - A Constituição Federal não estendeu aos militares a garantia de remuneração não inferior ao salário mínimo, como o fez para outras categorias de trabalhadores.
+    II - O regime a que submetem os militares não se confunde com aquele aplicável aos servidores civis, visto que têm direitos, garantias, prerrogativas e impedimentos próprios.
+    III - Os cidadãos que prestam serviço militar obrigatório exercem um múnus público relacionado com a defesa da soberania da pátria.
+    IV - A obrigação do Estado quanto aos conscritos limita-se a fornecer-lhes as condições materiais para a adequada prestação do serviço militar obrigatório nas Forças Armadas.
+    V - Recurso extraordinário desprovido” (grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 8° e § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 14 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
