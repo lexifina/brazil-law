@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, ementado nos seguintes termos:
+    “INDENIZAÇÃO. QUEDA NO BUEIRO. ÁGUAS PLUVIAIS. RELAÇÃO DE CONSUMO. ILEGITIMIDADE PASSIVA. DANOS MATERIAIS E MORAIS. VALORAÇÃO.
+I - Está caracterizada a relação de consumo entre a vítima e a empresa comercial, pois o bueiro de águas pluviais destampado está localizado na calçada à frente da loja, utilizada para exposição de mercadorias, bem como demonstrado que a autora caiu nele quando se dirigia à loja para pagar fatura. Rejeitada a alegada ilegitimidade passiva.
+II - É dever do lojista manter por meio eficaz a segurança dos consumidores que circulam na área utilizada por seu comércio. Demonstrado que a autora sofreu lesões físicas e morais em razão da queda no bueiro, a ré deve indenizar. Acrescidos os danos materiais. Apelação da autora provida. Apelação da ré desprovida.” (eDOC 2, p. 97)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 5º, X, do texto constitucional. (eDOC 3, p. 7)
+    Nas razões recursais, sustenta-se que o Tribunal de origem violou os princípios da razoabilidade e proporcionalidade, ao condenar o recorrente a indenizar o recorrido em R$ 10.000,00 por danos morais. (eDOC 3, p. 10)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código de Processo Civil e Código de Defesa do Consumidor) e o conjunto probatório constante dos autos, registrou que o dano sofrido está provado nos autos, bem como presentes estão os requisitos configuradores da responsabilidade do recorrente. Registrou, ainda, que a fixação atendeu aos princípios da razoabilidade e proporcionalidade. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Na demanda em análise, houve falha na prestação do serviço pela ré, que não tomou os cuidados necessários à manutenção de seu estabelecimento, e permitiu que um bueiro destampado colocasse em risco os clientes da loja. Nesse contexto, a ré responde objetivamente pelo fato do serviço, art. 14, caput, do CDC:
+    ‘Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.’
+    [...]
+    A compensação moral deve, ainda, obedecer aos princípios da proporcionalidade (intensidade do dano, dos transtornos etc.), da exemplaridade (desestímulo à conduta) e da razoabilidade (adequação e modicidade). Considerando os parâmetros acima, as circunstâncias nas quais ocorreu o dano moral, e os julgamentos proferidos por este e. Tribunal em situações semelhantes, mantenho o valor de R$ 10.000,00 fixado pela r. Sentença.” (eDOC 2, p. 105-106)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório e das mencionadas cláusulas contratuais, providência inviável no âmbito do recurso extraordinário. Nesses termos, incidem no caso as Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CIVIL. INDENIZAÇÃO POR DANO MORAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. ALEGADA OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I Para se chegar à conclusão contrária à adotada pelo acórdão recorrido necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II A alegada violação ao art. 5º, LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. III Agravo regimental improvido.” (AI 815.282 AgR-segundo, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 6.9.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 633.449 AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.6.2011).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro o valor da verba honorária fixada pela origem em 10%, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 14 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
