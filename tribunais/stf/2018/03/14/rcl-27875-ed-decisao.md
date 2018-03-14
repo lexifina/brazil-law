@@ -1,0 +1,26 @@
+Decisão: Trata-se de embargos declaratórios opostos em face de decisão monocrática em que julguei improcedente a Reclamação (eDOC 9).
+    Nas razões recursais, o embargante requer a apreciação do pedido a fim de que seja “cassada a determinação para que o período em que o Reclamante gozou de prisão domiciliar não fosse computado como pena cumprida” (eDOC 9).
+    É o relatório. Decido.
+    1. Registro que os embargos de declaração são cabíveis somente quando houver no acórdão omissão, dúvida, contradição ou obscuridade, conforme dispõem os arts. 337 do RISTF e 619 do CPP.
+    No caso, verifico que a decisão monocrática (eDOC 9) fundamenta-se na inexistência de violação à Súmula Vinculante 56 porque o Tribunal local concluiu pela compatibilidade de instalações carcerárias com o regime intermediário, sendo asseguradas as garantias que lhe são inerentes.
+    Conforme se depreende da inicial, o reclamante cumula pedidos:
+    a) em caráter liminar, a suspensão do Acórdão proferido pela Terceira Câmara Criminal do Tribunal de Justiça de Santa Catarina (0022565- 39.2016.8.24.0038), reestabelecendo o direito a prisão domiciliar concedido na decisão proferida pelo r. Juízo de Execução Criminal no PEC nº 0000971- 66.2016.8.24.0038, BEM COMO, INDEPENDENTE DO DEFERIMENTO OU NÃO DO PEDIDO ANTERIOR, SEJA DETERMINADO QUE O TEMPO DE PENA CUMPRIDO PELO RECLAMANTE EM PRISÃO DOMICILIAR SEJA COMPUTADO COMO CONDENAÇÃO CUMPRIDA;
+    b) Ao final, a confirmação da medida liminar, caso seja deferida, ou, não sendo desta forma, seja reconhecida a violação a Súmula Vinculante nº 56, deste r. STF, com o consequente deferimento dos pedidos acima. [destacado no original]
+    Assim, embora reconheça a omissão, considero inexistente a aderência estrita entre o que decidido no ato reclamado – no sentido de não computar o período de prisão domiciliar implementado entre a decisão concessiva em primeiro grau e a cassação no TJSC – e o parâmetro de controle invocado.
+    Conforme consignei a respeito da Súmula Vinculante 56 (eDOC 9):
+    “3. Fixadas tais premissas, consigno que a Súmula Vinculante 56 desta Corte enuncia que:
+    “A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.”
+    Por sua vez, no julgamento do RE 641.320/RS, concluiu-se que:
+    “Havendo déficit de vagas, deverão ser determinados: (i) a saída antecipada de sentenciado no regime com falta de vagas; (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado.” (RE 641.320, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 11.05.2016)
+    Como se vê, a decisão do Plenário da Corte, por um lado, impede que a execução da pena extrapole os limites do título condenatório, afastando-se o regime mais gravoso na hipótese em que cumpridos os requisitos para tanto. Para propiciar o atingimento desse objetivo, a posição do Plenário da Corte autoriza a adoção de medidas que não contêm previsão legal expressa, circunstância que, por si, contraria as ponderações explicitadas na decisão reclamada.
+    Contudo, o Plenário assentou que:
+    “Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como “colônia agrícola, industrial” (regime semiaberto) ou “casa de albergado ou estabelecimento adequado” (regime aberto) (art. 33, § 1º, alíneas “b” e “c”). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado.“ (RE 641.320, Rel. Min. GILMAR MENDES, Tribunal Pleno, julgado em 11.05.2016, grifei)
+    Nessa perspectiva, cabe ao Juiz da Execução Penal a avaliação da compatibilidade entre o estabelecimento prisional e o regime semiaberto, ainda que não seja o caso de colônia agrícola ou industrial. Essa conclusão, naturalmente, inclusive quanto a aspectos fático-probatórios, sujeita-se à revisão por parte do Tribunal local.”
+     O precedente jurisprudencial que deu ensejo à presente reclamação não versa sobre o cômputo do período de prisão domiciliar na duração da pena quando cassada a decisão que a determinou, atendo-se, tão somente, a aclamar, sob a ótica do excesso de execução, a impossibilidade de manutenção de custodiado em regime mais gravoso do que o constante em seu édito condenatório.
+    Destarte, a insurgência ora apontada não tem guarida, por ausência de aderência estrita entre o aduzido pelo reclamante e a decisão apontada como paradigma.
+    2. Ante o exposto, acolho os embargos de declaração para integrar a decisão recorrida, mantendo, todavia, a improcedência da Reclamação com fulcro no art. 21, § 1º, do RISTF.
+    Publique-se. Intime-se.
+    Brasília, 14 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
