@@ -1,0 +1,15 @@
+DECISÃO:
+    1. Trata-se de reclamação, com pedido liminar, ajuizada para impugnar ato administrativo praticado por Nivaldo Donizete Muniz, Prefeito do Município de Campestre/MG, que teria nomeado para cargos em comissão no Poder Executivo o pai e o marido de Thaís Fernanda Pimentel do Lago, advogada titular de cargo efetivo de Assessora Jurídica, na Câmara Municipal.
+    2. Cláudio Ramos da Silva, ora reclamante, sustentou que, ante a prática de nepotismo cruzado, teria ocorrido violação à autoridade da Súmula Vinculante nº 13 (“A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal”).
+    3. A autoridade reclamada prestou informações (doc. 15). O pedido de liminar foi indeferido pelo Min. Joaquim Barbosa, relator originário do feito (doc. 17). Para impugnar essa decisão, a parte reclamante interpôs agravo regimental (doc. 19). A Procuradoria-Geral da República manifestou-se pelo desprovimento do agravo regimental e pela improcedência da reclamação (doc. 26).
+    4. Welinton Domingues da Silva, advogado da parte reclamante, protocolizou petição por meio da qual requereu a homologação de renúncia ao mandato (doc. 24). Determinei sua intimação para que comprovasse ter notificado a parte reclamante, nos termos do art. 45 do CPC/1973 (doc. 27), mas a providência não foi atendida (doc. 30).
+    5. É o relatório. Decido.
+    6. Indefiro o requerimento de homologação de renúncia ao mandato formulado por Welinton Domingues da Silva. Isso porque, mesmo após ter sido regularmente intimado, o advogado deixou de comprovar que notificou a parte reclamante, tal qual exigia o art. 45 do CPC/1973, em disposição reproduzida no art. 112 do CPC/2015.
+    7. Encerrado o mandato eletivo, desaparece a relação de parentesco entre nomeante e nomeado, necessária à configuração da prática do nepotismo. Ocorre, portanto, a perda superveniente do interesse de agir na reclamação. Nesse sentido: Rcl 11.482, rel. Min. Rosa Weber; Rcl 6.997, rel. Min. Cármen Lúcia; MS 27.667, rel. Min. Joaquim Barbosa.
+    8. Na hipótese, os atos administrativos impugnados foram praticados por Nivaldo Donizete Muniz no exercício do cargo de Prefeito do Município de Campestre/MG. Em consulta ao sítio eletrônico do Tribunal Regional Eleitoral de Minas Gerais, verifico que seu mandato encerrou-se em dezembro de 2012, sem que tenha havido reeleição para o período subsequente.
+    9. Por todo o exposto, com fundamento no art. 21, IX, do RI/STF, julgo prejudicada a reclamação.
+    Publique-se.
+    Brasília, 14 de março de 2018.
+         Ministro Luís Roberto Barroso
+         Relator
+Documento assinado digitalmente
