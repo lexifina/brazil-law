@@ -1,0 +1,34 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto com fundamento no art. 102, III, “a”, da Constituição Federal, em que a parte recorrente alega ter o acórdão recorrido violado dispositivos constitucionais.
+    É o relatório. Decido.
+    O Juízo de origem não analisou as questões constitucionais veiculadas, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada) e 356 (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), ambas desta CORTE SUPREMA.
+    Mesmo que assim não fosse, o SUPREMO já foi confrontado com recurso em que se veiculavam idênticas teses e não deu guarida à pretensão. Por sua exatidão, vejam-se as colocações do ilustre Min. GILMAR MENDES no AI 741393 (DJe 12/08/2014):
+    “Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 3ª Região, cuja ementa transcrevo a seguir, no que interessa:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. IOF SOBRE REMESSA DE DIVISAS EM PAGAMENTO DE IMPORTAÇÃO DE TECNOLOGIA EM POLIETILENO, REQUERIMENTO DE AGOSTO/92. RESOLUÇÃO BACEN Nº 1.301/87 A NÃO MAIS VIGORAR. ESTRITA LEGALIDADE A NÃO EMBASAR O INTENTO ISENTIVO. DENEGAÇÃO DA SEGURANÇA.” (fl. 141)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 153, §1º, do texto constitucional.
+    Nas razões recursais, alega-se que a Resolução Bacen nº 1.301/87 garantiria à parte recorrente a tributação de IOF com alíquota zero na operação de importação de tecnologia em polietileno.
+    A Vice-Presidência do TRF-3 inadmitiu o recurso por reputar que o Decreto 1.071/1994 não instituiu ou alargou a hipótese de incidência do IOF, bem como em razão da jurisprudência do STF.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, não se constata de que forma o acórdão recorrido estaria a ferir o dispositivo constitucional apontado, uma vez que a questão cinge-se ao direito intertemporal, e não à competência normativa.
+    O Tribunal de origem assim assentou:
+    “Porém, em linha evolutiva no tempo e já quando da contratação em espécie, não mais vigorava o ordenamento almejado em aparo ao pleito isentivo em questão: com efeito, o Decreto-Lei nº 2.434, do mesmo ano, por completo, âmbito no qual não mais produzia efeitos da citada normação.”
+    Sendo assim, verifico que o acórdão recorrido não destoou da jurisprudência do Supremo Tribunal Federal, a qual se firmou no sentido de seja por isenção, seja por alíquota zero, a ocorrência do fato gerador deve ser posterior à vigência do diploma legal para fins de legalidade. Confiram-se, a propósito, precedentes desta Corte sobre a irretroatividade:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS - IOF. Lei 8.033, de 12.04.90, artigo 1º, I. Medidas Provisórias 160, de 15.03.90 e 171, de 17.03.90. I. - Legitimidade constitucional do inciso I do art. 1º da Lei 8.033, de 12.04.90, lei de conversão das Medidas provisórias 160, de 15.03.90, e 171, de 17.03.90. II. - R.E. conhecido e provido.”
+(RE 223144, Rel. Min. CARLOS VELLOSO, Tribunal Pleno, DJ 21.11.2003)
+    “Agravo regimental no recurso extraordinário. Tributário. Constitucionalidade. Lei nº 8.033/90. MP nº 160/90. IOF sobre operações financeiras. Precedentes. 1. Esta Corte, em 17/6/02, no julgamento do RE nº 223.144/SP, da relatoria do Ministro Carlos Velloso, firmou entendimento no sentido da constitucionalidade do art. 1º, inciso I, da Lei nº 8.033/90, oportunidade em que também foi afastada a alegada violação do princípio da irretroatividade da lei tributária, tendo em vista que o fato gerador do referido tributo não corresponde aos ativos e aplicações financeiras existentes até o dia 16/3/90, mas, sim, às operações que seriam praticadas em relação a esses a partir daquela data (art. 2º, inciso II, da Lei nº 8.033/90). 2. As alegações deduzidas no agravo são insuficientes para infirmar a fundamentação que ampara a decisão agravada, a qual se encontra em sintonia com a orientação jurisprudencial deste Supremo Tribunal Federal acerca do tema. 3. Agravo regimental não provido.”
+(RE 232454 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 13.9.2012)
+    “CONSTITUCIONAL. TRIBUTÁRIO. IOF. INCIDÊNCIA SOBRE APLICAÇÕES FINANCEIRAS. ART. 1º, INCISO I, DA LEI 8.033/90. Precedente firmado no julgamento do RE 223.144, quando se afastou a suposta contrariedade ao princípio da irretroatividade, "dado que a hipótese de incidência do IOF não são os ativos e as aplicações financeiras existentes em 15.3.90, mas as operações que seriam praticadas relativamente aos mesmos, a partir da data mencionada no inc. II do art. 2º" e porque a este imposto "se aplica o disposto no § 1º do art. 150, C.F., a excluir o IOF do princípio da anterioridade inscrito no art. 150, II, b, da mesma Carta". Agravo regimental improvido.”
+(RE 380781 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJ 26.9.2003)
+    Ademais, verifico que divergir do entendimento adotado pelo tribunal a quo demandaria o reexame do conjunto fático-probatório dos autos e a legislação aplicável à espécie, inclusive de índole regulamentar, o que faz incidir o Enunciado 279 do STF.
+    Confira-se, nesse sentido, o seguinte julgado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CPMF. ALÍQUOTA ZERO. INCIDÊNCIA. CARACTERIZAÇÃO DE EMPRESA DE ARRENDAMENTO MERCANTIL COMO INSTITUIÇÃO FINANCEIRA. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão à luz das legislações infraconstitucionais aplicáveis à espécie (Leis 4.595/64, 6.099/74, 7.132/83, 9.311/96, Resolução BACEN 2.309/96 e Portarias 6/97 e 134/99 do Ministério da Fazenda). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II - Agravo regimental improvido.”
+(AI 814820 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 6.9.2011)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).”
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 14 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
