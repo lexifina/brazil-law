@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “DIREITO PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONCESSÃO DA ORDEM. TRÂNSITO EM JULGADO. DIFERENÇAS REMUNERATÓRIAS. AÇÃO AUTÔNOMA DE COBRANÇA. CARÊNCIA DE AÇÃO. FALTA DE INTERESSE DE AGIR. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+    I. De acordo com o artigo 14, § 4º, da Lei 12.016/2009, a sentença que concede a ordem contempla as vantagens pecuniárias vencidas a partir da impetração do mandado de segurança.
+    II. A sentença mandamental que assegura o pagamento de vencimentos e vantagens pecuniárias a servidor público representa título executivo judicial, salvo quanto às prestações anteriores à impetração.
+    III. Havendo sentença mandamental transitada em julgado consignando o direito às diferenças remuneratórias alusivas ao período posterior à impetração, carece a parte vencedora de interesse processual quanto à propositura de demanda que tem por objeto o pagamento dessas mesmas verbas.
+    IV. Recurso e remessa necessária providos.”
+    O recurso extraordinário não deve ser provido, tendo em vista que não se discute matéria constitucional. Incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nesse sentido, vejam-se julgados de ambas Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. CARÊNCIA DE AÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”(AI 597.276 AgR, Relª. Minª. Cármen Lúcia, Primeira Turma)
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. LEI 6.024/74. LIQUIDAÇÃO EXTRAJUDICIAL. RESPONSABILIDADE. BANCO CENTRAL. PREJUÍZOS AOS INVESTIDORES. CARÊNCIA DA AÇÃO. MATÉRIA PROCESSUAL. OFENSA REFLEXA. 1. O Tribunal a quo limitou-se a reconhecer a carência da ação dos agravantes, por falta de interesse de agir. Tal questão, ante seu manifesto caráter processual e infraconstitucional, é insuscetível de exame em sede de recurso extraordinário, a título de ofensa ao art. 5º, XXXV, da Constituição Federal que, se existente, seria meramente reflexa ou indireta. 2. O mérito da demanda sequer foi examinado. Inviável, portanto, a discussão em torno do art. 37, § 6º, da Constituição Federal, para se definir a responsabilidade do Banco Central pelos prejuízos causados aos investidores. 3. Agravo regimental improvido.” (RE 234.371 AgR, Relª. Minª. Ellen Gracie, Segunda Turma)
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 14 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
