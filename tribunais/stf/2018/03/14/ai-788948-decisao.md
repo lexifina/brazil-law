@@ -1,0 +1,23 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto com fundamento no art. 102, III, “a”, da Constituição Federal, em que a parte recorrente alega ter o acórdão recorrido violado dispositivos constitucionais.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, recursos idênticos ao presente já vieram algumas vezes a esta CORTE e jamais foram acolhidos. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. PARCELA VARIÁVEL DE REMUNERAÇÃO – PVR, INSTITUÍDA PELA LEI Nº 11.333/1996, DO ESTADO DE PERNAMBUCO. EXTENSÃO AOS INATIVOS. NATUREZA DA GRATIFICAÇÃO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. SÚMULAS 279 E 280/STF.
+    Para se chegar à conclusão pretendida pela recorrente no sentido da natureza específica da Parcela Variável de Remuneração – PVR, faz-se necessário examinar a legislação ordinária aplicada à espécie, bem como uma nova apreciação dos fatos e do material probatório constantes dos autos. Hipótese que atrai a incidência das Súmulas 279 e 280/STF.
+    A jurisprudência do Supremo Tribunal Federal já assentou o entendimento de que as vantagens de caráter geral, concedidas aos servidores da ativa, são extensíveis aos inativos, conforme o disposto no art. 40, § 8º, da Constituição.
+     Ausência de argumentos capazes de infirmar a decisão agravada.
+    Agravo regimental a que se nega provimento.” (AI 749838 AgR, 1ª T., Min. ROBERTO BARROSO, Dje de 13/10/2014)
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PARCELA VARIÁVEL DE REMUNERAÇÃO – PVR: NATUREZA DA GRATIFICAÇÃO. QUESTÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(AI 749436 AgR, Relator(a): Min. CÁRMEN LÚCIA, Primeira Turma, DJe 15-08-2012) “
+    “DIREITO ADMINISTRATIVO. PARCELA VARIÁVEL DE REMUNERAÇÃO – PVR. EXTENSÃO AOS INATIVOS. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. LEI 11.333/96 DO ESTADO DE PERNAMBUCO. OFENSA À CONSTITUIÇÃO FEDERAL NÃO CONFIGURADA. Controvérsia limitada à interpretação de legislação local, a inviabilizar o reexame da matéria na via extraordinária. Aplicação da Súmula 280/STF: “por ofensa a direito local não cabe recurso extraordinário”. Agravo regimental a que se nega provimento.
+(AI 731198 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe 23-04-2012) “
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 14 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
