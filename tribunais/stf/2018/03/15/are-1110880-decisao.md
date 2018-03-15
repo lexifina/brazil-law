@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Minas Gerais, ementado nos seguintes termos:
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL. NÃO CONHECIMENTO. PRINCÍPIO DA DIALETICIDADE. PRELIMINAR DE OFÍCIO ACOLHIDA. O recurso que não contém os fundamentos que embasam o inconformismo contra o ‘decisum’, não se mostra em consonância com o ordenamento processual em vigor, que exige razões recursais discursivas, em observância ao princípio da dialeticidade.” (eDOC 1, p. 223)
+    No recurso extraordinário, não se apontou em que permissivo se pautou para sua interposição, tampouco se indicou o dispositivo constitucional violado.
+    Nas razões recursais, alega-se que o recorrente foi condenado a indenizar o recorrido em razão de danos provocados em acidente de trânsito e que o julgamento se deu de forma contrária à prova dos autos. (eDOC 1, p 259)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar por diversas razões.
+    Primeiro, verifico que o Tribunal a quo negou seguimento à apelação por constatar deficiência na fundamentação. (eDOC 1, p. 211) Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A ausência de razões não permite que se conheça da apelação.
+    No caso dos autos, observo que a parte Ré impugna a sentença de forma genérica, aludindo ao que entende ser a ‘injustiça da condenação’ e o ‘desequilíbrio da sentença’, sem conferir roupagem jurídica a tais alegações, nem indicar os fatos e fundamentos que poderiam levar à reforma da sentença.
+    Não basta a parte afirmar que ‘entende as injustiças constante da Sentença, em razão do acúmulo de serviços Forense’ (sic, f. 167-TJ), cabendo a ela fazer impugnação especificada dos fundamentos da decisão.
+    A tais alegações soma-se a insurgência genérica contra um suposto cerceamento de defesa, feita tardiamente apenas nas razões do Agravo Interno (f. 186-TJ), o que não aproveita à admissibilidade da apelação, em razão da preclusão consumativa.” (eDOC 1, p. 225)
+    Desse modo, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Ademais, não houve prequestionamento de questão constitucional, o que inviabiliza o apelo extremo, pois incide, no caso, o óbice da Súmula 282 desta Corte.
+    Ainda que assim não fosse, o apelo não mereceria prosperar, porquanto a orientação sumulada desta Corte é no sentido de que é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+    No caso, verifica-se que a parte recorrente não demonstrou de que forma o acórdão recorrido teria afrontado a Constituição Federal.
+    Registre-se que é necessária, para a admissão do recurso extraordinário, a demonstração efetiva de ofensa à Constituição Federal, o que não ocorreu no caso dos autos, pois a recorrente sequer indicou o dispositivo constitucional violado. Na hipótese, incide a súmula 284 do STF. A propósito, confiram-se os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Petição de recurso extraordinário que não aponta o dispositivo constitucional que teria sido violado. Precedentes. Servidor público. Ausência de prévio concurso público. Nulidade da contratação. FGTS. Direito aos depósitos para o fundo quando mantido o direito aos salários. Constitucionalidade do art. 19-A da Lei nº 8.036/90. Repercussão geral. Precedentes. 1. A jurisprudência da Corte firmou-se no sentido de não se admitir recurso extraordinário em cujas razões o recorrente não tenha indicado os dispositivos da Constituição Federal que teriam sido violados. 2. O Plenário da Corte, no julgamento do RE nº 596.478/RR, do qual fui Relator para o acórdão, reconheceu a repercussão geral do tema em debate e, no mérito, concluiu pela constitucionalidade do art. 19-A da Lei nº 8.036/90, o qual dispõe ser devido o depósito do Fundo de Garantia do Tempo de Serviço na conta de trabalhador cujo contrato com a Administração Pública seja declarado nulo por ausência de prévia aprovação em concurso público, desde que mantido o seu direito ao salário. 3. Agravo regimental não provido. (ARE 743.134 AgR/PI, Rel. Min. Dias Toffoli, Primeira Turma, DJe 9.10.2014) grifo nosso
+    “Agravo regimental em agravo de instrumento. 2. Recurso extraordinário. Petição que não indica o dispositivo constitucional violado. Descabimento. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI 595.866, de minha relatoria, Segunda Turma, DJe 18.4.2008)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro o valor da verba honorária fixada pela origem em 10%, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 15 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
