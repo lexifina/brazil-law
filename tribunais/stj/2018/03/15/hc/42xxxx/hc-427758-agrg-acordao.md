@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. INCIDÊNCIA DA SÚMULA 691/STF. ORGANIZAÇÃO CRIMINOSA, USURPAÇÃO DE FUNÇÃO PÚBLICA, TRÁFICO DE INFLUÊNCIA E PECULATO. PRISÃO PREVENTIVA. REITERAÇÃO DE CONDUTA. FUNDAMENTAÇÃO IDÔNEA. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. As Turmas integrantes da Terceira Seção desta Corte Superior, na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+2. No caso, o Magistrado singular, ao decretar a prisão cautelar do ora agravante, disse expressamente que ele vem reiterando na prática de crimes.
+3. O Enunciado n. 691 da Súmula do Supremo Tribunal Federal só é superado em casos excepcionais, em que a ilegalidade é manifesta, o que não é o caso destes autos.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão em que foi indeferido liminarmente o habeas corpus impetrado em seu favor. Eis a ementa da decisão (fl. 1341):
+HABEAS CORPUS. INCIDÊNCIA DA SÚMULA 691/STF. ORGANIZAÇÃO CRIMINOSA, USURPAÇÃO DE FUNÇÃO PÚBLICA, TRÁFICO DE INFLUÊNCIA E PECULATO. PRISÃO PREVENTIVA. REITERAÇÃO DE CONDUTA. FUNDAMENTOS CONCRETOS. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+Writ indeferido liminarmente.
+O agravante reitera o argumento da impetração e alega que está preso preventivamente em decorrência de decisão sem fundamentação idônea. Aduz, ainda, que o processo encontra-se contaminado de nulidade, visto que foram feitas interceptações telefônicas em profunda afronta ao artigo 2º, da Lei 9296/96, bem como lastreadas em denúncias anônimas (fl. 1359).
+Entende que é o caso de superação da Súmula 691 do Supremo Tribunal Federal.
+Postula, ao final, a reconsideração da decisão hostilizada ou o provimento do presente recurso, com a finalidade de reformar a decisão exarada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A despeito das alegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Cumpre salientar que as Turmas integrantes da Terceira Seção desta Corte Superior, na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Repise-se que, no caso, o Magistrado singular, ao decretar a prisão cautelar, disse que o ora agravante vem reiterando na pratica de crimes, haja vista que  ..  mesmo após decisão judicial lançada nos autos do Processo Criminal n. 938-32/2012, que determinou a aplicação de medidas cautelares de proibição de exercício de função pública e acesso e frequência às dependências da Municipalidade, até então, mantida pelo Égregio Superior Tribunal de Justiça, nos autos da RCL n. 34.065/SP, o acusado não hesitou em continuar a burlar a autoridade das decisões judiciais, caindo na mais absoluta ilegalidade (fl. 222)  .. , razão pela qual não vislumbrei constrangimento ilegal ou teratologia apta a justificar a intervenção deste Superior Tribunal.
+Reitere-se, também, que,  ..  as matérias aventadas na presente ordem de habeas corpus não foram objeto de análise pelo Tribunal de origem; fica, assim, impedida sua admissão, sob pena de incidir-se na indevida supressão de instância, nos termos do enunciado da Súmula 691 do STF. 2. O referido impeditivo é ultrapassado apenas em casos excepcionais, nos quais a ilegalidade é tão flagrante que não escapa à pronta percepção do julgador, o que não ocorre na espécie (AgRg no HC n. 390.979/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/5/2017).
+Em face do exposto, nego provimento ao agravo regimental.
