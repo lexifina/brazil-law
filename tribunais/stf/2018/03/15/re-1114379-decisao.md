@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a Companhia Riograndense de Saneamento (Corsan). Aparelhado o recurso na afronta aos arts. 5º, LIV, 23, IX, e 100 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não prospera a insurgência pelo prisma do inciso LIV do art. 5º da Carta Política, consagrador do princípio do devido processo legal, uma vez que o Plenário Virtual desta Suprema Corte negou a existência de repercussão geral da questão no julgamento do ARE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.8.2013, assim ementado:
+    "Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Verifico que, para aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO. SUBMISSÃO AO REGIME DE PRECATÓRIOS. CONTROVÉRSIA QUE DEMANDA O REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. VIOLAÇÃO AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. OFENSA AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. CONDENAÇÃO EM HONORÁRIO ADVOCATÍCIOS NO JUÍZO RECORRIDO NO MÁXIMO LEGAL. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. RECURSO DESPROVIDO.“ (RE 1078944/RS, Rel. Min. Luiz Fux, DJe 04.10.2017)
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. ACÓRDÃO RECORRIDO QUE ENTENDEU SER A RECORRENTE SOCIEDADE DE ECONOMIA MISTA EM REGIME DE ATIVIDADE CONCORRENCIAL E DISTRIBUIÇÃO DE LUCROS, RAZÃO PELA QUAL NÃO ESTARIA SUJEITA AO REGIME JURÍDICO DE PRECATÓRIOS. ALEGAÇÃO DE ENQUADRAMENTO NOS PARÂMETROS ESTABELECIDOS PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE 599.628. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, §11, DO CPC/ 2015. RECURSO DESPROVIDO.“ (RE 1102998/RS, Rel. Min. Luiz Fux, DJe 08.02.2018)
+    No mesmo sentido, cito os seguintes julgados: RE 1089872/RS, Rel. Min. Gilmar Mendes, DJe 24.11.2017; RE 1083544/RS, Rel. Min. Marco Aurélio, DJe 07.11.2017.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de março de 2018.
+Ministra Rosa Weber
+Relatora
