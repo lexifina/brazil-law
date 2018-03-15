@@ -1,0 +1,24 @@
+Decisão
+Trata-se de Agravo contra decisão da instância de origem que não admitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 10, Vol. 8):
+    “EXECUÇÃO FISCAL. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. CRECI. ANUIDADES. MULTA ELEITORAL. VÍCIO INSANÁVEL DO TÍTULO EXECUTIVO.
+    1. Pretende o CRECI-13ª Região (ES) a execução de dívida referente às anuidades inadimplidas dos anos de 2012 a 2014 e à multa eleitoral do ano de 2012, tendo por embasamento legal os artigos 3º; 16, inciso VII; 19, inciso I; 20 c/c incisos II e X, da Lei nº 6.530/78, e artigos 2º; 3º; 10, inciso X; 16, inciso V; 38, incisos III e XI, e 39 do Decreto nº 81.871/78.
+    2. As anuidades cobradas por Conselho Profissional devem ser fixadas e majoradas por lei, consoante preceitua o artigo 150, caput e inciso I, da Constituição Federal de 1988.
+    3. Observado o princípio da irretroatividade das leis, o CRECI passou a cobrar o valor das anuidades nos moldes estabelecidos em norma legal somente a partir de dezembro de 2003, quando publicada a Lei nº 10.795/2003, sendo indevida, por isso, a cobrança da referente àquele mesmo ano, pois já vencida desde o último dia útil do primeiro trimestre de 2003.
+    4. As CDAs que embasam a presente ação estão eivadas de vício insanável, pois não indicam como fundamento legal para a cobrança das anuidades os parágrafos 1º e 2º do artigo 16 da Lei nº 6.530/78, incluídos pela Lei nº 10.795/2003, reportando-se equivocadamente à proibição do inciso X do artigo 20 da aludida legislação, devendo ser reconhecida a nulidade absoluta dos títulos executivos, com a extinção da demanda, nos termos do artigo 803, inciso I, do CPC/2015 (cf. o REsp nº 1.045.472/BA, submetido ao rito dos recursos repetitivos pelo STJ).
+    5. A multa eleitoral foi instituída pelo parágrafo único do artigo 19 do Decreto nº 81.871/78, que, ao regulamentar a Lei nº 6.530/78, criou exigência (voto obrigatório) e impôs penalidade (multa eleitoral) sem previsão na lei objeto de regulamentação. Descabida a prevalência do aludido dispositivo, por ter extrapolado sua função meramente regulamentadora, criando obrigatoriedade e pena sem previsão na lei regulamentada, contrariando o disposto nos artigos 5º, inciso II, e 37, caput, da Constituição Federal/88.
+    6. Apelação conhecida e desprovida.”
+    Nas razões recursais iniciais, com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente alega violação aos arts. 5º, II, 37 caput, 149 e 150, III, da CF/88.
+    É o relatório. Decido.
+    Em relação à ofensa aos arts. 5º, II, e 37, caput, da Constituição Federal, aplica-se, neste caso, a restrição da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    No que toca à multa eleitoral, o Tribunal de origem consignou que o Decreto 81.871/1978, ao regulamentar a Lei 6.530/1978, criou exigência sem previsão na lei objeto de regulamentação, tendo, assim, extrapolado sua função meramente regulamentadora.
+    Assim, para reverter o entendimento alcançado pela instância de origem, seria necessário o exame de norma ordinária, de forma que as ofensas indicadas à Constituição serima meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    A respeito das anuidades cobradas pelo Conselho Regional de Corretores de Imóveis, consta do acórdão recorrido que as CDAs que embasam a execução fiscal são nulas porque não indicam como fundamento legal a Lei 10.795/2003, que alterou a Lei 6.530/1978, normas que estabeleceram o valor máximo das anuidades bem como sua forma de atualização, sem as quais não poderia aquela entidade cobrar as dívidas relativas às anuidades.
+    Desse modo, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário.
+    Por fim, esta CORTE, no julgamento do RE 704.292 -RG (Rel. Min. DIAS TOFFOLI, Tema 540), examinou a repercussão geral dessa questão constitucional, assentando que não cabe aos conselhos de fiscalização de profissões regulamentadas fixar o valor das anuidades ou atualização monetária em patamares superiores aos permitidos em lei, sob pena de ofensa ao art. 150, I, da CF/88.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 15 de março de 2018.
+Ministro Alexandre de Moraes
+relator
+documento assinado digitalmente
