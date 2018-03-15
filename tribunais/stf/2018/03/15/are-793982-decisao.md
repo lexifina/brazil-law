@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul confirmou o entendimento do Juízo quanto à procedência do pedido de pagamento do valor relativo à venda de 2.632 litros de leite. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violado o artigo 5º, incisos V, LIV, LV e XXXVI, e 93, inciso IX, da Constituição Federal. Entende contrariados os princípios da ampla defesa e do contraditório. Argui a nulidade do acórdão por negativa de prestação jurisdicional. Defende a impossibilidade de condenação solidária, porquanto não configurados os pressupostos legais.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes trechos:
+    O autor é produtor de leite e entregou parte de sua produção para a ré Brasleite, entendendo que estava negociando com a recorrente, não tendo recebido o pagamento.
+    O testemunho de outro produtor de leite conforta a tese do autor e afirma que dois homens apresentaram-se na região corno prepostos da recorrente e ofereceram valor superior pelo litro de leite, tendo o autor e outros, vendido a sua produção para estes.
+    Sucede que as notas de compra foram emitidas pela ré Brasleite, com a qual a recorrente mantém relação comercial e de quem compra o leite in natura. Ora, a relação entre as rés não é negada, ao contrário, a recorrente confessa a aquisição de leite e junta comprovantes de pagamento, afirmando a inaplicabilidade da teoria da aparência em razão da não exclusividade na relação de compra e venda do leite.
+    Ocorre que para a aplicação da teoria da aparência não se exige a exclusividade na compra, mas sim que uma das partes acredite estar negociando com determinada pessoa e que a crença tem fundado motivo.
+    No caso dos autos, resta provada a relação entre as rés. O fato de a ré Brasleite não negociar somente com a recorrente não retira a possibilidade de o produtor de leite acreditar estar negociando com a recorrente, ainda mais quando, repito, parte da produção adquirida pela Brasleite efetivamente é negociada com a recorrente.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 15 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
