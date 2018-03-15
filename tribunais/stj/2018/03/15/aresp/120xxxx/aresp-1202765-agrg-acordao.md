@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECONHECIMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem entendeu indevida a incidência da minorante com base não só na quantidade de droga, mas também no fato de que o réu estava articulado com outras pessoas e utilizou veículo com fundo falso para transportar a droga, circunstâncias essas que inviabilizam a aplicação da minorante, em razão da existência de elemento concretos que indicam a dedicação do recorrente a atividades criminosas, notadamente ao tráfico de drogas.
+2. Para acolher o pleito defensivo e fazer incidir a referida minorante, seria necessário o revolvimento do contexto fático-probatório dos autos.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ANDRÉ RICARDO DUTRA DE ARAÚJO agrava de decisão na qual não conheci do pedido atinente à concessão da causa especial de diminuição de pena porque sua análise demandaria revolvimento do contexto fático-probatório amealhado aos autos.
+No agravo regimental, a defesa sustenta, em síntese, que o réu preenche todos os requisitos para a concessão da minorante e que não há necessidade de reexame de fatos para tanto.
+Requer, dessa forma, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado, a fim de que seja conhecido e provido o pleito.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. RECONHECIMENTO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. O Tribunal de origem entendeu indevida a incidência da minorante com base não só na quantidade de droga, mas também no fato de que o réu estava articulado com outras pessoas e utilizou veículo com fundo falso para transportar a droga, circunstâncias essas que inviabilizam a aplicação da minorante, em razão da existência de elemento concretos que indicam a dedicação do recorrente a atividades criminosas, notadamente ao tráfico de drogas.
+2. Para acolher o pleito defensivo e fazer incidir a referida minorante, seria necessário o revolvimento do contexto fático-probatório dos autos.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão impugnada, cuja conclusão mantenho.
+Consoante anteriormente explicitado, não há como aplicar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, diante do fato de que o Tribunal de origem concluiu que o réu se dedicava ao comércio de drogas, in verbis:
+ ..
+Sobre a minorante do trafico eventual, e cediço tratar-se de instrumento de política criminal previsto na Lei n. 11.343/06, cujo fim é o de melhor aparelhar o julgador no processo de individualização da pena, permitindo-lhe tratar os traficantes de modo diferenciado, na medida do nível de envolvimento de cada um com a prática ilícita.
+Nesse prospecto, sendo o indivíduo primário, de bons antecedentes, não integrante de organização criminosa e não dedicado a atividades ilícitas, poderá valer-se de uma causa especial de diminuição da pena (art. 33, par. 4º).
+Na hipótese em apreço, entretanto, observa-se que o apelante André admitiu durante seu interrogatório ter sido contratado por uma pessoa residente em Eldorado-MS para transportar a considerável quantidade de drogas apreendidas nos autos. Esclareceu, ainda, que reccberia R$ 3.500,00 pela empreitada delituosa (p. 192).
+O policial que participou do flagrante ([NOME]), em seu depoimento judicial, declarou que em fiscalização de rotina acabou por abordar o apelante André enquanto conduzia o veículo GM/Zafira (de placas [PLACA]), ele que, ao ser indagado, não soube explicar a razão do automóvel possuir algumas partes com sinal de pintura recente. Disse ainda que, diante dessa atitude suspeita, acabou por realizar vistoria no carro, logrando êxito em localizarar os 62 tabletes de maconha em compartimento preparado na lataria do veículo (p. 317).
+Nada obstante a droga tenha sido ocultada na lataria do veículo, o laudo de p. 277-281 constatou que o automóvel possuía outros compartimentos "que poderiam ser utilizados poderiam ser utilizados para o transporte e ocultação de objetos e/ou substâncias ilícitas, por exemplo, forração, interior de assentos, porta malas, tanque de combustível etc", indicando, pois, que esse bem era frequentemente empregado no transporte de entorpecentes.
+Além disso, a cópia do CRV acostada à p. 31-32 destes autos demonstra que o automóvel era propriedade de terceiros.
+Como se vê, a expressiva quantidade de drogas, a articulação com outras pessoas precariamente identificadas nos autos e a utilização de veículo previamente preparado para o transporte da maconha, são todos elementos que evidenciam não se tratar da figura do traficante aventureiro, mas sim de agente dedicado à atividades criminosas e que integrou, ainda que ocasionalmente, organização criminosa (fls. 549-550, destaquei).
+No julgamento dos embargos infringentes, a questão ficou assim dirimida:
+A seguir, pede o reconhecimento da causa de diminuição prevista no art. 33, § 4º, da Lei n.º 11.343/2006, que não foi aplicada pelo magistrado singular.
+Prima facie, insta ressaltar que, no tocante à utilização da quantidade de droga na primeira e terceira fases da dosimetria da pena, este julgador possui entendimento de que inexiste bis in idem na consideração de tal moduladora para o aumento da pena-base, bem como para efeito da eleição da fração redutora do art. 33, § 4º, da Lei n.º 11.343/06.
+Todavia, ante a consolidação da jurisprudência tanto desta Corte de Justiça, como dos Tribunais Superiores, este magistrado - embora ressalvado o entendimento pessoal - passa a se curvar a tal posicionamento, a fim de evitar morosidade nos processos e a interposição de recursos que estão fadados ao êxito, obrigando novo pronunciamento judicial.
+Ocorre que, in casu, o julgador singelo não incorreu em bis in idem, eis que elevou a pena-base em razão da quantidade de drogas e, a partir de tal circunstância, somados a outros elementos carreados aos autos, inferiu que o acusado não fazia jus à diminuta por se dedicar às atividades criminosas.
+Gize-se que o caso telado difere da hipótese albergada pelo julgamento realizado pelo SUPREMO TRIBUNAL FEDERAL, em sede de Repercussão Geral3, eis que tal decisão refere-se a situações em que há a utilização da mesma moduladora para exasperar a pena-base e mensurar a redutora do art. 33, § 4o, da
+Lei n.º 11.343/06 (fl. 635, grifei).
+Sobre a matéria em discussão, reafirmo que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+Vale dizer, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas.
+No caso, o Tribunal de origem entendeu indevida a incidência da minorante com base não só na quantidade de droga, mas também no fato de que o réu estava articulado com outras pessoas e utilizou veículo com fundo falso para transportar a droga, circunstâncias essas que inviabilizam a aplicação da minorante, em razão da existência de elemento concretos que indicam a dedicação do recorrente a atividades criminosas, notadamente ao tráfico de drogas, conforme bem explicitado pela Corte local.
+Entendo que, para modificar tal entendimento, afastando-se a conclusão de que o acusado não se dedicaria a atividades criminosas, seria necessário o reexame do conjunto fático-probatório amealhado durante a instrução criminal, para, assim, obter novos argumentos suficientes para modificar o acórdão e aplicar a minorante do art. 33, § 4º, da Lei n. 11.343/2006. No entanto, tal medida é incabível na via do recurso especial, conforme o enunciado na Súmula n. 7 do STJ, in verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ilustrativamente:
+ ..
+6. Inviável a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, se o Tribunal de origem constatou, diante das peculiaridades do caso concreto, que o réu se dedicava a atividades criminosas, notadamente ao tráfico de drogas. Concluir de forma diversa enseja o reexame do conjunto fático-probatório, obstado pela Súmula n. 7/STJ.
+7. Agravo regimental não provido.
+(AgRg no REsp n. 1.174.858/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/3/2016, destaquei).
+Portanto, corroboro que deve ser mantida inalterada a decisão atacada no ponto em que concluiu pela impossibilidade de incidência da minorante descrita no art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, nego provimento ao agravo regimental.
