@@ -1,0 +1,67 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUCESSÃO. SOCIEDADE EMPRESARIAL. QUOTAS SOCIAIS. DIREITOS DOS HERDEIROS. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. Alterar a conclusão do Tribunal de origem - extraída da leitura do contrato social da empresa e de suas posteriores alterações -, de que os herdeiros também teriam direito às quotas sociais, demandaria nova interpretação contratual, além de revolvimento do conteúdo fático-probatório dos autos.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 651/655), interposto contra decisão desta relatoria que não conheceu do recurso especial.
+Em suas razões, a agravante insurge-se contra a incidência das Súmulas n. 5 e 7 do STJ, alegando que (e-STJ fl. 654):
+In casu, a leitura das r. decisões proferidas nas Instâncias originárias (sentença, declaratórios e Acórdãos) é suficiente para o julgamento do punctum dolens da demanda à luz das vulneradas disposições 1.028 caput e 1.031, do Código Civil, incidentes na espécie.
+Não se trata, pois, de simples interpretação de cláusula contratual ou simples reexame de prova, como antevisto pelo d. Ministro Relator.
+Ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+O agravado apresentou contrarrazões (e-STJ fls. 658/666).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUCESSÃO. SOCIEDADE EMPRESARIAL. QUOTAS SOCIAIS. DIREITOS DOS HERDEIROS. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. Alterar a conclusão do Tribunal de origem - extraída da leitura do contrato social da empresa e de suas posteriores alterações -, de que os herdeiros também teriam direito às quotas sociais, demandaria nova interpretação contratual, além de revolvimento do conteúdo fático-probatório dos autos.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 642/645):
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão do TJMG assim ementado (e-STJ fl. 601):
+EMBARGOS INFRINGENTES - INVENTÁRIO - TERCEIRO INTERESSADO - SOCIEDADE COMERCIAL - APURAÇÃO DE HAVERES PARA FINS DE PARTILHA - DISPOSIÇÃO HEREDITÁRIA CONSTANTE DO CONTRATO SOCIAL - QUESTÃO DE ALTA INDAGAÇÃO - PREVALÊNCIA DA DECISÃO HOMOLOGATÓRIA DA PARTILHA. A existência no contrato social da sociedade comercial, da possibilidade de admissão dos herdeiros na sociedade sustenta a homologação da partilha envolvendo as cotas sociais, não fosse o fato de que a sociedade não tem direito de fazer oposição à participação societária mas tão somente os sócios remanescentes. Não fosse por isso, a virtual colisão entre o interesse do sócio remanescente e os herdeiros, com ou sem a extinção da sociedade comercial, envolve questão de alta indagação que não deve ser objeto de discussão no inventário, impondo-se a partilha das cotas sociais para que virtuais oposições sejam feitas nas vias ordinárias. Embargos Infringentes acolhidos.
+Em suas razões (e-STJ fls. 609/615), a recorrente alega violação dos arts. 1.028 e 1.031 do CC/2002.
+Sustenta que o contrato social da empresa, originalmente, previa a possibilidade de os herdeiros de sócio falecido continuarem a atividade empresarial. Porém, as alterações contratuais posteriores teriam deixado de regular tal hipótese, dispondo que essa questão deveria ser resolvida na forma da lei vigente.
+Defende que seria caso de dissolução parcial da sociedade "em relação ao sócio falecido, até porque nada há na legislação ou no seu contrato social que autorize o indesejado ingresso dos herdeiros no quadro societário" (e-STJ fl. 614).
+Afirma que "cabe aos herdeiros o direito de receberem os valores correspondentes a participação societária do "de cujus" na proporção de seus respectivos quinhões, o que, necessariamente, há de ser levantado pelo balanço especial de que trata o artigo 1.031, do Código Civil" (e-STJ fl. 615).
+O recorrido apresentou contrarrazões (e-STJ fls. 623/629).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Após acolhidos os embargos infringentes, prevaleceu anterior voto vencido no julgamento da apelação, que assim consignou (e-STJ fl. 570):
+Note-se que o contrato social da empresa, datado de 1959, dispôs, expressamente, que "no caso de falecimento dos sócios, seus herdeiros poderão continuar na firma" (fls.28), e as alterações contratuais posteriores juntadas aos autos traziam a disposição idêntica ou semelhante a de que "ficam vigorando em seu inteiro teor, todas as demais cláusulas de que é composto o contrato social da Porcelana Monte Sião Ltda., e que não foram modificadas por este instrumento de alteração contratual e nem o contrariam" (fls.343).
+Assim, ainda que exista, em algumas das alterações contratuais, cláusula expressa de que "os casos omissos serão resolvidos na forma da lei vigente", tal disposição não autoriza o entendimento da recorrente, sobretudo porque não contraria nem o Código Civil nem o próprio contrato social da empresa.
+Ademais, ressai dos autos que a herdeira [NOME] passou a deter poderes de administração da empresa desde o falecimento de seu pai, com a anuência dos demais sócios e, a prevalecer os argumentos da apelante, registre-se que sequer houve levantamento de balanço específico acerca da situação patrimonial da sociedade, nos termos do art. 1.031 do Código Civil.
+Assim, não prosperam as alegações da apelante de que os direitos hereditários devem recair apenas sobre os haveres da sociedade e não sobre as cotas socais.
+No mesmo sentido, os seguintes excertos do aresto dos embargos infringentes (e-STJ fls. 602/603):
+Em que pese a posição de maioria acerca das condições legais, o que vejo dos autos é que a decisão que homologou o acordo envolvendo a transposição das cotas sociais da sociedade comercial é válida em face das condições da Cláusula Décima Terceira do contra social, que antevia, na hipótese de falecimento de um dos sócios, a possibilidade de continuidade da empresa, o que, portanto, suporia a aplicação das condições do art. 1.028,1, do Código Civil.
+(..)
+De outro lado. a alteração contratual produzida no ano de 1960, registrada na Junta Comercial sob o número 109.902, contida às fls. 182/183 dos autos, e que foi indicada como óbice para a partilha homologada, não sustenta a suposta modificação contratual, porque ao não dispor sobre o tema e não afastar as demais condições existentes no contrato social vigente naquela oportunidade, não permitira a exegese no sentido de que a própria condição contratual anteriormente existente fosse revogada pela mutação produzida.
+Ao contrário das ponderações do embargado, a pontual modificação contratual que nada disponha sobre as demais condições até então existentes no contrato social, não tem o condão de impor modificações pontuais, não havendo, como pretende fazer crer o apelante. qualquer tipo de consolidação do contrato, mas tão somente disposições que foram agregadas ao contrato existente, mantendo vivas as condições que com ela não conflitasse, mormente aquela que dispunha sobre o falecimento de um dos sócios.
+Como se pode observar, a conclusão do TJMG de que os herdeiros também teriam direito sobre as quotas sociais foi extraída da leitura do contrato social da empresa e de suas posteriores alterações.
+Dessa forma, para admitir que a sucessão deveria se dar apenas quanto aos haveres da sociedade, seria imprescindível a revisão das cláusulas contratuais e o exame dos demais elementos de prova contidos no processo. Porém, essas providências são vedadas em recurso especial, por óbice das Súmulas n. 5 e 7 do STJ. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CHEQUE PRESCRITO. VIOLAÇÃO AO ART. 1.015, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL. SÚMULAS 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. A Corte local, com base nos elementos fático-probatórios dos autos e na interpretação do contrato social, concluiu pelo acolhimento da pretensão monitória ante a falta de comprovação de que o cheque que embasa a ação monitória tenha sido emitido em desacordo com o contrato social ou assinado por administrador desprovido de poderes ou para pagamento de dívida pessoal do sócio.
+Desse modo, para acolher a pretensão recursal, seria imprescindível o reexame de prova e a reinterpretação de cláusula contratual, sendo ambos inviáveis nesta instância especial (Súmulas 5 e 7/STJ).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 783.807/DF, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/11/2015, DJe 25/11/2015.)
+PROCESSUAL CIVIL E CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PARTICIPAÇÃO NOS LUCROS. 1. OFENSA AO ART. 333 DO CPC. ÔNUS DA PROVA. REVISÃO DAS CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. SÚMULAS N. 5 E 7/STJ. 2. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Tribunal de origem consignou que "as declarações de imposto de renda da pessoa jurídica juntadas pela própria recorrente possuem presunção juris tantum de veracidade, e demonstram, a princípio, o repasse dos lucros à apelante". Assim, caberia à agravante o ônus de provar o não recebimento dos lucros.
+2. Concluiu o Colegiado estadual, com base nas provas documentais, especialmente naquelas juntadas pela empresa (ora agravada), além do contrato social da firma, que as declarações de Imposto de Renda de Pessoa Física demonstram que a autora declarou à Receita Federal ter recebido os valores referentes aos lucros que alega não terem sido repassados pela Sociedade. A revisão do julgado a quo exigiria o revolvimento das cláusulas pactuadas entre as partes e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas 5 e 7 desta Corte.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 689.541/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/8/2015, DJe 21/8/2015.)
+AGRAVO REGIMENTAL. PAGAMENTO A TÍTULO DE PRO LABORE PLEITEADO POR SÓCIO QUE EXERCE A FUNÇÃO DE DIRETORA ADMINISTRATIVA. CABIMENTO RECONHECIDO PELO ACÓRDÃO A PARTIR DAS PROVAS DOS AUTOS E DE OBRIGAÇÃO PREVISTA NO CONTRATO SOCIAL. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO. APLICAÇÃO DE MULTA.
+1. Não há que se falar em aos artigos 128, 460 e 535 do CPC, pois o . Tribunal a quo dirimiu as questões pertinentes ao litígio, dentro dos seus limites, e declinou os fundamentos nos quais sustentou as conclusões assumidas, afigurando-se dispensável que venha examinar uma a uma as alegações expendidas pelas partes.
+2. O acórdão local reconheceu o direito da recorrida ao pagamento do pró labore com base nas provas coligidas aos autos e dos termos fixados pelo contrato social avençado entre as partes, assim, o exame da pretensão acerca da correta valoração da prova demandaria a incursão na seara fática dos autos e na reinterpretação das cláusulas do contrato social da empresa agravante, o que não é possível ao STJ em sede de recurso especial, nos termos das Súmulas 5 e 7.
+3. Agravo regimental não provido com aplicação de multa.
+(AgRg no AREsp n. 179.059/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/12/2012, DJe 4/2/2013.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+O art. 1.028, I, do CC/2002 - transcrito nas razões deste agravo -estabelece, ao enumerar as exceções à partilha dos haveres sociais, a prevalência de determinação contratual em sentido diverso. No caso dos autos, conforme se infere da decisão agravada, a partir da interpretação do contrato social da agravante, o Tribunal de origem reconheceu que os herdeiros teriam direito às quotas sociais.
+Nesse contexto, inafastável a incidência das Súmulas n. 5 e 7 do STJ, pois a modificação das conclusões do acórdão recorrido demandaria, necessariamente, nova interpretação contratual, além de revolvimento do conteúdo fático-probatório dos autos.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
