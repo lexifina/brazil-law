@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (eDOC 8, p. 654):
+    PENAL. APELAÇÃO CRIMINAL. LESAO CORPORAL GRAVE. PRELIMINARES DE CERCEAMENTO DE DEFESA. INDEFERIMENTO EXAME PERICIAL. UTILIZAÇÃO DE DEPOIMENTOS EXTRA JUDICIAIS. ABSOLVIÇÃO POR INEXISTÊNCIA DE PROVAS. IMPOSSIBILIDADE. ALEGAÇÃO DE LEGÍTIMA DEFESA NÃO COMPROVADA. DESCLASSIFICAÇÃO PARA LESÃO CORPORAL DO ART. 129, §1º, DO - CP. INADMISSIBILIDADE. COMPROVAÇÃO DEBILIDADE PERMANENTE. DOSIMETRIA DA PENA, CONSEQUÊNCIAS DO CRIME. PENA PECUNIÁRIA NÃO PREVISTA. CONDENAÇÃO EM DANOS MORAIS. AFASTAMENTO. GRATUIDADE DE JUSTIÇA. COMPETÊNCIA DO JUÍZO DAS EXECUÇÕES PENAIS.
+    1. O deferimento de diligências está condicionado a avaliação do julgador no caso concreto, dentro da esfera de discricionariedade, uma vez que destinatário da prova, e, portanto, sabedor da real necessidade de sua realização para a formação de sua convicção. Não se vislumbrando a necessidade da diligência, não há que se falar em cerceamento de defesa.
+    2. O art. 155 do Código de Processo Penal permite que elementos colhidos na fase inquisitorial possam servir de fundamento a condenação, desde que em harmonia com o conteúdo produzido em juízo, caso dos autos.
+    3. Se do acervo probatório formado especialmente pela prova oral e pericial emergem incontestes a materialidade e a autoria delitiva, denotando que o réu efetivamente agrediu a vitima, desferindo-lhe vários socos e chutes em sua cabeça, causando lesões corporais graves, e,resultando, ainda, em deformidade permanente da função mastigatória, não merece acolhimento a absolvição pretendida por inexistência de provas.
+    4. Comprovado pelo Laudo Medico a debilidade permanente da função mastigatória, escorreita a tipificação da lesão corporal como grave, nos termos do art. 129, § 2°, inciso IV, do CP.
+    5. Não ha como acolher a tese defensiva de que o apelante agiu acobertado pela legitima defesa, porquanto não sobressai dos autos que, usando moderadamente dos meios necessários, tenha ele repelido injusta agressão, atual ou iminente, a seu direito, mormente se a prova dos autos revela que agrediu o ofendido quando este já se encontrava caldo ao chão.
+    6. Exclui-se da condenação o pagamento de pena pecuniária, haja vista que o crime descrito no art. 129, §2°, do CP, não prevê pena de multa.
+    7. Sob pena de violação do princípio do ne bis in idem, não se pode ter como desfavoráveis as consequências do crime pela extensão das lesões produzidas, se a natureza grave da ofensa constitui, por si só, circunstância que qualifica o delito de lesão corporal, nos termos do inciso IV do § 2° do art. 129 do Código Penal. No entanto, ha que se considerar como desabonador o fato de ter tido a sua vida escolar prejudicada.
+    8. Incabível, na hipótese, a condenação em danos morais, pela impossibilidade de quantificação.
+    9. Compete ao Juiz da Execução apreciar o pedido de gratuidade de justiça, nos termos da alínea "f" do art. 66 da LEP.
+    Recurso conhecido e parcialmente provido.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos princípios constitucionais do contraditório e da ampla defesa, pelas seguintes razões: a) indeferimento de produção de provas; b) as decisões condenatórias utilizaram na fundamentação depoimento prestado apenas na fase inquisitorial.
+    A Presidência do TJDFT inadmitiu o recurso extraordinário com fundamento na inexistência de preparo e porque eventual ofensa à Constituição seria meramente reflexa.
+    Por fim, a decisão monocrática de eDOC 12, cujo agravo regimental (eDOC 14) encontra-se pendente de apreciação, foi reconsiderada no eDOC 23.
+    É o relatório. Decido.
+    1. Primeiramente, declaro prejudicado o agravo regimental de eDOC 14, considerando a perda superveniente de objeto, ante a reconsideração (eDOC 23) da decisão monocrática de eDOC 12.
+    Proceda-se à baixa do incidente.
+    2. Verifico que esta Corte, no julgamento do ARE 639.228 (Rel. Min. Cezar Peluso, Pleno, DJe 31.08.2011, Tema 424), assentou que não possui repercussão geral as alegações de ofensa aos princípios do contraditório e da ampla defesa por indeferimento de produção de provas no âmbito de processo judicial. Confira-se, a propósito, a ementa julgado:
+    RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional. (ARE 639.228-RG, Rel. Min. Ministro Presidente, DJe 31.08.2011)
+    Em relação à arguição de uso de depoimento prestado em fase inquisitorial na fundamentação da decisão recorrida, observo que o agravante pretende a desqualificação das provas produzidas em juízo e valoradas pelas instâncias ordinárias a fim de concluir pela negativa de autoria.
+    Assim, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e da legislação aplicada à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF.
+    3. No eDOC 26, há pedido de intervenção de Assistente de Acusação e a expedição de Carta de Ordem para fins de início de cumprimento da pena.
+    Quanto à intervenção, abra-se vista ao Ministério Público para manifestação na forma do art. 272 do CPP.
+    Sem prejuízo, concernente ao pedido de expedição de carta de ordem, observo a incidência do art. 637 do Código de Processo Penal à hipótese: O recurso extraordinário não tem efeito suspensivo, e uma vez arrazoados pelo recorrido os autos do traslado, os originais baixarão à primeira instância, para a execução da sentença.
+    Dessa forma, tal providência poderá ser requerida diretamente ao juízo de origem, a quem cabe examinar e, sendo o caso, determinar, a tempo e modo, o início da execução provisória da pena.
+    4. Ante o exposto, nego provimento ao agravo, nos termos do art. 21, § 1º, RISTF.
+    Publique-se.
+    Brasília, 16 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
