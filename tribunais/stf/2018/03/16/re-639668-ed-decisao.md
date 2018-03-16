@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de embargos de declaração opostos em 14.03.2018, cujo objeto é decisão que negou seguimento ao recurso, sob os seguintes fundamentos: (i) “o Plenário desta Corte, no julgamento do RE 579.431-RG, Rel. Min. Marco Aurélio, entendeu pela incidência de juros da mora no período compreendido entre a data da realização dos cálculos e da expedição da requisição ou do precatório (Tema 96)”; (ii) “o Supremo Tribunal Federal, ao apreciar o RE 599.903-RG, Relª. Minª. Cármen Lúcia, decidiu pela ausência de repercussão geral da questão relativa ao cabimento de honorários advocatícios nas execuções individuais de sentença proferida em ação coletiva não embargada pela Fazenda Pública (Tema 186)”.
+    A parte embargante sustenta que, “do acórdão proferido pelo STF no RE 579.431/RS, houve a interposição de Embargos de Declaração, com pedido de efeito suspensivo, requerendo a modulação dos efeitos da decisão final preferida pelo Pleno do STF, razão pela qual ainda não houve o seu trânsito em julgado. É notório que a modulação dos efeitos da alteração do entendimento sedimentado pelo STF, promoverá segurança jurídica e evitará diversos incidentes processuais, evitando muitas discussões e interposições de recursos, o que sem dúvida, resguarda o interesse social, a celeridade processual e promove a melhor qualidade da prestação jurisdicional. Assim, faz-se necessário, por medida de cautela, aguardar a futura decisão desta Corte Suprema que unificará e pacificará todo o procedimento a ser seguido a partir de então”.
+    Decido.
+    Conheço dos embargos, por tempestivos, porém, o recurso não merece provimento.
+    Verifica-se que a ausência de publicação ou do trânsito em julgado do paradigma não constitui obstáculo processual ao imediato julgamento monocrático da causa. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a existência de precedente firmado pelo Plenário do Supremo Tribunal Federal autoriza o julgamento imediato de causas que versem o mesmo tema. Nesse sentido, veja-se o RE 1.007.733-AgR-ED, Rel. Min. Ricardo Lewandowski:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. SISTEMÁTICA. APLICAÇÃO. PENDÊNCIA DE EMBARGOS DE DECLARAÇÃO NO PARADIGMA. IRRELEVÂNCIA. JULGAMENTO IMEDIATO DA CAUSA. PRECEDENTES. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    I - Ausência dos pressupostos do art. 1.022, I, II e III, do Código de Processo Civil.
+    II - A existência de decisão de mérito julgada sob a sistemática da repercussão geral autoriza o julgamento imediato de causas que versarem sobre o mesmo tema, independente do trânsito em julgado do paradigma. Precedentes.
+    III - Busca-se tão somente a rediscussão da matéria, porém os embargos de declaração não constituem meio processual adequado para a reforma do decisão, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão.
+    IV - Embargos de declaração rejeitados”.
+    Diante do exposto, com base no art. 1.024, § 2º, do CPC/2015, rejeito os embargos.
+    Publique-se.
+          Brasília, 16 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
