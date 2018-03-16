@@ -1,0 +1,18 @@
+Decisão:
+Ementa: Processo Penal. Habeas corpus. Prisão preventiva. Organização criminosa. Óbice da Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 437.697, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi denunciado, juntamente com 29 indivíduos, pelo crime previsto no art. 2º, caput, c/c o art. 1º, § 1º, da Lei 12.850/13. Em 31.05.2017, o Juízo de origem decretou a prisão preventiva do acusado.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC, Ministro Antonio Saldanha Palheiro, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante alega constrangimento ilegal “consubstanciado na decretação e manutenção da custódia cautelar do paciente sem que estejam presentes os requisitos legais exigidos, uma vez que as decisões proferidas são carentes de fundamentos concretos, bem como porque a prisão já ultrapassou tempo razoável, configurando evidente excesso de prazo na formação da culpa”. Com esses fundamentos requer “a liberdade provisória ou mesmo de fixação de medidas cautelares diversas”.
+    Decido.
+    5.  O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    6. A hipótese de que se trata não autoriza a superação da Súmula 691/STF. As peças que instruem a impetração não evidenciam ilegalidade flagrante ou abuso de poder capaz de justificar a concessão da ordem de ofício. Dou especial relevância ao fundamento adotado pelo juiz singular ao decretar a prisão preventiva:
+     “Restou apurado que os delitos que têm como alvo a empresa ALL América Latina Logística vêm sendo praticados, de forma reiterada e sistemática, ao menos desde o ano de 2014, (...) comercializam de forma escancarada e sem desfaçatez alguma as mercadorias furtadas, realizando encomendas e discutindo o preço do que é comprado e vendido de forma criminosa. Ademais, a cada furto praticado pela quadrilha, outros prejuízos são suportados pela vítima, decorrentes da necessidade de transporte das mercadorias restantes para avaliação, e interrupção do tráfego da malha ferroviária que corta a região. Muitas vezes os furtos são cometidos após o descarrilamento dos trens, o que provoca outros danos colaterais à empresa ALL, sem contar o perigo de dano à integridade física de seus funcionários, e dos moradores das localidades cortadas pelas linhas férreas”.
+    7. Quanto ao alegado excesso de prazo, a orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que a aferição de eventual demora injustificada na tramitação do procedimento penal depende das condições objetivas do feito (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    8. No caso, segundo informações fornecidas pelo juízo de origem, os “autos no momento aguardam o retorno de cartas precatórias expedidas para a oitiva de testemunhas arroladas pela acusação e defesa”
+    9. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 16 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
