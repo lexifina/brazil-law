@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 78, Vol. 6):
+    “PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. PLANOS ECONÔMICOS. IDEC. ILEGITIMIDADE ATIVA. PRESCRIÇÃO. JUROS DE MORA A PARTIR DA CITAÇÃO NA AÇÃO CIVIL PÚBLICA N° 1998.01.1.016798-9. POSSIBILIDADE DE INCLUSÃO DE EXPURGOS SUBSEQUENTES. OCORRÊNCIA PRECLUSÃO CONSUMATIVA.
+    1.A suspensão ordenada pelo Superior Tribunal de Justiça no Recurso Especial nº 1.438.263 - SP não pode ser aplicada aos casos em que a questão da legitimidade ativa já tenha sido analisada definitivamente.
+    2. Constatado que os argumentos apresentados já foram objeto de análise em sede de Agravo de Instrumento, não é possível no reexame da matéria, tendo em vista a ocorrência da preclusão consumativa.
+    3. Não demonstrado o desacerto da decisão agravada em relação ao mérito das questões analisadas, nem alegando fundamento de fato e de direito aptos a ensejar sua reforma, carece de regularidade formal o agravo de instrumento.
+    4. Agravo Interno conhecido, mas não provido. Unânime.”
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou dispositivos constitucionais.
+    É o relatório. Decido.
+    A jurisprudência desta CORTE é firme no sentido de que o recorrente quando condenado a pagar a multa a que se refere o art. 1.021, § 4º, do CPC/2015, somente poderá interpor qualquer outro recurso se efetuar o depósito prévio do valor correspondente à sanção pecuniária que lhe foi imposta.
+    No presente caso, como não houve a comprovação do recolhimento do valor da multa por ocasião da interposição do apelo extremo, inadmissível o seu conhecimento. Nesse sentido:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO SEGUNDO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA PREVISTA NO ART. 1.021, § 4°, DO CPC NÃO DEPOSITADA PREVIAMENTE. NÃO IMPUGNAÇÃO DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO. MULTA APLICADA. I – A ausência de comprovação do depósito prévio da multa prevista pelo art. 1.024, § 4°, do CPC, impõe o não conhecimento do agravo regimental, por não ter sido atendido o pressuposto objetivo de recorribilidade contido no art. 1.021, § 5°, do CPC. II – Nos termos do art. 1.021, § 1°, do CPC e do art. 317, § 1°, do RISTF, é requisito de admissibilidade do agravo regimental a impugnação específica de todos os fundamentos nos quais se baseou a decisão agravada, sob pena de incidência do óbice previsto nas Súmulas 284 e 287/STF. III – Agravo regimental não conhecido, com aplicação de multa (art. 1.021, § 4°, do CPC). (ARE 982755 AgR-segundo-EDv-AgR, Rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, DJe de 1º/2/2018)”
+    Mesmo que superado esse grave óbice, o Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada) e 356 (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), ambas desta CORTE SUPREMA.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 19 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
