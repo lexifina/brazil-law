@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “ANULATÓRIA DE ATO ADMINISTRATIVO Concurso público Candidato acima do peso (obesidade mórbida) Declaração de inabilitação no exame médico admissional Realização de exame pericial que comprovou a aptidão do Autor ao exercício do cargo Nomeação e posse Admissibilidade Indenização por danos materiais e morais Ausência de ato ilícito por parte da administração - R. sentença parcialmente reformada.
+    SUCUMBÊNCIA RECÍPROCA Ônus sucumbenciais que deverão ser proporcionalmente repartidos e compensados, nos termos do art. 86 do NCPC Verba honorária fixada nos termos do art. 85, par. 14, do CPC/2015.
+    Recurso do Autor improvido. Recursos oficial e da FESP parcialmente providos.” (eDOC 1 p. 208)
+    Os recursos extraordinários, interpostos com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se violação aos arts. 2°; 5°, I, LIV e LV; e 37, caput, I, do texto constitucional.
+    No recurso extraordinário interposto pela Fazenda Pública do Estado de São Paulo, alega-se que a obesidade mórbida é uma doença grave e não um mero distúrbio sócio-comportamental. A inaptidão neste caso, não está vinculada ao peso, aparência ou à capacidade intelectual, mas à ausência de higidez física.
+    No recurso extraordinário interposto por Marcelo Soares da Silva, alega-se que a declaração de que o autor estava inapto, baseou-se em grave preconceito por parte dos agentes do Estado pelo fato de ser muito obeso (gordofobia). Ademais, alega-se necessária a indenização por dano moral, uma vez que foi colocado em situação vexatória, pelo fato de terem-no considerado inapto para o exercício de uma profissão que já exerce há anos.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que não há que se falar em impossibilidade para exercer atividades do cargo de professor, por ser obeso mórbido, no entanto, não tem direito a indenização por danos morais, uma vez que não houve ilícito quando da declaração de inaptidão. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A par disso, não se mostra razoável concluir que o Autor não possa exercer as atividades laborativas do cargo de professor, pelo simples fato de se ter aferido a obesidade mórbida.
+    Entretanto, não tem o Autor direito à percepção de vencimentos de período não laborado ou indenização por danos morais, uma vez que inexiste comprovação que a outra parte tenha incorrido em ilícito quando da declaração de inaptidão.” (eDOC 1 p. 210 e 212)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. TESTE FÍSICO. REPROVAÇÃO. CONTROVÉRSIA QUANTO À RAZOABILIDADE. INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO. INTERPRETAÇÃO DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS Nº 279 E Nº 454 DO STF. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. (RE-AgR 897171, Rel. Min. LUIZ FUX, Primeira Turma, DJe 14.10.2015) .”
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. EXAME DE APTIDÃO FÍSICA. APRECIAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULAS 280, 279 E 636 DO STF. Nos termos da jurisprudência firmada neste Tribunal, a controvérsia relativa ao exame de aptidão física exige análise da legislação infraconstitucional pertinente, o que é inviável nesta sede. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem seria necessário o reexame de matéria fática. Incidência da Súmula 279 do STF. Agravo regimental a que se nega provimento. (AI-AgR 468239, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 18.12.2009).”
+    Ante o exposto, nego seguimento aos recursos (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 19 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
