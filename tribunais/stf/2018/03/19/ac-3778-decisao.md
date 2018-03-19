@@ -1,0 +1,15 @@
+Ementa: Direito Eleitoral. Ação Cautelar em Recurso Extraordinário. Inelegibilidade por abuso de poder. Aplicação retroativa do prazo ampliado. Tese firmada em Repercussão Geral.
+1. O STF, no RE 929.670, afirmou tese em Repercussão Geral no sentido de que “a condenação por abuso de poder econômico ou político em ação de investigação judicial eleitoral transitada em julgado, ex vi do art. 22, XIV, da Lei Complementar n. 64/90, em sua redação primitiva, é apta a atrair a incidência da inelegibilidade do art. 1º, inciso I, alínea d, na redação dada pela Lei Complementar n. 135/2010, aplicando-se a todos os processos de registro de candidatura em trâmite”.
+2. A edição da tese em conformidade ao acórdão recorrido esvazia a alegação de fumus boni juris deduzida em ação cautelar ajuizada para atribuição de efeito suspensivo a recurso extraordinário.
+3. Improcedência do pedido cautelar.
+    1. Trata-se de ação cautelar ajuizada pela Coligação Mais Minas e por Geraldo Hilário Torres, objetivando a atribuição de efeito suspensivo a recurso extraordinário interposto contra acórdão do Tribunal Superior Eleitoral, que considerou nulos os votos obtidos pelo recorrente, em razão de causa de inelegibilidade trazida pela Lei Complementar nº 135/2010.
+    2. Em 27.04.2015, deferi o pedido liminar, “para suspender os efeitos do acórdão proferido pelo Tribunal Superior Eleitoral e determinar que os votos obtidos pelo candidato Geraldo Hilário Torres sejam considerados válidos, ficando mantida a totalização que mantém o candidato da coligação recorrente no exercício do mandato, até ulterior deliberação”. Assinalei que, à época, existia um número expressivo de Ministros cuja posição conhecida é favorável à tese do recorrente.
+    3. O STF, no entanto, por ocasião do julgamento do RE 929.670, Red. p/ acórdão Min. Luiz Fux, afirmou tese em Repercussão Geral no seguinte sentido:
+    A condenação por abuso de poder econômico ou político em ação de investigação judicial eleitoral transitada em julgado, ex vi do art. 22, XIV, da Lei Complementar n. 64/90, em sua redação primitiva, é apta a atrair a incidência da inelegibilidade do art. 1º, inciso I, alínea d, na redação dada pela Lei Complementar n. 135/2010, aplicando-se a todos os processos de registro de candidatura em trâmite. (RE 929670, Red. p/ acórdão Min. Luiz Fux, j. em 01.03.2018)
+    4.  A tese fixada em repercussão geral está, portanto, em conformidade com o acórdão recorrido do TSE. Dessa forma, não há como identificar a probabilidade de provimento do recurso extraordinário, em razão da inexistência de fumus boni juris na pretensão cautelar.
+    5. Diante do exposto, com base no art. 21, IX, do RI/STF, revogo a decisão liminar que atribuiu efeito suspensivo ao RE 874.135 e julgo improcedente o pedido. Condeno os autores no pagamento das despesas processuais. Sem honorários, em razão da ausência de formalização da relação processual.
+    6. Comunique-se ao Tribunal Superior Eleitoral.
+          Publique-se. Intimem-se.
+Brasília, 19 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
