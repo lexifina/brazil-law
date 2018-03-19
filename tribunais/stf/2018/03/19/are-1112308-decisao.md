@@ -1,0 +1,14 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão das Turmas Recursais dos Juizados Especiais Federais de São Paulo, assim ementado:
+    “PREVIDENCIARIO. REAJUSTAMENTO DE BENEFÍCIO. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO. RECURSO DO AUTOR. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS – APLICAÇÃO DO ARTIGO 46 DA LEI 9.099/95 – NEGADO PROVIMENTO AO RECURSO.”
+    Sustenta-se violação do artigo 201, § 4º, da Constituição Federal.
+    Decido.
+    Não procede a irresignação, uma vez que o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do ARE nº 808.107/PE, relator o Ministro Teori Zavascki, reafirmou a jurisprudência acerca da constitucionalidade do reajustamento dos benefícios previdenciários relativos aos anos de 1997, 1999, 2000, 2001, 2002 e 2003 (Tema 728). Esse julgado recebeu a seguinte ementa:
+    “PREVIDENCIÁRIO. REAJUSTE DE BENEFÍCIOS. ÍNDICES DE CORREÇÃO MONETÁRIA RELATIVOS AOS ANOS DE 1997, 1999, 2000, 2001, 2002 E 2003. CONSTITUCIONALIDADE. PERCENTUAIS SUPERIORES AO ÍNDICE NACIONAL DE PREÇOS AO CONSUMIDOR (INPC). REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DA JURISPRUDÊNCIA. 1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 376.846, rel. Min. CARLOS VELLOSO, DJ de 02-04-2004, afastou a alegação de inconstitucionalidade das normas que fixaram os índices de correção monetária de benefícios previdenciários empregados nos reajustes relativos aos anos de 1997, 1999, 2000 e 2001, que foram de um modo geral superiores ao INPC e observaram os comandos normativos de regência. 2. Tratando-se de situações semelhantes, os mesmos fundamentos são inteiramente aplicáveis aos índices de reajuste relativos aos anos de 2002 e 2003. 3. Incabível, em recurso extraordinário, apreciar violação ao art. 5º, XXXV e XXXVI, da Constituição Federal, que pressupõe intermediário exame e aplicação das normas infraconstitucionais pertinentes (AI 796.905-AgR/PE, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21.5.2012; AI 622.814-AgR/PR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08.3.2012; ARE 642.062-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.8.2011). 4. Agravo a que se conhece para, desde logo, negar seguimento ao recurso extraordinário, com o reconhecimento da repercussão geral do tema e a reafirmação da jurisprudência sobre a matéria”. (DJe de 1º/8/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) de seu total, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão do benefício da gratuidade da justiça.
+    Publique-se.
+    Brasília, 19 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
