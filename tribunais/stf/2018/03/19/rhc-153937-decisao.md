@@ -1,0 +1,61 @@
+DECISÃO: Trata-se de recurso ordinário em “habeas corpus” interposto contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “PROCESSUAL PENAL. ‘HABEAS CORPUS’ ASSESTADO CONTRA ACÓRDÃO DE APELAÇÃO. NULIDADE. MATÉRIA NÃO DECIDIDA PELO JULGADO EM XEQUE. NÃO CONHECIMENTO DA IMPETRAÇÃO SOB PENA DE SUPRESSÃO DE INSTÂNCIA.
+    1 – O tema relativo à possível nulidade da prova que embasa o processo e que teria sido utilizada para a condenação não foi decidido pelo tribunal de origem, no acórdão tido por coator, motivo pelo qual não merece conhecimento, sob pena de supressão de instância, notadamente porque a presente impetração é, em realidade, sucedâneo recursal inominado.
+    Precedentes iterativos desta Corte.
+    2 – Agravo regimental não provido.”
+    (HC 401.028-AgRg/SC, Rel. Min. MARIA THEREZA DE ASSIS MOURA – grifei)
+    Busca-se, nesta sede recursal, “(...) seja reconhecida a ilicitude das provas aprendidas na incursão policial na casa do (...) recorrente, sem mandado judicial, da qual serviram como único fundamento para a consequente ação penal e posteriores condenações” (grifei).
+    O Ministério Público Federal, em manifestação da lavra do ilustre Subprocurador-Geral da República Dr. JULIANO BAIOCCHI VILLA- -VERDE DE CARVALHO, opinou pelo não conhecimento deste recurso ordinário em “habeas corpus” em parecer assim ementado:
+    “Processo penal. Recurso em ‘habeas corpus’. Decisão colegiada do STJ que não conheceu de ‘habeas corpus’. Pleito de nulidade da ação penal por ilicitude da prova policial decorrente de violação de domicílio sem justa causa. 1. Não houve o exame do mérito recursal por parte nem do Superior Tribunal de Justiça nem das instâncias ordinárias, razão pela qual eventual provimento jurisdicional em relação ao tema seria causa de indevida supressão de instância. 2. Ausência de flagrante ilegalidade. No caso, além da prática de crime permanente a demonstrar a situação de flagrância – pois encontrado em poder dos agentes 457,9g de maconha –, havia justa causa para a medida de invasão de domicílio. 3. Pelo não conhecimento do recurso e, se conhecido, pelo seu desprovimento.” (grifei)
+    Sendo esse o contexto, examino, preliminarmente, questão relativa  à admissibilidade deste recurso ordinário. E, ao fazê-lo, observo que a decisão ora questionada sequer examinou os fundamentos em que se apoia esta postulação recursal.
+    Inexiste, portanto, coincidência temática entre os fundamentos invocados no presente recurso ordinário em “habeas corpus” e aqueles que dão apoio à decisão objeto de impugnação nesta sede processual.
+    A circunstância que venho de mencionar (ocorrência de incoincidência temática) faz incidir, na espécie, em relação a este recurso constitucional, a jurisprudência desta Corte, que assim se tem pronunciado nos casos em que as razões invocadas pelo impetrante da ação de “habeas corpus” não guardam pertinência com aquelas que dão suporte à decisão impugnada (RTJ 182/243-244, Rel. Min. SEPÚLVEDA PERTENCE – HC 73.390/RS, Rel. Min. CARLOS VELLOSO – HC 81.115/SP, Rel. Min. ILMAR GALVÃO, v.g.):
+    “IMPETRAÇÃO DE ‘HABEAS CORPUS’ COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE DO ‘WRIT’ CONSTITUCIONAL.
+    – Revela-se insuscetível de conhecimento, pelo Supremo Tribunal Federal, o remédio constitucional do ‘habeas corpus’, quando impetrado com suporte em fundamento que não foi apreciado pelo Tribunal apontado como coator.
+    Se se revelasse lícito ao impetrante agir ‘per saltum’, registrar-se-ia indevida supressão de instância, com evidente subversão de princípios básicos de ordem processual. Precedentes.”
+    (RTJ 192/233-234, Rel. Min. CELSO DE MELLO)
+    “Em ‘habeas corpus’ substitutivo de recurso ordinário, a inconformidade deve ser com o acórdão proferido pelo STJ, e não contra o julgado do Tribunal de Justiça.
+    O STF só é competente para julgar ‘habeas corpus’ contra decisões provenientes de Tribunais Superiores.
+    Os temas objeto do ‘habeas corpus’ devem ter sido examinados pelo STJ.
+    .......................................................................................................
+    Caso contrário, caracterizaria supressão de instância.
+    ‘Habeas Corpus’ não conhecido.”
+    (HC 79.551/SP, Rel. Min. NELSON JOBIM – grifei)
+    Disso tudo resulta que os fundamentos que dão suporte ao presente recurso ordinário em “habeas corpus”, para serem conhecidos pelo Supremo Tribunal Federal, precisam constituir objeto de prévio exame por parte do E. Superior Tribunal de Justiça, sob pena de configurar-se, como precedentemente já acentuado, inadmissível supressão de instância, consoante tem advertido o magistério jurisprudencial desta Suprema Corte:
+    “EXECUÇÃO PENAL. ‘HABEAS CORPUS’. PROGRESSÃO DE REGIME. CUMPRIMENTO DE UM SEXTO DA PENA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL ‘A QUO’. SUPRESSÃO DE INSTÂNCIAS. PRECEDENTES. ‘WRIT’ NÃO CONHECIDO.
+    1. A presente impetração visa ao reconhecimento do direito do paciente em progredir de regime prisional em razão do cumprimento de um sexto da pena.
+    2. A questão suscitada pelo impetrante no presente ‘habeas corpus’ não foi sequer apreciada pelo Superior Tribunal de Justiça, já que não tinha sido submetida anteriormente ao crivo do Tribunal de Justiça do Rio de Janeiro.
+    3. Desse modo, o conhecimento da matéria, neste momento, pelo Supremo Tribunal Federal acarretaria inadmissível supressão de instâncias.
+    4. A jurisprudência dessa Suprema Corte é firme no sentido de que ‘não se conhece de ‘habeas corpus’ cujas questões não foram apreciadas pela decisão contra a qual é impetrado’ (HC 93.904/RS, Rel. Min. Cezar Peluso, DJe 094).
+    5. ‘Writ’ não conhecido.”
+    (HC 97.761/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    Mesmo se fosse possível superar tal óbice, melhor sorte não assistiria à parte recorrente.
+    É que o art. 33 da Lei de Drogas – um dos delitos a que também fora condenado o ora recorrente – encerra tipo penal de conteúdo variável ou de conduta múltipla, uma das quais consiste em manter em depósito substâncias entorpecentes, sem autorização ou em desacordo com determinação legal ou regulamentar.
+    Esse particular comportamento do agente traduz hipótese de crime permanente, como reconhece a doutrina e proclama a jurisprudência dos Tribunais.
+    Impende considerar, por isso mesmo, que, tratando-se de crimes permanentes, torna-se invocável, pelos agentes do Estado, a exceção constitucional que permite o ingresso legítimo de qualquer pessoa (inclusive da Polícia), a qualquer momento (do dia ou da noite), em espaços privados protegidos pela inviolabilidade domiciliar, pois – como todos sabemos – o momento consumativo do delito permanente protrai-se no tempo, expondo o seu autor à situação de flagrância “enquanto não cessar a permanência” (CPP, art. 303).
+    Cabe enfatizar, no ponto, que a situação de flagrância autoriza, mesmo “invito domino”, o ingresso legítimo de terceiros em casa alheia, na forma da regra inscrita no art. 5º, inciso XI, da Constituição, tal  como assinalado por esta Suprema Corte em diversos precedentes (RE 603.616/RO, Rel. Min. GILMAR MENDES – RHC 117.159/RJ, Rel. Min. LUIZ FUX, v.g.):
+    “TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE. PROVA ILÍCITA.
+    1. Cuidando-se de crime de natureza permanente, a prisão do traficante, em sua residência, durante o período noturno, não constitui prova ilícita. Desnecessidade de prévio mandado de busca e apreensão.
+    2. ‘HC’ indeferido.”
+    (HC 84.772/MG, Rel. Min. ELLEN GRACIE – grifei)
+    “RECURSO ORDINÁRIO EM ‘HABEAS CORPUS’. PROCESSUAL PENAL. CRIME DE POSSE DE ARMA DE USO RESTRITO. RECURSO UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. INCOMPETÊNCIA DO JUÍZO. NULIDADE. INOCORRÊNCIA. FLAGRANTE DE CRIME PERMANENTE. DISPENSABILIDADE DO MANDADO DE BUSCA E APREENSÃO. PRECEDENTE. RECURSO A QUE SE NEGA PROVIMENTO.
+    …...................................................................................................
+    III – É orientação desta Corte ser dispensável o mandado de busca e apreensão quando se trata de flagrante de crime permanente, podendo-se realizar as medidas sem que se fale em ilicitude das provas obtidas. Precedente.
+    IV – Recurso ordinário a que se nega provimento.”
+    (RHC 121.419/SP, Rel. Min. RICARDO LEWANDOWSKI – grifei)”
+    Como se vê, a Constituição da República protege a inviolabilidade domiciliar e abre, ela própria, exceções à cláusula da indevassabilidade desse espaço reservado às pessoas, o espaço domiciliar. Entre essas situações excepcionais que autorizam o ingresso em qualquer momento, independentemente de prévia ordem judicial, durante o dia ou durante a noite, está a situação de flagrância, juntamente com a ocorrência de uma hipótese de calamidade pública ou para evitar a consumação de um delito que ali esteja, naquele momento, sendo praticado.
+    Cumpre ter presente, finalmente, no sentido que se vem de expor, o parecer da douta Procuradoria-Geral da República, que bem esclarece esse específico aspecto da controvérsia:
+    “(...) não se verifica a existência de flagrante ilegalidade a justificar eventual concessão de ‘habeas corpus’ de ofício.
+    Por certo, ‘a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial’ (art. 5º, XI, da CF). Há, portanto, exceções previstas no próprio texto constitucional para a garantia da inviolabilidade de domicílio: flagrante delito, desastre, para prestar socorro ou, durante o dia, por determinação judicial.
+    No caso em questão a situação de flagrância justificava a invasão de domicílio por parte dos agentes policiais, sobretudo se tratando da prática do crime de tráfico. De fato, tratando-se da prática de crime permanente, cuja consumação se prolonga no tempo, caracterizado está o estado de flagrância exigido pelo art. 5º, XI, da Constituição Federal. Tal questão inclusive foi objeto de amplo debate por esta Suprema Corte no julgamento do RE 603616, cuja ementa ora se transcreve:
+    …..................................................................................................
+    Na hipótese dos autos, além da prática de crime permanente a demonstrar a situação de flagrância – pois encontrado em poder dos agentes 457,9g de maconha –, havia justa causa para a medida de invasão de domicílio. Conforme extrai-se do acórdão proferido pelo TJSP (f. 569-587), policiais militares realizaram campana com o fim de apurar denúncias de tráfico de drogas por parte do ora recorrente. No local, em razão da conduta suspeita apresentada pelo recorrente, que foi abordado pelos policiais quando chegava ao local em seu veículo, os agentes policiais decidiram entrar na residência para a qual o réu se dirigia. Conforme informaram os policiais militares, ‘Thiago apresentou comportamento atípico, alegando que teria ido ao encontro de um amigo que não se encontrava em casa. Os policiais, contudo, sabiam que ele sequer havia saído do carro’. Diante da mentira contada e do estado de nervosismo em que se encontrava, os policiais se dirigiram até a residência do corréu Felipe Alexandre, onde lograram apreender significativa quantidade de substância entorpecente, além de arma de fogo e munição.
+    Não ostante os policiais não tenham encontrado nenhuma substância entorpecente no carro dirigido pelo réu, tal fato, por si só, não torna ilícita a diligência policial que se seguiu e cujo resultado foi a efetiva apreensão de substâncias entorpecentes, arma de fogo e munição.
+    Ausente, portanto, qualquer ilegalidade na diligência policial a justificar o pedido de nulidade formulado pela defesa em seu recurso.” (grifei)
+    Em suma: tenho para mim que os fundamentos subjacentes à decisão  ora impugnada ajustam-se aos estritos critérios que a jurisprudência do Supremo Tribunal Federal consagrou nas matérias ora em exame.
+    Sendo assim, e em face das razões expostas, não conheço do presente recurso ordinário em “habeas corpus”.
+    2. Devolvam-se estes autos ao E. Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 19 de março de 2018.
+Ministro CELSO DE MELLO
+Relator
