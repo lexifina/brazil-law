@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 195, § 12, da Constituição Federal.
+    Colhe-se a ementa da decisão proferida pelo Tribunal de origem:
+    “TRIBUTÁRIO. INCIDÊNCIA MONOFÁSICA DE PIS/COFINS. IMPOSSIBILIDADE DE CREDITAMENTO REVENDA. AGRAVO LEGAL IMPROVIDO.
+    - A questão ora discutida foi objeto de análise dos presentes autos, pela r. decisão recorrida.
+    - O creditamento nos casos em que a saída é tributada à alíquota zero implica verdadeira isenção, sendo ilógico assegurar-lhe crédito, quando não há disposição expressa e específica nesse sentido.
+    - Deveras, as razões recursais não contrapõem os fundamentos do r. decisum a ponto de demonstrar qualquer desacerto, limitando-se a reproduzir argumentos os quais visam à rediscussão da matéria nele contida.
+    - Agravo legal improvido”.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem, seria necessária a análise da causa à luz da legislação infraconstitucional pertinente. Desse modo, a alegada violação do dispositivo constitucional invocado seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “Agravo regimental no recurso extraordinário. Tributário. Contribuição ao PIS e COFINS. Tributação monofásica. Creditamento. Necessidade de reexame da contenda à luz da legislação infraconstitucional. Ofensa constitucional indireta ou reflexa.
+    1.Para ultrapassar o entendimento do acórdão recorrido, especialmente acerca da existência de tributação monofásica e da impossibilidade de aplicação do art. 17 da Lei nº 11.033/2004 à espécie, e acolher a pretensão recursal, seria necessário o reexame da causa à luz da legislação infraconstitucional (Leis nºs 10.485/2002, 10.637/2002, 10.833/2003, 10.865/2004 e 11.033/2004), o que não é admissível em sede de recurso extraordinário. Eventual ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa. 2.Agravo regimental não provido” (RE n° 881.883/RS-AgR, Segunda Turma, de minha relatoria, DJe 11/11/15).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS E COFINS. REGIME NÃO CUMULATIVO. TRIBUTAÇÃO MONOFÁSICA. REVENDA COM ALÍQUOTA ZERO. CREDITAMENTO. A CUMULATIVIDADE PRESSUPÕE A SOBREPOSIÇÃO DE INCIDÊNCIAS TRIBUTÁRIAS. LEIS Nº 10.637/2002, 10.833/2003 E 11.033/2004. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. 1. Não há que se falar em ofensa ao princípio da não-cumulatividade quando a tributação se dá de forma monofásica, pois a existência do fenômeno cumulativo pressupõe a sobreposição de incidências tributárias. Precedente: RE 258.470, Rel. Min. Moreira Alves, Primeira Turma, DJ de 12/5/2000. 2. O aproveitamento de créditos relativos à revenda de veículos e autopeças adquiridos com a incidência da Contribuição ao PIS e da COFINS sob o regime monofásico encerra discussão de índole infraconstitucional, de forma que eventual ofensa à Constituição seria meramente reflexa. Precedentes: RE 709.352-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 11/6/2014; e RE 738.521-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 4/12/2013. 3. In casu, o acórdão recorrido extraordinariamente assentou: “TRIBUTÁRIO - PIS E COFINS - NÃO-CUMULATIVIDADE - COMERCIALIZAÇÃO DE VEÍCULOS NOVOS - SISTEMA MONOFÁSICO - PRINCÍPIO DA LEGALIDADE - LEIS 10.637/02, 10.833/03 E 11.033/04 - APELAÇÃO IMPROVIDA.” 4. Agravo regimental DESPROVIDO” (RE n° 762.892/PE-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 15/4/15).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÕES PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL COFINS E PARA O PROGRAMA DE INTEGRAÇÃO SOCIAL PIS. DIREITO AO CRÉDITO. TRIBUTAÇÃO MONOFÁSICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 648.586/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 10/10/11).
+    No mesmo sentido as seguintes decisões: RE nº 707.131/RS, Relatora a Ministra Cármen Lúcia, DJe de 21/9/12; RE nº 660.169/RS, Relatora a Ministra Cármen Lúcia, DJe de 10/11/11 e RE nº 634.496/DF, Relator o Ministro Marco Aurélio, DJe de 8/9/11.
+    Ressalte-se, por fim, que não se aplica ao caso dos autos a majoração dos honorários prevista no artigo 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 19 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
