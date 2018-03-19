@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF10 nº 10001, de 28 de fevereiro de 2018
+ASSUNTO: Imposto sobre a Renda Retido na Fonte
+EMENTA: REMESSA DESTINADA AO EXTERIOR. RETENÇÃO. GASTOS PESSOAIS. TREINAMENTO.
+Estão sujeitos à retenção do Imposto sobre a Renda na fonte os valores pagos, creditados, entregues, empregados ou remetidos para pessoa física ou jurídica residente ou domiciliada no exterior, destinados à contraprestação por serviços de treinamento de profissionais residentes no Brasil, estando submetidos à alíquota aplicável a serviços técnicos, por dependerem de conhecimentos técnicos especializados, de 15% (quinze por cento), desde que o beneficiário não seja pessoa jurídica domiciliada em país ou dependência com tributação favorecida a que se refere o art. 24 da Lei nº 9.430, de 1996, situação em que se sujeitam à alíquota de 25% (vinte e cinco por cento).
+Portanto, o valor do custeio de treinamento de profissionais no exterior não é considerado como despesa educacional ou científica, para fins do disposto no art. 2º da Lei nº 13.315, de 2016, e no art. 4º da Instrução Normativa RFB nº 1.645, de 2016, estando assim sujeitos à retenção do Imposto sobre a Renda na fonte.
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 661, DE 27 DE DEZEMBRO DE 2017.
+DISPOSITIVOS LEGAIS: Lei nº 13.315, de 2016, arts. 1º e 2º; Lei nº 12.249, de 2010, art. 60; Lei nº 9.779, de 1999, art. 7º; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda - RIR/1999), arts. 682 e 685; Instrução Normativa RFB nº 1.645, de 2016, arts. 2º, § 2º, e 4º; Instrução Normativa RFB nº 1.455, de 2014, art.17; Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+[arquivo anexo: SC SRRF10-Disit nº 10001-2018.pdf]
