@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, XVI, “b”, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Verifico que, para aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo, seria necessário o revolvimento do quadro fático delineado na instância ordinária, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. ACUMULAÇÃO DE CARGOS PÚBLICOS. NATUREZA TÉCNICA. SÚMULA 279/STF. RECURSO MANIFESTAMENTE INADMISSÍVEL. IMPOSIÇÃO DE MULTA. 1. Hipótese em que dissentir da conclusão adotada pelo Tribunal de origem quanto à natureza do cargo público questionado, se técnica ou não, exigiria uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF). 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível condenação em honorários advocatícios (art. 25 da Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 1081292 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 20/02/2018, PROCESSO ELETRÔNICO DJe-039 DIVULG 28-02-2018 PUBLIC 01-03-2018)
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 13.09.2016. ACUMULAÇÃO DE CARGOS. NATUREZA DO CARGO. INCOMPATIBILIDADE. LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279. 1. É inadmissível o extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, exija-se o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (RE 988779 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 07/03/2017, PROCESSO ELETRÔNICO DJe-054 DIVULG 20-03-2017 PUBLIC 21-03-2017)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 19 de março de 2018.
+Ministra Rosa Weber
+Relatora
