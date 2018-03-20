@@ -1,0 +1,25 @@
+Trata-se de habeas corpus com pedido liminar impetrado em favor de Rodolfo Onofre Mattos contra decisão do Ministro Ribeiro Dantas do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 430.448/MT.
+    Na denúncia é narrado, em síntese, que o paciente, desde 2010, “estaria associado a outras pessoas com a finalidade de comercializar ‘pasta-base de cocaína’ e ‘cloridrato de cocaína’ provenientes da Bolívia” (pág. 6 do documento eletrônico 2).
+    Ainda é possível extrair da exordial que as investigações no âmbito da denominada Operação Hybris “propiciaram a apreensão de mais de 2 toneladas de ‘pasta-base’ e ‘cloridrato de cocaína’, além da identificação do modo de atuação de complexa organização criminosa, com ação em diversas regiões do país, enorme poder econômico e conduta violenta” (pág. 7 do documento eletrônico 2).
+    Diante das condutas apuradas, o paciente foi condenado à pena de 22 anos e 2 meses de reclusão, em regime fechado, pela prática dos crimes de tráfico e associação para o tráfico internacional e interestadual de drogas, previstos no art. 33, combinado com o art. 40, I e V; e art. 35, combinado com o art. 40, I e V, todos da Lei 11.343/2006, na forma dos arts. 29 e 69, do Código Penal (pág. 9 do documento eletrônico 64).
+    No mais, o magistrado de primeiro grau negou o direito de recorrer em liberdade e manteve a prisão cautelar, com fundamento na necessidade de resguardar a ordem pública, haja vista a possibilidade de reiteração criminosa, além da gravidade concreta dos delitos e do modus operandi do grupo, bem como respaldada na aplicação da lei penal, pela concreta possibilidade de fuga.
+    Inconformada, a defesa impetrou habeas corpus no Tribunal Regional Federal da 1ª Região – TRF1. No entanto, a liminar foi indeferida pelo Magistrado Relator, ao entender que se encontra “justificada a necessidade da manutenção da prisão preventiva, não restou configurado constrangimento ilegal a ser sanado” (pág. 9 do documento eletrônico 61).
+    A defesa impetrou habeas corpus no Superior Tribunal de Justiça – STJ contra a decisão que denegou a cautelar. Ao analisar o writ, o Ministro Ribeiro Dantas negou seguimento ao pedido, aplicando a Súmula 691/STF.
+    Na presente ação mandamental, a defesa alega que o paciente teria o direito de recorrer da sentença condenatória em liberdade, ao sustentar que os fundamentos utilizados para decretação da prisão preventiva não subsistem, uma vez que não teria cometido crimes durante o trâmite da ação penal.
+    Aduz, ainda, que
+    “[é] pai da menor Julia Gabrielly Alves Mattos, hoje com 08 (oito) anos de idade, cujos cuidados competem a sua companheira, a Sra. Samantha Borges Araujo Alves Mattos que, com a prisão do paciente, ficou responsável integralmente pelo sustento do lar.
+    Nesse contexto, desde a prisão do paciente, a companheira do paciente, Sra. Samantha Borges Araujo Alves Mattos, passou a ter que trabalhar para manter o sustento do lar e, tal condição, impossibilita os devidos cuidados da filha menor” (pág.48 do documento eletrônico 1).
+    Requer, por fim,
+    “a) Seja recebido e processado o presente writ e, mediante a superação da Súmula 691/STF, seja deferida medida liminar, para suspender os efeitos da decisão que decretou a prisão do paciente, expedindo-se o competente alvará de soltura.
+    b) No mérito, requer-se a CONCESSÃO DA ORDEM, para o fim de revogar a prisão do paciente RODOLFO ONOFRE MATTOS, autorizando-o a recorrer da sentença penal condenatória em liberdade.
+    c) Alternativamente, não sendo concedida a ordem de soltura, requer-se a substituição da prisão preventiva pelas medidas cautelares diversas da prisão; [...]”
+    É o relatório. Decido.
+    Como se vê, a presente impetração volta-se contra decisão monocrática do Ministro Ribeiro Dantas, que indeferiu liminarmente o habeas corpus.
+    Ocorre que a Constituição Federal atribui a este Supremo Tribunal Federal a competência para processar e julgar, originariamente, o habeas corpus, quando o coator for Tribunal Superior (art. 102, I, i, da CF/1988).
+    Desse modo, este pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do Supremo Tribunal Federal, descritos no art. 102 da Constituição Federal, que pressupõem seja a coação praticada por Tribunal Superior.
+    Essa foi a orientação firmada pela Segunda Turma, quando do julgamento do HC 119.115/MG, de minha relatoria, ocasião na qual se decidiu que a não interposição de agravo regimental no Superior Tribunal de Justiça e, portanto, a ausência da análise da decisão monocrática pelo seu colegiado, impede o conhecimento do habeas corpus por esta Suprema Corte. Do contrário, permitiria ao jurisdicionado a escolha do Tribunal para conhecer e julgar a sua causa, o que configuraria evidente abuso do direito de recorrer.
+    Isso posto, com base no art. 21, § 1°, do RISTF, nego seguimento a este writ. Prejudicado o exame da liminar.
+    Publique-se.
+    Brasília, 20 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
