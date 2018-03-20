@@ -1,0 +1,16 @@
+DECISÃO:
+Ementa: Direito constitucional. Mandado de injunção coletivo. Alegada omissão quanto ao decreto de criação da OAB.
+1. O cabimento do mandado de injunção pressupõe a existência de um direito garantido na Constituição cujo exercício é inviabilizado por omissão em sua regulamentação.
+2. A impetrante, no entanto, limita-se a apresentar tese relacionada à irregularidade de criação da OAB. Não há indicação de preceito constitucional que estaria pendente de regulamentação, nem o direito cujo exercício está inviabilizado por mora na edição da norma regulamentadora.
+3. Writ não conhecido.
+    1. Trata-se de mandado de injunção coletivo, com pedido liminar, impetrado pela Comissão Nacional de Combate à Corrupção – CNCC, no qual se aponta omissão da União, “em razão de ausência do órgão autárquico OAB – Ordem dos Advogados do Brasil que deixou de existir legalmente por força jurídica do Decreto nº 11 de 18 de janeiro de 1991” (doc. 1, p. 2). Em síntese, a associação impetrante alega que o referido decreto revogou o decreto de criação da OAB, sem a subsequente edição de novo ato presidencial de criação, recriação ou adequação da entidade.
+    2. É o relatório. Decido.
+    3. Dispenso as informações, por considerar o feito suficientemente instruído, bem como o parecer ministerial, por se tratar de matéria conhecida do Plenário desta Corte (RI/STF, art. 52, p. único).
+    4. Segundo a jurisprudência do Supremo Tribunal Federal, o mandado de injunção destina-se a viabilizar o exercício de direitos que se encontrem pendentes de regulação normativa, por omissão do Poder Público no atendimento a um dever de legislar imposto pela Constituição.
+    5. No caso, a associação impetrante não aponta o preceito constitucional que estaria pendente de regulamentação. Também não demonstra a inviabilização do exercício de qualquer direito. Limita-se a discorrer sobre a ilegitimidade da atual Ordem dos Advogados do Brasil, apontando omissão quanto ao seu ato normativo de criação. Assim, não há exercício de direito constitucional obstado por mora na edição da norma regulamentadora, o que impossibilita o conhecimento do writ, conforme entendimento do Plenário desta Corte:
+    “AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. DIREITOS DO NASCITURO. AUSÊNCIA DE IMPOSIÇÃO CONSTITUCIONAL DO DEVER DE LEGISLAR. AGRAVO REGIMENTAL DESPROVIDO. 1. O mandado de injunção, nos termos do art. 5º, LXXI, da Constituição Federal, reclama a demonstração de que a falta de norma regulamentadora torna inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. 2. A jurisprudência desta Corte é remansosa no sentido do descabimento do mandado de injunção quando inexistir um direito constitucional que não possa ser exercido por ausência de norma regulamentadora (Precedente: MI 5.470 AgR, Rel. Min. Celso de Mello, Plenário, DJe 20/11/2014). 3. Agravo Regimental DESPROVIDO. (MI 6591 AgR, Rel. Min. Luiz Fux).
+    6. Diante do exposto, com base no art. 21, § 1º, do RI/STF, não conheço do presente mandado de injunção. Prejudicado o pedido liminar.
+          Publique-se.
+Brasília, 20 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
