@@ -1,0 +1,43 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 89 DA LEI N. 8.666/1993. PLEITO DE ABSOLVIÇÃO. RECURSO INTERPOSTO COM FULCRO NO ART. 105, III, ALÍNEA C, DA CONSTITUIÇÃO FEDERAL. NÃO COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. PARADIGMA ORIUNDO DE JULGAMENTO EM HABEAS CORPUS. IMPRESTABILIDADE À COMPROVAÇÃO DO DISSÍDIO. INVIABILIDADE DO APELO RARO.
+1. Na espécie, o recorrente não realizou o devido cotejo analítico entre os acórdãos paradigmas e o aresto impugnado, além de colacionar como paradigmas julgados tidos em habeas corpus, o que representa desatenção ao disposto no art. 255, § 1º, do Regimento Interno desta Corte.
+2. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ADÃO NASCIMENTO CARVALHO contra decisão que não conheceu do recurso especial fulcrado na alínea "c", pela não comprovação do dissídio jurisprudencial, porquanto não realizado o devido cotejo analítico entre os arestos confrontados, e pela utilização de paradigmas oriundos de habeas corpus (e-STJ fls. 527/531).
+Nas razões do presente agravo regimental, a defesa se insurge, inicialmente, contra a determinação contida na decisão agravada de expedição de ofício à origem para a viabilização da execução provisória da pena. Ademais, afirma que "o Agravante, quando da interposição do recurso especial, apresentou a análise necessária entre o acórdão recorrido e os acórdãos paradigmas, a qual é suficiente para demonstrar a divergência jurisprudencial acerca da não comprovação no caso do dolo específico e do prejuízo ao erário público" (e-STJ fl. 546) e que a utilização de paradigmas provenientes de julgamento em habeas corpus "não é motivo jurídico para o não conhecimento do recurso especial" (e-STJ fl. 555).
+Pleiteia, ao final, a reconsideração da decisão agravada ou o provimento do agravo regimental.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que merece ser integralmente mantida.
+Com efeito, conforme consignado na decisão agravada, no caso, não foi realizado o cotejo analítico entre os acórdãos paradigmas e o aresto impugnado, o que representa desatenção ao disposto no art. 255, § 1º, do Regimento Interno desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. JULGADO PROFERIDO EM HABEAS CORPUS. PARADIGMA. IMPOSSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. PENA-BASE. MAUS ANTECEDENTES. PERÍODO DEPURADOR. AGRAVO NÃO PROVIDO.
+1. O recurso especial não pode ser conhecido sob a alínea "c" do permissivo constitucional, pois o aresto colacionado como paradigma foi proferido em habeas corpus, além de não ter sido realizado o imprescindível cotejo analítico.
+2. Consoante entendimento deste Superior Tribunal, decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não possa prevalecer para fins de reincidência, pode ser, em princípio, sopesada a título de maus antecedentes. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp 924.453/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/09/2016, DJe 15/09/2016, grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 214, C/C O ART. 224, ALÍNEA A, DO CÓDIGO PENAL. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. HABEAS CORPUS COMO PARADIGMA. INADEQUAÇÃO. INÉPCIA DA DENÚNCIA. NÃO INDICAÇÃO DA DATA PRECISA DO FATO DELITUOSO. ALEGADA NULIDADE PELO NÃO RECOLHIMENTO DE CUSTAS, PELA DEFESA, PARA REALIZAÇÃO DE DILIGÊNCIA. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. INVIABILIDADE.
+I - O recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ).
+II - Ademais, a jurisprudência deste eg. Superior Tribunal de Justiça é pacífica no sentido de que acórdãos proferidos em julgamento de habeas corpus não servem como paradigma para demonstração do dissídio jurisprudencial.
+III - Esta Corte firmou orientação no sentido de que a não indicação precisa da data em que ocorreram os fatos criminosos não gera, por si só, a inépcia da exordial acusatória, mormente in casu, quando a denúncia aponta o período em que os delitos teriam sido praticados - entre 1995 e 1999. (Precedentes).
+IV - Aplica-se o óbice previsto no Enunciado n. 283 da Súmula do col. Supremo Tribunal Federal na hipótese em que o recorrente deixa de impugnar especificamente fundamento que, por si só, é suficiente para manter a decisão recorrida.
+Agravo regimental desprovido. (AgRg no REsp 1.390.846/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/08/2016, DJe 26/08/2016, grifei.)
+Correta, ainda, a decisão agravada ao afirmar que julgados tidos em habeas corpus não se prestam à comprovação de divergência jurisprudencial, já que tais ações mandamentais têm um espectro cognitivo maior que o recurso especial, cujo objetivo é a uniformização da interpretação da legislação federal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. JULGADO PROFERIDO EM HABEAS CORPUS. PARADIGMA. IMPOSSIBILIDADE. AUSÊNCIA DE COTEJO ANALÍTICO. PENA-BASE. MAUS ANTECEDENTES. PERÍODO DEPURADOR. AGRAVO NÃO PROVIDO.
+1. O recurso especial não pode ser conhecido sob a alínea "c" do permissivo constitucional, pois o aresto colacionado como paradigma foi proferido em habeas corpus, além de não ter sido realizado o imprescindível cotejo analítico.
+2. Consoante entendimento deste Superior Tribunal, decorrido o prazo de cinco anos entre a data do cumprimento ou a extinção da pena e a infração posterior, a condenação anterior, embora não possa prevalecer para fins de reincidência, pode ser, em princípio, sopesada a título de maus antecedentes. Precedentes.
+3. Agravo regimental não provido. (AgRg no AREsp 924.453/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/09/2016, DJe 15/09/2016, grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 214, C/C O ART. 224, ALÍNEA A, DO CÓDIGO PENAL. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. HABEAS CORPUS COMO PARADIGMA. INADEQUAÇÃO. INÉPCIA DA DENÚNCIA. NÃO INDICAÇÃO DA DATA PRECISA DO FATO DELITUOSO. ALEGADA NULIDADE PELO NÃO RECOLHIMENTO DE CUSTAS, PELA DEFESA, PARA REALIZAÇÃO DE DILIGÊNCIA. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. INVIABILIDADE.
+I - O recurso especial interposto com fulcro no art. 105, inciso III, alínea c, da Constituição Federal exige a demonstração do dissídio jurisprudencial, através da realização do indispensável cotejo analítico, para demonstrar a similitude fática entre o v. acórdão recorrido e o eventual paradigma (arts. 1.029, §1º, do CPC e 255, § 1º, do RISTJ).
+II - Ademais, a jurisprudência deste eg. Superior Tribunal de Justiça é pacífica no sentido de que acórdãos proferidos em julgamento de habeas corpus não servem como paradigma para demonstração do dissídio jurisprudencial.
+III - Esta Corte firmou orientação no sentido de que a não indicação precisa da data em que ocorreram os fatos criminosos não gera, por si só, a inépcia da exordial acusatória, mormente in casu, quando a denúncia aponta o período em que os delitos teriam sido praticados - entre 1995 e 1999. (Precedentes).
+IV - Aplica-se o óbice previsto no Enunciado n. 283 da Súmula do col. Supremo Tribunal Federal na hipótese em que o recorrente deixa de impugnar especificamente fundamento que, por si só, é suficiente para manter a decisão recorrida.
+Agravo regimental desprovido. (AgRg no REsp 1.390.846/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/08/2016, DJe 26/08/2016)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
