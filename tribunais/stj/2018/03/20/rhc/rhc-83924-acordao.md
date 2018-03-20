@@ -1,0 +1,31 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. REQUISITOS DA PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. NÃO CONHECIMENTO. EXCESSO DE PRAZO. INOCORRÊNCIA. RECURSO EM HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Ausente cópia da sentença de pronúncia, não se conhece do alegado constrangimento ilegal por ausência dos requisitos da prisão cautelar, pois documento indispensável para o deslinde da controvérsia, não se prestando o habeas corpus à dilação probatória, sendo ônus do impetrante a devida instrução do feito.
+2. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. Nesta perspectiva, não se verifica ilegalidade quando a movimentação processual encontra-se compatível com as particularidades da causa, não se atribuindo ao Estado persecutor indevida mora, no qual já proferida sentença de pronúncia, sendo que a sessão plenária ainda não foi determinada, em razão da interposição de recurso em sentido estrito pela defesa, devidamente julgado em prazo razoável.
+3. Recurso em habeas corpus parcialmente conhecido e, nessa extensão, improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, conhecer parcialmente do recurso e, nesta parte, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de recurso em habeas corpus no qual busca-se a revogação da prisão preventiva sob a alegativa de não estarem presentes os requisitos autorizadores da segregação cautelar, bem como de excesso de prazo para a formação da culpa penal.
+O acórdão combatido foi assim ementado (fls. 32/33):
+"HABEAS CORPUS.
+PACIENTE DENUNCIADO POR CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO (ART. 121, §2º, I E IV, DO CÓDIGO PENAL. ALEGADO CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA, POR INADEQUAÇÃO DOS FUNDAMENTOS PARA MANUTENÇÃO DA PRISÃO E AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. PRETENSÃO AO RELAXAMENTO DA PRISÃO QUE SE NEGA. SENTENÇA DE PRONÚNCIA PROLATADA EM 29/07/2016. PROCESSO QUE TRAMITA EM PRAZO RAZOÁVEL. MAIOR LONGA MOTIVADA PELO RECURSO EM SENTIDO ESTRITO INTERPOSTO PELA DEFESA.DECRETAÇÃO DE NULIDADE DA DECISÃO QUE MANTEVE A CUSTÓDIA, POR FALTA DE MOTIVAÇÃO, OU À CONCESSÃO DO DIREITO DE AGUARDAR EM LIBERDADE O JULGAMENTO DO PROCESSO, IMPOSSÍVEL. MANUTENÇÃO DA PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE SE ACAUTELAR O MEIO SOCIAL, A FIM DE EVITAR A REITERAÇÃO CRIMINOSA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+DENEGAÇÃO DA ORDEM."
+O recorrente, MÁRCIO CAMARA GUIMARÃES, foi pronunciado pela prática do delito tipificado no artigo 121, §2º, I e IV, do Código Penal.
+A liminar foi indeferida. (fls. 113/114)
+As informações foram prestadas. (fls. 119/121)
+O parecer do Ministério Público Federal, à fls. 142/146, foi pelo desprovimento do recurso.
+Na origem, o Recurso em Sentido Estrito n. 0061051-56.2015.8.19.0042 foi julgado em 10/10/2017, restando improvido e, após ciência das partes, foi baixado para a origem em 27/12/2017, não havendo movimentação processual após esta data, conforme consulta ao site do Tribunal de origem, realizada em 23/1/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+De início, compulsando o presente feito, constato que a peça inicial veio desacompanhada de cópia da sentença de pronúncia, documento indispensável para o deslinde da controvérsia relativa aos requisitos da segregação cautelar.
+Ocorre que é pacífico o entendimento desta Corte Superior que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração (AgRg no HC n. 289076/SP - 5ª T. - unânime - Rel. Min. Regina Helena Costa - DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014).
+Logo, não conheço do recurso em habeas corpus no tocante à alegativa de ausência dos requisitos autorizadores da prisão cautelar.
+Por outro lado, busca-se no presente recurso o reconhecimento de constrangimento ilegal em razão do excesso de prazo para formação da culpa, uma vez que o recorrente encontra-se preso cautelarmente desde 26/12/2015 pela prática do delito tipificado no art. 121, §2º, I e IV, do Código Penal.
+É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+No presente caso, colhe-se dos autos (fls. 119/121) e das informações contidas no site do Tribunal de origem, que o recorrente foi preso temporariamente em 26/12/2015, e, em 18/1/2016, teve a prisão preventiva decretada, a denúncia foi ofertada em 18/1/2016 (fl. 69), a sentença de pronúncia foi prolatada em 29/7/2016, em face da qual foi interposto pela defesa recurso em sentido estrito.
+Em 7/2/2017 foi mantida a sentença de pronúncia pelo magistrado de primeiro grau, em juízo de retratação e determinada a remessa do recurso ao Tribunal, que foi autuado e distribuído na instância superior em 23/5/2017, tendo sido julgado em 10/10/2017 e, após ciência das partes, baixado à origem em 27/12/2017.
+Desse modo, da movimentação processual desenvolvida, não se constata mora estatal desarrazoada na persecução criminal; em verdade, o prazo até então transcorrido deu-se em grande parte em razão do recurso aviado pela defesa, não se podendo atribuir culpa ao Estado persecutor, de modo que não há que se falar em constrangimento ilegal por excesso de prazo da instrução criminal.
+Ante o exposto, voto por conhecer em parte do recurso em habeas corpus e, nessa extensão, negar-lhe provimento.
