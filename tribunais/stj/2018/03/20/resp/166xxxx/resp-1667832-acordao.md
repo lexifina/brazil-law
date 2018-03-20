@@ -1,0 +1,55 @@
+EMENTA
+PENAL. PROCESSUAL PENAL. RECURSO ESPECIAL. JÚRI. HOMICÍDIO DUPLAMENTE QUALIFICADO. APELAÇÃO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. PROVIMENTO DO TRIBUNAL. DECOTE DAS QUALIFICADORAS. IMPOSSIBILIDADE. OFENSA À SOBERANIA DOS VEREDICTOS. CONTRARIEDADE AO ART. 593, § 3º, DO CPP. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
+1. Esta Corte Superior já firmou o entendimento de que não se pode admitir a desconstituição parcial da sentença proferida pelo Tribunal Popular quanto às qualificadoras ou às privilegiadoras, sob pena de ofensa ao princípio da soberania dos veredictos (art. 5º, XXXVIII, da Constituição Federal de 1988) e ao disposto no art. 593, § 3º, do Código de Processo Penal, que determina a submissão do réu a novo julgamento quando a decisão dos jurados for manifestamente contrária à prova dos autos.
+2. Recurso especial provido para determinar a submissão do recorrido a novo julgamento pelo Tribunal do Júri da Comarca de São Paulo.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, dar provimento ao recurso especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquele estado (Apelação n. 0004769-75.2012.8.26.0052).
+Nas razões deste recurso especial, o recorrente alega que o acórdão impugnado contrariou o art. 593, III, "d" e § 3º, do Código de Processo Penal e está em desacordo com o entendimento do Superior Tribunal de Justiça no que se refere à reforma parcial da sentença proferida pelo Tribunal Popular.
+Aduz que não é admissível a desconstituição das qualificadoras reconhecidas pelos jurados - motivo torpe e emprego que dificultou a defesa da vítima - diretamente pela instância revisora, sob pena de ofensa ao princípio da soberania dos veredictos (art. 5º, XXXVIII, da Constituição Federal de 1988) e ao disposto no art. 593, § 3º, do Código de Processo Penal.
+Mesmo devidamente intimado pelo Diário de Justiça eletrônico, o defensor constituído não apresentou contrarrazões (fl. 377).
+O Ministério Público Federal manifestou-se, às fls. 392-400, pelo provimento do recurso.
+Diante da certidão de fls. 377, determinei, em respeito à ampla defesa e ao contraditório, fosse o recorrido intimado para nomear novo patrono a fim de suprir a omissão na apresentação do respectivo ato processual; como não houve manifestação do recorrido, a Defensoria Pública do Estado de São Paulo também foi intimada, mas ficou inerte. Em seguida os autos retornaram ao Ministério Público Federal, que reiterou o parecer de fls. 392-400.
+EMENTA
+PENAL. PROCESSUAL PENAL. RECURSO ESPECIAL. JÚRI. HOMICÍDIO DUPLAMENTE QUALIFICADO. APELAÇÃO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. PROVIMENTO DO TRIBUNAL. DECOTE DAS QUALIFICADORAS. IMPOSSIBILIDADE. OFENSA À SOBERANIA DOS VEREDICTOS. CONTRARIEDADE AO ART. 593, § 3º, DO CPP. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
+1. Esta Corte Superior já firmou o entendimento de que não se pode admitir a desconstituição parcial da sentença proferida pelo Tribunal Popular quanto às qualificadoras ou às privilegiadoras, sob pena de ofensa ao princípio da soberania dos veredictos (art. 5º, XXXVIII, da Constituição Federal de 1988) e ao disposto no art. 593, § 3º, do Código de Processo Penal, que determina a submissão do réu a novo julgamento quando a decisão dos jurados for manifestamente contrária à prova dos autos.
+2. Recurso especial provido para determinar a submissão do recorrido a novo julgamento pelo Tribunal do Júri da Comarca de São Paulo.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+No presente recurso especial, o Ministério Público do Estado de São Paulo alega ofensa ao art. 593, III, "d" e § 3º, do Código de Processo Penal, buscando submeter o recorrido a novo julgamento pelo Eg. Tribunal do Júri.
+Depreende-se dos autos que o recorrido foi condenado à pena de 8 anos e 2 meses de reclusão, em regime inicial fechado, por violação do art. 121, § 2º, I e IV, c/c o art. 14, II, por duas vezes, ambos do Código Penal.
+Irresignado com a sentença condenatória, o recorrido interpôs apelação criminal ao tribunal estadual, que julgou parcialmente procedente o pedido, para afastar, diretamente por aquela corte, as qualificadoras do motivo torpe e do recurso que impossibilitou a defesa da vítima, previstas nos incisos I e IV do § 2º do art. 121 do Código Penal, por entender que as referidas qualificadoras não encontram apoio na prova dos autos e ser desnecessária a renovação do julgamento. A reprimenda foi reduzida para 3 anos e 6 meses de reclusão, em regime semiaberto.
+Observo que o tribunal de origem, ao afastar as qualificadoras relativas ao motivo torpe e emprego de recurso que tenha dificultado a defesa da vítima consignou (fl. 305-309, destaquei):
+ ..
+Se foi assim, evidentemente não se aperfeiçoou a qualificadora do emprego do meio que impossibilitou a defesa das vítimas, pois, na verdade, nada sugere que elas tenham sido surpreendidas pela investida do réu.
+Da mesma forma, não há falar em "motivo torpe" na atitude do acusado,  .. .
+Assim, como ao acusado foi imputada a prática de tentativa de homicídio por motivo torpe, se não se viu comprovada essa conduta, na esteira, aliás, do parecer da d. Procuradoria de Justiça, melhor há de ser o afastamento das duas qualificadoras.
+ ..
+É o que se viu no caso dos autos, onde a opção feita pelos jurados pelo acolhimento das qualificadoras da utilização de recurso que impossibilitou a defesa das vítimas e do motivo torpe contrariou a evidência dos autos em face das circunstâncias dos acontecimentos e da prova produzida, que não indica a existência dessas circunstâncias.
+Mas, ainda que não comprovada a causa de aumento de pena, não caso de anulação do julgamento, pois o Tribunal de Justiça pode corrigir o equívoco em grau de recurso, sem que isso acarrete violação ao princípio da soberania do Tribunal do Júri.
+É que, tem-se aceitado que o Tribunal afaste desde logo a qualificadora indevidamente reconhecida pelos jurados e uma vez que a decisão vem em favor do acusado, de rigor o provimento parcial da apelação para afastar a causa de aumento de pena.
+ ..
+Diante do exposto, dá-se parcial provimento ao recurso para adequar a condenação para o art. 121, caput, c/c o art. 14, II, e art. 71, todos do Código Penal e reduzir a pena de [NOME] para 3 anos e 6 meses de reclusão em regime semiaberto.
+Com efeito, a decisão proferida pelo tribunal a quo contrariou o art. 593, III, "d" e § 3º, do Código de Processo Penal, porque há expressa determinação na referida legislação de submissão do réu a novo julgamento nos casos em que houver reconhecimento de decisão manifestamente contrária à prova dos autos.
+Isso porque a qualificadora é elementar do tipo, sendo dele indissociável. Diante de uma decisão teratológica, na qual se verifica que eventual qualificadora, reconhecida pelos jurados, se encontra manifestamente contrária à prova dos autos, cabe à instância revisora, tão somente, a submissão do réu a novo julgamento, e não a simples retirada da qualificadora em manifesta contrariedade à prova dos autos, porque, como dito, trata-se de elemento essencial e inseparável do tipo penal.
+Sobre a matéria, esta Corte Superior já firmou o entendimento de que não se pode admitir a desconstituição parcial da sentença proferida pelo Tribunal Popular quanto às qualificadoras ou às privilegiadoras, sob pena de ofensa ao princípio da soberania dos veredictos (art. 5º, XXXVIII, da Constituição Federal de 1988) e ao disposto no art. 593, § 3º, do Código de Processo Penal, que determina a submissão do réu a novo julgamento quando a decisão dos jurados for manifestamente contrária a prova dos autos.
+Nesse sentido:
+ ..
+1. Esta Corte Superior já firmou o entendimento no sentido de que não se pode admitir a desconstituição parcial da sentença proferida pelo Tribunal Popular quanto às qualificadoras ou às privilegiadoras, sob pena de ofensa ao princípio da soberania dos veredictos (art. 5º, XXXVIII, da Constituição Federal de 1988) e ao disposto no art. 593, § 3º, do Código de Processo Penal, que determina a submissão do réu a novo julgamento quando a decisão dos jurados for manifestamente contrária à prova dos autos.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.378.097/SP, Rel. Ministro Rogerio Schietti Cruz, 6ª T, DJe 13/10/2014)
+ ..
+2. Não pode o Tribunal de Justiça, em sede de recurso de apelação, modificar a opção feita pelos jurados, retirando a qualificadora reconhecida e redimensionando a pena aplicada.
+3. Caso se reconheça que a decisão foi manifestamente contrária à prova dos autos, deve o Tribunal dar provimento ao recurso, para submeter o réu a novo julgamento pelo Tribunal do Júri. Inteligência do artigo 593, parágrafo 3º, do Código de Processo Penal.
+4. Recurso Especial a que se dá provimento, para reformar o acórdão vergastado, determinando a submissão do recorrido a novo julgamento pelo Tribunal do Júri.
+(REsp n. 1.272.294/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Rel. p/ Acórdão Ministra Maria Thereza de Assis Moura, 6ª T., DJe 6/8/2012)
+ ..
+I - Inadmissível a desconstituição parcial da sentença proferida pelo Tribunal Popular quanto às qualificadoras ou privilegiadoras, sob pena de ofensa ao princípio da soberania dos veredictos (art. 5º, XXXVIII, da Constituição Federal de 1988) e ao disposto no art. 593, § 3º, do Código de Processo Penal, que determina a submissão do réu a novo julgamento quando a decisão dos jurados for manifestamente contrária à prova dos autos.
+II - O novo julgamento significa um novo corpo de jurados, a quem caberá a apreciação de toda a acusação, pois o reconhecimento de qualquer qualificadora, sendo elementar do tipo penal, implica, necessariamente, em revolvimento do fato em sua integralidade.
+III - Recurso desprovido.
+(REsp n. 504.844/RS, Rel. Ministro Gilson Dipp, 5ª T., DJ 29/9/2003, p. 326)
+Assim, havendo o Tribunal a quo reconhecido que a decisão dos jurados fora manifestamente contrária à prova dos autos, impunha-lhe ordenar a realização de novo júri, conforme dispõe a regra prevista no § 3º do art. 593 do Código de Processo Penal, in verbis:
+se a apelação se fundar no nº III, d, deste artigo, e o tribunal ad quem se convencer de que a decisão dos jurados é manifestamente contrária à prova dos autos, dar-lhe-á provimento para sujeitar o réu a novo julgamento; não se admite, porém, pelo mesmo motivo, segunda apelação.
+À vista do exposto, conheço do recurso especial e, nessa extensão, por identificar violação do art. 593, III, "d", e § 3º, do Código de Processo Penal, dou-lhe provimento para determinar a submissão do recorrido a novo julgamento pelo Tribunal do Júri da Comarca de São Paulo.
