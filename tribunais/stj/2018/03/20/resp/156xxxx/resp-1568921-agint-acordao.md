@@ -1,0 +1,89 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Não constatada a alegada violação ao artigo 535, inc. II, do CPC/73, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. A ausência de impugnação a fundamento do acórdão recorrido atrai o óbice da Súmula 283/STF, aplicável por analogia aos recursos especiais.
+3. "Para que a cessão de crédito seja eficaz em relação ao cedido, basta que o cedente o notifique. Tratando-se de cessão contratual, porém, é preciso que haja anuência do contratante cedido." (cf. AgInt no REsp 1.591.138/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/9/2016, DJe 21/9/2016)
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por JANICE MARIA CUNHA MOTTA contra decisão monocrática, da lavra deste signatário (fls. 266/269, e-STJ), que, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, negou provimento ao recurso especial.
+O apelo extremo, a seu turno, fundado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 136, e-STJ):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM S/A. AÇÃO DE COBRANÇA. ILEGITIMIDADE ATIVA. A cessão e transferência de direitos e ações referente a contrato de participação financeira - cessão de posição contratual - exige a expressa anuência do outro contratante, sob pena de ineficácia em relação ao cedido. A simples notificação não supre a ausência de concordância do cedido.
+APELAÇÃO CÍVEL DESPROVIDA.
+Opostos embargos de declaração, esses foram rejeitados (fls. 157/164, e-STJ).
+Nas razões do recurso especial (fls. 169/190, e-STJ), a recorrente apontou violação aos artigos 535, inciso II, do Código de Processo Civil de 1973; 286 e 290 do Código Civil, além de dissídio jurisprudencial.
+Sustentou, em síntese: a) a existência de omissão no acórdão recorrido quanto à matéria alegada nos embargos de declaração; e b) a legitimidade ativa do cessionário para o ajuizamento de ação de complementação de ações, defendendo a inexigibilidade da expressa anuência do devedor para a validade da cessão de crédito na hipótese dos autos.
+Contrarrazões apresentadas às fls. 209/226, e-STJ.
+Em decisão monocrática (fls. 266/269, e-STJ), este signatário, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, negou provimento ao recurso especial, sob os seguintes fundamentos: a) inexistência de violação ao art. 535, inc. II, do CPC/73, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia; b) incidência do óbice recursal da Súmula 83 do STJ; e c) incidência do óbice recursal da Súmula 283 do STF.
+No presente agravo interno (fls. 272/282, e-STJ), a parte agravante, primeiramente, reitera o argumento de violação ao art. 535, inc. II, do CPC/73, sustentando que o Tribunal de origem, mesmo provocado por embargos de declaração, teria deixado de se manifestar quanto à alegação de "que a cessão de crédito (objeto da lide) do contrato de participação financeira cedeu/transferiu todos os direitos e obrigações".
+Em seguida, a parte insurgente refuta a incidência da Súmula 83 do STJ. Aponta que a decisão ora agravada aplicou o óbice da referida súmula com base em precedentes "que não adentraram no mérito da decisão ora recorrida".
+Refuta, ainda, a incidência, por analogia, do óbice recursal da Súmula 283 do STF, ao argumento de que "a norma federal imputada por violada pela recorrente impugnou de forma flagrante os argumentos deduzidos" pelo acórdão recorrido.
+No mais, a parte agravante reitera o argumento da existência de dissídio jurisprudencial, trazendo a transcrição de precedentes jurisprudenciais do STJ, no tocante às seguintes teses: (i) legitimidade do cessionário para pleitear a subscrição de ações, na hipótese em que houve a cessão de todos os direitos oriundos do contrato de participação financeira (REsp nº 1.301.989/RS); e (ii) "não se faz necessária a anuência/aquiescência do devedor para validação da cessão de crédito, da mesma forma que não invalida a dívida na cessão a ausência de notificação" (REsp nº 936.589/SP; REsp nº 1.401.075/RS; e REsp nº 1.481.621/RS).
+Pleiteia, por fim, a reforma da decisão atacada.
+Impugnação apresentada às fls. 287/291, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+IRRESIGNAÇÃO DA PARTE AUTORA.
+1. Não constatada a alegada violação ao artigo 535, inc. II, do CPC/73, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. A ausência de impugnação a fundamento do acórdão recorrido atrai o óbice da Súmula 283/STF, aplicável por analogia aos recursos especiais.
+3. "Para que a cessão de crédito seja eficaz em relação ao cedido, basta que o cedente o notifique. Tratando-se de cessão contratual, porém, é preciso que haja anuência do contratante cedido." (cf. AgInt no REsp 1.591.138/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/9/2016, DJe 21/9/2016)
+4. Agravo interno desprovido.
+VOTO
+O SR. MINISTRO MARCO BUZZI (Relator): O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado.
+1. Nas razões do agravo interno, a parte agravante reitera o argumento, exposto nas razões do recurso especial, acerca da violação ao artigo 535, inc. II, do CPC/73, sustentando que o Tribunal de origem teria deixado de se manifestar sobre ponto relevante levantado nos embargos de declaração, quanto à alegação de "que a cessão de crédito (objeto da lide) do contrato de participação financeira cedeu/transferiu todos os direitos e obrigações".
+No entanto, conforme consignado pela decisão agravada, não prospera a alegação de omissão referente à referida questão, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Confira-se, a propósito, a fundamentação do acórdão recorrido, (fls. 138/141, e-STJ):
+É certo que eventual alienação das ações não inviabiliza que o alienante promova pretensão indenizatória ou de complementação de ações com base no contrato de participação financeira celebrado entre as partes.
+O contratante originário da participação financeira somente perde a legitimidade se restar devidamente comprovada a cessão e transferência de todos os direitos e ações decorrentes do contrato de participação financeira, com a expressa anuência da companhia telefônica.
+No entanto, na espécie, não se trata apenas de cessão de crédito prevista no art. 290 do Código Civil, mas de cessão de posição contratual, gerando deveres e obrigações entre partes contratantes, o que se pode concluir pela simples leitura dos instrumentos trazidos aos autos denominados "CONTRATO DE COMPRA E VENDA, CESSÃO E OUTRAS AVENÇAS DE DIREITOS E AÇÕES DO TERMO DE ADESÃO AO CONTRATO DE PARTICIPAÇÃO FINANCEIRA". (..).
+Como se vê, para que a cessão de posição contratual tenha validade, é necessária a expressa concordância do cedente, do cessionário e do cedido.
+O cessionário, a fim de demonstrar que o cedido estava ciente da cessão ocorrida, notificou extrajudicialmente a companhia telefônica (fls. 20).
+Com a devida vênia, entendo desnecessária a análise da validade ou não, das notificações alegadamente realizadas pelo autor.
+Isso porque, no caso de cessão de posição contratual, a notificação não é suficiente para a validade e eficácia da cessão em relação ao cedido, exigindo-se a sua anuência.
+A companhia telefônica (cedida) pode acolher - ou não - a cessão, anotando a transferência em seus registros no caso de consentimento.
+Na hipótese dos autos, inexiste qualquer prova de eventual anuência, inexistindo qualquer registro na companhia telefônica envolvendo as cessões. Os contratos encontram-se registrados em nome de seus titulares originários, ora cedentes.
+Nessas circunstâncias, resulta a ineficácia das cessões em relação à companhia telefônica. (..).
+Enfim, inexistindo expressa concordância da cedida às cessões, a parte autora não possui legitimidade para promover ação indenizatória ou de complementação acionária com fundamento nos contratos de participação financeira objeto da ação. (grifou-se)
+Assim, consoante se depreende do seguinte excerto, não há falar em omissão, tampouco em nulidade do aresto recorrido, tendo em vista que o Tribunal de origem apresentou fundamentação suficiente para a solução da lide, ainda que em sentido contrário a pretensão recursal da ora agravante.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. BANCÁRIO. AÇÃO REVISIONAL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. CERCEAMENTO DE DEFESA. REEXAME DE CLÁUSULAS E PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Nos termos dos arts. 34, VII, e 253, parágrafo único, II, alíneas a e b, do RISTJ, caberá ao Ministro Relator conhecer do agravo a fim de não conhecer do recurso especial ou, dele conhecendo, dar-lhe, ou não, provimento, sendo que a interposição do agravo interno e seu julgamento pelo colegiado sana qualquer contrariedade ao art. 932 do CPC/2015.
+2. Não há ofensa ao art. 535 do CPC/1973, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+3. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e a análise das cláusulas contratuais pactuadas entre as partes, providências vedadas em recurso especial, conforme o óbice previsto nos enunciados sumulares n. 5 e 7 deste Tribunal Superior.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1017666/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/03/2017, DJe 06/04/2017) (grifou-se)
+Verifica-se, portanto, não haver omissão ou negativa de prestação jurisdicional, tratando-se, na verdade, de inconformismo da insurgente com o resultado do julgamento.
+2. No que concerne à questão afeta à necessidade de consentimento da companhia telefônica, constata-se, das razões recursais, que a parte recorrente não logrou impugnar o fundamento do acórdão recorrido, segundo o qual a hipótese dos autos trata da cessão de posição contratual, e não de cessão de direitos.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF: É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. No entanto, ainda que se ingressa na análise do mérito recursal, conforme consignado pela decisão agravada, observa-se que a matéria debatida encontra-se pacificada nesta Corte Superior nos termos do que decidido pelo Tribunal de origem, no sentido de que na cessão de posição contratual é necessária a aquiescência da companhia telefônica.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO QUE INDEFERIU LIMINARMENTE O RECURSO. PARADIGMAS ORIUNDOS DO MESMO ÓRGÃO JULGADOR. ART. 1.043, § 3º, DO CPC/15. HIPÓTESE NÃO CONFIGURADA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. CESSÃO DE POSIÇÃO CONTRATUAL. LEGITIMIDADE ATIVA DO CESSIONÁRIO. VALIDADE DA CESSÃO. NECESSIDADE DE ANUÊNCIA DA COMPANHIA TELEFÔNICA CEDIDA. RAZÕES RECURSAIS QUE ALEGAM A DISPENSA DESSA ANUÊNCIA POR SE TRATAR DE CESSÃO DE CRÉDITO. INSTITUTOS JURÍDICOS DISTINTOS. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(AgInt nos EREsp 1570460/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 13/09/2017, DJe 18/09/2017) (grifou-se)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CESSÃO DE DIREITOS DECORRENTE DE TRANSFERÊNCIA DE LINHA TELEFÔNICA. LEGITIMIDADE ATIVA DO CESSIONÁRIO. ANUÊNCIA DO CEDIDO. SÚMULA 83/STJ.
+1. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ, quanto à necessidade da anuência do devedor, como condição de validade da cessão de direitos decorrente da transferência de linha telefônica, não merece reforma.
+2. Agravo interno no agravo em recurso especial desprovido.
+(AgInt no AREsp 884.721/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 15/12/2016, DJe 1º/2/2017) (grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. CESSÃO DE POSIÇÃO CONTRATUAL. LEGITIMIDADE ATIVA DO CESSIONÁRIO. VALIDADE DA CESSÃO. NECESSIDADE DE ANUÊNCIA DA COMPANHIA TELEFÔNICA CEDIDA. RAZÕES RECURSAIS QUE ALEGAM A DISPENSA DESSA ANUÊNCIA POR SE TRATAR DE CESSÃO DE CRÉDITO. INSTITUTOS JURÍDICOS DISTINTOS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7/STJ. AGRAVO IMPROVIDO.
+1. A cessão de posição contratual é instituto jurídico que não se confunde com a cessão de crédito.
+2. Para que a cessão de crédito seja eficaz em relação ao cedido, basta que o cedente o notifique. Tratando-se de cessão contratual, porém, é preciso que haja anuência do contratante cedido.
+3. De acordo com o Tribunal de origem, teria havido, no caso, uma cessão de contrato, e não uma cessão de crédito. Assim, como a cedida não anuiu com essa transferência, ela seria invalidada/ineficaz em relação à empresa telefônica, carecendo o cessionário de legitimidade para pleitear, dessa sociedade, a complementação de ações.
+ ..
+5. Agravo interno improvido.
+(AgInt no REsp 1.591.138/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/9/2016, DJe 21/9/2016) (grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação do art. 535 do Código de Processo Civil/73 pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. De acordo com a jurisprudência do STJ, é imprescindível a aquiescência da companhia telefônica sobre a cessão e transferência de direitos de crédito, caso a avença seja formalizada mediante contrato particular. Precedentes. Incidência da Súmula 83/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 876.218/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2016, DJe 7/6/2016) (grifou-se)
+Assim, estando o acórdão recorrido em consonância com o entendimento jurisprudencial pacífico deste Superior Tribunal de Justiça sobre o tema, inafastável a aplicação do óbice da Súmula 83 do STJ.
+Por fim, com relação aos paradigmas apontados pela parte recorrente, a fim de demonstrar o suposto dissídio jurisprudencial, constata-se que o entendimento firmado nos autos do REsp nº 1.301.989/RS, julgado sob a sistemática dos recursos repetitivos, não socorre a parte agravante. Isso porque, no referido julgado, consolidou-se o entendimento de que "o cessionário de contrato de participação financeira tem legitimidade para ajuizar ação de complementação de ações somente na hipótese em que o instrumento de cessão lhe conferir, expressa ou tacitamente, o direito à subscrição de ações, conforme apurado nas instâncias ordinárias" (REsp 1.301.989/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 12/03/2014, DJe 19/03/2014)
+No caso dos autos, contudo, conforme se depreende da fundamentação do decisum recorrido acima transcrita, não houve pronunciamento, pelas instâncias ordinárias, acerca da extensão do contrato de cessão que fora firmado entre as partes, consignando o Tribunal de origem, apenas, que houve a "cessão de posição contratual, gerando deveres e obrigações entre partes contratantes".
+Assim, o dissídio aventado pelo agravante não está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e o acórdão paradigma, pois as instâncias ordinárias não se pronunciaram a respeito da extensão do contrato de cessão, limitando-se a declarar a ilegitimidade ativa ao fundamento de que não restou demonstrada a anuência da companhia telefônica acerca da cessão de posição contratual.
+Do mesmo modo, inviável a comprovação do dissídio jurisprudencial com base nos precedentes firmados no REsp nº 936.589/SP; REsp nº 1.401.075/RS; e REsp nº 1.481.621/RS, eis que, no caso em discussão, não há se falar em hipótese de mera cessão de crédito, prevista no art. 290 do CC, firmada entre o agravante e o credor originário, razão pela qual os referidos precedentes não se referem às mesmas circunstâncias fáticas e jurídicas dos autos.
+De rigor, portanto, a manutenção da decisão agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
