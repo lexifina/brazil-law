@@ -1,0 +1,14 @@
+Decisão
+    Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal de Justiça do Estado de Santa Catarina que, em recurso de apelação em ação de conhecimento, no que interessa, considerou que (a) incide ISS sobre contratos de leasing financeiro, e (b) o Município de Orleans é competente para a cobrança do imposto. Os embargos de declaração opostos foram acolhidos em parte apenas para sanar obscuridade (fls. 712-716).
+    No recurso extraordinário (fls. 780-812), a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, §2º, do CPC, e aponta violação aos seguintes dispositivos constitucionais: (a) art. 5º, XXXV, visto que houve violação ao princípio da ampla defesa no julgamento dos embargos de declaração; (b) art. 156, III, e 146, III, ao argumento de que não incide o ISS sobre as operações de leasing financeiro; (c) art. 146, I, porque o município em questão é incompetente para a exigência do tributo; e (d) art. 150, IV, uma vez que a multa aplicada (na razão de 100%) possui caráter confiscatório.
+    De início, o agravo interposto da decisão de inadmissão do extraordinário foi remetido ao Supremo Tribunal Federal, que, por sua vez, devolveu os autos ao Tribunal local para aplicação do Tema 125 da Repercussão Geral. Após, em novo juízo de admissibilidade, os autos foram remetidos a esta CORTE apenas para apreciação da alegação de efeito confiscatório da multa. No mais, decidiu-se que: (a) quanto à questão relativa à incidência de ISS sobre operação de leasing financeiro, a parte agravante se conformou com a aplicação na origem do Tema 125-RG; e (b) no que tange ao local de competência para a tributação do ISS, o agravo foi julgado prejudicado em aplicação do Tema 287-RG, por se tratar de matéria infraconstitucional.
+    É o relatório. Decido.
+    O Tribunal de Justiça de Santa Catarina julgou prejudicado em parte o recurso extraordinário, no tocante à tese relativa à competência do Município para arrecadar o ISS, tendo em vista o decidido pelo STF no AI 790.283/DF de relatoria do ilustre Ministro Gilmar Mendes (Tema 287).
+    No mais, remeteu à análise do Supremo Tribunal Federal apenas o ponto que trata do efeito confiscatório de multa aplicada no percentual de 100 % (cem por cento).
+    No que remanesce a ser decidido, o Plenário do SUPREMO TRIBUNAL FEDERAL, no RE 736.090 (Rel. Min. LUIZ FUX, Tema 863), examinou a repercussão geral da questão constitucional atinente ao limite da multa fiscal.
+    Assim, com fundamento no art. 1.036 e seguintes do Código de Processo Civil de 2015 e no art. 328, parágrafo único, do Regimento Interno do STF, determino a devolução dos autos ao Juízo de origem para que aguarde a decisão do Supremo no RE 736.090.
+    Publique-se.
+    Brasília, 20 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+      Documento assinado digitalmente
