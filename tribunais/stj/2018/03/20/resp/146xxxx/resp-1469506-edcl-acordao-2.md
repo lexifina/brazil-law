@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 535 DO CPC/1973. ACOLHIMENTO. SUCUMBÊNCIA NÃO ANALISADA.
+1. Merece prosperar a irresignação, pois não houve manifestação sobre a sucumbência processual na presente hipótese, já que os Embargos à Execução foram julgados procedentes na origem e houve reforma daquela compreensão pela decisão embargada.
+2. A questão sob análise nos Embargos à Execução diz respeito à aplicação do art. 1º-F da Lei 9.494/1997, na redação dada pela Lei 11.960/2009, e o resultado exarado pelo acórdão embargado consistiu na aplicação parcial do mencionado dispositivo legal, pois afastou a correção monetária pela caderneta de poupança, mas manteve o critério legal de juros de mora.
+3. Assim, os Embargos de Declaração são acolhidos para fazer constar que os Embargos à Execução são parcialmente procedentes e que a sucumbência é recíproca e, dessa forma, os honorários advocatícios se compensam.
+4. Embargos de Declaração acolhidos.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, acolheu os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão assim ementado:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIA PENDENTE DE TRÂNSITO EM JULGADO NO STF. ADI 4.357/DF E ADI 4.425/DF. SOBRESTAMENTO DO FEITO. DESCABIMENTO. ART. 1º-F DA LEI 9.494/1997. LEI 11.960/2009. INCONSTITUCIONALIDADE PARCIAL POR ARRASTAMENTO DECLARADA PELO STF. PRECEDENTE DA PRIMEIRA SEÇÃO. CORREÇÃO MONETÁRIA. OBSERVÂNCIA DA NATUREZA DA DÍVIDA. JUROS DE MORA. CADERNETA DE POUPANÇA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. A partir da declaração de inconstitucionalidade parcial do art. 5º da Lei 11.960/2009: a) aplicam-se às dívidas da Fazenda Pública os índices de correção monetária que reflitam a inflação acumulada no período, observada a natureza do débito, afastando-se a incidência dos índices de remuneração básica da caderneta de poupança; b) os juros moratórios corresponderão aos juros aplicáveis à caderneta de poupança, computados de forma simples, exceto quando a dívida ostentar natureza tributária, para a qual prevalecerão as regras específicas. Nesse sentido: REsp 1.270.439/PR, Rel. Ministro Castro Meira, Primeira Seção, DJe 2.8.2013.
+3. No caso dos autos, como a condenação imposta é de natureza não tributária, os juros moratórios devem ser calculados com respaldo nos juros incidentes sobre a caderneta de poupança, nos termos da regra do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009. Por sua vez, a correção monetária deverá ser calculada de acordo com a natureza da obrigação, sendo o INPC para as dívidas previdenciárias do Regime Geral de Previdência Social (art. 41-A da Lei 8.213/1991) e o IPCA para os demais débitos não tributários. Precedentes: REsp 1.270.439/PR, Rel. Ministro Castro Meira, Primeira Seção, DJe 2.8.2013; AgRg no REsp 1.427.958/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 2.6.2014; AgRg no REsp 1.425.305/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 19.5.2014; AgRg no AREsp 231.080/PE, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 3.6.2014; AgRg no REsp 1.324.934/RS, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 3.6.2014.
+4. A pendência de julgamento no STF de ação em que se discute a constitucionalidade de lei não enseja o sobrestamento dos recursos que tramitam no STJ, salvo determinação expressa da Suprema Corte. A propósito: AgRg no REsp 1.359.965/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 31.5.2013.
+5. Recurso Especial parcialmente provido.
+A parte embargante alega:
+No entanto, a despeito do provimento aludido, não se manifestou essa Eg. Turma acerca da indispensável inversão do ônus sucumbencial. Veja-se que o Tribunal de origem negou provimento à apelação das partes, mantendo a sucumbência até então definida: condenação do Autor em honorários advocatícios fixados em 10% sobre o valor da causa.
+Com o provimento de seu recurso especial, a pretensão da Agravada de aplicação dos índices de correção monetária definidos pela Lei n.º 11.960/09 foi rechaçada, não havendo que se falar em decaimento do Exequente.
+Pleiteia o acolhimento do recurso com efeitos infringentes.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Merece prosperar a irresignação, pois não houve manifestação sobre a sucumbência processual na presente hipótese, já que os Embargos à Execução foram julgados procedentes na origem e houve reforma daquela compreensão pela decisão embargada.
+A questão sob análise nos Embargos à Execução diz respeito à aplicação do art. 1º-F da Lei 9.494/1997, na redação dada pela Lei 11.960/2009, e o resultado exarado pelo acórdão embargado consistiu na aplicação parcial do mencionado dispositivo legal, pois afastou a correção monetária pela caderneta de poupança, mas manteve o critério de juros de mora.
+Assim, os Embargos de Declaração são acolhidos para fazer constar que os Embargos à Execução são parcialmente procedentes e que a sucumbência é recíproca e, dessa forma, os honorários advocatícios se compensam.
+Diante do exposto, acolho os Embargos de Declaração.
+É como voto.
