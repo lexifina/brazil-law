@@ -1,0 +1,70 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO FEDERAL. QUINTOS. INCORPORAÇÃO. IMPOSSIBILIDADE. RE 638.115/CE.
+1. No no julgamento do RE nº 638.115/CE, submetido ao rito do art. 543-B do CPC/1973, o STF assentou o entendimento de que não é devido à incorporação de quintos decorrente do exercício de funções comissionadas no período compreendido entre a edição da Lei 9.624/1998 e a MP 2.225-48/2001.
+2. Quanto às diferenças vencíveis, entende o STF que, "tendo em vista que o pagamento dos quintos incorporados no período entre 8.4.1998 até 4.9.2001 foi declarado inconstitucional e refere-se a relação jurídica de trato continuado, há que se reconhecer a necessidade de cessação imediata do pagamento da mencionada verba, sem que isso caracterize afronta à coisa julgada e sem que seja necessário o ajuizamento de ação rescisória. Da mesma forma, os efeitos das decisões administrativas, que reconheceram o referido direito aos servidores com base em hipótese considerada inconstitucional pelo STF, não devem subsistir, devendo o pagamento ser cessado imediatamente."
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por [NOME] AYUB e OUTROS contra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. INCORPORAÇÃO DE QUINTOS. ATUALIZAÇÃO E CORREÇÃO DE VALORES. PERÍODO COMPREENDIDO ENTRE ABRIL DE 1998 A SETEMBRO DE 2001. IMPOSSIBILIDADE. RECURSO EXTRAORDINÁRIO 638.115/CE JULGADO SOB O RITO DO ART. 543-B DO CPC/1973. RECURSO ESPECIAL NÃO PROVIDO.
+No presente recurso, reiteram-se as razões do especial, quais sejam:
+a) Violação do artigo 535 do CPC, sob o fundamento de que, mesmo instado por declaratórios, o Eg. TRF não teria examinado "as omissões relativas aos pedidos de atualização dos quintos (para aqueles que em 09-04-1998 já tinham quintos incorporados e exerceram cargos/funções de níveis mais elevados) e à correção dos quintos já incorporados e não pagos corretamente, com reflexos em férias, GAE, adicionais de tempo de serviço, gratificação natalina, gratificações periódicas, representação mensal, vantagens pessoais e decisões judiciais, ou seja, em todas as parcelas que tenham sua base de cálculo alterada em função dos pedidos anteriores, além de juros, correção monetária e honorários advocatícios.
+b) Atualização dos quintos já incorporados, em face da prorrogação da possibilidade de incorporação, mediante reconhecimento para os servidores que já tinham cinco quintos incorporados à época da edição da Lei 9.624/98 e que passaram a exercer cargo/função de nível mais elevado;
+c) Correção dos quintos já incorporados, mediante a incidência da AGE, com base no reconhecimento da vinculação das parcelas já incorporadas pelos Autores à época da edição da Lei 9.624/98 à remuneração das funções e cargos de confiança, perdurando tal vinculação até setembro de 2001, quando os valores incorporados foram convertidos em VPNI.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO FEDERAL. QUINTOS. INCORPORAÇÃO. IMPOSSIBILIDADE. RE 638.115/CE.
+1. No no julgamento do RE nº 638.115/CE, submetido ao rito do art. 543-B do CPC/1973, o STF assentou o entendimento de que não é devido à incorporação de quintos decorrente do exercício de funções comissionadas no período compreendido entre a edição da Lei 9.624/1998 e a MP 2.225-48/2001.
+2. Quanto às diferenças vencíveis, entende o STF que, "tendo em vista que o pagamento dos quintos incorporados no período entre 8.4.1998 até 4.9.2001 foi declarado inconstitucional e refere-se a relação jurídica de trato continuado, há que se reconhecer a necessidade de cessação imediata do pagamento da mencionada verba, sem que isso caracterize afronta à coisa julgada e sem que seja necessário o ajuizamento de ação rescisória. Da mesma forma, os efeitos das decisões administrativas, que reconheceram o referido direito aos servidores com base em hipótese considerada inconstitucional pelo STF, não devem subsistir, devendo o pagamento ser cessado imediatamente."
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não merece lograr êxito.
+Dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, deu a solução que melhor espelha a orientação jurisprudencial do STJ sobre a matéria.
+Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. m verdade, constata-se que o Tribunal a quo enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia. A solução integral da controvérsia, com fundamento suficiente, não caracteriza omissão (cf. AgRg no AREsp 434.846/PB, Rel. Min. HERMAN BENJAMIN, DJe 19/03/2014), pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional (cf. AgRg no AREsp 315.629/RJ, Rel. Min. OG FERNANDES, DJe 21/03/2014; AgRg no AREsp 453.623/SP, Rel. Min. SÉRGIO KUKINA, DJe 21/03/2014).
+Os embargos de declaração opostos na origem não podem ser destinados ao "acréscimo de razões que para a parte pareçam significativas, mas que, para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar" (EDcl nos EDcl no AgRg no AgRg no REsp 792.547/DF, Rel. Min. ALDERITA RAMOS DE OLIVEIRA (Desembargadora Convocada do TJ/PE), SEXTA TURMA, DJe de 19.8.2013), pois é certo que "não cabe ao Tribunal, que não é órgão de consulta, responder a questionários postos pela parte sucumbente, que não aponta de concreto nenhuma obscuridade, omissão ou contradição no acórdão, mas deseja, isto sim, esclarecimentos sobre sua situação futura e profliga o que considera injustiças decorrentes do "decisum" (..)" (EDcl no REsp 739/RJ, Rel. Min. ATHOS CARNEIRO, QUARTA TURMA, DJ de 11.3.1991, p. 2395).
+A Primeira Seção do STJ no julgamento do Recurso Especial nº 1.261.020/CE, julgado sob o rito do art. 543-C, do CPC/1973, fixou o entendimento do direito à incorporação dos quintos aos servidores públicos que exerçam cargo ou função comissionada entre 8/4/1998 a 5/9/2001.
+No entanto, no julgamento do RE nº 638.115/CE, submetido ao rito do art. 543-B do CPC/1973, o STF assentou o entendimento de que não é devido à incorporação de quintos decorrente do exercício de funções comissionadas no período compreendido entre a edição da Lei 9.624/1998 e a MP 2.225-48/2001. Confira-se a ementa:
+Recurso extraordinário. 2. Administrativo. 3. Servidor público. 4. Incorporação de quintos decorrente do exercício de funções comissionadas no período compreendido entre a edição da Lei 9.624/1998 e a MP 2.225-48/2001. 5. Impossibilidade. 6. Recurso extraordinário provido.
+(RE 638.115/CE, Relator Ministro Gilmar Mendes, DJe 3/8/2015)
+Nesse sentido, no âmbito do STJ, os seguintes precedentes:
+ADMINISTRATIVO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. INCORPORAÇÃO DE QUINTOS DECORRENTE DO EXERCÍCIO DE FUNÇÕES COMISSIONADAS. MEDIDA PROVISÓRIA 2.225-45/2001. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. PERÍODO DE 08/04/1998 A 05/09/2001. IMPOSSIBILIDADE.
+1. O Plenário do Supremo Tribunal Federal, ao julgar o Recurso Extraordinário 638.115/CE, sob o regime de repercussão geral, concluiu, por maioria, não ser devida a incorporação de quintos e décimos por servidores pelo exercício de funções gratificadas no período compreendido entre a edição da Lei n. 9.624/98 e a Medida Provisória n. 2.225-45/2001, ante a ausência de norma expressa autorizadora.
+2. A despeito disso, houve por bem a Corte modular os efeitos da decisão, para desobrigar os servidores da devolução dos valores pagos até a data do referido julgamento, porque percebidos de boa-fé.
+3. Agravo regimental provido para, reconsiderando a decisão agravada, negar provimento ao recurso especial.
+(AgRg no REsp 1.445.347/RJ, Rel. Min. OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, DJe 22/09/2015)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. SERVIDOR PÚBLICO. INCORPORAÇÃO DE QUINTOS DECORRENTE DO EXERCÍCIO DE FUNÇÕES COMISSIONADAS NO PERÍODO COMPREENDIDO ENTRE A EDIÇÃO DA LEI 9.624/98 E A MEDIDA PROVISÓRIA 2.225/01. IMPOSSIBILIDADE. REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - O entendimento fixado pelo Colendo Supremo Tribunal Federal no RE n. 638.115/CE, julgado sob o rito da repercussão geral em 19.03.2015, consolidou entendimento segundo o qual a Medida Provisória n. 2.225-45/01 apenas transformou em Vantagem Pessoal Nominalmente Identificada - VPNI as parcelas referentes aos arts. 3º e 10 da Lei n. 8.911/94, e 3º da Lei n. 9.624/98, mas não respristinou as normas que previam a incorporação das parcelas, o que somente seria possível por expressa previsão legal.
+III - Concluiu, assim, pela ofensa ao princípio da legalidade nas hipóteses em que a decisão que concede a servidor público federal a incorporação de quintos pelo exercício de função comissionada no período compreendido entre 08.04.1998 e 04.09.2001.
+IV - Os efeitos da decisão do Supremo Tribunal Federal foram modulados para desobrigar a restituição dos valores recebidos de boa-fé pelos servidores até a data do julgamento (19.03.2015), cessada a ultra-atividade das incorporações concedidas indevidamente.
+V - A Agravante não apresenta, no regimental, argumentos suficientes
+para desconstituir a decisão agravada.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.252.431/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 27/05/2016).
+Quanto às diferenças vencidas e não pagas, entende o STF que,
+no que se refere às decisões judiciais transitada em julgado que conferiram aos servidores o direito à incorporação dos quintos no período entre 8.4.1998 até 4.9.2001, deve-se levar em consideração a tese firmada pelo STF no julgamento do RE-RG 730.462, Rel. Min. Teori Zavascki (tema 733), DJe 9.9.2015, nos seguintes termos:
+"A decisão do Supremo Tribunal Federal declarando a constitucionalidade ou a inconstitucionalidade de preceito normativo não produz a automática reforma ou rescisão das sentenças anteriores que tenham adotado entendimento diferente; para que tal ocorra, será indispensável a interposição do recurso próprio ou, se for o caso, a propositura da ação rescisória própria, nos termos do art. 485, V, do CPC, observado o respectivo prazo decadencial (CPC, art. 495). Ressalva-se desse entendimento, quanto à indispensabilidade da ação rescisória, a questão relacionada à execução de efeitos futuros da sentença proferida em caso concreto sobre relações jurídicas de trato continuado".
+Sem embargo, quanto às diferenças vencíveis, entende o STF que,
+tendo em vista que o pagamento dos quintos incorporados no período entre 8.4.1998 até 4.9.2001 foi declarado inconstitucional e refere-se a relação jurídica de trato continuado, há que se reconhecer a necessidade de cessação imediata do pagamento da mencionada verba, sem que isso caracterize afronta à coisa julgada e sem que seja necessário o ajuizamento de ação rescisória. Da mesma forma, os efeitos das decisões administrativas, que reconheceram o referido direito aos servidores com base em hipótese considerada inconstitucional pelo STF, não devem subsistir, devendo o pagamento ser cessado imediatamente.
+Eis a ementa do referido julgado:
+Embargos de declaração no recurso extraordinário.
+2. Repercussão Geral.
+3. Direito Administrativo.
+4. Servidor público.
+5. Incorporação de quintos decorrente do exercício de funções comissionadas no período compreendido entre a edição da Lei 9.624/1998 e a MP 2.225-48/2001. Impossibilidade.
+6. Cessada a ultratividade das incorporações em qualquer hipótese, seja decorrente de decisões administrativas ou de decisões judiciais transitadas em julgado. RE-RG 730.462, Rel. Min. Teori Zavascki.
+7. Ausência de omissão, contradição ou obscuridade.
+8. Embargos rejeitados.
+(RE 638115 ED, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 30/06/2017, PROCESSO ELETRÔNICO DJe-176 DIVULG 09-08-2017 PUBLIC 10-08-2017).
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
