@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO À LEGISLAÇÃO LOCAL. SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DEPÓSITO JUDICIAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. AJUIZAMENTO DE EXECUÇÃO FISCAL. IMPOSSIBILIDADE.
+1. É inadmissível Recurso Especial que discute violação de lei local (Súmula 280/STF).
+2. Não se conhece de Recurso Especial quanto à matéria que não foi especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+3. Ao apreciar Agravo de Instrumento interposto pela empresa, contra decisão do juízo de primeiro grau que rejeitou Exceção de Pré-Executividade, a Corte local originalmente dera provimento ao recurso por concluir que o ajuizamento de anterior Ação Anulatória de Débito Fiscal, acompanhada de depósito integral da quantia controvertida, implicou suspensão da exigibilidade do crédito tributário, carecendo a Fazenda Pública de interesse processual para ajuizar Execução Fiscal relacionada ao mesmo débito.
+4. Posteriormente, o único fundamento adotado para, nos aclaratórios da Fazenda Estadual, reverter o decisum anterior consistiu na verificação de que o pedido deduzido na aludida Ação de Conhecimento fora julgado improcedente, em acórdão proferido na Apelação nessa última interposta.
+5. Sucede que tal argumento, por si só, não resolve satisfatoriamente a discussão suscitada na objeção pré-executiva, uma vez que a suspensão da exigibilidade não decorreria da decisão proferida na Ação Anulatória, mas do depósito nela realizado.
+6. Em relação a este (depósito), no entanto, persiste a controvérsia, uma vez que o ente fazendário afirma que a demanda anulatória (e o respectivo depósito judicial) não abrange o débito perseguido nos autos da Execução Fiscal.
+7. Superada, neste momento, a premissa adotada no acórdão hostilizado (a de que o julgamento de improcedência do pedido deduzido na Ação Anulatória, por si só, restabeleceu a exigibilidade do crédito tributário), devem os autos retornar às instâncias de origem, para que prossiga na análise dos demais fundamentos veiculados no Agravo de Instrumento e nas respectivas contrarrazões, notadamente quanto à correspondência do depósito judicial com o crédito tributário inscrito na CDA e sobre a eventual conversão em renda do ente público, caso transitada em julgado a decisão proferida na Ação Anulatória.
+8. Recurso Especial parcialmente conhecido e, nessa parte, parcialmente provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu em parte do recurso e, nessa parte, deu-lhe parcial provimento, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO - ALEGAÇÃO DE OMISSÃO NO JULGADO.
+Hipótese em que a validade do auto de infração em questão foi objeto de ação pelo rito ordinário julgado improcedente, em acórdão publicado em 29/04/2011, muito antes do ajuizamento da execução fiscal.
+Prosseguimento da execução fiscal.
+Embargos acolhidos, com efeito modificativo.
+A recorrente alega violação dos arts. 10, 11, 141, 151, 156, IV e VI, 172, III, do CTN; dos arts. 485, IV e VI, 489, § 1º, IV, 1.012, §§ 1º e 2º, e 1.022 do CPC; do art. 26 da Lei 6.830/1980 e do art. 1º da Lei Estadual 14.272/2010.
+Foram apresentadas as contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 5.2.2018.
+Controverte-se a respeito do acórdão que rejeitou Exceção de Pré-Executividade, afastando a suspensão da exigibilidade do crédito tributário ao argumento de que foi proferida decisão colegiada na Apelação em Ação Anulatória de Débito Fiscal, julgando o pedido improcedente, em data anterior ao ajuizamento da Execução Fiscal.
+Inicialmente, registro que é inviável o manejo do Recurso Especial para discutir a exegese de lei local. Assim, em relação à tese de infringência ao art. 1º da Lei Estadual 14.272/2010, incide o óbice da Súmula 280/STF.
+A instância de origem não emitiu juízo de valor sobre os arts. 10, 11, 141, 156, IV e VI, e 172, III, do CTN; os arts. 485, IV e VI, 489, § 1º, IV, 1.012, §§ 1º e 2º, e 1.022 do CPC e o art. 26 da Lei 6.830/1980. Além disso, não houve oposição de Embargos de Declaração, por parte da recorrente, para pleitear a análise dos dispositivos legais.
+Assim, ante a ausência de prequestionamento, é inviável o conhecimento do recurso nesse ponto. Aplicação, por analogia, da Súmula 282/STF.
+Em relação ao mérito, entretanto, os fundamentos adotados no acórdão hostilizado evidenciam a procedência da pretensão recursal.
+Refiro-me ao tema da suspensão da exigibilidade do crédito tributário: no julgamento do Agravo de Instrumento interposto pela empresa, contra decisão que rejeitou Exceção de Pré-Executividade, a Corte local originalmente dera provimento ao recurso por concluir que o ajuizamento de anterior Ação Anulatória de Débito Fiscal, acompanhada de depósito integral da quantia controvertida, implicou suspensão da exigibilidade do crédito tributário, carecendo a Fazenda Pública de interesse processual no ajuizamento de Execução Fiscal relacionada ao mesmo débito.
+Posteriormente, o único fundamento adotado para, nos aclaratórios da Fazenda Estadual, reverter o decisum anterior consistiu na verificação de que o pedido deduzido na aludida Ação de Conhecimento fora julgado improcedente, em acórdão proferido na Apelação nessa última interposta.
+Sucede que tal argumento, por si só, não resolve satisfatoriamente a discussão suscitada na objeção pré-executiva, uma vez que a suspensão da exigibilidade não decorreria da decisão proferida na Ação Anulatória, mas do depósito nela realizado.
+Em relação a este (depósito), no entanto, persiste a controvérsia, uma vez que o ente fazendário afirma que a demanda anulatória (e o respectivo depósito judicial) não abrange o débito perseguido nos autos da Execução Fiscal.
+Superada a premissa adotada no acórdão hostilizado (a de que o julgamento de improcedência do pedido deduzido na Ação Anulatória, por si só, restabeleceu a exigibilidade do crédito tributário), devem os autos retornar às instâncias de origem, para que prossiga na análise dos demais fundamentos veiculados no Agravo de Instrumento e nas respectivas contrarrazões, notadamente a relativa à correspondência do depósito judicial com o crédito tributário inscrito em CDA e da possível conversão em renda, após eventual trânsito em julgado da decisão desfavorável à empresa, nos autos da Ação Anulatória.
+Com essas considerações, conheço parcialmente do Recurso Especial e, nessa parte, dou-lhe parcial provimento.
+É como voto.
