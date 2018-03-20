@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. DENÚNCIA ESPONTÂNEA. CONFISSÃO. PAGAMENTO DO TRIBUTO. ESPONTANEIDADE.
+1. Nos casos em que o contribuinte declara e recolhe o crédito tributário (Súmula 436/STJ) mas, posteriormente, de modo espontâneo e voluntário, complementa sua própria declaração e, antes de qualquer fiscalização fazendária, paga a diferença integral, será possível a aplicação do instituto da denúncia espontânea. Precedentes: AgRg no Ag 600.847/PR, Relator Ministro Luiz Fux, Primeira Turma, DJe 5/9/2005; EDcl no AgRg no REsp 967.190/CE, Relator Ministro Francisco Falcão, Primeira Turma, DJe 8/5/2008; REsp 903.594/RS, Relator Ministro Francisco Falcão, Primeira Turma, DJe 2/4/2007.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 454):
+PROCESSO CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. TRIBUTÁRIO. DENÚNCIA ESPONTÂNEA. DENÚNCIA. CONFISSÃO. PAGAMENTO DO TRIBUTO. ESPONTANEIDADE. SÚMULA 568/STJ. RECURSO ESPECIAL NÃO PROVIDO.
+O agravante alega, em resumo, que o entendimento do Superior Tribunal de Justiça é no sentido de que: a extinção do crédito tributário por meio de compensação está sujeita à condição resolutória da sua homologação. Caso a homologação, por qualquer razão, não se efetive, tem-se por não pago o crédito tributário declarado, havendo incidência, de consequência, dos encargos moratórios. Nessa linha, sendo que a compensação ainda depende de homologação, não se chega à conclusão de que o contribuinte ou responsável tenha, espontaneamente, denunciado o não pagamento de tributo e realizado seu pagamento com os acréscimos legais, por isso que não se observa a hipótese do art. 138 do CTN (..) (AgRg no AREsp 174.514/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 04/09/2012, DJe 10/09/2012)
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TRIBUTÁRIO. DENÚNCIA ESPONTÂNEA. CONFISSÃO. PAGAMENTO DO TRIBUTO. ESPONTANEIDADE.
+1. Nos casos em que o contribuinte declara e recolhe o crédito tributário (Súmula 436/STJ) mas, posteriormente, de modo espontâneo e voluntário, complementa sua própria declaração e, antes de qualquer fiscalização fazendária, paga a diferença integral, será possível a aplicação do instituto da denúncia espontânea. Precedentes: AgRg no Ag 600.847/PR, Relator Ministro Luiz Fux, Primeira Turma, DJe 5/9/2005; EDcl no AgRg no REsp 967.190/CE, Relator Ministro Francisco Falcão, Primeira Turma, DJe 8/5/2008; REsp 903.594/RS, Relator Ministro Francisco Falcão, Primeira Turma, DJe 2/4/2007.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+De fato, o acórdão recorrido, partindo do pressuposto de que a extinção do crédito tributário por meio de compensação está sujeita à condição resolutória da sua homologação, equiparou o instituto da compensação ao do pagamento, para fins de denúncia espontânea. Nesse sentido, transcrevo o seguinte trecho, extraído do item 5 da ementa (grifei):
+A declaração de compensação realizada perante a Receita Federal, de acordo com a redação do art. 74 da Lei nº 9.430/96, dada pela Lei nº 10.637/2002, extingue o crédito tributário, sob condição resolutória de sua ulterior homologação. Até que o Fisco se pronuncie sobre a homologação, seja expressa ou tacitamente, no prazo de cinco anos, a compensação tem o mesmo efeito do pagamento antecipado.
+Para melhor elucidar a questão, transcrevo ainda o seguinte trecho do voto condutor do acórdão recorrido (fls. 361):
+A exegese firmada pelo STJ é plenamente aplicável às hipóteses em que o tributo é pago com atraso, mediante PER/DCOMP, antes de qualquer procedimento do Fisco e, por extensão, da entrega da DCTF. O que ocorre, na verdade, é que a declaração de compensação realizada perante a Receita Federal, de acordo com a redação do art. 74 da Lei nº 9.430/96, dada pela Lei nº 10.637/2002, extingue o crédito tributário, sob condição resolutória de sua ulterior homologação.
+Na sistemática dos tributos sujeitos a lançamento por homologação, a compensação equivale ao pagamento antecipado, visto que o sujeito passivo, ao invés de recolher o valor do tributo em pecúnia, registra na escrita fiscal o crédito oponível ao Fisco e o informa na PER/DCOMP. Em outras palavras, até que o Fisco se pronuncie sobre a homologação, seja expressa ou tacitamente, no prazo de cinco anos, a compensação tem o mesmo efeito do pagamento antecipado.
+Portanto, a conclusão adotada pelo acórdão recorrido é de equiparação do instituto da compensação e do pagamento.
+Aparentemente, tal conclusão está em confronto com os precedentes que a Fazenda Nacional indica em seu recurso de agravo interno.
+Contudo, a conclusão adotada pelas instâncias ordinárias é no sentido de que houve quitação integral, em dinheiro, via DARF.
+Ou seja, houve pagamento (quitação integral) - e não mera compensação. Nesse sentido, transcrevo o seguinte trecho do voto condutor do acórdão proferido em embargos de declaração, na origem (fl. 403, grifei):
+Em relação à declaração retificadora paga por meio de DARF em 09/12/2013, foi quitado o valor integral, em dinheiro, da diferença do débito apurado acrescida de juros, com a apresentação da DCTF em 13/12/2013. É quanto a esse pagamento que se busca o benefício da denúncia espontânea.
+Assim sendo, havendo quitação integral, em dinheiro, via DARF, da diferença encontrada, acrescida dos juros cabíveis, antes de qualquer fiscalização da autoridade competente e antes da apresentação da DCTF, está a autora amparada pelo benefício pleiteado.
+Com essas razões, mantém-se inalterada a conclusão quanto à aplicabilidade da denúncia espontânea.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
