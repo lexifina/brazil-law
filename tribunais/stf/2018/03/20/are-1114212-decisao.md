@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO CÍVEL. Ação anulatória. Pensão por morte. Beneficiário instituído em vida pela servidora falecida. Sobrinho da instituidora da pensão. Alegação de ineficácia da LC nº 180/78. Decadência e Prescrição Administrativa. Ocorrência. Vantagem estabelecida há mais de dez anos e que continua sendo paga ao beneficiário. Sentença mantida. Recursos não providos.”
+    O recurso busca fundamento no art. 102, III, a e d, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, e 24, XII, da Constituição Federal.
+    O recurso não deve ser admitido. Dissentir do entendimento firmado pelo Tribunal de origem exigiria o reexame dos fatos e do material probatório constantes dos autos, assim como a análise da legislação infraconstitucional aplicada ao caso, providências vedadas neste momento processual. Nesse sentido, cito os seguintes precedentes: ARE 1.040.087, Rel. Min. Edson Fachin; e ARE 1.057.059, Rel. Min. Gilmar Mendes.
+    Ademais, é incabível o recurso extraordinário com fundamento na alínea d do inciso III do art. 102 da Constituição. Isso porque o recurso, com base nesse dispositivo, depende da demonstração de conflito de competência legislativa entre entes da Federação, sendo inviável seu uso com a simples pretensão de rever interpretação dada pelo Tribunal de origem à norma infraconstitucional. Nesse sentido, vejam-se trechos da ementa do ARE 697.583-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. IMPOSSIBILIDADE. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA AGRAVO IMPROVIDO.
+    […]
+    V A admissão do recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem. VI Agravo regimental improvido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
