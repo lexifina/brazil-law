@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu o recurso extraordinário. A decisão agravada negou seguimento ao apelo extremo amparada nos seguintes fundamentos:
+    “(…)
+    Inviabiliza o prosseguimento da inconformidade o fato e a alegada ofensa ao regramento constitucional não ser frontal e direta, mas reflexa, ou seja, há a necessidade de previamente examinar-se como maltratados dispositivos infraconstitucionais. Com efeito, (...) - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. (ARE 938.041 AgR/ES, Rel. Ministro Celso, DJe de 11-4-2016).
+    Ademais, a atenta leitura do acórdão recorrido e das próprias razões recursais deixa patente que o exame de pretensão implica análise de legislação local (Leis Estaduais n. 14.188/12 e n. 14.189/12 e Leis Complementares Estaduais n. 10.098/94 e n. 13.259/09), o que é incabível em sede de recurso extraordinário, de acordo com a Súmula n. 280, do Supremo Tribunal Federal, segundo a qual Por ofensa a direito local não cabe recurso extraordinário.
+    Por fim, importante referir, quanto ao entendimento de que o adicional de insalubridade está abrangido pelo subsídio, que a revisão da matéria comporta reexame do conjunto fático-probatório, o que não se mostra possível na via do recurso eleito, de acordo com a Súmula n. 279, do Supremo Tribunal Federal, a cujo o teor Para simples reexame de prova não cabe recurso extraordinário (...).”
+    Decido.
+    Esta Suprema Corte firmou o entendimento de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o recurso extraordinário, o que não ocorreu na espécie, uma vez que mantida incólume a motivação anteriormente reproduzida, relativa à incidência da Súmula nº 279 deste Supremo Tribunal Federal.
+    A jurisprudência de ambas as Turmas deste Tribunal é no sentido de obstar o agravo quando, como no caso, não são atacados todos os fundamentos da decisão que obsta o processamento do apelo extraordinário. Nesse sentido: AI nº 488.369/RSAgR, 4/5/04, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04; AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01; e ARE nº 637.373/MS-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/6/11, esse último assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RAZÕES DO RECURSO NÃO ATACAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 287 DO STF. ARTIGO 543 DO CPC. REMESSA DO FEITO AO STJ. DESNECESSIDADE. AGRAVO IMPROVIDO. I O agravo não atacou os fundamentos da decisão que negou seguimento ao recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II É desnecessário aguardar o julgamento do recurso especial pelo STJ quando o extraordinário não possuir condições de admissibilidade. Precedentes. III Agravo regimental improvido”.
+    Ante o exposto, não conheço do agravo. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida no valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 20 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
