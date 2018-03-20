@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. INDÍCIOS DE AUTORIA. INDICAÇÃO PELO DECRETO PRISIONAL. ILEGALIDADE. AUSÊNCIA. NEGATIVA DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. PEDIDO DE EXTENSÃO. INAPLICABILIDADE DO ART. 580 DO CPP. IDENTIDADE FÁTICO-PROCESSUAL. AUSÊNCIA. HABEAS CORPUS DENEGADO.
+1. Tendo o decreto de prisão apontado, de maneira fundamentada, a presença de indícios suficiente de autoria, nos termos do art. 312 do CPP, não há ilegalidade no decreto de prisão preventiva no ponto.
+2. A estreita via do recurso em habeas corpus não comporta aprofundada dilação probatória, o que inviabiliza a análise de tese concernente à negativa de autoria, que será analisada no cerne da ação penal.
+3. Não havendo identidade de situações fático-processuais entre os corréus, não cabe, a teor do art. 580 do CPP, deferir pedido de extensão de benefício obtido por determinado corréu.
+4. Habeas corpus denegado.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, denegar a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus no qual se busca a revogação da prisão preventiva, sob a alegativa de não haver indícios suficientes de autoria. Requer, alternativamente, a extensão dos efeitos de decisão que indeferiu o pedido de decretação de prisão preventiva de dois investigados.
+O acórdão combatido foi assim ementado (fl. 46).
+Habeas Corpus Homicídio qualificado Pretensão de concessão de liberdade provisória, com expedição liminar de alvará de soltura - Impossibilidade.
+Presença dos requisitos da custódia cautelar - Inocorrência de afronta ao devido processo legal - Decisão que decretou a prisão preventiva que se encontra devidamente fundamentada - Réu acusado, em tese, de ter praticado o crime de homicídio qualificado pelo motivo torpe e mediante recurso que dificultou a defesa da vítima - Ausência de afronta ao princípio da presunção de inocência - Estado que detém os meios cabíveis para a manutenção da ordem pública, ainda que em detrimento da liberdade do cidadão, nos casos em que tal medida se mostrar necessária - Inviabilidade da aplicação de medidas cautelares alternativas, por insuficiência, inadequação e desproporcionalidade aos fatos tratados nos autos principais. Impossibilidade de extensão dos fundamentos que deferiram liberdade aos co-invetigados. Ausência de identidade fático-processual.
+Não cabimento, nos estreitos limites desse writ, da análise do mérito da acusação feita ao Paciente, seja quanto à classificação dos fatos que lhe são imputados, seja quanto à apuração da autoria delitiva, bem como quaisquer outras questões que se reservam para a devida apreciação do MM. Juízo competente para o julgamento da ação ou para análise de eventual recurso de apelação - Ordem denegada.
+O paciente, [NOME], teve a prisão temporária convertida em preventiva pela prática do crime tipificado no artigo 121, § 2º, I, e IV, do CP.
+A liminar foi indeferida (fls. 58/61).
+As informações foram prestadas (fls. 67/71).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 89/94).
+Na origem, a ação penal n. 0001319-95.2017.8.26.0587 está em fase de instrução, aguardando o retorno de cartas precatórias expedidas para oitiva de testemunhas, tendo sido designada audiência de instrução para o dia 16/4/2018, conforme informações prestadas pela Vara de origem em 25/1/2018 (fls. 68/69) e informações eletrônicas disponíveis em 9/3/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Quanto ao requisito objetivo da custódia cautelar, o decreto de prisão assim dispôs (fls. 21):
+ .. . A Autoridade Policial representa pela prisão preventiva do indiciado [NOME], qualificado nos autos.
+A capitulação dos autos tipificou o fato como homicídio qualificado pelo motivo fútil e emboscada.
+Há indícios da participação e materialidade, em específico, o depoimento de uma testemunha presencial, que viu os tiros alvejados contra a vítima vir de pessoas que estavam em uma moto, sendo que viu a arma de fogo com uma delas, de uma testemunha que viu os investigados, que residem próximos e trabalharam contemporaneamente na empresa [NOME] e foram demitidos, saírem do bairro em uma moto, bem como a atitude suspeita do investigado Fábio, ao passar pelo PS onde estava a vítima, o relatório de investigação, que aponta que o carro de Fábio e uma moto estavam nas cercanias do local do fato, no horário do delito.
+Há ainda uma testemunha que forneceu o motivo do crime, afirmando que a vítima reclamou que Fábio o estava intimidando para uma promoção no trabalho, mas foi demitido. .. .
+Como se vê, o decreto de prisão demonstrou, de maneira fundamentada, a presença de indícios suficiente de autoria, nos termos do art. 312 do CPP, não havendo ilegalidade no ponto.
+Cumpre observar ser descabida a pretensão de análise acerca da autoria do delito, ao passo que demandaria o revolvimento do conteúdo fático-probatório dos autos, incompatível com a via eleita, devendo as alegações serem formuladas e comprovadas no cerne da ação penal de ampla cognição.
+Posto isso, no que tange a falta de tratamento isonômico do Tribunal de origem entre o paciente e a corré, sabe-se que o pedido de extensão envolve a aferição de que o corréu se encontre na mesma situação fático-processual daquele já beneficiado pela concessão da ordem no habeas corpus citado.
+Ao que se tem, não se verifica a ocorrência de ilegalidade, pois, assim como constou do acórdão recorrido, não restou evidenciada a identidade fático-processual entre eles (fl. 52), constando dos autos que a prisão preventiva dos investigados Gláucio e Paulo foi indeferida tendo em vista que transcorreu o prazo de 60 dias de prisão temporária, sem que haja elementos de convicção suficientes ao encerramento do inquérito e ao oferecimento de denúncia, tampouco indícios concretos que indiquem que a liberdade dos acusados colocará em risco a ordem pública, a ordem econômica ou a aplicação da lei penal (fl. 40), situação distinta da referente ao paciente, em que o decreto prisional apontou a ocorrência indícios de autoria para a decretação da custódia.
+Ressalte-se que a mera qualidade de corréu do paciente na ação penal não lhe garante a aplicação do art. 580 do Código de Processo Penal, eis que, nos termos do mencionado dispositivo, só aproveita ao corréu a decisão do recurso que não fundado em circunstâncias de caráter exclusivamente pessoal (PExt no HC 352.425/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 28/3/2016).
+Deste modo, não restou constatada e comprovada ilegalidade no decreto de preventiva.
+Ante o exposto, voto por denegar o habeas corpus.
