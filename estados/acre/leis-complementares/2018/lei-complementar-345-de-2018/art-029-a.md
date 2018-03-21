@@ -1,0 +1,1 @@
+Art. 29-A . O Poder Executivo regulamentará a presente lei no prazo de noventa dias, a contar da data de sua publicação, em especial no que diz respeito ao disposto no seu art. 9º, § 3º. ( Incluído pela Lei Complementar nº 346, de 17/04/2018 )
