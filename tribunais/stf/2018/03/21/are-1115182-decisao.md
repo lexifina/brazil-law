@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão da Primeira Turma Recursal da Fazenda Pública do Juizado Especial Cível do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+    “RECURSO INOMINADO. MUNICÍPIO DE ARROIO DE TIGRE. SERVIDOR PÚBLICO. APOSENTADORIA VOLUNTÁRIA PELO REGIME DE PREVIDÊNCIA SOCIAL – INSS. EXONERAÇÃO. REITEGRAÇÃO. 1. Trata-se de ação ordinária em que a parte autora pretende sua reintegração ao cargo que ocupava no Município, pois exonerada ilegalmente, julgada procedente na origem. 2. Sentença de procedência confirmada por seus próprios fundamentos, nos moldes do artigo 46, última figura, da Lei nº 9.099/95.
+    RECURSO INOMINADO DESPROVIDO, POR MAIORIA. VENCIDA A DRA. THAÍS COUTINHO DE OLIVEIRA.”
+    No apelo extremo, interposto com amparo no art. 102, III, Constituição Federal, a recorrente sustenta que o julgado ofendeu os seguintes dispositivos constitucionais: 37, caput e § 10.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente.
+    Em relação à ofensa ao art. 37, caput, da CF/88, aplica-se, neste caso, a restrição da Súmula 636/STF: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Ademais, o entendimento da instância de origem está em harmonia com a orientação firmada pela jurisprudência do STF no sentido de que é possível a acumulação de proventos decorrentes de aposentadoria no Regime Geral de Previdenciária Social com remuneração de cargo público:
+    “RECLAMAÇÃO. ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO. DESCUMPRIMENTO DA DECISÃO PROFERIDA NO JULGAMENTO DAS AÇÕES DIRETAS DE INCONSTITUCIONALIDADE 1.721/DF E 1.770/DF. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO. I O Supremo Tribunal Federal, por ocasião do julgamento da ADI 1.770/DF, Rel. Min. Joaquim Barbosa, e da ADI 1.721/DF, Rel. Min. Ayres Britto, declarou inconstitucionais o § 1º e o § 2º do art. 453 da CLT, sob o fundamento de que a mera concessão da aposentadoria voluntária ao trabalhador não tem por efeito extinguir, instantânea e automaticamente, o seu vínculo de emprego. II A contrario sensu, pode-se afirmar, então, que é permitido ao empregado público requerer a aposentadoria voluntária no Regime Geral de Previdenciária Social e continuar trabalhando e, consequentemente, recebendo a respectiva remuneração. Isso porque em tais situações não há acumulação vedada pela Constituição Federal. III Agravo regimental a que se nega provimento.” (Rcl 9762-AgR, Plenário, Rel. Min. RICARDO LEWANDOWSKI, DJe 31/5/2013)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POSSIBILIDADE DE ACUMULAÇÃO DE PROVENTOS DECORRENTES DE APOSENTADORIA NO REGIME GERAL DE PREVIDÊNCIA SOCIAL COM REMUNERAÇÃO DE CARGO PÚBLICO. PRECEDENTES. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA DECISÃO AGRAVADA, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 914.547-AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 29/8/2016)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (CPC/2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
