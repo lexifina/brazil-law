@@ -1,0 +1,25 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, proposta pelo Sindicato dos Empregados nas Empresas Distribuidoras de Veículos Automotores do Estado do Pará (SEMDIPAV), em face de decisão proferida pela Juíza do Trabalho da 4ª Vara do Trabalho de Marabá, nos autos do Processo n. 0010615-84.2015.5.08.0128.
+    Na petição inicial, a parte reclamante sustenta que a decisão reclamada ofendeu a autoridade desta Corte, consubstanciada na Súmula Vinculante 47.
+    Argumenta que os honorários advocatícios sucumbenciais foram deixados por último, “sendo preteridos pelos depósitos fundiários, contribuições sociais a órgão públicos e pagamento de custas processuais”, violando de maneira direta a Súmula Vinculante nº 47. (eDOC 1, p. 4 e 7)
+    Alega, ainda, que a decisão atacada ofendeu de forma direta o exercício da advocacia brasileira. (eDOC 1, p. 7)
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    No caso, observo que a autoridade reclamada assentou a ordem do pagamento da execução. Nesse sentido, extrai-se o seguinte trecho da decisão exarada pelo Juízo reclamado:
+    “3 - A liberação dos valores aos trabalhadores se dará por meio de rateio proporcional ao montante devido a cada um dos sete substituídos. O setor de cálculos deverá elaborar planilha eletrônica para controlar este rateio, bem como anexá-la aos autos antes de cada pagamento. Fica autorizada, desde já, a utilização dos depósitos já realizados (depósitos recusais e entrada do parcelamento) para pagamento, primeiramente, dos valores líquidos devidos aos reclamantes. Caso o montante já depositado não seja suficiente para pagar todos os valores líquidos devidos, a secretaria deverá aguardar o pagamento das demais parcelas do parcelamento para dar sequência aos rateios. Fica estabelecida a seguinte ordem para o pagamento dos créditos, considerando os privilégios legais: 1º - VALORES LÍQUIDOS DOS RECLAMANTES; 2º - DEPÓSITOS DE FGTS DOS RECLAMANTES; 3º - RECOLHIMENTO DAS CONTRIBUIÇÕES SOCIAIS; 4º - RECOLHIMENTO DAS CUSTAS PROCESSUAIS; 5º - HONORÁRIOS DO SINDICATO.” (eDOC 15, p. 1)
+    Por outro lado, a Súmula Vinculante 47 trata da possibilidade de fracionamento de precatórios para fins de execução autônoma de honorários de sucumbência. Eis o seu teor:
+    “Os honorários advocatícios incluídos na condenação ou destacados do montante principal devido ao credor consubstanciam verba de natureza alimentar cuja satisfação ocorrerá com a expedição de precatório ou requisição de pequeno valor, observada ordem especial restrita aos créditos dessa natureza”.
+    Nesses termos, a pretensão de recebimento dos honorários advocatícios antes do pagamento dos demais créditos é matéria que não possui aderência estrita com o entendimento consubstanciado na Súmula Vinculante 47.
+    Não se verifica, portanto, similitude entre o decidido no ato reclamado e o assentado por esta Corte na Súmula Vinculante 47, o que acarreta a inadmissibilidade da ação, por ausência de pressuposto de cabimento necessário.
+    Nesse sentido, cito precedentes de ambas as Turmas desta Corte:
+    “DIREITO PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. SÚMULA vinculante 47. AUSÊNCIA DE ADERÊNCIA ESTRITA. LEVANTAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. INDISPONIBILIDADE DE BENS. 1. Não há aderência estrita com a súmula vinculante 47 decisão de origem que indefere o levantamento de honorários advocatícios com base na possibilidade de os bens do beneficiário encontrarem-se indisponíveis. 2. Agravo regimental ao qual se nega provimento, com aplicação da multa do art. 1.021, §§ 4º e 5º do CPC/2015”. (Rcl 23132 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 9.11.2016)
+    “DIREITO PROCESSUAL CIVIL. RECLAMAÇÃO. HONORÁRIOS ADVOCATÍCIOS. SÚMULA vinculante 47. 1. Não há estrita identidade entre a decisão reclamada e a súmula vinculante invocada. 2. Agravo regimental desprovido”. (Rcl 21922 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 25.2.2016)
+    Finalmente, registre-se que o Código de Processo Civil estabelece determinação de citação do beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação (art. 989, III).
+    Consoante o art. 319, II, c/c o art. 321 do CPC, é ônus da reclamante indicar o endereço atualizado do beneficiário da decisão impugnada, sob pena de indeferimento da inicial.
+    A citação é dispensável em casos, como o presente, de improcedência liminar do pedido. Entretanto, na eventualidade de interposição de recurso, deverá a reclamante fornecer o endereço da parte beneficiária do ato impugnado nesta sede reclamatória, para fins de observância do art. 332, § 4º, do Código de Processo Civil.
+    Ante o exposto, nego seguimento à reclamação e julgo prejudicado o pedido liminar. (art. 21, § 1º, do RISTF)
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
