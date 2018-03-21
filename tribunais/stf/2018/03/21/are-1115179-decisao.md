@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, assim ementado (eDOC 7, p.1):
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO. MUNICÍPIO DE ARROIO DO TIGRE. APOSENTADORIA VOLUNTÁRIA PELO REGIME DE PREVIDÊNCIA SOCIAL – INSS. EXONERAÇÃO. REINTEGRAÇÃO NO CARGO.
+    Conforme orientação jurisprudencial reiterada, a obtenção de aposentadoria pelo regime geral de previdência social não implica, necessariamente, no rompimento do vínculo do servidor público estável com a Administração Pública, devendo ser reintegrada a autora ao seu cargo, assegurando o pagamento de indenização correspondente aos vencimentos e reflexos devidos no período em que ficou indevidamente afastada. Sentença mantida por seus próprios fundamentos.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 37, § 10, da Constituição Federal.
+    Nas razões recursais, sustenta que, em suma, que “ao requerer a aposentadoria junto à Previdência Social o servidor fez a sua opção, desta forma, rescindiu seu vínculo com a Administração Pública, motivo pelo que resta impossibilitada a sua permanência na função pública.” (eDOC 8, p. 13)
+    A 1ª Vice-Presidência do TJ/RS inadmitiu o recurso assentando a inexistência de condições de admissão (eDOC 10).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O entendimento adotado pelo acórdão a quo está em harmonia com a jurisprudência deste Supremo Tribunal, no sentido de que, à luz do § 10 do art. 37 da Carta da República, é possível a acumulação de proventos decorrentes de aposentadoria no Regime Geral de Previdenciária Social com remuneração de cargo público.
+    Confiram-se, a propósito, os seguintes acórdãos:
+    “RECLAMAÇÃO. ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO. DESCUMPRIMENTO DA DECISÃO PROFERIDA NO JULGAMENTO DAS AÇÕES DIRETAS DE INCONSTITUCIONALIDADE 1.721/DF E 1.770/DF. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO. I – O Supremo Tribunal Federal, por ocasião do julgamento da ADI 1.770/DF, Rel. Min. Joaquim Barbosa, e da ADI 1.721/DF, Rel. Min. Ayres Britto, declarou inconstitucionais o § 1º e o § 2º do art. 453 da CLT, sob o fundamento de que a mera concessão da aposentadoria voluntária ao trabalhador não tem por efeito extinguir, instantânea e automaticamente, o seu vínculo de emprego. II – A contrario sensu, pode-se afirmar, então, que é permitido ao empregado público requerer a aposentadoria voluntária no Regime Geral de Previdenciária Social e continuar trabalhando e, consequentemente, recebendo a respectiva remuneração. Isso porque em tais situações não há acumulação vedada pela Constituição Federal. III – Agravo regimental a que se nega provimento” (Rcl n. 9762-AgR, Plenário, Relator o Ministro Ricardo Lewandowski, DJe 31.5.2013).
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POSSIBILIDADE DE ACUMULAÇÃO DE PROVENTOS DECORRENTES DE APOSENTADORIA NO REGIME GERAL DE PREVIDÊNCIA SOCIAL COM REMUNERAÇÃO DE CARGO PÚBLICO. PRECEDENTES. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA DECISÃO AGRAVADA, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 914547 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.8.2016)
+    Confiram-se, ainda: ARE 796044 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 13.6.2014, bem como as seguintes decisões monocráticas: RE 902344/SC, Rel. Min. Dias Toffoli, DJe 10.8.2017; e ARE 792681, Rel. Min. Rosa Weber, DJe 25.9.2015.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, b, do Código de Processo Civil e art. 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
