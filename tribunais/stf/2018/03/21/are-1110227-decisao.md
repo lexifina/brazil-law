@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão da 2ª Turma Recursal dos Juizados Especiais Federais do Rio Grande do Sul em que se discute o preenchimento dos requisitos para o reconhecimento do direito à obtenção do auxílio-reclusão (eDOC 55).
+    Os embargos de declaração foram rejeitados (eDOC 62).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se violação aos arts. 5º, I; 195, II; e 201, I, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “o r. decisum não observou os preceitos fundamentais da Seguridade Social ao desprover o pedido da parte autora por entender não preenchido o requisito financeiro, eis que teria infimamente ultrapassado o limite estabelecido.” (eDOC 80, p. 4).
+    É o relatório. Decido.
+    O Tribunal de origem não se afastou da tese na qual esta Corte, no julgamento do RE 587.365, Rel. Min. Ricardo Lewandowski, entendeu pela existência de repercussão geral quanto à matéria versada nestes autos (Tema 89) e ao julgar o mérito concluiu:
+    “PREVIDENCIÁRIO. CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. AUXÍLIO-RECLUSÃO. ART. 201, IV, DA CONSTITUIÇÃO DA REPÚBLICA. LIMITAÇÃO DO UNIVERSO DOS CONTEMPLADOS PELO AUXÍLIO-RECLUSÃO. BENEFÍCIO RESTRITO AOS SEGURADOS PRESOS DE BAIXA RENDA. RESTRIÇÃO INTRODUZIDA PELA EC 20/1998. SELETIVIDADE FUNDADA NA RENDA DO SEGURADO PRESO. RECURSO EXTRAORDINÁRIO PROVIDO. I - Segundo decorre do art. 201, IV, da Constituição, a renda do segurado preso é que a deve ser utilizada como parâmetro para a concessão do benefício e não a de seus dependentes. II - Tal compreensão se extrai da redação dada ao referido dispositivo pela EC 20/1998, que restringiu o universo daqueles alcançados pelo auxílio-reclusão, a qual adotou o critério da seletividade para apurar a efetiva necessidade dos beneficiários. III - Diante disso, o art. 116 do Decreto 3.048/1999 não padece do vício da inconstitucionalidade. IV - Recurso extraordinário conhecido e provido.”
+    Ademais, no que sobeja o recurso extraordinário, constato que para dissentir do acórdão recorrido quanto aos critérios utilizados pelo legislador para definição do valor da renda do segurado recluso, demandaria o reexame de matéria infraconstitucional, o que inviabiliza o processamento do extraordinário.
+    Além disso, esta Corte, no julgamento do ARE 821.296, da Rel. Min. Roberto Barroso, entendeu pela inexistência de repercussão geral na controvérsia acerca da análise do preenchimento dos requisitos para concessão de benefício previdenciário (Tema 766). Na oportunidade, a ementa restou assim redigida:
+    “PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. VERIFICAÇÃO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO. 1. Hipótese em que o acórdão recorrido consigna a ausência dos requisitos necessários à concessão do auxílio-doença. 2. Discussão que envolve matéria infraconstitucional, além de exigir o revolvimento da matéria fática (Súmula 279/STF). 3. Inexistência de repercussão geral.”
+    Ante o exposto, nego provimento ao agravo nos termos do artigo 21, § 1º do RISTF.
+    Incabível a aplicação do disposto no artigo 85, § 11, CPC, porquanto não houve fixação de verba honorária nas instâncias de origem.
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
