@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL - REMESSA NECESSÁRIA - MANDADO DE SEGURANÇA - MUNICÍPIO DE PARÁ DE MINAS - HORÁRIO DE FUNCIONAMENTO DE FARMÁCIAS E DROGARIAS - ART. 30, I, DA CR/88 - COMPETÊNCIA LEGISLATIVA MUNICIPAL - AUSÊNCIA DE OFENSA AOS PRINCÍPIOS DA LIVRE CONCORRÊNCIA E LIVRE INICIATIVA - ATO LEGAL - DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO - SEGURANÇA DENEGADA - SENTENÇA REFORMADA”. (eDOC 1, p. 242)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º; 6º; e 170, IV, V, e parágrafo único, do texto constitucional.
+    Nas razões recursais, alega-se que a legislação municipal que regula o regime de plantão das farmácias não atende às diretrizes constitucionais, pois restringe o número de estabelecimentos que pode funcionar em plantão. Isso prejudicaria o direito à vida e à saúde da população, bem como os princípios da livre concorrência, da livre iniciativa e da defesa do consumidor. (eDOC 1, p. 290)
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O acórdão recorrido está de acordo com a jurisprudência desta Corte, que se firmou no sentido de pertencer aos Municípios a identificação do interesse local para o funcionamento de farmácias e drogarias, independentemente de quais sejam os horários fixados. Nesse sentido, confiram-se os seguintes precedentes:
+    “Fixação de horário de funcionamento para farmácias no Município. Multa administrativa vinculada a salário mínimo. - Em casos análogos ao presente, ambas as Turmas desta Corte (assim a título exemplificativo, nos RREE 199.520, 175.901 e 174.645) firmaram entendimento no sentido que assim vem sintetizado pela ementa do RE 199.520: "Fixação de horário de funcionamento para farmácia no Município. Lei 8.794/78 do Município de São Paulo. - Matéria de competência do Município. Improcedência das alegações de violação aos princípios constitucionais da isonomia, da livre concorrência, da defesa do consumidor, da liberdade de trabalho e da busca ao pleno emprego. Precedente desta Corte. Recurso extraordinário conhecido, mas não provido". - Dessa orientação não divergiu o acórdão recorrido. (...)”. (RE 237965, rel. Min. Moreira Alves, Tribunal Pleno, DJ 31.3.2000)
+    “Agravo regimental no agravo de instrumento. Farmácia. Horário de funcionamento. Competência municipal. Precedentes. 1. A jurisprudência desta Corte está consolidada no sentido de que os Municípios são competentes para fixar o horário de funcionamento de farmácias e drogarias, o que não implica em violação aos princípios constitucionais da isonomia, da livre iniciativa, da livre concorrência e da defesa do consumidor. 2. Agravo regimental não provido.” (AI-AgR 629.125, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.10.2011)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
