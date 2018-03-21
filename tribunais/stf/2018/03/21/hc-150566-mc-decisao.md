@@ -1,0 +1,22 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – AUSÊNCIA DE PREJUÍZO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Terceira Vara Federal de Foz do Iguaçu, Seção Judiciária do Paraná, no processo nº 5002100-38.2017.4.04.7002, determinou a prisão preventiva da paciente e de outras 14 pessoas, ocorrida em 18 de maio de 2017, ante o suposto cometimento das infrações previstas nos artigos 157, § 2º, incisos I, II e V (roubo qualificado pelo emprego de arma de fogo, por concurso de pessoas e por restringir a liberdade da vítima), e 288 (associação criminosa), do Código Penal. Destacou tratar-se de organização criminosa armada voltada para a prática de delitos contra o patrimônio, notadamente explosão de caixas eletrônicos e roubo de automóveis. Consignou indispensável a custódia para garantir a ordem pública e a aplicação da lei penal, aludindo à atuação delitiva da paciente como responsável por repassar informações, sobre possíveis vítimas, aos integrantes do grupo. Pedido de revogação da preventiva não foi acolhido.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 422.668/PR, o qual teve o pedido liminar indeferido pelo Relator.
+    O impetrante diz ser o caso de superação do óbice descrito no verbete nº 691 da Súmula do Supremo. Aduz o excesso de prazo da constrição provisória, a perdurar por mais de 170 dias. Ressalta as condições pessoais favoráveis da paciente – primariedade, bons antecedentes, trabalho lícito e endereço fixo. Articula com a ofensa ao artigo 580 do Código de Processo Penal, reportando-se ao afastamento da prisão da corré Elizângela Santos Hammoud, também apontada como informante da organização criminosa.
+    Requer, no campo precário e efêmero, a expedição de alvará de soltura. No mérito, pretende a confirmação da providência.
+    Consulta ao sítio do Tribunal Regional Federal da 4ª Região, realizada em 13 de março de 2018, revelou que o processo-crime nº 5005355-04.2017.4.04.7002 encontra-se na fase do artigo 402 do Código de Processo Penal.
+    A etapa é de apreciação da medida acauteladora.
+    2. O envolvimento de grupo criminoso voltado ao cometimento de delitos contra o patrimônio, com emprego de armas de fogo e restrição de liberdade da vítima, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, presentes os fortes indícios de envolvimento da paciente, ao que tudo indica, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o ato atacado. A inversão da ordem do processo-crime no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender foi justificada, atendendo-se ao figurino legal.
+    Ocorre que a paciente está presa, sem culpa formada, há 10 meses e 2 dias. Surge o excesso de prazo considerada a constrição cautelar e o estágio do processo-crime. A preventiva deve ser balizada no tempo. Privar da liberdade, por prazo desproporcional, pessoa cuja responsabilidade penal não foi declarada em definitivo viola o princípio da não culpabilidade. Nada, absolutamente nada, justifica tal fato.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso a paciente não se encontre recolhida por motivo diverso da prisão preventiva retratada no processo nº 5002100-38.2017.4.04.7002, da Terceira Vara Federal de Foz do Iguaçu, Seção Judiciária do Paraná. Advirtam-na da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+     4. Deixo de estender os efeitos da medida acauteladora aos corréus, por inexistir comprovação, no processo, do cumprimento dos mandados, ou da ausência de eventual revogação da custódia de algum deles, mostrando-se impossível verificar as situações individualizadas. Inviabilizada está a observância do que disposto no artigo 580 do Código de Processo Penal.
+    5. O curso desta impetração não prejudica o habeas corpus nº 422.668/PR, em trâmite no Superior Tribunal de Justiça. Com as homenagens merecidas, remetam cópia desta decisão ao relator, ministro Joel Ilan Paciornik.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 21 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
