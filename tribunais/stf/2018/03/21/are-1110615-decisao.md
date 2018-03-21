@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Turma Recursal do Estado de Sergipe, (eDOC 2, pp. 35/36):
+    “AGRAVO REGIMENTAL. LICENÇA PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. POSSIBILIDADE. DESNECESSIDADE DE REQUERIMENTO ADMINISTRATIVO. PRECEDENTES DO STF E DESTE COLEGIADO. AUSÊNCIA DE ARGUMENTOS NOVOS A ENSEJAR A MODIFICAÇÃO DO JULGADO COMBATIDO. DECISÃO MONOCRÁTICA MANTIDA. RECURSO CONHECIDO E DESPROVO”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 37, § 6º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “a ausência de gozo do direito não se deu no interesse da administração, não se deu por vedação ou indeferimento do ora Recorrente, mas em razão do desinteresse do próprio servidor”, de modo que “essa circunstância afasta por completo a responsabilidade objetiva do Estado de Sergipe” (eDOC 2, p. 53).
+    É o relatório. Decido.
+    A matéria discutida nestes autos já foi objeto de análise por esta Corte. Ao apreciar o RE 721.001 (Tema 635), de relatoria do Min. Gilmar Mendes, DJe 7.3.2013, o Supremo reconheceu a repercussão geral para reafirmar a jurisprudência no sentido de que “é assegurada ao servidor público a conversão de férias não gozadas ou de outros direitos de natureza remuneratória [entre eles a licença prêmio] em indenização pecuniária por aqueles que não mais possam delas usufruir, seja por conta do rompimento do vínculo com a Administração, seja pela inatividade, em virtude da vedação ao enriquecimento sem causa da Administração”. O acórdão restou assim ementado:
+    “Recurso extraordinário com agravo. 2. Administrativo. Servidor Público. 3. Conversão de férias não gozadas – bem como outros direitos de natureza remuneratória – em indenização pecuniária, por aqueles que não mais podem delas usufruir. Possibilidade. Vedação do enriquecimento sem causa da Administração. 4. Repercussão Geral reconhecida para reafirmar a jurisprudência desta Corte.”
+    Foram opostos embargos de declaração. Ao constatar a ocorrência de erro material no acórdão embargado, esta Corte acolheu os embargos de declaração com efeito modificativo, contudo, manteve o decidido quanto ao reconhecimento da repercussão geral da questão constitucional e à situação dos inativos: Confira-se, a propósito, o seguinte trecho do voto condutor do julgamento:
+    “... acolho os embargos de declaração com efeito modificativo para, reconhecida a repercussão geral da questão constitucional e definida a situação dos inativos, permitir o processamento do recurso extraordinário e apreciar a situação dos servidores ativos, facultando às partes o direito à sustentação na tribuna, quando da apreciação do mérito pelo Plenário.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
