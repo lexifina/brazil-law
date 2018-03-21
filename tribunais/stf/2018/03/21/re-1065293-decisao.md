@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-DOC. 128, p. 1-2):
+    “PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. SEGURADO ESPECIAL. BOIA-FRIA. REQUISITOS NÃO CUMPRIDOS. PROVA MATERIAL. NECESSIDADE DE PROVA EM NOME PRÓPRIO EM RAZÃO DO EXERCÍCIO DE VÍNCULO URBANO PELO CÔNJUGE. AUSÊNCIA DE PROVA MATERIAL APTA A COMPROVAR O EXERCÍCIO DA ATIVIDADE RURAL. CARÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO DO PROCESSO. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO.
+    1. A comprovação do exercício de atividade rural pode ser efetuada mediante início de prova material, complementada por prova testemunhal idônea.
+    2. A utilização de prova documental em nome de membro do grupo familiar fica prejudicada quando esse membro passa a exercer atividade urbana, descaracterizando com isso sua vocação rural.
+    3. Considerando o julgamento do REsp nº 1.352.721/SP pelo STJ, em regime de Recurso Repetitivo, a ausência de conteúdo probatório eficaz a comprovar a qualidade de segurado especial deve ensejar a extinção do feito, sem julgamento de mérito, por carência de pressuposto de constituição e desenvolvimento válido do processo”.
+    Os embargos de declaração foram rejeitados (eDOC.).
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, caput, XXXV, XXXVI, LIV e LV, e 97, da Constituição Federal.
+    Nas razões recursais, sustenta-se que o Tribunal a quo, ao extinguir o processo por insuficiência de provas e sem fazer coisa julgada material, violou as garantias constitucionais em referência, além de ter decidido sem qualquer debate nos autos, o que caracterizou elemento surpresa, rechaçado pela nova ordem processual em vigor.
+    Argumenta-se, ainda, que o acórdão recorrido afastou normas positivas, quais sejam, os arts. 487, I, 502 e 503 do Código de Processo Civil, ensejando uma decisão de declaração de inconstitucionalidade velada, sem a observância da reserva de plenário exigida pela ordem constitucional.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    As teses encampadas pela parte recorrente já foram amplamente debatidas por esta Corte em oportunidades em que se concluiu não haver repercussão geral de tais temas, por tratarem de normas infraconstitucionais; portanto, se ofensa à Constituição houvesse, seria meramente por via reflexa.
+    Primeiramente, em relação à discussão sobre eventual ofensa ao art. 5º, XXXVI, LIV e LV, da Constituição Federal, o Supremo Tribunal Federal já decidiu no julgamento do ARE 748.371-RG, rel. Min. Gilmar Mendes, DJe 1º.08.2013, sob a sistemática da repercussão geral, que não há ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (Tema 660).
+    Do mesmo modo, quanto à alegada violação ao art. 5º, XXXV, da Carta Magna, esta Corte reconheceu não haver repercussão geral da questão (Tema 895 - “Ofensa ao princípio da inafastabilidade de jurisdição na hipótese em que há óbice processual intransponível ao julgamento de mérito”). Eis a ementa do RE 956.302-RG, de minha relatoria, Plenário Virtual, DJe 16.06.2016:
+    “PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.”
+    Por fim, no tocante à apontada violação à reserva de plenário, constata-se que o Tribunal de origem, mediante ponderação entre os valores contidos na legislação de regência e nos princípios constitucionais evocados, atuou estritamente nos limites de sua competência constitucional, o que não configura violação à norma do art. 97 da Constituição Federal.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, no tocante à aplicação dos Temas 660 e 895 (arts. 1.036 do CPC e 328 do RISTF), e nego seguimento ao recurso quanto à questão remanescente (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
