@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 85):
+    “AGRAVO INTERNO — Decisão monocrática — Entendimento do art. 557, caput, segunda parte e § 1.º-A, do CPC — Possibilidade, Independentemente de outros pressupostos — Cabível ao relator negar provimento, de forma monocrática, a recurso que se apresentar em confronto com jurisprudência dominante do mesmo Tribunal ou de Tribunal Superior, ante o disposto no art. 557, caput, segunda parte do Cód. Proc. Civil, independentemente de ser manifestamente inadmissível, improcedente ou prejudicado, pressupostos distintos, contidos na primeira parte do artigo de lei (art. 557, caput, segunda parte, do CPC)”.
+    Dessa decisão, não se interpôs embargos declaratórios.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, e “d”, do permissivo constitucional, aponta-se ofensa aos artigos 5º, LV; 22, I e: XII, 24 e 37 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrária, motivo pelo qual o acórdão recorrido preteriu a aplicação da Lei Federal 9.717/1999 em relação à Lei Estadual 452/1974 e Lei Estadual 10.177/1998 em detrimento da Lei Federal 10.406/2002 (Código Civil).
+    A Presidência da Seção de Direito Público do TJ/SP, quanto à alínea “a”, inadmitiu o recurso por entender que, exceto o artigo 24, não houve prequestionamento da matéria, incidindo, no caso, a Súmula 282, bem como as Súmulas 279 e 280 do STF. Quanto à alínea “d”, entendeu não haver a Corte de origem homenageado a lei local em face da lei federal porquanto em nenhum momento, se enfrentou tal situação.
+    É o relatório. Decido.
+    O Tribunal de origem negou ao agravo interno, mantendo a sentença, sob os seguintes fundamentos:
+    “Extrai-se, portanto, não se aplica, aos pensionistas dos militares dos Estados, a Lei Federal n° 9.717/ 1998, a qual dispõe sobre regras gerais dos regimes próprios de previdência social dos servidores, ante a existência da Lei Estadual n'452/1974.
+    A Lei Estadual n° 452, de 02 de outubro de 1974, alterada pela Lei Estadual n° 1.069, de 17 de setembro de 1976, estabeleceu os regimes de pensão e dispôs: Artigo
+    8.° - São beneficiários obrigatórios:
+    III - as filhas solteiras, Posteriormente, adveio a Lei Complementar n° 1.013, de 06 de julho de 2007, que alterou expressamente a Lei n° 452/74.
+    (…) Desta forma, a Lei n° 452/74, estabelecia o beneficio a filhas solteiras sem maiores restrições, pois a alteração legislativa prevista na Lei n° 1.013/2007 restringia a concessão à legislação do regime geral da previdência social.
+    No caso vertente, o instituidor da pensão, policial militar, faleceu em 03.01.2001; portanto, a apelada tem direito à permanência do recebimento de sua pensão, em conformidade com a Lei n° 452/74, pois o beneficio deve ser regido pela lei em vigor ao tempo do óbito do instituidor da pensão (fls. 14).
+    Esse o entendimento preconizado na Súmula 340 do STJ”.
+    Sendo assim, constata-se que eventual divergência em relação ao entendimento adotado pelo acórdão impugnado demandaria o exame da legislação local (Leis Estaduais 452/1974, 1.069 e 10.177/1998) e a incursão nos fatos e provas dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 280 e 279 do STF.
+    Na mesma linha, observa-se que o Tribunal de origem assentou seu entendimento também com base em norma infraconstitucional (Lei Federal nº 9.784/1999 e Decreto nº 20.910/32), o que do mesmo modo inviabiliza o processamento do apelo extremo, por caracterizar eventual ofensa reflexa ao texto constitucional.
+     Sobre o tema:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Min. Rel. Rosa Weber, Primeira Turma, DJe 11.06.2015)
+    Especificamente sobre as referidas leis, cito os precedentes: ARE 967.724, Rel. Min. Celso de Mello, DJe 29.06.2011; ARE 964.122, Rel. Min. Roberto Barroso, DJe 09.06.2016.
+    Ademais, o Supremo Tribunal Federal, no julgamento do RE 610.220, de relatoria da Ministra Ellen Gracie, concluiu pela inexistência de repercussão geral quanto ao mérito da controvérsia (Tema 271). Confira-se a ementa do julgado:
+    ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO À PENSÃO PARA FILHA SOLTEIRA MAIOR DE 21 ANOS. LEI ESTADUAL 7.672/82 DO RIO GRANDE DO SUL. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    Por fim, ressalta-se que o acórdão recorrido não julgou lei local em face da Constituição Federal. Tampouco julgou válida lei local contestada em face de lei federal, o que não enseja a interposição do apelo extremo com base nas alíneas “c” e “d” do permissivo constitucional.
+    Ante o exposto, nego provimento ao agravo, nos termos dos artigo 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
