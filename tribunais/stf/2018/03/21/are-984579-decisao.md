@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 22, I, 37, caput, I, II e XIX, 114, I, § 2º, e 173, § 1º, II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido da competência da Justiça comum para o julgamento da causa e da necessidade de previsão em lei para a validade da exigência do exame psicotécnico em concurso, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO DE SECRETÁRIO DE ESTADO. COMPETÊNCIA DA JUSTIÇA COMUM. NECESSIDADE DE OBSERVÂNCIA DA AUTORIDADE COATORA. CONCURSO PÚBLICO. CARGO OU EMPREGO PÚBLICO. EXAME PSICOTÉCNICO. PREVISÃO EM LEI. CRITÉRIOS OBJETIVOS. NECESSIDADE. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO NO AI 758.533-QO-RG. REAFIRMAÇÃO DA JURISPRUDÊNCIA. PRECEDENTES. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (ARE 963.756-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 07.02.2018)
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°).2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 758.533-QO-RG, Rel. Min. Gilmar Mendes, Repercussão Geral – Mérito, DJe 13.8.2010)
+    “RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E CONSTITUCIONAL. CONCURSO PÚBLICO. MANDADO DE SEGURANÇA. SOCIEDADE DE ECONOMIA MISTA. AUTORIDADE FEDERAL. COMPETÊNCIA. JUSTIÇA FEDERAL. RECURSO EXTRAORDINÁRIO DESPROVIDO. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMADA A JURISPRUDÊNCIA DOMINANTE SOBRE A MATÉRIA.” (RE 726.035-RG, Rel. Min. Luiz Fux, Repercussão Geral – Mérito, DJe 05.5.2014 )
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministra Rosa Weber
+Relatora
