@@ -1,0 +1,12 @@
+Decisão
+    Trata-se de Agravo contra decisão da instância de origem que, aplicando precedente desta CORTE formado sob a sistemática da repercussão geral (RE 855.178, Min. LUIZ FUX, Tema 793), julgou, no ponto, prejudicado o Recurso Extraordinário e, quanto às demais questões, negou seguimento ao apelo haja vista a necessidade de análise de matéria infraconstitucional.
+    É o relatório. Decido.
+    A jurisprudência desta CORTE firmou entendimento pela inadmissibilidade de Agravo para o SUPREMO TRIBUNAL FEDERAL com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o Recurso Extraordinário, seja sobrestando-o até a formação de precedente pela Suprema Corte, pois, como destacado pelo Decano de nosso SUPREMO TRIBUNAL FEDERAL, MIN. CELSO DE MELLO, “se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta Suprema Corte, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada” (RE 1.023.231/PR, DJe de 21/2/2017).
+    Dessa forma, não existe, em relação à parte da decisão do Juízo de origem que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso para esta CORTE (ARE 1.010.560-AgR, Rel. Min. CÁRMEN LÚCIA (Presidente), Tribunal Pleno, DJe de 24/5/2017).
+    No que remanesce, em relação ao fornecimento de medicamento não registrado pela ANVISA, o Plenário do Supremo Tribunal Federal, no RE 657.718 (Rel. Min. MARCO AURÉLIO, Tema 500), examinou a repercussão geral das questões constitucionais debatidas no ponto.
+    Diante do exposto, quanto ao fornecimento de medicamento não registrado pela ANVISA, com fundamento no art. 1.036 e seguintes do Código de Processo Civil de 2015 e no art. 328, parágrafo único, do Regimento Interno do STF, determino a DEVOLUÇÃO dos autos ao Juízo de origem para que se aguarde a decisão do Supremo no Tema 500 da repercussão geral; e, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO quanto às demais questões.
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
