@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. FERIADO LOCAL. RECURSO NÃO PROVIDO.
+1. Segundo o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, (julgado em 20/11/2017), nos recursos protocolados na vigência do novo Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+2. Acontece que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de Agravo Interno interposto por IARA PASSOS DOS SANTOS e OUTROS, contra a decisão de fls. 323/324 (e-STJ), onde a Sra. Ministra Presidente do STJ, com base no art. 21-E, V do Regimento Interno do STJ, não conheceu do agravo em recurso especial interposto pelo agravante, ao fundamento de que o recurso seria intempestivo nos termos do arts. 994, VIII, c/c. 1.003, § 5.º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+Em suas razões recursais, a agravante sintetiza as razões de seu apelo especial e sustenta o equívoco da decisão agravada, na medida em que o recurso seria tempestivo.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado, para o conseguinte conhecimento e provimento do agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. FERIADO LOCAL. RECURSO NÃO PROVIDO.
+1. Segundo o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, (julgado em 20/11/2017), nos recursos protocolados na vigência do novo Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+2. Acontece que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente, é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ, segundo a qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravo não deve ser provido.
+Segundo o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, (julgado em 20/11/2017), nos recursos protocolados na vigência do novo Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+Acontece que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso. Nesse sentido:
+AGRAVO INTERNO. INTEMPESTIVIDADE DO RECURSO. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003. § 6º, CPC/2015. FERIADO LOCAL. RECURSO NÃO PROVIDO
+1. Segundo o entendimento firmado pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, (julgado em 20/11/2017), nos recursos protocolados na vigência do novo Código de Processo Civil, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+2. A segunda-feira de Carnaval, nos termos das Leis Federais nºs 5.010/1966 e 11.697/2008, não se aplica à justiça comum estadual, porquanto, aplica-se, restritivamente, à Justiça Federal e ao Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), respectivamente, portanto, sua eventual ocorrência na instância de origem, no presente caso, exige comprovação nos autos pela parte interessada por meio de documento idôneo, no ato de interposição.
+3. O feriado nacional deve estar previsto em lei federal, contudo, o dia de Corpus Christi (Corpo de Cristo) é feriado local, uma vez que não previsto em qualquer legislação federal e, portanto, sua eventual ocorrência na instância de origem também exige comprovação nos autos pela parte interessada por meio de documento idôneo, quando da interposição.
+4. A interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+5. Agravo interno não provido.
+(AgInt no AREsp 1156485/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. COMPROVAÇÃO DE FERIADO LOCAL APÓS A INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE, NOS TERMOS DO ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRECEDENTE. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO. NECESSIDADE. AGRAVO INTERNO DESPROVIDO.
+1.Nos termos art. 1.003, § 6º, do CPC/2015, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso. Assim, inaplicável à hipótese o entendimento firmado por esta Corte, ainda sob a ótica do regramento processual previsto no Código de Processo Civil de 1973, no sentido de admitir a comprovação, em agravo interno, da ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem, como pretende a agravante.
+2. Segundo a jurisprudência desta Corte, "a segunda-feira de Carnaval, nos termos das Leis Federais nºs 5.010/1966 e 11.697/2008, não se aplica à justiça comum estadual, porquanto, aplica-se, restritivamente, à Justiça Federal e ao Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), respectivamente" (AgRg no AREsp 720413/RS, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/12/2015, DJe 03/02/2016).
+3. Correta a majoração dos honorários sucumbenciais pela decisão agravada.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1136243/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/02/2018, DJe 23/02/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
