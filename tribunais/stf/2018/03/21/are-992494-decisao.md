@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 3ª Região, ementado nos seguintes termos:
+    “PREVIDENCIÁRIO. AGRAVO DO ART. 557, §1º, DO CPC. RESTITUIÇÃO DE PARCELAS PREVIDENCIÁRIAS. VERBA DE NATUREZA ALIMENTAR RECEBIDA DE BOA-FÉ PELA PARTE SEGURADA. IRREPETIBILIDADE. AGRAVO DESPROVIDO.
+    1. Tratando-se de valor controverso originado de verba com natureza alimentar e recebida de boa-fé pelo segurado, descabe seja ele onerado por manifesto equívoco cometido pela Administração.
+    2. Agravo desprovido.” (eDOC 1, p. 140)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 5º, XXXVI; 194, caput, parágrafo único, V e VI; e 195 do texto constitucional. (eDOC 1, p. 182)
+    Nas razões recursais, alega-se não ser devida a revisão de aposentadoria proporcional, computando-se tempo de serviço laborado após a data da aposentação para fins de concessão de nova aposentadoria. (eDOC 1, p. 171)
+    O recurso extraordinário foi inadmitido, ao fundamento de estarem as razões recursais dissociadas da decisão impugnada. (eDOC 1, p. 193).
+    Oportunamente, a então Relatora do feito, Ministra Carmén Lúcia, determinou a remessa dos autos à origem, com base no RE-RG 661.256 (Tema 503), Rel. Min. Roberto Barroso, Relator para o Acórdão o Ministro Dias Toffoli, DJe 28.9.2017, para os fins do disposto no art. 1.036 do CPC. (eDOC 3)
+    Ocorre que o Tribunal a quo remeteu novamente o agravo ao Supremo Tribunal Federal, por entender que a matéria versada nos presentes autos não se amoldaria ao referido paradigma de repercussão geral. (eDOC 9, p.3)
+    A Procuradoria-Geral da República, em seu parecer (eDOC 14), opina pelo não conhecimento do agravo em razão de não haver o recorrente infirmado o único motivo consignado na decisão agravada relativamente ao fato de estarem as razões do recurso dissociadas dos fundamentos do acórdão recorrido.
+    É o relatório.
+    Diante do exposto, torno sem efeito a devolução constante do eDOC3 e passo ao exame da matéria.
+    Na espécie, o Tribunal de origem, ao examinar a legislação e normas infraconstitucionais aplicáveis à espécie (Decreto n. 83.080/1979) e o conjunto probatório constante dos autos, consignou não ser devida a repetição de indébito em razão de benefício previdenciário, cujo pagamento vinha sendo efetuado indevidamente com inclusão de auxílio-suplementar. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Registro, inicialmente, que, no presente recurso, a autarquia não se insurge contra o afastamento da decadência nem tampouco quanto ao mérito do pedido julgado procedente, qual seja, ao de inclusão do valor do auxílio-suplementar nos valores dos salários-de-contribuição constantes do período básico de cálculo da aposentadoria por tempo de contribuição do autor.
+    (...)
+    Com efeito, observo que, conforme dispunha o artigo 241, parágrafo segundo, do Decreto 83.080, de 24.01.1979, o auxílio-suplementar cessa com a concessão de aposentadoria de qualquer espécie e seu valor não é incluído no cálculo da pensão por morte, complementar ou previdenciária.
+    (...)
+    No entanto, penso não caber a repetição dos valores percebidos pelo autor a esse título.
+    Isso, porque, refere-se a valor controverso originado de verba com natureza alimentar e recebida de boa-fé pelo segurado, descabendo, por conseguinte, seja ele onerado por manifesto equívoco cometido pela Administração.” (eDOC 1, p. 137). (Grifei)
+    Como se vê, o acórdão recorrido assentou a desnecessidade de repetição de indébito na espécie. De outro modo, no recurso extraordinário, a parte recorrente limitou-se a sustentar ser inviável a revisão pretendida. Acresce que nas suas razões deixou a entender que os autos versariam sobre o instituto da desaposentação, o que não é possível de maneira alguma se depreender do acórdão recorrido.
+    Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão impugnado. Desse modo, incide no caso a Súmula 284 do Supremo Tribunal Federal.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ANISTIA. MILITAR EXPULSO COM BASE NA LEGISLAÇÃO DISCIPLINAR ORDINÁRIA. SÚMULAS 284 E 674/STF. PRECEDENTES. As razões apresentadas no recurso extraordinário estão dissociadas dos fundamentos do acórdão que impugnou. Nessas condições, a hipótese atrai a incidência da Súmula 284/STF. A decisão proferida pelo Tribunal de origem está alinhada com a jurisprudência desta Corte consolidada na Súmula 674/STF: “A anistia prevista no art. 8º do Ato das Disposições Constitucionais Transitórias não alcançam os militares expulsos com base em legislação disciplinar ordinária, ainda que em razão de atos praticados por motivação política”. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento”. (ARE-AgR 833.932, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 18.11.2014)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPETÊNCIA JURISDICIONAL. SERVIDOR PÚBLICO. DEFINIÇÃO DO REGIME JURÍDICO DA RELAÇÃO DE TRABALHO (CELETISTA OU ESTATUTÁRIO). RAZÕES RECURSAIS DISSOCIADAS DO JULGADO RECORRIDO. SÚMULA 284 DO STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 279. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO”. (RE-AgR 575.933, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe 13.2.2014)
+    Nessa linha, extraio também do parecer ministerial:
+    “Com efeito, em suas razões, a agravante afirmou haver contrariedade a normas infraconstitucionais (artigo 535 do CPC, artigo 6º da LIDB, artigo 103 d Lei 8.213/91); reiterou os fundamentos do recurso anteriormente interposto; e acresceu fundamentação, alegando a necessidade de devolução dos valores recebidos administrativamente pelo autor, ora agravado. Todavia, não rebateu o único motivo lançado na decisão agravada, qual seja, a de que as razões do recurso extraordinário estariam dissociadas dos fundamentos do acórdão recorrido.
+    Tal comportamento atrai o veto contido da Súmula 287 dessa Corte Suprema, segundo o qual, “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”. (eDOC 14)
+    Ante o exposto, torno sem efeito a devolução constante do eDOC 3 e nego seguimento ao recurso (artigo 932, VIII, do NCPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
