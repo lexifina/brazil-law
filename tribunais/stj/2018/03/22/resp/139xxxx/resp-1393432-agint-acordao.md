@@ -1,0 +1,44 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. DÍVIDA CONTRAÍDA EM MOEDA ESTRANGEIRA. CONVERSÃO EM MOEDA NACIONAL. ADSTRIÇÃO AO PEDIDO INICIAL. FUNDAMENTO NÃO INFIRMADO. SÚMULA 283/STF.
+1. O eg. Tribunal de origem concluiu que a data da conversão, em moeda nacional, de obrigação contraída em moeda estrangeira deveria ser a data do pagamento, porquanto assim pleiteado na inicial, sob pena de configurar julgamento fora do pedido.
+2. A ausência de impugnação, no recurso especial, de fundamento suficiente à manutenção de determinado ponto do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+3. Agravo interno provido, em parte.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, acolher em parte o agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno manejado por QUIPER QUÍMICA INDUSTRIAL DE PERNAMBUCO S/A contra a decisão de fls. 193/200, que deu parcial provimento ao apelo nobre interposto por [NOME], aqui agravada, para determinar a conversão da dívida fixada em moeda estrangeira para a moeda nacional, no ato de quitação, com base na cotação da data da contratação, e, a partir daí, atualização com base em índice oficial de correção monetária, afastando a violação ao art. 535 do CPC e não conhecendo do pedido de inclusão de juros de remuneração, ante o óbice da Súmula 284/STF.
+Irresignada, a parte agravante sustenta, em resumo, que não poderia ser modificada a data da conversão fixada pelo v. acórdão recorrido, porquanto extrapolaria o pedido contido na inicial, contrariando o princípio da congruência e os arts. 128 e 460 do CPC/73. Além do mais, segundo a agravante, a pretensão esbarraria nas Súmulas 7 e 211 do STJ.
+A agravada ofertou contrarrazões (fls. 228/235).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+O agravo merece, ao menos em parte, prosperar.
+Isso, porque, no tocante ao momento da conversão, em moeda nacional, da moeda estrangeira prevista no contrato, o eg. Tribunal local concluiu que o marco fixado na sentença não poderia prevalecer, por destoar do pedido formulado pela credora, a agravada [NOME] D.D., na inicial da execução, que pugnou pela conversão na data do pagamento, consoante se infere das seguintes passagens do v. acórdão recorrido, in verbis:
+ "Desta sorte, mesmo não se tratando aqui de ação de conhecimento, entendo que o juízo originário extrapolou os limites da pretensão executória, agindo de ofício onde não lhe caberia.
+ Esta mesma conclusão se aplica quanto à estipulação da data de ajuizamento da ação para conversão da moeda estrangeira em nacional, pelo julgador monocrático.
+ A exeqüente havia requerido expressamente, na petição inicial, o pagamento ao câmbio do dia, ou seja, a conversão por ocasião da data do pagamento. E tal requerimento não confronta a lei, tampouco a jurisprudência do STJ, que admite a conversão da moeda estrangeira na data do pagamento.
+ ..
+ Por tais motivos, me parece equivocada a determinação do julgador a quo, de determinar a conversão da moeda a partir do ajuizamento da ação, posto que o pleito do exeqüente, repita-se, fora diverso, e tal questão não é de ordem pública para admitir a atuação de ofício, do magistrado." (fls. 392/393)
+Tal fundamento, embora autônomo e suficiente para manter o entendimento firmado pela eg. Corte local, não foi infirmado nas razões do apelo nobre, motivo pelo qual a pretensão recursal encontra óbice na Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Por outro lado, vale ressaltar que, embora mantida a conclusão exarada pela Corte local na parte em que determinou a conversão da moeda na data do pagamento, a decisão monocrática agravada merece permanecer inalterada quanto à possibilidade de aplicação de correção monetária ao contrato executado, cuja incidência foi afastada pela Corte de origem mediante os seguintes fundamentos:
+ "Desembargador Fernando, a discussão no momento do julgamento, pelo menos no meu entendimento, foi que se o contrato foi em moeda estrangeira, em dólar, você converte na data do pagamento acrescido de juros moratórios e dos juros remuneratórios pactuados, e moratórios não pactuados, mas previsto no CPC.
+ ..
+ Vossa Excelência entende diferente, mas eu entendo dessa forma. Faz-se a conversão na data do pagamento e retroage para aplicar a correção monetária está havendo um bis in idem, sem sombra de dúvida. Então eu não conheço. O meu eu voto é não conhecendo dos embargos de declaração por não reconhecer a existência de nenhum vicio elencado no art. 535 do CPC." (fls. 49/50)
+Desse modo, constata-se que o Tribunal local decidiu em desacordo com a jurisprudência do STJ, segundo a qual as dívidas, inclusive as fixadas em moeda estrangeira, deverão experimentar a devida correção monetária, tendo em vista que a "variação cambial não constitui, a rigor, correção monetária, mas expressão do principal devido" (REsp 848.424/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 07/08/2008, DJe de 18/08/2008).
+Nesse sentido, vale destacar:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TRANSPORTE MARÍTIMO INTERNACIONAL. TARIFA DE SOBREESTADIA DE CONTÊINERES. DEMURRAGE. ART. 535 DO CPC. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INOCORRÊNCIA. DISTINÇÃO ENTRE INEXISTÊNCIA DE [NOME] E RESULTADO DESFAVORÁVEL À PRETENSÃO DO LITIGANTE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 07/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. DESCABIMENTO EM SEDE DE RECURSO ESPECIAL. CONVERSÃO DA DÍVIDA CONTRAÍDA EM MOEDA ESTRANGEIRA PELO CÂMBIO DO DIA DO PAGAMENTO E CORREÇÃO MONETÁRIA. POSSIBILIDADE. JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. AGRAVO REGIMENTAL ACOLHIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO AGRAVO EM RECURSO ESPECIAL E NEGAR SEGUIMENTO AO RECURSO ESPECIAL POR OUTROS FUNDAMENTOS.
+(AgRg no AREsp 188.026/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/03/2015, DJe de 06/03/2015)
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. COMPRA E VENDA DE MATÉRIA PRIMA. FORNECIMENTO DE PRODUTO DE MÁ QUALIDADE. NÃO COMPROVAÇÃO. DANO MORAL. INEXISTÊNCIA. RECURSO ESPECIAL. REEXAME DE PROVA. DESCABIMENTO. SÚMULA STJ/7. FALTA DE PREQUESTIONAMENTO. SÚMULA STJ/211. CONTRATAÇÃO EM MOEDA ESTRANGEIRA. POSSIBILIDADE. CONVERSÃO EM MOEDA NACIONAL PELA DATA DO EFETIVO PAGAMENTO. JUROS DE MORA E CORREÇÃO MONETÁRIA. INCIDÊNCIA A PARTIR DO VENCIMENTO DE CADA FATURA.
+ ..
+V - Em se tratando de obrigação constituída em moeda estrangeira, a sua conversão em moeda nacional deve ocorrer na data do efetivo pagamento, incidindo os juros de mora e a atualização monetária a partir do vencimento de dada fatura. Precedentes.
+VI - Recurso Especial improvido.
+(REsp 1.212.847/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 08/02/2011, DJe de 21/02/2011)
+Com efeito, tratando-se de execução de dívida líquida e certa, o termo inicial da correção monetária deve ser o vencimento do próprio título.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. COBRANÇA. CORREÇÃO MONETÁRIA. TERMO INICIAL. VENCIMENTO DAS FATURAS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Nos termos da jurisprudência do Superior Tribunal de Justiça, "em se tratando de cobrança de dívida líquida e certa, o termo inicial para correção monetária é a data de vencimento do título que a embasa" (STJ, AgRg no REsp 1.211.707/MS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 18/10/2013). Em igual sentido: STJ, AgRg no REsp 1.217.531/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 19/05/2015; EDcl no REsp 1.312.992/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/05/2013; REsp 419.266/SP, Rel. Ministro HUMBERTO GOMES DE BARROS, PRIMEIRA TURMA, DJU de 08/09/2003.
+II. Agravo Regimental improvido.
+(AgRg no AREsp 420.579/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 1º/03/2016, DJe de 14/03/2016)
+Diante do exposto, dou provimento parcial ao agravo interno para, reformando a decisão agravada, determinar a conversão da moeda estrangeira para nacional na data do pagamento, admitida a inclusão da correção monetária sobre o valor principal convertido, a ser aplicada a partir da vencimento do título que embasa a execução.
+É como voto.
