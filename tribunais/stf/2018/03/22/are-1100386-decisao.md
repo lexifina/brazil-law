@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal Regional Federal da 5ª Região, confirmando o entendimento do Juízo, assentou, observada a legislação de regência e o acervo documental do processo, consubstanciada a litispendência entre executivos fiscais ajuizados sobre o mesmo débito. No extraordinário cujo trânsito busca alcançar, a recorrente alega violados os artigos 5º, inciso XXXVI, e 93, inciso IX, da Constituição Federal. Sustenta a inexistência de litispendência. Aduz violada a coisa julgada constituída por meio de decisão transitada em julgada que determinou o prosseguimento de executivo fiscal.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da síntese do acórdão recorrido os seguintes fundamentos:
+    PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. SUA CORREÇÃO. EXECUÇÃO FISCAL E AÇÃO ORDINÁRIA. LITISPENDÊNCIA. CARACTERIZAÇÃO. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DO MÉRITO. ARTS. 267, V, e § 3º, C/C 0 301, V, E §§ 3º E 4º, DO CPC. INEXISTÊNCIA DE VÍCIOS. REDISCUSSÃO. DESCABIMENTO.
+    1. Ocorrência de simples erro material na ementa do acórdão embargado, pois consta que haveria litispendência entre a execução fiscal e a ação ordinária, quando, na verdade, a litispendência é entre execuções fiscais. Correção efetivada.
+    2. Os embargos de declaração não são meio próprio ao reexame da causa, devendo limitar-se ao esclarecimento de obscuridade, contradição ou omissão, in casu, inexistentes no acórdão embargado.
+    3. Matéria do recurso foi devidamente analisada, com motivação clara e nítida. Questões enfrentadas conforme as legislação e jurisprudência.
+    4. Deveras apreciado que:- "a litispendência, nos moldes do art. 301 e §§ do CPC, configura-se quando: a) se reproduz ação anteriormente ajuizada (§ 1º); b) tem as mesmas partes, a mesma causa de pedir e o mesmo pedido (§ 2º); c) se repete ação, que está em curso (§ 3º);- in casu, os autos comprovam que, de fato, há litispendência entre o presente Executivo Fiscal e outra Execução Fiscal, já que, em ambas, se discute a cobrança dos valores inscritos nas mesmas CDA's." (com a devida correção).
+    5. Possível erro do julgamento deve ser sanado por recurso próprio.
+    6. Embargos de declaração parcialmente acolhidos apenas para corrigir o erro material apontado.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário quanto à ocorrência de litispendência entre débito exigido mediante os executivos fiscais em caso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 22 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
