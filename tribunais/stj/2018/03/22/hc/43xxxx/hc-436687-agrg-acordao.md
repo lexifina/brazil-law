@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DISPENSA DE LICITAÇÃO. ART. 89 DA LEI N. 8.666/1993. EXECUÇÃO PROVISÓRIA DA PENA. REFORMATIO IN PEJUS. VIOLAÇÃO DA COISA JULGADA, DA AMPLA DEFESA E DO CONTRADITÓRIO. NÃO OCORRÊNCIA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Plenário Virtual do Supremo Tribunal Federal, na análise do ARE n. 964.246/SP (julgado em 11/11/2016), reafirmou o entendimento, externado no HC n. 126.292/SP (Rel. Ministro Teori Zavascki, DJe 17/5/2016) e nas ADCs n. 43 e 44, de que é possível a execução do acórdão penal condenatório proferido em grau recursal, mesmo que estejam pendentes recursos aos tribunais superiores.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JACIRA LEMOS BARROZO interpõe agravo regimental contra decisão de fls. 1.479 - 1.481, na qual indeferi liminarmente habeas corpus.
+A agravante aponta que: a) a decisão agravada fere a ampla defesa e o contraditório; b) a interpretação do termo "apelar" não se limita ao peticionamento da "apelação criminal"; c) o direito de recorrer em liberdade até o trânsito em julgado está acobertado pela coisa julgada; d) a determinação da prisão antes do trânsito em julgado depende de fundamentação concreta.
+Requer a reconsideração da decisão agravada ou a submissão do recurso ao colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DISPENSA DE LICITAÇÃO. ART. 89 DA LEI N. 8.666/1993. EXECUÇÃO PROVISÓRIA DA PENA. REFORMATIO IN PEJUS. VIOLAÇÃO DA COISA JULGADA, DA AMPLA DEFESA E DO CONTRADITÓRIO. NÃO OCORRÊNCIA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Plenário Virtual do Supremo Tribunal Federal, na análise do ARE n. 964.246/SP (julgado em 11/11/2016), reafirmou o entendimento, externado no HC n. 126.292/SP (Rel. Ministro Teori Zavascki, DJe 17/5/2016) e nas ADCs n. 43 e 44, de que é possível a execução do acórdão penal condenatório proferido em grau recursal, mesmo que estejam pendentes recursos aos tribunais superiores.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante as razões expostas pela defesa, reitero que o entendimento externado pelo Plenário Virtual do Supremo Tribunal Federal no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é de ser cabível a execução do acórdão de segundo grau antes do trânsito em julgado da condenação, na pendência de recursos especial e/ou extraordinário, os quais não possuem efeito suspensivo, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados, uma vez que, esgotada a discussão sobre matéria fática, a providência não implicaria violação do princípio da presunção de inocência.
+A matéria também foi objeto de exame pela Corte Suprema, em 5/10/2016, nas Ações Diretas de Constitucionalidade n. 43 e 44, ocasião em que o Plenário, ao indeferir a tutela cautelar, conferiu interpretação conforme ao art. 283 do Código de Processo Penal ("Ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva") para assentar que encontra guarida no texto constitucional o início da execução da pena após prolação de acórdão condenatório
+O entendimento do Supremo Tribunal Federal é aplicável aos processos em curso, pois: "a constrição da liberdade, neste momento processual, fundamenta-se na ausência de efeito suspensivo dos recursos extraordinário e especial, no restrito espectro de cognoscibilidade desses mecanismos de impugnação, bem como na atividade judicante desempenhada pelas instâncias ordinárias" (HC n. 138.890, Rel. Ministro Luiz Fux, 1ª T., DJe 22/3/2017).
+Na hipótese, é irrelevante a interpretação que se possa dar ao termo "apelar", constante na sentença condenatória, visto que a tese de violação da coisa julgada não encontra respaldo na jurisprudência desta Corte, conforme se verifica no seguinte julgado:
+ ..
+1. De acordo com a jurisprudência deste Tribunal Superior a simples interposição de recurso especial, sem a concessão de efeito suspensivo, não obsta a execução provisória da pena privativa de liberdade. Precedentes.
+2. É possível a execução provisória da pena, ainda que concedido na sentença condenatória, ou mesmo no acórdão que julgou o recurso de apelação o direito de recorrer em liberdade até o trânsito em julgado da condenação, sem que isso caracterize violação a coisa julgada ou reformatio in pejus.  ..
+5. Agravo regimental improvido (AgRg no HC n. 410.103/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 15/2/2018, destaquei)
+A determinação da execução provisória prescinde da demonstração dos requisitos do art. 312 do Código de Processo Penal e não viola o princípio da ne reformatio in pejus, em razão da competência da Corte de origem (revisora), que independe de recurso específico da acusação.
+Nesse sentido:
+ ..
+5. Em atenção ao que decidido pelo Pretório Excelso, este Sodalício passou a admitir a execução provisória da pena, ainda que determinada em recurso exclusivo da defesa, afastando as alegações de reformatio in pejus e de necessidade de comprovação da presença dos requisitos previstos no artigo 312 do Código de Processo Penal, uma vez que a prisão decorrente da decisão que confirma a condenação encontra-se na competência do juízo revisional, não dependendo da insurgência da acusação. Precedentes. (HC 372.426/SC, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 17/11/2016)
+ .. .
+7. Embargos de declaração rejeitados (EDcl no AgRg no AREsp n. 440.072/DF, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 26/6/2017).
+Em resumo, a execução da pena, no caso, é efeito decorrente do acórdão condenatório e, por isso, não exige fundamentação específica no dispositivo do decisum, porquanto esta alicerçada nos próprios argumentos que fundamentaram a condenação em segunda instância, no exaurimento do princípio da não culpabilidade e, também, na ausência de atribuição de efeito suspensivo ao recurso extraordinário (lato sensu), e não caracteriza violação da ampla defesa e do contraditório.
+Na espécie, há elementos suficientes para identificar o exaurimento da instância ordinária, haja vista a notícia de que houve recurso especial interposto, inclusive inadmitido (AREsp n. 732.306/DF).
+À vista do exposto, nego provimento ao agravo regimental.
