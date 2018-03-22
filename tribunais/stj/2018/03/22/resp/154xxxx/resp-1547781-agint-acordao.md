@@ -1,0 +1,53 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. FIANÇA. ALCANCE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem, a partir do exame de elementos de prova e interpretação de cláusulas contratuais, concluiu que o contrato de fiança abrangia obrigações presentes e futuras. Entender de modo contrário implicaria reexame de matéria fática e reinterpretação do ajuste celebrado, o que é vedado em recurso especial.
+3. Agravo interno desprovido.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno (e-STJ fls. 396/399), interposto contra decisão desta relatoria que não conheceu do recurso especial.
+Em suas razões, o agravante alega que a pretensão veiculada em seu especial "dispensa a interpretação de cláusula contratual ou o reexame do conjunto fático-probatório, já que a conclusão acerca da violação ao Art. 819 do Código Civil Brasileiro deflui da própria interpretação conferida pelo Tribunal a quo, não sendo necessária a revisão desta avaliação, senão a aplicação da norma legal competente à interpretação que foi conferida à cláusula pelo acórdão recorrido" (e-STJ fls. 397).
+Segundo afirma, "os fatos que envolvem o mérito da controvérsia instalada no recurso especial estão soberanamente delineados pelas instâncias ordinárias", assim, "o julgamento do mérito do recurso exige saber se é lícito ao acórdão recorrido "subentender" uma obrigação futura que, reconhecidamente, não estava contemplada de modo expresso na fiança", o que, a seu ver, configura, por si só, "a interpretação extensiva da fiança" (e-STJ fl. 397).
+Ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões (e-STJ fls. 403/405).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DO DEVEDOR. FIANÇA. ALCANCE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem, a partir do exame de elementos de prova e interpretação de cláusulas contratuais, concluiu que o contrato de fiança abrangia obrigações presentes e futuras. Entender de modo contrário implicaria reexame de matéria fática e reinterpretação do ajuste celebrado, o que é vedado em recurso especial.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: A insurgência não merece acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 390/392):
+Trata-se de recurso especial interposto contra acórdão do TJRS assim ementado (e-STJ fl. 258):
+APELAÇÃO CÍVEL. EMBARGOS DE DEVEDOR. FIANÇA PRESTADA PARA CONTRATOS FUTUROS. ÔNUS DA PROVA DO EMBARGANTE. ART. 333, I, DO CPC. INOVAÇÃO EM SEDE DE RECURSO. HONORÁRIOS ADVOCATÍCIOS. OBSERVÂNCIA DAS ALÍNEAS "A", "B" E "C" DO § 3º DO ART. 20 DO CPC. CONHECERAM EM PARTE DO APELO DO EMBARGANTE E NA PARTE CONHECIDA NEGARAM PROVIMENTO. DERAM PROVIMENTO AO APELO DO EMBARGADO. JULGARAM PREJUDICADO O AGRAVO [CPF], POR PERDA DO OBJETO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 289/296).
+Nas razões do recurso especial (e-STJ fls. 300/309), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alega dissídio jurisprudencial e violação do art. 819 do CC/2002, sob o argumento de que o referido dispositivo não permite a interpretação extensiva do contrato de fiança, de sorte a abranger obrigações futuras.
+Destaca que (e-STJ fls. 304/306):
+Portanto, a questão controvertida nos autos e no vertente apelo especial reside na análise em torno da possibilidade de interpretação extensiva da fiança prestada pelo recorrente para incluir a responsabilidade de pagamento de obrigações futuras, já que o instrumento contratual não possui cláusula expressa quanto à inclusão dos compromissos futuros e as obrigações existentes na data da assunção da garantia estão quitadas. (..)
+Enfim, resta induvidoso que a douta decisão colegiada recorrida, ao SUBENTENDER que as obrigações futuras estavam incluídas no escopo da fiança, tendo em vista a ausência de disposição contratual expressa, inegavelmente levou a cabo a interpretação extensiva da fiança vedada pelo art. 819 do Código Civil Brasileiro, já que o julgamento recorrido "entendeu o que não estava exposto", incorreu em SUPOSICÃO.
+Foram apresentadas contrarrazões (e-STJ fls. 330/336).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A Corte de origem, a partir do detido exame das provas dos autos e da interpretação das cláusulas ajustadas entre as partes, concluiu que o contrato de fiança firmado abrangia obrigações presentes e futuras (e-STJ fls. 263/264):
+Analisando o contrato de fiança objeto de discussão, verifica-se que no mesmo restou expresso que: "Os Fiadores (..) assumem a responsabilidade de principais pagadores do Afiançado, (..) até o limite desta fiança, pelo pagamento de todas as obrigações contraídas pelo Afiançado (..)". Analisando a disposição expressa no contrato verifica-se que, pela expressão "todas as obrigações contraídas" subentendem-se, as obrigações presentes e futuras, não significando dizer que se está fazendo uma interpretação extensiva do contrato de fiança.O Além disso, a garantia da fiança se dará até o montante expresso no contrato, ou seja, R$ 210.000,00, desimportando que tenha sido o débito constituído antes ou depois do contrato, isso porque importa interpretar os termos em que as cláusulas foram inseridas e, pelo que se vê, a garantia afiançada foi efetuada de forma clara como sendo garantidas as "obrigações contraídas"; sendo limitado, assim, o valor do débito. Ademais, a obrigação do devedor principal se trata de obrigação cert a e líquida não havendo razão para excluir as obrigações assumidas.
+Além disso, as alegações do embargante de que a fiança é um contrato acessório que segue o principal, em nada altera a obrigação por ele contraída, visto que, no caso dos autos, o contrato de fiança foi realizado como garantia dos débitos da devedora principal com a embargada até o imite expresso na carta de fiança, não havendo o que se falar em inexistência da mesma." Passo a acrescentar.
+Dois pontos devem ser destacados na irresignação do apelante.
+Em primeiro lugar. Há uma inovação na matéria recursal, eis que em apelação o embargante pretende discutir em que data foi prestada a fiança, se em 14/09/2003 ou se em 22/09/2003. Todavia, tal matéria não foi ventilada na inicial dos embargos, razão pela qual não pode ser tratada em sede de apelação. Assim, não conheço do apelo neste ponto.
+Em segundo lugar, não restou comprovado nos autos que a fiança havia sido dada para compras certas e determinadas, mas pelo contrário. 0 que se vislumbra é um perfeito entendimento do juiz, quanto a prestação da fiança para contratos futuros.
+O art. 333, I, do CPC, é claro quando propugna que ao autor cabe a prova de suas afirmações. Tal dever é um ônus da parte, onde se entende que ônus é um dever, encargo, obrigação.
+A doutrina pátria" leciona que: "A distribuição do ônus da prova repousa principalmente na premissa de que, visando à vitória na causa, cabe à parte desenvolver perante o juiz e ao longo do procedimento uma "atividade capaz de criar em seu espírito a convicção de julgar favoravelmente. O juiz deve julgar "secundum allegata et probata partium" e não "secundum propriam suam conscientíam" - e daí o encargo, que as partes têm no processo, não só de alega, como também de provar." Analisando a prova carreada ao processo, vemos que não existe qualquer vestígio de que a fiança tenha sido prestada para dívidas já feitas, razão pela qual vai mantida a sentença in totum.
+Decidir de modo diverso, reconhecendo que a fiança foi prestada para garantir apenas dívidas pretéritas demandaria nova interpretação das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial, segundo as Súmulas n. 5 e 7 do STJ respectivamente:
+A simples interpretação de cláusula contratual não enseja recurso especial.
+A pretensão de simples reexame de prova não enseja recurso especial.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
+Como destacado na decisão agravada, as Súmulas n. 5 e 7 do STJ impedem a revisão dos fundamentos do acórdão recorrido.
+Com efeito, não se desconhece que contrato de fiança não comporta interpretação extensiva, nos termos do disposto no art. 819 do CC/2002, ou seja, que a responsabilidade dos fiadores restringe-se aos termos do pacto original.
+Ocorre que, no caso concreto, o Tribunal de origem, "analisando a disposição expressa" na avença concluiu que a fiança ajustada abrangia "todas as obrigações contraídas", presentes e futuras, por terem os fiadores assumido "a responsabilidade de principais pagadores do afiançado" até "o montante expresso no contrato, ou seja, R$ 210.000,00 (limite da fiança), desimportando que tenha sido o débito constituído antes ou depois do contrato" (e-STJ fls. 263/264).
+Nesse contexto, a alegação de que a garantia cobriria apenas dívidas pretéritas só poderia ser confirmada mediante interpretação de cláusulas do contrato de fiança e reexame do acervo fático-probatório da causa, o que é vedado em recurso especial.
+Assim, não prosperam as alegações apresentadas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
