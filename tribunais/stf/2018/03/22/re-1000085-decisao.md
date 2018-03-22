@@ -1,0 +1,45 @@
+Decisão:
+    Vistos.
+    Ministério Público do Estado do Rio Grande do Sul interpõe recurso extraordinário contra acórdão proferido pela Turma Recursal Criminal dos Juizados Especiais Criminais do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CRIMINAL. DESACATO (ART. 331 DO CP). EXAME DE CONVENCIONALIDADE E DE CONSTITUCIONALIDADE. ATIPICIDADE DA CONDUTA. SENTENÇA CONDENATÓRIA REFORMADA.
+    1. Adesão do Brasil à Convenção Americana sobre Direitos Humanos que torna inafastável o exame de convencionalidade, como decorrência do dever geral de adaptação dos ordenamentos internos ao sistema interamericano de direitos humanos.
+    2. Consequência de tal exame é o reconhecimento, com suporte nos artigos 13 da Convenção Americana sobre Direitos Humanos, e 11 da Declaração de Princípios sobre a Liberdade de Expressão é o reconhecimento da ausência de validade e eficácia do art. 331 do CP, por atentatório à liberdade de expressão.
+    3. A liberdade de expressão, por consistir em garantia constitucional, somente pode encontrar restrição na própria Constituição e não na legislação infraconstitucional, por não prevista na Lei Maior tal possibilidade.
+    4. A não ser que expressamente trouxesse tal previsão. Os únicos limites impostos pela Constituição à liberdade de expressão, além da vedação ao anonimato, correspondem ao direito de resposta (art. 5º, V), e ao direito de indenização por dano material ou moral à intimidade, à vida privada, à honra e à imagem das pessoas atingidas (art. 5º, X). Afora tais hipóteses, todas estabelecidas pela própria Constituição, não se legitima qualquer restrição à liberdade de expressão, de modo que o disposto no art. 331 do CP, que contempla o delito desacato, não foi recepcionado pela nova ordem constitucional.
+    5. Assim, seja pelo controle de convencionalidade, seja pelo de constitucionalidade, se afigura como atípica a conduta descrita no art. 331 do CP.
+    RECURSO IMPROVIDO, POR MAIORIA.”
+    Opostos sucessivos recursos de embargos de declaração, foram rejeitados os primeiros, e não conhecidos, os segundos.
+    O recorrente, nas razões do recurso extraordinário, alega violação aos artigos 2º e 3º, bem como nos incisos IV e X, do artigo 5º, da Constituição Federal. Aduziu que “a Convenção Americana de Direitos do Homem visa evitar o uso político do crime de desacato que, fundado em conceitos como a garantia da ordem pública, mascarem perseguições de cunho ideológico com o claro intuito de frear opiniões desabonatórias e críticas contundentes às políticas públicas e agentes políticos” e que a conduta do réu, no presente caso, “em nada guarda relação à liberdade de expressão no sentido concebido pela Convenção Americana dos Direitos do Homem, voltando-se unicamente ao intuito de ofender a honra do agente público que atuava no exercício do poder de polícia, atividade exclusiva da Administração Pública”.
+    Depois de oferecidas contrarrazões, o recurso foi admitido, subindo os autos a esta Suprema Corte.
+    O parecer da douta Procuradoria-Geral da República é pelo provimento do recurso.
+    É o relatório.
+    Decido.
+    A irresignação merece prosperar.
+    Inicialmente, tem-se que os artigos 1035, § 3º, inciso I, do Código de Processo Civil e 323, § 2º, do RISTF, prevêem que haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante desta Corte, o que, efetivamente, ocorre no caso dos autos.
+    Em recente julgamento realizado no dia 13/3/18, (cujo acórdão ainda não foi publicado, mas cuja informação constou, na mesma data, do site do Supremo Tribunal Federal), a 2ª Turma desta Corte, nos autos do HC nº 141.949 (Rel. Min. Gilmar Mendes), assentou que o sujeito passivo do crime de desacato é o Estado, sendo o funcionário público vítima secundária da infração. Segundo o Ministro, a tutela penal no caso visa assegurar o normal funcionamento do Estado, protegendo-se o prestígio do exercício da função pública. Mendes destacou ainda que é essencial para a configuração do delito que o funcionário esteja no exercício da função ou, estando fora, que a ofensa seja empregada em razão dela.
+    A fundamentação que lastreou referido julgamento, muito embora tenha ocorrido no âmbito de uma infração penal militar, mostra-se inteiramente aplicável ao presente caso, dada a absoluta similaridade da redação da norma do artigo 299 do Código Penal Militar, com a do artigo 331 do Código Penal.
+    Sua Excelência, o eminente Ministro relator daquele HC, depois de discorrer sobre o que estabelece o Pacto de San Jose da Costa Rica, a respeito da liberdade de pensamento e de expressão, obtemperou que de “uma simples leitura do dispositivo supracitado não se infere qualquer afronta na tipificação do crime de desacato. Não houve revogação da norma penal, mas recepção pela regra supralegal”.
+    E acrescentou, in verbis:
+    “Observe-se que o item 2, letra a, do art. 13 do Pacto de San Jose dispõe claramente que o exercício do direito à liberdade de pensamento e de expressão, embora não sujeito a censura prévia, deve assumir responsabilidades ulteriores, expressamente fixadas em lei, para assegurar o respeito aos direitos ou à reputação das demais pessoas. Não prospera, portanto, a alegada descriminalização do desacato (art. 299 do CPM ou art. 331 do CP), nem se está tampouco diante da chamada abolitio criminis”.
+    (…)
+    A liberdade de expressão prevista na Convenção Americana de Direitos Humanos não difere do tratamento conferido pela Constituição Federal ao mesmo tema, não possuindo esse específico direito, como todos os demais direitos fundamentais, caráter absoluto.
+    A Constituição Federal, ao tutelar a honra, a intimidade e a dignidade da pessoa humana, direitos conferidos a todos, sem distinção de qualquer natureza (art. 5º da CF), recepcionou a norma do desacato prevista na legislação penal.
+    O direito à liberdade de expressão deve harmonizar-se com os demais direitos envolvidos (honra, intimidade e dignidade), não eliminá-los. Incide o princípio da concordância prática, pelo qual o intérprete deve buscar a conciliação entre normas constitucionais”.
+    Para finalizar, de forma categórica, assim se manifestou Sua Excelência, o relator:
+    “O exercício abusivo das liberdades públicas não se coaduna com o Estado democrático. A ninguém é lícito usar de sua liberdade de expressão para ofender, espezinhar, vituperar a honra alheia.
+    O desacato constitui importante instrumento de preservação da lisura da função pública e, indiretamente, da própria dignidade de quem a exerce.
+    Não se pode despojar a pessoa de um dos mais delicados valores constitucionais, a dignidade da pessoa humana, em razão do status de funcionário público (civil ou militar). A investidura em cargo ou função pública não constitui renúncia à honra e à dignidade.
+    A Corte Interamericana de Direitos Humanos, órgão responsável pelo julgamento de situações concretas de abusos e violações de direitos humanos, reiteradamente tem decidido contrariamente ao entendimento da Comissão de Direitos Humanos, estabelecendo que o Direito Penal pode, sim, punir condutas representativas de excessos no exercício da liberdade de expressão”.
+    (…)
+    O agente público, em razão dos rigorosos deveres a que está sujeito, está submetido a um regime de responsabilidade bastante gravoso, superior àquele imposto ao particular. A improbidade administrativa estabelecida pelo § 4º do aludido artigo 37 é mostra desse rigor legal que paira sobre a conduta do funcionalismo público em geral.
+    Não se está, pois, diante de privilégio a colocação do agente público sob especial proteção legal.
+    Reprimir o Estado ataques ao funcionalismo está no âmbito de abrangência do espectro democrático.
+    O que não se tolera, no Estado Democrático de Direito, é colocar sob a proteção da lei uma classe de profissionais ou categoria de pessoas, deixando-se de punir seus desvios, tornando-os imunes à persecutio criminis. Não é isso o que ocorre em nosso sistema.
+    Portanto, o desacato não é incompatível com a democracia desde que, em contrapartida, haja lei que puna os abusos de autoridade. O Estado de Direito democrático deve possuir mecanismos de salvaguarda do cidadão contra abusos do poder, ao mesmo tempo em que deve colocar o agente público também a salvo do exercício abusivo de direitos conferidos aos demais membros da sociedade”.
+    Forçoso, assim, reconhecer que não ocorreu, ao contrário do asseverado pelo julgado ora em análise, a não recepção da norma do artigo 331 do Código Penal, sob os fundamentos então deduzidos e devidamente já afastados por esta Corte, quando do julgamento supra referido.
+    Nessa conformidade, dou provimento ao recurso extraordinário, nos termos em que formulado, para anular o acórdão recorrido e determinar que o órgão prolator reaprecie a questão, afastada a premissa em que fundamentado, no sentido da não recepção do artigo 331 do Código Penal.
+    Publique-se.
+    Brasília, 22 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
