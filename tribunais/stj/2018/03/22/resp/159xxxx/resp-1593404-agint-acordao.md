@@ -1,0 +1,53 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. TIPICIDADE. CRIME DE PERIGO ABSTRATO. REGIME INICIAL FECHADO. CONCURSO MATERIAL COM ROUBO. PENA FINAL SUPERIOR A 8 ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. REINCIDÊNCIA. AGRAVO IMPROVIDO.
+1. O delito do art. 14 da Lei 10.826/03 é crime de perigo abstrato, que visa proteger bens jurídicos fundamentais - vida, patrimônio, integridade física, segurança e paz públicas -, a afastar a incidência do princípio da insignificância, sendo irrelevante inquirir a quantidade de munição apreendida em poder do agente.
+2. Havendo jurisprudência pacificada neste Tribunal e não havendo uniforme tratamento diferenciado pela Suprema Corte, é de ser mantida a interpretação jurisprudencial vigente, em atenção à segurança jurídica.
+3. Mostra-se adequada a aplicação do regime inicial fechado, considerando que além do quantum de pena final (8 anos e 8 meses de reclusão) - imposta pela prática, em concurso material, de roubo majorado e porte de munição -, restou evidenciada a presença de circunstâncias judiciais desfavoráveis, o que motivou a fixação da pena-base acima do mínimo legal, além da reincidência.
+4. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que deu provimento ao recurso especial da acusação para, reconhecendo a tipicidade da conduta de portar ilegalmente munição de uso permitido, restabelecer a sentença condenatória.
+Alega que a excepcionalidade do caso autorizaria a flexibilização da jurisprudência desse Superior Tribunal de Justiça, porquanto a apreensão de cinco munições de arma de fogo, calibre 22, marca CBC de uso permitido, não resulta qualquer dano à ordem pública ou perigo ao bem jurídico tutelado (fl. 431). Invoca, em prol da tese, o HC 133.984, da relatoria da Min. CÁRMEN LÚCIA.
+Sustenta, quanto ao regime de cumprimento de pena, que a decisão, no ponto, carece de fundamentação, porquanto não se observam as razões adotadas pelo douto relator a reformar o acórdão de origem (fl. 432).
+Requer, assim, a reconsideração da decisão agravada ou a remessa dos autos para a Sexta Turma.
+Foi apresentada impugnação às fls. 449/452.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A despeito das razões apresentadas, a agravante não trouxe argumentos capazes de reformar a decisão agravada, que deve ser mantida por seus próprios fundamentos (fls. 418/420):
+Depreende-se dos autos que a recorrida foi condenada, em primeira instância, pela prática das condutas descritas nos arts. 157, § 2º, II, do Código Penal, e 14, caput, da Lei n. 10.826/03, na forma do art. 69 do CP, às penas de 8 anos e 8 meses de reclusão, no regime fechado, e pagamento de 30 dias-multa.
+Irresignada, a defesa manejou Apelação Criminal perante o Tribunal de origem, que deu parcial provimento ao apelo, com base nos seguintes fundamentos (fl. 354, com destaques):
+ ..  No que se refere ao crime de porte ilegal de munição de uso permitido, imputado a Edivânia Gonçalves de Moraes, não obstante a doutrina e jurisprudência majoritária adotarem posicionamento de que tal conduta configura crime de mera conduta e de perigo abstrato, filio-me ao entendimento segundo o qual, em decorrência da fragmentariedade do Direito Penal, caracterizado pela intervenção mínima estatal, a ausência de perigo concreto de lesão afasta a tipicidade da conduta.
+No caso, apesar de ter sido atestada a apreensão de 5 munições calibre 32 (fl. 27) em poder de Edivânia, não havia arma com ela ou nas proximidades, nem mesmo noticia da existência de um artefato, já que na prática criminosa foi usado um simulacro de arma de fogo, um brinquedo.
+Com isso, fica demonstrada a impossibilidade fática, nas circunstâncias do caso concreto, da utilização da munição na finalidade para a qual foi produzida, inexistindo qualquer risco de dano real e efetivo. Razão pela qual a absolvição por atipicidade material da conduta (art. 386, III, CPP) é medida que se impõe.
+No ponto, assiste razão ao Parquet.
+O legislador, ao criminalizar o porte ou posse de armas e munições, seja de uso permitido, restrito ou proibido, preocupou-se, essencialmente, com o risco que a referida conduta representa para bens jurídicos fundamentais, tais como a vida, o patrimônio, a integridade física, entre outros.
+Nesse contexto, basta o simples porte ou posse de arma de fogo, munição ou acessório, de uso permitido ou restrito, em desacordo com determinação legal ou regulamentar para a incidência do tipo penal, uma vez que a impossibilidade de uso imediato da munição, ainda que em pequena quantidade, não descaracteriza a natureza criminosa da conduta (REsp 1644771/RJ, Ministro JORGE MUSSI, 10/02/2017, julgado em 1º/02/2017, DJe 10/02/2017).
+Vale destacar os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 12 DO ESTATUTO DO DESARMAMENTO. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO DESACOMPANHADA DE ARMA DE FOGO. TIPICIDADE. CRIME DE PERIGO ABSTRATO. REVALORAÇÃO JURÍDICA DE FATOS INCONTROVERSOS. POSSIBILIDADE. SÚMULA 7/STJ. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A conduta consistente na posse irregular de munição de uso permitido configura o delito do art. 12 da Lei n. 10.826/2003, sendo irrelevante o fato de estar desacompanhada da respectiva arma de fogo, por se tratar crime de perigo abstrato.
+2. É admitida a revaloração jurídica de fatos incontroversos pelas instâncias ordinárias, o que afasta a incidência da Súmula 7 do STJ.
+3. Agravo regimental improvido.
+(AgRg no REsp 1497373/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 28/06/2016, DJe 01/08/2016).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PORTE ILEGAL DE MUNIÇÃO. AUSÊNCIA DE LESIVIDADE DA CONDUTA. VIOLAÇÃO À SÚMULA 7/STJ. NÃO OCORRÊNCIA. REVOLVIMENTO DO CONJUNTO PROBATÓRIO DESNECESSÁRIO. CRIME DE PERIGO ABSTRATO. EXISTÊNCIA DE RELEVÂNCIA PENAL. INSURGÊNCIA DESPROVIDA.
+1. A questão posta no apelo especial limita-se a indagar sobre a possibilidade de se considerar carente de lesividade a conduta de portar munição desacompanhada da respectiva arma de fogo, ainda que em pequena quantidade, prestação jurisdicional que não reclama qualquer análise do conjunto probatório, já que se trata de hipótese fática sobre a qual não há controvérsia, circunstância que afasta a alegada violação à Súmula n. 7/STJ.
+2. O simples fato de portar munição de uso permitido configura a conduta típica prevista no artigo 14 da Lei n. 10.826/2003, por se tratar de delito de mera conduta e de perigo abstrato, cujo objeto imediato é a segurança coletiva. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1433734/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 07/04/2015, DJe 15/04/2015).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 12 DA LEI Nº 10.826/03. OCORRÊNCIA. POSSE DE MUNIÇÃO. TIPICIDADE. INEXIGIBILIDADE DE EXAME PERICIAL. CRIME DE MERA CONDUTA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É firme o entendimento deste Tribunal Superior de que "eventual apreensão de munições isoladas não descaracteriza o crime previsto no art. 12, caput, do Estatuto do Desarmamento, pois, por ser delito de perigo abstrato e de mera conduta, para o reconhecimento da prática dessa infração penal, basta a simples posse da munição, sem autorização da autoridade competente, independendo da comprovação, por perícia, do efetivo prejuízo ou da lesão ao bem jurídico tutelado." (AgRg no REsp 1.360.271/MG, Rel. Min. MOURA RIBEIRO, QUINTA TURMA, DJe 11/02/2014).
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1527891/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/05/2015, DJe 02/06/2015).
+Destarte, encontrando-se o acórdão recorrido em dissonância com o entendimento desta Corte, deve ser reformado.
+Outrossim, impõe-se a fixação do regime inicial fechado, nos termos do art. 33, § 2º, a, do Código Penal.
+Ante o exposto, dou provimento ao recurso para restabelecer a sentença condenatória.
+De fato, é firme o entendimento nesta Corte de ser irrelevante, para a configuração do delito do art. 14 da Lei n. 10.826/03, inquirir a quantidade de munição apreendida em poder do agente, por constituir crime de perigo abstrato, cujo escopo é proteger bens jurídicos fundamentais - vida, patrimônio, integridade física, segurança e paz públicas.
+É certo que, no Supremo Tribunal Federal, a Segunda Turma possui precedentes concluindo pela inexistência de potencialidade lesiva da munição apreendida, desacompanhada de arma de fogo, em razão da atipicidade material dos fatos, quando pequena a quantidade de munições: uma munição calibre 22 (RHC 143449, Relator(a): Min. RICARDO LEWANDOWSKI, julgado em 26/09/2017), ou uma munição calibre 040 (HC 133984, Relatora Min. CÁRMEN LÚCIA, julgado em 17/05/2016).
+Não obstante, a Primeira Turma do Supremo Tribunal Federal permanece não admitindo a insignificância pelo porte de munição, ainda que em pequena quantidade e ainda que desacompanhada de arma de fogo, conforme já decidido no RHC 146081 AgR, Relatora Min. ROSA WEBER, julgado em 10/11/2017, e no HC 138157-AgR, Relator Min. ROBERTO BARROSO, julgado em 02/06/2017).
+Deste modo havendo jurisprudência estabelecida nesta Corte e não havendo uniforme tratamento diferenciado pela Suprema Corte, é de ser mantida a interpretação jurisprudencial, em atenção à segurança jurídica.
+Quanto à alegada ausência de fundamentação no que pertine ao regime prisional, oportuno esclarecer que a decisão agravada restabeleceu a sentença em todos os seus termos, de modo que não há falar em violação ao art. 33 do Código Penal.
+Vale destacar que se mostra adequada a aplicação do regime inicial fechado, considerando que, além do quantum de pena final (8 anos e 8 meses de reclusão), imposta pela prática, em concurso material, de roubo majorado e porte de munição, restou evidenciada a presença de circunstâncias judiciais desfavoráveis, o que motivou a fixação da pena-base acima do mínimo legal, além da reincidência (fls. 225/226).
+Ante o exposto, voto por negar provimento ao agravo regimental.
