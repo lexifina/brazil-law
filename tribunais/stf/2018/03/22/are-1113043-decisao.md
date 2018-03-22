@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. PARTILHA DE BENS DO CÔNJUGE FALECIDO. AGRAVO INTEMPESTIVO. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “AGRAVO DE INSTRUMENTO. INVENTÁRIO - Direitos sucessórios do cônjuge supérstite. Casamento regulado pelo regime de comunhão parcial de bens. Incidência do artigo 1.829, inciso I, do Código Civil. Interpretação sistemática do regime sucessório com a regulação patrimonial das relações afetivas. Concorrência da viúva com os descendentes que se limita aos bens comuns do casal, adquiridos sob o manto da colaboração mútua, não incidindo sobre os bens particulares, sob pena de violação ao princípio da autonomia da vontade. Precedentes desta Corte e do Superior Tribunal de Justiça. DECISÃO REFORMADA. AGRAVO PROVIDO.”
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, caput, XXII e XXIII, da Constituição Federal.
+    O Tribunal Regional a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição, acaso existente, seria indireta.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    O prazo para a interposição de agravo contra decisão que inadmite recurso extraordinário é de 15 (quinze) dias úteis, a teor do disposto no artigo 1.003, § 5º, do CPC/2015.
+    A agravante foi intimada da decisão agravada em 5/5/2016 (Doc. 4, fl. 85), entretanto, a petição de agravo somente foi protocolada em 30/5/2016 (Doc. 4, fl. 103), após o transcurso do prazo recursal.
+    Releva notar que o artigo 1.003, § 6º, do novo Código de Processo Civil determina que “o recorrente deverá comprovar a ocorrência de feriado local no ato de interposição do recurso” (grifos meus), o que não ocorreu no presente caso. Seguindo essa orientação, destaco o seguinte julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Intempestividade. 1. O agravante não observou o prazo de 15 (quinze) dias úteis para a interposição do agravo manejado contra a decisão de inadmissão do recurso extraordinário, segundo dispõe o § 5º do art. 1.003 do Código de Processo Civil. 2. O art. 1.003, § 6°, do Novo CPC determina que “[o] recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso”. 3. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). 4. Não se aplica ao caso dos autos a majoração dos honorários prevista no art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais em favor do recorrido pela Corte de origem.” (ARE 1.033.168-AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe de 18/9/17)
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual, o que conduziria à aplicação de sucumbência recursal. Nada obstante, por não ter havido condenação ao pagamento de honorários advocatícios no Tribunal a quo, fica impossibilitada a sua majoração, nos termos do artigo 85, § 11, do CPC/2015.
+    Ex positis, NÃO CONHEÇO do agravo, com fundamento no artigo 932, VIII, do CPC/2015 c/c o artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 22 de março de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
