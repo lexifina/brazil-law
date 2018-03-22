@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+    “CONTRATO DE PARTICIPAÇÃO FINANCEIRA. DIREITO À COMPLEMENTAÇÃO DO NÚMERO DE AÇÕES SUBSCRITAS. PRELIMINARES AFASTADAS. POSSIBILIDADE DE PAGAMENTO DOS DIVIDENDOS. PRESCRIÇÃO INOCORRENTE. INDENIZAÇÃO COM BASE NO VALOR PATRIMONIAL DA AÇÃO APURADO COM BASE NO VALOR PATRIMONIAL DA AÇÃO APURADO NO BALANCETE DO MÊS DO PAGAMENTO DA PRIMEIRA OU ÚNICA PARCELA. PROTESTO PELA REALIZAÇÃO DE PROVA PERICIAL. DESNECESSIDADE. CÁLCULO DA INDENIZAÇÃO TOMANDO-SE POR BASE O VALOR DAS AÇÕES AUFERIDO EM COTAÇÃO DE BOLSA DE VALORES. RECURSO CONHECIDO EM PARTE E IMPROVIDO.” (eDOC. 2, p. 29)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5°, caput e inciso I, do texto constitucional.
+    Nas razões recursais, alega-se violação ao princípio da isonomia, uma vez que o acórdão recorrido aplicou ao caso concreto dois regimes jurídicos diferentes, criando, assim, dois prazos prescricionais diversos, um societário e um ordinário civil.
+    É o relatório.
+    Decido.
+    Destaco que a matéria relativa ao contrato de participação financeira e subscrição de ações de telefonia e sua complementação corresponde ao tema 178 da sistemática da repercussão geral, cujo paradigma é o AI-RG 729.263, Rel. Min. Cezar Peluso, DJe 16.10.2009, no qual foi declarada a inexistência de repercussão geral da questão pelo Plenário Virtual desta Corte. Eis a ementa desse julgado:
+    “RECURSO. Extraordinário. Incognoscibilidade. telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional”.
+    Além disso, verifico que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei nº 6.404/1976, Código de Processo Civil, Código Civil, Código de Defesa do Consumidor e MP 2.180/2001), consignou que o prazo prescricional seria o da lei civil. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A questão também já se consolidou em toda a jurisprudência, e dúvidas não mais existem acerca do caráter obrigacional do direito postulado na demanda. Não se pode atribuir a qualidade de acionista àquele que ainda não possui direito sobre as ações, justamente o objeto da presente ação, qual seja, a subscrição das ações faltantes em virtude de aquisição de linha telefônica por meio de Contrato de Participação Financeira em Investimento no Serviço Telefônico celebrado entre as partes.
+    Não se aplica ao caso o prazo prescricional previsto no art. 206, § 3º, inciso IV e V, do Código Civil, porquanto não se trata de pagamento de prestações acessórias, nem de ressarcimento de enriquecimento sem causa e sim do objeto principal do contrato.
+    De igual forma, os prazos decadencial e prescricional previstos nos arts. 26 e 27 do Código de Defesa do Consumidor, pois não se está discutindo sobre qualquer reclamação ou pedido de danos originários de fatos de produtos ou serviços.
+    Por fim, não aplicável a Medida Provisória 2.180/2001, por não versar a lide sobre responsabilidade civil extracontratual.
+    Assim, sendo de natureza contratual o direito à complementação de ações, por consequência, a pretensão deve prescrever em vinte (20) ou dez (10) anos, a teor dos arts. 177 do CC de 1916 e 205 do CC vigente, respectivamente.
+    […] No caso concreto, verifica-se não haver transcorrido o prazo prescricional.” (eDOC 2, p. 31-32)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “Agravo regimental no agravo de instrumento. Administrativo. prescrição. Impossibilidade de análise da legislação infraconstitucional. Ofensa constitucional indireta. Precedentes. Agravo regimental ao qual se nega provimento” (AI 850.551 AgR, rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.10.2011).
+    “Agravo regimental em agravo de instrumento. 2. Prazo prescricional. Código civil ou Decreto 20.910/32. Matéria infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 747.283-AgR, de minha relatoria, Segunda Turma, DJe 10.12.2010).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
