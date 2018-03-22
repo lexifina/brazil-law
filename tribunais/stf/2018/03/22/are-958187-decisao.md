@@ -1,0 +1,25 @@
+Decisão: Trata-se recurso extraordinário com agravo remetido à Segunda Turma Recursal do Rio Grande do Sul, para que se cumprisse o disposto no art. 1.036 do CPC de 2015, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática de repercussão geral pelo tema 709, cujo paradigma é o RE-RG 788.092, Rel. Min. Dias Toffoli Dje 14.11.2014. (eDOC. 5)
+    Encaminhados os autos, o Tribunal de origem devolveu o processo ao STF, ao fundamento de que a questão debatida não se amolda ao paradigma do tema 709, uma vez que, quanto à matéria objeto do referido tema, não há qualquer referência, sendo discutido no acórdão apenas a data inicial do benefício de aposentadoria (DIB).(eDOC. 186)
+    Sob essa ótica, após detida análise dos autos, observo que a matéria, do modo como é trazida na petição de recurso extraordinário, difere-se do citado paradigma.
+    Desse modo, torno sem efeito a devolução constante do eDOC. 5 e passo à apreciação do recurso.
+    Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 2ª Turma Recursal do Rio Grande do Sul, o qual consignou, no caso sob análise, que o termo inicial dos efeitos financeiros da condenação é a data do requerimento administrativo de aposentação especial. (eDOC. 117)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, a, da Constituição Federal, aponta-se violação aos artigos 1º, IV; 2º; 5º, caput, XIII, LIV e LV; 7º, XXXIII; 37, caput; 93, IX; 195, § 5º; 201, caput e § 1º, do texto constitucional.
+    Nas razões recursais, sustenta-se que o tema 709 da repercussão é análogo à matéria tratada nos autos.
+    Ademais, argumenta-se que não é permitido que, após a concessão da aposentadoria, o segurado continuasse exercendo as atividades nocivas.
+    Além disso, aduz-se que o acórdão recorrido está privilegiando aqueles trabalhadores que se aposentam antecipadamente sob o argumento de preservação de sua saúde, mas que não são imediatamente afastados de suas atividades nocivas.
+    Outrossim, alega-se que o fato de o art. 201, § 1º da CF não estabelecer qualquer restrição ou condição à concessão da aposentadoria especial, não há qualquer vedação a que norma infraconstitucional o faça, à luz do que estabelece o art. 57, § 8º, da LB.
+    É o relatório.
+    Decido.
+    Verifico que o Tribunal de origem, com base nas provas dos autos, consignou que no caso dos autos não há que se falar na incompatibilidade entre a concessão do benefício de aposentadoria e o exercício da atividade nociva. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Portanto, quanto ao termo inicial do benefício, entendo que a incompatibilidade da aposentadoria especial com o exercício da atividade nociva somente surge com a efetiva concessão do aludido benefício, pois não é razoável exigir do segurado o afastamento de suas atividades habituais enquanto não ocorreu a definição sobre seu direito e o ingresso da renda respectiva na sua esfera de disponibilidade econômica, isto é, o autor não pode ser prejudicado por não ter obtido, quando do requerimento administrativo, a inativação a qual fazia jus.
+    Dessa forma, merece adequação o acórdão recorrido, para que seja fixada, como termo inicial dos efeitos financeiros da condenação, a data do requerimento administrativo, em 08/06/2011.” (eDOC. 117, p. 1)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    "Agravo regimental no recurso extraordinário com agravo. Benefício previdenciário. Concessão. Prequestionamento. Ausência. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Não se presta o recurso extraordinário para o reexame das provas constantes dos autos ou para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 3. Agravo regimental não provido." (ARE 928668 AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe 28.04.2016)
+    "AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONTAGEM DO TEMPO DE SERVIÇO. TERMO INICIAL DA CONCESSÃO DA APOSENTADORIA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO." (AI 671330 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 04.02.2010)
+    Ante o exposto, torno sem efeito a devolução constante do eDOC 5, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de março de 2018.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
