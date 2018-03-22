@@ -1,0 +1,61 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CÓDIGO DE PROCESSO CIVIL DE 1973. INEXISTÊNCIA. RELAÇÃO DE CONSUMO. CORPO ESTRANHO EM ALIMENTO. PRESENÇA DE LARVAS E TEIAS EM BARRA DE CHOCOLATE. FABRICANTE. RESPONSABILIDADE SOLIDÁRIA CONFIGURADA. DANO MORAL. REEXAME FÁTICO DOS AUTOS. SÚMULA N. 7/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional.
+2. A jurisprudência desta Corte firmou o entendimento no sentido de que, em se tratando de relação de consumo, são solidariamente responsáveis todos da cadeia produtiva, nada impedindo que a parte que comprovar não ter a culpa possa exercer ação de regresso para ser reembolsado do valor da indenização.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Mondelez Brasil Ltda interpõe agravo interno contra a decisão, de fls. 561/564, que negou provimento ao agravo em recurso especial.
+Reitera a negativa de vigência do art. 535, I e II, do Código de Processo Civil de 1973, uma vez que não foi sanada a omissão no tocante à excludente de responsabilidade da agravante, em razão da aplicabilidade do art. 12, § 3º, III, do Código de Defesa do Consumidor, à hipótese dos autos.
+Afirma que "o artigo 12, § 3º, III do CDC é expresso ao excluir a responsabilidade da fabricante quando os fatos decorrem de culpa exclusiva de terceiro ou do próprio consumidor (..)" (fl. 571).
+Argumenta, por fim, que não pretende o reexame fático dos autos, de modo que não incide o óbice da Súmula n. 7 desta Corte.
+Intimada para se manifestar acerca da interposição do recurso, a parte contrária não apresentou impugnação, conforme a certidão de fl. 579.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso não prospera.
+Transcrevo, por oportuno, os fundamentos da decisão agravada (fls. 561/564):
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO DE REPARAÇÃO - DANOS MORAIS E MATERIAIS - AGRAVO RETIDO - CERCEAMENTO DE DEFESA - REJEIÇÃO - MÉRITO - RELAÇÃO DE CONSUMO - CORPO ESTRANHO EM ALIMENTO - PRESENÇA DE LARVAS E TEIAS EM BARRA DE CHOCOLATE - FABRICANTE - INTEGRANTE DA CADEIA PRODUTIVA - RESPONSABILIDADE OBJETIVA E SOLIDÁRIA - DANO MORAL - CONFIGURAÇÃO - DANOS IN RE IPSA - ARBITRAMENTO - CRITÉRIOS PARA SUA FIXAÇÃO - PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE - HONORÁRIOS ADVOCATÍCIOS - PEDIDO DE LIMITAÇÃO NO IMPORTE DE 15% - ARTIGO 11, § 1o, DA LEI N. 1.060/50 - INVIABILIDADE - APLICAÇÃO DO ARTIGO 20, § 3o, DO CÓDIGO DE PROCESSO CIVIL. - O indeferimento de prova irrelevante para o deslinde da causa não implica em cerceamento de defesa. Inteligência do artigo 130 do CPC. - O fornecedor de produto de consumo causa não implica em cerceamento de defesa. Inteligência do artigo 130 do CPC. - O fornecedor de produto de consumo responde solidariamente pelos vícios de qualidade que o torne impróprio ou inadequado para o consumo a que se destina. Inteligência do artigo 18 do CDC. - "Não há falar em prova do dano moral, mas, sim, na prova do fato que gerou a dor, o sofrimento, sentimentos íntimos que o ensejam. Provado assim o fato, impõe-se a condenação, sob pena de violação ao art. 334 do Código de Processo Civil." - A fixação do quantum indenizatório a titulo de danos morais deve ser feita com prudente arbítrio, observadas as circunstâncias do caso, para que não haja enriquecimento à custa do empobrecimento alheio, mas também para que o valor não seja irrisório. - "A regra do art. 11, § 1o, da Lei nº. 1.060/50, deixou de subsistir a partir do momento em que se instituiu na lei processual civil o sistema da sucumbência." . Assim, "o fato de o autor litigar sob o palio da justiça gratuita nada influencia no arbitramento do percentual da verba honorária, uma vez que esta visa à contraprestação pelos serviços prestados pelo procurador, devendo ser analisada conforme os requisitos previstos no art. 20, § 3o, do CPC".
+Foram opostos embargos de declaração.
+Nas razões de recurso especial alega a parte recorrente violação dos artigos 535, II, do Código de Processo Civil, apontando omissão; 12, § 3º, III, do Código de Defesa do Consumidor, ao argumento de que o fabricante terá sua responsabilidade excluída, nas hipóteses de verificação de culpa exclusiva do consumidor ou de terceiro; e 130, 332 e 420, do Código de Processo Civil, dizendo que houve cerceamento de defesa.
+Não merece reforma a decisão agravada.
+Inicialmente, destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Sem razão o recorrente quanto à alegada violação aos artigos 535, I e II, do CPC, haja vista que foram enfrentadas de forma fundamentada todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade (EDcl no Ag 1296255/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 26.9.2013; AgRg no AREsp 39428/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 4.10.2013).
+Por outro lado, o Tribunal de origem assim se manifestou acerca da controvérsia (cf. fls. 364/368, e-STJ):
+Na espécie, a prova pericial requerida apresenta-se inócua ao fim pretendido.
+Primeiro porque, ainda que exista um rigoroso controle de qualidade em sua unidade de fabricação, isso não impede a posterior contaminação do produto por fatores externos como, por exemplo, quando do seu transporte. Ademais, não há como se provar que, quando da fabricação do alimento, a sua unidade fabril encontrava-se em condições tais que impediria, de forma absoluta, qualquer contaminação.
+Em segundo lugar, imperioso destacar que, ainda que a contaminação do alimento tenha ocorrido no estabelecimento da segunda ré - Lojas Americanas S/A tal fato não excluiria a sua responsabilidade, já que ambas são participantes da cadeia produtiva, nos termos do que dispõe o artigo 18, caput, primeira parte, do Código de Defesa do Consumidor.
+Ora, apurado o fato que gerou o dano proveniente da relação de consumo - compra de produto alimentício estragado compete aos integrantes de toda a cadeia produtiva, reparar o dano, não havendo necessidade de demonstração de culpa pelo consumidor. Cuida-se da teoria do risco do negócio.
+Assim, as razões apresentadas não elidem a responsabilidade da apelante, já que participou da corrente do produto adquirido pelos autores/apelados.
+Nestes termos, compete-lhe reparar os danos causados.
+Observo que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+Ademais, é certo que, em se tratando de relação de consumo, são solidariamente responsáveis todos da cadeia produtiva, nada impedindo que a parte que comprovar não ter a culpa possa exercer ação de regresso para ser reembolsado do valor da indenização. Confira-se:
+Código de Defesa do Consumidor. Legitimidade passiva. Ação ajuizada com apoio no art. 18, § 6º, I e III, do Código. Responsabilidade solidária.
+1. Tratando-se de ação em que se aponta a responsabilidade pela venda de produto com prazo de validade vencido e, ainda, com elemento estranho ao seu conteúdo, existe a cobertura do artigo 18 do Código de Defesa do Consumidor. Por outro lado, o art. 25, § 1º, do mesmo Código estabelece a responsabilidade solidária de todos os que contribuíram para a causação do dano. Não há espaço, portanto, para a alegada violação ao artigo 18 do Código de Defesa do Consumidor na decisão que afastou a ilegitimidade passiva da empresa ré.
+2. Recurso especial não conhecido.
+(REsp 414.986/SC, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 29/11/2002, DJ 24/02/2003, p. 226)
+Por fim, a decisão recorrida está em consonância com o entendimento perfilhado nesta Corte no sentido de que não configura cerceamento de defesa o julgamento antecipado da lide quando o juízo embasa sua convicção em prova suficiente para fundamentar as suas conclusões expostas na sentença. Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PARCERIA PECUÁRIA. RESOLUÇÃO DO CONTRATO. EXPRESSA PREVISÃO DE MULTA. JULGAMENTO ANTECIPADO DA LIDE. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVA.
+1. É inviável a análise do recurso especial quando dependente de reexame de matéria de prova (Súmula 7 do STJ).
+2. Não configura cerceamento de defesa o julgamento antecipado da lide quando o Juízo embasa sua convicção em prova suficiente para fundamentar as conclusões expostas na sentença. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 827.771/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/06/2016, DJe 17/06/2016)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
+Conforme foi expressamente consignado na decisão ora agravada, não procede a alegação de violação do art. 535 do Código de Processo Civil de 1973, uma vez que foram enfrentadas todas as questões levantadas pela parte, de forma fundamentada, porém em sentido contrário ao pretendido, o que afasta a invocada negativa de prestação jurisdicional.
+Registro, por outro lado, que, tendo o Tribunal de origem mantido a responsabilidade solidária da empresa agravante e afastado o cerceamento de defesa, com base nos elementos informativos do processo, a revisão do julgado é obstada pela Súmula n. 7 do STJ, diante da necessidade de reexame fático dos autos.
+Destaco, ademais, que, em se tratando de relação de consumo, são solidariamente responsáveis todos da cadeia produtiva, nada impedindo que a parte que comprovar não ter a culpa possa exercer ação de regresso para ser reembolsada do valor da indenização. Nesse sentido, confiram-se:
+Código de Defesa do Consumidor. Legitimidade passiva. Ação ajuizada com apoio no art. 18, § 6º, I e III, do Código. Responsabilidade solidária.
+1. Tratando-se de ação em que se aponta a responsabilidade pela venda de produto com prazo de validade vencido e, ainda, com elemento estranho ao seu conteúdo, existe a cobertura do artigo 18 do Código de Defesa do Consumidor. Por outro lado, o art. 25, § 1º, do mesmo Código estabelece a responsabilidade solidária de todos os que contribuíram para a causação do dano. Não há espaço, portanto, para a alegada violação ao artigo 18 do Código de Defesa do Consumidor na decisão que afastou a ilegitimidade passiva da empresa ré.
+2. Recurso especial não conhecido.
+(REsp 414.986/SC, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, DJ de 24.2.2003)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE RESCISÃO CONTRATUAL C/C CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA DEMANDADA.
+1. A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. Nos termos do art. 14 do CDC, quando houver uma cadeia de fornecimento para a realização de determinado serviço, verificado o dano, nasce a responsabilidade solidária daqueles que participam da cadeia de fornecimento do serviço. Precedentes.
+3. Inviável alterar as conclusões a que chegou o Tribunal de origem quanto à legitimidade da agravante para figurar no polo passivo da demanda por se enquadrar no conceito de fornecedora. Incidência da Súmula 7 do STJ.
+4. Agravo regimental desprovido
+(AgRg no AREsp 805.534/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 26.10.2017)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
