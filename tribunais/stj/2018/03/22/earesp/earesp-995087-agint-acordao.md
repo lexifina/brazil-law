@@ -1,0 +1,119 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS DE TERCEIRO. CERCEAMENTO DE DEFESA E FRAUDE À EXECUÇÃO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos probatórios dos autos, afastou as alegações de cerceamento de defesa e de inexistência de fraude à execução. Alterar esse entendimento é inviável em recurso especial, de acordo com a referida súmula.
+3. O conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e realização de cotejo analítico entre elas, nos termos definidos pelo art. e 541, parágrafo único, do CPC/1973.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno (e-STJ fls. 560/589), interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, o agravante alega que, para se verificar o cerceamento de defesa, não há necessidade de reexame de matéria de fato.
+No seu entendimento, "no presente caso, havia e há, obrigatoriamente a necessidade de produção de provas em audiência, uma vez tratar-se de matéria de direito e de fato, os quais somente serão possíveis com a oitiva das partes e testemunhas, dentre elas, o próprio cartorário que realizou a Escritura de Compra e Venda" (e-STJ fl. 564).
+Argumenta que, "além de citar a violação da Súmula 375 do próprio Superior Tribunal de Justiça, indicou e descreveu, detalhadamente tópico por tópico a violação de dispositivo de Lei Federal, qual seja, artigo 593, do CPC/73" (e-STJ fl. 567), comprovando a inexistência dos pressupostos legais para reconhecimento da fraude à execução, sobre os quais discorre novamente no presente recurso.
+Afirma ter comprovado a divergência jurisprudencial nos moldes exigidos.
+Ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+O agravado não apresentou contrarrazões (e-STJ fl. 593).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS DE TERCEIRO. CERCEAMENTO DE DEFESA E FRAUDE À EXECUÇÃO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos probatórios dos autos, afastou as alegações de cerceamento de defesa e de inexistência de fraude à execução. Alterar esse entendimento é inviável em recurso especial, de acordo com a referida súmula.
+3. O conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e realização de cotejo analítico entre elas, nos termos definidos pelo art. e 541, parágrafo único, do CPC/1973.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: A insurgência não merece acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 551/557):
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) interposto contra decisão que inadmitiu recurso especial, sob os seguintes fundamentos: (a) aplicação do art. 543-C, § 7º, I, do CPC/1973, diante da existência de matéria julgada conforme precedente submetido ao regime dos recursos repetitivos, (b) ausência de ofensa aos artigos de lei indicados, e (c) incidência da Súmula n. 7/STJ (e-STJ fls. 491/494).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 359):
+EMBARGOS DE TERCEIRO - PRELIMINAR DE CERCEAMENTO DE DEFESA - REJEIÇÃO - Entendendo haver elementos suficientes à resolução do feito, o juiz deve julgá-lo no estado em que se encontra, indeferindo a produção de provas desnecessárias à solução da lide. Preliminar rejeitada.
+EMBARGOS DE TERCEIRO - IMPROCEDÊNCIA - RECONHECIMENTO DE FRAUDE À EXECUÇÃO - PRETENSÃO DE REFORMA - DESCABIMENTO - No caso concreto, houve demonstração de que o embargante adquiriu o bem litigioso diretamente dos executados, quando já corria contra eles demanda capaz de reduzi-los ao estado de insolvência. Configuração de fraude à execução Inteligência do artigo 593 do inciso II do Código de Processo Civil. Sentença mantida. Fundamentos da sentença adotados nos termos do art. 252 do Regimento Interno deste E. TJ-SP. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 370/400), interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente sustentou, além de dissídio jurisprudencial, violação dos arts. 330, I e 333, I, do CPC/1973, argumentando existir cerceamento de defesa, ante o indeferimento da prova testemunhal requerida em primeira instância.
+Apontou, além de dissenso interpretativo, ofensa ao art. 593, II, do CPC/1973 e à Súmula n. 375/STJ, porque o reconhecimento de fraude à execução dependeria do registro da penhora ou da prova de má-fé do terceiro adquirente, situações supostamente não verificadas nos autos.
+Afirmou que o registro imobiliário do negócio, posteriormente à instauração da demanda executiva, não seria representativo de má-fé dos adquirentes, "na medida em que a ausência de registro imobiliário do negócio jurídico sequer é requisito para legitimar o terceiro para o ajuizamento de embargos de terceiro, questão já pacificada pela Súmula n. 84/STJ" (e-STJ fl. 382).
+Sustentou que as áreas de matrícula n. 807 e 809 teriam sido adquiridas por [NOME] e OUTROS de [NOME] e OUTROS - 1 (um) ano antes do ajuizamento da demanda executiva pelo recorrido capaz de reduzir o devedor alienante à condição de insolvência -, sendo posteriormente os imóveis objeto de negócio jurídico com o ora recorrente.
+Asseverou que inexistiria comprovação pelo credor, ora recorrido, sobre sua ciência quanto à instauração da demanda executiva.
+Discorreu que a alienação dos referidos imóveis não teria implicado na insolvência do vendedor executado - ante a suposta existência de outros bens para garantir a execução - e que inexistiria conclium fraudis entre as partes, a fim de prejudicar credores.
+Foram apresentadas contrarrazões (e-STJ fls. 476/487).
+No agravo (e-STJ fls. 511/538), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 540).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+A tese de violação das Súmulas n. 84 e 375 do STJ não comporta análise no recurso, pois, de acordo com a Súmula n. 518/STJ, "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula". Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DECISÃO EM CONTRADIÇÃO À SENTENÇA PENAL. REEXAME DE PROVAS. SÚMULA 7/STJ. VIOLAÇÃO À SÚMULA. SÚMULA 518/STJ. DECISÃO AGRAVADA. FUNDAMENTO NÃO COMBATIDO. SÚMULA 182/STJ.
+1. Inviável o recurso especial cuja análise das razões impõe reexame do contexto fático-probatório da lide, nos termos da vedação imposta pela Súmula 7 do STJ.
+2. "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+(..)
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 783.782/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 17/12/2015.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. ALEGADA OFENSA À SÚMULA DE TRIBUNAL. INVIABILIDADE. SÚMULA 518/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 588.450/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 1/9/2016, DJe 12/9/2016).
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio - mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados -, e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973, ônus dos quais o recorrente não se desimcumbiu.
+O Tribunal a quo afastou o alegado cerceamento de defesa, ante o indeferimento da prova testemunhal, tendo em vista que (e-STJ fls. 360/361):
+Afirma o apelante que não lhe foi dada a oportunidade de produzir a prova oral necessária à comprovação dos fatos que alegou.
+Contudo, diante dos limites da controvérsia instaurada e analisando-se todo o alegado pelas partes, a prova oral pretendida apresentava-se, de fato, totalmente impertinente ao deslinde da causa.
+Cumpre salientar, também, que cabe ao magistrado, no exercício de sua função jurisdicional, "(..) determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias", nos termos do art. 130, Código de Processo Civil, para que quando do julgamento da lide, os autos já contenham o necessário para o deslinde da controvérsia.
+Portanto, formado o convencimento do magistrado, e considerando estarem presentes todos os elementos necessários ao julgamento da lide, era mesmo caso de se dispensar a instrução probatória, não se vislumbrando o alegado cerceamento de defesa.
+Dissentir das conclusões do acórdão impugnado para acolher a tese de insuficiência probatória, conforme sustentado pelo recorrente na insurgência recursal, demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ. A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. SEGURO. INDEFERIMENTO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA NÃO DEMONSTRADO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. DANOS PESSOAIS E DANOS MORAIS. CLÁUSULA EXPRESSA DE COBERTURA POR DANOS MORAIS. SÚMULA 402/STJ. INCIDÊNCIA DA SÚMULA 83/STJ.VIOLAÇÃO AO ART. 21 DO CPC.
+SUCUMBÊNCIA MÍNIMA. AFERIÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+(..)
+2. É defeso, em sede de recurso especial, fazer análise quanto à necessidade de produção de prova testemunhal, haja vista demandar a incursão nos elementos fático-probatórios dos autos. Incidência da Súmula 7 do STJ.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 808.081/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/5/2017, DJe 1/6/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROTESTO INDEVIDO. 1. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. 2. INDEFERIMENTO DE PROVA ORAL. ENTENDIMENTO QUE DECORRE DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO. REEXAME DE PROVA. DESCABIMENTO. SÚMULA 7/STJ. 3. DISSÍDIO PREJUDICADO. 4. AGRAVO INTERNO IMPROVIDO.
+(..)
+2. Infirmar o entendimento alcançado com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade de produção de prova oral no caso concreto, tal como busca a recorrente, esbarra no enunciado n. 7 da Súmula desta Corte.
+(..)
+4. Agravo interno improvido.
+(AgInt no AREsp n. 965.829/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/4/2017, DJe 4/5/2017.)
+O Tribunal de origem, soberano na análise das provas, assentou que ficou caracterizada fraude à execução e, por isso, julgou improcedentes os embargos de terceiro do recorrente, tendo em vista que (e-STJ fls. 363/364):
+Cabe destacar, apenas, que a r. Sentença acertadamente assentou que "(..) Acontece que não há nos autos qualquer indício de que o Embargante realmente adquiriu o imóvel litigioso dos Devedores na data alegada. Ao contrário disso, a realidade que ficou estampada nos autos é que o Embargante na verdade adquiriu o imóvel contencioso diretamente dos Executados na data de 30 de maio de 1998, ou seja, quando o processo de execução já havia se iniciado em 19 de agosto de 1997. Isso porque, conforme se observa das cártulas de fls. 197/198, quem constou como beneficiário foi o próprio [NOME] e não as pessoas de [NOME], [NOME], [NOME], [NOME] e [NOME], os quais o Embargante alega terem sido os sucessores dos Executados na cadeia aquisitiva do imóvel objeto desta contenda. Ademais, em todas as ocasiões que o Embargante foi instado a juntar a documentação necessária comprovando as suas alegações (contrato escrito), disse que pretendia demonstrar tais fatos através do depoimento de testemunhas. No caso, de acordo com o artigo 401 do Código de Processo Civil, é inadmissível produzir prova exclusivamente testemunhal para casos em que o valor do contrato ultrapasse o limite de dez salários mínimos. "Não se admite prova exclusivamente testemunhal nos contratos cujo valor exceda o limite previsto em lei. Assim, p.ex., no comodato (RT 620/137)". (..) Deve ser dito, ainda, que a boa fé do Embargante também não restou caracterizada, na medida em que a compra e venda do imóvel litigioso restou celebrada com quem não figurava como titular do domínio, sem que para tanto fosse elaborado qualquer contrato escrito, bem como não houve a exigência da exibição das certidões cíveis negativas em nome dos legítimos proprietários do bem, no caso os Executados. Por outro lado, não se pode olvidar que a venda fraudulenta dos bens litigiosos efetivamente reduziu o Devedor à condição de insolvência, pois não restou em seu patrimônio bens suficientes para a garantia do débito reclamado pelo Embargado.(..)"
+Rever as conclusões do acórdão impugnado, a fim de admitir a inexistência dos requisitos necessários ao reconhecimento da fraude à execução - nos moldes defendidos no especial -, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. A respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRAUDE À EXECUÇÃO. REQUISITOS CARACTERIZADORES. REGISTRO DA PENHORA. REEXAME DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7 DESTA CORTE. NOMEAÇÃO DE BEM IMÓVEL À PENHORA E EXISTÊNCIA DE BENS QUE GARANTEM A EXECUÇÃO. INOVAÇÃO RECURSAL. TEMA QUE NÃO FOI DEBATIDO NA CORTE A QUO. AGRAVO NÃO PROVIDO. 1. No caso dos autos, o Tribunal local, soberano na análise do acervo fático-probatório dos autos, entendeu pela configuração da fraude à execução, uma vez que, ao tempo da alienação dos imóveis pelo executado, corria demanda capaz de reduzi-lo à insolvência, bem como diante da averbação da penhora no registro dos imóveis alienados. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.029.244/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/5/2017, DJe 1/6/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.
+RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FRAUDE À EXECUÇÃO. MÁ-FÉ CONFIGURADA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO. 1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp n. 1.592.983/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/09/2017, DJe 02/10/2017)
+Ademais, assim decidindo, a Corte local alinhou-se ao entendimento da Segunda Seção deste Tribunal Superior de Justiça fixado no REsp n. 956.943/SP, julgado sob o rito do art. 543-C, do CPC/1973 (CPC/2015, art.1.040), no sentido de que o reconhecimento de fraude à execução depende do registro da penhora do bem alienado ou de prova de má-fé do terceiro adquirente. A propósito:
+PROCESSO CIVIL. RECURSO REPETITIVO. ART. 543-C DO CPC. FRAUDE DE EXECUÇÃO. EMBARGOS DE TERCEIRO. SÚMULA N. 375/STJ. CITAÇÃO VÁLIDA. NECESSIDADE. CIÊNCIA DE DEMANDA CAPAZ DE LEVAR O ALIENANTE À INSOLVÊNCIA. PROVA. ÔNUS DO CREDOR. REGISTRO DA PENHORA. ART. 659, § 4º, DO CPC. PRESUNÇÃO DE FRAUDE. ART. 615-A, § 3º, DO CPC.
+1. Para fins do art. 543-c do CPC, firma-se a seguinte orientação: 1.1. É indispensável citação válida para configuração da fraude de execução, ressalvada a hipótese prevista no § 3º do art. 615-A do CPC.
+1.2. O reconhecimento da fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente (Súmula n. 375/STJ).
+1.3. A presunção de boa-fé é princípio geral de direito universalmente aceito, sendo milenar a parêmia: a boa-fé se presume; a má-fé se prova.
+1.4. Inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência, sob pena de tornar-se letra morta o disposto no art. 659, § 4º, do CPC.
+1.5. Conforme previsto no § 3º do art. 615-A do CPC, presume-se em fraude de execução a alienação ou oneração de bens realizada após a averbação referida no dispositivo.
+2. Para a solução do caso concreto: 2.1. Aplicação da tese firmada.
+2.2. Recurso especial provido para se anular o acórdão recorrido e a sentença e, consequentemente, determinar o prosseguimento do processo para a realização da instrução processual na forma requerida pelos recorrentes.
+(REsp n. 956.943/PR, Relatora Ministra NANCY ANDRIGHI, Relator para o acórdão Acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 20/8/2014, DJe 1/12/2014.)
+Ainda nesse sentido:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - EMBARGOS DE TERCEIRO - FRAUDE À EXECUÇÃO - MÁ-FÉ DOS ADQUIRENTES - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+(..)
+2. "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente." (Súmula 375/STJ).
+2.1 A conclusão a que chegou o Tribunal local - acerca da existência de má-fé do terceiro adquirente, caracterizando fraude à execução - decorreu da análise do conjunto fático-probatório acostado aos autos, cuja revisão é vedada, em sede de recurso especial, em face do óbice inserto na Súmula 7 do STJ. Precedentes.
+3. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 440.325/MG, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 2/2/2017, DJe 9/2/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. FRAUDE À EXECUÇÃO. SÚMULA 375/STJ. REGISTRO DA PENHORA E INEQUÍVOCA CIÊNCIA DA EXECUÇÃO. ENTENDIMENTO DA CORTE ESPECIAL DO STJ FIRMADO NO RESP 956.943/PR (ART. 543-C DO CPC). MÁ-FÉ NÃO CONFIGURADA. CONSILIUM FRAUDIS. REVER A CONCLUSÃO DO TRIBUNAL DE ORIGEM DEMANDARIA A ANÁLISE DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+2. Nos termos do entendimento sedimentado na Súmula 375/STJ, a qual prevê a necessidade do registro da penhora do bem alienado ou da prova de má-fé do terceiro, estando esta comprovada, resta caracterizada a fraude à execução.
+3. Na hipótese, rever a conclusão do Tribunal de origem, que assentou que as provas demonstram a configuração de má-fé, não é possível neste caso, pois seria necessário o reexame do conjunto fático-probatório dos autos, o que é obstado em recurso especial ante o óbice da Súmula 7/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 778.071/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 3/3/2016, DJe 15/3/2016.)
+Incide, na espécie, também, o verbete da Súmula n. 83/STJ, por ambas as alíneas do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Inafastável o óbice da Súmula n. 7 do STJ.
+Conforme assinalado na decisão agravada, o acórdão recorrido, com base nos elementos probatórios dos autos, afastou o alegado cerceamento de defesa, porque, "diante dos limites da controvérsia instaurada e analisando-se todo o alegado pelas partes, a prova oral pretendida apresentava-se, de fato, totalmente impertinente ao deslinde da causa" (e-STJ fl. 553), e concluiu pela existência de fraude à execução, pois, "no caso concreto, houve demonstração de que o embargante adquiriu o bem litigioso diretamente dos executados, quando já corria contra eles demanda capaz de reduzi-los ao estado de insolvência" (e-STJ fl. 359).
+Para alterar esse entendimento, seria necessário reexame do conteúdo fático, vedado em recurso especial.
+Em relação à divergência, conforme afirmado, o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelo art. 541, parágrafo único, do CPC/1973.
+No caso concreto, inexistiu a necessária similitude fática entre o aresto atacado e os paradigmas apresentados.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
