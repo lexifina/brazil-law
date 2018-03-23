@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “APELAÇÃO CIVEL. AVERBAÇÃO DE TEMPO DE SERVIÇO NA INICIATIVA PRIVADA. RECONHECIMENTO DOS DIREITOS DECORRENTES. PARCELAS PRETÉRITAS. PAGAMENTOINDEVIDO.
+    Não há que se falar no pagamento de diferenças pretéritas quando a Administração, tão logo averbado o tempo de serviço prestado pelo servidor na iniciativa privada, reconhece os direitos decorrentes daquela averbação e os concede imediatamente.
+    Recurso conhecido e provido.” (eDOC 2 p. 37)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5°, XXXVI, LIV e LV, do texto constitucional.
+    Nas razões recursais, alega-se que os benefícios previdenciários devem regular-se pela Lei vigente ao tempo em que preenchidos os requisitos necessários a sua concessão.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que o adicional por tempo de serviço é próprio do regime estatutário, não tendo como retroagir à época em que o apelante trabalhava na iniciativa privada. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Entretanto, os requisitos para a implementação do sétimo quinquênio e para reconhecimento da aposentadoria integral da certidão do INSS junto à Fundação João Pinheiro e com a respectiva averbação do tempo de serviço, ocorrida em 05/06/2003.
+    Não há como retroagir o pagamento do quinquênio à época em que o apelante laborava na iniciativa privada, pois o adicional é próprio do regime estatutário.” (eDOC 2 p. 39)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. DIREITO CIVIL. PREVIDÊNCIA PRIVADA. TEMPO DE SERVIÇO FICTO. CONTAGEM. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. OFENSA CONSTITUCIONAL REFLEXA. RECURSO DESPROVIDO. 1. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário). 2. As ofensas à Constituição indicadas no recurso extraordinário são meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. 3. Agravo interno a que se nega provimento. Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado na causa, já considerada, nesse montante global, a elevação efetuada na decisão anterior (CPC/2015, art. 85, § 11).” (RE-AgR 1.039.441, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 21.3.2018)
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL POR TEMPO DE SERVIÇO. ANÁLISE DE LEGISLAÇÃO LOCAL. DECESSO REMUNERATÓRIO. EXAME DE MATÉRIA FÁTICA. AGRAVO IMPROVIDO. I – O Tribunal de origem dirimiu a questão atinente ao pagamento do adicional por tempo de serviço com fundamento na análise da legislação infraconstitucional pertinente (Lei distrital 2.675/2001). Eventual violação ao texto constitucional se daria de forma meramente reflexa, o que atrai a incidência da Súmula 280 do STF. II – A verificação deefetiva ocorrência de decesso remuneratório demanda, na espécie, o exame da matéria fática, o que é vedado pela Súmula 279 desta Corte. III – Agravo regimental improvido.” (RE-AgR 590.589, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 5.3.2012)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
