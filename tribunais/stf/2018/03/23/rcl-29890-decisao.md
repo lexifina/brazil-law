@@ -1,0 +1,26 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 10. INEXISTÊNCIA DE AFASTAMENTO DE LEI OU ATO NORMATIVO COM BASE EM FUNDAMENTO CONSTITUCIONAL. NEGO SEGUIMENTO.
+    Vistos, etc.
+    1. Trata-se de reclamação constitucional, com pedido de liminar, ajuizada por Ceneged – Companhia Eletromecânica e Gerenciamento de Dados S.A., com fulcro no art. 102, “l”, da Constituição Fedeal, em face de decisão proferida pelo Tribunal Superior do Trabalho, que negou provimento ao agravo de instrumento nos autos do processo número 440-28.2015.5.06.0341.
+    2. Alega o reclamante que o Tribunal Superior do Trabalho “considerou que o contrato de trabalho firmado entre a Reclamante e o autor daquela ação originária seria nulo, afastando-se a aplicação do art. 25, § 1º, da Lei nº 8.987/95, violando assim a Súmula Vinculante nº 10 deste STF”.
+    3. Busca, em sede liminar, a suspensão dos efeitos e, no mérito, a cassação da decisão reclamada.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista nos arts. 102, I, “l”, e 103-A, § 3º, da Constituição da República é cabível nas hipóteses de usurpação da competência do Supremo Tribunal Federal, de desobediência à súmula vinculante ou de descumprimento de decisão desta Corte com efeito vinculante.
+    2. O reclamante alega que o órgão fracionário do Tribunal Superior do Trabalho teria negado vigência ao art. 25, § 1º, da Lei 8.987/1995, impossibilitando a realização de contratação de serviço terceirizado, em afronta à Súmula vinculante 10, de seguinte teor:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.”
+    3. O comando do aludido verbete obriga que, na análise a respeito de possível ofensa ao seu conteúdo, esta Corte investigue se o afastamento de norma no caso concreto se deu em função de declaração explícita ou implícita de inconstitucionalidade. Assim, não é o mero ato de afastar a aplicabilidade do comando legal que implica contrariedade à súmula, mas fazê-lo com esteio em incompatibilidade, com o texto constitucional, mesmo que de forma não declarada.
+    4. A discussão posta, na presente reclamação, consiste em aferir, portanto, se o afastamento, por órgão fracionário, do art. 25, § 1º, da Lei 8.987/1995, que possibilita à concessionária de serviço público contratação de terceiros para realização de suas atividades inerentes, acessórias ou complementares, se deu com base em fundamento extraído da Constituição Federal.
+    6. O agravo em recurso de revista manejado pela reclamante foi julgado nos seguintes termos, por meio de acórdão assim fundamentado:
+    […]
+    No caso concreto, pelo que se extrai do acórdão recorrido, o reclamante trabalhava executando as tarefas de eletricista, prestando serviços em proveito da Companhia Energética de Pernambuco (CELPE), concessionária de energia elétrica.
+    O Tribunal Regional, analisando o estatuto social da CELPE, concluiu que o trabalho realizado pela empresa contratada faz parte da atividade-fim da tomadora dos serviços, o que evidencia a contratação fraudulenta, permitindo o reconhecimento do vínculo de emprego entre o reclamante e a segunda reclamada, nos termos da Súmula 331, I, do TST.
+    A jurisprudência desta Corte tem se orientado no sentido de que o art. 25, § 1º, da Lei 8.987/95 não autoriza a terceirização de atividades essenciais e complementares das concessionárias de serviços públicos
+    6. Consoante se denota do excerto transcrito, o juízo reclamado, com esteio na interpretação da legislação infraconstitucional (Lei n. 8.987/1995 e CLT) procedeu à efetiva operação de subsunção da moldura fática delineada às hipóteses normativas neles descritas, em interpretação sistemática do ordenamento jurídico. Logo, não há identidade entre o ato reclamado e o conteúdo do paradigma de controle desta Suprema Corte
+    7. Nesse contexto, não há falar em afronta à Súmula Vinculante 10, uma vez que não houve afastamento do art. 25, § 1º,da Lei 8.987/1995, em razão de sua incompatibilidade com o texto constitucional.
+    8. Nessa linha de argumentação jurídica, envolvendo a legislação específica, cito as seguintes decisões monocráticas: Rcl 25621/MS, Rel. Min. Ricardo Lewandowski, DJe 23.10.2017; Rcl 19598/ES, Rel. Min. Ricardo Lewandowski, DJe 31.8.2017; Rcl 27068/MG, de minha relatoria, DJe 21.8.2017; Rcl 27173/MG, de minha relatoria, DJe 27.8.2017; Rcl 27176/MG, Rel. Min. Celso de Mello, DJE 01.8.2017; Rcl 18.5.2017, Rel. Min. Luiz Fux, DJe 25.5.2017; Rcl 26407/RO, Rel. Min. Edson Fachin, DJe 20.2.2017; Rcl 25858/PA, Rel. Min. Marco Aurélio, DJe 16.2.2017; Rcl 22430/DF, Rel. Min. Marco Aurélio, DJe 03.12.2017.
+    9. Destaco, por fim, não ser possível conferir à reclamação a natureza de sucedâneo recursal ou de meio ensejador do reexame do conteúdo do ato reclamado, tampouco instrumento de uniformização.
+    10. Ante o exposto, forte no no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, restando prejudicado o exame do pedido liminar.
+    Brasília, 23 de março de 2018.
+    Publique-se.
+Ministra Rosa Weber
+Relatora
