@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 2ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 6, p. 6):
+    “AGRAVO DE INSTRUMENTO – DECISÃO QUE DETERMINOU ALIENAÇÃO DE IMÓVEL EM HASTA PÚBLICA – ALEGAÇÃO DE QUE O BEM É IMPENHORÁVEL E NÃO PERTENCE À RECORRENTE - FALTA DE PROVA DO ALEGADO – OFENSA AO CONTRADITÓRIO E AMPLA DEFESA NÃO COMPROVADA - DECISÃO MANTIDA – AGRAVO IMPROVIDO.”
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, incisos XXII, XXIII, XXXV, XXXVI, LIV, LV; 93, IX, da Constituição da República.
+    O Presidente da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso extraordinário em virtude da inexistência de violação direta à Constituição Federal (eDOC 6, p. 71).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Vejamos o seguinte trecho do acórdão recorrido (eDOC 6, p.7):
+    ”A perspicácia do MM. Juiz singular elucida e clareia a discussão sobre o assunto, quando aponta que: “Observo informação do Oficial do SRI de Mogi das Cruzes de que o remanescente do imóvel M-37.252 pertence à Executada, ora Agravante, e o registro da penhora não foi possível porque a alienação das partes do imóvel, realizada pela Agravante, foi feita sem especialização das áreas, restando descrição quantitativa, mas não qualitativa do remanescente (fls. 603). Já em relação ao M-32.876, o Oficial do SRI de Mogi das Cruzes informou que a Agravante tem registrado em seu nome duas partes do imóvel e que as outras partes ainda estariam em nome do antigo proprietário” (fls. 604).
+    Cabia à Recorrente provar os seus próprios argumentos olvidando-se de que ALLEGATIO ET NON PROBATIO, QUASI NON ALLEGATIO, diziam os Romanos.
+    Ver que um feito se não paga do solo movediço do possível ou do provável, exigindo certeza. Os fatos apontados pela Agravante hão que haver prova segura coisa que aqui não se produziu.”
+    Nesse ponto, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo, tal como posta na lide, demandaria a reanálise do conjunto fático probatório, o que encontra óbice na Súmula 279 do STF.
+    No mais, observo que inexiste a alegada violação ao art. 93, IX, da Constituição Federal. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que vá de encontro aos interesses do recorrente.
+    Nesse sentido, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, o Plenário desta Corte assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Por fim, no que diz respeito à ofensa ao art. 5º, XXXV, XXXVI, LIV e LV, da Constituição, ao julgar o RE-RG 950.787, em 28.04.2016 (Tema 890), o Plenário deste Tribunal afirmou não existir repercussão geral nos casos em que a alegada ofensa ao princípio constitucional da legalidade e do acesso à Jurisdição ocorre de forma genérica, exigindo interpretação das normas infraconstitucionais e revolvimento do conjunto fático-probatório dos autos, o que torna inadmissível o processamento do recurso extraordinário, como no caso dos autos.
+    Ademais, no julgamento do ARE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe de 1º.08.2013, Tema 660, o Plenário desta Corte assentou que não há repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, do ato jurídico perfeito e da coisa julgada é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Carta da República, como no caso dos autos.
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a e b, do CPC.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
