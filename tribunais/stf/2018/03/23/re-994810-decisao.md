@@ -1,0 +1,19 @@
+DESPACHO
+RECURSO EXTRAORDINÁRIO. NOVA REMESSA DO TRIBUNAL DE ORIGEM. FUNDAMENTO PLAUSÍVEL. DISTRIBUIÇÃO NOS TERMOS REGIMENTAIS.
+Relatório
+    1. Em 22.9.2016, determinei a devolução destes autos ao Tribunal de origem por ter este Supremo Tribunal submetido à sistemática da repercussão geral as questões trazidas no presente recurso (Recurso Extraordinário n. 564.354, Tema 76).
+    2. Em 6.6.2017, a Décima Turma do Tribunal Regional Federal da Terceira Região, em juízo de retratação, manteve o acórdão recorrido nos seguintes termos:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ART. 543-B DO CPC/1973 (ART. 1.039 DO CPC/2015). EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. RE 564.354/SE. BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO DA REPÚBLICA DE 1988. JUÍZO DE RETRATAÇÃO NEGATIVO. ACÓRDÃO MANTIDO. 1. O benefício da parte autora foi concedido anteriormente à Constituição da República de 1988, tendo se submetido à observância de outros limitadores, com reposição integral da renda mensal inicial, motivo pelo qual, não faz jus à readequação aos tetos constitucionais, conforme jurisprudência pacífica do TRF da 3ª Região. 2. Julgado em consonância com o decidido pelo E. Supremo Tribunal Federal. Acórdão mantido” (doc. 291).
+    3. Contra essa decisão, Sérgio Nicolaz reiterou os termos do recurso extraordinário e requereu a remessa dos autos a este Supremo Tribunal (fl. 294).
+    4. Em 5.3.2018, os autos retornaram a este Supremo Tribunal com a seguinte decisão da Vice-Presidência do Tribunal Regional Federal da Terceira Região:
+    “Com efeito, nos termos do julgamento do RE n. 564.354/SE, decidido sob a sistemática de repercussão geral da matéria, foi assentado o entendimento de que não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+    Verifica-se que o acórdão recorrido afastou a revisão pleiteada, manifestando-se pela inaplicabilidade dos novos tetos estabelecidos pelas Emendas Constitucionais n. 20/98 e 41/03, ante o fato de o benefício ter sido concedido antes da Constituição Federal de 1988.
+    Entretanto, o mencionado acórdão paradigma do STF (RE n. 564.354/SE) não fez qualquer restrição quanto ao período no qual seria aplicável a observância aos novos tetos estabelecidos pelas Emendas Constitucionais 20/98 e 41/03.
+    Acrescente-se que eventuais dúvidas acerca do alcance do acórdão RE n. 564.354/SE restaram sepultadas, consoante se verifica dos recentes julgados do E. STF, nos quais os Eminentes Relatores esclareceram que a Suprema Corte não impôs limites temporais à aplicação do paradigma. É o que se verifica das decisões proferidas nos autos do RE n. 898.958/PE, Relatora Ministra Cármen Lúcia, j. 15/09/2015; ARE nº 885.608/RJ, Relator Ministro Roberto Barroso, j. 14/05/2015 e ARE 758.317/SP, Relator Ministro Roberto Barroso, j. 03/03/2015 (…). Ante a inexistência de pronunciamento quanto a eventual limitação ao teto quando da concessão do benefício, mesmo após a devolução dos autos à turma julgadora, de rigor admissão do recurso. Ante o exposto, ADMITO o recurso extraordinário” (fls. 296-297).
+    Analisada a questão trazida na espécie, DECIDO.
+    5. O Tribunal de origem suscita óbice à aplicação da repercussão geral neste processo pela “inexistência de pronunciamento quanto a eventual limitação ao teto quando da concessão do benefício”, havendo plausibilidade jurídica na fundamentação apresentada a impor o prosseguimento da tramitação do feito neste Supremo Tribunal para evitar-se desnecessária devolução do processo.
+    6. Pelo exposto, determino à Secretaria Judiciária a distribuição deste processo na forma regimental.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
