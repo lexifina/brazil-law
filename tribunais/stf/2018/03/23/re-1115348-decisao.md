@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI Nº 8.137/90. AUTORIA E MATERIALIDADE. DOLO GENÉRICO. OMISSÃO DE RECEITAS. PRESUNÇÃO RELATIVA. DOSIMETRIA DAS PENAS.
+    1. Comete crime contra a ordem tributária o agente que reduz o pagamento de tributos mediante omissão de informações às autoridades fazendárias.
+    2. O elemento subjetivo do tipo é o dolo genérico, bastando, para a perfectibilização do delito, que o agente tenha a vontade livre e consciente de suprimir ou reduzir o pagamento de tributos.
+    3. O art. 42 da Lei nº 9.430/96 consolida uma presunção de ocorrência de omissão de receitas ou rendimentos quando seu titular, regularmente intimado, não comprova a origem dos recursos creditados em sua conta corrente. Trata-se de presunção relativa, admitindo-se, portanto, prova em contrário pelo contribuinte fiscalizado.
+    4. ‘A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena’ (STF, HC 107.409/PE, 1ª Turma do STF, Rel. Min. Rosa Weber, un., j. 10.4.2012, DJe-091, 09.5.2012).
+    5. Na pena de multa, o número de dias-multa deve guardar proporcionalidade com o quantum da pena privativa de liberdade estabelecida. Já o valor do dia-multa deve ser fixado de acordo com as condições econômicas do condenado.
+    6. A pena de prestação pecuniária deve ser fixada atentando à situação financeira do acusado e, nessa medida, deve ser arbitrada de modo a não tornar o réu insolvente. Todavia, não pode ser fixada em valor irrisório que sequer seja sentida como sanção.
+    7. Apelação criminal parcialmente provida” (pág. 96 documento eletrônico 4).
+    No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação ao art. 5°, IV, IX, XII, XIV e LVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque os dispositivos constitucionais arguidos pelo recorrente não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido.
+    Ademais, se os embargos de declaração opostos não tiveram o propósito de suprir a omissão em relação aos dispositivos constitucionais ora invocados no apelo extremo, é inviável o recurso, nos termos da Súmula 356/STF. Nesse sentido, cito o ARE 772.836-AgR/PE, de relatoria do Ministro Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental em recurso extraordinário com agravo. Prequestionamento. Não ocorrência. Prequestionamento implícito. Inadmissibilidade. Incidência das Súmulas 282 e 356/STF. Procedimento de retenção de contribuição previdenciária. Fundo de Participação dos Municípios. Debate infraconstitucional. Afronta reflexa. 1. A Corte não admite a tese do chamado prequestionamento implícito, sendo certo que, caso a questão constitucional não tenha sido apreciada pelo Tribunal a quo, é necessária e indispensável a oposição de embargos de declaração, os quais devem trazer a discussão da matéria a ser prequestionada, a fim de possibilitar ao Tribunal de origem a apreciação do ponto sob o ângulo constitucional. 2. Para se ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar a controvérsia à luz da legislação infraconstitucional de regência (Leis nºs 8.212/91; 11.941/09; Decreto 3.048/99 e IN MPS/SRP nº 3/05). A ofensa ao texto constitucional seria, caso ocorresse, apenas indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 3. Agravo regimental não provido” (grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
