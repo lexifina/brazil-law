@@ -1,0 +1,22 @@
+Decisão:
+Ementa: Processual Penal. Habeas Corpus. Alegação de demora no STJ. Excesso de prazo. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 410.390, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que os pacientes foram condenados à pena de 11 anos e 8 meses de reclusão, em regime inicial fechado, e multa, pelos crimes previstos nos arts. 33, caput, c/c o 40, I, da Lei 11.343/2006; art. 273, §1º e §1º – B, I, do Código Penal; na forma do art. 70 do mesmo diploma legal.
+    3. Interposta apelação, o Tribunal Regional Federal da 3ª Região negou provimento ao recurso. Na sequência, a defesa interpôs Recurso Especial, não admitido ante sua intempestividade e, na mesma data, foi determinada a execução provisória da pena.
+    4. A condenação transitou em julgado em 25.10.2016.
+    5. Foi então impetrado HC no Superior Tribunal de Justiça. O relator, Ministro Joel Ilan Paciornik, indeferiu o pedido de liminar. Na sequência, a defesa interpôs Agravo Regimental, pendente de julgamento.
+    6. Neste habeas corpus, a parte impetrante sustenta a demora no julgamento do mérito da impetração formalizada no Superior Tribunal de Justiça e alega ser “inconstitucional a pena aplicada aos pacientes pelo crime previsto no art. 273 §1-B do Código Penal, por ser desproporcional”.
+    7. Com essa argumentação, requer “a concessão em definitivo da ordem no presente WRIT para fins de manter os pacientes em liberdade até julgamento definitivo do Habeas Corpus que se encontra a mais de 08 (oito) meses pendente de julgamento no Tribunal Superior de Justiça (...)”; subsidiariamente, “seja deferida a prisão domiciliar para a paciente LAURIANA DOS SANTOS CARDOSO, para ser cumprido na cidade de Naviraí – MS, pelos motivos alegados” - “a paciente possui três filhos menores de 13 (treze) anos, 09 (nove) anos e 04 (quatro) anos”.
+    Decido.
+    8. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    9. A hipótese de que se trata não autoriza a superação da Súmula 691/STF.
+    10. De início, ressalto que as duas Turmas deste Supremo Tribunal Federal têm precedentes admitindo, em determinadas hipóteses, a possibilidade de se caracterizar a ocorrência de constrangimento ilegal pela demora excessiva no julgamento de habeas corpus pelos tribunais de origem. Tal possibilidade fica reforçada pela explicitação, feita pela Emenda Constitucional nº 45/2004, do direito fundamental à razoável duração do processo. Nesse sentido, a título de exemplo, destaco o HC 110.367, julgado sob a relatoria da Ministra Cármen Lúcia.
+    11. No caso dos autos, contudo, a página oficial do Superior Tribunal de Justiça na internet não evidencia desídia que justifique a concessão do pedido. O HC 410.390 foi autuado naquele Tribunal em 03.08.2017 e prontamente distribuído ao Ministro Joel Ilan Paciornik. A liminar foi indeferida em 04.08.2017 e publicada em 09.08.2017. O feito encontra-se concluso para julgamento ao relator, de modo que não vejo ilegalidade flagrante ou abuso de poder que justifique o acolhimento da pretensão defensiva.
+    12. Não bastasse isso, o Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski). No caso, as páginas oficiais do Tribunal de Justiça do Estado de Mato Grosso do Sul e do Superior Tribunal de Justiça na internet dão conta que a condenação transitou em julgado para os pacientes em 25.10.2016.
+    13. Por outro lado, as peças que instruem este processo não evidenciam ilegalidade flagrante ou abuso de poder que autorize a imediata concessão da ordem.
+    14. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
