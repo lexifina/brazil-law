@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, que foi assim ementado (fl. 721, Vol. 4):
+    “EMENTA: TRIBUTÁRIO E PROCESSUAL CIVIL, AÇÃO ANULATÓRIA DE DÉBITO FISCAL. AGRAVOS DE INSTRUMENTO VINCULADOS À MESMA LIDE PORÉM RELATIVOS A INCIDENTES POSTERIORES À SENTENÇA EM REVISÃO. INAPLICABILIDADE DO ART. 559 DO CPC. MÉRITO. ESTORNO DE CRÉDITOS. ENTRADA DE MERCADORIA NO PRÓPRIO ESTABELECIMENTO INDUSTRIAL. SAÍDAS DE PRODUTOS FABRICADOS AOS QUAIS A LEI IMPÕE REDUÇÃO DE ALÍQUOTAS. AUTUAÇÃO REGULAR. PRECEDENTE DO STF. UNÂNIME. MULTA FISCAL. PERCENTUAL NÃO CONSIDERADO CONFISCATÓRIO. MAIORIA. APELO PARCIALMENTE PROVIDO.
+    1. Ação anulatória de débito fiscal. 2. Agravos de instrumento vinculados à mesma causa que se reportam a incidentes posteriores à sentença. 3. Inaplicabilidade do art. 559 do CPC. 4. Mérito. Pretensão desconstitutiva do débito fiscal que originou a execução fiscal de origem, após lançamento pautado no Decreto Estadual nº 14.876/91, ao não reconhecer crédito tributário da apelante oriundo da antecipação tributária referente à aquisição de produtos da cesta básica. 5. Decisão administrativa questionada pautada na legislação estadual de regência, além de guardar consonância com o contido no art. 155, § 2º, II ‘a’ e ‘b’, da CF. 6. Inconstitucionalidade unanimemente afastada, conforme precedente do Plenário do STF citado. 7. Percentual da multa fiscal mantido por maioria. 8. Apelo à unanimidade improvido”.
+    No apelo extremo, alegam-se, com amparo no art. 102, III, a, c e d, da Constituição Federal, violações aos arts. 150, IV e 155, § 2º, II, ‘a’ e ‘b’, da Carta Magna.
+    De início, o recurso extraordinário foi remetido ao Supremo Tribunal Federal, que, por sua vez, devolveu os autos ao Tribunal local para aplicação do Tema 214 da Repercussão Geral (fls. 790-791).
+    Após, em razão de interposição de agravo regimental pela parte ora recorrente, foi proferida nova decisão de devolução dos autos à Corte de origem, para aplicação, além do Tema 214, também do Tema 299 da Repercussão Geral (fls. 802-803).
+    Em nova análise do apelo, o TJPE julgou prejudicado o recurso no que diz respeito à matéria tratada no Tema 299, remetendo os autos ao STF para análise de eventual aplicação do Tema 214, por considerar que a multa, no caso, não tem caráter moratório, e sim punitivo (fls 814-817).
+    É o relatório. Decido.
+    O Tribunal de Justiça do Estado de Pernambuco julgou prejudicado em parte o recurso extraordinário, no tocante à tese relativa ao reconhecimento do direito de aproveitamento integral de créditos de ICMS oriundos de operações realizadas com produtos que compõem a cesta básica, os quais apresentam base de cálculo reduzida, tendo em vista o decidido pelo Plenário do STF no RE 635.688 (Rel. Min. GILMAR MENDES, DJe de 13/2/2015, Tema 299).
+    No mais, remeteu à análise desta CORTE apenas o ponto que trata do efeito confiscatório de multa aplicada no percentual de 100 % (cem por cento).
+    No que remanesce a ser decidido, o Plenário do SUPREMO TRIBUNAL FEDERAL, no RE 736.090 RG (Rel. Min. LUIZ FUX, DJe de 27/11/2015, Tema 863), examinou a repercussão geral da questão constitucional atinente ao limite da multa fiscal.
+    Assim, com fundamento no art. 1.036 e seguintes do Código de Processo Civil de 2015 e no art. 328, parágrafo único, do Regimento Interno do STF, determino a devolução dos autos ao Juízo de origem para que aguarde a decisão do Supremo no RE 736.090.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+      Documento assinado digitalmente
