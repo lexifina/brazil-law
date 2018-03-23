@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, LV, 30, III, 145, I e II, e 156 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Verifico que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 1º.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do devido processo legal, do contraditório e da ampla defesa quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Divergir da conclusão da Corte de origem demandaria a análise da legislação infraconstitucional apontada no apelo extremo, bem como o revolvimento do conjunto fático delineado, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. CDA. Nulidade. Princípio da legalidade. Incidência a Súmula 636/STF. Afronta reflexa. Fatos e provas. Súmula 279/STF. 1. Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade quando sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais na decisão recorrida (Súmula 636/STF). 2. O reexame da causa à luz da legislação infraconstitucional e dos fatos e provas dos autos, é vedado em sede de recurso extraordinário. Incidência do enunciado da Súmula nº 279/STF. 3. Agravo regimental não provido.” (ARE 840030 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 26/05/2015, PROCESSO ELETRÔNICO DJe-118 DIVULG 18-06-2015 PUBLIC 19-06-2015)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. ITBI. CERTIDÃO DE DÍVIDA ATIVA. CDA. REQUISITOS. 1. A análise dos requisitos de validade da Certidão de Dívida Ativa cinge-se ao âmbito infraconstitucional. Súmula 279 do STF. 2. Agravo regimental a que se nega provimento.” (ARE 911619 AgR, Relator(a): Min. EDSON FACHIN, Primeira Turma, julgado em 24/11/2015, PROCESSO ELETRÔNICO DJe-249 DIVULG 10-12-2015 PUBLIC 11-12-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministra Rosa Weber
+Relatora
