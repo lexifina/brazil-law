@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO MUNICIPAL DE GRAMADO INATIVO. APOSENTADORIA PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL. AUSÊNCIA DE REGME PRÓPRIO. IMPOSSIBILIDADE DE COMPLEMENTAÇÃO DOS PROVENTOS PELO MUNICÍPIO.
+    1) O artigo 40, § 14°, da Constituição Federal, ao determinar que os Municípios podem instituir os Regimes Próprios de Previdência, em momento algum impõe tal obrigação.
+    2) Desse modo, considerando que quando de sua aposentadoria a autora estava submetida ao Regime Geral de Previdência Social, para quem vertia contribuições, e não a regime próprio, na medida em que o Município de Gramado não instituiu tal sistema, inexiste o direito à complementação de aposentadoria perseguida. Precedente específico.
+    3) Assim, na forma do artigo 46 da Lei nº 9.099/95 e em atenção aos critérios de celeridade, simplicidade, informalidade e economia processual elencados no artigo 2º da mesma lei, confirma-se a sentença em segunda instância, constando apenas da ata, com fundamentação sucinta e dispositivo, servindo de acórdão a súmula do julgamento.
+    RECURSO DESPROVIDO. UNÂNUNE” (pág. 190 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação ao art. 40, § 14, § 15 e § 16, da mesma Carta, bem como nos arts. 2°, 6° e 7° da EC 41/2003.
+    A pretensão recursal não merece acolhida.
+    Isso porque, do que se colhe do exame dos autos, o tribunal de origem, analisou as questões suscitadas pelo recorrente com base na legislação local pertinente (Lei Municipal 2.912/2011), bem como nas questões fáticas apresentadas. Nessa perspectiva, para divergir do posicionamento firmado no acórdão recorrido seria imprescindível o reexame do conjunto fático-probatório dos autos e da legislação infraconstitucional pertinente, o que é inviável, por descumprimento das Súmulas 279 e 280 desta Corte.
+    Nesse sentido, menciono os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEI MUNICIPAL N. 1.311/1994. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 679.454/MG-AgR, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público. Complementação de aposentadoria. Lei Municipal nº 1.311/94. Prequestionamento. Ausência. Legislação local. Análise. Impossibilidade. Precedentes. 1. Inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inviável, em recurso extraordinário, a análise da legislação local. Incidência da Súmula nº 280/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, pois a agravada não apresentou contrarrazões” (ARE 955.945/MG-AgR, Rel. Min. Dias Toffoli, Segunda Turma).
+    Nesse sentido, destacam-se, dentre outras, as seguintes decisões monocráticas: ARE 1.062.837/SP, Rel. Min. Dias Toffoli; RE 580.874/SP, Rel. Min. Alexandre de Moraes; ARE 987.296/SC, Rel. Min. Gilmar Mendes e ARE 932.161/SC, Rel. Min. Edson Fachin.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Deixo de majorar os honorários recursais previstos no art. 85, § 11, do Código de Processo Civil, uma vez que não foram fixados pelo juízo de origem.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
