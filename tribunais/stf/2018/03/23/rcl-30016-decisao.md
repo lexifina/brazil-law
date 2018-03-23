@@ -1,0 +1,16 @@
+DECISÃO:
+    1.  Trata-se de reclamação, com pedido liminar, ajuizada em face de acórdão proferido pela 3ª Turma Cível do Colégio Recursal de Santana, que negou provimento ao agravo em recurso extraordinário interposto pela parte ora reclamante.
+    2.  A reclamante alega que a competência para julgar agravo interposto contra decisão de negativa de seguimento de recurso extraordinário, quando não fundamentada na sistemática da repercussão geral, é exclusivamente do Supremo Tribunal Federal. Por esse motivo, sustenta que houve usurpação de competência desta Corte.
+    3.  É o relatório. Decido.
+    4.  Dispenso as informações, bem como a manifestação da Procuradoria-Geral da República, diante do caráter reiterado da matéria (RI/STF, art. 52, parágrafo único). Deixo, ademais, de determinar a citação da parte beneficiária da decisão reclamada, em face da manifesta inviabilidade do pedido.
+    5.  Na origem, a parte ora reclamante interpôs recurso extraordinário, no qual alega violação ao artigo 93, IX, da Constituição. Argumenta que o Tribunal de origem entendeu que o julgador não está obrigado a enfrentar todos os pontos submetidos à sua apreciação, mas apenas os que entenda suficientes.
+    6.  A Presidência do Colégio Recursal de Santana negou seguimento ao recurso, sob o fundamento de que a ofensa constitucional suscitada seria meramente reflexa e indireta. Contra tal decisão, o ora reclamante interpôs agravo em recurso extraordinário, com fundamento no artigo 1.042 do CPC/2015. No entanto, a Presidência do Colégio Recursal, ao contrário de determinar sua remessa ao Supremo Tribunal Federal, negou-lhe provimento.
+    7.  Verifico que, no exame de admissibilidade do recurso extraordinário, a Presidência do órgão de origem não se fundamentou na sistemática da repercussão geral. Portanto, o agravo previsto no artigo 1.042 do CPC/2015 é o recurso cabível para impugnar a decisão. Nos termos da súmula 727 desta Corte, não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo interposto da decisão que não admite recurso extraordinário. Assim, de fato a autoridade reclamada não deu trâmite correto ao recurso. Disso, no entanto, não decorre a procedência da reclamação. Isso porque o recurso extraordinário do reclamante encontra óbice no tema 339 da repercussão geral. Vejamos.
+    8.  No julgamento do AI 791.292, Rel. Min. Gilmar Mendes, paradigma do tema 339, esta Corte firmou o entendimento de que o artigo 93, IX, exige que a decisão seja fundamenta, ainda que sucintamente, sem determinar o exame pormenorizado de cada uma das alegações ou provas, ou que sejam corretos os fundamentos da decisão. Portanto, o acórdão recorrido está em consonância com a jurisprudência do STF.
+    9.  Assim, o recurso extraordinário ao qual a parte visa a dar trâmite é inadmissível, circunstância que configura a inutilidade da presente reclamação. É dizer, falta interesse processual à parte reclamante.
+    10.  Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação, prejudicada a análise do pedido liminar.
+    11.  Sem honorários, porquanto não citada a parte interessada.
+    Publique-se.
+    Brasília, 23 de março de 2018
+Ministro LUÍS ROBERTO BARROSO
+Relator
