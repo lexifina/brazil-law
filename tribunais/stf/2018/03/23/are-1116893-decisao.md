@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL PROFESSORA - APOSENTADORIA ESPECIAL. 1. Ilegitimidade passiva ad causam da Fazenda do Estado Ocorrência Competência da São Paulo Previdência (SPPREV) para o pagamento de pensões e benefícios no âmbito do funcionalismo público do Estado de São Paulo Inteligência da Lei Complementar Estadual n° 1.010/2007 regulamentada pelo Decreto estadual n° 54.623/09.
+    2. Contagem de tempo de serviço para aposentadoria especial, sem exclusão do período de afastamento para tratamento de saúde e faltas médicas Possibilidade Inteligência do §5º do artigo 40 da Constituição Federal e artigo 81 da Lei n° 10.261/68 Precedentes. Recurso voluntário parcialmente provido” (pág. 131 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alega-se, em suma, violação ao art. 40, caput, § 1°, e § 5°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Consta do voto condutor do acórdão recorrido:
+    “No mérito, entretanto, razão não assiste à apelante. O artigo 40, § 5º, com a redação introduzida pela EC nº 20/98, estabeleceu que ‘os requisitos de idade e de tempo de contribuição serão reduzidos em cinco anos, em relação ao disposto no § 1º, III, para professor que comprove exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio’.
+A Lei Complementar n° 444/85, que disciplina o Estatuto do Magistério Bandeirante, dispõe em seu artigo 91:
+‘Artigo 91. Consideram-se efetivamente exercidas as horas-aula e/ou horas atividade que o docente deixar de prestar por motivo de férias escolares, suspensão de aulas por determinação superior, recesso escolar, e de outras ausências que a legislação considere como de efetivo exercício para todos os efeitos legais. Parágrafo único. As horas-aulas e horas-atividade que o docente deixar de prestar, em virtude de licença concedida para tratamento de saúde, considerar-se-ão exercidas para fins de pagamento e, para os efeitos de incorporação aos cálculos dos proventos’
+    No mesmo sentido, a Lei n° 10.261/68 que versa sobre o Estatuto do Funcionário Público do Estado de São Paulo, garante o direito à licença para tratamento de saúde, com o consequente cômputo deste período para todos os fins, inclusive para aposentadoria:
+    ‘Artigo 81 - Os tempos adiante enunciados serão contados: I - para efeito de concessão de adicional por tempo de serviço, sexta-parte, aposentadoria e disponibilidade: a) o de afastamento nos termos dos arts. 65 e 66, junto a outros poderes do Estado, a fundações instituídas pelo Estado ou empresas em que o Estado tenha participação majoritária pela sua Administração Centralizada ou Descentralizada, bem como junto a órgãos da Administração Direta da União, de outros Estados e Municípios, e de suas autarquias; b) o de afastamento nos termos do art. 67; II - para efeito de disponibilidade e aposentadoria, o de licença para tratamento de saúde’ (g.n)
+    Desse modo, observa-se que a legislação contém, em diversos diplomas, a previsão expressa de que as faltas do servidor para tratamento de saúde serão computadas como tempo de serviço para fins de aposentadoria.
+    Cumpre destacar, que durante o período de afastamento, o servidor continua a receber seus proventos, de forma que os descontos da contribuição previdenciária não cessam. Destarte, de rigor a inclusão de tal período de contribuição para fins de aposentadoria especial, em se tratando de servidor da classe do Magistério.
+    […]
+    Ante o exposto, pelo meu voto, dá-se parcial provimento ao recurso, somente para fins de reconhecimento da ilegitimidade passiva da apelante quanto à concessão da aposentadoria especial, mantendo-se os demais termos da sentença nos seus próprios fundamentos” (págs. 134-138 do documento eletrônico 1).
+    Desse modo, para divergir do acórdão impugnado e verificar a procedência dos argumentos consignados no recurso extraordinário, seria indispensável o reexame da legislação infraconstitucional, o que é vedado pela Súmula 280 do STF.
+    Nesse sentido, cito o ARE 914.707/SP, de relatoria do Ministro Alexandre Moraes.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Ricardo Lewandowski
+Relator
