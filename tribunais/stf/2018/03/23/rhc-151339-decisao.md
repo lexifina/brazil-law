@@ -1,0 +1,24 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Ramon Patrick Pereira Neves Angelo, representado neste ato pela Defensoria Pública do Estado do Espírito Santo, contra acórdão do Superior Tribunal de Justiça, que não conheceu do HC 406.720/ES.
+    O Recorrente foi condenado à pena de 06 (seis) anos e 03 (três) meses de reclusão, no regime inicial semiaberto, pela prática do crime de tráfico de drogas, tipificado no art. 33 da Lei 11.343/2006.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Espírito Santo negou provimento ao recurso defensivo.
+    Submetida a questão à apreciação do Superior Tribunal de Justiça, a Corte Superior não conheceu do habeas corpus.
+    Neste recurso ordinário, a Defesa alega, em síntese, não observância ao postulado constitucional da inviabilidade do domicílio. Sustenta a ilicitude das provas embasadoras do édito condenatório, porquanto ausente mandado de busca e apreensão e/ou justa causa para adentrar na residência do paciente. Requer, em medida liminar e no mérito, “a nulidade dos atos praticados a partir da busca e apreensão domiciliar”.
+    É o relatório.
+    Decido.
+    Extraio do acórdão recorrido:
+    PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CRIME PERMANENTE. FLAGRANTE DELITO. FUNDADAS RAZÕES. CARACTERIZAÇÃO. BUSCA E APREENSÃO SEM MANDADO JUDICIAL. LEGALIDADE. WRIT NÃO CONHECIDO.
+    1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+    2. O entendimento perfilhado pela Corte de origem está em harmonia com a jurisprudência pacífica deste Tribunal, segundo a qual, sendo o crime de tráfico de drogas, nas modalidades guardar e ter em depósito, de natureza permanente, assim compreendido aquele cuja a consumação se protrai no tempo, não se exige a apresentação de mandado de busca e apreensão para o ingresso dos policiais na residência do acusado, quando se tem por objetivo fazer cessar a atividade criminosa, dada a situação de flagrância, conforme ressalva o art. 5º, XI, da Constituição Federal. Ainda, a prisão em flagrante é possível enquanto não cessar a permanência, independentemente de prévia autorização judicial. Precedentes.
+    3. O Pleno do Supremo Tribunal Federal já se manifestou nesse mesmo sentido, com o alerta de que, para a adoção da medida de busca e apreensão sem mandado judicial, faz-se necessária a caracterização de justa causa, consubstanciada em razões as quais indiquem a situação de flagrante delito (RE 603.616/RO, Relator Ministro GILMAR MENDES, Tribunal Pleno, DJe 10/5/2016).
+    4. "A ausência de justificativas e de elementos seguros a legitimar a ação dos agentes públicos, diante da discricionariedade policial na identificação de situações suspeitas relativas à ocorrência de tráfico de drogas, pode fragilizar e tornar írrito o direito à intimidade e à inviolabilidade domiciliar". Assim, a mera intuição acerca de eventual prática de venda ilícita de drogas pelo agente, "embora pudesse autorizar abordagem policial, em via pública, para averiguação, não configura, por si só, justa causa a autorizar o ingresso em seu domicílio, sem o consentimento do morador – que deve ser mínima e seguramente comprovado – e sem determinação judicial" (REsp 1.574.681/RS, rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, DJe 30/5/2017).
+    5. No caso em exame, observa-se a ocorrência de justa causa para a adoção da medida de busca e apreensão, pois, conforme asseverou o Tribunal de origem, o paciente, encontrado com R$ 278,00 em espécie, em notas trocadas de R$ 20,00, R$ 10,00, R$ 5,00 e R$ 2,00, após ter dispensado uma sacola contendo 24 pedras de crack, "falou para os moradores irem até a sua residência avisar a sua mulher, razão pela qual os policiais o acompanharam e iniciaram as buscas na casa, de sorte que havia fundadas razões para os policiais efetivarem as diligências".
+    6. Habeas corpus não conhecido.
+    Ressalto que, para fins de apreciação do pedido de liminar, é necessário avaliar se o ato dito coator teve o condão de caracterizar patente constrangimento ilegal.
+    Ao exame dos autos, verifico que o acórdão exarado pela Corte Superior se encontra fundamentado, apontando as razões de seu convencimento para manter o édito condenatório.
+    Em análise de cognição sumária, não detecto a presença dos pressupostos autorizadores da concessão da medida liminar com o imediato reconhecimento da nulidade processual apontada.
+    Ante o exposto, indefiro o pedido de liminar.
+    Ao Ministério Público Federal para manifestação.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministra Rosa Weber
+Relatora
