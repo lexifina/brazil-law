@@ -1,0 +1,34 @@
+Decisão:
+Ementa: Execução penal. Recurso ordinário em habeas Corpus. Alegação ausência de vaga em estabelecimento prisional adequado. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Rogerio Schietti Cruz, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXISTÊNCIA DE VAGA EM ESTABELECIMENTO COMPATÍVEL COM O REGIME SEMIABERTO. SÚMULA VINCULANTE N. 56 DO STF. OBSERVÂNCIA. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA NA AÇÃO CONSTITUCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. O Tribunal de Justiça decidiu a controvérsia em consonância com a Súmula Vinculante n. 56, a qual determina que ‘A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar nessa hipótese os parâmetros fixados no RE 641.320’.
+    2. Consoante o registro do acórdão, existe vaga para o agravante em estabelecimento destinado ao cumprimento da pena em regime fechado, mas que é compatível com o regime semiaberto, uma vez que há separação física entre os detentos, maior liberdade e menor vigilância, com possibilidade de realização de trabalho externo e, quando preenchidos os requisitos legais, de fruição de saídas temporárias.
+    3. O habeas corpus não é instrumento adequado para dirimir controvérsia fática acerca das condições da penitenciária.
+    4. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o recorrente – atualmente cumprindo pena em regime semiaberto –, requereu ao Juízo da Vara de Execuções Penais da Comarca de Ribeirão das Neves/MG o direito do condenado permanecer em prisão domiciliar, tendo em vista a ausência de vaga em estabelecimento prisional compatível com o regime intermediário. O pedido foi indeferido.
+    4. Contra essa decisão, a defesa interpôs agravo em execução. O Tribunal de Justiça do Estado de Minas Gerais negou provimento ao agravo.
+    5. Em seguida, foi impetrado habeas corpus no Superior Tribunal de Justiça. O Relator do HC 407.539, Ministro Rogerio Schietti Cruz, denegou a ordem.
+    6. Contra essa decisão, foi interposto agravo regimental, não provido.
+    7. Neste recurso ordinário, a defesa afirma que “os apenados que cumprem suas penas privativas de liberdade em regime semiaberto devem cumpri-las em ‘colônia agrícola, industrial ou estabelecimento similar’, nos termos do art. 33, § 1.º, b, do Código Penal e do art. 91 da Lei de Execução Penal. Na falta de estabelecimento adequado para o cumprimento da sanção penal, é vedado ao Estado transferir ao apenado a responsabilidade por sua inoperância, mantendo-o em local incompatível com os rigores do respectivo regime de pena. Na falta de vagas em local adequado, deve o apenado cumprir provisoriamente sua pena em regime mais brando, e não no mais gravoso”.
+    8. Prossegue a narrativa para destacar que “tornar um estabelecimento prisional destinado ao cumprimento de pena em regime fechado ‘adaptado’ ao regime semiaberto não guarda respeito às normas que regem a execução penal”.
+    9. Com essa argumentação, requer o provimento do recurso a fim de que “o paciente seja colocado em regime semiaberto ou em prisão domiciliar até o surgimento de vaga em colônia agrícola, industrial ou estabelecimento similar”.
+    10. O Ministério Público Federal manifesta-se pelo não provimento do recurso.
+    Decido.
+    11. O recurso ordinário não deve ser provido.
+    12. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que “A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar nessa hipótese os parâmetros fixados no RE 641.320” (Súmula vinculante n. 56). Contudo, no julgamento referido (RE 641.320, Rel. Min. Gilmar Mendes), o Tribunal decidiu que “Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como ‘colônia agrícola, industrial’ (regime semiaberto) ou ‘casa de albergado ou estabelecimento adequado’ (regime aberto) (art. 33, § 1º, alíneas ‘b’ e ‘c’). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado” (RE 641.320, Rel. Min. Gilmar Mendes).
+    10. Na hipótese de que se trata, tal como assentou o Superior Tribunal de Justiça, “o paciente encontra-se cumprindo sua pena em estabelecimento prisional compatível com o regime semiaberto”. Transcrevo, nesse sentido, as seguintes passagens do acórdão recorrido:
+    “(...)
+    Consoante a jurisprudência deste Superior Tribunal, quando o apenado submetido a regime semiaberto estiver cumprindo pena em estabelecimento prisional em regime mais gravoso, por inexistência de vaga em estabelecimento adequado, é permitida, excepcionalmente, a concessão de regime aberto ou de prisão domiciliar até o surgimento de vaga.
+    (…)
+    Esta não é, contudo, a situação do presente caso, haja vista que, consoante assentado pelas instâncias ordinárias, o paciente encontra-se cumprindo sua pena em estabelecimento prisional compatível com o regime semiaberto.
+    Com efeito, o Juízo da execução enfatizou não ser ‘correta a assertiva trazida pela DPMG de que o estabelecimento prisional não se enquadra para o cumprimento do regime semiaberto, isto porque, é cediço, a PJMA e o CPPP-III se inserem na condição de estabelecimentos 'similares' a uma colônia agrícola e industrial, respectivamente, considerando que há desenvolvimento de trabalho interno/externo em oficinas, artesanatos, hortas e congêneres, além da ausência de vigilância direta, o que se encaixa perfeitamente ao disposto no art. 91 da LEP’ (fl. 169).
+    Outrossim, consoante destacou o mesmo Magistrado, ‘analisando a realidade carcerária de Ribeirão das Neves, não podemos equiparar os reeducandos que cumprem pena no regime fechado (que permanecem recolhidos durante o dia inteiro, com autorização apenas para banho de sol e para o trabalho interno) àqueles que cumprem pena no regime semiaberto (com autorização para saídas temporárias e para o trabalho externo, saindo da unidade prisional às 06:00h e só retornando às 20:00h para pernoitar)’ (fl. 169).
+    Assim, não se verifica situação excepcional a permitir ao sentenciado aguardar em regime mais brando ou em prisão domiciliar o surgimento de vaga compatível com o regime semiaberto.
+    (...)”.
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
