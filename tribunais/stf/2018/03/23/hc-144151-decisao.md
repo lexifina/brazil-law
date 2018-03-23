@@ -1,0 +1,31 @@
+Decisão:
+Ementa: Processual penal militar. Habeas corpus. Fornecimento de substância entorpecente a militar na ativa. Condenação transitada em julgado. Competência da Justiça Militar.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão do Superior Tribunal Militar, da Relatoria do Ministro José Coêlho Ferreira, assim ementado:
+    “APELAÇÃO DA DEFESA. ART. 290 DO CPM. PRELIMINAR DE INCOMPETÊNCIA DA JUSTIÇA MILITAR. NÃO CONHECIDA. PRELIMINAR DE INCOMPETÊNCIA DO CONSELHO PERMANENTE DE JUSTIÇA PARA JULGAR CIVIL. REJEITADA. PEDIDO DE ABSOLVIÇÃO COM BASE NAS TESES DA AUSÊNCIA DE DOLO E DA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. DESPROVIMENTO DO APELO.
+    I – Não se conhece da preliminar de incompetência da Justiça Militar arguida pela Defesa, tendo em vista que a pendência já foi dirimida pelo STM por ocasião do julgamento dos autos do HC Nº 219-98.2015, STM.
+    II – Rejeita-se a preliminar de incompetência do Conselho Permanente de Justiça para julgar civil, tendo em vista que, segundo entendimento majoritário desta Corte, não há amparo legal para julgamento monocrático pelo Juiz-Auditor.
+    III – Age com dolo de praticar o delito capitulado no art. 290 do CPM o agente que, sabendo que o militar encontra-se em serviço, entrega a este substância entorpecente em frente à respectiva Unidade Militar.
+    IV – É pacificado o entendimento desta Corte Castrense e da Primeira Turma do Supremo Tribunal Federal acerca da inaplicabilidade, do princípio da insignificância aos crimes relacionados a entorpecentes, seja qual for a qualidade do condenado, bem assim que não houve revogação tácita do artigo 290 do Código Penal Militar pela Lei nº 11.343, de 23 de agosto de 2006, que estabelece o Sistema Nacional de Políticas Públicas sobre Drogas. (STF, Primeiro Turma, Habeas Corpus, nº 91759/MG).
+    Primeira preliminar não conhecida. Decisão unânime.
+    Segunda preliminar rejeitada. Decisão majoritária.”
+    2.  Narra a denúncia que o paciente civil “ JEFERSON RODRIGUES BORGES, no dia 21/5/2014, por volta das 20h00, recebeu uma ligação de seu cunhado Sd. EXEVERRIA, que estava de serviço no Guarda da CMO, solicitando que levasse a ele uma carteira de cigarro. Por volta das 21h30, o civil entregou a referida carteira, em frente à Guarda da CMO, ao então Sd. EXEVERRIA, que, ao retornar para entrar em forma, foi abordado pelo Cb CARLOS ALBERTO DA SILVA JUNIOR, que, por sua vez, realizou um revista naquela carteira, encontrando no seu interior 6 cigarros e uma quantidade de produto com característica de maconha.”
+    3. Concluída a instrução criminal, o Conselho Permanente de Justiça da Auditoria da 9ª CJM condenou o paciente à pena de 1 (um) ano de reclusão, em regime inicial aberto, pelo crime previsto no artigo 290, § 1º, III, do Código Penal Militar. Após, assegurou ao condenado o direito de recorrer em liberdade e concedeu-lhe o benefício do sursis pelo prazo de 2 (dois) anos.
+    4. O Superior Tribunal Militar negou provimento à apelação da defesa.
+    5. Neste habeas corpus, a parte impetrante sustenta a incompetência da Justiça Militar para processar e julgar o feito, tendo em vista que o acontecimento envolveu um cidadão civil em lugar não sujeito à Administração Militar.
+    6. A liminar foi indeferida.
+    7. O Ministério Público Federal, em parecer da Subprocuradora-Geral da República Cláudia Sampaio Marques, manifestou pelo não conhecimento do pedido.
+    Decido.
+    8. O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal (v.g, RHC 119.605-AgR, Rel. Min. Luís Roberto Barroso; HC 111.412-AgR, Rel. Min. Luiz Fux; RHC 114.890, Rel. Min. Dias Toffoli; HC 116.827-MC, Rel. Min. Teori Zavascki; RHC 116.204, Relª. Minª. Cármen Lúcia; e RHC 115.983, Rel. Min. Ricardo Lewandowski).
+    9. No caso de que se trata, em consulta à página oficial do Superior Tribunal Militar na internet, constata-se que, antes mesmo da impetração deste habeas corpus, foi certificado o trânsito em julgado da condenação do paciente, em 26.03.2016. Nessas condições, o presente habeas corpus ganha contornos de revisão criminal, o que inviabiliza o conhecimento da impetração.
+    10.  Ademais, não é o caso da concessão da ordem de ofício. Não restou demonstrada situação de teratologia, ilegalidade ou abuso de poder. Dou especial atenção ao que foi dito pelo Ministério Público Federal em seu parecer:
+    “Na espécie, o paciente ‘parou em frente à Guarda do Complexo do Comando Militar, entregando a cartela de cigarros – contendo 6 cigarros de maconha – na mão do então soldado EXEVERRIA que, de acordo com a escala de serviços, de fls. 68/69, estava de serviço na Guarda do CMO’. Ou seja, sua conduta enquadra-se no tipo descrito no inciso III, parágrao 1º, do artigo 290 do CPM.
+    […]
+    Trata-se de um crime propriamente militar, sem correspondente na legislação penal comum. E, segundo ressaltou o Superior Tribunal Militar, no Habeas Corpus n. 219.98.2015.7.00.0000/MS, ‘O delito pelo qual o paciente foi denunciado não possui como elementar do tipo a exigência de que o fato criminoso tenha sido praticado em local sujeito à administração militar, bastando que a substância entorpecente seja fornecida a militar em serviço, para que ocorra a subsunção da conduta ao tipo penal’.
+    Assim sendo, a conduta do paciente de fornecer entorpecente ao militar em serviço de Guarda, o qual ‘estava guarnecendo e defendendo o aquartelamento, portando arma pesada, desempenhando uma função de natureza tipicamente militar’, atentou contra a hierarquia e disciplina militares, traduzida na rigorosa observância e no acatamento integral das leis, regulamentos, normas e disposições que integram o regime militar (CF, art. 142).
+    E, embora o paciente não tenha adentrado ao Complexo do Comando Militar do Oeste, na cidade de Campo Grande/MS, ele tinha consciência de que a droga seria entregue para um militar em serviço, facilitando a entrada do entorpecente no interior do quartel.”
+    11. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro LUÍS ROBERTO BARROSO
+Relator
+Documento assinado digitalmente
