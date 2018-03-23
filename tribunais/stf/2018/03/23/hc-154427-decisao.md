@@ -1,0 +1,48 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Fabyulla de Sá Almeida, apontando como autoridade coatora o Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça, que denegou a ordem no HC nº 407.563/MS.
+    Sustentam as impetrantes, em suma, que a paciente foi condenada à pena de 5 (cinco) anos de reclusão pelo crime de tráfico de drogas (art. 33 da Lei nº 11.343/06), o que permitira o regime inicial semiaberto para o seu cumprimento. Todavia, foi imposto, à míngua de fundamentação idônea, o regime fechado.
+    Para a defesa, como não houve motivação idônea a justificar a imposição do regime mais gravoso, não há como estabelecê-lo.
+    Invoca em favor da paciente os enunciados das Súmulas nsº 718 e 719 da Corte.
+    Aduzem de outra parte, o direito subjetivo da paciente cumprir pena em estabelecimento prisional próximo ao local de residência de seus familiares, o que não estaria sendo observado no seu caso.
+    Argumentam as impetrantes por fim, que a promoção da paciente ao regime semiaberto permitirá a ela cumprir sua pena no sistema de prisão albergue domiciliar, por conta da ausência de estabelecimento prisional adequado ao regime intermediário.
+    Requerem a concessão da ordem a fim de determinar o regime semiaberto para o início do cumprimento da pena da paciente ou “que seja concedida prisão domiciliar com fiscalização de monitoramento eletrônico”.
+    Subsidiariamente pleiteiam
+    “que a pena seja cumprida na Comarca em que reside a paciente e seus familiares, Açailândia-MA, de forma que fique mais viável econômica e socialmente para a impetrante [sic], tendo em vista que não tem família em Corumbá-MS, cidade que fica muito longe do Estado em que reside com sua família”.
+    Examinados os autos, decido.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de habeas corpus impetrado em favor Fabyulla de Sa Almeida, apontando-se como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Mato Grosso do Sul que deu parcial provimento ao recurso interposto pela defesa (Apelação n. 0006849-37.2012.8.12.0008), pelos seguintes fundamentos (fl. 82):
+    APELAÇÃO CRIMINAL – RECURSO DEFENSIVO – CRIME DE TRÁFICO DE DROGAS (ART. 33, 'CAPUT' DA LEI 11343/06) – REDUÇÃO DA PENA-BASE – TRÊS QUILOS DE COCAÍNA – MANTIDA A CIRCUNSTÂNCIA DESFAVORÁVEL À LUZ DO ART. 42 DA LEI DE DROGAS – PORÉM REDUZIDO O PATAMAR DE AUMENTO – PENA-BASE REDUZIDA – ALMEJADA APLICAÇÃO DA MINORANTE DO ART. 33, §4º, DA LEI 11343/06 – INVIÁVEL – AFASTADA A CAUSA DE AUMENTO DO ART. 40 III DA LEI DE DROGAS – DROGA TRANSPORTADA EM MALA SEM POSSIBILIDADE DE FORNECIMENTO NO ÔNIBUS – RECURSO PARCIALMENTE PROVIDO.
+    I. Ante o art. 42, da lei 11343/2006, a natureza e quantidade de droga apreendida devem ser tomadas como parâmetro para definir o "quantum" da pena-base, então a apreensão de 3,127 kg (três quilos cento e vinte sete gramas) de cocaína em poder da Apelante exige uma resposta penal mais gravosa, entretanto, em patamar um pouco menos gravoso do fixado na sentença ante o princípio da proporcionalidade.
+    II. A operação exigiu articulação, além de logística no custeio e organização da longa viagem empreendida, com passagens por diversos Estados, demonstrando que a Apelante colaborou com organização criminosa voltada para traficância, o que impede o reconhecimento da benesse do tráfico privilegiado.
+    III. Não incide a causa de aumento do art. 40 III da Lei de Drogas se a droga era transportada em mala sem possibilidade de fornecimento no ônibus. Em parte contra o parecer, recurso parcialmente provido.
+     Neste writ a defesa alega que, declarada a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/90, deve ser reconhecido o direito da paciente iniciar o cumprimento da pena no regime semiaberto, por se tratar de ré primária, cuja pena fixada é inferior a 8 anos, em obediência ao art. 33, § 2º, b, do Código Penal e aos enunciados das Súmulas n. 440/STJ, 718 e 719/STF.
+    Afirma, ainda, que, atendidos os requisitos do vínculo familiar, da boa conduta carcerária e da existência de vaga no estabelecimento para onde se pretende ir, possui direito subjetivo a ser transferida para presídio próximo a seus familiares.
+    Por fim, assevera que, tendo a paciente sido beneficiada com a progressão do regime fechado para o semiaberto, e na ausência de estabelecimento prisional adequado para o cumprimento da pena, seja então fixado o sistema de prisão albergue domiciliar condicionando-se a efetividade do beneficio por monitoramento eletrônico, entre outras condições, consoante arts. 93 e 94 da Lei de Execuções Penais (fl. 20).
+    Requer, assim, a fixação do regime semiaberto para o início do cumprimento da reprimenda, a transferência da paciente para o presídio mais próximo da comarca de Açailância/MA e, ainda, a concessão de prisão domiciliar, com monitoramento eletrônico, na ausência de estabelecimento adequado para o cumprimento da pena no regime pleiteado.
+    Não houve pedido de liminar.
+    Informações prestadas (fls. 104/136), o Ministério Público Federal ofereceu parecer pelo não conhecimento do writ (fl. 138):
+    PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO DE DROGAS. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. REGIME DE CUMPRIMENTO INICIAL GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+    1 - Consoante entendimento desse C. Superior Tribunal de Justiça, em harmonia com a jurisprudência da Primeira Turma do Excelso Pretório, é assente a necessidade de racionalização do emprego do habeas corpus, em prestígio às normas constitucionais que limitam o âmbito de conhecimento da garantia constitucional e normatizam a sistemática recursal.
+    2 - Embora a pena aplicada ao paciente seja inferior a 8 anos, não se vislumbra o alegado constrangimento ilegal na fixação do regime inicial fechado, uma vez que a fixação do regime prisional encontra-se fundamentada em elementos concretos dos autos (apreensão de mais de 3 quilos de cocaína).
+    3 - Parecer do MPF no sentido de que o presente Habeas Corpus não seja conhecido
+    É o relatório.
+    Busca o impetrante a fixação do regime semiaberto. Contudo, não lhe assiste razão.
+    Com efeito, é possível que um condenado à pena superior a 4 anos de reclusão, mas que não exceda a 8 – hipótese em que seria cabível o regime semiaberto –, cumpra sua sanção penal no regime fechado, desde que as circunstâncias judiciais, previstas no art. 59 do Código Penal, tenham sido valoradas negativamente, ou que haja motivação idônea, baseada em fatos concretos.
+    Assim, o regime inicial poder ser recrudescido, a despeito do quantum da pena, diante de fundamentação concreta, conforme dispõe Súmula 440/STJ e a contrario sensu das Súmulas 718 e 719/STF.
+    In casu, o Tribunal a quo manteve o regime fechado fixado na sentença com base na quantidade da droga apreendida – mais de 3 Kg de cocaína – e no comprovado envolvimento da ré em organização criminosa, o que constitui fundamentação idônea para imposição de regime mais gravoso. Nesse sentido: HC 385941 / SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 8/5/2017; e HC 290.729/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/4/2016.
+    Relativamente ao pedido de transferência de presídio para local mais próximo de seus familiares, o pleito deverá ser dirigido ao Juízo das execuções, e não diretamente ao Superior Tribunal de Justiça.
+    Ante o exposto, denego a ordem” (grifos do autor).
+    Como visto, a impetração tem como escopo decisão singular proferida pelo Ministro Relator no bojo do HC nº 407.563/MS. Logo, incide, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+    Ademais, a tese a respeito da transferência da paciente para cumprir pena em estabelecimento prisional próximo ao local de residência de seus familiares, não foi analisada pelo Superior Tribunal de Justiça. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível supressão de instância.
+    Quanto à fixação do regime inicialmente fechado para o cumprimento da pena de 5 (cinco) anos de reclusão pelo delito de tráfico de drogas, melhor sorte não assiste à defesa da paciente.
+    Com efeito, este Supremo Tribunal registra precedentes no sentido de que o regime inicial de cumprimento de pena deve observar o disposto no art. 33, § 3º, do Código Penal e no art. 42 da Lei nº 11.343/06, que expressamente remetem às circunstâncias do crime (CP, art. 59) e à natureza e à quantidade da droga (v.g. HC nº 132.904/MS, Segunda Turma, de minha relatoria, DJe de 11/10/16).
+    Logo, não há afronta à jurisprudência da Corte, a conclusão a que chegou o Superior Tribunal de Justiça, no sentido de que o regime mais gravoso foi fundamentado na quantidade de droga apreendida (mais de 3kg de cocaína).
+    Nessa conformidade, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
