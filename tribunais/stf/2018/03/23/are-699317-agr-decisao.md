@@ -1,0 +1,29 @@
+Decisão
+    Trata-se de agravo interno interposto contra decisão do ilustre Min. Cezar Peluso, do seguinte teor:
+    “Decisão: A Corte, ao analisar o RE nº 561.836 (Rel. Min. EROS GRAU, DJe de 22.2.2008), reconheceu a existência de repercussão geral em tema idêntico ao versado no presente recurso, razão pela qual, com fundamento no art. 328, § único, do RISTF, determino a devolução dos autos ao Tribunal de origem, para os fins do art. 543-B do CPC. “
+    A parte agravante sustenta, em síntese, que (I) a matéria versada nos autos não é a mesma tratada no RE 561.836; e (II) o STF, ao analisar casos idênticos, tem afastado a aplicação da sistemática da repercussão geral e negado seguimento ao recurso extraordinário.
+    É o relatório. Decido.
+    A irresignação merece prosperar. O assunto tratado nos autos do RE 561.836 é diferente da presente controvérsia. O caso da repercussão geral foi assim ementado:
+    “EMENTA: SERVIDOR PÚBLICO. VENCIMENTOS. CONVERSÃO EM URV. INOBSERVÂNCIA DA LEI FEDERAL N. 8.880/94. SISTEMA MONETÁRIO. COMPETÊNCIA PRIVATIVA DA UNIÃO. REPERCUSSÃO GERAL.
+(RE 561836 RG, Relator(a): Min. EROS GRAU, Dje de 22/2/2008).”
+    O referido caso foi analisado à luz da violação do art. 169 da Constituição Federal. Já nestes autos, a controvérsia é analisada sob a alegação de violação do art. 37 da Constituição Federal.
+    Passo à análise do recurso extraordinário.
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que, em sede de ação de cobrança, foi assim ementado:
+    “EMENTA: AÇÃO ORDINÁRIA – SERVIDOR PÚBLICO MUNICIPAL – CONVERSÃO DOS VENCIMENTOS EM URV – PERÍCIA ESPECÍFICA – NÃO APURAÇÃO DA PERDA – AUSÊNCIA DE PREJUÍZO – LIMITAÇÃO.
+    Não tendo a perícia específica realizada nas Varas da Fazenda Pública Municipal para os servidores do Município de Belo Horizonte apurado perda em decorrência de reajuste posterior ocorrido no ano de 1994, com a reestruturação da carreira, não há que se falar em prejuízo, o que enseja a improcedência do pedido inicial.”
+    A parte recorrente aponta ofensa aos arts. 5º, XXXV, XXXVI, LIV e LV e 37 da CF/88, alegando, em síntese, que (I) deve ser aplicado ao processo o mesmo entendimento fixado no julgamento do RE 581.836, sob a sistemática da repercussão geral, sob pena de ofensa ao devido processo legal, contraditório e ampla defesa; (II) “(...) o ato municipal, de não proceder a correta conversão em URV dos vencimentos de seus servidores, em especial, o recorrente, agrediu sistematicamente o art. 37 da CF/88, onde, taxativamente, determina que a Administração Pública deve obedecer o princípio da Legalidade e Moralidade.” (fl. 265); e (III) há divergência jurisprudencial entre o que foi decidido no acórdão recorrido e o entendimento do STF e do STJ.
+    Pois bem: quanto à alegação de afronta ao art. 5º, XXXV, XXXVI, LIV e LV, da Constituição Federal, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    De outro lado, em relação à violação ao art. 37 da Constituição Federal, o Juízo de origem não analisou a questão constitucional veiculada, não tendo sido esgotados todos os mecanismos ordinários de discussão, INEXISTINDO, portanto, o NECESSÁRIO PREQUESTIONAMENTO EXPLÍCITO, que pressupõe o debate e a decisão prévios sobre o tema jurígeno constitucional versado no recurso. Incidência das Súmulas 282 (É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada) e 356 (O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento), ambas desta CORTE SUPREMA.
+    Adite-se que o TJMG, sobre a alegação de prejuízo, assim se manifestou:
+    “(...) a autora afirma a existência do prejuízo, sem, contudo, apresentar prova de suas alegações, resumindo-se a juntar aos autos relatório de ficha financeira, tendo o requerido, às fls. 47/59, negado o pedido da parte, à assertiva da prescrição, aduzindo que ‘a fixação de novo padrão de vencimento acarreta o suprimento de eventual perda salarial e autoriza a limitação temporal da recomposição’ (fl. 55)” (fls. 229/230).
+    E ainda:
+    “(...) a teor dos laudos periciais, entendo não ter havido prejuízo demonstrado à autora, com a conversão da URV, o que enseja a manutenção da improcedência do pedido inicial.”
+    Como se vê, o provimento do recurso extraordinário demandaria a reapreciação do conjunto fático-probatório, o que é incabível em sede de recurso extraordinário, a teor da Súmula 279/STF.
+    Por fim, o Tribunal de origem decidiu a controvérsia a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (Leis 6.832/95 e 7.235/96 do Município de Belo Horizonte). A apreciação dos aspectos concernentes à referida norma demanda análise de direito local, o que faz incidir o óbice constante da Súmula 280/STF ("por ofensa a direito local não cabe recurso extraordinário"). Nesse sentido, o RE 642.448 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 29/5/2012.
+    Diante do exposto, reconsidero a decisão de fl. 384 e, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
