@@ -1,0 +1,37 @@
+Decisão: Trata-se de recurso extraordinário em que se discute a legalidade de inclusão, em cadastros restritivos de créditos (Serasa) , de devedores inscritos em dívida ativa.
+    Em um primeiro momento, os autos vieram a esta Corte e determinei a sua baixa à origem com a finalidade de adequação à sistemática da repercussão geral, tendo por base o julgamento do Tema 856, cujo paradigma é o RE 914.045, de minha relatoria, oportunidade em que o Plenário concluiu ser inconstitucional a imposição de restrições ao livre exercício da atividade econômica quando o contribuinte se encontrar em débito com o fisco.
+    A Vigésima Segunda Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, ao se submeter ao comando do artigo 1.030, II, do CPC, concluiu pela manutenção do acórdão, oportunidade em que se lançou a seguinte ementa (eDOC 7):
+    “AGRAVO. REEXAME. ART. 1.040, II, DO CPC/2015. DIREITO TRIBUTÁRIO. CRÉDITO INSCRITO EM DÍVIDA ATIVA. INCLUSÃO EM CADASTRO DE INADIMPLEMENTES. SERASA. LEGALIDADE. INAPLICABILIDADE DA ORIENTAÇÃO FIRMADA PELO STF NO ARE 914.045/MG. DISTINGUISHING.
+    - Na espécie, debate-se a legalidade da inclusão do nome do devedor em cadastros restritivos de crédito, tendo este Colegiado concluído pela possibilidade de inclusão, no SERASA de débitos de natureza tributária inscritos em dívida ativa, independentemente de sua cobrança mediante execução fiscal. Precedentes do STJ e desta Corte.
+    - A orientação fixada no ARE 914.045/MG (Tema 956 do STF), por outro lado, refere-se àquelas hipóteses nas quais o Fisco utiliza-se de meios coercitivos de restrição ao livre exercício da atividade econômica como forma de cobrança indireta de tributos de tributos (interdição de estabelecimento, apreensão de mercadorias, negativa de impressão de documentos fiscais ou inscrição em cadastro de contribuintes, etc).
+    - Inaplicabilidade, na hipótese, da orientação firmada pelo STF no ARE 914.045/MG, uma vez que não há coincidência entre os fatos fundamentais discutidos e aqueles que serviram de base à ratio decidendi (tese jurídica) constante no precedente. Técnica hermenêutica dos distinguishing.
+    MANUTENÇÃO DO ACÓRDAO IMPUGNADO. AGRAVO DESPROVIDO.”
+    Diante do quadro, a Primeira Vice-Presidência do TJRS encaminhou os autos a esta Corte.
+    É o relatório. Decido.
+    Com razão a Turma Julgadora.
+    A situação concreta não se amolda ao que decidido no Tema 856 da repercussão geral, motivo pelo qual torno sem efeito a decisão de 18 de dezembro de 2015 e passo à análise do recurso.
+    Trata-se de recurso extraordinário interposto em face do acórdão proferido pela Vigésima Segunda Câmara do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa transcrevo (eDOC 1, 68):
+    “APELAÇÃO. MANDADO DE SEGURANÇA. DIREITO TRIBUTÁRIO. INSCRIÇÃO NO SERASA PELA EXISTÊNCIA DE DÉBITO FISCAL. POSSIBILIDADE. PREVISÃO LEGAL QUE AFASTA TODA E QUALQUER ALEGAÇÃO DE ILEGALIDADE DO ATO. RETIRADA DA INFORMAÇÃO APENAS COM A SUSPENSÃO DA EXIBILIDADE DO CRÉDITO OU PRESTAÇÃO DE GARANTIA VÁLIDA, O QUE NÃO OCORRE NO CASO.
+    1. Existindo inscrição em dívida ativa da Fazenda Pública, é possível a divulgação de informações, conforme se extrai da redação do art. 198, §3º, do Código Tributário Nacional, com os acréscimos da Lei Complementar nº 104/01.
+    2. Pela existência de presunção quanto à regularidade da CDA e exigibilidade do crédito tributário, admite-se a retirada ou declaração de ilegalidade das informações apenas quando o crédito resta suspenso ou devidamente garantido, na forma da lei. É o que se extrai da leitura do art. 13 da Lei Estadual nº 6.537 de 1973, com redação dada pelo art. 1º da Lei Estadual nº 12.209 de 2004.
+    3. A própria legislação, já analisada em diversas oportunidades pelas Cortes superiores, inclusive em sede de recurso repetitivo, prevê a possibilidade da inscrição, soterrando todas as alegações da recorrente, principalmente as relacionadas à suposta ilegalidade e inconstitucionalidade.
+    4. A informação sobre a existência de débito fiscal é de domínio público, franqueável à sociedade (setores comerciais e consumidores em geral), e não só à administração pública, ante as relações massificadas de crédito, sendo descabida, portanto, a alegação do impetrante de que "o seu direito constitucional ao livre exercício da atividade econômica foi restringido pela inscrição no SERASA.
+    NEGADO SEGUIMENTO AO APELO.”
+    No recurso extraordinário interposto com fundamento do no artigo 102, III, a, do permissivo constitucional, alega-se a violação aos artigos 5º, XIIII e 170 da Constituição Federal.
+    Nas razões recursais, sustenta que a inscrição em cadastros de inadimplência e proteção ao crédito caracteriza-se como uma sanção política, inviabilizando transações mercantis e econômicas, ameaçando as atividades empresariais (eDOC 1, p. 125).
+    Observo que o Tribunal de origem ao julgar a apelação, consignou:
+    “Existindo inscrição em dívida ativa da Fazenda Pública contra o contribuinte, é plenamente possível a divulgação de informações, na foram do § 3º do artigo 198 do Código Tributário Nacional, com a redaçaõ conferida pela Lei Complementar nº 104/2001.
+    (…)
+    Em sentido semelhante, é o que prevê o art. 13 da Lei Estadual nº 6.537 de 1973, com redação dada pelo art. 1º da Lei Estadual nº 12.209 de 2004.
+    (…)
+    Como se percebe é a própria legislação que prevê a possibilidade da inscrição da dívida ativa em órgãos de proteção ao crédito, como o SERASA, o que, por si só, já é suficiente para afastar, por completo, todas as alegações constantes nas razões do recurso, notadamente as relacionadas à suposta ilegalidade e inconstitucionalidade.”
+    Sendo essas as razões de decidir, constato que eventual divergência ao entendimento adotado pelo juízo a quo, em relação à inscrição de nome de pessoa jurídica junto a cadastro de inadimplentes, demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, inclusive de índole local, de modo a inviabilizar o processamento do apelo extremo, tendo em vista as vedações contidas nas Súmulas 279 e 280 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. DÉBITO TRIBUTÁRIO. INSCRIÇÃO EM CADASTRO DE PROTEÇÃO AO CRÉDITO. serasa. LIVRE INICIATIVA. LIVRE EXERCÍCIO DE ATIVIDADE ECONÔMICA. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (ARE 944.189-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 15.04.2016)
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INSCRIÇÃO NO serasa POR FORÇA DE DÉBITOS INSCRITOS EM DÍVIDAS ATIVA. FUNDAMENTAÇÃO INFRACONSTITUCIONAL SUFICIENTE PARA MANTER O ACÓRDÃO. APLICAÇÃO DAS SÚMULAS 280/STF E 283/STF. 1. A instância ordinária dirimiu a controvérsia com base no Código Tributário Nacional e na Lei estadual nº 6.537/73, construindo fundamentos infralegais suficientes para, por si sós, manter a decisão. Mostram-se aplicáveis as Súmulas 280/STF e 283/STF. 2. Agravo regimental a que se nega provimento.” (ARE 869407 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 21.05.2015)
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 21, do RISTF.
+    Publique-se.
+    Brasília, 23 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
