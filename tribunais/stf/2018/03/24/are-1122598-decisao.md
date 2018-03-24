@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de anulação do ato de concessão de pensão por morte, considerada a decadência. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso XXXV, 25 e 97 da Constituição Federal. Diz ter ocorrido o afastamento, por órgão fracionário do Tribunal, da incidência da Lei estadual nº 10.177/98, contrariando a cláusula de reserva de Plenário. Afirma a vedação legal de concessão de benefício diverso daqueles previstos no regime próprio de previdência social. Aponta modificações na legislação de regência, sustentado a aplicabilidade da Lei nº 9.717/98.
+    2. De início, excluo a possibilidade de considerar infringido o princípio da reserva de Plenário, previsto no artigo 97 da Carta Federal. Em momento algum, o Colegiado de origem assentou, mediante atuação de órgão fracionado, a inconstitucionalidade de ato normativo abstrato e autônomo. Simplesmente interpretou o que conjuntamente versam dispositivos das normas gerais sobre a matéria.
+    No tocante à prescrição, colho da sentença, expressamente mantida pelo Tribunal de origem, os seguintes fundamentos:
+    Tenho o entendimento de que é aplicável a regra geral do prazo prescricional quinquenal do Decreto 20.910/32, espelhado no art. 54 da Lei 9.784/1999, que regula o procedimento administrativo federal, porque a Administração Pública deve-se impor a mesma restrição aplicada ao administrado no que se refere às dívidas passivas daquela, como forma de aplicação do princípio da igualdade, corolário do princípio da simetria.
+    […]
+    No caso dos autos, os réus passaram a receber o benefício previdenciário a partir de 02110/2002 (fl. 28), em razão do óbito do avô, engenheiro agrônomo da secretaria da agricultura, instituidor da pensão, não podendo a SPPREV cassar a concessão do benefício.
+    Transcorreu, assim, mais de 05 e mais de 10 anos entre a concessão do benefício e a pretensão da Fazenda do exercício da autotutela administrativa, tendo ajuizado a ação apenas em 19.12.2012 .
+    E mesmo que fosse superada a questão da decadência, razão não assiste à autora, uma vez que inexiste ilegalidade a fundamentar a suspensão dos pagamentos da pensão.
+    O direito à pensão de beneficiários de contribuinte solteiro, viúvo, separado judicialmente ou divorciado, não foi retirado do ordenamento, quer seja com a vigência da Lei Federal nº 9.717198 ou com o advento da Lei Estadual 1.012/07. Explica-se:
+    Em 12 de maio de 1978, o Estado de São Paulo editou a Lei Complementar no 180/78, dispondo sobre a instituição de Sistema de Administração de Pessoal.
+    Da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise das Leis estaduais nº 180/78 e nº 10.177/98. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está- se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Conheço do agravo e o desprovejo. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 724,00 (setecentos e vinte e quatro reais), fixo os honorários recursais no patamar de R$ 362,00 (trezentos e sessenta e dois reais), nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 24 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
