@@ -1,0 +1,24 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. LEI COMPLEMENTAR N. 118/2005. CABIMENTO. EXTINÇÃO DE DÉBITO POR PAGAMENTO. ERRO NO PREENCHIMENTO DA DARF. IMPOSSIBILIDADE.
+    1. Quanto à incidência da Lei Complementar n° 118/2005, destaco que esta alterou o art 174 do CTN para atribuir ao despacho do juiz que ordena a citação o efeito interruptivo. Tal a hipótese é aplicável aos processos ajuizados após a entrada em vigor da referida lei, em 09/06/2005. Tendo em vista que a demanda foi proposta em 29/03/2007, a LC é perfeitamente aplicável no caso dos autos.
+    2. A DARF juntada ao recurso foi preenchida de forma equivocada. Observa-se, entre as informações constantes em sai corpo, que está em branco o campo "número de referência", o que impossibilita a vinculação do valor pago na DARF com o débito relativo à CDA supracitada.
+    3. Agravo de instrumento improvido”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXVI, e 150, III, da Constituição. Sustenta, em síntese, violação ao princípio da irretroatividade das normas, porquanto deveria ser aplicada a redação do art. 174 do CTN anterior à LC 118/2005.
+    A pretensão recursal não merece prosperar, tendo em vista que o acórdão impugnado está em conformidade com a jurisprudência desta Corte, uma vez que o processo foi ajuizado posteriormente à data da entrada em vigor da LC 118/2005, razão pela qual não se aplica a redação original do art. 174 do CTN. Confira-se:
+    “DIREITO TRIBUTÁRIO – LEI INTERPRETATIVA- APLICAÇÃO RETROATIVA DA LEI COMPLEMENTAR NÃO USAR 118/2005 – DESCABIMENTO – VIOLAÇÃO À SEGURANÇA JURÍDICA – NECESSIDADE DE OBSERVÂNCIA DA VACACIO LEGIS – APLICAÇÃO DO PRAZO REDUZIDO PARA REPETIÇÃO OU COMPENSAÇÃO DE INDÉBITOS AOS PROCESSOS AJUIZADOS A PARTIR DE 9 DE JUNHO DE 2005.
+    Quando do advento da LC 118/05, estava consolidada a orientação da Primeira Seção do STJ no sentido de que, para os tributos sujeitos a lançamento por homologação, o prazo para repetição ou compensação de indébito era de 10 anos contados do seu fato gerador, tendo em conta a aplicação combinada dos arts. 150, § 4º, 156, VII, e 168, I, do CTN.
+    A LC 118/05, embora tenha se autoproclamado interpretativa, implicou inovação normativa, tendo reduzido o prazo de 10 anos contados do fato gerador para 5 anos contados do pagamento indevido.
+    Lei supostamente interpretativa que, em verdade, inova no mundo jurídico deve ser considerada como lei nova.
+    Inocorrência de violação à autonomia e independência dos Poderes, porquanto a lei expressamente interpretativa também se submete, como qualquer outra, ao controle judicial quanto à sua natureza, validade e aplicação.
+    A aplicação retroativa de novo e reduzido prazo para a repetição ou compensação de indébito tributário estipulado por lei nova, fulminando, de imediato, pretensões deduzidas tempestivamente à luz do prazo então aplicável, bem como a aplicação imediata às pretensões pendentes de ajuizamento quando da publicação da lei, sem resguardo de nenhuma regra de transição, implicam ofensa ao princípio da segurança jurídica em seus conteúdos de proteção da confiança e de garantia do acesso à Justiça. Afastando-se as aplicações inconstitucionais e resguardando-se, no mais, a eficácia da norma, permite-se a aplicação do prazo reduzido relativamente às ações ajuizadas após a vacatio legis, conforme entendimento consolidado por esta Corte no enunciado 445 da Súmula do Tribunal.
+    O prazo de vacatio legis de 120 dias permitiu aos contribuintes não apenas que tomassem ciência do novo prazo, mas também que ajuizassem as ações necessárias à tutela dos seus direitos.
+    Inaplicabilidade do art. 2.028 do Código Civil, pois, não havendo lacuna na LC 118/08, que pretendeu a aplicação do novo prazo na maior extensão possível, descabida sua aplicação por analogia. Além disso, não se trata de lei geral, tampouco impede iniciativa legislativa em contrário.
+    Reconhecida a inconstitucionalidade art. 4º, segunda parte, da LC 118/05, considerando-se válida a aplicação do novo prazo de 5 anos tão-somente às ações ajuizadas após o decurso da vacatio legis de 120 dias, ou seja, a partir de 9 de junho de 2005.
+    Aplicação do art. 543-B, § 3º, do CPC aos recursos sobrestados. Recurso extraordinário”
+    Dessa forma, o parâmetro fixado para aplicação do novo prazo prescricional quinquenal é a data do ajuizamento da ação. Considerando, no caso destes autos, que o ajuizamento ocorreu posteriormente a 9 de junho de 2005, aplica-se o prazo prescricional de 5 (cinco) anos e a redação modificada pela LC 118/2005.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 26 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
