@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (eDOC 3, p. 288):
+    “EMENTA: AGRAVO REGIMENTAL - NEGATIVA DE SEGUIMENTO DO RECURSO DE APELAÇÃO - RECURSO MANIFESTAMENTE IMPROCEDENTE - CONDIÇÕES DO ART. 932,IV, DO NOVO CÓDIGO DE PROCESSO CIVIL EXISTENTES - POSIÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA - MANUTENÇÃO DA DECISÃO.
+    Se a pretensão deduzida pelo réu na via da apelação mostra-se manifestamente conflitante com posição do Superior Tribunal de Justiça, legítima a decisão do Relator que negou seguimento ao recurso aviado. Não provido.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao art. 37 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 3, p. 378):
+    “06) Não existe a incidência dos ditames do Decreto 20.910/32 artigos 1º e 3º, ou seja, a prescrição quinquenal, pois vejamos:
+    06.01) Os ilustres julgadores de primeiro e segundo grau, desaperceberam que a injusta exoneração foi publicada no diário oficial de Minas Gerais em 18/08/2007, ou seja, num sábado, portanto nos ditames do artigo 132 do Código Civil, artigo 184 do CPC/73, e demais cominações legais posteriores ao Decreto 20.910/32, visto que a data da publicação é a partir do primeiro dia útil seguinte, ou seja, 20/08/2007. E por coincidência ou não, o dia 17/08/2012 também caiu num sábado, portanto o prazo correto em princípio seria no dia 20/08/2012 quando foi protocolada a exordial.”
+    A 1ª Vice-Presidência do TJ/MG inadmitiu o recurso com base no entendimento de que a ofensa, caso exista, é meramente reflexa (eDOC 4, p. 69-71).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem, reproduzindo trechos da decisão singular, assim asseverou (eDOC 3, p. 290-292):
+    “Conforme se infere dos autos, propôs o ora recorrente a presente ação com o fito de obter o reconhecimento da nulidade do processo administrativo disciplinar que culminou na sua exoneração e, por conseguinte, a reintegração ao cargo de Auditor Fiscal da Receita Estadual do Estado de Minas Gerais.
+    Contudo, após palmilhar os autos, em que pesem os fundamentos recursais, tenho que a sentença proferida se afina com a jurisprudência pacífica do Superior Tribunal de Justiça sobre o tema.
+    Em primeiro lugar, convém consignar que se aplicam à hipótese, quanto ao prazo prescricional, os ditames do art. 1º do Decreto 20.910/32, de cuja literalidade se apura que "As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem".
+    Com efeito, assim como sustentado pelo Estado recorrido em sede de contrarrazões ao presente recurso, fato é que os fundamentos declinados pelo recorrente conflitam com a jurisprudência uníssona do Superior Tribunal de Justiça sobre o tema, cujo entendimento é assente no sentido de que, nos casos em que se pretende a reintegração de servidor exonerado, o termo inicial de contagem do prazo prescricional é a data do ato de exclusão.
+    (…)
+    No caso, conforme dá conta o "Diário do Executivo, Legislativo e Publicações de Terceiros" de 18/08/2007, colacionado às fls. 453 dos autos, o recorrente foi exonerado do cargo que ocupava em 17/08/2007, de modo que quando da propositura da presente ação em 20/08/2012 a sua pretensão já se encontrava fulminada pela prescrição, porquanto transcorridos mais de 5 (cinco) anos.
+    Por outro lado, importante consignar que a prescrição é instituto próprio de direito material, sendo que os fundamentos deduzidos pelo apelante acerca do termo inicial para fins de contagem de prazo são pertinentes aos prazos tipicamente processuais e não prescricionais, carecendo, portanto, de sustentação jurídica.”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Decreto 20.910/32). Desse modo, a discussão referente à prescrição alegada no acórdão recorrido, revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. EXECUÇÃO. PRAZO PRESCRICIONAL. DECRETO 20.910/1932. FAZENDA PÚBLICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Discussão acerca do prazo prescricional contra a Fazenda Pública, previsto no Decreto 20.910/1932, cinge-se ao âmbito infraconstitucional. Precedentes. 2. Agravo Regimental a que se nega provimento.” (ARE 909.658-AgR, de minha relatoria, Primeira Turma, DJe 1º.2.2016).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E ADMINISTRATIVO. PRESCRIÇÃO QUINQUENAL. DECRETO N. 20.910/1932. SUBSISTÊNCIA DO FUNDAMENTO DE NATUREZA INFRACONSTITUCIONAL. SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 829.607-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.12.2014).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 26 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
