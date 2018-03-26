@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Trata-se de agravos contra as decisões que não admitiram os recursos extraordinários interpostos contra acórdão da Sexta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “SERVIDOR  PÚBLICO  MUNICIPAL — Santos Reconhecimento do tempo de serviço prestado junto à própria Municipalidade, para concessão de adicional por tempo de serviço — Possibilidade — Previsão expressa na Lei Orgânica do Município e no Estatuto dos Funcionários Públicos Municipais de Santos — Precedentes.
+    FIXAÇÃO  DOS  HONORÁRIOS ADVOCATÍCIOS. Manutenção. Montante adequado considerando-se a complexidade do caso (grau de zelo do profissional, o lugar da prestação do serviço e a natureza e importância da causa, bem como o trabalho realizado pelo advogado e o tempo exigido para o seu serviço) - Sentença mantida — Recursos não providos."
+    Opostos embargos de declaração pelo Município de Santos e pelo Instituto de Previdência Social dos Servidores Públicos Municipais de Santos, foram acolhidos para, sanando a omissão apontada, complementar a fundamentação relativa a suposta ocorrência da prescrição.
+    No recurso extraordinário da autarquia previdenciária sustenta-se violação do artigo 37, caput e inciso II, da Constituição Federal e do artigo 19, caput e § 1º do ADCT.
+    O Município de Santos, por sua vez, nas razões de seu apelo extremo, alega contrariedade aos artigos 2º, 5º, inciso II, 30, inciso III, 40, caput, 169 e 195, § 5º, da Constituição Federal.
+    Decido.
+    No que se refere ao artigo 19, caput e § 1º do ADCT e 195, § 5º, da Constituição Federal, apontados como violados nos recursos, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objeto dos embargos declaratórios opostos pelos recorrentes. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido:
+    “Agravo regimental em agravo de instrumento. 2. Prequestionamento. Ausência. Embargos de declaração que não trataram da matéria constitucional. Súmulas 282 e 356 do STF. 3. Ofensa aos princípios da legalidade e da prestação jurisdicional. Análise da legislação infraconstitucional. Precedente. 4. Revisão de cláusula contratual. Ofensa reflexa. Precedente. 5. Agravo regimental a que se nega provimento” (AI nº 551.533/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 3/3/06).
+    Ademais, colhe-se do voto condutor do acórdão recorrido os seguintes fundamentos:
+    “Trata-se de ação ordinária ajuizada por ANÉSIA RODRIGUES contra o MUNICÍPIO DE SANTOS E OUTRO, objetivando o reconhecimento do tempo de serviço prestado junto à Municipalidade, para todos os fins e efeitos de direito, sobretudo para a concessão do adicional por tempo de serviço, com o pagamento das diferenças pecuniárias apuradas.
+    Veja, a Lei Orgânica do Município de Santos, de 05.04.1990, nas Disposições Transitórias, determina:
+    (…)
+    Com efeito, a autora foi expressamente considerada estável integrando o Regime Jurídico Estatutário instituído pela Lei Complementar Municipal n° 21/91, senão vejamos:
+    (…)
+    Cumpre salientar, que a autora foi admitida pela Prefeitura Municipal de Santos em 09 de agosto de 1977, como eventual, enquadrando-se na hipótese acima mencionada (inciso III, art. 30, da Lei Complementar Municipal no 21/91).
+    Ademais, a Lei nº 4.623/84 (Estatuto dos Servidores Públicos Municipais de Santos), dispõe o seguinte:
+    (…)
+    Como visto, atualmente, a autora é Servidora Pública Municipal de Santos, devendo-se submeter ao Estatuto dos Servidores Públicos desse Município e, diante de previsão legal expressa com relação ao cômputo para todos os efeitos do tempo de serviço prestado pelos pertencentes ao Regime Eventual, admitidos até o dia 5 de outubro de 1988, inexiste a ilegalidade/inconstitucionalidade apontada.
+    (…)
+    Desta maneira, faz jus a servidora à contagem de tempo para fins do adicional por tempo de serviço em período anterior à opção do Regime Estatutário, conforme pleiteado na inicial.
+    Note-se, ainda, que a concessão ou não dos benefícios mencionados na inicial (adicional por tempo de serviço) deverá ser objeto de aferição em sede de liquidação de sentença, em caso do preenchimento dos requisitos necessários previstos no Estatuto dos Servidores Públicos de Santos.”
+    Nessa conformidade, verifica-se que o Tribunal de origem decidiu a lide amparado na legislação local pertinente. Assim, a afronta aos dispositivos constitucionais suscitados nos recursos extraordinários seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar os apelos extremos. Além disso, o acolhimento das pretensões recursais demandaria, induvidosamente, o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido:
+    “Direito Administrativo. Agravo interno em recurso extraordinário com agravo. Servidor público. Contagem de tempo de serviço. Súmulas 279 E 280/STF. 1. Hipótese em que a resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes dos autos e da análise da legislação infraconstitucional pertinente, o que é vedado em recurso extraordinário. Incidência das Súmulas 279 e 280/STF. 2. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973.” (ARE nº 883.641/PB-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 14/3/17).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO MUNICIPAL. DIREITO À PERCEPÇÃO DA GRATIFICAÇÃO DE ASSIDUIDADE E DO ADICIONAL POR TEMPO DE SERVIÇO. LEI COMPLEMENTAR MUNICIPAL 001/94. LEI MUNICIPAL 3.332/97 ANÁLISE DE LEI LOCAL. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 280 DO STF. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.” (RE nº 647.020/ES-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 17/9/15).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. 3. Servidor público. Adicional de tempo de serviço. Contagem do tempo de serviço prestado no regime celetista em empresa pública. Impossibilidade de análise da legislação local. Incidência do Enunciado 280 da Súmula desta Corte. Necessidade de reexame fático-probatório. Verbete 279 da Súmula do STF. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. Precedentes de ambas as turmas. 5. Agravo regimental a que se nega provimento.” (ARE nº 824.418/MG-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 18/12/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento aos recursos.
+    Publique-se.
+    Brasília, 26 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
