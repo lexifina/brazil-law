@@ -1,0 +1,30 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame dos recursos de agravo interno contra ela interpostos.
+    Passo a apreciar, desse modo, as postulações recursais deduzidas nestes autos.
+    As partes ora recorrentes, ao deduzirem os apelos extremos – tanto o admito pelo E. Superior Tribunal de Justiça quanto os que não o foram pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul –, sustentaram que teriam sido transgredidos preceitos inscritos na Constituição da República.
+    Passo a examinar, preliminarmente, o recurso extraordinário interposto pela Federação dos Sindicatos de Servidores Municipais do Estado do Rio Grande do Sul – FESISMERS perante o E. Superior Tribunal de Justiça.
+    E, ao fazê-lo, observo que o apelo extremo em questão, no que se refere à competência da Justiça Comum para processar e julgar a presente causa, revela-se viável, eis que o Plenário desta Suprema Corte, ao julgar a ADI 3.395-MC/DF, Rel. Min. CEZAR PELUSO, fixou entendimento que autoriza a pretensão de direito material deduzida pela parte em referência:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito do Supremo Tribunal Federal (ARE 758.236-AgR/RN, Rel. Min. TEORI ZAVASCKI – ARE 794.418/CE, Rel. Min. LUIZ FUX – ARE 1.057.990- -AgR/PR, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.086.738/RS, Rel. Min. LUIZ FUX – RE 715.276-AgR-ED/AC, Rel. Min. EDSON FACHIN – RE 927.283/MT, Rel. Min. EDSON FACHIN – RE 1.016.155-AgR/RN, RICARDO LEWANDOWSKI, v.g.).
+    De outro lado, e pelos mesmos fundamentos anteriormente referidos, o apelo extremo a que se refere o agravo interposto pelo Município de Bento Gonçalves/RS, no ponto em que também discute a competência para processar e julgar a presente causa, revela-se inacolhível.
+    É preciso registrar, ainda, quanto à exigibilidade, ou não, da contribuição sindical tanto dos servidores estatutários ativos quanto dos inativos (objeto de discussão nos apelos extremos interpostos pelo Município de Bento Gonçalves/RS e pela FESISMERS), que essas controvérsias jurídicas já foram dirimidas por ambas as Turmas do Supremo Tribunal Federal:
+    “CONSTITUCIONAL. CONTRIBUIÇÃO SINDICAL. SERVIDORES PÚBLICOS. Art. 8º, IV, da Constituição Federal.
+    I. – A contribuição sindical instituída pelo art. 8º, IV, da Constituição Federal constitui norma dotada de auto-aplicabilidade, não dependendo, para ser cobrada, de lei integrativa.
+    II. – Compete aos sindicatos de servidores públicos a cobrança da contribuição legal, independentemente de lei regulamentadora específica.
+    III. – Agravo não provido.”
+    (AI 456.634-AgR/RJ, Rel. Min. CARLOS VELLOSO – grifei)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO SINDICAL. SERVIDORES PÚBLICOS. INCIDÊNCIA. DESNECESSIDADE DE REGULAMENTAÇÃO POR LEI ESPECÍFICA. PRECEDENTES
+    O Supremo Tribunal Federal tem se orientado no sentido de que a contribuição sindical é devida pelos servidores públicos, independentemente da existência de lei específica regulamentando sua instituição.
+    Agravo regimental a que se nega provimento.”
+    (ARE 807.155-AgR/RS, Rel. Min. ROBERTO BARROSO – grifei)
+    “Agravo regimental no recurso extraordinário. 2. Contribuição sindical. Servidor público aposentado. Recolhimento. Não obrigatoriedade. 3. Jurisprudência pacífica desta Corte. RE 684.906 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    (RE 659.402-AgR/RS, Rel. Min. GILMAR MENDES – grifei)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CONTRIBUIÇÃO SINDICAL. DESCONTO COMPULSÓRIO NOS PROVENTOS DOS INATIVOS. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.”
+    (RE 662.964-AgR/RS, Rel. Min. LUIZ FUX – grifei)
+    Convém registrar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito do Supremo Tribunal Federal, a propósito das questões veiculadas no caso sob análise (ARE 869.732/PR, Rel. Min. DIAS TOFFOLI – ARE 1.062.408/SP, Rel. Min. EDSON FACHIN – RE 413.080- -AgR/RJ, Rel. Min. CELSO DE MELLO – RE 972.260/SP, Rel. Min. ALEXANDRE DE MORAES – RE 1.033.819/RS, Rel. Min. DIAS TOFFOLI, v.g.).
+    O exame da presente causa evidencia que o acórdão emanado do E. Tribunal de Justiça do Estado do Rio Grande do Sul e impugnado em sede recursal extraordinária pelas partes recorrentes referidas ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou quanto à análise das matérias em referência.
+    Sendo assim, e tendo em considerações razões expostas, dou provimento ao apelo extremo interposto contra o acórdão emanado do E. Superior Tribunal de Justiça (CPC, art. 932, V, “b”), e, de outro lado, ao apreciar os agravos deduzidos contra as decisões da 1ª Vice-Presidência do E. Tribunal de Justiça do Estado do Rio Grande do Sul, nego provimento aos recursos extraordinários, a que eles se referem (CPC, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 26 de março de 2018.
+Ministro CELSO DE MELLO
+Relator
