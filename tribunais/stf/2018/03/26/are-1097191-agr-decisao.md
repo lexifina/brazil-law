@@ -1,0 +1,18 @@
+DECISÃO: Torno sem efeito o ato judicial que determinou a devolução destes autos ao Tribunal de origem, restando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Passo, desse modo, a examinar a postulação recursal em causa.
+    O recurso extraordinário a que se refere o presente agravo foi interposto por Citibank Leasing S.A Arrendamento Mercantil contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    “PROCESSUAL CIVIL – CONSTITUCIONAL E TRIBUTÁRIO – AGRAVO RETIDO – PIS – EMENDA CONSTITUCIONAL Nº 10/96 – PRINCÍPIOS DA ANTERIORIDADE E IRRETROATIVIDADE – VIOLAÇÃO – CONFIGURADA.
+    1. As razões do agravo retido confundem-se com o mérito do apelo, permitindo que sejam solvidos em conjunto.
+    2. O Pleno do Supremo Tribunal Federal ao apreciar o RE 587.008, de Relatoria do Min. Dias Toffoli, na sistemática do artigo 543-B do Código de Processo Civil, decidiu que as emendas constitucionais devem respeito à anterioridade nonagesimal.
+    3. Adotado o entendimento sufragado pelo Supremo Tribunal Federal no RE 587.008 para assegurar o recolhimento do PIS nos termos da LC nº 07/70 e legislação superveniente, no período compreendido entre 01/01/96 até noventa dias após a publicação da EC nº 10/96.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame dos presentes autos evidencia que o recurso extraordinário revela-se insuscetível de conhecimento.
+    É que, no tocante à discussão relativa à ocorrência de fato gerador, à base de cálculo e à alíquota aplicáveis ao PIS, na competência de junho de 1996, a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, pois a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional, circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    Impõe-se registrar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte, no que concerne a controvérsias jurídicas a propósito de fatos geradores, bases de cálculo e alíquotas de tributos (ARE 406.802-AgR/DF, Rel. Min. DIAS TOFFOLI – ARE 658.953-AgR/DF, Rel. Min. LUIZ FUX – ARE 855.132-AgR/DF, Rel. Min. CÁRMEN LÚCIA – ARE 886.065-AgR/SP, Rel. Min. GILMAR MENDES – RE 389.346-AgR/RS, Rel. Min. SEPÚLVEDA PERTENCE – RE 406.567- -AgR/PR, Rel. Min. DIAS TOFFOLI – RE 726.040-AgR/DF, Rel. Min. CÁRMEN LÚCIA – RE 749.929-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 26 de março de 2018.
+Ministro CELSO DE MELLO
+Relator
