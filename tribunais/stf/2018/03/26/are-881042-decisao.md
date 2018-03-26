@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “PREVIDENCIÁRIO. TEMPO DE SERVIÇO RURAL. REGIME DE ECONOMIA FAMILIAR. TEMPO DE SERVIÇO ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. AVERBAÇÃO. APOSENTADORIA RURAL POR IDADE . REQUISITOS. NÃO COMPROVAÇÃO DA ATIVIDADE RURAL NO PERÍODO DE CARÊNCIA.
+    1. Comprovado o labor rural em regime de economia familiar, mediante a produção de início de prova material, corroborada por prova testemunhal idônea, o segurado faz jus ao cômputo do respectivo tempo de serviço, sem recolhimento de contribuições, até 31/10/1991.
+    2. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+    3. Não tem direito à aposentadoria por tempo de serviço/contribuição o segurado que, somados os períodos reconhecidos judicialmente àqueles já computados na esfera administrativa, não possui tempo de serviço suficiente à concessão do benefício. Faz jus, no entanto, à averbação dos períodos judicialmente reconhecidos para fins de obtenção de futuro benefício.
+    4. Não tem direito à aposentadoria por idade rural o segurado que não comprova o exercício de atividade rural em regime de economia familiar, ainda que de forma descontínua, durante o período de carência.” (eDOC 2, p. 47)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao artigo 195, §8º, do texto constitucional e aos princípios da isonomia, da uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais, da bitributação, da legalidade e da dignidade da pessoa humana.
+    Nas razões recursais, alega-se a inconstitucionalidade do artigo 25, §1º, da Lei n. 8.212/1991 e dos artigos 39, I, e 55, §1º, da Lei 8.213/1990.
+    Sustenta-se que o tempo de serviço exercido na atividade rural em período posterior a outubro de 1991 deveria ser computado para fins de carência no que tange à aposentadoria por tempo de contribuição, independentemente de comprovação do recolhimento de contribuições previdenciárias. (eDOC 2, p. 94 e 106 )
+    A Procuradoria-Geral da República, em seu parecer (eDOC 5), opina pelo provimento do agravo e do recurso extraordinário.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei 8.213/91) e o conjunto probatório constante dos autos, consignou ser devida a comprovação de recolhimento de contribuições para que seja computado o tempo de serviço como trabalhador rural para fins de aposentadoria por tempo de contribuição no caso dos autos.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O aproveitamento do tempo de atividade rural exercido até 31 de outubro de 1991, independentemente do recolhimento das respectivas contribuições previdenciárias e exceto para efeito de carência, está expressamente autorizado e previsto pelo art. 55, § 2º, da Lei n.º 8.213/91, e pelo art. 127, inc. V, do Decreto n.º 3.048/99.
+    (...)
+    Porém, a partir da competência novembro de 1991, pretendendo o segurado especial computar tempo de serviço rural para obtenção de aposentadoria por tempo de contribuição deverá comprovar o recolhimento de contribuições facultativas, conforme dispõe os arts. 39, II, da Lei nº 8.213/91. Significa dizer que a contribuição obrigatória sobre percentual retirado da receita bruta da comercialização da produção rural, prevista no art. 25 da Lei nº 8.212/91, não garante ao segurado especial a aposentadoria por tempo de serviço, pois, tal benefício, conforme se depreende do exame dos arts. 11, inciso VII, e 39, I e II, da Lei nº 8.213/91, tem sua concessão condicionada ao recolhimento facultativo de contribuições.”(eDOC 2, p. 31 e 33)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria de trabalhador rural. Requisitos para concessão do benefício não demonstrados na origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE 674.431-AgR/PR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 27.6.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SERVIDOR PÚBLICO. APOSENTADORIA. PREENCHIMENTO DE REQUISITOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DAS PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 744.208 AgR/MS, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 4.11.2013)
+    Por último, também no sentido de considerar ser a controvérsia de índole infraconstitucional, vale registrar decisão monocrática no RE 799.963/RS, Ministro Ricardo Lewandowski, DJe 25.4.2014.
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
