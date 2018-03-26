@@ -1,0 +1,27 @@
+EMBARGOS DECLARATÓRIOS. RECLAMAÇÃO. SÚMULA VINCULANTE 44. PARADIGMA DE CONFRONTO EDITADO APÓS A PROLAÇÃO DO ATO RECLAMADO. NÃO CABIMENTO DA RECLAMAÇÃO. AUSÊNCIA DE OMISSÃO.
+    Vistos etc.
+    1. Contra a decisão monocrática pela qual negado seguimento à reclamação, Murilo Cardozo da Costa opõe embargos de declaração.
+    Afirma que “a fundamentação baseada na lei 10.826/03 resta contraditória em razão de o embargante utilizar arma de fogo há mais de 17 anos”. Aponta, ainda, ser omissa a decisão embargada, porquanto teria deixado de enfrentar a sua tese principal: a não aplicação da Lei Estadual 10.123/1968 (Lei Orgânica da Polícia).
+    É o relatório.
+    Decido.
+    1. O artigo 1.022 do CPC/2015 admite embargos de declaração contra qualquer decisão judicial , autorizando, de forma expressa, na dicção do art. 1.024, § 2º, enfrentamento monocrático quando opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal .
+    Com base, pois, nesse permissivo legal, procedo à apreciação singular destes declaratórios, independentemente do caráter infringente que ostentam.
+    2. Inexistente vício a ensejar estes embargos declaratórios.
+    3. De início, constato não se ressentir o julgado do vício que se lhe imputa, devidamente explicitadas as razões de decidir e enfrentadas as questões necessárias e suficientes ao deslinde da controvérsia, notadamente quanto ao não cabimento de reclamação proposta para garantir a observância de verbete sumular vinculante, quando editado posteriormente ao ato reclamado.
+    4. Com efeito, a presente reclamação foi proposta sob o fundamento de que a Corte reclamada teria inobservado o enunciado da Súmula Vinculante 44, segundo a qual só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público .
+    5. Consoante registrado no decisum acoimado de omisso e contraditório, o aludido verbete foi aprovado pelo Plenário deste Supremo Tribunal Federal em 14.4.2015. Por sua vez, a decisão reclamada foi publicada em 10.02.2014, em momento anterior, portanto. Confira-se, quanto ao ponto, o seguinte excerto da decisão embargada:
+    “1. Na presente reclamação, aponta-se a inobservância do enunciado da Súmula Vinculante 47, segundo a qual só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público .
+    2. Registro que o aludido verbete foi aprovado pelo Plenário deste Supremo Tribunal Federal em 14.4.2015. Já a decisão reclamada foi publicada em 10.02.2014 em momento anterior, portanto.
+    Esta Suprema Corte entende incabível a reclamação quando a edição do verbete sumular vinculante tido por contrariado é posterior ao ato reclamado. Confiram-se os seguintes precedentes:
+    Ementa: AGRAVO REGIMENTAL NA RECLAMAÇÃO. AÇÃO INDENIZATÓRIA. REPARAÇÃO DE DANOS DECORRENTE DE ACIDENTE DE TRABALHO. COMPETÊNCIA. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE 22 DO SUPREMO TRIBUNAL FEDERAL. DECISÃO RECLAMADA ANTERIOR AO PARADIGMA INVOCADO. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A reclamação é incabível por alegação de afronta à autoridade de decisão ou de súmula vinculante do Supremo Tribunal Federal proferida ou editada posteriormente ao ato reclamado. 2. In casu, o ato apontado como reclamado reafirmou a competência da justiça comum estadual para o julgamento da ação de reparação de danos decorrente de acidente de trabalho, em decisão proferida e acobertada pelo trânsito em julgado em momento anterior à da edição da Súmula Vinculante 22. 3. Agravo regimental desprovido (Rcl 18920 AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 11.3.2015).
+    EMENTA: O CABIMENTO DE RECLAMAÇÃO, NOS TERMOS DO ART. 103-A, § 3º, DA CONSTITUIÇÃO DA REPÚBLICA, PRESSUPÕE A EXISTÊNCIA DE SÚMULA VINCULANTE ANTERIOR À DECISÃO IMPUGNADA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO". (Rcl 7.989 AgR, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 20.8.2012)
+    EMENTA AGRAVO INTERNO EM RECLAMAÇÃO FUNDAMENTOS DA DECISÃO NÃO ATACADOS - ALEGADA OFENSA À AUTORIDADE DO STF E À EFICÁCIA DA SÚMULA VINCULANTE Nº 3 - DECISÃO RECLAMADA ANTERIOR AO PARADIGMA DESRESPEITO NÃO CONFIGURADO - AGRAVO REGIMENTAL NÃO PROVIDO. 1 Não tem êxito o agravo interno que deixa de atacar especificamente os fundamentos da decisão singular (art. 317, § 1º, RISTF). 2 - O ato reclamado é anterior à Súmula Vinculante nº 3, que se apresentou como paradigma. Caso de não conhecimento da reclamação, conforme jurisprudência do STF. Precedentes do Plenário: Rcl nº 1.723/CE-AgR-QO, Relator o Ministro Celso de Mello, DJ de 8/8/01 e Rcl nº 4.131/SP, relator o Ministro Marco Aurélio, DJe de 6/6/08. Agravo regimental não provido. (Rcl 5649 AgR, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 08.9.2011)
+    (…)”
+    6. Anoto que os fundamentos constantes do parecer da Procuradoria Geral da República, adotados em minhas razões de decidir, não têm o condão alterar o resultado do julgado, mantendo-se incólume o fundamento principal e suficiente para a negativa de seguimento da reclamação, acima exposto.
+    7. Dessarte, não se verifica nenhuma das hipóteses ensejadoras dos embargos de declaração, uma vez apreciada a reclamação de forma clara e coerente, em consonância com a jurisprudência desta Corte Suprema.
+    8. Por conseguinte, reputo desatendidos os pressupostos de embargabilidade, consoante o art. 1022 do CPC.
+    9. Rejeito os embargos declaratórios (art. 1024, § 2º, do CPC de 2015).
+    Publique-se.
+    Brasília, 26 de março de 2018.
+Ministra Rosa Weber
+Relatora
