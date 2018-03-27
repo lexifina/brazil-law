@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário admitido pelo TRF 5ª Região contra acórdão proferido na Apelação Criminal nº 7182-CE, que da ementa destaco o seguinte trecho:
+    “PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, DA LEI Nº 8.137/90. INCOMUNICABILIDADE DAS TESTEMUNHAS DE ACUSAÇÃO. AUSÊNCIA DE PREJUÍZO PARA A DEFESA, ALEGAÇÃO DE LITISPENDÊNCIA. AUSÊNCIA DE CONFIGURAÇÃO. DIVERSIDADE DE CAUSAS DE PEDIR E DE PEDIDO. PREVISTO NO ART. 2º, I, DA LEI Nº 8.137/90. IMPOSSIBILIDADE. PRESENÇA DA JUSTA CAUSA PARA A AÇÃO PENAL. ABERTURA DE EMPRESA FICTÍCIA EM NOME DE EMPREGADO PARA A MOVIMENTAÇÃO DE VALORES DE EMPRESA REAL. NÃO PRESTAÇÃO DE INFORMAÇÕES RELEVANTES AO FISCO. SUPRESSÃO DE TRIBUTOS. AUTORIA E MATERIALIDADE DELITIVAS COMPROVADAS. CRIME PRATICADO QUE SE RENOVA COM PERIODICIDADE ANUAL. NÃO CONFIGURAÇÃO DA CONTINUIDADE DELITIVA. REDUÇÃO DA PENA PRIVATIVA DE LIBERDADE. RECURSO PROVIDO EM PARTE”. (eDOC 5, p. 167)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea a, da Constituição Federal, aponta-se afronta ao artigo 5º, incisos LIV, LV, XXXV; e 93, IX, do texto constitucional. (eDOC 6, p. 43-74)
+    Sustenta-se a nulidade das decisões do TRF 5ª Região, proferidas quanto na apelação e nos embargos opostos, sob o argumento de que não teriam apreciado “todas as questões levantadas pela defesa do recorrente, em ofensa ao art. 93, IX da CF/88, afrontando a amplitude de defesa ao contraditório (art. 5º LV), bem como falta de prestação jurisdicional (art. 5º, XXXV)(eDOC 6, p. 56)
+    Alega-se “erro flagrante na dosimetria da pena imposta ao recorrente, porquanto desobedecidas as regras legais que orientam o processo de fixação da reprimenda, notadamente no que concerne ao sopesar das circunstâncias judiciais elencadas no art. 59 do Código Penal Brasileiro, o que caracteriza falta de observância ao devido processo legal”. Neste ponto apontado erro na fixação da pena base. (eDOC 6, p. 70)
+    Requer a nulidade do acórdão combatido, com a consequente absolvição do recorrente. (eDOC 6, p. 74)
+    É o relatório.
+    Decido.
+    Definitivamente o recurso extraordinário não deveria ter sido admitido.
+    É que, como o próprio TRF 5º Região consignou, “a defender a ausência de fundamentação no julgado recorrido, apontam-se erronias na dosimetria da pena; ausência de individualização das condutas e das penas impostas; ausência de provas que atestem a autoria e materialidade delituosas, vícios que maculam o processo de violação aos princípios constitucionais do devido processo legal, contraditório, ampla defesa, presunção de inocência e da individualização da pena”. (eDOC 6, p. 176)
+    Ora para cada uma das irresignações apontadas pelo recorrente há um tema de sistemática de repercussão geral já analisado pelo STF.
+    Assim, verifico que os assuntos versados no recurso extraordinário (eDOC 6, p. 43-74 - valorização das circunstâncias judiciais previstas no art. 59 do Código Penal na fundamentação da fixação da pena-base pelo juízo sentenciante, e ofensa aos arts. 5º, LIV, LV e 93, IX, da CF) correspondem aos temas 182, 339 e 660 da sistemática da repercussão geral, cujos paradigmas são, respectivamente, o AI-RG 742.460/RJ, Rel. Min. Cezar Peluso, DJe 25.9.2009; o AI-QO-RG 791.292/PE, DJe 13.8.2010; e o ARE-RG 748.371/MT, este dois últimos de minha relatoria, DJe 1º.8.2013.
+    Assim, determino a devolução dos autos ao tribunal de origem, para que observe o disposto no art. 1.036 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 27 de março 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
