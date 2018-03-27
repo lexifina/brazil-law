@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por São Paulo Previdência - SPPREV em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado:
+Apelação Cível - Previdenciário - Pensão por morte - Pretensão voltada à anulação - Incabível a pretensão de invalidar ato administrativo concessivo do benefício, ante a ocorrência de prescrição administrativa (art. 10 da Lei Estadual nº 10.177/98) - Benefício concedido nos termos do artigo 153 da LC Estadual nº 180/1978, antes da vigência da LC Estaduakl nº 1.012/2007 - O benefício previdenciário é regido pela lei em vigor à data do óbito - Inteligência da Súmula 340 do STJ - Precedentes deste E. Tribunal de Justiça - Inocorrência de ofensa ao artigo 5º da Lei Federal nº 9.717/98, que não limitou o rol de beneficiários da pensão por morte - Direito à manutenção do benefício, até que complete 21 anos de idade ou, se universitária, até 25 anos - Precedentes desta Corte. Recurso provido.
+Os embargos de declaração opostos foram rejeitados.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, a agravante apontou contrariedade (a) ao art. 1.022, II, do CPC/2015, alegando em síntese que, a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso, (b) aos arts. 177 do CC/1916 e 205 e 2.028 do CC/2002, na medida que "são dois estágios de estabilização dos atos administrativos: o primeiro, que se atinge após dez anos da produção do ato, consistente na impossibilidade de invalidação administrativa dos atos; o segundo e derradeiro, ocorre após findo o prazo de prescrição da ação, atingindo o direito de pleitear a invalidação pelo Poder Judiciário." (fl. 189-e). Assim, o prazo mencionado como segundo estágio, ainda não decorreu para a Administração.
+Apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que não houve vício no acórdão recorrido apto a ensejar a violação do art. 1.022 do CPC/2015. Quanto à decadência, afirma que sua análise demanda reexame de direito local, o que atrai o óbice da Súmula 280/STF. Por fim, entende que não ficou preenchido o requisito do prequestionamento, quanto aos demais dispositivos tidos por violados, incidindo a Súmula 211/STJ.
+O agravante afirma que demonstrou a violação do art. 1.022 do CPC/2015 e que o recurso demanda o exame de lei federal, apenas.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conforme disposição do artigo 932, III, do CPC/2015, não deve ser conhecido o recurso que não afasta especificamente os fundamentos da decisão recorrida. A propósito:
+Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;"
+Nesse ponto, a parte agravante limitou-se a afirmar genericamente que é possível o cabimento do recurso especial no caso concreto, que o acórdão é omisso e que não é necessária a análise de lei local, sem nada mencionar sobre o óbice da ausência de prequestionamento. Assim, se mostra inviável o agravo, pois não ataca especificamente o fundamento da decisão agravada.
+Outrossim, é firme o entendimento jurisprudencial no sentido de que mera alegação genérica acerca das razões que levaram à inadmissão do recurso especial, sem infirmar especificamente os fundamentos adotados pelo Tribunal de origem, não é suficiente para o conhecimento do agravo em recurso especial.
+Nesse sentido, ressaltam-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art.
+932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp 739.743/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ENUNCIADO ADMINISTRATIVO N. 3/STJ PARA O PRESENTE AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+1. É dever da agravante (em virtude do princípio da dialeticidade) demonstrar o desacerto da decisão que inadmitiu o recurso especial, atacando especificamente e em sua totalidade o seu conteúdo, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especial não impugnou todos os seus fundamentos. A ausência de impugnação específica impede o conhecimento do agravo em recurso especial.
+2. Agravo interno não provido.
+(AgInt no AREsp 863.182/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/06/2016, DJe 08/06/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
