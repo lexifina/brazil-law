@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e LIBERIA HAYASHIDA GONCALVES, com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal, insurgindo-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"COMPROMISSO DE COMPRA E VENDA - Pretensão dos adquirentes de obterem o congelamento do saldo devedor em aberto, sob a alegação de que haveria atraso na entrega do imóvel - Descabimento - Obra já concluída quando da celebração do contrato - Compradores inadimplentes que não obtiveram o financiamento imobiliário a fim de quitarem o saldo devedor em aberto - "Mora debitoris" configurada - Incidência do IGP-M contratado sobre o saldo devedor - Admissibilidade - Correção monetária que não constitui acréscimo ou penalidade, mas mera reposição do valor da moeda - Taxa condominial devida pelos adquirentes que assumiram essa responsabilidade a partir da assinatura do contrato - Dano moral - Não ocorrência - Cobrança de valores referentes à comissão de corretagem - Empreendimento imobiliário em que a vendedora é que contrata e se beneficia da intermediação - Ausência de prova da prestação dos serviços aos adquirentes - Contrato de adesão e operação casada - Caracterização (art. 39, I, do CDC) - Litigância de má-fé não caracterizada - Direito ao duplo grau de jurisdição - Sucumbência recíproca - Recurso parcialmente provido a fim de condenar a ré no ressarcimento aos autores das despesas com comissão de corretagem no valor de R$ 6.900,95, com juros de mora a partir da citação e correção monetária desde o desembolso, e repartir o ônus da sucumbência".
+Nas razões recursais, alega-se as seguintes violações com as respectivas teses:
+(i) artigos 39, XII, 51, § 1º, III, § 2º e 54 do Código de Defesa do Consumidor: nulidade da cláusula que condiciona a entrega do imóvel a evento futuro e incerto;
+(ii) artigos 186, 927 do Código Civil e 42, § único, do CDC: deve haver o congelamento do saldo devedor até entrega das chaves;
+(iii) artigo 43 da Lei nº 4.591/1964: deve ser aplicada a multa prevista em lei, em razão da ausência de comunicação sobre a evolução da obra;
+(iv) artigos 186, 927 do CC e 5º, X, da Constituição Federal: ocorrência de dano moral;
+(v) artigos 108, 1.227 e 1.245 do Código Civil: não pode ser responsabilizada pelas taxas condominiais, antes da imissão na posse do imóvel;
+(vi) artigos 389, 395 e 404 do CC: deve haver a restituição dos honorários contratuais; e
+(vii) artigos 20, § 3º, do Código de Processo Civil de 1973 e 85, §§ 2º e 8º, do Código de Processo Civil de 2015: os honorários sucumbenciais devem ser fixados em grau máximo.
+Admitido na origem (fls. 675/677 e-STJ), subiram os autos a esta Corte.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+De início, no tocante às teses em torno dos artigos 39, XII, 42, § único, 51, § 1º, III, § 2º, 54 do CDC, 389, 395 e 404 do CC verifica-se que não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1.022 do CPC/2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. ART. 397 DO CÓDIGO CIVIL. SÚMULA 211 DO STJ.
+1. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Persistindo a omissão no julgado, cabe ao recorrente alegar, nas razões do recurso especial, violação ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), a fim de que não haja supressão de instância.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 875.774/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/10/2016, DJe 7/10/2016).
+ No tocante à alegada violação do artigo 43 da Lei nº 4.591/1964, extrai-se das razões recursais que a recorrente não refutou o fundamento adotado pela Corte local. Na hipótese vertente, o aresto atacado baseia-se no seguinte argumento:
+"Extrai-se ainda dos autos que a compra e venda do imóvel, bem como sua vistoria ocorreram na mesma data (fls. 128), não havendo que se falar em aquisição de imóvel "na planta", o que afasta a alegada falta de comunicação sobre a evolução da obra que pudesse acarretar a pretendida multa de 2% sobre o valor do imóvel".
+Aplica-se, portanto, a Súmula nº 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. DOENÇA DO ADVOGADO. JUSTA CAUSA. RESTITUIÇÃO DE PRAZO. ART. 183, § 1º DO CPC. EMBARGOS DE TERCEIRO. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. FUNDAMENTO INATACADO. SÚMULAS 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7 DO STJ. EMBARGOS DE DECLARAÇÃO CONHECIDOS PARA AFASTAR A INTEMPESTIVIDADE DO RECURSO ESPECIAL. AGRAVO NÃO PROVIDO.
+1. A doença do advogado pode constituir justa causa para os efeitos do art. 183, § 1º do CPC, levando em conta quando ele for o único procurador constituído nos autos.
+2. Não se revela a via adequada para análise de contrariedade à Súmula 195 do STJ, por não estar esta compreendida na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+3. A ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial. Incidência da Súmula 284 do Supremo Tribunal Federal.
+4. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283 do Supremo Tribunal Federal.
+5. Para se chegar a conclusão diversa da que chegou o Tribunal estadual, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+6. Embargos de declaração acolhidos para reconhecer a tempestividade do recurso especial. Todavia, pelas razões aduzidas no voto nego provimento ao agravo em recurso especial" (Edcl no Agrg nos Edcl no Aresp 609.426/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 31/8/2015).
+No tocante ao congelamento do saldo devedor, dano moral e responsabilização pelo pagamento das cotas condominiais, o Tribunal de origem entendeu que:
+"A compra e venda foi celebrada em 13/06/2012, pelo valor de R$ 150.799,05 (fls. 109/123), tendo sido estabelecido o prazo de 13/09/2012 para a entrega da unidade (fls. 109), sendo certo que o "habite-se" já havia sido expedido em 05/05/2011 (fls. 111).
+As partes pactuaram a possibilidade dos adquirentes quitarem o saldo devedor por meio de financiamento imobiliário, cuja responsabilidade para a obtenção dos recursos é dos apelantes (cláusula 4ª, fls. 112).
+Os documentos de fls. 174/176 demonstram que a vendedora encaminhou um mês após a contratação, ou seja, em 17/07/2012 a documentação que lhe competia à Caixa Econômica Federal, necessária para a constatação da regularidade do empreendimento e possibilitar eventual financiamento pelos interessados na aquisição das unidades.
+Destarte, diferentemente do que pretenderam fazer crer os recorrentes, não houve o alegado atraso na entrega do apartamento por culpa da vendedora, mas sim mora dos adquirentes que, por razões aqui não informadas não obtiveram até o presente momento o financiamento junto ao agente financeiro para quitarem o saldo devedor em aberto.
+(..)
+Descabida a pretensão dos apelantes de verem congelado o saldo devedor, sem a incidência do IGP-M contratado na cláusula 5ª, descrita às fls. 115.
+A atualização monetária é mera forma de recomposição do valor da moeda ao longo do tempo e não configura penalidade, acréscimo ou remuneração de capital.
+De outro lado, se os recorrentes passaram por alguma situação constrangedora ou humilhante como alegaram, não o foi por culpa da vendedora. Foram os adquirentes que não quitaram parcela importante do preço, estando em "mora debitoris".
+Ressalte-se que não houve o descumprimento contratual por parte da recorrida, consubstanciado no atraso da entrega do apartamento.
+A instalação do condomínio ocorreu regularmente em 25/10/2011 (fls. 253), portanto, antes da assinatura do contrato de compra e venda, do qual constou a cláusula 10ª, item "d" que atribuiu aos adquirentes as despesas condominiais, a partir da data da assinatura do contrato. Assim, estando os apelantes inadimplentes, não podem pretender transferir a responsabilidade pelas taxas condominiais à vendedora" .
+Ao contrário do ora sustentado, o acolhimento da pretensão recursal, nos termos em que posta, demandaria o reexame de matéria fática e do contrato, o que é inviável em sede de recurso especial, nos termos das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Considerada a sucumbência recíproca fixada na origem (e-STJ fl. 495), deixo de majorar os honorários advocatícios, nos termos do artigo 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
