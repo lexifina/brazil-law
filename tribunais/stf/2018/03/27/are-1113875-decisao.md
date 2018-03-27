@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. O Colegiado de origem, reformando o entendimento do Juízo, julgou procedente o pedido de concessão de benefício assistencial, considerada a legislação de regência. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 5º, § 3º, cabeça, 194, parágrafo único, 195, § 5º, e 203, inciso V, da Constituição Federal. Afirma não preenchidos os requisitos para a concessão do benefício. Sustenta a inexistência de fonte de custeio.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    - No caso concreto, infere-se da perícia social que a autora possui 60 anos de idade, baixo grau de instrução e reside sozinha em um quarto alugado. Extrai-se das fotos colacionadas que a recorrente sobrevive em situação precária, apenas com o rendimento de valor irrisório, proveniente do “bolsa família”. Assim, considerando a análise conjunta do laudo pericial e do laudo social em anexo, entendo caracterizada a situação de vulnerabilidade social e econômica da autora, sendo forçoso o deferimento do pleito. - O benefício deve ser concedido com DIB na DER e DIP na data do presente julgamento, respeitada a prescrição quinquenal, devendo os atrasados serem corrigidos (…).
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    De resto, o Tribunal, no recurso extraordinário com agravo nº 821.296/PE, da relatoria do ministro Roberto Barroso, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à verificação dos requisitos legais para a concessão de benefício previdenciário. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    3. Conheço do agravo e o desprovejo. Deixo de majorar os honorários previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto ausente fixação de verba sucumbencial na origem.
+    4. Publiquem.
+Brasília, 27 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
