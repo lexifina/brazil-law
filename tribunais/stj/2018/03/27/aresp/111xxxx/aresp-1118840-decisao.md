@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por ESTHER EUGÊNCIA DE AGUIAR contra decisão que não admitiu recurso especial (fl. 290, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 199, e-STJ):
+AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. CONCORRÊNCIA PÚBLICA. AUSÊNCIA DE DOCUMENTOS. NECESSIDADE DE DILAÇÃO PROBATÓRIA. DECISÃO MANTIDA.
+1. Agravo de instrumento com pedido de antecipação dos efeitos da tutela contra decisão que indeferiu pedido de sustação da concorrência pública e de expedição de ofício à agravada para que se abstenha de realizar qualquer ato executório, até o julgamento final, com a manutenção da agravante na posse do imóvel.
+2. A recorrente deixou de instruir suficientemente o presente agravo. Nos autos não há documento que comprove que o imóvel encontra-se em execução extrajudicial, e principalmente, não foram juntadas cópias do contrato firmado entre as partes.
+3. A adequada formação do agravo de instrumento constitui ônus da agravante, que deve zelar pela correta transmissão e recepção dos dados por meio eletrônico, notadamente quanto às peças essenciais. Torna-se necessária a dilação probatória que poderá ser realizada na fase de instrução no curso da ação ordinária, não sendo possível, desta forma, a antecipação dos efeitos da tutela recursal.
+4. Agravo de instrumento desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 214-217, e-STJ).
+Em suas razões de recurso especial (fls. 359-373, e-STJ), a insurgente aponta ofensa aos arts. 130, 247, 292, § 3º, 330, I, 333, 420, 421, 458, II, 535, 543-B, 583, 586, 615, 618, I, 620, 896 e 899, todos do CPC/73; 31 e 32 do Decreto-Lei n.º 70/66; 19 do Decreto-Lei n.º 21.991/32; 2º, 3º, 6º, VIII, da Lei n.º 8.078/90. Questiona, em síntese, o indeferimento do pedido de antecipação de tutela que formulou perante as instâncias originárias, consistente na sustação dos efeitos de concorrência pública realizada pela parte agravada, com manutenção da ora agravante na posse do imóvel objeto de financiamento habitacional.
+Contrarrazões às fls. 271-287 (e-STJ).
+Em juízo provisório de admissibilidade, o Tribunal local inadmitiu o recurso especial (fl. 290, e-STJ), o que levou à interposição do presente agravo (fls. 302-309, e-STJ), que busca destrancar o processamento daquela insurgência.
+Contraminuta às fls. 327-330 (e-STJ).
+É o relatório.
+Decido.
+Não mais subsiste razão para o processamento do presente agravo, ante a perda superveniente do objeto do recurso especial.
+1. Em consulta ao sítio eletrônico do egrégio Tribunal Regional Federal da 4ª Região, constatou-se, nos autos do Processo n.º 0109330-35.2015.4.02.5101 (2015.51.01.109330-5), a superveniente prolação de sentença, com resolução de mérito, que julgou parcialmente procedente o pedidos inicial da ora agravante, para "declarar a nulidade do declarar a nulidade do procedimento de execução extrajudicial do imóvel situado à Rua Coração de Maria, nº 414, apartamento nº 201, Méier, Rio de Janeiro, desde o momento em que deveria ser aplicado o §1º do art. 31 do Decreto-lei nº 70/66, e, por conseguinte, a desconstituição de eventuais atos praticados em decorrência da execução extrajudicial" (fls. 349, e-STJ), encontrando-se os respectivos autos atualmente arquivados (fl. 344, e-STJ)
+Assim, com a superveniência da decisão de mérito exarada nos autos do processo, já arquivado (fls. 344-346 e 347-349, e-STJ), não mais subsiste interesse processual no julgamento do feito, em que se discutia o preenchimento dos requisitos necessários para a concessão de liminar nos autos da ação principal (fls. 1-8, e-STJ), vale dizer, o provimento jurisdicional perseguido não mais se revela útil para a consecução dos fins almejados pela agravante.
+Neste sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ANTECIPAÇÃO DE TUTELA. SENTENÇA PROFERIDA. PERDA DO OBJETO.
+1. Consoante o entendimento pacífico desta Corte, o exame de recurso especial interposto contra acórdão proferido em agravo de instrumento de decisão liminar ou de antecipação de tutela fica prejudicado, ante a perda de seu objeto, na hipótese de já ter sido prolatada sentença.
+2. Agravo interno no recurso especial prejudicado por perda superveniente do objeto.
+(AgInt no AREsp 741.331/ES, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/08/2017, DJe 15/08/2017).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. TUTELA ANTECIPADA INDEFERIDA DE APREENSÃO CAUTELAR DE NUMERÁRIO EM DISPUTA. SUPERVENIÊNCIA DE SENTENÇA NO PROCESSO PRINCIPAL. EXTINÇÃO DO PROCESSO POR PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO. AGRAVO DESPROVIDO. 1. Na hipótese em exame, aplica-se o Enunciado nº 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Consoante o entendimento pacífico da jurisprudência desta Corte Superior, a superveniência de sentença de mérito no feito principal enseja a perda de objeto do recurso especial resultante de agravo de instrumento interposto contra decisão concessiva ou denegatória de liminar ou antecipação de tutela, tendo em vista que a sentença absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.651.652/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/05/2017, DJe 01/06/2017).
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERIU PARCIALMENTE A ANTECIPAÇÃO DE TUTELA. POSTERIOR SENTENÇA DE MÉRITO JULGANDO IMPROCEDENTE O PEDIDO. PERDA DE OBJETO DO AGRAVO DE INSTRUMENTO. AGRAVO REGIMENTAL PREJUDICADO .
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A Corte Especial do STJ já consolidou o entendimento de que fica prejudicado o recurso especial interposto contra acórdão que julga o agravo de instrumento de decisão que defere ou indefere liminar ou antecipação de tutela quando prolatada a sentença de mérito.
+3. Após consulta ao site do eg. Tribunal de Justiça do Estado do Rio de Janeiro, verifica-se que a ação foi julgada improcedente aos 22/11/2016.
+4. Agravo regimental prejudicado.
+(AgRg no AREsp 813.609/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/04/2017, DJe 24/04/2017).
+Dessa forma, considerando a prolação de sentença de mérito exarada na origem, é de rigor o reconhecimento da perda do objeto do presente recurso.
+2. Do exposto, com fulcro no art. 34, inciso XI, do RISTJ, julgo prejudicado o recurso especial, em razão da superveniente perda de objeto, sendo de rigor a extinção do procedimento recursal.
+Publique-se.
+Intimem-se.
