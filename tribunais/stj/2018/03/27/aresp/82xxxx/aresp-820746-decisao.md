@@ -1,0 +1,18 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DESERÇÃO. ASSISTÊNCIA JUDICIÁRIA NÃO REQUERIDA NA INSTÂNCIA A QUO. PEDIDO GENÉRICO EM RECURSO ESPECIAL. AUSÊNCIA DE DOCUMENTOS PARA EMBASAR A ANÁLISE. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo em recurso especial contra decisão que inadmitiu recurso especial ao fundamento de incidência da súmula 187/STJ.
+O apelo nobre enfrenta acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado (fl. 224, e-STJ):
+PROCESSUAL CIVIL. AGRAVO LEGAL. CPC , ART. 557, § 1. AGRAVO DE INSTRUMENTO. PEÇAS OBRIGATÓRIAS. AUSÊNCIA. SEGUIMENTO NEGADO.
+Nas razões recursais, além de requerer a concessão dos benefícios da justiça gratuita, alegou ter juntado todas as peças necessárias.
+No agravo, afirma que o o pedido de assistência judiciária pode ser a qualquer tempo.
+É o relatório. Decido.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Por seu turno, assevero que a Corte Especial, no julgamento do AgRg nos EREsp 1.222.355/MG, sob a relatoria do Ministro Raul Araújo, entendeu que "É desnecessário o preparo do recurso cujo mérito discute o próprio direito ao benefício da assistência judiciária gratuita. Não há lógica em se exigir que o recorrente primeiro recolha o que afirma não poder pagar para só depois a Corte decidir se faz jus ou não ao benefício". Acrescentou que "É viável a formulação, no curso do processo, de pedido de assistência judiciária gratuita na própria petição recursal, dispensando-se a exigência de petição avulsa, quando não houver prejuízo ao trâmite normal do feito".
+No caso dos autos, verifico que o mérito do recurso especial não diz respeito a questões relacionadas à gratuidade de justiça, sendo que tal assunto em momento algum foi debatido pelas instâncias inferiores.
+Nas razões do recurso especial, o agravante requer, de modo genérico, que o apelo nobre seja processado com os benefícios da gratuidade judiciária em relação às custas e despesas processuais, mas não traz qualquer documentação apta a viabilizar a análise do pleito por esta Corte.
+O Superior Tribunal de Justiça, ao julgar caso análogo, asseverou que, "ainda que a recorrente postule nas razões de seu recurso especial a gratuidade da justiça - por ser possível realizar este pedido em qualquer fase processual ou instância recursal -, deve embasar seu pedido, seja com a declaração de pobreza, seja com documentação mínima que demonstre sua hipossuficência financeira. Assim, a assistência judiciária gratuita não poderia ser deferida porque, mais uma vez, a recorrente não fundamentou seu pedido de gratuidade, nem juntou documentos que demonstrassem a sua hipossuficiência financeira, em especial a declaração de pobreza exigida pela lei" (AgRg no AREsp 737.289/RJ, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 17/12/2015, DJe 12/2/2016).
+Ressalte-se que, ainda que o recorrente tenha apresentado requerimento no recurso especial, a eventual concessão dos benefícios da assistência judiciária gratuita não operaria efeitos retroativos, motivo pelo qual não estaria dispensado de comprovar o preparo no momento da interposição do especial.
+ Diante das razões expostas, não se pode afastar a deserção.
+Por tudo isso, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.Intimem-se.
