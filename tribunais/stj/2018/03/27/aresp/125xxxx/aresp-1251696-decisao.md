@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 499):
+AGRAVO REGIMENTAL - Na hipótese em apreço, inexiste obrigatoriedade de julgamento colegiado - Imperativo de vigência dos princípios constitucionais de racionalidade e de razoável duração do processo.
+- Ratificação da decisão (artigo 252 do Regimento Interno/2009):
+"EMBARGOS DE DECLARAÇÃO das autoras - Omissão - Ocorrência - Decisão monocrática que ao manter a r.sentença, deixou de fixar a correta legislação referente à correção monetária e juros de mora incidentes sobre as diferenças devidas - Omissão reconhecida e suprida - Embargos acolhidos."
+- Agravo regimental desprovido.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º do Decreto n.º 20.910/32 e 22 da Lei n.º 8.880/94. Sustenta, em resumo, a ocorrência da prescrição do fundo de direito, bem como "os autores afirmaram a suposta violação da legislação federal, sem contudo, demonstrar em momento algum a efetividade de tal prejuízo." (fl. 518).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O inconformismo não merece prosperar.
+O acórdão recorrido decidiu em sintonia com a orientação jurisprudencial, segundo a qual, nas hipóteses de pedido de diferenças salariais decorrente da conversão em URV, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDORES PÚBLICOS ESTADUAIS. REAJUSTE DE VENCIMENTOS. URV. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. PARCELAS DE TRATO SUCESSIVO. INCIDÊNCIA DA SÚMULA 85/STJ. DECISÃO MANTIDA.
+1. A pretensão dos agravados é o recálculo de seus vencimentos em virtude da não conversão adequada dos salários em URV, nos moldes determinados pela Lei n. 8.880/1994. Trata-se de parcelas de trato sucessivo, em que se renova mês a mês a violação do suposto direito.
+2. Nos casos em que se visa à obtenção do reajuste relativo à perda remuneratória oriunda da conversão de cruzeiros reais em URV realizada pelo Estado em desacordo com a Lei n. 8.880/1994, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação. Incidência do disposto na Súmula 85/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1.433.914/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 01/04/2014, DJe 07/04/2014).
+Quanto ao mérito, a análise da alegação trazida no especial, acerca da falta de comprovação da defasagem remuneratória, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme previsto na Súmula 7/STJ, o que impede, também, o conhecimento da divergência jurisprudencial. Nesse sentido, anotem-se as seguintes decisões proferidas em hipóteses idênticas: AREsp 496.440/RJ, Rel. Ministro Benedito Gonçalves, DJe 08/05/2014; AREsp 472.328/RJ, Rel. Ministro Herman Benjamin, DJe 25/02/2014; AREsp 412.524/RJ, Rel. Ministro Og Fernandes, DJe 06/02/2014 e AREsp 400.931/RJ, Rel. Ministra Eliana Calmon, DJe 22/11/2013.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
