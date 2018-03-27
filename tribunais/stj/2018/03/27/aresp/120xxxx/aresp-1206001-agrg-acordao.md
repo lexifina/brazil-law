@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. MERO INCONFORMISMO. PRETENSÃO DE REDISCUTIR MATÉRIA JÁ ENFRENTADA NA DECISÃO AGRAVADA.
+1. O agravante não logrou êxito em demonstrar qualquer argumento capaz de modificar as razões expostas na decisão ora combatida, numa nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão às fls. 895/901, por meio da qual conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento. Eis a respectiva ementa (fl. 895):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO E LESÃO CORPORAL DE NATUREZA GRAVE. SENTENÇA DE PRONÚNCIA. ALEGAÇÃO DE INÉPCIA DA PEÇA ACUSATÓRIA. ANÁLISE PREJUDICADA PELA SUPERVENIÊNCIA DA PRONÚNCIA. PRECEDENTES. EXCESSO DE LINGUAGEM. INOCORRÊNCIA. FUNDAMENTAÇÃO IDÔNEA. IN DUBIO PRO SOCIETATE. ACÓRDÃO EM CONFORMIDADE COM ENTENDIMENTO DOMINANTE DESTA CORTE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+Agravo conhecido para conhecer, em parte, do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões, o agravante reafirma a inépcia da inicial, sustentando, em suma, que a denúncia  ..  não guarda pertinência com as provas coligidas aos autos (fl. 909). Permanece alegando excesso de linguagem na sentença de pronúncia, pois, na sua ótica, a decisão  ..  emitiu juízo de valor e adentrou no mérito da demanda, o que é reservado ao Corpo de Jurados (fl. 911). Encerra apontando a existência de divergência jurisprudencial no que se refere à desistência voluntária bem como o reconhecimento da legítima defesa, citando para tanto diversas ementas como julgados paradigmas.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não merece acolhida a pretensão do agravante.
+A bem da verdade, as razões do regimental apenas evidenciam sua utilização como forma de expressar sua insatisfação com o decisum ora questionado, na tentativa de rediscutir a matéria rechaçada.
+Tanto é assim que praticamente repete os mesmos argumentos trazidos no especial, que foi inadmitido, quais sejam: a) inépcia da inicial; b) excesso de linguagem; e c) divergência jurisprudencial quanto à tese da desistência voluntária e da legítima defesa.
+Tais questões foram devidamente enfrentadas e rechaçadas na decisão monocrática ora questionada, nos seguintes termos (fls. 897/901):
+ ..
+O inconformismo não merece abrigo.
+A análise acerca da alegada inépcia da denúncia encontra-se prejudicada em razão da superveniência da pronúncia. Com efeito, esta Corte tem entendido que, proferida decisão de pronúncia, não faz mais sentido alegar a inépcia da denúncia, dado que os indícios de autoria e de materialidade, inicialmente apresentados na denúncia, estão agora, com maior razão, reconhecidos e reforçados com o juízo positivo de submissão do agravante a Júri (AgRg no AREsp 327.513/ES, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 13/05/2015).
+ ..
+Sem razão também o recorrente quanto ao pleito de anulação da sentença de pronúncia por excesso de linguagem.
+A Corte de origem entendeu pela inexistência do vício alegado, considerando que a decisão não ultrapassou os limites da fundamentação. Pelo contrário, com base nas provas dos autos, demonstrou a existência de elementos probatórios para justificar a prolação da pronúncia, em observância ao princípio constitucional da motivação das decisões judiciais (fl. 731).
+Não merece reparos o entendimento adotado no acórdão recorrido. O juízo de primeiro grau assim fundamentou a pronúncia (fls. 645/648 - grifo nosso):
+ ..
+A materialidade do crime é incontroversa, estando bem demonstrada, conforme: auto de prisão em flagrante (fls. 28/32), auto de exibição e apreensão (fl. 37), boletim de ocorrência (fls. 38/40), relatórios médicos (fls. 41 e 42) e prova oral colhida.
+Quanto à autoria, os indícios existentes nos autos apontam que o acusado [NOME] tentou ceifar a vida de [NOME], ferindo-o com golpes de arma branca, tipo facão, atingindo também a vítima [NOME], ocasionando-lhe lesões.
+O próprio réu [NOME], em Juízo (mídia audiovisual), conquanto tenha alegado tese de legítima defesa, confessou que desferiu golpes de faca contra as vítimas. Ademais, foi preso em flagrante delito logo após o fato, de posse da arma utilizada no crime, conforme afirmado pelos Policiais Militares encarregados da ocorrência, quando ouvidos em Juízo.
+De igual forma, os depoimentos prestados, tanto pela vítima, quanto pelas testemunhas (mídia audiovisual), corroboram os indícios de que o acusado agiu com intenção homicida em relação a uma das vítimas, ferindo a outra.
+Embora haja indicativos nos fólios processuais de que o suposto delito fora motivado por desavença pretérita entre acusado e vítimas, bem ainda que no dia dos fatos teria havido entreveros entre eles, verifica-se que a tese defensiva de legítima defesa não está revestida de plena certeza.
+De fato, há elementos que apontam que também tenha se defendido de agressões no momento do entrevero, mas isso não é suficiente, nesta fase, para concluir que ele agiu acobertado pelo instituto da legítima defesa e sem intenção homicida, principalmente se observadas a arma utilizada (um facão) e a gravidade das lesões causadas nas vítimas.
+ ..
+Para mais, sabe-se que os elementos colhidos não podem ser examinados em profundidade neste momento, mas eles são convincentes para remeter o réu ao Plenário do Júri.  ..
+Ademais, sabe-se que, havendo dúvida ou mais de uma versão nos autos, cabe aos jurados a análise do caso, uma vez que eles são os juízes naturais e constitucionais da causa.  ..
+Dessarte, não há que se falar, neste momento processual, em desclassificação do delito ou em absolvição sumária, na medida em que não se pode divisar de antemão a certeza e convicção imprescindíveis para o afastamento do animus necandi, impondo-se a apreciação desta tese ao Júri Popular.
+Assim, pelo conjunto probatório coligido aos autos, há indícios suficientes de que o acusado agiu com "animus necandi" ao desferir os golpes de facão na vítima [NOME], chegando a atingir, com a mesma ação, a vítima [NOME].
+No mais, uma apreciação mais esmiuçada deverá ser feita pelo Tribunal do Júri, Juízo competente para o julgamento da matéria, a cujo critério ficará a absolvição, a condenação ou a desclassificação, após o exame detalhado das provas, com observância plena do contraditório e da ampla defesa.
+ ..
+Pela leitura do trecho transcrito, constata-se que inexiste o apontado excesso de linguagem. Em nenhum momento o magistrado singular afirmou juízo de certeza acerca da autoria delitiva ao fundamentar a decisão de pronúncia, mas apenas indicou as provas que davam suporte à sua conclusão acerca da existência dos indícios em desfavor do recorrente.
+E, nessa esteira, o acórdão se mostra em perfeita consonância com a orientação jurisprudencial desta Corte, segundo a qual não se cogita de excesso de linguagem quando a Corte de origem mantém postura absolutamente imparcial quanto aos fatos, somente apontando, com cautela e cuidado, os elementos que justificaram a prolação e manutenção da decisão de pronúncia, para que seja o paciente submetido a julgamento pelo Tribunal do Júri, órgão constitucionalmente competente para dirimir as dúvidas e resolver a controvérsia, nos termos do art. 5º, inciso XXXVIII, "d", da CF/88 (AgRg no HC 191.275/ES, Ministro Marco Aurélio Bellizze, Quinta Turma, DJe 26/11/2012). Essa foi exatamente a hipótese dos autos.
+ ..
+No que se refere à interposição pela alínea c do permissivo constitucional, constato que o dissídio jurisprudencial não está comprovado nos moldes regimentais, porquanto a simples transcrição das ementas, trechos ou inteiro teor de julgado tido como paradigma, sem a realização do devido cotejo analítico entre os acórdãos confrontados, não atende às exigências dos arts. 541, parágrafo único, do CPC de 1973 e 255, §§ 1º e 2º, do RISTJ (AgInt no AREsp 871.303/MS, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 21/06/2016).
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para conhecer, parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Como se vê, a insurreição foi devidamente analisada, não logrando êxito o agravante em demonstrar em seu regimental argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, as quais devem ser mantidas in totum pelos seus próprios fundamentos.
+Aliás, o agravante nem sequer contra argumentou o fundamento que julgou prejudicada a análise acerca da alegada inépcia da denúncia em virtude da superveniência da pronúncia, o que atrairia o teor da Súmula 182/STJ quanto ao ponto, dada a ausência de impugnação específica nesse quesito.
+Ante o exposto, nego provimento ao agravo regimental.
