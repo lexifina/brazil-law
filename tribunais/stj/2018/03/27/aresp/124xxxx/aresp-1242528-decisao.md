@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por 700 VEÍCULOS LTDA.
+O Tribunal de Justiça do Estado do Rio de Janeiro proferiu acórdão de acordo com a seguinte ementa:
+"AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA EM APELAÇÃO CÍVEL. INEXISTÊNCIA DE ARGUMENTO NOVO CAPAZ DE ALTERAR DECISÃO ATACADA. "APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. VÍCIO DE PRODUTO. DANOS MORAIS ACOLHIDOS. SENTENÇA DE PARCIAL PROCEDÊNCIA COM A CONDENAÇÃO DA RÉ A RESTITUIR À AUTORA TODOS OS VALORES PAGOS, BEM COMO AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 8.000,00 (OITO MIL REAIS). IRRESIGNAÇÃO DA PARTE RÉ. CONFIGURADA RESPONSABILIDADE DO RÉU PELOS DANOS CAUSADOS. VIOLAÇÃO À LEGÍTIMA EXPECTATIVA DO CONSUMIDOR. QUANTUM INDENIZATÓRIO QUE DEVERÁ SER MANTIDO EIS QUE SE AFIGURA SUFICIENTE A COMPENSAR O ABALO SOFRIDO, MORMENTE LEVANDO-SE EM CONTA O ASPECTO PUNITIVO E PEDAGÓGICO DA INDENIZAÇÃO. COM RELAÇÃO À CORREÇÃO MONETÁRIA E AOS JUROS MORATÓRIOS DOS VALORES A SEREM DEVOLVIDOS A TÍTULO DE DANOS MATERIAIS, VERIFICA-SE QUE A SENTENÇA RESTOU EQUIVOCADA, DEVENDO, PORTANTO O APELANTE RESTITUIR AO APELADO A QUANTIA INDEVIDAMENTE COBRADA, COM CORREÇÃO MONETÁRIA A PARTIR DA DATA DO EFETIVO PREJUÍZO (SÚMULA 43 DO STJ), COM FLUÊNCIA DOS JUROS DE MORA DE 1% (UM POR CENTO) AO MÊS, A CONTAR DA CITAÇÃO, NA FORMA DO DISPOSTO NO ART. 405 DO CC. PARCIAL PROVIMENTO AO RECURSO NA FORMA DO ART. 557, §1º-A DO CPC". DESPROVIMENTO DO AGRAVO INTERNO" (e-STJ fl. 412).
+Os embargos de declaração opostos pela agravante foram rejeitados (e-STJ fls. 441/444).
+O recurso especial (e-STJ fls. 457/464) interposto pela recorrente foi provido por esta Corte Superior para determinar o retorno dos autos à origem, a fim de que fosse realizado novo julgamento dos embargos de declaração (e-STJ fls. 531/533), cujo acórdão restou assim ementado:
+"EMBARGOS DE DECLARAÇÃO. ACÓRDÃO PROFERIDO EM APELAÇÃO CÍVEL. OMISSÃO ACERCA DA NÃO APLICAÇÃO DO ARTIGO 18, DO CDC. ALEGAÇÃO DE INOBSERVÂNCIA DE DOCUMENTOS COMPROBATÓRIOS DO CONSERTO DO VEÍCULO EM PRAZO INFERIOR A 30 DIAS. EMBARGANTE QUE, DURANTE TODO O PROCESSO DE CONHECIMENTO, NÃO APRESENTOU QUALQUER COMPROVAÇÃO DE CONSERTO DO VEÍCULO NO PRAZO LEGAL. AO REVÉS, APRESENTOU CONTESTAÇÃO AFIRMANDO NÃO TER RECEBIDO O VEÍCULO PARA CONSERTO. LAUDO PERICIAL QUE AFIRMA A EXISTÊNCIA DO VÍCIO E NÃO POSSUIR QUALQUER DOCUMENTO NOS AUTOS QUE COMPROVE O CONSERTO EM 30 DIAS. DOCUMENTAÇÃO APRESENTADA APENAS EM SEARA RECURSAL. PRECLUSÃO. PROVA APRESENTADA APÓS A PROLAÇÃO DA SENTENÇA. INOVAÇÃO RECURSAL. FALTA DE SUBMISSÃO OPORTUNA AO PRIMEIRO GRAU DE JURISDIÇÃO. RECURSO CONHECIDO A QUE SE NEGA PROVIMENTO" (e-STJ fl. 563).
+Em novo recurso especial (e-STJ fls. 573/592), a recorrente alega violação dos artigos 397, 398 e 535, I, do Código de Processo Civil de 1973 (respectivamente, arts. 435, 436 e 1.022, I, do CPC/2015); 18, § 1º, do Código de Defesa do Consumidor (CDC) e 944, parágrafo único, do Código Civil.
+Aduz que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao conferir interpretação equivocada dos artigos 397 e 398 do CPC/1973 e ao deixar de enfrentar a aplicação do art. 18, § 1º, do CDC ao presente caso.
+Afirma a licitude de juntar documentos novos autos em qualquer tempo quando se destinam a fazer prova dos fatos ocorridos ou para contrapor os que foram produzidos nos autos.
+Sustenta ter enviado 2 (dois) telegramas ao recorrido com a informação de que o veículo estava reparado e pronto para entrega antes do prazo de 30 (trinta) dias previsto na legislação consumerista para sanar o vício no produto.
+Argumenta que o reparo de veículo zero km dentro do prazo de 30 (trinta) dias não gera dano moral, por se tratar de mero aborrecimento.
+Após a apresentação das contrarrazões (e-STJ fls. 601/606), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, no tocante à violação do artigo 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+No mais, a regra do art. 397 do CPC/1973 vinha sendo flexibilizada pelo Superior Tribunal de Justiça, sendo admitida a juntada de documentos após a contestação, desde que não haja cerceamento de defesa.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUNTADA DE DOCUMENTO NA FASE RECURSAL. POSSIBILIDADE. INTELIGÊNCIA DO ART. 397 DO CPC. DANO MORAL. RESPONSABILIDADE CIVIL. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. SÚMULA 7/STJ.
+1. "A juntada de documentos com a apelação é possível, desde que respeitado o contraditório e inocorrente a má-fé, com fulcro no art. 397 do CPC." (REsp 980.191/MS, Relatora Ministra Nancy Andrighi, DJe de 10/3/2008).
+ .. " (AgRg no AREsp 101.873/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/06/2012, DJe 28/06/2012).
+Contudo, ainda que se admita a juntada dos telegramas no recurso de apelação, não há como ilidir o entendimento do Tribunal de origem amparado em laudo pericial e na tese defensiva da contestação.
+Com efeito, a recorrente, em sua contestação, alegou não ter recebido o veículo para conserto e no laudo pericial constou o seguinte:
+"(..)
+Após os devidos esclarecimentos, este Perito vem a discorrer sobre o que foi verificado, tendo como ponto controverso a existência do vício do automóvel e o eventual reparo deste no prazo de 30, CONCLUINDO O SEGUINTE:
+a) Ocorreu o vício no veículo de propriedade do Autor, confirmado através do documento acostado aos autos às fls. 20, não havendo como listá-los, isto porque, não existe junto à rede Chery qualquer documento de entrada ou ordem de serviço do referido veículo;
+b) Não existe qualquer comunicado que comprove que o veículo ficou pronto em 30 dias, estando o mesmo ainda de posse da Chery, na concessionária Viva Motors, situado na Av. das Américas 13.000 - Recreio dos Bandeirantes - RJ;
+Por fim, CONCLUI-SE QUE, as anomalias anteriormente reclamadas pelo Autor, já não estão mais presentes e o veículo encontra-se em plenas condições de uso" (e-STJ fl. 567).
+Registra-se que de acordo com a recorrente, o telegrama enviado ao recorrido informando que o veículo estava reparado e pronto para a entrega na data de 17/2/2012, e a presente demanda foi distribuída em 3/4/2013, não se tratando tal telegrama de fato novo propriamente dito.
+Cabia à recorrente juntar tal documento em sua contestação ou requerer a produção dessa prova, o que não foi feito. Ao contrário, alegou como tese de defesa não ter recebido o veículo para reparos.
+Nesse contexto, alterar a conclusão do julgado recorrido para considerar que o carro estava disponível antes do prazo de 30 (trinta) dias encontra o óbice de que trata a Súmula nº 7/STJ.
+Por fim, referido óbice também se aplica ao art. 944, parágrafo único, do Código Civil.
+Isso porque o aresto recorrido levou em consideração para condenar em danos morais o fato do veículo adquirido ser zero km, entregue 5 (cinco) meses após a data da compra e quando entregue, com defeito, permanecendo por anos no pátio da ré, frustrando a justa expectativa do autor de usar o automóvel comprado novo.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 12% (doze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se. Intimem-se.
