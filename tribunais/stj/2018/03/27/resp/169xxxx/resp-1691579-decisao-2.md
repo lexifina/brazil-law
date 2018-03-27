@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. DISSIDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto, por [NOME], com fulcro na alínea "a" e "c" do permissivo constitucional, contra acórdão do TJMG, assim ementado (fl. 282):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - PRELIMINAR - LEGITIMIDADE ATIVA - FILHA MENOR DA VÍTIMA - RECONHECIMENTO - DANO MORAL REFLEXO - APLICAÇÃO DO ART. 515, §3º DO CPC - PRISÃO DA PARTE AUTORA - ILEGALIDADE VERIFICADA - RESPONSABILIDADE OBJETIVA DO ESTADO - PEDIDO JULGADO PROCEDENTE - CONDENAÇÃO - CORREÇÃO MONETÁRIA E JUROS DE MORA - MANUTENÇÃO. É procedente o pedido de indenização por danos morais formulado contra o Estado de Minas Gerais, quando constatada a ilegalidade da prisão do autor.
+Os embargos de declaração foram rejeitados.
+No apelo especial, os recorrentes alegam, ofensa aos artigos 85, §§ 1º e 11º, e 1.046, do CPC/15, para que seja revista a condenação em honorários advocatícios para valores que remunerem condignamente o trabalho do causídico que atuou no feito, considerando inclusive o esforço despendido na presente fase recursal.
+Suscita divergência jurisprudencial, para revisão dos valores arbitrados a título de indenização para os recorrentes.
+Juízo positivo de admissibilidade às fls. 360.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+De início, evidencia-se que os artigos 85, §§ 1º e 11º, e 1.046, do CPC/15 não foram sequer apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Ainda que assim não fosse, importante destacar que no acórdão dos embargos de declaração, a Corte de origem frisou que "os honorários foram fixados de acordo com a apreciação equitativa do juiz, ou seja, na forma do §4º, observados os critérios constantes no §3º do CPC/73, vigente à época da sentença, de forma que o julgador deve analisar a dedicação, o grau de zelo com que conduziu os interesses de seu cliente, a complexidade da causa e o tempo despendido entre o seu inicio e fim" (fls. 309).
+Então, acerca desse tema, o acórdão recorrido está alinhado ao entendimento que predomina nesta Corte, de que a lei que rege a fixação dos honorários é a vigente na data da prolação da sentença que os impõe.
+Confiram-se os precedentes recentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTE. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O recorrente alega que não há falar em direito adquirido a fim de conclamar incida o Novo Código de Processo Civil apenas às demandas ajuizadas após a sua entrada em vigor (conforme decidido pelo Tribunal a quo), porquanto, consoante estabelecido no artigo 14 do NCPC, o novel diploma normativo processual incidirá imediatamente aos processos em curso.
+2. A jurisprudência desta Corte tem entendido que o marco temporal que deve ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973. Precedente: REsp 1.636.124/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 27/04/2017.
+3. Nesse contexto, sobrepõe-se o entendimento consolidado neste Tribunal, no sentido de que salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado nº 7, da Súmula do STJ.
+4. Agravo interno não provido. (AgInt no REsp 1.657.177/PE, Rel. Min. MAURO CAMPBELL MARQUES, Segunda Turma, DJe 23/08/2017)
+Por fim, no que pertine a revisão das indenizações por danos morais, a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal a impedir o conhecimento do apelo nobre interposto com fundamento na alínea "c" do artigo 105, III, da Constituição Federal. Incidência da Súmula 284/STF.
+Ante o exposto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
