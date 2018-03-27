@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL que negou provimento ao agravo em execução.
+Narra a impetração que o paciente foi condenado a cumprir sua pena no regime inicial semiaberto, mas que, em razão de suposta falta grave, foi regredido para o regime fechado, isto é, foi-lhe imposto regime mais gravoso que o aplicado na sentença condenatória.
+Assevera que a execução deve verificar os limites da coisa julgada, não podendo ser alterado, notadamente para pior, os limites objetivos impostos na decisão condenatória final, sob pena de ocorrência de excesso de execução.
+Alega que o Tribunal a quo, ao determinar a regressão ao regime fechado, impôs restrição nova, o que ofende o conceito legal de regressão de regime.
+Requer o provimento do recurso a fim de que seja determinada a imediata soltura do paciente.
+A liminar foi indeferida (fls. 410/411).
+Informações prestadas (fls. 415/452 e 454/456).
+A douta Subprocuradoria-Geral da República manifesta-se pelo desprovimento do recurso (fls. 502/506).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105 da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+A propósito:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. MAUS ANTECEDENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. MATÉRIA NÃO DEBATIDA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Consoante o disposto no artigo 42 da Lei 11.343/2006, na fixação da pena do crime de tráfico de drogas, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente.  ..
+- Habeas corpus não conhecido.
+(HC 406.549/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Consta dos autos que o paciente foi condenado à pena de 5 (cinco) anos, 04 (quatro) meses e multa, em regime inicial semiaberto; sendo regredido ao fechado por suposta falta grave, ao descumprir as medidas estabelecidas. Decisão esta que restou ratificada pela Corte de origem, nos seguintes termos (e-STJ fls. 398/399).
+ ..
+Como bem se sabe, a causa determinante da regressão consiste na ausência de mérito do apenado para prosseguir usufruindo dos benefícios concernentes ao regime prisional mais brando. Supõe-se. a sua inadaptação a esse regime, impondo-se transferência para regime mais rigoroso.
+A prática de falta grave pelo agravante no curso da execução da pena. consistente no descumprimento das condições impostas estabelecidas para o prisão domiciliar, como bem ponderou o Magistrado, justifica, por si só, a regressão do regime de cumprimento da pena (fls. 282-284).
+Em exame ao processo, verifica-se que foi estabelecida como condição para o cumprimento da prisão domiciliar que o reeducando deveria "recolher-se em seu domicílio das 19 horas até às 6 horas, nos dias úteis" (fls. 135-136). Vê-se dos autos, outrossim, que em fiscalização do cumprimento de pena no regime semiaberto, a autoridade policial constatou e comunicou ao Juízo que, entre os vários apenados constantes da relação de fl. 160, o ora agravante, "não estava na residência" em horário que deveria estar, como uma das condições impostas para o beneficio concedido.
+(fl.160)
+Ocorre que, ainda que o descumprimento anterior tenha sido justificado, mais uma vez, por meio de cumprimento de mandado de constatação, conforme certidão de fl. 229, o agravante não foi encontrado, pelo que foi determinada a regressão do regime, conforme decisão de fls.282-284.
+A par disso, é preciso considerar ainda que diante da inexistência de local apropriado para o regime semiaberto na Comarca dc Mundo Novo, foi deferido o benefício de prisão domiciliar ao apenado, mediante o cumprimento das condições, conforme termo de fls. 135-136.
+Aliás, o apenado foi advertido de que o descumprimento das condições impostas, poderia resultar na volta do regime fechado. O que ocorreu na hipótese dos autos.
+Por oportuno, é preciso esclarecer que a justificativa de fls. 322-333 e documentos que a acompanham, deveria ter sido produzida junto ao Juízo de Execução Penal, o que não foi aceito em momento processual oportuno.
+Por isso, é manifesto o comprometimento dos fins da execução penal, quais sejam: fim socialmente regenerador do cumprimento da pena e reinclusão social.
+Diante desse contexto e das particularidades acima constatadas, o agravante demonstrou não ter condições de continuar cumprindo pena em regime mais brando, visto resistente ao cumprimento das condições estabelecidas para esse fim.
+Estão claramente comprometidas os fins da execução penal, sobretudo, o senso de disciplina e responsabilidade com o descumprimento de condições.
+Da leitura do excerto acima transcrito, constata-se que o entendimento adotado em segundo grau não dissente da jurisprudência deste Sodalício, no sentido de que o cometimento de falta grave, no curso da execução penal, poderá acarretar a regressão de regime prisional, mesmo que este seja mais severo do que o fixado na sentença condenatória.
+Confira-se:
+
+CRIMINAL. HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. PRESTAÇÃO PECUNIÁRIA. DESCUMPRIMENTO REITERADO DAS CONDIÇÕES IMPOSTAS PELO JUÍZO. NÃO COMPARECIMENTO INJUSTIFICADO À AUDIÊNCIA ADMONITÓRIA DESIGNADA. CONVERSÃO DA PENA ALTERNATIVA EM CORPORAL. CERCEAMENTO DE DEFESA NÃO DEMONSTRADO. APENADO QUE NÃO COMPARECEU À SEGUNDA AUDIÊNCIA. DEFESA QUE NÃO APRESENTOU QUALQUER DOCUMENTO APTO A JUSTIFICAR O COMPORTAMENTO DO PACIENTE. MAGISTRADO QUE OFERECEU DIVERSAS OPORTUNIDADES AO SENTENCIADO ANTES DE DECRETAR A REGRESSÃO AO REGIME SEMIABERTO. PERSONALIDADE QUE NÃO SE ADEQUA AO DESCONTO DA REPRIMENDA EM MEIO ABERTO. ORDEM DENEGADA.
+I. Cerceamento do direito de defesa do apenado por ausência de intimação pessoal da data da primeira audiência admonitória que não restou demonstrada nos autos, tendo o Juízo processante, de fato, determinado a sua intimação pessoal, advertindo-lhe acerca da possibilidade de conversão das penas restritivas de direitos em corporal.
+II. Regressão de regime que se baseou no fato de o paciente não ter justificado o descumprimento das penas restritivas de direitos a ele impostas, não obstante lhe terem sido oferecidas diversas oportunidades para tal mister, sem que possa se falar em cerceamento de defesa pelo simples fato de o Juízo das Execuções ter indeferido o pedido de apresentar novo atestado médico em data posterior.
+III. Defesa que se limitou a indigitar supostas irregularidades processuais, olvidando-se de apresentar qualquer prova de que o descumprimento das condições impostas ao réu tenham sido justificáveis, não tendo sequer mencionado qual teria sido o óbice enfrentado pelo paciente que o impediu de acatar a ordem judicial.
+IV. Em que pese a impossibilidade de alteração da sentença após o seu trânsito em julgado, admite-se a regressão de regime prisional quando o apenado descumpre as condições imposta para o desconto da pena em meio menos severo.
+V. O condenado poderá ser transferido do regime aberto quando frustrar os fins da execução, sendo que atitudes que evidenciam verdadeiro desprezo à execução penal permitem não só a conversão da pena alternativa em privativa de liberdade, mas também a imposição de regime mais gravoso do que o imposto na sentença condenatória.
+VI. O descumprimento reiterado das condições impostas na audiência admonitória demonstra, em princípio, que o paciente não possui a autodisciplina necessária e senso de responsabilidade necessário para o cumprimento da pena em meio aberto.
+VII. Ordem denegada, nos termos do voto do Relator. (HC 196.756/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 11/10/2011, DJe 24/10/2011)
+Ante o exposto, por se afigurar manifestamente incabível, com fundamento no artigo 34, inciso XX, do RISTJ, não se conhece do habeas corpus.
+Publique-se.
+Após ciência do Ministério Público Federal e o trânsito em julgado desta decisão, arquivem-se os autos.
