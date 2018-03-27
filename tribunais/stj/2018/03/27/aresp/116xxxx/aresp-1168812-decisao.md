@@ -1,0 +1,61 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. NULIDADE DA DECISÃO POR VÍCIO EXTRA PETITA. AUSÊNCIA DE VÍCIO. ICMS. GARANTIA DO DÉBITO TRIBUTÁRIO. PRECATÓRIO. IMPOSSIBILIDADE. EXCLUSÃO DO CADIN E SERASA. CRITÉRIOS NÃO PREENCHIDOS. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o processamento de recurso especial em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa assim estabelece:
+APELAÇÃO. DIREITO TRIBUTÁRIO. ICMS. CAUTELAR. ANTECIPAÇÃO DE PENHORA. PRECATÓRIOS. IMPOSSIBILIDADE. FUTURA COMPENSAÇÃO.
+Conquanto seja admissível o ajuizamento de ação cautelar como meio de antecipar os efeitos da penhora em futura execução fiscal, por meio do oferecimento de bem em garantia, há firmado entendimento neste Tribunal no sentido de que os precatórios não se classificam como dinheiro na ordem dos bens penhoráveis (art. 11 da Lei nº 6.830/1980), necessitando de avaliação e alienação. Precedentes. Possibilidade de recusa pelo credor do bem ofertado em garantia.
+INEXISTÊNCIA DE AUTORIZAÇÃO LEGAL EXPRESSA.
+Ademais, a compensação de créditos de precatórios com débitos tributários, consectário da antecipação da penhora, depende de autorização legal expressa, nos termos do art. 170 do CTN. Precedentes do STJ e desta Corte.
+CADASTRO DE INADIMPLENTES. POSSIBILIDADE DE INSCRIÇÃO.
+A mera discussão judicial do débito, sem garantia idônea ou suspensão da exigibilidade do crédito, não obsta a inclusão do nome do devedor no CADIN.
+Entendimento firmado no STJ por ocasião do julgamento do Recurso Especial n. 1.137.497-CE, submetido ao regime dos recursos repetitivos (art. 543-C do Código de Processo Civil).
+CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA. IMPOSSIBILIDADE.
+A emissão de certidão positiva com efeitos de negativa, nos termos do art. 206 do CTN, pressupõe a suspensão da exigibilidade ou a garantia do juízo, situações inocorrentes no caso.
+RECURSO DESPROVIDO.
+Os embargos de declaração fora rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a e c, do permissivo constitucional, a recorrente alega a violação aos artigos 141, 492, 805 e 1.022, todos, do CPC/2015, 11 da Lei 6.830/1980, 205 e 206 do CTN, ao sustentar em síntese: (i) a omissão do acórdão recorrido, ante a rejeição dos embargos de declaração; (ii) a nulidade do acórdão, por vício extra petita no acórdão recorrido; (iii) que os precatórios são créditos hábeis à garantia do juízo; (iv) que faz jus à expedição de certidão positiva com efeitos de negativa, pugnando pelo afastamento de seus registros no cadastro do SERASA e do CADIN.
+Contrarrazões ao recurso especial às fls. 364/365 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do recurso especial.
+No agravo, o recorrente rechaça as razões de inadmissão do apelo especial.
+Contraminuta ao agravo em recurso especial às fls. 443/447 (e-STJ).
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, quanto à alegada ofensa ao artigo 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO - REGIME DAS LEIS 8.212/91 E 8.620/93 - POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Segunda Turma, Rel. Ministra Eliana Calmon, DJe 12/6/2008)
+Rejeitada, portanto, a preliminar de violação do art. 1.022 do CPC/2015.
+Em mérito, o recorrente suscita a nulidade do acórdão recorrido, por vício processual. Aduz que a decisão é extra petita, quando o acórdão afirma acerca da impossibilidade de compensação dos débitos tributários com precatórios.
+A propósito, a tese não merece prosperar. Isto porque, os fundamentos acrescidos no acórdão, com lastro jurisprudencial, com nítida natureza obter dictum, não representam decisão extra petita, porquanto possuem reforço argumentativo que coadunam com o entendimento dominante nas Cortes Superiores.
+Neste sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. REFIS. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE NORMA. AUSÊNCIA DE OMISSÃO, ART. 535, II, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se configura a ofensa ao art. 535 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. A indicada afronta dos arts. 128 e 460 do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+3. Em obter dictum, acrescento que, como se depreende da leitura do acórdão recorrido, o Tribunal regional declarou a inconstitucionalidade do art. 1º da Resolução CG/REFIS 20/2001, na parte em que deu nova redação ao art. 5º da Resolução CG/REFIS 9/2001. Portanto, todos os magistrados vinculados à Corte Regional devem seguir a decisão proferida pelo seu órgão especial, sem que isso, possa ser considerado como decisão extra petita.
+4. Recurso Especial não conhecido.
+(REsp 1589928/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/05/2016, DJe 25/05/2016)
+Por seguinte, a jurisprudência desta Corte é pacífica no sentido de que como o precatório representa um direito a crédito, este, não se equipara a dinheiro ou a fiança bancária, podendo a Fazenda Pública recusar a sua substituição por quaisquer das causas previstas no artigo 656 do CPC/1973 ou 11 e 15 da LEF.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CAUTELAR. CAUÇÃO ANTECIPATÓRIA DE PENHORA EM EXECUÇÃO FISCAL. OFERECIMENTO DE PRECATÓRIO. RECUSA DA FAZENDA PÚBLICA. LEGITIMIDADE. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Merece ser mantida a decisão que de deu provimento ao Recurso Especial da Fazenda Estadual, na medida que restou demonstrada a divergência jurisprudencial entre o acórdão recorrido e a jurisprudência do STJ, bem como a matéria debatida nos autos é exclusivamente de direito - possibilidade de recusa da Fazenda Pública ao precatório oferecido a título de caução em medida cautelar antecipatória da execução fiscal. O que afasta o alegado óbice da Súmula 7/STJ.
+2. A orientação da Primeira Seção/STJ firmou-se no sentido de que a penhora (ou eventual substituição de bens penhorados) deve ser efetuada conforme a ordem legal, prevista no art. 655 do CPC e no art. 11 da Lei 6.830/80. Assim, não obstante o precatório seja um bem penhorável, a Fazenda Pública pode recusar a nomeação de tal bem, quando fundada na inobservância da ordem legal, sem que isso implique ofensa ao art. 620 do CPC (REsp 1.090.898/SP, 1ª Seção, Rel. Min. Castro Meira, DJe de 31.8.2009 - recurso submetido à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ).
+3. Por outro lado, se o precatório é oferecido como caução (antecipação de penhora) em ação cautelar, para fins de obtenção de certidão positiva de débito com efeito de negativa, a sua aceitação deve observar o mesmo regime da garantia ofertada em sede de execução fiscal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1577021/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2016, DJe 10/03/2016)
+Por fim, no que tange ao afastamento da inclusão do nome do recorrente nos cadastros do SERASA e CADIN, o apelo especial não merece guarida, porquanto o ajuizamento de ação judicial objetivando discutir débito tributário, por si só, não tem o condão de gerar direito ao devedor a suspender o registro de seu nome no Cadastro de Inadimplentes - CADIN, caso não tenham sido preenchidos os seguintes requisitos: a) tenha proposto ação, com o objetivo de discutir a natureza da obrigação ou o seu valor, com o oferecimento de garantia idônea e suficiente ao Juízo; e b) esteja suspensa a exigibilidade do crédito objeto do registro; ambos, na forma da lei, o que não ocorreu no caso dos autos.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C, DO CPC. DÉBITO FISCAL. DÍVIDA DISCUTIDA JUDICIALMENTE. SUSPENSÃO DO REGISTRO NO CADIN. REQUISITOS. ART. 7º DA LEI 10.522/2002.
+1. A mera existência de demanda judicial não autoriza, por si só, a suspensão do registro do devedor no CADIN, haja vista a exigência do art. 7º da Lei 10.522/02, que condiciona essa eficácia suspensiva a dois requisitos comprováveis pelo devedor, a saber: I - tenha ajuizado ação, com o objetivo de discutir a natureza da obrigação ou o seu valor, com o oferecimento de garantia idônea e suficiente ao Juízo, na forma da lei; II - esteja suspensa a exigibilidade do crédito objeto do registro, nos termos da lei. (Precedentes: AgRg no Ag 1143007/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/09/2009, DJe 16/09/2009;AgRg no REsp 911.354/RS, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/08/2009, DJe 24/09/2009; REsp 980.732/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, Rel. p/ Acórdão Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 02/12/2008, DJe 17/12/2008; REsp 641.220/RS, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 26.06.2007, DJ 02.08.2007; AgRg no REsp 670.807/RJ, Relator Min. JOSÉ DELGADO; Relator para o acórdão Min. TEORI ALBINO ZAVASCKI, DJ 04.04.2005).
+2. Destarte, a mera discussão judicial da dívida, sem garantia idônea ou suspensão da exigibilidade do crédito, nos termos do art.
+151 do CTN, não obsta a inclusão do nome do devedor no CADIN.
+3. In casu, restou consignado, no relatório do voto condutor do aresto recorrido (fls. e-STJ 177), a ausência de garantia suficiente, in verbis: "S.S. PETRÓLEO LTDA interpôs agravo de instrumento, com pedido de liminar substitutiva, contra decisão do MM. Juiz Federal Substituto da 3ª Vara - CE, que indeferiu antecipação de tutela em ação ordinária para impedir a inscrição em dívida ativa da multa, objeto do auto de infração ANP nº 2948, e obstar sua inclusão, ou manutenção, em cadastros restritivo de crédito.
+A decisão agravada entendeu inviável impedir a regular constituição do crédito tributário e a inscrição da agravante no CADIN, por não haver a idoneidade e suficiência da garantia apresentada." 4. Recurso especial provido (CPC, art. 557, § 1º-A). Acórdão submetido ao regime do art. 543-C do CPC e da Resolução STJ 08/2008.
+(REsp 1137497/CE, Rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 14/04/2010, DJe 27/04/2010)
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
