@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por ESTADO DE MINAS GERAIS contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desfia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - CITAÇÃO REALIZADA APÓS O PRAZO LEGAL- PRESCRIÇÃO DA AÇÃO - OCORRÊNCIA - PRESCRIÇÃO INTERCORRENTE - DIFERENCIAÇÃO.
+- Ainda que a ação de cobrança seja proposta antes do transcurso do prazo prescricional, a prescrição só é interrompida se o autor promove a citação do réu dentro do prazo regular, razão pela qual há que ser reconhecida a prescrição com relação ao réu que, por desídia do autor, só vem a ser citado muitos anos após o ajuizamento da ação.
+- A prescrição da ação de cobrança que se opera antes da citação válida do réu não se confunde com a prescrição intercorrente da pretensão executória, a qual pressupõe a inércia do autor em dar seguimento ao feito após já ter sido citado e integrado ao processo" (e-STJ fl. 482).
+No recurso especial, o recorrente alega violação dos artigos 202, 206 do Código Civil; 242 e 244, IV, do Código de Processo Civil de 2015, ao fundamento de que não houve prescrição porque a demora na citação se deu em razão da morosidade da justiça e que a citação do agravado só não ocorreu em razão do mesmo estar hospitalizado. Aduz, ainda, que uma vez ajuizada a ação dentro do prazo não há que se falar em prescrição.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Inicialmente, verifica-se que a matéria versada no art. 244, IV, do CPC/2015 não foi debatida pelo Tribunal de origem, sequer de modo implícito, e tampouco foram opostos embargos declaratórios. Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+No mais, o Tribunal de origem afirmou a ocorrência da prescrição por entender que a demora na citação se deu por responsabilidade do credor, como se vê do seguinte trecho:
+"Inegavelmente, esse é caso dos autos, já que; como visto, quando entrou em vigor o CPC/2002, só havia transcorrido 05 dos 20 anos do prazo prescricional estabelecido no CPC/2016. Por conseguinte, em 11/01/2003, o Agravante passou a ter o prazo de 05 anos para propor a ação de cobrança, o qual se extinguiria, portanto, em 11/01/2008.
+Tal prazo foi observado, porquanto a ação de origem tenha sido ajuizada em 22/03/2004 (f. 303-TJ). Não obstante, o prazo prescricional só poderia ser considerado interrompido na data da propositura da ação se o Agravante houvesse providenciado a citação do Agravado dentro do prazo regular.
+(..)
+Ocorre que o Agravante não se desincumbiu do ônus de promover a citação válida do Agravado no prazo legal. Conforme ele mesmo relata em suas razões recursais, a citação do espólio do Agravado (este já havia falecido) ocorreu somente em 11/09/2009, ou seja, mais de 05 anos após a propositura da ação. Frise-se: mais de cinco anos após a propositura da ação.
+Diante de atraso tão significativo, não é sequer verossímil a alegação do Agravante de que não houve desídia da sua parte em promover a citação. Ademais, tal alegação não encontra respaldo nas circunstâncias fáticas narradas nos autos, as quais demonstram que após a primeira tentativa de citação do Agravado ter sido frustrada, o Agravante permaneceu inerte e só depois de longos anos empenhou-se em promover a citação.
+Destarte, apesar do inconformismo do Agravante, a conclusão exarada na decisão agravada, de que a inércia dele próprio acabou por ocasionar o implemento da prescrição com relação ao Agravado, é insofismável" (e-STJ fls. 486/487).
+Nesse contexto, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS. OCORRÊNCIA DE PRESCRIÇÃO. DESÍDIA DA PARTE AUTORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Tendo as instâncias de origem reconhecido a desídia da autora em promover a citação, forçoso reconhecer a não interrupção da prescrição, nos termos do art. 219 do CPC. Não incidência da Súmula n. 106/STJ. Precedentes.
+2. O reconhecimento de que a demora na citação não teria ocorrido por desídia da parte autora, conforme afirma a parte agravante, demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7/STJ.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 892.251/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe 22/02/2017 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. EXEGESE DA SÚMULA N. 106/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 07/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade.
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - Rever o posicionamento do Tribunal de origem, com o objetivo de acolher a pretensão recursal, acerca da morosidade do Poder Judiciário e da aplicação da Súmula 106/STJ, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte.
+V - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido" (AgInt no REsp 1.651.116/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 10/05/2017 - grifou-se).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
