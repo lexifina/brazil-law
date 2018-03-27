@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1801, de 26 de março de 2018
+Dispõe sobre operações de câmbio e a manutenção de recursos no exterior, em moeda estrangeira, relativos a exportações de mercadorias e serviços, e institui obrigação de prestar informações à Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e nos arts. 1º, 8º, 9º e 10 da Lei nº 11.371, de 28 de novembro de 2006, resolve:
