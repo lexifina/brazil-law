@@ -1,0 +1,27 @@
+DECISÃO
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUTORIDADE COATORA. SEDE DA MATRIZ. RECURSO ESPECIAL DA CONTRIBUINTE A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por GRANVEL-GRANVILLE VEÍCULOS LTDA. E OUTROS, com fundamento na alínea a do art. 105, III da CF/1988, objetivando a reforma do acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. ILEGITIMIDADE PASSIVA DO IMPETRADO. MATRIZ E FILIAIS.
+Para delimitação do Juízo competente, deve ser levado em consideração o disposto no art. 127 do CTN, que determina que o domicílio tributário das pessoas jurídicas de direito privado será o lugar da sua sede. (fls. 248)
+2. Nas razões do seu Apelo Nobre, a parte recorrente aponta violação dos arts. 20, 22, I, 28, § 9o. da Lei 8.212/1991, arts. 97, 150, 168, I, e 170 do CTN, art. 74 da Lei 9.430/1996, art. 66 da Lei 383/1991, arts. 535, inc. II, e 538, do CPC/1973. Assevera, em síntese, os seguintes pontos: (a) o Tribunal de origem não se pronunciou sobre questões essenciais ao deslinde da controvérsia; (b) o não há fundamento para sustentar a ilegitimidade ativa, sob o argumento de que o Mandado de Segurança deveria ser impetrado na cidade de Ponta Grossa/PR, tão somente pelo fato de ser a sede da matriz das empresas autoras (fls. 366); e (c) a não incidência das contribuições previdenciárias sobre verbas indenizatórias, quais sejam, décimo terceiro salário, valores pagos nos quinze primeiros dias de afastamento por doença ou acidente, salário-maternidade, férias gozadas e terço constitucional de férias.
+3. Com Contrarrazões (fls. 430/437), o recurso fora admitido na origem.
+4. É o relatório. Decido.
+5. O recurso não merece prosperar.
+6. De início, cumpre destacar que a alegada violação do art. 535, II do CPC não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. Verifica-se que a única questão analisada pelo Tribunal de origem restringe-se à legitimidade da autoridade coatora, se o Delegado da Receita Federal com atuação no local onde estabelecida a matriz ou a filial, para figurar no polo passivo do Mandado de Segurança no qual discute a cobrança de contribuições previdenciárias.
+8. Sobre o assunto, esta Corte de Justiça possui entendimento firmado de que o Delegado da Receita Federal do Brasil da jurisdição onde se encontra sediada a matriz da pessoa jurídica, por ser a autoridade responsável pela arrecadação, cobrança e fiscalização de tributos e contribuições federais, é a parte legítima para figurar no polo passivo de Mandado de Segurança. Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. POLO PASSIVO. LEGITIMIDADE.
+1. Esta Corte de Justiça possui entendimento firmado de que o Delegado da Receita Federal do Brasil da jurisdição onde se encontra sediada a matriz da pessoa jurídica, por ser a autoridade responsável pela arrecadação, cobrança e fiscalização de tributos e contribuições federais, é a parte legítima para figurar no polo passivo de mandado de segurança.
+2. No caso dos autos, a instância ordinária consignou que o Delegado da Receita Federal do Brasil em São Paulo/SP, local onde se situa a matriz da empresa, é a parte legítima para figurar no polo passivo de mandado de segurança no qual se discute a cobrança de contribuições previdenciárias relativas às suas filiais.
+3. Inaplicabilidade do art. 85, § 11, do CPC/2015 ao presente caso por se tratar de ação mandamental.
+4. Agravo interno a que se nega provimento (AgInt no REsp. 1.603.727/PR, Rel. Min. OG FERNANDES, DJe 19.12.2016).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. POLO PASSIVO. MULTA. CABIMENTO.
+As Turmas de Direito Público do Superior Tribunal de Justiça firmaram o entendimento de que o Delegado da Receita Federal do Brasil que atua no território onde está sediada a matriz da pessoa jurídica, por ser responsável pela fiscalização, cobrança e arrecadação de tributos e contribuições federais da empresa, é parte legítima para integrar o polo passivo do mandado de segurança que discute as contribuições previdenciárias referentes às filiais.
+Hipótese em que a instância ordinária consignou que é o Delegado da Receita Federal do Brasil em Ribeirão Preto - SP, local onde se situa a matriz da empresa, a parte legítima para figurar no polo passivo de mandado de segurança no qual se discute a cobrança de contribuições previdenciárias relativas às suas filiais.
+O recurso manifestamente improcedente atrai a multa prevista no art. 1.021, § 4º, do CPC/2015, na razão de 1% a 5% do valor atualizado da causa.
+Agravo interno desprovido com aplicação de multa (AgInt no REsp. 1.523.138/RS, Rel. Min. GURGEL DE FARIA, DJe 8.8.2016).
+9. Dessa forma, deve-se observar o local da matriz onde o ato mandamental está sendo atacado. Incidente, pois, o Verbete Sumular 83/STJ.
+10. Mantido o julgado quanto à ilegitimidade passiva da autoridade coatora, nada a prover quanto ao mérito recursal.
+11. Ante o exposto, nega-se seguimento ao Recurso Especial interposto pelo Contribuinte.
+12. Publique-se. Intimações necessárias.
