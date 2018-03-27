@@ -1,0 +1,12 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por ESPÓLIO DE ATHALIBO DE SOUZA PINTO contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial apresentado, com base nos seguintes fundamentos (e-STJ, fls. 470-471): i) ausência de demonstração da violação dos dispositivos arrolados no recurso especial; ii) incidência da Súmula 7/STJ, ante a pretensão recursal exigir o reexame de elementos fático-probatórios; e iii) não comprovação do dissídio jurisprudencial, pelo fato de não ter sido efetuado o cotejo analítico dos julgados, em relação aos quais foram apenas citadas as ementas.
+Nas razões do presente agravo (e-STJ, fls. 474-486), o agravante afirma o cerceamento do direito de defesa, em virtude do julgamento antecipado da lide sem motivação e após o prévio deferimento de prova pericial para averiguar a área possuída, a qual é objeto da ação de usucapião em trâmite na primeira instância, nos termos dos arts. 5º, LV, 93, IX e X, da CF e 357, § 8º, e 370 do CPC/2015.
+Contraminuta apresentada às fls. 492-493 e 495-497 (e-STJ).
+Brevemente relatado, decido.
+À luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgRg no Ag 1056913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008; AgInt no AREsp 884.901/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; e AgRg no AREsp 773.710/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016).
+No caso dos autos, como visto do relatório, o agravante, além de apresentar argumentação dissociada da decisão agravada, não combateu precisamente nenhum dos fundamentos da inadmissibilidade do recurso especial.
+Inconteste, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
