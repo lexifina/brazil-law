@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA NO DECRETO PRISIONAL. RECURSO ORDINÁRIO PROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - In casu, os fundamentos que deram suporte à custódia cautelar do recorrente não se ajustam à orientação jurisprudencial desta Corte, porquanto a simples invocação da gravidade genérica do delito não se revela suficiente para autorizar a segregação cautelar com fundamento na garantia da ordem pública.
+Recurso ordinário provido para revogar a prisão preventiva do recorrente, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou da imposição de outras medidas cautelares diversas da prisão previstas no art. 319 do CPP.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro.
+Depreende-se dos autos que recorrente foi preso preventivamente pela suposta prática do delito de tráfico de drogas (fl. 61).
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal de origem. O pedido foi denegado em v. acórdão ementado nos seguintes termos:
+"HABEAS CORPUS - TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO - ARTIGOS 33 E 35 DA LEI 11.343/06 - DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA BEM FUNDAMENTADA - A FUNDAMENTAÇÃO FOI SUCINTA, MAS ABARCOU TODOS OS ASPECTOS NECESSÁRIOS PARA A DECRETAÇÃO DA CUSTÓDIA - PRESENTES OS REQUISITOS QUE AUTORIZAM O CÁRCERE, POR GARANTIA DA ORDEM PÚBLICA - SEGUNDO CONSTA DA DENÚNCIA, O PACIENTE E MAIS DOIS CORRÉUS MANTINHAM EM DEPÓSITO 750 DE MACONHA E A POLÍCIA RECEBEU NOTÍCIA ANÔNIMA DE QUE O LOCAL RECEBERIA UMA CARGA DE DROGAS - O PACIENTE NÃO JUNTOU AOS AUTOS PROVA DE LABOR LÍCITO, SENDO QUE O MANDADO DE PRISÃO EXPEDIDO EM SEU DESFAVOR SÓ FOI CUMPRIDO MAIS DE UM ANO DEPOIS DE EXPEDIDO, FAZENDO-SE NECESSÁRIA A CUSTÓDIA POR GARANTIA DE APLICAÇÃO DA LEI PENAL - INSUFICIÊNCIA DAS MEDIDAS CAUTELARES PREVISTAS NO ARTIGO 319 DO CPP - ALEGAÇÃO DE PRIMARIEDADE E BONS ANTECEDENTES, POR SI SÓ, NÃO OBSTAA MANUTENÇÃO DA PRISÃO - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - ORDEM DENEGADA" (fl. 27).
+Daí o presente recurso ordinário, no qual sustenta a defesa a ausência de fundamentação idônea a justificar a decretação da segregação cautelar do recorrente.
+Requer a defesa, ao final, a revogação da segregação cautelar do recorrente.
+Liminar indeferida às fls. 316-317.
+O Ministério Público Federal, às fls. 322-324, manifestou-se pelo desprovimento do recurso em parecer assim ementado:
+"PENAL. PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NARCOTRÁFICO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA DELITIVAS E REQUISITOS DO ARTIGO 312 DO CPP ASSENTES. MANUTENÇÃO DA CUSTÓDIA CAUTELAR FUNDAMENTADA EM ELEMENTOS CONCRETOS. EXPRESSIVA QUANTIDADE DA DROGA APREENDIDA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PARECER PELO DESPROVIMENTO DO RECURSO" (fl. 322).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA NO DECRETO PRISIONAL. RECURSO ORDINÁRIO PROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - In casu, os fundamentos que deram suporte à custódia cautelar do recorrente não se ajustam à orientação jurisprudencial desta Corte, porquanto a simples invocação da gravidade genérica do delito não se revela suficiente para autorizar a segregação cautelar com fundamento na garantia da ordem pública.
+Recurso ordinário provido para revogar a prisão preventiva do recorrente, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou da imposição de outras medidas cautelares diversas da prisão previstas no art. 319 do CPP.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Pretende o recorrente, em síntese, por meio do presente recurso ordinário, o reconhecimento da ausência de fundamentação da r. decisão de primeira instância que decretou a prisão preventiva.
+Inicialmente, deve-se consignar que a prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores.
+Nesse sentido é a sedimentada jurisprudência desta Corte Superior: AgRg no RHC n. 47.220/MG, Quinta Turma, Relª. Minª. Regina Helena Costa, DJe de 29/8/2014;  RHC n. 36.642/RJ, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 29/8/2014; HC n. 296.276/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 27/8/2014; RHC n. 48.014/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 26/8/2014.
+Pois bem, da análise dos autos, verifico que o presente recurso ordinário merece provimento.
+Na hipótese dos autos, a prisão cautelar em desfavor do recorrente foi decretada nos seguintes termos:
+"Em sede de plantão judiciário, a autoridade policial de Petrópolis, 105a DP requereu ao magistrado que apreciasse o pedido de prisão preventiva de todos os acusados eis que havia necessidade de que ficassem todos encarcerados, eis que são todos os indiciados indivíduos perigosos.
+Ainda que de plantão, verifiquei que existiam indícios de autoria e materialidade nos autos. (fls. 08 e declarações diversas em sede policial).
+É claro que deve ser considerado que se a liberdade dos acusados afronta a ordem pública e que se é preciso fazer cessar todas as suas atividades criminosas não é a ausência de acesso ao sistema que fará com que, esse magistrado deixe de cumprir seu papel constitucional observando-se que a autoridade policial que indica serem necessárias as prisões e ratificada pelo M.P. -
+Assim determino que com cópia da presente/da cota denuncial e da denúncia seja autuado o pleito do Ministério Público como pedido de prisão preventiva para permitir que a presente decisão seja lançada no sistema e prolatada em sede de plantão.
+Decreto, pois, por tudo que foi dito acima a custódia preventiva dos denunciados para garantia da ordem pública" (fl. 61).
+A análise do excerto acima transcrito permite reconhecer a ocorrência de flagrante ilegalidade, uma vez que os fundamentos que dão suporte à prisão cautelar dos recorrentes não se ajustam à orientação jurisprudencial que esta Corte Superior de Justiça firmou acerca da matéria.
+Como se sabe, a gravidade abstrata do delito não autoriza a decretação ou a manutenção da prisão cautelar imposta. Sobre o tema, veja-se os seguintes precedentes desta Corte:
+" ..
+TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. CUSTÓDIA ANTECIPADA BASEADA NA GRAVIDADE DOS FATOS CRIMINOSOS E NA NECESSIDADE DE SE COIBIR A PRÁTICA DE TAIS INFRAÇÕES. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA DA ORDEM CONSTRITIVA À LUZ DO ART. 312 DO CPP. PACIENTE PRIMÁRIA E SEM ANTECEDENTES CRIMINAIS. COAÇÃO ILEGAL DEMONSTRADA. LIMINAR DEFERIDA. CONFIRMAÇÃO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Para que a prisão cautelar, que é medida de exceção, subsista, não basta que se indiquem abstratamente as hipóteses do art. 312 do CPP, devendo-se apontar os fatores concretos que levaram à sua decretação.
+2. Há constrangimento ilegal quando a preventiva encontra-se fundada na gravidade genérica dos fatos denunciados, dissociada de qualquer elemento concreto e individualizado que indicasse a indispensabilidade da prisão cautelar à luz do art. 312 do CPP.
+3. Condições pessoais favoráveis, mesmo não sendo garantidoras de eventual direito à soltura, merecem ser devidamente valoradas.
+4. Habeas corpus não conhecido, concedendo-se, contudo, a ordem de ofício para, confirmando a liminar anteriormente deferida, revogar a custódia preventiva da paciente, se por outro motivo não estiver presa, mediante o compromisso de comparecimento a todos os atos processuais" (HC 271.581/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 27/5/2014, grifei).
+"PROCESSUAL PENAL E PENAL. TEMA NÃO ENFRENTADO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. LIBERDADE PROVISÓRIA. TRÁFICO DE DROGAS. VEDAÇÃO APRIORÍSTICA E GENÉRICA. PRISÃO PREVENTIVA. GRAVIDADE ABSTRATA. NULIDADE.
+1. Matéria que não foi enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância.
+2. A gravidade abstrata do delito de tráfico de drogas não serve de fundamento para a negativa da liberdade provisória, tendo em vista a declaração de inconstitucionalidade da vedação apriorística e genérica prevista no art. 44 da Lei n. 11.343/2006.
+3. É nula a decisão que decreta a prisão preventiva com base apenas na gravidade abstrata do delito de tráfico de drogas, sem fundamentação concreta.
+4. Recurso ordinário em habeas corpus conhecido em parte e, nessa extensão, dado provimento para que o paciente responda ao processo em liberdade, mediante estabelecimento, pelo juízo de primeiro grau, das medidas cautelares diversas da prisão que entender cabíveis, salvo se por outro motivo estiver preso" (RHC 39.351/PE, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 4/9/2014, grifei).
+No mesmo sentido, os seguintes precedentes desta Corte: AgRg no  HC n. 278.766/SP, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 26/8/2014; RHC n. 47.457/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 1º/9/2014; HC n. 275.352/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 2/9/2014.
+In casu, portanto, os fundamentos que deram suporte à custódia cautelar do recorrente não se ajustam à orientação jurisprudencial desta Corte, uma vez que a simples invocação da gravidade genérica do delito não se revela suficiente para autorizar a segregação cautelar com fundamento na garantia da ordem pública.
+Ante o exposto, dou provimento ao recurso ordinário para revogar a prisão preventiva do recorrente, salvo se por outro motivo estiver preso, e sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou da imposição de outras medidas cautelares diversas da prisão previstas no art. 319 do Código de Processo Penal.
+É o voto.
