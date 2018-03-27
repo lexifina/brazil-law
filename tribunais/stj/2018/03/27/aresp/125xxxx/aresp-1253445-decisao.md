@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] NOGUEIRA DE CASTRO [NOME] - ME. E [NOME] NOGUEIRA DE CASTRO [NOME] contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"EMBARGOS À EXECUÇÃO Sentença que reconheceu a existência de confusão patrimonial entre as apelantes e os executados. Pretensão de reforma. DESCABIMENTO: Os elementos dos autos são fortes indícios de confusão patrimonial entre as apelantes e os demais executados. Sentença mantida. BEM DE FAMÍLIA Pretensão de reconhecimento da impenhorabilidade do imóvel constrito. Aplicabilidade da Súmula 486 do c. STJ - INADMISSIBILIDADE: Não há como outorgar a proteção da Lei nº 8.009/90, devido à ausência de demonstração de que a renda do imóvel locado é destinada ao sustento da apelante ou de sua família. Inaplicabilidade da súmula 486 do C. STJ. PROCESSUAL CIVIL Alegação em contrarrazões de ausência de impugnação específica da r. sentença. DESCABIMENTO: A apelação expõe a pretensão de reforma da r. sentença. Os requisitos legais para a interposição do recurso de apelação foram preenchidos nos termos do artigo 1.010, incisos I, II e IV, do novo Código de Processo Civil. RECURSO DESPROVIDO" (fl. 1.101, e-STJ).
+Os embargos de declaração opostos foram acolhidos sem efeitos modificativos.
+No recurso especial, as recorrentes alegam, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(1) artigos 489 e 1.022, II, do Código de Processo Civil de 2015 - porque teria havido negativa de prestação jurisdicional no julgamento dos aclaratórios;
+(2) arts. 281, 493 e 502 do CPC/2015 - sustentando a nulidade do acórdão recorrido porque a decisão que as incluiu no polo passivo da execução foi declarada nula;
+(3) arts. 50 do Código Civil e 7º e 373, I, § 1º, do CPC/2015 - alegando que não pode haver a desconsideração da personalidade jurídica da empresa apenas diante de indícios de confusão patrimonial e da formação de grupo econômico e
+(4) arts. 1º e 3º, I a VII, da Lei nº 8.009/1990 - pois é impenhorável o bem de família locado a terceiros, cuja renda é destinada à subsistência do proprietário.
+Após a apresentação das contrarrazões (fls. 1.206/1.223, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à violação dos arts. 489 e 1.022 do CPC/2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, o seguinte precedente:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DO ATO DE APOSENTADORIA. PRESCRIÇÃO DO FUNDO DE DIREITO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. NÃO CARACTERIZADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022 do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.654.518/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 13/6/2017, DJe 22/6/2017- grifou-se).
+No que tange aos arts. 7º, 281, 373, I, § 1º, 493 e 502 do CPC/2015, verifica-se que a matéria não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Assim, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Em relação aos arts. 1º e 3º da Lei nº 8.009/1990, o Tribunal de origem afastou a caracterização do imóvel penhorado como bem de família porque não foi demonstrado que a renda proveniente da locação dos mesmos se reverteu para a subsistência da sua proprietária.
+Por sua vez, quanto ao art. 50 do CC, declarou a desconsideração da personalidade jurídica da empresa recorrente diante da confusão patrimonial com as empresas ANGELS, com base nos seguintes fundamentos:
+"(..)
+Ainda que se admita que as apelantes realmente emprestaram, por uma única vez, a máquina de cartão de crédito/débito para a empresa Águas Cachoeira, pertencente ao executado [NOME] (fls. 819/821), outros acontecimentos são fortes indícios de confusão patrimonial entre as apelantes e os executados.
+Esses acontecimentos, que nos autos revelam os indícios da mencionada confusão patrimonial, começam pela contraditória alegação de que a apelante [NOME] atuou apenas como corretora na locação da cobertura duplex situada no Município de Cabo Frio-RJ, adquirida pela empresa Angel Gestão e Participações Ltda. (fl. 810), quando na verdade no contrato de locação de fls. 816/817 e fl. 898 não constam dados do locatário, nem qualquer assinatura, a despeito da cláusula prevendo o pagamento de 10% do valor do aluguel para a corretora [NOME]. Aliás, existem comentários no anúncio da locação do imóvel de que a apelante [NOME] é a proprietária do bem (fls. 802/805).
+Além disso, estranhamente a apelante [NOME] adquiriu do irmão do executado [NOME], seu namorado, o imóvel objeto de usucapião sito à Rua Maria Aparecida Meireles Nocitt, nº 687, João Nogueira, Potim SP (fls. 710/712) e passou a integrar o polo ativo do processo de usucapião (fls.708/709).
+As apelantes não trouxeram prova suficiente para afastar os indícios de confusão patrimonial entre elas e os executados.
+(..)" (fls. 1.107/1.008, e-STJ).
+Com efeito, rever tais conclusões, tanto em relação à desconsideração da personalidade jurídica quanto acerca da penhorabilidade do imóvel, demandaria a análise de circunstâncias fático-probatórias dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+Por oportuno, cumpre asseverar que a a incidência da Súmula nº 7/STJ prejudica a análise da divergência jurisprudencial.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em R$ 8.000,00 (oito mil reais), os quais devem ser majorados para R$ 11.000,00 (onze mil reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
