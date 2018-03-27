@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 43):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. PARCELAMENTO DO DÉBITO. SUSPENSÃO EXIGIBILIDADE DO CRÉDITO. DESBLOQUEIO DE ATIVOS FINANCEIROS. POSSIBILIDADE.
+1. O parcelamento da dívida suspende a exigibilidade do crédito tributário (CTN, art. 151 A/l), caso em que não subsiste legitimidade para a manutenção da indisponibilidade de ativos financeiros.
+2. Agravo do executado provido para liberar os valores bloqueados.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022 do CPC/2015.
+A parte recorrente aponta violação aos arts. 489 e 1022 do CPC/73. Sustenta que: (I) o Tribunal de origem não se manifestou sobre as matérias suscitadas nos embargos de declaração; e (II) a adesão a parcelamento apenas suspende a exigibilidade do débito, mas não afasta a necessidade de manutenção da penhora on line.
+É o relatório.
+É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+No que diz respeito à tese da necessidade de manutenção da penhora on line, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
