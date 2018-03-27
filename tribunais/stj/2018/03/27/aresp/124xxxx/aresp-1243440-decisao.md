@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por MESSIAS VIANA GOMES contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE ACIDENTE DE TRÂNSITO EM FASE DE CUMPRIMENTO DE SENTENÇA PROCEDIMENTO SUMÁRIO - RÉU DEVIDAMENTE CITADO QUE COMPARECEU EM AUDIÊNCIA DESACOMPANHADO DE ADVOGADO REVELIA JULGAMENTO ANTECIPADO AUSÊNCIA DE NULIDADE LITIGÂNCIA DE MÁ-FÉ DEVIDA - DECISÃO MANTIDA RECURSO DESPROVIDO" (fl. 142, e-STJ).
+Os embargos de declaração foram rejeitados (fl. 187, e-STJ).
+Nas razões do especial, o agravante alega violação dos arts. 277, caput, e§ 2º, 322, parágrafo único, 346, parágrafo único, ; e 489, § 1º, IV, e § 3º, e 1.022, II, do CPC/2015. Defende, em síntese, que "no caso dos autos, além das nulidades apontadas, não houve sequer a intimação do Recorrente quanto a decretação de sua revelia, tornando ilegal a r. decisão de 1ª Instância e, consequentemente, o v. acórdão recorrido" (fl. 167, e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório. DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+As instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Ademais, impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Assim sendo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pelo recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+Na hipótese em tela, o Tribunal local consignou:
+"A ação tramitou pelo rito sumário, nos termos do artigo 275, inciso I, do Código de Processo Civil de 1973 e, devidamente citado (fls.57), o requerido compareceu à audiência de conciliação sem a presença de um advogado, o que inviabilizou a apresentação da contestação, uma vez que tal prática cabe ao representante dotado de capacidade postulatória.
+Ora, não merece guarida a alegação do agravante de que não teve conhecimento a respeito da necessidade de se constituir um advogado para apresentação de sua defesa.
+O mandado de citação que lhe foi entregue constava expressamente tal aviso (fls. 51): "Cite(m)-se e intime(m)-se o(s) réu(s) para comparecer(em) pessoalmente à audiência que se realizará neste Fórum, no endereço acima citado, ou nela fazer-se representar por preposto no caso de transigir, com poderes para tanto, oportunidade em que, frustrada a conciliação, poderá apresentar a defesa que tiver por escrito ou oralmente, através de advogado regularmente constituído, sob pena de serem presumidos verdadeiros os fatos alegados na inicial". Sic Nesse passo, o agravante foi considerado revel, sendo cabível o julgamento antecipado da lide, com fulcro no artigo 330, inciso II, do antigo diploma legal.
+(..)
+A r. sentença de fls. 60/62 reconheceu a revelia do réu, assim como o direito reclamado pelo autor, após análise da inicial e dos documentos apresentados por este, sendo certo que foi dada a oportunidade ao agravante de exercer seu direito ao contraditório e à ampla defesa.
+Tampouco há que se falar em nulidade quanto à falta de intimação do agravante a respeito da sentença proferida, já que contra o revel que não tenha patrono constituído nos autos, correrão os prazos independentemente de intimação, a partir da publicação de cada ato decisório (artigo 322 do Código de Processo Civil de 1973)" (fls. 143/144, e-STJ).
+Rever a conclusão do acórdão recorrido demandaria a apreciação do conjunto fático-probatório dos autos, o que encontra óbice na Súmula nº 7/STJ.
+Por fim, quanto à alínea "c" do permissivo constitucional, o dissídio jurisprudencial não restou caracterizado nos moldes legal e regimental, uma vez que insuficiente, para tanto, a mera transcrição de ementas dos paradigmas, deixando o recorrente de proceder ao necessário cotejo analítico entre os acórdãos impugnado e paradigma, além da ausência de similitude fática entre as decisões confrontadas.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
