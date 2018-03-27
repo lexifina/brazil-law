@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMENTA: SEGURO DE VIDA E ACIDENTES PESSOAIS - AÇÃO DE INDENIZAÇÃO EVENTO QUE EMBASA O PEDIDO INICIAL OCORRIDO APÓS O TÉRMINO DA VIGÊNCIA DA APÓLICE QUESTÃO JÁ ENFRENTADA EM OUTRO PROCESSO - SENTENÇA DE IMPROCEDÊNCIA. MANUTENÇÃO.
+Apelação improvida." (e-STJ, fl. 465)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 535 do CPC/73, 421, 422, 774, 801, 884 do CC/02, CDC e divergência jurisprudencial, sustentando, em síntese, que: (a) o acórdão recorrido foi omisso; (b) na data do falecimento da segurada, o contrato de seguro estava vigente por força de sentença proferida na ação cautelar e o prêmio devidamente pago; (c) o seguro de vida em grupo renovado durante muitos anos revela contratação por prazo indeterminado, de modo que não poderia ter ensejado o cancelamento unilateral; e (d) o cancelamento do contrato exigiria anuência expressa de segurados que representem três quartos do grupo.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil de 1973, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Inicialmente, observa-se que a parte recorrente alega violação ao CDC, mas não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido." (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 27/08/2015)
+O agravante sustenta que o falecimento ocorreu na vigência de decisão liminar oriunda de ação coletiva, ajuizada pela AFACEESP - Associação dos Funcionários Aposentados e Pensionistas do Banco Nossa Caixa, que teria imposto a continuidade da relação contratual.
+No entanto, é pacífico o entendimento de que medidas cautelares podem ser, a qualquer tempo, revogadas ou modificadas, razão pela qual a superveniência de acórdão que deu provimento à apelação contra a sentença de procedência do pedido cautelar substitui o comando da decisão reformada, não havendo que se falar em manutenção da eficácia de decisão de carga eminentemente provisória. A propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSO CAUTELAR. REQUISITOS. REEXAME. SÚMULA N. 7-STJ. SENTENÇA. MODIFICÁVEL A QUALQUER TEMPO. ARTIGO 807, DO CPC. NÃO PROVIMENTO.
+1. Em regra, não se reexamina os requisitos necessários à concessão da tutela cautelar em sede de recurso especial, a teor do verbete n.
+7, da Súmula, haja vista estarem intimamente ligados aos fatos da causa.
+2. "As medidas cautelares conservam a sua eficácia no prazo do artigo antecedente e na pendência do processo principal; mas podem, a qualquer tempo, ser revogadas ou modificadas." Artigo 807, do CPC.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1110145/TO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/04/2013, DJe 07/05/2013)
+Na hipótese dos autos, o Tribunal de origem esclareceu que o recurso especial interposto pela AFACEESP na ação coletiva não foi conhecido, mantendo-se o acórdão que reconheceu a possibilidade de não renovação da apólice pela seguradora. Dessarte, nota-se que, de fato, houve a perda de eficácia da sentença proferida na ação cautelar.
+No mérito, o acórdão recorrido alinhou-se ao entendimento do STJ no sentido de que a seguradora tem o direito de não renovar seguro de vida em grupo, desde que haja prévia notificação em prazo razoável, não importando em ofensa ao princípio da boa-fé objetiva, haja vista tais contratos serem caracterizados por mutualismo e temporariedade. Confiram-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA EM GRUPO. NÃO RENOVAÇÃO PELA SEGURADORA. AUSÊNCIA DE ABUSIVIDADE. NATUREZA DO CONTRATO (MUTUALISMO E TEMPORARIEDADE). EXISTÊNCIA DE CLÁUSULA CONTRATUAL. NOTIFICAÇÃO DO SEGURADO EM PRAZO RAZOÁVEL.
+1. Se o dissídio jurisprudencial for demonstrado, sobretudo porque o exame do mérito do recurso especial foi devidamente apreciado nos acórdãos postos a confronto, deve ser afastada a Súmula nº 315/STJ, a possibilitar o conhecimento dos embargos de divergência no âmbito do agravo.
+2. A Segunda Seção deste Tribunal Superior, quando do julgamento do REsp nº 880.605/RN (DJe 17/9/2012), firmou o entendimento de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo por qualquer dos contratantes, desde que haja prévia notificação em prazo razoável.
+Essa hipótese difere da do seguro de vida individual que foi renovado ininterruptamente por longo período, situação em que se aplica o entendimento firmado no REsp nº 1.073.595/MG (DJe 29/4/2011).
+3. O exercício do direito de não renovação do seguro de vida em grupo pela seguradora, na hipótese de ocorrência de desequilíbrio atuarial, não fere o princípio da boa-fé objetiva, mesmo porque o mutualismo e a temporariedade são ínsitos a essa espécie de contrato.
+4. Agravo regimental não provido.
+(AgRg nos EAREsp 236.886/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 11/06/2014, DJe 20/06/2014)
+RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA EM GRUPO (OURO VIDA - APÓLICE 40). NÃO RENOVAÇÃO PELA SEGURADORA. AUSÊNCIA DE ABUSIVIDADE. NATUREZA DO CONTRATO (MUTUALISMO E TEMPORARIEDADE). EXISTÊNCIA DE CLÁUSULA CONTRATUAL. NOTIFICAÇÃO DO SEGURADO EM PRAZO RAZOÁVEL.
+1. A Segunda Seção deste Tribunal Superior, quando do julgamento do REsp nº 880.605/RN (DJe 17/9/2012), firmou o entendimento de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo por qualquer dos contratantes, desde que haja prévia notificação em prazo razoável.
+Essa hipótese difere da do seguro de vida individual que foi renovado ininterruptamente por longo período, situação em que se aplica o entendimento firmado no REsp nº 1.073.595/MG (DJe 29/4/2011).
+2. O exercício do direito de não renovação do seguro de vida em grupo pela seguradora, na hipótese de ocorrência de desequilíbrio atuarial, com o oferecimento de proposta de adesão a novo produto, não fere o princípio da boa-fé objetiva, mesmo porque o mutualismo e a temporariedade são ínsitos a essa espécie de contrato.
+3. Recurso especial da FENABB não conhecido; recurso especial da Companhia de Seguros Aliança do Brasil S.A. provido e recurso especial da ABRASCONSEG prejudicado.
+(REsp 1356725/RS, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/04/2014, DJe 12/06/2014)
+Dessarte, não merece reforma o acórdão recorrido.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
