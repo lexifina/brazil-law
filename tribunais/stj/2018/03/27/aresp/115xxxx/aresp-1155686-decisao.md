@@ -1,0 +1,40 @@
+DECISÃO
+ Trata-se de agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial, manejado com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+O apelo extremo desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 369, e-STJ):
+PLANO DE SAÚDE. Negativa de cobertura. Ação de obrigação de fazer cumulada com indenização por danos morais. Autora diagnosticada com hérnia de disco e artrodese de coluna. Necessidade de procedimento cirúrgico. Complicações advindas da internação consistentes em fístula liquórica. Indicação de tratamento mediante desbridamento cirúrgico de feridas e extremidades. Indicação médica expressa. Necessidade dos procedimentos que não se discute. Não cabe ao plano de saúde determinar qual o tratamento mais indicado ao paciente. Limitações constantes no contrato que constituem prática ilegal, fundada no abuso do poder econômico, em detrimento da defesa e do respeito ao consumidor. Precedentes desta Corte. Danos morais. Não caracterização. Mero descumprimento contratual.
+Sucumbência recíproca. Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados na origem (fls. 398-402, e-STJ).
+Nas razões do especial (fls. 405-433, e-STJ), a recorrente alegou (I) violação dos arts. 14 do Código de Defesa do Consumidor, 186 e 927 do Código Civil, e (II) dissídio jurisprudencial.
+Sustentou, em síntese, que: a recusa injustificada da Recorrida em proceder o atendimento médico emergencial necessitado pela Recorrente enseja reparação por danos morais.
+Sem contrarrazões.
+Em juízo de admissibilidade (fls. 556-557, e-STJ), negou-se seguimento ao reclamo. Daí o presente agravo, em que se busca destrancar o processamento daquela insurgência.
+Contraminuta às fls. 749-759 (e-STJ).
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. De início, destaca-se que o acórdão recorrido foi publicado antes da entrada em vigor da Lei nº 13.105/2015, pelo que o recurso em análise está sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme o Enunciado Administrativo 2/2016 desta Corte.
+2. Os elementos existentes nos autos dão conta de que o acórdão recorrido entendeu que:
+ ..  não se verifica no caso em questão dano imaterial passível de indenização.
+Sustenta a autora que suportou danos morais em decorrência do descumprimento contratual, em razão da negativa abusiva de cobertura de tratamento cirúrgico para hérnia de disco e artrodese de coluna e de fístula liquórica decorrente de complicações de internação, mediante desbridamento cirúrgico de feridas e extremidades.
+Contudo, tem-se que a interpretação errônea ou unilateral de cláusulas do contrato por uma das partes se situa no campo dos conflitos de interesses negociais, não avançando para o âmbito da ofensa aos direitos da personalidade e da honra da contratante, a ensejar reparação por dano moral.
+Em que pese o alegado acerca da angústia sofrida em razão da negativa de cobertura dos procedimentos pela ré, não se pode afirmar que o descumprimento do contrato mostrou-se suficiente para caracterizar o abalo psíquico, a aflição espiritual, a humilhação, de modo que seria equivocado afirmar a existência do dano moral.
+Nessa linha, a conduta da apelante, ainda que injusta, caracteriza-se como mero inadimplemento contratual, o que não enseja procedência do pleito indenizatório, sob pena de permitir enriquecimento sem causa. É que, só quando o inadimplemento contratual, sempre frustrante, lesionar direito da personalidade, atingindo a integridade física, psíquica ou moral (o que não foi demonstrado), haverá substrato para dano moral indenizável. (fl. 375, e-STJ)
+No entanto, a jurisprudência do STJ é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário.
+Nesse sentido:
+AGRAVO REGIMENTAL. PLANO DE SAÚDE. ABUSIVIDADE DA NEGATIVA DE MEDICAMENTO PARA TRATAMENTO QUIMIOTERÁPICO. DANO MORAL CONFIGURADO.
+1.- É pacífica a jurisprudência da Segunda Seção no sentido de reconhecer a existência do dano moral nas hipóteses de recusa injustificada pela operadora de plano de saúde, em autorizar tratamento a que estivesse legal ou contratualmente obrigada, por configurar comportamento abusivo.
+2.- Agravo Regimental improvido. (AgRg no AREsp 148.113/SP, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 26/06/2012, DJe 29/06/2012).
+CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. COBERTURA. RECUSA INJUSTIFICADA. DANO MORAL. EXISTÊNCIA. APLICAÇÃO DO DIREITO À ESPÉCIE. ART. 157 DO RISTJ. DESNECESSIDADE DE REEXAME DE PROVAS. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. CONDENAÇÕES DE NATUREZAS DISTINTAS. BASE DE CÁLCULO. PEDIDO DE MAIOR RELEVÂNCIA PARA A AÇÃO.
+1. A recusa, pela operadora de plano de saúde, em autorizar tratamento a que esteja legal ou contratualmente obrigada, implica dano moral ao conveniado, na medida em que agrava a situação de aflição psicológica e de angústia no espírito daquele que necessita dos cuidados médicos. Precedentes.
+2. A desnecessidade de revolvimento do acervo fático-probatório dos autos viabiliza a aplicação do direito à espécie, nos termos do art. 257 do RISTJ, com a fixação da indenização a título de danos morais que, a partir de uma média aproximada dos valores arbitrados em precedentes recentes, fica estabelecida em R$12.000,00.
+3. Em processos em que houver condenações de naturezas distintas, surgindo dúvida quanto à forma de arbitramento dos honorários advocatícios - se com base no § 3º ou no § 4º do CPC - a verba deve ser fixada tendo em vista o objeto central da controvérsia, isto é, o pedido e a causa de pedir que assumirem maior relevância para a ação.
+4. Recurso especial provido. (REsp 1.235.714/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 22/05/2012, DJe 29/05/2012).
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO QUE CONHECE DO AGRAVO PARA PROVER O RECURSO ESPECIAL. POSSIBILIDADE. PLANO DE SAÚDE. COBERTURA. NEGATIVA. PROCEDIMENTO DE URGÊNCIA. [NOME]. DANO MORAL. CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO. APLICAÇÃO DE MULTA. (..)
+2. Nos termos da jurisprudência reiterada do STJ, "a recusa indevida à cobertura pleiteada pelo segurado é causa de danos morais, pois agrava a sua situação de aflição psicológica e de angústia no espírito" (REsp 657.717/RJ, Rel. Ministra NANCY ANDRIGHI, DJ 12/12/2005) 3. Agravo regimental não provido com aplicação de multa. (AgRg no Ag 1.318.727/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 17/05/2012, DJe 22/05/2012).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. INJUSTA A RECUSA DE COBERTURA POR PARTE DO PLANO DE SAÚDE. DANO MORAL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (..)
+2. Não obstante o inadimplemento contratual não dar ensejo, em regra, à reparação de ordem extrapatrimonial, é possível, nos casos em que considerada injusta a recusa de cobertura por parte do plano de saúde, a condenação em pagamento de dano moral, quando a negativa agrava o contexto de aflição psicológica do segurado, ultrapassando os limites do mero desconforto ou aborrecimento, como ocorreu na hipótese.
+3. A modificação da conclusão a que chegaram as instâncias ordinárias a respeito da existência de dano moral encontra óbice na Súmula 7/STJ, por demandar o vedado revolvimento de matéria fático-probatória.
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 14.557/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 13/09/2011, DJe 03/10/2011).
+3. Do exposto, com amparo no art. 932 do NCPC c/c a Súmula 568/STJ, conheço do agravo para dar provimento ao recurso especial a fim de restabelecer o quantum indenizatório e o ônus da sucumbência estabelecidos na sentença.
+Publique-se.
+Intimem-se.
