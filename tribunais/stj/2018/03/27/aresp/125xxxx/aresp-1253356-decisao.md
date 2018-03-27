@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SOCIEDADE EDUCACIONAL SANTA TERESA D"AVILA contra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação de cobrança proposta por APECOR - ASSOCIAÇÃO PROMOCIONAL COMUNIDADES DA RESSURREIÇÃO, doravante APECOR, em desfavor de SOCIEDADE EDUCACIONAL SANTA TEREZA D"ÁVILA.
+O il. Magistrado julgou parcialmente procedente o pedido (sentença às fls. 687/691).
+Diante disso, as partes interpuseram os respectivos recursos. O eg. TJ-SP, por sua vez, deu provimento à apelação de APECOR e concedeu parcial provimento ao recurso de SOCIEDADE EDUCACIONAL SANTA TERESA D"AVILA, nos termos do v. acórdão, assim ementado (fl. 763):
+" Cobrança - Pretensão da autora fundada em termo de reconhecimento de investimento de recursos financeiros assinado pela ré - Arguição de nulidade do documento - Ausência de assinatura da autora e vício de consentimento calcado em erro - Inocorrência - Documento assinado pela ré, como início de prova da dívida - Natureza jurídica - Manifestação de vontade inconteste e interpretação conforme art. 112 do Código Civil - Vício de consentimento r Erro - Inexistência de explicações acerca das razões que levaram à falsa percepção da realidade - Representante legal de ré, ademais, advogada por profissão - Erro que não se presume - Correção monetária - Termo inicial desde o ajuizamento da ação (art. 1º, § 2º, da Lei n. 6:899/81) e juros de mora, de 1% ao mês (art. 406 do Código Civil c.c. art. 161, § 1º, dó CTN), a partir da citação, por força do art. 219 do CPC de 1973 - Procedência da pretensão da autora - Decaimento em menor proporção e sucumbência a cargo da ré - Recurso da autora provido, e parcialmente provido o interposto pela ré."
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 781/783).
+Inconformada, SOCIEDADE EDUCACIONAL SANTA TERESA D"AVILA interpôs recurso especial, com fulcro no art. 105, inciso III, alínea "a", da CF/88, no qual alega violação dos arts. 371, 479, 489, § 1º, e 1022, inciso II, inciso II, parágrafo único, todos do CPC/2015; e dos arts. 138, 139, e 166, incisos IV e V, todos do CC/02.
+Como dito, o apelo nobre foi inadmitido às fls. 813/815.
+Irresignada, SOCIEDADE EDUCACIONAL SANTA TERESA D"AVILA manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 838/841).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Inicialmente, rejeita-se a alegada violação dos arts. 489, § 1º, e 1022, inciso II, inciso II, parágrafo único, ambos do CPC/2015 , uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/1973) - MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em violação aos artigos 458 e 535 do CPC/1973. Na hipótese, houve o julgamento das questões de maneira fundamentada, com clareza e exatidão no julgado, apenas não tendo sido adotadas as teses do insurgente. Consoante entendimento desta Corte, o julgador não precisa responder, nem se ater a todos os argumentos levantados pelas partes, se já tiver motivos suficientes para fundamentar sua decisão.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 790.880/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2017, DJe 04/04/2017, grifou-se)
+"RECURSO ESPECIAL. OFENSA AOS ARTIGOS 458 E 535 DO CPC. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO IMPUGNADO. ASSOCIAÇÃO DE MORADORES. COBRANÇA DE OUTROS ENCARGOS, DIFERENTES DA TAXA DE MANUTENÇÃO, DE MORADOR NÃO ASSOCIADO OU QUE A ELA NÃO ANUIU. INVIABILIDADE.
+1. Quanto à admissibilidade do presente recurso especial por violação aos artigos 458 e 535 do CPC, impende consignar que não houve negativa de prestação jurisdicional, máxime porque a Corte local analisou as questões deduzidas pelo recorrente e adotou fundamentação suficiente e consentânea com a conclusão apresentada.
+(..)
+4. Recurso especial parcialmente provido."
+(REsp 1356251/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 01/07/2016, grifou-se)
+Outrossim, melhor sorte não socorre à recorrente no que diz respeito à violação dos arts. 371 e 479 do CPC/2015. Sob as alegadas infringências, sustenta-se que o eg. TJ-SP desconsiderou o laudo pericial produzido na origem. Isso porque o eg. Tribunal estadual, soberano na análise das provas carreadas aos autos, entendeu como válido o documento acostado pelo parte recorrida para fins de embasar a ação de cobrança.
+Com efeito, é entendimento pacífico desta eg. Corte Superior que o juiz é destinatário final das prova, de modo que a análise acerca da suficiência do acervo probatório demandaria revolvimento fático-probatório, providência incompatível com o apelo especial, conforme Súmula 7/STJ. Corroboram essa conclusão os seguintes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AFRONTA AO ART. 330, I, DO CPC. FUNDAMENTO INATACADO. SÚMULA Nº 283/STF. JULGAMENTO ANTECIPADO. PROVAS SUFICIENTES. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DECISÃO MANTIDA.
+(..)
+2. Verificar se as provas colhidas na origem era suficientes para o julgamento antecipado da lide, exigiria o reexame do contexto fático-probatório, o que é vedado em sede de recurso especial, nos termos da Súmula nº 7/STJ.
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 570.204/GO, QUARTA TURMA, Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/11/2014, DJe de 26/11/2014, grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.OMISSÃO. NÃO OCORRÊNCIA. ACIDENTE. RESPONSABILIDADE. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. LIVRE CONVENCIMENTO. PERÍCIA. REQUERIMENTO GENÉRICO. AUSÊNCIA DE IMPUGNAÇÃO. ENUNCIADO 283 DA SÚMULA DO STF. NÃO PROVIMENTO.
+(..)
+3. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+4. Agravo a que se nega provimento."
+(AgRg no AREsp 121.314/PI, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/05/2013, DJe 21/05/2013, grifou-se)
+Por fim, sustenta a recorrente ofensa dos arts. 138, 139 e 166, incisos IV e V, todos do CC/02, ao argumento de que o eg. TJ-SP não poderia considerar como válido instrumento contratual, no qual não contém assinatura das partes. Entretanto, o recurso novamente não merece respaldo. Isso porque o eg. Tribunal local, à luz das provas que instruem os autos, concluiu que o contrato foi assinado por representante legal da recorrente, bem como que os vícios de consentimento não se presumem. À título elucidativo, colaciona-se o seguinte excerto do v. acórdão estadual (fls. 765/766):
+"O recurso da autora colhe provimento e a teimosa resistência da ré tangencia a má-fé processual.
+De início, cumpre salientar que a defesa da A ré suscita pelo menos duas versões inconciliáveis para o mesmo fato. Primeiro: ao contra - notificar a autora pela forma judicial, afirmou que nada deve (v. fls. 55, 3º parágrafo). Segundo: ao apresentar contestação à pretensão na ação de cobrança, passou a afirmar que, dos R$ 522.298,15 cobrados, deve apenas R$ 184.000,00 (v. fls. 121, 3º, parágrafo).
+Esse comportamento claudicante da ré não milita em seu favor.
+Em verdade, nada vicia o "termo de reconhecimento de investimento de recursos financeiros" colacionado a fls. 12/13, visto que os únicos argumentos da ré a fim de impugná-lo são a falta de assinatura da autora e o erro a que teria sido induzida a sua representante legal.
+Ora, a ação é de cobrança pelo rito ordinário, de modo que o documento impugnado pela ré, assinado ou não pela autora, é início de prova de que reconheceu os aportes no valor de R$ 522.298,15. 0 valioso é que a assinatura da sua representante legal não foi contestada, e o único pseudo-vício seria de consentimento fundado em erro que, aliás, não se presume.
+É leviano imputar à autora o induzimento da ré em erro, mormente porque quem assinou o instrumento foi "[NOME]", advogada por profissão (v. fls. 103), presidente e representante legal da ré (fls. 110/111v.), que não se dignou explicar o quê teria motivado a assinatura numa pretensa situação de falsa i percepção da realidade.
+O argumento é reticente e não serve para impugnar o conteúdo do documento, através do qual a ré reconheceu ter recebido da autora R$ 522.298,15.
+Os vícios de consentimento não se presumem, exigem prova inconcussa em homenagem à segurança jurídica.
+(..)
+Embora a autora não tenha assinado o documento, a só assinatura da ré é suficiente à convicção de que retrata a realidade.
+A natureza jurídica do documento, que nasceu para ser um contrato, vale como uma declaração pela qual há inequívoca manifestação unilateral de vontade, daí que a sua interpretação é conforme a intenção nele consubstanciada, desprezado o sentido literal da linguagem (art. 112 do Código Civil).
+Em reforço de argumentação, mesmo que o documento fosse nulo, o que de fato não é, seria contrassenso ignorar a manifestação de vontade nele contida. É que, se nulo fosse, está claro que contém os requisitos de outro, daí que, nessa hipótese, importa o fim desejado, isto é, o reconhecimento da dívida, supondo- se que teria a representante legal da ré desejado esse efeito se previsse a nulidade (art. 170 do Código Civil)." (grifou-se)
+Nesse cenário, para se alterar o entendimento ora transcrito, quanto à existência do débito cobrado, seria necessária a revisão de matéria fático-probatória e das cláusulas contratuais, o que é inadmissível em sede de recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de R$ 10% (dez por cento) para R$ 11% (onze por cento) sobre o valor da condenação.
+Publique-se.
