@@ -8,7 +8,7 @@ VI - transporte público coletivo: serviço público de transporte de passageiro
 VII - transporte privado coletivo: serviço de transporte de passageiros não aberto ao público para a realização de viagens com características operacionais exclusivas para cada linha e demanda;
 VIII - transporte público individual: serviço remunerado de transporte de passageiros aberto ao público, por intermédio de veículos de aluguel, para a realização de viagens individualizadas;
 IX - transporte urbano de cargas: serviço de transporte de bens, animais ou mercadorias;
-X - transporte motorizado privado: meio motorizado de transporte de passageiros utilizado para a realização de viagens individualizadas por intermédio de veículos particulares;
+X - transporte remunerado privado individual de passageiros: serviço remunerado de transporte de passageiros, não aberto ao público, para a realização de viagens individualizadas ou compartilhadas solicitadas exclusivamente por usuários previamente cadastrados em aplicativos ou outras plataformas de comunicação em rede.
 XI - transporte público coletivo intermunicipal de caráter urbano: serviço de transporte público coletivo entre Municípios que tenham contiguidade nos seus perímetros urbanos;
 XII - transporte público coletivo interestadual de caráter urbano: serviço de transporte público coletivo entre Municípios de diferentes Estados que mantenham contiguidade nos seus perímetros urbanos; e
 XIII - transporte público coletivo internacional de caráter urbano: serviço de transporte coletivo entre Municípios localizados em regiões de fronteira cujas cidades são definidas como cidades gêmeas.
