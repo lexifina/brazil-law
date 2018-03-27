@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC) interposto por BANCO CITIBANK S.A. contra decisão que negou seguimento ao recurso especial, de sua vez manejado com amparo na alínea "a" do permissivo constitucional.
+O apelo extremo desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 112, e-STJ):
+CITAÇÃO - TEORIA DA APARÊNCIA - Alegação de que a citação da corré seria nula - Rejeição - Hipótese em que se considera válida a citação recebida por quem se identifica como funcionário da empresa e sem ressalva alguma a respeito da falta de poderes para tanto, ainda que não seja o representante legal da pessoa jurídica - Entrega em estabelecimento da ré - Aplicação da "teoria da aparência" - Citação válida - Precedentes do STJ - PRELIMINAR REJEITADA.
+ILEGITIMIDADE PASSIVA - Preliminar de ilegitimidade do banco réu para figurar no polo passivo da demanda - Rejeição - Hipótese em que o próprio recorrente não nega a existência do suposto contrato celebrado com a autora, insistindo apenas que não pode mais ser por ele responsabilizado - Caso em que o suposto contrato foi realizado quando os réus ainda eram considerados do mesmo grupo econômico - PRELIMINAR REJEITADA.
+DECLARAÇÃO DE INEXIGIBILIDADE DE DÉBITO - Pretensão de reforma da r.sentença que declarou a inexigibilidade de débito - Descabimento - Hipótese em que, em se tratando de uma relação de consumo, cabia ao banco réu demonstrar a regularidade do contrato de cartão de crédito supostamente celebrado com a autora e de sua respectiva cobrança, ônus do qual, todavia, não se desincumbiu - RECURSO DESPROVIDO.
+INDENIZAÇÃO POR DANO MORAL - Pretensão de reforma da r.sentença para afastar a condenação por dano moral - Descabimento - Hipótese em que a autora, pessoa idosa e analfabeta, alegou que recebia diversos telefonemas por dia, inclusive com ameaças de prisão - Dano moral configurado, tendo em conta os transtornos experimentados pela autora - RECURSO DESPROVIDO.
+Nas razões de recurso especial (fls. 121-127, e-STJ), o recorrente apontou violação dos arts. 330, II e 485, VI, do CPC/15, sustentando, em suma, sua ilegitimidade passiva, ao argumento de que "ao contrário do entendimento demonstrado pelo juízo a quo, o Itaú Unibanco e o Banco Citibank não pertencem ao mesmo conglomerado e, na verdade, tratam-se de pessoas jurídicas totalmente distintas e independentes entre si" (fl. 125, e-STJ).
+O Tribunal local negou seguimento ao recurso especial sob o fundamento de incidência da Súmula 7 do STJ.
+Daí o agravo (fls. 142-154, e-STJ), no qual o agravante postula a reforma da decisão em testilha, lançando argumentações no sentido de combater o impedimento acima apontado.
+Contraminuta às fls. 164-166 (e-STJ).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+1. No tocante à ilegitimidade passiva do agravante, cumpre transcrever o seguinte excerto do acórdão recorrido, in verbis (fls. 115-116, e-STJ):
+Quanto à alegação de ilegitimidade passiva, o réu Banco Citibank S/A admite, às fls. 68, que "não negou a celebração do contrato, mas apenas que, quando da venda, e posterior incorporação, do BANCO CITICARD pelo ITAÚ UNIBANCO HOLDING S/A, somente esta instituição passou a ser responsável pela administração do contrato sub judice" (destaques nossos).
+Acrescenta, às fls. 69, que, "muito embora participassem do mesmo grupo econômico, em dezembro de 2013 os bancos CITIBANK e CITICARD foram inexoravelmente separados, de modo que os contratos administrados por uma instituição financeira já não tem mais nenhuma relação com a outra instituição, sendo elas entidades autônomas e independentes uma da outra".
+Assim, o próprio recorrente não nega em momento algum a existência do suposto contrato celebrado com a autora, insistindo apenas que não pode mais ser por ele responsabilizado devido à posterior incorporação do Banco Citicard pelo Itaú Unibanco Holding S/A.
+Nessa ordem de ideias, o banco Banco Citibank S/A é parte legítima para figurar no polo passivo da demanda, uma vez que o suposto contrato que originou o débito cobrado teria sido alegadamente realizado em 28.09.2009 (fls. 02), quando o Banco Citibank e o Banco Citicard ainda eram considerados do "mesmo grupo econômico", qualquer um deles podendo responder pelos cartões que conjuntamente emitiram.
+Ademais, o boleto de cobrança de fls. 10 apresenta no campo "Beneficiário" o endereço "AVENIDA PAULISTA, 1.111 2 ANDAR BELA VISTA SÃO PAULO SP [CEP]", que também consta da procuração de fls.
+25-34, trazida aos autos pelo réu Banco Citibank com a contestação.
+Dessa forma, há nos autos indícios de que o banco réu seja efetivamente o titular do débito cobrado, o que corrobora a versão dos fatos da autora e torna a instituição financeira recorrente parte legítima para figurar no polo passivo da relação processual.
+Sendo assim, para acolhimento do apelo extremo, a fim de derruir a afirmação contida no decisum atacado - acerca da existência de grupo econômico e da legitimidade passiva da instituição financeira agravante -, seria imprescindível o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial. Nesse sentido, anote-se:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. LEGITIMIDADE PASSIVA. GRUPO ECONÔMICO. VERIFICAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. O provimento do especial, para reconhecer a inexistência de grupo econômico, requer nova incursão fático-probatória o que é inviável em recurso especial por força da Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AgRg no REsp 1.358.921/RJ, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 23/11/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SEGURO. INSTITUIÇÃO FINANCEIRA. MESMO GRUPO ECONÔMICO. TEORIA DA APARÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA.
+1. A Corte local aplicou a teoria da aparência, entendendo pela legitimidade da instituição financeira pertencente ao mesmo grupo econômico, posicionamento que encontra respaldo na jurisprudência desta Corte Superior. Incidência da Súmula 83/STJ.
+2. Agravo regimental a que se nega provimento, com aplicação de multa.
+(AgRg no AREsp 1.414.32/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe de 14/05/2012).
+E ainda: AgRg no AREsp 433.617/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/09/2014, DJe 09/09/2014.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao recurso, fixando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor atualizado da condenação, a ser suportado exclusivamente pela parte recorrente (enunciado nº 7/STJ), observado o disposto no art. 98, § 3º, do NCPC.
+Publique-se.
+Intimem-se.
