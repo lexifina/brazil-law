@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que não admitiu o recurso especial sob os seguintes fundamentos (e-STJ fls. 399/402): (a) inexistência de ofensa ao art. 535 do CPC/1973 e (b) aplicação das Súmulas n. 7, 83 e 211 do STJ e 282 do STF.
+O acórdão recorrido possui a seguinte ementa (e-STJ fl. 279):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. SOCIEDADE ANÔNIMA. POSSIBILIDADE. DESNECESSIDADE DE REQUERIMENTO.
+ 1. Conquanto a Súmula 389 do STJ estabeleça que a comprovação do pagamento do "custo do serviço" referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima, admite-se o pedido incidental de exibição de documentos quando a própria companhia informa que não fornecerá os dados requeridos pelo sócio/consumidor, porquanto nenhum resultado útil advirá da diligência administrativa.
+2. Não sendo a exibição de documentos objeto da demanda, como ocorre no caso de ação cautelar de exibição de documentos, mas somente elemento de prova, tendente a comprovar o atraso na emissão das ações, mostra-se inaplicável à espécie a Súmula 389 do STJ. (Precedentes).
+3. Recurso não provido.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 293/298).
+No especial (e-STJ fls. 305/329), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou dissídio jurisprudencial e violação dos arts. 535, II, do CPC/1973 e 100, § 1º, da Lei n. 6.404/1976.
+Sustentou: (i) negativa de prestação jurisdicional, (ii) ausência de interesse de agir pela falta de comprovação do prévio requerimento administrativo com o pagamento da respectiva taxa pelo custo do serviço e (iii) inexistência de comprovação da relação jurídica entre as partes.
+No agravo (e-STJ fls. 410/447), afirma a presença de todos os requisitos de admissibilidade do especial.
+A contraminuta foi apresentada às fls. 454/461 (e-STJ).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade do recurso especial.
+O Tribunal de origem apreciou todas as questões relevantes ao deslinde da controvérsia, nos limites do que lhe foi submetido. Portanto, não há falar em violação do art. 535 do CPC/1973.
+Inexiste negativa de prestação jurisdicional quando o Colegiado de origem analisa de forma fundamentada as questões submetidas a exame, apenas não adotando a tese defendida pela parte.
+O Tribunal de origem negou provimento ao agravo de instrumento da companhia telefônica nos seguintes termos (e-STJ fls. 282/283):
+Nas razões recursais, a principal argumentação da agravante é no sentido de que a autora não possui interesse de agir quanto ao pedido de exibição incidental de documentos (contratos de participação financeira, radiografias etc.), em virtude de não ter feito requerimento administrativo, com o respectivo pagamento do custo do serviço, conforme disposição do artigo 100, § 1º, da Lei das S/A.
+Diz que a aludida diligência administrativa é condição de procedibilidade para o ajuizamento de ação de exibição de documentos, em consonância com a orientação da Súmula 389 do STJ e precedentes colacionados.
+Todavia, em que pese a agravante aduzir que a recorrida não teria a necessidade de recorrer ao Poder Judiciário para obter as informações solicitadas na inicial, o que configuraria ausência de interesse de agir, de outro lado, alega que a decisão impugnada merece ser reformada porque implica produção de prova contra si mesma, além de não se tratar de exibição de documentos em si, mas que a agravante produza e elabore prova que favoreça a recorrida.
+Com isso, a própria recorrente rechaça o seu argumento da necessidade de diligência administrativa, afinal assevera não possuir os documentos e informações solicitados. Por outras palavras, eventual requerimento administrativo, com o pagamento do respectivo custo do serviço, não teria utilidade para a agravada, tampouco para a presente ação judicial, constituindo-se, pois, em uma mera formalidade procedimental, o que não pode impedir a propositura da demanda.
+Nessa linha, é dado concluir, portanto, que a situação em análise não se amolda à hipótese estampada nos precedentes jurisprudenciais e na súmula avocados pela agravante, porquanto, de plano, ela informa não possuir os dados requeridos na inicial.
+Destaca-se, por outro lado, que é assente na jurisprudência pátria a possibilidade de se formular pedido incidental de exibição de documentos, com base no artigo 355 e seguintes do CPC, inclusive com o seu deferimento liminar, sem audiência do réu. A propósito, o artigo 357 do CPC estabelece que o requerido dará sua resposta nos 5 (cinco) dias subsequentes à sua intimação da determinação de exibição de documentos, quando então exercerá o seu direito à ampla defesa e contraditório.
+A insurgência recursal, todavia, não trouxe impugnação específica capaz de combater esse fundamento do acórdão, pois limitou-se a insistir na necessidade do prévio requerimento administrativo acompanhado do comprovante de pagamento pelo custo do serviço.
+Apresentada a questão nesses termos, conclui-se que o recurso encontra óbice na Súmula n. 283/STF, in verbis:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Por fim, a Corte estadual reconheceu comprovada a relação jurídica entre as partes, conforme o seguinte excerto (e-STJ fl. 285):
+Também não se coloca em dúvida a existência de relação jurídica entre as partes, ante os indícios decorrentes da prova documental já produzida pela recorrida conjuntamente com a exordial e o fato de que a OI S/A, nova denominação da Brasil Telecom S/A, sendo sucessora da empresa cindida Telebrás e das operadoras regionais que compunham o sistema Telebrás (Telebrasília S/A, Telegoiás S/A, Teleron S/A e outras), que foram por ela incorporadas, é considerada parte legítima para figurar no polo passivo da presente ação, em que se busca o direito à subscrição de ações.
+Rever esse entendimento demandaria o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
