@@ -1,0 +1,31 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos (Doc. 51) objetivando a reforma de decisão que inadmitiu recurso extraordinário (Doc. 39), manejado com arrimo na alínea a do permissivo constitucional, contra acórdão (Docs. 22 e 23) que assentou, in verbis:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE FOLHA DE SALÁRIOS. LEI Nº 8.212/91. QUINZE PRIMEIROS DIAS DE AFASTAMENTO EM VIRTUDE DE DOENÇA OU ACIDENTE. SALÁRIO-MATERNIDADE. FÉRIAS. TERÇO CONSTITUCIONAL DE FÉRIAS. HORAS EXTRAS. AUXÍLIO-CRECHE.
+    1 - O posicionamento atual dos Tribunais Superiores estabelece a distinção das verbas em questão por sua natureza remuneratória ou indenizatória, residindo nessa diferenciação o ponto chave para se saber se é ou não devida a contribuição previdenciária de que trata o artigo 22 da Lei nº 8.212/91 sobre as mesmas, na medida em que, se remuneratórias, resta autorizada a sua inclusão na base de cálculo das referidas contribuições previdenciárias.
+    2 - Não incide contribuição previdenciária sobre o valor pago nos primeiros quinze dias de afastamento do empregado em virtude de enfermidade e acidente, porquanto não se trata de verbas de natureza remuneratória, mas sim indenizatória. Precedentes dos Tribunais Superiores. (AgRg no REsp 1042319/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 02/12/2008, DJe 15/12/2008)
+    3 - A jurisprudência do Superior Tribunal de Justiça pacificou entendimento no sentido de que o salário-maternidade tem natureza remuneratória, e não indenizatória, integrando, portanto, a base de cálculo da contribuição previdenciária. (REsp 1049417/RS, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 03/06/2008, DJe 16/06/2008)
+    4 - A jurisprudência do Superior Tribunal de Justiça tem entendido que as verbas pagas a título de férias possuem natureza salarial, razão pela qual estas devem integrar a base de cálculo da contribuição previdenciária. (AgRg no REsp 1042319/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 02/12/2008, DJe 15/12/2008)
+    5 - O adicional de 1/3 de férias não integra o conceito de remuneração, não havendo incidência de contribuição previdenciária (STF, AI-AgR n.° 603.537/DF, Rel. Min. Eros Grau, T2, ac. um., DJU 30.03.2007, p. 92).
+    6 - Em relação ao adicional de horas extraordinárias, este possui natureza remuneratória, pois se trata de verba recebida pelo empregado em decorrência de efetiva prestação laboral, além de sua jornada ordinária, logo, deve incidir sobre esta parcela a contribuição previdenciária. (REsp 486697/PR, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 07/12/2004, DJ 17/12/2004 p. 420) (g.n.)
+    7 - A Súmula n. 310 do Superior Tribunal de Justiça é expressa no sentido de que o auxílio-creche não integra o salário-de-contribuição, consolidando-se o entendimento daquele Tribunal, não havendo incidência de contribuição previdenciária (EmbDivREsp n. 408.450-Rs, Rel. Min. Francisco Peçanha Martins, unânime, j. 09.06.04; Emb. Div. em Resp n. 413.322-RS, Rel. Min. Humberto Gomes de Barros, unânime, j. 26.03.03).
+    8 - Apelos da Impetrante, da União Federal e remessa necessária parcialmente providos.”
+    Os embargos de declaração opostos foram desprovidos (Doc. 31).
+    Nas razões do apelo extremo, a Fazenda sustentou preliminar de repercussão geral e, no mérito, apontou violação ao artigo 97 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o acórdão recorrido estaria em harmonia com a jurisprudência do STF. Asseverou ainda que a ofensa à Constituição, acaso existente, seria indireta (Doc. 49).
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Não há que se falar em inobservância da cláusula de reserva de plenário, pois o Tribunal a quo não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do artigo 97 da Constituição Federal, mas apenas interpretou norma infraconstitucional que disciplina a matéria. Nesse sentido, menciono os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO DE RISCO DE POLICIAMENTO OSTENSIVO. LEI COMPLEMENTAR ESTADUAL 59/2004. EXTENSÃO AOS INATIVOS E PENSIONISTAS. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. RESERVA DE PLENÁRIO. VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I - A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional local aplicável ao caso (Lei Complementar estadual 59/2004). A afronta à Constituição, se ocorrente, seria indireta. Incidência da Súmula 280 do STF. Precedentes.
+    II - Não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional ou afastar sua aplicação com apoio em fundamentos extraídos da Lei Maior.
+    III - Agravo regimental a que se nega provimento.” (ARE 784.179-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 17/2/2014)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CARTEIRA NACIONAL DE HABILITAÇÃO. INFRAÇÃO ADMINISTRATIVA. EXPEDIÇÃO DA CNH. INTERPRETAÇÃO DO CÓDIGO DE TRÂNSITO BRASILEIRO. ART. 97 DA CF/88 E SÚMULA VINCULANTE Nº 10. AUSÊNCIA DE VIOLAÇÃO. PRECEDENTES.
+    A jurisprudência do Supremo Tribunal Federal é firme no sentido de que não há violação ao princípio da reserva de plenário quando o acórdão recorrido apenas interpreta norma infraconstitucional, sem declará-la inconstitucional, ou afasta sua aplicação com apoio em fundamentos extraídos da Constituição Federal. Precedentes.
+    Ausência de argumentos capazes de infirmar a decisão agravada.
+    Agravo regimental a que se nega provimento.” (ARE 767.313-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 26/3/2015)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de março de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
