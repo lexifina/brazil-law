@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) ausência de prequestionamento dos arts. 113, 187, 422 e 1.007 do CC/2002, (b) aplicação da Súmula n. 7/STJ, quanto à tese de ofensa aos arts. 368 e 369 do CC/2002, e (c) não comprovação do dissídio jurisprudencial, por falta de cotejo analítico (e-STJ fls. 557/558).
+O acórdão do TJPR está assim ementado (e-STJ fls. 496/497):
+APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE COBRANÇA. APELAÇÃO CÍVEL. DISSOLUÇÃO IRREGULAR DE SOCIEDADE LIMITADA. SÓCIOS QUE ASSUMIRAM DÉBITOS TRIBUTÁRIOS QUE SERIAM PAGOS DE FORMA PARCELADA. RÉU QUE DEIXOU DE ADIMPLIR COM SUA PARTE NO PAGAMENTO. DIREITO DE REGRESSO DO AUTOR CONTRA O RÉU, NA MEDIDA DE SUA PARTICIPAÇÃO SOCIETÁRIA. TESE DEFENSIVA DE REALIZAÇÃO DE OUTROS PAGAMENTOS QUE PODERIAM SER COMPENSADOS. AUSÊNCIA DE PROVA DE QUE TAIS DÉBITOS FORAM QUITADOS COM RECURSOS ADVINDOS EXCLUSIVAMENTE DO PATRIMÔNIO PESSOAL DO RÉU E NÃO DA EMPRESA. CONDENAÇÃO AO PAGAMENTO DE METADE DO DÉBITO TRIBUTÁRIO VENCIDO E PAGO APENAS PELO AUTOR. SENTENÇA MANTIDA NESTE TOCANTE. RECURSO ADESIVO. ALEGAÇÃO DE DANO MORAL. INOCORRÊNCIA. FATOS CONSTITUTIVOS DO DIREITO NÃO COMPROVADOS. SENTENÇA MANTIDA. RECURSO DE APELAÇÃO CÍVEL DESPROVIDO. RECURSO ADESIVO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 507/520), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente alegou violação:
+(a) dos arts. 113, 187, 422 do CC/2002, pois demonstraria falta de boa-fé do recorrido a oferta da demanda de apuração de haveres, em momento em que a sociedade empresária ainda não dissolvida teria seus custos pagos exclusivamente pelo recorrente, segundo a documentação apresentada nos autos,
+(b) dos arts. 368 e 369 do CC/2002, visto que as dívidas remanescentes da empresa não se resumiriam ao âmbito fiscal, superando os valores demandados na exordial, tendo anexado aos autos as despesas que teria pago sem contraprestação alguma do recorrido, em momento em que a sociedade empresária não possuiria mais faturamento, motivo por que seu direito de crédito deveria ser observado com fundamento na compensação pleiteada, e
+(c) do art. 1.007 do CC/2002, porque seria sócio com igual número de cotas sociais que o recorrido, exercendo conjuntamente a administração da empresa, conforme previsto no contrato social, justificando a compensação como meio eficaz de solução da lide.
+Apontou dissídio jurisprudencial, pois o acórdão impugnado destoaria de julgados desta Casa (e-STJ fls. 512/515).
+Não foram apresentadas contrarrazões (e-STJ fl. 556).
+No agravo (e-STJ fls. 561/573), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 575).
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+De tais ônus o recorrente não se desincumbiu, pois se limitou a transcrever ementas dos julgados a partir dos quais sustentou o dissenso interpretativo. Assim, inviável conhecer do recurso no ponto. A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS. DISSÍDIO JURISPRUDENCIAL. TERMO INICIAL DA OBRIGAÇÃO DE PAGAMENTO DAS DESPESAS CONDOMINIAIS. ENTREGA DAS CHAVES. INVALIDADE DE CLÁUSULA CONTRATUAL. ACÓRDÃO RECORRIDO FIRMADO NAS CIRCUNSTÂNCIAS FÁTICAS E NOS TERMOS DO CONTRATO FIRMADO ENTRE AS PARTES. SÚMULAS Nºs 5 E 7 DO STJ. DISSENSO JURISPRUDENCIAL NÃO DEMONSTRADO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. O recorrente não realizou o necessário cotejo analítico entre os julgados trazidos a confronto, restringindo-se à mera transcrição de ementas e passagens de julgados, sem evidenciar a similitude entre o casos confrontados e a disparidade nas suas conclusões, como o exigem os arts. 541, caput, do CPC/73 e 255, §§ 1º e 2º, do RISTJ.
+(..)
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp n. 1.005.580/SC, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/3/2017, DJe 11/4/2017.)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REVISÃO CONTRATUAL C/C DECLARAÇÃO DE NULIDADE DE ATO ADMINISTRATIVO E CONSIGNAÇÃO EM PAGAMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+3. Não restou demonstrada, na hipótese, a divergência jurisprudencial na forma prevista no artigo 541 do CPC/1973 (art. 1.029, CPC/2015) e no artigo 255 do RISTJ. Ademais, a mera transcrição de ementas não satisfaz as exigências para a demonstração do dissídio jurisprudencial.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016.)
+A Corte local não se manifestou quanto aos arts. 113, 187, 422 e 1.007 do CC/2002. Dessa forma, não havendo aclaratórios opostos e sem ter sido objeto de debate na decisão recorrida, a matéria carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+A Corte de origem entendeu que não foi evidenciado que seriam o autor e o réu, ao mesmo tempo, credor e devedor um do outro, requisito primário para a compensação, uma vez que o recorrente não demonstrou ter saldado, de forma exclusiva e com seu patrimônio - não com os bens da própria empresa -, os débitos da pessoa jurídica, tendo em vista que (e-STJ fls. 500/501):
+10. Sustenta o apelante que as dívidas remanescentes da empresa não se resumiram ao âmbito fiscal, sendo que inúmeros compromissos foram saldados por ele exclusivamente, totalizando o valor atualizado de R$ 102.098,07. Defende, assim, a improcedência do pedido do autor, com fundamento na compensação dos valores.
+11. Note-se, inicialmente, que o apelante não nega que seria responsável pela metade do pagamento do parcelamento realizado junto à Receita Federal. Alega apenas que a cobrança efetivada por meio da presente ação deveria ser julgada improcedente, com fundamento na possibilidade de compensação.
+12. Entretanto, em que pese tenha colacionado aos autos diversos documentos (fls. 194/264) que indicam o pagamento de débitos referentes a ações trabalhistas, honorários advocatícios, fornecedores de produtos, combustível, entre outros, não restou comprovado que foram saldadas às suas expensas exclusivas e não com o dinheiro decorrente do patrimônio da própria empresa.
+13. Com efeito, não restou evidenciado serem o autor e o réu ao mesmo tempo credor e devedor um do outro, requisito primário para a compensação (art. 368 do CC).
+14. Por outro lado, o apelado comprovou ter pago as prestações mensais relativas ao parcelamento PAES, desde novembro de 2005 até que este restasse cancelado (fls. 70/151).
+O TJPR concluiu que havia o direito de regresso do recorrido contra o recorrente, em relação ao débito tributário, visto que (e-STJ fl. 502):
+15. Como bem consignado pelo juiz a quo, a obrigação do autor e do réu perante o credor tributário é solidária, de forma que existe o direito de regresso com relação aos valores já desembolsados apenas pelo autor, ora apelante.
+16. Escorreita, portanto, a decisão recorrida no sentido de condenar o réu, ora apelante. a pagar ao autor a metade dos tributos já liquidados por ele.
+17. Logo, não merece provimento o recurso de apelação.
+Ultrapassar os fundamentos do acórdão impugnado, para acolher a tese de que haveria nos autos prova de que o recorrente teria quitado com recursos próprios os débitos da sociedade empresária, tornando possível a compensação pleiteada, exigiria o reexame do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Registre-se, por fim, que a incidência da Súmula n. 7/STJ também obsta o conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional, pois impede que se verifique a similitude fática entre os acórdãos confrontados. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. REEXAME DE PROVAS E INTERPRETAÇÃO CONTRATUAL, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. CONHECIMENTO DE RECURSO, AINDA QUE POR DIVERGÊNCIA JURISPRUDENCIAL, QUE EXIJA REVISÃO DA MOLDURA FÁTICA APURADA PELA CORTE DE ORIGEM. INVIABILIDADE.
+1. Orientam as Súmulas 5 e 7/STJ que, em sede recurso especial, é inviável interpretação contratual e reexame de provas.
+2. Conforme a remansosa jurisprudência desta Corte, a Súmula 7/STJ obsta também o conhecimento do recurso especial interposto pela alínea "c", do permissivo constitucional.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 914.335/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/9/2012, DJe 1º/10/2012.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+O agravo nos próprios autos foi interposto na vigência do CPC/2015 (e-STJ fl. 559), sendo-lhe aplicável a disposição inserta no art. 85, § 11, da nova lei processual (conforme orientação emanada do Enunciado n. 7 aprovado no Plenário do STJ em 16/3/2016, segundo a qual somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC).
+Em tal circunstância, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, fazendo-o com fundamento no art. 85, § 11, do CPC/2015, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
