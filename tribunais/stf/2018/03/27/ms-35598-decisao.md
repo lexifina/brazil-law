@@ -1,0 +1,34 @@
+Decisão: Trata-se de mandado de segurança com pedido de liminar, impetrado por Josué Eraldo da Silva, contra ato do Conselho Nacional do Ministério Público que, nos autos do Processo Administrativo Disciplinar 1.00700/2016-23, determinou expedição de ofício ao Procurador-Geral de Justiça do Estado de São Paulo, para que informasse, no prazo de 60 dias, sobre a propositura de ação civil pública por improbidade administrativa referente aos fatos descritos naqueles autos.
+    O impetrante afirma que o CNMP, ao apreciar o PAD 1.00700/2016-23, assentou a ocorrência de associação criminosa e a prática de outros crimes envolvendo o Promotor de Justiça Fernando Góes Grosso, ele e terceira pessoa.
+    Aduz que, na ocasião, o Conselho fixou o prazo de 60 dias pra que o MP/SP ajuizasse ação de perda de cargo contra o referido Promotor. Também determinou que fosse ajuizada ação de improbidade administrativa referente aos fatos descritos nos autos do PAD, ou que fossem externados os motivos que justificariam o não ajuizamento da demanda.
+    Sustenta que apesar de a segunda determinação do CNMP ter influência direta sobre sua pessoa, uma vez que concluiu pela sua participação no cometimento de ilícitos, não foi chamado a exercer seu direito de defesa no âmbito do PAD em questão.
+    A esse propósito, afirma o seguinte:
+    “O único contato que este Impetrante teve com o processo administrativo disciplinar foi na condição de testemunha, inclusive arrolado pela própria Corregedoria Nacional.
+    Jamais foi intimado para tomar ciência dos autos na condição de interessado, constituir advogado e muito menos para apresentar documentos e eventuais alegações que pudessem interferir na decisão que de fato adotou juízo de valor em seu desfavor e determinar providencias concretas contra ele”.
+    Assim, defende a ocorrência de violação ao seu direito líquido e certo ao contraditório e à ampla defesa.
+    Informou ainda a existência de ação penal em trâmite perante o TJ/SP acerca dos mesmos fatos. Afirma que o Tribunal rejeitou a denúncia com relação ao delito de associação criminosa, o que comprova o real prejuízo do impetrante, que sofreu a determinação de ser processado por improbidade administrativa por ilícito expressamente afastado pelo TJSP
+    Por fim, requer a anulação do processo administrativo disciplinar em questão, para que lhe seja propiciado prévio direito ao contraditório e à ampla defesa.
+    Decido.
+    Não assiste razão ao impetrante.
+    Extrai-se dos autos que o CNMP instaurou processo administrativo disciplinar em desfavor do Promotor de Justiça Fernando Goés Grosso, membro do Ministério Público do Estado de São Paulo, para apuração de diversas infrações disciplinares puníveis com a pena de demissão, as quais, pelo fato de também serem capituladas como crime, estavam sendo objeto de persecução penal.
+    Ao apreciar o mérito, julgou parcialmente procedente o PAD para aplicar a sanção de demissão ao Promotor de Justiça. Na ocasião, o Conselho também fez as seguintes determinações:
+    “Com essas considerações, na esteira da jurisprudência, além de indicar a penalidade de demissão ao membro ministerial processado, voto no sentido de que seja fixado o prazo de 60 (sessenta) dias, a contar do trânsito em julgado do acórdão este CNMP, para que o Ministério Público do Estado de São Paulo, por intermédio da Procuradoria-Geral de Justiça, ajuíze ação de perda de cargo.
+    Demais disso, voto no sentido de determinar a expedição de ofício ao douto Procurador-Geral de Justiça do Ministério Público do Estado de São Paulo para que informe, no prazo de 60 (sessenta) dias, sobre a propositura (ou não) de ação civil pública por ato de improbidade administrativa concernente aos fatos descritos nestes autos, informando a este Conselho Nacional, caso não tenha sido proposta a referida ação, os motivos pelos quais resultaram no não ajuizamento daquela demanda”.
+    O impetrante afirma que a citada decisão o teria envolvido com fatos graves, sem que lhe fosse oportunizado o contraditório e a ampla defesa, e ainda determinado o ajuizamento de ação de improbidade em seu desfavor.
+    Sobre a competência do CNMP, a Constituição Federal estabelece o seguinte:
+    “§ 2º Compete ao Conselho Nacional do Ministério Público o controle da atuação administrativa e financeira do Ministério Público e do cumprimento dos deveres funcionais de seus membros, cabendo lhe:
+    I zelar pela autonomia funcional e administrativa do Ministério Público, podendo expedir atos regulamentares, no âmbito de sua competência, ou recomendar providências;
+    II zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade dos atos administrativos praticados por membros ou órgãos do Ministério Público da União e dos Estados, podendo desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao exato cumprimento da lei, sem prejuízo da competência dos Tribunais de Contas;
+    III receber e conhecer das reclamações contra membros ou órgãos do Ministério Público da União ou dos Estados, inclusive contra seus serviços auxiliares, sem prejuízo da competência disciplinar e correicional da instituição, podendo avocar processos disciplinares em curso, determinar a remoção, a disponibilidade ou a aposentadoria com subsídios ou proventos proporcionais ao tempo de serviço e aplicar outras sanções administrativas, assegurada ampla defesa;
+    IV rever, de ofício ou mediante provocação, os processos disciplinares de membros do Ministério Público da União ou dos Estados julgados há menos de um ano;
+    V elaborar relatório anual, propondo as providências que julgar necessárias sobre a situação do Ministério Público no País e as atividades do Conselho, o qual deve integrar a mensagem prevista no art. 84, XI”.
+    Feitas essas considerações, conclui-se que a competência disciplinar do CNMP restringe-se ao âmbito institucional, de modo que não lhe é franqueada a aplicação de qualquer sanção a particulares.
+    Assim, apesar de a decisão do CNMP citar o nome do impetrante, não há que se falar em necessidade de abertura de contraditório e ampla defesa, já que não pode ser penalizado pelo Conselho.
+    Ademais, o simples encaminhamento de ofício ao Ministério Público de São Paulo para que informe sobre a propositura de ação de improbidade administrativa em virtude dos fatos narrados na decisão, não possui caráter cogente, mas meramente indicativo. Além disso, sequer houve menção ao nome do impetrante no âmbito da referida determinação, de modo que não verifico violação a direito líquido e certo.
+    Dessa forma, não verifico violação a direito líquido e certo a dar ensejo à concessão da segurança.
+    Ante o exposto, nego seguimento ao mandado de segurança, prejudicado o pedido liminar (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
