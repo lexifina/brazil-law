@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO QUE OBJETIVA A DECLARAÇÃO DE NULIDADE OU ANULABILIDADE DE ESCRITURA DE COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL E DE FALHA NA FUNDAMENTAÇÃO. VÍCIOS CAPAZES DE INVALIDAR O NEGÓCIO JURÍDICO. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+MARIA MARTA MOYSÉS (MARIA) ajuizou ação com o objetivo de declarar nula ou anulável escritura de compra e venda com pedido de antecipação de tutela contra [NOME] ([NOME]), IDEAL IMOBILIÁRIA (IDEAL) e VERÔNICA RAMOS ZERBINATO (VERÔNICA), que foi julgada improcedente.
+A reconvenção apresentada por [NOME] (JOÃO) contra MARIA também foi julgada improcedente.
+Os embargos de declaração interpostos por MARIA foram rejeitados. (e-STJ fls. 796)
+A apelação interposta por MARIA não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+ANULATÓRIA DE NEGÓCIO JURÍDICO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS - Improcedência da ação e das reconvenções - Ausência de prova do vício de consentimento alegado pela autora - Autora que tinha pleno conhecimento dos termos do negócio e a ele anuiu livremente - Arrependimento posterior quanto ao valor da transação que não é causa de invalidação do negócio - Honorários advocatícios corretamente arbitrados - Sentença mantida - Recurso desprovido.
+Os embargos de declaração interpostos foram rejeitados. (e-STJ fls. 861)
+Inconformada, MARIA interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 489, § 1º, inc. II e IV, e 535 do CPC/73, e 171, 185 e 145 do CC/02 ao sustentar que (1) houve falha na fundamentação, pois não foi demonstrado o claro convencimento em suas restritas premissas de que não ocorreu a coação, o dolo e o vício de consentimento; (2) houve coação e vício de consentimento na venda do imóvel em questão e irregularidades praticadas pelo [NOME], pois insistia para a ora recorrente assinar a escritura por valor bem menor da avaliação do imóvel, bem como retirava e transportava indevidamente o Livro de Escritura do Cartório, e (3) houve omissão dolosa dos recorridos a respeito do valor real do terreno.
+O apelo nobre não foi admitido em virtude (I) da ausência de negativa de prestação jurisdicional e de falha na fundamentação; (II) incidência da Súmula 7 do STJ.
+Nas razões do presente agravo em recurso especial, MARINA sustentou que (a) houve omissão no acórdão recorrido e falha na fundamentação, e (b) não é caso de incidência da Súmula 7 do STJ.
+Foi apresentada impugnação (e-STJ, fls. 899/907 e 911/912).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+Dos arts. 535 e 489, § 1º, inc. II e IV, do CPC/73
+No julgamento da apelação, o Tribunal de origem fundamentou que a autora tinha pleno conhecimento dos termos do negócio e que cabe à Fazenda tomar as providências quanto à eventual tributo sonegado, assim consignando:
+"Ao contrário do que sustenta a recorrente, ausente a comprovação de vício capaz de invalidar o negócio.
+A autora tinha conhecimento do valor da escritura R$ 33.30,00), e a ela anuiu, ausente prova da coação alegada, aliás, sequer descrita de forma consistente na inicial.
+Ainda que se considere que o valor do negócio foi efetivamente acima daquele constante na escritura, a autora também a ele tinha concordado, conforme documento por ela subscrito e endereçado à imobiliária (fl. 194). Aliás, ao que parece, a autora recebeu sua parte levando em consideração o valor por ela autorizado de R$ 60.000,00, seja porque este realmente seria representativo da transação, ou porque os demais herdeiros cederam parte do que lhes cabia para que o negócio pudesse ser efetivado.
+A autora tinha pleno conhecimento dos termos do negócio, não podendo se dizer enganada ou ludibriada pela atuação do corretor, dos demais herdeiros ou da compradora.
+Na verdade, o que transparece da prova dos autos é que a autora se arrependeu do valor da venda do imóvel, pois teve conhecimento de que o terreno podia, à época, alcançar importância maior. O arrependimento posterior não é causa de nulidade ou anulação do negócio. Deveria ter tomado essas cautelas antes da conclusão do negócio, mas coação, dolo ou lesão não estão configurados na espécie.
+Sc a escritura foi lavrada por valor menor, compete à Fazenda tomar as providências necessárias quanto à fiscalização e eventual cobrança do tributo sonegado, mas isso também não é causa de anulação do negócio, perfeito e acabado, onde as partes livremente manifestaram sua concordância. (e-STJ Fl. 851/852)
+Nos embargos declaratórios, a ora recorrida sustenta, em síntese, que houve falha na fundamentação do acórdão recorrido, pois não foi demonstrado o claro convencimento em suas restritas premissas de que não ocorreu a coação, o dolo e o vício de consentimento
+Entretanto, verifica-se que o tribunal de origem analisou as questões que lhe pareceram necessárias à solução da causa, encontrando-se o acórdão fundamentado de forma a não ensejar dúvidas acerca das razões de ordem jurídica que lhe deram sustentação.
+O princípio da persuasão racional, habilita o magistrado a valer-se do seu convencimento, à luz dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto.
+Não há negativa de prestação jurisdicional se o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, enfrentando os argumentos capazes de, em tese, afirmar a conclusão adotada na sentença recorrida.
+Assim, houve manifestação sobre o tema, só que de forma contrária à pretensão dos recorrentes, o que não caracteriza nenhum dos vícios do art. 535 do CPC/73 (art. 1.022 do NCPC).
+Dos arts. 171, 185 e 145 do CC/02
+Conforme trecho do acórdão recorrido acima transcrito, a Corte estadual, após análise do conjunto fático probatório dos autos, concluiu que não foram comprovados vícios capazes de invalidar o negócio jurídico.
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de MARIA, nos termos do art. 85, § 11 do NCPC. Ressalte-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária foi estipulada com base na equidade.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
