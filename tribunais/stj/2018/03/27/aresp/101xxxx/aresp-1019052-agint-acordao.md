@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por [NOME] contra a decisão de e-STJ fls. 360/363, na qual, com base no art. 253, parágrafo único, II, "a", do RISTJ, conheci do agravo para não conhecer do recurso especial, ao entendimento de que, para análise aprofundada da matéria posta pela recorrente seria necessário o revolvimento de matéria fático-probatória constante dos autos, o que é vedado, diante do óbice da Súmula 7 do STJ.
+Alega a agravante que o inconformismo "não é pela comprovação de que o acidente que vitimou seu filho, o militar [NOME], ocorreu ou não em serviço. (..) O inconformismo é pela aplicação da Lei Federal, que no caso é o artigo 15, parágrafo único inciso II, da Lei nº 3.765/60" (e-STJ fl. 369).
+Busca, assim, a reconsideração da decisão monocrática ou a submissão do feito ao Órgão colegiado.
+Não houve impugnação (e-STJ fl. 375).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Primeiramente, registre-se que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, não obstante os argumentos expendidos, a decisão agravada não merece reforma.
+Com efeito, consoante anteriormente explicitado, quanto à alegação de que o acidente que vitimou o filho da agravante ocorreu quando se encontrava em serviço - assim considerado o período de deslocamento entre o local de serviço e sua residência -, observa-se que para sua comprovação, seria necessário o revolvimento de matéria fático-probatória constante dos autos, o que é inviável, no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ, sobretudo diante da conclusão a que chegou o Tribunal a quo (e-STJ fl. 297):
+ ..
+Ora, os elementos de prova carreados aos autos pela autora NÃO foram capazes de alterar a convicção da Administração castrense de que o acidente que acabou por vitimar o filho da autora ocorreu depois que ele havia se deslocado definitivamente do local de trabalho para a residência, inclusive levando em conta o depoimento dado pela própria autora desta ação.
+Ao contrário, o Boletim de Acidente de Trânsito atesta que o acidente ocorreu às 19:30 horas do dia 29/01/2009 (fl. 132), e os depoimentos testemunhais de fls. 194/196 não afastam a convicção de que o acidente ocorreu depois do retorno ao lar.
+Nesse sentido a jurisprudência:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MILITAR TEMPORÁRIO. INCAPACIDADE DEFINITIVA PARA O SERVIÇO ATIVO DAS FORÇAS ARMADAS. REINTEGRAÇÃO E REFORMA. IMPOSSIBILIDADE. ARTS. 106, II, E 108, III E IV, DA LEI 6.880/80. DANO MORAL. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTO NÃO IMPUGNADO, NAS RAZÕES RECURSAIS. APLICAÇÃO DA SÚMULA 182/STJ. PEDIDO DE REINTEGRAÇÃO PARA TRATAMENTO MÉDICO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. ACÓRDÃO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA AUSÊNCIA DE RELAÇÃO DE CAUSA E EFEITO A CONDIÇÕES INERENTES AO SERVIÇO MILITAR. IMPOSSIBILIDADE DE REVISÃO, EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+V. Hipótese em que, fundado o pedido do autor, ora agravante, militar temporário, no art. 108, III e IV, da Lei 6.880/90, o acórdão recorrido, não obstante afirme a existência de lesão incapacitante apenas para o serviço militar, que teria eclodido durante o tempo de serviço militar, não reconhece o nexo de causalidade com o labor castrense, a ensejar a reforma pretendida.
+VI. Tendo o Tribunal de origem, com base na apreciação do conjunto probatório dos autos, notadamente da prova pericial, afastado a existência de nexo de causalidade entre as lesões existentes nos ombros do autor, decorrentes de acidente de motocicleta, e o serviço castrense, infirmar tal conclusão é medida vedada, na via do Recurso Especial, a teor da Súmula 7 do STJ.
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no REsp 1.608.659/RN, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJE 27/03/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTO. NOTIFICAÇÃO DE LANÇAMENTO. PUBLICAÇÃO NO DIÁRIO OFICIAL. QUEBRA DE SIGILO FISCAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DESTA CORTE. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. INCIDÊNCIA. DANOS MORAIS. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 198 do CTN, apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.).
+2. A análise da questão recorrida demanda necessária interpretação das disposições da Lei Distrital 4.567/11, o que, todavia, afigura-se vedado em sede de recurso especial por atrair a incidência da Súmula 280/STF.
+3. A alteração das conclusões adotadas pela Corte de origem, quanto à ausência de comprovação do dano moral, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto no enunciado 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 721.518/DF, Rel. Min. SÉRGIO KUKINA, DJe 19.8.2015).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
