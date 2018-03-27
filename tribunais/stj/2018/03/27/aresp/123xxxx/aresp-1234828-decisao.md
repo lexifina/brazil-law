@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO AO ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. IPTU. INCONSTITUCIONALIDADE RECONHECIDA DE OFÍCIO. MATÉRIA DE ORDEM PÚBLICA. INEXISTÊNCIA DE PRECLUSÃO. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 128 DO CPC/1973. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGO-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do MUNICÍPIO DE SÃO PAULO fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EXECUÇÃO FISCAL - IPTU - Exercício de 1999 - Município de São Paulo - Extinção em primeiro grau, nos termos do artigo 618, I, do CPC/73 - Imunidade tributária reconhecida de ofício - Possibilidade - Inteligência do art. 267, § 3º, daquele diploma legal - Autarquia Estadual - Imunidade recíproca a impostos - Art. 150, VI "a", § 2a, da CF - Desnecessidade de reconhecimento administrativo da benesse - Precedentes desta C. Corte e do E. STJ - Sentença mantida - Apelo da municipalidade improvido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte recorrente aponta violação aos artigos 128, 262 e 460 do CPC/73. Alega que houve julgamento extra petita, porquanto o pedido referente ao reconhecimento da inconstitucionalidade das cobranças do IPTU não foi formulado na inicial de embargos.
+Contrarrazões apresentadas às e-STJ fls. 125/127.
+Sobreveio juízo negativo de admissibilidade fundado na incidência dos Enunciados de Súmula nº 282 e 356/STF.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, os dispositivos apontados como violados estão devidamente prequestionados.
+Contraminuta apresentada às e-STJ fls. 138/139.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo porquanto refutado o fundamento utilizado no juízo de admissibilidade.
+De início, os arts. 262 e 460 do CPC/1973 não comportam exame no âmbito desta Corte de Justiça, porquanto ausente o necessário prequestionamento.
+O conhecimento da matéria trazida a esta Corte por meio de recurso especial pressupõe a ocorrência de prévio questionamento realizado na origem, isto é, efetivo juízo de valor sobre o tema objeto das razões recursais. Na espécie, observa-se que o Tribunal a quo não proferiu pronunciamento a respeito dos artigos 262 e 460 do CPC/73, sequer implicitamente, porque prescindia de motivos para tanto, ou porque não fora provocado. Se a parte entendesse que persistiam vícios no acórdão deveria cuidar de opor o recurso aclaratório na origem, providência que não foi observada. Impõe-se, desse modo, o não conhecimento do recurso especial por ausência de prequestionamento, nos termos das Súmulas nº 282 e nº 356/STF.
+Relativamente ao art. 128 do CPC/1973, a insurgência não prospera. Esta Corte possui entendimento pacífico no sentido de que o reconhecimento da inconstitucionalidade de tributo é matéria de ordem pública, sobre a qual não opera a preclusão, podendo o juiz, inclusive, reconhecê-la de ofício. Isso porque a inconstitucionalidade reconhecida fulmina pressuposto de validade da correspondente execução fiscal.
+Nesses termos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. ARGÜIÇÃO DE INCONSTITUCIONALIDADE DE TRIBUTO INVOCADA ORIGINARIAMENTE NA APELAÇÃO DOS EMBARGOS À EXECUÇÃO FISCAL. PRECLUSÃO. NÃO OCORRÊNCIA. MATÉRIA DE COGNOSCÍVEL DE OFÍCIO.
+1. Embargos de divergência manejados com o escopo dirimir dissenso jurisprudencial acerca da não ocorrência de preclusão para se arguir inconstitucionalidade de tributo em sede de apelação ainda que tal matéria não tenha sido ventilada no processamento dos embargos à execução.
+2. As matérias de ordem pública não estão sujeitas à preclusão, motivo pelo qual podem ser originariamente arguidas e apreciadas em sede de apelação.
+3. A inconstitucionalidade de tributo inscrito na Dívida Ativa fulmina pressuposto de validade da correspondente execução fiscal e deve ser conhecida de ofício, nos termos do art. 267, § 3º, do CPC.
+4. Se é possível apreciar inconstitucionalidade de tributo em sede de exceção de pré-executividade (AgRg no Ag 1.086.746/RJ, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJe 19/3/2009; AgRg no Ag 1.051.126/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 12/2/2009; AgRg no Ag 888.176/RJ, Rel. Min. Luiz Fux, Primeira Turma, DJe 18/6/2008; AgRg no REsp 600.986/RJ, Rel. Ministro Humberto Martins, Segunda Turma, DJe 17/3/2008), não há razão para obstar o conhecimento dessa mesma matéria, de ofício, pelo Tribunal de apelação. 5. Embargos de divergência providos. (EAg 724.888/MG, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe de 22.6.2009)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
