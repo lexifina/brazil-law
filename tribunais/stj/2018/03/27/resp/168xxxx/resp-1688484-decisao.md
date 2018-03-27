@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado, por unanimidade, pela 8ª Turma do Tribunal Regional Federal da 3ª Região no julgamento de agravo legal em apelação, assim ementado (fl. 202e):
+AGRAVO LEGAL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA OU APOSENTADORIA POR INVALIDEZ. INCAPACIDADE LABORATIVA ANTERIOR AO REINGRESSO AO RGPS. AUSÊNCIA DA QUALIDADE DE SEGURADO. AGRAVO IMPROVIDO.
+1. A parte agravante não trouxe subsídios suficientes para afastar a aplicação do art. 557 do Código de Processo Civil. Ademais, cumpre registrar que é iterativa a jurisprudência desta Colenda Corte no sentido de que o órgão colegiado não deve modificar a decisão do Relator, salvo na hipótese em que a decisão impugnada não estiver devidamente fundamentada, ou padecer dos vícios da ilegalidade e abuso de poder, e for passível de resultar lesão irreparável ou de difícil reparação à parte.
+2. In casu, a incapacidade laborativa atingiu o autor anteriormente ao seu reingresso ao RGPS. Não há elementos que atestam que a incapacidade ocorreu enquanto detinha a qualidade de segurado, razão pela qual não há como se conceder o benefício pleiteado.
+3. Agravo legal improvido
+Opostos embargos de declaração, foram rejeitados (fls. 215/223e).
+Com amparo no art. 105, III, a, da Constituição da República, o Recorrente aponta, inicialmente, ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil de 2015, e 93, IX, da Constituição da República, aduzindo negativa de prestação jurisdicional.
+Alega que o acórdão recorrido teria sido omisso quanto à análise de questão relativa ao benefício de aposentadoria por invalidez, qual seja, a progressão de doença incapacitante (fl. 229e). Assinala que, "(..) se a "incapacidade" teve início em 2006 e se o Recorrente, mesmo assim, trabalhou até 2010, é possível, ao menos em tese, que tenha havido uma progressão de sua doença, que se caracteriza ademais por ser uma "degeneração", que evolui com a "redução da amplitude de movimentos das articulações" (fls. 90) e, nessa medida, agrava a dor até a tornar insuportável, tal como se deu no presente caso. Sobre tal progressão, portanto, deveria ter decidido o MM. Juízo a quo, confirmando-a ou a negando, o que, efetivamente, não ocorreu" (fl. 230e).
+No mais, sustenta ofensa ao art. 42, § 2º, da Lei n. 8.213/91, postulando o benefício de aposentadoria por invalidez. Para tanto, assevera, com base no aludido preceito, que (fl. 232e, destaques no original):
+"Trata-se de uma exceção de uma exceção à regra segundo a qual, "uma vez cumprida, quando for o caso, a carência exigida", o benefício de aposentadoria por invalidez será devido ao segurado que "for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, e ser-lhe-á paga enquanto permanecer nesta condição" (art. 42, caput, da Lei nº 8.213/1991).
+Desse modo, se, consoante as regras hermenêuticas, as exceções devem ser interpretadas restritivamente, então as exceções às exceções devem ser interpretadas de forma ampla.
+Pois a ratio do texto legal visa sobretudo a evitar que uma pessoa que já esteja incapacitada recolha algumas poucas contribuições para se ver amparada previdenciariamente por tempo indefinidamente longo.
+Ocorre que o mesmo texto legal resguarda o direito daquelas pessoas que, estando doentes ao se (re)filiarem ao RGPS, venham a piorar ao ponto de se tornarem incapazes.
+Este é o caso dos autos, em que o agravamento da doença do Recorrente se faz patente, sobretudo na seguinte passagem do laudo pericial, frise-se: "A partir do ano de 2006 começou a apresentar dor nas pernas, que foi piorando progressivamente" (fls. 88, g. n.).
+Sem contrarrazões (fl. 236e), o recurso foi inadmitido (fls. 238/240e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 257e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Assiste razão ao Recorrente quanto à violação do art. 1.022 do Código de Processo Civil.
+Com efeito, no julgamento do recurso integrativo, o tribunal de origem assinalou que (fl. 219e):
+No caso vertente, não há se falar em omissão a respeito da progressão da moléstia, eis que o acórdão recorrido foi expresso ao pontuar que, com base nas constatações periciais, a incapacidade do autor teve início no ano de 2006, ou seja, anteriormente ao seu reingresso ao RGPS - Regime Geral de Previdenciária Social, em outubro de 2008.
+Como se vê, embora tenha feito menção ao termo "progressão da moléstia", aquela corte se restringiu a afirmar que a incapacidade do autor teve início anteriormente ao seu reingresso no Regime Geral de Previdenciária Social - RGPS, deixando, contudo, de analisar - à luz da exceção prevista na segunda parte do § 2º do art. 42 da Lei n. 8.213/1991 e das provas dos autos -, se a doença de que o segurado já era portador progrediu ou se agravou após o aludido reingresso no RGPS.
+Trata-se de questão probatória relevante, oportunamente suscitada (na apelação e nos embargos), e que, se acolhida, poderia levar o julgamento a um resultado diverso do proclamado. Ademais, a não apreciação das teses, à luz dos dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+Caracterizadas, portanto, as omissões, como o demonstram os seguintes arestos:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ART. 535 DO CPC. EXISTÊNCIA DE OMISSÃO NÃO SANADA. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Necessidade da análise de questão relacionada à decadência do direito de anulação do ato de demarcação das terras de marinha no Município de Joinville, por ter sido a ação ajuizada mais de cinco anos depois da homologação do procedimento administrativo que determinou a linha preamar média de 1831.
+3. Recurso especial da UNIÃO provido.
+4. Recurso especial de H CARLOS SCHNEIDER S/A COMÉRCIO INDÚSTRIA prejudicado.
+(REsp 1343519/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/11/2013, DJe 20/11/2013).
+PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Recurso especial provido.
+(REsp 1213515/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012).
+Nesse sentido: REsp 1.529.187/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe de 01.06.2015; REsp 1.444.331/ES, Rel. Min. Benedito Gonçalves, DJe de 18.05.2015; REsp 1.502.033/MG, DJe de 05.06.2015; dentre outros.
+Isto posto, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial para determinar o retorno dos autos ao tribunal a quo a fim de que seja suprida a omissão indicada.
+Prejudicada a análise das demais questões trazidas no especial.
+Publique-se e intimem-se.
