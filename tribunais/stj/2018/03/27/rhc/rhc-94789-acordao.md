@@ -1,0 +1,32 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. FUNDAMENTOS CONCRETOS. REITERAÇÃO DELITIVA. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA.
+1. A prisão preventiva é cabível mediante decisão devidamente fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada e mantida com motivação idônea, considerando-se as circunstâncias do crime e o fundado receio de reiteração delitiva (tirado do fato de o recorrente responder a outro processo criminal pelo crime de tráfico de drogas). Isso confere lastro de legitimidade à manutenção da medida extrema.
+3. Condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar sua necessidade, como na espécie.
+4. Recurso em habeas corpus improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de recurso em habeas corpus, com pedido liminar, interposto por [NOME] em razão do acórdão proferido pelo Tribunal de Justiça da Bahia (HC n. 0019572-34.2017.8.05.0000).
+Colhe-se dos autos que o recorrente foi preso em flagrante no dia 14/8/2017, pela suposta prática do crime previsto no art. 157, caput, do Código Penal. O auto de prisão em flagrante foi homologado e a prisão convertida em preventiva pela Juíza do Núcleo de Prisão em Flagrante da comarca de Salvador/BA (fls. 15/16).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, cuja ordem foi denegada pela Primeira Turma da Primeira Câmara Criminal na data de 31/10/2017 (fls. 69/76).
+Daí o presente recurso, no qual se alega, em suma, que não se encontram presentes os requisitos necessários para manutenção da prisão preventiva.
+Sustenta-se que a custódia cautelar está fundamentada na gravidade abstrata do delito, sendo desproporcional a medida imposta ao recorrente.
+Requer-se a revogação da prisão preventiva ou sua substituição por medidas cautelares alternativas.
+Sem contrarrazões.
+O Ministério Público Federal emitiu parecer pelo desprovimento do recurso (fls. 141/146).
+Após consulta realizada ao portal do Tribunal a quo na internet, foi possível observar que a instrução criminal do Processo n. 0552858-40.2017.8.05.0001 não está encerrada.
+É o relatório.
+VOTO
+EXMO SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): De acordo com reiteradas decisões desta Corte, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção, o que, na espécie, ocorreu.
+Confiram-se os fundamentos adotados pela Magistrada de plantão na conversão da prisão em flagrante em preventiva (fls. 15/16 - grifo nosso):
+ ..
+In casu , o delito atribuído é de natureza dolosa e comporta a fixação de pena privativa de liberdade máxima superior a 4 (quatro) anos, caso haja futura condenação. A lavratura do auto de prisão em flagrante não apresenta irregularidades, tendo obedecido aos ditames dos artigos 301 e ss. do Código de Processo Penal. Dos depoimentos e declarações colhidos, bem como do auto de apreensão, podem ser extraídos a prova da materialidade do fato e os indícios suficientes da sua autoria. Também não incide a vedação do art. 314 do CPP, que remete às causas excludentes de ilicitude.
+As medidas cautelares diversas da prisão não se adequam à gravidade do crime, às circunstâncias do fato ou às condições pessoais do flagranteado, vez que é reincidente na prática de delitos, conforme se verifica em sua ficha criminal, havendo praticado crime de natureza grave, mediante a utilização de simulacro de arma de fogo para intimidação da vítima, demonstrando-se, desse modo, sua perigosidade, e apresentando-se a conversão da prisão preventiva como a medida que se impõe, a bem da ordem pública.
+Efetivamente, quando a gravidade concreta, o modus operandi e as circunstâncias do delito indicam a periculosidade real do agente, ou, ainda, se da vida pregressa do flagranteado, sobressai fundado receio de reiteração criminosa, resta plenamente legitimada a decretação ou a manutenção da prisão preventiva. Em tais situações, a constrição da liberdade tem por objetivo proteger a sociedade de pessoas que, uma vez soltas, possam colocar em risco a coletividade e a paz social.
+ ..
+O Tribunal de Justiça, ratificando o decreto preventivo, ressaltou as circunstâncias do crime, bem como asseverou que o fato de o  ..  paciente responder a outra ação penal pelo cometimento de crime de tráfico de drogas (processo nº 0392966-71.2012.805.0001) e tal fato, embora não retire a sua primariedade, visto que não lhe pesa nenhuma sentença condenatória transitada em julgado, indica, em bases contundentes a sua aparente dedicação à prática delitiva (fl. 76).
+Não é outra a opinião da Subprocuradora-Geral da República Julieta Fajardo Cavalcanti de Albuquerque, pelo que consta do parecer de fls. 396/398.
+De fato, temos decidido que o risco de reiteração delitiva - elemento concreto capaz de justificar a necessidade da prisão cautelar - pode ser extraído inclusive de inquéritos, ações penais em curso e de atos infracionais anteriormente praticados. Nesse sentido, por exemplo, o HC n. 299.156/MG, de minha relatoria, Sexta Turma, DJe 17/11/2014; o RHC n. 36.316/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 7/3/2014; o RHC n. 48.897/MG, Ministro Felix Fischer, Quinta Turma, DJe 13/10/2014; e o HC n. 293.389/PR, Ministra Laurita Vaz, Quinta Turma, DJe 22/8/2014; e RHC n. 63.855/MG, Terceira Seção, DJe 13/6/2016.
+Ademais, é consabido que eventuais condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a custódia antecipada, quando, como na hipótese, estão presentes os requisitos autorizadores da decretação da medida constritiva de liberdade.
+Nego provimento ao recurso em habeas corpus.
