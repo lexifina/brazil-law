@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 88):
+    “INVENTÁRIO. Abertura de sucessão ocorrida em fevereiro de 1978, sob a égide da Lei Estadual nº 9.591/66 – controvérsia acerca da isenção quanto ao recolhimento do ITBI. Atualização monetária do valor correspondente ao limite legal de isenção previsto na Lei Estadual nº 9.591/66 que não viola o artigo 111 do CTN – correção monetária nada acrescenta, apenas mantem o valor da moeda. Sucessivas alterações de moeda, em razão de elevada inflação – situação fática permite a conclusão de que o quinhão de cada herdeiro não atinge o valor apontado pelo art. 5º, VI, da Lei Estadual nº 9.591/66 como limite para isenção (correção segundo a Tabela Prática do Tribunal de Justiça do Estado de São Paulo). Decisão mantida. Agravo de instrumento não provido.”
+    Os embargos de declaração foram desprovidos (eDOC 1, p. 106).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 150, I e § 6º, da Constituição Federal.
+    Sustenta-se, em síntese, que qualquer isenção tributária está subordinada aos princípios norteadores do nosso sistema constitucional tributário. Assim, a defende que somente a lei instituidora do ITBI no Estado de São Paulo é competente para atualizar os valores dos imóveis para que incida o imposto de transmissão causa mortis (eDOC 1, p. 118).
+    A Presidência da Seção de Direito Privado do Tribunal de Justiça do Estado de São Paulo inadmitiu o recurso extraordinário por considerar ausente o prequestionamento da matéria (eDOC 1, p. 29).
+    É o relatório. Decido.
+    Verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional aplicável à espécie, notadamente o Código Tributário Nacional, a Lei Estadual 9.591/1966. Desse modo, a discussão referente à atualização do valor do imóvel para incidência de ITBI revela-se adstrita ao âmbito infraconstitucional de índole local, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Neste sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS. NATUREZA JURÍDICA DAS VERBAS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+(RE 612173 AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 01.12.2010)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO – ITCMD. JUROS LEGAIS E MULTA. 1. Reserva de plenário. Ausência de contrariedade ao art. 97 da Constituição da República. Inexistência de declaração de inconstitucionalidade de lei federal. Precedentes. 2. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 3. Agravo regimental ao qual se nega provimento”
+(ARE 768206 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe 29.10.2013)
+    Confiram-se, ainda, os seguintes julgados: ARE 1.007.946, de relatoria do Ministro Gilmar Mendes, DJE 18.11.2016; ARE 973.250, de relatoria da Ministra Cármen Lúcia, DJe 28.06.2016; ARE 934.769, Rel. Min. Luiz Fux, DJe 05.04.2016, ARE 868.232, Rel. Min. Dias Toffoli, DJe 07.04.2015 e ARE 775.439, Rel. Min. Gilmar Mendes, DJe 17.10.2013, ARE 1.076.667, de relatoria do Ministro Roberto Barroso, DJe 28.09.2017, ARE 1.071.063, de relatoria do Ministro Marco Aurélio, DJe 11.10.2017.
+    Ante o exposto, desprovejo o agravo, nos termos do art. 932, IV, a, CPC c/c 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 27 de março de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
