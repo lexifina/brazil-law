@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pela POLICLÍNICA SANTA CLARA LTDA., na vigência do CPC/73, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DECADÊNCIA PARCIAL.
+1. Dado que os fatos geradores ocorreram entre janeiro/1996 e dezembro/1998, e o crédito tributário só fora constituído (através de notificação do lançamento) apenas em fevereiro de 2004, a decisão agravada que reconheceu a decadência parcial da execução e determinou o prosseguimento do feito em relação as outras CDAS;
+2. Entretanto, a notificação ao sujeito passivo de qualquer medida preparatória indispensável ao lançamento (Termo de Início da Ação Fiscal - TIAF, datado de fevereiro/2003) importa em manifesta atividade administrativa conducente à constituição do crédito tributário, nos termos do parágrafo único do art. 173 do CTN. Tal significa dizer que descabe considerar-se a consumação do prazo decadencial, ainda que a notificação do lançamento tenha se concretizado apenas em fevereiro de 2004. Com efeito, o agir da administração não é compatível com a decadência, ao menos no que tange aos fatos geradores ocorridos em 1998;
+3. Agravo de instrumento parcialmente provido" (fl. 214e).
+O acórdão em questão foi objeto de Embargos Declaratórios por ambas as parte, rejeitados, nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. DO PARTICULAR E DA FAZENDA NACIONAL. DECISÃO QUE RECONHECEU A DECADÊNCIA DOS CRÉDITOS INSCRITOS RELATIVOS A CDA QUE LASTREIA A EXECUÇÃO FISCAL DE ORIGEM. ACÓRDÃO QUE MANTEVE EM PARTE A COBRANÇA. CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. APLICAÇÃO DE EFEITOS INFRINGENTES. EXCEPCIONALIDADE. PRECEDENTES. IMPOSSIBILIDADE NO CASO CONCRETO. PRETENSÃO DE REFORMA.
+1. Os embargos de declaração têm função integrativa do acórdão com o fito de suprir-lhe omissão, obscuridade ou contradição, por isso, não se prestam à rediscussão da matéria.
+2. Não há possibilidade de nova discussão da demanda, muito menos de reforma das questões decididas porque não dissecados todos os argumentos levantados pelas partes.
+3. A aplicação de efeitos infringentes aos embargos é excepcional, sob pena de utilizar-se este remédio processual como substitutivo do recurso próprio.
+4. Resultado do julgamento do agravo que não guarda contradição com os fundamentos do voto do relator, desde que mantida parte da cobrança relativa aos créditos cujos fatos geradores ocorreram no ano de 1998 (CDA 35.579.470-2).
+5. Embargos conhecidos e improvidos" (fl. 248e).
+Alega-se, nas razões do Recurso Especial, violação ao art. 173, I, do Código Tributário Nacional. Para tanto, sustenta, in verbis:
+"IV.II - Da negativa de vigência ao inciso I do art. 173 do Código Tributário Nacional.
+Preconiza o art. 105, inciso III, alínea "a", que terá cabimento o Recurso Especial interposto contra acórdão que contrarie ou negue vigência à lei federal.
+Pois bem. Sob o prisma fazendário, equivocadamente abraçado pelo acórdão recorrido, o prazo decadencial para constituição do crédito seria eternizado por mera notificação do termo de início de fiscalização, negando vigência ao inciso I do art. 173 do CTN, que determina o inicio da contagem no primeiro dia do exercício seguinte.
+Rechaçando essa tese, o Exmo. Desembargador Relator do Agravo de Instrumento do qual emanou o presente Recurso Nobre confirmou a decisão de primeiro grau, nos seguintes termos:
+(..)
+Não poderiam ser mais felizes as palavras do Douto Julgador. De fato, o inciso I do artigo 173 do CTN traz a regra geral em matéria de decadência, sendo certo que seu parágrafo único apenas prevê a possibilidade de antecipação do termo inicial do prazo estipulado no caput, que passaria do primeiro dia do exercício seguinte para a data concernente à notificação de medida preparatória indispensável à formalização do crédito tributário, desde que anterior àquela.
+Por sua vez, a ocorrência posterior da referida notificação não enseja uma alteração no termo inicial. Do contrário, estar-se-ia configurando uma interrupção do período decadencial. E, conforme já assentado pela jurisprudência pátria, a decadência, ao contrário da prescrição, não se interrompe e nem se suspende.
+Nessa linha, confirmar o acórdão recorrido é conferir à notificação de início de fiscalização efeito exclusivo do lançamento.
+Ora, ao prazo quinquenal estabelecido pelo CTN somente pode ser afastado com a constituição do crédito, sendo imprestável para esse fim mera intenção do Fisco, consubstanciada no termo de início de fiscalização, cujo efeito se limita apenas a antecipar a contagem do prazo decadencial, como ensina Sacha Calmon Navarro:
+(..)
+Evidenciada, portanto, a impertinência do pensamento envergado no acórdão recorrido, na medida em que negou vigência ao inciso I do art. 173 do Código Tributário Nacional, permitindo a perpetuação do prazo decadencial.
+IV.II - Da divergência jurisprudencial quanto à aplicação do inciso I do art. 173 do Código Tributário Nacional
+Seguindo linha de pensamento coerente e concisa, valente destacar o dissídio jurisprudencial acerca da aplicação do inciso I do art. 173 do CTN.
+Assim, com vistas à hipótese constante na alínea "c", inciso III, do art. 105, da CF/88, vem a Recorrente confrontar o acórdão vergastado com a jurisprudência desta Colenda Corte para, ao final, pleitear a reforma do julgado, coadunando-o com o entendimento já sedimentado.
+Consoante exaustivamente exposto, a Colenda Terceira Turma do TRF da 5a Região deu provimento ao agravo de instrumento interposto pela Fazenda Nacional, por entender que o parágrafo único do art. 173 do CTN permitia que o curso do prazo decadencial previsto no inciso I do caput fosse interrompido pelo mero termo de início de fiscalização.
+Na ementa, o acórdão foi claro quanto ao entendimento de que o Termo de Início de Ação Fiscal, concretizado após o início da contagem do prazo contido no inciso I do art. 173 do CTN, teria o condão de afastar a decadência, ao asseverar:
+(..)
+Não bastasse negar vigência a dispositivo expresso do CTN (inciso I, art. 173), o acórdão recorrido tem sentido diametralmente oposto à pacífica jurisprudência dessa Egrégia Corte, conforme precedente abaixo:
+(..)
+Sem maiores malabarismo argumentativos, o STJ referenda o entendimento ora defendido, no sentido de que o parágrafo único do art. 173 serve apenas nos casos em que a notificação se dá antes da fluência do prazo previsto no inciso I, conforme verdadeira aula de decadência tributária contida no voto-vista do Min. Castro Meira:
+(..)
+Ao tomar conhecimento dos termos do voto-vista acima transcrito, o relator, Min. Humberto Martins reviu o entendimento do voto anterior e, com a humildade aplaudível, pontuou:
+(..)
+Representante da mais pacífica e sedimentada jurisprudência pátria, a linha de raciocínio exposta no precedente homenageado confere ao caso a mais recomendável razoabilidade, emanada de uma interpretação coesa do sistema tributário infraconstitucional.
+A linha de raciocínio exposta no julgado paradigmático encontra-se em plena aceitação nesta Casa, construindo corrente jurisprudencial sólida e pacífica, como atesta o recente precedente:
+(..)
+Tendo em vista a vastidão de precedentes desta Casa em sentido opostos ao acórdão atacado, pugna-se pela reforma do acórdão em fustigo, para coaduná-lo à pacífica jurisprudência demonstrada, reconhecendo a vigência e aplicação do inciso I do art. 173 do CTN.
+Sendo assim, resta nítida a divergência jurisprudencial apontada, devendo este Colendo Superior Tribunal de Justiça conhecer do presente Recurso Especial, também segundo a hipótese contida no art. 105, III, alinea "c", dando-lhe provimento" (fls. 261/270e).
+Requer, ao final, "se digne essa Colenda Turma em dar total provimento ao presente Recurso Especial para: a) reformar o acórdão em fustigo promovendo seu deslinde sob a ótica do imperativo inciso I do art. 173 do Código Tributário Nacional, reconhecendo, por via oblíqua, a decadência dos créditos contidos na CDA nº 35.549.740-2, nos termos da decisão de primeiro grau; b) demonstrado o dissídio jurisprudencial, reformar o acórdão guerreado para coaduná-lo à remansosa e pacífica jurisprudência deste Sodalício quanto à aplicação do inciso I do art. 173 do Código Tributário Nacional, reconhecendo, assim, a decadência dos créditos contidos na CDA nº 35.549.740-2" (fls. 270/271e).
+Não foram apresentadas contrarrazões.
+A irresignação merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"Entendo que colhe o argumento da agravante.
+O art. 173 do CTN dispõe, in verbis:
+(..)
+In casu, não houve decisão que anulou lançamento anteriormente efetuado, do que se conclui que a constituição do crédito tributário deveria ser feita em cinco anos, contando-se do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+Entretanto, a notificação ao sujeito passivo de qualquer medida preparatória indispensável ao lançamento (Termo de Início da Ação Fiscal - TIAF, datado de fevereiro/2003) importa em manifesta atividade administrativa conducente à constituição do crédito tributário, nos termos do parágrafo único do art. 173 do CTN.
+Tal significa dizer que descabe considerar-se a consumação do prazo decadencial, ainda que a notificação do lançamento tenha se concretizado apenas em fevereiro de 2004. Com efeito, o agir da administração não é compatível com a decadência, ao menos no que tange aos fatos geradores ocorridos em 1998" (fl. 211).
+O Tribunal a quo, ao concluir pela desconsideração da consumação do prazo decadencial porquanto "a notificação ao sujeito passivo de qualquer medida preparatória indispensável ao lançamento (Termo de Início da Ação Fiscal - TIAF, datado de fevereiro/2003) importa em manifesta atividade administrativa conducente à constituição do crédito tributário, nos termos do parágrafo único do art. 173 do CTN" (fl. 211e), divergiu da firme jurisprudência do Superior Tribunal de Justiça acerca do assunto. Destaco, por ilustrativos:
+"TRIBUTÁRIO. DECADÊNCIA. LANÇAMENTO POR HOMOLOGAÇÃO.
+A norma do art. 173, parágrafo único, do Código Tributário Nacional incide para antecipar o início do prazo de decadência a que a Fazenda Pública está sujeita para fazer o lançamento fiscal, não para dilatá-lo - até porque, iniciado, o prazo de decadência não se suspende nem se interrompe. Embargos de divergência providos" (STJ, EREsp 1143534/PR, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, DJe de 20/03/2013).
+"TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO SEM PAGAMENTO PRÉVIO. ART. 173, PARÁGRAFO ÚNICO, DO CTN. NOTIFICAÇÃO DE MEDIDA PREPARATÓRIA. REGRA DE ANTECIPAÇÃO DO TERMO INICIAL DA DECADÊNCIA. INAPLICABILIDADE AO CASO DOS AUTOS, EM QUE A NOTIFICAÇÃO OCORREU APÓS O INÍCIO DO PRAZO DECADENCIAL. INCIDÊNCIA DA REGRA GERAL DO ART. 173, I, DO CTN.
+1. A jurisprudência desta Corte firmou entendimento no sentido de que "a norma do art. 173, parágrafo único, do Código Tributário Nacional incide para antecipar o início do prazo de decadência a que a Fazenda Pública está sujeita para fazer o lançamento fiscal, não para dilatá-lo - até porque, iniciado, o prazo de decadência não se suspende nem se interrompe" (EREsp 1143534/PR, Rel. Ministro Ari Pargendler, Primeira Seção, DJe 20/03/2013).
+2. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 339.019/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 26/02/2015).
+No mesmo sentido: AREsp 1.119.194/RS, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 04/08/2017.
+Nesse contexto, considerando que "a norma do art. 173, parágrafo único, do Código Tributário Nacional incide para antecipar o início do prazo de decadência a que a Fazenda Pública está sujeita para fazer o lançamento fiscal, não para dilatá-lo - até porque, iniciado, o prazo de decadência não se suspende nem se interrompe" (EREsp 1.143.534/PR, Rel. Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, DJe de 20/03/2013), deve-se reconhecer a decadência dos créditos tributários, inclusive no que tange ao fatos geradores ocorridos em 1998.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, para reconhecer a decadência dos créditos tributários, inclusive no que tange ao fatos geradores ocorridos em 1998.
+I.
