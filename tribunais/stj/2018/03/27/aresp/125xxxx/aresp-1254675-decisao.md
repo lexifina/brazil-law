@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por EDISON [NOME] e OUTROS contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de instrumento. Incidente de desconsideração da personalidade jurídica. Indício de simulação de contrato de arrendamento rural. Empresa arrendatária cujos sócios integram também o quadro societário da arrendadora. Suspeita de fraude visando o esvaziamento do patrimônio da arrendadora, executada. Tutela provisória deferida para intimar os parceiros da arrendatária a depositarem em Juízo as contraprestações. Recurso provido" (fl. 497 e-STJ).
+Os embargos de declaração opostos foram rejeitados, com aplicação da multa (fls. 531-537 e-STJ).
+Nas razões do especial, os recorrentes, além de apresentar julgados, alegam violação dos arts. 278 e 1.019, II e 300 do Código de Processo Civil de 2015. Afirmam que não foram intimados para apresentar contrarrazões ao agravo de instrumento.
+Argumentam que "a intimação para a resposta é condição de validade da decisão que vem em prejuízo da parte agravada, ou seja, quando o relator acolhe o recurso, dando-lhe provimento, como o caso (..)" (fl. 548 e-STJ). Salienta que a inobservância deste procedimento gera a nulidade dos atos processuais subsequentes.
+Requerem a concessão de efeito suspensivo ao recurso especial para a suspender os efeitos da tutela antecipada concedida pelo acórdão recorrido, de modo a evitar que sejam colocados em prática os atos decorrentes da apreensão de valores.
+Por fim, pedem o provimento do recurso especial para que seja anulado o acórdão que julgou o agravo de instrumento na origem.
+Contrarrazões ao recurso especial apresentadas às fls. 562-587 e-STJ.
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+A respeito da intimação para apresentação de contrarrazões ao agravo de instrumento nos termos do art. 1.019, II do CPC/2015, assim consignou o acórdão integrativo:
+"(..)
+Desnecessária a intimação da Usina Martinópolis ou dos sócios [NOME] e [NOME] para responder ao recurso, pois a decisão alcançou apenas o patrimônio da empresa Libra, pessoa jurídica distinta.
+O agravo de instrumento se voltou contra a decisão que indeferiu o pedido de concessão da tutela provisória deduzido no âmbito do incidente de desconsideração da personalidade jurídica. Este o quadro que limita a cognição do tribunal. Os efeitos da decisão do juízo "a quo", que rejeitou o incidente, devem ser discutidos naquela instância, admitida, à evidência, a posterior utilização da via recursal (fl. 536-537 e-STJ).
+Rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "a pretensão de simples reexame de prova não enseja recurso especial".
+Quanto ao pedido de efeito suspensivo ao recurso especial, observa-se que os recorrentes, por via oblíqua, utilizam este pleito para contrapor o deferimento da tutela antecipada na origem, que determinou a intimação de Bioserv e de [NOME] para que depositem a contraprestação destinada à empresa Libra em contas à disposição do Juízo.
+É importante destacar que em regra não se reexamina em sede recurso especial os requisitos necessários à concessão da tutela cautelar.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER COMBINADA COM INDENIZAÇÃO POR PERDAS E DANOS. EMPREENDIMENTO HIDRELÉTRICO. CONSTRUÇÃO DE USINA. ALAGAMENTO DE CONSTRUÇÕES RIBEIRINHAS. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO INEXISTENTE. TUTELA ANTECIPADA. DEFERIMENTO. DISCUSSÃO ACERCA DOS REQUISITOS NECESSÁRIOS PARA A CONCESSÃO. DESCABIMENTO. SÚMULA Nº 735 DO STF. ART. 273 DO CPC/73. REQUISITOS. CONFIGURAÇÃO. DISCUSSÃO QUE DEMANDA REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Inexiste ofensa ao art. 535 do CPC/73 quando o Tribunal a quo se manifesta, clara e fundamentadamente, acerca dos pontos indispensáveis para o desate da controvérsia, sendo desnecessário rebater, uma a uma, as razões suscitadas pelas partes.
+3. A teor do que dispõe a Súmula nº 735 do STF, não cabe recurso extraordinário contra acórdão que defere medida liminar. Desse modo, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+4. É assente nesta Corte que, para analisar os critérios adotados pela instância ordinária que ensejaram a concessão da antecipação dos efeitos da tutela, é necessário o reexame das questões fático-probatórios dos autos visando aferir a prova inequívoca que convença da verossimilhança da alegação, nos termos do art. 273 do CPC/73, o que não é possível em recurso especial, dado o óbice da Súmula nº 7 desta Corte.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, mantém-se a decisão proferida, por não haver motivos para a sua alteração.
+6. Agravo regimental improvido".
+(AgRg no AREsp 724.799/RO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/3/2017, DJe 10/4/2017 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO ANULATÓRIA E INDENIZATÓRIA. TUTELA ANTECIPADA. ART. 273 DO CPC/1973. REEXAME DE PROVA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 535 do CPC/1973 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+2. "Compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar, nesta seara, a violação de dispositivos constitucionais, porquanto matéria afeta à competência do STF (art. 102, inciso III, da Constituição Federal)" (AgRg no AREsp n. 359.463/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/2/2015, DJe 3/3/2015).
+3. É inadmissível o recurso especial nas hipóteses em que a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como no caso de deficiência na fundamentação pela ausência de demonstração da ofensa à lei federal. Aplicação analógica dos enunciados n. 283 e 284 da Súmula do STF. Precedentes.
+4. A análise dos requisitos legais da antecipação da tutela enseja o revolvimento do conjunto fático-probatório dos autos, atraindo o óbice da Súmula n. 7 desta Corte.
+5. É pacífico nesta Corte o entendimento segundo o qual a incidência da Súmula 7/STJ, inviabiliza o conhecimento do recurso especial, tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 745.748/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 6/12/2016, DJe 14/12/2016 - grifou-se.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. REVISÃO NO STJ. IMPOSSIBILIDADE. SÚMULA 735 DO STF. SÚMULA 7 DO STJ. NÃO PROVIMENTO.
+1. A decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. O STJ, em sintonia com o disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.
+3. Ainda que cabível, em tese, o recurso especial, seria imprescindível o reexame do contexto fático e probatório dos autos para a verificação dos pressupostos ensejadores da tutela antecipada, providência inviável nesta instância em face da Súmula 7 do STJ, conforme a jurisprudência pacífica desta Corte.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 886.909/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2016, DJe 28/11/2016 - grifou-se)
+Por fim, é importante frisar que não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide. Aplicável, também neste ponto, o teor da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
