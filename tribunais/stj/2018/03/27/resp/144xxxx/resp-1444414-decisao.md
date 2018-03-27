@@ -1,0 +1,31 @@
+DECISÃO
+ADMINISTRATIVO, CONSTITUCIONAL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CONSTITUTIVA NEGATIVA DE PENALIDADE DE TRÂNSITO COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. INFRAÇÃO DE TRÂNSITO. MULTA. POSSIBILIDADE. DOCUMENTOS NOS AUTOS. REEXAME. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. RECURSO ESPECIAL DA PARTE AUTORA A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto por [NOME], com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TJGO (fls. 2.074/2.094), assim ementado:
+APELAÇÃO CÍVEL. NEGATIVA DE IMPOSIÇÃO DE PENALIDADE DE TRÂNSITO.
+1. AGRAVO RETIDO. AUSÊNCIA DE REQUERIMENTO EXPRESSO. NÃO CONHECIMENTO. É pressuposto formal específico para o conhecimento do Agravo Retido a existência de requerimento expresso da parte, nas razões da apelação, para o seu provimento, nos termos do art. 23, caput e § Io. do CPC. Ausente manifestação nesse sentido, não merece conhecimento a insurgência.
+2. PRESCRIÇÃO INTERCORRENTE. NÃO CONFIGURADA.
+3. INFRAÇÃO DE TRÂNSITO. NOTIFICAÇÃO DE AUTUAÇÃO E NOTIFICAÇÃO DE PENALIDADE. REQUISITOS PREVISTOS PELO ART. 280 DO CTB. OBRIGATÓRIOS. PRESENTES. RESOLUÇÃO 001/98 DO CONTRAN. ASPECTO FORMAL DO DOCUMENTO. AUSÊNCIA DE PREJUÍZO A DEFESA DO INFRATOR. REGULARIDADE (fls. 2090/2091).
+2. Os Embargos Declaratórios opostos foram rejeitados, segundo acórdão de fls. 2.115/2.135.
+3. Em seu Apelo Especial (fls. 2.161/2.180), os recorrentes apontam violação dos arts. 128 e 535, II do CPC; 1o. do Decreto-Lei 20.910/1932; alegando que nesta esteira o pedido jurisdicional dos recorrentes encontra-se sob o manto das provas algemadas neste átimo processual, não podendo o Estado Juiz virar as costas aos seus jurisdicionados (fls. 2.165).
+4. Sobreveio juízo positivo de admissibilidade (fls. 2201/2206).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+8. Deve-se ressaltar que o Órgão Julgador não está obrigado a exaurir cada um dos argumentos em que se sustenta a pretensão das partes, tampouco fica adstrito às razões por elas indicadas, quando já tenha encontrado motivos jurídicos plenamente suficientes para formar sua convicção acerca da causa.
+9. Verifica-se que a Corte de origem julgou com base nos elementos de prova que constam dos autos, os quais considerou suficientes e necessários para a formação de seu convencimento, nos seguintes termos:
+Na espécie, analisando os documentos juntados (fls. 480/1080) observo que os dados reputados obrigatórios (art. 280) estão preenchidos, sendo que os campos em aberto (número do CPF e da CN), UF, Bloco 3, campos 2, 3 e 4 da Resolução 001/98), não dão ensejo à invalidação das notificações de autuação ou de penalidade, uma vez que os Autores/infratores podem exercer plenamente o direito de defesa ante a existência de elementos suficientes a caracterizar a infração que lhes foi imputada (fls. 2084).
+10. Ora, a alteração de tais conclusões tiradas à vista das provas presentes nos autos, implicaria o revolvimento do conteúdo fático-probatório da demanda, o que, todavia, afigura-se vedado em sede de recurso especial. No mesmo sentido, os seguintes precedentes colacionados:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUTO. NOTIFICAÇÃO DE LANÇAMENTO. PUBLICAÇÃO NO DIÁRIO OFICIAL. QUEBRA DE SIGILO FISCAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DESTA CORTE. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. INCIDÊNCIA. DANOS MORAIS. NECESSIDADE DO REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 198 do CTN, apesar da oposição de embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.).
+2. A análise da questão recorrida demanda necessária interpretação das disposições da Lei Distrital 4.567/11, o que, todavia, afigura-se vedado em sede de recurso especial por atrair a incidência da Súmula 280/STF.
+3. A alteração das conclusões adotadas pela Corte de origem, quanto à ausência de comprovação do dano moral, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto no enunciado 7 da Súmula do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 721.518/DF, Rel. Min. SÉRGIO KUKINA, DJe 19.8.2015).
+
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE RESPONSABILIDADE DA CONCESSIONÁRIA. CULPA EXCLUSIVA DE TERCEIRO. REVISÃO DESSE ENTENDIMENTO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal de origem, com amparo nos elementos de convicção dos autos, entendeu que não ficou configurada responsabilidade por imissão da Concessionária a ensejar o dever de reparar por dano moral decorrente de acidente ocorrido na rodovia.
+2. Insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática. Incidência da Súmula 7 deste Tribunal.
+Agravo regimental improvido (AgRg nos EDcl no AREsp. 665.559/SP, Rel. Min. HUMBERTO MARTINS, DJe 14.9.2015).
+11. A jurisprudência desta Corte pacificou o entendimento de que o Tribunal de origem é soberano na análise das provas, podendo, portanto, concluir pela necessidade ou desnecessidade da produção de provas periciais, documentais e emprestadas. Isso porque o art. 130 do CPC/1973 consagra o princípio do livre convencimento motivado, segundo o qual o Magistrado fica habilitado a valorar, livremente, as provas trazidas à demanda.
+12. Diante do exposto, com amparo no art. 557, caput do CPC, nega-se provimento ao Recurso Especial de [NOME] [NOME] [NOME] E OUTROS.
+13. Publique-se.
+14. Intimações necessárias.
