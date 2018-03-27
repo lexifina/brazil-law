@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu o recurso especial, por falta de comprovação do dissídio jurisprudencial alegado, nos termos dos arts. 1.029, § 1º, do CPC/2015 (CPC/1973, art. 541, parágrafo único) e 255, § 2º, do RISTJ (e-STJ fls. 372/373).
+O acórdão do TJGO está assim ementado (e-STJ fls. 263/264):
+EMENTA: APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. COMPENSAÇÃO DE CRÉDITO E DÉBITO. AUSÊNCIA DOS REQUISITOS. AGIOTAGEM. PRÁTICA NÃO COMPROVADA. 1. Não se apresenta cabível o pedido de compensação de dívidas formulado pela apelante/devedora, pois tal instituto requer reciprocidade de débitos, bem como que a dívida seja líquida e vencida (art. 369, do Código Civil), hipóteses não observadas no caso em análise. 2. Ao teor do disposto no inciso I, do artigo 333, do CPC/73, cabe à parte embargante o ônus da prova do fato constitutivo do seu direito. Dessarte, não existindo prova quanto à alegação de agiotagem vinculada à causa debendi, não prospera a alegação da embargante/apelante, haja vista que não ilidida a força executória dos títulos que embasam a execução. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 307/324).
+Nas razões do recurso especial (e-STJ fls. 327/337), interposto com base no art. 105, III, "c", da CF, a recorrente apontou dissídio jurisprudencial, alegando que "no caso em comento estamos diante de clara prática de mútuo recíproco, em que era do costume das partes recorrente e recorrida emprestarem quantias reciprocamente, sempre que fosse solicitado, vez que as mesmas eram amigas íntimas, como se comprova nos autos, sendo que a Corte a quo assinala que os "créditos invocados pela parte embargante/apelante estão sintetizados em 12 (doze) chegues (cópias às fls. 21/32)" no entanto, a decisão, equivocadamente, conclui que os mesmos não têm correlação com a dívida" (e-STJ fl. 331).
+Defendeu que a compensação, segundo os arts. 368 e 369 do CC/2002, seria a medida cabível, tendo em vista que a dívida representada nos títulos seria fungível, recíproca, líquida e vencida.
+Sustentou que os embargos de declaração opostos visariam sanar omissões no julgado, sendo indevida a multa aplicada, segundo o art. 1.026, § 2º, do CPC/2015, a qual deveria ser afastada.
+Foram apresentadas contrarrazões (e-STJ fls. 346/370).
+No agravo (e-STJ fls. 378/390), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 396/421).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 2015, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 3/STJ).
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico dos acórdãos recorrido e paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+De tais ônus a recorrente não se desincumbiu, pois se limitou a transcrever ementas dos julgados a partir dos quais sustentou a existência do dissenso interpretativo. Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. COTAS CONDOMINIAIS. DISSÍDIO JURISPRUDENCIAL. TERMO INICIAL DA OBRIGAÇÃO DE PAGAMENTO DAS DESPESAS CONDOMINIAIS. ENTREGA DAS CHAVES. INVALIDADE DE CLÁUSULA CONTRATUAL. ACÓRDÃO RECORRIDO FIRMADO NAS CIRCUNSTÂNCIAS FÁTICAS E NOS TERMOS DO CONTRATO FIRMADO ENTRE AS PARTES. SÚMULAS Nºs 5 E 7 DO STJ. DISSENSO JURISPRUDENCIAL NÃO DEMONSTRADO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recorrente não realizou o necessário cotejo analítico entre os julgados trazidos a confronto, restringindo-se à mera transcrição de ementas e passagens de julgados, sem evidenciar a similitude entre o casos confrontados e a disparidade nas suas conclusões, como o exigem os arts. 541, caput, do CPC/73 e 255, §§ 1º e 2º, do RISTJ.
+(..)
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp n. 1.005.580/SC, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 28/3/2017, DJe 11/4/2017.)
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE REVISÃO CONTRATUAL C/C DECLARAÇÃO DE NULIDADE DE ATO ADMINISTRATIVO E CONSIGNAÇÃO EM PAGAMENTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+(..)
+3. Não restou demonstrada, na hipótese, a divergência jurisprudencial na forma prevista no artigo 541 do CPC/1973 (art. 1.029, CPC/2015) e no artigo 255 do RISTJ. Ademais, a mera transcrição de ementas não satisfaz as exigências para a demonstração do dissídio jurisprudencial.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 304.921/MT, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016.)
+Inviável, assim, conhecer do recurso fundado no art. 105, III, "c" da CF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+O recurso especial e agravo nos próprios autos foram interpostos na vigência do CPC/2015 (e-STJ fls. 325 e 375, respectivamente), sendo-lhes aplicável a disposição inserta no art. 85, § 11, da nova lei processual (conforme orientação emanada do Enunciado n. 7 aprovado no Plenário do STJ em 16/3/2016, segundo a qual somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC).
+Em tal circunstância, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, fazendo-o com fundamento no art. 85, § 11, do CPC/2015, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
