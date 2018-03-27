@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MICHAEL VINICIUS DA SILVA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação n. 0005516-80.2016.8.26.0635.
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 157, § 2º, incisos I e II, c/c art. 14, II, ambos do Código Penal, às penas de 1 ano, 9 meses e 10 dias de reclusão, em regime inicial fechado, e 4 dias-multa (fls. 11/16).
+Inconformadas, ambas as partes apelaram. O Tribunal a quo, ao analisar os recursos, negou provimento ao apelo da defesa e proveu o ministerial para estabelecer a pena de 2 anos, 4 meses e 7 dias-multa, mantidos os demais termos da sentença, em acórdão assim ementado:
+APELAÇÃO CRIMINAL. TENTATIVA DE ROUBO QUALIFICADO ART. 157, § 2º, II, C.C. O ART. 14, II, AMBOS DO CÓDIGO PENAL Apelo da defesa.
+Absolvição por falta de provas inocorrência - materialidade e autoria delitivas comprovadas.
+Afastamento da causa de aumento inviabilidade crime praticado em concurso de agentes - suficiente a concorrência de duas ou mais pessoas na execução do delito. Correto o regime fechado. Apelo ministerial afastamento da confissão possibilidade atenuante inapta para gerar a incidência na reprimenda uma vez que não foi completa réu preso em flagrante. Sentença mantida. Recurso da defesa desprovido e provido o do ministério público.
+Na presente impetração, a defesa sustenta haver constrangimento ilegal na dosimetria da pena, ao argumento de que a confissão espontânea do paciente deixou de ser considerada na dosimetria, em razão do entendimento de a confissão ser parcial e, ainda, que a reincidência seria prevalecente em relação à confissão. Entretanto, o acórdão impugnado desafia o disposto no enunciado n. 545 da Súmula desta Corte, bem como o entendimento firmado no julgamento do REsp n. 1341370, pela 3ª Seção deste Tribunal, no regime de Recurso Repetitivo.
+Diante disso, pede, liminarmente, a suspensão dos efeitos do acórdão impugnado e, no mérito, que seja realizada nova dosimetria da pena, reconhecendo-se a incidência da atenuante de confissão espontânea e compensando-a com a agravante de reincidência.
+O pedido liminar foi indeferido às fls. 34/36.
+O Ministério Público Federal opinou, às fls. 39/41, pela concessão da ordem.
+É o relatório. Decido.
+Inicialmente, cumpre analisar a adequação da via eleita para a manifestação da irresignação contra o acórdão proferido pelo Tribunal a quo.
+O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+No caso, a impetração insurge-se contra acórdão do Tribunal de origem que julgou o apelo defensivo, o que, de acordo com a nossa sistemática recursal, enseja a hipótese do recurso especial.
+Dessa forma, o habeas corpus em tela não merece conhecimento.
+Contudo, a coação ilegal apontada na inicial será analisada, a fim de verificar a existência de flagrante ilegalidade que justifique a atuação, de ofício, por este Superior Tribunal de Justiça.
+Busca-se, na presente impetração, o reconhecimento da ilegalidade no não reconhecimento da atenuante da confissão e, consequentemente, na compensação com a agravante da reincidência.
+No que tange à atenuante da confissão, este Superior Tribunal tem assentado que a confissão, ainda que parcial, ou mesmo qualificada - em que o agente admite a autoria dos fatos, alegando, porém, ter agido sob o pálio de excludentes de ilicitude ou de culpabilidade -, deve ser reconhecida e considerada para fins de atenuar a pena (HC 337.797/MA, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/2/2016, DJe 29/2/2016).
+A matéria, inclusive, encontra-se sumulada, consoante o enunciado n. 545 da Súmula desta Corte, que dispõe:
+Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal.
+No caso, quando provocado a se manifestar, o Tribunal local afastou a atenuante da confissão reconhecida pelo Juízo de primeiro grau, por entender que a confissão foi parcial, não podendo, portanto, ser reconhecida (fls. 26/28):
+Na segunda fase, merece acolhimento o pedido da acusação, uma vez que, a confissão do recorrente foi parcial, inapta para o reconhecimento da citada atenuante, vê-se que o réu admitiu a tentativa de subtrair os bens da vítima, negando a atuação de seu comparsa, circunstância que restou comprovada.
+Mesmo que assim não fosse, a agravante da reincidência foi compensava com a atenuante da confissão e, segundo a percepção desta C. Câmara, a reincidência prepondera sobre a confissão espontânea, em consonância com o que dispõe o art. 67, do Código Penal.
+Não obstante o entendimento firmado pelo Superior Tribunal de Justiça sob o rito dos Recursos Repetitivos (nº 1.341.370/MT), que deu provimento para determinar a compensação da reincidência com a confissão, o Colendo Supremo Tribunal Federal acenou para a preponderância da reincidência.
+(..)
+Ademais, o Supremo Tribunal Federal também acenou pelo entendimento de que: As questões relativas à individualização e à dosimetria da pena configuram ofensa reflexa ao texto constitucional, por demandarem exame prévio da legislação infraconstitucional. 2. O Plenário da Corte, no exame do RE nº 983.765/DF, Relator o Ministro Roberto Barroso, concluiu pela ausência de repercussão geral da questão alusiva à possibilidade ou não da compensação da agravante da reincidência com a atenuante da confissão espontânea. (RE 962800 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 02/05/2017, PROCESSO ELETRÔNICO DJe-100 DIVULG 12-05-2017 PUBLIC 15-05-2017).
+Por fim, apenas por amor ao debate, destaco que existem julgados proferidos pelo Colendo Supremo Tribunal Federal, em que a confissão não é considerada quando o agente criminoso é preso em flagrante, uma vez que a citada atenuante tem como objetivo a busca da verdade real.
+De modo que, nesta fase, afasto o reconhecimento da confissão e aumento a pena na fração de 1/6, o que resulta em 05 (cinco) anos e 03 (três) meses de reclusão, mais pagamento de 17 (dezessete) dias-multa.
+Contudo, conforme explanado acima, o entendimento da Corte local está em dissonância deste Tribunal Superior, motivo pelo qual deve ser reconhecida a atenuante prevista no art. 65, inciso III, alínea "d", do Código Penal em seu favor.
+Nessa linha:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. CONFISSÃO PARCIAL. APLICAÇÃO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+IV - Na espécie, a incidência da atenuante prevista no art. 65, III, "d", do Código Penal, independe se a confissão foi integral ou parcial, especialmente quando utilizada para fundamentar a condenação. (Precedentes STF e STJ).
+V - Esse entendimento, inclusive, foi objeto de recente enunciado da Súmula nº 545/STJ: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal." Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea, devendo o processo retornar ao eg. Tribunal de origem para nova dosimetria da pena.
+(HC 331.946/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/11/2015, DJe 01/12/2015)
+Dessa forma, de rigor o reconhecimento da atenuante da confissão.
+Reconhecida a atenuante da confissão, requer a defesa sua compensação com a agravante da reincidência.
+É cediço que, desde o julgamento do EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+Nesse sentido:
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE. ELEVAÇÃO EM FACE DA NATUREZA DO BEM SUBTRAÍDO. IMPOSSIBILIDADE, IN CASU. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO COM A REINCIDÊNCIA. CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. AUMENTO ACIMA DO MÍNIMO LEGAL. CRITÉRIO MATEMÁTICO. OFENSA À SÚMULA 443 DO STJ.
+(..)
+3. A Terceira Seção desta Corte, no julgamento do REsp 1.341.370/MT, submetido ao procedimento previsto no art. 543-C do Código de Processo Civil, pacificou o entendimento de que a agravante da reincidência e a atenuante da confissão espontânea, por serem igualmente preponderantes, podem ser compensadas na segunda fase da dosimetria da pena.
+(..)
+5. Habeas corpus não conhecido. Concedida a ordem, de ofício, para fixar a pena-base no mínimo legal, compensar a reincidência com a confissão espontânea e aplicar a fração mínima de 1/3 em razão das majorantes do roubo, redimensionando a pena cominada aos dois pacientes. (HC 213.994/SP, Rel. Ministro GURGEL DE FARIA, Quinta Turma, julgado em 15/9/2015, DJe 1/10/2015) - (grifei).
+Dessa forma, tendo em vista a presença da agravante da reincidência e a atenuante da confissão, deve ser feita a compensação entre ambas.
+Tendo em vista que a sentença condenatória reconheceu a confissão e realizou a compensação com a agravante da reincidência, restabeleço a pena aplicada na sentença.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus. Contudo, concedo a ordem, de ofício, para restabelecer a sentença proferida pelo juiz de primeiro grau.
+Publique-se. Intime-se.
