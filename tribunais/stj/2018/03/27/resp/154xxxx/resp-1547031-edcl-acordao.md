@@ -1,0 +1,26 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS SEUS REQUISITOS PROCEDIMENTAIS. ALEGAÇÃO DE OMISSÃO. INAPLICABILIDADE DA MULTA PREVISTA NO ART. 1.021, § 4o. DO CPC/2015. EMBARGOS DE DECLARAÇÃO DA EMPRESA REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. A parte embargante requer a aplicação de multa nos termos do art. 1.021, § 4o. do CPC/2015, Contudo, não é esse o motivo que enseja sua incidência. A penalidade processual apenas é aplicável aos casos em que o Agravo Interno é manifestamente inadmissível ou improcedente, devendo o órgão colegiado, em decisão fundamentada fixar a penalidade. No caso concreto, portanto, não se revela possível.
+3. Embargos de Declaração da Empresa rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os Embargos de Declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração opostos pela ELETROZEMA LTDA. contra acórdão que negou provimento ao Agravo Interno do Fisco, nos termos da seguinte ementa:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ICMS. BASE DE CÁLCULO DO PIS E DA COFINS. RECENTE POSICIONAMENTO DO STF EM REPERCUSSÃO GERAL (RE 574.706/PR) EM SENTIDO CONTRÁRIO. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. O Superior Tribunal de Justiça reafirmou seu posicionamento anterior, ao julgar o Recurso Especial Repetitivo 1.144.469/PR, em que este Relator ficou vencido quanto à matéria, ocasião em que a 1a. Seção entendeu pela inclusão do ICMS na base de cálculo do PIS e da COFINS (Rel. p/acórdão o Min. MAURO CAMPBELL MARQUES, DJe 2.12.2016, julgado nos moldes do art. 543-C do CPC/1973).
+2. Contudo, na sessão do dia 15.3.2017, o Plenário do Supremo Tribunal Federal, julgando o RE 574.706/PR, em repercussão geral, Relatora a Ministra CÁRMEN LÚCIA, entendeu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte e, dessa forma, não pode integrar a base de cálculo dessas contribuições, que são destinadas ao financiamento da Seguridade Social.
+3. Dessa forma, não é caso de sobrestamento do feito, pois o Recurso Extraordinário já foi julgado pelo STF em sentido contrário à tese da parte agravante. Ademais, observa-se que não procede a aplicação de óbices processuais à análise do Agravo, pois a empresa impugnou a fundamentação da decisão agravada.
+4. Agravo Interno da FAZENDA NACIONAL desprovido.
+2. Nestes Declaratórios, a parte embargante requer a aplicação de multa nos termos do art. 1.021, § 4o. do CPC/2015, porque o Agravo Interno da Fazenda Nacional foi julgado desprovido por unanimidade.
+3. Impugnação apresentada (fls. 2.059/2.062).
+4. É o relatório.
+VOTO
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS SEUS REQUISITOS PROCEDIMENTAIS. ALEGAÇÃO DE OMISSÃO. INAPLICABILIDADE DA MULTA PREVISTA NO ART. 1.021, § 4o. DO CPC/2015. EMBARGOS DE DECLARAÇÃO DA EMPRESA REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+2. A parte embargante requer a aplicação de multa nos termos do art. 1.021, § 4o. do CPC/2015, Contudo, não é esse o motivo que enseja sua incidência. A penalidade processual apenas é aplicável aos casos em que o Agravo Interno é manifestamente inadmissível ou improcedente, devendo o órgão colegiado, em decisão fundamentada fixar a penalidade. No caso concreto, portanto, não se revela possível.
+3. Embargos de Declaração da Empresa rejeitados.
+1. De início, cumpre esclarecer que a legislação processual é peremptória ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a existência de obscuridade, contradição ou omissão no julgado.
+2. Destarte, infere-se que, a par da pacífica orientação acerca da natureza recursal dos Declaratórios, estes não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas, apenas, à elucidação ou ao aperfeiçoamento do decisum em casos de obscuridade, contradição ou omissão. Não tem, pois, de regra, caráter substitutivo ou modificativo, ou seja, o condão de alterar, livre e substancialmente, o decisório, em seu dispositivo, mas, sim, aclarar ou integrar, razão por que seu processamento não é norteado pelos princípios do contraditório e da igualdade.
+3. A parte embargante requer a aplicação de multa nos termos do art. 1.021, § 4o. do CPC/2015, Contudo, não é esse o motivo que enseja sua incidência. A penalidade processual apenas é aplicável aos casos em que o Agravo Interno é manifestamente inadmissível ou improcedente, devendo o órgão colegiado, em decisão fundamentada fixar a penalidade. No caso concreto, portanto, não se revela possível.
+4. Ante o exposto, rejeitam-se os Embargos de Declaração da Empresa. É como voto.
