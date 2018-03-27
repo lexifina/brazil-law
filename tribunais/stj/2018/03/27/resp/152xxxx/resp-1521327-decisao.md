@@ -1,0 +1,7 @@
+DECISÃO
+Vistos, etc.
+Após o julgamento do recurso especial interposto por [NOME] e Venda de Bens S.A., os autos foram conclusos para análise do agravo manejado por Centrais Elétricas Brasileiras S.A - Eletrobrás (e-STJ, fls. 1.757-1.782).
+Considerando que o referido agravo foi interposto contra decisão que negou seguimento ao apelo especial, a Corte de origem recebeu-o como agravo interno e negou-lhe provimento (e-STJ, fls. 1.788-1.796), nada mais havendo a decidir.
+É que, "de acordo com a nova ordem processual civil, contra a decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC/1973 (art. 1.040, I, do CPC/2015), não cabe agravo ou qualquer outro recurso para o eg. STJ. Tal entendimento, todavia, não significa concluir pela irrecorribilidade de tal decisão, pois, da decisão que nega seguimento a recurso especial interposto contra acórdão julgado em conformidade com entendimento firmado em julgamento processado pelo regime de recursos repetitivos, o recurso cabível é o agravo interno, para o próprio Tribunal, na forma do art. 1.030, § 2º, do CPC/2015. Entretanto, contra essa segunda decisão, proferida pelo Tribunal de origem em agravo interno, não há mais recurso" (AgInt na Pet 11.755/PE, Rel. Ministro Lázaro Guimarães, Quarta Turma, DJe 2/3/2018).
+Ante o exposto, esgotada a jurisdição desta Corte Superior, proceda-se como de praxe, visto que há agravo em recurso extraordinário (e-STJ, fls. 1.743-1.755).
+Publique-se. Intimem-se.
