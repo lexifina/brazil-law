@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Precatório - Requisitório - Expedido o precatório, pelo valor global do débito, impossível o seu cancelamento para se expedir ofício requisitório individual. Recurso improvido.” (eDOC 2, p. 81)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos artigos 5º, XXXV; 93, IX; e 100, §§3º e 4º, do texto constitucional. (eDOC 2, p. 94)
+    Nas razões recursais, alega-se a possibilidade de cancelamento de precatório pelo valor global no intuito de expedição individualizada de Requisições de Pequeno Valor (RPVs) nos autos em que os autores litigam em litisconsórcio facultativo. (eDOC 2, p. 97-98)
+    A Presidência da Seção de Direito Público do Tribunal de origem determinou a devolução dos autos à Câmara Julgadora, para proceder um juízo positivo de retratação, se fosse o caso, adequando a decisão ao decidido no Tema 148 da sistemática de repercussão geral, cujo processo paradigma é o RE 568645/SP. (eDOC 2, p. 159)
+    Ocorre que a Câmara Julgadora entendeu que não era o caso de rejulgamento, ao fundamento de que o caso concreto versaria sobre cancelamento de precatório já expedido pelo valor total (eDOC 2, p. 169). Eis a ementa do julgado:
+    “Agravo de Instrumento — Devolução dos autos à Turma Julgadora para cumprimento do artigo 543-B, § 3º, do CPC (artigo 1.040, II, do NCPC) - Recurso Representativo de Controvérsia (Recurso Extraordinário n° 568.645/SP) — Precatório - Estando a matéria do v. Acórdão proferido por esta C. Segunda Câmara de Direito Público em consonância com julgamento proferido pelo Supremo Tribunal Federal é de ser mantido o decisum -Recurso desprovido.” (eDOC 2, p. 168)
+    Diante disso, foi admitido o recurso extraordinário com a remessa dos autos ao Supremo Tribunal Federal. (eDOC 2, p. 175)
+    É o relatório.
+    Decido.
+    A irresignação merece prosperar.
+    Isso porque o Tribunal de origem consignou que não seria possível o fracionamento do valor principal da execução contra a Fazenda Pública no caso dos autos, em que litigam litisconsortes facultativos simples, tendo em vista que já teria sido expedido precatório pelo valor global, o que impediria seu cancelamento para ulterior expedição de RPVs.
+    Ocorre que esse entendimento destoa da jurisprudência desta Corte, firmada no RE 568.645/SP (Tema 148), Relatora a Ministra Cármen Lúcia, DJe 13.11.2014, em que fixou a possibilidade do referido fracionamento sem que se haja o óbice observado pelo Tribunal a quo. Transcrevo a ementa do tema:
+    “REPERCUSSÃO GERAL. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. VEDAÇÃO CONSTITUCIONAL DE FRACIONAMENTO DE EXECUÇÃO PARA FRAUDAR O PAGAMENTO POR PRECATÓRIO. ART. 100, § 8º (ORIGINARIAMENTE § 4º), DA CONSTITUIÇÃO DA REPÚBLICA. LITISCONSÓRCIO FACULTATIVO SIMPLES. CONSIDERAÇÃO INDIVIDUAL DOS LITISCONSORTES: CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO. 1. Ausência de prequestionamento quanto à alegação de inconstitucionalidade da Resolução n. 199/2005 do Tribunal de Justiça de São Paulo e quanto ao fracionamento dos honorários advocatícios. Incidência das Súmulas 282 e 356. 2. A execução ou o pagamento singularizado dos valores devidos a partes integrantes de litisconsórcio facultativo simples não contrariam o § 8º (originariamente § 4º) do art. 100 da Constituição da República. A forma de pagamento, por requisição de pequeno valor ou precatório, dependerá dos valores isoladamente considerados. 3. Recurso extraordinário ao qual se nega provimento.”
+     Ante o exposto, dou provimento ao recurso para que aplique ao caso concreto o fracionamento do valor principal da execução nos moldes dispostos no Tema 148 da sistemática de repercussão geral (artigo 932, V, b, do CPC, c/c art. 21, §2º, do RISTF), invertidos no ponto os ônus da sucumbência.
+    Publique-se.
+    Brasília, 27 de março de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
