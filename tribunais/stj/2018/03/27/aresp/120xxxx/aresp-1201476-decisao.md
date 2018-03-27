@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OMISSÃO OU CONTRADIÇÃO. INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. POSSIBILIDADE DE MODIFICAÇÃO DA FORMA DE EXECUÇÃO. CONHECIMENTO DE OFÍCIO. POSSIBILIDADE. JULGADO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por HERON TURISMO LTDA. - ME, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Santa Catarina assim ementado (e-STJ, fls. 47-55):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. REVISIONAL DE CONTRATOS VINCULADOS A CONTA CORRENTE. DECISÃO QUE REJEITOU LIMINARMENTE A IMPUGNAÇÃO.
+RECURSO DA PARTE DEVEDORA.
+REQUERIDA PRÉVIA LIQUIDAÇÃO. PROCEDIMENTO EXPROPRIATÓRIO QUE FOI APLICADO DE FORMA DIVERSA DA PREVISTA EM LEI. NECESSIDADE DE LIQUIDAÇÃO POR ARBITRAMENTO. COMPLEXIDADE E EXTENSÃO DOS CÁLCULOS A SEREM CONFECCIONADOS QUE RECLAMAM CONHECIMENTO TÉCNICO PARA APURAÇÃO DO QUANTUM DEVIDO. ERROR IN PROCEDENDO EVIDENCIADO. PRECEDENTES. ANULAÇÃO DO PROCESSO, DESDE O TRÂNSITO EM JULGADO DA SENTENÇA DA AÇÃO DE CONHECIMENTO, A FIM DE DETERMINAR A PRÉVIA LIQUIDAÇÃO DA SENTENÇA POR ARBITRAMENTO.
+RECURSO CONHECIDO E PROVIDO.
+
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 65-71).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 183 e 473 do Código de Processo Civil/1973 (arts. 223 e 507 do CPC/2015); 489, § 1º, IV, 490, 492 e 1.022, I e II, do novo Código de Processo Civil.
+Esclareceu que se insurgiu contra o acórdão estadual que, a despeito da ausência de pleito da parte recorrida, determinou a conversão da execução, que era por simples cálculos aritméticos, a ser realizada por arbitramento.
+Afirmou que há omissões e contradições no acórdão, não sanadas mesmo após o julgamento dos embargos de declaração. Frisou que o proceder da Corte de origem ensejou a ocorrência de julgamento ultra e extra petita, pois destoante dos limites do pedido estampado no agravo de instrumento. Pontuou que já há havia preclusão quanto ao procedimento de cumprimento da sentença desde 2014, o que afastaria a possibilidade de nova manifestação sobre a questão. Ponderou que, ao contrário do que entendeu o Tribunal de Justiça, não era caso de conhecimento de ofício da questão, haja vista a preclusão quanto ao tipo de procedimento de cumprimento da condenação (e-STJ, fls. 75-95).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 126-129).
+Contraminutas apresentadas (e-STJ, fls. 115-122 e 154-159).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do novo CPC. O acórdão dirimiu a causa com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+O Tribunal catarinense, analisando o agravo de instrumento, concluiu que a execução era relativa à revisão de contratos vinculados a uma conta bancária, na modalidade conta-corrente. Apreciando os autos, firmou ser necessária a realização de perícia técnica especializada para estimar o montante da condenação.
+Esse entendimento foi calcado na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+No que toca às alegações de nulidade de atuação da Corte estadual ao modificar a forma de apuração do quantum exequendo, também não merece guarida a pretensão. Firmou-se a possibilidade de alteração do procedimento executório, não havendo que falar em preclusão ou julgamento extra ou mesmo ultra petita. Destarte, estampou-se que o erro de procedimento da execução adotado pelo julgador inicial seria matéria de ordem pública, passível de conhecimento a qualquer tempo e grau de jurisdição, não havendo vinculação ao pleito recursal nem se submetendo à preclusão.
+Essa conclusão está em sintonia com a jurisprudência deste Tribunal Superior, ensejando a aplicação da Súmula 83/STJ por ambas as alíneas do permissivo constitucional.
+A propósito:
+PROCESSO CIVIL. APELAÇÃO EFEITO DEVOLUTIVO. EXTENSÃO E PROFUNDIDADE. DISTINÇÃO. LIQUIDAÇÃO. FORMA. MODIFICAÇÃO PELO TRIBUNAL A QUO. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA, COGNICÍVEL DE OFÍCIO. DECAIMENTO DE PARTE MÍNIMA DO PEDIDO. SUCUMBÊNCIA INTEGRAL DA PARTE CONTRÁRIA. HONORÁRIOS. ADEQUAÇÃO DO VALOR EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULA 07/STJ.
+- Deve-se distinguir entre a extensão do efeito devolutivo da apelação, limitada pelo pedido daquele que recorre, e a sua profundidade, que abrange os antecedentes lógico-jurídicos da decisão impugnada. Estabelecida a extensão do objeto do recurso pelo requerimento formulado pelo apelante, todas as questões surgidas no processo, que possam interferir no seu acolhimento ou rejeição, devem ser levadas em conta pelo Tribunal.
+- Quanto à utilização do arbitramento como meio de liquidação, sua modificação pelo Tribunal a quo não implica em decisão extra ou ultra petita, tampouco em trespasse da matéria devolvida à apreciação do órgão ad quem, na medida em que se trata de questão apreciável ex officio. As formas de liquidação não se sujeitam ao arbítrio do juiz, pois compõem o devido processo legal e, como tal, são de ordem pública.
+- Nos termos do art. 21, parágrafo único, do CPC, "se um litigante decair de parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e honorários".
+- A aferição da adequação da verba honorária demanda reexame de matéria fática, circunstância que encontra óbice na Súmula nº 07 do STJ.
+Recurso especial não conhecido.
+(REsp 714.068/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/04/2008, DJe 15/04/2008)
+PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SENTENÇA QUE DETERMINARA A LIQÜIDAÇÃO POR ARTIGOS. LIQÜIDAÇÃO REALIZADA POR ARBITRAMENTO. FATO NOVO. AUSÊNCIA DE PREQUESTIONAMENTO. PROCEDIMENTO ADEQUADO. COISA JULGADA. OFENSA NÃO CONFIGURADA.
+- A sugerida existência de fato novo a ensejar a liqüidação por artigos não mereceu a mínima interpretação por parte do acórdão recorrido, a despeito da interposição de embargos declaratórios.
+Falta de prequestionamento.
+- Afigura-se defeso ao juiz e às partes, em sede de procedimento liqüidatório, inovar, rediscutir a lide ou modificar o que já fora julgado por sentença proferida em processo cognitivo. Não ofende a coisa julgada, todavia, a alteração da forma de liqüidação, em hipóteses excepcionais, como a ora examinada, devendo ser utilizado para a liqüidação da sentença o procedimento que melhor se adequar à espécie.
+- Exigindo a sentença condenatória suplementação por meio de procedimento outro que não aquele nela previamente determinado, o caminho será o de seu reajustamento ao caso concreto, sob pena de se inviabilizar a liqüidação ou de se processá-la de forma inadequada ou injusta para as partes. Permite-se, assim, excepcionalmente, como no caso, a sua modificação na fase de liqüidação.
+- Na hipótese ora examinada, ante às suas peculiaridades, o arbitramento se apresenta como o meio mais adequado de liqüidação da sentença condenatória em danos materiais e morais.
+- Recurso especial não conhecido.
+(REsp 348.129/MA, Rel. Ministro CESAR ASFOR ROCHA, QUARTA TURMA, julgado em 21/02/2002, DJ 27/05/2002, p. 177)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
