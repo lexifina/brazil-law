@@ -1,0 +1,22 @@
+Mandado de segurança. Ato coator praticado pelo Conselho Nacional de Justiça. Cancelamento de registros de terras no Estado do Pará. Pedido de desistência. Possibilidade. Precedente julgado em repercussão geral (RE 669.367/RJ). Homologação (art. 21, VIII, do RISTF).
+    Vistos etc.
+    1. Trata-se de mandado de segurança, com pedido de liminar, impetrado por Jonas Akila Morioka contra ato praticado pelo Corregedor Nacional de Justiça no Pedido de Providências nº 0001943-67.2009.2.00.0000, em que canceladas inúmeras matrículas imobiliárias registradas em serventias extrajudiciais do interior do Pará.
+    2. A inicial sustentou que a decisão impugnada teria violado o ato jurídico perfeito e o direito adquirido, além dos princípios do devido processo legal e da propriedade. A irresignação se centrou, basicamente, no fato de que a decisão teria sido proferida sem oitiva dos interessados diretos, ou seja, daqueles que constam como titulares dos imóveis atingidos, nos respectivos registros anulados. O cancelamento ter-se-ia dado, portanto, de forma arbitrária, configurada ilegalidade e abuso de poder.
+    3. Deduzidos os seguintes pedidos:
+    “a) deferimento de medida liminar inaudita altera parte para o fim de que, nos termos do artigo 7º, inciso II, da Lei nº 1533/51, suspenda essa Suprema Corte em relação ao impetrante e suas propriedades os efeitos do referido despacho do Sr. Ministro Gilson Dipp, do Conselho Nacional de Justiça, dado no Pedido de Providências nº 0001943.67.2009.2.00.0000, bem como da Portaria pelo despacho originada, de nº 002/2010-CJCI, oriunda da Corregedoria de Justiça das Comarcas do Interior do Estado do Pará, comprovados de plano como estão o fumus boni iuris e o periculum in mora quanto ao justo receio do impetrante em sofrer violações de direito quanto a sua propriedade;
+    (...) seja ao final julgado procedente o presente mandado de segurança, para, confirmando-se a liminar deferida, julgar sem efeitos o referido despacho proferido pelo Sr. Ministro do CNJ que revoga escrituras no Estado do Pará, no procedimento do Pedido de Providências nº 0001943.67.2009.2.00.0000, em relação às propriedades regularmente adquiridas pelo impetrante, registradas em Cartório de Registro de Imóveis e sobre as quais vem exercendo mais de vinte anos de posse legítima, evitando-se com isto o desrespeito aos direitos de propriedade do impetrante” (inicial, fl. 15-6).
+    4. Em despacho de 19.10.2010, a Ministra Ellen Gracie, então relatora, requereu informações (doc. 36), que foram prestadas pelo CNJ (doc. 43).
+    5. Por petição de 13.12.2010, o Estado do Pará solicitou sua inclusão na relação processual como litisconsorte passivo (doc. 2). O pedido foi deferido pela Ministra Ellen Gracie em 30.6.2011, mesma data em que deferida parcialmente a liminar para suspender, apenas e tão-somente quanto às propriedades do impetrante, os efeitos da decisão proferida em 16 de agosto de 2010 pela Corregedoria Nacional de Justiça, nos autos do Pedido de Providências 0001943-67.2009.2.00.0000, até o julgamento do mérito do presente mandado de segurança, permanecendo, todavia, sujeitos ao que expressamente dispôs a Corregedoria de Justiça das Comarcas do Interior do Tribunal de Justiça do Estado do Pará no Provimento 013/2006-CJCI, vale dizer, à averbação do bloqueio das referidas matrículas (doc. 1, fls. 27).
+    6. A União interpôs agravo contra a decisão liminar (doc. 54).
+    7. O Procurador-Geral da República se manifestou pela denegação da segurança (doc. 56).
+    8. Em 1º.9.2016, deneguei a ordem, nos termos de jurisprudência consolidada deste Supremo Tribunal Federal a respeito da matéria (art. 205 do RISTF – doc. 60), cassando a liminar antes parcialmente deferida. O impetrante interpôs agravo regimental (doc. 70).
+    6. Em 27.3.2018, requereu o impetrante a desistência da impetração (doc. 90).
+    É o relatório.
+    Decido.
+    1. No julgamento do RE 669.367/RJ, o Pleno do Supremo Tribunal Federal reiterou jurisprudência no sentido de que a desistência do mandado de segurança é cabível, a qualquer tempo.
+    Diante do exposto, homologo o pedido de desistência da ação, ficando prejudicado o agravo regimental interposto contra a denegação da ordem.
+    Comunique-se, transmitindo-se cópia da presente decisão ao Conselho Nacional de Justiça e ao Tribunal de Justiça do Estado do Pará.
+    Publique-se. Após, arquive-se.
+    Brasília, 27 de março de 2018.
+Ministra Rosa Weber
+Relatora
