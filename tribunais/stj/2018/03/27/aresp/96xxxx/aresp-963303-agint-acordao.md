@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. BENEFICIADO APOSENTADO. PRETENSÃO DE REDUÇÃO DO VALOR DO PRÊMIO. LEGITIMIDADE PASSIVA DA SEGURADORA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, "a empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei n. 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora" (REsp n. 1.575.435/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/5/2016, DJe 3/6/2016).
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Nancy Andrighi e Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por Bradesco Saúde S.A. contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 273):
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. BENEFICIADO APOSENTADO. PRETENSÃO DE REDUÇÃO DO VALOR DO PRÊMIO. LEGITIMIDADE PASSIVA DA SEGURADORA CONFIGURADA. INCIDÊNCIA DA TEORIA DA ASSERÇÃO. LITISCONSÓRCIO PASSIVO NECESSÁRIO COM A EX-EMPREGADORA NÃO VERIFICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a insurgente reitera as alegações do apelo nobre no sentido de necessidade da inclusão da ex-empregadora do recorrido e estipulante da apólice empresarial em demanda na qual o segurado pede a revisão do prêmio pago pelo seguro, majorado em razão de alteração na forma de custeio.
+Impugnação ao agravo interno apresentada às fls. 302-315 (e-STJ), na qual a parte adversa busca o desprovimento do agravo interno e a majoração dos honorários recursais, bem como a aplicação de multas na forma dos arts. 81, § 2º, e 1.021, § 4º, do CPC/2015.
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Os argumentos trazidos pela insurgente não são capazes de modificar as conclusões da deliberação unipessoal.
+Com feito, constata-se que o Tribunal de origem decidiu a questão acerca da ilegitimidade da ex-empregadora estipulante para figurar no polo passivo da demanda envolvendo a operadora do plano de saúde, parte legítima, e os usuários, em consonância com o entendimento pacificado nesta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. LEGITIMIDADE PASSIVA. OPERADORA DE PLANO DE SAÚDE. AÇÃO PROPOSTA POR EX-EMPREGADOR. ARTS. 30 E 31 DA LEI N. 9.656/1998. DECISÃO MANTIDA.
+1. "A empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora" (REsp n. 1.575.435/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/5/2016, DJe 3/6/2016).
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.620.137/SP, Relator o Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/2/2017, DJe 20/2/2017)
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO APOSENTADO. MANUTENÇÃO DA COBERTURA E DOS VALORES DE MENSALIDADE. ESTIPULANTE. ILEGITIMIDADE PASSIVA AD CAUSAM. MANDATÁRIA DO GRUPO DE USUÁRIOS. MULTA PROTELATÓRIA. AFASTAMENTO. SÚMULA Nº 98/STJ.
+1. Discute-se a legitimidade de empresa estipulante para figurar no polo passivo de ação proposta por ex-empregado aposentado para permanecer em plano de saúde coletivo nas mesmas condições de cobertura e de mensalidade de quando estava em vigor o contrato de trabalho.
+2. A legitimidade ad causam depende do vínculo existente entre os sujeitos da ação (relação jurídica substancial) e deles com a causa (objeto litigioso), de modo que no polo passivo devem figurar, em regra, aqueles cujo patrimônio pode ser afetado com a procedência da demanda, ou seja, aqueles que suportarão os efeitos da condenação.
+3. O plano de saúde coletivo é aquele contratado por uma empresa ou por pessoas jurídicas de caráter profissional, classista ou setorial, como conselhos, sindicatos e associações profissionais, geralmente na condição de estipulantes, junto à operadora de planos de saúde para oferecer assistência médica e/ou odontológica às pessoas vinculadas às mencionadas entidades bem como a seus dependentes.
+4. No plano de saúde coletivo, o vínculo jurídico formado entre a operadora e o grupo de usuários caracteriza-se como uma estipulação em favor de terceiro. Por seu turno, a relação havida entre a operadora e o estipulante é similar a um contrato por conta de terceiro. Já para os usuários, o estipulante é um intermediário, um mandatário e não um preposto da operadora de plano de saúde.
+5. O estipulante é apenas a pessoa jurídica que disponibiliza o plano de saúde em proveito do grupo que a ela se vincula, mas não representa a própria operadora. Ao contrário, o estipulante deve defender os interesses dos usuários, pois assume, perante a prestadora de serviços de assistência à saúde, a responsabilidade pelo cumprimento de todas as obrigações contratuais de seus representados.
+6. A empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora. Precedentes.
+7. Não evidenciado o caráter protelatório dos embargos de declaração, impõe-se a inaplicabilidade da multa prevista no parágrafo único do art. 538 do Código de Processo Civil. Incidência da Súmula nº 98/STJ.
+8. Recurso especial parcialmente provido, apenas para afastar a multa processual.
+(REsp n. 1.575.435/SP, Relator o Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/5/2016, DJe 3/6/2016)
+Desse modo, estando o acórdão estadual em consonância com a jurisprudência do STJ, incide a Súmula n. 83 desta Corte.
+Quanto à pretensão da parte agravada em condenar a seguradora à pena da litigância de má-fé, constata-se que não merece guarida, pois, conforme entendimento desta Corte, a interposição de recursos cabíveis não implica em "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+Assim, como não vislumbro, no presente caso, má-fé da agravante ou intuito protelatório em tentar modificar a decisão singular que não conheceu do apelo nobre, mediante a interposição de agravo interno, rejeito o pedido de cominação de multas.
+Também não merece acolhida o pedido de arbitramento de honorários advocatícios recursais, em razão da interposição do presente agravo interno.
+Com efeito, a Terceira Turma, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, firmou orientação no sentido de que não cabe a fixação de honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC de 2015, no julgamento de agravo interno oferecido pela parte que teve seu recurso não conhecido ou improvido.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
