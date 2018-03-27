@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão da 9ª Câmara de Direito Privado do TJSP.
+Na origem, a parte recorrida ajuizou ação, visando sua manutenção no plano de saúde coletivo patrocinado por sua ex-empregadora, a qual foi julgada procedente em primeira instância.
+A recorrente apelou, tendo o Tribunal de origem negado provimento ao recurso em acórdão que ficou assim ementado (e-STJ fl. 398):
+PLANO DE SAÚDE. OBRIGAÇÃO DE FAZER.
+Pretensão do autor no sentido de ser mantido como beneficiário do plano de saúde administrado pela empresa de saúde requerida, nas mesmas condições que usufruía antes da rescisão do contrato de trabalho.
+Sentença de procedência do pedido, na origem, confirmando-se anterior antecipação de tutela.
+Recurso de Apelação da requerida. Preliminares recursais.
+Prescrição não configurada. Inaplicabilidade do regramento de prescrição Anua (artigo 206, §1º, 11, b, CC), qüinqüenal (artigo 27, CDC) ou mesmo de normas administrativas restritivas, as quais não ostentam relevância jurídica capaz de limitar os direitos do consumidor.
+Aplicação do prazo decenal, previsto no artigo 20S do Código Civil. Precedentes deste E. TJSP c do E. Superior Tribunal de Justiça.
+Não configuração, ainda, do instituto da supressio. Mérito recurso.
+Cumprimento da hipótese do artigo 31 da Lei n. 9.656/98. Imperativa manutenção do autor, ora apelado, bem como de seus dependentes, como vinculado ao plano de empregados da ativa, com assunção do pagamento integral do prêmio securitário.
+Afastamento da pretendida aplicação dos ditames do denominado "Novo Seguro Saúde" celebrado entre a apelante e a antiga empregadora do apelado. Demissão do funcionário que é previa ã formatação da nova estrutura securitária cuja imposição se pretende. Inadmissibilidade.
+Observação: inerente á devolutividade do recurso c afeta ao correto e técnico critério de cálculo da prestação devida pelo segurado, prestação esta a qual deverá corresponder à soma do valor descontado em folha do apelado, acrescido da média dos gastos suportados pela antiga empregadora com relação aos seus funcionários ativos nos últimos doze meses que antecederam o desligamento do empregado, com apuração atual e quantificação relegadas para a fase de cumprimento de sentença. Recurso de Apelação da empresa requerida não provido, com observação.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 479/484).
+Sobreveio o recurso especial (e-STJ fls. 487/502), fundado no art. 105, III, "a" e "c", da CF, no qual a parte recorrente sustenta divergência jurisprudencial e violação dos arts. 31 da Lei n. 9.656/1998, argumentando que o empregado aposentado ou demitido não tem direito a ser mantido no plano de saúde vigente na época da ativa nas mesmas condições financeiras então existentes, pois não há direito adquirido ao modelo de custeio.
+É o relatório.
+Decido.
+O recurso foi interposto com fundamento no Código de Processo Civil de 2015, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3/STJ).
+O Tribunal a quo reconheceu que o empregado demitido tinha direito a ser mantido no plano de saúde vigente na época da ativa, nas mesmas condições da época em que trabalhava (e-STJ fls. 402/405).
+Nesse ponto, constata-se que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência do STJ, segundo a qual o direito de ser mantido no plano de saúde da época da ativa não significa direito adquirido ao modelo de custeio, apenas ao conteúdo da assistência coberta, sendo possível ao ex-empregador contratar planos diferentes para ativos e aposentados. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. EX-EMPREGADO DEMITIDO. PDV. DIREITO ADQUIRIDO. INEXISTÊNCIA. REGIME DE CUSTEIO DIVERSO. POSSIBILIDADE. DIVISÃO DE CATEGORIAS. ATIVOS E INATIVOS. OPÇÃO DA OPERADORA. REQUISITOS LEGAIS. OBSERVÂNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Mantidos a qualidade e o conteúdo de cobertura assistencial do plano de saúde, não há direito adquirido a modelo de custeio, devendo-se evitar a onerosidade excessiva ao usuário e a discriminação ao idoso.
+3. É possível ao ex-empregador (i) manter os seus ex-empregados - demitidos sem justa causa ou aposentados - no mesmo plano de saúde em que se encontravam antes do encerramento do contrato de trabalho ou (ii) contratar um plano de saúde exclusivo para eles (art. 13 da RN nº 279/2011 da ANS).
+4. A opção da operadora por separar as categorias entre ativos e inativos também se mostra adequada para dar cumprimento às disposições legais, visto que há garantia ao empregado aposentado ou demitido de manutenção das mesmas condições de assistência à saúde, e, por princípio, em valores de mensalidade abaixo dos praticados no mercado, não havendo obrigatoriedade de que o plano de saúde coletivo seja uno, sobretudo com relação ao regime de custeio.
+5. Agravo interno não provido.
+(AgInt no REsp 1597995/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 9/3/2018.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC) - MANUTENÇÃO DE EX-EMPREGADO EM PLANO DE SAÚDE EMPRESARIAL - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO.
+1. A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, uma vez cumpridos os requisitos do artigo 31, da Lei nº 9.656/98, há que se manter em favor do beneficiário do seguro saúde as mesmas condições de cobertura oferecidas à época em que se encontrava na ativa, incluindo-se o conteúdo e a qualidade médico-assistencial do plano. Todavia, não há que se falar em direito adquirido ao regime de custeio do seguro que outrora vigorava, sendo aplicáveis ao ex-empregado as mesmas alterações que, a esse respeito, alcançaram os empregados em atividade, preservando-se, assim, a paridade e o equilíbrio do sistema. Decisão noutro sentido acabaria por violar a base contratual, diferenciando-se no âmbito de um mesmo sistema os empregados da ativa e o autor/agravante, que arcaria com parcela significativamente menor que os seus respectivos pares, vinculados ao grupo empresarial do seguro saúde.
+2. Agravo regimental desprovido.
+(AgInt no AREsp 969.100/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/8/2017, DJe 29/8/2017.)
+Diante do exposto, DOU PROVIMENTO ao recurso especial, para julgar improcedente a pretensão inicial, ante a inexistência de direito à manutenção do plano de saúde coletivo nas mesmas condições da época da ativa, nos moldes da jurisprudência do STJ, invertendo-se os ônus sucumbenciais fixados na origem. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
