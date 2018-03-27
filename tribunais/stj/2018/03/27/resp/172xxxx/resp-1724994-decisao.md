@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por RAIMUNDO ISRAEL SOBRINHO, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado do Acre assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. AQUISIÇÃO DE MOTOCICLETA NOVA. REVISÃO PERIÓDICA E OBRIGATÓRIA PREVISTA EM MANUAL DO PROPRIETÁRIO E CERTIFICADO DE GARANTIA. REALIZADA FORA DA QUILOMETRAGEM DE TOLERÂNCIA PERMITIDA. BARULHO NO MOTOR. INOCORRÊNCIA DE VÍCIO OCULTO. NEGLIGÊNCIA DO PROPRIETÁRIO. NÃO COBERTURA PELAS GARANTIAS LEGAL E CONTRATUAL. DEVER DE INDENIZAR NÃO CONFIGURADO. RECURSO PROVIDO.
+1. É por meio da revisão periódica e obrigatória que as concessionárias autorizadas examinam os componentes da motocicleta, verificando o seu correto uso e funcionamento, realizando os ajustes, troca de filtros e lubrificações necessárias.
+2. A prova produzida indica que o ruído no motor decorreu de culpa exclusiva da parte proprietária da motocicleta, que não observou a quilometragem para promover a revisão periódica e obrigatória de 1.000 Km (um mil quilômetros), a fim de que, dentre outros serviços, fosse realizada a troca do óleo e dos componentes correlatos (essenciais ao bom funcionamento do motor).
+3. A longa quilometragem sem a adequada manutenção da motocicleta caracterizou ato de negligência da parte autora/apelada, o que não é socorrido pela garantia legal nem contratual.
+4. Não há que se imputar à parte ré/recorrente a responsabilidade pelos danos experimentados pela parte autora/apelada, com resguardo no art. 14, § 3o, inc. II, do Código de Defesa do Consumidor.
+5. Apelo provido" (e-STJ fls. 317/318).
+Nas razões do especial o agravante alega, além de divergência jurisprudencial, violação do artigo 26, II, §§ 1º e 3º, do Código de Defesa do Consumidor.
+Sustenta, em síntese, que tem direito a ser indenizado visto que o defeito na moto ocorreu dentro do prazo decadencial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Cinge-se a controvérsia na pretensão de condenação por danos morais e materiais sob alegação de defeito apresentado na moto dentro do prazo decadencial previsto no Código de Defesa do Consumidor.
+No presente caso, constata-se que a Corte estadual enfrentou a matéria posta em debate na medida necessária para o deslinde da controvérsia, nos termos em que proposta a lide e de acordo com as razões recursais, consignando:
+"(..)
+Após analisar detidamente o caderno probatório, constato que
+a parte autora/apelada, de fato, deixou de realizar a revisão periódica e obrigatória de 1.000 Km (um mil quilômetros) da motocicleta, indicação indispensável de bom uso cientificada pela fabricante por meio do manual do proprietário (pp. 112/120), razão pela qual, inobstante dentro do período de garantia legal e contratual, não faz jus à almejada substituição da motocicleta.
+(..)
+Verifico do Controle das Revisões/Manutenção Periódicas (pp. 118/120) e do Termo de Garantia (pp. 114/117) que a parte autora/apelada deveria realizar a revisão periódica e obrigatória de 1.000 Km (um mil quilômetros) dentro dos limites de quilometragem (novecentos quilômetros a um mil e cem quilômetros, vide p. 118), sob pena de não ser amparada pelas garantias legal e contratual.
+Porém, tais providências não foram tomadas, vez que a parte autora/apelada só realizou a primeira revisão periódica e obrigatória (de 1.000 Km - um mil quilômetros) na motocicleta quando a quilometragem já estava muito fora do limite de tolerância de 10% (dez por cento) a mais ou a menos, ou seja, em vez de ter realizado a referida revisão entre 900 Km (novecentos quilômetros) e 1.100 Km (um mil e cem quilômetros), só realizou tal diligência com 2.200 Km (dois mil e duzentos quilômetros), quando foi à concessionária para verificar a causa de um barulho que fazia no motor do referido veículo e, inclusive, ocorreu o sinistro já analisado e esclarecido no início do presente voto, conforme se infere da ordem de serviço 14.321 (pp. 105 e 107), bem como da réplica da parte autora/apelada:
+" ..  foi no pátio da Iº reclamada que a motocicleta sofreu um abalroamento quando estava em revisão (..)" (p. 130, destaquei).
+Após ter transcorrido 1.100 Km (um mil e cem quilômetros) a mais da quilometragem permitida/tolerante para a para a revisão periódica e obrigatória de 1.000 Km (um mil quilômetros), a parte autora/apelada compareceu na concessionária (16/01/2008) reclamando de barulho no motor (pp. 105 e 107), alegando se tratar de defeito oculto de fábrica.
+Entretanto, a prova produzida indica que o ruído no motor decorreu de culpa exclusiva da parte proprietária da motocicleta, que não observou a quilometragem para promover a revisão periódica e obrigatória de 1.000 Km (um mil quilômetros), a fim de que, dentre outros serviços, fosse realizada a troca do óleo e dos componentes correlatos (essenciais ao bom funcionamento do motor), conforme se colige do Controle das Revisões/Manutenção Periódicas" (e-STJ fls. 323/329).
+Rever tais conclusões demandaria o reexame do contrato e de matéria fático-probatória, o que é inviável em recurso especial, nos termos das Súmulas nºs 5 e 7/STJ.
+Nesse rumo:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL.
+AFIRMAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. AUSÊNCIA DE OMISSÃO.ARESTO FUNDAMENTADO. CONSUMIDOR. RESPONSABILIDADE CIVIL. PRETENSÃO INDENIZATÓRIA JULGADA IMPROCEDENTE. RECONHECIMENTO DE CULPA EXCLUSIVA DE TERCEIRO. INTELIGÊNCIA DO ART. 14, § 3º, II, DO CDC. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+2. O Tribunal local, com base nos elementos fático-probatórios produzidos nos autos, reconheceu a excludente do dever de indenizar previsto no art. 14, § 3º, II, do Código de Defesa do Consumidor, concluindo que o ato ilícito ocorreu por culpa exclusiva de terceiro.
+3. Na hipótese em análise, a modificação do entendimento firmado na instância ordinária, especialmente na forma em que postulada, demandaria o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento."
+(AgRg no AREsp 103.807/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/05/2016, DJe 17/05/2016)
+Por fim, com relação ao dissídio sustentado, o recurso não pode ser conhecido, pois além dos mesmos óbices impedirem a análise do recurso especial quanto à alínea "c" do permissivo constitucional, nos termos dos artigos 1.029, § 1º do CPC/2015 e 255, § 1º e 2º, do RISTJ, a divergência jurisprudencial requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. No caso, o recorrente apenas transcreveu as ementas deixando de realizar o cotejo analítico a evidenciar a divergência jurisprudencial.
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinze por cento) do valor da causa, os quais devem ser majorados para 17% (dezessete por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado, se for o caso, a concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
