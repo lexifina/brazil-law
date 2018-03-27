@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINULO EMPREENDIMENTOS S.A. contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"COMPRA E VENDA - Tolerância - Prazo que é admitido para abranger as hipóteses de fatores nem sempre previsíveis e controláveis, inerentes às grandes edificações.
+Verifica-se que o imóvel se encontra com o seu adquirente, com o termo de entrega das chaves, e não com a expedição do "habite-se". Em virtude do retardo no adimplemento, é devido o ressarcimento dos lucros cessantes, no valor de 0,5% do valor do contrato, por mês de atraso. Danos morais - Indenização devida pelos transtornos sofridos pelo autor, em razão da mora das rés, os quais dispensam comprovação - Valor arbitrado em R$ 10.000,00 (dez mil reais)- Reparação que atende à função punitiva, preventiva e satisfativa da pretensão - Comissão de corretagem e SATI - Prescrição trienal - Aplicação do art.206, § 3º, IV, do CC - Incidência dos Temas 938 e 939 do STJ - Recursos desprovidos" (fl. 291, e-STJ).
+A recorrente aponta dissídio jurisprudencial, sustentando haver
+"(..) divergência de entendimento entre os tribunais acerca da imposição de condenação em danos morais por atraso na entrega de bem imóvel sob a ótica do entendimento "in re ipsa" (dano moral presumido) e o que decorre disto, se o mero descumprimento do prazo de entrega do bem imóvel é causa de imposição de condenação em danos morais" (fl. 305, e-STJ).
+Contrarrazões não apresentadas (fl. 330, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso merece prosperar.
+De fato, a jurisprudência desta Corte é no sentido de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRA. ENTREGA. ATRASO. DANOS MORAIS. SÚMULA Nº 83/STJ.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+2. Agravo interno não provido"
+(AgInt no AREsp 973.811/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/8/2017, DJe 15/8/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL IN RE IPSA. NÃO CARACTERIZAÇÃO. DANOS NÃO COMPROVADOS. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA. IMPOSSIBILIDADE DE CONHECIMENTO DADA A APLICAÇÃO DA SÚMULA 7/STJ. LUCROS CESSANTES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO DESPROVIDO.
+1. Não há que se falar em violação do art. 535 do CPC/1973 quando o acórdão recorrido aprecia todos os argumentos suscitados pelo recorrente, sendo certo que o mero descontentamento da parte com o resultado do julgamento não configura negativa de prestação jurisdicional.
+2. "O mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais" (AgRg no AREsp 570.086/PE, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/10/2015, DJe 27/10/2015).
+3. Incide a Súmula 7/STJ quanto à pretensão de ver reconhecida a ocorrência de dano moral em decorrência do atraso na entrega do imóvel, tendo em vista que o Tribunal de origem, fundado nos elementos probatórios colacionados aos autos, afirmou inexistir ato ilícito indenizável. Não há dúvida de que seria imprescindível o reexame do conjunto de fatos e provas para acolher a tese deduzida no apelo extremo.
+4. Outrossim, é iterativa a jurisprudência desta Corte no sentido de que a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, na alínea c do permissivo constitucional, uma vez que inexiste identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Incidem as Súmulas 282 e 356 do STF quando não verificada discussão pelo Tribunal de origem acerca da matéria impugnada no recurso especial - caracterização de lucros cessantes - dada a ausência do indispensável prequestionamento.
+6. Agravo interno desprovido"
+(AgInt no AREsp 937.068/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/9/2016, DJe 13/10/2016).
+"CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSADOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido"
+(AgRg no REsp 1.408.540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 12/2/2015, DJe 19/2/2015).
+"RECURSOS ESPECIAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEIS NA PLANTA. ENTREGA DA OBRA. ATRASO. AÇÃO DE INDENIZAÇÃO. PROPRIETÁRIO PERMUTANTE. LEGITIMIDADE. CLÁUSULA PENAL. RECIPROCIDADE. LUCROS CESSANTES. CUMULAÇÃO. POSSIBILIDADE. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. PROVA. ÔNUS. RÉU. EXCESSO DE CHUVAS. ESCASSEZ DE MÃO DE OBRA. CASO FORTUITO. FORÇA MAIOR. NÃO CONFIGURAÇÃO. LUCROS CESSANTES. TERMO FINAL. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. INADIMPLEMENTO CONTRATUAL. DANOS MORAIS.
+1. Os recursos especiais têm origem em ação de indenização por perdas e danos decorrentes de atraso na conclusão de obra objeto de contrato de compromisso de compra e venda para fins de aquisição de unidades imobiliárias em empreendimento comercial.
+2. O proprietário permutante do terreno não responde pelos atos de incorporação quando se limita à mera alienação do terreno para a incorporadora sem participar de nenhum ato tendente à comercialização ou construção do empreendimento.
+3. Na espécie, as instâncias de cognição plena, à luz da prova dos autos, e analisando os contratos celebrados entre as partes, concluíram que a alienante permutante do terreno figurou nos contratos de promessa de compra e venda ora na condição de "vendedora" ora na condição de credora hipotecária, transmitindo para o adquirente/consumidor a ideia de solidariedade na efetivação do empreendimento, de forma que não pode ser reconhecida a sua ilegitimidade passiva.
+4. A cláusula penal inserta em contratos bilaterais, onerosos e comutativos deve voltar-se aos contratantes indistintamente, ainda que redigida apenas em favor de uma das partes.
+5. É possível cumular a cláusula penal decorrente da mora com indenização por lucros cessantes pela não fruição do imóvel, pois aquela tem natureza moratória, enquanto esta tem natureza compensatória.
+6. A alegação de exceção de contrato não cumprido arguida em defesa deve ser comprovada pelo réu, pois é seu o ônus de demonstrar o fato impeditivo, modificativo ou extintivo do direito do autor, nos termos no artigo 333, inciso II, do CPC/1973.
+7. Essa Corte já se pronunciou em inúmeras oportunidades no sentido de que a inversão das conclusões da Corte local para afirmar, por exemplo, que o excesso de chuvas e a escassez de mão de obra configuram fatos extraordinários e imprevisíveis, enquadrando-se como hipóteses de caso fortuito ou força maior, demandaria o reexame do conjunto fático-probatório dos autos.
+8. A conclusão da Corte local para fixar a data da expedição da carta de habite-se como termo final do pagamento dos lucros cessantes resultou da análise das circunstâncias fáticas, bem como da interpretação de cláusulas contratuais.
+9. O simples inadimplemento contratual não é capaz, por si só, de gerar dano moral indenizável, devendo haver consequências fáticas que repercutam na esfera de dignidade da vítima, o que não se constatou no caso concreto.
+10. Recursos especiais parcialmente conhecidos e não providos"
+(REsp 1.536.354/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7/6/2016, DJe 20/6/2016).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido"
+(AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015).
+Na hipótese em apreço, não houve comprovação do dano moral sofrido pelos recorridos, tendo o tribunal estadual apenas registrado que "(..) o caso narrado nos autos relata os transtornos sofridos pelos autores, gerando, além de frustração, abalos de ordem psicológica que dispensam comprovação" (fl. 297, e-STJ).
+Ante o exposto, dou provimento ao recurso especial para afastar a condenação da recorrente em danos morais.
+Publique-se.
+Intimem-se.
