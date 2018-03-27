@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. LIQUIDAÇÃO. ERRO NOS CÁLCULOS DA CONTADORIA. VERIFICAÇÃO. SÚMULA 7 DO STJ.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A verificação da existência de erro no cálculo promovido pela contadoria do juízo em liquidação de sentença pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo HOSPITAL DE CLÍNICAS DE PORTO ALEGRE para desafiar decisão de minha lavra, proferida às e-STJ fls. 606/608, em que conheci do agravo para não conhecer do recurso especial, com fulcro no art. 253, parágrafo único, II, "a", do RISTJ, visto que a análise da questão trazida no recurso esbarra no óbice da Súmula 7 do STJ.
+No presente agravo interno, sustenta a parte que não se trata de reexame de questões fáticas ou de provas, aduzindo que os cálculos da contadoria federal - utilizados pelo Juízo - tiveram atualização pela variação do salário mínimo, de 08/2005 até 01/2013, o que se mostra "contrário ao determinado pelo próprio Juízo, quando, repete-se, determinou que "no período de tramitação do precatório, a correção monetária é feita pelo próprio Tribunal (que utiliza o IPCA-E a partir de 2002" (fl.632)" (e-STJ,fl. 614).
+Requer, assim, a reconsideração do decisum impugnado ou a submissão do feito ao Órgão colegiado.
+Sem impugnação (e-STJ fl. 618).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Dito isso, tenho que o inconformismo sob exame não merece prosperar.
+Consoante assentado pela decisão ora agravada, o Tribunal de origem tomou por válido o cálculo promovido pela contadoria judicial, afastando a assertiva do ora agravante de tratar-se de diferenças devidas em face de precatório já efetivado nos autos.
+Nesse contexto, considerando a situação delineada no acórdão recorrido, à luz da Súmula 7 desta Corte Superior, o recurso especial não serve à constatação de vícios nos cálculos da contadoria. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. CÁLCULOS DA CONTADORIA JUDICIAL. HONORÁRIOS ADVOCATÍCIOS. ALEGADA OFENSA AO ART. 535, II, DO CPC/73 (ART. 1.022, II, DO CPC/2015). INEXISTÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO QUE, EM RAZÃO DA SUCUMBÊNCIA RECÍPROCA, DETERMINOU A COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. INVIABILIDADE, ANTE O ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 27/03/2017, que julgou recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/2015.
+II. Não há falar, na hipótese, em violação ao art. 535 do CPC/73 (atual art. 1.022, II, do CPC/2015), porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+III. O entendimento firmado pelo Tribunal a quo - no sentido de que não restou demonstrado, de forma precisa, o alegado excesso de execução, nem tampouco a imprecisão nos cálculos judiciais, confirmados pelo Juízo - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte.
+IV. Ademais, "a jurisprudência do STJ é firme no sentido de que tecer considerações acerca dos critérios e informações contábeis utilizados para a liquidação da sentença exige incursão do STJ no conteúdo fático-probatório. Incidência da Súmula /7STJ" (STJ, REsp 1.622.353/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2017).
+V. Em relação à existência ou à extensão da sucumbência recíproca, a alteração do entendimento do Tribunal de origem somente seria possível mediante o revolvimento do contexto fático-probatório dos autos, providência inviável, em sede de Recurso Especial, em razão da Súmula 7/STJ. Precedentes do STJ (AgInt no AREsp 918.616/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/11/2016; AgRg no AREsp 842.817/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 16/03/2016).
+VI. Agravo interno improvido. (AgInt no AREsp 1.062.658/PI, Relatora Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 23/10/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDENCIÁRIO. RECURSO NÃO CONHECIDO PELA PRESIDÊNCIA EM RAZÃO DE ÓBICES SUMULARES. POSSIBILIDADE DE MITIGAÇÃO DOS VERBETES OBSTRUTIVOS. NÃO É POSSÍVEL, EM SEDE DE RECURSO ESPECIAL, ALBERGAR A TESE DE INCORREÇÃO DOS CÁLCULOS REALIZADOS PELA CONTADORIA JUDICIAL. INCIDÊNCIA DA SÚMULA 7 DESTA CORTE. AGRAVO INTERNO DA SEGURADA A QUE SE NEGA PROVIMENTO.
+1. Não é possível, em sede de Recurso Especial, a análise da suficiência ou não de provas para comprovação do direito alegado.
+2. A Corte de origem consignou que a Autarquia Previdenciária informou não ter localizado, na agência concessora, o Procedimento Administrativo concessório do benefício que se pretende revisar, ressaltando, contudo, que os cálculos foram realizados com a relação de salários de contribuição trazidos pela própria autora. Rechaçando, assim, qualquer incorreção nas contas elaboradas pela Contadoria Judicial.
+3. Assim, não é possível, em sede de Recurso Especial, rever as premissas adotadas pelo Tribunal de origem relativamente aos cálculos do contador, para fins de verificação de possível incorreção, ante o óbice contido nos termos da Súmula 7/STJ.
+4. Agravo Interno da Segurada a que se nega provimento. (AgInt no AgInt no AREsp 862.810/RJ, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 02/08/2017)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
