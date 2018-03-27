@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com fundamento na alínea "a" do inciso III do art. 105 da CF/88, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fl. 403):
+PIS. SOCIEDADES COOPERATIVAS DE CRÉDITO. MEDIDA PROVISÓRIA N.º 1.858/99. LEI 5.764/71.
+As disposições das Leis Complementares 7/70 e 70/91, devem ser tidas como de leis ordinárias, e, portanto, passíveis de modificação por norma da mesma hierarquia.
+Os atos cooperativos não estão sujeitos à incidência do PIS e da COFINS, porquanto o art. 79 da Lei 5.764/71 dispõe que o ato cooperativo não implica operação de mercado, nem contrato de compra e venda de produto ou mercadoria. O resultado positivo decorrente dos atos típicos da sociedade cooperativa não pode ser tido como faturamento. Mantido o fim societário na pratica do ato próprio que beneficie à sociedade cooperativa, não resta configurada a base de cálculo do PIS e da COFINS.
+No caso das cooperativas de crédito, toda a sua movimentação financeira, incluindo a captação de recursos, a realização de empréstimos aos cooperados e a efetivação de aplicações financeiras no mercado, constitui ato cooperativo, o que impede a incidência da contribuição ao PIS
+Os embargos de declaração opostos (e-STJ, fls. 408/414) foram acolhidos tão somente para fins de prequestionamento (e-STJ, fls. 416/418).
+Alega a recorrente, nas razões do especial, violação dos arts. 535, I, e 515, do CPC/73; 111, II, do CTN; 79 da Lei n. 5.764/71; 22, § 1º, e 23 da Lei n. 8.212/91 e 97 da Constituição Federal.
+Defende, em síntese, que o acórdão combatido foi omisso no que diz respeito aos objetivos sociais da recorrida.
+Sustenta, ainda, que as atividades financeiras da recorrida não podem ser enquadradas no conceito de ato cooperativo, pelo que devidos o PIS e a COFINS sobre tais operações.
+Foram apresentadas contrarrazões às e-STJ, fls. 447/455.
+Convertido o agravo em recurso especial (e-STJ, fl. 473), vieram os autos conclusos.
+É o relatório.
+Registro, desde logo, que não merece prosperar a tese de violação dos arts. 535, I, e 515 do CPC/73, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Com efeito, o Tribunal a quo manifestou-se expressamente sobre a matéria, nos seguintes termos (e-STJ, fl. 398):
+No caso das cooperativas de crédito, toda a sua movimentação financeira, incluindo a captação de recursos, a realização de empréstimos aos cooperados e a efetivação de aplicações financeiras no mercado, constitui ato cooperativo, o que impede a incidência da contribuição ao PIS. Isso porque, via de regra, estão impedidas de realizar negócios jurídicos com não cooperativados, sob pena de praticarem atividades típicas de instituições financeiras.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp 884.151/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/5/2016, DJe 13/6/2016)
+No que tange à suposta violação dos arts. 111, II, do CTN, 79 da Lei n. 5.764/71 e 22, § 1º, e 23 da Lei n. 8.212/91, o Tribunal a quo decidiu que (e-STJ, fl. 401): "Ressalva-se, contudo, a incidência da contribuição ao PIS/COFINS relativamente ao produto de eventuais atos praticados com terceiros que tenham ocorrido ou que possam vir a ocorrer".
+Sobre o tema, o Supremo Tribunal Federal, ao julgar o RE 598.085/RJ, com repercussão geral reconhecida, construiu o conceito de " ..  "ato não cooperativo", por exclusão, nos sentido de que são todos os atos ou negócios praticados com terceiros não associados (cooperados), ex vi, pessoas físicas ou jurídicas tomadoras de serviços". Prossegue afirmando que é possível a " ..  revogação do benefício fiscal (isenção da COFINS) previsto no inciso I do art. 6º da LC n. 70/91, pela MP n. 1.858-6 e reedições seguintes, consolidada na atual MP n. 2.158-35".
+Ainda sobre o tema, registre-se que o Superior Tribunal de Justiça firmou a tese segundo a qual "não incide a contribuição destinada ao PIS/COFINS sobre os atos cooperativos típicos realizados pelas cooperativas" (REsp 1.141.667/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 27/4/2016, DJe 4/5/2016).
+Outrossim, esta Corte também consolidou o entendimento, segundo o qual " ..  não se pode deixar de aplicar a norma contida no art. 23, II, da MP 1.858-6/1999 (atual MP 2.158-35/2001), que expressamente revogou a isenção conferida pelo art. 6º, I, da LC 70/1991, sem, para tanto, declarar sua inconstitucionalidade" (REsp 1.096.478/MG, Rel. Ministra Eliana Calmon, Rel. p/ Acórdão Ministro Castro Meira, Segunda Turma, julgado em 17/5/2011, DJe 22/3/2013).
+Conclui-se, pois, que incidem o PIS e a COFINS sobre as operações de crédito firmadas entre as cooperativas de crédito com terceiros, não associados; e que é válida a revogação da isenção do PIS e da COFINS, perpetrada pelo art. 23, II, da MP n. 1.858-6/1999 (atual MP n. 2.158-35/2001).
+Portanto, como é possível observar, o acórdão está em consonância com a jurisprudência desta Corte Superior, atraindo a incidência da Súmula 568 do STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
