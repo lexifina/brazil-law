@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fulcro no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça daquela unidade federativa, assim ementado, na parte que interessa:
+"COMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO. Conforme a redação do artigo 67 do Código Penal, a reincidência e as circunstâncias que resultam da personalidade do agente, são igualmente consideradas preponderantes, e, como espécie dessas últimas, tem-se a confissão espontânea, estando autorizada a compensação." (e-STJ, fls. 221-222).
+O recorrente sustenta negativa de vigência ao art. 67 do Código Penal. Para tanto, alega que o Tribunal a quo ao compensar a atenuante da confissão com a agravante da reincidência desconsiderou o fato dos réus serem multirreincidentes.
+Contrarrazões apresentadas (e-STJ, fls. 274-282).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ, fls. 312-316).
+É o relatório.
+Decido.
+O inconformismo do recorrente merece prosperar.
+O Juízo de origem deixou de compensar a atenuante da confissão espontânea com a agravante da reincidência, sob a seguinte motivação:
+"Há, no caso, concurso entre agravantes e atenuantes: de um lado, reincidência, de outro, confissão espontânea. Considerando a preponderância da circunstância agravante, aumento a pena em 1 mês. A pena provisória resta fixada em 2 anos e 6 meses.
+ ..
+Há, no caso, concurso entre agravantes e atenuantes: de um lado, reincidência específica em crime doloso, de outro, confissão espontânea. Considerando a preponderância da circunstância agravante, aumento a pena em 3 meses. A pena provisória resta fixada em 2 anos e 8 meses." (e-STJ, fls. 141).
+Sobre o tema, a Terceira Seção desta Corte, em 10/4/2013, no julgamento do Recurso Especial Representativo de Controvérsia 1.341.370/MT, de Relatoria do Ministro Sebastião Reis Júnior, firmou o entendimento de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência". No entanto, o deferimento de tal benesse não constitui regra de aplicação obrigatória, devendo ser aferido segundo as peculiaridades de cada hipótese, consoante os princípios da razoabilidade e da individualização da pena.
+Verifico, em análise atenta das CAC de fls. 50-61 (e-STJ), que os réus são multirreincidentes, possuindo diversas condenações definitivas.
+Na espécie, tratando-se de réus multirreincidentes, de fato, a agravante do art. 61, I, do CP deve se sobrepor a atenuante da confissão. Desse modo, o Tribunal de origem decidiu em divergência com a jurisprudência desta Corte, ao assentar que a multirreincidência dos réus pode ser compensada integralmente em tais circunstâncias.
+A propósito, confira-se:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO QUALIFICADO. REINCIDÊNCIA. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO. POSSIBILIDADE. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. RESP. 1.341.370/MT. MULTIRREINCIDÊNCIA OU REINCIDÊNCIA ESPECÍFICA NÃO COMPROVADAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em não conhecimento do recurso especial. Este ficou sobrestado na origem aguardando o julgamento do recurso representativo de controvérsia REsp. 1.341.370/MT. Após, retornou ao colegiado de origem, para o cumprimento do disposto no inciso II do § 7º do art. 543-C do CPC. Mantida a decisão divergente pelo Tribunal a quo, foi realizado o juízo de admissibilidade do recurso especial e encaminhados os autos a esta Corte, tudo em conformidade com o art. 543-C, § 8º, do CPC.
+2. À exceção de condenados multirreincidentes ou reincidentes específicos, quando poderá haver uma ponderação diferenciada entre a reincidência e a confissão espontânea, forçosa a incidência da orientação pacífica desta Corte, firmada em recurso representativo de controvérsia, segundo a qual é possível, na segunda fase da dosimetria da pena, a compensação integral da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal (REsp. 1.341.370/MT, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe 17/4/2013).
+3. Agravo Regimental desprovido." (AgRg no REsp 1.541.308/RO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2016, DJe 29/02/2016).
+Passo, portanto, à nova dosimetria da pena.
+ADRIANO LOPES DE AZEVEDO:
+A partir dos parâmetros estabelecidos no acórdão recorrido, fixo a pena-base em 2 anos de reclusão. Na segunda fase, embora reconhecida a atenuante da confissão, diante de duas condenações transitadas em julgado em desfavor do acusado, aumento a pena em 1 mês. Por fim, tendo em vista que o crime foi cometido de forma tentada, reduzo a pena em 1/2 e torno a reprimenda de 1 ano e 15 dias de reclusão em definitiva.
+FABRÍCIO HARTMANN:
+A partir dos parâmetros estabelecidos no acórdão recorrido, fixo a pena-base em 2 anos de reclusão. Na segunda fase, embora reconhecida a atenuante da confissão, diante de quatro condenações transitadas em julgado em desfavor do acusado, aumento a pena em 3 meses. Por fim, tendo em vista que o crime foi cometido de forma tentada, reduzo a pena em 1/2 e torno a reprimenda de 1 ano e 1 mês e 15 dias de reclusão em definitiva.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para reconhecer que a multirreincidencia se sobrepõe a atenuante da confissão e, assim, fixar as penas em 1 ano e 15 dias de reclusão, ao recorrido Adriano e 1 ano, 1 mês e 15 dias de reclusão ao recorrido Fabrício.
+Publique-se. Intimem-se.
