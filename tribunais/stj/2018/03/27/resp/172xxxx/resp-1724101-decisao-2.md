@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por NEIVA CANALLI SARTOR contra a decisão que inadmitiu recurso especial fundamentado nas alínea "a" do permissivo constitucional. O apelo nobre desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE. TAXA DE COPARCIPAÇÃO EM PERCENTUAL. CLÁUSULA ABUSIVA. NECESSIDADE DE FIXAÇÃO DE VALOR FIXO DA COPARTICIPAÇÃO. ART. 49, INCISO VII, DA RESOLUÇÃO Nº 08 DA AGÊNCIA NACIONAL DE SAÚDE - ANS. DEVIDA A RESTITUIÇÃO DOS VALORES PAGOS DE FORMA INDEVIDA. DANO MORAL NÃO CONFIGURADO. SENTENÇA DE IMPROCEDÊNCIA REFORMADA. RECURSO PARCIALMENTE PROVIDO" (e-STJ fl. 327).
+No recurso especial (fls. 532/547 e-STJ), a recorrente alega violação dos artigos 186, 927 do Código Civil e 6º, VI, do Código de Defesa do Consumidor.
+Argumenta que diante da injusta recusa de cobertura de tratamento médico, por parte do plano de saúde, há a ocorrência do dano moral.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Primeiramente, importa destacar trecho do acórdão recorrido relevante para a compreensão da controvérsia:
+"Embora prevista no contrato, mostra-se abusiva a cláusula que limita os direitos dos consumidores de plano de saúde, vulnerando as finalidades básicas do contrato. II.
+Mesmo que o Código de Defesa do Consumidor não vede expressamente a exigência de coparticipação do beneficiários no plano de saúde, tal cláusula afronta o disposto no art. 51, inciso IV, do CDC, (..)
+(..)
+No caso, a cláusula do contrato estabelece percentuais a título de coparticipação, devendo ser reconhecida a abusividade da cobrança.
+(..)
+Por outro lado, entendo que a situação delineada nos autos não gerou qualquer ato causador de dano moral, sendo apenas mero aborrecimento decorrente da observância de cláusula abusiva contida no contrato entabulado entre as partes" (e-STJ fl. 330 e 332).
+Percebe-se que o Tribunal de origem considerou abusiva a cooparticipação tão somente porque foi estipulada em percentual sobre o tratamento realizado, sem sequer analisar objetivamente se o percentual contratado poderia, de fato, inviabilizar a utilização do seguro de saúde. Tal entendimento não encontra guarida tanto na legislação regente quanto na jurisprudência desta Corte. Entende-se que a cooparticipação fixada na forma de percentual sobre o valor do tratamento por si só não denota ilegalidade.
+Nesse sentido:
+"RECURSO ESPECIAL. CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE. COPARTICIPAÇÃO DO USUÁRIO EM VALORES PERCENTUAIS. PREVISÃO CONTRATUAL CLARA E EXPRESSA. TRATAMENTO SEM INTERNAÇÃO. LEGALIDADE. FATOR DE RESTRIÇÃO SEVERA AOS SERVIÇOS. INEXISTÊNCIA. ABUSIVIDADE. AFASTAMENTO.
+1. Cinge-se a controvérsia a saber se é abusiva cláusula contratual de plano de saúde que prevê a coparticipação do usuário nas despesas médico-hospitalares em percentual sobre o custo do tratamento.
+2. Os planos de saúde, instituídos com o objetivo de melhor gerir os custos da assistência privada à saúde, podem ser integrais (completos) ou coparticipativos.
+3. O art. 16, VIII, da Lei nº 9.656/1998 permitiu a inclusão de fatores moderadores, paralelos às mensalidades, no custeio dos planos de saúde, como a coparticipação, a franquia e os limites financeiros, que devem estar devidamente previstos no contrato, de forma clara e legível, desde que também não acarretem o desvirtuamento da livre escolha do consumidor. Precedente.
+4. A adoção da coparticipação no plano de saúde implica diminuição do risco assumido pela operadora, o que provoca redução do valor da mensalidade a ser paga pelo usuário, que, por sua vez, caso utilize determinada cobertura, arcará com valor adicional apenas quanto a tal evento.
+5. Os fatores moderadores de custeio, além de proporcionar mensalidades mais módicas, são medidas inibitórias de condutas descuidadas e pródigas do usuário, visto que o uso indiscriminado de procedimentos, consultas e exames afetará negativamente o seu patrimônio. A prudência, portanto, figura como importante instrumento de regulação do seu comportamento. 6. Não há falar em ilegalidade na contratação de plano de saúde em regime de coparticipação, seja em percentual sobre o custo do tratamento seja em montante fixo, até mesmo porque "percentual de co-participação do consumidor ou beneficiário" (art. 16, VIII, da Lei nº 9.656/1998) é expressão da lei. Vedação, todavia, da instituição de fator que limite seriamente o acesso aos serviços de assistência à saúde, a exemplo de financiamentos quase integrais do procedimento pelo próprio usuário, a evidenciar comportamento abusivo da operadora.
+7. A coparticipação em percentual sobre o custo do tratamento é proibida apenas nos casos de internação, e somente para os eventos que não tenham relação com a saúde mental, devendo, no lugar, ser os valores prefixados (arts. 2º, VII e VIII, e 4º, VII, da Resolução CONSU nº 8/1998).
+8. O afastamento da cláusula de coparticipação equivaleria a admitir-se a mudança do plano de saúde para que o usuário arcasse com valores reduzidos de mensalidade sem a necessária contrapartida, o que causaria grave desequilíbrio contratual por comprometer a atuária e por onerar, de forma desproporcional, a operadora, a qual teria que custear a integralidade do tratamento.
+9. Recurso especial provido."
+(REsp 1.566.062/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/6/2016, DJe 1º/07/2016)
+Assim, sendo, reconhecida a legalidade da cláusula de coparticipação, não há que se falar na ocorrência de dano moral.
+Além disso essa Corte entendo que há situações em que existe dúvida jurídica razoável na interpretação de cláusula contratual, de forma que a conduta da operadora, ao optar pela restrição da cobertura sem ofender os deveres anexos do contrato - como a boa-fé -, não pode ser reputada ilegítima ou injusta, violadora de direitos imateriais, o que afasta qualquer pretensão de compensação por danos morais.
+Observe-se o seguinte precedente:
+"CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER E DE COMPENSAÇÃO DE DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO. DOENÇA. COBERTURA. RECUSA INJUSTIFICADA. DEVERES ANEXOS OU LATERAIS. BOA-FÉ OBJETIVA. VIOLAÇÃO. DANO MORAL. OCORRÊNCIA.
+1. O propósito recursal é determinar se a negativa da seguradora ou operadora de plano de saúde em custear tratamento de doença coberta pelo contrato tem, por si só, a aptidão de causar dano moral ao consumidor segurado.
+2. Embora o mero inadimplemento, geralmente, não seja causa para ocorrência de danos morais, a jurisprudência do STJ vem reconhecendo o abalo aos direitos da personalidade advindos da recusa indevida e ilegal de cobertura securitária, na medida em que a conduta agrava a já existente situação de aflição psicológica e de angústia no espírito do segurado.
+3. A recusa indevida e abusiva de cobertura médica essencial à cura de enfermidade coberta por plano de saúde contratado caracteriza o dano moral, pois há frustração da justa e legítima expectativa do consumidor de obter o tratamento correto à doença que o acomete.
+4. Existem situações, todavia, em que a recusa não é indevida e abusiva, sendo possível afastar a presunção de dano moral, pois dúvida razoável na interpretação do contrato não configura conduta ilícita capaz de ensejar indenização.
+5. O critério distintivo entre uma e outra hipótese é a eventualidade de a negativa da seguradora pautar-se nos deveres laterais decorrentes da boa-fé objetiva, a qual impõe um padrão de conduta a ambos os contratantes no sentido da recíproca colaboração, notadamente, com a prestação das informações necessárias ao aclaramento dos direitos entabulados no pacto e com a atuação em conformidade com a confiança depositada.
+6. In casu, o tratamento para a doença (neoplasia) por meio de radioterapia teria sido previsto no contrato, e a negativa de cobertura teria sido justificada pelo fato de o método específico de tratamento não estar previsto na lista de procedimentos da Agência Nacional de Saúde. Como a negativa de cobertura não estava expressa e destacada no contrato e como o tratamento seria necessário e indispensável à melhora da saúde, a recusa ao custeio do tratamento mostra-se injusta e decorrente de abuso, violando a justa expectativa da parte, o que revela a existência de dano moral a ser indenizado.
+7. Recurso especial conhecido e provido".
+(REsp 1.651.289/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 6/4/2017, DJe 5/5/2017 - grifou-se)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
