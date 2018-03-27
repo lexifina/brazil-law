@@ -1,0 +1,39 @@
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. DOSIMETRIA. DETRAÇÃO. NULIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356, AMBAS DO STF. SUBSTITUIÇÃO DA REPRIMENDA CORPORAL POR PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. REINCIDÊNCIA. AGRAVO CONHECIDO PARA DESPROVER O RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão proferida pelo eg. Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que o MM. Juízo de 1º Grau condenou o ora recorrente como incurso nas sanções do art. 180, caput, do Código Penal, à pena de 01 (um) ano de reclusão, em regime inicial semiaberto, mais 10 dias-multa (fls. 121-127).
+O eg Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal ali interposto pela Defesa (fls. 166-171). Eis a ementa do decisum:
+"APELAÇÃO CRIMINAL - RECEPTAÇÃO - OBJETIVA QUE, NÃO OBSTANTE A REINCIDÊNCIA, SEJA O REÚ BENEFICIADO COM PENA RESTRITIVA DE DIREITOS - IMPOSSIBILIDADE - AS PENAS ANTERIORES NÃO TIVERAM O CONDÃO DE PERSUADIR O RÉU A ENVEREDAR-SE POR OUTROS CAMINHOS - PENA DOSADA COM CRITÉRIO - RECURSO DESPROVIDO."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual o recorrente alega violação ao art. 44, incisos I e III, e § 3º, ambos do Código Penal, aos arts. 83, 381, inciso III, e 387, § 2º, ambos do Código de Processo Penal, e ao art. 8, 1, da Convenção Americana sobre Direitos Humanos (fls. 175-195). Para tanto, alega que:
+a) "envolvendo o tema matéria de ordem pública, é desnecessária a manifestação do Tribunal a quo, principalmente se ele foi o causador do vício e ele tem como conteúdo uma omissão" (fl. 179).
+b) "as regras de competência determinam que há prevenção quando o órgão praticar ato ligado ao processo. Em outros termos, atuando de alguma forma na ação penal, o juiz ou órgão jurisdicional fica prevento. Ele passa a ser a autoridade competente para o julgamento" (fl. 183).
+c) "o Tribunal a quo não tratou, no acórdão que manteve a condenação, do tempo de prisão provisória para a fixação do regime inicial de cumprimento da pena, conforme exige o artigo 387, § 2º do CPP. Com isso, violou o artigo 381, III, do Código de Processo Penal e artigo 8º da Declaração dos Direitos Humanos, do qual deriva o devido processo legal, o que leva à anulação do processo desde então" (fl. 186).
+d) "é devida a substituição da pena privativa de liberdade pela restritiva de direitos, já que a pena não ultrapassa 04 anos, não é reincidente específico e preenche os requisitos subjetivos, como exige o artigo 44, I e III, e § 3º do CP" (fl. 191).
+O apelo nobre foi inadmitido na origem pela aplicação das Súmulas n. 7 e 211, ambas do STJ (fls. 246-247).
+Daí o presente agravo, no qual o agravante repisa os argumentos expendidos no recurso especial e refuta os fundamentos da decisão que o inadmitiu (fls. 251-257).
+Contraminuta apresentada pelo Parquet (fls. 262-270).
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo desprovimento do agravo (fl. 290-295).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Inicialmente, no que diz respeito à alegação de violação aos arts. 83, 381, inciso III, e 387, § 2º, ambos do Código de Processo Penal, e ao art. 8, 1, da Convenção Americana sobre Direitos Humanos, identifico que o recurso não merece prosperar.
+Dá análise dos autos, constato que o recurso não reúne condições de admissibilidade, pois os referidos dispositivos de lei infraconstitucional, nos termos do que mencionado no apelo nobre, não foram objeto de específico debate pelo Colegiado a quo, quando do julgamento da apelação criminal ali apresentada pela Defesa, o que inviabiliza, neste Superior Tribunal de Justiça, o conhecimento do pedido em sede de recurso especial, devido à ausência de prequestionamento.
+O eg. Tribunal a quo, ao inadmitir o apelo nobre, consignou: "cumpre registrar que a matéria ventilada não restou devidamente prequestionada, como se exigia no caso" (fl. 246).
+Como bem ressaltado pelo ilustre representante do Parquet Federal, em seu d. parecer: "é condição sine qua non de conhecimento do recurso especial que o acórdão recorrido tenha emitido juízo de valor expresso sobre a tese jurídica que se busca discutir na instância excepcional, sob pena de ausência de pressuposto específico, qual seja, o prequestionamento" (fl. 293).
+Assim, ausente a manifestação do eg. Tribunal de origem sobre o tema, sem sequer terem sido opostos embargos de declaração pela Defesa para suprir a suposta omissão, tem-se que o recurso especial não reúne condições de prosperar, em face do indispensável prequestionamento da matéria, a teor do enunciado sumular n. 282 do eg. Supremo Tribunal Federal.
+Nesse sentido, confira-se:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ART. 12 DA LEI N. 6.368/76. ABSOLVIÇÃO. REVOLVIMENTO DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. DEPOIMENTO DE POLICIAIS. MEIO DE PROVA. VALIDADE. DOSIMETRIA. ELEMENTOS CONCRETOS. ELEVADA QUANTIDADE DE DROGA. PENA-BASE. EXASPERAÇÃO. POSSIBILIDADE. AFRONTA AO ART. 59 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356/STF. INSURGÊNCIA DESPROVIDA.
+ ..
+6. A questão relativa ao disposto no art. 59 do Código Penal não foi objeto de discussão na instância de origem, não tendo sido opostos embargos de declaração pela defesa para sanar qualquer omissão no julgado, bem como no recurso especial não se apontou afronta ao art. 619 do Código de Processo Penal de modo a acusar eventual negativa de prestação jurisdicional, esbarrando o pleito recursal no óbice das Súmulas n. 282 e 356/STF, diante da ausência de prequestionamento do tema.
+7. Agravo regimental desprovido." (AgRg no REsp n. 1.514.101/SP, Quinta Turma, de minha lavra, DJe de 24/5/2017).
+Por derradeiro, no que concerne à alegação de violação ao art. 44, incisos I e III, e § 3º, do Código Penal, no sentido de que "é devida a substituição da pena privativa de liberdade pela restritiva de direitos, já que a pena não ultrapassa 04 anos, não é reincidente específico e preenche os requisitos subjetivos, como exige o artigo 44, I e III, e § 3º do CP" (fl. 191), de igual modo, identifico que o reclamo não merece acolhimento.
+O MM. Juízo de 1º Grau, ao negar a substituição da reprimenda corporal por penas restritivas de direitos, sobre a quaestio, no que importa ao caso, consignou: "porque reincidente pela prática de crime de idêntica, senão maior, gravidade (porte de arma de fogo), o réu não preenche os requisitos autorizadores da suspensão condicional da pena nem da substituição da pena privativa de liberdade por outra modalidade" (fls. 125-126, grifei).
+Com efeito, não se pode acolher o pleito recursal, tendo em vista que, in casu, o recorrente é reincidente, circunstância apta a obstaculizar a requerida substituição da reprimenda corporal por penas restritivas de direitos, nos termos do que dispõe o art. 44, inciso II, do Código Penal.
+Nesse sentido, ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. NEGATIVA DE SUBSTITUIÇÃO DA PENA PRIVATIVA PELA RESTRITIVA DE DIREITOS. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. REINCIDÊNCIA. SENTENCIADO FORAGIDO À ÉPOCA DO FATO. POSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. Não há ilegalidade na vedação da substituição da pena privativa de liberdade em caso de réu reincidente em crime doloso, se a medida não for socialmente recomendável, conforme jurisprudência reiterada desta Corte Superior.
+3. Agravo improvido." (AgRg no AREsp n. 1.133.532/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 4/12/2017, grifei).
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial, nos termos do art. 253, parágrafo único, inciso II, alínea b, do Regimento Interno deste Superior Tribunal de Justiça.
+P. e I.
