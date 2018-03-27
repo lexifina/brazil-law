@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. VIOLAÇÃO AOS ARTS. 408 DO CPC/2015; 1º, 2º E 4º DA LEI N. 12.007/2009; E 2º, 3º E 6, VIII, DO CDC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 2. CONTRATO DE COMPRA E VENDA. QUITAÇÃO NÃO COMPROVADA. INCIDÊNCIA DA SÚMULA 7 DO STJ. 3. JULGAMENTO ANTECIPADO DA LIDE. NULIDADE DA SENTENÇA RECONHECIDA NA ORIGEM. TRIBUNAL DE ORIGEM QUE ENTENDEU NÃO SEREM SUFICIENTES AS PROVAS JUNTADAS AOS AUTOS. INCIDÊNCIA, MAIS UMA VEZ, DA SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial.
+Depreende-se dos autos que a ação indenizatória proposta pela ora recorrente em desfavor da ora recorrida foi julgada parcialmente procedente para manter a antecipação de tutela inicialmente concedida, bem como para condenar a ré ao pagamento dos valores gastos a título de aluguel e das despesas previstas na cláusula décima do contrato.
+Inconformada, a ré interpôs apelação, que foi provida pela Quinta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo para anular a sentença, a fim de que a questão referente à comprovação da quitação do imóvel objeto de compra e venda seja examinada, conferindo às partes oportunidade para demonstrarem o alegado, consoante o acórdão recorrido assim ementado (e-STJ, fl. 398):
+COMPROMISSO DE COMPRA E VENDA. REVISIONAL CUMULADA COM DEVOLUÇÃO DE VALORES E INDENIZAÇÃO. Atraso na entrega de obra. Alegação de inadimplência pela ré não examinada na sentença. Matéria que deve ser examinada pelo juízo, sob pena de supressão de grau de jurisdição. Sentença anulada. Recurso provido.
+Os embargos de declaração opostos pela demandante foram rejeitados.
+Em suas razões recursais, a recorrente alegou a existência de violação aos arts. 336, 370, 371, 373 e 408 do Código de Processo Civil de 2015; 1º, 2º e 4º da Lei n. 12.007/2009; e 2º, 3º e 6º, VIII, do Código de Defesa do Consumidor.
+Sustentou, em síntese, estar comprovada a quitação do imóvel alienado. Apontou que a Declaração de Quitação Anual de Débitos, que lhe foi encaminhada pela própria recorrida, é suficiente para demonstrar o adimplemento integral. Ao final, aduziu não ser o caso de anulação da sentença, porquanto, mesmo sendo oportunizado prazo à parte demandada para comprovar suas alegações, esta não o fez em momento oportuno.
+Contrarrazões às fls. 457-464 (e-STJ).
+Não admitido o processamento do apelo nobre na origem, a parte insurgente interpõe o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 478-482).
+Brevemente relatado, decido.
+No que se refere à apontada violação aos arts. 408 do CPC/2015; 1º, 2º e 4º da Lei n. 12.007/2009; e 2º, 3º, 6º, VIII, do CDC, verifica-se que os conteúdos normativos dos referidos dispositivos legais não foram objeto de apreciação no acórdão combatido, carecendo, com isso, do imprescindível prequestionamento.
+Desse modo, incidem, na espécie, as Súmulas 282 e 356 do STF.
+No que se refere à alegada comprovação da quitação, asseverou o Tribunal de origem inexistir, nos autos, recibo ou comprovante do adimplemento, conforme se depreende do seguinte trecho extraído do acórdão guerreado (e-STJ, fls. 400):
+Divergem as partes quanto à justificativa pela demora na entrega das chaves do imóvel, pois a autora afirma que houve quitação, conforme documento de fls. 36, emitido pela ré, em que, para fins de declaração à Receita Federal, foi informado o pagamento de R$170.870,75, em 05/05/2010, correspondente à parcela de R$158.339,02 prevista no "item C" do aditamento contratual, com vencimento para 01/08/2011 (fls.31). Não juntou recibo, nem comprovante de quitação.
+Portanto, não há como alterar a conclusão exposta no aresto recorrido (acerca do pagamento integral da avença realizada entre as partes) sem que se proceda ao reexame do acervo fático-probatório do respectivo feito, porquanto não admitida tal medida na esfera do recurso especial, ante a incidência da Súmula 7 do STJ.
+Por outro lado, para modificar o entendimento do TJSP (que reconheceu a nulidade da sentença, porquanto descabido o julgamento antecipado da lide, na hipótese, entendendo que as provas juntadas aos autos não se mostravam suficientes ao deslinde da causa), seria necessário, novamente, o revolvimento dos fatos e das provas do processo em apreço, o que é vedado pelo disposto na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
