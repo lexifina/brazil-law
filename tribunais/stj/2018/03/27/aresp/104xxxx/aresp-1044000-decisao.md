@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por RD CONSTRUTORA LTDA. - ME contra decisão que não admitiu recurso especial (fls. 340-342, e-STJ).
+O apelo extremo, a seu turno, fora manejado com amparo na alínea "a" e "c" do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 295, e-STJ):
+PROCESSO CIVIL. AÇÃO INDENIZATÓRIA. CERCEAMENTO DO DIREITO DE PRODUÇÃO DE PROVA. INOCORRÊNCIA. INVERSÃO DO ÔNUS DA PROVA. FATO MODIFICATIVO EM CONTESTAÇÃO. INOCORRÊNCIA. SENTENÇA MANTIDA.
+1. Não há cerceamento do direito de produção de provas quando a parte opte pelo julgamento antecipado do feito, apesar de intimada quanto à produção de novas provas.
+2. Não induz confissão capaz de atrair a incidência do inc. lI, do art. 333 do Código de Processo Civil quando o apelado nega, em sua defesa, os fatos alegados na petição inicial. Apelação cível desprovida.
+Nas razões do especial (fls. 321-328, e-STJ), a recorrente apontou violação dos arts. 332 e 333, I e II, do CPC/1973, e dissídio jurisprudencial. Sustenta, em síntese, ter havido cerceamento de defesa, ante a necessidade de produção de prova testemunhal, bem como a existência de fato modificativo a atrair o ônus da prova para as recorridas.
+Ausentes as contrarrazões (fl. 339, e-STJ)
+Em juízo de admissibilidade, negou-se seguimento ao reclamo, daí o presente agravo, buscando destrancar o processamento do apelo especial.
+Sem contraminuta (fl. 354, e-STJ).
+É o relatório.
+Decido.
+1. Cumpre asseverar que o Superior Tribunal de Justiça tem entendimento firmado no sentido de que não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficiente as já produzidas, mediante a existência nos autos de elementos suficientes para a formação de seu convencimento.
+Acerca da existência nos autos de elementos suficientes para a formação da convicção do julgador, consignou o acórdão recorrido (fls. 299-300, e-STJ):
+Quanto à alegação de que houve cerceamento ao direito de produção de prova, verifica-se que as partes foram intimadas para especificarem as provas que pretendiam produzir, oportunidade em que a apelante se manifestou pela dispensa de produzir novas provas, requerendo o julgamento antecipado do feito, que ora passo a transcrever (f. 147):
+Pelo exposto, fica evidente ser viável o julgamento antecipado do feito, de forma, o que ora se requer, com fundamento no art. 330, I, do CPC. Não há necessidade de produzir novas provas.
+ ..
+Vê-se que, ao contrário do que alega a apelante, não houve cerceamento do direito de produção de provas, pois foi concedido prazo para que as partes indicassem provas que pretendiam produzir, optando a apelante pelo julgamento antecipado da lide.
+Não seria razoável a parte requerer a dispensa de produção de novas provas, com o julgamento antecipado da demanda, nos termos do art. 330, inc. I, do Código de Processo Civil, e, após o conhecimento do resultado da demanda que lhe foi desfavorável, alegar suposto cerceamento do direito de produção de provas.
+Constatado que o pleito encontra-se em condições de julgamento antecipado, mormente porque a parte optou pela dispensa de novas provas com o julgamento antecipado do feito, a prolação da sentença sequer é uma faculdade, mas uma obrigação, à vista dos princípios da economia e celeridade processuais, amparada no art. 330, inc. I, do Código de Processo Civil.  grifou-se.
+Como se observa, tendo o juiz, destinatário da prova, decidido, com base nos elementos de que dispunha, pela desnecessidade de produção de novas provas, a inversão do julgado nos moldes pretendidos pela parte demandaria o reexame do conteúdo probatório dos autos, o que é vedado a esta Corte em sede de recurso especial, nos termos da Súmula 7/STJ.
+Em outros termos, a revisão do entendimento acerca da suficiência dos elementos probatórios reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, o que é vedado, na via do recurso especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido:
+AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM SEGUNDA FASE. VALOR APURADO POR PERÍCIA. IMPUGNAÇÃO AO CRITÉRIO DE APURAÇÃO UTILIZADO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. LIVRE ADMISSIBILIDADE E CONVENCIMENTO DO JUIZ.
+1. A aferição, no âmbito do Superior Tribunal de Justiça, da perfeição e da forma em que as contas foram prestadas demanda o revolvimento do conjunto fático-probatório, inviável, ante o enunciado da Súmula 7 do STJ. Precedentes.
+2. O princípio da livre admissibilidade da prova e do livre convencimento do juiz permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias, não configurando cerceamento de defesa o julgamento da causa nessas condições.
+3. Concluindo o acórdão recorrido, com base nos elementos de fato e prova dos autos, pela desnecessidade de realização de nova perícia requerida pelo recorrido, a revisão julgado, como pretendido, demandaria o revolvimento de matéria de prova, o que é vedado em recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp 1.410.730/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2015, DJe 01/02/2016).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA FUNDADA EM CHEQUES PRESCRITOS. FUNDAMENTOS INATACADOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284/STF. PERÍCIA CONTÁBIL. DESNECESSIDADE. SÚMULA N. 7/STJ.
+1. É inviável o recurso especial quando o acórdão recorrido assenta-se em mais de um fundamento suficiente para mantê-lo e o recurso não abrange a todos (Súmulas n. 283 e 284 do STF).
+2. De acordo com o princípio da persuasão racional, nos termos dos arts. 130 e 131 do CPC, cabe ao magistrado, destinatário final da prova, determinar a produção das provas que considerar necessárias à formação do seu convencimento. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula n. 7 do STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 631.728/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/05/2015, DJe 29/05/2015).
+2. Quanto à alegação de existência de fato modificativo apto a atrair o ônus da prova para as recorridas, o Tribunal de origem, com amparo nos elementos de prova constantes dos autos, negou provimento ao recurso de apelação, pois reconheceu que a recorrente não se desincumbiu de seu ônus de comprovar a existência do referido fato. É o que se extrai do seguinte excerto do aresto recorrido fl. 300, e-STJ):
+Quanto à inversão do ônus da prova, em razão de suposta confissão por um dos apelados, em contestação; que admitiu ter substituído os materiais defeituosos, atraindo a incidência do inc. lI, do art. 333 do Código de Processo Civil, também não merece prosperar.
+Na contestação (f. 74-78), a apelada alegou que a substituição do material se deu em caráter de cortesia, haja vista o bom relacionamento existente entre as partes. Ressaltou ainda que "em momento algum houve assunção de culpa ou perícia nas peças reclamadas, mas a simples colaboração da 1ª Requerida para a solução pacifica do problema" (f. 76).
+Vê-se que a apelada nega, em sua defesa, os fatos alegados na petição inicial quanto à ocorrência de defeitos nos materiais objeto em discussão, bem como afirma que não houve assunção de culpa pelo simples fato de ter substituído parte do produto, tendo em vista a relação de cortesia entre as partes, fato que não induz confissão e, portanto, não atrai a incidência do inciso l, do art. 333 do Código de Processo Civil.
+Forçoso concluir que, na ação indenizatória, a apelante não se desincumbiu de seu ônus de comprovar a existência de fato constitutivo de seu direito, nos termos do art. 333, Inciso I, do Código de Processo Civil, razão pela qual a sentença é medida que se impõe.  grifou-se .
+Desse modo, para superar as premissas em que se apoiou o Tribunal de origem, a fim de concluir que "ficou evidenciado que a recorrida alegou, em sua defesa, a existência do fato modificativo, o que atraiu para si o ônus da prova" (fl. 325, e-STJ) como requer a recorrente em suas razões, revelar-se-ia imprescindível a incursão no acervo fático-probatório dos autos, providência inviável no âmbito do julgamento de recurso especial, ante o teor da Súmula 7.
+3. Do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em R$ 100,00 (cem reais) o valor dos honorários advocatícios arbitrados na origem, observando-se os limites máximos previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se.
+Intimem-se.
