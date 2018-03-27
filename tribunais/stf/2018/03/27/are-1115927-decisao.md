@@ -1,0 +1,29 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por São Paulo Previdência – SPPREV contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “AÇÃO ORDINÁRIA – PENSÃO POR MORTE, ANTE A DECLARAÇÃO DE VONTADE DO INSTITUIDOR – INSURGÊNCIA QUANTO AO ATO QUE SUSPENDE O BENEFÍCIO.
+    1. Em se tratando de proventos de pensão previdenciária, benefício de caráter eminentemente alimentar, incorporado ao patrimônio da autora de forma legítima, deve prevalecer a preservação do direito à percepção dos proventos. Cessação da pensão que é potencialmente danosa porque o ato rompe o equilíbrio de uma situação consolidada pelo tempo.
+    2. Se é inegável que a Administração pode anular ou revogar os seus próprios atos, não é menos verdade que a Constituição estabeleceu um condicionamento ao exigir seja obedecido o devido processo legal com a garantia da ampla defesa com os meios e recursos a ela inerentes (art. 5º, LV, da Constituição da República).
+    3. A invalidação posterior do benefício pela ré, com invocação da Lei Federal nº. 9.717/98, não se sustenta, pois referida legislação proíbe apenas a concessão de benefícios distintos daqueles previstos no Regime Geral de Previdência Social, de acordo com a Lei Federal nº 8.213/91.
+    Recurso provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 24, XII e § 4º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Leis nºs 8.213/91 e 9.717/98), o que torna incognoscível o apelo extremo.
+    Cabe enfatizar, ainda, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 180/78), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em interpretação de direito local:
+    “Superada tal questão, extrai-se dos autos que a pensão dos autores foi instituída por declaração de vontade do ex-servidor, nos termos do artigo 152, da Lei Complementar Estadual nº 180/78.
+    Os atos de concessão de pensões se caracterizam como atos administrativos, pois praticados por pessoa jurídica de direito público, produzindo efeitos imediatos na esfera patrimonial dos beneficiários. Como ato administrativo é presumida sua legitimidade e veracidade. A legitimidade determina que enquanto não decretada a invalidade do ato pela própria Administração ou pelo Judiciário, ele produzirá efeitos da mesma forma que o ato válido, devendo ser cumprido.
+    …...................................................................................................
+    Ademais, a invalidação posterior do benefício pelas rés, com invocação da Lei Federal nº. 9.717/98, não se sustenta, pois referida legislação proíbe apenas a concessão de benefícios distintos daqueles previstos no Regime Geral de Previdência Social, de acordo com a Lei Federal nº 8.213/91.
+    …...................................................................................................
+    Portanto, não há que se admitir o cancelamento do pagamento da pensão, pois esta tem amparo na Lei Complementar nº 180/78.
+    Outrossim, aplica-se a Lei vigente à data do falecimento do instituidor do benefício que, no caso, ocorreu em 01/04/2004, de acordo com o que estabelece a Súmula nº 340 do Superior Tribunal de Justiça:
+    ‘A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado’.”
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 951.994/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.102.500/SP, Rel. Min. EDSON FACHIN – ARE 1.111.971/SP, Rel. Min. LUIZ FUX – RE 999.410/SP, Rel. Min. CELSO DE MELLO, v.g.).
+    Cumpre registrar, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “d”, da Carta Política, que a decisão ora recorrida tenha julgado válida lei local em face de lei federal.
+    Sendo assim, e tendo em considerações as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 27 de março de 2018.
+Ministro CELSO DE MELLO
+Relator
