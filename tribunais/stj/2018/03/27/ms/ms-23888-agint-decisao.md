@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Agravo interno, interposto por ALCIDES ROCHA PIRES, em 06/12/2017, contra decisão de minha lavra, publicada em 29/11/2017, na qual indeferi liminarmente a petição inicial deste Mandado de Segurança e julguei extinto o processo, sem resolução do mérito, por incompetência absoluta desta Corte para o julgamento originário da ação mandamental.
+Na petição inicial do Mandado de Segurança, ajuizado em face do PROCURADOR GERAL FEDERAL, o impetrante, ora agravante, visa assegurar o suposto direito líquido e certo do impetrante, ora agravante, ao parcelamento do débito fiscal, referente a multa ambiental, já em fase de cobrança judicial, nos termos da Lei 13.494/2017, sem as restrições impostas pela Portaria PGF 400/2017.
+No presente Agravo interno, o agravante requer que o recurso seja provido, com vistas à reforma da decisão que indeferiu a petição inicial, com a indicação de qual seria, então, o juízo competente para o regular processamento do feito, uma vez que a r. decisão se limitou a indeferir a petição inicial, sem, entretanto, se atentar ao quanto preconizado no ordenamento jurídico pátrio.
+Impugnação da parte agravada, a fls. 106/107e, pelo improvimento do Agravo interno.
+É certo que, nos termos do art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os Mandados de Segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Assim, manifesta a incompetência deste Tribunal para o exame do presente mandamus. Nesse sentido, mutatis mutandis:
+"PROCESSUAL CIVIL. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO "DO DELEGADO DA RECEITA FEDERAL. REGIONAL DE SANTO ANDRÉ-SP, DO CONSELHO DE CONTRIBUINTES E DO PROCURADOR-GERAL DA FAZENDA NACIONAL".
+Para julgar mandado de segurança originariamente, a competência do STJ limita-se àqueles lançados contra ato de Ministro de Estado ou do próprio Tribunal. Mandado de segurança não conhecido" (STJ, MS 3.570/SP, Rel. Ministro CESAR ASFOR ROCHA, PRIMEIRA SEÇÃO, DJU de 17/10/1994).
+Contudo, de acordo com o § 3º do art. 64 do CPC/2015, caso a alegação de incompetência seja acolhida, os autos serão remetidos ao juízo competente.
+No caso, o impetrante optou por ajuizar esta ação mandamental no Distrito Federal.
+Ante o exposto, em juízo de retratação, com fundamento nos arts. 259 do Regimento Interno do STJ e 64, § 3º, do CPC/2015, reafirmo a incompetência do STJ para o processo e julgamento do feito e determino que o processo seja remetido à Seção Judiciária do Distrito Federal, para que ali seja-lhe dada a solução que o Juízo Federal de 1º Grau entender de direito.
+I.
