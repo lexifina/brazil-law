@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Veja-se o seguinte trecho de ementa:
+    “ADMINISTRATIVO – REEXAME NECESSÁRIO – ART. 475, § 2º DO CPC – SENTENÇA QUE NÃO ENCERRA VALOR CERTO – CONHECIMENTO – PRESCRIÇÃO DO FUNDO DE DIREITO – INOCORRÊNCIA – COMPLEMENTAÇÃO DE APOSENTADORIA – SERVIDOR PÚBLICO ESTABILIZADO (ART. 19 DO ADCT DA CF/88) – LEI MUNICIPAL – DIREITO GARANTIDO A TODOS OS SERVIDORES – HONORÁRIOS SUCUMBENCIAIS – QUANTUM – ARTIGO 20, §§ 3º, 4º DO CPC – MANUTENÇÃO – JUROS DE MORA E CORREÇÃO MONETÁRIA – FIXAÇÃO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 40, caput, § 1º; e 149da Constituição.
+    A decisão agravada negou seguimento ao recurso sob o fundamento de ofensa às Súmulas 279 e 280/STF.
+    O recurso é inadmissível, tendo em vista que, tal como constatou a decisão agravada, a discussão acerca da complementação dos proventos dos aposentados do Município de Ipatinga, prevista na Lei municipal nº 1.311/1994, com a redação dada pela Lei nº 1.579/1998, demandaria o reexame dos fatos e provas constantes dos autos, bem como a análise de normas infraconstitucionais pertinentes, providências inviáveis neste momento processual (Súmulas 279 e 280/STF). Nesse sentido, veja-se trecho da ementa do RE 573.751-AgR, julgado sob a relatoria da Ministra Ellen Gracie:
+    “ADMINISTRATIVO. CONSTITUCIONAL. SERVIDOR PÚBLICO MUNICIPAL. COMPLEMENTAÇÃO DE APOSENTADORIA. AUSÊNCIA DE PREQUESTIONAMENTO. LEGISLAÇÃO LOCAL. REEXAME DE FATOS E PROVAS. SÚMULAS STF 279 E 280. PRECEDENTES. 1. Se a questão constitucional invocada no recurso extraordinário não foi objeto de debate no acórdão recorrido, nem opostos os embargos de declaração, fica desatendido o pressuposto recursal do prequestionamento, imprescindível para o conhecimento do apelo extremo. 2. Análise do recurso extraordinário que envolve interpretação de direito local (Leis Municipais 1.579/98 e 1.311/94) e matéria fático-probatória, o que faz incidir a Súmula STF 279. 3. Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 27 de março de 2018.
+Ministro Luís Roberto Barroso
+Relator
