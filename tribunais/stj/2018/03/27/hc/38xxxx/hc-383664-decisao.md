@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de AROLDO CARVALHO CRUZ LIMA, contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o paciente AROLDO CARVALHO CRUZ LIMA foi pronunciado pelo crime de homicídio, por duas vezes (art. 121, caput, do Código Penal), bem como pelo delito de lesão corporal de natureza grave (art. 129, §1º, inciso I, do Código Penal), oportunidade em que se determinou o prosseguimento da marcha processual.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal de origem, que denegou a ordem de suspender a ação, ao fundamento de que o curso processual, perante o Tribunal do Júri, não está condicionado ao trânsito em julgado dos recursos extraordinários, salvo se atribuído efeito suspensivo a esses recursos (fls. 31-40).
+No presente mandamus, o impetrante se insurge contra o v. acórdão, e sustenta que o artigo 421 do Código de Processo Penal exige a preclusão da decisão de pronúncia, para submissão do paciente ao julgamento popular.
+Nesse compasso, o impetrante informa que foram interpostos Recurso Especial e Extraordinário que pendem de julgamento, com os quais se pretende a anulação do acórdão que pronunciou o paciente, em virtude do flagrante excesso de linguagem e da incongruência entre os fatos narrados na denúncia e o contido na decisão de pronúncia.
+Desse modo, alega que, em razão da pendência dos recursos extraordinários, havendo a possibilidade de nova anulação da decisão de pronúncia, não se pode iniciar a segunda fase do procedimento do júri.
+Igualmente, aduz que a ausência de efeito suspensivo no recurso especial e extraordinário não se coaduna com a nova redação advinda após a reforma do CPP de 2008, razão pela qual ressalta que não há preclusão da pronúncia na pendência de recurso, sendo irrelevante a questão do efeito recursal.
+Ademais, defende que o Supremo Tribunal Federal, nos autos de habeas corpus nº 132.512, recentemente afetou a discussão sobre a suspensão dos efeitos da pronúncia ao seu Plenário, especificamente sobre a continuidade das causas atinentes ao Tribunal do Júri na ausência de preclusão da decisão de pronúncia.
+Nesse quadro, o impetrante aduz que a controvérsia nos autos de HC nº 132.512, é idêntico ao presente caso, de modo que a suspensão do trâmite da ação penal em curso contra o paciente, para o aguardo da respectiva decisão do Supremo Tribunal Federal, não acarretará nenhum prejuízo ao processo e evitará a realização de atos processuais que poderão ser invalidados.
+Requer, ao final, a concessão da ordem, para suspender o trâmite da ação penal em curso perante a Vara do Tribunal do Júri de Florianópolis/SC, a fim de que se aguarde o pronunciamento do Supremo Tribunal Federal nos autos de habeas corpus n. 132.512.
+Subsidiariamente, pleiteia o reconhecimento da necessidade da preclusão da decisão de pronúncia, para a regular continuidade da ação penal.
+O pedido liminar foi indeferido às fls. 514-516, em que se determinou reservar ao Colegiado, a apreciação da matéria.
+As informações foram prestadas às fls. 524-648.
+O Ministério Público Federal, às fls. 654-656, opinou pelo não conhecimento do writ, ao argumento de que a interposição de recursos excepcionais, por serem desprovidos de efeito suspensivo, não impedem o julgamento do acusado pelo Tribunal do Júri.
+Às fls. 660-662, foram prestadas novas informações.
+Instado a se manifestar, o Ministério Público Federal, às fls. 667-668, manifestou-se pela prejudicialidade do pedido, ao fundamento de que o julgamento do paciente pelo tribunal do júri torna superada a discussão acerca do suposto excesso de linguagem na pronúncia, restando inócuo o acolhimento, eventualmente, da pretensão de suspensão da ação penal enquanto pendente o recurso de natureza extraordinária interposto da sentença de pronúncia.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Ab initio, faz-se necessário asseverar que foram juntadas informações no sentido de que em 07/03/2017 foi realizada a sessão de julgamento do paciente, oportunidade em que foi desclassificado o crime de lesão corporal grave para lesão corporal leve e, por consequência, declarada extinta a sua punibilidade, em razão da decadência.
+Ainda, o paciente foi condenado à pena de 07 (sete) anos de reclusão, em regime inicial semiaberto, por infração ao art. 121, caput, por duas vezes, na forma do art. 70, caput, todos do Código Penal.
+Nesse compasso, considerando as informações prestadas pelo eg. Tribunal de origem, verifica-se que: "A alegação de excesso de linguagem na decisão de pronúncia, passível de causar nulidade, fica superada com a prolação de sentença condenatória." (HC 106.122/MG, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 12/06/2015).
+Sobre o tema:
+"PROCESSUAL PENAL. PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. RESISTÊNCIA. OITIVA DE TESTEMUNHA. JUÍZO DEPRECADO. AUSÊNCIA DE RÉU PRESO. PREJUÍZO NÃO DEMONSTRADO. PRONÚNCIA. EXCESSO DE LINGUAGEM. TRIBUNAL DO JÚRI. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. QUESTÃO SUPERADA.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. A realização de audiência de instrução no juízo deprecado sem a presença de réu preso enseja nulidade relativa a ser arguida oportunamente e cujo prejuízo deve ser demonstrado.
+3. A alegação de excesso de linguagem na decisão de pronúncia, passível de causar nulidade, fica superada com a prolação de sentença condenatória.
+4. Habeas corpus não conhecido." (HC 106.122/MG, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 12/06/2015).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. SENTENÇA DE PRONÚNCIA. QUALIFICADORAS. SUPERVENIÊNCIA DE CONDENAÇÃO PELO TRIBUNAL DO JÚRI. PREJUDICIALIDADE DO WRIT. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.É assente na jurisprudência deste Superior Tribunal de Justiça o entendimento no sentido de que a superveniência da sentença penal condenatória proferida pelo Tribunal do Júri prejudica o exame de eventual nulidade da sentença de pronúncia relativa a indevida inclusão de qualificadoras.
+2. No caso, o paciente restou condenado pelo Tribunal do Júri à pena de 23 anos de reclusão e 120 dias-multa pela prática dos crimes do art. 121, § 2º, I e IV, bem como dos arts. 211 e 288 c.c. 29 e 69, todos do Código Penal.
+3. Ainda que assim não fosse, "Em respeito ao princípio do juiz natural, somente é cabível a exclusão das qualificadoras na sentença de pronúncia quando manifestamente improcedentes e descabidas, porquanto a decisão acerca da sua caracterização ou não deve ficar a cargo do Conselho de Sentença, conforme já decidido por esta Corte" (HC 175.713/SP).
+4. Agravo regimental não provido." (AgRg no HC 154.924/ES, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 08/11/2011).
+Sob tal contexto, denota-se que o presente writ perdeu objeto.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+P. e I.
