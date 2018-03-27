@@ -1,0 +1,26 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"ARBITRAMENTO DE ALUGUÉIS. Ré-apelada que é usufrutuária da metade ideal do Imóvel de propriedade da ré-apelante. Incontroversa obrigação da ré de pagar aluguel pela utilização exclusiva do bem (art. 374, II, do CPC/2015).
+Ausência de insurgência das partes em relação ao valor locativo apurado pelo perito judicial. Condenação da ré na obrigação de pagar quantia correspondente a 50% do valor do aluguel do imóvel. Sentença reformada. Recurso provido." (fls.484)
+Opostos embargos de declaração, os mesmos foram desprovidos (e-STJ, fls. 447/451).
+Nas razões do recurso especial, a parte agravante alega violação ao art. 1.022, parágrafo único, inciso II, 489, §§1º e 2º do Código de Processo Civil de 2015 e art. 1º da Lei 8.245/91, sustentando, em síntese, que houve omissão quanto o arbitramento e cobrança de aluguel de imóvel urbano com base na lei 8.245/91.
+Contrarrazões às fls. 474/477.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/15, na medida em que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+Ademais, a parte agravante apontou violação ao art. 1º da Lei 8.245/91, entretanto, não desenvolveu argumentação que evidenciasse a ofensa, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência do nº 284 da Súmula do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. ALEGAÇÃO DE QUE A PRESCRIÇÃO FOI INTERROMPIDA PELA CITAÇÃO VÁLIDA OCORRIDA EM PROCESSO ANTERIOR EXTINTO SEM RESOLUÇÃO DE MÉRITO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. SÚMULA 7/STJ.
+1. No presente caso, embora a recorrente sustente a tese de que a citação válida ocorrida em processo anterior extinto sem resolução do mérito possui o condão de interromper a prescrição, verifica-se que o recurso especial apresentado carece de argumentação subsistente, na medida em que sequer indica a data em que teria havido a citação válida no processo anterior, não sendo possível a esta Corte Superior de Justiça, portanto, averiguar se, de fato, ocorreu ou não a prescrição da pretensão reparatória.
+2. A falta de fundamentação hábil à compreensão da controvérsia impede o conhecimento do recurso especial, atraindo a incidência da Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Nesse contexto, para se chegar à conclusão de que a ação não está prescrita, seria necessário entender-se de maneira diversa do consignado pelo Tribunal de origem, o que demanda, por sua vez, o reexame do acervo fático-probatório dos autos, conduta vedada em sede de recurso especial ante o óbice da Súmula 7 do STJ.
+4. Agravo interno não provido."
+(AgInt no REsp 1311865/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe 23/02/2017)
+Por fim, no que se refere à alegada litigância de má-fé requerida em contrarrazões, esta não merece prosperar.
+Com efeito, o Superior Tribunal de Justiça possui orientação de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). Isso, porque a má-fé, como se sabe, não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015, o que não se verifica no caso.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% do valor da condenação.
+Publique-se.
