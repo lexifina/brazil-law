@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SANTO ANDRÉ, com fulcro na alínea "a" do permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 310):
+AÇÃO DECLARATÓRIA DE INEXIGÍBILIDADE DE JUROS COMPENSATÓRIOS EM DESAPROPRIAÇÃO - RECURSO DE APELAÇÃO - APELANTE QUE PRETENDE A EXCLUSÃO DOS JUROS COMPENSATÓRIOS - IMPOSSIBILIDADE - QUESTÃO QUE FOI DISCUTIDA ANTERIORMENTE, INCLUSIVE SENDO ANALISADA PELO TRIBUNAL DE JUSTIÇA - MATÉRIA ACOBERTADA PELA COISA JULGADA MATERIAL - RECURSO IMPROVI DO
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, o recorrente aponta violação dos arts. 128, 301, §§ lº a 3º, 460, 467, 468, 472, e 535, II, do CPC/1973. Defende, em síntese, a ausência de identidade entre a presente ação declaratória e a ação de indenização por desapropriação indireta, mencionada no acórdão recorrido, razão pela qual não há que se falar em ofensa à coisa julgada, sendo possível o exame do pedido de exclusão dos juros compensatórios.
+Sem contrarrazões.
+Manifestação do Parquet federal opinando pelo não conhecimento do recurso especial.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Isso considerado, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 04/03/2016, e AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/11/2015.
+No caso, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado (discussão sobre juros compensatórios acobertada pela coisa julgada - e-STJ fls. 312/313).
+Por outro lado, quanto à suposta presença das condições da ação e inexistência de ofensa à coisa julgada, verifica-se que o acórdão recorrido expressamente consignou que a matéria em discussão, qual seja, a exclusão dos juros compensatórios, já foi objeto de outra demanda, transitada em julgado, razão pela qual é incabível novo julgamento sobre o tema, sob pena de ofensa à coisa julgada. Confira-se (e-STJ fls. 312/313):
+O documento de fls. 39/42 demonstra que as mesmas partes da presente demanda já foram partes em Ação de Indenização - Desapropriação Indireta perante a 6a Vara Cível da Comarca de Santo André - Autos nº 386/90.
+Referida ação foi julgada procedente, inclusive condenando a Municipalidade ao pagamento de juros compensatórios à base de 12% ao ano, a serem computados durante o período compreendido entre o apossamento administrativo e a data do efetivo pagamento (fls. 41/42).
+Por sua vez o documento de fls. 43/45 demonstra que a sentença foi objeto de recurso de apelação e recurso "ex offício" apreciado pela Décima Câmara Civil do Tribunal de Justiça do Estado de São Paulo, em 06 de agosto de 1992.
+À fl. 44 é possível se constatar que a Municipalidade requereu no recurso que os juros compensatórios fossem computados só a partir da citação inicial.
+Assim, não há que se falar em negativa ao direito da prestação da tutela jurisdicional, presença de todas as condições da ação, visto que infundados todos os argumentos trazidos à colação pela apelante no presente recurso, em razão de sua pretensão estar realmente acobertada pela coisa julgada material e formal há muito tempo. (grifos acrescidos)
+Nessa quadra, o acolhimento das razões do recurso especial implica inevitável revolver de aspectos fático-probatórios, providência vedada por meio da via eleita, nos termos da Súmula 7 do STJ.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. EXAME. IMPOSSIBILIDADE. SUPOSTA OFENSA AO ART. 535, II, DO CPC/1973. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 148 E 182 DA LEI 8.112/1990. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. OFENSA REFLEXA. COISA JULGADA. AFERIÇÃO. INVIABILIDADE. SÚMULA 7/STJ. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE, NO CASO. SÚMULA 7/STJ.
+1.  ..
+5. É firme o entendimento do STJ no sentido de que a discussão acerca da existência ou não da coisa julgada é inviável no âmbito do recurso especial, por demandar, igualmente, o reexame do conjunto fático-probatório dos autos, vedado pela Súmula 7/STJ (REsp 977.348/RS, Rel. Ministro Francisco Falcão, Primeira Turma, DJU 19/11/2007).
+6. Para se alterar as conclusões adotadas pelas instâncias ordinárias e acolher a tese de que não foram produzidas outras provas aptas a ensejar a condenação, seria necessário novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedente: (AgRg no AREsp 93.080/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 17/03/2016).
+7.  ..
+8. Agravo interno parcialmente conhecido e, nessa parte, não provido.
+(AgInt no REsp 1433983/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 05/03/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS A EXECUÇÃO. VIOLAÇÃO DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A revisão do julgado, de modo a acolher a pretensão recursal, no sentido de que houve violação aos limites objetivos e subjetivos da coisa julgada, demandaria, necessariamente, o revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp 1133837/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
