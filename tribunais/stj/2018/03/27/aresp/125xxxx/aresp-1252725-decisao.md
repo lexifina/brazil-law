@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COMPRA E VENDA DE CANA-DE-AÇÚCAR - Relação jurídica comprovada - Inadimplemento incontroverso - Comprovação de pagamento - Inexistência - Não demonstração de fato impeditivo, extintivo e modificativo do direito do autor, nos termos do art. 333, II, do CPC/73 - Ação procedente - Recurso desprovido." (e-STJ, fl. 101)
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 130 e 333, inciso I do Código de Processo Civil de 1973 e 7º, 9º e 10 do Código de Processo Civil de 2015, sustentando, em síntese, que (a) o indeferimento da produção de prova implicou cerceamento de defesa com relação a matéria de fato que demandaria prova a respeito e (b) que houve a violação do contraditório por ausência de participação com influência e por ter havido decisão-surpresa.
+Contrarrazões apresentadas às fls. 115/118.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Quanto à alegada violação dos arts. 7, 9 e 10 do CPC/15, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+No tocante à suposta violação aos arts. 130 e 333, I do CPC/73, o Tribunal de origem concluiu, diante do contexto fático-probatório dos autos, que não houve cerceamento de defesa com a não realização de prova testemunhal, pois as provas dos autos eram suficientes para o convencimento judicial de modo a permitir o julgamento antecipado da lide, in verbis:
+"Não há que se cogitar na ocorrência de cerceamento de defesa, em razão da não realização da prova pretendida (testemunhal), uma vez que as provas dos autos foram suficientes ao convencimento e conclusão do julgado, o que torna desnecessária a produção de outras provas e possibilita o julgamento antecipado, nos termos do artigo 330, I do Código de Processo Civil/73, sendo certo que cabe ao juiz indeferir as diligências inúteis, protelatóriase irrelevantes à solução da demanda, conforme o artigo 130 do CPC/73." (e-STJ, fl. 102)
+Não ocorre o alegado cerceamento do direito de defesa pois o Juízo de origem, sendo o destinatário da prova, entendeu pela desnecessidade de produção de prova testemunhal, considerando que os documentos carreados aos autos eram suficientes para comprovar o direito da parte agaravada ao recebimento da importância de R$ 25.000,00 (vinte e cinco mil reais).
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EXECUTADA.
+1. A alegação de afronta ao art. 535 do CPC/73 de forma genérica, sem efetiva a demonstração de omissão do Tribunal a quo no exame de teses imprescindíveis para o julgamento da lide, impede o conhecimento do recurso especial ante a deficiência na fundamentação. Incidência da Súmula 284/STF.
+2. É inviável, em sede de recurso especial, analisar se houve descumprimento dos termos contratuais e ofensa à cláusula da exceptio non adimpleti contractus. Incidência das Súmulas 5 e 7/STJ.
+3. A reforma do julgado quanto à conclusão de não ter sido configurado cerceamento de defesa, ante o indeferimento das provas testemunhal e pericial demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula 7 do STJ. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 726.968/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. AUSÊNCIA DE VÍCIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. CERCEAMENTO DE DEFESA. DANO MORAL. DANO MATERIAL. CARACTERIZAÇÃO. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso dos autos, a modificação das conclusões do acórdão recorrido quanto à necessidade de prova testemunhal e quanto à caracterização dos danos moral e material demandaria a análise de matéria de fato.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1060635/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/11/2017, DJe 16/11/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% do valor total da condenação.
