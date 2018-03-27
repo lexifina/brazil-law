@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por RENAULT DO BRASIL S.A. contra decisão que inadmitiu recurso especial, em virtude da incidência da Súmula n. 7 do STJ e da falta de comprovação da alegada divergência jurisprudencial (e-STJ fls. 1.034/1.035).
+O acórdão recorrido está assim ementado (e-STJ fl. 799):
+APELAÇÃO - AÇÃO INDENIZATÓRIA - DANOS MORAIS - VÍCIO SUPERADO - FASE DE CONSEQUÊNCIAS INAPLICÁVEL - INDEVIDA RESTITUIÇÃO - DEVER DE INDENIZAR - DANOS MORAIS - PÉRIPLO NO REPARO - FRUSTRAÇÃO DA AQUISIÇÃO DE VEÍCULO ZERO QUILÔMETRO - DANOS MATERIAIS NÃO REQUERIDOS - LOCATIVOS - ABUSO DA TUTELA DE URGÊNCIA - LITIGÂNCIA DE MÁ-FÉ - GRATUIDADE REVOGAÇÃO - PROCEDÊNCIA PARCIAL -SUCUMBÊNCIA RECÍPROCA.
+- Inviável a adoção das consequências do artigo 18. § 1º, do Código de Defesa do Consumidor, se não superada a fase de saneamento - perícia que fez prova da normalidade do veículo, inadmissível a prova superveniente baseada em argumento temerário:
+- Vício "sério" no veículo, porém, que autoriza o dever de indenizar (artigo 389, do Código Civil) - vício do produto que ensejou danos morais. Danos materiais não postulados na petição inicial, vedada a alteração da causa de pedir, sequer comprovado o nexo de causalidade (art. 402, do Código Civil);
+- Inadmissível repasse das diárias com o carro reserva - abuso da posição jurídica pela demandante que, notificada da funcionalidade do veículo que tomava injustificado o aluguel realizado, se manteve na posse do bem, ensejando custos. Conduta processual contrária à probidade processual, apesar da advertência desta Relatora - sanção processual, art. 18. do Código de Processo de 1973, vigente ao tempo dos fatos;
+- Revogação da gratuidade (art. 100, parágrafo único, do NCPC) - intolerável o benefício concedido em favor de aposentada, com condição econômica de comprar veículo de significativo investimento, custas módicas que não merecem ser afastadas - art. 99, §2º, do Novo Código de Processo Civil;
+- Frustração em desfavor do consumidor, aquisição de veículo com vício "sério", cujo reparo não torna indene o périplo anterior ao saneamento - violação de elemento integrante da moral humana, constituindo dano indenizável - desvio produtivo do consumidor que não merece passar impune - inteligência dos artigos 186 e 927 do Código Civil. "Quantum" arbitrado de acordo com a extensão do dano e dos paradigmas jurisprudenciais - artigo 944, do Código Civil - R$15.000,00;
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos pela consumidora foram rejeitados (e-STJ fls. 867/869).
+No recurso especial (e-STJ fls. 964/978), fundamentado no art. 105, III, "a", da CF, a agravante apontou ofensa aos arts. 186 e 944 do CC/2002. Sustentou, em síntese, ausência de dano extrapatrimonial e exorbitância da quantia arbitrada (R$ 15.000,00 - quinze mil reais).
+No agravo (e-STJ fls. 1.071/1.099), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta às fls. 1.114/1.118 (e-STJ).
+É o relatório.
+Decido.
+No que diz respeito à configuração do dano moral, verifica-se a pretensão do reexame do conjunto fático-probatório dos autos.
+Sobre o tema, o Tribunal de origem assim se manifestou (e-STJ fl. 801):
+Por outro lado, embora repelida a fase de consequências, o pedido indenizatório merece procedência parcial. A perícia apontou que o veículo da demandante "apresentou problemas sérios no sistema de injeção eletrônica, com trocas de componentes vitais" (fl. 674) - o que é suficiente para evidenciar o dever de indenizar, nos termos do artigo 389, do Código Civil. O veículo zero quilômetro foi imobilizado na oficina logo que saiu da concessionária, com sucessivos problemas até a regularização. Apesar do saneamento, as rés respondem de forma solidária pelos danos causados no périplo da demandante.
+A despeito do uso intenso, não é razoável supor indene as sucessivas visitas à oficina - com soluções diversas, mas, sem caráter permanente. As revisões comprovam o uso excessivo do veículo e, por óbvio, não podem ser consideradas; mas, os reiterados problemas apresentados no período em destaque (fl. 666). Com efeito, as rés respondem por perdas e danos - que abrangem exclusivamente os danos morais.
+Dissentir dessa conclusão é inviável no âmbito do recurso especial, haja vista o impedimento da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Quanto ao valor do dano moral, conforme entendimento pacífico do STJ, a modificação da quantia arbitrada é admitida, em recurso especial, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+No caso dos autos, o valor estabelecido pelo Tribunal a quo não enseja a intervenção do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
