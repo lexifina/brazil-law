@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/15), interposto por ITAÚ UNIBANCO S.A. contra decisão que negou seguimento ao recurso especial, manejado com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+O apelo nobre desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (fls. 113-126, e-STJ), assim ementado:
+AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS Admissível a condenação da parte ré ao pagamento de encargos de sucumbência, na ação cautelar de exibição de documentos, quando caracterizada sua resistência ao pedido Reconhecimento de que a parte autora demonstrou a existência de pedido prévio de fornecimento de cópias dos documentos objeto da ação válido, visto que: (a) individuado o documento objeto do pedido de exibição; e (b) a notificação juntada aos autos foi assinada pela parte autora, com indicação do próprio endereço e de outro para o envio dos documentos, circunstância esta revela autorização dela autora de remessa dos documentos solicitados para o endereço diverso do cadastrado pelo banco e que não impediria o banco o envio da documentação para o endereço cadastrado ou convocação da parte autora para atualização do endereço, mas nunca o silêncio, que, no caso, configura recusa por conduta omissiva, provocadora da necessidade da parte autora ingressar em Juízo, para ver satisfeito seu direito, e, consequentemente, que a parte ré deu causa ao processo Inconsistente a alegação da requerida de que o "AR Aviso de Recebimento" juntado aos autos não faz prova da efetiva entrega, uma vez que constam do referido A.R. dados que identificam a própria parte autora como remetente e a própria parte ré como destinatária, sendo certo que a parte ré não demonstrou que o conteúdo recebido era diverso da notificação juntada nos autos, ônus que lhe incumbia, nos termos do art. 373, II, do CPC/2015, correspondente ao art. 333, II, CPC/73, pois nesse contexto é possível inferir relação entre o A.R. e a notificação, de modo a comprovar a efetiva entrega do requerimento administrativo Ademais o fato de a exibição dos documentos pela parte ré ter ocorrido em prazo superior a 30 dias, entre a data da entrega do pedido prévio à instituição financeira e a da entrega ao cliente pelo banco dos documentos solicitados, o aceito como razoável no caso dos autos, a entrega de documentos foi efetivada cerca de 09 meses depois do recebimento do pedido administrativo da parte cliente , basta para demonstrar a necessidade de a parte autora ingressar em Juízo para ver satisfeito seu direito e, consequentemente, que a parte ré deu causa ao processo Fixação da verba honorária em 15% sobre o valor da causa, com base no art. 85, caput, §§ 1º, 2º e 11, do CPC/2015, considerando os parâmetros dos incisos I a IV, do § 2º, do mesmo art. 85, com incidência de correção monetária a partir do ajuizamento (Súmula 14/STJ) - Em razão da sucumbência, por aplicação do art. 82, § 2º, do CPC/2015, a parte ré arcará com as custas e despesas processuais Reforma, em parte, da r. sentença, para condenar a parte ré ao pagamento dos encargos de sucumbência.
+Recurso provido.
+Embargos de declaração foram opostos e rejeitados (fls. 133-140, e-STJ).
+Nas razões do recurso especial (fls. 142-147, e-STJ), a parte recorrente defende, além de dissídio jurisprudencial, ofensa ao art. 485, VI, do CPC/2015, por ausência de interesse processual do autor, que não esgotou as vias administrativas antes de ingressar com a ação.
+Contrarrazões às fls. 200-204 (e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de incidência do óbice da Súmula 283 do STF.
+Irresignado (fls. 209-214, e-STJ), aduz o agravante que o reclamo merece trânsito, refutando o óbice aplicado pela Corte estadual.
+Sem contraminuta.
+É o relatório.
+Decido.
+A pretensão recursal não prospera.
+1. Narram os autos que o recorrido ajuizou ação de exibição de documentos contra o banco recorrente. O requerido contestou alegando que não houve recusa ilegítima e juntando os documentos.
+O Juiz de primeiro grau julgou antecipadamente o pedido, considerando exaurida a pretensão, sem imposição de sucumbência. Apenas o autor recorreu, buscando a condenação da parte ré ao pagamento dos encargos de sucumbência.
+O Tribunal de origem, no acórdão impugnado, deu provimento ao recurso da parte recorrida para reconhecer que era cabível a condenação do banco recorrente às verbas de sucumbência, tendo em vista que, no caso, demonstrada a necessidade de a parte autora ingressar em Juízo para ver satisfeito seu direito.
+Os embargos de declaração do recorrente, alegando que a solicitação administrativa realizada pelo autor foi inválida, foram rejeitados.
+Constata-se da leitura do acórdão recorrido que o Tribunal de origem - apesar de opostos os embargos declaratórios pela parte agravante - não decidiu acerca da ausência de legitimidade ou de interesse processual do autor, de modo a viabilizar o requisito do prequestionamento, indispensável ao conhecimento do recurso especial.
+Incide, à espécie, o óbice disposto na Súmula 211/STJ.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO POR ATO ILÍCITO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA DA DEMANDADA.
+1. A falta de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do recurso especial por incidência do teor da Súmula 211 do STJ.
+2. O decisum proferido pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior no sentido de que é objetiva a responsabilidade da concessionária de serviço de energia elétrica por danos causados a consumidores decorrentes de defeitos relativos à prestação dos serviços. Incidência da Súmula 83 do STJ.
+3. Em se tratando de danos morais decorrentes de responsabilidade extracontratual, os juros de mora fluem a partir do evento danoso, nos termos da Súmula 54 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 264.429/ES, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/02/2017, DJe 24/02/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. 1. PEDIDO DE SUSPENSÃO DO PROCESSO. NÃO CABIMENTO. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+3. AGRAVO INTERNO IMPROVIDO.
+1. Incabível o pedido de suspensão do processo em razão do deferimento de sua recuperação judicial pelo Juízo da 7ª Vara Empresarial do Rio de Janeiro. Não havendo a possibilidade de atos expropriatórios direcionados ao patrimônio da empresa agravante não há razões para se acolher o pedido.
+2. Não enseja interposição de recurso especial matéria que não tenha sido ventilada no aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou e a parte interessada não alegou ofensa ao art. 535 do Código de Processo Civil. Incidência da Súmula 211 do Superior Tribunal de Justiça.
+3. Agravo interno improvido.
+(AgInt no AREsp 802.470/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/02/2017, DJe 09/02/2017).
+2. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, nego provimento ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 1% (um por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se.
+Intimem-se.
