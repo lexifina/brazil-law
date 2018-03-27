@@ -1,0 +1,87 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que inadmitiu o recurso especial, por incidência das Súmulas n. 5 e 7 do STJ e 282 do STF (e-STJ fls. 272/274).
+O TJGO deu parcial provimento à apelação, em acórdão assim ementado (e-STJ fls. 235/236):
+EMENTA: APELAÇÃO CÍVEL. EMBARGOS A EXECUÇÃO. CÉDULA RURAL PIGNORATÍCIA. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. REVISÃO. ENCARGOS. JUROS REMUNERATÓRIOS NO PERÍODO DE INADIMPLÊNCIA. APLICABILIDADE. JUROS MORATÓRIOS. ADEQUAÇÃO. CORREÇÃO MONETÁRIA. LEGALIDADE. ÔNUS DE SUCUMBÊNCIA. 1 - A cédula de crédito rural pignoratícia é título executivo apto a embasar a execução. 2 - É induvidosa a aplicação do CDC em relação aos contratos de natureza bancária ou financeira, ao teor do artigo 3º, § 2º, da lei referente. 3 - Na hipótese, verificando-se que 8,75% ao ano constitui a maior taxa de juros remuneratórios avençada no caso em análise, tal haverá também de ser observada no período de inadimplência, com acréscimo de juros moratórios de 1% ao ano, conforme estabelece a legislação em referência e precedentes do Superior Tribunal Justiça. 4 - Deve ser mantida a correção monetária, conforme prevista na Cédula Rural Pignoratícia e Hipotecária em apreço, por não representar desequilíbrio contratual. 5 - Decaindo os embargantes em maior parte dos pedidos, os ônus sucumbenciais devem ser atribuídos exclusivamente a eles. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA.
+Nas razões do recurso especial (e-STJ fls. 243/255), interposto com base no art. 105, III, "a", da CF,os recorrentes apontaram violação:
+(a) do art. 267, IV e VI, do CPC/1973, pois o recorrido seria carecedor da ação, devendo ser extinto o processo,
+(b) do art. 167 do CPC/1973, porque faltaria perfeição formal à cédula de crédito rural executada, retirando a certeza do título,
+(c) do art. 166, VI, do CC/2002, visto ser cabível declarar a nulidade da cédula de crédito, em virtude da ofensa aos arts. 421, 422 e 424 do CC/2002, uma vez que o contrato não atenderia a sua função social e seria contrário à boa-fé,
+(d) dos arts. 6º, V, 39 e 51, IV, do CDC, visto que as cláusulas abusivas - prevendo juros acima do limite legal, capitalização mensal, spread de 3% (três por cento) ao ano a ser cobrado com a parcela de amortização, incidência da TJLP, juros de mora de 1% (um por cento) ao mês e multa de 10% (dez por cento), despesas de cobrança, taxa remuneratória divulgada unilateralmente pelo recorrido, colocando os recorrentes em extrema desvantagem -, deveriam ser expurgadas da avença (e-STJ fls. 248/249),
+(e) dos arts. 5º, LV, da CF e 420, I, II e III, do CPC/1973, uma vez que o suporte fático do processo não autorizaria indeferir a prova pericial contábil que demonstraria a abusividade dos encargos (e-STJ fl. 249),
+(f) do art. 5º, II, da CF, por não haver em lei autorização legal para incidir a correção monetária no crédito rural, tornando indevida sua cobrança (e-STJ fl. 252),
+(g) dos arts. 16, § 2º, da Lei n. 8.880/1994 e 187, II, da CF, uma vez que, eventualmente entendendo caber a correção monetária na fase de inadimplemento, apenas poderia ser usado como índice de correção "o da equivalência entre os reajustes dos produtos e os custos do mútuo rural, utilizando-se o "preço mínimo" do produto mencionado no título como parâmetro" (e-STJ fl. 253),
+(h) do art. 5º do Decreto-Lei n. 167/1967, por ser devido excluir a capitalização mensal de juros, determinando sua incidência apenas anual ou semestral, desde a origem da dívida,
+(i) do art. 52, § 1º, do CDC, tendo em vista que a multa de 10% (dez por cento) aplicada deveria ser excluída ou reduzida a 2 % (dois por cento) do valor da dívida,
+(j) do art. 18, § 2º, do Decreto n. 58.380/1966, porque seriam asseguradas taxas reduzidas para as operações de Moderago-Pasto, sendo de 4,125% (quatro vírgula cento e vinte e cinco por cento) ao ano o máximo percentual a incidir (e-STJ fl. 254), e
+(k) do art. 13 do Decreto n. 2.181/1997, porque os índices e reajustes aplicados pelo recorrido, sendo absurdos, deveriam ser excluídos da execução embargada.
+Afirmaram que:
+(a) seria ilegal aplicar a correção monetária e a comissão de permanência no contrato, ante a inexistência de norma expressa autorizando tais encargos no crédito rural, devendo ser excluídos todos os índices aplicados para corrigir financeiramente o mútuo (e-STJ fl. 245),
+(b) o percentual de juros a incidir no valor nominal dos financiamentos seria de 4,125% (quatro, vírgula cento e vinte e cinco por cento) ao ano capitalizado anualmente, porque as operações de Moderagro BNDES teriam legislação própria (e-STJ fls. 245 e 254).
+Sustentaram ainda que o art. 1º da Lei n. 4.289/1965 teria sido contrariado. Ao final, pugnaram pelo conhecimento e provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ fls. 263/269).
+No agravo (e-STJ fls. 280/292), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 297/303).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 2015, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 3/STJ).
+Inviável a análise de ofensa a dispositivos constitucionais, porquanto a competência desta Corte Superior restringe-se à interpretação e uniformização do direito infraconstitucional federal, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal. A propósito:
+AGRAVO INTERNO EM RECURSO ESPECIAL - AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não cabe a esta Corte, em sede de Recurso Especial, examinar violação de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do recurso extraordinário. Precedentes.
+(..)
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.542.764/PR, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/9/2016, DJe 22/9/2016.)
+Os recorrentes apontaram afronta ao art. 1º da Lei n. 4.289/1965, mas não especificaram de que modo a Corte de origem teria violado o citado artigo de lei. Dessa forma, a fundamentação recursal mostra-se deficiente, o que atrai a aplicação da Súmula n. 284/STF, por analogia, como óbice ao recurso. Nesse sentido:
+AGRAVO REGIMENTAL - RECURSO ESPECIAL - ARRENDAMENTO MERCANTIL - FUNDAMENTAÇÃO DEFICIENTE - SÚMULA 284/STF - FUNDAMENTO INATACADO - SÚMULA 283/STF - MORA - CONFIGURAÇÃO - REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- O recurso não atende aos requisitos técnicos necessários ao julgamento, pois apenas fez ilações genéricas que não são hábeis ao enfrentamento do apelo excepcional, não chegando mesmo a explicitar adequadamente os motivos pelos quais teria ocorrido a violação dos artigos 219, 924 e 928 do Código de Processo Civil e 1.210 do Código Civil. Tal deficiência, com sede na própria fundamentação da insurgência recursal, impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal.
+(..)
+4.- Agravo Regimental improvido.
+(AgRg no REsp n. 1.131.444/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 13/8/2013, DJe 5/9/2013.)
+Nas razões recursais, os recorrentes não indicaram a legislação federal violada pela Corte local ao sustentarem que: (a) o percentual de juros a incidir no valor nominal dos financiamentos seria de 4,125% (quatro, vírgula cento e vinte e cinco por cento) ao ano, com capitalização anual, em virtude de terem legislação própria as operações de Moderagro BNDES (e-STJ fls. 245 e 254), e (b) seria ilegal aplicar a correção monetária e a comissão de permanência no contrato, ante a inexistência de norma expressa autorizando tais encargos no crédito rural, devendo ser excluídos todos os índices aplicados para corrigir financeiramente o mútuo (e-STJ fl. 245).
+Ausente tal providência, a fundamentação recursal nas letras enumeradas mostra-se deficiente, atraindo a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso. A esse respeito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284 do STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+A Corte de origem assentou, a partir do Decreto-Lei n. 167/1967 - que limita a 12% (doze por cento) ao ano os juros remuneratórios -, não existir abusividade no encargo em questão, porque pactuado em 8,75% (oito vírgula setenta e cinco por cento) ao ano na cédula de crédito rural pignoratícia (e-STJ fls. 228 e 230).
+Rever tais conclusões demandaria nova interpretação das cláusulas da cédula de crédito rural pignoratícia executada e incursão no conjunto probatório dos autos, providências vedadas na instância especial, a teor das Súmulas n. 5 e 7 do STJ.
+Em tal contexto fático, verifica-se que o entendimento adotado pelo TJGO coincide com a jurisprudência desta Corte quanto ao ponto. Nesse sentido:
+RECURSO ESPECIAL. CRÉDITO RURAL. CONTRATOS FINDOS. LEGITIMIDADE ATIVA E PASSIVA. UNIÃO. BANCO DO BRASIL. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO. ENCARGOS MORATÓRIOS. CORREÇÃO MONETÁRIA PELO BTN (MARÇO/1990). SUBSTITUIÇÃO DO IGP-M E DA VARIAÇÃO CAMBIAL PELA TR. DESCARACTERIZAÇÃO DA MORA. INCONSTITUCIONALIDADE DA MP N. 2.196-3/2001. POSSIBILIDADE DE INSCRIÇÃO DO DÉBITO EM DÍVIDA ATIVA. NULIDADE DA CDA. SUCUMBÊNCIA.
+1. O responsável pelo alongamento das dívidas originárias de crédito rural é o agente financeiro envolvido no contrato de mútuo. Portanto, é o agente financeiro parte legítima para responder às demandas que tenham por objeto créditos securitizados.
+2. A possibilidade de revisão de contratos bancários prevista na Súmula n. 286/STJ estende-se a situações de extinção contratual decorrente de quitação, novação e renegociação.
+3. De regra, aplica-se aos contratos de crédito rural o índice de correção monetária incidente sobre as cadernetas de poupança. Nessa linha, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que, em março de 1990, o índice de correção aplicável corresponde a 41,28%.
+4. A comissão de permanência não deve ser aplicada às cédulas de crédito rural, que tem regramento próprio. As notas de crédito rural, comercial e industrial submetem-se a regramento próprio (Lei n. 6.840/1980 e Decreto-Lei n. 413/1969), que confere ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados. Havendo omissão desse órgão, adota-se a limitação de 12% ao ano prevista no Decreto n. 22.626/1933.
+(..)
+12. Às cédulas de crédito rural, comercial e industrial aplica-se a limitação de 12% aos juros remuneratórios.
+13. A redução da multa moratória a 2%, como definida no Código de Defesa do Consumidor, não tem aplicação na hipótese dos autos, pois os tomadores de empréstimos foram desqualificados da condição de consumidores finais por serem empresários e empresas rurais, não sendo aplicável a Súmula n. 285 do STJ.
+14. Recurso do Banco do Brasil conhecido em parte e desprovido. Recurso de Arrozeira Chasqueiro Ltda. e outros conhecido em parte e provido também em parte. Recurso especial da União conhecido e provido em parte.
+(REsp n. 1.348.081/RS, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 2/6/2016, DJe 21/6/2016.)
+PROCESSO CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.
+(..)
+3. "Inadimplida a obrigação, ficam as instituições financeiras autorizadas a cobrar, em substituição à comissão de permanência, os encargos previstos para a fase de normalidade, acrescidos de juros de mora e multa. Nas cédulas de crédito rural, comercial e industrial incide a limitação de 12% aos juros remuneratórios" (Agravo regimental desprovido. (AgRg no AREsp 3.154/MG, Rel. Min. JOÃO OTÁVIO DE NORONHA, 4ª Turma, DJe de 12/08/2011)
+4. A consonância entre a decisão recorrida e a jurisprudência do STJ obsta o conhecimento do recurso especial, nos termos da Súmula 83/STJ.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no REsp n. 1.066.912/PB, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/8/2015, DJe 12/8/2015.)
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Quanto aos juros moratórios, o Tribunal a quo entendeu que (e-STJ fls. 230 e 233):
+Assim, verificando-se que 8,75% ao ano constitui a maior taxa de juros remuneratórios avençada no caso em análise, tal haverá também de ser observada no período de inadimplência, com acréscimo dos juros moratórios de 1% ao ano, conforme estabelece a legislação em referência e precedentes do Superior Tribunal Justiça, a seguir:
+(..)
+Diante disso, no caso dos autos, verifica-se que a sentença vergastada está a merecer parcial reparo, eis que ao considerar válidas as cláusulas do contrato acostado às fls. 81/91, o douto magistrado manteve os juros moratórios de 1% ao mês (item B-2, fl. 88), ou seja, em confronto com o entendimento da Corte Superior, como visto acima.
+Destarte, deve o contrato em tela ser revisado nesse ponto, para que a taxa de juros da inadimplência seja elevada de 1% ao ano, a título de juros de mora.
+A decisão da Corte local mais uma vez se encontra em sintonia com a jurisprudência das Turmas da Segunda Seção desta Corte quanto ao ponto. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. CÉDULA DE CRÉDITO INDUSTRIAL. INADIMPLEMENTO. JUROS MORATÓRIOS. ELEVAÇÃO DE 1% AO ANO. DECISÃO MANTIDA.
+(..)
+2. "Nas Cédulas de Crédito Rural, Industrial ou Comercial, conforme entendimento pacífico desta Corte, a instituição financeira está autorizada a cobrar, após a inadimplência, apenas a taxa de juros remuneratórios pactuada, elevada de 1% ao ano, a título de juros de mora, além de multa e correção monetária. Precedentes. Súmula n. 83/STJ" (AgRg no AREsp n. 429.548/SP, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 5/8/2014, DJe 29/8/2014).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 280.147/SP, de minha Relatoria, QUARTA TURMA, julgado em 10/11/2016, DJe 16/11/2016.)
+RECURSOS ESPECIAIS. CIVIL E PROCESSUAL CIVIL. CPC/1973. CÉDULA DE PRODUTO RURAL FINANCEIRA - CPR-F. EMBARGOS À EXECUÇÃO. DESVIO DE FINALIDADE. JUROS DE MORA. MULTA MORATÓRIA.
+1. RECURSO ESPECIAL DO EXECUTADO/EMBARGANTE: 1.1. Controvérsia acerca da execução de uma Cédula de Produto Rural Financeira (CPR-F), proposta pelo segundo endossatário do título.
+1.2. Ausência de vinculação da CPR a uma anterior concessão de crédito ao produtor rural (exegese da Lei 8.929/1994), uma vez que a CPR é considerada um título de crédito não causal. Doutrina sobre o tema.
+(..)
+1.7. Inaplicabilidade da limitação dos juros moratórios a 1% ao ano, prevista no art. 5º, p. u., do Decreto-Lei 167/1967, por se tratar de norma específica da Cédula de Crédito Rural - CCR.
+1.8. Distinção entre a CPR e a CCR, quanto à autonomia da vontade das partes, sendo esta ampla na CPR e restrita na CCR. Doutrina sobre o tema.
+(..)
+3. RECURSO ESPECIAL DO EMBARGANTE DESPROVIDO E RECURSO ESPECIAL DO EMBARGADO PROVIDO.
+(REsp n. 1.435.979/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 30/3/2017, DJe 5/5/2017.)
+Incide, mais uma vez, a Súmula n. 83/STJ como óbice ao recurso.
+A Justiça local não se manifestou quanto aos arts. 167, 267, IV e VI, e 420, I, II e III, do CPC/1973, 167, VI, 421, 422 e 424 do CC/2002, 16, § 2º, da Lei n. 8.880/1994, 18, § 2º, do Decreto n. 58.380/2006, 13 do Decreto n. 2.181/1997 e art. 1º da Lei n. 4.289/1965. Também não se pronunciou quanto às teses de que seria vedada a capitalização mensal nos autos e de que a multa moratória, nos termos do art. 52, § 1º, do CDC, deveria ser minorada para 2% (dois por cento).
+Dessa forma, sem terem sido objeto de debate na decisão recorrida e não havendo aclaratórios opostos para tal fim, as matérias em questão carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+O recurso especial e agravo nos próprios autos foram interpostos na vigência do CPC/2015 (e-STJ fls. 238 e 276, respectivamente), sendo-lhes aplicável a disposição inserta no art. 85, § 11, da nova lei processual (conforme orientação emanada do Enunciado n. 7 aprovado no Plenário do STJ em 16/3/2016, segundo a qual somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC).
+Em tal circunstância, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado (e-STJ fl. 135), fazendo-o com fundamento no art. 85, § 11, do CPC/2015, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
