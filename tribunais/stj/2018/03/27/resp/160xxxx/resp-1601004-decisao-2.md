@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. PENSÃO. REAJUSTE. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. RECURSO ESPECIAL NÃO CONHECIDO .
+DECISÃO
+Trata-se de recurso especial interposto pela União, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 116):
+ADMINISTRATIVO. PENSIONISTA. SERVIDOR PÚBLICO. REVISÃO DA PENSÃO POR MORTE CONCEDIDA NA VIGÊNCIA DA EC 41/2003. LEI Nº 10.887/2004. INAPLICABILIDADE DA DECADÊNCIA. INEXISTÊNCIA DE DIREITO AO RECEBIMENTO DO BENEFÍCIO COM AS GARANTIAS DE INTEGRALIDADE E PARIDADE COM OS SERVIDORES PÚBLICOS EM ATIVIDADE. CABÍVEL O REAJUSTE NOS MESMOS ÍNDICES E DATAS DOS SERVIDORES EM ATIVIDADE. INTELIGÊNCIA DO ART. 3º, PARÁGRAFO ÚNICO, DA EC Nº 47/2005. DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ. IMPOSSIBILIDADE.
+I. Tratando de ato concessivo de pensão por morte, "o prazo de decadência somente começa a correr após ser efetivada a análise e registro pelo TCU, pois se trata de ato complexo que somente se aperfeiçoa após a confirmação por aquele Tribunal de Contas. Ora, tendo em vista que sequer há notícia nos autos de já ter sido realizada tal análise pelo TCU em relação aos benefícios concedidos à autora, incabível, também por esse motivo, a alegação de decadência arguida. Precedente: STF, MS 27746/ED/DF, Min. Dias Tofoli, DJe 5.9.2012.
+II. Constando dos autos eletrônicos cópias dos processos administrativos que resultaram na revisão da pensão por morte da apelante, onde se observa que foi oportunizado o direito ao contraditório, afasta-se a alegação de cerceamento do direito de defesa.
+III. Após a vigência da EC 41/2003, posteriormente regulamentadas pela Lei nº 10.887/2004, o valor da pensão por morte devida ao dependente será calculada com base na totalidade dos proventos do servidor falecido, até o limite máximo estabelecido para os benefícios do RPGS, acrescido de 70% (setenta por cento) da parcela excedente a este limite.
+IV. Tendo em vista que, na hipótese, o instituidor do benefício faleceu em 2004, impõe-se o reconhecimento de que a autora não possui direito à sua integralidade, pois o cálculo do valor inicial da pensão deve observar os critérios insculpidos na Lei nº 10.887/2004, todavia, o reajuste do benefício deve obedecer aos mesmos índices e datas dos servidores em atividade, dada a garantia de paridade prevista no parágrafo único, do art. 3º, da EC nº 47/2005.Precedente: TRF 5ª Região, APELREEX28603/SE, rel. Desembargador Federal Bruno Teixeira (Convocado), DJe 10.10.2013.
+V. Apelação da parte autora parcialmente provida, para determinar que seja observado o art. 3º, da EC nº 47/2005 no reajuste de seu benefício e reconhecer a sucumbência recíproca.
+Opostos embargos de declaração por ambas as partes, foram rejeitados (e-STJ fl. 150).
+No apelo especial, a parte recorrente alega, preliminarmente, violação do art. 535, II, do CPC/73, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+Quanto ao juízo de reforma aponta ofensa ao art. 2º, I, da Lei 10.887/2004. Argumenta que a "aposentadoria com paridade não gera, automaticamente, pensão por morte com paridade" (e-STJ fl. 226, grifo no original).
+Contrarrazões apresentadas (e-STJ fls. 242-256).
+Juízo positivo de admissibilidade à e-STJ fl. 273.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A irresignação não merece prosperar.
+A controvérsia relativa ao reajuste da pensão foi dirimida com fundamento constitucional, especificamente com base no artigo 3º da EC 47/2005, de modo que o recurso especial é inviável quanto ao ponto, sob pena de usurpar-se a competência reservada pela Constituição ao Supremo Tribunal Federal.
+TRIBUTÁRIO E PROCESSUAL CIVIL. FGTS. LC 110/2001. FINALIDADE. DILAÇÃO PROBATÓRIA. NECESSIDADE. SÚMULA 7/STJ. ACÓRDÃO EMBASADO EM PREMISSAS CONSTITUCIONAIS. REVISÃO. COMPETÊNCIA DO STF.
+1. O Tribunal a quo entendeu não ser necessária a realização de dilação probatória, uma vez que, "diferentemente do sustentado pela parte embargante, a finalidade para a qual foram instituídas as contribuições sociais da LC nº 110, de 2001, foi a de trazer novas receitas ao FGTS, evitando seu desequilíbrio econômico-financeiro.
+É incontroverso que os recursos estão sendo incorporados ao FGTS, na forma do art. 3º, §1º, parte final, da LC nº 110, de 2001, razão por que a contribuição está cumprindo com a finalidade para a qual foi criada" (fl. 378, e-STJ). A agravante, por sua vez, sustenta que "para demonstrar o exaurimento da finalidade da contribuição na forma do art. 4º da LC 110/2001, a recorrente apresentou em anexo à inicial - dentre outros documentos - cópia das demonstrações financeiras e relatórios de gestão do FGTS, que contemplam informações oficiais fornecidas pelo próprio gestor do FGTS, e estão disponíveis amplamente na rede mundial de computadores" (fl. 394, e-STJ). Verifica-se que conclusão diversa da alcançada pelo julgado, no sentido de acolher a pretensão da recorrente, exige reexame das provas e dos fatos, o que, a rigor, é vedado pela Súmula 7/STJ.
+2. Da leitura dos autos verifico que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi dirimida sob enfoque eminentemente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no REsp 1399846/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014)
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO SAT. ALEGADA VIOLAÇÃO AO ARTIGO 535 DO CPC. NÃO CARACTERIZADA. ARTIGO 97 DO CTN. MATÉRIA DE CUNHO CONSTITUCIONAL. INVIABILIDADE DE APRECIAÇÃO NESTA VIA RECURSAL. PRECEDENTES. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS TIDOS POR VIOLADOS. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A análise da violação dos artigos 97 e 110 do Código Tributário Nacional, por reproduzirem princípios encartados em normas da Constituição da República, não é admitida na via especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Precedentes: REsp 828.935/PR, Rel. Ministro Castro Meira, Segunda Turma, DJ 29/8/2006; e AgRg nos EDcl no REsp 1.098.218/SP, Rel.
+Ministro Herman Benjamin, Segunda Turma, DJe 9/11/2009.
+3. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+4. Agravo regimental não provido.
+(AgRg no REsp 1454339/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/10/2014, DJe 20/10/2014)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. IPTU. IMUNIDADE RECÍPROCA. ACÓRDÃO FUNDAMENTADO SOB O ENFOQUE CONSTITUCIONAL. AGRAVO NÃO PROVIDO.
+1. Não compete ao Superior Tribunal de Justiça rever julgados quando a questão debatida tiver sido resolvida pelo Tribunal de origem exclusivamente sob o ângulo constitucional, sob pena de usurpação de competência do Supremo Tribunal Federal.
+2. Agravo regimental não provido.
+(AgRg no REsp 1236614/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe 04/06/2013).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
