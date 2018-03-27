@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. HOMICÍDIO QUALIFICADO. PRETENSÃO DE RECONHECIMENTO DA EXTINÇÃO DA PUNIBILIDADE. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. REDUÇÃO DA CONDENAÇÃO EM RAZÃO DA DETRAÇÃO PENAL. DEBATE DO TEMA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE, ADEMAIS, DE CONSIDERAÇÃO DA PENA REDUZIDA PELA DETRAÇÃO PENAL, PARA FINS DE CÁLCULO DA PRESCRIÇÃO.
+1. Deve ser mantida a decisão monocrática em que não se conhece do writ, em razão de o Tribunal não ter debatido satisfatoriamente a pretensão de reconhecimento da prescrição da pretensão executória, consubstanciada na alegação de redução da pena pelo advento da detração.
+2. Ainda que assim não fosse, esta Corte possui entendimento no sentido de que o período de prisão provisória do réu é levado em conta apenas para o desconto da pena a ser cumprida, sendo irrelevante para fins de contagem do prazo prescricional, que deve ser analisado a partir da pena concretamente imposta pelo julgador e não do restante da reprimenda a ser executada pelo Estado.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra decisão de minha lavra, em que, monocraticamente, não conheci da ordem impetrada em seu favor, por entender que seria caso de supressão de instância, bem como de não concessão de ordem de ofício. Eis a ementa (fl. 43):
+HABEAS CORPUS. EXECUÇÃO PENAL. HOMICÍDIO QUALIFICADO. PRETENSÃO DE RECONHECIMENTO DA EXTINÇÃO DA PUNIBILIDADE. ALEGAÇÃO DE PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. REDUÇÃO DA CONDENAÇÃO EM RAZÃO DA DETRAÇÃO PENAL. DEBATE DO TEMA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE, ADEMAIS, DE CONSIDERAÇÃO DA PENA REDUZIDA PELA DETRAÇÃO PENAL, PARA FINS DE CÁLCULO DA PRESCRIÇÃO.
+Writ não conhecido.
+O agravante reitera os argumentos da impetração e alega, em síntese, que  ..  caso a questão não tenha sido apreciada quando do julgamento pela Corte a quo, muito embora tenha sido aduzida no remédio constitucional lá impetrado, ainda que se busque evitar a ocorrência de indevida supressão de instância, é facultada ao Superior Tribunal de Justiça a concessão de habeas corpus de ofício, caso se constate evidente constrangimento ilegal (fl. 51).
+Postula, ao final, a reconsideração da decisão hostilizada ou a submissão do julgamento do recurso à Sexta Turma deste Superior Tribunal, concedendo-se a ordem para reconhecer a prescrição da pretensão executória.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A despeito das alegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida.
+Cumpre reiterar que, ainda que não fosse caso de supressão de instância, esta Corte possui entendimento no sentido de que  ..  o período de prisão provisória do réu é levado em conta apenas para o desconto da pena a ser cumprida, sendo irrelevante para fins de contagem do prazo prescricional, que deve ser analisado a partir da pena concretamente imposta pelo julgador, e não do restante da reprimenda a ser executada pelo Estado (AgRg no HC n. 181.711/ES, minha relatoria, Sexta Turma, DJe 18/4/2016).
+Em face do exposto, nego provimento ao agravo regimental.
