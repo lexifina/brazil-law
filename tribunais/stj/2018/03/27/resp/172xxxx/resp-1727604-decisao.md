@@ -1,0 +1,21 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. ENUNCIADO ADMINISTRATIVO 2/STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA E RESOLUÇÃO. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial de UNIVERSIDADE FEDERAL DO ESPÍRITO SANTO - UFES , fundado na alínea "a" do permissivo constitucional, interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (e-STJ fl. 215/216):
+ADMINISTRATIVO. SERVIDOR. MAGISTÉRIO SUPERIOR. ALTERAÇÃO DO REGIME DE TRABALHO. DEDICAÇÃO EXCLUSIVA.
+1. O Impetrante, que pertence ao quadro de docentes da UFES desde 01/09/1977, ocupando o cargo de Professor Associado, requereu a alteração do seu regime de trabalho de 40 horas para o de Dedicação Exclusiva, que foi indeferido com fundamento do art. 4º da Resolução nº 59/92 da CEPE/UFES, segundo o qual a mudança de regime não poderia ser concedida a professores que, no momento da solicitação de mudança do regime de trabalho, estivessem no mínimo a 5 anos do período aquisitivo da aposentadoria.
+2. A Resolução nº 59/92 foi editada antes das emendas constitucionais que alteraram o regime de aposentadoria e pensão do servidor, quando vigorava o art. 40 da Constituição em sua redação original, que assegurava a integralidade dos proventos, atualmente mantida nas hipóteses excepcionadas pela Emenda Constitucional nº 41/2003, com o objetivo de evitar o pagamento de proventos majorados não condizentes com os valores recebidos pelo servidor durante o período laborativo.
+3. No entanto, além de não haver lei dispondo sobre restrições ao direito à alteração de regime, a norma do art. 4º da Resolução 59/92 criou limitação de direito em razão da idade, o que é vedado pelo art. 7º, XXX, da Constituição.
+4. Ademais, de acordo com novas regras atuais que tratam da Carreira de Magistério, em vigor a partir da publicação da Lei nº 12.772, de 28/12/2012, a única hipótese prevista para vedação à mudança de regime ocorre com relação aos docentes em estágio probatório
+5. Assim, verificado que a alteração de regime é conveniente para a Administração, a partir dos pareceres favoráveis emitidos para o Impetrante, bem como a existência de vagas, havendo negativa ao requerimento unicamente em razão da restrição ilegal e inconstitucional do art. 4º da Resolução n" 59/92, deve ser deferida a alteração pretendida.
+6. Considerando que vencimentos são devidos pela contraprestação de trabalho, o aumento na remuneração não pode ser deferido para período em que não houve regime de trabalho em regime de dedicação exclusiva, devendo ser deferido, apenas, a partir da publicação do Acórdão, que acolheu o pedido nesse sentido.
+7. Apelação do Impetrante parcialmente provida.
+Os aclaratórios foram desprovidos (e-STJ fl. 274).
+No recurso especial, a parte recorrente aponta violação aos seguintes dispositivos:
+(a) arts. 64 do Decreto 94.664/87; 10, I da Portaria Ministerial 475/1987 e 5º da resolução 59/1992, porquanto não há qualquer ilegitimidade no regramento da instituição, bem como na sua conduta, que se deu em estrita observância ao regramento em vigor.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Ao analisar as razões recursais do recorrente, percebe-se que o cerne da questão gira em torno da interpretação da Portaria Ministerial 475/1987 e Resulução 59/1992, pois são esses institutos que regulamentam o art. 64 do Decreto 94.664/87.
+Ocorre que, além de ser norma de direito local, a atrair a incidência da Súmula 280/STF, o recurso especial não constitui via adequada para a análise de eventual ofensa a Resoluções, Portarias ou Instruções Normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, nos termos do art. 105, III, alínea "a", da Constituição Federal.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intime-se.
