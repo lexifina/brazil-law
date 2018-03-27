@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls.2.096/2.118), interposto contra decisão desta relatoria conheceu do recurso especial e deu-lhe provimento, para restabelecer a decisão que havia determinado a penhora on-line de ativos financeiros pertencentes ao executado.
+Em suas razões, o agravante alega, preliminarmente, a inadmissibilidade do recurso especial interposto pelo agravado, pois, não obstante o acórdão recorrido ter se baseado também em fundamentos de ordem constitucional - uma vez que fez "expressa menção ao princípio constitucional do contraditório e da ampla defesa, qual seja, a inobservância dos referidos princípios - art. 5º, inciso LV da Constituição Federal" (e-STJ fl. 2.104) -, o agravado deixou de interpor recurso extraordinário, o que teria "tornado o recurso especial manejado imprestável ao pedido de reforma ou nulidade do acórdão objurgado" (e-STJ fl. 2.104), nos termos da Súmula n. 126/STJ.
+A seu ver, o recurso também não poderia ter sido conhecido em virtude da impossibilidade de reapreciação de provas nesta instância especial (Súmula n. 7/STJ).
+Afirma que o dissenso jurisprudencial alegado não foi comprovado na forma exigida, diante da ausência de demonstração analítica da divergência e da falta de similitude fática entre os arestos confrontados.
+No mérito, defende a manutenção do acórdão recorrido, sob o argumento de que "a penhora online da forma como preconizada pelo artigo 655-A do Código de Processo Civil, não tem caráter absoluto (entendimento sumulado), e necessita sim, do Juízo investigatório para cada caso concreto" (e-STJ fl. 2.111).
+Argumenta que o pedido de desistência da penhora existente sobre os bens imóveis, seguido do pedido de penhora on line, sem a demonstração de fato novo que justificasse a nova constrição, vai de encontro ao determinado no art. 667, I a III, do CPC/1973.
+Ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+O agravado apresentou contrarrazões (e-STJ fls.2.122/2.137).
+É o relatório.
+Ante a relevância dos argumentos jurídicos deduzidos no Agravo Interno de fls. 2.096/2.118 (e-STJ), assim como pela conveniência de se franquear às partes a possibilidade de sustentar oralmente suas razões perante o Órgão Julgador Colegiado, RECONSIDERO o julgamento e TORNO SEM EFEITO a decisão de fls. 2.087/2.092 (e-STJ), para posterior inclusão do presente recurso especial em pauta, de modo a ser julgado em sessão da Quarta Turma do STJ.
+Publique-se e intimem-se.
