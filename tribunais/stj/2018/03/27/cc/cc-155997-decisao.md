@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, suscitante, e o JUÍZO FEDERAL DA 10ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DE MINAS GERAIS, suscitado, nos autos de Mandado de Segurança impetrado em face de autoridade do Instituto Nacional Do Seguro Social.
+A demanda foi proposta perante o Juízo Federal da 10ª Vara da Seção Judiciária do Estado de Minas Gerais, que declinou da competência nos seguintes termos:
+"Analiso a preliminar de incompetência absoluta do Juízo arguida pelo INSS.
+Segundo dispõe o art. 109 da Constituição Federal vigente:
+(..)
+O caso concreto envolve pedido de restabelecimento de beneficio previdenciário, aposentadoria por invalidez decorrente de acidente de trabalho (fls. 77 e seguintes), sendo certo que a Carta Magna expressamente ressalva da competência da Justiça Federal, mesmo quando presente no polo passivo entidade autárquica federal e ainda que se trate de pedido de revisão do benefício intentado em sede de mandado de segurança.
+Sobre a matéria em questão, a jurisprudência do eg. TRF da 1a Região, na esteira do entendimento preconizado pelo Supremo Tribunal Federal, já se encontra sedimentada:
+(..)
+Diante do exposto e, em face do art. 113 e §2º do CPC, declaro a incompetência absoluta da Justiça Federal para o julgamento desta ação e declino da competência para a Justiça Comum Estadual de Belo Horizonte" (fls. 253/256e).
+Remetido o feito à Justiça Estadual, a segurança foi concedida pelo Juízo Estadual da 31ª Vara Cível da Comarca de Belo Horizonte (fls. 265/270e).
+Interposta Apelação, os autos subiram ao Tribunal de Justiça do Estado de Minas Gerais, que suscitou o presente Conflito Negativo de Competência, nos seguintes termos:
+"O Impetrante manejou o remédio heróico contra omissão imputada a agente de Autarquia Federal, alegando que, embora provido recurso administrativo, não foi restabelecido o benefício previdenciário de aposentadoria por invalidez.
+O Juízo federal declinou da competência para a Justiça Estadual do foro da autoridade (documento nº 28), ao fundamento de que a Impetração que versa sobre matéria acidentária é subtraída da competência da Justiça Federal por força do art. 109, I, in fine, da Constituição.
+O Juízo Estadual de primeiro grau se absteve de suscitar conflito e proferiu sentença concessiva da segurança. Inconformada, a Autarquia argui em Apelação a incompetência absoluta da Justiça Estadual.
+Inexiste, na espécie, concorrência de critérios de competência, como se poderia pensar. A ressalva contida na parte final do art. 109, I da Constituição quanto às demandas acidentárias não se estende ao controle exercido via Mandado de Segurança.
+É lição assente na doutrina que a competência para a Impetração orienta-se apenas pelo critério da qualidade da autoridade.
+Neste sentido, ensinam HELY LOPES MEIRELLES, ARNOLDO WALD e GILMAR FERREIRA MENDES:
+(..)
+Não é diferente a orientação jurisprudencial no sentido de que para a fixação de competência é irrelevante a matéria a ser discutida em mandado de segurança (STJ, CC 17.438/MG, Rel. Min. Félix Fischer, j. 20/10/1997).
+Em casos semelhantes, a orientação do STJ:
+(..)
+Assim, patente a incompetência da Justiça Estadual.
+Uma vez que a Justiça Federal declinou da competência, a questão somente poderá ser solucionada em sede de conflito negativo de competência (art. 66, parágrafo único, do CPC de 2015).
+Por tais razões, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA a ser dirimido pelo Superior Tribunal de Justiça (Constituição Federal, art. 105, I, "d"), e determino que se expeça ofício ao Exmo. Sr. Ministro Presidente do Superior Tribunal de Justiça, instruindo-o com cópia de todas as peças do processo, inclusive deste acórdão, nos termos do art. 953 do CPC de 2015 e do art. 541 do RITJMG" (fls. 325/328e).
+O Ministério Público Federal opinou pelo conhecimento do conflito para declarar competente o Juízo Federal da 10ª Vara da Seção Judiciária do Estado de Minas Gerais" (fls. 346/348e).
+Com efeito, é jurisprudência desta Corte é firme no sentido de que, em se tratando de mandado de segurança impetrado contra autoridade federal - no caso concreto, o responsável pela Gerência Executiva do INSS - Belo Horizonte/MG - incide o artigo 109, inciso VIII da Constituição Federal, que define a competência da Justiça Federal para processar e julgar o feito, mostrando-se "despicienda a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante, porquanto o critério para fixação da competência é estabelecido em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis)" (STJ, CC 134.943/RS, Ministro OG FERNANDES, DJe de 16/04/2015).
+No mesmo sentido confira-se:
+"PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E FEDERAL. MANDADO DE SEGURANÇA. AUTORIDADE IMPETRADA. CHEFE DA AGÊNCIA DO INSS EM SERRA/ES. RETIFICAÇÃO DE ATO ADMINISTRATIVO. BENEFÍCIO PREVIDENCIÁRIO. CLASSIFICAÇÃO EQUIVOCADA. AUXÍLIO-DOENÇA CATALOGADO COMO ACIDENTE DE TRABALHO. COMPETÊNCIA FEDERAL. CRITÉRIO RATIONE AUCTORITATIS. PRECEDENTES.
+1. Cuida-se de conflito negativo de competência instaurado entre o Juízo Federal da 2ª Vara Cível da Seção Judiciária do Estado do Espírito Santo, o suscitado, e o Juízo de Direito da Vara Especializada em Acidentes de Trabalho de Vitória, o suscitante, nos autos de mandado de segurança impetrado por MZ Informática Ltda contra ato supostamente abusivo e ilegal do Chefe da Agência da Previdência Social do INSS no Município de Serra/ES, por meio do qual pretende a impetrante a retificação de ato administrativo.
+2. Noticiam os autos que a autoridade coatora, erroneamente, indicou no ato administrativo impugnado a ocorrência de acidente de trabalho (Código 91) como causa do afastamento do empregado [NOME], embora a licença, na verdade, tenha se dado em razão de doença (Código 31), o que gerou consequências previdenciárias mais gravosas para o empregador.
+3. Embora a discussão tangencie o tema afeto à concessão de benefício previdenciário, a competência interna, por força do que dispõe o art. 9º, § 1º, II, do Regimento do STJ, é da Primeira Seção, pois o que pretende a impetrante é a anulação de ato administrativo, com retificação do registro do benefício concedido a seu empregado de acidente de trabalho (Código 91) para auxílio doença (Código 31).
+4. A competência para o julgamento de mandado de segurança é estabelecida em razão da função ou da categoria funcional da autoridade indicada como coatora (ratione auctoritatis), sendo irrelevante a matéria tratada na impetração, a natureza do ato impugnado ou a pessoa do impetrante. Precedentes.
+5. No caso, a autoridade indigitada coatora é o Chefe da Agência da Previdência Social no Município de Serra/ES, autoridade pública federal vinculada ao Instituto Nacional do Seguro Social-INSS.
+Tratando-se de autoridade federal, a competência para julgamento do feito é da Justiça Federal de Primeira Instância, ainda que a matéria possa, de algum modo, tangenciar o tema relativo à concessão do benefício de acidente de trabalho.
+6. Ainda que assim não fora, não se trata, na espécie, de demanda acidentária, mas de mandado de segurança que visa a retificação de um ato administrativo.
+7. Conflito de competência conhecido para declarar competente o Juízo Federal da 2ª Vara Cível da Seção Judiciária do Estado do Espírito Santo, o suscitado" (STJ, CC 111.123/ES, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, DJe de 22/11/2010).
+"CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA CONTRA ATO DE DESEMBARGADOR DE TRIBUNAL DE JUSTIÇA. INGRESSO DE AUTARQUIA FEDERAL NA LIDE, NA CONDIÇÃO DE ASSISTENTE DO IMPETRANTE. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Conflito de competência entre o Tribunal Regional Federal da 1ª Região e o Tribunal de Justiça do Estado do Amazonas, referente à ação mandamental impetrada pela Empresa de Revitalização do Porto de Manaus S/A contra ato de Desembargador do TJAM. A Agência Nacional de Transportes Aquaviários (ANTAQ) requereu sua integração na lide, na condição de assistente do impetrante.
+2. A jurisprudência das 1ª, 2ª e 3ª Seções do Superior Tribunal de Justiça possui entendimento pacífico no sentido de que em sede de mandado de segurança a competência é definida pela natureza da autoridade coatora, e não em razão da pessoa do impetrante ou da matéria apreciada no mandamus.
+3. Conflito conhecido para se declarar competente o Tribunal de Justiça do Estado do Amazonas, o suscitado" (STJ, CC 47.219/AM, Rel. Min. José Delgado, Primeira Seção, DJ de 03/04/2006)
+"PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA GERENTE EXECUTIVA DO INSS. AÇÃO ACIDENTÁRIA. PREVALÊNCIA DA COMPETÊNCIA EM RAZÃO DA PESSOA. PRECEDENTES. COMPETÊNCIA FEDERAL.
+1. A controvérsia trazida no presente conflito é sobre a prevalência, ou não, em sede de mandado de segurança, da competência em razão da pessoa quando há outro juízo competente em razão da matéria.
+2. A regra de competência para julgamento de mandado de segurança é definida em função do foro da autoridade coatora, conforme decisões reiteradas desta Corte.
+3. É forçoso o reconhecimento da competência da Justiça Federal para o julgamento de mandado de segurança impetrado contra ato da Gerente Executiva do Instituto Nacional do Seguro Social de Curitiba, pois esta é qualificada como autoridade federal nos termos do art. 2º da Lei nº 1.533/51.
+4. Conflito conhecido para declarar competente o Juízo Federal da Vara Previdenciária de Curitiba, o suscitado" (STJ, CC 69.016/PR, de minha relatoria, Terceira Seção, DJ de 26/03/2007).
+Nesse mesmo sentido, a decisão monocrática: CC 154.911/RJ, Relator Ministro BENEDITO GONÇALVES, DJe de 13/12/2017.
+Ante o exposto, conheço do Conflito para declarar competente o JUÍZO FEDERAL DA 10ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DE MINAS GERAIS, suscitado, ora suscitado.
+Comunique-se, com cópia desta decisão, aos Juízos suscitante e suscitado, bem como ao Ministério Público Federal, o resultado do presente julgamento.
+I.
