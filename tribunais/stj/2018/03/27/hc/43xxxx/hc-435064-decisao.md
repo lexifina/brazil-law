@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de [NOME], contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro.
+Depreende-se dos autos que o paciente foi condenado à pena de 01 (um) ano e 06 (seis) meses de reclusão, em regime inicial fechado, mais ao pagamento de 30 (trinta) dias-multa, como incurso nas sanções do artigo 155, parágrafo 4º, inciso III, c.c. art. 14, inciso II, ambos do Código Penal.
+Irresignados, a acusação e a defesa interpuseram recurso de apelação perante o eg. Tribunal de origem, que deu parcial provimento aos apelos, para decotar a qualificadora do emprego de chave falsa e modificar o regime prisional, bem como reconhecer a preponderância da agravante da reincidência, ficando a pena do réu concretizada em 10 (dez) meses e 15 (quinze) dias de reclusão, em regime semiaberto, e pagamento de 05 dias-multa, nos termos do v. acórdão juntado às fls. 57-64.
+No presente mandamus, o impetrante requer a concessão da ordem, para compensar a atenuante da confissão espontânea com o aumento gerado pela reincidência (fls. 1-6).
+O pedido liminar foi indeferido (fls. 68-69).
+As informações foram prestadas às fls. 75-80.
+O Ministério Público Federal, às fls. 82-83, manifestou-se pela concessão da ordem, nos termos da seguinte ementa:
+"DIREITO PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO. COMPENSAÇÃO ENTRE A REINCIDÊNCIA E A CONFISSÃO. ENTENDIMENTO DO STJ EM RECURSO ESPECIAL REPETITIVO. POSSIBILIDADE. PELA CONCESSÃO DA ORDEM."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e presente flagrante ilegalidade, vale dizer:
+ "O entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita." (HC n. 39.030/SP, Quinta Turma, Rel. Min. Arnaldo Esteves, DJU de 11/4/2005).
+No que se refere à confissão, o eg. Tribunal de origem afastou a compensação integral entre a respectiva atenuante e a reincidência, ao fundamento de que a reincidência prepondera sobre a confissão.
+Não obstante, a Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT, firmou entendimento no sentido de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência", nos termos da seguinte ementa:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC). PENAL. DOSIMETRIA. CONFISSÃO ESPONTÂNEA E REINCIDÊNCIA. COMPENSAÇÃO. POSSIBILIDADE. 1. É possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência. 2. Recurso especial provido" (REsp n. 1341370/MT, Terceira Seção, Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013).
+Igualmente, reconhecida a atenuante, essa deve ser compensada integralmente com a agravante da reincidência, uma vez que, a Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento do habeas corpus n. 365.963/SP, em 11/10/2017, firmou entendimento no sentido da "possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multireincidência".
+Desse modo, considerando a pena-base fixada acima do mínimo legal, na segunda fase, conservo a reprimenda nesse patamar, ante a compensação da agravante da reincidência com a atenuante da confissão espontânea.
+Na terceira etapa, presentes as demais causas modificadoras da reprimenda (tentativa), torno-a definitiva em 09 (nove) meses de reclusão, mais ao pagamento de 05 (cinco) dias-multa.
+Ante o exposto, não conheço do presente habeas corpus. Contudo, concedo a ordem de ofício, para fixar a pena em 09 (nove) meses de reclusão, mais 05 (cinco) dias-multa, mantidos os demais termos da condenação.
+P. e I.
