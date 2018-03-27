@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, substitutivo de recurso especial, impetrado em benefício de [NOME], contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Espírito Santo, nos autos do agravo em execução n. 22.2017.8.08.0024.
+Depreende-se dos autos que, em decisão de fls. 54-55, o Juízo da Execução converteu cautelarmente as penas restritivas de direitos em privativa de liberdade e restabeleceu o regime fechado, à vista da não localização do paciente para dar início ao cumprimento da sanção penal.
+Irresignado, o paciente interpôs agravo em execução (fls. 12-36), requerendo a reforma da decisão, mediante o recolhimento do mandado de prisão e a realização de nova tentativa de localização do recorrente. Postulou, alternativamente, a fixação do regime aberto para cumprimento de pena. O eg. Tribunal de origem, contudo, negou provimento ao recurso, em acórdão assim ementado (fls. 56-61):
+"AGRAVO EM EXECUÇÃO CRIMINAL - CONVERSÃO DA MEDIDA ALTERNATIVA EM PRIVATIVA DE LIBERDADE - POSSIBILIDADE - RESTABELECIMENTO DE REGIME FIXADO EM SENTENÇA - POSSIBILIDADE - RECURSO CONHECIDO
+IMPROVIDO.
+1. A conversão da pena restritiva de direitos em privativa de liberdade em razão da impossibilidade de intimação do apenado, ainda que não se tenha iniciado a execução da pena, é expressamente prevista na LEP e consolidada pela jurisprudência pátria.
+2. Convertida a reprimenda restritiva de direitos em privativa de liberdade, não há qualquer irregularidade no restabelecimento de regime previamente fixado em sede de sentença condenatória, qual seja, in casu, o fechado.
+3. Recurso conhecido e improvido." (fl. 56)
+ Daí o presente writ, no qual a Defesa afirma que, embora o paciente tenha sido condenado à pena reclusiva de 3 (três) anos e 6 (seis) meses de reclusão, em regime inicial fechado, a sanção corporal foi substituída por duas restritivas de direitos.
+O impetrante alega que o Juízo das Execuções determinou a intimação do paciente para comparecer à audiência admonitória, mas ele não foi encontrado pelo oficial de justiça no endereço constante no mandado. Afirma que, antes que fosse realizada tentativa de localizar o paciente em outro endereço, foi expedida intimação por edital, mas ele não compareceu à audiência marcada para o dia 10 de setembro de 2014.
+Menciona que o paciente também não foi encontrado no segundo endereço constante no mandado, inviabilizando, novamente, a realização da audiência designada para o dia 18 de março de 2015.
+Acrescenta que "Sem que fossem realizadas mais tentativas de localizar pessoalmente a paciente, verifica-se que foi expedida nova intimação por edital (fls. 77/78) e, em seguida, frustrada a audiência marcada para o dia 17 de agosto de 2015, em virtude da ausência do paciente", o que resultou na prolação de decisum, no qual se converteu cautelarmente a pena restritiva de direito, restabelecendo o regime inicial fechado para cumprimento da pena, com a expedição de mandado de prisão e a realização de audiência de justificação após a captura (fl. 2).
+Assevera que "FOI EXPEDIDO MANDADO DE PRISÃO, sem que se observasse que o restabelecimento do regime inicial fechado para o cumprimento da pena ignorou a inconstitucionalidade do § 1o do artigo 2o da Lei nº 8.072/1990, evidenciando o constrangimento ilegal a que foi submetido o paciente." (fl. 10).
+Diante do exposto, requer a concessão da ordem para "para cassar a decisão proferida nos autos do Agravo em Execução nº 0022589-22.2017.8.08.0024, que restabeleceu o regime fechado para início do cumprimento da pena, e determinar que a pena privativa de liberdade resultante da conversão das penas restritivas de direito seja inicialmente cumprida em REGIME ABERTO" (fl. 11).
+Pedido liminar indeferido às fls. 65/68.
+O impetrante deduziu pedido de reconsideração (fls. 74-75).
+Informações prestadas às fls. 76-88, no bojo da qual o Juízo das Execuções noticia o cumprimento do mandado de prisão no dia 06/02/2018, e a requisição do paciente para comparecimento à audiência de justificação designada para o dia 27/02/2018.
+Pedido de reconsideração indeferido às fls. 91-95.
+Consta, às fls. 99/100, ata de audiência realizada pelo Juízo da Execução Penal, na qual foi proferida a seguinte decisão:
+"Acolho a manifestação verbal da defesa e do MP no sentido de dar uma última oportunidade para que o depoente cumpra sua pena solto. Fica o depoente intimado a comparecer neste cartório imediatamente após ser colocado em liberdade, para ser encaminhado ao início do cumprimento da PSC. Defiro o parcelamento da pena de multa om 24 vezes, devendo a primeira ser paga em 60 dias e as demais a cada 30 dias. Fica o depoente ciente que se não cumprir as penas alternativas ou se praticar outro crime suas penas serão convertidas em prisão. Expeça-se o competente alvará de soltura. Determino que o depoente comprove o seu novo endereço no momento em que comparecer em cartório. Diligencie-se."
+Novas informações às fls. 101-110.
+O Ministério Público Federal, às fls. 112-113, manifestou-se pela denegação da ordem, argumentando que "ao frustrar a execução criminal, a condição de foragido autoriza a regressão cautelar do regime prisional inicialmente imposto, sendo garantido ao condenado, quando de sua captura, o direito de ser posteriormente ouvido, em respeito aos princípios da ampla defesa e do contraditório, antes da regressão definitiva pelo juízo da execução, inclusive permitindo que este reavalie o regime prisional adequado ou mesmo a manutenção da pena substitutiva".
+É o relatório.
+Decido.
+O presente writ está prejudicado em razão da perda superveniente de seu objeto.
+Consoante se afere da ata de fls. 99-100, o paciente foi capturado e compareceu à audiência de justificação, ocasião em que o d. Juízo da Execução deferiu o cumprimento da pena na modalidade prestação de serviço à comunidade.
+Nesse contexto, a decisão apontada pelo impetrante como causadora do alegado constrangimento ilegal não mais surte efeitos sobre o paciente, porquanto, ao que consta dos autos, este já alcançou o cumprimento da pena restritiva de direito.
+Desta forma, diante da substancial alteração do quadro processual informado na inicial, resta configurada a perda de objeto do presente mandamus.
+Ante o exposto, com fulcro no art. 34, XX do RISTJ, julgo prejudicado o habeas corpus.
+P. e I.
