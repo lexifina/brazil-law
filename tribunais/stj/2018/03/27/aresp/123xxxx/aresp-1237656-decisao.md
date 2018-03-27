@@ -1,0 +1,44 @@
+EMENTA
+EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL. COMUTAÇÃO DAS PENAS. DECRETO FEDERAL N.º 8.615/2015. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS PARADIGMAS ORIUNDOS DE JULGAMENTOS DE HABEAS CORPUS. AUSÊNCIA DO COTEJO ANALÍTICO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] (fls. 141-146), contra decisão (fls. 129-131) que inadmitiu o seu recurso especial (fls. 92-103), manejado em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (fls. 83-87).
+Depreende-se dos autos que o juiz da execução indeferiu o pedido do ora agravante de concessão do benefício da comutação de suas penas, com base no Decreto Federal n.º 8.615/2015 (fl. 16).
+Irresignada, a Defesa interpôs agravo em execução, na eg. Corte estadual, que o desproveu (fls. 83-87).
+Com fulcro no art. 105, inciso III, alínea "c", da Constituição da República, o ora agravante interpôs apelo nobre (fls. 92-103), alegando que a decisão da origem estaria em desconformidade com a jurisprudência do Superior Tribunal de Justiça relativa aos requisitos para a concessão do benefício da comutação de penas, com base no Decreto Federal n.º 8.615/2015.
+Isso, porque nesta eg. Corte Superior predominaria o entendimento de que "a falta disciplinar não interrompe o lapso para fins de Comutação, Indulto e Livramento, tanto que depois de reiteradas decisões nesse sentido editou a Súmula nº 535, em 15 de junho de 2015, estabelecendo que "A prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto"" (fl. 94).
+Ressaltou, também, o recorrente que "é reincidente e cumpriu 1/3 da sanção imposta até 25 de dezembro de 2015, conforme boletim informativo que acompanhou o pedido inicial; não foi condenado pelos crimes elencados no artigo 9.º do respectivo Decreto, e não cometeu nenhuma infração disciplinar nos últimos 12 meses anteriores a 25 de dezembro de 2015, preenchendo, portanto, todos os requisitos exigidos pelo artigo 2.º do Decreto nº 8.615/2015" (fl. 100).
+Requereu, ao final, fosse o recurso provido, para "reformar a r. decisão a quo e deferir o pedido de Comutação de Penas com base no Decreto n.º 8.615/15" (fl. 103).
+O eg. Tribunal a quo inadmitiu (fls. 129-131) o apelo nobre, aplicando a Súmula 284/STF e por entender que não foi razoavelmente demonstrado o dissídio jurisprudencial.
+No presente agravo, o recorrente alega que, no apelo nobre inadmitido, "houve adequada descrição dos fatos, do direito, com a formulação dos pedidos adequados" (fl. 144) e que " h ouve a transcrição dos acórdãos paradigmas, com um tópico específico de cotejo entre os julgados, em que se apontou a clara divergência jurisprudencial atinente à interrupção do lapso temporal para comutação de penas, no caso de cometimento de nova infração penal" (fls. 144-145).
+Aduz, ademais, que "não existe óbice à utilização de precedente proferido em sede de habeas corpus para a demonstração da divergência pretoriana, pois tal impedimento é, na verdade, afeto aos embargos de divergência, para o conhecimento dos quais, conforme entendimento adotado neste Tribunal Superior, somente podem se prestar como paradigma acórdãos prolatados em sede de apelo nobre" (fl. 145).
+A d. Subprocuradoria-Geral da República manifestou-se conforme parecer, cuja ementa colaciono a seguir:
+"AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. PRÁTICA DE FALTA GRAVE EM PERÍODO NÃO ABRANGIDO PELO DECRETO  8.615/15. INTERRUPÇÃO DO PRAZO PARA O BENEFÍCIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SÚMULA  535/STJ. PRECEDENTES DESSE STJ. PARECER PELO PROVIMENTO DO AGRAVO." (fl. 162).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pelo agravante, para refutar os fundamentos da decisão de inadmissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+O apelo nobre foi interposto com fulcro na alínea "c" do permissivo constitucional.
+Pois bem.
+A jurisprudência desta Corte pacificou o entendimento no sentido de que não se prestam para o conhecimento do apelo pelo art. 105, III, "c", da Constituição Federal, os julgamentos proferidos em mandado de segurança e habeas corpus, os quais têm um âmbito cognitivo muito mais amplo do que o recurso especial, destinado exclusivamente à uniformização da interpretação da legislação federal.
+Dessa forma, verificando-se que, no caso, o recorrente utilizou, como paradigmas, acórdãos proferidos em habeas corpus, não é possível admitir o apelo nobre.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PARADIGMAS PROFERIDOS EM HABEAS CORPUS E CONFLITO DE COMPETÊNCIA. INADMISSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se admite como paradigma, para fins de comprovação do dissídio jurisprudencial, acórdãos proferidos em habeas corpus e conflito de competência.
+2. Agravo regimental improvido" (AgRg nos EREsp n. 1102270/RJ, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 01/10/2014).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE DEMONSTRAÇÃO DA SIMILITUDE FÁTICA ENTRE OS JULGADOS E HABEAS CORPUS UTILIZADO COMO PARADIGMA PARA COMPROVAÇÃO DE EVENTUAL DISSÍDIO. AGRAVO NÃO PROVIDO.
+1. Caberia ao recorrente a juntada de certidão ou de cópia autenticada do acórdão paradigma, ou na sua falta, da declaração pelo advogado da autenticidade dessas, com realização do devido cotejo analítico para demonstrar a similitude fática entre os julgados confrontados, mediante a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados, requisitos esses que não foram cumpridos na hipótese dos autos.
+2. A simples transcrição de ementas não serve à comprovação da divergência jurisprudencial, sendo necessário o cotejo analítico entre os acórdãos recorrido e o paradigma, com a efetiva confirmação da similitude dos casos confrontados.
+3. A jurisprudência deste Tribunal é firme no sentido de que não se admite como paradigma, para comprovar eventual dissídio, acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência. Precedentes.
+4. Agravo regimental não provido." (AgRg no AREsp 987.056/RO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 26/02/2018)
+Outrossim, a interposição do apelo extremo, com fulcro na alínea "c", do inciso III, do art. 105, da Constituição Federal, exige, para a devida demonstração do alegado dissídio jurisprudencial, o cotejo analítico entre o aresto recorrido e os paradigmas, com a constatação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ocorreu na espécie, pois não se satisfaz essa exigência com a mera transcrição de ementas ou de trechos de acórdãos, sem maior desenvolvimento argumentativo.
+Essa ausência de efetiva confrontação entre os julgados impede a constatação da divergência, procedimento necessário para o conhecimento do apelo.
+Nesse entendimento:
+" ..
+RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. COMPROVAÇÃO DA DIVERGÊNCIA. COTEJO ANALÍTICO. RECURSO IMPROVIDO.
+1. A interposição de recurso especial com fundamento no art. 105, inciso III, alínea c, da Constituição Federal exige prova inequívoca do dissídio jurisprudencial, quer pela demonstração da similitude fática, quer pela confrontação entre os acórdãos, de modo a evidenciar a divergência, o que não ocorreu na espécie.
+2. Agravo regimental desprovido." (AgRg no AREsp 620.447/MT, Quinta Turma, Rel. Min. Jorge Mussi, DJe 09/03/2018)
+"RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. QUALIFICADORAS. RECONHECIMENTO. DIVERGÊNCIA JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO DEMONSTRADO. OFENSA A DISPOSITIVO DE LEI FEDERAL. ART. 206 DO CÓDIGO DE PROCESSO PENAL. TESTEMUNHA. FILHA DO RÉU. OITIVA. INDEFERIMENTO. NULIDADE. CERCEAMENTO DE DEFESA. PREJUÍZO. DEMONSTRAÇÃO. AUSÊNCIA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+1. Na esteira da jurisprudência desta Corte Superior, o conhecimento do recurso especial pela divergência exige a transcrição dos trechos dos acórdãos impugnados e paradigma, evidenciando-se, de forma clara e objetiva, o suposto dissídio jurisprudencial, não sendo suficiente a simples transcrição de ementas ou votos sem a exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados.
+ ..
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido." (REsp 1437794/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 12/03/2018)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
