@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão da Quinta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “SALÁRIO-DE-CONTRIBUIÇÃO. ATUALIZAÇÃO. IRSM DE FEVEREIRO DE 1994 (39,67%). CUSTAS PROCESSUAIS. RIO GRANDE DO SUL.
+    1. É devida a revisão da renda mensal inicial de benefício, cujo período base de cálculo, inclui o mês de fevereiro de 1994, para atualização pelo IRSM do referido mês (39,67%) dos salários-de-contribuição.”
+    Opostos embargos de declaração, foram providos para fins de prequestionamento.
+    Sustenta o recorrente violação dos artigos 5º, incisos XXXV, XXXVI, LIV e LV, e 201, § 1º, da Constituição Federal.
+    Após juízo negativo de retratação, os autos subiram a esta Corte.
+    Decido.
+    A Corte de origem concluiu pela inaplicabilidade do prazo decadência para revisão do benefício previdenciário da parte autora, ora recorrida, amparada no seguinte fundamento:
+    “Contudo, não incide a decadência da revisão da renda mensal inicial do benefício pela aplicação integral do IRSM de fevereiro/94, porque a Medida Provisória nº 201, de 23-07-2004, convertida na Lei nº 10.999/2004, expressamente garantiu a revisão dos benefícios previdenciários pela inclusão de tal índice no fator de correção dos salários de contribuição anteriores a março de 1994, de forma que o direito vindicado na presente ação diz respeito à aplicação de disposição de lei que determinou a recomposição do benefício, e desde a sua edição (2004) até a data do ajuizamento da ação (em 10/08/2010) não se passaram mais de dez anos.”
+    A irresignação não merece prosperar, uma vez que para ultrapassar o entendimento do Tribunal de origem seria necessário, induvidosamente, o reexame das normas legais pertinentes, notadamente do artigo 103, caput, da Lei nº 8.213/91, e do conjunto fático-probatório dos autos, ao que não se presta o recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF. Nesse sentido, anote-se:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Previdenciário. Revisão de benefício. Decadência. RE nº 626.489/SE-RG. Repercussão geral reconhecida. Inaplicabilidade. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, a interpretação da legislação infraconstitucional, bem como o reexame dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE nº 910.691/RS-AgR, Segunda Turma, de minha relatoria, DJe de 7/3/16).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REVISÃO DE BENEFÍCIOS PREVIDENCIÁRIOS CONCEDIDOS APÓS A ENTRADA EM VIGOR DA MEDIDA PROVISÓRIA 1.523-9/1997. DECADÊNCIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE nº 730.395/RS-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 10/9/13).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA. BENEFÍCIO CONCEDIDO APÓS PREVISÃO LEGAL DA DECADÊNCIA. MEDIDA PROVISÓRIA N. 1.523/1997, CONVERTIDA NA LEI N. 9.528/1997. DISCUSSÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 689.729/RS-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 3/6/13).
+    “DIREITO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. REVISÃO DE BENEFÍCIO CONCEDIDO APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA 1.523/1997. DECADÊNCIA. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. ACÓRDÃO PUBLICADO EM 12.5.2011. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao âmbito infraconstitucional do debate, a inviabilizar o trânsito do recurso extraordinário. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento”
+(ARE nº 690.967/RS-ED, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 11/4/13).
+    Nesse mesmo sentido, em casos análogos: RE nº 1.109.161/RS, Relator o Ministro Gilmar Mendes, DJe de 16/3/18; RE nº 1022.849/RS, Relator o Ministro Ricardo Lewandowski, DJe de 15/3/18; RE nº 1.070.717/RS, Relator o Ministro Alexandre de Moraes; DJe de 14/3/18; RE nº 1.102.526/RS, Relator o Ministro Edson Fachin, DJe de 8/3/18; ARE nº 1101.487/SP, Relatora a Ministra Rosa Weber, DJe de 5/3/18.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 27 de março de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
