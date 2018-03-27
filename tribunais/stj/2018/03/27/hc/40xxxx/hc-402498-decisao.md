@@ -1,0 +1,44 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. DISPENSA DE LICITAÇÃO. ART. 89 DA LEI N. 8.666/1993. DOLO ESPECÍFICO DE CAUSAR PREJUÍZO AO ERÁRIO NÃO VERIFICADO. ELEMENTO IMPRESCINDÍVEL À CONFIGURAÇÃO DO DELITO. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA. RESTABELECIMENTO DA SENTENÇA ABSOLUTÓRIA. MEDIDA QUE SE IMPÕE.
+Ordem concedida nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME] e [NOME] - condenados, em segundo grau de jurisdição, como incursos no crime de dispensa indevida de licitação -, em que se aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região, que deu provimento à apelação acusatória para os condenar como incursos no crime imputado na denúncia.
+Alega-se a ocorrência de constrangimento ilegal consistente na condenação dos acusados com base em entendimento dissonante deste Superior Tribunal, no sentido de que seria dispensável o dolo específico e a existência de dano ao erário para a configuração do crime imputado a eles e, ainda, aduz-se ter sido ignorado o fato de que os imputados estariam atuando com erro sobre a ilicitude, pois amparados em parecer jurídico de profissionais da área.
+Postula-se, então, o deferimento de medida liminar para que sejam suspensos os efeitos do acórdão hostilizado até o julgamento do mérito do presente writ.
+Em 7/6/2017, indeferi o pedido de liminar (fls. 115/116).
+Na Petição n. 00142245/2018, às fls. 126/130, os impetrantes apresentam um novo pedido liminar para que se suspenda a ordem de prisão provisória da pena, tendo em vista o julgamento definitivo da apelação ministerial pelo Tribunal Regional Federal da 4ª Região.
+Pontuam que  ..  o julgado que busca o aprisionamento dos pacientes vai de encontro a jurisprudência concreta do STJ já aplicada à mesma matéria de fato e a corréus, sem no entanto fazer o devido enfrentamento das suas pertinentes razões, como exige o art. 489, § 1º, VI, do Novo Código de Processo Civil (fl. 127).
+É o relatório.
+A despeito do entendimento do Supremo Tribunal Federal, bem como deste Superior Tribunal de Justiça, no sentido de que é possível a execução provisória do acórdão penal condenatório proferido em grau recursal, mesmo que estejam pendentes recursos aos tribunais superiores, vislumbro ilegalidade flagrante quanto ao édito condenatório a justificar a concessão da ordem. Senão vejamos.
+ Nos autos da Ação Penal n. 5006287-90.20114.04.7102, da 2ª Vara Federal de Santa Maria - SJ/RS, os ora pacientes foram absolvidos da prática do crime tipificado no art. 89 da Lei n. 8.666/1993, com fulcro no art. 386, II, do CPP (fls. 40/46 - Ação Penal n. 5006287-90.2011.4.04.7102/RS).
+As partes, então, recorreram. A defesa requereu que o fundamento da absolvição declarada pelo Magistrado singular fosse o inciso III e, não o II do art. 386 do Código de Processo Penal. Por sua vez, o Ministério Público postulou a condenação dos acusados, sustentando, em suma, que o art. 89 da Lei n. 8.666/1993 prescinde da prova de dano ao erário e de demonstração de um elemento subjetivo especial (dolo específico), razão pela qual os indiciados deveriam ser condenados.
+Processado os referidos recursos, a Corte Federal deu provimento ao recurso ministerial para condenar os réus às penas de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, além de multa (fls. 32/39; 67/89 - Apelação Criminal n. 5006287-90.2011.4.04.7102/RS) e, ao final, transcorrido o prazo para interposição de embargos, ou após o julgamento destes, determinou a execução provisória da pena.
+Feito esse breve relato, pontua-se o necessário para o deslinde da controvérsia.
+O Tribunal Regional Federal da 4ª Região, ao prover o apelo ministerial, asseverou que (fl. 79):
+ ..  Tendo em vista que o art. 89 da Lei n. 8.666/1993 visa tutelar não somente o patrimônio público, mas também a probidade, a moralidade administrativa, a legalidade, a impessoalidade e a isonomia, ainda que não tenha havido dano ao Erário, isso não afasta a ocorrência do crime tipificado no art. 89 da Lei nº 8.666/93, pois de todo indevida a dispensa da licitação.
+ ..
+Em seguida, acrescentou (fl. 80):
+ ..  Reporto-me à fundamentação exposta no item 1.3 e acrescento que, ainda que não tenha havido intenção do réu de causar prejuízo aos cofres da Universidade - principalmente se for considerado que as máquinas copiadoras foram incorporadas ao patrimônio da instituição ao término do prazo dos contratos, deve ser acolhida a pretensão do Ministério Público no sentido de que é desnecessário o dolo específico.
+ ..
+Faço apenas um adendo ao fato de que a Corte Federal faz referência aos argumentos mencionados para justificar a condenação dos demais acusados, sendo, portanto, desnecessária, a repetição de cada justificativa.
+Pois bem. A jurisprudência mais recente do Superior Tribunal de Justiça, firmada a partir do julgamento da APN n. 480/MG, em 29/03/2012, acompanhando o entendimento do Tribunal Pleno do Supremo Tribunal Federal (Inq n. 2.482/MG, julgado em 15/9/2011), assevera que a consumação do crime do art. 89 da Lei n. 8.666/1993 exige a demonstração do dolo específico, ou seja, a intenção de causar dano ao erário e a efetiva ocorrência de prejuízo aos cofres públicos, decorrente da contratação com dispensa ou fraude na licitação.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREFEITO MUNICIPAL. DISPENSA DE LICITAÇÃO. ART. 89 DA LEI N. 8.666/1993. IMPRESCINDIBILIDADE DA DEMONSTRAÇÃO DO PREJUÍZO E DO DOLO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência dominante deste Superior Tribunal orienta que "Os crimes previstos nos artigos 89 da Lei n. 8.666/1993 (dispensa de licitação mediante, no caso concreto, fracionamento da contratação) e 1º, inciso V, do Decreto-lei n. 201/1967 (pagamento realizado antes da entrega do respectivo serviço pelo particular) exigem, para que sejam tipificados, a presença do dolo específico de causar dano ao erário e da caracterização do efetivo prejuízo" (APn n. 480/MG, Rel. Ministra Maria Thereza de Assis Moura, Rel. p/ acórdão Ministro Cesar Asfor Rocha, Corte Especial, DJe 15/6/2012).
+2. No caso, o Tribunal de origem consignou que não existiriam provas que evidenciariam o prejuízo ao erário, tampouco o dolo em lesar o patrimônio público. Assim, dúvidas não há de que o acórdão recorrido está em plena harmonia com a jurisprudência desta Corte Superior.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.104.577/RN, Sexta Turma, Ministro Rogerio Schietti Cruz, DJe 2/10/2017)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 89 DA LEI N. 8.666/93. CONTRATAÇÃO DE ADVOGADO. INEXIGIBILIDADE DE LICITAÇÃO. ARTS. 13, V, E 25, II, DA LEI DE LICITAÇÃO. DOLO ESPECÍFICO DE CAUSAR PREJUÍZO AO ERÁRIO NÃO VERIFICADO. ELEMENTO IMPRESCINDÍVEL À CONFIGURAÇÃO DO DELITO. PRECEDENTES. CONDUTA ATÍPICA. ABSOLVIÇÃO. ART. 386, III, DO CPP.
+I - Nos termos da jurisprudência que atualmente predomina nesta Corte, ressalvado o entendimento do Relator, para a configuração do delito previsto no art. 89 da Lei 8.666/93, imprescindível a presença do especial fim de agir, consistente na vontade de causar dano ao erário e da demonstração do efetivo prejuízo. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.709.405/MG, Quinta Turma, Ministro Felix Fischer, DJe 16/2/2018 - grifo nosso).
+In casu, tem-se que o Tribunal de origem concluiu pela existência de prova da autoria, da materialidade e do dolo em relação aos pacientes, contudo, adotou posicionamento contrário ao entendimento deste Superior Tribunal, defendendo, em síntese, a desnecessidade de demonstração do dolo específico, porquanto (fls. 67/68):
+ ..  Esse tipo penal ocorre quando há falta de observância das formalidades à dispensa ou à inexigibilidade do procedimento licitatório, restando consumado o delito com a mera conduta de afastar a realização da licitação fora das hipóteses legais ou mesmo sem a observância das regras estabelecidas para dispensá-la.
+Trata-se de crime de formal e de perigo abstrato, cuja consumação se dá com a mera dispensa ou não-exigência da licitação - em hipótese na qual a lei não tenha autorizado tal proceder -, sendo irrelevante, portanto, pra efeito da configuração do referido delito, a efetiva ocorrência de prejuízo.
+ ..
+Embora não desconheça os precedentes jurisprudenciais em sentido contrário, entendo inexigível o dolo específico para caracterização do delito do artigo 89 da Lei de Licitações, bastando para sua caracterização a atuação livre e consciente do agente no intuito de burlar o procedimento licitatório nas hipóteses de a lei não o ter dispensado e/ou autorizado sua dispensa/inexigência.
+ ..
+Ante o exposto, concedo a ordem para anular o acórdão impugnado (Apelação Criminal n. 5006287-90.2011.4.04.7102/RS), restabelecendo-se a decisão que absolveu os pacientes. Expeça-se o contramandado de prisão.
+Comunique-se com urgência.
+Publique-se.
