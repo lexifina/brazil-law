@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98056, de 14 de março de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8537.10.90 Mercadoria: Módulo de controle eletrônico de abertura e fechamento de porta e rampa de acesso em veículo de transporte coletivo, que emite anúncios sonoros para alertar os passageiros sobre a movimentação da porta controlada. DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 2 f) da Seção XVII, Nota 3 da Seção XVI e texto da posição 85.37), RGI/SH 6 (texto da subposição 8537.10) e RGC/NCM 1 (texto do item 8537.10.90), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.056-2018 .pdf]
