@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98047, de 6 de março de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8479.10.90 Mercadoria: Máquina auxiliar para construção de pontes e viadutos com sistemas hidráulicos por acionamento elétrico para o movimento automático de abertura e fechamento das fôrmas para moldagem dos tabuleiros em concreto armado e protendido, com sistema de movimentação e avanço autônomo, comercialmente denominada “Sistema de fôrma viajante inferior”. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 84.79), RGI/SH 6 (texto da subposição 8479.10) e RGC/NCM 1 (texto do item 8479.10.90), da TEC, aprovada pela Resolução Camex n.º 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.047-2018 .pdf]
