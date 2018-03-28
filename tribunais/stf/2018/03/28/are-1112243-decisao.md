@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – PREQUESTIONAMENTO – AUSÊNCIA – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado de São Paulo, reformando o Juízo, assentou a impossibilidade de a Fazenda Estadual suspender inscrição fiscal para coagir o contribuinte a pagar tributo ou cumprir obrigações acessórias, sem a observância do devido processo administrativo, submetido aos princípios do contraditório e da ampla defesa. No extraordinário, cujo trânsito busca alcançar, o recorrente alega violados os artigos 5º, 18 e 155, § 2º, da Constituição Federal. Afirma contrariado o princípio da legalidade tributária. Sustenta a competência estadual para legislar sobre o Imposto sobre a Circulação de Mercadorias e Serviços – ICMS. Diz ser o procedimento administrativo em caso fundado nos princípios do devido processo legal, da ampla defesa e do contraditório. Aduz decorrer da aplicação da legislação estadual, consentânea com as normas constitucionais e legais, a cassação da inscrição fiscal sob exame.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido os seguintes fundamentos:
+    Consta dos autos que a impetrante teve suspensa a sua inscrição estadual em razão de não ter atendido a determinação de exibir documentos durante ação fiscal, num exíguo prazo de 02 (duas) horas.
+    Observa-se que a suspensão foi efetivada no mesmo dia da fiscalização, o que indica a ausência de qualquer procedimento administrativo a preceder tal sanção, conduta que representa ofensa ao artigo 5º, inciso LV, da Lei Maior, que assegura aos litigantes em processo judicial ou administrativo, e aos acusados em geral, o contraditório e a ampla defesa.
+    Consoante a jurisprudência dominante, não pode a Fazenda Pública utilizar-se da suspensão da inscrição do contribuinte como meio de coagi-lo a pagar tributos ou cumprir obrigação acessória, inviabilizando o exercício de sua atividade econômica (CF, art. 170, par. único).
+    Ademais, mesmo na hipótese de eventual recusa injustificada em apresentar os documentos solicitados pelo Fisco (art. 195 do CTN), deveria a autoridade tributária determinar a lavratura do auto de infração, cobrando multa pelo descumprimento do dever instrumental e, no âmbito administrativo, efetuar os lançamentos que entender devidos por presunção.
+    […].
+    Nesse contexto, considerando que a Apelante comprovou estar regularmente estabelecida no endereço cadastrado na Junta Comercial (fls. 12, 14/17, 19 e 24) e não se vislumbrando a prática de atos que tenham grave repercussão no âmbito tributário, tem-se que a suspensão de sua inscrição estadual, restrição que a impede de exercer sua atividade comercial, foi prematura, além de desprovida de razoabilidade e proporcionalidade.
+    […].
+    Presentes, portanto, a verossimilhança das alegações e o perigo de dano irreparável, de rigor a reforma da r. sentença, para conceder a segurança, a fim de sustar a decisão administrativa que determinou a suspensão da inscrição estadual da Apelante sem a observância do devido processo legal.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos fáticos e probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    No caso, o que sustentado pelo recorrente quanto aos artigos 5º, 18 e 155, § 2º, da Constituição Federal não foi enfrentado pelo Órgão julgador. Não houve a interposição de embargos declaratórios, não havendo debate e decisão prévios sobre as questões constitucionais invocadas no extraordinário.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 28 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
