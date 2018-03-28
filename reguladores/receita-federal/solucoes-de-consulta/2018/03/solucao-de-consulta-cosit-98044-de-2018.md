@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98044, de 6 de março de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 3004.90.59 Mercadoria: Medicamento para o tratamento do câncer de mama, tendo como princípio ativo o mesilato de eribulina, apresentado em frasco com uma dose de 2 ml como solução injetável, contendo 1 mg de mesilato de eribulina, equivalente a 0,88 mg de eribulina, em mistura de etanol e água, acondicionado em cartucho de papelão. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 30.04), RGI 6 (texto da subposição 3004.90) e RGC 1 (textos do item 3004.90.5 e do subitem 3004.90.59) da NCM, constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e em subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.044-2018 .pdf]
