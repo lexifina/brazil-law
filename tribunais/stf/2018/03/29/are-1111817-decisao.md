@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado de São Paulo, confirmando o entendimento do Juízo, assentou, observada a legislação de regência, a adequação da determinação de recolhimento de valores pela via administrativa para quitação de débito fiscal. No extraordinário, cujo trânsito busca alcançar, a recorrente alega violados os artigos 5º, inciso LXXVIII, e 145, § 1º, da Constituição Federal. Afirma contrariado o princípio da capacidade contributiva. Articula quanto a inconstitucionalidade da exigência judicial de realização do pagamento do crédito fiscal executado, referente ao Imposto sobre a Propriedade Veicular Automotiva – IPVA, por meio da via administrativa, mesmo após depositado em Juízo o valor integral do débito.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    A Fazenda do Estado de São Paulo ajuizou execução fiscal contra a agravante, objetivando o recebimento de valor referente ao IPVA dos exercícios de 2011, 2012 e 2014 (fls. 22/25).
+    Foi expedida carta de citação (fls. 27), na qual constou expressamente a determinação para que, no caso de pagamento, fosse este realizado por meio do site www.dividaativa.pae.sp.aov.br.
+    A determinação, no entanto, não foi atendida pela ora agravante, sendo realizado depósito judicial para fins de quitação do débito. Ao valor devido fora acrescido mais 10% a título de honorários advocatícios (fls. 29/32).
+    A executada insurge-se contra a imposição do juízo para que utilize a via administrativa para quitação do débito fiscal.
+    Contudo, não há nulidade na decisão. A magistrada tão somente reafirma o que já havia sido determinado na carta de citação. A imposição não se dá ao acaso, mas com base em sua atuação como gestora da vara judicial, o que lhe traz o dever de implementar estratégias para o uso racional e eficaz dos recursos disponibilizados pelo Poder Judiciário.
+    Também visa a magistrada, ao impor a diminuição da quantidade de atos a serem realizados por meio do ofício judicial, à concretização do princípio da celeridade processual.
+    A agravante, ao não observar a orientação expressa no instrumento citatório e ao não acatar a nova determinação judicial, somente contribui para aumentar a quantidade de trabalho realizado no Judiciário, em nada beneficiando a si própria nem aos demais jurisdicionados.
+    Por outro lado, a executada não aponta dificuldades ou impedimentos na efetuação do pagamento pela via administrativa. No portal da Procuradoria Geral do Estado consta clara a instrução de que, após efetuado o pagamento e o repasse do banco aos cofres do Estado, o valor será processado na conta fiscal da dívida ativa, sendo emitido um aviso de liquidação do débito ao procurador responsável pelo acompanhamento da execução, que requererá ao juízo a extinção do processo.
+    Na via administrativa também serão emitidas guias para pagamento de custas processuais e eventuais diligências de oficial de justiça, valores estes não incluídos no pagamento efetuado pela executada via depósito.
+    Desse modo, regular a conduta da magistrada, não havendo que se falar em nulidade.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    Acresce revelar o acórdão impugnado interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, o que sustentado no extraordinário não foi enfrentado pelo Órgão julgador. Apesar da interposição de embargos declaratórios, não houve debate e decisão prévios sobre o princípio da capacidade contributiva. Frise-se, por oportuno, que a parte recorrente não arguiu o vício de procedimento. Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 29 de março de 2018.
+Ministro MARCO AURÉLIO
+Relator
