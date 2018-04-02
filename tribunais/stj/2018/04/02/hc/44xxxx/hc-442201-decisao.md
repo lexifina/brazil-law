@@ -1,0 +1,22 @@
+EMENTA
+HABEAS CORPUS. ART. 157, § 2º, I E II, DO CP. DOSIMETRIA. AUMENTO DE 3/8 NA TERCEIRA FASE. CRITÉRIO ARITMÉTICO. MOTIVO INIDÔNEO. SÚMULA 443/STJ. REGIME. ADEQUAÇÃO DO SEMIABERTO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente, nos termos do dispositivo.
+DECISÃO
+No Processo n. 0047784-32.2014.8.26.0050, o Juízo de Direito da 7ª Vara Criminal da comarca de São Paulo/SP condenou [NOME] e [NOME] por incursos no art. 157, § 2º, I e II, do Código Penal, por duas vezes, em concurso formal, ao cumprimento de 6 anos e 5 meses de reclusão, em regime inicial fechado, e ao pagamento de 15 dias-multa.
+À apelação da defesa, o Tribunal estadual negou provimento.
+Sobreveio o presente writ, em que a Defensoria Pública pretende, inclusive em caráter liminar, a redução da reprimenda, por aplicável a Súmula 443/STJ, e o abrandamento do regime inicial, ante a ausência de motivação idônea para a imposição do fechado.
+É o relatório.
+Da análise dos autos, verifico a existência de nítido constrangimento ilegal a ser sanado, o que autoriza a concessão da ordem in limine.
+Em primeiro lugar, observo que as instâncias ordinárias, na terceira fase da dosimetria, aumentaram a reprimenda em 3/8 tão somente em virtude do número de majorantes, o que não configura motivação idônea, e contraria a jurisprudência deste Superior Tribunal, sintetizada na Súmula 443/STJ, in verbis: O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Tal a circunstância, as reprimendas deverão sofrer, nesta fase, um aumento de 1/3, apenas, sendo fixadas, definitivamente, em 6 anos, 2 meses e 20 dias de reclusão, além do pagamento de 15 dias-multa.
+Em segundo lugar, vê-se que, para fixar o regime inicial fechado, as instâncias a quo fizeram referência apenas à gravidade abstrata do crime de roubo majorado. Todavia, o posicionamento pacificado nesta Corte Superior e no Supremo Tribunal Federal é no sentido de que se mostra inadmissível a estipulação de regime prisional mais rigoroso do que aquele previsto para a sanção corporal aplicada, apenas com fundamento na gravidade abstrata do delito. Nesse sentido, as Súmulas 440/STJ e 718 e 719/STF.
+Confira-se, a propósito, o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. TERCEIRA FASE. FRAÇÃO DE AUMENTO. CAUSAS DE AUMENTO. SÚMULA N. 443 DO STJ. VIOLAÇÃO. REGIME INICIAL DE CUMPRIMENTO DA PENA. MODO FECHADO JUSTIFICADO PELA GRAVIDADE ABSTRATA DO DELITO. ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É necessária a indicação de outras circunstâncias concretas que digam respeito às próprias majorantes e que evidenciem a maior desaprovação da conduta (número de agentes superior ao necessário para configurar o concurso, restrição da liberdade da vítima por longo período, emprego de arma de grosso calibre, ocorrência de disparo etc.), para justificar o percentual de aumento na terceira fase da dosimetria, o que não ocorreu no caso dos autos.
+2. Tanto o Juízo de primeiro grau quanto o Tribunal a quo motivaram o acréscimo em 3/8 unicamente no número de causas de aumento de pena verificadas na espécie, sem mencionar nenhum elemento dos autos que evidenciasse a maior reprovabilidade da conduta perpetrada pelos acusados, a justificar a escolha de fração superior à mínima prevista. Violação da Súmula n. 443 do STJ.
+3. A menção à gravidade abstrata do delito - cometido em concurso de agentes e com emprego de arma de fogo - não é suficiente para justificar a fixação de regime inicial mais gravoso para o cumprimento da pena.
+4. Agravo regimental não provido.
+(AgInt no HC n. 390.855/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/5/2017 - grifo nosso)
+Assim, ante a ausência de motivação idônea para o estabelecimento do regime fechado, tratando-se de réus primários, que tiveram a pena-base fixada no mínimo legal, e condenados definitivamente à pena de 6 anos, 2 meses e 20 dias de reclusão, estabeleço o regime semiaberto para o início do cumprimento da reprimenda.
+À vista do exposto, concedo liminarmente a ordem para reduzir as penas privativas de liberdade dos pacientes a 6 anos, 2 meses e 20 dias de reclusão, e modificar o regime inicial de cumprimento das reprimendas para o semiaberto (Processo n. 0047784-32.2014.8.26.0050, da 7ª Vara Criminal da comarca de São Paulo).
+Publique-se.
