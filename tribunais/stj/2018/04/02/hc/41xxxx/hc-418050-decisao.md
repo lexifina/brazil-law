@@ -1,0 +1,19 @@
+DECISÃO
+VAGNER TIMOTEO DA SILVA, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0009643-02.2014.8.26.0451.
+Nesta Corte, a defesa sustenta a ilegalidade da vedação à substituição da pena privativa de liberdade por restritiva de direitos, ao paciente condenado à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto, por infração ao art. 180, caput, do Código Penal. Requer a concessão da ordem, nos termos delineados.
+Indeferida a liminar e dispensadas as informações, veio o parecer do Ministério Público Federal (fls. 49-55), que opinou pela concessão da ordem.
+Decido.
+O Tribunal de origem assim fundamentou a negativa de substituição da pena privativa de liberdade por restritiva de direitos, in verbis (fls. 38-39, grifei):
+Observa-se, ainda, que acertadamente não se operou a substituição da corporal por restritivas de direitos, pois, ainda que sua reincidência não seja específica no caso em concreto, em se tratando de réu já condenado em definitivo pela prática de crime equiparado aos hediondos (colaboração, como informante, com grupo, organização ou associação destinados à prática do narcotráfico), e que agora se vê envolvido na receptação de bem de alto valor econômico, delito que fomenta a prática de outros gravíssimos, na espécie, se mostra incabível a pretendida substituição, vez que tal não se mostra socialmente recomendável. Demais, o disposto no artigo 44, § 3º, do Código Penal, traduz-se por faculdade do aplicador da pena, e não em direito absoluto do acusado.
+Para a substituição da sanção privativa de liberdade por restritiva de direitos, é necessário que estejam preenchidos, cumulativamente, os requisitos objetivos e subjetivos exigidos para a concessão dessa benesse, os quais se encontram previstos no art. 44 do Código Penal:
+Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo;
+II - o réu não for reincidente em crime doloso;
+III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+ ..
+§ 3º Se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime. (Incluído pela Lei nº 9.714, de 1998) (grifei).
+Na espécie, apesar da quantidade da pena imposta e da favorabilidade das circunstâncias previstas no art. 59 do Código Penal, a instância antecedente apontou elementos concretos dos autos, que, à luz do art. 44, III, § 3º, do CP, evidenciam a insuficiência da substituição da pena privativa de liberdade por restritiva de direitos, para prevenção e repressão do delito perpetrado.
+A Corte de origem consignou que o réu ostenta anotação criminal pela prática do crime de informante colaborador para o tráfico de drogas e, "agora se vê envolvido na receptação de bem de alto valor econômico, delito que fomenta a prática de outros  crimes  gravíssimos". Por isso, afirmou ser "incabível a pretendida substituição, vez que tal não se mostra socialmente recomendável" (fl. 39, destaquei).
+Nesse contexto, não verifico ilegal constrangimento ao direito de locomoção do paciente, pois o Tribunal a quo, de forma idônea, evidenciou que a substituição pleiteada não é socialmente recomendável. No mais, o debate sobre o acerto do acórdão demanda revolvimento de prova, o que é incompatível com o habeas corpus.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
