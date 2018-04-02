@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido de liminar, impetrado em favor de [NOME] contra acórdão do Tribunal Regional Federal da 3ª Região (HC n. 0003596-74.2017.4.03.0000).
+O paciente foi preso em flagrante em 7.8.2017 por ter supostamente praticado delito tipificado no art. 316 do Código Penal (concussão). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus originário, cuja ordem foi denegada em acórdão assim ementado:
+HABEAS CORPUS. PRISÃO PREVENTIVA MANTIDA. CONCUSSÃO. POLICIAL RODOVIÁRIO FEDERAL PRESO EM FLAGRANTE. ORDEM DENEGADA.
+1 - Segundo o Auto de Prisão em Flagrante, o paciente e outro foram presos em flagrante por terem sido surpreendidos logo após terem solicitado à determinada vítima a quantia de R$ 400,00 para não ser autuado, uma vez que estava com sua CNH suspensa. A vítima, por sua vez, imediatamente procurou a Corregedoria da Polícia Rodoviária Federal, munida de um vídeo onde mostrava o dinheiro que havia retirado do banco para o pagamento da vantagem indevida pedida pelos policiais. As notas foram encontradas num cômodo em que ficam os armários dos policiais, após dois dos Corregedores avistarem o paciente jogando alguma coisa entre esses armários e a parede.
+2 - A decisão impugnada não padece de ilegalidade flagrante, uma vez que baseada nos requisitos previstos nos artigos 312 e 313, I, do Código de Processo Penal, a afastar o cabimento de qualquer das medidas descritas em seu art. 319.
+3 - No caso vertente, a materialidade delitiva e os indícios de autoria foram demonstrados pelo Auto de Prisão em Flagrante, Auto de Apresentação e Apreensão contendo as cédulas apreendidas e o CD/DVD extraído do celular da vítima, Auto de Reconhecimento Positivo feito pela vítima, reconhecendo o paciente com "segurança e presteza" e o Termo de Declarações juntados aos autos.
+4 - A necessidade da segregação cautelar vem bem demonstrada pelos relatos dos Corregedores responsáveis pelo flagrante, informando a tentativa do paciente se desvencilhar das provas.
+5 - Além disso, consta que no veículo do paciente foi encontrada uma CNH vencida de terceira pessoa, e, no colete de seu companheiro, preso na mesma ocasião, também foram encontradas outras duas CNH"s válidas.
+6 - Assim, nos termos da decisão combatida, a prisão do paciente, por ora, se justifica, para conveniência da instrução criminal, visto a tentativa de dificultar a colheita de provas, além da garantia da ordem pública, já que, diante do cenário narrado pela vítima, o fato de ter sido encontrada outra CNH vencida em poder do paciente, sugere o mesmo modus operandis ilícito.
+7 - Vale ressaltar, por fim, que as alegadas condições subjetivas favoráveis da paciente não são garantidoras de eventual direito à liberdade, se a manutenção da custódia é medida recomendada por outros elementos dos autos (RHC 9.888, rel. Min. Gilson Dipp, DJU 23.10.00; HC 40.561/MG, Rel. Min. Felix Fischer, DJ 20.06.05, pág. 314), mormente porque foi justamente por meio da atividade lícita desempenhada, que se desenvolveu, em tese, a conduta criminosa investigada (fls. 11/12).
+No presente writ, o impetrante ressalta as circunstâncias pessoais favoráveis do paciente e sustenta ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal de modo que a imposição da custódia cautelar não estaria suficientemente justificada, lastreada na gravidade abstrata do delito.
+Assevera, ainda, a suficiência das medidas cautelares alternativas do art. 319 do CPP no caso em espécie.
+Requer, em liminar e no mérito, a expedição de alvará de soltura, com a imposição de medidas cautelares alternativas à prisão.
+O Ministério Público Federal se manifestou pela requisição de informações complementares, conforme parecer de fls. 200/201.
+É o relatório.
+Decido.
+O pedido está prejudicado, pois conforme demonstram as informações obtidas na página eletrônica do Tribunal do origem (0004923-30.2017.4.03.6119), foi proferida sentença, em 1/12/2017 tendo sido expedido alvará de soltura em favor do paciente, ocasionando a perda superveniente do objeto da impetração.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
