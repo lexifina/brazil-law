@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de reclamação, com pedido de concessão de medida liminar, proposta pelo Município de Restinga Sêca/RS, com fundamento no art. 105, I, f, da Constituição Federal.
+Para a perfeita compreensão da controvérsia, transcrevo o seguinte trecho da exordial (fls. 2/5):
+ ..
+Tratou-se na origem de ação indenizatória movida pela Interessada em face do Reclamante alegando que, após participar de licitação na modalidade Pregão Presencial de n.º 005/2014 e sagrar-se vencedora para fornecer o serviço de lavagem dos veículos oficiais do Reclamante, teria experimentado prejuízo requerendo perdas e danos baseada na situação de não fornecimento da quantidade mínima de automóveis dispostos no contrato.
+Em sede de contestação, o Reclamante demonstrou que inexistia direito ao pedido da Interessada, uma vez que: a) o julgamento da licitação se deu por menor preço unitário por item; b) conforme Anexo I do Termo de Referência (fl. 16) o período e os valores eram estimados.
+Referendando a tese defensiva, sobreveio decisão de primeiro grau julgando improcedente a demanda  ..
+Na sequencia, fora distribuído Recurso Inominado pela Interessada, culminando com decisão assim ementada que reformou a sentença de primeiro grau:
+RECURSO INOMINADO. MUNICÍPIO DE RESTINGA SECA.
+LICITAÇÃO E CONTRATO ADMINISTRATIVO. PREGÃO. EXISTÊNCIA DE DESCUMPRIMENTO. DIREITO EVIDENCIADO.
+1. Trata-se de ação indenizatória, em que a parte autora alega que participou do certame de licitação na modalidade pregão, para prestação de serviços de lavagem dos veículos da frota municipal. Alega a parte autora o descumprimento contratual, uma vez que a municipalidade não teria fornecido o número mínimo de veículos para a lavagem no período quinzenal ou mensal.
+2. Com razão a parte autora. A cláusula 3.1 do contrato refere que "O valor contratado para a execução do objeto corresponde a quantidade de lavagens efetuadas mensalmente ou quinzenalmente nos veículos conforme anexo I deste edital".
+Conforme se vê à fl. 16, anexo I, está discriminado o tipo de veículo, a quantidade destes, o valor unitário de cada um, além do valor total correspondente ao valor devido à parte autora.
+3. Incontroverso que a empresa recorrente possui crédito em desfavor do Município. Portanto, em estando comprovada nos autos a regularidade na constituição do crédito, merece ser reformada a sentença e julgado procedente o pedido formulado na inicial.
+4. Nas condenações impostas à Fazenda Pública aplicável o índice de poupança, composto pela TR  juros aplicáveis a caderneta de poupança, desde a data da vigência da Lei nº 11.960/09 até 25.03.2015, quando incidirá IPCA-E. Juros a contar da citação.
+RECURSO INOMINADO PROVIDO. UNÂNIME.
+Todavia, Doutos Ministros, a citada decisão é manchada pela pecha de teratológica e extra petita, pois totalmente dissonante dos documentos e da situação posta nos autos como será comprovado adiante, merecendo ser tachada de inservível para o fim que se propôs.
+ ..
+Nessa linha de raciocínio, a parte reclamante afirma que o "Superior Tribunal de Justiça já firmou entendimento acerca do cabimento da utilização da Reclamação em casos de teratologia ou manifesta ilegalidade do acórdão vergastado" (fl. 4). Sustenta que o acórdão reclamado é "basead o  em conclusões alienígenas aos pedidos declinados na inicial, da contestação e da sentença" (fl. 6) e, portanto, violou o art. 492 do CPC/15. Requer, liminarmente, a suspensão do processo originário e, no mérito, seja julgada procedente a reclamação, cassando-se o acórdão reclamado.
+É o relatório. Passo a decidir.
+A presente reclamação é manifestamente incabível.
+Com efeito, a reclamação de que trata a letra f do permissivo constitucional não pode ser usada como sucedâneo recursal, constituindo-se em via adequada para preservar a autoridade de decisão tomada em caso concreto, envolvendo as partes postas no litígio do qual oriunda a reclamação, o que não é o caso dos autos. Confiram-se, nessa linha, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM RECLAMAÇÃO. PRESERVAÇÃO DA JURISPRUDÊNCIA DESTA CORTE. SUCEDÂNEO RECURSAL. NÃO CABIMENTO.
+1. A reclamação prevista nos arts. 105, I, "f", da Constituição da República, 988 do Código de Processo Civil e 187 do RISTJ destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o reclamante tenha figurado como parte, não servindo para preservação da jurisprudência desta Corte ou como sucedâneo recursal. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl na Rcl 34.574/DF, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/02/2018, DJe 01/03/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. PREVISÃO CONSTITUCIONAL. PRESERVAÇÃO DA COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA E GARANTIA DA AUTORIDADE DE SUAS DECISÕES. CABIMENTO EM CASO EM QUE O RECLAMANTE TENHA FIGURADO COMO PARTE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Reclamação prevista no art. 105, I, f, da Constituição da República, bem como nos arts. 13, da Lei n. 8.038/1990, e 187 do RISTJ, constitui ação constitucional destinada a garantir a autoridade das decisões do Superior Tribunal de Justiça ou à preservação de sua competência.
+III - O cabimento da ação é possível somente em face de decisões de autoridades administrativas e judiciais, destinando-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt na Rcl 27.018/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 24/05/2017, DJe 30/05/2017)
+PROCESSUAL CIVIL. RECLAMAÇÃO CONSTITUCIONAL. DIVERGÊNCIA DA DECISÃO RECLAMADA COM PRECEDENTES DO STJ. INSTRUMENTO UTILIZADO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. O reclamante pretende, com a presente medida, reformar a decisão proferida pelo Tribunal Regional da 3ª Região, que concluiu pela inexistência de poder de polícia a ele atribuído. Para tanto, aponta divergência entre o decisum reclamado e a jurisprudência do STJ quanto à natureza jurídica do Conselho Regional dos Despachantes Documentalistas do Estado de São Paulo - CRDD/SP. Cita como descumpridos os precedentes firmados no CC 125.837/SP e no CC 116.024/MG.
+2. Não se pode conhecer do pedido, pois a Reclamação prevista no art. 105, I, "f", da Constituição Federal, dirigida ao STJ, não pode ser utilizada como sucedâneo recursal ou como meio de dirimir divergência jurisprudencial. Trata-se de instrumento processual destinado, exclusivamente, à preservação da competência do Tribunal e à garantia de decisão proferida em determinado caso concreto (RCDESP na Rcl 8.978/SP, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 31.5.2013; AgRg na Rcl 6.378/RS, Rel. Ministra Eliana Calmon, Primeira Seção, DJe 11.6.2013; Rcl 7.124/DF, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 30.10.2012).
+3. As decisões indicadas como descumpridas não foram proferidas no curso da relação processual formada no processo originário, no qual adveio o decisum reclamado. O fato de as decisões paradigmáticas terem sido prolatadas em julgamentos que dizem respeito à parte reclamante é insuficiente para autorizar o uso do instrumento previsto no art. 105, I, "f", da Constituição Federal.
+4. Agravo Regimental não provido.
+(AgRg na Rcl 14.786/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 13/11/2013, DJe 05/12/2013)
+Ante o exposto, não conheço da reclamação, restando prejudicado o pedido de concessão de medida limianr.
+Publique-se.
