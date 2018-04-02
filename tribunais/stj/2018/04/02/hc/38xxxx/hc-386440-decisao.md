@@ -1,0 +1,20 @@
+DECISÃO
+JONATHAS RODRIGUES DO PRADO DOS SANTOS, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n. 0048255-14.2015.8.26.0050.
+Consta dos autos que o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006, porque trazia consigo e guardava, para fins de entrega a consumo de terceiros, 133,8 g de maconha, 263,9 g de cocaína e 63,3 g de crack.
+Busca-se, por meio deste writ, seja fixado o regime inicial aberto e seja determinada a substituição da reprimenda privativa de liberdade por restritiva de direitos.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+O Juiz sentenciante assim fundamentou a fixação do regime inicial fechado de cumprimento de pena, in verbis (fls. 13-14):
+A pena deverá ser cumprida inicialmente em regime fechado.
+Com efeito, consoante regra do art. 2º, § 1º, da Lei 8072/90, com a redação que lhe foi atribuída pela Lei 11.464/07, que afastou o vício de inconstitucionalidade que maculava o texto original da lei. E outro não pode o regime, que não o inicial fechado.
+ ..
+E, neste tocante, devem ser consideradas as inegáveis consequências nefastas do crime, que desmantela famílias inteiras, a começar pela do próprio acusado.
+A Corte estadual, por sua vez, manteve a imposição do modo inicialmente mais gravoso, nos termos a seguir aduzidos (fl. 19):
+Com efeito, o recorrente trazia consigo, para fins de tráfico, diversas porções de maconha, cocaína e crack, de sorte que a gravidade concreta do delito, equiparado ao hediondo e que vem causando grande intranquilidade à população ordeira, revela-se totalmente incompatível com regimes mais brandos.
+Não se pode olvidar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Assim, uma vez que o paciente tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base fixada no mínimo legal, foi condenado a reprimenda inferior a 4 anos de reclusão, foi agraciado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 - a qual visa, justamente, a beneficiar o "traficante ocasional" -, entendo que o regime inicial fechado se mostra, de fato, excessivamente gravoso.
+No entanto, uma vez que ele foi apreendido com três tipos de drogas e com quantidade considerável de substâncias - 133,8 g de maconha, 263,9 g de cocaína e 63,3 g de crack -, considero que o regime inicial semiaberto é, efetivamente, o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado, à luz do disposto no art. 33, § 3º, do Código Penal e do enunciado no art. 42 da Lei n. 11.343/2006.
+Por essa mesma razão (quantidade e diversidade de drogas), entendo que a substituição da pena por restritiva de direitos não se mostra, no caso, medida socialmente recomendável, nos termos do inciso III do art. 44 do Código Penal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo em parte a ordem, somente para fixar ao paciente o regime inicial semiaberto de cumprimento de pena, nos autos autos da condenação objeto do Processo n. 0048255-14.2015.8.26.0050.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
