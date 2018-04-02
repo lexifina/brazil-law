@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por ITAUTEC S.A. - GRUPO ITAUTEC, em 20/02/2018, a decisão de minha lavra, que com fundamento no art. 255, § 4º, I, do RISTJ, não conheceu do Recurso Especial, interposto pela SABESP, parte ora embargada.
+Sustenta a parte embargante a existência de erro material, eis que, "conforme se depreende do v. acórdão do Eg. TJSP proferido após a oposição de embargos de declaração por ambas as partes (sendo acolhidos os embargos do Autor-Agravado e rejeitados os embargos da Ré-Agravante), os honorários advocatícios foram fixados sobre o valor da condenação -- e não da causa" (fl. 1.517e).
+Intimada (fl. 1.536e), a parte embargada deixou transcorrer in albis o prazo para Impugnação.
+Os Embargos de Declaração merecem prosperar.
+Com efeito, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Na hipótese, constata-se a ocorrência de erro material. Isso porque o acórdão recorrido, ao reformar a sentença, arbitrou, às fls. 1.383/1.384e, a verba honorária em 10% (dez por cento) sobre o valor global da condenação - e não sobre o valor da causa.
+Assim, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), devem ser majorados honorários advocatícios devidos pela SABESP, em favor da ITAUTEC S.A. - GRUPO ITAUTEC , anteriormente fixados em 10% (dez por cento) sobre o valor da condenação, para 11% (onze por cento) sobre o valor da condenação, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Fica, assim, sanado o referido erro material.
+Ante o exposto, acolho os Embargos de Declaração, apenas para sanar o erro material indicado.
+I.
