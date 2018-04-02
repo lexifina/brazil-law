@@ -1,0 +1,8 @@
+Despacho:
+    1.  Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, proposta pelo Procurador-Geral da República, em face da Emenda Constitucional nº 96, de 06.06.2017, segundo a qual práticas desportivas que utilizem animais não são consideradas cruéis, nas condições que especifica; da expressão “Vaquejada”, nos artigos 1º , 2º e 3º da Lei nº 13.364, de 29.11.2016, que eleva a prática de vaquejada à condição de patrimônio cultural imaterial brasileiro; e da expressão “as vaquejadas”, no art. 1º, parágrafo único, da Lei nº 10.220, de 11.04.2001, que institui normas gerais relativas à atividade de peão de rodeio e o equipara a atleta profissional.
+    2.  A matéria submetida à apreciação desta Corte é de inequívoca relevância, bem como possui especial significado para a ordem social e a segurança jurídica. Existe substancial controvérsia acerca do tema, de modo que se demonstra necessário o exame definitivo da questão por parte deste Supremo Tribunal.
+    3.  Em face da presença dos requisitos legais, aplico o rito abreviado do art. 12 da Lei nº 9.868/1999, de modo a permitir a célere e definitiva resolução da questão. Assim, determino as seguintes providências: solicitem-se informações à Presidência da República e à Presidência do Congresso Nacional, no prazo de dez dias; em seguida, encaminhem-se os autos ao Advogado-Geral da União para manifestação, no prazo de cinco dias; e, sucessivamente, colha-se o parecer do Procurador-Geral da República, também no prazo de cinco dias.
+    Publique-se. Intimem-se.
+    Brasília, de 02 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
