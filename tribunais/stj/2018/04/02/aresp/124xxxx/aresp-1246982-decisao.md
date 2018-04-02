@@ -1,0 +1,56 @@
+DECISÃO
+1. Cuida-se de agravo interposto por MARIO HISASHI SATO e OUTRA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS INICIAIS.
+I - BENEFÍCIOS DA ASSISTÊNCIA JUDICIÁRIA GRATUITA PLEITEADO PELA AUTORA. CONCESSÃO EM SEGUNDO GRAU. POSSIBILIDADE.
+II - RESPONSABILIDADE CIVIL NÃO RECONHECIDA. ROMPIMENTO DE DUTO DE ÁGUA EM FRENTE À RESIDÊNCIA DOS AUTORES. AUSÊNCIA DE NEXO CAUSAL ENTRE OS DANOS VERIFICADOS NO IMÓVEL DOS AUTORES E A CAUSA REPORTADA NA INICIAL. DECISÃO FUNDAMENTADA EM CONFORMIDADE COM AS PROVAS CONSTANTES NOS AUTOS. SENTENÇA MANTIDA.
+RECURSO DE APELAÇÃO CÍVEL CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 479, 480, § 3º, do CPC de 2015; 14 do CDC; 186 e 927, do CC.
+Alegam, em síntese, haver nexo de causalidade entre os danos sofridos no seu imóvel e o rompimento de duto de água, devendo ser reconhecido o dever de indenizar.
+Defendem que a segunda perícia não invalida a primeira, não podendo esta ser declarada nula. E continua:
+Desta forma, conclui-se que em que pese o laudo de fls. 266/325 concluir que não há nexo de causalidade entre as patologias apresentadas no imóvel e o vazamento na rede da Recorrida, outras provas produzidas nos autos levaram à conclusão de que existe sim nexo de causalidade entre os danos apresentados no imóvel e o vazamento de água, de responsabilidade da Recorrida.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal a quo trouxe extensa consideração fática no acórdão recorrido, cuja síntese está descrita no seguinte trecho:
+II - Da responsabilidade da Requerida:
+Os apelantes pretendem seja reconhecida a responsabilidade da Ré pelos danos ocorridos em imóvel de sua propriedade. Fundamentam seu pedido no primeiro laudo pericial realizado na instrução processual e em relatório técnico trazido com a inicial.
+Compulsando o presente caderno processual, observo que o feito foi saneado às fls. 124/129, oportunidade na qual foram afastadas as questões preliminares apresentadas pela Requerida, fixados os pontos controvertidos e nomeado profissional para realização do laudo pericial.
+Após a formulação de quesitos pelas partes (fls. 131/132 e 133/135), foi apresentado o primeiro laudo constante nos autos (fls. 145/159).
+As partes foram instadas a se manifestar, tendo os Apelantes, às fls. 169/174, concordado com trabalho do perito, e a Apelada, às fls. 176/180, apresentado quesitos complementares a serem esclarecidos.
+O expert se pronunciou às fls. 185/192 e as partes novamente apresentaram manifestações (fls. 201/203 e 204/209).
+Na decisão de fls. 228/230-v, o Magistrado a quo acolheu manifestação da Requerida e determinou a realização de nova perícia, sob o fundamento de que "o Laudo apresentado aos autos (f. 145-159) e os esclarecimentos prestados pelo perito (f. 185-192), em muitas ocasiões oferece dificuldades intelectivas e de conteúdo questionável (..)" (fl. 229).
+ .. .
+Nomeado novo profissional, o segundo laudo foi apresentado às fls. 266/325.
+Após minuciosa descrição dos danos verificados no imóvel e de suas possíveis origens, o expert concluiu (fl. 301):
+V11.2.- O imóvel fora construído sobre aterro em terreno com declividade natural para os fundos, sendo observado que sistema de coleta e destinação de águas pluviais interna encontra-se obstruído, provocando o retorno de águas pluviais ao piso dos fundos, além de apresentar fissuras diversas no piso, permitido infiltração no aterro, e, consequente, desestabilização do mesmo.
+V11.3.- Foram observadas patologias no imóvel não apresentada nos autos, além de patologias já existentes, que apresentaram evolução, indicando a continuidade da movimentação do solo e da edificação, embora não exista mais vazamento na rede da SANEPAR.
+VII.4.- Complementarmente, caso as patologias tivessem nexo de causalidade com o vazamento, a fissura mais próxima do ponto de vazamento, apresentaria configuração contrária à apresentada no local.
+O MM. Juiz a quo encampou as conclusões verificadas pelo segundo perito que atuou no feito e julgou improcedentes os pedidos iniciais, porquanto não identificou a existência de nexo de causalidade entre os danos ocorridos no imóvel de propriedade dos Autores e a causa imputada à Ré.
+Nos moldes da sentença, entendo que os fundamentos expostos pelo juiz singular permanecem hígidos, não possuindo razão o Apelo dos Requerentes.
+De fato, nos termos do art. 436 do CPC/1973, aplicável à espécie (art. 1.047 do CPC/2015), "O juiz não está adstrito ao laudo pericial, podendo formar a sua convicção com outros elementos ou fatos provados nos autos".
+O art. 371 do Novo Código de Processo Civil, por sua vez, determina que "O juiz apreciará a prova constante dos autos, independentemente do sujeito que a tiver promovido, e indicará na decisão as razões da formação de seu convencimento".
+O legislador cuidou de extrair o vocábulo "livremente", que constava no artigo correspondente da legislação revogada (art. 131 do CPC/73). A supressão da expressão visa prevenir julgamentos carentes de fundamentação, porquanto é garantia constitucional a devida fundamentação de todas as decisões judiciais, consta no art. 93, IX, da Constituição Federal.
+Portanto, é possível concluir que o Magistrado pode ou não encampar a conclusão do laudo pericial, desde que o faça de forma fundamentada, eis que a convicção judicial, para ser válida, deve estar expressa na fundamentação da decisão.
+No caso em epígrafe, é clara a prevalência da segunda perícia realizada nos autos, porquanto esclarece de forma pormenorizada a origem das patologias existentes no imóvel de propriedade dos Recorrentes, tanto daquelas reportadas na inicial, como aquelas que advieram no transcurso do processo.
+Os esclarecimentos lançados no laudo de fls. 266/325 refutam de forma irretorquível as conclusões do relatório técnico que acompanha a inicial e da primeira perícia realizada nos autos.
+O primeiro laudo, inobstante tenha sido produzido por profissional nomeado pelo juízo, é deficitário em pontos relevantes, como na descrição da metodologia aplicada, das possíveis causas das patologias verificadas no imóvel, dos instrumentos utilizados na pesquisa e dos critérios de investigação. Isso tudo sem desconsiderar a necessidade de se aplicar detido esforço interpretativo para a compreensão das informações lançadas pelo profissional.
+Em contraponto, extraio do parecer técnico que fundamentou a sentença as seguintes informações (fls. 296/298):
+A ocorrência de recalques decorre de alterações na estrutura do solo, seja por carregamento do mesmo ou por presença de água.
+Assim, de modo a precisar a origem de tais patologias, destaca-se que:
+1. -O imóvel fora construído sobre aterro em terreno com declividade natural para os fundos;
+II. - O sistema de coleta e destinação de águas pluviais internas encontra-se entupido;
+Ill. - No piso de concreto aos fundos do terreno existem diversas aberturas que permitem a infiltração de água de chuva, o que permite a desestabilização do aterro;
+IV. - Fora observada a ocorrência de vazamento nas tubulações da cozinha e pela caixa de passagem sob o banheiro;
+V. - Foram observadas patologias no imóvel não apresentadas nos autos, o que indica a evolução e a continuidade de movimentação do solo e da edificação;
+Assim, a forma de manifestação das patologias e as situações indicadas anteriormente indicam que há continuidade na evolução das deformações, o que indica a inexistência de nexo de causalidade entre as patologias e o vazamento na rede da Sanepar.
+Como reforço, verifico que os Apelantes não apontam os elementos pelos quais deveria ser conferido à primeira perícia o mesmo valor probatório da segunda, limitando-se a transcrever trechos do confuso parecer técnico lançado às fls. 145/159 e dos esclarecimentos prestados às fls. 185/192 Nesta linha, ponderado o valor probatório das provas realizadas nos autos, não há que se alterar a decisão monocrática, porquanto não ficou demonstrada a existência de nexo de causa entre o rompimento de cano embaixo de "cavalete" de água em frente à residência dos Autores, como descrito na inicial, e os danos verificados no imóvel.
+Mesmo que se trate de responsabilidade objetiva do prestador de serviços, não é o caso de alteração da sentença em razão da inexistência da relação causa - efeito que fundamenta o pedido dos Autores.
+Nesse contexto, o acolhimento da pretensão da parte recorrente demandaria o revolvimento do conjunto fático-probatório dos autos, com o fito de averiguar se houve, ou não, nexo causal entre os danos sofridos no seu imóvel e o rompimento de duto de água, bem como para verificar a necessidade de se levar em consideração questões contidas na primeira perícia. Assim, afigura-se inafastável a incidência da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. ACÓRDÃO QUE CONCLUIU PELA EXISTÊNCIA DE PROVA DOS SEUS REQUISITOS. REVISÃO DA CONCLUSÃO ADOTADA NA ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, o Tribunal de origem, ao decidir a vexata quaestio, consignou (fls. 206-209/e-STJ): "(..) A despeito da evidente contradição entre as conclusões periciais, é caso de ser reconhecido o prejuízo físico residual do segurado quanto à seqüela no 3º dedo da mão direita. Tanto a doutrina como a jurisprudência reconhecem que o magistrado não está adstrito ao laudo, podendo firmar o seu convencimento com outros elementos objetivos existentes nos autos. (..) Conforme apontado no laudo, o expert afirmou que há seqüela no dedo médio da mão direita, que restringe o uso do mencionado quirodáctilo, de modo que é imperioso reconhecer o prejuízo funcional, ainda que mínimo. (..) O nexo causal também restou comprovado ante a emissão de CAT e a concessão administrativa de benefício de natureza acidentária. Assim, cumpridos os requisitos da lei infortunística, a reparação pela redução parcial e permanente da capacidade funcional 6 de rigor" (..)
+2. Extrai-se do acórdão vergastado que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente das conclusões de laudo pericial analisadas com esmero pela Corte de origem, o que não se admite ante o óbice da Súmula 7/STJ.
+3 Recurso Especial não conhecido.
+(REsp 1688515/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+3. Por fim, importante frisar que " .. , levando-se em conta que a primeira perícia foi realizada e está juntada aos autos, e que a segunda perícia encontra-se em fase conclusiva, a produção dessa prova, nesse estágio, não causará prejuízo. Ademais, caberá ao julgador, como destinatário da prova, avaliar na sentença, ou ao Tribunal, em eventual apelação, de maneira fundamentada, qual das duas perícias adotar (ou até mesmo as duas)". (REsp 1352591/AL, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/08/2013, DJe 25/10/2013).
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
