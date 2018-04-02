@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Agravo, interposto por USINA SÃO MARTINHO S/A, em 23/05/2013, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AÇÃO CIVIL PÚBLICA. Alegação de que a sentença é nula, que os autos deveriam estar suspensos, ofensa a princípios constitucionais e legais, necessidade de prévia indenização, direito de escolha e pedido de redução da multa. PARCIAL POSSIBILIDADE. Ausência de nulidade da sentença, que apreciou os pontos fundamentais ao julgamento da lide. Questão prejudicial que já foi objeto de discussão em Agravo de Instrumento, sendo incabível rediscuti-la. Ausentes as inconstitucionalidades alegadas. Desnecessária regulamentação da lei diante de preceitos auto-aplicáveis. Incabível indenização. Obrigação propter rem. Reduzido o valor da multa. DADO PARCIAL PROVIMENTO AO APELO" (fl. 2453e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa aos artigos 2º da Lei 7.803/89 e 99, §2º, da Lei 8.171/91, sob a tese de que tais dispositivos não são auto aplicáveis, tendo em vista que não houve regulamentação por parte do Poder Executivo.
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Em contrarrazões, a parte ora agravada assevera que deve ser negado seguimento ao Recurso Especial.
+Negado seguimento ao Recurso Especial (fls. 2497/2498e), foi interposto o presente Agravo (fls. 2503/2511e).
+Em contraminuta, a parte agravada afirma que deve ser negado provimento ao Agravo.
+O Ministério Público Federal, por meio do parecer de fls. 2545/2548e, opina pelo não provimento do Agravo.
+A irresignação não merece acolhimento.
+Inicialmente, cabe destacar que o Tribunal de origem não se manifestou acerca do teor do artigo 99, §2º, da Lei 8.171/91. Ressalte-se que a parte recorrente sequer opôs os Embargos Declaratórios cabíveis, para que o Tribunal de origem se pronunciasse sobre o teor da respectiva tese. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o recurso especial, incidindo o teor da Súmula 282 do STF ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Acerca da controvérsia, manifestou-se o Tribunal de origem:
+"Melhor sorte não merece a alegação de que falta lei regulamentar. Consoante o disposto no artigo 49 do Código Florestal, o Poder Executivo regulamentará a lei somente naquilo que for julgado necessário à sua execução. Ora, a questão da instituição da reserva legal e sua averbação é visivelmente auto-aplicável, dispensando regulamentação por ser desnecessária a espécie, de acordo com o disposto no próprio Código Florestal" (fl. 2455e).
+Desse modo, a modificação das conclusões do acórdão recorrido no sentido de que as normas que disciplinam a instituição da reserva legal e sua averbação não demandam regulamentação, sendo plenamente auto-aplicáveis, implicaria necessariamente o revolvimento do conjunto fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, pelo óbice enunciado na Súmula 7/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
