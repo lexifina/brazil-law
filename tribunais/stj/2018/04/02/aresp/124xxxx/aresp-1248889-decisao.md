@@ -1,0 +1,53 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PLASTCENTER INDÚSTRIA E COMÉRCIO LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim ementado:
+* EXCEÇÃO DE PRÉ-EXECUTIVIDADE - Prescrição - Execução de título extrajudicial - Ausência de negligência do exequente na condução da ação Inocorrência de prescrição intercorrente, na medida em que o exequente promoveu os atos necessários para o regular andamento do feito - Desconsideração inversa da personalidade jurídica, com inclusão da agravante no polo passivo da demanda Neste momento do processo, ainda não ocorreram diligências suficientes e o contraditório para a decretação da desconsideração inversa da personalidade jurídica Artigo 50 do CC Fica suspensa a execução até o deslinde da desconsideração da personalidade jurídica - Decisão reformada em parte - Recurso parcialmente provido*
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 240 do Código de Processo Civil e 206, § 5º, I, do Código Civil.
+Alega ter se configurado prescrição intercorrente nos autos, pois passados cinco anos desde que ajuizada a ação sem que tivesse ocorrido citação, por desídia da parte recorrida.
+Defende ter ocorrido desinteresse do processo pelo Banco Exequente, ao longo três anos desde a distribuição do processo, que ficou paralisado por meses subsequentes sem qualquer impulsionamento.
+Contrarrazões ao recurso especial às fls. 760-781.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+O tribunal de origem assim se manifestou acerca da alegada prescrição:
+Porém, não é toda inércia processual que implicará na declaração da prescrição. Assim, se o titular do direito não deu causa à paralisação do processo, não há que se falar em prescrição intercorrente (RSTJ 63/196; RT 724/272; JTA 163/229).
+"Flui o prazo prescricional se o credor não atender às diligências necessárias ao andamento do feito, uma vez intimado a realizá-las" (STJ 4ª Turma REsp. 327.329-RJ, rel. min. Sávio de Figueiredo, j. 14.8.01, DJU 24.09.01, p. 316) (destaque nosso).
+Cabe esclarecer que somente há a consumação da prescrição intercorrente se ficar evidenciada a inércia do exequente, o que, não se verifica nos autos. Vale destacar que não há qualquer prova do desinteresse pela causa, ou renúncia ao crédito.
+(..)
+Há entendimento jurisprudencial no sentido de que a interrupção do prazo prescricional ocorre com a simples propositura da ação, desde que a petição inicial não seja inepta, ou não ocorra demora na citação por fato atribuível ao autor da ação.
+(..)
+propositura da ação, desde que a petição inicial não seja inepta, ou não ocorra demora na citação por fato atribuível ao autor da ação. (fls. 711-715 e-STJ)
+
+Portanto, após análise dos elementos fático-probatórios dos autos, aquela Corte concluiu que a demora na citação não ocorreu por desídia do autor, não acarretando a prescrição dos títulos exequendos. Alterar o entendimento do acórdão recorrido não é possível, em sede de recurso especial, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS. OCORRÊNCIA DE PRESCRIÇÃO. DESÍDIA DA PARTE AUTORA.REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Tendo as instâncias de origem reconhecido a desídia da autora em promover a citação, forçoso reconhecer a não interrupção da prescrição, nos termos do art. 219 do CPC. Não incidência da Súmula n. 106/STJ. Precedentes.
+2. O reconhecimento de que a demora na citação não teria ocorrido por desídia da parte autora, conforme afirma a parte agravante, demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n. 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 892.251/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe 22/02/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.1. VIOLAÇÃO AO ART. 535 DO CPC/1973. ANÁLISE DAS CIRCUNSTÂNCIAS QUE AMPARARAM A PRETENSÃO DA PARTE. CONCLUSÃO EM SENTIDO CONTRÁRIO.OMISSÃO INEXISTENTE. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. 3. PRESCRIÇÃO INTERCORRENTE E ABANDONO DA CAUSA. NÃO OCORRÊNCIA. AUSÊNCIA DE DESÍDIA DOS AUTORES. REVISÃO DO JULGADO.REEXAME. SÚMULA N. 7 DO STJ. 4. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. 5. AGRAVO IMPROVIDO.
+1. Não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. A despeito da oposição de embargos de declaração, a matéria veiculada no recurso especial não foi objeto de deliberação no Tribunal de origem sob o enfoque dos arts. 128 e 131 do CPC/1973, indicados como violados, incidindo, na espécie, o óbice da Súmula 211 desta Corte.
+3. A alteração do entendimento adotado pela Corte de origem, que concluiu pela não constatação, no caso, da prescrição intercorrente pretendida, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior.
+4. A divergência jurisprudencial não foi demonstrada, diante da falta do devido cotejo analítico e, principalmente, pela carência de comprovação da similitude fática entre os julgados confrontados, de maneira que é inviável o inconformismo apontado pela alínea c do permissivo constitucional.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 961.796/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/02/2017, DJe 24/02/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TÍTULO DE CRÉDITO. CHEQUE. AÇÃO MONITÓRIA. CITAÇÃO REALIZADA APÓS O TRANSCURSO DOS PRAZOS DOS §§ 2º E 3º DO ART. 219 DO CPC/1973. INÉRCIA DA PARTE EXEQUENTE. NÃO INTERRUPÇÃO DA PRESCRIÇÃO. REVISÃO DO ACÓRDÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 219, § 4º, do CPC/1973, "não se efetuando a citação nos prazos mencionados nos parágrafos antecedentes, haver-se-á por não interrompida a prescrição", a qual somente se interrompe, com efeitos retroativos à data da propositura da ação, quando verificada que sua demora se deu por motivos inerentes ao mecanismo da Justiça, nos termos da Súmula 106/STJ.
+2. O Tribunal de origem concluiu que, por inércia da parte exequente, os executados não foram citados nos prazos do art. 219, §§ 2º e 3º, do CPC/1973, de modo que a prescrição não foi interrompida.
+3. A alteração do entendimento firmado, no sentido de reconhecer que a demora na citação decorreu de ato estranho aos exequentes, demandaria o revolvimento do suporte fático-probatório dos autos, o que é vedado pela Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 858.142/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/09/2016, DJe 30/09/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE COMPRA E VENDA DE IMÓVEL. TÍTULO EXECUTIVO. REQUISITOS. ANÁLISE QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Tendo a instância ordinária, soberana na análise das provas, concluído estar configurada a liquidez do título executado e a exigibilidade da obrigação, bem como que o agravante se obrigou por fato de terceiro, a revisão de tais conclusões demandaria o reexame do conjunto fático-probatório dos autos e nova análise do contrato, medida inadmissível nesta instância extraordinária, nos termos da Súmulas n. 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1059953/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 03/08/2017)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. PRESCRIÇÃO. ART. 174, PARÁGRAFO ÚNICO, INCISO I DO CTN (REDAÇÃO ANTERIOR À LC 118/2005). INTERRUPÇÃO DO PRAZO PRESCRICIONAL. RESPONSABILIDADE PELA DEMORA NÃO ATRIBUÍDA À EXEQUENTE. REVISÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INCIDÊNCIA DA SÚMULA 7/STJ. RECURSOS REPRESENTATIVOS DE CONTROVÉRSIA: RESP 1.120.295/SP E 1.102.431/SP, AMBOS DA RELATORIA DO MINISTRO LUIZ FUX, DJE 21.5.2010 E 1.2.2010, RESPECTIVAMENTE.VALIDADE DA CDA. PRESENÇA DOS REQUISITOS LEGAIS ATESTADA PELO TRIBUNAL DE ORIGEM. HIGIDEZ DO TÍTULO. VERIFICAÇÃO. MODIFICAÇÃO DO JULGADO QUE REQUER O REEXAME DE PROVAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DO CONTRIBUINTE DESPROVIDO.
+1. A 1a. Seção do STJ, em julgamento de recurso submetido à sistemática do art. 543-C do CPC, firmou o entendimento de que, mesmo nas Execuções Fiscais, a citação retroage à data da propositura da ação para efeitos de interrupção da prescrição, na forma do art. 219, § 1o. do CPC, desde que não tenha havido inércia do exequente (REsp. 1.120.295/SP, Rel. Min. LUIZ FUX, DJe 21.5.2010).
+2. Ademais, também sob o rito do art. 543-C do CPC, no julgamento do REsp 1.102.431/SP, da relatoria do eminente Ministro LUIZ FUX, DJe 1.2.2010, firmou-se a orientação nesta Corte de que rever a conclusão pela aplicação ou não da Súmula 106/STJ aos casos concretos é tarefa vedada nesta instância recursal, em razão do óbice da Súmula 7/STJ.
+3. Se a instância de origem registra expressamente que a demora na citação não se deu por culpa da exequente, que envidou todos os esforços para realizar a citação dos réus, aplica-se a tese de incidência da Súmula 106 do STJ, na medida em que, consoante a orientação firmada na Súmula 7 do STJ, a aparente divergência a respeito de questão factual da causa não poderia ser dirimida no âmbito do Apelo Nobre.
+4. É assente na jurisprudência desta Corte que a aferição da certeza e liquidez da CDA, bem como da presença ou não dos requisitos essenciais à sua validade implica reexame do conjunto fático-probatório dos autos, o que é vedado, nesta instância especial, em face do óbice constante da Súmula 7/STJ. Precedentes: AgRg no REsp. 1.434.773/PR, Rel. Min. HUMBERTO MARTINS, DJe 25.8.2015; AgRg no AREsp. 392.057/RS, Rel. Min. SÉRGIO KUKINA, DJe 21.8.2015.
+5. Agravo Regimental do contribuinte a que se nega provimento.
+(AgRg no Ag 1125052/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/11/2016, DJe 06/12/2016)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
