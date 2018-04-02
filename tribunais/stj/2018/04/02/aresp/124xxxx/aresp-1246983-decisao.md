@@ -1,0 +1,43 @@
+DECISÃO
+1. Cuida-se de agravo interposto por REAL AUTO ONIBUS LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DIREITO DO CONSUMIDOR. CONTRATO DE TRANSPORTE. PASSAGEIRO CADEIRANTE, QUE ALEGA TER SOFRIDO QUEDA AO TENTAR INGRESSAR NO COLETIVO, EM DECORRÊNCIA DE ARRANCADA BRUSCA PELO MOTORISTA. SENTENÇA DE PROCEDÊNCIA, QUE CONDENOU A RÉ AO PAGAMENTO DE R$ 5.000,00 (CINCO MIL REAIS) POR DANOS MORAIS. RECURSO EXCLUSIVO DA RÉ. RESPONSABILIDADE CIVIL OBJETIVA. INTELIGÊNCIA DOS ARTS. 14 C/C 22 DO CDC E DO ART. 37, §6º DA CF/88. COMPROVAÇÃO DO EVENTO DANOSO, DO DANO E DO NEXO CAUSAL. LEI 10.098/2000, REGULAMENTADA PELO DECRETO LEI Nº 5.296/2004, QUE ESTABELECE NORMAS E CRITÉRIOS PARA A PROMOÇÃO DA ACESSIBILIDADE NOS COLETIVOS. CONFIGURADO O DEVER DE INDENIZAR, PELO DESRESPEITO AO PORTADOR DE NECESSIDADES ESPECIAIS, SUBMETIDO À SITUAÇÃO VEXATÓRIA. QUANTUM QUE NÃO MERECE REFORMA. SENTENÇA MANTIDA. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 333, inciso I, do CPC de 1973; 186 do CC.
+Alega, em síntese, que em nenhum momento o recorrido fez prova dos fatos alegados, o que exclui o nexo de causalidade e o dever de indenizar.
+Por fim, alega que os danos morais foram fixados de forma exorbitante (R$ 5.000,00 - cinco mil reais), pedidno sua redução.
+É o relatório. DECIDO.
+2. O acórdão, analisando pormenorizadamente a prova dos autos, reconheceu o cabimento de danos morais, assim consignando:
+É evidente a responsabilidade objetiva da ré, que tem como fundamento a Teoria do Risco Administrativo, bastando, assim, a comprovação da ocorrência do evento danoso, do dano e do nexo de causalidade, para que exsurja o dever de indenizar, sendo despicienda a comprovação da culpa.
+A concessionária, por seu turno, somente se exoneraria do dever de indenizar provando uma das causas taxativamente enumeradas em lei e que excluem sua responsabilidade objetiva, quais sejam, força maior, fato exclusivo da vítima ou de terceiro, o que não restou comprovado no caso em exame.
+Depreende-se dos documentos acostados aos autos os elementos necessários para a caracterização da responsabilidade da ré. Há prova documental (registro de ocorrência - indexador 00020/22) e testemunhal no sentido dos fatos tais como narrados na inicial.
+À guisa de ilustração, vejamos o depoimento da testemunha da parte autora (index. 000130/131):
+ .. .
+Assim, verifica-se que o Autor fez prova do seu direito, não logrando a Ré em fazer prova em contrário, a fim de afastar sua responsabilidade. Logo, está caracterizada a responsabilidade da prestadora de serviço e o dever de indenizar.
+É imperioso destacar que o autor é cadeirante e que as empresas atuantes no ramo de transporte público, bem como seus prepostos demonstram total despreparo para lidar com a situação especial imposta aos portadores de necessidades especiais.
+Por muitas vezes, observa-se que os coletivos não são sequer adaptados, ainda que haja previsão legal neste sentido, conforme de depreende do art. 16 da Lei 10.098/2000, in verbis:
+ .. .
+É evidente que a situação narrada nos autos trouxe ao autor danos de ordem moral, tanto pelo fato em si, que foi uma situação de vexame perante terceiros, em local público, quanto pelas consequências físicas degradantes do evento e do descaso da Ré.
+Dessa forma, a indenização deve ser compatível com os danos impostos à vítima, visando, também, punir a Ré pelo seu ato.
+Portanto, o acórdão recorrido reconheceu a ocorrência de dano moral indenizável amparado na análise dos elementos fático-probatórios dos autos. Nesse contexto, verifico que o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE DE PESSOAS. OFENSA AOS ARTS. 535 E 557 DO CPC. NÃO OCORRÊNCIA. QUEDA DE PASSAGEIRA EM ÔNIBUS APÓS FREADA BRUSCA DO VEÍCULO. LESÕES NA COLUNA E NAS COSTELAS. RESPONSABILIDADE COMPROVADA NA ORIGEM. CULPA CONCORRENTE OU DE TERCEIRO AFASTADA. INCIDÊNCIA DA SÚMULA 7 DO STJ. INDENIZAÇÃO POR DANOS MORAIS. RAZOABILIDADE. RECURSO DESPROVIDO.
+1. Embora rejeitados os embargos de declaração pelo Colegiado do Tribunal a quo, a matéria controvertida foi devidamente enfrentada e fundamentada no acórdão recorrido, com enfoque suficiente a autorizar o conhecimento do recurso especial, o que afasta a alegada ofensa ao art. 535 do CPC.
+2. Fica superada eventual violação ao art. 557 do CPC pelo julgamento colegiado do agravo interno interposto contra a decisão singular do Relator. Nesse sentido: AgInt no REsp 1.595.272/SC, Rel.
+Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/06/2016, DJe de 08/06/2016.
+3. Na esteira da jurisprudência firmada nesta Corte, a responsabilidade do transportador em relação aos passageiros é contratual e objetiva, nos termos dos arts. 734, caput, 735 e 738, parágrafo único, do Código Civil de 2002, somente podendo ser elidida por fortuito externo, força maior, fato exclusivo da vítima ou por fato doloso e exclusivo de terceiro - quando este não guardar conexidade com a atividade de transporte.
+4. O Tribunal local, ao apreciar as provas produzidas nos autos, foi categórico em reconhecer os requisitos ensejadores da obrigação de indenizar, notadamente diante do descumprimento do seu dever de garantir a incolumidade do passageiro. Nestas circunstâncias, afigura-se inviável rever o substrato fático-probatório diante do óbice da Súmula 7/STJ.
+5. O valor da indenização por danos morais, arbitrado em R$ 20.000, 00 (vinte mil reais), não é exorbitante nem desproporcional, considerados os danos sofridos pela recorrida, que, conforme mencionado pelas instâncias ordinárias, sofreu fraturas em duas costelas e em três vértebras, além de ter sido submetida a tratamento cirúrgico para drenagem do tórax, decorrentes do agir do preposto da ré, ficando incapacitada para a atividade laboral de faxineira.
+6. Agravo interno improvido.
+(AgInt no AREsp 908.814/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2016, DJe 26/08/2016)
+3. Por fim, no que tange à pretensão recursal de reduzir o valor arbitrado a título de indenização por danos morais, registre-se que o Superior Tribunal de Justiça, afastando a incidência da Súmula n. 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que arbitrada indenização no valor de R$ 5.000,00 (cinco mil reais).
+A quantia fixada não destoa dos parâmetros adotados por esta Corte em casos análogos, que devem ser analisados à luz do caso concreto, e cuja alteração somente é possível, em recurso especial, nas hipóteses em que a quantia estipulada pelo Tribunal de origem revela-se irrisória ou exagerada.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. 1. PROVA DO DANO CAUSADO. QUEDA SOFRIDA AO DESCER DO ÔNIBUS CAUSADA PELO MOTORISTA DA EMPRESA. 2. NEXO CAUSAL. DEVIDAMENTE COMPROVADO. 3. DANO MORAL. VALOR RAZOÁVEL. REDUÇÃO. NECESSIDADE DE REEXAME DE PROVAS. IMPOSSIBILIDADE. 4. JUROS DE MORA A PARTIR DA CITAÇÃO. SÚMULA N. 83/STJ. 5. AGRAVO IMPROVIDO.
+1. No presente caso, houve prova efetiva do dano causado, pois a agravada, pessoa idosa, sofreu lesões físicas graves, permanecendo hospitalizada por longo período (mais de dois meses), tendo sofrido fraturas e sido submetida à intervenção cirúrgica (e-STJ, fl. 135), em razão da queda sofrida ao descer do ônibus causada pelo motorista da empresa.
+2. Em relação ao nexo causal, as instâncias ordinárias concluíram, a partir das provas dos autos, estar devidamente comprovado.
+3. O valor arbitrado na origem a título de reparação moral - R$ 23.000,00 (vinte e três mil reais) - respeita os parâmetros de proporcionalidade e de razoabilidade, sendo, portanto, caso de aplicação do enunciado n. 7 da Súmula desta Corte Superior.
+4. Consoante a orientação jurisprudencial assente nesta Casa, em caso de responsabilidade contratual, os juros de mora devem ser computados a partir da citação.
+5. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 693.899/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2015, DJe 03/02/2016)
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
