@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC) interposto por [NOME] contra decisão que negou seguimento ao recurso especial, de sua vez manejado com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+O apelo extremo desafia acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (fls. 365-382, e-STJ), assim ementado:
+APELAÇÕES CÍVEIS - COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT - ACIDENTE OCORRIDO EM 01/02/2012 - SENTENÇA QUE JULGA PROCEDENTE O PEDIDO INICIAL - INCONFORMISMO DE AMBAS AS PARTES.
+APELAÇÃO 01 - RÉ - PRETENSÃO DE FIXAÇÃO DO TERMO INICIAL DA CORREÇÃO MONETÁRIA NA DATA DO EVENTO DANOSO - POSSIBILIDADE - TERMO INICIAL QUE DEVE SE DAR DA DATA DO EVENTO DANOSO - ENTENDIMENTO ADOTADO EM SEDE DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA NO STJ - REsp 1.483.620/SC - HONORÁRIOS ADVOCATÍCIOS - READEQUAÇÃO ANTE A SUCUMBÊNCIA RECÍPROCA - COTEJO ENTRE OS PEDIDOS DEDUZIDOS NA INICIAL E O PARCIAL ACOLHIMENTO PELO PROVIMENTO JUDICIAL - RECURSO CONHECIDO E PROVIDO.
+APELAÇÃO 02 - AUTOR - NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA - REQUISITO DE ESCLARECIMENTOS PELO PERITO - DESNECESSIDADE - QUESTÕES SUSCITADAS PELA PARTE QUE DEVEM SER ANALISADAS PELO JUÍZO - MÉRITO AVENTADA INCONSTITUCIONALIDADE DA MEDIDA PROVISÓRIA 340/2006 E LEI 11.945/2009 - QUESTÃO JÁ DIRIMIDA PELO STF - INDENIZAÇÃO POR DANO MORAL A SER CUSTEADA PELO SEGURO OBRIGATÓRIO - IMPOSSIBILIDADE - VERBA QUE SE DESTINA A INDENIZAR DANOS PESSOAIS POR MORTE OU INCAPACIDADE - RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados na origem (fls. 428-435, e-STJ).
+Nas razões do especial, o ora agravante aponta violação do art. 1.022, II, do CPC/2015. Aduz omissão em relação ao art. 326 do CPC/73 e quanto aos ônus da sucumbência porque o pedido principal da parte recorrida - pagamento integral do seguro obrigatório - não foi atendido, sendo a condenação no sentido de que fosse apurado o valor de acordo com o grau de invalidez estabelecido em perícia médica.
+Contrarrazões às fls. 455-462 (e-STJ).
+Juízo negativo de admissibilidade à fl. 490 (e-STJ), fundado na ausência de omissão.
+As razões de agravo reiteraram os fundamentos do apelo especial, bem como defenderam o preenchimento dos pressupostos de admissibilidade recursal.
+Contraminuta às fls. 504-505 (e-STJ).
+É o relatório.
+Decido.
+1. Quanto à apontada violação ao artigo 1.022 do do CPC/2015, não assiste razão a recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01/09/2011, DJe 06/09/2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01/09/2011, DJe 08/09/2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/08/2011, DJe 31/08/2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/08/2011, DJe 19/08/2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09/08/2011, DJe 22/08/2011).
+Oportuno assinalar, na espécie, que o Tribunal de origem expressamente analisou as questões suscitadas pelo insurgente, conforme se verifica do seguinte trecho extraído do acórdão proferido em sede de embargos de declaração (fl. 433, e-STJ):
+No caso concreto os embargos desmerecem acolhida, isto porque se mostra imperioso não confundir a natureza dos pedidos formulados na exordial.
+Pedido alternativo é aquele que, pela natureza da obrigação, pode ser cumprido por mais de um modo, o que, inclusive, consta expressamente do art. 288 do CPC. Por sua vez, o art. 289 traz a possibilidade de formulação de pedidos sucessivos para que o juiz conheça do posterior caso não possa acolher o anterior.
+No presente caso, os pedidos formulados, detêm natureza sucessiva, pois o juiz, ao negar o primeiro, passou a analisar o segundo, pois reconheceu que o grau de invalidez do autor deve ser comutado para se auferir o valor da indenização.
+Ressalto que à luz da jurisprudência do Superior Tribunal de Justiça, o acolhimento de pedido sucessivo acarreta sim sucumbência da parte requerente:
+Dessa forma, não há se falar em qualquer dos vícios do art. 1.022 do CPC/2015, porém o que se constata é o inconformismo da parte insurgente acerca do resultado do julgamento, não sendo os embargos de declaração a via adequada para rediscussão da matéria.
+2. Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao agravo e, nos termos do art. 85, § 11, do NCPC, majoro em 1% (um por cento) sobre o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se.
+Intimem-se.
