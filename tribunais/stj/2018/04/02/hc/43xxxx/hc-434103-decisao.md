@@ -1,0 +1,16 @@
+DECISÃO
+ISRAEL FERREIRA MACHADO alega sofrer coação ilegal no seu direito de locomoção em face de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo n. [CPF]).
+O impetrante se insurge contra a regressão do paciente para o regime fechado, após o somatório das penas, em decorrência de nova condenação definitiva.
+Requer a manutenção do apenado no regime semiaberto.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O Juiz, diante de nova condenação por crime praticado antes do início da execução, determinou a unificação das penas do paciente, mas o manteve no regime semiaberto, sem considerar o saldo remanescente de 50 anos, 8 meses e 8 dias a cumprir.
+Em agravo, o Tribunal determinou a regressão de regime. Salientou: "o apenado cumpria pena de 61 anos, 4 meses e 6 dias de reclusão, tendo progredido para o regime semiaberto quando sobreveio nova condenação irrecorrível, operando-se a soma das penas". Conforme "sua Guia de Execução Penal atualizada, cumpriu 10 anos, 07 meses e 28 dias de reclusão, faltando, ainda, 50 anos, 8 meses e 8 dias" (fl. 26) a cumprir.
+Salientou o colegiado: "para somatório das penas e fixação do novo regime, desimporta se o delito foi praticado em data anterior ou posterior ao início da execução da pena que estava em andamento". A análise "conjunta do art. 111 da LEP e do art. 33, §2º do Código Penal torna imperiosa a regressão de regime" (fl. 26), pois resta ao apenado o "cumprimento de 50 anos, 5 mees e 27 dias de reclusão" (fl. 27).
+Deveras, por expressa determinação do art. 111 da LEP, quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+A regressão de regime, outrossim, está prevista no art. 118, II, da LEP, firme ao assinalar que a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado "sofrer condenação, por crime anterior, cuja pena, somada ao restante da pena em execução, torne incabível o regime".
+Ilustrativamente: "A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal" (REsp n. 1.557.461/SC, Rel. Ministro Rogerio Schietti, 3ª S., DJe 15/3/2018).
+Sob tais premissas, é incabível manter o apenado em regime prisional semiaberto, se a nova pena (por crime anterior) somada ao restante da reprimenda em execução totalizou 50 ano, 5 meses e 27 dias de reclusão.
+Não há ilegalidade alguma no acórdão estadual e o impetrante deve somente supervisionar os cálculos da execução, para que a unificação não interrompa a data-base para nova progressão de regime (REsp n. 1557461/SC, Terceira Seção, Rel. Ministro Rogerio Schietti, DJe 15/3/2018).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
