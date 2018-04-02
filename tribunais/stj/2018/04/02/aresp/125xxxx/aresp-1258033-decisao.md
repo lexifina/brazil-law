@@ -1,0 +1,14 @@
+DECISÃO
+RALF AUEBER DE OLIVEIRA FREITAS agrava de decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná (Apelação n. 1542997-9).
+O agravante - condenado por receptação - apontou a violação do art. 386, VII, do CPP, haja vista a fragilidade do conjunto probatório. Assevera que o acórdão estadual não reconheceu a "inconstitucionalidade" do art. 180, § 1º, do CP (fl. 350).
+A insurgência foi inadmitida no juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+Decido.
+O recurso especial é deficiente quando aponta a inconstitucionalidade do art. 180, § 1º, do CP, o que atrai a aplicação da Súmula n. 284 do STJ. Não é possível compreender as razões da insurgência, principalmente quando verificado que o agravante foi condenado por incursão no art. 180 do CP.
+O acórdão impugnado fez constar o auto de exibição e de apreensão do veículo, proveniente de crime anterior. Em relação à autoria, indicou a prisão em flagrante e as "provas orais colhidas perante a autoridade policial e em juízo" (fl. 303).
+O acusado deu várias versões aos fatos. Indicou haver comprado o "veículo VW/Golf" por R$ 3 mil, de pessoa desconhecida, na "praça de skate na Av. Camila de Lelis" (fl. 304). Em Juízo, confirmou o pagamento de R$ 3 mil em dinheiro, mas acrescentou haver transferido outros bens (notebook, celular e outros objetos) para o vendedor, do qual teria se aproximado por meio de rede social.
+Policial, em juízo, narrou que o réu disse, no momento da prisão, que havia comprado o veículo por R$ 5 mil. Testemunha narrou que o "veículo tinha as placas alteradas e, ainda, era produto do crime de roubo" (fl. 306).
+O acórdão salientou que, em que pese a última versão do acusado, de aquisição do veículo por R$ 7 mil, o bem foi avaliado em R$ 81.513,00. O pagamento de valor muitas vezes inferior à avaliação mercado denota, indene de dúvidas, seu conhecimento sobre a origem ilícita do veículo. Some-se a isso o próprio reconhecimento de que comprou o veículo "através de uma página de uma rede social, sem solicitar a emissão de uma nota fiscal" e sem conhecer o vendedor. Assim, ante a prova delineada dos autos, "conclui-se que este tinha conhecimento da origem duvidosa" da res (fl. 311).
+O Tribunal identificou o dolo pela concatenação das circunstâncias que gravitam o fato e pela própria conduta do agente. Nesse contexto, está correta a decisão agravada, pois, para absolver o réu seria imprescindível reexame de provas, procedimento vedado em recurso especial, a teor da Súmula n. 7 deste Superior Tribunal de Justiça.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
