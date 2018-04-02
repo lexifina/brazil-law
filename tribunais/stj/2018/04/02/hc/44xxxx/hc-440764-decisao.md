@@ -1,0 +1,12 @@
+DECISÃO
+SIDNEI BUENO DE CAMARGO, paciente neste habeas corpus, estaria sofrendo coação ilegal em seu direito de locomoção, em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo (Recurso em Sentido Estrito n. 0001134-45.2016.8.26.0279).
+Depreende-se dos autos que o paciente foi pronunciado como incurso no art. 121, § 2º, I e IV, § 4º, c/c o art. 29, caput, todos do Código Penal, havendo sido mantida a prisão cautelar.
+O impetrante sustenta a ocorrência de constrangimento ilegal, decorrente de excesso de prazo para seu julgamento pelo Tribunal do Júri. Afirma que, "ainda que se considere a gravidade das acusações que pesam sobre o Paciente, pronunciado por homicídio qualificado, a manutenção da custodia cautelar há quase dois anos sem qualquer perspectiva de julgamento de seu Recurso, e menos ainda de seu julgamento pelo Tribunal do Juri, viola flagrantemente o Principio da Razoabilidade" (fls. 3-4).
+Afirma que "o Paciente se encontra aguardando o julgamento de seu Recurso há mais de um ano, está preso a quase dois anos, e mesmo desistindo do julgamento de seu Recurso, que não tinha andamento há mais de sete meses, nem mesmo assim, viu o Recurso ter fim, voltar para a Vara de origem, e ter seu julgamento marcado" (fl. 5).
+Requer, liminarmente e no mérito, possa o paciente responder em liberdade ao processo.
+Decido.
+No que tange ao aventado excesso de prazo para julgamento do paciente pelo Tribunal do Júri, verifico que essa matéria não foi analisada pelo Desembargador relator do Tribunal de origem, que limitou-se a ressaltar que a prisão preventiva do paciente já foi mantida por aquela Corte em duas ocasiões.
+O Desembargador Relator consignou que o paciente foi preso preventivamente, "prisão posteriormente reforçada pela pronúncia" (fl. 106). Destacou que "tal prisão foi mantida duas vezes por esta Col. 12ª Câmara Criminal do TJSP, malgrado atacada pelos Habeas Corpus nº 2108391-59.2016.8.26.0000 (vv33053), j. 27.07.2016, e no Habeas Corpus nº 2160758-60.2016.8.26.0000 (vv33849), j 28.09.2016, cujas ordens foram denegadas - por sinal, impetrações patrocinadas pela mesma causídica ora signatária" (fl. 106).
+Assim, evidencio a impossibilidade de apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intime-se.
