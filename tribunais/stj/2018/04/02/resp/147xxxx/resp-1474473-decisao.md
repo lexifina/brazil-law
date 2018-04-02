@@ -1,0 +1,23 @@
+DECISÃO
+1. Trata-se de Recurso Especial fundando na alínea a do art. 105, III da Constituição Federal, interposto contra acórdão do Tribunal Regional Federal da 3a Região que, acolhendo os Embargos da parte autora, extinguiu o processo, sem resolução do mérito, ao fundamento de que a concessão do benefício na seara administrativa implica na perda de interesse processual da parte no prosseguimento do feito.
+2. Nas razões do seu Apelo Nobre, sustenta o recorrente, em síntese, a nulidade o acórdão proferido em sede de Embargos de Declaração, por ter incorrido em reformatio in pejus.
+3. É o relatório. Decido.
+4. O acórdão recorrido merece reforma.
+5. A jurisprudência desta Corte pacificou a compreensão de que a concessão de benefício, na seara administrativa, ainda que, no curso de ação judicial, não retira do Segurado a execução dos valores decorrentes do provimento judicial. Assim, não há que se falar em perda do interesse processual da parte no prosseguimento do feito.
+6. Confirmando tal assertiva, os seguintes julgados:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EXECUÇÃO DE VALORES DECORRENTES DE BENEFÍCIO RECONHECIDO EM JUÍZO, NA EXISTÊNCIA DE DEFERIMENTO ADMINISTRATIVO DE BENEFÍCIO MAIS VANTAJOSO RECONHECIDO PELO INSS. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ
+1. Cuida-se, na origem, de Agravo de Instrumento interposto pelo INSS contra decisão que rejeitou a impugnação da Autarquia Previdenciária à pretensão do exequente de continuar recebendo mensalmente o benefício concedido na via administrativa, com renda mensal mais vantajosa, bem como de executar as parcelas atrasadas relativas ao benefício concedido judicialmente.
+2. No caso, verifica-se que o acórdão recorrido adotou entendimento consolidado no STJ, segundo o qual, reconhecido o direito de opção pelo benefício mais vantajoso concedido administrativamente, no curso de ação judicial em que se reconheceu benefício menos vantajoso, é possível a execução das parcelas do benefício postulado na via judicial até a data da implantação administrativa.
+3. Reconhecida a possibilidade de opção e a desnecessidade de devolução dos valores recebidos, revela-se legítimo, no caso, o direito de prosseguir na execução das parcelas reconhecidas em juízo até a data do deferimento administrativo do benefício mais vantajoso.
+4. É firme o entendimento de que o Recurso Especial, interposto com fundamento nas alíneas a e/ou c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontrar-se em sintonia com a jurisprudência do STJ, consoante a Súmula 83, verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+5. Não se conhece do Recurso Especial (REsp. 1.666.998/RS, Rel. Min. HERMAN BENJAMIN, DJe 20.6.2017).
+
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. BENEFÍCIO PREVIDENCIÁRIO RECONHECIDO NA VIA JUDICIAL. SUPERVENIÊNCIA DE DECISÃO ADMINISTRATIVA DO INSS CONCEDENDO BENEFÍCIO MAIS VANTAJOSO. CONCOMITANTE EXECUÇÃO DE VALORES RELATIVOS AO BENEFÍCIO CONQUISTADO JUDICIALMENTE. POSSIBILIDADE. PRECEDENTES.
+1. Não se verifica ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A Primeira Seção, ao decidir o REsp 1.334.488/SC, Rel. Ministro Herman Benjamin, DJe 14/5/2013, processado nos termos do art. 543-C do CPC, chancelou o entendimento de que é possível ao segurado renunciar à aposentadoria para fins de obtenção de novo e posterior jubilamento (desaposentação), sem a necessidade de devolução dos valores recebidos em decorrência do benefício pretérito.
+3. Mutatis mutandi, não se pode solapar do beneficiário, que tenha alcançado em juízo determinado benefício previdenciário, o direito de executar os valores daí decorrentes, ainda que, no curso da ação, tenha conquistado benefício mais vantajoso na seara administrativa, ou seja, por direta concessão do INSS.Tal execução terá por termo final a data do início do benefício mais vantajoso. Precedentes.
+4. Recurso especial não provido (REsp. 1.433.895/PR, Rel. Min. SÉRGIO KUKINA, DJe 22.2.2016).
+7. Nestes termos, impõe-se o retorno dos autos à origem, para afastando a perda de interesse recursal, prossiga no julgamento do feito.
+8. Ante o exposto, dá-se provimento ao Recurso Especial, reconhecendo o interesse recursal, determinando-se o retorno dos autos para que prossiga no julgamento do feito.
+9. Publique-se.
+10. Intimações necessárias.
