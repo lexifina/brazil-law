@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de agravo interposto por BANCO SOFISA S/A, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 626):
+DECLARATÓRIA - Inexigibilidade de títulos - Preliminar de ilegitimidade passiva - Instituições bancárias - Prematuridade de exclusões do polo passivo - Necessidade de aferição se laboraram com o cuidado necessário - Recurso provido.
+Opostos embargos de declaração pelas partes (fls. 649-651, 652-659, 660-664 e 665-667), foram rejeitados (fls. 670-676).
+Nas razões do recurso especial (fls. 678-698), aponta a parte recorrente ofensa ao disposto nos arts. 485, VI, 1.022, I, do Novo Código de Processo Civil, arts. 667, 668, 669, 670 e 917, do Código Civil, e Súmula 476 do STJ.
+Em apertada síntese, sustenta que o recorrente não pode ser responsabilizado por danos morais, custas ou despesas processuais, por se tratar de mero cobrador decorrente de endosso-mandato, inexistindo nos autos provas de que o recorrente foi avisado previamente da origem espúria da cártula levada a protesto.
+Alega que é parte ilegítima para figurar no polo passivo da relação processual, uma vez que a relação jurídica originária no documento discutido envolve apenas o sacado e o mandatário.
+Contrarrazões ao recurso especial às fls. 703-708.
+É o relatório.
+DECIDO.
+2. Inicialmente, registre-se que não é cabível a interposição de recurso especial com fulcro em violação de súmulas, por se tratar de enunciados que não se enquadram no conceito de lei federal a sofrer o controle de legalidade desta Corte.
+3. De outra parte, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 1.022 do Código de Processo Civil. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+4. Ao analisar a demanda, a Corte de origem entendeu que a extinção da ação em relação aos bancos foi prematura, havendo a necessidade de se aferir melhor, durante a instrução, se as condutas foram ou não desidiosas (fls. 626-628) - grifamos:
+Ainda que o recurso tenha sido instruído sem a cópia dos títulos protestados, observa-se que houve a concessão de tutela antecipada para sustação dos efeitos do protesto, conforme as decisões de fls. 31/32, 43/47 e 48/49, corroborando que os títulos teriam sido protestados pela instituição bancária, por efeito do endosso translativo.
+Sendo este o caso, há que se considerar que o C. Superior Tribunal de Justiça pacificou seu entendimento cm julgamento de recurso repetitivo, nos termos do art. 543-C, do CPC - REsp n" 1.063.474/RS, conforme ementa transcrita:
+"DIREITO CIVIL E CAMBIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. DUPLICATA RECEBIDA POR ENDOSSO-MANDATO. PROTESTO. RESPONSABILIDADE DO ENDOSSATÁRIO. NECESSIDADE DE CULPA.
+1. Para efeito do art. 543-C do CPC: Só responde por danos materiais e morais o endossatário que recebe título de crédito por endosso-mandato e o leva a protesto se extrapola os poderes de mandatário ou em razão de ato culposo próprio, como no caso de apontamento depois da ciência acerca do pagamento anterior ou da falta de higidez da cártula.
+2. Recurso especial não provido. " (DJe 17/11/2011)
+Desta forma, prematura a extinção da ação em relação aos bancos, pois há necessidade de aferir melhor se as condutas foram ou não desidiosas. Ressalte-se que é incontroverso que os títulos foram levados a protesto pelas instituições financeiras, pois concedida a antecipação de tutela; portanto, se os bancos se beneficiam do serviço que prestam, demonstram interesse no protesto dos títulos. Assim, é da responsabilidade das casas bancárias a verificação da idoneidade dos documentos, quando da contratação com o endossante; tornando imperiosa a instrução da ação para analisar se houve imprudência a ensejar a responsabilidade das instituições bancárias; não podem escusar-se, por ora.
+ ..
+Com estas considerações, a decisão merece retratação para manutenção no polo passivo do Banco Itaú S/A, Banco ABC, Banco Safra, Banco Sofisa, Banco Bradesco e HSBC Bank, vez que prescinde de melhor apuração de suas condutas no decorrer da instrução, razão pela qual fica excluída a condenação relativa ao ônus da sucumbência; a magistrada determinará, no mais, o que de direito para o regular prosseguimento da ação.
+No presente caso, o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+5. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
