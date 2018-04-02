@@ -1,0 +1,61 @@
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. ALEGAÇÃO DE INIDONEIDADE DA SEGREGAÇÃO CAUTELAR. DECRETO FUNDAMENTADO. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora paciente acarretaria risco à ordem pública, em virtude do fundado receio de reiteração delitiva, já que o fato de o paciente possuir extensa ficha criminal, já tendo sido condenado por porte ilegal de arma de fogo, estelionato e tráfico de drogas, revela a probabilidade de repetição de condutas tidas por delituosas, sendo imperiosa a imposição da medida extrema. (Precedentes).
+IV - Finalmente, in casu, não há hipótese de aplicação das medidas cautelares alternativas à prisão, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+Habeas corpus não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de MESSIAS LINO DA COSTA, contra v. acórdão do eg. Tribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que o ora paciente foi preso em flagrante e, posteriormente, teve sua prisão convertida em preventiva pela prática, em tese, do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus junto ao eg. Tribunal a quo, com vistas à revogação da prisão preventiva. A ordem, por seu turno, foi denegada. Confira-se, oportunamente, a ementa do julgado:
+"HABEAS CORPUS. DROGA. DESCLASSIFICAÇÃO CONSUMO PESSOAL. NÃO CONHECIMENTO. VÍCIO NO AUTO FLAGRANCIAL. TESE SUPERADA. DECISÃO MOTIVADA ORDEM DENEGADA. 1 - Tese atinente ao mérito da ação penal não deve ser analisada. 2 - Convertida a prisão em flagrante em preventiva, fica superado suposto vicio no auto de prisão em flagrante. 3 - Decisão prisional motivada não constitui constrangimento ilegal. Ordem parcialmente conhecida e denegada" (fl. 146).
+Daí o presente mandamus, no qual o impetrante afirma a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea a justificar a decretação de sua segregação cautelar.
+Requer, assim, a revogação da prisão preventiva ou, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 159-162.
+As informações foram prestadas às fls. 167-187.
+O Ministério Público Federal, às fls. 189-192, manifestou-se pela denegação da ordem, em parecer não ementado.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. ALEGAÇÃO DE INIDONEIDADE DA SEGREGAÇÃO CAUTELAR. DECRETO FUNDAMENTADO. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora paciente acarretaria risco à ordem pública, em virtude do fundado receio de reiteração delitiva, já que o fato de o paciente possuir extensa ficha criminal, já tendo sido condenado por porte ilegal de arma de fogo, estelionato e tráfico de drogas, revela a probabilidade de repetição de condutas tidas por delituosas, sendo imperiosa a imposição da medida extrema. (Precedentes).
+IV - Finalmente, in casu, não há hipótese de aplicação das medidas cautelares alternativas à prisão, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+Habeas corpus não conhecido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Inicialmente, cumpre ressaltar que a prisão cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (v.g. HC n. 93.498/MS, Segunda Turma, Rel. Min. Celso de Mello, DJe de 18/10/2012).
+A advertência, todavia, não se aplica à hipótese, como se pode verificar a partir do seguinte excerto do decreto prisional, verbis:
+"No caso, o indiciado possui diversas passagens pela polícia, muitas por tráfico de drogas, havendo indicio que se dedica a essa atividade criminosa, razão pela qual entendo pela decretação da sua custódia cautelar.
+Sua extensa ficha criminal demonstra que sua vida tem sido dedicada à prática de crimes, perturbando de forma reiterada a sociedade" (fls. 84-85, grifei).
+O v. acórdão reprochado, por sua vez, estabeleceu:
+"Com efeito, analisando a certidão criminal (fls. 40/43), constata-se que Messias já foi condenado por porte ilegal de arma de fogo, estelionato e tráfico de drogas, além de possuir outros registros penais.
+Desse modo, considerando que a prisão está arrimada no fato do paciente ostentar antecedentes criminais desfavoráveis, a hipótese motiva sua segregação cautelar para garantia da ordem pública. A prisão preventiva esta embasada nas hipóteses autorizadoras da medida extrema (art. 312 do CPP)" (fls. 149-150, grifei).
+Ora, da análise dos excertos acima transcritos, observa-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, em virtude do fundado receio de reiteração delitiva, já que o fato de o paciente possuir extensa ficha criminal, já tendo sido condenado por porte ilegal de arma de fogo, estelionato e tráfico de drogas, revela a probabilidade de repetição de condutas tidas por delituosas, sendo imperiosa a imposição da medida extrema.
+Acerca do tema, cito os seguintes precedentes desta eg. Corte Superior:
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. ROUBO MAJORADO TENTADO E CORRUPÇÃO DE MENORES. ALEGAÇÃO DE NEGATIVA DE AUTORIA. QUESTÃO NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO. PRISÃO PREVENTIVA. RÉU QUE RESPONDE A OUTRA AÇÃO PENAL. RISCO DE REITERAÇÃO. NECESSIDADE DA PRISÃO PARA GARANTIA DA ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+ ..
+5. No presente caso, a prisão preventiva está devidamente justificada para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada por dados de sua vida pregressa, notadamente por responder a outra ação penal. A prisão preventiva, portanto, mostra-se indispensável para conter a reiteração na prática de crimes e garantir a ordem pública.
+6. Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, embora não possam exasperar a pena-base (Súmula 444/STJ), constituem indicativos de risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva para garantia da ordem pública.
+7. Condições subjetivas favoráveis ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+8. Habeas corpus não conhecido" (HC 394.477/TO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 31/5/2017, grifei).
+"HABEAS CORPUS. TRÁFICO DE DROGAS, POSSE E GUARDA DE INSTRUMENTOS DESTINADOS À PREPARAÇÃO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. SUPRESSÃO DE INSTÂNCIA. ORDEM DENEGADA. RECOMENDADA CELERIDADE NA TRAMITAÇÃO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, ante o risco de reiteração delitiva do acusado (que responde a outros processos criminais pela suposta prática de furto, homicídio e tráfico de drogas). Há, portanto, elementos hábeis a justificar a segregação cautelar.
+3. Por idênticas razões, as medidas cautelares diversas da prisão não constituem instrumentos eficazes para obstar a reiteração da conduta delitiva.
+ ..
+6. Ordem denegada, com recomendação ao Juízo da 2ª Vara Criminal da Comarca de Maracanaú - CE de que imprima celeridade na tramitação da Ação Penal n. 0001308-13.2016.8.06.0117" (HC 372.748/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 24/5/2017, grifei).
+Mister registrar ainda que, não é cabível a aplicação das medidas cautelares alternativas à prisão, in casu, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+É o voto.
