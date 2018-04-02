@@ -1,0 +1,43 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, interposto com base nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região na Apelação n. 0013763-32.2016.4.03.6119.
+Os embargos declaratórios opostos na origem foram acolhidos, sem efeitos infringentes.
+Nas razões recursais, a defesa aponta violação do art. 33, § 4º, da Lei n. 11.343/2006, ao argumento de que não foram indicados fundamentos idôneos para estabelecer a fração mínima de diminuição de pena.
+Postula seja aplicada a fração máxima prevista em lei para a minorante. "Com a alteração da pena, requer seja fixado regime aberto para cumprimento da pena, com a conversão da pena privativa de liberdade em restritiva de direitos" (fls. 256-257).
+A Corte regional não admitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo "conhecimento do agravo para não conhecer do recurso especial" (fl. 314).
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada. Quanto ao recurso especial, também observo o preenchimento dos requisitos de admissibilidade.
+Com efeito, a questão atinente à dosimetria da pena foi examinada pelo Tribunal a quo, no julgamento da apelação, a evidenciar o prequestionamento da matéria. Além disso, o recurso apresenta argumentação suficiente para permitir a compreensão da tese suscitada e a sua apreciação prescinde de revolvimento do contexto fático-probatório dos autos.
+II. Contextualização
+Em primeira instância, o ora agravante foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e 583 dias-multa, como incurso no art. 33, caput, c/c o art. 40, I, ambos da Lei n. 11.343/2006. Para negar a aplicação da minorante, o Juízo singular consignou que (fl. 161, destaquei):
+ ..
+O modus operandi da conduta praticada pelo acusado deixa evidente sua integração a uma organização criminosa. Afinal, o transporte de 8 kg de cocaína, com viagem prévia à região de fronteira, em regime de colaboração com outros agentes criminosos são claros indicativos de que o acusado [NOME] integrou e contribuiu para o crime praticado por uma sociedade criminosa organizada e articulada, que inclusive adiantou as despesas de sua viagem até São Paulo, conforme admitido pelo acusado em juízo, prestando serviço de natureza essencial e imprescindível ao cumprimento do intento criminoso do bando (transporte da droga).
+Assim, ante a inexistência de outras causas de diminuição ou aumento de pena, torno definitiva a pena aplicada em 5 anos e 10 meses de reclusão e 583 dias-multa.
+Ao julgar o apelo defensivo, o Tribunal a quo reconheceu a incidência da causa especial de diminuição de pena, no patamar mínimo, sob a seguinte motivação (fls. 211, grifei):
+ ..
+Entretanto, observo que se trata de réu primário e sem antecedentes criminais (fls. 50/52), contra quem não há indícios satisfatórios de que fizesse do tráfico de drogas meio de vida ou integrasse organização criminosa, uma vez que conforme o depoimento das testemunhas, quando da abordagem policial, o réu demonstrou nervosismo excessivo e confessou trazer drogas dentro do travesseiro, urso de pelúcia e mochila, o que evidencia se tratar de transportador eventual.
+Portanto, aplico a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06 na fração mínima de 1/6 (um sexto), passando pena a ser de 4 (quatro) anos e 2 (dois) meses de reclusão e 416 (quatrocentos e dezesseis) dias-multa.
+Incide a causa de aumento de pena pela transnacionalidade do delito (Lei n. 11.343/06, art. 40, I), devendo a pena deve ser majorada em 1/6 (um sexto), passando a ser de 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão e 485 (quatrocentos e oitenta e cinco) dias-multa, a qual torno definitiva.
+Os embargos declaratórios foram acolhidos, sem efeitos infringentes, a fim de suprir a omissão acerca dos motivos que ensejaram a incidência da minorante na fração mínima. Confira-se (fl. 236):
+O embargante sustenta a falta de fundamentação suficiente para justificar, diante de mero transportador da droga que confessou o crime, a aplicação da causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/06 no mínimo (1/6), devendo ser aplicada no máximo (2/3) ou em fração intermediária entre o mínimo e o máximo.
+Como justificativa para aplicação da fração mínima deve ser acrescida à fundamentação do voto o recente entendimento constante de precedente do Superior Tribunal de Justiça.
+O Superior Tribunal de Justiça fixou a tese no sentido de que o conhecimento pelo agente de estar a serviço do crime organizado para o tráfico transnacional de entorpecentes constitui fundamento concreto e idôneo a ser valorado para fins de estabelecimento da incidência da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/06 no mínimo legal, ante a gravidade da conduta perpetrada (STJ, HC n. 387.077, Rel. Min. Ribeiro Dantas, j. 06.04.17).
+Feito esse registro, passo ao exame das teses defensivas.
+III. Fração de diminuição de pena
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+Especificamente quanto ao patamar de redução da pena, a jurisprudência desta Corte Superior sinaliza para a diminuição mínima prevista em lei quando a complexidade da operação, a magnitude do tráfico de drogas, a possível multiplicidade de pessoas envolvidas ou, ainda, a aparente divisão de tarefas entre elas evidenciem que o patamar mínimo se mostra o mais adequado e suficiente para a prevenção e a repressão do delito perpetrado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO TRANSNACIONAL DE DROGAS. FRAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Havendo sido concretamente fundamentada a aplicação da minorante em comento no patamar de 1/6, sobretudo em razão de ""estar-se diante de quem se prestou a atuar na condição popularmente conhecida como "mula" do tráfico"" (fl. 252), não há contrariedade ao disposto no art. 33, § 4º, da Lei de Drogas. 2. Agravo regimental não provido.
+(AgRg no AREsp n. 684.780/AM, Rel. Ministro Rogerio Schietti, DJe 19/5/2016).
+Assim, não há ilegalidade na hipótese, uma vez que o Tribunal regional ressaltou que o agravante tinha consciência de estar a serviço de organização criminosa voltada ao tráfico internacional de drogas, a fim de justificar a redução no patamar mínimo.
+Mantida a reprimenda estabelecida pela instância antecedente, fica prejudicado o exame dos pleitos de alteração do regime inicial e de substituição da pena privativa de liberdade por restritiva de direitos, uma vez que o réu foi condenado a pena superior a 4 anos de reclusão (arts. 33, § 2º, "b", e 44, I, do Código Penal).
+IV. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+V. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
