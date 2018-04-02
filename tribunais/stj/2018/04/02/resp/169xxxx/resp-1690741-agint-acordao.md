@@ -1,0 +1,69 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. COMPLEMENTAÇÃO DE APOSENTADORIA. MIGRAÇÃO DE PLANO. NULIDADE DO ACÓRDÃO. FALTA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. DISSÍDIO PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Esta Corte Superior entende que a reprodução dos fundamentos da sentença no julgamento da apelação, por si só, não é capaz de gerar a nulidade do aresto, desde que haja o efetivo enfrentamento das matérias impugnadas nas razões do apelo, como ocorreu no caso em análise.
+2. A revisão da conclusão estadual - acerca da ciência da insurgente em relação às alterações promovidas com a migração efetuada, e que, à época em que foi efetuada a migração, não havia ela implementado as condições para o recebimento da complementação de aposentadoria, bem como pela ausência dos requisitos da reparação civil - demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis na via estreita do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+3. A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o aresto combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em virtude de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por [NOME] contra decisão da lavra deste signatário, que negou provimento ao recurso especial da ora agravante.
+O aludido apelo extremo foi deduzido com fundamento nas alíneas a e c do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (fl. 297, e-STJ):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. CAPEMI. ADITIVO CONTRATUAL. MIGRAÇÃO DE PLANO. DANO MORAL.
+1. O aditivo contratual aceito sem vício de consentimento ou ressalva pela autora impõe a improcedência dos pedidos.
+2. A indenização pressupõe ato ilícito, que não foi comprovado.
+Os embargos de declaração opostos foram rejeitados (fls. 323-329, e-STJ).
+Nas razões do especial (fls. 336-356, e-STJ), além de dissídio jurisprudencial, a recorrente alega que o acórdão impugnado incorreu em violação dos seguintes normativos:
+a) artigos 489 e 1.021 do Código de Processo Civil de 2015;
+b) artigos 3º, 6º, 14, 30, 31 e 54 do Código de Defesa do Consumidor; e
+c) artigo 927 do Código Civil de 2002.
+Sustenta, em síntese: (i) nulidade do acórdão impugnado, por ausência de fundamentação, tendo em vista que os argumentos aduzidos na apelação foram ignorados pelo Tribunal a quo, que apenas reproduziu os fundamentos da sentença de primeiro grau; (ii) serem aplicáveis ao presente feito os termos do CDC e ter havido o descumprimento, pela CAPEMI, de diversas obrigações, entre elas a falha no dever de informação, considerando-se não ter sido informada que a alteração contratual decorrente da migração, ocorrida em 1994, teria como consequência a exclusão do benefício de complementação de aposentadoria, pois a cópia do contrato com a citada modificação somente lhe foi entregue em 2012; e (iii) fazer jus à indenização por dano moral, decorrente da conduta ilícita da parte adversa, por ausência de informação acerca das consequências da alteração promovida à época da migração e de não lhe terem sido restituídos os valores pagos no período de 1973 a 1994, relativos à complementação de aposentadoria, pois tal conduta frustrou sua expectativa, fundada na boa-fé.
+Em razão do juízo positivo de admissibilidade, os autos ascenderam a esta Corte de Justiça, e o recurso especial foi desprovido, pelos seguintes fundamentos: a) não ter havido nulidade no acórdão impugnado por falta de fundamentação, em razão de mera reprodução dos argumentos da sentença, pois houve o efetivo enfrentamento da matéria objeto da apelação; b) incidência das Súmulas 5 e 7/STJ para revisão das conclusões estaduais; e c) a aplicação da Súmula 7/STJ torna prejudicada a análise do dissenso jurisprudencial, ante a ausência de similitude entre os acórdãos colacionados.
+Daí o presente agravo interno (e-STJ, fls. 420-432), em cujas razões defende a insurgente a inaplicabilidade dos óbices apontados para o desprovimento do reclamo interposto, ao tempo que reafirma as alegações já expendidas nas razões do apelo extremo.
+Ao final, pleiteia a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Impugnação às fls. 436-439 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Com efeito, conforme asseverado na decisão agravada, ao contrário do relatado pela agravante, a alegação de violação dos artigos 14, 30, 31 e 54 do Código de Defesa do Consumidor configura inovação recursal, haja vista que os aludidos normativos somente foram trazidos nas razões do recurso especial, não constando da petição inicial, da apelação ou dos embargos de declaração.
+Cumpre destacar que, nas razões de sua apelação, houve alegação de violação aos artigos 4º e 6º do CDC, contudo, sobre eles o Tribunal estadual não se pronunciou, e os embargos de declaração não foram opostos em relação a essa omissão.
+Quanto à nulidade do acórdão que julgou a apelação, a recorrente alega que a mera reprodução dos argumentos adotados pela sentença não é capaz de cumprir o dever constitucional do magistrado de fundamentar suas decisões.
+Todavia, esta Corte Superior entende que a reprodução dos fundamentos da sentença no julgamento da apelação, por si só, não é capaz de gerar a nulidade do aresto, desde que haja o efetivo enfrentamento das matérias impugnadas nas razões do apelo.
+Nesse sentido:
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - ACIDENTE DE VEÍCULO - OMISSÕES NO ACÓRDÃO - AUSÊNCIA - DECISÃO AGRAVADA MANTIDA - IMPROVIMENTO.
+1.- Não se detecta qualquer omissão, contradição ou obscuridade no Acórdão Recorrido, uma vez que a lide foi dirimida com a devida e suficiente fundamentação, apenas não se adotou a tese da Agravante.
+2.- A jurisprudência desta Corte é firme no sentido de que a repetição dos fundamentos da sentença não implica em deficiência de fundamentação do Acórdão, desde que a matéria impugnada na Apelação tenha sido abordada nas razões de decidir.
+3.- O Agravo não trouxe nenhum argumento novo capaz de modificar a conclusão agravada, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido. (AgRg no AREsp 466320/AM, Rel. Min. Sidnei Beneti, Terceira Turma, julgado em 27/03/2014, DJe 29/04/2014 - grifei)
+No caso em análise, nas razões da apelação, a insurgente sustentou: a) fazer jus à complementação de aposentadoria contratada; b) falha no dever de informação, porquanto o contrato decorrente da migração ocorrida em 1994 não lhe foi entregue e, por isso, não tinha conhecimento de seus termos, que excluiu o benefício de complementação de aposentadoria; e c) fazer jus à indenização por dano moral decorrente da conduta ilícita do plano de previdência privada. Assim, tendo as razões impugnadas sido analisadas no acórdão recorrido, deve ser afastada a alegação de nulidade do acórdão.
+Na hipótese ora em foco, o Tribunal de origem, ao dirimir a controvérsia, concluiu que a insurgente estava ciente das alterações decorrentes da migração efetuada, que, à época em que esta ocorreu, não haviam sido implementados os requisitos para recebimento da complementação de aposentadoria, bem como considerou ausentes os requisitos da reparação civil, nos seguintes termos (fls. 300-305, e-STJ):
+(..)
+Quanto às pretensões recursais, valho-me dos bem lançados fundamentos da sentença, aqui adotados como razões de decidir, com a licença devida ao MM. Juiz Manuel Eduardo Pedroso Barros (207/219):
+"(..)Trata-se de Ação de Obrigação de Fazer em que a parte autora pleiteia a restituição de valores referentes a sua aposentadoria, tendo em vista que, desde 2003, está aposentada, mas não recebe os pagamentos referentes à pensão, sendo que sempre contribuiu mensalmente para a empresa ré.
+Verifico que as partes firmaram, primeiramente, dois contratos, sendo um para o pagamento de pecúlio em caso de morte (contrato n. 9527185) e outro referente ao plano de pensão para complementação de previdência privada (contrato n. 2215914), assinados em 1973 e 1980, respectivamente.
+No entanto, posteriormente, houve uma migração dos referidos planos para o chamado Plano Melhor. A despeito de a autora afirmar que não anuiu com a mudança do plano, o documento de fls. 19/20 demonstra que a autora aderiu ao contrato em 1994. A partir daí as parcelas referentes às mensalidades foram descontadas diretamente de sua folha de pagamento como se constata pelos comprovantes de rendimentos de fls. 44/45, sendo que o valor do desconto na propositura da demanda era de R$ 239,41 (duzentos e trinta e nove reais e quarenta e um centavos).
+Ademais, o regulamento do Plano Melhor (fls. 37/40), em seu artigo 6º, dispõe que o benefício do Plano Melhor é o pecúlio por morte, que consiste num capital a ser pago de uma só vez aos beneficiários, quando ocorrer a morte do participante.
+Ressalte-se que em fevereiro de 1994, com o Plano Melhor, foi oferecida a opção de saldamento de seus planos iniciais e que conforme aditivo ao RSASB a opção pelo saldamento implicaria a renúncia do participante a quaisquer dos benefícios previstos nos contratos dos planos de pecúlio e de pensões. Por outro lado, seria devido o pecúlio saldado:
+"Art. 3º - O saldamento é uma opção complementar ao plano de Pecúlio II ou do Plano de Pecúlio ll-A de forma a assegurar o pagamento de um Pecúlio Saladado por morte do participante(s) ao(s) beneficiário(s) por ele indicado(s).
+(..)
+Art. 7º - Pecúlio salado consiste num capital a ser pago de uma só vez ao(s) beneficiário(s) indicado(s) pelo participante, quando ocorrer a morte deste, qualquer que seja a causa mortis."
+Portanto, do regulamento do plano de pecúlio, colhe-se dos artigos que acima transcritos as condições de alteração dos planos que se conformam com a natureza jurídica da relação firmada, não evidenciando que pudesse, a Autora, haver sido ludibriada ou induzida a compreensão distinta, pela existência de cláusulas dúbias ou maliciosas.
+Saliente-se ainda, que o contrato em tela conforma-se com a classificação de aleatório ou de risco, já que objetiva o pagamento de indenização, na hipótese de ocorrência de evento futuro e incerto.
+(..)
+Dessa forma, assemelha-se ao contrato de seguro de vida, que na essência, é aleatório, razão pela qual é inadmissível o resgate em vida das contribuições pagas pela subscritora do plano, uma vez que a entidade, durante a vigência do contrato, suportou o risco da ocorrência do resultado morte do participante, o que a obrigaria ao pagamento da indenização aos beneficiários indicados.
+Vê-se, destarte, que a relação jurídica firmada não possuía conformação de reserva previdenciária a ser paga durante a vida da Autora, mas sim de pecúlio destinado a assegurar ao beneficiário indicado pela participante, a percepção de benefício em caso do falecimento desta.
+(..)
+Importante ressaltar, por fim, que a autora, quando da migração para o Plano Melhor, não cumpriu com os requisitos para obter o direito à pensão, pois efetuou o pagamento das mensalidades desde 1973 até 1994, data da mudança de plano. Assim, não havia completado os 25 anos de contribuição como exigia o plano de pensão.
+(..)
+Destaque-se que o dano moral se relaciona diretamente com os prejuízos ocasionados a direitos da personalidade, como, por exemplo, à honra, à imagem, à integridade psicológica e física, à liberdade etc. Daí porque a violação de quaisquer desses atributos, afeta diretamente à dignidade do indivíduo, constitui motivação suficiente para fundamentar uma ação compensatória por danos morais. A indenização pelo dano moral é devida quando a prática de uma conduta ilícita ou injusta ocasione na vítima vexame, constrangimento, humilhação ou dor.
+(..)
+No entanto, no presente caso, não vislumbro sua ocorrência pelos motivos acima expostos, mormente à míngua de qualquer ato ilícito por parte da ré. (..)"
+Posto isso, nego provimento ao apelo (Sem grifos no original).
+Desse modo, a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, a interpretação de cláusulas contratuais e o reexame do acervo fático-probatório da causa, o que não se admite em âmbito de recurso especial, ante os óbices das Súmulas 5 e 7/STJ.
+Impende registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
