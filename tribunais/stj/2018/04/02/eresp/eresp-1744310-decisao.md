@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto pelos particulares contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+Ação reivindicatória. Terras devolutas do 4º Perímetro de Presidente Prudente, assim declaradas por sentença transitada em julgado. Bens públicos insuscetíveis por usucapião. Decreto-lei nº 14.916/45 que jamais conferiu direito subjetivo a particulares, mas apenas facultou ao Estado tal possibilidade. Má-fé dos ocupantes, pela exploração econômica de terras públicas, desde o trânsito em julgado da sentença na ação discriminatória. Indenização por benfeitorias indevida. Ação procedente. Sentença reformada. Apelação e reexame necessário providos.
+Os embargos de declaração foram rejeitados.
+No recurso especial, os particulares apontam violação aos seguintes dispositivos:
+(a) art. 535, II, do CPC/1973, aduzindo que não foram sanados os vícios apontados nos embargos de declaração;
+(b) arts. 3º, 6º, 267, VI, 515, § 1º, 267, § 3º, e 301, § 4º, do CPC/1973, sustentando que o Estado de São Paulo não possui legitimidade para reivindicar as terras devolutas do caso concreto, na medida em que pertenciam ao Município de Presidente Bernardes;
+(c) art. 486 do CPC/1973, porque a sentença que reconhecera o caráter particular das terras, embora proferida em sede de jurisdição voluntária, jamais poderia ter sido simplesmente ignorada ou desconsiderada por outra decisão;
+(d) arts. 113 e 422 do CC/2002, argumentando o seguinte: (i) à luz da teoria da aparência, a aquisição do imóvel deve ser tida como válida e capaz de produzir em favor do adquirente todos os efeitos do domínio; (ii) aplica-se também a teoria do ato próprio, pois a Fazenda Pública, mesmo tendo ciência das supostas máculas na origem da cadeia dominial, permitiu que se criasse na região a aparência de propriedade privada em relação ao título [NOME], sendo contraditória, portanto, a sua pretensão reivindicatória; e (iii) também é caso de aplicação do instituto da supressio, porque, apesar de ter obtido em 1942 reconhecimento judicial do caráter devoluto da área, nada fez para impedir o registro imobiliário, a sucessão de matrículas etc, permitindo a proliferação da crença de legitimidade do direito de propriedade;
+(e) arts. 490 e 517 do CC/2002; ao argumento de que é despropositado o fundamento de má-fé do acórdão recorrido para afastar a indenização pelas benfeitorias, pois o particular adquiriu imóvel, lavrou escritura e promoveu o registro no cartório de registro de imóveis, sem nenhum impedimento por parte de órgão estatal.
+Houve contrarrazões.
+A inadmissão do recurso especial se deu pelos fundamentos de que não foi demonstrada a violação a dispositivos de lei federal e, no mais, incide ao caso o óbice da Súmula 7/STJ.
+O Ministério Público Federal, em seu parecer, opina pelo desprovimento do recurso.
+É o relatório. Passo a decidir.
+Antes de mais nada, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Tendo em vista o atendimento dos requisitos de admissibilidade do recurso e as peculiaridades do caso concreto, dou PROVIMENTO ao agravo apenas para determinar sua REAUTUAÇÃO como recurso especial.
+Publique-se. Intimem-se.
