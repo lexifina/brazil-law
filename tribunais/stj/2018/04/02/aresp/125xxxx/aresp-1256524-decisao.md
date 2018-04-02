@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. PROVIMENTO DE TRIBUNAL DE JUSTIÇA. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. 2. INTEMPESTIVIDADE DA RÉPLICA. PROTOCOLO ELETRÔNICO OBRIGATÓRIO. SÚMULA 83/STJ. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo interposto por CLIC - CONSTRUÇÃO, LOCAÇÃO, INDÚSTRIA E COMÉRCIO LTDA contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que foi ajuizada ação de cobrança em desfavor da ora insurgida, tendo o pedido sido julgado improcedente.
+Interposta apelação, a Vigésima Quinta Câmara de Direito Privado do Tribunal de Justiça de São Paulo negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 250):
+RECURSO APELAÇÃO CÍVEL LOCAÇÃO DE BENS MÓVEIS ROLOS COMPRESSORES E ESCAVADEIRAS HIDRÁULICAS - AÇÃO DE COBRANÇA - MATÉRIA PRELIMINAR. Nulidade do julgado. Inocorrência. Falta de intimação para regularizar o protocolo da réplica à contestação, efetuada de forma física embora o processo seja eletrônico. Ausência de prejuízo "in casu". Preliminar afastada.
+RECURSO APELAÇÃO CÍVEL LOCAÇÃO DE BENS MÓVEIS ROLOS COMPRESSORES E ESCAVADEIRAS HIDRÁULICAS AÇÃO DE COBRANÇA MÉRITO. Locação de rolos compressores e escavadeiras hidráulicas. Relação negocial incontroversa. 1. Cabe ao locador entregar ao locatário a coisa alugada, com suas pertenças, em estado de servir ao uso a que se destina, e a mantê-la nesse estado pelo tempo do contrato, salvo cláusula expressa em contrário. Exegese do artigo 566, inciso I, do Código Civil. 2. Hipótese na qual a autora deixou de comprovar a entrega dos bens à requerida em condições aptas de uso ( artigo 333, inciso I, do Diploma Processual ). Conjunto probatório, ainda, que demonstrou ter a locadora ciência de que, em momento anterior à propositura da ação, todo o maquinário encontrava-se paralisado. Ação julgada improcedente. Sentença mantida. Recurso de apelação não provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a insurgente apontou a ocorrência de dissídio jurisprudencial e de violação ao art. 437 do CPC/2015, aduzindo que a réplica apresentada seria tempestiva, o que ficou comprovado pelo protocolo físico, não sendo, assim, cabível ao Tribunal de origem desconsiderar os argumentos lá expostos.
+Sustentou que teria sido desrespeitado o artigo 1.221 do Provimento do Tribunal de Justiça n. 21/2014, pois a serventia não teria oportunizado prazo para regularização do protocolo.
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+De início, não é possível o conhecimento do recurso especial fundado na alegação de ofensa a dispositivo de Provimento do Tribunal de Justiça, porquanto circulares, resoluções, portarias, súmulas, instruções normativas, bem como dispositivos inseridos em regimentos internos não se enquadram no conceito de lei federal previsto no artigo 105, inciso III, alínea a, da Constituição Federal.
+Por oportuno:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. MATRÍCULA. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 2º, CAPUT E VI, DA LEI 9.784/99. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+CERTIFICADO DE CONCLUSÃO DE ENSINO MÉDIO. AUSÊNCIA DE REQUISITO, PREVISTO NA PORTARIA INEP 179/2014. APRECIAÇÃO DE OFENSA A PORTARIA. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. DESCABIMENTO. AGRAVO REGIMENTAL IMPROVIDO.
+I. Não há falar em violação ao art. 535, II, do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que o voto condutor do acórdão recorrido apreciou fundamentadamente, de modo completo e exauriente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte agravante.
+II. Em relação ao art. 2º, caput e VI, da Lei 9.784/99, o Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, pelo que incide, na espécie, quanto ao referido ponto, o óbice do enunciado da Súmula 211/STJ.
+III. Na forma da jurisprudência do STJ, "o recurso especial tem por objetivo o controle de ofensa à legislação federal, nos termos do art. 105, III, "a", "b" e "c", da Constituição Federal, e, por isso, não cabe a esta Corte a análise de suposta violação de portarias, instruções normativas, resoluções ou regimentos internos dos tribunais" (STJ, AgRg no AREsp 474.908/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/04/2014).
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1564178/RN, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/03/2016, DJe 17/03/2016)
+Acerca da alegada violação ao art. 437 do CPC/2015, é certo que o Comunicado n. 300/2013 do TJSP tornou obrigatório o peticionamento eletrônico para os feitos de competência da Seção de Direito Privado - Subseção de Direito Privado 3, ações de competência da 25ª a 36ª Câmaras, a partir de 29 de abril de 2013.
+Assim, a protocolização da réplica em formato físico, ainda que dentro do prazo legal, não supre a necessidade de interposição eletrônica do recurso de forma tempestiva, mostrando-se, portanto, escorreita a decisão que reconheceu a sua intempestividade.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APELO NOBRE. INTEMPESTIVIDADE. PROTOCOLO ELETRÔNICO FORA DO PRAZO PREVISTO NO COMUNICADO Nº 300 DA SEÇÃO DE DIREITO PRIVADO - SUBSEÇÃO DE DIREITO PRIVADO 3, DO TJ/SP. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73.
+1. O acórdão recorrido foi publicado aos 22/8/2014, começando o prazo recursal a fluir aos 25/8/2014, exaurindo-se aos 8/9/2014.
+2. O Comunicado nº 300/2013 do TJ/SP instituiu a implantação do processo eletrônico na Seção de Direito Privado - Subseção de Direito Privado 3, ações de competência da 25ª a 36ª Câmaras, aos 15/4/2013. O peticionamento eletrônico tornou-se obrigatório a partir de 29/4/2013.
+3. Embora o protocolo físico do recurso especial tenha ocorrido aos 8/9/2014, não há como se considerar referida data para se aferir a tempestividade do aludido apelo, uma vez que a norma dispondo acerca do peticionamento eletrônico na Corte bandeirante já se encontrava em vigor há mais de um ano, ou seja, desde 29/4/2013.
+4. É intempestivo o recurso especial interposto quando já ultrapassado o prazo recursal de 15 (quinze) dias previsto no art.
+508 do CPC/73.
+5. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado nº 1 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+6. Agravo regimental não provido.
+(AgRg no AREsp 735.629/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/04/2016, DJe 10/05/2016)
+Dessa forma, estando o acórdão vergastado em consonância com a jurisprudência desta Corte Superior, aplica-se, ao caso, o Enunciado n. 83/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 200,00 (duzentos reais).
+Publique-se.
