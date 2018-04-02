@@ -1,0 +1,60 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO ECAD contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+DIREITO DA PROPRIEDADE INTELECTUAL. AÇÃO DE CUMPRIMENTO DE PRECEITO LEGAL. ECAD. RESPONSABILIDADE SOLIDÁRIA DO SÓCIO - EXPRESSA PREVISÃO LEGAL (ART. 110 DA LEI FEDERAL 9.610/1988). UTILIZAÇÃO DE APARELHOS DE TELEVISÃO EM QUARTOS DE HOTEL - INOCORRÊNCIA DE FATO GERADOR DO RECOLHIMENTO DE DIREITOS AUTORAIS QUANDO OS CANAIS OFERECIDOS DECORREM DE PLANO DE TV POR ASSINATURA - PRECEDENTES DO STJ. SENTENÇA REFORMADA.
+1. "A disponibilização de sinal de rádio e televisão dentro dos quartos de um hotel não isenta o estabelecimento do pagamento de direitos autorais, exceto se são utilizados serviços de TV e rádio por assinatura de empresa fornecedora que, ao emitir o sinal dos programas, já tenha efetuado os respectivos pagamentos." (EDcl no REsp 1.044.345/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 4/2/2010, DJe de 11/2/2010)
+2. Recurso de apelação conhecido e parcialmente provido, recurso adesivo prejudicado.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 4º, 28, 29, 341, 68 e 105 da Lei 9.610/98, e Súmula 63 do STJ.
+Nas razões recursais, sustenta a parte recorrente: " Com efeito, os direitos autorais, enquanto direitos individuais fundamentais (CF/88, art. 5o, XXVII e XXVIII), consagram valores reconhecidos nas cartas declaratórias de direitos humanos econômicos, sociais e culturais. Daí que diante da essencialidade de tal direito, sua tutela não pode ser limitada ao ponto de se condicionar a exclusividade de utilização do autor em relação apenas rádio e televisão aberta e excepcionar à isenção a Televisões a Cabo, pois, se tanto uma modalidade quanto a outra recolhem direitos autorais para obtenção de estarem autorizadas (art. 29), ambas as modalidades de transmissão se submetem a obrigação de pagar o direito autoral em face ao contido no art. 31 dà Lei 9.610/98 e por aplicação da própria Súmula 63/STJ, pois seja rádio ou televisão, aberta ou fechada, tiram dessa matéria prima o proveito econômico-patrimonial decorrente das audições públicas utilizadas em locais de freqüência coletiva, como se afigura em estabelecimentos hoteleiros.".
+Contrarrazões ao recurso especial às fls. 1508-1536.
+É o relatório.
+DECIDO.
+2. Inicialmente assevero que não é possível a abertura da instância especial por suposta violação a súmulas, por não se enquadrarem no conceito de lei federal, previsto no art. 105, III, "a", da Constituição Federal.
+3. No tocante à alegada violação dos artigos 4º, 28, 29, 341, 68 e 105 da Lei 9.610/98, cumpre trazer trecho do acórdão recorrido que consignou:
+O regime de recolhimento dos valores devidos no caso análise é dotado de particularidade, que inviabiliza a sua cobrança da empresa hoteleira, quando já efetivada a devida remuneração por parte da fornecedora do sinal de televisão por assinatura. Diferentemente do que ocorre com relação à retransmissão pública com finalidade de implemento da atividade econômica (como no uso dos aparelhos nas áreas comuns do estabelecimento), no caso em particular há apenas o uso de equipamento televisivo em aposento individual, única e exclusivamente destinado ao proveito do cliente que se estabeleça no local por período determinado e não há, neste fato, circunstância ensejadora da remuneração ora exigida. Isto porque, o pagamento devido em razão da utilização individual de "pontos" de tv por assinatura já é regularmente remunerado pela empresa que fornece o produto ao consumidor final, no caso, a Net Serviços, nos termos do expressamente dispõe o contrato acostado aos autos (seq. 45.22).
+(..)
+Em relação à cobrança de direitos autorais no presente caso, observa-se que o Tribunal de origem decidiu em dissonância com a jurisprudência desta Corte Superior que estabelece que "A disponibilidade de aparelhos de rádio e de televisão em quartos de hotel é fato gerador de arrecadação de direitos autorais.(REsp 1685285 / MA , Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/02/2018, DJe 16/02/2018).
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO AUTORAL. NÃO PAGAMENTO. INCIDÊNCIA SOBRE TRANSMISSÃO, EM HOTÉIS, VIA TV POR ASSINATURA. PRETENSÃO INIBITÓRIA.SUSPENSÃO DA EXECUÇÃO. ART. 105 DA LEI DE DIREITOS AUTORAIS. TUTELA ESPECÍFICA. VIABILIDADE. JUROS DE MORA. MARCO INICIAL. EVENTO DANOSO.
+1- Ação ajuizada em 29/8/2012. Recurso especial interposto em 21/9/2016 e concluso ao Gabinete em 7/3/2017.
+2- O propósito recursal é analisar (i) a possibilidade de cobrança de direitos autorais quando houver disponibilização de TVs por assinatura em quartos de hotel; (ii) o cabimento de medida destinada à suspensão da execução de obras musicais no estabelecimento comercial do recorrido; e (iii) o marco inicial da fluência de juros moratórios.
+3- No que concerne à cobrança de direitos autorais, é irrelevante que a execução não autorizada de obras musicais e audiovisuais em locais de frequência coletiva tenha ocorrido a partir da disponibilização de aparelho televisor com equipamento receptor do sinal de TV a cabo ou TV por assinatura. Precedentes.
+4- O pagamento prévio dos direitos autorais, como regra geral, é condição para a execução pública de obras musicais.
+5- A tutela inibitória destinada a impedir a violação de direitos autorais constitui medida expressamente prevista no art. 105 da Lei 9.610/98, não se confundindo com a pretensão de cobrança dos valores devidos e não pagos a esse título. A primeira sanciona a violação da norma, impedindo a continuação ou a repetição do ilícito; a segunda sanciona o dano ou o não cumprimento do dever de pagamento.
+Doutrina.
+6- A jurisprudência do STJ firmou-se no sentido de que os juros de mora, nas hipóteses de violação a direitos autorais, devem remontar à data em que cometida a infração ao direito, sendo certo que o infrator está em mora, em regra, desde o momento em que se utiliza das obras sem a devida autorização.
+7- Recurso especial provido.
+(REsp 1655485/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 19/03/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITOS AUTORAIS. LEI 9.610/98.ECAD. APARELHOS DE RÁDIO E TELEVISÃO DISPONIBILIZADOS EM QUARTOS DE HOTEL. COBRANÇA DEVIDA. BIS IN IDEM. INOVAÇÃO RECURSAL. AGRAVO NÃO PROVIDO.
+1. Nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, a disponibilidade de rádio e televisão em quartos de hotel é fato gerador da arrecadação de direitos autorais. Precedentes.
+2. Fica inviabilizado o conhecimento de tema trazido somente na petição de agravo interno, não debatido pelas instâncias ordinárias, por se ter operado a preclusão.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1565552/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/02/2017, DJe 16/02/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO AUTORAL. COBRANÇA. DISPONIBILIZAÇÃO DE RÁDIOS E TELEVISÕES EM QUARTO DE HOTEL. POSSIBILIDADE.
+1. A jurisprudência da Segunda Seção é firme quanto ao dever de arrecadar direitos autorais decorrentes da disponibilidade de rádios e televisões em quartos de hotéis. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp 1573613/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/04/2016, DJe 18/04/2016)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITOS DO AUTOR. CUMPRIMENTO DOS REQUISITOS DE ADMISSIBILIDADE RECURSAL. MÉRITO. EXECUÇÃO DE MÚSICA EM QUARTO DE HOTEL. COBRANÇA. POSSIBILIDADE. MATÉRIA PACIFICADA PELA SEGUNDA SEÇÃO DO STJ. DECISÃO MONOCRÁTICA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO NÃO PROVIDO.
+1. "A disponibilidade de rádios e televisão em quarto de hotel é fato gerador da arrecadação de direitos autorais" (EREsp 1025554/ES, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/10/2014, DJe 22/10/2014).
+2. Agravo regimental não provido.
+(AgRg no REsp 1277108/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/08/2015, DJe 25/08/2015)
+"DIREITOS AUTORAIS. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. ECAD. TV E RÁDIO DISPONIBILIZADOS EM QUARTOS DE HOTEL. ARRECADAÇÃO. PRECEDENTES.
+1. Nos termos da jurisprudência firmada no âmbito da Segunda Seção do STJ, a disponibilidade de rádios e televisão em quartos de hotel é fato gerador de arrecadação de direitos autorais. Precedentes.
+2. Embargos de divergência providos para dar parcial provimento ao recurso especial."
+(EREsp 1025554/ES, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 08/10/2014, DJe 22/10/2014)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. TELEVISORES E RÁDIOS. DISPONIBILIZAÇÃO EM QUARTOS DE HOTÉIS, MOTÉIS OU POUSADAS. EXPLORAÇÃO DE OBRAS ARTÍSTICAS. COBRANÇA DE DIREITOS AUTORAIS. POSSIBILIDADE. SÚMULA N. 83/STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO DESPROVIDO.
+1. É possível a cobrança de direitos autorais em razão da disponibilização de televisores e rádios em quartos de hotéis, motéis ou pousadas, por envolver exploração de obras artísticas.
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" - Súmula n. 83/STJ.
+3. Decisão agravada mantida por seus próprios fundamentos.
+4. Agravo regimental desprovido."
+(AgRg nos EDcl no REsp 1305487/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/08/2013, DJe 30/08/2013)
+"PROCESSUAL CIVIL E CIVIL. AGRAVO NO RECURSO ESPECIAL. DIREITOS AUTORAIS. HOTEL. COBRANÇA. POSSIBILIDADE.
+- A 2ª Secção deste Superior Tribunal já decidiu serem devidos direitos autorais pela instalação de televisores dentro de quartos de hotéis ou motéis.
+- Agravo não provido."
+(AgRg nos EDcl nos EDcl no AgRg no REsp 1145185/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2012, DJe 19/11/2012)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITOS AUTORAIS. QUARTOS DE HOTEL. TV POR ASSINATURA. COBRANÇA. LEI 9.610/98. LEGALIDADE. INEXISTÊNCIA DE BIS IN IDEM. FATOS GERADORES DIVERSOS.
+1. De acordo com o entendimento consolidado nesta Corte, a disponibilização de aparelhos radiofônicos e televisores em quartos de hotéis, motéis, clínicas e hospitais autoriza a cobrança dos direitos autorais pelo ECAD das obras musicais, lítero-musicais e fonogramas por meio deles executadas.
+2. "Para fins de reconhecimento da possibilidade da cobrança, é irrelevante que a execução não autorizada de obras musicais e audiovisuais em locais de frequência coletiva tenha se dado a partir da disponibilização de aparelho televisor com equipamento receptor do sinal de TV a cabo ou TV por assinatura" (REsp 1.589.598/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/06/2017, DJe de 22/06/2017) 3. "Na cobrança de direitos autorais por suposta utilização não autorizada de obra artística, não se pode confundir a obrigação da empresa exploradora do serviço de hotelaria com a obrigação da empresa prestadora dos serviços de transmissão de sinal de TV por assinatura, pois resultam de fatos geradores distintos, a saber: (i) a captação de transmissão de radiodifusão em locais de frequência coletiva (quartos de hotel) e (ii) a radiodifusão sonora ou televisiva em si. Daí porque não há falar, em casos tais, na ocorrência de bis in idem." (REsp 1.589.598/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/06/2017, DJe de 22/06/2017) 4. Agravo interno não provido.
+(AgInt no REsp 1639215/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+4. Ante o exposto, conheço do agravo e dou provimento ao recurso especial a fim de condenar o recorrido ao pagamento de direitos autorais relativos à disponibilização de televisores e rádios dentro dos quartos de hotéis, devendo a quantia ser apurada em liquidação de sentença.
+Por consequência, ficam invertidos os ônus da sucumbência.
+Publique-se. Intimem-se.
