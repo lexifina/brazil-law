@@ -1,0 +1,94 @@
+DECISÃO
+[NOME] estaria sofrendo constrangimento ilegal em decorrência de acórdãos proferidos pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0008287-16.2015.8.26.0619.
+Nas razões deste mandamus, a defesa aponta as seguintes ilegalidade: a) fixação da pena-base acima do mínimo sem a devida motivação concreta. ; b) violação da Súmula n. 443 do STJ e c) imposição do regime fechado, violadas as Súmulas n. 440 do STJ e 718 e 719, essas do STF.
+Requer, liminarmente e no mérito, a redução da pena e a imposição de regime mais brando.
+Não houve pedido a liminar.
+O Ministério Público Federal, em seu parecer de fls. 112-120, opinou pelo não conhecimento do writ.
+Decido.
+I. Pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime e o comportamento da vítima.
+Ao dosar a pena na primeira fase, o Juízo singular valorou negativamente as circunstâncias e as consequências do delito, verbis:
+Na primeira fase, tendo em conta as circunstâncias do crime, tais como a invasão da residência durante a madrugada, as ameaças de morte perpetradas na presença de uma criança de 10 anos, o fato de os réus terem acariciado a vítima, somada as consequências do crime, pelo fato de terem as vítima suportado enorme prejuízo financeiro, a vítima Phillip afirmou que sequer tinha roupas para trabalhar, pois lhe subtraíram tudo e terem que mudar de endereço pelo trauma, aumento a pena base em 1/3, fixando a reprimenda em 05 (cinco) anos e 04 (quatro) meses de reclusão e pagamento de 13 (treze) dias-multa (fl. 29, destaquei).
+O Tribunal local confirmou a dosimetria e, para tanto, fez as seguintes considerações:
+Trata-se de roubo praticado no interior de residência, em horário noturno (23h30m), que ostenta grau de censurabilidade maior do que aquele perpetrado em via pública. Ademais, foi praticado na presença de uma criança de dez anos de idade e em face de mulher gravida, a qual foi covardemente "acariciada" durante a empreitada. Não bastasse, as vítimas sofreram significante prejuízo, material e moral. Tiveram praticamente todos seus bens subtraídos (sequer escapou o chinelo que Philipp utilizava, bem como roupas do varal e cortina da sala) e, com trauma e com medo, se viram obrigadas a mudar de residência, rompendo contrato de locação (fls. 52-53, grifei)
+Sob tais premissas, entendo que as instâncias de origem destacaram, devidamente, elementos concretos que evidencia maior reprovabilidade da conduta do agente, tendo em vista que o réu cometeu o delito dentro da residência das vítimas, em período noturno, com emprego de armas e na companhia de outros três agentes (conforme denúncia). Além disso, um dos agentes acariciou uma das vítimas, que estava grávida, o que, ao meu ver, expressa maior reprovabilidade na conduta do agente, de modo a permitir o aumento perpetrado na primeira fase por essa vetorial.
+Ilustrativamente:
+ ..
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Mostra-se válido o aumento da pena-base, tendo em vista a culpabilidade do réu considerada em seu desfavor, porque o anúncio de assalto fora precedido de passagem pelos réus, pelo veículo da ofendida que se encontrava em companhia da filha criança de nove anos, o que não afastou dos acusados o intento violento, evidenciando, assim, especial reprovabilidade, na medida em que demonstra frieza, configurando justificativa válida para o desvalor.
+Precedentes.
+3. Correta a valoração negativa das consequências do delito, diante do fato de que, em razão do trauma sofrido, foi necessário o encaminhamento de uma das vítimas a tratamento psicológico, fato que desborda dos inerentes ao delito, configurando motivação apta a justificar o aumento da pena-base. Precedentes.
+4. Habeas corpus não conhecido.
+(HC n. 158.555/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 7/8/2015, destaquei).
+ ..
+1. Mostra-se devido o aumento na pena-base quando apontados elementos concretos que evidenciam a desfavorabilidade da circunstância judicial da culpabilidade, haja vista a frieza demonstrada no cometimento do delito, a premeditação e o planejamento antecipado da ação criminosa.
+2. Constatando-se a ocorrência de circunstâncias reveladoras de uma gravidade acentuada - roubo a residência cometido por quatro agentes, munidos com arma de fogo, em que foi indevidamente utilizada uma viatura do Corpo de Bombeiros, bem como fardas da Polícia Militar, com a participação de membros da corporação, sendo que tanto o porteiro quanto uma das moradoras da unidade condominial foram amarrados e amordaçados - que denotam efetiva periculosidade do paciente, não há constrangimento ilegal quando a sua reprimenda foi elevada, na terceira etapa da dosimetria, em fração superior à mínima legalmente prevista.
+3. Não obstante a imposição de reprimenda inferior a 8 anos de reclusão, verifica-se que o regime fechado para o início do cumprimento da sanção reclusiva se encontra devidamente justificado com base nas peculiaridades do caso sub examine, haja vista a desfavorabilidade de circunstância judicial e a gravidade concreta do delito de roubo perpetrado.
+4. Ordem denegada.
+(HC n. 182.082/SP, Rel. Ministro Sebastião Reis Junior, 6ª T., DJe 29/6/2012, destaquei).
+De igual modo, acerca das consequências, entendo idônea a motivação apresentada, pois o Magistrado singular - corroborado pelo Tribunal local - registrou o alto prejuízo material suportado pelas vítimas, não sem mencionar o trauma psicológico experimentado, que os obrigou a mudar de endereço.
+Conquanto esta Corte entenda que o fato de os objetos não serem totalmente recuperados não pode ensejar o recrudescimento da pena-base (pois a violação do patrimônio alheio é inerente ao tipo penal), neste caso ficou expresso o alto valor dos bens roubados, o que gerou prejuízo à ofendida. Logo, nos termos da jurisprudência do STJ, a motivação lançada é idônea, nos termos do seguinte precedente:
+AGRAVO REGIMENTAL. HABEAS CORPUS. CONDENAÇÃO POR ROUBOS MAJORADOS. QUADRILHA. PENA-BASE. CONSEQUÊNCIAS E CIRCUNSTÂNCIAS DO DELITO. GRANDE PREJUÍZO ÀS VÍTIMAS. AUDÁCIA DA AÇÃO CRIMINOSA. ELEMENTOS QUE JUSTIFICAM A EXASPERAÇÃO.
+1. Admite-se a exasperação da pena-base pela valoração negativa das consequências do delito com base no valor do prejuízo sofrido pela vítima.
+2. In casu, considerando os altos valores subtraídos pelo grupo criminoso, mostra-se adequada a elevação da sanção inicial.
+3. A forma audaciosa e o grau de coordenação com que praticados os delitos patrimoniais demonstram a maior reprovabilidade social das condutas e justificam o julgamento desfavorável das circunstâncias do crime.
+ ..
+(AgRg no HC n. 184.814/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 21/11/2013, destaquei).
+Em relação à tese de que o montante de aumento, na primeira etapa da dosimetria, teria sido desproporcional, ressalto que a jurisprudência uníssona das Turmas que compõem a Terceira Seção entende que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, decidir o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, é proporcional a penas-base estabelecida ao paciente, diante da valoração negativa de duas circunstâncias judiciais, devidamente motivadas - 1 ano e 4 meses acima do mínimo legal -, se considerados os patamares mínimo e máximo previstos para o tipo penal que incide na espécie - de 4 a 10 anos de reclusão.
+Portanto, não identifico constrangimento ilegal na primeira etapa da dosimetria da pena.
+Ilustrativamente:
+ ..
+3. É proporcional a pena-base estabelecida aos pacientes, diante da valoração negativa de três circunstâncias judiciais - 3 anos acima do mínimo legal -, se considerados os patamares mínimo e máximo previstos para o tipo penal que incide na espécie - de 7 a 15 anos de reclusão.
+4. O Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. A doutrina e a jurisprudência têm se orientado no sentido de que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+ ..
+6. Ordem não conhecida. Habeas corpus concedido, de ofício, para reduzir as penas impostas aos pacientes.
+(HC n. 187.569/MG, Rel. Ministro Rogerio Schietti, 6ª T., DJe 11/3/2016, destaquei).
+II. Súmula n. 443 do STJ - não violação
+O Juiz de primeiro grau, ao aplicar a fração de 1/2, na terceira fase da dosimetria, assim consignou:
+No caso dos autos, a conduta do réu é merecedora de maior grau de reprovação, isso porque, para além de exercer a grave ameaça por meio do emprego de arma de fogo o que por si só já ensejaria a aplicação da causa de aumento de pena em seu patamar mínimo, entendeu por bem o réu agir, para melhor garantir o sucesso de sua empreitada criminosa, na companhia de outros agentes, o que certamente representou maior grau de intimidação das vítimas, além de possibilitar a divisão de tarefas, o que, inclusive, garantiu o sucesso da empreitada criminosa, com a afetação de bens jurídicos patrimoniais da vítima. Houve ainda a restrição à liberdade de locomoção das vítimas (fl. 30).
+A Corte de origem confirmou a dosimetria e, para tanto, fez o seguinte registro:
+De fato, deve-se considerar que justifica particular exacerbação do quantum do aumento de pena o fato de serem quatro os assaltantes, terem sido utilizadas duas armas de fogo (de alto poder vulnerante e intimidador), e ter havido restrição das vítimas por cerca de uma hora (fls. 53-54, destaquei).
+Dos trechos anteriormente transcritos, a meu ver, é inegável a satisfatória motivação do ato decisório com lastro em dados concretos. Isso porque a menção de que o delito foi cometido por quatro agentes, com emprego de duas armas de fogo e restrição da liberdade das vítimas por uma hora, demonstra ineludivelmente, a maior gravidade do comportamento ilícito. Justificada, portanto, de maneira idônea, o aumento da pena na referida fração.
+Assim, não se trata de caso em que a simples gravidade das causas de aumento da pena, tomada abstratamente, é utilizada como fundamentação para a exasperação da reprimenda, em violação do enunciado da Súmula n. 443 do STJ, como apontado pela defesa, razão pela qual não verifico qualquer ilegalidade na decisão judicial que aplicou a fração de 3/8 para a majoração da pena, na terceira fase da dosimetria, ante a presença de motivação concreta.
+Ilustrativamente:
+ ..
+5. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Súmula n. 443 do STJ.
+6. O aumento da pena, no montante de 1/2, foi baseado em dado fático suficiente a indicar a gravidade concreta do crime - intensidade da violência praticada contra as vítimas.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena imposta.
+(HC n. 211.591/MS, de minha relatoria, 6ª T., DJe 17/3/2016, destaquei).
+ ..
+- Na hipótese dos autos, o aumento operado em razão das majorantes, em patamar acima do mínimo legal, se deu com base em circunstâncias concretas - extrema violência exercida contra as vítimas - e não por simples critério numérico.
+Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 725.452/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 9/12/2015, destaquei).
+A propósito, cumpre esclarecer que, na hipótese, o acréscimo de argumentação pela Corte de origem não se deu em prejuízo do réu. Sobre a questão, destaco que a proibição da reformatio in pejus, derivação da regra mais ampla do favor rei (LOZZI, Gilberto. Favor rei e processo penale. Milano, Giuffr , 1968, p. 115), traduz-se na vedação a que, em recurso interposto exclusivamente pelo acusado, se agrave a situação do recorrente, em relação à decisão impugnada, aceita pelo acusador. Proíbe-se, outrossim, a reformatio in pejus indireta, para impedir que, nos casos em que a decisão impugnada pelo acusado é anulada pelo tribunal, a nova decisão venha a ser mais gravosa aos interesses da defesa. Esse princípio, no Brasil, embora seja positivado no art. 617 do Código de Processo Penal, não encontra previsão constitucional.
+Destarte, a proibição de reforma para pior garante ao recorrente o direito de não ver sua situação agravada, direta ou indiretamente, mas não obsta, por sua vez, que o julgador, para dizer o direito - exercendo, portanto, sua soberana função de jurisdictio - encontre fundamentos e motivação devida, respeitada, à evidência, a imputação deduzida pelo órgão de acusação e os limites da pena imposta na origem.
+Logo, em que pese a insurgência ora deduzida, noto que o acórdão impugnado consignou as referidas circunstâncias, as quais demonstram, ineludivelmente, a maior gravidade do comportamento ilícito, o que justifica, de maneira idônea, a imposição da referida fração de aumento.
+III. Regime
+O Juízo de primeiro fixou o regime mais gravoso, dadas as "peculiaridades do caso presente" (fl. 30).
+A Corte local, ao apreciar o recurso defensivo, registrou que o delito foi praticado "no interior de residência, em concurso de quatro agentes, um deles menor de idade, mediante grave ameaça exercida com o emprego de armas de fogo, e com restrição de liberdade das vítimas por cerca de uma hora" (fl. 55).
+Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+Todavia, no caso dos autos, diante das circunstâncias judiciais desfavoráveis (circunstâncias e consequências) - no caso, bem salientadas pelas instâncias de origem, ao dosar a pena-base, concluo não haver violação do art. 33, § 2º, do Código Penal, sendo correta a aplicação do regime fechado.
+Ademais, foi apontado dado fático suficiente a indicar a gravidade concreta do crime - na espécie, a comparsaria de quatro agentes, um deles adolescente, o emprego de duas armas de fogo, além da restrição da liberdade das vítimas -, ainda que o quantum da pena seja inferior a oito anos (art. 33, § 3º, do CP).
+Ilustrativamente:
+ ..
+5. De acordo com a jurisprudência desta Corte, "a elevação da pena-base encontra-se devidamente justificada, a exemplo das consequências do delito, haja vista o elevado prejuízo causado à vítima, mostrando-se a reprimenda, tal qual fixada no acórdão, proporcional às circunstâncias concretas do caso" (HC n. 342.327/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 8/6/2016).
+6. Há ilegalidade quando não é apontado nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidencie real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido.
+7. Diante de circunstâncias judiciais desfavoráveis - no caso, as consequências e os antecedentes -, é cabível a fixação do regime fechado, aos condenados não reincidentes, para o início do cumprimento da pena superior a 4 anos e que não exceda a 8 anos, em conformidade com o § 3º do art. 33 do Código Penal.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir as penas dos pacientes.
+(HC n. 370.412/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/10/2016, destaquei).
+ ..
+4. O estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito, evidenciada pelo seu modus operandi, pois houve emprego de violência intensa na senda criminosa, já que a arma de fogo permaneceu apontada para a cabeça de uma das vítimas, o que exige resposta estatal superior, dada a maior reprovabilidade da conduta, em atendimento aos princípios da individualização da pena e da proporcionalidade.
+5. Habeas corpus não conhecido. Ordem concedida de ofício, a fim de reduzir as penas para 5 (cinco) anos e 4 (quatro) meses de reclusão e 13 (treze) dias-multa, ficando mantido inicialmente o regime prisional fechado.
+(HC n. 366.552/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 09/11/2016, destaquei)
+Em que pese a insurgência ora deduzida, noto que o acórdão impugnado consignou as referidas circunstâncias, as quais demonstram, ineludivelmente, a maior gravidade do comportamento ilícito, o que justifica, de maneira idônea, a fixação do regime fechado.
+Não se trata, portanto, de caso em que a simples gravidade abstrata do delito cometido é utilizada como fundamentação para a imposição de regime prisional mais gravoso do que o permitido em razão da sanção aplicada, em violação dos enunciados das Súmulas n. 440 do STJ, 718 e 719 do STF, como alegado pela defesa.
+Dessa forma, não visualizo o apontado constrangimento ilegal, ante a presença de motivação concreta para a manutenção do regime mais gravoso.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
