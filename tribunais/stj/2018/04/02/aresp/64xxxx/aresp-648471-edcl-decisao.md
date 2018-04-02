@@ -1,0 +1,34 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO QUANTO AO TERMO INICIAL DOS JUROS MORATÓRIOS EM RELAÇÃO À INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. EMBARGOS ACOLHIDOS, COM EFEITOS INFRINGENTES, PARA SE CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL DA AUTORA.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] à decisão monocrática assim ementada (e-STJ, fl. 2.815):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE MANIFESTAÇÃO QUANTO AO RESSARCIMENTO DOS GASTOS COM EMPREGADA DOMÉSTICA E BABÁ NO PERÍODO ENTRE A DISTRIBUIÇÃO DA AÇÃO E A PROLAÇÃO DA SENTENÇA. REEXAME DE PROVA. SÚMULA 7/STJ. JUROS DE MORA. FALTA DE INTERESSE RECURSAL. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+Em suas razões, sustenta a embargante que há omissão na decisão agravada, alegando que a decisão embargada deixou de se manifestar quanto à fixação do termo inicial da contagem dos juros de mora na indenização do dano moral e estético - e não material (e-STJ, fls. 2.821-2.825).
+Busca, assim, que seja sanada a indicada omissão.
+Brevemente relatado, decido.
+De fato, compulsando os autos, constata-se que realmente houve omissão com relação ao termo inicial dos juros de mora referentes à indenização por danos morais e estéticos, uma vez que o Tribunal de origem fixou a data da sentença como termo inicial, conforme consta à fl. 1.923 (e-STJ).
+Quanto aos juros de mora na condenação por danos morais, consoante a orientação jurisprudencial assente nesta Corte, o termo a quo é a citação ou o evento danoso, nos casos de responsabilidade contratual ou extracontratual, respectivamente.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. INDENIZAÇÃO POR DANOS MORAIS. INFECÇÃO HOSPITALAR. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL DOS JUROS MORATÓRIOS. INEXISTÊNCIA DOS VÍCIOS DO ART. 535 DO CPC. CARÁTER INFRINGENTE DA PRETENSÃO. FINALIDADE INCOMPATÍVEL COM A NATUREZA DO RECURSO.
+1. Os embargos de declaração visam aclarar obscuridade, eliminar contradição ou suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide. Ausentes essas hipóteses, não prospera a irresignação recursal.
+2. A atribuição de efeitos infringentes a embargos declaratórios é medida excepcional, cabível tão somente nas situações em que, sanada a omissão, contradição ou obscuridade, a alteração do julgado surja como consequência natural da correção efetuada.
+3. Tratando-se de reparação de dano moral, os juros de mora incidem desde o evento danoso, em casos de responsabilidade extracontratual (Súmula n. 54/STJ), e desde a citação da parte ré, no caso de responsabilidade contratual.
+4. Embargos de declaração rejeitados.
+(EDcl nos EREsp n. 903.258/RS, Relator Ministro ARI PARGENDLER, Relator p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 6/5/2015, DJe 11/6/2015 - sem grifo no original).
+In casu, a autora foi vítima de atropelamento, tratando-se de relação extracontratual, portanto, os juros de mora incidem a partir do evento danoso.
+A propósito:
+RECURSO ESPECIAL. DIREITO CIVIL. PROCESSUAL CIVIL. ARTS. 165, 458 E 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. DANOS MORAIS E ESTÉTICOS. ATROPELAMENTO. COLETIVO. PRESTADORA DE SERVIÇO PÚBLICO. TRANSPORTE DE PASSAGEIROS. PRESCRIÇÃO QUINQUENAL. LEI Nº 9.494/1997. VÍTIMA. MENOR IMPÚBERE. INÍCIO DO PRAZO. ARTS. 167, I, DO CC/1916 E 198, I, DO CC/2002. MAIORIDADE RELATIVA. VERBA INDENIZATÓRIA. DEMORA PARA AJUIZAMENTO DA DEMANDA. INFLUÊNCIA NO ARBITRAMENTO. RAZOABILIDADE. JUROS DE MORA. TERMO INICIAL. SÚMULA Nº 54/STJ.
+1. Ação indenizatória ajuizada em junho de 2009 por vítima de atropelamento ocorrido em julho de 1991 provocado por condutor de ônibus de propriedade da empresa ré - prestadora de serviço público de transporte de passageiros. Autora que, à época do evento danoso, contava com 2 (dois) anos de idade, e que foi acometida de severas lesões corporais, incapacidade total temporária e dano estético grave e permanente.
+2. Recurso especial interposto pela empresa ré objetivando ver reconhecida a prescrição da pretensão autoral ou, alternativamente, reduzidas as verbas indenizatórias fixadas na origem (no valor de R$ 20.000,00  vinte mil reais  pelo dano estético e de R$ 15.000,00  quinze mil reais  pelos danos morais suportados pela vítima do acidente) e fixada a data em que proferida a sentença como termo inicial de incidência dos juros moratórios.
+3. Consoante a jurisprudência desta Corte, o prazo de prescrição da pretensão indenizatória em desfavor de pessoa jurídica de direito privado prestadora de serviços públicos é quinquenal, a teor do que expressamente dispõe o art. 1º-C da Lei nº 9.494/1997.
+4. A prescrição não corre contra os absolutamente incapazes (arts.
+167, I, do CC/1916 e 198, I, do CC/2002). Por isso, em se tratando de ação indenizatória promovida por vítima que, à época do acidente objeto da lide, contava com apenas 2 (dois) anos de idade, o cômputo do prazo prescricional só tem início na data em que ela atinge a maioridade relativa.
+5. No caso, em que pese o atropelamento da então menor ter ocorrido em 13/7/1991, o prazo prescricional só começou a correr em 8/7/2004, data em que ela completou 16 (dezesseis) anos de idade. Inequívoca, portanto, a não ocorrência da prescrição da pretensão autoral, visto que a demanda foi proposta em 17/6/2009, antes, portanto, de esvaído o prazo prescricional quinquenal, que teria como termo final a data de 8/7/2009.
+6. A Corte Especial firmou a orientação de que "a demora na busca da reparação do dano moral é fator influente na fixação do quantum indenizatório, a fazer obrigatória a consideração do tempo decorrido entre o fato danoso e a propositura da ação" (EREsp nº 526.299/PR - DJe de 5/2/2009).
+7. A fixação da indenização em patamar relativamente baixo se comparada a casos análogos e a inexistência de elementos que indiquem que o fator tempo não teria sido levado em consideração pela Corte local desautorizam a pretendida redução das verbas indenizatórias, tanto por danos morais quanto por danos estéticos, arbitradas na espécie.
+8. Nos termos da Súmula nº 54/STJ, "em caso de responsabilidade extracontratual, os juros moratórios fluem a partir do evento danoso".
+9. Recurso especial não provido.
+(REsp n. 1.567.490/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/9/2016, DJe 30/9/2016).
+Portanto, o acórdão recorrido, nesse ponto, julgou em desconformidade com a jurisprudência do STJ.
+Ante o exposto, acolho os embargos, com efeitos infringentes, para, sanando a omissão apontada, conhecer do agravo e dar parcial provimento ao próprio recurso especial interposto pela autora a fim de determinar que, relativamente à indenização por danos morais e estéticos, os juros moratórios incidam desde o evento danoso.
+Publique-se.
