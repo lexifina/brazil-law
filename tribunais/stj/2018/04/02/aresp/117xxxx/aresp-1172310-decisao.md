@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo, interposto por NEW BUSINESS COMÉRCIO DE EQUIPAMENTOS PARA INFORMÁTICA LTDA - ME e OUTRO, em 25/11/2015, mediante o qual se impugna decisão indeferitória de seu Recurso Especial, esse tomado de acórdão, promanado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Anulatória de débito fiscal - ICMS - Inidoneidade - Os efeitos devem ser posteriores à publicação oficial da declaração de inidoneidade - Ausência, entretanto, de documentos hábeis exigidos pelo perito judicial a comprovar a comercialização dos produtos - Recurso não provido" (fl. 2.521e).
+Embargos de Declaração não acolhidos (fls. 2.540/2.544e).
+No Recurso Especial, aviado com base na alínea a do permissivo constitucional, alega-se violação aos arts. 334, 359, 420 e 535, II, do CPC/73.
+Sustenta-se, em síntese, que:
+"(..) a exibição dos livros e documentos fiscais e contábeis, retidos pelo Fisco quando do encerramento da fiscalização, e objeto de pedido de exibição nos moldes dos artigos 355 e seguintes do Código de Processo Civil, era questão prejudicial à realização da prova pericial igualmente requerida e deferida, ante a indispensabilidade dos mesmos para o exame técnico-contábil.
+Com efeito, os livros e documentos fiscais/contábeis objeto de apreensão pelo Fisco estadual quando da lavratura dos autos de infração impugnados consubstanciavam o objeto da perícia, razão pela qual, no momento adequado, foi requerida e deferida a produção de prova de exibição de documento ou coisa, nos moldes dos artigos 355 do Código de Processo Civil.
+(..)
+Frise-se que por diversas vezes os Recorrentes peticionaram reiterando a exibição dos livros, que já havia sido deferida, demonstrando a imprescindibilidade dos mesmos para a realização da perícia.
+Nada obstante a imprescindibilidade dos livros, fato inclusive confirmado pelo Sr. [NOME], foi produzido pseudo-laudo, havendo inversão tumultuária dos atos e termos do processo, condução temerária da instrução, tolhendo-se o direito dos agravantes do direito mínimo de ser intimado dos atos procedimentais.
+Houvesse efetivo respeito ao devido processo legal, contraditório e ampla defesa, impor-se-ia ao MM. Magistrado "a quo", ao lado da praxe de não intimar a agravante dos termos e atos do processo (questão objeto de mais de um Agravo), proceder à instrução processual nos moldes em que requerida e deferida, qual seja, realizada a exibição de livros e documentos, objeto que seriam da perícia, determinar a realização dessa prova técnica, respeitado o procedimento dos artigos 420 e seguintes do Código de Processo Civil, com intimação prévia dos documentos e facultando-se às parte o direito de formular quesitos, nomear assistente para acompanhar os trabalhos e, ao final, manifestar-se sobre o laudo.
+(..)
+Assim, em atendimento ao devido processo legal, não atendido o ônus de exibir o documento, impor-se-ia ao Magistrado proceder conforme o artigo 359 do Código de Processo Civil, restando, assim, prejudicada a prova pericial, por ausente o objeto do exame técnico-contábil, bem assim por já se ter, em razão da contumácia, a comprovação das alegações da agravante.
+(..)
+Não bastasse, a prova pericial, indevidamente realizada, subverteu a presunção de boa-fé, partindo do pressuposto que as operações eram irregulares e que caberia ao contribuinte, a quem favorecia a presunção de boa-fé, provar que não agiu de má-fé, produzindo prova negativa, ônus odioso e vedado na doutrina processual por inalcançável.
+Conforme exaustivamente comentado e demonstrado, os recorrente sempre primaram pela mais correta escrituração, de modo que todas as notas fiscais, tanto de compra quanto de venda (entradas e saídas) foram escrituradas de modo a permitir a precisa apuração do ICMS, resultante dos créditos e débitos lançados.
+(..)
+Registre-se, aqui, que houve a efetiva circulação da mercadoria, que importou o recolhimento, pela recorrente, de ICMS.
+As notas fiscais de saída, portanto, de venda, emitidas pela 1ª Recorrente, na forma como demonstrado nos quadros abaixo, demonstram de forma definitiva a efetiva circulação das mercadorias: (..)" (fls. 2.554/2.563e).
+Aduz-se, ainda, que o acórdão recorrido padeceria de omissão, porquanto teria deixado de examinar a alegação de que, uma vez desatendida a ordem judicial de exibição de documento, pelo Fisco paulista, deveriam ser considerados verdadeiros os fatos narrados na petição inicial.
+Requer-se, por fim, "a admissão do presente Recurso Especial e, após seu processamento regular, o provimento da pretensão recursal perante o Colendo Superior Tribunal de Justiça senão para determinar-se anulação do v. Acórdão recorrido, por contrariar o disposto no art. 535, CPC, para reformá-lo, restabelecendo-se assim os primados da Justiça" (fl. 2.579e).
+Contrarrazões às fls. 2.620/2.621e.
+Recurso Especial inadmitido (fls. 2.885/1.886e), com fundamento na inocorrência de omissão e na Súmula 7/STJ, o que ensejou a interposição de Agravo (fls. 2.624/2.636e).
+Contraminuta às fls. 2.656/2.658e.
+O presente recurso não merece prosperar.
+Não há de se cogitar de omissão, no acórdão recorrido.
+Dessarte, a questão referente ao ônus processual da falta de juntada dos livros fiscais da empresa foi assim expressamente analisada e decidida, pelo Tribunal de origem:
+"Ocorre que foi determinada a perícia judicial contábil, e, como bem observou a sentença, a Apelante "deixou de juntar os documentos indispensáveis à comprovação, conforme requerido pelo expert judicial, quais sejam: Livro de Apuração do ICMS, Notas Fiscais de Entrada, Comprovante de Pagamento das Notais Fiscais de Entrada, Notas Fiscais de Saída" (fl. 1.630).
+Por sua vez, o Fisco informa às fls. 1.488 que "não há registro de que os livros fiscais foram apreendidos, logo, depreende-se que os mesmos foram manuseados e ao final, devolvidos ao contribuinte, como, aliás, é praxe em trabalhos dessa natureza.
+Assim, não havia como a perícia judicial efetuar o cotejo das informações com os livros fiscais, não havendo a prova dos fatos constitutivos do direito da Apelante, ou seja, demonstração de boa-fé nas transações efetuadas" (fls. 2.523/2.524e).
+No mais, impossível a revisão do juízo de fato, exarado pela Corte a quo, no sentido de que não está caracterizada a boa-fé da pessoa jurídica, bem como de que inexistiu o negócio jurídico de compra e venda, porquanto demandaria inevitável incursão no conjunto probatório dos autos, providência vedada pela Súmula 7/STJ.
+Nesse sentido, as seguintes ementas ilustrativas:
+"TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. CRÉDITOS DE ICMS. APROVEITAMENTO. NOTAS FISCAIS POSTERIORMENTE DECLARADAS INIDÔNEAS. IMPOSIÇÃO DE MULTA. COMPROVAÇÃO DE BOA-FÉ DO ADQUIRENTE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Concluindo a Corte de origem que não ficou demonstrada a veracidade da compra e venda efetuada, o acolhimento da tese recursal de boa-fé da adquirente demandaria inafastável incursão na seara fática dos autos, inviável na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno não provido" (STJ, AgInt no AREsp 1.068.018/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 30/06/2017).
+"TRIBUTÁRIO. CRÉDITOS DE ICMS. APROVEITAMENTO. NOTAS FISCAIS POSTERIORMENTE DECLARADAS INIDÔNEAS. COMPROVAÇÃO DA REALIZAÇÃO DA OPERAÇÃO COMERCIAL. SÚMULA 7/STJ.
+1. A viabilidade de creditamento do ICMS pelo adquirente de boa-fé em decorrência de posterior declaração de inidoneidade das notas fiscais demanda que o contribuinte efetivamente demonstre, pelos registros contábeis, que a operação de compra e venda efetivamente se realizou, cujo ônus da prova incumbe exclusivamente a este.
+2. Concluindo a Corte de origem que não ficou demonstrada a veracidade da compra e venda efetuada, o acolhimento da tese recursal de que a perícia existente nos autos comprovam a efetiva realização da operação comercial demandaria inafastável incursão na seara fática dos autos, inviável na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+Agravo regimental improvido" (STJ, AgRg no REsp 1.355.768/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 10/02/2014).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
