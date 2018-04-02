@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER. FORNECIMENTO DE MEDICAMENTO. MULTA DIÁRIA (ASTREINTE). REDUÇÃO DE VALOR. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Não é cabível, na via estreita do recurso especial, a revisão do montante fixado a título de multa cominatória (astreintes), ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7 do STJ.
+2. Somente em casos excepcionais, quando a quantia arbitrada se mostrar exorbitante ou insignificante, em flagrante violação dos princípios da razoabilidade e da proporcionalidade, admite-se rever o valor da multa diária aplicada pelas instâncias ordinárias.
+3. Hipótese em que o valor estabelecido a titulo de astreintes não se mostra flagrantemente desproporcional ou exorbitante a ponto de afastar o óbice estampado na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto pelo ESTADO DE PERNAMBUCO contra decisão de minha lavra, em que conheci do agravo para não conhecer do recurso especial, em face do disposto na Súmula 7 do STJ (e-STJ fls. 333/336).
+Sustenta o agravante, apontando jurisprudência sobre o tema, que o Superior Tribunal de Justiça tem mitigado o referido óbice para alterar o valor das astreintes, afirmando que a questão sub judice não demanda a análise de matéria fático-probatória.
+Quanto ao mais, reitera os argumentos anteriormente expendidos, no sentido de que a fixação da astreinte em R$ 2.000 (dois mil reais) ao dia, ou seja, R$ 60.000,00 (trinta mil reais) ao mês, não se mostra compatível com a obrigação imposta, e não observa as noções de equidade que devem pautar as decisões judiciais, merecendo, portanto, ser reduzida.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma para que esta, dando-lhe provimento, conheça do recurso especial e o proveja.
+Decorrido o prazo, sem impugnação (e-STJ fl. 352).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme registrado na decisão agravada, o Superior Tribunal de Justiça firmou compreensão de que, em regra, não é cabível, na via especial, a revisão do montante fixado pela instância de origem a título de multa cominatória (astreintes), ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7 do STJ.
+Somente em casos excepcionais, quando a quantia arbitrada se mostrar exorbitante ou insignificante, em flagrante violação dos princípios da razoabilidade e da proporcionalidade, admite-se rever o total da multa diária aplicada.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO À VIDA E À SAÚDE. TRATAMENTO MÉDICO. INTERNAÇÃO EM UTI. ALEGADA OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. ASTREINTES. REDUÇÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+(..)
+II. Na origem, trata-se de ação de obrigação de fazer proposta em desfavor do Estado de Pernambuco, objetivando a internação do autor em unidade de terapia intensiva (UTI), em hospital de rede pública ou privada.
+(..)
+IV. No caso, o Tribunal a quo, diante do quadro fático delineado nos autos, manteve o valor das astreintes em R$ 2.000,00 (dois mil reais), por dia de descumprimento, considerando a gravidade do caso - em que se discute o custeio de tratamento de paciente idoso, portador de tumor cerebral em estágio avançado, necessitando, com urgência, de internação em UTI -, razão pela qual entendeu não haver exorbitância em sua aplicação.
+V. Consoante a jurisprudência do STJ, "rever o entendimento do Tribunal de origem, que consignou pela manutenção da multa cominatória fixada pelo Juízo de 1º Grau por descumprimento da decisão de fornecimento de medicamento, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ" (STJ, AgInt no AREsp 728.833/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 09/06/2016). No mesmo sentido: "A revisão do valor arbitrado a título de multa exige, em regra, o reexame do conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ. Tal situação, no entanto, pode ser excepcionada quando o referido valor se mostrar exorbitante ou irrisório, situação não verificada no caso dos autos" (STJ, AgRg no AREsp 844.841/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/04/2016).
+VI. Agravo interno improvido. (AgInt no AREsp 936117/PE, Relatora Ministra ASSUSETE MAGALHÃES, Órgão Julgador T2 - SEGUNDA TURMA, DJe 26/04/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ASTREINTES. REDUÇÃO DO VALOR. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não houve ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Na via especial não é cabível, em regra, a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado a título de astreintes seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade. No caso dos autos, o agravante não demonstrou que o valor arbitrado se revelaria excessivo.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 941486/PE, Relator Ministro SÉRGIO KUKINA Órgão Julgador, T1 - PRIMEIRA TURMA, DJe 06/12/2016)
+No caso, o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, consignando que o valor arbitrado a título de astreinte - R$ 2.000,00 (dois mil reais) ao dia, - deve ser mantido para "o adimplemento da obrigação de fazer consistente no fornecimento medicamentos, não havendo que se falar em ônus excessivo na espécie" (e-STJ fl. 207).
+Diante do quadro delineado, não se vislumbra flagrante violação aos princípios da razoabilidade e da proporcionalidade, sendo certo que a pretensão do recorrente de reduzir o valor da multa diária, sob a alegação de que seria exorbitante, demandaria o revolvimento do conjunto fático-probatório constante dos autos, providência que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
