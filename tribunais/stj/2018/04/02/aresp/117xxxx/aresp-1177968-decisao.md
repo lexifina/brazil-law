@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE contra decisão que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qual desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 618, e-STJ):
+Agravo de Instrumento. Seguro saúde. Execução. Decisão que afastou a necessidade de liquidação. Insurgência. Inadmissibilidade. Possibilidade de afronta a coisa julgada e direito adquirido. Artigo 31, da Lei que determina expressamente que a manutenção da cobertura será nas mesmas condições de que gozava quando da vigência do contrato de trabalho. Decisão mantida. Recurso não provido.
+Opostos embargos de declaração, foram rejeitados (fls. 630-633, e-STJ).
+Em suas razões de recurso especial, além de dissídio jurisprudencial, a recorrente aponta ofensa aos arts. 1.022, inciso I, do Código de Processo Civil de 2015 e ao art. 31 da Lei nº 9.656/98.
+Sustenta, em síntese, que o índice de reajuste autorizado pela ANS não determina os percentuais de reajustes anuais para planos coletivos, considerando "que os percentuais de reajustes ali determinados referem-se a planos individuais, no entanto o negócio sub judice trata-se de apólice coletiva, onde tais percentuais de reajustes não seguem o crivo da ANS para fixação do percentual de reajuste, sendo aquele órgão somente fiscalizador" (fl. 641, e-STJ).
+Contrarrazões apresentadas às fls. 665-668 (e-STJ).
+Em juízo de admissibilidade (fls. 669-671, e-STJ), negou-se seguimento ao reclamo. Daí o presente agravo, em que se busca destrancar o processamento daquela insurgência.
+Contraminuta ausente.
+É o relatório.
+Decido.
+1. Quanto à apontada violação do art. 1.022, inciso I, do CPC/2015, não assiste razão à agravante, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia na qual enfrentou de maneira direta e objetiva o questionamento acerca da ausência de demonstração de justificativa válida para o aumento das mensalidades do plano de saúde. Portanto, não há falar em negativa de prestação jurisdicional, tampouco em nulidade do aresto estadual. Nessa linha, confira-se: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01/09/2011, DJe 06/09/2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/08/2011, DJe 31/08/2011 e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09/08/2011, DJe 22/08/2011.
+2. Além disso, o acórdão recorrido entendeu que "é irreparável a r. decisão guerreada ao indeferir o pedido da empresa agravante para aplicação das novas disposições contratuais, tendo em vista a possibilidade de afronta a coisa julgada e ao direito adquirido" (fl. 619, e-STJ)  grifou-se . Observa-se, nesse contexto, que esse fundamento não foi impugnado nas razões do apelo nobre.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+3. Do exposto, com amparo no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
