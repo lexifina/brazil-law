@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de agravo interposto por YOU 2 EMPREENDIMENTO IMOBILIARIO LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+COMPROMISSO DE COMPRA E VENDA. Ação de rescisão contratual c.c. restituição das quantias pagas, da comissão de corretagem e da taxa de assistência técnico-imobiliária (taxa SATI). Legitimidade passiva da promitente vendedora para o pedido de restituição da comissão de corretagem e da taxa SATI (STJ, REsp nº 1.551.951/SP e 1.551.968/SP). Pretensão, no entanto, que prescreve em 3 anos (STJ, REsp nº 1.551.956/SP). Pagamentos realizados em 29/10/2011. Ação ajuizada em 16/09/2015. Prescrição consumada. Sentença que condena a ré a restituir 90% do total pago pelo promitente comprador. Abusividade da cláusula contratual que dispõe sobre a restituição do preço pago pelo comprador desistente. Elevação da retenção das quantias pagas pelo adquirente para 20%. Precedentes da Câmara. Incidência da Súmula nº 1 do TJSP. Sentença parcialmente reformada. Sucumbência recíproca, mais intensa da ré. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 421 e 422, do CC.
+Alega, em síntese, que a liberdade de contratar permite que as partes estipulem os valores a serem retidos no momento da rescisão.
+E continua:
+4. Outrossim, em atenção ao princípio da boa-fé objetiva e da probidade, preconizados pelo artigo 422 do Código Civil e, sobretudo, ao pacta sunt servanda, é certo, com a devida vênia, que ante a ausência de qualquer vício a macular a manifestação de vontade das partes registrada no Instrumento Particular de Promessa de Venda e Compra, afigura- se inegável a obrigatoriedade do contrato e, por conseguinte, do reconhecimento do direito de aplicação da cláusula VIII no presente caso.
+É o relatório. DECIDO.
+2. As matérias relativas aos artigos 421 e 422, do CC, não foram objeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito das matérias trazidas à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
