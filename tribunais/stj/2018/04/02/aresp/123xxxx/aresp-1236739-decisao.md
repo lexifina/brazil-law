@@ -1,0 +1,12 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu o recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia (Apelação n. 0004371-16.2014.805.0191).
+O agravante - condenado por latrocínio - apontou a violação do art. 386, II e VII, do CPP, haja vista a fragilidade do conjunto probatório. Afirma: "os laudos periciais de fls. 67 a 73 e 85 atestaram a morte da vítima, tendo como a arma do crime a faca". No entanto, foram "coletados dois swabs, um com sangue da vítima e outro com o sangue da faca", mas o "sangue humano mostrou-se inadequado para a tipagem" (fl. 204).
+A insurgência foi inadmitida no juízo prévio de admissibilidade, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+Decido.
+O acórdão impugnado fez constar: "compulsando detidamente estes fólios, constata-se que os elementos probatórios dão conta, de forma clara e robusta, que o ora recorrente foi a pessoa que, no dia 13/5/14, roubou, mediante emprego de de violência - exercida pelo uso de faca do tipo "peixeira" - uma arma de fogo  ..  da vítima  .. , levando-a a óbito" (fl. 193).
+Para lastrear sua persuasão racional, o Tribunal de Justiça destacou: a) depoimento de testemunha, policial militar, que, ao chegar no local do crime, constatou a fuga do réu e, em buscas na caatinga, o avistou correndo. Após a captura, a população local o apontou como autor do delito; b) duas testemunhas narraram "ter visto o ora apelante na porta da casa da vítima" momentos antes do crime (fl. 193); c) a espingarda artesanal subtraída da vítima foi encontrada na casa do réu.
+Nesse contexto, está correta a decisão agravada, pois, para absolver o réu seria imprescindível reexame de provas, procedimento vedado em recurso especial, a teor da Súmula n. 7 deste Superior Tribunal.
+O laudo pericial somente atestou que o sangue humano coletado da faca mostrou-se inadequado para a realização da tipagem sanguínea, o que em nada altera as demais provas que lastreiam a condenação, máxime quando considerado que o corpo da vítima foi encontrado sem vida, perto do artefato, não havendo dúvidas sobre a causa da morte.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
