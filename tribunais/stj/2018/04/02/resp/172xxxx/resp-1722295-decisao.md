@@ -1,0 +1,35 @@
+DECISÃO
+GABRIEL SANTOS SOARES interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0001718-17.2016.8.26.0537).
+Depreende-se dos autos que o recorrente foi condenado, em primeira instância, à pena de 6 anos, 2 meses e 20 de reclusão, em regime fechado, mais multa, pela prática do delito descrito no art. 157, § 2º, I e II (duas vezes), c/c o art. 70, ambos do Código Penal (fls. 128-132).
+Irresignada, a defesa apelou. A Corte de origem negou provimento ao recurso e manteve a condenação de primeira instância (fls. 182-192).
+Nas razões de especial (fls. 203-211), o ora recorrente suscita a violação dos 33, §§ 2º e 3º, do Código Penal e o 381, III, do Código de Processo Penal. Para tanto, afirma que foi fixado o regime fechado sem a devida fundamentação. Suscita dissídio jurisprudencial, apontando como paradigma o acórdão da Apelação Criminal n. 2011.032636-2, da 4ª Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina.
+Requer, desse modo, o provimento do recurso, para que seja fixado o regime semiaberto.
+Apresentadas as contrarrazões (fls. 220-240) e admitido o recurso (fl. 243), veio o parecer do Ministério Público Federal (fls. 256-261), que opinou pelo provimento do recurso.
+Decido.
+O especial é tempestivo e preenche os demais requisitos de admissibilidade, razões pelas quais conheço do recurso e passo à análise da impugnação.
+O Juiz sentenciante, ao fixar o regime fechado, consignou o seguinte (fls. 131-132):
+ ..  Nos termos da previsão contida no artigo 33, §§ 2º e 3º, do Código Penal, fixo o regime fechado para o início do cumprimento da pena privativa de liberdade. Ainda que não reincidente, o réu praticou conduta extremamente violenta, com emprego de arma de fogo e em plena luz do dia, evidenciando sua periculosidade em concreto. O regime inicial semiaberto, no momento, não se revelaria medida suficiente e necessária à reprovação e prevenção do crime.  ..
+O Tribunal local assim estabeleceu o modo mais gravoso (fls. 190-191):
+ ..
+Como cediço, à luz dos §§ 2º e 3º do artigo 33 do Código Penal, a fixação do regime necessário e suficiente à reprovação e prevenção do crime leva em consideração a quantidade de pena, a primariedade ou reincidência do réu e os critérios elencados no artigo 59 do citado Codex.
+Na hipótese dos autos, apesar da primariedade e da quantidade do apenamento, cabe enfatizar que o réu perpetrou o roubo contra vítimas indefesas, em concurso de agentes, com o emprego de arma de fogo, em plena luz do dia.
+Nesse quadro, força é convir, se mostra acentuado o grau de censurabilidade que deve recair sobre o comportamento criminoso, não se justificando, data vênia, a fixação de regime prisional diverso do fechado.
+Também não há falar-se em fixação de regime diverso, considerado o lapso da prisão cautelar.
+Isso porque, como cediço, além do cumprimento de parcela da pena, exige-se à progressão de regime requisito de ordem subjetiva, qual seja, o mérito demonstrado durante o tempo de encarceramento.
+ ..
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Feitas essas premissas, verifico que as instâncias de origem não apontaram nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+Esse, aliás, é o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF.
+Nesse sentido, confira-se o seguinte julgado desta Corte de Justiça:
+ ..
+6. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+7. O Juiz de primeiro grau, muito embora haja particularizado que o delito foi praticado em plena luz do dia e em estabelecimento comercial, não apontou nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+8. A ausência de peculiaridades específicas do roubo majorado nulifica a imposição de regime prisional mais gravoso, por violação dos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF.
+9. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena para 5 anos e 4 meses de reclusão e fixar o regime semiaberto.
+(HC n. 317.873/SP, de minha relatoria, 6ª T., DJe 29/10/2015, destaquei)
+Assim sendo, o paciente primário, sem registro de circunstância judicial desfavorável e condenado a 6 anos, 2 meses e 20 dias de reclusão -, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º,"b", e § 3º, do CP.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, para reconhecer a violação dos arts. 33 e 59, ambos do Código Penal e fixar o regime semiaberto.
+Determino, ainda, o envio de cópia dos autos ao Juízo de origem, para que expeça o mandado de prisão e encaminhe a guia de recolhimento provisório ao Juízo da VEC, dando efetivo início da execução da pena imposta ao recorrente. A determinação deve ser desconsiderada caso o réu cumpra, atualmente, a reprimenda.
+Publique-se e intimem-se.
