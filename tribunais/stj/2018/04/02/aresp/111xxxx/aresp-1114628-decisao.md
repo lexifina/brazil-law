@@ -1,0 +1,12 @@
+DECISÃO
+Ao examinar os autos, deparei-me com a seguinte situação, detalhada no despacho de fls. 400-401 (e-STJ):
+Do que se colhe dos autos, a Primeira Câmara Cível do Tribunal de Justiça de Pernambuco, na sessão de 2/2/2016, deu provimento à apelação interposta por Oi Móvel S/A e, na sessão de 21/6/2016, acolheu parcialmente os embargos de declaração opostos para fixar a condenação da autora, ora agravada, ao pagamento de honorários sucumbenciais no quantitativo de 15% (quinze por cento) sobre o valor da causa, suspensa a sua exigibilidade.
+Na sequência do processo, consta a interposição de recurso especial por [NOME] (e-STJ, fls. 319-325), o qual foi inadmitido (e-STJ, fls. 347-348), não constando dos autos a interposição de agravo pela parte.
+ Está presente nos autos, contudo, um agravo em recurso especial interposto por Oi Móvel S/A (e-STJ, fls. 352-369), o que levaria a crer que esta parte também interpôs recurso especial contra o acórdão da apelação, bem como que seu recurso especial não foi admitido.
+Mas o exame mais apurado do processo revela que nele não há nenhuma petição de recurso especial interposto por Oi Móvel S/A, nem a decisão que supostamente o inadmitiu.
+Para elucidação dessa dúvida, à agravante foi dada a oportunidade de esclarecer "se efetivamente interpôs recurso especial contra o acórdão proferido pela Primeira Câmara Cível do Tribunal de Justiça de Pernambuco no julgamento da Apelação n. 0086024-29.2013.8.17.0001, devendo providenciar, caso positiva a resposta, a juntada de cópias da petição de interposição do referido recurso, dos comprovantes de pagamento do preparo recursal e da decisão de inadmissibilidade que a levou a ingressar com o referido agravo".
+O prazo assinado nesse primeiro despacho escoou sem que a agravante se pronunciasse (e-STJ, fl. 404), razão pela qual novo despacho foi proferido a fim de conceder-lhe prazo adicional de 5 (cinco) dias para a necessária manifestação, advertida a agravante de que o silêncio seria entendido como perda superveniente do interesse recursal.
+Publicado que foi esse último despacho em 15/3/2018, voltaram conclusos os autos ao gabinete com certidão da Coordenadoria da Terceira Turma, datada de 23/3/2018, dando conta da ausência de pronunciamento da agravante.
+Diante da inércia da parte agravante em atender os sucessivos despachos que lhe foram endereçados, não obstante a advertência que lhe foi feita, configurada está a perda superveniente do interesse recursal.
+Julgo, pois, prejudicado o agravo em recurso especial.
+Publique-se.
