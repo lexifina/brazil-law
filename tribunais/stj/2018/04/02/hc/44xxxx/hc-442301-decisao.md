@@ -1,0 +1,15 @@
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 180, §§ 1º E 2º, DO CÓDIGO PENAL. SENTENÇA CONDENATÓRIA. APELO EM LIBERDADE. CONDENAÇÃO CONFIRMADA EM SEGUNDA INSTÂNCIA. DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA APÓS O ESGOTAMENTO DAS VIAS ORDINÁRIAS. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] - condenado à pena de 5 anos e 4 meses de reclusão, em regime inicial fechado, e pagamento de 16 dias-multa, como incurso no art. 180, §§ 1º e 2º, do Código Penal -, no qual se aponta constrangimento ilegal decorrente da determinação exarada pelo Tribunal de Justiça de São Paulo de expedir mandado de prisão para iniciar a execução provisória da pena privativa de liberdade imposta ao réu, após o esgotamento das vias ordinárias (Apelação Criminal nº 0019020-42.2015.8.26.0554 - fls. 6/16). Esta, a ementa (fl. 7):
+Ementa - Receptação qualificada - Crime caracterizado - Provas seguras de autoria e materialidade - Palavras firmes e coerentes da vítima e das testemunhas - Responsabilização inevitável - Penas e regimes prisionais adequadamente fixados - Apelos não providos.
+Argumenta-se, em síntese, que resta evidente que a execução da pena após o esgotamento das instâncias ordinárias representa ameaça iminente ao direito de locomoção do paciente e compromete a presunção de inocência (fl. 3), eis que respondeu o processo em liberdade, compareceu à Justiça sempre que intimado foi, não havendo qualquer indício de que este tente frustrar o cumprimento de sua reprimenda (fl. 3).
+Ressalta, ademais, que estão ausentes os requisitos autorizadores para a decretação da prisão preventiva previstos nos artigos 312 e 313 do CPP, constituindo assim, uma coação ilegal contra o paciente, o cumprimento "antecipado" da pena (fl. 3).
+Requer-se, liminarmente, a imediata expedição de SALVO CONDUTO em favor do paciente, para que este possa responder ulteriores termos do processo-crime (fl. 4) e, no mérito, conceder o pedido de julgado do feito, tornando definitivos os efeitos da liminar concedida (fl. 5).
+É o relatório.
+No Superior Tribunal de Justiça, prevalece o entendimento de que é possível a execução provisória de acórdão penal condenatório, ainda que sujeito a recurso especial ou extraordinário. Conforme jurisprudência dominante do Supremo Tribunal Federal, nessas situações, não se compromete o princípio constitucional da presunção de inocência.
+Ademais, esta Corte já firmou posicionamento de que a determinação de execução provisória da pena independe da presença dos requisitos previstos no art. 312 do Código de Processo Penal, somente podendo ser sustada se não esgotada a via ordinária.
+Sobre o tema, os seguintes precedentes: EDcl no AgRg no AREsp n. 440.072/DF, Sexta Turma, Ministro Nefi Cordeiro, DJe 26/6/2017; e HC n. 387.616/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/10/2017.
+Presente esta moldura, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
