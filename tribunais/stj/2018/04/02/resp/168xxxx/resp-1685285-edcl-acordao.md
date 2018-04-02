@@ -1,0 +1,33 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, rejeitar os embargos de declaração nos termos do voto da Sra Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATORA: MINISTRA NANCY ANDRIGHI
+RELATÓRIO
+Cuida-se de embargos de declaração interpostos por BRASTURINVEST INVESTIMENTOS TURÍSTICOS S/A contra acórdão que negou provimento ao agravo nos embargos de declaração no recurso especial que interpusera, nos termos da seguinte ementa:
+DIREITO AUTORAL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COBRANÇA DE DIREITOS AUTORAIS. ESTABELECIMENTO COMERCIAL. QUARTOS DE HOTEL.
+1. A disponibilidade de aparelhos de rádio e de televisão em quartos de hotel é fato gerador de arrecadação de direitos autorais.
+2. Agravo não provido.
+Nas razões do presente recurso, a embargante sustenta a impossibilidade de julgamento monocrático do mérito do recurso especial. Aduz a existência de precedente contrário ao decidido no recurso especial.
+É o relatório.
+RELATORA: MINISTRA NANCY ANDRIGHI
+VOTO
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+A rigor, as questões apontadas pela embargante não constituem pontos omissos, contraditórios ou obscuros do julgado, mas mero inconformismo com os fundamentos adotados na decisão embargada.
+O acórdão embargado e a decisão que julgou os embargos declaratórios interpostos anteriormente se manifestaram expressamente acerca da possibilidade de julgamento monocrático e do precedente supostamente contrário ao decidido no presente processo, nos seguintes termos:
+Na hipótese dos autos, a embargante sustenta a existência de omissão quanto previsão contratual de pagamento dos direitos autorais pela empresa de TV por assinatura. Contudo, no precedente invocado pela embargante, consignou-se que:
+Cabe ressaltar que a Quarta Turma, no caso apontado pelo agravante, julgou incabível a contribuição ao ECAD ao fundamento de que o contrato especial firmado entre o hotel, a Rádio Imprensa e a extinta empresa Direct TV contemplaria o pagamento da taxa em tela pelas empresas prestadoras dos serviços de rádio e de televisão por assinatura. Daí a impossibilidade de nova exigência.
+(..)
+Com efeito, verifica-se que não foi afastada a cobrança do ECAD por se tratar de TV por assinatura. Tão somente se reconheceu a impossibilidade de cobrança em duplicidade pelos direitos autorais, haja vista os contratos especiais ali firmados.
+Na hipótese dos autos, ao contrário do que sustenta a embargante, não há menção a previsão contratual específica no contrato firmado entre a embargante e a empresa prestadora do serviço de TV por assinatura.
+Ademais, de fato, a jurisprudência do STJ está consolidada no sentido de que, na cobrança de direitos autorais por suposta utilização não autorizada de obra artística, não se pode confundir a obrigação da empresa exploradora do serviço de hotelaria com o a obrigação da empresa prestadora dos serviços de transmissão de sinal de TV por assinatura, pois resultam de fatos geradores distintos, a saber: (i) a captação de transmissão de radiodifusão em locais de frequência coletiva (quartos de hotel) e (ii) a radiodifusão sonora ou televisiva em si. Daí porque não há falar, em casos tais, na ocorrência de bis in idem. Nesse sentido: REsp 1.629.529/RS, 3ª Turma, DJe de 22/08/2017 e AgInt no AREsp 802.891/RJ, 3ª Turma, DJe de 29/08/2017.
+De outro turno, ressalte-se que, conforme exposto em seu dispositivo, a decisão monocrática deu provimento ao recurso especial interposto pela embargada, com fundamento no art. 255, § 4º, III, do RISTJ, que permite o julgamento monocrático quando há jurisprudência consolidada do STJ a respeito do tema. (e-STJ fls. 713/714)
+De fato, a jurisprudência do STJ está consolidada no sentido de que, na cobrança de direitos autorais por suposta utilização não autorizada de obra artística, não se pode confundir a obrigação da empresa exploradora do serviço de hotelaria com o a obrigação da empresa prestadora dos serviços de transmissão de sinal de TV por assinatura, pois resultam de fatos geradores distintos, a saber: (i) a captação de transmissão de radiodifusão em locais de frequência coletiva (quartos de hotel); e (ii) a radiodifusão sonora ou televisiva em si. Daí porque não há falar, em casos tais, na ocorrência de bis in idem. Nesse sentido: REsp 1.629.529/RS, 3ª Turma, DJe de 22/08/2017; REsp 1.589.598/MS, 3ª Turma, DJe de 22/06/2017; e AgRg no REsp 1310207/RS, 4ª Turma, DJe de 22/03/2013.
+Por fim, ressalte-se que a decisão monocrática deu provimento ao recurso especial interposto pelo agravado, com fundamento no art. 255, § 4º, III, do RISTJ, que permite o julgamento monocrático quando há jurisprudência consolidada do STJ a respeito do tema.
+Ressalte-se, ainda, que o STJ, com a edição da Súmula 568, consolidou o entendimento no sentido de que "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Assim, revela-se nítida a pretensão da embargante de se valer dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema, intuito esse incompatível com a natureza desse recurso.
+Ademais, ressalte-se que ao julgador do STJ não é permitido adentrar na competência do STF, sequer para prequestionar matéria constitucional suscitada em sede de embargos de declaração, sob pena de violar a rígida distribuição de competência recursal disposta na Constituição Federal.
+Por conseguinte, dissociado o pleito de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração, advertindo a embargante, desde já, que a insistência no manejo deste recurso ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/15.
