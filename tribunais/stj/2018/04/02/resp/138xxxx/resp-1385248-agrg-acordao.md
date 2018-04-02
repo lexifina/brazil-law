@@ -1,0 +1,56 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. S. 182/STJ. NÃO CONHECIMENTO.
+1. Não se conhece de agravo interno/regimental que não apresenta fundamentação específica e detalhada aos fundamentos da decisão recorrida, nos termos do art. 932, III, CPC, e por analogia a Súm. 182/STJ.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental em face de decisão que negou provimento ao recurso especial.
+O agravante asseverou que para o deslinde do presente caso é desnecessário o reexame de prova, bastando a revaloração das circunstâncias expressamente reconhecidas pelas instâncias ordinárias. Destacou que a absolvição operada no caso, baseada apenas na fundamentação da fragilidade das provas não autoriza o juízo absolutório pois não contemplado no art. 621, I, CPP.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O recurso foi interposto em face da seguinte decisão (fl. 207/210):
+Consta dos autos que os recorridos foram condenados à pena de 27 anos, 2 meses e 20 dias de reclusão, em regime fechado, pela prática do crime previsto no art. 157, § 3º. Irresignados, propuseram revisão criminal, a qual foi julgada procedente, absolvendo-os da imputação, sob os seguintes fundamentos (fls. 91/96):
+II - Os ora peticionários restaram denunciados e condenados por prática de crime de latrocínio, acusados de, agindo em concurso e identidade de propósitos, subtraírem, mediante violência, bens e valores pertencentes a [NOME], pessoa maior de sessenta anos de idade que sofreu ferimentos que levaram à morte (cf. denúncia de fls. 01d/02d; e sentença de fls. 323/330 - do apenso).
+O recurso de apelação criminal interposto foi acolhido, em parte, para afastar a agravante prevista na alínea "d", inciso II, do art. 61 do Código Penal (meio cruel), com reflexo na dosimetria da pena (cf. v. Acórdão de fls. 401/409 - do apenso).
+Através desta via revisional sustenta a Defensoria Pública que a decisão é contraria á evidencia dos autos, posto que a prova encartada nos autos não demonstrou com segurança a responsabilidade criminal dos ora peticionários (cf. razões de fls. 55/65).
+Ao meu sentir, "data venia" das vozes divergentes, o pedido revisional merece acolhimento.
+A materialidade delitiva restou induvidosamente comprovada pelo laudo de exame necroscópico que atestou que a morte violenta da vítima decorreu de trauma crânio encefálico com hemorragia intracraniana, por ação de agente contundente (cf. fls. 55/56 do apenso).
+Mas a mesma certeza não e existe acerca da autoria delitiva. Pairam dúvidas, e sérias, acerca da responsabilidade criminal de MANOEL GONÇALVES e [NOME].
+Segundo se infere dos autos, a vítima foi encontrada sem vida no Cemitério da Consolação, na cidade de Sorocaba, local onde morava e trabalhava.
+Constatou-se a morte violenta através de exame necroscópico, mas nada existia a indicar a motivação e ou mesmo quem seria o autor da ação criminosa.
+Somente após denúncia anônima é que a investigação foi direcionada aos ora peticionários, segundo a declaração do Delegado de Polícia [NOME] - "Eu estive no local do encontro do cadáver, inclusive, foi num domingo à tarde. Eu fui até o local já haviam socorrido a vítima. Foi acionada a perícia e, posteriormente houve denúncia pra Polícia Militar da participação dos dois aqui presentes" (cf. fls. 215 "in fine", do apenso - grifei).
+Desde então, tudo passou a tangenciar de forma a deduzir que MANOEL e [NOME] foram os autores da ação violenta, com a finalidade de tomar dinheiro da vítima.
+O policial militar, [NOME], afirmou que a vítima morava e trabalhava no cemitério e que sua carteira foi encontrada próxima do muro e estava vazia, indicando tratar-se de roubo. Num bar localizado nas imediações soube que a vítima retornara do Paraná onde esteve para buscar dinheiro. Acusou [NOME] de ter tentado fugir quando a Polícia esteve em sua casa, mas detido acabou por indicar MANOEL como autor do crime. E este quando preso acusou [NOME] (cf. fls. 220/227 do apenso).
+A testemunha [NOME], sobrinha de MANOEL, afirmou que seu tio morava em sua casa e era usuário de drogas.
+No dia dos fatos ele saiu e retornou embriagado e com dinheiro e roupas. Lavou as roupas e o sapato utilizado no dia anterior. Questionado sobre a vítima disse que o crime foi praticado por um seu colega (cf. fls. 228/232).
+A testemunha [NOME], esposa de [NOME], disse que ele era usuário de drogas e que estava bêbado no dia dos fatos. Ele lhe contara que iria furtar vasos no cemitério com MANOEL. Dias depois soube da morte da vítima e lembrou que [NOME] esteve no cemitério, o que fez suspeitar dele, motivo pelo qual juntamente com a sobrinha de MANOEL os denunciaram à Polícia (cf. fls. 239/244).
+Os réus silenciaram na fase extrajudicial (cf. fls. 31 e 36 do apenso). Perante a autoridade judicial, enquanto MANOEL disse que foi acusado falsamente por desavenças anteriores com o policial [NOME] (cf. fls. 126/129), o réu [NOME] disse que dormia no horário do crime vez que no dia seguinte iria trabalhar, além do que negou ter fugido quando a Polícia esteve na sua casa (cf. fls. 130/135).
+Estas foram as provas encartadas nos autos, as quais, ao meu sentir, "data venia", não se mostram suficientemente hábeis para sustentar um decreto condenatório.
+Afora as deduções realçadas, nenhuma prova substanciosa restou produzida de forma a garantir com absoluta certeza que MANOEL e [NOME], em comparsaria, ceifaram a vida da vítima com a finalidade de subtrair-lhe os bens.
+Na posse dos acusados nada de interessante restou apreendido, nem mesmo as roupas e o dinheiro que a testemunha [NOME], sobrinha de MANOEL, disse que ele trazia consigo na data dos fatos.
+Importante notar que, as roupas que os réus teriam utilizado na data dos fatos foram apreendidas (fls. 22/23 e 24 do apenso) e submetidas a exames de orientação para sangue, com a conclusão dos "experts" de "resultado NEGATIVO" (fls. 297/299 do apenso).
+A testemunha [NOME], casada com [NOME], o denunciou à Polícia por suspeita, mas objetivamente nada apontou que indicasse ser seu marido o autor do crime, o mesmo ocorrendo com [NOME], sobrinha de MANOEL.
+O fato de serem os réus conhecidos como usuários de drogas talvez tenha sugerido que praticaram a ação criminosa para adquirirem substâncias entorpecentes. Mas tudo não passou de mera dedução.
+As testemunhas que se identificaram como proprietários de bares localizados nas proximidades não conheciam os réus e não os viram na companhia da vítima antes dos fatos.
+Mais ainda.
+As testemunhas que se identificaram como prestadores de serviços no cemitério também não conheciam os réus e nada souberam informar sobre o crime (cf. fls. 245/250, 251/256 e 257/260 do apenso).
+Por derradeiro, a suposta data da morte da vítima foi na madrugada do dia 08 de julho de 2007 (cf. denúncia de fls. 01d). Esta data foi um domingo, diferentemente do dia sexta-feira que as testemunhas [NOME] e [NOME] declararam que os réus poderiam ter ido no cemitério para furtar vasos, como bem fundamentou a Defensoria Pública.
+Sem mais delongas, a condenação lançada se mostra contrária à evidência dos autos.
+Nada se produziu que servisse para atribuir, sem resquícios de dúvidas, a autoria delitiva aos ora peticionários.
+A absolvição é medida de rigor.
+Ante ao exposto, defiro o pedido revisional para, com fulcro no artigo 621, inciso I, do Código de Processo Penal, absolver MANOEL GONÇALVES e [NOME], com expedição de alvará de soltura clausulado.
+Conforme se observa no acórdão recorrido, o Tribunal de Justiça concluiu, após detida análise do conjunto fático-probatório dos autos, pela insuficiência de provas para a condenação dos recorridos, ressaltando que as testemunhas que apontaram em denúncia anônima os recorridos como supostos autores do delito apresentaram apenas suspeitas quanto aos réus, nada trazendo de concreto para as suas incriminações. Do mesmo modo a prova pericial concluiu pela negativa quanto à constatação de sangue nas roupas usadas pelos réus no dia do crime. Consignou, expressamente, aquela Corte que nenhuma prova substanciosa restou produzida de forma a garantir com absoluta certeza que MANOEL e [NOME], em comparsaria, ceifaram a vida da vítima com a finalidade de subtrair-lhe os bens.
+Nesse contexto, para se chegar à conclusão diversa da instância ordinária, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado na via do recurso especial, tendo em vista o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao recurso especial.
+Restou consignado na decisão agravada a impossibilidade de conhecimento do recurso especial, por força da Súm. 7/STJ, em razão da absolvição operada pelo Tribunal local ter sido alcançada a partir do exame do conjunto fático-probatório dos autos, que resultou na conclusão pela insuficiência das provas para a condenação.
+Ao impugnar o fundamento da decisão agravada, se limitou o agravante a infirmar genericamente a aplicação da Súm. 7/STJ ao afirmar que bastaria a revaloração da prova, e reafirmou a tese do recurso especial de violação ao art. 621, I, CPP, deixou de demonstrar específica e detalhadamente como seria possível a desconstituição do acórdão vergastado sem necessariamente ter que perscrutar todo o arcabouço probatório para concluir pela condenação.
+Assim, incide ao caso o disposto no art. 932, III, e por analogia a Súm. 182/STJ, para negar conhecimento ao agravo regimental.
+Outrossim, apenas a título complementar, consigne-se que em precedente similar, no qual o órgão ministerial buscava a condenação criminal mediante a sustentação de violação ao art. 621, I, CPP, em razão de o colegiado local no julgamento de revisão criminal ter declarado a absolvição do réu por insuficiência da prova, foi negado conhecimento ao recurso especial nos mesmos moldes que a decisão agravada, veja-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. OFENSA AO ART. 621, I, DO CPP. RÉU ABSOLVIDO PELA CORTE A QUO. PLEITO DE CONDENAÇÃO. IMPOSSIBILIDADE. REEXAME FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar o decreto condenatório, ou a ensejar a absolvição, porquanto é vedado, na via eleita, o reexame de provas, conforme disciplina o enunciado 7 da Súmula desta Corte.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1374444/GO, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 11/03/2014, DJe 28/03/2014)
+Ante o exposto, voto por não conhecer do agravo regimental.
