@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE MINAS GERAIS assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITOS - PAGAMENTO ANTECIPADO - NÃO COMPROVADO - PROTESTO DEVIDO - ATO ILÍCITO - NÃO COMPROVADO - DANO MORAL - NÃO CONFIGURADO - REPETIÇÃO DE INDÉBITO - INDEVIDA. Tendo em vista a ausência de provas que apontem a anuência/culpa da empresa ré quanto ao modo do pagamento diverso do aventado, não há falar em irregularidade de protesto e, portanto, em ato ilícito nem em dever de indenizar. Aos julgadores impõe-se cuidado na análise de sua configuração e comprovação, pois meros aborrecimentos e insatisfações cotidianos, por se tratarem de fatos corriqueiros e atinentes à vida em sociedade, não se deve atribuir indenização.
+Os embargos de declaração foram rejeitados (fls. 194-199).
+Nas razões do recurso especial (fls. 202-215), o recorrente alega violação dos arts. 241, 297, 300 e 319 do CPC/1973, sob o argumento de que a parte recorrida protocolou sua contestação intempestivamente, razão pela qual deveriam ter sido aplicados os efeitos da revelia.
+É o relatório. DECIDO.
+2. O Tribunal de origem, ao analisar o ponto controvertido, assim se pronunciou (fl. 181):
+O apelante requer o desentranhamento da peça de contestação dos autos, por entender que foi juntada intempestivamente, devendo, portanto, ser decretada a revelia da parte ré.
+Analisando detidamente os autos, verifica-se que tal preliminar não merece acolhimento.
+A r. sentença declarou expressamente a tempestividade da contestação, sob o fundamento de que os prazos na Comarca de Uberaba ficaram suspensos na segunda quinzena de novembro de 2015 em razão da mudança de prédio do antigo fórum, e na sequência, o recesso forense entre os dias 20 de dezembro e 20 de janeiro de 2016.
+Embora o apelante sustente que os prazos em razão da mudança de prédio ficaram suspensos até o dia 24/11/2015, não juntou aos autos nenhum documento que comprove tal alegação, devendo, portanto, ser observado o prazo lançado na r. sentença.
+Sendo assim, não há porque desentranhar dos autos a contestação e decretar a revelia da parte ré.
+Verifica-se que a Corte a quo foi categórica ao afirmar que não há falar em intempestividade da contestação na hipótese dos autos, porquanto a resposta do réu foi juntada dentro do prazo.
+Sendo assim, afirmo que a pretensão trazida a esta Corte Superior é eminentemente fática e não jurídica, uma vez que o acórdão recorrido em momento algum afastou as regras processuais atinentes à sistemática dos prazos, mas tão somente, lastreado em elementos fáticos contidos no processo, entendeu que a contestação foi oferecida em momento oportuno.
+Diante disso, conclui-se que a alteração do conteúdo decisório emanado da instância origem demandaria reincursão no acervo fático-probatório dos autos, o que não se admite nesta estreita via recursal, ante o óbice da Súmulas 7/STJ.
+Nesse sentido, mutatis mutandis:
+PROCESSUAL CIVIL. APELAÇÃO TEMPESTIVIDADE RECURSAL. ARTIGO DE LEI NÃO PREQUESTIONADO. SÚMULA 211/STJ. CIÊNCIA INEQUÍVOCA. INÍCIO DA CONTAGEM DO PRAZO. NECESSIDADE DE ANALISAR CONTEÚDO FÁTICO. ÓBICE DA SÚMULA 7/STJ.
+1. Na presente hipótese, a parte insurgente alega ofensa ao art. 4º, § 3º, da Lei 11.419/2006. No entanto, verifica-se que não houve prequestionamento da matéria nas instâncias inferiores, pois, em que pese à oposição de Embargos de Declaração, o referido dispositivo legal não foi analisado e aplicado pelo órgão julgador. Incide, na espécie, a Súmula 211/STJ. 2. Ademais, extrai-se de aresto hostilizado que o recurso de Apelação interposto pelo Município de Atibaia era intempestivo, porquanto interposto em prazo superior ao que determina a legislação, pois o procurador municipal fez carga do processo em 24.7.2013 e teve ciência inequívoca dos termos da decisão contra a qual pretendia recorrer, sendo a Apelação interposta somente em 15.10.2013.
+3. Consoante orientação do STJ, "A retirada do autos em carga pelo advogado da parte recorrente e com poderes bastante para a prática dos atos processuais, já tendo a decisão sido juntada naquela ocasião, faz presumir a ciência inequívoca daquele ato judicial e se inicia a partir de então o prazo para a interposição do recurso cabível, mesmo que o ato ainda não tenha sido publicado na imprensa oficial, de acordo com a pacífica jurisprudência do STJ." (AgInt no AREsp 1023977/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 22/8/2017, DJe 28/8/2017).
+4. A análise proposta pelo insurgente acerca da tempestividade do recurso excederia as razões colacionados no acórdão recorrido, o que implica revolvimento do contexto fático-probatório. Assim, incide o óbice da Súmula 7 do STJ.
+5. Recurso Especial do qual não se conhece.
+(REsp 1709477/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO TEMPESTIVA. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+EXCESSO DE EXECUÇÃO APURADO PELO PERITO. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A inversão do que ficou decidido pelo acórdão recorrido quanto à tempestividade da impugnação, bem como a necessidade de apuração de novos cálculo para apurar o valor devido da execução, demandaria reexame dos elementos fáticos-probatório dos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 590.325/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/04/2015, DJe 27/04/2015)
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
