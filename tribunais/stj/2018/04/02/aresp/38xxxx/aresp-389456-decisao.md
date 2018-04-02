@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO EDUCACIONAL DO ESTADO DE SÃO PAULO - IESP contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 133):
+PRESTAÇÃO DE SERVIÇOS - Instituição de ensino - Atraso exagerado na entrega do diploma - Reparação de danos morais e materiais - Expectativa frustrada - Presentes os requisitos - Valor da indenização para reparar os danos morais fixada em valor adequado - Danos materiais - Contratação de advogado particular para propositura da ação perante a Justiça Comum - Escolha pelo procedimento do Juizado Especial Cível é opcional - Excluída a verba para reembolso de advogado - Despesa não comprovada - Ônus da prova - Aplicação do art. 333, inciso I, do Código de Processo Civil.
+Sucumbência recíproca caracterizada - Aplicação do disposto no art. 21, "caput", do Código de Processo Civil.
+Recurso parcialmente provido.
+Embargos de declaração rejeitados (e-STJ fls. 148/153).
+No especial obstaculizado, o ora agravante aponta violação do art. 944, parágrafo único, do Código de Processo Civil/1973. Para tanto, sustenta que: (I) não são devidos danos morais no caso; e (II) a condenação possui valor excessivo.
+Depois de contra-arrazoado (e-STJ fls. 173/175), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que: (I) inexiste violação a preceito legal e (II) incide a Súmula 7 do STJ (e-STJ fl. 177/178).
+Na presente irresignação, o agravante alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade.
+Contraminuta às e-STJ fls. 188/190.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Isso considerado, verifica-se que o art. 944, parágrafo único, do Código de Processo Civil/1973, apontado como violado no especial, não apresenta comando normativo suficiente para infirmar os fundamentos do aresto impugnado, na parte alusiva à fixação do quantum indenizatório. Aplicável, portanto, a Súmula 284 do STF, por deficiência na fundamentação.
+Nessa linha de raciocínio:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. LIMITAÇÃO. EXECUÇÃO E EMBARGOS. COMPENSAÇÃO. NÃO VIOLAÇÃO AOS ARTIGOS 458 E 535 DO CPC. VALOR DOS HONORÁRIOS RAZOÁVEIS. ART. 20, § 4º DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ARTIGOS 2º, 22, §2º, 23 e 24 DA LEI 8.906/1994. SÚMULA 284 DO STF.
+1. Da análise do acórdão recorrido, verifica-se que o Tribunal de origem manifestou-se de maneira clara e fundamentada sobre as questões postas a julgamento, dentro dos limites que lhe são impostos por lei, apenas não adotando a tese defendida pela recorrente.
+2. O Tribunal a quo analisou os elementos fáticos para concluir pela limitação dos honorários advocatícios da execução por exequente em patamar razoável, situação que impede a revisão nesta Corte, pois somente valores que fogem da razoabilidade são viáveis a flexibilizar o óbice da Súmula n. 7/STJ.
+3. Em relação à suposta violação aos artigos 2º, 22, §2º, 23 e 24 da Lei 8.906/1994, verifica-se a carência de fundamentação. Além disso, os artigos apontados como malferidos não contém comando normativo capaz de infirmar o fundamento do acórdão atacado, porquanto não induzem ao direito pleiteado, o que atrai a aplicação, por analogia, da Súmula 284 do STF: 4. Agravo regimental não provido.
+(AgRg no AREsp 622.518/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/04/2015, DJe 12/05/2015)
+PROCESSUAL CIVIL. TRIBUTÁRIO. HABILITAÇÃO DE CRÉDITO. INTERPRETAÇÃO DA INSTRUÇÃO NORMATIVA DA SRF N. 600/2005. RAZÕES RECURSAIS DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA. ÓBICE NAS SÚMULAS 283 E 284 DO STF.
+1. O artigo 74, § 14, da Lei n. 9.430/96, apontado como violado pela Fazenda Nacional, bem como a tese a ele referente, superficialmente defendida, não são capazes de desconstituir e refutar os termos do aresto, que, na realidade, interpretou a Instrução Normativa da Secretaria de Receita Federal quanto ao excessos nos requisitos para habilitação de crédito tributário.
+2. A fundamentação do acórdão não foi atacada pela parte recorrente, que, como é apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Agravo regimental improvido.
+(AgRg no REsp 1405522/ES, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 13/05/2014, DJe 19/05/2014)
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
