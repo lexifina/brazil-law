@@ -1,0 +1,11 @@
+DECISÃO
+1. Cuida-se de embargos de declaração interpostos por INSTITUTO GEIPREV DE SEGURIDADE SOCIAL contra decisão de fls. 32 do expediente avulso, que não conheceu da petição porquanto apresentada após o trânsito em julgado da decisão que negou provimento ao seu agravo em recurso especial.
+Nas razões dos presentes embargos de declaração, o embargante alega que o agravo foi rejeitado por conta de lapso no recolhimento das custas em guia de GRU Simples.
+Afirma que "nos autos do RECURSO ESPECIAL Nº 1.479.273-MS, questão análoga sobre a legalidade do recolhimento a época das guias pela "GRU SIMPLES" carreou em uma análise em um todo da questão em QUESTÃO DE ORDEM."
+Salienta que "Os Doutos Ministros que participaram do julgamento entenderam, em 06 de maio de 2015, pela consideração de não deserção. Inclusive é mencionado o número do ARESP nº 604.388-RJ neste julgado. O recurso da Embargante (e ora discutido) é expressamente destacado".
+Assevera que o voto do referido recurso especial "entendeu que deveria ser relevada a pena de deserção por ser matéria de ordem pública, razão pela qual o espírito da decisão da "Questão de Ordem" aponta uma série de recursos interpostos entre 2014 e 2015. Segue sentido contrário obstar a apreciação deste lote de Recursos Especiais" e que "Partindo deste ponto, em que esta Douto Corte foi no sentido de que o lote de recursos especiais cujo preparo foi realizado no período de 07.03.2014 a 15.05.2014 (dentre eles expressamente o interposto pela Embargante) deveriam ser acolhidos na Questão de Ordem declarando-o não deserto, entende a Embargante que é contraditória a decisão em afastar sua apreciação por considerar a decisão transitada em julgado. Desta feita requer a este Douto Ministro que sane a contradição/omissão quanto ao ora exposto, por ser medida de Justiça".
+DECIDO
+2. Não há omissão, obscuridade ou omissão na decisão embargada, porquanto clara em afirmar o seu não cabimento quando já transitada em julgado a decisão que negou provimento ao agravo em recurso especial.
+3. Ante o exposto, rejeito os embargos de declaração neste expediente avulso.
+4. Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
