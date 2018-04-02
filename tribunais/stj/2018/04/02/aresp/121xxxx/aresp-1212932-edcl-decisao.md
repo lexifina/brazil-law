@@ -1,0 +1,38 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA DE MANIFESTAÇÃO QUANTO À APLICAÇÃO DO ART. 614 DO CPC/1973. EMBARGOS ACOLHIDOS.
+DECISÃO
+Trata-se de embargos de declaração no agravo em recurso especial opostos por Gonçalves & Furlan Empreiteira Ltda - ME à decisão desta relatoria, com a seguinte ementa (e-STJ, fl. 306):
+AGRAVO EM RECURSO ESPECIAL. DUPLICATA MERCANTIL. INDEFERIMENTO DA JUSTIÇA GRATUITA. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DUPLICATA VIRTUAL. PROTESTO. TÍTULO EXECUTIVO. REQUISITOS. REEXAME. SÚMULA 7 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, aduz a embargante estar configurada a omissão, tendo em vista que a decisão embargada não analisou a alegação de ofensa ao art. 614 do Código de Processo Civil de 1973, apontada nas razões do recurso especial, em que pleiteou a nulidade da execução por falta de memória discriminada de débito (e-STJ, fls. 306-311).
+Pleiteia, diante dessas considerações, o acolhimento dos aclaratórios.
+Brevemente relatado, decido.
+De fato, compulsando os autos, constata-se que realmente não houve pronunciamento quanto ao art. 614 do Código de Processo Civil de 1973 (e-STJ, fls. 306-311).
+O Tribunal estadual, ao dirimir a controvérsia, concluiu que ficou comprovada a entrega das mercadorias, conforme se colhe dos excertos do aresto recorrido (e-STJ, fls. 207-209):
+A ausência de memória discriminada e atualizada do cálculo não torna o título inexigível, pois a quantia exequenda poderá ser facilmente verificada por meio de cálculos aritméticos quando da liquidação do débito.
+Também não há que se falar em nulidade da execução por ausência das duplicatas.
+Duplicata sem aceite pode instruir a execução desde que, cumulativamente, tenha sido protestada e esteja acompanhada de documento de entrega e recebimento da mercadoria (Theotônio Negrão et. al., Código de Processo Civil e Legislação Processual Civil em Vigor, 44ª edição atualizada e reformulada, nota 10a ao artigo 585, p.778).
+Conforme firme entendimento do C. Superior Tribunal de Justiça, tais documentos suprem a ausência da duplicata não aceita e retida pelo sacado (REsp 309.829/CE, Rel. Min. Ruy Rosado de Aguiar, DJ 08.04.02; REsp 119.263/SP, Rel. Min. Barros Monteiro, DJ 09.12.02; AgRg nos EDcl no Ag 465.075/DF, Rel. Min. Nancy Andrighi, DJ 19.05.03).
+Portanto, a execução está amparada por título hábil.
+Também não procede a alegação da necessidade de apresentação dos boletos bancários de cobrança para suprir a ausência das duplicatas.
+O C. Superior Tribunal de Justiça, no julgamento do Recurso Especial nº 1.024.691, de relatoria da Ministra Nancy Andrighi, firmou entendimento de que na execução de duplicata virtual com protesto por indicação "os boletos de cobrança bancária vinculados ao título virtual, devidamente acompanhados dos instrumentos de protesto por indicação e dos comprovantes de entrega da mercadoria ou da prestação dos serviços, suprem a ausência física do título cambiário eletrônico e constituem, em princípio, títulos executivos extrajudiciais".
+Tratando-se de duplicata virtual, concretizado o negócio de compra e venda de mercadorias ou de prestação de serviços, o sacador emite a duplicata eletronicamente ou "virtualmente" e assim a transmite ao banco para cobrança por meio de emissão de "boleto". Se o pagamento da dívida não for feito pelo sacado, a duplicata é enviada a protesto por indicação.
+O boleto bancário não é título de crédito. É um aviso de cobrança. Não são protestados os boletos, mas sim as duplicatas por indicação.
+Para o protesto por indicação é relevante que tenha havido o recebimento das mercadorias, o que ocorreu no presente caso.
+Portanto, a documentação juntada na execução é suficiente para comprovar a existência e validade das duplicatas.
+É de se considerar que a apelante insiste na nulidade da execução por ausência de título executivo, mas não nega a entrega das mercadorias que originou os títulos e não comprova o pagamento do débito. Além disso, não tomou qualquer medida para obstar os protestos das duplicatas que foram apontadas pela apelada.
+Com relação à duplicata nº 245381, alegou a apelante não ter sido juntada a respectiva nota fiscal, o que torna nula a execução desse título.
+Apesar de não ter sido juntada a nota fiscal nº 245381 em momento oportuno (docs. de fls. 44/70), foram juntados os respectivos comprovante de recebimento da mercadoria (fls. 70) e instrumento de protesto (fls. 67/69). E a apelante em momento algum contestou o recebimento da mesma.
+Além do mais, nos embargos de declaração da apelada (fls. 125) constou cópia da nota fiscal 245.381, o que torna a execução desse título legítima.
+Mantém-se, pois, a r. sentença recorrida por seus próprios e jurídicos fundamentos. (Sem grifo no original).
+Verifica-se que o recurso não merece acolhida, porquanto a conclusão adotada no acórdão recorrido está em consonância com a jurisprudência do STJ no sentido de que, "encontrando-se a execução instruída com título executivo hábil, a falta da adequada demonstração da evolução da dívida ou a ausência do simples cálculo aritmético, não acarreta, por si só, a extinção automática do processo, devendo o magistrado oportunizar a emenda a inicial para correção do vício (artigo 616 do CPC)" (AgRg no AgRg no REsp n. 987.311/MS, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12/4/2012, DJe 19/4/2012).
+Portanto, inviável o recurso especial se o acórdão recorrido se alinha ao posicionamento sedimentado na jurisprudência do STJ, conforme dispõe a Súmula n. 83 desta Corte Superior.
+Ademais, reverter a conclusão do Tribunal local, para acolher a pretensão recursal quanto aos requisitos do título executivo, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE CONHECIMENTO. ART. 745-A DO CPC/73. INAPLICABILIDADE. DUPLICATA. PROTESTO. TÍTULO HÁBIL A FUNDAMENTAR AÇÃO DE EXECUÇÃO. COMPROVANTE DE ENTREGA DE MERCADORIAS. REGULARIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça." 2. É vedada a incidência do art. 745-A do CPC/73 para forçar o parcelamento da dívida em sede de ação de conhecimento, quando nem sequer foi instalado procedimento executivo.
+3. A jurisprudência deste Tribunal Superior é no sentido de que, ainda que sem aceite, a duplicata que houver sido protestada, quando acompanhada de comprovação de realização do negócio jurídico subjacente, revela-se instrumento hábil a fundamentar a execução.
+4. O Tribunal de origem reconheceu, a partir da análise do acervo fático-probatório dos autos, que as duplicatas que embasam a presente ação de execução, embora sem aceite ordinário, foram devidamente protestadas e estão acompanhadas de comprovante de entrega das mercadorias, conclusão impossível de revisão por esta Corte, consoante o disposto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 389.488/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/5/2016, DJe 2/6/2016).
+Ante o exposto, acolho os embargos para sanar a omissão apontada, sem efeitos infringentes.
+Publique-se.
