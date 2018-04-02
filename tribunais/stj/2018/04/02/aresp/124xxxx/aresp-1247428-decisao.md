@@ -1,0 +1,18 @@
+DECISÃO
+1. Trata-se de agravo interposto por JOSE NANTALA BADUE FREIRE contra decisão que inadmitiu recurso especial, com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO ACIDENTE DE TRÂNSITO - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COBRANÇA REVELIA JUNTADA DA CARTA PRECATÓRIA QUE FOI AUTUADA COM EXPRESSÃO GENÉRICA NO SITE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO CERCEAMENTO DE DEFESA INOCORRÊNCIA NEGLIGÊNCIA DO RÉU RECONHECIDA O réu foi pessoalmente citado, sendo a respectiva carta precatória juntada aos autos em 04/11/2016 Referido andamento processual constou no sítio eletrônico do Tribunal de Justiça do Estado de São Paulo como "petição juntada", disponibilizada na data de 04/11/2016 (mesma data da juntada), certo que não houve qualquer omissão quanto à realização deste ato processual Ao revés, no caso sub judice, verifica-se que o requerido, que é advogado, agiu de forme negligente, porquanto, citado pessoalmente, e diante de andamento processual novo em processo eletrônico, deixou transcorrer in albis o prazo para apresentar contestação. RECURSO IMPROVIDO, COM OBSERVAÇÃO.
+
+Nas razões do especial, alega-se violação do art. 197 do Código de Processo Civil, bem como dissídio jurisprudencial.
+Decido.
+2. A irresignação não merece prosperar.
+O Tribunal de origem registra que no caso em apreço o réu, ora recorrente, que é advogado, foi citado pessoalmente e deixou transcorrer in albis o prazo para apresentar contestação, sendo portanto revel.
+Ocorre que o réu foi citado por carta precatória a qual, ao ser juntada aos autos, gerou a atualização do site do TJSP com o andamento processual "petição juntada".
+O acórdão impugnado, ao adotar os fundamentos da sentença, assinala que o andamento processual cadastrado no site do TJSP não foi omisso e não estava propriamente errado, mas se utilizava de uma expressão genérica, ou seja, juntada de "petição diversa" para consignar a juntada da carta precatória que efetivou a citação.
+O réu, por sua vez, negligenciou o acompanhamento processual ao deixar de verificar do que se tratava dita "petição" que havia sido juntada e, assim, perdeu o prazo para apresentar contestação.
+A reforma do aresto, neste aspecto, demanda inegável necessidade de reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7 desta Corte.
+3. Por outro lado, o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, com a indicação das circunstâncias que identifiquem os casos confrontados. (Nesse sentido: REsp 441.800/CE, Rel. Ministro JORGE SCARTEZZINI, DJ 2.8.04).
+No caso em tela, a parte agravante traz à colação ementa de julgado, contudo não procede ao cotejo deste com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esse acórdão e o do caso em julgamento.
+A falta de cotejo analítico impede o acolhimento do apelo, pois não foram demonstradas em quais circunstâncias o caso confrontado e o aresto paradigma aplicaram diversamente o direito, sobre a mesma situação fática.
+Importante salientar que a análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 541, parágrafo único, do CPC e 255, § 2º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
