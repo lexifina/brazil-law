@@ -1,0 +1,25 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto por LATINA DISTRIBUIDORA DE ALIMENTOS LTDA E OUTROS contra a decisão que negou seguimento ao Recurso Especial, fundamentada na(o):
+Incidência, por analogia, das Súmulas n. 283 e 284 do Supremo Tribunal Federal porquanto as razões do recurso especial encontram-se dissociadas do que restou decido no acórdão recorrido; e
+Aplicação da Súmula n. 7 do Superior Tribunal de Justiça.
+Sustentam os Agravantes, em síntese (fls. 711/714e):
+Desta feita, como se observa dos fragmentos acima, a decisão recorrida foi satisfatoriamente impugnada em todos os seus termos pelo Recurso Especial, com particular destaque para a incidência do encargo legal de 20% adicionado na dívida tributária, que determina a inclusão dos honorários advocatícios por força de lei, ainda que se trate de débito de origem previdenciária, já que este também é administrado pela Receita Federal por força do art. 2º da Lei 11.457/2007:
+ ..
+Tem-se que a incidência dos honorários advocatícios limita-se à análise do arcabouço legal e a previsão normativa do encargo de 20%, dos honorários advocatícios e demais parâmetros das leis especiais de parcelamento. É despicienda análise das Certidões de Dívida Ativa, de seus valores e da capitulação legal, o que sequer fora cogitado pelo RECORRENTE nesta Instância Especial.
+Por fim, requerem o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Transcorreu in albis o prazo para impugnação (certidão de fl. 724e).
+É o relatório. Passo a decidir.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+Em juízo de retratação, consoante o disposto no § 2º, do art. 1.021 do CPC/15, reconsidero a decisão de fls. 694/697e, ficando prejudicado o exame do agravo internos de fls. 702/720e.
+Por outro lado, no tocante à condenação em honorários advocatícios, a orientação desta Corte era no sentido de que o art. 6º, § 1º, da Lei n. 11.941/09 só dispensou dos honorários advocatícios o sujeito passivo que desistir de ação ou renunciar ao direito em demanda, na qual se requer o restabelecimento de sua opção ou a sua reinclusão em outros parcelamentos.
+Contudo, com a entrada em vigor do art. 38, II, da lei 13.043/14, este Tribunal firmou posicionamento segundo o qual é incabível a condenação em honorários advocatícios em quaisquer caso de desistência de ação para adesão a parcelamento, instituído pelas Leis 11.941/2009, 12.865/2013 e 12.996/2014.
+Recentemente, a 1ª Turma, analisando a revogação do art. 38 da Lei n. 13.043/14, no julgamento do AgInt no REsp 1.446.115/SP, de relatoria do Ministro Napoleão Nunes Maia Filho, DJe 13.03.2018, posicionou-se no sentido de que esse dispositivo legal foi revogado pela MP n. 766/17, que também teve sua eficácia revogada pela MP n. 783/17, convertida na Lei n. 13.496/17. Assim, vigora, o art. 5º, § 3º, da Lei 13.496/17, que prevê o não pagamento dos honorários advocatícios aos casos em que há desistência e renúncia ao direito em que se funda a demanda para fins de adesão ao parcelamento, conforme estampa a ementa do julgado:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. RENÚNCIA AO DIREITO SOBRE O QUAL SE FUNDA A AÇÃO. ADESÃO AO PARCELAMENTO. APLICABILIDADE DA LEI PROCESSUAL SUPERVENIENTE. ART. 462 DO CPC/1973. AGRAVO INTERNO DA FAZENDA NACIONAL DESPROVIDO.
+1. Afasta-se a condenação em honorários de sucumbência aos casos em que há desistência e renúncia ao direito em que se funda a demanda para fins de adesão ao parcelamento. Precedentes: AgInt. no REsp. 1.441.665/SC, Rel. Min. REGINA HELENA COSTA, DJe 16.3.2017; AgRg no AgRg na DESIS no REsp. 1.436.958/CE, Rel. Min. BENEDITO GONÇALVES, DJe 27.3.2017.
+2. Observa-se que o art. 38 da Lei 13.043/2014 foi revogado pela MP 766/2017, que também teve sua eficácia revogada pela MP 783/2017, convertida na Lei 13.496/2017. Assim, vigora, o art. 5º., § 3º. da Lei 13.496/2017, que prevê o não pagamento dos honorários advocatícios. É certo que essa norma alcança os feitos em curso, nos termos do art. 462 do CPC/1973 (art. 493 do CPC/2015).
+3. Agravo Interno da Fazenda Nacional desprovido.
+(AgInt no REsp 1446115/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 13/03/2018).
+Assim, impõe-se reconhecer que, não havendo previsão expressa, se revela incabível a condenação em honorários advocatícios, no caso de desistência e renúncia ao direito em que se funda a demanda para fins de adesão ao parcelamento.
+Isto posto, com fundamento no art. 557, caput e § 1º-A, dou provimento ao recurso especial para afastar a condenação em honorários advocatícios fixado no percentual de 1% sobre o valor consolidado da dívida, ficando, por conseguinte prejudicado o exame do Agravo Interno de fls. 702/720e.
+Publique-se. Intimem-se.
