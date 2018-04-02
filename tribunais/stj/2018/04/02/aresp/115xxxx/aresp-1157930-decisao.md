@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por [NOME] contra decisão que negou seguimento ao recurso especial.
+O apelo extremo, fundamentado na alínea "c" do permissivo constitucional, visa reformar acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 174, e-STJ):
+EMENTA: APELAÇÃO CÍVEL - NEGÓCIO JURÍDICO DE COMPRA E VENDA DE IMÓVEL - MODALIDADE: AD CORPUS - IMÓVEL VENDIDO COMO COISA CERTA E DISCRIMINADA - REFERÊNCIA ENUNClATIVA ÀS SUAS DIMENSÕES - DIREITO DE ABATIMENTO/INDENIZAÇÃO INEXISTENTE.
+1. "A venda é ad corpus quando o imóvel é mencionado com confrontações certas e visíveis e a área assume caráter meramente enunciativo" (RT, 439:199), logo, presume-se que tanto o comprador quanto o vendedor examinaram as divisas do imóvel, tendo a intenção de alienar ou adquirir o que se continha dentro delas.
+2. Nos termos do §3º do art. 500 do Código Civil, "não haverá complemento de área, nem devolução de excesso, se o imóvel for vendido como coisa certa e discriminada, tendo sido apenas enunciativa a referência às suas dimensões, ainda que não conste, de modo expresso, ter sido a venda ad corpus".
+3. A compra e venda de imóvel é ad mensuram quando a área do imóvel é elemento determinante e essencial do contrato, com relação direta com o preço contratado, o que não se identifica no caso concreto, inexistindo, portanto, direito de abatimento/indenização do preço do negócio jurídico.
+Os embargos de declaração opostos pelo agravante foram rejeitados pelo acórdão de fls. 210-218 (e-STJ).
+Nas razões do recurso especial (fls. 221-234, e-STJ), o insurgente aponta, além do dissídio jurisprudencial, violação do art. 500 do Código Civil, defendendo a natureza ad mesuram da venda em questão, tendo em vista que (fl. 230, e-STJ):
+Nos autos, é incontroverso que, nas provas produzidas, sendo elas, referentes à compra e venda, trazem a respectiva área do imóvel, ou seja, não é objeto de discuto e do recurso o fato de os documentos referente a compra e venda constarem a metragem exata do imóvel, bem como é incontroverso o fato de nos documentos constarem uma metragem especifica de 220m2 e de fato o imóvel ter apenas 165,50m2.
+Busca, em suma, que seja mantida a decisão de primeiro grau.
+Contrarrazões apresentadas às fls. 245-258 (e-STJ).
+Em juízo de admissibilidade (fls. 261-262, e-STJ), negou-se seguimento ao recurso especial.
+Nas razões do agravo (fls. 265-279, e-STJ), o agravante, buscando destrancar o processamento da insurgência, refutou o fundamento apontado.
+Contraminuta apresentada às fls. 282-290 (e-STJ).
+É o relatório. Decido.
+O inconformismo não merece prosperar.
+1. Quanto a alegação de violação do art. 500 do Código Civil, defendendo a natureza ad mesuram da venda em questão, tendo em vista as referências às dimensões do imóvel, o Tribunal de origem afirmou que, verbis (fls. 184-185, e-STJ):
+Data venia, entendo que não está comprovada a diferença na metragem do imóvel objeto do contrato de compra e venda celebrado entre os litigantes. O registro do imóvel, que tem fé pública, informa que o terreno tem 220,00 metros quadrados. O memorial descritivo juntado com a petição inicial é documento particular, unilateral e foi questionado pela apelante na contestação.
+O ônus da prova incumbe ao autor, quanto ao fato constitutivo do seu direito e ao réu, quanto à existência de fato impeditivo, modificatívo ou extintivo do direito do autor (art. 333 do Código de Processo civil de 1973 e art. 373 do atual Código de Processo Civil).
+Com efeito, intimado para especificar as provas que pretendia produzir, o apelado se manifestou:"caso Vossa Excelência, não entenda que a documentação ora juntada nos autos sejam suficientes para o julgamento da presente ação, o autor, pretenderá produzir prova testemunhai, ou seja, depoimento pessoal do corretor que intermediou a venda do imóvel"(f. 98).
+Ora, para se comprovar que o tamanho da área do imóvel é inferior à metragem que consta no registro, o apelado deveria ter requerido a produção de prova pericial. Sabe-se que o juiz tem iniciativa probatória, mas se trata de uma faculdade, não um dever - caso contrário o juiz substituiria a parte no seu ônus de comprovar seu direito.
+No entanto, o fundamento de que o autor não se incumbiu do seu ônus da prova não foi impugnado no recurso especial. Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+2. Do exposto, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor da condenação, a ser suportado exclusivamente pela parte recorrente (enunciado nº 7/STJ), observado o disposto no art. 98, § 3º, do NCPC.
+Publique-se. Intimem-se.
