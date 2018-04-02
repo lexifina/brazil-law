@@ -1,0 +1,63 @@
+DECISÃO
+[NOME] agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas na Revisão Criminal n. 0802942-19.2015.8.02.0000.
+Nas razões recursais, a defesa aponta contrariedade ao art. 40, V, da Lei n. 11.343/2006, ao argumento de que a distância entre os estados não é elemento idôneo para fixar a fração de aumento em 1/2.
+Requer, dessa forma, seja fixado o patamar mínimo de aumento de pena.
+O recurso especial foi inadmitido pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento ou pelo desprovimento do agravo.
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada. Quanto ao recurso especial, também observo o preenchimento dos requisitos de admissibilidade.
+Com efeito, a questão atinente à dosimetria da pena foi examinada pelo Tribunal a quo, no julgamento da apelação, a evidenciar o prequestionamento da matéria. Além disso, o recurso apresenta argumentação suficiente para permitir a compreensão das teses suscitadas e a sua apreciação prescinde de revolvimento do contexto fático-probatório dos autos.
+II. Contextualização
+O ora agravante foi condenado, em primeira instância, à pena de 21 anos e 5 meses de reclusão, em regime inicial fechado, e 1.451 dias-multa, como incurso nos arts. 33, caput, e 35, ambos em combinação com o art. 40, V, todos da Lei n. 11.343/2006. O Juízo sentenciante estabeleceu a fração de 1/2 em relação à majorante, "considerada a grande distância entre os Estados envolvidos (Mato Grosso do Sul e Alagoas), o que milita em favor do recrudescimento da reprimenda, em face da maior periculosidade identificada pela atividade de transporte da droga" (fl. 25).
+Ao julgar o apelo defensivo, o Tribunal a quo reduziu a reprimenda imposta ao réu para 12 anos de reclusão, em regime inicial fechado, e 1.200 dias-multa, sob a seguinte motivação (fls. 53-56):
+ ..
+Analisando a decisão acima transcrita, observo que, das 08 (oito) circunstâncias judiciais previstas no art. 59, do Código Penal, os Magistrados de Primeiro Grau valoraram de forma negativa ao Réu apenas 01 (uma), qual seja, os motivos do crime, para ambos os ilícitos (tráfico de drogas e associação para o tráfico de drogas). No ponto, vejo que o Juiz sentenciante utilizou, ainda, a natureza da droga apreendida para majorar a reprimenda do Acusado na primeira fase da dosimetria.
+Dessa maneira, tendo em vista que, com relação ao cálculo da pena, há irresignação apenas da Defesa, passarei a analisar tão somente a citada circunstância desfavorável, preservando a fundamentação dos Juízes a quo no que se refere às demais circunstâncias judiciais.
+Em relação aos motivos do crime, ressalte-se que deve ser buscado algum outro motivo que se revele como sendo um plus ao definido pelo próprio tipo, sob pena de incorrer em bis in idem, por considerar como motivo negativo uma elementar do próprio tipo. Nesse aspecto, vejo que os Magistrados a quo valoraram a presente circunstância em razão da "ganância" do Réu, valorando-a, pois, de forma negativa. No entanto, entendo que tal motivação não pode ser considerada como circunstância negativa, apta a majorar a pena do Acusado nessa 1ª etapa, uma vez que tal aspecto já é punido pela própria tipicidade e previsão dos delitos, de acordo com a objetividade jurídica dos crimes de tráfico de drogas e de associação ao tráfico de substâncias entorpecentes.
+Desse modo, afasto a sua valoração negativa.
+Quanto ao pleito de incidência da causa especial de diminuição da pena descrita no art. 33, § 4º, da Lei 11.343/2006, embora a Defesa tenha alegado que o Réu é primário e tem bons antecedentes, friso que, para fazer jus ao referido benefício, o Agente não pode integrar organização criminosa, por expressa determinação contida em tal dispositivo.
+No caso em tela, conforme já debatido, o Acusado fez parte de uma associação para o tráfico de drogas, nos moldes de uma organização criminosa, não sendo possível, portanto, reduzir sua pena amparada em tal artigo.
+Assim, deixo de reconhecer a causa especial de diminuição invocada.
+Nessa linha, quanto ao crime de tráfico de drogas, considerando que o patamar da pena estabelecido para esse delito varia de 5 (cinco) a 15 (quinze) anos, e, em razão da inexistência de circunstâncias desfavoráveis ao Acusado, fixo a pena-base no mínimo legal previsto para o crime em tela, qual seja, 05 (cinco) anos de reclusão.
+Na segunda fase da dosimetria, consigno a inexistência de circunstâncias agravantes ou atenuantes.
+Na terceira etapa, ante a ausência de causas de diminuição, porém existindo a causa de aumento de pena disposta no art. 40, inciso V (tráfico entre Estados da Federação) da Lei de Drogas, tal como reconhecida na sentença recorrida, mantenho a majoração da penalidade em 1/2 (metade) e fixo a pena definitiva em 07 (sete) anos e 06 (seis) meses de reclusão.
+Quanto ao delito de associação para o tráfico, levando em consideração a ausência de circunstâncias desfavoráveis ao Réu, bem como que a baliza legal para tal crime é de 3 (três) a 10 (dez) anos, tenho por fixar a pena-base em seu mínimo legal, ou seja, 03 (três) anos de reclusão.
+Na segunda fase da dosimetria, consigno a inexistência de circunstâncias agravantes ou atenuantes.
+Na terceira etapa, ante a ausência de causas de diminuição, porém existindo a causa de aumento contida no art. 40, V (tráfico entre Estados da Federação) da Lei n.º 11.343/06, conforme disposto na sentença, mantenho a majoração da penalidade em 1/2 (metade) e fixo a pena definitiva em 04 (quatro) anos e 06 (seis) meses de reclusão.
+A vista disso, ante a presença de concurso material de crimes, fixo a reprimenda total do recorrente [NOME], pelos delitos previstos nos arts. 33 e 35 da Lei n.º 11.343/06, em 12 (doze) anos de reclusão, a ser cumprida inicialmente em regime fechado.
+Posteriormente, a defesa formulou pedido de revisão criminal. A Corte local julgou improcedente o pedido, ocasião em que consignou, no tocante à dosimetria da pena, que (fls. 85-89, grifei):
+ ..
+Aqui, o requerente, invocando o inciso I supracitado, objetiva a reforma do acórdão que confirmou a condenação, no capítulo referente à dosimetria da pena. Alega que uma causa de aumento foi aplicada em fração superior ao mínimo legal sob justificativa que considera inidônea.
+Convém ressaltar que a revisão criminal possui caráter excepcional, não se confundindo com uma segunda apelação. Como explica [NOME], a primeira hipótese de cabimento da revisão criminal pressupõe afronta a mandamento da lei, não avaliação da interpretação dada pelo juiz. E dá exemplos: se o réu for condenado por conduta atípica ou se o juiz desrespeitou regra de impedimento.
+ ..
+No caso concreto, a causa de aumento combatida tem previsão legal (art. 40, V, da Lei 11.343/06) e sua incidência não foi contestada; a fração eleita no acórdão não extrapola o máximo permitido na lei (2/3); e, por fim, a aplicação da majorante não prescindiu de fundamentação. O que alega o requerente é que essa fundamentação não é apropriada.
+Não há, portanto, verdadeira alegação de violação de texto expresso de lei ou sequer de princípios implícitos, de ordem constitucional ou legal. Enfim, a presente revisão não vai ao encontro das hipóteses legais de cabimento.
+Em todo caso, da leitura do acórdão vergastado, relatado pelo Exmo. Des. Otávio Leão Praxedes, acompanhado unanimemente pelos integrantes da Câmara Criminal em 21.05.2014, observa-se que a multicitada causa de aumento foi mantida no patamar em que aplicada na sentença para ambos os delitos (fls. 55/56). Na sentença (fls. 25 e 28), encontra-se a fundamentação encampada no acórdão:
+ ..
+Sem perder de vista que o requerente foi condenado por integrar organização voltada para o tráfico de drogas e que era o destinatário de uma encomenda de mais de 3kg de cocaína vinda do Mato Grosso para este estado, constata-se que a sentença - e, posteriormente, o acórdão - apresentou fundamentação escorreita para o patamar de aumento na terceira fase da dosimetria.
+É que, como consigna a Procuradoria-Geral de Justiça em seu parecer, o critério para o aumento adotado é aquele chancelado pela doutrina e pela jurisprudência.
+[NOME]: "a gradação - de um sexto a dois terços - deve cingir-se ao grau de interestadualidade do crime: quanto maior o número de estados-membros abrangidos pela atividade do agente, maior deve ser o aumento".
+ ..
+A fundamentação é, portanto, idônea para ensejar o aumento aplicado, e, inclusive, não foi usada em nenhuma outra fase da dosimetria, respeitando, assim, o princípio ne bis in idem.
+Feito esse registro, examino a tese defensiva.
+III. Majorante relativa à interestadualidade do delito
+Quanto ao aumento de pena efetivado na terceira fase da dosimetria, em razão da majorante relativa à interestadualidade do delito (art. 40, V, da Lei n. 11.343/2006), transcrevo, por oportuno, o disposto no referido artigo:
+Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:
+ ..
+V - caracterizado o tráfico entre Estados da Federação ou entre estes e o Distrito Federal;
+ ..
+Certo é que o verbo "transportar" é um dos núcleos do tipo descrito no art. 33 da Lei de Drogas, que traz consigo a ideia de levar ou conduzir coisas ou seres a determinado lugar. No entanto, entendo que a distância percorrida pelo agente e a complexidade da operação de transporte são elementos acidentais, não integrantes do próprio tipo penal, que podem, sim, ser considerados na fixação da dosimetria da pena. Isso porque não se pode equiparar o acusado que transporta substância entorpecente entre pequenas distâncias, em empreitadas rápidas, àquele grande difusor que se expõe a longas e demoradas viagens.
+Assim, uma vez caracterizado o tráfico entre estados da Federação ou entre estes e o Distrito Federal - circunstância que atrai a incidência da majorante prevista no inciso V do art. 40 -, a distância percorrida e/ou o número de fronteiras ultrapassadas pelo agente podem lastrear a escolha da fração de aumento de pena decorrente da interestadualidade do delito.
+Sobre essa questão, Guilherme de Souza Nucci leciona que:
+Quando o tráfico atingir mais de uma região do País, promovendo, portanto, uma distribuição espalhada e não concentrada da droga, de fato, cuida-se de circunstância mais grave, a merecer maior censura, consequentemente, aumento de pena. A gradação - de um sexto a dois terços - deve cingir-se ao grau de interestadualidade do crime: quanto maior o número de Estados-membros abrangidos pela atividade do agente maior deve ser o aumento.
+(Leis penais e processuais penais comentadas. 6. ed. rev. reform. e atual. São Paulo: Editora Revista dos Tribunais, 2012, p. 283).
+Essa também é a compreensão desta Corte Superior acerca da matéria: AgRg no AREsp n. 989.031/MG, Rel. Ministro Joel Paciornik, 5ª T., DJe 5/5/2017; HC n. 283.207/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 19/8/2014.
+No caso, as instâncias antecedentes justificaram a escolha do patamar de 1/2 na distância a ser percorrida para o transporte da droga (mais de 3 kg de cocaína) de sua origem (estado de Mato Grosso do Sul) ao seu destino (estado de Alagoas).
+Portanto, uma vez que a fração de aumento de pena foi fundamentada com base, justamente, na distância percorrida pelos agentes, não identifico nenhuma ilegalidade flagrante nesse ponto, notadamente porque a escolha do quantum específico de exasperação da reprimenda - dentro do intervalo fornecido pelo legislador (de 1/6 a 2/3) - é matéria afeta ao âmbito de certa discricionariedade do Magistrado.
+IV. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+V. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Ainda, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
