@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que não conheceu da impetração.
+Consta dos autos que o impetrante/paciente foi condenado como incurso no art. 121, § 2º, incisos I e IV, por duas vezes, c/c o art. 14, inciso II, ambos do Código Penal, a uma pena de 27 (vinte e sete) anos e 6 (seis) meses de reclusão, em regime inicial fechado.
+Extrai-se do Acórdão colacionado pela defesa que, no julgamento da apelação, fora mantida, por votação unânime, a condenação do Paciente. Foi, então, ajuizada Revisão Criminal, a qual foi indeferida, em 15/12/2015, pelo 8º Grupo de Direito Criminal do egrégio Tribunal de Justiça de São Paulo e, na data de 16/03/2016, encaminhada à D. Procuradoria de Justiça para ciência.
+Conforme devidamente circunscrito no parecer ministerial, a parte impetrante " p retende, em síntese, a anulação da sessão de julgamento do Tribunal do Júri por: (i) não ter o Juízo de piso interferido nem advertido o Promotor de Justiça que proferiu mentiras e palavras inadequadas durante o Júri; (ii) ter o paciente ficado indefeso durante o julgamento; (iii) terem os jurados sido influenciados por mentiras proferidas pelo Promotor; (iv) ter sido o julgamento contrário às provas dos autos; (v) um dos jurados que compôs o Conselho de Sentença não ter sido intimado; e, (vi) ter sido inválido o reconhecimento do réu pela vítima" (e-STJ fls. 132/133).
+O pedido liminar foi indeferido (e-STJ fls. 36/38).
+Foram prestadas informações (e-STJ fls. 43/129).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ
+É, em síntese, o relatório.
+Consoante se observa do relatório, a defesa pugna pela nulidade da sessão de julgamento do Tribunal do Júri.
+No entanto, verifico que a questão não pode ser conhecida por esta Casa, diante da falta de manifestação do Tribunal de origem sobre o tema.
+O Colegiado local nem sequer conheceu da impetração originária, conforme se observa às e-STJ fls. 5/9.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de [NOME] que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4ª. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016. p. 2470).
+Diante desse cenário, ante a falta de manifestação do Colegiado local, evidente a incompetência desta Corte Superior para o processamento e julgamento deste remédio constitucional, porquanto ausente ato a ser imputado à autoridade apontada como coatora, nos termos do art. 105, inciso I, alínea c, da Constituição Federal, bem como do art. 13, inciso I, alínea b, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.  ..
+(HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015).
+No mesmo sentido, a orientação do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento.
+(RHC 133.585 AgR, Rel. Ministro GILMAR MENDES, Segunda Turma, julgado em 21/06/2016, DJe 1º/08/2016).
+Ainda que assim não fosse, ad argumentandum tantum, quanto às supostas nulidades ocorridas na sessão de julgamento do Tribunal do Júri, observando a Ata da Sessão de Julgamento às e-STJ fls. 69/74, não se constata nenhum registro das alegações defensivas. E, nos termos do art. 571, VIII, do Código de Processo Penal, no caso de julgamento em Plenário, as nulidades deverão ser arguidas tão logo ocorram, sob pena de preclusão.
+Outrossim, nos termos da jurisprudência do Superior Tribunal de Justiça, seguindo orientação jurisprudencial do Supremo Tribunal Federal, o reconhecimento de nulidade no curso do processo penal reclama efetiva demonstração de prejuízo, à luz do art. 563 do Código de Processo Penal, segundo o princípio pas de nullité sans grief.
+Exemplificativamente:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TENTATIVA DE HOMICÍDIO QUALIFICADO. DENÚNCIA. INTERROGATÓRIO POLICIAL. AUSÊNCIA DE INFORMAÇÃO DO DIREITO AO SILÊNCIO. NULIDADE. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. NEGATIVA DA AUTORIA. DESPROVIMENTO.
+1. Nos termos da jurisprudência do Supremo Tribunal Federal, "o princípio do pas de nullité sans grief exige, em regra, a demonstração de prejuízo concreto à parte que suscita o vício, independentemente da sanção prevista para o ato, podendo ser ela tanto a de nulidade absoluta quanto a relativa, pois não se decreta nulidade processual por mera presunção" (RHC 123.890 AgR/SP, Rel. Ministra CÁRMEN LÚCIA, SEGUNDA TURMA, julgado em 5/5/2015, DJe 15/5/2015).
+2. Hipótese em que a defesa não apontou qualquer prejuízo decorrente da suposta falta de informação, no interrogatório policial, do direito ao silêncio. E o recorrente negou a autoria do delito.
+3. Recurso ordinário a que se nega provimento"
+(RHC 72.510/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/10/2016, DJe 21/10/2016, grifei)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se
