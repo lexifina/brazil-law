@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça de Goiás no julgamento do HC n. 241605-57.2016.8.09.0000.
+Infere-se dos autos que o recorrente foi condenado por ter supostamente praticado o delito previsto no art. 157, § 3º, segunda parte, c/c art. 14, inciso II, ambos do Código Penal - CP (latrocínio tentado), à pena de 15 anos e 4 meses de reclusão, em regime inicial fechado. Negado o direito de recorrer em liberdade.
+Irresignada com a manutenção da prisão preventiva, a defesa impetrou writ perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS. ROUBO QUALIFICADO. SENTENÇA CONDENATÓRIA. DIREITO DE RECORRER EM LIBERDADE. PREDICADOS PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. FUNDAMENTAÇÃO IDÔNEA E ADEQUADA. l) Não constitui constrangimento ilegal a negativa do direito de recorrer em liberdade ao acusado, que preso preventivamente pela prática de crimes objetivamente graves, nessa condição permaneceu durante toda a instrução e foi condenado à pena privativa de liberdade, em regime inicial fechado. 2 - Quando evidenciados na hipótese os requisitos do art. 312, do CPP, a eventual existência de predicados pessoais favoráveis não constitui, por si só, óbice ao decreto de prisão cautelar, que por encontrar respaldo constitucional no art. 5o, LXI, da CF, não implica em ofensa ao principio da presunção de inocência. ORDEM PARCIALMENTE CONHECIDA E DENEGADA (fl. 269).
+No presente recurso, alega excesso de prazo para o julgamento da apelação. Destaca que a custódia cautelar perdura por mais de dois anos sem que o mencionado recurso sequer tenha sido remetido ao Tribunal a quo.
+Assevera que o recorrente não sabia que um dos corréus estava armado e que não teve posse mansa e pacífica da res furtivae, razão pela qual deve responder apenas por tentativa de roubo. Aponta que a prova dos autos demonstra não ter havido envolvimento com os fatos que provocaram o disparo da arma pelo corréu. Sustenta, assim, que não estão presentes fatos concretos que justifiquem a prisão, devendo prevalecer o princípio da presunção de inocência. Aduz que a segregação foi fundamentada apenas na gravidade abstrata do delito.
+Ressalta as condições pessoais favoráveis do recorrente e afirma ser suficiente a aplicação de medidas cautelares alternativas.
+Requer, em liminar e no mérito, a expedição de alvará de soltura mediante aplicação de medidas cautelares alternativas previstas no art. 319 do CPP.
+Petição de contrarrazões apresentada (fl. 302), o recurso foi remetido a esta Corte Superior de Justiça (fls. 305/306). O pedido de liminar foi indeferido (fls. 315/316). O Ministério Público Federal opinou pelo não provimento do recurso em habeas corpus (fls. 324/328). As instâncias ordinárias prestaram informações (fls. 335/338, 341/344, 347/348, 356/362 e 363/369). Após as informações, o Ministério Público Federal apresentou novo parecer opinando pela prejudicialidade do recurso (fls. 371/374).
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso porque, conforme as informações prestadas às fls. 356/362, o Tribunal de origem julgou o recurso de apelação em 10/8/2017, tendo dado parcial provimento à irresignação para alterar a capitulação do delito.
+ Informou-se, ainda que a condenação transitou em julgado para os corréus. Em consulta telefônica ao Juízo de origem, foi informado pela servidora [NOME], Matrícula n. 5218542, que o acórdão da apelação transitou em julgado para o paciente em 9/10/2017.
+Desse modo, constata-se a perda superveniente do objeto do presente recurso, considerando que a prisão do recorrente passou a decorrer do cumprimento de pena definitiva.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso habeas corpus.
+Publique-se.
+Intime-se.
