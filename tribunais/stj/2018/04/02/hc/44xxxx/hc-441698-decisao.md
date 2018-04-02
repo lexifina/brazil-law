@@ -1,0 +1,17 @@
+DECISÃO
+1. Trata-se de habeas corpus no qual se pretende a revisão de decisão monocrática de Integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu pleito liminar em writ impetrado na mencionada Corte.
+Argumenta-se, em suma, a existência de evidente ilegalidade e arbitrariedade, as quais, por sua vez, estariam violando o direito à livre locomoção de VINICIUS KAIQUE DOS SANTOS COLACA.
+É o relatório.
+2. Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações:
+"Indefiro a liminar requerida.
+O paciente foi condenado à pena de 09 anos e 04 meses de reclusão, em regime inicial fechado, e pagamento de 1399 dias-multa, no valor unitário mínimo legal, em razão da prática dos crimes previstos no artigo 33, caput, c.c. artigo 40, inciso VI, e artigo 35, caput, todos da Lei n. 11.343/06 (fls. 13/22).
+No momento da prolação da r. sentença condenatória, o i. magistrado a quo manteve a custódia cautelar preventiva do paciente.
+Em uma primeira análise, verifico que a decisão está devidamente fundamentada, tendo sido considerado que, aliados ao quantum da pena imposta, persistem os motivos que autorizaram a decretação da custódia cautelar do paciente, que permaneceu preso durante toda a instrução criminal (fls. 13/22).
+Tratando-se de providência excepcional, a liminar somente se justifica quando há flagrante ilegalidade, hipótese não demonstrada, de forma inequívoca, até o presente momento.
+De rigor, portanto, a análise de todas as circunstâncias do caso, consideradas suas peculiaridades, com o objetivo de verificar a legalidade e até mesmo a razoabilidade do ato tido como ilegal" (e-STJ, fls. 14/15, grifamos).
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos por ora, a constrição cautelar do paciente.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+3. Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Após ciência do Ministério Público Federal e com o trânsito em julgado da presente decisão, arquivem-se os autos.
