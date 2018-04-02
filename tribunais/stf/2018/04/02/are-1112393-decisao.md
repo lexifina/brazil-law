@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios confirmou o entendimento do Juízo quanto à improcedência do pedido de abstenção de demolição de imóvel edificado em área de preservação permanente, considerada a legislação de regência. No extraordinário cujo trânsito busca alcançar a recorrente aponta a violação dos artigos 1º, inciso III, e 6º, cabeça, da Constituição Federal. Insurge-se contra a medida, tendo-a por desproporcional, aludindo ao princípio da dignidade da pessoa humana e ao direito social à moradia.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido o seguinte trecho:
+    Nesta toada, tratando-se de área de proteção ambiental, deve-se garantir a livre atuação da AGEFIS, de modo a coibir possíveis danos advindos de ocupações dessa natureza, haja vista que são extremamente prejudiciais ao meio ambiente, o que autoriza, face ao impacto da ação desmedida da requerente, a ação da Administração mediante o seu poder de polícia. Com efeito, conclui-se que não há prova inequívoca acerca da possibilidade de regularização do imóvel em questão, pois a área ocupada, como dito, situa-se em área de preservação permanente constituída pelo Parque Ecológico e de Uso Múltiplo Garumé, onde não está prevista a ocupação humana, fora, portanto, de área passível de regularização.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, sobretudo a Lei distrital nº 2.105/98, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5 % do valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 2 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
