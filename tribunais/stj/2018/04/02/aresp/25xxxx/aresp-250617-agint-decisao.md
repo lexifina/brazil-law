@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo interno interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF em face de decisão monocrática de fls. 667/672, e-STJ.
+1. Nas razões do recurso especial, entre outras questões, buscou a recorrente elucidar se em demandas envolvendo revisão de benefício do regulamento do plano de benefícios de previdência privada complementar, o patrocinador também pode ser acionado para responder solidariamente com a entidade fechada, matéria afetada pelo Ministro Luis Felipe Salomão, sob o rito dos Recursos Representativos de Controvérsia, à Segunda Seção do Superior Tribunal de Justiça nos autos do Resp nº 1.370.191/RJ, vinculados ao Tema n. 936.
+Assim, é imperiosa a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos, consoante determina o art. 2º da Resolução STJ n. 17, de 4 de setembro de 2013, in verbis:
+Art. 2º Verificada a subida de recursos fundados em controvérsia idêntica a controvérsia já submetida ao rito previsto no art. 543-C do Código de Processo Civil/1973, o presidente poderá:
+I - determinar a devolução ao tribunal de origem, para nele permanecerem sobrestados os casos em que não tiver havido julgamento do mérito do recurso recebido como representativo de controvérsia;
+II - determinar a devolução dos novos recursos ao tribunal de origem, para os efeitos dos incisos I e II do § 7º do art. 543-C do Código de Processo Civil, ressalvada a hipótese do § 8º do referido artigo, se já proferido julgamento do mérito do recurso representativo da controvérsia.
+2. Ante o exposto, torno sem efeito a decisão de fls. 667/672, e-STJ, o despacho de fls. 699, e-STJ, e determino a devolução dos autos à origem para que o presente recurso permaneça suspenso até o pronunciamento definitivo do STJ sobre o Tema n. 936, nos termos do artigo 1.037, inciso II, do CPC/2015 e, após, observe-se a sistemática prevista nos artigos 1.040 e 1.041 do CPC/2015. Prejudicada a análise das petições de fls. 676/689 e 702/709, e-STJ.
+Publique-se.
+Intimem-se.
