@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], inconformado com a decisão que inadmitiu o recurso especial contra acórdão do Tribunal de Justiça do Estado do Ceará e assim ementado:
+APELAÇÃO CÍVEL. CIVIL E PROCESSUAL CIVIL. DIREITO INTERTEMPORAL. APLICAÇÃO DO CPC DE 1973. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. AUTOR QUE NÃO COMPARECEU À AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. ALEGAÇÃO DE IMPOSSIBILIDADE EM RAZÃO DE ENFERMIDADE. ATESTADO MÉDICO VICIADO.
+SENTENÇA DE IMPROCEDÊNICA.
+Para a validade e eficácia do atestado médico comprobatório de enfermidade é imprescindível que esteja revestido das formalidades necessárias à sua validade, tais como o nome do paciente e a classificação da enfermidade no Código Internacional de Doenças. In casu, o apelante/autor requereu o adiamento da audiência de instrução porque supostamente se encontrava enfermo e impossibilitado de comparecer, acostando aos autos o documento de fl.
+68. Ocorre que no referido atestado o próprio nome do paciente não confere com o do recorrente e não consta a especificação do CID. Ademais, o juízo a quo ordenou que o oficial de justiça diligenciasse para averiguar se o apelante, de fato, se encontrava doente, restando demonstrado que não. Comprovada má-fé do apelante. RECURSO CONHECIDO E IMPROVIDO.
+SENTENÇA MANTIDA INTEGRALMENTE.
+Nas razões do recurso especial, o ora agravante aponta divergência jurisprudencial sobre a existência de cerceamento de defesa na hipótese em que o juízo indefere pedido de adiamento da audiência de oitiva das testemunhas por impossibilidade de comparecimento da parte, não obstante a juntada de atestado médico.
+É o relatório.
+Impossível conhecer do especial interposto com fundamento na alínea c do artigo 105, III, da Constituição Federal, porquanto, mesmo nesses casos, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, sob pena de atração do Enunciado Sumular n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente). Nesse sentido, ganham relevância os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - DELIBERAÇÃO MONOCRÁTICA QUE RECONSIDEROU DECISÃO ANTERIORMENTE PROFERIDA, PARA CONHECER DO RECLAMO A FIM DE NEGAR SEGUIMENTO AO RECURSO ESPECIAL, ANTE A INCIDÊNCIA DA SÚMULA 284/STF. INSURGÊNCIA DOS DEMANDADOS.
+1. Nos termos do art. 52, I e IV, "a" do RISTJ, não há nulidade no exercício do juízo de retratação pelo novo relator, quando do julgamento de agravo regimental. Precedentes.
+2. A ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+3. Agravo regimental desprovido (AgRg no AgRg no Ag 1155444/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA. ATRASO NA REGULARIZAÇÃO DO IMÓVEL. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+2. Inviável o recurso especial cuja análise das razões impõe reexame de matéria fática da lide, nos termos da vedação imposta pela Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento (AgInt no AREsp 820.096/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016).
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
