@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+O acórdão recorrido recebeu o seguinte sumário:
+APELAÇÃO CRIMINAL. FURTO SIMPLES. PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO ESTADO. INOCORRÊNCIA. ABSOLVIÇÃO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA ESPECÍFICA. CRIME IMPOSSÍVEL. MONITORAMENTO POR SISTEMA DE VIGILÂNCIA. IMPOSSIBILIDADE. ESTADO DE NECESSIDADE. NÃO COMPROVAÇÃO. REGIME INICIAL ABERTO NÃO ADEQUADO À ESPÉCIE. SUBSTITUIÇÃO DA REPRIMENDA CORPORAL POR PENAS ALTERNATIVAS. REQUISITOS NÃO CUMPRIDOS. CUSTAS. SUSPENSÃO DA EXIGIBILIDADE DO PAGAMENTO. HIPOSSUFICIÊNCIA FINANCEIRA.
+1. Por força do disposto no art. 110, §1º, não é possível ter por termo inicial para contagem do prazo prescricional data anterior à denúncia ou queixa.
+2. Não tendo transcorrido prazo superior ao lapso prescricional determinado pela pena "in concreto" entre os marcos interruptivos previstos em Lei, resta inviável o reconhecimento da extinção da punibilidade do agente, pela ocorrência da prescrição da pretensão punitiva do Estado, em sua modalidade retroativa.
+3. Tratando-se de agente que ostenta reincidência específica, devido ao envolvimento rotineiro com crime patrimonial é desaconselhável a aplicação do princípio da insignificância, vez que este princípio não se destina àqueles que fazem deste tipo de delito seu meio de vida.
+4. A vigilância exercida sobre a coisa não tem o condão de impedir a ocorrência do delito, pois o agente pode eventualmente burlá-la e, em conseqüência, retirar o bem da esfera de proteção da vítima.
+5. A existência de dificuldade financeira por parte do agente não é suficiente a caracterizar a excludente do estado de necessidade.
+6.Sendo o agente reincidente e portador de maus antecedentes, não há que se falar em abrandamento do regime prisional, nem em concessão do benefício da substituição da reprimenda corporal por penas alternativas.
+7. Deve ser concedida a justiça gratuita, mediante a causa suspensiva de exigibilidade das custas, quando se tratar de réu hipossuficiente (fl. 210).
+Consta dos autos que o recorrente foi condenado pela prática do crime previsto no artigo 155, caput, c/c art. 14, II, do Código Penal - CP (tentativa de furto), às penas de 8 meses de reclusão, em regime inicial semiaberto, e pagamento de 6 dias-multa, conforme a sentença às fls. 139-151.
+A defesa interpôs apelação, alegando a ocorrência da prescrição e pleiteando a absolvição do réu pelo princípio da insignificância ou a configuração de crime impossível, a modificação do regime e a substituição da pena corporal.
+O Tribunal de origem deu parcial provimento ao recurso, conforme acórdão às fls. 206-226.
+Na sequência, a defesa interpôs recurso especial, apontando violação dos artigos 17, e 23, I, do Código Penal. Sustenta, em síntese, que deve ser aplicado o princípio de bagatela, uma vez que a reincidência não interfere no seu reconhecimento e não restou implementada a tipicidade delitiva, porquanto o valor da res furtiva (R$ 13,90) não causou dano relevante.
+Alega que é o caso de crime impossível, pois o furto jamais se consumaria sob a permanente vigilância de sistema de segurança e que restou caracterizado o furto famélico.
+As contrarrazões foram apresentadas às fls. 245-247. O recurso especial foi admitido (fls. 249-250) e os autos vieram a esta Corte. O Ministério Público Federal opinou pelo desprovimento do recurso especial (fls. 260-273).
+É o relatório. Decido.
+O recurso não merece provimento.
+In casu, o julgado atacado afastou o princípio da insignificância em virtude do réu se envolver em outros delitos contra o patrimônio, estando caracterizada a reincidência específica (fl.216), o que está de acordo com a jurisprudência desta Corte Superior, conforme se depreende dos seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TENTATIVA DE FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. OBJETOS AVALIADOS EM APROXIMADAMENTE 28% DO SALÁRIO MÍNIMO.
+I. A lei penal não deve ser invocada para atuar em hipóteses desprovidas de significação social, razão pela qual os princípios da insignificância e da intervenção mínima surgem para atuar como instrumentos de interpretação restrita do tipo penal.
+II. No caso, todavia, o recorrente é reincidente e possui diversas anotações por delitos patrimoniais, além de ter tentado subtrair bens avaliados em R$ 192,00, aproximadamente 28% do salário mínimo, não fazendo jus à aplicação do princípio bagatelar.
+III. Agravo regimental a que se nega provimento. (AgRg no REsp 1567443/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 11/3/2016) .
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. INAPLICABILIDADE.
+Na linha da jurisprudência desta eg. Corte, ressalvado o meu entendimento pessoal, mostra-se incompatível com o princípio da insignificância a conduta ora examinada, haja vista que o agravante é reincidente (precedentes).
+Agravo regimental desprovido. (AgRg no AREsp 811.128/MT, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 4/3/2016).
+Sobre o crime impossível, "nos termos da Súmula 567 desta Corte, a existência de sistema eletrônico de vigilância, por si só, não torna impossível a consumação do crime de furto" (RHC 80.542/RS, desta relatoria, QUINTA TURMA, DJe 17/5/2017). No mesmo sentido:
+PENAL. TENTATIVA DE FURTO. AÇÃO PRESENCIADA POR GERENTE DO SUPERMERCADO. INEFICÁCIA RELATIVA DO MEIO. CRIME IMPOSSÍVEL. NÃO OCORRÊNCIA. AUSÊNCIA DE ILEGALIDADE A SANAR NA VIA ELEITA. NÃO CONHECIMENTO DO HABEAS CORPUS.
+1. A existência de sistema de monitoramento eletrônico ou a observação do praticante do furto pelo gerente do supermercado, como ocorreu na espécie, não rende ensejo, por si só, ao automático reconhecimento da existência de crime impossível, porquanto, mesmo assim, há possibilidade de o delito ocorrer. Incidência da Súmula 567 desta Corte. Tese firmada em recurso representativo da controvérsia (Resp nº 1.385.621/MG, DJe 02/06/2015).
+2. Inexistência de flagrante ilegalidade a sanar na via eleita.
+3. Writ não conhecido. (HC 357.795/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 1º/8/2016).
+No tocante à alegação de furto famélico, para se concluir de forma diversa do entendimento do Tribunal de origem, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Confiram-se, nesse sentido, os precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO QUALIFICADO. DESCLASSIFICAÇÃO. FURTO FAMÉLICO. EXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES. NECESSIDADE DE REVOLVIMENTO DO CONTEXTO FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O Tribunal local, com base nas circunstâncias e especificidades do caso concreto, identificadas depois de intensa análise do conjunto fático-probatório dos autos, manteve a condenação dos agravantes pela prática do crime de roubo qualificado - art. 157, § 2º, I e II, do CP -, afastando o pleito de desclassificação para enquadrar o fato ao conceito de furto famélico ou exercício arbitrário das próprias razões.
+2. Alterar as conclusões consignadas no acórdão recorrido, exigiria a incursão aprofundada nas provas e demais elementos de convicção dos autos, o que não é possível em sede de recurso especial. Incidência da Súmula 7/STJ. 3. Agravo regimental improvido (AgRg no AREsp 622135, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/05/2016).
+Diante do exposto, com fundamento no art. 932, inc. IV, do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial.
+Publique-se. Intime-se.
