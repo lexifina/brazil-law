@@ -1,0 +1,31 @@
+DECISÃO
+[NOME] interpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0025101-88.2014.8.26.0506).
+Consta dos autos que o recorrente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões deste recurso, a defesa aponta violação dos arts. 65, III, "d", e 67, ambos do Código Penal. Para tanto, afirma que devem ser compensadas a agravante da reincidência e a atenuante da confissão espontânea.
+Aduz, ainda, dissídio jurisprudencial e indica como acórdão paradigma o REsp n. 1.341.370/MT, de relatoria do Ministro Sebastião Reis Júnior.
+Requer o provimento do recurso para que seja aplicada a mencionada compensação.
+Contrarrazões às fls. 211-219 e decisão de admissibilidade às fls. 222-223.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+Decido.
+O recurso é tempestivo e preenche os demais requisitos de admissibilidade.
+Em relação à aventada divergência jurisprudencial, destaco que, além de haver mencionado o dispositivo de lei federal tido como violado, o recorrente apontou como paradigma o REsp n. 1.341.370/MT e, embora de forma sucinta, realizou o devido cotejo analítico, em que demonstrou, clara e objetivamente, a apontada incompatibilidade de entendimentos e a similitude fática entre as demandas, motivo pelo qual conheço do recurso especial pela alínea "c" do permissivo constitucional.
+No tocante à compensação entre a atenuante da confissão espontânea e a agravante da reincidência, a matéria foi pacificada no julgamento dos EREsp n. 1.154.752/RS e do Recurso Especial Representativo de Controvérsia n. 1.341.370/MT. No primeiro, julgado em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal fixou o entendimento de que, observadas as peculiaridades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o artigo 67 do Código Penal".
+Também é certo que este Superior Tribunal havia consolidado o entendimento de que a compensação da confissão espontânea com a agravante genérica da reincidência deveria "atender a certos parâmetros, como a espécie, a natureza e os graus de reincidência, sob pena de violação aos princípios da individualização da pena e da proporcionalidade" (AgRg no REsp n. 1.356.527/DF, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 25/9/2013). Vários foram os precedentes que não permitiam a compensação entre a confissão e a reincidência quando a recidiva do réu for específica e/ou numerosa, por evidenciar maior reprovabilidade da conduta. Nesse sentido:
+ ..
+3. No julgamento do Resp n. 1.341.370/MT, a Terceira Seção deste Superior Tribunal reafirmou o entendimento de que, observadas as peculiaridades de cada caso, é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal. A compensação, no entanto, deve atender a certos parâmetros, como a espécie, a natureza e os graus de reincidência.
+4. Não é possível realizar a compensação integral entre a confissão e a reincidência, ante a reincidência específica do réu.
+ ..
+8. Ordem não conhecida.
+(HC n. 309.243/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 11/9/2015, destaquei)
+ ..
+2. Esta Corte pacificou o entendimento no sentido de serem igualmente preponderantes a agravante da reincidência e a atenuante da confissão espontânea. Todavia, não é viável a compensação integral das mencionadas agravante e atenuante, quando se tratar de reincidência específica. Precedentes.
+3. Habeas corpus não conhecido.
+(HC n. 332.211/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 19/2/2016, grifei)
+Contudo, em sessão realizada em 11/10/2017, a Terceira Seção desta Corte Superior, por ocasião do julgamento do HC n. 365.963/SP, Rel. Ministro Felix Fischer, decidiu ser possível a integral compensação da atenuante da confissão espontânea com a reincidência específica.
+Assim, constato que não há óbice à compensação integral entre a confissão espontânea e a agravante da reincidência, ainda que específica.
+Procedo, pois, à nova dosimetria da pena. Verifico que a reprimenda-base do recorrente ficou estabelecida em 5 anos de reclusão e pagamento de 500 dias-multa (fl. 175). Na segunda fase, estão presentes a atenuante da confissão e a agravante da reincidência específica, as quais ficam devidamente compensadas entre si. Por fim, na terceira etapa, não há nenhuma causa de aumento ou de diminuição, motivo pelo qual fica a pena do acusado definitivamente estabelecida em 5 anos de reclusão e pagamento de 500 dias-multa.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, com fundamento no art. 932, VIII, do Código de Processo Civil de 2015, c/c o art. 3º do Código de Processo Penal, e no art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, a fim de compensar a confissão espontânea com a reincidência específica e redimensionar a pena para 5 anos de reclusão e 500 dias-multa, em regime inicial fechado (Processo n. 0025101-88.2014.8.26.0506).
+Determino o envio de cópia dos autos ao Juízo da 4ª Vara Criminal da Comarca de Ribeirão Preto - SP (juízo da condenação) para que encaminhe a guia de recolhimento ao juízo da VEC, a fim de dar início à execução da pena imposta ao recorrente. A determinação deverá ser desconsiderada caso o réu cumpra, atualmente, a reprimenda.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias de origem.
+Publique-se e intimem-se.
