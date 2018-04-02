@@ -1,0 +1,41 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. CASSAÇÃO DE APOSENTADORIA CONCEDIDA COM LASTRO EM PROVA FALSA. ADULTERAÇÃO DE DOCUMENTOS. COMPROVAÇÃO. REPETIÇÃO DE VALORES RECEBIDOS. POSSIBILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fls. 213/214):
+PREVIDENCIÁRIO. PROCESSO CIVIL. AÇÃO REVISIONAL. ADEQUAÇÃO. APOSENTADORIA POR IDADE. UTILIZAÇÃO DE DOCUMENTOS FALSOS. RESTITUIÇÃO DE VALORES. DESCABIMENTO. SUCUMBÊNCIA RECÍPROCA MANTIDA.
+I - Rejeitada a argumentação do réu quanto à impossibilidade de ação revisional para desconstituir sentença judicial que determinou a concessão de beneficio previdenciário.
+II - O pagamento de beneficio previdenciário constitui relação jurídica de trato sucessivo, portanto, apurando-se, posteriormente, que os documentos em que se fundamentou a sentença concessiva do beneficio, foram resultados de práticas fraudulentas, portanto, possuindo vício em seu nascedouro, perde a sentença o suporte fático de sua validade, tornando-a nula, não se convalescendo com o transcurso do tempo. Aplicação dos princípios de legalidade, moralidade e o da indisponibilidade dos bens públicos.
+III - Em depoimento perante a Polícia Federal de Bauru, a ré admitiu ser falso o contrato de trabalho rural anotado na CTPS, restando afastada a alegado cerceamento de defesa e ofensa ao contraditório.
+IV - A sentença prolatada nos autos do processo nº 14/95, bem como o acórdão que a confirmou, foram proferidos a partir de documentos falsos, restando caracterizada a fraude perante a Previdência Social.
+V - Em que pese o fato de o documento apresentado possuir irregularidades, não há que se falar em restituição dos valores pagos porquanto as quantias auferidas pela ré tiveram como suporte decisões judiciais que se presumem válidas e com aptidão para concretizar os comandos nelas insertos.
+VI - Sucumbência recíproca mantida.
+VII - Recursos improvidos.
+Embargos de declaração rejeitados.
+No apelo especial, a parte recorrente alega violação dos seguintes artigos: a) 535, I e II, do CPC, na medida que o Tribunal a quo não teria enfrentado questões relevantes postas nos embargos de declaração; b) 154 do Dec. 3.048/99, 876, 884, 885 e 886 do CC/2002, pois é devida a devolução dos valores recebidos indevidamente, ainda mais quando o benefício foi concedido com base em prova falsa.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 267/268.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Não se vislumbra omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque o Tribunal a quo apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que os embasaram.
+No que pertine à possibilidade de devolução de valores recebidos pela recorrida indevidamente em razão de fraude na prova documental usada para obtenção de aposentadoria, o Tribunal local ao solucionar a controvérsia o fez mediante os seguintes fundamentos:
+"(..)
+Entretanto, em que pese o fato de o documento apresentado possuir irregularidades, não há que se falar em restituição dos valores pagos porquanto as quantias já auferidas pela ré tiveram como suporte decisões judiciais que se presumem válidas e com aptidão para concretizar os comandos nelas insertos.
+(..)
+Este não é o caso dos presentes autos. O v. acórdão embargado ao manter a sentença que cassou o beneficio previdenciário por ter sido concedido com base em falso lastro documental, já apreciou a questão da devolução dos valores recebidos pelo réu, ao decidir que "O direito a prestações alimentícias efetivamente não comporta repetição". Cumpre apenas destacar que ante a cassação do beneficio, não aufere o réu rendimentos mensais previdenciários a serem objeto de desconto direto das parcelas pleiteadas pela autarquia, assim, para qualquer outra forma de cobrança ou constrição executória, nos termos do Código de Processo Civil, haveria de ser comprovada a participação do réu no delito de contrafação que deu ensejo ao reconhecimento de atividade rural para fins de beneficio previdenciário.
+Contudo, verifica-se do excerto do voto que o Tribunal a quo adota entendimento dissonante daquele adotado por esta Corte Superior de Justiça, em casos em que comprovada fraude na prova e/ou má-fé.
+Com efeito, a jurisprudência do STJ firmou-se no sentido de que a devolução de verbas previdenciárias só não é possível quando o beneficiário agiu sem fraude ou má-fé, o que geralmente ocorre nas hipóteses em que o benefício foi pago a maior por erro da administração. De outro lado, havendo a má-fé é possível a restituição.
+RECURSO ESPECIAL - DIREITO PREVIDENCIÁRIO - RESTITUIÇÃO DE PARCELAS PAGAS DE BOA-FÉ - IMPOSSIBILIDADE.
+1. É firme a jurisprudência desta Corte Superior no sentido da irrepetibilidade das verbas previdenciárias pagas a maior, recebidas de boa-fé pelo segurado, dado o caráter alimentar dos valores.
+Precedentes.
+2. No caso em apreço, a Corte a quo confirmou a ausência de comportamento doloso, fraudulento ou de má-fé por parte da recorrida, ressaltando que o recebimento indevido decorreu somente de equívoco do próprio INSS (fl. 273).
+3. Recurso especial não provido.
+(REsp 1301952/RJ, Rel. Min. Diva Malerbi (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), Segunda Turma, DJe 04/12/2012)
+AGRAVO REGIMENTAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO ESPECIAL. MILITAR. PENSÃO DE FILHA. ART. 29 DA LEI N. 3.765/1960. REDAÇÃO ORIGINAL. APLICABILIDADE. TEMPUS REGIT ACTUM. ACUMULAÇÃO COM MAIS DE DUAS PENSÕES PREVIDENCIÁRIAS. IMPOSSIBILIDADE. DEVOLUÇÃO DOS VALORES INDEVIDAMENTE RECEBIDOS. POSSIBILIDADE. MÁ-FÉ CONFIGURADA DIANTE DA PROVA DE DECLARAÇÃO FALSA DA BENEFICIÁRIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO VIOLADO OU INTERPRETADO DE FORMA DIVERGENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (grifo nosso)
+1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada.
+2. A inversão do que ficou decidido, como pretendido pela recorrente, demandaria o reexame do acervo fático-probatório constante dos autos, providência que contraria a Súmula 7/STJ.
+3. A falta de particularização do dispositivo de lei federal que teria sido violado, bem como daquele a que o acórdão recorrido teria dado interpretação divergente, impede o conhecimento do recurso especial tanto pela alínea a (violação de lei federal), quanto pela alínea c (divergência jurisprudencial), por configurar deficiência nas razões recursais, atraindo a incidência da Súmula 284/STF: 4. Agravo regimental improvido.
+(AgRg no REsp 1187791/BA, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe 02/04/2014)
+In casu, "em ação revisional em que se possibilitou o contraditório, ficou consignado que o benefício previdenciário foi obtido por meio de falsificação de documento que possibilitou o reconhecimento de vínculos trabalhistas falsos. Portanto, os valores percebidos pela recorrida foram recebidos de má-fé. Sendo assim, não recai sobre ela o princípio da irrepetibilidade das verbas previdenciárias" (Min. Francisco Falcão, 08/06/2017, REsp N. 1.669.885/SP)
+Assim, diante das peculiaridades do caso concreto, há necessidade de devolução dos valores recebidos irregularmente, nos termos do art. 115 da Lei n. 8.213/91.
+Ante o exposto, dou provimento ao recurso especial. Inverto os honorários advocatícios fixados na sentença - devido na sua integralidade ao ora recorrente-, e os majoro em 10%, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
