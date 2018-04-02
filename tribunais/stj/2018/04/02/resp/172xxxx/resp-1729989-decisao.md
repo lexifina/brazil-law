@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 516, e-STJ):
+Cível. Compromisso de compra e venda de imóvel. Arras confirmatórias. Inexecução do contrato. Pretensão de declaração de culpa do vendedor para a rescisão do pacto e devolução, em dobro, do valor já pago. Improcedência do pedido principal e do pedido reconvencional do primeiro réu. Apelação dos autores e da segunda ré.
+Inexecução do compromisso decorrente de insucesso na venda pelos autores de seu imóvel. Fato incluído na esfera de previsibilidade do homem médio. Culpa civil daqueles que se reconhece. Impossibilidade de se transferir qualquer responsabilidade a culpa do desfazimento aos réus. Ausência de comprovação de que o pedido de levantamento do FGTS tenha sido negado em razão de óbice na certidão do imóvel.
+Devolução do valor pago. Impossibilidade, diante dos termos da lei civil. Se o negócio não é concretizado por ato do comprador, perde este o valor das arras dadas em prol do vendedor. Inteligência do art. 418 do Cód. Civil.
+Recurso da segunda ré. Acolhimento. Parte que não foi sucumbente na demanda. Aplicação do disposto no art. 20, caput e § 4º, do CPC. Condenação dos autores no pagamento das despesas processuais e honorários advocatícios a este recorrente.
+Provimento do primeiro recurso e improvimento do segundo. Reforma parcial da sentença combatida.
+Opostos embargos de declaração, foram rejeitados (fls. 554-559, e-STJ).
+Em suas razões recursais (fls. 562-582, e-STJ), os recorrentes apontaram violação da Lei n.º 8.078/90 (arts. 51 e 53). Sustentaram, em síntese, que deveria ser observado o CDC no caso dos autos, que não autoriza a perda integral das prestações ou do sinal do negócio. Assim, segundo alegam, "as arras confirmatórias fazem parte do pagamento, constituindo-se em antecipação do preço total do bem, devendo, portanto, ser devolvidas no caso de não concretização do negócio jurídico" (fl. 566, e-STJ).
+Contrarrazões às fls. 596-599 e 600-611 (e-STJ).
+Em juízo de admissibilidade, o Tribunal de origem não admitiu o reclamo (fls. 613-615, e-STJ).
+Por força do provimento do AREsp n.º 180.392/RJ (fls. 704-705, e-STJ), os autos ascenderam a esta Corte Superior para melhor exame da controvérsia.
+É o relatório.
+Decido.
+1. De início, destaca-se que o acórdão recorrido foi publicado antes da entrada em vigor da Lei nº 13.105/2015, pelo que o recurso em análise está sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme o Enunciado Administrativo n. 2/2016 desta Corte.
+2. O recurso não pode ser conhecido.
+Isso porque o recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A indicação genérica de violação a dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional foi ou não malferida (fls. 564 e 567, e-STJ).
+Dessa forma, é de rigor a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Sobre o tema:
+AGRAVO INTERNO - AGRAVO DE INSTRUMENTO - RECURSO ESPECIAL - NO ÂMBITO DO RECURSO ESPECIAL NÃO CABE APRECIAÇÃO DE VIOLAÇÃO À RESOLUÇÃO - DANOS MORAIS - DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO NOS TERMOS LEGAIS - QUANTUM INDENIZATÓRIO - REEXAME DE PROVA - SÚMULA 7/STJ.
+1.- Não cabe no âmbito do recurso especial apreciação de violação à Resolução, uma vez que resoluções, portarias, circulares e instruções, conquanto tenham natureza normativa, não se enquadram no conceito de "lei federal" previsto no permissivo constitucional.
+2.- Alegar violação à lei de forma genérica, sem particularizar os dispositivos violados, tem-se como deficiente a fundamentação do recurso especial, inviabilizado na origem (Súmula 284/STF).
+3.- Só se conhece do especial pela alínea c, se o dissídio jurisprudencial estiver comprovado nos moldes exigidos pelos artigos 541, parágrafo único, do Código de Processo Civil e 255, parágrafos 1º e 2º, do Regimento Interno desta Corte, com a descrição da similitude fática e os pontos divergentes das decisões.
+4.- Em âmbito de recurso especial não há campo para se revisar entendimento assentado em provas, conforme está sedimentado no enunciado 7 da Súmula desta Corte.
+5.- É possível a intervenção desta Corte para reduzir ou aumentar o valor indenizatório por dano moral apenas nos casos em que o quantum arbitrado pelo acórdão recorrido se mostre irrisório ou exagerado, situação que não ocorreu no caso concreto.
+6.- Agravo Regimental improvido.
+(AgRg no AREsp 11.760/MG, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 09/09/2011)  grifou-se .
+3. Ademais, infere-se na leitura do acórdão recorrido (fls. 517-521, e-STJ) que o conteúdo normativo dos arts. 51 e 53 da Lei n.º 8.078/90 não foi apreciado, tampouco discutido pelo órgão julgador, carecendo do necessário prequestionamento, mesmo após a oposição dos embargos de declaração (fls. 555-559, e-STJ) , razão pela qual incide, à espécie, o teor da Súmula 211 desta Corte, verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se a correta interpretação da legislação federal.
+Neste sentido, transcrevem-se os seguintes precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EMBARGOS DE TERCEIRO. DESCONHECIMENTO DO CÔNJUGE DA EXECUÇÃO E PENHORA SOBRE O IMÓVEL ADJUDICADO. NÃO COMPROVAÇÃO. QUESTÕES NÃO DISCUTIDAS PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AFERIÇÃO DA TEMPESTIVIDADE DOS EMBARGOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O conteúdo normativo de todas as normas apontadas como violadas não foi debatido pelo Tribunal de origem, carecendo, no ponto, do imprescindível requisito do prequestionamento, entendido como o indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal. Dessa forma, mesmo tendo sido opostos embargos de declaração, estes não tiveram o condão de suprir o devido prequestionamento, razão pela qual deveria a parte, no recurso especial, ter suscitado a violação ao art. 535, II, do Código de Processo Civil, demonstrando de forma objetiva a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado. Inafastável, nesse particular, a Súmula n. 211 desta Corte.  ..
+3. Agravo improvido.
+(AgRg nos EDcl no AREsp 740.572/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/05/2016, DJe 19/05/2016).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO DEMONSTRAÇÃO. SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. O recurso não demonstra qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, não se conhecendo da alegada violação do artigo 535 do Código de Processo Civil. Incidência, por analogia, do entendimento da Súmula 284 do Supremo Tribunal Federal.
+2. A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ. 3. Agravo interno a que se nega provimento.
+(AgInt no AgRg no AREsp 787.839/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/04/2016, DJe 22/04/2016).
+4. Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
