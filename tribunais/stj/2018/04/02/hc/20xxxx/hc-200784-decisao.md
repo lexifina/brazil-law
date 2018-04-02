@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de SÍLVIO CÉSAR DOS SANTOS, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado como incurso nas sanções do art. 157, § 2º, I e II, c/c art. 71, caput, ambos do Código Penal, às penas de 6 (seis) anos e 5 (cinco) meses de reclusão, em regime inicial fechado, e 21 (vinte e um) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação, que foi desprovido, nos termos da seguinte ementa:
+APELAÇÃO CRIMINAL - ART. 157, § 2º, INCISOS I E II C.C. ART. 71, CAPUT, AMBOS DO CÓDIGO PENAL - REVOGAÇÃO DA PRISÃO DECORRENTE DA CONDENAÇÃO - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR - FRAGILIDADE PROBATÓRIA - INOCORRÊNCIA - CONJUNTO PROBATÓRIO ROBUSTO - PALAVRA DA VÍTIMA E RECONHECIMENTO FOTOGRÁFICO SEGUROS - RECURSO DESPROVIDO.
+No Superior Tribunal de Justiça, sustenta o impetrante a existência de nulidade absoluta, diante da alegada ausência de intimação do advogado constituído pelo réu na audiência de interrogatório, Dr. [NOME].
+Requer, liminarmente, que seja reconhecido ao paciente o direito de aguardar o julgamento deste writ em liberdade, e, no mérito, pleiteia a anulação da sentença de primeiro grau, desde o seu interrogatório.
+Liminar indeferida à e-STJ fl. 127.
+Informações prestadas às e-STJ fls. 132/133 e 136/219.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ fls. 221/223).
+É, em síntese, o relatório.
+Decido.
+Aduz o impetrante, em linhas gerais, que o paciente constituiu o advogado Dr. [NOME]m audiência de interrogatório, oportunidade em que o causídico apresentou a defesa preliminar, oralmente, e arrolou testemunha de defesa. Por outro lado, afirma, a intimação para os atos subsequentes do processo se deu em nome de advogado que lhe havia sido nomeado pelo juízo.
+A esse respeito, o Tribunal de origem assim consignou (e-STJ fl. 116):
+Primeiramente, verifica-se que o réu foi defendido por advogado nomeado pelo juízo, não havendo qualquer prejuízo à sua defesa. É bem verdade que em seu interrogatório realizado por carta precatória na comarca de Jeremoabo-BA o réu indicou que tinha como advogado o Dr.[NOME] [NOME] [NOME], no entanto, não foi juntado aos autos qualquer procuração, e a indicação do causídico, ao que parece, se referia somente ao acompanhamento, do ato de interrogatório do réu naquela comarca. De qualquer modo, em nenhum momento arguiu nenhuma nulidade por ter sido defendido por defensor dativo, o qual, aliás, se desincumbiu de forma satisfatória do seu ônus, inexistindo prejuízo à defesa do réu.
+Com efeito, não há nos autos nenhum instrumento de mandato que tenha conferido ao Dr. [NOME] poderes para atuar no feito originário. Consta apenas, à e-STJ fl. 73, termo de audiência realizada em 17/4/2007, a qual o paciente compareceu acompanhado do referido advogado. Naquela oportunidade, ele asseverou que "ficará provado no decorrer da instrução que os fatos narrados na denúncia não correspondem, data venia, à realidade", e arrolou testemunhas.
+Como bem asseverou o Tribunal a quo, não ficou claro nos autos se a presença do referido patrono limitar-se-ia ou não àquele ato processual, sendo certo que para a impetração de habeas corpus exige-se prova pré-constituída das alegações.
+Sobre o tema:
+HABEAS CORPUS. VIA INDEVIDAMENTE UTILIZADA EM SUBSTITUIÇÃO A REVISÃO CRIMINAL. NULIDADE DA INTIMAÇÃO DO ACÓRDÃO IMPUGNADO. INTIMAÇÃO DE ADVOGADO DIVERSO DO CONSTITUÍDO PELO PACIENTE. NULIDADE. PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA. TRÁFICO DE ENTORPECENTES.  ..  WRIT NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+(..)
+2. O constrangimento ilegal, no seio do remédio heroico, demanda demonstração por meio de prova pré-constituída. Descumprida tal tarefa, de bem aparelhar a petição da ação mandamental, tem-se clara hipótese de incidência do ônus objetivo da prova, pelo qual, diante de situação em que há insuficiência/inexistência de elemento da prova, passa-se a perquirir sobre o ônus da prova subjetivo, ou seja, a quem caberia a produção da prova pré-constituída do constrangimento ilegal. Tocando ao recorrente tal incumbência, com a insuficiência probatória, a este recai a desvantagem processual.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida de ofício tão-somente para que, afastada a obrigatoriedade do regime inicial fechado no tocante ao crime de tráfico de drogas, o Juízo das Execuções, analisando o caso concreto, avalie a possibilidade de eventual modificação do regime inicial de cumprimento da pena.
+(HC 283.432/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/11/2014, DJe 19/11/2014, grifei).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO, ESPECIAL OU DE REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO. INDEVIDA APLICAÇÃO DA REVELIA. INTERROGATÓRIO DE CORRÉU SEM A PRESENÇA DE DEFENSOR DO PACIENTE. NULIDADE. INOCORRÊNCIA. RÉU CITADO POR EDITAL. ADVOGADO DEVIDAMENTE CONSTITUÍDO. AUSÊNCIA DE PREJUÍZO. NÃO CONHECIMENTO DO WRIT.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2 . Se o réu encontra-se em local incerto e não sabido e, citado por edital, não comparece mas constitui advogado para promover a sua defesa, correto é o prosseguimento do feito, nos termos do artigo 366 do CPP.
+3. Nossa Lei Processual Penal adota, em sede de nulidades processuais, o princípio pas de nullité sans grief, segundo o qual, somente há de se declarar a nulidade se, alegada em tempo oportuno, houver demonstração ou comprovação de efetivo prejuízo para a parte.
+4. Habeas corpus não conhecido.
+(HC 180.148/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 20/10/2015, DJe 06/11/2015, grifei).
+Ademais, vê-se que a nulidade aventada na presente via não foi suscitada em alegações finais nem tampouco em razões de apelação, o que causa perplexidade se considerado que o causídico havia, como alega a defesa, sido constituído por ocasião da realização do interrogatório do paciente. Natural que na condição de advogado do réu tomasse conhecimento do andamento do processo antes do encerramento da instrução ou mesmo em fase recursal, a fim de apontar a configuração da referida nulidade - ausência de intimação para a prática de atos processuais. A inércia em tal proceder, a meu juízo, não se revela justificada e demonstra, por outro lado, a preclusão, que impede seja alegada neste momento.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
