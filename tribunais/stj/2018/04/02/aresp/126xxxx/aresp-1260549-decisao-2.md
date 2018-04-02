@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL. 1. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. 3. MULTA POR LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE MÁ-FÉ OU INTUITO PROTELATÓRIO PELA INTERPOSIÇÃO DE RECURSO CABÍVEL. 4. AGRAVO CONHECIDO PARA NÃO CONHECIMENTO DO RECURSO ESPECIAL DE IMPRENSA OFICIAL DO ESTADO S.A. - IMESP.
+DECISÃO
+Trata-se de agravo interposto por Imprensa Oficial do Estado S.A. - IMESP contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que o cônjuge da agravada ajuizou ação de obrigação de fazer combinada com indenização por dano moral, julgada parcialmente procedente para condenar a agravante ao pagamento da complementação de aposentadoria na modalidade de pensão e de indenização por danos morais.
+Interpostas apelações pelas partes, a Trigésima Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso de IMESP e negou provimento ao recurso da Srª. Yolanda, em acórdão assim ementado (e-STJ, fl. 1.459):
+Programa de Demissão Voluntária ou Plano de Dispensa Incentivada. Suspensão do pagamento da complementação da aposentadoria sob a alegação de que o aposentado deveria ajuizar ação contra a Fazenda Pública. Ação de obrigação de fazer ajuizada para obrigar a IMESP a continuar pagando o benefício. Cláusula de acordo que previa a suspensão dos pagamentos quando a Fazenda Pública assumisse a obrigação. Inexistência de condição, pois não havia efeito subordinado a evento futuro e incerto. Ausência de fato que ensejasse a resolução da obrigação. Sentença determinando o restabelecimento. Decisão mantida. Danos morais. Inocorrência. Mero inadimplemento contratual não enseja esse tipo de indenização.
+Apelo da ré parcialmente provido para afastar a condenação ao pagamento de dano moral, e apelo da sucessora do autor improvido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação do art. 422 do Código Civil.
+Sustentou, em síntese, que a recorrida não observou os princípios da probidade e da boa-fé, que devem reger as relações contratuais.
+Asseverou, ainda, ofensa ao art. 5º da Constituição Federal.
+Contrarrazões às fls. 1.541-1.559 (e-STJ), com pedido de aplicação de multa por litigância de má-fé.
+O processamento do apelo nobre não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta às fls. 1.589-1.597 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, quanto à ofensa a dispositivos da Constituição Federal, observa-se que é inviável, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 544, § 4º, I, DO CPC. PLEITO DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO. PRECEDENTES. DECISÃO MANTIDA. 1. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 544, § 4º, I, do CPC, não impugna os fundamentos da respectiva inadmissibilidade (Súmulas nºs 283 do STF e 518 desta Corte). 2. Consoante disposto no art. 105 da Carta Magna, o Superior Tribunal de Justiça não é competente para se manifestar sobre suposta violação de dispositivo constitucional, nem mesmo a título de prequestionamento. 3. Agravo regimental não provido
+(AgRg no AREsp n. 798.991/RS, Relator Ministro Moura Ribeiro, Quarta Turma, DJe 3/2/2016).
+No que tange à violação do art. 422 do Código Civil, constata-se que o dispositivo não foi objeto de debate pelas instâncias ordinárias, estando ausente, portanto, o requisito do prequestionamento, atraindo a incidência da Súmula 211/STJ.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscite a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido. (REsp 1639314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017 - sem grifo no original)
+Por fim, quanto à pretensão da parte recorrida em aplicar a pena da litigância de má-fé, constata-se que não merece guarida, pois, conforme entendimento desta Corte, "a interposição de recursos cabíveis não implicam em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de Imprensa Oficial do Estado S.A. - IMESP.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em R$ 200,00 (duzentos reais).
+Publique-se.
