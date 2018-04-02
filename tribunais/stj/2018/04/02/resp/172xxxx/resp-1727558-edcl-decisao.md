@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de embargos de declaração, opostos por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S.A e OUTRAS., em face da decisão de fls. 651/654, que conheceu e deu provimento ao recurso especial, para afastar a indenização fixada a título de danos morais e condenou a parte recorrida ao pagamento das despesas processuais e honorários advocatícios, os quais fixei em R$ 1.200,00 (um mil e duzentos reais).
+Nas razões recursais (fls. 657/664), a parte embargante alega que há obscuridade na decisão embargada, "uma vez que não se sabe a que título foram arbitrados tais honorários advocatícios, se referem-se a honorários recursais apenas, por terem sido sagradas vencedoras do recurso especial, ou honorários sucumbenciais propriamente ditos".
+No mais, defendem haver omissão na decisão embargada, já que o julgado nada menciona a respeito da redistribuição da sucumbência. Pretendem seja considerado que houve sua sucumbência mínima, para que os honorários advocatícios sejam de completa responsabilidade da parte ora embargada.
+E continuam:
+Diante do momento oportuno, esclarecem que a presente contenda foi julgada procedente em parte, restando no final deferido APENAS 01 (um) dos 06 (seis) pedidos contidos na inicial, especificamente o pagamento de multa contratual.
+É o relatório. DECIDO.
+2. Razão assiste às embargantes, pois há omissão em relação ao reflexo do provimento do recurso especial nos ônus da sucumbência.
+Com efeito, verifica-se que, realmente, apenas parte mínima dos pedidos feitos pela parte autora, ora embargada, foram acolhidos, no caso, a incidência da multa contratual. Caracterizada, portanto, a sucumbência mínima das embargantes nos autos, na forma do parágrafo único do art. 86 do Código de Processo Civil de 2015, mantendo-se, no mais, o percentual fixado na origem (10% - dez por cento do valor da condenação).
+3. Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, para sanar a omissão referente aos ônus sucumbenciais, reconhecendo-se a sucumbência mínima das embargantes nos autos, na forma do parágrafo único do art. 86 do Código de Processo Civil de 2015, mantendo-se, no mais, o percentual fixado na origem (10% - dez por cento do valor da condenação).
+4. Por fim, considerando ao disposto no 85, § 11º, do Código de Processo de 2015 e também já consignado na decisão embargada, majoro os honorários sucumbenciais recursais, devidos pelos autores aos patronos das rés, para R$ 1.200,00 (um mil e duzentos reais).
+Publique-se. Intimem-se.
