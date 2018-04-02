@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo, interposto por [NOME] E CIA LTDA, contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo regimental. Decisão que indeferiu o pedido de gratuidade processual, determinando o recolhimento das custas processuais no prazo de 05 dias. Agravante que financiou veículo no valor de RS 249.531,56. Pedido formulado por pessoa jurídica que deve ser instruído com prova cabal de que não possui condições econômicas de suportar os encargos do processo. Documentos acostados aos autos que não são suficientes para demonstrar a hipossuficiencia da pessoa jurídica. Decisão mantida. Recurso improvido.
+Embargos de declaração rejeitados pelo acórdão de fls. 319-323 e, com aplicação de multa, pelo acórdão de fls. 343-350.
+Nas razões do recurso especial, a recorrente aponta violação aos arts. 80, 81, 489, II e § 1o, IV e 1022 do CPC/15; sustentando, em síntese: a) negativa de prestação jurisdicional; e, b) necessidade de afastamento da multa imposta em sede embargos de declaração.
+É o relatório.
+Decido
+O recurso procede, em parte.
+Inicialmente, não prospera a alegada ofensa aos arts. 489, II e § 1o, IV e 1022 do CPC/15, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Contudo, relativamente à multa aplicada em sede de embargos de declaração, o recurso merece provimento. Observa-se que os embargos de declaração, na espécie, foram opostos com o intuito de questionar matéria considerada não apreciada e para fins de prequestionamento. Tal o desiderato dos embargos, não há por que inquiná-los de protelatórios; daí que, em conformidade com a Súmula n. 98 deste Superior Tribunal de Justiça, deve ser afastada a multa aplicada pelo Tribunal local. Veja-se, a exemplo, o seguinte julgado:
+"AGRAVO REGIMENTAL - AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES BRASIL TELECOM S/A - CONTRATO DE PARTICIPAÇÃO FINANCEIRA ART. 538, PARÁGRAFO ÚNICO, DO CPC - MULTA - AFASTAMENTO - NECESSIDADE - INCIDÊNCIA DA SÚMULA N. 98/STJ - VALOR PATRIMONIAL DA AÇÃO - DATA DA INTEGRALIZAÇÃO DO CAPITAL _ BALANCETE MENSAL CORRESPONDENTE - VERBA HONORÁRIA - AUSÊNCIA DE CONDENAÇÃO EM DINHEIRO - - FIXAÇÃO COM BASE NOS ARTS. 20, § 4º, DO CPC - AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. A multa imposta com fundamento no artigo 538, parágrafo único, do CPC, é de ser afastada, quando, embora tenham sido rejeitados os embargos de declaração, estes tenham sido opostos com a finalidade de prequestionamento da questão federal, conforme disposto na Súmula n. 98 desta Corte, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório".
+(..)
+4. Agravo regimental parcialmente provido."
+(AgRg nos EDcl no Ag 928.938/RS, 3ª Turma, Rel. o Min. MASSAMI UYEDA, DJe de 5.11.2009)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial a fim de afastar a multa imposta à recorrente em sede de embargos de declaração.
+Publique-se.
