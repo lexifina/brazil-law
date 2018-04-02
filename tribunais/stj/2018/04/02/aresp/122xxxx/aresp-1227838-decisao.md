@@ -1,0 +1,35 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] AGENCIA DE VIAGENS E TURISMO LTDA. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL - INDENIZAÇÃO - TRANSPORTE AÉREO - MUDANÇA DE VÔO - FALHA NA PRESTAÇÃO DE SERVIÇO POR AGÊNCIA DE VIAGEM - DANOS MORAIS - CONFIGURAÇÃO. Para a apuração da responsabilidade objetiva, basta a existência de dano e nexo de causalidade, sendo prescindível a apuração da culpa, conforme orientação do artigo 14 do CDC. Comprovados a falha na prestação de serviço por agência de viagem, que demorou dias para conseguir uma alteração de vôo para a autora, que não deu causa á mudança, é patente o dever de indenizar. Na fixação do valor da indenização por danos morais, devem ser levadas em consideração a capacidade econômica do agente, seu grau de culpa ou dolo, a posição social ou política do ofendido e a intensidade da dor sofrida por este.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 844, § 3º, do CC.
+Alega, em síntese, que, "se a Recorrente foi considerada devedora solidária, imprescindível que o acordo firmado com a correquerida se estenda a ela,  .. ." Aduz que a transação realizada entre credor e um dos devedores solidários aproveita aos demais.
+É o relatório. DECIDO.
+2. Ao apreciar a controvérsia, o Tribunal de origem assim consignou:
+A apelante e a apelada TAP Air Portugal - Transportes Aéreos Portugueses S.A. comunicaram às fls. 114/115 a composição de acordo extrajudicial entre elas e requereram a extinção do feito em relação a tal apelada, nos termos do art. 269, III, do CPC/73, o que foi feito à fl. 119.
+Em referido acordo, constou:
+"01- Pela presente transação, e na melhor forma de direito, as partes põem fim ao litígio mediante o pagamento, pela TAP, da quantia total de R$6.000,00 (seis mil reais), destinados à satisfação de todos os direitos e consectários pleiteados na presente demanda pelo autor, a título de indenização por danos morais e danos materiais sofridos em decorrência de responsabilidade da TAP.
+(..) 05- Com a efetivação do depósito e o cumprimento integral do acordo ora estabelecido, os acordantes ofertam, entre si, plena, rasa, total e irrevogável quitação com relação aos fatos narrados na peça preambular e a todos os danos sofridos em função do mesmo, ainda que não elencados no rol de pedidos, inclusive supervenientes, nada mais podendo reclamar, reciprocamente, em juízo ou fora dele, seja a que título for.
+(..) 08- 0 presente acordo não implica a solução da lide relativamente a outra Ré, prosseguindo regularmente o feito quanto a mesma, [NOME] DO [NOME] AGENCIA DE VIAGENS E TURISMO LTDA".
+Levando em consideração os termos do acordo extrajudicial, considero que somente foram indenizados os danos decorrentes da conduta da companhia área apelada, e não os decorrentes da conduta da empresa de agência de viagens.
+Dessa forma, diante do pagamento dos por um dos co - devedores, tendo em vista a responsabilidade solidária prevista no CDC, deve ser observado referida quitação em eventual condenação da outra apelada.
+Assim, nota-se que o Tribunal local decidiu em consonância com a jurisprudência desta Corte, no sentido de que a transação só irá extinguir a dívida em relação aos demais codevedores quando o credor der a quitação por toda a dívida, e não apenas parcialmente, como no presente caso.
+À guisa de exemplo:
+RESPONSABILIDADE CIVIL. EXECUÇÃO DE CÉDULA COMERCIAL. SOLIDARIEDADE PASSIVA. PAGAMENTO PARCIAL COM REMISSÃO DE UM DOS DEVEDORES. VALOR IRRISÓRIO EM RELAÇÃO AO MONTANTE DEVIDO. SALDO DEVEDOR REMANESCENTE. REDUÇÃO DE, NO MÍNIMO, A QUOTA-PARTE CORRESPONDENTE.
+1. É firme a jurisprudência do STJ no sentido de que a transação efetivada entre um dos devedores solidários e seu credor só irá extinguir a dívida em relação aos demais codevedores (CC, art. 844, § 3º) quando o credor der a quitação por toda a dívida, e não de forma parcial.
+2. A remissão ou exclusão de determinado devedor solidário pelo credor, em razão do pagamento parcial do débito, deverá, para fins de redução do valor total devido, corresponder à dedução de, no mínimo, sua quota-parte, partilhando-se a responsabilidade pro rata, sob pena de prejudicar o exercício do direito de regresso contra os coodeverores, pois o credor iria receber por inteiro uma obrigação já parcialmente extinta; e o devedor que pagasse o total da dívida não poderia reembolsar-se da parte viril dos coobrigados, pois um deles já teria perdido, anteriormente e por causa distinta, a sua condição de devedor.
+3. Na hipótese, em uma execução contra cinco devedores solidários, em razão do pagamento parcial e irrisório com remissão obtida por um deles (CC, art. 277), entendeu o Tribunal que os outros codevedores continuariam responsáveis pelo total do débito cobrado (montante aproximado de R$ 3.500.000,00 - três milhões e meio de reais), abatida tão somente a quantia paga de R$ 20.013,69 (vinte mil treze reais e sessenta e nove centavos); sendo que, em verdade, deverá ser abatida a quota-parte correspondente ao remitido, isto é, 1/5 (um quinto) do valor total executado.
+4. Recurso especial a que se dá parcial provimento.
+(REsp 1478262/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/10/2014, DJe 07/11/2014)
+RECURSOS ESPECIAIS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, DECORRENTES DE EXAME MÉDICO, CUJO RESULTADO INDICOU, ERRONEAMENTE, SER O FETO PORTADOR DE "SÍNDROME DE DOWN" - TRANSAÇÃO CELEBRADA ENTRE UM DOS DEVEDORES SOLIDÁRIOS E OS DEMANDANTES - INSTÂNCIAS ORDINÁRIAS QUE CONDENARAM O CODEVEDOR SOLIDÁRIO AO PAGAMENTO DE INDENIZAÇÃO AOS PAIS, EXCLUÍDA A HIPÓTESE DE REPARAÇÃO À FILHA, [NOME] DOS FATOS. INSURGÊNCIA DOS DEMANDANTES E DA OPERADORA DE PLANO DE SAÚDE.
+ .. .
+2. Irresignação interposta por Golden Cross S/A.
+ .. .
+2.2 Extinção da obrigação (dever de indenizar) ante a transação e quitação parcial firmada entre os demandantes e um dos devedores solidários (hospital). Tese afastada. Subsistência da obrigação quanto ao codevedor solidário, não abrangido pelo instrumento liberatório, cujos efeitos devem ser aquilatados por meio de interpretação restritiva (art. 843 do CPC). Precedentes.
+2.2.1 A quitação da dívida outorgada pelo credor a um dos devedores solidários por meio de transação, não aproveita aos codevedores, senão até a concorrência da quota-parte pela qual era responsável, sobretudo quando o acordo expressamente exclui de sua abrangência o codevedor, no caso, a operadora do plano de saúde, a qual responde pelo saldo, pro rata.
+ .. .
+4. Recursos especiais improvidos.
+(REsp 1170239/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/05/2013, DJe 28/08/2013)
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83 do STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
