@@ -1,0 +1,51 @@
+EMENTA
+ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ENUNCIADO N. 211 DA SÚMULA DO STJ. INEXISTÊNCIA DE PREQUESTIONAMENTO IMPLÍCITO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento com pedido de efeito suspensivo interposto contra decisão proferida pela Juíza de Direito da 2ª Vara da Fazenda Pública e Autarquias da Comarca de Belo Horizonte, que rejeitou a exceção de pré-executividade nos autos de Ação Civil Pública n. 0024043347376, proposta pelo Ministério Público do Estado de Minas Gerais em desfavor do agravante, que versa sobre a apropriação de patrimônio público pelo recorrente quando ocupava o cargo de Procurador do Estado de Minas Gerais. Conforme determinação do despacho de fls. 68-70, juntou-se aos autos cópia da decisão agravada (fls. 72-73).
+II - A decisão foi integralmente mantida pelo Tribunal de Justiça do Estado de Minas Gerais (fls. 119-127).
+III - Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se - em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos - as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+IV - A tese de violação ao art. 267, § 3º, do Código de Processo Civil de 1973, não merece ser conhecida, em razão do não cumprimento do pressuposto recursal objetivo - extrínseco - do prequestionamento.
+V - A ausência de discussão da temática retratada pelo mencionado dispositivo legal pelo Tribunal a quo constitui óbice intransponível ao conhecimento do recurso, a teor do que dispõe a Súmula n. 211 do Superior Tribunal de Justiça: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+VI - Em se tratando de acórdão publicado sob a égide do Código de Processo Civil de 1973, aplica-se o entendimento a respeito da impossibilidade do denominado prequestionamento ficto. Nesse sentido: AgInt no AREsp 892.106/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 7/3/2017, DJe 20/3/2017.
+VII - Ainda que assim não fosse, o enfrentamento da alegação de preclusão da matéria demandaria revolvimento fático-probatório, hipótese terminantemente vedada pela Súmula n. 7 do Superior Tribunal de Justiça. Em caso análogo, assim decidiu esta Corte.
+VIII - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu agravo de instrumento com pedido de efeito suspensivo interposto por [NOME] contra decisão proferida pela Juíza de Direito da 2ª Vara da Fazenda Pública e Autarquias da Comarca de Belo Horizonte, que rejeitou a exceção de pré-executividade nos autos de Ação Civil Pública n. 0024043347376, proposta pelo Ministério Público do Estado de Minas Gerais em desfavor do agravante, que versa sobre a apropriação de patrimônio público pelo recorrente quando ocupava o cargo de Procurador do Estado de Minas Gerais.
+Conforme determinação do despacho de fls. 68-70, [NOME] juntou aos autos cópia da decisão agravada (fls. 72-73).
+A decisão foi integralmente mantida pelo Tribunal de Justiça do Estado de Minas Gerais (fls. 119-127), nos termos assim ementados:
+EMENTA: AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DE SENTENÇA. NULIDADE DA DECISÃO. AUSÊNCIA DE ARGUIÇÃO EM TEMPO E MODO OPORTUNOS. INEXISTÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZOS. RECURSO DESPROVIDO. -Nos termos do artigo 245 do Código de Processo Civil, a nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão. O sistema jurídico brasileiro condiciona o reconhecimento da nulidade à existência de efetivo prejuízo, homenageando os princípios da celeridade e economia dos atos processuais e fazendo do processo um mecanismo de persecução e efetivação de interesses materiais, pelo desprestígio do exacerbado apego às formas.
+[NOME] interpôs o presente recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal e nos arts. 541 e seguintes do Código de Processo Civil de 1973 (fls. 134-139). Sustenta a violação ao preceito normativo contido no art. 267, § 3º, do Código de Processo Civil de 1973.
+Em resumo, alega o recorrente que o Tribunal a quo teria inadequadamente avaliado os elementos fático-jurídicos do presente processo, na medida em que: a) a decisão recorrida entendeu estar preclusa a matéria discutida na exceção de pré-executividade; b) o agravo de instrumento tratava da inexistência de condições da ação, diante do uso indevido de provas ilícitas nos autos em comento; c) as nulidades absolutas decorrentes da falta de condição da ação ou de pressuposto processual podem ser reconhecidas de ofício pelo Juiz, a qualquer tempo e grau de jurisdição.
+Foram apresentadas contrarrazões ao recurso especial pelo Ministério Público do Estado de Minas Gerais (fls. 146-151).
+O Ministério Público Federal opinou pelo não conhecimento do recurso especial (fls. 173-177), em parecer assim ementado:
+RECURSO ESPECIAL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. I - AS TESES VEICULADAS NO RECURSO ESPECIAL NÃO FORAM DEBATIDAS PELO TRIBUNAL DE ORIGEM. INVIABILIDADE DE ANÁLISE EM SEDE DE RECURSO ESPECIAL, POR AUSÊNCIA DE PREQUESTIONAMENTO. II - MODIFICAR AS CONCLUSÕES DO ACÓRDÃO IMPUGNADO DEMANDARIA O REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 07/STJ. III - PARECER PELO NÃO CONHECIMENTO DO RECURSO ESPECIAL.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento nos artigos 34, XVIII, a, e 255, § 4º, I e II, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se - em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos - as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+São aplicáveis ao presente caso os arts. 34, XVIII, a, e 255, § 4º, I, do Regimento Interno do Superior Tribunal de Justiça.
+De proêmio, cumpre registrar que a tese de violação ao art. 267, § 3º, do Código de Processo Civil de 1973, não merece ser conhecida, em razão do não cumprimento do pressuposto recursal objetivo - extrínseco - do prequestionamento.
+A ausência de discussão da temática retratada pelo mencionado dispositivo legal pelo Tribunal a quo constitui óbice intransponível ao conhecimento do recurso, a teor do que dispõe a Súmula n. 211 do Superior Tribunal de Justiça: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Em se tratando de acórdão publicado sob a égide do Código de Processo Civil de 1973, aplica-se o entendimento a respeito da impossibilidade do denominado prequestionamento ficto. A propósito do tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AVERBAÇÃO DE ATA DE ASSEMBLÉIA GERAL DE ASSOCIAÇÃO. DÚVIDA SUSCITADA PELO OFICIAL DE JUSTIÇA. SENTENÇA DE IMPROCEDÊNCIA. AUSÊNCIA DE ANÁLISE DOS DISPOSITIVOS APONTADOS COMO VIOLADOS. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO DESPROVIDO.
+1. A despeito da oposição de embargos de declaração, o Tribunal de origem não analisou os arts. 57 e 58 do Código Civil, o que inviabiliza o conhecimento do recurso especial, em razão da falta de prequestionamento (Súmula 211/STJ).
+2. Considerando que o acórdão recorrido foi publicado na vigência do Código de Processo Civil de 1973, não há que se falar em aplicação do disposto no art. 1.025 do CPC/2015, o qual admite o chamado prequestionamento ficto (Enunciado Administrativo n. 2 do STJ). 3. Agravo interno desprovido.
+(AgInt no AREsp 892.106/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 7/3/2017, DJe 20/3/2017) (grifos não constantes no original).
+Ainda que assim não fosse, o enfrentamento da alegação de preclusão da matéria demandaria revolvimento fático-probatório, hipótese terminantemente vedada pela Súmula n. 7 do Superior Tribunal de Justiça. Em caso análogo, assim decidiu esta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDEVIDA INOVAÇÃO RECURSAL. PRECLUSÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Incabível o exame de tese não exposta no recurso especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem examinou a prova dos autos, para concluir pela inexistência de caso fortuito ou força maior a excluir a responsabilidade da recorrente. Alterar tal conclusão é inviável em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 965.101/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 6/12/2016, DJe 15/12/2016).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
