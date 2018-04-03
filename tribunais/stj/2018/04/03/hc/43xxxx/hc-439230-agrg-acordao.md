@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS INDEFERIDO LIMINARMENTE. CONDENAÇÃO POR TRÁFICO DE DROGAS. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. POSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DA PENA PRIVATIVA DE LIBERDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. Segundo a jurisprudência mais recente deste Superior Tribunal, é possível a execução provisória da pena privativa de liberdade após o esgotamento da instância ordinária, mesmo quando a decisão não apresente nenhum fundamento ou ainda quando a sentença, sem recurso do Ministério Público, tenha garantido o direito de recorrer em liberdade até o trânsito em julgado.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto contra a decisão mediante a qual indeferi liminarmente o pedido de habeas corpus impetrado em favor de [NOME], de seguinte ementa (fl. 46):
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO CONFIRMADA EM SEGUNDA INSTÂNCIA. DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA PRIVATIVA DE LIBERDADE. ESGOTAMENTO DAS VIAS ORDINÁRIAS.
+POSSIBILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Petição inicial indeferida liminarmente.
+Reitera-se, em suma, que  ..  a decisão combatida mostra-se carente de fundamentação legal, posto que não teceu nenhuma linha de consideração a respeito do presente caso que pudesse justificar a determinação da execução provisória, quando se percebe que agravante já contava com decisão judicial que reconhecia o seu direito de recorrer em liberdade (fl. 80).
+Ressalta-se que  ..  o tema da execução provisória não é pacífico perante o Supremo Tribunal Federal, não havendo obediência jurisdicional sobre a matéria (fl. 81).
+Aponta-se a plausibilidade do tema objeto do recurso especial, no qual  ..  tem a possibilidade de haver uma modificação da reprimenda que não importaria sequer em pena privativa de liberdade (fl. 96).
+Requer-se, assim, a reconsideração da decisão que indeferiu liminarmente o habeas corpus ou, que seja o presente agravo submetido ao colegiado.
+Na Petição n. 125.209/2018 (fl. 52/74), a defesa requer a desconsideração da petição do agravo regimental ora analisado, para que seja substituído pela nova petição presente às fls. 98/119, o que não pode ser acolhido ante a preclusão consumativa.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): No meu entendimento, os argumentos trazidos no regimental não são suficientes para infirmar a razões apresentadas na decisão ora atacada, a qual mantenho por seus próprios fundamentos (fls. 47/48):
+ ..  O Supremo Tribunal Federal no julgamento do HC n. 126.292/SP, ocorrido em 17/2/2016, da relatoria do Ministro Teori Zavascki, por maioria, entendeu que a execução provisória de acórdão penal condenatório proferido em julgamento de apelação, ainda que sujeito a recurso especial ou extraordinário, não comprometia o princípio constitucional da presunção de inocência.
+E, mais, em 5/10/2016, o Plenário do Supremo Tribunal Federal, por maioria, indeferiu liminares pleiteadas nas Ações Declaratórias de Constitucionalidade (ADCs) 43 e 44, considerando que o art. 283 do Código de Processo Penal não impede o início da execução da pena após condenação em segunda instância.
+No mesmo sentido, o Superior Tribunal de Justiça:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS DENEGADO.
+1. Após o julgamento do Habeas Corpus n. 126.292/SP (STF, Relator Min. TEORI ZAVASCKI, TRIBUNAL PLENO, julgado em 17/02/2016), esta Corte passou a adotar o entendimento do Supremo Tribunal Federal de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal". Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ.
+2. Habeas corpus denegado.
+(HC n. 336.993/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/11/2016)
+Assim, no caso, esgotadas as vias ordinárias (julgados os embargos infringentes e os embargos de declaração opostos), estando a sentença condenatória confirmada pelo Tribunal local e encerrada a análise dos fatos e provas que assentaram a culpa do condenado, não há óbice à execução da pena  ..
+Ora, tem-se reafirmado que, em se tratando de pena privativa de liberdade, como na espécie,  ..  uma vez esgotadas as instâncias ordinárias, a execução provisória das penas constitui consectário lógico, circunstância que dispensa a necessidade de fundamentação da medida (EDcl no AgRg nos EDcl no AREsp n. 524.565/PR, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/2/2018).
+Ainda,  ..  após o julgamento do Habeas Corpus n. 126.292/SP (STF, Relator Ministro TEORI ZAVASCKI, TRIBUNAL PLENO, julgado em 17/2/2016), esta Corte passou a adotar o entendimento do Supremo Tribunal Federal de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal". Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ (RHC n. 90.035/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 5/3/2018).
+Ante o exposto, nego provimento ao agravo regimental.
