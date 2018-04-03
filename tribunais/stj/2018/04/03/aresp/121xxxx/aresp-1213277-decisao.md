@@ -1,0 +1,77 @@
+DECISÃO
+Cuida-se de agravo (art. 1042 do CPC/2015), interposto por [NOME] [NOME] e [NOME], contra a decisão de fls. 2825/2827, e-STJ, que não admitiu o processamento de recurso especial.
+O apelo extremo, manejado com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 2765/2766, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. PRELIMINAR DE NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTAÇÃO. REJEIÇÃO. MÉRITO. AUSÊNCIA DE COMPROVAÇÃO DE POSSE SOBRE O IMÓVEL. PROVAS ROBUSTAS E CONTUDENTES A CORROBORAR A VERSÃO DA RÉ/APELADA. PEDIDO DE CONDENAÇÃO EM PERDAS E DANOS PREJUDICADO. SUCUMBÉNCIA TOTAL DOS AUTORES. SENTENÇA MANTIDA.
+1. Tendo a sentença fundamentado de forma suficiente a ausência principalmente de posse por parte dos apelantes, não há que se falar em nulidade, pelo que a preliminar deve ser rejeitada.
+2. Os autores/apelantes não se desincumbiram de provar fato constitutivo do seu direito, nos termos do artigo 333, inciso I do CPC/73, notadamente a posse e o esbulho, requisitos necessários à ação de reintegração.
+3. É fato verdadeiro que a justiça Federal não reconheceu a posse dos autores/apelantes sobre a área que é objeto da inicial da presente ação e, mesmo a partir desta decisão não houve comprovação que os autores passaram a ter posse.
+4. As testemunhas ouvidas foram firmes ao afirmar que os autores/apelados nunca tiveram posse sobre o imóvel anterior a apelada.
+5. Por decorrência lógica do não reconhecimento da posse dos autores, os atos praticados sobre o imóvel pela apelada não podem ser considerados como esbulho.
+6. Finalmente resta apenas considerar como prejudicado o pedido, sem fundamento, de indenização por perdas e danos, uma vez que não existindo posse dos autores sobre o imóvel, inexiste qualquer direito a perdas e danos.
+7. Com relação a sucumbência, atesta-se mais uma vez o acerto da sentença, na medida em que todos os pedidos dos autores foram julgados improcedentes, de modo que o caso é de sucumbência total e não recíproca como alegam, sendo inaplicável o artigo 21 do CPC/73.
+8. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração (fls. 2780/2782, e-STJ), esses foram rejeitados (fls. 2786/2791, e-STJ).
+Nas razões do recurso especial (fls. 492/497, e-STJ), os recorrentes apontaram violação aos artigos 21, 333, inciso I e 927, inciso I, do CPC/73 e 1.210 do Código Civil. Sustentaram que a Corte estadual realizou uma análise equivocada das provas. Alegaram que todos os elementos constantes nos autos demonstram o exercício da posse pelos recorrentes. Defenderam seu direito à indenização. Aduziram que houve sucumbência recíproca.
+Contrarrazões às fls. 2813/2821, e-STJ.
+Em juízo provisório de admissibilidade (fls. 2827/2827, e-STJ), negou-se seguimento ao reclamo pela incidência da súmula e 7/STJ no tocante à ausência da posse do imóvel e também quanto à distribuição da sucumbência.
+ Daí o agravo (fls. 2832/2834, e-STJ), que busca destrancar o processamento daquela insurgência.
+Contraminuta às fls. 2840/2845, e-STJ.
+É o relatório.
+Decide-se.
+A insurgência não merece prosperar.
+1. A Corte estadual, ao contrário do que alegam os recorrentes, reconheceu o cerceamento de defesa e a necessidade de produção de prova testemunhal, tendo os recorrentes arrolado uma única testemunha, cujo depoimento foi visto com ressalvas em razão da existência de contradições.
+É o que se extraí do seguinte excerto do aresto impugnado (2773/2775, e-STJ):
+Aliás, este Egrégio Tribunal cassou a anterior sentença proferida nestes autos, reconhecendo o cerceamento de defesa e a necessidade da produção de prova testemunhal, atendendo a requerimento formulado pelos próprios autores/apelantes.
+No entanto, estes pouco ou quase nada aproveitaram da oportunidade, na medida em que arrolaram uma única testemunha para embasar a suposta posse sobre a área objeto do pedido inicial.
+O depoimento da testemunha [NOME] arrolada pelos autores/apelantes deve ser visto com ressalvas, pois embora tenha dito que veio de Curitiba para morar no imóvel objeto da lide e que ajudou a cercá-lo, ao ser indagado pela Magistrada sobre a construção de 300 m2 feita no terreno que se denomina "Condomínio Moradas de São José", a testemunha nada soube esclarecer e nem respondeu acerca de ter avisado ou não os autores sobre a construção.
+Ora, como pode a testemunha declarar que sempre cuidou e ainda cuida da área e ao mesmo tempo não conhecer uma construção do tamanho do "Condomínio Moradas de São José" e nem mesmo ter avisado os autores, a quem acreditava serem os proprietários do imóvel, sobre aquela possível "invasão"
+Esta contradição prejudica claramente a credibilidade do depoimento da única testemunha arrolada pelos autores, ainda mais quando as outras duas testemunhas arroladas pela ré/apelada declaram exatamente o contrário.
+[NOME] declarou que frequenta o bairro onde está localizado o imóvel desde o ano de 1987 e que desconhece a pessoa dos autores e que nunca viu a testemunha [NOME] no imóvel.
+Por sua vez a testemunha [NOME] declara que é vizinho dos proprietários da empresa apelada na rua [NOME] e que comprou seu terreno a 19 anos da família Veiga. Afirmou ainda que a posse do imóvel está com a apelada por aproximadamente 15 anos e que desconhece a pessoa do autor [NOME].
+Assim, não há outra conclusão a não ser a mesma da sentença de que os autores/apelantes nunca tiveram posse sobre o imóvel anterior a da apelada.
+O ordenamento jurídico brasileiro adota o princípio do livre convencimento motivado, que possibilita ao juiz a apreciação livre das provas colacionadas aos autos, assim como a necessidade de sua produção em face das já existentes. Ou seja, o julgador não está adstrito à prova que a parte entende lhe seja mais favorável, mas pode formar a sua convicção a partir de outros elementos ou fatos constantes dos autos.
+Sobre a temática, os precedentes a seguir:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DE VENCIMENTOS EM URV. LEI N. 8.880/94. REDUÇÃO DOS PROVENTOS. CONTROVÉRSIA PASSÍVEL DE APURAÇÃO POR MEIO DE PROVA PERICIAL. PEDIDO NEGADO PELO JUÍZO DA CAUSA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. OCORRÊNCIA.
+I - É cediço que o ordenamento jurídico brasileiro adota o princípio do livre convencimento motivado, que possibilita ao juiz a apreciação livre das provas colacionadas aos autos (AgRg no AREsp 486.549/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 17/11/2014). Sabe-se também que a decisão de determinar a realização de nova prova está dentro da esfera de liberdade jurisdicional do juiz, na ponderação de elementos fáticos necessários e formação da livre convicção (AgRg no AREsp 378.897/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 07/11/2014).
+II - No mesmo sentido, entende este Superior Tribunal de Justiça que a Corte de origem é soberana na análise das provas, podendo, portanto, concluir pela desnecessidade da produção de provas periciais, documentais e testemunhais. Isso porque, consoante exposto, o art. 130 do Código de Processo Civil consagra o princípio do livre convencimento motivado, segundo o qual o Juiz é livre para apreciar as provas produzidas, bem como a necessidade de produção das que forem requeridas pelas partes. (AgRg no AREsp 393.358/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 20/05/2014). III - Ocorre que, a despeito dos entendimentos supracitados, deve o magistrado atentar-se para os casos em que, em razão de sua extrema relevância para o deslinde da controvérsia, imprescindível a realização da prova pericial.
+IV - Agravo Regimental improvido. (AgRg no REsp 1141064/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/06/2015, DJe 03/08/2015; grifou-se)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO BANCÁRIO. CERCEAMENTO DE DEFESA. PROVA PERICIAL. PRINCÍPIO DO LIVRE CONVENCIMENTO. DECISÃO SINGULAR DE RELATOR. VIOLAÇÃO DO ARTIGO 535 DO CPC. INEXISTÊNCIA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE N. 83 DA SÚMULA DO STJ.
+1. Não viola o art. 557, do CPC, a decisão singular de relator fundada em confronto com súmula ou jurisprudência dominante, pois facultada à parte a interposição de agravo interno, por meio do qual, neste caso, se submeterá a questão ao colegiado competente.
+Precedente.
+2. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada ofensa ao artigo 535 do Código de Processo Civil de 1973.
+3. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+4. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+5. A Corte estadual julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 972.576/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/05/2017, DJe 02/06/2017; grifou-se )
+Na espécie, tanto o juiz a quo quanto a Corte estadual concluíram, levando em conta todos os elementos carreados aos autos, inclusive do depoimento da testemunha arrolada pelos agravantes, que os mesmos nunca tiveram a posse do imóvel.
+Constata-se que o acolhimento da pretensão recursal, no que se refere à comprovação da posse, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. REINTEGRAÇÃO DE POSSE. POSSE ANTERIOR NÃO DEMONSTRADA. PROVA DE DOMÍNIO. INEXISTÊNCIA. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, com fundamento nas provas trazidas aos autos, concluiu que a posse da recorrente sobre o imóvel objeto de litígio não foi devidamente comprovada.
+2. Infirmar as conclusões do julgado demandaria o revolvimento do conjunto fático-probatório dos autos, o que encontra vedação na Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no AREsp 871.643/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018; grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO. 1. ALEGAÇÃO DE ANIMUS DOMINI. NECESSIDADE DE REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. 2. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem, analisando o conjunto fático-probatório dos autos, asseverou que os insurgentes não exerciam a posse com animus domini, bem como que o contrato de locação abrangia todo o imóvel.
+Assim, para que se possa rever tal entendimento e concluir pela violação do dispositivo legal indicado, seria necessário o revolvimento do conjunto fático-probatório da causa, medida defesa em âmbito de recurso especial, por incidir a Súmula n. 7 do STJ.
+2. Agravo interno improvido.
+(AgInt no REsp 1524853/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/03/2017, DJe 27/03/2017; grifou-se)
+2. Esta Corte Superior possui entendimento firmado no sentido de que rever a proporção de vitória/derrota das partes na demanda, para aferir a sucumbência recíproca ou mínima, implica em revisão de matéria fática e probatória, providência impossível de ser adotada, em sede de recurso especial, providência vedada mediante o óbice da súmula 7 desta Corte.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE REDISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA. APLICAÇÃO DA SÚMULA 7/STJ. ENTENDIMENTO DA CORTE DE ORIGEM FUNDADO EM FATOS E PROVAS. ART. 485, V, DO CPC/1973. INVIABILIDADE, POR NÃO SER SUCEDÂNEO RECURSAL. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA À LEI. AGRAVO INTERNO DESPROVIDO.
+1. Não há que se falar, na hipótese, em violação ao art. 535 do CPC/1973, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, uma vez que a causa foi devidamente fundamentada, de modo coerente e completo. Foram demonstradas as razões necessárias à solução da controvérsia, dando-lhe, contudo, solução jurídica diversa da pretendida pelos recorrentes.
+2. A verificação de sucumbência mínima ou recíproca da parte, bem como a necessidade de redimensionamento da verba honorária, demanda o revolvimento do acervo fático-probatório constante dos autos, o que é defeso a esta Corte Superior, nos termos da Súmula 7 do STJ.
+3. "É assente a orientação desta Corte de que a verificação da violação de dispositivo literal de lei (art. 485, V, do CPC) requer exame minucioso do julgador, com intuito de evitar que essa ação de natureza desconstitutiva negativa seja utilizada como sucedâneo de recurso, tendo lugar apenas nos casos em que a transgressão à lei é flagrante" (AgRg no AREsp 45.867/AL, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/08/2016, DJe 26/08/2016).
+4. Agravo interno desprovido.
+(AgInt no REsp 1611071/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 07/02/2017, DJe 14/02/2017; grifou-se)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TARIFAS BANCÁRIAS. ABUSIVIDADE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/2015. DECISÃO RECORRIDA PUBLICADA NA VIGÊNCIA DO CPC/2015. CABIMENTO. DECISÃO MANTIDA.
+1. A alteração das conclusões do acórdão recorrido quanto à abusividade das tarifas bancárias exige o reexame do contexto fático probatório dos autos, circunstância que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+2. A aferição do quantum fixado a título de honorários advocatícios e do decaimento das partes em relação ao pedido, para fins de verificação da sucumbência recíproca ou mínima, importa no reexame de matéria fático-probatória, o que é vedado pela Súmula n. 7/STJ.
+3. Consoante o Enunciado Administrativo n. 7, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016, nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, é possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1085614/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/08/2017, DJe 16/08/2017; grifou-se)
+Efetivamente, "qualquer questionamento acerca do critério adotado para fixação dos honorários advocatícios e, especialmente, o do grau de sucumbimento de cada parte, para identificar a proporcionalidade da verba fixada, demandaria o exame de matéria fática, incabível em recurso especial (Súmula 07/STJ)" (Resp n.º 282297/DF, Relator Ministro Teori Albino Zavascki, DJ de 24/06/2010).
+3. Do exposto, nego provimento ao agravo e com base no artigo 85, § 11, do NCPC, majoro os honorários em R$ 100,00 (cem reais), totalizando R$ 3.100,00 (três mil e cem reais) em favor da parte recorrida.
+Publique-se.
+Intimem-se.
