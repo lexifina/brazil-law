@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por Swift Armour S.A. Indústria e Comércio contra a decisão que não admitiu o recurso especial, sob três fundamentos: (i) inexistência de contrariedade ao art. 535 do CPC/1973; (ii) necessidade de incursão no contexto fático-probatório, medida essa que encontraria óbice na Súmula 7/STJ; (iii) a decisão recorrida está em consonância com a jurisprudência do Superior Tribunal de Justiça, atraindo a incidência da Súmula 83/STJ; e (iv) impossibilidade de o Tribunal analisar matéria não posta à apreciação do magistrado na origem, sob pena de supressão de instância.
+É o relatório.
+Conforme se depreende das razões recursais, a agravante reitera a existência de omissão no acórdão, afirma que houve clara demonstração dos dispositivos legais supostamente violados, assim como infirma o óbice da Súmula 7/STJ.
+Entretanto, como se verifica, deixou de demonstrar a inexistência de supressão de instância e, ainda, a não incidência da Súmula 83/STJ.
+Tal circunstância faz incidir, na hipótese, a Súmula 182 desta Corte, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, o agravante deve desconstituir os fundamentos utilizados para a negativa de seguimento do recurso especial, sob pena de vê-los mantidos. Desse modo, torna-se imprescindível o confronto específico entre todos os fundamentos, a fim de se demonstrar o desacerto da decisão.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 10/08/2017, que julgou recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/2015.
+II. Incumbe ao agravante infirmar, especificamente, todos os fundamentos da decisão que inadmitiu o Recurso Especial, demonstrando o seu desacerto, de modo a justificar o processamento do apelo nobre, sob pena de não ser conhecido o Agravo (art. 932, III, do CPC vigente). Nesse sentido: STJ, AgRg no AREsp 704.988/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/09/2015; EDcl no AREsp 741.509/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/09/2015; AgInt no AREsp 888.667/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 18/10/2016; AgInt no AREsp 895.205/PB, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/10/2016.
+III. No caso, por simples cotejo entre o decidido e as razões do Agravo em Recurso Especial verifica-se a ausência de impugnação específica de todos os fundamentos da decisão que, em 2º Grau, inadmitira o Especial, o que atrai a aplicação do disposto no art. 932, III, do CPC/2015 - vigente à época da publicação da decisão então agravada e da interposição do recurso -, que faculta ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida", bem como do teor da Súmula 182 do Superior Tribunal de Justiça, por analogia.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1.122.084/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 5/12/2017, DJe 13/12/2017)
+Ante o exposto, com fulcro no art. 544, § 4º, inc. I, do CPC, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
