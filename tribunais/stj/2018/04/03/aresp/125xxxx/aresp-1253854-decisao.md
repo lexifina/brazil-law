@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSOS MANEJADOS SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA. RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. COMPROVAÇÃO POR DOCUMENTO IDÔNEO NÃO DEMONSTRADA. ART. 1.003, § 6º, DO NCPC. COMPROVAÇÃO NA INTERPOSIÇÃO DO RECURSO. NÃO OCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+DYEGO RODRIGO DETONI (DYEGO) promoveu contra BROOKFIELD SÃO PAULO EMPREENDIMENTOS IMOBILIÁRIOS S.A. (BROOKFIELD) ação de rescisão de contrato de compromisso de compra e venda de imóvel cumulada com declaração de nulidade de cláusula contratual e restituição dos valores pagos.
+O pedido foi julgado parcialmente procedente (e-STJ, fls. 212-215).
+Ambas as partes apelaram e o Tribunal a quo deu parcial provimento ao recurso do autor e desproveu o recurso da ré, em acórdão assim ementado:
+COMPROMISSO DE VENDA E COMPRA DE BEM IMÓVEL. AÇÃO DE RESCISÃO CONTRATUAL.
+Desistência do negócio apresentada pelo adquirente. Hipótese a ensejar o desfazimento do contrato e o retorno dos contratantes ao estágio anterior à relação contratual. Retenção estabelecida em 30% (trinta por cento) dos valores quitados. Insurgência recíproca quanto ao respectivo percentual. Ampliação indevida. Falta, na espécie, de efetiva ocupação do imóvel, bem assim de outros prejuízos relacionados ao desfazimento do contrato. Redução, entretanto, necessária. Montante superior aos limites estabelecidos pela Câmara e pelo C. STJ em casos similares. Retenção, assim, limitada a 25% da verba quitada (exceto corretagem e outras taxas). Montante calibrado aos prejuízos ordinários resultantes da rescisão. Devolução superior a 75% que afastaria a recomposição dos prejuízos sofridos pela vendedora. Verba, ainda, sujeita a correção e juros moratórios. Preservação dos encargos. Correção apropriada à mera recomposição inflacionária da moeda. Juros, por seu turno, correspondentes à mora da empreendedora na devolução espontânea das importâncias. Incidência do art. 405 do Código. Sucumbência recíproca. Pretendida afastamento a pedido da empreendedora. Inadmissibilidade. Ré, no caso, que decaiu de parte considerável da pretensão formulada em juízo. Observância do disposto no art. 86 do CPC.
+RECURSO DO AUTOR PARCIALMENTE PROVIDO, DESPROVENDO-SE O APELO DA RE (e-STJ, fl. 267).
+Não houve interposição de embargos de declaração.
+Inconformada, BROOKFIELD interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando, em síntese, a ocorrência de violação dos arts. 408, 421 e 482, do Código Civil. Abordou o requisito da tempestividade do apelo afirmando que: "Assim, considerando-se o recesso forense e que a r. decisão foi publicada no Diário Oficial em 16/12/2016 (sexta-feira), o prazo fatal para interposição do presente recurso é 09/02/2017, portanto, tempestivo" (e-STJ - fl. 294).
+Nas contrarrazões, DYEGO aduziu que, embora a recorrente tenha corretamente afirmado que o prazo para a interposição do apelo nobre encerrava-se em 9/2/2017, o registro do protocolo da Corte Estadual indica que a petição foi encaminhada apenas no dia 15/2/2017, ou seja, de modo intempestivo (e-STJ, fl. 307).
+Em juízo de admissibilidade, o Presidente da Seção de Direito Privado inadmitiu o apelo nobre por incidir, no caso, as Súmulas nº 5 e 7 desta Corte (e-STJ, fls. 312-313). Dessa decisão, foi interposto o presente agravo em recurso especial (e-STJ, fls. 316-322).
+Contraminuta apresentada (e-STJ, fls. 325-335).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O acórdão recorrido foi disponibilizado no DJE em 15/12/2016 e considerado publicado 16/12/2016 (e-STJ, fl. 273), iniciando-se o prazo para a interposição do recurso no primeiro dia útil seguinte, ou seja, aos 19/12/2016. Assim, nos termos dos artigos 219, 220 e 1.003, § 5º, do NCPC, o último dia do prazo para recorrer foi 9/2/2017.
+O recurso especial, no entanto, somente foi protocolado em 15/2/2017, ficando superado o prazo de 15 (quinze) dias úteis previsto no art. 1.003, § 5º, do Código de Processo Civil de 2015, sendo, dessa forma, intempestiva a insurgência.
+Ressalte-se que, na vigência do NCPC, não se permite mais a comprovação da ocorrência de feriado local em momento posterior, já que o art. 1.003, § 6º, estabeleceu ser necessária a demonstração quando interposto o recurso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. RECESSO E SUSPENSÃO DO EXPEDIENTE FORENSE NO TRIBUNAL DE ORIGEM. COMPROVAÇÃO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/2015.
+1. A comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem, pode ocorrer por meio de agravo interno. Precedentes.
+2. A decisão de inadmissibilidade do recurso especial foi publicada em 06/05/2016 (e-STJ fl. 352), sexta-feira. Exauriu-se, pois, o prazo legal para a interposição do agravo em recurso especial em 30/05/2016, segunda-feira. No entanto, a petição do agravo em recuso especial foi protocolizada em 31/05/2016, terça-feira (e-STJ fl.
+354), ou seja, fora do prazo legal de 15 dias úteis.
+3. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+4. Considerando que o agravo em recurso especial foi interposto sob a a égide do CPC/2015 e que não houve a comprovação do feriado local, quando de sua interposição, não há como ser afastada a intempestividade do agravo em recurso especial.
+5. Agravo interno provido. Agravo em recurso especial não conhecido.
+(AgInt no AREsp 1011031/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 27/4/2017, DJe 5/5/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO ANTE A INTEMPESTIVIDADE.
+INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. Consoante Enunciado Administrativo n. 3, do Plenário do Superior Tribunal de Justiça, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. In casu, incidem as regras estabelecida pelo Código de Processo Civil de 2015, visto que à época da publicação do acórdão recorrido (16/05/2016) já estava em vigor o novo regramento processual.
+2.1. É intempestivo o recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/2015. 2.2. Nos termos do parágrafo 6º do artigo 1.003 do aludido diploma, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso, consoante entendimento firmado pela Corte Especial no julgamento do AgInt no AREsp n. 957.821/MS, realizado no dia 20/11/2017, cujo acórdão está pendente de publicação.
+3. Agravo interno desprovido.
+(AgInt no REsp 1624470/MT, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 12/12/2017, DJe 1/2/2018)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de BROOKFIELD em 5%, nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
