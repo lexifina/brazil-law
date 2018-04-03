@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de recurso extraordinário interposto com amparo no art. 102, III, alínea “a” da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+    No apelo extremo, o recorrente sustenta a existência de repercussão geral e que o julgado teria violado dispositivos constitucionais. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido.
+    É o relatório. Decido.
+    O aresto impugnado foi assim ementado:
+    “TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA TAL FIM (ARTIGOS 33, "CAPUT", e 35, "CAPUT", da LEI N° 11.343/06) — Preliminar de nulidade da sentença — Não ocorrência — No mérito, autoria e materialidade perfeitamente comprovadas — Acusados presos em flagrante delito, havendo notícia de que o local era utilizado para o tráfico — Associação verificada diante de indícios de que todos estavam unidos para o fim de traficar, de modo estável e organizado, com imóvel destinado para este fim - Negativa dos acusados sem respaldo na prova colhida — Penas corretamente fixadas — Causa de diminuição de pena do § 4º do artigo 33 obstaculizada pela expressiva quantidade de droga e gravidade em concreto do crime, denotando não se tratar de traficantes eventuais - Substituição da corporal por restritiva de direitos inviabilizada pelo 'quantum' da pena, além de não ser suficiente para a devida repressão do crime — Incompatibilidade do benefício com o tráfico de drogas - Regime inicial fechado - legalidade e compatibilidade evidenciada — Detração inviável no processo de conhecimento — Pena de multa decorre do preceito secundário do tipo penal, não havendo inconstitucionalidade da norma — Recursos improvidos.”
+    Efetivamente, o Tribunal de origem, com fundamento na legislação ordinária e no substrato fático constante dos autos, manteve a condenação dos réus pela prática das condutas descritas no art. 33 (tráfico) e no art. 35 (associação para o tráfico) da Lei 11.343/2006. Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que eventuais ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (para simples reexame de prova não cabe recurso extraordinário).
+    Quanto a vulneração aos princípios do contraditório e da ampla defesa, o apelo extraordinário não tem chances de êxito, pois essa Corte, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+    Brasília, 3 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
