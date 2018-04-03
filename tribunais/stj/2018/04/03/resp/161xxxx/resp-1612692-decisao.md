@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Petróleo Brasileiro S/A Petrobras, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão, assim ementado (fl. 166):
+AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ULTERIOR ADIMPLEMENTO DO DÉBITO EXEQUENDO. ÔNUS DA SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ. RECURSO IMPROVIDO.
+I. "No processo civil, para se aferir qual das partes litigantes arcará com o pagamento dos honorários advocatícios e das custas processuais, deve-se atentar não somente à sucumbência, mas também ao princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes.(REsp 1186789/RJ, Rei. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/03/2014, DJe 13/05/2014).
+II. A extinção do processo de execução fiscal em virtude da quitação do débito exeqüendo, após a citação, impõe à executada o dever de arcar com o ônus da sucumbência.
+III. Agravo regimental improvido.
+Opostos embargos declaratórios, foram rejeitados (fls. 192/197).
+A parte recorrente aponta violação aos arts. 535 do CPC/73, 840 do CC E 26, §2º, do CPC/73. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca da interpretação dos arts. 840 co CC e 26, §2º, do CPC/73; (II) "havendo transação as despesas processuais (custas e honorários advocatícios), devem ser repartidas igualmente entre as partes envolvidas, não podendo tão somente a recorrente arcar com tal incumbência, pois, a hipótese não trata de renúncia do contribuinte e sim de transação" (fl. 208).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535 do CPC/73.
+Com efeito, na petição dos embargos de declaração (fls. 174/179), a recorrente aponta a omissão quanto a interpretação a ser dada pelo art. 26, §2º, do CPC/73 e 840 do CC. Confira-se o excerto dos aclaratórios em que tal questão foi suscitada (fl. 176):
+04. Pois bem. A Embargante alegou, em sede de Apelação, que a adesão ao Programa de Recuperação Fiscal (REFIS) tem natureza jurídica de uma transação extrajudicial, cuja definição encontra-se positivada no art. 840, do CC ("É lícito aos interessados prevenirem ou terminarem o litígio mediante concessões mútuas)
+05. Logo, em havendo transação, as despesas processuais (custas e honorários advocatícios) devem ser repartidas igualmente entre as partes envolvidas, a teor do § 2o, do art. 26, do CPC.
+Contudo, no julgamento dos aclaratórios (fls. 192/197), a Corte local quedou-se silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 535 do CPC/73, porquanto não prestada a jurisdição de forma integral.
+Uma vez reconhecida a negativa de prestação jurisdicional, resta, por ora, prejudicada a análise das demais questões suscitadas no apelo raro.
+Ante o exposto, dou provimento ao recurso especial da Petróleo Brasileiro S/A Petrobras por violação do art. 535 do CPC/73, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
