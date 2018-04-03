@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo regimental contra decisão que indeferiu liminarmente o habeas corpus.
+Consta dos autos que "o paciente foi preso no dia 14/02/2018, em suposto estado de flagrante delito, por incursão nas disposições do art. 33 da Lei 11.343/06 e artigo 16 da Lei 10.826/06" porque, "segundo consta, policiais militares teriam abordado [NOME] por supostamente ter adquirido entorpecente do paciente. Em seguida, em averiguação na residência do paciente, teria sido encontrada algumas munições, um pouco mais de 6  seis  gramas de cocaína na forma crack e 667  seiscentos e sessenta e sete  gramas de maconha" (e-STJ fl. 2).
+Irresignada, a defesa impetrou writ, com pedido liminar, na Corte estadual, alegando a ausência dos requisitos autorizadores da prisão cautelar. O pleito liminar foi, contudo, indeferido pelo Tribunal a quo, nos termos do seguinte excerto (e-STJ fl. 17):
+No entanto, a providência liminar em habeas corpus é excepcional, razão pela qual está reservada para os casos em que avulta flagrante o constrangimento ilegal. E essa não é a hipótese dos autos. Por conseguinte indefiro a cautela requerida, reservando-se a Col. Turma Julgadora a solução da questão em toda a sua extensão.
+Processe-se o presente writ, providenciando-se a notificação da autoridade apontada como coatora, a fim de que preste as informações em 48 (quarenta e oito) horas, ouvindo-se, em seguida, a Procuradoria Geral de Justiça.
+No Superior Tribunal de Justiça, a defesa reafirmou as alegações originárias, pleiteando a revogação da constrição cautelar (e-STJ fls. 1/13).
+Em decisão acostada às e-STJ fls. 91/93, este Relator indeferiu liminarmente a impetração, com esteio no enunciado da Súmula n. 691 do Supremo Tribunal Federal.
+No presente agravo regimental a defesa obtempera que "estamos a tratar de paciente primário, jovem, com família constituída, com filhos, endereço fixo, exercente de atividade laborativa lícita, ainda que informal. Submeter tal pessoa ao regime carcerário paulista é, com o devido respeito, permitir que o contingente das facções criminosas tão alardeadas nos meios de comunicação seja alimentado com presas tão fáceis. Ademais, excepcional não é a concessão de liminar em habeas corpus, ou a superação do verbete 691 do STF. Excepcional é a decretação da prisão preventiva, ainda mais quando suficientes e adequadas seriam as medidas cautelares alternativas do art. 319 do Código de Processo Penal" (e-STJ fl. 98).
+É, em síntese, o relatório.
+Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, constatei que o mérito do habeas corpus originário foi julgado, em 15/3/2018. O acórdão recebeu a seguinte ementa:
+HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. LIBERDADE PROVISÓRIA. FALTA DE FUNDAMENTAÇÃO NA CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA E AUSÊNCIA DOS REQUISITOS PARA A SEGREGAÇÃO CAUTELAR. INOCORRÊNCIA. REQUISITOS DA CUSTÓDIA CAUTELAR PRESENTES. DELITO EQUIPARADO A HEDIONDO. DECISÃO SUFICIENTEMENTE MOTIVADA. CIRCUNSTÂNCIAS DO CRIME E DEMAIS ELEMENTOS QUE INDICAM, POR ORA, A NECESSIDADE DA PRISÃO. ORDEM DENEGADA.
+Nessa esteira, considerando a superveniência do julgamento do mérito do prévio habeas corpus, esvaiu-se o objeto do writ impetrado perante esta Corte Superior, cabendo à defesa, agora, impugnar os fundamentos do acórdão meritório proferido pelo Tribunal de origem. A propósito:
+AGRAVO REGIMENTAL. HABEAS CORPUS. SÚMULA 691 DO STF. LIMINAR INDEFERIDA. DECISÃO DEVIDAMENTE MOTIVADA. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO. PEDIDO PREJUDICADO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma.
+2. A superveniência do julgamento do mérito do writ ajuizado perante o Tribunal a quo torna prejudicada a análise do habeas corpus impetrado neste Superior Tribunal de Justiça. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC 410.646/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/02/2018, DJe 15/02/2018)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INCIDÊNCIA DA SÚMULA 691/STF. AUSÊNCIA DE TERATOLOGIA. EXCEPCIONALIDADE NÃO DEMONSTRADA. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO. PREJUDICIALIDADE. PRECEDENTES. RECURSO DESPROVIDO.
+1. Inviável, em princípio, a impetração de habeas corpus contra decisão que denega pedido liminar em writ impetrado na origem, sob pena de se configurar indevida supressão de instância (Súmula 691/STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese.
+2. O julgamento do mérito do mandamus originário torna prejudicado o pedido calcado na suposta ausência de fundamentação da decisão que indeferiu o pleito emergencial. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no HC 424.133/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/12/2017, DJe 13/12/2017)
+Tal o contexto, julgo prejudicado o presente agravo regimental.
+Publique-se. Intimem-se.
