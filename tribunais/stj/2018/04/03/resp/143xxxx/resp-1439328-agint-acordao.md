@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL. JUROS MORATÓRIOS ENTRE A ELABORAÇÃO DOS CÁLCULOS E A EXPEDIÇÃO DO PRECATÓRIO. REPERCUSSÃO GERAL. SOBRESTAMENTO. DESNECESSIDADE.
+1. A existência de repercussão geral reconhecida pelo STF, no RE 579.431/RS (Tema n. 96), não implica sobrestamento de todos os processos que versem sobre a questão, pois aconteceu na vigência do Código de Processo Civil de 1973, não tendo o relator determinado a suspensão de todos as demandas pendentes no território nacional. como previsto no art. 1.035, § 5º, do CPC/2015.
+2. Hipótese em que se aplica o entendimento pretoriano vigente na época, segundo o qual "a pendência de julgamento, no STF, de Recurso Extraordinário submetido ao rito do art. 543-B do CPC não enseja o sobrestamento de recursos que tramitam no STJ" (AgRg nos EDcl no REsp 1.528.287/RS).
+3. Julgado o mérito do recurso extraordinário com repercussão geral admitida, não existe comando normativo que disponha sobre a possibilidade de suspensão do curso regular do recurso especial com o objetivo de se aguardar possível modulação de efeitos do julgado em repercussão geral.
+4. Acórdão do Tribunal a quo em consonância com a jurisprudência consolidada nesta Corte superior.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pela UNIÃO (FAZENDA NACIONAL) para desafiar decisão de minha lavra, proferida às e-STJ fls. 836/838, em que conheci parcialmente do recurso especial e, na extensão, neguei-lhe provimento por ausência de omissão e por estar o acórdão recorrido em conformidade com a jurisprudência consolidada nesta Corte superior.
+No presente agravo interno, a agravante, às e-STJ fls. 843/852, conforma-se com o fundamento de inexistência de omissão a ser corrigida, entretanto aduz que a matéria relativa à incidência de juros moratórios entre a elaboração dos cálculos e a expedição do precatório aguarda julgamento definitivo de embargos de declaração em repercussão geral no Supremo Tribunal Federal, que ainda poderá promover modulação de efeitos à decisão.
+Requer, assim, a reconsideração do decisum impugnado, "a fim de que este processo permaneça sobrestado, a aguardar o julgamento, pelo Supremo Tribunal Federal, dos Embargos de Declaração frente ao acórdão do RE 579.431/RS (tema n. 96 de repercussão geral reconhecida)," ou a submissão do feito ao Órgão colegiado.
+Impugnação às e-STJ fls. 855/860.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+O agravo não merece provimento.
+Apesar de manifestar sua irresignação contra a parte do decisum que afastou a existência de omissão, a UNIÃO limitou-se a requerer o sobrestamento do processo até que o STF modulasse os efeitos da tese firmada em repercussão geral, no RE n. 579.431/RS.
+In casu, a repercussão foi reconhecida na vigência do Código de Processo Civil de 1973, não tendo havido determinação do relator no STF de suspensão de todos os processos pendentes no território nacional que versem sobre a mesma questão, como previsto no art. 1.035, § 5º, do CPC/2015.
+Desse modo, aplica-se ao caso o entendimento pretoriano, vigente na época, de que "a pendência de julgamento, no STF, de Recurso Extraordinário submetido ao rito do art. 543-B do CPC não enseja o sobrestamento de recursos que tramitam no STJ" (AgRg nos EDcl no REsp 1.528.287/RS, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 23/09/2015).
+Por outro lado, o RE n. 579.431/RS já foi julgado e não existe comando normativo que disponha sobre a possibilidade de suspensão do curso regular do processo, com o objetivo de se aguardar possível modulação de efeitos do julgado em repercussão geral.
+Feita essa anotação, a decisão monocrática reconhece que o acórdão recorrido aplica ao caso concreto a jurisprudência mais atual acerca do tema (consolidada em repercussão geral pelo STF), declarando a incidência de juros moratórios entre a elaboração dos cálculos e a expedição do precatório. Portanto, não merece reforma.
+A esse respeito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. JUROS DE MORA. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DE CÁLCULOS E A EXPEDIÇÃO DA RESPECTIVA ORDEM DE PAGAMENTO. JULGAMENTO DO TEMA PELO SUPREMO TRIBUNAL FEDERAL. REPERCUSSÃO GERAL RECONHECIDA. REALINHAMENTO DA JURISPRUDÊNCIA DESTA CORTE. ADEQUAÇÃO AO DECIDIDO PELO STF.
+1. A Corte Especial do STJ, no julgamento do REsp 1.143.677/RS, Rel. Min. Luiz Fux, sob o regime do art. 543-C do CPC/73, adotou entendimento no sentido de que não incidem juros moratórios entre a data da elaboração da conta de liquidação e a do efetivo pagamento do precatório ou da requisição de pequeno valor (RPV).
+2. Ocorre que o Plenário do Supremo Tribunal Federal no julgamento do RE n. 579.431, com repercussão geral reconhecida, realizado na sessão de 19/4/2017, enfrentou essa questão jurídica trazida no presente feito, firmando tese contrária à fixada pela Corte Especial deste STJ, no julgamento do REsp 1.143.677/RS, sob o rito do art. 543-C do CPC/73.
+3. Dessa forma, de rigor realinhar o entendimento e, nos termos do art. 1040 do CPC/15, fazer a devida adequação ao decidido pelo STF, no sentido de que "incidem os juros da mora no período compreendido entre a data da realização dos cálculos e da requisição ou do precatório".
+4. Juízo de retratação exercido (artigo 1040, II, do CPC) para negar provimento ao recurso especial do INSS.
+(REsp 1605664/SC, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 28/09/2017, DJe 13/10/2017).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRECATÓRIO COMPLEMENTAR. JUROS DE MORA. PERÍODO COMPREENDIDO ENTRE A ELABORAÇÃO DA CONTA DE LIQUIDAÇÃO E A EXPEDIÇÃO DE PRECATÓRIO/RPV. INCLUSÃO. JULGAMENTO, PELO STF, EM REGIME DE REPERCUSSÃO GERAL. RE 579.431/RS. JUÍZO DE RETRATAÇÃO. ART. 1.040, II, DO CPC/2015. AGRAVO REGIMENTAL PROVIDO, EM JUÍZO DE RETRATAÇÃO, PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DO INSS, QUANTO AO TEMA OBJETO DA REPERCUSSÃO GERAL.
+I. A Segunda Turma do STJ, considerando o julgamento do REsp 1.143.677/RS (Rel. Ministro LUIZ FUX, CORTE ESPECIAL, DJe de 04/02/2010), sob o regime do art. 543-C do CPC/73, negou provimento, anteriormente, ao presente Agravo Regimental.
+II. Entretanto, posteriormente, o Supremo Tribunal Federal, no julgamento do RE 579.431/RS, sob regime da repercussão geral, firmou a tese de que "incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório" (STF, RE 579.431/RS, Rel. Ministro MARCO AURÉLIO, TRIBUNAL PLENO, DJe de 30/06/2017), e, diante da nova orientação da Suprema Corte, o STJ realinhou o seu posicionamento (STJ, EDcl no AgInt no REsp 1.600.336/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 04/10/2017; REsp 1.671.032/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 13/09/2017; EDcl nos EDcl no REsp 1.495.198/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 26/09/2017).
+III. Nesse contexto, retornaram os autos - por determinação da Vice-Presidência do STJ, para fins do disposto no art. 1.030, II, do CPC/2015 -, em face do aludido julgado do Supremo Tribunal Federal, em regime de repercussão geral.
+IV. Agravo Regimental provido, para, em juízo de retratação, previsto no art. 1.040, II, do CPC/2015, negar provimento ao Recurso Especial do INSS, quanto ao tema decidido pelo STF, no RE 579.431/RS.
+(AgRg nos EDcl no REsp 1520612/PR, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2017, DJe 28/11/2017)
+Os argumentos trazidos pela agravante não são suficientes para infirmar a conclusão adotada na decisão agravada.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
