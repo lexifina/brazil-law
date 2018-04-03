@@ -1,0 +1,42 @@
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. FUNDAMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva é cabível mediante decisão devidamente fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada e mantida com motivação idônea, considerando-se sobretudo o fundado receio de reiteração delitiva. O paciente ostenta diversas passagens criminais e é acusado de outros crimes em outras comarcas (há 4 processos em andamento). Além disso, encontrava-se em liberdade provisória quando cometeu novo crime, o que denota a insuficiência das cautelares diversas e não deixa alternativa à prisão preventiva.
+3. Eventuais condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar sua necessidade, como na espécie.
+4. Ordem denegada.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, denegar a ordem nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+EXMO SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora a Terceira Câmara Criminal do Tribunal de Justiça de Minas Gerais (HC n. 1.0000.17.086989-5/000).
+Colhe-se dos autos que o paciente - acusado da prática do crime previsto no art. 157, § 2º, I, do Código Penal - teve a prisão preventiva decretada pelo Juízo da 2ª Vara Criminal da comarca de Contagem/MG, no dia 6/9/2017 (fls. 126/127).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, cuja ordem foi denegada na data de 5/12/2017 (fls. 217/222).
+Daí o presente mandamus, em que o impetrante alega que não se encontram presentes os requisitos necessários para manutenção da prisão preventiva. Sustenta que a custódia cautelar está fundamentada na gravidade abstrata do delito. Destaca que o paciente possui condições pessoais favoráveis, como residência fixa e ocupação lícita. Invoca o princípio constitucional da presunção de inocência. E menciona que, no caso, não há nenhuma possibilidade de o paciente  ..  praticar condutas assemelhadas às supramencionadas, uma vez que todas as provas relativas à materialidade do crime já foram colhidas e não há nos autos qualquer indício de que ele solto poderá ameaçar qualquer das testemunhas (fl. 20).
+Requer a revogação da prisão preventiva ou a substituição por medidas cautelares alternativas.
+Em 15/1/2018, o pedido liminar foi indeferido pela Ministra Presidente do Superior Tribunal de Justiça (fls. 228/230).
+Informações do Tribunal estadual (fls. 233/241) foram juntadas aos autos.
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], opinou pela denegação da ordem (fls. 244/245).
+Após consulta realizada no portal do Tribunal estadual na internet, foi possível observar que a audiência de instrução e julgamento foi designada para o dia 22/3/2018 (Processo n. 0240042-37.2017.8.13.0079).
+É o relatório.
+VOTO
+EXMO SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Consta dos autos que o paciente foi preso em flagrante no dia 9/3/2016, por supostamente ter cometido o crime de receptação. Após a realização da audiência de custódia, o Juízo de Belo Horizonte concedeu a liberdade provisória mediante fiança. No dia 18/3/2016, ao realizar o pagamento do valor estipulado pelo Juiz singular, o custodiado foi posto em liberdade.
+Após declinada a competência para a comarca de Contagem e depois da oitiva da vítima, a qual reconheceu o investigado como autor do crime de roubo, a autoridade policial indiciou o ora paciente pelo cometimento do crime do art. 157, § 2º, I, do Código Penal e representou pela prisão preventiva do agente. O Ministério Público foi favorável à representação.
+Ao acolher o pedido, eis o que disse o Juízo de origem no que interessa (fls. 126/127 - grifo nosso):
+ ..
+Observo que se encontra satisfeito o requisito do fumus comissi delicti, pois o suspeito foi preso na posse dos bens da vítima, 16 dias após terem sido subtraídos, não somente do automóvel, mas também de outros objetos, que facilmente poderiam ter sido retirados do veículo.
+Corrobora a autoria o reconhecimento fotográfico realizado pela vítima e a frágil versão do investigado, de que por acaso teria encontrado e se apoderado dos bens da vítima.
+O investigado é primário e possuidor de bons antecedentes, entretanto, ostenta diversas passagens criminais e é acusado de outros crimes em outras comarcas (autos nº. 0024.12.2378813, 0090.14.002771-6, 0090.15.000871-3 e 0209.12.007558-2), além de se encontrar em liberdade provisória, concedida em 04.08.2014 (autos nº 0090.14.2771-6).
+A reiteração delitiva, sobretudo por aquele que se encontra em liberdade provisória por outro processo, denota a insuficiência das cautelares diversas e não deixa alternativa à prisão preventiva.
+Além disso, o crime em comento foi cometido mediante o emprego de arma de fogo que não foi apreendida e há risco de novos crimes sejam cometidos, mediante o emprego desse mesmo artefato.
+Saliento o fato de que o crime reveste-se de elevada gravidade e a banalização de seu cometimento na comarca é motivo de preocupação e enseja resposta firme do Judiciário.
+Portanto, evidente o periculum libertatis.
+ ..
+O Tribunal de Justiça, ratificando o decreto preventivo, ressaltou que não poderia desconsiderar a especial gravidade do crime em questão, pois o  ..  paciente, supostamente, abordou a vítima quando ela estacionava seu veículo e, apontando uma arma de fogo, ordenou a entrega do automóvel, levando também os pertences da ofendida, que se encontravam no interior do veículo (fl. 220).
+Constatou  ..  através da CAC e FAC de f. 171v-176, que o paciente já possui registros criminais, tendo sido beneficiado com a liberdade provisória em outras oportunidades, sendo inconcebível que em tal situação, se veja envolvido em nova prática delitiva, sem mostrar nenhum comprometimento com a justiça, atitude esta que evidencia a essencialidade da manutenção de sua prisão (fl. 221).
+Ao entender pela falta de cabimento da substituição da prisão por alguma outra medida cautelar, o Relator ainda destacou que  ..  a reiteração criminosa e a quebra de compromisso assumido com o Estado, são atitudes que abalam e perturbam a ordem social, exigindo a adoção de uma postura mais rigida por parte do Poder Judiciário no que diz respeito à liberdade do paciente, a bem do resguardo da ordem pública (fl. 221).
+Não é outra a opinião do Subprocurador-Geral da República [NOME], para quem  ..  os fundamentos utilizados são todos de ordem concreta e enfatizam, quer o modus operandi da prática delituosa, quer os antecedentes do paciente, a denotar sua periculosidade social (fl. 245).
+De fato, não há constrangimento ilegal a ser reparado no momento.
+Temos decidido que o risco de reiteração delitiva - elemento concreto capaz de justificar a necessidade da prisão cautelar - pode ser extraído inclusive de inquéritos, ações penais em curso e de atos infracionais anteriormente praticados. Nesse sentido, por exemplo, o HC n. 299.156/MG, de minha relatoria, Sexta Turma, DJe 17/11/2014; o RHC n. 36.316/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 7/3/2014; o RHC n. 48.897/MG, Ministro Felix Fischer, Quinta Turma, DJe 13/10/2014; e o HC n. 293.389/PR, Ministra Laurita Vaz, Quinta Turma, DJe 22/8/2014; e RHC n. 63.855/MG, Terceira Seção, DJe 13/6/2016.
+Por fim, é consabido que eventuais condições pessoais favoráveis não têm o condão de, isoladamente, desconstituir a custódia antecipada, quando, como na hipótese, estão presentes os requisitos autorizadores da decretação da medida constritiva de liberdade.
+Nessa linha: RHC n. 62.112/MG, de minha relatoria, Sexta Turma, DJe 19/11/2015; e HC n. 334.225/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/2/2016.
+Ante o exposto, denego a ordem.
