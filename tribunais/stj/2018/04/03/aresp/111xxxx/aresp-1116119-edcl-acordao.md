@@ -1,0 +1,41 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DE VÍCIO NO V. ACÓRDÃO EMBARGADO. NÃO PREENCHIMENTO DE REQUISITO DE ADMISSIBILIDADE. SÚMULA 284/STF. EMBARGOS NÃO CONHECIDOS.
+1. A ausência de indicação do vício a ser sanado nos embargos de declaração enseja o não conhecimento do recurso, bem como caracteriza deficiência nas razões recursais, inviabilizando a compreensão da controvérsia a ser solvida nos aclaratórios, atraindo a incidência da Súmula 284/STF. Precedentes.
+2. Embargos declaratórios não conhecidos.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator. Ausentes, justificadamente, os Srs. Ministros Luis Felipe Salomão e Marco Buzzi.
+RELATÓRIO
+EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator: Trata-se de embargos de declaração opostos por LIBERTY SEGUROS S/A em face de v. acórdão, proferido por esta eg. Turma, que negou provimento a seu agravo interno.
+Eis a ementa do v. acórdão embargado (fls. 2.509-2.510):
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PUBLICAÇÃO DE DECISÃO. PEDIDO DE NOME EXPRESSO DE ADVOGADO. NOME INCOMPLETO. AUSÊNCIA DE NULIDADE. PRESENÇA DE OUTROS ELEMENTOS, TAIS COMO NÚMERO DA OAB, DO PROCESSO E NOME DAS PARTES. ATO PROCESSUAL QUE ATINGIU SUA FINALIDADE. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL CONFIRMADA. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta eg. Corte assenta que, ainda que incorreto ou incompleto o nome de determinado advogado em uma publicação, esta será considerada válida se houver outros elementos capazes de identificar o processo e, assim, a publicação atinja a sua finalidade.
+2. No caso em apreço, a ausência do último sobrenome da nobre advogada, na publicação da decisão que inadmitiu o recurso especial na eg. Instância a quo, não tem o condão, por si só, de inviabilizar a finalidade da intimação, mormente, quando, além de outros dois sobrenomes, consta o respectivo número da OAB, do processo e o nome das partes.
+3. Decisão agravada, que não conheceu do agravo em recurso especial por considerá-lo intempestivo, que merece ser confirmada.
+4. Agravo interno desprovido."
+Nas razões dos aclaratórios, alega-se, em síntese, que "(..) em todas as petições da Embargante, apresentadas nos autos, há expresso requerimento que todas as intimações em relação a si fossem realizadas ÚNICA E EXCLUSIVAMENTE, em nome da Bela. [NOME] MOTTA MOURA DA FONTE, inscrita perante a [OAB]" (fl. 2.520 - destaques no original), providência que não foi atendida na publicação do juízo negativo de prelibação realizado no eg. TJ-PE.
+Aduz a embargante, também, que, "(..) além de a publicação do despacho não ter obedecido a norma processual, a qual faculta aos advogados indicarem o nome específico, no qual deve ocorrer a intimação, a publicação da decisão em questão não cumpriu sequer o que foi determinado na própria decisão publicada, a saber: "(..) seja a recorrente intimada em nome do advogado constante à fls. 1804, Dra. [NOME], [OAB] (..)" " (fl. 2.522 - destaques no original).
+Afirma, ainda, que o art. 272, § 5º, combinado com o art. 280, ambos do CPC/2015, "(..) reconhecem como nula a publicação que não observe as exigências legais, tal como a intimação pelo nome completo do advogado requerente" (fl. 2.524).
+Ao final, requer "(..) sejam os presentes embargos de declaração acolhidos, a fim de que seja destrancado o recurso especial e, ao final, o recurso especial provido para que seja a sentença de 1º (primeiro) grau totalmente reformada nos exatos termos pugnados no mencionado recurso excepcional" (fl. 2.524).
+Intimados, [NOME] e OUTROS apresentaram impugnação (fls. 2.529-2.544), pela rejeição dos aclaratórios.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Como sabido, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Vale ressaltar que o art. 1.023 da novel codificação processual exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, é inviável o acolhimento da pretensão recursal.
+No presente caso, a ora embargante, LIBERTY SEGUROS S/A, não apontou a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015. Ao contrário, a ora embargante limita-se a insistir em discutir a publicação de decisão do nome incompleto de d. advogada, tese que já foi rejeitada, expressamente, no v. acórdão ora embargado.
+Nesse cenário, os presentes embargos declaratórios não se fundamentam na eventual existência dos vícios anteriormente mencionados, de modo a deixar nítido o propósito da parte embargante em rediscutir o julgamento da decisão embargada, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+Outrossim, a jurisprudência desta eg. Corte é firme no sentido de que, tendo em vista a finalidade jurídica a que se destina o presente recurso, a falta de indicação de vício previsto no art. 535 do CPC/73 - art. 1.022 do CPC/2015 - inviabiliza a compreensão da controvérsia a ser sanada nos embargos de declaração, motivo pelo qual fica caracterizada a deficiência na fundamentação recursal, atraindo, por analogia, o teor da Súmula 284/STF.
+Nessa linha de intelecção, destacam-se os seguintes julgados:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. FALTA DE INDICAÇÃO.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida.
+2. A falta de indicação de uma das hipóteses autorizadoras dos embargos de declaração nas suas razões impossibilita o seu conhecimento, ante o descumprimento do dever legal da parte (art. 1.023 do CPC)."
+3. Embargos de declaração não conhecidos."
+(EDcl no AgInt no AREsp 1.020.808/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/06/2017, DJe de 20/06/2017 - grifou-se)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/15. FUNDAMENTAÇÃO GENÉRICA.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. A jurisprudência do STJ é no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), ou que traz fundamentação genérica sobre a existência de omissão quanto aos normativos indicados na peça recursal, atraindo o óbice da Súmula 284 do STF.
+3. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS."
+(EDcl no AgInt no AgRg no AREsp 726.513/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 03/10/2017, DJe de 19/10/2017 - grifou-se)
+Nesse panorama, infere-se que o presente recurso não deve ser conhecido.
+Ante o exposto, não conheço dos embargos de declaração.
+É como voto.
