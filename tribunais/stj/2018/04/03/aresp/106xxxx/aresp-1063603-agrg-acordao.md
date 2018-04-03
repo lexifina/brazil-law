@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. NATUREZA E ELEVADA QUANTIDADE DE DROGAS APREENDIDAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A natureza e a elevada quantidade de drogas apreendidas (quase 400 kg de pasta base de cocaína) justificam a fixação da pena-base acima do mínimo legal, tal como procedido pela instância ordinária, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro. Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+HOSANO NUNES DE NOVAIS interpõe agravo regimental contra decisão de minha relatoria, em que neguei provimento ao recurso especial interposto pela defesa e, por conseguinte, mantive inalterada a reprimenda a ele imposta.
+Nas razões deste recurso, o ora agravante reitera a sua compreensão de que deve ser reduzida a reprimenda-base. Para tanto, afirma que "a exasperação da reprimenda inicial, tão acima do mínimo legal, apenas em virtude da quantidade e da qualidade da droga apreendida, haja vista a inexistência de qualquer outra circunstância judicial desfavorável, é contraditória aos critérios fixados pelos artigos 59 e 68, ambos do Código Penal, bem como afronta os princípios da individualização da pena e da motivação de todas as decisões do Poder Judiciário" (fl. 908).
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja redimensionada a pena-base.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. NATUREZA E ELEVADA QUANTIDADE DE DROGAS APREENDIDAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A natureza e a elevada quantidade de drogas apreendidas (quase 400 kg de pasta base de cocaína) justificam a fixação da pena-base acima do mínimo legal, tal como procedido pela instância ordinária, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pelo ora agravante, entendo que não lhe assiste razão.
+Reafirmo que, havendo a instância ordinária elevado a pena-base do delito de associação ao tráfico de 3 para 5 anos e do delito de tráfico de drogas de 5 para 10 anos, em virtude da quantidade e da natureza da droga apreendida, ao fundamento de que "quase meia tonelada de pasta base de cocaína dão a dimensão da repercussão negativa que haveria se fosse colocada à venda" (fl. 707, destaquei), atuou ela em consonância com o disposto no art. 42 da Lei n. 11.343/2006, o qual preconiza que "o Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Destaco que, segundo entendimento consolidado no Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015, grifei), situação que, no entanto, não ficou caracterizada nos autos.
+Portanto, uma vez que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, entendo que deve ser mantida inalterada a pena-base aplicada ao agravante, sobretudo porque não houve desproporcionalidade no aumento. De fato, as peculiaridades do caso concreto, em que houve a apreensão de quase 400 kg de pasta base de cocaína, justificam maior reprimenda penal.
+À vista do exposto, nego provimento ao agravo regimental.
