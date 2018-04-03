@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial, por inexistência de violação de lei federal e incidência da Súmula n. 7/STJ (e-STJ fl. 3.894).
+O acórdão recorrido está assim ementado (e-STJ fl. 3.813):
+AÇÃO DE COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS AD EXITUM - CONTROVÉRSIA QUANTO À EXISTÊNCIA DE DEFEITOS NA PRESTAÇÃO DOS SERVIÇOS (ADIMPLEMENTO DEFEITUOSO) E QUANTO À EFETIVA IMPLEMENTAÇÃO DO ÊXITO ESTIPULADO COMO CONDIÇÃO PARA A EXIGÊNCIA DOS HONORÁRIOS - JULGAMENTO ANTECIPADO DO MÉRITO IMPOSSIBILIDADE CERCEAMENTO DE DEFESA CARACTERIZADO NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL, ANTE A CONSTATAÇÃO DE FATOS QUE DEPENDEM DE ELUCIDAÇÃO TÉCNICA PROCESSO ANULADO, COM DETERMINAÇÃO DE REABERTURA DA FASE DE SANEAMENTO E ORGANIZAÇÃO DO PROCESSO, A FIM DE QUE O JUÍZO A QUO PROCEDA NOS TERMOS DO ART. 357 DO CPC/2015.
+No especial (e-STJ fls. 3.826/3.844), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 130, 131, 330, 348, 353, 420 e 436 do CPC/1973, sustentando, em síntese, a inexistência de cerceamento de defesa pelo julgamento antecipado da lide. Destacou que "a confissão realizada pela RECORRIDA é prova mais que suficiente para comprovar a realização da condição imposta para recebimento do "Êxito 3"" (e-STJ fl. 3.836).
+No agravo (e-STJ fls. 3.898/3.896), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 3.911/3.914).
+É o relatório.
+Decido.
+No que tange ao cerceamento de defesa, o aresto impugnado ficou assim assentado (e-STJ fls. 3.816/3.818):
+Como se observa, a controvérsia cinge-se à existência (ou não) de defeitos na prestação dos serviços advocatícios adimplemento defeituoso do contrato e, principalmente, em saber se houve o implemento da condição necessária para que os honorários advocatícios contratados se tornassem devidos, qual seja: a obtenção do êxito prometido em cada uma das etapas discriminadas no contrato. Além disso, é imperioso que se verifique se a eventual frustração das etapas prometidas ad exitum são imputáveis à prestação de serviços da autora, ou decorreram de culpa exclusiva da ré.
+(..)
+Entretanto, é escusado esclarecer que o julgamento não poderia ser feito com apoio apenas nas cópias do processo de recuperação judicial e nos demais documentos apresentados pelas partes, pois a controvérsia, necessariamente, deveria ser elucidada por idônea prova judiciária, a cargo de perito de confiança do Juízo, ou seja, Advogado com experiência de atuação na área de recuperação judicial / falência, que assim possa examinar o trabalho profissional realizado pelo Escritório-autor e avaliar sua compatibilidade com a cobrança de honorários, à luz do contrato e da prática advocatícia na Comarca de São Paulo, fornecendo elementos para o julgamento mais seguro da tese de defesa - cumprimento imperfeito do contrato - e verificação acerca do advento da condição suspensiva pactuada pelas partes, concernente ao êxito.
+Isso porque há alegações de parte a parte, mui controvertidas, sem apoio em elementos de convicção capazes de elucidar, com segurança, qual delas tem razão.
+Daí o cerceamento à atividade processual da ré, que requereu, oportunamente, fosse realizada prova oral e também prova pericial "para elucidar os serviços prestados pelo Autor e os correspondentes honorários cobrados - havendo controvérsia entre o atingimento do proposito da contratação e o respectivo êxito - a nomeação de ""expert"" profissional da advocacia, para avaliação desta questão técnica" (fls. 3.562/3).
+Com efeito, somente após regular instrução probatória com realização de perícia técnica, elaborada por profissional do Direito especializado na área de recuperação judicial e falências, é que será possível apurar a existência (ou não) de defeitos nos serviços prestados pela autora, bem como se o êxito estipulado como condição para o recebimento dos honorários se implementou em todas (ou eventualmente em algumas) as etapas do contrato.
+O acórdão impugnado, com base nas peculiaridades do caso concreto, concluiu pela necessidade do retorno à fase instrutória.
+É firme a jurisprudência do STJ no sentido de que compete às instâncias ordinárias exercer juízo acerca da necessidade e da suficiência das provas produzidas nos autos, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado no âmbito do especial, a teor do enunciado da Súmula n. 7 deste Tribunal. A propósito:
+DIREITO PROCESSUAL CIVIL. PROVA PERICIAL. INICIATIVA PROBATÓRIA DO JUIZ. POSSIBILIDADE. PRECLUSÃO NÃO CONFIGURADA.
+I - Não há sentido em alegar que está preclusa a oportunidade da parte requerer ou pagar as custas relativas à perícia quando esta foi determinada, de ofício, pelo juiz. Incidência da Súmula 284/STF.
+II - Na linha dos precedentes desta Corte o magistrado não apenas está autorizado a determinar, de ofício, a realização de prova pericial, como ainda lhe compete, a partir de um livre convencimento motivado, examinar se a perícia apresentada é suficiente, se deve ser realizada uma nova ou, ainda, se deve ser afastada a conclusão do laudo.
+Agravo Regimental a que se nega provimento.
+(AgRg nos EDcl no Ag 1.344.133/MT, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/4/2011, DJe 4/5/2011.)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PRODUÇÃO DE PROVA PERICIAL APÓS AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. POSSIBILIDADE.
+1. Sendo o juiz o destinatário da prova, cabe a ele, com base em seu livre convencimento, avaliar a necessidade desta, podendo determinar a sua produção até mesmo de ofício, conforme prevê o art. 130 do Código de Processo Civil.
+2. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.114.441/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/12/2010, DJe 4/2/2011.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
