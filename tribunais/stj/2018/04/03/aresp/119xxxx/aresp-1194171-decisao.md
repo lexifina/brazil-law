@@ -1,0 +1,18 @@
+DECISÃO
+
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça de São Paulo, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 247):
+APELAÇÃO. SERVIDOR PÚBLICO. MUNICÍPIO DE BARUERI. PROCEDÊNCIA DO PEDIDO MEDIATO.
+SERVIDOR PÚBLICO. MUNICÍPIO DE BARUERI. ABONO PECUNIÁRIO (14º SALÁRIO). Pretensão de pagamento do abono pecuniário relativo ao exercício de 2010 nos termos da Lei Municipal 546/85. Inadmissibilidade. Revogação da Lei 546/86 pelas Leis 1493/05 e 1516/05. Não cumprimento do requisito associado à assiduidade para a obtenção do direito ao benefício. Inexistência de direito adquirido a regime jurídico e à forma de pagamento. Inocorrência de ofensa ao direito e garantias constitucionais. Precedentes do Superior Tribunal Federal e desta Corte de Justiça. Sentença reformada.
+RECURSO DO MUNICÍPIO PROVIDO E NEGADO PROVIMENTO AO RECURSO DO AUTOR.
+Embargos declaratórios rejeitados (e-STJ fl. 280)
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 5º, II e XXXVI, e 37, XV, da CF/1988, e 468, da CLT, sustentando o direito adquirido ao recebimento do abono pecuniário (14º salário) conforme as regras estabelecidas na Lei Municipal n. 546/1985, não podendo as leis locais supervenientes retroagir no tempo para impor regras que acarretem a redução dos valores percebidos.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 280 do STF (e-STJ fl. 346).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, deve-se ressaltar que a argumentação do acórdão recorrido voltou-se, unicamente, para o preenchimento dos requisitos estampados na legislação municipal, de forma que a aferição acerca do direito adquirido ao recebimento do abono pecuniário, nos moldes previstos no diploma normativo revogado, requereria o exame das Leis editadas pelo Munícipio de Barueri. Nesse passo, deve-se destacar ser notório que o recurso especial tem por escopo a uniformização da interpretação da lei federal e, por isso, não serve para a análise de eventual infringência a lei local, ou que demande sua prévia análise, conforme a inteligência da Súmula 280 do STF.
+Quanto à possível ofensa aos dispositivos constantes na Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
