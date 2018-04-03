@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por FELIPPE MENDES DOS REIS, fundamentado no artigo 105, inciso III, "a" e "c", da CF, contra acórdão proferido pela Décima Câmara Cível do TJMG, assim ementado (e-STJ fl. 209):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - MENSALIDADE ESCOLAR - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - CITAÇÃO - NÃO OCORRÊNCIA.
+- O prazo prescricional para a cobrança de mensalidades escolares é aquele disposto no art. 206, § 5º, I do CC/2002, ou seja, cinco anos.
+- O despacho que ordena a citação do réu interrompe o prazo prescricional, o qual retroage à data da propositura da demanda, nos termos do artigo 219, § 1º do CPC/73.
+- Ainda que transcorrido o lapso temporal quando da citação válida, se a ação tiver sido proposta antes de 05 (cinco) anos a contar do vencimento da dívida não haverá falar em prescrição, porquanto a causa interruptiva retroage à essa data.
+Nas razões recursais (e-STJ fls. 222/232), o recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 219, §§ 2º e 4º, do CPC/1973 e 206, § 5º, I, do CC/2002, sustentando que a citação ocorrida após o prazo legal não interrompe o prazo prescricional.
+Foram apresentadas contrarrazões às fls. 244/249 (e-STJ).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 218):
+No caso, tendo em vista que as mensalidades objeto da cobrança venceram entre agosto e dezembro de 2008, o prazo prescricional quinquenal iniciou-se entre setembro de 2008 e janeiro de 2009, vencendo entre setembro de 2013 e janeiro de 2014, respectivamente, cabendo ao credor perseguir seu crédito até tal data. E como a ação foi ajuizada em 03.12.2009, o prazo quinquenal não foi ultrapassado considerando que a citação válida ocorrida em 24.01.2015 interrompeu a prescrição, retroagindo à propositura da demanda (art. 219, §1º, CPC/73).
+Portanto, ao contrário do que pretende o apelante, o prazo prescricional de 5 (cinco) anos foi observado, não havendo falar em extinção da obrigação.
+Portanto, as questões referentes à violação dos arts. 219, §§ 2º e 4º, do CPC/1973 e 206, § 5º, I, do CC/2002, da maneira como apresentadas pelo recorrente nas razões do especial - inércia do credor para a realização da citação no prazo legal de modo que não haveria a retroação -, não foram analisadas pela Corte local. Incidentes, portanto, as Súmulas n. 282 e 356 do STF por falta de prequestionamento.
+Ainda que assim não fosse, para acolher as razões recursais e reconhecer a prescrição, seria imprescindível o reexame do conjunto fático-probatório dos autos, de modo a se aferir que a demora da citação deu-se por motivos inerentes à inercia do credor e não aos mecanismos da Justiça, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais o recorrente não se desincumbiu.
+Além do mais, a incidência da Súmula n. 7/STJ inviabiliza também o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012, REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011, EDcl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/3/2010, DJe 5/4/2010, e AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Diante do exposto, NÃO CONHEÇO do especial.
+Publique-se e intimem-se.
