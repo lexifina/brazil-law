@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. FORNECIMENTO DE ENERGIA ELÉTRICA. 1. VÍCIO DO SERVIÇO. MORA NO RESTABELECIMENTO DE ENERGIA APÓS O PAGAMENTO DE DÉBITO INADIMPLIDO. SÚMULA 283/STF. 2. JUROS MORATÓRIOS. VIOLAÇÃO À SÚMULA 54/STF. SÚMULAS 282 E 356 DO STF E 518/STJ. 3. DANO MORAL. MINORAÇÃO DO MONTANTE INDENIZATÓRIO. SÚMULA 7/STJ. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] - DISTRIBUIDORA DE ENERGIA S.A. contra decisão de inadmissibilidade do recurso especial apresentado, com fundamento no art. 105, III, a e c, da CF, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de [NOME] assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS - CORTE NO FORNECIMENTO DE ENERGIA ELÉTRICA EM DECORRÊNCIA DE ATRASO NO PAGAMENTO DE FATURA COM DATA DE VENCIMENTO DE 18.01.2016. DOCUMENTO PAGO EM 07.03.2016. SOLCITAÇÃO EXPRESSA DO AUTOR EFETIVADA EM 22.03.2016. DEMORA EXCESSIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO PARA RESTABELECER O FORNECIMENTO (01.08.2016). CLARA INFRINGÊNCIA AO ARTIGO 176 DA RESOLUÇÃO 414/2010 DA ANEEL. FALHA NA PRESTAÇÃO DO SERVIÇO EVIDENTE. DANO MORAL CONFIGURADO. RECURSO CONHECIDO E IMPROVIDO.
+Em suas razões de recurso especial, a recorrente alegou, além de dissídio jurisprudencial, violação aos seguintes dispositivos legais: a) arts. 188, 884 e 944 do CC, defendendo sua irresponsabilidade pelos danos morais suportados pela parte contrária, pois exerceu regularmente o direito de efetuar a suspensão do fornecimento de energia elétrica ao imóvel do recorrido devido ao inadimplemento de débitos; b) arts. 844 e 944 do CC, baseado na exorbitância do montante indenizatório - R$ 10.000,00 (dez mil reais) - arbitrado a título de danos morais; e c) Súmula 54/STJ, na medida em que é contratual a relação estabelecida entre as partes.
+Contrarrazões apresentadas às fls. 198-207 (e-STJ).
+Em decorrência da inadmissão do recurso, foi interposto o presente agravo, o qual foi objeto de contraminuta apresentada às fls. 232-241 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, não pode ser conhecida a pretensão de afastamento da responsabilidade civil da recorrente.
+Isso porque as razões do recurso especial estão voltadas à defesa da regularidade da suspensão do serviço do fornecimento de energia elétrica em virtude de débitos inadimplidos.
+Entretanto, o Tribunal de origem responsabilizou a recorrente motivado na mora em restabelecer o referido serviço após o pagamento extemporâneo do débito e não pela suspensão do mesmo.
+Constata-se, assim, que o acórdão recorrido não teve o único fundamento sobre o tópico supracitado impugnado, motivo pelo qual incide o óbice da Súmula 283/STF.
+Quanto à violação à Súmula 54/STJ, o recurso não pode ser conhecido, pelo fato de súmula não se enquadrar no conceito de lei federal, nos termos da Súmula 518/STJ.
+Além disso, a matéria sobre a incidência dos juros moratórios em caso de responsabilidade contratual não foi apreciada pelo Tribunal de origem, nem a eventual omissão a esse respeito foi objeto de embargos de declaração ou de recurso especial, circunstâncias que atraem a incidência das Súmulas 282 e 356 do STF.
+Por fim, a pretensão de minoração do quantum indenizatório arbitrado a título de danos morais não pode ser conhecida por incidência da Súmula 7/STJ.
+Com efeito, segundo a orientação jurisprudencial desta Corte, o quantum arbitrado a título de danos morais está baseado no acervo fático-probatório dos autos, motivo pelo qual somente pode ser revisado nesta instância em casos de valores irrisórios ou exorbitantes, os quais não observam os postulados da razoabilidade e da proporcionalidade (v.g. AgRg no AREsp 849.972/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 5/9/2016; e AgRg no AREsp 222.079/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 26/8/2014).
+No caso dos autos, o valor indenizatório estabelecido para a reparação dos danos morais - R$ 10.000,00 (dez mil reais) - não pode ser considerado exorbitante a fim de viabilizar a análise nesta instância.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor atualizado da condenação.
+Publique-se.
