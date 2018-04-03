@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UNIÃO RIO EMPREENDIMENTOS SA, doravante UNIÃO RIO EMPREENDIMENTOS, contra decisão exarada pela il. 3ª Vice-Presidência do eg. Tribunal de Justiça do Estado de Minas Gerais (TJ-MG), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de ação de rescisão contratual proposta por [NOME], FREDERICO CESAR MAXIMO DA [NOME] e [NOME] em desfavor de CONSTRUTORA GVS LTDA, CAIXA ECONÔMICA FEDERAL e UNIÃO RIO EMPREENDIMENTOS.
+O il. Magistrado julgou parcialmente procedentes os pedidos (sentença às fls. 1240/1248).
+Diante disso, as partes interpuseram os respectivos recursos. O eg. TJ-MG, contudo, negou provimento à apelação das partes autoras (SERGIO DA [NOME] [NOME], FREDERICO CESAR MAXIMO DA [NOME] e [NOME]) e da UNIÃO RIO EMPREENDIMENTOS . Por sua vez, deu parcial provimento à apelação de CONSTRUTORA GVS LTDA, nos termos do v. acórdão, assim ementado (fl. 1435):
+"EMENTA: APELAÇÕES CÍVEIS - AÇÃO DE RESCISÃO CONTRATUAL C/C PERDAS E DANOS - COMPRA E VENDA DE UNIDADES IMOBILIÁRIAS NA PLANTA - FALHA DO SERVIÇO DO INCORPORADOR/CONSTRUTOR DEVIDAMENTE APURADA NA PERÍCIA JUDICIAL - RESPONSABILIDADE SOLIDÁRIA - RESTITUIÇÃO DOS VALORES PAGOS REFERENTES AOS SERVIÇOS DE RESTAURAÇÃO DO IMÓVEL -_ DANO MORAL - CONFIGURAÇÃO - QUANTUM - MANUTENÇÃO.
+O laudo pericial e demais provas dos autos foram conclusivos em apontar danificações em apenas uma unidade do prédio em questão, assim, não há que se falar ern ausência de responsabilidade civil ou em ausência de abalo moral.
+O proprietário do terreno que figurou como vendedor do empreendimento habitacional responde solidariamente pelos danos causados ao adquirente, em razão das falhas da construtora apuradas na referida obra.
+Os danos morais arbitrados de forma razoável e proporcional merecem ser mantidos."
+Os embargos de declaração opostos foram rejeitados (acórdão às fls.1475/1480).
+Inconformado, UNIÃO RIO EMPREENDIMENTOS interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, ofensa dos arts. 29 e 30 da Lei n.º 4.591/64.
+Como dito, o apelo nobre foi inadmitido às fls. 1510/1511.
+Irresignado, UNIÃO RIO EMPREENDIMENTOS manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 1534/1537).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No apelo nobre que pretende trânsito, sustenta o recorrente ofensa dos arts. 29 e 30 da Lei 4.591/64, ao argumento de ser mero proprietário do terreno sobre o qual fora construída a incorporação, motivo pelo qual não poderia responder, de forma solidária, por eventuais defeitos do empreendimento.
+O recurso, contudo, não merece prosperar.
+Isso porque o eg. TJ-MG, mediante análise soberana das provas carreadas aos autos e dos termos do contrato, concluiu pela responsabilidade solidária do recorrente diante da atividade exercida no negócio jurídico firmado entre as partes, conforme trecho a seguir do v. acórdão estadual (fls. 1438/1441):
+"A partir da análise da relação jurídica existente entre os litigantes, é possível verificar que a empresa ré, União Rio Empreendimentos S/A, figura como vendedora (proprietária) do terreno, ora em análise, ao passo que a demandada RKM Construtora Ltda. restou qualificada como entidade organizadora/agente promotor e interveniente construtora/fiadora da avença em questão.
+Nesse contexto, é de se aplicar à hipótese dos autos os preceitos da Lei n. 4.591/64, a qual define incorporação imobiliária como sendo "a atividade exercida com o intuito de promover e realizar a construção, para alienação total ou parcial, de edificações ou conjunto de edificações compostas de unidades autônomas." (Art. 28 da Lei de Incorporações).
+(..)
+Conforme bem posicionado pela r. Juíza singular, à f. 1.114:
+"Convém frisar que sobre a responsabilidade do incorporador, ensina Sérgio Cavalieri Filho que: "O incorporador é o responsável por qualquer espécie de dano que possa resultar da inexecução ou má execução do contrato de incorporação.
+Trata-se de entrega retardada, de construção defeituosa, de inadimplemento total, pondera [NOME], responde o incorporador, pois é ele quem figura no pólo da relação contratual oposto àquele em que se coloca o adquirente da unidade ou das unidades autónomas". (Responsabilidade Civil em debate, 1º ed. Forense, p. 54) (In Programa de Responsabilidade Civil, 6 ed. Malheiros: São Paulo. 2004, p.
+378/379). Nesse -sentido, não restam dúvidas de que as Rés, na condição de incorporadoras. são solidariamente responsáveis pelos vícios e defeitos de construção que devem ser comprovados."
+Aliás, através da cláusula sétima do mencionado contrato, é possível vislumbramos a solidariedade das partes qualificadas acerca das obrigações assumidas na referida pactuação, "in verbis":
+"(..) b) a construção de todo o empreendimento será financiada pela CAIXA ECONOMICA FEDERAL, através de financiamentos autónomos concedidos aos COMPRADORES/DEVEDORES/HIPOTECANTES e aos demais integrantes do grupo associativo vinculado ao empreendimento obieto deste contrato, havendo por isso, solidariedade dos mesmos, por todas as obrigações assumidas neste instrumento, durante a fase de construção." (Grifos nossos). (f. 34).
+"(..) d) durante a fase de construção, o conjunto de residências e os seus respectivos terrenos responderão pelo débito resultantes dos financiamentos feitos a cada um dos COMPRADORES/DEVEDORES/HIPOTECANTES e dos demais integrantes do grupo associativo vinculado ao empreendimento, de forma que o todo responderá pelas partes e estas pelo todo, indistinta e solidariamente. (Grifos nossos). (f. 35)." (grifado no original)
+Nesse cenário, para se alterar o entendimento ora transcrito - quanto à atividade exercida pelo recorrente e, por conseguinte, sua responsabilidade solidária -, seria necessária a revisão de matéria fático-probatória e das cláusulas contratuais, o que é inadmissível em sede de recurso especial, nos termos das Súmulas 5 e 7/STJ.
+Por fim, no que tange à divergência jurisprudencial, o apelo também não merece acolhimento, pois não há similitude fática e jurídica entre os arestos paradigmas e o v. acórdão estadual. Ademais, especificamente quanto ao julgado paradigma oriundo do TJMG, incide a Súmula 13/STJ.
+Assim, forçoso reconhecer que o presente apelo não merece prosperar.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
