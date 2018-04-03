@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO E NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Banco Santander (Brasil) S.A. desafiando decisão do Tribunal de Justiça de São Paulo que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea c, da Constituição Federal, em acórdão assim ementado (e-STJ, fl. 395):
+MULTA - Ato atentatório à dignidade da justiça - Art. 600, II e 601 do CPC - Pretensão do executado, ora agravante, em ignorar a coisa julgada - Retardamento da prestação jurisdicional caracterizado - Recurso não provido.
+MULTA COMINATÓRIA Ação de revisão de cláusulas contratuais em fase de cumprimento de sentença Imposição de multa para exibição dos extratos de conta corrente Possibilidade - Medida coercitiva perfeitamente aplicável à espécie Faculdade do Juiz em fixar a multa reclamada - Inteligência do § 4º do art. 461 do CPC Recurso não provido.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, o recorrente alegou dissídio jurisprudencial sustentando o não cabimento da multa cominatória (astreintes) no caso em apreço por tratar-se de ação revisional de contrato.
+O Tribunal local inadmitiu o processamento do recurso especial pela ausência de demonstração do dissídio jurisprudencial.
+Irresignado, o recorrente interpõe agravo refutando o óbice apontado pela Corte estadual.
+Brevemente relatado, decido.
+Inicialmente, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado n. 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A divergência jurisprudencial com fundamento na alínea c do permissivo constitucional, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas sem o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ademais, o recorrente não apontou o dispositivo cuja interpretação tenha sido divergente a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+É importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, notadamente quando apontado o dissídio jurisprudencial, é imprescindível que se demonstrem de forma clara os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS MONITÓRIOS. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO E NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. 1. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. 2. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente. Súmula 284 do STF. 3. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 1.091.525/RS. Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 2/3/2018).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
