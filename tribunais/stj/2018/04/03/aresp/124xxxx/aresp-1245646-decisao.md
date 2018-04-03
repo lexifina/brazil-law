@@ -1,0 +1,36 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. TRANSPORTE MARÍTIMO DE CARGAS. SOBRESTADIA DE CONTÊINER. ARTS. 489, § 1º, I E II, E 11 DO NCPC. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+CGLI AGL TRANSPORTES INTERNACIONAIS LTDA (AGL) promoveu contra CEARA COMERCIAL DE ALUMINIO LTDA (CEARA COMERCIAL) ação de cobrança relativa a contrato de transporte marítimo de cargas, alegando sobrestadia de contêineres.
+O pedido foi julgado parcialmente procedente (e-STJ, fl. 115).
+CEARA COMERCIAL apelou e o Tribunal de Justiça do Estado de São Paulo não deu provimento ao recurso, em acórdão com a seguinte ementa:
+TRANSPORTE DE MERCADORIAS. Via Marítima. Ação de cobrança. Sobrestadia de contêineres. Imputação de multa pelo atraso à autora. Inadmissibilidade. Condicionamento da liberação da carga ao pagamento da demurrage não demonstrada. Caução exigida para retirada dos contêineres e não da mercadoria neles armazenada. Recurso não provido, com majoração de honorários (e-STJ, fl. 161).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 181-183)
+Inconformada, CEARA COMERCIAL interpôs recurso especial com base no art. 105, III, a, da Constituição Federal, por violação dos arts. 489, § 1º, I e II, bem como do art. 11, todos do NCPC. Pugna pela anulação do acórdão recorrido, alegando, em síntese (1) deficiência na fundamentação, consistente em não explicar porque os artigos 521 e 569 da Lei 556/50 foram superados pelos artigos 732 e 753, § 5º, do Código Civil; e (2) os fundamentos legais não correspondem aos fatos dos autos; (3) a sentença é nula (e-STJ, fls. 185-198).
+Em juízo de admissibilidade, o Presidente da Seção de Direito Privado do Tribunal a quo inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 236-246).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Quanto à alegada violação ao art. 489, § 1º, I e II, e 11, do NCPC, não há falar em nulidade do acórdão recorrido, tampouco em deficiência na prestação jurisdicional, porquanto a Corte estadual decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+No caso, o Tribunal a quo assim se pronunciou sobre os argumentos da recorrente:
+De início, inviável dizer sobre a nulidade da r. sentença quando esta se apresenta devidamente fundamentada, de acordo com os elementos e circunstâncias dos autos. A r. sentença também enfrentou todos os argumentos de relevo para o deslinde da controvérsia (NCPC, art. 489, IV).
+Quanto aos artigos 527 e 619, do antigo Código Comercial (Lei nº 556/1850), de fato, não há como dizer que foram superados pelos artigos 732 e 753, § 4º do Código Civil, pois disciplinam matérias diversas.
+Os dispositivos do Código Comercial dizem respeito à impossibilidade de retenção da carga no navio, pelo fretador ou capitão, por falta de pagamento do frete, e o artigo 753, § 4º do Código Civil, dispõe sobre a responsabilidade do transportador pela carga depositada em seus próprios armazéns, bem como o direito de remuneração pela respectiva custódia.
+E o artigo 732, do Código Civil, também mencionado pelo MM. Juiz, apenas dispõe sobre a aplicabilidade da legislação especial, tratados e convenções, aos contratos de transporte, quando não contrariarem as disposições do Código Civil, o que não é o caso.
+De qualquer forma, os artigos 527 e 619, do antigo Código Comercial, (Lei nº 556/1850), invocados pela ré, não se aplicam ao caso dos autos, pois a carga em questão, não foi retida a bordo/no navio, pelo capitão ou fretador, a pretexto do pagamento do frete, mas foram desembarcadas no porto e mantidas nos terminais de carga de terceiros (e-STJ, fls. 162-163, sem destaques no original).
+Verifica-se, portanto, que a Corte estadual fundamentou de forma satisfatória a decisão recorrida.
+A propósito, veja-se julgado desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE INFORMÁTICA. APRECIAÇÃO DE PROVAS PELO MAGISTRADO.
+PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. SÚMULA 83/STJ. ALEGAÇÃO DE NULIDADE DO LAUDO PERICIAL. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. REVISÃO DO JULGADO. IMPOSSIBILIDADE. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. DESCABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. A alegada afronta ao art. 489 do CPC/2015 não ficou caracterizada, porquanto o Tribunal de origem examinou, de forma satisfatória e fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da recorrente.
+2. Esta Corte possui entendimento no sentido de que, em regra, a avaliação (quanto à necessidade de produção de provas pelas instâncias ordinárias) é inviável em recurso especial, por incidir o óbice da Súmula n. 7/STJ.
+3. O Tribunal de origem, ao dirimir a controvérsia acerca da responsabilidade da ora agravante, fundamentou seu entendimento com base na perícia judicial produzida, além da prova testemunhal colhida nos autos. Por esta ótica, a revisão do acórdão, para reconhecer a nulidade do laudo pericial, não dependeria de mera valoração de provas, mas, sim, de verdadeiro reexame de matéria fático-probatória, pretensão que encontra óbice na Súmula 7/STJ. 4.
+A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+5. Agravo interno improvido.
+(AgInt no AREsp 1154277/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 6/2/2018, DJe 23/02/2018, sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo e NÃO DOU PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de CEARA COMERCIAL, nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
