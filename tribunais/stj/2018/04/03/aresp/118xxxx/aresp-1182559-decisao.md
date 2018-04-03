@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão do Presidente da Seção de Direito Público do Tribunal de Justiça Estadual, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 131):
+Constitucional. Direito à saúde. Medicamento e Insumos. O art. 196, da CF, é norma de eficácia imediata, independendo, pois, de qualquer normatização infraconstitucional para legitimar o respeito ao direito subjetivo material à saúde, nele compreendido o fornecimento de medicamentos ou aparelhos. Prevalece nesta Câmara o entendimento de que a negativa ao fornecimento de medicamentos fere o direito subjetivo material à saúde.
+Recurso não provido.
+Aclaratórios rejeitados (e-STJ fls. 147/150).
+No especial obstaculizado, a ora agravante, apontou, inicialmente, violação do art. 535 do Código de Processo Civil de 1973, em virtude da necessidade de o Tribunal de origem se manifestar sobre "o tema processual relativo à vinculação indevida da obrigação estatal à determinada marca de insulina e remédio" (e-STJ fl. 156).
+Sustentou, também, contrariedade ao art. 3º, XX a XXIII, da Lei n. 6.360/1973, porque o Poder Público não pode ater-se a marcas, aduzindo que existe no mercado produtos similares e/ou com a mesma finalidade.
+Acrescentou que a bomba pleiteada possui preço bem superior àquela fornecida pelo Sistema Único de Saúde e a funcionalidade extra que apresenta é um sensor acoplado que permite a verificação dos níveis de glicose no organismo, porém que não afasta a necessidade da medição convencional, razão pela qual não existe justificativa idônea para a sua aquisição.
+Decorrido o prazo legal sem oferecimento de contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 164).
+Na presente irresignação, o agravante alega que o recurso obstado atende aos pressupostos para a sua admissão (e-STJ fls. 170/176).
+Contraminuta às e-STJ fls. 179/186.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita tal anotação, impõe-se afastar, desde logo, a indigitada ofensa ao art. 535 do CPC/1973, visto que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650/RJ, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/9/2015 e AgRg no AREsp 493652/RJ, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 20/6/2014.
+Quanto à indigitada violação do art. 3º, XX a XXIII, da Lei n. 6.360/1973, melhor sorte não socorre o recorrente.
+Com efeito, ao apreciar os embargos de declaração, o Tribunal de origem destacou que "é desnecessário que se analise a questão da marca específica, porquanto já restou consignado na r. sentença, que restou mantida, o fornecimento dos instrumentos, materiais e insumos, sem vinculação à marca ou fabricante" (e-STJ fl. 150).
+Além disso, a tese de que a bomba fornecida pelo SUS é similar àquela pleiteada e que a funcionalidade extra em nada influencia no tratamento do paciente, não foi efetivamente levantada nas razões do apelo ou dos aclaratórios.
+Ainda que assim não fosse, a sua apreciação para a modificação do julgado, nos moldes pretendidos, demandaria a apreciação dos elementos fáticos presentes nos autos, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO. Nos termos do art. 85, § 11, do CPC/2015, estabeleço os honorários recursais sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
