@@ -1,0 +1,70 @@
+EMENTA
+TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REFIS. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DO ENUNCIADO 126 DA SÚMULA DO STJ.
+I - A tese do recorrente parte do princípio de que teria sido excluído do programa de parcelamento REFIS e que da data de sua saída do programa até o pleito da Fazenda Pública pelo prosseguimento da execução foi ultrapassado o prazo de prescrição previsto no art. 174 do CTN.
+II - Não obstante, conforme verificado no relatório encimado, a referida questão não foi abordada pelo Tribunal de Origem, que se apoiou no art. 40 da Lei 6.830/80 para disciplinar a prescrição intercorrente. Diante da ausência de análise da questão apresentada no recurso especial pelo Tribunal a quo, se apresenta impositiva a incidência da súmula 282/STF, in verbis:
+III - É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+IV - Por outro lado, observe-se, ademais, que o Tribunal a quo, para afastar a prescrição utilizou duplo fundamento, de índole constitucional e infraconstitucional, ambos suficientes para manter o julgado, conforme se pode constatar dos seguintes excertos extraídos do v. aresto objurgado, litteris: Acolhido em parte o incidente de argüição de inconstitucionalidade do § 4º e caput do artigo 40 da Lei nº 6.830/80 para, sem redução de texto, limitar seus efeitos às execuções de dívidas tributárias e, nesse limite, conferir-lhes interpretação conforme à Constituição, fixando como termo de início do prazo de prescrição intercorrente o despacho que determina a suspensão (artigo 40, caput). (TRF4, ARGUIÇÃO DE INCONSTITUCIONALIDADE Nº 0004671-46.2003.404.7200, 2ª Turma, Des. Federal LUCIANE AMARAL CORRÊA MÜNCH, POR MAIORIA, D.E. 15/09/2010.
+V - Todavia, não foi interposto recurso extraordinário contra o julgado vergastado, verificando-se o trânsito em julgado do fundamento constitucional, o que faz com que na hipótese incida o enunciado da Súmula nº 126 deste Superior Tribunal de Justiça, inviabilizando a análise do recurso especial. Nesse sentido: AgInt no REsp 1636295/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/04/2017, DJe 04/05/2017; AgInt no AREsp 952.691/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/04/2017, DJe 03/05/2017
+VI - Para aferir a correção das hipóteses fáticas apresentadas pelo recorrente, no sentido de determinar as situações de interrupção do programa de parcelamento e as datas respectivas, se faz impositivo o reexame do conjunto probatório dos autos, o que é vedado em face do constante da súmula 7 deste Superior Tribunal de Justiça.
+VII - Quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+VIII - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por BIEHL SA METALÚRGICA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. SUSPENSÃO DO PROCESSO. ART. 40 DA IEI Nº 6.830, DE 1980. INOCORRÊNCIA.
+O reconhecimento da prescrição intercorrente em execução fiscal depende do transcurso de prazo com inércia da exequente desde a decisão que determina a suspensão da execução com base no art. 40 da Lei nº 6.830, de 1980.
+O presente feito tem como origem execução fiscal ajuizada pela Fazenda Nacional para a cobrança de dívida tributária no valor de R$ 927.842,46.
+No julgamento encimado o Tribunal de origem, apresentou a tese de inconstitucionalidade do § 4º e caput do art. 40 da Lei 6.830/1980, para limitar os efeitos do referido artigo às execuções de dívidas tributárias, conferindo-lhes interpretação conforme a constituição, fixando como termo a quo do prazo prescricional intercorrente o despacho que determina a suspensão prevista no art. 40 da Lei 6.830/1980.
+Explicitou que na hipótese dos autos foi suspensa a exigibilidade do crédito pela adesão ao programa de parcelamento, situação que não autoriza a ocorrência de prescrição intercorrente.
+No recurso especial, a recorrente aponta violação do art. 174 do CTN, além de dissídio jurisprudencial.
+Sustenta, em síntese, que ocorreu a prescrição intercorrente, uma vez que a executada foi excluída do REFIS, por inadimplência, em 30/7/2003 e o Fisco somente solicitou o prosseguimento da execução em 17/12/2009, quando decorrido o lapso prescricional.
+Assevera que a exclusão do programa de parcelamento constitui o marco inicial para a contagem da prescrição intercorrente, não havendo necessidade da suspensão do processo com base no art. 40 da LEF.
+Apresenta, ainda, jurisprudência do Superior Tribunal de Justiça pelo acolhimento de sua tese.
+A União apresentou contrarrazões, requerendo a inadmissão do recurso, nos termos da Súmula 7/STJ, por entender se tratar de questão de ordem fática.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no artigo 255, § 4º, I, do RI/STJ não conheço do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+A tese do recorrente parte do princípio de que teria sido excluído do programa de parcelamento REFIS e que da data de sua saída do programa até o pleito da Fazenda Pública pelo prosseguimento da execução foi ultrapassado o prazo de prescrição previsto no art. 174 do CTN.
+Não obstante, conforme verificado no relatório encimado, a referida questão não foi abordada pelo Tribunal de Origem, que se apoiou no art. 40 da Lei 6.830/80 para disciplinar a prescrição intercorrente.
+Nesse panorama, diante da ausência de análise da questão apresentada no recurso especial pelo Tribunal a quo, se apresenta impositiva a incidência da súmula 282/STF, in verbis:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Por outro lado, observe-se, ademais, que o Tribunal a quo, para afastar a prescrição utilizou duplo fundamento, de índole constitucional e infraconstitucional, ambos suficientes para manter o julgado, conforme se pode constatar dos seguintes excertos extraídos do v. aresto objurgado, litteris:
+Acolhido em parte o incidente de argüição de inconstitucionalidade do § 4º e caput do artigo 40 da Lei nº 6.830/80 para, sem redução de texto, limitar seus efeitos às execuções de dívidas tributárias e, nesse limite, conferir-lhes interpretação conforme à Constituição, fixando como termo de início do prazo de prescrição intercorrente o despacho que determina a suspensão (artigo 40, caput). (TRF4, ARGUIÇÃO DE INCONSTITUCIONALIDADE Nº 0004671-46.2003.404.7200, 2ª Turma, Des. Federal LUCIANE AMARAL CORRÊA MÜNCH, POR MAIORIA, D.E. 15/09/2010)
+Todavia, não foi interposto recurso extraordinário contra o julgado vergastado, verificando-se o trânsito em julgado do fundamento constitucional, o que faz com que na hipótese incida o enunciado da Súmula nº 126 deste Superior Tribunal de Justiça, inviabilizando a análise do recurso especial.
+Nesse sentido, transcrevo os seguintes julgados desta Corte de Justiça, verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. FUNDAÇÃO PÚBLICA. DISPENSA DO CEBAS PARA FRUIÇÃO DA IMUNIDADE PREVISTA NO ART. 195, § 7º, DA CONSTITUIÇÃO FEDERAL. FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 126 DO STJ.
+1. O acórdão recorrido reconheceu que a fundação pública autora, na qualidade de entidade filantrópica declarada como de utilidade pública pelo Município de Brusque/SC e pelo Estado de Santa Catarina, preenche todos os requisitos previstos no art. 55 da Lei nº 8.212/1991 para fins de gozo do benefício de imunidade de contribuições sociais, à exceção do certificado CEBAS. A despeito disso, entendeu que a imunidade prevista no § 7º do art. 195 da Constituição Federal de 1988 dispensaria o requisito do certificado CEBAS na hipótese, uma vez que, por se tratar de entidade de caráter público, não havia possibilidade de registro da fundação no órgão que concede o CEBAS, pois o art. 18, III, da Lei nº 8.742/1993 somente previa concessão do CEBAS às instituição privadas, ou seja, jamais seria possível à autora preencher tal requisito. Assim, invocando o art. 195, § 7º, e o postulado normativo-aplicativo da razoabilidade, entendeu que, na falta de regramento específico acerca dos requisitos formais para obtenção, pelas entidades beneficentes de direito público, da imunidade prevista no supracitado dispositivo Constitucional, o disposto no art. 55 da Lei nº 8.212/1991, inclusive após a entrada em vigor do art. 29 da Lei nº 12.101/2009, seria aplicável apenas no que couber.
+2. O fundamento constitucional do acórdão recorrido, que é suficiente para mantê-lo, não foi impugnado através de recurso extraordinário, o que impossibilita o conhecimento do recurso especial no que tange à legislação infraconstitucional em razão da incidência da Súmula nº 126 do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1636295/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/04/2017, DJe 04/05/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. CAPITALIZAÇÃO MENSAL DOS JUROS. LEGITIMIDADE. FUNDAMENTOS CONSTITUCIONAL E LEGAL. AUSÊNCIA DE INTERPOSIÇÃO SIMULTÂNEA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. COMUNICAÇÃO AO SISTEMA DE INFORMAÇÕES DE CRÉDITO DO BANCO CENTRAL. REQUISITO DE VALIDADE DO CONTRATO. NÃO OBRIGATORIEDADE. JULGADO CALCADO EM RESOLUÇÕES E CIRCULARES. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTIGOS 932, INCISO III, e 1.021, § 1º, DO CPC DE 2015. SÚMULA 182 DO STJ.
+1. É inviável o recurso especial se a parte deixa de impugnar, pela via processual adequada, fundamento constitucional do acórdão recorrido (Súmula 126 do STJ).
+2. O recurso especial não comporta a análise de resoluções, portarias, circulares e demais atos normativos de hierarquia inferior à do Decreto, que não se inserem no conceito de lei federal.
+3. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil de 2015 e da Súmula 182 do Superior Tribunal de Justiça, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 952.691/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/04/2017, DJe 03/05/2017)
+Finalmente, observe-se que para aferir a correção das hipóteses fáticas apresentadas pelo recorrente, no sentido de determinar as situações de interrupção do programa de parcelamento e as datas respectivas, se faz impositivo o reexame do conjunto probatório dos autos, o que é vedado em face do constante da súmula 7 deste Superior Tribunal de Justiça.
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse diapasão, destaco:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. HEPATITE C. INDENIZAÇÃO POR DANO MATERIAL E MORAL. AUSÊNCIA DE NEXO DE CAUSALIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA 7/STJ.
+1. O Tribunal a quo, procedendo com amparo nos elementos de convicção dos autos, entendeu que não há nexo causal entre a conduta dos agentes públicos e os danos sofridos pelos ora agravantes, e que estes não trouxeram provas para corroborar o que alegou.
+2. Não é cabível em Recurso Especial o exame de questões que demandam o revolvimento do contexto fático-probatório dos autos, em vista do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+4. Agravo Interno não provido.
+(AgInt no REsp 1.612.647/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/2/2017, DJe 7/3/2017).
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AUTORA.
+1. A reforma do acórdão recorrido, no sentido de se entender pela falsidade da prova pericial, da existência de documento novo e da ocorrência de erro de fato, demandaria necessário revolvimento de matéria fática, prática vedada pela Súmula 7/STJ.
+2. A incidência da Súmula 7 do STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido.
+(AgInt no AREsp 638.513/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 9/3/2017, DJe 15/3/2017).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
