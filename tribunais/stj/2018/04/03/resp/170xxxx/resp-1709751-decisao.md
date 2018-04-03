@@ -1,0 +1,27 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça daquele estado na Apelação n. 0032473-98.2014.8.26.0050.
+Depreende-se dos autos que o réu foi condenado à pena de 8 anos e 2 meses de reclusão, em regime fechado, e 17 dias-multa, pela prática dos crimes previstos nos arts. 157, § 2º, I, II e V, e 158, §§ 1º e 3º, do CP.
+O Tribunal de origem negou provimento ao apelo ministerial e deu parcial provimento à apelação defensiva, a fim de reduzir a pena para 5 anos e 7 meses e 6 dias de reclusão, em regime fechado, e 14 dias-multa e considerar que a conduta representa apenas o crime de roubo. Os embargos infringentes da defesa foram rejeitados.
+Nas razões do recurso especial, alega a defesa que o acórdão recorrido violou os arts. 157, § 2º, e 158, § 3º, do CP, ao argumento de que "foram cometidas pelos agentes duas ações criminais distintas contra o patrimônio da ofendida, mediante o emprego de ameaça. A subtração de bens e o constrangimento ilegal, com o intuito de obterem indevida vantagem econômica, com a revelação da senha dos cartões bancários.  ..  não há que se falar em crime único de roubo, mas sim de concurso material com  ..  extorsão" (fl. 377).
+Requer seja reconhecido o concurso material entre o crime de extorsão qualificada e o roubo agravado  .. , com adequação das reprimendas e imposição de regime inicial fechado (fl. 392).
+Apresentadas as contrarrazões e admitido o recurso especial na origem, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Forçoso reconhecer, todavia, que praticada única conduta.
+Embora inicialmente ameaçadas as vítimas para subtração dos bens que detinham e, em momento posterior, intimidadas para realização de saque bancário, ininterrupta a coação exercida. Do anúncio do assalto até o momento em que liberado, o casal permaneceu dominado pelo recorrente, mediante ameaças de morte com exibição de arma.
+O que se verifica é que o constrangimento exercido para a retirada no banco se inseriu no contexto do roubo, como desdobramento da subtração efetuada dentro do veículo.
+ ..
+Em consequência, presente apenas o dolo de subtrair coisa alheia mediante grave ameaça, não desígnios autônomos, não se pode cogitar de roubo em concurso material com extorsão.
+Pelo mesmo motivo, inexistindo pluralidade de condutas, por óbvio também não seria possível falar em continuidade delitiva.
+(fls. 297-298, destaquei)
+Como se observa, depois de terem seus bens subtraídos durante o roubo, as vítimas foram coagidas a fornecer senha de cartão bancário para saque de valores da conta corrente.
+A jurisprudência desta Corte Superior e do STF é firme em assinalar que se configuram os crimes de roubo e extorsão, em concurso material, se o agente, após subtrair, mediante emprego de violência ou grave ameaça, bens da vítima, a constrange a entregar o cartão bancário e a respectiva senha, para sacar dinheiro de sua conta corrente. Note-se que, no crime de extorsão, para a obtenção da indevida vantagem econômica (no caso, saque de numerário depositado em conta bancária), é imprescindível a colaboração da vítima, a qual, no roubo, é dispensável.
+Assim, "se o roubo e a extorsão são cometidos sucessivamente, não há possibilidade de consideração de um crime único" (HC n. 103.281/SP, Rel. Ministra Jane Silva - Desembargadora convocada do TJ/MG, 6ª T., DJ 12/8/2008).
+Com efeito, a jurisprudência do STJ já assentou que "se configuram os crimes de roubo e extorsão, em concurso material, se o agente, após subtrair, mediante emprego de violência ou grave ameaça, bens da vítima, a constrange a entregar o cartão bancário e a respectiva senha, para sacar dinheiro de sua conta corrente" (AgRg no AREsp n. 323.029/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 12/9/2016).
+Tendo em vista essas considerações, é necessário reconhecer o concurso material entre o roubo e a extorsão. No entanto, não há nos autos registro de dosimetria para ambas as penas.
+Embora o réu tenha sido condenado em primeira instância pela prática dos crimes previstos no arts. 157, § 2º, I, II e V, e 158, §§ 1º e 3º, na forma do art. 70, caput, todos do CP, consta apenas a dosimetria do crime de extorsão (fls. 164-165), ao passo em que o acórdão recorrido afastou a extorsão para reduzir a pena do roubo (fls. 299-301).
+ Por essas razões, devem ser devolvidos os autos ao Tribunal de origem para que realize em separado a dosimetria de ambos os crimes em concurso material.
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+À vista do exposto, dou provimento ao recurso especial, para reconhecer a prática dos crimes de roubo e extorsão em concurso material e para determinar o retorno dos autos à instância antecedente a fim de que seja realizada a dosimetria de ambas as penas em concurso material.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena caso o agente não a esteja cumprindo atualmente.
+Publique-se e intimem-se.
