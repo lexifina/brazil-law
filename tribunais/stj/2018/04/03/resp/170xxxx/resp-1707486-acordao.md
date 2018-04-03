@@ -1,0 +1,65 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. AFASTAMENTO. VALOR DA CAUSA SUPERIOR AO LIMITE LEGAL. CUMULAÇÃO DE PEDIDOS. PROVEITO ECONÔMICO ESTABELECIDO A PARTIR DAS PROVAS DOS AUTOS. REVISÃO DO JULGADO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DOS ELEMENTOS FÁTICOS. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que a competência atribuída aos Juizados Especiais Federais é absoluta, consoante o art. 3º, § 3º, da Lei n. 10.259/2001, a ser determinada em conformidade com o valor da causa.
+2. No caso, concluiu a Corte regional, a partir dos elementos de prova constantes dos autos, que deve ser reconhecida a competência do Juízo Federal Comum para o processamento da demanda, pois a cumulação dos pedidos formulados na origem atribuiu à causa valor superior ao teto legal fixado para a competência dos Juizados Especiais Federais à época do ajuizamento da ação. Nesse contexto, a inversão do julgado exigiria, inequivocamente, incursão na seara fático-probatória dos autos, o que é inviável, na via eleita, nos termos do enunciado sumular n. 7/STJ.
+3. Recurso especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso especial interposto por Fundação Nacional de Saúde - FUNASA, com amparo no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 5ª região, assim ementado (e-STJ, fl. 194):
+PROCESSUAL CIVIL. ADMINISTRATIVO. CUMULAÇÃO DE PEDIDOS. GACEN. DIFERENÇAS RETROATIVAS DO PERCENTUAL DE 13,23%. CONTEÚDO ECONÔMICO. O VALOR DA CAUSA EXCEDE O ESTABELECIDO PARA A COMPETÊNCIA DO JUIZADO ESPECIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL COMUM.
+1. Pretende a apelante a reforma da sentença que extinguiu o feito sem resolução do mérito, face à incompetência do juízo, diante do valor da causa. Requer a demandante a integralização da GACEN e o pagamento das diferenças entre os valores pagos e os devidos, até a data de sua efetiva integralização, bem como o pagamento das diferenças retroativas do percentual de 13,23%, respeitada a prescrição qüinqüenal.
+2. O MM. Juiz Federal reconheceu a incompetência absoluta do Juízo, para processar e julgar esta ação, e extinguiu o processo sem resolução do mérito, com fundamento no artigo 267, IV, do CPC.
+3. Entendeu o órgão julgador monocrático que, "considerando que os valores individuais das demandas propostas através desta única ação não ultrapassariam o limite de 60 (sessenta) salários mínimos, caso fossem ajuizadas individualmente, impõe-se reconhecer a competência absoluta do Juizado Especial Federal Cível para processar e julgar o feito, nos termos do art. 3º da Lei nº 10.259/2001.
+4. Frise-se que a cumulação de pedidos não pode servir de estratégia para modificar a regra legal de competência absoluta do Juizado Especial Federal.
+5. No entanto, merece prosperar a irresignação da parte apelante, de ver reconhecida a competência da Justiça Federal Comum para o processamento da presente demanda.
+6. No caso em foco, a cumulação dos pedidos não ocorreu como uma estratégia para afastar a competência absoluta do Juizado Especial Federal, pois os pedidos são considerados legítimos, de possível cumulação e plenamente compatíveis entre si. Ademais, havendo cumulação de pedidos, o valor da causa resultará da soma de todos os valores pretendidos.
+7. Reconhecimento da competência da Justiça Federal Comum para processar e julgar a presente demanda, com o retorno dos autos ao Juízo de origem para o regular prosseguimento ao feito.
+8. Apelação provida para anular a sentença.
+Opostos embargos de declaração, estes foram desprovidos, nos termos do acórdão de e-STJ, fls. 230-232.
+Nas razões do especial, alega a parte interessada violação dos arts. 3º da Lei n. 10.259/2001 e 267, IV, do CPC/1973, requerendo, em síntese, que seja reconhecida a competência do Juizado Especial Federal Cível para o processamento e o julgamento da controvérsia debatida na origem.
+Afirma que "há cumulação facultativa dos pedidos, uma vez que inexiste qualquer vínculo de dependência ou prejudicialidade entre as demandas arguidas na peça exordial" (e-STJ, fl. 242).
+Defende, ainda, que, "caso as demandas fossem ajuizadas individualmente, não ultrapassariam o limite de 60 salários mínimos" (e-STJ, fl. 242).
+Contrarrazões apresentadas às e-STJ, fls. 247-253.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Das razões assentadas pelo voto condutor do acórdão, observa-se que a irresignação apresentada no presente apelo especial não merece acolhida.
+O Superior Tribunal de Justiça pacificou o entendimento de que a competência atribuída aos Juizados Especiais Federais é absoluta, consoante o art. 3º, § 3º, da Lei n. 10.25920/01, a ser determinada em conformidade com o valor da causa.
+Confira-se a redação do art. 3º desse normativo:
+Art. 3º: Compete ao Juizado Especial Federal Cível processar, conciliar e julgar causas de competência da Justiça Federal até o valor de sessenta salários mínimos, bem como executar as suas sentenças.
+§ 1º Não se incluem na competência do Juizado Especial Cível as causas:
+I - referidas no art. 109, incisos II, III e XI, da Constituição Federal, as ações de mandado de segurança, de desapropriação, de divisão e demarcação, populares, execuções fiscais e por improbidade administrativa e as demandas sobre direitos ou interesses difusos, coletivos ou individuais homogêneos;
+II - sobre bens imóveis da União, autarquias e fundações públicas federais;
+III - para a anulação ou cancelamento de ato administrativo federal, salvo o de natureza previdenciária e o de lançamento fiscal;
+IV - que tenham como objeto a impugnação da pena de demissão imposta a servidores públicos civis ou de sanções disciplinares aplicadas a militares.
+Para ilustrar, destacam-se alguns julgados sobre o tema:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE EFEITOS INFRINGENTES. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. ABONO DE PERMANÊNCIA. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL PARA APRECIAR E JULGAR DEMANDA CUJO VALOR DA CAUSA É INFERIOR A 60 SALÁRIOS MÍNIMOS. INAPLICABILIDADE DA EXCEÇÃO DO ART. 3º, § 1º, INC. III DA LEI 10.259/01. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Aplicado o princípio da fungibilidade recursal para receber os Embargos de Declaração como Agravo Regimental, nos termos da jurisprudência desta Corte, tendo em vista a simples pretensão de efeitos infringentes.
+2. A teor do disposto no art. 3º da Lei 10.259/01, a competência do Juizado Especial Federal é absoluta, estabelecendo-se o valor da causa como critério geral em matéria cível.
+3. No caso, o valor da causa foi atribuído em valor inferior a sessenta salários mínimos, versando a ação sobre a percepção de abono de permanência, com a devolução de valores descontados a tal título no período de 31/8/1999 e 7/4/2001, o que atrai a competência do Juizado Especial Federal para o processamento e julgamento do feito.
+4. A hipótese dos autos não se enquadra na exclusão de competência do Juizado Especial prevista no art. 3º, § 1º, inciso III da Lei 10.259/2001, visto que a procedência do pedido formulado na inicial acarretará a manutenção da vantagem pecuniária anteriormente percebida pelo servidor, e não a anulação ou o cancelamento do ato administrativo, sendo que eventual invalidação decorrerá apenas reflexamente da sentença de mérito.
+5. Agravo Regimental a que se nega provimento.
+(EDcl no AgRg nos EDcl no Ag 1.340.183/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/12/2015, DJe 5/2/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMPETÊNCIA. JUIZADO ESPECIAL FEDERAL. VALOR DA CAUSA. SÚMULA 83/STJ.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que a competência atribuída aos Juizados Especiais Federais é absoluta, a teor do art. 3º, § 3º da Lei n. 10.259/01, a ser determinada em conformidade com o valor da causa.
+2. Incidência do disposto na Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.546.549/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 24/11/2015, DJe 16/12/2015)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL. VALOR INFERIOR A SESSENTA SALÁRIOS MÍNIMOS. COMPETÊNCIA ESTABELECIDA A PARTIR DA ANÁLISE DE PROVAS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Em virtude do nítido caráter infringente, com fundamento no princípio da fungibilidade recursal, recebo os presentes Embargos como Agravo Regimental.
+2. O tribunal de origem estabeleceu o valor da causa a partir da análise de provas constantes dos autos, especificamente dos contracheque do recorrente, razão pela qual o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+3. O Sodalício a quo, ao constatar, pela análise das provas, que o valor da causa não supera o montante de 60 (sessenta) salários mínimos, seguiu a orientação do STJ, de que compete ao Juizado Especial Federal Cível processar, conciliar e julgar causas de competência da Justiça Federal até o valor de sessenta salários mínimos, bem como executar as suas sentenças. In casu, registre-se que se trata de competência absoluta, consoante precedentes desta Corte Superior.
+4. Embargos de Declaração recebidos como Agravo Regimental, ao qual se nega provimento.
+(EDcl no REsp 1468023/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/10/2014, DJe 28/11/2014)
+No caso, concluiu a Corte regional, a partir dos elementos de prova constantes dos autos, que deve ser reconhecida a competência do Juízo Federal Comum para o processamento da demanda, pois a cumulação dos pedidos formulados na origem atribuiu à causa valor superior ao teto legal fixado para a competência dos Juizados Especiais Federais à época do ajuizamento da ação.
+Destacou-se no aresto impugnado que "a cumulação dos pedidos não ocorreu como uma estratégia para afastar a competência absoluta do Juizado Especial Federal, pois os pedidos são considerados legítimos, de possível cumulação e plenamente compatíveis entre si" (e-STJ, fl. 198).
+Dessa forma, observa-se que, para rever as conclusões firmadas pela instância a quo de modo a perquirir acerca da alegada competência do Juizado Especial Federal para o processamento e o julgamento da presente controvérsia, demandaria o revolvimento do conjunto probatório dos autos, providência vedada, nesta via, ante o óbice constante da Súmula 7/STJ. Os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo, e, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+No ponto:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DESCONTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE PARCELAS NÃO INCORPORADAS AOS PROVENTOS DE APOSENTADORIA. ACÓRDÃO RECORRIDO QUE CONSTATA SER INVIÁVEL PRESUMIR QUE O VALOR APURADO SERÁ INFERIOR A 60 SALÁRIOS MÍNIMOS. COMPETÊNCIA DA VARA DA FAZENDA PÚBLICA DA JUSTIÇA COMUM. REVISÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. OFENSA A RESOLUÇÃO. ANÁLISE. INVIABILIDADE. RECURSO NÃO CONHECIDO.
+1. Quanto ao valor da causa, a Corte local, soberana na análise das circunstâncias fáticas e probatórias da causa, consignou que "é fácil perceber que o montante atribuído não representa fielmente o proveito econômico pretendido pelos autores" e que "o valor de uma eventual condenação não pode ser desde já estabelecido" (fl. 93, e-STJ), podendo este ultrapassar o teto do juizado especial da fazenda pública. A revisão deste entendimento esbarra no óbice da Súmula 7/STJ.
+2. Quanto à possível violação do art. 2º, VI e VII, da Resolução 321/2011 do TJPE, consigne-se que, consoante a jurisprudência do STJ, "a via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal" (AgInt no REsp 1.584.984/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 10.2.2017).
+3. Recurso Especial não conhecido.
+(REsp 1.651.679/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/3/2017, DJe 24/4/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+É como voto.
