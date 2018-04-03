@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DE PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DO REQUERIDO.
+1. Consoante Enunciado Administrativo n. 3, do Plenário do Superior Tribunal de Justiça, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/2015. 2.1. Nos termos do parágrafo 6º do artigo 1.003 do aludido diploma, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso. Precedente da Corte Especial. 2.2. "Segundo entendimento dominante desta Corte, "o art. 236 da Lei 8112/90 (Regime Jurídico dos Servidores Públicos da União) apenas estabelece o dia vinte e oito de outubro, "Dia do Servidor Público", como data comemorativa, sem criar feriado nacional. Portanto, imprescindível a comprovação da suspensão do prazo" (STJ, AgRg no Ag 1.383.034/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 01/02/2012) 2.3. No caso dos autos, não houve comprovação dos aduzidos feriados locais no momento da interposição do agravo em recurso especial, impondo-se o reconhecimento da intempestividade.
+3. Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por [NOME] em face da decisão acostada às fls. 809-810 e-STJ, proferida pelo Ministra Presidente deste Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial por considerá-lo intempestivo.
+Em julgamento monocrático, a presidência desta Corte superior constatou a intempestividade do recurso especial, pois "a parte Recorrente foi intimada da decisão agravada em 06/10/2016, sendo o agravo somente interposto em 31/10/2016". Verificou-se, ainda, que não houve de comprovação de feriado local, impondo-se a rejeição do reclamo.
+Inconformado, interpôs o presente agravo interno (fls. 814-834 e-STJ) alegando, em síntese, a ocorrência de feriados nacionais no curso do prazo. Requereram a reforma do decisum ou a apresentação do feito em mesa.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DE PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DO REQUERIDO.
+1. Consoante Enunciado Administrativo n. 3, do Plenário do Superior Tribunal de Justiça, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/2015. 2.1. Nos termos do parágrafo 6º do artigo 1.003 do aludido diploma, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso. Precedente da Corte Especial. 2.2. "Segundo entendimento dominante desta Corte, "o art. 236 da Lei 8112/90 (Regime Jurídico dos Servidores Públicos da União) apenas estabelece o dia vinte e oito de outubro, "Dia do Servidor Público", como data comemorativa, sem criar feriado nacional. Portanto, imprescindível a comprovação da suspensão do prazo" (STJ, AgRg no Ag 1.383.034/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 01/02/2012) 2.3. No caso dos autos, não houve comprovação dos aduzidos feriados locais no momento da interposição do agravo em recurso especial, impondo-se o reconhecimento da intempestividade.
+3. Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelos recorrentes são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. O agravo em recurso especial foi interposto em face de decisão publicada em 06/10/2016. Nota-se, ainda, que o recurso especial desafiou acórdão publicado em 15/04/2016. Assim, conforme o Enunciado Administrativo nº 3 deste Superior Tribunal de Justiça, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Afigura-se intempestivo agravo em recurso especial. Com efeito, o § 6º do art. 1.003 do CPC/2015 dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso". A partir da redação do referido dispositivo legal, conclui-se que eventual documento idôneo apto a comprovar a ocorrência de feriado local, para fins de aferição da tempestividade do recurso, deve ser colacionado aos autos no momento de sua interposição (art. 1.003, § 6º, NCPC).
+2.1. Esse foi o entendimento firmado pela Corte Especial, no julgamento do AgInt no AREsp n. 957.821/MS, realizado no dia 20/11/2017, cuja ementa a seguir se transcreve:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+
+2.2. "Segundo entendimento dominante desta Corte, "o art. 236 da Lei 8112/90 (Regime Jurídico dos Servidores Públicos da União) apenas estabelece o dia vinte e oito de outubro, "Dia do Servidor Público", como data comemorativa, sem criar feriado nacional. Portanto, imprescindível a comprovação da suspensão do prazo" (STJ, AgRg no Ag 1.383.034/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 01/02/2012).
+No mesmo sentido, citam-se os seguintes precedentes: AgInt no AREsp 1032692/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 23/05/2017, DJe 09/06/2017; AgInt no AREsp 1134130/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017; AgRg no AREsp 567.650/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/02/2015, DJe 23/02/2015.
+2.3. Desta forma, considerando recente entendimento firmado pela Corte Especial e a disposição expressa do art. 1.003, § 6º, do CPC/15 acerca da comprovação da ocorrência de feriado local para fins de aferição da tempestividade do recurso, conclui-se pela intempestividade do recurso especial, mantendo-se, portanto, a decisão agravada.
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
