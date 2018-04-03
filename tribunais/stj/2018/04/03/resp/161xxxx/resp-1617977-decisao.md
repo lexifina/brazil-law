@@ -1,0 +1,22 @@
+EMENTA
+PROCESSO CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 124):
+AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. EX-PREFEITA DO MUNICÍPIO DE TRACUNHAÉM-PE. OMISSÃO NA DECLARAÇÃO EM DCTF DA TOTALIDADE DAS RECEITAS LÍQUIDAS DO MUNICÍPIO E OS RESPECTIVOS PAGAMENTOS DOS TRIBUTOS. AUSÊNCIA DE COMPROVAÇÃO DA DESONESTIDADE DO AGENTE PÚBLICO. VERIFICAÇÃO DO PREJUÍZO.PENA DE RESSARCIMENTO AO ERÁRIO DEVIDA.
+1. Apelação do MPF em face da sentença que julgou parcialmente procedente o pedido, em razão da ausência de declaração em DCTF - Declaração de Débitos e Créditos Federais -, da totalidade das receitas liquidas do município e os respectivos pagamentos do PASEP, gerando prejuízo para o município com a cobrança de juros e multa. A sentença, apesar de não ter reconhecido o ato como ímprobo, condenou a ex-prefeita no ressarcimento ao erário do prejuízo causado.
+2. A conduta ilegal só se torna ímproba se revestida também de má-fé do agente público. Não comprovada a má-fé do agente público, mas comprovado o prejuízo ao erário devido ao pagamento de juros e multa ao Fisco, pela omissão no dever de declarar a totalidade das receitas líquidas do município, correta a sentença que condenou a ex-prefeita no ressarcimento ao erário do prejuízo causado.
+3. Apelação não provida.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 458, II, e 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a questão de fundo, sustenta ofensa ao artigo 10 da Lei nº 8.429/1992, sob o argumentos de que "por deixar de informar a totalidade de receitas líquidas correntes, [NOME] ocasionou uma omissão quanto à correta base de cálculo da contribuição de PIS/PASEP, o que ensejou a supressão de contribuições e, por consequeência, a lavratura do Auto de Infração, no valor de R$ 98.221,10 (noventa e oito mil duzentos e um reais e dez centavos)" (fl. 147).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fl. 152.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Não se conhece da suposta afronta aos artigos 458, II, e 535, II, do CPC/1973, pois o recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+Em se tratando de improbidade administrativa, é firme a jurisprudência do Superior Tribunal de Justiça no sentido de que "a improbidade é ilegalidade tipificada e qualificada pelo elemento subjetivo da conduta do agente. Por isso mesmo, a jurisprudência do STJ considera indispensável, para a caracterização de improbidade, que a conduta do agente seja dolosa, para a tipificação das condutas descritas nos artigos 9º e 11 da Lei 8.429/92, ou pelo menos eivada de culpa grave, nas do artigo 10" (STJ, AIA 30/AM, Rel. Ministro TEORI ALBINO ZAVASCKI, CORTE ESPECIAL, DJe de 28/09/2011).
+No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 118):
+"Compulsando os autos, verifico não haver comprovação da alegada má-fé da gestora na omissão de declaração de débitos e créditos dos tributos federais, mas uma ilegalidade, devido a má-gestão, desorganização na administração municipal. Como é cediço, para a configuração do ato de improbidade administrativa é necessário, além da comprovação da ilegalidade, há de ser verificada a presença do elemento subjetivo dolo ou culpa do gestor, ou seja, má-fé, o que não ocorreu nos autos".
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
