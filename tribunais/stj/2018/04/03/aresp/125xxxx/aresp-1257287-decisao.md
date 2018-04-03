@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 361/362):
+AGRAVOS INTERNOS. DECISÃO CORRETA AQUELA QUE HOMOLOGA CÁLCULOS DE LIQUIDAÇÃO DEPOIS DE REJEITADOS LIMINARMENTE OS EMBARGOS À EXECUÇÃO.
+- TITULO DE RESCISÓRIA QUE DATA DOS IDOS DE 1998, ATÉ AGORA NÃO LIQUIDADO. CÁLCULO ELABORADO DE ACORDO COM O ACÓRDÃO LIQUIDANDO QUE DESAGRADA TANTO AO CREDOR COMO AO DEVEDOR, QUE MERECE SER PRESTIGIADO, COMO O FOI PELO DECISUM RECORRIDO. CRITÉRIO DE JUROS E DE CORREÇÃO MONETÁRIA ADEQUADO, QUE ATENDE AOS DITAMES LEGAIS.
+- EMBARGOS À EXECUÇÃO QUE OBJETIVAM MERA APURAÇÃO DO QUANTUM DEBEATUR. IMPOSSIBILIDADE.
+MÁ VONTADE DO DEVEDOR QUE SEQUER OFERECE OS DADOS NECESSÁRIOS À LIQUIDAÇÃO QUE ENTENDE RAZOÁVEL OU ACERTADA.
+- POR OUTRO LADO VIU-SE QUE O ANTIGO IPERJ PARTICIPOU ATIVAMENTE DA TENTATIVA DE LIQUIDAÇÃO, DE FORMA QUE NÃO SE PODE ADMITIR EMBARGOS A EXECUÇÃO ORIGINADOS DE UMA POSTERIOR E EQUIVOCADA INTERPELAÇÃO, QUE O PRÓPRIO PARQUET ENTENDEU INADEQUADOS, TANTO QUE A FLS 136 OPINOU POR SUA EXTINÇÃO.
+- ACERTO DA DECISÃO QUE HOMOLOGA OS CÁLCULOS DE FLS. 380/384 PÕE FIM UMA INADEQUADA CELEUMA QUE SE ARRASTA PERTO DE VINTE ANOS.
+- É TEMPO DE SE PROMOVER A EXPEDIÇÃO DOS PRECATÓRIOS, MESMO PORQUE O CÁLCULO JÁ APONTA O QUANTUM DEBEATUR EM UFIR"S.
+- DESPROVIMENTO DOS TRÊS AGRAVOS.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 475-A, 535, II, 586, 618 e 730 do CPC. Sustenta tese de negativa de prestação jurisdicional. Afirma a iliquidez do título exequendo, argumentando que competia à exeqüente proceder à prévia liquidação do julgado, apurando corretamente o valor que lhe seria devido, para somente então dar início à execução. Assevera ser imprescindível citar a Fazenda Pública para opor embargos à execução, sendo certo que a mera intimação para manifestação acerca dos cálculos apresentados pelo exequente/contador não basta para sanar tal exigência processual.
+É o relatório.
+O inconformismo não prospera.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Quanto ao mais, colhe-se do aresto estadual a seguinte fundamentação (fls. ):
+Viu-se dos autos que o ERJ foi devidamente intimado para oferecer oportunamente seus Embargos mas não o fez, tendo a época o antigo Relator do feito, o saudoso Desembargador PAULO VENTURA oficiado o IPERJ, e posteriormente o próprio RIOPREVIDÊNCIA-agosto de 2005- para informar dados do Segurado falecido, sendo que em ambas as oportunidades o Estado se quedou inerte.
+A dificuldade, inclusive, na obtenção de dados foi tanta, que levou aquele Relator a proferir a seguinte decisão. "Considerando que o IPEAS demonstra verdadeira contumácia e insiste em não atender as determinações de trazer aos autos elementos que, segundo alega, poderiam contrariar os cálculos apresentados à fis.267/271, dou como correto e válidos os números constantes da respectiva planilha (fls.268/271), motivo por que os homologo".
+No caso presente o andar do processo se dá de forma tumultuada, incluindo a necessidade de sua restauração, sendo que talvez por isso, mas por engano, foi o Estado novamente intimado por Impugnar a execução, quando já preclusa essa fase, ou seja, depois da conta da liquidação.
+Argumenta, agora, o Agravante, que não foi intimado o RIOPREVIDENCIA e sim somente o ERJ, mas se esquece de dizer que chegou sim a ser interpelado e da mesma forma o Órgão o que sucedeu para ofertar elementos para a liquidação, tendo a época se quedado inteiramente inerte.
+Por isso não pode mais reclamar da homologação da conta, sedimentada que está pela decisão inicial alvo do Agravo, que com propriedade registra:
+"Entendo que o título executivo é líquido, certo e exigível, uma vez que houve homologação dos cálculos apresentados e a atualização destes pelo Contador judicial" (fls.148).
+Deve ser feito o registro de que o Agravante (RIOPREVIDENCIA) teima em impugnar a conta, mas continua a não contribuir com informações para um eventual redimensionamento do débito.
+Por tais fundamentos rejeito o Agravo ofertado pelo RIOPREVIDÊNCIA.
+(..)
+Sobra o Agravo Regimental ofertado pelo Parquet, que almeja invalidar o até aqui processado, incluindo o cálculo e sua posterior homologação, a pretexto de que não fora o RIOPREVIDENCIA regularmente intimado para o oferecimento de Embargos, porque feita essa interpelação em nome do ERJ Com a devida vênia não procede a pretensão, haja vista que apesar de tumultuado o processo ficou patente que ofertado o cálculo pelo Credor o antigo IPERJ por inúmeras vezes se pronunciou nos autos, sempre oferecendo empecilhos à liquidação e o que é pior, sem trazer os dados necessários a auxiliar na apuração dessas diferenças.
+Totalmente fora de propósito a oferta de "Embargos a Execução" feita a fls. 02/09, porque não só já se tornara preclusa a oportunidade como também porque deles se utiliza a Autarquia para propor novo "acertamento" do cálculo, sem ofertar elementos ou diretrizes necessárias para se atingir ao desiderato esperado.
+O próprio Ministério Público, ao oficiar a fls.136, já propusera a extinção desses Embargos, justamente porque não se prestava a aferição definitiva do quantum debeatur.
+Pelo fio do exposto fica patente a existência de um titulo judicial datado de outubro de 1998, sem que até hoje, passados 17 anos, se consiga liquidar.
+O Devedor também em nada colabora. Pelo contrário, insiste em impugnar reiteradamente as contas, mas não fornece os dados necessários para o que entende adequado se apurar como sendo o quantum debeatur.
+Por fim há cálculo nos autos, que curiosamente também não agrada ao Credor, mas que com alguma dificuldade, mas sempre seguindo a linha estabelecida pelo acórdão exequendo, apura o valor das diferenças, trabalhando o Contador com os elementos que lhe foram fornecidos para estabelecer o valor da divida.
+Esse cálculo restou homologado e foi novamente objeto de impugnações, oferecidas agora a titulo de Embargos reitados pelo decisum recorrido.
+(..)
+Por tudo isso entendo correta e oportuna a homologação do cálculo de fls. 380/384, que a meu juízo espelha a realidade dos limites estabelecidos no titulo liquidando.
+Diante desse contexto, a alteração das conclusões adotadas pela instância ordinária, acerca da liquidez do título exequendo e da efetiva citação do recorrente, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
