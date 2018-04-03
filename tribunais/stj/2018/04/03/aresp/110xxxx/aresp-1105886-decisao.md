@@ -1,0 +1,30 @@
+DECISÃO
+
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 410/411):
+MILITAR TEMPORÁRIO. LICENCIAMENTO. DECISÃO JUDICIAL. NÃO COMPROVAÇÃO DE CARDIOPATIA GRAVE. NOVA AÇÃO. ALEGAÇÃO DE FATO SUPERVENIENTE. EFICÁCIA PRECLUSIVA DA COISA JULGADA. ART. 474 DO CPC.
+1. Trata-se de ação ordinária em que o autor objetiva transformar o ato que o transferiu para a reserva em ato de reforma, a contar do infarto do miocárdio ocorrido em 30/06/2005, com base no art. 108, V, e 110, §§ 1º e 2º, da Lei 6.880/80, bem como a concessão de auxílio -invalidez, nos termos da Medida Provisória 2.131/00.
+2. Os pedidos de reintegração e reforma, anteriormente deduzidos na ação nº 94.0043442-1, em que se apresentou, como causa de pedir, o estado de saúde à época em que foi licenciado do serviço ativo militar, foi julgado improcedente sob o entendimento de que não restou comprovado que o autor era portador de cardiopatia grave.
+3. O infarto agudo do miocárdio não constitui fato novo, notadamente porque ocorreu em 30/06/2005, anteriormente ao julgamento dos embargos infringentes em 18/05/2006, merecendo destaque o fato registrado na sentença recorrida, extraído do laudo médico pericial, de que "o dado patológico que permitiu configurar a Doença de Kavasaki ocorreu em 2001, pois até então o autor apresentava somente a Hipertensão Arterial ".
+4. Se a questão ventilada não foi suscitada em momento oportuno, ou se foi mal formulada quando da ação anterior, o fato é que a mesma já se encontra preclusa.
+O art. 474 do CPC resguarda a imutabilidade do comando que emerge do julgado de mérito, estabelecendo uma eficácia preclusiva que impede que seja deduzido aquilo que era passível de alegação na demanda anterior, em relação aos mesmos fatos.
+5. A eficácia preclusiva da coisa julgada deve ser reconhecida de oficio pelo tribunal, em virtude da profundidade do efeito devolutivo do apelo, razão pela qual o processo será extinto sem apreciação do mérito, nos termos do art. 267, I, c/c o art. 474 do CPC.
+6. Apelação conhecida e parcialmente provida.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 267, I, e 474, ambos do CPC/1973, sustentando, a inexistência da prejudicial de coisa julgada sobre o pleito formulado, haja vista que na demanda anterior a causa de pedir seria decorrente de hipertensão arterial grave, enquanto que o pleito em epígrafe é oriundo de infarto agudo do miocárdio.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 7 do STJ (e-STJ fls. 432/433).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, em relação à possível violação dos dispositivos invocados, observa-se que para ser realizada sua análise, nos moldes trazidos pelo recorrente, seria necessário o revolvimento de matéria fático-probatória constante nos autos, sobretudo para examinar se, de fato, haveria a tríplice identidade entre as ações suscitadas, principalmente no que se refere à causa de pedir, apta a desconfigurar a ocorrência da coisa julgada, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. COISA JULGADA. CARACTERIZAÇÃO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REVISÃO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA 7/STJ.
+2. No que se refere à suposta ofensa à coisa julgada, o Tribunal a quo entendeu que "está presente a tríplice identidade exigida pelo parágrafo 2º do art. 301 do CPC para o reconhecimento da coisa julgada". Modificar o acórdão recorrido, como pretende a parte recorrente, demanda reexame de todo o contexto fático-probatório dos autos, o que é defeso ao STJ em vista do óbice de sua Súmula 7.
+ ..
+(AgRg no REsp 1546727/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/10/2015, DJe 20/11/2015)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. IMPOSTO DE RENDA SOBRE VALORES RECEBIDOS DE ENTIDADE PRIVADA. TESE DE INOCORRÊNCIA DE COISA JULGADA MATERIAL. REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O acolhimento da tese recursal de que, na referida Ação Mandamental, não teria havido exame de mérito, ou que ali se teria versado pedido diverso daquele postulado nesta ação, demandaria se revisitasse o acervo probatório dos autos, e que dessa reanálise se extraísse conclusão em sentido diametralmente oposto à alcançada pela instância de origem, no que respeita à identidade ou não de pedidos. Trata-se de medida, entretanto, inviável no âmbito do Apelo Nobre, a teor da orientação consagrada na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+ ..
+(AgRg no REsp 1157779/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 07/06/2016, DJe 22/06/2016)
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
