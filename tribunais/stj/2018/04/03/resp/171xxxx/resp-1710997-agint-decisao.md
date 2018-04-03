@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interno no recurso especial interposto por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL contra decisão monocrática, da lavra deste signatário (fls. 374/378, e-STJ), que negou provimento ao recurso especial.
+1. A controvérsia central discutida no recurso especial (fls. 324/339, e-STJ), no sentido de que é anual o prazo de prescrição em todas as pretensões que envolvam interesses de segurado e segurador em contrato de seguro, foi admitida para julgamento pela Segunda Seção do Superior Tribunal de Justiça, mediante o rito do Incidente de Assunção de Competência - IAC, previsto no art. 947, § 4º do Código de Processo Civil de 2015, consoante acórdão proferido no IAC no REsp nº 1.303.374 - ES, Rel. Min. Luis Felipe Salomão, DJe 01/08/2017, com o objetivo de uniformizar o entendimento jurisprudencial acerca da seguinte questão jurídica:
+Em contrato de seguro facultativo, ser ou não anual o prazo da prescrição em todas as pretensões que envolvam segurado e segurador, não apenas as indenizatórias.
+Considerando que o acórdão a ser proferido em incidente de assunção de competência, por constituir precedente qualificado, vinculará todos os juízes e órgãos fracionários (arts. 927, III e 947, § 3º, ambos do CPC, bem como os arts. 121-A e 271-B e seguintes do RISTJ), impõe-se a suspensão do presente recurso, até a publicação do acórdão paradigma.
+A suspensão deste processo, porém, será feita na Secretaria desta Corte Superior, visto que, no procedimento do IAC, não há previsão de juízo de retratação pelo Tribunal de origem, não sendo possível aplicar-se, por analogia, o rito dos recursos repetitivos.
+2. Ante o exposto, em juízo de retratação, torna-se sem efeito a decisão de fls. 374/378, e-STJ, e determina-se a suspensão do presente recurso, até a publicação do acórdão paradigma, a ser proferido no julgamento do IAC no REsp nº 1.303.374-ES.
+Publique-se.
+Intimem-se.
