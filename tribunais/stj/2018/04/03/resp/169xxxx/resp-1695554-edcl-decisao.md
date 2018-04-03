@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração, opostos por NORCON SOCIEDADE NORDESTINA DE CONSTRUÇÕES S/A em face de decisão monocrática da lavra deste signatário, acostada às fls. 648/650 (e-STJ), que deu parcial provimento ao recurso especial, a fim de afastar a condenação em danos morais.
+Irresignada, a ora embargante aponta omissão no julgado quanto ao redimensionamento dos ônus sucumbenciais, haja vista que a exclusão dos danos morais acarreta em improcedência total do pleito dos ora embargados.
+É o relatório.
+Decido.
+Os presentes aclaratórios não comportam acolhimento.
+1. Nos estreitos lindes do art. 1.022, incisos I, II e III, do Código de Processo Civil, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão.
+Assiste razão à embargante. No caso dos autos, os embargados ajuizaram a ação buscando a condenação da insurgente à indenização por danos morais no valor de R$ 7.500,00 (sete mil e quinhentos) para cada um pelo atraso na entrega do imóvel. Formularam, ainda, requerimentos adicionais de praxe, tais como a condenação em custas e honorários; antecipação de tutela; inversão do ônus da prova; além da concessão do benefício da assistência judiciária gratuita (fls. 12-13 e-STJ).
+O magistrado de primeiro grau julgou a demanda parcialmente procedente, a fim de condenar a ora embargante ao pagamento de R$ 6.000,00 (seis mil reais) a título de danos morais para cada um dos autores.
+Irresignada, a insurgente interpôs apelação, a qual foi parcialmente provida a fim de reduzir o valor da indenização arbitrada pelo juízo primevo.
+A decisão ora hostilizada, então, deu parcial provimento ao recurso especial interposto pela embargante para afastar a condenação em danos morais, pedido central dos autores.
+Em sendo assim, a exclusão dos danos morais acarreta, em verdade, em improcedência total do pedido da parte autora, motivo pelo qual é imperioso redimensionar os ônus sucumbenciais.
+A sucumbência é regida pela lei vigente à data da deliberação que a impõe ou a modifica, na qual ficarão estabelecidas a sucumbência entre os pedidos das partes, bem ainda todos os requisitos valorativos para a fixação da verba sucumbencial (honorários advocatícios). Esse pronunciamento não se confunde com a sentença strito sensu, notadamente porque na hipótese de provimento recursal com a modificação do ônus sucumbencial, face à determinação legal de que a norma processual é aplicável imediatamente aos processos em curso (artigo 14 do NCPC), o novel diploma normativo processual incidirá, independentemente de o reclamo ter sido manejado sob a égide do revogado código processual.
+Segundo o art. 85, § 2º, do NCPC, os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa e, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Considerando os requisitos acima descritos, entendo adequada a fixação da verba honorária em 20% (vinte por cento) do valor estabelecido para a causa, qual seja, R$ 15.000,00 (quinze mil reais), ficando os honorários em R$ 3.000,00 (três mil reais).
+2. Do exposto, acolho os embargos de declaração a fim de sanar omissão da decisão monocrática impugnada, para determinar que os ônus sucumbenciais fiquem a cargo da parte autora, com a fixação dos honorários advocatícios em 20% (vinte por cento) sobre o valor da causa.
+Publique-se.
+Intimem-se.
