@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fls. 98/99):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS CONTRA DECISÃO QUE DETERMINOU ABERTURA DE PRAZO COMUM PARA OFERECIMENTO DAS ALEGAÇÕES FINAIS, SEM OPORTUNIZAR VISTA DOS AUTOS AO NOVO CAUSÍDICO. MATÉRIA QUE JÁ ESTÁ SENDO DISCUTIDA EM MANDADO DE SEGURANÇA. LIMINAR PARCIALMENTE DEFERIDA NO MANDADO DE SEGURANÇA, NO SENTIDO DE POSSIBILITAR AO MESMO TER VISTA DOS AUTOS FORA DA SECRETARIA, POR UMA HORA, PARA EXTRAÇÃO DE CÓPIAS. ABERTURA DE NOVO PRAZO PARA ALEGAÇÕES FINAIS. DENEGAÇÃO DA ORDEM.
+1. O impetrante já interpôs Mandado de Segurança para discutir os aspectos que novamente traz a esta Corte Regional, por meio deste Habeas Corpus, no sentido de que seja oportunizada vista dos autos da Ação Penal 19195-43.2008.4.05.8300, com prazo razoável, fora da Secretaria do Juízo, e antes do prazo para apresentação de alegações finais, para que ocorra a ratificação pelo novo defensor dos atos judiciais praticados anteriormente.
+2. Tendo em consideração a situação apresentada, e buscando conciliar a observância dos princípios constitucionais do contraditório e da ampla defesa, sobremaneira relevantes no processo penal, mais também no intento de garantir a marcha processual adequada do processo, que seria prejudicada pela vista promovida em favor de uma só das partes, quando o processo se encontrava em fase de prazo comum, foi deferida parcialmente a liminar no Mandado de Segurança, entendendo pela aplicação art. 40, parág. 2º, do CPC, com a redação dada pela Lei 11.969/2009, no sentido de que fosse reaberto o prazo para alegações finais, e permitida a retirada dos autos por 1 hora, ou mais, durante o prazo comum, para efeito de cópias do processo, o que certamente facilitaria o exercício do mister pelo defensor então constituído.
+3. Foi a pretensão do impetrante aqui apresentada já devidamente examinada quando do julgamento de liminar, parcialmente deferida nos autos do Mandado de Segurança (MSTR102813-PE), restando pendente ainda o julgamento final da causa.
+4. Ordem denegada.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 123/129).
+Nas razões deste recurso ordinário, a defesa alega, em suma, ofensa ao princípio da ampla defesa, em decorrência de negativa de reabertura de prazo para apresentação de alegações finais.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 215/217).
+É, em síntese, o relatório.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifica-se que, em 6/12/2016, as apelações interpostas pelas defesas foram providas, para declarar a nulidade do feito a partir da ratificação do recebimento da denúncia, e declarar extinta a punibilidade dos apelantes pelo advento da prescrição.
+Desse modo, nada mais há a ser apreciado nesta oportunidade.
+Ante o exposto, com fundamento no art. 34, inciso XI, do Regimento Interno desta Casa, julgo prejudicado este recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
