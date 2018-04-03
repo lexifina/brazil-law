@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE ARTUR NOGUEIRA com base no art. 105, III, a e c, da CF, em face de decisão monocrática que, ao julgar os embargos infringentes opostos da sentença que extinguiu a execução fiscal nos termos do artigo 794, I, do CPC/73, manteve a sentença embargada pelos seus próprios fundamentos.
+A parte recorrente aponta violação aos arts. 9º e 10 do CPC/2015. Sustenta, em resumo, que "quando transcorrido o prazo de suspensão do processo necessário para que a parte executada cumprisse o acordo celebrado e quitasse o débito que tinha com a exequente,  .. , o juiz de 1ª instância deveria ter intimado as partes para que se manifestassem, requerendo o que entendessem de direito (a extinção ou continuidade do trâmite processual), para só depois, decidir a demanda, extinguindo-se o processo no caso de cumprimento integral do acordo ou no caso de as partes deixarem transcorrer "in albis" o prazo de manifestação" (fl. 86).
+É o relatório.
+No caso, o recurso especial foi dirigido contra decisão monocrática proferida por relator e não houve a interposição de agravo interno (art. 557 do CPC) perante o Tribunal de origem. Nesse contexto, o recurso especial não pode ser conhecido, ante o óbice da Súmula 281/STF ("É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada.").
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
