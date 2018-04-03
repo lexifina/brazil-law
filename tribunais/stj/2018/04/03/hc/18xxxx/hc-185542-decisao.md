@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de [NOME] e ALEX DIAS MOISÉS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n. 993.07.072622-9.
+Consta dos autos que o Juízo de primeiro grau condenou os pacientes a 6 anos e 5 meses de reclusão, em regime inicialmente fechado, como incursos no art. 157, § 2º, I e II, do Código Penal (roubo circunstanciado) - (Processo Criminal n. 050.01.005829-0 - 14ª Vara Criminal da Comarca da Capital).
+O Tribunal a quo negou provimento à apelação da defesa.
+Neste mandamus, a impetrante sustenta que (I) as penas-base foram aumentadas com fundamento em processos sem trânsito em julgado e referentes a delitos cometidos após os fatos em análise; (II) a causa de aumento do inciso I não deveria ter sido aplicada porque a arma não foi apreendida; (III) o aumento da pena, na terceira fase, está contrário ao Enunciado n. 443 da Súmula desta Corte; (IV) o regime fechado está baseado na gravidade abstrata do delito.
+Requer, assim, a redução da pena-base; o afastamento da majorante do inciso I; a aplicação, na terceira fase, da fração de 1/3; e a fixação de regime mais brando.
+Indeferida a liminar e prestadas informações pela autoridade coatora, o Ministério Público Federal manifestou pela concessão parcial da ordem (fls. 84/96).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Conforme relatado, a primeira controvérsia refere-se às penas-base.
+Nesse ponto, estes foram os fundamentos apresentados pelos Juízos de primeiro e segundo graus:
+
+Sentença:
+ ..  Considerando os elementos norteadores do artigo 59 do Código Penal, entendo; que a pena deve ser fixada acima do mínimo legal por dois motivos. Primeiro porque ambos os réus ostentam péssimos antecedentes criminais, contando; inclusive; com várias condenações ([NOME] conta com as condenações de fls. 104, 193; 191 e 242 e Alex conta com a condenação gravíssima de fls. 196); segundo porque o crime foi cometido com dolo exacerbado, pois ambas as vítimas mencionaram que foram ameaçadas de execução. Assim, fixo a pena acima do mínimo legal, em 4 anos e 8 meses de reclusão. Diante das causas de aumento presentes (emprego de arma e concurso de pessoas), será a pena acrescida de três oitavos (3/8), totalizando a pena final de 6 (seis) anos e 5 (cinco) meses de reclusão (fl. 20).
+Acórdão:
+ ..  Por derradeiro, ressalvo que, porquanto posteriores à data do delito que ora se analisa, a sentença de pronúncia prolatada em face de [NOME] (fls. 242) e os decretos condenatórios suportados por Alex (fls. 104 e 196) e [NOME] (fls. 191 e 193) não constituem "péssimos antecedentes criminais", conforme anotou o douto sentenciante, mas caracterizam conduta social deletéria e personalidade desajustada, circunstâncias judiciais que, de qualquer modo, influem na fixação da pena-base (fls. 35/36)
+Verifico que o Tribunal a quo valorou negativamente a conduta social e a personalidade dos pacientes com base em processos por delitos praticados após os fatos em análise. Porém, segundo a jurisprudência desta Corte, não é possível considerar a condenação transitada em julgado, correspondente a fato posterior ao narrado na denúncia, para valorar negativamente antecedentes, conduta social ou personalidade do agente (HC n. 336.195/SC, Relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/08/2016, DJe 15/08/2016).
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. DOSIMETRIA. PRIMEIRA FASE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO INIDÔNEA. INQUÉRITOS E PROCESSOS EM ANDAMENTO. IMPOSSIBILIDADE DE CONSIDERAÇÃO. SÚMULA 444 DESTE STJ. PENA REDUZIDA. REGIME INICIAL MODIFICADO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do enunciado 182 da Súmula desta Corte.
+2. Consoante orientação sedimentada nesta Corte Superior, inquéritos policiais ou ações penais em andamento ou sem certificação do trânsito em julgado, ou mesmo condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ, verbis: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base".
+3. Agravo regimental a que se nega provimento. Habeas Corpus concedido de ofício.
+(AgRg no AREsp 894.405/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/05/2016, DJe 13/06/2016).
+Sendo assim, afasto essas circunstâncias judiciais desfavoráveis.
+Em razão da maior reprovabilidade da conduta do paciente, pelo fato de as vítimas terem sido ameaçadas de execução (ponto não impugnado neste writ), fixo a pena-base em 4 anos e 2 meses de reclusão.
+No que diz respeito à arma de fogo, "a Terceira Seção deste Superior Tribunal de Justiça, por ocasião do julgamento dos Embargos de Divergência n. 961.863/RS, firmou o entendimento de que é despicienda a apreensão e a perícia da arma de fogo, para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo" (HC 394.824/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/02/2018, DJe 26/02/2018). No caso, os depoimentos das vítimas comprovam a utilização da arma de fogo (fl. 32).
+Quanto à terceira fase da dosimetria, razão assiste à impetrante.
+Segundo o enunciado n. 443 da Súmula do STJ, o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Na hipótese dos autos, a pena foi aumentada em 3/8, exclusivamente com fundamento no número de majorantes, em desrespeito ao referido Enunciado, conforme se constata do seguinte trecho do acórdão impugnado:
+Ademais, exsurge adequado o acréscimo de 3/8 (três oitavos) em face da presença de duas causas de aumento de pena, consoante o entendimento que predomina neste Colendo Sodalício (fl. 35).
+Desse modo, reduzo a fração de aumento de pena para o mínimo legal - 1/3, fixando a pena definitiva em 5 anos, 6 meses e 20 dias de reclusão.
+Por último, encontra-se prejudicada a questão referente ao regime de cumprimento da pena, pois as informações de fl. 224 noticiam que os pacientes possuem várias execuções penais, cujas penas, unificadas, ultrapassam 8 anos de reclusão, justificando o regime fechado.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para reduzir a pena-base e a fração de aumento decorrente das majorantes do § 2º do art. 157 do Código Penal, fixando a pena em 5 anos, 6 meses e 20 dias de reclusão, para cada paciente.
+Publique-se.
+Intimações necessárias.
