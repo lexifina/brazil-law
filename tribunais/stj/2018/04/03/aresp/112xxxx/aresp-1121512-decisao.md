@@ -1,0 +1,24 @@
+DECISÃO
+
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu recurso especial. O apelo nobre desafia acórdão prolatado pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 245, e-STJ):
+CERCEAMENTO DE DEFESA - Inocorrência - Desnecessidade de realização de prova pericial - Caso em que houve preclusão, pois o agravante não recorreu contra a decisão interlocutória que a indeferiu - Preliminar afastada - Decisão que negou provimento à apelação do autor e deu parcial provimento à apelação mantida - Agravo regimental improvido.
+Em suas razões de recurso especial, o recorrente aponta ofensa aos arts. 944 e 950 do Código Civil.
+Sustenta, em síntese, ser devida indenização por perda da sua capacidade laborativa.
+Não foram apresentadas contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial. Daí o agravo (fls. 320-343, e-STJ) no qual o recorrente refuta os óbices aplicados pela Corte Estadual.
+Sem Contraminuta.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Com efeito, a tese trazida pelo recorrente nos autos é de necessidade de perícia médica para constatar a perda da capacidade laborativa, aduzindo ainda que não há como se admitir a ocorrência de preclusão da matéria.
+No ponto, a E. Corte de origem manteve os fundamentos da decisão monocrática, in verbis (fl. 246, e-STJ):
+Afasta-se, de pronto, a alegação de nulidade por cerceamento ao direito à produção de prova, que não ocorreu.
+Com efeito, embora o autor tenha, em sua petição inicial, mencionado a necessidade produção de prova pericial, não recorreu contra a decisão interlocutória que a indeferiu.
+Assim, operou-se inarredável preclusão (art. 507 do Cód.de Proc. Civil: "E vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão").
+Com efeito, a alteração do entendimento firmado no acórdão recorrido (acerca da ocorrência da preclusão consumativa) demandaria o reexame dos fatos e das provas dos autos, atraindo, por conseguinte, a Súmula 7 do STJ, não se tratando de hipótese de revaloração probatória.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. PRECLUSÃO CONSUMATIVA. OCORRÊNCIA. QUESTÃO SUSCITADA, POR MEIO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE, E DECIDIDA, OPERANDO-SE INCLUSIVE A COISA JULGADA. ALTERAÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. INVIABILIDADE. SÚMULA 7/STJ. 2. MATÉRIA DE ORDEM PÚBLICA. APRECIAÇÃO EM DECISÃO TRANSITADA EM JULGADO. CARACTERIZADA A PRECLUSÃO CONSUMATIVA. 3. AGRAVO INTERNO DESPROVIDO. 1. A alteração do entendimento firmado no acórdão recorrido (acerca da ocorrência da preclusão consumativa, porquanto já suscitada e apreciada, na decisão de exceção de pré-executividade, já transitada em julgado, a questão concernente à exigibilidade do título, matéria que também está intimamente ligada à nulidade da cártula) demandaria o reexame dos fatos e das provas dos autos, atraindo, por conseguinte, a Súmula 7/STJ, não se tratando de hipótese de revaloração probatória.  ..  3. Agravo interno desprovido. (AgInt no AgInt no REsp 1592256/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/02/2017, DJe 24/02/2017)  grifou-se .
+AGRAVO INTERNO NO RECURSO ESPECIAL. 1. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. 2. PRESCRIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3. PRECLUSÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. 4. AGRAVO INTERNO DESPROVIDO.  ..  3. Tendo o Tribunal a quo, com apoio nos elementos de prova, consignado que a questão acerca da liquidez, certeza e exigibilidade do título judicial já foi arguida e decidida em ação anterior, é inviável revisar tal entendimento nesta instância extraordinária, em razão do óbice da Súmula n. 7 do STJ. 4. Agravo interno desprovido. (AgInt no REsp 1543397/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/09/2016, DJe 12/09/2016)  grifou-se .
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544, DO CPC/73) - AGRAVO DE INSTRUMENTO EM IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DEMANDADA.  ..  2. Para reverter a conclusão consignada no Tribunal de piso acerca de existir trânsito em julgado das teses afetas a ilegitimidade passiva e invalidade da penhora, não se prescindiria do revolvimento das provas e fatos constantes dos autos, providência esta inviável na via do recurso especial, de acordo com o teor obstativo da Súmula 7/STJ. O fato de se tratar de matéria de ordem pública não tem o condão de afastar a preclusão, por se tratar de questão já decidida.  ..  6. Agravo regimental desprovido. (AgRg no AREsp 459.216/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/08/2016, DJe 24/08/2016)  grifou-se .
+2. Do exposto, com fulcro no art. 932 do NCPC e Súmula 568 do STJ, nego provimento ao agravo.
+Publique-se. Intimem-se.
