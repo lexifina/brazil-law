@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 214):
+APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA - PLEITO DE SUSPENSÃO DA EXIGIBILIDADE E, AO FINAL CANCELAMENTO, DE MULTA APLICADA PELO PROCON - INEXISTÊNCIA DO CARÁTER PREVENTIVO ALEGADO, POSTO QUE NÃO SE ESTÁ IMPUGNANDO PROPRIAMENTE O PROCEDIMENTO DE INSCRIÇÃO EM DÍVIDA ATIVA, MAS A LEGALIDADE DA SANÇÃO ADMINISTRATIVA - PRAZO DECADENCIAL - TERMO INICIAL - CIÊNCIA INEQUÍVOCA ACERCA DA PENALIDADE APLICADA - DECADÊNCIA CONFIGURADA E RECONHECIDA EX OFFICIO - EXTINÇÃO DO FEITO QUE SE IMPÕE.
+"A decadência pode ser reconhecida de oficio em sede de recurso ordinário, pois se trata de matéria de ordem pública" (RMS n. 29439, Rei. Min. Jorge Mussi, j. em 19-8- 2009).
+"A impugnação, em mandado de segurança preventivo, de ato de autoridade relacionado á inscrição em dívida ativa de tributo não pago deve ter por fundamento questões atinentes ao procedimento legal da inscrição, decaindo o impetrante do direito de questionar a inconstitucionalidade e ilegalidade da, exação pela via mandamental, se ultrapassados cento e vinte dias da notificação para pagamento (art. 18 da Lei 1.533/51)" (REsp 847.398/RJ, Rel. Ministra Eliana Calmon, DJe 6.11.2008).
+Opostos embargos declaratórios, foram rejeitados.
+Irresignada, a parte recorrente aponta violação aos arts. 1º e 23 da Lei nº 12.016/09. Para tanto, sustenta que "é nítido o caráter preventivo deste Mandado de Segurança, na medida em que referido remédio também se presta a impedir e a obstar que a Autoridade Coatora pratique atos abusivos e ilegais", de forma que inexiste prazo decadencial a obstar a impetração.
+O Ministério Público Federal emitiu parecer (fl. 299/301), em que opinou pelo não provimento do recurso.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Ao solucionar a controvérsia, o Tribunal a quo asseverou (fls. 217/219):
+Por conta do não cumprimento do acordo entabulado, restou sancionada com a aplicação de multa administrativa, por violação ao art. 18, § 1º, II, do CDC, c/c o art. 13, XXIV, do Decreto Municipal n. 2.181/97, fixada em R$ 43.142,77 (quarenta e três mil, cento. e quarenta e dois reais e setenta e sete centavos), conforme decisão da lavra do Diretor do PROCON de Jaraguá do Sul.
+ ..
+In casu, a decadência foi arguida pela autoridade impetrada em suas informações (fls. 91/92), porém rechaçada pela sentença a quo sob o fundamento que o mandado de segurança seria preventivo, visando impedir a inscrição em dívida ativa do valor da multa aplicada pelo PROCON de Jaraguá do Sul.
+Contudo, tal raciocínio somente seria aplicável se a impetração tivesse por objeto "questões atinentes ao procedimento legal da inscrição".
+O writ, todavia, se volta contra a decisão que autuou a empresa impetrante, considerada por este ilegal, irrazoável e desproporcional, ou seja, com nítido caráter repressivo, e não preventivo.
+ ..
+Assim, considerando que a impetrante foi inequivocamente cientificada acerca da decisão que fixou a multa questionada em 18-11-2008 (fl. 104-verso), multa esta que tinha coma vencimento o dia 10-12-2008 (fl. 41), e que recebeu a correspondência com a decisão que considerou seu recurso intempestivo em 16-12-2008 (fl. 106-versa), tendo impetrado o mandado de segurança somente em 12-7-2009, mais de um semestre depois, resta manifesta a decadência.
+Como se vê, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
