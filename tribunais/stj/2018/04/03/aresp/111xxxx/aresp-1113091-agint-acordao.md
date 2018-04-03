@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO REPETITIVO. JUÍZO DE ADMISSIBILIDADE. INTERPOSIÇÃO DE NOVO APELO ESPECIAL CONTRA ACÓRDÃO PROFERIDO EM AGRAVO REGIMENTAL MANEJADO CONTRA DECISÃO LOCAL QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM BASE NO ARTIGO 543-C, § 7º, DO CÓDIGO DE PROCESSO CIVIL. NÃO CABIMENTO.
+1. Esta Corte firmou compreensão de que "o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual".
+2. Mostra-se inadmissível a interposição de novo Recurso Especial contra acórdão que, no julgamento de Agravo Interno, mantém a decisão que negou seguimento ao apelo anterior com base no artigo 543-C, § 7º, do CPC, por considerar que o julgado recorrido está de acordo com a orientação do Superior Tribunal de Justiça, firmada em recurso representativo da controvérsia.
+3. Na sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que desproveu o recurso.
+A parte agravante alega, em síntese, que contestou especificamente todos os pontos da decisão agravada. Como se vê nas razões do Agravo há menção específica do requerente sobre os pontos ditos não atacados.
+Pugna pela reconsideração da decisão agravada ou pelo provimento, pelo colegiado, do Agravo Interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 28.11.2017.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+O Tribunal de origem, ao decidir a vexata quaestio, consignou:
+(..)
+Ressalto que a decisão contra a qual se insurge o recorrente apenas dá concretude a comando do STJ. Isso porque, quando do juízo de admissibilidade, a então - única - Vice-Presidência deste TJPE admitiu o recurso especial e determinou a remessa dos autos ao STJ. Lá, todavia, houve determinação para que os presentes autos fossem devolvidos a este TJPE (fl. 84), com vista à aplicação da orientação consubstanciada no acórdão conferido ao recurso representativo de controvérsia REsp 1269570 (tema 138), o que foi observado por meio da decisão ora agravada. A qual, destarte, apenas reflete o exercício do chamado juízo de conformidade.
+Na espécie, cuido que inexiste, nas razões que subsidiam a insurgência recursal, qualquer argumento forte o suficiente para ensejar a pretendida reforma da decisão agravada.
+É que, em boa verdade, a matéria que informa a controvérsia emoldurada nos autos da causa está, toda ela, em rigorosa conformidade com a questão suscitada no REsp 1269570/MG. De cujo julgamento pelo STJ resultou a compreensão de que "para as ações ajuizadas a partir de 9.6.2005, aplica-se o arí. 3o, da Lei Complementar n. 118/2005, contando-se o prazo prescricional dos tributos sujeitos a lançamento por homologação em cinco anos a partir do pagamento antecipado de que trata o art. 150, §1º, do CTN.
+(..)
+Esta Corte firmou compreensão de que "o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual".
+In casu, mostra-se inadmissível a interposição de novo Recurso Especial contra acórdão que, no julgamento de Agravo Interno, mantém a decisão que negou seguimento ao apelo anterior com base no artigo 543-C, § 7º, do CPC, por considerar que o julgado recorrido está de acordo com a orientação do Superior Tribunal de Justiça, firmada em recurso representativo da controvérsia.
+Na sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO REPETITIVO. JUÍZO DE ADMISSIBILIDADE. INTERPOSIÇÃO DE NOVO APELO ESPECIAL CONTRA ACÓRDÃO PROFERIDO EM SEDE DE AGRAVO REGIMENTAL MANEJADO CONTRA DECISÃO LOCAL QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM BASE NO ARTIGO 543-C, § 7º, DO CÓDIGO DE PROCESSO CIVIL. NÃO CABIMENTO.
+1. Esta Corte firmou compreensão de que "o único recurso cabível para impugnação sobre possíveis equívocos na aplicação do art. 543-B ou 543-C é o Agravo Interno a ser julgado pela Corte de origem, não havendo previsão legal de cabimento de recurso ou de outro remédio processual" (AgRg no AREsp 451.572/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 18/3/2014, DJe 1º/4/2014).
+2. Mostra-se inadmissível a interposição de novo recurso especial contra acórdão que, no julgamento de agravo interno, mantém a decisão que negou seguimento ao apelo anterior com base no artigo 543-C, § 7º, do CPC, por considerar que o julgado recorrido está de acordo com a orientação do Superior Tribunal de Justiça, firmada em recurso representativo da controvérsia.
+3. Na sistemática introduzida pelo artigo 543-C do CPC, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, não sendo possível, daí em diante, a apresentação de qualquer outro recurso dirigido a este STJ, sob pena de tornar-se ineficaz o propósito racionalizador implantando pela Lei 11.672/2009 (Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro CESAR ASFOR ROCHA, Corte Especial, DJe de 12/5/2011).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Regimental que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
