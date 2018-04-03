@@ -1,0 +1,14 @@
+DECISÃO
+1. Trata-se de HABEAS CORPUS, com pedido de liminar, na qual se pretende, em síntese, a concessão de ordem, inclusive de imediato, para a revogação de decisão segregatória de [NOME].
+2. Este Superior Tribunal de Justiça firmou entendimento no sentido de não mais admitir o emprego do habeas corpus para contestar decisão contra a qual exista previsão de recurso específico no ordenamento jurídico, exatamente como ocorre no caso em exame.
+Dessa forma, depara-se com flagrante utilização inadequada da via eleita, circunstância que impede o seu conhecimento.
+Contudo, compulsando-se os autos, ao menos em um juízo perfunctório, verifica-se que as teses levantadas na inicial merecem melhor exame, a fim de, no momento processual devido, verificar-se a possibilidade de atuação de ofício deste Superior Tribunal.
+Não obstante, mostra-se inviável acolher a pretensão sumária, porquanto há fundamentação apta para a denegação da ordem mandamental e manutenção da prisão cautelar, a bem da ordem pública, diante da gravidade, ao que parece concreta, da conduta imputada a [NOME], consoante é possível inferir do seguinte trecho do aresto impugnado:
+"Conforme decisão que decretou a prisão preventiva do paciente, às f. 32-36 (autos nº 0001414-24.2018.8.12.0800 - Auto de Prisão em Flagrante: "(..) A imputação é de tráfico de drogas em quantidade deveras elevada (1.021 Kg de cannabis sativa), o que sugere maior reprovabilidade da conduta, organização prévia e provável intimidade com o comércio regular de entorpecentes, isto é, real periculosidade, objetivamente demonstrada (..)".
+Quanto ao deferimento e manutenção de qualquer modalidade de prisão de feição cautelar exige que se verifique a existência de prova do cometimento do crime e indícios suficientes de autoria e a necessidade da manutenção da segregação com fundamento no disposto no artigo 312 do Código de Processo Penal 1 , vale dizer, garantia da ordem pública ou econômica, conveniência da instrução criminal e aplicação da lei penal." (e-STJ, fl. 83)
+Tais argumentos são suficientes para rechaçar, ao menos nesse momento processual, o alegado constrangimento ilegal de que estaria sendo vítima o(a) paciente.
+De mais a mais, a motivação que dá suporte à pretensão liminar confunde-se com o mérito do writ, devendo o caso concreto ser analisado mais detalhadamente quando da apreciação e do seu julgamento definitivo pelo colegiado.
+3. Diante do exposto, indefere-se a liminar.
+Necessário sejam solicitadas informações ao Tribunal impetrado e ao Juízo singular, que deverá trazer aos autos notícias atualizadas acerca do andamento da ação penal lá deflagrada contra [NOME], encaminhando a esta Corte Superior cópia de eventual sentença proferida e, se houver, senha para acesso ao andamento do respectivo processo, noticiando ainda acerca da respectiva situação prisional.
+Com as informações, abra-se vista ao Ministério Público Federal para manifestação.
+Publique-se.
