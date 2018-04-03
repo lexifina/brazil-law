@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial, por inexistência de violação de lei federal e incidência das Súmulas n. 283 e 284 do STF (e-STJ fls. 1.406/1.410).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.352):
+CIVIL - EXTINÇÃO DO PROCESSO SEM APRECIA- ÇÃO DO MÉRITO - FALTA DE INTERESSE DE AGIR - DESCABIMENTO - MEDIDA ÚTIL E NECESSÁRIA AO FIM PRETENDIDO
+Demonstrada a utilidade da medida para conferir o resultado almejado e a necessidade da intervenção judicial em face de lesão ou ameaça de lesão à direito do requerente, há interesse de agir.
+IMEDIATO JULGAMENTO DO MÉRITO - POSSIBILIDADE - CPC/2015, ART. 1.013, § 3o, INC. I - ARBITRAMENTO DE HONORÁRIOS - RESCISÃO DE CONTRATO DE TRABALHO - PEDIDO GENÉRICO - AUSÊNCIA DE PROVA - CPC/73, ART. 333, I - ÔNUS COMPROBATÓRIO DO AUTOR - IMPROCEDÊNCIA
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.372/1.379).
+No especial (e-STJ fls. 1.382/1.389), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa ao art. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou ainda afronta aos arts. 321, 352 ,369 e 374, III, do CPC/1973, sustentando, em síntese, cerceamento de defesa pelo julgamento antecipado da lide e pela impossibilidade de produção de provas.
+No agravo (e-STJ fls. 1.414/1.420), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 1.427/1.433).
+É o relatório.
+Decido.
+Não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+Quanto ao cerceamento de defesa, assim se manifestou a Corte estadual (e-STJ fl. 1.378):
+Nesse sentido, restou expressamente consignado que eventual pedido subsidiário para produção de provas era descabido, pois não há como realizar perícia sem os dados básicos necessários para ser conferido ao expert as balizas imprescindíveis para a correta consecução do seu mister. Assim, a própria natureza genérica do pleito é impedimento para isso.
+Registre-se que a própria apelante reclamou a aplicação da teoria da causa madura nas razões recursais, de forma a demonstrar que não teria mais provas a produzir.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. O acórdão impugnado concluiu pela impossibilidade de se realizar perícia sem os dados básicos necessários, para que assim fossem conferidas ao expert as balizas imprescindíveis à correta consecução do seu mister, e que a própria recorrente reclamou a aplicação da teoria da causa madura. Tais pontos, aptos, por si sós, a sustentarem o juízo emitido, não foram rebatidos nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, o acórdão recorrido, com base no conjunto fático-probatório, concluiu pela inexistência de cerceamento de defesa e pela desnecessidade de produção da prova requerida. Não há como modificar tal entendimento no âmbito do recurso especial, incidindo, nesse caso, a Súmula n. 7 do STJ. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONTRATO DE COMPRA E VENDA DE VIDRO. JULGAMENTO ANTECIPADO DA LIDE. CONVENIÊNCIA DA PRODUÇÃO DE PROVAS. PRESCINDIBILIDADE. REEXAME. NÃO CABIMENTO. ENUNCIADO 7 DA SÚMULA DO STJ. INCIDÊNCIA.
+1. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, em que se inclui a conveniência da produção dos elementos de convicção, que se entendeu dispensáveis ante o julgamento antecipado da causa, nos termos da vedação imposta pelo enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 236.748/SC, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/12/2013, DJe 18/12/2013.)
+DIREITO PROCESSUAL CIVIL. COMPROVAÇÃO DO PREPARO NO ATO DA INTERPOSIÇÃO DO RECURSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DE PROVA. LITIGÂNCIA DE MÁ-FÉ. REEXAME DE FATOS E PROVAS. 1. Na linha dos precedentes desta Corte, a comprovação do preparo do recurso deve ocorrer no momento de sua interposição. 2.- A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. 3.- Não há que se falar em cerceamento de defesa pelo indeferimento de oitiva de uma testemunha, mesmo com julgamento de improcedência ao final do processo, quando essa prova testemunhal não é capaz de comprovar o que pretendido pela recorrente. 4.- Se as instâncias de origem afirmam que a parte deduziu teses contrapostas e que isso causou tumulto processual, não há como, em sede de recurso especial, afastar a litigância de má-fé identificada. Incide, no caso, o óbice da Súmula 7/STJ. 5.- Agravos Regimentais a que se nega provimento.
+(AgRg no REsp n. 1.095.581/RS, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/6/2011, DJe 1º/7/2011.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
