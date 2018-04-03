@@ -1,0 +1,94 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial, interposto por UNIMED CAMPO GRANDE MS - COOPERATIVA DE TRABALHO MÉDICO LTDA com fundamento na alínea "a" do permissivo constitucional em face de acórdão, proferido pelo Eg. Tribunal de Justiça do Estado de Mato Grosso do Sul:
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DE RESTITUIÇÃO C/C DANOS MORAIS - PRELIMINARMENTE - CERCEAMENTO DE DEFESA - AFASTADA - PLANO DE SAÚDE - NEGATIVA DE APROVAR INTERNAÇÃO - ATENDIMENTO DE EMERGÊNCIA - MENOR - DIAGNÓSTICO DE DENGUE - DANO MORAL - CONFIGURADO - MINORAÇÃO DO QUANTUM INDENIZATÓRIO - IMPOSSIBILIDADE - RECURSO CONHECIDO E NÃO PROVIDO.
+Compete ao juiz decidir antecipadamente a lide sempre que entender presentes as provas necessárias para seu convencimento, sem que tal ato caracterize cerceamento de defesa.
+Nos termos dos artigos 12 e 35-C da Lei nº 9.656/98, caracterizado o estado de emergência ou urgência, o prazo de carência para atendimento está estipulado em 24 (vinte e quatro) horas.
+A fixação do valor da indenização por dano moral deve atentar para o princípio da razoabilidade de forma a garantir sua finalidade, bem como não pode ensejar o enriquecimento ilícito.
+Recurso conhecido e não provido.(e-STJ, fl. 271)
+Em suas razões recursais, a agravante aponta violação aos arts. 12, V, VI e 35-G da Lei nº. 9.656/98; arts. 188, I, 421, 422, 927 e 944 do Código Civil, e art. 369 do Código de Processo Civil de 2015. Sustenta, em síntese, que a negativa de cobertura deu-se de forma lícita, com base na lei e no contrato, pois na época o contrato estava em período de carência. Aponta a ocorrência de cerceamento de defesa pelo julgamento antecipado da lide. Aduz, ainda, a ausência do dever de indenizar a título de dano moral, porquanto ausente conduta ilícita por parte da recorrente. Por fim, pugna pela redução do montante indenizatório, porquanto excessivo.
+É o relatório. Passo a decidir.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+A irresignação não prospera.
+De início, quanto a alegação de cerceamento de defesa e violação à norma de ordem pública, art. 369 do CPC/2015, cumpre referir o entendimento desta eg. Corte Superior de Justiça, é no sentido de que o julgamento da causa sem produção de prova pericial, não configura cerceamento de defesa, quando o Tribunal a quo entender que o feito encontra-se corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+A próposito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO-OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROVA PERICIAL. REEXAME DE PROVAS. SÚMULA 7/STJ. ATENDIMENTO DE URGÊNCIA. PRAZO DE CARÊNCIA. CLÁUSULA ABUSIVA. INADIMPLEMENTO CONTRATUAL. DANO MORAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Não configura o cerceamento de defesa o julgamento da causa sem a produção de prova pericial, quando o tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+3. Na linha dos precedentes desta Corte, o período de carência contratualmente estipulado pelos planos de saúde não prevalece, excepcionalmente, diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e razão de ser do negócio jurídico firmado.
+4. Nos casos de negativa de cobertura por parte do plano de saúde, em regra não se trata de mero inadimplemento contratual. A recusa indevida de tratamento médico - nos casos de urgência - agrava a situação psicológica e gera aflição, que ultrapassam os meros dissabores, caracterizando o dano moral indenizável. 5. Agravo regimental a que se nega provimento. (AgRg no AREsp 213.169/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/10/2012, DJe 11/10/2012).
+Além disso, da análise dos autos, observa-se que as instâncias ordinárias decidiram em conformidade com o entendimento desta egrégia Corte no sentido de que a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência.
+Nessa linha:
+AGRAVO REGIMENTAL NO AGRAVO (ARTIGO 544 DO CPC) - AÇÃO DE OBRIGAÇÃO DE FAZER (COBERTURA FINANCEIRA DE TRATAMENTO MÉDICO DE URGÊNCIA) CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA OPERADORA DE PLANO DE SAÚDE.
+1. Prazo de carência (180 dias) estipulado pelo plano de saúde para cobertura de doenças e lesões preexistentes ao contrato. 1.1. A jurisprudência do STJ é no sentido de que "lídima a cláusula de carência estabelecida em contrato voluntariamente aceito por aquele que ingressa em plano de saúde, merecendo temperamento, todavia, a sua aplicação quando se revela circunstância excepcional, constituída por necessidade de tratamento de urgência decorrente de doença grave que, se não combatida a tempo, tornará inócuo o fim maior do pacto celebrado, qual seja, o de assegurar eficiente amparo à saúde e à vida"
+(REsp 466.667/SP, Rel. Ministro Aldir Passarinho Júnior, Quarta Turma, julgado em 27.11.2007, DJ 17.12.2007).
+1.2. Cláusula limitativa do tempo de internação do paciente. Nos termos da jurisprudência cristalizada na Súmula 302/STJ, é abusivo o preceito contratual que restringe, no tempo, a internação hospitalar indispensável ao tratamento dodo usuário do plano de saúde. Correta
+aplicação da Súmula 83/STJ.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 627.782/SP, Relator o Ministro MARCO BUZZI, QUARTA TURMA, DJe de 11/03/2015)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO À LEI FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA
+211/STJ. PLANO DE SAÚDE. DENGUE TIPO HEMORRÁGICA. PESSOA IDOSA (79 ANOS). SITUAÇÃO DE EMERGÊNCIA. RECUSA DE COBERTURA. CLÁUSULA QUE PREVÊ PERÍODO DE CARÊNCIA. CARÁTER ABUSIVO. DANO MORAL CONFIGURADO. VERBA INDENIZATÓRIA FIXADA EM VALOR RAZOÁVEL. AGRAVO
+DESPROVIDO.
+1. Constata-se que o Tribunal de origem, apesar da oposição dos embargos declaratórios, não examinou a controvérsia sob o enfoque dado pelo agravante, razão pela qual, à falta do necessário prequestionamento, a questão não merece ser conhecida. Caberia ao agravante, de acordo com a iterativa jurisprudência desta Corte, alegar,
+nas razões do apelo especial, violação ao artigo 535 do Código de Processo Civil, providência, todavia, da qual não se incumbiu. Correta, portanto, a aplicação da Súmula 211 do Superior Tribunal de Justiça.
+2. A jurisprudência do eg. Superior Tribunal de Justiça firmou-se no sentido de considerar que a existência de cláusula que prevê período de carência para uso do plano de saúde afigura-se legítima, exceto se servir para excluir tratamentos de natureza emergencial.
+Precedentes.
+3. Na hipótese, a col. Corte de origem, com base em análise do acervo fático-probatório dos autos, concluiu que o tratamento requerido era de urgência. Rever tal entendimento demandaria o vedado exame das provas carreadas aos autos, a teor da Súmula 7/STJ.
+4. Nos termos da jurisprudência consolidada neste Pretório, é passível de condenação por danos morais a operadora de planos de saúde que se
+recusa injustificadamente a efetuar a cobertura do tratamento do segurado.
+5. Na fixação de indenização por danos morais, são levadas em consideração as peculiaridades da causa. Nessas circunstâncias, considerando a gravidade do ato, o potencial econômico do ofensor, o caráter pedagógico da indenização e os parâmetros adotados em casos semelhantes, não se mostra desarrazoada ou desproporcional a fixação do quantum indenizatório em R$ 10.900,00 (dez mil e novecentos reais).
+6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 520.750/SP, Rel. Min. RAUL ARAÚJO, QUARTA
+TURMA, DJe de 23/2/2015)
+"RECURSO ESPECIAL. PLANO DE SAÚDE. PRAZO DE CARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. [NOME]. CARÊNCIA CONTRATUAL. ABUSIVIDADE DA CLÁUSULA RESTRITIVA. DANO MORAL. OCORRÊNCIA. PRECEDENTES.
+1. A cláusula que estabelece o prazo de carência deve ser afastada em situações de urgência, como o tratamento de doença grave, pois o valor da vida humana se sobrepõe a qualquer outro interesse. Precedentes específicos da Terceira e da Quarta Turma do STJ.
+2. A jurisprudência desta Corte "vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura
+de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo
+psicológico e com a saúde debilitada". (REsp 918.392/RN, Relatora a Ministra NANCY ANDRIGHI)
+(..)
+4. RECURSO ESPECIAL PROVIDO."
+(REsp 1.243.632/RS, Relator o Ministro PAULO DE TARSO
+SANSEVERINO, DJe de 17/9/2012)
+"CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PLANO DE SAÚDE. NEGATlVA DE ATENDIMENTO DE URGÊNCIA. CONFIGURADO O DANO MORAL. REVISÃO DO VALOR DA CONDENAÇÃO. IMPOSSIBILIDADE. QUANTUM RAZOÁVEL. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTES.
+1. As instâncias ordinárias reconheceram que houve recusa injustificada de cobertura de seguro para o atendimento médico de emergência e internação em unidade de tratamento intensiva (parto de urgência e internação dos recém-nascidos).
+2. O Superior Tribunal de Justiça orienta que é abusiva a cláusula contratual que estabelece o prazo de carência para situações de emergência, em que a vida do segurado ou do nascituro encontram-se em risco, pois o valor da vida humana se sobrepõe a qualquer outro interesse.
+3. Mostra-se razoável a fixação em R$ 10.000,00 (dez mil reais) para reparação do dano moral pelo ato ilícito reconhecido, consideradas as circunstâncias do caso e as condições econômicas das partes.
+4. Este sodalício Superior altera o valor indenizatório por dano moral apenas nos casos em que o valor arbitrado pelo acórdão recorrido se mostrar irrisório ou exorbitante, situação que não se faz presente no caso em tela.
+5. A prestadora de serviço não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado. Incidência da Súmula 83, do STJ.
+6. Agravo regimental não provido."
+(AgRg no AREsp 570.044/PE, Rel. Ministro MOURA RIBEIRO,
+TERCEIRA TURMA, julgado em 02/10/2014, DJe 20/10/2014)
+No caso, restou consignado pelas instâncias ordinárias que o procedimento pleiteado ocorreu em situação de emergência devidamente comprovada, conforme se insere do seguinte trecho a seguir transcrito:
+O quadro fático apresentado pelos recorridos, no bojo dos presentes autos, confirma que o atendimento prestado à menor [NOME] no Hospital da Criança em Campo Grande/MS caracteriza-se como de emergência.
+Assim, em 09 de abril de 2013 a menor registrou febre alta, quadro que apresentou evolução no dia seguinte, para falta de apetite, vômitos e irritabilidade.
+Acompanhada de profissional médico pelos dias seguintes, realizando também os exames requeridos e devidamente medicada, constatou-se, através de hemograma realizado em 15 de abril, que a contagem de plaquetas indicou 31.000/mm  (fl. 63), motivo pelo qual a médica pediatra indicou a internação da menor em Campo Grande/MS, pois Sidrolândia não possui a estrutura necessária para eventual transfusão de plaquetas.
+A internação ocorreu na noite do dia 15 de abril, sendo a família comunicada no dia anterior de que houve a negativa de cobertura por parte da apelante, pois o período de carência para internações somente estaria findo em 05 de maio, ou seja, 19 dias após.
+Frise-se que, nos termos do exame "sorologia para dengue", de fl. 66, percebe-se que restou constatado IgM reagente, o que significa "indicativo de uma infecção de dengue primária".
+Tal diagnóstico, conjuntamente com a baixa contagem de plaquetas e a indicação da médica responsável que acompanha a menor no Município de Sidrolância, indicam com clareza a ocorrência de emergência, nos termos do artigo 35-C da Lei n 9.656/98, in verbis:
+Art. 35-C. É obrigatória a cobertura do atendimento nos casos:
+I - de emergência, como tal definidos os que implicarem risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizado em declaração de médico assistente.
+Assim, evidenciada a ocorrência de emergência, no que tange ao diagnóstico de dengue e a baixa contagem de plaquetas, que punham em risco a vida da menor Ana Clara, não merece reforma a decisão singular, no que tange ao pagamento dos danos materiais. (e-STJ, fls. 273/275)
+Assim, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, incide o óbice da Súmula 83/STJ.
+Em relação aos danos morais, o Tribunal de origem manteve a sentença no sentido de reconhecer a configuração do dano moral frente à recusa injustificada da recorrente em atender ao pleito de internação de criança com menos de um ano diagnosticada com dengue, doença a qual pode levar à óbito.
+Quanto ao tema, é pacífico o entendimento desta Corte de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa injustificada de cobertura por parte da operadora do plano de saúde para tratamento da segurada, como ocorrido no presente caso, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - PLANO DE SAÚDE - RECUSA IMOTIVADA DE TRATAMENTO MÉDICO - DECISÃO MONOCRÁTICA CONHECENDO DO RECLAMO PARA DAR PARCIAL PROVIMENTO AO APELO ESPECIAL. INSURGÊNCIA DA ADMINISTRADORA DO PLANO DE SAÚDE.
+1. A jurisprudência desta Corte é no sentido de que a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 7.386/RJ, Relator o Ministro MARCO BUZZI, DJe de 11/9/2012)
+AGRAVO REGIMENTAL. PLANO DE SAÚDE. PROCEDIMENTO CIRÚRGICO. RECUSA DA COBERTURA. INDENIZAÇÃO POR DANO MORAL. CABIMENTO.
+I - Em determinadas situações, a recusa à cobertura médica pode ensejar reparação a título de dano moral, por revelar comportamento abusivo por parte da operadora do plano de saúde que extrapola o simples descumprimento de cláusula contratual ou a esfera do mero aborrecimento, agravando a situação de aflição psicológica e de angústia no espírito do segurado, já combalido pela própria doença.Precedentes.
+II - Em casos que tais, o comportamento abusivo por parte da operadora do plano de saúde se caracteriza pela injusta recusa, não sendo determinante se esta ocorreu antes ou depois da realização da cirurgia, embora tal fato possa ser considerado na análise das circunstâncias objetivas e subjetivas que determinam a fixação do quantum reparatório.
+III - Agravo Regimental improvido.
+(AgRg no Ag 884.832/RJ, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 9/11/2010)
+CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. NEGATIVA INJUSTA DE COBERTURA SECURITÁRIA MÉDICA.
+CABIMENTO.
+1. Afigura-se a ocorrência de dano moral na hipótese de a parte, já internada e prestes a ser operada - naturalmente abalada pela notícia de que estava acometida de câncer -, ser surpreendida pela notícia de que a prótese a ser utilizada na cirurgia não seria custeada pelo plano de saúde no qual depositava confiança há quase 20 anos, sendo obrigada a emitir cheque desprovido de fundos para garantir a realização da intervenção médica. A toda a carga emocional que antecede uma operação somou-se a angústia decorrente não apenas da incerteza quanto à própria realização da cirurgia mas também acerca dos seus desdobramentos, em especial a alta hospitalar, sua recuperação e a continuidade do tratamento, tudo em virtude de uma negativa de cobertura que, ao final, se demonstrou injustificada, ilegal e abusiva.
+2. Conquanto geralmente nos contratos o mero inadimplemento não seja causa para ocorrência de danos morais, a jurisprudência do STJ vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura securitária médica, na medida em que a conduta agrava a situação de aflição psicológica e de angústia no espírito do segurado, o qual, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada.
+3. Recurso especial provido." (REsp 1.190.880/RS, Terceira Turma,
+Rel. Min. NANCY ANDRIGHI, DJe de 20/6/2011)
+No que que se refere à redução do valor arbitrado a título de dano moral, o Superior Tribunal de Justiça firmou orientação no sentido de que somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+A respeito do tema, salientou o eminente Ministro ALDIR PASSARINHO JUNIOR: "A intromissão do Superior Tribunal de Justiça na revisão do dano moral somente deve ocorrer em casos em que a razoabilidade for abandonada, denotando um valor indenizatório abusivo, a ponto de implicar enriquecimento indevido, ou irrisório, a ponto de tornar inócua a compensação pela ofensa efetivamente causada" (REsp 879.460/AC, Quarta Turma, DJe de 26/4/2010).
+Com efeito, somente é possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame. Isso, porque o valor da indenização por danos morais, arbitrado em R$ 20.000,00 (vinte mil reais), sendo R$ 10.000,00 (dez mil reais) para cada um dos recorridos não é exorbitante nem desproporcional aos danos sofridos pela parte agravada.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
