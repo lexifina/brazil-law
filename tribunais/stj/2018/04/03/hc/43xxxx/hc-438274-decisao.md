@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEANDRO ANTONIO DA CUNHA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Consta dos autos que o paciente foi condenado, como incurso no art. 33, caput, c/c o art. 40, IV e VI, ambos da Lei n. 11.343/06, às penas de 7 anos e 6 meses de reclusão, em regime inicial fechado, e 750 dias-multa.
+Interposta apelação defensiva, foi negado provimento ao recurso.
+Neste writ, alega a impetrante que o paciente vem sofrendo constrangimento ilegal, pois não poderia ter sido aumentada a reprimenda acima do mínimo legal, unicamente pela presença de duas causas de aumento, mormente sem qualquer fundamentação (fl. 4).
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+DECIDO.
+Acerca do tema aventado na presente impetração, assim manifestaram-se as instâncias ordinárias:
+LEANDRO ANTONIO DA CUNHA:
+1ª FASE - A culpabilidade do acusado não excedeu a normal do tipo. A fac do acusado não apresenta anotação. Atento a tais elementos, bem como aos demais do artigo 59 do CP, aplico-lhe as penas bases de:
+05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, à razão unitária mínima, no que tange ao delito do artigo 33 da Lei 11343/06;
+2a FASE - Não há circunstâncias atenuantes e/ou agravantes a serem consideradas.
+3a FASE - Não há causas de diminuição a serem consideradas. Ante a norma do art. 40, incisos IV e IV, da Lei nº 11.343/2006, aumento a pena anterior em 1/2 (metade). Por essa razão, aplico-lhe as penas definitivas de:
+07 (sete) anos e 06 (seis) meses de reclusão e 750 (setecentos e cinqüenta) dias-multa, à razão unitária mínima, no que tange ao delito do artigo 33 da Lei 11343/06; (sentença - fls. 27/28)
+A pena base de cada um dos acusados foi estabelecida no patamar mínimo de 05 anos de reclusão e multa de 500 dias, acrescida apenas na terceira fase da dosimetria ante a incidência do artigo 40, IV e VI da Lei 11343/06, quando foi aumentada na fração correspondente a metade, ficando assim acomodada em 07 anos e 06 meses de reclusão e multa de 750 dias.
+O quantum de aumento se mostrou adequado, mormente em razão do número de armas apreendidas, sem desconsiderar as circunstâncias da prisão, tendo ocorrido troca de tiros entre os traficantes e os policiais. (acórdão - fls. 78/79)
+É bem verdade que Segundo a jurisprudência desta Corte Superior, a aplicação das majorantes previstas no art. 40 da Lei de Drogas exige motivação concreta, quando estabelecida acima da fração mínima, não sendo suficiente a mera indicação do número de causas de aumento, em analogia ao disposto na Súmula 443 do STJ, que dispõe: "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes". (HC 435.533/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/02/2018, DJe 05/03/2018).
+Com efeito, o acórdão apresentou fundamentação concreta para a exasperação da fração de aumento quando mencionou (i) ter ocorrido troca de tiros entre os traficantes e os policiais e que (ii) o delito foi praticado com o emprego de mais de uma arma de fogo, o que torna a ação ainda mais intimidante e minimiza as possibilidades de reação.
+Não se verifica, portanto, qualquer ilegalidade flagrante, porquanto o estabelecimento de fração acima da mínima, na terceira fase da dosimetria, não se deu, na espécie, tão só pela incidência de duas majorantes - emprego de arma de fogo e envolvimento de adolescente -, com base no critério matemático.
+Anoto, por fim, que, ao contrário do que aduz a impetrante, admite esta Corte que o Tribunal a quo acresça novos fundamentos à sentença condenatória, ainda que em recurso exclusivo da defesa, desde que se mantenha adstrito aos limites da acusação e contanto que não eleve a sanção aplicada. Neste sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. NATUREZA E QUANTIDADE DE DROGA UTILIZADA PARA FIXAR O PATAMAR DE REDUÇÃO. POSSIBILIDADE. INOVAÇÃO NOS FUNDAMENTOS PELA CORTE DE ORIGEM EM RECURSO EXCLUSIVO DA DEFESA. POSSIBILIDADE. PROFUNDIDADE DO EFEITO DEVOLUTIVO. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. PREENCHIMENTO DOS REQUISITOS LEGAIS. EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITO. ART. 147 DA LEI DE EXECUÇÃO PENAL. IMPOSSIBILIDADE. MANIFESTA ILEGALIDADE VERIFICADA EM PARTE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+2. Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+3. O princípio do non reformatio in pejus não obsta que o Tribunal de origem, exercendo sua soberania para dizer o direito, encontre nova fundamentação para manter o índice redução do art. 33, § 4º, da Lei n. 11.343/2006 em metade, desde que respeitada a imputação deduzida pelo órgão de acusação e o limite da pena imposta no Juízo de origem.
+(..)
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para estabelecer o regime aberto e substituir a pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo da Execução. Defiro, ainda, a suspensão, até o trânsito em julgado da condenação, da execução provisória das penas restritivas de direitos impostas na Ação Penal n. 0000376-64.2016.8.26.0603.
+(HC 417.483/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/11/2017, DJe 01/12/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FRAÇÃO DE APLICAÇÃO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECONHECIMENTO PELA CORTE LOCAL QUE NÃO SE TRATA DE TRÁFICO EVENTUAL. DESNECESSIDADE DE REVALORAÇÃO FÁTICO-PROBATÓRIA. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO EXCLUSIVO DA DEFESA. ALEGAÇÃO DE REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AUSÊNCIA DE AGRAVAMENTO DA PENA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É desnecessária a incursão no acervo fático-probatório dos autos para o afastamento da fração máxima da redutora do tráfico privilegiado quando a própria Corte local reconhece não se tratar de traficante eventual.
+2. No caso dos autos, o Tribunal de origem concluiu não se tratar de transportador eventual de drogas em razão da confrontação entre o histórico de viagens do recorrente e sua alegada situação econômica desfavorável. No entanto, reformou a sentença para fixar a redutora do tráfico privilegiado no patamar de 2/3 (dois terços) por entender inviável o acréscimo de fundamentação para justificar a manutenção da fração mínima aplicada pelo juízo sentenciante.
+3. A jurisprudência desta Corte firmou compreensão de que, ainda que em sede de recurso exclusivo da defesa, é possível a revisão dos fundamentos apresentados na dosimetria da pena, desde que não modificada a quantidade de sanção imposta, sem que tal procedimento caracterize indevida reformatio in pejus.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1111017/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/10/2017, DJe 31/10/2017)
+Ante o exposto, denego a ordem.
+Publique-se.
+Intimem-se.
