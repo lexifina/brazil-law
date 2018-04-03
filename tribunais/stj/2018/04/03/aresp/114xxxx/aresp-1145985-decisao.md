@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC) interposto por DAF - FOMENTO MERCANTIL LTDA. - ME contra decisão que negou seguimento ao recurso especial, a seu turno, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (fls. 185-194, e-STJ), assim ementado:
+APELAÇÃO CÍVEL. FACTORING. EXECUÇÃO DE CONTRATO DE CONFISSÃO DE DÍVIDA. EMBARGOS À EXECUÇÃO. JUROS.
+No contrato de faturização, é ilegal e abusivo cobrar juros remuneratórios ou moratórios acima da taxa legal de um por cento ao mês.
+As sociedades empresárias de fomento mercantil ou factoring deixam de fazer parte do Sistema Financeiro Nacional, porque deixam de tipificar instituição financeira e só as instituições financeiras, integrantes do Sistema Financeiro Nacional, podem cobrar juros acima da taxa legal, submetidas à regulação própria e a fiscalização do Banco Central.
+Embargos de declaração foram opostos e rejeitados (fls. 208-213, e-STJ).
+Em suas razões de recurso especial (fls. 217-248, e-STJ), a recorrente aponta ofensa ao art. 1.022, I e II, do CPC/2015, porque o Tribunal a quo não se manifestou expressamente sobre os arts. 169, 170, 184 e 884 do CC, e arts. 20, § 4º, e 585, II, do CPC/73. Aduz que a confissão de dívida firmada entre as partes e ratificada por duas testemunhas, torna-se título executivo extrajudicial, não se fazendo necessária a comprovação da origem do débito. Defende que ao anular o negócio que deu origem ao contrato de confissão de dívida, o julgado deveria, ao menos, reconhecer o mútuo, sob pena de enriquecimento ilícito dos recorridos. Taxa de exacerbado o valor dos honorário advocatícios.
+Contrarrazões às fls. 265-270 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem negou seguimento ao recurso especial com fundamento na ausência de omissão e nas Súmulas 5/STJ e 7/STJ, o que levou à interposição do presente agravo (fls. 280-292, e-STJ), que busca destrancar o processamento daquela insurgência.
+Contraminuta às fls. 296-300 (e-STJ).
+É o relatório.
+O presente recurso não merece prosperar.
+1. Narram os autos que a recorrente ajuizou ação de execução de título extrajudicial contra os recorridos, com fundamento um contrato de confissão de dívida, no valor de R$139.000,00 (cento e trinta e nove mil reais), pedindo incidência de juros de mora e correção monetária, mais custas e honorários.
+Os executados embargaram a execução alegando que a dívida originou-se de um empréstimo no valor de R$ 15.000,00 (quinze mil reais), garantido pela emissão de cheques a cada repactuação, com juros de 10% (dez por cento) ao mês, capitalizado mensalmente. Aduziram que houve vários pagamentos, que ultrapassam o valor do mútuo, buscando a anulação do negócio.
+O juiz de primeiro grau julgou procedente o feito para declarar a nulidade do contrato de confissão de dívida objeto da execução, pela ilicitude do negócio subjacente, declarando, em consequência, a extinção do processo executivo, condenando a recorrente ao pagamento de custas e honorários, fixados em 10% (dez por cento) do valor da causa.
+Na acórdão recorrido, o Tribunal de origem, com base nas provas carreadas aos autos, negou provimento ao apelo da recorrente e manteve a sentença, consoante se observa nos seguintes trechos do acórdão em testilha (fls. 192-193, e-STJ):
+No contrato de faturização, é ilegal e abusivo cobrar juros remuneratórios ou moratórios acima da taxa legal de 1% ao mês.
+As sociedades empresárias de fomento mercantil ou factoring deixam de fazer parte do Sistema Financeiro Nacional, porque deixam de tipificar instituição financeira e só as instituições financeiras, integrantes do Sistema Financeiro Nacional, podem cobrar juros acima da taxa legal, submetidas à regulação própria e a fiscalização do Banco Central.
+Há verossimilhança na alegação de inexistência de causa lícita a ensejar a execução do contrato de confissão de dívida executado, porque emitido em garantia do contrato de factoring, cujas obrigações continham taxa de deságio.
+Arguindo os embargantes, de forma verossímil, que o contrato de confissão de dívida foi cobrado mediante taxas usurárias de juros, de 4,20% a 10%, e possibilitada a ampla discussão da contratualidade originária, diante da não circulação dos títulos de crédito, cabia ao embargado comprovar a origem do crédito expresso no contrato de confissão de dívida, por meio de recibos de entrega de pecúnia, extratos bancários (transferência, depósito, etc.) ou outros documentos à disposição da sua contabilidade.
+A parte embargada limita-se a referir a legalidade do negócio jurídico e a possibilidade de conversão da relação de factoring pelo contrato de mútuo, porém não demonstra o valor correto e originário que, expurgado o excesso, justifique a exequibilidade do título.
+Não produzida essa prova, sem se desincumbir de seu ônus probatório, conclui-se a prática de usura, mediante empréstimo a juros abusivos.
+Disso se conclui, também, a falta de exigibilidade e liquidez do contrato de confissão de dívida que instrui a ação executiva, importando na procedência dos embargos à execução e extinção da ação de execução ajuizada.
+2. A insurgente aponta violação dos arts. 1.022, I e II, do CPC/2015, ao argumento de que o decisum fora omisso e contraditório, porquanto não apreciou elementos probatórios indicados pela parte como essenciais ao deslinde da controvérsia.
+Todavia, não se vislumbra a ocorrência dos referidos vícios, pois o órgão julgador dirimiu a controvérsia e decidiu as questões postas à apreciação de forma ampla e fundamentada, sem omissão ou contradição.
+Na verdade, ao alegar negativa de prestação jurisdicional, a recorrente busca, por via transversa, modificar o entendimento do acórdão proferido pela Corte a quo, o que não se admite.
+Não é demais lembrar a orientação desta Corte, no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+3. De outro lado, rever a conclusão da Corte local, para reconhecer a licitude do negócio jurídico e a validade título executivo extrajudicial, demanda a interpretação de cláusulas contratuais e o reexame do acervo fático probatório, o que encontra óbice nas Súmulas 5/STJ e 7/STJ.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. SÚMULA 284/STF. CASO FORTUITO E FORÇA MAIOR. SÚMULA 7/STJ. CLÁUSULA PENAL. ABUSIVIDADE. SÚMULAS 5 E 7 DO STJ. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOVAÇÃO RECURSAL.
+ ..
+3. Aplicam-se as Súmulas 5 e 7/STJ na hipótese em que a tese versada no recurso reclama a análise de cláusulas contratuais e de elementos fático-probatórios colhidos ao longo da demanda.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no AREsp 977.709/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/05/2017, DJe 02/06/2017).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. POSSIBILIDADE. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ARTÍSTICOS. RESCISÃO. CLÁUSULA PENAL. ART. 413 DO CÓDIGO CIVIL. REDUÇÃO PELO CUMPRIMENTO PARCIAL. POSSIBILIDADE. CRITÉRIO DE EQUIDADE. REEXAME DO PERCENTUAL. SÚMULAS 5 E 7 DO STJ.
+ ..
+3. Rever o percentual da cláusula penal que equitativamente foi reduzido nas instâncias ordinárias demanda o reexame do conjunto fático-probatório dos autos, o que é inviabilizado na instância superior (Súmulas n. 5 e 7 do STJ).
+4. Agravo regimental desprovido. (AgRg no AREsp 592.075/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 05/03/2015, DJe 17/03/2015).
+4. Por fim, conforme pacífica jurisprudência do Superior Tribunal de Justiça, só é permitido modificar valores fixados a título de honorários advocatícios se estes se mostrarem irrisórios ou exorbitantes, exigindo-se, ainda, que as instâncias ordinárias não tenham emitido concreto juízo de valor sobre o tema.
+No presente caso, o Tribunal de origem analisou os elementos fáticos para concluir que a fixação da verba no patamar de 10% (dez por cento) sobre o valor da condenação, com base no art. 20, § 4º, do CPC/73.
+Dessa forma, rever a conclusão do Tribunal de origem quanto a fixação do valor de honorários advocatícios não é possível, in casu, porquanto implica incursão ao suporte fático-probatório carreado aos autos, o que é vedado pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 4º, DO CPC/73. VALOR. REEXAME. SÚMULA N. 7/STJ. LITIGÂNCIA DE MÁ-FÉ. SIMPLES UTILIZAÇÃO DE RECURSO. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. ART. 85, § 11, DO CPC. MESMO GRAU DE JURISDIÇÃO. NÃO APLICAÇÃO. AGRAVO NÃO PROVIDO.
+1. A revisão dos honorários advocatícios fixados por equidade, nos termos do artigo 20, § 4º, do revogado Código de Processo Civil, não é admissível na estreita via do recurso especial, porquanto decididos com base nos elementos informativos do processo, cujo reexame encontra as disposições do verbete n. 7 da Súmula desta Corte.
+2. A simples utilização de instrumento processual previsto no ordenamento jurídico pátrio não importa, por si só, em litigância de má-fé.
+3. Os honorários devidos na fase de recurso especial compreendem a remuneração de todo o trabalho advocatício nesta etapa, inclusive eventual agravo interno que se faça necessário para que o recurso chegue ao conhecimento do colegiado naturalmente competente, a Turma. Não cabe, portanto, majorar os honorários, com base no art. 85, § 11, do CPC/2015, em razão da interposição de agravo interno. Atitudes eventualmente procrastinatórias são passíveis de sanção processual própria, inconfundível com o escopo dos honorários de sucumbência (CPC/2015, art. 80, §12).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 788.432/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/10/2016, DJe 11/10/2016).
+5. Ante o exposto, com base no art. 932 do NCPC e na Súmula 568/STJ, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 1% (um por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se.
+Intimem-se.
