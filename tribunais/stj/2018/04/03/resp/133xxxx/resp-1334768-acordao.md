@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. RENÚNCIA À APOSENTADORIA. DECISÃO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. ADEQUAÇÃO.
+1. Nos termos dos arts. 1.030, II, e 1.040, II, do CPC/2015, deve o órgão julgador reapreciar o recurso cuja conclusão divergiu da orientação do Supremo Tribunal Federal em repercussão geral.
+2. Hipótese em que a Corte Constitucional, superando o entendimento firmado no REsp repetitivo n. 1.334.448/SC, considerou inviável o recálculo do valor da aposentadoria sem previsão legal que permita alterar os proventos mediante inclusão de novas contribuições decorrentes da permanência na atividade ou da volta do aposentado ao mercado de trabalho.
+3. Agravo conhecido para dar provimento ao recurso especial da autarquia - em juízo de retratação previsto nos arts. 1.030, II, e 1.040, II, do CPC/2015 -, a fim de julgar improcedente o pedido de renúncia à aposentadoria. Recurso especial da parte autora desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso especial da parte autora e conhecer do agravo da autarquia para dar provimento ao seu recurso especial, em juízo de retratação dos arts. 1.030, II, e 1.040, II, do CPC/2015, a fim de julgar improcedente o pedido de renúncia à aposentadoria, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de recurso especial interposto pela parte autora e de agravo em recurso especial formulado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, nos quais discutem a possibilidade de renúncia à aposentadoria recebida pela segurada, sem necessidade de devolução dos valores por ela recebidos como condição para a concessão de nova aposentadoria.
+O apelo nobre do INSS foi desprovido, e provido o especial da parte autora, pela Presidência deste Tribunal nos termos do REsp n. 1.334.488/SC, processado sob o rito do art. 543-C do CPC/1973, no qual a Primeira Seção havia firmado o entendimento de que "os benefícios previdenciários são direitos patrimoniais disponíveis e, portanto, suscetíveis de desistência pelos seus titulares, prescindindo-se da devolução dos valores recebidos da aposentadoria a que o segurado deseja preterir para a concessão de novo e posterior jubilamento" (Relator o Ministro Herman Benjamin, DJe de 14.05.2013). A decisão foi mantida pelo Colegiado.
+Após a interposição de recurso extraordinário, a Vice-Presidência deste Tribunal encaminhou os presentes autos a esta Turma para o juízo de conformação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+A questão em debate, de fato, está superada diante da conclusão do Supremo Tribunal Federal no RE n. 661.256/SC, com repercussão geral.
+Na sessão do dia 26/10/2016, o Plenário da Corte Constitucional considerou inviável o recálculo do valor da aposentadoria sem previsão legal que permita alterar os proventos mediante inclusão de novas contribuições decorrentes da permanência na atividade ou da volta do aposentado ao mercado de trabalho.
+A propósito, a tese de repercussão geral relativa à citada decisão foi assim redigida:
+No âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do artigo 18, parágrafo 2º, da Lei 8.213/1991. (Extraído do site do Supremo Tribunal Federal: http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp idConteudo=328199)
+A partir de tal compreensão, não há como manter o superado entendimento firmado pelo STJ no REsp repetitivo n. 1.334.448/SC, que reconheceu o direito de o segurado renunciar à aposentadoria sem devolução dos valores pagos. Mostra-se imperioso o provimento da irresignação da autarquia para efeito do juízo de conformação previsto nos arts. 1.030, II, e 1.040, II, do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RENÚNCIA AO BENEFÍCIO DE APOSENTADORIA. NOVO JUBILAMENTO. IMPOSSIBILIDADE. ADEQUAÇÃO AO ENTENDIMENTO DO STF ASSENTADO NO RE 661.256/SC.
+1. Cabível a oposição de Embargos de Declaração quando houver, na sentença ou no acórdão, obscuridade, contradição ou omissão, de acordo com o art. 535, I e II, do Código de Processo Civil.
+2. . Excepcionalmente, o Superior Tribunal de Justiça admite a atribuição de efeitos infringentes aos embargos de declaração, a fim de que o acórdão embargado seja adequado ao decidido em sede de recursos extraordinário ou especial submetidos, respectivamente, aos regimes dos arts. 543-B e 543-C do CPC, situação que se amolda ao caso dos autos.
+3. No julgamento do RE n. 661.256/SC, o Supremo Tribunal Federal fixou tese nos seguintes termos: "No âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei nº 8.213/1991".
+4. Embargos de Declaração acolhidos, com efeitos infringentes para negar provimento ao recurso especial de [NOME].
+(EDcl no AgInt no AREsp 522.543/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 29/03/2017)
+Ante o exposto, em juízo de retratação de que tratam os arts. 1.030, II, e 1.040, II, do CPC/2015, CONHEÇO do agravo, para DAR PROVIMENTO ao recurso especial da autarquia, a fim de julgar improcedente o pedido de renúncia à aposentadoria, e NEGO PROVIMENTO ao recurso especial da parte autora.
+É como voto.
