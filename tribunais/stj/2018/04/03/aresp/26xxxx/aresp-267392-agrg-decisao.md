@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo regimental interposto por [NOME], em face da decisão monocrática proferida às fls. 636 (e-STJ), de lavra deste signatário, que determinou a restituição dos autos à origem.
+A agravante alega, em suma, que a matéria do recurso especial interposto não tangencia a questão da inconstitucionalidade do Decreto-Lei n.º 70/66, restringindo-se a existência de omissão no julgamento dos embargos de declaração opostos perante o Tribunal de Justiça do Estado de São Paulo. Requer, assim, a reconsideração do decisum singular ora agravado.
+Intimada para apresentar impugnação, a casa bancária deixou o prazo transcorrer in albis (certidão de fl. 643, e-STJ).
+É o relatório.
+Decido.
+Em razão da correção das ponderações lançadas às fls. 639/640 (e-STJ), reconsidero a decisão de fls. 636 (e-STJ), tornando-a nula e, por conseguinte, passo ao exame da controvérsia.
+No mais, não lhe assiste razão.
+1. Com efeito, inexiste violação ao art. 535 do CPC/73 porquanto a questão relativa aos honorários devidos restou minudentemente examinada pela Corte Estadual nos seguintes termos (fls. 585/586, e-STJ):
+A própria apelante anexou os autos o recibo de pagamento da verba honorária (objeto dessa execução), conforme se constata da leitura da petição de fl. 414 e do documento de fl. 415, ambos do 2º volume.
+Assim, outro caminho não restava ao MM. Juízo a quo senão o de declarar extinta a execução da sucumbência com fundamento no artigo 794, inciso I, do Código de Processo Civil (fl. 424, 2º vol.).
+De resto, a ora apelante pretende reinstaurar a instância ao pretender discutir, tanto nas razões do agravo retido (fls. 408/410, 2º vol.) quanto nas da apelação (fis. 437/442, 3º vol.), matéria já discutida e decidida em todas as instâncias no que tange ao contido na referida ação ordinária subjacente.
+E é tão canhestro o posicionamento da recorrente que chega LU  ela a requerer, nas razões do aludido agravo rei o, que seja reformada a decisão -, guerreada reconhecendo a correta procedência do pedidos para expedição de oficio ao CRI (fl. 410, 2º vol.), pasme-se, conforme determinado na r. sentença (fl. 167) e de mandado de reintegração de posse do imóvel (fl. 410, 2º vol.). Decorre daí que a recorrente pretende sinistramente reavivar o que já foi discutido e decidido no processo subjacente, discussão e decisão essas que chegaram a seu topo final quando do julgamento do E. Supremo Tribunal Federal.
+Tanto assim que se reporta la apelante à r. sentença proferida no vetusto processo de conhecimento, trazendo à colação, como frisado acima, a r. sentença de fl. 167 (esse processo já conta com 7 laudas ao longo de 3 alentados volumes).
+E com base em tudo isso, o banco ora recorrido postulou mais uma vez a extinção da execução haja vista que crédito foi satisfeito (fl. 423, 20 vol.).
+A conduta da recorrente assim demonstra assim caber "in casu" a aplicação da parêmia o fácil se torna difícil graças ao inútil.
+Reprovável dessarte a tentativa da apelante no sentido de perpetuar o processo.
+Age ela portanto de má-fé (litiga contra fato incontroverso e cria incidentes manifestamente infundados) e comete atos atentatórios à dignidade da justiça (artigo 600, inciso II, do mesmo codex). E assente outrossim que a gratuidade não abrange a condenação por tais conditas da recorrente.
+Assim em harmonia com todo o exposto, NEGA-SE PROVIMENTO AOS RECURSOS (agravo retido e apelação), saindo a ré condenada ao pagamento da multa de 1%, da indenização de 10% e dos honorários de advogado também de 10%, todas essas verbas incidentes sobre o valor atualizado da causa.
+Observa-se, dessa forma, que, além de inexistir a alega violação ao art. 535 do CPC/73, a agravante, no ato de interposição do recurso especial não recolheu a multa imposta na origem, o que, por consequência, nos termos da jurisprudência desta Corte Superior, impede o conhecimento do apelo nobre por ausência de preenchimento a requisito objetivo recursal.
+Com efeito, é assente o posicionamento no STJ de que "de acordo com a jurisprudência desta Corte, mesmo que o recorrente seja beneficiário da justiça gratuita, é indispensável o recolhimento da multa em questão, pois "o benefício da assistência judiciária não tem o condão de tornar o assistido infenso às penalidades processuais legais por atos de procrastinação ou litigância de má-fé por ele praticados no curso da lide" (STJ, EDcl no AgRg no REsp 1113799/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 06/10/2009, DJe 16/11/2009).
+Igual orientação é adotada pelo Supremo Tribunal Federal, no sentido de que "a imposição de multa visa a penalizar a parte que traz prejuízo à devida prestação jurisdicional constituindo-se, também, em requisito de admissibilidade de recursos a serem eventualmente propotos" (STF, RE 505.623 AgR-ED/PR, rel.ª Min.ª ELLEN GRACIE, Segunda Turma, DJe 27/08/2009).
+Por fim, advirta-se que o próximo recurso dotado de caráter proscrastinatório, será apenado por multa.
+2. Ante o exposto, reconsidero a decisão de fl. 636 (e-STJ) e, com amparo na Súmual 568 do STJ, não conheço do agravo (art. 544 do CPC/73).
+Publique-se. Intimem-se.
