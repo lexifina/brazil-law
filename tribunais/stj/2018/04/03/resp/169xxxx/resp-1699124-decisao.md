@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], com amparo no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 187):
+Ação ordinária. Revisional de proventos de aposentadoria. IPESP. Serventia extrajudicial. Autora que pretende majoração do benefício em razão do exercício das funções de Preposto Designado por mais de 9 anos. Recolhimentos realizados como Preposto Substituto. Ausência de regularização das contribuições, nos termos da Decisão Normativa da CCPSNOJE 01/2011. Inadmissibilidade. Sentença de improcedência. Recurso da autora não provido.
+Os embargos de declaração opostos foram rejeitados, nos termos do acórdão de e-STJ, fls. 201-203.
+Nas razões do especial, alega a parte interessada negativa de vigência aos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC/2015 sob o argumento, em síntese, de que a Corte a quo não se manifestou acerca do pedido subsidiário, formulado no recurso de apelação e reiterado nos aclaratórios, referente à redução da verba honorária.
+Aponta, outrossim, contrariedade ao art. 20, § 4º, do CPC/1973, defendendo a redução da verba honorária em virtude da desproporcionalidade do valor fixado na origem.
+Contrarrazões às e-STJ, fls. 222-229.
+Admitido o recurso especial na origem (e-STJ, fl. 230), subiram os autos a esta Corte de Justiça.
+É o relatório.
+Decido.
+Assiste razão à parte recorrente no ponto em que sustenta violação dos arts. 489, § 1º, IV, e 1.022, parágrafo único, II, do CPC/2015, pois uma análise detida das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 186-190 e 201-203), em cotejo com a petição inicial (e-STJ, fls. 3-19) e os recursos de apelação e embargos de declaração (e-STJ, fls. 149-166 e 193-199), revela que houve omissão no acórdão recorrido quanto à discussão relacionada ao pedido de redução da verba honorária arbitrada na primeira instância.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a parte deve vincular a interposição do recurso especial à tese de violação do art. 1.022 do CPC/2015, quando, mesmo após a oposição de embargos declaratórios, o Tribunal a quo mantém-se em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum, ou, ainda, quando persista desconhecendo omissão ou contradição arguida como existente no decisum.
+Por estar configurada a agressão ao referido disposto legal da legislação processual, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios, a fim de que os vícios sejam sanados.
+No particular:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO. NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 535 do CPC/1973 (art. 1.022 do CPC/2015), a constatação de que o Tribunal de origem, mesmo após a oposição de Embargos Declaratórios, não se pronunciou sobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dos autos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Na espécie, apesar da oposição dos Aclaratórios, o Tribunal de origem não se pronunciou sobre a seguinte alegação: "de que, no caso em tela, trata-se de execução de sentença contra a Fazenda Pública oriunda da ação coletiva nº 1999.38.00.014767 (em que foram partes o SINTSPREV/MG versus INSS), sendo cabível, por essa razão, a fixação de honorários advocatícios, conforme o disposto nos art. 20, caput e §§ 3º e 4º, do CPC, arts. 90, 91, 97 e 98 do CDC, arts. 15 e 21 da Lei nº 7.347/85 e nos termos da súmula 345 deste Superior Tribunal de Justiça, in verbis: "São devidos os honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas"" (fl. 270, e-STJ, grifos no original).
+3. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim de que os autos retornem ao Tribunal de origem para que este se manifeste sobre a matéria articulada nos Embargos de Declaração, em face da relevância da omissão apontada.
+4. Recurso Especial provido, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração.
+(REsp 1.663.643/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/5/2017, DJe 16/6/2017)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão dos embargos de declaração e, por via de consequência, determinar o retorno dos autos ao Tribunal de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado pela via declaratória.
+Publique-se. Intimem-se.
