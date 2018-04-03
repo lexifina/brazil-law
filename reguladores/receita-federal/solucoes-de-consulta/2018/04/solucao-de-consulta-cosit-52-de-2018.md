@@ -1,0 +1,6 @@
+Solução de Consulta Cosit nº 52, de 28 de março de 2018
+ASSUNTO: CONTRIBUIÇÕES SOCIAIS PREVIDENCIÁRIAS
+EMENTA:. EXCLUSÃO DO SIMPLES NACIONAL. EFEITOS. OPÇÃO PELA CPRB.
+A exclusão do Simples Nacional, por opção da empresa, não permite, de imediato, a opção pela Contribuição Previdenciária sobre a Receita Bruta (CPRB) mediante pagamento da contribuição devida no mês subsequente ao do pedido de exclusão, desse regime de tributação, tendo em vista que, a rigor do inciso I do art. 31 da LC 123, de 2006, e do artigo 73, inciso I, alínea “b”, da Resolução CGSN n.º 94, de 2011, os efeitos da opção pela exclusão do Simples Nacional feita no segundo trimestre de um ano dar-se-ão somente a partir de primeiro dia de janeiro do ano seguinte.
+Dispositivos Legais: Lei Complementar nº 123, de 2006, arts. 30 e 31; Lei n.º 12.546, de 2011 (redação dada pela Lei n.º 13.l61, de 31 de agosto de 2015), artigo 7º, inciso II, e 9º, parágrafo 13; IN RFB n.º 1436, de 2013 (atualizada pela IN RFB n.º 1597, de 1 de dezembro de 2015), artigo 1º, parágrafo 6º, inciso II; e Resolução CGSN n.º 94, de 2011 (na redação atualizada até a Resolução CGSN n.º 135, de 22 de agosto de 2017), artigo 73, inciso I, alínea “b”.
+[arquivo anexo: SC Cosit nº 52-2018.pdf]
