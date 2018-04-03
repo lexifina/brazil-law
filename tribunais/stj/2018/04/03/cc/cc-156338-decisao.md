@@ -1,0 +1,25 @@
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO, PELO JUÍZO TRABALHISTA, DE CRÉDITOS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO.
+DECISÃO
+Viação Itapemirim S/A - em recuperação judicial suscita o presente conflito positivo de competência, apontando como suscitados o Juízo de Direito da 13ª Vara Cível Especializada Empresarial de Recuperação Judicial e Falência de Vitória/ES e o Tribunal Regional do Trabalho da 5ª Região.
+Alega a suscitante que o "Grupo Itapemirim, formado por empresas com vasta experiência no ramo de transportes de passageiros", ingressou com pedido de recuperação judicial (Processo n. 0006983-85.2016.8.08.0024), sendo deferido, em 18/3/2016, seu processamento pelo Juízo de Direito da 13ª Vara Cível Especializada Empresarial de Recuperação Judicial e Falência de Vitória/ES, com a inclusão da Viação Caiçara Ltda. no referido processo, em 19/12/2016, ocasião em que foi acolhido o pedido de prorrogação do prazo de suspensão previsto no art. 6º, § 4º, da Lei n. 11.101/2005, até que ocorra a assembléia geral de credores.
+Não obstante o deferimento da recuperação judicial, o TRT da 5ª Região, no julgamento do Agravo de Petição 0000378-51.2011.17.0342, determinou a "remessa dos autos à vara de origem, a fim de que seja dado prosseguimento ao feito trabalhista até a satisfação do crédito exequendo, ignorando a limitação da competência da justiça especializada e a exclusiva competência do Juízo da 13ª Vara Cível Especializada Empresarial de Recuperação Judicial e Falência de Vitória/ES para praticar quaisquer atos expropriatórios, de constrição e indisponibilidade dos bens".
+Afirma, assim, estar caracterizado o conflito de competência, razão pela qual busca o reconhecimento da competência do Juízo Recuperacional para decidir sobre todos os atos constritivos dos bens da suscitante.
+Às fls. 285-286 (e-STJ), o Ministro Vice-Presidente do STJ indeferiu a liminar pleiteada.
+As informações foram prestadas às fls. 319-321.
+Instado a se manifestar, o Ministério Público Federal opinou pela competência do Juízo da Recuperação Judicial, em parecer assim resumido:
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE TÍTULO JUDICIAL. SUSPENSÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL DA RECUPERAÇÃO JUDICIAL. INTELIGÊNCIA DOS ARTS. 6º, § 2º, E 47, AMBOS DA LEI 11.101/2005. PRECEDENTES DESSE STJ.
+O Juízo universal é o competente para os atos que importem em constrição do patrimônio da empresa em processo de recuperação judicial, enquanto mantida essa condição. Homenagem ao princípio da preservação da empresa.
+Parecer pelo conhecimento do conflito, para que seja declarada a competência do MM. Juízo de Direito da 13ª Vara Cível Especializada Empresarial de Recuperação Judicial e Falência de Vitória/ES.
+Brevemente relatado, decido.
+A competência é, de fato, do Juízo da Recuperação Judicial.
+Com efeito, compete à Justiça do Trabalho apreciar e julgar os pedidos formulados em ações versando sobre apuração dos créditos individuais trabalhistas promovidos contra empresas falidas ou em recuperação judicial - Lei 11.101/2005. Todavia, ultrapassada a fase de apuração e liquidação dos referidos créditos trabalhistas, os montantes apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento.
+Nesse sentido:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO DA RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DAS EXECUÇÕES TRABALHISTAS APÓS A FASE DE ACERTAMENTO E LIQUIDAÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL DA RECUPERAÇÃO. IMPOSSIBILIDADE. RETOMADA AUTOMÁTICA DAS EXECUÇÕES APÓS O FIM DO PRAZO DE 180 DIAS. NÃO CABIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, ultrapassada a fase de acertamento e liquidação dos créditos trabalhistas, cuja competência é da Justiça do Trabalho, os valores apurados deverão ser habilitados nos autos da falência ou da recuperação judicial para posterior pagamento (Decreto-Lei 7.661/45; Lei 11.101/2005).
+2. O entendimento desta Corte preconiza que, via de regra, deferido o processamento ou, posteriormente, aprovado o plano de recuperação judicial, é incabível a retomada automática das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4º, da Lei 11.101/2005.
+3. Agravo regimental a que se nega provimento.
+(RCD no CC n. 131.894/SP, Relator o Ministro Raul Araújo, DJe de 31/3/2014)
+Ademais, "em regra, uma vez deferido o processamento ou, a fortiori, aprovado o plano de recuperação judicial, revela-se incabível o prosseguimento automático das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4, da Lei 11.101/2005" (CC n. 112.799/DF, Relator o Ministro Luis Felipe Salomão, DJe 22/3/2011 - sem grifo no original).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 13ª Vara Cível Especializada Empresarial de Recuperação Judicial e Falência de Vitória/ES.
+Publique-se.
