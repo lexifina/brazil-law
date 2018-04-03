@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO ESTADO MG, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 148):
+EMENTA: APELAÇÃO CÍVEL - SERVIDOR PÚBLICO - PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - REJEITADA - PECÚLIO - DESCONTOS MENSAIS - CANCELAMENTO DO CONTRATO - LEI  18.682/2009 - REDAÇÃO ALTERADA PELA LEI  19.577 - RESTITUIÇÃO DOS VALORES DESCONTADOS - DIREITO DO SEGURADO - VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA - SENTENÇA MANTIDA. O cancelamento de contrato de pecúlio feito de maneira unilateral pelo IPSEMG, com fundamento em lei que, posteriormente alterada, passou a beneficiar a parte, importa a restituição dos valores descontados do segurado, evitando-se, assim, o enriquecimento ilícito por parte do órgão público.
+Nas razões do recurso especial, o recorrente alega violação dos arts. 3º do Decreto n. 20.910/1932 e 884 do Código Civil. Aduz, em síntese, que as ações pessoais contra a Fazenda Pública e as autarquias prescrevem em 5 anos e, sendo a hipótese de concessão de prestações periódicas, a prescrição incide sucessivamente sobre as parcelas em atraso quinquenal. Por fim, alega que o contrato de pecúlio é espécie de seguro e está sujeito a evento futuro e incerto, não sendo passível de devolução dos valores.
+Contrarrazões às e-STJ fls. 166/168.
+Juízo positivo de admissibilidade às e-STJ fls. 170/171.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, não obstante os argumentos expendidos, o recurso não merece prosperar.
+Com efeito, no que diz respeito às alegadas ofensas, ressalte-se que o entendimento desta Corte é de que a admissibilidade do recurso especial reclama a exposição clara das razões pelas quais o acórdão teria afrontado cada um dos dispositivos indicados, não sendo suficiente a mera alegação genérica, como ocorreu no caso, o que atrai a incidência da Súmula 284 do STF.
+Ademais, quanto às alegações de violação do art. 884 do Código Civil, o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Note-se, ademais, que não foram opostos embargos de declaração na origem.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, §11, do CPC/2015), à vista do Enunciado Administrativo n. 7 - STJ.
+Publique-se. Intimem-se.
