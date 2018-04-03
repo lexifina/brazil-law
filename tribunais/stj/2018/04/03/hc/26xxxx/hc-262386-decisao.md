@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de LUCAS MARQUES DOS SANTOS, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi denunciado pela suposta prática da conduta descrita no art. 33, caput, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006, pois, no dia 21 de dezembro de 2008, foi surpreendido trazendo consigo, em local destinado a espetáculos, para fins de tráfico, 32 (trinta e dois) comprimidos de ecstasy, pesando aproximadamente 15g (quinze gramas).
+Superadas as demais fases processuais, o paciente foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 666 (seiscentos e sessenta e seis) dias-multa, no valor unitário mínimo.
+Contra o édito condenatório insurgiu-se a defesa.
+Em sessão de julgamento realizada em 27 de janeiro de 2011, os desembargadores integrantes da Décima Terceira Câmara de Direito Criminal deram parcial provimento ao recurso para estabelecer o acréscimo diante da presença da causa de aumento no mínimo legal, redimensionando a sanção a 5 (cinco) anos e 10 (dez) meses de reclusão, mais 583 (quinhentos e oitenta e três) dias-multa, mantidos os demais termos da sentença.
+No Superior Tribunal de Justiça, sustenta o impetrante estarem presentes todos os requisitos necessários à incidência da causa especial de diminuição descrita no art. 33, § 4º, da Lei n. 11.343/2006. Nesse contexto, assere a possibilidade de modificação do regime inicial de cumprimento da sanção para o aberto, bem assim de substituição da pena reclusiva por medidas alternativas.
+O pedido liminar foi indeferido (e-STJ fls. 75/79).
+Prestadas as informações (e-STJ fls. 82/104), foram os autos encaminhados ao Ministério Público Federal, que se manifestou pela concessão parcial da ordem (e-STJ fls. 108/123).
+É, em síntese, o relatório.
+Consoante se observa do relatório, busca a defesa seja aplicado o benefício descrito no art. 33, § 4º, da Lei n. 11.343/2006, com a consequente redução da reprimenda, modificação do regime inicial para o aberto e substituição da pena privativa de liberdade por restritiva de direitos.
+No entanto, verifico que as questões não podem ser conhecidas por esta Casa, diante da falta de manifestação do Tribunal de origem sobre os temas.
+O julgamento levado a efeito pelo colegiado local ateve-se à análise dos seguintes assuntos: ausência de provas suficientes a lastrear a condenação; ou desclassificação para o crime previsto no art. 28 da Lei n. 11.343/2006.
+Não houve nenhuma manifestação nas instâncias ordinárias acerca das matérias ventiladas no presente remédio constitucional.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de [NOME] que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heróico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único - 4. ed. rev., ampl. e atual. - Salvador: Ed. JusPodivm, 2016. p. 2470).
+Diante desse cenário, ante a falta de manifestação do colegiado local, mostra-se evidente a incompetência desta Corte Superior para o processamento e julgamento deste remédio constitucional, porquanto ausente ato a ser imputado à autoridade apontada como coatora, nos termos do art. 105, inciso I, alínea c, da Constituição Federal, bem como do art. 13, inciso I, alínea b, do Regimento Interno do Superior Tribunal de Justiça.
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.  ..
+(HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+No mesmo sentido, a orientação do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento.
+(RHC 133.585 AgR, Rel. Ministro GILMAR MENDES, Segunda Turma, julgado em 21/06/2016, DJe 1º/08/2016.)
+Tal o contexto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
