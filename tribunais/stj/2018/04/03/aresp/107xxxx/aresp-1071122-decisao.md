@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPARAÇÃO DE PERDAS E DANOS. VIOLAÇÃO DO ART. 535, II, DO CPC. NÃO CONFIGURADA. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ.
+1. Não se observa a violação do artigo 535 do CPC, quando o Tribunal de origem aprecia a questão tida como omissa pelo recorrente.
+2. A existência de fundamento do acórdão recorrido não impugnado, incidência da Súmula 283/STF.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais não são permitidos nesta via recursal.
+4. Agravos conhecidos. Recursos especiais não conhecidos.
+DECISÃO
+Cuida-se de agravos interpostos contra decisão denegatória dos recursos especiais interpostos por [NOME] S/A e pelo SÉRGIO LUIS [NOME] DE MORAES [NOME] e OUTROS, ambos, com fundamento na alínea "a" do permisssivo constitucional.
+Agravos em Recursos Especiais interpostos em: 23/08/2016 e 23/08/2016.
+Processo distribuído ao Gabinete em: 27/03/2017.
+Ação: declaratória de inexistência de débito c/c perdas e danos ajuizada por [NOME] e CARINA FUEMI [NOME], em face dos recorrentes, na qual requerem a declaração de inexistência do débito oriundo das cédulas de produto rural emitidas em razão da cessão fiduciária de crédito em garantia, a liberação dos créditos devidos em seu favor e a condenação dos ora agravantes ao pagamento de indenização pelos danos morais devidos.
+Sentença: julgou parcialmente procedente os pedidos formulados na inicial.
+Acórdão: negou provimento ao recurso de apelação interposto pelas recorrentes, nos termos da seguinte ementa:
+Bem móvel  Declaratória de inexistência de débito  Cessão de crédito efetuada por terceiro coproprietário das terras e coprodutor da safra de cana- de-açúcar - Autoras que atuaram como meras anuentes - Apelação - Reiteração dos termos da sentença pelo relator - Admissibilidade - Adequada fundamentação Precedente jurisprudencial Incidência do artigo 252 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo  Improvimento (e-STJ fl. 557).
+Embargos de Declaração: opostos pelas recorrentes, foram esses rejeitados (e-STJ fls. 594/601).
+Recurso Especial interposto por [NOME] e OUTROS : os agravantes, em suas razões recursais, alegam violação do art. 535, II, do CPC, aduzindo, em síntese, que o Tribunal de origem teria deixado de apreciar a aplicação dos arts. 112, 113 e 422 do CC, haja vista que é evidente que as recorrentes anuíram expressamente sobre a cessão total dos créditos realtivos ao contrato objeto da lide e, muito embora não sejam devedoras solidárias do Sr. [NOME], em conjunto com ele ofertaram em garantia crédito oriundo do contrato de compra e venda da safra de cana-de-açúcar.
+Assinalam, ainda, negativa de vigência aos arts. 112, 113 e 422 do CC, defendendo que os contratos devem ser interpretados em consonância com os referidos dispositivos, aduzindo que resta evidente que a verdadeira intenção das ora recorridas na ocasião da assinatura dos contratos é muito diversa da apresentada por elas na ocasião do ajuizamento da ação declaratória (e-STJ fl. 624), visto que as agravadas tinham ciência de que as safras, de propriedade do Sr. [NOME] recorridas seriam destinadas a liquidar as CPRFs emitidas.
+Recurso Especial interposto [NOME] DO [NOME] S/A: a recorrente em seu recurso, sustenta que houve violação do art. 535, II, do CPC, pois o Tribunal de origem teria deixado de apreciar a aplicação dos arts. 112, 113 e 422 do CC, haja vista que é evidente que as recorrentes anuíram expressamente sobre a cessão total dos créditos realtivos ao contrato objeto da lide e, muito embora não sejam devedoras solidárias do Sr. [NOME], em conjunto com ele ofertaram em garantia crédito oriundo do contrato de compra e venda.
+Assinala ainda negativa de vigência aos arts. 112, 113 e 422 do CC, defendendo que os contratos devem ser interpretados em consonância com os referidos dispositivos, aduzindo que resta evidente que a verdadeira intenção das ora recorridas na ocasião da assinatura dos contratos é muito diversa da apresentada por elas na ocasião do ajuizamento da ação declaratória (e-STJ fl. 645/646), visto que as agravadas tinham ciência de que as safras, de propriedade do Sr. [NOME] recorridas seriam destinadas a liquidar as CPRFs emitidas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+O propósito dos dois recursos especiais interpostos é demonstrar a existência de anuência expressa das recorridas acerca da cessão total dos créditos relativos ao contrato de compra e venda da safra de cana-de-açúcar e, considerando que os recurso especiais apresentam os mesmos fundamentos, esses serão apreciados em conjunto, a fim de evitar a desnecessária repetição de argumentos.
+- Da violação do art. 535 do CPC
+Quanto à violação do art. 535 do CPC cumpre salientar que o Tribunal a quo, ao apreciar a demanda, manifestou-se sobre todas as questões pertinentes à litis contestatio, fundamentando seu proceder de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando as razões de seu convencimento.
+Na hipótese dos autos, o Tribunal a quo ao apreciar os embargos de declaração opostos pelos recorrentes, apreciou as questões tidas como omissas, não restando caracterizada a afronta ao referido dispositivo.
+- Da ausência de fundamento impugnado
+No mais o Tribunal de origem ao apreciar a questão tida como omissa pelos agravantes entendeu que:
+ Ora, a posição contratual de anuentes não implica, de forma alguma, a cessão do crédito a elas pertencente.
+A participação das autoras no instrumento contratual em comento deu-se apenas e tão somente, porque detém direito de preferência no tocante ao crédito cedido e, na medida em que anuem a transmissão, renunciam tacitamente a esse direito  atingido, reflexamente, por esta cessão de crédito.
+Caso quisessem transferir a fração do crédito a elas pertencente, teriam figurado como cedentes e não como meras anuentes da avença. (negritos deste relator) (e-STJ fl. 599).
+ No entanto, observa-se que os agravantes, em suas razões recursais, limitam-se apenas a defender a necessidade de que o contrato firmado entre as partes seja interpretado com base na intenção das contratantes, que, na hipótese, anuíram com a cessão total dos créditos, deixando de rebater o real fundamento do acórdão. Incide a Súmula 283/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Por fim, ainda que fossem ultrapassados os referidos óbices, tem-se que alterar o decidido pelo Tribunal de origem acerca da ausência de cessão dos créditos pelas recorridas, demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, o que não é permitido nesta via especial, ante os óbices das Súmulas 5 e 7 do STJ.
+Forte nessas razões, CONHEÇO dos agravos interpostos pelos recorrentes e, com fundamento no art. 932, III, do CPC/2015, NÃO CONHEÇO dos recursos especiais.
+Publique-se. Intimem-se.
