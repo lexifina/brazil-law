@@ -1,0 +1,8 @@
+DECISÃO
+1. Depreende-se dos autos (fls. 455-458, e-STJ), dentre outras questões, discussão quanto às hipóteses de aplicação da repetição em dobro prevista no art. 42, parágrafo único, do CDC, matéria afetada pelo Ministro Paulo de Tarso Sanseverino, sob o rito dos Recursos Representativos de Controvérsia, à Corte Especial do Superior Tribunal de Justiça nos autos do Resp n.º 1.585.736/RS (DJe 14/09/2016), vinculado ao Tema n. 929.
+Consoante disposto no art. 34, inciso XXIV, do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, fica autorizada a "devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis".
+Ressalta-se que "somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo" (REsp 1.361.535/MG, PRIMEIRA TURMA, Rel. Min. GURGEL DE FARIA, DJe 08/02/2017).
+Vale lembrar, ainda, que a competência para aplicação da sistemática de recursos repetitivos é do Tribunal de origem, a teor do disposto no art. 543-C do CPC/73, atual art. 1.040 do CPC/2015. Aplicação analógica da interpretação dada pelo STF à sistemática do art. 543-B do CPC/1973.
+2. Do exposto, determina-se a devolução dos autos ao Tribunal a quo para que aplique, conforme o caso, as medidas cabíveis previstas no art. 1.040 do CPC/2015, com a respectiva baixa dos autos nesta Corte.
+Publique-se.
+Intimem-se.
