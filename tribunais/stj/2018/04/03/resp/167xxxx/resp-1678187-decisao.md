@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ, fl. 854):
+APELAÇÃO/REMESSA OFICIAL. TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. PARCELAMENTO DA LEI N. 10.684/2003 (PAES). AUSÊNCIA DE RECEITA BRUTA. EXCLUSÃO DO BENEFÍCIO. AÇÃO MANDAMENTAL ANTERIOR. TRÍPLICE IDENTIDADE. COISA JULGADA CARACTERIZADA.
+A autora já havia sido excluída anteriormente do PAES, mais precisamente em 2004, tendo, então, impetrado mandado de segurança (Processo nº 2005.72.05.005360-0) buscando sua reinclusão no referido programa, o que, efetivamente, logrou alcançar, com decisão transitada em julgado.
+A coisa julgada é uma das formas de extinção do feito, sem julgamento do mérito (art. 485, V, CPC), caracterizando-se quando houver, entre dois ou mais processos, mesmas partes, mesmo pedido e mesma causa de pedir, sendo que num há decisão com trânsito em julgado (art. 337 do referido diploma).
+Os embargos de declaração opostos contra a aludida decisão foram improvidos.
+A recorrente alega a existência de contrariedade aos arts. 1.022, II, do CPC/2015, defendendo que o acórdão foi omisso quanto à ofensa à coisa julgada e a legalidade do ato de exclusão do contribuinte do parcelamento.
+Sustenta, ainda, a violação do art. 337, § 4º, do CPC, sob o argumento de que o acórdão ofendeu a coisa julgada e dos arts. 1º, § 4º, I, e 7º da Lei n. 10.684/2003, por entender que o recolhimento de parcela inferior à mínima implica a exclusão do parcelamento.
+Foram apresentadas contrarrazões.
+Admitido o recurso especial na origem, foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origem afirmou que há decisão transitada em julgado, por meio da qual se entendeu que a existência de faturamento inexpressivo não pode ensejar a exclusão da contribuinte do parcelamento. Confira-se (e-STJ, fl. 852):
+No caso em apreço, há identidade de partes (União x Hubtex Sulamericana Máquinas Ltda.) e de pedidos (reinclusão no parcelamento da Lei n. 10.684/2003).
+Vale ressaltar que a natureza do primeiro feito (mandamental) e a restrição à abrangência do provimento judicial nele proferido (área de atuação da autoridade dita coatora) não constituem empecilhos para se reconhecer, até aqui, a identidade entre as demandas.
+Com efeito, a autoridade impetrada está integrada a uma determinada pessoa jurídica, da qual exerce atribuições (no caso em apreço, a União). Aliás, como bem ressaltou a sentenciante, a União (Fazenda Nacional) acabou por assumir as atribuições tributárias pertencentes ao INSS (Lei nQ 11.457/2007), tanto que a mesma já constava como "apelante" no acórdão proferido por esta Turma no MS nQ 2005.72.05.005360-0.
+Por derradeiro, a identidade também se contata em relação às causas de pedir num e noutro feito, porque a discussão envolve a impossibilidade de pagar as parcelas mensais em valor superior a R$ 100,00, haja vista a inexistência/insuficiência da base de cálculo (receita bruta).
+Assim, forçoso reconhecer a existência da coisa julgada, de modo a impedir solução diversa - para esta demanda - daquela encontrada nos autos n. 2005.72.05.005360-0.
+De resto, mesmo que, eventualmente, fosse o caso de não se admitir a tríplice identidade em virtude da diversidade de elementos secundários próprios de uma e doutra ação, inegável tratar-se da mesma questão de fundo, a exigir, aqui, a aplicação do mesmo entendimento anteriormente adotado.
+Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 284/STF. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO À COISA JULGADA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 06/10/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, trata-se de Ação Ordinária de Repetição de Indébito, pretendendo-se a repetição do indébito do montante pago em duplicidade referente à CPMF, com fatos geradores ocorridos entre janeiro de 1997 a dezembro de 2001.
+III. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à incidência da Súmula 284 do STF -, não prospera o inconformismo, quanto ao ponto, em face da Súmula 182 desta Corte.
+IV. Na forma da jurisprudência dominante desta Corte, "analisar a alegada ofensa à litispendência e à coisa julgada importa em reexame de provas, o que encontra óbice na Súmula 7 deste Tribunal" (STJ, AgRg nos EDcl no REsp 1.539.665/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 26/10/2015). No mesmo sentido: STJ, AgInt no AREsp 965.578/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 28/08/2017; REsp 1.667.955/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/06/2017; REsp 1.425.831/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 24/05/2017; AgInt no REsp 1.574.311/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 02/05/2017; AgInt no REsp 1.626.232/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 23/08/2017.
+V. No caso, o entendimento firmado pelo Tribunal a quo - no sentido de que não evidenciada a violação à coisa julgada - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+VI. Agravo interno parcialmente conhecido, e, nessa parte, improvido.
+(AgInt no REsp 1.502.879/AL, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 1º/12/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
