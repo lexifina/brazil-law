@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo, desafiando decisão que inadmitiu recurso especial, este com fundamento nas alíneas "a" do permissivo constitucional, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO - Cobrança - Execução de sentença - Dívida confessada - Insolvência presumida da pessoa jurídica ré - Sócios incluídos no pólo passivo também insolventes - Extensão da responsabilidade patrimonial da pessoa jurídica executada ao patrimônio do sócio e à pessoa jurídica da qual participam esposa e parentes do sócio da insolvente - Indícios seguros de confusão patrimonial e de fraude à execução - Art. 50 do C. Civil e art. 28, §5º, do CDC - Recurso provido com determinação." (e-STJ, fl. 157)
+Os agravantes, em suas razões recursais alega violação ao art. 50 do Código Civil. Sustenta, em síntese, que: o sócio [NOME], nunca compôs o quadro societário da empresa, acerca da qual foi deferida a penhora sobre seus bens, ao fundamento de que o citado seria seu sócio oculto.
+É o relatório. Passo a decidir.
+No caso, o Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos entendeu estarem presentes nos autos elementos que caracterizem a plausibilidade da penhora do bens determinados à empresa ora agravante:
+Confira-se (e-STJ Fl.159):
+(..)
+No caso sob exame, a MAXILABOR tem todos os contornos de receptora dos bens e direitos penhoráveis na execução que a agravante promove contra a devedora e seu sócio, de modo que a extensão da responsabilidade da devedora executada e do sócio dela, deve ser estendida aos bens penhoráveis da MAXILABOR e, eventualmente, até aos sócios desta, a convivente [NOME] e [NOME], porque são evidentes os fatos que os fazem alinhados na diretiva de fraude a credores perpetrada com a personificação do ente moral MAXILABOR, que a credora afirma ser gerida pelo devedor executado [NOME], companheiro da sócia [NOME], f. 128/130, se a firma também se mostrar esvaziada quando do cumprimento da Ordem judicial de constrição de seus bens e direitos.
+(..)
+Infirmar as conclusões do julgado, como ora postulado, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação no enunciado da Súmula nº 7 deste Superior Tribunal de Justiça. A incidência do referido verbete constitui-se óbice também para a análise do apontado dissídio.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
