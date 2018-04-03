@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE ALUGUEL. 1. OMISSÃO NO ACÓRDÃO RECORRIDO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA 284/STF. 2. DIFERENÇA DE VALORES UNITÁRIOS FOI RELEVADA PELO PERITO. METODOLOGIA QUE EMPREGA O CHAMADO "FATOR ÁREA". AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283 DO STF. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Lojas Americanas S.A., com fundamento no art. 105, III, alínea a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 884):
+Locação de imóvel não residencial. Ação renovatória. Resistência à pretensão renovatória restrita ao valor do aluguel. Laudo técnico pericial que encontrou mesma área construída constante dos contratos de locação e seus aditamentos. Assistentes técnicos das partes que concordaram com a área encontrada. Insurgência quanto à correção da área do imóvel mediante documentos apresentados apenas em grau recursal. Prova que não foi produzida anteriormente, por inércia das rés. Tentativa de desconstituição do laudo pericial, que não deve ser acolhida. Insurgência quanto à metodologia para homogeneização das áreas dos elementos comparativos, utilizada pelo experto. Irresignaçâo não acolhida. Princípio da causalidade, inaplicável, pois ausente oposição à pretensão renovatória. Rateio dos ônus sucumbenciais a serem efetivados, com as devidas compensações, em liquidação de sentença. Recurso das rés, negado. Recurso da autora, parcialmente provido. Observação quanto à limitação da vigência do valor Iocativo fixado nesta ação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 905-909).
+Nas razões do recurso especial, a ora agravante alegou violação dos arts. 371 e 479 do Código Processual Civil de 2015, por discordar do critério utilizado no laudo pericial, salientando que o laudo divergente de seu assistente técnico, acostado aos autos, melhor espelha a realidade do mercado na região onde se encontra a loja objeto da presente ação.
+Aduziu, também, a nulidade do acórdão recorrido por não ter sanado a omissão suscitada nos aclaratórios.
+Sem contrarrazões (e-STJ, fl. 939).
+O apelo nobre não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta não apresentada (e-STJ, fl. 959).
+Brevemente relatado, decido.
+Primeiramente, quanto à alegada negativa de prestação jurisdicional, verifica-se que a recorrente não apontou o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência a respeito da tese defendida. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Relativamente à questão de fundo, a insurgência também não merece ser conhecida.
+Depreende-se dos autos que a ora agravante ajuizou ação renovatória contra Di Santinni Imobiliaria Ltda. e outras, a qual foi julgada parcialmente procedente para renovar o contrato entre as partes, fixando-se o valor do aluguel no patamar de R$ 92.201,00 (noventa e dois mil e duzentos e um reais), atualizado monetariamente.
+O ponto modal da irresignação está no valor fixado para locação. Para tanto, a insurgente asseverou que o perito teria deixado de apreciar aspectos técnicos relevantes, uma vez que os elementos amostrais utilizados possuem áreas pequenas, cujos valores unitários são mais altos do que as lojas de grande porte, o que teria influenciado no valor final do aluguel.
+Sobre essa matéria, o Colegiado local foi categórico em afirmar o seguinte (e-STJ, fl. 891):
+De outro giro, sobre a redução de 10% (dez por cento) do valor do aluguel, pretendida pela autora, em razão de que não seria de boa técnica adotar o valor médio, com elementos amostrais de áreas pequenas, esta alegação não procede.
+Cumpre destacar que a diferença de valores unitários já foi relevada pelo perito, que se utilizou de metodologia que emprega o chamado "fator área", conforme revelam seus esclarecimentos de fls. 444/445.
+Assim, ocorre que, como esse fundamento é suficiente por si só para manter a conclusão do julgado, o qual não foi atacado de forma específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do comando da Súmula n. 283 do Supremo Tribunal Federal, por aplicação analógica.
+Não é demais acrescentar, ainda, que as próprias razões recursais remetem à necessidade, para confirmá-las, de reexame da prova dos autos, o que é vedado nos termos da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
