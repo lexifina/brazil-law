@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ROUBO MAJORADO. ASSOCIAÇÃO CRIMINOSA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL RECONHECIDO. ART. 580 DO CPP. IDENTIDADE FÁTICO-PROCESSUAL. APLICABILIDADE. HABEAS CORPUS CONCEDIDO, COM EXTENSÃO AOS CORRÉUS.
+1. O decreto prisional não apresentou qualquer motivação do caso concreto, fazendo referência a dispositivos legais e fundamentação acerca da gravidade em abstrato do delito, ou de genérica regulação da prisão preventiva, o que demonstra a ausência de fundamentos para o decreto prisional.
+2. Havendo identidade de situações fático-processuais entre o paciente e os demais acusados, cabe, a teor do art. 580 do CPP, a extensão dos efeitos desta decisão ao corréus.
+3. Habeas corpus concedido, para a soltura do paciente, [NOME], e extensão dos efeitos da decisão, nos termos do art. 580 do CPP, para também determinar a soltura dos corréus, [NOME], [NOME] [NOME] DE OLIVEIRA, MIGDAL [NOME] ARAÚJO DE [NOME] e [NOME] [NOME] [NOME], o que não impede nova e fundamentada decisão de necessária medida cautelar penal, inclusive menos gravosa que a prisão preventiva.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, conceder a ordem, com extensão aos corréus [NOME], [NOME], Migdal [NOME] e [NOME], nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de habeas corpus no qual se busca a revogação da prisão preventiva, sob a alegativa de não estarem presentes os requisitos autorizadores da segregação cautelar. Subsidiariamente, requer sejam aplicadas as medidas alternativas à prisão previstas no art. 319 do Código de Processo Penal.
+O acórdão combatido foi assim ementado (fl. 47):
+ "HABEAS CORPUS - ROUBO TRIPLAMENTE MAJORADO E ASSOCIAÇÃO CRIMINOSA - Pedido de revogação da prisão preventiva - Pressupostos e fundamentos para a segregação cautelar presentes - Decisão que justifica suficientemente a custódia cautelar - Constrangimento ilegal não caracterizado - Ordem denegada."
+O paciente, [NOME], foi denunciado pela prática do delito tipificado no artigo 157, § 2º, I, II e V, por três vezes (na forma do artigo 70) e do artigo 288, parágrafo único, na forma do artigo 69, todos do Código Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O parecer do Ministério Público Federal foi no sentido do não conhecimento ou denegação do writ.
+Na origem, ação penal 0002437-33.2017.8.26.0288/SP, na audiência realizada em 27/2/2018, houve a determinação para que, após o retorno das cartas precatórias expedidas, fosse aberto prazo para apresentação de memoriais pelas partes, conforme informações processuais eletrônicas disponíveis em 5/3/2018.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão de prisão preventiva restou assim fundamentada (fls. 44/45):
+ .. .Trata-se de representação elaborada pelo Delegado de Polícia no sentido de ser decretadas as prisões preventivas dos investigados [NOME], [NOME], [NOME], Migdal [NOME] e [NOME].
+Relata que as provas até então obtidas dão conta de que tais indivíduos se associaram, de forma ordenada e estruturada, com divisão de tarefas, com o objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, por meio da prática de delitos penais, que prevêem penas de 4 (quatro) anos ou mais, inclusive com emprego de arma de fogo.
+Ressalta que citada organização está escalonada, tem caráter permanente, sendo contumaz na prática de delitos, entre eles o roubo qualificado. Tem-se, ainda, que referida organização não é efêmera, pois seus elementos têm relação de parentesco entre si. Além disso, eles agem com extrema violência.
+Os crimes cometidos, em tese, pelos investigados, como dito, com o emprego de arma de fogo e violência física contra as vítimas, denotam que, se livres e soltos, utilizaram a força de intimidação deles para influenciar de sobremaneira as vítimas e testemunhas, enfraquecendo a prova, em especial se exercida contra as vítimas que, temerosas, poderão prestar depoimentos deixando de mencionar o fato que poderia incriminar os investigados (folhas 208/210).
+O Promotor de Justiça apresentou parecer favorável aos pedidos (folhas 213/214).
+É o sintético relatório.
+A decretação da prisão preventiva dos investigados é medida de rigor, porquanto presentes os requisitos legais. Com efeito, os elementos colhidos pela autoridade policial, até então, comprovam a existência do crime, bem como trazem suficientes indícios de autoria (fumus boni iuris) e, por outro lado, presente o perigo na demora, previsto no artigo 312 do Código de Processo Penal.
+Em relação aos pressupostos exigidos pelo artigo 312, em cognição sumária, verifica-se indício suficiente de autoria, caracterizado tanto pelos depoimentos das testemunhas como pelas declarações prestadas pelos investigados (folhas 72/74, 172, 188/189, 193/194).
+E outra banda, a materialidade do delito encontra-se evidenciada pelos boletins de ocorrência e autos de exibição e apreensão (84/90, 133, 138/140, 141/142, 147/149, 151/152, 158/166, que acompanharam o expediente.
+Assim, evidenciado está o fumus comissi delicti.
+Já o periculum liberatis emerge do efetivo risco da ordem pública - diante da intranquilidade na ordem social causada por delitos dessa natureza -, da necessidade para instrução criminal, bem como para assegurar a aplicação da lei penal.
+A ordem pública caracteriza-se pela tranquilidade no meio social, que é traduzida pela tutela dos superiores bens jurídicos da incolumidade das pessoas e do patrimônio. Quando há ameaça à referida tranquilidade, deve-se decretar a prisão preventiva, a fim de se evitar que o acusado, solto, continue a praticar delitos da mesma natureza. E a infração em tese praticada reveste-se de particular e exacerbada gravidade, o que autoriza a permanência do acusado em cárcere privado.
+Demonstrada a presença do fumus comissi delicti e do periculum libertatis, o encarceramento é medida necessária, que guarda estreita proporção com a gravidade da conduta em tese praticada pelos investigados.
+In casu, também se justifica a decretação da prisão preventiva dos investigados para necessidade da instrução criminal, resultante da garantia da existência do devido processo legal, no seu aspecto procedimental.
+E a necessidade de se prevenir eventual perturbação durante a instrução probatória, bem como a reprodução de novos delitos é motivação bastante para se assegurar uma instrução processual lisa, equilibrada e imparcial, bem como a futura aplicação da lei penal.
+Consigno ainda que os requisitos da prisão preventiva foram analisados à luz da Lei nº 12.403, de 04 de maio de 2011, que reforça o cabimento da segregação cautelar dos autuados já que dispõe, no inciso I do artigo 313, Código de Processo Penal, que será admitida a decretação da prisão preventiva, nos crimes dolosos punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos.
+Dessa forma, decreto as prisões preventivas dos investigados [NOME], [NOME], [NOME], Migdal [NOME] e [NOME], com fundamento nos artigos 312, "caput" e 313, inciso I, ambos do Código de Processo Penal.
+Expeçam-se mandados de prisões. .. .
+Como se vê, o decreto de prisão, quando se refere ao periculum libertatis, não traz qualquer motivação concreta para a prisão, fazendo referência às circunstâncias já elementares do delito, valendo-se de fundamentação abstrata e com genérica regulação da prisão preventiva, além de presunções e conjecturas, evidenciando a ausência de fundamentos para o decreto prisional.
+Não se tendo dúvida no tema, com a clara motivação genérica, reconheço a ilegalidade arguida. Prejudicado o pedido subsidiário.
+Por fim, tendo em vista que os fundamentos para a prisão do paciente são os mesmos para a segregação também dos demais acusados, deve-se aplicar a regra do art. 580 do CPP, estendendo-se os efeitos desta decisão aos corréus.
+Ante o exposto, voto por conceder o habeas corpus, para a soltura do paciente [NOME] [NOME] FONSECA e estendo os efeitos desta decisão, nos termos do art. 580 do CPP, para também determinar a soltura dos corréus, [NOME], [NOME] [NOME] DE OLIVEIRA, MIGDAL [NOME] ARAÚJO DE [NOME] e [NOME] [NOME] [NOME], o que não impede nova e fundamentada decisão de necessária medida cautelar penal, inclusive menos gravosa que a prisão preventiva.
