@@ -1,0 +1,12 @@
+DECISÃO
+MURILO DOS SANTOS, paciente neste habeas corpus, sustenta a ocorrência de constrangimento ilegal em virtude de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0000689-71.2017.8.26.0544.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para negar a compensação da confissão espontânea com a reincidência e fixar o regime semiaberto, diante da condenação do réu à pena de 1 ano e 2 meses, em regime inicial semiaberto, e 11 dias-multa, como incurso no art. 155, caput, do Código Penal.
+Requer, liminarmente e no mérito, a redução da pena e a imposição de regime aberto para o seu cumprimento.
+Decido.
+Preliminarmente, releva salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Sob tais premissas, não constato a ocorrência de flagrante ilegalidade, a ensejar o processamento deste writ.
+Com efeito, pela leitura da sentença condenatória e do acórdão impugnado, noto que as instâncias antecedentes indicaram duas condenações definitivas caracterizadoras e reincidência do réu e estabeleceram o regime intermediário com fulcro na reincidência e nos maus antecedentes do acusado, elementos idôneos, conforme jurisprudência desta Corte Superior, para a manutenção do decisum impugnado.
+Ademais, o gabinete verificou, em consulta ao endereço eletrônico do Tribunal de origem, a juntada de petição no dia 26/3/2018, logo após a intimação da Defensoria Pública acerca do inteiro teor do acórdão, a indicar a interposição de recurso especial na origem.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+À vista do exposto, nos termos do art. 210, do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
