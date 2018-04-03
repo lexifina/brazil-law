@@ -1,0 +1,51 @@
+EMENTA
+TRIBUTÁRIO. PIS. CSLL. RETENÇÃO NA FONTE. SERVIÇOS HOSPITALARES. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DO STJ. SÚMULA 83/STJ.
+1. O Superior Tribunal de Justiça consolidou o entendimento de que as empresas prestadoras de serviço médicos hospitalares não estão submetidas à sistemática de retenção do PIS e da CSLL na fonte pagadora, prevista nos arts. 30 e 31 da Lei 10.833/03. Precedentes: AgRg no Ag 1.428.900/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 6.3.2012; AgRg no REsp 1.110.263/SC, Rel. Min. Eliana Calmon, Segunda Turma, DJe 27.5.2010; REsp 1.141.299/SC, Rel. Min. Castro Meira, Segunda Turma, DJe 10.2.2010.
+2. Incidência da Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+3. Orientação aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, do permissivo constitucional. Precedentes: REsp 1.684.720/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2017; AgRg no AREsp 677.039/SC, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 5.5.2015; AgRg nos EDcl no REsp 1.459.299/DF, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 31.3.2015.
+4. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição Federal) interposto contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+TRIBUTÁRIO. APELAÇÃO EM MANDADO DE SEGURANÇA. IRPJ E CSLL. EMPRESA PRESTADORA DE SERVIÇOS HOSPITALARES. PIS E CSLL. RETENÇÃO NA FONTE.
+1. A expressão "serviços hospitalares" contida na Lei 9.249/95 deve ser interpretada de modo que se abranja os serviços que se vinculam às atividades desenvolvidas por hospitais, voltados diretamente à promoção da saúde, prestadas, em regra (mas não necessariamente), no interior do estabelecimento hospitalar, excluindo-se as consultas médicas 2. A receita bruta auferida pela impetrante que for proveniente dos serviços hospitalares prestados deve sofrer a incidência, relativa ao IRPJ, de 8% (oito por cento) e, relativa a CSLL, de 12% (doze por cento).
+3. Configurada a classificação da recorrente como empresa prestadora de serviços médicos, caracteriza-se a não retenção na fonte do PIS e da CSLL, nos pagamentos realizados pelas pessoas jurídicas a outras pessoas jurídicas de direito privado pela prestação dos serviços médicos hospitalares, conforme interpretação conjunta dos arts. 30 da Lei n2 10.833/03, art. 14, §4º , da IN SRF nº 381/03 e 647 do Decreto nº 3.000/99.
+4. Apelação provida.
+Os Embargos de Declaração foram providos, com efeitos infringentes, determinando-se a aplicação da alteração introduzida pela Lei 11.718/08, que modificou o art. 15, III, "a", da Lei 9.249/95.
+A parte recorrente alega, em breve síntese, violação do art. 30, caput, e §1º, II, da Lei 10.833/2003. Aduz que "ao contrário do disposto no v. acórdão regional, a interpretação conjunta do art. 30 da Lei n. 10.833/2003, do art. 1º da IN SRF n. 381/2003 e do art. 647 do Decreto n. 3.000/99 (Regulamento do Imposto de Renda), não conduz à conclusão no sentido do afastamento da obrigação de retenção das contribuições sociais na fonte em relação aos pagamentos recebidos pela impetrante, em decorrência dos serviços profissionais por ela prestados a outras pessoas jurídicas de direito privado".
+Sem contrarrazões.
+O Recurso Especial não foi admitido pelo Tribunal de origem, em virtude do óbice da Súmula 7/STJ.
+Dei provimento ao Agravo em Recurso Especial, para determinar sua conversão em Recurso Especial, sem prejuízo de exame mais profundo de admissibilidade.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2.3.2018.
+A irresignação não merece acolhida.
+O Superior Tribunal de Justiça consolidou o entendimento de que as empresas prestadoras de serviço médicos hospitalares não estão submetidas à sistemática de retenção do PIS e da CSLL na fonte pagadora, prevista nos arts. 30 e 31 da Lei 10.833/03.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CSLL. COFINS. PIS. RETENÇÃO NA FONTE. CENTRO DE MEDICINA HIPERBÁRICA. INCLUSÃO NO CONCEITO DE SERVIÇOS HOSPITALARES.
+1. As pessoas jurídicas prestadoras de serviço médico-hospitalar não se submetem ao regime de retenção previsto no art. 33 da Lei 10.833/03.
+2. Sobre o conceito de serviço hospitalar esta Corte assim se pronunciou: "Deve-se entender como "serviços hospitalares" aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde. Em regra, mas não necessariamente, são prestados no interior do estabelecimento hospitalar, excluindo-se as simples consultas médicas, atividade que não se identifica com as prestadas no âmbito hospitalar, mas nos consultórios médicos". (Resp. 951.251/PR, DJe 3.6.2009).
+3. No caso, trata-se de entidade que presta serviços especializados em medicina hiperbárica, o que não se confunde com simples consulta médica. A atividade da recorrida se enquadra, sem dúvida, no conceito de serviços hospitalares estabelecido pelo precedente citado.
+4. Agravo Regimental não provido. (AgRg no Ag 1.428.900/MG, Rel. Min. Herman Benjamin, Segunda Turma, DJe 6.3.2012)
+PROCESSUAL CIVIL E TRIBUTÁRIO - AGRAVO REGIMENTAL - RECURSO ESPECIAL - CSLL - COFINS - PIS - RETENÇÃO NA FONTE - SERVIÇOS DE HEMODIÁLISE - INCLUSÃO NO CONCEITO DE SERVIÇO HOSPITALAR - PRECEDENTES.
+1. Não estão sujeitos à retenção na fonte da CSLL, da COFINS e da Contribuição ao PIS os pagamentos efetuados pelas pessoas jurídicas a outras pessoas jurídicas de direito privado pela prestação de serviços médicos hospitalares. (artigos 30 da Lei 10.833/03, 1º, § 4º, da IN SRF 381/03 e 647 do Decreto nº 3.000/99 (Regulamento do Imposto de Renda).
+2. A atividade desenvolvida pela recorrida refere-se a serviços de hemodiálise, como bem definido no Tribunal de origem, "necessitando de estabelecimento apropriado, consultório ou clínica, de aparato humano e tecnológico aptos, com custo elevado que justifica a incidência ou base de cálculo mitigada, assim como os dispêndios operacionais de montante elevado com aparelhagem sofisticada, leitos hospitalares e outros serviços correlatos, estando a merecer carga fiscal mais amena.
+3. Conceito firmado pela Primeira Seção desta Corte Superior, nos autos do RESP 951.251/PR, ao definir o alcance do disposto no art. 15, § 1º, III, "a", da Lei 9.249/95, aplicável também à hipótese dos autos.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.110.263/SC, Rel. Min. Eliana Calmon, Segunda Turma, DJe 27.5.2010)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IMPOSTO DE RENDA. CSLL. LUCRO PRESUMIDO. BASE DE CÁLCULO. ARTS. 15, § 1º, III, "A", E 20 DA LEI Nº 9.249/95. ANÁLISES CLÍNICAS E LABORATÓRIO. INCLUSÃO NO CONCEITO DE SERVIÇO HOSPITALAR. PRECEDENTE DA PRIMEIRA SEÇÃO. RETENÇÃO NA FONTE.
+1. O acórdão foi proferido antes do advento das alterações introduzidas pela Lei nº 11.727, de 2008. Os arts. 15, § 1º, III, "a", e 20 da Lei nº 9.249/95 explicitamente concedem o benefício fiscal de forma objetiva, com foco nos serviços que são prestados, e não no contribuinte que os executa.
+2. A redução do tributo, nos termos da lei, não se baseou nos custos arcados pelo contribuinte, mas na natureza do serviço, essencial à população por estar ligado à garantia do direito fundamental à saúde, nos termos do art. 6º da Constituição Federal.
+3. Deve-se entender como "serviços hospitalares" aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde e que, em regra, mas não necessariamente, são prestados no interior do estabelecimento hospitalar, excluindo-se as simples consultas médicas, atividade que não se identifica com as prestadas no âmbito hospitalar, mas nos consultórios médicos. Precedente da Primeira Seção.
+4. No caso, trata-se de entidade que presta serviços especializados em análises clínicas e laboratoriais. Não se está diante de simples consulta médica, mas de atividade que se insere, indubitavelmente, no conceito de "serviços hospitalares".
+5. A redução da base de cálculo somente deve favorecer a atividade tipicamente hospitalar desempenhada pela recorrente, excluídas as simples consultas e outras atividades de cunho administrativo.
+6. Entendimento ratificado pela Primeira Seção no julgamento do REsp 1.116.399/BA, Rel. Min. Benedito Gonçalves  sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08.
+7. Conclui-se da interpretação conjunta dos artigos 30 da Lei nº 10.833/03, 1º, § 4º, da IN SRF nº 381/03 e 647 do Decreto nº 3.000/99 (Regulamento do Imposto de Renda), que não estão sujeitos à retenção na fonte da CSLL e da Contribuição ao PIS os pagamentos efetuados pelas pessoas jurídicas a outras pessoas jurídicas de direito privado pela prestação de serviços médicos hospitalares.
+8. Recurso especial provido em parte. (REsp 1.141.299/SC, Rel. Min. Castro Meira, Segunda Turma, DJe 10.2.2010)
+Dessume-se, assim, que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal. Nesse sentido: REsp 1.684.720/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2017; AgRg no AREsp 677.039/SC, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 5.5.2015; AgRg nos EDcl no REsp 1.459.299/DF, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 31.3.2015.
+Diante do exposto, nego provimento ao Recurso Especial.
+É como voto.
