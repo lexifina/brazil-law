@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo de instrumento interposto por AMERICAN AIRLINES INC, contra decisão interlocutória que negou seguimento a recurso especial fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Compulsando os autos, verifica-se que, em 30/03/2010, o então relator dos presentes autos, Ministro Massami Uyeda, negou provimento ao agravo de instrumento, em razão da aplicabilidade da Súmula 83/STJ.
+Mencionada decisão foi mantida, em razão de posterior negativa de provimento ao agravo regimental e de não acolhimento dos embargos de declaração da parte agravante, tendo-se sucedido a interposição de recurso extraordinário por parte desta.
+Em 28/02/2011, contudo, diante da decisão do STF nos autos do AI 762.184/RJ (Rel. Min. Cezar Peluso), que reconheceu a repercussão geral da questão alusiva à possibilidade de limitação, com fundamento na Convenção de Varsóvia, das indenizações de danos morais e materiais, decorrentes de extravio de bagagem, determinou-se o sobrestamento do recurso, até o julgamento final da matéria.
+Em virtude da ocorrência do julgamento do RE 636.331, que firmou a tese de que "nos termos do art. 178 da Constituição da República, as normas e os tratados internacionais limitadores da responsabilidade das transportadoras aéreas de passageiros, especialmente as Convenções de Varsóvia e Montreal, têm prevalência em relação ao Código de Defesa do Consumidor" (Tema 210/STF), os presentes autos tornaram ao órgão julgador para fins do disposto no art. 1.040, inciso II, do Código de Processo Civil.
+Destarte, para melhor exame, DOU PROVIMENTO ao agravo de instrumento e determino a subida dos autos do recurso especial.
+Publique-se. Intimem-se.
