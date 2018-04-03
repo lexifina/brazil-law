@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AUSÊNCIA DE PAGAMENTO. DESERÇÃO. CPC/73. APLICABILIDADE.
+1. O marco temporal de aplicação do Código de Processo Civil de 2015 é a publicação da decisão recorrida que, na hipótese, foi realizada sob a égide do Código Processual de 1973.
+2. A comprovação do recolhimento das custas judiciais deve ser feita no ato de interposição do recurso, sendo inadmissível posterior regularização, em razão da preclusão consumativa, ressalvada a hipótese de insuficiência do preparo, em que é autorizada a concessão do prazo estabelecido no § 2º do art. 511 do CPC. Precedente da 2ª Seção.
+3. Agravo em recurso especial conhecido. Recurso especial não provido.
+DECISÃO
+Em virtude das razões apresentadas no agravo interno de e-STJ fls. 386/390, reconsidero a decisão de e-STJ fl. 383 e passo a novo exame do recurso interposto por [NOME], contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: cominatória cumulada com obrigação de fazer ajuizada pelo agravante em face de [NOME], na qual pleiteia a determinação de medidas de proteção e garantia de "sobrevivência da represa".
+Sentença: julgou improcedente o pedido, nos termos do art. 269, I, do CPC/73.
+Acórdão: não conheceu a apelação interposta pelo agravante e negou provimento à apelação interposta por [NOME], conforme a seguinte ementa:
+APELAÇÃO - AÇÃO PELO RITO ORDINÁRIO - AUSÊNCIA DE PREPARO - ART. 511 DO CPC - DESERÇÃO DO PRIMEIRO RECURSO - HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA. Nos termos do art. 511 do CPC, o preparo do recurso deve ser comprovado no ato de sua interposição, sob pena de deserção. Hipótese em que a parte assim não procedeu, razão pela qual é deserto o recurso por ela interposto. Não há como se acolher o pedido firmado no recurso, se ele representa prejuízo a própria parte que o formulou. Honorários advocatícios sucumbenciais mantidos, tal como fixados na sentença. (e-STJ fl. 289)
+Embargos de Declaração: opostos pelo agravado, foram acolhidos para majorar a verba honorária, fixando-a em R$ 2.000,00 (dois mil reais).
+Recurso especial: alega violação dos arts. 1.007, §§ 4º e 6º, do CPC/15, bem como dissídio jurisprudencial. Sustenta, em síntese, que não foi oportunizada a possibilidade de comprovar a regularidade do preparo. Assevera que instruiu seu apelo com as guias de recolhimento relativas ao preparo. Relata que interpôs recurso sob a égide do CPC/73 e seu julgamento foi realizado na vigência do CPC/15, assim, deveria ter sido intimado para comprovar o preparo.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da deserção
+Conforme certidão de e-STJ fl. 224 a publicação da sentença apelada ocorreu em 22/01/2015, quando em vigor o CPC de 1973.
+Assim, os requisitos de admissibilidade da apelação devem ser analisados com fundamento no CPC de 1973, é o que se depreende do Enunciado Administrativo 2 do STJ:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Nesse contexto, é assente o entendimento nesta Corte, segundo o qual a apelação é deserta, quando na sua interposição não é comprovado o preparo, o que afasta a possibilidade de abertura de prazo para regularização do vício, como na hipótese dos autos em que foram colacionados aos autos "a guia de recolhimento de custas e taxas judiciárias (..) sem qualquer autenticação mecânica e sem qualquer outro elemento que demonstre o pagamento" (e-STJ fl. 292).
+Acerca do tema, destaca-se entendimento da 2ª Seção:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. NÃO RECOLHIMENTO DO PREPARO TEMPESTIVAMENTE. COMPROVANTE DE PAGAMENTO DE CUSTAS. JUNTADA TARDIA. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA.
+1. A comprovação do recolhimento das custas judiciais deve ser feita no ato de interposição do recurso, sendo inadmissível posterior regularização, em razão da preclusão consumativa, ressalvada a hipótese de insuficiência do preparo, em que é autorizada a concessão do prazo estabelecido no § 2º do art. 511 do CPC. Precedentes.
+2. No caso, consoante assentado pelo Tribunal de origem, o preparo não foi recolhido tempestivamente, o que tem o condão de descaraterizar a dissonância fático-processual entre os julgados confrontados. 3. Agravo interno não provido (AgInt nos EREsp n. 1.554.549/SP, SEGUNDA SEÇÃO, DJe de 18/11/2016).
+Não há que se falar em concessão de prazo para a complementação do preparo ou apresentação da guia de pagamento, nos termos do art. 511 do CPC/73 (correspondente ao art. 1007 do CPC/15), pois a intimação para complementação só é admitida quando pago valor de forma insuficiente e não quando ausente qualquer pagamento, como na hipótese dos autos.
+Desse modo, encontrando-se deficiente o recolhimento do preparo por ocasião da interposição da apelação, em razão da ausência de "qualquer autenticação mecânica e sem qualquer outro elemento que demonstre o pagamento" (e-STJ fl. 292), deve ser mantido o acórdão que declarou a deserção da apelação do agravante.
+Forte nessas razões, CONHEÇO do agravo em recurso especial e, com fundamento no art. 255, §4º, II do RIST e 932, IV, "a" do CPC/15, bem como na Súmula 568/STJ, NEGO PROVIMENTO ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários sucumbenciais de R$ 2.000,00 (e-STJ fl. 311) para R$ 2.500,00.
