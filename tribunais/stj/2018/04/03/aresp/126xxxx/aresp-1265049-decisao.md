@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MUNICÍPIO DE IVINHEMA, em 14/03/2018, contra decisão do Tribunal de Justiça do Estado de Mato Grosso do Sul, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"E M E N T A - AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA - MUNICÍPIO DE IVINHEMA E ESTADO DE MATO GROSSO DO SUL - FORNECIMENTO DO MEDICAMENTO ALFAEPOETINA HUMANA RECOMBINANTE - IDOSA PORTADORA DE [NOME] - ATENDIMENTO REALIZADO POR MÉDICO DO SISTEMA ÚNICO DE SAÚDE - FÁRMACO PADRONIZADO NA RENAME - TUTELA DE URGÊNCIA - PRESENÇA DOS REQUISITOS ENSEJADORES - MULTA DIÁRIA - POSSIBILIDADE - RECURSO CONHECIDO E PROVIDO.
+Presentes os requisitos ensejadores da tutela de urgência, é dever do magistrado a sua concessão, para condenar o Município de Ivinhema e o Estado de Mato Grosso do Sul a fornecer o medicamento pleiteado pelo cidadão substituído" (fl. 151e).
+Nas razões do Recurso Especial, aduz a parte recorrente violação ao art. 300 do CPC/2015, argumentando o seguinte:
+"Portanto, o acórdão recorrido negou vigência ao caput do artigo 300 do CPC-73 ao conceder tutela antecipada sem prova da verossimilhança do direito e sem que haja receio de dano irreparável, consoante parecer do próprio NAT.
+Acresça-se, ademais, que o acórdão recorrido também contraria o § 3º do art. 300 do Código de Processo Civil, pois a tutela de urgência em comento possui caráter satisfativo e irreversível, na medida em que, cumprida a ordem judicial, nada poderá fazer o município recorrido caso a decisão final do feito lhe seja favorável.
+Assim, dada a natureza satisfativa e irreversível da tutela de urgência em questão, deve ser reformado o acórdão recorrido, especialmente porque não se trata de caso de urgência ou de emergência, não havendo, destarte, risco à vida do cidadão.
+Com isso, é evidente que o Tribunal de Justiça de Mato Grosso do Sul contrariou o artigo 300, caput e § 3º, do CPC quando, reformando por maioria decisão singular embasado em parecer técnico, concedeu a tutela de urgência no caso vertente.
+Por essas razões, com a devida vênia ao i. prolator da decisão, entende o município recorrente que a decisão recorrida merece pronta reforma para que seja indeferida a antecipação da tutela" (fls. 175/176e).
+Requer, ao final, o provimento do recurso.
+Apresentadas as contrarrazões (fls. 186/195e), negado seguimento ao Recurso Especial (fls. 197/200e), foi interposto o presente Agravo (fls. 205/212e).
+Apresentada a contraminuta a fls. 218/223e.
+A irresignação não merece acolhimento.
+Com efeito, esta Corte já decidiu que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp 438.485/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 17/02/2014).
+Aplica-se, na espécie, por analogia, a Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR. APOSENTADORIA. VERBA DE NATUREZA ALIMENTAR. ARESTO RECORRIDO CONSIGNOU QUE O RISCO A SER SUPORTADO É MUITO ELEVADO SE INDEFERIDO O PEDIDO CAUTELAR. REEXAME DE PROVAS. SÚMULA 7/STJ. SÚMULA 735 DO STF.
+1. O agravante não trouxe argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. Segundo precedentes deste Superior Tribunal "não pode ser conhecido o recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa, que, em liminar, é tratada apenas sob juízo precário de mera verossimilhança. Quanto a tal matéria, somente haverá "causa decidida em única ou última instância" com o julgamento definitivo". (REsp 765.375/MA, Rel. Ministro TEORI ALBINO ZAVASCKI, Primeira Turma, julgado em 06/04/2006, DJ 08/05/2006).
+3. Inteligência da Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+4. Agravo regimental não provido" (STJ, AgRg no AREsp 399.287/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 05/02/2014).
+Ademais, verifica-se que a questão foi dirimida, pelo Tribunal a quo, com base nos requisitos da antecipação de tutela, concluindo a instância de origem que "a verossimilhança das alegações está presente", uma vez que "restou comprovado que a substituída, pessoa idosa, é portadora da [NOME] [NOME] (CID 10 D26), necessitando fazer uso do fármaco indicado pelo médico responsável, sendo a paciente atendida através do Sistema Único de Saúde, sendo assistida no Hospital Universitário da Universidade Federal da Grande Dourados, conforme receituário médico de fl. 34" (fls. 154/155e).
+Desse modo, a revisão do entendimento do Tribunal a quo e a conclusão pela ausência, na hipótese, dos requisitos autorizadores da antecipação de tutela, demandaria o reexame do conteúdo fático-probatório dos autos, vedado pela Súmula 7/STJ.
+A propósito:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. ACÓRDÃO QUE DEFERIU ANTECIPAÇÃO DE TUTELA. ANÁLISE DO MÉRITO DA DEMANDA. IMPOSSIBILIDADE. SÚMULA 735/STF. REEXAME. SÚMULA 7/STJ.
+1. Em recurso especial contra acórdão que nega ou concede medida cautelar ou antecipação da tutela, a questão federal passível de exame é apenas a que diz respeito aos requisitos da relevância do direito e do risco de dano, previstos nos arts. 804 e 273 do Código Processo Civil.
+2. Segundo a jurisprudência pacífica deste Tribunal, a verificação da presença ou não dos pressupostos para o deferimento da antecipação de tutela demanda a incursão no conjunto fático-probatório dos autos, diligência vedada na via especial, em razão do óbice contido na Súmula 7 do STJ.
+3. Aplicação analógica da Súmula 735 do Supremo Tribunal Federal: "Não cabe recurso extraordinário contra acórdão que defere medida liminar".
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 406.477/MA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 27/03/2014).
+"PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC INEXISTENTE. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. RECURSO ESPECIAL QUE TRATA APENAS DO MÉRITO DA DEMANDA. INVIABILIDADE. ACÓRDÃO RECORRIDO INATACADO.
+INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. TUTELA ANTECIPADA. REQUISITOS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ.
+(..)
+5. A iterativa jurisprudência desta Corte é no sentido de que, para análise dos critérios adotados pela instância ordinária que ensejaram a concessão ou não da liminar ou da antecipação dos efeitos da tutela, é necessário o reexame dos elementos probatórios a fim de aferir a "prova inequívoca que convença da verossimilhança da alegação", nos termos do art. 273 do CPC, o que não é possível em recurso especial, dado o óbice do enunciado 7 da súmula desta Corte.
+Agravo regimental improvido" (STJ, AgRg no AREsp 414.347/ES, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 27/11/2013).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
