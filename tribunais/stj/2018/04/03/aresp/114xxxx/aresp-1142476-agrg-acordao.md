@@ -1,0 +1,29 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO (ART. 155, § 4º, INCISOS I E II, CP). SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. ART. 44 DO CP. INVIABILIDADE.
+1. O art. 44 do Código Penal possibilita a concessão da substituição da pena ao condenado, desde que a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indiquem que essa substituição seja suficiente. Embora estabelecida a pena definitiva menor que 4 anos de reclusão, a pena-base foi fixada acima do mínimo legal, em razão da existência de circunstância judicial negativa (culpabilidade do acusado), o que justifica a negativa de substituição da pena corporal por restritiva de direitos.
+2. Ademais, no caso dos autos, o Tribunal de origem entendeu que quaisquer penas alternativas possivelmente não seriam cumpridas adequadamente pelo sentenciado, diante da informação de que se encontra em local incerto e não sabido. Assim, não há como alterar esse entendimento no recurso especial, em razão do óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por UALISON COSTA ARAUJO (e-STJ fls. 247/255) contra decisão monocrática de e-STJ fls. 197/206, que conheceu do agravo para não conhecer do seu recurso especial.
+A parte agravante alega, em síntese, que todas as circunstâncias judiciais encetadas no artigo 44 do Código Penal são favoráveis ao recorrente, de forma que não poderiam os doutos julgadores alegarem, de forma genérica, a existência de uma circunstância judicial desfavorável e, a partir desta avaliação, não conceder o direito à substituição da pena privativa de liberdade por restritiva de direitos, sob pena de se configurar arbítrio e violar o princípio constitucional da individualização da pena (e-STJ fls. 297).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Primeiramente, no que tange à pena-base, a Corte de origem manteve a majoração da pena-base, ao argumento de que, havendo duas qualificadoras - rompimento de obstáculo e escalada -, uma pode ser usada para qualificar o delito e a outra para dar ensejo ao aumento da reprimenda.
+Tal posicionamento encontra-se no mesmo sentido da jurisprudência desta Corte Superior de Justiça de que, havendo mais de uma qualificadora no furto, uma delas pode formar o tipo qualificado e as demais podem ser utilizadas para agravar a pena na segunda etapa da dosimetria ou para elevar a pena-base na primeira fase do cálculo. Precedentes: AgRg no AREsp 853.227/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/10/2017, DJe 31/10/2017; HC 375.749/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/12/2016, DJe 16/12/2016; HC 350.239/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/11/2016, DJe 06/12/2016; AgRg no REsp 1608983/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/10/2016, DJe 14/10/2016)
+Assim, havendo a Corte de origem reconhecido duas qualificadoras, não há qualquer ilegalidade em se utilizar uma para qualificar o crime, e a outra para majorar a pena-base.
+No que tange à substituição, o art. 44 do Código Penal possibilita a concessão da substituição da pena ao condenado, desde que a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.
+Dessa forma, embora estabelecida a pena definitiva menor que 4 anos de reclusão, a pena-base foi fixada acima do mínimo legal, em razão da existência de circunstância judicial negativa (culpabilidade do acusado), como visto acima, o que justifica a negativa de substituição da pena corporal por restritiva de direitos. Precedentes: HC 378.293/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/02/2017, DJe 02/03/2017; AgRg no AREsp 819.791/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/09/2016, DJe 26/09/2016; HC 296.382/RJ, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 18/8/2016, DJe 24/8/2016; HC 352.426/RJ, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 24/5/2016, DJe 2/6/2016; AgRg no AREsp 845.113/SP, Rel. Ministro ERICSON MARANHO, Desembargador Convocado do TJ/SP, Sexta Turma, julgado em 15/3/2016, DJe 31/3/2016.
+Ademais, no caso dos autos, o Tribunal de origem entendeu que quaisquer penas alternativas possivelmente não seriam cumpridas adequadamente pelo sentenciado, diante da informação de que se encontra em local incerto e não sabido (e-STJ fl. 203). Assim, não há como alterar esse entendimento no recurso especial, em razão do óbice do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
