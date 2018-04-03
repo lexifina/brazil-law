@@ -1,0 +1,17 @@
+Decisão
+Trata-se de Recurso Extraordinário interposto pela CIOCCARI & CIA LTDA., com amparo no art. 102, III, da Constituição Federal, em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (Evento 8, e-STJ, fl. 1059, Vol. 2):
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. VERBAS DE NATUREZA REMUNERATÓRIA.
+    Há incidência de contribuição previdenciária nos pagamentos efetuados a título de adicional de insalubridade e periculosidade, de horas extras, de férias gozadas e faltas abonadas por atestados médicos.”
+    No apelo extremo, alega-se que o julgado ofendeu 7º, XVI, e 195, I, “a”, da CF/88.
+    É o relatório. Decido.
+    Quanto ao adicional de insalubridade, às horas extras, às férias gozadas e às faltas abonadas por atestados médicos, o Tribunal de origem consignou incidir contribuição previdenciária sobre tais verbas ao argumento de possuírem caráter salarial.
+    Sobre a matéria, a jurisprudência do SUPREMO TRIBUNAL FEDERAL é firme no sentido de que a controvérsia acerca da natureza remuneratória ou indenizatória das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame de legislação infraconstitucional. Nesse sentido, citem-se precedentes de ambas as Turmas desta CORTE:
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. NATUREZA JURÍDICA. CARÁTER INFRACONSTITUCIONAL DA CONTROVÉRSIA. PRECEDENTES. 1. Nos termos da jurisprudência da Corte, a controvérsia relativa à natureza remuneratória ou indenizatória das verbas percebidas pelo contribuinte, para fins de incidência da contribuição previdenciária, demanda o reexame da legislação infraconstitucional. 2. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 968.110-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 10/2/2017).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE TRIBUTOS BASEADA NA NATUREZA JURÍDICA DA VERBA. CONTRIBUIÇÃOPREVIDENCIÁRIA PATRONAL. CARÁTER INFRACONSTITUCIONAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO COM APLICAÇÃO DE MULTA. 1. A jurisprudência do Supremo se consolidou no sentido de ser infraconstitucional a discussão acerca da incidência de tributos, notadamente contribuição previdenciária ou imposto de renda, baseada na natureza da verba. 2. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessária a análise da legislação infraconstitucional aplicável à espécie. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. (RE 1.013.951-AgR, Rel. Min. EDSON FACHIN, Segunda Turma, DJe de 5/9/2017).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO interposto por CIOCCARI & CIA LTDA.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 3 de abril de 2018.
+Ministro Alexandre de Moraes
+relator
+documento assinado digitalmente
