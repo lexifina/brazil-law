@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal, incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 504/506).
+O aresto impugnado ficou assim ementado (e-STJ fl. 407):
+Mandato. Ação de arbitramento. Alteração dos honorários advocatícios arbitrados. Descabimento.
+Remuneração condigna do trabalho realizado pelo causídico. Autor que decaiu em parte considerável do pedido. Sucumbência recíproca mantida.
+Recursos improvid
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 426/429).
+No especial (e-STJ fls. 431/450), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 22 da Lei n. 8.906/1994 e 658, parágrafo único, do CC/2002, sustentando que o valor fixado a título de honorários advocatícios seria irrisório.
+Apontou ainda afronta ao art. 21 do CPC/1973, argumentando a inexistência de sucumbência recíproca.
+No agravo (e-STJ fls. 511/519), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelo recorrido (e-STJ fls. 523/528).
+É o relatório.
+Decido.
+De início, verifica-se que o conteúdo dos arts. arts. 22 da Lei n. 8.906/1994 e 658, parágrafo único, do CC/2002, não foi analisado pela Corte local, mesmo após a oposição dos embargos de declaração. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Ainda que assim não fosse, somente em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor da verba honorária, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar sua revisão.
+No caso, o Tribunal de origem, tendo em vista as peculiaridades do caso concreto, consignou que (e-STJ fls. 410/411):
+E, a partir da análise dos autos, cumpre observar que o laudo pericial de fls. 255/281 detalhou a atuação do autor na ação em que atuou como patrono da ré, extraindo-se que o seu trabalho se iniciou já na fase recursal e se resumiu na elaboração e protocolo de três petições simples, as quais não ultrapassaram uma lauda, despidas de qualquer complexidade e que foram feitas em tempo exíguo, sendo que duas delas se referem à juntada de substabelecimento e solicitação de anotação do nome no sistema, ou seja, práticas usuais e rotineiras na vida forense, revelando-se desarrazoado o valor apontado na inicial de 20% sobre o valor de R$ 844.712,16 discutido nos referidos embargos.
+No entanto, o valor de R$ 3.376,35 estimado pelo douto perito levou em consideração apenas as petições de baixa complexidade elaboradas pelo autor, deixando de considerar o trabalho despendido para o acompanhamento da ação ao longo do tempo que atuou como representante processual da ré.
+Assim, conforme bem observado pelo douto magistrado de primeiro grau, ainda que se trate de atos de baixa complexidade, é certo que a procuração que outorgou poderes ao autor previu que cabia a este o acompanhamento das ações da ré, de modo que também deve ser remunerado por tal serviço. E, tendo em vista que permaneceu com poderes de representação da ré por quase 11 anos entre a petição de fls. 51 e a de fls. 77, revela-se adequado o arbitramento de valor de R$ 8.000,00 para remunerar os serviços advocatícios prestados pelo autor.
+Portanto, o valor estabelecido pelas instâncias de origem em R$ 8.000,00 (oito mil reais) não se mostra irrisório e não enseja a intervenção do STJ.
+Quanto à extensão da sucumbência, a Corte local se manifestou no seguinte sentido (e-STJ fl. 411):
+De outra banda, cumpre observar que, embora o autor tenha defendido em suas razões recursais a incidência de juros de mora sobre o valor da condenação a partir da citação, é certo que a r. sentença assim o determinou, devendo ser mantida em seu integral teor, inclusive no que tange à sucumbência recíproca reconhecida, uma vez que o autor pleiteou o arbitramento de honorários advocatícios em 20% sobre os R$ 844.712,16 discutidos na ação em que atuou, mas a condenação da ré se limitou ao importe de R$ 8.000,00, sendo o suficiente para concluir que sua sucumbência não foi mínima.
+Considerando, no entanto, que as instâncias ordinárias julgaram parcialmente procedente a demanda para condenar a ré ao pagamento de R$ 8.000,00 (oito mil reais) - e não 20% (vinte por cento) sobre os R$ 844.712,16 (oitocentos e quarenta e quatro mil, setecentos e doze reais e dezesseis centavos) discutidos na ação conforme requerido na incial -, fica caracterizada, na hipótese, a sucumbência recíproca, nos termos do art. 21, parágrafo único, do CPC/1973.
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
