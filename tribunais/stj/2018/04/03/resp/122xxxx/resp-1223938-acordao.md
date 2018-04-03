@@ -1,0 +1,79 @@
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. HABILITAÇÃO. HERDEIROS. CITAÇÃO. LITISCONSÓRCIO NECESSÁRIO. AUSÊNCIA. NULIDADE. OMISSÃO. INEXISTÊNCIA.
+1. Inexiste contrariedade ao art. 535 do CPC/1973 quando a Corte de origem decide clara e fundamentadamente todas as questões postas a seu exame. Ademais, não se deve confundir decisão contrária aos interesses da parte com ausência de prestação jurisdicional.
+2. Ocorre nulidade, passível de ser objeto até mesmo de ação declaratória de nulidade insanável, se os herdeiros necessários deixam de ser citados em processo de habilitação. A hipótese não se confunde com o caso de sobrepartilha, de habilitação de todos os herdeiros necessários ou com a impossibilidade de questionamento pelo ente expropriante do levantamento do preço pelo espólio. Correta, portanto, a decisão que cassa sentença em que a citação dos litisconsortes necessários deixou de ser promovida.
+3. Recurso especial a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 235):
+APELAÇÃO CÍVEL. HABILITAÇÃO. CUMPRIMENTO DE SENTENÇA PROFERIDA EM DESAPROPRIAÇÃO. FALECIMENTO DO EXPROPRIADO. SUCESSÃO. ESPÓLIO. DESCONHECIMENTO SOBRE A EXISTÊNCIA DE INVENTÁRIO. HERDEIROS. LITISCONSÓRCIO NECESSÁRIO. FALTA DE CITAÇÃO. NULIDADE. - Ocorrendo a morte do expropriado, na fase de cumprimento da sentença proferida na ação de desapropriação, a parte deve ser sucedida pelo espólio ou seus herdeiros.
+- Para fins de habilitação, incumbe à pleiteante demonstrar, além da condição de herdeira, se houve inventário e se este se encontra encerrado, assim como se o bem envolvido no processo foi objeto de partilha.
+- Na habilitação deve ser promovida a citação dos demais herdeiros, que possuem interesse na causa, sob pena de resultar ineficaz a e sentença, posto que a sucessão, quando encerrado o inventário, deve abranger todos os titulares do direito, em litisconsórcio.
+- Preliminares e questões prejudiciais rejeitadas.
+- Sentença cassada.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 267-271).
+Alega a parte recorrente contrariedade aos arts. 32 a 34 do Decreto-Lei 3.365/1941; 43, 46, 47, 128, 265, 302, 514, III, 535, 1.040, 1.055 a 1.062, do Código de Processo Civil/1973; e 104, 166 a 170, 2.021, 2.022 e 2.026 do Código Civil/2002.
+Defende, em síntese: i) nulidade por omissão quanto a estar preclusa a irresignação do Estado quanto à habilitação da recorrente como sucessora; ii) impossibilidade de cassação de ofício da sentença por mera ausência de inventário; iii) incidência do regramento próprio das expropriatórias, para solução de eventual dúvida quanto ao domínio em ação própria, somente por ocasião do levantamento dos valores indenizatórios; iv) preclusão quanto à condição de sucessor da recorrente; v) possibilidade de seguimento do processo com a habilitação de somente um dos sucessores e, consequentemente, desnecessidade de citação de todos os demais; vi) inexistência de nulidade absoluta da sentença; vii) possibilidade de submissão do caso a sobrepartilha, por se tratar de bem litigioso.
+Apresentadas contrarrazões (e-STJ, fls. 329-339), o recurso especial foi admitido por decisão desta Corte (e-STJ, fl. 373).
+Parecer pelo não conhecimento (e-STJ, fl. 387).
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Registro, de início, não prosperar a tese de violação ao art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+A Corte de origem resolveu a matéria relativa à sucessão nos seguintes termos (e-STJ, fls. 242-243):
+Pois bem. O dispositivo processual se refere à substituição pelo espólio ou pelos sucessores do falecido. A sucessão processual por um ou outro não decorre de mera faculdade da parte ou do julgador, mas deve observar as circunstâncias peculiares dos bens deixados pelo de cujus.
+Havendo bens a inventariar, com o óbito deve ser iniciado o processo de inventário em que ocorrerá a partilha entre os herdeiros do conjunto patrimonial deixado. Enquanto não se encerrar o inventário nas demandas de conteúdo patrimonial, a substituição se dará pelo espólio, representado pelo inventariante.
+ ..
+Portanto, sobretudo no caso em que a habilitação não decorre de transmissão direta, mas envolve uma cadeia de sucessões que abrange cinco gerações, a mera condição de descendente de uma das partes não implica na qualidade de sucessor particularmente para o recebimento da indenização decorrente da desapropriação de determinado bem imóvel que pertenceu a [NOME] nos idos de 1940.
+Imprescindível se perquirir, no caso, a respeito do inventário de bens de cada um dos falecidos que se encontram na cadeia sucessória que conduz à pessoa dos habilitantes, a fim de se identificar a quem coube na partilha os direitos relativos ao imóvel expropriado.
+0 descendente não é necessariamente herdeiro e também não é certo que o herdeiro será sucessor do de cujus em determinada relação processual.
+Ademais, caso exista inventário ainda em andamento, o de cujus a que se referir deverá ser substituído pelo respectivo espólio e não pelos herdeiros.
+Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura qualquer vício passível de exame em embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. SERVIDOR PÚBLICO FEDERAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. REINTEGRAÇÃO. OFENSA AO ART. 557 DO CPC/1973. INOCORRÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em violação ao art. 557 do CPC/1973 alegada pela parte agravante, tendo em vista que a questão suscitada encontra óbice na Súmula 7/STJ, sendo o recurso especial, por conseguinte, manifestamente inadmissível. Ainda que assim não fosse, é de se ressaltar que fica superada eventual ofensa ao referido dispositivo legal, pelo julgamento colegiado do agravo regimental interposto contra a decisão singular do Relator. Precedentes.
+2. Inexiste violação aos arts. 458, II e 535, II, do CPC/1973, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda em toda a sua extensão, fazendo-o de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+ ..
+Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1.595.272/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 2/6/2016, DJe 8/6/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. INOCORRÊNCIA DA ALEGADA VIOLAÇÃO AOS ARTS. 535 E 458 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO REGIMENTAL DO ESTADO DO PARÁ A QUE SE NEGA PROVIMENTO.
+1. No caso, não há como acolher a alegada violação aos arts. 458, II e 535, II do CPC/73, visto que a lide foi resolvida com a devida fundamentação, ainda que sob ótica diversa daquela almejada pelo ora Recorrente. Todas as questões postas em debate foram efetivamente decididas, não tendo havido vício algum que justificasse o manejo dos Embargos Declaratórios.
+ ..
+3. Agravo Regimental do ESTADO DO PARÁ a que se nega provimento.
+(AgRg no AREsp 884.151/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 24/5/2016, DJe 13/6/2016)
+No mérito, anoto que o presente feito trata de execução de sentença transitada em julgado em 1964, que ainda se encontra em fase de habilitação de sucessores.
+Entretanto, a falta de citação válida dos herdeiros necessários efetivamente torna nulo o processo, a ponto de ensejar ação declaratória de nulidade insanável (querela nullitatis). A propósito:
+PROCESSUAL CIVIL. AUSÊNCIA DE CITAÇÃO DE LITISCONSORTE PASSIVO NECESSÁRIO. HABILITAÇÃO DOS HERDEIROS NECESSÁRIOS. REJEIÇÃO. CITAÇÃO DOS LITISCONSORTES. AUSÊNCIA. HIPÓTESE DE QUERELLA NULITATIS. ARGÜIÇÃO POR SIMPLES PETIÇÃO. POSSIBILIDADE.
+1. As hipóteses excepcionais de desconstituição de acórdão transitado em julgado por meio da ação rescisória estão arroladas de forma taxativa no art. 485 do Código de Processo civil. Pelo caput do referido dispositivo legal, evidencia-se que esta ação possui natureza constitutiva negativa, que produz sentença desconstitutiva, quando julgada procedente. Tal ação tem como pressupostos (i) a existência de decisão de mérito com trânsito em julgado; (ii) enquadramento nas hipóteses taxativamente previstas; e (iii) o exercício antes do decurso do prazo decadencial de dois anos (CPC, art. 495).
+2. O art. 485 em comento não cogita, expressamente, da admissão da ação rescisória para declaração de nulidade por ausência de citação, pois não há que se falar em coisa julgada na sentença proferida em processo em que não se formou a relação jurídica apta ao seu desenvolvimento. É que nessa hipótese estamos diante de uma sentença juridicamente inexistente, que nunca adquire a autoridade da coisa julgada. Falta-lhe, portanto, elemento essencial ao cabimento da rescisória, qual seja, a decisão de mérito acobertada pelo manto da coisa julgada. Dessa forma, as sentenças tidas como nulas de pleno direito e ainda as consideradas inexistentes, a exemplo do que ocorre quando proferidas sem assinatura ou sem dispositivo, ou ainda quando prolatadas em processo em que ausente citação válida ou quando o litisconsorte necessário não integrou o polo passivo, não se enquadram nas hipóteses de admissão da ação rescisória, face a inexistência jurídica da própria sentença porque inquinada de vício insanável.
+3. Apreciando questão análoga, atinente ao cabimento ou não de ação rescisória por violação literal a dispositivo de lei no caso de ausência de citação válida, o Supremo Tribunal Federal e o Superior Tribunal de Justiça já se posicionaram no sentido de que o vício apontado como ensejador da rescisória é, em verdade, autorizador da querela nullitatis insanabilis. Precedentes: do STF - RE 96.374/GO, rel. Ministro Moreira Alves, DJ de 30.8.83; do STJ - REsp n. 62.853/GO, Quarta Turma, rel. Min. Fernando Gonçalves, unânime, DJU de 01.08.2005; AR .771/PA, Segunda Seção, Rel. Ministro Aldir Passarinho Junior DJ 26/02/2007.
+4. No caso específico dos autos, em que a ação tramitou sem que houvesse citação válida do litisconsórcio passivo necessário, não se formou a relação processual em ângulo. Há, assim, vício que atinge a eficácia do processo em relação ao réu e a validade dos atos processuais subsequentes, por afrontar o princípio do contraditório. Em virtude disto, aquela decisão que transitou em julgado não atinge aquele réu que não integrou o polo passivo da ação. Por tal razão, a nulidade por falta de citação poderá ser suscitada por meio de ação declaratória de inexistência por falta de citação, denominada querela nullitatis, ou, ainda, por simples petição nos autos, como no caso dos autos.
+5. Recurso especial provido.
+(REsp 1.105.944/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/12/2010, DJe 8/2/2011)
+A abertura de inventário seria dispensada caso comprovadamente requeressem habilitação todos os herdeiros necessários. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. SUCESSÃO. HERDEIROS. HABILITAÇÃO. ABERTURA DE INVENTÁRIO. DESNECESSIDADE. PRECEDENTES DO STJ.
+1. Considera-se regular a representação ativa do espólio quando a viúva e todos os herdeiros se habilitam pessoalmente em juízo, independentemente de nomeação de inventariante quando o inventário já tenha se encerrado ou não exista (REsp 554.529/PR, Rel. Ministra Eliana Calmon, DJ 15/8/2005).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 669.686/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/5/2015, DJe 1º/6/2015)
+Também de forma diferente da que ocorre no presente feito, se admitiria a sobrepartilha caso o habilitado no litígio fosse o espólio e não, como pretende a recorrente, um dos descendentes distantes do titular do direito. Seria nessa hipótese, ainda, que o ente expropriante não poderia se insurgir contra o levantamento, nos termos do art. 34 do Decreto-Lei 3.365/1941. A propósito:
+Recurso especial - Processual Civil - Dissídio jurisprudencial - Comprovação - Espólio - Sentença que homologa a partilha - Trânsito em julgado - Art. 1.040, III e IV, do CPC - Bens sujeitos à sobrepartilha.
+I - Não se conhece o Recurso Especial pela divergência se inexiste a confrontação analítica exigida nos termos dos arts. 541, parágrafo único, do CPC, e 255, §2º, do RISTJ.
+II - Na hipótese de existirem bens sujeitos à sobrepartilha por serem litigiosos ou por estarem situados em lugar remoto da sede do juízo onde se processa o inventário, o espólio permanece existindo, ainda que transitada em julgado a sentença que homologou a partilha dos demais bens do espólio.
+Recurso Especial a que se dá provimento, na parte em que foi conhecido.
+(REsp 284.669/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/4/2001, DJ 13/8/2001, p. 152)
+PROCESSUAL CIVIL - RECURSO ESPECIAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - EXECUÇÃO DE TÍTULO JUDICIAL FORMADO EM AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA - INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC - REEXAME DE MATÉRIA FÁTICA - SÚMULA 7/STJ - LEGITIMIDADE DO ESPÓLIO PARA PROPOR A EXECUÇÃO.
+ ..
+4. Hipótese em que o Tribunal de origem sustentou a legitimidade do espólio para promover a execução de título judicial, apesar de já ter havido o trânsito em julgado da sentença de homologação da partilha, tendo em vista a existência de bens litigiosos sujeitos a sobrepartilha.
+ ..
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.172.305/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 16/3/2010, DJe 24/3/2010)
+DIREITO ADMINISTRATIVO. DESAPROPRIAÇÃO DIRETA. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 34 DO DECRETO-LEI N. 3365/41. OCORRÊNCIA. LEGITIMIDADE DO ESPÓLIO DO DE CUJUS PARA LEVANTAMENTO DO QUANTUM INDENIZATÓRIO. OPOSIÇÃO AO LEVANTAMENTO PELO EXPROPRIANTE. AUSÊNCIA DE INTERESSE.
+Ao espólio assiste o direito ao levantamento do valor depositado a título de indenização pelo bem expropriado, para que, posteriormente, nos autos do inventário, se proceda a partilha em favor dos herdeiros.
+Admite-se a oposição do levantamento apenas por terceiros possuidores de outro título suficiente para demonstrar que há incerteza quanto ao domínio do bem desapropriado pelo expropriado.
+Recurso provido. Decisão unânime.
+(REsp 136.434/SP, Rel. Ministro FRANCIULLI NETTO, SEGUNDA TURMA, julgado em 12/12/2000, DJ 9/4/2001, p. 337)
+Assim, o acórdão encontra-se alinhado à jurisprudência desta Corte Superior, devendo ser mantido.
+Ante o exposto, nego provimento ao recurso especial.
+É como voto.
