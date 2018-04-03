@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de Agravo, interposto por MARIA ELIZA GODOY DA SILVA, em 21/09/2017, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. CÔMPUTO DE ATIVIDADE RURAL E URBANA. MODALIDADE HÍBRIDA. PROVA DA CONDIÇÃO DE RURÍCOLA. CONJUNTO NÃO HARMÔNICO.
+I- Não conheço do agravo retido, eis que violado o disposto no art. 523, §1º, do CPC/73.
+II- Os requisitos para a concessão da aposentadoria por idade, na modalidade "híbrida", compreendem a idade (60 anos, se mulher e 65 anos, se homem) e o cumprimento da carência, computando-se períodos de atividades rural e urbana, devendo, no entanto, haver predominância de labor rural, tendo em vista que o benefício previsto no § 3º do art 48 da Lei nº 8.213/91 destina-se ao trabalhador rural.
+III- Tratando-se de comprovação de tempo de serviço, é indispensável a existência de início razoável de prova material da atividade rural, contemporânea à época dos fatos, corroborada por coerente e robusta prova testemunhal.
+IV- As provas exibidas não constituem um conjunto harmônico de molde a colmatar a convicção no sentido de que a parte autora tenha exercido atividades no campo no período pleiteado.
+V- Não preenchidos, in casu, os requisitos previstos no art. 48, § 3º, da Lei de Benefícios, não há de ser concedida a aposentadoria por idade.
+VI- Agravo retido não conhecido. Apelação da parte autora improvida" (fls. 175/176e).
+Sustenta a parte agravante, nas razões do Recurso Especial, além de divergência jurisprudencial, ofensa aos arts. 48, 142 e 143, todos da Lei 8.213/91. Afirma in verbis:
+"Ora, no caso, o venerando acórdão hostilizado do Egrégio Tribunal Regional Federal contrariou ou negou vigência ao conteúdo dos arts. 142 e 143 e §3º do artigo 48 da Lei 8.213/1991:
+(..)
+Logo, é cabível o Recurso Especial, interposto em tempo útil e regular, também com fundamento no art. 105, III, "a" da Constituição Federal.
+Além disso, a manutenção da decisão recorrida causará prejuízos à recorrente, razão pela qual merece reforma.
+Uma vez demonstrado o cabimento do presente recurso tratemos de evidenciar os fatos e fundamentos legais que fazem com que o conhecimento e provimento deste recurso sejam questão de urgência.
+(..)
+Quanto ao REQUISITO DA IDADE, a recorrente demonstrou através dos documentos acostados com a inicial.
+Observa-se assim, que a recorrente além de ter desempenhado a atividade rurícola pelo lapso temporal 19 anos, também laborou Frise-se que no ano de 2009, quando a recorrente completou a idade mínima necessária para a obtenção do benefício, exigia-se meses, ou seja, 14 anos de tempo de serviço, o que foi amplamente preenchido pela recorrente.
+Outrossim, a recorrente comprovou ter exercido atividade rural, tendo comprovado através de início de prova material, sendo corroborado pelas testemunhas ouvidas durante a instrução processual.
+Como início de prova material a recorrente apresentou cópia do contrato de compra e venda da propriedade rural datado de 1986, cópias do Certificado de Cadastro de Imóvel Rural, cópias das Notas Fiscais de Produtor onde consta a requerente como remetente da mercadoria, cópia do Recibo de Mensalidade Social do Sindicato dos Trabalhadores Rurais de Capão Bonito, cópia da Certidão da Prefeitura de Capão Bonito onde comprova que a apelante possuía a propriedade rural o que constitui início de prova material, a teor da farta jurisprudência.
+Assim, o período descrito no art. 142 da Lei 8.213/91 foi devidamente cumprido, combinado com o §3º do artigo 48 da referida lei, e tais dispositivos legais tiveram sua vigência negada ou contrariada.
+No tocante a prova oral, esta foi suficiente para complementar o início de prova material apresentado nos autos, demonstrando que a recorrente trabalhou no meio rural pelo tempo necessário ao preenchimento da carência necessária para a obtenção da aposentadoria por idade híbrida.
+Neste sentido, a Sra. [NOME], testemunha compromissada, explanou que conhece a autora há muitos anos; que eram vizinhas; que autora plantava feijão, milho, arroz; que testemunha já ajudou a autora a colher feijão, milho em sua propriedade; que autora trabalhou por muitos anos na lavoura e após veio trabalhar na cidade com costura.
+Corroborando, relatou a testemunha, Sr. [NOME] que conhece a autora há uns vinte anos; que os conheceram por serem vizinhos no Bairro "Água Quente", que via a autora trabalhar na lavoura com feijão, milho, abóbora; arroz; que autora não tinha empregado no sítio que somente autora e marido trabalhavam na lavoura; após autora parar na lavoura que passou a trabalhar de costureira.
+Ou seja, não há que se falar que a prova testemunhal é precária e imprestável, pois comprovou o trabalho rural da recorrente.
+Importante ressaltar que a apreciação do presente recurso não depende de reapreciação de provas, mas tão somente de conferir análise própria, correta e justa aos dispositivos legais e à sua interpretação.
+Portanto, patente é o direito da recorrente ao benefício de aposentadoria por idade híbrida, consoante já pacificado nos Tribunais Superiores" (fls. 187/191e).
+Requer, ao final, "seja integralmente reformado o v. acórdão guerreado, para o fim de CONCEDER à recorrente o benefício de APOSENTADORIA POR IDADE HÍBRIDA" (fl. 192e).
+Não foram apresentadas contrarrazões.
+Negado seguimento ao Recurso Especial (fls. 220/222e), foi interposto o presente Agravo (fls. 224/237e).
+Não foi apresentada contraminuta.
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, e manter a sentença de improcedência do pedido, deixou consignado, no que interessa:
+"Passo à análise do caso concreto.
+A parte autora nasceu em 12/8/49 e implementou o requisito etário em 12/8/09. Logo, a carência a ser cumprida é de 168 meses.
+No tocante ao exercício de atividades rural e urbana, encontram-se acostadas aos autos as cópias dos seguintes documentos:
+Período urbano:
+A CTPS da autora (fls. 19/25) e a consulta realizada no Cadastro Nacional de Informações Sociais - CNIS (fls. 18 e 73/74), revelam a existência de vínculos empregatícios em atividades urbanas nos períodos de 2/1/78 a 26/4/78, 1º/6/78 a 1º/8/78, 1º/7/86 a 22/4/87, 15/5/06 a 28/6/06, 1º/2/08 a 27/6/08, 4/5/09 a 28/7/09 e de 8/2/10 a 25/6/10, bem como o recolhimento de contribuições previdenciárias como contribuinte individual nos lapsos de 1º/2/85 a 31/12/85, 1º/8/05 a 31/8/05 e de 1º/8/11 a 31/8/14, totalizando 6 anos, 6 meses e 15 dias de atividade urbana.
+Período rural:
+1. Contrato de promessa de cessão de direitos relativos a um imóvel rural, firmado pela demandante em 1986 (fls. 40/43);
+2. Certificado de Cadastro de Imóvel Rural em nome da autora, referente aos exercícios de 2003/2004/2005 (fls. 44/46);
+3. Declaração do ITR em nome da requerente, datada de 2012 (fls. 47/51) e
+4. Notas fiscais de produtor em nome da autora, emitidas em 1987 a 1989 (fls. 52/57) e
+5. Comprovante de pagamento de mensalidade no Sindicato dos Trabalhadores Rurais de Capão Bonito em nome da demandante, datado de 2007 (fls. 58).
+Os documentos supramencionados podem ser reconhecidos como início de prova material.
+Por outro lado, observo que a prova testemunhal não é apta a comprovar o exercício de atividade rural pela requerente (CDROM - fls. 119).
+Com efeito, os depoimentos das testemunhas arroladas não foram convincentes e robustos de modo a permitir o reconhecimento do período pleiteado, por se apresentarem demasiadamente genéricos, pois se limitaram a afirmar que a autora sempre exerceu atividade rural, sem apontar, com precisão, as datas e a forma como o trabalho era exercido.
+Nesse sentido, como bem observou o MM. Juiz a quo na R. sentença, "A testemunha [NOME] disse que a parte autora trabalhou na lavoura, mas não soube declinar o respectivo período. De outro lado, a testemunha [NOME] relatou ter visto a autora trabalhar na roça por um período de mais ou menos 04 (quatro) anos. Por isso, embora completada a idade mínima exigida pela lei, pois a autora nasceu em 12/08/1949 - fls. 11, não estão presentes todos os requisitos necessários para a concessão do benefício postulado, pois o período de 04 (quatro) anos de atividade rural, somado ao tempo de contribuição anotado na CTPS (fls. 21/22) e CNIS (fls. 73/74), é insuficiente ao período de carência exigido" (fls. 123).
+Dessa forma, as provas exibidas não constituem um conjunto harmônico de molde a formar a convicção no sentido de que a parte autora tenha exercido atividades no campo no período alegado.
+(..)
+Com efeito, os indícios de prova material, singularmente considerados, não são, por si sós, suficientes para formar a convicção do magistrado. Nem tampouco as testemunhas provavelmente o seriam. Mas apenas a conjugação de ambos os meios probatórios - todos juridicamente idôneos para formar a convicção do juiz - tornaria inquestionável a comprovação da atividade laborativa rural.
+Assim sendo, não comprovando a parte autora o cumprimento dos requisitos exigidos pelo art. 48, § 3º, da Lei n.º 8.213/91, não há como possa ser deferido o benefício requerido" (fls. 171/174e).
+Nesse contexto, considerando a fundamentação adotada, o acórdão recorrido, que concluiu pela fragilidade da prova testemunhal, para fins de comprovação de labor rurícola, e, portanto, pela inexistência dos requisitos para concessão do benefício previdenciário, somente poderia ser modificado mediante o necessário revolvimento dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte. Destaco, nesse sentido, por ilustrativos:
+"PREVIDENCIÁRIO. RURAL. APOSENTADORIA POR IDADE. ACÓRDÃO QUE APONTA A FRAGILIDADE DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O labor campesino deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. No caso, partindo das premissas acima aventadas e das provas carreadas aos autos, o Tribunal de origem concluiu pela ausência dos requisitos autorizadores para o reconhecimento da condição de segurado especial, por considerar a fragilidade da prova testemunhal e material produzida.
+3. A alteração das conclusões retratadas no acórdão recorrido apenas seria possível mediante novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula n. 7/STJ.
+4. Agravo Regimental a que se nega provimento" (STJ, AgRg no AREsp 577.369/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 01/12/2015).
+"PROCESSO CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. EXIGÊNCIA DE COMPROVAÇÃO DA ATIVIDADE RURAL. PROVA TESTEMUNHAL. INSUFICIENTE. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+1. O Tribunal de origem concluiu: "a prova oral produzida, insuficiente, não corroborou o início de prova material acostado, impossibilitando a concessão do benefício".
+2. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido implicaria o necessário revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+4. Agravo Regimental não provido" (STJ. AgRg no AREsp 581.637/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 04/12/2014).
+"PREVIDENCIÁRIO. APOSENTADORIA RURAL. INÍCIO DE PROVA MATERIAL NÃO CORROBORADA POR PROVA TESTEMUNHAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Não pode ser avaliada nesta Corte a alegação de suficiência de provas testemunhais, que serviriam de apoio ao início de prova documental apresentada nos autos, para fins de comprovação do labor rural.
+2. O Tribunal de origem, com amparo nos elementos de convicção dos autos, decidiu que os depoimentos colhidos se mostraram inconsistentes, inaptos a corroborar com o acervo probatório apresentado, que objetivou comprovar o trabalho rurícola.
+3. No caso dos autos, a prova testemunhal não robustece a prova material. Entender de modo diverso do consignado pelo Tribunal a quo exige o reexame de matéria fático-probatória, o que é vedado pela Súmula 7 do STJ.
+4. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+Agravo regimental improvido" (STJ, AgRg no AREsp 451.375/PR, Segunda Turma, Relator Ministro Humberto Martins, DJe de 24/2/2014).
+Por fim, tendo o Tribunal local fundamentado sua conclusão no conjunto fático-probatório dos autos, impossível também se torna o confronto entre os paradigmas e o acórdão recorrido, uma vez que a comprovação do alegado dissídio jurisprudencial exigiria reexame dos aspectos concretos de cada julgamento, providência obstada, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios anteriormente fixados em R$ 500 (quinhentos reais) para R$ 700 (setecentos reais), levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
