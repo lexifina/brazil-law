@@ -1,0 +1,52 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. NULIDADE DA CDA. SUCESSÃO EMPRESARIAL POR INCORPORAÇÃO. EXECUÇÃO FISCAL PROPOSTA CONTRA A EMPRESA SUCEDIDA, APÓS SUA EXTINÇÃO. CORREÇÃO. IMPOSSIBILIDADE. SÚMULA 392/STJ.
+1. "O entendimento firmado na jurisprudência do STJ é no sentido da impossibilidade de alteração do polo passivo da imputação tributária, após o início da execução fiscal, mediante emenda ou substituição da CDA, mesmo no caso de sucessão tributária" (REsp 1.690.407/SP, Rel. Ministro Herman Benjamin, segunda turma, DJe 19/12/2017)
+2. Reconhecida a existência de sucessão empresarial e tributária, não se poderia dar prosseguimento ao executivo fiscal ajuizado em oposição à sucessora tributária, haja vista a impossibilidade de emenda ou substituição da CDA, consoante a Súmula 392/STJ: "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução."
+3. Não se concebe a substituição do sujeito passivo no título executivo constituído, pois tal alteração corresponderia a um novo lançamento tributário, sem que fosse conferida ao novo devedor a oportunidade de exercer sua impugnação na via administrativa, ou mesmo do pagamento do débito antes do ajuizamento da ação de cobrança.
+4. Recurso especial a que se dá provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de recurso especial interposto por Santander Leasing S.A. Arrendamento Mercantil, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 58):
+Execução Fiscal. IPVA. Ilegitimidade de parte. Afastamento. Hipótese de sucessão, incorporação e cisão de empresas. Recurso provido.
+A recorrente alega, além do dissídio jurisprudencial, a existência de contrariedade aos arts. 132, 133, 202 do CTN e 2º da LEF. Defende, em síntese, que "é inadmissível a mera substituição do polo passivo e redirecionamento da execução em face da pessoa jurídica incorporadora, uma vez que para tal correção seria necessária a emissão de nova Certidão de Dívida Ativa" (e-STJ, fl. 71).
+Prossegue afirmando que "é patente a nulidade das CDAs, pois direcionam a cobrança do imposto à sujeito passivo extinto, ou seja, não se trata de um erro formal ou material que poderia ser corrigido com a simples substituição da certidão, mas de um erro substancial que afeta todo o curso do feito executório" (e-STJ, fl. 77).
+Não foram apresentadas contrarrazões (e-STJ, fl. 96).
+Admitido o recurso especial na origem (e-STJ, fls. 128/129), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator):Trata o presente recurso sobre a possibilidade de retificação do polo passivo da execução fiscal ante a incorporação total por sucessão empresarial sem a comunicação dessa alteração nos órgãos competentes.
+Cinge-se, pois, a controvérsia à possibilidade de se aproveitar a CDA inscrita contra a empresa sucedida, ainda que a constituição do título executivo tenha se dado após a extinção da empresa devedora.
+Como é sabido, a ausência da precisa indicação do devedor na constituição do crédito tributário vulnera o título executivo, retirando-lhe a certeza, liquidez e exigibilidade que lhe são inerentes, nos termos dos arts. 202 e 203 do CTN.
+Na senda de tal premissa, não se concebe a substituição do sujeito passivo no título executivo constituído, pois tal alteração corresponderia a um novo lançamento tributário, sem que fosse conferida ao novo devedor a oportunidade de exercer sua impugnação na via administrativa, ou mesmo do pagamento do débito antes do ajuizamento da ação de cobrança.
+Nada obstante, admitir a possibilidade de substituição do sujeito passivo na CDA equivaleria aceitar a alteração do pedido deduzido na petição inicial, o que não se viabiliza sob pena de incorrer no temerário cerceamento de defesa.
+Assim, reconhecida a existência de sucessão empresarial e tributária, não se poderia dar prosseguimento ao executivo fiscal em face da sucessora tributária, haja vista a impossibilidade de emenda ou substituição da CDA, consoante a Súmula 392/STJ: "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução."
+A respeito do tema, confiram-se os seguintes precedentes jurisprudenciais:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CDA. SUCESSÃO EMPRESARIAL. EXECUÇÃO FISCAL PROPOSTA CONTRA A EMPRESA SUCEDIDA APÓS SUA EXTINÇÃO.
+REDIRECIONAMENTO INADMISSÍVEL. CERCEAMENTO DE DEFESA. 1. Cuida-se, na origem, de execução ajuizada pela Fazenda do Estado de São Paulo em face de Santander Brasil Arrendamento Mercantil S/A por débitos oriundos de IPVA. A sentença julgou extinta a execução por força da ilegitimidade da ora recorrente. Inconformada, a Fazenda Pública interpôs recurso de apelação, que foi provido pelo Tribunal de Justiça do Estado de São Paulo.
+2. O acórdão recorrido firmou-se nos seguintes fundamentos (fls. 111-112): "Não se pode perder de vista que a responsabilidade pelo débito fiscal da executada, pessoa jurídica incorporada, passou a ser justamente da excipiente. Nesses casos, esta Col. Câmara tem decidido que se deve dar a oportunidade para o Estado emendar a inicial e proceder à retificação da respectiva certidão de dívida ativa, a fim de adequar o polo passivo da execução fiscal, em obediência ao princípio da celeridade e razoável duração do processo (art. 5º, LXXVIII, CF)." 3. Não se concebe a substituição do sujeito passivo no título executivo constituído, pois tal alteração corresponderia a um novo lançamento tributário, sem que fosse conferida ao novo devedor a oportunidade de exercer sua impugnação na via administrativa, ou mesmo o pagamento do débito antes do ajuizamento da ação de cobrança.
+4. O entendimento firmado na jurisprudência do STJ é no sentido da impossibilidade de alteração do polo passivo da imputação tributária, após o início da execução fiscal, mediante emenda ou substituição da CDA, mesmo no caso de sucessão tributária.
+5. Recurso Especial provido.
+(REsp 1.690.407/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017)
+AGRAVO REGIMENTAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. CDA. SUCESSÃO EMPRESARIAL. EXECUÇÃO FISCAL PROPOSTA CONTRA A EMPRESA SUCEDIDA APÓS SUA EXTINÇÃO. REDIRECIONAMENTO INADMISSÍVEL. CERCEAMENTO DE DEFESA. SÚMULA 392/STJ.
+1. Reconhecida a existência de sucessão empresarial e tributária, não se poderia dar prosseguimento ao executivo fiscal ajuizado em face da sucessora tributária, haja vista a impossibilidade de emenda ou substituição da CDA, a teor da Súmula 392/STJ: "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução".
+2. Não se concebe a substituição do sujeito passivo no título executivo constituído, pois tal alteração corresponderia a um novo lançamento tributário, sem que fosse conferida ao novo devedor a oportunidade de exercer sua impugnação na via administrativa, ou mesmo do pagamento do débito antes do ajuizamento da ação de cobrança.
+3. Agravo regimental a que se nega provimento
+(STJ, AgRg no REsp 1.435.515/SP, de minha relatoria, SEGUNDA TURMA, DJe 23/4/2015)
+Vale frisar que a incorporação também é uma modalidade de sucessão empresarial, conforme o art. 132 do CTN, não havendo motivo para lhe prestar tratamento jurídico diverso.
+Em conclusão, ajuizada a execução fiscal contra empresa sucedida, inafastável a extinção do feito por ilegitimidade passiva.
+A questão relativa aos honorários advocatícios à luz do art. 85, §§ 1º, 2º e 3º, do CPC/2015, não foi tratada no bojo do acórdão combatido, que abordou o tema da verba honorária segundo o art. 20 do CPC/1973, tal qual o fez a sentença de piso.
+Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, nos termos do que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal, respectivamente transcritas:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nesse sentido:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE - ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS - SÚMULA 7/STJ - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULAS 282 E 356 DO STF E 211 DO STJ - INOVAÇÃO RECURSAL.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ), bem como é manifestamente inadmissível o recurso especial em relação às teses que configuram inovação recursal e, por isso, não foram apreciadas pelo acórdão recorrido.
+2. Inviável análise de pretensão que demanda o revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+3. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal a quo não emitiu qualquer juízo de valor sobre a tese defendida no especial (Súmulas 282 e 356/STF).
+4. Agravo regimental não provido.
+(AgRg no AREsp 15.180/PR, Rel. Min. Eliana Calmon, DJe 10/5/2013)
+Não tendo sido abordada a questão no julgamento do apelo e não havendo provocação para que a Corte de origem se manifestasse explicitamente sobre o tema, o recurso especial não enseja conhecimento nesse ponto.
+Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença de primeiro grau.
+É como voto.
