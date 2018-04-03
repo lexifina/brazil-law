@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJRJ, o qual recebeu a seguinte ementa (e-STJ fl. 67):
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. AGRAVADO NÃO LOCALIZADO. FOI OPORTUNIZADO AO RECORRENTE, POR 2 (DUAS) VEZES, NOS TERMOS DO PARÁGRAFO ÚNICO, DO ARTIGO 932, DA LEI ADJETIVA CIVIL, QUE TROUXESSE AOS AUTOS DESTE AGRAVO DE INSTRUMENTO, O ENDEREÇO PARA INTIMAÇÃO DO RECORRIDO, SENDO CERTO, ENTRETANTO, QUE NOS ENDEREÇOS POR ELE FORNECIDOS, NÃO FOI LOCALIZADA A PARTE AGRAVADA, CONFORME SE VÊ DAS CERTIDÕES: (INDEX 000033 E 000042). RECURSO A QUE SE NEGA SEGUIMENTO, COM FULCRO NO ART. 932, II, DO CÓDIGO DE PROCESSO CIVIL/2015. AUSÊNCIA DE PREPARO. DESERÇÃO. PRESSUPOSTO DE ADMISSIBILIDADE. O FATO DA AGRAVANTE ESTAR EM RECUPERAÇÃO JUDICIAL REVELA A VIABILIDADE ECONÔMICA DA EMPRESA (ARTIGOS 53, II E 64, LEI Nº 11.101/051). ALÉM DE QUE O FATO DE SEREM EXPEDIDOS RELATÓRIOS E HAVER A DECRETAÇÃO DA LIQUIDAÇÃO EXTRAJUDICIAL, POR SI SÓ, NÃO REMETE AO RECONHECIMENTO DA NECESSIDADE PARA FINS DE CONCESSÃO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. ADVERTÊNCIA DE IMPOSIÇÃO DE MULTA. NÃO CONHECIMENTO DO RECURSO QUE SE IMPÕE.
+Nas razões recursais (e-STJ fls. 237/249), fundamentadas no art. 105, III, "a", da CF, a recorrente alega ofensa ao art. 1.026, § 2º, do CPC/2015, sustentando, em síntese, que os aclaratórios opostos não teriam caráter protelatório.
+Aponta ainda afronta aos arts. 932, parágrafo único, e 99, § 7º, do CPC/2015, argumentando que não teria sido oportunizada a possibilidade de regularização do preparo.
+A recorrida não apresentou contrarrazões (e-STJ fl. 165).
+É o relatório.
+Decido.
+De início, a questão referente à violação dos arts. 932, parágrafo único, e 99, § 7º, do CPC/2015, da maneira como apresentada pela recorrente nas razões do especial - impossibilidade de regularização do preparo -, não foi analisada pela Corte local, mesmo após a oposição dos embargos de declaração, que se limitou a consignar que (e-STJ fl. 88):
+Quanto ao mais, repito que este Julgador, no caso concreto, oportunizou por 2 (duas) vezes à recorrente que trouxesse aos autos deste Agravo de Instrumento o endereço para intimação da agravada, sendo certo, entretanto, que nos endereços por ela fornecidos não foi localizada a parte agravada, conforme se vê das certidões constantes no index 000033 e 000042.
+Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Quanto à multa imposta à recorrente, constata-se que a interposição dos embargos declaratórios, na Corte de origem, decorreu do legítimo exercício do direito de recorrer da parte, que se valeu do referido recurso para tentar combater decisão que lhe era desfavorável, apontando, inclusive, suposta omissão constante no acórdão impugnado.
+Além disso, os embargos de declaração foram opostos com o nítido caráter prequestionador, motivo pelo qual deve ser afastada a sanção prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula n. 98/STJ.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO PARCIAL ao recurso especial, a fim de afastar a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se.
