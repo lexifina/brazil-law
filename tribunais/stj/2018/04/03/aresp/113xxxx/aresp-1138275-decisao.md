@@ -1,0 +1,35 @@
+DECISÃO
+ Cuida-se de agravo interposto por ALZIRA VIDALINA RIBEIRO contra decisão de inadmissibilidade de recurso especial.
+O apelo extremo, fundamentado na alínea "a" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 149, e-STJ):
+AGRAVO INTERNO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATOS DE CONSUMO. TELEFONIA. AJG. REDISCUSSÃO. MULTA.
+Não há falar em modificação da decisão que deslindou o agravo de instrumento, porquanto a parte ora recorrente não trouxe nenhum argumento novo a fim de ensejar a eventual alteração do posicionamento já adotado, reiterando aquilo que fora trazido nas razões recursais quando da interposição de anterior agravo. Ademais, diante do desprovimento do
+agravo interno, impõe-se a condenação da parte agravante ao pagamento da multa estabelecida pelo art. 1.021, § 4º, do novo Código de Processo Civil. Jurisprudência da Câmara e da Corte.
+NEGARAM PROVIMENTO AO RECURSO, COM APLICAÇÃO DE MULTA. UNÂNIME.
+Nas razões do recurso especial (fls. 158-166, e-STJ), a parte insurgente alegou ofensa aos arts. 4º da Lei n.º 1.060/50 e 1.021, §4º, do CPC/2015.
+Sustentou, em síntese: a) ter direito ao benefício da justiça gratuita; e b) ser indevida a aplicação da multa por agravo inadmissível.
+Contrarrazões às fls. 188-220 (e-STJ).
+Em juízo de admissibilidade (fls. 223-227, e-STJ), negou-se processamento ao recurso. Daí o agravo (fls. 232-238, e-STJ), em que a parte recorrente impugna as razões da decisão agravada.
+Contraminuta de fls. 254-289 (e-STJ).
+É o relatório.
+Decido.
+1. Preliminarmente, cumpre observar que, desde a instância originária, vem a parte recorrente lutando pelo exercício do direito de litigar sob o pálio da Justiça Gratuita, nos termos em que dispunha a Lei n.º 1.060/50.
+Entretanto, o exame desse pleito, isto é, se ela atendia ou não os requisitos da referida legislação, não chegou a ser aferido, pois, ao fundamento de que teria ela optado por ajuizar sua demanda no Juízo Cível, em vez de fazê-lo perante o Juizado Especial Cível (onde estaria livre de custas e honorários advocatícios), foi-lhe liminarmente indeferida a concessão dos benefícios da assistência judiciária gratuita (fls. 14-18, 66-71 e 150-153, e-STJ).
+Assim, a sua postulação, bem como os argumentos que apresentou (declaração firmada nos termos do art. 4º da Lei n.º 1.060/50, além de demonstrar a percepção mensal, como aposentada do INSS, de proventos no importe de R$604,32), para ver albergada a pretensão de gratuidade de Justiça, sequer foi considerada, tendo sido indeferido liminarmente o pedido, pelo simples fato de não ter optado pelo procedimento do juizado especial, conforme se observa do seguinte excerto do acórdão recorrido (e-STJ, fls. 67-68):
+Em revisão a posicionamento que vinha sendo adotado, em virtude das inúmeras ações ajuizadas no juízo comum, que poderiam tramitar no Juizado Especial Cível, livre de custos, como a ora proposta contra companhia telefônica, com o objetivo de ver canceladas cobranças por serviços não contratados, além de indenização por danos morais, passei a firmar o entendimento de que a decisão que indefere o benefício da gratuidade da justiça não afronta o direito de acesso à justiça.
+É certo, como afirmado na decisão que precedeu ao acórdão recorrido, que:
+ ..  O deferimento indiscriminado do benefício da gratuidade de justiça pode implicar em ônus demasiado ao Poder Público, impossibilitando, inclusive, a concessão da assistência para aqueles que dela realmente necessitam e para as causas que impõem a via mais dispendiosa (fl. 70, e-STJ),  grifou-se .
+Porém, não se pode admitir que, pelo exercício de uma faculdade que lhe é garantida pelo ordenamento jurídico, qual seja, a do ajuizamento da demanda perante a Vara Cível Comum, seja a parte que fez essa opção penalizada, tolhida do direito de ter examinado o seu requerimento de gratuidade de justiça, devidamente formulado e instruído, ao fundamento de que, por não ter escolhido o juizado especial, não poderia sequer postular a assistência judiciária.
+Por todos:
+PROCESSUAL CIVIL. CONTROLE DE COMPETÊNCIA PELO TRIBUNAL DE JUSTIÇA. JUIZADOS ESPECIAIS CÍVEIS. MANDADO DE SEGURANÇA. CABIMENTO. ART. 3º, § 3º, DA LEI 9.099/1995 E ART. 1º DA LEI ESTADUAL 10.675/1996. OPÇÃO DO AUTOR.
+1. Hipótese em que o Tribunal local consignou: "esta Corte Estadual já vem afastando a possibilidade de manejo do "mandamus" com a finalidade de suprir hipótese não prevista no rol taxativo do art. 1.015 do Novo Código de Processo Civil" (fl. 194, e-STJ).
+2. "A jurisprudência do STJ admite a impetração de mandado de segurança para que o Tribunal de Justiça exerça o controle da competência dos Juizados Especiais Cíveis e Criminais, vedada a análise do mérito do processo subjacente" (RMS 33.155/MA, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 29/08/2011).
+3. O Superior Tribunal de Justiça possui entendimento de que "o processamento da ação perante o Juizado Especial é opção do autor, que pode, se preferir, ajuizar sua demanda perante a Justiça Comum" (REsp. 173.205/SP, Relator Ministro Cesar Asfor Rocha, Quarta Turma, DJ 14.6.1999). A propósito: REsp 331.891/DF, Rel. Ministro Antônio de Pádua Ribeiro, Terceira Turma, 21.3.2002; REsp 146.189/RJ, Rel. Ministro Barros Monteiro, Quarta Turma, DJ 29.6.1998.
+4. O art. 3º, § 3º, da Lei 9.099/1995 e o art. 1º da Lei Estadual 10.675/1996 permitem que a demanda seja ajuizada no Juizado Especial ou na Justiça Comum, sendo essa uma decisão da parte.
+5. Recurso Ordinário provido.
+(RMS 53.227/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)  grifou-se .
+Nesse contexto, dada a omissão das instâncias precedentes em analisar, em primeiro plano, se a recorrente atenderia ou não aos requisitos legais para fazer jus aos benefícios da assistência judiciária gratuita, passo, de pronto, a fazê-lo.
+Considerando que a agravante declarou-se pobre, em sentido legal, é aposentada do INSS, idosa, e percebe proventos mensais no importe de R$ 604,32 (seiscentos e quatro reais e trinta e dois centavos), defiro o pedido de gratuidade de justiça. Referendar a negativa desse direito, sobretudo ao fundamento de uso indiscriminado do benefício, a quem realmente dele necessita e, ainda, em contrariedade à orientação desta Corte Superior seria no mínimo uma insensibilidade da parte deste julgador.
+Deferido o pedido de gratuidade de justiça, por conseguinte, fica cassada a multa aplicada no acórdão que apreciou o agravo interno interposto pela recorrente (fls. 149-154, e-STJ), bem como superado o óbice reconhecido no exame da admissibilidade do seu recurso especial (fls. 223-227, e-STJ).
+2. Do exposto, conheço do agravo para, desde logo, dar provimento ao recurso especial para conceder à parte recorrente os benefícios da justiça gratuita, determinando o retorno dos autos à instância de primeiro grau para que dê andamento na ação ajuizada pela ora recorrente perante aquele Juízo. Por conseguinte, fica afastada a sanção do art. 1.021, § 4º, do CPC/2015 imposta à recorrente.
+Publique-se.
+Intimem-se.
