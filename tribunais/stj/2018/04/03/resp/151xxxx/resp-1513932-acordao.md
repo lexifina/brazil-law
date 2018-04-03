@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. JUROS DE MORA NO PRECATÓRIO OU RPV. DECISÃO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL. ADEQUAÇÃO.
+1. Nos termos dos arts. 1.030, II, e 1.040, II, do CPC/2015, deve o órgão julgador reapreciar o recurso cuja conclusão divergiu da orientação do Supremo Tribunal Federal em repercussão geral.
+2. Hipótese em que a Corte Constitucional, no julgamento do RE n. 579.431/RS, com repercussão geral, superou o entendimento firmado no REsp repetitivo n. 1.143.677/RS, ao considerar devidos os juros moratórios no período compreendido entre a data dos cálculos e a da Requisição de Pequeno Valor - RPV ou da expedição do precatório.
+3. Recurso especial desprovido, em juízo de retratação dos arts. 1.030, II, e 1.040, II, do CPC/2015.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso especial, em juízo de retratação dos arts. 1.030, II, e 1.040, II, do CPC/2015, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, no qual sustentou a não incidência dos juros de mora entre a data da consolidação do débito e a data da expedição do precatório ou da requisição de pequeno valor.
+O apelo nobre foi provido pela Presidência desta Corte nos termos do REsp. n. 1.143.677/RS, processado sob o rito do art. 543-C do CPC/1973, no qual a Corte Especial havia firmado o entendimento de não incidência dos juros moratórios entre a homologação da conta e a expedição do precatório ou da requisição de pequeno valor (RPV). A decisão foi mantida pelo Colegiado.
+Após a interposição de recurso extraordinário, a Vice-Presidência deste Tribunal encaminhou os presentes autos a esta Turma para o juízo de conformação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+A questão em debate, de fato, está superada diante da conclusão do Supremo Tribunal Federal no RE n. 579.431/RS, com repercussão geral.
+Na sessão do dia 19/04/2017, o Plenário da Corte Constitucional considerou devidos os juros moratórios no período compreendido entre a data dos cálculos e a da Requisição de Pequeno Valor - RPV ou da expedição do precatório.
+Na ocasião, o Colegiado concluiu que o regime previsto no art. 100 da Constituição Federal consubstancia "sistema de liquidação de débito, que não se confunde com moratória", haja vista que a "requisição não opera como se fosse pagamento nem faz desaparecer a responsabilidade do devedor".
+A propósito, veja-se o resumo da notícia veiculada na página oficial do Supremo Tribunal Federal, extraída do Informativo n. 861/2017:
+Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.
+Com base nesse entendimento, o Plenário, em conclusão, negou provimento a recurso extraordinário em que discutida a incidência dos juros de mora no período supracitado  v. Informativo 805.
+O Colegiado afirmou que o regime previsto no art. 100 da Constituição Federal (CF) consubstancia sistema de liquidação de débito, que não se confunde com moratória. A requisição não opera como se fosse pagamento nem faz desaparecer a responsabilidade do devedor. Assim, enquanto persistir o quadro de inadimplemento do Estado, devem incidir os juros da mora. Portanto, desde a citação  termo inicial firmado no título executivo  até a efetiva liquidação da Requisição de Pequeno Valor (RPV), os juros moratórios devem ser computados, a compreender o período entre a data da elaboração dos cálculos e a da requisição.
+Segundo o Colegiado, a Súmula Vinculante 17 não se aplica ao caso, pois não cuida do período de 18 meses referido no art. 100, § 5º, da CF, mas sim do lapso temporal compreendido entre a elaboração dos cálculos e a RPV.
+Além disso, o entendimento pela não incidência dos juros da mora durante o aludido prazo foi superado pela Emenda Constitucional 62/2009, que excluiu o § 12 ao art. 100 da CF.
+A Corte enfatizou que o sistema de precatório, a abranger as RPVs, não pode ser confundido com moratória, razão pela qual os juros da mora devem incidir até o pagamento do débito. Comprovada a mora da Fazenda até o efetivo pagamento do requisitório, não há fundamento para afastar a incidência dos juros moratórios durante o lapso temporal anterior à expedição da RPV.
+No plano infraconstitucional, antes da edição da aludida emenda constitucional, entrou em vigor a Lei 11.960/2009, que modificou o art. 1º-F da Lei 9.494/1997. A norma prevê a incidência dos juros para compensar a mora nas condenações impostas à Fazenda até o efetivo pagamento. Não há, portanto, fundamento constitucional ou legal a justificar o afastamento dos juros da mora enquanto persistisse a inadimplência do Estado.
+Ademais, não procede a alegação no sentido de que o ato voltado a complementar os juros da mora seria vedado pela regra do art. 100, § 4º, da CF, na redação da Emenda Constitucional 37/2002. Há precedentes do Supremo Tribunal Federal a consignar a dispensa da expedição de requisitório complementar  mesmo nos casos de precatório  quando houvesse erro material, inexatidão dos cálculos do precatório ou substituição, por força de lei, do índice empregado.
+Também é insubsistente o argumento de que o requisitório deve ser corrigido apenas monetariamente, ante a parte final da regra do art. 100, § 1º, da CF, na redação conferida pela Emeda Constitucional 30/2000. O fato de o constituinte haver previsto somente a atualização monetária no momento do pagamento não teria o condão de afastar a incidência dos juros da mora. RE 579431/RS, Rel. Min. Marco Aurélio, julgamento em 19.4.2017. (RE-579431) (http://www.stf.jus.br/arquivo/informativo/documento/informativo861.htm#RPV%20e%20juros%20morat%C3%B3rios%20-%202)
+O referido julgado foi assim resumido:
+JUROS DA MORA - FAZENDA PÚBLICA - DÍVIDA - REQUISIÇÃO OU PRECATÓRIO. Incidem juros da mora entre a data da realização dos cálculos e a da requisição ou do precatório.
+(RE 579431, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 19/04/2017, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-145 DIVULG 29-06-2017 PUBLIC 30-06-2017).
+Com base em tal compreensão, não há como manter o entendimento firmado pelo STJ no REsp repetitivo n. 1.143.677/RS, que afastava a incidência dos juros de mora no período em comento. Mostra-se imperioso o desprovimento da irresignação da autarquia para efeito do juízo de conformação previsto nos arts. 1.030, II, e 1.040, II, do CPC/2015.
+Ante o exposto, em juízo de retratação de que tratam os arts. 1.030, II, e 1.040, II, do CPC/2015, NEGO PROVIMENTO ao recurso especial do INSS.
+É como voto.
