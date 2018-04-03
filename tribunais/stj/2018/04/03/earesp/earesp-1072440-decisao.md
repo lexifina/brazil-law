@@ -1,0 +1,49 @@
+DECISÃO
+1. O presente agravo foi interposto por [NOME] de decisão que negou seguimento a recurso especial apresentado contra acórdão do eg. Tribunal de Justiça do Estado de Sergipe, assim ementado:
+"Processo Civil - Ação de despejo c/c cobrança - Ilegitimidade ATIVA - Processo extinto SEM RESOLUÇÃO DE MÉRITO - Sentença REFORMADA.
+I - Releva notar que a legitimidade ad causam é uma das condições da ação, cuja ausência leva à extinção do feito, sem julgamento do mérito.
+Por se tratar de matéria de ordem pública, pode ser declarada até mesmo de ofício pelo magistrado, em qualquer tempo e grau de jurisdição, sem que se opere a respeito o instituto da preclusão;
+II - O auto de arrematação é o documento hábil para a regulamentação do arrematante como novo titular do imóvel arrematado, transferindo-lhe os direitos relativos à posse, suficientes para o uso, gozo e fruição do bem;
+III - Forçoso reconhecer que a autora é parte ilegítima para figurar no pólo ativo da relação jurídico-processual visando à decretação de despejo cumulada com cobrança de aluguéis atrasados, devendo o feito ser extinto sem resolução de mérito;
+IV - Recurso conhecido e provido." (fl. 153)
+Opostos embargos de declaração contra o v. acórdão, foram rejeitados (fls. 199/202).
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente aponta violação dos arts. 1.196, 1.197, 1.203, 1.204, 1.228, 1.231 e 1.275 do Código Civil de 2002 e 60 da Lei do Inquilinato, alegando, em síntese: a) preliminarmente, a deserção da apelação interposto pelo recorrido; b) sua legitimidade para a propositura da ação, uma vez que a figura do locador não se confunde com a do proprietário da coisa, sendo suficiente a posse do bem para viabilizar a relação locatícia; c) que não se pode falar em perda real da propriedade, uma vez que move ação anulatória em fade da Caixa Econômica Federal, estando "na iminência de ser decretada a nulidade do procedimento executivo extrajudicial" (fl. 219).
+Foram apresentadas contrarrazões (fls. 228/238).
+É o relatório. Decido.
+2. O recurso será examinado à luz do Enunciado n. 3 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Preliminarmente, não se conhece da questão relativa à deserção da apelação interposta pelo ora recorrido, uma vez que não foi examinada pelo Tribunal de origem, sequer implicitamente, e também não foi arguída pela parte nos embargos de declaração opostos perante aquela Corte. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Do mesmo modo no que se refere aos arts. 1.196, 1.197, 1.203, 1.204, 1.228, 1.231 e 1.275 do Código Civil de 2002 e 60 da Lei 8.245/91, uma vez que que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+E mesmo que assim não fosse, convém ainda ressaltar que o Tribunal de origem decidiu a causa com base na seguinte fundamentação:
+"Segundo se extrai dos autos, o imóvel objeto do contrato de locação teve a sua propriedade consolidada em nome da Caixa Econômica Federal em 29/10/2014, com posterior arrematação por terceiro, cujo registro na matrícula adveio em 27/01/2015, enquanto o contrato de locação foi firmado em 10/11/2014, isto é, após a perda da condição de proprietária sobre referido bem.
+Analisando os documentos carreados aos autos, especialmente a certidão de inteiro teor que aparelha a contestação, percebe-se claramente que em 29 de outubro de 2014 houve uma averbação na matrícula do imóvel que contem fragmento que, por sua relevância, passo a transcrever:
+ ..
+Por sua vez, o imóvel em questão foi arrematado por [NOME] mediante carta de arrematação datada em 27/01/2015, com autorização da Caixa Econômica Federal - CEF. Eis o teor de trecho do respectivo registro, ocorrido em 11/11/2015:
+ ..
+Portanto, o arrematante [NOME] figura como atual proprietário do imóvel situado na Rua B-2, Bairro Bugio, nesta Capital, consoante certidão de inteiro teor lavrada no 11º Ofício Imobiliário desta urbe.
+Impende salientar que, muito embora o contrato de locação tenha sido celebrado em 10/11/2014, isto é, em momento anterior ao registro da arrematação do bem, realizado em 27/01/2015, colhe-se dos autos que os meses inadimplidos correspondem a janeiro, fevereiro e março do ano de 2015, quando já ocorrida a arrematação.
+Deveras, de acordo com a atual dicção do art. 903 do Novel CPC, a assinatura do auto torna a arrematação perfeita, acabada e irretratável, senão vejamos:
+Art. 903. Qualquer que seja a modalidade de leilão, assinado o auto pelo juiz, pelo arrematante e pelo leiloeiro, a arrematação será considerada perfeita, acabada e irretratável, ainda que venham a ser julgados procedentes os embargos do executado ou a ação autônoma de que trata o §4º deste artigo, assegurada a possibilidade de reparação pelos prejuízos sofridos.
+No mesmo sentido, seguem precedentes do Egrégio Superior Tribunal de Justiça:  ..
+Nessa planura, tem-se que o auto de arrematação é o documento hábil para a regulamentação do arrematante como novo titular do imóvel arrematado, transferindo-lhe os direitos relativos à posse, suficientes para o uso, gozo e fruição do bem.
+Conclui-se, então, que a autora é parte ilegítima para figurar no pólo ativo da relação jurídico-processual visando à decretação de despejo cumulada com cobrança de aluguéis atrasados, devendo o feito ser extinto sem resolução de mérito." (fls. 154/155)
+Contudo, esse fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, por analogia, o óbice da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
