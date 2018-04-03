@@ -1,0 +1,6 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que manteve a sua prisão preventiva nos autos do HC n. 1.0000.17.073157-4/000.
+O andamento processual disponibilizado na página de internet da Corte local noticia que, em 24/10/2017, foi prolatada sentença condenatória em desfavor da paciente na Ação Penal n. 0313170164260.
+Ainda que tenha sido vedado ao réu o direito de recorrer em liberdade, a prolação do novo decisum evidencia a prejudicialidade deste recurso ordinário em habeas corpus, pois "não cabe a esta Corte averiguar a motivação do novo decreto constritivo sem que haja prévia submissão dessa tese ao Tribunal de origem, sob pena de indevida supressão de instância" (AgRg no HC n. 251.260/MG, Rel. Ministro Og Fernandes, 6ª T., DJe 24/6/2013). No mesmo sentido, confira-se o seguinte julgado da Quinta Turma: HC n. 243.953/MG, Rel. Ministro Marco Aurélio Bellizze, DJe 13/3/2013).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este recurso ordinário em habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
