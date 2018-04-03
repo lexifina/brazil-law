@@ -1,0 +1,30 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. ART. 81, § 2º DO CÓDIGO PENAL. SUSPENSÃO CONDICIONAL DA PENA. TÉRMINO DO PERÍODO DE PROVA SEM REVOGAÇÃO DO SURSIS PROCESSUAL. PRORROGAÇÃO AUTOMÁTICA EM RAZÃO DA PRÁTICA DE NOVO DELITO DURANTE O PERÍODO DE PROVA. PRECEDENTES.
+Recurso especial provido.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de São Paulo, com fundamento na alínea c do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local, no Habeas Corpus n. 2084344-21.2016.8.26.0000.
+Consta dos autos que o réu foi condenado pelo delito de lesão corporal grave, tendo sido fixada pena de 2 anos de reclusão e deferido o sursis pelo período de 2 anos. No período de prova, o ora recorrido foi preso em flagrante delito por homicídio qualificado. Contudo, o Ministério Público apenas requereu a prorrogação do período de prova, após expirado o prazo de 2 anos do sursis.
+O Juiz singular entendeu que seria o caso de deferir a prorrogação do período de prova até julgamento definitivo do homicídio, já o Tribunal de origem, reformando a decisão de primeiro grau, decidiu ser incabível a revogação da suspensão condicional da pena, pois requerida tardiamente, quando já ultrapassado o período de prova.
+O recorrente alega que houve dissenso jurisprudencial, já que enquanto o acórdão recorrido entendeu que não era cabível a prorrogação tardia do período de suspensão de prova, quando cometido o delito durante o prazo do sursis, o acórdão paradigma, proferido por esta Corte superior, julgou no sentido de que é devida a prorrogação automática do benefício até o julgamento definitivo do feito.
+Pede a reforma do acórdão recorrido e, consequentemente, o restabelecimento da  ..  decisão de primeiro grau de jurisdição que determinou a prorrogação do período probatório da suspensão condicional da pena do recorrido (fl. 73).
+Apesar de intimada, a defesa deixou transcorrer o prazo para apresentação das contrarrazões em branco (fl. 97).
+O recurso foi admitido na origem (fl. 100).
+O Ministério Público Federal opina pelo provimento do recurso (fls. 109/113).
+É o relatório.
+Discute-se no presente recurso se o período de prova do sursis fica automaticamente prorrogado quando o réu comete novo delito durante o referido período.
+Segundo a jurisprudência assente do Superior Tribunal de Justiça, o término do período de prova - sem revogação do sursis processual - não induz, necessariamente, a decretação da extinção da punibilidade, que somente tem lugar após certificado que o acusado cumpriu as obrigações estabelecidas e não veio a ser denunciado por novo delito durante a fase probatória.
+Julgados em semelhante sentido: REsp n. 849.626/MG, Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Sexta Turma, DJe 26/9/2011 e HC n. 173.428/MS, Rel. Ministro Og Fernandes, Sexta Turma, DJe 21/3/2011.
+Ademais, nos termos do art. 89, §§ 3º e 4º, da Lei n. 9.099/1995, entende-se que  ..  o sursis processual será obrigatoriamente revogado quando o beneficiário for processado por outro crime, no decorrer do período de prova, ou na ausência de reparação do dano sem motivo justificado  .. . (HC n. 342.438/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 22/4/2016).
+Nesse sentido:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. SUSPENSÃO CONDICIONAL DO PROCESSO. DESCUMPRIMENTO DE CONDIÇÃO. PRORROGAÇÃO. REVOGAÇÃO DO BENEFÍCIO APÓS CONSTATAÇÃO DE PROCESSO CRIMINAL INICIADO EM MOMENTO ANTERIOR À PRORROGAÇÃO. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. Esta Corte, interpretando o art. 89, § 4º, da Lei n.º 9.099/95, firmou o entendimento de que, tratando-se de suspensão condicional do processo, o descumprimento de imposição estabelecida é causa de revogação do benefício, que pode ser declarada, inclusive, após expirado o período de prova, desde que referente a fato ocorrido durante sua vigência. Precedentes do STJ e do STF. Na hipótese, o recorrente foi beneficiado com o sursis processual, em 12.7.2007, tendo sido o benefício prorrogado, em 1º.10.2009, diante do descumprimento de condições. Todavia, em razão de processo penal instaurado em desfavor do recorrente, em 30.7.2007, a suspensão foi revogada, em 20.10.2009. Tal providência é plenamente cabível, tendo em vista o entendimento mencionado, bem como a compreensão de que o período de prova refere-se ao lapso temporal relativo ao início do benefício até o seu término, que pode perdurar por no máximo quatro anos. Portanto, ainda que tenha havido prorrogação da medida despenalizadora, é possível a sua posterior revogação, mesmo que seja por fato preexistente à prorrogação, desde que ocorrida durante o período de prova.
+2. Recurso ordinário em habeas corpus não provido.
+(RHC n. 29.052/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 24/4/2013 - grifo nosso).
+PENAL. RECURSO ESPECIAL. SURSIS. BENEFICIÁRIO PROCESSADO DURANTE O PERÍODO DE PROVA. PRORROGAÇÃO AUTOMÁTICA. ART. 81, § 2º, DO CP.
+Se o beneficiário está sendo processado por outro delito, o sursis é automaticamente prorrogado até o julgamento definitivo do feito, ex vi do art. 81, § 2º, do CP.
+Recurso provido.
+(REsp n. 1.107.269/MG, Ministro Felix Fischer, Quinta Turma, DJe 3/8/2009).
+À luz dos precedentes mencionados, merece reforma o acórdão estadual, pois, in casu, o recorrido foi preso em flagrante delito e responde a processo por fato ocorrido durante o prazo de sursis processual, descumprindo, assim, o disposto no art. 89, § 3º, da Lei n. 9.099/1995.
+Melhor esclarecendo, a audiência de advertência do sursis ocorreu em 20 de janeiro de 2014 e, em 16 de janeiro de 2016, foi decretado o término do período. Contudo, no dia 31 de março de 2014, o réu foi preso por supostamente ter cometido o delito de homicídio qualificado, razão pela qual o prazo do período de prova deve ser suspenso.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para restabelecer a decisão do Juiz singular, que determinou a prorrogação automática do período de prova.
+Publique-se.
