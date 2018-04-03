@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor próprio por CRISTIANO CRISTALDO DOS SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul.
+Em sua petição, escrita de próprio punho pelo paciente/impetrante, requer a concessão da ordem a fim de que cesse o constrangimento ilegal que afirma sofrer.
+No entanto, o writ foi deficitariamente instruído, uma vez que não foram colacionadas as peças processuais necessárias à compreensão da controvérsia.
+Prestadas as informações pela autoridade coatora (e-STJ, fls. 19-31), os autos vieram conclusos.
+Consta dos autos que o Desembargador Relator do habeas corpus impetrado perante o Tribunal de origem negou seguimento àquela impetração (e-STJ, fls. 27-29).
+Neste writ, alega o impetrante/paciente sofrer constrangimento ilegal, pelo argumento de que não há fundamentação idônea a justificar o indeferimento de sua progressão ao regime semiaberto, pois já cumpridos todos requisistos (e-STJ, fls. 1-11). Assevera que dos "13 (treze) anos a que foi condenado, já cumpriu mais de 9 (nove) anos e 6 (seis) meses em regime fechado", não podendo cumprir toda a reprimenda em regime fechado. Destaca que não há razão negativa da progressão, mesmo diante do exame criminológico ao qual foi submetido.
+Requer a concessão da ordem, a fim de deferir sua progressão ao regime semiaberto.
+Sem pedido liminar.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+O art. 112 da Lei de Execuções Penais dispõe que, para a concessão da progressão de regime, é necessário o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+No caso em análise, das informações prestadas verifica-se que o Desembargador negou seguimento ao habeas corpus e o Juízo da 1ª Vara de Execução Penal da Comarca de Campo Grande indeferiu ao paciente a progressão de regime, pelos seguintes fundamentos:
+" ..
+É caso de negativa monocrática de seguimento do writ.
+In casu, o pedido veio desprovido de documentação. Entretanto, compulsando- se os autos digitais da execução penal a que se refere (n. 0054554-57.2009.8.12.0001), em trâmite na la Vara da Execução Penal da comarca de Campo Grande, é possível observar que razão não assiste ao paciente/impetrante.
+Denota-se, nesse passo, que o indeferimento do pedido de progressão ocorreu de forma fundamentada, tendo o julgador de primeira instância feito menção às sucessivas fugas do paciente e ao laudo de exame criminológico, conclusivo no sentido de que o mesmo ainda não está apto a cumprir pena em regime mais brando, in verbis:
+"Com efeito, o sentenciado cumpre pena de 13 (treze) anos, por condenação pela prática do crime de roubo qualificado e furto, tendo cumprido 1/6 (um sexto) da pena imposta, preenchendo o requisito objetivo para a progressão do regime. De se ressaltar, que desde o início do cumprimento da pena, em 26/02/2009, o sentenciado já empreendeu fuga por oito vezes, inclusive logo após ter sido colocado no regime mais brando, o que revela sua recalcitrância no cumprimento das normas que lhe são impostas. Além disso, não exerceu qualquer atividade laboral intramuros. Nesse contexto, de acordo com o laudo do exame criminológico realizado, o sentenciado "é acometido pelo transtorno de personalidade antissocial, caracterizado por um perfil psicológico manipulador, pretensioso, imaturo e que não desenvolveu de maneira adequada o conceito de limite, tanto é assim que despreza de maneira expressa a ordem social e as regras de conduta que regulamentam a sociedade, bem como ainda apresenta características de periculosidade latente e não está em condições de aceitar o convívio social e/ou ambiente de trabalho", tendo o perito judicial concluído que não está apto a cumprir pena em regime mais brando. Assim, em que pese a conduta carcerária do o sentenciado estar classificada como "ÓTIMA" (f. 690), considerando o histórico prisional do custodiado, as circunstâncias do crime bem como as o conclusões do laudo criminológico, reputo não preenchido o requisito subjetivo para progressão de regime. Deve ser registrado que, a exemplo do o o entendimento jurisprudencial abaixo citado, o cumprimento dos requisitos objetivos para a progressão de regime não garante, por si só, o direito do custodiado à concessão do beneficio, vejamos: (..) Di ante de todo o exposto, (4:2"m v ausente o requisito subjetivo, com fundamento no artigo 112 da Lei de Execução Penal, indefiro o pedido de progressão do regime prisional.
+ .. " (e-STJ, fls. 27-28).
+Tem-se, portanto, que as instâncias ordinárias concluíram pela ausência do requisito subjetivo para concessão da progressão de regime ao paciente, baseando-se, em decisão fundamentada, no comportamento carcerário do paciente - que empreendeu sucessivas fugas durante a execução de sua reprimenda -, bem como na conclusão desfavorável do laudo do exame criminológico.
+Neste sentido é a jurisprudência desta Corte:
+"HABEAS CORPUS. EXECUÇÃO PENAL. CRIMES DE EXTORSÃO MEDIANTE SEQUESTRO, ROUBO TENTADO E PORTE ILEGAL DE ARMA. PROGRESSÃO DE REGIME. INDEFERIMENTO PELO JUÍZO DAS EXECUÇÕES. CONFIRMAÇÃO DO DECISUM PELA CORTE DE ORIGEM. REQUISITO SUBJETIVO NÃO PREENCHIDO. DECISÃO FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS DENEGADO.
+1. O benefício da progressão de regime somente será concedido ao condenado que preencher, cumulativamente, os requisitos objetivo e subjetivo, consoante o disposto no art. 112 da Lei de Execução Penal.
+2. Na hipótese, o indeferimento do benefício foi devidamente fundamentado pelo Juízo Singular, em decisum confirmado pela Corte a quo, em razão do não preenchimento do requisito subjetivo pelo ora Paciente, pela periculosidade do sentenciado, concretamente demonstrada. Precedentes.
+3. Ordem de habeas corpus denegada."
+(HC 261.135/SP, Rela. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 19/02/2013, DJe 28/02/2013)
+"PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA. PEDIDO DE PROGRESSÃO DE REGIME. ART. 112 DA LEP. REQUISITO SUBJETIVO NÃO ATENDIDO. EXAME CRIMINOLÓGICO DESFAVORÁVEL.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada for flagrante, hipótese em que se concede a ordem de ofício.
+2. A progressão de regime somente será concedida quando preenchidos, ao mesmo tempo, os requisitos objetivo e subjetivo, na forma disposta no art. 112 da Lei de Execução Penal.
+3. Hipótese em que as instâncias ordinárias reconheceram, por decisões fundamentadas, a ausência do requisito subjetivo necessário à progressão do paciente ao regime semiaberto, baseadas na conclusão desfavorável estampada em exame criminológico.
+4. Eventual conclusão diversa demandaria análise minuciosa da matéria fático-probatória, providência incabível no âmbito do mandamus.
+5. Habeas corpus não conhecido."
+(HC 300.004/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 10/03/2015, DJe 26/03/2015)
+Assim, não há falar em constrangimento ilegal a autorizar a concessão da ordem, de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal desta decisão.
+Encaminhe-se cópia da impetração e desta decisão à Defensoria Pública do Estado do Mato Grosso do Sul, para análise e providências que entender cabíveis à salvaguarda dos direitos do paciente.
+Publique-se. Intime-se.
