@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de recurso extraordinário interposto com amparo no art. 102, III, alínea a da Constituição Federal, em face de acórdão do Tribunal Regional Federal da 5ª Região.
+    No apelo extremo, o recorrente sustenta a existência de repercussão geral e que o julgado teria violado dispositivos constitucionais. Por fim, pede que o recurso seja conhecido e provido para modificar o acórdão recorrido.
+    É o relatório. Decido.
+    O aresto impugnado foi assim ementado:
+    “Processo Penal. Recurso em sentido estrito. Ilícito perpetrado por funcionária de empresa que opera sob o regime de franquia dos correios. Contrato de franquia que estipula a responsabilidade do franqueado. Inocorrência de interesse direto da União, de suas autarquias ou empresas públicas. Competência da Justiça Comum Estadual. Não provimento do recurso.”
+    As instâncias precedentes com fundamento no contrato de franquia concluíram que o bem lesionado diretamente pela suposta conduta criminosa foi o da Agência Franqueada Norte dos Correios, e não o da Empresa Brasileira de Correios e Telégrafos – ECT.
+    Efetivamente, o Tribunal de origem, com fundamento na legislação ordinária e no substrato fático constante dos autos, reconheceu a ausência de lesão a bem jurídico da ECT, com fundamento em interpretação conferida à legislação cível comum e especial, aplicada à espécie. Trata-se de matéria situada no contexto normativo infraconstitucional, de forma que eventuais ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 (“para simples reexame de prova não cabe recurso extraordinário”).
+    Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Processual penal. Crime praticado contra a Empresa Brasileira de Correios e Telégrafos (ECT). Artigo 109, IV, da Constituição Federal. Alegação da incompetência da Justiça Federal. Não ocorrência. Reexame do cotejo fático-probatório. Impossibilidade na via extraordinária. Incidência da Súmula nº 279/STF. Precedentes. Agravo regimental não provido. 1. O entendimento firmado no Tribunal a quo não divergiu da jurisprudência da Suprema Corte ao assentar a competência da Justiça Federal na espécie (CF, art. 109, IV), tendo em vista que a prática do crime de peculato atingiu diretamente a ECT no exercício de suas atividades como banco postal, o que atrai o interesse inegável da União, por se tratar de uma de suas empresas públicas. 2. Para divergir das conclusões adotadas pelo acórdão recorrido, necessário seria o reexame aprofundado do cotejo fático-probatório dos autos, o que é inviável na via eleita. Incidência, portanto, da Súmula nº 279/STF. 3. Agravo regimental não provido.” (ARE 964.333 AgR/AM, Rel. Min. DIAS TOFFOLI, Segunda Turma, Dje 21/02/2017)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – ALEGADA VIOLAÇÃO A PRECEITO CONSTITUCIONAL – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – INVIABILIDADE DO RECURSO EXTRAORDINÁRIO – AGRAVO IMPROVIDO. – Não cabe recurso extraordinário, quando interposto com o objetivo de discutir questões de fato ou de examinar matéria de caráter probatório.” (ARE 912.308 AgR/SP, Rel. Min. CELSO DE MELLO, Segunda Turma, Dje 26/11/2015)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Publique-se.
+    Brasília, 3 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
