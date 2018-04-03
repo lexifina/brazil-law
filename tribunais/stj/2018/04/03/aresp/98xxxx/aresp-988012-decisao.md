@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. APRECIAÇÃO EQUITATIVA. VALOR DA CAUSA. MAJORAÇÃO. NECESSIDADE.
+1. São irrisórios os honorários advocatícios fixados em patamar inferior a 1% sobre o valor da causa.
+2. Agravo conhecido. Recurso especial provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME], contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de reparação por danos materiais cumulada com compensação por danos morais, ajuizada por [NOME], em desfavor de INTERMÉDICA SISTEMA DE SAÚDE S/A, em razão de alegado erro médico em procedimento cirúrgico, sendo o agravante denunciado à lide.
+Sentença: julgou improcedentes os pedidos, fixando, no que interessa, honorários advocatícios em 10% (dez por cento) sobre o valor atualizado da causa, a ser pago pelo denunciante ao denunciado.
+Acórdão: negou provimento à apelação da autora e deu parcial provimento ao recurso da ré denunciante, somente para reduzir a verba honorária devida ao patrono do denunciado, ora agravante, nos termos da seguinte ementa:
+RESPONSABILIDADE CIVIL Alegação de erro médico Cirurgia para correção de dedos em gatilho - Responsabilidade subjetiva do médico que realizou a cirurgia, exigindo-se prova de culpa profissional Laudos periciais que não constataram a ocorrência de erro médico Sintomas relatados na inicial que não decorreram do procedimento cirúrgico, mas sim da má evolução da moléstia ao longo do tempo, não obstante a correta intervenção médica Exclusão do nexo causal Inocorrência de erro médico - Ação improcedente Lide secundária improcedente Condenação do denunciante a arcar com honorários advocatícios devidos ao patrono do denunciado Valor excessivo fixado, com base no elevado valor da causa Recurso do denunciante parcialmente provido apenas para reduzir o valor da verba honorária, a ser fixada por equidade com base nos parâmetros do art. 20, par. 4º. do CPC Ação improcedente Recurso da autora improvido Recurso do denunciante parcialmente provido.
+Recurso especial: alega violação do art. 20, §§ 3º e 4º, do CPC/73, bem como dissídio jurisprudencial, insurgindo-se contra o valor fixado a título de honorários sucumbenciais, eis que correspondente a menos de 0,5% do valor atualizado da causa.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/73.
+- Dos honorários advocatícios
+O Superior Tribunal de Justiça admite, excepcionalmente, a revisão da verba honorária em recurso especial quando o valor fixado nas instâncias ordinárias se revelar irrisório ou exorbitante, distanciando-se dos critérios legais prescritos no art. 85 do CPC/2015 ou do postulado normativo da proporcionalidade.
+Nessas hipóteses, a questão dos honorários deixa de ser de fato e passa a ser de direito, podendo, portanto, ser apreciada por esta Corte, sem que isso implique violação do enunciado da Súmula 7/STJ (AgRg nos EREsp 644.871/SC, Corte Especial, DJe de 26/03/2009; REsp 1.601.556/RJ, 3ª Turma, DJe de 20/06/2016 e EDcl nos EDcl no REsp 531.370/SP, 4ª Turma, DJe de 03/02/2014).
+Dessa forma, a jurisprudência do STJ tem considerado, em princípio, irrisórios os honorários fixados em patamar inferior a 1% sobre o valor da causa. Nesse sentido: REsp 1.601.556/RJ, 3ª Turma, DJe 20/06/2016; e AgRg no REsp 1.150.157/DF, 4ª Turma, DJe 19/09/2016.
+Sendo assim, na espécie, os honorários advocatícios fixados no patamar de R$ 3.500,00 (três mil e quinhentos reais) revelam-se desproporcionais, considerando que o valor da causa, em setembro de 2002, é de R$ 414.076,52 (quatrocentos e catorze mil e setenta e seis reais e cinquenta e dois centavos).
+Impõe-se, portanto, a readequação da verba e sua majoração para o percentual de 1% do valor atualizado da causa, que remunera de maneira digna o serviço prestado pelos advogados.
+Forte nessas razões, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, a fim de majorar os honorários advocatícios para 1% (um por cento) do valor atualizado da causa.
+Publique-se. Intimem-se.
