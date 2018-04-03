@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de Agravo, interposto por CONSTRUTORA TEDESCO LTDA, em 26/10/2017, mediante o qual se impugna decisão indeferitória de seguimento a seu Recurso Especial, esse tomado de acórdão, promanado do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. MANDADO DE SEGURANÇA. BAIXA E EXTINÇÃO DE PROCESSOS ADMINISTRATIVOS VINCULADOS A PER/DCOMPS. EMISSÃO DE INEXISÊNCIA DE DÉBITO APÓS A INTIMAÇÃO DA IMPETRADA. EXISTÊNCIA DE INTERESSE PROCESSUAL. GARANTIA AO DIREITO DE RESTITUIÇÃO OU COMPENSAÇÃO DE SALDOS NEGATIVOS DE IRPJ E CSLL. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA.
+1. O relatório que comprova a inexistência de débito exigível relativamente às PER/DCOMPs que foram quitadas pela empresa impetrante foi emitido somente após a intimação da autoridade impetrada, razão pela qual os pedidos, tanto da baixa dos procedimentos quanto o de que os processos em questão não obstruam ou sejam impeditivos à requisição de novos pedidos de restituição e/ou declarações de compensação nos termos do artigo 165 do CTN, devem ser julgados parcialmente procedentes.
+2. O mandado de segurança é instrumento hábil a ancorar pretensão que se mostre de plano. A ação mandamental se constitui em garantia instrumental constitucional, de cunho sumário e documental, sendo inadmissível dilação probatória para fins de comprovação da liquidez e certeza do fato que embasa o direito posto em causa. Nesse contexto, no que tange ao pedido de que seja garantido o direito à compensação/restituição dos saldos negativos de IRPJ e CSLL, o processo deve ser extinto sem julgamento do mérito, em face da inadequação da via eleita" (fl. 312e).
+Embargos de Declaração não acolhidos (fls. 330/333e).
+Alega-se, nas razões do Recurso Especial, manejado com apoio na alínea a do permissivo constitucional, ofensa aos arts. 165, I, do CTN e 73 e 74 da Lei 9.430/96.
+Sustenta, a parte recorrente, em síntese, o seguinte:
+"A recorrente ajuizou mandado de segurança em 01.04.2014 requerendo, "in limine", a baixa e a extinção no sistema eletrônico da Receita Federal do Brasil (RFB) de processos administrativos de compensação (PerDcomp), dado que quitados integralmente nos termos do art. 155, I, do Código Tributário Nacional (CTN).
+Expôs, que eventuais pendências no sistema da RFB, após a quitação dos débitos outrora objeto de compensação, não obstruíssem a requisição de novos pedidos nos moldes e nas normas que regulam o envio de arquivos eletrônicos (PerDcomp"s) exarados pela autoridade fazendária.
+Requereu, ainda, garantia ao direito de restituição e/ou compensação do saldo de IRPJ e da CSLL (ano calendário 2009/exercício 2010) na monta de R$ 859.624,98, eis que este crédito original restou reestabelecido após a quitação dos débitos anteriormente compensados e a este vinculados.
+A medida liminar fora indeferida de plano a (fls..). Sobreveio r. sentença a (fls..) julgando parcialmente procedente o pedido, concedendo em parte a segurança apenas no tocante a baixa e a extinção dos processos administrativos de compensação no sistema eletrônico e banco de dados da RFB, sendo que tais, inclusive, não obstruíssem ou fossem impeditivos a novos pedidos de restituição e/ou declarações de compensação, com fulcro no art. 487, inciso I do NCPC.
+Todavia, julgou extinto o processo sem julgamento do mérito no tocante a garantia ao direito de restituição/compensação do saldo negativo de imposto sobre a renda (IRPJ) e da contribuição social sobre o lucro líquido (CSLL) do ano calendário de 2009, exercício 2010 com supedâneo no art. 485, inciso IV, do NCPC.
+Os embargos de declaração opostos tempestivamente com relevante arguição de obscuridade e contrariedade acerca da inexistência de apreciação de mérito do pedido de garantia ao direito de restituição/compensação do saldo negativo supracitado foram conhecidos, porém rejeitados.
+Sobreveio v. acórdão negando provimento a apelação e ao reexame necessário. Opostos, novamente embargos declaratórios, este, porém rejeitados.
+(..)
+Insistimos, mais uma vez, o direito ao crédito e sua exata quantia encontra-se revelado na Declaração de Imposto de Renda da Pessoa Jurídica (DIPJ) (evento 1 - OUT 5, pg. 13 e pg. 19). Portanto, é contraditório assentar sua inexistência ou incerteza com as provas juntadas ao "writ".
+Certamente, a Fazenda Nacional detém acesso as informações enviadas tempestivamente pela embargante relativas ao saldo negativo de imposto de renda (IRPJ) e da contribuição social sobre o lucro líquido (CSLL) contidas na Declaração de Imposto de Renda da Pessoa Jurídica (DIPJ) do ano calendário de 2009 (evento 1 - OUT 5, pg. 13 e pg. 19).
+(..)
+Notadamente, a obrigação acessória exigida pela Fazenda Nacional (DIPJ) é prevista em lei e atos administrativos exarados pela própria recorrente. Contempla, em síntese, a veracidade de todas as movimentações contábeis e fiscais para fins de cumprimento das normas em rigor.
+Logo, se a própria Fazenda Nacional questiona a DIPJ, quiçá seus administrados. É trilhar, em aprazível similaridade, na incerteza da Declaração de Pessoa Física (DIPF) e seu direito a restituição de imposto pago maior.
+Não merece prosperar, por risível e obscuro tal adução proferida pela embargada: "..Neste ponto é precário dizer que tal tarefa pode ser realizada pela RFB, embasada apenas no que integra tais declarações, posto que, estas podem ser incompletas ou inverídicas. É tarefa que impõe a verificação da contabilidade da empresa, o que será feita no âmbito administrativo após regular intimação do contribuinte".
+Para tal raciocínio, então, nenhuma declaração DIPF (pessoa física) ou DIPJ (pessoa jurídica) poderia ser autorizado o direito a restituição. Pasmém!, é confrontrar o art. 156, VII, do Código Tributário Nacional.
+(..)
+A Fazenda Nacional nega sistematicamente e com veemência chancelar o pedido administrativo em papel.
+Assim, tal recusa, por parte dos servidores públicos, em acolher a protocolização do pedido de restituição nos moldes citados, resultará no perecimento do direito ao crédito tributário. Tal fato será facilmente comprovado.
+(..)
+(..) o art. 165, inciso I, do Código Tributário Nacional dispõe que o contribuinte tem direito a restituição total ou parcial do tributo que tenha arrecadado indevidamente ou a maior, "in verbis":
+(..)
+Como se vê, tal dispositivo é cristalino ao dispor as situações passíveis de ensejar o direito à restituição de indébito, pelo que cabe a doutrina e jurisprudência realizar interpretação analógica.
+Isto porque, apesar de estarem listadas no Código Tributário Nacional apenas três hipóteses de restituição, certo é que tendo o pagamento do tributo ocorrido a maior ou indevidamente, este valor será sempre devido, nos termos do artigo 964 do Código Civil, que prevê:
+(..)
+A administração pública tem o dever de arrecadar o tributo instituído por Lei e o poder para fazê-lo.
+Contudo, em sendo reconhecida que a exação não era devida, independe, por outro lado, seja o valor recolhido restituído, sob pena de violação ao direito do cidadão que confia no Estado.
+Se não há causa para o pagamento, se o contribuinte recolheu aos cofres públicos tributo indevido, tem o Fisco o dever de devolver o valor àquele, sob pena de enriquecimento indevido, repugnado em nosso ordenamento jurídico, (..)
+(..)
+(..) a inexistência de crédito tributário detido pela apelante ou a sua inexatidão, quiça a percepção de fraude em nítido intuito de ludibriar a autoridade fazendária consubstanciariam a exigência de multa punitiva e dariam guisa esta legítima penalidade. Não é o caso" (fls. 345/351e).
+Requer, por fim, "seja conhecido e dado prosseguimento ao recurso especial, reformando-se totalmente o v. acórdão dentro da garantia do contraditório pleno e amplo, e do devido processo legal. Requer, ainda, que seja intimado o recorrido, abrindo-lhe prazo para apresentar contrarrazões e, findo o prazo, determine a remessa dos autos ao Egrégio Superior Tribunal de Justiça" (fl. 351e).
+Contrarrazões às fls. 365/366e.
+Recurso Especial inadmitido (fls. 371/372e), com base na Súmula 7/STJ, o que ensejou a interposição de Agravo (fls. 381/387e).
+Contraminuta às fls. 629/637e.
+O presente recurso não merece prosperar.
+Importante reproduzir o seguinte trecho do voto condutor do acórdão recorrido:
+"Com efeito, o mandado de segurança é instrumento hábil a ancorar pretensão que se mostre de plano. A ação mandamental se constitui em garantia instrumental constitucional, de cunho sumário e documental, sendo inadmissível dilação probatória para fins de comprovação da liquidez e certeza do fato que embasa o direito posto em causa.
+Na hipótese, a impetrante busca seja garantido o direito de restituição/compensação do saldo negativo de IRPJ e CSLL (ano calendário 2009, exercício 2010), na monta de R$ 859.624,98.
+Conforme informações prestadas pela autoridade impetrante, a compensação não foi homologada na via administrativa por não reconhecimento do crédito, em razão de não ter havido apuração de crédito na Declaração de Informações Econômico-Fiscais da pessoa jurídica (DIPJ) correspondente ao período de apuração do saldo negativo informado no PER/DCOMP (ev. 19).
+Inicialmente, da leitura da inicial, depreende-se que os fundamentos do indeferimento da homologação da compensação sequer foram atacados pela impetrante.
+Ademais, os documentos juntados aos autos são insuficientes para comprovar, de plano, o direito creditório, conforme bem explanado pela Fazenda Nacional em sede de contrarrazões (ev. 85):
+(..)
+Além disso, ao contrário do que afirma a apelante, não houve reconhecimento do direito creditório pela impetrada no evento 25. Neste, a Fazenda Nacional apenas afirmou que não se está negando ao contribuinte o direito ao recebimento do valor, mas que este deve ser pleiteado na via própria (pedido administrativo por intermédio de formulário de papel) - pois, então, será possível o exame da existência, ou não, dos saldos negativos pleiteados pela contribuinte.
+Dessa feita, a análise judicial do cabimento da restituição/compensação exigiria dilação probatória, incompatível com a via eleita, razão pela qual andou bem o julgador monocrático ao indeferir o pedido sem julgamento do mérito" (fls. 310/311e).
+Impossível rever a afirmação, contida no julgado impugnado, de que não há prova do direito creditório alegado, que é a premissa da compensação, porquanto demandaria inegável incursão no conjunto probatório dos autos, providência sabidamente vedada pela Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC"), deixo de majorar os honorários advocatícios, já que, conforme orientação fixada pela Súmula 105/STJ, não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança.
+I.
