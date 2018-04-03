@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO ECAD, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"COBRANÇA. DIREITOS AUTORAIS. ECAD. ESPAÇO DISPONIBILIZADO PARA LOCAÇÃO PELA RÉ, PARA REALIZAÇÃO DE EVENTOS COMEMORATIVOS. CASAMENTOS, FESTAS DE e ANIVERSÁRIO, ETC. EVENTOS PRIVADOS, SEM ACESSO AO PUBLICO GERAL OU VENDA DE c INGRESSOS. EXTENSÃO DO LAR. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. APELAÇÃO NÃO PROVIDA.
+1. Ação de cobrança de direitos autorais movida pelo ECAD. Sentença de improcedência. Manutenção.
+2. Hipótese em que todos os contratos apresentados pela ré demonstram que ela apenas disponibiliza à locação um espaço (tipo chácara) para realização de eventos, sendo a que a utilização de aparelhagem de som, buffet, filmagens, etc., fica a cargo exclusivo dos locatários, porquanto não disponibilizados pela ré/apelada.
+3. Caso que não se confunde com aqueles envolvendo hoteis, academias, bares, etc., que utilizam a reprodução de obras musicais corno incremento dos serviços prestados, para atrair clientes e aumentar a aferição de lucro, ou de casas de shows, buffets, salões, etc., que disponibilizam ou reproduzem diretamente obras musicais como parte dos serviços prestados.
+4. Realização de eventos privados (como casamentos, aniversários e confraternização de empresas, etc.), sem acesso ao público geral ou venda de ingressos. Mera circunstância de terem sido realizados em um imóvel locado que não altera sua natureza jurídica privada.
+"Extensão do lar". Precedentes.
+5. Autor/apelante que não se incumbiu do ônus de comprovar que os eventos realizados pelos locatários tenham ultrapassado esse limite de eventos privados. Art. 333, 11, CPC.
+6. Apelação do autor não provida." (fls. 385)
+Afirma o recorrente violação aos arts. 28, 29, 46, VI e 68 da Lei 9.610/98 e divergência jurisprudencial, sustentando, em síntese, a incidência da cobrança de direitos autorais decorrentes da execução pública de obras musicais, independente da obtenção de lucro.
+Apresentadas contra-razões às fls. 446-459.
+É o relatório.
+O eg. Tribunal de origem concluiu pela não incidência de cobrança de direitos autorais, nos seguintes termos:
+"Por conseguinte, o fato de os eventos lá realizados serem privados (como casamentos, aniversários e confraternização de empresas, etc.), sem acesso ao público geral e sem a venda de ingressos, como se pode observar e pelos contratos juntados pela apelada, leva à improcedência da ação.
+Nesse diapasão, vale ressaltar que o ECAD não trouxe qualquer documento que pudesse comprovar o desvirtuamento de tais pactuações (destinação dos alugueis), o que lhe competia (art. 333, 11, CPC).
+Além disso, conforme já concluiu por unanimidade esta 6ª Câmara de Direito Privado em outra demanda movida pelo ECAD (Apelação nº 0000604-72,2010.8.26.0272, Rel Paulo Alcides, j. em 21/06/2012), o que diferencia uma festa ou reunião feita no recesso do lar ou no interior de chácaras, clubes, salões de edifícios, etc. e apenas o local do evento, os quais não só podem como devem ser considerados como extensão do lar, independentemente do número de pessoas que compareceram." (fls. 387)
+Desta forma, verifica-se que o acórdão recorrido está em dissonância com o entendimento consolidado nesta Corte Superior, no sentido de que são devidos os direitos autorais em decorrência da reprodução de obras musicais em eventos privados realizados em recinto de clube, mesmo que inexistente proveito econômico.
+A propósito:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DIREITOS AUTORAIS. EXECUÇÃO DE MÚSICAS. CASAMENTO. AGRAVO NÃO PROVIDO.
+1. É devida a cobrança de direitos autorais pela execução de música em festa de casamento realizada em clube, mesmo sem a existência de proveito econômico. Precedentes.
+2. Agravo regimental a que se nega provimento." (AgRg nos EDcl no REsp 1541090/SE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2015, DJe 18/12/2015, g.n.)
+"DIREITOS AUTORAIS. RECURSO ESPECIAL. CASAMENTO REALIZADO EM CLUBE, COM EXECUÇÃO DE MÚSICAS E CONTRATAÇÃO DE PROFISSIONAL PARA SELEÇÃO DE MÚSICAS (DJ). EXIGÊNCIA DE PAGAMENTO DE DIREITOS AUTORAIS. POSSIBILIDADE. PROVEITO ECONÔMICO PARA EXIGIBILIDADE. DESNECESSIDADE.
+1. Anteriormente à vigência da Lei N. 9.610/1998, a jurisprudência prevalente enfatizava a gratuidade das apresentações públicas de obras musicais, dramáticas ou similares como elemento decisivo para distinguir o que ensejaria ou não o pagamento de direitos autorais.
+2. Contudo, o art. 68 do novo diploma legal revela a subtração, quando comparado com a lei anterior, da cláusula exigindo "lucro direto ou indireto" como pressuposto para a cobrança de direitos autorais. O Superior Tribunal de Justiça - em sintonia com o novo ordenamento jurídico - alterou seu entendimento para afastar a utilidade econômica do evento como condição de exigência para a percepção da verba autoral. Posição consolidada no julgamento do REsp. 524.873-ES, pela Segunda Seção.
+3. Portanto, é devida a cobrança de direitos autorais pela execução de música em festa de casamento realizada em clube, mesmo sem a existência de proveito econômico.
+4. É usuário de direito autoral, e, consequentemente responsável pelo pagamento da taxa cobrada pelo Ecad, quem promove a execução pública das obras musicais protegidas. Na hipótese de casamento, forçoso concluir, portanto, ser responsabilidade dos nubentes, usuários interessados na organização do evento, o pagamento dos direitos autorais, sem prejuízo da solidariedade instituída pela lei.
+5. Recurso especial provido." (REsp 1306907/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/06/2013, DJe 18/06/2013, g.n.)
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a abstenção da execução de obras musicais sem prévia autorização do ECAD e a indenização pelos direitos autorais que deixaram de ser recolhidos, apurados mediante liquidação de sentença, com incidência de correção monetária e juros de mora de 1% ao mês, contados de cada evento.
+Custas e honorários advocatícios pelo recorrido, fixados em 10% sobre o valor da condenação.
+Publique-se.
