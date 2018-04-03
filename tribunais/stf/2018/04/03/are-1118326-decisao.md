@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XIV e XXXII, e 170, V, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A Corte de origem decidiu a controvérsia em acórdão assim ementado:
+    “Associação – Sócio remido – Encerramento das atividades – Devolução dos valores pagos – Inadmissibilidade – Dano moral – Inocorrência – Ação improcedente – Recurso desprovido.”
+    A verificação da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas contratuais, bem como o revolvimento do quadro fático delineado, o que é vedado a esta instância extraordinária, a teor das Súmulas 279 e 454/STF: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+    “EMENTA: CONSUMIDOR. DANO MORAL. INADIMPLEMENTO DE CLÁUSULA CONTRATUAL. MATÉRIA FÁTICA E INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.” (ARE 927467 RG, Relator(a): Min. EDSON FACHIN, julgado em 03/12/2015, PROCESSO ELETRÔNICO DJe-252 DIVULG 15-12-2015 PUBLIC 16-12-2015)
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. COMPETÊNCIA DOS JUIZADOS ESPECIAIS PARA JULGAMENTO DO FEITO. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 213. NECESSIDADE DE REEXAME DO MATERIAL FÁTICO PROBATÓRIO E DAS CLÁUSULAS DO CONTRATO. SÚMULAS 279 E 454/STF. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. 1. O Supremo Tribunal Federal, ao apreciar o AI 768.339-RG, Rel. Min. Ricardo Lewandowski, decidiu pela ausência de repercussão geral de controvérsias acerca da complexidade da demanda e do valor da causa como balizas para fixação da competência dos Juizados Especiais Federais (Tema 213). 2. Para dissentir do acórdão recorrido, e concluir pelas constitucionalidades apontadas, seria necessária a análise do material fático probatório dos autos, bem como das cláusulas do convênio firmado entre as partes, o que é vedado nesse momento processual. Súmulas 279 e 454/STF. 3. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 4. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (RE 1064438 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 01/12/2017, PROCESSO ELETRÔNICO DJe-288 DIVULG 13-12-2017 PUBLIC 14-12-2017)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 03 de abril de 2018.
+Ministra Rosa Weber
+Relatora
