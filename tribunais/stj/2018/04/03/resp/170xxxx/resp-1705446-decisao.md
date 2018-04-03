@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi condenado pela prática do crime previsto no artigo 180, caput, do Código Penal - CP (receptação), às penas de 1 ano de reclusão, em regime inicial fechado, e pagamento de 10 dias-multa, conforme a sentença às fls. 100-102.
+A defesa interpôs apelação, pleiteando a absolvição do réu pela aplicação do princípio da insignificância ou a modificação do regime de pena.
+O Tribunal de origem negou provimento ao recurso, conforme acórdão às fls. 152-158.
+Na sequência, a defesa interpôs recurso especial, apontando violação dos artigos 8º da Declaração Universal dos Direitos Humanos, 8.2 da Convenção Americana sobre Direitos Humanos; 386, III, do Código de Processo Penal; 33, §2º, "c", e § 3º, 59 e 180, caput, do Código Penal.
+Sustenta, em síntese, que deve ser aplicado o princípio de bagatela, uma vez que não restou implementada a tipicidade delitiva, porquanto o valor da res furtiva não causou lesão significativa.
+Alega que "não houve periculosidade social da ação e a reprovabilidade do comportamento foi de pequeníssima monta" (fl. 170), sendo que o objeto furtado foi recuperado e a reincidência não obsta a aplicação princípio da insignificância.
+Diz que a reincidência não é suficiente para impor o regime fechado, uma vez que a pena-base foi fixada no mínimo.
+Assevera que, no caso, é adequado o regime semiaberto ao réu reincidente, pois não existem circunstâncias judiciais desfavoráveis e houve a confissão, circunstância apta a alterar o regime.
+As contrarrazões foram apresentadas às fls. 184-191.
+O recurso especial foi admitido (fls. 194) e os autos vieram a esta Corte.
+O Ministério Público Federal opinou pelo desprovimento do recurso especial (fls. 212-221).
+É o relatório. Decido.
+O recurso merece parcial provimento.
+O Juízo singular afastou o princípio da insignificância do caso em tela por considerar que o réu é reincidente em crime contra o patrimônio.
+O Tribunal de origem manteve o reconhecimento da tipicidade da conduta. Confira-se, o seguinte trecho do acórdão estadual:
+E, ao contrário do sustentado pela douta Defesa, não há que se falar em atipicidade da conduta, ante o princípio da insignificância, porquanto a legislação penal, no artigo 180, § 5º, parte final, do CP, estabeleceu um benefício exatamente para as hipóteses em que a res for de pequeno valor, ao qual o apelante não faz jus por ser reincidente, consoante reconhecido na r. sentença (fls. 04/07 do apenso de antecedentes  processo nº 3634/2012).
+ ..
+E, ainda no que tange à aplicação do princípio da insignificância, a jurisprudência do STF nessa matéria, norteada pelo Habeas Corpus 84.412/SP, da relataria do ministro Celso de Mello,definiu que a bagatela se aplica com base em quatro parâmetros: mínima ofensividade da conduta; nenhuma periculosidade social da ação; reduzidíssimo grau de reprovabilidade do comportamento; e,inexpressividade da lesão jurídica provocada. In casu, não se pode dizer que a conduta do apelante, consistente em receptar o aparelho de telefonia celular de propriedade da vítima (avaliado em R$ 300,00 - fls.15), seja de mínima ofensividade e de reduzidíssimo grau de reprovabilidade, e que a lesão jurídica provocada seja inexpressiva (fls. 156-157).
+Com efeito, diante do valor do bem objeto do crime (R$ 300,00), bem superior a 10% do salário mínimo na data do fato, verifica-se que a referida orientação delineada pelo Tribunal de origem está em harmonia com a jurisprudência desta Corte, conforme se depreende dos seguintes julgados:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGRAVO IMPROVIDO.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+2. A prática de receptação de bem avaliado em R$ 120,00, que representa 15,22% do salário mínimo vigente à época dos fatos, não pode ser tida como de lesividade mínima, inviabilizando a aplicação do princípio da insignificância. Precedentes do STJ.
+3. Agravo regimental improvido (AgRg no AREsp 1.145.405/DF, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 4/12/2017).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 1º E 155, AMBOS DO CP. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. VALOR DO BEM SUPERIOR A 30% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É inaplicável o princípio da bagatela, ao passo que não pode ser considerada insignificante a subtração de res furtiva avaliada em R$ 200, 00, correspondente à época dos fatos, a mais de 30% do salário mínimo vigente.
+2. Agravo regimental a que se nega provimento (AgRg no REsp 1.416.249/MG, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 27/5/2015).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES CONTRA O PATRIMÔNIO. FURTO. BEM SUBTRAÍDO UTILIZADO PARA LOCOMOÇÃO AO TRABALHO. VALOR NÃO IRRISÓRIO. CRIMINOSO CONTUMAZ. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. PRECEDENTES DO STF E STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça entendem que, para a configuração do delito de bagatela, devem estar presentes, de forma concomitante, os seguintes requisitos: 1) conduta minimamente ofensiva; 2) ausência de periculosidade do agente; 3) reduzido grau de reprovabilidade do comportamento; e 4) lesão jurídica inexpressiva.
+2. Os requisitos para a aplicação do princípio da insignificância não se encontram presentes. Isto porque além de não se tratar de "res furtiva" de valor reduzido (R$ 150,00 - cento e cinquenta reais, que à época do delito representava aproximadamente 30% do salário mínimo vigente), o bem subtraído consistia em uma bicicleta utilizada como meio de locomoção para o trabalho e não apenas como mero instrumento recreativo ou desportivo, o que impede a incidência do princípio da insignificância, nos termos da jurisprudência desta Corte.
+3. Para a aplicação do princípio da insignificância, além do aspecto objetivo, a jurisprudência deste Sodalício tem exigido também que não se trate de criminoso habitual (requisito subjetivo), o que não está preenchido no caso dos autos.
+4. Agravo regimental não provido (AgRg no REsp 1.427.872/RS, Relator Ministro MOURA RIBEIRO, QUINTA TURMA, DJe 24/3/2014).
+Ademais, in casu, registra-se o réu foi condenado por outro delito contra o patrimônio (roubo), estando caracterizada a reincidência, o que impede a aplicação do princípio da insignificância. O entendimento do acórdão não destoa da jurisprudência desta Corte Superior. A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TENTATIVA DE FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. OBJETOS AVALIADOS EM APROXIMADAMENTE 28% DO SALÁRIO MÍNIMO.
+I. A lei penal não deve ser invocada para atuar em hipóteses desprovidas de significação social, razão pela qual os princípios da insignificância e da intervenção mínima surgem para atuar como instrumentos de interpretação restrita do tipo penal.
+II. No caso, todavia, o recorrente é reincidente e possui diversas anotações por delitos patrimoniais, além de ter tentado subtrair bens avaliados em R$ 192,00, aproximadamente 28% do salário mínimo, não fazendo jus à aplicação do princípio bagatelar.
+III. Agravo regimental a que se nega provimento. (AgRg no REsp 1567443/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 11/3/2016) .
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. INAPLICABILIDADE.
+Na linha da jurisprudência desta eg. Corte, ressalvado o meu entendimento pessoal, mostra-se incompatível com o princípio da insignificância a conduta ora examinada, haja vista que o agravante é reincidente (precedentes).
+Agravo regimental desprovido. (AgRg no AREsp 811.128/MT, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 4/3/2016).
+Quanto ao regime de pena, diante da inexistência de circunstâncias judiciais desfavoráveis e sendo a pena-base fixada no mínimo legal (1 ano), é cabível a fixação do regime inicial semiaberto ao reincidente, nos termos do Enunciado n. 269 da Súmula desta Corte:
+Súmula 269/STJ: É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais.
+Ante o exposto, com fundamento no art. 932, inc. V, do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, dou parcial provimento ao recurso especial para fixar o regime inicial semiaberto, nos termos da fundamentação.
+Publique-se. Intimem-se.
