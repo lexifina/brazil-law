@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo regimental, interposto por OI S.A em face de decisão monocrática da lavra do Presidente do NURER da Segunda Seção, acostada às fls. 721/722, e-STJ que conheceu do agravo para negar seguimento ao recurso especial em razão da ausência de individualização da pretensão recursal.
+O recurso especial (fls. 578/59, e-STJ) foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, desafiando o acórdão acostado às fls. 512/535 (e-STJ), proferido pelo Tribunal de Justiça do Estado do Paraná.
+1. O apelo nobre discute questão relativa à demonstração do interesse de agir para a propositura de ação de exibição de documentos ajuizada em face da sociedade anônima, matéria já julgada sob o rito dos recursos repetitivos pela Segunda Seção do Superior Tribunal de Justiça, nos autos do REsp nº 982.133/RS (DJe 22/9/2008), vinculado aos Temas 42 e 43.
+1.1. Assim, é imperiosa a devolução dos autos ao Tribunal de origem para observância da sistemática dos recursos repetitivos, consoante determina o art. 2º da Resolução STJ n. 17, de 4 de setembro de 2013, in verbis:
+Art. 2º Verificada a subida de recursos fundados em controvérsia idêntica a controvérsia já submetida ao rito previsto no art. 543-C do Código de Processo Civil/1973, o presidente poderá:
+I - determinar a devolução ao tribunal de origem, para nele permanecerem sobrestados os casos em que não tiver havido julgamento do mérito do recurso recebido como representativo de controvérsia;
+II - determinar a devolução dos novos recursos ao tribunal de origem, para os efeitos dos incisos I e II do § 7º do art. 543-C do Código de Processo Civil, ressalvada a hipótese do § 8º do referido artigo, se já proferido julgamento do mérito do recurso representativo da controvérsia.
+Ressalta-se que "somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo" (REsp 1.361.535/MG, Rel. Min. Gurgel de Faria, DJe 8/2/2017).
+Vale lembrar, ainda, que a competência para aplicação da sistemática de recursos repetitivos é do Tribunal de origem, a teor do disposto no artigo 543-C do CPC/73, atual artigo 1.040 do CPC/2015. Aplicação analógica da interpretação dada pelo STF à sistemática do artigo 543-B do CPC/1973.
+2. Do exposto, determina-se a devolução dos autos ao Tribunal a quo para que aplique, conforme o caso, as medidas cabíveis previstas no art. 1.040 do CPC/2015, com a respectiva baixa dos autos nesta Corte.
+Publique-se.
+Intimem-se.
