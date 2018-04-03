@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do NCPC) interposto por UNIMED TERESÓPOLIS COOPERATIVA DE TRABALHO MEDICO contra decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (fls. 400-408, e-STJ), assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. CONTINUIDADE DO PAGAMENTO DE COMISSÕES MESMO APÓS A RESCISÃO DO CONTRATO. PREVISÃO CONTRATUAL EXPRESSA NESSE SENTIDO. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+Embargos de declaração foram opostos e rejeitados (fls. 421-426, e-STJ).
+Em suas razões de recurso especial (fls. 434-452, e-STJ), a recorrente aponta ofensa aos arts. 458 e 535, II, do CPC/73; 373, I, e 357, III, do CPC/2015; e 159; 186, 188 e 884 do CC. Afirma que "em momento algum os desembargadores se pronunciaram sobre a questão de cunho processual apontada pela Recorrente, a saber: Que a Recorrida não se desincumbiu de comprovar nos autos a sua pretensão" (fl. 443, e-STJ). Nessa linha, defende não tendo a recorrida provado seu direito, ônus que lhe competia, não se sustenta a condenação em seu desfavor.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal de origem negou seguimento ao recurso especial com fundamento na ausência de omissão e nas Súmulas 5/STJ e 7/STJ, o que levou à interposição do presente agravo (fls. 473-495, e-STJ), que busca destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+O presente recurso não merece prosperar.
+1. Narram os autos que a recorrida ajuizou ação de cobrança, combinada com danos morais, alegando que firmou contrato de prestação de serviços com a recorrente para a venda de planos de saúde. Aduziu o autor que a segunda cláusula contratual estabeleceu que o pagamento dos honorários pelas vendas se daria mensalmente, durante o período em que os associados mantivessem seus planos junto à ré, o que foi descumprido, após rescisão unilateral da avença.
+O juiz de primeiro grau julgou parcialmente procedente o pedido, condenando a ré a enviar mensalmente os relatórios de conferência dos associados, bem como a pagar as notas fiscais apresentadas, relativas aos planos vendidos antes da rescisão. Relativamente aos danos morais, julgou improcedente o pedido.
+Na acórdão recorrido, o Tribunal de origem, com base nas provas carreadas aos autos, negou provimento ao apelo da recorrente e manteve a sentença, consoante se observa nos seguintes trechos do acórdão em testilha (fls. 4 405-408, e-STJ):
+Inicialmente, cumpre esclarecer que o pagamento pelos planos de saúde vendidos pela apelada durante a vigência do contrato de prestação de serviços é devido e decorre de expressa previsão contratual, mais precisamente do parágrafo único da cláusula 8ª, que assim dispõe:
+" Os Contratos comercializados pela CONTRATADA e que estiverem em vigor, continuarão a gerar as comissões ajustadas, independentemente da rescisão do presente Contrato, salvo manifestação de vontade, por consenso e por escrito, entre CONTRATANTE, CONTRATADO e o ASSOCIADO."
+Nesse sentido, percebe-se que a apelante, quando da celebração do contrato, criou para si a obrigação de continuar a remunerar a apelada pelas comissões ajustadas, mesmo após a rescisão, relativamente aos planos vendidos durante a vigência do ajuste e que continuem em vigor.
+Dessa forma, não havendo nos autos a manifestação de vontade consensual e por escrito na forma prevista na cláusula acima transcrita, persiste a obrigação. Não há que se falar em renda vitalícia, uma vez que a remuneração pelo plano de saúde vendido possui caráter transitório, ou seja, somente perdurará enquanto este existir.
+Caso o associado opte por mudar de plano, nada será devido. A conduta do apelante de não querer cumprir o acordado, ao argumento de que o contrato foi rescindido, não se coaduna com a boa-fé objetiva, a qual tem incidência na fase pós-contratual. Nesse sentido:
+ ..
+Portanto, à luz do princípio pacta sunt servanda, o apelante continua obrigado nos exatos termos em que se obrigou, uma vez que não há qualquer circunstância fática subjacente que justifique a mitigação dessa regra.
+Com relação à obrigação de fazer determinada, a mesma é um mero desdobramento da obrigação assumida pela apelante, pois a apelada somente terá condições de fiscalizar se os pagamentos estão sendo realizados corretamente se tiver acesso aos relatórios de associados, já que a remuneração persiste enquanto os planos vendidos pela recorrida estiverem em vigor.
+Portanto, à luz do princípio pacta sunt servanda, o apelante continua obrigado nos exatos termos em que se obrigou, uma vez que não há qualquer circunstância fática subjacente que justifique a mitigação dessa regra.
+Com relação à obrigação de fazer determinada, a mesma é um mero desdobramento da obrigação assumida pela apelante, pois a apelada somente terá condições de fiscalizar se os pagamentos estão sendo realizados corretamente se tiver acesso aos relatórios de associados, já que a remuneração persiste enquanto os planos vendidos pela recorrida estiverem em vigor.
+Logo, para que a apelada saiba o quanto tem de receber, deverá ter ciência de quantos associados ainda estão usando planos vendidos por ela.
+2. A insurgente aponta violação dos arts. 458 e 535, II, do CPC/73, ao argumento de que o decisum fora omisso e contraditório, porquanto não apreciou elementos probatórios indicados pela parte como essenciais ao deslinde da controvérsia.
+Todavia, não se vislumbra a ocorrência dos referidos vícios, pois o órgão julgador dirimiu a controvérsia e decidiu as questões postas à apreciação de forma ampla e fundamentada, sem omissão ou contradição.
+Na verdade, ao alegar negativa de prestação jurisdicional, a recorrente busca, por via transversa, modificar o entendimento do acórdão proferido pela Corte a quo, o que não se admite.
+Não é demais lembrar a orientação desta Corte, no sentido de que o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio.
+3. De outro lado, rever a conclusão da Corte local para reconhecer que a ilegalidade de condenação, porque a recorrida não se desincumbiu do ônus da prova que lhe competia, demanda a interpretação de cláusulas contratuais e o reexame do acervo fático probatório, o que encontra óbice nas Súmulas 5/STJ e 7/STJ.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DANO MORAL. SÚMULA 284/STF. CASO FORTUITO E FORÇA MAIOR. SÚMULA 7/STJ. CLÁUSULA PENAL. ABUSIVIDADE. SÚMULAS 5 E 7 DO STJ. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. VIOLAÇÃO AO ART. 535 DO CPC/1973. INOVAÇÃO RECURSAL.
+ ..
+3. Aplicam-se as Súmulas 5 e 7/STJ na hipótese em que a tese versada no recurso reclama a análise de cláusulas contratuais e de elementos fático-probatórios colhidos ao longo da demanda.
+ ..
+6. Agravo interno a que se nega provimento. (AgInt no AREsp 977.709/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/05/2017, DJe 02/06/2017).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. COMPROVAÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL EM AGRAVO REGIMENTAL. SUSPENSÃO DO EXPEDIENTE FORENSE. POSSIBILIDADE. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ARTÍSTICOS. RESCISÃO. CLÁUSULA PENAL. ART. 413 DO CÓDIGO CIVIL. REDUÇÃO PELO CUMPRIMENTO PARCIAL. POSSIBILIDADE. CRITÉRIO DE EQUIDADE. REEXAME DO PERCENTUAL. SÚMULAS 5 E 7 DO STJ.
+ ..
+3. Rever o percentual da cláusula penal que equitativamente foi reduzido nas instâncias ordinárias demanda o reexame do conjunto fático-probatório dos autos, o que é inviabilizado na instância superior (Súmulas n. 5 e 7 do STJ).
+4. Agravo regimental desprovido. (AgRg no AREsp 592.075/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 05/03/2015, DJe 17/03/2015).
+4. Ante o exposto, com base no art. 932 do NCPC e na Súmula 568/STJ, nego provimento ao agravo, fixando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em R$ 150,00 (cento e cinquenta reais), a ser suportado exclusivamente pela parte recorrente em favor dos patronos da parte agravada, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se.
+Intimem-se.
