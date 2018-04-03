@@ -1,0 +1,100 @@
+EMENTA
+PROCESSUAL CIVIL. LIMINAR. REINTEGRAÇÃO DE POSSE. IMPOSSIBILIDADE DE ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO SOBRE MATÉRIA PRECÁRIA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 735 DO STF.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem que não concedeu a reintegração liminar, por considerar que não há informação suficiente nos autos acerca da data efetiva da invasão da faixa de domínio e por entender que a medida de demolição pleiteada tem caráter irreversível e satisfativo, sendo prudente aguardar a instrução probatória.
+2. No que concerne ao pleito de reformar o entendimento a quo que negou a liminar de reintegração de posse, tal operação demanda juízo de valor acerca da existência do perigo da demora e exame das demais circunstâncias fático-probatórias do caso concreto, o que se encontra vedado pela Súmula 7/STJ.
+3. O órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, para chegar a conclusão diversa, torna-se imprescindível reexaminar o conjunto fático-probatório constante dos autos, o que é vedado em Recurso Especial. Imiscuir-se na presente aferição encontra óbice no édito 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Ainda, a alegação de que o julgado violaria preceitos de lei federal relacionados à matéria esbarra no fato de que a decisão do Tribunal, por versar sobre medida antecipatória, de caráter provisório (fumus boni juris), passível de confirmação ou revogação quando da decisão final, não se enquadra no conceito de "causa decidida", requisito para o cabimento do Recurso Especial (Súmula 735 do STF). (AgInt nos EDcl no REsp 1.627.886/ES, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 19/9/2017, DJe de 26/9/2017).
+5. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Mauro Campbell Marques."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região sob o pálio da seguinte ementa:
+AGRAVO DE INSTRUMENTO. REINTEGRAÇÃO DE POSSE.
+A reintegração liminar pugnada pressupõe, nos termos do artigo 558 do CPC, posse nova (menos de ano e dia), que não está devidamente comprovada, já que não há informação nos autos acerca da data efetiva da invasão da faixa de domínio.
+Em se tratando de medida com caráter irreversível e satisfativo, pois a parte autora pretende também a demolição das construções, é prudente e razoável aguardar o encerramento da instrução probatória, após oportunizar à parte ré o contraditório e a ampla defesa no processo originário antes de qualquer decisão definitiva sobre a questão.
+Os Embargos de Declaração foram parcialmente providos apenas para fins de prequestionamento, às fls. 504-505.
+A parte recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação do art. 71 do Decreto-Lei 9.760/1946, pleiteando, em síntese, a imediata reintegração de posse do trecho em voga à recorrente, ALL - América Latina Logística Malha Sul S/A
+Não foram ofertadas Contrarrazões.
+Decisão pela inadmissibilidade do Recurso Especial às fls. .
+Agravo em Recurso Especial às fls.547-599
+Contraminuta não apresentada.
+Decisão do Tribunal de origem que mantém o entendimento de não conhecimento do recurso, à fl. 566.
+Despacho de conversão do Agravo em Recurso Especial, "sem prejuízo de exame posterior mais profundo da admissibilidade", à fl. 603.
+Parecer do Ministério Público às fls. 609-613.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.3.2018.
+Cuida-se de inconformismo contra acórdão do Tribunal de origem que não concedeu a reintegração liminar, por considerar que não há informação suficiente nos autos acerca da data efetiva da invasão da faixa de domínio e por entender que a medida de demolição pleiteada tem caráter irreversível e satisfativo, sendo prudente aguardar a instrução probatória.
+A irresignação não merece prosperar.
+No que concerne ao pleito de reformar o entendimento a quo que negou a liminar de reintegração de posse, tal operação demandaria juízo de valor acerca da existência do perigo da demora e exame das demais circunstâncias fático-probatórias do caso concreto, o que se encontra vedado pela Súmula 7/STJ.
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, para chegar a conclusão diversa, torna-se imprescindível reexaminar o conjunto fático-probatório constante dos autos, o que é vedado em Recurso Especial. Imiscuir-se na presente aferição encontraria óbice no édito 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Para corroborar a presente constatação, citam-se os fundamentos adotados no acórdão:
+Embora as alegações da parte agravante, entendo deva ser mantida a decisão agravada e negado seguimento ao presente recurso por estes fundamentos:
+(a) o juízo de origem está próximo das partes e dos fatos, devendo ser prestigiada sua apreciação dos fatos da causa, não existindo nos autos situação que justificasse alteração do que foi decidido;
+(b) a decisão agravada está suficientemente fundamentada, neste momento parecendo a este relator que aquele entendimento deva ser mantido porque bem equacionou, em juízo sumário próprio das liminares, as questões controvertidas;
+(c) os bens públicos também estão sujeitos ao regime de posse semelhante àquele dos bens privados, estabelecendo o art. 20 do Decreto-Lei 9.760/46 que "aos bens imóveis da União, quando indevidamente ocupados, invadidos, turbados na posse, ameaçados de perigo ou confundidos em suas limitações, cabem os remédios de direito comum", perfeitamente aplicável ao bem em questão (faixa de domínio público).
+(d) a reintegração liminar pugnada pressupõe, nos termos do artigo 558 do CPC, posse nova (menos de ano e dia), que não está devidamente comprovada, já que não há informação nos autos acerca da data efetiva da invasão da faixa de domínio;
+(e) em se tratando de medida com caráter irreversível e satisfativo - uma vez que há também pedido de demolição de construções -, é prudente e razoável aguardar o encerramento da instrução probatória, após oportunizar à parte ré o contraditório e a ampla defesa no processo originário, antes de qualquer decisão definitiva sobre a questão;
+(f) o acolhimento de pretensão de caráter antecipatório é medida excepcional, a ser justificada por situação de efetivo risco de dano irreparável, o que, aparentemente, não ocorre no caso concreto;
+Os fatos são aqui recebidos tais como estabelecidos pelo Tribunal a quo, senhor na análise probatória. E, se a violação do dispositivo legal invocado perpassa pela necessidade de fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre.
+Citam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. MEDIDA CAUTELAR DE SEQUESTRO CONCEDIDA EM PRIMEIRO GRAU. REVOGAÇÃO PELO TRIBUNAL DE ORIGEM. NATUREZA PRECÁRIA DA DECISÃO. REQUISITOS PARA A CONCESSÃO DA TUTELA ANTECIPADA. ACÓRDÃO QUE FIRMOU SUAS CONCLUSÕES A PARTIR DAS PROVAS E DOS FATOS APRESENTADOS NOS AUTOS. IMPOSSIBILIDADE DE REVISÃO. INCIDÊNCIA DA SÚMULA 7 DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Em regra, não cabe recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, dada a natureza precária da decisão, nos termos do enunciado n. 735 da Súmula do STF.
+2. Ademais, a revisão das premissas fáticas nas quais se assentou o acórdão para revogar a tutela antecipada encontra, na via especial, óbice na Súmula 7 desta Corte.
+3. Agravo Interno desprovido.
+(AgInt no AREsp 986.163 / MA, Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 31/5/2017).
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - MEDIDA LIMINAR - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVADO.
+1. No tocante à alegada violação dos artigos 165, 458 e 535, inciso II, do CPC/73, não assiste razão ao recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+2. A análise de eventual ofensa ao artigo 131 do CPC/73, tal como posta a questão nas razões do apelo especial, exigiria novo exame de matéria fática, providência vedada nesta sede a teor do óbice previsto na Súmula 7 do Superior Tribunal de Justiça.
+3. A jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar."). Ademais, a análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (artigo 273 do CPC/73) reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 504.073 / GO, Ministro MARCO BUZZI , QUARTA TURMA, DJe 23/5/2017)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DE VEROSSIMILHANÇA. SÚMULA 7 DO STJ. FALTA DE COTEJO ANALÍTICO DA DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MANTIDA.
+1. A conclusão a que chegou o Tribunal de origem acerca da ausência de verossimilhança das alegações para fins de antecipação de tutela decorreu de convicção formada em face dos elementos fáticos e peculiaridades existentes nos autos. Rever os fundamentos do acórdão recorrido importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7/STJ).
+2. A ausência de cotejo analítico impede o conhecimento do alegado dissídio jurisprudencial.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 728.674/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/8/2015, DJe 28/8/2015)
+ADMINISTRATIVO. CONCURSO PÚBLICO. FRAUDE. ANULAÇÃO DO ATO DE INVESTIDURA DO AGRAVADO. REINTEGRAÇÃO EM CARGO PÚBLICO. ANTECIPAÇÃO DA TUTELA. AUSÊNCIA DE VEROSSIMILHANÇA DO DIREITO ALEGADO. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A alegação genérica de violação do art. 535 do Código de Processo Civil, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, atrai a aplicação do disposto na súmula 284/STF.
+2. No caso dos autos, insurge-se o agravante contra entendimento do Tribunal a quo de que não estão presentes os requisitos a ensejar a concessão de antecipação de tutela, a fim de que seja determinada sua reintegração ao cargo de Técnico Administrativo do Ministério Público.
+3. A jurisprudência desta Corte consolidou-se no sentido de que, para analisar os critérios adotados pela instância ordinária que ensejaram a negativa de antecipação dos efeitos da tutela, demanda o reexame dos elementos probatórios a fim de aferir a "prova inequívoca que convença da verossimilhança da alegação", nos termos do art. 273 do CPC, o que não é possível em recurso especial, dado o óbice da súmula 7 desta Corte. Agravo regimental improvido.
+(AgRg no AREsp 663.290/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 6/8/2015, DJe 17/8/2015)
+Outrossim, inadmissível o Recurso Especial pelo dissídio jurisprudencial, na medida em que apurar a similitude fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido exigiria reexame do material fático-probatório dos autos. Incidência da Súmula 7/STJ.
+Confiram-se precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL - AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A revisão das conclusões da Corte de origem acerca da presença dos requisitos legais necessários para a aquisição da propriedade pela usucapião extraordinária demandaria a reapreciação do contexto fático e probatório dos autos, prática vedada pela Súmula 7 do STJ. Precedentes.
+2. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido.
+(AgInt no REsp 1.638.052 / RO, Ministro MARCO BUZZI, QUARTA TURMA, DJe 1/6/2017)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. MORTE DA CONVIVENTE DO AUTOR. CONDIÇÃO DE COMPANHEIRA. DANO MORAL. VALOR FIXADO. RAZOABILIDADE. REEXAME DE PROVA. SÚMULA Nº 7 DO STJ. PRESCRIÇÃO. SÚMULA Nº 282 DO STF. FUNDAMENTO INATACADO. DESCUMPRIMENTO DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO PARCIALMENTE CONHECIDO E NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A legitimidade ativa do recorrido e o valor indenizatório moral fixado em razão da morte de sua companheira foram aferidos pelo acórdão recorrido com base nas perícias coligidas aos autos e nas circunstâncias fáticas da lide, de forma que a sua revisão na via especial está impedida pela Súmula nº 7 do STJ.
+3. A decisão agravada não conheceu da alegação de prescrição com apoio na Súmula nº 282 do STF, em razão da ausência de prequestionamento, e esse fundamento não foi impugnado na petição de agravo interno, o que impede, no ponto, o conhecimento do inconformismo recursal nos termos da Súmula nº 182 do STJ e do art. 1.021, § 1º, do NCPC.
+4. A incidência da Súmula 7 do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+5. Em virtude do parcial conhecimento e não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno parcialmente conhecido e, nessa parte, não provido, com aplicação de multa.
+(AgInt no AREsp 1.004.634 / SP, Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 5/6/2017).
+Ainda, a alegação de que o julgado violaria preceitos de lei federal relacionados à matéria esbarra no fato de que a decisão do Tribunal, por versar sobre medida antecipatória, de caráter provisório (fumus boni juris), passível de confirmação ou revogação quando da decisão final, não se enquadra no conceito de "causa decidida", requisito para o cabimento do Recurso Especial (Súmula 735 do STF).
+Nessa direção, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - MEDIDA CAUTELAR DE SUSTAÇÃO DO PROTESTO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DA DEMANDANTE.
+1. A jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar.").
+1.1. No caso, o Tribunal a quo consignou a ausência de fumus boni iuris e de caução para a concessão do pleito de sustação do protesto. A análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional (artigo 273 do CPC) reclama a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da súmula 7/STJ. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 620.737/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 20/8/2015, DJe 28/8/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS Nº 7/STJ E Nº 735/STF. OFENSA AO ART. 557 DO CPC. NÃO OCORRÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a súmula nº 735/STF.
+2. Rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da súmula nº 7/STJ.
+3. Eventual nulidade da decisão monocrática calcada no artigo 557 do Código de Processo Civil resta superada com a reapreciação do recurso pelo órgão colegiado na via do agravo regimental. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no AREsp 291.995/BA, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2015, DJe 3/8/2015).
+PROCESSUAL CIVIL. ADMINISTRATIVO. FIES. CONTRATO. EMBARGOS À MONITÓRIA. AMPLITUDE DA MATÉRIA DE DEFESA. REQUISITOS PARA A CONCESSÃO DO PLEITO LIMINAR. REVISÃO. IMPOSSIBILIDADE.
+I - Hipótese em que o Tribunal de origem amparou-se inteiramente na análise das provas dos autos. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em recurso especial. Enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no REsp 1.607.205/MT, Rel. Min. Francisco Falcão, Segunda Turma, julgado em 7/11/2017, DJe de 10/11/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE UM DOS FUNDAMENTOS ADOTADOS PELA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA PARCIAL. ANTECIPAÇÃO DE TUTELA. REQUISITOS. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+( ) 2. A revisão das conclusões adotadas pela Corte de origem, a fim de verificar se estão presentes ou não os requisitos para a antecipação da tutela, demandaria novo exame do acervo fático- probatório constante dos autos, providência vedada no âmbito do recurso especial.
+3. Agravo interno parcialmente conhecido e, nessa parte, desprovido.
+(AgInt no AREsp 981.815/RJ, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 21/9/2017, DJe de 3/10/2017.)
+Pelo exposto, não se conhece do Recurso Especial.
+É o voto.
