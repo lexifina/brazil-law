@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AGRAVO EM RECURSO ESPECIAL. ALEGADA INOBSERVÂNCIA DO DIREITO ADQUIRIDO E DO ATO JURÍDICO PERFEITO. ARGUMENTO EMINENTEMENTE CONSTITUCIONAL. ALEGADO DESCUMPRIMENTO DO CONTRATO COLETIVO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO E DE INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 7 E 5/STJ. NÃO DEMONSTRAÇÃO DOS REQUISITOS PARA CONFIGURAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AGRAVO CONHECIDO PARA SE NEGAR CONHECIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de ANNA ROSA VARELLA QUESSADA e outros fundado nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+FEPASA - Aposentados e pensionistas - Pretensão de recebimento das diferenças referentes ao IPC de março e abril de 1990, correspondente a 84,93% e 44,80% - Inadmissibilidade - Lei 7.788/89, que determinava a aplicação do IPC na correção dos salários, que foi revogada pela Medida Provisória 154/90, convertida na Lei 8.030/90 - Sentença de improcedência confirmada-Recurso de apelação desprovido.
+No recurso especial, a parte recorrente aponta violação dos seguintes dispositivos: (a) art. 6º, §2º, da LINDB, sustentando que, no caso, não foram resguardados o direito adquirido e o ato jurídico perfeito, uma vez que são pleiteados valores referentes a meses em que a Lei n. 7.788/1989, que assegurava os ajustes pretendidos, ainda estava em vigor; (b) art. 422, do CC, aduzindo que não foi cumprido o determinado no acordo coletivo, ou seja, a concessão, aos servidores inativos, dos ajustes acordados entre a FEPASA e os servidores ativos. No mais, aponta divergência jurisprudencial quanto ao direito de incorporação do reajuste pleiteado.
+Houve contrarrazões (e-STJ fls. 655/662).
+Sobreveio juízo negativo de admissibilidade fundado na: a) impossibilidade de análise a dispositivos com caráter eminentemente constitucional; b) impossibilidade de exame de lei local; c) não demonstração dos requisitos inerentes à configuração do dissídio jurisprudencial.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada (e-STJ fls. 694/698).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A insurgência não prospera.
+O recorrente aponta a violação do art. 6º, §2º, da LINDB, sustentando que, no caso, não foram reguardados o direito adquirido e o ato jurídico perfeito, uma vez que são pleiteados valores referentes a meses em que a Lei n. 7.788/1989, que assegurava os ajustes pretendidos, ainda estava em vigor.
+Ocorre que, conforme pacificado na jurisprudência do Superior Tribunal de Justiça, é inviável a análise de supostas violações ao referido dispositivo em sede de recurso especial, haja vista sua natureza eminentemente constitucional. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCESSÃO DE EFEITO RETROATIVO À LEI MUNICIPAL. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. CONTROVÉRSIA DIRIMIDA À LUZ DE FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. INVIABILIDADE DE EXAME EM RECURSO ESPECIAL.
+(..)
+3. Não é possível o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios do direito adquirido, do ato jurídico perfeito e da coisa julgada, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional. Precedentes: REsp 1.333.475/RJ, Rel. Ministra Eliana Calmon, Segunda Turma, DJe de 26.6.2013; AgRg no AREsp 224.095/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 24.5.2013.
+4. Recurso Especial de que não se conhece.
+(REsp 1696946/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 6º DA LINDB. CARÁTER CONSTITUCIONAL. ACÓRDÃO FUNDAMENTADO EM NORMA DE DIREITO LOCAL. SÚMULA 280/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. MULTA. VALOR EXORBITANTE. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O Superior Tribunal de Justiça entende que os princípios contidos no art. 6º da LINDB (direito adquirido, ato jurídico perfeito e coisa julgada) possuem contornos nitidamente constitucionais, motivo pelo qual não podem ser objeto de recurso especial.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 704.489/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/08/2017, DJe 23/08/2017)
+Prosseguindo, o recorrente aponta a violação do art. 422, do CC, aduzindo que não foi cumprido o determinado no acordo coletivo, ou seja, a concessão, aos servidores inativos, dos ajustes acordados entre a FEPASA e os servidores ativos.
+Ocorre que tal argumentação, evidentemente, não envolve matéria de direito, e sim matéria fática, tendo em vista a necessidade de reexame do acervo fático-probatório e a interpretação de cláusula contratual para aferir a existência de direito adquirido, o que é inviável a teor da Súm. 7/STJ e da Súm. 5/STJ. Nesse sentido, cito o seguinte precedente:
+FERROVIÁRIOS APOSENTADOS E PENSIONISTAS. FEPASA. EXTENSÃO AO BENEFÍCIO DE COMPLEMENTAÇÃO DE APOSENTADORIA/PENSÃO DOS REAJUSTES SALARIAIS REFERENTES AO IPC DE MARÇO/1990 E ABRIL/1990. DIREITO ADQUIRIDO.
+(..)
+3. Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, de forma a averiguar se ficou demonstrado o direito adquirido dos recorrentes, demanda novo exame do acervo fático-probatório e de clásulas contratuais constantes dos autos, providência vedada em Recurso Especial, conforme os óbices previstos nas Súmulas 5 e 7/STJ.
+4. Por fim, no que concerne ao dissídio jurisprudencial alegado, os recorrentes não indicaram quais os dispositivos de lei federal que, supostamente, tiveram interpretação divergente pelo Tribunal, o que atrai a incidência da Súmula 284/STF.
+5. Recurso Especial não conhecido.
+(REsp 1707589/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/12/2017, DJe 19/12/2017)
+Por fim, convém ressaltar que a interposição do recurso especial pela alínea "c" do permissivo constitucional também exige que o recorrente cumpra o disposto nos arts. 541, parágrafo único, do CPC, e 255, § 1º, a, e § 2º, do RISTJ.
+Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; (b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; (c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; (d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Na hipótese examinada, verifica-se que a ora recorrente limitou-se a transcrever as ementas dos julgados paradigma, não atendendo aos requisitos estabelecidos pelos dispositivos legais supramencionados, restando ausente adequado cotejo analítico e a similitude fática entre os julgados mencionados.
+Assim, é descabido o recurso interposto pela alínea "c" do inciso III do art. 105 da Constituição Federal. Nesse mesmo sentido, confira o seguinte julgado:
+AGRAVO REGIMENTAL EM AGRAVO. RECURSO ESPECIAL. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL. FALTA COTEJO ANALÍTICO. DECISÃO PELA INADMISSIBILIDADE DO RECURSO MANTIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para a admissibilidade do recurso especial, na hipótese da alínea "c" do permissivo constitucional, é imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts. 541 do CPC e 255 do RISTJ).
+2. O recurso revela-se manifestamente inadmissível e procrastinatório, devendo ser aplicada a multa prevista no art. 557, § 2º, do CPC.
+3. Agravo regimental não provido com aplicação de multa.
+(AgRg no AREsp 733.241/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
