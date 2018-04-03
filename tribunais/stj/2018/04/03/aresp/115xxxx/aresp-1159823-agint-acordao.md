@@ -1,0 +1,87 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 1973. PREPARO. IRREGULARIDADE. FALTA DE CORRELAÇÃO ENTRE O NÚMERO DO CÓDIGO DE BARRAS DA GUIA DE PREPARO E AQUELE CONSTANTE NO RESPECTIVO COMPROVANTE DE PAGAMENTO. DESERÇÃO CONFIGURADA. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. "Ainda que o presente julgamento ocorra quando já em vigor o Código de Processo Civil de 2015, como o acórdão sobre o qual foi interposto o recurso especial foi publicado sob a égide da legislação processual civil anterior, quanto ao cabimento, aos demais pressupostos de admissibilidade e ao processamento do recurso, aplicam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do enunciado administrativo n. 2 do Superior Tribunal de Justiça" (AgInt no AREsp 1.118.583/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/02/2018, DJe de 26/02/2018).
+2. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que a falta de correspondência entre o código de barras da guia de recolhimento do preparo e aquele constante no respectivo comprovante de pagamento demonstra a irregularidade no pagamento do preparo, não sendo possível a comprovação posterior, ante a preclusão consumativa.
+3. A Súmula 187/STJ é aplicável no caso de não comprovação do recolhimento do preparo recursal.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator. Ausentes, justificadamente, os Srs. Ministros Luis Felipe Salomão e Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Cuida-se de embargos de declaração opostos por CURY CONSTRUTORA E INCORPORADORA S/A (e-STJ, fls. 419/457), em face de decisão da Presidência desta Corte que não conheceu de recurso especial (e-STJ, fls. 415/416), pelos seguintes fundamentos: (a) deserção, considerando a divergência constatada entre o número constante do código de barras das guias de preparo e seus respectivos comprovantes de pagamento, com incidência da Súmula 187 deste Sodalício; (b) intempestividade.
+Petição de fls. e-STJ 458/467, da mesma parte, requerendo a juntada do comprovante de pagamento da guia GRU.
+Os embargos foram conhecidos como agravo interno, com determinação de intimação para complementação das razões recursais e para manifestação da agravada (e-STJ, fl. 473).
+A complementação das razões recursais foi feita às fls. e-STJ 477/492.
+A parte agravante sustenta, em resumo, nas razões recursais, em relação à deserção: (a) a inaplicabilidade da Súmula 187/STJ, considerando que trata exclusivamente das despesas de remessa e retorno dos autos e que se refere ao completo não recolhimento na origem e que, in casu, tais despesas não são devidas e houve o correto recolhimento do preparo recursal, tendo ocorrido um equívoco escusável na juntada do correspondente comprovante; (b) que o correto recolhimento, à época própria, foi comprovado à fl. e-STJ 460; (c) que a questão deve ser analisada com base no Código de Processo Civil de 2015, não obstante o acórdão recorrido tenha sido publicado na vigência do Código de 1973, já que a decisão embargada foi proferida em outubro de 2017, muito tempo após a entrada em vigor do novo Códice; (d) que, conforme o art. 1.007 do CPC/2015, deveria ter sido intimada para o correto recolhimento do preparo recursal. Requer seja afastada a decretação de deserção do recurso especial e, subsidiariamente, a determinação de prazo para recolhimento em dobro do preparo.
+No que se refere à tempestividade do recurso especial, sustenta, em síntese, que: (a) o recurso especial é tempestivo, considerando o feriado do Dia da Justiça, de 08/12, e que o decurso do prazo para a interposição do recurso especial ficou suspenso do dia 20/12/2015 a 17/01/2016, em função do recesso forense e de período adicional de suspensão dos prazos processuais; e (b) a comprovação das causas de suspensão do prazo recursal pode ser feita quando da interposição do agravo interno, segundo o entendimento da Corte Especial deste Tribunal Superior.
+Ao final, requer seja dado provimento ao agravo interno para o fim de se reformar integralmente a decisão agravada, de forma que o recurso especial seja recebido e encaminhado ao órgão colegiado para posterior provimento.
+Decorrido o prazo legal sem apresentação de impugnação (e-STJ, fl. 495).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Em que pese a argumentação tecida nas razões recursais, não merece êxito a insurgência.
+Inicialmente, não procede a pretensão da agravante de que a questão da deserção seja analisada à luz do Código de Processo Civil de 2015.
+Com efeito, segundo o entendimento desta Corte, consubstanciado nos Enunciados 2 e 3 do Plenário do STJ, os requisitos de admissibilidade do recurso devem ser analisados com fundamento no Código vigente quando da publicação da decisão recorrida:
+Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+No presente caso, o acórdão recorrido foi publicado em 09/12/2015, ainda sob a égide do CPC/1973, portanto, devendo ser analisados os requisitos de admissibilidade do recurso especial sob a ótica do Código revogado.
+Ora, a jurisprudência do Superior Tribunal de Justiça acerca do Código de Processo Civil de 1973 é firme no sentido de que a falta de correspondência entre o número do código de barras da guia de recolhimento do preparo e aquele constante no respectivo comprovante de pagamento demonstra a irregularidade no pagamento das custas relativas ao preparo, a ensejar a aplicação da pena de deserção. A propósito, confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CIVIL PÚBLICA - EXPURGOS INFLACIONÁRIOS - LIQUIDAÇÃO DE SENTENÇA TRANSITADA EM JULGADO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECLAMO EM RAZÃO DE SUA DESERÇÃO (APLICAÇÃO DA SÚMULA 187 DO STJ).
+1. De início, cumpre esclarecer que, na hipótese em exame, aplica-se o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. É firme a jurisprudência desta Corte no sentido de que a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto.
+Precedentes.
+3. Não é possível a comprovação posterior do preparo, ainda que o pagamento das custas tenha se dado dentro do prazo recursal, ante a ocorrência da preclusão consumativa.
+4. Agravo interno desprovido."
+(AgInt no REsp 1.600.500/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/10/2017, DJe de 10/11/2017 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUSTAS JUDICIAIS. RECOLHIMENTO. GUIA DE RECOLHIMENTO DA UNIÃO. COMPROVANTE DE PAGAMENTO. DIVERGÊNCIA NO CÓDIGO DE BARRAS. DESERÇÃO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que a "falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto" (EDcl no AREsp 181.119/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/2/2013, DJe de 25/2/2013).
+2. O preparo deve ser comprovado no ato de interposição do recurso, sob pena de deserção (art. 511 do CPC).
+3. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 702.659/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/11/2015, DJe de 15/12/2015 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA ENTRE O CÓDIGO DE BARRAS DO PREPARO E O CONSTANTE NO COMPROVANTE DE PAGAMENTO. DESERÇÃO.
+1- É dever do recorrente o correto recolhimento do preparo no momento da interposição do recurso. Os comprovantes de pagamento bancário devem guardar exata correspondência do número do código de barras constantes nas guias GRU e porte de remessa, sob pena de deserção. Precedentes.
+2- Agravo Interno no agravo em recuso especial não provido."
+(AgInt no AREsp 955.915/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/12/2016, DJe de 02/02/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 1973. DESERÇÃO. RECOLHIMENTO DE PREPARO. NÚMERO DO CÓDIGO DE RECOLHIMENTO DIVERSO DO PREVISTO NA RESOLUÇÃO DO STJ. CÓDIGO DE BARRAS. DIVERGÊNCIA. IRREGULARIDADE. AUSÊNCIA DE PREPARO.
+1. Aos recursos interpostos com fundamento no Código de Processo Civil de 1973 devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2/STJ).
+2. É deserto o Recurso Especial cujo preparo é comprovado com guia em que o número do código de recolhimento é diverso do previsto na resolução do STJ vigente à época da interposição do recurso.
+3. A falta de correspondência entre o código de barras constante do comprovante de pagamento e o da guia de recolhimento do preparo enseja a aplicação da pena de deserção ante a irregularidade no pagamento do preparo.
+4. Agravo Interno não provido."
+(AgInt no AREsp 883.138/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/09/2016, DJe de 10/10/2016 - grifou-se)
+Considerando tratar-se de recurso cujos requisitos de admissibilidade devem ser analisados com fundamento no CPC/73, é incabível a possibilidade de comprovação posterior, ante a preclusão consumativa, não sendo aplicável o art. 1.007, § 4º, do CPC/2015. Confiram-se:
+PROCESSUAL CIVIL. ADMINISTRATIVO. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. AUSÊNCIA DE CÓDIGO DE BARRAS NO COMPROVANTE DE PAGAMENTO. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. SÚMULA N. 187/STJ. DESERÇÃO. PRECEDENTES. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+I - Ainda que o presente julgamento ocorra quando já em vigor o Código de Processo Civil de 2015, como o acórdão sobre o qual foi interposto o recurso especial foi publicado sob a égide da legislação processual civil anterior, quanto ao cabimento, aos demais pressupostos de admissibilidade e ao processamento do recurso, aplicam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do enunciado administrativo n. 2 do Superior Tribunal de Justiça.
+II - A jurisprudência do STJ, firmada sob a vigência do CPC/73, é pacífica no sentido de que "a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto". (EDcl no AREsp 181.119/RS, 4ª Turma, Rel. Min. Maria Isabel Gallotti, DJe de 25/2/2013). Precedentes: AgInt no REsp 1.535.206/GO, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 15/8/2017, DJe 30/8/2017; AgInt nos EDcl no REsp 1.575.093/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 27/6/2017, DJe 3/8/2017 e AgInt no AREsp 985.632/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/3/2017, DJe 13/3/2017.
+III - Agravo interno improvido.
+(AgInt no AREsp 1.118.583/GO, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/02/2018, DJe de 26/02/2018 - grifou-se)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/1973. DESERÇÃO. SÚMULA 187/STJ. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. ART. 511, § 2º, DO CPC/1973. SÚMULA 187/STJ.
+1. Nos termos do Enunciado Administrativo n. 2/STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+2. É firme a jurisprudência desta Corte no sentido de que a falta de correspondência entre o número do código de barras da guia de recolhimento e o comprovante bancário demonstra irregularidade no preparo do recurso especial, tornando-o, portanto, deserto. Precedentes.
+3. "Descabe a concessão de oportunidade para realizar a comprovação do preparo, após a interposição do recurso, uma vez que o art. 511, § 2º, do CPC/1973 vigente à época da interposição do recurso só concedia prazo para a regularização de preparo na hipótese de recolhimento a menor", o que não se verifica na hipótese. (AgRg no REsp 1.509.139/PE, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 13/6/2017, DJe 27/6/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.685.621/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/02/2018, DJe de 26/02/2018 - grifou-se)
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL FUNDADO NO CPC/73. GUIA DE RECOLHIMENTO E COMPROVANTE DE PAGAMENTO. CÓDIGOS DE BARRAS. NÚMEROS DIVERGENTES. PREPARO. NÃO COMPROVAÇÃO.
+1. Nos termos da jurisprudência pacífica desta Corte, considera-se deserto o recurso especial interposto quando não há correspondência entre o número do código de barras da guia de recolhimento das custas e o comprovante de pagamento bancário, não se podendo sanar posteriormente referida irregularidade no preparo recursal em razão da preclusão consumativa. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.575.093/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/06/2017, DJe de 03/08/2017 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. RECURSO INTERPOSTO COM FULCRO NO CPC DE 1973. AFASTADA A APLICAÇÃO DO CPC/2015. ENUNCIADO ADMINISTRATIVO 2 DO STJ. 2. PREPARO. RECURSO ESPECIAL.
+NÚMERO DO CÓDIGO DE BARRAS DA GRU DISTINTO DO COMPROVANTE DE PAGAMENTO. DESERÇÃO. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. INCIDÊNCIA DA SÚMULA 187/STJ. 3. AGRAVO DESPROVIDO.
+1. Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. Inteligência do Enunciado Administrativo 2/STJ.
+2. A não correspondência entre o número do código de barras da Guia de Recolhimento da União - GRU e aquele constante no comprovante de pagamento do preparo leva à deserção do recurso especial, não se admitindo a regularização posterior ante a ocorrência da preclusão consumativa.
+3. Agravo interno desprovido.
+(AgInt no AREsp 886.311/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/02/2017, DJe de 22/02/2017)
+Por outro ângulo, a incidência da Súmula 187/STJ nas hipóteses de não comprovação do recolhimento do preparo recursal, e não só das despesas de remessa e retorno, é firme na jurisprudência desta Corte. Vejamos:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. GUIAS DE RECOLHIMENTO ILEGÍVEIS. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ. INCIDÊNCIA.
+1. A adequada comprovação do recolhimento do preparo, mediante a juntada de cópias legíveis, é requisito extrínseco de admissibilidade do recurso especial, cuja ausência enseja a deserção.
+2. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.163.651/MT, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/02/2018, DJe de 22/02/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A VIGÊNCIA DO CPC/1973. PREPARO. GUIA DIVERSA. CÓDIGO DE RECOLHIMENTO INCORRETO. DESERÇÃO. SÚMULA N. 187/STJ. DECISÃO MANTIDA.
+1. O pagamento do preparo recursal deve ser feito na forma da legislação em vigor à época da interposição do recurso, mediante correto preenchimento da guia de recolhimento exigida pela norma.
+Precedentes.
+2. No caso dos autos, além de ter sido usado código de recolhimento incorreto, a guia foi emitida em desacordo com a Resolução STJ n.
+1/2014. Portanto, o recurso especial deve ser considerado deserto.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.663.437/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/02/2018, DJe de 21/02/2018)
+Por fim, diante da manutenção da decisão agravada quanto à deserção do recurso especial, suficiente, por si só, para seu não conhecimento, fica prejudicado o agravo interno quanto à matéria da intempestividade do apelo extremo.
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
