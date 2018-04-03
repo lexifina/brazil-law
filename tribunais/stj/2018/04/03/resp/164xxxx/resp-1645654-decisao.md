@@ -1,0 +1,33 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão prolatado, por unanimidade, pela 16ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, no julgamento de apelação, assim ementado (fls. 130/134e):
+EMBARGOS À EXECUÇÃO - ALEGAÇÃO DE PROIBIÇÃO DE CUMULAR AUXÍLIO-ACIDENTE COM APOSENTADORIA - JULGADO QUE CONCEDEU O AUXÍLIO-ACIDENTE EM CARÁTER VITALÍCIO - VIOLAÇÃO À COISA JULGADA.
+Sentença de improcedência dos embargos mantida. Recurso do réu improvido. Recurso adesivo do autor provido.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese:
+(i) arts. 18, § 2º, e 86, §§ 1º e 2º, da Lei n. 8.213/91 - a ilegalidade na cumulação dos benefícios de auxílio-acidente, concedido em 02.05.2008, e de aposentadoria por invalidez, concedida em 19.11.2007, tendo em vista serem atos posteriores à vigência da Lei n. 9.528/97;
+(ii) art. 884 do Código Civil - a possibilidade de se analisar a alegação ora formulada, referente ao excesso de execução e à inexigibilidade do título, considerando a proibição legal apontada, bem como a instrumentalidade processual, pois entendimento diverso representaria enriquecimento sem causa da parte autora; e
+(iii) 741, II, V e parágrafo único, e 743, I, do Código de Processo Civil de 1973 - a inexistência de coisa julgada, tendo em vista que a matéria não foi apreciada na fase de conhecimento e, ainda que assim fosse, "em certos casos, pela ponderação dos princípios incidentes sobre o caso concreto, será legítimo relativizar a coisa julgada em nome de outros valores preponderantes" (fl. 146e).
+Aduz, ao fim, que "em decisão recente o E. STJ pacificou a controvérsia relativa à matéria debatida nestes autos, decidindo a E. Corte que a cumulação entre os benefícios auxílio-acidente e aposentadoria só é possível nas hipótese em que o segurado tenha implementado os requisitos, para ambos os benefícios, em momento anterior ao advento da Lei 9.528/97" (fl. 151e).
+Com contrarrazões (fls. 156/171e), o recurso foi inadmitido (fl. 173e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 209e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+A insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, a Corte origem não analisou, ainda que implicitamente, a aplicação dos suscitados arts. 18, § 2º, 86, § 2º, da Lei n. 8.213/91, 884 do Código Civil, 741, II, V e parágrafo único, e 743, I, do Código de Processo Civil de 1973, tendo apenas assentando o entendimento de que, no caso dos autos, trata-se de obedecer a decisão transitada em julgado que reconheceu o direito do autor ao auxílio-acidente de forma vitalícia e autônoma em relação à aposentadoria, sem adentrar no mérito quanto à apontada ilegalidade na cumulação dos benefícios, à luz da Lei n. 9.528/97 (fl. 133e).
+É entendimento pacífico deste Tribunal que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nesse sentido:
+ADMINISTRATIVO, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. PRETENSÃO DE DEVOLUÇÃO DAS TAXAS DE DIPLOMA. PRAZO PRESCRICIONAL. FATO DO SERVIÇO. ARTIGO 2º DA LEI N. 9.870/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+1. No caso, não há se falar em violação do art. 26, inciso II, do Código de Defesa do Consumidor, porquanto inaplicável o prazo decadencial a que alude este artigo, uma vez que não se trata de responsabilidade do fornecedor por vícios aparentes ou de fácil constatação existentes em produto ou serviço, mas de danos causados por fato do serviço, consubstanciado pela cobrança indevida da taxa de diploma, razão pela qual incide o prazo qüinqüenal previsto no art. 27 do CDC.
+2. O artigo 2º da Lei n. 9.870/1999 não foi apreciado pelo Tribunal de origem, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula n. 282 do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1327122/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 15/04/2014, destaque meu).
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1374369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013, destaque meu).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e Intimem-se.
