@@ -1,0 +1,55 @@
+DECISÃO
+ Trata-se de agravo (art. 1.042 do NCPC) interposto por [NOME] E MAIA contra decisão que negou seguimento ao recurso especial, manejado com fundamento na alíneas "a" e "c" do permissivo constitucional.
+O apelo extremo desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 207, e-STJ):
+EMENTA: AGRAVO INTERNO - DECISÃO MONOCRÁTICA - INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO - SENTENÇA PUBLICADA SOB A ÉGIDE DO CPC/1973 - DECISÃO MANTIDA. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo nº02 do STJ).
+Em suas razões de recurso especial (fls. 218-226, e-STJ), o recorrente apontou violação dos arts. 1º, 7º, 10, 14, § 4º, do art 1.021 e 1.406, todos do Novo Código de Processo Civil.
+Sustenta em síntese: (i) violação dos artigos mencionados para que seja reconhecida a tempestividade do recurso de apelação; (ii) nulidade da referida decisão, e por conseguinte, no acórdão proferido por consequência do Agravo interno, eis que viola o princípio do Contraditório; e (iii) impossibilidade de efetividade dos princípios da Isonomia, Contraditório e Ampla Defesa no que se refere à multa aplicada com fundamento no § 4º do art 1.021 do NCPC.
+Sem contrarrazões.
+Em juízo de admissibilidade (fls. 235-236, e-STJ), negou-se seguimento ao reclamo, o que levou à interposição do presente agravo (fls. 239-250, e-STJ), que busca destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Consoante apontado na decisão recorrida:
+Depreende da certidão de f. 108 que a decisão que rejeitou os embargos de declaração opostos contra a r. sentença combatida foi disponibilizada no Diário Judicial Eletrônico em 16/12/2015 (quarta-feira), considerando portanto, publicada em 17/12/2018 (quinta-feira).
+Assim sendo, conforme o disposto no artigo 184, caput, do CPC, o prazo para oposição de recurso de apelação previsto no artigo 508, do mesmo diploma legal, teve início no dia 18/12/2015 (sexta-feira).
+Ocorre que, conforme a redação do inciso II, do §5º, do art. 313 da Lei Complementar n º 59, de 18/01/2001, o expediente forense foi suspenso a partir do dia 20/12/2015 até o dia 06/01/2016, razão pela qual, a contagem do prazo recursal foi paralisada em 20/12/2013, após transcorridos 02 dias.
+Além disso, o Tribunal de Justiça do Estado de Minas Gerais, por meio da portaria Conjunta nº 460/PR/2015, determinou a suspensão dos prazos processuais de 7 a 20 de janeiro de 2016.
+Nesse contexto, em decorrência do término da suspensão dos prazos processuais em 20/01/2016, e em conformidade com o disposto no artigo 179 do CPC, em 21/01/2016 reiniciou a contagem do prazo previsto no artigo 508 do CPC/1973 pelo tempo remanescente (13 dias).
+Assim, o término do prazo recursal de 15 (quinze) dias se deu em 02/02/2016 (terça-feira).
+Todavia, o recurso foi interposto via fax em 03/02/2016 (f. 109), sendo, portanto, manifestamente intempestivo. (fl. 210, e STJ)
+Assim, o Tribunal de origem entendeu que, verbis:
+ ..  em que pese à entrada em vigor do NCPC/15, esclareço que em respeito à regra de direito intertemporal e aos atos jurídicos processuais consumados, o presente recurso será analisado sob a ótica do antigo CPC/73, uma vez que praticado o ato jurídico, qual seja, a publicação da decisão em cartório, sob a vigência da antiga lei processual, devendo assim segui-la até o seu julgamento.
+Nessa linha, vale transcrever trecho do julgamento do STJ onde prescreve que: "(..) A lei vigente à época da prolação da decisão que se pretende reformar é que rege o cabimento e a admissibilidade do recurso (..)"(REsp nº.:1,132.774/ES).
+Do mesmo modo, tem-se o Enunciado Administrativo nº02 do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+ ..
+Com efeito, a sentença primeva, integrada pela decisão dos embargos de declaração, no caso vertente, foi publicada em cartório no dia 17 de dezembro de 2015, conforme certidão de f. 108, revelando-se, portanto, inequívoca a aplicação do Código de Processo Civil de 1973 ao processamento e julgamento do recurso de apelação interposto visando â sua reforma. Sendo assim, tendo o apelo sido interposto fora do prazo previsto no artigo 508, do CPC/1973, o reconhecimento de sua intempestividade é medida que se impõe, sendo desnecessária a intimação das partes para manifestar sobre a questão de ordem pública, haja vista a inexistência de previsão legal nesse sentido no referido diploma processualista.(fls. 211-212, e-STJ)
+Conforme ficou decidido, a decisão que rejeitou os embargos de declaração opostos contra a r. sentença foi disponibilizada no DJE em 16/12/2015, conforme se depreende do protocolo à fl. 121 (e-STJ). O prazo para interposição do recurso, portanto, iniciou-se em 21/01/2016 e findou-se em 02/02/2016.
+Logo, interposto o recurso em 03/02/2016, imperioso reconhecer sua intempestividade.
+Nos termos da jurisprudência desta Corte, sob a égide do CPC/73 - aplicável à hipótese, é intempestivo recurso interposto após o decurso do prazo de quinze dias corridos previsto no art. 508 do CPC/73.
+Ainda, de acordo com o enunciado nº 2, aprovado pelo Plenário deste Tribunal Superior na sessão de 9 de março de 2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DE REINTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA PROFERIDA PELO MINISTRO PRESIDENTE DO STJ NÃO CONHECENDO DO APELO EXTREMO EM RAZÃO DE SUA INTEMPESTIVIDADE. INSURGÊNCIA RECURSAL DAS AUTORAS.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.".
+2. Não se conhece do recurso especial interposto após esgotado o prazo legal de 15 (quinze) dias (art. 508, do CPC/73).
+3. Agravo interno desprovido. (AgInt nos EDcl no AREsp 935.197/MS, desta relatoria, QUARTA TURMA, julgado em 16/11/2017, DJe 24/11/2017).
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA PROFERIDA PELO MINISTRO PRESIDENTE DO STJ NEGANDO SEGUIMENTO AO RECLAMO EM VIRTUDE DE SUA INTEMPESTIVIDADE. INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.".
+2. Não se conhece do recurso especial interposto após esgotado o prazo legal de 15 (quinze) dias (art. 508, do CPC/73).
+3. Agravo regimental desprovido. (AgRg no AREsp 759.900/SP, desta relatoria, QUARTA TURMA, julgado em 15/08/2017, DJe 23/08/2017).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL LOCAL. COMPROVAÇÃO POR DOCUMENTO IDÔNEO. NÃO DEMONSTRADA. CÓPIA EXTRAÍDA DA INTERNET. TEMPESTIVIDADE. NÃO EVIDENCIADA. RECURSO ESPECIAL INTEMPESTIVO. ART. 508 DO CPC/73. DECISÃO MANTIDA.
+1. Inaplicáveis as disposições do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Nos termos da jurisprudência desta Corte, eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, nos Tribunais de Justiça estaduais deve ser comprovada por documento idôneo.
+3. É intempestivo o recurso especial interposto fora do prazo legal de 15 dias previsto no art. 508 do CPC/73.
+4. A simples juntada de cópia de informações extraídas da internet não tem o condão, por si só, de comprovar a interposição tempestiva do recurso.
+5.Agravo regimental não conhecido. (AgRg no AREsp 756.044/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/12/2016, DJe 15/12/2016).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC DE 1973. ALEGAÇÃO DE INTIMAÇÃO TÁCITA. PREVALÊNCIA DA PUBLICAÇÃO DO DIÁRIO DE JUSTIÇA ELETRÔNICO. RECURSO NÃO PROVIDO.
+1. É intempestivo o recurso especial interposto na vigência do CPC de 1.973 após o decurso do prazo de 15 (quinze) dias previsto no art. 508 do referido Código.
+2. "Ocorrendo a intimação eletrônica e a publicação da decisão no DJEERJ, prevalece esta última, uma vez que nos termos da legislação citada a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais" (AgRg no AREsp 726.124/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 23/06/2016, DJe 01/07/2016).
+3. Agravo interno não provido. (AgInt no AREsp 962.271/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2016, DJe 01/12/2016).
+2. Ademais quanto à apontada violação a princípios constitucionais, a pretensão fora deduzida em sede imprópria, cuja ofensa dá ensejo à interposição de recurso extraordinário para o Supremo Tribunal Federal.
+A matéria constitucional invocada não deve ser examinada nesta via, porquanto a sua apreciação não compete ao Superior Tribunal de Justiça, pelo teor do art. 105, inciso III, da Carta Magna, qual seja, a de unificar o direito infraconstitucional.
+3. Do exposto, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em R$ 100,00 (cem cinquenta reais), a ser suportado exclusivamente pela parte recorrente (Enunciado Administrativo n. 7/STJ), observado o disposto no art. 98, § 3º, do NCPC.
+Publique-se.
+Intimem-se.
