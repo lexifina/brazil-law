@@ -1,0 +1,10 @@
+Solução de Divergência Cosit nº 1, de 22 de março de 2018
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+EMENTA: VENDA DE AUTOPEÇAS. TRIBUTAÇÃO CONCENTRADA. ALÍQUOTA APLICÁVEL. REFORMA DA SOLUÇÃO DE CONSULTA SRRF07/DISIT Nº 3, DE 14 DE JANEIRO DE 2013.
+Nos termos da alínea “a” do inciso I do caput do seu art. 3º da Lei nº 10.485, de 2002, a Cofins incide à alíquota de 7,6% (sete inteiros e seis décimos por cento) sobre a receita bruta auferida nas operações de venda de autopeças relacionadas nos Anexos I e II da referida Lei efetuadas por seus fabricantes ou importadores para pessoas jurídicas fabricantes de veículos e máquinas relacionados no art. 1º da mencionada Lei nº 10.485, de 2002, em qualquer hipótese, ainda que a pessoa jurídica destinatária das vendas adquira ou importe as autopeças por meio de estabelecimento filial comercial, atacadista ou varejista.
+Dispositivos Legais: Lei nº 9.779, de 1999, art. 15, III; Lei nº 10.485, de 2002; Instrução Normativa SRF nº 594, de 2005, arts. 1º, 16 e 17.
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+EMENTA VENDA DE AUTOPEÇAS. TRIBUTAÇÃO CONCENTRADA. ALÍQUOTA APLICÁVEL. REFORMA DA SOLUÇÃO DE CONSULTA SRRF07/DISIT Nº 3, DE 14 DE JANEIRO DE 2013.
+Nos termos da alínea “a” do inciso I do caput do seu art. 3º da Lei nº 10.485, de 2002, a Contribuição para o PIS/Pasep incide à alíquota de 1,65% (um inteiro e sessenta e cinco centésimos por cento) sobre a receita bruta auferida nas operações de venda de autopeças relacionadas nos Anexos I e II da referida Lei efetuadas por seus fabricantes ou importadores para pessoas jurídicas fabricantes de veículos e máquinas relacionados no art. 1º da mencionada Lei nº 10.485, de 2002, em qualquer hipótese, ainda que a pessoa jurídica destinatária das vendas adquira ou importe as autopeças por meio de estabelecimento filial comercial, atacadista ou varejista.
+Dispositivos Legais: Lei nº 9.779, de 1999, art. 15, III; Lei nº 10.485, de 2002; Instrução Normativa SRF nº 594, de 2005, arts. 1º, 16 e 17.
+[arquivo anexo: SD Cosit nº 1-2018.pdf]
