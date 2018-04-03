@@ -1,0 +1,47 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. OMISSÃO. INOCORRÊNCIA. REDUÇÃO DO PERCENTUAL DE COMISSÃO. ILEGALIDADE. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7 DO STJ. PRESCRIÇÃO. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+CAMPOVET - COMÉRCIO E REPRESENTAÇÃO DE PRODUTOS AGROPECUÁRIOS LTDA (CAMPOVET) propôs ação de cobrança contra VALLEÉ S.A. (VALLEÉ) objetivando o recebimento de valores de correntes de contrato comercial (e-STJ, fls. 2/24)
+A sentença foi de improcedência dos pedidos, condenando a autora ao pagamento das custas e honorários, estes fixados em 10% sobre o valor da causa (e-STJ, fls. 883/891)
+Interposta apelação por CAMPOVET e recurso adesivo por VALLEÉ, o Tribunal de origem deu parcial provimento ao primeiro recurso e negou provimento ao segundo, nos termos do acórdão cuja ementa se transcreve a seguir:
+AÇÃO DE COBRANÇA. REPRESENTAÇÃO COMERCIAL. REDUÇÃO UNILATERAL DAS ALÍQUOTAS DE COMISSÃO. ALEGAÇÃO DE QUE ESTAS FORAM PAGAS A MENOR. PEDIDO JULGADO IMPROCEDENTE. INSURGÊNCIA DE AMBAS AS PARTES. RATIFICAÇÃO DOS AGRAVOS RETIDOS. PRESCRIÇÃO. INOCORRÊNCIA.
+PRAZO QUINQUENAL PREVISTO EM LEI ESPECÍFICA. INOCORRÊNCIA DA PRESCRIÇÃO DA PRETENSÃO AO RECEBIMENTO DOS VALORES ANTERIORES AO PRAZO QUINQUENAL. PRETENSÃO A COBRANÇA DA TOTALIDADE DO DÉBITO QUE NASCE COM A RESCISÃO DO CONTRATO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. TESTEMUNHA ARROLADA PELA AUTORA QUE FOI OUVIDA COMO INFORMANTE. SUSPEIÇÃO. CARACTERIZAÇÃO. INTERESSE NO LITÍGIO. AJUIZAMENTO DE AÇÃO SEMELHANTE CONTRA A RÉ. AGRAVOS RETIDOS NÃO PROVIDOS. COMISSÕES REDUZIDAS ABUSIVA E UNILATERALMENTE PELÁ RÉ. OCORRÊNCIA. IMPOSSIBILIDADE DE DISCUSSÃO ACERCA DA ALTERAÇÃO DAS ALÍQUOTAS PELOS REPRESENTANTES COMERCIAIS, EM AFRONTA A CLÁUSULA PREVISTA. INOBSERVÂNCIA DA BILATERALIDADE CONTRATUAL. COMPROVAÇÃO DO CONSTRANGIMENTO NO DEPOIMENTO DAS TESTEMUNHAS E INFORMANTE. COMISSÕES PAGAS A MENOR. COMPROVAÇÃO DO FATO PELA CÓPIA DOS RELATÓRIOS DE COMISSÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA RÉ AO ARGUMENTO TRAZIDO NA INICIAL POR OCASIÃO DA CONTESTAÇÃO. INOBSERVÂNCIA DO PRÍNCÍPIO DA BOA -FÉ OBJETIVA. IMPOSSIBILIDADE, NO ENTANTO, DE AS COMISSÕES DEVIDAS PELA VENDA DE PRODUTOS INÉDITOS, SEREM INCLUÍDOS NA CATEGORIA DE "PRODUTOS DIVERSOS" DO CONTRATO ORIGINALMENTE CELEBRADO, ANTE A NÃO CONFIGURAÇÃO DE REDUÇÃO DAS ALÍQUOTAS QUANTO A ESTES. RECURSO ADESIVO. PRESCRIÇÃO. INOCORRÊNCIA. MAJORAÇÃO HONORÁRIOS. NÃO ACOLHIMENTO. READEQUAÇÃO DA SUCUMBÊNCIA. RECURSO DA AUTORA PARCIALMENTE PROVIDO. RECURSO ADESIVO NÃO PROVIDO. (e-STJ, fls. 1364).
+Foram opostos embargos de declaração por VALLEÉ, aos quais foi negado provimento (e-STJ, fls. 1415/1420)
+Os embargos de declaração opostos por CAMPOVET foram acolhidos, com efeitos infringentes, nos termos do acórdão a seguir:
+COBRANÇA. REPRESENTAÇÃO COMERCIAL. RECURSO QUE PROVEU PARCIALMENTE O RECURSO DA AUTORA E NEGOU PROVIMENTO AO RECURSO ADESIVO DA RÉ. INSURGÉNCIA DA AUTORA. OMISSÃO. OCORRÊNCIA. AUSÊNCIA DE APRECIAÇÃO DE PEDIDO CONDENA ORLO DA RÉ AO PAGAMENTO DO SALDO REMANESCENTE DA VERBA CONTRATUAL RESCISÓRIA. VÍCIO EXISTENTE. PROCEDÊNCIA DO PEDIDO. CONSEQUÊNCIA LÓGICA DO ENTENDIMENTO CONSIGNADO NO ACÓRDÃO. ATRIBUIÇÃO DE EFEITO INFRINGENTE. REDISTRIBUIÇÃO DOS ONUS SUCUMBENCIAIS. RECURSO PROVIDO (e-STJ, fls. 1422/1427).
+Opostos novos embargos de declaração por CAMPOVET, foram acolhidos:
+COBRANÇA. REPRESENTAÇÃO COMERCIAL. DECISÃO QUE PROVEU OS EMBARGOS DE DECLARAÇÃO E NÃO FEZ A READEQUAÇÃO DA VERBA HONORÁRIA NOS MOLDES DAS CUSTAS. EFETIVAMENTE, COM O ACOLHIMENTO DOS PRIMEIROS DECLARATÓRIOS DA AUTORA NÃO SÓ A REDISTRIBUIÇÃO DAS CUSTAS, NOS PERCENTUAIS ESTABELECIDOS, MAS TAMBÉM DA VERBA HONORARIA DEVE SER READEQUADA. RECURSO PROVIDO (e-STJ, fls. 1447/1451)
+Irresignada, VALLEÉ manejou recurso especial com fundamento no art. 105, III, a e c, da CF/88, alegando, além de dissídio, ofensa aos arts. 32, § 7º da Lei nº 4.886/65; 113 e 422 do CC. Sustentou, em síntese, 1) ofensa ao art 535 do CPC/73; 2) que a redução do valor da comissão paga a ré está em conformidade com o contratado previamente entre as partes, que prevê a mutabilidade dos valores, nos termos da Lei que rege a matéria; 3) que a ré não comprou a diminuição do seus ganhos, durante o período estipulado em lei, estando caracterizado seu arrependimento posterior ao insurgir-se apenas muitos anos após o recebimento do pagamento a menor ; 4) que ocorreu a prescrição do direito ao recebimento de valores relativos aos 5 anos anteriores ao ajuizamento da ação e 5) redistribuição da sucumbência no caso de provimento do recurso (e-STJ, fls. 1459/1485).
+Contrarrazões oferecidas (e-STJ, fls. 1524/1535).
+O recurso foi inadmitido na origem, por ausência de ofensa aos dispositivos alegados e incidência das Súmulas nºs 283 e 284 do STF, 5 e 7 do STJ (e-STJ, fls. 1537/1545).
+VALLEÉ interpôs agravo em recurso especial (e-STJ, fls. 1548/1570).
+A contraminuta foi apresentada (e-STJ, fls. 1582/1587).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC
+1) Da ofensa ao art. 535 do CPC/73
+Com relação à alegada omissão, o Tribunal a quo, entendeu inexistirem quaisquer vícios a serem supridos, negando provimento ao recurso por ausência de ofensa ao art. 535 do CPC/73, em razão do caráter nitidamente infringente do recurso.
+Na petição de embargos de declaração, VALLEÉ suscitou omissão acerca da apreciação de cláusula constante no contrato, relativa à forma de cálculo da comissão a ser paga.
+Contudo, da leitura do acórdão, verifica-se que o tema suscitado foi analisado, conforme trecho a segui transcrito:
+Não há omissão no julgado, porquanto a discussão não versa sobre a legalidade da base de cálculo (valor liquido da venda) contratualmente prevista, mas sobre a aliquota incidente, cuja redução se constatou. na conclusão do perito judicial. (e-STJ, fls. 1419).
+Outrossim, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Precedente: AgRg no AREsp 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 1º/9/2014.
+Assim, não há falar em omissão ou falta de fundamentação, que vão afastadas.
+2 e 3) Da legalidade da cláusula de redução da comissão e da falta de comprovação da redução dos ganhos da ré
+Quanto ao ponto, o Tribunal de origem, ao contrário do que pretendido pela recorrente, concluiu pela impossibilidade da redução da comissão, conforme trecho a seguir:
+Assim, é impositivo considerar que as reduções das comissões foram realizadas em afronta ao previamente estipulado, devendo as alíquotas das comissões pela venda de cada produto vigorar nos termos originalmente contratados entre as partes.
+Ressalta-se que os produtos inéditos, previstos inicialmente nos anexos dos aditivos, devem ter suas comissões calculadas e pagas nos termos dos aditivos, sendo vedada sua cobrança pelo índice geral de "produtos diversos" do primeiro instrumento, conforme pretendido pela autora (item b, fl. 21).
+Isto porque não inclusos na tabela anexa à época da assinatura do primeiro instrumento em 20/01/1995, não havendo que se falar em redução unilateral de suas alíquotas.
+2.3) Quanto ao alegado pagamento a menor das comissões contratadas, procede.
+Os relatórios juntados aos autos demonstram que as comissões eram pagas em percentuais aquém dos previstos nos instrumentos Constata-se nos instrumentos que vigoravam as alíquotas de 2%, 10%, 15% ou 20%, de acordo com o produto vendido. Entretanto, as alíquotas adotadas para pagar as comissões incidiram em 1,787%, 8,508% e 17,276%.
+Por ocasião da contestação a ré não impugna especificamente este argumento, mas somente aduz que as alterações foram legais e devidamente anuídas pela autora.
+(..)
+Assim, merece acolhimento o pleito da autora para que sejam repostos os valores das comissões nos termos contratados e devidos, observada a vedação da redução acima descrita.
+Da leitura, verifica-se que a conclusão adotada pela Corte de origem decorreu do conjunto fático-probatório dos autos, em especial do contrato, o que impede sua alteração por esta Corte, ante o óbice das Súmulas nºs 5 e 7 do STJ.
+4) Da Prescrição
+Relativamente à alegação de prescrição, verifica-se que a recorrente não indicou o artigo que teria sido violado, limitando-se a alegação genérica da Legislação violada.
+Neste passo, incide a Súmula nº 284 do STF, ante a deficiência na fundamentação do recurso.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para conhecer em parte do recurso especial (1) e, nesta extensão, negar-lhe provimento.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
