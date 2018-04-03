@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança, com pedido liminar, interposto por VANDERLEI BASSO contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ fl. 417):
+MANDADO DE SEGURANÇA. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO. APREENSÃO DE VEÍCULO. PEDIDO DE RESTITUIÇÃO. Impetrante V.B., que prestou esclarecimentos em sede policial e judicial, alega que a decisão proferida é absurda, pois é o proprietário do veículo e sequer faz parte no processo penal. Mandado de segurança é conexo aos habeas corpus ns. [CPF] e [CPF], impetrados em favor de M.G.C. De acordo com o expediente, o veículo conduzido pelo flagrado foi abordado pela Brigada Militar em patrulhamento de rotina. Com o flagrado teria sido encontrada uma pistola Taurus calibre 9mm, municiado, R$ 1.272,00, um celular e um pacote de cocaína. No veículo, teriam sido encontradas 19 porções grandes e uma porção menor de cocaína e balança de precisão. Decisões proferidas pela autoridade coatora estão devidamente fundamentadas. Situação que necessita de maiores esclarecimentos, importando em dilação probatória. Decisão encontra respaldo no art. 118 do CPP. Art. 61 da Lei n. 11.343/06. Os autos já estão conclusos para sentença, circunstância que demonstra que a situação do veículo será analisada de forma derradeira pela autoridade coatora. Não há falar em violação a direito líquido e certo. Há provas, a princípio judicializadas, que demonstram o uso do veículo em proveito do crime (tráfico de drogas), em tese. SEGURANÇA DENEGADA.
+Nas razões recursais, pleiteia-se, em síntese, a restituição do veículo apreendido na Ação Penal n. 015/2.16.0005816-6 (e-STJ fl. 252).
+Liminar indeferida (e-STJ fls. 458/459).
+O MPF opinou pelo desprovimento do recurso (e-STJ fls. 483/485).
+É o relatório. Decido.
+A análise do recurso encontra-se prejudicada.
+Em consulta ao sistema de informações processuais do Tribunal de Justiça do Estado do Rio Grande do Sul, observa-se que, em 11/05/2017, sobreveio sentença de mérito nos autos da ação penal originária, a qual determinou o perdimento do bem apreendido em favor da União.
+Ademais, em 14/12/2017, no julgamento da apelação criminal n. [CPF], a Corte estadual confirmou o perdimento do bem, havendo o trânsito em julgado do referido acórdão em fevereiro de 2018.
+Portanto, é evidente a perda de objeto deste mandamus que se voltava contra o ato que determinou a constrição provisória do bem apreendido, uma vez que sobreveio a perda da propriedade do veículo em caráter definitivo.
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se. Intimem-se.
