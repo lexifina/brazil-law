@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+DECISÃO
+Trata-se de embargos de declaração opostos por FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 890):
+AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. PREVIDÊNCIA PRIVADA. 1. OMISSÃO NÃO CONFIGURADA. 2. QUITAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STF E 211/STJ. 3. CORREÇÃO MONETÁRIA. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF. 4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Sustenta a embargantes omissão na decisão impugnada, na medida em que não foram observadas as teses fixadas no julgamento do Tema n. 943 pela Segunda Seção do STJ, que estabelece não ser cabível o pleito de revisão da reserva de poupança ou de benefício em caso de migração entre plano de benefícios de previdência privada.
+Diante disso, pleiteia o acolhimento dos aclaratórios.
+Brevemente relatado, decido.
+Não há nenhuma omissão ou contradição a ser sanada, portanto inexistentes os requisitos para cabimento dos presentes embargos declaratórios, nos termos do art. 1.022 do novo CPC.
+A decisão monocrática embargada dirimiu a causa com base em fundamentação sólida, sem omissões ou contradições. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorre nos autos. O decisum embargado esclareceu a controvérsia, apontando justificação consistente, o que não se confunde com omissão ou contradição, tendo em vista que apenas apresentou fundamentos diferentes dos pretendidos pela parte.
+Dito isso, rememoro que o Juízo singular condenou a ora embargante ao pagamento das diferenças relativas aos expurgos inflacionários, considerando que houve o efetivo resgate das contribuições pelo segurado (e-STJ, fl. 740).
+Contra a referida sentença, a embargante interpôs apelação, na qual sustentou, além do transcurso do prazo prescricional, que o embargado estaria gozando dos benefícios previdenciários, o que impediria o resgate das contribuições sem que isso implicasse o seu desligamento do plano.
+O Tribunal de origem, soberano na análise do conjunto fático-probatório do feito, negou provimento ao recurso, aduzindo ter ocorrido a restituição das parcelas pagas, circunstância que enseja a correção por índice que recomponha a efetiva desvalorização da moeda (e-STJ, fl. 800).
+Nesse contexto, a argumentação recursal no sentido da impossibilidade de revisão dos benefícios pagos pela entidade de previdência privada encontrou óbice na Súmula 284/STF, uma vez que o acórdão estadual assinalou ter ocorrido o resgate das contribuições vertidas ao plano - circunstância discrepante da que embasou o julgamento do Tema 943 pela Segunda Seção do Superior Tribunal de Justiça.
+Desse modo, ainda que a solução tenha sido contrária à pretensão da agravante/embargante, não se pode negar ter havido efetivo enfrentamento e resposta aos pontos controvertidos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. FINALIDADE DE PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. A ocorrência de um dos vícios previstos no art. 1.022 do CPC/2015 é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição.
+4. Embargos de declaração rejeitados. (EDcl no AREsp 909.718/MT, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe 20/2/2017)
+RECURSO FUNDADO NO NOVO CPC/15. ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou correção de erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 84.239/AC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/2/2017, DJe 24/2/2017)
+Portanto, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada e fundamentada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
