@@ -1,0 +1,22 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. 1. CONTRADIÇÃO. INEXISTÊNCIA. 2. OMISSÃO. OCORRÊNCIA. GRATUIDADE DE JUSTIÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DE ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. SÚMULA 211/STJ. 3. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] e outra à decisão monocrática proferida por este signatário, a qual, em juízo de retratação, negou provimento ao recurso especial interposto pelas embargantes.
+A decisão recebeu a seguinte ementa (e-STJ, fls. 588-591):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TAXA CONDOMINIAL. VÍNCULO CONTRATUAL. NÃO APLICAÇÃO DA TESE FIRMADA NO RESP N. 1.439.163/SP. RECURSO ESPECIAL DESPROVIDO, EM JUÍZO DE RETRATAÇÃO.
+Em suas razões (e-STJ, fls. 594-598), as embargantes alegam a existência de omissão, pois a decisão embargada não se manifestou sobre a concessão do benefício da gratuidade de justiça. Aduzem, ainda, haver contradição, haja vista que, apesar de o embargado ter nomenclatura de "condomínio", sua natureza jurídica se assemelha à de uma associação de moradores, porquanto não há áreas comuns, copropriedade ou averbação junto ao cartório de imóveis.
+Impugnação às fls. 608-610 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - EXECUÇÃO TRABALHISTA - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO UNIVERSAL - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022, do CPC/15 (art. 535, CPC/73), são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+ ..  4. Embargos de declaração rejeitados. (EDcl nos EDcl no AgRg no CC 122675/RJ, Rel. Min. Marco Buzzi, Segunda Seção, julgado em 14/06/2017, DJe 22/06/2017)
+Relativamente ao fato de que o embargado seria uma associação de moradores - e não um condomínio -, assinala-se que a decisão embargada, de forma clara e fundamentada, expressamente analisou a questão, asseverando a natureza contratual existente entre as proprietárias do imóvel e o loteador, tomando como base o quadro fático delineado pelo acórdão recorrido, que, ao contrário do que quer fazer prevalecer as embargantes, asseverou que não se trata de um mero loteamento, mas sim de um condomínio horizontal, no qual há prestação de vários serviços comuns, como portaria, vigilância (interna e externa), água, recepção e distribuição de correspondências.
+Ademais, para infirmar as conclusões do acórdão recorrido acerca da existência dos aludidos serviços e dar razão às embargantes, seria imprescindível o reexame de provas, o que é inadmissível nesta instância extraordinária, nos termos da Súmula 7/STJ.
+Por outro lado, no que tange à omissão, melhor sorte socorre às embargantes, pois, de fato, a decisão embargada deixou de analisar a questão referente ao benefício da justiça gratuita.
+Entretanto, constata-se que a matéria merece ser conhecida, haja vista que os dispositivos legais que tratam da matéria não foram objeto de debate pelas instâncias ordinárias, estando ausente o indispensável prequestionamento.
+Oportuno assinalar que, mesmo tendo sido opostos embargos declaratórios, estes não tiveram o efeito de suprir o devido prequestionamento, razão pela qual deveria a parte, no recurso especial, ter suscitado violação do art. 535, II, do Código de Processo Civil de 1973, demonstrando de forma objetiva a imprescindibilidade da manifestação sobre a matéria impugnada e em que consistiria o vício apontado, e não interpor recurso contra questão federal não prequestionada, como ocorreu na espécie. Incidência, no ponto, do enunciado 211/STJ.
+Ante o exposto, acolho parcialmente os embargos de declaração, sem efeitos infringentes.
+Publique-se.
