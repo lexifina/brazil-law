@@ -1,0 +1,20 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – CONTRADIÇÃO – PROVIMENTO.
+    1. Em 10 de dezembro de 2015, proferi a seguinte decisão:
+    RECURSO EXTRAORDINÁRIO – ARTIGO 30, § 1º, DA LEI Nº 7.730/89 E 30 DA LEI Nº 7.799/89 – PLANO VERÃO – CORREÇÃO MONETÁRIA DAS DEMONSTRAÇÕES FINANCEIRAS – IMPOSTO DE RENDA – CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO – PRECEDENTES DO PLENÁRIO – MATÉRIA ANÁLOGA – PROVIMENTO.
+    1. Afasto o sobrestamento de folha 267.
+    2. Em 20 de novembro de 2013, o Supremo, apreciando os Recursos Extraordinários nº 208.526/RS, 256.304/RS, 221.142/RS e 215.811/SC, de minha relatoria, decidiu o tema versado neste processo. Na oportunidade, envolvidos efeitos para cálculo do Imposto de Renda Pessoa Jurídica – IRPJ e da Contribuição Social sobre o Lucro – CSL, proclamou a inconstitucionalidade dos artigos 30, § 1º, da Lei nº 7.730/89 e 30 da Lei nº 7.799/89, que estabeleceram a Obrigação do Tesouro Nacional – OTN no valor de NCz$ 6,92, para o ano-base de 1989, como balizador da correção monetária das demonstrações financeiras de pessoas jurídicas daquele ano e dos subsequentes, consignando o reestabelecimento da disciplina legal revogada pelo chamado Plano Verão.
+    Resolvendo questão de ordem, o Plenário submeteu o julgamento dos processos ao regime da repercussão geral, porque anteriormente admitida, quanto à matéria, no Recurso Extraordinário nº 242.689/PR, relator ministro Gilmar Mendes. Nesse ponto, fiquei vencido em virtude de os acórdãos recorridos terem sido publicados em datas anteriores à regulamentação do instituto mediante o Regimento Interno – 3 de maio de 2007.
+    No caso concreto, estão em jogo as limitações impostas pelas Leis nº 8.200/91 e nº 8.030/90 e pelo Decreto nº 332/91 à correção monetária das demonstrações financeiras do ano-base de 1990. As normas postergaram a compensação de eventuais diferenças decorrentes da utilização do BTNF, na forma prevista no artigo 1º, § 1º, da Lei nº 8.088/90, em vez do IPC, inclusive quanto aos encargos de depreciação.
+    Na solução deste processo, cabe observar os precedentes, porquanto revelada a inconstitucionalidade de preceitos a impedir o uso imediato de índices que não reflitam a verdadeira inflação do período de apuração dos tributos.
+    3. Conheço e provejo o recurso para, reformando o acórdão formalizado na origem, assentar o direito da parte recorrente à integral correção monetária das demonstrações financeiras relativas ao ano-base de 1990 correspondente à diferença entre a variação do IPC e do BTNF do período, inclusive no tocante aos encargos de depreciação, afastadas as regras do inciso I do artigo 3º da Lei nº 8.200/91 e do Decreto nº 332/91. Ficam invertidos os ônus da sucumbência.
+    4. Publiquem.
+    A embargante aponta contradição na parte dispositiva da decisão. Afirma estar em discussão a complementação da correção monetária das demonstrações relativas ao período base de 1989 e os artigos 30, § 1º, da Lei nº 7.730/1989 e 30 da Lei nº 7.799/1989.
+    A parte embargada apresentou manifestação apontando a necessidade de provimento dos declaratórios.
+    2. Na interposição destes embargos, observaram-se os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado, foi protocolada no prazo legal. Conheço.
+    Assiste razão à embargante. O recurso extraordinário versa a correção monetária aplicável ao ano-base de 1989, matéria estranha às disposições da Lei nº 8.200/1991 e do Decreto nº 332/1991.
+    3. Ante o quadro, dou provimento aos embargos de declaração interpostos por Vicunha Têxtil S/A, para suprir a contradição no dispositivo da decisão de folhas 285 e 286, assentando o direito da parte recorrente à correção monetária considerada a inflação do período nos termos da legislação revogada pelo denominado Plano Verão, afastadas as regras do § 1º do artigo 30 da Lei nº 7.730/89, de 31 de janeiro de 1989, e do artigo 30 da Lei nº 7.799, de 10 de julho de 1989, tidas por inconstitucionais nos precedentes. Mantida a inversão dos ônus sucumbenciais.
+    4. Publiquem.
+Brasília, 3 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
