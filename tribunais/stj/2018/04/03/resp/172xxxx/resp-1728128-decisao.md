@@ -1,0 +1,47 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por GEORGE FREITAS MATOS, fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+O recorrente aduz, em síntese, que "o prazo prescricional nas ações de cobrança do seguro [NOME] somente se inicia com a ciência inequívoca da incapacidade do beneficiário e ainda com a juntada de laudo médico aos autos" (fl. 273).
+É o relatório. Decido.
+Termo inicial do prazo prescricional nas ações de cobrança do seguro [NOME]:
+A Segunda Seção desta Corte Superior, no julgamento dos Temas n.os 668 e 875, aos quais está vinculado o Recurso Especial Repetitivo n.º 1.388.030/MG, consolidou o entendimento no sentido de que "O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez; Exceto nos casos de invalidez permanente notória, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico, sendo relativa a presunção de ciência" . Confira-se a íntegra da ementa desse julgado:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. CIVIL E PROCESSUAL CIVIL. [NOME]. TERMO INICIAL DA PRESCRIÇÃO. CIÊNCIA INEQUÍVOCA DO CARÁTER PERMANENTE DA INVALIDEZ. NECESSIDADE DE LAUDO MÉDICO.
+1. Para fins do art. 543-C do CPC:
+1.1. O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez.
+1.2. Exceto nos casos de invalidez permanente notória, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico, sendo relativa a presunção de ciência.
+2. Caso concreto: Inocorrência de prescrição, não obstante a apresentação de laudo elaborado quatro anos após o acidente.
+3. RECURSO ESPECIAL DESPROVIDO." (REsp 1388030/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 11/06/2014, DJe 01/08/2014.)
+Da leitura do voto condutor do julgamento do recurso especial repetitivo, percebe-se claramente que o entendimento pacificado neste Superior Tribunal de Justiça é no sentido de que o termo inicial do prazo prescricional é a data em que a vítima tem ciência inequívoca da sua invalidez que, todavia, nos termos do art. 334 do Código de Processo Civil de 1973, não pode ser presumida.
+Assim, a data de emissão de laudo médico atestando a invalidez permanente é considerada como prova do referido conhecimento inequívoco. Demais conjecturas fáticas que levam à presunção deste conhecimento não são aceitas pela jurisprudência consolidada nesta Corte Superior, à exceção da invalidez notória em hipóteses como amputação de membros ou quando o conhecimento anterior resulte comprovado na fase de instrução.
+Oportuna se faz a transcrição de trecho do voto esclarecedor da questão:
+"Eminentes colegas, a questão jurídica sujeita à presente afetação, referente ao termo inicial da prescrição nas demandas por indenização do seguro [NOME] nos casos de invalidez permanente da vítima, foi exaustivamente debatida pelas Turmas que compõem esta Seção de Direito Privado desta Corte, tendo-se consolidado o entendimento nos termos da seguinte Súmula:
+Súmula 278/STJ - O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral.
+Com a edição da súmula, sepultou-se o entendimento de que o termo inicial da prescrição seria sempre a data do acidente, independentemente do tipo de lesão.
+Outra questão controvertida, porém, ainda persiste nos Tribunais de apelação, referente à necessidade, ou não, de um laudo médico para que a vítima do acidente (beneficiária do seguro) tenha ciência inequívoca da invalidez permanente (total ou parcial).
+ ..
+A meu juízo, porém, existe uma questão jurídica, a par da controvérsia fática, que merece análise por esta Corte Superior.
+Trata-se do enquadramento dos casos nas hipóteses do art. 334 do Código de Processo Civil, abaixo transcrito:
+Art. 334. Não dependem de prova os fatos:
+I - notórios;
+II - afirmados por uma parte e confessados pela parte contrária;
+III - admitidos, no processo, como incontroversos;
+IV - em cujo favor milita presunção legal de existência ou de veracidade. (sem grifos no original)
+O primeiro entendimento acima descrito, exigindo um laudo médico para que se considere a ciência inequívoca da vítima, está de acordo com esse dispositivo legal (a contrario sensu), pois o laudo médico é uma prova documental.
+O segundo entendimento também está de acordo, pois o caráter permanente da invalidez em hipóteses como amputação de membro constitui fato notório para a vítima, enquadrando-se no inciso I, supra.
+O terceiro entendimento, contudo, parece afrontar o disposto no art. 334 do Código de Processo Civil, por não haver norma legal que autorize o julgador a presumir a ciência da invalidez a partir de circunstâncias fáticas como o decurso do tempo, a não submissão a tratamento ou a interrupção deste.
+Essa questão deve ser contextualizada a realidade brasileira em que a maioria das vítimas se submetem a tratamento médico e fisioterápico custeado pelo SUS (Sistema Único de Saúde), que sabidamente é bastante demorado nesses casos em que não há mais risco de vida.
+Desse modo, o fato de a vítima não persistir no tratamento iniciado, não pode ser utilizado para fulminar seu direito à indenização, se não há previsão legal nesse sentido.
+Nos casos exemplificados na descrição do terceiro entendimento acima apresentado, as vítimas sofreram lesões na coluna e na perna, respectivamente, tendo convivido com essas lesões por muitos anos, até submeterem-se a exame para verificar a invalidez permanente.
+Ora, por mais que as vítimas sentissem redução em sua capacidade laboral ao longo desses anos, esse fato não seria suficiente para autorizá-las a pleitear a indenização, pois a legislação do [NOME] exige mais do que mera incapacidade laboral, exige invalidez "permanente".
+E esse caráter permanente da invalidez, a meu juízo, é inalcançável ao leigo em Medicina.
+Para se afirmar que uma lesão é permanente, ou seja, sem perspectiva terapêutica, é necessário concluir pela inviabilidade de qualquer dos tratamentos disponíveis, o que não é possível sem conhecimentos médicos.
+Frise-se que não se pode confundir ciência da lesão (ou da incapacidade) com ciência do caráter permanente da invalidez, pois esta última só é possível com auxílio médico." (grifei.)
+Na hipótese dos autos, o Tribunal de origem decidiu de forma contrária à orientação do STJ, ao considerar a data subsequente à realização do tratamento médico como termo inicial do prazo prescricional, nos seguintes termos:
+"Com efeito, propôs o autor a presente demanda, buscando o pagamento de indenização de seguro obrigatório ([NOME]), alegando que em 10.09.2006 veio a sofrer acidente automobilístico (colisão), cujas lesões de natureza grave implicam em invalidez permanente, de modo a fazer jus à indenização prevista na Lei n. 6.194/74. Alega que somente tomou conhecimento de sua incapacitação em 23.09.2011.
+(..)
+Todavia, não se presta para firmar o dies a quo em que o autor teve conhecimento de sua incapacidade, o receituário de fls. 12. É que o laudo pericial de fls. 84/86 relata que o próprio autor informou que após o acidente em foco, que teve tratamento convencional, retornou ao INSS em 20.11.2006 (fls. 14v) onde consta a indicação de 10 sessões de fisioterapia, não tendo o autor ofertado qualquer documento posterior de alta da previdência social. Ainda consta do referido laudo que o autor teve intervenção cirúrgica, referente à operação de hérnia de disco no ano de 2008, com alta em 2009, sem que haja qualquer elemento de prova de que tal fato tenha qualquer relacionamento com o acidente.
+Ora, competia ao autor a prova do fato constitutivo de seu direito, da data exata em que obteve alta médica das lesões havidas no acima mencionado acidente, estando apto ao trabalho, mesmo se submetendo a sessões de fisioterapia. Nada produziu nos autos no sentido de comprovar a ciência inequívoca da sedimentação das lesões e das sequelas, não se prestando a tanto o citado "receituário" de fls. 12, que engloba os dois aspectos dos danos suportados pelo autor, nada indicando que a hérnia de disco intervertebral tenha qualquer relação de causalidade com o mencionado acidente, como já dito. Tem-se, pois, na melhor da hipótese, que o autor teve conhecimento da sedimentação dos danos em seu tornozelo no final de 2006, após se submeter às sessões de fisioterapia.
+Em assim sendo, considerando-se que, nos termos do art. 206, § 3º, IX, do CC, o prazo prescricional é de 3 anos, o prazo em foco fluiu no final do ano de 2009. Como a ação somente foi proposta em 2012, tem-se que extemporânea, posto prescrita." (fls. 204/207).
+Assim, merece reforma o acórdão recorrido. Com efeito, não se verifica a consumação do lapso prescricional no presente caso, haja vista que o laudo médico, nos termos do aresto vergastado, foi elaborado no dia 23/09/2011 - data essa que equivale à ciência inequívoca da incapacidade laboral -, e a propositura da ação ocorreu no dia 20/03/2012 (fls. 2/6). Logo, não houve o transcurso do prazo trienal.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de que, afastada a prescrição da pretensão autoral, retornem os autos à origem para que prossiga no julgamento da demanda.
+Publique-se. Intimem-se.
