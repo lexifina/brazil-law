@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pelo BANCO DO BRASIL S/A contra decisão do Tribunal de Justiça/SP que inadmitiu recurso especial, com base nas alíneas "a" e "c" do permissivo constitucional, aviado contra acórdão, assim ementado (e-STJ fl. 146):
+AGRAVO DE INSTRUMENTO. Medida Cautelar. Depósito judicial. Multa do artigo 475-J. Impossibilidade. Prazo para pagamento que começa a fluir da intimação do devedor, conforme orientação jurisprudencial do C. Superior Tribunal de Justiça. Ademais, trata-se de disposição de lei. Honorários advocatícios. Impugnação à execução. Não cabimento quando apenas corrigida a memória de cálculo. Decisão parcialmente reformada para afastar a multa moratória do artigo 475-J do CPC.
+Recurso parcialmente provido
+Os aclaratórios foram rejeitados (e-STJ fl. 184).
+O recorrente alega violação dos arts. 535 e 20, § 4º, do CPC/1973, sustentando, além da negativa de prestação jurisdicional, que é cabível a fixação de honorários advocatícios em sede de cumprimento de sentença.
+Após as contrarrazões (e-STJ fls. 256/264), o recurso foi inadmitido (e-STJ fl. 286).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Isso considerado, com relação ao art. 535 do CPC/1973, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como se confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO LIVRE DE OMISSÃO. TRIBUTÁRIO. EXECUÇÃO FISCAL. O SIMPLES PEDIDO DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO QUE ESTEJA EM FASE DE COBRANÇA JUDICIAL E GARANTIDO POR PENHORA, SE NÃO FOR INFORMADO AO JUIZ DA EXECUÇÃO ANTES DA ARREMATAÇÃO, NÃO TEM O CONDÃO DE SUSPENDER A EXIGIBILIDADE DA DÍVIDA EXECUTADA, PARA O QUE SE EXIGE, AINDA, A HOMOLOGAÇÃO DO PARCELAMENTO. PRECEDENTES DO STJ. ACÓRDÃO, QUE, ADEMAIS, É EXPRESSO AO AFIRMAR A MÁ-FÉ DA RECORRENTE EM DEIXAR DE COMUNICAR, TÃO LOGO FOSSE POSSÍVEL, A REALIZAÇÃO DO PARCELAMENTO, AINDA QUE TAL COMUNICAÇÃO TENHA OCORRIDO ANTES DA ARREMATAÇÃO. SÚMULA 7/STJ. NEGADO PROVIMENTO AO AGRAVO REGIMENTAL.
+1. Trata-se, na origem, de embargos à arrematação em execução fiscal do INSS em que a executada alega a suspensão do crédito tributário pelo parcelamento e sua comunicação ao Juízo antes da arrematação, pleiteando, assim, sua desconstituição.
+2. A alegada violação ao art. 535, II do CPC não ocorreu, pois a lide foi fundamentadamente resolvida nos limites propostos. As questões postas a debate foram decididas com clareza, não se justificando o manejo dos Embargos de Declaração. Ademais, o julgamento diverso do pretendido não implica ofensa à norma ora invocada. Tendo encontrado motivação suficiente, não fica o órgão julgador obrigado a responder, um a um, todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado. Precedente: AgRg no AREsp 12.346/RO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.08.2011.
+(..)
+5. Agravo Regimental desprovido. (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014)
+Quanto ao mais, consoante entendimento desta Corte, firmado sob a sistemática dos recursos repetitivos, "no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC". (REsp 1134186/RS, rel. Min. LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 21/10/2011).
+Tal julgado encontra-se assim ementado:
+RECURSO ESPECIAL REPETITIVO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. Para efeitos do art. 543-C do CPC:
+1.1. São cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp. n.º 940.274/MS).
+1.2. Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+1.3. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC.
+2. Recurso especial provido.
+Nesse passo, é de rigor a baixa dos autos para a necessária fixação dos honorários advocatícios.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO agravo para DAR PROVIMENTO ao recurso especial, de modo a determinar o retorno dos autos ao Tribunal de origem, a fim de que fixe o valor da verba honorária que entender cabível. Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
