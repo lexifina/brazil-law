@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 277):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MANDADO DE SEGURANÇA. PRESCRIÇÃO. PRETENSÃO EXECUTIVA. SÚMULA 150 DO STF. 120 DIAS. INAPLICABILIDADE.
+De acordo com o disposto na Súmula nQ 150 do Supremo Tribunal Federal, o prazo decadencial de 120 dias para a impetração do mandado de segurança não serve como prazo prescricional para a pretensão da cobrança da multa por litigante de má-fé fixada em sentença em mandado de segurança.
+IMÓVEL IMPENHORABILIDADE. BEM DE FAMÍLIA. NÃO DEMONSTRAÇÃO.
+Nos termos do art. 5Q da Lei nQ 8.009, de 1990, para os efeitos de impenhorabilidade, considera-se residência um único imóvel utilizado pelo casal ou pela entidade familiar para moradia permanente.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC (fls. 305/308).
+Nas razões do recurso especial, a parte agravante aponta divergência jurisprudencial e sustenta que não é necessário que o devedor resida no imóvel para ser caracterizado como bem de família impenhorável.
+Parecer do Ministério Público Federal (fls. 383/385).
+É o relatório.
+Verifica-se que, embora a parte recorrente tenha indicado violação à Lei nº 8.009/1990, não apontou, com precisão, qual regramento legal teria sido efetivamente violado pelo acórdão recorrido. Assim, nos termos da jurisprudência pacífica deste Tribunal, a indicação de violação genérica a lei federal, sem particularização precisa dos dispositivos violados, implica deficiência de fundamentação do recurso especial, atraindo, por analogia, a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Acerca do tema, os seguintes julgados ganham relevo: AgRg no Ag 1.325.843/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 21/11/2011; REsp 865.843/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJ 7/11/2006.
+Ademais, na interposição do recurso especial com base na alínea c do permissivo constitucional é imperiosa a indicação do dispositivo federal sobre o qual recai a suposta divergência jurisprudencial, o que não ocorreu no caso em tela. Assim, não pode ser conhecido o presente recurso especial, nos termos da Súmula 284/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.". Nesse mesmo sentido, destacam-se os seguintes precedentes: AgRg no AREsp 123.219/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2012; AgRg no AREsp 83.349/RJ, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 7/5/2012.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
