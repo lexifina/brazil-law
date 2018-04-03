@@ -1,0 +1,4 @@
+DECISÃO
+Trata-se de recurso especial interposto contra decisão que negou provimento ao recurso especial intentado contra acórdão do TJSP.
+Dispõe o Regimento Interno do Superior Tribunal de Justiça que cabe à Segunda Seção processar e julgar os processos relativos a obrigações em geral e responsabilidade civil, exceto quando se tratar de responsabilidade civil do Estado (art. 9º, caput e § 2º, II e III, do RISTJ). No caso dos autos, a controvérsia restringe-se à relação jurídica de consumo existente entre empresa de telefonia e consumidor, regida exclusivamente por normas de direito privado, matéria afeta à competência daquela Seção.
+Assim, definida a competência da Segunda Seção para apreciar e julgar o feito, determino sejam os presentes autos encaminhados à Coordenadoria competente para redistribuição a um dos Ministros que compõem aquela Seção, consoante teor do disposto no art. 9º da Instrução Normativa 2/2006, da Presidência desta Corte.
