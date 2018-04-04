@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de RAFAEL EMILIO FELICIANO CORREA, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que o paciente foi denunciado pela suposta prática das condutas descritas nos arts. 33, caput, e 35 da Lei n. 11.343/2006, pois surpreendido na posse de uma porção de maconha, com peso de 4,33g (quatro gramas e trinta e três centigramas), e uma de crack, com o peso de 27,16g (vinte e sete gramas e dezesseis centigramas).
+Buscando o relaxamento da custódia cautelar do paciente, impetrou a defesa habeas corpus no Tribunal de Justiça do Estado de Minas Gerais. Entretanto, os desembargadores integrantes da Sétima Câmara de Direito Criminal, por maioria de votos, denegaram a ordem.
+Recebeu o acórdão esta ementa (e-STJ fl. 145):
+HABEAS CORPUS - TRÁFICO DE DROGAS - ASSOCIAÇÃO PARA O TRÁFICO - POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO - EXCESSO DE PRAZO - SUPERAÇÃO DO PRAZO JUSTIFICADA - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - RELAXAMENTO DA PRISÃO - DESCABIMENTO. 1. O prazo para a formação da culpa não pode constituir-se numa simples soma aritmética do tempo ideal para cada ato processual, devendo ser avaliado, cotejado e submetido às particularidades do caso concreto. 2. Tratando-se de processo que guarda alguma complexidade, com pluralidade de réus e de crimes a serem apurados, tendo sido, ainda, necessária expedição de cartas precatórias e estando a audiência de instrução e julgamento designada para data que se avizinha, desarrazoado relaxar-se, agora, o acautelamento preventivo do paciente.
+No Superior Tribunal de Justiça, reitera a Defensoria Pública a alegação de excesso de prazo na formação da culpa. Sublinha que o paciente se encontra custodiado há mais de 1 (um) ano e 3 (três) meses, "o que acarreta ofensa ao princípio da duração razoável do processo" (e-STJ fl. 3).
+Reverbera, outrossim, a ilegalidade, ante a ausência de fundamentos suficientes, do acórdão que manteve a prisão preventiva do réu. Pondera que "todo o encadeamento da exposição da decisão centra-se somente num quimérico e antecipado perfil do paciente e da gravidade abstrata do delito; e, não nos elementos concretos do fato em toda sua complexidade" (e-STJ fl. 7).
+Diante dessas considerações, pede, em tema liminar, possa o paciente aguardar em liberdade o julgamento definitivo do presente remédio constitucional. No mérito, busca a revogação da prisão preventiva, com ou sem a aplicação de medidas cautelares diversas, na forma do art. 319 do Código de Processo Penal, expedindo-se o competente alvará de soltura.
+O pedido liminar foi indeferido (e-STJ fls. 177/179).
+As informações foram prestadas (e-STJ fls. 183/187).
+É, em síntese, o relatório.
+Em consulta à página eletrônica do Tribunal de Justiça, verificou-se que, em 2/3/2018, foi expedido alvará de soltura em benefício do paciente. Nessas circunstâncias, nada mais há a ser apreciado nesta oportunidade.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno desta Corte Superior, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
