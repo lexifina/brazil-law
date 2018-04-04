@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. CONCLUSÃO ESTADUAL NO SENTIDO DE QUE AS PROVAS INDICIÁRIAS SÃO SUFICIENTES PARA A CONCLUSÃO NO SENTIDO DA OCORRÊNCIA DO EVENTO. DANOS MORAIS E MATERIAIS CONFIGURADOS. SÚMULA 7/STJ. TESE RECURSAL QUE NÃO ESPECIFICA O DISPOSITIVO VULNERADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por JOSE CREMASCO - ESPÓLIO, com fundamento na alínea a do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Paraná assim ementado (e-STJ, fls. 251-264):
+RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. PROVA INDICIÁRIA. PROVA SUFICIENTE. DANO MORAL. INDENIZAÇÃO. MAJORAÇÃO. APELAÇÃO PRINCIPAL NÃO PROVIDA E APELAÇÃO ADESIVA PROVADA EM PARTE.
+No recurso especial, o recorrente apontou violação do art. 335 do antigo Código de Processo Civil.
+Esclareceu que se insurgiu contra sua condenação por danos morais e materiais com suporte no artigo supracitado. Afirmou que não existem indícios de provas dando suporte a tal conclusão, portanto deve ser reformado o julgado estadual. Apontou que há cerceamento de defesa na condução da causa, pois apresentou quesitos à perícia a tempo, todavia sua peça processual foi juntada a após realização da prova, inviabilizando sua plena defesa. Suscitou má-fé dos autores, pois intentaram ação sem o mínimo de provas de seu direito, configurando aventura judicial (e-STJ, fls. 267-273).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 406-415).
+Contraminuta apresentada (e-STJ, fls. 279-290 e 438-446).
+Brevemente relatado, decido.
+O acórdão concluiu que os indícios de prova formam um conjunto coeso demonstrando a existência do acidente causado pelo preposto do réu, ensejador de danos morais e materiais.
+A segunda instância firmou que "a pessoa apontada pelos autores  ..  como sendo o motorista causador do acidente costumava passar pelo local ao menos uma vez por dia transportando colheita de um sítio do senhor [NOME], e ao volante de um caminhão amarelo, de propriedade do finado; existe uma situação de fato justificando a presença de [NOME] no local e conduzindo um veículo com aquelas características definidas por duas testemunhas. A prova indica que a presença do motorista e caminhão do réu naquele dia  ..  e naquele local  ..  não era um fato excepcional, mas, antes, algo que ocorria diariamente, às vezes mais de uma vez por dia para o transporte da colheita; em contrapartida, nenhuma contraprova foi produzida infirmando a inferência indiciária que se pode extrair dos referidos fatos" (e-STJ, fls. 256-257).
+Portanto, a conclusão estadual foi calcada em fatos e prova, atraindo a aplicação da Súmula 7/STJ.
+É importante esclarecer que, "para compor a lide e, assim, aplicar a lei do caso concreto, a autoridade judiciária não deve se valer apenas de seu conhecimento jurídico, mas também das regras de experiência comum subministradas pela observação do que ordinariamente acontece e ainda da experiência técnica, ressalvado, quanto a esta, o exame pericial (art. 335 do CPC)" (REsp 1396544/CE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 03/09/2013, DJe 11/10/2013).
+No que toca ao argumento de que houve cerceamento de defesa, a parte insurgente não especificou nenhum dispositivo que fundasse sua pretensão, atraindo a aplicação da Súmula 284/STF.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da condenação.
+Publique-se.
