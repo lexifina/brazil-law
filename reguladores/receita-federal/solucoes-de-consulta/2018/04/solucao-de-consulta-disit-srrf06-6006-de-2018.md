@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF06 nº 6006, de 2 de março de 2018
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: SERVIÇOS DE ENSINO DE IDIOMAS INDIVIDUALIZADO ON-LINE. RETENÇÃO NA FONTE. As importâncias pagas ou creditadas por pessoa jurídica a outra pessoa jurídica, civil ou mercantil, pela prestação ou venda de serviços de ensino de idiomas individualizado on-line sujeitam-se à retenção do Imposto de Renda na fonte. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 50, DE 20 DE FEVEREIRO DE 2014. DISPOSITIVOS LEGAIS: RIR/1999, art. 647; IN SRF nº 23/1986; PN CST nº 8/1986, 11 a 13.
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF
+EMENTA: SERVIÇOS DE ENSINO DE IDIOMAS INDIVIDUALIZADO ON-LINE. RETENÇÃO NA FONTE. As importâncias pagas ou creditadas por pessoa jurídica a outra pessoa jurídica, civil ou mercantil, pela prestação ou venda de serviços de ensino de idiomas individualizado on-line sujeitam-se à retenção do Imposto de Renda na fonte. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 50, DE 20 DE FEVEREIRO DE 2014.
+DISPOSITIVOS LEGAIS: RIR/1999, art. 647; IN SRF nº 23/1986; PN CST nº 8/1986, 11 a 13.
+RENATA MARIA DE CASTRO PARANHOS Chefe Substituta
