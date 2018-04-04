@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. A Suprema Corte firmou entendimento no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)" (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016).
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por [NOME] e OUTRO contra decisão monocrática de minha relatoria que apreciou recurso extraordinário interposto com o objetivo de reformar acórdão proferido pelo Superior Tribunal de Justiça nos seguintes termos (fl. 884, e-STJ):
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 ao julgamento deste Agravo Interno.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus dos Agravantes. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido."
+Os embargos de declaração foram rejeitados (fls. 930 e 939, e-STJ).
+A decisão agravada negou seguimento ao recurso extraordinário, nos termos do art. 1.030, inciso I, alínea "a", do Código de Processo Civil, conforme a seguinte ementa (fl. 990, e-STJ):
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+Dessa decisão não foram opostos embargos de declaração.
+Os agravantes alegam ofensa ao art. 5º, LIV e LV, da Lei Maior. Sustentam violação dos princípios do devido processo legal, do contraditório e da ampla defesa.
+Sustentam ainda que (fl. 1.004, e-STJ):
+"Conforme podemos verificar no Recurso Extraordinário que fora negado, a decisão do STJ mcrccc ser reformada uma vez que fere de morte os incisos LIV c LV do art. 5o da Lei Maior.
+A decisão não só obstaculiza o acesso à justiça, como também afasta a eficácia da jurisdição. Assim, demonstrado o direito e a necessidade em ver reformada a decisão vergastada, não resta alternativa ao Supremo Tribunal Federal senão o conhecimento e provimento do respectivo Recurso Extraordinário."
+Pugnam, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Corte Especial.
+A parte agravada, instada a manifestar-se, apresentou impugnação (fls. 1.019-1.020, e-STJ), alegando que a decisão agravada deve ser mantida por seus próprios e jurídicos fundamentos.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. A Suprema Corte firmou entendimento no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)" (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016).
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Sem razão os agravantes.
+Trata-se de agravo interno contra decisão que negou seguimento ao recurso extraordinário.
+De início, é preciso analisar os motivos que levaram a Primeira Turma desta Corte a aplicar a Súmula 182/STJ. Para isso, transcrevo o trecho do acórdão que julgou o agravo interno no recurso especial dos ora agravantes (fls. 886-887, e-STJ):
+" ..
+Da leitura das razões do agravo interno, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, tendo em vista que a incidência da Súmula n. 7 do Superior Tribunal de Justiça quanto à comprovação do dano ao erário e a aplicação, por analogia, da Súmula n. 284 do Supremo Tribunal Federal quanto à admissibilidade do recurso pela alínea c do permissivo constitucional não foram combatidas nas razões deste agravo interno, incidindo, portanto, a Súmula n. 182 desta Corte: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, à luz do princípio da dialeticidade, constitui ônus do Recorrente expor, de forma clara e precisa, a motivação ou as razões de fato e de direito de seu inconformismo, impugnando os fundamentos da decisão recorrida, de forma a amparar a pretensão recursal deduzida, requisito essencial à delimitação da matéria impugnada e consequente predeterminação da extensão e profundidade do efeito devolutivo do recurso interposto, bem como à possibilidade do exercício efetivo do contraditório.
+Nessa linha, o entendimento jurisprudencial consagrado na Súmula n. 182/STJ, segundo o qual compete à Agravante, sob pena de não conhecimento do agravo, impugnar especificamente os fundamentos da decisão hostilizada
+Percebe-se, conforme o excerto do voto condutor acima transcrito, que, em razão do óbice processual contido na Súmula 182/STJ, o referido órgão colegiado não analisou o mérito da lide.
+Nesse ponto, o Supremo Tribunal Federal firmou entendimento no sentido de que a matéria referente ao cabimento de recursos da competência de outros tribunais não possui repercussão geral, pois está restrita ao âmbito infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+A propósito, confira-se a ementa do seguinte julgado:
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608." (RE 598.365/MG, Tribunal Pleno, Rel. Ministro AYRES BRITO, DJe de 26/3/2010.)
+Deve ser observado que a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+Assim, não há repercussão geral a ser reconhecida, pois o Supremo Tribunal Federal já decidiu que a controvérsia relativa à admissibilidade se restringe ao exame da legislação infraconstitucional, bem como firmou entendimento no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)". Eis a ementa do julgado:
+"DIREITO TRIBUTÁRIO. AGRAVO INTERNO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS - ICMS. INCIDÊNCIA NA BASE DE CÁLCULO DO FRETE. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. 1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF). 2. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a não inclusão do frete na base de cálculo do ICMS no regime de substituição tributária, porquanto seria necessária a análise da legislação infraconstitucional de regência. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973." (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
