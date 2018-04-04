@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da 1ª Vice-Presidência do Tribunal de Justiça do Estado do Paraná que não admitiu recurso especial com base nos seguintes fundamentos: (I) impossibilidade de exame de dispositivo constitucional em recurso especial; (II) (II) rever o entendimento esposado pelo Tribunal local acerca da responsabilidade pelo acidente demandaria novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ; (III) a revisão do valor arbitrado à título de honorários advocatícios também exige o exame do contexto fático-probatório, o que é vedado pela Súmula 7/STJ,
+É o relatório.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação do óbice previsto na Súmula 7/STJ e a impossibilidade de exame de dispositivo constitucional, fundamentos autônomos e suficientes para a manutenção da decisão ora agravada.
+ Anote-se, por oportuno, que não supre a deficiência a alegação de que "a análise da aplicabilidade e alcance dos dispositivos trazidos no Recurso, não demandam revolvimento de matéria fático-probatória." (fl. 550), se não for demonstrado como é possível o acolhimento da insurgência sem o reexame das provas constantes dos autos.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
