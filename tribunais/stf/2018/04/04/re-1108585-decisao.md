@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa transcrevo (eDOC 2, p. 472):
+    “EXECUÇÃO DE SENTENÇA. GRATIFICAÇÃO DE DESEMPENHO. EXTENSÃO AOS SERVIDORES INATIVOS. DESCABIMENTO. LIMITAÇÃO.
+    1. O Plenário do STF, no julgamento do RE 662.406, firmou tese, dotada de repercussão geral, de que 'o termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações após a conclusão do primeiro ciclo de avaliações, não podendo a administração retroagir os efeitos financeiros à data anterior.' Por conseguinte, o termo final do cálculo para o pagamento da GDARA para os aposentados com paridade aos servidores da ativa deve ser a data de homologação dos resultados do 1º ciclo da avaliações de desempenho na atribuição da referida gratificação.
+    2. Improcede a pretensão da ASSINCRA, também, quanto à isenção dos honorários advocatícios nos embargos à execução, eis que a isenção prevista no art. 18 da Lei nº 7.347/85 se restringe às ações civis públicas.”
+    Os embargos de declaração foram parcialmente acolhidos, restando consignado o seguinte entendimento (eDOC 3, p. 22):
+    “EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA. EMBARGOS À EXECUÇÃO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. SENTENÇA PROFERIDA NA VIGÊNCIA DO CPC73.
+    1. A verba honorária deve ser fixada em 10% sobre o valor executado, salvo se resultar valor exorbitante ou ínfimo.
+    2. No caso, o INCRA foi condenado ao pagamento de R$ 465,16 de honorários em favor do embargado (valor não atualizado), referente ao percentual de 10% sobre a sua sucumbência nos embargos, o que está de acordo com o entendimento acima exposto.
+    Quanto aos honorários dos exequentes, o magistrado de primeiro grau entendeu que o valor de R$ 2.000,00 atende ao princípio da razoabilidade, por ser quase o quíntuplo do valor fixado em desfavor do INCRA, e não absorver um percentual tão significativo do valor a ser recebido na execução. Considerando que os exequentes sucumbiram em R$ 206.945,69, e que a execução irá prosseguir pelo valor de R$ 33.204,61, a fixação dos honorários em 10% sobre o referido montante, resultaria em valor exorbitante. Assim, correta a decisão recorrida, eis que de acordo com o entendimento desta Turma, conforme restou demonstrado acima. Portanto, em que pese a omissão apontada, o resultado do julgamento embargado deve ser mantido.”
+    Nas razões recursais, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV, LIV E LV; 40, § 1º, III, b; e 93, IX, da Constituição Federal.
+    Sustenta-se, em suma, que (eDOC 3, p. 51):
+    “Repise-se que a regra constitucional é de aposentadoria proporcional, com proventos proporcionais. O art. 40, § 1º, III, alínea “b” da Constituição Federal quando trata da aposentadoria proporcional, estabelece proventos proporcionais. Não foi diferente em momento algum. Sempre que a Constituição referiu-se sobre a possibilidade de aposentadoria proporcional, também remeteu à regra dos proventos proporcionais (art. 40, III, “b” e “c” antes da Emenda 20) e quando a Constituição trata de proventos trata de tudo aquilo que é pago aos inativos e não apenas do “vencimento básico”, mais uma assertiva sobre a qual é absolutamente desnecessário que a lei que instituir gratificações trate da proporcionalidade na hora da aposentadoria proporcional.”
+    É o relatório. Decido.
+    A pretensão recursal não merece acolhida.
+    O Supremo Tribunal Federal analisou o tema debatido nestes autos quando do julgamento do ARE-RG nº 808.997, Rel. Min. Luiz Fux, DJe 1º.08.2014 (tema 751), concluindo pela inexistência de repercussão geral da controvérsia, por se tratar de discussão afeta à interpretação de legislação infraconstitucional. A propósito, confira-se a ementa do julgamento:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA PROPORCIONAL. GRATIFICAÇÃO. CÁLCULO. VALOR INTEGRAL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática de repercussão geral, nos termos do art. 1.036 do CPC, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 04 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
