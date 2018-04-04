@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por NICOL"S INDUSTRIA E COMERCIO DE PLASTICOS EIRELI, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+ASSISTÊNCIA JUDICIÁRIA PESSOA JURÍDICA Ação ordinária anulatória de protesto - A assistência judiciária não é incompatível com a pessoa jurídica, mesmo porque o artigo 98, do Novo Código de Processo Civil, expressamente a inclui no campo de aplicação do citado benefício - Todavia, para reconhecimento desse direito é necessária a demonstração da insuficiência de recursos para fazer frente à assunção dos ônus processuais - Matéria pacificada na jurisprudência do STF e do STJ - Recurso improvido nessa parte.
+VALOR DA CAUSA Interposição de agravo de Instrumento contra determinação de emenda à inicial para adequação do valor da causa ao benefício patrimonial perseguido Inadmissibilidade recursal - Hipótese não prevista no artigo 1.015, do Novo Código de Processo Civil - Rol taxativo - Recurso não conhecido nessa parte.
+Foram rejeitados os embargos declaratórios opostos pelo contribuinte.
+No recurso especial, o recorrente aponta violação dos arts. 98 e 99, §3º, do CPC/2015.
+Sustenta, em síntese, que restou comprovada a hipossuficiência financeira da pessoa jurídica, razão pela qual, é devida a concessão do benefício de assistência judiciária gratuita ao contribuinte.
+O recurso especial foi inadmitido com fundamento na súmula n. 7 do Superior Tribunal de Justiça.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+É irrefutável que o Tribunal de origem, à fl. 91, ao analisar o contexto fático e probatório colacionado aos autos, consignou que "a concessão do benefício é imprescindível a comprovação da alegada condição de insuficiência econômica, o que não se verificou no presente caso (..)", assentando, em seguida, que no "exercício/2015, a empresa agravante auferiu lucros no patamar de R$ 4.767.533,50 (quatro milhões setecentos e sessenta e sete mil, quinhentos e trinta e três reais e cinquenta centavos fl. 56), valor que, aritmeticamente superou os prejuízos por ela experimentados nos exercícios anteriores (..)".
+Dessa forma, verifica-se que a irresignação do recorrente, acerca da não concessão do benefício da assistência judiciária gratuita, vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
