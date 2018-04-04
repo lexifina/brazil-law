@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. GRUPO ECONÔMICO AO QUAL A RECORRENTE PERTENCE. RESPONSABILIZAÇÃO. QUESTÃO QUE DEMANDARIA AMPLA DILAÇÃO PROBATÓRIA. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto por COMERCIAL CONSTRUIR LTDA., com fundamento no art. 105, III, a da CF/1988, contra o acórdão proferido pelo egrégio TRF da 5a. Região, assim ementado:
+EMENTA PROCESSUAL CIVIL AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL. ALEGAÇÃO DE AUSÊNCIA DE RESPONSABILIDADE PESSOAL PELA DÍVIDA. EXECUTADA. DISCUSSÃO ACERCA DA EXISTÊNCIA DE GRUPO ECONÔMICO DE "FATO. QUESTÕES NÃO SUSCITADAS NA DECISÃO AGRAVADA. INOVAÇÃO EM SEDE RECURSAL.IMPOSSIBILIDADE
+1. Agravo de instrumento contra decisão que determinou a constrição, via RENAJUD, de veículos, de propriedade dos executados.
+2. Na hipótese, ao alegar a ausência de responsabilidade pessoal pela dívida executada, os agravantes esbarram no debate acerca da formação de grupo econômico de fato.
+3. Por sua vez, observa-se que a discussão acerca da existência de grupo econômico de fato, envolvendo pessoas físicas e jurídicas Vinculadas à empresa, ora agravante, e originariamente executada, já foi alvo de julgamento pela Terceira Turma deste Tribunal, no AGTR 136924.
+4. Nesse sentido, em face da constatação de sua formação em processos anteriores, nada obsta a constrição dos veículos de propriedade dos agravantes.
+5. Por derradeiro, as alegações suscitadas nas razões do agravo de instrumento - entre elas o erro .no ajuizamento da execução fiscal, bem como a não ocorrência da desconsideração da personalidade jurídica - escapam ao âmbito de devolutividade deste instrumental, posto que tais questões não foram alvo de análise na decisão guerreada.
+6 Agravo de instrumento não provido e pedido de reconsideração julgado prejudicado.
+2. Nas razões do Apelo Nobre, o recorrente aponta violação dos arts. 128, 459, 1.033 do CPC/1973, 134 e 135 do CTN. Aduz, em síntese, que a responsabilização da suplicante e o consequente redirecionamento da ação de cobrança está fincada em um único fato, qual seja o da existência de grupo econômico, entre a mesma e a empresa executada, com outras empresas.
+3. Afirma que inexistindo prova de que se tenha agido com excesso de poderes, ou infração de contrato social ou estatutos, não há falar-se em responsabilidade tributária do ex-sócio a esse título ou a título de infração legal.
+4. Com contrarrazões (fls. 236/265), o recurso fora admitido na origem (fls. 299).
+5. É o breve relatório. Decido.
+6. Quanto à responsabilidade dos sócios pelos débitos da empresa executada, a 1a. Seção desta Corte Superior, no REsp. 1.101.728/SP, julgado sob o rito do art. 543-C do CPC/1973, firmou o entendimento de que o redirecionamento da execução fiscal para o sócio-gerente da empresa só é possível quando comprovado que ele tenha agido com excesso de poder, infração à lei ou contra o estatuto, ou na hipótese de dissolução irregular da empresa. Veja-se a ementa desse julgado:
+TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. TRIBUTO DECLARADO PELO CONTRIBUINTE. CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. PROCEDIMENTO ADMINISTRATIVO. DISPENSA. RESPONSABILIDADE DO SÓCIO. TRIBUTO NÃO PAGO PELA SOCIEDADE.
+1. A jurisprudência desta Corte, reafirmada pela Seção inclusive em julgamento pelo regime do art. 543-C do CPC, é no sentido de que a apresentação de Declaração de Débitos e Créditos Tributários Federais - DCTF, de Guia de Informação e Apuração do ICMS - GIA, ou de outra declaração dessa natureza, prevista em lei, é modo de constituição do crédito tributário, dispensando, para isso, qualquer outra providência por parte do Fisco (REsp 962.379, 1ª Seção, DJ de 28.10.08).
+2. É igualmente pacífica a jurisprudência do STJ no sentido de que a simples falta de pagamento do tributo não configura, por si só, nem em tese, circunstância que acarreta a responsabilidade subsidiária do sócio, prevista no art. 135 do CTN. É indispensável, para tanto, que tenha agido com excesso de poderes ou infração à lei, ao contrato social ou ao estatuto da empresa (EREsp 374.139/RS, 1ª Seção, DJ de 28.02.2005).
+3. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ 08/08. (REsp. 1.101.728/SP, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 23.3.2009).
+7. Na hipótese dos autos, o Tribunal de origem asseverou que a dissolução irregular da sociedade ocorreu com a formação do grupo econômico. Nesse contexto, para se adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado no acórdão atacado, seria necessário o reexame do conjunto fático-probatório dos autos, o que é inviável em Recurso Especial. Nesse sentido, citem-se precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ.CAUTELAR FISCAL. INDISPONIBILIDADE DE BENS. PRÁTICA DE ATOS QUE DIFICULTAM A SATISFAÇÃO DO CRÉDITO TRIBUTÁRIO. FORMAÇÃO DE GRUPO ECONÔMICO. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+2. Agravo interno não provido (AgInt no AREsp. 845.969/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 2.10.2017).
+
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. GRUPO ECONÔMICO AO QUAL A RECORRENTE PERTENCE. RESPONSABILIZAÇÃO. QUESTÃO QUE DEMANDARIA AMPLA DILAÇÃO PROBATÓRIA. AGRAVO REGIMENTAL DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Alegou a recorrente violação do art. 124, I do CTN, argumentando que o fato de integrar o mesmo grupo econômico da empresa devedora não a torna responsável pelos débitos fiscais.
+Quanto ao ponto, a decisão agravada é clara ao afirmar que o Tribunal de origem consignou estarem presentes os requisitos para a desconsideração da personalidade jurídica da recorrente, em razão da existência de fortes indícios de fraude a envolver o grupo econômico do qual ela faz parte, fraudes essas que eram objeto inclusive de apuração em procedimento penal (fls. 433).
+2. Dessa forma, além de não existir a omissão apontada, não se revela possível a alteração do julgado em razão da necessidade do revolvimento fático-probatório, providência vedada em sede de Apelo especial.
+3. Agravo Regimental da empresa desprovido (AgRg no REsp. 1.273.264/RN, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 31.8.2017).
+8. Ante o exposto, nega-se seguimento ao Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
