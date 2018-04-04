@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se recurso especial interposto por [NOME], com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 105):
+DIREITO PREVIDENCIÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DE SENTENÇA. EXCESSO DE EXECUÇÃO. APOSENTADORIA POR INVALIDEZ. DESCONTO DO PERÍODO EM QUE COMPROVADO O EXERCÍCIO DE ATIVIDADE REMUNERADA. REEXAME NECESSÁRIO NÃO CONHECIDO. APELAÇÃO DO INSS PROVIDA. APELAÇÃO DO SEGURADO PREJUDICADA
+1. Não há reexame necessário em sede de embargos à execução de sentença. Precedente do STJ.
+2. Um dos requisitos para a concessão da aposentadoria por invalidez ou do auxílio-doença é o afastamento da atividade laborativa, sendo vedado o recebimento conjunto de salário com prestação decorrente da concessão de benefício por incapacidade laborativa total parcial ou permanente, nos termos dos artigos 46 e 60, da Lei 8.213/91.
+3. O INSS comprovou que a parte embargada exerce atividade remunerada no período desde 21.11.1990 até janeiro de 2009, mês anterior à interposição do recurso de apelação, mediante a demonstração de contribuições recolhidas à Previdência pela empresa empregadora, dc modo que elevem ser descontados os valores referentes ao benefício concedido nos períodos trabalhados, não restando nada a ser executado.
+4. Outrossim, comprovado que a parte embargada continua a exercer atividade remunerada mesmo após o trânsito em julgado da decisão que reconheceu o direito ao recebimento do benefício de auxílio-doença, resta também afastada a determinação dc cumprimento de obrigação de fazer.
+5. Condenação da parte embargada ao pagamento de honorários advocatícios, que fixo em 10% (dez por cento) do valor representado pelo excesso da execução, nos lermos do artigo 85, § 2º, do CPC/2015, observando-se, na execução, o disposto no artigo 98, § 3o, do CPC/2015.
+6. Por fim, ante o acolhimento da pretensão do INSS, resta prejudicada a apelação do segurado.
+7. Reexame necessário não conhecido. Apelação do INSS provida. Apelação do segurado prejudicada.
+Opostos embargos de declaração, foram rejeitados (fl.
+Aponta o recorrente, além de divergência jurisprudencial, violação aos arts. 471, 473, 474 e 475-G do CPC/73, 505, 507 e 508 do CPC/2015, sustentando que "não pode a autarquia, em total desobediência ao título exequendo em total violação dos demais basilares princípios de direito, ser isentada na fase de execução do pagamento do benefício conferido pelo título somente porque continua contribuindo, empregado" (fl. 138).
+Aduz que "se o vínculo de emprego não é superveniente ao titulo exequendo, não pode este fato ser utilizada em fase de execução para modificação do título, sob pena de violação, aqui consumada, do indigitado artigo de lei federal" (fl. 140).
+Enfatiza que sob pena de afronta ao instituto da coisa julgada, pugna para que "seja afastada a isenção conferida a autarquia - para não pagar o beneficio durante o período em que o exequente manteve vínculo empregaticio (isenção conferida pelo Julgado recorrido de 2003 - inicio do beneficio - até 2009 - vínculo de 1990 a 2009)" (fl. 145).
+Sem contrarrazões.
+É o relatório.
+A irresignação não merece acolhimento.
+Isso porque, o Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 471, 473, 474 e 475-G do CPC/73, 505, 507 e 508 do CPC/2015, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Do exposto, não conheço do recurso especial. Impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
