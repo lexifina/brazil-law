@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na decisão agravada, nos termos do art. 1.021, § 1º, do NCPC, a atrair a aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI:
+Trata-se de agravo interno, interposto por MARIANA PACHECO e OUTROS, em face de decisão monocrática de lavra da Presidência do Superior Tribunal de Justiça (fls. 1.233/1.234, e-STJ), que, amparada na Súmula 182 do STJ, não conheceu do agravo (art. 1.042 do NCPC), visto que a agravante deixou de impugnar especificamente os fundamentos contidos na decisão de inadmissibilidade recursal.
+Daí o presente agravo interno (fls. 1.238/1.246, e-STJ), no qual a insurgente repisa as alegações contidas nas razões do agravo e do apelo extremo, no sentido de que houve violação à lei federal e divergência jurisprudencial acerca da matéria.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na decisão agravada, nos termos do art. 1.021, § 1º, do NCPC, a atrair a aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O agravo interno não merece conhecimento.
+1. Com efeito, consoante entendimento desta Corte, pelo princípio da dialeticidade, compete à parte recorrente impugnar todos os fundamentos da decisão recorrida, autônomos ou não, sob pena de atrair o óbice contido no enunciado da Súmula 182 do STJ, a saber: "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada". Nesse sentido, confira-se:
+AGRAVO INTERNO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. TEMPESTIVIDADE DO RECURSO ESPECIAL. COMPROVAÇÃO. SÚMULA N. 256 DO STJ. CANCELAMENTO. PROTOCOLO INTEGRADO. POSSIBILIDADE. AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULAS N. 182 DO STJ E 283 DO STF. LITIGÂNCIA DE MÁ-FÉ. REVISÃO. IMPOSSIBILIDADE. 1. Tendo o juízo de admissibilidade utilizado dois fundamentos suficientes por si sós para inadmitir o recurso especial, deve a parte recorrente impugná-los sob pena de incidência do óbice previsto na Súmula n. 283 do STF. 2. A modificação do entendimento firmado pelo Tribunal de origem quanto à existência de litigância de má-fé demanda a incursão no acervo fático-probatório dos autos, a teor da Súmula n. 7 do STJ. 3. Agravo interno desprovido. (AgInt nos EDcl no AREsp 743.572/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/08/2016, DJe 31/08/2016)  grifou-se
+PROCESSO CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. RAZÕES RECURSAIS QUE NÃO TRATAM DOS ARGUMENTOS DA DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA. SÚMULA 182/STJ. AUSÊNCIA DE PEDIDO DE REFORMA DA DECISÃO AGRAVADA. PRINCÍPIO DISPOSITIVO. RECURSO NÃO CONHECIDO. 1. Os agravantes não enfrentaram em seu recurso o fundamento da decisão agravada, que estabeleceu serem incabíveis embargos de divergência contra decisão monocrática, nem formularam pedido para sua reforma. 2. Para se viabilizar o conhecimento do agravo regimental, sobretudo diante do princípio da dialeticidade, é necessário que se impugnem especificamente todos os fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. A decisão objurgada permanece incólume e atrai o Verbete Sumular n. 182 do STJ. 3. O princípio dispositivo impõe que a parte recorrente formule pedido de reforma da decisão recorrida, sob pena de não conhecimento do recurso. 4. Agravo regimental não conhecido. (AgRg nos EAREsp 623.863/RS, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 21/10/2015, DJe 20/11/2015)  grifou-se
+No caso dos autos, depreende-se das razões do agravo interno (fls. 1.238/1.246, e-STJ) que os insurgentes limitaram-se a repisar os argumentos expostos no agravo e no apelo extremo, contudo, quanto ao óbice de "ausência de impugnação específica do fundamento da decisão agravada", verifica-se que não fora sequer mencionado nas razões do agravo interno.
+Conforme reiterada jurisprudência desta Corte Superior de Justiça, o agravante deve infirmar, nas razões do agravo interno/regimental, todos os fundamentos da decisão impugnada, sejam eles autônomos ou não, sob pena de não ser conhecido o seu recurso, a teor do disposto na Súmula 182 do STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PREVIDÊNCIA PRIVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. RECURSO NÃO CONHECIDO.  ..  2. O agravo interno não refutou a decisão agravada em relação à aplicação da Súmula nº 83 do STJ, atraindo a incidência da Súmula nº 182 do STJ. Impossibilidade de conhecimento do agravo regimental, em razão do princípio da dialeticidade. 3. Agravo interno não conhecido. (AgInt no REsp 1590629/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/08/2016, DJe 31/08/2016)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RAZÕES RECURSAIS QUE NÃO TRATAM DOS ARGUMENTOS DA DECISÃO QUE CONHECE DO AGRAVO PARA NEGAR SEGUIMENTO A RECURSO ESPECIAL. SÚMULA 182 DESTA CORTE SUPERIOR. RECURSO NÃO CONHECIDO. 1. O agravante não rebateu, como lhe competia, a aplicação analógica das Súmulas 283 e 284 do STF e a adoção do entendimento de que esta Corte não tem a missão constitucional de interpretar dispositivos da Lei Maior em sede de recurso especial. 2. Para se viabilizar o conhecimento do agravo interno, sobretudo diante do princípio da dialeticidade, é necessário que se impugne especificamente todos os fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. 3. Dessa forma, a decisão objurgada permanece incólume e atrai o Verbete Sumular n. 182 do STJ. 4. Agravo regimental não conhecido. (AgRg no AREsp 104.007/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/11/2014, DJe 19/12/2014)  grifou-se
+Desta forma, irrefutável a incidência da Súmula 182 do STJ, porquanto inexistiu ataque específico ao fundamento da decisão monocrática ora agravada.
+2. Do exposto, não conheço do agravo interno.
+É como voto.
