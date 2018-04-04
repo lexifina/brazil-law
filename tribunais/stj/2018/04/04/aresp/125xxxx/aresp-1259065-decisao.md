@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo BANCO J. SAFRA S/A, contra decisão denegatória de seu recurso especial fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Nas razões do nobre apelo, o ora Agravante defende a exigibilidade da comissão de permanência.
+É o relatório. Decido.
+A Segunda Seção deste Superior Tribunal de Justiça consolidou o entendimento acerca da comissão de permanência (Tema n.º 52/STJ), sob o rito dos recursos especiais repetitivos, quando do julgamento dos REsp"s nº 1.063.343/RS e 1.058.114/RS, Rel. p/acórdão o Min. JOÃO OTÁVIO DE NORONHA, DJe de 16/11/2010, assim ementados:
+"DIREITO COMERCIAL E BANCÁRIO. CONTRATOS BANCÁRIOS SUJEITOS AO CÓDIGO DE DEFESA DO CONSUMIDOR. PRINCÍPIO DA BOA-FÉ OBJETIVA. COMISSÃO DE PERMANÊNCIA. VALIDADE DA CLÁUSULA. VERBAS INTEGRANTES. DECOTE DOS EXCESSOS. PRINCÍPIO DA CONSERVAÇÃO DOS NEGÓCIOS JURÍDICOS. ARTIGOS 139 E 140 DO CÓDIGO CIVIL ALEMÃO. ARTIGO 170 DO CÓDIGO CIVIL BRASILEIRO.
+1. O princípio da boa-fé objetiva se aplica a todos os partícipes da relação obrigacional, inclusive daquela originada de relação de consumo. No que diz respeito ao devedor, a expectativa é a de que cumpra, no vencimento, a sua prestação.
+2. Nos contratos bancários sujeitos ao Código de Defesa do Consumidor, é válida a cláusula que institui comissão de permanência para viger após o vencimento da dívida.
+3. A importância cobrada a título de comissão de permanência não poderá ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato, ou seja, a) juros remuneratórios à taxa média de mercado, não podendo ultrapassar o percentual contratado para o período de normalidade da operação; b) juros moratórios até o limite de 12% ao ano; e c) multa contratual limitada a 2% do valor da prestação, nos termos do art. 52, § 1º, do CDC.
+4. Constatada abusividade dos encargos pactuados na cláusula de comissão de permanência, deverá o juiz decotá-los, preservando, tanto quanto possível, a vontade das partes manifestada na celebração do contrato, em homenagem ao princípio da conservação dos negócios jurídicos consagrado nos artigos 139 e 140 do Código Civil alemão e reproduzido no artigo 170 do Código Civil brasileiro.
+5. A decretação de nulidade de cláusula contratual é medida excepcional, somente adotada se impossível o seu aproveitamento.
+6. Recurso especial conhecido e parcialmente provido."
+Portanto, nos termos do recurso repetitivo, a comissão de permanência abrange três encargos: os juros remuneratórios, à taxa média de mercado, nunca superior àquela contratada para o empréstimo, os juros moratórios e a multa contratual (AgRg no REsp nº 986.508/RS, Rel. Min. Ari Pargendler, DJe de 5/8/2008).
+Na esteira desse entendimento foi editada a Súmula nº 472 deste c. Superior Tribunal de Justiça, a cujo teor: "A cobrança de comissão de permanência - cujo valor não pode ultrapassar a soma dos encargos remuneratórios e moratórios previstos no contrato - exclui a exigibilidade dos juros remuneratórios, moratórios, e da multa contratual".
+Na espécie, o tribunal a quo permitiu a estipulação da comissão de permanência conforme a Súmula 472 do STJ (fl. 251), portanto em conformidade com a orientação pacificada neste Superior Tribunal de Justiça.
+Ante o exposto, CONHEÇO do agravo para CONHECER do recurso especial e NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte Recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos no § 2.º do referido dispositivo legal, bem como a eventual concessão da gratuidade de justiça.
+Publique-se. Intimem-se.
