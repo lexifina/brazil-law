@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por SAO PAULO PREVIDENCIA - SPPREV, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+ADMINISTRATIVO. Ação anulatória de ato administrativo. Concessão de benefício de pensão por morte. Decadência do direito da Administração rever o ato, segundo o disposto no art. 10 da Lei Estadual nº 10.177/98. Prazo para anulação de ato por parte do ente público, tanto administrativamente, como pela via judicial, contado de sua produção. Inexistência de ofensa ao poder de autotutela e de violação à Sumula 473 do STF. Observância aos princípios da segurança jurídica e da proteção à boa-fé. Honorários advocatícios. Fixados no juízo a quo em R$500,00, a serem rateados entre os vencedores. Majoração, em favor da patrona apelante, acolhida.
+Ação julgada improcedente. Sentença parcialmente reformada. Recurso da autora desprovido e recurso dos corréus provido.
+Foram rejeitados os embargos declaratórios opostos.
+No recurso especial, o recorrente aponta violação dos arts. 205 e 2028, do CC.
+Considera que a superação do prazo decenal previsto na Lei Estadual nº 10.177/1998 não tem o condão de obstar a via judicial para a anulação de atos administrativos ilegais. Dessa forma, o acórdão combatido encontra-se em desacordo com as regras e prazos previstos nos arts. 177 do CC/1916, e 205 e 2028, do CC/2002.
+No mais, afirma que
+(..) não havendo previsão na Lei Federal nº 8.213/1991 de pensão por morte a ser deferida a filhas solteiras, filhos universitários ou mesmo beneficiários instituídos, deduz-se, por força do disposto no artigo 5º, da Lei Federal nº 9.717/1998, que desde o advento deste Diploma não mais subsistem os preceitos da Lei Complementar Estadual nº 180/1978 que contemplavam tais possibilidades na seara paulista. (fl. 471)
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com fundamento de que a decisão do Tribunal de Origem encontra-se em consonância com a legislação que bem regulamenta o tema, além da incidência das Súmulas 280/STF e 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+Quanto ao mérito, o Tribunal de Origem negou provimento à apelação sob fundamento de que o ato administrativo que se deseja anular é de 06/08/2002, produzido na vigência da lei que regula o processo administrativo estadual, sendo que a presente ação foi proposta após o decurso do prazo decenal, restando caraterizada a decadência da pretensão autoral.
+Quando a alegada violação aos arts. 205 e 2028, do CC, cumpre destacar manifestação contida no AREsp 1.086.996/SP que, em situação análoga, decidiu nos seguintes termos:
+Quanto a suposta violação aos arts. 177 do Código Civil de 1916, 205 e 2.028 do Código Civil de 2002, verifica-se que o entendimento desta Corte orienta-se pela incidência "da regra geral de direito intertemporal na qual determina o afastamento das disciplinas do Código Civil quando houver lei específica sobre a matéria, no caso a Lei federal n. 9.784/99 e Lei estadual n. 10.177/98" (STJ, AREsp 725.196/SP, Rei. Ministro HUMBERTO MARTINS, DJe de 29/06/2015).
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SENTENÇA COLETIVA. EXECUÇÃO INDIVIDUAL. DOCUMENTOS [NOME]. PRAZO PARA ENTREGA. DILAÇÃO POR SESSENTA DIAS. SUSPENSÃO DO PROCESSO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. SUSPENSÃO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. SÚMULA 150/STF. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+4. Como cediço, a lei especial prevalece sobre a lei geral (lex specialis derrogat lex generalis). Por via de conseqüência, não se aplica à espécie a regra contida| no art. 199, I, do Código Civil de 2002 (segundo a qual "Não corre igualmente a prescrição: (..) pendendo condição suspensiva), haja vista se tratar de uma norma genérica que não tem o condão de afastar as regras específicas do CPC, introduzidas no ordenamento jurídico pela Lei 11.382, de 7/12/06.
+5. A ação cautelar de protesto proposta após o escoamento do prazo prescricional não interfere em sua contagem" (REsp 1.251.447/PR, Rel. Min. ELIANA CALMON, Segunda Turma, DJe 24/10/13).
+6. Agravo regimental não provido.
+ (STJ, AgRg no REsp 1.263.731/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 27/08/2014).
+ ..
+Com efeito, verifica-se que a questão demanda a análise da lei local, providência vedada em sede de recurso especial. Desse modo, aplicável, por analogia, o enunciado da Súmula nº 280, do STF, segundo o qual por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial.
+Nesses termos:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TAXA DE COOPERAÇÃO E DEFESA DA ORIZICULTURA-CDO. CONTROVÉRSIA RELATIVA À CAPACIDADE TRIBUTÁRIA ATIVA QUE FOI DIRIMIDA PELA CORTE ESTADUAL COM BASE NA INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE DE REVISÃO PELO STJ. SÚMULA 280/STF. AGRAVO REGIMENTAL DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+1. O tema relativo à legitimidade do Estado do Rio Grande do Sul para exigir a Taxa de Cooperação e Defesa de Orizicultura-CDO, instituída em favor do Instituto Rio Grandense do Arroz-IRGA, foi decidido pelo Tribunal de origem com base nas disposições contidas em legislação local (Lei 533/1948 e Lei 13.697/2011, ambas do Estado do Rio Grande do Sul). Contudo, o exame de direito local é medida vedada na via Especial, a teor da Súmula 280 do STF.
+2. Agravo Regimental do ESTADO DO RIO GRANDE DO SUL a que se nega provimento.
+(AgRg no AREsp 559942 / RS, 2014/0182195-6, Rel. Ministro Napoleão Nunes Maia Filho, T1- PRIMEIRA TURMA, julgado em 19/09/2017, DJe28/09/2017)
+ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SUMULA 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Verificar a violação apontada ao art. 1º da Lei Complementar Federal 51/1985 demanda a análise de lei local (Lei Complementar Estadual 1.062/2008), o que não é adequado em Recurso Especial (Súmula 280 do STF).
+2. Fica prejudicada a análise da divergência jurisprudencial, uma vez que a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. Precedentes do STJ. 3. Recurso Especial não conhecido.
+(REsp 1672416 / SP, 2017/0104622-0, Rel. Ministro Herman Benjamin, julgado em 05/09/2017, DJe 13/09/2017)
+Por outro lado, a verificação de validade de lei local, em face de lei federal denota natureza constitucional da controvérsia. Tal apreciação, na instância excepcional, não compete ao STJ, mas ao STF, por meio de Recurso Extraordinário (art. 102, III, d, da CF/1988).
+Neste sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PENSÃO POR MORTE. BENEFICIÁRIOS PREVISTOS NA LEI ESTADUAL 180/1978. POSSÍVEL AFRONTA À LEI 9.717/1998. CONTROVÉRSIA SOBRE A VALIDADE DA LEI LOCAL EM FACE DE LEI FEDERAL. DISCUSSÃO DE CARÁTER CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO ESPECIAL.
+1. Hipótese em que o Tribunal local consignou: "o que veda a Lei 9.717 é a concessão de benefícios distintos dos concedidos pelo RGPS; o benefício da pensão por morte está previsto no regime geral. Os arts. 152 e 153 da Lei 180/78 apenas identificam os beneficiários da pensão por morte, por isso não há incompatibilidade entre a lei federal e a estadual" (fl. 194, e-STJ).
+2. A insurgente aduz que a estipulação de beneficiários de pensão por morte previstos na lei estadual viola o disposto no art. 5º da Lei 9.717/1998. No entanto, a verificação de validade de lei local em face de lei federal denota natureza constitucional da controvérsia. Tal apreciação, na instância excepcional, não compete ao STJ, mas ao STF, por meio de Recurso Extraordinário (art. 102, III, alínea "d", da CF/1988).
+3. Recurso Especial não conhecido.
+(REsp 1656484/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 02/05/2017)
+Ademais, mesmo que assim não fosse, rever as conclusões do acórdão a quo, importaria necessário o revolvimento da matéria fático-probatória, inviável na via especial, ante o óbice decorrente do enunciado da Súmula n. 7/STJ.
+Por fim, cito as seguintes decisões monocráticas na mesma situação dos autos: AREsp 978.650/SP, Relatora Ministra Regina Helena Costa, publicado em 14/09/2017; REsp 1.695.117/SP, Relatora Ministra Regina Helena Costa, publicado em 02/10/2017; AREsp 1.086.996/SP, Relatora Ministra Assusete Magalhães, publicado em 18/05/2017; AREsp 921.098/SP, Relator Ministro Humberto Martins, publicado em 14/06/2016 e AREsp 858.939/SP, Relator Ministro Mauro Campbell Marques, publicado em 15/03/2016.
+Não tendo sido revista a questão acerca da decadência administrativa, restam prejudicadas as demais questões.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
