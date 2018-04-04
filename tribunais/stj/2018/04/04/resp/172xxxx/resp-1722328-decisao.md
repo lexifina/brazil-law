@@ -1,0 +1,65 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. DECISÃO DE PRONÚNCIA. PLEITO DE IMPRONÚNCIA OU DESCLASSIFICAÇÃO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCABIMENTO. SÚMULA Nº 7/STJ. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+Recurso em sentido estrito. Homicídio qualificado tentado. Materialidade e indícios suficientes de autoria comprovados. lnimputabilidade. Embriaguez. Caso fortuito ou força maior ainda não comprovados. Desclassificação. Desistência voluntária. Impossibilidade. Conflito probatório afeto aos jurados. In dubio pro societate. Exclusão de qualificadora. Impossibilidade na espécie. Recurso não provido
+1. Compete ao Tribunal do Júri conhecer e decidir sobre a inimputabilidade do réu em razão da alegada embriaguez, ainda não comprovada de forma irretorquível.
+2. Mantém-se a pronúncia do réu quando comprovados os requisitos do art. 413 do CPP, sendo reservada aos jurados a prova conflituosa sobre a desistência voluntária ou se o crime é caracterizado como de homicídio doloso.
+3. A exclusão de qualquer qualificadora em sede de pronúncia, nos crimes de competência do júri, deve ser feita somente naquelas hipóteses em que ficar comprovada de forma notória, sem sombra de dúvidas, seu manifesto descabimento.
+4. Recurso não provido.
+Sustenta o recorrente violação do artigo 414 do Código de Processo Penal ao argumento, em suma, de que deve ser impronunciado o acusado por ausência de prova suficiente de autoria e materialidade e que não existe regra, princípio ou dispositivo legal em vigência que respalde a possibilidade de se considerar algo como o malfadado "in dubio pro societate".
+Apresentadas as contrarrazões e admitido o recurso especial, opina o Ministério Público Federal pelo não conhecimento do recurso.
+É o relatório.
+Consta do acórdão recorrido o seguinte:
+Narra a denúncia de fls. 3/4:
+É dos autos do Inquérito Policial que, no dia 15 de abril de 2017, no período da madrugada, na Avenida Dom Pedro I, n. 331, Setor 5, Mini Box do Faustão, próximo ao posto Texaco, cidade e Comarca de Jaru/RO [NOME] [NOME] DE CASTRO com desígnio homicida, tentou matar [NOME] por motivo fútil, utilizando-se de uma faca.
+Segundo o apurado, na data dos fatos, [NOME], foi até o estabelecimento comercial da vítima, objetivando comprar uma cerveja.
+Em razão de não ter o valor completo para a bebida, [NOME] entregou-lhe o item pedido, porém pediu que [NOME] se retirasse dali.
+Com isso, [NOME] sentiu-se incomodado, de modo que considerou que fosse causa bastante para atentar contra a vida da vítima.
+Percebe-se portanto, que se trata de motivo fútil, pois a atitude de [NOME], não justifica a reação do denunciado.
+Por fim, vale destacar que [NOME] desferiu 5 (cinco) facadas na vitima e só não atingiu o seu objetivo de morte, porque [NOME] se defendeu e foi acudido por clientes que se encontravam no estabelecimento.  ..  Incontroversas a materialidade e autoria delitiva, pois o recorrente confessou ter sido o autor dos golpes de faca desferidos contra a vítima.
+DA INIMPUTABILIDADE POR EMBRIAGUEZ
+A defesa busca a absolvição sumária alegando que o recorrente não possuía inteiro discernimento de seus atos, eis que estava embriagado.
+O pleito, todavia, não procede, porquanto o §1º do art. 28 do CP dispõe que é "isento de pena o agente que, por embriaguez completa, proveniente de caso fortuito ou força maior, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento." Entrementes, a defesa não logrou provar, neste momento, que a embriaguez do recorrente era completa, proveniente de caso fortuito ou força maior, e muito menos que, em razão dessas condições reunidas, o recorrente era inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.
+Portando, não estando a tese provada a contento, descabe falar-se em absolvição sumária, devendo a questão ser submetida ao juiz natural para a causa.
+DO PLEITO DESCLASSIFICATÓRIO E DESISTÊNCIA VOLUNTÁRIA
+Subsidiariamente, o recorrente pretende a desclassificação do crime para lesão corporal grave, seja porque não teria agido com animus necandi, seja porque teria, voluntariamente, desistido de dar continuidade aos autos executórios, devendo ser responsabilizado apenas pelos atos já praticados (lesão corporal).
+O recorrente, entretanto, não tem melhor sorte.
+Sabe-se que a fase da pronúncia é o momento de mera admissibilidade da acusação, não havendo o cotejo analítico das provas. Pronuncia- se o réu apenas com a prova da materialidade do crime e os indícios suficientes da autoria (art. 413 do CPP).
+Na espécie, tais pressupostos estão presentes, eis que incontroversas tanto a materialidade quanto a autoria delitiva, eis que admite ter desferido várias facadas na vítima, embora sem ter o animus necandi.
+A vítima [NOME] disse em juízo, resumidamente, que o recorrente chegou em seu bar e não tinha todo o dinheiro para comprar a cerveja.
+Mesmo assim deu uma cerveja para ele, mas ele queria mais. Com a recusa, o recorrente passou a dizer que "era o cara" e que já havia matado algumas pessoas, momento em que ele puxou a faca e passou a golpeá-la. Que não morreu porque lutou contra o recorrente e foi ajudado por um funcionário do estabelecimento, que segurou o braço do infrator. Que o recorrente a espremeu contra o balcão enquanto a golpeava. Que ficou com receio de que as pessoas cometessem um linchamento, razão pela qual pediu que soltassem o recorrente. Quando a polícia chegou ele estava voltando ao local já na posse de outra faca.
+testemunha [NOME] disse que passava pelo local e presenciou a vítima e seu funcionário em luta contra o recorrente, sendo que a vítima foi atingida com golpes de faca. Que ajudou a segurar o infrator e tomar a faca dele. Que o recorrente foi até a casa de [NOME] e voltou na posse de outra faca.
+[NOME] disse em juízo que estava no bar quando o recorrente chegou dizendo que queria uma cerveja, mas a vítima disse que ela não era bem vinda, razão pela qual começaram uma discussão que culminou com o recorrente golpeando [NOME] com uma faca. O recorrente foi contido e depois o soltaram. A polícia foi ao local dos fatos e, em diligência, encontrou o infrator voltando para o bar com outra faca.
+Em seu interrogatório [NOME] disse já saiu bêbado de casa.
+Chegou ao bar da vítima e tomou mais uma latinha de cerveja. Que ia tomar outra, mas faltaram R$ 0,20, e pediu para pagar no dia seguinte, mas [NOME] teria dito que ele não era bem vindo e que era para se retirar do local. Que discutiu e entrou em luta corporal, sendo contido por um cara que lhe tomou e quebrou a faca. Que foi até a casa do "cacau" e na volta topou com a GOE. Que não lembra de ter esfaqueado a vítima, mas lembra de ter entrado em luta corporal, de ser dominado e de terem tomado sua faca.
+Como se vê, o pleito desclassificatório não despontou manifestamente comprovado, sendo impossível a antecipação do julgamento nesta fase meramente admissional da acusação.
+Desse modo, superados os pressupostos do art. 413 do CPP, cabe ao juiz natural da causa (o Tribunal do Júri - art. 5º, XXXVIII, e alíneas, da CF), dirimir se o crime é ou não um crime de homicídio doloso ou se o recorrente desistiu voluntariamente de prosseguir com os atos de execução, somente se admitindo este juízo definitivo de culpa antecipado quando as provas despontarem de forma inequívoca, o que não é o caso em exame.
+Assim, o acolhimento da pretensão recursal, com a impronúncia do réu ou mesmo a desclassificação para o delito de lesões corporais somente seria possível a partir da incursão no arcabouço fático e probatório dos autos.
+Todavia, verifica-se não possuir esta senda eleita espaço para a análise das matérias suscitadas pelo recorrente, cuja missão pacificadora restara exaurida pelas instâncias anteriores.
+Com efeito, é assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático probatório a fim de analisar se, ao final da primeira fase do procedimento escalonado do juri, há provas ou não para pronunciar, impronunciar, desclassificar ou absolver sumariamente o acusado, sendo vedado o reexame de provas em sede de recurso especial, a teor do enunciado nº 7 da súmula desta Corte, verbis:
+"A pretensão de simples reexame de prova não enseja Recurso Especial."
+Confiram-se, nesse sentido, os seguintes precedentes de ambas as Turmas com competência em matéria penal no âmbito desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. DOLO EVENTUAL. COMPETÊNCIA DO TRIBUNAL DO JÚRI PARA A VALORAÇÃO DO ELEMENTO SUBJETIVO DO TIPO. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DO ACERVO PROBATÓRIO. SÚMULA 7/STJ.
+1. A pronúncia encerra mero juízo de admissibilidade da acusação, exigindo o ordenamento jurídico apenas o exame da ocorrência do crime e dos indícios de sua autoria, de modo que eventuais dúvidas nessa fase processual resolvem-se a favor da sociedade. Precedentes.
+2. O Tribunal de origem, com base no acervo probatório dos autos, entendeu haver indícios de que o réu teria agido com dolo eventual.
+Desse modo, para se concluir de forma diversa do entendimento do Tribunal de origem, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1201022/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. PROVA DA MATERIALIDADE E INDÍCIOS DA AUTORIA. ANÁLISE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal a quo consignou que há provas suficientes para a pronúncia do acusado. Assim, alterar as conclusões do acórdão recorrido, a fim de concluir pela absolvição do acusado ou desclassificação da conduta, como requer a parte recorrente, demandaria o reexame do conjunto fático-probatório colhido nos autos, o que encontra óbice na Súmula n. 7 desta Corte.
+2. Ademais, a jurisprudência desta Corte Superior de Justiça é no sentido de que a absolvição ou a desclassificação da conduta delituosa de competência do Tribunal do Júri somente pode ocorrer na fase de pronúncia quando não estiverem presentes indícios da intenção de matar, sob pena de usurpação de sua competência, juiz natural para julgar os crimes dolosos contra a vida. Dessa forma, havendo na r. decisão de pronúncia elemento indiciário da existência de intenção de matar, não se revela despropositada a submissão ao Conselho de Sentença, da imputação da conduta prevista nos artigo 121, § 2º, incisos II e IV, do CP.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1165445/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/02/2018, DJe 19/02/2018)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE PRONÚNCIA. MERO JUÍZO DE ADMISSIBILIDADE. PLEITO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento da alegada violação de dispositivo infraconstitucional aduzida pelo recorrente demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor do enunciado sumular n. 7 do Superior Tribunal de Justiça.
+2. Agravo regimental não provido.
+(AgRg no AREsp 1120144/TO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. AUSÊNCIA DE ANIMUS NECANDI. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. SENTENÇA DE PRONÚNCIA. MERO JUÍZO DE ADMISSIBILIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O acolhimento da tese recursal, no sentido da ausência de dolo específico, implicaria o necessário reexame do contexto fático probatório, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+2. É a pronúncia reconhecimento de justa causa para a fase do júri, com a presença de prova da materialidade de crime doloso contra a vida e indícios de autoria, não representando juízo de procedência da culpa.
+3. Agravo regimental improvido.
+(AgRg no AREsp 765.996/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/06/2016, DJe 17/06/2016)
+Ante o exposto, com fundamento no artigo 932, III, do Código de Processo Civil em vigor (Lei nº 13.105/2015) c/c artigo 3º do Código de Processo Penal, e no artigo 34, XVIII, "a", do RISTJ, não conheço do recurso especial.
+Publique-se.
+Intime-se.
