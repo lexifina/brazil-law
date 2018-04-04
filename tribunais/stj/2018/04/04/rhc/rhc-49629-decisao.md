@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Pará (HC n. 2014.3.003803-9).
+Infere-se dos autos que o recorrente foi preso em flagrante em 22/06/2012 e restou denunciado pela prática do delito tipificado no art. 121, § 2º, incisos II e IV, do Código Penal (homicídio qualificado). Referida custódia foi convertida em prisão preventiva e posteriormente o réu foi pronunciado nos termos da exordial acusatória, sendo mantida a sua segregação provisória.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão assim ementado:
+HABEAS CORPUS. ART. 121, § 2o, INCS. II E IV, DO CPB. PRISÃO EM FLAGRANTE. FALTA DE CONVERSÃO EM PREVENTIVA. DECISÃO DE PRONÚNCIA. DECRETO DE PRISÃO PREVENTIVA. NULIDADE OU ANULABILIDADE. DIREITO DE RECORRER EM LIBERDADE. SUPOSTA VIOLAÇÃO DO ART. 310, DO CPPB. IMPROCEDÊNCIA. ORDEM DENEGADA. DECISÃO UNÂNIME
+1. In casu, observa-se que embora o Juiz Plantonista não tenha em sua decisão convertido a Prisão em Flagrante em Preventiva, entendo que a mesma encontra-se suprida pela Decisão Interlocutória, da lavra do Juízo de Direito da 1a Vara de Inquéritos Policiais, a qual tratou, claramente, de dois pressupostos elencados no art. 312, do CPPB, capazes de autorizar a prisão preventiva, quais sejam: a garantia da ordem pública e para assegurar a aplicação da lei penal; dos requisitos ensejadores da medida cautelar constritiva de liberdade, o fumus comissi delicti e o periculum libertatis, fazendo referência específica ao art. 310, do CPPB, daí não se poder asseverar que a referida decisão deixou de tratar da custódia preventiva do paciente, como bem quer fazer entender a defesa. Assim, não enseja constrangimento ilegal a decisão que implicitamente converteu a prisão em flagrante em constrição preventiva, mencionando e fundamentando todos os requisitos necessários para sua decretação, não havendo falar-se em ofensa à previsão contida no artigo 310 do Código de Processo Penal.
+2. Quanto a nulidade ou anulabilidade da decisão de Pronúncia, de igual forma não vislumbro assistir razão à impetração, já que o Juízo sentenciante ao pronunciar o réu, o manteve no cárcere, se reportando à sua decisão que indeferiu o pedido de revogação da prisão preventiva, por acreditar presentes os requisitos ensejadores da custódia cautelar, previstos no art. 312, do CPPB, ou seja, a garantia da ordem púbica e para aplicação da lei penal (fl. 65).
+No presente feito, destaca que a decisão de pronúncia não apresentou qualquer fundamentação para a manutenção da prisão preventiva do recorrente, destacando a ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal.
+Requer, em liminar e no mérito, a expedição de alvará de soltura em favor do recorrente, permitindo-lhe responder ao processo em liberdade.
+O pleito liminar foi indeferido às fls. 104/105, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 113/118) e às fls. 128/152 foram recebidas as informações solicitadas.
+É o relatório.
+Decido.
+O presente feito encontra-se prejudicado.
+Isso porque, de acordo com as informações prestadas pelo Juízo ordinário à fl. 132 e conforme acórdão obtido no endereço eletrônico da Corte de origem, que ora faço juntar, em 3.2.2015 foi revogada a prisão preventiva do recorrente no autos da Ação Penal n. 0010950-48.2012.814.0401, a que se refere o presente recurso, em cumprimento ao Habeas Corpus concedido pelo Tribunal de Justiça do Estado do Pará.
+Assim, não há como negar a perda superveniente do objeto deste recurso em habeas corpus.
+Pelo exposto, julgo prejudicado o presente recurso em habeas corpus, ante a perda superveniente do objeto, com fundamento no art. 34, XI, do RISTJ.
+Determino sejam juntadas aos autos as referidas informações.
+Publique-se.
+Intimem-se.
