@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS ANTONIO DE OLIVEIRA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2012175-65.2018.8.26.0000).
+Infere-se da petição inicial que foi deferido ao paciente o regime prisional aberto, mediante comparecimento trimestral perante o Juízo da residência do sentenciado ou na Central de Apoio ao Egresso.
+O paciente informa ter comparecido por duas vezes na Coordenadoria de Reintegração Social e Cidadania - Departamento de Atenção ao Egresso. Não obstante, teria sido expedido mandado de intimação para que comparecesse ao Centro de Atendimento ao Egresso e Família. Todavia, o mandado foi juntado aos autos sem cumprimento, ocasião em que o Juízo de piso suspendeu cautelarmente o benefício concedido ao paciente, determinando a regressão de regime prisional e expedindo o mandado de prisão.
+Inconformada, a defesa formulou pedido de reconsideração, tendo o Juízo solicitado comprovação do endereço de domicílio do paciente. No entanto, foi acostado aos autos comprovante da residência dos pais do paciente, razão pela qual teria sido mantido o decreto prisional em desfavor do sentenciado.
+Insurgiu-se, então, a defesa, interpondo agravo em execução. No entanto, o Tribunal de origem não conheceu do recurso.
+Ainda irresignada, a defesa impetrou prévio habeas corpus. Todavia, a Corte local denegou a ordem por meio de decisão monocrática.
+No presente writ, sustenta a defesa que "não há justo motivo para a segregação da liberdade do paciente, tendo em vista que ele já vinha cumprindo regularmente determinação da r. decisão que lhe concedeu o benefício, posto que estava comparecendo ao órgão de assistência ao egresso regularmente" (e-STJ fl. 3).
+Assere que o paciente não incidiu em nenhuma das hipóteses de regressão de regime previstas no art. 118, §§1º e 2º, e que, outrossim, não teria sido ouvido previamente (e-STJ fls. 6/7).
+Afirma não ter sido encontrado o paciente para ser intimado em razão de estar à procura de emprego lícito (e-STJ fl. 9).
+Requer, liminarmente, o recolhimento do mandado prisional até o julgamento do mérito do presente writ. No mérito postula o restabelecimento do regime aberto para o cumprimento da pena (e-STJ fl. 10).
+É, em síntese, o relatório.
+Ab initio, cumpre registrar que, ao que se extrai da peça inaugural, o presente habeas corpus foi impetrado ante decisão monocrática de desembargador relator que extinguiu o feito sem análise do mérito.
+Nessa toada, considerando-se que a irresignação do paciente nem sequer foi apreciada pelo órgão colegiado do Tribunal de Justiça, fica obstada a análise da impetração por esta Corte, sob pena de indevida supressão de instância.
+O art. 105, inciso I, alínea "c", da Constituição da República dispõe que compete a este Tribunal Superior processar e julgar habeas corpus, quando o coator for tribunal sujeito à sua jurisdição. Contudo, não constam nos autos elementos que demonstrem a existência de acórdão da Corte estadual apreciando o tema objeto deste writ.
+Com efeito, não se submete à competência do Superior Tribunal de Justiça o exame de habeas corpus impetrado contra decisão singular de desembargador.
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. QUESTÕES NÃO LEVADAS AO CONHECIMENTO DO COLEGIADO DO TRIBUNAL A QUO. INCOMPETÊNCIA DESTA CORTE. SUPRESSÃO DE INSTÂNCIA. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os temas levantados na impetração não foram objeto de debate e decisão por parte de órgão colegiado do Tribunal de origem, sobressai a incompetência desta Corte para o exame das matérias, sob pena de indevida supressão de instância.
+2. No caso, não se observa flagrante ilegalidade a justificar a concessão de habeas corpus de ofício. É que o Plenário do Supremo Tribunal Federal, ao negar o Habeas Corpus 126.292 (Relator Ministro Teori Zavascki, Tribunal Pleno, julgado em 17/2/2016), passou a adotar o entendimento de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal". Em outras palavras, voltou-se a admitir o início de cumprimento da pena imposta pelo simples esgotamento das instâncias ordinárias, ou seja, antes do trânsito em julgado da condenação, nos termos da Súmula 267/STJ.
+3. Agravo regimental a que se nega provimento. (AgRg no HC 366.604/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/09/2016, DJe 21/09/2016, grifei.)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DE DESEMBARGADORA. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1 - Insurgindo-se a defesa do paciente em face de decisão monocrática de Desembargadora que não analisou a pretensão pleiteada no prévio writ, contra a qual seria cabível agravo regimental, mostra-se incabível o conhecimento do pedido, pois não configurada nenhuma das hipóteses elencadas no art. 105 da CF, a ensejar a inauguração da competência desta Corte.
+ ..
+4 - Agravo regimental improvido. (AgInt no HC 242.379/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/08/2016, DJe 15/08/2016, grifei.)
+Ainda que assim não fosse, o impetrante não juntou aos autos cópia das decisões impugnadas.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC-54.626/SP, Rel. Min. Rogério Schietti Cruz, Sexta Turma, DJe 2/3/2015, grifei.)
+Assim, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
