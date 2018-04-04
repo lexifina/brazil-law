@@ -1,0 +1,19 @@
+EMENTA
+HABEAS CORPUS. FUNDAMENTOS DA PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SUPERVENIENTE PROLAÇÃO DE SENTENÇA CONDENATÓRIA. NEGATIVA DO APELO EM LIBERDADE. NOVO TÍTULO. PERDA DO OBJETO.
+Writ prejudicado.
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de [NOME], em que o advogado [NOME] aponta constrangimento ilegal decorrente do julgamento do HC n. 0802324-06.2017.8.02.0000 pelo Tribunal de Justiça de Alagoas.
+Com a alegação de falta dos requisitos da prisão preventiva e de excesso de prazo da prisão decretada no Processo n. 0000242-94.2011.8.02.0016, da Vara do Único Ofício de Junqueiro, requer o impetrante a concessão liminar da ordem liberatória.
+Estes autos foram a mim distribuídos por prevenção do HC n. 224.311, também apresentado aqui em favor do ora paciente. A Sexta Turma julgou assim esse writ:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PRESENÇA DE ELEMENTOS CONCRETOS AUTORIZADORES. EXCESSO DE PRAZO DESCARACTERIZADO.
+1. A gravidade concreta do delito praticado, evidenciada pelo modo de agir do agente - que atraiu a vítima ao local do crime com um convite para encontro reservado, diante do suposto relacionamento afetivo existente, e ceifou-lhe a vida mediante diversos golpes de peixeira -, constitui circunstância que autoriza a segregação cautelar. Ademais, as condições pessoais do paciente - primariedade, bons antecedentes, trabalho definido e endereço determinado - não impedem a prisão preventiva quando presentes seus requisitos. Precedentes deste Tribunal e do Supremo Tribunal Federal.
+2. Não há falar em excesso de prazo se o feito não está paralisado, mas, ao contrário, segue curso adequado à complexidade da causa. E, no caso, a mora processual não é em decorrência exclusiva de diligências suscitadas pela atuação da acusação, nem sequer existe inércia ou desídia do aparelho judiciário em desacordo com o princípio da razoável duração do processo.
+3. Ordem denegada.
+O pedido liminar foi indeferido.
+O Juízo de Direito da comarca de Junqueiro/AL prestou informações (fls. 55/62). Nem o Tribunal estadual nem o Juízo para qual fora desaforado o processo do ora paciente prestaram-nas (fl. 65).
+Contudo, a partir da consulta feita ao portal do Tribunal de Justiça na internet, foi possível constatar que, no Processo n. 0000242-94.2011.8.02.0016, da 5ª Vara da comarca de Arapiraca/AL, o Tribunal do Júri decidiu que o ora paciente praticou o crime de homicídio qualificado, tendo sido julgado procedente o pedido formulado na denúncia para condenar o réu às sanções do Art. 121, § 2º, IV, do Código Penal Brasileiro. Na oportunidade, foi-lhe negado o direito de apelar em liberdade.
+Considerando que a sentença superveniente inaugura nova realidade processual, resta impedido o exame da questão invocada nesta Corte, sob pena de incorrer em indevida supressão de instância, sendo prescindível a utilização de fundamentos diversos para a aplicação da prejudicialidade ao objeto do habeas corpus (AgRg no RHC n. 73.759/BA, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/11/2016).
+Afinal, na ocasião da prolação de sentença condenatória, em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente,  ..  a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria. (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017).
+De mais a mais, o anterior título judicial não revelava nenhuma ilegalidade aparente, ante as referências às diversas infringências às condições impostas ao paciente quando estava sendo monitorado eletronicamente.
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.
+Publique-se.
