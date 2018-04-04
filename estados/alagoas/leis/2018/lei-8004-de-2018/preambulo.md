@@ -1,0 +1,7 @@
+LEI Nº 8.004, DE 29 DE MARÇO DE 2018.
+
+DECLARA QUE AS COLÔNIAS DE PESCADORES SÃO PATRIMÔNIO CULTURAL E IMATERIAL DO ESTADO DE ALAGOAS.
+
+O GOVERNADOR DO ESTADO DE ALAGOAS
+
+Faço saber que o Poder Legislativo Estadual decreta e eu sanciono a seguinte Lei:
