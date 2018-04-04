@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 857):
+AÇÃO ORDINÁRIA - Professora Municipal - Jornada de trabalho admitida pela Lei nº 11.738/08, com dedicação de 2/3 em interação com o aluno, e 1/3 em atividades exclasse - Mantida a obrigação de fazer concernente à adequação da jornada de trabalho - Pleito de indenização ou recebimento de horas extraordinárias que não se sustentam no sistema jurídico vigente - Legislação Municipal que regulamentou a matéria (Lei Complementar Municipal nº 52/13 e Decreto Municipal nº 3.074/13) - Precedentes deste e. Tribunal de Justiça do Estado de São Paulo - Sentença de parcial procedência da ação mantida - Recursos não providos.
+No recurso especial, o recorrente aponta dissídio jurisprudencial, sob a alegação de que o acórdão recorrido, ao estabelecer que a conduta da municipalidade não viola a Lei nº 11.738/2008, não ensejando o direito ao recebimento de horas extras ou indenização de descumprimento do limite de 2/3 da jornada intraclasse, diverge de decisão proferida por outro órgão colegiado do próprio Tribunal de Origem, qual seja, a 12ª Câmara de Direito Público do Tribunal de Justiça de São Paulo (TJSP).
+Ademais, destaca que o Tribunal Superior do Trabalho (TST), em diversas passagens, consignou que a inobservância do mandamento legal previsto no art. 2º, §4º da Lei nº 11738/2008 enseja a condenação ao pagamento das diferenças das horas efetivamente laboradas com alunos além do limite legal, como jornada extraordinária, acrescidas do adicional e reflexos.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 917-927).
+O recurso especial foi inadmitido com fundamento no art. 541, parágrafo único, do CPC e art. 255, §§1º e 2º, do RI/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+Impõe-se observar que esta colenda Corte exige a configuração de dissídio com a jurisprudência de "outro Tribunal".
+No caso concreto, o precedente trazido à colação pelo recorrente é do mesmo Tribunal prolator do v. acórdão hostilizado. Incidente, pois, quanto a esta parcela recursal, a Súmula nº 13 desta Eg. Corte, que se encontra clara nos seguintes termos, litteris:
+"A divergência entre julgados do mesmo tribunal não enseja recurso especial".
+Nesse sentido, é a jurisprudência desta Corte superior, consoante a ementa dos seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. APROVAÇÃO EM CADASTRO DE RESERVA. SURGIMENTO DE VAGAS. NOMEAÇÃO DE CANDIDATOS. VIOLAÇÃO A NORMATIVO FEDERAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. AUSÊNCIA DE INDICAÇÃO DO PRECEITO FEDERAL. SÚMULA 284/STF. DIVERGÊNCIA INTERNA. SÚMULA 13/STJ.
+1. A mera indicação genérica de ofensa do acórdão da origem a diploma legal federal, sem especificação dos respectivos preceitos e normas, não cumpre o ônus da dialeticidade nem se presta a autorizar o processamento do apelo extremo. Incidência da Súmula 284/STF.
+2. Não se conhece do recurso especial que se fundamenta na existência de divergência jurisprudencial, mas se limita, para a demonstração da similitude fático-jurídica, à mera transcrição de ementas e de trechos de votos, assim como tampouco indica qual preceito legal fora interpretado de modo dissentâneo. Hipótese, por extensão, da Súmula 284/STF.
+3. A divergência entre julgados do mesmo Tribunal não enseja Recurso Especial. Inteligência da Súmula 13/STJ.
+4. Recurso especial não conhecido.
+(REsp 1717318/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 01/03/2018, DJe 07/03/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. DANO MORAL. VIOLAÇÃO DO ART. 267 DO CPC/1973, DOS ARTS. 186 E 927 DO CC/2002 E DO ART. 374, I, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALÍNEA "C". DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃOS RECORRIDO E PARADIGMA PROFERIDOS PELO MESMO TRIBUNAL. INCIDÊNCIA DO ENUNCIADO 13 DO STJ.
+(..)
+6. A divergência que enseja a interposição do Recurso Especial ao STJ é aquela verificada entre julgados de tribunais diversos. Caso contrário, esbarra-se no óbice da Súmula 13 desta Corte, in verbis: "a divergência entre julgados do mesmo Tribunal não enseja Recurso Especial".
+7. No caso concreto, o acórdão tido por conflitante foi exarado pelo mesmo Tribunal, a saber, o Tribunal de Justiça do Estado de São Paulo.
+8. Recurso Especial não conhecido.
+(REsp 1705451/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/12/2017, DJe 19/12/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. PARTILHA SOBRE IMÓVEL DE PROPRIEDADE DO PAI DE EX-CONVIVENTE. FALTA DE PREQUESTIONAMENTO. SÚMULAS 252 E 356 DO STF. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL APONTADO. SÚMULA 13/STJ. AGRAVO IMPROVIDO.
+1. Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n. 282 e 356 do STF.
+2. O dissídio jurisprudencial não pode ser conhecido, porque não foi realizado o necessário cotejo analítico entre os julgados trazidos a confronto. A mera transcrição de ementas ou de passagens dos arestos indicados como paradigma não atende aos requisitos dos arts. 541, caput, do CPC e 255, §§ 1º e 2º, do RISTJ.
+3. A divergência jurisprudencial não pode ser conhecida quando os paradigmas apresentados forem oriundos do mesmo Tribunal que proferiu o acórdão recorrido, uma vez que aplicável o disposto na Súmula n. 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1082508/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE,TERCEIRA TURMA, julgado em 22/08/2017, DJe 04/09/2017)
+Com efeito, também não se conhece do REsp pela alínea "c" do art. 105, inciso III, da Constituição Federal quando os julgados paradigmas são oriundos do TST ou Tribunais Regionais do Trabalho (TRT), eis que a divergência jurisprudencial há de ser demonstrada por julgados deste Tribunal ou a si vinculados, não se enquadrando, na espécie, arestos proferidos pela Justiça Obreira (REsp 824.667/PR, Rel. Ministro José Delgado, Primeira Turma, julgado em 17/08/2006, DJe 11/09/2006, p. 230).
+Confira-se, ainda:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS PARADIGMAS. JUSTIÇA ESPECIALIZADA. INADMISSIBILIDADE. MASSA FALIDA. HABILITAÇÃO. CRÉDITO TRABALHISTA. MULTAS E HORAS EXTRAS. CARÁTER INDENIZATÓRIO. CRÉDITO PRIORITÁRIO. INCLUSÃO. POSSIBILIDADE. NÃO PROVIMENTO.
+1. "Acórdão de Tribunal Regional do Trabalho não serve para a configuração do dissídio ensejador do recurso especial, eis que prolatado por Tribunal não sujeito à jurisdição do Superior Tribunal de Justiça." (AgRg no Ag 240.492/MG, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, TERCEIRA TURMA, julgado em 06/06/2000, DJ 01/08/2000, p. 271)
+2. "As verbas indenizatórias, como por exemplo, multas e horas extras, possuem natureza salarial e, portanto, devem ser classificadas, no processo de falência, como crédito prioritário trabalhista, sob pena de violação do art. 449, § 1º, da Consolidação das Leis Trabalhistas." (REsp 1051590/GO, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 08/09/2009, DJe 10/12/2009)
+3. Agravo regimental a que se nega provimento.
+( AgRg no REsp 1344635 / SP, Rel. Min. ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/11/2012, DJe 28/11/2012)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
