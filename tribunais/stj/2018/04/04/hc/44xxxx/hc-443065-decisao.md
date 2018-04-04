@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME], que se aponta constrangimento ilegal em razão do indeferimento do pedido liminar feito no HC n. 2030188-15.2018.8.26.000, em curso no Tribunal de Justiça de São Paulo, que manteve a segregação cautelar do paciente.
+Narram os autos que o paciente e outra acusada foram condenados às penas de 2 anos e 4 meses de reclusão, em regime semiaberto, e 11 dias-multa, como incursos no art. 155, § 4º, II e IV, do Código Penal. Negado o direito de recorrerem em liberdade, porque presentes os requisitos que fundamentaram a prisão preventiva (fls. 27/29 - Processo n. 0002411-85.2017.8.26.0530).
+A defesa, então, impetrou habeas corpus perante a Corte estadual que, por sua indeferiu o pedido liminar (fls. 22/25 - Habeas corpus n. 2033188-15.2018.8.26.0000).
+Daí a presente impetração, na qual se requer, inicialmente, a superação do óbice da Súmula 619/STF.
+Em breve síntese, pontua que o paciente está sendo obrigado a cumprir pena em regime semiaberto mesmo com a primariedade e bons antecedentes reconhecidos pelo juízo, sendo certo que a decisão que motivou o cumprimento inicial da reprimenda, e não concedeu a substituição da pena privativa de liberdade por restritivas de direito, baseou-se exclusivamente na gravidade abstrata do delito, o que é vedado por esta Soberana Corte (fl. 6).
+Da mesma forma, diz que a negativa da substituição embasou-se apenas na gravidade em abstrato do delito, fundamento que deve ser afastado, pois não se coaduna com o novo tratamento dado à matéria devendo a r. sentença ser reformada (fl. 18).
+Em sequência, se insurge a defesa quanto a negativa do paciente em recorrer em liberdade, sustenta que afirmações genéricas e abstratas de gravidade do delito e de inquietação social não são bastantes para justificar a custódia preventiva. Mais ainda quando o paciente guarda condições pessoais favoráveis, como primariedade e bons antecedentes (fl. 13).
+Requer, ao final, a concessão liminar da ordem para que o paciente aguarde em liberdade o trânsito em julgado de eventual condenação; bem como seja alterado o regime inicial de cumprimento da pena, para o aberto e, ato contínuo, requer a conversão da pena privativa de liberdade em restritiva de direitos.
+É o relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado na Súmula 691/STF, têm entendimento pacificado de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui se observa.
+In casu, o juízo singular ao manter a segregação cautelar do paciente não apresentou fundamentos concretos a justificá-la, pelo contrário, fez apenas referências genéricas de que estariam presentes os requisitos que fundamentaram a prisão preventiva, especialmente no que se refere a garantia da ordem pública (fl. 29).
+No mesmo sentido, o Tribunal de Justiça indeferiu a medida urgente, sustentando, em apertada síntese, a ausência de ilegalidade manisfesta na manutenção da segregação do paciente (fl. 24).
+Ocorre que, dado o mandamento legal de o juiz fundamentar a decretação ou manutenção da custódia na sentença condenatória (art. 387, § 1º, do CPP), o Juízo de primeiro grau deve demonstrar, nesta fase, com fundamento em dados concretos dos autos, a existência de, pelo menos um, dos fundamentos da prisão preventiva, previstos no art. 312 do Código de Processo Penal.
+Entendo, pois, estarem presentes os requisitos que justificam o deferimento da medida de urgência, por se revelar carente de fundamentação a decisão que manteve a custódia cautelar do paciente na sentença.
+De outra banda, no que se refere ao regime aberto para o início de cumprimento da pena, bem como a substituição da reprimenda por restritivas de direitos, tal matéria não foi enfrentada pelo Tribunal de Justiça, incorrendo, assim, em indevida supressão de instância.
+Ante o exposto, defiro a liminar, em menor extensão, para que o acusado possa aguardar em liberdade o julgamento final do presente writ, sem prejuízo da aplicação de medidas cautelares diversas da prisão, fundamentadamente, pelo magistrado singular, ou da superveniência do esgotamento das instâncias ordinárias.
+Com a anotação de que esta decisão não prejudica a análise do mérito do HC n. 2030188-15.2018.8.26.000 pelo órgão competente.
+Solicitem-se informações ao Tribunal de Justiça de São Paulo a respeito do eventual julgamento do writ.
+Após prestadas, ouça-se o Ministério Público Federal.
+Comunique-se, com urgência.
+Publique-se.
