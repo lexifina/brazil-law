@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração contra decisão monocrática que conheceu do agravo nos próprios autos para não conhecer do recurso especial.
+Sustenta a parte embargante omissão relativamente à análise da alegação de violação dos arts. 128 e 460 do Código de Processo Civil. No recurso especial, alega que o Tribunal a quo teria realizado julgamento extra petita ao considerar corretos os cálculos apresentados pela parte autora.
+É o relatório. Decido.
+Há omissão na decisão embargada, que passo a sanar com a fundamentação a seguir.
+Aponta a parte embargante omissão na decisão embargada relativamente à análise da alegação de violação dos arts. 128 e 460 do Código de Processo Civil. Sustenta a parte recorrente que o Tribunal a quo teria realizado julgamento extra petita ao considerar corretos os cálculos apresentados pela parte autora.
+A matéria relativa à confissão ficta não tem relação com os dispositivos indicados pela parte recorrente como violados.
+Ademais, a Corte a quo não analisou a matéria relativa à existência de confissão ficta, faltando-lhe o necessário prequestionamento da matéria. Incide ao ponto o enunciado n. 211 da Súmula do STJ, segundo o qual: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Também, a corte a quo assim decidiu a respeito dos valores que a parte ré sustenta terem sido fixados em julgamento extra petita (fl. 314):
+Os valores que redundaram na redução de vencimentos, bem como os reflexos do cálculo das vantagens acima citadas e que deveriam também incidir sobre o adicional de 100% decorrente da ampliação da jornada que não poderia ser suprimida estão devidamente descritos nas fls. 36/38, chegando aos RS 81.300,64, até maio de 2012.
+Não existem irregularidades nos cálculos, e mesmo que houvesse, caberia ao réu devedor apontar especificamente onde estariam as divergências e indicar o valor correto.
+Não houve indicação, especificamente, onde estaria a imprecisão ou incorreção nos cálculos feitos pela parte autora. A conduta da parte requerida torna a matéria fática relativa aos cálculos apresentados na inicial incontroversa (artigo 302 do Código de Processo Civil).
+Ou seja, o Município deveria ter detalhado as razões pelas quais considera inválidos os cálculos, como já ficou assente na doutrina.
+A análise do excerto do acórdão recorrido, em confronto com as razões do recurso especial, demonstram que a parte recorrente não impugnou os fundamentos sustentados no acórdão, os quais afirmam que o recorrente não apontou onde estaria a imprecisão ou irregularidades nos cálculos, bem como que o Município deveria ter detalhado as razões pelas quais considera inválidos os cálculos. Ao contrário, o Município alega a existência de reconhecimento de confissão ficta contra a Fazenda Pública, o que não se encontra no acórdão.
+Assim, havendo fundamento suficiente para manter o acórdão que não foi impugnado pela parte recorrente (a falta de fundamentos e detalhes das razões de irregularidade), incide, por analogia o enunciado n. 283 da Súmula do STF, segundo o qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, acolho os embargos de declaração, para sanar a omissão apontada nos termos da fundamentação, sem efeito infringente.
+Publique-se. Intime-se.
