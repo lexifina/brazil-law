@@ -1,0 +1,22 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 738):
+PROCESSUAL CIVIL. APELAÇÃO. PRESSUPOSTOS DE ADMISSIBILIDADE. ART. 514, II, DO CPC. AUSÊNCIA DE RAZOES RECURSAIS. NÃO CONHECIMENTO.
+1. Autora-Apelante que, após a interposição tempestiva do recurso, pretendeu o seu aditamento, promovendo, de logo, a substituição das razões recursais originalmente apresentadas, tendo a Juíza "a quo" "indeferido a pretensão e determinado a devolução das novas razões, mediante recibo. Na sequência, admitiu-se, como Apelação, apenas, a folha de rosto do recurso originário.
+2. A regularidade formal é requisito extrínseco de admissibilidade da Apelação, impondo-se, dentre outras exigências, que o recorrente decline, nas suas razões, os fundamentos de "fato e de direito pelos quais se insurge contra a decisão recorrida (art. 514, II, Código de Processo Civil).
+3. Na hipótese, contudo; em face de haver sido indeferido o aditamento das razões recursais, sobejou, nos autos apenas a folha de rosto da Apelação originalmente interposta pela Autora (fl. 575), desprovida de qualquer fundamento fático ou jurídico que pudesse embasar o pedido de reforma da sentença impugnada.
+4 . É evidente, portanto, em face da ausência das razões recursais, o não atendimento do requisito de admissibilidade a que alude o art. 514,II, do CPC, o que prejudica o trâmite regular da Apelação.
+5. Apelação não conhecida.
+No recurso especial o recorrente alega violação do artigo 514 do CPC/1973, ao argumento de que "Compulsando-se os autos, induvidosamente, verifica-se que a recorrente, tempestivamente, juntamente com a petição e as razões de mérito do recurso interposto cumpriu todas as formalidades intrínsecas e extrínsecas dentro do prazo legal, e somente após esse ato, sem contudo ter o causídico peticionado por escrito, apenas solicitou do serventuário que o atendeu a possibilidade de substituí-Ias, não aditá-las, tendo em vista que referidas peças estavam tia sua formatação cronológica desordenada, reparo esse , que se admitido, em absoluto estaria causando prejuízo à parte recorrida, já que não houve alteração dos fundamentos de mérito arrazoados, cujo exame poderia ser constado pelo Juízo preliminar de admissibilidade recursal" (fl. 748).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No que diz respeito ao art. 514 do CPC/1973, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que:
+"No caso em apreço, contudo, em face de haver sido indeferido o pedido de aditamento das razões recursais, sobejou nos autos, apenas, a "folha de rosto da Apelação originariamente interposta pela Autora (fI. 575) e que se acha desprovida de qualquer fundamento fático ou jurídico que possa servir de base para o pedido de reforma da decisão impugnada. Patenteia-se, portanto, diante da ausência de razões recursais, o não atendimento do requisito de admissibilidade previsto no art. 514,11, do CPC, o que prejudica o trâmite regular da Apelação".
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+O dissídio jurisprudencial não foi demonstrado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, §§ 1º e 2º do RISTJ, pois não realizado o devido cotejo analítico. Imprescindível a apresentação objetiva do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como suficiente, a simples transcrição de ementa ou voto.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
