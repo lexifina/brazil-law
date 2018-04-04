@@ -1,0 +1,15 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, que possui ementa com o seguinte cabeçalho (fl. 37, Vol. 1):
+    “APELAÇÃO CIVEL E REEXAME NECESSÁRIO – AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE DÉBITO – ICMS – ENERGIA ELÉTRICA – APLICAÇÃO DA ALÍQUOTA MÁXIMA – PRINCÍPIOS DA SELETIVIDADE E ESSENCIALIDADE – CONSTITUCIONALIDADE DECLARADA PELO ÓRGÃO ESPECIAL DESTE TRIBUNAL – VINCULAÇÃO DOS ÓRGÃOS FRACIONÁRIOS – CÁLCULO DO IMPOSTO ‘POR DENTRO’ - CONSTITUCIONALIDADE – PRECEDENTES DO STF – RECURSO 1 DESPROVIDO – RECURSO 2 PARCIALMENTE PROVIDO – SENTENÇA MANTIDA, NO MAIS, EM REEXAME NECESSÁRIO.”
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que o julgado ofendeu o artigo 155 da Carta Magna.
+    Instada a se manifestar, a Procuradoria-Geral da República ofereceu parecer pelo desprovimento do recurso.
+    É o relatório. Decido.
+    No que concerne à legitimidade da inclusão do ICMS em sua própria base de cálculo, o Juízo de origem não divergiu da jurisprudência desta CORTE, conforme se infere do seguinte julgado:
+    “Agravo regimental no recurso extraordinário com agravo. Ausência de prequestionamento. Súmulas nºs 282 e 356/STF. Tributário. ICMS. Cálculo por dentro. Taxa SELIC. Constitucionalidade. Multa moratória de 10% sobre o valor do débito. Caráter confiscatório. Inexistência. 1. A base de cálculo do ICMS, definida como o valor da operação de circulação de mercadorias, inclui o próprio montante do ICMS incidente. 2. Inexistência de violação do princípio da legalidade na incidência da Selic para a atualização de débito tributário, desde que exista lei legitimando o uso desse índice. 3. O acórdão recorrido encontra amparo na jurisprudência da Suprema Corte, segundo a qual não é confiscatória a multa moratória no importe de 10% (dez por cento). 4. Agravo regimental não provido.” (ARE 897.254-AgR, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 14/12/2015)
+    Em relação ao estabelecimento de alíquota de ICMS sobre energia elétrica em patamar superior ao das operações em geral, esta CORTE, no RE 714.139-RG (Rel. Min. MARCO AURÉLIO, Tema 745), reconheceu a repercussão geral da controvérsia acerca do “Alcance do art. 155, § 2º, III, da Constituição Federal, que prevê a aplicação do princípio da seletividade ao Imposto sobre Circulação de Mercadorias e Serviços – ICMS”.
+    Diante do exposto, quanto ao estabelecimento de alíquota de ICMS sobre energia elétrica em patamar superior ao das operações em geral, com fundamento no art. 1.036 e seguintes do Código de Processo Civil de 2015 e no art. 328, parágrafo único, do Regimento Interno do STF, determino a DEVOLUÇÃO dos autos ao Juízo de origem para que seja observada a decisão do Supremo no RE 714.139-RG; e, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO quanto às demais questões.
+    Publique-se.
+    Brasília, 4 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
