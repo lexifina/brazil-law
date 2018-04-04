@@ -1,0 +1,38 @@
+EMENTA
+RECURSO ESPECIAL. CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. IMÓVEL NÃO ENTREGUE NA DATA ACORDADA. INADIMPLÊNCIA DA CONSTRUTORA. DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM E [NOME]. PRESCRIÇÃO TRIENAL. SÚMULA 83/STJ. RECURSO ESPECIAL IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurge contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 392):
+Apelação Cível - Ação de rescisão contratual - Inadimplemento contratual caracterizado - Imóvel não entregue na data aprazada, mesmo com a inclusão do prazo de tolerância de 180 dias - Rescisão do contrato em razão da inadimplência da fornecedora - Aplicabilidade do CDC - Cabimento de devolução integral das parcelas pagas, de uma só vez - Mudança em seu padrão de vida ou o inadimplemento contratual do autor no momento da expedição do habite-se que não justificam o reconhecimento de culpa mútua pela rescisão do contrato - Autor que estava em dia com suas obrigações à época da propositura da presente ação visando a rescisão do contrato e que já não tinha interesse na manutenção do pacto quando da expedição do habite-se, ocorrida após o ajuizamento - Recurso do autor, nesta parte, provido.
+Danos morais - Inocorrência - Descumprimento contratual - Incidentes que se tornaram relativamente comuns - Mero constrangimento incapaz de configurar violação aos direitos da personalidade - Dano que não pode ser presumido - Prova - Autor que não se desincumbiu do ônus imposto pelo art. 333, I, do CPC - Multa moratória - Impossibilidade de fixação por equidade (Súm. 159 TJSP) - Sucumbência - Decaimento do autor de parte relevante dos pedidos - Sucumbência parcial e recíproca entre as partes corretamente reconhecida pela r. sentença - Recurso do autor, nesta parte, improvido.
+Apelação Cível - Corretagem e taxa [NOME] - Prescrição - Reconhecimento, de ofício, de prescrição trienal (art. 206, § 3º, IV, do CC) - Pagamento de valores realizado de forma parcelada entre 30.12.2010 e 30.08.2011 - Ação protocolizada em 08.07.2014 - Prescrição caracterizada, com exceção das duas últimas prestações referentes aos meses de julho e agosto de 2011 - Corretagem imobiliária - Impossibilidade de ressarcimento das prestações não atingidas pela prescrição - Comprador que foi informado do preço da comissão de corretagem - Valor diverso daquele destinado ao pagamento do imóvel compromissado à venda - Inocorrência de surpresa ou vício no tocante ao pagamento da comissão - Recurso da ré, nesta parte, provido.
+Retenção de valores - Majoração do percentual de retenção - Pedido prejudicado, em vista do reconhecimento da culpa da ré pela rescisão contratual e a determinação de devolução integral dos valores pagos - Devolução das quotas condominiais - descabimento - Expedição do habite-se que não coincidiu com o recebimento das chaves - Encargos condominais que constituem obrigações "propter rem" - Débitos exigíveis de quem seja titular da coisa, o que não era ainda o caso do autor (art. 1.334, § 2º, do CC) - Recurso da ré, nesta parte, improvido.
+Sucumbência - Manutenção da distribuição das verbas sucumbenciais determinada na r. Sentença.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 410-413).
+Em suas razões de recurso especial (e-STJ, fls. 433-457), o recorrente alega violação do art. 205 do Código Civil de 2002, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, que a rescisão contratual foi por culpa exclusiva das recorridas e que, portanto, o prazo prescricional para pleitear a devolução da comissão de corretagem e taxa [NOME] é de 10 (dez) anos, uma vez que a discussão não é sobre a ilegalidade de cobrança das referidas taxas, mas sim da devolução de tudo o que foi pago pelo consumidor à época da rescisão por culpa das construtoras recorridas.
+Foram apresentadas contrarrazões (e-STJ, fls. 460-468).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 469-472).
+Brevemente relatado, decido.
+Quanto à cobrança supostamente indevida a título de comissão de corretagem, a jurisprudência desta Corte Superior - sedimentada por ocasião do julgamento do REsp n. 1.551.956/SP, submetido ao procedimento dos recursos repetitivos - considera aplicável o prazo trienal, previsto pelo art. 206, § 3º, IV, do CC/2002, à prescrição da pretensão de restituição dos valores pagos a título de comissão de corretagem ou de Serviço de Assistência Técnico-Imobiliária ([NOME]).
+Confira-se a ementa do aludido julgado:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL E DO CONSUMIDOR. INCORPORAÇÃO IMOBILIÁRIA. VENDA DE UNIDADES AUTÔNOMAS EM ESTANDE DE VENDAS. CORRETAGEM. SERVIÇO DE ASSESSORIA TÉCNICO-IMOBILIÁRIA ([NOME]). CLÁUSULA DE TRANSFERÊNCIA DA OBRIGAÇÃO AO CONSUMIDOR. PRESCRIÇÃO TRIENAL DA PRETENSÃO. ENRIQUECIMENTO SEM CAUSA.
+1. TESE PARA OS FINS DO ART. 1.040 DO CPC/2015:
+1.1. Incidência da prescrição trienal sobre a pretensão de restituição dos valores pagos a título de comissão de corretagem ou de serviço de assistência técnico-imobiliária ([NOME]), ou atividade congênere (art. 206, § 3º, IV, CC).
+1.2. Aplicação do precedente da Segunda Seção no julgamento do Recurso Especial n. 1.360.969/RS, concluído na sessão de 10/08/2016, versando acerca de situação análoga.
+2. CASO CONCRETO:
+2.1. Reconhecimento do implemento da prescrição trienal, tendo sido a demanda proposta mais de três anos depois da celebração do contrato.
+2.2. Prejudicadas as demais alegações constantes do recurso especial.
+3. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.551.956/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 6/9/2016).
+No caso dos autos, o Tribunal de origem consignou o seguinte (e-STJ, fls. 395-400):
+De fato, do que se extrai dos autos é que o imóvel não foi entregue na data avençada, qual seja, março de 2013, já incluído no cômputo o prazo de tolerância de 180 dias.
+Neste aspecto, considerando-se a rescisão do contrato em razão da inadimplência da fornecedora, bem como a aplicabilidade do Código de Defesa do Consumidor, impõe-se a devolução integral das parcelas pagas, de uma só vez.
+(..)
+Com efeito, respeitado o entendimento do digno magistrado de primeiro grau, no tocante à questão relativa à restituição dos valores correspondentes a taxa de corretagem e taxa [NOME], impõe-se o reconhecimento, de ofício, da prescrição da pretensão do autor, porquanto transcorrido o lapso trienal.
+De se anotar que, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.551.956-SP de relatoria do Ministro Paulo de Tarso Sanseverino foi fixada a incidência do prazo trienal correspondente ao reembolso de despesas de corretagem, nos termos do artigo 206, § 3º, inciso IV do Código Civil, em vista da natureza de restituitória relativa a pagamento alegadamente indevido, restando assim ementado o acórdão:
+(..)
+Posto isso, tendo sido realizado o pagamento, de forma parcelada, entre 30 de dezembro de 2010 e 30 de agosto de 2011 (fls. 69/80), verifica-se a ocorrência da prescrição da pretensão do autor quanto aos valores pagos, exceto as duas últimas prestações referentes aos meses de julho e agosto de 2011, visto que a ação foi protocolizada em 08 de julho de 2014.
+Portanto, inviável o recurso especial se o acórdão recorrido se alinha ao posicionamento sedimentado na jurisprudência do STJ, conforme dispõe a Súmula n. 83 desta Corte Superior.
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, fixo os honorários recursais em favor do advogado da parte recorrida em R$ 500,00 (quinhentos reais), observada a gratuidade de justiça (e-STJ, fl. 298).
+Publique-se.
