@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 227):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. BENEFÍCIO PREVIDENCIÁRIO. VALORES RECEBIDOS EM RAZÃO DE ANTECIPAÇÃO DE TUTELA AO FINAL REVOGADA. BOA-FÉ. VERBA ALIMENTAR. REPOSIÇÃO AO ERÁRIO. DESNECESSIDADE. ORIENTAÇÃO DO STF.
+1. Em face do julgado no REsp 1.401,560/MT, relativo à obrigatoriedade da repetição das parcelas recebidas em razão da antecipação dos efeitos da tutela, posteriormente revogada, foi determinado o retorno dos autos a esta 1a Turma para o fim previsto no art. 543-C, § 7o, inciso II e § 8o, do CPC.
+2. O Acórdão recorrido está fundamentado em entendimento adotado pelo egrégio Supremo Tribunal Federal, conforme o voto proferido no Agravo em Recurso Extraordinário 734242, Relator Ministro Roberto Barroso, DJe - 175, pub. 08/09/2015, no sentido da desnecessidade de devolução de verbas previdenciárias recebidas em razão de decisão antecipatória da tutela revogada ao final.
+3. Os valores recebidos a título de benefício previdenciário ou assistencial destinam-se à subsistência do segurado ou assistido ou de seus dependentes razão pela qual não deve ser exigida a devolução de valores recebidos em razão de antecipação de tutela posteriormente revogada.
+4. Em juízo de retratação, resta mantido o acórdão que decidiu a questão com fundamento em orientação do Supremo Tribunal Federal.
+Nas razões do recurso especial, a parte agravante aponta violação dos art. 273, § 3º e 811, I e II do CPC, e sustenta, em síntese, a necessidade de devolução de valores recebidos pela autora, em razão de antecipação dos efeitos da tutela.
+É o relatório.
+O recurso não prospera.
+Inicialmente, a matéria pertinente ao art. 811, I e II do CPC/73 não foi apreciada pela instância judicante de origem, apesar da oposição de embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+No mais, com relação ao art. 273, § 3º, do CPC/73, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
