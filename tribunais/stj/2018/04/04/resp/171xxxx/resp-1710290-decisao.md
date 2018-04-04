@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM COM FUNDAMENTO DE ÍNDOLE CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. APLICAÇÃO DA SÚMULA 126/STJ. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pelo ESTADO DO AMAZONAS, fundado na alínea a do art. 105, III da CF/1988, no qual se insurge contra acórdão, assim ementado:
+APELAÇÃO CÍVEL EM AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. CONCESSÃO DE LIMINAR. FORNECIMENTO DE MEDICAMENTOS. DEVER DO ESTADO E DIREITO DO CIDADÃO. SENTENÇA MANTIDA. APELAÇÃO IMPROVIDA.
+I - O direito a percepção de medicamentos decorre de diversas garantias previstas na Constituição Federal de 1988 (artigos 5o., 6o., 23, inciso II, 194, parágrafo único, inciso I, 196 e 198);
+II - Revela-se possível, no entanto, ao Poder Judiciário determinar, ainda que em bases excepcionais, especialmente nas hipóteses de políticas públicas definidas pela própria Constituição, sejam essas implementadas pelos órgãos estatais inadimplentes, cuja omissão - por importar em descumprimento dos encargos políticos-jurídicos que sobre eles incidem em caráter mandatário - mostra-se apta a comprometer a eficácia e a integridade de direitos sociais impregnados de estatura constitucional. (STF - RE 603575 SC, Relator Ministro EROS GRAU, Julgamento 20/04/2010, Segunda Turma, Publicação 14/05/2010)
+III - A impossibilidade de antecipação de tutela contra a fazenda pública que esgote no todo ou em parte o objeto da lide se consubstancia na hipóteses de vedação do rol taxativo presente na Lei 9.494/97, sendo que, estas não se amoldam ao caso em questão, consistindo em manifesta exceção;
+IV - O entendimento pacífico desta Corte Superior é no sentido de ser possível ao juiz, de oficio ou a requerimento da parte, fixar multa diária cominatória (astreintes), ainda que seja contra a Fazenda Pública, em caso de descumprimento de obrigação de fazer. (STJ - EDcl no AgRg no Resp 1367081 RS 2013/0034820-1, Relator Ministro HUMBERTO MARTINS, Julgamento 21/05/2013, SEGUNDA TURMA, Publicação 28/05/2013);
+VII - Apelação improvida (fls. 306/307).
+2. Opostos Embargos de Declaração, foram rejeitados (fls. 334/339).
+3. Nas razões do Apelo Nobre, a parte recorrente sustenta violação dos arts. 535, II do CPC/1973 alegando que não foram analisados os seguintes tópicos: a) a violação ao direito fundamental à igualdade; b) a inexistência de expertise por parte do Judiciário; c) a inexistência de direito absoluto a todo e qualquer procedimento necessário a proteção, promoção e recuperação da saúde; e d) a desproporcionalidade dos meios coercitivos (fls. 353).
+4. Juízo positivo de admissibilidade (fls. 395/397).
+5. Parecer do MPF pelo desprovimento do Apelo Nobre às fls. 409/412.
+6. É o relatório. Decido.
+7. Observa-se da leitura do acórdão recorrido que a Corte Regional, ao se posicionar sobre o tema tratado nos autos, exarou, além da fundamentação infraconstitucional, tema de índole constitucional e não consta dos autos a interposição do competente Recurso Extraordinário, a fim de impugnar essa motivação, suficiente à manutenção do aresto. Incide, portanto, na hipótese, o enunciado da Súmula 126/STJ. A propósito:
+ADMINISTRATIVO. DIREITO URBANÍSTICO. LICENÇA PARA CONSTRUÇÃO. AGRAVO DE INSTRUMENTO. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DO ENUNCIADO N. 126 DA SÚMULA DO STJ.
+I - Na origem, trata-se de agravo de instrumento contra decisão que embargou construção de Condomínio.
+II - Ainda que o julgamento ocorra quando já em vigor o Código de Processo Civil de 2015, como a decisão sobre a qual foi interposto o recurso especial foi publicada sob a égide da legislação processual civil anterior, quanto ao cabimento, aos demais pressupostos de admissibilidade e ao processamento do recurso, aplicam-se as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do enunciado administrativo n. 2 do Superior Tribunal de Justiça.
+III - O acórdão recorrido abriga fundamentos de índole constitucional e infraconstitucional.
+IV - Ocorre, contudo, que a recorrente não cuidou de interpor o devido recurso extraordinário ao Supremo Tribunal Federal, de modo a incidir a jurisprudência sedimentada por meio do enunciado n. 126 da Súmula deste Tribunal, que assim dispõe: É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+V - O entendimento insculpido no referido enunciado traduz a hipótese de que, não interposto o extraordinário, torna-se inadmissível a apreciação do especial por haver transitada em julgado a matéria constitucional discutida e decidida no acórdão vergastado.
+VI - Agravo interno improvido (AgInt no REsp. 1.386.462/ES, Rel. Min. FRANCISCO FALCÃO, DJe 18.12.2017).
+8. Diante do exposto, nega-se provimento ao Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
