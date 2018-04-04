@@ -1,0 +1,29 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. RESSARCIMENTO AO ERÁRIO. INDISPONIBILIDADE DOS BENS. RAZOABILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fl. 505):
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. RESSARCIMENTO AO ERÁRIO. DANO DE PEQUENO VALOR. DESNECESSIDADE DE INDISPONIBILIDADE. OBRIGAÇÃO SOLIDÁRIA PASSIVA.
+1. Nas ações de improbidade administrativa, a medida cautelar de indisponibilidade de bens visa assegurar a reparação de eventual dano aos cofres públicos, no caso de futura condenação.
+2. Na espécie, tratando-se de uma ação contra 6 (seis) pessoas físicas e jurídicas, na qual se projeta um prejuízo total de R$ 43.781,68, ou de R$ 7.296,95 per capita, soa como um exagero decretar a indisponibilidade de bens nesses níveis.
+3. Não se registra nenhuma cautelaridade da medida, na perspectiva de um resultado útil para o processo de fundo. Cada demandado, se condenado, poderá responder pelo "prejuízo sem grandes problemas. O patrimônio público não corre risco no processamento da ação sem a constrição prematura de bens.
+4. O mecanismo civil da solidariedade passiva, pelo qual o credor pode exigir a prestação debitória de qualquer dos devedores (art. 275 - CC), podendo o devedor que satisfaz a divida por inteiro exigir de cada um dos co-devedores a sua quota (art. 283 - CC), está hoje arrefecido pelo Código de Processo Civil, que prevê o chamamento ao processo "de todos os devedores solidários, quando o credor exigir de um ou alguns deles, parcial ou totalmente, a dívida comum" (art. 77, III), para que o juiz declare, na mesma sentença, a responsabilidade dos obrigados (art. 78 - idem).
+5. Provimento do agravo de instrumento.
+O recorrente alega violação dos artigos 7º e 16 da Lei 8.429/1992, sob os seguintes argumentos: (a) o periculum in mora está implícito no comando do art. 7º da Lei nº 8.429/1992. Nesse sentido, a decretação de indisponibilidade dos bens não está condicionada à comprovação de que os réus estejam dilapidando-os ou na iminência de fazê-lo; (b) a legislação autoriza medida ainda mais drástica a bem de garantir futura condenação em ressarcimento ao erário, qual seja, o sequestro dos bens daqueles que tenham se locupletado indevidamente ou causado prejuízos ao erário, incluindo o bloqueio de bens, contas bancárias e aplicações financeiras.
+Sem contrarrazões.548/551.
+Parecer do MPF às fls. 564/567.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O Superior Tribunal de Justiça, ao interpretar o art. 7º da Lei 8.429/1992, tem decidido que, por ser medida de caráter assecuratório, a decretação de indisponibilidade de bens, incluído o bloqueio de ativos financeiros, deve incidir sobre quantos bens se façam necessários ao integral ressarcimento do dano, levando-se em conta, ainda, o potencial valor de multa civil, excluindo-se os bens impenhoráveis.
+A propósito:
+RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. RESPONSABILIDADE SOLIDÁRIA. INDISPONIBILIDADE DE BENS. LIMITE DA CONSTRIÇÃO. QUANTUM SUFICIENTE AO INTEGRAL RESSARCIMENTO DO DANO. RECURSO ESPECIAL DA UNIÃO
+1. O Superior Tribunal de Justiça, ao interpretar o art. 7º da Lei 8.429/1992, tem decidido que, por ser medida de caráter assecuratório, a decretação de indisponibilidade de bens, incluído o bloqueio de ativos financeiros, deve incidir sobre quantos bens se façam necessários ao integral ressarcimento do dano, levando-se em conta, ainda, o potencial valor de multa civil, excluindo-se os bens impenhoráveis.
+(..)
+8. Recurso Especial da União provido. Recurso Especial do particular não provido.(REsp 1610169/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/05/2017, DJe 12/05/2017).
+No caso dos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 501):
+"A medida de indisponibilidade de bens não pode, por um critério de razoabilidade, ser excessiva, devendo limitar-se aos bens necessários ao ressarcimento integral do dano. No caso dos atos de improbidade que causem prejuízo ao erário, praticados em concurso de agentes, a responsabilidade é solidária.
+Na realidade, trata-se de ação de improbidade proposta inicialmente contra 6 (seis) pessoas físicas e jurídicas, na qual se projeta um prejuízo total de R$ 43.781,68, ou de R$ 7.296,95 per capita, situação em que a indisponibilidade soa como um exagero, uma superfetação.
+A medida, em si mesma invasiva da incolumidade patrimonial dos demandados, não deve ser prodigalizada a ponto de ser decretada nos casos onde o bem jurídico protegido não a reclame em caráter de urgência. Cada demandado, se vier a ser condenado, poderá responder pelo prejuízo sem grandes problemas. O patrimônio público não corre risco no processamento da ação sem a constrição prematura de bens.
+O suposto dano causado ao erário ou o enriquecimento ilícito supostamente obtido, em conjunto pelos demandados, teria sido de R$ 43.781,68, não sendo razoável bloquear o patrimônio de cada qual no valor integral do dano causado".
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
