@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Presidência do Tribunal de Justiça do Estado de Alagoas que não admitiu recurso especial com base nos seguintes fundamentos: (I) o acórdão recorrido se encontra em harmonia com a jurisprudência do STJ, nos termos da Súmula 83/STJ; e (II) a análise das teses suscitadas no apelo especial demandariam novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+O Ministério Público Federal, em parecer, opinou pelo não conhecimento do agravo (fls. 258/260).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Ainda, na espécie, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, fundamento autônomo capaz de manter a decisão agravada, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos.
+Verifica-se, assim, que a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, limitando-se a sustentar que a matéria foi prequestionada e a reiterar os termos do recurso especial. Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
