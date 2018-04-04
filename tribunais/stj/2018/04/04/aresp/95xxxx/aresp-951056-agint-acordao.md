@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. TEMA 339/STF.
+Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por ANDRE ANTONIO VIANNA contra decisão monocrática de minha lavra, objetivando modificar decisão da lavra do Min. Ricardo Villas Bôas Cueva que negou provimento ao recurso especial do ora agravante (fls. 388/391, e-STJ).
+Neguei seguimento ao recurso extraordinário, nos termos do art. 1.030, inciso I, alínea "a", do Código de Processo Civil, conforme a seguinte ementa (fl. 443, e-STJ):
+"RECURSO EXTRAORDINÁRIO. OFENSA AOS ARTS. 5º, CAPUT E INCISOS LIV E LV, E 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. NEGATIVA DA PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. OFENSA AO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+Rejeitados os embargos de declaração (fls. 459/463, e-STJ).
+Reitera o agravante a alegação de negativa de prestação de tutela jurisdicional, em contrariedade do art. 93, IX, da Constituição da República, ao defender, em síntese, a ausência de fundamentação dos julgados. Pugna pelo provimento do presente recurso.
+Instada a manifestar-se, a parte agravada manteve-se silente (fl. 475, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. TEMA 339/STF.
+Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Não merece reparos a decisão agravada.
+Reitera o agravante a alegação de negativa de prestação de tutela jurisdicional, em contrariedade do art. 93, IX, da Constituição da República, ao defender, em síntese, a ausência de fundamentação dos julgados.
+Conforme assentado na decisão agravada, quanto à alegada ofensa ao art. 93, inciso IX, da Constituição Federal por violação do dever de fundamentação no acórdão recorrido, consignou-se que a questão foi decidida pelo Supremo Tribunal Federal, no regime da repercussão geral, por ocasião do julgamento do AI-RG-QO n. 791.292/PE, relatado pelo Ministro Gilmar Mendes nos termos da seguinte ementa, in verbis:
+"Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral." (STF, AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes, DJe de 13/8/2010 - Tema n. 339 da sistemática da repercussão geral.)
+Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes.
+Assim, para efeito de análise de conformidade da decisão com o decidido sob o regime de repercussão geral, deve ser verificado se o aresto atacado possui motivação suficiente à solução da controvérsia ou se, à míngua da satisfação desse requisito, caracterizou-se a afronta ao princípio constitucional inscrito no inciso IX do art. 93 da Constituição Federal.
+No mesmo sentido:
+" ..  2. O Plenário do Supremo Tribunal Federal, ao julgar o AI 791.292-QO-RG, Rel. Min. Gilmar Mendes/Tema 339, reconheceu a repercussão geral do tema negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão .  .. " (ARE 1.044.216 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/6/2017, PROCESSO ELETRÔNICO DJe-177 DIVULG 10/8/2017 PUBLIC 14/8/2017.)
+Importante consignar, também, que, nesta fase processual, a análise da questão constitucional ora em comento está adstrita à aferição da existência ou não de fundamentação suficiente para lastrear o acórdão recorrido. Por conseguinte, a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+No caso dos autos, a decisão recorrida apresenta fundamentação suficiente para justificar as razões de não provimento do recurso especial. É o que se depreende do seguinte excerto do voto condutor (fls. 389/391, e-STJ):
+"Quanto à apontada violação do artigo 535, do CPC/1973, não assiste razão ao recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte.
+(..)
+Constata-se que as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, conforme se pode inferir do seguinte trecho do acórdão:
+(..)
+Cinge-se a controvérsia quanto à existência ou não de erro no exame laboratorial capaz de causar o alegado sofrimento suportado pelo autor e sua família ao tomar conhecimento de diagnóstico equivocado de pancreatite, além de ter atrasada a cirurgia de caráter emergencial, colocando em risco a vida do autor e, também, por ter desnecessariamente ingerido remédios para doença inexistente.
+Da análise do laudo pericial, o expert, ao responder os quesitos formulados pelo autor, considerando a data da primeira cirurgia, 16.04.2011, e a data da segunda intervenção cirúrgica, 30.08.2011, esta decorrente de novo diagnóstico datado de em 18.07.2011, que constatou aneurisma da artéria poplítea direita, declarou não ser possível afirmar com absoluta certeza se o alegado erro no resultado do exame atrasou a cirurgia a que deveria se submeter o autor. Atestou o Sr. [NOME], ainda, não ter restado comprovado o diagnóstico de pancreatite aguda, afirmando que em razão da doença renal da qual estava acometido o autor (aneurisma na artéria poplítea), poderia haver complicações para o membro, não o óbito. Assim, não há que se falar que o expert não respondeu ao objeto da perícia, conforme alegado pelo autor, tendo o laudo pericial sido conclusivo no sentido de não ter restado comprovado o diagnóstico de pancreatite aguda, bem como de não restado comprovada qualquer falha técnica do laboratório réu.
+Com efeito, a não ser pela narrativa do autor na peça exordial e, conforme entendeu magistrada sentenciante com base em perícia realizada por profissional qualificado e de confiança do juízo, inexiste nos autos a comprovação do diagnóstico de referida moléstia grave, não sendo possível afirmar que os altos níveis constatados nos exames laboratoriais, baixados após o uso de determinados medicamentos, expressavam resultados incompatíveis com o paciente. Assim, afastada a hipótese de erro de diagnóstico e não tendo restado demonstrada a prática de conduta do laboratório réu a ensejar indenização por dano moral, a improcedência do pedido autoral deve ser mantida" (e-STJ fls. 266/267-grifou-se).
+Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito".
+Logo, não subsiste a alegação de ofensa ao art. 93 da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
