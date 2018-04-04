@@ -1,0 +1,17 @@
+DECISÃO
+PENA – CAUSA DE DIMINUIÇÃO – ARTIGO 33, § 4º, DA LEI Nº 11.343/2006.
+HABEAS CORPUS – LIMINAR – INDEFERIDA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Quinta Vara da Subseção Judiciária de Guarulhos/SP, no processo nº 0010285-86.2012.403.6119, condenou a paciente a 3 anos, 10 meses e 15 dias de reclusão, em regime aberto, e ao pagamento de 389 dias-multa, em virtude do cometimento da infração prevista no artigo 33, cabeça (tráfico de drogas), combinado com o § 4º (causa de diminuição de sanção) e com o artigo 40, inciso I (causa de aumento alusiva à transnacionalidade), da Lei nº 11.343/2006. Na dosimetria, afirmou favoráveis as circunstâncias judiciais, estabelecendo a pena-base em 5 anos, mínimo previsto para o tipo. Deixou de levar em conta a atenuante referente à confissão, em virtude de a sanção ter sido fixada no mínimo legal. Observou as causas de diminuição e de aumento, respectivamente, nos patamares de 1/3 e 1/6. Converteu a pena privativa de liberdade por duas restritivas de direito, consubstanciadas em prestação de serviços à comunidade e limitação de fim de semana. Reconheceu o direito de recorrer em liberdade, determinando a expedição de alvará de soltura.
+    A Quinta Turma do Tribunal de Justiça, ao prover a apelação interposta pelo Ministério Público, fixou a sanção em 5 anos, 3 meses e 5 dias de reclusão, em regime inicial semiaberto, e 525 dias-multa. Exasperou-a em 1 ano e 6 meses, aludindo à quantidade droga apreendida – 3.937 gramas. Reduziu-a em 1/6, presente a atenuante da confissão, e fez incidir a causa de diminuição na fração mínima – 1/6 –, mantendo a de aumento nesse mesmo índice. Afastou a substituição da pena privativa de liberdade por limitadora de direitos, afirmando não preenchidos os requisitos descritos no artigo 44, inciso I, do Código Penal. Recurso especial formalizado pela defesa foi inadmitido na origem.
+    Chegou-se ao Superior Tribunal de Justiça com o agravo em recurso especial nº 977.369/SP, desprovido pelo Relator. Protocolado agravo, a Sexta Turma negou-lhe provimento.
+    A Defensoria Pública da União sustenta terem sido considerados elementos inerentes ao tipo penal para reduzir a observância da causa de diminuição versada no § 4º do artigo 33 da Lei de Drogas ao patamar de 1/6. Articula com a ofensa ao artigo 93, inciso IX, da Constituição Federal. Destaca atendidos os pressupostos previstos no mencionado dispositivo legal, a ensejar a incidência no grau máximo.
+    Requer, em âmbito liminar, a suspensão da execução da pena até o julgamento definitivo da impetração. No mérito, postula a aplicação da causa de diminuição do § 4º do artigo 33 da Lei nº 11.343/2006 no patamar máximo, estabelecendo-se o regime aberto e convertendo-se a pena privativa de liberdade em restritivas de direitos.
+    A fase é de apreciação da medida acauteladora.
+    2. A teor do artigo 33, § 4º, da Lei nº 11.343/2006, mostra-se cabível a redução da pena, no patamar de 1/6 a 2/3, quando o agente é primário, com bons antecedentes e não se dedica a atividades delituosas nem participa de organização criminosa. O preceito não revela os dados a serem considerados para fins de definição do percentual a ser aplicado. De regra, a sanção é estabelecida sob o ângulo do justo ou injusto, descabendo generalizar o instituto da ilegalidade.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem
+Brasília, 4 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
