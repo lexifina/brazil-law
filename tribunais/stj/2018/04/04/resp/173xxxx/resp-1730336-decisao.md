@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Amazonas, assim ementado:
+PENAL E PROCESSO PENAL. APELAÇÃO. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE DESCLASSIFICAÇÃO PARA O CRIME DO ART. 28 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. AUTORIA E MATERIALIDADE DO CRIME DE TRÁFICO COMPROVADAS. CONDENAÇÃO QUE SE IMPÕE. RECURSO CONHECIDO E IMPROVIDO. I. Do cotejo das provas, chega-se a uma conclusão desfavorável ao Apelante, contrária à defendida em suas razões recursais, de que seria apenas usuário. II. A autoria e a materialidade restaram amplamente evidenciadas para o delito de tráfico, sendo que a negativa do Recorrente não coaduna com as demais provas dos autos. III. Considera-se, no caso, todas as circunstâncias elencadas no art. § 2º, do art. 28 da Lei de Drogas. IV. Assim, uma vez que todos os elementos indicam que a droga destinava-se à traficância, a condenação se impõe. V. Recurso conhecido e improvido. (e-STJ fl. 161)
+Aponta o recorrente a violação do art. 28 da Lei n. 11.343/06, alegando, em síntese, que há nos autos elementos de prova suficientes para a condenação do recorrido pela prática do crime de tráfico de drogas, sobretudo se considerada a pequena quantidade do entorpecente apreendido.
+Admitido o apelo raro na origem, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 229/233.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Amazonas negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente pela prática do crime do art. 33, caput, da Lei n. 11.343/2006.
+Acerca da desclassificação da conduta delitiva, o Tribunal de origem assim se manifestou:
+02.03. Da análise detida dos autos, constato que a autoria e a materialidade do delito tipificado no art. 33 da Lei n. 11.343/2006 restaram amplamente evidenciadas, tanto por meio do auto de exibição e apreensão (fls. 36), que aponta a apreensão de 26 (vinte e seis) trouxinhas envolvidas em plástico transparente, contendo substância supostamente entorpecente, quanto do Laudo Toxicológico Definitivo (fls. 38), a demonstrar que a substância ilícita apreendida consiste em 10,68 gramas de COCAÍNA e, ainda, pelo depoimento das testemunhas, pelos quais se constata ter sido recebida denúncia anônima de que um indivíduo com as características do Recorrente estaria comercializando droga.
+02.04. Some-se a todas essas provas, o fato de que o Apelante já tem condenação anterior por tráfico de drogas, devendo tal circunstância ser considerada como um dos elementos para determinar tratar-se de tráfico, nos termos do art. 28, § 2º, da Lei n. 11.343/2006.
+02.05. O argumento do Apelante, de que é mero usuário, é duvidoso, não tendo suporte em outros elementos dos autos.
+02.06. Não se olvida que, pelo princípio da não autoincriminação, é prerrogativa do réu não produzir provas contra si, contudo, a sua negativa não é corroborada por outras provas.
+02.07. Destaco que a quantidade de trouxinhas (26) encontradas e a forma que estavam embaladas, indicam que eram destinadas à traficância.
+02.08. Do cotejo das provas, portanto, chega-se a uma conclusão desfavorável ao Apelante, contrária à defendida em suas razões recursais, de que seria apenas usuário.
+02.09. Neste seguimento, em que pese a negativa de autoria pelo Apelante, não merece reparos a r. Sentença, pois as evidências que exsurgem dos autos não deixam dúvidas de que praticou conduta descrita no art. 33 da Lei n. 11.343/2006. (e-STJ fl. 163 - grifo nosso)
+Anota-se que o pleito de desclassificação da conduta delitiva não pode ser analisado na via do recurso especial ante a necessidade de revolvimento do conjunto fático-probatório dos autos. Incidência do enunciado n. 7 da Súmula desta Corte. A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE DESCLASSIFICAÇÃO PARA USO DE ENTORPECENTES. INVIABILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ.
+1. A alteração do julgado, no sentido de desclassificar a conduta do acusado do art. 33 para o art. 28 da Lei n. 11.343/2006, implicaria o aprofundado reexame do material fático-probatório dos autos, providência inviável nesta sede recursal, a teor do que dispõe o enunciado da Súmula 7/STJ.
+2. Agravo regimental desprovido. (AgRg no AREsp 854.530/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 08/05/2017).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO DE DROGAS. IMPOSSIBILIDADE. SÚMULA N 7/STJ. VIOLAÇÃO DE DIREITOS AUTORAIS. ADEQUAÇÃO SOCIAL. CONDUTA MATERIAL E FORMALMENTE TÍPICA. SÚMULA N. 502/STJ.
+I - As instâncias ordinárias, a partir da análise do conjunto de fatos e provas carreados aos autos, concluíram pela prática do delito de tráfico de drogas. A alteração de tal entendimento depende de nova incursão no acervo fático-probatório, providência incabível em sede de recurso especial, a teor do enunciado sumular n. 7 desta Corte.
+ ..
+Agravo regimental desprovido. (AgRg no AREsp 1043241/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 10/05/2017)
+Ante o exposto, com fundamento no art. 932, IV, do CPC, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
