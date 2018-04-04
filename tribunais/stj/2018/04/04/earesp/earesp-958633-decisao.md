@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AGRO COMERCIAL E INDUSTRIAL BELA VISTA LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 1594):
+PROCESSUAL CIVIL. AUTORA DA AÇÃO: CONAB. INDEFERIMENTO DO PEDIDO. HONORÁRIOS. VALOR FIXO NA SENTENÇA (R$ 5.000,00). APELAÇÃO. ELEVAÇÃO PARA 0,5% SOBRE O VALOR DA CAUSA (ESTE, DE R$ 27.999.000,00). SIMPLICIDADE DA CAUSA E DO TRABALHO DOS ADVOGADOS. VOTO VENCIDO (HONORÁRIOS DE 0,1% SOBRE O VALOR DA CAUSA). PREVALÊNCIA. (..) Já estava de bom tamanho o valor dos honorários fixados na sentença. Por isso, faz-se prevalecer o voto vencido. Provimento aos embargos infringentes.(unanimidade)
+Nas razões do recurso especial, a recorrente alega dissídio jurisprudencial e violação ao art. 20, §3º e §4º do Código de Processo Civil de 1973. Sustenta, em síntese, ser ínfimo o valor fixado a título de honorários de advogado, pois corresponde a 0,5% sobre o valor da causa. Pugna pela elevação.
+É o relatório. Decido.
+No mérito, o col. Tribunal de origem asseverou, verbis:
+A discricionariedade insita no § 4º do art. 20 do CPC está, obviamente, adstrita aos limites da lei, a qual consignou elementos objetivos para a aplicação da equidade in concreto.
+Assim, da mesma forma em que a magistrada deliberou aplicar um percentual sobre o valor da causa no processo apenso, penso que o mesmo critério (não necessariamente o mesmo índice) deve ser aplicado no presente, caso concreto.
+Considerando-se o elevado valor da presente causa e todos os critérios objetivos prescritos no § 3º do art. 20 do CPC, reputo como obsequioso ao principio da razoabilidade o arbitramento em honorários mediante a alíquota de 0,5% (meio por cento) sobre o valor da causa, devidamente corrigido.
+Ante o exposto, NEGO provimento à apelação da CONAB e DOU PARCIAL provimento ao recurso de apelação da AGRO COMERCIAL E INDUSTRIAL BELA VISTA LTDA. (fl. 1560).
+A interpretação que deve ser dada ao § 4º do art. 20 do CPC é no sentido de que os limites percentuais previstos no § 3º do mesmo dispositivo legal não lhe devem ser estendidos. De fato, a remissão contida no § 4º, relativa aos parâmetros a serem considerados na "apreciação eqüitativa do juiz" para a fixação da verba honorária, refere-se às alíneas do § 3º (a, b e c) e não ao seu caput.
+Desse modo, o magistrado, utilizando-se como critério a equidade, deve arbitrar os honorários advocatícios observando "o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço", mas não vincular-se aos limites de 10% e 20% "sobre o valor da condenação".
+Esta orientação encontra-se em conformidade com a jurisprudência firmada nesta Corte Superior:
+AGRAVO REGIMENTAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO COM BASE NO ART. 20, § 4º, DO CPC. NÃO VINCULAÇÃO AOS LIMITES PREVISTOS NO § 3º, DO REFERIDO ARTIGO 20. PRECEDENTES. CONFIRMAÇÃO DO VALOR FIXADO (R$ 5.000,00). AGRAVO IMPROVIDO.
+I - No cumprimento de sentença aplicam-se as disposições do § 4º do artigo 20 do CPC à fixação dos honorários advocatícios, não ficando o julgador limitado aos percentuais estabelecidos no §3º do mesmo dispositivo. Precedentes.
+II - Manutenção do valor fixado na decisão agravada (R$ 5.000,00), quantia suficiente para remunerar o trabalho desenvolvido na fase de cumprimento de sentença Agravo Regimental improvido.
+(AgRg no REsp 1.090.014/MA, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 15/4/2009, grifou-se)
+PROCESSUAL CIVIL - RECURSO ESPECIAL - FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS - CUMPRIMENTO DE SENTENÇA - LEI 11.232/2005 - POSSIBILIDADE - LIMITES À REVISÃO DO QUANTUM PELO STJ - PRECEDENTES DA CORTE ESPECIAL - SEM PAGAMENTO VOLUNTÁRIO NO PRAZO DO ARTIGO 475-J DO CPC - CABIMENTO - PRINCÍPIO DA CAUSALIDADE.
+1. A jurisprudência do STJ entende necessária a fixação de honorários advocatícios na fase de cumprimento da sentença, inclusive após a nova sistemática da Lei 11.232/2005. Precedente da Corte Especial REsp. 1.028.855/SC.
+2. Embora os honorários advocatícios possam ser fixados para a fase de cumprimento de sentença, a sua exigibilidade só é possível se o devedor não efetuar o pagamento ou o depósito no montante da condenação no prazo de 15 dias previsto no artigo 475-J do CPC, antes da prática de atos executórios.
+3. Estabelecido está pela Corte Especial que, em princípio, não pode este Tribunal alterar o valor fixado pela instância de origem a título de honorários advocatícios, exceto em situações excepcionalíssimas de irrisoriedade ou exorbitância, se delineadas concretamente no acórdão recorrido as circunstâncias a que se refere o art. 20, § 3º, do CPC.
+4. Também está consagrado o entendimento de que a fixação de honorários com base no art. 20, § 4º, do CPC não encontra como limites os percentuais de 10% e 20% de que fala o § 3º do mesmo dispositivo legal, podendo ser adotado como base de cálculo o valor da causa, o da condenação ou arbitrada quantia fixa.
+5. É inadmissível o recurso especial se a análise da pretensão da recorrente demanda o reexame de provas.
+6. Recurso especial não conhecido.
+(REsp 1.190.935/SP, Segunda Turma, Rel. Min. ELIANA CALMON, DJe de 17/8/2010)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
