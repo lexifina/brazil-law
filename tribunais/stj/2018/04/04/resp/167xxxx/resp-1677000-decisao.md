@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará, assim ementado (fl. 108):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - AÇÃO ORDINÁRIA DE PAGAMENTO DO ADICIONAL DE INTERIORIZAÇÃO COM PEDIDO DE TUTELA ANTECIPADA - PREJUDICIAL DE MÉRITO: PRESCRIÇÃO BIENAL, REJEITADA - MÉRITO: POSSIBILIDADE DE PERCEPÇÃO SIMULTÂNEA DO ADICIONAL DE INTERIORIZAÇÃO E GRATIFICAÇÃO DE LOCALIDADE ESPECIAL - DESNECESSIDADE DE REQUERIMENTO ADMINISTRATIVO - MUNICÍPIOS QUE NÃO FAZIAM PARTE DA REGIÃO METROPOLITANA DE BELÉM A QUANDO DA PRESTAÇÃO DE SERVIÇOS - RECURSO CONHECIDO IMPROVIDO - EM REEXAME NECESSÁRIO SENTENÇA CONFIRMADA EM TODOS OS SEUS TERMOS - A UNANIMIDADE.
+Ação Ordinária dc Pagamento do Adicional de Interiorização com pedido de Tutela Antecipada:
+1. Prejudicial de mérito: Prescrição bienal, Rejeitada. Prazo qüinqüenal.
+2. Mérito.
+2.1. Concessão simultânea do adicional e gratificação de localidade especial. Possibilidade. Naturezas distintas.
+2.2. Desnecessidade de requerimento administrativo. Concessão do adicional de forma automática.
+2.3. Na época da prestação de serviços do recorrido as regiões não faziam parte da região metropolitana de belém.
+3. Recurso Conhecido e Improvido. Reexame necessário que confirma todos os termos da sentença de Ia grau. Decisão unânime.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73 (fls. 129/132).
+A parte recorrente aponta violação aos arts. 535, II do CPC/73 c/c 1º do Decreto 20.910/32. Sustenta negativa de prestação jurisdicional, sob o argumento de que apesar do Tribunal de origem ter reconhecido a prescrição quinquenal, não a aplicou ao caso, pois "deixou de considerar o interregno havido entre a relotação do autor na capital - fato que ensejaria o direito à incorporação - e a data da propositura da ação" (fl. 138). Assim, alega estar prescrito o direito do autor à incorporação do adicional de interiorização aos seus vencimentos
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535, II do CPC, pois a parte agravante, nas razões dos embargos de declaração e do recurso especial, alega que a pretensão de incorporação do adicional de interiorização aos vencimentos do autor está prescrita, pois o autor quedou-se inerte em sua solicitação por mais de cinco anos. Alega que o autor retornou à capital em 31/05/2005 e somente em 18/01/2011 ajuizou a ação requerendo a incorporação da vantagem.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO CONTRA DECISÃO QUE PROVEU O RECURSO ESPECIAL, EM VIRTUDE DE OFENSA AO ART. 535 DO CPC. ACÓRDÃO RECORRIDO. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 535 do CPC.
+2. No caso, é imprescindível que o Tribunal de origem se manifeste sobre a questão no sentido de que "o primeiro pedido de suspensão ou arquivamento do processo, feito pelo Estado exequente, em 18/03/2003, é o termo inicial da prescrição intercorrente no caso concreto", sobretudo em razão do entendimento desta Corte no sentido de que o prazo da prescrição intercorrente se inicia após um ano da suspensão da execução fiscal quando não localizados bens penhoráveis do devedor, conforme dispõe a Súmula 314/STJ. 3. Agravo regimental não provido.
+(AgRg no REsp 1340084/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/05/2013, DJe 13/05/2013)
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão aqui considerada omitida.
+Publique-se.
