@@ -1,0 +1,17 @@
+EMENTA
+ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. REVISÃO DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS E ESTÉTICOS. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA 282/STJ. AUSÊNCIA DE COMANDO NORMATIVO. INCIDÊNCIA DA SÚMULA 284/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, contra acórdão do TJPR, assim ementado (fl. 336):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. QUEDA CAUSADA POR TROPEÇO EM FERRAGENS DE TOCOS DE CONCRETO DETERIORADOS, EM VIA URBANA.- COMPROVAÇÃO DE DANO E NEXO DE CAUSALIDADE. NEGLIGÊNCIA DO MUNICÍPIO DE SÃO JOSÉ DOS PINHAIS. FALHA NA MANUTENÇÃO E CONSERVAÇÃO DE VIA PÚBLICA. CONDUTA OMISSIVA. RESPONSABILIDADE CIVIL SUBJETIVA.FATO OCORRIDO EM VIA ELEVADA DESTINADA À TRAVESSIA DE PEDESTRES. CULPA DA VÍTIMA NÃO DEMONSTRADA. ONUS DO MUNICÍPIO DA COMPROVAÇÃO DE QUE HAVIA SE CERCADO DAS CAUTELAS NECESSÁRIAS PARA IMPEDIR A OCORRÊNCIA DO RESULTADO. ART. 333, II, DO CPC/73. DEVER DO MUNICÍPIO DE REPARAR O DANO, CONFIGURADO. DANO MORAL. DIREITO DA PERSONALIDADE. INTEGRIDADE FÍSICA. DANO IN RE IPSA. COMPROVAÇÃO PRESCINDÍVEL. DANO ESTÉTICO. CICATRIZ NO COTOVELO. PEQUENA MONTA. QUANTUM INDENIZATÓRIO DO DANO MORAL E ESTÉTICO. VALOR ARBITRADO COM EQUIDADE. PRINCIPIO DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO PROVIDO.
+No apelo especial, a recorrente alega, ofensa ao artigo 944 do Código Civil e divergência jurisprudencial, eis que devem ser majorados os valores da condenação por danos morais e estéticos.
+Ainda, suscita violação do art. 85, §§ 1º e 11, do CPC/15, visto que o novo Código de Processo Civil prevê uma nova condenação honorária, que teria como causa o surgimento da instância recursal.
+Juízo positivo de admissibilidade às fls. 373.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+A jurisprudência desta Corte firmou compreensão segundo a qual, em caráter excepcional, é admissível a alteração do valor arbitrado título de danos morais, materiais e estéticos, nos casos em que fique demonstrada a irrisoriedade ou exorbitância.
+No caso em análise, a agravante não demonstrou que, na espécie, o valor arbitrado em R$7.000,00 seria excessivo, de forma que o acórdão recorrido deve ser mantido.
+No que diz respeito ao artigo 85 do CPC/15 (e a tese a ele vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, e tampouco insurgência da parte por embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ainda que assim não fosse, no caso dos autos, evidencia-se que o referido artigo (85, do CPC/15) não contém comando normativo capaz de infirmar o juízo formulado no acórdão recorrido, que fixou os honorários de acordo com o art. 20, §§3º e 4º, do CPC/73. Aplica-se à hipótese a Súmula 284/STF.
+E por fim, ainda acerca dessa pretensão é inadmissível o recurso, pois a recorrente não impugnou o fundamento do acórdão recorrido segundo o qual entendeu que "as normas sobre honorários advocatícios não são alcançados pela lei nova" (fls. 349). Essa situação enseja a aplicação da Súmula 283/STF.
+Ante o exposto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
