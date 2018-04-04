@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de revisão criminal ajuizada por JOSVALDO PEREIRA DE BRITO, na qual aduz ter interposto Recuso Especial contra o acórdão do Tribunal de Justiça do Estado da Bahia, que restou parcialmente provido para fixar a pena base do crime em que foi condenado em 02 anos, 05 meses, e 10 dias. Aduz haver erro na referida decisão, pois houve o agravamento da pena-base do condenado, mesmo inexistindo recurso por parte do Ministério Público, o que caracteriza reformatio in pejus, vez que a pena-base estava fixada anteriormente em 2 anos e 02 meses, razão pela qual ingressou com o presente instrumento.
+Pugnou pelo deferimento da liminar, para suspender o início da execução da pena até o julgamento em definitivo da presente revisão criminal.
+Requer, ao final, o recebimento e procedência da presente revisão criminal, com a modificação da pena fixada, sendo a mesma reduzida para 01 (ano) 11 (meses) e 10 (dez) dias, em virtude da exclusão da culpabilidade como valoração negativa.
+Indeferida a liminar pretendida (fls. 45-46), foram os autos remetidos para parecer ministerial, tendo a d. Subprocuradoria-Geral da República opinado pela extinção do feito por falta de interesse processual.
+É o relatório.
+Decido.
+A revisão criminal, preconizada no artigo 621 do Código de Processo Penal, será admitida: i) por contrariedade à lei ou provas constantes dos autos; ii) sentença condenatória se fundamentar em prova falsa; iii) novos fatos denotarem modificação da situação para inocência ou redução de pena.
+In casu, não se vislumbra qualquer ilegalidade manifesta na decisão proferida no Agravo em Recurso Especial n. 411.009/BA.
+Observa-se dos autos, conforme já assentado na decisão que indeferiu o pleito liminar, que o Tribunal de Justiça da Bahia deu parcial provimento ao apelo do réu, mantendo, todavia, a pena-base (primeira fase) do delito em que foi condenado no importe de 2 anos e 08 meses de detenção. Na segunda fase da dosimetria, em razão da confissão espontânea, reduziu a pena em 06 meses, totalizando, 2 anos e 2 meses, a qual tornou definitiva em razão da inexistência de causas de aumento ou de diminuição de pena (terceira fase).
+Por ocasião do apelo extremo, o Senhor Ministro Rogerio Schietti Cruz, entendeu por bem rever a pena-base (primeira fase), reduzindo-a para o importe de 2 anos, 05 meses, e 10 dias de detenção, mantendo o acórdão do Tribunal de origem quanto às demais fases da dosimetria.
+Desse modo, ao contrário do alegado, não há reformatio in pejus na decisão do Agravo em Recurso Especial n. 411.009/BA, tendo em vista que houve redução da pena fixada pelo Tribunal de Origem para a primeira fase da dosimetria (pena-base), e manutenção do quantum arbitrado nas demais etapas.
+Assim, verifica-se que a presente revisão criminal não se enquadra em nenhuma das hipóteses previstas no artigo 621 do Código de Processo Penal, não sendo possível o seu conhecimento.
+Ante o exposto, com base no artigo 34, XVIII, "a", do RISTJ, não conheço da revisão criminal.
+P. e I.
