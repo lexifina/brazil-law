@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 1, p. 184):
+    “APELAÇÃO. CONCURSO PÚBLICO. AGENTE DE POLÍCIA FEDERAL. PSICOTÉCNICO. FATO CONSUMADO. PROVIMENTO.
+    1. Não obstante portar legitimidade o exame psicotécnico aplicado ao concurso público para o qual se submeteu o apelante, a teoria do fato consumado respalda o provimento do apelo, tendo em vista que aquele já se encontra, faz mais de dez anos, investido no cargo de agente de polícia federal, de modo que o não provimento de recurso, no qual se discute a validade de sua aprovação, será capaz de ensejar, no caso concreto, solução injusta.
+    2. Provimento do apelo.”
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 37, I e II; e 144, § 7º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “diferentemente do que pretende o Apelante, não se subsume ao caso em apreço, tendo em vista que o autor se encontra em situação ilegal, pois foi ‘aprovado’ no concurso, nomeado e empossado, em flagrante desrespeito às normas contidas no edital e na lei, qual seja, aquela que exige a realização do exame psicotécnico.” (eDOC 2, p. 32).
+    Verifica-se que o Supremo Tribunal Federal, no julgamento do RE 608.482-RG, de relatoria do Ministro Teori Zavascki, DJe 30.10.2014 (Tema 476) entendeu pela existência de repercussão geral da matéria versada nestes autos. Na oportunidade, a ementa restou assim redigida:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. ELIMINAÇÃO. POSSE/EXERCÍCIO EM CARGO PÚBLICO POR FORÇA DE DECISÃO JUDICIAL DE CARÁTER PROVISÓRIO. APLICAÇÃO DA CHAMADA TEORIA DO FATO CONSUMADO. PRESENÇA DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL DISCUTIDA. Possui repercussão geral a questão constitucional alusiva à aplicação da chamada teoria do fato consumado a situações em que a posse ou o exercício em cargo público ocorreram por força de decisão judicial de caráter provisório.”
+     Quando do julgamento de mérito, o Plenário, por maioria, deu provimento ao recurso. O acórdão restou assim ementado:
+    “Ementa: CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO REPROVADO QUE ASSUMIU O CARGO POR FORÇA DE LIMINAR. SUPERVENIENTE REVOGAÇÃO DA MEDIDA. RETORNO AO STATUS QUO ANTE. TEORIA DO FATO CONSUMADO, DA PROTEÇÃO DA CONFIANÇA LEGÍTIMA E DA SEGURANÇA JURÍDICA. INAPLICABILIDADE. RECURSO PROVIDO.
+    1. Não é compatível com o regime constitucional de acesso aos cargos públicos a manutenção no cargo, sob fundamento de fato consumado, de candidato não aprovado que nele tomou posse em decorrência de execução provisória de medida liminar ou outro provimento judicial de natureza precária, supervenientemente revogado ou modificado.
+    2. Igualmente incabível, em casos tais, invocar o princípio da segurança jurídica ou o da proteção da confiança legítima. É que, por imposição do sistema normativo, a execução provisória das decisões judiciais, fundadas que são em títulos de natureza precária e revogável, se dá, invariavelmente, sob a inteira responsabilidade de quem a requer, sendo certo que a sua revogação acarreta efeito ex tunc, circunstâncias que evidenciam sua inaptidão para conferir segurança ou estabilidade à situação jurídica a que se refere.
+    3. Recurso extraordinário provido.” (RE 608482, Relator(a): Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 07/08/2014, ACÓRDÃO ELETRÔNICO DJe-213 DIVULG 29-10-2014 PUBLIC 30-10-2014).
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 4 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
