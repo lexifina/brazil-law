@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 160):
+MANDADO DE SEGURANÇA. PROCEDIMENTO CIRÚRGICO. PRÓTESE DE JOELHO. INADEQUAÇÃO DA VIA PROCESSUAL ELEITA. AUSÊNCIA DE INTERESSE DE AGIR. NÃO OCORRÊNCIA. PROVA PRÉ CONSTITUÍDA. LEGITIMIDADE AD CAUSAM DO ESTADO. DIREITO À SAÚDE. BLOQUEIO DE VERBA POR DESCUMPRIMENTO DA ORDEM. INVIABILIDADE.
+1. Admite-se, no mandado de segurança, prova previamente constituída por laudo médico, elaborado por profissional particular cuja idoneidade não foi questionada, que ateste a necessidade do uso de determinado fármaco, para fins de comprovação do direito líquido e certo. Precedentes do STJ e do TJGO.
+2. A omissão da autoridade competente, quando o paciente precisa dos procedimentos recomendados por profissional habilitado, configura ato abusivo e viola direito líquido e certo à saúde, de modo que justifica-se a concessão da segurança.
+3. Inexiste motivo suficiente para se autorizar, desde logo, a incidência de multa e o bloqueio de verbas públicas em função de descumprimento da ordem mandamental, tendo em vista o caráter excepcional destas medidas, devendo prevalecer a instauração de processo criminal por crime de desobediência, nos termos do artigo 26 da Lei federal nº 12.016, de 07 de agosto de 2009.
+4. SEGURANÇA CONCEDIDA.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 1º da Lei 12.016/09. Para tanto, sustenta que a via do mandado de segurança é inadequada para o feito, ante a necessidade de dilação probatória para o fornecimento de tratamento médico ao paciente.
+O Ministério Público Federal, em parecer, opina pelo provimento do recurso especial (fls. 257/260).
+É o relatório.
+Inicialmente, consigne-se que a jurisprudência do STJ é firme no sentido de que, via de regra, a apreciação da existência ou não de direito líquido e certo amparado por Mandado de Segurança e a inadequação de sua impetração não têm sido admitidas em Recurso Especial, pois exigem reexame de matéria fático-probatória.
+Nesse sentido, a respeito da alegação de inexistência de prova pré constituída hábil a subsidiar a liquidez e certeza do direito, cabe colacionar o posicionamento do Tribunal de origem que, ao conceder a segurança, consignou (fls. 154/157):
+Após detido estudo dos autos, observo que o impetrante foi capaz de demonstrar a real necessidade da colocação das próteses por meio do relatório médico acostado (evento nº 1, p. 5/6).
+Assim, uma vez demonstrada a real necessidade, é razoável reconhecer o direito líquido e certo do substituído de impelir o ente estadual a fornecer-lhe os insumos necessários para realização da cirurgia pleiteada, em respeito ao direito fundamental à vida digna.
+Ressalte-se, por oportuno, que a tese da reserva do possível não pode servir de entrave para o cumprimento das políticas públicas definidas na Constituição Federal, uma vez que os direitos à vida e à saúde se sobrepõem a qualquer outro.
+(..)
+Destarte, justificada a necessidade da cirurgia para a realização de autoplastia total dos joelhos para colocação de próteses, se afigura ilegal a omissão do ente federado em atendê-la.
+Outrossim, afigura-se imperioso destacar que não ficou demonstrado que o fornecimento dos insumos necessários para a realização do procedimento cirúrgico, de algum modo, possa comprometer o Sistema Único de Saúde como um todo, não passando de conjecturas as explanações do Estado de Goiás em sentido contrário, razão por que a segurança deve ser concedida. É essa a firme orientação jurisprudencial deste egrégio Sodalício, mutatis mutandis:
+(..)
+Bem por isso, revela-se medida impositiva a concessão da segurança postulada na proemial, uma vez que há prova pré constituída da enfermidade e do tratamento necessário.
+Ora, nesse contexto, observa-se que a desconstituição da premissa lançada pela instância ordinária segundo a qual "revela-se medida impositiva a concessão da segurança postulada na proemial, uma vez que há prova pré constituída da enfermidade e do tratamento necessário - fl. 157" demandaria o reexame de matéria fática, procedimento que, em sede especial, encontra empeço na Súmula 7/STJ.
+Em reforço, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO. LAUDO MÉDICO PARTICULAR. ALEGAÇÃO DE AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. O Estado (as três esferas de Governo) tem o dever de assegurar a todos os cidadãos, indistintamente, os direitos à dignidade humana, à vida e à saúde, conforme inteligência dos arts. 1º, 5º, caput, 6º, 196 e 198, I, da Constituição da República.
+2. O fato de o medicamento não integrar a lista básica do SUS não tem o condão de eximir os entes federados do dever imposto pela ordem constitucional, porquanto não se pode admitir que regras burocráticas, previstas em portarias ou normas de inferior hierarquia, prevaleçam sobre direitos fundamentais.
+3. Conforme reiterada jurisprudência desta Corte de Justiça, a escolha do fármaco ou do melhor tratamento compete ao médico habilitado e conhecedor do quadro clínico do paciente, podendo ser um profissional particular ou da rede pública, pois o que é imprescindível é a comprovação da necessidade médica e da hipossuficiência.
+4. A peculiaridade do caso levou o Tribunal de origem a conceder a segurança reclamada, em face do perigo de agravamento da saúde da paciente - acometida de grave crise psicótica, "com alucinação auditiva, delírio místico religioso e humor constrito" -, entendendo haver prova suficiente da necessidade do medicamento prescrito pelo seu médico particular, bem como a impossibilidade de troca de tal remédio por outro produto para "a preservação de sua integridade física e mental".
+5. Diante do quadro delineado, a análise da suposta violação aos arts. 1º e 6º, § 5º, da Lei n. 12.016/2009 demandaria o reexame de prova, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 405.126/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 20/09/2016, DJe 26/10/2016)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTOS. INADEQUAÇÃO DA VIA ELEITA, AUSÊNCIA DE PROVA DO DIREITO LÍQUIDO E CERTO E NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE VERIFICAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. ILEGITIMIDADE PASSIVA. ALEGAÇÃO NÃO LEVANTADA NAS RAZÕES DO RECURSO ESPECIAL. INOVAÇÃO EM AGRAVO REGIMENTAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Verificar a suposta inadequação da via eleita, a ausência de prova do direito líquido e certo e a necessidade de dilação probatória, demanda a incursão no conteúdo fático-probatório dos autos, o que implica reexame de provas - inviável em Recurso Especial, nos termos da Súmula 7/STJ
+2. A alegação de ilegitimidade passiva, é desinfluente para o julgamento da causa, na medida em que tal argumentação não foi levantada nas razões do seu Recurso Especial, configurando-se verdadeira inovação, o que é defeso na oportunidade do Agravo Regimental.
+3. Agravo Regimental desprovido.
+(AgRg no AREsp 187.236/CE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/12/2012, DJe 5/2/2013)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
