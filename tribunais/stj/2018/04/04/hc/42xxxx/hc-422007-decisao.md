@@ -1,0 +1,18 @@
+DECISÃO
+[NOME], paciente neste habeas corpus substitutivo de recurso especial, alega sofrer constrangimento ilegal emseu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0001639-30.2017.8.26.0496.
+Busca a impetrante, em suma, a retificação do cálculo de penas, "reputando-se o crime de associação para o tráfico como crime comum" (fl. 12), sobre a assertiva basilar de que as instâncias ordinárias consideraram "como hediondo o crime previsto pelo art. 35 da Lei n. 11.434/2006" (fl. 4), de maneira a exigir do paciente o cumprimento de 2/5 para progressão de regime e 2/3 para livramento condicional.
+Concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pela concessão, ex officio, da ordem.
+Decido.
+Na hipótese, a correção do cálculo da pena imposta ao paciente pela prática do crime previsto no art. 35 da Lei n. 11.343/2006, efetuado pelo Juízo das Execuções Criminais - 2/5 para progressão de regime e 2/3 para livramento condicional -, foi negada pelo Tribunal paulista, sob o fundamento de que, "levando-se em consideração que o crime de associação para o tráfico tem como objetivo a prática do tráfico ilícito de entorpecente - crime equiparado a hediondo - não faz sentido que aquele seja considerado crime comum. Assim, as frações utilizadas para fins de benefícios, no tocante ao crime de associação para o tráfico, devem ser mantidas" (fl. 92, destaquei).
+Todavia, a jurisprudência desta Corte Superior é firme em assinalar que o delito previsto no art. 35 da Lei n. 11.343/2006 - associação para o tráfico de drogas - não é hediondo, nem a ele equiparado, uma vez que não se encontra expressamente previsto no rol taxativo do art. 2º da Lei n. 8.072/1990, razão pela qual não se lhe aplicam as disposições previstas nas Leis n. 8.072/1990 e 11.464/2007.
+Nesse contexto, a análise dos benefícios inerentes à execução penal - progressão de regime prisional -, em relação apenas ao delito previsto no art. 35 da Lei n. 11.343/2006, deve ser feita com base na Lei de Execução Penal (art. 112) e no Código Penal.
+Sobre essa questão, menciono os seguintes julgados:
+ ..
+2. O crime de associação para o tráfico não integra o rol de crimes hediondos ou equiparados, previstos na Lei n.º 8.072/90. Assim, a progressão de regime, em condenações pelo delito do art. 35 da Lei n.º 11.343/06, sujeita-se ao lapso de 1/6, previsto no art. 112 da Lei de Execução Penal.
+3. Writ não conhecido. Ordem concedida de ofício para afastar o caráter hediondo do crime de associação para o tráfico (HC n. 247.012/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 18/2/2014, grifei).
+ ..
+2. A teor da jurisprudência consolidada desta Corte, o delito de associação para o tráfico (art. 35 da Lei n. 11.343/2006), não é equiparado a hediondo, uma vez que não está expressamente elencado no rol do artigo 2º da Lei n. 8.072/1990.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar ao Juízo das Execuções que afaste a hediondez do crime de associação para o tráfico (art. 35 da Lei n. 11.343/2006), procedendo-se novo cálculo da pena em relação a progressão de regime, à luz do art. 112 da LEP (HC n. 357.635/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 29/8/2016, sublinhei).
+À vista do exposto, concedo a ordem para determinar que, em relação ao delito do art. 35 da Lei n. 11.343/2006, o Juízo das Execuções Criminais examine a possibilidade de progressão de regime prisional do paciente em conformidade com as regras previstas no art. 112 da Lei de Execução Penal.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
