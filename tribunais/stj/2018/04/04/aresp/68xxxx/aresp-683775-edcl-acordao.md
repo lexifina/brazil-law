@@ -1,0 +1,58 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO. USURPAÇÃO DE COMPETÊNCIA DO STF. INEXISTÊNCIA. EXERCÍCIO DE COMPETÊNCIA PRÓPRIA.
+Inexiste usurpação de competência do STF por parte do tribunal que nega seguimento a recurso extraordinário em razão da sistemática da repercussão geral ou mesmo o reconhecimento de que inexista repercussão geral no tema constitucional suscitado (art. 543-A do CPC/1973 ou 1.030, I, "a", primeira parte, do CPC/2015), visto que este exerce, nessa restrita hipótese, competência própria. Exegese da Questão de Ordem no AI 760.358/SE, Rel. Ministro GILMAR MENDES, DJe de 19/2/2010. Precedentes do STF.
+Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de embargos de declaração opostos por [NOME] contra acórdão da Corte Especial, que negou provimento ao agravo interno interposto pela parte embargante nos termos da seguinte ementa (fl. 2493, e-STJ):
+"AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. MOTIVAÇÃO DAS DECISÕES JUDICIAIS. FUNDAMENTAÇÃO SUFICIENTE. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+Agravo interno improvido".
+Aduz a embargante que "resta evidente a omissão e contradição na decisão de Vossa Excelência, visto que os argumentos trazidos no Recurso Extraordinário são da competência do Excelso Pretório, e, por tal motivo há de ser encaminhados os autos àquela corte" (fl. 2.519, e-STJ).
+Impugnação foi apresentada pelo embargado às fls. 2530/2536, e-STJ.
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. USURPAÇÃO DE COMPETÊNCIA DO STF. INEXISTÊNCIA. EXERCÍCIO DE COMPETÊNCIA PRÓPRIA.
+Inexiste usurpação de competência do STF por parte do tribunal que nega seguimento a recurso extraordinário em razão da sistemática da repercussão geral ou mesmo o reconhecimento de que inexista repercussão geral no tema constitucional suscitado (art. 543-A do CPC/1973 ou 1.030, I, "a", primeira parte, do CPC/2015), visto que este exerce, nessa restrita hipótese, competência própria. Exegese da Questão de Ordem no AI 760.358/SE, Rel. Ministro GILMAR MENDES, DJe de 19/2/2010. Precedentes do STF.
+Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Os embargos não devem ser acolhidos.
+Não procede a alegação de que a negativa de seguimento do extraordinário, com base na aplicação da sistemática da repercussão geral, implica usurpação de competência do STF e, na mesma seara, sinaliza a inconstitucionalidade do art. 1.030, I, "a", do CPC.
+Cumpre destacar que a reforma constitucional que instituiu a repercussão geral, bem como os recursos repetitivos no âmbito do STJ promoveram relevante alteração na sistemática processual atinente ao recurso extraordinário e recurso especial, respectivamente.
+Diante do novo padrão processual, desde 19/11/2009, no julgamento da Questão de Ordem no AI 760.358/SE, o STF firmou compreensão de que os recursos inadmitidos em razão da aplicação da sistemática prevista nos arts. 543-A e 543-B do CPC/1973 (1.036 e seguintes do CPC/2015) poderiam ser atacados tão somente por meio de agravo dirigido ao próprio tribunal prolator da inadmissão, pois a aplicação da tese paradigmal é de competência exclusiva daquela Corte, sob pena de "a racionalização objetivada pelo instituto da repercussão geral, de maneira alguma,  ser á alcançada".
+Destaca-se ainda do voto condutor o seguinte excerto:
+"Os instrumentos para essa adequação de entendimentos aos casos que envolvam a mesma matéria constitucional serão a retratação, o registro de prejuízo ou a automática inadmissibilidade, conforme prevê o supracitado art. 543-B, §3º, do CPC.
+O cabimento de agravo de instrumento dirigido a esta Corte resume-se aos casos elencados nos arts. 544 do CPC e 313 do RISTF. A presente hipótese não é contemplada em nenhum desses dispositivos.
+É de se destacar que não ocorreu o juízo de admissibilidade do recurso extraordinário pelo tribunal a quo, mas o registro da prejudicialidade, com base nas regras previstas pelo regime da repercussão geral (art. 543-B, § 3º, do CPC).
+A prejudicialidade, aqui, decorre diretamente da lei processual e do mecanismo de racionalização nela estabelecido. É a lei que presume a inexistência de interesse no julgamento de recurso interposto de decisão já conformada ao entendimento desta Corte ao examinar questão constitucional de repercussão geral.
+Admitir o agravo de instrumento em situações tais e retomar a remessa individual de processos ao STF significa confrontar a lógica do sistema e restabelecer o modelo da análise casuística, quando toda a reforma processual foi concebida de forma a permitir que a Suprema Corte se debruce uma única vez sobre cada questão constitucional.
+(..)
+O que estou defendendo, portanto, é que os tribunais e turmas recursais de origem têm competência para dar encaminhamento definitivo aos processos múltiplos nos temas levados à análise de repercussão geral. Não há, nesta hipótese, delegação de competência. O Tribunal a quo a exerce por força direta da nova sistemática legal.
+Apenas os casos de negativa de retratação podem subir, se os recursos extraordinários cumprirem os pressupostos para o seu recebimento e, aí, sim, falaremos em juízo de admissibilidade tradicional (art. 543-B, § 4º Mantida a decisão e admitido o recurso, poderá o Supremo Tribunal Federal, nos termos do Regimento interno, cassar ou reformar, liminarmente, o acórdão contrário à orientação firmada).
+Sob pena de subverter-se toda a lógica do sistema, não cabe agravo de instrumento de cada decisão que aplica a jurisprudência desta Corte em cumprimento ao disposto no § 3º do art. 543-B, do código de Processo Civil.
+E quanto à abrangência da decisão desta Corte, vale registrar que temos assentado constantemente, nos julgamentos de repercussão geral, que a relevância social, política, jurídica ou econômica não é do recurso, mas da questão constitucional que ele contenha.
+Cabe a esta Corte decidir se determinados temas devem ser trazidos à sua apreciação, definindo se têm ou não repercussão geral. Essa decisão poderá ser tomada em um único recurso. Uma vez resolvido que há repercussão geral do tema, este ou outro recurso extraordinário sobre a mesma questão constitucional será levado a julgamento, e a decisão que sobrevier será aplicada, nos tribunais e turmas recursais de origem, a todos os processos com recursos extraordinários sobrestados ou que venham a ser interpostos.
+(..)
+No caso dos autos, porém, por tudo que já foi exposto, a possibilidade de reexame do que ficou assentado no decreto de prejudicialidade insere-se no âmbito da competência do Tribunal de origem, não cabendo agravo dessa decisão.
+Tampouco será cabível a conversão do agravo em reclamação, o que implicaria, da mesma forma, a remessa individual de processos, em total desconformidade com o novo sistema de controle difuso de constitucionalidade.
+Assim, suscito a presente questão de ordem para rejeitar o presente agravo de instrumento, tendo em vista a sua manifesta inadmissibilidade.
+E, incorporando a este voto as considerações e conclusões trazidas no voto-vista da Ministra Ellen Gracie, converto o presente agravo de instrumento em agravo regimental e determino a sua remessa à origem.
+É como voto".
+Ou seja, sob a análise da nova sistemática constitucional e à luz dos arts. 543-A e 543-B do CPC/73, incluídos pela Lei n. 11.418/2006, concluiu a Suprema Corte que se encontra previsto no ordenamento jurídico que a impugnação da decisão de inadmissão em razão da sistemática da repercussão geral - ou mesmo o reconhecimento de que inexista repercussão geral no tema constitucional suscitado - efetiva-se pelo manejo de agravo regimental na Corte de origem, a qual exerce, nessa restrita hipótese, competência própria estabelecida por força direta da nova sistemática legal.
+A título de reforço:
+"É improcedente a reclamação, por usurpação de competência, nos termos da Súmula 727 do Supremo Tribunal Federal, quando o recurso de agravo (art. 544 do CPC) ataca inadmissão do recurso extraordinário com fundamento em precedente da sistemática da repercussão geral" (Rcl 24.145 AgR, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 7/10/2016, processo eletrônico DJe-227, divulgado em 24/10/2016, publicado em 25/10/2016.);
+"Não há usurpação da competência desta Corte, quando se aplica a sistemática do recurso repetitivo por parte do Tribunal de origem, haja vista que o recurso extraordinário e o recurso especial possuem objetos distintos, respectivamente, violação à Constituição da República e à legislação federal" (Rcl 16.969 AgR, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 23/8/2016, processo eletrônico DJe-197, divulgado em 14/9/2016, publicado em 15/9/2016.);
+"AGRAVO REGIMENTAL EM RECLAMAÇÃO PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. DECISÃO IRRECORRÍVEL. USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO" (Rcl 22.924 AgR, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 15/3/2016, processo eletrônico DJe-083, divulgado em 28/4/2016, publicado em 29/4/2016.);
+"Agravo regimental em reclamação. 2. Aplicação da sistemática da repercussão geral pelo Tribunal de origem. Ausência de usurpação de competência desta Corte para julgar agravo de decisão de inadmissibilidade de recurso extraordinário. Precedentes. 3. Agravo regimental a que se nega seguimento" (Rcl 17.135 AgR, Relator Min. GILMAR MENDES, Segunda Turma, julgado em 3/2/2015, processo eletrônico DJe-038, divulgado em 26/2/2015, publicado em 27/2/2015.);
+"A correção de possíveis desacertos deve ser realizada pelo próprio Tribunal de origem, seja em juízo de retratação, seja por decisão colegiada, já que não está exercendo competência do STF, mas atribuição própria. Precedentes" (Rcl 16.801 AgR, Relator Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 24/6/2014, processo eletrônico DJe-157, divulgado em 14/8/2014, publicado em 15/8/2014.).
+Ante o exposto, rejeitos os embargos de declaração.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
