@@ -1,0 +1,27 @@
+DECISÃO
+Joana Gabriela Diniz Sebastião impetrou mandado de segurança contra ato do Reitor da Universidade Federal de Sergipe - UFS, pretendendo obter o direito à permanência no Curso de Licenciatura em Teatro que lhe fora negado em razão da perda do prazo para confirmação da matrícula.
+Em grau recursal, o Tribunal Regional Federal da 5ª Região manteve a decisão concessiva da ordem, nos termos da seguinte ementa (fl. 160):
+CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO E REMESSA OFICIAL. MANDADO DE SEGURANÇA. CURSO SUPERIOR. UNIVERSIDADE PÚBLICA. PERDA DE PRAZO PARA CONFIRMAÇÃO DE PRÉ-MATRÍCULA. PREVALÊNCIA DO PRINCIPIO DA BOA-FÉ E DOS POSTULADOS DA RAZOABILIDADE E PROPORCIONALIDADE. DIREITO FUNDAMENTAL À EDUCAÇÃO. NOTÓRIA INTENÇÃO DA IMPETRANTE EM SE GRADUAR NO CURSO PARA O QUAL FOI APROVADA. MANTIDA A SENTENÇA QUE CONCEDEU A SEGURANÇA.
+1. Apelação da parte impetrada contra sentença que concedeu a segurança requerida neste mandado de segurança, confirmando a medida liminar anteriormente deferida para determinar a realização da matrícula da impetrante no curso de Licenciatura em Teatro na UNIVERSIDADE FEDERAL DE SERGIPE.
+2. O caso concreto, em resumo, é o seguinte: a impetrante, após ter feito a sua pré-matrícula no aludido curso em 26/01/2016, iniciou o período letivo em 04/07/2016, mas foi surpreendida em 19/07/2016 com a informação, dada por uma professora, de que não poderia assistir mais às aulas pelo fato de ter perdido o prazo para a confirmação da sua pré-matrícula, o qual estava previsto em edital e se encerrou em 15/07/2016.
+3. O fato de a impetrante ter perdido o prazo para a confirmação da sua pré-matrícula não pode, em princípio, constituir obstáculo intransponível a ensejar o seu desligamento do curso, com base nos postulados da razoabilidade e proporcionalidade, bem como em face da garantia constitucional do direito à educação.
+4. Também milita em favor da pretensão da impetrante o princípio da boa-fé, pois, tendo ela se apresentado para o início do período letivo, frequentado as aulas durante quase duas semanas e realizado, inclusive, atividades acadêmicas (Ident. 4058500.736834, 4058500.736835 e 4058500.736836), o seu interesse em se graduar no curso escolhido ficou mais do que evidente, de modo que a mera perda de prazo para a conclusão de um procedimento assaz burocrático não é capaz de se sobrepor à boa-fé da aluna manifestada no seu notório comportamento voltado à sua permanência no curso para o qual fora aprovada, haja vista que até a via recursal administrativa ela esgotou para tentar rever o ato de cancelamento de sua pré-matrícula.
+5. Apelação e remessa oficial cujo provimento é negado.
+Os embargos de declaração opostos foram rejeitados (fls. 195-199).
+A Universidade Federal de Sergipe interpõe recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação do art. 53, I e V, da Lei n. 9.394/96 e itens do Edital n. 01/2016, invocando a autonomia universitária para estabelecer as normas de acesso aos cursos e, in casu, a confirmação da matrícula seria etapa essencial à manutenção do aluno no respectivo curso.
+Também invoca o art. 6º da Lei n. 12.016/2009 para argumentar que não houve qualquer malferimento a direito líquido e certo da impetrante.
+Não foram apresentadas contrarrazões (fl. 220).
+É o relatório. Decido.
+Sobre a alegada violação do referido artigo da Lei n. 8.666/93, verifica-se que o acórdão recorrido não analisou tal comando, nem mesmo de forma implícita, a despeito da oposição dos embargos declaratórios, pelo que carece o recurso do indispensável requisito do prequestionamento, nos moldes da incidência dos seguintes enunciados sumulares:
+Súmula 282/STF. É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 211/STJ. Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ademais, o reexame do acórdão recorrido em confronto com as razões do recurso especial, revela que os fundamentos apresentados naquele julgado, acerca da falta de razoabilidade da medida adotada pela Universidade, frente aos investimentos da impetrante e do fato de que ela não fora comunicada previamente, acarretando inobservância do contraditório e ampla defesa, utilizados de forma suficiente para manter a decisão proferida no Tribunal a quo, não foram rebatidos no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+
+Por fim, cumpre ressaltar que a alegada violação de dispositivo da lei mandamental, vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos, decidiu pelo direito líquido e certo da impetrante.
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+ Ante o exposto, com fundamento no art. 255, § 4º, I, do RI/STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
