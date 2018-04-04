@@ -1,0 +1,7 @@
+DECISÃO
+[NOME] estaria sofrendo constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 3ª Região, que denegou a ordem lá impetrada, na qual se pretendia o trancamento de inquérito policial instaurado para verificação de possível prática de crime contra a ordem tributária.
+Diante da manifestação do Ministério Público Federal, às fls. 446-449, pela prejudicialidade do writ, "pois, de acordo com o documento de fls. 418/421 e 446-449, o magistrado de primeiro grau, na data de 03/04/2017, deixou de receber denúncia em desfavor do paciente", determinei, em 31/5/2017, a intimação do impetrante, nestes termos (fl. 462):
+Em razão das ponderações feitas pelo Ministério Público Federal, às fls. 446-449, bem como pelo teor do documento de fls. 418-421, intime-se o impetrante para que esclareça, no prazo de 10 (dez) dias, fundamentadamente, se ainda tem interesse no prosseguimento do feito, sob pena do reconhecimento da prejudicialidade do writ.
+Transcorrido in albis o prazo para manifestação da parte acerca do interesse no prosseguimento do feito, em 1º/8/2017, determinei, com a observância ao pedido de fl. 455, fosse realizada nova intimação. Ficou certificado, à fl. 465 que não houve pronunciamento do impetrante.
+Em vista disso, com base na informação do Parquet e na ausência de manifestação do impetrante, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
