@@ -1,0 +1,57 @@
+DECISÃO
+Vistos.
+Trata-se de Embargos de Declaração opostos por CIASERV TERCEIRIZACÃO DE SERVICOS LTDA contra decisão que negou provimento ao seu Recurso Especial, fundamentada nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, do RISTJ.
+Sustenta, em síntese, que a decisão padece de contradição (art. 1.022, II, do CPC), porquanto o fundamento exposto no acórdão vai ao encontro das alegações da Recorrente quanto à aplicação, no caso, das normas do Código de Processo Civil de 2015 para a fixação dos honorários advocatícios.
+Alega, ainda, que "antes do julgamento do referido Agravo de Instrumento inexistia qualquer condenação em verba honorária advocatícia contra quaisquer das partes, reiterando mais uma vez que tal condenação nasceu somente por ocasião do julgamento do Agravo de Instrumento, ocorrido em 11 de agosto de 2.016, ou seja, sob a égide do atual Código de Processo Civil" (fl. 496e).
+Sem impugnação (fl. 281e).
+Os embargos foram opostos tempestivamente.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Sustenta a Embargante que há contradição, nos termos do art. 1.022, I, do Código de Processo Civil.
+De acordo com a jurisprudência desta Corte, a contradição sanável mediante embargos de declaração é aquela interna ao julgado embargado, que se dá entre a fundamentação e o dispositivo, de modo a evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador. Portanto, o recurso integrativo não se presta a corrigir eventual desconformidade entre a decisão embargada e a prova dos autos, ato normativo, ou acórdão proferido pelo Tribunal de origem ou em outro processo.
+Nesse sentido os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO E CONTRADIÇÃO. NÃO CARACTERIZAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+(..)
+4. Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. No caso em exame, o dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede, não havendo contradição interna a ser sanada.
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 308.455/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/09/2013, DJe 10/09/2013).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 535, INCS. I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA.
+(..)
+3. A contradição que autoriza os embargos de declaração é a interna do acórdão, e não aquela em que o fundamento do voto colidiria com a jurisprudência em caso análogo - error in judicando.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 438.306/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/04/2014, DJe 20/05/2014).
+No caso, ficou claro que o posicionamento do tribunal de origem segundo o qual "a fixação da verba honorária deve ser analisada à luz do CPC/73, vigente à época da prolação da sentença, em observância ao direito processual adquirido e à segurança jurídica" (fl. 281e), é no mesmo sentido da orientação jurisprudencial desta Corte.
+De fato, a jurisprudência desta Corte entende que o marco temporal a ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973, conforme estabelecido no acórdão do tribunal a quo.
+Nessa linha:
+DIREITO PROCESSUAL CIVIL E INTERTEMPORAL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. SENTENÇA CONDENATÓRIA PROFERIDA NA VIGÊNCIA DO CPC/1973 E PUBLICADA JÁ QUANDO EM VIGOR O CPC/2015. NOVO ESTATUTO. OBSERVÂNCIA.
+1. No que diz respeito às causas em que for parte a Fazenda Pública, o art. 85, § 3º, I a V, do CPC/2015 estabeleceu critérios objetivos para a fixação dos honorários de sucumbência com base no valor da condenação ou do proveito econômico obtido na demanda, prevendo cinco faixas progressivas e escalonadas como parâmetro para tal apuração.
+2. Apesar de a propositura da ação demarcar os limites da causalidade e os riscos de eventual sucumbência, o Superior Tribunal de Justiça elegeu a sentença - ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios - como marco para a incidência das regras do novo estatuto processual, notadamente em face da natureza jurídica híbrida do referido instituto (processual-material).
+3. A despeito de ser possível a incidência dos honorários previstos nos art. 85, § 11, do CPC/2015, em sede recursal (Enunciado Administrativo n. 7 do STJ), os honorários de sucumbência deverão obedecer à legislação vigente na data da sentença ou do acórdão que fixou a condenação, lembrando-se que a decisão produz todos os seus efeitos jurídicos somente após a sua publicação.
+4. Hipótese em que a sentença foi proferida sob a égide do CPC/1973, sendo o decisum, contudo, publicado já na vigência no novo Código Processual, considerando-se as peculiaridades da contagem dos prazos no processo eletrônico (art. 5º da Lei n. 11.419/2006, c/c o art. 224 do CPC/2015).
+5. Recurso especial provido para determinar que o Tribunal de origem reexamine o valor dos honorários de sucumbência, à luz do disposto no art. 85, § 3º e seguintes, do CPC/2015.
+(REsp 1644846/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 27/06/2017, DJe 31/08/2017 - destaque meu).
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. NÃO OCORRÊNCIA DE OMISSÃO. REDISCUSSÃO DA MATÉRIA. HONORÁRIOS ADVOCATÍCIOS. NATUREZA JURÍDICA. LEI NOVA. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA.
+1. Constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+2. Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. No mérito, o Tribunal a quo consignou que "a melhor solução se projeta pela não aplicação imediata da nova sistemática de honorários advocatícios aos processos ajuizados em data anterior à vigência do novo CPC."
+4. Com efeito, a Corte Especial do Superior Tribunal de Justiça posicionou-se que o arbitramento dos honorários não configura questão meramente processual.
+5. Outrossim, a jurisprudência do STJ é pacífica no sentido de que a sucumbência é regida pela lei vigente na data da sentença.
+6. Esclarece-se que os honorários nascem contemporaneamente à sentença e não preexistem à propositura da demanda. Assim sendo, nos casos de sentença proferida a partir do dia 18.3.2016, aplicar-se-ão as normas do CPC/2015.
+7. In casu, a sentença prolatada em 21.3.2016, com supedâneo no CPC/1973 (fls. 40-41, e-STJ), não está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual merece prosperar a irresignação.
+8. Quanto à destinação dos honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais, o artigo 29 da Lei 13.327/2016 é claro ao estabelecer que pertencem originariamente aos ocupantes dos cargos das respectivas carreiras jurídicas.
+9. Recurso Especial parcialmente provido, para fixar os honorários advocatícios em 10% do valor da condenação, nos termos do artigo 85, § 3º, I, do CPC/2015.
+(REsp 1636124/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 27/04/2017 - destaques meus).
+RECURSO ESPECIAL. PROCESSO CIVIL. ARBITRAGEM. EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. [NOME]. EMBARGOS DO DEVEDOR. MÉRITO. COMPETÊNCIA DO JUÍZO ARBITRAL. QUESTÕES FORMAIS, ATINENTES A ATOS EXECUTIVOS OU DE DIREITOS PATRIMONIAIS INDISPONÍVEIS. COMPETÊNCIA DO JUÍZO ESTATAL. HONORÁRIOS ADVOCATÍCIOS. NATUREZA JURÍDICA. LEI NOVA. MARCO TEMPORAL PARA A APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA.
+1. A cláusula arbitral, uma vez contratada pelas partes, goza de força vinculante e caráter obrigatório, definindo ao juízo arbitral eleito a competência para dirimir os litígios relativos aos direitos patrimoniais disponíveis, derrogando-se a jurisdição estatal.
+2. No processo de execução, a convenção arbitral não exclui a apreciação do magistrado togado, haja vista que os árbitros não são investidos do poder de império estatal à prática de atos executivos, não tendo poder coercitivo direto.
+3. Na execução lastreada em contrato com cláusula arbitral, haverá limitação material do seu objeto de apreciação pelo magistrado. O Juízo estatal não terá competência para resolver as controvérsias que digam respeito ao mérito dos embargos, às questões atinentes ao título ou às obrigações ali consignadas (existência, constituição ou extinção do crédito) e às matérias que foram eleitas para serem solucionadas pela instância arbitral (kompetenz e kompetenz), que deverão ser dirimidas pela via arbitral.
+4. A exceção de convenção de arbitragem levará a que o juízo estatal, ao apreciar os embargos do devedor, limite-se ao exame de questões formais do título ou atinentes aos atos executivos (v.g., irregularidade da penhora, da avaliação, da alienação), ou ainda as relacionadas a direitos patrimoniais indisponíveis, devendo, no que sobejar, extinguir a ação sem resolução do mérito.
+5. Na hipótese, o devedor opôs embargos à execução, suscitando, além da cláusula arbitral, dúvidas quanto à constituição do próprio crédito previsto no título executivo extrajudicial, arguindo a inexistência da dívida pelo descumprimento justificado do contrato.
+Dessarte, deve-se reconhecer a derrogação do juízo togado para apreciar a referida pretensão, com a extinção do feito, podendo o recorrido instaurar procedimento arbitral próprio para tanto.
+6. O Superior Tribunal de Justiça propugna que, em homenagem à natureza processual material e com o escopo de preservar-se o direito adquirido, as normas sobre honorários advocatícios não são alcançadas por lei nova. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+7. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de esta Corte Superior reformar o acórdão recorrido após a vigência do novo CPC, incidem, quanto aos honorários, as regras do diploma processual anterior.
+8. Recurso especial provido.
+(REsp 1465535/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2016, DJe 22/08/2016 - destaque meu).
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Ante o exposto, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
