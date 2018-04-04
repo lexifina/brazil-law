@@ -26,6 +26,7 @@ Seção II
 Das Medidas Protetivas de Urgência que Obrigam o Agressor
 Seção III
 Das Medidas Protetivas de Urgência à Ofendida
+Seção IV
 Do Crime de Descumprimento de Medidas Protetivas de Urgência
 Descumprimento de Medidas Protetivas de Urgência
 CAPÍTULO III
