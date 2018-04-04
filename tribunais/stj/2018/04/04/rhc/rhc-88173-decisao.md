@@ -1,0 +1,7 @@
+DECISÃO
+1. Trata-se de RECURSO EM HABEAS CORPUS interposto em favor de MARLON LUCIO LADEIRA BALBINO e WESLEY LUCAS APOLINARIO VIEIRA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, que denegou a ordem no HC nº 1.0000.17.034853-6/000, aduzindo-se, em apertada síntese, a existência de ilegalidade a ser sanada pela via do presente recurso, uma vez que a prisão preventiva imposta seria desproporcional e desarrazoada.
+2. Das informações colhidas na página eletrônica da Corte Estadual, verifica-se que, em 31-1-2018, sobreveio a prolação de sentença, nos autos da ação penal n. 0024.17.088.806-9, condenando os recorrentes ao cumprimento de 6 (seis) anos de reclusão, em regime inicial fechado, mais pagamento de multa, pela prática do crime previsto no art. 33, caput, da Lei nº 11.343/06, ocasião em que lhes foi vedado o direito de apelar em liberdade.
+Na hipótese, resta prejudicado o presente recurso voltado a abordar a legalidade da prisão provisória aplicada aos recorrentes, visto que os fundamentos utilizados pelo Juízo sentenciante são diversos daqueles mencionados na decisão primeva, isto é, trata-se de decisão diferente da questionada na presente impetração, sendo, portanto, novo título cuja legalidade ainda não foi examinada pelo Tribunal originário.
+3. Diante do exposto, com fundamento no art. 34, inciso XI, do Regimento Interno deste Tribunal, julga-se prejudicado o recurso ordinário em habeas corpus, pela perda de seu objeto.
+Publique-se e intimem-se.
+Em seguida, arquivem-se os autos.
