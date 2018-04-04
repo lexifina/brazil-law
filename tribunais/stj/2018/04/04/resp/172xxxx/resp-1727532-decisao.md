@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por ELEKTRO REDES S.A fundado no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Nas razões do nobre apelo, a Recorrente debate, em síntese, os seguintes temas: a) prazo prescricional trienal do pedido de ressarcimento de valores despendidos para extensão de rede de eletrificação rural, por meio do Programa Luz da Terra, viabilizado por contrato de investimento financeiro firmado com o Banco Nossa Caixa S/A, e, subsidiariamente, aplicação do prazo quinquenal; b) marco inicial do prazo prescricional que, segundo sustenta, é a data da celebração do contrato de financiamento, e; c) legalidade da participação financeira do consumidor no custeio de obras de eletrificação rural, regulada pelo Decreto n.º 41.019/1957, com as alterações promovidas pelo Decreto n.º 98.335/1989, que prevê, em seus arts. 138 a 143 a possibilidade de financiamento da obra de energia elétrica pelo consumidor.
+É o relatório. Decido.
+Prazo prescricional e termo inicial:
+Quanto ao prazo prescricional e a seu marco inicial, verifica-se que o acórdão recorrido não debate tais temas, razão pela qual não merece guarida o apelo nesses pontos, em face da ausência do prequestionamento viabilizador da instância extraordinária. Aplicação das Súmulas n.os 282 e 356 do Supremo Tribunal Federal.
+Legalidade da participação financeira do consumidor no custeio de obras de eletrificação rural:
+A Segunda Seção deste Superior Tribunal de Justiça, consolidou seu entendimento acerca da referida matéria, no julgamento do Recurso Especial Repetitivo n.º 1.243.646/PR (Tema n.º 575/STJ), nos termos do acórdão assim ementado:
+"FINANCIAMENTO DE REDE DE ELETRIFICAÇÃO RURAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CUSTEIO DE OBRA DE EXTENSÃO DE REDE ELÉTRICA PELO CONSUMIDOR. ILEGALIDADE. NÃO OCORRÊNCIA. PEDIDO DE RESTITUIÇÃO. DESCABIMENTO.
+Para efeitos do art. 543-C do CPC:
+1. A participação financeira do consumidor no custeio de construção de rede elétrica não é, por si só, ilegal, uma vez que, na vigência do Decreto n. 41.019/57, havia previsão normativa de obras que deviam ser custeadas pela concessionária (art. 141), pelo consumidor (art. 142), ou por ambos (art.138 e art. 140).
+2. Em contratos regidos pelo Decreto n. 41.019/57, o consumidor que solicitara a extensão da rede de eletrificação rural não tem direito à restituição dos valores aportados, salvo na hipótese de (i) ter adiantado parcela que cabia à concessionária - em caso de responsabilidade conjunta (arts. 138 e 140) - ou (ii) ter custeado obra cuja responsabilidade era exclusiva da concessionária (art. 141). Leva-se em consideração, em ambos os casos, a normatização editada pelo Departamento Nacional de Águas e Energia Elétrica - DNAEE, que definia os encargos de responsabilidade da concessionária e do consumidor, relativos a pedidos de extensão de redes de eletrificação, com base na natureza de cada obra.
+3. À míngua de comprovação de que os valores cuja restituição se pleiteia eram de responsabilidade da concessionária, não sendo o caso de inversão do ônus da prova e não existindo previsão contratual para o reembolso, o pedido de devolução deve ser julgado improcedente.
+4. No caso concreto, os autores não demonstraram que os valores da obra cuja restituição se pleiteia deviam ter sido suportados pela concessionária do serviço. Os recorrentes pagaram 50% da obra de extensão de rede elétrica, sem que lhes tenha sido reconhecido direito à restituição dos valores, tudo com base no contrato, pactuação essa que, ipso factum, não é ilegal, tendo em vista a previsão normativa de obra para cujo custeio deviam se comprometer, conjuntamente, consumidor e concessionária (arts. 138 e 140 do Decreto n. 41.019/57).
+5. Recurso especial não provido." (REsp 1243646/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10/04/2013, DJe 16/04/2013.) (grifo nosso).
+Na espécie, o acórdão recorrido, em juízo de retratação, decidiu em conformidade com essa orientação, in verbis:
+"Em relação a matéria de fundo - direito de ressarcimento - o decidido na decisão colegiada, diante do julgamento do Recurso Especial nº 1.243.646 - PR, acabou por não sofrer alterações, salientando - se a sua ementa:
+ ..
+Salienta-se também que no julgamento do Recurso Especial n REsp n. 1.418.19/SP, também de relatoria do Min. Luis Felipe Salomão, representativo de controvérsia, restou consignado expressamente a aplicabilidade do entendimento supramencionado às hipóteses do Programa "Luz da Terra", subsidiada pelo Governo do Estado de São Paulo.
+Conforme se depreende dos documentos juntados, no presente caso, a contratação discutida foi regida por norma especial estadual (Dec. Estadual n. 41.187, de 25/09/1996), que atribuiu à concessionária do serviço público a responsabilidade integral pelas despesas de investimentos da eletrificação rural no Estado de São Paulo, conforme art. 9o do mencionado decreto, in verbis:
+ ..
+Assim sendo, se subsume à hipótese prevista no art. 141 do Decreto n. 41.019/57:
+ .. " (fls. 311/313.)
+Ademais, para se refutar o referido fundamento acerca da comprovação da responsabilidade da empresa concessionária, necessário o reexame do substrato fático-probatório dos autos, o que é vedado pelo óbice sumular n.º 7/STJ.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários advocatícios nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o recurso especial foi interposto contra acórdão publicado ainda na vigência do Código de Processo Civil de 1973.
+Publique-se. Intimem-se.
