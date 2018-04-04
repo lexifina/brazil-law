@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do mesmo ente federativo que deu provimento à apelação da defesa para absolver o recorrido pela suposta prática da conduta descrita no artigo 33, caput, e § 4º, da Lei n. 11.343/2006 (e-STJ, fl. 209).
+Os elementos existentes nos autos indicam que o recorrente foi denunciado pela prática do crime de tráfico de entorpecentes, por ter sido apreendido na posse de 16 (dezesseis) pinos de cocaína, pesando aproximadamente 18,25 g, 12 (doze) pedras de crack, pesando aproximadamente 2,15 g e 3 (três) tabletes de maconha, pesando aproximadamente 2,92 g, incurso na conduta descrita no artigo 33, caput, c/c o artigo 40, inciso II, ambos da Lei n. 11.343/06 (e-STJ, fls 1/3).
+Julgada parcialmente procedente a imputação, o acusado foi condenado à pena de 2 (dois) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial aberto, substituída por duas restritivas de direitos e pagamento de 250 (duzentos e cinquenta) dias-multa, pelo crime do artigo 33, caput e § 4º, da Lei n. 11.343/06, (e-STJ, fl. 172).
+A sentença foi reformada pela Corte de origem, em apelação da defesa, para absolver o recorrido.
+Nas razões do presente apelo nobre (e-STJ, fls. 221/245), o Parquet alega violação dos artigos 33, § 4º, da Lei n. 11.343/06, e 155, 156, 239, e 386, inciso VII, do Estatuto Processual Penal, sustentando que a materialidade do delito de tráfico de drogas ficou evidenciado pelas provas existentes nos autos, devendo ser restabelecida a sentença condenatória.
+Aduz, ainda, que houve afronta aos artigos 384, caput, § 3º, e 386, inciso VII do Código de Processo Penal, 28 da Lei de Drogas, e 60 da Lei n. 9.099/95, ponderando que é indevida a absolvição do réu, uma vez que ao afastar o crime de tráfico e afirmar a existência do crime de uso de entorpecente a Corte estadual deveria remeter os autos ao Juizado Criminal para prosseguimento da ação penal.
+Requer, ao final, o provimento do especial para reforma do acórdão recorrido.
+Contrarrazoada a insurgência (e-STJ, fls. 252/257), após o juízo prévio de admissibilidade (e-STJ, fls. 259/268), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do inconformismo (e-STJ, fls. 283/287).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+No entanto, o recurso não comporta conhecimento, pelas razões a seguir expostas.
+Acerca da tipicidade do delito de tráfico de drogas, a Corte de origem assim se manifestou, litteris:
+O contexto probatório é duvidoso no que tange à tipicidade, e essa conclusão passa ao largo da credibilidade conferida aos depoimentos dos policiais. Aliás, a versão dessas testemunhas foi crucial para tornar certa a autoria. Não comprovado, pois, que Anderson trazia consigo aquelas drogas "para fornecimento a terceiros" (fl. 02v.), como constou na denúncia, impositiva sua absolvição. Isso porque há insuficiência de provas quanto à destinação imputada na denúncia. (e-STJ, fls. 209)
+Da leitura do trecho destacado, denota-se que, em relação à inexistência de provas acerca da tipicidade do crime de tráfico de drogas, para se proceder à desconstituição do julgado por suposta existência de prova, no intuito de abrigar o pleito condenatório, não encontra espaço na via eleita, dada a necessidade de revolvimento do acervo fático-probatório, procedimento exclusivo das instâncias ordinárias e vedado ao Superior Tribunal de Justiça em sede de recurso especial, a teor do óbice constante na Súmula n. 7 deste Sodalício.
+Nesse sentido vejam-se:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MATERIALIDADE. COMPROVAÇÃO. SÚMULA 07/STJ.
+Na espécie, a pretensão veiculada no apelo raro, consistente em comprovar a materialidade do crime previsto no art. 38 da Lei n. 9.605/98 esbarra no óbice da Súmula 07/STJ, uma vez que se mostra indispensável, para tanto, o reexame das provas coligidas aos autos. Agravo regimental desprovido.
+(AgRg no REsp 1.332.488/SC, FELIX FICHER, QUINTA TURMA, Julgado em 5/2/2015, DJe de 24/2/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. CRIME DE CONTRABANDO. FALTA DE DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. ALEGADA INÉPCIA DA DENÚNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. PEDIDO DE ABSOLVIÇÃO. ARGUIDA INEXISTÊNCIA DE DOLO. TESE DE QUE É INSUFICIENTE O EXAME PERICIAL INDIRETO PARA CARACTERIZAR A MATERIALIDADE. IMPOSSIBILIDADE DE AFERIÇÃO SEM A ADEQUADA INSTRUÇÃO CRIMINAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. A tese da defesa de atipicidade da conduta por ausência de dolo, decorrente do desconhecimento da origem estrangeira das máquinas caça-níqueis e de seus componentes eletrônicos, bem assim a falta de demonstração da materialidade, são pretensões que não podem ser conhecidas em sede de recurso especial. Com efeito, a pretensão demanda análise do conjunto fático-probatório, o que é inadmissível na via eleita, em face do óbice da Súmula n.º 07 desta Corte.
+4. Decisão agravada que se mantém por seus próprios fundamentos.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 302.793/ES, Rel. Min. LAURITA VAZ, QUINTA TURMA, julgado em 3/12/2013, DJe de 19/12/2013)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ATENTADO VIOLENTO AO PUDOR. AUTORIA E MATERIALIDADE. REEXAME. VERBETE N. 7 DA SÚMULA DO STJ. AGRAVO DESPROVIDO.
+- O acolhimento da pretensão recursal, no sentido de que existem provas suficientes para a condenação dos agravados, encontra óbice no enunciado n. 7 da Súmula do STJ, por demandar profundo revolvimento do conteúdo fático-probatório dos autos. Agravo regimental desprovido.
+(AgRg no Ag 1.4147.26/RS, SEXTA TURMA, Rel. Min. ERICSON MARANHO - Desembargador convocado do TJ/SP, julgado em 7/10/2014, DJe de 28/10/2014).
+Por sua vez, quanto à necessidade de remessa dos autos ao Juizado Especial Criminal para apurar o suposto crime de uso de entorpecentes, verifica-se que o tema não foi em nenhum momento apreciado pela Corte a quo.
+Caberia ao recorrente, ter provocado o pronunciamento do Tribunal de origem, levando as matérias em eventuais embargos de declaração, o que não ocorreu. Assim, inviável a análise da matéria por este Sodalício, pela ausência do prequestionamento, à luz dos óbices previstos nos Enunciados n.º 282 e n.º 356, ambos da Súmula do Supremo Tribunal Federal, aplicáveis por analogia ao recurso especial.
+É pacífico o entendimento nesta Corte de que "a configuração do prequestionamento pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a análise sobre a violação do preceito evocado pelo recorrente" (STJ - 2ª T., AgRg no AREsp 218932/RJ, rel. Min. Humberto Martins, DJe 10/10/2012).
+Nesse sentido, vejam-se:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DO ART. 33 § 4º, DA LEI N. 11.343/2006. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E N. 356 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão quanto à minorante da Lei Antidrogas não foi objeto de debate e discussão pelo Tribunal a quo em sede de apelação. Carece, assim, o tópico do adequado e indispensável prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas n. 282 e 356/STF.
+Agravo regimental desprovido.
+(AgRg no AREsp 1006738 / BA, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, Julgado em 18/04/2017, DJe 28/04/2017)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FALSIFICAÇÃO DE PAPÉIS PÚBLICOS. ALEGAÇÃO DE OFENSA AOS ARTS. 297 DO CP E 600 DO CPP. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DESCLASSIFICAÇÃO DA CONDUTA. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO PARA A REFORMA DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. O agravante não apresentou argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. A Corte de origem não emitiu nenhum juízo de valor acerca da tese jurídica levantada no recurso especial. Se não houve debate sobre o dispositivo legal tido por violado nem sobre a questão jurídica nele tratada, fica afastado o prequestionamento, explícito ou implícito, indispensável para o conhecimento do recurso especial.
+3. É de se destacar, outrossim, que, ainda que a violação de lei federal tenha origem no acórdão proferido pelo Tribunal local, o requisito do prequestionamento pode (e deve) ser suprido por meio dos embargos de declaração, que, in casu, não foram sequer opostos.
+4. A análise da tese defensiva de desclassificação da conduta exigiria, inevitavelmente, o reexame do conjunto fático-probatório dos autos, sobretudo diante das conclusões firmadas no Tribunal de origem, o que é inviável em sede de recurso especial, ante o óbice contido na Súmula 7/STJ.
+5. Agravo regimental improvido. (AgRg no AREsp 381.500/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 12/05/2015, DJe 25/05/2015).
+
+Ante o exposto, com fundamento no artigo 255, § 4º, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece do recurso especial.
+
+Publique-se. Intimem-se.
