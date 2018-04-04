@@ -1,0 +1,25 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. ENQUADRAMENTO. PRESCRIÇÃO DO FUNDO DE DIREITO. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO EM RECURSO ESPECIAL DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO. SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO. PROFESSORES CONTRATADOS PELA LEI 500/1974. INTERRUPÇÕES NO CONTRATO DE TRABALHO. ART. 2o. E PARÁGRAFOS DA LEI COMPLEMENTAR 1.010/2007. APLICABILIDADE. SUCESSIVAS CONTRATAÇÕES E DISPENSAS QUE NÃO AFASTAM O DIREITO DAS SERVIDORAS AO CORRETO ENQUADRAMENTO. SENTENÇA DE IMPROCEDÊNCIA REFORMADA.
+O fato de os servidores contratados nos termos da Lei 500/1974 terem sido dispensados antes da edição da Lei Complementar 1.010/2007 e readmitidos após a sua publicação não lhes retira o direito à permanência na condição de segurado da SPREV, tendo em vista que pertenciam ao quadro da Administração. RECURSO PROVIDO (fls. 641).
+2. Aos Embargos de Declaração opostos (fls. 650/651) foram dados provimento, por unanimidade (fls. 656/658), restando assim ementado:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO CARACTERIZADA. ALEGAÇÃO DE PRESCRIÇÃO DO FUNDO DE DIREITO NÃO EXAMINADA. DECLARAÇÃO QUE SE IMPÕE. PRESCRIÇÃO DO FUNDO DE DIREITO NÃO CARACTERIZADA. RELAÇÃO DE TRATO SUCESSIVO. EMBARGOS ACOLHIDOS, MANTIDO, NO ENTANTO, SEM MODIFICAÇÃO O DISPOSITIVO, PARA MANTER O PROVIMENTO DO APELO (fls. 657).
+3. Em suas razões recursais sustenta a parte agravante violação do art. 1o. do Decreto 20.910/1932 ao argumento de que ocorreu a prescrição do fundo de direito em face dos autores: [NOME], [NOME], [NOME], [NOME], [NOME] e [NOME], por haverem sido enquadrados pela Administração após a Lei Complementar Estadual 1.010/2007, pelo fato de a ação haver sido ajuizada em 12.9.2014.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 679/680), sobrevindo a interposição de Agravo (fls. 682/689).
+5. É o relatório, em síntese. Decido.
+6. Ao manifestar-se sobre a questão posta a debate, o Tribunal de origem, em sede de Embargos de Declaração, assim consignou:
+Assim, a análise quanto ao enquadramento ocorre em cada uma dessas contratações e seu resultado tem implicação tanto na classificação para atribuição de classes ou aulas, que se renova a cada ano, bem como nas questões previdenciárias, que permanecem intactas durante todo o contrato. Nesse passo, inafastável o reconhecimento de que a espécie cuida de relações de trato sucessivo, razão pela qual, deve ser afastada a alegada prescrição do fundo de direito (fls. 658).
+7. Dessa forma, desconstituir a conclusão a que chegou o Tribunal de origem, implicaria, necessariamente, em análise de legislação local, notadamente, da Lei Estadual 500/1974 e Lei Complementar Estadual 1.010/2007.
+8. Tal providência, no entanto, é vedada em sede de Recurso Especial, pelo óbice da Súmula 280/STF. A esse propósito:
+PROCESSO CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. ARGUIÇÃO GENÉRICA. SÚMULA 284/STF. DECADÊNCIA. AUSÊNCIA DE ATO DE EFEITO CONCRETO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. TERMO INICIAL. CIÊNCIA INEQUÍVOCA. VIOLAÇÃO DOS ARTS. 5o., I, DA LEI 12.016/2009 E 6o. DA LINDB. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ENQUADRAMENTO DE SERVIDORES. EXAME DE LEI LOCAL. SÚMULA 280/STF.
+1. Alegações genéricas quanto à prefacial de afronta ao art. 535 do Código de Processo Civil não bastam à abertura da via especial pela alínea a do permissivo constitucional, a teor da Súmula 284 do Supremo Tribunal Federal.
+2. A falta de combate a fundamentos do acórdão recorrido suficientes para mantê-lo justifica a aplicação da Súmula 283/STF.
+3. A fluência do prazo decadencial no mandado de segurança tem início a partir da ciência inequívoca dos efeitos do ato impugnado, o que se deu na espécie com o pagamento, na ausência de ato administrativo próprio.
+4. No apelo nobre, não é possível conhecer de questões que não foram debatidas na instância de origem ante a ausência de prequestionamento, nos termos da Súmula 211/STJ, sendo inaplicável nesta Corte o chamado prequestionamento ficto.
+5. A análise do recurso especial remete ao exame da Lei Estadual 3.226/2008, tarefa inadmissível no apelo nobre, nos termos da Súmula 280/STF.
+6. Agravo regimental não provido (AgRg no REsp. 1.303.693/AM, Rel. Min. CASTRO MEIRA, DJe 21.5.2013).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. CARREIRA. TRANSFORMAÇÃO DE CARGOS. REENQUADRAMENTO. NECESSIDADE DE ANÁLISE DE DIREITO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NÃO COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO (AgRg no AREsp. 177.051/RN, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 21.8.2012).
+9. Ante o exposto, nego provimento ao Agravo em Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+10. Publique-se. Intimações necessárias.
