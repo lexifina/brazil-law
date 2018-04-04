@@ -1,0 +1,69 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. AÇÃO COLETIVA. ASSOCIAÇÃO DE DEFESA DA CIDADANIA E DO CONSUMIDOR - ADECON. REPRESENTAÇÃO PROCESSUAL. NECESSIDADE DE AUTORIZAÇÃO EXPRESSA. ACÓRDÃO RECORRIDO QUE NÃO CONHECE DO AGRAVO INTERNO ANTE A INOVAÇÃO RECURSAL. TEMA 181/STF.
+1. O que se discute no presente recurso extraordinário é a legitimidade da associação para o próprio ajuizamento da ação civil pública em si, tendo em vista a necessidade de autorização expressa dos associados e não a legitimidade de consumidor individual que busca a execução de uma sentença proferida em ação civil pública já transitada em julgado.
+2. No que se refere ao argumento da recorrente de ilegimitidade da associação para ajuizamento da demanda coletiva, tendo em vista a necessidade de autorização expressa dos associados, verifica-se que a questão não foi conhecida pelo STJ, ante a conclusão de que consubstanciaria inovação recursal.
+3. O Supremo Tribunal Federal já declarou que não há repercussão geral quanto ao preenchimento dos requisitos de admissibilidade recursal de outros tribunais, pois a controvérsia se restringe ao exame da legislação infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Sérgio Kukina, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Napoleão Nunes Maia Filho e Raul Araújo.
+Convocado o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por TIM CELULAR S.A. contra decisão monocrática de minha relatoria que apreciou recurso extraordinário interposto com o objetivo de reformar acórdão do Superior Tribunal de Justiça ementado nos seguintes termos (fl. 225, e-STJ):
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. 1. PROPOSITURA POR ASSOCIAÇÃO. NECESSIDADE DE AUTORIZAÇÃO EXPRESSA DOS ASSOCIADOS. INOVAÇÃO RECURSAL. 2. TELEFONIA MÓVEL. ESSENCIALIDADE DO SERVIÇO. DIREITOS INDIVIDUAIS HOMOGÊNEOS. LEGITIMIDADE DA ASSOCIAÇÃO DE CONSUMIDORES. 3. PREENCHIMENTO DO TERMO DE GARANTIA. DEVER DE INFORMAÇÃO. DIREITO BÁSICO DO CONSUMIDOR. 4. AGRAVO DESPROVIDO.
+1. A necessidade de autorização expressa para ajuizamento de ação civil pública por associação de consumidores não objeto de impugnação no momento oportuno, mas tão-somente nas razões desta insurgência, configurando-se a inovação recursal.
+2. Os direitos dos consumidores de telefonia móvel possuem grande relevância social, tratando-se de direitos individuais homogêneos. Assim, as associações de defesa aos direitos do consumidor têm legitimidade ativa para a defesa dos direitos coletivos ou individuais homogêneos de toda a categoria que representa ou de apenas parte dela. Precedentes.
+3. O preenchimento do termo de garantia apenas concretiza a determinação legal imposta ao fornecedor, no art. 6º, III, do CDC, mormente em razão de não haver nenhum prejuízo à companhia telefônica.
+4. Agravo interno desprovido."
+Embargos de declaração rejeitados (fls. 264/267, e-STJ):
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. AUTORIZAÇÃO EXPRESSA. INOVAÇÃO RECURSAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer erro material, obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados."
+A decisão agravada negou seguimento ao recurso extraordinário nos termos da seguinte ementa (fl. 371, e-STJ):
+"RECURSO EXTRAORDINÁRIO. AÇÃO COLETIVA. ASSOCIAÇÃO DE DEFESA DA CIDADANIA E DO CONSUMIDOR - ADECON. REPRESENTAÇÃO PROCESSUAL. NECESSIDADE DE AUTORIZAÇÃO EXPRESSA. ACÓRDÃO RECORRIDO QUE NÃO CONHECE DO AGRAVO INTERNO ANTE A INOVAÇÃO RECURSAL. TEMA 181/STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+Nas razões do recurso interno, a agravante requer:
+"se digne V.Exa. reconsiderar a r. decisão monocrática, ou que o Agravo interposto seja provido pela Turma Julgadora, para determinar a remessa dos autos para o E. Supremo Tribunal Federal, para que aquela Colenda Corte possa enfrentar a questão apresentada pela TIM, com base no art. 1.037, § 9º e § 10 do CPC, constatando a distinção entre o Recurso Extraordinário interposto pela TIM e o paradigma mencionado, viabilizando, caso seja necessário, a interposição do Agravo previsto no art. 1.037, § 13, do CPC, sob pena de violação ao devido processo legal e à ampla defesa.
+Caso não seja este o entendimento, é necessário que se revogue a r. decisão agravada em razão da preclusão pro judicato, ocasionada pela decisão anteriormente proferida e publicada em 15.08.2017, que admitiu o Recurso Extraordinário da TIM em juízo de admissibilidade, sob pena de violação ao art. 505 do CPC. Como decorrência, deve-se encaminhar o presente Recurso Extraordinário para o E. STF, para o regular processamento.
+Finalmente, caso ainda não seja este o entendimento do Exmo. Ministro Vice-Presidente ou da Turma julgadora, faz-se necessário a reforma da r. decisão monocrática para que se reconheça que o Recurso Extraordinário interposto pela TIM não apresenta qualquer inovação recursal, conquanto a matéria em discussão foi apresentada nos autos na primeira oportunidade possível pela TIM, além de se tratar de matéria de ordem pública e que, portanto, reclama apreciação em qualquer instância, determinando-se a remessa dos autos para o E. Supremo Tribunal Federal" (fl. 397, e-STJ).
+Impugnação (fls. 400/411, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. AÇÃO COLETIVA. ASSOCIAÇÃO DE DEFESA DA CIDADANIA E DO CONSUMIDOR - ADECON. REPRESENTAÇÃO PROCESSUAL. NECESSIDADE DE AUTORIZAÇÃO EXPRESSA. ACÓRDÃO RECORRIDO QUE NÃO CONHECE DO AGRAVO INTERNO ANTE A INOVAÇÃO RECURSAL. TEMA 181/STF.
+1. O que se discute no presente recurso extraordinário é a legitimidade da associação para o próprio ajuizamento da ação civil pública em si, tendo em vista a necessidade de autorização expressa dos associados e não a legitimidade de consumidor individual que busca a execução de uma sentença proferida em ação civil pública já transitada em julgado.
+2. No que se refere ao argumento da recorrente de ilegimitidade da associação para ajuizamento da demanda coletiva, tendo em vista a necessidade de autorização expressa dos associados, verifica-se que a questão não foi conhecida pelo STJ, ante a conclusão de que consubstanciaria inovação recursal.
+3. O Supremo Tribunal Federal já declarou que não há repercussão geral quanto ao preenchimento dos requisitos de admissibilidade recursal de outros tribunais, pois a controvérsia se restringe ao exame da legislação infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Nada a prover.
+Primeiramente, ressalte-se que a matéria discutida no recurso extraordinário interposto pela TIM é distinta do Tema 848/STF. O Tema 848 trata de execução de sentença condenatória genérica proferida em ação civil pública ajuizada por associação. No ARE 901.963 (leading case), suscitou-se a ilegitimidade ativa dos exequentes, ao argumento de que não deram autorização individual e específica à associação para os representarem no processo de conhecimento. O paradigma recebeu a seguinte ementa: "o fundamento da legitimidade ativa para a execução, no caso, dispensa exame sobre a necessidade de autorização das associações para a representação de seus associados. Em verdade, o que está em jogo é questão sobre limites da coisa julgada, matéria de natureza infraconstitucional cuja repercussão geral, inclusive, já foi rejeitada por esta Corte em outra oportunidade (ARE 748.371-RG, Rel. Min. GILMAR MENDES, DJe de 1º/8/2013)".
+O que se discute no presente recurso extraordinário é a legitimidade da associação para o próprio ajuizamento da ação civil pública em si, tendo em vista a necessidade de autorização expressa dos associados e não a legitimidade de consumidor individual que busca a execução de uma sentença proferida em ação civil pública já transitada em julgado, conforme explicitado acima.
+Da mesma forma, a hipótese dos autos também não se enquadra no Tema 499/STF, uma vez que o RE 612.043/PR (leading case) tratou de ação coletiva submetida ao rito ordinário, excluindo expressamente a ação civil pública e as ações coletivas de natureza consumerista, que é o caso dos autos (ação civil pública).
+Feitas essas considerações iniciais, passo à análise do agravo interno.
+Com efeito, no que se refere ao argumento da recorrente de ilegimitidade da associação para ajuizamento da demanda coletiva, tendo em vista a necessidade de autorização expressa dos associados, verifica-se que a questão não foi conhecida pelo STJ, ante a conclusão de que consubstanciaria inovação recursal, in verbis:
+"Inicialmente, oportuno assinalar que a questão referente à necessidade de autorização expressa dos associados não foi impugnada pela companhia telefônica no momento oportuno, tendo levantado a matéria somente neste momento processual, tratando-se, portanto, de inovação recursal.
+A propósito:
+PROCESSUAL PENAL. MEDIDA CAUTELAR DE ARRESTO E DE BLOQUEIO DE BENS. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. INOVAÇÃO RECURSAL. MEDIDA POSTULADA PARA FINS DE GARANTIR A REPARAÇÃO DO DANO. DECISÃO SUFICIENTEMENTE FUNDAMENTADA.
+1. A causa de pedir relativa à necessidade de manifestação de interesse da Fazenda Pública para legitimar o Ministério Público à postulação da medida de arresto e de bloqueio de bens não foi oportunamente suscitada na petição inicial do mandado de segurança, mas apenas na petição de interposição do recurso ordinário, configurando, assim, inovação recursal, insuscetível de conhecimento, sob pena de indevida supressão de instância.
+(..) 4. Agravo regimental desprovido. (AgRg no AREsp 665465/MG, Rel. Min. Humberto Martins, Segunda Turma, julgado em 16/04/2015, DJe 22/04/2015)" (fl. 228, e-STJ).
+Descabido, portanto, o argumento da agravante de que apresentou a tese na primeira oportunidade que lhe cabia para falar nos autos, visto ser inviável o conhecimento de tese que foi suscitada apenas em agravo interno, por constituir efetiva inovação recursal. De acordo com a jurisprudência do STJ, ainda que se trate de matéria de ordem pública, a análise da questão não dispensa o prequestionamento.
+O Supremo Tribunal Federal já declarou que não há repercussão geral quanto ao preenchimento dos requisitos de admissibilidade recursal de outros tribunais, pois a controvérsia se restringe ao exame da legislação infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+A propósito:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RECURSO DE REVISTA INADMITIDO PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL.
+1. O Tribunal de origem decidiu apenas sobre os pressupostos de admissibilidade de recurso de sua competência. Inexistência de questão constitucional a ser examinada (RE 598.365, Rel. Min. Ayres Britto - Plenário Virtual - Tema 181).
+2. Agravo interno a que se nega provimento." (ARE 657.828 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 31/3/2017, acórdão eletrônico DJe-135, divulgado em 21/6/2017, publicado em 22/6/2017.)
+No mesmo sentido é a jurisprudência desta Corte:
+"AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AFRONTA AOS PRINCÍPIOS DA AMPLA DEFESA, CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+3. A alegada violação do art. 5º, incisos XXIV e XXXVI, da CF, não foi suscitada nas razões do recurso extraordinário, tratando-se, portanto, de inovação recursal, que não pode ser analisada nesta fase processual, em razão da ocorrência da preclusão consumativa.
+Agravo interno improvido." (AgInt no RE na Pet no AREsp 883.781/RJ, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 30/6/2017, DJe 4/8/2017.)
+Sendo assim, da leitura da petição de agravo interno não se extrai argumentação relevante apta a infirmar os fundamentos do julgado ora recorrido. O recurso em análise, na verdade, nada acrescenta às razões anteriormente expendidas.
+Destarte, nada havendo a retificar ou esclarecer na decisão agravada, deve esta ser mantida por seus próprios e jurídicos fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
