@@ -1,0 +1,40 @@
+EMENTA
+EXECUÇÃO PENAL. RECURSO ESPECIAL. COMUTAÇÃO DE PENAS. DECRETO FEDERAL N.º 8.615/2015. FALTA GRAVE PRATICADA NO PERÍODO DE PROVA DO DECRETO. DOZE MESES ANTERIORES À PUBLICAÇÃO. RECONHECIMENTO DA INFRAÇÃO DISCIPLINAR HOMOLOGADO POSTERIORMENTE A ESSE PERÍODO. POSSIBILIDADE. REQUISITO SUBJETIVO NÃO CUMPRIDO. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público do Estado de São Paulo (fls. 57-86), em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (fls. 47-54).
+Depreende-se dos autos que o juiz da execução indeferiu pedido formulado pelo ora recorrido de que lhe fosse concedido o benefício da comutação de suas penas, com base no Decreto Presidencial 8.615/2015 (fl. 52).
+Irresignada, a Defesa interpôs agravo em execução, na eg. Corte estadual, que a ele deu provimento, para deferir a comutação de um quinto da pena remanescente do recorrido, na forma do art. 2.º do Decreto Presidencial n.º 8.615/2015 (fls. 47-54).
+Com fulcro no art. 105, inciso III, alíneas "a" e "c", da Constituição da República, o recorrente interpôs apelo nobre (fls. 57-86).
+Alega que a decisão da origem contrariou o art. 5.º, caput, do Decreto Presidencial n.º 8.615/2015 e deu ao referido dispositivo interpretação divergente da que lhe atribuiu julgado do Superior Tribunal de Justiça. Isso, porque, ao contrário do que consta do v. acórdão impugnado, "a prática de falta grave nos doze meses anteriores ao Decreto Presidencial obsta a concessão de indulto, mesmo que reconhecida judicialmente em data posterior a esse período" (fl. 74).
+Requer, ao final, seja o recurso provido, para restabelecer o r. decisum do juiz singular.
+A d. Subprocuradoria-Geral da República manifestou-se conforme parecer, cuja ementa colaciono a seguir:
+"RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO. COMUTAÇÃO DA PENA. DECRETO PRESIDENCIAL N.º 8.615/2015. FALTA GRAVE PRATICADA DENTRO DO PERÍODO DE DOZE MESES ANTERIOR À PUBLICAÇÃO DO DECRETO. HOMOLOGAÇÃO POSTERIOR. IRRELEVÂNCIA. ÓBICE À CONCESSÃO DO BENEFÍCIO. PRECEDENTES DO STJ. PARECER PELO CONHECIMENTO E PROVIMENTO DO RECURSO." (fl. 122).
+É o relatório.
+Decido.
+Neste apelo nobre, o recorrente sustenta que a decisão da origem contrariou o art. 5.º, caput, do Decreto Presidencial n.º 8.615/2015 e deu ao referido dispositivo interpretação divergente da que lhe atribuiu julgado do Superior Tribunal de Justiça, uma vez que concedeu ao apenado o benefício da comutação, desconsiderando a prática de falta grave no período de prova.
+No ponto, assim se manifestou a instância a quo:
+"O Decreto Presidencial 8.615/15 foi extremamente benéfico na concessão de indulto ou comutação. Assim, àqueles a quem não se aplicaria o benefício maior, deferiu a comutação para quem tivesse, até 25 de dezembro de 2015, cumprido um terço da pena, se reincidente, sendo-lhe comutado um quinto da pena restante (artigo 2.o). Vê-se, no ponto, não terem sido excluídos aqueles que houvessem praticado crime com violência ou grave ameaça a pessoa.
+Para os benefícios previstos, a norma concessiva pôs, unicamente, a exigência de que não houvesse o beneficiário sofrido sanção disciplinar por falta grave, nos últimos doze meses de cumprimento, retroativos a partir da publicação daquele decreto (art. 5.o); não alcançando o beneficio os condenados por crime de tortura, terrorismo ou tráfico ilícito de drogas, ou crime hediondo (art. 9o, incisos I, II e III).
+Postas as condições do indulto e da comutação, ao Poder Judiciário cabe verificar, nas situações concretas levadas a seu conhecimento, aquelas que preencham os requisitos determinados para a concessão. Não pode erigir outras, com isso invadindo a atribuição privativa de diferente Poder da República, o que é vedado no sistema constitucional.
+Na hipótese dos autos, o beneficio foi indeferido ao argumento de cometimento de falta grave nos doze meses anteriores ao cumprimento da pena, posto se manteve foragido de 11.5.2015 a 14.5.2015, com sua recaptura.
+O Decreto Presidencial 8.615/2015, estabeleceu, no artigo 5o: "A declaração do indulto e da comutação de penas previstos neste Decreto fica condicionada à inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave, prevista na Lei de Execução Penal, cometida nos doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2015."
+Portanto, tendo o ora agravante cumprido mais de um terço da pena e não existindo falta grave com sanção homologada pelo juízo, na forma do artigo 5.º do Decreto nº 8.615/2015, foi a pena atingida pela comutação de um quinto, conforme a norma contida no artigo 2.º, daquele decreto.
+Com efeito, era mesmo o caso de declarar a ocorrência da comutação.
+Ante o exposto, dá-se provimento ao agravo de [NOME], para deferir a comutação de um quinto da pena remanescente, na forma do artigo 2o do Decreto Presidencial nº 8.615/2015, apurando-se na execução o montante correspondente." (fls. 52-54)
+Assiste razão ao recorrente.
+In casu, o apenado teria praticado falta grave no período de prova do decreto de indulto, uma vez que se manteve foragido de 11.05.2015 a 14.05.2015, data da recaptura. O fato de a referida infração disciplinar só haver sido homologada, em juízo, posteriormente, não afasta o óbice à concessão do benefício, por não satisfeito o seu requisito subjetivo.
+Sobre o tema, vejam-se os julgados abaixo:
+"EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. COMUTAÇÃO DE PENA. NÃO IMPLEMENTO DO REQUISITO SUBJETIVO. FALTA GRAVE COMETIDA NO PERÍODO DE 12 MESES ANTERIORES À PUBLICAÇÃO DO DECRETO PRESIDENCIAL N. 8.615/2015. HOMOLOGAÇÃO POSTERIOR. IRRELEVÂNCIA.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, para fins de concessão de indulto ou comutação de penas, o prazo de 12 (doze) meses a que se refere o decreto presidencial diz respeito ao cometimento da falta grave e não a sua homologação ou eventual aplicação de sanção (AgRg no REsp 1593381/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 16/08/2016, DJe 24/08/2016).
+2. Na hipótese vertente, a falta grave ocorreu dentro do prazo previsto no art. 5º do Decreto n. 8.615/2015 (doze meses de cumprimento da pena, contados retroativamente a 25 de dezembro de 2015), a justificar o indeferimento do benefício.
+3. Agravo regimental não provido." (AgRg no REsp 1678011/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 20/09/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDULTO. DECRETO PRESIDENCIAL N. 8.172/2013. PRÁTICA DE FATO DEFINIDO COMO CRIME DOLOSO DURANTE O PERÍODO DE PROVA. FALTA GRAVE COM CONSECTÁRIOS LEGAIS PRÓPRIOS. HOMOLOGAÇÃO POSTERIOR. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+ ..
+2. A prática de novo fato definido como crime doloso durante o período de prova pode ensejar o reconhecimento de falta disciplinar de natureza grave, com consequências mais gravosas, previstas expressamente no art. 86, c/c o art. 88, ambos do CP, e 131 a 146 da LEP.
+3. O ato de indisciplina é apto a ensejar, mesmo sem a existência de novel condenação, a revogação cautelar do livramento condicional, nos termos do art. 145 da LEP.
+4. O prazo de doze meses a que se refere o Decreto Presidencial n. 8.172/2013 relaciona-se apenas ao cometimento da falta grave, e não à sua homologação judicial.
+ ..
+6. Agravo regimental não provido." (AgRg no AREsp 1.028.286/RJ, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 11/05/2017)
+Assim, considerando que o v. acórdão recorrido está em desconformidade com a jurisprudência desta Corte Superior de Justiça acerca do tema, incide a Súmula 568/STJ, que assim dispõe: " o  relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso, quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, para restabelecer a r. decisão do juiz singular, que indeferiu o benefício da comutação de penas.
+P. e I.
