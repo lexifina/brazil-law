@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado por Instituto Nacional do Seguro Social - INSS contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 796):
+ADMINISTRATIVO E CIVIL. AÇÃO REGRESSIVA. INSS. RESSARCIMENTO DE BENEFÍCIO. ACIDENTE DE TRABALHO. ARTIGO 120 DA LEI Nº 8.213/91. CONSTITUCIONALIDADE. CULPA CONCORRENTE NÃO CONFIGURADA.
+1. A constitucionalidade do artigo 120 da Lei nº 8.213/91 restou reconhecida por esta Corte, nos autos da Argüição de Inconstitucionalidade na AC nº 1998.04.01.023654-8. Portanto, se o benefício é custeado pelo INSS, este é titular de ação regressiva contra o responsável negligente, nos termos do artigo 120 da Lei nº 8.213/91, sem que tal previsão normativa ofenda a Constituição Federal.
+2. Não configura culpa por parte do acidentado quando este, mesmo agindo com certa imprudência, não teve qualquer treinamento para o exercício do labor. Não se pode esperar do empregado sem treinamento um comportamento adequado diante dos riscos da atividade que lhe foi incumbida.
+3. O artigo 120 da Lei nº 8.213/91 é claro ao vincular o direito de regresso da autarquia previdenciária à comprovação da negligência por parte do empregador quanto às normas padrão de segurança e higiene do trabalho, indicadas para a proteção individual e coletiva. Evidenciada a negligência da empresa, impõe-se o dever de ressarcir o INSS pelas despesas efetuadas com a concessão do benefício acidentário.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 398 do CC e Súmula 54/STJ, sustentando que os juros devem ser fixados a partir da data do dano, ou seja, a partir do pagamento do benefício.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feito esse registro, tenho que o recurso merece provimento.
+Sobre os juros, a jurisprudência desta Corte tem asseverado que eles incidem desde a data do evento danoso em casos de responsabilidade extracontratual, hipótese observada no caso em tela, nos termos da Súmula 54/STJ: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual".
+A respeito do tema, anote-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AÇÃO REGRESSIVA. ARTIGO 120 DA LEI 8.213/1991. ATUALIZAÇÃO MONETÁRIA. TAXA SELIC. ARTIGOS 37-A DA LEI 10.522/2002 E 61 DA LEI 9.430/1996. AUSÊNCIA DE PREQUESTIONAMENTO.
+SÚMULA 211/STJ. JUROS DE MORA. TERMO INICIAL. DATA DO EVENTO DANOSO.
+SÚMULA 54 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, PROVIDO.
+1. O Tribunal de origem não se manifestou sobre os artigos 37-A da Lei 10.522/2002 e 61 da Lei 9.430/1996, bem como sobre a respectiva tese de que após dezembro de 2008 a aplicação da taxa Selic é obrigatória para a atualização dos créditos das autarquias e fundações públicas. Portanto, desatendido, no ponto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+2. A ação regressiva intentada pelo INSS visa ressarcir os cofres públicos dos gastos com o pagamento de benefícios previdenciários oriundos de acidente de trabalho, causado pela negligência do empregador quanto à observância das normas de segurança e higiene do trabalho. Trata-se, em verdade, de responsabilidade extracontratual por ato ilícito, porquanto, o empregador, por culpa ou dolo, deixa de observar as normas de segurança do trabalho, conduta determinante para a ocorrência do acidente.
+3. Tratando-se de responsabilidade extracontratual por ato ilícito, os juros de mora deverão fluir a partir do evento danoso, nos termos da Súmula 54 do STJ, in verbis: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual".
+Precedente: REsp 1393428/SC, Segunda Turma, Relator Ministro Herman Benjamin, julgado em 21/11/2013, DJe 06/12/2013.
+4. Portanto, com relação às parcelas vencidas, os juros de mora deverão incidir a partir do evento danoso, nos termos da Súmula 54/STJ.
+5. Recurso especial parcialmente conhecido e, nessa parte, provido.
+(REsp 1.673.513/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/11/2017, DJe 01/12/2017)
+Ante o exposto, conheço do recurso especial e dou-lhe provimento para alterar os termo inicial dos juros de mora, para que esses incidam a partir do evento danoso.
+Publique-se.
