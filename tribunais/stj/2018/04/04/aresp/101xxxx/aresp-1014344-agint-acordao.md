@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. TEMA 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. TEMA 181/STF.
+1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral quanto à questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF).
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Felix Fischer, Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por [NOME] DE SEGURIDADE SOCIAL contra decisão monocrática de minha lavra, objetivando modificar acórdão da Quarta Turma desta Corte assim ementado (fl. 1.372, e-STJ):
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. CONTRIBUIÇÕES PESSOAIS VERTIDAS PARA COMPLEMENTAÇÃO DE APOSENTADORIA. DESLIGAMENTO DO ASSOCIADO. DEVOLUÇÃO INTEGRAL. SÚMULAS 5 E 7 DO STJ. NÃO INCIDÊNCIA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que "O participante que se desligou da entidade fechada de previdência privada após a entrada em vigor do Decreto 2.111/96 tem direito à restituição integral das contribuições pessoais vertidas ao plano de benefícios ao qual estava vinculado. Precedentes da 2ª Seção" (AgRg no REsp 882.531/RN, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe de 10/08/2015).
+2. A análise da controvérsia prescinde de interpretação de cláusulas contratuais, bem assim de novo exame de provas e de fatos, razão pela qual não incidem os óbices previstos nas Súmulas 5 e 7 desta Corte.
+3. Agravo interno ao qual se nega provimento."
+A decisão agravada negou seguimento ao recurso extraordinário, nos termos do art. 1.030, inciso I, alínea "a", do Código de Processo Civil, conforme ementa a seguir transcrita (fl. 1.399, e-STJ):
+"RECURSO EXTRAORDINÁRIO. MOTIVAÇÃO DAS DECISÕES JUDICIAIS. FUNDAMENTAÇÃO SUFICIENTE. TEMA 339/STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+Reitera a parte agravante a alegação de negativa de prestação de tutela jurisdicional, em contrariedade do art. 93, IX, da Constituição da República, ao defender, em síntese, a ausência de fundamentação dos julgados. Pugna pelo provimento do presente recurso.
+Impugnação apresentada (fls. 1.416/1.420, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. TEMA 339/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. TEMA 181/STF.
+1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral quanto à questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF).
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS(Relator):
+Não merece reparos a decisão agravada.
+Reitera a parte agravante a alegação de negativa de prestação de tutela jurisdicional, em contrariedade do art. 93, IX, da Constituição da República, ao defender, em síntese, a ausência de fundamentação dos julgados.
+Conforme assentado na decisão agravada, quanto à alegada ofensa ao art. 93, inciso IX, da Constituição Federal por violação do dever de fundamentação no acórdão recorrido, consignou-se que a questão foi decidida pelo Supremo Tribunal Federal, no regime da repercussão geral, por ocasião do julgamento do AI-RG-QO n. 791.292/PE, relatado pelo Ministro Gilmar Mendes nos termos da seguinte ementa, in verbis:
+"Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral." (STF, AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes, DJe de 13/8/2010 - Tema n. 339 da sistemática da repercussão geral.)
+Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes.
+Assim, para efeito de análise de conformidade da decisão com o decidido sob o regime de repercussão geral, deve ser verificado se o aresto atacado possui motivação suficiente à solução da controvérsia ou se, à míngua da satisfação desse requisito, caracterizou-se a afronta ao princípio constitucional inscrito no inciso IX do art. 93 da Constituição Federal.
+No mesmo sentido:
+" ..  2. O Plenário do Supremo Tribunal Federal, ao julgar o AI 791.292-QO-RG, Rel. Min. Gilmar Mendes/Tema 339, reconheceu a repercussão geral do tema negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão .  .. " (ARE 1044216 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/6/2017, PROCESSO ELETRÔNICO DJe-177 DIVULG 10/8/2017 PUBLIC 14/8/2017.)
+Importante consignar, também, que, nesta fase processual, a análise da questão constitucional ora em comento está adstrita à aferição da existência ou não de fundamentação suficiente para lastrear o acórdão recorrido. Por conseguinte, a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+No caso dos autos, a decisão recorrida apresenta fundamentação suficiente para justificar as razões de não provimento do recurso especial. É o que se depreende do seguinte excerto do voto condutor (fls. 1.366/1.367, e-STJ):
+"Não prospera a alegação de que o acolhimento da pretensão da parte ora recorrida representa ofensa às Sumulas 5 e 7 desta Corte, pois a análise da possibilidade de retenção de parte das contribuições realizadas pelo participante do plano ao longo dos anos, quando de seu desligamento, não exige a análise de matéria fática, tampouco existe dúvida quanto à necessária devolução integral de tal montante.
+Destarte, confira-se tal entendimento: "O participante que se desligou da entidade fechada de previdência privada após a entrada em vigor do Decreto 2.111/96 tem direito à restituição integral das contribuições pessoais vertidas ao plano de benefícios ao qual estava vinculado. Precedentes da 2ª Seção" (AgRg no REsp 882.531/RN, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe de 10/08/2015).
+Ademais, a Segunda Seção desta Corte, no julgamento do Recurso (REsp 871.806/RN, Rel. Ministro ARI PARGENDLER, Rel. p/ acórdão Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 28/05/2008, DJe de 24/09/2009), consolidou o entendimento de que é vedada a retenção parcial das contribuições pessoais vertidas pelos participantes que, após a alteração do art. 31 do Decreto nº 81.240 de 1978, pelo Decreto nº 2.111 de 1996, se desligaram dos planos de benefícios".
+Logo, não subsiste a alegação de ofensa ao art. 93 da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+Quanto às demais alegações recursais, cumpre destacar que o acórdão recorrido se firmou apenas na ausência de preenchimento dos requisitos de admissibilidade necessários à análise do mérito recursal, em razão da incidência dos óbices das Súmulas 5 e 7 do STJ.
+Nesse contexto, o Pretório Excelso já se pronunciou no sentido de que não existe repercussão geral quando a matéria versar sobre pressupostos de admissibilidade de recurso, pois a solução da controvérsia envolve o exame, tão somente, de legislação infraconstitucional, o que configuraria, em última análise, apenas situação de ofensa indireta ou reflexa ao texto constitucional. A propósito, confira-se a ementa do seguinte julgado da Suprema Corte:
+A propósito, a ementa do julgado paradigma:
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608." (RE 598.365 RG, Rel. Ministro AYRES BRITTO, Tribunal Pleno, DJe de 26/3/2010, Tema 181 da sistemática da repercussão geral.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
