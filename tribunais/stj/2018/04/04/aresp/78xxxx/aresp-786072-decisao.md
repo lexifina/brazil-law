@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, assim fundamentada: (a) não ocorreu violação ao art. 535, I e II, do CPC/73; (b) não há falar em violação aos arts. 165 e 458, II, do CPC/73, porquanto o "acórdão recorrido dirimiu, fundamentadamente, as questões que foram submetidas ao colegiado  .. , não sendo legítimo confundir ausência de fundamentação com fundamentação sucinta, mormente quando contrária aos interesses da parte" (fl. 184); (c) "o recorrente pretende, por via transversa, a revisão de matéria de fato, apreciada e julgada com base nas provas produzidas nos autos, o que atrai a incidência da Súmula 7 do STJ" (fl. 185).
+Ocorre que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foram impugnados os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, o agravante se limitou a afirmar que a Corte de origem "deixou de apreciar matérias expostas nos recursos anteriores, daí a violação aos arts. 165, 458, II e 535, II, do CPC" (fl. 200). Não houve a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório, obscuro ou carente de fundamentação.
+Por outro lado, apesar de fazer menção à Súmula 7/STJ, a parte agravante não declinou os motivos que, no seu entender, ensejariam a não aplicação do referido óbice ao presente caso. Houve, apenas, alegação genérica de que "não há qualquer necessidade de incursão no conteúdo fático-probatório" (fls. 201).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, não conheço do agravo.
+Publique-se.
