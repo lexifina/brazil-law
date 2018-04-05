@@ -1,0 +1,31 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, I, DA LEI N. 8.137/90. VIOLAÇÃO AO ART. 45, § 1º, DO CÓDIGO DE PROCESSO PENAL - CPP. PRESTAÇÃO PECUNIÁRIA DESPROPORCIONAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, a redução do valor fixada para prestação pecuniária demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem, com base na prova dos autos, apresentou fundamentação concreta para entender que o valor encontra respaldo na dimensão dos danos causados pelo delito e na situação econômica do recorrente. Ademais, destacou que a defesa não fez prova alguma da hipossuficiência.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto contra decisão de fls. 676/681 que, com fundamento na Súmula 568/STJ, deu parcial provimento ao recurso especial para determinar que o Tribunal de origem imponha a multa prevista no art. 265 do CPP.
+O agravante sustenta que houve violação ao artigo 45, § 1º, do Código Penal - CP, porque o valor de R$ 10.000,00 fixado como pena pecuniária afeta o sustento de qualquer família, inclusive daquelas que estão acima da média nacional, em flagrante desproporcionalidade. Entende que não se aplica o óbice do revolvimento fático-probatório e que não se pode estipular o valor com base em possibilidade de parcelamento do pagamento. Destaca que o não cumprimento acarretará a conversão da pena pecuniária em privativa de liberdade.
+Requer, assim, o provimento do agravo regimental com provimento do recurso especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+Em que pese as razões deduzidas pelo agravante, a decisão agravada merece ser mantida.
+Sobre a violação do art. 45, § 1º, do CP, o Tribunal de origem afirmou que a prestação pecuniária no valor de R$ 10.000,00 encontra respaldo nos danos do delito e na situação econômica do recorrente, sem perder a finalidade de prevenção e reprovação. Ainda, asseverou que a defesa não trouxe qualquer documento hábil da hipossuficiência. Cito trecho:
+Satisfeitos os requisitos do art. 44 do Código Penal, a sanção carcerária foi corretamente substituída por prestação de serviços à comunidade e pecuniária, no valor de RS 10.000,00 (dez mil reais). No ponto, em que pesem as alegações das partes, não antevejo qualquer razão para modificar o julgado.
+Por certo, na fixação da prestação pecuniária, deve o julgador considerar os fatores estabelecidos no artigo 45 do Código Penal, de modo a não torná-la tão diminuta a ponto de mostrar-se inócua, nem tão excessiva inviabilizando seu cumprimento, sendo suficiente para a prevenção e reprovação do crime praticado, dos danos dele decorrentes e a situação econômica do condenado.
+Afora isso, o argumento de hipossuficiência econômica não é motivo para impedir, por si só, a adoção da reprimenda pecuniária, ainda mais quando desprovido de qualquer documento hábil a demonstrar suas alegações. É possível ao Juízo da Execução adequar as condições de adimplemento à realidade financeira do acusado, autorizando, inclusive, o parcelamento do valor devido, como permite o artigo 50 do Código Penal, aplicado à situação por analogia.
+De fato, para se concluir de forma diversa do entendimento do Tribunal de origem, seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Confiram-se, nesse sentido, os precedentes desta Corte:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESTAÇÃO PECUNIÁRIA. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA PROPORCIONALIDADE. REDUÇÃO QUE EXIGIRIA O REEXAME DO CONJUNTO PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Fixada a prestação pecuniária em 6 (seis) salários mínimos fundamentadamente pela Corte de origem, tendo em vista a profissão declarada pelo réu e a ausência de informações sobre a sua situação financeira, mostra-se inviável o exame da alegação de negativa de vigência ao § 1º do art. 45 do Código Penal, em razão de suposta inobservância do princípio da proporcionalidade, ante a inafastável necessidade de reexame do conjunto fático-probatório, medida sabidamente incompatível com a via do recurso especial, ante o óbice da Súmula 7 desta Corte.
+2. Agravo regimental improvido (AgInt no REsp 1468438/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 04/10/2017).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. AUSÊNCIA DE RAZÕES JURÍDICAS DA VULNERAÇÃO. MALFERIMENTO AO ART. 381 DO CPP. AFRONTA GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. OFENSA AO ART. 45, § 1º, DO CP. PENA PECUNIÁRIA. REDUÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. (I) - ART. 255/RISTJ. INOBSERVÂNCIA. (II) - ACÓRDÃOS PARADIGMAS PROFERIDOS EM HABEAS CORPUS. IMPROPRIEDADE. (III) - REEXAME DE FATOS E PROVAS. INADMISSÃO. SÚMULA 07/STJ. CONTRARIEDADE AO ART. 93, IX, DA CF. MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. É pacífico que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar o quantum adequado a ser fixado a título de prestação pecuniária, com base nas condições econômicas do acusado e no efetivo prejuízo sofrido pela vítima. Impedimento do enunciado nº 7 da Súmula desta Corte.
+ ..
+6. Agravo regimental a que se nega provimento (AgRg no AREsp 844.360/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 17/06/2016).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
