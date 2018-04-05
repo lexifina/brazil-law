@@ -1,0 +1,69 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REVISÃO DE CONTRATO. CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE DE LIQUIDAÇÃO. APURAÇÃO MEDIANTE CÁLCULOS ARITMÉTICOS. PRECEDENTES. SÚMULA Nº 568 DO STJ. EXCESSO DE EXECUÇÃO. TRIBUNAL DE ORIGEM CONSIGNOU A INEXISTÊNCIA DE COMPROVAÇÃO DO EXCESSO DA EXECUÇÃO, MAS MERA ALEGAÇÃO GENÉRICA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Da leitura da minuta de agravo de instrumento interposto que deu origem a este recurso, pode-se inferir que PATRICIA MARQUES DO NASCIMENTO (PATRICIA) ajuizou ação de revisão de contrato contra BANCO SANTANDER (BRASIL) S.A. (SANTANDER) que foi julgada procedente.
+Na fase de cumprimento de sentença, PATRICIA pleiteou o pagamento da quantia de R$ 15.132,96 (quinze mil cento e trinta e dois reais e noventa e seis centavos).
+O SANTANDER foi intimado, nos termos do art. 475-J do CPC/73, a pagar o valor, no prazo de 15 dias, sob pena de incidir a multa de 10%.
+Após sua intimação, o SANTANDER apresentou impugnação ao cumprimento de sentença afirmando a inadequação do procedimento adotado porque a sentença é ilíquida, sendo necessária a sua liquidação.
+O Juiz de piso indeferiu a impugnação.
+Contra essa decisão, SANTANDER interpôs agravo de instrumento afirmando que a sentença deveria ter sido liquidada, nos termo do art. 475-A do CPC/73 e que não foi oportunizada a vista do cálculo violando o princípio do contraditório e da ampla defesa.
+O Tribunal de origem negou provimento ao recurso em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA REVISIONAL DE CONTRATO DE FINANCIAMENTO E REVISÃO DE CÁLCULOS C/C CONSIGNAÇÃO EM PAGAMENTO COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. DECISÃO QUE REJEITA A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA OFERECIDA PELO BANCO. EXCESSO DE EXECUÇÃO NÃO VERIFICADO. ALEGAÇÃO DE NULIDADE DO PROCEDIMENTO, REJEIÇÃO. DESNECESSIDADE DE LIQUIDAÇÃO. TITULO EXECUTIVO HÁBIL. CÁLCULO IMPUGNADO DE; FORMA GENÉRICA. LIQUIDAÇÃO. MEROS CÁLCULOS: PELO AUTOR/EXEQUENTE. INTELIGÊNCIA DOS ARTIGOS 475-B C/C ART.475-J DO CPC. CELERIDADE PROCESSUAL E REDUÇÃO DE CUSTOS DA EXECUÇÃO DA SENTENÇA. PRECEDENTES DESTA CORTE. PROCESSO QUE CONTÉM TODOS OS PARÂMETROS NECESSÁRIOS PARA A APURAÇÃO DO VALOR DEVIDO. RECURSO DESPROVIDO (e-STJ, fl. 154).
+Irresignado, o SANTANDER interpôs recurso especial com fulcro no art. 105, III, a, da CF, sustentando a violação dos arts. (1) 475-A do CPC/73 em virtude da necessidade de prévia liquidação da sentença; e, (2) 884 do CC/02, 475-L, V, do CPC/73 porque há excesso no cálculo apresentado.
+O apelo nobre não foi admitido em virtude do óbice da Súmula nº 7 do STJ quanto ao tema da necessidade de liquidação da sentença e da Súmula nº 283 do STF porque o SANTANDER apresentou impugnação genérica ao fundamento do acórdão recorrido quanto ao tema do excesso de execução.
+Nas razões do seu agravo em recurso especial, SANTANDER afirmou que não incide o óbice da Súmula nº 7 do STJ porque se trata da negativa de vigência aos artigos relacionados à liquidação de sentença e houve impugnação aos fundamentos do acórdão recorrido, sendo devido, ainda, o afastamento do óbice da Súmula nº 283 do STF.
+É o relatório.
+DECIDO.
+CONHEÇO do agravo e passo ao julgamento do recurso especial interposto às e-STJ, fls. 170/181.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da liquidação de sentença
+O SANTANDER sustentou a violação do art. 475-A do CPC/73 em virtude da necessidade de prévia liquidação da sentença. Afirmou que a apresentação de petição requerendo o cumprimento de sentença e a demonstração de cálculo unilateral, sem a prévia defesa, são medidas equivocadas e abusivas, sendo necessária a apuração do valor.
+O Tribunal de origem consignou que o cumprimento da sentença dependia apenas de cálculos aritméticos e que o rito a ser seguido era o previsto nos arts. 475-B e 475-J do CPC/73, fazendo-o nos seguintes termos:
+A Agravante busca o provimento do recurso para reformar a decisão proferida no mov. 39, tendo em vista a constatação de excesso e a necessidade de prévia liquidação do julgado e, ainda, seja extinto o cumprimento de sentença, face a inexistência de título executivo hábil.
+Diante da análise processual, observa-se que, a liquidação, no caso, depende apenas de cálculos aritméticos, todos a cargo do credor, não havendo, de conseguinte, outra forma de se cumprir a sentença em comento senão na forma requerida pelo Agravado, em petição devidamente aparelhada pela memória de cálculo prevista na lei processual (mov. 14).
+Com efeito, se na apuração do montante da condenação bastar a feitura de cálculos, sem que se tenha que aferir ou avaliar danos, ou comprovar fato novo, o rito a ser seguido é o do art. 475-B c/c art. 475-J do CPC.
+E a sistemática introduzida pela Lei nº 11.232/05, vale dizer, atribuiu ao credor o dever de proceder a esses cálculos, aparelhando seu pedido inicial com a memória de cálculo discriminada e atualizada do débito. Descabe, pois, a liquidação por arbitramento, porque, a princípio, perícia nenhuma há que ser realizada; do contrário, estar-se-á, a bem da verdade, subvertendo a intenção do legislador, de abreviar e diminuir custos do feito executivo, tudo em nome da efetividade (art. 5º, LXXVIII, da CF) (e-STJ, fls. 159/160).
+ ..
+Prescinde de prévia liquidação quando o valor exequendo for aferível por meros cálculos aritméticos, razão pela qual basta a credora, com base no dispositivo, instruir seu pedido de cumprimento de sentença com a memória discriminada e atualizada do cálculo, na forma do artigo 475-J do referido diploma legal.
+Desta forma, não prospera a tese do Agravante para que a liquidação de sentença se dê conforme a norma contida no art. 475-A do CPC/1973, bastando que a liquidação se dê por meros cálculos  ..  (e-STJ, fls. 152/166).
+A jurisprudência desta Corte já consolidou o entendimento que quando a apuração do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, sendo suficiente a instrução do pedido com a memória discriminada e atualizada do cálculo.
+Nesse sentido confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FASE DE LIQUIDAÇÃO. PROVA ATUARIAL. REEXAME DA MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. FUNDAMENTO SUFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, e não havendo a necessidade de perícia ou de se alegar ou produzir fato novo, não há falar em liquidação por arbitramento ou por artigos.
+3. Rever as conclusões do tribunal quanto à necessidade de realização de perícia atuarial demandaria análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. A interposição do recurso especial, deixando a parte recorrente de infirmar especificamente os fundamentos suficientes do acórdão, atrai a incidência da Súmula nº 283 do Supremo Tribunal Federal.
+5. Agravo interno não provido.
+(AgInt no AREsp 913.610/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/11/2017, DJe 4/12/2017 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE DE LIQUIDAÇÃO POR ARBITRAMENTO. APURAÇÃO MEDIANTE CÁLCULOS ARITMÉTICOS. INTIMAÇÃO. NULIDADE. INEXISTÊNCIA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa aos arts. 165, 458 e 535 do Código de Processo Civil de 1973 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. É pacífico o entendimento de que a fase de liquidação de sentença não constitui etapa obrigatória para o cumprimento de sentença, quando a apuração do valor exequendo depender apenas de cálculos aritméticos.
+3. Hipótese em que o Tribunal de origem verificou que o acórdão exequendo não determinou que a liquidação de sentença se desse por arbitramento, sendo viável a apuração do valor exequendo por cálculos aritméticos, e que a decisão que homologou os cálculos apresentados pelos agravados não foi impugnada no momento oportuno e transitou em julgado, embora tenha a agravante sido intimada por duas vezes para se manifestar.
+4. A reforma do acórdão recorrido, na forma requerida pela agravante, demandaria a revisão do contexto fático-probatório dos autos, o que é inviável nesta instância especial, a teor da Súmula 7/STJ.
+5. Constando do acórdão impugnado que a agravante foi intimada, na pessoa do advogado, mediante publicação no Diário Oficial, acerca dos cálculos apresentados, não se verifica nenhuma nulidade.
+6. Agravo interno não provido.
+(AgInt no REsp 1.182.789/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 12/9/2017, DJe 2/10/2017)
+Assim, o acórdão recorrido encontra-se em consonância com o entendimento desta Corte não merecendo qualquer reparo.
+Obter dictum, nas razões do seu agravo de instrumento o SANTANDER consignou que a ação foi julgada procedente, tendo sido declarada a ilegalidade da capitalização mensal dos juros e a repetição e/ou compensação das quantias pagas a maior, sendo forçoso reconhecer que a apuração de tais quantias não depende de qualquer liquidação, mas mera confecção de cálculo aritmético.
+O recurso não deve ser provido em virtude do óbice da Súmula nº 568 do STJ.
+(2) Do excesso de execução
+O SANTANDER afirmou, ainda, a violação dos arts. 884 do CC/02, 475-L, V, do CPC/73 porque há excesso no cálculo apresentado. Alegou que após a intimação para pagamento verificou que os cálculos utilizados utilizam metodologia contrária àquela firmada na sentença.
+O Tribunal de origem rejeitou a alegação de excesso de execução porque não foi apontado nenhuma incongruência no cálculo apresentado, tendo sido genérica a impugnação apresentada, in verbis:
+Alega o Agravante (mov.46.3) que o cálculo apresentado pela Agravada não merece prospera, eis que não teria observado o ordenamento judicial vigente, portanto o valor de R$ 15.132,96 (quinze mil, cento e trinta e dois reais e. noventa e seis centavos) estaria equivocado.
+A Instituição Bancária não aponta especificamente as incongruências existentes no cálculo apresentado pela Agravada, limitando-se a informar que os cálculos foram realizados unilateralmente, com a utilização de índices estranhos ao cerne da contratação.
+A despeito do alegado, não há específica demonstração de onde estaria o suposto excesso afirmado e, embora demonstre o valor que entende ser correto, não apresenta justificativa de como chegou a referido valor que acusa ser devido.
+Com isso, tem-se que a impugnação apresentada pelo Agravante é genérica, pois faz meras digressões sobre o tema, sem demonstrar qualquer indício de irregularidades nos cálculos dos valores apontados pela credora  ..  (e-STJ, fls. 152/166).
+Portanto, rever as conclusões alcançadas pelo Tribunal de origem quanto à ausência de indicação do excesso de execução e da incorreção do cálculo apresentado, demandaria o reexame do conjunto fático probatório dos autos o que se mostra inviável nesta instância recursal.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO GENÉRICA DE OFENSA À LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 284/STF. EXCESSO NÃO DEMONSTRADO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. No que concerne ao art. 46 da Lei nº 8.541 de 1992, apontado como violado, a parte recorrente não desenvolveu argumentação que evidenciasse a ofensa, caracterizando a deficiência na fundamentação do apelo especial, circunstância que atrai, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal.
+2. O acórdão recorrido, analisando o acervo fático-probatório dos autos, especialmente a perícia contábil, concluiu que não há excesso de execução e que não foi apresentado pelo recorrente demonstrativo de cálculo a fim de comprovar suas alegações. A alteração da conclusão do Tribunal de origem importaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada em sede especial, a teor da Súmula 7 do STJ.
+3. Agravo interno ao qual se nega provimento.
+(AgInt no AREsp 362.571/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 21/2/2017, DJe 14/3/2017)
+O recurso não pode ser provido quanto ao tema em virtude do óbice da Súmula nº 7 do STJ.
+Nessas condições, com fundamento no art. 932, do NCPC c/c o art. 255, III, do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo e NEGO PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários advocatícios porque não fixados na instância ordinária.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
