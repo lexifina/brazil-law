@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESTADO DO RIO DE JANEIRO, pretendendo a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 74):
+AGRAVO INTERNO EM FACE DE DECISÃO SINGULAR DO RELATOR QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO INTERPOSTO PELO AGRAVANTE. DECISÃO INTERLOCUTÓRIA QUE ACOLHEU PARCIALMENTE A EXCEÇÃO DE PRÉ-EXECUTIVIDADE - É assente na doutrina e na jurisprudência o cabimento da exceção de pré-executividade quando a parte argúi questões de ordem pública ou nulidades absolutas e matérias que dispensam, para seu exame, dilação probatória. Esse entendimento objetiva atender ao interesse público quanto à economia e celeridade processual. Precedentes do egrégio Superior Tribunal de Justiça. No caso, trata-se de excesso de execução por inobservância da forma de cálculo de atualização do valor cobrado. Art. 172 do Código Tributário Estadual. Atualização que somente incide sobre a valor principal do débito, por expressa previsão legal. RECURSO DESPROVIDO. OS ARGUMENTOS TRAZIDOS PELO AGRAVANTE NÃO ENSEJAM A MODIFICAÇÃO NO DECISUM ATACADO, QUE SE ENCONTRA BEM FUNDAMENTADO NA LEI E JURISPRUDÊNCIA. DESPROVIMENTO DO AGRAVO INTERNO.
+Rejeitados os aclaratórios (e-STJ fls. 87/93).
+No apelo nobre (e-STJ fls. 96/103), o recorrente, apontando violação dos arts. 165, 458, III, e 535, I e II, do CPC/1973, sustentou a nulidade do acórdão recorrido, por vício de fundamentação, pois teria deixado de se manifestar "sobre a aplicação do artigo 172 do Código Tributário Estadual (Decreto-lei 05/75), que dispõe que os juros e as multas "serão calculados sobre o principal devidamente atualizado".
+Sem contrarrazões (e-STJ fl. 108).
+O Tribunal de origem obstou o recurso especial por entender inocorrente o aventado defeito de motivação no acórdão recorrido (e-STJ fls. 109/114), não concordando o agravante com essa fundamentação (e-STJ fls. 117/123).
+Sem contraminuta (e-STJ fl. 125).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Pois bem.
+Decidiu o juízo de primeiro grau que "a Fazenda, ao atualizar o valor exequendo a fls. 120, o fez de maneira excessiva, posto que o débito utilizado na planilha de fls. 121 foi aquele apontado na inicial, cujo valor já havia sido anteriormente acrescido de multa e juros de mora"
+Isso considerado, não identifico a alegada deficiência de fundamentação do acórdão recorrido, assim desenvolvida:
+Com efeito, aqui não se está discutindo a possibilidade de Fazenda atualizar o débito exequendo e a possibilidade de substituição da Certidão da Dívida Ativa até a prolação da sentença.
+O que busca o executado na exceção de pré-executividade é afastar do cálculo da atualização o excesso demonstrado diante da forma de cálculo equivocada, que demanda mera análise objetiva quanto a correta aplicação da norma, sem necessidade de qualquer dilação probatória.
+Isso porque, nos termos do art. 172 do DL 05/75, o Código Tributário Estadual, a correção monetária, assim, como o acréscimo moratório e a multa, devem incidir sobre o valor principal:
+ ..
+Não obstante, a planilha apresentada pelo Estado, às fls. 121, demonstra o claro excesso da emenda, uma vez que a correção monetária incidiu sobre o total da dívida, incluindo a multa e os encargos moratórios.
+Com efeito, nas suas razões de decidir, a Corte estadual expressamente mencionou o art. 172 do Código Tributário Estadual, assentando o seu entendimento de que esse dispositivo determinaria que "a correção monetária, assim, como o acréscimo moratório e a multa, deve incidir sobre o valor principal" e, por isso, reconheceu o excesso de execução em razão de a atualização procedida pela Fazenda Pública, pois fez incidir correção monetária "sobre o total de dívida, incluindo a multa e os encargos moratórios".
+A bem verdade, sob pretexto de vício de motivação, a pretensão recursal da edilidade se volta mesmo contra a interpretação que o acórdão recorrido deu à lei local de regência, cuja revisão é inviável no âmbito do recurso especial, nos termos da Súmula 280 do STF.
+Não o bastante, segundo o que se depreende da sentença e do acórdão recorrido, o excesso de cobrança decorreu do fato de a Fazenda Pública ter atualizado com juros e multa o total do débito estampado na CDA, que já contemplaria tais consectários, sendo certo que as razões recursais não contrapõem essa possível cobrança em duplicidade.
+Afasto, pois, a alegada infringência aos arts. 165, 458 e 535 do CPC/1973
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial (art. 34, XXV, e 253, parágrafo único, II, "b", do RISTJ).
+Publique-se. Intimem-se.
