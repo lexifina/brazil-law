@@ -1,0 +1,16 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). CONVERSÃO DO FEITO EM RECURSO ESPECIAL PARA MELHOR ANÁLISE DA CONTROVÉRSIA. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, TORNAR SEM EFEITO A DECISÃO AGRAVADA E DETERMINAR A CONVERSÃO DO FEITO.
+DECISÃO
+Visto, etc.
+Trata-se de agravo interno interposto por BEM EMERGENCIAS MEDICAS LTDA, em face de decisão assim ementada:
+AGRAVOS EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. (CPC/1973).
+I - AGRAVO DE GREEN LINE SISTEMA DE SAÚDE S/A. VIOLAÇÃO AO ART. 422, DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. RAZÕES DO ESPECIAL DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ÓBICE DAS SÚMULAS 283 E 284/STF. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+II - AGRAVO DE BEM EMERGÊNCIAS MEDICAS LTDA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. JULGAMENTO ULTRA PETITA. INOCORRÊNCIA. FALHA NA PRESTAÇÃO DE SERVIÇO. RESPONSABILIDADE SOLIDÁRIA ENTRE A OPERADORA DO PLANO DE SAÚDE E O HOSPITAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REDUÇÃO DO QUANTUM INDENIZATÓRIO. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL NA PARTE CONHECIDA.
+Nas razões do agravo, a parte agravante repisa as alegações da peça inicial, aduzindo a) negativa de prestação jurisdicional, ao argumento de que o acórdão recorrido não analisou a preliminar arguida sobre a necessária declaração da nulidade do capítulo da r. sentença que extrapolou os limites fixados pelos pedidos iniciais e contradição, da condenação solidária da ora recorrente por serviço que reconhecidamente não foi efetivamente prestado; b) julgamento ultra petita, uma vez que foi arbitrado o valor da indenização por danos morais em montante que extrapolou o pedido; c) ilegitimidade passiva ad causam, haja vista que o pedido formulado na inicial não se direciona à agravante, uma vez que a negativa na prestação de serviços foi ensejada pelo plano de saúde que não disponibilizou e manteve atualizado o cadastro de seus beneficiários; d) inexistência de ato ilícito imputável à recorrente, que sequer chegou a integrar a relação de consumo, não havendo elementos para embasar a responsabilidade civil solidária e e) excesso no valor arbitrado à título de indenização.
+É o relatório.
+Passo a decidir.
+Primeiramente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 2/STJ.
+As razões veiculadas pelos agravantes mostram-se relevantes, exigindo assim, uma análise mais profunda, motivo pelo qual, exercendo o juízo de reconsideração facultado pelo art. 259 do Regimento Interno/STJ, torno sem efeito as decisões de fls. e-STJ 632/641 e e-STJ fls. 659/663.
+Ante o exposto, conheço do agravo para, em juízo de retratação, tornar sem efeito as decisões agravada de fls. e-STJ 632/641 e e-STJ fls. 659/663, determinando a reautuação do agravo como recurso especial a fim de permitir um melhor exame da controvérsia.
+Após a regularização do novo registro, voltem conclusos para julgamento do recurso especial.
+Intimem-se.o
