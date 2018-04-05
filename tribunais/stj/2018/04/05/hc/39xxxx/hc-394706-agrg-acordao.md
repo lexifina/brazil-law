@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL. APELAÇÃO PENDENTE DE JULGAMENTO. RECURSO NÃO PROVIDO.
+1. O recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição permite que o tribunal ad quem examine, com profundidade, todo o conjunto probatório colhido durante a instrução criminal. Assim, em princípio, a apelação é a via processual adequada para a impugnação de sentença condenatória recorrível, pois é esse recurso que devolve ao tribunal o conhecimento amplo de toda a matéria dos autos e permite a reapreciação de fatos e de provas.
+2. Embora seja passível a análise, em habeas corpus, da pretendida fixação do regime semiaberto de cumprimento de pena, considero que a apreciação dessas matérias implica considerações que merecem ser mais bem examinadas em apelação.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro. Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MICHEL RODRIGO DA FONSECA interpõe agravo regimental contra decisão monocrática de minha relatoria, em que não conheci do habeas corpus, por meio do qual se pretendeu a fixação do regime semiaberto.
+O agravante reitera a alegação de que é devida a análise, por este Superior Tribunal, das matérias aventadas no habeas corpus e salienta que, "se não existiam motivos para o aumento da pena base, por conseguinte não existem também motivos para a fixação da pena em regime mais gravoso do que aquele previsto em Lei como matematicamente razoável" (fl. 598).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado, para que seja fixado o regime semiaberto.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME INICIAL. APELAÇÃO PENDENTE DE JULGAMENTO. RECURSO NÃO PROVIDO.
+1. O recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição permite que o tribunal ad quem examine, com profundidade, todo o conjunto probatório colhido durante a instrução criminal. Assim, em princípio, a apelação é a via processual adequada para a impugnação de sentença condenatória recorrível, pois é esse recurso que devolve ao tribunal o conhecimento amplo de toda a matéria dos autos e permite a reapreciação de fatos e de provas.
+2. Embora seja passível a análise, em habeas corpus, da pretendida fixação do regime semiaberto de cumprimento de pena, considero que a apreciação dessas matérias implica considerações que merecem ser mais bem examinadas em apelação.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos aduzidos pelo ora agravante, deve a decisão recorrida ser mantida por seus próprios fundamentos.
+Diverge a doutrina e, sobretudo, a jurisprudência sobre a viabilidade de se examinar habeas corpus quando há apelação pendente de julgamento. Dúvidas não há de que, em se tratando de discussão acerca da liberdade de locomoção, diretamente afetada por ilegalidade ou abuso de poder, o cabimento do remédio heroico é indiscutível.
+Esse tema talvez tenha assumido notável relevância em razão do espectro de abrangência que tem sido dado, pela jurisprudência, ao habeas corpus. Se saudável foi a aceitação do writ como remédio para "todos os males", impõe definir os contornos da situação em que o mandamus é impetrado simultaneamente com o recurso de apelação e o assunto tratado naquele restringe-se a capítulo deste último.
+O recurso de apelação detém efeito devolutivo amplo, cujo âmbito de cognição permite que o tribunal ad quem examine, com profundidade, todo o conjunto probatório colhido durante a instrução criminal. Assim, em princípio, a apelação é a via processual adequada para a impugnação de sentença condenatória recorrível, pois é esse recurso que devolve ao tribunal o conhecimento amplo de toda a matéria dos autos, permitindo a reapreciação de fatos e de provas, com todas as suas nuanças, sem a limitação cognitiva da via mandamental.
+Por isso mesmo é que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, tem restringido o uso do remédio constitucional em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), bem como à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do(a) paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Assim, embora seja passível a análise, em habeas corpus, da pretendida alteração do regime inicial de cumprimento da pena, entendo que a apreciação dessas matérias implica considerações que merecem ser melhor examinadas em apelação, a qual se encontra na iminência de ser julgada pelo Tribunal de origem.
+Ressalto, portanto, ser indevida a subversão do sistema recursal e a avaliação, enquanto ainda não exaurida a prestação jurisdicional pelas instâncias ordinárias, das teses defensivas via os limites estritos do habeas corpus.
+Destaco, por fim, que, em consulta à página eletrônica da Corte estadual, verifiquei que a apelação criminal defensiva já está relatada e conclusa ao gabinete do Desembargador revisor. O recurso defensivo encontra-se, portanto, na iminência de ser julgado.
+Dessa forma, entendo irretocável o decisum ora agravado ao não ter conhecido do habeas corpus, em razão da pendência de julgamento do recurso de apelação, já interposto.
+À vista do exposto, nego provimento ao agravo regimental.
