@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 273/274):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. APELAÇÃO. EXIGÊNCIA DE PRÉVIO AGENDAMENTO E LIMITAÇÃO DE REQUERIMENTOS A SEREM PROTOCOLADOS. AFASTAMENTO. INOCORRÊNCIA DE VIOLAÇÃO AO ART. 3.º, DA LEI N.º 10.741/03. APELAÇÃO PROVIDA.
+1. Nos termos do inciso XIII do artigo 5º da Carta Magna, "É livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer", bem como "o advogado é indispensável à administração da justiça, sendo inviolável por seus atos e manifestações no exercício da profissão, nos limites da lei", conforme disposto no artigo 133 da mesma Carta.
+2. Consoante alínea "c" do inciso VI do artigo 7º da Lei nº 8.906/94, o advogado tem o direito de ingressar livremente; "c) em qualquer edifício ou recinto em que funcione repartição judicial ou outro serviço público onde o advogado deva praticar ato ou colher prova ou informação útil ao exercício da atividade profissional, dentro do expediente ou fora dele, e ser atendido, desde que se ache presente qualquer servidor ou empregado;".
+3. A exigência de prévio agendamento para protocolizar requerimentos de benefícios previdenciários junto ao Impetrado, bem como a limitação de protocolos por mês para cada advogado, acarretam restrição ao livre exercício da advocacia, sem que haja amparo legal para tanto. Precedentes dos C. STF e STJ.
+4. Não se vislumbra a violação às normas do Estatuto do Idoso, especialmente, àquela que estabelece a garantia de atendimento preferencial imediato e individualizado junto aos órgãos públicos, prevista no artigo 3º da Lei nº 10.741/2003, tendo o provimento jurisdicional se limitado a garantir ao impetrante o direito de protocolar múltiplos requerimentos de benefícios em um só atendimento, sem a necessidade de prévio agendamento junto ao INSS, o que não significa, de modo algum, a concessão de prestação de serviço ao impetrante em detrimento do atendimento prioritário a ser dispensado aos idosos.
+5. Trata-se da necessidade de a Digna Autoridade Administrativa sopesar a melhor forma de prestar atendimento eficiente aos idosos, às gestantes, aos deficientes e, evidentemente ao Digno Advogado impetrante, além do tratamento apropriado a ser dispensado a todos aqueles que buscarem a Agência do INSS, sempre observando os direitos e as garantias individuais, além das preferências estabelecidas por meio de lei.
+6. Merece reforma r. sentença para que a impetrante seja atendida no Posto do INSS, sem limitação à quantidade de requerimentos a serem protocolados, bem como independentemente de prévio agendamento.
+7. Apelação provida.
+A parte agravante, nas razões do especial, aponta violação aos arts. 7º, IV, c, da Lei 8.906/94; e 3º da Lei 10.741/2003, sustentando que: (I) o tratamento diferenciado imposto ao agravante não encontra respaldo legal, porquanto é dever do advogado submeter-se ao sistema de agendamento; e (II) o acórdão impugnado fere o Estatuto do Idoso ao dar tratamento preferencial ao advogado.
+O Ministério Público Federal opinou pelo não provimento do recurso especial (fls 319/322).
+É o relatório.
+Quanto ao tema, o Tribunal de origem confirmou a impossibilidade de impor limitações aos advogados no atendimento em posto do INSS, por compreender que
+"a exigência de prévio agendamento para protocolizar requerimentos de benefícios previdenciários junto ao Impetrado, bem como a limitação de protocolos por mês para cada advogado, acarretam restrição ao livre exercício da advocacia, sem que haja amparo legal para tanto" (fl. 269).
+Também consignou que
+"não se vislumbra a violação às normas do Estatuto do Idoso, especialmente, àquela que estabelece a garantia de atendimento preferencial imediato e individualizado junto aos órgãos públicos, prevista no artigo 3º da Lei nº 10.741/2003, tendo o provimento jurisdicional se limitado a garantir ao impetrante o direito de protocolar múltiplos requerimentos de benefícios em um só atendimento, sem a necessidade de prévio agendamento junto ao INSS, o que não significa, de modo algum, a concessão de prestação de serviço ao impetrante em detrimento do atendimento prioritário a ser dispensado aos idosos" (fl. 271).
+Como se percebe, o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que o advogado tem o direito de ser atendido nas repartições públicas sem a necessidade de prévio agendamento ou limitações no número de atendimentos.
+A propósito:
+PROCESSUAL CIVIL. ADVOGADOS. INSS. ATENDIMENTO. AGENDAMENTO. HORA MARCADA. ESTATUTO DA ADVOCACIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado por [NOME], advogada, ora agravada, contra ato do Instituto Nacional do Seguro Social - INSS, ora agravante, com o objetivo de lhe assegurar o direito de protocolizar mais de um requerimento de beneficios previdenciários ao mesmo tempo, independentemente de atendimento por hora marcada.
+2. O Juiz de primeiro grau denegou a segurança.
+3. O Tribunal a quo deu provimento à Apelação da ora agravada.
+4. Esclareça-se que o STF quando apreciou o Recurso Extraordinário 769.254/SP, afetado para a análise da existência de repercussão geral do Tema 741 (Validade da exigência do INSS de prévio agendamento para atendimento de advogados e da restrição a um único requerimento de benefício previdenciário por atendimento), entendeu pela sua inexistência por ser a matéria de cunho infraconstitucional.
+5. A Administração Pública não pode restringir o direito assegurado ao advogado pela Lei 8.906/1994, Estatuto da Advocacia, por razões de conveniência para o bom atendimento ao público.
+6. Como bem destacou o Tribunal de origem, somente a Lei poderá restringir os direitos dos advogados, que são indispensáveis à administração da justiça.
+7. Assim, os advogados devem ser atendidos, dentro do horário do expediente do Instituto Nacional do Seguro Social - INSS, diretamente pelo servidor, sem necessidade de agendamento pelo chamado "Atendimento por hora marcada".
+8. Agravo Interno não provido.
+(AgInt no AREsp 659.677/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/05/2017, DJe 17/05/2017)
+
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
