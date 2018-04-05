@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS. CORRUPÇÃO PASSIVA. SÚMULA 691/STF. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE DEFERIU PEDIDO LIMINAR. AFASTAMENTO DA FUNÇÃO PÚBLICA. ALEGAÇÃO DE INSUBSISTÊNCIA DOS MOTIVOS QUE ENSEJARAM A MEDIDA CAUTELAR. IMPROCEDÊNCIA. TERATOLOGIA OU ILEGALIDADE MANIFESTA. AUSÊNCIA.
+Inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça da Paraíba, que deferiu a liminar na ação ali interposta pelo Ministério Público estadual, para aplicar a medida alternativa à prisão consistente no afastamento do exercício da função pública ao paciente (fls. 391/396 - Medida Cautelar Inominada Criminal n. 0000277-95.2018.8.15.0000).
+Alega a impetração constrangimento ilegal na decretação da medida cautelar adotada, pois  ..  o afastamento do paciente, em flagrante violação ao estabelecido pelo artigo 93, inciso IX, da CF/88, não obedeceu ao principio da contemporaneidade, estando ausente, ainda, da decisão, qualquer fundamentação idônea, real e concreta de que o gestor estaria agora praticando crimes no exercício do referido cargo público (fl. 28).
+Aduz ainda que  ..  a decisão foi tomada sem que o paciente tivesse tido assegurada a oportunidade se exercer o seu direito fundamental ao contraditório, exigido, in casu, pelo art. 282, § 3º, do CPP (fl. 29).
+Postula, então, a concessão liminar da ordem para que seja imediatamente revogada a medida imposta.
+É o relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado no enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+No caso, as instâncias ordinárias lograram fundamentar a adoção da medida cautelar alvitrada com supedâneo em elementos constantes daqueles autos, conforme se extrai (fls. 393/394):
+ ..
+Tal conduta, pelo que se depreende das peças processuais coligidas no álbum processual que embasaram o oferecimento da denúncia (fls. 02/12 dos autos principais de nº 0000276-13.2018.815.0000), notadamente dos extratos de conversas extraídas pelo Laudo Pericial (fls. 246/270v, vol. II do feito em referência), é que o suposto delito de corrupção passiva teria sido iniciado no instante em que o denunciado propôs a Ramonn Accioli o acesso ao vídeo, em que mostra o então prefeito [NOME] pedindo, cobrando e recebendo valores para liberar o pagamento de um fornecedor, caso o referido empresário lhe pagasse antes, o numerário alçado pelo acusado [NOME]. Ato contínuo, ofereceu-lhe, ainda, cargo público da prefeitura e apoio eleitoral em eventual candidatura ao cargo de deputado estadual.
+Portanto, o comportamento supostamente delituoso atribuído ao edil, ou seja, a nomeação para um cargo público, oportunizando-lhe o retorno financeiro do numerário solicitado, bem como o apoio político necessário para promover sua candidatura a cargo de Deputado Estadual, pressupõe, nesse momento, um fundado receio de que a sua manutenção na Chefia do Poder Executivo Municipal ficará em descompasso com os padrões éticos mais básicos, revelando-se temerário permitir que permaneça lidando com a res publica.
+Diante do que foi apresentado nestes autos, a presença do denunciado, no topo da pirâmide organizacional do Município de Bayeux, pode pôr em risco a lisura dos atos administrativos em que venha a praticar.
+ ..
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o presente writ.
+Publique-se.
