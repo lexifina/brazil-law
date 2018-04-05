@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA MILITAR DE SÃO PAULO, assim ementado (fl. 232):
+Ação Ordinária - Pedido de reintegração de policial militar - Agravo Retido  Indeferimento de produção, de prova oral em ação de nulidade de ato administrativo. Alegadas matérias de direito que independem de dilação probatória: Prova que visa a reanálise dos fatos pelo Poder Judiciário. Impossibilidade, face à independência dos Poderes. Agravo retido improvido. Competência do Comandante Geral para baixar, instruções de execução obrigatória no âmbito da Corporação - Não reconhecido o cerceamento ao contraditório e à ampla defesa pela aplicação do rito previsto nas I-16-PM. Parecer do Conselho de Disciplina e da Autoridade Instauradora de caráter opinativo, não havendo obrigatoriedade de intimação para contrarrazoá-lo - Cerceamento de defesa pelo indeferimento de diligências requeridas no feito disciplinar. Decisão coerente e motivada concluindo pelo caráter dispensável e protelatório do pleito. Apelo improvido
+Na origem, cuida-se de ação ordinária ajuizada por [NOME], com o intuito de ser reintegrado às fileiras da Polícia Militar do Estado de são Paulo, sob a alegação que o procedimento que ensejou sua exclusão encontra-se maculado por vícios de legalidade.
+A demanda foi julgada improcedente em primeira instância (fls. 146-155), considerando, com base nas provas acostadas aos autos, que houve obediência aos princípios da legalidade, contraditório e ampla defesa.
+Recurso de Apelação apresentado às fls. 158-199, ratificando os termos da exordial e solicitando, ao final, pelo deferimento dos pedidos inicialmente formulados.
+O Tribunal Local, por unanimidade, indeferiu o pleito, sob a alegação de que o indeferimento da prova solicitada se mostrou válido, eis que as causas de pedir giram em torno de matérias unicamente de direito ou sobre a interpretação dada pela autoridade administrativa às provas colhidas no seio do feito disciplinar. Nesse sentido, impossível acolher o pedido de dilação probatória, por evidentemente desnecessária a prova oral (fl. 238).
+Restou demonstrado, porquanto, que as provas indeferidas mostraram-se protelatórias e inúteis, não havendo que se falar em cerceamento de defesa.
+No recurso especial, o recorrente aponta violação dos arts. 332 e 400, ambos do CPC/1973, correspondendo, respectivamente, aos arts. 369 e 443 do CPC/2015.
+Sustenta, em síntese, que ao impedir a realização de prova testemunhal, viu maculado, por completo, à adequada participação no processo, ensejando, por conseguinte, mitigação aos princípios do contraditório e ampla defesa.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 306-317).
+O recurso especial foi inadmitido com fundamento da incidência da Súmula 7 do STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+Sobre a questão, o Tribunal de Origem assim se manifestou (fls. 222-252):
+(..)
+É certo que a celeridade em solucionar o litígio não deve " ser confundida com solução precipitada, de modo que, todos os atos necessários ao julgamento da demanda devem ser praticados. No entanto, cabe destacar que no tocante à produção probatória, cabe ao Magistrado determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou protelatórias.
+O autor requereu a oitiva da testemunha afirmando que a prova oral é imprescindível do deslinde do feito.
+Ocorre que o Magistrado a quo indeferiu o pleito por entender que tal pretensão probante era descabida, uma vez que "as alegações que tangenciaram os fatos apurados por meio do processo administrativo aqui atacado consistem em matéria de direito, havendo tão somente pretensão de, em sede Judicial, produzir novas provas sobre os fatos já apreciados no feito disciplinar.
+Razão não assiste ao agravante.
+Dada a coerência e a profundidade da motivação apresentada para ó indeferimento da realização da prova oral pleiteada, forçoso concluir o acerto da decisão do juiz a quo.
+Da leitura da inicial, verifica-se que as causas de pedir giram em torno de matérias unicamente de direito ou sobre a interpretação dada pela autoridade administrativa às provas colhidas no seio do feito disciplinar.
+Nesse sentido, impossível acolher o pedido de dilação probatória, por evidentemente desnecessária a prova oral.
+(..)
+Nesse contexto, para se adotar qualquer posição em sentido contrário ao que ficou expressamente consignado no acórdão, seria necessário o reexame do conteúdo fático probatório dos autos, o que é vedado em grau de recurso especial, em atenção a súmula 7/STJ. Nesse sentido:
+ADMINISTRATIVO. POLICIAL MILITAR. ANULAÇÃO DE ATO DEMISSÓRIO. CERCEAMENTO DE DEFESA AFASTADO PELA CORTE DE ORIGEM. SUFICIÊNCIA DAS PROVAS CONSTANTES NOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. NULIDADE DO PROCESSO ADMINISTRATIVO. AUSÊNCIA DA EFETIVA DEMONSTRAÇÃO DOS PREJUÍZOS À DEFESA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior é firme em que o Tribunal de origem é soberano na análise das provas, podendo, portanto, concluir pela necessidade ou desnecessidade da produção de provas testemunhais e documentais. Isso porque, o art. 130 do Código de Processo Civil consagra o princípio do livre convencimento motivado, segundo o qual o magistrado fica habilitado a valorar, livremente, as provas trazidas a demanda.
+2. A alteração do entendimento da Corte de origem quanto à necessidade, ou não, de prova testemunhal, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ.
+3. Ademais, o recorrente não cuidou de demonstrar, em suas razões recursais, de que forma as testemunhas das quais requereu a oitiva contribuiriam para o exercício de sua defesa, tendo se limitado a contestar o indeferimento da referida prova pela instância originária.
+4. A declaração de possíveis nulidades no processo administrativo disciplinar, segundo o princípio da instrumentalidade das formas (pas de nullité sans grief), depende da efetiva demonstração dos prejuízos à defesa do servidor (MS 12803/DF, Rel. Min. Rogerio Schietti Cruz, Terceira Seção, DJe de 15/4/2014), conforme orientam os precedentes deste Tribunal Superior.
+5. Agravo Regimental desprovido.
+( AgRg no REsp 1192550 / SP, 2010/0078102-0, Rel. Min. NAPOLEAO NUNES MAIA FILHO, julgado em 09/06/2015, DJe 19/06/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO - EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL - PROCESSO ADMINISTRATIVO DISCIPLINAR QUE RESULTOU NA DEMISSÃO DE FUNCIONÁRIO PÚBLICO - NÃO DEFERIMENTO DE PRODUÇÃO DE PROVAS - ALEGAÇÃO DE CERCEAMENTO DE DEFESA - DESCABIMENTO - SÚMULA 7/STJ.
+1. As razões recursais se voltam contra o julgamento antecipado da lide e da consequente impossibilidade de produção de prova testemunhal, cujo objetivo era desconstituir fatos apurados em processo administrativo disciplinar que resultou na aplicação da pena de demissão do agravante.
+2. In casu, a Corte de origem constatou a regularidade do procedimento administrativo disciplinar, no qual foram respeitados os princípios do devido processo legal, ampla defesa e contraditório, daí o julgamento antecipado da presente lide.
+3. Infirmar tais conclusões, a fim de acolher violação do artigo 330, I, do CPC e aferir se houve ou não cerceamento de defesa e prejuízo à parte, demandaria incursão no contexto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula 7 desta Corte.
+4. Não cabe ao STJ, em recurso especial, a análise de suposta violação de dispositivos constitucionais, mesmo com a finalidade de prequestionamento, sob pena de usurpação da competência do STF.
+5. Embargos de declaração acolhidos, sem efeitos modificativos, apenas para prestar esclarecimentos.
+(EDcl no AgRg no AREsp 102311 / SP, 2011/0241239-8, Rel. Min. ELIANA CALMON. SEGUNDA TURMA. julgado em 21/05/2013, DJe 29/05/2013)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
