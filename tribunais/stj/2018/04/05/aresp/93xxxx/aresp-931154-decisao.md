@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA DE CREDITO MUTUO DOS EMPREGADOS DA EMBRAER contra decisão que inadmitiu recurso especial, o qual desafia acórdão assim ementado (e-STJ fls. 154/155):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. AGRAVO DE INSTRUMENTO. ART. 557 DO CPC. AGRAVO LEGAL. TRIBUTÁRIO. AUSÊNCIA DE PROVA PRÉ CONSTITUÍDA. EXCEÇÃO DE PRÉ - EXECUTIVIDADE. INVIABILIDADE. AGRAVO LEGAL IMPROVIDO.
+- Não obstante serem os embargos à execução o meio de defesa próprio da execução fiscal, a orientação do C. Superior Tribunal de Justiça firmou-se no sentido de admitir a exceção de pré- executividade, nas situações em que não se faz necessária dilação probatória ou em que as questões possam ser conhecidas de ofício pelo magistrado, como as condições da ação, os pressupostos processuais, a decadência, a prescrição, entre outras. Esse, inclusive é o entendimento firmado na Súmula nº 393 do Superior Tribunal de Justiça.
+- A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória. Nos casos em que a análise da questão exige dilação probatória, a matéria de defesa deve ser aduzida na via própria, ou seja, nos embargos à execução, e não por meio do incidente de exceção de pré-executividade.
+- Referida questão levada à apreciação pela exceção de pré- executividade, referente ao fato das atividades da ora agravante serem consideradas ato cooperativo, de modo a ser afastada a hipótese de incidência tributária da COFINS, deve ser demonstrada em regular contraditório, na via processual própria, diga-se: mediante a oposição de embargos à execução fiscal, uma vez que os autos do processo de execução não comportam dilação probatória.
+- As razões recursais não contrapõem e não trazem em seu bojo qualquer fundamento capaz de desfiar o r. decisum a ponto de desconstituí-lo.
+- Agravo legal improvido.
+No apelo especial (e-STJ fls. 158/181), a recorrente aponta violação dos arts. 3º, 4º e 5º da Lei n. 5.764/74. Sustenta, em resumo, que não pode ser exigida a Cofins da recorrente, pois esta não possui faturamento. Alega que tal contribuição é calculada sobre a receita bruta de empresas, hipótese em que não se enquadram as cooperativas.
+Contrarrazões apresentadas (e-STJ fls. 209/215).
+O Tribunal de origem, às e-STJ fls. 217/219, obstou o recurso especial em razão da incidência da Súmula 7/STJ, não concordando a agravante com essa fundamentação (e-STJ fls. 256/267).
+Contraminuta (e-STJ fls. 282/285).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Isso considerado, verifico que o recurso especial não merece ser mesmo admitido.
+Os suscitados arts. 3º, 4º e 5º da Lei n. 5.764/74 não possuem comando normativo apto a impugnar a matéria efetivamente apreciada e julgada pelo acórdão recorrido. Com efeito, as alegações referentes à impossibilidade de cobrança da Contribuição para o Financiamento da Seguridade Social - Cofins das Cooperativas não guardam relação com a conclusão do acórdão recorrido quanto à impossibilidade de se examinar as alegações da recorrente em sede de exceção de pré executividade por demandar dilação probatória. Patente, no ponto, a deficiência da irresignação recursal, nos termos da Súmula 284 do STF.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
