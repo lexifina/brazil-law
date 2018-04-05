@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO com fundamento na(s) alínea(s) "a" do permissivo constitucional contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+ADMINISTRATIVO - EMPRESA VENCEDORA EM PROCEDIMENTO DE LICITAÇÃO - CONTRATO FIRMADO COM A SECRETARIA DE PATRIMÔNIO DA UNIÃO/ES - INADIMPLÊNCIA DA UNIÃO FEDERAL - AUSÊNCIA DE COMPROVAÇÃO DE IRREGULARIDADES NA EXECUÇÃO DO SERVIÇO - OBRIGAÇÃO DE EFETUAR O PAGAMENTO - PERDAS E DANOS CABÍVEIS.
+1. A retenção indevida do pagamento pelos serviços efetivamente prestados constitui-se em enriquecimento ilícito da Administração em detrimento do Contratado, que pode até não ter cumprido o contrato dc forma devida, o que cabia à Administração fiscalizar, mas o cumpriu, e tal como o fez foi recebido e atestado pela Contratante, não podendo esta se negar a pagar sem a devida apuração das irregularidades, com ampla defesa e o contraditório do Contratado.
+2. Tem a Contratante (União Federal) a obrigação de realizar o pagamento dos valores consignados nas notas fiscais mencionadas nos autos, devidamente corrigidos nos termos contratados e com aplicação de juros de mora de 0,5% (meio por cento) ao mês, desde a data do débito, além de realizar o pagamento dos valores devidos a título de perdas e danos, conforme estipulado na sentença.
+3. Apelação e remessa desprovidas. Sentença confirmada.
+O(a) recorrente alega violação ao disposto no art. 80, IV, da Lei n. 8.666/1993. Afirma que a irregularidade cometida pela recorrida autoriza a retenção dos créditos "na pendência de apuração do inadimplemento".
+Contrarrazões (e-STJ fls. 408/425).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Estabelecida tal premissa, constato que o Regional, a partir dos elementos de convicção carreados aos autos, manteve a sentença, por entender que a sanção de retenção por inexecução contratual foi aplicada à recorrida "em desconformidade com a disposição legal, além de ofender a obrigatoriedade de processo administrativo com ampla defesa e contraditório", e é apenas permitida "no limite dos prejuízos causados, os quais nem mesmo consta nos autos como apurado" (e-STJ fl. 383).
+Ademais, consignou que as irregularidades apuradas no procedimento administrativo referiam-se a servidores federais e não à recorrida (e-STJ fl. 384).
+Tais fundamentos não foram expressamente rebatidos nas razões do apelo nobre, onde a União apenas ressaltou a regularidade da sanção imposta, como demonstra o seguinte excerto (e-STJ fl. 400):
+Com efeito, diante da apurada inexecução do contrato a SPU agiu em estrita observância aos princípios legais quando reteve o pagamento das parcelas finais do contrato de prestação de serviço em tela.Ressalte-se que foi assegurada a recorrida os direitos previstos na Constituição.
+Desta forma, tendo o Administrador apurado a irregularidade cometida pela recorrida o mesmo pautou-se no disposto no artigo 80 inciso IV, da lei de Licitações ( lei 8666/93) que autoriza a retenção dos creditos do particular na pendência de apuração do inadimplemento .
+Assim, o Administrador primou pela legalidade na condução do processo em questão e principalmente na conclusão do mesmo aplicando a penalidade de retenção prevista em lei, sopesando o grau de irregularidade com vista a aplicar a sanção adequada e compatível com a infração
+Tal postura denota deficiência na fundamentação recursal e atrai a aplicação, ao caso, da Súmula 284 do STF, em incidência analógica.
+Demais disso, alterar o entendimento do Tribunal de origem implica reexame de matéria fático-probatória, providência inviável, na via eleita, ante o óbice da Súmula 7 desta Corte.
+Ante o exposto, com fundamento no art. 253, II, parágrafo único, "a" do RISTJ, CONHEÇO do agravo para NÃO CONHECER do Recurso Especial.
+Publique-se. Intimem-se.
