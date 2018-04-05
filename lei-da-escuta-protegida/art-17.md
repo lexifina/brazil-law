@@ -1,0 +1,1 @@
+Art. 17. A União, os Estados, o Distrito Federal e os Municípios poderão criar, no âmbito do Sistema Único de Saúde (SUS), serviços para atenção integral à criança e ao adolescente em situação de violência, de forma a garantir o atendimento acolhedor.

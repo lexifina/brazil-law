@@ -1,0 +1,2 @@
+Art. 6º A criança e o adolescente vítima ou testemunha de violência têm direito a pleitear, por meio de seu representante legal, medidas protetivas contra o autor da violência.
+Parágrafo único. Os casos omissos nesta Lei serão interpretados à luz do disposto na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), na Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e em normas conexas.
