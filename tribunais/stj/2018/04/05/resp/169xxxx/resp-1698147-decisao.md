@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 137/138):
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. SOLDADO DO EXÉRCITO. LICENCIAMENTO INDEVIDO. RETORNO. SOLDO DO AFASTAMENTO INDEVIDO. EMBARGOS DO DEVEDOR. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. JULGAMENTO DE IMPROCEDÊNCIA. MANUTENÇÃO.
+1. Apelação de sentença que julgou improcedentes embargos opostos à execução de título judicial que assegura ao exequente o direito ao recebimento dos soldos relativos ao período em que esteve indevidamente afastado do serviço militar obrigatório no Exército Brasileiro.
+2. Sustenta a apelante que o título judicial assegura ao exequente o direito ao recebimento do soldo respectivo, ou seja, de soldado, razão pela qual os cálculos de liquidação não poderiam se basear no salário-mínimo, como admitiu a sentença apelada.
+3. Constatado do seu inteiro teor, que a sentença exequenda inequivocamente assegura ao autor da ação o direito à remuneração que deixou de receber como soldado do Exército, no período em que esteve indevidamente licenciado, devem ser considerados na liquidação o soldo mais o complemento pago para equipará-lo ao salário-mínimo, conforme previsto em lei.
+4. Pretensão da executada de pagar apenas o soldo, excluindo a complementação, porque o dispositivo da sentença exequenda assegura apenas "o pagamento dos soldos respectivos", que não procede.
+5. "O juízo de liquidação pode interpretar o título formado na fase de conhecimento, com o escopo de liquidá-lo, extraindo-se o sentido e alcance do comando sentencial mediante integração de seu dispositivo com a sua fundamentação. E, adotando-se tal providência, não há falar em ofensa à coisa julgada, uma vez que a mera interpretação do título nada acrescenta a ele e nada é dele retirado. Apenas se põe às claras o exato alcance da tutela antes prestada." - STJ, REsp 1490701/CE.
+6. Apelação improvida.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015.
+A parte recorrente aponta violação aos arts. 1.022, 494, 502 a 509 do CPC/2015, 1º e 3º da MP nº 2.215/01. Sustenta, em síntese, a negativa de prestação jurisdicional e a ocorrência de violação à coisa julgada, em razão da indevida inclusão na execução de gratificações e adicionais ao montante devido.
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, colhe-se do acórdão recorrido a seguinte fundamentação, verbis (fl. 136/137):
+Conforme relatado, insurge-se a apelante contra sentença que julgou improcedentes embargos opostos à execução de título judicial que assegura ao exequente o direito ao recebimento dos soldos relativos ao período que foi injustamente licenciado do serviço militar obrigatório no Exército Brasileiro.
+Sustenta que o título judicial assegura ao exequente o direito ao recebimento do soldo respectivo, ou seja, de soldado, razão pela qual os cálculos de liquidação não poderiam se basear no salário-mínimo, como admitiu a sentença apelada.
+Tenho que não procede a irresignação.
+Pretende a apelante excluir da apuração do o complemento do soldo para equipará-lo ao quantum debeatur salário-mínimo, remuneração mínima prevista em lei para os militares, já que o dispositivo da sentença determina apenas o "pagamento dos soldos respectivos." No entanto, observa-se do seu inteiro teor, que a sentença exequenda inequivocamente assegura ao autor da ação o direito à remuneração que deixou de receber como soldado do Exército, no período em que esteve indevidamente licenciado.
+Como é sabido, na sua efetivação, a interpretação do dispositivo da sentença não pode ser realizada foro do contexto de toda sua fundamentação.
+(..)
+Dessa forma, garantido ao soldado o direito a remuneração que lhe seria devida, pela sentença que embasa a execução, mostra-se descabida a pretensão da devedora pagar-lhe apenas uma das verbas que a compõe.
+Não há, pois, censura a ser feita à sentença apelada, razão pela qual a mantenho íntegra pelos seus próprios motivos e fundamentos.
+O acolhimento das alegações deduzidas, quanto à violação à coisa julgada pela inclusão indevida de parcelas no montante executado, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
