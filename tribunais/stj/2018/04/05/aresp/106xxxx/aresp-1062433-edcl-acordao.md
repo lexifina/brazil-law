@@ -1,0 +1,41 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração poderão ser opostos com a finalidade de eliminar da decisão qualquer obscuridade, contradição ou suprir omissão sobre ponto acerca do qual se impunha pronunciamento, o que não é o caso dos autos.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de embargos de declaração opostos por [NOME] ao acórdão proferido por esta Terceira Turma, o qual negou provimento ao agravo interno (e-STJ, fl. 271):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. INSCRIÇÃO INDEVIDA EM CADASTRO RESTRITIVO DE CRÉDITO ORDENADA PELO CREDOR. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PREEXISTÊNCIA DE LEGÍTIMAS INSCRIÇÕES, AFIRMADA PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 385/STJ. DESCABIMENTO DE INDENIZAÇÃO. PRECEDENTE FIRMADO PELO RITO DOS RECURSOS REPETITIVOS. AGRAVO INTERNO DESPROVIDO.
+1. Negativa de prestação jurisdicional não configurada.
+2. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula n. 385 do STJ). Acórdão em harmonia com a jurisprudência desta Corte. Súmula 83/STJ.
+3. A revisão das conclusões estaduais, acerca de serem legítimas as inscrições anteriores demandaria, necessariamente, o reexame de fatos e provas, providência inviável no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 280-281), o embargante alega omissão no acórdão embargado, por ausência de análise quanto à sua afirmação de não haver inscrições legítimas anteriores, tendo em vista ter ajuizado ação autônoma para declaração da inexistência de débito.
+Sem impugnação, conforme certidão à fl. 285 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Inicialmente, rememore-se que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que não se observa na espécie.
+O acórdão proferido por este Colegiado dirimiu a causa com base em fundamentação sólida, sem omissões ou contradições. Na verdade, apenas se resolveu a celeuma em sentido contrário ao pretendido pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+Quanto à alegação recursal de inaplicabilidade da Súmula n. 385/STJ à espécie, a Segunda Seção desta Corte, por ocasião do julgamento do REsp n. 1.386.424/MG, submetido ao rito dos recursos repetitivos, analisando exatamente a questão dos autos, caso de pretensão dirigida contra o suposto credor que efetivou a inscrição irregular e não contra o cadastro restritivo, estabeleceu a orientação de que  a inscrição indevida comandada pelo credor em cadastro de inadimplentes, quando preexistente legítima anotação, não enseja indenização por dano moral, ressalvado o direito ao cancelamento. Inteligência da Súmula 385/STJ.
+Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. DANO MORAL. NÃO CARACTERIZADO. INSCRIÇÃO INDEVIDA COMANDADA PELO SUPOSTO CREDOR. ANOTAÇÕES ANTERIORES. SÚMULA 385/STJ. 1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional. 2. "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento" (Súmula 385/STJ). 3. Embora os precedentes da referida súmula tenham sido acórdãos em que a indenização era buscada contra cadastros restritivos de crédito, o seu fundamento - "quem já é registrado como mau pagador não pode se sentir moralmente ofendido por mais uma inscrição do nome como inadimplente em cadastros de proteção ao crédito", cf. REsp 1.002.985-RS, rel. Ministro Ari Pargendler - aplica-se também às ações voltadas contra o suposto credor que efetivou a inscrição irregular. 4. Hipótese em que a inscrição indevida coexistiu com quatorze outras anotações que as instâncias ordinárias verificaram constar em nome do autor em cadastro de inadimplentes. 5. Recurso especial a que se nega provimento. (REsp n. 1.386.424/MG, Relator o Ministro Paulo de Tarso Sanseverino, Relatora p/ Acórdão Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 27/4/2016, DJe 16/5/2016)
+No caso dos autos, consoante definitivamente estabelecido pelo acórdão recorrido, houve a determinação de cancelamento da inscrição considerada pelo Tribunal local como indevidamente efetuada pela ora recorrida no cadastro restritivo de crédito por dívida inexistente, contudo, foi negado o direito à indenização em decorrência da existência de outras inscrições legítima e previamente existentes.
+O Tribunal de origem, no ponto, assentou:
+(..)
+A Súmula 385 do Superior Tribunal de Justiça enuncia que da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legitima inscrição, ressalvado o direito ao cancelamento.
+(..)
+Quanto à alegação de que "ínexiste inclusão legítima" (f.86), encontra-se provado nos autos (f.06) que o apelante possui mais de uma anotação restritiva e decorrentes de outros débitos em seu nome, tanto preexistentes, quando posteriores ao débito discutido nos autos.
+Embora o apelante argumente que "possui apenas outros dois registros indevidos, os quais foram impugnados em ação autônoma contra os sedizentes credores" (f.21), autos nº 0024.13.284375-6 e nº 0024.13.284376-4, as inscrições no nome do apelante, sem provas aptas a demonstrar a irregularidades das mesmas, elidem a pretensão indenizatória por danos morais, como bem fundamentou o MM. Juiz de Direito:
+ ..  não se identifica dano moral indenizável. Com efeito, o autor possui várias restrições preexistentes junto ao SP C/SE RASA (fls. 6), documentação acostada aos autos pelo próprio requerente. Portanto, é caso de aplicação da Súmula 385 do STJ para se negar o pagamento da indenização por danos morais ora pleiteada, pois o autor, independentemente da baixa ou manutenção do gravame objurgado, continuaria sendo tido e havido por mau pagador, visto que não há falar em ofensa à honra individual quando esta já se encontra maculada (f.79v). (Sem grifos no original).
+Há de se constatar que as instâncias ordinárias negaram o direito à indenização em decorrência da existência de outras inscrições legítima e previamente existentes, tanto que aplicaram o enunciado n. 385 da Súmula do STJ.
+Desse modo, estando a decisão recorrida em consonância com a jurisprudência desta Corte, é inviável o provimento do recurso por óbice da Súmula 83/STJ.
+Ademais, a revisão das conclusões estaduais acerca da existência das inscrições anteriores demandaria, necessariamente, o reexame de fatos e provas, providências inviáveis no âmbito do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+Importante frisar, inclusive, que se observa inconformismo reiterado da parte com o teor do julgado, pois estes aclaratórios, embora com palavras diferentes, defendem os mesmos argumentos já lançados na petição do agravo interno.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil/2015.
+Diante dessas considerações, rejeito os embargos de declaração.
+É como voto.
