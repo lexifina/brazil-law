@@ -1,0 +1,47 @@
+DECISÃO
+MARCELO CRISTIANO VALERIANO DA SILVA paciente neste habeas corpus, estaria sofrendo coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 00001788-27.2015.8.26.0292.
+O paciente foi condenado à pena de 5 anos e 6 meses de reclusão mais 13 dias-multa, no regime inicial fechado, pela prática do crime do art. 157, § 2º, I e II, do Código Penal. O Tribunal de origem negou provimento à apelação criminal da defesa.
+Neste writ, a impetrante alega constrangimento ilegal, pela fração de 3/8, estabelecida em razão das majorantes, e a imposição do regime inicial fechado. Pleiteia seja reduzido o percentual de aumento para 1/3 e a fixação do regime semiaberto.
+Indeferida a liminar (fls. 29-30) e dispensadas as informações, veio o parecer do Ministério Público Federal (35-38), que opinou pela concessão da ordem.
+Decido.
+I. Súmula n. 443 do STJ - violação
+O Juiz de primeiro grau, ao dosar a pena na terceira fase, assim consignou:
+Considerando as circunstâncias do art. 59 do CP verifico que lhe sao favoráveis. Fixo a pena base em 04 (quatro) anos de reclusão e 10 (dez) dias-multa, no seu valor unitário a 1/30 do salário mínimo vigente ao tempo da infração. Ausentes agravantes ou atenuantes. Presentes as causas de aumento de pena pelo concurso de agentes e por emprego de arma, acresço 3/8 obtendo 05 (cinco) anos e 06 (seis) meses de reclusão e 13 (treze) dias-multa, que torno definitiva (fl. 13, destaquei).
+A Corte de origem assim confirmou a dosimetria:
+Na terceira fase, as penas foram elevadas com proporcionalidade na fração mínima de 3/8 (três oitavos), resultando definitivas em 05 (cinco) anos e 06 (seis) meses de reclusão e 13 (treze) dias-multa. A uma, pela comprovação das duas causas de aumento imputadas (emprego de arma e concurso de agentes). A duas, pela ousadia demonstrada, visto que o apelante e comparsa, em total desprezo pra com a liberdade individual, surpreenderam a vítima com arma de fogo em punho e durante o desenvolvimento de suas atividades profissionais. Enfim, suficiente e razoável a individualização feita, respeitados o patamar e o teto previstos em lei (fls. 22-23, grifei).
+Da leitura desses trechos, entendo haver violação do dispositivo indicado, pois as instâncias antecedentes entenderam devida a exasperação da reprimenda em 3/8, ante a caracterização de duas majorantes, fundamento que - não obstante, na minha opinião, evidencie maior temibilidade da conduta -, nos termos do pensamento majoritário da Sexta Turma não justifica, de maneira idônea, o aumento de pena acima do patamar mínimo, sendo necessária a indicação de outras circunstâncias concretas que digam respeito às próprias majorantes e que evidenciem a maior desaprovação da conduta (número de agentes superior ao necessário para configurar o concurso, restrição da liberdade da vítima por longo período, emprego de arma de grosso calibre, ocorrência de disparo etc.), para justificar o percentual de aumento eleito.
+Ilustrativamente, colaciono os seguintes julgados:
+ ..
+II - Tendo em vista o disposto no parágrafo único do art. 68 e do parágrafo 2º do art. 157, ambos do CP, o aumento de pena, acima do patamar mínimo, pela ocorrência de duas majorantes específicas, deve ser motivado não apenas pela simples constatação da existência destas, como o foi na espécie, mas sim com base em dados concretos em que se evidenciou o fato criminoso. (Precedentes).
+III - "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Enunciado nº 443 da súmula do STJ).
+ ..
+(RHC n. 51.597/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 4/2/2015)
+ ..
+1. Nos termos da jurisprudência desta Corte, são prescindíveis a apreensão e a perícia na arma de fogo para a incidência da majorante do § 2º, I, do art. 157 do CP, quando existirem nos autos outros elementos de prova que comprovem a sua utilização no roubo, como na hipótese, em que há relato da vítima sobre o emprego do artefato.
+2. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente, para a sua exasperação, a mera indicação do número de majorantes. Súmula n. 443 do STJ. Não foi apontado elemento concreto e relacionado às majorantes (número de agentes superior ao necessário para caracterizar o concurso, restrição da liberdade da vítima por longo período etc.) que, efetivamente, evidenciasse real necessidade de exasperação da pena do paciente, na terceira fase da dosimetria, no patamar estabelecido. Ressalva de entendimento do relator.
+ ..
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer a ilegalidade na terceira etapa da dosimetria e redimensionar a pena final do paciente para 5 anos e 4 meses de reclusão mais 13 dias-multa.
+(HC n. 238.052/SP, de minha relatoria, 6ª T., DJe 27/10/2015, destaquei).
+Logo, devo reconhecer como procedente a postulação defensiva no particular, pois o Tribunal a quo não apontou nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido. O entendimento lá esposado é dissonante da jurisprudência desta Corte Superior, conforme devidamente demonstrado.
+Reconhecida a apontada violação, passo à readequação das penas, de acordo com os parâmetros postos pelo acórdão atacado.
+Na primeira etapa, a pena-base foi fixada no mínimo legal, 4 anos de reclusão mais 10 dias-multa. Na segunda fase, ausentes agravantes e atenuantes. Na terceira etapa, afastada a fração de 3/8, a sanção é elevada em 1/3, o que totaliza 5 anos e 4 meses de reclusão mais 13 dias-multa.
+II. Regime
+O Magistrado singular fixou o regime fechado ao réu, sob a seguinte motivação:
+O Regime inicial de cumprimento da pena será FECHADO, único compatível com o crime cometido com emprego de violência e arma de fogo (fl. 14, destaquei).
+O Tribunal local manteve o regime mais gravoso, nos seguintes termos:
+O regime inicial fechado deve ser mantido, pois, a gravidade concreta da conduta - já minuciosamente analisada incompatibiliza e desautoriza o estabelecimento de regime prisional mais brando (artigo 59, III; c.c. art. 33, § 3º, do Código Penal) (fl. 23, grifei).
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Feitas essas premissas, verifico que a instância de origem não apontou nenhum elemento dos autos (como o modus operandi e indicação de número excessivo de agentes, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+Esse, aliás, é o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF.
+Nesse sentido, confira-se o seguinte julgado desta Corte de Justiça:
+ ..
+6. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+7. O Juiz de primeiro grau, muito embora haja particularizado que o delito foi praticado em plena luz do dia e em estabelecimento comercial, não apontou nenhum elemento dos autos (como o modus operandi, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+8. A ausência de peculiaridades específicas do roubo majorado nulifica a imposição de regime prisional mais gravoso, por violação dos enunciados das Súmulas n. 440 do STJ e 718 e 719 do STF.
+9. Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena para 5 anos e 4 meses de reclusão e fixar o regime semiaberto.
+(HC n. 317.873/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 29/10/2015, destaquei)
+Assim sendo, o paciente primário sem registro de circunstância judicial desfavorável e condenado a 5 anos e 4 meses de reclusão -, deve cumprir a pena em regime inicial semiaberto, a teor do art. 33, § 2º,"b", e § 3º, do CP.
+III. Dispositivo
+À vista do exposto, concedo a ordem, a fim de reduzir a pena aplicada ao réu para 5 anos e 4 meses de reclusão mais 13 dias-multa e fixar-lhe o regime semiaberto.
+Publique-se e intimem-se.
