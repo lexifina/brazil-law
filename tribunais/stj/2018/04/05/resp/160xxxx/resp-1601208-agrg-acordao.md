@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE DA DROGA. CIRCUNSTÂNCIAS DO DELITO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. REGIME FECHADO JUSTIFICADO. NATUREZA E QUANTIDADE DA DROGA. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, o entendimento registrado pela origem está em consonância com a jurisprudência deste Tribunal Superior firmada no sentido de que a significativa quantidade de droga, circunstância do delito que pressupõe a dedicação à atividade criminosa, revelando-se suficiente a afastar a aplicação da redutora prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+2. Fixada a pena definitiva em 5 (cinco) anos de reclusão, "o regime fechado (o mais gravoso, segundo o quantum da sanção aplicada) é o correto à prevenção e à reparação do delito, considerada a natureza e a quantidade da droga apreendida, elencadas legalmente como circunstância preponderante" (HC 361.407/SP, desta relatoria, QUINTA TURMA, DJe de 2.9.2016).
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Cuida-se de agravo regimental interposto contra decisão por mim proferida (fls. 487-493), que deu parcial provimento ao recurso especial para reconhecer a confissão espontânea e redimensionar a pena na segunda fase da dosimetria, restando impossibilitada a aplicação da causa de diminuição da pena e a modificação do regime fechado, fixado com fundamento na natureza/tipo da droga.
+O agravante alega que não pretende reexame de provas, sendo que é duvidosa a fundamentação para negar a minorante da Lei Antidrogas.
+Assevera que preenche os requisitos da redutora, pois "Se é verdade que a quantidade de droga apreendida não é exatamente pequena, também não é vultosa o bastante para gerar, isoladamente, a certeza de que o Agravante fosse ligado a eventual organização criminosa ou reiteradamente a prática de atividades ilícitas" (fl. 514).
+Aduz que pela pena fixada na sentença, que concedeu a minorante, é cabível o regime mais brando, ante a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/90.
+Requer, assim, a reconsideração ou a remessa do feito à apreciação da Turma a fim de que o agravo seja provido.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (Relator):
+Em que pesem os argumentos veiculados no presente agravo regimental, não há como modificar a decisão ora agravada.
+Na terceira fase da dosimetria, o Tribunal de origem rechaçou a aplicação da causa especial de diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2006, considerando que o réu se dedica a atividades criminosas (fl. 288). No caso, houve a utilização da quantidade da droga nesta fase, sendo cabível afastar a minorante se esta circunstância prevista na Lei Antidrogas demonstra a dedicação à atividade criminosa, razão pela qual não há falar em ausência de fundamentação idônea.
+A propósito, confiram-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. VIA INADEQUADA. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO CONCRETA. NATUREZA E QUANTIDADE DE ENTORPECENTES. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INOCORRÊNCIA. PRÁTICA DE ATIVIDADE CRIMINOSA. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA.
+ ..
+4. Hipótese em que o Tribunal de origem justificou o quantum de exasperação da pena-base, em razão da quantidade e da natureza das drogas apreendidas (30 buchas de maconha, 2,286kg de pasta base para cocaína, 599g de maconha, 18g de farelo de crack e maconha, 28g de crack). Descabe falar em flagrante constrangimento ilegal a ser sanado, porque a fixação da fração fundou-se em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+5. Para a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 a 2/3, a depender das circunstâncias do caso concreto.
+ ..
+7. No caso, o Tribunal a quo afastou a incidência da minorante por entender que a paciente se dedicava à atividade criminosa, diante da quantidade de drogas apreendidas e da confissão de que realizava a traficância há 1 ano.
+8. A diversidade de entorpecentes justifica a fixação de regime mais severo, nos termos dos arts. 33 e 59 do Código Penal, c/c o art. 42 da Lei n. 11.343/2006.
+9. Habeas corpus não conhecido (HC 344.032/ES, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 15/3/2016).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. TRÁFICO DE DROGAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/06. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. REGIME FECHADO. EXPRESSIVA QUANTIDADE DE DROGAS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A aplicação da redutora prevista no art. 33, § 4º, da Lei n. 11.343/06 depende do convencimento do Magistrado de que o apenado, primário e de bons antecedentes, não se dedique a atividades delituosas nem integre organização criminosa.
+In casu, o entendimento registrado pela origem está em consonância com a jurisprudência deste Tribunal Superior firmada no sentido de que a expressiva quantidade de drogas, circunstâncias do delito que pressupõe a dedicação à atividade criminosa, revelando-se suficiente a afastar a aplicação da redutora prevista no art. 33, § 4º, da Lei n. 11.343/06.
+A reforma do entendimento das instâncias ordinárias quanto à dedicação do paciente às atividades criminosas constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+3. Na hipótese dos autos, não há falar em flagrante ilegalidade na fixação do regime prisional fechado, isso porque, embora as circunstâncias judiciais tenham sido consideradas favoráveis e o paciente seja primário, as drogas apreendidas - 530,13g de cocaína e 475,98g de ácido bórico - tidas como expressiva quantidade de drogas, utilizada na terceira fase da dosimetria, para afastar a aplicação do redutor previsto no art. 33, § 4º da Lei de Drogas, impedem a aplicação do regime prisional mais brando.
+4. O entendimento consignado pelo Tribunal de origem quanto à negativa de substituição da pena privativa de liberdade por medidas restritivas de direitos, ante a ausência de preenchimento dos requisitos previstos no art. 44, inciso I, do Código Penal, está em consonância com a jurisprudência desta Corte.
+Habeas corpus não conhecido (HC 364.022/MG, desta relatoria, QUINTA TURMA, DJe 24.11.2016).
+Ademais, ao que se depreende, o acolhimento da pretensão recursal encontra óbice no enunciado n. 7 da Súmula do STJ, por demandar profundo revolvimento do conteúdo fático-probatório dos autos, o que não se viabiliza em recurso especial.
+Quanto ao regime de pena, de acordo com o entendimento desta Corte, a quantidade e a natureza da droga apreendida constituem elementos idôneos para justificar a imposição de regime mais gravoso, nos termos do disposto no art. 42 da Lei de Drogas e no art. 33, § 3º, do CP.
+In casu, fixada a pena definitiva em 5 (cinco) anos de reclusão, "o regime fechado (o mais gravoso, segundo o quantum da sanção aplicada) é o correto à prevenção e à reparação do delito, considerada a natureza e a quantidade da droga apreendida, elencadas legalmente como circunstância preponderante" (HC 361.407/SP, desta relatoria, QUINTA TURMA, DJe de 2.9.2016).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
