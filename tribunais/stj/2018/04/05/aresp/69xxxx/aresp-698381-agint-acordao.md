@@ -1,0 +1,52 @@
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. COMPLEMENTAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial quando a parte recorrente não ampara seu inconformismo, no caso, a tese de que o ICMS não compõe a base de cálculo da CPRB, na violação de qualquer lei federal. Incidência da Súmula 284/STF.
+2. Não é possível considerar as razões trazidas no agravo interno vertente, para fins de suplantar a deficiência de fundamentação recursal do apelo raro, visto que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão. Precedentes.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por Marcatto Indústria de Acessórios Ltda. desafiando decisão que negou provimento a agravo em recurso especial, sob o fundamento de que, no que diz respeito à tese de que o ICMS não compõe a base de cálculo da CPRB, a parte recorrente não amparou o inconformismo na violação de qualquer lei federal, atraindo a incidência da Súmula 284/STF; sendo certo que não supre a deficiência o embasamento da argumentação no art. 195, I, b, da CF, tendo em vista que, na via especial, não cabe invocar violação da norma constitucional.
+O agravante, em suas razões, pugna pelo afastamento da Súmula 284/STF à espécie, devendo ser reconhecida violação ao art. 22, I e III, da Lei nº 8.212/91, ao argumento de que: "apesar de não constar de forma expressa no Recurso Especial interposto, o artigo e a lei violados, há tópico específico para a admissibilidade de tal recurso, bem como em todo o recurso consta o inconformismo da substituição da tributação pelas contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212/91 (20% sobre a folha de salários), sendo a base de cálculo para a nova contribuição a receita bruta (faturamento) - Lei nº 12.546/11" (fls. 311/312). Reitera a tese defendida no apelo raro pela não inclusão do ICMS na base de cálculo da CPRB.
+Instada a impugnar o agravo interno (fl. 324), a Fazenda Nacional pugnou pela manutenção da decisão agravada (fls. 328/329).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): Apesar dos esforços da parte agravante, não vejo como alterar o decidido.
+Vigora em nosso sistema recursal o entendimento de que os recursos devem estar perfeitos, completos e acabados no momento de sua interposição.
+Compulsando os autos, de fato, verifica-se que a parte ora agravante não explicitou nas razões de apelo raro qual o dispositivo legal entendia por violado (cf fls. 170/182).
+Somente no agravo vertente foi apontado o art. 22, I e III, da Lei nº 8.212/91 como malferido (cf fl. 311).
+Assim, notório o intento da agravante de complementar, por meio do agravo interno, as razões veiculadas no recurso especial, em flagrante ofensa aos Princípios da Eventualidade, da Complementaridade Recursal e da Preclusão Consumativa. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA INADMITIDOS. AGRAVO REGIMENTAL. FALTA DE DEMONSTRAÇÃO ANALÍTICA DAS TESES CONFRONTADAS.
+RI, ARTS. 255, § 2º, E 266, § 1º. REAPRESENTAÇÃO DAS RAZÕES RECURSAIS. COMPLEMENTAÇÃO DO RECURSO. PRECLUSÃO CONSUMATIVA.
+I. Não basta à parte recorrente transcrever as ementas e anexar os inteiros teores dos acórdãos confrontados. É necessário, nos termos do Regimento Interno, art. 266, parágrafo 1º c/c art. 255, parágrafo 2o, que os embargantes mencionem "..as circunstâncias que identifiquem ou assemelhem os casos confrontados", exigência aqui não cumprida.
+II. Ademais, diante do princípio da preclusão consumativa, o recurso não pode ser aperfeiçoado em momento posterior ao ato de interposição, para anexação de julgados que instruem a alegação de dissídio interpretativo que não acompanharam a petição primeiro protocolizada.
+III. Agravo regimental improvido.
+(AgRg nos EREsp 800.674/PE, Rel. Ministro ALDIR PASSARINHO JUNIOR, CORTE ESPECIAL, julgado em 18/12/2009, DJe 22/02/2010)
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL - PRECLUSÃO - FUNDAMENTO INATACADO.
+1. Decisão que negou seguimento a recurso especial por deficiência da fundamentação, eis que não indicou o recorrente, com clareza em objetividade, em que consistia a violação do art. 535 do CPC.
+2. Nessas circunstâncias, descabe, em sede de agravo regimental, complementar as razões recursais porque ocorreu a preclusão.
+3. Recurso que não conseguiu infirmar os fundamentos do decisum.
+4. Agravo regimental improvido.
+(AgRg no REsp 870.819/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/2/2007, DJ 2/3/2007, p. 286)
+Nesse panorama, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, submeto-os ao Colegiado para serem confirmados:
+"Trata-se de agravo, fundado no CPC/1973, interposto por Marcatto Indústria de Acessórios Ltda., contra decisão denegatória de admissibilidade a recurso especial manejado com base no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 136):
+TRIBUTÁRIO. PIS E COFINS. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO. IMPOSSIBILIDADE.
+1. Está pacificado na jurisprudência que o valor do ICMS apurado no preço de venda de mercadorias se inclui na base de cálculo do PIS e da COFINS. Precedentes do STJ e deste Tribunal. Súmulas nºs 68 e 94 do STJ.
+2. A inclusão do valor do ICMS na base de cálculo das contribuições sociais PIS e COFINS não constitui ofensa à Constituição Federal, ante o disposto no art. 195, I, "b", do texto constitucional.
+3. O ICMS, não obstante cuidar-se de um imposto indireto, assim como o IPI, dele se diferencia por ser cobrado "por dentro", ou seja, é embutido no preço total da operação, consistindo em uma alíquota, que embora destacada, é incluída no preço.
+4. Não há dupla tributação ou afronta ao art. 154, I da Constituição Federal pela consideração do valor das operações com o ICMS embutido, pois o ICMS incide sobre operações de circulação de mercadorias e as contribuições PIS/COFINS, sobre a receita, cabendo notar, ainda, que o ICMS incide por dentro, de modo que o valor total da operação não pode ser desconsiderado na composição do preço cobrado pela mercadoria.
+Os embargos de declaração opostos foram acolhidos apenas para correção da fundamentação do julgado, sem alteração no resultado, exarando-se a seguinte ementa (fl. 159):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRIBUIÇÃO SOBRE O VALOR DA RECEITA BRUTA. ARTIGOS 7º, 8º E 9º DA LEI 12.546/11. EXCLUSÃO DO ICMS DA BASE DE CÁLCULO. IMPOSSIBILIDADE.
+1. Embargos de declaração que se serve para correção de erro material, tendo em conta que no acórdão se tratou de matéria diversa.
+2. A Contribuição Sobre o Valor da Receita Bruta, instituída pela MP 540/11, convertida na Lei 12.546/11, substitui, nos termos ali estabelecidos, a tributação pelas contribuições previstas nos incisos I e III do caput do art. 22 da Lei nº 8.212, de 24 de julho de 1991. Contudo, a base de cálculo para a nova contribuição é a receita bruta (faturamento).
+3. A Contribuição Sobre o Valor da Receita Bruta, prevista na Lei 12.546/11, compreende a receita bruta das vendas de mercadorias, de mercadorias e serviços e de serviço de qualquer natureza, estando, assim, de acordo com o conceito de faturamento previsto na alínea "b" do inciso I do art. 195 da Constituição Federal.
+4. Não há dupla tributação ou afronta ao art. 154, I da Constituição Federal pela consideração do valor das operações com o ICMS embutido, pois o ICMS incide sobre operações de circulação de mercadorias e a contribuição prevista nos artigo 7º, 8º e 9º da Lei 12.546/11, sobre a receita, cabendo notar, ainda, que o ICMS incide por dentro, de modo que o valor total da operação não pode ser desconsiderado na composição do preço cobrado pela mercadoria.
+5. Precedentes deste Regional.
+6. Embargos de declaração acolhidos para corrigir erro material. Tendo em conta a nova fundamentação, restou mantido o desprovimento do apelo da Impetrante.
+Nas razões do especial, a parte agravante aponta violação do art. 195, I, b, da Constituição Federal. Sustenta que "a parcela referente ao ICMS não compõe a base de cálculo da CPRB, por não se caracterizar como "RECEITA" da empresa, de modo que qualquer interpretação diferente da que se apresenta, certamente redundará numa violação frontal ao comando constitucional inserto no art. 195, I, "b", da Magna Carta" (fl. 180).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/1973; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+No que diz respeito à tese de que o ICMS não compõe a base de cálculo da CPRB, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+Não supre a deficiência o embasamento da argumentação no art. 195, I, b, da CF, tendo em vista que, na via especial, não cabe invocar violação da norma constitucional."
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
