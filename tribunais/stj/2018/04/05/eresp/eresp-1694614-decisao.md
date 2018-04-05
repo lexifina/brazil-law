@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de divergência interposto por [NOME] S/A em face de acórdão da Segunda Turma, integralizado por embargos declaratórios, relatado pelo Excelentíssimo Ministro Herman Benjamin, assim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. ICMS-ST. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO EM LEI ESTADUAL. SÚMULA 280/STF. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. A indicada afronta aos arts. 100, I, e 144 do CTN não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O Tribunal de origem baseou-se na Lei estadual 11. 514/1997 e no art. 475, § 1º, do Decreto estadual 14.876/1991 para solver a lide. Verifica-se que o debate da questão envolve, na realidade, análise do disposto na legislação estadual, o que encontra óbice na Súmula 280 do Supremo Tribunal Federal ("Por ofensa a direito local não cabe recurso extraordinário"), além de usurpar a competência do STF no que tange à apreciação de ofensa a dispositivos constitucionais.
+3. O Tribunal pernambucano entendeu, após apreciação das provas produzidas nos autos, que a farinha de trigo ou a mistura eram oriundas de outros estados. Portanto, a alteração do decisum, para modificar o entendimento do magistrado, demanda incursão no acervo fático-probatório dos autos, medida que encontra óbice na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+4. Recurso Especial não conhecido.
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A parte embargante alega omissão do acórdão recorrido, porque toda matéria suscitada no Recurso Especial foi prequestionada implicitamente. Ademais, não houve violação à legislação local, mas somente aos arts. 100 e 144 do CTN. Por último, arguiu que não há necessidade de reexame do contexto fático-probatório produzido nos autos.
+2. Ao contrário do aduzido pela embargante, não houve prequestionamento implícito dos arts. 100, I, e 144 do CTN. Ademais, o Tribunal de origem baseou-se na Lei estadual 11.514/1997 e no art. 475, § 1º, do Decreto estadual 14.876/1991 para solver a lide. Por último, o Tribunal pernambucano entendeu, após apreciação das provas produzidas nos autos, que a farinha de trigo ou a mistura eram oriundas de outros estados. Portanto, a alteração do decisum, para modificar o entendimento do magistrado, demanda incursão no acervo fático-probatório dos autos, medida que encontra óbice na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+3. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+4. Ademais, cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. As alegações da embargante denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+5. Embargos de Declaração rejeitados.
+Defende a parte embargante a ocorrência de dissídio jurisprudencial quanto à existência de prequestionamento implícito, sendo descabida a aplicação da Súmula n. 211/STJ, apontando como paradigma o AgRg no AREsp n. 162.136/SP, da Terceira Turma.
+É o relatório.
+Em que pesem os argumentos da parte embargante, não merece acolhida a insurgência.
+É cediço que os embargos de divergência têm por finalidade precípua dirimir dissídio decorrente da interpretação da legislação federal ocorrida entre julgados proferidos nesta Corte Superior, não servindo o presente recurso uniformizador para nova discussão acerca da utilização ou não de regra técnica de admissibilidade ou conhecimento do apelo nobre ocorrida no caso concreto, devidamente chancelada pelo respectivo órgão fracionário.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO. INCIDÊNCIA DO ENUNCIADO N. 158 DA SÚMULA DO STJ. EMBARGOS DE DIVERGÊNCIA CONTRA ACÓRDÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL. NÃO CABIMENTO. RECURSO QUE NÃO ADENTROU O MÉRITO.
+ ..
+VIII - Saliente-se que os embargos de divergência tem por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento.
+IX - Agravo interno improvido.
+(AgInt nos EREsp 1575037/SP, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 21/02/2018, DJe 28/02/2018)
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO ENTRE ACÓRDÃOS PARADIGMA E EMBARGADO. AUSÊNCIA. SIMILITUDE FÁTICA. NÃO DEMONSTRADA. DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE.
+1. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+2. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+3. Agravo interno não provido.
+(AgInt nos EAREsp 992.733/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 04/12/2017)
+No caso em apreciação, o acórdão embargado, oriundo da Segunda Turma deste Sodalício, não analisou o mérito do recurso especial, ante a incidência das Súmulas 211/STJ, 280/STF e 7/STJ, sendo, pois, descabida a revisão da admissibilidade do apelo nobre nesta via uniformizadora, conforme acima demonstrado.
+Ante o exposto, com fulcro no artigo 266-C do Regimento Interno do STJ, alterado pela Emenda Regimental n. 22/2016, INDEFERE-SE LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA.
+Publique-se.
+Intimem-se.
