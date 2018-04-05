@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] e DILZA JACOB DE OLIVEIRA contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado de Pernambuco (TJ-PE), que inadmitiu o recurso especial.
+Cuida-se de agravo de instrumento manejado por [NOME] e DILZA JACOB DE OLIVEIRA nos autos do inventário do ESPÓLIO DE EDIVALDO [NOME] DE OLIVEIRA.
+O il. Relator do eg. TJ-PE, contudo, negou seguimento ao agravo de instrumento, conforme decisão de monocrática às fls. 540/545.
+Os embargos de declaração opostos foram rejeitados (fls. 561/566).
+Diante disso, [NOME] DE [NOME] DE OLIVEIRA [NOME] e DILZA JACOB DE OLIVEIRA interpuseram agravo regimental, o qual foi desprovido pelo eg. TJ-PE, nos termos do v. acórdão, assim ementado (fl. 585):
+"EMENTA: DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO DE AGRAVO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. RENÚNCIA AO QUINHÃO HEREDITÁRIO APÓS A ACEITAÇÃO TÁCITA DA HERANÇA. CARACTERIZAÇÃO COMO RENÚNCIA TRANSLATIVA. INCIDÊNCIA DO IMPOSTO SOBRE A TRANSMISSÃO CAUSA MORTIS E DOAÇÃO DE QUAISQUER BENS OU DIREITOS - lCD. ART. 1º, §4º, IV, DA LEI ESTADUAL 10.260/89. IMPOSSIBILIDADE DE APRECIAÇÃO DE ARGUMENTOS TRAZIDOS APENAS NOS EMBARGOS DE DECLARAÇÃO. INOVAÇÃO RECURSAL. RECURSO IMPROVIDO.
+- Diante da aceitação tácita da herança pela primeira Agravante, resta configurada a natureza translativa da posterior renúncia formulada em favor de sua genitora, consistindo em verdadeira doação. Incidência do imposto sobre a transmissão causa mortis e doação de quaisquer bens ou direitos - lCD, nos termos do art. 1º, §4º, inciso IV, da Lei Estadual 10.260/89.
+- Tese de que a matéria deve ser vista sob a égide do Código Civil de 1916 somente aventada nos Embargos de Declaração, configurando inovação recursal inviável de ser examinada - uma vez que não foi oportunamente suscitada nas razões do Agravo de Instrumento.
+- Agravo improvido."
+Os novos embargos aclaratórios também foram rejeitados (fls. 637/647).
+Inconformadas, [NOME] DE [NOME] DE OLIVEIRA [NOME] e DILZA JACOB DE OLIVEIRA interpuseram recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, violação dos arts. 1590 e 1812 do CC/16.
+Como dito, o apelo nobre foi inadmitido à fl. 695.
+Irresignadas, [NOME] DE [NOME] DE OLIVEIRA [NOME] e DILZA JACOB DE OLIVEIRA manejaram o presente agravo em recurso especial contra a decisão que inadmitiu seu apelo nobre.
+Não foi apresentada contraminuta (certidão de fl. 730).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Observa-se que o agravo previsto no art. 1.021, § 1º, do Novo Código de Processo Civil tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada.
+Com efeito, o eg. TJ-PE, na decisão de admissibilidade, negou seguimento ao apelo nobre sob os seguintes fundamentos: (i) Súmula 284/STF; e (ii) ausência de cotejo analítico para comprovar a divergência jurisprudencial. As recorrentes, por sua vez, limitaram-se a reiterar questões relativas ao mérito recursal, olvidando-se, entretanto, de atacar, especificadamente, ambos fundamentos de inadmissão do recurso especial.
+Como sabido, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar. Incide, na hipótese, por analogia, o princípio cristalizado na súmula 182 do Superior Tribunal de Justiça.
+Confira-se tal previsão no Regimento Interno do Superior Tribunal de Justiça, in verbis:
+"Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)."
+Nesse panorama, forçoso não conhecer do agravo.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
