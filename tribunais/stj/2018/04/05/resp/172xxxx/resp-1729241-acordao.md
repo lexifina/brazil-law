@@ -1,0 +1,49 @@
+EMENTA
+PROCESSUAL E ADMINISTRATIVO. URV. PRESCRIÇÃO. RECURSO REPETITIVO. RECURSO INADMITIDO.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem que entendeu que a conversão de vencimentos para URV, nos termos da Lei 8.880/1994, é de observação obrigatória aos três entes federativos, incluídos, portanto, os Estados; bem como não reconheceu a prescrição do fundo de direito.
+2. No que concerne à prescrição, bem como à conversão dos vencimentos em URV, considerando o julgamento definitivo do mérito do REsp 1.101.726/SP e, em cumprimento ao disposto no art. 543-C, § 7º, I, do revogado Código de Processo Civil (comando correspondente ao disposto no inc. I do art. 1040 da Lei 13.105, de 16.03.15), nega-se seguimento ao Recurso Especial.
+3. A apontada divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+4. A insurgente, nas razões recursais, não indicou os dispositivos da lei federal a que o Sodalício a quo teria dado interpretação divergente, apontando apenas circunstâncias fáticas.
+5. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo sob o pálio da seguinte ementa:
+SERVIDOR PÚBLICO ESTADUAL  VENCIMENTOS  CONVERSÃO PARA URV  OBRIGATORIEDADE  RECURSO PROVIDO.
+"A conversão de vencimentos para URV, nos termos da Lei nº 8.880/94, é de observação obrigatória aos três entes federativos, incluídos, portanto, os Estados".
+Não foram interpostos Embargos de Declaração.
+A parte recorrente, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação do art. 1º do Decreto 20.910/1932, pugnando, em suma, pela declaração da prescrição do fundo de direito, ou pela não compensação com os reajustes concedidos espontaneamente pelo Estado recorrente.
+Contrarrazões não apresentadas (fl. 149).
+Decisão pela inadmissibilidade do Recurso Especial à fl. 154.
+Agravo em Recurso Especial às fls. 158-161.
+Contraminuta não ofertada (fl. 184).
+Despacho de conversão do Agravo em Recurso Especial, "sem prejuízo de exame posterior mais profundo da admissibilidade", à fl. 205.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 13.3.2018.
+Cuida-se de inconformismo contra acórdão do Tribunal de origem que entendeu que a conversão de vencimentos para URV, nos termos da Lei 8.880/1994, é de observação obrigatória aos três entes federativos, incluídos, portanto, os Estados; bem como não reconheceu a prescrição do fundo de direito.
+A irresignação não merece prosperar.
+No que concerne à prescrição, bem como à conversão dos vencimentos em URV, considerando o julgamento definitivo do mérito do REsp 1.101.726/SP e, em cumprimento ao disposto no art. 543-C, § 71, I, do revogado Código de Processo Civil (comando correspondente ao disposto no inc. I do art. 1040 da Lei 13.105, de 16.03.15), nega-se seguimento ao Recurso Especial.
+Cita-se a ementa do julgado:
+RECURSO ESPECIAL REPETITIVO. PROCESSO CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL TIDO COMO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NOTÓRIA. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CONVERSÃO DE VENCIMENTOS EM URV. APLICAÇÃO DA LEI FEDERAL Nº 8.880/94. DATA DO EFETIVO PAGAMENTO. COMPENSAÇÃO COM OUTROS REAJUSTES. IMPOSSIBILIDADE. NATUREZA DISTINTA.
+1. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a conseqüente demonstração do que consistiu a eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o disposto na Súmula 284 do Excelso Pretório, com o não conhecimento do recurso no que toca à alínea "a" do permissivo constitucional.
+2. De acordo com entendimento firmado por este Superior Tribunal de Justiça é obrigatória a observância, pelos Estados e Municípios, dos critérios previstos na Lei Federal nº 8.880/94 para a conversão em URV dos vencimentos e dos proventos de seus servidores, considerando que, nos termos do artigo 22, VI, da Constituição Federal, é da competência privativa da União legislar sobre o sistema monetário. Divergência jurisprudencial notória.
+3. Os servidores cujos vencimentos eram pagos antes do último dia do mês têm direito à conversão dos vencimentos de acordo com a sistemática estabelecida pela Lei nº 8.880/94, adotando-se a URV da data do efetivo pagamento nos meses de novembro de 1993 a fevereiro de 1994.
+4. Reajustes determinados por lei superveniente à Lei nº 8.880/94 não têm o condão de corrigir equívocos procedidos na conversão dos vencimentos dos servidores em URV, por se tratarem de parcelas de natureza jurídica diversa e que, por isso, não podem ser compensadas.
+5. Recurso especial conhecido em parte e provido.
+(REsp 1.101.726/SP. Ministra MARIA THEREZA DE ASSIS MOURA. TERCEIRA SEÇÃO. DJe 14/8/2009)
+Além disso, a apontada divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC/1973 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal. Confira-se precedente:
+(..) DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA.
+(..)
+3. O conhecimento de recurso especial fundado na alínea "c" do art.105, III, da CF/1988 requisita, além da indicação dos dispositivos legais violados, a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não sendo bastante a simples transcrição de ementas ou votos (artigos 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do RISTJ). A não observância a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ), tal como ocorrido, impede o conhecimento do recurso especial (cf. REsp 1412951/PE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 25/11/2013; AgRg no AREsp 417.461/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 5/12/2013).
+4. Agravo regimental não provido.(AgRg no AREsp 621.300/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/2/2015).
+Ademais, a insurgente, nas razões recursais, não indicou os dispositivos da lei federal a que o Sodalício a quo teria dado interpretação divergente, apontando apenas circunstâncias fáticas.
+Com efeito, a parte recorrente não individualizou os dispositivos normativos violados, tornando patente a falta de fundamentação do apelo especial. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF:
+Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Na mesma linha, destaca-se o entendimento do STJ:
+" M esmo a interposição do Recurso Especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo de lei federal que tenha sido interpretado de forma divergente pelos julgados confrontados, consoante entendimento pacificado no STJ." (REsp 1694692/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/10/2017).
+Desta forma, quanto às questões decididas em recurso repetitivo, com base no que dispõe o artigo 543-C, § 7º, inciso I, do revogado CPC (comando correspondente ao disposto no inc. I do art. 1040 da Lei 13.105, de 16.03.2015), nega-se seguimento ao Recurso Especial, inadmitindo-o no que diz respeito ao mais.
+Pelo exposto, não se conhece do Recurso Especial.
+É o voto.
