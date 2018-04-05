@@ -1,0 +1,83 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. NÃO OCORRÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Não cabe, em recurso especial, reexaminar matéria de fato (Súmula 7/STJ).
+3. O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do Código de Processo Civil de 1973 e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por COOPERATIVA AGROPECUÁRIA DO SUDOESTE MINEIRO LIMITADA, contra decisão de e-STJ fls. 4145/4150, que negou provimento ao agravo em recurso especial.
+Insiste na negativa de prestação jurisdicional.
+Sustenta que "houve notório desvio da finalidade da cédula originária, pois acabou sendo direcionado o empréstimo para uma sociedade empresária e não para uma cooperativa, destoando, portanto, do objetivo previsto nos dispositivos citados alhures" (e-STJ fl. 4191).
+Aduz que houve desvio de finalidade em relação às notas de crédito rural oferecidas pelos cooperados da agravante para integralização de quota.
+Defende que "o ânimo de novar se não expresso, pelo menos, é inequívoco, pois o agravado aceitou a assunção de dívida na escritura e recebia diretamente do comprador as parcelas contidas na cédula, em clara substituição do antigo devedor pelo novo" (e-STJ fl. 4195/4196).
+Afirma que não há falar em reexame do conjunto probatório, para o deslinde da controvérsia, o que afasta a incidência da Súmula 7/STJ.
+Por fim, o dissídio jurisprudencial foi demonstrado nos moldes legais e regimentais.
+Impugnação apresentada às e-STJ fls. 4205/4218.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão agravada ficou assim disposta:
+"Cuida-se de agravo interposto por COOPERATIVA AGROPECUÁRIA DO SUDOESTE MINEIRO LIMITADA contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+ASSISTÊNCIA PROCESSUAL. Admissão da COOPERATIVA CENTRAL DE LATICÍNIOS DE RIBEIRÃO PRETO - COOCELARP, beneficiária do mútuo objeto da cédula de crédito discutida nos autos, como assistente da autora COOPERATIVA AGROPECUÁRIA DO SUDESTE MINEIRO - CASMIL. Ação em que se pretende seja reconhecida a assunção da dívida por uma terceira empresa que adquiriu o patrimônio da assistente. Cabimento. Interesse processual indiscutível. Art. 50 do CPC. Recurso improvido.
+EMBARGOS DE DECLARAÇÃO. Falta de apreciação pelo juízo prolator. Pretensão de nulidade da sentença. Descabimento. Embargos, na hipótese, com efeitos infringentes e que não se volta contra omissão de julgamento sobre matéria sub judice. Inexistência de supressão de instância. Não apreciação, na hipótese, que implica manutenção do que já fora decidido. Matéria também abarcada pelas razões do apelo. Nulidade inexistente. Recurso improvido.
+AÇÃO DECLARATÓRIA DE EXISTÊNCIA DE NOVAÇÃO E ASSUNÇÃO DE DÍVIDA, COM RECONHECIMENTO DE NULIDADE OU EXTINÇÃO DE AVAL, DE HIPOTECA, DE PENHOR E ENDOSSO DE CÉDULA DE CRÉDITO RURAL HIPOTECÁRIA. Garantias prestadas pela cooperativa autora, em favor de outra cooperativa, como garantidora hipotecária da cédula de crédito rural. Cooperativa beneficiária do mútuo, que acaba por ser adquirida por uma terceira empresa. Pretensão ao reconhecimento de novação e de assunção da dívida pela empresa que comprou a cooperativa beneficiária. Pretensão, ainda, à declaração de nulidade ou extinção das garantias perante o Banco. Irrelevância do negócio entabulado entre a cooperativa beneficiária e empresa estranha às garantias prestadas. Declaração, na escritura, de conhecimento dos ônus incidente das garantias até a quitação do débito. Aquisição de imóvel hipotecado que não anula a hipoteca nem transfere o débito garantido para o comprador. Novação inexistente. Art. 1475, "caput" do CC. Recurso provido.
+ASUNÇÃO DE DÍVIDAS. Empresa do ramo imobiliário que adquire imóvel, o galpão, máquinas e marcas pertencentes à cooperativa beneficiária. Aquisição que não caracteriza "compra da cooperativa", nem "incorporação ou sucessão de sociedade". Cooperativa que continua existindo, agora como Cooperativa Central de Laticínios de Ribeirão Preto - COOCELARP. Pessoa jurídica com existência plena, inclusive admitida como assistente da autora nestes autos. Inaplicabilidade das regras pertinentes à sucessão de empresa.
+Assunção da dívida não reconhecida. Ação improcedente. Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+Alega violação dos artigos 334, inciso I, 535, incisos I e II, do Código de Processo Civil de 1973, 166, 167, 168, 299, 300, 364, 421 e 422 do Código Civil, 14, alínea "a" e parágrafo único, do Decreto 58.380/66 e 1º, parágrafo único, e 60, parágrafo 3º, do Decreto-Lei 167/67.
+Sustenta negativa de prestação jurisdicional.
+Aduz que houve desvio de finalidade na utilização do crédito, pois a quantia foi utilizada para a aquisição de imóveis.
+Afirma que houve desvio de finalidade das garantias referentes às notas de crédito rural, pois foram emitidas não em relação a negócios propriamente ditos, mas para a garantia de uma operação de crédito de uma pessoa jurídica das quais não faziam parte, mediante endosso, o que é vedado pelo ordenamento jurídico.
+Afirma que houve novação da dívida.
+Assim delimitada a controvérsia, passo a decidir.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A cooperativa Agropecuária do Sudeste Mineiro Ltda., era associada da Cooperativa Central Leite Nilza, atualmente denominada COOCELAP e, nessa condição, foi avalista e garantidora hipotecária de uma Cédula de Crédito Rural pignoratícia e hipotecária, pelo valor de R$ 11.623.114,00 (onze milhões, seiscentos e vinte e três mil e cento e quatorze reais).
+Ocorre que, em 29.9.2005, a Cooperativa Central Leite Nilza vendeu seu patrimônio, inclusive suas marcas, à empresa Pangassius Empreendimentos Imobiliários Ltda.
+ Com base nessa escritura de compra e venda, pretende a autora ficar exonerada de suas obrigações, tendo em vista que o credor, Banco do Brasil, compareceu na escritura como anuente. Assim sendo, como concordou com a venda de bens que tinham sido objeto de garantia hipotecária, deu-se a novação da obrigação e a assunção da dívida pela empresa adquirente da Cooperativa beneficiária da cédula de crédito. Logo, em face da pretensa novação e assunção da dívida pela empresa Pangassius, afirma que as garantias ficaram extintas por ter se exonerado de toda a obrigação assumida com o Banco requerido.
+Pois bem.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do art. 535 do CPC/73, atual 1022 do CPC/15. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ-FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem, examinando as questões cruciais ao resultado do julgamento.
+2. Revela-se inviável alterar o entendimento das instâncias ordinárias que, com apoio nos elementos de prova, concluíram pela inexistência de elementos capazes de desconstituir o acórdão rescindendo. Para tanto, foram considerados a existência de má-fé na posse do agravante e o fato de que as benfeitorias realizadas na área rural são úteis e não necessárias sendo, portanto, incabível a indenização pleiteada, ante o óbice da Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1608804/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 27/10/2016).
+Sobre o desvio de finalidade, o Tribunal de origem assim se manifestou (fl. 3983):
+"não se reconhece a existência de desvio de finalidade. (..). A prova do desvio de finalidade é contra o tomador do mútuo e não se fez prova de que a Cooperativa beneficiária empregou o dinheiro para outros fins que não os próprios de sua atividade".
+A revisão do acórdão recorrido, quanto a esse aspecto, só se faz possível com reexame da matéria fática da lide, o que inviabiliza o recurso especial por força da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRÉDITO RURAL. ALONGAMENTO DE DÍVIDA RURAL. AFERIÇÃO DOS REQUISITOS. SÚMULA 7/STJ. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A modificação do entendimento firmado nas instâncias ordinárias, quanto à ausência dos requisitos que autorizariam o alongamento da dívida rural, encontra, na hipótese, óbice na Súmula 7/STJ, por demandar o vedado revolvimento de matéria fático-probatória.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 196.850/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 23.10.2012).
+PROCESSO CIVIL. RECURSO ESPECIAL. CÉDULA DE CRÉDITO RURAL. OMISSÃO. NÃO OCORRÊNCIA. SECURITIZAÇÃO DA DÍVIDA. REQUISITOS. CUMPRIMENTO. DESVIO DE CRÉDITO. FALTA COMPROVAÇÃO.
+1- Constitui direito subjetivo do devedor, desde que atendidos os requisitos estipulados na Lei n. 9.138/95, o alongamento da dívida originária de crédito rural.
+2- A verificação dos elementos ensejadores do direito à securitização e ao alongamento da dívida rural, bem como a apreciação do desvio do crédito, necessitaria do reexame dos fatos e provas, soberanamente delineada nas instâncias ordinárias.
+Agravo regimental improvido. (AgRg no REsp 765.122/MT, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 16.6.2008).
+Nos termos do art. 361 do Código Civil, para a existência da novação, devem estar presentes três requisitos básicos, quais sejam, a existência de uma obrigação anterior válida; a criação de uma nova obrigação e o animus novandi.
+A novação, como se sabe, é a substituição convencional de uma dívida por outra nova. Um dos seus requisitos, como já exposto, é o consentimento com o ânimo de novar, posto que a novação não se presume. O animus novandi deve vir claro, induvidoso e isento de vícios, ainda que de forma não expressa.
+O TJSP, no tocante à novação, concluiu que (fls. 3983/3984):
+"(..) não há novação ser reconhecida. Ocorre que o reconhecimento da novação implica a existência de um negócio alterando a essência de um negócio anterior, com vontade expressa de inovar o antigo vínculo obrigacional. Porém, esses requisitos não se concretizaram na hipótese.
+Veja-se que, conforme documento de fls. 124/125, tanto a Unicão Federal como o Banco do Brasil compareceram na escritura de compra e venda da Cooperativa Leite Nilza, como anuentes do negócio que ali se estabeleceu. No entanto, esse negócio foi a aquisição de patrimônio da cooperativa. Aliás, não anuíram expressamente com qualquer cláusula pela qual perdiam as garantias oferecidas na cédula de crédito. Também, ao Banco não foi dado prazo para que op Banco se manifestasse quanto à aceitação da assunção da dívida, conforme previsão do art. 299 do Código Civil.
+Ao contrário, pelo texto do item VI - DA ACEITAÇÃO (..), a compradora afirma estar ciente dos ônus que gravam o imóvel. Não bastasse, no item 6.1, também de fls. 130, os anuentes União Federal e Banco do Brasil, disseram não se opor à compra e venda, mas "continuando, entretanto, os bens vinculados e em garantia das respectivas cédulas rurais pignoratícia e hipotecária". Portanto, os anuentes não fizeram qualquer concordância expressa quanto à extinção da garantia. Ao contrário, fizeram registrar na própria, a ressalva dessa garantias.
+Não se reconhece, portanto, existência de novação, assim como não se reconhecesse existência de assunção de dívida".
+A revisão do entendimento acerca da suficiência dos elementos probatórios reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, o que é vedado, na via do recurso especial, ante o óbice da Súmula 7/STJ.
+Não se conhece do recurso especial no tocante à alínea "c" do inciso III do artigo 105 da Constituição Federal, quando o dissídio jurisprudencial não é demonstrado na forma exigida pelos artigos 541, parágrafo único, do Código de Processo Civil de 1973 e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se".
+Não procede a alegação de ofensa ao artigo 535, incisos I e II, do Código de Processo Civil, pois os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição ou omissão, vícios inexistentes, no acórdão do Tribunal de origem.
+Com efeito, não há omissão no acórdão recorrido, quando o Tribunal de origem pronuncia-se, de forma clara e precisa, sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão, o que restou atendido, no presente caso.
+Alterar o decidido no acórdão impugnado no que se refere à existência de desvio de finalidade e a não ocorrência de novação exige o reexame de fatos e provas, vedado em recurso especial pela Súmula 7/STJ.
+Com efeito, no tocante ao desvio de finalidade, o acórdão recorrido concluiu que (fl. 3983):
+"não se reconhece a existência de desvio de finalidade. (..). A prova do desvio de finalidade é contra o tomador do mútuo e não se fez prova de que a Cooperativa beneficiária empregou o dinheiro para outros fins que não os próprios de sua atividade".
+Nesse sentido:
+"DIREITO CIVIL. DÍVIDA RURAL. SECURITIZAÇÃO E ALONGAMENTO. REQUISITOS LEGAIS. PREENCHIMENTO. SÚMULAS 5 E 7.
+1. É direito do devedor a securitização e alongamento da dívida rural (Súmula n.º 298/STJ), nos termos Lei n.º 9.138/95.
+2. Contudo, a verificação quanto ao preenchimento dos requisitos legais para sua obtenção é matéria infensa à análise desta Corte, por força das Súmulas 5 e 7.
+3. Recurso especial não conhecido. (REsp 518.734/RS, Rel. em. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/6/2010, DJe 15/6/2010).
+Ademais, o TJSP, no tocante à novação, assim se manifestou (e-STJ fl. 3983):
+"(..) não há novação ser reconhecida. Ocorre que o reconhecimento da novação implica a existência de um negócio alterando a essência de um negócio anterior, com vontade expressa de inovar o antigo vínculo obrigacional. Porém, esses requisitos não se concretizaram na hipótese.
+O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do Código de Processo Civil de 1973 e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
