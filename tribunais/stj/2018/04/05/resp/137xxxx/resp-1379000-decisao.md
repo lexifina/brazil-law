@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO RIO GRANDE DO SUL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça daquela unidade federativa, assim ementado (e-STJ fl. 70):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. FORNECIMENTO DE MEDICAMENTO. EMBARGOS Ã EXECUÇÃO. DESCUMPRIMENTO DA LIMINAR COMPROVADO. MULTA DEVIDA. TÍTULO EXECUTIVO EXISTENTE. APELO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente aponta violação do art. 535, II, do CPC/1973, defendendo a nulidade do acórdão recorrido por não ter sido sanado o vício apontado nos embargos de declaração, relativo à irregularidade ocorrida na intimação do ente público acerca da ordem judicial proferida em antecipação de tutela, o que inviabilizou o cumprimento da obrigação no prazo determinado, e justificaria o afastamento da multa cominatória.
+Sem contrarrazões.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 04/03/2016, e AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/11/2015.
+No caso, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado. Confira-se (e-STJ fls. 72/73):
+Observe-se que desde a ciência do demandado quanto ao deferimento da liminar, em 29.04.2008 (fls. 49v do apenso), até o recebimento do recurso de apelação, por ele interposto, no duplo efeito - em 15.12.2008 (fls. 129 do apenso) - os efeitos e a cogência da referida medida liminar permaneciam inalterados, devendo ser, portanto, devidamente cumprida.
+Nessa perspectiva, inegavelmente, houve o descumprimento por parte do embargante, então demandado, da decisão em comento, ao menos no que tange ao período compreendido entre 29.04.2008 (ciência do provimento da medida) e 15.12.2008 (data do recebimento do recurso de apelação no efeito suspensivo).
+Nessa quadra, dissentir da conclusão a que chegou a Corte de origem implica inevitável revolver de aspectos fático-probatórios, providência inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
