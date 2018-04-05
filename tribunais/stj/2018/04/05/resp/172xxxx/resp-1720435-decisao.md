@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C INEXIGIBILIDADE DE INDÉBITO. 1. USURPAÇÃO DE COMPETÊNCIA POR PARTE DO TRIBUNAL DE ORIGEM NA DECISÃO DE ADMISSIBILIDADE DO RESP. NÃO OCORRÊNCIA. SÚMULA 123/STJ. 2. LEGITIMIDADE PASSIVA CONFIGURADA. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL INTERPOSTO POR VMT TELECOMUNICAÇÕES LTDA.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por VMT Telecomunicações Ltda., com fundamento no art. 105, III, alínea a, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 677):
+PRESTAÇÃO DE SERVIÇOS. TELEFONIA. Autora que aderiu a um pacote de produtos e serviços junto à ré, mas que as faturas foram emitidas em valores muito superiores aos contratados, motivo pelo qual ajuizou a presente ação a fim de que fossem anulados os débitos apontados na exordial. O Juízo a quo julgou procedente o pedido, por entender que houve falha na prestação de serviços. Apelo das rés. Cerceamento de defesa. Não ocorrência. Legitimidade passiva da corré configurada.
+Existência de relação de consumo. Sentença de procedência do pedido que deve ser mantida, porquanto correta sua análise dos fatos e fundamentos. Falha na prestação de serviço de telefonia caracterizada. Ausência de exigibilidade dos débitos referidos na inicial. Sentença reformada apenas para apenas para reduzir o valor da condenação ao pagamento de honorários advocatícios de sucumbência, RECURSO DA CORRÉ VMT NÃO PROVIDO; RECURSO DA CORRÉ TELEFÔNICA BRASIL S/A PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 695-699 e 708-711).
+Nas razões do recurso especial (e-STJ, fls. 713-718), a ora agravante alegou violação do art. 267, VI, do CPC/1973, sustentando, em síntese, sua ilegitimidade para figurar no polo passivo da demanda, haja vista que o suposto descumprimento contratual e a cobrança indevida de valores ocorreram exclusivamente pela corré Telefônica.
+A parte acostou aos autos novo recurso, com idêntica argumentação então expendida (e-STJ, fls. 722-727).
+O apelo nobre não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Contraminuta às fls. 777-786 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, convém registrar que deve ser afastada a alegação da agravante quanto à usurpação de competência por parte do Tribunal de origem. Isso porque cabe ao Presidente da Corte local examinar a admissibilidade do recurso especial, o que por vezes implica num exame superficial do próprio mérito, não significando usurpação de competência. Assim dispõe o enunciado n. 123 da Súmula do Superior Tribunal de Justiça: "a decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais ou constitucionais."
+Com relação à matéria de fundo, o Tribunal estadual concluiu pela legitimidade passiva da parte para compor a demanda no seguintes termos (e-STJ, fls. 697-683):
+Igualmente, rejeito a preliminar de ilegitimidade passiva arguida pela corré VMT TELECOMUNICAÇÕES LTDA.
+Com efeito, não há que se falar em ausência de responsabilidade da financeira por eventual ilícito cometido em contrato com a TELEFÔNICA BRASIL S/A, mesmo porque a própria VMT TELECOMUNICAÇÕES LTDA admitiu ter participado da cadeia de fornecimento de serviço de telefonia, ao intermediar a contratação entre TELEFÔNICA BRASIL S/A e autora. Ademais, David, funcionário da VMT TELECOMUNICAÇÕES LTDA, informou à demandante que era consultor da VIVO (sucedida pela TELEFÔNICA BRASIL S/A), em conformidade com e-mail acostado a fls. 117 dos autos.
+(..)
+De fato, correta a decisão supra, com relação à falha na prestação de serviço e à inexigibilidade dos débitos apontados na inicial, pelas razões a seguir expostas.
+A relação estabelecida entre as partes é nitidamente de consumo, ao contrário do que pretende a corré TELEFÔNICA BRASIL S/A, regida, por conseguinte, pelas normas do Código de
+Defesa do Consumidor, de forma que deve ser presumida a boa-fé objetiva da empresa autora, até porque a lei consumerista não faz distinção entre o consumidor pessoa física e o consumidor pessoa jurídica.
+Desse modo, tendo ambas as rés integrado a cadeia de consumo, evidente que as demandadas têm responsabilidade solidária e objetiva pelas falhas na prestação do serviço de telefonia (artigos 3º, § 2º, 7º, § único e 14, todos do Código de Defesa do Consumidor).
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Por fim, em atenção à preclusão consumativa e ao princípio da unirrecorribilidade, não se conhece do segundo recurso interposto, constante de fls. 722-727 (e-STJ).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial interposto VMT Telecomunicações Ltda.
+Publique-se.
