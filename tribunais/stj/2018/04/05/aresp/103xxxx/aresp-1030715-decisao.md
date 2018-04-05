@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 263):
+APELAÇÃO CÍVEL. DESAPROPRIAÇÃO INDIRETA. CONSTRUÇÃO DA RODOVIA R5T472 - TRECHO SANTO CRISTO - PORTO LUCENA - PORTO XAVIER. APOSSAMENTO OCORRIDO NO ANO DE 1996. PRESCRIÇÃO EVIDENCIADA.
+- O prazo prescricional para as pretensões relativas à desapropriação indireta é de vinte anos, nos termos do verbete n0 119 da súmula de jurisprudência do Superior Tribunal de Justiça, reduzido este prazo pelo novo Código Civil para dez anos, nos termos do art. 1.238, Parágrafo único combinado com o artigo 2.028 da mesma legislação. Imóvel residencial, cuja exploração se dá em regime de economia familiar.
+- Manutenção da extinção da ação ante o reconhecimento da prescrição.
+NEGARAM PROVIMENTO À APELAÇÃO.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 535, II, do CPC/73; 1.022 do CC/2002 e dissídio jurisprudencial. Para tanto, sustenta que: (I) o aresto integrativo deve ser anulado, pois não sanou omissão indicada em embargos de declaração; e (II) "para o usucapião extraordinário previsto na parágrafo único do artigo 1238 do CC, deve ser aplicada a regra de transição do artigo 2.029 para a contagem do prazo aquisitivo/prescricional" (fl. 327).
+É o relatório.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, a Corte Especial deste Tribunal, ao examinar o prazo prescricional aplicável à desapropriação indireta, consolidou-se no sentido de que "considerando que a desapropriação indireta pressupõe a realização de obras pelo Poder Público ou sua destinação em função da utilidade pública/interesse social, com base no atual Código Civil, o prazo prescricional aplicável às expropriatórias indiretas passou a ser de 10 (dez anos), observada a regra de transição do art. 2.028 do Código Civil de 2002" (AgInt nos EAREsp 815.431/RS, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 18/10/2017, DJe 27/10/2017).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
