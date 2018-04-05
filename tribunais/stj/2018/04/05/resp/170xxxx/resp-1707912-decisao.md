@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APELAÇÃO. ART. 514 DO CPC/1973. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA SENTENÇA. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJTO, assim ementado (fl. 144):
+APELAÇÃO CÍVEL. INTERPOSIÇÃO PELO MUNICÍPIO DE PALMAS. NÃO CONHECIMENTO. RAZÕES RECURSAIS MANIFESTAMENTE GENÉRICAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA QUANTO AO QUE RESTOU DECIDIDO NA SENTENÇA APELADA. INOBSERVÂNCIA DO DISPOSTO NO ART. 514, INCISO II, DO CPC/1973. AUSÊNCIA DE REQUISITO DE ADMISSIBILIDADE CONSUBSTANCIADO NA AUSÊNCIA DE REGULARIDADE FORMAL. OFENSA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. APELAÇÃO NÃO CONHECIDA.
+1. O efeito devolutivo que é conferido à apelação exige que o apelante exponha, de maneira clara e objetiva, as razões fáticas e jurídicas de seu inconformismo com a sentença apelada. Precedentes do TJTO.
+2. As razões de apelação ("fundamentos de fato e de direito" - art. 514, II, CPC/1973 - vigente à época da interposição recursal) compreendem, como é intuitivo, a indicação do error in procedendo ou in judicando (ou de ambas as espécies), que, no entender do apelante, viciam a sentença, devendo haver a clara e objetiva exposição dos motivos do inconformismo. Tem-se entendido que não é satisfatória a mera invocação, de forma genérica ou em peça padronizada, de razões que não guardam relação com o teor da sentença ou não a atacam especificadamente. Doutrina.
+3. A motivação fática e jurídica do apelo deve constar expressamente das razões do recurso que são apresentadas ao Tribunal, sob pena de a apelação não ser recebida pelo juízo a quo ou, se já recebida, de não ser conhecida pelo juízo ad quem. Trata-se, portanto, de elemento formal indispensável à admissibilidade do recurso, que não pode ser substituído por simples remissões às razões constantes da petição inicial, contestação ou outra peça processual.
+4. Sem haver a impugnação específica da sentença apelada, não é possível ao tribunal apreciar a correção ou justiça do ato judicial atacado, de sorte que o não conhecimento nesses casos é de rigor.
+5. É inepta a apelação que ataca a sentença de forma manifestamente genérica, impondo-se, em homenagem ao princípio da dialeticidade recursal, o não conhecimento do apelo em razão da inobservância do requisito da regularidade formal.
+6. Apelação interposta pelo Município de Palmas não conhecida.
+Em suas razões, o recorrente alega ofensa aos artigos 513 e 514, II, do CPC/1973, sob o fundamento de que seu recurso de apelação interposto na origem obedeceu a todos os requisitos previstos na legislação de regência, razão pela qual deva ser conhecido e julgado no mérito.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 244.
+É o relatório. Passo a decidir.
+O entendimento desenvolvido pelo Tribunal de origem alinha-se à jurisprudência hodierna desta Corte Superior de Justiça no sentido de que, para que sejam atendidos os requisitos do art. 514 do CPC/1973, dentre outros requisitos, deve haver impugnação específica aos fundamentos que motivaram a sentença, o que não ocorreu no caso dos autos, já que conforme asseverado pela Corte a quo o Município de Palmas limitou-se a impugnar a sentença de forma manifestamente genérica. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO AUTORAL. PROGRAMA TELEVISIVO. INEXISTÊNCIA DE PLÁGIO. VIOLAÇÃO AOS ARTS. 128, 165, 458, II, E 535, I E II, DO CPC. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA SENTENÇA. OFENSA AO ART. 515 DO CPC. NÃO OCORRÊNCIA. LAUDO PERICIAL. NÃO ADSTRIÇÃO DO JUIZ ÀS SUAS CONCLUSÕES. VIOLAÇÃO À LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+2. Nos termos da orientação jurisprudencial do Superior Tribunal de justiça, "havendo impugnação específica dos fundamentos que motivaram a sentença, contendo a apelação os nomes e a qualificação das partes, os fundamentos de fato e de direito e o pedido de nova decisão, ficam preenchidos os requisitos previstos no art. 514 do CPC" (AgRg no AREsp 694.714/AM, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/10/2015, DJe de 06/11/2015)
+ ..  (AgRg no AREsp 851533/SP, Quarta Turma, Rel. Ministro RAUL ARAÚJO, DJe 29/04/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. OBSERVÂNCIA DOS REQUISITOS PREVISTOS NO ART. 514 DO CPC. NÃO CONHECIMENTO DO RECURSO QUE IMPLICA RIGOR EXCESSIVO E INJUSTIFICADO.
+1. Havendo impugnação específica dos fundamentos que motivaram a sentença, contendo a apelação os nomes e a qualificação das partes, os fundamentos de fato e de direito e o pedido de nova decisão, ficam preenchidos os requisitos previstos no art. 514 do CPC.
+2. Agravo regimental não provido. (AgRg no AREsp 694714/AM, Segunda Turma, Rel. Ministro MAURO CAMPBELL MARQUES, DJe 06/11/2015)
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
