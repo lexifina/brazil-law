@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão exarada pela il. Presidência do eg. Tribunal de Justiça do Estado de Sergipe (TJ-SE), que inadmitiu o recurso especial.
+Cuidam os autos, na origem, de "ação de repetição de indébito c/c danos morais e pedido de tutela antecipada" proposta por [NOME] em desfavor de SKY BRASIL SERVIÇOS LTDA.
+O il. Magistrado julgou parcialmente procedentes os pedidos (sentença às fls. 137/148).
+Diante disso, [NOME] NASCIMENTO [NOME] DE MENEZES interpôs apelação, a qual foi desprovida pelo eg. TJ-SE, nos termos do v. acórdão, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C DANOS MORAIS E PEDIDO DE ANTECIPAÇÃO DE TUTELA. SERVIÇOS DE TV POR ASSINATURA. RELAÇÃO DE CONSUMO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. COBRANÇAS INDEVIDAS DE RUBRICAS NÃO AJUSTADAS. ILICITUDE CONTRATUAL QUE SOMENTE SERVE DE FUNDAMENTO A INDENIZAÇÃO PATRIMONIAL, NÃO ENSEJANDO A INDENIZAÇÃO EXTRAPATRIMONIAL. DESLIGAMENTO DO FORNECIMENTO DO SERVIÇO DURANTE O TRÂMITE PROCESSUAL. FATO QUE NÃO SE INTEGRA A CAUSA DE PEDIR DESTA DEMANDA. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME." (fl. 227)
+Inconformada, [NOME] NASCIMENTO [NOME] DE MENEZES interpôs recurso especial, com fulcro no art. 105, inciso III, alíneas "a" e "c", da CF/88, no qual alega, além da divergência jurisprudencial, violação do art.5º, incisos V e X, da CF/88; dos arts. 3º, 4º, 6º, 14, todos do CDC.
+Como dito, o apelo nobre foi inadmitido às fls. 265/268.
+Irresignado, [NOME] NASCIMENTO [NOME] DE MENEZES manejou o presente agravo em recurso especial refutando os fundamentos da decisão que inadmitiu seu apelo nobre.
+Foi apresentada contraminuta (fls. 286/295).
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Observa-se que o agravo previsto no art. 1.021, § 1º, do Novo Código de Processo Civil tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada.
+Com efeito, o eg. TJ-SE, na decisão de admissibilidade, negou seguimento ao apelo nobre porquanto a pretensão recursal demandaria reexame fático e probatório. A recorrente, por sua vez, limitou-se a reiterar questões relativas ao mérito recursal, olvidando-se, entretanto, de atacar, especificadamente, o fundamento de inadmissão do recurso especial concernente à Súmula 7 deste Pretório.
+Como sabido, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar. Incide, na hipótese, por analogia, o princípio cristalizado na súmula 182 do Superior Tribunal de Justiça.
+Confira-se tal previsão no Regimento Interno do Superior Tribunal de Justiça, in verbis:
+"Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)."
+Nesse panorama, forçoso não conhecer do agravo.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Majoro os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, de R$ 10% para R$ 11% sobre o valor da condenação.
+Publique-se.
