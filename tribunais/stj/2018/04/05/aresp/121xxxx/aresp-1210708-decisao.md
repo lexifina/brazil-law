@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. CÉDULA DE CRÉDITO BANCÁRIO E COMERCIAL. REGRAMENTO PRÓPRIO. TAXA DE JUROS REMUNERATÓRIOS. LIMITAÇÃO A 12% AO ANO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+SERRANA TEXTIL LTDA (SERRANA) ajuizou ação de rescisão contratual c/c indenizatória contra BANCO DO NORDESTE DO BRASIL SA (BANCO), objetivando o afastamento de encargos abusivos cobrados nos contratos firmados entre as partes, bem como a devolução dos valores pagos indevidamente a maior (e-STJ, fls. 3/20).
+A sentença foi de parcial procedência dos pedidos, condenando o BANCO à restituição dos valores cobrados a maior. Em razão da sucumbência recíproca, foi determinado o rateio das custas e honorários fixados em 15% sobre o valor da condenação, vedada a compensação(e-STJ, fls. 878/882).
+Interpostas apelações por ambas as partes, foram parcialmente providas, nos termos do acórdão assim ementado:
+ APELAÇÕES CÍVEIS. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS. BANCO DO NORDESTE. DIVERSOS CONTRATOS DE ABERTURA DE CRÉDITO COM CAPITAL DE GIRO, CONTA CORRENTE E CHEQUE ESPECIAL, BEM COMO NOTAS E CÉDULAS DE CRÉDITO INDUSTRIAL E COMERCIAL. INAPLICABILIDADE DO CDC. CRÉDITOS CONCEDIDOS PARA INCREMENTO DA ATIVIDADE COMERCIAL E INDUSTRIAL DA AUTORA PRECEDENTE DO STJ. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA E DE VIOLAÇÃO AO CONTRADITÓRIO, À AMPLA DEFESA E AO ART. 355, I, DO CPC. CONTRATOS JÁ ANEXADOS AOS AUTOS. EXTRATOS DE MOVIMENTAÇÃO FINANCEIRA DESPICIENDOS.
+INVIABILIDADE DA PRODUÇÃO DE PROVAPERICIAL, UMA VEZ QUE OS CÁLCULOS DEPENDERÃO ENQUADRAMENTO DOS CONTRATOS À LEGALIDADE POR SENTENÇA. PERÍCIA DESNECESSÁRIA LIVRE CONVENCIMENTO MOTIVADO. MATÉRIA DE DIREITO. ADOÇÃO DA LIMITAÇÃO DE JUROS DE 12% AO ANO PREVISTA NO DECRETO 22626/1933, EM RELAÇÃO AS CÉDULAS DE CRÉDITO INDUSTRIAL E COMERCIAL, EXCEPCIONALMENTE. PRECEDENTES DO STJ. ADMISSIBILIDADE DA CAPITALIZAÇÃO DE JUROS POR EXPRESSA PREVISÃO CONTRATUAL. NÃO CONHECIMENTO DO RECURSO DA AUTORA NO TOCANTE AOS JUROS MORATÓRIOS. AUSÊNCIA DE INTERESSE. CONTRATOS QUE JÁ SE LIMITARAM AO PERCENTUAL DE 12% AO ANO. MULTA MORATÓRIA NAS NOTAS E CÉDULAS DE CRÉDITO INDUSTRIAL E COMERCIAL NO PERCENTUAL DE 10%.
+POSSIBILIDADE DIANTE DE PREVISÃO LEGAL ESPECÍFICA.
+ART. 71 DO DEC-LEI 167/67. MANUTENÇÃO DO EXPURGO DA COMISSÃO DE PERMANÊNCIA, PORQUE CUMULADA COM OUTROS ENCARGOS MORATÓRIOS. JUROS REMUNERATÓRIOS NO CONTRATO DE ABERTURA DE CRÉDITO E NOS CONTRATOS DE CONTA CORRENTE. PREVISÃO CONTRATUAL À MÉDIA DO MERCADO MANTIDA . DESCARACTERIZAÇÃO DA MORA DEBITORIS. RECONHECIMENTO DE ABUSIVIDADE NOS ENCARGOS EXIGIDOS NO PERÍODO DE NORMALIDADE (JUROS REMUNERATÓRIOS). DESCABIMENTO DA LIQUIDAÇÃO POR ARBITRAMENTE. HIPÓTESE QUE RETRATA A NECESSIDADE DE CONFECÇÃO DE CÁLCULOS ARITMÉTICO NÃO COMPLEXOS. HONORÁRIOS DE SUCUMBÊNCIA MANTIDOS PRO-RATA E NO PERCENTUAL DE 15% SOBRE O VALOR DA CAUSA. NÃO EXCESSIVIDADE. RECURSO DA AUTORA CONHECIDO PARCIALMENTE. NA PARTE CONHECIDA PROVIDO PARCIALMENTE. RECURSO DO REQUERIDO CONHECIDO E PARCIALMENTE PROVIDO. VOTAÇÃO UNÂNIME (e-STJ, fls. 995/997).
+Irresignado, o BANCO interpôs recurso especial, amparado no art. 105, III, a, da Constituição Federal, alegando ofensa aos arts. 4º, inciso IX da Lei 4.595/64 e Decreto 22.226/33. Sustntou qser descabida a descaracterização da mora (e-STJ, fls. 1016/1037).
+Contrarrazões não apresentadas (e-STJ, fls.1050).
+O recurso foi inadmitido na origem por ausência de ofensa aos dispositivos de lei federal indicados e incidência da Súmula nº 83 do STJ (e-STJ, fls. 1056/1057).
+Foi interposto agravo em recurso especial pelo BANCO (e-STJ, fls. 1062/1073).
+Contraminuta não apresentada (e-STJ, fls. 1078).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1) Da limitação dos juros
+O recorrente alega ser inaplicável a lei de usura ao presente caso, pugnando pela manutenção dos juros conforme contratado, afastando a limitação imposta.
+Quanto ao tema, este Sodalício entende que tratando-se de contratos que envolvam cédulas de crédito bancário, rural ou industrial, a instituição financeira está autorizada a cobrar, após a inadimplência, a taxa de juros remuneratórios contudo, limitada a 12% ao ano, elevada de 1%, a título de juros de mora, além de multa de 10% e correção monetária. Não se admite, nessas hipóteses, a cobrança de comissão de permanência.
+O tribunal de origem decidiu conforme a seguir:
+Tratando-se de cédulas de crédito rural, comercial e industrial, é firme a jurisprudência do STJ, no sentido de que se acham submetidas a regramento próprio (Lei nº 6.840/80 e Decreto-Lei 413/69) que conferem ao Conselho Monetário Nacional o dever de fixar os juros a serem praticados. Diante da omissão desse órgão governamental, incide a limitação de 12% ao ano, prevista no Decreto nº 22.626/33 (Lei da Usura).
+Assim, ainda que não sejam aplicáveis as disposições da Lei de Usura, seria imprescindível que houvesse regulamentação pelo órgão competente para que se pudesse pactuar livremente a taxa de juros. Ante a omissão do Conselho Monetário Nacional, pacificou-se o entendimento que tais títulos deveriam submeter-se ao limite de 12% ao ano (e-STJ, fls 1006).
+Assim, decidiu com acerto a Corte de origem ao limitar os juros no caso dos autos, devendo ser mantido o julgado. Nesse sentido, os precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. COMISSÃO DE PERMANÊNCIA. IMPOSSIBILIDADE DA CLÁUSULA. PRECEDENTES.
+1. Esta Corte não admite a cobrança de comissão de permanência em caso de inadimplência nas cédulas de crédito rural, comercial e industrial.
+2. Evidenciado o caráter manifestamente protelatório pelo tribunal de origem, impõe-se a manutenção da aplicação da multa prevista no parágrafo único do art. 538 do Código de Processo Civil.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.092.545/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 7/3/2013, DJe 13/3/2013 - sem destaque no original)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE REVISÃO CONTRATUAL C/C REPETIÇÃO DO INDÉBITO - CÉDULA DE CRÉDITO RURAL - LIMITAÇÃO DOS JUROS REMUNERATÓRIOS - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DA INSTITUIÇÃO FINANCEIRA.
+1. É inviável o conhecimento de tese que foi suscitada apenas em agravo regimental, por constituir efetiva inovação recursal. Ademais, consoante a remansosa jurisprudência do STJ, na instância especial, ainda que se trate de matéria de ordem pública, a análise da questão não dispensa o prequestionamento. Precedentes.
+2. Possibilidade de limitação dos juros remuneratórios em 12% ao ano na presente demanda. O entendimento pela ausência de limitação de juros remuneratórios, adotado em relação aos contratos bancários em geral, não se aplica às cédulas de crédito rural, comercial e industrial, tendo em vista que se submetem a regramento próprio, afastando-se a aplicação da Lei 4.595/64, mas sim ao art. 5º do DL 413/1969.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1.416.289/RS, Rel. Ministro MARCO BUZZI, Quarta Turma, julgado em 12/5/2015, DJe 19/5/2015, sem destaques no original)
+CÉDULA DE CRÉDITO COMERCIAL E PROCESSUAL. RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. ARTIGO 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. JULGAMENTO DO MÉRITO DA CAUSA PELO TRIBUNAL, CASO TENHA SIDO PROPICIADO O CONTRADITÓRIO E A AMPLA DEFESA. POSSIBILIDADE. EMISSÃO DE CÉDULA DE CRÉDITO COMERCIAL PARA QUITAR DÍVIDA ESTAMPADA EM TÍTULO DA MESMA ESPÉCIE. POSSIBILIDADE.
+1. (..)
+4. "Nas Cédulas de Crédito Rural, Industrial ou Comercial, a instituição financeira está autorizada a cobrar, após a inadimplência, a taxa de juros remuneratórios, limitada a 12% ao ano, elevada de 1%, a título de juros de mora, além de multa de 10% e correção monetária, sendo inexigível a cobrança de comissão de permanência". (AgRg no REsp 804118/DF, Rel. Min. SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/11/2008, DJe 12/12/2008)
+5. Recurso especial não provido.
+(REsp 981.416/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 4/10/2012, DJe 18/10/2012, sem destaques no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016. Dje 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por fim, advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
