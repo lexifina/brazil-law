@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo interposto por IGOR [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial interposto com fulcro na alínea a do permissivo constitucional.
+Depreende-se dos autos que o ora recorrente foi condenado, como incurso nas sanções do art. 33, c/c o art. 40, I, ambos da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais 583 dias-multa, em razão da apreensão de 199,7g de maconha e 184,2g de cocaína, além da quantia de 95,00 reais em dinheiro (e-STJ fls. 84/96).
+O Tribunal de origem negou provimento ao apelo da defesa (e-STJ fls. 162/178).
+No recurso especial, o recorrente aduziu violação dos arts. 33, § 4º, da Lei n. 11.343/2006 e 33 e 44 do Código Penal. Alegou que não havia fundamentação idônea para a não aplicação da causa especial de diminuição da pena em seu patamar máximo, bem como para a fixação do regime inicial fechado e para não substituição da pena privativa de liberdade por restritivas de direitos.
+Contrarrazões às e-STJ fls. 246/250.
+Manifestação ministerial às fls. 295/296, e-STJ.
+É o relatório.
+Decido.
+O Tribunal estadual, com lastro na variedade e na quantidade de drogas, bem como em razão de seu envolvimento com organização criminosa, afastou a minorante especial do art. 33, § 4º, da Lei n. 11.343/2006 (e-STJ fls. 172/173):
+A redução da pena prevista no artigo 33, parágrafo 4º, da Lei n. 11.343/2006 não pode ser aplicada no caso em tela, uma vez que a quantidade de entorpecentes apreendida em seu poder, bem como a natureza delas, impede a aplicação de tal benefício.
+Conforme apurado, o recorrente apresenta envolvimento em organização criminosa, que conta, inclusive, com a ajuda de adolescente na comercialização dos entorpecentes. Portanto, incabível o pleito defensivo de aplicação do benefício do referido artigo no caso em comento.
+A defesa insistiu, nas razões do recurso especial, que a quantidade e a variedade de drogas não justificam a exclusão do redutor, por absoluta ausência de previsão legal para tanto.
+Contudo, o recurso não prospera.
+A sedimentada jurisprudência do Superior Tribunal de Justiça é a de que tanto a quantidade quanto a variedade de entorpecentes são sim justificativas idôneas para o fim de afastar a minorante a que se refere o art. 33, § 4º, da Lei n. 11.343/2006, servindo de sérios indícios de envolvimento do agente com atividades criminosas ou com organização criminosa.
+Confiram-se, a respeito, os seguintes precedentes:
+PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. NATUREZA E QUANTIDADE DA SUBSTÂNCIA ENTORPECENTE APREENDIDA. ALTERNATIVIDADE. PRIMEIRA OU TERCEIRA FASE DO EXAME DOSIMÉTRICO. DISCRICIONARIEDADE DO MAGISTRADO. CAUSA ESPECIAL DE DIMINUIÇÃO. PEQUENA QUANTIDADE DE DROGA APREENDIDA. PATAMAR MÁXIMO. APLICAÇÃO. POSSIBILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PRETENSÃO DE CONVERSÃO DA PENA CORPORAL EM UMA PENA SUBSTITUTIVA E MULTA. ART. 44, § 2º, DO CÓDIGO PENAL. DISCRICIONARIEDADE NA ALTERNATIVIDADE SANCIONATÓRIA. INCIDÊNCIA DA SÚMULA 171 DESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Nos termos da Jurisprudência pacífica desta Corte, a natureza e a quantidade da substância entorpecente apreendida (art. 42 da Lei 11.343/06) podem ser sopesadas, alternativamente, tanto na primeira fase do exame dosimétrico, para majorar a pena-base, como terceira fase, para negar a redutora do tráfico privilegiado, estando a escolha afeta à discricionariedade do julgador.
+ ..
+6. Ordem parcialmente concedida a fim de reduzir a pena imposta ao paciente para 1 (um) ano e 8 (oito) meses de reclusão, no regime inicial aberto, mais o pagamento de 333 (trezentos e trinta e três) dias-multa. (HC 403.226/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/08/2017, DJe 24/08/2017, grifei).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA UTILIZADA PARA MODULAR A FRAÇÃO DE REDUÇÃO. POSSIBILIDADE. REGIME PRISIONAL. QUANTIDADE DA SUBSTÂNCIA APREENDIDA. MODO FECHADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DO PREENCHIMENTO DO REQUISITO OBJETIVO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+3. Na falta de indicação pelo legislador das balizas para o quantum da redução, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do delito, podem ser utilizadas na definição de tal índice ou, até mesmo, para afastar a aplicação da minorante quando evidenciarem a habitualidade do agente no comércio ilícito de entorpecentes. Precedentes.
+ ..
+8. Habeas corpus não conhecido. (HC 396.438/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/06/2017, DJe 28/06/2017, grifei).
+Além de o acórdão recorrido estar em absoluta consonância com a jurisprudência massiva desta Corte, a adoção do entendimento de não haver indícios de envolvimento do recorrente com atividades criminosas, de modo a reverter o julgado para reconhecer-lhe a minoração da pena, demandaria, sem sombra de dúvida, o esmerilamento de fatos e provas, o que é, terminantemente, vedado pelo óbice intransponível da Súmula n. 7.
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. DECISÃO RECORRIDA. APLICAÇÃO DA MINORANTE. VIVÊNCIA DELITIVA. IMPOSSIBILIDADE. SUM. 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Mostrando-se idônea a fundamentação adotada pelas instâncias ordinárias para afastar a aplicação da causa de diminuição da pena, com fundamento em fatos concretos que demonstram a efetiva vivência delitiva do agente, evidenciando a dedicação a atividades criminosas, infirmar tal conclusão requer incursão no conjunto fático-probatório, o que é vedado na via do recurso especial, tendo em vista o óbice da Súmula 7 do Superior Tribunal de Justiça. Precedentes.
+3. Agravo regimental improvido. (AgInt no AREsp 974.507/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/05/2017, DJe 30/05/2017, grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO PRINCÍPIO DO COLEGIADO. INOCORRÊNCIA. TRÁFICO DE DROGAS. "MULA". CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI DE DROGAS AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. SUM. N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+III. É inviável aferir em recurso especial se o acusado dedica-se ou não a atividade criminosa, em face do óbice da Súmula n. 7/STJ.
+IV. Agravo regimental a que se nega provimento. (AgInt no AREsp 980.381/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017, grifei).
+Assim, o acórdão local deve ser mantido intacto pelos seus próprios termos.
+Mantida a pena no patamar imposto pelo Tribunal local, 5 anos e 10 meses de reclusão, o pleito de conversão da pena corporal fica inviável.
+Por fim, quanto ao regime inicial para o cumprimento da sanção, observa-se que o Pleno do Supremo Tribunal Federal, no julgamento do HC n. 111.840/ES, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, por ofender a garantia constitucional de individualização da pena (art. 5º, XLVI, da Constituição Federal). Afastou, dessa forma, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e dos demais delitos a eles equiparados.
+Em tal contexto, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o Julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Na hipótese, o Tribunal local consignou a seguinte motivação (e-STJ fls. 174/175):
+Impossível a fixação de regime mais brando, pois o regime inicial de cumprimento da pena deve ser o fechado, vez que imposição de regime mais brando, não atenderia ao princípio da suficiência no presente caso.
+O próprio artigo 33 em seu parágrafo terceiro determina que na fixação do regime inicial o magistrado deverá observar não só o quantum de pena, mas também o disposto no artigo 59 do Código Penal.
+Ora, no caso em tela o apelante não apresenta circunstâncias judiciais favoráveis, diante da gravidade do crime praticado, qual seja, o tráfico de entorpecentes, delito inclusive equiparado a hediondo. Ainda, tais circunstâncias exigem maior rigor por parte do Estado.
+Assim, a determinação do regime inicial como diverso daquele previsto no artigo 33, § 2º do Código Penal, é faculdade do juiz, que pode dosar a qualidade da pena.
+ ..
+Sendo que tal regime corresponde perfeitamente à eficiente medida politico-criminal, que busca harmonizar a legislação pátria aos Tratados de Direito Internacionais que tangem ao combate a narcotraficância, dos quais o país é signatário.
+Deve-se considerar ainda o alto índice de drogas produzidas no. país e a nossa avantajada localização geográfica, que facilita a criação de rotas para a entrada e saída de entorpecentes, que abastecem o tráfico internacional.
+Note-se também que o crime de tráfico se tornou um mal presente na sociedade atual, gerando tremenda insegurança na população.
+Além disso, é certo que a traficância ilícita fomenta a prática de outros delitos. O que faz com que a conduta do réu mereça maior reprovabilidade por parte do Estado.
+Fica patente, portanto, que o regime fechado é o único que se mostra apto para atingir a função preventiva da pena, de inibir a prática de novas ações delituosas, nos termos do artigo 33, § 3º, do Código Penal.
+Depreende-se que o Tribunal de origem assim decidiu com esteio apenas na gravidade em abstrato do delito, deixando de indicar elementos concretos dos autos que demonstrassem a real necessidade de imposição de regime prisional mais gravoso, o que vai de encontro ao teor dos enunciados n. 718 e 719 da Súmula do STF, bem como do enunciado n. 440 da Súmula do STJ, que assim dispõem:
+Enunciado 718/STF: "A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada".
+Enunciado 719/STF: "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Enunciado 440/STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Sob tal perspectiva e diante dos parâmetros acima aludidos, entendo que o paciente deve ser submetido ao regime semiaberto para o início do cumprimento da reprimenda que lhe foi imposta.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial a fim de estabelecer o regime inicial semiaberto.
+Publique-se. Intimem-se.
