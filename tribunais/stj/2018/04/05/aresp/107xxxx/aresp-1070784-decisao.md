@@ -1,0 +1,37 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO. PRESCRIÇÃO. NÃO INTERRUPÇÃO EM DECORRÊNCIA DE AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+BENJAMIN ZAMUNER (BENJAMIN) propôs ação executiva contra BANCO DO BRASIL S/A para recebimento de valores decorrentes de ação civil pública ajuizada pelo IDEC.
+Da decisão que julgou improcedente sua impugnação, o BANCO apresentou agravo de instrumento, o qual foi desprovido, nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. IDEC. AÇÃO CIVIL PÚBLICA. TÍTULO EXECUTIVO. EXTENSÃO DOS EFEITOS DO JULGADO AO TERRITÓRIO NACIONAL. PARADIGMAS. RESP 1.391.198 -RS. TEMAS 723 E 724 DO STJ. REATIVAÇÃO DO FETO. ATO 21/2016-P. JUROS DE MORA. TERMO INICIAL. TEMA 685-STJ. RESP. 1.370.899/SP. APLICAÇÃO DA TESE. VERBA SUCUMBENCIAL. REDIMENSIONADA.
+1. REATIVAÇÃO DO FEITO. Diante do julgamento do paradigma REsp 1.391.198/RS (Temas 723 e 724 do STJ) e da edição do Ato 21/2016-P, possível a reativação deste processo, descabendo manter-se sua suspensão.
+2. TÍTULO EXECUTIVO. Eficácia subjetiva da coisa julgada. Limitação. Inviabilidade. Título executivo válido. Aplicação do art. 103 do CDC, a estender a eficácia da decisão proferida em ação coletiva para além dos limites territoriais do Juízo Prolator, a fim de que a decisão abranja todo o território nacional. Tema 723-STJ: "A sentença proferida pelo Juízo da 12a Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva nº 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal".
+3. JUROS DE MORA. Mesmo em execuções ou cumprimentos de sentença individuais, os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração desta em momento anterior.
+Entendimento pacificado em sede de julgamento repetitivo pelo Superior Tribunal de Justiça, no REsp 1.370.899/SP (Tema 685 dos Recursos Repetitivos), cuja aplicação deve ser observada em todos os recursos que ventilem a mesma controvérsia.
+4. EFEITO DOS PARADIGMAS DOS TRIBUNAIS SUPERIORES. 0 moderno processo civil requer a observância, pelos aplicadores do Direito, dos paradigmas julgados pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça, ao apreciar os representativos da controvérsia em Temas e Teses definidos como Repercussão Geral e Recursos Repetitivos. Corolário disso é que, no caso em estudo, as teses fixadas em sede repetitiva devem ser aplicadas a todos os recursos que ventilem as mesmas controvérsias.
+RECURSO DESPROVIDO (e-STJ, fls. 114/115)
+O BANCO manejou recurso especial com fundamento no art. 105, III, a e c, da CF/88, alegando, além de dissídio, ofensa aos arts. 178, § 1º, Ill, do Código Civil/1916 e 206, § 3º, Ill, do Código Civil. Sustentou, em síntese, 1) a necessidade de suspensão do feito ante a afetação do tema para julgamento como recurso repetitivo; 2) a prescrição do direito em requerer juros e correção monetária (e-STJ, fls. 135/149).
+O recurso foi inadmitido na origem, sob o fundamento de impossibilidade de suspensão do feito pois o tema não estaria submetido ao julgamento dos recursos repetitivos; e falta de prequestionamento (e-STJ, fls. 167/174).
+Foi interposto agravo em recurso especial pelo BANCO (e-STJ, fls. 177/186).
+A contraminuta foi apresentada (e-STJ, fls. 190/194).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1) Quanto à alegada suspensão, cumpre consignar que, em 27/09/2017, a Segunda Seção do STJ decidiu desafetar o Resp 1.438.263-SP, de modo que a pretensão recursal, nesse ponto, fica prejudicada.
+2) Relativamente à prescrição, a jurisprudência desta Corte é firme quanto aos juros remuneratórios de conta de poupança, incidentes mensalmente e capitalizados, agregarem-se ao capital, assim como a correção monetária, perdendo, sua natureza de acessórios. Assim, nesse caso, a prescrição não de cinco anos (art. 178, § 1, III, do CC/16), mas a vintenária.
+Nesse sentido:
+DIREITO ECONÔMICO E PROCESSUAL CIVIL. PLANO VERÃO. CADERNETA DE POUPANÇA. LEI Nº 7.730/89. INAPLICABILIDADE. PRESCRIÇÃO.
+I - Inaplicável a Lei 7.730/89 às cadernetas de poupança com período mensal iniciado ou renovado até 15 de janeiro de 1989, devendo incidir o IPC, no percentual de 42,72%. A referida lei, entretanto, incide sobre as contas com data de aniversário posterior, ou seja, a partir da segunda quinzena daquele mês.
+II - Aos juros remuneratórios incidentes sobre diferenças de expurgos inflacionários em caderneta de poupança não se aplica o prazo prescricional do artigo 178, § 10, III, do Código Civil de 1916. Agravo provido em parte.
+(AgRg no REsp 471.786/SP, Rel. Ministro CASTRO FILHO, TERCEIRA TURMA, DJ 24.4.2006);
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. POUPANÇA. PRESCRIÇÃO DOS JUROS. PRESCRIÇÃO VINTENÁRIA. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. A presente controvérsia não se enquadra naquelas hipóteses em que o sobrestamento se impõe, pois versa apenas sobre questão processual, qual seja a prescrição dos juros nas obrigações oriundas do pagamento de expurgos inflacionários relativos à edição de planos econômicos, fora, portanto, das hipóteses de suspensão de que tratam os Recursos Extraordinários n. 591.797/SP e 626.307/SP, de Relatoria do eminente Ministro Dias Toffoli.
+2. Esta Corte Superior adota a incidência da prescrição vintenária para buscar-se a diferença remuneratória dos saldos de poupança atingidos pelos expurgos inflacionários decorrentes do advento de planos econômicos, bem como para a aferição dos juros remuneratórios, não havendo razão, portanto, para alterar-se a decisão primeva. Incidência da Súmula 83/STJ.
+3. Agravo regimental não provido.
+(AgRg no Ag 1.306.354/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 17/9/2015).
+
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
