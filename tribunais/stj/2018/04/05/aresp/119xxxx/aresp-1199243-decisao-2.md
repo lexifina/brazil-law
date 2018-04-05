@@ -1,0 +1,20 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MANUTENÇÃO DE EX-EMPREGADO APOSENTADO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO ESPECIAL. INEXISTÊNCIA DE JUÍZO DE ADMISSIBILIDADE. AGRAVO NÃO CONHECIDO.
+DECISÃO
+[NOME] (ANTÔNIO) ajuizou ação de obrigação de fazer, c/c indenização por danos morais e pedido de antecipação de tutela, em desfavor de BRADESCO SAÚDE S.A. (BRADESCO), objetivando a manutenção do plano de saúde para si e seus dependentes após ter sido aposentado por invalidez.
+Em primeiro grau, o processo foi julgado improcedente e ANTÔNIO foi condenado ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da causa, observado os arts. 11, §2º, c/c art. 12 da Lei nº 1.060/50) (e-STJ, fls. 305/313).
+Inconformado, ANTÔNIO interpôs apelação, a qual foi provida parcialmente pela Corte a quo, em acórdão assim ementado:
+PLANO DE SAÚDE - MANUTENÇÃO DE APOSENTADO EM CARTEIRA COLETIVA - CONTRATAÇÃO EM DECORRÊNCIA DA RELAÇÃO DE EMPREGO - PRESCRIÇÃO - Inocorrência - Aplicação do prazo geral decenal - Entendimento STJ - Não comprovada a efetiva comunicação ao autor acerca da possibilidade de manutenção em carteira coletiva de plano de saúde, não pode o plano de saúde realizar o seu desligamento - Precedentes - Pretensão de continuidade do vínculo nas mesmas condições vigentes. Aplicação do art. 31 da Lei 9.656/98. Possibilidade. Na qualidade de aposentado, o apelado preenche os requisitos legais para permanecer mantido como beneficiário, juntamente com seus dependentes, nas mesmas condições de cobertura existentes quando da vigência do contrato de trabalho, desde que assuma o pagamento integral da prestação. Regime de coparticipação. Irrelevância. Salário indireto. A ausência de contribuição direta por parte do empregado não retira da lógica interna do preceito legal o caráter de benefício trabalhista. Dano moral. Não verificação. Situação narrada que não configura situação de excepcional dissabor, hábil a ensejar reparação por dano moral. Sentença reformada. Apelo provido em parte (e-STJ, fl. 359).
+Os embargos de declaração opostos por ANTÔNIO foram acolhidos para reconhecer a sucumbência recíproca (e-STJ, fls. 383/385).
+Irresignado, BRADESCO interpôs recurso especial, com fundamento nas alíneas a e c do permissivo constitucional (e-STJ, fls. 389/399), que não foi admitido na origem (e-STJ, fls. 408/409).
+ANTÔNIO, que não interpôs recurso especial, resolveu manejar o presente agravo em recurso especial (e-STJ, fls. 425/435).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o presente agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação de ANTÔNIO não pode ser nem mesmo conhecida.
+Ressalta-se que o agravo em recurso especial, previsto no art. 994 do NCPC, é cabível da decisão do Presidente ou Vice-Presidente do Tribunal de Justiça ou Tribunal Regional, quando inadmitido o recurso especial e após prévio juízo de admissibilidade.
+Na hipótese, inexistiu a interposição de recurso especial por parte de ANTÔNIO contra a decisão do Tribunal de Justiça de São Paulo e, por conseguinte, não houve o juízo de admissibilidade prévio.
+Assim, tem-se que o agravo em recurso especial interposto por ANTÔNIO é incabível, nos termos do art. 1.042 do NCPC.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), NÃO CONHEÇO do agravo em recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º do NCPC).
+Publique-se. Intimem-se.
