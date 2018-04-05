@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ROUBO MAJORADA. REGIME DE CUMPRIMENTO DE PENAL. PENA-BASE FIXADA NO MÍNIMO LEGAL. SÚMULAS 440/STJ, 718 E 719 DO STF. REGIME SEMIABERTO. AGRAVO NÃO PROVIDO.
+1. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". 2. De igual modo, as Súmulas 718 e 719 do STF prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+3. Os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), contrariando a Súmula 440 deste Superior Tribunal. Nesse diapasão, considerando o quantum de pena aplicado e o fato de a pena-base ter sido fixada no mínimo legal, deve ser estabelecido o regime semiaberto para início de cumprimento de pena, nos termos dos arts. 33, § 3º, e 59, ambos do Código Penal.
+4. Agravo regimental não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão de fls. 795-798 (e-STJ), que não conheceu do agravo em recurso especial e deu parcial provimento ao apelo especial para estabelecer o regime semiaberto para início do cumprimento da pena.
+O agravante alega, em suma, que há fundamentação concreta para a fixação do regime inicial fechado.
+Pondera que, embora cabível a tese de regime inicial semiaberto, as circunstâncias em que foi cometido o delito - roubo em concurso de 5 (cinco) pessoas, com emprego de arma de fogo e restrição de liberdade das vítimas - justificam a fixação do regime fechado.
+Aduz que esta Corte já decidiu que o uso de arma de fogo, por si só, justifica o agravamento do regime prisional, em razão do princípio da individualização da pena.
+Requer, ao final, a reconsideração da decisão agravada ou, em assim não se entendendo, o julgamento do agravo pelo órgão colegiado, com o consequente provimento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. ROUBO MAJORADA. REGIME DE CUMPRIMENTO DE PENAL. PENA-BASE FIXADA NO MÍNIMO LEGAL. SÚMULAS 440/STJ, 718 E 719 DO STF. REGIME SEMIABERTO. AGRAVO NÃO PROVIDO.
+1. De acordo com a Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". 2. De igual modo, as Súmulas 718 e 719 do STF prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+3. Os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), contrariando a Súmula 440 deste Superior Tribunal. Nesse diapasão, considerando o quantum de pena aplicado e o fato de a pena-base ter sido fixada no mínimo legal, deve ser estabelecido o regime semiaberto para início de cumprimento de pena, nos termos dos arts. 33, § 3º, e 59, ambos do Código Penal.
+4. Agravo regimental não provido.
+
+VOTO
+EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Não obstante os argumentos trazidos pelo agravante, estes não têm o condão de infirmar os fundamentos insertos da decisão agravada.
+Consoante anteriormente explicitado, em relação à individualização da pena, tem-se que é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+No que se refere ao regime inicial para cumprimento de pena, a Súmula 440/STJ estabelece que, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". De igual modo, as Súmulas 718 e 719 do STF prelecionam, respectivamente, que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Confira-se o trecho do acórdão impugnado que justifica a imposição do regime inicial fechado:
+"O regime de cumprimento do castigo corporal não poderia ser outro, senão o inicial fechado, que, por isso, deve ser mantido.
+Aliás, pouco importa que o roubo seja simples ou qualificado, consumado ou tentado: em qualquer das suas formas, esta espécie de crime é muito grave e revela a personalidade deformada daquele que o comete.
+Ora, todos sabem que são, precisamente, as características da personalidade do criminoso e a natureza do delito praticado que devem ditar a espécie de reprimenda a ser aplicada e, no caso de aplicação de reprimenda carcerária, o regime inicial do cumprimento da pena. Em outras palavras, para crimes menos graves, reprimendas mais brandas, como as restritivas de direitos e as pecuniárias, cumulativamente, ou não; para crimes mais graves, reprimendas mais severas, como as carcerárias, cumulativas com as pecuniárias, ou não. E, em ambos os casos, a maior ou menor periculosidade do criminoso tem que ser levada em conta. É isto o que diz a Doutrina, o que estabelece a Lei e o que recomenda o bom senso." (e-STJ, fls. 665-666).
+Como se vê, o regime mais gravoso foi fixado com base, apenas, na gravidade abstrata do delito de roubo. Sendo assim, considerando o quantum de pena aplicado e o fato de a pena-base ter sido fixada no mínimo legal, estabeleço o regime semiaberto para início de cumprimento de pena, nos termos dos arts. 33, § 3º, e 59, ambos do Código Penal.
+Repise-se que, ao contrário do entendimento do recorrente, não há fundamentação concreta para a fixação do regime inicial fechado.
+Verifica-se que o decreto condenatório utilizou-se de fundamentos genéricos para a fixação do regime, que não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso.
+Assim, não assiste razão ao agravante, motivo pelo qual a decisão impugnada merece ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
