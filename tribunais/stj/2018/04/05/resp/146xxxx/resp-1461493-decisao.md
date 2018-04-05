@@ -1,0 +1,30 @@
+DECISÃO
+Tratam-se de recursos especiais interpostos por COTEMIG EMPRESARIAL S/A, com fundamento no art. 105, III, a e c, da Constituição Federal e pelo MUNICÍPIO DE BELO HORIZONTE, com fulcro no art. 105, III, a, da [NOME], contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CÍVEL - LANÇAMENTO - NOTIFICAÇÃO POR EDITAL - TAXA DE FISCALIZAÇÃO SANITÁRIA - ÁREA FISCALIZADA.
+É possível a notificação por edital do lançamento das taxas municipais, desde que previstas na legislação local. O valor da Taxa de Fiscalização Sanitária deverá ser calculado levando-se em consideração a área a ser fiscalizada pelo município.
+O presente feito decorre de embargos à execução objetivando inquinar de nulidade o lançamento tributário por notificação editalícia.
+No julgamento acima ementado o julgador afirma que o Código Tributário Municipal prevê a notificação do lançamento por edital, não havendo se falar em irregularidade capaz de desconstituir o lançamento.
+Também foi observado que a taxa de fiscalização sanitária deve ser calculada levando-se em conta apenas a área destinada à cantina e não sobre o total do estabelecimento fiscalizado, pois não guardam relação com o fato gerador da aludida taxa.
+Foram rejeitados os embargos declaratórios opostos.
+No presente recurso especial a COTEMIG EMPRESARIA S/A, aponta violação ao art. 535, II, do CPC/1973, afirmando, em síntese, que o Tribunal de origem omitiu-se acerca da apreciação de que o lançamento do crédito tributário em questão ocorreu de forma retroativa; que não cabe notificação por edital no caso dos autos, uma vez que o contribuinte encontrava-se em local certo e sabido e; que houve duplicidade de cobrança.
+No mérito, alega violação aos arts. 142 e 145 do CTN, argumentando, em suma, que há nulidade do lançamento diante da ausência de notificação pessoal do contribuinte, com ofensa aos princípios do contraditório e ampla defesa.
+Alega, ainda, divergência jurisprudencial.
+No recurso especial do Município de Belo Horizonte, também é apontada a violação ao art. 535, II, do CPC/1973, além dos arts. 165 e 458, do mesmo diploma normativo.
+Argumenta o recorrente, em síntese, que embora tendo sido consignado que a taxa de fiscalização sanitária deveria ser cobrada somente da área destinada à cantina, no comando decisório foi determinado o prosseguimento da execução fiscal apenas para a cobrança da taxa de fiscalização e localização e funcionamento, silenciando o julgador acerca da cobrança da taxa de fiscalização sanitária com base na área da cantina.
+Além disso não foi reavaliada a sucumbência após o provimento parcial da apelação do Município.
+É o relatório.
+Assiste razão à ambos os recorrentes, no que toca à alegada violação ao art. 535, II, do CPC/73.
+A COTEMIG EMPRESARIAL S/A, em seus embargos de declaração apresentou questões jurídicas que diante da relevância deveriam ser examinadas no julgamento dos aclaratórios, especificamente, a afirmação de que o lançamento teria ocorrido de forma retroativa e em duplicidade, no exercícios de 2002 a 2006 o que poderiam, em tese, infirmar a regularidade de tais lançamentos por edital, exigindo pronunciamento.
+Da mesma forma, o MUNICÍPIO DE BELO HORIZONTE também apresentou questões jurídicas que deveriam ter sido analisadas pelo Tribunal de origem, quais sejam, o prosseguimento da execução na parte relativa à taxa de fiscalização sanitária e a readequação da verba sucumbencial diante do provimento parcial do recurso interposto pelo Município.
+Nesse contexto, diante das referidas omissões, apresenta-se violado o art. 535, II, do CPC/73, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido (AgRg no REsp n. 1.221.403/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, Dje de 23/8/2016).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido (EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 18/4/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento aos recursos especiais para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo para que se manifeste especificamente sobre as questões articuladas em ambos os embargos de declaração.
+Publique-se. Intimem-se.
