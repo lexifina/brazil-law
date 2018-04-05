@@ -1,0 +1,70 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPENSAÇÃO TRIBUTÁRIA. DISTRIBUIÇÃO DE DIVIDENDOS. INÉRCIA DA PARTE. PRESCRIÇÃO ACOLHIDA. DECRETO 20.910/1932. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. Isso porque, a parte se mostrou inerte quando deveria ter agido, ou seja, no momento em que os valores foram indevidamente retidos (Novembro/1996 e Dezembro/1998).
+3. Impetrada a Ordem uma década após o nascimento do seu direito (19.12.2008), não merece reparos a decisão que acolheu a prescrição.
+4. Agravo Interno da Empresa a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto pela DANA EQUIPAMENTOS LTDA. contra decisão que negou provimento ao seu Recurso Especial, nos termos desta ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. COMPENSAÇÃO TRIBUTÁRIA. DISTRIBUIÇÃO DE DIVIDENDOS. PRESCRIÇÃO. APLICAÇÃO DO PRAZO PREVISTO NO ART. 1o. DO DECRETO 20.910/1932. INÉRCIA DA PARTE. PRESCRIÇÃO ACOLHIDA. RECURSO ESPECIAL AO QUAL SE NEGA PROVIMENTO.
+2. A parte agravante repisa as razões lançadas no Apelo Nobre, sustentando que após a vigência da IN/SRF 12/99, a Agravante apenas obteve lucro líquido e promoveu o pagamento de juros remuneratórios em 2008 - mesmo ano de ajuizamento da presente demanda. Assim, discute-se na presente demanda, o fato de o prazo prescricional apenas ter começado a ser computado quando da existência de débito a ser compensado, ou seja, quando houve juros remuneratórios sobre capital próprio, sobre o qual incidiu IRPJ, afastando-se o cômputo do referido prazo desde a data da retenção do IRPJ na fonte, nos anos-calendários de 1988, 1994 e 1995 (fls. 400).
+3. Requer a reconsideração da decisão agravada ou que o feito seja submetido à apreciação do órgão colegiado.
+4. A parte agravada não apresentou Impugnação (fls. 410).
+5. É o relatório.
+VOTO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPENSAÇÃO TRIBUTÁRIA. DISTRIBUIÇÃO DE DIVIDENDOS. INÉRCIA DA PARTE. PRESCRIÇÃO ACOLHIDA. DECRETO 20.910/1932. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. Isso porque, a parte se mostrou inerte quando deveria ter agido, ou seja, no momento em que os valores foram indevidamente retidos (Novembro/1996 e Dezembro/1998).
+3. Impetrada a Ordem uma década após o nascimento do seu direito (19.12.2008), não merece reparos a decisão que acolheu a prescrição.
+4. Agravo Interno da Empresa a que se nega provimento.
+1. A decisão agravada, que merece ser mantida por seus próprios fundamentos, foi assim concebida:
+1. Trata-se de Recurso Especial interposto por DANA EQUIPAMENTOS LTDA., com fundamento na alínea a do art. 105, III da CF/1988, contra acórdão do Tribunal Regional Federal da 4a. Região, assim ementado:
+TRIBUTÁRIO. IMPOSTO DE RENDA RETIDO NA FONTE. DISTRIBUIÇÃO DE DIVIDENDOS. COMPENSAÇÃO. TRANSCURSO DO LAPSO PRESCRICIONAL.
+1. Transcorrido lapso superior a cinco anos entre a data dos fatos geradores que originaram a retenção do IR na fonte, quais sejam, as distribuições de dividendos nos anos de 1996 e 1998, e o protocolo da exordial do mandamus, em dezembro de 2008, resta caracterizada a prescrição, consoante a disposição do art. 1º do Decreto 20.910/32.
+2. Apelo desprovido (fls. 299).
+2. Os Embargos de Declaração opostos (fls. 302/313) foram rejeitados (fls. 328/335).
+3. Nas razões do seu Apelo Nobre, alega a parte recorrente, violação dos arts. 535 do CPC/1973, 150, §§ 1o. e 4o., 156, 165 e 168 do CTN. Defende, inicialmente, a inocorrência da prescrição/decadência quinquenal, tendo em vista que sendo o Imposto de Renda tributo sujeito a lançamento por homologação, o prazo prescricional só se inicia quando decorridos 5 anos da ocorrência do fato gerador, somados a mais 5 anos a contar-se da homologação tácita do lançamento (fls. 349).
+4. Segue afirmando que a recorrente jamais fez uso deste crédito como integrante da declaração de IR, razão pela qual não há incidência do disposto nos, já citados, art. 165 e 168 do CTN. Não há de falar, por conseguinte, em prescrição, uma vez que os créditos sequer integraram a declaração de Imposto de Renda da recorrente para fins de creditamento, não existindo, portanto, marco temporal inicial para a contagem da prescrição quinquenal (fls. 351).
+5. Apresentadas contrarrazões (fls. 363/365), o recurso foi admitido na origem (fls. 367).
+6. O douto Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República [NOME], manifestou-se pelo desprovimento do Recurso Especial (fls. 377/381).
+7. É o relatório.
+8. Não obstante a irresignação, a súplica não comporta acolhimento.
+9. Inicialmente, destaca-se que a alegada violação do art. 535 do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+10. Destaca-se, ainda, que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado.
+11. Tampouco prospera a alegação de inocorrência do lustro prescricional. Explico.
+12. Busca a impetrante no presente Mandamus, o aproveitamento, mediante compensação do crédito tributário derivado de indevida retenção a título de IRRF sobre dividendos recebidos de pessoa jurídica.
+13. Os prefalados lucros se referem aos anos-calendário de 1988, 1994 e 1995. Os dividendos foram retidos nos anos-calendário de 1996 e 1998.
+14. Com efeito, consoante brilhantemente explanado na sentença denegatória da segurança, a parte não pode ter seu direito perpetuado ad eternum, o que violaria o princípio da Segurança Jurídica. Trago à colação, trecho da decisão:
+Assim, conforme expus, se não estamos diante de situação em que se aplique o art. 168, I, não sendo a hipótese de restituição de indébito, estamos diante da necessidade de aplicação do prazo do Dec. 20.910/32.
+A tese sustentada pela parte autora implica, na prática, declarar um direito de crédito cuja utilização não teria prazo para ser exercida, não sujeita, pois, a decadência nem a prescrição, o que contraria o princípio da segurança jurídica e negaria vigência ao art. 1º do Dec. 20.910/31.
+A contribuinte jamais agiu com o intuito de exercer sua pretensão. Após o transcurso de mais de 10 anos da retenção profligada, manejou o presente mandamus com o intuito de afastar os efeitos decorrentes de sua própria inércia. O manejo do mandado de segurança absolutamente extemporâneo não tem o condão de afastar situação consolidada pelo tempo.
+Como se vê, não prospera, no caso, a alegação do impetrante de que não teria iniciado a fluência do prazo decadencial em razão da impossibilidade de exercício do direito, eis que poderia ter apresentado sua tese administrativamente desde o exercício subsequente em que não auferira lucros passíveis de distribuição. Não tendo agido com o intuito de defender sua pretensão, a contribuinte acabou por deixar que a mesma sucumbisse (fls. 246).
+15. Nesse diapasão, mister se faz a pontuação do início do prazo, seja ele prescricional ou decadencial.
+16. Tenho como correta a aplicação do prazo prescricional do art. 1o. da Lei 20.910/1932, que assim dispõe:
+Art. 1o. - As dívidas passíveis da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+17. Ora, o direito de se pleitear a repetição começou a fluir no exato momento em que os valores foram indevidamente retidos, ou seja, Novembro/1996 e Dezembro/1998. Ali, nesse momento, a parte deveria ter agido - seja judicialmente ou administrativamente -, a fim de afastar os efeitos decorrentes de sua própria inércia, pois o Direito não socorre aos que dormem.
+18. Não tendo agido como deveria, impõe-se o reconhecimento da prescrição, consoante decidido nas instâncias ordinárias, já que impetrada a ordem mais de 10 anos após o nascimento do seu direito. A título de ilustração, a contrário sensu:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. AÇÃO DE COBRANÇA. PRESCRIÇÃO. INÉRCIA DO AUTOR. INDEMONSTRADA. APLICAÇÃO DO DECRETO 20.910/32.
+1. O art. 1º do Decreto 20.910/32 dispõe acerca da prescrição quinquenal de qualquer direito ou ação contra a Fazenda Pública, seja qual for a sua natureza, a partir do ato ou fato do qual se originou.
+2. A decretação de prescrição pressupõe inércia, fato inocorrente na hipótese sub examine, uma vez que a empresa endereçou diversas correspondências à autarquia requerendo a quitação do débito considerado pendente, consoante se infere do excerto do voto condutor do acórdão recorrido (..)Compulsando os autos, verifico que a requerente não se manteve inerte em relação à cobrança dos valores supostamente devidos pela recorrida, tanto que endereçou diversas correspondências à autarquia requerendo a quitação do débito considerado pendente como, por exemplo, o ofício datado de 13 de junho de 2000, com protocolo em 21.06.2000, registrado sob o processo 07/101689/2000 na Secretaria Estadual de Habitação e Infraestrutura, carreado aos autos às fls. 89-92. À semelhança do documento acima citado, outros, de idêntico conteúdo, foram trazidos ao processo, como forma de comprovar que reiteradas vezes a requerente agiu no sentido de obter a viabilização do pagamento de seu crédito. Isto pode ser averiguado através dos documentos trazidos aos autos junto com a peça inicial (fls. 88 e 94), suficientes o bastante para demonstrar que a autora buscou o recebimento da dívida ora vindicada na via administrativa, o que, conforme salientei, faz suspender o prazo prescricional para o ingresso com o provimento jurisdicional. Assim, tendo a suplicante demonstrado a sua manifestação, inteligível ao expressar sua inconformação e o seu ânimo de reverter a situação, e a Administração silenciando a respeito, suspenso ficou o curso prescricional, remanescendo a garantia constitucional do direito de ação. Posto isso, dou provimento ao recurso para afastar a prescrição (..)
+3. Agravo Regimental desprovido (AgRg no REsp. 1.187.552/MS, Rel. Min. LUIZ FUX, DJe 3.8.2010).
+
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSO CIVIL. MILITAR. ALTERAÇÃO DO ATO DE REFORMA. ART. 1º DO DECRETO 20.910/32. PRESCRIÇÃO. INTERRUPÇÃO. PRECEDENTES.
+1. Deve ser reconhecida a interrupção da prescrição, nos moldes acolhidos pelo acórdão recorrido, ante a inequívoca demonstração de ausência de inércia do autor e tendo em vista a jurisprudência pacífica desta Corte no sentido de que o que importa para efeito de prescrição é que não haja inação do titular quanto à ação que protege o direito (REsp 767.490/GO, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 27/03/2007, DJ 07/05/2007).
+2. Agravo regimental improvido (AgRg no REsp. 798.254/RJ, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 23.11.2009).
+19. Diante dessas considerações, nega-se provimento ao Recurso Especial de DANA EQUIPAMENTOS LTDA.
+20. Publique-se. Intimações necessárias.
+2. Repisa o contribuinte as razões apontadas no Apelo Nobre. Entretanto, tenho que a decisão não merece reparos.
+3. Com efeito, seria um contrassenso afastar a acolhida do lustro prescricional, como requer a empresa agravante.
+4. Isso porque, a parte se mostrou inerte quando deveria ter agido, ou seja, no momento em que os valores foram indevidamente retidos (Novembro/1996 e Dezembro/1998).
+5. Impetrada a Ordem uma década após o nascimento do seu direito (19.12.2008), não merece reparos a decisão que acolheu a prescrição.
+6. Trago à colação, a fim de ilustrar o entendimento:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. AÇÃO REGRESSIVA. PRAZO PRESCRICIONAL. QUINQUENAL. DECRETO 20.910/1932. PRINCÍPIO DA ISONOMIA.
+1. A Primeira Seção do STJ, por ocasião do julgamento do REsp 1.251.993/PR, submetido à sistemática do art. 543-C do CPC, assentou a orientação de que o prazo prescricional nas ações indenizatórias contra a Fazenda Pública é quinquenal, conforme previsto no art. 1º do Decreto-Lei 20.910/1932, e não trienal, nos termos do art. 206, § 3º, V, do Código Civil/2002.
+2. A jurisprudência é firme no sentido de que, pelo princípio da isonomia, o mesmo prazo deve ser aplicado nos casos em que a Fazenda Pública é autora, como nas ações de regresso acidentária. Precedentes: AgRg no REsp 1.423.088/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 19/5/2014; AgRg no AREsp 523.412/RS, de minha relatoria, Segunda Turma, DJe 26/9/2014; e AgRg no REsp 1.365.905/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2014.
+3. No caso, o termo inicial do prazo prescricional foi 25/7/2002, tendo sido proposta a ação regressiva somente em 16/12/2008, o que configura lapso superior ao necessário para o reconhecimento da prescrição, nos termos da jurisprudência deste Superior Tribunal.
+4. Recurso especial a que se nega provimento (REsp. 1.636.721/ES, Rel. Min. OG FERNANDES, DJe 26.2.2018).
+7. Com base nessas considerações, nego provimento ao Agravo Interno de DANA EQUIPAMENTOS LTDA.
+8. É como voto.
