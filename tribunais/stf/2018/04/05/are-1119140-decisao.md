@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, III, 5º, caput, XXXVI, e 40, § 8º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A Corte de origem decidiu a controvérsia em acórdão assim ementado:
+    “Previdência Privada. Pretensão de implementação de reajustes à suplementação de aposentadoria. Ilegitimidade da corré Petrobrás para figurar no polo passivo, dada sua condição de mera patrocinadora. Prescrição quinquenal que não alcança o direito abstrato da Autora, atingindo apenas as parcelas vencidas há mais de 05 anos contados da data da propositura da ação. Descabimento, da aplicação de reajuste sobre o valor da “remuneração mínima por nível e regime” concedido aos funcionários da ativa, porquanto não configurou reajuste geral da categoria, e sim de verba variável. Ação improcedente. Recurso negado.”
+    As instâncias ordinárias decidiram a questão com fundamento na legislação infraconstitucional aplicável à espécie. A aplicação de tal legislação ao caso concreto, consideradas as circunstâncias jurídico-normativas da decisão recorrida, não enseja a apontada violação da Constituição da República. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário com agravo. Trabalhista. Prescrição parcial ou total. Acordo coletivo. Vantagem. Extensão aos inativos a título de complementação de aposentadoria. Ausência de repercussão geral das matérias. Questões adstritas ao âmbito infraconstitucional. Precedentes. 1. O Plenário do Supremo Tribunal Federal, no exame do ARE nº 697.514/RO, da relatoria do Ministro Gilmar Mendes, concluiu pela ausência de repercussão geral do tema relativo ao tipo de prescrição aplicável às ações trabalhistas, se total ou parcial, dado o caráter infraconstitucional da matéria. 2. No exame do RE nº 659.109/BA, Relator para acórdão o Ministro Luiz Fux, a Corte concluiu que não apresenta repercussão geral, por não alcançar status constitucional, a discussão relativa à possibilidade ou não de “extensão, às complementações de aposentadoria, de benefício concedido indistintamente aos empregados ativos em razão de acordo coletivo de trabalho”. 3. Agravo regimental não provido.” (ARE 745747 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, julgado em 07/04/2015, PROCESSO ELETRÔNICO DJe-080 DIVULG 29-04-2015 PUBLIC 30-04-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 05 de abril de 2018.
+Ministra Rosa Weber
+Relatora
