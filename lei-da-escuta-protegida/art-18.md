@@ -1,0 +1,1 @@
+Art. 18. A coleta, guarda provisória e preservação de material com vestígios de violência serão realizadas pelo Instituto Médico Legal (IML) ou por serviço credenciado do sistema de saúde mais próximo, que entregará o material para perícia imediata, observado o disposto no art. 5º desta Lei.
