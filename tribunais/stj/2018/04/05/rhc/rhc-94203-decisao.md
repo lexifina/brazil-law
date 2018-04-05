@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto em favor de [NOME] e WILLIANS DE PAULA LINO contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que os recorrentes foram presos preventivamente pela suposta prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus originário, cuja ordem foi denegada em acórdão assim ementado (e-STJ fl. 174):
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - PRESENÇA DE FUNDAMENTOS IDÔNEOS CAPAZES DE JUSTIFICAR A CUSTÓDIA CAUTELAR - MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - IMPOSSIBILIDADE - INCONSTITUCIONALIDADE DO ART. 44 DA LEI 11.343/06 - INEXISTÊNCIA - ORDEM DENEGADA CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. Atendido ao menos um dos pressupostos do art 312 do CPP, qual seja a garantia da ordem pública, bem como um dos requisitos instrumentais do art. 313 do CPP, deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP. Não há repercussão dos efeitos dessa declaração para outros casos e muito menos poder vinculativo, hipótese que só se concretizaria após o julgamento de uma Ação Direta de Inconstitucionalidade, cujo objeto versasse sobre a matéria em discussão, não prestando o writ como substitutivo de tal remédio processual, sobretudo em razão da estreiteza dos seus limites de cognoscibilidade. Considerando que a prisão preventiva não se ancora em certeza de culpa, mas sim em indícios, não se verifica a violação ao principio da presunção de inocência.
+No Superior Tribunal de Justiça, a defesa alega constrangimento ilegal em razão da ausência de fundamentação idônea a justificar a decretação da prisão preventiva dos recorrentes. Ressalta as condições pessoais favoráveis dos recorrentes, requerendo a imposição de medidas cautelares diversas da prisão.
+Pleiteia, liminarmente e no mérito, a liberdade provisória dos recorrentes, mediante aplicação de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido (e-STJ fls. 213/215).
+Informações prestadas (e-STJ fls. 219/239 e 244/246).
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ fls. 248/249).
+É, em síntese, o relatório.
+Em consulta à página eletrônica do Tribunal de Justiça do Estado de Minas Gerais, verifica-se que os recorrentes, em 15 de fevereiro de 2018, foram beneficiados com a concessão da liberdade provisória, sendo expedido, na ocasião, o alvará de soltura.
+Nessas circunstâncias, havendo a superveniência de decisão judicial concedendo aos ora recorrentes o benefício da liberdade provisória, o presente recurso - que objetivava, justamente, a liberdade dos recorrentes - perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
