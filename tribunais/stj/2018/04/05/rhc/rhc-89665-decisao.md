@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por LUAN TRANCOSO RODY contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo (HC n. 0011381-16.2017.8.08.0000).
+Consta dos autos ter sido o recorrente preso preventivamente pela suposta prática do crime previsto no art. 157, § 2º, I, II e V, do Código Penal. Narra a peça acusatória o seguinte (e-STJ fls. 18/19):
+Consta do Inquérito Policial em anexo, que serve de base a presente denúncia, que no dia 11 de agosto de 2015, por volta das 10h5Omin, no Shopping Boulevard, localizado na Rodovia do Sol, nº 5000, Bairro Jockey de Itaparica, no Município de Vila Velha/ES, os ora denunciados, mantendo a vitima em seu poder, restringiram sua liberdade e subtraíram para si, mediante grave ameaça exercida com o emprego de arma de fogo, coisa alheia móvel.
+Segundo o IP, a vítima, vendedora de joias, fez um anúncio de uma pulseira de ouro, no site OXL, sendo que o denunciado LUAN, ao visualizar a oferta, combinou um encontro com a vítima, no dia 10/08/2015 para que pudesse comprar o produto.
+Informam os autos, que a venda não foi concretizada na data supracitada.
+Contudo, no mesmo dia, o denunciado LUAN agendou um novo encontro com a vítima no mesmo shopping, para o dia seguinte (11/08/2015).
+Em 11 de agosto de 2015, os denunciados, com prévia intenção criminosa, dirigiram-se até o Shopping Boulevard a bordo do veículo Corolla, cor prata, placa OCZ 3131 (de origem ainda" desconhecida), onde permaneceram até a chegada da vitima, Narra a peça inquisitiva, que a vítima dirigiu-se até o referido endereço, a bordo, do veículo Nissan Grand Livina, cor prata, placa ODQ 9023, junto de _ sua filha de 03 (três) anos e uma amiga, quando, ao esperarem pelo suposto "cliente", foram surpreendidas pelo denunciado MATEUS que, mediante grave "ameaça exercida pelo emprego de arma de fogo, adentrou o lado a carona e, então, exigiu com que essa deixasse o estacionamento conduzindo o próprio veículo.
+Ato contínuo, a vítima, temendo pela vida dela e de todos que a acompanhavam, obedeceu o comando do meliante e seguiu com o veículo pela Rodovia do Sol (sentido Bairro Vale Encantado), momento em que, ao chegarem. em uma estrada de chão, as vitimas foram obrigadas a entregar seus pertences  01 (um) par de brincos de ouro 18k1, avaliado em R$ 570,00 (quinhentos e setenta reais; 01 (uma) aliança de ouro, avaliada em R$ 1.000,00 (mil reais); 01 (uma) meia aliança de ouro, avaliada em R$ 1.000,00 (mil reais); 01 (uma) pulseira de ouro, no valor de R$ 12.000, 00 (doze mil reais); 01 (um) aparelho celular Sony Xperia, no valor de R$ 790,00 (setecentos e noventa reais); cartões bancários  e que descessem do carro, tendo o denunciado MATEUS, em seguida, assumido a direção do veículo e empreendido fuga.
+Consta, ainda, que ao chegar ao Bairro Vale Encantado, o denunciada MATEUS abandonou o referido veículo em via pública e, então, foi resgatado pelos denunciados CHRYSTIAN e LUAN, conforme previamente estipulado.
+Insta frisar que, de acordo com o denunciado MATEUS, o aparelho celular da vítima foi dispensado em um "matagal", enquanto as joias roubadas foram vendidas pelo valor de R$ 4.000,00 (quatro mil reais) por um indivíduo ainda não identificado.
+Relata o IP, que durante o percurso até a Delegacia, a vítima obteve êxito em localizar e recuperar seu veículo. Além disso, a vítima reconheceu o denunciado MATEUS como um dos autores do crime (11.111).
+Assim, restando autorias e materialidade incontestes, estão incursos os de- nunciados LUAN TRANCOSO RODY, CHRYSTIAN GOMES RODRIGUES e MATEUS RODRIGUES DE FREITAS, no crime previsto no Art. 157 § 2º, incisos 1, II e V do Códiqo Penal (grifei).
+Impetrado habeas corpus no Tribunal de origem objetivando a liberdade do ora recorrente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 96):
+HABEAS CORPUS. HOMICIDIO. FUNDAMENTAÇÃO IDÔNEA DA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA. EXISTÊNCIA DE INQUÉRITOS POLICIAIS QUE APURAM CRIMES EM DESFAVOR DO RÉU. AUSÊNCIA DE PROVA PRÉ- CONSTITUÍDA. CONDIÇÕES PESSOAIS FAVORÁVEIS NÃO COMPROVADAS. ORDEM DENEGADA.
+1. A prisão preventiva está devidamente justificada para a garantia da ordem pública, em razão da gravidade concreta do delito e da periculosidade do agente, evidenciada por dados da vida pregressa do paciente, notadamente pela existência de inquéritos policiais e ações penais em seu desfavor.
+2. Condições pessoais favoráveis, mesmo não sendo garantidoras de eventual direito a liberdade provisória, devem ser devidamente valoradas, contudo, no presente caso não há prova nos autos em relação a elas.
+3. Habeas corpus denegado.
+Neste recurso, sustenta a defesa a inexistência de motivação idônea para a segregação antecipada, visto que não apontada, concretamente, a presença dos requisitos do art. 312 do Código de Processo Penal.
+Aduz que o acórdão de origem trouxe fundamentação não contida na decisão de primeiro grau, o que configura, a seu ver, reformatio in pejus.
+Assevera que militam em favor do recorrente condições pessoais favoráveis, tais como primariedade e residência fixa.
+Busca, inclusive liminarmente, seja revogada a custódia cautelar do recorrente.
+Liminar indeferida (e-STJ fls. 142/145) e prestadas as informações, o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 192/194).
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 23/2/2018, de sentença condenatória em desfavor do ora recorrente.
+Assim, fica sem objeto este recurso à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO. PREJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no RHC 78.448/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017, grifei)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
