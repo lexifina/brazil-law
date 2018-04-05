@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interno interposto por CONSÓRCIO SORRISO E OUTROS contra decisão que conheceu do agravo para não conhecer do recurso especial, em face da deserção caracterizada pela não indicação do processo na origem, na guia de recolhimento do preparo recursal (e-STJ fls. 1016/1017).
+Aduzem os embargantes que consta expressamente indicado o número do processo na guia e que tal exigência é "desarrazoada" no processo eletrônico.
+Decorrido o prazo legal, o(s) agravado(s) não apresentou impugnação.
+Passo a decidir.
+Tem razão os agravantes.
+Examinando melhor a guia de e-STJ fl. 684, observo que o número do processo originário, embora não declinado no campo adequado (número de referência), foi lançado na guia de preparo recursal, pelo que reputo sanado o vício identificado dantes e afasto a incidência da Súmula 187 do STJ.
+Superado tal óbice, passo à reanálise do agravo em recurso especial.
+A decisão de inadmissibilidade do apelo nobre fundou-se na incidência da Súmula 207 do STJ, referente à necessidade de esgotamento de instâncias (e-STJ fls. 751/752).
+Nas razões do agravo, os agravantes defendem que aquele verbete não se aplica aos processos de mandado de segurança.
+Mais uma vez, tem razão a parte agravante.
+Como anotado na Súmula 169 desta Corte, são "inadmissíveis embargos infringentes no processo de mandado de segurança". Portanto, se a interposição dos infringentes era descabida, não há que falar em esgotamento de instância para interpor o recurso especial.
+Ultrapassado esse ponto, adentro no exame das razões do apelo especial.
+Trata-se de agravo interposto por CONSÓRCIO SORRISO E OUTROS contra decisão que negou seguimento a recurso especial interposto com apoio na alínea "a" do permissivo constitucional contra acórdão assim ementado:
+APELAÇÃO. REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. QUESTIONAMENTO ACERCA DOS EFEITOS CONCRETOS DE LEI TIDA COMO INCONSTITUCIONAL. LEI COMPLEMENTAR N. 177/2011 DO MUNICÍPIO DE FOZ DO IGUAÇU. "NORMA AUTOAPLICÁVEL" E QUE, PORTANTO, AUTORIZA O EMPREGO DA VIA MANDAMENTAL. JURISPRUDÊNCIA PACIFICA DOS TRIBUNAIS SUPERIORES. INCONSTITUCIONALIDADE FORMAL. AFASTAMENTO. INEXISTÊNCIA DE VÍCIO DE INICIATIVA. O TÃO SÓ FATO DE VERSAR SOBRE SERVIÇO PÚBLICO NÃO TORNA A LEI AFETA AO REGIME DE INICIATIVA EXCLUSIVA DO CHEFE DO PODER EXECUTIVO. NORMA LOCAL QUE NÃO CRIA, EXTINGUE OU MODIFICA ÓRGÃO, CARGO OU COMPETÊNCIA NEM TAMPOUCO INTERFERE NO REGIME REMUNERATÓRIO DOS SERVIDORES PÚBLICOS. INCONSTITUCIONALIDADE MATERIAL. AUSÊNCIA DE PROVISIONAMENTO DAS DESPESAS NECESSÁRIAS À CONCRETIZAÇÃO DA LEI E DESEQUILÍBRIO DA EQUAÇÃO ECONÓMICO-FINANCEIRA DOS CONTRATOS. AFASTAMENTO. PREVISÃO DE DESCONTO QUE JÁ TINHA GUARIDA NA LEGISLAÇÃO PRECEDENTE. INOVAÇÃO LEGISLATIVA QUE SE LIMITOU AO APRIMORAMENTO DA REDAÇÃO, ATUALIZANDO-A E DEIXANDO-A MAIS CLARA, MAS QUE EM NENHUMA MEDIDA ESTENDEU O BENEFÍCIO TARIFÁRIO A OUTRAS CATEGORIAS DE ESTUDANTES QUE JÁ NÃO ESTIVESSE CONTEMPLADA PELA NORMA (LEI COMPLEMENTAR N.O 16012010) EM SUA REDAÇÃO PRIMEVA. AUSÊNCIA DE ILEGALIDADE QUE AUTORIZE A CONCESSÃO DE ORDEM DE SEGURANÇA.
+APELAÇÃO CONHECIDA E PROVIDA. SENTENÇA MODIFICADA EM REEXAME NECESSÁRIO, CONHECIDO DE OFÍCIO.
+No especial obstaculizado, os ora agravantes alegaram violação dos arts. 1º, § 4º, e 6º, ambos da LINDB, e arguiram a necessidade de observância dos princípios da irretroatividade e de respeito ao ato jurídico perfeito e ao direito adquirido.
+Apontaram, ainda, contrariedade aos arts. 35 da Lei n. 9.074/1995 e 58, I, §§ 1º e 2º, e 65, 6º, todos da Lei n. 8.666/1993. Defenderam ter havido rompimento do equilíbrio econômico-financeiro do contrato com a ampliação do número de passageiros do serviço de transporte coletivo municipal mediante desconto tarifário, pela Lei Complementar estadual n. 177/2011.
+Contrarrazões.
+Parecer do MPF pelo desprovimento do recurso (e-STJ fls. 1010/1014).
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Isso considerado, anoto o entendimento pacificado nesta Corte, segundo o qual "os princípios contidos na Lei de Introdução ao Código Civil - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, não podem ser analisados em recurso especial, haja vista sua natureza constitucional" (AgRg no REsp 1575884/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/02/2018, DJe 08/03/2018).
+Nesse sentido:
+PROCESSUAL CIVIL. ART. 6º DA LICC. DIREITO ADQUIRIDO. NATUREZA CONSTITUCIONAL. APOSENTADORIA. PENSÃO. ANÁLISE DE LEI LOCAL.
+INVIABILIDADE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF.
+1. A jurisprudência pacífica do STJ é firme no sentido de que não cabe, em recurso especial, examinar alegação de ofensa aos arts. 5º e 6º da Lei de Introdução às Normas do Direito Brasileiro, por envolver matéria de natureza constitucional. Precedentes: AgRg no Ag 1.294.856/SP, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 2.8.2011, DJe 6.9.2011; REsp 1.207.550/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 23.11.2010, DJe 2.12.2010.
+2. O Tribunal de origem, ao julgar o recurso de apelação, solucionou a questão com base no art. 9º de Lei Estadual 7249/98. Assim, o exame da matéria demanda análise de direito local, o que é vedado ao STJ por incidência da Súmula 280/STF.
+Agravo regimental improvido.
+(AgRg no AREsp 34.296/BA, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/11/2011, DJe 23/11/2011)
+Dito isso, observo que o presente apelo nobre carece do requisito constitucional do prequestionamento, já que o teor dos demais preceitos legais tidos por violados não foi enfrentado na instância ordinária, a despeito de alguns deles terem sido ventilados nos embargos de declaração (e-STJ fls. 644/654).
+Frise-se, a propósito, que a simples oposição dos embargos de declaração não supre o requisito do prequestionamento, sendo necessária a interposição de recurso especial por afronta ao art. 535 do então vigente Código de Processo Civil, sob pena de perseverar o referido óbice. Essa é a inteligência da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 1016/1017, MANTENDO-a, no entanto, por fundamentação diversa.
+Publique-se. Intimem-se.
