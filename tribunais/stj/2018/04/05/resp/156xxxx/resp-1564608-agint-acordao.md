@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIO (ARTIGO 485, V, DO CPC/1973). HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DO ARTIGO 20, § 4º, DO CPC/1973. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF.
+1. No caso concreto, o recorrente deixou de impugnar o fundamento do acórdão recorrido segundo o qual, na forma da jurisprudência do STJ, não cabe ação rescisória para discutir exclusivamente a irrisoriedade ou a exorbitância de verba honorária. No entanto, a ação rescisória é cabível para discutir o regramento objetivo da fixação da verba honorária, notadamente quando o acórdão rescindendo indevidamente aplica os limites percentuais do art. 20, §3º, do CPC, ao § 4º, do mesmo artigo.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Distrito Federal contra decisão de minha lavra, assim ementada (fls. 515-517):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. IRRISORIEDADE DO VALOR NÃO DEMONSTRADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO NÃO CONHECIDO.
+O agravante sustenta que a Corte de origem "andou mal, ao admitir a rescisão do julgado sem demonstrar a ausência de equidade apta a justificar o abrupto provimento" (fl. 527 e-STJ).
+Assevera que "não se converte nos autos quanto aos fatos, de modo a se impor o afastamento da precipitada incidência da Súmula 7/STJ à hipótese dos autos" (fl 528 e-STJ). Defende também que é "juridicamente impertinente o óbice da Súmula 284/STF, porquanto, para além da violação do art. 485, V do CPC/73 o provimento recorrido, em sede rescisória, promoveu literal violação às disposições dos §§ 3º e 4º do art. 20 do CPC a partir de subjetivo conceito da "injustiça" da condenação anterior" (fl. 528 e-STJ).
+Ao final requer o provimento do recurso, "para garantir o livre trânsito do recurso especial" (fl. 528 e-STJ).
+Impugnação às fls. 537-547 e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIO (ARTIGO 485, V, DO CPC/1973). HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO DO ARTIGO 20, § 4º, DO CPC/1973. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283/STF.
+1. No caso concreto, o recorrente deixou de impugnar o fundamento do acórdão recorrido segundo o qual, na forma da jurisprudência do STJ, não cabe ação rescisória para discutir exclusivamente a irrisoriedade ou a exorbitância de verba honorária. No entanto, a ação rescisória é cabível para discutir o regramento objetivo da fixação da verba honorária, notadamente quando o acórdão rescindendo indevidamente aplica os limites percentuais do art. 20, §3º, do CPC, ao § 4º, do mesmo artigo.
+2. A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+3. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Na origem, os autores postularam a rescisão da sentença, que julgou improcedente os seus pedidos autorais e os condenou ao pagamento de honorários advocatícios, no percentual de 10% do valor da causa, que, em face de cumprimento de sentença, atingiram o valor de R$ 47.640,84.
+A Corte local, com base na jurisprudência do STJ, entendeu pelo cabimento de ação rescisória, em casos onde houve a fixação de verba honorária sucumbencial em desacordo com o artigo 20, § 4º, do CPC/1973.
+Assim, julgou-se procedente o pedido com base nos seguintes fundamentos:
+De acordo com o disposto nessas alíneas, quando da fixação dos honorários, deverão ser observados: o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a complexidade da causa; o trabalho realizado pelo Advogado e o tempo exigido para o seu serviço.
+ .. , apesar de ser possível que a verba honorária seja fixada com base em percentual do valor da causa quando não houver condenação, verifica-se que a lide não continha complexidade suficiente a ponto de ensejar a fixação dos honorários no patamar estabelecido pelo MM. Juiz sentenciante.
+Configurada, portanto, a patente violação ao disposto no art. 20, § 40, do CPC, pois inadequado o valor arbitrado aos preceitos das alíneas do § 3º do citado artigo. Frise-se ainda que, em demandas idênticas, esta Relatoria e a c. Sexta Turma Cível vem fixando honorários que não excedem os R$ 500,00.
+ ..
+Isso posto, julgo procedente o pedido deduzido na ação rescisória, para rescindir a parte da r. sentença que fixou a verba honorária e, em consequência, arbitrar novo valor de honorários, fixados em R$ 300,00 para cada autor, totalizando o total de R$ 3.300,00, cuja cobrança fica suspensa, nos termos da Lei 1.060/50.
+Ocorre que o recorrente, ao indicar ofensa a art. 485, V, do CPC/1973, e direcionar a sua tese no sentido de seria incabível o ajuizamento de ação rescisória com fundamento em suposta violação literal do art. 20, §§ 3º e 4º, do CPC/1973, deixou de impugnar o fundamento do acórdão recorrido segundo o qual, na forma da jurisprudência do STJ, não cabe ação rescisória para discutir exclusivamente a irrisoriedade ou a exorbitância de verba honorária. No entanto, a ação rescisória é cabível para discutir o regramento objetivo da fixação da verba honorária, notadamente quando o acórdão rescindendo indevidamente aplica os limites percentuais do art. 20, §3º, do CPC, ao § 4º, do mesmo artigo.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Com efeito, esta Corte Superior tem decidiu reiteradamente no sentido de que a ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial, por incidência da Súmula 283/STF.
+No mesmo sentido:
+TRIBUTÁRIO. PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. ACÓRDÃO RECORRIDO. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF. DESPACHO CITATÓRIO POSTERIOR À LC Nº 118/2005. INTERRUPÇÃO DA PRESCRIÇÃO. DECISÃO FUNDAMENTADA EM ENTENDIMENTO FIRMADO PELA SISTEMÁTICA DO ART. 543-C DO CPC/73. RECURSO MANIFESTAMENTE IMPROCEDENTE. MULTA. IMPOSIÇÃO.
+2. O recurso especial não impugnou fundamentos basilares que amparam o acórdão recorrido ao reconhecer a validade do despacho citatório que interrompeu a prescrição, esbarrando, pois, no obstáculo da Súmula 283/STF.
+5. Agravo interno a que se nega provimento, com imposição de multa. (AgInt no REsp 1.310.145/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 27/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR. TESES DE JULGAMENTO EXTRA PETITA, ILEGITIMIDADE PASSIVA E AUSÊNCIA DE ILÍCITO PERPETRADO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF.
+2. No mais, verifica-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1.086.084/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 21/11/2017)
+Por fim, a revisão dos critérios utilizados pelo Tribunal de origem para a redefinição dos honorários advocatícios de sucumbência arbitrados na sentença rescindenda esbarra no óbice da Súmula 7/STJ. Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RAZÕES RECURSAIS QUE NÃO INFIRMAM FUNDAMENTO BASILAR DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. MULTA ADMINISTRATIVA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. ADEQUAÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+2. A Corte de origem decidiu, com base no acervo probatório dos autos, que a multa administrativa imposta pela Anatel veio amparada em critérios objetivos e dados concretos apurados pela sua fiscalização, por isso que o valor da sanção estava adequado aos princípios da proporcionalidade e da razoabilidade. Nesse contexto, a revisão de tal conclusão ensejaria o reexame de matéria fática, providência vedada no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+3. A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão dos valores fixados a título de honorários advocatícios, ante a necessidade de incursão na seara fático-probatória dos autos, o que atrai a incidência da Súmula 7/STJ. No caso, não restou configurada a excepcionalidade exigida pela jurisprudência desta Corte, merecendo confirmação o acórdão local.
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1.472.354/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11/9/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
