@@ -1,0 +1,1 @@
+Art. 10. A escuta especializada e o depoimento especial serão realizados em local apropriado e acolhedor, com infraestrutura e espaço físico que garantam a privacidade da criança ou do adolescente vítima ou testemunha de violência.

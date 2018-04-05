@@ -1,0 +1,1 @@
+Art. 27. Cabe aos Estados, ao Distrito Federal e aos Municípios, no prazo máximo de 180 (cento e oitenta) dias contado da entrada em vigor desta Lei, estabelecer normas sobre o sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência, no âmbito das respectivas competências.

@@ -1,0 +1,2 @@
+Art. 23. Os órgãos responsáveis pela organização judiciária poderão criar juizados ou varas especializadas em crimes contra a criança e o adolescente.
+Parágrafo único. Até a implementação do disposto no caput deste artigo, o julgamento e a execução das causas decorrentes das práticas de violência ficarão, preferencialmente, a cargo dos juizados ou varas especializadas em violência doméstica e temas afins.
