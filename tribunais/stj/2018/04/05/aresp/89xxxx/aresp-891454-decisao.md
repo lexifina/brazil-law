@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO (Fazenda Nacional) contra decisão de inadmissão de recurso especial apresentado em face de acórdão que reconheceu a prescrição da pretensão executiva fiscal (e-STJ fls. 92/97).
+Rejeitados os aclaratórios (e-STJ fls. 106/108).
+No apelo nobre (e-STJ fls. 112/124), a recorrente apontou violação dos arts. 458 e 535 do CPC/1973 e 40 da LEF. Sustentou, em resumo, que o acórdão recorrido foi omisso sobre a tese de "ausência da ciência/intimação da Fazenda Nacional acerca especificamente dos atos que determinaram a suspensão/arquivamento do feito" (e-STJ fl. 116) e que "somente obedecido o procedimento no art. 40, caput e parágrafos, da LEF, é permitido o reconhecimento da prescrição intercorrente", o que não ocorreu na hipótese dos autos. Sustenta a aplicação da Súmula 106/STJ em razão do feito ter ficado paralisado por inércia do próprio Judiciário.
+Sem contrarrazões (e-STJ fl. 127).
+O Tribunal de origem obstou o recurso especial (e-STJ fls. 128/129), decisão que foi agravada (e-STJ fls. 132/135).
+Sem contraminuta.
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Isso considerado, vejamos o que decidiu o Tribunal a quo (e-STJ fls. 92 e seguintes):
+A prescrição é matéria que pode e deve ser apreciada de ofício (Súmula 409 do STJ).
+O prazo prescricional aplicável aos créditos tributários, inclusive nas contribuições previdenciárias (Súmula Vinculante 8 do STF), é quinquenal, tanto para a prescrição para ajuizamento da ação quanto para a prescrição intercorrente.
+Inicialmente, a jurisprudência do STJ tem-se firmado no sentido de que a novel Lei 11.051/2004, que acresceu ao art. 40 da LEF o § 4º, ostenta natureza de norma processual, tendo, em razão disso, aplicação imediata.
+Em execução fiscal, o início da contagem do prazo da prescrição intercorrente é o arquivamento definitivo do feito, após o transcurso de um ano da suspensão dos autos, nos termos dos §§ do art. 40 da Lei ni. 6.830/80. Precedente do STJ: REsp n. 1048456/SP.
+Insta realçar que o caso vertente não se amolda às hipóteses de prescrição intercorrente, nas quais a lei exige intimação prévia da Fazenda Nacional após arquivamento dos autos, em decorrência da não localização do devedor ou de bens passíveis de constrição (art. 40, §4º, da Lei n. 6.830/80), mas sim de prescrição para a propositura da ação, sendo aplicável o art. 219, § 5º, do CPC, com a redação dada pela Lei n. 11.280/06.
+In casu, a execução fiscal foi proposta em 28/09/1995 para cobrança de débitos inscritos em dívida ativa em 19/01/1995, com vencimentos entre 04/1991 e 03/1992, constituídos por auto de infração em 26/10/1992, por notificação pessoal do executado.
+A análise dos autos aponta no sentido de que a prescrição de fato se operou.
+Com efeito, a execução fiscal foi ajuizada no prazo para o seu exercício (28/09/1995), já que a constituição definitiva dos créditos ocorreu em 26/10/1992, entretanto, somente em 01/09/12009 o executado foi citado, eis que o feito ficou paralisado por culpa da exequente por mais de cinco anos, o que caracteriza a prescrição anterior à citação do executado (art. 219, § 5º, do CPC), passível de reconhecimento de ofício.
+Nas execuções fiscais propostas antes da vigência da Lei Complementar 118/2005, nas quais o despacho de citação ocorre em momento anterior a sua vigência, a interrupção do prazo prescricional ocorre com a citação válida da parte executada, conforme previsto no art. 174, parágrafo único, 1, do CTN, na redação anterior à vigência da LC 118/05. Neste sentido: REsp 201201787450, Herman Benjamin, ST3 - Segunda Turma, DJE de: 10/10/2012.
+Por outro lado, não há que se falar em aplicabilidade da Súmula 106 do STJ, eis que esta somente deve ser aplicada se a demora for atribuída exclusivamente ao mecanismo judiciário, o que, definitivamente, não é o caso dos autos.
+Com efeito, a demora na citação ou na tramitação do processo não pode ser atribuída exclusivamente ao funcionamento da máquina judiciária, eis que entre a constituição do crédito e o ajuizamento da execução, até a realização da citação, transcorreram mais de cinco anos, fulminando, desse modo, a pretensão executiva, pela prescrição.
+Além do mais, há entendimento pacificado na jurisprudência no sentido de que "o princípio do impulso oficial não é absoluto" (REsp n. 502.732/PR; Rei. Min. Franciulíl Netto, DJU 29/3/2004; REsp n. 978.415/RJ, Relator Ministro José Delgado, D.J. 16/4/2008) (grifei).
+É de se concluir, então, que a demora na citação não pode ser atribuída exclusivamente ao Judiciário, mas sim à credora que se manteve inerte por um longo período na promoção da execução, o que afasta a aplicação da Súmula 106 do STJ.
+ ..
+É de se concluir, então, que o caso não é de paralisação do feito por culpa do Judiciário, mas de inércia da credora em promover a execução, eis que a ela cabe o ônus de obter e fornecer informações e documentos necessários ao prosseguimento do feito, o que afasta a aplicação da Súmula 106 do STJ. Assim, merece ser mantida a sentença.
+Ante o exposto, nego provimento à apelação.
+Do excerto transcrito, verifica-se, de plano, que é patente a deficiência de fundamentação do presente recurso, nos termos da Súmula 284 do STF, porquanto as suas razões estão absolutamente dissociadas da realidade destes autos, porquanto partem de premissa equivocada.
+O acórdão recorrido decidiu a respeito da prescrição para a propositura da ação, concluindo pela sua ocorrência, utilizando o art. 219, § 5º, do CPC/73 para decretá-la de ofício.
+Todavia, nas razões do apelo extremo, o ente fazendário limita a sua tese ao instituto da prescrição intercorrente, alegando violado o art. 40 da Lei n. 6.830/80, matéria não decidida pela Corte Regional.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
