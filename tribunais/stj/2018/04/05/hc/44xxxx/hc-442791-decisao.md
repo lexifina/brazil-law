@@ -1,0 +1,29 @@
+DECISÃO
+[NOME], paciente neste habeas corpus, estaria sofrendo coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Recurso em Sentido Estrito n. 0001842-60.2017.8.26.0635).
+Consta dos autos que o paciente foi denunciado como incurso no art. 155, § 4º, I e II, do Código Penal, por haver supostamente subtraído, para si, mediante rompimento de obstáculo à subtração da coisa, um achocolatado, um pacote de biscoito e um mini bolo, bens avaliados em R$ 2,30, pertencentes à Escola Estadual Paulo Eiro.
+O Juízo de primeiro grau, no entanto, rejeitou a denúncia, com fulcro no art. 395, III, do Código de Processo Penal, por considerar ser materialmente atípica a conduta imputada à acusada. Na sequência, o Ministério Público interpôs recurso em sentido estrito, ao qual foi dado provimento para determinar o recebimento da denúncia e o prosseguimento do feito.
+A impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que a conduta imputada à paciente é materialmente atípica, motivo pelo qual deve ser aplicado o princípio da insignificância em seu favor.
+Pondera, ainda, que não existe "nos autos qualquer prova de qualificadora do furto já que, decorrido mais de um ano da data dos fatos, impossível periciar o local" (fl. 3), respondendo, no máximo, por furto simples e que a "discussão sobre outros flagrantes eventualmente sofridos pelo paciente também não tira a razão da defesa: aqui se discute a atipicidade da conduta - e, em fatos atípicos, não há qualquer relevância em mencionar recidivas" (fl. 3).
+Requer, liminarmente, seja sobrestado o trâmite do processo, até o julgamento final deste writ. No mérito, pleiteia a concessão da ordem, para que seja determinado o trancamento do feito.
+Decido.
+Dúvidas não há de que o deferimento da liminar é medida excepcional, cabível apenas em hipóteses de flagrante ilegalidade e em que evidenciados o fumus boni juris e o periculum in mora.
+Da análise dos autos, ao menos em um juízo perfunctório, verifico que o pedido formulado reveste-se de plausibilidade jurídica, razão pela qual deve ser deferida a medida de urgência.
+Consoante já assentado pelo Supremo Tribunal Federal, o princípio da insignificância deve ser analisado em correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, para excluir ou afastar a própria tipicidade da conduta, examinada em seu caráter material, observando-se, ainda, a presença dos seguintes vetores: (I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da ação; (III) ínfimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica ocasionada (conforme decidido nos autos do HC n. 84.412/SP, de relatoria do Ministro Celso de Mello, DJU 19/4/2004).
+No caso, verifico que foi atribuída ao paciente a subtração, em tese, de um achocolatado, um pacote de biscoito e um mini bolo, bens avaliados, ao todo, em R$ 2,30 (dois reais e trinta centavos). Tal valor, na data do cometimento do delito (27/2/2017), representava, aproximadamente, 0,25% do salário mínimo então vigente que, à época, era de R$ 937,00 (novecentos e trinta e sete reais).
+Em que pesem os maus antecedentes ("ao menos dez vezes pela prática de furtos e roubo, extraindo-se da folha de antecedentes criminais" (fl. 33), entendo que a lesão jurídica provocada é dotada de inexpressiva ofensividade, sobretudo porque o crime foi cometido sem violência ou grave ameaça contra pessoa.
+Registro, por oportuno, não desconhecer o entendimento jurisprudencial desta Corte Superior de que, em regra, a prática do furto qualificado evidencia a maior reprovabilidade da conduta e, por isso, obsta a aplicação do princípio da insignificância.
+No entanto, em casos excepcionais, este Tribunal tem admitido a incidência do princípio da insignificância mesmo nas hipóteses de furto qualificado, quando demonstrada a mínima ofensividade da conduta.
+Exemplificativamente:
+ ..
+6. Na linha da orientação jurisprudencial do STF, esta Corte Superior tem admitido, em situações excepcionais, a incidência do princípio da insignificância no furto qualificado. Precedentes.
+Habeas corpus substitutivo não conhecido. Ordem concedida, de ofício, para desconstituir a sentença condenatória, a fim de reconhecer a atipicidade da conduta pela incidência do princípio da insignificância e, consequentemente, absolver o paciente.
+(HC n. 331.884/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 15/2/2017, grifei.)
+No mesmo sentido, colaciono julgado do Supremo Tribunal Federal:
+Habeas corpus. 2. Furto. Pacientes denunciados por terem subtraído, mediante rompimento de obstáculo, 50 metros de fiação elétrica e 1 lâmpada das dependências do Centro de Tradições Gaúchas Chaleira Preta, situado em Ijuí/RS (art. 155, § 4º, I e IV, do Código Penal). Bens avaliados em R$ 81,80. 3. Mínimo grau de lesividade da conduta. 4. Aplicação do princípio da insignificância. Possibilidade. 5. Ordem concedida.
+(HC n. 110.244/RS, Rel. Ministro Ricardo Lewandowski, Rel. p/ acórdão Ministro Gilmar Mendes, 2ª T., DJe 9/4/2012, destaquei.)
+Assim, não obstante a inequívoca tipicidade formal da conduta imputada ao paciente (furto qualificado), não identifico, num primeiro olhar, a presença de tipicidade material, dada a irrelevância da ofensa ao bem jurídico tutelado pela norma penal incriminadora.
+À vista do exposto, defiro a liminar apenas para sobrestar, até o julgamento final deste writ, o trâmite do Processo n. 0001842-60.2017.8.26.0635.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Solicitem-se informações ao Juízo de primeiro grau, encarecendo o envio dos elementos indispensáveis à análise do alegado na impetração, com envio de cópia da folha de antecedentes criminais.
+Em seguida, encaminhem-se os autos ao Ministério Público Federal para manifestação.
+Publique-se e intimem-se.
