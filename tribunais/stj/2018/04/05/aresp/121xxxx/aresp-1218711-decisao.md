@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por Sul América Companhia Nacional de Seguros contra a decisão do Tribunal de Justiça de Pernambuco que inadmitiu o recurso especial de fls. 1.991-2.041 (e-STJ), manejado em desfavor de acórdão proferido pela Terceira Câmara Cível, nos termos da seguinte ementa (e-STJ, fl. 1.612):
+APELAÇÃO. SISTEMA FINANCEIRO DE HABITAÇÃO. SEGURO HABITACIONAL. PRELIMINAR DE CERCEAMENTO DE DEFESA REJEITADA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 94 DO TJPE. MATÉRIAS JÁ APRECIADAS NA FASE DE SANEAMENTO. PRECLUSÃO. NÃO CONHECIMENTO. VÍCIOS CONSTRUTIVOS. COBERTURA SECURITARIA. SUMÚLA 58 DO TJPE.
+MULTA DECENDIAL. HONORÁRIOS ADVOCATÍCIOS. JUROS MORATÓRIOS A PARTIR DA CITAÇÃO.
+CORREÇÃO MONETÁRIA A PARTIR DA JUNTADA DO LAUDO PERICIAL. APELAÇÃO PARCIALMENTE CONHECIDA E NEGADO PROVIMENTO A PARTE CONHECIDA.
+1. Cerceamento de Defesa: Conforme norma cristalizada no caput e parágrafos do art. 236 do CPC/73, correspondente ao art. 272 do CPC/2015, as intimações consideram-se feitas através de publicação no órgão oficial, desde que nesta constem os nomes corretos das partes e seus advogados. Preliminar rejeitada.
+2. Competência, Ilegitimidade ativa, Ilegitimidade passiva, Inépcia da inicial e prescrição:
+Matérias já debatidas em despacho saneador e Agravo de Instrumento. Preclusão. Recurso parcialmente não conhecido.
+3. Cobertura securitária: A existência de vício de construção, por si só, não exime a Seguradora de responder pelo sinistro. Súmula 58 do TJPE.
+4. Multa decendial: Cabimento da multa. Valor limitado ao da obrigação principal e destinado aos mutuários. Incidência da Súmula 101 do TJPE. Precedente do STJ.
+5. Aplicação do CDC aos feitos envolvendo seguro habitacional no âmbito do SFH. Precedentes do STJ.
+6. Honorários advocatícios: Manutenção do quantum arbitrado, na sentença, em 15% sobre o valor da condenação.
+7. Remuneração do assistente técnico: Não há dúvidas que o valor despendido com contratação de assistente técnico deve ser ressarcido à parte vencedora, vez que o art. 20, §22, do CPC/73 (correspondente ao art. 84 do CPC/2015) inclui, expressamente, a remuneração do assistente técnico como despesa.
+8. Juros Moratórios: o termo inicial de incidência dos juros de mora é a data da citação, uma vez que se está diante de uma relação contratual.
+9. APELAÇÃO PARCIALMENTE CONHECIDA E, NA PARTE CONHECIDA, NÃO PROVIDA.
+Nas razões do recurso especial, a recorrente apontou divergência jurisprudencial e violação ao art. 27 do Código de Defesa do Consumidor, ao argumento de que a contagem do prazo prescricional de 5 (cinco) anos deve ocorrer a partir da ciência do evento danoso, qual seja, no momento em que tomou conhecimento do empréstimo, por ocasião da emissão de extrato do benefício previdenciário, ocorrido em 10/12/2015.
+Contrarrazões apresentadas às fls. 2.174-2.211 (e-STJ).
+O Primeiro Vice-Presidente da Corte estadual inadmitiu o apelo nobre sob os fundamentos de incidência da Súmula n. 7 do STJ e de não cabimento de recurso especial fundado em alegada violação de dispositivo constitucional ou de enunciado de súmula, o que ensejou a interposição do presente agravo.
+Contraminuta às fls. 2.620-2.648 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente agravo foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Com efeito, o Superior Tribunal de Justiça tem entendimento firmado de que cabe à parte agravante, nas razões do agravo em recurso especial, trazer argumentos para contestar a decisão do Tribunal de origem que negou seguimento ao recurso, justificando, tese a tese, o cabimento do apelo nobre conforme determina expressamente o art. 932, III, do CPC/2015.
+No caso, a agravante não impugnou especificamente o fundamento da decisão agravada relativo ao não cabimento de recurso especial fundado em alegada violação de dispositivo constitucional ou de enunciado de súmula, o que inviabiliza o conhecimento do agravo.
+A propósito:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. SÚMULA Nº 115/STJ. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CPC. 1. É inexistente, na instância especial, recurso interposto por advogado sem procuração nos autos (Súmula nº 115/STJ). 2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo. 3. Agravo regimental conhecido em parte e, na parte conhecida, não provido. (AgRg no AREsp n. 321.387/RS, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 5/2/2015, DJe 12/2/2015)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. VIOLAÇÃO DO ART. 535, DO CPC/73. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO. MULTA. REEXAME DE PROVAS. SÚMULA 7/STJ. 1. Incumbe ao relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, inciso III, do CPC/2015). 2. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC/73. 3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ). 4. Agravo interno não provido. (AgInt no AREsp n. 941.193/SP, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/11/2016, DJe 23/11/2016)
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor do advogado da parte recorrida em 3% (três por cento) sobre o valor da condenação.
+Publique-se.
