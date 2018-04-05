@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo RFB nº 2, de 22 de março de 2018
+Retificação
+No preâmbulo do Ato Declaratório Interpretativo RFB Nº 2, de 22 de março de 2018, publicado no DOU nº 57, de 23 de março de 2018, seção 1, página 32, Onde se lê: “O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 9º, 10 e 28 da Lei nº 9.430, de 27 de dezembro de 1996, declara:”. Leia-se: “O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXV do art. 327 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto nos arts. 9º, 10 e 28 da Lei nº 9.430, de 27 de dezembro de 1996, declara:”.
+.
