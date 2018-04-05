@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, 1.013 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. REDUÇÃO DA VAZÃO NO RIO SÃO FRANCISCO. AUSÊNCIA DE NEXO DE CAUSALIDADE. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra acórdão assim ementado (fl. 653):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. PEDIDO DE JUSTIÇA GRATUITA. BENEFÍCIO MANTIDO. INVERSÃO DO ÔNUS DA PROVA. INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. TEORIA DA CARGA DINÂMICA DA PROVA. PROVA DOS AUTOS QUE PERMITE O JULGAMENTO DO FEITO. ALEGAÇÃO DE COMETIMENTO DE DANO AMBIENTAL PELA CHESF. REDUÇÃO DA VAZÃO NO RIO SÃO FRANCISCO, QUE D I M I N U I U A PISCOSIDADE. COMPROVAÇÃO DE QUE NÃO HÁ NEXO DE CAUSALIDADE ENTRE A CONDUTA DA CHESF E A REDUÇÃO DO VOLUME D O R I O E , E M CONSEQUÊNCIA, DE SUA PISCOSIDADE. REGULARIDADE AMBIENTAL DA VAZÃO. MONTANTE DOS HONORÁRIOS SUCUMBENCIAIS NÃO ESTIPULADO PELO JUIZ. FIXAÇÃO EM R$ 300 (TREZENTOS REAIS). EM DECORRÊNCIA DOS HONORÁRIOS RECURSAIS, FORAM OS MESMOS MAJORADOS PARA R$ 500,00 (QUINHENTOS REAIS).
+EXIGIBILIDADE SUSPENSA, DIANTE DA GRATUIDADE JUDICIÁRIA CONCEDIDA. RECURSO CONHECIDO E IMPROVIDO.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 1.022, II, 489, §1º, IV e 1.013, do CPC/2015, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia, principalmente ao que tange o enfrentamento do disposto no artigo 393 do Código Civil.
+Quanto às questões de fundo, sustenta ofensa aos artigos 186, 393 e 927, § único, do Código Civil, e dos arts. 3º e 14, § 1º, da Lei n. 6.938/81, e dissídio jurisprudencial. Defende, em síntese, que o caso não comporta excludente de nexo de causalidade, eis que restou demonstrada e comprovada a responsabilidade da recorrida com base nas condicionantes da Licença de Operação n. 147/2001, ao reduzir a vazão do Rio São Francisco, de 1.300 para 700 m /s, com a consequente diminuição da piscosidade na região.
+Neste agravo, afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+De início, afasta-se a alegada violação dos artigos 1.022, II, 489, §1º, IV e 1.013, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Quanto às demais insurgências, o Tribunal Local, soberano no exame do conjunto fático-probatório dos autos, entendeu não haver responsabilidade da Companhia pela redução da vazão do Rio São Francisco, uma vez que tal fenômeno não foi causado pela construção da Usina Hidrelétrica de Xingó, mas por causas naturais decorrentes da diminuição da quantidade de água que entra pelos afluentes do rio. É o que se depreende dos seguintes trechos do acórdão (fls. 652/657):
+No episódio trazido à esta Egrégia Corte, restou devidamente evidenciado pelas autorizações especiais 01/2013 e 05/2015, bem como pela declaração do Instituto Brasileiro do Meio Ambiente e de Recursos Naturais Renováveis que, efetivamente, houve uma redução na vazão.
+Ocorre, no entanto, que restou amplamente demonstrado que esta redução NÃO foi causada pela CHESF.
+Conforme se verifica dos autos e da sentença, a Nota Técnica emitida conjuntamente pela IBAMA/COHID foi enfática ao afirmar que não tem qualquer liame entre a conduta da requerida e a redução da vazão no rio e a redução da piscosidade.
+(..)
+Ou seja, restou explicitado (e, inclusive, é lógico) que a usina libera pouca quantidade de água porque tem recebido pouca quantidade dos afluentes do reservatório.
+Obrigar o empreendimento a manter vazão superior àquela que entra no reservatório implicaria a fantasiosa pretensão de fazê-lo trazer água de outro lugar ou mesmo produzi-la!
+Assim, se tiver havido redução na quantidade de água e peixes, não se deve esta à conduta da requerida, mas à redução da quantidade . de água que entra pelos afluentes, como bem esclareceu o IBAMA".
+Pelo que restou evidenciado dos autos, a redução da vazão de água se deu por conta da diminuição dos seus afluentes.
+Desse modo, não havendo prova nos autos de que a requerida foi a responsável pela redução na vazão do rio, não há como responsabilizar a hidroelétrica pelo suposto dano causado à autora.
+Portanto, revisar o entendimento exarado pelo Tribunal de origem demanda o revolvimento do acervo fático-probatório dos autos, o que é inadmissível em sede de recurso especial, ante o óbice contido na Súmula n. 7/STJ.
+Por fim, a divergência jurisprudencial suscitada não atende ao requisito da identidade fático-jurídica entre os acórdãos confrontados, uma vez que as peculiaridades do caso vertente não se encontram espelhadas no paradigma, o qual está lastreado em circunstâncias distintas daquelas constantes nos autos sob análise.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
