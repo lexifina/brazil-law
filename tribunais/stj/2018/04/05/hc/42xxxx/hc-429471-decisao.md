@@ -1,0 +1,16 @@
+DECISÃO
+LUIS [NOME] alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo n. 0005082-86.2017.8.26.0496).
+O paciente cumpria pena em regime semiaberto quando sobreveio nova condenação na qual a reprimenda privativa de liberdade havia sido convertida em restritivas de direitos. O Juízo de origem, haja vista a incompatibilidade de cumprimento simultâneo das execuções, reconverteu as penas substitutivas e, depois de somar as reprimendas e fixar o regime inicial fechado, interrompeu a data-base para novos benefícios da execução.
+A defesa se insurge contra a alteração da data-base dos cálculos penais, pois não existe previsão legal para a providência. Em relação ao livramento condicional, afirma que o acórdão vai de encontro à Súmula n. 441 do STJ.
+Requer a retificação dos cálculos penais.
+O Ministério Público Federal opinou pela denegação do writ.
+Decido.
+Ante a superveniência de nova condenação no curso da execução, a nova reprimenda imposta ao paciente foi somada à restante, nos termos do art. 111, parágrafo único da LEP, com reconversão das penas substitutivas e a fixação do regime fechado.
+A controvérsia deduzida neste habeas corpus cinge-se à alteração da data-base para futuros benefícios da execução e já foi amplamente debatida pela Terceira Seção no julgamento do REsp n. 1.557.461/SC, finalizado em 22/2/2018, a cujas razões de decidir faço expressa referência, para evitar repetições inúteis.
+Na oportunidade, depois de vários debates, este Superior Tribunal modificou sua jurisprudência sobre o tema e, desde então, haja vista o princípio da segurança jurídica, a Quinta e a Sexta Turma passaram a compreender que a unificação de penas não altera a data-base para concessão de benefícios executórios.
+Se nem sequer a regressão de regime é consectário lógico do somatório das reprimendas, não é possível indicar o parágrafo único do art. 111 e do inc. II do art. 118, ambos da Lei de Execução Penal, para fins de interromper a data-base para concessão de futuros benefícios. Não existe nenhuma disposição legal expressa nesse sentido e a interpretação é prejudicial ao sentenciado.
+A providência constituiria afronta ao princípio da legalidade e ofensa à individualização da pena, motivo pelo qual se faz necessária a preservação do marco interruptivo anterior à unificação das penas.
+Deveras, a prática de novo crime no curso da execução constitui falta grave e já altera a data-base para progressão de regime. Ademais, se o sentenciado cometeu outro ilícito em data anterior ao início da execução, o fato é irrelevante para avaliar seu mérito carcerário. Assim, em qualquer das duas hipóteses, configura excesso de execução desconsiderar, à míngua de previsão legal, o período de cumprimento de pena desde a última infração disciplinar ou desde a última prisão.
+O acórdão impugnado está em dissonância com o atual entendimento da Terceira Seção deste Superior Tribunal de Justiça.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus para que a unificação de penas não enseje a alteração do termo a quo para a concessão de benefícios ao paciente.
+Publique-se e intimem-se.
