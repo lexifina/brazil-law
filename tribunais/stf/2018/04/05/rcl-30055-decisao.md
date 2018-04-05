@@ -1,0 +1,33 @@
+Decisão
+    Trata-se de reclamação proposta com pedido liminar pelo Estado de São Paulo, na qual se busca preservar a competência do SUPREMO TRIBUNAL FEDERAL para processar e julgar o Apelo Extremo e o Agravo em Recurso Extraordinário interposto contra a decisão que obstou a remessa dos autos a esta CORTE.
+    Aduz a parte reclamante, em suma, que, apesar de apresentar agravo dirigido ao STF, o Colégio Recursal de Santo André-SP o recebeu como agravo interno, configurando equívoco do juízo reclamado, pois (a) se trata de controvérsia repetitiva deveria ter sido aplicado ao caso o artigo 1.030, incisos III e IV do CPC e não o artigo 1.030, inciso I do mesmo Código; e (b) não houve análise do STF da repercussão geral relativamente ao caso, não podendo o Colégio Recursal utilizar-se de analogia. Dessa maneira, não é cabível a aplicação do artigo 1030, inciso I do CPC, mas sim do caput do artigo 1.042, cabendo da decisão, a interposição de agravo de despacho denegatório de recurso extraordinário e não agravo interno.
+    Assim, requer seja julgado procedente o pedido, no sentido de anular as decisões reclamadas e determinar a remessa dos autos a este PRETÓRIO EXCELSO, por ser competente para julgar o Agravo em Recurso Extraordinário.
+    É o relatório. Decido.
+    A reclamação há de ser indeferida desde logo, devendo permanecer íntegro o ato judicial reclamado. Vejamos. Dispõe o art. 1.030 do CPC/2015:
+    “Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+    I – negar seguimento:
+    a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+    b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+    II – encaminhar o processo ao órgão julgador para realização do juízo de retratação, se o acórdão recorrido divergir do entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça exarado, conforme o caso, nos regimes de repercussão geral ou de recursos repetitivos;
+    III – sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional;
+    IV – selecionar o recurso como representativo de controvérsia constitucional ou infraconstitucional, nos termos do § 6º do art. 1.036;
+    V – realizar o juízo de admissibilidade e, se positivo remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça, desde que:
+    a) o recurso ainda não tenha sido submetido ao regime de repercussão geral ou de julgamento de recursos repetitivos;
+    b) o recurso tenha sido selecionado como representativo da controvérsia; ou
+    c) o tribunal recorrido tenha refutado o juízo de retratação.
+    § 1º Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042.
+    §   2º  Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021. “
+    Constata-se dos autos que o juízo negativo de admissibilidade do apelo extremo se arrimou em três fundamentos: (a) ofensa constitucional reflexa; (b) ausência de prequestionamento e (c) incidência de precedente produzido sob o rito da repercussão geral.
+    Buscando reverter essa decisão, a Fazenda interpôs o agravo do art. 1.042 do Código de Processo Civil, endereçado ao SUPREMO TRIBUNAL FEDERAL.
+    Ocorre que a jurisprudência desta CORTE firmou entendimento pela inadmissibilidade de agravo para o SUPREMO TRIBUNAL FEDERAL com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela SUPREMA CORTE. Consoante destacado pelo Decano de nosso SUPREMO TRIBUNAL FEDERAL, Min. CELSO DE MELLO, se revela incognoscível o recurso deduzido contra decisão que observa orientação plenária desta SUPREMA CORTE, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada (RE 1.023.231/PR, DJe de 22/2/2017).
+    Assim, a parte da decisão agravada em que se aplicou o Tema 800 da repercussão geral deveria ser impugnada por meio de agravo interno, na forma do § 2º do art. 1.030, susotranscrito.
+    Não se nega que o agravo do art. 1.042 é a via adequada para a discussão acerca dos demais óbices, a saber, a ofensa constitucional reflexa e a falta de prequestionamento.
+    Entretanto, no peculiar panorama deste caso, o envio do referido agravo ao SUPREMO de fato seria inócuo, pois remanesceria incólume fundamento por si só apto a sustentar o julgado – o precedente formado sob os auspícios da repercussão geral.
+    Portanto, a fim de evitar a prática de atos processuais desnecessários (a remessa do agravo ao SUPREMO apenas para que se afirme sua inviabilidade de reverter a inadmissão do apelo extremo), não é o caso de interferir na atuação do Juízo de origem.
+    Vale destacar desde logo que o mero fato de se interpor recurso endereçado ao SUPREMO não redundará necessariamente no envio da impugnação a esta CORTE. Com efeito, a Súmula 727/STF foi editada antes do desenvolvimento da sistemática da repercussão geral, que tem como pilar a diretriz de que as instâncias de origem não devem encaminhar ao STF Agravo da negativa de seguimento a Recurso Extraordinário cuja matéria se filia às orientações do STF estabelecidas em sede de repercussão geral. Não fosse essa orientação, o SUPREMO continuaria a ser inundado de recursos inadmissíveis – justamente o que a inovação da Emenda Constitucional 45 procurou corrigir.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUBAL FEDERAL, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se.
+    Brasília, 5 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
