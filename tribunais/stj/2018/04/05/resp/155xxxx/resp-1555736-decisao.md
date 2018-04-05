@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 284):
+SERVIDOR PÚBLICO. REMOÇÃO. INTERESSE PÚBLICO. ACOMPANHAMENTO DE CÔNJUGE. PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS NO ART. 36, PARÁGRAFO ÚNICO, III, "A", DA LEI N. 8.112/90. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.
+Apelação da parte autora provida. Improvimento da apelação da União Federal.
+Opostos embargos de declaração, foram rejeitados (fls. 307/310).
+Nas razões do especial, a parte recorrente aponta ofensa aos arts. 535, II, do CPC e 36, da Lei n.º 8.112/90. Sustenta, em síntese: (I) tese de negativa de prestação jurisdicional e; (II) o não reconhecimento ao direito da recorrida à remoção para a cidade de Porto Alegre para acompanhar companheiro, porquanto não foram preenchidos os requisitos elencados no art. 36 da Lei n.º 8.112/90.
+Houve contrarrazões (fls. 337/352).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De outro lado, observa-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, segundo o qual a simples abertura de vaga à remoção ou promoção já denota o interesse da Administração no seu preenchimento, razão pela qual a Corte de origem considerou atendidos os requisitos previstos no artigo 36 da Lei 8.112/1990.
+No ponto, a recorrente limita-se a defender que a remoção para acompanhamento de cônjuge exige, obrigatoriamente, prévio deslocamento da Administração, sem, contudo, desenvolver argumentação contrária a assertiva de que a promoção do servidor seria suficiente para caracteriza o preenchimento do aludido requisito.
+O conhecimento da irresignação, portanto, esbarra no obstáculo previsto na Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego provimento.
+Publique-se.
