@@ -1,0 +1,80 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. REFORMA DE MILITAR. APRECIAÇÃO DE AFRONTA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL DO ESTADO. TEORIA DA PERDA DE UMA CHANCE. CONCLUSÃO DO TRIBUNAL DE ORIGEM PELA AUSÊNCIA DOS REQUISITOS ENSEJADORES DO DEVER DE INDENIZAR. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. DISSÍDIO PRETORIANO PREJUDICADO.
+1. Cuida-se, na origem, de Ação de indenização contra a União consubstanciada pela perda da chance da parte demandante de ser reformado, por culpa exclusiva da Defensoria Pública da União por não ter apresentado o recurso competente contra sentença de improcedência proferida nos autos da ação em que pleiteava a reforma do autor, acometido de visão monocular.
+2. A suscitada ofensa constitucional não merece conhecimento, porquanto o exame da violação de dispositivos constitucionais é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+3. O Tribunal de origem com base no acervo fático-probatório dos autos concluiu que, "no caso em análise, a despeito das alegações tecidas pela parte-autora, não se observa, no caso, a aludida "certeza da probabilidade", tampouco prejuízo imediato oriundo da conduta imputada à ré - ausência de recurso em ação judicial" (fl. 575, e-STJ).
+4. Desse modo, para alterar as conclusões do órgão julgador no tocante à configuração dos elementos ensejadores do dever de indenizar, bem assim quanto à tese relativa à teoria da perda de uma chance, seria necessário o reexame do contexto fático e probatório dos autos, providência esta vedada em Recurso Especial, a teor da Súmula 7/STJ.
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional. 6. Recurso Especial não conhecido.
+6. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. UNIÃO. REFORMA DE MILITAR. ANTERIOR PROCESSO COM TRÂNSITO EM JULGADO NEGANDO O PEDIDO. INEXISTÊNCIA DE RECURSO PELA DPU CONTRA A DECISÃO JUDICIAL. TEORIA DA PERDA DE UMA CHANCE. INAPLICABILIDADE AO CASO. DANOS MORAIS E DANOS MATERIAIS. INEXISTÊNCIA DE ATO ESTATAL CAPAZ DE GERAR LESÃO JURÍDICA.
+- A Carta de 1988, seguindo a linha de sua antecessora, estabeleceu como baliza principiológica a responsabilidade objetiva do Estado, adotando a teoria do risco administrativo. Consequência da opção do constituinte, pode-se dizer que, de regra os pressupostos dar responsabilidade civil do Estado são: a) ação ou omissão humana; b) dano injusto ou antijurídico sofrido por terceiro; c) nexo de causalidade entre a ação ou omissão e o dano experimentado por terceiro.
+- Segundo a jurisprudência do STJ, a teoria da perda de uma chance contempla a hipótese de compensação pela impossibilidade de conquistar benefícios ou afastar prejuízos futuros (REsp 1.190.180/RS, Ministro Luis Felipe Salomão, Quarta Turma, DJ de 22.11.2010), o que a parte autora, todavia, não logrou comprovar.
+- Hipótese na qual não há danos materiais e morais a serem reparados, pois, dado que a decisão, em anterior processo judicial, ancora sua fundamentação basicamente no resultado da prova pericial produzida naqueles autos - indicando não haver incapacidade definitiva para a atividade militar -, pode-se sustentar a baixa probabilidade de êxito naquela ação, movida pelo ora recorrente, então representado judicialmente pela DPU. Em outras palavras, tem-se por inexistente conduta estatal capaz de gerar lesão jurídica.
+- Apelação improvida.
+Em seu apelo especial, o recorrente aponta, além de divergência jurisprudencial, violação do art. 5º da CF/1988.
+Sustenta, em suma:
+O ato ilícito é aquele praticado em desacordo com a norma jurídica destinada a proteger interesses alheios, violando direito subjetivo individual, causando prejuízo a outrem e criando o dever de reparar tal lesão.
+No caso concreto, a não interposição do recurso pela DPU, em face da sentença de improcedência, caracteriza negligência e desídia dos profissionais na defesa dos interesses do representado, que vai agravado no caso concreto pela inexistência de precedentes contrários à tese autoral em TODOS Tribunais do Brasil (reforma militar por visão monucular) (fl. 592, e-STJ).
+Aduz ainda ofensa aos arts. 186 e 927 do CC, ao argumento:
+No caso em tela, considerando que a parte recorrida é um Órgão Público da Administração Direta, prestadora de serviço público, forte no art. 37, §6º, da Constituição Federal de 1988, a mesma é objetivamente responsável pelos danos causados ao requerente por seus agentes, no caso a Defensoria Pública União.
+Nesta senda, verifica-se que a Constituição estabeleceu a responsabilidade objetiva das pessoas jurídicas de direito público e das de direito privado prestadoras de serviços públicos, não se levando em consideração a existência da culpa frente aos danos causados a terceiros em função do desempenho de suas atividades.
+(..)
+Assim, tendo a requerida agido de forma negligente e desidiosa, deixando de interpor recurso que se impunha necessário para defesa dos interesses do recorrente, deve responder objetivamente pela perda da probabilidade de sucesso na ação e pelos danos daí decorrentes (fls. 593-596, e-STJ).
+Afirma que "não há a menor possibilidade de dúvida, que o fato do agente da recorrida, a Defensoria Pública da União, não ter interposto o recurso cabível da decisão de primeiro grau que indeferiu a reforma militar do recorrente, apesar da sólida jurisprudência do TRF4, fez com o que o recorrente deixasse de ser reformado pelo Estatuto dos Militares a partir de 17/05/2002, causando graves danos de ordem moral e material ao postulante" (fl. 602, e-STJ).
+Contrarrazões às fls. 626-637, e-STJ.
+Instado a se manifestar, o Ministério Público Federal, na pessoa do Subprocurador-Geral da República [NOME], opinou pelo não conhecimento do recurso.
+Eis a ementa do parecer Ministerial (fl. 707, e-STJ):
+PROCESSUAL CIVIL. ADMINISTRATIVO. REFORMA MILITAR. AÇÃO INDENIZATÓRIA. PERDA DE UMA CHANCE. NÃO CONFIGURAÇÃO. RECURSO ESPECIAL. CONHECIMENTO.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 27.2.2018.
+Cuida-se, na origem, de Ação de indenização contra a União consubstanciada pela perda da chance da parte demandante de ser reformado, por culpa exclusiva da Defensoria Pública da União por não ter apresentado o recurso competente contra sentença de improcedência proferida nos autos da ação em que pleiteava a reforma do autor, acometido de visão monocular.
+De início, não se presta o Recurso Especial ao exame de suposta afronta a dispositivos constitucionais, por se tratar de matéria reservada à competência do Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição Federal.
+No mais, para melhor elucidação da matéria, cumpre transcrever, no que interessa, o voto condutor do acórdão objurgado (fls. 572-575, e-STJ):
+Entre outros argumentos, a parte autora baseia seu pedido indenizatório na teoria da "perda de uma chance", cujo teor exige daquele que a pleiteia a respectiva demonstração de perda de oportunidade séria e real de alcançar um ganho ou direito proveitoso perseguido, por atuação irregular de terceiro.
+(..)
+A sentença recorrida entendeu não haver danos materiais e morais a serem reparados, pois, dado que a decisão, em anterior processo judicial, ancora sua fundamentação basicamente no resultado da prova pericial produzida naqueles autos - indicando não haver incapacidade definitiva para a atividade militar -, pode-se sustentar a baixa probabilidade de êxito naquela ação, movida pelo ora recorrente, então representado judicialmente pela DPU. Em outras palavras, tem-se por inexistente conduta estatal capaz de gerar danos indenizáveis.
+(..)
+Portanto, no caso dos autos, não foi possível confirmar as alegações do autor de que teria sido vítima de inúmeros abusos, humilhações, constrangimento e agressões morais por parte dos seus superiores hierárquicos. O que se verifica é que vários dos fatos mencionados pelo autor na inicial são circunstâncias comuns - ainda que indesejáveis para o militar - no âmbito dos quartéis militares, por conta de seu rígido sistema de treinamento.
+No que se refere aos danos morais vinculados à perda de uma chance, o voto proferido pelo Ministro Paulo de Tarso Sanseverino, Relator no Recurso Especial n.º 1.291.247/RJ (STJ, 3ª Turma), esclarece que:
+"Em verdade, não há falar em responsabilidade civil sem dano, fazendo-se necessária a presença de seus três principais elementos - a certeza, a imediatidade e a injustiça do dano.
+A certeza do dano constitui o principal elemento, significando que a lesão ao interesse do prejudicado deve ser real e efetiva, sem deixar dúvida acerca da sua existência, ficando, assim, excluídos os danos hipotéticos.
+Essa afirmativa, porém, deve ser relativizada, pois, entre o dano certo e o hipotético, existe uma nova categoria de prejuízos, que foi identificada pela doutrina e aceita pela jurisprudência a partir da teoria da perda de uma chance.
+Relembre-se que a teoria da perda de uma chance tem aplicação, quando o evento danoso acarreta para alguém a perda de uma chance de obter um proveito determinado ou de evitar uma perda.
+O precedente mais antigo, no direito francês, foi o caso apreciado pela Corte de Cassação, em 17 de julho de 1889, que aceitou indenizar uma parte demandada pela perda provocada pela conduta negligente de um oficial ministerial, que impediu o prosseguimento do procedimento e, consequentemente, a possibilidade de ganhar o processo.
+(..)
+Situa-se nesse ponto a característica essencial da perda de uma chance: a certeza da probabilidade.
+A chance é a possibilidade de um benefício futuro provável, consubstanciada em uma esperança para o sujeito, cuja privação caracteriza um dano pela frustração da probabilidade de alcançar esse benefício possível. Fica claro, assim, que "o perdido, o frustrado, na realidade é a chance e não o benefício esperado como tal" (Henri Lalou, Ibid, p. 78).
+Por isso, na perda de uma chance, há também prejuízo certo, e não apenas hipotético, situando-se a certeza na probabilidade de obtenção de um benefício frustrado por força do evento danoso.
+Repara-se a chance perdida, e não o dano final."
+Com efeito, tal teoria exige que o dano seja analisado a partir de um juízo de probabilidade e não a mera possibilidade que, de regra, não é indenizável por tratar-se de dano incerto.
+A "perda de uma chance" está presente nos casos em que o ato ilícito tira da vítima a oportunidade de obter uma situação futura melhor. Contudo, trata-se de uma chance real e séria, que proporcione ao lesado efetivas condições pessoais de concorrer à situação futura esperada. A "perda de uma chance" repousa em uma probabilidade e uma certeza.
+No caso em análise, a despeito das alegações tecidas pela parte-autora, não se observa, no caso, a aludida "certeza da probabilidade", tampouco prejuízo imediato oriundo da conduta imputada à ré - ausência de recurso em ação judicial.
+Em verdade, o que se infere do conjunto probatório é que os fatos narrados pelo autor se constituem em desdobramentos ordinários da hierarquia e da disciplina inerentes à vida castrense, eventualmente supervalorizados pelo postulante em razão de seu próprio perfil psicológico e inadequação à rotina militar. Todavia, o exame da prova carreada aos autos impede que se forme convicção favorável ao pedido inicial. Impõe-se, portanto, o julgamento de improcedência da demanda.
+Desse modo, para alterar as conclusões do órgão julgador no tocante à configuração dos elementos ensejadores do dever de indenizar, bem assim quanto à tese relativa à teoria da perda de uma chance, seria necessário o reexame do contexto fático e probatório dos autos, providência esta vedada em Recurso Especial, a teor da Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. EXTRAVIO DE PROCESSO ADMINISTRATIVO. DANOS MORAIS E PERDA DE UMA CHANCE. LITIGÂNCIA DE MÁ FÉ. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, acerca da não configuração dos danos morais e da caracterização de litigância de má-fé, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 desta Corte Superior.
+2. Agravo interno não provido.
+(AgInt no AREsp 741.577/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/04/2017, DJe 20/04/2017)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. RESPONSABILIDADE SUBJETIVA DO HOSPITAL PELOS ATOS PRATICADOS POR SEUS MÉDICOS. NEGLIGÊNCIA COMPROVADA. SEQUELAS IRREVERSÍVEIS. APLICAÇÃO DA TEORIA DA PERDA DE UMA CHANCE. REDUÇÃO DO VALOR DOS DANOS MORAIS. RAZOABILIDADE E PROPORCIONALIDADE. IMPOSSIBILIDADE. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA Nº 7/STJ. PRECEDENTES. SÚMULA Nº 83/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, a responsabilidade das entidades hospitalares pelos atos de seus médicos deve ser verificada à luz da teoria da responsabilidade subjetiva, de modo que demonstrada a culpa desses quando do atendimento do paciente, a condenação é medida que se impõe. Precedentes. Súmula nº 83/STJ.
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.
+4. A tese defendida no recurso especial, no tocante ao afastamento da teoria da perda de uma chance, demanda reexame do contexto fático e probatório dos autos, vedado pela Súmula nº 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 140.251/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/08/2017, DJe 08/08/2017).
+Por fim, destaque-se que fica prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Nessa linha:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE OBRIGAÇÃO DE FAZER - FACHADA CONDOMINIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. A pretensão de reexame de provas implica a incidência da Súmula 7/STJ. Conclusão do Tribunal de origem, no tocante à desconformidade da reforma promovida em unidade residencial com regra relativa à fachada do condomínio, adotada com base exclusivamente na prova dos autos.
+2. A aplicação do óbice da Súmula 7/STJ prejudica o exame da controvérsia relativamente à tese de dissídio jurisprudencial.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 922.342/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/03/2018, DJe 07/03/2018) (Grifei).
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
