@@ -1,0 +1,37 @@
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FALTA DE COMBATE AOS FUNDAMENTOS QUE AMPARAM A DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, os fundamentos da decisão agravada, incidindo, na espécie, a Súmula 182/STJ.
+2. A mera alegação, nas razões do agravo interno, de que a parte faz jus ao benefício da justiça gratuita, sem a apresentação da declaração de pobreza nem de qualquer outro lastro probatório, enseja o indeferimento do pedido.
+3. Não se cogita a possibilidade de se abrir prazo para a parte recolher custas recursais, visto que o processamento do agravo interno não demanda o pagamento de tal emolumento.
+4. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por [NOME] - Espólio, desafiando decisão que não conheceu do recurso especial, sob o entendimento de que os argumentos postos no recurso especial não guardam pertinência com as conclusões do acórdão recorrido, o que revela a deficiente fundamentação recursal, o que atrai a incidência da Súmula 284/STF.
+Em suas razões, a parte agravante alega que "o julgamento pela improcedência do pedido autoral no processo por falta de prova, ainda que a disposição venha rotulada de improcedência, em verdade não é caso de improcedência, pois o verdadeiro mérito não foi julgado e, se considerar como julgamento de mérito, prejudicará o Recorrente que não mais poderão renovar a ação, criando para eles um obstáculo à reivindicação de seu direito, o que, no fundo, nada mais é do que uma grave injustiça" (fl. 1.146). Ao final, requer a concessão do benefício da justiça gratuita.
+O recurso foi impugnado pela parte agravada (fl. 1.153)
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento.
+Como já foi dito, o decisum agravado não conheceu do recurso especial, pelas seguintes razões (fl. 1.139):
+No caso, aduz o recorrente, em suma, que a extinção do processo por ausência ou insuficiência de provas não acarreta julgamento de mérito. Contudo, o Tribunal a quo julgou a demanda, asseverando que "não se configura lesiva a atuação estatal que determinou a arrematação do bem dado em garantia para satisfazer débito fiscal, inscrito em Dívida Ativa. O fato de o magistrado a quo haver homologado e reputar aperfeiçoada a arrematação do bem não enseja responsabilidade civil do agente político".
+Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, citam-se os seguintes julgados:
+REsp 1.260.020/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 30/8/2011; AgRg no Ag 1.238.729/PE, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 13/9/2010.
+Nada obstante, nas razões recursais, a parte agravante, se limitou a manifestar, de forma genérica e superficial, seu inconformismo com a decisão agravada, sem elaborar qualquer linha argumentativa capaz de arrostar as conclusões que alicerçam o decisum ora guerreado.
+Assim, a parte agravante deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência da Súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida"). Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para viabilizar o prosseguimento do agravo, a irresignação recursal há de ser completa, especifica e objetiva. Não basta a impugnação genérica (Súmula 182/STJ).
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp 621.634/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, DJe 26/10/2015)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - ACIDENTE DE VEÍCULO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO COM BASE NA SÚMULA 182/STJ E APLICOU MULTA DE 1% SOBRE O VALOR DA CAUSA, FICANDO A INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO CONDICIONADA AO RECOLHIMENTO DO RESPECTIVO VALOR. INSURGÊNCIA DO AUTOR.
+1. Razões do agravo que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. De acordo com a jurisprudência desta Corte, mesmo que o recorrente seja beneficiário da justiça gratuita, é indispensável o recolhimento da multa em questão, pois "o benefício da assistência judiciária não tem o condão de tornar o assistido infenso às penalidades processuais legais por atos de procrastinação ou litigância de má-fé por ele praticados no curso da lide." (EDcl no AgRg no Resp 1.113.799/RS).
+Portanto, caracterizada uma das hipóteses previstas no caput do art. 557 do CPC, autorizado estará o relator, desde logo, a aplicar multa sancionatória e, consequentemente, condicionar a interposição de qualquer outro recurso ao depósito do respectivo valor.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 239.360/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 1º/2/2016)
+Por derradeiro, cumpre registrar que o STJ possui entendimento de que, para a concessão dos benefícios da assistência judiciária gratuita, basta que o postulante afirme não possuir condições de arcar com as custas e despesas processuais sem prejuízo ao sustento próprio e de sua família, ressalvado ao juiz indeferir a pretensão, se tiver fundadas razões para tanto, conforme reza o art. 5º da Lei 1.060/1950. Contudo, na espécie, não houve a formulação da referida declaração de hipossuficência, razão pela qual o pedida ha de ser indeferido.
+A propósito, "Ainda que a recorrente postule nas razões de seu recurso especial a gratuidade da justiça - por ser possível realizar este pedido em qualquer fase processual ou instância recursal -, deve embasar seu pedido, seja com a declaração de pobreza, seja com documentação mínima que demonstre sua hipossuficência financeira. Assim, a assistência judiciária gratuita não poderia ser deferida porque, mais uma vez, a recorrente não fundamentou seu pedido de gratuidade, nem juntou documentos que demonstrassem a sua hipossuficiência financeira, em especial a declaração de pobreza exigida pela lei" (AgRg no AREsp 737.289/RJ, Rel. Ministro Humberto Martins, Segunda Turma, DJe 12/2/2016).
+Por outro lado, não se cogita a possibilidade de se abrir prazo para a parte recolher custas recursais, visto que processamento do agravo interno não demanda o pagamento de tal emolumento.
+Ante o exposto, não se conhece do agravo interno.
+É o voto.
