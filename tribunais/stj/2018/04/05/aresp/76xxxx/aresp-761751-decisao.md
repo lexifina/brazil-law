@@ -1,0 +1,26 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO APOSENTADO. DESCONTO DE ASSISTÊNCIA À SAÚDE. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. RECURSO QUE SE FUNDA, TÃO SOMENTE, NESSA ALEGAÇÃO. AGRAVO EM RECURSO ESPECIAL DA FAZENDA DO ESTADO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pela FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO, com fundamento no art. 105, III, alínea a da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Recurso ex officio e Apelação Cível. Embargos à Execução de sentença opostos pela Fazenda do Estado. Pretensão da Embargante de que seja reconhecido o excesso de execução, em decorrência da indevida inclusão dos valores devidos ao 1PESP e ao 1AMSPE. Embargos julgados procedentes em parte. Erro material no dispositivo da sentença. Correção nesta sede recursal. Manutenção da sentença no essencial. Recursos não provido (fls. 78).
+2. Os Embargos de Declaração opostos (fls. 85/86) foram rejeitados, por unanimidade (fls. 88/91).
+3. Em suas razões recursais sustenta a parte agravante violação dos arts. 165, 458, II, 535, I do CPC/1973, aos seguintes fundamentos: (a) a despeito da oposição dos Embargos de Declaração, o acórdão recorrido foi omisso quanto aos dispositivos violados; (b) requer o recebimento do presente Recurso no efeito suspensivo, pois a decisão agravada pode redundar em lesão grave e de difícil reparação; (c) excesso de execução, por ser aplicável a incidência do desconto de assistência à saúde, pelo fato de a verba exequenda ser de natureza salarial; (d) ocorrência de reformatio in pejus, pois o v. acórdão alterou a decisão de Primeiro Grau para determinar a total improcedência da demanda, a título de corrigir erro material da r. sentença; e (e) inaplicabilidade da Súmula 7 do STJ.
+4. O Apelo Raro foi inadmitido pela Presidência do Tribunal de origem (fls. 110/111), sobrevindo a interposição de Agravo (fls. 114/119).
+5. É o relatório, em síntese. Decido.
+6. A questão em debate cinge-se à definição da natureza da verba, para definir se é aplicável ou não a incidência do desconto de assistência à saúde. Em relação ao tema, merece destaque os seguintes trechos do acórdão combatido:
+O argumento de que a inclusão de valores devidos ao IPESP e ao IAMSP é equivocada e indevida não procede.
+Nada impede e tudo justifica que os valores a título de recolhimento para o sistema previdenciário que incidem sobre verbas estipendiárias devem ser pago, posto que devidos. E se devidos são, devem ser incluídos na conta, para efeito de recolhimento posterior, tal como ocorre com os tributos com sistema de retenção na fonte (fls. 80).
+7. Como se vê, da simples leitura dos trechos acima transcritos, verifica-se que inexiste a violação apontada, uma vez que a Corte de origem concluiu que são devidas as verbas devidas ao IPESP e ao IAMPSE.
+8. Assim, observa-se que o Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+9. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+10. Neste sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. ARTIGO 535 DO CPC. OFENSA NÃO CARACTERIZADA. ART. 273 DO CPC. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SUMULA 7 DO STJ. FUNDAMENTO CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 126/STJ. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA A. DISSÍDIO PRETORIANO PREJUDICADO.
+1. Não se verifica a ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+(..).
+5. Agravo Regimental não provido (AgRg no AREsp. 615.053/RJ, Rel. Min. HERMAN BENJAMIN, DJe 6.4.2015).
+
+IREITO ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCON. APLICAÇÃO DE MULTA EMPRESA PÚBLICA FEDERAL. REDUÇÃO DO VALOR. NÃO OFENSA AO ART. 535 DO CPC. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Correta a rejeição dos embargos de declaração ante a inexistência de omissão, contradição ou obscuridade a ser sanada e, por conseguinte, deve-se concluir pela ausência de ofensa ao artigo 535 do CPC.
+2. A controvérsia dos autos foi dirimida com base nos fatos e provas constantes dos autos, de modo que o recurso especial é inviável em razão do enunciado 07 da Súmula desta Corte.
+3. Agravo regimental não provido (AgRg no AREsp. 618.556/PE, Rel. Min. BENEDITO GONÇALVES, DJe 31.3.2015).
+11. Ante o exposto, nego provimento ao Agravo em Recurso Especial da FAZENDA DO ESTADO DE SÃO PAULO.
+12. Publique-se. Intimações necessárias.
