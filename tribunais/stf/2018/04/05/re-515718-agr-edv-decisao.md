@@ -1,0 +1,29 @@
+EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO MONETÁRIO. CONVERSÃO DO PADRÃO MONETÁRIO. CRUZEIRO REAL EM URV. DIREITO AOS 11,98% OU AO ÍNDICE DECORRENTE DO PROCESSO DE LIQUIDAÇÃO E SUA INCORPORAÇÃO. ENTENDIMENTO DO ACÓRDÃO PARADIGMA SUPERADO VIA EMBARGOS DE DECLARAÇÃO COM EFEITO MODIFICATIVO. DISSÍDIO NÃO COMPROVADO. EMBARGOS DE DIVERGÊNCIA INADMITIDOS.
+    Decisão: Trata-se de embargos de divergência opostos pelo Estado do Rio Grande do Norte em face de acórdão proferido pela Primeira Turma desta Suprema Corte, assim ementado, in verbis:
+    “SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. CONVERSÃO EM UNIDADE REAL DE VALOR – URV. APLICABILIDADE DA LEI N. 8.880/94. PRECEDENTES. NÃO-OCORRÊNCIA DE PERDA NA CONVERSÃO. FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL A QUO. AGRAVO REGIMENTAL DESPROVIDO. O fundamento de que não houve perda na conversão em URV dos vencimentos dos servidores não foi examinado pelo Tribunal a quo. Incidem, no caso, as Súmulas 282 e 356 deste Supremo Tribunal.”
+    Quanto ao objeto da alegada divergência jurisprudencial, o voto condutor do acórdão embargado assim consignou:
+    “Por fim, quanto ao pIeito referente à aplicação dos limites temporais definidos no julgamento da Ação Direta de Inconstitucionalidade 1.797, ReI. Min. lImar Galvão, DJ 29.6.2001, confira-se entendimento recente deste Tribunal: ‘EMENTA: Embargos de declaração em agravo regimental em agravo de instrumento. 2. Recomposição de 11,98% aos servidores públicos. 3. Limitação temporal. ADI 1.797. 4. Entendimento superado no julgamento da ADI 2.323. 5. Embargos acolhidos para restabelecer a decisão monocrática inicial.’ (AI 482.126-AgR ED, ReI. Min. Gilmar Mendes, DJ 20.10.2006)”
+    Nas razões recursais dos embargos de divergência, o Estado do Rio Grande do Norte sustenta que o acórdão proferido pela Primeira Turma do Supremo Tribunal Federal merece revisão por ser “frontalmente divergente do quanto decidido pela Segunda Turma no Julgamento do Agr no AI 482.126”.
+    Alega o embargante que “é perfeitamente cabível a limitação/compensação dos eventuais valores devidos pela aplicação do percentual a que supostamente faz(em) jus o(a)(s) agravados em obediência à decisão do Supremo Tribunal Federal na ADI 1797”. Requer, por fim, sejam os embargos de divergência conhecidos e, ao final, providos, para que, na fase de liquidação, sejam limitados os efeitos de eventuais perdas ocorridas na conversão com reajustes posteriores.
+    A parte agravada, intimada para oferecer contrarrazões (art. 335, caput , RISTF), deixou transcorrer o prazo in albis (Doc. 08).
+    É o relatório. DECIDO.
+    Ressalto, inicialmente, que o acórdão embargado foi publicado em período anterior à vigência do Novo Código de Processo Civil, razão pela qual o presente recurso seguirá a disciplina jurídica do CPC/1973, por força do princípio tempus regit actum.
+    O art. 546, inciso II e parágrafo único, do Código de Processo Civil de 1973, assim dispunha, in verbis:
+    “Art. 546. É embargável a decisão da turma que:
+    (...)
+    II - em recurso extraordinário, divergir do julgamento da outra turma ou do plenário.
+    Parágrafo único. Observar-se-á, no recurso de embargos, o procedimento estabelecido no regimento interno.”
+    O Regimento Interno do Supremo Tribunal Federal, ao disciplinar esta espécie recursal, assim determina:
+    “Art. 330. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+    Art. 331. A divergência será comprovada mediante certidão, cópia autenticada ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados.”
+    Com efeito, os embargos de divergência têm por objetivo a uniformização dos entendimentos do Tribunal porventura dissonantes, de modo que não se prestam a mera revisão de acórdãos.
+    Segundo orientação consolidada por esta Suprema Corte, “a utilização adequada dos embargos de divergência impõe ao recorrente o dever de demonstrar, de maneira objetiva e analítica, o dissídio interpretativo alegado, sob pena de inadmissão do recurso” (ARE 710.030 AGR-segundo-ED-EDv-AgR/PI, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, Dje 12/9/2014).
+    In casu, verifico que não mais subsiste o entendimento consignado no acórdão de que se valeu o embargante para efetuar o cotejo, tendo em vista superveniente modificação do aresto via embargos de declaração.
+     Ressalte-se que o entendimento consignado no paradigma sequer subsistia no momento de oposição dos embargos de divergência. Note-se, inclusive, que o embargante arvora seu cotejo no AI 482.126, mesmo processo de que se vale a 1ª Turma como razão de decidir do acórdão embargado. Nada obstante, se por um lado o aresto recorrido fundamenta-se em entendimento consignado na decisão que transitou em julgado em 01/11/2006 (AI 482.126-AgR ED, Rel. Min. Gilmar Mendes, 2ª Turma, DJe de 20/10/2006), por outro tenciona o embargante respaldar suposto dissídio no acórdão integralmente modificado por tais aclaratórios (AI 482.126- AgR - Rel. Min. Gilmar Mendes, 2ª Turma, DJe de 24/2/2006).
+    Assim sendo, não se revela admissível falar em divergência de julgados, porquanto insubsistente o dissídio alegado com base em acórdão integralmente modificado por embargos de declaração.
+    Ex positis, com fundamento no artigo 335, § 1º, do Regimento Interno do Supremo Tribunal Federal, NÃO ADMITO os embargos de divergência.
+    Publique-se.
+    Brasília, 5 de abril de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
