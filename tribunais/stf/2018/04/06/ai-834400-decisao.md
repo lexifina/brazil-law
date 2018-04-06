@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Agravo de instrumento contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região assim ementado (fl. 108):
+    “Processual Civil. Embargos do devedor. Impossibilidade de aplicação do reajuste de 3,17%, concedido ao embargado, policial rodoviário federal, depois da implantação da Lei 9.654, de 1998, levando em conta dito percentual ter sido concedido por meio de medida provisória, de n. 2225-45/01, e de ter o percentual sido incluído na nova reestruturação ou reorganização da carreira. Precedentes da Terceira Turma. Provimento do recurso”.
+    Nas razões recursais, alega-se violação aos artigos 1º, caput, 5º, XXXV e XXXVI, 60, § 4º, e 93, IX, da Carta Magna.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente. Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta CORTE no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o SUPREMO TRIBUNAL FEDERAL assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    Ademais, quanto à alegação de afronta à coisa julgada, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Além disso, o Juízo de origem decidiu a controvérsia com base na interpretação de normas infraconstitucionais (MP e 2.225-45/2001 e Lei 9.654/1998).
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à Constituição indicadas seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo. Nesse sentido, vejam-se os seguintes precedentes:
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. POLICIAL RODOVIÁRIO FEDERAL. REAJUSTE DE 3,17%. LIMITAÇÃO. LEI Nº 9.654/1998. LIMITES OBJETIVOS DA COISA JULGADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. 1. Hipótese em que o Tribunal de origem assentou a inexistência de afronta ao constante do título executivo judicial. A jurisprudência do Supremo Tribunal Federal afasta o cabimento de recurso extraordinário para o questionamento de violação aos limites objetivos da coisa julgada, uma vez que se trata de tema cujo âmbito é estritamente infraconstitucional, além de demandar o reexame de fatos e de provas constantes dos autos. Precedentes. 2. Ausência de argumentos capazes de infirmar a decisão agravada. 3. Agravo regimental a que se nega provimento.” (AI 767.994-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 23/6/2015)
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 93, IX, DA CF/88. OMISSÃO NÃO CONFIGURADA. POLICIAIS RODOVIÁRIOS FEDERAIS. REAJUSTE DE 3,17%. VIOLAÇÃO À COISA JULGADA. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (AI 855.352-AgR, Rel. Min. TEORI ZAVASCKI, Segunda Turma, DJe de 30/9/2014)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 6 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+  Documento assinado digitalmente
