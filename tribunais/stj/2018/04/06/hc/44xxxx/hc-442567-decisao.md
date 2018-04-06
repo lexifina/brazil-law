@@ -1,0 +1,27 @@
+EMENTA
+HABEAS CORPUS. CRIME DESCRITO NO ART. 183 DA LEI Nº 9.472/1997. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA, MANTIDA EM SEDE DE APELAÇÃO. EXECUÇÃO PROVISÓRIA DE PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. PRECEDENTE DA TERCEIRA SEÇÃO DO STJ.
+Ordem concedida liminarmente.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], em que se aponta como órgão coator o Tribunal Regional Federal da 3ª Região.
+Infere-se dos autos que o paciente foi condenado à pena de 2 anos de detenção, em regime aberto, substituída a pena privativa de liberdade por penas restritivas de direito, e pagamento de 10 dias-multa, como incurso no art. 183 da Lei nº 9.472/1997 (Ação Penal nº 0002492-50.2012.403.6102 - fls. 13/26).
+Irresignada, a defesa interpôs recurso de apelação, objetivando a absolvição do réu por atipicidade, ante a ausência de necessidade de outorga da Anatel para aparelhos de radiação restrita, bem como por ausência de autoria e dolo. Os integrantes da Décima Primeira Turma, por unanimidade, negaram provimento ao apelo defensivo e, por maioria, decidiram, esgotados os recursos ordinários no âmbito da Corte e não ocorrendo o trânsito em julgado, determinar a expedição de carta de sentença ao juízo a quo para as providências necessárias ao início da execução penal (STF, HC nº 126.292, ADC ns. 43 e 44, ARE 964.246 RG), cabível também para o caso de regime aberto e substituição da pena privativa de liberdade por restritivas de direitos (STF, HC 141.978 AgR/SP). Eis a ementa (Apelação Criminal nº 0002492-50.2012.4.03.6102 - fl. 45):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. TELECOMUNICAÇÕES. ART. 183 DA LEI Nº 9.472/97. EXPLORAÇÃO DE SERVIÇO DE INTERNET SEM AUTORIZAÇÃO. TIPICIDADE. MATERIALIDADE E AUTORIA COMPROVADAS.
+1. O delito de que trata a denúncia é espécie de crime de perigo abstrato, coletivo, cujo bem jurídico tutelado são os meios de comunicação, pois a simples exploração do serviço de internet multimídia pode causar interferência em vários sistemas de comunicação. Para a sua caracterização, exige-se apenas a comprovação do desenvolvimento clandestino da atividade de telecomunicações.
+2. Não se trata de rádio, mas de "internet via rádio" ou "internet sem fio", a qual, apesar de ter frequência baixa, é em princípio danosa e suscetível de interferir nos meios de comunicação, de modo que fica afastada a alegação de que o equipamento é de radiação restrita, não causa prejuízo e, por isso, prescinde de autorização da Anatel.
+3. Não há necessidade de efetivo prejuízo para que se caracterize o referido crime, uma vez que se trata de delito formal, cuja consumação independe de resultado naturalístico. Vale dizer, o perigo de dano, abstratamente considerado, já é suficiente para a sua consumação.
+4. Materialidade, autoria e dolo suficientemente comprovados.
+5. Apelação da defesa improvida.
+Neste Tribunal Superior, a defensora pública almeja, em síntese, que seja concedida a ordem, liminarmente, e, após regular trâmite deste feito, em caráter definitivo, para o fim de que seja revogado eventual mandado de prisão expedido enquanto não exaurida a competência em segunda instância, determinando-se a expedição de contramandado e a retirada de circulação de eventual mandado já expedido (fl. 7).
+Em favor do paciente, apresenta estas razões (fls. 3/4):
+ ..
+Em que pese a Corte Suprema tenha consignado que não contraria a Constituição Federal a execução provisória da pena antes do trânsito em julgado da condenação, estabeleceu-se algumas premissas para esta execução, dentre elas: a necessidade de confirmação da condenação pelo Tribunal de segunda instância e o esgotamento dos recursos ordinários nesta Corte.
+Afora os casos em que presentes estes elementos, incabível cogitar-se da determinação da execução provisória da pena, ainda mais quando se cogita de pena restritiva de direitos.
+No caso em tela, no entanto, verificou-se que o Tribunal Regional Federal da 3ª Região, através de seu órgão fracionário, determinou a expedição de mandado de prisão em razão da manutenção da condenação incorrida em primeira instância. Vale destacar que houve a substituição da pena privativa de liberdade por restritiva de direitos, bem como que a determinação da expedição de carta-sentença deu-se por maioria, sendo o voto vencido mais favorável ao réu, o que ensejou o manejo de Embargos Infringentes por parte desta Defesa.
+Ora, bem de ver-se que a partir da maioria deflagrada não restou limitada a margem de atuação recursal da defesa no feito em comento. Tanto o é que foram opostos Embargos Infringentes, que ainda não foram julgados.
+ ..
+Ademais, também merece menção o fato de que se trata no processo em comento de penas restritivas de direitos, circunstância esta que goza de enorme relevância, posto que, embora o recente pronunciamento do Supremo Tribunal Federal quanto ao cumprimento da pena privativa de liberdade antes de esgotadas todas as vias judiciais, é antiga a jurisprudência daquele Tribunal no sentido diverso no que tange às penas restritivas de direito.
+ ..
+É o relatório.
+Em consonância com o entendimento externado pela Terceira Seção nos EREsp n. 1.619.087/SC (DJe 24/8/2017), é inviável a determinação da execução provisória das penas restritivas de direitos.
+Tal o contexto, concedo a ordem liminarmente a fim de suspender a execução da pena restritiva de direitos de [NOME] até o trânsito em julgado da condenação proferida no Processo n. 0002492-50.2012.403.6102, da 7ª Vara Federal da Subseção Judiciária de Ribeirão Preto/SP.
+Publique-se.
