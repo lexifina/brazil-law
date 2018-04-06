@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de YURI DE [NOME] LIMA, apontando como autoridade coatora o Tribunal de Justiça do Estado da Bahia (HC n. 0003091-93.2017.8.05.0000).
+Do exame dos autos, constata-se que o paciente foi pronunciado em razão da suposta prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal, tendo sido negado o direito de recorrer em liberdade (e-STJ fls. 15/27).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fl. 6):
+PENAL E PROCESSO PENAL. HABEAS CORPUS LIBERATÓRIO. HOMICÍDIO QUALIFICADO: ARTIGO 121, § 2.º, INCISOS II E IV DO CPB.
+PEDIDO DE CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. ALEGAÇÃO DE DESFUNDAMENTAÇÃO DA DECISÃO QUE, APÓS PRONUNCIAR OS PACIENTES, MANTEVE SUAS SEGREGAÇÕES CAUTELARES. INSUBSISTÊNCIA.
+DECISÃO OBJURGADA QUE ADOTOU A TÉCNICA DA MOTIVAÇÃO POR REFERÊNCIA, COMPATÍVEL COM O QUE DISPÕE O ARTIGO 93, IX, DA CARTA MAGNA. DECISIO ORIGINÁRIO CHANCELADO POR ESTA CORTE DE JUSTIÇA, QUANDO DA DENEGAÇÃO DA ORDEM REQUERIDA NO BOJO DO HABEAS CORPUS N.º 0019351-85.2016.8.05.0000. CUSTÓDIAS QUE AINDA SE MOSTRAM IMPERIOSAS AO CASO CONCRETO. CONDIÇÕES PESSOAIS FAVORÁVEIS DOS PACIENTES QUE NÃO TÊM O CONDÃO DE, POR SI SÓS, OBSTAREM A DECRETAÇÃO DA CONSTRIÇÃO PREVENTIVA.
+ORDEM DENEGADA.
+No presente writ, a defesa alega que não estão presentes os requisitos autorizadores da prisão preventiva e que não há fundamentos idôneos para justificar a sua manutenção, bem como aponta a possibilidade de que sejam estabelecidas medidas cautelares diversas da prisão.
+Diante disso, pleiteia a defesa, em tema liminar e no mérito, possa o paciente recorrer da sentença em liberdade.
+O pedido liminar foi indeferido (e-STJ fls. 45/46).
+Informações prestadas (e-STJ fls. 51/53, 55/63, 65/66, 69/72 e 73/75).
+O Ministério Público Federal manifestou-se pela denegação da ordem nos termos do parecer assim ementado (e-STJ fl. 76):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. HOMICÍDIO QUALIFICADO. PRONÚNCIA. MANUTENÇÃO DA CUSTÓDIA PARA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. FUNDAMENTAÇÃO LEGÍTIMA. PARECER PELO NÃO CONHECIMENTO DO PRESENTE WRIT, SE CONHECIDO FOR, POR SUA DENEGAÇÃO.
+É, em síntese, o relatório.
+Consoante informações prestadas via correio eletrônico pelo Tribunal de Justiça do Estado da Bahia, verifica-se que em 3/4/2018 houve o julgamento do Recurso em Sentido Estrito n. 0512404-09.2016.8.05.0080, ocasião em que a prisão preventiva do ora paciente foi revogada em face da ocorrência de excesso de prazo na consecução do feito, nos termos do seguinte dispositivo:
+Ante o exposto, DECLARA-SE, DE OFÍCIO, a nulidade absoluta da audiência de instrução realizada no dia 13.12.2016, no bojo da Ação Penal n.º 0512404-09.2016.8.05.0080, e de seus atos subsequentes. Por corolário, JULGA-SE prejudicado o exame dos Recursos em Sentido Estrito.
+Por conseguinte, com fulcro no art. 256 do RITJBA e art. 5.º, inciso LXV, da Constituição Federal de 1988, AFASTA-SE o constrangimento ilegal que ora se abate sobre os Réus, CONCEDENDO-SE, de ofício, Ordem de Habeas Corpus em favor de MURILLO [NOME] LIMA, brasileiro, solteiro, natural de Feira de Santana/BA, nascido em 16.09.1995, [RG], filho de [NOME] e de [NOME], residente na Rua Monsenhor Moisés de Couto, 2825, bairro [NOME], Feira de Santana/BA e de YURI DE [NOME] LIMA, brasileiro, solteiro, autônomo, natural de Feira de Santana/BA, nascido em 07.02.1987, [RG], filho de [NOME] e de [NOME], residente na Rua Monsenhor Moisés de Couto, 2825, bairro [NOME], Feira de Santana/BA.
+CÓPIA AUTENTICADA DO PRESENTE ACÓRDÃO SERVIRÁ COMO ALVARÁ DE SOLTURA, nos termos do art. 260, § 3.º do RITJBA, a ser cumprido pelo(a) Sr(a). Oficial(a) de Justiça da Primeira Câmara Criminal se o Paciente estiver detido nesta Capital, ou por Carta de Ordem ou Precatória ao Juízo da Comarca onde eventualmente os Acusados estiverem custodiados, devendo ser eles imediatamente colocados em liberdade, salvo se estiverem presos em flagrante por outro crime ou se restar constatada, após consulta ao Sistema de Informação Criminal do respectivo Tribunal e ao Sistema Nacional, a existência de mandado de prisão expedido em seu desfavor.
+Dessarte, mostra-se patente que o presente writ está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
