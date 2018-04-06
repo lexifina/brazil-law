@@ -1,0 +1,40 @@
+DECISÃO
+[NOME] ajuizou ação contra o Instituto Nacional do Seguro Social - INSS, com o objetivo de receber indenização por danos morais e materiais decorrentes de situações originadas em função da irregular suspensão do seu benefício previdenciário.
+ A ação foi julgada parcialmente procedente, condenando o INSS ao pagamento da indenização por danos morais no valor de R$ 15.000,00 (quinze mil reais), devidamente corrigido, decisão mantida em grau recursal pelo Tribunal Regional Federal da 4ª Região, nos termos da seguinte ementa (fl. 162):
+ADMINISTRATIVO. INDENIZAÇÃO. BENEFÍCIO PREVIDENCIÁRIO. CESSAÇÃO POR FRAUDE. DANO MORAL. OCORRÊNCIA.
+A parte Ré foi imprudente/negligente na sua atuação, causando com isso abalo moral, aborrecimentos e apreensões na vida do Autor, que levam à configuração do dano moral, pois além de ter sido necessário defender-se em ações judiciais, teve seu nome incluído no CADIN.
+No tocante ao quantum devido a título de dano moral, o julgador deve se valer do bom senso e da razoabilidade, atendendo às peculiaridades do caso, não podendo ser fixado quantum que torne irrisória a condenação e nem tampouco valor demasiado que traduza o enriquecimento ilícito.
+Os embargos de declaração opostos foram parcialmente acolhidos, para fins de prequestionamento (fls. 176-182).
+O INSS interpõe recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação do art. 1.022 do CPC/2015, em razão da omissão da instância ordinária na apreciação de disposições de lei federal que indica.
+Alega que a inscrição no CADIN não decorreu do efeito oriundo da existência de débito perante o ente público, mas da inscrição do crédito conforme prescreve o art. 2º, I, da Lei n. 10.522/2002.
+Sustenta que o valor fixado na origem a título de indenização extrapola a reparação do dano, configurando-se enriquecimento sem causa por parte do recorrido, em flagrante violação do art. 944 do Código Civil.
+Invoca precedente desta Corte de Justiça em caso análogo, onde foi fixado o valor de R$ 10.000,00 (dez mil reais).
+É o relatório. Decido.
+Em relação à indicada violação do art. 1.022 do CPC/2015 pelo Tribunal a quo, não se vislumbra a alegada omissão das questões jurídicas apresentadas pelo recorrente, tendo o julgador abordado a controvérsia, de forma expressa, verbis (fls. 178-179):
+Examinando o acórdão embargado, restou comprovado pelo conjunto probatório que a parte autora que teve de enfrentar um calvário na cessação do benefício e ainda teve de se socorrer do Poder Judiciário através de várias ações judiciais para comprovar a veracidade do que estava dizendo, experimentando angústia, dissabor e constrangimentos. Houve, assim, o preenchimento do disposto no art. 186 do Código Civil, já que presentes a prática de um ato ou omissão ilícitos, a causação de um dano moral e a existência de relação de causalidade entre o dano provocado e o ato ilícito cometido, surgindo para a parte autora o direito subjetivo de ver indenizado o dano que lhe foi causado, porquanto a situação vivenciada refoge por completo do âmbito do "mero dissabor", mormente porque o abalo moral, para pessoas honestas, é irrecuperável.
+No que tange ao valor da indenização foi arbitrado em consonância com o entendimento da Corte em casos semelhantes, para banir atitudes administrativas equivocadas e imprudentes.
+Descaracterizadas as alegadas omissões, se tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. BENEFÍCIO DE GRATUITA DA JUSTIÇA. DECLARAÇÃO DE POBREZA. COMPROVAÇÃO DE CAPACIDADE DE ARCAR COM AS CUSTAS DO PROCESSO. MULTA. LITIGÂNCIA DE MÁ-FÉ. ART. 4º, §1º, DA LEI 1.060/50. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp 1625513/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/02/2017, DJe 08/02/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Configura erro grosseiro a interposição de agravo regimental em face de decisão colegiada, de modo que não é cabível a aplicação do princípio da fungibilidade recursal para conhecer do recurso como embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 958.813/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017).
+Em relação à suposta afronta ao art. 2º, I, da Lei n. 10.522/2002, tem-se que o reexame do acórdão recorrido, em confronto com as razões do recurso especial no ponto, revela que o fundamento apresentado naquele julgado acerca do "calvário" suportado pelo autor, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284. É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+
+A instância ordinária pautou-se nos diversos percalços do autor, e não exclusivamente na inscrição no CADIN, para fundamentar a decisão no tocante ao direito indenizatório. A propósito, confira-se:
+No presente caso, o conjunto probatório acostado aos autos demonstram a lesão ao patrimônio subjetivo da autora que teve de enfrentar um calvário na cessação do benefício e ainda teve de se socorrer do Poder Judiciário através de várias ações judiciais para comprovar a veracidade do que estava dizendo, experimentando angústia, dissabor e constrangimentos.
+No que diz respeito à pretensão de redução do valor indenizatório por danos morais fixado na instância a quo, a jurisprudência desta Corte admite a revisão da verba indenizatória nesta instância, desde que fixada em valor irrisório ou exorbitante. A hipótese dos autos não se enquadra na excepcionalidade citada, ao fixar o valor por dano moral em R$ 15.000,00 (quinze mil reais).
+O Tribunal a quo considerou (fl. 159):
+A respeito do valor a ser fixado a título indenizatório, a jurisprudência do Superior Tribunal de Justiça tem entendimento firmado de que o quantum deve ser arbitrado pelo juiz de maneira que a composição do dano seja proporcional à ofensa.
+Dessa forma, entendo que devido a peculiaridade do caso cabe ratificar o montante arbitrado monocraticamente que cumpre, com razoabilidade, a dupla finalidade da indenização, que é a de punir pelo dano causado, bem como a de reparar a vítima pelo sofrimento moral experimentado, sem que a indenização resulte em enriquecimento sem causa.
+Nesse panorama, para rever tal posição e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial, nos termos do óbice constante na Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, e II, do RI/STJ, conheço parcialmente do recurso especial e, nesta parte, nego-lhe provimento.
+Publique-se. Intimem-se.
