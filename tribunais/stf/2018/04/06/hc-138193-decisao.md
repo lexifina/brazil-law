@@ -1,0 +1,27 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Ugwuoke Chijioke Timothy, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp 865.672/SP.
+    O Juízo Federal da 6ª Vara da Subseção Judiciária de Guarulhos/SP condenou o paciente à pena de 13 (treze) anos, 07 (sete) meses e 10 (dez) dias de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas, tipificado no art. 33, c/c art. 40, I, da Lei 11.343/2006.
+    Contra o édito condenatório, a Defesa interpôs apelação perante o Tribunal Regional Federal da 3ª Região, que deu parcial provimento ao recurso, para redimensionar a pena para 11 (onze) anos, 04 (quatro) meses e 03 (três) dias de reclusão.
+    Inconformada, a Defesa interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. A Ministra Maria Thereza de Assis Moura, via decisão monocrática, negou provimento ao agravo. Ato contínuo, a Corte Superior negou provimento ao agravo regimental interposto pela Defesa.
+    Neste writ, alega a Impetrante inidônea a fundamentação da exasperação da pena-base. Sustenta desproporcionalidade da pena aplicada. Requer a concessão da ordem para reduzir a pena-base imposta ao paciente.
+    Não houve pedido de liminar.
+    O Ministério Público Federal, em parecer da lavra da Subprocurador-Geral da República Edson Oliveira de Almeida, opina pelo não conhecimento do habeas corpus.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA DA PENA. MALFERIMENTO AOS ARTS. 59 DO CP E 42 DA LEI Nº 11.343/06. (I) - PENA-BASE ACIMA DO MÍNIMO LEGAL. INEXISTÊNCIA DE ILEGALIDADE. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. (II) - QUANTUM DE AUMENTO. FUNDAMENTAÇÃO IDÔNEA. DISCRICIONARIEDADE DO JUIZ. AFRONTA AO ART. 33, § 4º, DA LEI Nº 11.343/06. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO AO ART. 156 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. "A ausência de impugnação específica do fundamento autônomo adotado pela decisão que negou seguimento ao agravo em recurso especial atrai a incidência do óbice previsto na Súmula 182 do Superior Tribunal de Justiça". (PET no AREsp 392.046/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 28/02/2014).
+    2. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático probatório a fim de analisar a adequada pena-base a ser aplicada ao réu. Óbice do enunciado n.º 7 da Súmula desta Corte Superior.
+    3. A confecção da dosimetria da pena não é uma operação matemática, e nada impede que o magistrado fixe a pena-base muito além do mínimo legal, ainda que tenha valorado tão somente uma circunstância judicial, desde que haja fundamentação idônea e bastante para tanto (STF, RHC 101576, Relator(a): Min. ROSA WEBER, Primeira Turma, PUBLIC 14-08-2012).
+    4. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a incidência de eventuais causas de aumento ou diminuição de pena, bem como a fração a ser aplicada. Óbice do enunciado n.º 7 da Súmula deste Superior Tribunal de Justiça.
+    5. É indispensável o efetivo exame da matéria objeto do recurso especial pelo acórdão recorrido, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, que exige o prequestionamento por meio da apreciação da questão federal pelo Tribunal a quo, de modo a se evitar a supressão de instância. Incidência dos enunciados 282 e 356 da Súmula do STF.
+    6. Agravo regimental a que se nega provimento”.
+    Em consulta ao andamento processual do feito na origem (AREsp 865.672/SP), observo que o ato apontado como coator transitou em julgado em 13.6.2016, tendo o presente habeas corpus sido impetrado em 26.10.2016, o que revela a pretensão da Impetrante de utilizar-se do remédio constitucional como substitutivo da revisão criminal.
+    A garantia da coisa julgada constitui direito fundamental de estatura constitucional (artigo 5º, inciso XXXVI, da Constituição Federal) passível de relativização nas hipóteses taxativas previstas no artigo 621 do Código de Processo Penal (NUCCI, Guilherme de Souza. Código de Processo Penal Comentado. 14 edição, rev. atual. e ampl. Rio de Janeiro: Forense, 2015, p. 1236), pela via processual adequada.
+    Já a competência absoluta para o processamento e julgamento de eventual revisão criminal, na hipótese, não recairia sobre o Supremo Tribunal Federal (artigo 624, inciso II, do Código de Processo Penal), de modo a implicar, o conhecimento da matéria de fundo pela via substitutiva do habeas corpus, supressão de instância jurisdicional.
+    Pontuo, ademais, que a jurisprudência desta Corte é no sentido da da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, 2ª Turma, j. 06.3.2018).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de abril de 2018.
+Ministra Rosa Weber
+Relatora
