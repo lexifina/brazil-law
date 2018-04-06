@@ -1,0 +1,48 @@
+DECISÃO
+COMPANHIA IMOBILIÁRIA DE BRASÍLIA - TERRACAP ajuizou ação ordinária contra LUMI TECHNOLOGY LTDA e seus fiadores [NOME] e [NOME] VAZ DE [NOME], objetivando a condenação dos réus no pagamento da quantia de R$ 236.960,56 (duzentos e trinta e seis mil, novecentos e sessenta reais e cinquenta e seis centavos), relativo às parcelas vencidas, não pagas e devidamente atualizadas até a data de 29/05/2012, tendo em vista o inadimplemento de obrigação derivada de contrato de concessão de direito real de uso imóvel público.
+O Tribunal de Justiça do Distrito Federal e Territórios - TJDFT negou provimento às apelações da TERRACAP, da LUMI TECHONOLOGY LTDA e de [NOME] ANTONIO DIAS, e deu provimento ao apelo adesivo de [NOME] VAZ DE [NOME], reformando a decisão monocrática de prescrição do direito do autor, apenas para estabelecer a sucumbência recíproca, fixando a responsabilidade da TERRACAP no pagamento das custas processuais e nos honorários advocatícios no percentual de 90% (noventa por cento) do valor da condenação, e em 10% (dez por cento) para os réus, nos termos da seguinte ementa (fls. 276-277):
+DIREITO PROCESSUAL CIVIL. RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/1973. APLICAÇÃO DO ENUNCIADO ADMINISTRATIVO 2 DO C. STJ. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONCESSÃO DE DIREITO REAL DE USO COM OPÇÃO DE COMPRA. TERRACAP. COBRANÇA DE PARCELAS NÃO PAGAS. NATUREZA DE PREÇO PÚBLICO. PRESCRIÇÃO. PRAZO QUINQUENAL. INCIDÊNCIA DO ARTIGO 206, § 5º, INCISO I DO CÓDIGO CIVIL. SUCUMBÊNCIA RECÍPROCA. SENTENÇA REFORMADA EM PARTE PARA ALTERAR O VALOR DAS DESPESAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (STJ, Enunciado Administrativo 2).
+2. "As "taxas" de ocupação possuem natureza jurídica de preço público, eis que relativas a contrato para a utilização de bem público, sujeitando-se a regime de direito privado e, desta forma, aplicável à espécie o art. 206, § 5º, inciso I, do Código Civil, que estabelece o prazo de 5 (cinco) anos para a pretensão de cobrança de dívidas líquidas constantes em instrumento público ou particular" (TJDFT, Acórdão n. 957845, 20120111782830APC, Relator: JOSAPHA FRANCISCO DOS SANTOS 5a TURMA CÍVEL, Data de Julgamento: 27/07/2016, Publicado no DJE: 03/08/2016. Pág.: 250/256).
+3. "A cláusula que confere à TERRACAP o poder de resolver o contrato por motivo de inadimplência do concessionário sem necessitar da interpelação judicial não é automática, pois dentro de seu poder de escolha pode preferir o ajuizamento da ação de cobrança para receber as taxas de ocupação inadimplidas e não rescindir o contrato de concessão de direito real de uso" (TJDFT, Acórdão n. 907750, 20120111145183APC, Relator: FÁTIMA RAFAEL, Revisor: MARIA DE LOURDES [NOME], 3" Turma Cível, Data de Julgamento: 18/11/2015, Publicado no DJE: 27/11/2015. Pág.: 178).
+4. Sentença reformada para adequar a sucumbência recíproca e ajustar o percentual de custas processuais e honorários advocatícios.
+5. Apelações da TERRACAP e de LUMI TECHNOLOGY LTDA e [NOME] ANTONIO DIAS conhecidas e desprovidas. Apelo adesivo de [NOME] VAZ DE [NOME] conhecido e provido.
+Opostos embargos de declaração pelo particular [NOME], foram eles acolhidos nestes termos (fl. 325):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INOCORRÊNCIA. ERRO MATERIAL. CORREÇÃO.
+1. Não há se falar em omissão no acórdão recorrido quando este faz referência à condenação imposta aos réus para fins de definição da base material para a apuração do valor dos honorários advocatícios, haja vista que tal valor é o mesmo constante da r. sentença e mantido nesta instância revisora, facilmente perceptível pelas partes.
+2. Constatado erro material no dispositivo do acórdão recorrido é de rigor a sua correção mesmo que de ofício.
+3. Recurso conhecido e provido.
+TERRACAP interpõe recurso especial, com fundamento no artigo 105, inciso III, alíneas a e c, da Constituição da República, alegando negativa de vigência ao art. 205 do Código Civil, visto que, em síntese, sendo a pretensão de cobrança de dívida pelo inadimplemento contratual de concessão de direito real de uso, o prazo prescricional aplicável à hipótese dos autos seria o decenal de que trata o mencionado dispositivo, e não o quinquenal previsto no art. 206, § 5º, do citado codex.
+Aduz, ainda, dissídio jurisprudencial existente entre o acórdão recorrido e julgados desta Corte.
+Apresentadas contrarrazões ao recurso especial às fls. 337-339.
+É o relatório. Decido.
+No que trata da alegada negativa de vigência ao art. 205 do Código Civil, suscitada no apelo nobre da Empresa Pública TERRACAP, com razão a recorrente nesse ponto.
+Segundo se verifica do decisum recorrido (fls. 284-287), ao apreciar os elementos e provas dos autos, o Tribunal a quo reconheceu tratar-se a demanda de contrato de concessão de direito real de uso, instrumento esse, segundo o acórdão, submetido ao prazo prescricional de cinco anos previsto no art. 206, § 5º, do Código Civil, porquanto, em síntese, as taxas de ocupação devidas não ostentam a natureza jurídica de taxas e sim de preço público.
+Vejamos:
+ ..
+Conforme salientado pela sentença proferida, as "taxas de ocupação" não ostentam a natureza jurídica de taxa. Ainda que recebam esta denominação, decorrem de contratos de concessão de direito real de uso com opção de compra. Por essa razão, estas "taxas" possuem natureza jurídica de preço público, vez que se referem a contrato para a utilização de bem público.
+Como se sujeitam ao regime de direito privado, aplicável, à espécie, o artigo 206, § 5º, inciso I do Código Civil:
+Art. 206. Prescreve:
+( )
+§ 5o Em cinco anos:
+I - a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular.
+ ..
+Desse modo, a taxa mensal de concessão - prevista na Cláusula Quarta do Contrato de Concessão de Direito Real de Uso celebrado entre as partes - não detém a natureza tributária e sim eminentemente administrativa, motivo pelo qual deve ser qualificada como preço público.
+Desse modo, em se tratando de ação de cobrança de dívida originária do inadimplemento de contrato de concessão de direito real de uso sobre imóvel público, a jurisprudência desta Corte já assentou entendimento no sentido de que o prazo prescricional aplicável à pretensão de ressarcimento é de dez anos, consoante estabelecido no art. 205 do Código Civil, tendo em vista se tratar de preço público.
+Confiram-se os julgados relacionados à questão:
+ADMINISTRATIVO. DIREITO CIVIL. RECURSO ESPECIAL. CONTRATO DE CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO. COBRANÇA DE PARCELAS INADIMPLIDAS. NATUREZA JURÍDICA DA CONTRAPRESTAÇÃO. PREÇO PÚBLICO. PRAZO PRESCRICIONAL. DEZ ANOS. PRECEDENTES.
+1. De acordo com a jurisprudência do STJ, nas demandas que visam à cobrança de remuneração pactuada em contrato de concessão de direito real de uso sobre imóvel público, o prazo prescricional da pretensão é decenal, nos termos do art. 205 do Código Civil, por se tratar de valores cuja natureza jurídica é a de preço público. Precedentes: AgRg no REsp 1.429.724/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/11/2015 e AgRg no REsp 1.428.576/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/11/2015.
+2. Recurso especial a que se dá provimento (REsp n. 1.601.386/DF, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, Julgamento em 07/03/2017, Dje. 17/03/2017).
+ADMINISTRATIVO. COBRANÇA. TERRACAP. CONTRATO DE CONCESSÃO DE DIREITO REAL DE USO. CONTRAPRESTAÇÃO. NATUREZA JURÍDICA DE PREÇO PÚBLICO. PRESCRIÇÃO. ART. 205 DO CÓDIGO CIVIL DE 2002.
+1. A jurisprudência desta Corte é no sentido de que, em se tratando de ação de cobrança de taxa de ocupação em virtude de celebração de contrato de direito real de uso com a Administração Pública, o prazo prescricional é o previsto no art. 205 do Código Civil, isto é, de dez anos, uma vez que se trata de preço público. Precedentes: AgRg no REsp 1426927/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/08/2014, DJe 15/08/2014; AgRg no REsp 1207622/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/02/2011, DJe 16/03/2011.
+2. Agravo regimental não provido (AgRg no REsp n. 1.429.724/DF, Rel. Min.MAURO CAMPBELL MARQUES, SEGUNDA TURMA, Julgamento em 10/11/2015, DJe 19/11/2015).
+Nesse passo, o dissenso jurisprudencial também merece acolhida.
+Observado que o entendimento aqui consignado, lastreado na jurisprudência, é prevalente no Superior Tribunal de Justiça, aplica-se o enunciado da Súmula n. 568/STJ, nestes termos:
+O relator, monocraticamente e no STJ, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+No que trata do prazo prescricional de cobrança das parcelas inadimplidas, o aresto vergastado assim dispôs (fl. 287):
+ ..
+Diante do fato de a ação ter sido proposta em 5/6/2012, as parcelas compreendidas entre 15/11/2002 a 15/05/2007 encontram-se prescritas, consoante delineado pelo Juízo de origem.
+ ..
+Assim, uma vez que a ação foi ajuizada em 5/06/2012, verifica-se que as parcelas compreendidas entre 15/11/2002 e 15/05/2012 não foram alcançadas pela prescrição decenal.
+Ante o exposto, com fundamento no artigo 255, parágrafo 4º, III, do RI/STJ, dou provimento ao recurso especial para determinar o retorno dos autos a origem para que, afastada a prescrição decretada, proceda-se ao julgamento do feito como entender de direito.
+Publique-se. Intimem-se.
