@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de [NOME] apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, e pagamento de 166 (cento e sessenta e seis) dias-multa, no valor unitário mínimo, pela prática do delito descrito no artigo 33, § 4º, da Lei nº. 11.343/06.
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao recurso.
+Os embargos de declaração foram rejeitados (s-STJ, fls. 44/48).
+No presente mandamus, a impetrante pretende, liminarmente e no mérito, que seja fixado o regime aberto ao paciente, bem como seja substituída a pena pela restritiva de direitos.
+O pedido liminar foi indeferido (e-STJ, fl. 54).
+As informações foram prestadas às fls. 62/98 e 118/260.
+O Ministério Público Federal opinou pelo não conhecimento do mandamus e pela concessão da ordem (e-STJ, fls. 104/114).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, não sendo cabível a impetração de habeas corpus em substituição aos recursos e ações cabíveis, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+Nesse sentido:
+PROCESSO PENAL. PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO NA MODALIDADE TENTADA. JÚRI. ALEGAÇÃO DE NOMEAÇÃO DE DEFENSOR DATIVO ANTES DE INTIMAR A DEFENSORIA PÚBLICA PARA ATUAR NOS AUTOS. NULIDADE. NÃO OCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais, quando manifesta a ilegalidade ou sendo teratológica a decisão apontada como coatora.
+ ..
+6. Habeas corpus não conhecido. (HC 348.475/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT.  ..  INADEQUAÇÃO DA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida de ofício apenas para reduzir as penas a 2 anos de reclusão.
+(HC 306.677/RJ, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), Rel. p/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/05/2015, DJe 28/05/2015)
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Consta dos autos, o paciente foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, e pagamento de 166 (cento e sessenta e seis) dias-multa, no valor unitário mínimo, pela prática do delito descrito no artigo 33, § 4º, da Lei nº. 11.343/06.
+Irresignada, a defesa interpôs recurso de apelação perante o Tribunal de origem, que negou provimento ao recurso.
+No que concerne ao regime inicial para o cumprimento da pena, constata-se que o juízo de primeiro grau se manifestou nos seguintes termos (e-STJ, fl. 34):
+Em se tratando de delito equiparado a hediondo, o regime inicial para o cumprimento de pena é o fechado. justificável não só ante a latente gravidade do crime, fomentador de tantas outras práticas ilícitas como também pelo fato de os demais regimes não se mostraram adequados.
+Sobre o tema, a Corte local consignou o seguinte (e-STJ, fl. 46):
+E, no vaso vertente, foi exatamente o que ocorreu, pois o regime fechado não foi fixado com base no quantum imposto, mas, sobretudo, na conduta social do agente, na gravidade concreta do crime reconhecido e na extrema nocividade do crack e da cocaína para a saúde pública, conforme consignado no v. Acordão embargado:
+"Enfim, é induvidoso que não se pode ter como boas a conduta social e a personalidade de agente que está envolvido com a venda de crack, entorpecente de efeitos amplamente mais nefastos aos consumidores, circunstâncias indicativas da gravidade concreta do delito praticado pelo réu, sendo que a imposição de regime que não o inicial fechado, não atenderia aos critérios de necessidade e suficiência da repressão, que orientam a aplicação da pena" (fls. 258/259).
+No entanto, verifica-se que tanto o juízo primevo, quanto o Tribunal de origem decidiram em confronto com a jurisprudência deste Sodalício, que firmou o entendimento de que no momento da fixação do regime inicial de cumprimento da reprimenda corporal, deve o julgador observar o disposto no art. 33, §§ 2º e 3º, do Código Penal, além de, na hipótese dos autos, o art. 42 da Lei n. 11.343/2006.
+Assim, tendo em vista que a gravidade do delito não justifica a imposição do modo prisional mais gravoso, porquanto a quantidade de entorpecentes apreendida não foi exacerbada e considerando, ainda, a primariedade do paciente, a favorabilidade das circunstâncias judiciais, imperiosa a sua modificação para o aberto, nos termos do artigo 33, § 2º, alínea "c", do Código Penal.
+Nesse sentido vejam-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. REDUÇÃO EM 1/6. NATUREZA DA DROGA. QUANTIA INEXPRESSIVA. RÉU PRIMÁRIO E DE BONS ANTECEDENTES. NECESSIDADE DE READEQUAÇÃO DA PENA. REGIME PRISIONAL. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. POSSIBILIDADE. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+3. Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do delito, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente no comércio ilícito de entorpecentes.
+Precedentes.
+4. Hipótese em que, embora a instância antecedente tenha se valido da natureza da droga (cocaína) para fixar o patamar de redução em 1/6, à míngua de elementos probatórios que indiquem a habitualidade delitiva do paciente e considerando sua primariedade, os bons antecedentes, impõe-se a aplicação do redutor do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/2, sobretudo quando não expressiva a quantia de entorpecente apreendido (9 trouxinhas de cocaína).
+Precedentes.
+5. Estabelecida a reprimenda final em 2 anos e 11 meses de reclusão, verificada a primariedade do agente e sendo favoráveis as circunstâncias do art. 59 do CP, o regime inicial aberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", do Código Penal.
+6. Preenchidos os requisitos legais do art. 44 do Código Penal, é cabível a substituição da pena privativa de liberdade por restritiva de direitos.
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para fazer incidir a causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 na fração de 1/2, redimensionando a pena da paciente para 2 anos e 11 meses de reclusão mais 291 dias-multa, bem como para estabelecer o regime aberto e substituir a pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo Execução.
+(HC 415.735/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/03/2018, DJe 26/03/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA INFERIOR A 4 ANOS. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. REGIME FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. PREENCHIMENTO DOS REQUISITOS DO ART. 44 DO CP.
+POSSIBILIDADE. PEQUENA QUANTIDADE DE DROGA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO. AGRAVO DESPROVIDO.
+1. É pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo penal.
+2. Sendo a quantidade de droga apreendida pequena - 9,6 gramas de cocaína e 83,8 gramas de maconha -, as circunstâncias judiciais favoráveis (art. 59 do CP), a pena-base fixada no mínimo legal e a pena aplicada em 1 ano e 8 meses de reclusão, não há justificativa para aplicar regime prisional mais gravoso e vedar a substituição da pena por restritiva de direitos, devendo ser imposto o regime aberto, bem como ser concedida a substituição da pena privativa de liberdade por duas restritivas de direitos a serem especificadas pelo Juízo das Execuções Criminais, em consonância com o disposto no art. 33, § 2º, alínea "c", e art. 44, ambos do Código Penal, e conforme a jurisprudência desta Quinta Turma.
+Agravo regimental desprovido.
+(AgRg no HC 423.645/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/02/2018, DJe 09/03/2018)
+Portanto, fixada a reprimenda em patamar inferior a 4 (quatro) anos de reclusão e considerando-se a favorabilidade das circunstâncias judiciais, nota-se presente a ilegalidade arguida, mostrando-se viável o estabelecimento do modo aberto, nos termos do art. 33, § 2º, alínea c, e § 3º, do CP.
+Ante o exposto, por se afigurar manifestamente incabível, não se conhece do writ, concedendo-se, contudo, habeas corpus de ofício, nos termos do art. 654, § 2º, do CPP, a fim de alterar o regime inicial para o aberto, mantidos os demais termos do acórdão impugnado.
+Comunique-se, com urgência, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, bem como o Juízo singular.
+Publique-se.
