@@ -1,0 +1,23 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL E CIVIL. TUTELA PROVISÓRIA. VÍCIOS CONSTRUTIVOS. REAJUSTE DE ALUGUÉIS. AUSÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO. INEXISTÊNCIA DE PREQUESTIONAMENTO E DEVIDA IMPUGNAÇÃO DOS FUNDAMENTOS DO ARESTO RECORRIDO. ATRAÇÃO DOS ENUNCIADOS 282 E 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME], com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal Regional Federal da 5ª Região, prolatado em sede de agravo de instrumento no curso do cumprimento de sentença formulado contra a CAIXA ECONÔMICA FEDERAL, cuja ementa está assim redigida:
+Civil e Processual Civil. Agravo interposto contra decisão que, em sede de cumprimento de sentença deferiu o pedido de majoração dos aluguéis mensais a serem depositados pela CEF. Imóvel financiado interditado por vícios de construção. Mudança de residência. Novo contrato de locação. Inexistência de motivo para pedido de reajuste do aluguel, se os autores não estão mais pagando o valor do financiamento, agravo de instrumento provido.
+Em suas razões recursais, sustentou, além do dissídio, a ofensa ao art. 186, 187, 421 e 927 do CC; 6º, incisos I e VI, e 12 do CDC; 20 do DL 73/66; 28, §1º, da Lei 9.069/95. Asseverou o pagamento provisório de aluguéis mensais decorrente das despesas com a moradia dos mutuários prejudicados pela falta de qualidade e segurança dos imóveis comercializados mostrou-se defasado em relação ao valor de mercado dos imóveis em Recife, merecendo, assim, ser atualizado. Desimporta o fato de ter sido suspenso o pagamento do financiamento do imóvel interditado, sobrelevando-se o direito à moradia e a responsabilidade da Caixa. Pediu o provimento do recurso.
+Houve contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+De início, o recurso não pode ser conhecido pela alínea "c" do permissivo constitucional. A parte recorrente limitou-se a transcrever ementas de julgados do TJPE, sem, todavia, proceder a qualquer cotejo entre os fatos e fundamentos analisados e utilizados pelos acórdãos que se disse confrontarem.
+Não satisfeito, assim, o requisito para a admissão do especial no que respeita à demonstração da divergência jurisprudencial nos moldes legais e jurisprudenciais desta Corte Superior.
+Remanesce a alegação de afronta aos arts. 186, 187, 421 e 927 do CC; 6º, incisos I e VI, e 12 do CDC; 20 do DL 73/66; 28, §1º, da Lei 9.069/95.
+É patente a ausência de prequestionamento dos arts. 186, 187, 421 e 927 do CC, 6º, incisos I e VI e 12 do CDC, 28, §1º, da Lei 9.069/95.
+Sem que a Corte de origem tenha examinado, efetivamente, as normas em questão em face da controvérsia estabelecida, não se pode tê-las como prequestionadas e, assim, submetê-la à análise deste Tribunal Superior.
+O voto vencedor, do Des. Lázaro Guimarães, bem evidencia que não houve o exame das referidas normas, mesmo que implícito:
+Tenho votado, no sentido de que depois do julgamento e execução já não cabe ficar, reajustando aluguel, até porque já está em condição de ser executado o acórdão. Não vejo razão para reajustar o aluguel e estou dando provimento ao agravo da Caixa Econômica Federal. Eles têm pedido reajuste, mas não podem ficar a vida toda morando e reajustando aluguel para o valor de mercado se não estão mais pagando o valor do financiamento. Já se sentenciou quanto à condenação de reparo, a indenização já foi fixada, então, não, cabe mais esse reajuste. Portanto, voto, coerente com o que tenho decidido, no sentido de não ver razão para esse reajuste que é pretendido.
+Assomou-se, ainda, fundamento no sentido de que o pagamento dos alugueis seria devido até o pagamento da indenização securitária e que não mais se justificaria a sua perenização, com subsequentes reajustes, sem que se executasse o pagamento do principal, o que não fora objeto de impugnação.
+Cumpria ao recorrente fazer aquela Corte local, mediante competentes embargos de declaração, manifestar-se acerca das questões objeto de discussão sob o viés das normas que entendia afrontadas, não se tendo, no entanto, manejado os aclaratórios e nem procurado impugnar o fundamento lateral, mas bastante, utilizado pela Corte local.
+Assim, seja porque não houve a demonstração do dissídio, seja porque não há qualquer prequestionamento no acórdão recorrido, atraindo-se o enunciado 282/STF, e, ainda, não se ter impugnado devidamente os fundamentos do voto vencedor, atraindo-se o enunciado 283/STF, o recurso especial não merece conhecimento.
+Ante o exposto, não conheço do recurso especial.
+Intimem-se.
