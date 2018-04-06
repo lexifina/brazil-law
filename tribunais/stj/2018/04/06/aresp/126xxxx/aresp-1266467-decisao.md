@@ -1,0 +1,40 @@
+DECISÃO
+1. Cuida-se de agravo interposto por LILIAN TAVARES DA SILVA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO PARANÁ assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE DESPEJO CUMULADA COM COBRANÇA DE ALUGUERES. ALEGAÇÃO DE CERCEAMENTO DE DEFESA (AGRAVO RETIDO) AFASTADA - JUIZ DESTINATÁRIO DAS PROVAS. INDENIZAÇÃO POR BENFEITORIAS - IMPOSSIBILIDADE - CLÁUSULA DE RENÚNCIA - VALIDADE. AUSÊNCIA DE PAGAMENTO DOS ALUGUERES E ACESSÓRIOS - HIPÓTESE QUE AUTORIZA A DECRETAÇÃO DE DESPEJO - ART. 9o DA LEI 8.245. SENTENÇA MANTIDA. AGRAVO RETIDO E APELAÇÃO CONHECIDOS E NÃO PROVIDOS.
+Nas razões do recurso especial (fls. 566-577), a recorrente alega violação dos arts. 330, 332 e 333 do CPC/1973, sob o argumento de que a negativa da produção da prova requerida cerceou seu direito de defesa.
+Sem contrarrazões. Certidão à fl. 579.
+É o relatório.
+DECIDO.
+2. O Tribunal de origem, ao dirimir a controvérsia que lhe foi apresentada, manifestou-se nos seguintes termos (fls. 557-558):
+Como preliminar, alega a apelante que, em audiência de instrução e julgamento, o Juízo indeferiu equivocadamente o pedido de adiamento da audiência formulado por ela. Portanto, alega que o Juízo de origem incidiu em cerceamento de defesa, uma vez que não oportunizou a oitiva completa das testemunhas arroladas.
+O Juiz é o destinatário da prova, cabendo a ele a decisão sobre os rumos do processo ante a análise dos elementos fático-probatórios juntados aos autos, sendo que o julgamento da pretensão inaugural depende do grau d ecognição para formação de seu convencimento.
+Outra não é a redação do artigo 130 do CPC/73 (correspondente ao art. 370 do Novo CPC), que estabelece: "Caberá ao juiz, de oficio ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias".
+Outrossim, de acordo com o artigo 330, I, do CPC/73, "O juiz conhecerá diretamente do pedido, proferindo sentença quando a questão de mérito for unicamente de direito, ou, sendo de direito e de fato, não houver necessidade de produzir prova em audiência".
+Por isso, vislumbrando o Magistrado sentenciante, consoante seu convencimento acerca das provas documentais carreadas ao processo, que o elastecimento probatório é desnecessário e protelatório, não há como reconhecer a nulidade da decisão que julga antecipadamente a lide, impedindo que o processo se prolongue por tempo indefinido sem resultado prático.
+Não é outra a situação que se encontra nos autos. A instrução do processo se apresenta como medida despicienda, máxime porque os elementos nele inseridos se apresentam como suficientes para o deslinde da controvérsia.
+Do excerto colacionado, nota-se que a Corte a quo entendeu que a produção da prova requerida era desnecessária e protelatória, motivo pelo qual indeferiu o pleito da ora recorrente.
+Consoante entendimento do Superior Tribunal de Justiça, o juízo acerca da necessidade ou não da produção de prova é uma faculdade do magistrado, a quem caberá decidir se há nos autos elementos e provas suficientes para formar sua convicção.
+O juiz, com base em seu convencimento motivado, pode indeferir a produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa.
+Assim, a alteração da que foi decidido na origem demandaria reincursão no contexto fático-probatório dos autos, o que não se admite em recurso especial, ante o óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - PLANO DE SAÚDE - FALHA NA PRESTAÇÃO DO SERVIÇO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA RÉ.
+1. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que inexiste cerceamento de defesa quando o julgador considera desnecessária a produção de prova diante da existência, nos autos, de elementos suficientes para a formação de seu convencimento. 1.1. A revisão do entendimento acerca da suficiência dos elementos probatórios reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, o que é vedado, na estreita via do recurso especial, ante o óbice da Súmula 7/STJ. 1.2 A incidência da mencionada Súmula nº 7/STJ impede, também, o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+2. É firme a jurisprudência desta Corte no sentido de ser incabível a revisão do quantum indenizatório estabelecido na origem a título de danos morais com base, apenas, em divergência jurisprudencial, porquanto, ainda que os julgados confrontados guardem alguma semelhança nas características externas e objetivas, sempre haverá distinção no aspecto subjetivo. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1024146/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/03/2018, DJe 07/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PRESCRIÇÃO. OCORRÊNCIA. TERMO INICIAL. VENCIMENTO DA ÚLTIMA PARCELA. SÚMULA 83 DO STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. HONORÁRIOS ADVOCATÍCIOS MANTIDOS. ATENDIMENTO AO PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. INOVAÇÃO RECURSAL. INVIABILIDADE. PRECLUSÃO.
+RECURSO NÃO PROVIDO.
+1. O acórdão recorrido decidiu em sintonia com a jurisprudência do STJ que o termo inicial da prescrição é o dia do vencimento da última parcela (AgInt no AgInt no AREsp 1.051.949/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe de 05/09/2017)
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção da prova oral requerida quando há documentos suficientes para o deslinde da questão controvertida. Cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento. Precedentes.
+3. É entendimento do STJ que somente é admissível o exame do montante fixado a título de honorários advocatícios, em sede de recurso especial, quando for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, situação não verificada no caso dos autos.
+4. Na linha dos precedentes do STJ, os argumentos/pleitos apresentados apenas no agravo interno não são passíveis de conhecimento, por importarem indevida inovação recursal, em virtude da preclusão consumativa (AgInt no AREsp 918.978/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/11/2017, DJe de 22/11/2017).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 823.344/MT, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA. RESCISÃO. EXCEÇÃO DE CONTRATO NÃO CUMPRIDO. CERCEAMENTO DE DEFESA.
+1. Ausência de violação ao art. 1.022 do CPC, pois a atividade jurisdicional foi prestada regularmente, tendo dirimido as questões pertinentes ao litígio.
+2. Cerceamento de defesa não configurado, se o julgamento da causa sem a produção de depoimento e prova pericial deu-se em razão de o tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+3. Inviabilidade de alterar a conclusão do aresto recorrido de que não configurada exceção de contrato não cumprido para passar a afirmar ter sido a recorrida quem deu causa à impontualidade do negócio, pois seria necessária nova análise de instrumento contratual, bem como incursão no campo fático-probatório. Incidência das súmulas 5 e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1156023/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 15/02/2018)
+3. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
