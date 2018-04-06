@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração manejados por HUMBERTO GANDARA BARUFI - ESPÓLIO e OUTRO contra decisão de minha lavra resumida da seguinte forma:
+TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. SALÁRIO-EDUCAÇÃO. PRODUTOR RURAL COM CNPJ E EMPREGADOS. CONTRIBUINTE INDIVIDUAL PESSOA FÍSICA. INCIDÊNCIA DA EXAÇÃO. PRECEDENTES. INVERSÃO DOS HONORÁRIOS E MAJORAÇÃO A TÍTULO DE SUCUMBÊNCIA RECURSAL. RECURSO ESPECIAL PROVIDO.
+Os embargantes alegam contradição e obscuridade na medida em que, ao contrário do afirmado na decisão embargada, a jurisprudência desta Corte somente consideraria contribuinte do Salário-Educação o produtor rural que exerce atividade rural com a constituição de pessoa jurídica - seja firma individual ou sociedade, ambas com CNPJ - nos termos do repetitivo REsp nº 1.162.307/RJ, e demais precedentes citados, e dos arts. 12, V, "a", da Lei nº 8.212/1991, 15 da Lei nº 9.424/1996 c/c o art. 1º, § 3º, da Lei nº 9.766/1998 e 2º do Decreto nº 6.003/2006, não sendo suficiente para sujeição passiva a mera inscrição no CNPJ de produtor rural pessoa física, visto que referido cadastro não poderia ser elevado à elemento material do tipo tributário. Alega que o AREsp 883.572/SP é precedente isolado que não representa a jurisprudência do STJ.
+Requer o acolhimento dos aclaratórios para sanar os vícios apontados.
+Impugnação às fls. 487-489 e-STJ.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+A decisão embargada se manifestou de forma clara e fundamentada no sentido de que mesmo em se tratando de contribuintes inscritos na Receita Federal como contribuintes individuais o STJ tem reconhecido a incidência do salário educação em se tratando de produtor rural pessoa física com CNPJ. Somente nos casos de produtor rural pessoa física desprovido de CNPJ é que esta Corte tem afastado a incidência do salário educação.
+Desta forma, indubitável que o decisum ora atacado abordou todos os pontos necessários à composição da lide, oferecendo conclusão conforme a prestação jurisdicional solicitada, encontrando-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições, o que impõe a rejeição dos presentes embargos. Verifica-se, na verdade, que o objetivo da embargante é obter um novo julgamento de mérito do recurso, sendo absolutamente inaceitável na via aclaratória.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
