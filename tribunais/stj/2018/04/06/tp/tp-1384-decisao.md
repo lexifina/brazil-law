@@ -1,0 +1,12 @@
+EMENTA
+PROCESSUAL CIVIL. TUTELA PROVISÓRIA DE URGÊNCIA. EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO ADMITIDO NA ORIGEM. PEDIDO NÃO CONHECIDO.
+DECISÃO
+Trata-se de pedido de pedido de tutela provisória requerido por [NOME], a fim de que seja atribuído efeito suspensivo a recurso especial interposto contra acórdão proferido pelo TRF da 4ª Região.
+Em suas razões, aduz ter direito a receber a bolsa do FIES, porque está com nota no Enem acima dos estudantes que foram classificados, além de que o edital do FIES garante a matrícula em período posterior, sem perda de interesse de agir. Sustenta, também, ser desnecessária a desconsideração das informações restritivas anteriormente existentes, já que a jurisprudência garante acesso ao FIES independentemente da análise cadastral do estudante.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.029, § 5º, do CPC/2015, o pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial deve ser dirigido ao presidente ou vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão que analisou a sua admissão.
+Assim, a nova lei processual civil positivou o que assentado nos enunciados das Súmulas 634 e 635 do STF, aplicados por esta Corte Superior na vigência do CPC/1973, por analogia, aos pedidos de efeito suspensivo a recursos especiais nos quais ausente o juízo preliminar de admissibilidade, sendo excepcionados somente os casos em que os acórdãos recorridos viessem a conter teratologia ou ilegalidade manifesta.
+No caso dos autos, verifica-se que o juízo de admissibilidade do recurso especial ainda não foi feito pelo Tribunal de origem, até mesmo porque o recurso foi interposto em 28.3.2018, ou seja, apenas um dia antes da presente medida, razão por que não se inaugurou a jurisdição do Superior Tribunal de Justiça.
+Por outro lado, vale registrar que o requerente não demonstrou a existência de elementos que traduzam teratologia ou ilegalidade evidente no acórdão recorrido a justificar eventual exceção à jurisdição atribuída pela lei à Corte de origem, tampouco a existência de risco de dano grave, de difícil ou impossível reparação (art. 995 do CPC), porquanto a controvérsia se refere a processo seletivo ocorrido em 2016.
+Ante o exposto, com fundamento no artigo 34, XVIII, "a", do RI/STJ, não conheço do pedido.
+Publique-se. Intimem-se.
