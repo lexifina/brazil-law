@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. ART. 20, §§ 3º E 4º, DO CPC. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 130):
+AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ- EXECUTIVIDADE - EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL - ESCRITURA PÚBLICA DE CONFISSÃO DE DIVIDA - PROCURAÇÃO - AUSÊNCIA DE OUTORGA DE PODER ESPECIAL PARA CONFESSAR DIVIDA - NECESSIDADE - ILEGITIMIDADE PASSIVA - RECURSO PROVIDO
+1. Embora a escriturapública, num primeiro momento, faça prova plena da confissão de dívida, em razão de ser dotada do fé pública (art. 215 do CC/02), nada impede que essa presunção seja afastada por prova em sentido contrário.
+2. Inexistindo procuração com poderes expressos para "confessar dívidas!.", -em-desobediência-a exigência legal contida no art. -66t do CCIO2, deve-se afastar a presunção  uns tantum de validado da escritura pública, o que implica reconhecer a ilegitimidade passiva do recorrente para figurar no feito executivo.
+3. Dar provimento ao recurso.
+Embargos de declaração acolhidos com efeitos modificativos, nos termos da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - HIPÓTESES DO ARTIGO 535 DO CPC - OCORRÊNCIA - OMISSÃO - HONORÁRIOS ADVOCATÍCIOS - CABIMENTO - ACOLHER OS EMBARGOS
+1. Os Embargos de Declaração somente se prestam à elucidação de obscuridade, ao afastamento de contradição ou à supressão de omissão existente no aresto objurgado, sendo imprescindível para a atribuição dos efeitos modificativos pretendidos pela parte a verificação da existência de alguma das hipóteses estabelecidas no artigo 535 do Código de Processo Civil.
+2. Uma vez que esta c. 8ª Câmara Cível deu provimento ao agravo de instrumento, acolhendo a exceção de pré-executividade aduzida pelo agravante, reconhecendo sua ilegitimidade.passivana.execução de título extrajudicial ajuizada pela Loteria do Estado de Minas Gerais, deve, por consequência, ser fixado honorários advocaticios em favor do ora embargante, conforme art. 20 do CPC.
+3. Acolher os embargos de declaração.
+No recurso especial o recorrente alega violação do artigo 20, § 3º, do CPC/1973. Requer a majoração da verba fixada a título de honorários advocatícios, estipulada em R$ 1.000,00 (mil reais), por considerá-la irrisória, tendo em vista que o valor da causa é de R$ 4.000.000,00 (quatro milhões).
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Conforme dispõe o art. 20, § 4º, do CPC/1973, nas causas de pequeno valor ou de valor inestimável, naquelas em que não houver condenação ou em que for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação eqüitativa do juiz, que levará em conta fatores relativos ao grau de zelo profissional, ao lugar da prestação do serviço, a natureza da causa, ao trabalho realizado pelo advogado e ao tempo exigido para o seu serviço.
+A Primeira Seção do STJ, quando do julgamento do REsp 1.155.125/MG (em 10/03/2010, DJe de 06/04/2010), firmou orientação de que o julgador não está adstrito aos limites indicados no § 3º do artigo em debate - mínimo de 10% (dez por cento) e máximo de 20% (vinte por cento) -, podendo tomar por base de cálculo o valor dado à causa ou à condenação, bem como fixá-lo em valor determinado.
+No caso dos autos, o Tribunal de origem, em apreciação equitativa, fixou o valor dos honorários de acordo com as peculiaridades fáticas do caso concreto. Assim, eventual reforma dessa decisão, como requer a parte agravante, importa em reexame de fatos e provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA ÚNICO DE SAÚDE. DEFENSORIA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO DO QUANTUM FIXADO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. É firme a jurisprudência do STJ no sentido de não ser possível, por meio de recurso especial, a revisão do critério de justiça e equidade utilizado pelas instâncias ordinárias para fixação da verba advocatícia, por depender tal providência da reapreciação dos elementos fático-probatórios do caso concreto.
+2. Excetuadas as hipóteses em que o valor afigura-se manifestamente ínfimo ou exorbitante, o que não se verifica na espécie, eis que os honorários foram fixados no valor de R$250,00 (duzentos e cinquenta reais), em razão baixa complexidade e repetitividade da causa, sua majoração ou redução atrai a incidência da Súmula 7/STJ.
+3. Agravo regimental não provido" (STJ, AgRg no AREsp 472.319/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 02/05/2014).
+"TRIBUTÁRIO. PROCESSUAL CIVIL. ART. 20, §§ 3º E 4º, DO CPC. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. REEXAME DE FATOS DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. Quanto à fixação de honorários advocatícios, o Superior Tribunal de Justiça, via de regra, mantém o valor estabelecido na origem, por força do óbice da Súmula 7/STJ. Todavia, em situações excepcionais, em que a condenação se deu patamares ínfimos ou exorbitantes, a jurisprudência deste Tribunal autoriza a revisão do quantum fixado no acórdão a quo, o que não é o caso dos autos. Agravo regimental improvido" (STJ, AgRg nos EDcl no REsp 1430788/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 02/05/2014)".
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
