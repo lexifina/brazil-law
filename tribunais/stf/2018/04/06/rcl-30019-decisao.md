@@ -1,0 +1,25 @@
+Decisão
+    Trata-se de Reclamação, com pedido de liminar, contra decisão proferida pelo juízo da Comarca de Presidente Bernardes/SP, a qual teria violado o decidido na ADPF 144 (Rel. Min. CELSO DE MELLO, DJe de 26/2/2010).
+    Na inicial, em suma, o reclamante alega que: (a) O Município de Presidente Bernardes editou a Lei 189/2017 que instituiu o Plano de Demissão Voluntária – PDV, que prevê o desligamento voluntário do servidor público municipal que assim o desejar, ocupante de cargo de provimento efetivo ou estável, lotado nas diversas divisões, admitido por concurso público e que esteja ou não cumprindo estágio probatório, enquadrando-se, perfeitamente no caso, o Impetrante (fls. 3); (b) o referido Município indeferiu o pedido do Reclamante de adesão ao referido Programa e assim o fez com base num Parecer jurídico que, pasmem, está totalmente contrário ao que dispõe a própria Lei Complementar, eis que o Reclamante não tem nenhuma condenação por decisão judicial transitada em julgado e que impeça o deferimento de seu pleito (fls. 3) - pois o processo de improbidade administrativa no qual o Reclamante está envolvido encontra-se sub judice, ou seja, em grau de recurso no Superior Tribunal de Justiça e, portanto, ainda sem trânsito em julgado (fls. 2); e (c) contra o indeferimento administrativo impetrou Mandado de Segurança, o qual o juízo reclamado indeferiu, liminarmente, sob o fundamento de que “a probabilidade de reversão da sentença é mínima” (fls. 4), incidindo, assim, em ofensa à ADPF 144. Requer seja determinada, liminarmente, a suspensão dos efeitos da decisão liminar proferida pelo Juiz/Reclamado e, via de consequência, autorizado a adesão do Reclamante no Plano de Demissão Voluntária –PDV (fls. 6), e, ao final, a procedência da presente reclamação.
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõe os art. 102, I, l e art. 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    O parâmetro a ser observado é o decidido na ADPF 144 (Rel. Min. CELSO DE MELLO), em que esta Corte enfatizou, no âmbito do regime jurídico eleitoral, aspectos relacionados à capacidade eleitoral passiva.
+    Assim, a presente reclamação é manifestamente improcedente, pois não se ajusta ao contexto do parâmetro de controle acima transcrito. Verifica-se, nos autos, que a controvérsia gira em torno do indeferimento administrativo a pretenso direito de servidor público a aderir a plano de demissão voluntária instituído pela Administração Pública municipal. Ou seja, temática completamente distinta do objeto discutido na ADPF 144 (Rel. Min. CELSO DE MELLO).
+    Nessas circunstâncias, em que não se tem presente o contexto do parâmetro invocado, não há estrita aderência entre o ato impugnado e o paradigma invocado. É, portanto, inviável a presente reclamação.
+    Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já teve a oportunidade de afirmar que a reclamação tem escopo bastante específico, não se prestando ao papel de simples substituto de recursos de natureza ordinária ou extraordinária (Rcl 6.880 AgR, Rel. Min. CELSO DE MELLO, Plenário, DJe de 22/2/2013).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Publique-se.
+    Brasília, 6 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
