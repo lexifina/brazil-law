@@ -1,0 +1,24 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Lucas Marcellino de Aguiar, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp 822.533/MG.
+    O Juízo da 4ª Vara Criminal da Comarca de Juiz de Fora/MG condenou o paciente à pena de 05 (cinco) anos de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas, tipificado no art. 33 da Lei 11.343/2006. Naquela oportunidade, o magistrado de primeiro grau negou o direito de o paciente recorrer em liberdade.
+    Contra o édito condenatório, a Defesa interpôs apelação perante o Tribunal de Justiça de Minas Gerais, que negou provimento ao recurso.
+    Inconformada, a Defesa interpôs recurso especial, que, inadmitido na origem, ensejou o manejo de agravo perante o Superior Tribunal de Justiça. O Ministro Rogerio Schietti Cruz, via decisão monocrática, negou provimento ao agravo. Interposto agravo regimental, a Corte Superior negou provimento ao recurso defensivo.
+    Neste writ, alega a Impetrante que o exame da matéria, em sede de recurso especial, não demanda reexame de fatos e provas. Sustenta a possibilidade de aplicação da causa de diminuição da pena prevista no § 4º do art. 33 da Lei 11.343/2006, em seu patamar máximo, com repercussão na substituição de pena privativa de liberdade por restritiva de direitos e na fixação do regime inicial mais brando. Argumenta a existência de circunstâncias favoráveis ao paciente, como primariedade e bons antecedentes. Requer, em medida liminar, a suspensão da execução da pena até o julgamento final da presente impetração. No mérito, pugna pelo redimensionamento da pena.
+    Em 23.9.2016, indeferi o pedido de liminar.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pelo não conhecimento do writ e, no mérito, pela denegação da ordem.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INCIDÊNCIA DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. SÚMULA N. 7 DO STJ. REGIME INICIAL DE CUMPRIMENTO DE PENA. QUANTIDADE DA DROGA APREENDIDA. RECURSO NÃO PROVIDO.
+    1. Uma vez que foram apontados elementos concretos que indicam a dedicação do agravante a atividades criminosas, notadamente ao tráfico de drogas, entender de modo diverso, afastando-se a conclusão de que o acusado não se dedicaria a atividades delituosas, demanda revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência essa que é vedada em recurso especial, a teor da Súmula n. 7 do Superior Tribunal de Justiça.
+    2. Embora o agravante haja sido condenado a reprimenda inferior a 8 anos de reclusão, foram apontados elementos concretos e idôneos – notadamente a quantidade da droga apreendida – que, efetivamente, evidencia ser o regime inicial fechado o mais adequado para a prevenção e a repressão do delito perpetrado, consoante o disposto no § 3º do art. 33 do Código Penal, com observância também ao preconizado no art. 42 da Lei de Drogas.
+    3. Agravo regimental não provido”.
+    Em consulta ao andamento processual do feito na origem (REsp 822.533/MG), observo que o ato apontado como coator transitou em julgado em 23.5.2016, tendo o presente habeas corpus sido impetrado em 18.9.2016, o que revela a pretensão do Impetrante de utilizar-se do remédio constitucional como substitutivo da revisão criminal.
+    A garantia da coisa julgada constitui direito fundamental de estatura constitucional (artigo 5º, inciso XXXVI, da Constituição Federal) passível de relativização nas hipóteses taxativas previstas no artigo 621 do Código de Processo Penal (NUCCI, Guilherme de Souza. Código de Processo Penal Comentado. 14 edição, rev. atual. e ampl. Rio de Janeiro: Forense, 2015, p. 1236), pela via processual adequada.
+    Já a competência absoluta para o processamento e julgamento de eventual revisão criminal, na hipótese, não recairia sobre o Supremo Tribunal Federal (artigo 624, inciso II, do Código de Processo Penal), de modo a implicar, o conhecimento da matéria de fundo pela via substitutiva do habeas corpus, supressão de instância jurisdicional.
+    Pontuo, ademais, que a jurisprudência desta Corte é no sentido da da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, 2ª Turma, j. 06.3.2018).
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de abril de 2018.
+Ministra Rosa Weber
+Relatora
