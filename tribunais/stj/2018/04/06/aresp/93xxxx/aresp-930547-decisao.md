@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, II DO CPC/1973. EXECUÇÃO FISCAL. BEM FAMÍLIA. IMPENHORABILIDADE. CONCLUSÃO OBTIDA PELO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se da decisão que não admitiu o Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição Federal, que objetiva a reforma de acórdão do Tribunal Regional Federal da 5a. Região, assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. BEM DE FAMÍLIA. IMPENHORABILIDADE. 1. Nos termos dos arts. 1º e 5º da Lei nº 8.009/90, são requisitos necessários para caracterizar o bem de família: ser único o imóvel e destinado à moradia da entidade familiar. 2. Caso em que a parte embargante se desincumbiu do seu mister processual (art. 333, I, do CPC), demonstrando que o imóvel sobre o qual incide a constrição apresenta-se como bem de família, sendo, portanto, impenhorável. 3. Remessa oficial desprovida (fls. 377).
+2. Os Embargos de Declaração foram acolhidos para corrigir erro material (fls. 396/399).
+3. Em seu Apelo Especial, a parte recorrente aponta, preliminarmente, violação do art. 535 do CPC/1973, diante da ocorrência de negativa de prestação jurisdicional. No mérito, alega violação do art. 333, I do CPC/1973. Afirma que o recorrido não se desincumbiu do ônus de provar que o imóvel penhorado é bem de família.
+4. Juízo negativo de admissibilidade às fls. 426/427, razão pela qual foi interposto o presente Agravo (fls. 430/433).
+5. É o relatório. Decido.
+6. De início, cumpre destacar que a alegada violação ao art. 535, II do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+7. No mérito, verifica-se que o Tribunal de origem concluiu que a parte recorrida se desincumbiu do ônus de demonstrar que o bem constrito se trata de bem de família, com base nos seguinte argumentos:
+In casu, conforme bem destacado na sentença, há manifestação expressa da FAZENDA NACIONAL anuindo à liberação do imóvel registrado sob nº 33.240 (Lote de terreno nº 03, quadra C, do Loteamento Beira Mar, em Aracaju/SE), à vista da sua caracterização como bem de família.
+Nesse caso, entendo que a parte embargante se desincumbiu do seu mister processual (art. 333, I, do CPC), demonstrando que o bem constrito enquadra-se na hipótese prevista nos arts. 1º e 5º da Lei nº 8.009/1990, pretensão essa acolhida pelo ente credor (fls. 375).
+8. Assim, para rever tal conclusão, necessário o revolvimento do suporte fático-probatório dos autos, o que é vedado em Recurso Especial, ante o óbice da Súmula 7/STJ.
+9. Diante do exposto, nega-se provimento ao Agravo.
+10. Publique-se. Intimações necessárias.
