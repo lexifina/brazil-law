@@ -1,0 +1,45 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, na vigência do Código de Processo Civil de 1973 e com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ, fl. 358):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. JULGAMENTO CITRA PETITA. NULIDADE. DECRETAÇÃO DE OFÍCIO PELO TRIBUNAL.
+A Sentença proferida citra petita, padece de error in procedendo. Se não suprida a falha mediante embargos de declaração, o caso é de anulação pelo tribunal, com devolução ao órgão a quo, para novo pronunciamento.
+Os embargos de declaração (e-STJ, fls. 365/367) foram rejeitados, nos termos da decisão de e-STJ, fls. 374/376 e 380.
+O recorrente alega, nas razões do especial, existência de contrariedade aos arts. 128, 460, 503, 515 e 535 do CPC/1973.
+Defende, em síntese, que o acórdão foi omisso no tocante à impossibilidade de modificar a sentença em favor do segurado sem recurso voluntário, que teria violado o princípio da devolutividade, e que houve manifestação na sentença quanto à conversão do tempo comum em especial, não se podendo falar em nulidade desta.
+Apresentadas contrarrazões às e-STJ, fls. 397/398.
+Admitido o recurso especial na origem (e-STJ, fl. 401), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O pleito não merece prosperar.
+Registro, de logo, que não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pelo recorrente, elegendo fundamentos diversos daqueles por ele propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. VÍCIO EM PROCESSO LICITATÓRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CÓDIGO DE PROCESSO CIVIL DE 1973. INEXISTÊNCIA. ALEGAÇÃO DE INÉPCIA DA INICIAL. PRETENSÃO DE REEXAME DE FATOS E PROVAS. ALEGAÇÃO DE ILEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA PROPOSITURA DA AÇÃO. LEGITIMIDADE RECONHECIDA PELA JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ. RESPONSABILIZAÇÃO DOS AGENTES POLÍTICOS POR ATO DE IMPROBIDADE INDEPENDENTE DA RESPONSABILIZAÇÃO POLÍTICA E CRIMINAL. INCIDÊNCIA DO ENUNCIADO N. 83 DA SÚMULA DO STJ. DEMAIS ALEGAÇÕES. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - No tocante à violação ao artigo 535, I e II, do CPC/1973, não merece prosperar, uma vez que o acórdão recorrido não se ressente de omissão, obscuridade ou contradição, porque apreciou a controvérsia com fundamentação suficiente, embora contrária aos interesses da recorrente.
+ ..
+VIII - Agravo interno improvido.
+(AgInt no REsp 1.607.976/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 17/10/2017, DJe 23/10/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/1973 NÃO CONFIGURADA. ICMS. NÃO INTEGRAÇÃO DOS PRODUTOS DADOS EM BONIFICAÇÃO NA BASE DE CÁLCULO DO TRIBUTO. PEDIDO DE ANTECIPAÇÃO DE TUTELA NEGADO PELA INSTÂNCIA ORDINÁRIA. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+ ..
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.681.168/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/9/2017, DJe 9/10/2017)
+Quanto à sentença citra petita, este Superior Tribunal reconhece a possibilidade de o Tribunal anulá-la de ofício.
+Nesse sentido:
+PROCESSUAL CIVIL. SENTENÇA CITRA PETITA. POSSIBILIDADE DE ANULAÇÃO PELO TRIBUNAL A QUO. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que não analisou a alegação de julgamento infra petita do juízo de primeiro grau, em virtude de a primeira instância não ter analisado o pedido de repetição do indébito realizado pelo ora recorrente.
+2. O órgão julgador, ainda que provocado, não se pronunciou a respeito da ocorrência de julgamento infra petita e sobre a possibilidade de reconhecimento de ofício. Tal questão é relevante, haja vista o entendimento do Superior Tribunal de Justiça no sentido de que "(..) A nulidade da sentença citra petita pode ser decretada de ofício pelo Tribunal de origem, sendo desnecessária a prévia oposição dos Embargos de Declaração. (..)" (AgRg no REsp 437.877/DF, Rel. Min. Herman Benjamin, Segunda Turma, DJe 9.3.2009).
+3. É firme a orientação do Superior Tribunal de Justiça no sentido de que, na hipótese de a sentença não ter apreciado todos os pedidos formulados pelos autores, caracterizando julgamento citra petita, ou de dar solução diversa da pretensão deduzida na exordial, pode o Tribunal a quo anulá-la de ofício, determinando que outra seja proferida.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida que, portanto, não abrange toda a controvérsia. Reconhece-se, portanto, a existência de omissão no acórdão impugnado e, por conseguinte, a ofensa ao art. 535 do CPC.
+5. Recurso Especial a que se dá parcial provimento, a fim de anular o v. aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Egrégio Tribunal de origem para que profira novo julgamento e aborde a matéria omitida.
+(REsp 1.447.514/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/10/2017, DJe 16/10/2017)
+Relativamente à ausência de nulidade na sentença, observo que a autarquia não se manifestou a respeito na primeira oportunidade para fazê-lo, qual seja, nos embargos de declaração, não podendo alegá-la na via do apelo especial, em inaceitável inovação recursal.
+No ponto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. OFENSA AOS ARTS. 489 E 1022, DO NOVO CPC. NÃO OCORRÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. NULIDADE NA CONTRATAÇÃO DE PESSOA JURÍDICA. MATÉRIA NÃO DEBATIDA NO ACÓRDÃO RECORRIDO. INOVAÇÃO RECURSAL EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. SUBSUNÇÃO DA CONDUTA À LEI Nº 8429/92. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS. INVIABILIDADE NA VIA RECURSAL ELEITA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. FALTA DE SIMILITUDE FÁTICA.
+1. Não há falar em ofensa aos arts. 489, § 1º e 1022, do novo CPC, pois o acórdão decidiu de forma suficientemente fundamentada a controvérsia colocada em discussão. Ademais, é sabido que a mera insatisfação com o conteúdo da decisão embargada não enseja a oposição de aclaratórios.
+2. Não houve manifestação do Tribunal a quo quanto à contratação da pessoa jurídica Planejar Consultores Associados Ltda., tendo em vista que a matéria não foi objeto do recurso de apelação (conforme expressamente reconhecido pelo Tribunal a quo). Assim, a alegação não pode ser analisada na via recursal eleita, tendo em vista a falta de prequestionamento, bem como a ocorrência de vedada inovação recursal.
+3. Foi com base no conjunto fático e probatório constante dos autos que o acórdão recorrido entendeu pela subsunção da conduta à Lei de Improbidade Administrativa, bem como pela presença de elemento subjetivo, pois "ao dispensar reiteradamente a licitação - ainda que sem dolo, mas agindo com culpa - o apelante impediu que a Administração buscasse a proposta mais vantajosa e afastou eventuais interessados na concorrência". A revisão de tais fundamentos é inviável na via recursal eleita, a teor da Súmula 7/STJ.
+4. A incidência do enunciado sumular acima mencionado impede o conhecimento da divergência jurisprudencial suscitada. Além do mais, o precedente indicado como paradigma não guarda similitude fática com o caso em concreto, tendo em vista que aqui se discute a subsunção da conduta ao art. 10, da Lei de Improbidade Administrativo, enquanto ali a discussão teve como base o que dispõe o art. 11, I, do referido diploma legal.
+5. Agravo interno não provido.
+(AgInt no REsp 1.679.035/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 8/2/2018, DJe 27/2/2018)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
