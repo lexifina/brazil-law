@@ -1,0 +1,33 @@
+DECISÃO
+
+Trata-se de agravo interposto pelo ESTADO DO RIO GRANDE DO SUL contra decisão do Tribunal de Justiça daquela unidade federativa, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 125/126):
+APELAÇÃO E REEXAME NECESSÁRIO. SERVIDOR PÚBLICO. REAJUSTES DA LEI Nº 10.395/95 SOBRE A FRAÇÃO DE 20% INCORPORADA AO VENCIMENTO BÁSICO, POR FORÇA DA LEI Nº 11.662/2001 (ART. 5º). DIFERENÇAS DE VENCIMENTO BÁSICO. EXTENSÃO AOS INATIVOS E PENSIONISTAS. APOSENTADORIA PELO REGIME DA MÉDIA DAS CONTRIBUIÇÕES. ART. 40, §§ 3º e 17º, DA CF/88, COM A REDAÇÃO ALTERADA PELA EC 41/2003.
+INOCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO, SENÃO QUE APENAS DAS PARCELAS VENCIDAS HÁ MAIS DE CINCO ANOS DA PROPOSITURA DA AÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85 DO STJ. PRECEDENTES DESTA CORTE E DO STJ.
+Tratando-se de demanda que visa ao reconhecimento de reajustes salariais impagos, a prescrição atinge apenas as parcelas vencidas além do quinquênio, nos moldes da Súmula 85 do STJ, conforme já reiteradamente assentado na jurisprudência. Exegese do Recurso Especial representativo de controvérsia nº nº 1.336.213-RS, estabelecendo paradigma de julgamento.
+LIMITAÇÃO DA CONDENAÇÃO À VIGÊNCIA DAS LEIS NºS 12.91/08 E 13.957/12, OU À DATA DA INATIVAÇÃO, SE ANTERIOR. Relativamente aos incisos I, II e III, o termo final da condenação é a data da publicação da Lei nº 13.957/12, a qual determinou, em seu artigo 1º, a extinção, a partir de sua edição, da Parcela Autônoma do Magistério instituída pela Lei nº 9.934/93, incorporando-a integralmente ao valor do vencimento básico, bem como estabeleceu, em seu artigo 2º, novo padrão remuneratório à categoria, fixando novos valores para o vencimento básico do professor.
+Limitação da condenação à data da implantação administrativa dos referidos reajustes ou, no caso de servidor aposentado pelo regime da média das contribuições, à data da inativação, se anterior. Hipótese em que fixado o termo final da condenação à data da aposentadoria, porquanto anterior ao advento das precitadas leis. Assegurado, porém, para o período posterior, o direito ao recálculo do valor inicial da aposentadoria, em razão de diferenças impagas, até a adequação final dos proventos, em observância aos princípios do direito adquirido, do ato jurídico perfeito e da irredutibilidade de vencimentos.
+REEXAME NECESSÁRIO. CONHECIMENTO.
+De acordo com a Súmula 490 do STJ, faz-se necessário o reexame necessário quando se tratar de sentenças ilíquidas.
+APELAÇÃO PARCIALMENTE PROVIDA. SENTENÇA CONFIRMANDA, NO MAIS, EM REEXAME NECESSÁRIO.
+Embargos declaratórios rejeitados (e-STJ fl. 146)
+No especial obstaculizado, a parte recorrente apontou violação do art. 1º, do Decreto 20.910/1932, sustentando a prescrição do fundo de direito invocado. Alegou, ainda, a existência de dissídio jurisprudencial.
+Apresentadas as respectivas contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o acordão recorrido encontrava-se em consonância com a jurisprudência desta Corte. (e-STJ fls. 194/203).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludido fundamento.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, é firme o entendimento deste Superior Tribunal de Justiça no sentido de que nas demandas objetivando a revisão da incorporação da Parcela Autônoma do Magistério, por configurar relação jurídica de trato sucessivo, não ocorre a prescrição do fundo de direito, mas apenas das parcelas anteriores ao quinquídio legal.
+Nessa esteira:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO ESTADUAL. PARCELA AUTÔNOMA DO MAGISTÉRIO. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. LEIS ESTADUAIS 10.395/1995 E 11.662/2001. SÚMULA 280/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+I - O Tribunal a quo, corretamente, decidiu que não houve a prescrição quinquenal, posicionando-se na mesma linha desta Corte Superior: "2. Tratando-se de relação jurídica de trato sucessivo não ocorre a prescrição do fundo do direito, mas tão somente aquelas que se vencerem no qüinqüídio anterior a propositura da demanda, nos termo da súmula 85 do STJ."
+II - Sabe-se, com efeito, que nas demandas objetivando reposição de parcela remuneratória ilegalmente suprimida, por se tratar de relação jurídica de trato sucessivo, que se renova mensalmente, não ocorre a prescrição do chamado fundo de direito. Incidente a Súmula 85/STJ.
+ ..
+(AgInt no AREsp 966.117/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/02/2018, DJe 14/02/2018)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REAJUSTE PREVISTO NA LEI ESTADUAL 10.395/95 SOBRE VANTAGEM DENOMINADA PARCELA AUTÔNOMA. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. AGRAVO NÃO PROVIDO.
+ ..
+4. A incorporação da PAM aos vencimentos dos servidores continua a gerar efeitos financeiros de trato sucessivo, de forma que a revisão daquela parcela repercute continuamente na esfera jurídico-patrimonial do servidor. Incide, no caso, a regra geral da Súmula 85/STJ, segundo a qual "nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação" (REsp 1.336.213/RS, Rel. Min. HERMAN BENJAMIN, Primeira Seção, DJe 4/10/13).
+ ..
+(AgRg no AREsp 234.144/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 16/06/2014, DJe 01/07/2014)
+Estando o acórdão recorrido de acordo com a jurisprudência do STJ, entendo aplicável a Súmula 83 desta Corte, que também incide nos recursos interpostos pela alínea "c" do permissivo constitucional, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
