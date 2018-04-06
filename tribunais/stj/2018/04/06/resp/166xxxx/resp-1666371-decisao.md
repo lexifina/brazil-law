@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por [NOME], contra acórdão prolatado pela 1ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 463/469e):
+PROCESSUAL. ANULATÓRIA UTILIZADA COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO. INDEFERIMENTO DA INICIAL.
+1. Inviável a pretensão autoral de transferir para ação autônoma discussão de matéria que é objeto de ação diversa em andamento.
+2. Apelação desprovida.
+Opostos embargos de declaração, foram rejeitados (fls. 489/496e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) art. 295 do Código de Processo Civil de 1973 - "(..) é nítida a ilegalidade da r. decisão, uma vez que profere juízo de clarividência quando afirma que a decisão futura será de improcedência";
+(ii) arts. 5º, II, § 2º, e 60, § 4º, IV, da Constituição da República, 183, 471 e 473 do Código de Processo Civil de 1973 - há documentos que "(..) COMPROVAM O EFETIVO EXERCÍCIO DA FACULDADE PROCESSUAL, SEJA POR ATO DO MAGISTRADO, SEJA POR MANIFESTAÇÃO TÁCITA/EXPRESSA DA FN, operou-se a PRECLUSÃO CONSUMATIVA no tocante à revisão do valor percebido pelo autor em fevereiro de 2006, no montante de R$ 50.538,58 (documento alvará de levantamento), concretizando-se, por conseguinte, a nulidade dos atos processuais decorrentes da decisão de fl. 283 que culminaram com o ajuizamento do CUMPRIMENTO DE SENTENÇA pela FN (..)" (fl. 513e, destaques do original); e "(..) não poderia o Magistrado, transcorridos 146 DIAS DA EXPEDIÇÃO DO ALVARÁ JUDICIAL EM FAVOR DO AUTOR, REVER O ATO QUE DEFERIU O PAGAMENTO E QUE, DE IGUAL MANEIRA, FOI CHANCELADO PELA FN, A TEOR DA AUSÊNCIA DE MANIFESTAÇÃO QUANTO À LIBERAÇÃO DOS VALORES, BEM COMO A RENÚNCIA EXPRESSA À INTERPOSIÇÃO DE EMBARGOS À EXECUÇÃO, CONCORDANDO COM OS VALORES EXIGIDOS PELO EXEQUENTE" (fl. 514e, destaques do original).
+Com contrarrazões (fls. 535/537e), o recurso foi admitido (fl. 540e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar possível ofensa à norma constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da Constituição da República.
+Dessa forma, a presente insurgência não pode ser conhecida no que tange à alegada violação dos arts. 5º, II, § 2º, e 60, § 4º, IV, da Constituição da República.
+A respeito do tema, o precedente:
+PROCESSO CIVIL - EMBARGOS DE DECLARAÇÃO - EMBARGOS DE DIVERGÊNCIA - AUSÊNCIA DE VÍCIOS DO ART. 535 DO CPC - PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS - IMPOSSIBILIDADE.
+1. Não compete ao STJ intervir em matéria de competência do STF, tampouco para prequestionar questão constitucional, sob pena de violar a rígida distribuição de competência recursal disposta na Lei Maior.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1054064/PA, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 17/04/2013, DJe 02/05/2013).
+No mais, verifico a inviabilidade da apreciação da apontada violação dos arts. 183, 295, 471 e 473 do Código de Processo Civil de 1973, porquanto o Recurso Especial encontra-se regido pelo Código de Processo Civil de 2015, visto que o acórdão recorrido foi publicado na vigência da novel legislação, consoante Enunciado n. 3 do Pleno desta Corte. Desse modo, considero deficiente a fundamentação do recurso no ponto, razão pela qual aplico o enunciado da Súmula n. 284/STF.
+No sentido do não conhecimento do recurso quando alegada ofensa a dispositivo legal revogado, destaco os seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO. HONORÁRIOS. BASE DE CÁLCULO. JUROS MORATÓRIOS E COMPENSATÓRIOS. INCIDÊNCIA.
+1. O recurso alega contrariedade ao art. 27, § 1º, do Decreto-Lei 3.365/1941; contudo indica em suas razões a redação de artigo que na data da alegada violação já se encontrava revogado pela Medida Provisória 2.183-56 de 2001. Desse modo, incide o óbice da Súmula 284 do STF, o que impede o conhecimento do recurso quanto a esse ponto.
+(..)
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1654661/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+Na mesma linha: AREsp 234.479/RS, Rel. Min. Assusete Magalhães, DJe de 13.03.2015; REsp 1.164.698/RJ, Rel. Min. Jorge Mussi, DJe de 18.06.2012; AgRg no REsp 1.343.924/SP, Rel. Min. Marco Aurélio Bellizze, DJe de 25.09.2013; e AREsp 141.134/RR, Rel. Min. Mauro Campbell Marques, DJe de 27.03.2012.
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos n. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do Estatuto Processual Civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
