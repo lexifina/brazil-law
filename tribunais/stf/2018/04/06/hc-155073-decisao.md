@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Vanessa de Vargas Pontelli, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 82.533/RS.
+    O impetrante sustenta que o caso autorizaria a mitigação do enunciado da Súmula nº 691/STF.
+    Aduz, para tanto, a presença de constrangimento ilegal, pois a custódia preventiva da paciente padeceria de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os requisitos do art. 312 do Código de Processo Penal.
+    Sustenta “a precariedade dos indícios de materialidade e autoria existentes com relação a participação da paciente nos fatos narrados” (grifo do autor).
+    Defende, ainda, que a paciente faria jus à prisão domiciliar, na forma do art. 318, inciso V, do Código de Processo Penal, uma vez que é mãe de uma criança menor de 12 (doze) anos de idade que depende de seus cuidados.
+    Requer, liminarmente, a concessão da ordem para que a prisão preventiva da paciente seja revogada ou convertida em prisão domiciliar na forma da lei processual penal.
+    Examinados os autos, decido.
+    Transcrevo o teor do aresto questionado:
+    “PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. REQUISITOS DA PRISÃO CAUTELAR. SUPRESSÃO DE INSTÂNCIA. SUBSTITUIÇÃO DE PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. RECURSO PARCIALMENTE CONHECIDO E IMPROVIDO.
+    1. A análise da presença dos requisitos para a prisão cautelar não pode ser apreciada por esta Corte Superior, sob pena de indevida supressão de instância, haja vista que não consta nos autos o acórdão do Tribunal estadual que analisou os requisitos e fundamentos da custódia cautelar. Por outro lado, em consulta ao processo de origem no banco de dados do sítio desta Corte Superior, constatou-se que o presente recurso em habeas corpus, no que se refere aos fundamentos da prisão preventiva, é mera reiteração do HC 341917 - RS, de minha relatoria, distribuído em 12/11/2015, que, apesar de ser impetrado contra outro acórdão do Tribunal de origem (julgamento do writ originário nº 70066809823), houve manifestação definitivamente desta Sexta Turma sobre o decreto prisional.
+    2. No caso em análise, o Tribunal externou motivos considerados razoáveis para indeferir a conversão da prisão preventiva em domiciliar, pois afirmou que a paciente encontra-se foragida há sete meses, não fazendo jus ao benefício pretendido.
+    3. Recurso em habeas corpus parcialmente conhecido, e improvido” (anexo 22).
+    Essa é a razão pela qual se insurge o impetrante neste writ.
+    O julgado proferido pela Sexta Turma do Superior Tribunal de Justiça não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Com efeito, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    No julgamento do HC nº 143.641/SP, a Segunda Turma, em 20/2/18, admitiu, historicamente, o primeiro habeas corpus coletivo para determinar a conversão da prisão preventiva em domiciliar de mulheres presas preventivamente, em todo o território nacional, que sejam gestantes ou mães de crianças de até 12 (doze) anos ou de pessoas com deficiência, sem prejuízo da aplicação das medidas alternativas previstas no art. 319 do Código de Processo Penal.
+    A partir do voto condutor do ilustre Relator, Ministro Ricardo Lewandowski, assentou o colegiado, entre outras diretrizes, que a conversão da prisão preventiva em domiciliar naquelas hipóteses não seria absoluta, podendo ser mitigada em casos de crimes praticados pelas mães mediante violência ou grave ameaça, contra os seus descendentes ou, ainda, em situações excepcionalíssimas, as quais serão devidamente fundamentadas pelo juízo que denegar o benefício.
+    Tenho que essa é exatamente a hipótese retratada nos autos, pois, em primeiro lugar, o crime pelo qual a paciente responde é notadamente cometido mediante violência ou grave ameaça à pessoa (art. 121, § 2º, Incisos I, II e IV, do Código Penal) o que, por si só, já impossibilita a conversão da prisão preventiva em domiciliar.
+    Em segundo lugar, segundo se infere dos autos, o juízo de origem, fundamentadamente, reputou necessária a custódia da paciente, para garantir a ordem pública, tendo em conta a sua periculosidade consubstanciada na gravidade em concreto da conduta e o seu modus operandi, sem contar a necessidade de garantir a aplicação da lei penal, já que se encontra foragida há 7 (sete) meses.
+    Com efeito, o Supremo Tribunal Federal já assentou o entendimento de que “[a] periculosidade do agente, evidenciada pelo modus operandi, e a gravidade em concreto do crime constituem motivação idônea para a manutenção da custódia cautelar.” (RHC nº 117.243/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 5/12/13)
+    Perfilhando esse entendimento: HC nº 126.051/MG, Segunda Turma, de minha relatoria, DJe de 29/5/15; HC nº 129.463/MT, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 1º/12/15; HC nº 126.700/SP, Primeira Turma, Relator para o acórdão o Ministro Edson Fachin, DJe de 17/6/16; HC nº 132.172/PR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 9/5/16.
+    De outra parte, é de bom alvitre registrar, à luz de julgados deste Supremo Tribunal, a idoneidade da
+    “fundamentação jurídica apresentada para justificar a decretação da prisão preventiva, especialmente pelo fato de o paciente encontrar-se foragido (…). Assim, considerando que o acusado permanece fora do âmbito de controle da Justiça, é legítima a manutenção do decreto prisional para garantir a aplicação da lei penal” (HC nº 129.472/SC-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 23/9/15).
+    No mesmo sentido, anote-se: HC nº 137.651/DF-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de13/3/17; HC nº 133.210/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 3/10/16.
+    Com essas considerações, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 6 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
