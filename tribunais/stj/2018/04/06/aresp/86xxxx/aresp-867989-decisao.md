@@ -1,0 +1,53 @@
+EMENTA
+AGRAVOS EM RECURSOS ESPECIAIS. CIVIL E PROCESSUAL CIVIL (CPC/73). AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO.
+1 - AGRAVO DE [NOME]. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO QUE DECIDIU TODA A MATÉRIA POSTA COM FUNDAMENTAÇÃO INTEGRAL E SUFICIENTE. ARTIGOS VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS NºS 211/STJ, 282, E, 356/STF. ALEGAÇÃO DE PRECLUSÃO LÓGICA. INOCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA Nº 7/STJ. AGRAVO DESPROVIDO.
+2 - AGRAVO DE [NOME], e, OUTRO. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ACÓRDÃO QUE DECIDIU TODA A MATÉRIA POSTA COM FUNDAMENTAÇÃO INTEGRAL E SUFICIENTE. ARTIGOS VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS NºS 211/STJ, 282, E, 356/STF. ALEGAÇÃO DE PRESCRIÇÃO. LEI DO INQUILINATO. FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO DA SÚMULA Nº 283/STF. AGRAVO DESPROVIDO.
+3 - AGRAVOS EM RECURSOS ESPECIAIS DESPROVIDOS.
+DECISÃO
+Vistos etc.
+Trata-se de agravos em recursos especiais interpostos por [NOME] e [NOME], e, OUTRO, contra inadmissão, na origem, de recursos especiais fundamentados na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que restou assim ementado (e-STJ Fl. 329):
+"APELAÇÃO CÍVEL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. CITAÇÃO VÁLIDA COM BASE CLÁUSULA MANDATO PREVISTA NO CONTRATO LIVREMENTE FIRMADO ENTRE AS PARTES. REVELIA CORRETAMENTE DECRETADA. PRESCRIÇÃO. INOCORRÊNCIA. CITAÇÃO VÁLIDA QUE FAZ RETROAGIR À DATA DO AJUIZAMENTO DA AÇÃO A INTERRUPÇÃO DO PRAZO PRESCRICIONAL. RÉUS QUE NÃO SE DESINCUBIRAM DO ÔNUS DE PROVAR O PAGAMENTO OU A IRREGULARIDADE DA COBRANÇA. RECURSOS DESPROVIDOS".
+Opostos embargos de declaração por apenas uma das partes, estes foram rejeitados (e-STJ fls. 342/345).
+Em seu recurso especial, a recorrente, [NOME], alega violação aos arts. 333, inciso II, e, 535, inciso II, do Código de Processo Civil/1973, e, arts. 169, § 3º, 206, § 3º, inciso I, 245, 473, 819, e, 837 do Código Civil, defendendo a ocorrência de cerceamento de defesa ante o julgamento antecipado da lide, bem como, negativa de prestação jurisdicional. Sustenta, ainda, que a responsabilidade dos fiadores se restringe aos termos do que foi pactuado, não podendo responder por aquilo que não anuíram textual e expressamente. Alega a prescrição das verbas dos alugueres e acessórios cobradas, bem como, a ocorrência da preclusão lógica, "já que sempre foram expedidos mandados com destinatários pessoais, i.e., um para cada um dos acionados, e sempre assim foi insistido pela Autora reiteradamente, tendo, portanto, cada qual caráter nitidamente pessoal, e isolado" (e-STJ Fl. 367).
+Os recorrentes [NOME], e, OUTRO nas razões do seu recurso, por sua vez, alegam ofensa aos arts. 333, inciso II, e, 535 do CPC/1973, e, arts. 206, § 3º, inciso I, 819, e, 837 do Código Civil, sustentando a ocorrência de cerceamento de defesa, ante o julgamento antecipado da lide, bem como, a ocorrência da prescrição vez que "só foi citado em 28 de agosto de 2012, portanto muito após o triênio prescricional ter ocorrido" (e-STJ Fl. 355).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade dos presentes recursos será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+Analiso, de pronto, o recurso de [NOME].
+Os embargos declaratórios não merecem acolhida. No caso não se configura a existência de quaisquer das deficiências apontadas, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Amolda-se à espécie, pois, o entendimento pretoriano consolidado no sentido de que, "quando o Tribunal de origem, ainda que sucintamente, pronuncia-se de forma clara e suficiente sobre a questão posta nos autos, não se configura ofensa ao artigo 535 do CPC. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte" (AgRg no Ag 1.265.516/RS, 4ª Turma, Rel. Min. João Otávio de Noronha, DJe de 30/06/2010).
+Quanto ao cerceamento de defesa, o recurso especial não pode ser conhecido, pois, sobre referida matéria não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta nas Súmulas 282, e, 356/STF.
+Relativamente à tese de que a responsabilidade dos fiadores se restringe aos termos do que foi pactuado o Tribunal de origem assentou que:
+"A suposta desoneração dos fiadores, outra pretensão aventureira dos Apelantes, data vênia, também não merece acolhida, considerando a cláusula décima-segunda do contrato de locação (fls. 29/32), que estabelece a "responsabilidade solidária com o locatário até a efetiva entrega das chaves e conseqüente aceite pelo Locador", bem assim a renúncia aos benefícios dos artigos 1491,1500, 1501, 1502 e 1503 do Código Civil" (e-STJ Fls. 316/317).
+Assim, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor das Súmulas 05, e, 07/STJ.
+No que concerne à suposta violação ao artigo 206, § 3º, inciso I, do Código Civil, o recurso especial não pode ser conhecido, pois, sobre a matéria de que trata essa norma, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Entretanto, ainda que superado referido óbice, no que concerne à prescrição, o recurso não pode ser conhecido. A teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No caso, o acórdão recorrido assentou que:
+"Não há que falar em prescrição em lide de ordem locatícia, mormente naquelas envolvendo aluguel e encargos.
+A Lei 8245/1991, Lei do Inquilinato, precisamente em seu art. 62, tratando da ação de despejo por falta de 01, pagamento, diz em seu item II:
+"O locatário e o fiador poderão evitar a rescisão da locação, efetuando, no prazo de quinze dias, contado da citação, o pagamento do débito atualizado, independentemente de cálculo e mediante depósito judicial, incluídos:
+a) Os aluguéis e acessórios da locação que vencerem até a sua efetivação;
+..".
+Como dito ut supra, disposição expressa da Lei do Inquilinato, qualquer que seja momento da citação, o locatário e o fiador terão que pagar os aluguéis e acessórios da locação vencidos" (e-STJ Fl. 316, gn).
+A insurgência recursal, no entanto, não refuta o fundamento disposto.
+Por fim, quanto à suposta ocorrência da preclusão lógica, o Tribunal de origem assentou que:
+"Note-se que é simples a interpretação da mencionada cláusula, não se vislumbrando qualquer falta de transparência ou imposição, como alegam, já que a qualquer pessoa se mostra clara a intenção dos contratantes, ou seja, de que naquele ato estariam, locatário e fiadores, outorgando poderes para que a citação de um deles (ou do locatário ou dos fiadores) formalizaria a citação dos demais em uma eventual demanda judicial.
+Igualmente não foi omisso o julgado, eis que menciona que a autora aguardou a citação do segundo fiador para suscitar a referida cláusula contratual, o que não teria ocorrido se somente tivesse sido citado o locatário, devendo ser observado que na inicial agiu corretamente quando requereu a citação de todos os réus, sendo despicienda, naquele momento, a alegação do pacto no que se referia a citação, não se constatando a sustentada preclusão lógica" (e-STJ Fl. 344).
+Assim, elidir as conclusões do aresto impugnado demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Destarte o desprovimento dos recursos é medida que se impõe.
+Quanto ao recurso interposto por [NOME], e, OUTRO, igual sorte o recurso.
+Os embargos declaratórios não merecem acolhida. No caso não se configura a existência de quaisquer das deficiências apontadas, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Amolda-se à espécie, pois, o entendimento pretoriano consolidado no sentido de que, "quando o Tribunal de origem, ainda que sucintamente, pronuncia-se de forma clara e suficiente sobre a questão posta nos autos, não se configura ofensa ao artigo 535 do CPC. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte" (AgRg no Ag 1.265.516/RS, 4ª Turma, Rel. Min. João Otávio de Noronha, DJe de 30/06/2010).
+Quanto ao cerceamento de defesa, o recurso especial não pode ser conhecido, pois, sobre referida matéria não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta nas Súmulas 282, e, 356/STF.
+No que concerne à suposta violação ao artigo 206, § 3º, inciso I, do Código Civil, o recurso especial não pode ser conhecido, pois, sobre a matéria de que trata essa norma, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Entretanto, ainda que superado referido óbice, no que concerne à prescrição, o recurso não pode ser conhecido. A teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No caso, o acórdão recorrido assentou que:
+"Não há que falar em prescrição em lide de ordem locatícia, mormente naquelas envolvendo aluguel e encargos.
+A Lei 8245/1991, Lei do Inquilinato, precisamente em seu art. 62, tratando da ação de despejo por falta de 01, pagamento, diz em seu item II:
+"O locatário e o fiador poderão evitar a rescisão da locação, efetuando, no prazo de quinze dias, contado da citação, o pagamento do débito atualizado, independentemente de cálculo e mediante depósito judicial, incluídos:
+a) Os aluguéis e acessórios da locação que vencerem até a sua efetivação;
+..".
+Como dito ut supra, disposição expressa da Lei do Inquilinato, qualquer que seja momento da citação, o locatário e o fiador terão que pagar os aluguéis e acessórios da locação vencidos" (e-STJ Fl. 316, gn).
+A insurgência recursal, no entanto, não refuta o fundamento disposto.
+Ante o exposto, NEGO PROVIMENTO aos agravos em recursos especiais.
+Intimem-se.
