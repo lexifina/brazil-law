@@ -1,0 +1,37 @@
+DECISÃO
+1. Consoante exposto na decisão que concedeu o pedido liminar (fls. 225-226):
+Cuida-se de medida cautelar, com pedido de liminar, ajuizada com escopo de concessão de efeito suspensivo ao REsp. n. 1.283.682/DF, que se encontra em fase de distribuição no âmbito deste Superior Tribunal de Justiça.
+Noticiam os autos que, em desfavor do ora autor, em 30.10.08, foi pleiteado o cumprimento de sentença da parte supostamente irrecorrida e que, em razão disso, foram-lhe penhorados recursos financeiros pelo sistema conhecido como "Bacen-jud".
+Entende o ora requerente, porém, que o título exequendo é inexistente, porque não haveria, de fato, nenhuma parte irrecorrida na sentença, diante da devolução total da matéria com a apelação, e também pela circunstância de haver agravo retido pendente de apreciação, que discutia cerceamento de defesa.
+Em razão disso, o requerente ajuizou ação de rito ordinário objetivando desconstituir o procedimento de cumprimento de sentença, à alegação de inexistência de título a embasar o seu cumprimento definitivo ou provisório, tendo sido a inicial indeferida, liminarmente, nos termos do art. 295, III, do CPC.
+O requerente apelou e manejou medida cautelar perante o Tribunal a quo, tendo sido essa última também indeferida liminarmente.
+Em grau de apelação, a sentença foi mantida por acórdão assim ementado:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. TÍTULO EXECUTIVO JUDICIAL. DECONSTITUIÇÃO. FALTA DE INTERESSE PROCESSUAL. IMPROCEDÊNCIA.
+1 . Não é possível falar-se em inexistência de título executivo judicial decorrente de sentença judicial de mérito válida e que transitou em julgado, cabendo, no máximo, quando utilizada a via processual adequada, a desconstituição do julgado.
+2 . Caracteriza a falta de interesse processual, a escolha da via processual inadequada para buscar a modificação de sentença trânsita em julgado, que só pode ser alterada por ação rescisória.
+3 . In casu, resta evidenciada a ausência de interesse processual, eis que a ação ordinária proposta não é o procedimento adequado para a análise da pretensão deduzida pelo Apelante.
+4. Recurso conhecido e improvido.
+Sobreveio recurso especial pela alínea "c" do permissivo constitucional, no qual se alegou dissídio jurisprudencial em relação a arestos de tribunais diversos, no sentido de que, se o autor, vencido em primeiro grau, apela da sentença pleiteando de forma inequívoca sua reforma, claro está que buscou, por igual, a improcedência da reconvenção, porquanto incindíveis as questões envolvidas na ação principal e na contraposta.
+O especial foi admitido às fls. 135-136 e os autos encontram-se nesta Corte, REsp. 1.283.682/DF.
+Citada, a requerida apresentou contestação (fls. 243-263), procuração (fls. 265-268) e outros documentos (fls. 269-605), e agravo regimental contra o deferimento da medida liminar postulada (fls. 606-629).
+É o breve relatório. DECIDO.
+2. Em 12 de março de 2018 proferi decisão dando provimento ao Recurso Especial n. 1.283.682/DF (processo principal), nos termos da seguinte ementa:
+RECURSO ESPECIAL. AÇÃO ORDINÁRIA. ALEGAÇÃO DE INEXISTÊNCIA DE TÍTULO EXECUTIVO JUDICIAL. SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO AUTORAL E PARCIALMENTE PROCEDENTE A RECONVENÇÃO. CUMPRIMENTO DE SENTENÇA. TRÂNSITO EM JULGADO DA PARTE RELATIVA À RECONVENÇÃO. NÃO OCORRÊNCIA DE TRÂNSITO EM JULGADO "EM CAPÍTULOS". INTERESSE PROCESSUAL CONFIGURADO.
+1. "É incabível o trânsito em julgado de capítulos da sentença ou do acórdão em momentos distintos, a fim de evitar o tumulto processual decorrente de inúmeras coisas julgadas em um mesmo feito" (REsp 736.650/MT, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, julgado em 20/08/2014, DJe de 01/09/2014).
+2. Por seu turno, esta Corte Superior já manifestou o entendimento de que a ação principal e a reconvenção, embora autônomas, são resolvidas no mesmo ato judicial, de sorte que o prazo para o ajuizamento da ação rescisória tem como termo inicial o dia seguinte da data em que transitou em julgado a decisão que apreciou o último recurso, seja ela parcial ou integral, ante a impossibilidade de se cingir a coisa julgada.
+3. Desse modo, considerando a ausência de trânsito em julgado "em capítulos" da sentença que julgou improcedente o pedido autoral e parcialmente procedente a reconvenção, está configurado o interesse processual deduzido na presente ação, que objetiva o reconhecimento da inexistência de título judicial apto a aparelhar o cumprimento de sentença proposto pela parte ora demandada.
+4. Recurso especial provido.
+Verifica-se, assim, a superveniente perda do objeto da presente medida cautelar, porquanto, com o julgamento do recurso a que se pleiteia a concessão de efeito suspensivo, fica prejudicada a cautelar.
+Nesse sentido, confiram-se os seguintes precedentes:
+CIVIL. MEDIDA CAUTELAR. AGRAVO DE INSTRUMENTO. EFEITO SUSPENSIVO A RECURSO ESPECIAL TRANCADO NA ORIGEM. AGRAVO DESPROVIDO. PERDA DE OBJETO DA CAUTELAR. LIMINAR REVOGADA. AUSÊNCIA DO FUMUS BONI IURIS.
+1. O Superior Tribunal de Justiça firmou entendimento de que, em sendo julgado o recurso a que se buscou conceder efeito suspensivo, resta prejudicada a medida cautelar em face da perda de seu objeto.
+2. Diante do desprovimento do agravo de instrumento que buscava destrancar o recurso especial inadmitido na origem, resta prejudicada a cautelar, cujo escopo era garantir efeito suspensivo ao apelo extremo e, por conseguinte, revogada a liminar deferida por não mais subsistir o alegado fumus boni iuris da pretensão do recorrente.
+3. Agravo regimental desprovido.
+(AgRg na MC 14.261/AL, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 02/09/2010, DJe 14/09/2010)
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. EFEITO SUSPENSIVO A RECURSO EM MANDADO DE SEGURANÇA. JULGAMENTO DO APELO. PERDA DO OBJETO. PRECEDENTES.
+1. O Superior Tribunal de Justiça firmou compreensão segundo a qual, "Julgado o recurso a que se buscou conceder efeito suspensivo, resta prejudicada a medida cautelar, em face da perda de seu objeto" (AgRg na MC 13.116/MA, Segunda Turma, Rel. Min. Castro Meira, DJ de 12.9.08).
+2. Asseverou ainda esta Corte Superior que: "Não merece prosperar a alegação de que, para se julgar prejudicada a cautelar, não basta o julgamento do recurso especial, sendo necessário o trânsito em julgado da decisão que lhe negou provimento. Em razão da decisão que negou provimento ao recurso especial, reconheceu-se a prejudicialidade da medida cautelar cujo escopo é garantir efeito suspensivo aquele recurso, além de revogar a liminar anteriormente deferida. Ora, é conseqüência lógica do não provimento do recurso especial a revogação de tal liminar, porque não mais subsiste o fumus boni iuris. De outra parte, a manutenção dos efeitos da cautela até o julgamento dos embargos de divergência corresponderia à concessão de efeito suspensivo aos próprios embargos. Todavia, com o julgamento definitivo do recurso especial, encerrou-se a competência, para apreciação da tutela cautelar". (AgRg na MC 12.786/AM, Relator Ministro Sidnei Beneti, decisão unânime, DJ de 11.9.08)
+3. Agravo regimental a que se nega provimento.
+(AgRg na MC 12.370/RN, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 15/10/2009, DJe 03/11/2009)
+3. Ante o exposto, com fundamento no artigo 485, inciso VI, do novo CPC, julgo extinta a presente medida cautelar e prejudicado o agravo regimental de fls. 606-629.
+Publique-se. Intimem-se. Após, dê-se baixa.
