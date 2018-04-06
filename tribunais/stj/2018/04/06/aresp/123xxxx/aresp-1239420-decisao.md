@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] DE VARGAS contra decisão que inadmitiu recurso especial manifestado, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o agravante foi condenado à pena de 1 ano e 6 meses de reclusão, em regime aberto, pelo delito de receptação.
+Houve apelação da defesa, e o Tribunal local, por unanimidade de votos, negou provimento ao recurso, nos termos desta ementa (e-STJ fl. 316):
+APELAÇÃO CRIME - RECEPTAÇÃO - CONDENAÇÃO PELO CAPUT, DO ARTIGO 180, DO CÓDIGO PENAL - PRETENSA ABSOLVIÇÃO PELA AUSÊNCIA DE PROVAS - MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE DEMONSTRADAS NOS AUTOS - ELEMENTOS SUBSTANCIAIS PARA A CARACTERIZAÇÃO DO DELITO DE RECEPTAÇÃO - APREENSÃO DE VEÍCULO ROUBADO NA POSSE DO ACUSADO - POSSE QUE PODERIA TER SIDO DEMONSTRADA COMO SENDO DE BOA-FÉ - BOA-FÉ DA POSSE NÃO DEMONSTRADA PELO APELANTE - CONDENAÇÃO MANTIDA.
+I - "(..) No crime de receptação, devido ao fato de não ser fácil a verificação acerca do conhecimento ou não do agente sobre a origem ilícita do bem, deve-se considerar as circunstâncias que envolveram o delito. Diante disso, havendo indícios seguros de que o réu tinha ciência da origem ilícita da "res", a condenação é medida que se impõe. (..)".(TJPR - 5ª C.Criminal - AC - 1343561-9 - Cascavel - Rel.: Rogério Etzel - Unânime - J. 08.10.2015).
+II - É condição de realização do tipo do art. 180 do CP (crime de receptação), o agente "saber ser produto de crime" a coisa que for encontrada em sua posse, seja pelo preço vil de aquisição, seja por qualquer outra circunstância que torne suspeito o alegado negócio. O acusado, portanto, poderá desvincular-se da imputação, apresentando justificativa plausível de que a posse da res furtiva se deu de boa-fé. Todavia, a ausência dessa demonstração ou a irrazoabilidade da justificativa, aperfeiçoará a realização do tipo penal, não havendo espaço para a alegação de insuficiência de provas (in dubio pro reo).
+RECURSO NÃO PROVIDO.
+Daí o recurso especial, no qual a defesa apontou violação do art. 156 do Código de Processo Penal, argumentando, em síntese, que tanto o Juízo de primeiro grau de jurisdição quanto o Tribunal local procederam a uma verdadeira e ilegal inversão do ônus probatório, impondo ao recorrente o dever de provar sua inocência.
+Requereu, assim, a reforma do acórdão recorrido para, ao afastar a inversão do ônus da prova, absolver o recorrente.
+Contrarrazões às e-STJ fls. 344/346.
+Inadmitido pelo Tribunal de origem, o recurso subiu a esta Corte por meio de agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 392/395).
+É, em síntese, o relatório. Decido.
+O recurso especial não reúne condições de ser conhecido por esta Corte.
+Com efeito, da atenta leitura das razões de decidir do acórdão impugnado, verifica-se que a tese objeto do recurso especial - pertinente à impossibilidade de inversão do ônus da prova - não foi objeto de apreciação explícita e direta pelo Tribunal local, que se restringiu a asseverar que as circunstâncias em que se deu o fato delitivo levaram à conclusão de que o recorrente sabia da origem ilícita do veículo objeto da receptação, superando a tese de que a prisão se deu tão somente em razão de estar a usar tornozeleira eletrônica.
+Assim, o óbice das Súmulas n. 282 e 356, ambas da Suprema Corte, mostra-se intransponível no caso.
+E ainda que não houvesse esse obstáculo, a jurisprudência desta Corte firmou-se no sentido de que, "no crime de receptação, se o bem houver sido apreendido em poder do paciente, caberia à defesa apresentar prova acerca da origem lícita do bem ou de sua conduta culposa, nos termos do disposto no art. 156 do Código de Processo Penal, sem que se possa falar em inversão do ônus da prova" (AgRg no HC n. 331.384/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/8/2017, DJe 30/8/2017), não tendo, assim, o Tribunal local divergido desse entendimento.
+Por isso, o acórdão impugnado deve ser mantido intacto pelos seus próprios termos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
