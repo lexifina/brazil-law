@@ -1,0 +1,10 @@
+DECISÃO
+ ESTADO DO PARANÁ, UNIÃO e CARLA [NOME] e outras interpuseram recursos especiais em face de decisão proferida pelo Tribunal Regional Federal da 4ª Região.
+No caso, a controvérsia veiculada nos Agravos em Recurso Especial das partes diz respeito à condenação das partes envolvidas (União, Estado do Paraná e VIZIVALI) pelos danos supostamente causados em razão do desembolso para a realização de curso e demora e negativa na entrega de referido documento.
+É o necessário relatar.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ocorre que a matéria tratada no Recurso Especial foi julgada, no âmbito deste Sodalício, sob o rito dos recursos representativos de controvérsia, previsto no art. 1.036 e seguintes do CPC/2015, (Recursos Especiais nº 1.487.139/PR, 1.517.748/PR e 1.498.719/PR) à Primeira Seção pelo Relator Ministro Og Fernandes, Tema 928, que destacou os seguintes pontos para resolução: "Discussão quanto (I) à possibilidade de expedição de diploma de conclusão de curso de ensino superior ministrado pela Fundação Faculdade Vizinhança Vale do Iguaçu - VIZIVALI na modalidade semipresencial; bem como (II) à condenação das entidades envolvidas (União, Estado do Paraná e VIZIVALI) pelos danos supostamente causados em razão da demora e negativa na entrega de referido documento".
+Diante do exposto, determino a devolução dos autos ao Tribunal de origem para realização de juízo de adequação, no seguintes termos: I) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; II) seja novamente examinado pelo Tribunal a quo, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (art. 1.040, I e II, do CPC/2015).
+Intimem-se.
+Publique-se.
