@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CNC INDUSTRIA DE MOLDES LTDA - ME, contra acórdão do Tribunal Regional Federal da 4ª Região, proferido na vigência do CPC/2015, assim ementado:
+"TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. PEDIDOS ADMINISTRATIVOS DE RESSARCIMENTO. PRAZO PARA ANÁLISE. LEI Nº 11.457/2007. ALEGAÇÃO DE COMUNICAÇÃO AO CONTRIBUINTE POSSIVELMENTE ERRADA. DIVERGÊNCIA DE FASES. AUSÊNCIA DE INTERESSE PROCESSUAL AFASTADA. CORREÇÃO MONETÁRIA. TERMO "A QUO".
+1. Para os requerimentos administrativos protocolados na vigência da Lei n. 11.457/07, o prazo que o Fisco detém para analisar o pedido é de 360 dias, contado da data do protocolo do pedido. Entendimento pacificado no STJ, quando do julgamento de recurso sob o rito dos recursos repetitivos, art. 543-C do CPC (Primeira Seção, REsp nº 1.138.206/RS, Rel. Ministro Luiz Fux, publicado no DJe em 01.09.2010).
+2. É inadmissível a Administração pretender seja atribuída eficácia a supostas informações disponíveis só a ela, cujo teor difere das prestadas ao contribuinte, ainda que tais discrepâncias sejam rotuladas como mera divergência de fases.
+3. A atualização monetária deve incidir desde a data do pagamento indevido do tributo (Súmula 162 do STJ) até a sua efetiva restituição e/ou compensação, devendo ser aplicada a Taxa SELIC, instituída pelo artigo 39, § 4º, da Lei nº 9.250/95" (fl. 178e).
+Opostos embargos de declaração (fls. 188/193e), esses foram acolhidos por códão cuja ementa se transcreve:
+"EMBARGOS DE DECLARAÇÃO. REPETIÇÃO DE INDÉBITO. PEDIDOS ADMINISTRATIVOS DE RESSARCIMENTO. PRAZO PARA ANÁLISE. LEI Nº 11.457/2007. CORREÇÃO MONETÁRIA. TERMO INICIAL. OMISSÃO SUPRIDA. PRAZO PARA ADMINISTRAÇÃO CONCLUIR PROCESSO ADMINISTRATIVO. DEFERIMENTO. CONTRADIÇÃO SANADA.
+1. A natureza reparadora dos embargos de declaração só permite a sua oposição contra sentença ou acórdão acoimado de obscuridade ou contradição, bem como nos casos de omissão do Juiz ou Tribunal, conforme prescrito no artigo 535 do CPC, ou, ainda, para correção de erro material no julgado. Todavia, por construção jurisprudencial, são cabíveis embargos de declaração para prequestionamento, conforme indicam as Súmulas 282 e 356 do STF e 98 do STJ.
+2. Suprida a omissão apontada, devendo a correção monetária ocorrer pela taxa SELIC, bem como ser o termo inicial a data do protocolo do pedido administrativo.
+3. Sanada a contradição radicada no aresto, com a imposição do prazo de 30 dias para a autoridade coatora concluir os processos administrativos objeto deste mandamus" (fl. 297e).
+Nas razões do Recurso Especial aponta a insurgente que o acórdão recorrido violou os arts. 535 do CPC/73, bem como aos arts. 39, § 4º da LEi 9.250/95 e 165, inciso I, do CTN, sustentando, em síntese, além de negativa de prestação jurisdicional, que o termo inicial para incidência da taxa SELIC é a data de cada recolhimento indevido.
+Apresentadas contrarazões (fls. 364/368e), foi o Recurso Especial admitido na origem (fl. 385e), o que ensejou a sua ascensão a esta Corte Superior.
+A irresignação está prejudicada.
+Discute-se nos autos o direito à correção monetária nos casos de aproveitamento de créditos escriturais.
+Tendo em vista o provimento do recurso especial interposto pela parte ex adversa, para determinar que o Fisco deve ser considerado em mora a partir do término do prazo de 360 dias contados da data do protocolo do pedido de ressarcimento realizado pelo contribuinte, nos termos da jurisprudência desta Corte Superior, o presente recurso fica prejudicado.
+Em face do exposto, com fundamento do art. 255, § 4º, inciso I, do RISTJ, julgo prejudicado o presente recurso especial.
+I.
