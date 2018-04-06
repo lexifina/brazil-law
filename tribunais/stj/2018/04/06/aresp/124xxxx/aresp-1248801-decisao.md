@@ -1,0 +1,28 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. BENEFÍCIO DA JUSTIÇA GRATUITA. REQUERIMENTO INDEFERIDO NA ORIGEM, COM BASE NOS FATOS E PROVAS DOS AUTOS. REEXAME, NESTA CORTE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO JUSTIÇA GRATUITA Indeferimento. Presunção relativa de insuficiência de recursos. Existência de elementos a evidenciar a falta dos pressupostos legais para a concessão de gratuidade. Previsão do artigo 99, § 2º, do NCPC. Precedente desta C. Câmara. Decisão mantida. Recurso desprovido.
+No especial, fundamentado no artigo 105, III, "a" e "c", da Constituição Federal, a agravante apontou, além da divergência jurisprudencial, contrariedade ao art. 4º da Lei 1.060/50, alegando em síntese que tem direito ao benefício da justiça gratuita e que a lei que o regulamenta não exige declaração expressa da parte.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que não ficou demonstrada a violação a lei federal, que a decisão recorrida está em conformidade com o entendimento desta Corte e que a análise da tese suscitada demanda reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+A agravante rechaça os fundamentos mencionados.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou os fundamentos adotados na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+A agravante aduz em mérito ter direito ao benefício da justiça gratuita, uma vez que não tem condições financeiras de arcar com os custos do processo sem prejudicar seu próprio sustento.
+O Tribunal de origem ao solver a controvérsia sobredita arrematou, in verbis:
+No caso, conquanto a autora tenha declarado a insuficiência de recursos, vê-se, por exemplo, dos demonstrativos de pagamento mais recentes juntados, que nos meses de agosto/2016 a outubro/2016 (fls. 47/49) a autora percebeu rendimento líquidos, como servidora pública do Município de Presidente Prudente (dentista), não inferiores a R$3.600,00. Tal circunstância, somada ao fato de que a própria recorrente admite que "o recolhimento das custas iniciais será de aproximadamente e R$ 300,00 (1% sobre o valor da causa  contribuição previdenciária  oficial de justiça)" (fl. 4, sic), demonstra, suficientemente, que o custeio das despesas processuais não irá ao menos neste momento processual comprometer o sustento próprio ou da família do recorrente, que, diga-se, é casada (fl. 8) e, nesse sentido, não lançou um só argumento quanto à eventual impossibilidade de auxílio de seu marido.
+Como se depreende do contexto fático apresentado pelo trecho destacado, o Tribunal de origem reconheceu a possibilidade da ora agravante de arcar com os custos processuais sem prejudicar seu próprio sustento.
+Neste sentido, acolher a pretensão da ora recorrente e sobejar esse quadro fático apurado pelo Tribunal de origem requer a análise do conjunto fático e probatório dos autos, o que em sede de recurso especial é inviável, nos termos da Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA. REQUERIMENTO DE JUSTIÇA GRATUITA INDEFERIDO, NA ORIGEM, COM BASE NOS FATOS E PROVAS DOS AUTOS. REEXAME, NESTA CORTE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. INCIDÊNCIA DO MESMO ÓBICE SUMULAR. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática publicada em 01/08/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, trata-se de Agravo de Instrumento, interposto contra decisão que indeferira a concessão dos benefícios da assistência judiciária em favor da parte ora agravante, pessoa jurídica.
+III. No caso, o Tribunal de origem, no acórdão recorrido, negou provimento ao Agravo de Instrumento, ao fundamento de que "a agravante não demonstrou por meio de documentação hábil a impossibilidade de arcar com as custas do processo sem prejuízos da manutenção da sociedade empresária". Nesse contexto, infirmar os fundamentos do acórdão recorrido demandaria o reexame de matéria fática, o que é vedado em Recurso Especial, nos termos da Súmula 7/STJ.
+IV. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a análise da divergência jurisprudencial quando trata da mesma matéria do Recurso Especial pela alínea "a", cuja análise é obstada pela aplicação da Súmula 7 desta Corte, incide no mesmo óbice, ficando por isso prejudicada" (STJ, AgRg no REsp 1.317.052/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 09/05/2013).
+V. Agravo interno improvido.
+(AgInt no AREsp 1108942/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/11/2017, DJe 24/11/2017)
+Cumpre esclarecer que tal óbice impede o conhecimento do recurso especial por quaisquer das alíneas do permissivo constitucional.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
