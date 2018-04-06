@@ -1,0 +1,50 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACOU OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] e [NOME] , contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, ementado verbis (fl. 382):
+"APELAÇÃO - FURTO - ARTIGO 155, § 4º, INCISOS I E IV, DO CÓDIGO PENAL - RECURSO DO MINISTÉRIO PÚBLICO OBJETIVANDO AUMENTO DA PENA E MODIFICAÇÃO DO REGIME PRISIONAL. CORRETA A FIXAÇÃO DA PENA E DO REGIME SEMIABERTO DIANTE DA REINCIDÊNCIA. PREPONDERÂNCIA DA REINCIDÊNCIA SOBRE A CONFISSÃO. NÃO ACOLHIMENTO. COMPENSAÇÃO BEM FIXADA. APELO DESPROVIDO. RECURSO DO RÉU [NOME] PARA A FIXAÇÃO DO REGIME ABERTO. INVIABILIDADE DIANTE DA REINCIDÊNCIA. RECURSO DO RÉU LUIZ OBJETIVANDO O RECONHECIMENTO DA TENTATIVA. NÃO ACOLHIMENTO. FURTO CONSUMADO. INVERSÃO DA POSSE. RECURSOS DEFENSIVOS IMPROVIDOS".
+Foram, então, opostos embargos de declaração, os quais foram rejeitados com a seguinte ementa (fl. 399):
+"EMBARGOS DE DECLARAÇÃO - FURTO QUALIFICADO CONSUMADO. EMBARGANTES ALEGAM OMISSÃO NO V. ACÓRDÃO QUE NÃO APRECIOU PEDIDO DE REDUÇÃO DE PENA E RECONHECIMENTO DA TENTATIVA). MATÉRIAS JÁ ENFRENTADAS NO V. ACÓRDÃO. INEXISTÊNCIA DE CONTRADIÇÃO, OMISSÃO OU AMBIGUIDADE. EMBARGOS REJEITADOS".
+Em seu recurso especial, às fls. 405/411, sustentaram os recorrentes ofensa ao artigo 14, inciso II, do Código Penal, ao argumento de que "O Tribunal de Justiça do Estado de São Paulo deixou de verificar todas as provas produzidas, visto não observou data vênia, a redução pelo iter criminis percorrido no seu grau máximo" (fl. 406), todavia, ao final, requereram: a desclassificação do "crime de furto para tentativa de furto, em consequência determinando a pena no seu mínimo legal, ou caso os Nobres Julgadores não entendam desta forma, pleiteia a defesa pela absolvição dos réus [NOME] e [NOME], para o cumprimento da Lídima e Cristalina Justiça" (fl. 411).
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 423/425, sob os seguintes fundamentos: I) Acórdão recorrido em conformidade com o entendimento do Superior Tribunal de Justiça no julgamento do Recurso Especial Repetitivo nº 1.524.450/RJ (Tema 934); II) Incidência da Súmula nº 284 do Supremo Tribunal Federal; III) Inobservância dos requisitos do artigo 255 do Regimento Interno e IV) Aplicação da Súmula nº 7 do Superior Tribunal de Justiça.
+Em seu agravo, às fls. 427/435, asseveram os recorrentes que "No que tange, assim, ao pré - questionamento foi ele demonstrado a sociedade, Quanto aos outros pressupostos recursais, percebe - se facilmente terem sido preenchidos" (fl. 434).
+O Ministério Público Federal manifestou-se às fls. 459/461, nos seguintes termos (fl. 459):
+
+"PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. AUSÊNCIA DE IMPUGNAÇÃO PRECISA E ESPECÍFICA DA DECISÃO AGRAVADA. SÚMULAS 182/STJ E 287/STF. DEFICIÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF.
+1. Não se deve conhecer do agravo dotado de fundamentação genérica e deficiente (Súmulas 182/STJ e 287/STF).
+2. Não há como apreciar recurso especial que não aponta, precisa e especificamente, os dispositivos legais supostamente violados, ou o dissídio jurisprudencial aventado. Incidência da Súmula 284/STF.
+3. Parecer pelo não conhecimento do agravo, ou, subsidiariamente, pelo seu desprovimento".
+É o relatório.
+A insurgência não merece prosperar.
+Pacífico o entendimento jurisprudencial desta Corte de que o recorrente deve atacar especificamente, e não de forma genérica ou abstrata, TODOS os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que contra eles não se insurge.
+In casu, o Tribunal a quo inadmitiu o recurso especial apoiando-se nos seguintes fundamentos: I) Acórdão recorrido em conformidade com o entendimento do Superior Tribunal de Justiça no julgamento do Recurso Especial Repetitivo nº 1.524.450/RJ (Tema 934); II) Incidência da Súmula nº 284 do Supremo Tribunal Federal; III) Inobservância dos requisitos do artigo 255 do Regimento Interno e IV) Aplicação da Súmula nº 7 do Superior Tribunal de Justiça.
+Todavia, os agravantes não atacaram, de forma clara e suficiente, os argumentos da decisão agravada.
+Desse modo, temos que as razões recursais não investiram contra os fundamentos da decisão agravada, incidindo, portanto, o princípio cristalizado no enunciado nº 182 da Súmula do Superior Tribunal de Justiça, verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, confiram-se os seguintes julgados:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USURPAÇÃO DE COMPETÊNCIA DO COLEGIADO. INEXISTÊNCIA. SÚMULA 568/STJ. AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. MATÉRIAS DEVIDAMENTE ANALISADAS.
+I - Não constitui ofensa ao princípio da Colegialidade a prolação de decisões monocráticas no âmbito desta Corte, estando tal entendimento inclusive sedimentado por ocasião da edição da Súmula n. 568/STJ. Ademais, sempre haverá a possibilidade de a decisão monocrática estar sujeita à apreciação do órgão colegiado, em virtude de eventual recurso de agravo regimental, como na espécie.Precedentes.
+II - Alegações genéricas de ausência de fundamentação da decisão agravada, que não permite a exata compreensão da controvérsia, justamente porque os argumentos apontados não demonstram, de forma clara e específica, como teria havido tal violação encontra óbice na Súmula 284/STF. Precedentes.
+III - A ausência de impugnação aos fundamentos da decisão que não conheceu do agravo em recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+Agravo regimental parcialmente conhecido e nesta extensão, não provido".
+(AgRg no AREsp 1022389/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/03/2018, DJe 23/03/2018).
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. SÚMULA 182/STJ. CONTRARIEDADE AOS ARTS. 13, 18 E 19 DO CP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF e 211/STJ. DETRAÇÃO PENAL. SENTENÇA ANTERIOR À VIGÊNCIA DA LEI Nº 12.736/2012. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO. AGRAVOS IMPROVIDOS.
+1. A ausência de impugnação de todos os fundamentos da decisão de inadmissão do recurso especial obsta o conhecimento do agravo, da Súmula 182 do STJ, aplicável por analogia.
+2. A arguida violação aos arts. 13, 18 e 19, todos do Código Penal esbarra na ausência de prequestionamento, requisito indispensável ao conhecimento do recurso especial, a teor dos enunciados sumulares 211/STJ e 282 e 356/STF.
+3. Nos termos da jurisprudência desta Corte, compete ao Juízo das Execuções Penais a apreciação acerca do cabimento da detração penal, nas hipóteses em que a sentença foi proferida antes da edição da Lei n. 12.736/2012 AREsp 867.080/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 03/05/2016, DJe 12/05/2016.
+Precedentes.
+4. Agravos regimentais improvidos".
+(AgRg no AREsp 626.543/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO IMPUGNADA. FUNDAMENTAÇÃO ADEQUADA E SUFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NO ART. 932, III, DO CPC. INCIDÊNCIA DA SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não obstante a argumentação da defesa, de que a decisão impugnada é sucinta, constata-se que a motivação apresentada, além de adequada e suficiente, encontra-se dentro dos critérios da lei.
+2. Compete ao recorrente, nas razões recursais, infirmar todo o conteúdo dos fundamentos expostos na decisão contra a qual se insurge, sob pena de vê-los mantidos. A ausência de impugnação específica e pormenorizada impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ.
+3. Agravo regimental improvido".
+(AgRg nos EDcl no AREsp 1090933/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 08/02/2018, DJe 19/02/2018).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. AGRAVOS NÃO CONHECIDOS. OMISSÃO E AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL PELO NÃO ENFRENTAMENTO DO MÉRITO DA QUESTÃO DISCUTIDA NO RECURSO. INEXISTÊNCIA. PRESCRIÇÃO. ERRO MATERIAL CORRIGIDO, DE OFÍCIO. EMBARGOS REJEITADOS.
+1. 1. Da leitura atenta das razões constantes da petição dos embargos de declaração, verifica-se que o verdadeiro intento do embargante é rever o mérito da decisão objeto deles, intenção que refoge das hipóteses legais justificadoras da oposição dos aclaratórios.
+2. O agravo em recurso especial e o agravo regimental não foram conhecidos por incidência da Súmula 182/STF, razão pela qual não há falar em negativa de prestação pela ausência de apreciação do mérito da controvérsia.
+3. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não é suficiente a assertiva de que todos os requisitos foram preenchidos ou a insistência no mérito da controvérsia.
+4. Deve ser corrigido erro material, para fazer constar que, quanto à prescrição, a norma a incidir no caso é a do art. 109, V, do Código Penal, uma vez que a pena imposta, excluído o acréscimo pela continuidade delitiva, foi de 2 anos de reclusão.
+5. Embargos rejeitados, com correção de erro material, de ofício".
+(EDcl no AgRg nos EDcl no AREsp 1134848/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017).
+Ante o exposto, com fundamento no artigo 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça não conheço do agravo em recurso especial.
+Publique-se.
