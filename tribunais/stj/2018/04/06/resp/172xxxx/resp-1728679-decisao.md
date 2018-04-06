@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+Depreende-se dos autos que o Magistrado de primeira instância rejeitou a denúncia ofertada contra o ora recorrido pela prática, em tese, do delito descrito no artigo 334-A, § 1º, IV, do Código Penal, c/c os artigos 2º e 3º do Decreto-Lei n. 399/1968.
+Irresignado, o Ministério Público Federal interpôs recurso em sentido estrito, que foi desprovido nos termos da seguinte ementa (e-STJ fl. 68):
+PENAL E PROCESSO PENAL. RECURSO EM SENTIDO ESTRITO. REJEIÇÃO DA DENÚNCIA. DESCAMINHO. ARTIGO 334-A, § 1º, INCISO IV, DO CÓDIGO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. CABIMENTO.
+1. Os precedentes desta Corte indicam que a importação de até 500 (quinhentos) maços de cigarros é tida como ínfima ou de pequena quantidade, capaz de autorizar a incidência do princípio despenalizante no contrabando de cigarros.
+2. A Seção Criminal desta Corte firmou o entendimento de que na aferição do princípio da insignificância devem ser considerados apenas os aspectos objetivos, relativos à infração, mas firmado entendimento em sentido diverso pelos Tribunais Superiores, torna-se imperiosa a observância da orientação jurisprudencial ora consolidada, sob pena de rejulgamento dos feitos criminais com base em tese contrária.
+3. Na linha dos precedentes do STF e do STJ, a constatação de reincidência específica, reincidência genérica, ou mesmo de contumácia na prática de crimes, afasta a aplicação do princípio da insignificância.
+4. Não havendo contumácia na prática delitiva, tem-se caracterizada a aplicação do princípio da insignificância, visto que a quantidade de cigarros estrangeiros é inferior a 500 (quinhentos) maços.
+Daí o presente recurso, no qual o Ministério Público Federal alega violação ao disposto no art. 334-A, § 1º, IV, do Código Penal. Sustenta que o "caso em apreço - contrabando - não comporta aplicação do princípio da insignificância, porquanto se deve atentar não só para o valor econômico das mercadorias como também para sua natureza. Nesse sentido, é imperioso referir que se está diante de contrabando de cigarros, conduta incriminada pela legislação penal, porque, sobre a mercadoria sobre a qual incide a proibição relativa, estão presentes as restrições dos órgãos de saúde nacionais" (e-STJ fl. 79).
+Requer o provimento do recurso especial, "reconhecendo a impossibilidade de aplicação do princípio da insignificância e, por fim, determinando o prosseguimento da ação penal" (e-STJ fl. 82).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 105/110).
+É o relatório.
+Decido.
+Assiste razão ao recorrente.
+É que este Tribunal Superior firmou entendimento de que a importação não autorizada de cigarros tipifica o crime de contrabando, que, por sua vez, não admite a aplicação do princípio da insignificância, em razão do alto grau de reprovabilidade da conduta.
+Confiram-se nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. EXECUÇÃO PROVISÓRIA DA PENA. AUSÊNCIA DE RECURSO COM EFEITO SUSPENSIVO. POSSIBILIDADE. SÚMULA 267/STJ. AGRAVO REGIMENTAL IMPROVIDO. PEDIDO DEFERIDO.
+1. O Superior Tribunal de Justiça firmou o entendimento de que a introdução clandestina de cigarros, em território nacional, em desconformidade com as normas de regência, configura o delito de contrabando, ao qual não se aplica o princípio da insignificância, por tutelar interesses que transbordam a mera elisão fiscal. Precedentes.
+2. A Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou recente orientação, fixada pelo Pleno do Supremo Tribunal Federal de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+3. Agravo regimental improvido, determinando-se o imediato cumprimento da pena imposta ao agravante. (AgRg no AREsp 697.456/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/10/2016, DJe 28/10/2016)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. VIOLAÇÃO DO ART. 334-A DO CP. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ACÓRDÃO RECORRIDO EM CONFRONTO COM A JURISPRUDÊNCIA DOMINANTE DO STJ. SÚMULA 7/STJ. NÃO INCIDÊNCIA. QUESTÃO EMINENTEMENTE JURÍDICA. DECISÃO MANTIDA.
+Agravo regimental improvido. (AgRg no REsp 1588190/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/06/2016, DJe 16/06/2016)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONTRABANDO DE CIGARROS. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. SUSPENSÃO CONDICIONAL DO PROCESSO. ACUSADO QUE RESPONDE A OUTRA AÇÃO PENAL. INVIABILIDADE. RECURSO NÃO PROVIDO.
+1. A importação não autorizada de cigarros constitui crime de contrabando, insuscetível de aplicação do princípio da insignificância. Precedentes.
+2. A existência de ação penal em curso contra o acusado impede a suspensão condicional do processo (ex vi do art. 89 da Lei n. 9.099/1995).
+3. Agravo regimental não provido. (AgRg no RHC 55.884/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/10/2015, DJe 27/10/2015)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. CONTRABANDO DE CIGARROS. TRANCAMENTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+1. Esta Corte firmou a orientação de que a introdução de cigarros em território nacional é sujeita a proibição relativa, sendo que a sua prática, fora dos moldes expressamente previstos em lei, constitui o delito de contrabando, o qual inviabiliza a incidência do princípio da insignificância.
+2. O bem juridicamente tutelado vai além do mero valor pecuniário do imposto elidido, pois visa proteger o interesse estatal de impedir a entrada e a comercialização de produtos proibidos em território nacional, bem como resguardar a saúde pública, devendo prevalecer o entendimento jurisprudencial de que não se aplica o princípio da insignificância ao contrabando de cigarros.
+3. Recurso desprovido. (RHC 40.779/PR, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 03/12/2015, DJe 17/12/2015)
+Ante o exposto, tendo em vista que o posicionamento expendido no acórdão recorrido está em confronto com a orientação firmada no Superior Tribunal de Justiça, dou provimento ao recurso especial a fim de, cassados o acórdão recorrido e a sentença, determinar o recebimento da denúncia e o prosseguimento da ação penal.
+Publique-se. Intimem-se.
