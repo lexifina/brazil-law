@@ -1,0 +1,92 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO MONITÓRIA. JUÍZO DE RETRATAÇÃO. APELO NOBRE TEMPESTIVO. NOVA APRECIAÇÃO DO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. ACÓRDÃO ESTADUAL DEVIDAMENTE FUNDAMENTADO. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO AO ART. 1.102-A DO CPC/73 E AO ART. 112 DO CÓDIGO CIVIL. DEFICIENTE FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DA SÚMULA 284/STF.
+1. Recurso a ser examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Decisão agravada que reconheceu a intempestividade do recurso especial. Em sede de agravo regimental, foi juntado documento que comprova a existência de recesso forense no curso do prazo recursal. Reconsideração da decisão agravada, em face da tempestividade do apelo nobre, ensejando novo exame do feito.
+3. Rejeitada a alegada violação ao art. 535 do CPC/73, na medida em que o eg. Tribunal a quo analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+4. O recurso especial é o instrumento processual adequado para discutir violação ou divergência jurisprudencial quanto a lei federal (CF/88, art. 105, III, a e c), sendo necessário que sejam apresentados argumentos jurídicos claros e precisos sobre como o eg. Tribunal a quo teria violado ou interpretado de forma divergente determinado dispositivo de lei federal.
+5. Na espécie, o recorrente apresenta alegações genéricas de violação ao art. 1.102-A do CPC/73 e ao art. 112 do Código Civil, o que configura deficiência na fundamentação recursal, atraindo o óbice da Súmula 284/STF.
+6. Agravo regimental provido para reconsiderar a decisão de fls. 417-420 e, em novo exame do feito, conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, dar provimento ao agravo regimental para reconsiderar a decisão de fls. 417-420 e, em novo exame do feito, conhecer do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator. Ausentes, justificadamente, os Srs. Ministros Luis Felipe Salomão e Marco Buzzi.
+RELATÓRIO
+EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator: Trata-se de agravo interno (fls. 424-433) aviado por JORGE LUIS DE OLIVEIRA MACHADO contra decisão (fls. 417-420), de relatoria do em. Ministro Raul Araújo, que conheceu de seu agravo para negar seguimento (CPC/73, art. 544, II, b) a seu recurso especial, em face de sua intempestividade.
+Nas razões do agravo interno, alega-se, em suma, que o "(..) recesso de final de ano, disciplinado através da Portaria 11 do Conselho Nacional de Justiça e devidamente adotado por todos os Tribunais Estaduais, trata-se de fato público e notório, dispensando-se inclusive prova" (fl. 426).
+Afirma-se que foi juntada com o presente agravo interno cópia de portaria emitida pelo eg. Tribunal de Justiça do Estado do Ceará (TJ-CE), o que comprovaria o recesso forense no interstício de 20/12/2011 a 06/01/2012. Assevera o agravante, ainda, que a jurisprudência do eg. STJ firmou-se pela possibilidade de comprovação de recurso especial com documento hábil, em sede de agravo regimental.
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Intimado, FRANCISCO MARTINS DE LIMA FILHO apresentou impugnação (fls. 439-444) pelo desprovimento do agravo interno.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator: Como relatado, a decisão vergastada negou seguimento ao recurso especial por considerá-lo intempestivo, como se infere da leitura do seguinte excerto (fl. 417):
+ "O recurso especial em exame não reúne todas as condições de admissibilidade, porquanto intempestivo.
+ Com efeito, tem-se que o acórdão recorrido, proferido em sede de embargos de declaração, foi publicado em 09/12/2011, sexta-feira (e-STJ, fl. 319). Iniciado o prazo legal no primeiro dia útil subsequente, 12/12/2011, segunda-feira, o prazo exauriu-se em 26/12/2011, segunda-feira.
+ Contudo,o presente recurso foi interposto apenas em 16/1/2012 (e-STJ, fl. 321)."
+Como sabido, após a edição da Emenda Constitucional nº 45/2004, foram vedadas as férias coletivas em juízos e tribunais de segundo grau, de maneira que a atividade jurisdicional, nestas instâncias, é ininterrupta (CF/88, art. 93, XII). Por sua vez, o Conselho Nacional de Justiça, buscando regular o expediente forense no período de fim de ano, editou a Resolução nº 08/2005, que possibilita aos eg. Tribunais de Justiça dos Estados que definam as datas em que o expediente estará suspenso, no período compreendido entre 20 de dezembro e 6 de janeiro. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO PERÍODO RELATIVO AO RECESSO FORENSE (RESOLUÇÃO Nº 08 DO CONSELHO NACIONAL DE JUSTIÇA). PRECLUSÃO CONSUMATIVA. VERIFICAÇÃO DA TEMPESTIVIDADE DO APELO NOBRE. JUÍZO DEFINITIVO DE ADMISSIBILIDADE. COMPETÊNCIA DO STJ.
+1. É intempestivo o recurso especial interposto fora do prazo legal de quinze dias previsto no art. 508 do Código de Processo Civil.
+2. Após a edição da Emenda Constitucional 45/2004, foram vedadas as férias coletivas nos juízos e tribunais de segundo grau. O Conselho Nacional de Justiça, buscando regular o expediente forense no período de fim e início de ano, editou a Resolução nº 08, possibilitando que os Tribunais de Justiça dos Estados definam as datas em que o expediente estará suspenso, no período entre 20 de dezembro e 6 de janeiro. Nesse contexto, para fins de comprovar a tempestividade do recurso interposto nessa época do ano, é necessário que o recorrente demonstre qual o período de recesso estabelecido pelo respectivo Tribunal, pois, sem essa providência, a atividade jurisdicional é tida como ininterrupta, nos termos da EC/45. Ressalva do entendimento pessoal do Relator.
+3. Não se mostra possível a conversão do julgamento em diligência ou a abertura de prazo para a regularização do agravo nesta excepcional instância, tampouco a apresentação de documentos em sede de agravo regimental, dada a incidência da preclusão consumativa.
+4. Em sede de recurso especial, deve esta Corte realizar o juízo definitivo acerca dos requisitos de admissibilidade do recurso. Assim, a referência pelo Tribunal de origem a respeito da tempestividade de recurso especial, por ocasião de sua interposição, não vincula a análise no Superior Tribunal de Justiça.
+5. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 49.077/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 18/10/2011)
+Já no âmbito desta eg. Corte, para fins de comprovar a tempestividade do recurso interposto nessa época do ano, a jurisprudência dominante firmou-se pela necessidade de o recorrente demonstrar qual o período de recesso estabelecido pelo respectivo Tribunal, apresentando documento hábil a comprovar eventual suspensão dos prazos. Por sua vez, para os recursos interpostos na vigência do Código de Processo Civil de 1973, a jurisprudência desta eg. Corte admite a comprovação, em sede de agravo regimental/agravo interno, de documento que demonstre a existência de eventual recesso/feriado forense que influencie no prazo recursal. Nessa linha de intelecção, além do precedente já homenageado na decisão vergastada, destacam-se os seguintes julgados:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO, MANTENDO A INTEMPESTIVIDADE DO RECURSO ESPECIAL - IRRESIGNAÇÃO DA COMPANHIA TELEFÔNICA.
+(..)
+2. A jurisprudência do STJ, firmada na vigência do CPC/1973, era no sentido de que para fins de demonstração da tempestividade do recurso especial, incumbe à parte comprovar, por meio de documento oficial idôneo ou certidão expedida pelo Tribunal de origem, a ocorrência de suspensão ou interrupção dos prazos processuais em decorrência de ausência ou suspensão de expediente forense, que implique prorrogação do termo final para sua interposição.
+3. Hipótese em que a parte não apresentou, quando da interposição do agravo regimental, documentação apta a comprovar o alegado recesso forense na instância ordinária.
+4. O STJ entende ser inviável a juntada de documento comprobatório da suspensão dos prazos na Corte a quo apenas em sede de embargos de declaração, em razão da ocorrência de preclusão consumativa.
+5. Embargos de declaração rejeitados."
+(EDcl no AgRg no REsp 1.552.495/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2017, DJe de 14/12/2017 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECESSO LOCAL. COMPROVAÇÃO POSTERIOR. POSSIBILIDADE. INTEMPESTIVIDADE RECONSIDERADA. CUMPRIMENTO DE SENTENÇA. DETERMINAÇÃO DE JUNTADA DE DOCUMENTO E DESIGNAÇÃO DE PERÍCIA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 475-B, § 2º, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. RAZÕES DISSOCIADAS. SÚMULA N. 284/STF.
+1. A comprovação da tempestividade do agravo em recurso especial em decorrência de suspensão de expediente forense no Tribunal de origem pode ser feita posteriormente, em agravo regimental, desde que por meio de documento idôneo capaz de evidenciar a prorrogação do prazo do recurso cujo conhecimento pelo STJ é pretendido. Intempestividade reconsiderada.
+(..)
+4. Agravo regimental desprovido."
+(AgRg no AREsp 698.352/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 23/02/2016, DJe de 26/02/2016)
+No caso em apreço, o agravante apresentou documento de fls. 431-432, no qual se infere o recesso forense entre 20/12/2011 e 06/01/2012, motivo pelo qual fica demonstrada a tempestividade do presente apelo nobre.
+Com essas razões, o presente agravo interno deve ser provido para, exercendo juízo de retratação, reconsiderar a decisão de fls. 417-420.
+Ato contínuo, passa-se ao novo exame do agravo em recurso especial.
+Historiam os autos que JORGE LUIS DE OLIVEIRA MACHADO propôs ação monitória em desfavor de [NOME], tendo o promovido apresentado embargos monitórios.
+O il. Magistrado de piso acolheu os embargos para extinguir a ação monitória, com arrimo no art. 267, IV e VI, do CPC/73.
+Inconformado, JORGE LUIS DE OLIVEIRA MACHADO interpôs apelação, que foi desprovida pelo eg. TJ-CE, nos termos do v. acórdão assim ementado (fl. 263):
+"EMENTA: APELAÇÃO CÍVEL. PROCESSUAL CIVIL. AÇÃO MONITORIA. ART. 1.102 A, DO CPC. CONTRATO DE MÚTUO. AVAL. GARANTIA NOS TÍTULOS CAMBIAIS. CONTRATO COMERCIAL, INADMISSIBILIDADE. SENTENÇA MANTIDA. APELAÇÃO IMPROVIDA. 1. A ação monitoria é o meio pelo qual o credor de garantia líquida certa, pleiteia provimento jurisdicional, traduzido em pagamento de soma em dinheiro, entrega de coisa fungível ou de determinado bem móvel, visando à satisfação de seu crédito (Inteligência do art. 1.102 a, do CPC); 2, Trata-se de "contrato de mútuo", onde o recorrido, na condição de avalista, tornou devedor da dívida pleiteada pelo autor. Ocorre que, o aval é um instituto exclusivo do direito cambiário, e, via de conseqüência, só pode ser dado como garantia nus títulos cambiais, não em contrato comercial. 3. Inadmissível interpretação extensiva da fiança, nos termos do art. 819, do CPC; 4. Sentença mantida: 5. Recurso de apelação conhecido e improvido."
+Os embargos de declaração opostos foram rejeitados (acórdão às fls. 312-318).
+Irresignado, JORGE LUIS DE OLIVEIRA MACHADO manejou o presente recurso especial, com arrimo na alínea a do permissivo constitucional, no qual alega violação ao art. 535, II, do CPC/73, pois o eg. TJ-CE não teria sanado os vícios apontados nas razões dos embargos de declaração. Sustenta, também, ofensa ao art. 1.102-A do CPC/73 e ao art. 112 do Código Civil.
+Intimado, FRANCISCO MARTINS DE LIMA FILHO apresentou contrarrazões (fls. 358-363) pelo desprovimento do recurso especial.
+Como dito, o apelo nobre foi inadmitido, motivando o manejo do presente agravo em recurso especial.
+Também foi oferecida contraminuta ao agravo (fls. 402-410).
+Feito esse breve relatório, passa-se à fundamentação.
+Cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Da detida leitura do v. acórdão estadual, infere-se que o eg. Tribunal de Justiça do Estado do Ceará (TJ-CE) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação, motivo pelo qual deve ser rejeitada a alegada violação ao art. 535 do CPC/73.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - grifou-se)
+Avançando na análise do apelo, melhor sorte não socorre o recorrente no tocante à alegada violação ao art. 1.102-A do CPC/73 e ao art. 112 do Código Civil.
+Com efeito, o recurso especial é o instrumento processual adequado para discutir violação ou divergência jurisprudencial quanto a lei federal, conforme preconiza o art. 105, III, a e c, da CF/88. Nesse diapasão, para atender tal mister, é necessário que, nas razões recursais, sejam apresentados argumentos jurídicos claros e precisos sobre como o eg. Tribunal a quo teria violado ou interpretado de forma divergente determinado dispositivo de lei federal.
+No caso em apreço, o ora recorrente não apresentou argumentação jurídica apta a demonstrar como o art. 1.102-A do CPC/73 e o art. 112 do Código Civil foram violados ou interpretados de forma equivocada pelo eg. TJ-CE. Nesse cenário, as razões do apelo nobre representam meras alegações genéricas de violação da lei federal, o que configura deficiência na fundamentação recursal, atraindo o óbice da Súmula 284/STF, aplicada por analogia. Nesse sentido, confiram-se:
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. (..). FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. REEXAME DE PROVA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.
+(..)
+2. Nos casos em que a arguição de ofensa a dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284 do Supremo Tribunal Federal.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 613.606/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/05/2017, DJe de 17/05/2017 - grifou-se)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..). SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+(..)
+4. Agravo interno não provido."
+(AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe de 24/02/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE DO RESP. INOBSERVÂNCIA DA SÚMULA 123/STJ. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO GENÉRICA À LEI FEDERAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. (..). AGRAVO NÃO PROVIDO.
+(..)
+2. A jurisprudência desta Corte é pacífica no sentido de que a alegação de ofensa genérica de lei federal não enseja a abertura da via especial, aplicando-se, por analogia, o disposto na Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+(..)
+6. Agravo interno a que se nega provimento."
+(AgRg no AREsp 263.268/PB, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/05/2016, DJe de 18/05/2016)
+Com essas considerações, conclui-se que o apelo nobre que se pretende trânsito mediante o presente agravo não merece prosperar.
+Ante o exposto, dou provimento ao agravo interno para, exercendo juízo de retratação, reconsiderar a decisão de fls. 417-420 e, em novo exame do feito, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+É como voto.
