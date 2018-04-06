@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial apresentado por LUCIANA DE ALMEIDA FACURY, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+Depreende-se dos autos que a recorrente foi condenada, pela prática do crime do art. 1º, I, da Lei n. 8.137/1990, c/c o art. 71 do Código Penal, às penas de 2 anos e 4 meses de reclusão, em regime aberto, e 80 dias-multa.
+A defesa apelou, e o Tribunal a quo, por unanimidade de votos, negou provimento ao recurso e, de ofício, reduziu para 28 o número de dias-multa, mantida, no mais, a sentença condenatória (e-STJ fls. 1.302/1.319).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.334/1.341).
+No recurso especial, a defesa alega, além de divergência jurisprudencial, ofensa ao "artigo 400 do Código de Processo Penal, ao inverter a ordem de oitiva de testemunha, bem como proceder com interrogatório da recorrente antes do término de produção de prova oral, além de rechaçar o comando legal trazido nos artigos 265, § 2º e 564 do mesmo codex" (e-STJ fl. 1.347).
+Inadmitido na origem, o recurso subiu a esta Corte por meio deste agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 1.489/1.493).
+É o relatório.
+Decido.
+Inicialmente, conforme entendimento adotado por esta Corte quanto à análise de recursos não admitidos, por ocasião do julgamento do EAREsp n. 386.266/SP, nos casos em que o agravo for conhecido e o recurso especial for desprovido por estar em confronto com súmula ou jurisprudência sedimentada no tribunal ou, ainda, for provido, mesmo que em parte, não há que se falar em retroatividade do trânsito em julgado à data de escoamento do prazo para a interposição de recurso admissível. Senão, vejamos.
+No caso em apreço, como a Súmula n. 83/STJ (declinada pela decisão de inadmissão do recurso especial, bem como no parecer ministerial de e-STJ fls. 1.489/1.493) diz respeito ao próprio mérito do recurso especial - "nulidade em razão do interrogatório da recorrente ter ocorrido depois da inquirição da testemunha [NOME]" (e-STJ fl. 1.490) -, o recurso especial mostra-se admissível, ainda que a tese não seja plausível. Assim, o último marco interruptivo da prescrição é a data da sentença condenatória.
+Desse modo, considerando a pena imposta pela instância local, que não ultrapassa 2 anos (excluindo-se o aumento decorrente da continuidade delitiva), nos termos do art. 109, V, c/c o art. 110, § 1º, ambos do Código Penal, a pretensão punitiva prescreve em quatro anos. E no caso houve o transcurso de mais de 4 anos entre a publicação da sentença, em 26/2/2010 (e-STJ fl. 1.173), e a presente data, sendo mister o reconhecimento da prescrição da pretensão punitiva.
+Ante o exposto, com fulcro no art. 107, IV, do Código Penal, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade da recorrente pela prescrição da pretensão punitiva, em relação ao delito ora em apuração, e julgo prejudicado o agravo em recurso especial.
+Publique-se. Intimem-se.
