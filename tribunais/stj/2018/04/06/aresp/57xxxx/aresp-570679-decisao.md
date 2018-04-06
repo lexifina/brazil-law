@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto pelo ESPÓLIO DE EVA BOUSQUET LADVOCAT e OUTROS, desafiando decisão que não admitiu recurso especial, este fundamentado na alínea "a" do permissivo constitucional, contra acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO REGIMENTAL NA APELAÇÃO CÍVEL. APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO. SENTENÇA DE IMPROCEDÊNCIA. FUNDAMENTADA NA AUSÊNCIA DE PROVAS QUANTO AOS FATOS CONSTITUTIVOS DO DIREITO. ESCRITURA PARTICULAR DE CESSÃO DE DIREITOS HEREDITÁRIOS. POSSE DEVIDAMENTE COMPROVADA. RECURSO PROVIDO. PRECEDENTES JURISPRUDENCIAIS. DESPROVIMENTO DO RECURSO." (e-STJ, fl. 580)
+Nas razões do recurso especial, os ora agravantes, por intermédio da Defensoria Pública, apontam ofensa aos artigos 82 e 246 do CPC/73 e 550 do Código Civil de 1916. Sustentam que a empresa ora recorrida não demonstrou atender aos requisitos exigidos pelo artigo 550 do CC/16, visto que não comprovou a regular cadeia sucessória de transmissão da posse, apresentando apenas escrituras lavradas unilateralmente pelo cedente do imóvel. Defendem, ainda, a nulidade do feito, pela ausência de intimação do Ministério Público para que se pronunciasse acerca do documento trazido extemporaneamente pela recorrida.
+O Ministério Público Federal manifestou-se pelo provimento do recurso.
+É o relatório. Passo a decidir.
+De início, cumpre salientar que o recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+No que se refere à alegada nulidade do processo, ante a ausência de intimação do Ministério Público para se manifestar sobre o documento anexado extemporaneamente às fls. 384/398, assim dispôs o Tribunal de origem:
+"No tocante à alegação de nulidade da decisão proferida pelo Des. Aposentado Antonio Carlos Esteves Torres de fls. 413/416, entendo que a mesma não deve ser acolhida, ante a total ausência de prejuízo para a agravante.
+Analisando os autos, verificamos que a Procuradoria de Justiça, antes da juntada dos documentos de fls. 384/398, opinou no sentido de dar provimento ao apelo (fls.354/365) e, ao ser intimada para manifestar-se sobre o recurso de agravo interno, pronunciou-se no sentido de que a irregularidade estaria suprida com esta nova intimação; reiterou os argumentos contidos em seu parecer de fls. 354/365 (anterior à juntada dos documentos tidos como extemporâneos pela agravante) e opinou no mérito, pelo desprovimento do agravo interno.
+Portanto, os pareceres juntados pelo Ministério Público, antes e depois da juntada dos documentos pela agravada foram no sentido de modificação da sentença para dar provimento ao pedido da autora/apelante, ora, agravada." (e-STJ, fl. 582)
+O acórdão recorrido está a salvo de censura, pois em consonância ao entendimento desta Corte, no sentido de que a ausência de intimação do Ministério Público, por si só, não enseja a decretação de nulidade do processo, a não ser que se demonstre o efetivo prejuízo ou para apuração da verdade substancial da controvérsia jurídica, à luz do princípio pas de nullité sans grief.
+Além disso, a análise do interesse público na situação concreta incumbe ao próprio Órgão Ministerial, que, no caso, pronunciou-se no sentido de que a irregularidade foi suprida com a nova intimação para manifestação sobre o recurso de agravo interno, sendo que esta Corte possui entendimento uníssono no sentido de que a falta de intervenção do Ministério Público pode ser suprida pela atuação posterior da Instituição perante o colegiado em segundo grau.
+A propósito, confiram-se:
+"RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. CITAÇÃO EM NOME DE INCAPAZ. INCAPACIDADE DECLARADA POSTERIORMENTE. NULIDADE NÃO RECONHECIDA. INTERVENÇÃO DO MP. NULIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO PREJUÍZO. ESTATUTO DA PESSOA COM DEFICIÊNCIA. LEI N. 13.146/2015. DISSOCIAÇÃO ENTRE TRANSTORNO MENTAL E INCAPACIDADE.
+(..)
+4. A intervenção do Ministério Público, nos processos que envolvam interesse de incapaz, se motiva e, ao mesmo tempo, se justifica na possibilidade de desequilíbrio da relação jurídica e no eventual comprometimento do contraditório em função da existência da parte vulnerável.
+5. A ausência da intimação do Ministério Público, quando necessária sua intervenção, por si só, não enseja a decretação de nulidade do julgado, sendo necessária a demonstração do efetivo prejuízo para as partes ou para a apuração da verdade substancial da controvérsia jurídica, à luz do princípio pas de nullité sans grief.
+6. Na espécie, é fato que, no instante do ajuizamento da ação de rescisão contratual, não havia sido decretada a interdição, não havendo se falar, naquele momento, em interesse de incapaz e obrigatoriedade de intervenção do Ministério Público.
+7. Ademais, é certo que, apesar de não ter havido intimação do Parquet, este veio aos autos, após denúncia de irregularidades, feito por terceira pessoa, cumprindo verdadeiramente seu mister, com efetiva participação, consubstanciada nas inúmeras manifestações apresentadas.
+(..)
+10. Recurso especial a que se nega provimento."
+(REsp 1694984/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/11/2017, DJe 01/02/2018, grifou-se)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE DESAPROPRIAÇÃO. REFORMA AGRÁRIA. INTERVENÇÃO DO MINISTÉRIO PÚBLICO FEDERAL. ART. 18, § 2º. LC N.º 76/93. NECESSIDADE. EMBARGOS À EXECUÇÃO. EXCESSO NA EXECUÇÃO. EXISTÊNCIA DE INTERESSE PÚBLICO. INDISPONIBILIDADE.
+1. O Ministério Público atua legitimante, como custos legis, na ação de desapropriação direta de imóvel rural para fins de reforma agrária, conforme estabelecido pelo art. 18, § 2º, da Lei Complementar nº 76/93, além das hipóteses abrangidas pelo art. 82 do CPC.
+2. O interesse público, acaso existente por força de lei, implica a intervenção do Ministério Público, sua participação resta obrigatória, indisponível e inderrogável, por se tratar de norma cogente. Precedentes desta Corte: (REsp 271680/CE, DJ 09.04.20001;
+REsp 421318 / PR, DJ 04.08.2003, REsp 130420 / PR, DJ 09.02.1998).
+3. A lei complementar retrocitada vaticina ser obrigatória a intervenção ministerial em causas que versem acerca de desapropriação para reforma agrária, seja no processo cognitivo ou executivo, notadamente quando se almeja a aplicação do princípio da justa indenização.
+4. In casu, o reclamo do Parquet não restou atendido em primeira ou segunda instância, o que afasta o entendimento firmado nesta E. Corte no sentido de que "ausência de intimação do Ministério Público Federal em feito que versa sobre desapropriação para fins de reforma agrária, pode ser suprida pela manifestação do Parquet em segunda instância, não havendo prejuízo para as partes" (REsp 604.264/RN, DJ 01.02.2006).
+5. Recurso especial provido."
+(REsp 811.530/RN, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 25/03/2008, DJe 14/04/2008, grifou-se)
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. FINS DE REFORMA AGRÁRIA. INTERVENÇÃO DO MINISTÉRIO PÚBLICO. LIMITES DA COISA JULGADA. MULTA DO 538.
+1. A ausência de intimação do Ministério Público Federal em feito que versa sobre desapropriação para fins de reforma agrária, pode ser suprida pela manifestação do Parquet em segunda instância, não havendo prejuízo para as partes.
+2. Malfere o instituto da coisa julgada a pretensão de que se realize nova perícia em fase de execução, quando o aresto de segundo grau classifica o laudo como meticuloso e bem fundamentado.
+3. Afastamento da multa prevista no artigo 538. Aplicação da Súmula 98/STJ.
+4. Recurso especial provido em parte."
+(REsp 604.264/RN, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 06/12/2005, DJ 01/02/2006, p. 481, grifou-se)
+"RECURSO ESPECIAL. MINISTÉRIO PÚBLICO FEDERAL. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS 83, I, E 246 DO CPC, BEM COMO 18, II, "H", DA LC N. 75/93. AUSÊNCIA DE INTIMAÇÃO PESSOAL DO MPF. ARTIGO 18, § 2º, DA LEI COMPLEMENTAR N.
+76/93. NÃO OCORRÊNCIA DE PREJUÍZO ÀS PARTES NA ESPÉCIE. AFASTADA A NULIDADE DO ACÓRDÃO RECORRIDO. PRECEDENTES.
+(..)
+"É entendimento assente desta Corte de que a falta de intimação do parquet federal em primeiro grau de jurisdição se suprida com o pronunciamento regular deste órgão em segunda Instância e ausente prejuízo para as partes não gera nulidade" (AGREsp 209.804/SP, Rel. Min. Castro Meira, DJ 30.06.2004).
+Na espécie, do exame atento dos autos, verifica-se que não houve nulidade no acórdão recorrido, pois a ausência de intimação pessoal do Parquet federal não ocasionou prejuízo às partes. Com efeito, como bem salientou o Tribunal a quo, apesar de não intimado pessoalmente, o Ministério Público Federal ofertou parecer tanto antes da sentença de 1º grau (fls. 362/363), como antes do julgamento da apelação e da remessa oficial (fls. 410/433).
+Recurso especial do Ministério Público Federal conhecido em parte e improvido.
+(..)
+Recurso especial do INCRA conhecido em parte e improvido."
+(REsp 549.707/CE, Rel. Ministro FRANCIULLI NETTO, SEGUNDA TURMA, julgado em 14/12/2004, DJ 09/05/2005, p. 334, grifou-se)
+No mais, não é possível, em sede de recurso especial, analisar a existência dos requisitos legais para declaração da prescrição aquisitiva, no caso em que o Tribunal de segundo grau entendeu estarem comprovados esses requisitos, porque elidir as conclusões do acórdão recorrido demandaria o revolvimento da moldura fático-probatória delineada nos autos, providência vedada pela Súmula 7 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
