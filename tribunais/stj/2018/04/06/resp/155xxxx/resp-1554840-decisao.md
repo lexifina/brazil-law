@@ -1,0 +1,44 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. PERCEPÇÃO DE PROVENTOS A MAIOR. RECEBIMENTO DE BOA-FÉ. DESCABIMENTO DA PRETENSÃO ADMINISTRATIVA DE RESTITUIÇÃO DOS VALORES. EXIGIBILIDADE DA INTERRUPÇÃO DOS DESCONTOS NOS PROVENTOS E DA DEVOLUÇÃO DO TOTAL QUE TENHA SIDO DESCONTADO DOS PROVENTOS DO SERVIDOR PELA ADMINISTRAÇÃO. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. Trata-se de Recurso Especial interposto pelo ALFREDO [NOME], com fundamento na alínea a do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VALORES PERCEBIDOS INDEVIDAMENTE. ERRO TÉCNICO NA FOLHA DE PAGAMENTO. REPOSIÇÃO AO ERÁRIO. POSSIBILIDADE.
+1. A hipótese dos autos não é de má interpretação de lei pela Administração (ou errônea interpretação), mas de verdadeiro erro técnico no processamento na folha de pagamento, em um único mês.
+2. Nessa hipótese, deve ser prestigiado o erário, assegurando-se ao Poder Público a possibilidade de reposição de valores pagos indevidamente a servidores públicos.
+3. Ante a inversão da sucumbência, os honorários advocatícios fixados na origem devem ser suportados pela parte autora.
+4. Apelação provida (fls. 186).
+2. Nas razões de Apelo Especial inadmitido, a Recorrente alega violação dos arts. 535 do CPC/1973, 45 e 46 da Lei 8.112/90, 876 do Código Civil, 2o. aos seguintes argumentos: (i) de que o acórdão recorrido, a despeito da oposição dos Embargos de Declaração, foi omisso sobre pontos relevantes ao deslinde do feito; (b) de que é cabível a restituição dos valores recebidos a maior, sob pena de ensejar enriquecimento sem causa do servidor público ou pensionista em detrimento do erário, sobretudo quando o pagamento indevido decorreu de erro operacional quanto à ausência de exclusão da Gratificação de Apoio Técnico-Administrativo-GEAT (fls. 108); (c) de que os descontos dos valores devidos ao erário não requer a instauração de prévio processo administrativo, mas tão somente a notificação do Servidor.
+3. É o relatório. Decido.
+4. De início, no tocante ao art. 535 do CPC/73, observa-se que o Tribunal de origem, ao contrário do alegado, manifestou-se fundamentadamente a respeito de todas as questões postas à sua apreciação e, ao final, decidiu contrariamente aos interesses da parte Recorrente, que buscou, com os Embargos de Declaração, a reapreciação do mérito da causa. Logo, em virtude da presença de decisão fundamentada e não havendo omissão, contradição ou obscuridade, não se verifica ofensa às regras ora invocadas.
+5. No mérito, o acórdão recorrido está dissonante do entendimento desta Corte Superior quanto à impossibilidade de restituição de valores pagos a Servidor Público ou Pensionista de boa-fé, por conta de erro operacional da Administração Pública, em virtude do caráter alimentar da verba, como na hipótese dos autos.
+6. Com efeito, o requisito estabelecido para a não devolução de valores pecuniários indevidamente recebidos é a boa-fé do Servidor ou Pensionista que, ao recebê-los na aparência de serem corretos, firma compromissos com respaldo na pecúnia. A escusabilidade do erro cometido pelo agente autoriza a atribuição de legitimidade ao recebimento da vantagem.
+7. A esse respeito, convém a transcrição dos seguintes precedentes:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. PAGAMENTO INDEVIDO. ERRO OPERACIONAL DA ADMINISTRAÇÃO. PERCEPÇÃO DE BOA-FÉ. INDEVIDA A RESTITUIÇÃO DOS VALORES.
+1. A jurisprudência do STJ firmou a orientação de que é incabível "a devolução ao Erário de valores recebidos pelo servidor, nos casos de equívoco ou má aplicação da lei, pela Administração, ou ainda, por erro administrativo operacional, o que evidencia a boa-fé do servidor".
+2. Agravo interno a que se nega provimento (AgInt no REsp. 1.598.380/MG, Rel. Min. OG FERNANDES, DJe 30.9.2016).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PAGAMENTO INDEVIDO POR ERRO DA ADMINISTRAÇÃO. RECEBIMENTO DE BOA-FÉ. CARÁTER ALIMENTAR. DEVOLUÇÃO. NÃO CABIMENTO. RESP 1.244.182/PB, SUBMETIDO AO RITO DOS RECURSOS REPETITIVOS.
+1. A jurisprudência do STJ firmou entendimento no sentido de não ser devida a devolução de verba paga indevidamente a servidor em decorrência de erro da própria Administração Pública, quando se constata que o recebimento pelo beneficiado se deu de boa-fé, como no caso em análise. Precedentes: MS 19.260/DF, Rel. Min. Herman Benjamin, Corte Especial, DJe 11/12/2014; REsp 1.244.182/PB, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado sob o rito do art. 543-C do CPC, DJe 19/10/2012; EDcl no REsp 1.342.111/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 06/03/2014.
+2. Agravo interno não provido (AgInt no REsp. 1.509.068/PR, Rel. Min. BENEDITO GONÇALVES, DJe 23.9.2016).
+
+ADMINISTRATIVO. RECURSO ESPECIAL. AUXÍLIO-DOENÇA. RECEBIMENTO ALÉM DO PERÍODO DEVIDO. ERRO OPERACIONAL DA ADMINISTRAÇÃO. BOA-FÉ DO BENEFICIÁRIO. REPETIÇÃO. DESCABIMENTO.
+1. De acordo com a jurisprudência pacífica do Superior Tribunal de Justiça, é incabível a devolução de valores percebidos, de boa-fé, por servidor ou pensionista em decorrência de erro operacional da administração, que é a hipótese dos autos.
+2. Recurso especial a que se dá provimento (REsp. 1.571.066/RJ, Rel. Min. convocada DIVA MALERBI, DJe 22.6.2016).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VALORES RECEBIDOS POR ERRO OPERACIONAL DA ADMINISTRAÇÃO. RESTITUIÇÃO DO MONTANTE RECEBIDO. CARACTERIZAÇÃO DE BOA-FÉ. VERBA DE CARÁTER ALIMENTAR. PRECEDENTES.
+Esta Corte firmou entendimento no sentido de não ser devida a devolução de verba paga indevidamente a servidor em decorrência de erro operacional da Administração Pública, quando se constata que o recebimento pelo beneficiado se deu de boa-fé, como no caso em análise. Precedentes.
+Agravo regimental improvido (AgRg no REsp. 1.560.973/RN, Rel. Min. HUMBERTO MARTINS, DJe 13.4.2016).
+8. Por fim, no tocante aos arts. 2o., parágrafo único, IX e XII, 24 e 26, § 3o. da Lei 9.784/99, igualmente não assiste razão ao Recorrente. É firme a jurisprudência desta Corte Superior de que o desconto de valores pagos indevidamente a Servidor Público deve observar o devido processo legal e a ampla defesa. A propósito:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. VALORES RECEBIDOS INDEVIDAMENTE. DESCONTO EM FOLHA. DEVIDO PROCESSO LEGAL, AMPLA DEFESA E CONTRADITÓRIO. NECESSIDADE.
+1. A jurisprudência do STJ firmou o entendimento de que a cobrança pela Administração de valores pagos indevidamente a servidor público deve observar o devido processo legal e a garantia da ampla defesa, o que não foi observado no caso dos autos. Precedentes do STJ.
+2. Agravo Regimental não provido (AgRg no AREsp. 67.412/DF, Rel. Min. HERMAN BENJAMIN, DJe 12.4.2012).
+
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. DESCONTO EM FOLHA DOS VALORES RECEBIDOS INDEVIDAMENTE. NECESSIDADE DE PRÉVIA INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO DISCIPLINAR. DECADÊNCIA. REVISÃO DE ATO ADMINISTRATIVO. EXAME DE LEI LOCAL. SÚMULA 280/STF.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o desconto em folha dos valores pagos indevidamente ao servidor público é cabível, desde que assegurado o imprescindível exercício da ampla defesa e do contraditório previamente ao desconto e respeitado o limite máximo de 1/10 sobre a remuneração.
+2. O acórdão recorrido decidiu a quaestio iuris com fundamento na legislação estadual, ultrapassando os limites estritos do recurso especial, destinado a garantir a aplicação uniforme da lei federal. Por conseguinte, incide o óbice da Súmula 280/STF.
+3. Agravo regimental improvido (AgRg no REsp. 899.557/MG, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe 19.10.2011).
+
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. SERVIDOR PÚBLICO CIVIL. RESSARCIMENTO AO ERÁRIO. PROCESSO ADMINISTRATIVO. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. NECESSIDADE. ACÓRDÃO A QUO FIRMADO CONFORME A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O desconto em folha de pagamento de servidor público, sob o pálio de ressarcimento ao erário, não afasta o dever legal da Administração de observar o devido processo legal em que sejam assegurados os princípios da ampla defesa e do contraditório. Precedentes.
+2.Agravo regimental a que se nega provimento (AgRg no REsp. 802.252/RS, Rel. Min. CELSO LIMONGI, DJe 23.8.2010).
+9. Diante disso, dá-se provimento ao Recurso Especial para determinar que a Administração não mais realize descontos nos proventos do Servidor e, também, proceda a devolução dos valores anteriormente descontados pela Administração. Assim, ficam invertidos os honorários de sucumbência fixados na origem.
+10. Publique-se. Intimações necessárias.
