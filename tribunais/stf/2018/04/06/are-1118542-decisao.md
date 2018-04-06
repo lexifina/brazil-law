@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 4, p. 21):
+    “ADMINISTRATIVO E PROCESSUAL CIVIL- EXECUÇÃO INDIVIDUAL – ALEGAÇÃO DE LITISPENDÊNCIA COM A EXECUÇÃO COLETIVA – REAJUSTE DE 3,17% - RECURSO PROVIDO.
+    1 – Cuida-se, a hipótese, de embargos à execução individual de sentença, proferida nos autos da ação coletiva nº 99.0063635-0, já transitada em julgado.
+    2 – Iniciada a execução individual, verifica-se que também já se deu início à execução na ação coletiva, em que foram opostos embargos à execução, pendentes de decisão junto a esta e. Corte.
+    3 – Embora sem o trânsito em julgado da extinção da execução coletiva, os servidores renunciaram aos créditos excedentes de que tratam a aludida execução coletiva, pleiteando, individualmente, os valores incontroversos apurados pela própria devedora.
+    4 – Ainda que a execução coletiva subsista após o julgamento dos recursos para os Tribunais Superiores, a UFRJ sempre poderá demonstrar que estes Autores nada mais tem a receber na execução coletiva (art. 741, VI, do CPC).
+    5 – Recurso provido. Sentença reformada. Litispendência afastada.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 5º, LXXVIII; 8º, III; e 37, caput, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “não se pode admitir (inclusive em conformidade com o Princípio da Eficiência – art. 37, caput, da Constituição Federal), contudo, como bem reconhecido na sentença apelada, é a coexistência de dois processos judiciais, um coletivo e outro individual, que abranjam as pretensões executivas das mesmas pessoas, sob o risco de que estas pessoas que promoveram a execução individual venham a receber os valores às mesmas devidos em duplicidade, na execução coletiva e na execução individual.” (eDOC 4, p. 40).
+    A Vice-Presidência do TRF/2ª Região inadmitiu o recurso extraordinário em virtude de incidir na hipótese as Súmulas 279 e 636 do STF (eDOC 5, p. 9).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem, quando do julgamento da apelação, assim asseverou (eDOC 4, p. 17-19):
+    “Analisando os autos da execução individual, que tramita, virtualmente, na 18ª Vara Federal do Rio de Janeiro, verifica-se que os ora substituídos – Miguel Gonçalves Antônio, Aurelinda Araújo Guimarães, Izaías Rodrigues Moreira, Jovelino Antônio e Jurandir Rodrigues de Souza -, renunciando aos valores excedentes, decidiram obter apenas os créditos que foram reconhecidos pela Executada nos autos dos Embargos à Execução nº 2006.51.01.015199-0 (fls. 1.146/1.604). Pleiteiam, individualmente, os valores incontroversos apurados e lançados no Parecer Técnico nº 8581C/2009-DCP/PGU/AGU do Departamento de Cálculos e Perícias da Procuradoria Geral da União, com os acréscimos legais (fl. 02).
+    A execução coletiva já foi extinta por sentença, ainda que sem trânsito em julgado. Nos embargos à execução interpostos pela União Federal, extinguiu-se a execução coletiva, e determinou-se que a execução se procedesse de forma autônoma e individualizada, o que foi confirmado pela 6ª Turma Especializada desta e. Corte, que proferiu o seguinte acórdão, ainda sem trânsito em julgado:
+    (...)
+    Entretanto, embora sem o trânsito em julgado da extinção da execução coletiva, os cinco servidores renunciaram aos créditos excedentes de que tratam a aludida execução coletiva, pleiteando, individualmente, os valores incontroversos apurados pela própria devedora.
+    Dessa forma, não há porque obstar a execução individual, já que acompanha o entendimento da sentença mantida por esta Corte no acórdão supratranscrito.
+    A notícia da existência de renúncia à execução coletiva veio aos autos na petição inicial (fl. 02). Não se pode falar, portanto, em litispendência.
+    Ainda que a execução coletiva subsista após o julgamento dos recursos para os Tribunais Superiores, a UFRJ sempre poderá demonstrar que estes cinco Autores nada mais tem a receber na execução coletiva (art. 741, VI, do CPC).”
+     O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se sustenta a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “EMENTA: RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – TÍTULO JUDICIAL CONSUBSTANCIADOR DE SENTENÇA COLETIVA – EFETIVAÇÃO EXECUTÓRIA INDIVIDUAL – POSSIBILIDADE JURÍDICA – RECURSO DE AGRAVO IMPROVIDO. POSSIBILIDADE DE EXECUÇÃO INDIVIDUAL DE SENTENÇA PROFERIDA EM PROCESSO COLETIVO. – O fato de tratar-se de ação coletiva não representa obstáculo para que o interessado, favorecido pela sentença coletiva, promova, ele próprio, desde que integrante do grupo ou categoria processualmente substituídos pela parte autora, a execução individual desse mesmo julgado. Doutrina. Precedentes.” (ARE 925.740-AgR, Min. Rel. Celso de Mello, Segunda Turma, DJe de 1º.2.2016).
+    Por fim, a alegada violação ao art. 37, caput, da Constituição Federal seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 6 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
