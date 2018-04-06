@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por CHROME HARD REVESTIMENTOS DE METAIS LTDA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO no qual se discute, entre outros aspectos, a inclusão do ICMS na base de cálculo da contribuição ao PIS e à COFINS (e-STJ fls. 194/204).
+A recorrente interpôs, também, recurso extraordinário na origem (e-STJ fls. 266/297).
+Passo a decidir.
+A questão objeto do recurso especial teve a repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema n. 69) e o seu mérito apreciado no julgamento do RE 574.706, em sessão realizada em 15/03/2017, Relatora a em. Ministra Carmem Lúcia, cujo acórdão foi assim ementado:
+RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E COFINS. DEFINIÇÃO DE FATURAMENTO. APURAÇÃO ESCRITURAL DO ICMS E REGIME DE NÃO CUMULATIVIDADE. RECURSO PROVIDO.
+1. Inviável a apuração do ICMS tomando-se cada mercadoria ou serviço e a correspondente cadeia, adota-se o sistema de apuração contábil. O montante de ICMS a recolher é apurado mês a mês, considerando-se o total de créditos decorrentes de aquisições e o total de débitos gerados nas saídas de mercadorias ou serviços: análise contábil ou escritural do ICMS.
+2. A análise jurídica do princípio da não cumulatividade aplicado ao ICMS há de atentar ao disposto no art. 155, § 2º, inc. I, da Constituição da República, cumprindo-se o princípio da não cumulatividade a cada operação.
+3. O regime da não cumulatividade impõe concluir, conquanto se tenha a escrituração da parcela ainda a se compensar do ICMS, não se incluir todo ele na definição de faturamento aproveitado por este Supremo Tribunal Federal. O ICMS não compõe a base de cálculo para incidência do PIS e da COFINS.
+3. Se o art. 3º, § 2º, inc. I, in fine, da Lei n. 9.718/1998 excluiu da base de cálculo daquelas contribuições sociais o ICMS transferido integralmente para os Estados, deve ser enfatizado que não há como se excluir a transferência parcial decorrente do regime de não cumulatividade em determinado momento da dinâmica das operações.
+4. Recurso provido para excluir o ICMS da base de cálculo da contribuição ao PIS e da COFINS.
+(RE 574706, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 15/03/2017, ACÓRDÃO ELETRÔNICO DJe-223 DIVULG 29-09-2017 PUBLIC 02-10-2017)
+Nesse contexto, reconheço que o juízo de conformação do recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual os autos deverão retornar ao Tribunal de origem para que lá ele seja realizado com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que tal providência seja realizada.
+Publique-se. Intimem-se.
