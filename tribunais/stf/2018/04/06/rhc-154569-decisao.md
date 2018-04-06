@@ -1,0 +1,25 @@
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Douglas da Silva Barros, contra decisão monocrática da lavra do Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça que indeferiu liminarmente o HC 423.784/RS.
+    Em 21.12.2016, o Recorrente foi preso preventivamente pela suposta prática do crime de homicídio qualificado, tipificado no art. 121, § 2º, I, III e IV, do Código Penal.
+    Ato contínuo, a Defesa impetrou habeas corpus perante do Tribunal de Justiça do Estado do Rio Grande do Sul, que denegou a ordem.
+    Irresignada com a manutenção da prisão, a Defesa submeteu a questão à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Sebastião Reis Júnior, indeferiu liminarmente o HC 423.784/RS.
+    No presente recurso ordinário em habeas corpus, o Recorrente sustenta, em síntese, a falta de fundamentação idônea da decisão que decretou a prisão preventiva. Requer, em medida liminar e no mérito, a revogação da constrição cautelar.
+    É o relatório.
+    Decido.
+    Extraio do ato impugnado:
+    “Pelo exame dos autos, o presente writ deve ser indeferido liminarmente.
+    Isso porque, os impetrantes não se desincumbiram do ônus de instruir adequadamente o habeas corpus, trazendo, simplesmente, cópia do indeferimento da liminar no prévio writ (HC nº 70074930850 – fls. 616/619), quando, na verdade, deveria ter sido apresentado cópia do r. decisum negando seguimento, proferido na data de 25/10/2017, ou seja, em data anterior a presente impetração, peça essencial para a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa.
+    Como sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente, e por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado.
+    Nesse sentido:
+    (...)
+    Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente a petição inicial.”
+    Registro que há obstáculo à admissibilidade do presente recurso, porquanto não exaurida a jurisdição do Superior Tribunal de Justiça.
+    Na dicção do art. 102, II, a, da Constituição Federal, compete ao Supremo Tribunal Federal julgar, em recurso ordinário, o habeas corpus decidido em única instância pelos Tribunais Superiores, se denegatória a decisão.
+    O ato impugnado na presente via é mera decisão monocrática e não o resultado de julgamento colegiado do Superior Tribunal de Justiça. Deveria, pretendendo a Defesa a reforma da decisão monocrática, ter interposto o pertinente agravo regimental para que a questão fosse apreciada pelo órgão colegiado. Não o fazendo, inadmissível o presente writ.
+    Em relação ao tema, a jurisprudência desta Suprema Corte assenta que “não se conhece de recurso ordinário em habeas corpus contra decisão monocrática proferida no Superior Tribunal de Justiça” (RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011) e que “A carência de exaurimento da jurisdição no âmbito do Tribunal a quo, configurada pela não interposição de agravo regimental da decisão monocrática que negou seguimento ao writ, também configura óbice ao conhecimento do presente recurso, por inobservância ao princípio da colegialidade insculpido no artigo 102, inciso II, alínea a, da Constituição Federal” (RHC 111.935/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 30.9.2013). Outros julgados: RHC 114.961/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.8.2013; RHC 115492-EDcl/PE, Rel. Min. Dias Toffoli, 1ª Turma, DJe 28.8.2013.
+    Por outro lado, conforme destacado pelo Superior Tribunal de Justiça, “os impetrantes não se desincumbiram do ônus de instruir adequadamente o habeas corpus”. Com efeito, a jurisprudência deste Supremo Tribunal Federal orienta no sentido do não conhecimento de habeas corpus quando não devidamente instruído o feito (HC 103.240-AgR/RS, Rel. Min. Ayres Britto, 2ª Turma, DJe 11.4.2011; HC 116152/PE, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 01.5.2013; e HC 104.913/SP, Rel. Min. Marco Aurélio, Relatora para acórdão Ministra Rosa Weber, 1ª Turma, DJe 13.6.2013).
+    Anoto, por fim, à míngua de pronunciamento judicial pelo Superior Tribunal de Justiça quanto à tese defensiva, inviável a análise deste recurso ordinário em habeas corpus pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de abril de 2018.
+Ministra Rosa Weber
+Relatora
