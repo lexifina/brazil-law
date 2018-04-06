@@ -1,0 +1,16 @@
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. INTERPRETAÇÃO. DISPOSITIVO DA IN 807/2008 DA RECEITA FEDERAL DO BRASIL. CONCEITO DE LEI FEDERAL. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e/ou "c", da Constituição Federal, contra acórdão proferido pelo TRF5, assim ementado (fl. 182/186):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. DESEMBARAÇO ADUANEIRO. PIS-IMPORTAÇÃO. COFINS-IMPORTAÇÃO. ALÍQUOTA 0 (ZERO). ARTIGO 8º, § 12, XI, DA LEI Nº 10.865/2003. CISTOS DE ARTÊMIA, PARA ALIMENTAÇÃO DE PÓS-LARVAS DE CAMARÃO. ENQUADRAMENTO COMO EMBRIÃO. POSSIBILIDADE.
+1. O artigo 8º, § 12, XI, da Lei nº 10.865/2003, reduz a zero a alíquota do PIS-Importação e do COFINS-Importação, quando se trata de sêmen ou embrião previsto no código 5.11, da Nomen- clatura Comum do Mercosul - NCM, o que be- neficia a impetrante, que importou cistos de artêmia, que consiste em embrião de camarão de salmoura, metabolicamente inativo, desti- nado à alimentação de pós-larvas de camarão.
+2. Embora as Notas Explicativas do Sistema Harmonizado tenham estabelecido que, no conceito de embrião, apenas é contemplado aquele congelado, destinado à implantação em fêmea, a norma que instituiu a alíquota 0 (zero) não fez tal distinção, logo, não é possível a restrição em tela, com base em regras que não dizem respeito, especificamente, aos tribu- tos em questão.
+3. Apelação provida.
+O recorrente sustenta ofensa ao(s) artigos 8º, §12, da Lei 10.865/2004, e à Instrução Normativa RFB nº 807/2008, sob o fundamento, em síntese, de que os cistos de artêmia consistem num microorganismo metabolicamente inativo destinado à alimentação de pós-larvas de camarão, não configurando um embrião que será implantado numa fêmea, de modo que o Anexo Único da Instrução Normativa RFB n. 807 de 11/01/2008, que traz as Notas Explicativas do Sistema Harmonizado e da Nomenclatura do SH diz que os embriões devem apresentar-se congelados para serem implantados numa fêmea, o que, efetivamente, não é o caso dos produtos em questão.
+Juízo positivo de admissibilidade às fls. 201.
+Parecer do MPF pelo não conhecimento do recurso.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Das razões recursais, colhe-se que os argumentos nuclearem da recorrente envolvem a aplicação e interpretação da Instrução Normativa RFB n. 807/2008, de modo que trata-se de normativo que não se constitui em lei federal, e, de acordo com a jurisprudência deste Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas de Tribunais, bem como atos administrativos normativos (AgInt no REsp 1664584/GO, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 27/9/2017).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
