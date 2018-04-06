@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE BELÉM contra decisão do Presidente do Tribunal de Justiça do Estado do Pará, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 118):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA DE CUMPRIMENTO DE OBRIGAÇÃO DE FAZER. FORNECIMENTO DE REMÉDIO. MUNICÍPIO. LEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA ENTRE UNIÃO, ESTADO E MUNICÍPIO. OBRIGAÇÃO DE FORNECIMENTO. ORIENTAÇÃO ATUAL DO STF. SENTENÇA MANTIDA. RECURSO CONHECIDO E IMPROVIDO.
+I - A Administração Pública, seja ela Municipal, Estadual, Distrital ou Federal, é responsável pela saúde pública, de forma solidária.
+II - Independentemente da excepcionalidade dos medicamentos, os entes públicos devem fornecê-los ante o direito constitucional a ser protegido.
+III - Sentença mantida em todos os seus termos.
+IV - Apelação interposta pelo MUNICÍPIO DE BELÉM improvida.
+Decisão unânime.
+No especial obstaculizado, o ora agravante apontou violação dos seguintes dispositivos legais:
+(a) arts. 4º e 9º, da Lei n. 8.080/1990, e 19 da Portaria n. 698/2006 do Ministério da Saúde, sustentando sua ilegitimidade passiva ad causam, visto que, segundo a distribuição de responsabilidades do Sistema Único de Saúde, compete aos Estados o fornecimento de medicamento excepcional; e
+(b) arts. 300, § 3º e 910, do Código de Processo Civil de 2015, 1º, § 3º, da Lei n. 8.437/1993, 2º-B da Lei n. 9.494/1997, 100 da Constituição da República, ao argumento de que não estão presentes os requisitos para a antecipação da tutela, bem como que "a ordem jurídica proíbe expressamente que o Poder Público sofra ordem liminar que esgote, no todo ou em parte, o objeto da ação" (e-STJ fl. 148).
+Aduziu, ainda, contrariedade aos arts. 504, I e II, 513 do Código de Processo Civil de 2015 e a necessidade de observância ao princípio da supremacia do interesse público sobre o particular, uma vez que a satisfação da obrigação pleiteada na presente demanda compromete a serviço público de saúde regularmente prestado pelo ente político.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 170/173).
+Na presente irresignação, o agravante alega que o recurso obstado atende aos pressupostos para a sua admissão (e-STJ fls. 176/193).
+Contraminuta às e-STJ fls. 198/207.
+O Ministério Público Federal opina pelo desprovimento do recurso (e-STJ fls. 215/222).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+No que se refere à indicada violação do art. 100 da Constituição da República, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Da mesma forma, inviável o conhecimento do apelo nobre quanto à alegada contrariedade ao art. 19 da Portaria n. 698/2006 do Ministério da Saúde, pois tal ato normativo não está inserto no conceito de "lei infraconstitucional federal". A propósito: AgRg no REsp 1293154/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 26/02/2013; e AgRg no AREsp 518.470/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2014, DJe 20/08/2014.
+Em relação às apontadas ofensas aos arts. 504, I e II, 513 do Código de Processo Civil de 2015, o recorrente não teceu nenhuma fundamentação que justificasse a sua irresignação, não podendo o apelo nobre, quanto o ponto, ser conhecido. Incide, na espécie, a Súmula 284 do STF.
+Quanto à observância do princípio da prevalência do interesse público sobre o particular, nota-se que o recorrente não apontou qual dispositivo de lei federal teria sido afrontado pelo acórdão objurgado, procedimento indispensável ao conhecimento do recurso interposto com fulcro nas alíneas "a" ou "c" do permissivo constitucional, circunstância que também atrai a aplicação da Súmula 284 do STF.
+No que se refere à tese de ilegitimidade passiva ad causam, o Tribunal assentou o seu entendimento nos seguintes termos (e-STJ fls. 121/124):
+PRELIMINAR DE ILEGITIMIDADE ATIVA:
+Aduz o apelante, em preliminar, sua ilegitimidade passiva, contudo seus argumentos não merecem prosperar.
+Acerca deste tema, o artigo 196 da Constituição Federal impõe ao Estado - no sentido amplo, englobando União, Estados, Distrito Federal e Municípios - o dever de assegurar o acesso universal e igualitário às ações de saúde que objetivem a prevenção, redução e recuperação de doenças.
+Por sua vez, o artigo 198 da Constituição Federal prescreve que as ações e serviços públicos de saúde serão desenvolvidos de forma: descentralizada, assegurando atendimento integral e com participação da comunidade.
+Diante disso, a Administração Pública, seja ela Municipal, Estadual, Distrital ou Federal, é responsável pela saúde pública, de forma solidária. As políticas sociais, mencionadas na Carta Magna, são um mero exemplo de formas de garantir e dar efetividade ao mencionado artigo 196, cujo direito assegurado é a saúde de todos.
+(..)
+Assim, resta evidenciado que o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, dos Estados e dos Municípios, de modo que qualquer um desses entes tem legitimidade para figurar no polo passivo de demanda que objetiva a garantia do acesso a medicamentos para tratamento de problema de saúde.
+Ante o exposto, deixo de acolher esta preliminar.
+Observa-se que a questão foi decidida mediante fundamentação eminentemente constitucional, porém o recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo, quanto ao ponto, o recurso especial manejado, nos termos da Súmula 126 do STJ.
+Ademais, ainda que fosse possível superar o referido óbice, o STJ possui entendimento de que a obrigação discutida nos autos é solidária, decorrente da própria Constituição Federal, razão pela qual a divisão de atribuições feita pela Lei n. 8.080/1990, que constituiu o Sistema Único de Saúde - SUS -, não afasta a responsabilidade do demandado de fornecer medicamentos e/ou tratamentos médicos a quem deles necessite.
+Nesse sentido: AgRg no AREsp 491048/RN, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 09/12/2015; e AgRg no AREsp 627357/PR, Relatora Ministra DIVA MALERBI (Desembargadora convocada TRF 3ª Região), SEGUNDA TURMA, DJe 12/02/2016.
+Por fim, relativamente à alegação de contrariedade aos arts. 300, § 3º e 910, do CPC/2015, 1º, § 3º, da Lei n. 8.437/1993, 2º-B da Lei n. 9.494/1997, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+A teor do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Nos termos do art. 85, § 11, do CPC/2015, estabeleço os honorários recursais sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
