@@ -1,0 +1,46 @@
+DECISÃO
+1. Cuida-se de agravo interposto por RENATA SEMIN TORMIN E OUTRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DE SÃO PAULO assim ementado:
+ALIENAÇÃO JUDICIAL E EXTINÇÃO DE CONDOMÍNIO. Sentença que determinou a alienação do imóvel descrito na inicial. Insurgência. Parcial acolhimento. Tratando-se de bem indivisível, cabe pleito de partilha a qualquer tempo, nos termos dos art. 1.320 e 1.322 do Código Civil. E direito do condômino requerer a divisão de coisa comum, com a conseqüente alienação judicial do bem, quando não for possível o uso e gozo em conjunto do imóvel indivisível, resguardando-se o direito de preferência. Precedentes. Termo inicial para contagem dos juros de mora. Demais pedidos indenizatórios não apreciados nesta ação. Despesas com o pagamento da avaliação pericial devem ser repartidas na proporção das cotas no imóvel. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (fls. 398-404).
+Nas razões do recurso especial (fls. 407-425), os recorrentes apontam violação dos arts. 165 e 458, II, do CPC/1973 (arts. 11 e 489, II, e § 1º, IV, do CPC/2015), por entender que o Tribunal de origem deixou de apresentar fundamentação mínima para a negativa do recurso de apelação.
+Alegam afronta aos arts. 259, 246, III, 349 e 397 do Código Civil, sob o argumento de que os juros de mora devem ser computados a partir de cada desembolso realizado e não da data da citação, como entendeu a Corte a quo.
+É o relatório.
+DECIDO.
+2. Inicialmente, afirmo que não há violação dos arts. 165 e 458, II, do CPC/1973 (arts. 11 e 489, II, e § 1º, IV, do CPC/2015), pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, emitindo pronunciamento de forma clara e fundamentada.
+No caso, o julgamento do feito apenas se revelou contrário aos interesses da parte recorrente, circunstância que não configura omissão, nem contradição ou obscuridade, tampouco erro material.
+Na hipótese dos autos, a Corte a quo, ao julgar o recurso de apelação (fls. 367-382) prestou a devida tutela jurisdicional, ainda que se tenha alcançado resultado contrário aos interesses dos recorrentes
+Inexiste, pois, omissão no aresto que, embora com fundamentação diversa da pretendia pela parte insurgente, desata a questão jurídica posta em juízo.
+Ademais, impende destacar que os embargos de declaração não constituem meio idôneo a sanar eventual error in judicando, não lhes sendo atribuível efeitos infringentes caso não haja, de fato, omissão, obscuridade ou contradição, conforme pontua jurisprudência desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO E TRIBUTÁRIO. PRECATÓRIO.
+PRECLUSÃO. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. PRETENSÃO DE EFEITOS INFRINGENTES. VIA INADEQUADA.
+I - Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+II - O recurso de embargos de declaração não é via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não lhes sendo atribuível eficácia infringente se ausentes omissão, obscuridade ou contradição (art. 535 do CPC). Nesse sentido: EDcl nos EDcl no REsp 1.109.298/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamin, Segunda Turma, DJe 6/11/2013; EDcl no AgRg nos EAg 1.118.017/RJ, Rel. Ministro Castro Meira, Corte Especial, DJe 14/5/2012; EDcl no AgRg nos EAg 1.229.612/DF, Rel.
+Ministro Castro Meira, Corte Especial, DJe 13/6/2012 e EDcl nos EDcl no MS 14.117/DF, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe 1º/8/2011.
+III - Considerando o desiderato revelado de conferir caráter infringente aos presentes aclaratórios em decorrência de alegado erro de julgamento, sem a comprovação de omissão ou contradição, merecem rejeição os embargos de declaração.
+IV - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 963.313/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 13/06/2017, DJe 23/06/2017)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. PRETENSÃO DE EFEITOS INFRINGENTES. VIA INADEQUADA.
+1. No sistema do CPC/1973, os Embargos de Declaração eram cabíveis nas hipóteses legais de omissão, contradição ou obscuridade (art. 535), tendo a jurisprudência entendido possível serem oferecidos também para que fosse apontada a existência de erro material. No CPC/2015, estes continuam a ser os casos de interposição do recurso (art. 1.022).
+2. O recurso de Embargos de Declaração não é via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não lhes sendo atribuível eficácia infringente se ausentes omissão, obscuridade ou contradição (art. 535 do CPC). Nesse sentido: EDcl nos EDcl no REsp 1.109.298/RS, Rel. Ministro Castro Meira, Rel. p/ Acórdão Ministro Herman Benjamin, Segunda Turma, DJe 6/11/2013; EDcl no AgRg nos EAg 1.118.017/RJ, Rel. Ministro Castro Meira, Corte Especial, DJe 14/5/2012; EDcl no AgRg nos EAg 1.229.612/DF, Rel. Ministro Castro Meira, Corte Especial, DJe 13/6/2012 e EDcl nos EDcl no MS 14.117/DF, Rel. Ministro Napoleão Nunes Maia Filho, Terceira Seção, DJe 1º/8/2011.
+3. Considerando o desiderato revelado de conferir caráter infringente aos presentes aclaratórios em decorrência de alegado erro de julgamento, sem a comprovação de omissão ou contradição, merecem rejeição os Embargos de Declaração.
+4. Embargos de Declaração rejeitados.
+(EDcl no REsp 1641373/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+3. Ademais, verifica-se que os insurgentes alegaram violação dos arts. 259, 246, III, 349 e 397 do Código Civil. No entanto, os referidos dispositivos legais, em que pese a oposição de embargos de declaração, não foram objeto de debate na origem, o que atrai o óbice da Súmula 211/STJ ao vertente caso, ante a falta do necessário prequestionamento da matéria.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUMULA 284. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta do necessário prequestionamento inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial. Incidência na espécie da Súmula 211/STJ.
+2. A ausência de explicitação precisa, por parte do recorrente, sobre a forma como teriam sido violados os dispositivos suscitados atrai a incidência do enunciado n. 284 da Súmula do STF.
+3. A conclusão a que chegou o Tribunal a quo acerca da irregularidade dos descontos no benefício do recorrido, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. A revisão de tais fundamentos demandaria alteração revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. Não foram cumpridas as formalidades previstas nos arts. 541 do CPC/73 e art. 255 do RISTJ, pois a recorrente limitou-se a transcrever excertos dos julgados paradigma, sem proceder à análise dos textos para demonstrar a divergência.
+5. Agravo interno não provido.
+(AgInt no AREsp 213.811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/04/2017, DJe 03/05/2017)
+PREQUESTIONAMENTO. AUSÊNCIA. ALEGADA OFENSA AOS ARTS. 131 E 333, I, DO CPC/1973. VALORAÇÃO DAS PROVAS PELO MAGISTRADO. LIVRE CONVENCIMENTO MOTIVADO.
+1. O acórdão impugnado por meio do recurso especial foi proferido sob a égide do CPC/1973, motivo pelo qual o juízo que se realizará a respeito do acerto ou desacerto do decidido será, quanto ao aspecto processual, exclusivamente orientado por essa normatividade. É que a aplicabilidade imediata assegurada à norma processual não implica a possibilidade da revisão dos atos já praticados pelo juiz, tampouco a desconstituição de situações jurídicas consolidadas sob a vigência da lei processual revogada (art. 14 do CPC/2015). Aplica-se o Enunciado Administrativo 2 do STJ.
+2. Não há como apreciar o mérito da controvérsia, porquanto a simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela Corte a quo, não é suficiente para caracterizar o requisito do prequestionamento.
+Aplica-se, no ponto, a Súmula 211 desta Corte Superior.
+3. Não há que se falar em contrariedade aos arts. 131 e 333, I, do CPC/1973 em razão da valoração promovida pelo magistrado das provas coligidas nos autos, porquanto no nosso sistema processual aquele é o destinatário destas; cabe-lhe, por força do art. 131 do CPC/1973, apreciar o acervo fático-probatório livremente indicando os motivos que lhe formaram o convencimento.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 125.932/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
