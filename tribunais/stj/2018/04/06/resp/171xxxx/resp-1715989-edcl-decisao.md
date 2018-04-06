@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração manejados por NUTRI 100 AGRO LTDA em face de decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. RESSARCIMENTO/COMPENSAÇÃO DE CRÉDITO PRESUMIDO DE PIS/COFINS. ARTS. 8º DA LEI Nº 10.925/2004 E 56-A DA LEI Nº 12.350/2010. ANÁLISE DA ATIVIDADE DESENVOLVIDA PELA EMPRESA. CEREALISTA OU AGROINDUSTRIAL. AFERIÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AUSÊNCIA DE DIREITO AO CRÉDITO PRESUMIDO EM RELAÇÃO Á ATIVIDADE DE CEREALISTA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A embargante insurge-se contra a decisão embargada alegando que a hipótese dos autos não se enquadra em nenhum dos casos previsto no art. 932 do CPC/2015 para fins de julgamento monocrático pelo relator, sobretudo porque a questão relativa à caracterização como atividade cerealista ou não da atividade de beneficiamento de soja, milho e tribo por limpeza, padronização e armazenamento não teria respaldo em nenhum precedente desta Corte.
+Requer a anulação da decisão embargada para que o mérito seja analisado por órgão colegiado.
+Sem contrarrazões.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+A decisão embargada se manifestou de forma clara e fundamentada no sentido de que não é possível a esta Corte rever o acórdão recorrido no que tange ao enquadramento fático da situação ensejadora do crédito presumido de PIS/COFINS na hipótese, de modo a caracterizar a empresa como agroindustrial, uma vez que o Tribunal Regional é soberano em relação à análise da situação fático-probatório dos autos. Rever tais aspectos em sede de recurso especial encontra óbice no teor da Súmula nº 7 do STJ, in verbis: "A pretensão de simples reexame de provas não enseja recurso especial".
+Desta forma, indubitável que o decisum ora atacado abordou todos os pontos necessários à composição da lide, oferecendo conclusão conforme a prestação jurisdicional solicitada, encontrando-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições, o que impõe a rejeição dos presentes embargos. Verifica-se, na verdade, que o objetivo da embargante é obter um novo julgamento de mérito do recurso, sendo absolutamente inaceitável na via aclaratória.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
