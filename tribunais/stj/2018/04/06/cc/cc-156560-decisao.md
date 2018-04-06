@@ -1,0 +1,56 @@
+EMENTA
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUSTIÇA LABORAL. ATOS EXECUTÓRIOS. COMPETÊNCIA DO JUÍZO UNIVERSAL. ART. 76 DA LEI N. 11.101/2005.
+1. Os atos de execução dos créditos individuais e fiscais promovidos contra empresas falidas ou em recuperação judicial, tanto sob a égide do Decreto-Lei n. 7.661/45 quanto da Lei n. 11.101/2005, devem ser realizados pelo Juízo universal. Inteligência do art. 76 da Lei n. 11.101/2005. Precedentes.
+2. Conflito de competência conhecido para declarar competente o Juízo de Direito da 5ª Vara Cível e de Arbitragem de Goiânia.
+DECISÃO
+1. Trata-se de conflito de competência com pedido de liminar, suscitado contra, de um lado, o JUÍZO DE DIREITO DA 5.ª VARA CÍVEL E ARBITRAGEM DE GOIÂNIA - GO, no qual tramita a recuperação judicial, e, de outro, o JUÍZO DA 13.ª VARA DO TRABALHO DE GOIÂNIA - GO, no qual está sendo processada a reclamação trabalhista n. 0010961-42.2017.5.18.0013.
+Informa o Suscitante que a recuperação judicial foi deferida em 28/4/2017 (fls. 56-60).
+Contudo, o Juízo laboral determinou o prosseguimento da execução trabalhista, com a determinação de pagamento do débito exequendo em 48 horas ou de garantia da execução sob pena de penhora (fl. 117).
+Requereu, a título liminar, a suspensão imediata do feito trabalhista e a declaração da competência do Juízo da recuperação para deliberar sobre questões urgentes; e, no mérito, a confirmação do provimento liminar.
+Liminar concedida às fls. 129-131.
+Informações prestadas pelos Juízos suscitados às fls. 141-142 e 147.
+Parecer do Ministério Público, às fls. 149-152, opinando pela declaração da competência do Juízo da recuperação judicial:
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO DO TRABALHO. RECUPERAÇÃO JUDICIAL. ATOS CONSTRITIVOS. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. ART. 6º, § 2º e 47, DA LEI N. 11.101/2005. RETOMADA DAS EXECUÇÕES. FALTA DE RAZOABILIDADE.
+O Juízo universal é o competente para os atos que importem em constrição do patrimônio da empresa em processo de recuperação judicial, enquanto mantida essa condição. Homenagem ao princípio da preservação da empresa.
+Parecer pelo conhecimento do conflito, para que seja declarada a competência do MM. Juízo de Direito da 5ª Vara Cível e Arbitragem de Goiânia - GO.
+É o relatório.
+2. Com efeito, evidencia-se o conflito de competência entre o Juízo da 5.ª Vara Cível e Arbitragem de Goiânia/GO, que deferiu o pedido de recuperação judicial em 28/4/2017 (fls. 56-60) e o Juízo da 13ª Vara do Trabalho de Goiânia/GO, que determinou o prosseguimento da execução trabalhista, com a determinação de pagamento do débito exequendo em 48 horas ou de garantia da execução sob pena de penhora (fl. 117).
+3. A jurisprudência desta Corte de Justiça firmou-se no sentido de que os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo juízo universal.
+Confira-se o teor do art. 76 da Lei de Falência:
+Art. 76. O juízo da falência é indivisível e competente para conhecer todas as ações sobre bens, interesses e negócios do falido, ressalvadas as causas trabalhistas, fiscais e aquelas não reguladas nesta Lei em que o falido figurar como autor ou litisconsorte ativo.
+Nessa linha, via de regra, não se verifica a possibilidade de prosseguimento automático das execuções individuais posteriormente ao processamento e, por conseguinte, à aprovação do plano de recuperação judicial, de modo que é atribuída exclusividade ao juízo universal onde se processa a recuperação para a prática de atos de execução do patrimônio da sociedade recuperanda, ainda que os créditos trabalhistas sejam posteriores ao pedido de recuperação.
+A razão de ser da supremacia dessa regra de competência é a concentração, no juízo da recuperação judicial, de todas as decisões que envolvam o patrimônio da recuperanda, a fim de não comprometer a tentativa de mantê-la em funcionamento.
+Dessarte, em conformidade com o princípio da preservação da empresa, o juízo de valor acerca da essencialidade ou não do bem ao funcionamento da sociedade cumpre ser realizada pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação dos bens da empresa recuperanda.
+Nesse sentido, os seguintes precedentes da Segunda Seção:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. DEFERIMENTO DO PEDIDO LIMINAR PARA DETERMINAR QUE, NOS AUTOS DA EXECUÇÃO FISCAL, O JUÍZO DA VARA DO TRABALHO ABSTENHA-SE DE PRATICAR ATOS EXECUTÓRIOS QUE IMPORTEM NA CONSTRIÇÃO OU ALIENAÇÃO DE BENS DA EMPRESA SUSCITANTE E DESIGNAR O JUÍZO DE DIREITO EM QUE SE PROCESSA A RECUPERAÇÃO JUDICIAL PARA DECIDIR, EM CARÁTER PROVISÓRIO, AS MEDIDAS URGENTES.
+CONFLITO EM QUE SE DISCUTE A DESTINAÇÃO DO PATRIMÔNIO DE EMPRESA SOB RECUPERAÇÃO. COMPETÊNCIA DA SEGUNDA SEÇÃO. PRECEDENTES. DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. NÃO SUSPENSÃO DA EXECUÇÃO FISCAL, DEVENDO-SE, TODAVIA, SUBMETER A PRETENSÃO CONSTRITIVA DIRECIONADA AO PATRIMÔNIO DA EMPRESA EM RECUPERAÇÃO JUDICIAL AO JUÍZO UNIVERSAL. ENTENDIMENTO PERFILHADO PELA SEGUNDA SEÇÃO DESTA CORTE DE JUSTIÇA. EXEGESE QUE NÃO ENSEJA INFRINGÊNCIA À CLÁUSULA DE RESERVA DE PLENÁRIO. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE.
+1. Considerando que a controvérsia gira em torno da destinação do patrimônio de empresa sob recuperação judicial, e não sobre a definição da competência para o processamento de execução fiscal, o conflito deve ser processado e julgado pela Segunda Seção, nos termos do art. 9º, § 2º, IX, do RISTJ. Precedentes.
+2. De acordo com o entendimento jurisprudencial consolidado no âmbito da Segunda Seção desta Corte de Justiça, embora o deferimento do processamento da recuperação judicial não tenha, por si só, o condão de suspender as execuções fiscais, na dicção do art. 6º, § 7º, da Lei n. 11.101/05, a pretensão constritiva direcionada ao patrimônio da empresa em recuperação judicial deve, sim, ser submetida à análise do juízo universal, em homenagem ao princípio da preservação da empresa.
+3. A exegese ora adotada de modo algum encerra violação ao Princípio da Reserva de Plenário, previsto no art. 97 da Constituição Federal, notadamente porque não se procedeu à declaração de inconstitucionalidade, mas sim à interpretação sistemática dos dispositivos legais sobre a matéria. Precedentes da Segunda Seção do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no CC 136.040/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 13/05/2015, DJe 19/05/2015)
+--
+AGRAVO REGIMENTAL NO CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA ARREMATANTE DA UNIDADE PRODUTIVA DA VARIG S/A EM FACE DE JUÍZOS DO TRABALHO E JUÍZO FALIMENTAR. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. A execução individual trabalhista e a recuperação judicial apresentam nítida incompatibilidade concreta, porque uma não pode ser executada sem prejuízo da outra.
+2. O Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei n.º 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo.
+3. Competência do Juízo da Direito da 1.ª Vara Empresarial do Rio de Janeiro, para o prosseguimentos das execuções trabalhistas.
+4. Agravo regimental desprovido.
+(RCD no CC 137.886/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 12/08/2015, DJe 24/08/2015)
+--
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. EMPRESA EM RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITOS GARANTIDOS POR CESSÃO FIDUCIÁRIA. APRECIAÇÃO DO CARÁTER EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA EXECUÇÃO EM RELAÇÃO AOS COOBRIGADOS. APLICAÇÃO DO ART. 49, § 1º, DA LEI N. 11.101/2005.
+COMPETÊNCIA DO JUÍZO DE DIREITO DA 10º VARA CÍVEL DE SÃO PAULO - SP.
+1. É atribuição exclusiva do Juízo universal apreciar atos de constrição que irão interferir na preservação da atividade empresarial, sendo competente para constatar o caráter extraconcursal do crédito discutido nos autos da ação de execução.
+2. A concessão da recuperação judicial não suspende a realização dos atos executórios em relação aos avalistas, nos termos do art. 49, § 1º, da Lei n. 11.101/2005. Portanto competente o Juízo de Direito da 10º Vara Cível de São Paulo - SP para prosseguir com a execução.
+3. Agravo regimental parcialmente provido.
+(AgRg no CC 124.795/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 26/06/2013, DJe 01/08/2013)
+--
+"CONFLITO DE COMPETÊNCIA. IMISSÃO DE POSSE NO JUÍZO CÍVEL. ARRESTO DE IMÓVEL NO JUÍZO TRABALHISTA. RECUPERAÇÃO JUDICIAL EM CURSO. CREDOR TITULAR DA POSIÇÃO DE PROPRIETÁRIO FIDUCIÁRIO. BEM NA POSSE DO DEVEDOR. PRINCÍPIOS DA FUNÇÃO SOCIAL DA PROPRIEDADE E DA PRESERVAÇÃO DA EMPRESA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO.
+1. Em regra, o credor titular da posição de proprietário fiduciário de bem imóvel (Lei federal n. 9.514/97) não se submete aos efeitos da recuperação judicial, consoante disciplina o art. 49, § 3º, da Lei 11.101/05.
+2. Na hipótese, porém, há peculiaridade que recomenda excepcionar a regra. É que o imóvel alienado fiduciariamente, objeto da ação de imissão de posse movida pelo credor ou proprietário fiduciário, é aquele em que situada a própria planta industrial da sociedade empresária sob recuperação judicial, mostrando-se indispensável à preservação da atividade econômica da devedora, sob pena de inviabilização da empresa e dos empregos ali gerados.
+3. Em casos que se pode ter como assemelhados, em ação de busca e apreensão de bem móvel referente à alienação fiduciária, a jurisprudência desta Corte admite flexibilização à regra, permitindo que permaneça com o devedor fiduciante "bem necessário à atividade produtiva do réu" (v. REsp 250.190-SP, Rel. Min. ALDIR PASSARINHO JÚNIOR, QUARTA TURMA, DJ 02/12/2002).
+4. Esse tratamento especial, que leva em conta o fato de o bem estar sendo empregado em benefício da coletividade, cumprindo sua função social (CF, arts. 5º, XXIV, e 170, III), não significa, porém, que o imóvel não possa ser entregue oportunamente ao credor fiduciário, mas sim que, em atendimento ao princípio da preservação da empresa (art. 47 da Lei 11.101/05), caberá ao Juízo da Recuperação Judicial processar e julgar a ação de imissão de posse, segundo prudente avaliação própria dessa instância ordinária.
+5. Em exame de conflito de competência pode este Superior Tribunal de Justiça declarar a competência de outro Juízo ou Tribunal que não o suscitante e o suscitado. Precedentes.
+6. Conflito conhecido para declarar a competência do Juízo da 2ª Vara Cível de Itaquaquecetuba - SP, onde é processada a recuperação judicial da sociedade empresária".
+(CC n. 110.392/SP, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 24/11/2010, DJe 22/3/2011).
+3. Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 5ª Vara Cível e Arbitragem de Goiânia/GO para deliberar sobre todos os atos de constrição referentes ao patrimônio da recuperanda.
+Publique-se. Intimem-se. Oficie-se.
