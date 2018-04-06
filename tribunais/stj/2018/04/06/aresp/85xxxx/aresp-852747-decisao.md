@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República.
+Consta dos autos que o agravante foi condenado pela prática do crime tipificado no art. 33, § 1º, inciso III, c/c o art. 40, inciso III, ambos da Lei n. 11.343/2006, à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 680 dias-multa, sendo-lhe facultado o direito de recorrer em liberdade (e-STJ fls. 336/342).
+Irresignada, a defesa interpôs recurso de apelação, ao qual o Tribunal de origem negou provimento (e-STJ fls. 399/405).
+Nas razões do recurso especial, alega-se negativa de vigência aos arts. 33, § 1º, inciso III, e 40, inciso III, ambos da Lei n. 11.343/2006.
+Argumenta-se que o delito em epígrafe "somente pode ser praticado por aquele que tem a propriedade, posse, administração, guarda ou vigilância do local de que se utiliza ou consente que outrem dele se utilize". "No entanto,  ..  o recorrente adquiriu a propriedade do imóvel em questão, somente no mês de novembro do ano de 2012, enquanto que o crime que se discute neste recurso, ocorreu em 1º de agosto de 2010" (e-STJ fls. 416/417).
+Sustenta-se, ademais, que, " e m razão da não configuração do tipo penal previsto no artigo 33, inciso III da lei de drogas, também não pode ser configurado o artigo 40, inciso III da mesma lei, isto porque, como é cediço, este último artigo é causa especial de aumento de pena, logo, não existindo o crime, não há falar em causa de aumento de pena" (e-STJ fl. 418).
+Requer-se, desse modo, o "provimento do presente Recurso Especial para anular a decisão atacada absolvendo o recorrente com base no artigo 386, inciso III do Código de Processo Penal" (e-STJ fl. 422).
+Foram apresentadas contrarrazões (e-STJ fls. 425/430).
+Inadmitido o recurso especial, ascenderam os autos a esta Corte por meio deste agravo.
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ fls. 471/473).
+É o relatório. Decido.
+O acórdão impugnado encontra-se fundamentado, na parte que interessa, nos seguintes termos (e-STJ fls. 403/404; grifos acrescidos):
+ ..
+A propriedade do imóvel do denunciado restou comprovada por meio da certidão de fls. 198.
+Diligência realizada pelo próprio representante ministerial culminou com a produção de depoimento, acostado a fls. 93, dando conta que o acusado traficava em sua residência.
+Cumpre observar que o imóvel fica de frente para a praça pública "Bela Vista", local de grande circulação de crianças e jovens, situação que facilita a disseminação das substâncias tóxicas, potencializando a lesão ao bem jurídico tutelado pela norma.
+Pois bem.
+A materialidade do delito de tráfico de entorpecentes restou consubstanciada pelo laudo de exame químico-toxicológico de fls. 272/274.
+ ..
+Cumpre observar a respeito do imóvel em que surpreendido o réu e tido como local de traficância, conforme o fez a digna Magistrada em sua r. Decisão, que "não há relevância na esfera penal o momento de aquisição da propriedade, como quer fazer crer a defesa. Fato é que o acusado, embora não proprietário do imóvel, foi flagrado no interior da residência no ano de 2010, vale dizer, bem antes à sua aquisição para moradia e de sua família. Sem prejuízo, daquele ano até a presente data, seu nome vem citado em interceptações telefônicas autorizadas judicialmente, em outros boletins de ocorrência lavrados, tudo a denotar que prossegue em franca empreitada criminosa".
+Condenação, em suma, de rigor, calcada em elementos probatórios firmes, seguros e convincentes, concatenados desde a fase inicial da investigação.
+A partir da acurada leitura do acórdão recorrido, verifica-se que, ao contrário do sustentado nas razões recursais, a conduta atribuída ao ora agravante se amolda ao ilícito descrito no art. 33, § 1º, inciso III, da Lei de Drogas. Veja-se, por oportuno, o teor do mencionado dispositivo:
+Art. 33. Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar:
+Pena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa.
+§ 1º Nas mesmas penas incorre quem:
+I - importa, exporta, remete, produz, fabrica, adquire, vende, expõe à venda, oferece, fornece, tem em depósito, transporta, traz consigo ou guarda, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, matéria-prima, insumo ou produto químico destinado à preparação de drogas;
+II - semeia, cultiva ou faz a colheita, sem autorização ou em desacordo com determinação legal ou regulamentar, de plantas que se constituam em matéria-prima para a preparação de drogas;
+III - utiliza local ou bem de qualquer natureza de que tem a propriedade, posse, administração, guarda ou vigilância, ou consente que outrem dele se utilize, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, para o tráfico ilícito de drogas.
+Com efeito, a conduta de quem utiliza local ou bem de qualquer natureza de que tem a propriedade, posse, administração, guarda ou vigilância para o tráfico ilícito de drogas incorre nas mesmas penas cominadas ao crime do art. 33, caput, da Lei n. 11.343/2006. E, na hipótese dos autos, afirmaram as instâncias ordinárias que o agravante já utilizava o imóvel do qual posteriormente veio a ser proprietário para fins de tráfico, ficando comprovado que o bem já lhe pertencia.
+Nesse contexto, para se desconstituir tais premissas, esta Corte teria, impreterivelmente, que proceder ao reexame de todo o acervo fático-probatório dos autos, o que é terminantemente vedado pelo óbice da Súmula n. 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. MATERIALIDADE. COMPROVADA. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS COM BASE NAS PROVAS DOS AUTOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. IMPROVIDO.
+1. As instâncias de origem registraram que "as provas produzidas em juízo, especialmente os depoimentos das testemunhas indicadas pelo Ministério Público Federal, conjugadas com elementos informativos hauridos no inquérito policial nº 0935/2008, e dos respectivos incidentes processuais de representação de prisão preventiva e de interceptação de conversas telefônicas, evidenciaram de maneira muito convincente a autoria e a culpabilidade do acusado [NOME], que era um dos principais agentes idealizadores e gestores da formação e atuação da rede criminosa do tráfico de drogas", de modo que para se chegar à conclusão diversa, seria necessário o reexame de todo o conjunto fático-probatório, o que é vedado na via do recurso especial, tendo em vista o óbice da Súmula 7 deste Superior Tribunal de Justiça.
+2. Agravo regimental improvido. (AgRg no AREsp 439.351/RN, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/08/2017, DJe 29/08/2017, grifei).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. MATÉRIAS NÃO DEBATIDAS NA INSTÂNCIA DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ.
+A inexistência de pronunciamento da Corte recorrida sobre as matérias trazidas no recurso especial impossibilita a sua análise diretamente por este Tribunal Superior, ante a manifesta ausência de prequestionamento, incidindo o óbice previsto no Enunciado nº 211 da Súmula deste Superior Tribunal de Justiça.
+DESCRIÇÃO SUFICIENTE DA CONDUTA CRIMINOSA. INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. SUPERVENIÊNCIA DE CONDENAÇÃO. INÉPCIA SUPERADA. INTERCEPTAÇÃO TELEFÔNICA. DECISÃO FUNDAMENTADA. LEGALIDADE. TRANSCRIÇÃO INTEGRAL. DESNECESSIDADE. NULIDADE RELATIVA. PAS DE NULLITÉ SANS GRIEF. AÇÃO CONTROLADA. PRÉVIA AUTORIZAÇÃO JUDICIAL. DESNECESSIDADE. ABSOLVIÇÃO. REEXAME DE PROVAS. ÓBICE DA SÚMULA N. 7/STJ. DOSIMETRIA. PENA-BASE. CONDENAÇÕES ANTERIORES. ELEVADA QUANTIDADE DE DROGA. EXASPERAÇÃO. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+ ..
+7. A desconstituição do julgado para se concluir pela absolvição das condutas imputadas ou pela incidência do princípio da consunção demanda o revolvimento do material probante dos autos, procedimento de análise exclusivo das instâncias ordinárias e vedado ao Superior Tribunal de Justiça, tendo em vista o óbice previsto na Súmula nº 7/STJ.
+ ..
+9. Agravo regimental desprovido. (AgRg no REsp 1496003/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/04/2017, DJe 10/05/2017, grifei).
+Por fim, pleiteia o agravante que, uma vez admitida a não configuração do delito, seja afastada a causa de aumento de pena prevista no inciso III do art. 40 da Lei n. 11.343/2006. Nesse ponto, a irresignação igualmente não prospera, considerando que ficou mantido o reconhecimento da prática delitiva.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
