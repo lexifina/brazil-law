@@ -1,0 +1,25 @@
+DECISÃO
+    1. Em 6.4.2018, o Ministro Edson Fachin submeteu ao exame desta presidência questão para “prevenir eventual controvérsia sobre a distribuição” da presente reclamação nos termos seguintes:
+    “Trata-se de reclamação aforada por Luiz Inácio Lula da Silva contra ato do Tribunal Regional Federal da 4ª Região.
+    Pleiteia o reclamante, de início, a distribuição por prevenção ao eminente Min. Marco Aurélio, que, embora vencido na medida cautelar, permanece como Relator das ADCs 43 e 44, apontadas como paradigma na reclamação em apreço.
+    Diante do exposto, e a fim de prevenir eventual controvérsia sobre a distribuição, determino a remessa do feito à Presidência, autoridade maior neste Tribunal no tema à luz da ordem normativa regimental (art. 13, III e VII, RISTF), que melhor dirá sobre a matéria.
+    Comunique-se e remeta-se com a urgência atribuída ao feito na peça inicial à Presidência”.
+    2. A análise da questão posta revela situação jurídica incontroversa e absolutamente consolidada no sentido adotado pela Secretaria Judiciária, nos termos da legislação vigente e do Regimento Interno deste Supremo Tribunal.
+    3. O art. 70, § 1º, do Regimento Interno deste Supremo Tribunal Federal é expresso ao determinar que “será objeto de livre distribuição a reclamação que tenha como causa de pedir o descumprimento de súmula vinculante ou de decisão dotada de efeito erga omnes“.
+    É o que se tem na espécie, na qual se afirma que teria sido descumpridos os termos da medida cautelar proferida em ação declaratória de constitucionalidade (parágrafo 1o. do art. 11 da Lei n. 9868/1999).
+    4. A distribuição realizada pela Secretaria Judiciária deste Supremo Tribunal observou estritamente os ditames legais e regimentais, inclusive com registro do fundamento adotado, conforme se verifica da certidão a seguir transcrita (Doc-e 11):
+    “Certifico que, considerando o disposto no § 1º do Art. 70 do Regimento Interno do Supremo Tribunal Federal, deixei de apontar a prevenção do presente feito para a ADC nº 43 ou para a ADC nº 44, ambas de relatoria do Exmo. Sr. Ministro Marco Aurélio”.
+    5. Não se há, portanto, cogitar de questionamento prévio “para prevenir eventuais controvérsias”, especialmente considerada a clareza do dispositivo em foco expresso na certidão sobre a distribuição.
+    Neste exato sentido, afirmou, por exemplo, o Ministro Sepúlveda Pertence na Reclamação n. 2.851/SC:
+    "Certo, sou o relator da ADIn 2996 que impugna a lei estadual referida. Mas as reclamações não alegam desrespeito à decisão, de resto, inexistente, da ação direta - tanto que, se assim fosse, a distribuição seria livre - mas a usurpação da competência do Supremo Tribunal Federal, o que pode gerar solução contraditória - como apontou a Advocacia-Geral da União nas RCL 2806 e 2855, razão pela qual aquelas reclamações foram remetidas ao em. Min. Gilmar Mendes (relator da primeira distribuída - em 30.8.04 - a RCL 2790, indeferida a liminar em 6.9.04)." (grifos nossos)
+    A livre distribuição à reclamação que tenha como causa de pedir o descumprimento de decisão proferida em ação de controle concentrado de constitucionalidade ficou assentada no julgamento da questão de ordem suscitada pelo Ministro Moreira Alves, relator na Reclamação n. 2.220/RO, a qual obteve a seguinte ementa:
+    “EMENTA: Reclamação. Distribuição por prevenção. Questão de ordem quanto à distribuição.
+    - Quando a causa de pedir da reclamação é a preservação da autoridade de decisão desta Corte, a distribuição dela se dá por prevenção, consoante o disposto no artigo 70 do seu Regimento Interno, ao relator da causa principal. Sucede que essa prevenção se dá quando há causa principal de que seja parte o reclamante, e não quando o desrespeito não seja a uma decisão concreta com relação ao reclamante, mas, sim, a uma tese firmada pelo Tribunal em processo de que o reclamante não seja parte, caso em que a distribuição se faz livremente, por não haver prevenção temática.
+    Questão de ordem que se resolve no sentido de que seja cancelada a distribuição da presente reclamação feita por prevenção, para que seja ela redistribuída livremente” (Plenário, DJ 13.6.2003).
+    Esse entendimento tem sido pacificamente observado na distribuição de inúmeras reclamações, sendo exemplos: Reclamação n. 26.636, distribuída ao Ministro Ricardo Lewandowski; Reclamação n. 26.609, distribuída ao Ministro Luiz Fux; Reclamação n. 26.533, distribuída ao Ministro Ricardo Lewandowski; Reclamação n. 26.437, distribuída ao Ministro Marco Aurélio; Reclamação n. 24.871, distribuída ao Ministro Edson Fachin; Reclamação n. 25.326, distribuída ao Ministro Edson Fachin; Reclamação n. 12.949, distribuída ao Ministro Dias Toffoli.
+    6. Pelo exposto, inexistindo qualquer irregularidade na distribuição livre da presente reclamação, determino sejam estes autos eletrônicos restituídos imediatamente ao Ministro Relator.
+    À Secretaria Judiciária para providências urgentes.
+    Publique-se.
+    Brasília, 6 de abril de 2018, às 21h33min.
+Ministra CÁRMEN LÚCIA
+Presidente
