@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interno interposto por [NOME], desafiando decisão monocrática de fls. 585/587, que o conheceu do agravo e deu provimento ao recurso especial, sob o fundamento de que a jurisprudência deste Superior Tribunal firmou-se no sentido de que os conselhos profissionais possuem natureza jurídica de autarquia e, por consequência, as execuções contra eles ajuizadas devem seguir o rito previsto no art. 730 do CPC/73 e 100 da Constituição Federal.
+Irresignada, a parte agravante sustenta que o julgamento do presente feito deveria ficar sobrestado até pronunciamento definitivo do STF, porque foi reconhecida repercussão geral da questão relativa à incidência ou não, em relação aos débitos dos Conselhos de Fiscalização Profissional, da sistemática prevista no artigo 100 e incisos da Constituição da República Federativa do Brasil e no artigo 730 e seguintes do vetusto Código de Processo Civil de 1973, a qual prevê que os pagamentos devidos pela Fazenda Pública serão realizados por meio de precatório requisitório.
+A parte agravada apresentou impugnação ao recurso (fls. 614/622).
+É o relatório.
+Melhor compulsando os autos, reconsidero a decisão agravada, tornando-a sem efeito.
+Retomando à análise do agravo em recurso especial, observa-se que o Supremo Tribnal Federal, no julgamento do RE nº 938.837/SP (Relator(a): Min. Edson Fachin, Relator(a) p/ Acórdão: Min. Marco Aurélio, Tribunal Pleno, DJe-216 public. 25-9-2017), em fixou a seguinte tese, com repercussão geral: "o regime de precatórios previsto no art. 100 da Constituição da República não se aplica aos conselhos de fiscalização profissional". Nesse contexto, verifica-se que o inconformismo do Conselho Regional de Enfermagem do Paraná não comporta êxito.
+Ante o exposto, exercendo o juízo de retratação, reconsidero a decisão agravada de fls. 585/587 para negar provimento ao agravo em recurso especial do Conselho Regional de Enfermagem do Paraná.
+Publique-se.
