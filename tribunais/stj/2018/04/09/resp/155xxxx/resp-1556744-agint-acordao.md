@@ -1,0 +1,54 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. O ACÓRDÃO QUE CONFIRMA A CONDENAÇÃO NÃO INTERROMPE O LAPSO PRESCRICIONAL.
+1. O curso da prescrição interrompe-se pela publicação da sentença ou do acórdão condenatório recorríveis, o que ocorrer em primeiro lugar (art. 117, IV, do Código Penal).
+2. A Corte Especial deste Tribunal Superior, no julgamento do AgRg no RE nos EDcl no REsp n. 1301820/RJ, Rel. Ministro Humberto Martins, DJe 24/11/2016, pacificou o entendimento de que o acórdão confirmatório da condenação não constitui novo marco interruptivo prescricional, ainda que modifique a pena fixada.
+3. No caso, tendo em vista que a pena imposta ao agravado, afastando-se o acréscimo pelo concurso formal de crimes, não excede a 2 anos, transcorreu o prazo prescricional de 4 anos (art. 109, V, do Código Penal) entre o dia da publicação da sentença condenatória, 31/1/2014 (e-STJ fl. 295), e a presente data, sendo forçoso reconhecer a prescrição da pretensão punitiva estatal, na modalidade intercorrente.
+4. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (RELATOR):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL contra decisão na qual declarei extinta a punibilidade do agravado, pela prescrição da pretensão punitiva, julgando, por conseguinte, prejudicado o recurso especial, nos seguintes termos (e-STJ fls. 559/561):
+Trata-se de recurso especial interposto por MAURÍLIO INÁCIO ARALDI, com amparo no art. 105, III, alíneas a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o recorrente foi condenado às penas de 2 anos e 4 meses de detenção, em regime aberto, e suspensão do direito de dirigir veículo automotor, pelo período de 1 ano, como incurso no art. 302, caput, da Lei n. 9.503/1997, na forma do art. 70, caput, do Código Penal.
+O Tribunal de origem deu parcial provimento ao recurso de apelação interposto pela defesa, apenas para deferir ao réu o benefício da assistência judiciária gratuita. Eis a ementa do acórdão (e-STJ fl. 384):
+APELAÇÃO CRIME. HOMICÍDIO CULPOSO NO TRÂNSITO. ART. 302, CAPUT, DUAS VEZES, DO CTB. IRRESIGNAÇÃO DEFENSIVA. Preliminar. Nulidade por cerceamento de defesa. Indeferimento de prova pericial postulada pelo apelante. Perícia que nada influiria no deslinde do feito. Provas dos autos suficientes a esclarecer as questões acerca do ponto de impacto, posição final dos automóveis e excesso de velocidade com que a vítima conduzia seu veículo, o que restou corroborado pela prova testemunhai. Prejuízo não demonstrado. Rejeitada a preliminar. Mérito. Materialidade e autoria comprovadas, na medida em que o acusado agiu com imprudência, ao efetuar manobra inapropriada para o local, invadindo a pista contrária e cortando a frente do veículo em que tripulavam as vítimas, que vinha na via principal. Agir culposo que levou à colisão e causou a morte das vítimas. Eventual falta de cuidado de uma das vítimas não afasta a responsabilização do réu (art. 29, "caput", do Código Penal). Penas. Pena cumulativa de suspensão da habilitação para dirigir veículo automotor fixada em patamar adequado, um ano, em se tratando de dois homicídios culposos. A fixação da prestação de serviços à comunidade em uma hora de tarefa por dia de condenação respeita a previsão legal contida no § 3º do art. 46 do Código Penal, não merecendo reparos. O quantum fixado à prestação pecuniária, por sua vez, não se mostrou exagerado, sem fundamentação ou em discordância com disposição legal ou preceito constitucional, e visa atingir a função retributivo-preventiva da pena. Por outro lado, por ter a finalidade de reparar o dano causado pela infração penal, não precisa guardar correspondência ou proporção com a pena privativa de liberdade substituída. Precedentes do STJ. Comprovando a hipossuficiência, poderá pleitear parcelamento no Juízo da Execução. Réu que não tem condições de arcar com as despesas processuais, faz jus ao beneficio da AJG e dispensa do pagamento de custas processuais nos termos do artigo 12 da Lei nº 1.060/50. Rejeitada a preliminar. Apelo parcialmente provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 420/427).
+Nas razões do recurso especial, a defesa sustenta a existência de dissídio jurisprudencial e negativa de vigência aos arts. 59 e 44, §§ 2º e 4º, do Código Penal; e 619 do Código de Processo Penal.
+Busca a absolvição do recorrente, ou, subsidiariamente, a anulação do acórdão dos embargos de declaração, ou a redução da pena e a substituição da pena privativa de liberdade por uma restritiva de direitos e multa, além do cumprimento da pena de prestação de serviços à comunidade na metade do prazo.
+Contrarrazões às e-STJ fls. 477/494.
+O Ministério Público Federal opinou pelo parcial conhecimento do recurso e, na parte conhecida, por seu desprovimento (e-STJ fls. 549/555).
+É o relatório. Decido.
+A insurgência está prejudicada.
+Com efeito, configurada está a prescrição da pretensão punitiva dos delitos imputados ao recorrente. Senão, vejamos.
+Consoante dispõe o art. 110, § 1º, do Código Penal, "a prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa" (redação dada pela Lei n. 12.234, de 2010).
+No caso, tendo em vista que a pena imposta ao recorrente, afastando-se o acréscimo pelo concurso formal de crimes, não excede a 2 anos (e-STJ fl. 293), a pretensão punitiva prescreve em 4 anos, conforme prevê o art. 109, inciso V, do Código Penal, in verbis:
+Art. 109. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1º do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: (Redação dada pela Lei nº 12.234, de 2010).
+ ..
+V - em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois.
+Dessa forma, tendo em vista que entre o dia da publicação da sentença condenatória (31/1/2014, conforme e-STJ fl. 295) e a presente data transcorreu prazo superior a 4 anos, forçoso reconhecer a prescrição da pretensão punitiva estatal, na modalidade intercorrente.
+Ante o exposto, com fulcro no art. 107, IV, do Código Penal, c/c o art. 61 do Código de Processo Penal, declaro extinta a punibilidade do recorrente pela prescrição da pretensão punitiva, em relação aos delitos que lhe são ora imputados, e julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
+Em suas razões, o agravante sustenta que, "ocorrendo ou não alteração relevante no decreto condenatório, a decisão a ser eventualmente executada a partir do julgamento de segundo grau será necessariamente o acórdão, o qual, portanto, configura marco interruptivo da prescrição" (e-STJ fl. 574).
+Assim, requer o acolhimento do agravo, para que seja afastado o decreto de prescrição.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (RELATOR):
+A irresignação não merece prosperar, uma vez que o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que merece ser integralmente mantida.
+Com efeito, a decisão agravada encontra-se amparada na orientação jurisprudencial pacífica desta Corte de que, nos termos do art. 117, IV, do Código Penal, o curso da prescrição interrompe-se pela publicação da sentença ou do acórdão condenatório recorríveis, o que acontecer primeiro; sendo certo que o acórdão que apenas confirma a condenação, ainda que modifique a pena fixada, não constitui novo marco prescricional. Confira-se, a propósito, o seguinte julgado da Corte Especial do STJ:
+AGRAVO REGIMENTAL EM PETIÇÃO EM RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO. EXTINÇÃO DA PUNIBILIDADE. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO, MAS QUE MAJOROU A PENA APLICADA. NÃO OCORRÊNCIA DE NOVO MARCO INTERRUPTIVO DA PRESCRIÇÃO. PRESCRIÇÃO CARACTERIZADA.
+1. Nos termos do art. 117 do Código Penal, o prazo prescricional interrompe-se pela publicação da sentença ou acórdão condenatórios recorríveis. O acórdão que confirma a condenação, mas majora ou reduz a pena, não constitui novo marco interruptivo da prescrição. Precedentes: AgRg nos EDcl no AgRg no Ag 1.112.682/SP, Rel. Min. ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 1º/3/2016, DJe 9/3/2016; AgRg no AgRg no REsp 1.393.682/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/4/2015, DJe 6/5/2015, HC 243.124/AM, Rel. Min. JORGE MUSSI, QUINTA TURMA, DJe 20/8/2012 .
+2. Hipótese em que o agravado foi condenado a penas superiores a 4 e inferiores a 8 anos de reclusão, incidindo, portanto, o prazo prescricional de 12 anos, nos termos do disposto no art. 109, inciso III, do Código Penal.
+3. Da última causa interruptiva da prescrição, a publicação da sentença condenatória, em 24/1/2002, até a decisão agravada, observa-se o transcurso de mais de 12 anos para ambos os crimes imputados ao réu. Não tendo sido iniciado o cumprimento da pena nem tendo ocorrido nenhuma outra causa interruptiva, está caracterizada a prescrição.
+Agravo regimental improvido (AgRg no RE nos EDcl no REsp. 1.301.820/RJ, Rel. Ministro HUMBERTO MARTINS, DJe 24/11/2016, grifei).
+No caso, tendo em vista que a pena imposta ao ora agravado, afastando-se o acréscimo pelo concurso formal de crimes, não excede a 2 anos (e-STJ fl. 293), a pretensão punitiva prescreve em 4 anos, conforme prevê o art. 109, inciso V, do Código Penal, in verbis:
+Art. 109. A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1º do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: (Redação dada pela Lei nº 12.234, de 2010).
+ ..
+ V - em quatro anos, se o máximo da pena é igual a um ano ou, sendo superior, não excede a dois.
+Dessa forma, considerando-se que, entre o dia da publicação da sentença condenatória (31/1/2014, conforme e-STJ fl. 295) e a presente data, transcorreu prazo superior a 4 anos, mostra-se forçoso reconhecer a prescrição da pretensão punitiva estatal, na modalidade intercorrente.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
