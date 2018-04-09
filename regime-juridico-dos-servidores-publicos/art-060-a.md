@@ -1,1 +1,1 @@
-Art. 60-A. O auxílio-moradia consiste no ressarcimento de despesas comprovadamente realizadas pelo servidor com aluguel de moradia ou com meio de hospedagem administrado por empresa hoteleira, no prazo de até dois meses após a comprovação da despesa pelo servidor.
+Art. 60-A. O auxílio-moradia consiste no ressarcimento das despesas comprovadamente realizadas pelo servidor com aluguel de moradia ou com meio de hospedagem administrado por empresa hoteleira, no prazo de um mês após a comprovação da despesa pelo servidor.
