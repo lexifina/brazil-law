@@ -1,0 +1,15 @@
+DECISÃO
+    Trata-se de Recurso Extraordinário interposto com fundamento no art. 102, III, “a’, da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, cuja ementa exibe o seguinte cabeçalho:
+    “TRIBUTÁRIO – APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA – ITCD - DOAÇÃO DE QUOTAS SOCIAIS MEDIANTE CLÁUSULA DE RESERVA DE USUFRUTO – INCIDÊNCIA DE EXAÇÃO - LEI ESTADUAL N. 13.136/04- PROGRESSIVIDADE DE ALÍQUOTAS – CONSTITUCIONALIDADE – SENTENÇA MANTIDA – RECURSO DESPROVIDO”
+    A parte recorrente alega que o referido acórdão violou os princípios da legalidade, segurança jurídica, isonomia tributária e artigos 155, I, 145, § 1º, 146, III, “a” e 150 da Constituição Federal.
+    O Tribunal de origem julgou o Recurso Extraordinário parcialmente prejudicado face à decisão proferida pelo Supremo Tribunal Federal no Tema 21 de Repercussão Geral (É constitucional a fixação de alíquota progressiva para o Imposto sobre Transmissão Causa Mortis e Doação — ITCD), admitindo o prosseguimento do recurso quanto às demais teses.
+    É o relatório. Decido.
+    Quanto à alegação de inconstitucionalidade da aplicação de alíquotas progressivas no ITCMD, o Tribunal de origem aplicou adequadamente o precedente de Repercussão Geral desta CORTE ao julgar prejudicado o apelo extremo.
+    No que se refere à alegação de inconstitucionalidade da Lei Estadual 13.136/2004 de Santa Catarina por ausência de Lei Complementar que regulamente a cobrança do ITCD sobre bens móveis (no caso: quotas sociais), o Recurso Extraordinário não merece ser acolhido, pois a solução da controvérsia depende de revisão de fatos e provas com base na legislação local aplicável ao referido imposto (Lei Estadual 13.136/04), o que é incabível em Recurso Extraordinário, conforme consubstanciado nas Súmulas 279 (Para simples reexame de prova não cabe recurso extraordinário) e 280 (Por ofensa a direito local não cabe recurso extraordinário). Neste sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ITCD. NÃO OCORRÊNCIA DO FATO GERADOR. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. SÚMULA 279 DO STF. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – Para dissentir da conclusão adotada pelo Tribunal a quo acerca da não ocorrência do fato gerador do  ITCD,  seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 desta Corte, bem como seria imprescindível a interpretação da legislação infraconstitucional pertinente, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta, o que inviabiliza o recurso extraordinário. II – Agravo regimental improvido.” (RE 726677AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 22/05/2013 - destaquei)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 9 de abril de 2018.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
