@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JOSUALDO JESUINO DA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado do Ceará.
+Os autos dão conta de que, em 30/1/2008, o paciente obteve junto a Vara de Execuções Criminais o benefício da progressão ao regime semiaberto (e-STJ fl. 72). No entanto, em virtude de o apenado ter descumprido, por mais de uma vez, as condições impostas, o juiz singular, na data de 21/6/2010, suspendeu tal benefício e, consequentemente, decretou sua prisão (e-STJ fl. 92).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fl. 139):
+HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ROUBO MAJORADO TENTADO. EXECUÇÃO DA PENA. PROGRESSÃO DO REGIME PARA O REGIME SEMIABERTO. DESCUMPRIMENTO DAS CONDIÇÕES ESTABELECIDAS EM AUDIÊNCIA ADMONITÓRIA. PLEITO DE REVOGAÇÃO DA PRISÃO COM O RETORNO AO REGIME MENOS GRAVOSO. DESCABIMENTO. COMETIMENTO DE FALTA GRAVE. POSSIBILIDADE DE SUSPENSÃO DAS CONDIÇÕES DO REGIME SEMIABERTO. ART. 118 DA LEI DE EXECUÇÃO PENAL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. Ordem conhecida e denegada.
+1. O cometimento de fato definido como crime ou de falta grave, consoante o art. 118 da Lei de Execução Penal, autoriza a suspensão cautelar das condições do regime de cumprimento de pena.
+2. In casu, mesmo ciente de suas obrigações perante o Juízo da Execução, o paciente, pela segunda vez, deixou de se apresentar à Cadeia Pública de Juazeiro do Norte, uma das condições impostas para a sua permanência no regime semiaberto, o que, nos termos do art. 50, inciso V, configura falta grave e enseja a mencionada suspensão.
+3. Ordem conhecida e denegada.
+No presente writ, a defesa afirma que "a revogação de regime do paciente e decretação da prisão ocorreu violando a Lei de Execuções Penais, tanto na restauração do regime semiaberto, como na determinação da nova regressão de regime. O Juízo impetrado em atendimento ao parecer do Ministério Público determinou a prisão do paciente, sem a garantia do contraditório, ampla defesa e designação prévia de audiência de justificação" (e-STJ fl. 3).
+Sustenta que "o benefício do paciente foi revogado desrespeitando o princípio do contraditório, ampla defesa e o devido processo legal, previsto no art. 118, § 2º, da Lei nº 7.210/84, que reza, nas hipóteses do inciso I e do parágrafo anterior, deverá ser ouvido, previamente, o condenado. Inexiste previsão legal que a prisão do apenado deve ser decretada antecipadamente sem audiência prévia ou justificação das faltas, agindo o magistrado contrariamente a previsão legal da Lei de Execução Penal" (e-STJ fl. 3).
+Aduz que, "desde a data em que foi decretada a prisão do paciente, jamais se realizou a audiência de justificação, ou sequer o paciente foi ouvido previamente, ou respeitado seu direito de ampla defesa e contraditório" (e-STJ fl. 3).
+Por isso, requer, liminarmente, seja sustada a regressão de regime, expedindo-se o competente alvará de soltura, e, no mérito, que o paciente seja mantido no regime semiaberto (e-STJ fls. 1/10).
+O pedido liminar foi indeferido pelo Ministro Og Fernandes, então relator (e-STJ fl. 146).
+Foram prestadas as informações (e-STJ fls. 150/166, 194/212, 213/216, 234/250 e 256).
+O Ministério Público Federal, ao se manifestar, opinou pelo não conhecimento do habeas corpus (e-STJ fls. 179/181).
+É, em síntese, o relatório.
+Consoante se verifica das informações prestadas pelo Juízo da 2ª Vara de Execuções Criminais da Comarca de Presidente Prudente/SP, "em 01.03.2018, este Juízo expediu alvará de soltura em favor do paciente, ante o cumprimento integral das penas impostas na execução n. 4611.36.2005.8.06.0112/0. O alvará de soltura foi cumprido sem impedimentos e o paciente colocado em liberdade ainda em 01.03.2018" (e-STJ fl. 256).
+Nessas circunstâncias, constatada a extinção da pena pelo seu integral cumprimento, nada resta a ser apreciado no presente writ.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
