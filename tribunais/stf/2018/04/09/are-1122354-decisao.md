@@ -1,0 +1,24 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “Apelação Cível - Mandado de Segurança - Aposentadoria Especial Policial Militar - Inteligência do artigo 28 do Decreto nº 260/70 - Comprovação do preenchimento dos requisitos para a aposentadoria especial, com direito à paridade e integralidade Sentença concessiva da segurança mantida Recursos não providos” (pág. 137 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 40, § 1°, § 3°, § 4°, § 8°, e § 17; 42, § 1°, e § 4°; e 142, § 3°, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Consta do voto condutor do acórdão recorrido:
+    “De fato, o Regime Previdenciário dos Policiais Militares no Estado de São Paulo é regido pelo Decreto n° 260/70, que em seu artigo 28 estabelece a aposentadoria no prazo de 30 anos de efetivo serviço, com vencimentos e vantagens integrais da graduação.
+    Artigo 28 - A reforma, a pedido, poderá ser concedida à Praça que contar, no mínimo, 30 anos de efetivo serviço, com vencimentos e vantagens integrais da graduação.
+    Tal aposentadoria especial do policial militar leva em consideração a contagem do tempo de serviço de modo especial (30 anos) inferior aos demais servidores públicos civis.
+    Existindo regime previdenciário próprio dos policiais militares, a estes não se aplica o regime próprio dos servidores públicos civis, tampouco o regime geral da previdência social.
+    Assim, não é possível a aplicação do artigo 40, da Constituição Federal, que trata do regime próprio dos servidores públicos civis, bem como os dispositivos da Lei 8.213/91, que rege os planos de benefícios do regime geral da previdência social.
+    Portanto, em razão do Decreto n° 260/70, que é legislação estadual específica, dispondo sobre a inatividade temporária e definitiva dos componentes da Polícia Militar, inaplicável outro regime previdenciário.
+    No entanto, verifica-se que o Impetrante, de fato, cumpriu os requisitos previstos no Decreto nº 260/70, pois, consta na Certidão Comum nº CPRv-099/11/16 que o Impetrante ingressou nas fileiras da Corporação em 11.02.1992, e conta com um total de 33 (trinta e três) anos, 05 (cinco) meses e 22 (vinte e dois) dias de serviços (fls. 69), fazendo jus, portanto, ‘aos vencimentos e vantagens integrais da graduação‘.
+    Estando comprovado nos autos o preenchimento pelo Impetrante dos requisitos necessários à reforma, a procedência do seu pedido é de rigor.
+    Correta, pois, a sentença de procedência.
+    Por derradeiro, considera-se prequestionada toda matéria infraconstitucional e constitucional, observando-se que é pacífico no STJ que, tratando-se de prequestionamento, é desnecessária a citação numérica dos dispositivos legais, bastando que a questão posta tenha sido decidida (EDROMS 18205/SP, Min. Felix Fischer, DJ 08.05.2006, p. 24).
+    Em face do exposto, nega-se provimento aos recursos oficial e da Fazenda do Estado” (págs. 138- do documento eletrônico 1).
+    Assim, para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais pertinentes ao caso (Súmula 280/STF), sendo certo que eventual ofensa à Constituição seria apenas indireta. Nesse sentido, cito o ARE 710.946-AgR/SP, de relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. Policial militar. Negativa de prestação jurisdicional. Não ocorrência. Ofensa reflexa. Aposentadoria especial. Critérios diferenciados. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. O acórdão recorrido está em sintonia com a jurisprudência firmada pelo Plenário desta Corte no julgamento da ADI nº 3.817/DF e ratificada, em sede de repercussão geral, nos autos do RE nº 567.110/AC-RG, ocasião em que este Supremo Tribunal Federal reconheceu a recepção pela Constituição da República de 1988 do art. 1º da Lei Complementar federal nº 51/85, que estabelece critérios diferenciados para a aposentadoria especial de servidores públicos policiais. 4. Agravo regimental não provido”.
+    Menciono, também, o RE 1.009.203/RO, de relatoria do Ministro Edson Fachin; ARE 821.618/SP, de relatoria do Ministro Teori Zavascki.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 9 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
