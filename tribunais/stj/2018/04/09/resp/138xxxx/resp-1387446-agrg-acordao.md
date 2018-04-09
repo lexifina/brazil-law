@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MOTIVAÇÃO DAS DECISÕES JUDICIAIS. FUNDAMENTAÇÃO SUFICIENTE. AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. Não subsiste a alegação de ofensa aos arts. 5º, XXXV, e 93, IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+Agravo regimental improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Benedito Gonçalves, Raul Araújo, Sérgio Kukina, Joel Ilan Paciornik, Felix Fischer, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros João Otávio de Noronha, Luis Felipe Salomão e Mauro Campbell Marques.
+Convocados os Srs. Ministros Sérgio Kukina e Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo regimental interposto por [NOME] e OUTROS contra decisão monocrática que apreciou recurso extraordinário interposto com o objetivo de reformar acórdão desta Corte assim ementado (fl. 1.153, e-STJ):
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FRAUDE AO PROCEDIMENTO LICITATÓRIO. ART. 90 DA LEI N. 8.666/1993. OFENSA AO CARÁTER COMPETITIVO DO CERTAME. JURISPRUDÊNCIA DOMINANTE DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N. 7 DO STJ. INAPLICABILIDADE. AGRAVO NÃO PROVIDO.
+1. O relator, monocraticamente, poderá dar ou negar provimento ao recurso especial quando houver entendimento dominante acerca do tema. Súmula n. 568 do STJ.
+2. Destaca-se que "não ofende o princípio da Súmula 7 emprestar-se, no julgamento do especial, significado diverso aos fatos estabelecidos pelo acórdão recorrido.  .. " (AgRg nos EREsp 134.108/DF, Rel. Ministro EDUARDO RIBEIRO, CORTE ESPECIAL, DJ 16/08/1999).
+3. A orientação dominante desta Corte Superior é no sentido de que o art. 90 da Lei n. 8.666/1993 estabelece um "crime em que o resultado exigido pelo tipo penal não demanda a ocorrência de prejuízo econômico para o poder público, haja vista que a prática delitiva se aperfeiçoa com a simples quebra do caráter competitivo entre os licitantes interessados em contratar, ocasionada com a frustração ou com a fraude no procedimento licitatório" (REsp n.
+1.498.982/SC, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 18/04/2016) 4. Agravo regimental não provido."
+Foram opostos dois embargos de declaração, sendo ambos rejeitados, conforme acórdãos de fls. 1.181/1.189 e 1.211/1.217, e-STJ.
+A decisão agravada negou seguimento ao recurso extraordinário nos termos da seguinte ementa (fl. 1.265, e-STJ):
+"RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS ARTS. 5º, XXXV, E 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. NÃO OCORRÊNCIA. TEMA 339/STF. PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA INEXISTENTE. TEMA 660/STF. RECURSO A QUE SE NEGA SEGUIMENTO."
+No presente recurso, os agravantes aduzem, em síntese, que "a decisão monocrática ora guerreada não foi pautada pelo melhor entendimento sobre a matéria, ensejando a reforma da decisão objeto do presente Agravo Regimental, a fim de que a decisão seja reformada para permitir o regular tramite do Recurso Extraordinário" (fl. 1.283, e-STJ).
+Impugnação apresentada (fls. 1.286/1.290, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MOTIVAÇÃO DAS DECISÕES JUDICIAIS. FUNDAMENTAÇÃO SUFICIENTE. AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. Não subsiste a alegação de ofensa aos arts. 5º, XXXV, e 93, IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+Agravo regimental improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Em que pese ao esforço contido nas razões recursais, não prospera a pretensão de reforma da decisão prolatada.
+Conforme consignado na análise monocrática, quanto à alegada ofensa aos arts. 5º, XXXV, e 93, inciso IX, da Constituição Federal, por violação do dever de fundamentação no acórdão recorrido, observa-se que a questão foi decidida pelo Supremo Tribunal Federal, no regime da repercussão geral, por ocasião do julgamento do AI-RG-QO n. 791.292/PE, relatado pelo Ministro Gilmar Mendes nos termos da seguinte ementa, in verbis:
+"Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral." (STF, AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes, DJe de 13/8/2010 - Tema n. 339 da sistemática da repercussão geral.)
+Nos termos da jurisprudência firmada pelo STF, o atendimento ao comando normativo contido nos arts. 5º, XXXV, e 93, IX, da Constituição Federal exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes (Tema 339/STF).
+Assim, para efeito de análise de conformidade da decisão com o decidido sob o regime de repercussão geral, deve ser verificado se o aresto atacado possui motivação suficiente à solução da controvérsia ou se, à míngua da satisfação desse requisito, caracterizou-se a afronta ao princípio constitucional inscrito no inciso IX do art. 93 da CF.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO CRIMINAL. AUSÊNCIA DE REPERCUSSÃO GERAL SOBRE OS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DE CORTES DIVERSAS. VIOLAÇÃO AOS ARTS. 5º, XXXV, LIV, LV E 93, IX, DA CONSTITUIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. CONTRARIEDADE AO ART. 93, IX, DA LEI FUNDAMENTAL. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO.
+ ..
+IV - A exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento.
+V - Agravo regimental improvido." (AI 819.102 AgR/RS, Rel. Ministro RICARDO LEWANDOWSKI, Primeira Turma, DJe de 11/4/2011, sem grifos no original.)
+Importante consignar que, nesta fase processual, a análise da questão constitucional ora em comento está adstrita à aferição da existência ou não de fundamentação suficiente para lastrear o acórdão recorrido. Por conseguinte, a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido pela Vice-Presidência desta Corte.
+Neste toar, ficou consignado no acórdão combatido, após análise e nova qualificação jurídica do contexto fático do autos, que "o art. 90 da Lei n. 8.666/1993 estabelece um "crime em que o resultado exigido pelo tipo penal não demanda a ocorrência de prejuízo econômico para o poder público, haja vista que a prática delitiva se aperfeiçoa com a simples quebra do caráter competitivo entre os licitantes interessados em contratar, ocasionada com a frustração ou com a fraude no procedimento licitatório"" (fl. 1.157, e-STJ). Tal é o entendimento de ambas as turmas competentes para o julgamento de matéria criminal no STJ.
+Assim, observa-se que as razões de decidir expendidas revelam, no meu entender, a adoção de fundamentação satisfatória ao deslinde da controvérsia. Ao contrário do que alegam os recorrentes, o decisum observou de maneira escorreita, conforme preconizado pelo STF, a devida entrega da prestação jurisdicional, não configurando, por conseguinte, ofensa à Constituição Federal.
+Outrossim, salienta-se que o STF já firmou entendimento de que o art. 5º, LV, da Constituição Federal e os princípios neles insculpidos (ampla defesa, contraditório e devido processo legal) não apresentam relevância constitucional, carecendo, portanto, de repercussão geral quando a análise de alegação a tais princípios demandar o exame de normas infraconstitucionais, o que é o caso dos autos.
+A ementa do acórdão paradigma ostenta o seguinte teor:
+"Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral." (ARE 748.371 RG, Rel. Min. GILMAR MENDES, julgado em 6/6/2013, publicado em 1º/8/2013.)
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. VIOLAÇÃO AO ART. 5º, LIV e LV, DA CF/88. ALEGAÇÃO DE OFENSA AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA OU AOS PRINCÍPIOS DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. REPERCUSSÃO GERAL REJEITADA. ARE 748.371-RG (REL. MIN. GILMAR MENDES, TEMA 660). EXAME DE FATOS E DE DIREITO LOCAL. SÚMULAS 279 E 280 DO STF. PRECEDENTES. REQUISITOS PARA A CONCESSÃO DO MANDADO DE SEGURANÇA (AI 800.074, REL. MIN. GILMAR MENDES, TEMA 318). QUESTÕES INFRACONSTITUCIONAIS. REPERCUSSÃO GERAL NEGADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO." (ARE 941.784 AgR, Relator Min. TEORI ZAVASCKI, Segunda Turma, julgado em 7/10/2016, processo eletrônico DJe-226, divulgado em 21/10/2016, publicada em 24/10/2016.).
+Ante o exposto, não tendo os agravantes trazido argumentos capazes de infirmar a decisão agravada, nego provimento ao agravo regimental.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
