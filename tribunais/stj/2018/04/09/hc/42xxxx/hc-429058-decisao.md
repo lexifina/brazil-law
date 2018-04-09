@@ -1,0 +1,48 @@
+EMENTA
+HABEAS CORPUS. ARTIGOS 180, 297 E 304, TODOS DO CÓDIGO PENAL. PRINCÍPIO DA CONSUNÇÃO. TEMA NÃO SUSCITADO/ENFRENTADO PELA INSTÂNCIA DE ORIGEM. COGNIÇÃO INVIABILIDADE. NÃO CONHECIMENTO.
+1. Não é possível a esta Corte debruçar-se sobre temas não enfrentados pela Corte local, sob o risco de supressão de instância. Na espécie, não foi suscitada e, por conseguinte, enfrentada pelo Tribunal de origem a questão relativa à aplicação do princípio da consunção, fato que obsta a cognição desta Corte sobre o tema.
+2. Habeas corpus não conhecido.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 0009285-78.2014.8.26.0114).
+Consta dos autos que o paciente foi denunciado pela prática dos delitos previstos nos artigos 180, 297 e 304, todos do Código Penal, à pena total de 5 anos de reclusão e 30 dias-multa, em regime inicial semiaberto.
+Interposta apelação criminal pela defesa, o Tribunal de origem manteve os exatos termos da sentença em acórdão assim fundamentado:
+Nega-se provimento ao recurso.
+A presente apelação visa, exclusivamente, a redução das penas impostas, em virtude da confissão do acusado e consequentemente a alteração do regime imposto para o início de cumprimento das reprimendas.
+Consta da inicial acusatória que, entre as datas de 1º de setembro de 2013 e 10 de março de 2014, na Rua Edmundo Navarro de Andrade, Parque Industrial, o acusado recebeu e conduziu em proveito próprio, veículo "Ford Ecosport", cor prata, placa [PLACA]/Campinas, pertencente à vítima [NOME], sabendo tratar-se de produto de crime, consoante Boletim de Ocorrência de fls. 10-13 e 14-16. Consta ainda que o réu fez uso de documento público falso em nome de [NOME] e, por fim concorreu para falsificação de [RG], em nome de [NOME], encaminhando fotografia sua ao falsificador para ser aposta neste documento falso.
+Realmente, era incontornável a condenação do apelante, eis que as provas aqui reunidas bem referendam a existência material dos ilícitos e subscrevem, em seu desfavor, as imputações da respectiva autoria (fls. 02, 03-04, 05-06, 10-13, 14-16, 17-20, 45, 46, 47, 111-115 - laudo pericial dos documentos), notadamente a confissão parcial acerca da falsidade de documento público (fls. 214 mídia digital).
+Inviável o acolhimento do pedido para redução das reprimendas.
+Verifica-se que, analisados os critérios do artigo 59 do Código Penal, foram as penas-base fixadas, acertadamente, no patamar mínimo legal, quais sejam, um (1) ano de reclusão, acrescida do pagamento de dez (10) dias-multa, arbitrados no patamar legal mínimo, pelo crime de receptação, dois (2) anos de reclusão pelo crime de falsidade de documento, acrescida do pagamento de dez (10) dias-multa, arbitrados no patamar legal mínimo e (2) anos de reclusão pelo crime de uso de documento falso, acrescida do pagamento de dez (10) dias-multa, arbitrados no patamar legal mínimo, que assim ficaram mantidas em virtude da ausência de agravantes, atenuantes, causas de aumento ou diminuição de penas.
+E mais, ainda que fosse aplicada a atenuante da confissão espontânea, cumpre ressaltar que, face da Súmula 231 do Superior Tribunal de Justiça, que pacificou a questão na jurisprudência nacional, tal circunstância não opera qualquer alteração nas penas do acusado na segunda fase, uma vez que as penas já se encontram em patamar mínimo legal.
+Outrossim, quanto ao regime imposto na sentença de primeiro grau, inviável sua alteração, posto que obedeceu o critério previsto no artigo 33, parágrafo 2º, alínea "b" do Código Penal, salientando-se que, na ocorrência de concurso material aqui imperioso porque se trata de ilícitos cometidos por condutas diversas - a fixação do regime inicial para o cumprimento das penas deve ser feito pelo resultado da sua soma aritmética total, nos termos do artigo 111, da Lei nº 7.210/84.
+Em face do exposto, nega-se provimento ao recurso, mantendo-se incólume a sentença de primeiro grau". (fls. 19/20)
+Neste mandamus, o impetrante sustenta que deve ser aplicado o princípio da consunção no caso concreto, já que o delito de falsificação de documento público absorve o de uso de documento público.
+Alega, ainda, que caso seja aplicado o princípio da consunção, o regime prisional deve ser alterado.
+Requer, liminarmente e no mérito, a aplicação do princípio da consunção e a consequente alteração do regime prisional.
+O pedido liminar foi indeferido às fls. 25-27.
+As informações foram juntadas às fls. 32-52 e 54-123.
+O Ministério Público Federal apresentou parecer, fls. 125-127, opinando pelo não conhecimento do writ.
+É o relatório.
+Busca-se com a presente impetração a aplicação do princípio da consunção e a consequente alteração do regime prisional.
+Não é possível a esta Corte debruçar-se sobre temas não enfrentados pela Corte local, sob o risco de supressão de instância.
+Na espécie, não foi suscitada e, por conseguinte, enfrentada pelo Tribunal de origem a questão relativa à aplicação do princípio da consunção, fato que obsta a cognição desta Corte sobre o tema.
+Nesse cenário, avançar-se sobre a temática implicaria indevida supressão de instância.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. WRIT IMPETRADO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. MOEDA FALSA E PETRECHOS PARA FALSIFICAÇÃO DE MOEDA. APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO. MATÉRIA NÃO APRECIADA EM SEDE RECURSAL. APELAÇÃO. EFEITO DEVOLUTIVO. SUPRESSÃO DE INSTÂNCIA.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+2. O efeito devolutivo do recurso de apelação criminal encontra limites nas razões expostas pelo recorrente, em respeito ao princípio da dialeticidade que rege os recursos no âmbito processual penal pátrio, por meio do qual se permite o exercício do contraditório pela parte que defende os interesses adversos, garantindo-se, assim, o respeito à cláusula constitucional do devido processo legal.
+2. Da análise dos autos, verifica-se que no julgamento da apelação a amejada consunção do crime do artigo 291 do Código Penal pelo previsto no artigo 289 do referido diploma legal não foi alvo de deliberação pela autoridade apontada como coatora.
+3. Tal questão deveria ter sido arguida no momento oportuno e perante o juízo competente, no seio do indispensável contraditório, circunstância que evidencia a impossibilidade do exame do tema por este Sodalício, sob pena de se configurar a indevida prestação jurisdicional em supressão de instância.
+(..)
+4. Recurso desprovido.
+(AgRg no HC 416.642/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/10/2017, DJe 17/10/2017)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CONHECIMENTO DO WRIT. CRIMES DE RECEPTAÇÃO, ROUBO MAJORADO, FORMAÇÃO DE QUADRILHA ARMADA (ATUAL ASSOCIAÇÃO CRIMINOSA) E LATROCÍNIO. TESE DE OFENSA À INDIVIDUALIZAÇÃO DAS PENAS. NÃO OCORRÊNCIA. PENA-BASE. VALORAÇÃO NEGATIVA DA CONDUTA SOCIAL E DA PERSONALIDADE COM BASE NA VIVÊNCIA DELITIVA E NA GRAVIDADE ABSTRATA DOS DELITOS. FUNDAMENTOS INVÁLIDOS. RÉU TECNICAMENTE PRIMÁRIO. EXASPERAÇÃO INDEVIDA PELA CULPABILIDADE. MERA CITAÇÃO DO CONCEITO. PLEITO DE AFASTAMENTO DA AGRAVANTE DO ART. 62, I, DO CP. PACIENTE QUE PROMOVIA, ORGANIZAVA E DIRIGIA AS ATIVIDADES DOS DEMAIS AGENTES. FUNDAMENTO IDÔNEO. REVISÃO. VIA IMPRÓPRIA. TESES DE APLICAÇÃO DA CONTINUIDADE DELITIVA, DO PRINCÍPIO DA CONSUNÇÃO ENTRE OS DELITOS DE RECEPTAÇÃO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E DE APLICAÇÃO SUBSIDIÁRIA DA REGRA DO CONCURSO FORMAL. QUESTÕES NÃO SUSCITADAS, NEM EXAMINADAS NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. CRIME DE FORMAÇÃO DE QUADRILHA (ATUAL ASSOCIAÇÃO CRIMINOSA). ADVENTO DO LEI N. 12.850/2013. MAJORANTE DO PARÁGRAFO ÚNICO. APLICAÇÃO DA LEX MITIOR. REDUÇÃO DO DOBRO À METADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+7. Uma vez que as teses de incidência ou não da regra do crime continuado entre os delitos de receptação, de aplicabilidade do princípio da consunção entre os delitos de receptação e de adulteração de sinal identificador de veículo automotor e de aplicação subsidiária da regra do concurso formal, não foram examinadas pela Corte de origem, nem tampouco foram arguidas em contrarrazões ou em embargos de declaração, não há como serem apreciadas por este Superior Tribunal de Justiça, sob pena de supressão de instância, operando-se hipótese de preclusão consumativa. Precedente do STJ.
+8. Com o advento da Lei n. 12.850/2013, foi dada nova redação ao art. 288 do CP (formação de quadrilha), o qual passou a denominar-se crime de associação criminosa, reduzindo-se, ainda, o aumento do parágrafo único do dobro à metade, razão pela qual deve o novo regramento, mais benéfico, retroagir, para alcançar os delitos praticados anteriormente à sua vigência.
+9. Habeas corpus não conhecido, mas concedida a ordem de ofício para reduzir as penas a 31 anos e 9 meses de reclusão e 65 dias-multa.
+(HC 285.530/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/02/2017, DJe 23/02/2017)
+Dessarte, sendo inviável a cognição do tema relativo à aplicação do princípio da consunção, não há falar em fixação do regime aberto, eis que as penas totalizam quantum superior a 4 anos.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", e XX do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, arquivem-se.
