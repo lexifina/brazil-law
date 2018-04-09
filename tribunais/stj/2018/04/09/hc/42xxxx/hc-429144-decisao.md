@@ -1,0 +1,38 @@
+EMENTA
+PENAL. HABEAS CORPUS. ARTIGO 171, CAPUT, DO CÓDIGO PENAL. FIXAÇÃO DE REGIME INICIAL MAIS BRANDO. INVIABILIDADE. PENA IGUAL A 4 ANOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME INICIAL SEMIABERTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+1. Nos termos do artigo 33 e 59 do Código Penal, fixada a pena em patamar igual a 4 anos de reclusão, a estipulação do regime inicial semiaberto é apropriada, eis que existem circunstâncias judiciais desfavoráveis.
+2. Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EMIDIO JUSTINO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n.º 0000249-71.2014.8.26.0159).
+Depreende-se dos autos que o paciente foi absolvido, em primeiro grau de jurisdição, da imputação da prática do delito descrito no art. 171, caput, do Código Penal (fls. 15/21).
+Inconformado, o Ministério Público interpôs recurso de apelação, ao qual o Tribunal de origem deu provimento a fim de condenar o paciente à pena de 1 ano e 2 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 11 dias-multa, pela prática do delito previsto no art. 171, caput, do Código Penal, nestes termos:
+O réu tem dois antecedentes que o desabonam (fls. 19 e 20 do apenso). Ademais, a conseqüência do crime é irreversível por conta o óbito do animal ocorrido quando este estava em poder do apelado. Destarte, alteia-se a pena-base em 1/6 (um sexto), marcando 01 (um) ano e 02 (dois) meses de reclusão e no pagamento de 11 (onze) dias de pena pecuniária. Neste patamar, torna-se a pena definitiva à luz da inexistência de agravantes ou atenuantes que ornamentaram a conduta ilícita na fase intermediária, tampouco de outras causas que graduam ou mitigam a expiação na terceira fase da fixação da pena.
+Quanto ao regime prisional, adota-se orientação do Superior Tribunal de Justiça: Revela-se adequado na hipótese, consoante o disposto no art. 33, §§ 2o e 3o, do Código Penal, a imposição do regime inicial semiaberto ao paciente, não reincidente, condenado a pena inferior a 04 (quatro) anos, mas que, não obstante, ostenta circunstâncias judiciais desfavoráveis. (Precedentes)" (HC 329197/SP, Rel. Min. FELIX FISCHER, DJ de 06/11/2015). (fl. 12).
+No presente mandamus, sustenta a Defesa, em síntese, a ilegalidade da imposição do regime inicial semiaberto, invocando o enunciado n.º 440 da súmula desta Corte Superior de Justiça e os enunciados n.º 718 e 719 da súmula do Supremo Tribunal Federal.
+Requer, liminarmente, seja permitido ao paciente aguardar em liberdade o julgamento do mérito deste writ, ainda que mediante imposição de medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal. No mérito, pugna seja fixado o regime inicial aberto.
+O pedido liminar e o de reconsideração foram indeferidos às fls. 48-49 e 53-73.
+As informações foram juntadas às fls. 79-96 e 101-129.
+O Ministério Público Federal apresentou parecer, fls. 131-136, opinando pela extinção da impetração sem julgamento do mérito ou pela denegação da ordem.
+É o relatório.
+Busca-se com a presente impetração o abrandamento do regime inicial aberto.
+No que diz respeito ao regime inicial de cumprimento de pena, nos termos do artigo 33, §§ 2.º e 3.º, c.c. o artigo 59, do Código Penal, fixada a pena em 4 (quatro) anos de reclusão, a estipulação do regime inicial semiaberto é apropriada, eis que a pena-base foi fixada acima do mínimo legal, diante de circunstâncias judiciais desfavoráveis (antecedentes e consequências do crime).
+Veja-se, em especial, o disposto no § 3º do art. 33 do Estatuto Repressivo, que faz menção ao exame das circunstâncias judiciais para o estipulação do regime carcerário, in verbis:
+Art. 33.
+§ 3.º A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.
+Confiram-se, a propósito, alguns julgados desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. CONDENAÇÃO CONFIRMADA EM SEDE DE APELAÇÃO. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE, IN CASU. EMBARGOS DE DECLARAÇÃO PENDENTES DE JULGAMENTO. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. PENA INFERIOR A QUATRO ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME PRISIONAL SEMIABERTO. AGRAVO REGIMENTAL A QUE SE DÁ PARCIAL PROVIMENTO.
+1. Este Tribunal Superior, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a admitir a possibilidade de cumprimento provisório da pena após o exaurimento das instâncias ordinárias, por ser o recurso extraordinário desprovido de efeito suspensivo.
+2. No caso em debate, todavia, a determinação de execução provisória da pena do sentenciado decorre de acórdão proferido no julgamento da apelação, ao qual foram opostos embargos de declaração, ainda pendentes de julgamento. Assim, não esgotada a jurisdição do Tribunal de origem, fica obstada a expedição de mandado de prisão para a execução provisória da pena. Precedentes.
+3. Embora a pena corporal tenha sido estabelecida em patamar inferior a 4 anos, o regime inicial semiaberto foi estabelecido exatamente nos termos do que dispõe o art. 33, §§ 2º e 3º, do Código Penal, em razão da presença de circunstância judicial desfavorável.
+Agravo regimental a que se dá parcial provimento, somente para determinar que o paciente aguarde, em liberdade, o esgotamento das vias recursais ordinárias, se por outro motivo não estiver preso. (AgRg no HC 393.117/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/08/2017, DJe 18/08/2017)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (ART. 1º, II, DA LEI N. 8.137/1990). CONDENAÇÃO POR CRIME ANTERIOR COM TRÂNSITO EM JULGADO POSTERIOR AO NOVO DELITO. CARACTERIZAÇÃO DE MAUS ANTECEDENTES. VALIDADE. PRECEDENTE. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. CONTINUIDADE DELITIVA. FRAÇÃO DE 2/3. VÁRIOS CRIMES. MODIFICAÇÃO DO REGIME INICIAL E SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO REGIMENTAL NÃO PROVIDO, COM DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA.
+1. É válida a utilização de condenações criminais definitivas para justificar a exasperação da pena-base, mesmo se tratando de crime anterior com trânsito em julgado da sentença posterior à data de cometimento do novo delito. Precedente.
+2. A confissão espontânea do réu, ainda que tenha sido parcial ou qualificada, deve ser reconhecida, de modo a ensejar a atenuação da pena, caso haja influenciado o convencimento judicial. Precedente.
+3. Nos casos de delitos praticados em continuidade, não implica nulidade, por ofensa ao princípio da individualização da pena, a ausência de exame em separado da dosimetria de cada uma das condutas imputadas, em razão de que é possível o aproveitamento dos fundamentos. Precedente.
+4. A jurisprudência desta Corte reconhece que, diante de circunstância judicial desfavorável, é cabível a fixação do regime intermediário para o início do cumprimento da pena inferior a 4 anos, bem como o indeferimento da substituição da pena privativa de liberdade por restritiva de direitos. Precedentes.
+5. Agravo regimental não provido. Execução imediata da pena determinada. (AgRg no REsp 1397876/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/04/2017, DJe 17/04/2017)
+Dessarte, não merece guarida o pleito de abrandamento do regime inicial, eis presente justificativa idônea, nos termos do art. 33 do Código Penal.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, arquivem-se os autos.
