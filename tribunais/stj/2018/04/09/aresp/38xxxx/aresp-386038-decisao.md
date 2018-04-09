@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial apresentado por ALESSANDRA DA COSTA CUNHA GOMES, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Relator: DES. [NOME]).
+Consta nos autos que a agravante foi denunciada pela suposta prática do crime do art. 33, caput, da Lei n. 11.343/2006.
+O Juízo de primeiro grau desclassificou a infração para a prevista no art. 28 da Lei n. 11.343/2006.
+Irresignadas, apelaram as partes. O Tribunal de origem, por maioria, negou provimento aos apelos defensivos e deu provimento ao recurso ministerial para condenar a agravante às penas de 2 anos e 6 meses de reclusão, em regime inicial fechado, e 250 dias-multa, pela prática do crime do art. 33, caput e § 4º, da Lei n. 11.343/2006 (e-STJ fls. 380/404).
+Os embargos infringentes opostos foram rejeitados e, de ofício, foi fixado o regime inicial aberto, deferindo-se à agravante a substituição da pena privativa de liberdade por restritivas de direitos (e-STJ fls. 457/476).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 490/494).
+No recurso especial, a defesa sustenta ofensa ao art. 28 da Lei n. 11.343/2006, sob o argumento de que "não há nem indícios de que a droga era destinada ao tráfico, apenas suposições desprovidas de base empírica. Muito pelo contrário, certo é que a droga não estava nem embalada da forma usual do tráfico e nem havia no interior do carro qualquer objetivo que pudesse indicar a finalidade de mercancia, ficando claro que a recorrente não passava de mera usuária de drogas" (e-STJ fl. 553).
+Requer o provimento do recurso "para desclassificar a conduta da recorrente para a prevista no artigo 28, da lei 11.343/06" (e-STJ fl. 555).
+Inadmitido na origem, o recurso subiu a esta Corte por meio deste agravo.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 606/609).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O acórdão recorrido está assim fundamentado (e-STJ fls. 469/471):
+De fato, a meu sentir, a decisão majoritária merece prevalecer, pois comungo do entendimento dos nobres desembargadores que condenaram os réus nas penas do delito previsto no artigo 33 da lei 11.343/06, principalmente levando-se em consideração que a investigação policial teve origem no fato de que as ações do acusado já estavam sendo objeto de outra investigação envolvendo o comércio ilícito de entorpecentes.
+Narra a denúncia que policiais federais estavam no local para verificar venda de entorpecentes, tendo ali permanecido cerca de uma hora, quando chegou o veículo dos acusados, dirigido pela ré Alessandra, tendo saído, pela porta do carona o acusado Ubirajara, ocasião em que os policiais sentiram forte odor de maconha exalando do interior do veículo. Minutos após, retornou o acusado, entrando no veículo, momento no qual os policiais procederam à sua abordagem, revistando o veículo, vindo a encontrar a droga no porta-objetos da porta do carona.
+A posse compartilhada da droga pelos acusados restou inconteste, pois inegável que a ré Alessandra agiu em unidade de ações e desígnios com Ubirajara, permanecendo no volante do veículo enquanto seu namorado ia adquirir entorpecente. O fato é que Ubirajara permaneceu fora do veículo, local onde havia "boca de fumo", por aproximadamente dez minutos, tempo suficiente para aquisição da droga, retornando ao veículo onde a ré o aguardava. A acusada admite que consumiu maconha e que tinha ciência de que Ubirajara era usuário de drogas.
+Todavia, não é crível que Alessandra não tivesse pleno conhecimento do que seu namorado (aliás, há mais de 08 anos) fora fazer no local, inclusive, porque aquiescera quanto ao fato, já que era ela quem estava dirigindo o veículo.
+Destaca-se o interrogatório da ré Alessandra: "os fatos narrados na denúncia eram verdadeiros e reiterou que realmente havia drogas no carro, mas que não sabia. Afirmou também que havia feito o uso de maconha antes, mas que não era usuária, pois fumava esporadicamente e que por tal motivo ela e seu namorado foram abordados pelos policiais. Disse que namorava Ubirajara há oito anos e que sempre soube que ele era usuário de drogas devido ao seu comportamento estranho. Respondeu ao membro do Ministério Público que o corréu trabalhava em Búzios onde tem uma sociedade com o proprietário do veiculo no qual eles se encontravam e que quem estava dirigindo o veiculo era ela. À Defesa respondeu que os finais de semana ela costumava passar em Búzios devido ao trabalho do corréu. Por fim Alessandra disse que Ubirajara não faz uso de cocaína ao seu lado, mas tão somente de maconha".
+Ubirajara, em seu interrogatório, afirmou que: "os fatos descritos na denúncia são parcialmente verdadeiros, eis que, não obstante ser verdadeiro a posse da substância entorpecente no veiculo, ele não era traficante. Confessou que foi ao local para adquirir a droga, mas não disse aos policiais o local do ponto de venda. Ao ser indagado pelo Ministério Público onde seria a boca de fumo, Ubirajara respondeu que era na própria esquina onde ocorreram os fatos. Em relação à substância entorpecente encontrada no veiculo, afirmou que encontrava-se localizada na porta do carona. Já com relação ao veiculo, disse ser de propriedade de seu sócio".
+Registre-se que o fato dos réus afirmarem serem usuários da droga, em nada impede que também a vendam, principalmente levando-se em consideração o estado puro da cocaína apreendida, mais de 100gr de pasta de cocaína, o que significa que, manipulada para uso, renderia significativa quantidade.
+Destaca-se que o réu já era na época investigado em outro inquérito relacionado à associação para tráfico de drogas, inclusive, lhe resultou uma condenação neste outro processo, como se transcreve a seguir:  .. .
+Constata-se que a Corte originária, com base nos elementos fáticos-probatórios dos autos, entendeu devida a condenação da agravante pela prática do crime do art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Assim, para modificar o referido entendimento seria necessário rever os elementos fáticos-probatórios dos autos (Súmula 7/STJ).
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 28 DA LEI Nº 11.343/2006. DESCLASSIFICAÇÃO DO DELITO DE TRÁFICO PARA USO DE DROGAS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE. SÚM. 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar a condenação, absolvição e a desclassificação, porquanto é vedado na via eleita o reexame de fatos e provas. Súmula nº 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 512.436/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2014, DJe 03/09/2014).
+ .. .
+DESCLASSIFICAÇÃO PARA PORTE PARA USO PRÓPRIO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. Tendo a instância de origem, após a análise detida do contexto probatório dos autos, concluído de forma fundamentada que o agravante seria o autor do delito imputado, não há que se falar em ilegalidade na decisão impugnada.
+2. A pretensão de absolvição pela fragilidade das provas, bem como da desclassificação da conduta de tráfico de substância entorpecente para o delito de porte para uso próprio mostra-se incabível na via estreita do apelo nobre, por demandar o necessário cotejo fático-probatório, atraindo o óbice da Súmula 7/STJ.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1063834/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 14/11/2017, DJe 22/11/2017).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
