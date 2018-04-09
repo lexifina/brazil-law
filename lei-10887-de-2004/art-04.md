@@ -9,7 +9,7 @@ II - a ajuda de custo em razão de mudança de sede;
 III - a indenização de transporte;
 IV - o salário-família;
 V - o auxílio-alimentação;
-VI - o auxílio pré-escolar;
+VI - o auxílio-creche;
 VII - as parcelas remuneratórias pagas em decorrência de local de trabalho;
 VIII - a parcela percebida em decorrência do exercício de cargo em comissão ou de função comissionada ou gratificada;
 IX - o abono de permanência de que tratam o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional nº 41, de 19 de dezembro de 2003;
@@ -28,5 +28,4 @@ XXI - a Gratificação Específica de Produção de Radioisótopos e Radiofárma
 XXII - a Gratificação de Raio X;
 XXIII - a parcela relativa ao Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira, recebida pelos servidores da carreira Tributária e Aduaneira da Receita Federal do Brasil;
 XXIV - a parcela relativa ao Bônus de Eficiência e Produtividade na Atividade de Auditoria-Fiscal do Trabalho, recebida pelos servidores da carreira de Auditoria-Fiscal do Trabalho.
-XXV - o adicional de irradiação ionizante.
 § 2º O servidor ocupante de cargo efetivo poderá optar pela inclusão, na base de cálculo da contribuição, de parcelas remuneratórias percebidas em decorrência de local de trabalho e do exercício de cargo em comissão ou de função comissionada ou gratificada, da Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal (GSISTE), da Gratificação Temporária do Sistema de Administração dos Recursos de Informação e Informática (GSISP), da Gratificação Temporária de Atividade em Escola de Governo (GAEG), da Gratificação Específica de Produção de Radioisótopos e Radiofármacos (GEPR), da Gratificação de Raio X e daquelas recebidas a título de adicional noturno ou de adicional por serviço extraordinário, para efeito de cálculo do benefício a ser concedido com fundamento no art. 40 da Constituição Federal e no art. 2º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, respeitada, em qualquer hipótese, a limitação estabelecida no § 2º do art. 40 da Constituição Federal.
