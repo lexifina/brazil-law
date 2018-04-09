@@ -1,0 +1,9 @@
+DECISÃO: O presente agravo foi interposto pelo Município de São Paulo/SP contra decisão que negou trânsito ao apelo extremo por ele deduzido, no qual sustentou que o acórdão proferido pelo E. Tribunal de Justiça local teria transgredido preceitos inscritos na Constituição da República.
+    Passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, ao julgar o  ARE 848.993/MG, Rel. Min. GILMAR MENDES, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, fazendo-o em acórdão assim ementado:
+    “Recurso extraordinário com agravo. 2. Percepção de provento de aposentadoria cumulado com duas remunerações decorrentes de aprovação em concursos públicos. Anterioridade à EC 20/98. Acumulação tríplice de remunerações e/ou proventos públicos. Impossibilidade. Precedentes. 3. Repercussão geral reconhecida com reafirmação da jurisprudência desta Corte. 4. Recurso extraordinário provido.”
+    Cabe salientar, por oportuno, que os eminentes Ministros desta Suprema Corte têm determinado a incidência da sistemática da repercussão geral, inclusive quando houver julgamento sobre o mérito da matéria cuja transcendência foi reconhecida (ARE 855.723-AgR-Segundo-ED/RJ, Rel. Min. GILMAR MENDES – RE 606.915/SP, Rel. Min. DIAS TOFFOLI – RE 607.501/SE, Rel. Min. LUIZ FUX – RE 907.942/RS, Rel. Min. EDSON FACHIN – RE 1.029.168/PR, Rel. Min. GILMAR MENDES, v.g.).
+    Isso significa que se impõe, quanto ao Tema nº 921/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal “a quo”.
+    Publique-se.
+    Brasília, 09 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
