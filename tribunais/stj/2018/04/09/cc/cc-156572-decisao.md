@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO COMUM ESTADUAL E JUÍZO TRABALHISTA. AÇÃO TRABALHISTA. SERVIDOR PÚBLICO TEMPORÁRIO. NATUREZA JURÍDICO-ADMINISTRATIVA DO VÍNCULO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da 2ª Vara da Fazenda Pública da Comarca de Osasco/SP em desfavor do Juízo da 1ª Vara do Trabalho de Osasco/SP, nos autos de ação trabalhista ajuizada contra o Município de Osasco/SP, por meio da qual a parte autora objetiva o recebimento de verbas de natureza trabalhista.
+O Ministério Público Federal opinou pela fixação da competência no Juízo Estadual.
+É o breve relatório. Decido.
+O STF, no julgamento da ADI 3.395/DF, em 05.04.2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da Constituição Federal, alterado pela Emenda Constitucional n. 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico- administrativo.
+Por isso, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal), ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça laboral o julgamento dos litígios daí advindos.
+A propósito:
+AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. RECLAMAÇÃO TRABALHISTA. CONFLITO INSTAURADO ENTRE A JUSTIÇA DO TRABALHO E A JUSTIÇA COMUM ESTADUAL. CONTROVÉRSIA SOBRE A VALIDADE DE LEI LOCAL, QUE TRANSMUDOU O REGIME CELETISTA PARA O ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL IMPROVIDO.
+I. O STF, no julgamento da ADI 3.395/DF, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF/88, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+II. É firme a jurisprudência desta Corte, acompanhando o STF, no sentido de que, "se o vínculo estabelecido entre o Poder Público e o servidor for estatutário ou de caráter jurídico-administrativo, a competência para análise das controvérsias trabalhistas será da Justiça Comum (Estadual ou Federal) (..)" (STJ, AgRg no CC 126.125/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira seção, DJe de 30/04/2014).
+VI. Agravo Regimental improvido (AgRg no CC 135.356/RN, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 06/04/2015) (grifamos).
+No caso concreto, como bem ponderado pelo Parquet (fl. 75):
+Consoante consta dos autos, o autor foi contratado sob o regime celetista e por prazo determinado, pelo Município de Osasco/SP, para desempenhar a função de enfermeiro, pelo período de 30/07/2013 a 29/07/2014.
+Conforme reiteradas decisões do Superior Tribunal de Justiça, a relação entre o Município e seus empregados contratados sem prévia aprovação em concurso público é, em regra, de natureza jurídico-administrativa, ainda que se trate de contratação temporária, cuja competência para julgar suas lides é da Justiça Comum.
+A propósito:
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. AGENTE MUNICIPAL DE SAÚDE AMBIENTAL. CONTRATO TEMPORÁRIO FUNDADO NO ART. 37, IX, DA CONSTITUIÇÃO FEDERAL E EM LEIS MUNICIPAIS. NATUREZA JURÍDICO-ADMINISTRATIVA DO VÍNCULO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1 . A autora foi admitida, por tempo determinado, com fundamento no art. 37, IX, da Constituição Federal, daí despontando a feição administrativa do respectivo vínculo funcional, ainda que o instrumento contratual também se suporte em norma local que faça remissão à CLT.
+2. Por conseguinte, a compreensão firmada no Supremo Tribunal Federal e neste Superior Tribunal de Justiça é a de que a contratação de servidor temporário, com arrimo no artigo 37, IX, da CF/1988, é de natureza jurídico-administrativa, o que acarreta na competência da Justiça Comum para solver as controvérsias decorrentes dessa modalidade contratual. Precedentes.
+4. Agravo regimental a que se nega provimento, reafirmada a competência da Justiça Comum Estadual. (AgRg no CC 138.462/MT, Rel. Ministro Sérgio Kukina, Primeira Seção, DJe 27/4/2015) (grifamos).
+Isso posto, conheço do presente conflito para declarar competente para a causa o Juízo de Direito da 2ª Vara da Fazenda Pública da Comarca de Osasco/SP.
+Comuniquem-se. Publique-se. Intimem-se.
