@@ -1,0 +1,15 @@
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA. SÚMULA Nº 150/STF. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE ITAGUATINS, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado de Tocantins, nesses termos ementado:
+1. APELAÇÃO E REEXAME NECESSÁRIO. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO JUDICIAL. SENTENÇA COLETIVA. EXECUÇÃO INDIVIDUAL DE SENTENÇA. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA AÇÃO. É de cinco anos o prazo prescricional para ajuizamento de execução individual de sentença proferida em ação civil pública, nos termos do artigo 1 o do Decreto n o 20.910, de 1932, contado a partir do trânsito em julgado da sentença, consoante entendimento do Superior Tribunal de Justiça em julgamento de recurso repetitivo (RESP. 1.237.643/PR). 2. HONORÁRIOS DE SUCUMBÊNCIA. MAJORAÇÃO. IMPOSSIBILIDADE. Mostra-se razoável, além de remunerar condignamente os trabalhos do advogado, os honorários advocatícios fixados em 10% sobre o valor da execução, principalmente em razão da baixa complexidade, assim como por não ter exigido grande dispêndio de tempo e de trabalho do causídico.
+Sustenta a parte recorrente que o acórdão estadual violou o art. 3º do Decreto nº 4.597, ao argumento que estaria prescrita a pretensão executória.
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão recursal não merece guarida.
+Para o Tribunal a quo
+o prazo prescricional das execuções individuais de sentença proferida em ação coletiva é quinquenal, nos termos do artigo 1º do Decreto nº 20.910, de 1932, contado a partir do trânsito em julgado da sentença proferida em ação civil pública, haja vista a aplicação analógica do artigo 21 da Lei nº 4.717, de 1965 e em virtude da incidência da Súmula nº 150 do Supremo Tribunal Federal, que dispõe "prescreve a execução no mesmo prazo de prescrição da ação." No presente caso, o trânsito em julgado da sentença homologatória se deu na data de 9/9/2010, sendo o prazo final para a propositura da ação executória a data de 9/9/2015. Como a ação executória foi ajuizada em 5/9/2015, não há que se falar em prescrição do direito, de acordo com o entendimento esposado pelo Superior Tribunal de Justiça.
+Com efeito, o prazo prescricional para a propositura da ação executiva contra a Fazenda Pública é de cinco anos, contados a partir do trânsito em julgado da decisão condenatória, conforme verbete sumular nº 150 do Supremo Tribunal Federal: "Prescreve a execução no mesmo prazo de prescrição da ação". Segundo as premissas nos autos, tal prazo não foi superado.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
