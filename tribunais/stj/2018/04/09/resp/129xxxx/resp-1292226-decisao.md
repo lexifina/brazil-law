@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCIANA COSTA LAUTERT, com fundamento nas alíneas "a" e "c" do permissivo constitucional contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ fls. 465):
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO ESTADUAL. APOSENTADORIA POR INVALIDEZ COM PROVENTOS INTEGRAIS, MAS CALCULADOS NA FORMA DA LEI FEDERAL 10.887/04. APOSENTADORIA CONCEDIDA NA VIGÊNCIA DAS ALTERAÇÕES INTRODUZIDAS PELA EMENDA CONSTITUCIONAL 41/03. TEMPUS REGIT ACTUM. AUSÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME.
+Nas razões do especial, a parte recorrente aponta violação dos arts. 186, I, da Lei n. 8.112/1990, e 40 § 3º da CF e à Lei Estadual n. 10.887/200404, bem como divergência jurisprudencial. Aduz que o Tribunal de origem fez inadequada e equivocada interpretação aos casos de concessão de aposentadoria por invalidez decorrente de enfermidade grave e incurável.
+Contrarrazões às e-STJ fls. 201/221.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo positivo de admissibilidade pelo Tribunal de origem (e-STJ fls. 509).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que as pretensões recursais não merecem prosperar.
+Quanto à alegação de ofensa ao dispositivo da Constituição Federal, destaque-se que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+No tocante ao art. 186 da Lei n. 8112/1990, verifica-se a ausência de prequestionamento, tendo em vista que o acórdão de origem não tratou do tema objeto de irresignação do ora agravante. Assim, incide à espécie o entendimento consolidado nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+Cumpre destacar que o recurso especial é apelo extremo, cuja fundamentação é vinculada, sendo defeso o exame de qualquer matéria, inclusive de ordem pública, caso esta não tenha sido objeto de discussão na origem. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SISTEMA FINANCEIRO HABITACIONAL. AGENTE FIDUCIÁRIO. ILEGITIMIDADE PASSIVA. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSENTE.
+1. Impossibilidade de inovação recursal em sede de embargos declaratórios. 2. O Superior Tribunal de Justiça firmou entendimento de que o prequestionamento é indispensável ao conhecimento da questão veiculada no recurso especial, ainda que se trate de matéria de ordem pública.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada. 4. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 1334308/SC, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 15/09/2014).
+Em relação às demais alegações, o acórdão recorrido solucionou a questão com fundamento na Lei local, sendo inviável, portanto, a análise em sede de recurso especial, nos termos da Súmula 280 do STF.
+Por fim, registre-se que, consoante entendimento desta Corte, é inadmissível a comprovação de divergência jurisprudencial quando o aresto indicado como divergente for oriundo de julgamento proferido em sede de habeas corpus, mandado de segurança e recurso ordinário, ainda que se trate de dissídio notório, tendo em vista que o recurso especial não guarda o mesmo objeto/natureza e a mesma extensão dos referidos remédios constitucionais. Nesse sentido: (AgRg no REsp 1408607/PR, Relator, Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 25/09/2014).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, §11, do CPC/2015), à vista do Enunciado Administrativo n. 7 - STJ.
+Publique-se. Intimem-se.
