@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado, com fundamento no art. 105, I, "d", da Constituição Federal, entre o JUÍZO DE DIREITO DA 2ª VARA CRIMINAL DE BRASÍLIA - DF, o suscitante, e o JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE BELÉM - PA, o suscitado.
+Na origem, constata-se denúncia em desfavor de [NOME] pela prática, em tese, do crime do art. 339, caput, do Código Penal.
+O Juízo de Direito da 1ª Vara Criminal de Belém, acolhendo em parte a exceção de incompetência, declinou da sua competência ao entendimento de que o crime teria se consumado na sede de Conselho Nacional do MP.
+Nessa instância, o Ministério Público Federal manifestou-se pelo conhecimento do conflito e pela declaração de competência do Juízo suscitado.
+É o relatório.
+Decido.
+Cumpre registrar, inicialmente, que este conflito negativo de competência deve ser conhecido, porquanto se trata de incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, "d", da Constituição Federal, razão pela qual passo ao seu exame.
+Dispõe o art. 109 da Constituição Federal:
+"Art. 109. Aos juízes federais compete processar e julgar:
+(..)
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral."
+Pelos percucientes fundamentos, adoto como razões de decidir o parecer do Ministério Público Federal, exarado nos seguintes termos:
+"Deve-se reconhecer a competência do Colendo Superior Tribunal de Justiça para julgar o conflito suscitado, por força do disposto no art. 105, I, "d", da Constituição Federal, visto tratar-se de conflito entre juízes vinculados a tribunais diversos.
+Cinge-se o processo sob exame a definir o órgão competente para processar e julgar a ação penal proposta contra [NOME].
+Segundo a denúncia do Parquet do Estado do Pará, posteriormente ratificada pelo Ministério Público do Distrito Federal e Territórios, a conduta ilícita teria consistido em dar causa a instauração de procedimento disciplinar na Corregedoria-Geral do Ministério Público do Pará, após representação oferecida pelo denunciado perante o Conselho Nacional do Ministério Público Nos termos do caput do art. 70 do Código de Processo Penal, "A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução".
+Consoante entendimento dessa Corte Superior, "Considera-se consumado o crime de denunciação caluniosa no local onde foram iniciadas as investigações, ainda que preliminares, sobre o fato denunciado" 1 .
+A representação do denunciado deu ensejo, no Conselho Nacional do Ministério Público, a apuração, de ofício, da suposta falta funcional praticada pelo membro do Ministério Público do Estado do Pará (e-STJ fl. 38), ausente, no entanto, qualquer ato investigatório.
+Tratando-se de representação junto ao CNMP, em regra, o crime se consuma no órgão correicional de origem do investigado, nos termos do art. 74, § 3º, I, do Regimento Interno, que assim dispõe:
+Art. 74. A reclamação disciplinar poderá ser proposta por qualquer interessado, inclusive membro deste Conselho, contra membros, órgãos ou serviços auxiliares do Ministério Público, nos termos do permissivo do art. 130-A, §2º, III, da Constituição Federal.
+(..) § 3º. Não sendo o caso de arquivamento, o Corregedor Nacional mandará ouvir o órgão disciplinar originariamente competente, que deverá:
+I - instaurar procedimento caso tenha tomado conhecimento dos fatos apenas pela comunicação do Corregedor Nacional, cientificando-o, no prazo de dez dias, das providências adotadas, inclusive com cópias dos respectivos atos;
+(..) Segundo narra a exordial acusatória, o procedimento disciplinar preliminar instaurado contra a vítima na Corregedoria-Geral do MP/PA teria decorrido da representação do acusado perante o CNMP. O procedimento disciplinar, após sua instrução, teria sido arquivado.
+De se ver, portanto, que a competência para o processamento e julgamento do feito é do Juízo de Direito da 1ª Vara Criminal de Belém/PA, ora suscitado, em razão de que as investigações, ainda que preliminares, teriam ocorrido apenas no âmbito da Corregedoria-Geral do Ministério Público do Pará.
+Ocorre que, da leitura atenta dos documentos acostados aos autos, evidencia-se que atípica a conduta imputada ao denunciado.
+A norma penal proíbe que se dê causa à instauração de investigação policial, de processo judicial, instauração de investigação administrativa, inquérito civil ou ação de improbidade administrativa contra alguém, imputando- lhe crime de que o sabe inocente.
+A representação do denunciado teve o seguinte teor (e-STJ fl. 21):
+Excelentíssimo Sr. Presidente do Conselho Nacional do Ministério Público [NOME], servidor do Ministério Público do Estado do Amapá, matrícula nº 50098, brasileiro, casado, portador do CPF nº [CPF], RG nº 1717368 Segup/Pa, residente na Rua Eliezer Levy, 2322 Bl. B, na cidade de Macapá/AP, vem, mui respeitosamente, requerer as providências cabíveis em relação à notícia infra, publicada no blog do Barata dia primeiropp. jornalista Pede deferimento. Macapá, 07 de novembro de 2011 [NOME], excelência! Nada mais depreciativo, para a imagem do Ministério Público Estadual, que o constrangedor episódio envolvendo o procurador de Justiça [NOME] (foto), flagrado pela Polícia Rodoviária Federal dirigindo, apesar das inocultáveis evidências de embriagues. As imagens exibidas pela TV Liberal, no Jornal Liberal 1ª Edição de segunda-feira, 31 de outubro, falam por si e contraditam a versão inicialmente oferecida pelo distinto procurador, como se verifica acessando o site da TV Liberal (http://www.tvliberal.com.br/). O visível excesso etílico do distinto procurador de Justiça seria uma questão de consumo interno do cidadão que ele também é se [NOME] não estivesse dirigindo, na contramão do bom sendo e do respeito a lei da qual ele, em tese, é fiscal. Com um agravante:
+qual sua autoridade moral, após o episódio, para permanecer no cargo de vice-corregedor do Ministério Público Estadual
+De se ver que o denunciado apenas encaminhou ao órgão disciplinar nacional notícia de que teve acesso por meio da imprensa. O que se requereu foi que o CNMP tomasse as providências cabíveis quanto ao que fora veiculado na mídia, não se vislumbrando a imputação de prática de crime. Veja-se que o trecho mais crítico da representação apenas repetiu, ipsis litteris, a nota publicada em blog da internet (e-STJ fl. 23).
+É de se reforçar o julgado com o seguinte precedente:
+"PENAL. CONFLITO DE COMPETÊNCIA. DENUNCIAÇÃO CALUNIOSA. COMUNICAÇÃO FALSA DE CRIME. LOCAL DA CONSUMAÇÃO. COMPETÊNCIA DO LOCAL ONDE INICIADAS AS INVESTIGAÇÕES SOBRE O FATO INVERÍDICO.
+1. Sendo indicadas e determinadas as pessoas contra as quais são imputadas a falsa prática de ilícito penal, tem-se configurado, em tese, o crime de denunciação caluniosa e o de comunicação falsa de crime ou contravenção.
+2. Considera-se consumado o crime de denunciação caluniosa no local onde foram iniciadas as investigações, ainda que preliminares, sobre o fato denunciado.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da 1ª Vara Criminal da Comarca de São Vicente/SP, suscitante" (CC 32.496/SP, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, DJ 02/03/2005).
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Belém -PA, o suscitado.
+Comunique-se. Publique-se.
+Cientifique-se ao Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
