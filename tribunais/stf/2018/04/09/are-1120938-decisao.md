@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão da 2ª Turma Recursal do Paraná, que decidiu pela extinção do processo sem julgamento do mérito, pois constatou-se a falta de interesse de agir da recorrente (eDOC 75).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5º, XXXV, do texto constitucional.
+    Nas razões recursais, alega-se que houve a realização de requerimento administrativo prévio ao ajuizamento da ação perante o Poder Judiciário e, em face disso, não poderia o Tribunal de origem se negar a apreciar a demanda.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que os documentos comprobatórios do tempo laborado só foram apresentados quando da provocação do poder judiciário e não no momento do requerimento administrativo, o que demonstra a falta de interesse de agir do recorrente. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Constato, no caso em exame, que o processo administrativo não foi instruído com documentos técnicos relativos às condições de trabalho do autor nos períodos de 26//03/1985 a 08/03/1988, 01/07/1988 a 02/01/1989 e 08/01/1989 a 02/01/1994 (PROCADM1, evento 16).
+    Vale registrar que as atividades exercidas naqueles períodos – Menor Aprendiz, Eletricista e Eletricista de Veículos – não ensejava o enquadramento por categoria profissional.
+    Apenas em juízo o autor apresentou declarações de ex-colegas e prova técnica de empresas apontadas como similares àquelas onde laborou, o que ensejou a conversão de especial para comum dos períodos de 26/03/1985 a 08/03/1988 e 08/01/1989 a 01/02/1994.
+    Concluo, pois, que não restou configurada a necessidade de o autor ingressar em juízo para obter a tutela jurisdicional. Logo, não restou legitimado seu interesse processual, impondo-se a extinção do feito sem o exame do mérito dos períodos recorridos, inclusive daquele cuja especialidade não fora reconhecida.” (eDOC. 75, p. 7)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    "Agravo regimental no recurso extraordinário com agravo. Processual civil. Perda do objeto em mandado de segurança. Falta de interesse de agir. Extinção da ação. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise de legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nº 636 e 279/STF. 2. Agravo regimental não provido." (ARE 737198 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 28.11.2013)
+    "PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO QUE NÃO ATACA O FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA STF 283. AÇÃO POPULAR. EXTINÇÃO DO PROCESSO POR FALTA DE INTERESSE DE AGIR. SÚMULA STF 279. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA À CF. 1. As razões do agravo regimental não atacam todos os fundamentos da decisão agravada, o que atrai a aplicação, no presente caso, da Súmula STF 283. Precedentes. 2. O exame da violação do art. 5º, LXXIII, da CF, no caso, demanda o reexame de fatos e provas dos autos (Súmula STF 279), bem como a análise de legislação infraconstitucional aplicável à espécie (Lei 4.717/65 e CPC), hipóteses inviáveis em sede extraordinária. 3. Agravo regimental a que se nega provimento." (AI 736336 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 17.05.2011)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 9 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
