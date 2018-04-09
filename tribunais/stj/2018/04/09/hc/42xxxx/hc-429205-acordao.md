@@ -1,0 +1,100 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO À PENA DE 5 ANOS E 10 MESES DE RECLUSÃO. REDUÇÃO DA PENA. REGIME DE CUMPRIMENTO. SUPRESSÃO DE INSTÂNCIA. DEMORA NO JULGAMENTO DA APELAÇÃO. QUANTUM DA REPRIMENDA. SOLTURA NÃO JUSTIFICADA. CONHECIMENTO PARCIAL E, NESSA EXTENSÃO, ORDEM DENEGADA, COM RECOMENDAÇÃO.
+1. Hipótese que trata de sentença na qual a paciente restou condenada, em primeiro grau, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado.
+2. Considerando a ausência de apreciação do pleito relacionado à diminuição da reprimenda e fixação de regime de cumprimento menos gravoso, tendo em vista a pendência do julgamento do recurso apelatório na origem, a questão não comporta conhecimento, por manifesta supressão de instância.
+3. A apelação foi distribuída ao Tribunal de origem em junho de 2017, de modo que a demora na análise do recurso remonta a mais de 9 meses, estando a paciente presa.
+4. É cediço que, nos termos do entendimento desta Corte Superior, eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade da reprimenda imposta pela sentença condenatória.
+5. Pelo quantum da pena imposta - 5 anos e 10 meses de reclusão, em regime inicial fechado -, não há indicativos que justifiquem, desde logo, a soltura da paciente, por malferimento aos princípios constitucionais da proporcionalidade e da razoável duração do processo (Constituição da República, art. 5º, LXXVIII).
+6. Consoante orientação das Turmas que compõem a Terceira Seção desta Corte Superior, a delimitação de prazo para o deslinde de recurso de apelação há de ser vista cum grano salis. A despeito de sensível a demora para a apreciação da apelação em processo com réus presos, não há falar em constrangimento ilegal apto a ensejar o relaxamento da prisão, quando a segregação decorre do édito repressor, e o tempo necessário ao julgamento da apelação criminal é significativamente inferior ao quantum determinado pela decisão monocrática para a constrição da paciente.
+7. Todavia, a fim de que não se efetive o apontado constrangimento ilegal, recomenda-se à Corte estadual a apreciação de seu recurso em tempo razoável.
+8. Conhecimento parcial e, nessa extensão, ordem denegada, com recomendação de celeridade no julgamento da apelação.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça: A Sexta Turma, por unanimidade, conheceu parcialmente do pedido e, nesta parte, denegou a ordem, com recomendação, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro.
+Presidiu o julgamento o Sr. Ministro Antonio Saldanha Palheiro.
+RELATÓRIO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SABRINA FERREIRA DA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n.º 0000388-05.2017.8.26.0616).
+Depreende-se dos autos que a paciente foi condenada, em primeiro grau de jurisdição, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, e ao pagamento de 582 dias-multa, pela prática do delito descrito no art. 33, caput, c.c art. 40, III, ambos da Lei n.º 11.343/06 (fls. 13/21).
+Inconformada, a Defesa interpôs recurso de apelação, pendente de apreciação.
+No presente mandamus, alega a Defesa inicialmente, "excessiva demora ma apreciação do recurso de apelação" (fl. 1).
+Afirma que a paciente encontra-se presa preventivamente, desde 22/02/2017.
+Sustenta, ademais, a ilegalidade da imposição do regime inicial fechado, argumentando que "o magistrado "a quo" fixou regime fechado para inicio de cumprimento de pena, com fundamentação apenas lastreada na gravidade abstrata do delito, circunstância já levada em consideração pelo legislador na fixação dos limites a serem observados pelo magistrado na dosimetria da reprimenda" (fl. 2).
+Requer "a concessão de liminar para que seja julgue o recurso de apelação ou seja expedido alvará de soltura em seu favor, até que o mérito deste writ seja julgado" (fl. 8).
+No mérito, pretende "seja a ordem concedida em definitivo para que a paciente possa cumprir sua pena em regime aberto, com pena restritiva de direito (..)" (fl. 8).
+A liminar foi indeferida às fls. 34/35.
+Foram prestadas informações às fls. 56/57.
+Com vista dos autos, manifestou-se o Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral Lindôra Maria Araujo, pela denegação da ordem, com recomendação ao Tribunal de Justiça do Estado de São Paulo de maior celeridade possível no julgamento da apelação nº 0000388-05.2017.8.26.0616 (fls. 71/73).
+Em consulta ao sítio eletrônico do TJSP, consta que, em 07/02/2018, houve alteração de relator. Os autos foram conclusos ao novo relator em 09/02/2018.
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO À PENA DE 5 ANOS E 10 MESES DE RECLUSÃO. REDUÇÃO DA PENA. REGIME DE CUMPRIMENTO. SUPRESSÃO DE INSTÂNCIA. DEMORA NO JULGAMENTO DA APELAÇÃO. QUANTUM DA REPRIMENDA. SOLTURA NÃO JUSTIFICADA. CONHECIMENTO PARCIAL E, NESSA EXTENSÃO, ORDEM DENEGADA, COM RECOMENDAÇÃO.
+1. Hipótese que trata de sentença na qual a paciente restou condenada, em primeiro grau, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado.
+2. Considerando a ausência de apreciação do pleito relacionado à diminuição da reprimenda e fixação de regime de cumprimento menos gravoso, tendo em vista a pendência do julgamento do recurso apelatório na origem, a questão não comporta conhecimento, por manifesta supressão de instância.
+3. A apelação foi distribuída ao Tribunal de origem em junho de 2017, de modo que a demora na análise do recurso remonta a mais de 9 meses, estando a paciente presa.
+4. É cediço que, nos termos do entendimento desta Corte Superior, eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade da reprimenda imposta pela sentença condenatória.
+5. Pelo quantum da pena imposta - 5 anos e 10 meses de reclusão, em regime inicial fechado -, não há indicativos que justifiquem, desde logo, a soltura da paciente, por malferimento aos princípios constitucionais da proporcionalidade e da razoável duração do processo (Constituição da República, art. 5º, LXXVIII).
+6. Consoante orientação das Turmas que compõem a Terceira Seção desta Corte Superior, a delimitação de prazo para o deslinde de recurso de apelação há de ser vista cum grano salis. A despeito de sensível a demora para a apreciação da apelação em processo com réus presos, não há falar em constrangimento ilegal apto a ensejar o relaxamento da prisão, quando a segregação decorre do édito repressor, e o tempo necessário ao julgamento da apelação criminal é significativamente inferior ao quantum determinado pela decisão monocrática para a constrição da paciente.
+7. Todavia, a fim de que não se efetive o apontado constrangimento ilegal, recomenda-se à Corte estadual a apreciação de seu recurso em tempo razoável.
+8. Conhecimento parcial e, nessa extensão, ordem denegada, com recomendação de celeridade no julgamento da apelação.
+
+VOTO
+MINISTRA MARIA THEREZA DE ASSIS MOURA (Relatora):
+A discussão ora vertida diz respeito à alegação de excesso de prazo para o julgamento da apelação interposta pela defesa da paciente, bem como ilegalidade na imposição do regime inicial fechado e menção à necessidade de maior redução na pena da paciente.
+ Da análise dos autos, verifica-se que as questões referentes à pena da paciente e ao regime inicial de cumprimento de pena, ora suscitadas na inicial, não foram analisadas pelo Tribunal a quo, que ainda não julgou o apelo defensivo, o que impede sua apreciação por esta Corte, sob pena de indevida supressão de instância, segundo já consignei quando do indeferimento da liminar (fls. 34/35).
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. PENA FIXADA EM 1 ANO E 8 MESES DE RECLUSÃO. REGIME PRISIONAL FECHADO. DECLARAÇÃO DE INCONSTITUCIONALIDADE DA VEDAÇÃO LEGAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NATUREZA, QUANTIDADE E VARIEDADE DA DROGA APREENDIDA. FUNDAMENTAÇÃO IDÔNEA. SURSIS. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- (..)
+- Evidenciado que a matéria referente à concessão de sursis não foi apreciada pelo Tribunal de origem, não compete a esta Corte Superior sua análise, sob pena de se incorrer em indevida supressão de instância.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo da Vara de Execuções Criminais da Comarca de Tupã/SP, com base em dados concretos, decida acerca da possibilidade de fixar ao paciente regime inicial mais brando de cumprimento de pena, nos termos do art. 33, §§ 2º e 3º, c/c art. 59 do Código Penal.
+(HC 274.020/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 03/02/2015, DJe 19/02/2015)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. EXCESSO DE PRAZO. INOCORRÊNCIA. APLICAÇÃO DA SÚMULA 52/STJ. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. SUPERADA A ALEGAÇÃO DE EXCESSO DE PRAZO. AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO RECORRIDA. DESCABIMENTO. MATÉRIA NÃO DISCUTIDA NO ACÓRDÃO A QUO. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+I - (..)
+III - No tocante à suposta ausência de fundamentação do decreto prisional, verifica-se que a matéria não foi devidamente debatida pelo eg. Tribunal a quo, o que inviabiliza a análise por esta Corte Superior, sob pena de caracterizar indevida supressão de instância.
+Recurso ordinário desprovido.
+(RHC 51.974/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 05/02/2015, DJe 18/02/2015)
+Com relação ao excesso de prazo no julgamento da apelação pelo Tribunal estadual, consigne-se que a paciente foi condenada ao cumprimento de 5 anos e 10 meses de reclusão, pela prática do crime de tráfico de drogas.
+É imperioso ter em linha de consideração que esta Corte firmou a compreensão de que não é possível proceder-se à apreciação meramente aritmética dos prazos previstos na lei processual, impondo-se promover análise mais pormenorizada do caso concreto, à luz do princípio da razoabilidade.
+Estas foram as informações prestadas pela Corte de origem (fls. 56/57):
+Em atenção à solicitação, esclareço que, nos autos da Ação Penal nº 0000388-05.2017.8.26.0616, Controle nº 144/2017, da Primeira Vara Criminal da Comarca de Poá, a ora paciente foi condenada como incursa no art. 33, caput, c.c. o art. 40, III, da Lei nº 11.343/06, às penas de 05 anos e 10 meses de reclusão, em regime inicial fechado, e 582 dias-multa, vedado o recurso em liberdade.
+Dessa r. decisão recorreu a Defesa.
+Distribuída a insurgência neste Tribunal aos 02 de junho de 2017, colheu-se o parecer da Procuradoria Geral de Justiça.
+Aos 12 de janeiro último, em razão de permuta deferida ao Desembargador sorteado, foram os autos encaminhados ao Desembargador Nelson Biazzi, a quem os autos estão conclusos para estudo.
+Diante do informado, não vislumbro o alegado constrangimento ilegal, tendo em vista que o procedimento transcorre com efetiva atuação da autoridade judiciária, não havendo delonga processual de maneira absolutamente desarrazoada.
+Ademais, consoante orientação das Turmas que compõem a Terceira Seção desta Corte Superior, a delimitação de prazo para o deslinde de recurso de apelação há de ser vista cum grano salis. A despeito de sensível a demora para a apreciação da apelação em processo com réus presos, não há falar em constrangimento ilegal apto a ensejar o relaxamento da prisão, quando a segregação decorre do édito repressor, e o tempo necessário ao julgamento da apelação criminal é significativamente inferior ao quantum determinado pela decisão monocrática para a constrição da paciente.
+Nesse sentido, confiram-se estes precedentes:
+ ..  4. Nos termos do enunciado nº 64 da Súmula do Superior Tribunal de Justiça não constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa.
+5. Nos termos do entendimento desta Corte, eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória (HC n. 234.713/CE, Relator Ministro MARCO AURÉLIO BELLIZZE, Quinta Turma, julgado em 12/6/2012, DJe 28/6/2012).
+6. Nesse contexto, considerando a pena total a que foi condenado o paciente - 14 anos de reclusão -, não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, este se encontra impedido de usufruir de benefícios relativos à execução da pena. Além disso, as circunstâncias que causaram a demora já foram superadas.
+7. Ordem não conhecida.
+(HC 406.299/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/09/2017, DJe 26/09/2017, grifei.)
+ ..  3. Não há falar em excesso de prazo no julgamento da apelação, porquanto, da análise do andamento processual constante do endereço eletrônico do Tribunal de origem, o processo foi distribuído em 8/4/2016, tendo sido o parecer da douta Procuradoria Geral de Justiça juntado em 19/4/2016, concluso ao relator em 9/12/2016. Porém, os autos foram redistribuídos por vinculação ao HC 0140320-38.2015.8.24.00, estando concluso ao novo relator em 16/3/2017. Sendo assim, verifica-se que o processo segue trâmite regular, não havendo, pois, falar em desídia do Tribunal de Justiça, o qual tem diligenciado no sentido de dar andamento ao feito, não podendo ser imputada ao Judiciário a responsabilidade pela demora. Ademais, é cediço que eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória. No caso, o paciente foi condenado à pena de 10 anos, 3 meses e 20 dias de reclusão, não restando desarrazoado o prazo para julgamento do recurso defensivo. Precedentes.
+Habeas corpus não conhecido.
+(HC 377.087/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/06/2017, DJe 30/06/2017, grifei.)
+ ..  3. Por ora, não há falar em desarrazoado atraso no julgamento da apelação do paciente. O processo é composto por uma pluralidade de réus, com representantes distintos, o que implica a execução multiplicada dos atos. Após a prolação de sentença condenando três dos cinco acusados, o advogado constituído de um dos condenados quedou-se inerte, o que está gerando certo atraso no julgamento das apelações interpostas tanto pela defesa do paciente quanto pelo Ministério Público.
+4. Para que não se efetive o apontado constrangimento ilegal, recomenda-se ao Tribunal a cisão do processo em relação ao paciente, a fim de garantir a apreciação de seu recurso em tempo razoável, já que a demora está sendo ocasionada pela defesa do corréu.
+5. Ordem denegada, recomendando-se, de ofício, ao Tribunal a cisão do processo em relação ao paciente, a fim de garantir a apreciação de seu recurso em tempo razoável, já que a demora está sendo ocasionada pela defesa do corréu.
+(HC 382.414/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/05/2017, DJe 08/06/2017, grifei.)
+PENAL E PROCESSO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. APELAÇÃO CRIMINAL. EXCESSO DE PRAZO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. HABEAS CORPUS DENEGADO, PORÉM COM RECOMENDAÇÃO DE CELERIDADE NO JULGAMENTO DOS APELOS CRIMINAIS.
+1. Ainda que se encontre o paciente preso desde 4/8/2013, aguardando ao julgamento de seu apelo por mais de 1 ano e 8 meses, possui aplicada pena de 15 anos e 9 meses, em processo com vários réus, um dos quais apresentou razões diretamente no tribunal, somente em novembro de 2015, assim sendo razoavelmente compreensível a demora no julgamento.
+2. É uníssona a jurisprudência desta Corte no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando seja a demora injustificável, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+3. Já se encontrando o feito com o Revisor, pronto para julgamento, melhor é a direta determinação de célere julgamento do apelo.
+4. Habeas corpus denegado, porém recomendado ao Tribunal de origem celeridade no julgamento dos recursos de apelação.
+(HC 383.988/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/05/2017, DJe 11/05/2017, grifei.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE ENTORPECENTES; CORRUPÇÃO DE MENORES. PROLAÇÃO DE SENTENÇA CONDENATÓRIA. NEGADO O RECURSO EM LIBERDADE. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO CRIMINAL. DEMORA JUSTIFICADA. PRINCÍPIO DA RAZOABILIDADE. COMPLEXIDADE DO CASO. QUANTUM DA PENA APLICADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. Os prazos processuais não são peremptórios, bem como o constrangimento ilegal por excesso de prazo não resulta de um critério aritmético. Há de ser realizada pelo julgador uma aferição do caso concreto, de acordo com as suas peculiaridades, em atenção aos princípios da razoabilidade e da proporcionalidade.
+2. Caso em que a ação é complexa, envolvendo 12 réus, contando o feito com mais de mil e quinhentas páginas.
+3. Considerando o quantum da pena imposta aos recorrentes - 12 anos e 6 meses aos dois primeiros, e 8 anos e 10 meses ao terceiro, a serem cumpridos em regime inicialmente fechado -, não há indícios de malferimento aos princípios constitucionais da proporcionalidade e da razoável duração do processo (Constituição da República, art. 5º, LXXVIII).
+4. Recurso a que se nega provimento, com recomendação ao Tribunal de origem de julgamento célere da apelação interposta.
+(RHC 49.070/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 30/06/2016, DJe 01/08/2016, grifei.)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. LATROCÍNIO. CONDENAÇÃO À PENA DE 20 ANOS DE RECLUSÃO. DEMORA NO JULGAMENTO DA APELAÇÃO. COMPLEXIDADE E QUANTUM DA PENA. SOLTURA NÃO JUSTIFICADA. DESPROVIMENTO DO RECURSO ORDINÁRIO, COM RECOMENDAÇÃO.
+1. Hipótese que trata de condenação de 02 (duas) rés, relativa a crime gravíssimo de latrocínio, restando a recorrente condenada, em primeiro grau, à pena de 20 (vinte) anos de reclusão, em regime inicial fechado.
+2. A demora na análise do recurso, pelo Tribunal de origem, é inferior a 5 (cinco) meses. E, tendo em conta a complexidade do recurso a ser julgado e o quantum da pena aplicada à recorrente, não se justifica desde logo sua soltura.
+3. Não merece acolhida o pleito de substituição da prisão preventiva por medidas cautelares alternativas, porquanto insuficientes, prima facie, para o resguardo da ordem pública. Seja pela gravidade in concreto do crime - latrocínio supostamente perpetrado por meio de diversas facadas -, seja pelo quantum da pena imposta - 20 (vinte) anos de reclusão, em regime inicial fechado -, não há indicativos que as medidas previstas no artigo 319 do Código de Processo Penal se apresentem adequadas para o caso sub oculis.
+4. Recurso desprovido, com recomendação de julgamento célere da apelação.
+(RHC 63.050/MT, de minha relatoria, SEXTA TURMA, julgado em 19/11/2015, DJe 03/12/2015, grifei.)
+Não há, dessarte, no meu entender, a pretensa ofensa ao princípio da razoabilidade, mormente porque demarcar prazos peremptórios para o julgamento do recurso de apelação não se mostra plausível frente ao contexto da causa.
+Todavia, a fim de que não se efetive o apontado constrangimento ilegal, entendo deva ser recomendada à Corte estadual a apreciação do recurso em tempo razoável, imprimindo maior celeridade na inclusão do feito em pauta para julgamento.
+Ante o exposto, conheço parcialmente o habeas corpus e, nessa extensão, denego a ordem, conquanto recomende ao Tribunal de origem a célere inclusão do recurso da paciente em pauta de julgamentos, a fim de garantir a apreciação de seu apelo em tempo razoável.
+É como voto.
