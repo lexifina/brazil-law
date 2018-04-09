@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno contra decisão, assim ementada (fl. 222):
+PROCESSUAL CIVIL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante sustenta, em síntese: (a) não ser hipótese para a incidência da Súmula 283/STF; (b) " ..  o acórdão recorrido não aplicou os artigos 198, inciso I, do Código Civil de 2002, e os artigos 79 e 103, parágrafo único, da Lei n. 8.213/91, que estabelecem que não corre prescrição contra menor absolutamente incapaz (fl. 231)"; (c) há identidade entre as situações expostas no dissídio jurisprudencial.
+Ciência do Ministério Público Federal à fl. 239.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): A insurgência não merece prosperar.
+A decisão agravada não conheceu do recurso especial sob os seguintes fundamentos: (a) o recurso especial não trouxe impugnação contra fundamento da Corte de origem, apto, por si só, a manter o que na instância a quo ficou decidido (Súmula 283/STF); (b) a tese afirmada no apelo de que é devido o auxílio-reclusão à recorrente, porque ela não faz parte da mesma família dos irmãos anteriormente habilitados, não foi apreciada pela Corte de origem, o que atrai a inadmissão do recurso em razão da Súmula 282/STF; (c) não foi cumprido o que dispõem os artigos 541, parágrafo único, do CPC/1973 e 255 do RI/STJ, porque: (c.1) ausente a identidade ou semelhança entre os acórdãos, pois o acórdão paradigma informa pensão por morte e não faz referência ao fato de que o INSS já pagou o benefício a outros dependentes, situação essa específica que só é abordada nestes autos; (c.2) não foi indicado, no recurso especial, o normativo de lei federal sobre o qual recai a suposta divergência jurisprudencial, conforme exigido por este Tribunal (REsp n. 1.346.588/DF, Corte Especial), o que atrai o óbice contido na Súmula 284/STF.
+Ocorre que, à exceção do primeiro, os demais fundamentos não foram impugnados especificamente, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
