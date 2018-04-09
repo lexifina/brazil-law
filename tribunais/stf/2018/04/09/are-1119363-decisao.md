@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 2ª Região assim ementado, no relevante:
+    “TRIBUTÁRIO. AÇÃO ORDINÁRIA. EXTINÇÃO DA CORREÇÃO MONETÁRIA DOS BALANÇOS FINANCEIROS PELO ARTIGO 4º DA LEI Nº 9.249/95. CONSTITUCIONALIDADE. HONORÁRIOS ADVOCATÍCIOS”. (eDOC. 18, p. 6)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 145, § 1º; 150, IV; 153, III; e 195, I, do texto constitucional.
+    Nas razões recursais, alega-se que a extinção da correção monetária de balanço, por meio da Lei 9.249/95, gera a tributação a maior das exações que têm como fato gerador o acréscimo patrimonial.
+    Sob essa perspectiva, sustenta-se que o IRPJ e a CSLL passaram a incidir não apenas sobre o lucro, mas também sobre o patrimônio, o que ofende o princípio da vedação do confisco.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Lei nº 9.429/95), consignou que não há direito à correção monetária e, tendo a lei determinado sua não incidência, não há como aplicá-la. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “O artigo 4º, da Lei nº 9.429/95 revogou a correção monetária dos balanços financeiros das empresas previstas nas Leis nº 7.799/89 e 8.200/91, bem como, no parágrafo único, vedou a utilização de qualquer sistema de correção monetária das demonstrações financeiras, inclusive para fins societários.
+    A correção monetária está sujeita à reserva legal, ou seja, a correção monetária somente é possível quando expressamente prevista em lei, e aplica-se nos estritos limites previstos na norma legal. Isto significa dizer que a correção monetária somente se efetua mediante os índices previstos no texto legal, de modo que o Poder Judiciário não pode atuar como legislador positivo, para determinar a aplicação de índice ou critério legal de correção monetária não previsto em lei. Não há norma constitucional que assegure direito à correção monetária, o que foi afirmado pelo Ministro Dias Toffoli, em decisão monocrática no RE nº 508.024.
+    A extinção da correção monetária das demonstrações financeiras não importa tributação de lucro fictício, ofensa ao conceito de renda e afronta aos princípios da capacidade contributiva e da vedação do confisco, porquanto o lucro e conceito legal, que deriva do das inclusões e deduções previstas na legislação ordinária, que pode alterar os critérios para sua alteração sem que isso viole ou desfigure as hipóteses de incidência do IRPJ e da CSLL. O conceito de lucro tributável não está baseado em um fato, mas é um conceito legal, obtido através do ajuste do resultado do exercício, em conformidade com as disposições previstas na legislação. Não há um conceito constitucional ou ontológico de renda que obrigue a correção monetária dos balanços financeiros.” (eDOC. 17, p. 37)
+    Assim, verifica-se que a matéria debatida pelo tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Confiram-se, a propósito, os seguintes precedentes:
+    "AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. CORREÇÃO MONETÁRIA. 1. O deslinde da controvérsia relativa à supressão da correção monetária implementada pela Lei 9.249/95 cinge-se ao âmbito infraconstitucional. 2. Agravo regimental a que se nega provimento." (ARE 932593 AgR, Rel. Min. EDSON FACHIN, Primeira Turma, DJe 06.05.2016)
+    "Agravo regimental em recurso extraordinário. 2. Direito Tributário. 3. IRPJ e CSL. 4. Supressão da correção monetária das demonstrações financeiras. Art. 4º da Lei 9.249/95. Impossibilidade de fixação de índices pelo Poder Judiciário. Ausência de previsão legal. 5. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento." (RE 468600 AgR, de minha relatoria, Segunda Turma, DJe 10.09.2015)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
