@@ -1,0 +1,33 @@
+DECISÃO
+
+Trata-se de recurso especial interposto pela UNIÃO, com respaldo na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 427):
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. AUDITOR DE CONTROLE EXTERNO DO TRIBUNAL DE CONTAS DA UNIÃO. PONTUAÇÃO OBTIDA EM PROVA DISCURSIVA. ERRO MATERIAL NA APURAÇÃO. ALTERAÇÃO. POSSIBILIDADE. AGRAVO RETIDO PREJUDICADO.
+I - Prolatada a sentença de mérito, resta prejudicado o agravo retido interposto contra a decisão que deferiu o pedido liminar, posto que já não mais subsiste tal decisão, sendo integralmente substituída pela sentença concessiva da ordem.
+II -A alteração da pontuação obtida em prova discursiva, sob o fundamento de erro material no cálculo efetuado pela autoridade impetrada, não se confunde com modificação dos critérios estabelecidos pela Administração, para fins de correção das respectivas provas, cabendo a intervenção do Poder Judiciário, com vistas no afastamento de eventual abusividade do ato impugnado.
+Ill - Demonstrada, como no caso, a efetiva ocorrência de erro material na apuração da nota obtida pela candidata, afigura-se legítima a pretensão postulada, em sede mandamental, buscando a correção do aludido erro.
+IV - Agravo retido prejudicado. Apelação e remessa necessária desprovidas.
+Sentença mantida.
+Embargos declaratórios rejeitados. (e-STJ fl. 449)
+No especial, o recorrente apontou violação dos arts. 3º e 41, §3º, ambos da Lei n. 8.666/1993, 10 e 14, parágrafo único, da Lei n. 8.112/1990, 1º c/c 8º da Lei n. 1.533/1951 (artigo 1º c/c 10º da Lei nº 12.016/2009), e 37, I e II, da CF/1988, sustentando que a via estreita do writ não seria a adequada para discutir a questão, tendo em vista a necessidade de dilação probatória. Alegou, também, que seria vedado ao Poder Judiciário proceder nova correção da prova de concurso.
+Contrarrazões às fls. 487/496.
+O Ministério Público Federal ofertou parecer informando não ter interesse no feito. (e-STJ fls. 532/534)
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Inicialmente, quanto à alegação de violação dos dispositivos constantes na Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Em relação à possível ofensa aos arts. 1º c/c 8º da Lei n. 1.533/1951 (artigo 1º c/c 10º da Lei nº 12.016/2009), constata-se que ela carece do requisito do prequestionamento, haja vista que a tese acerca da necessidade de dilação probatória não foi tratada, ainda que de maneira tácita, no âmbito da instância a quo.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". Ressalte-se que, mesmos opostos embargos declaratórios, estes não trataram, especificamente, sobre a matéria ora suscitada.
+Em relação à suposta infringência aos arts. 3º e 41, §3º, ambos da Lei n. 8.666/1993, deve-se ressaltar que esta Corte entende que o diploma legal em questão, assim como os referidos dispositivos, estabelecem normas gerais sobre licitações e contratos administrativos, não se aplicando a concurso para provimento de cargos públicos efetivos, atraindo o óbice da súmula 284 do STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. LEI 8.666/1993. LEI DE LICITAÇÕES E CONTRATOS. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF.
+1. No tocante à suposta violação aos artigos 3º e 41 da Lei 8.666/1993, verifica-se que o dispositivo alude a licitações e contratos, de forma que não guarda pertinência com o caso em tela, que trata de concurso público, atraindo o óbice da Súmula 284/STF, segundo a qual "é inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedentes do STJ: AgRg no REsp 1.5274.17/CE, Rel. Ministra Assusete Magalhães, segunda turma, DJe 21/6/2016; AgRg no REsp 1.529.923/AC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/8/2015; AgInt no AgInt no AgInt no AREsp 850.934/CE, Rel.Ministro Herman Benjamin, Segunda Turma, DJe 8/11/2016.
+2. O Superior Tribunal de Justiça entende pela inaplicabilidade do art. 41 da Lei 8.666/1991 a concursos públicos.
+ ..
+(REsp 1661783/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/05/2017, DJe 16/06/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. JULGAMENTO EXTRA PETITA (SÚMULA 282/STF). LITISPENDÊNCIA (SÚMULAS 283/STF E 7/STJ). LEI 8.666/93. IMPERTINÊNCIA TEMÁTICA (SÚMULA 284/STF). ARESTO COM FUNDAMENTAÇÃO CONSTITUCIONAL. VIOLAÇÃO AO ART. 535 DO CPC (SUMULA 284/STF)
+ ..
+4. No mérito, é entendimento pacífico desta Corte de que "a Lei 8.666/93, que estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, não guarda pertinência com as questões envolvendo concursos para preenchimento de cargos públicos efetivos". (AgRg no REsp 1.292.947/MG, Rel.Ministra Assusete Magalhães, Segunda Turma, julgado em 16/02/2016, DJe 24/02/2016).
+ ..
+(AgRg no AREsp 327.109/PA, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 10/05/2016, DJe 19/05/2016)
+No que diz respeito aos arts. 10 e 14, parágrafo único, da Lei n. 8.112/1990, ressalte-se que não houve a particularização da forma como tais dispositivos foram hostilizados, limitando-se o recorrente a apontá-los, circunstância que torna impossível o conhecimento do recurso especial em razão da formulação de teses recursais genéricas e deficientes. Incidência da súmula n. 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
