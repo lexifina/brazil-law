@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DE OBRIGAÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ACORDO ENTRE AS PARTES. BAIXA DE GRAVAME DO VEÍCULO. ATRASO. OFENSA A PORTARIA. NORMA QUE NÃO SE ENQUADRA COMO LEI FEDERAL. ART. 123, I, § 1º, DO CTN. SÚMULA Nº 211 DO STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO NCPC. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO NCPC. PRECEDENTE. VALOR INDENIZATÓRIO. REDUÇÃO. DESNECESSIDADE. VERBA FIXADA DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA Nº 7 DO STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+LUIS CARLOS SOUSA DOS SANTOS (LUIS CARLOS) ajuizou ação de reparação de danos morais em desfavor de BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO (BV FINANCEIRA), que foi julgada parcialmente procedente (e-STJ, fls. 90/94).
+Irresignado, RUDINEI interpôs recurso de apelação, que foi provido pelo Tribunal de origem em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. REGISTRO DE GRAVAME DE ALIENAÇÃO FIDUCIÁRIA SOBRE O VEÍCULO JUNTO AO DETRAN. CONTRATO QUITADO. OBRIGAÇÃO DA INSTITUIÇÃO FINANCEIRA EM PROMOVER A SUA BAIXA DE ACORDO COM O DISPOSTO NA RESOLUÇÃO Nº 320 DO CONTRAN. INÉRCIA. DANO IN RE IPSA.
+DA RESPONSABILIDADE CIVIL. Consoante preconiza o art. 9º da Resolução 320/09 do CONTRAN após a quitação integral do contrato pelo consumidor compete ao credor proceder a baixa do gravame no prazo máximo de 10 dias. Ora, estando demonstrado que o banco descumpriu o mandamento normativo que regula a relação entretida para com o consumidor, resta configurada a responsabilidade civil.
+Assim, aquele que causar dano a outrem, seja ele moral ou material, deverá restabelecer o status quo ante e, caso não seja possível, fica obrigado a reparar o dano pecuniariamente.
+DANO MORAL. Para o arbitramento da verba indenizatória a título de danos morais, não subsiste no ordenamento jurídico critérios objetivos para sua aferição, dispondo o art. 944 do CC que a indenização mede-se pela extensão do dano. É por isso que ao julgador é dado adotar critérios subjetivos, como a função . sancionatória-reparatória da indenização, onde se sobreleva o agir do agente, o grau de culpa e sua contribuição para o evento danoso, a intensidade do sofrimento causado no ofendido, a gravidade e a extensão do dano e as condições econômicas das partes.
+APELO PROVIDO (e-STJ, fl. 127).
+Os embargos de declaração opostos pela BV FINANCEIRA foram desacolhidos (e-STJ, fls. 150/155).
+Inconformada, a BV FINANCEIRA interpôs recurso especial com fundamento no art. 105, III, alíneas a e c, da CF/88, apontando, além de dissídio jurisprudencial, violação dos arts. 123, I, § 1º, do CTN, 1º da Portaria 246/2006, e 944, parágrafo único, do CC, por aduzir que (1) não estaria caracterizado o ilícito moral ensejador do dever de indenizar, uma vez que o recorrido não realizou a transferência do veículo para o seu nome perante o órgão de trânsito. Postulou, ainda, pela (2) redução do valor da indenização.
+Não foram apresentadas contrarrazões (e-STJ, fl. 172).
+O recurso foi admitido na origem (e-STJ, fls. 195/204).
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegada violação dos arts. 123, I, § 1º, do CTN e 1º da Portaria 246/2006
+O STJ possui entendimento de que o comando legal inserido em decretos, portarias e resoluções não se enquadra no conceito de lei federal, o que inviabiliza a discussão quanto a sua inteligência em recurso especial.
+Verifica-se, outrossim, que o conteúdo normativo do 123, I, § 1º, do CTN não foi objeto de discussão na origem, mesmo após a oposição dos embargos de declaração. Nesse caso, incide a Súmula nº 211 do STJ: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Registra-se, por oportuno, ter o art. 1.025 do NCPC consagrado o prequestionamento ficto, ao determinar que se consideram incluídos no acórdão embargado os elementos suscitados nas razões do recurso integrativo, se o Tribunal entender que houve vício no julgamento.
+Entretanto, para que se considere prequestionada a matéria, é necessário que o recorrente suscite, nas razões do recurso especial, a existência de violação ao art. 1.022 do NCPC, a possibilitar a aferição de eventual negativa de prestação jurisdicional.
+No caso, a BV FINANCEIRA não suscitou o vício, estando, portanto, ausente o requisito para que se considere prequestionada a matéria.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art.
+1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 15/9/2017)
+(2) Do quantum indenizatório
+No que tange ao pedido de redução do valor arbitrado a título de dano moral, é certo que a lei não fixa valores ou critérios para a quantificação do dano moral, que entretanto deve ter assento na regra do art. 944 do CC/2002.
+Por isso, esta Corte tem se pronunciado reiteradamente no sentido de que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Ademais, a jurisprudência do STJ se consolidou no sentido de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade.
+A propósito, os seguintes precedentes: AgRg no AREsp 730.160/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 15/3/2016, DJe 28/3/2016; e, AgRg no AREsp 821.133/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 8/3/2016, DJe 14/3/2016.
+No caso concreto, a Corte de origem, em observância aos princípios da razoabilidade e da proporcionalidade, fixou a verba reparatória em R$ 20.000,00 (vinte mil reais), quantia essa que reputo apta e suficiente a cumprir o duplo caráter inibitório/reparatório da medida, sendo desnecessária a intervenção desta Corte para minorá-la.
+Do dissídio jurisprudencial com relação ao quantum indenizatório
+A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA), DJe 30/6/2010.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Deixo de majorar a verba honorária pois fixada no patamar máximo.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (art. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
