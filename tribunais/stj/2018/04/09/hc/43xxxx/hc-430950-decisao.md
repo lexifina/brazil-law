@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se habeas corpus substitutivo de recurso próprio, impetrado em favor de RICARDO MOURA BARROS contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios.
+Depreende-se da inicial que o paciente foi condenado à pena de 10 (dez) anos de reclusão, em regime fechado, mais ao pagamento de 22 (vinte e dois) dias-multa, como incurso nas sanções do art. 157, parágrafo 2º, incisos I e II, do Código Penal.
+Irresignada, a defesa do paciente interpôs recurso de apelação perante o eg. Tribunal de origem, que deu provimento ao apelo, para reduzir a pena do paciente ao patamar de 08 (oito) anos e 07 (sete) meses e 10 (dez) dias de reclusão, mais 22 (vinte e dois) dias-multa, nos termos do v. acórdão juntado às fls. 19-35.
+No presente writ, o impetrante sustenta, em síntese, flagrante ilegalidade no quantum de aumento da pena-base aplicada ao paciente, ao fundamento de que não houve fundamentação idônea e proporcional, em relação aos maus antecedentes do paciente, a justificar a exasperação da pena em oito meses.
+Requer, ao final, a concessão da ordem, para afastar a valoração negativa das circunstâncias judiciais dos maus antecedentes, reduzindo a pena-base (fls. 1-3).
+As informações foram prestadas às fls.46-97.
+O Ministério Público Federal, às fls. 99-107, manifestou-se pela denegação da ordem, nos termos da seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO, NOS TERMOS DA ORIENTAÇÃO FIRMADA PELO SUPREMO TRIBUNAL FEDERAL E PELO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE QUE JUSTIFIQUE A CONCESSÃO DA ORDEM DE OFÍCIO. REVISÃO DA DOSIMETRIA DA PENA. PEDIDO CUJA ANÁLISE DEMANDARIA O EXAME DA MATÉRIA FÁTICO-PROBATÓRIA, INVIÁVEL NESTA VIA ESTREITA. ROUBO MAJORADO PELO USO DE ARMA DE FOGO E CONCURSO DE AGENTES. CONTINUIDADE DELITIVA. FLXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA.PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS."
+É o relatório.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do ato, salvos os casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Destarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante sustenta, em síntese, flagrante ilegalidade no quantum de aumento da pena-base aplicada ao paciente, ao fundamento de que não houve fundamentação idônea e proporcional, em relação aos maus antecedentes do paciente, a justificar a exasperação da pena em oito meses.
+No ponto, a presente insurgência não foi objeto de análise pela Corte local, na medida em que foi diretamente aviada para apreciação deste Tribunal Superior. Desta feita, uma vez que o eg. Tribunal de origem não se pronunciou sobre a controvérsia, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+À guisa de ilustração, cito os seguintes julgados:
+"PROCESSO PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO DE MENORES. INCOMPETÊNCIA DO JUÍZO DE 1º GRAU. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TRANCAMENTO DO PROCESSO-CRIME. EXCEPCIONALIDADE. CARÊNCIA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL NÃO EVIDENCIADA. TIPICIDADE DAS CONDUTAS DESCRITAS NA PEÇA ACUSATÓRIA. DESCRIÇÃO DOS FATOS CRIMINOSOS ATRIBUÍDOS AO RÉU. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPROPRIEDADE NA VIA DO WRIT. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO CRIMINOSO. PAPEL DE LIDERANÇA EXERCIDO PELO PACIENTE. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. A alegada incompetência da 17ª Vara Criminal da Comarca de Maceió/AL não foi objeto de cognição pela Corte de origem, o que obsta a análise de tal tema por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte.
+Precedentes.
+ ..
+14. Writ não conhecido. (HC 406.213/AL, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 17/10/2017).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO ILÍCITO DE ENTORPECENTES. RECEPTAÇÃO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. CIRCUNSTÂNCIAS DO DELITO. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. TENTATIVA DE FUGA. CUSTÓDIA PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A alegação de excesso de prazo na formação da culpa não foi objeto de exame pela Corte de origem, no acórdão impugnado, o que obsta a sua análise por este Tribunal Superior, sob pena de se incidir em indevida supressão de instância. Precedentes.
+ ..
+Habeas corpus não conhecido." (HC 405.659/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 27/09/2017).
+Ante o exposto, não conheço do presente habeas corpus.
+P. e I.
