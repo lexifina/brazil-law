@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, manejado pelo ESTADO DE SÃO PAULO em face de decisão que inadmitiu recurso especial, este interposto com base no art. 105, III, a, da CF contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 158):
+TRIBUTÁRIO. ICMS. Pretensão de obter isenção de mercadorias importadas para deficientes audiovisuais. Art. 17 do Anexo I do RICMS e Convênio nº 55/88. Mercadorias que correspondem com as descritas na lei de isenção, embora com outro número classifícatório. Possibilidade. Identidade das mercadorias. Todavia, um bem importado não se encontra previsto na lei de isenção. Incabível a interpretação extensiva pretendida pela autora. Falta de amparo legal. Sentença mantida. Recursos improvidos.
+Opostos embargos declaratórios, foram rejeitados (fls. 171/179).
+A parte recorrente aponta violação aos arts. 535 do CPC/73; e 111, II, do CTN. Sustenta, em resumo, que: (I) "o acórdão recorrido  ..  não fez qualquer esclarecimento a respeito da omissão apontada oportunamente pela recorrente" (fl. 208); (II) "As mercadorias importadas pela autora não estão previstas como isentas no RICMS. Com efeito, a lista de equipamentos constante do Anexo I deve ser considerada parte integrante da regra concessiva do benefício, e como tal segue a mesma sorte quanto à sua regra de interpretação, qual seja, observar-se a sua literalidade em homenagem ao artigo 111, II, do CTN, eis que excepcionam as situações em que o tributo seria devido" (fl. 212).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Em relação à controvérsia dos autos, consignou o Tribunal de origem às fls. 159/162:
+ 1. A autora importou três mercadorias para deficientes audiovisuais e entende que faz jus à isenção do pagamento do ICMS, de acordo com o convênio nº 55/88.
+ De fato, o art. 17 do Anexo I do RICMS assim disciplina a matéria:
+ "Artigo 17 (DEFICIENTES - PRODUTOS DIVERSOS) - Operação interna que destine os produtos adiante indicados a pessoas portadoras de deficiência física, visual ou auditiva, classificados na posição, subposição ou código da Nomenclatura Brasileira de Mercadorias - Sistema Harmonizado - NBM/SH (Convênio ICMS-55/98):
+..
+V - destinados ao uso de pessoa portadora de deficiência visual:
+..
+g) display braille" e teclado em "Braille" para uso em microcomputador, com sistema interativo para introdução e leitura de dados por meio de tabelas de caracteres "Braille", 8471.60.52;
+h) máquina de escrever para escrita "braille", manual ou elétrica, com teclado de datilografia comum ou na formação "Braille", 8469.12,8469.20.00 e 8469.30;
+i) impressora de caracteres "braille" para uso com microcomputadores, com sistema dc folha solta ou dois lados da folha, com ou sem sistema de comando de voz, com ou sem sistema acústico, 8471.60.1 e 8471.60.2".
+ Note-se que cada categoria de produto possui uma identificação numérica, classificada de acordo com a Nomenclatura Brasileira de Mercadorias (NBM).
+ A autora importou:
+  ..
+ O Fisco negou a isenção pretendida pela falta de identificação das mercadorias importadas com aquelas previstas na lei.
+ Todavia, a autora alega que a NBM citada no art. 17 acima transcrito foi substituída pela Norma Comum do Mercosul (NCM), estando abrangida pela isenção.
+ 2. Verifica-se que, em que pese a falta de identificação da numeração classificatória contida na lei, as mercadorias indicadas acima b e c, de fato correspondem aos itens h e i do art. 17 citado, sendo máquina de escrever e impressora em Braille.
+ A falta de identidade numérica não tem o condão de impedir a isenção, tendo em vista que as mercadorias importadas estão previstas na lei isentiva.
+ A rigidez de interpretação em normas de isenção tributária, apesar de prevista em lei, não pode ser levada a exageros burocráticos como sustenta a Fazenda.
+ 3. Todavia, com relação à mercadoria relacionada no item a (unidade de saída de dados processados eletronicamente, por leitura tátil pelo sistema Braille, com 12 a 80 células de leitura de 6 a 8 pontos, com ou sem teclado para escrita, conexões USB combinada ou não com Bluetooth ou Porta Serial, todas de posicionamento para cada célula, 5 a 10 teclas de comando, com ou sem cursores e rodas de navegação) , não há correspondência com a alinea g da lei (display braille" e teclado em "Braille" para uso em microcomputador, com sistema interativo para introdução e leitura de dados por meio de tabelas de caracteres "Braille", 8471.60.52).
+ Nos termos da bem lançada sentença, "da simples leitura e não havendo elementos suficientes nos autos, não é possível a conclusão de que ambos tratam dos mesmos produtos, o que era ônus da autora comprovar, nos termos do art. 333, I, do Código de Processo Civil, porém não requereu a produção de provas" (fls. 103).
+ Note-se que caberia a autora trazer elementos probatórios, documentos, laudo técnico ou qualquer outra prova, para demonstrar que, apesar da distinção numérica, o produto seria efetivamente algum daqueles beneficiados pela isenção.
+ No entanto, tal prova não foi feita, não se interessando a autora em produzir outras provas (fls.98/99).
+ De fato, inexistindo provas nos autos da correspondência das mercadorias, não há como estender a isenção pretendida, sob pena de violação do comando legal. Desta forma, a r. sentença deve ser mantida.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
