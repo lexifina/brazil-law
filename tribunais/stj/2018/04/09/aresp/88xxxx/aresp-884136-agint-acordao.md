@@ -1,0 +1,65 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. NÃO OCORRÊNCIA. TEMA 339/STF. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. TEMA 660/STF. PRESSUPOSTOS DE ADMISSIBILIDADE. TEMA 181/STF.
+1. Não subsiste a alegação de ofensa ao art. 93, IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+3. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF).
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Benedito Gonçalves, Raul Araújo, Sérgio Kukina, Joel Ilan Paciornik, Felix Fischer, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros João Otávio de Noronha, Luis Felipe Salomão e Mauro Campbell Marques.
+Convocados os Srs. Ministros Sérgio Kukina e Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por REZENDE E ISIDORO ADVOGADOS ASSOCIADOS - ME contra decisão que apreciou recurso extraordinário interposto com o objetivo de reformar acórdão assim ementado (fl. 638, e-STJ):
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE NÃO CONHECENDO DO RECLAMO, ANTE A AUSÊNCIA DE DIALETICIDADE RECURSAL. INSURGÊNCIA DOS RÉUS.
+1. Razões do agravo (art. 544 do CPC/73) que não impugnaram especificamente os fundamentos invocados na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o insurgente demonstrar, de modo fundamentado e específico, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182/STJ.
+2. Agravo interno desprovido."
+Embargos de declaração rejeitados (fls. 661/662, e-STJ).
+A decisão agravada negou seguimento ao recurso extraordinário nos termos da seguinte ementa (fls. 686/691, e-STJ):
+"RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO DEVER DE MOTIVAÇÃO. NÃO OCORRÊNCIA. TEMA 339/STF. AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA, DO DEVIDO PROCESSO LEGAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 660/STF. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+Reitera a parte agravante a violação dos arts. 5º, XXXV e LV e 93, IX, ambos da Constituição Federal.
+Aduz, em resumo:
+"Conforme exaustivamente evidenciado acima, a questão jurídica levada ao Egrégio Tribunal Superior não impôs a necessidade de reanálise do conjunto fático-probatório dos autos. Pelo contrário, com um simples perpassar de olhos nas decisões dos Juízos de primeiro e segundo graus, deixa inconteste os erros perpetrados pelo Poder Judiciário, mormente pelo E. STJ no acórdão atacado" (fls. 698/699, e-STJ).
+Pugna pelo regular processamento do recurso extraordinário.
+Decurso do prazo para contrarrazões (fl. 704, e-STJ).
+É, no essencial, o relatório
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 93, INCISO IX, DA CONSTITUIÇÃO FEDERAL. NÃO OCORRÊNCIA. TEMA 339/STF. PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. TEMA 660/STF. PRESSUPOSTOS DE ADMISSIBILIDADE. TEMA 181/STF.
+1. Não subsiste a alegação de ofensa ao art. 93, IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+3. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF).
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Em que pese ao esforço contido nas razões recursais, não prospera a pretensão de reforma da decisão prolatada.
+Conforme consignado na análise monocrática, quanto à alegada ofensa ao art. 93, IX, da Constituição Federal, por violação do dever de fundamentação no acórdão recorrido, observa-se que a questão foi decidida pelo Supremo Tribunal Federal, no regime da repercussão geral, por ocasião do julgamento do AI-RG-QO n. 791.292/PE, relatado pelo Ministro Gilmar Mendes nos termos da seguinte ementa, in verbis:
+"Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral." (STF, AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes, DJe de 13/8/2010 - Tema n. 339 da sistemática da repercussão geral.)
+Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes.
+Assim, para efeito de análise de conformidade da decisão com o decidido sob o regime de repercussão geral, deve ser verificado se o aresto atacado possui motivação suficiente à solução da controvérsia ou se, à míngua da satisfação desse requisito, caracterizou-se a afronta ao princípio constitucional inscrito no inciso IX do art. 93 da Carta Magna.
+No caso dos autos, o acórdão recorrido, forte na Súmula 7/STJ, decidiu pelo não provimento do agravo interno. Assim, a meu sentir, não existe fundamentação deficiente ou ausência de fundamentação e as razões de não provimento do agravo, bem como de rejeição dos embargos de declaração, estão justificadas, porquanto se assenta em pressupostos relativos à admissibilidade recursal.
+Quanto às alegações relativas à ofensa do art. 5º, incisos LIV e LV, da CF, o Pretório excelso também já decidiu que não há repercussão geral quando o julgamento da demanda estiver sujeito à prévia análise da correta incidência de regras infraconstitucionais, o que é o caso dos autos.
+A propósito, ementas de julgados da Suprema Corte:
+"PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS NOS RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. ADMINISTRATIVO. POLICIAL MILITAR. SOLDO. VALOR. VENCIMENTO BÁSICO DE REFERÊNCIA (VBR). PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA PARTE RECORRENTE. OFENSA AOS PRINCÍPIOS DO DIREITO ADQUIRIDO, DO ATO JURÍDICO PERFEITO, DA COISA JULGADA, DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. QUESTÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NEGADA (ARE 748.371, REL. MIN. GILMAR MENDES, TEMA 660). ALEGAÇÃO DE AFRONTA AO ART. 37, CAPUT, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. SÚMULA 636/STF. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA NO ARE 694.450-RG/PE (REL. MIN. RICARDO LEWANDOWSKI, TEMA 601). AGRAVO REGIMENTAL DOS SEGUNDOS AGRAVANTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS SUFICIENTES DA DECISÃO AGRAVADA. CPC/2015, ART. 1.021, §1º. AGRAVO REGIMENTAL DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO. AGRAVO REGIMENTAL DOS AUTORES NÃO CONHECIDO." (ARE 838.156 AgR-segundo, Relator Min. TEORI ZAVASCKI, Segunda Turma, julgado em 9/8/2016, processo eletrônico DJe-182, divulgado em 26/8/2016, publicado em 29/8/2016.)
+"AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. EXPULSÃO DE MILITAR. CONTEXTO FÁTICO PROBATÓRIO. SÚMULA Nº 279 DO STF. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. IMPOSSIBILIDADE. VIOLAÇÃO DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. REPERCUSSÃO GERAL REJEITADA - ARE 748.371. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à expulsão do policial militar da corporação, seria necessário o reexame dos fatos e provas, além da legislação aplicável à espécie. Incidência das Súmulas 279 e 280 do STF.
+2. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral, o que torna inadmissível o recurso extraordinário. (RE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.08.2013 tema 660).
+3. Agravo regimental a que se nega provimento." (ARE 943.520 AgR, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 2/8/2016, processo eletrônico DJe-177, divulgado em 19/8/2016, publicado em 22/8/2016, grifo meu.)
+Por fim, no caso dos autos, o entendimento proferido no acórdão vergastado que ensejou o não provimento do agravo interno foi devidamente fundamentado na incidência da Súmula 182/STJ e firmado, como já dito, apenas na ausência de requisitos de admissibilidade necessário à análise do mérito recursal.
+Nesse contexto, o Pretório Excelso já se pronunciou no sentido de que não existe repercussão geral quando a matéria versar sobre pressupostos de admissibilidade de recurso, pois a solução da controvérsia envolve o exame, tão somente, de legislação infraconstitucional, o que configuraria, em última análise, apenas situação de ofensa indireta ou reflexa ao texto constitucional.
+A propósito:
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608." (RE 598.365 RG, Rel. Ministro AYRES BRITTO, Tribunal Pleno, DJe de 26/3/2010, Tema 181 da sistemática da repercussão geral.)
+Outrossim, quanto à alegada ofensa ao art. 5º, XXXV, da CF/88, o STF já consagrou que:
+"Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito" (RE-RG 956.302, Rel. Min. EDSON FACHIN, julgado em 19/5/2016, publicado em 16/6/2016 - Tema 895/STF).
+A título de reforço:
+"6. Afronta ao princípio da inafastabilidade da jurisdição. Inexistência de repercussão geral da matéria. RE-RG 956.302 (tema 895)" (ARE 953.895 AgR, Relator Min. GILMAR MENDES, Segunda Turma, julgado em 2/5/2017, PROCESSO ELETRÔNICO DJe-108 DIVULG 23/5/2017 PUBLIC 24/5/2017).
+Ante o exposto, não tendo a agravante trazido argumento capaz de infirmar a decisão agravada, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
