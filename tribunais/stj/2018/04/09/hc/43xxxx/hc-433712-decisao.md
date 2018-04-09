@@ -1,0 +1,29 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. APELAÇÃO JULGADA. EXPEDIÇÃO DE MANDADO DE PRISÃO. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXECUÇÃO PROVISÓRIA DA PENA. OFENSA À PRESUNÇÃO DE INOCÊNCIA. INOCORRÊNCIA. ORDEM DENEGADA.
+1. O Pleno do Supremo Tribunal Federal, em 5.10.2016, no julgamento das medidas cautelares nas ações diretas de constitucionalidade 43 e 44, por maioria de votos, confirmou entendimento antes adotado no julgamento do HC 126292, no sentido de que a execução provisória da pena não afronta o princípio constitucional da presunção de inocência. Assim, confirmada a condenação por colegiado em segundo grau, ainda que pendentes de julgamento recursos de natureza extraordinária (recurso especial e/ou extraordinário), a pena poderá, desde já, ser executada. Ressalva do entendimento da Relatora.
+2. Esse posicionamento foi reafirmado no Plenário Virtual do Supremo Tribunal Federal, por ocasião da análise do ARE 964246, que teve repercussão geral reconhecida. Dessarte, a tese firmada pelo Pretório Excelso deve ser aplicada nos processos em curso nas demais instâncias.
+3. Ordem denegada.
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça de São Paulo que negou provimento ao recurso de apelação interposto na origem (fls. 28-44, e-STJ).
+No presente writ, a impetrante alega, em síntese, que o paciente sofre constrangimento ilegal por não estarem presentes os elementos autorizadores da segregação provisória determinada.
+Requer, liminarmente, a concessão da ordem para determinar o recolhimento do ofício expedido à Vara de Execuções Penais que determina o cumprimento provisório da pena, prevenindo a expedição do mandado de prisão em desfavor do ora paciente (fls. 9-10, e-STJ).
+A liminar foi indeferida às fls. 68-71.
+Foram juntadas informações às fls. 76-108.
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], manifestou-se pela denegação da ordem. (fls. 110-112).
+Diante das informações prestadas pelo Tribunal de origem, à fl. 77, constatou-se que os embargos declaratórios foram rejeitados em 14.02.2017, sendo interpostos pela defesa recurso especial e extraordinário.
+É o relatório.
+Decido.
+A questão trazida a deslinde abarca o exame acerca da prisão, antes do trânsito em julgado da condenação, sem qualquer fundamentação concreta, decorrente do julgamento do apelo na origem.
+Sempre defendi que a chamada execução provisória da pena privativa de liberdade, em princípio, é vedada, sob pena de se pôr em xeque a presunção de inocência. Somente se lhe admite a fim de garantir mais direitos ao cidadão submetido aos rigores da coerção estatal, efetivando-se o princípio da humanidade da pena, na sua vertente do nihil nocere. Para confirmar a vedação, basta a leitura do art. 5.º, inciso LVII, da Constituição Federal, verbis:
+Ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória.
+Assim, se o processo ainda não alcançou termo, penso que não se afigura plausível a privação da liberdade sem que se demonstre, por decisão devidamente fundamentada, a imprescindibilidade da medida extrema, que deve ser sempre a ultima ratio.
+Sobre o tema, Gustavo Henrique Badaró preleciona:
+No caso da prisão preventiva, o periculum in mora costuma ser identificado com o periculum libertatis. Todavia, as situações concretas que caracterizam as hipótese de periculum - garantia da ordem pública ou econômica, conveniência da instrução criminal e asseguração da aplicação da lei penal - devem estar demonstradas, estremes de dúvidas, para que o juiz decrete a prisão. (..) Além disso, a prisão não pode ser um corolário automático da imputação, o que significaria restaurar um regime de prisão preventiva obrigatória.
+(Processo Penal, 3ª ed. rev., atual. e ampl., São Paulo: Editora Revista dos Tribunais, 2015, p. 989/991.)
+Ocorre que o Pleno do Supremo Tribunal Federal, em 5.10.2016, no julgamento das medidas cautelares nas ações diretas de constitucionalidade 43 e 44, por maioria de votos, confirmou entendimento antes adotado no julgamento do HC 126.292, no sentido de que a execução provisória da pena não afronta o princípio constitucional da presunção de inocência, de modo que, confirmada a condenação por colegiado em segundo grau, e ainda que pendentes de julgamento recursos de natureza extraordinária (recurso especial e/ou extraordinário), a pena poderá, desde já, ser executada.
+Antes mesmo da confirmação desse entendimento por ocasião do julgamento das medidas cautelares nas ações diretas de constitucionalidade referidas, a nova compreensão do Pretório Excelso - que ainda suscita divergências entre seus próprios ministros - foi adotada por esta Corte Superior de Justiça nos EDcl no REsp 1.484.415 (Sexta Turma) e na QO na Apn 675 (Corte Especial), oportunidades em que fiquei vencida, com base nos argumentos acima expedidos, que sempre manifestei.
+Esse posicionamento foi reafirmado no Plenário Virtual do Supremo Tribunal Federal, por ocasião da análise do ARE 964246, que teve repercussão geral reconhecida. Assim, a tese firmada pelo Pretório Excelso deve ser aplicada nos processos em curso nas demais instâncias.
+Portanto, ao menos por ora, diante do cenário que se apresenta, ante o julgamento dos embargos de declaração opostos pela defesa, os quais foram rejeitados em 14.02.2017, indicando o esgotamento da jurisdição ordinária, possível se mostra a execução provisória da sanção imposta (vide os seguintes precedentes unipessoais: HC n.º 387.517/SP, Rel. Ministro Rogério Schietti, DJe de 10/02/2017; HC n.º 387.491/SP, Rel. Ministro Sebastião Reis Júnior, DJe de 10/02/2017; HC n.º 390.188/SP, Rel. Ministro Rogério Schietti, DJe de 08/03/2017).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, denego a ordem.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
