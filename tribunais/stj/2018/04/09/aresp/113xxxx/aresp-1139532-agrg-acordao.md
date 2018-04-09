@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. EXCEÇÃO DE SUSPEIÇÃO DE MAGISTRADO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela suspeição da Juíza de primeiro grau, seria imprescindível o revolvimento dos elementos fáticos e probatórios dos autos, não sendo, pois, o caso de mera valoração das provas, tal como alegado pela agravante. Imperiosa, portanto, a aplicação do óbice da Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por [NOME] contra decisão monocrática desta Relatoria que, fundamentada no art. 932, III, do Código de Processo Civil, c/c o art. 253, parágrafo único, II, a, do RISTJ, não conheceu do recurso especial (e-STJ, fls. 639-643).
+A agravante alega, em suma, que de "uma simples análise dos autos, verifica-se facilmente que o exame da pretensão trazida no item 1 do recurso (fls. 474-484) não esbarra no óbice decorrente da aplicação da Súmula 7 desta Corte; pelo contrário, restou claro que as teses jurídicas abstratas suscitadas no referido tópico envolveram interpretação do direito infraconstitucional.
+Ainda que assim não fosse, a questão exigiria, tão somente, a revaloração dos fatos ou de dados explicitamente admitidos e delineados no acórdão recorrido, e não o reexame de matéria probatória" (e-STJ, fl. 654).
+Requer a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. EXCEÇÃO DE SUSPEIÇÃO DE MAGISTRADO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela suspeição da Juíza de primeiro grau, seria imprescindível o revolvimento dos elementos fáticos e probatórios dos autos, não sendo, pois, o caso de mera valoração das provas, tal como alegado pela agravante. Imperiosa, portanto, a aplicação do óbice da Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+Conforme consignado na decisão agravada, ao analisar a questão, o Tribunal de origem assim se manifestou:
+"Consoante relatado, os excipientes pretendem o afastamento da Excepta, MM. Juíza de Direito da 10ª Vara Criminal da Comarca de Goiânia (Juiz 2), [NOME], da condução e julgamento da ação penal instaurada em que figuram como réus, ao argumento de quebra da imparcialidade.
+É cediço que o acolhimento da suspeição de um magistrado exige-se a ocorrência de fatos ou circunstâncias, subjetivos ou objetivos, que demonstrem que a autoridade judiciária não possui a imparcialidade necessária para a direção e julgamento do processo, cujas hipóteses, embora estejam elencadas no artigo 254, do Código de Processo Penal, não se trata de rol taxativo, admitindo-se outras situações que não estejam ali enumeradas.
+Vale dizer que a imparcialidade do juiz se revela como direito indisponível das partes, de forma que, em defesa da seriedade da jurisdição, constitui-se condição sine qua non do devido processo legal.
+Significa a inexistência de pré-juízos, de preconceitos que possam viciar o julgamento, de uma convicção prévia acerca do objeto do processo, de uma opinião sobre o caso penal ou sobre as partes envolvidas, visando o não desvirtuamento de uma das mais importantes garantias do jurisdicionado, qual seja, o juiz natural legalmente investido, mantendo-se íntegro em sua convicção quando da apreciação do caso concreto, portanto, isento de parcialidade que, de algum modo, afetará a justiça da prestação jurisdicional.
+ ..
+No caso vertente, constata-se que os argumentos narrados pelos excipientes não se revelam bastantes para evidenciar a quebra da imparcialidade no ofício judicante por parte da magistrada. Senão vejamos.
+Primeiramente, no que se refere à alegada infringência ao artigo 13, do Código de Ética da Magistratura, vale dizer que a aludida norma prescreve que "o magistrado deve evitar comportamentos que impliquem a busca injustificada e desmesurada por reconhecimento social, mormente a autopromoção em publicação de qualquer natureza."
+ ..
+No presente caso, os Excipientes sustentam que com o compartilhamento pela Excepta nas redes sociais (facebook e instagram) de reportagens divulgadas por meio dos veículos de comunicação de decisões por ela proferidas, a aludida magistrada não só estaria buscando o reconhecimento social e a sua autopromoção, como "também acabou por descortinar verdadeiro sentimento estigmatizador sobre os acusados/Excipientes, assim como nítido prejulgamento, convencimento da culpabilidade, ou mesmo interesse (pessoal) na causa." (Destaque no original, fl. 09).
+Entretanto, mesmo que se tenha como censurável a conduta perpetrada pela aludida magistrada, ressalte-se que as notícias por ela compartilhadas, em verdade, não se referem somente ao que é noticiado em relação à "Operação Compadrio", mas a todos os feitos em que ela conduz e que por ser de interesse da mídia são divulgados ao público, de modo que eventual exposição vexatória ou indevida deve ser combatida pelos Excipientes pelos meios próprios para impugnar as notícias transmitidas pelos veículos de comunicação em massa, inclusive, caso assim entendam, utilizando-se do direito de resposta.
+Assim, o que se denota é que a magistrada, que possui perfil nas redes sociais, tem o costume de compartilhar com os seus seguidores naqueles espaços as notícias divulgadas nos jornais de casos que por ela são decididos e, mesmo que tal conduta possa se voltar à autopromoção ou ao reconhecimento social, entendo que não são capazes de infirmar a sua imparcialidade para o julgamento da causa, até porque junto àquelas notícias não é veiculado pela magistrada nenhum comentário extra autos que configure prejulgamento ou antecipação da culpa.
+Desse modo, compete aos Órgãos de correição apreciar eventual desrespeito ético praticado pela aludida Juíza.
+Por outro lado, afirmam os Excipientes que por inúmeras vezes a Excepta externou "afirmações categóricas de que as condutas dos Excipientes "são graves, havendo fortes indícios de que estejam envolvidos em uma organização criminosa". (Destaque no original).
+Com efeito, ainda que se possa falar que a Excepta tenha utilizado de termos ou expressões que, remotamente, pudessem evidenciar um tom conclusivo ou, que se diga, peremptório quanto às assertivas utilizadas para determinar as providências acautelatórias, tal circunstância não foi acompanhada de valoração aprofundada dos elementos de prova contidos nos autos, mas em indícios, cingindo-se em apontar os elementos que firmaram um juízo prognóstico (probabilidade), não importando, desse modo, prejulgamento, parcialidade ou sequer desrespeito ao princípio da presunção de inocência, o que somente estaria caracterizado caso houvesse um juízo de certeza (definitivo) sobre as provas carreadas aos autos.
+Portanto, a magistrada apenas apontou os motivos pelos quais entendia necessária a aplicação das medidas cautelares determinadas, sem se imiscuir no mérito da ação penal intentada, de forma que, sob esse prisma, também não se verifica quebra do dever de imparcialidade.
+Da mesma forma, a não realização da audiência de custódia em relação aos Excipientes que foram presos preventivamente no curso do processo também não é indicativo de que a omissão seja em virtude do interesse da Excepta na causa.
+Nesta senda, da resposta apresentada pela Excepta, extrai-se a justificativa da não realização da audiência de custódia, dentre outros motivos, pelo fato de que "o ato normativo interno do Tribunal de Justiça Goiano, as AUDIÊNCIAS DE CUSTÓDIA somente serão realizadas nos casos de PRISÃO EM FLAGRANTE DELITO, não havendo obrigatoriedade de realização quanto as outras prisões cautelares." (fl. 404).
+Se não bastasse, o entendimento sufragado nesta Corte e nas Instâncias Superiores é no sentido de que a não realização de audiência de custódia, com argumento único, não é suficiente para ensejar a nulidade da prisão preventiva, quando evidenciada a observância das garantias processuais e constitucionais, principalmente quando o ato de constrição tenha ocorrido neste período de implementação do Instituto (da audiência de custódia). Neste sentido: HC 340.182/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/6/2016, DJe 30/6/2016; RHC 72.378/AL, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 21/6/2016, DJe 29/6/2016.
+No que diz respeito à edição da Portaria n. 02/2015, conforme já pontuado no julgamento do Habeas Corpus n. 80912-02.2016.8.09.0000 (201690809124), o aludido ato tinha com finalidade evitar "que os autos fossem retirados indevidamente durante o prazo comum para apresentação de resposta à acusação, o que acarretaria em tumulto e delonga da marcha processual". Portanto, não vislumbro qualquer intenção da juíza em tangenciar os direitos dos Excipientes em vista de se facilitar uma suposta condenação futura.
+Em arremate, consigno que o interesse no julgamento da causa apto a ensejar no reconhecimento da suspeição é aquele que se torna próprio e direto, tornando o magistrado em verdadeira parte no processo, situação que ora não se vislumbra.
+ ..
+Por conseguinte, não demonstrada pelo excipiente através de provas inequívocas a existência de qualquer condição concreta em face da qual se possa deduzir a ausência de isenção no oficiamento da magistrada excepta, de forma a justificar o seu afastamento da direção do processo, a rejeição do incidente de suspeição é medida que se impõe." (e-STJ, fls. 495-501).
+Nesse contexto, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela suspeição da Juíza de primeiro grau, seria imprescindível o revolvimento dos elementos fáticos e probatórios dos autos, não sendo, pois, o caso de mera valoração das provas, tal como alegado pela agravante. Imperiosa, portanto, a aplicação do óbice da Súmula 7/STJ.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE SUSPEIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO CONFIRMADA. SÚMULA N. 211/STJ. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.
+ ..
+II - Para que se alterem as conclusões a que chegou a eg. Corte estadual a respeito da suspeição do magistrado sentenciante, é indispensável reingresso no conjunto probatório, de modo que se verifiquem as balizas fáticas a partir das quais a eg. Corte a quo firmou o seu entendimento, providência inviável em sede de recurso especial, a teor do Enunciado Sumular n. 7 desta Corte.
+Agravo regimental desprovido."
+(AgRg no AgRg no AREsp 831.174/SP, Min. Rel. FELIX FISCHER, QUINTA TURMA, DJe 19/10/2016).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. SUSPEIÇÃO DE MAGISTRADO NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. O recorrente sustenta violação ao art. 135, V, do CPC, insurgindo-se contra o entendimento do Tribunal de origem, que rejeitou a exceção de suspeição oposta em face de juiz federal.
+2. Rever o entendimento externado pelas instâncias ordinárias, para acolher a tese de suspeição do magistrado, implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+3. Agravo regimental improvido."
+(AgRg no AREsp 644.801/RJ, Min. Rel. NEFI CORDEIRO, SEXTA TURMA, DJe 19/11/2015).
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSO PENAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. EXCEÇÃO DE SUSPEIÇÃO DE MAGISTRADO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7/STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+ ..
+2. A inversão do decidido pelo Tribunal de origem, com base no acervo fático probatório dos autos, quanto à não caracterização de nenhuma das hipóteses de suspeição previstas no art. 254 do Código de Processo Penal, demandaria o reexame das provas, providência incompatível nesta seara especial, conforme entendimento consolidado na Súmula n. 7 desta Corte.
+3. Agravo regimental a que se nega provimento."
+(AgRg no REsp 1508719/PR, Min. Rel. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 2/6/2015).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
