@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. RECONHECIMENTO DA OFENSA AO ART. 535, I E II, DO [PLACA]. QUESTÃO IMPRESCINDÍVEL AO DESLINDE DA CONTROVÉRSIA NÃO APRECIADA PELA CORTE DE ORIGEM. ANULAÇÃO DO ACÓRDÃO QUE JULGOU OS EMBARGOS DE DECLARAÇÃO. RETORNO DOS AUTOS À ORIGEM. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] e outros contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 187/STJ, consubstanciada na ausência de comprovação do pagamento de custas, bem como pela formulação do pedido da gratuidade da justiça na petição do próprio apelo especial que não foi deferida (fl. 219).
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 194):
+PREVIDENCIARIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. DECISÃO MONOCRATICA. RECEBIMENTO COMO AGRAVO LEGAL. ART. 557 DO CPC. MANUTENÇÃO DO JULGADO AGRAVADO.
+1 - Segundo a orientação jurisprudencial firmada tanto no Supremo Tribunal Federal como no Superior Tribunal de Justiça, não cabe recurso de embargos de declaração interposto de decisão e monocrática, devendo ser conhecidos como agravo legal quando o propósito é atribuir efeitos infringentes à decisão embargada, em obediência aos princípios da economia processual e da fungibilidade.
+2 - Nos termos do artigo do art. 557, "caput" e parágrafo 10-A, do Código de Processo Civil, cabe ao relator o julgamento monocrático do recurso, negando-lhe seguimento quando se manifeste inadmissível, improcedente, prejudicado ou para lhe dar provimento se a decisão recorrida estiver em manifesto confronto com súmula ou jurisprudência do respectivo tribunal ou dos tribunais superiores.
+3 - Inviabilidade do agravo legal quando constatada, de plano, a improcedência da pretensão recursal, mantidos os fundamentos de fato e de direito do julgamento monocrático, que bem aplicou o direito à espécie.
+4 - Agravo legal desprovido.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos artigos 535 do CPC/1973, art. 267, IV e VI e artigo 811, CPC, isso porque a Corte de origem deixou de se pronunciar acerca do distanciamento do critério previsto em lei à fixação das verbas da sucumbência.
+Alega que, a despeito da oposição de embargos de declaração, não se colhe do julgamento regional qualquer enfrentamento relacionado à exorbitância do ônus sucumbencial, cujo propósito, em muito, se distanciou do critério previsto pela norma legal.
+Quanto a questão de fundo, sustenta ofensa ao art. 20, §§ 3º e 4º, do CPC/1973, o v. acórdão extrapolou todos os limites da razoabilidade e da proporcionalidade, desbordando do critério legal, no montante de R$ 30.000,00 (trinta mil reais).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Assiste razão ao recorrente, especificamente no tocante à alegada violação do art. 535, I e II, do CPC/73.
+A decisão embargada não enfrentou a questão relativa à afronta direta à determinação legal impressa no art. 20, §§ 3º e 4º, do CPC/1973, o v. acórdão extrapolou todos os limites da razoabilidade e da proporcionalidade, desbordando do critério legal, no montante de R$ 30.000,00 (trinta mil reais).
+Não obstante as supracitadas razões recursais dos embargos de declaração, o Tribunal de origem, rejeitou os embargos de declaração, sem declinar, no acórdão integrativo, a questão referente à alegação de exorbitância dos honorários advocatícios fixados.
+Em assim procedendo, aquele Tribunal acabou por contrariar o art. 535, I e II, do CPC/73.
+Como se observa dos autos, o tema reputado omisso foi apontado nas razões da apelação e nos embargos de declaração, sem, contudo, a Corte de origem ter se manifestado sobre ele.
+Assim, a Corte de origem incorreu em omissão no julgamento dos embargos de declaração, pois deixou de se pronunciar sobre o ponto ali alegado.
+Com efeito, é posicionamento desta Corte de Justiça que ocorre violação ao art. 535 do CPC/73 quando o Tribunal de origem deixa de enfrentar, expressamente, questões relevantes ao julgamento da causa, suscitadas, oportunamente, pela parte recorrente.
+Nesse sentido:
+"PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS. VIOLAÇÃO AO ART. 20, §§ 3º E 4º, DO CPC E ART. 535, DO CPC. OCORRÊNCIA. VERBA HONORÁRIA FIXADA EM CAUSA ONDE NÃO HOUVE CONDENAÇÃO SEM HAVER MOTIVAÇÃO EXPRESSA A APRECIAR OS PARÂMETROS DAS ALÍNEAS "A", "B" E "C", DO §3º, DO ART. 20, DO CPC. PRESENÇA DE OMISSÃO.
+1. Muito embora tenham sido interpostos embargos de declaração, não houve qualquer enfrentamento expresso pela Corte de Origem dos parâmetros estabelecidos nas alíneas "a", "b" e "c", do §3º, do art. 20, do CPC, havendo a fixação da verba honorária de forma direta, sem motivação adequada, em causa onde não houve condenação.
+2. Desta forma, há evidente violação ao art. 20, §§ 3º e 4º, do CPC e omissão que não foi sanada por via dos aclaratórios interpostos na origem, gerando assim a violação ao art. 535, II, do CPC 3. Sendo assim, os autos devem retornar à origem a fim de que seja suprida a omissão apontada e seja proferido julgamento motivado sobre a condenação em verba honorária, abordando de forma discriminada os parâmetros estabelecidos nas alíneas "a", "b" e "c", do §3º, do art. 20, do CPC, por força do §4º, do mesmo dispositivo legal, por se tratar de ação onde não houve condenação.
+4. Recurso especial provido" (STJ, REsp 1.413.825/DF, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/02/2014)
+Ante o exposto, conheço do agravo, e dou provimento ao recurso especial, anulando o acórdão dos embargos de declaração, a fim de que o Tribunal de origem se pronuncie, de maneira motivada sobre a condenação em verba honorária, abordando de forma discriminada os parâmetros estabelecidos nas alíneas "a", "b" e "c", do §3º, do art. 20, do CPC, por força do §4º, do mesmo dispositivo legal.
+Publique-se. Intimem-se.
