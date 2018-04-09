@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR ESTADUAL. REAJUSTE DO VALE-REFEIÇÃO. LITISPENDÊNCIA. VERIFICAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A inversão da conclusão do Tribunal de origem quanto à inexistência de litispendência, tal como postulado nas razões recursais, exigiria, necessariamente, novo exame do acervo probatório fático constante dos autos, providência vedada em recurso especial, a teor da Súmula 7/STJ. Precedentes.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO SÉRGIO KUKINA(Relator): Trata-se de agravo interno manejado pelo ESTADO DO RIO GRANDE DO SUL desafiando decisão de fls. 270/274, que negou provimento ao agravo em recurso especial, ante a incidência da Súmula 7/STJ.
+Em suas razões, a parte agravante sustenta a inaplicabilidade do referido óbice. Alega a desnecessidade de reexame do conjunto probatório dos autos, pois "o ente público pretende apenas que essa Corte Superior dê definição jurídica diversa aos fatos expressamente delineados no acórdão objeto do apelo nobre, isto é, quer-se que essa Corte Superior atribua o correto valor jurídico aos fatos reconhecidos nas instâncias ordinárias, providência francamente aceita no âmbito de recurso especial" (fl. 280).
+Não houve manifestação da parte agravada.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO SÉRGIO KUKINA(Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como antes asseverado, no que tange à litispendência, o aresto atacado está calcado nas seguintes razões de decidir (fls. 196/203):
+Para que seja verificada hipótese de litispendência ou coisa julgada, é necessário que a parte autora tenha reproduzido ação anteriormente ajuizada, havendo litispendência quando se repete ação que está em curso; e coisa julgada quando se repete ação que já foi decidida por sentença, de que não caiba recurso, conforme regramento trazido pelo Art. 301, incisos V e VI, e parágrafos 1º e 3º, todos do Código de Processo Civil de 1973.
+ ..
+O artigo 267 do CPC/73, inciso V, estabelece a extinção do processo, sem julgamento do mérito, quando houver configuradas as hipóteses de litispendência ou de coisa julgada. Os parágrafos 1º a 3e, do artigo 301, do mesmo diploma legal, por sua vez, disciplinam:
+ ..
+Compulsando os autos, verifico que a parte demandante/agravada, em setembro de 1999, ajuizou ação contra o Estado do Rio Grande do Sul pretendendo a declaração do seu direito a ter reajustado os valores do vale-refeição, com a condenação do Estado ao pagamento das parcelas vencidas e vincendas (fls. 46/52).
+A ação, cuja tramitação ocorreu perante a Vara da Fazenda Pública do Foro Central, foi julgada improcedente (fl. 53), tendo sido interposto o Recurso de Apelação nº [CPF], o qual foi desprovido nesta Corte (fls. 57/58).
+Em 04/09/2012, a parte autora ajuizou nova ação postulando os reajustes do vale-refeição no período que vai de 2000 a 2010, com base na Súmula 33 do TJ/RS.
+Sobre o tema, convém citar o REsp nº 1.299.895-RS, julgado pelo STJ em 14/02/2011, em que o Ministro Herman Benjamin reconheceu a existência de coisa julgada em situação que, em tese, se assemelha a dos autos, pois versa sobre vale-refeição. Destaco, para melhor compreensão da controvérsia, trecho do voto do Relator:
+ ..
+Contudo, o tema foi objeto de enfrentamento recente na Terceira Câmara Cível desta Corte, com o entendimento predominante de que a distinção entre os períodos reclamados é suficiente para descaracterizar a tripla identidade entre as ações, como se vê dos seguintes precedentes:
+ ..
+Considerando que, no caso dos autos não há sobreposição dos períodos reclamados das duas ações, vai rejeitada a preliminar de coisa julgada.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, firmada no sentido de que as duas demandas propostas não possuem o mesmo pedido e a mesma causa de pedir, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via especial, conforme o óbice previsto na Súmula 7/STJ.
+Em reforço:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR ESTADUAL. VALE-REFEIÇÃO. ALEGAÇÃO DE LITISPENDÊNCIA AFASTADA, PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. SÚMULAS 7/STJ E 280/STF. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Trata-se de Agravo interno, aviado contra decisão monocrática publicada em 03/08/2017, que, por sua vez, julgou recurso interposto contra decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/73.
+II. Na origem, cuida-se de demanda proposta por servidor estadual, na qual se postula o reajuste da parcela atinente ao vale-refeição, com fundamento na Lei estadual 10.002/93, sob pena de afronta ao princípio da legalidade. O Tribunal de origem afastou a obrigação de litispendência, ao fundamento de que "os documentos acostados às fls. 24-33 comprovam a existência de ação anterior, distribuída em 06.09.1999, tombada sob o nº 001/1.05.2092009-4, a qual tramitou perante a 2ª Vara da Fazenda Pública do Foro Central da Comarca de Porto Alegre, envolvendo as mesmas partes e causa de pedir. Contudo, o requerimento aqui posto é distinto daquela ação. Isto porque, como bem asseverado pelo Órgão ministerial, tratam-se de períodos não coincidentes - na presente demanda busca os reajustes a partir do ano de 2004. Portanto, não resta configurada a litispendência". No Recurso Especial sustenta o ora agravante que, "mesmo quando a parte, autora possui dois vínculos funcionais com o ente público, tal situação não afasta a litispendência, tendo em vista que o vale-refeição é concedido apenas uma vez, por servidor, de sorte que o ingresso de mais de uma demanda por servidor sempre configurará a litispendência/coisa julgada, quando se tratar dessa matéria", nos termos do art. 5º da Lei estadual 10.002/93.
+III. No caso, a modificação do entendimento firmado pelo Tribunal de origem, acerca da não ocorrência da litispendência, no caso, exigiria o reexame do contexto fático-probatório dos autos e da legislação local, o que é vedado, em sede de Recurso Especial, a teor do disposto nas Súmulas 7 do STJ e 280 do STF. Nesse sentido: STJ, AgInt no AREsp 980.282/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 28/08/2017; RCD nos EDcl no AgInt no AREsp 1.050.647/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/08/2017; AgInt no REsp 1.633.282/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 26/06/2017; AgInt no AREsp 960.743/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 22/11/2016.
+IV. Agravo interno improvido.
+(AgInt no AREsp 1078545/RS, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 26/9/2017, DJe 4/10/2017).
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DO VALOR DO VALE-REFEIÇÃO. VIOLAÇÃO AO ART. 535 CPC NÃO CARACTERIZADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. LITISPENDÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. O agravante não trouxe argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do apelo excepcional (Súmula 211 do STJ).
+3. No que tange à suposta violação ao artigo 301, §§ 1º, 2º e 3º, do CPC, a aferição da existência de identidade entre os elementos identificadores da presente ação e daquela com a qual se alega haver litispendência demandaria o reexame do contexto fático-probatório dos autos, a atrair o óbice da Súmula 7/STJ. (Precedentes).
+4. Agravo regimental não provido.
+(AgRg no AREsp 88.726/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 14/8/2012, DJe 21/8/2012).
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
