@@ -1,0 +1,45 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FATO GERADOR DE ITCMD. CONTRATO REAL DE USO. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. TEMA CONSTITUCIONAL DO ACÓRDÃO. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa assim estabelece:
+DIREITO TRIBUTÁRIO. CONCESSÃO DE DIREITO REAL DE USO. INCIDÊNCIA DE ITCD. IMPOSSIBILIDADE.
+I. A concessão de direito real de uso não se qualifica como fato gerador do Imposto sobre a Transmissão Causa Mortis de Quaisquer Bens ou Direitos - ITCD.
+II. Recurso e remessa necessária desprovidos.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a, da Constituição Federal, o recorrente alega a violação aos artigos 80, I, 538 e 1.225, todos dos Código Civil e 35 do CTN, ao sustentar em síntese: que incide ITCMD na concessão de direito real de uso.
+Contrarrazões ao recurso especial às fls. 272/301 (e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente agravo interno atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+Em mérito, o recorrente defende que a concessão de direito real de uso firmado entre o Governo do Distrito Federal e a recorrida configura fato gerador do ITCMD.
+O Tribunal de origem ao dirimir a controvérsia sobredita arrematou, in verbis:
+A concessão de direito real de uso não incorpora essa essência jurídica da doação, consoante se depreende do artigo 7º, caput, do Decreto -Lei 271/67, que tem a seguinte redação:
+Art. 7º É instituída a concessão de uso de terrenos públicos ou particulares remunerada ou gratuita, por tempo certo ou indeterminado, como direito real resolúvel, para fins específicos de regularização fundiária de interesse social, urbanização, industrialização, edificação, cultivo da terra, aproveitamento sustentável das várzeas, preservação das comunidades tradicionais e seus meios de subsistência ou outras modalidades de interesse social em áreas urbanas.
+Trata-se de instituto jurídico com perfil jurídico próprio e que, ao contrário da doação, não envolve transmissão dominial. Nas palavras de [NOME]:
+Concessão de direito real de uso é o contrato administrativo pelo qual o Poder Público confere ao particular o direito real resolúvel de uso de terreno público ou sobre o espaço aéreo que o recobre, para os fins que, prévia e determinadamente, o justificaram. (Manual de Direito Administrativo, Lumen Juris, 16a ed.,, p. 971).
+(..) A concessão do direito real de uso salvaguarda o patrimônio da Administração e evita a alienação de bens públicos, autorizada às vezes sem qualquer vantagem para ela. Além do mais, o concesssionário não fica livre para dar ao uso a destinação que lhe convier, mas, ao contrário, será obrigado a destiná-lo ao fim estabelecido em lei, o que mantém resguardado o interesse público que originou a concessão real de uso. (Obra citada, p. 972).
+Ressai nítida, portanto, a singularidade jurídica da concessão de direito real de uso que a distingue e afasta da doação. Daí por que a tributação pretendida pelo Apelante viola o princípio da legalidade tributária inscrito no artigo 150, inciso I, da Constituição Federal, que tem a seguinte dicção:
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+I - exigir ou aumentar tributo sem lei que o estabeleça;
+A tipicidade tributária, que deriva imediatamente do princípio da legalidade estrita, impede que um imposto previsto para transmissões patrimoniais gratuitas seja aplicado a instituto de contornos jurídicos distintos. Ensina, a propósito, [NOME]:
+O veículo introdutor da regra tributária no ordenamento há de ser sempre a lei (sentido lato), porém o princípio da estrita legalidade diz mais do que isso, estabelecendo a necessidade de que a lei adventícia traga em seu bojo os elementos descritores do fato jurídico e os dados prescritores da relação obrigacional. Esse plus caracteriza a tipicidade tributária, que alguns autores tomam como outro postulado imprescindível ao subsistema de que nos ocupamos, mas que pode, perfeitamente, ser tido como uma decorrência imediata do princípio da estrita legalidade. (Curso de Direito Tributário, 218 ed., Saraiva, p. 174).
+Conclui-se, assim, pela inexistência de amparo legal para a incidência do ITCD à concessão de direito real de uso. Nesse sentido, decidiu o Superior Tribunal de Justiça:
+Como se depreende do contexto acima, o Tribunal de origem afastou a incidência do ITCMD ante a ausência de norma distrital que permita a imposição tributária, consoante o princípio da legalidade estrita, nos termos do artigo 150, I, da Constituição Federal.
+Ante este fundamento exclusivamente constitucional do acórdão recorrido, não merece guarida o apelo especial, mormente porque não compete nesta via processual analisar a violação de norma da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Não obstante tal fundamentação, nem sequer foi apresentado recurso extraordinário em face do acórdão recorrido. Assim, o exame da questão é obstado pelo disposto na Súmula 126/STJ: "É inadmissível o recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. IMUNIDADE TRIBUTÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126 DO STJ.
+1. A matéria pertinente aos arts. 121 e 128 do CTN não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão.
+Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+2. O Tribunal de origem, ao decidir a questão relativa à imunidade tributária, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."). Nesse mesmo sentido: AgRg no AREsp 126036/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 7/12/2012;
+AgRg no AREsp 206.733/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 5/12/2012.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 876.030/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2016, DJe 27/06/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. OMISSÃO DO TRIBUNAL DE ORIGEM CARACTERIZADA. VIOLAÇÃO AO ART. 535 DO CPC. PROVIMENTO DO APELO NOBRE PARA SE DETERMINAR A MANIFESTAÇÃO DO TRIBUNAL DE ORIGEM SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. ÓBICE DA SÚMULA 126/STJ. IMPERTINÊNCIA.
+1. O Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre argumentação que se mostra relevante para o deslinde da controvérsia, em franca violação ao art. 535 do CPC.
+2. No caso, a despeito da oposição dos competentes aclaratórios, a instância ordinária deixou de emitir juízo acerca da tese lançada pelo ente distrital de que a acumulação ilegal de cargos públicos, expressamente vedada pelo art. 37, XVI, da Constituição Federal, caracteriza uma situação que se protrai no tempo, motivo pelo qual é passível de ser investigada pela Administração a qualquer tempo 3.
+Deve ser afastada a pretendida aplicação da Súmula 126/STJ, "uma vez que o recurso foi provido por se ter acolhido a preliminar de nulidade no julgamento dos embargos declaratórios, reconhecendo-se a ofensa ao art. 535 do CPC, matéria que envolve exclusivamente a aplicação de lei federal." (EDcl no REsp 252.732/PA, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 01/03/2001).
+4. Ademais, em que pese a noticiada ausência de interposição de agravo perante o STF (art. 544 do CPC/73) pelo Distrito Federal, na espécie, revela-se desinfluente, eis que o Tribunal local, ao apreciar o tema relativo à decadência, invocou fundamentação normativa essencialmente infraconstitucional.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1535589/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/06/2016, DJe 22/06/2016)
+Ante o exposto, com fulcro no artigo 932, III, do CPC/2015 não conheço do recurso especial.
+Publique-se. Intimem-se.
