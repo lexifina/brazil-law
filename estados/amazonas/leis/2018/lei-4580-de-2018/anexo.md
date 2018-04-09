@@ -1,0 +1,7 @@
+ANEXO ÚNICO CARGO DE PROVIMENTO EM COMISSÃO
+
+QUANTIDADE CARGO SIMBOLOGIA
+
+01 Coordenador Executivo - 02 Subcoordenador Setorial
+
+05 Assessor I AD-1
