@@ -1,0 +1,33 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. ENUNCIADO 3/STJ. AÇÃO CIVIL PÚBLICA. IMPOSIÇÃO DE MEDIDAS PARA O FUNCIONAMENTO DE ESCOLA PÚBLICA. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE CONCEDEU PEDIDO LIMINAR. POSTERIOR PROLAÇÃO DE SENTENÇA. PERDA DE OBJETO CONFIGURADA. PRECEDENTES DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial de MUNICÍPIO DE MANAUS, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Amazonas, com a seguinte ementa:
+DIREITO CONSTITUCIONAL, CIVIL E PROCESSUAL CIVIL - AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA - ADEQUAÇÃO DE INFRAESTRUTURA NECESSÁRIA - COLÉGIO PÚBLICO - AGRAVO CONHECIDO E DESPROVIDO.
+- O Poder Judiciário, em situações excepcionais, pode determinar que a Administração Pública adote medidas assecuratórias de direitos constitucionalmente reconhecidos como essenciais, sem que isso configure violação do princípio da separação de poderes.
+- Agravo conhecido e desprovido.
+Contra o acórdão vergastado, foram opostos embargos de declaração, tendo esses sido desprovidos.
+No recurso especial, a parte recorrente aponta violação ao artigo 537, §1º do Código de Processo Civil de 2015, alegando que o valor fixado a título de astreintes seria excessivo.
+Houve contrarrazões por parte do Ministério Público do Estado do Amazonas.
+Admitido o recurso na origem, foram os autos encaminhados para esta Corte Superior de Justiça.
+O Ministério Público, em parecer às fls. 316/319, opina pelo conhecimento e desprovimento do apelo especial.
+É o relatório. Passo a decidir.
+Considerando a data de publicação do acórdão recorrido, o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+In casu, trata-se de recurso interposto contra acórdão do Tribunal de Justiça do Estado do Amazonas, o qual negou seguimento ao agravo de instrumento manejado contra decisão que concedeu os efeitos da tutela antecipada e determinou a adequação da infraestrutura da Escola Municipal de Ensino Fundamental Aristóteles Conte de Alencar, sob pena de ao ente público ser aplicada multa diária por descumprimento.
+Ocorre que, em consulta ao site do Tribunal de origem, verifica-se que houve decisão de mérito nos autos do processo principal n. 0607631-33.2015.8.04.0001, o que impõe o reconhecimento da perda do objeto do agravo de instrumento interposto contra decisão que deferiu o pedido de antecipação de tutela.
+Isso porque é o entendimento desta Corte Superior, que perde o objeto o agravo de instrumento interposto contra decisão que defere ou indefere liminar com a superveniência da prolação de sentença.
+Nesse sentido, os seguinte precedentes:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DO RÉU/AGRAVANTE.
+1. "Consoante o entendimento pacífico da jurisprudência desta Corte Superior, a superveniência de sentença de mérito no feito principal enseja a perda de objeto do recurso especial resultante de agravo de instrumento interposto contra decisão concessiva ou denegatória de liminar ou antecipação de tutela, tendo em vista que a sentença absorve os efeitos do provimento liminar, por se tratar de juízo de cognição exauriente." (cf. AgInt nos EDcl no REsp 1651652/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/05/2017, DJe 01/06/2017)
+2. Agravo interno desprovido. (AgInt no AREsp 922.790/BA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/11/2017, DJe 17/11/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DOS BENS. AGRAVO DE INSTRUMENTO RELATIVO À MEDIDA ANTECIPATÓRIA. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO, JULGANDO IMPROCEDENTE A AÇÃO. PERDA DE OBJETO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. De acordo com a jurisprudência do Superior Tribunal de Justiça, a superveniência de sentença de mérito, seja de procedência ou improcedência, acarreta a perda de objeto do recurso especial, interposto contra decisão interlocutória que decide pedido de liminar ou antecipação dos efeitos da tutela, porquanto o provimento dotado de cognição exauriente absorve os efeitos da medida antecipatória, cumprindo às partes impugnar a sentença, e não mais o deferimento ou indeferimento da liminar ou antecipação dos efeitos da tutela.
+II. Em situações semelhantes à dos presentes autos, em que fora declarada a perda de objeto do Recurso Especial que se insurge contra decisão interlocutória que, em sede de ação de improbidade administrativa, decide acerca da indisponibilidade dos bens, destacam-se os seguintes precedentes desta Corte: STJ, REsp 1.351.883/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/05/2015; STJ, AgRg no REsp 1.244.149/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 23/10/2014; STJ, AgRg no Ag 1.146.044/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 04/08/2014.
+III. Agravo Regimental improvido (AgRg no AREsp. 728.557/SP, Rel. Min. ASSUSETE MAGALHÃES, DJe 20.11.2015).
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. SERVIDOR PÚBLICO. ATO ADMINISTRATIVO. DESCONSTITUIÇÃO. LEGITIMIDADE PASSIVA. RECURSO ESPECIAL QUE TEM ORIGEM EM AGRAVO DE INSTRUMENTO. QUESTÃO SUPERADA COM A PROLAÇÃO DA SENTENÇA DE MÉRITO.
+I - Houve prolação de sentença de mérito na ação civil pública em questão, a qual foi julgada procedente, reconhecendo-se a nulidade do ato administrativo que efetivou a ora recorrente na titularidade do Ofício do Registro de Imóveis da Comarca de Cruz Alta/RS e determinando a vacância do cargo.
+II - Nesse panorama, uma vez reconhecida a nulidade do ato administrativo em si, resta superada a discussão ora trazida no recurso especial, interposto em sede de agravo de instrumento, que se referia à necessidade de permanência do Estado no pólo passivo da ação civil pública antes aludida.
+III - Ademais, consoante anotado no parecer ministerial: a sentença tratou do interesse do estado do Rio Grande do Sul em integrar o pólo passivo da lide. Portanto, a questão já foi solucionada pelo juízo de 1º grau em julgamento de mérito.
+IV - Precedente citado: REsp nº 762.220/SP, Rel. Min. ELIANA CALMON, DJ de 11/09/2007.
+V - Recurso especial que se julga prejudicado. (REsp 1.062.171/RS, 1ª Turma, Rel. Min. Francisco Falcão, DJe de 02/03/2009)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem.se.
