@@ -1,0 +1,94 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. VIOLAÇÃO AOS ARTS. 1º E 157, AMBOS DO CP. PLEITO DE ABSOLVIÇÃO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AFRONTA AO ART. 29, § 1º, DO CP. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE. SÚMULA 7/STJ. OFENSA AO ART. 59 DO CP. DOSIMETRIA. DUAS CAUSAS DE AUMENTO. UTILIZAÇÃO DE UMA COMO CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL E OUTRA COMO QUALIFICADORA. POSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, ementado verbis:
+"PENAL E PROCESSUAL PENAL. APELAÇÕES CRIMINAIS. ROUBO COM CAUSA DE AUMENTO PELO EMPREGO DE ARMA DE FOGO E CONCURSO DE PESSOAS. CRIME CONTRA O PATRIMÔNIO. PALAVRA DO POLICIAL. RELEVÂNCIA. AUTORIA E MATERIALIDADE COMPROVADAS. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA NÃO CONFIGURADA. REDUÇÃO DO QUANTUM DA PENA DE MULTA. ALTERAÇÃO DO REGIME DE CUMPRIMENTO INICIAL DE PENA PARA O SEMIABERTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Havendo prova suficiente da materialidade e da autoria do crime, não procede o pedido de absolvição por insuficiência de provas.
+2. Reconhece-se a autoria quando devidamente demonstrado que o corréu teve participação efetiva na empreitada criminosa.
+3. Ao fixar a pena pecuniária, o magistrado deve observar o disposto no art. 49, caput, e as circunstâncias judiciais do art. 59, caput, ambos do Código Penal, para estabelecer o número de dias-multa entre o mínimo de 10 e o máximo de 360 dias, guardando sempre a proporcionalidade com a pena corporal imposta.
+4. Fixada a pena privativa de liberdade superior a 4 (quatro) anos e inferior a 8 (oito) anos, além da primariedade do réu, o regime de cumprimento de pena deve ser o semiaberto.
+5. Recursos conhecidos e parcialmente providos" (fls. 531/532).
+Em seu recurso especial, às fls. 568/581, sustenta o recorrente afronta aos artigos 1º e 157, ambos do Código Penal, alegando que deveria ter sido absolvido pela prática do crime de roubo circunstanciado, vez que "inexistem nos autos provas suficientes para a condenação".
+Afirma que "para justificar o édito condenatório, a prova da autoria e da materialidade deve ser robusta, sendo que qualquer dúvida acerca de tais elementos constitui motivo suficiente para ensejar uma sentença absolutória".
+Ademais, aponta violação ao artigo 29, § 1º, do Código Penal, sustentando que a sua participação no delito "se é que houve, foi de menor importância, porquanto não auxiliou na execução do delito de forma efetiva, tendo somente acompanhado Luís durante o curto espaço de tempo entre a suposta ação delitiva deste e a prisão de ambos".
+Por fim, aduz malferimento ao artigo 59 do Código Penal, ao argumento de que a pena-base deve ser fixada no mínimo legal, diante da inidoneidade dos argumentos utilizados para exasperá-la.
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. , sob os seguintes fundamentos:
+"O recurso é tempestivo, as partes são legítimas e está presente o interesse recursal.
+Passo ao exame dos pressupostos constitucionais de admissibilidade.
+E, ao fazê-lo, verifico que o recurso não merece seguir. Com efeito, a turma julgadora levou em consideração os elementos de fato e prova dos autos, apreciados à exaustão na instância competente. A apreciação da tese recursal, tendente a reduzir a pena aplicada, ou absolver o acusado, bem como reconhecer que sua participação foi de menor importância, demandaria, o reexame de matéria fático-probatória, vedado na presente sede pelo enunciado 7 da Súmula do STJ. A respeito, confira-se:
+(..)
+Ante o exposto, INADMITO o recurso especial".
+Em seu agravo, às fls. 648/656, assevera o recorrente que "o recurso apresentado não tem como objetivo solicitar o reexame de provas, mas na realidade vem trazer a conhecimento desta e. Corte a ocorrência de violação aos art. 386, incisos V e VII, do Código de Processo Penal, bem como aos artigos 157, § 2º, incisos I e II do Código Penal, por parte do acórdão recorrido".
+O Ministério Público Federal manifestou-se às fls. 673/676 nos termos da seguinte ementa:
+"AGRAVOS EM RECURSO ESPECIAL. PRETENSÃO DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE EM SEDE DE APELO ESPECIAL. INCIDÊNCIA DA SÚMULA N.º 07/STJ. PELO CONHECIMENTO DOS AGRAVOS PARA NÃO CONHECER DOS RECURSOS ESPECIAIS".
+É o relatório.
+A insurgência não merece prosperar.
+De início, verifica-se que pretende o recorrente, ao pugnar pela absolvição, rediscutir a suficiência probatória para a condenação, o que implicaria, inevitavelmente, incursão no bojo do arcabouço fático probatório, procedimento esse incabível nas vias excepcionais.
+É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático-probatório a fim de analisar a existência de provas suficientes a embasar o decreto condenatório, ou a ensejar a absolvição. Nesse contexto, verifica-se não possuir esta senda eleita espaço para a análise da matéria suscitada pelo recorrente, cuja missão pacificadora restara exaurida pelas instâncias anteriores.
+De fato, para se chegar a conclusão diversa da que chegou o Tribunal de origem, seria inevitável o revolvimento do arcabouço carreado aos autos, procedimento sabidamente inviável na instância especial.
+No mais, referida vedação encontra respaldo no enunciado nº 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja Recurso Especial". Confiram-se, nesse sentido, os precedentes da Corte:
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. INÉPCIA DA DENÚNCIA. DESCRIÇÃO FÁTICA SATISFATÓRIA. ABSOLVIÇÃO POR FALTA DE PROVAS. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. O exame da pretensão recursal de absolvição por falta de provas, quando as instâncias ordinárias entenderam devidamente comprovadas a autoria e a materialidade do crime imputado na denúncia, implica a necessidade de revolvimento do suporte fático-probatório delineado nos autos. Incidência da Súmula n. 7 do STJ.
+3. O conhecimento de recurso fundado no art. 105, III, "c", da Constituição Federal, por divergência jurisprudencial, pressupõe a realização do devido cotejo analítico, demonstrando, de forma clara e objetiva, a suposta incompatibilidade de entendimento e a similitude fática entre as demandas, conforme dispõe o art. 541, parágrafo único, do CPC e o art. 255, §§ 1º e 2º, do RISTJ, o que não ocorreu neste caso.
+4. Agravo regimental não provido".
+(AgRg no AREsp 593.941/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/06/2015, DJe 03/08/2015)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL E HOMICÍDIO CULPOSOS NA DIREÇÃO DE VEÍCULO AUTOMOTOR. OFENSA AO PRINCÍPIO DA CORRELAÇÃO ENTRE A ACUSAÇÃO E A SENTENÇA. NÃO OCORRÊNCIA. EMENDATIO LIBELLI. POSSIBILIDADE. NULIDADE AFASTADA.
+(..)
+ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS INCONTESTES. VERIFICAÇÃO. IMPOSSIBILIDADE. INCURSÃO NA SEARA FÁTICO/PROBATÓRIA. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. O acórdão objurgado, ao condenar o ora agravante como incurso nas sanções dos arts. 302 e, 303, da Lei 9.503/97, alicerçou-se nos elementos constantes nos autos, portanto, para mudar o julgado, seria necessário, invariavelmente, a incursão no conjunto fático/probatório, providência incabível em sede de recurso especial ante o óbice contido na Súmula n. 7/STJ.
+TRIBUNAL LOCAL. JUÍZO DE ADMISSIBILIDADE. ANÁLISE DE MÉRITO. USURPAÇÃO DE COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO OCORRÊNCIA.
+(..)
+2. Agravo regimental a que se nega provimento".
+(AgRg no AREsp 653.174/TO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 12/05/2015, DJe 19/05/2015)
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR. ABSOLVIÇÃO PELO TRIBUNAL A QUO POR AUSÊNCIA DE CERTEZA QUANTO À CULPABILIDADE DO ACUSADO. ALEGAÇÃO DE INCORRETA QUALIFICAÇÃO JURÍDICA DOS FATOS IMPUTADOS AO ACUSADO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cabe às instâncias ordinárias o cotejo fático acerca da existência ou não de provas suficientes a embasar um decreto condenatório.
+2. É defeso, em sede de recurso especial, modificar a interpretação divergente dada pela Corte de origem com base no princípio do livre convencimento motivado, uma vez que a análise da pretensão recursal exigiria, necessariamente, incursão na matéria fático-probatória. Incidência da Súmula 7/STJ.
+3. Agravo regimental improvido".
+(AgRg no AREsp 472.215/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/02/2015, DJe 13/02/2015)
+Ademais, no que tange à aventada afronta ao artigo 29, § 1º, do Código Penal, sob o pleito de reconhecimento da participação de menor importância do recorrente, verifica-se que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa e com base em dados concretos dos autos, asseverou que a participação não seria de menor importância, "haja vista sua efetiva participação na empreitada criminosa, visto que realizou abordagem das vítimas, em apoio ao corréu Luís, o qual subtraía os objetos da vítima Fabrício" (fls. 545/546).
+Desse modo, parece claro que alterar o entendimento manifestado no acórdão recorrido somente seria possível a partir da incursão no arcabouço fático e probatório, procedimento incabível nas vias excepcionais, nos termos do enunciado nº 7 da Súmula desta Corte.
+Com efeito, não se mostra plausível nova análise do contexto probatório por parte desta Corte Superior, a qual não pode ser considerada uma terceira instância recursal.
+Confiram-se, nesse sentido, os precedentes da Corte:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA (ART. 1º, INCISO I, DA LEI N. 8.137/90). PREQUESTIONAMENTO. AUSÊNCIA. ENUNCIADO N. 211/STJ. NÃO CONHECIMENTO DA IRRESIGNAÇÃO.
+(..)
+AUSÊNCIA DE DOLO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA.
+Concluído pelas instâncias ordinárias, de forma fundamentada, a materialidade e autoria assestadas aos agravantes, a pretensão recursal, no sentido de absolvê-los por ausência de dolo ou de reconhecer a participação de menor importância, desconstituindo, com isso, as premissas fixadas no acórdão recorrido, demandaria o reexame do conjunto fático-probatório dos autos, inviável na via eleita, ante o óbice do Enunciado da Sumula n. 7/STJ.
+PENA DE MULTA. CRITÉRIO BIFÁSICO. FIXAÇÃO DA QUANTIDADE DE DIAS-MULTA. DIRETRIZES DO ARTIGO 59 DO CÓDIGO PENAL. NECESSIDADE DE REDUÇÃO DOS DIAS-MULTA ANTE A DIMINUIÇÃO DA PENA-BASE IMPOSTA AOS AGRAVANTES. SANÇÃO REDIMENSIONADA.
+(..)
+3. Agravo regimental parcialmente provido, a fim de redimensionar a pena de multa imposta".
+(AgRg no AREsp 730.776/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/03/2018, DJe 23/03/2018)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. PLEITOS DE ABSOLVIÇÃO OU RECONHECIMENTO DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1. Para a análise da tese recursal, de que o agravante não teria cometido o delito de roubo ou de que sua participação na ação criminosa foi de menor importância, mostra-se, no caso, imprescindível o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte. Precedente.
+2. Agravo regimental desprovido".
+(AgRg no AREsp 1151572/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+Por fim, no que concerne à alegada violação ao artigo 59 do Código Penal, sob o argumento de que não teriam sido utilizados fundamentos idôneos para negativar a circunstância judicial das circunstâncias do delito, observa-se que a matéria debatida pelo recorrente encontra-se pacificada nesta Corte nos termos do que decidido pelo Tribunal de origem. Quanto ao tema, assim ponderou o Tribunal a quo:
+"Na primeira fase, o MM. Juiz fixou a pena-base em 04 (quatro) anos e 08 (oito) meses de reclusão, pois valorou negativamente a circunstância do crime, em razão do emprego de arma de fogo.
+Sem razão a defesa de MARCOS, ao pleitear a fixação da pena-base no mínimo legal, por falta de fundamentação idônea. O Sentenciante fundamentou devidamente sua decisão ao majorar a pena-base:
+(..)
+Cumpre esclarecer que é plenamente possível, diante do reconhecimento de várias causas de aumento de pena previstas no mesmo tipo penal, deslocar a incidência de algumas delas para a primeira fase, para fins de majoração da pena-base, desde que a reprimenda não seja exasperada pelo mesmo motivo na terceira etapa da dosimetria da pena e que seja observado o percentual legal máximo previsto pela incidência das majorantes.
+Assim, o Superior Tribunal de Justiça vem admitindo que, diante da presença de duas ou mais causas de aumento de pena, uma ou mais delas sejam utilizadas na primeira fase e a remanescente permaneça como causa de aumento para circunstanciar o roubo.
+Esse entendimento não é conflitante com o art. 68 do Código Penal, pois o objetivo precípuo deste dispositivo, em atenção ao princípio constitucional da individualização da pena, é estabelecer a reprimenda mais adequada ao caso concreto, ao prever as três etapas da dosimetria.
+Seguindo essa linha de raciocínio, confira-se o julgado daquela Corte Superior:
+(..)
+Nesta Corte de Justiça, nas três turmas criminais, há julgados admitindo o deslocamento. Vejamos:
+(..)
+Dessa forma, admitido o deslocamento da causa de aumento para a etapa inicial da dosimetria e analisando a fundamentação declinada na r. sentença, correta a aplicação da causa de aumento de pena em razão do emprego de arma" (fls. 547/551).
+Neste contexto, observa-se que a Corte de origem utilizou uma das qualificadoras para regulamente qualificar o tipo (concurso de pessoas), e a remanescente (emprego de arma de fogo), a título de circunstância judicial negativa, na primeira fase da dosagem penal. Dessa forma, constata-se que o Tribunal de origem seguiu raciocínio jurídico que não se afasta da jurisprudência mansa e pacífica deste Sodalício sobre a matéria.
+Com efeito, "a jurisprudência desta Corte e do colendo STF admite que, reconhecidas duas ou mais qualificadoras, uma enseje o tipo qualificado e a outra circunstância negativa, seja como agravante (se como tal prevista), seja como circunstância judicial (REsp. 831.730/DF, Rel. Min. FÉLIX FISCHER, 5T, DJU 09.04.07 e HC 71.293/RJ, Rel. Min. CELSO DE MELLO, DJU 18.08.95)" (HC 70594/DF, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, DJ 19/11/2007). No mesmo sentido:
+"CONSTITUCIONAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. FURTO DUPLAMENTE QUALIFICADO. DOSIMETRIA. UTILIZAÇÃO DE QUALIFICADORAS REMANESCENTES COMO CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. POSSIBILIDADE. REINCIDÊNCIA. NECESSIDADE DE PRÉVIO TRÂNSITO EM JULGADO DA CONDENAÇÃO EM RELAÇÃO À OCORRÊNCIA DO FATO APURADO. FURTO PRIVILEGIADO. COMPATIBILIDADE COM QUALIFICADORAS OBJETIVAS. RÉU TECNICAMENTE PRIMÁRIO. DETERMINAÇÃO DO BENEFÍCIO PELAS INSTÂNCIAS INFERIORES. REGIME INICIAL SEMIABERTO DEVIDO. PENA DEFINITIVA, NA PIOR DAS HIPÓTESES, INFERIOR A 4 ANOS. PRESENÇA DE CIRCUNSTÂNCIAS DESFAVORÁVEIS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENA RESTRITIVA DE DIREITOS INDEVIDA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+3. Nos termos da jurisprudência desta Corte, de rigor a utilização de circunstâncias qualificadoras remanescentes àquela que qualificou o tipo como causas de aumento, agravantes ou circunstâncias judiciais desfavoráveis, respeitada a ordem de prevalência, ficando apenas vedado o bis in idem.
+(..)
+12. Habeas corpus não conhecido. Ordem concedida de ofício para determinar que o Juízo de 1º grau proceda ao redimensionamento da pena imposta, com a aplicação do privilégio do § 2º do art. 155 do CP, como entender de direito, e estabelecer o regime inicial semiaberto".
+(HC 326.218/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/08/2016, DJe 12/08/2016)
+"HABEAS CORPUS SUBSTITUTIVO. INADMISSIBILIDADE. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, II, III E IV, C/C O ART. 61, II, F, AMBOS DO CP). IRREGULARIDADES QUANTO À QUESITAÇÃO. PRESENÇA DE ERRO MATERIAL NA TRANSCRIÇÃO DAS RESPOSTAS DOS QUESITOS. QUESTÃO NÃO ARGUIDA NO MOMENTO OPORTUNO. PRECLUSÃO. NULIDADE. NÃO OCORRÊNCIA. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE. VALORAÇÃO NEGATIVA DOS MAUS ANTECEDENTES. CONDENAÇÃO SEM TRÂNSITO EM JULGADO. SÚMULA 444/STJ. PLURALIDADE DE QUALIFICADORAS. UTILIZAÇÃO DE UMA PARA QUALIFICAR O CRIME E DAS OUTRAS PARA EXASPERAR A REPRIMENDA-BASE. POSSIBILIDADE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. PRETENSÃO À APLICAÇÃO DA CONFISSÃO ESPONTÂNEA. FUNDAMENTAÇÃO DIVERSA. MANOBRA DA DEFESA. IMPOSSIBILIDADE.
+(..)
+4. Esta Corte Superior de Justiça tem reiteradamente decidido no sentido de ser possível, existindo pluralidade de qualificadoras, a consideração de uma para justificar o tipo penal qualificado e das demais como circunstâncias judiciais ou agravantes da segunda fase da dosimetria da pena.
+5. A retratação em juízo não afasta a atenuante da confissão, desde que a decisão se tenha fundamentado nela, o que não ocorreu na presente hipótese, ficando claro ter-se utilizado o paciente de manobra defensiva.
+6. Writ não conhecido. Ordem concedida de ofício, tão somente para afastar a valoração negativa dos maus antecedentes, redimensionando-se a pena do paciente para 16 anos e 4 meses de reclusão, mantida, no mais, a sentença condenatória".
+(HC 236.152/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/11/2015, DJe 09/12/2015)
+Dessa forma, estando o acórdão recorrido em conformidade com a jurisprudência dominante desta Corte Superior de Justiça acerca do tema, de rigor o conhecimento do agravo para negar provimento ao recurso especial, neste ponto, nos termos da Súmula 568 deste Sodalício, que assim dispõe:
+Súmula 568. O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "b", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para conhecer parcialmente do recurso especial e, neste ponto, negar-lhe provimento.
+Publique-se.
