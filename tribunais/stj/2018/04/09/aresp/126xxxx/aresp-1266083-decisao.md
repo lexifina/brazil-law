@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo, interposto por [NOME], em 21/02/2018, contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. EMBARGADOS DE DECLARAÇÃO OPOSTOS POR TERCEIRO. NÃO CONHECIDO. ILEGITIMIDADE RECURSAL. ERRO MATERIAL. NÃO CONFIGURADO. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A oposição de embargos de declaração por terceiro estranho aos autos não se trata de mero erro material, mas, sim, ilegitimidade recursal.
+2. Agravo interno conhecido e não provido. Agravo de instrumento conhecido e não provido. Unânime" (fls. 1149/1150e).
+Sustenta a parte agravante, nas razões do Recurso Especial, a existência de dissídio jurisprudencial, sob a tese de que, "uma vez preenchidos os pressupostos de admissibilidade do recurso, o mero erro material na indicação da parte recorrente não obsta o conhecimento e processamento deste" (fl. 1164e).
+Requer, ao final, o provimento do Recurso Especial.
+Em contrarrazões, a parte ora agravada assevera que o Recurso Especial não deve ser conhecido, tendo em vista a incidência, na espécie, do enunciado da Súmula 284/STF.
+Negado seguimento ao Recurso Especial (fls. 1203/1204e), foi interposto o presente Agravo (fls. 1211/1229e).
+Em contraminuta, a parte agravada reitera os argumentos expendidos nas contrarrazões ao Recurso Especial.
+A irresignação não merece acolhimento.
+Verifica-se que a parte recorrente não indicou, com precisão e objetividade, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura teriam tido interpretação divergente pelo Tribunal de origem, a sustentar o alegado dissídio jurisprudencial, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DA LEI FEDERAL VIOLADA. SÚMULA 284/STF. AÇÃO DE COBRANÇA. CONTRATO DE FINANCIAMENTO. FCVS. VERIFICAÇÃO. SÚMULA 7/STJ.
+1. É inviável o recurso especial em que o recorrente não indica efetivamente quais os dispositivos de lei federal foram violados, para sustentar sua irresignação. Incidência da Súmula 284 do STF.
+2. Ademais, entendeu o Tribunal de origem que o contrato seria de natureza estritamente privada, celebrado entre a instituição financeira e o mutuário, não estando em discussão cláusula do FCVS.
+Rever esse entendimento, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+Agravo regimental não conhecido" (STJ, AgRg no AREsp 59.135/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 25/09/2012).
+Registre-se que a Corte Especial do STJ consolidou o entendimento de que a ausência de indicação do dispositivo legal violado torna incabível o conhecimento do recurso, tanto pela alínea a como pela alínea c do permissivo constitucional, in verbis:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. "A inépcia da petição inicial, escorada no inciso II do parágrafo único do artigo 295 do Código de Processo Civil, se dá nos casos em que se impossibilite a defesa do réu ou a efetiva prestação jurisdicional" (REsp 1.134.338/RJ, Rel. Min. MASSAMI UYEDA, Terceira Turma, DJe 29/9/11).
+2. Hipótese em que a petição inicial, além de descrever de forma objetiva os fatos (candidato inscrito em concurso público que, aprovado nas fases iniciais, foi obstado de continuar no certame por não lograr êxito no teste psicotécnico), informa o direito subjetivo supostamente ofendido, ensejador do writ, sem causar qualquer espécie de embaraço à defesa do réu ou à efetiva prestação jurisdicional, tanto assim que o pedido foi julgado procedente.
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido" (STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014).
+"ADMINISTRATIVO. DESAPROPRIAÇÃO. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. NÃO REALIZAÇÃO. NULIDADE. NÃO OCORRÊNCIA. INDENIZAÇÃO. LAUDO. CRITÉRIOS. DIVERGÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. INCIDÊNCIA.
+1. A não realização da audiência de instrução e julgamento, por si, não é causa de nulidade do processo de desapropriação.
+2. A falta de indicação dos dispositivos legais federais que teriam dado causa a interpretações divergentes impede o conhecimento do recurso especial pela alínea "c". Incidência da Súmula 284/STF.
+3. Agravo conhecido para conhecer em parte o recurso especial e, nessa extensão, negar-lhe provimento" (STJ, AREsp 648.898/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 26/02/2018).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
