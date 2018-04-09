@@ -1,0 +1,68 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. AFRONTA AOS PRINCÍPIOS DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMAS SEM REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Napoleão Nunes Maia Filho, Jorge Mussi, Og Fernandes, Benedito Gonçalves, Raul Araújo, Sérgio Kukina, Joel Ilan Paciornik, Felix Fischer, Francisco Falcão e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros João Otávio de Noronha, Luis Felipe Salomão e Mauro Campbell Marques.
+Convocados os Srs. Ministros Sérgio Kukina e Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto pelo BANCO DE LA REPÚBLICA ORIENTAL DEL URUGUAY contra decisão monocrática que apreciou recurso extraordinário interposto com o objetivo de reformar acórdão do Superior Tribunal de Justiça assim ementado (fl. 820, e-STJ):
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DO TRIBUNAL A QUO QUE NÃO ADMITIU O RECURSO ESPECIAL. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO INTERNO DESPROVIDO.
+1. A preclusão consumativa impede que se proceda ao suprimento, em sede de agravo interno, da falta de algum dos requisitos de admissibilidade do agravo em recurso especial. Nesse contexto, o recurso é improcedente.
+2. Agravo interno desprovido."
+A decisão agravada negou seguimento ao recurso extraordinário, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nos termos da seguinte ementa (fl. 868. e-STJ):
+"RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. TEMA 181/STF. VIOLAÇÃO DO PRINCÍPIO DA AMPLA DEFESA. TEMA 660/STF. RECURSO A QUE SE NEGA SEGUIMENTO."
+A parte recorrente alega que (fl. 879, e-STJ):
+"Há (..) grave violação aos postulados constitucionais quando o Poder Judiciário se recusa a analisar os fundamentos do caso em tela sob fundamentos que claramente lhe são totalmente inadequados.
+Como salientado desde o início, o especial discute apenas qual o prazo prescricional aplicável à hipótese, não se falando em nenhum momento de contrato ou de prova.
+Ao contrário do fundamentado pela r. decisão ora agravada há sim repercussão geral e violação aos postulados constitucionais do contraditório, da ampla defesa e do contraditório quando o Judiciário se recusa a analisar o objeto da lide posta sob fundamentos que lhe são totalmente estranhos."
+Contrarrazões às fls. 886/895, e-STJ.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. AFRONTA AOS PRINCÍPIOS DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMAS SEM REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Não prospera a pretensão recursal.
+Conforme posto na decisão ora agravada, observa-se dos autos que o acórdão recorrido se firmou na ausência de preenchimento dos pressupostos de admissibilidade necessários à análise do mérito recursal ante a não impugnação específica dos fundamentos da decisão agravada (Súmula 182/STJ).
+Nesse ponto, Supremo Tribunal Federal já declarou que não há repercussão geral quanto ao preenchimento dos requisitos de admissibilidade recursal de outros tribunais, pois a controvérsia se restringe ao exame da legislação infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+A propósito:
+"Agravo regimental no recurso extraordinário. Processual Civil. Análise do preenchimento de pressupostos recursais de recurso dirigido ao Superior Tribunal de Justiça. Ausência de repercussão geral. Precedentes.
+1. O Plenário da Corte, no exame do RE nº 598.365/MG, Relator o Ministro Ayres Britto, concluiu pela ausência de repercussão geral do tema relativo a pressupostos de admissibilidade de recursos da competência de outros tribunais, dado o caráter infraconstitucional da matéria.
+2. Agravo regimental não provido.
+3. Honorários advocatícios majorados em 2 pontos percentuais (art. 85, §§ 2º e 11, do CPC)." (RE 872.936 AgR, Relator Min. DIAS TOFFOLI, Segunda Turma, julgado em 2/8/2016, PROCESSO ELETRÔNICO DJe-180, divulgado em 24/8/2016, publicado em 25/8/2016, grifo meu.)
+"03 (TRÊS) AGRAVOS REGIMENTAIS NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO DA COMPETÊNCIA DE OUTROS TRIBUNAIS. AUSÊNCIA DE REPERCUSSÃO GERAL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 544 DO CPC. NÃO CABIMENTO. RECURSO ESPECIAL. CABIMENTO. INVIABILIDADE DO REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. INTEMPESTIVIDADE DO RECURSO EXTRAORDINÁRIO. REGIMENTAIS DESPROVIDOS.
+1. É inviável o processamento do apelo extremo quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentaram a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes.
+2. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral, o que torna inadmissível o recurso extraordinário. (RE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.08.2013 Tema 660).
+3. O Plenário da Corte, no exame do RE 598.365, Rel. Min. Ayres Britto, concluiu pela ausência de repercussão geral do tema relativo a pressupostos de admissibilidade de recursos da competência de outros tribunais, dado o caráter infraconstitucional da matéria (Tema 181).
+4. Não cabe a esta Corte rever a aplicação da sistemática da repercussão geral no Juízo de origem, nos termos do que assentado no julgamento da Questão de Ordem no AI 760.358, Rel. Min. Gilmar Mendes.
+5. A jurisprudência desta Corte é firme no sentido de que não cabe recurso extraordinário para rever a correção de decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial.
+6. O deferimento de habeas corpus de ofício constitui medida excepcional que somente se justifica quando a situação demonstrada nos autos representar, desde logo, manifesta ilegalidade ou decisão teratológica, o que não se verifica no presente caso.
+7. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido. Súmula 282 do STF.
+8. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas.
+9. É intempestivo o recurso extraordinário interposto após o prazo recursal de 15 dias.
+10. Agravos regimentais desprovidos." (ARE 926.727 AgR-terceiro, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 15/3/2016, PROCESSO ELETRÔNICO DJe-072, divulgado em 15/4/2016, publicado em 18/4/2016, grifo meu.)
+Quanto à alegação de ofensa aos princípios da ampla defesa e do devido processo legal, o STF também já decidiu que não há repercussão geral quando o julgamento da demanda estiver sujeito à prévia análise da correta incidência de regras infraconstitucionais.
+A propósito, ementas de julgados da Suprema Corte:
+"PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS NOS RECURSOS EXTRAORDINÁRIOS COM AGRAVOS. ADMINISTRATIVO. POLICIAL MILITAR. SOLDO. VALOR. VENCIMENTO BÁSICO DE REFERÊNCIA (VBR). PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA PARTE RECORRENTE. OFENSA AOS PRINCÍPIOS DO DIREITO ADQUIRIDO, DO ATO JURÍDICO PERFEITO, DA COISA JULGADA, DA LEGALIDADE, DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. QUESTÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL NEGADA (ARE 748.371, REL. MIN. GILMAR MENDES, TEMA 660). ALEGAÇÃO DE AFRONTA AO ART. 37, CAPUT, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. SÚMULA 636/STF. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA NO ARE 694.450-RG/PE (REL. MIN. RICARDO LEWANDOWSKI, TEMA 601). AGRAVO REGIMENTAL DOS SEGUNDOS AGRAVANTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS SUFICIENTES DA DECISÃO AGRAVADA. CPC/2015, ART. 1.021, §1º. AGRAVO REGIMENTAL DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO. AGRAVO REGIMENTAL DOS AUTORES NÃO CONHECIDO." (ARE 838.156 AgR-segundo, Relator Min. TEORI ZAVASCKI, Segunda Turma, julgado em 9/8/2016, PROCESSO ELETRÔNICO DJe-182, divulgado em 26/8/2016, publicado em 29/8/2016.)
+"AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. EXPULSÃO DE MILITAR. CONTEXTO FÁTICO PROBATÓRIO. SÚMULA Nº 279 DO STF. ANÁLISE DE LEGISLAÇÃO LOCAL. SÚMULA 280 DO STF. IMPOSSIBILIDADE. VIOLAÇÃO DO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. REPERCUSSÃO GERAL REJEITADA - ARE 748.371. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, quanto à expulsão do policial militar da corporação, seria necessário o reexame dos fatos e provas, além da legislação aplicável à espécie. Incidência das Súmulas 279 e 280 do STF.
+2. O Supremo Tribunal Federal já assentou, sob a sistemática da repercussão geral, que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral, o que torna inadmissível o recurso extraordinário. (RE 748.371-RG, Rel. Min. Gilmar Mendes, DJe 1º.08.2013 tema 660).
+3. Agravo regimental a que se nega provimento." (ARE 943.520 AgR, Relator Min. EDSON FACHIN, Primeira Turma, julgado em 2/8/2016, PROCESSO ELETRÔNICO DJe-177, divulgado em 19/8/2016, publicado em 22/8/2016.)
+Ademais, o Supremo Tribunal Federal firmou entendimento, no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)" (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016).
+Confira-se a ementa do julgado:
+"DIREITO TRIBUTÁRIO. AGRAVO INTERNO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS - ICMS. INCIDÊNCIA NA BASE DE CÁLCULO DO FRETE. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+2. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a não inclusão do frete na base de cálculo do ICMS no regime de substituição tributária, porquanto seria necessária a análise da legislação infraconstitucional de regência.
+3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973." (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
