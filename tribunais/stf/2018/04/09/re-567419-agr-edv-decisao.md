@@ -1,0 +1,18 @@
+DECISÃO:
+    1.  Trata-se de embargos de divergência contra acórdão proferido à unanimidade de votos pela Primeira Turma do Supremo Tribunal Federal, sob a relatoria da Ministra Cármen Lúcia, assim ementado (fls. 239/245):
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TETO REMUNERATÓRIO: INCLUSÃO DAS VANTAGENS PESSOAIS NO PERÍODO POSTERIOR À VIGÊNCIA DA EMENDA CONSTITUCIONAL N. 41/2003. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, após a Emenda Constitucional n. 41/2003, as vantagens pessoais, de qualquer espécie, devem ser incluídas no redutor do teto remuneratório, previsto no inc. XI do art. 37 da Constituição da República.”
+    2. A parte embargante alega que o acórdão acima transcrito está em contrariedade com o entendimento manifestado por esta Corte nos seguintes casos: MS 24.875/DF; ADI 1.344-MC/ES; ADI 1.550-MC/AL; RE 194.100/ES; ADI 1.833-MC/PE; RE 218.465/PR; ADI 2.116-MC/AM; AO 524/PA e AO 543/PA. Sustenta que, em tais precedentes, o STF teria solucionado o mérito da causa discutida em seu recurso extraordinário de modo distinto do que restou mantido pelo acórdão ora embargado.
+    3. É o relatório. Decido.
+    4. O Plenário desta Corte, ao apreciar o mérito do RE 606.358-RG, em 18.11.2015, sob a sistemática da repercussão geral (Tema 257) assentou que devem ser computados, para efeito de observância do teto remuneratório previsto no art. 37, XI, da Constituição Federal, os valores recebidos pelos servidores públicos anteriormente à vigência da Emenda Constitucional nº 41/2003 a título de vantagens pessoais. O caso paradigmático da Repercussão Geral restou assim ementado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. SERVIDORES PÚBLICOS. REMUNERAÇÃO. INCIDÊNCIA DO TETO DE RETRIBUIÇÃO. VANTAGENS PESSOAIS. VALORES PERCEBIDOS ANTES DO ADVENTO DA EMENDA CONSTITUCIONAL Nº 41/2003. INCLUSÃO. ART. 37, XI e XV, DA CONSTITUIÇÃO DA REPÚBLICA.
+    1. Computam-se para efeito de observância do teto remuneratório do art. 37, XI, da Constituição da República também os valores percebidos anteriormente à vigência da Emenda Constitucional nº 41/2003 a título de vantagens pessoais pelo servidor público, dispensada a restituição dos valores recebidos em excesso de boa-fé até o dia 18 de novembro de 2015.
+    2. O âmbito de incidência da garantia de irredutibilidade de vencimentos (art. 37, XV, da Lei Maior) não alcança valores excedentes do limite definido no art. 37, XI, da Constituição da República.
+    3. Traduz afronta direta ao art. 37, XI e XV, da Constituição da República a exclusão, da base de incidência do teto remuneratório, de valores percebidos, ainda que antes do advento da Emenda Constitucional nº 41/2003, a título de vantagens pessoais.
+    4. Recurso extraordinário conhecido e provido.” (Plenário, Rel. Min. Rosa Weber).
+    5. Vê-se, assim, que a jurisprudência da Corte firmou-se no sentido de (i) o limite estabelecido no art. 37, XI da Constituição não violar a garantia da irredutibilidade de vencimentos, bem como (ii) as vantagens pessoais recebidas pelos servidores comporem sua remuneração básica, sujeitando-se, consequentemente, ao teto remuneratório. A decisão embargada encontra-se, portanto, em perfeita conformidade com a jurisprudência deste Tribunal, o que inviabiliza o provimento do recurso.
+    6. Diante do exposto, nos termos do art. 335, § 1º, do RI/STF, não admito os embargos de divergência.
+    Publique-se. Intimem-se.
+          Brasília, 09 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
