@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o Juízo de Direito da 2ª Vara Criminal de Santos/SP, suscitante, e o Juízo de Direito da 1ª Vara Criminal de Curitiba/PR, suscitado.
+Ao remeter os autos à comarca de Santos/SP, o juízo ora suscitado utilizou os seguintes argumentos (fls. 47/48):
+Consta dos autos que os autores do delito, em contato com os advogados, diziam ser moradores do interior do Estado do . Paraná e, usando o número de celular [TELEFONE] e o endereço eletrônico [EMAIL], se apresentavam como trabalhadores da empresa ODEBRECHT, relatando aos advogados que teriam sido dispensados pela empresa sem receber as devidas verbas rescisórias. Em seguida, os autores tentavam induzir as vítimas a lhes efetuar pagamentos, a título de cobrir custos e despesas.
+O Promotor de Justiça de Santos/SP, declinou a competência para esta Comarca sobre o fundamento de que o crime estaria sendo perpetrado no Estado do Paraná.
+A Promotoria de Justiça desta Comarca, após a realização de diligências, providenciou a identificação do número utilizado, constatando que o suposto autor reside na Comarca de Barbosa Ferraz/PR.
+Assim, conclui-se a existência de suposta prática de estelionato na forma tentada (artigo 171, caput, c/c artigo 14, inciso II, ambos do Código Penal), onde figuram como vítimas os advogados paulistas atuantes na Comarca de Santos e como indiciado o proprietário da linha telefônica que realiza as ligações e reside na Comarca de Barbosa Ferraz/PR.
+Não obstante, conforme corretamente arguido pelo parquet em sua manifestação, o Superior Tribunal de Justiça adota o (sic)
+RECURSO PROVIDO. 1. O prejuízo alheio, apesar de fazer parte do tipo penal, está relacionado à conseqüência do crime de estelionato e não à conduta propriamente. De fato, o núcleo do tipo penal é obter vantagem ilícita, razão pela qual a consumação se dá no momento em que os valores entram na esfera de disponibilidade do autor do crime, o que somente ocorre quando o dinheiro ingressa efetivamente em sua conta corrente.
+2. Recurso Ordinário provido para reconhecer a competência do Juízo da comarca de Ituverava/SP, para o qual devem ser remetidos os autos da Ação Penal n. 0004683-52.2008.8.26.0050, deixando, contudo, de anular os atos processuais até então praticados, diante da possibilidade do Juízo competente ratificá-los ou não, conforme disposição do artigo 567 do CPP.
+(RHC 61.726/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, Julgado em 13/06/2017, DJe 21/06/2017)
+Cumpre apontar que não há notícias nos autos de vítimas de estelionato na cidade de Curitiba/PR, mas sim na cidade de Santos/SP.
+Logo, tendo como base o entendimento supramencionado, por este Juízo não ser o territorialmente competente para acompanhar as investigações do presente feito, acolho o pedido do Ministério Público e determino a remessa dos presentes autos de Inquérito Policial nº 0020439-79.2017.8.16.0013 para a Comarca de Santos/SP.
+Por sua vez, o Juízo de Direito da 2ª Vara Criminal de Santos/SP, ora suscitante, entendeu que (fls. 55/57):
+(..).
+Pedindo vênia aos fundamentos lançados na decisão declinatória de competência, entendo por bem acolher o parecer ministerial e suscitar conflito negativo de competência, pelos fundamentos abaixo alinhavados.
+Segundo consta dos autos, indivíduos não identificados realizavam ligações telefônicas informando que eram moradores do Estado do Paraná e, utilizando-se do terminal telefônico de nº [TELEFONE], se apresentavam para advogados como sendo trabalhadores da empresa Odebrecht e que haviam pendências trabalhistas para receber.
+Na seqüência, ofereciam proposta de contratação de serviços advocatícios pelo valor de R$ 800,00 (oitocentos reais) a título de taxa administrativa e 30% (trinta por cento) ao final do processo.
+Os indivíduos ainda solicitavam ao advogado que, em virtude da indicação feita pelo interlocutor a outros trabalhadores, fosse repassado o valor de R$ 150,00 (cento e cinqüenta reais), que seria descontado dos R$ 800,00 (oitocentos reais) da entrada, e mais 5% (cinco por cento) de honorários advocatícios.
+Suspeitando da oferta, advogados efetuaram pesqúisaram na rede mundial de computadores e descobriram que se tratava de fraude. Logo, não houve prejuízo às vítimas.
+No curso nas investigações, apurou-se que a tentativa de estelionato se deu no Estado do Paraná, haja vista que o terminal telefônico se situa naquele Estado (44 8459.5601), não havendo a prática de nenhuma conduta nesta comarca de Santos/SP (fls. 13).
+O juízo suscitado sustentou que a jurisprudência do Superior Tribunal de Justiça" é uníssona no sentido de que a competência para julgamento do crime de estelionato é a do local onde ocorre o prejuízo à vítima.
+Contudo, no caso dos autos, o crime não extrapolou a esfera da tentativa, de modo que a regra de competência pelo local de consumação não se aplica.
+Com efeito, a segunda parte do art. 70 do Código de Processo Penal estabelece que, tratando-se de crime tentado, a competência será determinada pelo lugar onde for praticado o último ato executório. Confira-se:
+(..).
+A clareza da redação não deixa qualquer margem para interpretação diversa, razão pela qual inconteste que a competência é do Estado do Paraná, local onde situado o terminal telefônico usado no crime tentado. Neste sentido, inclusive, é o entendimento do Colendo Superior Tribunal de Justiça:
+(..).
+Pelo exposto, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA e determino a remessa dos autos ao Egrégio Tribunal de Justiça do Estado de São Paulo para dirimir a questão.
+Às fls. 74/76, manifestou-se o Ministério Público Federal pela declaração de competência do juízo de Curitiba/PR, ora suscitado.
+É o relatório.
+DECIDO.
+Conforme bem observado pelo Parquet, nesta sede, Consta nos autos que, por meio de ofício enviado pela Subseção da Ordem dos Advogados do Brasil em Santos/SP (e-STJ, fls. 8/11), o Ministério Público teve notícia de prática de estelionato sob forma tentada requisitando inquérito policial para apurar autoria de ligações telefônicas em que os agentes, afirmando-se moradores do interior do Estado de Paraná e trabalhadores ligados à empresa ODEBRECHT, com contratos rescindidos sem pagamento de verbas trabalhistas, solicitavam serviços de advogados informando haver outros operários na mesma situação e pedindo, a título de indicação, R$150,00 (cento e cinqüenta reais) e 5% dos honorários advocatícios (fl. 75).
+Noticiam os autos que, no presente feito, o crime de estelionato não se consumou, restando consubstanciada sua forma tentada (fls. 4/5).
+Prescreve o art. 70 do Código de Processo Penal:
+Art. 70. A competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução.
+No caso em apreço, em resposta ao requerimento do Ministério Público do Estado do Paraná, no sentido de realizar (..) diligências com o fito de identificar o local onde foram praticados os atos executórios do crime de estelionato, para fins de eventual declinação de competência (fl. 33), constatou-se que o lugar em que foi praticado o último ato de execução, conforme dispõe o dispositivo acima, foi o município de Barbosa Ferraz, no Estado do Paraná (fl. 38).
+Logo, define-se a competência, neste conflito, pelo lugar em que se praticou o último ato executório na tentativa de obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento - art. 171 do Código Penal, que foi o município de Barbosa Ferraz/PR.
+Nesse sentido:
+PENAL E PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. 1. JUÍZO DE DIREITO DO MS X JUÍZO DE DIREITO DE GO. GOLPE DO SEGURO. ESTELIONATO TENTADO. COMPETÊNCIA DO LOCAL EM QUE PRATICADO O ÚLTIMO ATO DE EXECUÇÃO. ART. 70, CAPUT, DO CPP. 2. CONFLITO DE COMPETÊNCIA CONHECIDO PARA RECONHECER A COMPETÊNCIA DO JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE CAMPO GRANDE/MS, O SUSCITANTE.
+1. Trata-se de crime de estelionato na forma tentada. Acaso o delito tivesse se consumado, a competência seria definida pelo lugar onde ocorrido o resultado - recebimento da vantagem indevida. No entanto, tratando-se de crime tentado, a competência é firmada pelo lugar em que tiver ocorrido o último ato de execução, conforme disciplina art. 70, caput, Código de Processo Penal. Pelo contexto fático apresentado, verifica-se que o primeiro ato de execução se deu no Estado do Goiás, com o aluguel do carro, e o último ocorreu no Estado do Mato Grosso do Sul, local em que foi descoberto o intuito criminoso, não tendo o "golpe do seguro" se consumado por circunstâncias alheias à vontade dos agentes.
+2. Conflito conhecido para reconhecer a competência do Juízo de Direito da 4ª Vara Criminal de Campo Grande/MS, o suscitante.
+(CC 121.775/MS, Rel. Ministro WALTER DE ALMEIDA GUILHERME - DESEMBARGADOR CONVOCADO DO TJ/SP - TERCEIRA SEÇÃO, julgado em 22/10/2014, DJe 30/10/2014).
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Criminal de Curitiba/PR, ora suscitado.
+Publique-se.
+Intimem-se.
