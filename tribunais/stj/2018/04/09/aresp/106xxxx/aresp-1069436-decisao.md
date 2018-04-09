@@ -1,0 +1,48 @@
+EMENTA
+PROCESSO CIVIL E DIREITO EMPRESARIAL. AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. RECUPERAÇÃO JUDICIAL. PROCESSAMENTO E CONCESSÃO. SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA DEVEDORES SOLIDÁRIOS E COOBRIGADOS EM GERAL. IMPOSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 6º, CAPUT, 49, § 1º, 52, III, E 59, CAPUT, DA LEI Nº 11.101/2005. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RESP Nº 1.333.349/SP. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 919 DO NCPC. TRIBUNAL DE ORIGEM QUE NÃO RECONHECEU O PREENCHIMENTO DOS REQUISITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+DECISÃO
+Infere-se da minuta do agravo de instrumento que M. A. [NOME] & CIA. LTDA. - EM RECUPERAÇÃO JUDICIAL, MARCOS ANDRÉ [NOME] e DORALICE DA SILVA [NOME] ([NOME] e outros) manejaram recurso contra a decisão que, nos autos da execução por título extrajudicial ajuizada por BANCO SANTANDER BRASIL S.A. (SANTANDER), indeferiu a atribuição de efeito suspensivo aos embargos à execução por eles opostos, determinando o prosseguimento da execução em face dos coobrigados (e-STJ, fls. 1/44).
+O Tribunal de origem negou provimento ao agravo de instrumento, em acórdão assim ementado:
+Agravo de Instrumento - Embargos à execução - Pleito de reforma de decisão que indeferiu pedido de atribuição de efeito suspensivo - Inadmissibilidade - Ausência dos requisitos previstos no artigo 739-A, parágrafo primeiro, do Código de Processo Civil - Decisão mantida - Recurso ao qual se nega provimento (e-STJ, fl. 332).
+Os embargos de declaração interpostos foram rejeitados (e-STJ, fls. 356/361).
+Inconformados, [NOME] e outros manifestaram recurso especial com base no art. 105, III, a, da Constituição Federal, sustentando a ocorrência de violação dos arts. (1) 47, 49, 50, 59, 60 e 61, todos da Lei 11.101/2005, alegando, em síntese, que o crédito buscado nestes autos está sujeito a recuperação judicial e foi objeto de novação com a oportuna homologação do Plano de Recuperação Judicial, não podendo prosseguir a execução contra os coobrigados; e, (2) 739-A do CPC/73 (correspondente ao 919, § 1º, do NCPC), afirmando que estão preenchidos todos os requisitos para a atribuição do efeito suspensivo aos embargos à execução.
+As contrarrazões foram apresentadas (e-STJ, fls. 403/418).
+Inadmitido seu recurso, [NOME] e outros manejam o presente agravo em recurso especial sustentando o desacerto da decisão agravada.
+A contraminuta não foi apresentada (e-STJ, fl. 450).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da apontada afronta dos arts. 47, 49, 50, 59, 60 e 61, todos da Lei 11.101/2005
+Esta Corte de Justiça, no julgamento do REsp nº 1.333.349/SP, Rel. Ministro LUIS FELIPE SALOMÃO, submetido ao rito dos recursos repetitivos, consolidou a tese de que a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005.
+A propósito, confira-se a ementa do referido precedente:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N. 8/2008. DIREITO EMPRESARIAL E CIVIL. RECUPERAÇÃO JUDICIAL. PROCESSAMENTO E CONCESSÃO. GARANTIAS PRESTADAS POR TERCEIROS. MANUTENÇÃO. SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA DEVEDORES SOLIDÁRIOS E COOBRIGADOS EM GERAL. IMPOSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 6º, CAPUT, 49, § 1º, 52, INCISO III, E 59, CAPUT, DA LEI N. 11.101/2005.
+1. Para efeitos do art. 543-C do CPC: "A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+2. Recurso especial não provido.
+(REsp 1.333.349/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, julgado em 26/11/2014, DJe 2/2/2015 - sem destaque no original)
+Inafastável, na hipótese, a incidência da Súmula nº 83 do STJ: Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida, aplicável ao recursos especiais interpostos pelas alíneas a e c do permissivo constitucional.
+(2) Da alegada afronta do art. 739-A do CPC/73 (correspondente ao 919, § 1º, do NCPC)
+Na espécie, o Tribunal de piso, soberano na análise de matéria fático-probatória, consignou que:
+Acerca da atribuição de efeito suspensivo aos embargos à execução, dispõe o artigo 739-A, § 1º, do Código de Processo Civil, in verbis:
+"Art. 739-A, § 1 o. . O juiz poderá, a requerimento do embargante, atribuir efeito suspensivo aos embargos quando, sendo relevantes seus fundamentos, o prosseguimento da execução manifestamente possa causar ao executado grave dano de difícil ou incerta reparação, e desde que a execução já esteja garantida por penhora, depósito ou caução suficientes."
+Nesse contexto, vê-se que a suspensividade dos embargos, medida excepcional, requer, imprescindivelmente, além da garantia do juízo, a verificação da relevância dos argumentos apresentados e a demonstração de que o prosseguimento da execução trará, ao embargante, grave dano de difícil ou incerta reparação.
+Consigne-se que o risco de dano, necessário à obtenção do efeito almejado, não deve resultar de projeções da parte. Ao contrário, há de ser demonstrado de plano, para que seja autorizada a excepcional interrupção dos atos de efetividade do processo, situação que não se verifica em relação aos agravantes Marcos e Doralice, in casu.
+Outrossim, nesta análise perfunctória do recebimento dos embargos, não se apresenta evidente a relevância da fundamentação.
+ ..
+Ademais, não há notícias nem tampouco demonstração, nos presentes autos, a respeito da necessária garantia do juízo, motivo pelo qual tenho por ausentes os requisitos legais que justificariam o acolhimento do pleito de concessão do efeito suspensivo dos embargos à execução, os quais, consoante mencionado alhures, devem se apresentar conjuntamente.
+ ..
+Destarte, uma vez que não se verificam, concretamente, o risco de lesão aos executados, a garantia do juízo e, ao menos nesta análise de cognição sumária, relevância dos elementos que convençam pela caracterização da situação excepcional que fundamente a paralisação do feito executório, tem-se que não merece reparos a r. decisão agravada (e-STJ, fls. 333/337 - sem destaques no original).
+Assim, diante das premissas fáticas constantes no acórdão recorrido, não houve demonstração do dano de difícil ou incerta reparação necessário à suspensão da execução, tampouco da garantia do juízo, sendo imperioso reconhecer a impossibilidade de reexame do conjunto fático-probatório dos autos nesta via recursal.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 919, § 1º, DO CPC/2015. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O art. 919, § 1º, do CPC/2015 prevê que o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo.
+2. No caso, diante das premissas fáticas constantes no acórdão, não está demonstrado o dano de difícil ou incerta reparação necessário à suspensão da execução, mormente considerando que eventual levantamento do valor depositado em juízo pelo recorrente somente deve ser deferido mediante a adoção das cautelas necessárias ao prosseguimento da execução provisória, inclusive prestação de caução, o que será analisado pelo magistrado, no caso concreto.
+3. Agravo interno não provido.
+(AgInt no REsp 1.651.168/MT, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 28/3/2017, DJe 18/4/2017 - sem destaques no original)
+O recurso especial, portanto, não merece ser conhecido, quanto ao ponto, em virtude do óbice da Súmula nº 7 do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER, EM PARTE, do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Inaplicável ao caso a majoração de honorários.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
