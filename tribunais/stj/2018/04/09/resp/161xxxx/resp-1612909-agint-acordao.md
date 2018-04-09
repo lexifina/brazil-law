@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. TRANSFERÊNCIA DE VEÍCULO. CHASSI ADULTERADO. ANÁLISE DE PORTARIAS DO DETRAN/RS NO ÂMBITO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. O Tribunal a quo admitiu a excepcional regularização do veículo em virtude da adequação do caso concreto ao disposto no parágrafo único do art. 6º da Portaria 171/02 do Detran/RS, o que torna o tema insuscetível de ser apreciado em recurso especial. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF/88.
+2. Resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional.
+3. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto pelo Departamento de Trânsito do Estado do Rio Grande do Sul - Detran/RS, contra decisão que não conheceu do recurso especial, sob o fundamento de que " a solução da controvérsia extrapola a estreita via do recurso especial, visto que implica o exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da análise de Portarias do Detran/RS, atos normativos que não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF" (fls. 360/361).
+Inconformada, a parte agravante sustenta que "o recurso especial do agravante discute, notadamente, a ofensa ao artigo 114 do Código de Trânsito Brasileiro, não a cogitada violação a Portarias do DETRAN/RS" (fl. 369).
+A parte agravada não impugnou o recurso, conforme certidão de fl. 376.
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): O agravo interno não merece prosperar.
+Ao examinar a questão, o Tribunal a quo asseverou (fls. 300/301):
+Assim, não obstante a desconformidade formal, e a suspeita de adulteração do número do chassi, não esclarecida notadamente em razão da perícia insuficiente levada a efeito pelo Orgão de Trânsito ou mesmo pela Policia na investigação, a inviabilizar a apuração do responsável pelo eventual ilícito penal; bem como o licenciamento anterior lavrado pela autarquia recorrente (fl. 13) e a idade do automóvel - 1983 -; somada à adstrição do ente público à literalidade do regramento, resta ao particular adquirente de boa-fé a regularização excepcional do veículo na via judicial, consoante indicado na exceção contida no parágrafo único do art. 6º da Portaria 171/02, em especial com vistas a evitar a legalização de eventual delito de receptação na via administrativa.
+Nas razões do recurso especial, a parte recorrente alega (fl. 313):
+A Portaria DETRAN/RS n.º 171/02, por si só, não pode amparar a solução judicial, tendo em vista que foi revogada pela Portaria DETRAN/RS nº 243/2003 acima transcrita.
+A previsão de regularização do veículo por decisão judicial, que também consta da Resolução n.º 282/2008 do CONTRAN, é apenas para orientar os CRVAs a como proceder em caso de decisão judicial.
+Não significa que a autarquia deixará de discutir a legalidade da regularização do veÍculo no Poder judiciário, mas sim cria um procedimento para os casos em que deve submeter-se à decisão judicial transitada em julgado ou provimento provisório irrecorrível.
+Como se vê, a solução da controvérsia extrapola a estreita via do recurso especial, pois implica o exame de violação reflexa ou indireta a texto de lei federal, já que o caso necessita primordialmente da análise de Portarias do Detran/RS, atos normativos que não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+Nessa mesma linha de raciocínio, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. TRANSFERÊNCIA DE VEÍCULO. CHASSI ADULTERADO. CERCEAMENTO DE DEFESA E SUCESSÃO DE EMPRESAS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. LEVANTAMENTO DA RESTRIÇÃO ADMINISTRATIVA. IMPOSSIBILIDADE DE ANÁLISE DE RESOLUÇÕES E PORTARIAS. RESPONSABILIDADE CIVIL DO DETRAN. INOCORRÊNCIA. 1. A Corte local afastou as teses de cerceamento de defesa e de sucessão de empresas a partir do exame do acervo probatório constante dos autos. Assim, rever essa conclusões demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. 2. O exame da controvérsia no que pertine ao levantamento da restrição administrativa, tal como enfrentada pelas instâncias ordinárias, exigiria a análise dos dispositivos das Portarias DETRAN/RS nº 171/2002 e 243/2003 e Resolução 282/2008 do CONTRAN, insuscetíveis de serem apreciadas em recurso especial. Isso porque os referidos atos normativos não se enquadram no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. 3. Segundo jurisprudência consolidada desta Corte, o Detran não pode ser civilmente responsabilizado pela constatação de adulteração no Chassi de veículo que havia sido submetido a vistoria, pois os danos decorrem de ato ilícito de terceiro, inexistindo nexo de causalidade que embase o dever de indenizar. Precedente: AgRg no AREsp 424.218/MS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 04/08/2015, DJe 17/08/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.305.130/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 21/11/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 77 E 78 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INTERPRETAÇÃO DE DIREITO LOCAL: LEIS ESTADUAIS 10.086/1998 E 12.521/2007. SÚMULA 280 DO STF. PORTARIA 716/2007 DO DETRAN. NÃO CABIMENTO. NORMA QUE ESCAPA AO CONCEITO DE LEI FEDERAL. REEXAME DE ENTENDIMENTO APOIADO SOBRE MATERIAL FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. Assim, o fundamento central da matéria objeto da controvérsia é de cunho eminentemente amparado em legislação local, a saber, as Leis Estaduais 10.086/1998 e 12.521/2007; Portaria 716/2007 do DETRAN. Todavia, o exame de normas de caráter local é inviável em Recurso Rspecial, em virtude da vedação prevista na Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário".
+3. Assim, não merece prosperar a irresignação dos recorrentes, uma vez que, para aferir a procedência de suas alegações, seria necessário proceder à interpretação de norma local.
+Ademais, eventual violação de lei federal seria reflexa, e não direta, porque no deslinde da controvérsia seria imprescindível a interpretação do decreto municipal e das leis municipais supramencionadas, descabendo, portanto, o exame da questão em sede de Recurso Especial.
+4. Na forma da jurisprudência, "o apelo nobre não constitui via adequada para análise de ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal" (STJ, REsp 1.613.147/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 13/9/2016).
+ ..
+6. Recurso Especial não provido.
+(REsp 1.676.242/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 9/10/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. DETRAN. EMPRESA CREDENCIADA. VISTORIA DE AUTOMOTORES. COMPETÊNCIA. RESOLUÇÕES DO CONTRAN. EXCLUSÃO DO CONCEITO DE LEI FEDERAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONHECIDA.
+1. O Tribunal de origem, com fundamento na nas Resoluções do CONTRAN e Portarias do DENATRAN, considerou ilegal a recusa do DETRAN/SC em receber e validar laudos de vistoria veicular expedidos por empresa particular credenciada.
+2. O recurso especial não constitui via adequada para análise de ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal. Precedentes do STJ.
+3. A verificação da regularidade do credenciamento da empresa agravada e a inexistência de seu direito líquido e certo a se contrapor ao apurado nas instâncias ordinárias demandariam o reexame do contexto fático-probatório, o que não se admite, ante o óbice da Súmula 7/STJ.
+4. O conhecimento de recurso fundado em divergência pretoriana requer a devida observância dos requisitos prescritos nos arts.
+541, parágrafo único, do CPC e 255, § 2º, do RISTJ, o que não ocorreu no caso.
+Agravo regimental improvido.
+(AgRg no AREsp 467.620/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 24/10/2014)
+Por derradeiro, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do recurso especial pela alínea a do permissivo constitucional. Por oportuno, sobressai o seguinte precedente desta Corte:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. GRADAÇÃO VERTICAL. LEGISLAÇÃO LOCAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. MATÉRIA PREJUDICADA.
+1. É inviável, em sede de recurso especial, a análise de alegação de ofensa indireta a lei federal - no caso, o art. 2º, § 1º, da Lei de Introdução - que demanda o exame de legislação local (Leis n.os 5.201/1989 e 5.573/1992, do Estado da Paraíba). Aplicação da Súmula 280 do Supremo Tribunal Federal. Precedentes.
+2. Desnecessária a apreciação da tese de divergência jurisprudencial, porquanto a aplicação da Súmula 280/STF, por si só, já é motivo apto para a negativa de seguimento ao recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 991.385/PB, Rel. Ministro Og Fernandes, Sexta Turma, DJe 15/8/2012)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
