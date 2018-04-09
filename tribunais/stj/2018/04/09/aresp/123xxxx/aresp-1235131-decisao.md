@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de CAMILA YAMAMOTO ZAMPIERI, ALINE APARECIDA YAMAMOTO ZAMPIERI e SIUZAM ROSELI YAMAMOTO fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CÍVEL - Ação Ordinária - ITBI - Lançamento complementar e multa - A base de cálculo para efeito de ITBI, à luz do que dispõe o art. 38 do CTN, é o valor venal dos bens ou direitos transmitidos, que se encontra revelado na escritura pública de compra e venda, como ato de vontade das partes, segundo regras do direito privado - Pode o Município, no entanto, valer-se do art. 148 do CTN quando entender que o valor declarado pelas partes esteja em desacordo com o mercado imobiliário, podendo nesta hipótese arbitrar a base de cálculo para efeito de pagamento de ITBI mediante o devido processo, atendido o princípio do contraditório - Precedentes do STJ - Ausência de documentação apta a comprovar as alegações das autoras e insuficientes para ilidir o lançamento fiscal - Presunção de legalidade do ato administrativo - Autoras que não se desincumbiram do ônus da prova, nos termos do art. 333,1, do CPC/73 - Sentença mantida - Recurso improvido.
+Não foram opostos embargos de declaração.
+No recurso especial, a parte recorrente aponta violação ao artigo 215 do Código Civil, ao artigo 110 do Código Tributário Nacional e artigos 389, 394 e 405 do Código de Processo Civil de 2015. Alega, em síntese, que o órgão administrativo não possui legitimidade para, com base apenas em avaliação imobiliária, alterar o valor previsto na escritura pública, devidamente lavrada e dotada de fé pública, e aplicar multa.
+ Contrarrazões apresentadas às e-STJ fls. 244/254.
+Sobreveio juízo negativo de admissibilidade fundado na incidência no Enunciado de Súmula nº 7/STJ.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Contraminuta apresentada às e-STJ fls. 275/283.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Conheço do agravo, porquanto infirmado todos os fundamento utilizados pelo juízo de admissibilidade.
+Impende ressaltar que os artigos 215 do Código Civil; 110 do Código Tributário Nacional; e 389, 394 e 405 do CPC/2015 não comportam exame no âmbito desta Corte de Justiça, porquanto ausente o necessário prequestionamento.
+Os dispositivos supracitados não foram alvo de debate pele decisão ora recorrida. Há incidência dos óbices contidos nas Súmula 282/ STF e 356/STF, respectivamente:; "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento." Sobre o tema:
+DIREITO PROCESSUAL CIVIL E CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. JULGAMENTO ANTECIPADO DA LIDE SEM PRODUÇÃO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. SÚMULA 07/STJ. PREQUESTIONAMENTO.
+ ..
+2 - O prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável da própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais requisitos ao seu conhecimento. Nos termos das Súmula 211/STJ, e 282 e 356/STF, não se admite o recurso especial que suscita tema não prequestionado pelo Tribunal de origem.
+3 - Nos termos da Súmula 320/STJ: "A questão federal somente ventilada no voto vencido não atende ao requisito do prequestionamento."
+4 - Agravo Regimental improvido. (AgRg no REsp 1126477/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 14/05/2013, DJe 03/06/2013)
+Não constando do acórdão recorrido análise dos dispositivos legais indicados no recurso especial, restava à recorrente pleitear o exame por meio de embargos de declaração, o que não ocorreu na hipótese dos autos. Aplica-se, por analogia, os óbices das Súmulas 282 e 356/STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
