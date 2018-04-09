@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME] e [NOME], apontando-se como autoridade coatora o Tribunal de Justiça da Bahia (Agravo Interno no HC 0021075-90.2017.8.05.0000/90001) - fls. 414:
+AGRAVO INTERNO. HABEAS CORPUS. HOMICÍDIO TENTADO. DECISÃO MONOCRÁTICA QUE EXTINGUIU O PROCESSO SEM JULGAMENTO DE MÉRITO. IMPETRAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE, CONFORME ORIENTAÇÃO DOS TRIBUNAIS SUPERIORES. AUSÊNCIA DE QUALQUER ILEGALIDADE A SER REPARADA, DE OFÍCIO. AGRAVO IMPROVIDO. DECISÃO UNÂNIME.
+Consta dos autos que os pacientes foram pronunciados pela prática do crime de homicídio qualificado tentado (art. 121, §2º, I e IV, c.c. art. 14, II, do CP), que teria sido praticado no dia 30 de maio de 2015.
+Aponta-se no presente writ a nulidade da sentença de pronúncia que convalidou interceptações telefônicas realizadas sem o devido processo legal, assim como outras nulidades decorrentes da ausência de individualização de condutas e do indeferimento de diligências requeridas pela defesa orientadas à verificação da integridade das interceptações.
+Sustentam os impetrantes, ainda, que o Ministério Público, ao pedir a impronúncia de um dos denunciados, deixou de aditar a denúncia, a fim de rearranjar a divisão de tarefas no concurso de pessoas sustentada no início do processo. Não é despiciendo relembrar que o concurso de pessoas depende de um liame subjetivo e de uma divisão objetiva de tarefas; obviamente, a "decisão conjunta" e a organização das ações mudam substancialmente quando se altera o número de agentes que participam do fato. Entendem os impetrantes, assim, que diante da nulidade apontada, é rigor a absolvição sumária.
+Buscam, liminarmente, a suspensão do andamento do processo. No mérito, requerem o reconhecimento da nulidade da ação penal desde o recebimento da denúncia ou a absolvição sumária dos Pacientes.
+É o relatório.
+O inconformismo não prospera.
+A concessão da ordem de habeas corpus é medida cabível quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, o que não ocorre no presente caso, no qual as teses trazidas na impetração ainda não foram examinadas pelo Tribunal de origem, vedada a pretendida supressão de instância.
+Ademais, não é viável, nos autos de habeas corpus, de cognição sumária, proceder a ampla incursão em elementos fático-probatórios, sendo certo que o acórdão impugnado traz a informação de que já foi interposto o recurso em sentido estrito para o enfrentamento das mesmas questões aqui impugnadas.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
