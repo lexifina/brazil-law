@@ -1,0 +1,31 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, II DO CPC/1973. EXECUÇÃO FISCAL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. CRÉDITO ORIUNDO DE RESPONSABILIDADE CIVIL. NECESSIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto pelo INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO ESPÍRITO SANTO-IFES, com fundamento no art. 105, III, a da Constituição Federal, contra o acórdão proferido pelo egrégio TRF da 2a. Região, assim ementado:
+ADMINISTRATIVO. EXECUÇÃO FISCAL. DIVIDA ATIVA NÃO TRIBUTÁRIA..TÍTULO EXECUTIVO. RESPONSABILIDADE CIVIL. NECESSIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA PARA FORMAÇÃO DO TÍTULO EXECUTIVO. IMPROVIMENTO.
+1. A dívida de natureza tributária já nasce certa e líquida, porquanto o lançamento gera a presunção de certeza e liquidez, o que não ocorre com os créditos derivados de responsabilidade civil que apenas recebem estes atributos, após acertamento amigável ou judicial.
+2. Crédito oriundo de responsabilidade civil, não reconhecido pelo suposto praticante do ato ilícito, não integra a chamada dívida ativa, tampouco autoriza o manejo de execução fiscal.
+3. Se o apelante entende que seu direito restou violado, deve ajuizar ação de conhecimento, em que poderá obter o título executivo, possibilitando o reguardo de seu patrimônio jurídico.
+4. Apelação a que se nega provimento (fls. 40).
+2. Os Embargos de Declaração foram rejeitados (fls. 99).
+3. Nas razões do Apelo Nobre, a parte recorrente aponta violação dos arts. 535, II do CPC/1973; 78, II, c/c 80, III e IV da Lei 8.666/1993; 39, § 2o. da Lei 4.320/1964; 2o., §§ 1o. e 2o. da Lei 6.830/1980. Sustenta, além de negativa de prestação jurisdicional, que, conforme se depreende da CDA, o crédito representa devolução de verba oriunda de contrato, sendo o caso de inscrição em Dívida Ativa.
+4. É o breve relatório. Decido.
+5. De início, cumpre destacar que a alegada violação ao art. 535, II do CPC/1973 não ocorreu, tendo em vista o fato de que a lide foi resolvida nos limites propostos e com a devida fundamentação. As questões postas a debate foram decididas com clareza, não tendo havido qualquer vício que justificasse o manejo dos Embargos de Declaração. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+6. No mérito, a jurisprudência desta Corte entende que o crédito decorrente de responsabilidade civil não se enquadra no conceito de Dívida Ativa, a qual se exige os requisitos de certeza e liquidez. Há, portanto, necessidade da ação própria para formação do título executivo. Nesse sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 557 DO CPC. NÃO CONFIGURAÇÃO. EXECUÇÃO FISCAL. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO MEDIANTE SUPOSTA FRAUDE. NÃO INCLUSÃO NO CONCEITO DE DÍVIDA ATIVA NÃO TRIBUTÁRIA. RESPONSABILIDADE CIVIL. NECESSIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA.
+1. Não procede a alegada violação do disposto no art. 557, pois a inovação por ele trazida instituiu a possibilidade de, por decisão monocrática, o relator deixar de admitir recurso, entre outras hipóteses quando manifestamente improcedente ou contrário à Súmula ou entendimento dominante pela jurisprudência do Tribunal de origem, ou de Cortes Superiores, rendendo homenagem à economia e celeridade processuais.
+2. O conceito de dívida ativa envolve apenas os créditos certos e líquidos. Assim, tanto a dívida ativa tributária quanto a não tributária requerem o preenchimento desses requisitos.
+3. No caso dos autos, analisa-se um suposto crédito decorrente de um ato ilícito (fraude), ou seja, trata-se de um nítido caso de responsabilidade civil, não se enquadrando no conceito de dívida ativa não tributária por falta do requisito da certeza.
+4. A suposta fraude não foi comprovada em procedimento próprio, tampouco foi reconhecida pelo suposto responsável. Dessa forma, cabe ao Estado ajuizar ação condenatória, em que poderá, caso vencido, obter um título executivo. Incidência da Súmula 83/STJ.
+Agravo regimental improvido (AgRg no AREsp. 252.328/CE, Rel. Min. HUMBERTO MARTINS, DJe 8.2.2013).
+
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO MEDIANTE SUPOSTA FRAUDE. NÃO INCLUSÃO NO CONCEITO DE DÍVIDA ATIVA NÃO TRIBUTÁRIA. RESPONSABILIDADE CIVIL. NECESSIDADE DE AJUIZAMENTO DE AÇÃO PRÓPRIA. CDA. REQUISITOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+1. Insurge-se a FAZENDA NACIONAL contra acórdão que manteve extinta a execução fiscal fundada em Certidão de Dívida Ativa para restituição de valores referentes a benefícios previdenciários concedidos mediante suposta fraude, por não se incluir no conceito de dívida ativa não tributária.
+2. Conforme dispõem os arts. 2º e 3º da Lei n. 6.830/80, e 39, § 2º, da Lei n. 4.320/64, o conceito de dívida ativa envolve apenas créditos certos e líquidos. Assim, tanto a dívida ativa tributária como a não tributária requer o preenchimento desses requisitos.
+3. No caso dos autos, cuida-se de um suposto crédito decorrente de ato ilícito (fraude). Trata-se de um nítido caso de responsabilidade civil não se enquadrando no conceito de dívida ativa não tributária, por falta do requisito da certeza.
+4. Necessidade de uma ação própria para formação de um título executivo.
+5. Ademais, no tocante à alegada violação do art. 3º da Lei n. 6.830/80 - o reconhecimento do preenchimento dos requisitos legais necessários para a validade da CDA -, modificar o acórdão recorrido, como pretende a recorrente, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte em vista do óbice da Súmula 7/STJ.
+Agravo regimental improvido (AgRg no AREsp. 34.973/SE, Rel. Min. HUMBERTO MARTINS, DJe 11.11.2011).
+7. Na espécie, o Tribunal de origem entendeu que se tratava de créditos derivados de responsabilidade civil. Logo, para alterar tal conclusão, necessário o revolvimento de matéria fático-probatória dos autos, o que é vedado em Recurso Especial.
+8. Diante do exposto, conhece-se do Agravo para negar provimento ao Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
