@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado de São Paulo confirmou o entendimento do Juízo quanto ao indeferimento da inicial de queixa-crime, por ausência dos requisitos pertinentes. No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação dos artigos 5º, inciso XXXV, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão recorrido por ausência de fundamentação. Articula com a inexistência de prestação jurisdicional.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Colho do acórdão recorrido os seguintes fundamentos:
+    Luiz Marinho (…) ofereceu queixa-crime contra Diário do Grande ABC S/S e seus sócios (…), considerando-os como incursos nas penas dos artigos 138, 139 e 140 do código Penal.
+    (…)
+    1. (…)
+    Da lição do mestre exsurge patenteado que para o recebimento da acusação é necessário o mínimo de justa causa para a viabilização da relação processual, o mesmo se havendo de dizer quanto ao desencadeamento de atividade preliminar, a qual, carecendo de elementos de convicção capazes de ensejar a admissão da pretensão acusatória, representaria patente constrangimento ilegal.
+    2. Incabível o acolhimento do pedido de desconsideração da personalidade jurídica do querelado.
+    (...)
+    Em se tratando de crimes contra a honra, não é possível a responsabilização da pessoa jurídica: não se admite a condenação a menos que diante de conduta dolosa, não se podendo atribuir à pessoa jurídica o dolo de macular a imagem ou ferir a auto imagem de alguém, o que é inerente às pessoas humanas. Poderiam os seus diretores/sócios serem responsabilizados, mas por ato próprio e específico, por decorrência de conduta por igual própria e específica, determinada a intenção de, através da conduta de seus funcionários/prepostos, macular a honra de alguém.
+    De qualquer forma, não seria a pessoa jurídica a praticar o ato, mas, sim, as pessoas físicas que a compõem, após a identificação e a especificação da conduta de cada qual.
+    3. De outra feita, ainda que haja o cometimento dos delitos narrados na peça inicial acusatória por várias pessoas ao mesmo tempo, permanece imprescindível um mínimo de individualização da conduta e a indicação do nexo de causalidade entre esta e o delito de que trata, sem o que fica impossibilitado o exercício da ampla defesa.
+    No caso em tela, falta a atribuição a cada acusado da conduta que lhe corresponde. Há um relato genérico dos fatos, sem correlação entre os mesmos e seus autores, dificultando e mesmo impossibilitando a ampla defesa, à medida me que não resta claro de que fato cada qual deve se defender.
+    Não é possível postergar para a instrução do processo essa especificação: a especificação feita posteriormente coloca em risco o direito dos querelados de conhecerem os fatos que lhe são imputados. Além disso, não cabe ao Poder Judiciário suprir a deficiência de uma ação penal, pública ou privada, cuja inicial deve vir minimamente amparada de legalidade.
+    4. A exposição do fato criminoso mostra-se equivocada porque atribui a uma mesma conduta a capitulação de vários delitos (calúnia, difamação e injúria).
+    Não é possível que uma mesma atividade seja enquadrada em mais de um tipo penal: isto implica em indeterminação e ambiguidade inaceitáveis, interferindo no direito de defesa do acusado, o qual tem direito a responder a uma acusação “formalmente precisa e juridicamente apta”. Ada delito é dotado de um único elemento objetivo do tipo. Portanto, à acusação cabe indicar a qual delito corresponde o fato praticado.
+    Ainda que o defeito na classificação jurídica do fato possa ser sanado no curso da ação, a abrangência dada à conduta, que, segundo o querelante, tanto pode tratar de um crime quanto de outro, desatende de maneira drástica os requisitos do artigo 41 do Código de Processo Penal.
+    Patente, pois, a inépcia da inicial, não existindo motivo suficiente para o recebimento da acusação.
+    À toda evidência, somente pela análise da legislação de regência e do quadro fático do processo seria dado concluir de forma diversa, o que é vedado em sede extraordinária. O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se, na origem, de processo criminal, descabendo, portanto, referida condenação.
+    4. Publiquem.
+Brasília, 9 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
