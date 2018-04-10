@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal - CF, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o Juízo da Execução Penal reconheceu a falta grave cometida em 27/9/11, com regressão de regime para o fechado, bem como afastou a falta grave cometida em 31/12/12, deferiu comutação de pena para os anos de 2011 e 2012, além de conceder livramento condicional (fls. 33/34 e 50).
+Irresignado, o Ministério Público Estadual - MPE interpôs agravo em execução penal que foi desprovido. O acórdão ficou assim ementado:
+AGRAVO EM EXECUÇÃO - COMUTAÇÃO DECRETO 7.648/2011 - NECESSIDADE - AUSÊNCIA DE HOMOLOGAÇÃO DE FALTA GRAVE - POSSIBILIDADE - LIVRAMENTO CONDICIONAL - MANUTENÇÃO - EXAME CRIMINOLÓGICO - PRESCINDIBILIDADE - NEGAR PROVIMENTO AO RECURSO 1. Não há que se falar em óbice à concessão da comutação inexistindo homologação de falta grave cometida nos doze meses anteriores à publicação do Decreto 7.648/2011. 2. Prescindível é a realização do exame criminológico nos termos da nova redação dada ao artigo 112 da LEP para a concessão do benefício do livramento condicional. 3. Impõe-se a manutenção do benefício vez que preenchidos os requisitos objetivos e subjetivos. 4. Negar provimento ao recurso (fl. 74).
+Embargos de declaração opostos pelo MPE foram rejeitados (fls. 98/106).
+Em sede de recurso especial, o MPE alegou violação do art. 50, II, da Lei n. 7.210/84 - Lei de Execução Penal - LEP, porquanto o cometimento de falta grave nos 12 meses que antecedem o Decreto Presidencial, ainda que homologada a falta após a edição do referido Decreto, obsta o benefício da comutação. Destaca que a falta grave cometida em 27/9/11 foi homologada em 24/4/13, obstando a comutação, conforme art. 4º do Decreto n .7.648/11.
+Noutro tópico, aponta violação do art. 112, caput e § 2º, da LEP, e ao art. 83, III e parágrafo único, do Código Penal - CP, porque deve ser exigido o exame criminológico para a concessão do livramento condicional no caso concreto. Destaca se tratar de recorrido reincidente específico em crimes contra o patrimônio que já praticou a falta grave de fuga. Ressalta a súmula 439 do Superior Tribunal de Justiça - STJ e a súmula vinculante n. 26 do Supremo Tribunal Federal - STF.
+Requereu a revogação dos benefícios.
+Contrarrazões (fls. 131/146).
+O recurso especial foi admitido (fls. 147/148).
+O Ministério Público Federal opinou pelo parcial provimento do recurso especial (fls. 212/217).
+É o relatório. Decido.
+De início, o pedido de revogação do livramento condicional está prejudicado. Conforme consulta ao sítio eletrônico do Tribunal de origem, na execução penal n. 0107931-10.2014.8.13.0301, o recorrido estava em regime fechado, tendo sido deferida a progressão para o regime semiaberto, com autorização de trabalho externo, em 21/11/17.
+Sobre a comutação, o Tribunal de origem entendeu que a notícia de falta grave sem a homologação não impede a sua concessão. Cito trecho:
+A notícia da prática de falta grave não impede a concessão da comutação inexistindo registro do reconhecimento judicial da falta disciplinar na data da publicação de referido Decreto (fl. 76).
+Contudo, este não é o entendimento vigente nesta Corte, firmado no sentido de que a falta grave homologada, mesmo após a edição do Decreto Presidencial, obsta a concessão da comutação. Cito precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. DECRETO PRESIDENCIAL N. 7.873/2012. COMETIMENTO DE FALTA GRAVE. IRRELEVÂNCIA DA DATA DE HOMOLOGAÇÃO. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça já firmou entendimento no sentido de que o óbice à concessão de indulto ou comutação ocorrerá se a falta grave tiver sido cometida dentro do prazo previsto no decreto concessivo, independentemente da data de sua homologação, se antes ou depois do ato presidencial.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp 993.265/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 31/10/2017).
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. INDULTO. DECRETO N. 8.615/2015. ABANDONO DO CUMPRIMENTO DA PENA RESTRITIVA DE DIREITO CONSISTENTE EM PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. FALTA GRAVE. ART. 51, I, DA LEI DE EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA PERMANENTE. TERMO INICIAL. DATA DO ABANDONO. JULHO DE 2014. POSSIBILIDADE DE HOMOLOGAÇÃO DA FALTA GRAVE EM PERÍODO POSTERIOR AO FIXADO NO DECRETO. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+V - A col. Terceira Seção deste Tribunal Superior, em sessão realizada em 14/9/2016, no julgamento do EREsp n. 1.549.544/RS, consolidou o entendimento no sentido de ser possível o indeferimento da comutação de pena ou do indulto em razão de falta grave que tenha sido praticada nos 12 (doze) meses anteriores ao Decreto Presidencial, ainda que sua homologação tenha ocorrido após a publicação do decreto presidencial.
+Habeas Corpus não conhecido (HC 406.517/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 19/10/2017).
+Diante do exposto, conheço em parte do recurso e, com fundamento na Súmula 568/STJ, dou-lhe provimento para afastar a comutação de pena com base no Decreto n. 7.648/11 em razão da falta grave cometida em 27/9/11.
+Publique-se. Intimem-se.
