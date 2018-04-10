@@ -1,0 +1,49 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. PLANO DE SAÚDE COLETIVO. REAJUSTE POR AUMENTO DE FAIXA ETÁRIA. POSSIBILIDADE. REDUÇÃO DO PERCENTUAL. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CLÁUSULAS CONTRATUAIS E DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS Nº 5 E 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. A jurisprudência sedimentada neste Superior Tribunal de Justiça entende ser possível o reajuste de contratos coletivos de saúde, em face do implemento de idade, quando a mensalidade mostrar-se irrisória em face da variação de custos ou do aumento de sinistralidade.
+4. A tese defendida no recurso especial demanda reexame de cláusulas contratuais e do contexto fático e probatório dos autos, vedados pelas Súmulas nº 5 e 7/STJ.
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Marco Buzzi (Presidente), Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual neguei provimento ao agravo em recurso especial.
+A parte agravante, em seu recurso, reiterou as razões contidas no especial, alegando que, mesmo após a limitação do reajuste em 59,05% por implemento de idade, esse se mostra abusivo. Alegou, ainda, que o acórdão estadual é omisso.
+A parte agravada, regularmente intimada, não se manifestou.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a conclusão adotada, porque em nenhum momento foi desenvolvido raciocínio no sentido de demonstrar incorreção da decisão agravada, tendo apenas reiterado os argumentos contidos no recurso especial.
+Como salientado, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, saliento que o Tribunal de origem enfrentou expressamente as questões levantadas pela recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados: AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015; AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/2/2016, DJe 1/3/2016.
+Outrossim, fica evidente a intenção de análise de cláusulas contratuais e de reexame do contexto fático-probatório dos autos.
+Da leitura do acórdão recorrido, verifico que o Tribunal de origem, a partir do detido exame das provas dos autos e das cláusulas do contrato celebrado entre as partes, concluiu não ser abusiva e nem desarrazoada a limitação do reajuste estabelecido em 59,05%, que era de pleno conhecimento dos autores da ação em razão de previsão contratual e legal, conforme se observa nas seguintes passagens do voto condutor (fls. 230/233 e-STJ):
+"Discute-se, nesta senda, majoração das mensalidades de plano de saúde, pelo implemento da idade, defendendo o autor a sua abusividade e requerendo o respectivo reconhecimento judicial.
+Malgrado se diga coletiva a apólice, e administrada por terceiro, não se retira do segurado a possibilidade de discutir a elevação da contribuição que, em última análise, paga à ré.
+Pois bem. Diante da elevação por faixa etária, costumeiro argumentar que a potencialidade do risco aumenta com a idade, pelo que o aumento diferenciado atende à necessidade de equilíbrio do ajuste.
+Mas, a respeito, é bom lembrar que o seguro, a rigor, induz um grande mutualismo, em que a seguradora gere um fundo composto pela contribuição de uma massa de segurados, sujeitos ao mesmo tipo de risco, cujos prêmios não se calculam em função da situação individual de cada qual, mas por previsão estatística e atuarial que implique numa repartição proporcional das perdas globais, tal qual observa, forte na lição de Fábio Comparato, Ernesto Tzirulnik (in Princípio indenitário no contrato de seguro. Revista dos Tribunais, ano 88. v. 759. Jan. 1.999. p. 89-121).
+Isto significa que a maior potencialidade de sinistro ou uso dos benefícios do plano em função da idade deve ser fator considerado e calculado já nas contratações em geral, sempre tomado o caráter cooperativo e mutualístico do seguro.
+Como está no estudo citado (idem ibidem), prestação e contraprestação no seguro não se determinam com referência a um contrato isolado, mas em relação à massa dos seguros daquele tipo realizados pelo segurador.
+Na espécie concreta, impôs-se aumento de 107,51%, desde quando o autor completou cinqüenta e nove anos, que, pelo documento de fls. 28, atingiria R$ 3.061,05, portanto aumentando, e muito, o valor da mensalidade, inicialmente de R$ 1.479,49 (que totalizava R$ 1.270,46), inviabilizando, verdadeiramente, a permanência do atendimento contratado, assim bem além de se cogitar da alegada manutenção do equilíbrio do ajuste.
+Ora, ainda por hipótese se admitisse que a idade fosse um fator de reajuste do prêmio do seguro, segundo faixas pré-estabelecidas, de resto como se quis levar à previsão do artigo 35-E da Lei 9.656/98, ela não pode constituir uma real barreira a que o consumidor permaneça sendo atendido pelo plano, ou seja, a que persista cobertura que no caso é essencial.
+(..) Por isso tudo, correto o afastamento do reajuste abusivo do prêmio pelo implemento da idade de 59 anos do autor. Porém, garantida, porque prevista no contrato e na lei, uma elevação, malgrado limitada, aqui aderindo-se ao voto do I. 3º Juiz, a 59,05%, no seu dizer "de modo que a variação acumulada entre a sétima e a décima faixas etárias não supere as sete primeiras."."
+Nesse contexto, reitero que a alteração da conclusão do acórdão recorrido encontra óbice nos enunciados nas Súmula 5 e 7 do STJ, nos termos do também consolidado entendimento de ambas as Turmas que compõem a Segunda Seção, ao examinarem especificamente questionamentos de reajustes por alteração de faixa etária. Confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE PELA FAIXA ETÁRIA. ABUSIVIDADE. SÚMULA N. 83 DO STJ. REEXAME DO CONTRATO E DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. "O reajuste de mensalidade de plano de saúde em razão da mudança de faixa é admitido, desde que esteja previsto no contrato, não sejam aplicados percentuais desarrazoados, com a finalidade de impossibilitar a permanência da filiação do idoso, e seja observado o princípio da boa-fé objetiva" (EDcl no AREsp 194.601/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 26/08/2014, DJe 09/09/2014).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento dos fatos e das provas dos autos nem a revisão de cláusulas contratuais, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem, examinando os elementos probatórios dos autos, concluiu que o reajuste aplicado foi desarrazoado e desproporcional. Alterar tal conclusão é inviável em recurso especial, ante o óbice das mencionadas súmulas.
+4. A incidência dos referidos enunciados também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Agravo regimental a que se nega provimento.
+(AgRg no ARESP 530.722/RS, 4ª Turma, Rel. Ministro Antonio Carlos Ferreira, DJ 29/06/2015)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CONTRATO COLETIVO. REAJUSTE POR FAIXA ETÁRIA. POSSIBILIDADE. ABUSIVIDADE. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS NºS 5 E 7/STJ.
+1. A previsão de reajuste de plano de saúde em decorrência da mudança de faixa etária de segurado idoso por si só não representa cláusula abusiva, devendo-se aferir, em cada caso, a compatibilidade com a boa-fé objetiva e a equidade.
+2. Tendo a abusividade do reajuste por faixa etária do plano de saúde coletivo sido deduzida com base nas provas e no contrato, a revisão de tais conclusões atrairia a aplicação das Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido."
+(AgRg no ARESP 567.512/RJ, 3ª Turma, Rel. Ministro Ricardo Villas Bôas Cueva, DJ 10/06/2015.)
+Ademais, observo que a Corte estadual decidiu em consonância com o entendimento firmado no julgamento do RESP 1.568.244/RJ, submetido ao rito dos recursos repetitivos perante a Segunda Seção, no qual foi assentada a seguinte tese:
+10. TESE para os fins do art. 1.040 do CPC/2015: O reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou discriminem o idoso.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
