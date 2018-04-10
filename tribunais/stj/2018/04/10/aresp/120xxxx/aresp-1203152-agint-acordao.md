@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. SERVIDORES PÚBLICOS ESTADUAIS. LC 1.080/08. PLANO GERAL DE CARGOS, VENCIMENTOS E SALÁRIOS. PRETENSÃO DE RESTABELECIMENTO DAS REFERÊNCIAS E GRAUS EM QUE SE ENCONTRAVAM ANTES DA VIGÊNCIA DA NORMA, OU AO MENOS A PROGRESSÃO AUTOMÁTICA PREVISTA EM SEU ART. 10. VIOLAÇÃO AO ART. 535/73. NÃO CARACTERIZADO. ACÓRDÃO QUE DECIDIU A CONTROVÉRSIA INTERPRETANDO LEGISLAÇÃO LOCAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 280 DA SÚMULA DO STF.
+I - Não existe violação do art. 535 do Código de Processo Civil de 1973. A prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da leitura do acórdão recorrido, que enfrentou e decidiu, motivadamente, a controvérsia posta em debate.
+II - Segundo se observa dos fundamentos que serviram de fundamento para a Corte de origem apreciar a controvérsia acerca do enquadramento dos servidores para progressão automática, o tema foi dirimido no âmbito local (Lei complementar n. 1.080/08), de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+III - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de ação declaratória ajuizada por [NOME] e outros que objetiva o enquadramento no funcionalismo, com restabelecimento das referências e graus em que se encontravam antes da entrada em vigor da Lei Complementar n. 1.080/08, com valor da causa fixado em R$ 35.000,00 (trinta e cinco mil reais). Na sentença julgou-se improcedente o pedido. No Tribunal de Justiça do Estado de São Paulo, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+SERVIDORES PÚBLICOS ESTADUAIS LC 1.080/08. PLANO GERAL DE CARGOS, VENCIMENTOS E SALÁRIOS. PRETENSÃO DE RESTABELECIMENTO DAS REFERÊNCIAS E GRAUS EM QUE SE ENCONTRAVAM ANTES DA VIGÊNCIA DA NORMA, OU AO MENOS A PROGRESSÃO AUTOMÁTICA PREVISTA EM SEU ART. 10 INADMISSIBILIDADE AÇÃO IMPROCEDENTE - SENTENÇA CONFIRMADA.
+Opostos embargos declaratórios, foram rejeitados.
+[NOME] interpôs recurso especial com fundamento no art. 105, III, a, da Constituição Federal. Alega a parte recorrente violação ao art. 535, II, do CPC/73, sustentando que o acórdão quedou-se omisso quanto a indagação de qual situação bem específica que constitui óbice à progressão automática pelos autores, a despeito dos embargos de declaração opostos.
+Em juízo negativo de admissibilidade, negou-se seguimento ao recurso especial, uma vez que não foi verificada ofensa ao art. 535/73. De outro modo, verificou-se que o fundamento utilizado para interposição do recurso somente poderia ter sua procedência atestada mediante o reexame de direito local, inviável, portanto, a teor do enunciado n. 280 da Súmula do STF.
+No STJ, por meio da decisão monocrática, negou-se provimento ao recurso especial.
+Interposto agravo interno, alega a parte agravante que deve-se afastar o óbice da Súmula 284/STF, que a fundamentação do recurso especial não é deficiente e que não se pretende analisar o direito local e sim suprir a omissão constante no acórdão o qual não se pronunciou sobre o apontamento suscitado em embargos de declaração.
+Intimada, a parte agravada apresentou impugnação em que requer o desprovimento do agravo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Em que pese o esforço contido nas razões recursais, a pretensão de reforma da decisão prolatada não prospera.
+Não existe violação do art. 535 do Código de Processo Civil de 1973. Com efeito, a prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da leitura do acórdão recorrido, que enfrentou e decidiu, motivadamente, a controvérsia posta em debate.
+O juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+Ressalte-se, ainda, que cabe ao magistrado decidir a questão de acordo com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto.
+Nos termos de jurisprudência pacífica do STJ, "o magistrado não é obrigado a responder todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados" (REsp 684.311/RS, Rel. Min. Castro Meira, Segunda Turma, julgado em 4/4/2006, DJ 18/4/2006, p. 191), como ocorreu no caso ora em apreço.
+Nesse sentido, ainda, os precedentes:
+DIREITO DE FAMÍLIA. AÇÃO NEGATÓRIA DE PATERNIDADE. VIOLAÇÃO AO ART. 131 DO CPC. NÃO OCORRÊNCIA. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. LEGITIMIDADE ATIVA. PAI REGISTRAL. ILEGITIMIDADE ATIVA DE TERCEIRO COM MERO INTERESSE ECONÔMICO. RECURSO NÃO PROVIDO.
+1. Não configura violação ao art. 131 do Código de Processo Civil a hipótese em que o acórdão recorrido tratou de forma clara e suficiente a controvérsia, baseando-se nos elementos fático-probatórios dos autos e lançando fundamentação jurídica sólida para o desfecho da lide.
+2. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha a examinar uma a uma as alegações e os fundamentos expendidos pelas partes. (..)
+4. Recurso especial não provido.
+(REsp 1.412.946/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/03/2016, DJe 22/04/2016.)
+Por outro lado, segundo se observa dos fundamentos que serviram de fundamento para a Corte de origem apreciar a controvérsia acerca do enquadramento dos servidores para progressão automática, o tema foi dirimido no âmbito local (Lei complementar n. 1.080/08), de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial. Confira-se:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. RESSARCIMENTO AO ERÁRIO. DESPESAS COM PAGAMENTO DE HORAS EXTRAS DE SERVIDORES COMISSIONADOS. ACÓRDÃO QUE DECIDIU A CONTROVÉRSIA INTERPRETANDO LEGISLAÇÃO LOCAL. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 280 DA SÚMULA DO STF. ALEGAÇÃO DE AUSÊNCIA DE PREJUÍZO AO ERÁRIO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Municipal n. 223/74, do Município de Itapevi/SP, o que implicou na inviabilidade do recurso especial, aplicando-se, por analogia, o teor da Súmula n. 280/STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário".
+II - Verifica-se que a irresignação do recorrente acerca da alegada ausência de prejuízo ao erário, vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos decidiu que a conduta da ora recorrente causou danos aos cofres municipais (fls. 528-529).
+III - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado n. 7 da Súmula do STJ.
+IV - Acerca da alegada preclusão quanto à determinação do juízo ordinário pelo julgamento simultâneo das ações ditas conexas, verifica-se que a matéria não foi objeto de análise pelo Tribunal a quo. Falta-lhe, portanto, o necessário prequestionamento.
+V - Assim, aplica-se o enunciado n. 211 da Súmula do STJ, segundo o qual: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+VI - Agravo interno improvido.
+(AgInt no AREsp 1144623/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+Ante o exposto, não havendo razões suficientes para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
