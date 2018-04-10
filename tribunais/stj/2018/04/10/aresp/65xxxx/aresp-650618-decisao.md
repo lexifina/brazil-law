@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 2ª Região que não admitiu recurso especial com base nos seguintes fundamentos: (I) a irresignação está deficientemente fundamentada, provocando a incidência da Súmula 284/STF; (II) as teses suscitadas no apelo especial demandariam novo exame do acervo fático-probatório dos autos, providência vedada em recurso especial, nos termos da Súmula 7/STJ; e (III) não foi impugnado fundamento suficiente para a manutenção do acórdão recorrido, o que atrai a incidência da Súmula 283/STF.
+O Ministério Público Federal, no parecer às fls. 795/800, opinou pelo não conhecimento do agravo.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, nota-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou nenhum dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, a apontada aplicação dos óbices previstos na Súmula 7/STJ e 283 e 284 do STF, fundamentos autônomos e suficientes para a manutenção da decisão ora agravada.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 544, § 4º, I, do CPC, não conheço do agravo.
+Publique-se.
