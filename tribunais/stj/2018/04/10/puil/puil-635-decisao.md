@@ -1,0 +1,43 @@
+DECISÃO
+[NOME] propôs ação contra o Departamento Autônomo de Estradas de Rodagem - DAER/RS almejando a declaração de nulidade de auto de infração de trânsito e respectiva multa, demanda essa distribuída para a Juizado Especial adjunto à 11ª Vara da Fazenda Pública da Comarca de Porto Alegre.
+Em primeira instância o pedido foi julgado procedente (fls. 83-91).
+Por sua vez, a Segunda Turma Recursal da Fazenda Pública do Estado do Rio Grande do Sul negou provimento ao recurso inominado interposto pelo DAER/RS, em acórdão assim ementado (fl. 118):
+RECURSO INOMINADO. SEGUNDA TURMA RECURSAL DA FAZENDA PÚBLICA. DEPARTAMENTO ESTADUAL DE TRÂNSITO DO RIO GRANDE DO SUL - DETRAN. NOTIFICAÇÃO DO CONDUTOR. INOCORRÊNCIA. SUMULA 312 DO STJ. CERCEAMENTO DE DEFESA. NULIDADE DO ATO ADMINISTRATIVO. SENTENÇA MANTIDA.
+1. Pretente a parte recorrente a reforma da sentença de procedência exarada nos autos da ação em que a parte recorrida busca a nulidade de auto de infração sob o argumento de falta de notificação deste e da correspondente imposição de penalidade.
+2. A questão em apreço não demanda, a meu juízo, maiores considerações do que aquelas já alinhadas na sentença recorrida Isso porque, ao que se verifica dos autos, as notificações da autuação e da pena decorrente da infração foram realizadas exclusivamente na pessoa do proprietário do veículo e não na pessoa do condutor.
+3. Assim, havendo a sentença do Magistrado a quo esgotado corretamente as questões suscitadas, é de ser mantida, na íntegra.
+RECURSO DESPROVIDO. UNÂNIME.
+Os embargos de declaração opostos pelo particular foram rejeitados (fls. 136-138).
+No presente pedido de uniformização de interpretação de lei (fls. 141-151), interposto com fundamento no art. 18, § 3º, da Lei n. 12.153/2009 e art. 67, parágrafo único, VIII-A, do RI/STJ, o requerente sustenta, em síntese, que a condenação em honorários advocatícios resultou no montante ínfimo de R$ 114,92 (cento e quatorze reais e noventa e dois centavos), tendo deixado o acórdão recorrido de observar o que preceituava o art. 20, § 4º, do CPC/73, ou o art. 85, § 8º do CPC/2015, mesmo após ter sido instado a tanto, pela oposição dos aclaratórios.
+Aponta que tal entendimento diverge do que fora utilizado pela Turma Recursal de Passos - MG, bem como pela 2ª Turma Recursal do Distrito Federal, que, fundamentados no referido dispositivo do Código Processual Civil revogado, fixaram os honorários sucumbenciais em R$ 1.000,00 (mil reais) e R$ 500,00 (quinhentos reais), respectivamente.
+Afirma que deve ser afastada a aplicação do art. 55 da Lei n. 9.099/95, que seria destinado, apenas, às "demandas de particulares". No seu entendimento, por força do art. 27 da Lei n. 12.153/2009, o Código de Processo Civil deve ser aplicado de maneira subsidiária, de modo que, "nas demandas movidas em face da Fazenda Pública", a verba honorária seja fixada de maneira equitativa.
+Às fls. 162-165, o DAER/RS apresentou resposta ao pedido de uniformização.
+É o relatório. Decido.
+O pedido não comporta conhecimento.
+Isso porque, o art. 18 da Lei n. 12.153/2009, ao tratar sobre as hipóteses de cabimento do pedido de uniformização de interpretação de lei, assim dispõe (g.n.):
+Art. 18. Caberá pedido de uniformização de interpretação de lei quando houver divergência entre decisões proferidas por Turmas Recursais sobre questões de direito material.
+§ 1º O pedido fundado em divergência entre Turmas do mesmo Estado será julgado em reunião conjunta das Turmas em conflito, sob a presidência de desembargador indicado pelo Tribunal de Justiça.
+§ 2º No caso do § 1o, a reunião de juízes domiciliados em cidades diversas poderá ser feita por meio eletrônico.
+§ 3º Quando as Turmas de diferentes Estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, o pedido será por este julgado.
+Desse modo, tem-se que tais pleitos ficarão adstritos a questões de direito material, o que não se verifica no caso em análise, que busca discutir os critérios utilizados na fixação dos honorários advocatícios, matéria essa de cunho eminentemente fático-processual, o que inviabiliza a análise do pedido.
+Vale destacar que a Primeira Seção deste Tribunal, em situações semelhantes a que se coloca em pauta, já se manifestou:
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. MONTANTE ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCOS. ASPECTOS FÁTICOS. NÃO CABIMENTO.
+1. Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das turmas recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos juizados especiais da Fazenda Pública, restringe-se a questões de direito material, quando as turmas de diferentes estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça.
+2. Hipótese em que a parte promovente pretende discutir o montante arbitrado a título de honorários advocatícios, matéria de natureza fática, o que inviabiliza o processamento do presente feito.
+3. Agravo interno desprovido.
+(AgInt no PUIL 116/RO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 24/05/2017, DJe 30/06/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI N. 12.153/2009. RAZOABILIDADE NA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE DIVERGÊNCIA, ENTRE AS TURMAS RECURSAIS, QUANTO À QUESTÃO DE DIREITO MATERIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - O cabimento do pedido de uniformização de interpretação de lei é possível apenas quando houver controvérsia sobre questões de direito material, bem como situações em que Turmas de diferentes Estados derem à lei federal interpretações divergentes ou a decisão proferida afrontar súmula deste Tribunal.
+II - Decisão de Turma Recursal proferida sob a perspectiva de que os honorários advocatícios foram fixados de maneira desproporcional. Logo, é forçoso reconhecer a inadmissibilidade do pedido de cunho eminentemente processual, qual seja, fixação de honorários advocatícios.
+III - Agravo interno improvido.
+(AgInt no PUIL 153/RO, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 14/06/2017, DJe 22/06/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO PEDIDO DE INTERPRETAÇÃO DE LEI. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ART. 18, § 3º, DA LEI 12.153/2009. RAZOABILIDADE NA FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE DIVERGÊNCIA, ENTRE AS TURMAS RECURSAIS, QUANTO À QUESTÃO DE DIREITO MATERIAL . ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A decisão agravada está em consonância com orientação desta Corte, segundo a qual, o cabimento do pedido de uniformização de interpretação de lei é possível apenas quando houver controvérsia sobre questões de direito material, bem como situações em que Turmas de diferentes Estados derem à lei federal interpretações divergentes ou a decisão proferida afrontar súmula deste Tribunal.
+III - A Agravante se insurge contra decisão de Turma Recursal sob a perspectiva de que os honorários advocatícios foram fixados de maneira desproporcional. Sendo assim, forçoso reconhecer a inadmissibilidade do pedido, porquanto trata-se de pedido concernente a matéria processual, qual seja, fixação de honorários advocatícios. Neste sentido, decisão proferida pelo Ministro Humberto Martins no PUIL 41/RO, DJe 15/4/2016.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido.
+(AgInt no PUIL 127/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 22/03/2017, DJe 27/03/2017)
+Destaco, ainda, as seguintes decisões monocráticas que adotaram a mesma conclusão: PUIL 681/RS, Rel. Ministro Gurgel de Faria, julgado em 5/2/2018, DJe 16/2/2018; PUIL 669/RS, Rel. Ministra Regina Helena Costa, julgado em 8/2/2018, DJe 14/2/2018; PUIL 687/RS, Rel. Ministro Sérgio Kukina, julgado em 1/2/2018, DJe 8/2/2018; PUIL 657/RS, Rel. Ministro Herman Benjamin, julgado em 30/1/2018, DJe 8/2/2018; PUIL 671/RS, Rel. Ministra Assusete Magalhães, julgado em 1/2/2018, DJe 7/2/2018.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RI/STJ, não conheço do pedido de uniformização de interpretação de lei.
+Publique-se. Intimem-se.
