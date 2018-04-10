@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ENQUADRAMENTO. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. INOCORRÊNCIA. PRESCRIÇÃO DE FUNDO DE DIREITO. REEXAME. IMPOSSIBILIDADE. NECESSÁRIA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO DO FEITO. SÚMULA 7/STJ.
+1. Consoante a jurisprudência do STJ, não há violação do princípio da colegialidade se houve a interposição de agravo interno, havendo o pronunciamento do órgão colegiado a respeito de todas as questões suscitadas anteriormente. Precedente: AgInt no REsp 1.695.114/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 6/12/2017.
+2. Hipótese em que o Tribunal de origem afastou a incidência da prescrição de fundo de direito, sem, contudo, explicitar no acórdão recorrido as premissas fáticas necessárias à revisão de tal aspecto. Com isso, a alteração da conclusão alcançada na origem passa necessariamente pela revisão do contexto fático-probatório, incidindo, na espécie, o teor da Súmula 7/STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 185):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. ENQUADRAMENTO. PRESCRIÇÃO DE FUNDO DE DIREITO. REEXAME. IMPOSSIBILIDADE. NECESSÁRIA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO DO FEITO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+O agravante alega que: a) "a decisão monocrática atenta em face do Princípio da Colegialidade no julgamento dos recursos, sendo certo que, para a regra geral, tem a parte o direito de ver sua irresignação apreciada pela totalidade de magistrados que compõem o órgão julgador" (fl. 191); e b) a desnecessidade de revolvimento do conjunto fático probatório, posto que "salta aos olhos a prescrição do direito da Agravada. Isso porque, a data limite para propositura da ação, seria de março de 2014, porém esta ajuizou a demanda tão somente em novembro daquele ano" (fl. 192).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ENQUADRAMENTO. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO. INOCORRÊNCIA. PRESCRIÇÃO DE FUNDO DE DIREITO. REEXAME. IMPOSSIBILIDADE. NECESSÁRIA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO DO FEITO. SÚMULA 7/STJ.
+1. Consoante a jurisprudência do STJ, não há violação do princípio da colegialidade se houve a interposição de agravo interno, havendo o pronunciamento do órgão colegiado a respeito de todas as questões suscitadas anteriormente. Precedente: AgInt no REsp 1.695.114/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 6/12/2017.
+2. Hipótese em que o Tribunal de origem afastou a incidência da prescrição de fundo de direito, sem, contudo, explicitar no acórdão recorrido as premissas fáticas necessárias à revisão de tal aspecto. Com isso, a alteração da conclusão alcançada na origem passa necessariamente pela revisão do contexto fático-probatório, incidindo, na espécie, o teor da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, no que se refere a alegada violação ao princípio da colegialidade, de acordo com art. 932, IV, do CPC/2015 (art. 557 do CPC/1973), é possível ao Relator decidir o recurso de forma monocrática, quando manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante. Exatamente a hipótese do feito em que inadmissível o apelo especial por força de óbice sumular.
+Ademais, eventual afronta a tal disposição resta superada com a apreciação deste presente agravo interno, por esta 1ª Turma do e.STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição ou obscuridade..
+III - É firme o posicionamento desta Corte segundo o qual a confirmação de decisão monocrática do relator pelo órgão colegiado supera eventual violação do art. 932 do Código de Processo Civil.
+IV - In casu, rever o entendimento do tribunal de origem de que a via eleita - exceção de pré-executividade - seria inadequada, porquanto necessária dilação probatória, demandaria revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte.
+V - O recurso especial não pode ser conhecido com fundamento na alínea c, do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido (AgInt no REsp 1.695.114/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 6/12/2017).
+Ainda, no mesmo sentido: AgRg no REsp 1.561.444/MT, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 24/2/2017; AgInt no AREsp 564.102/PR, Rel. Ministro Ricardo Vilas Boas Cueva, Terceira Turma, DJe 6/9/2016.
+No que se refere a inaplicabilidade da Súmula 7/STJ ao presente caso, sob o argumento de ser prescindível revisitar o conjunto fático-probatório do feito, também não merece prosperar o intento recursal.
+Consoante assentado na decisão agravada, não é possível extrair do contexto fático delineado pelo acórdão recorrido, as premissas necessárias à revisão do julgado. Com isso, apreciar e decidir acerca da incidência da prescrição de fundo de direito, infirmando a conclusão alcançada na origem, demandaria efetivamente a análise das provas acostadas ao feito, o que, sabidamente, não é possível na via do recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
