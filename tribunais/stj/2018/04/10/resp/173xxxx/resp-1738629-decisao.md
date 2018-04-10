@@ -1,0 +1,10 @@
+DECISÃO
+1. Cuida-se de agravo tirado de decisão denegatória do seguimento de recurso especial, que se dirige contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RECUPERAÇÃO JUDICIAL. Impugnação. Extinção do incidente, com imposição de multa por litigância de má-fé. Manutenção. Crédito sobre o qual se funda a controvérsia já foi objeto de anteriores impugnações. Coisa julgada. Valor da causa. Fixação correta. Valor que reflete a expressão econômica da relação jurídica material entre as partes. Recurso não provido.
+Nas razões do especial, fundado na alínea "a" do permissivo constitucional, a ora agravante apontou violação dos artigos 80, inciso VI, 81, 337, §§ 1º e 2º, 502 e 508 do CPC de 2015; 47 da Lei 11.101/2005. Sustentou, em síntese: (i) a inexistência de "qualquer decisão anterior que já tenha julgado o pedido declaratório para que fosse reconhecido judicialmente que a totalidade dos créditos do banco recorrido deve ser paga de acordo com a modalidade de pagamento no Plano de Recuperação Judicial da recorrente" (fls. 407/408), o que afasta qualquer ofensa à coisa julgada; (ii) não caracterizada litigância de má-fé na hipótese, uma vez escorada em premissa equivocada consubstanciada na existência de coisa julgada; e (iii) caso mantida a multa por litigância de má-fé, o seu valor deve ser reduzido ao patamar mínimo a fim de viabilizar o cumprimento do plano de recuperação judicial da sociedade.
+O apelo extremo recebeu crivo negativo de admissibilidade na origem, o que ensejou a interposição do presente agravo.
+Apresentada contraminuta às fls. 466/473.
+É o relatório. Decido.
+2. Dadas a relevância da argumentação expendida nas razões recursais e as circunstâncias que envolvem a lide, entendo que a matéria merece melhor análise por ocasião do julgamento do recurso especial.
+3. Ante o exposto, dou provimento ao agravo, a fim de determinar sua reautuação como recurso especial, sem prejuízo de nova apreciação acerca do cabimento deste, a ser realizada no momento processual oportuno.
+Publique-se. Intimem-se.
