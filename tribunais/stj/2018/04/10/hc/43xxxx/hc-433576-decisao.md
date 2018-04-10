@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em benefício de [NOME], contra v. acórdão do eg. Tribunal de Justiça do Estado do Ceará.
+Depreende-se dos autos que o paciente encontra-se preso preventivamente, pela prática, em tese, do crime previsto no artigo 157, § 3º, segunda parte, e artigo 211, c/c o artigo 69, todos do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem, denegou a ordem, em v. acórdão assim ementado:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ROUBO SIMPLES. REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR. MODUS OPERANDI DA CONDUTA E PERICULOSIDADE DO AGENTE. FUNDAMENTAÇÃO ADEQUADA. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. EXCESSO DE PRAZO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. SENTENÇA DE PRONÚNCIA. ORDEM CONHECIDA E DENEGADA.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, poderá ser decretada prisão preventiva, com fulcro no artigo 312 do Código de Processo Penal;
+2. A prisão preventiva revela-se imprescindível em razão da periculosidade do paciente, evidenciada a partir do modus operandi de sua conduta e violência empregada no crime, bem como para a garantia da ordem pública;
+3. Constrangimento ilegal por excesso de prazo encontra-se superado, em razão da conclusão da instrução processual e da prolação da Sentença de Pronúncia.
+4. Ordem conhecida e denegada" (fl. 124).
+Daí o presente mandamus, no qual o impetrante afirma a existência de constrangimento ilegal consubstanciado na ausência de fundamentação idônea a justificar a decretação de sua segregação cautelar, bem como o excesso de prazo para a formação da culpa.
+Requer, assim, a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 131-133.
+As informações foram prestadas às fls. 139-142.
+O Ministério Público Federal, às fls. 168-171, manifestou-se pela denegação da ordem. Confira-se a ementa do parecer:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. HOMICÍDIO QUALIFICADO E ROUBO. PRETENSA REVOGAÇÃO DA PRISÃO PREVENTIVA POR AUSÊNCIA DE FUNDAMENTAÇÃO. INVIÁVEL. CAUTELAR PARA GARANTIR A ORDEM PÚBLICA ANTE PERICULOSIDADE DO ACUSADO EVIDENCIADA PELO MODUS OPERANDI. SUPOSTO EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL. INOCORRÊNCIA. RÉU PRONUNCIADO. SÚMULA 21/STJ. PARECER PELO NÃO CONHECIMENTO DO WRIT" (fl. 168).
+É o relatório.
+Decido.
+De início, verifico que a Defesa não colacionou aos autos o decreto preventivo originário, razão pela qual se revela inviável a adequada avaliação da fundamentação da prisão cautelar, face à instrução deficiente.
+Sobre o tema, deve-se asseverar que, segundo orientação firmada no âmbito desta eg. Corte, constitui ônus do recorrente e instruir os autos com os documentos necessários à exata compreensão da controvérsia, sob pena de não conhecimento do writ.
+Nesse sentido:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PREJUDICIALIDADE DO RECURSO EM RELAÇÃO AOS RECORRENTES BENEFICIADOS COM A LIBERDADE PROVISÓRIA PELO JUÍZO DE ORIGEM. NÃO CONHECIMENTO DO RECURSO PARA OS RECORRENTES QUE NÃO FIGURAM COMO PACIENTES NO ACÓRDÃO DO WRIT ORIGINÁRIO.  ..  INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. O recurso está prejudicado em relação aos recorrentes [NOME], [NOME] e R. de A.. Conforme informações prestadas a essa Corte, na audiência de instrução e julgamento foi concedida liberdade provisória a esses recorrentes. Assim, não há como negar a perda superveniente do objeto deste recurso em relação a eles. O recurso foi interposto por seis réus, contudo o acórdão que instrui o pedido tem como paciente unicamente [NOME] de [NOME].. Desse modo, constato a deficiência de instrução quanto aos recorrentes [NOME] e [NOME], não havendo como conhecer do recurso deles.
+ ..
+4. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+Recurso em habeas corpus conhecido em parte e, nessa extensão, desprovido" (RHC 73.802/MG, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 28/10/2016, grifei).
+"AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. CRIME DE RECEPTAÇÃO. TESE DE AUSÊNCIA DE FUNDAMENTAÇÃO DOS REQUISITOS AUTORIZADORES. DEFICIÊNCIA DE INSTRUÇÃO. ÔNUS DO IMPETRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. Consoante entendimento desta Corte Superior, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 286.754/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 3/2/2015).
+2. Não tendo sido juntadas aos autos cópia da decisão do decreto prisional, folha de antecedentes criminais e documentação comprobatória das condições de favorabilidade do paciente, ora agravante, deve ser mantida a decisão que indeferiu o writ liminarmente.
+3. Agravo regimental improvido." (AgRg no HC 353.292/TO, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 18/05/2016, grifei).
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC n. 412.703/GO, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC n. 412.088/MG, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca; HC n. 411.306/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HC nº 412.341/TO, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura; HC n. 412.092/SP, Sexta Turma, Rel. Ministro Antonio Saldanha Palheiro.
+Por outro lado, quanto ao alegado excesso de prazo, ressalta-se que o término da instrução processual não possui características de fatalidade e de improrrogabilidade, não se ponderando mera soma aritmética de tempo para os atos processuais. A propósito, esta Corte, firmou jurisprudência no sentido de se considerar o juízo de razoabilidade para eventual constatação de constrangimento ilegal ao direito de locomoção decorrente de excesso de prazo, levando-se em consideração a quantidade de delitos, a pluralidade de réus, bem como a quantidade de advogados e defensores envolvidos. Sobre o tema:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO. ARTIGOS 33, 35 E 40, INCISO V, TODOS DA LEI 11.343/2006. ALEGAÇÃO DE DESIGNAÇÃO DE AUDIÊNCIA ANTES DO RECEBIMENTO DA DENÚNCIA. NULIDADE. FALTA DE PROVA PRÉ-CONSTITUÍDA. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INOCORRÊNCIA. PECULIARIDADES. RAZOABILIDADE. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. SÚMULA N. 52/STJ. RECURSO DESPROVIDO.
+ ..
+III - O prazo para a conclusão da instrução criminal não possui características de fatalidade e de improrrogabilidade, fazendo-se imprescindível analisar as circunstâncias do caso concreto, à luz do princípio da razoabilidade, para definir o excesso de prazo, não se ponderando, pois, a mera soma aritmética dos prazos para a realização dos atos processuais (precedentes do STF e do STJ).
+ .. " (RHC n. 57.863/RJ, Quinta Turma, de minha relatoria, DJe de 19/10/2015).
+"PENAL. HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO E RECEPTAÇÃO. PRÉVIO MANDAMUS DENEGADO. PRESENTE WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. INVIABILIDADE. VIA INADEQUADA. PRISÃO PREVENTIVA. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. LOGÍSTICA ENGENDRADA. CIRCUNSTÂNCIAS DO FATO. TENTATIVA ANTERIOR DE FUGA. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. EXCESSO DE PRAZO. INCIDENTES PROCESSUAIS. EXERCÍCIO DA AMPLA DEFESA. DELONGA JUSTIFICADA NA PRESTAÇÃO JURISDICIONAL. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. A aferição da razoabilidade da duração do processo não se efetiva de forma meramente aritmética. É necessário ter em conta a complexidade da causa, a atuação estatal e das partes. In casu, verifica-se a interposição de incidentes processuais pelos defensores do paciente, em pleno exercício da ampla defesa, mostrando-se, assim, que o trâmite processual encontra-se compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia.
+4. Habeas corpus não conhecido" (HC n. 296.248/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 16/9/2014).
+In casu, a alegação de excesso de prazo para a formação da culpa encontra-se, por ora, superada, tendo em vista que foi prolatada decisão de pronúncia em desfavor do paciente, em 1/6/2017, tendo sido mantida a sua custódia cautelar.
+Incide, portanto, o óbice da Súmula nº 21 desta Corte Superior, que prescreve que "Pronunciado o réu, fica superada a alegação do constrangimento ilegal por excesso de prazo na instrução."
+Nesse sentido os seguintes julgados deste Tribunal Superior:
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. ALEGAÇÃO DE INOCÊNCIA. NÃO CABIMENTO. EXCESSO DE PRAZO. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. SÚMULA 21 STJ. ORDEM NÃO CONHECIDA.
+ ..
+4. Nos termos do enunciado nº 21 da Súmula do Superior Tribunal de Justiça, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+5. Ordem não conhecida" (HC n. 345.165/GO, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 4/10/2016).
+"HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO E TENTATIVA DE HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO CAUTELAR. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. REVOLVIMENTO FÁTICO-PROBATÓRIO. FUNDAMENTAÇÃO DA PRISÃO. GRAVIDADE CONCRETA. MODUS OPERANDI. FUGA DO DISTRITO DA CULPA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. EXCESSO DE PRAZO. DECISÃO DE PRONÚNCIA PROFERIDA. SÚMULA Nº 21/STJ. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+ ..
+5. A decisão de pronúncia, já proferida nos autos, torna superado o pedido de relaxamento da prisão por excesso de prazo para o encerramento da instrução, nos termos do Enunciado nº 21 da Súmula desta Corte.
+6. Writ parcialmente conhecido e, nessa extensão, denegado" (HC n. 344.783/MG, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 29/8/2016), grifei.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
