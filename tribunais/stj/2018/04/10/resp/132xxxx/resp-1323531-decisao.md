@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Pedro de Queiroz Advocacia, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, publicado na vigência do CPC/1973, assim ementado (e-STJ, fl. 235):
+MANDADO DE SEGURANÇA. PEDIDO DE PARTICIPAÇÃO EM CERTAME LICITATÓRIO PARA SERVIÇO DE ADVOCACIA À CARRIS. SENTENÇA QUE RECONHECEU A PERDA DO OBJETO MANTIDA. Parecer pelo desprovimento do recurso, levando-se em conta que já houve prosseguimento do certame, constituindo-se em perda do objeto discutido. Análise da eventual responsabilidade do magistrado pelo fato que não cabe no âmbito do mandado de segurança. Precedentes do TJRS.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 292/298).
+Alega a parte recorrente, além de dissídio jurisprudencial, violação do art. 3º, § 1º, I, da Lei n. 8.666/1993, pois a previsão em edital de licitação que somente permite a participação no certame de escritórios de advocacia com sede ou filial na cidade de Porto Alegre viola o princípio da isonomia.
+Contrarrazões às e-STJ, fls. 363/367.
+Parecer do Ministério Público Federal, às e-STJ, fls. 448/451, em que aponta óbice processual quanto ao conhecimento do apelo nobre.
+É o relatório.
+A irresignação não merece prosperar.
+Com efeito, a insurgência deixou incólume o seguinte fundamento utilizado pelo Tribunal de origem para amparar sua decisão (e-STJ, fls. 237/238):
+O prosseguimento do certame licitatório no dia 23/08/2010 ocasionou a perda do objeto do presente mandado, sendo afastada a discussão sobre eventual demora na prestação jurisdicional. Tratando-se o mandado de segurança de direito líquido e certo, aferível de plano, entende-se que referida discussão (e eventual análise dos prejuízos enfrentados pelo impetrante) não são passíveis de análise no presente. Isso não impede que a mesma pretensão seja deduzida nas vias ordinárias. De qualquer modo, no caso, o levantamento da liminar e o consequente prosseguimento do certame fizeram com que, adiantadas as fases da concorrência, se perdesse o objeto. A jurisprudência se manifesta de forma uníssona nesse sentido:  .. .
+A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. DETRAN/PE. DEFICIENTE FÍSICO. ALTERAÇÃO DA LEI QUE CONSIDERAVA O CANDIDATO COMO DEFICIENTE, DURANTE O CONCURSO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. DEFICIÊNCIA FÍSICA RECONHECIDA, PELO TRIBUNAL DE ORIGEM. ALTERAÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 12/02/2016, contra decisão publicada em 02/02/2016.
+II. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência do enunciado da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). No caso, a parte recorrente deixou de impugnar o fundamento do acórdão recorrido, no sentido de que "a junta médica do certame em apreço aplicou a literalidade do supracitado Decreto 5296/04, o qual não estava em vigor na data da publicação do edital do certame em questão, entendendo pela desclassificação do candidato ora apelante por considerar que a sua surdez bilateral não se enquadrava na previsão de deficiência auditiva". Incidência da Súmula 283/STF.
+III. Ademais, tendo o acórdão recorrido concluído pela existência de perda auditiva bilateral, suficiente a enquadrar o autor como deficiente auditivo, nos termos da lei, aferir a existência da perda auditiva, em Recurso Especial, demandaria o reexame do conteúdo fático-probatório dos autos, providência vedada, em sede de Recurso Especial, ante o óbice da Súmula 7/STJ.
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1.504.904/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/4/2016, DJe 19/4/2016 - grifos acrescidos)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
