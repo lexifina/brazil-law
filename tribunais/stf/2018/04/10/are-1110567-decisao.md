@@ -1,0 +1,29 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Prudenco Companhia Prudentina de Desenvolvimento contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “RESPONSABILIDADE CIVIL — Danos morais e lucros cessantes — Acidente de trânsito devido a buraco na via pública — Responsabilidade solidária entre a Municipalidade e a empresa prestadora de serviços Prudenco — Ausência de responsabilidade da Sabesp por haver cumprido os termos do contrato — Recursos parcialmente providos.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 37, § 6º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário não se revela viável, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão em referência demonstra que o Tribunal “a quo”, no julgamento do recurso, sustentou as suas conclusões em aspectos fático-probatórios:
+    “Conforme se depreende do documento de fls. 101, a via esteve fechada durante o tempo em que os funcionários da Sabesp estiveram trabalhando no local.
+    Embora não haja nos autos prova da expedição de comunicado à prefeitura, pelos relatórios acostados a fls. 70/71, pode-se concluir que a Sabesp notificou ao menos a Prudenco, que à época era contratada pela prefeitura para a realização de obras de pavimentação. Afirmam as testemunhas ouvidas no processo que os funcionários da Prudenco chegaram ao local antes mesmo de terminados os trabalhos pela Sabesp. Extingue-se, portanto, a responsabilidade da Sabesp pelo ocorrido, pois não houve qualquer conduta reprovável no que lhe competia fazer.
+    Ouvidos em juízo como testemunhas, os funcionários das rés que estiveram no local contradizem-se quanto a dois pontos: a colocação de sinalização na via; e a colocação de massa asfáltica no local. É fato incontroverso, porém, que depois da ação da Prudenco restou uma saliência de dimensões consideráveis na via pública, que lá ficou de 21/05/99 até a ocorrência do acidente, em 30/05/99. Houve, portanto, desídia por parte da Prudenco, que não realizou o serviço de pavimentação a contento, bem como da Municipalidade de Presidente Prudente, que não procedeu a qualquer fiscalização. Evidente, também, o nexo causal entre a ação das duas rés e o dano moral causado a autora pelo falecimento de seu filho.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora recorrente revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Impende assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.019.535/SP, Rel. Min. EDSON FACHIN – ARE 1.039.349/PE, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. Responsabilidade objetiva do Estado. Indenização. Nexo causal. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. O Tribunal de origem concluiu pela responsabilidade objetiva da Administração Pública e pelo consequente dever de indenizar, com fundamento nos fatos e nas provas constantes dos autos.
+    2. Não se presta o recurso extraordinário para o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido.”
+    (ARE 719.319-AgR/DF, Rel. Min. DIAS TOFFOLI)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA DO ESTADO. ACIDENTE. BURACO EM VIA PÚBLICA. CABIMENTO DE INDENIZAÇÃO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. O nexo de causalidade apto a gerar indenização por dano moral em face da responsabilidade do Estado, quando controversa sua existência, demanda a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279/STF que dispõe ‘verbis’: ‘Para simples reexame de prova não cabe recurso extraordinário’.
+    2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    3. ‘In casu’, o acórdão recorrido assentou: ‘APELAÇÃO CÍVEL – INDENIZATÓRIA – DANOS MORAIS, ESTÉTICOS E MATERIAIS’.
+    4. Agravo regimental DESPROVIDO.”
+    (ARE 754.958-AgR/RJ, Rel. Min. LUIZ FUX)
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 10 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
