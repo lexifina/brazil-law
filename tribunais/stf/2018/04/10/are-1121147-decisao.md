@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 16, Vol. 5):
+    “INDENIZATÓRIA - MORTE DE PRESO - RESPONSABILIDADE CIVIL DO ESTADO - INOCORRÊNCIA - CONDUTA CONCORRENTE DA VÍTIMA - IMPROCEDÊNCIA. A segurança do preso é de indiscutível obrigação do Estado; no entanto, é de ser exigida a prova do nexo de casualidade, esta inocorre a partir do ponto em que a vítima concorra para o evento. Assim, se o preso participou com vontade própria com conduta de indisciplina, destruindo dependências e em decorrência disto veio a falecer, excluiu responsabilidade do Estado em preservar-lhe a segurança. Ação improcedente. Recurso negado.”
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou os seguintes dispositivos constitucionais: arts. 5º, V, X e XLIX; e 37, § 6º.
+    É o relatório. Decido.
+    No caso, o Tribunal de origem, com base nas circunstâncias da causa, entendeu que não ficou comprovado o nexo de causalidade no evento danoso (morte de detento), de modo que não ficou caracterizada a responsabilidade civil objetiva do Estado.
+    Todavia, a recorrente sustenta a ocorrência do nexo de causalidade, bem como dos demais requisitos para responsabilização civil estatal, afirmando ser devida a indenização pelos danos suportados.
+    Assim, a argumentação recursal traz versão dos fatos diversa da exposta no acórdão, de modo que o acolhimento do recurso passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta CORTE: Para simples reexame de prova não cabe recurso extraordinário. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Responsabilidade objetiva do Estado, em razão de morte de detento em fuga de estabelecimento prisional. 3. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Incidência da Súmula 279. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 939008 AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 20/10/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL DO ESTADO. MORTE DE MENOR EM CENTRO DE RESSOCIALIZAÇÃO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, § 6°, da Constituição, encontra óbice na Súmula 279 do STF. Precedentes. II - O Tribunal possui o entendimento de que o Estado se responsabiliza pela integridade física do pessoa sob sua custódia, devendo reparar eventuais danos por ele sofridos. Precedentes. III - Agravo regimental a que se nega provimento.” (ARE 718928 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje de 28/3/2014)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 10 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
