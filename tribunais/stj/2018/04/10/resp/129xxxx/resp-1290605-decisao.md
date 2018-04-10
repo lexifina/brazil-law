@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por FUNDAÇÃO ENERSUL, com amparo na alínea "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (fls. 206, e-STJ):
+EMENTA - AGRAVO REGIMENTAL EM APELAÇÃO CÍVEL - PEDIDO DE HOMOLOGAÇÃO DE TRANSAÇÃO EXTRAJUDICIAL - CARACTERÍSTICAS DE TÍTULO EXECUTIVO EXTRAJUDICIAL - FALTA DE INTERESSE DE AGIR - INICIAL INDEFERIDA - RECURSO NÃO PROVIDO - DECISÃO MANTIDA.
+Não há necessidade e nem utilidade na homologação judicial de acordo se as partes firmaram um instrumento particular de transação devidamente assinado por ambas e por seus procuradores, além de duas testemunhas, possuindo um título executivo extrajudicial, nos termos do artigo 585, inciso II, do Código de Processo Civil.
+Nega-se provimento a agravo regimental que não tenha se desincumbido de mostrar a injustiça ou o desacerto da decisão recorrida.
+Nas razões do recurso especial (fls. 213/226, e-STJ), os recorrentes apontam, além de dissídio jurisprudencial, violação dos arts. 57 da Lei nº 9.099/95 e 3º, 267, inc. VI, 295, inc. III, e 475-N, todos do CPC/73.
+Sustenta, em síntese, que "a transação firmada pelas partes, a despeito de ser extrajudicial e não por fim a nenhuma ação judicial pendente, pode muito bem ser homologada pelo Poder Judiciário, conforme admite o art. 57 da Lei nº 9.099/95." (fls. 217, e-STJ)
+Por fim, aduz que "o legítimo interesse das partes em homologar a transação extrajudicial contida no instrumento reside na pretensão de obter do Poder Judiciário o reconhecimento de um conflito de interesse já resolvido extrajudicialmente, e não de um conflito de interesse a resolver." (fl. 222, e-STJ)
+Sem contrarrazões.
+Após decisão de admissão do recurso especial (fl. 231/233, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+1. De início, consigne-se que o acórdão recorrido foi publicado antes da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso especial sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, QUARTA TURMA, julgado em 05/04/2016).
+2. Cinge-se a questão trazida nos autos acerca da existência ou não de interesse da parte recorrente em homologar a transação extrajudicial.
+Como e sabido o interesse de agir é constituído pelo binômio necessidade e utilidade.
+No presente caso o acórdão local entendeu "que o Instrumento Particular de Transação v 4 de f. 4/7 formalizou-se com a participação das autoras, de duas testemunhas e de advogados de ambas as partes, constituindo, portanto, titulo executivo extrajudicial, conforme prevê o art. 585 do Código de Processo Civil (..) Desta feita, realmente não se vislumbra o interesse processual das autoras em consonância com o binômio necessidade-adequação, porquanto realizaram transação que resultou em titulo executivo, o que torna desnecessário o provimento jurisdicional pleiteado". (fl. 188, e-STJ)
+Ao assim julgar, o acórdão local o fez em sintonia com a jurisprudência dessa Casa, no sentido de não haver o alegado interesse recursal.
+Nesse sentido:
+PROCESSO CIVIL. TRANSAÇÃO EXTRAJUDICIAL. HOMOLOGAÇÃO. LEI 9.099/95. ART. 57. IMPOSSIBILIDADE.
+1. É imprescindível preservar o escopo da Lei 9.099/95, criada para facilitação de acesso ao Poder Judiciário pelos titulares de direitos relacionados a lides de menor complexidade, com procedimento simplificado e julgamento célere, desafogando-se, com isso, os Tribunais em causas de procedimento ordinário ou sumário.
+2. O art. 57 da Lei 9.099/95 tem, em princípio, eficácia transcendente à Lei dos Juizados Especiais. Essa norma, contudo, teria o papel de regular provisoriamente a matéria, até que ela encontrasse regulação específica nos diplomas adequados, a saber, o Código de Processo Civil e o Código Civil.
+3. O CPC, nas sucessivas reformas ocorridas desde meados dos anos 90, vem tendo alterada a redação de seu art. 584, III, de modo a contemplar, com maior ou menor extensão, a possibilidade de homologação de acordos extrajudiciais.
+4. Na última alteração a que se sujeitou o código, contudo, incluiu-se o art. 475-N, que em lugar de atribuir eficácia de título executivo judicial à sentença que homologue acordo que verse sobre matéria não posta em juízo, passou a falar em transações que incluam matéria não posta em juízo.
+5. Uma transação que inclua matéria não posta em juízo está claramente a exigir que a transação, para ser homologável, tem de se referir a uma lide previamente existente, ainda que tenha conteúdo mais amplo que o dessa lide posta. Assim, a transação para ser homologada teria de ser levada a efeito em uma ação já ajuizada.
+6. É necessário romper com a ideia de que todas as lides devem passar pela chancela do Poder Judiciário, ainda que solucionadas extrajudicialmente. Deve-se valorizar a eficácia dos documentos produzidos pelas partes, fortalecendo-se a negociação, sem que seja necessário, sempre e para tudo, uma chancela judicial.
+7. A evolução geral do direito, num panorama mundial, caminha nesse sentido. Tanto que há, hoje, na Europa, hipóteses em que ações judiciais somente podem ser ajuizadas depois de já terem as partes submetido sua pretensão a uma Câmara Extrajudicial de Mediação, como corre, por exemplo, na Itália, a partir da promulgação do Decreto Legislativo nº 28/2010.
+8. Ao homologar acordos extrajudiciais, o Poder Judiciário promove meramente um juízo de delibação sobre a causa. Equiparar tal juízo, do ponto de vista substancial, a uma sentença judicial seria algo utópico e pouco conveniente. Atribuir eficácia de coisa julgada a tal atividade implicaria conferir um definitivo e real a um juízo meramente sumário, quando não, muitas vezes, ficto. Admitir que o judiciário seja utilizado para esse fim é diminuir-lhe a importância, é equipará-lo a um mero cartório, função para a qual ele não foi concebido.
+9. Recurso especial não provido.
+(REsp 1184151/MS, Rel. Ministro MASSAMI UYEDA, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2011, DJe 09/02/2012)
+Incide, portanto, o óbice da Súmula 83/STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+3. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
