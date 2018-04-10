@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. BENS PÚBLICOS. VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO CONFIGURAÇÃO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial da INFRAERO fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Regional Federal da 5ª Região, assim ementado:
+EMENTA: ADMINISTRATIVO. CONTRATO DE CONCESSÃO DE USO. AEROPORTO DE MACEIÓ/AL. SUSPENSÃO E PRORROGAÇÃO DO CONTRATO. JUÍZO DE CONVENIÊNCIA E OPORTUNIDADE DA ADMINISTRAÇÃO. RENOVAÇÃO DA AVENÇA PARA FINS DE AMORTIZAÇÃO DO INVESTIMENTO. LUCROS CESSANTES. RECONHECIMENTO PARCIAL. MANUTENÇÃO DA SENTENÇA.  ..  XV. Apelações improvidas.
+Os embargos de declaração foram rejeitados. No recurso especial, a parte recorrente aponta violação do art. 1.022 do CPC/15, aduzindo que o acórdão quedou-se omisso.
+Houve contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No que concerne à pretensão da recorrente, o recurso especial não pode ser conhecido.
+A parte afirma que o acórdão quedou-se omisso quanto aos seguintes pontos:
+  com exclusão do período de 28/07 a 15/09/2005 da condenação nos lucros cessantes imposta à Infraero, tendo em vista que a RECORRIDA operava normalmente na área localizada no ANTIGO TERMINAL DE PASSAGEIROS, CUJA ATIVIDADE FOI ENCERRADA EM 15/09/2005, ÚLTIMO DIA DE OPERAÇÃO DO AEROPORTO ANTIGO, DIANTE DA INAUGURAÇÃO DO NOVO TERMINAL DE PASSAGEIROS EM 16/09/2005, haja vista que só haveria hipótese de lucros cessantes, se tivesse ocorrido a inatividade da SALA VIP explorada pela APELADA, o que não ocorreu até 15/09/2005.
+  Não obstante a INFRAERO ter suscitado no bojo de suas razões recursais, que o documento de fls. 231 a 234 dos autos, citado na sentença como forma de balizar o pagamento da eventual indenização relativa aos lucros cessantes, não serve como parâmetro necessário, já que produzido unilateralmente pela RECORRIDA, não retratando a realidade dos fatos e que deveria a APELADA comprovar o "lucro" que deixou de auferir, não houve apreciação desta matéria no v. acórdão, incorrendo em OMISSÃO do julgado.
+  Também invocou esta EMBARGANTE, que ao determinar o valor a ser indenizado por lucro cessante, o Juiz de Piso deveria considerar apenas o que a parte prejudicada tenha deixado de perceber em razão do fato danoso, analisando o tempo de paralisação da atividade, descontando, também, despesas como salário de funcionários, aluguel e tributo, para se apurar o valor justo de indenização, pois caso contrário restaria caracterizado o enriquecimento ilícito da vítima.
+  Consignou esta EMBARGANTE também, que há de se compreender que lucros cessantes, em momento algum, se confunde com o faturamento da empresa e que na verdade, o montante a ser pago para fins de indenização é resultado da subtração do montante da receita, dos custos habituais da empresa, através da seguinte operação: lucros cessantes = receita - custos.
+  Também foi matéria invocada naquele recurso, que não pode o valor de eventual condenação recair sobre os documentos unilateralmente formados pelo Apelado, de fls. 231-234. (e-STJ Fls. 1025-1026)
+Em suma, alega a recorrente que há violação ao art. 1.022 do CPC pois: 1) faz-se necessária a exclusão de período na condenação dos lucros cessantes; 2) há de se modificar o valor dos lucros cessantes; e 3) não pode ser aceito documento apresentado unilateralmente pela recorrida.
+Pois bem, quanto às 1ª e 3º questões, assim pronunciou a origem:
+A questão dos lucros cessantes já foi abordada pelo julgado recorrido no ponto XI da ementa, à fl. 848, ficando ali determinado que o atraso por falhas no projeto do novo terminal postergou o funcionamento da área, fato que não pode ser atribuído à Infraero, sendo devidos os lucros cessantes apenas a partir da autorização da disponibilização da área. (e-STJ Fl. 1007)
+Em relação ao valor dos mesmos - item 2 -, cito outro trecho:
+Quanto ao valor dos lucros cessantes, tal apuração será feita quando da liquidação do julgado, considerando os documentos presentes nos autos relativos ao faturamento da empresa no local. (e-STJ Fl. 1007)
+Portanto, não há que se falar em omissão por parte do acórdão recorrido. Ainda, cabe anotar que o recorrente, furtou-se de indicar que a questão fora tratada anteriormente e, ainda, não fundamentou por qual motivo o que padece de omissão é imprescindível à lide.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
