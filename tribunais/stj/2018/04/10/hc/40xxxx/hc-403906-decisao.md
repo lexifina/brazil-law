@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o Juízo das Execuções Penais homologou o reconhecimento de falta disciplinar de natureza grave, consistente na prática de atos tendentes à subversão da ordem e da disciplina.
+Irresignada, a Defesa interpôs recurso de agravo em execução, ao qual a Corte de origem negou provimento.
+No presente writ, sustenta a Impetrante, em síntese, a existência de nulidade, em decorrência de inobservância ao princípio da ampla defesa, porquanto foi reconhecida a prática de falta grave pelo reeducando sem que lhe tivesse sido assegurada a assistência de defesa técnica, por advogado constituído ou defensor público, no âmbito do processo administrativo disciplinar, em contrariedade com a orientação fixada na Súmula 533 desta Corte.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja reconhecida a nulidade do feito.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício.
+É o relatório.
+DECIDO.
+O Tribunal de origem manteve a decisão do juízo da execução com os seguintes fundamentos (fls. 75/76):
+A PRELIMINAR de NULIDADE DO PROCESSO por não ter sido o agravante assistido por Defensor Público na esfera administrativa não merece acolhida.
+Consta da Ata do Conselho Disciplinar de fl. 13 que, no dia 25/03/2015, o detendo praticou, em tese, falta disciplinar grave, prevista no artigo 27, inciso XI do REDIPRI, consistente em desrespeitar agente penitenciário no exercício da função e subversão a ordem, tendo-lhe sido aplicada sanção administrativa de suspensão do direito de banho de sol e de visitas por 28 (vinte e oito) dias.
+A punição administrativa não se confunde com o reconhecimento judicial de falta grave, tratando-se de esferas distintas e autônomas, não estando o Juiz da Execução vinculado ao Procedimento Administrativo Disciplinar (PAD).
+Ademais, o agravante teve o seu direito de defesa resguardado, inclusive, na esfera administrativa, tendo sido assistido por defensor na Reunião do Conselho Disciplinar (Ata de fl. 13), com apresentação de defesa escrita (Documento de fl. 25).
+Portanto, rejeito a preliminar de nulidade do processo.
+Inicialmente, cumpre ressaltar o entendimento firmado por este Superior Tribunal de Justiça, em 23/10/2013, ao apreciar o REsp. n. 1.378.557/RS, admitido como representativo de controvérsia, no sentido da necessidade de instauração de procedimento administrativo disciplinar para o reconhecimento da falta grave. Confira-se a ementa:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO PENAL. 1. RECONHECIMENTO DE FALTA GRAVE. IMPRESCINDIBILIDADE DE INSTAURAÇÃO DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR (PAD). DETERMINAÇÃO EXPRESSA DO ART. 59 DA LEI DE EXECUÇÃO PENAL. PODER DISCIPLINAR. ATRIBUIÇÃO DO DIRETOR DO PRESÍDIO (LEP, ARTS. 47 E 48). DIREITO DE DEFESA A SER EXERCIDO POR ADVOGADO CONSTITUÍDO OU DEFENSOR PÚBLICO NOMEADO. OBSERVÂNCIA DA GARANTIA DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. 2. RECURSO NÃO PROVIDO.
+1. Para o reconhecimento da prática de falta disciplinar, no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado.
+2. Recurso especial não provido.
+(STJ, REsp 1378557/RS, Rel. Min. MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, DJe 21/03/2014)
+Esse entendimento foi, inclusive, sumulado por esta Corte, conforme enunciado n. 533 da Súmula do STJ, segundo o qual, Para o reconhecimento da prática de falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado.
+No presente caso, ao que se tem dos autos, o procedimento para a apuração da falta grave foi devidamente instaurado, propiciando-se ao paciente a assistência de defesa técnica, o que foi feito, na etapa administrativa, por advogado (Analista-Técnico Jurídico/Advogado [NOME] - fl. 31). Assim, para o reconhecimento de eventual violação à ampla defesa não basta a mera alegação em tal sentido, fazendo-se necessária a efetiva demonstração do prejuízo sofrido, providência da qual não se desincumbiu a Impetrante.
+Com efeito, a jurisprudência desta Corte Superior de Justiça consolidou-se no sentido de que funcionário do estabelecimento penal pode ser nomeado para a defesa técnica do apenado, em PAD, desde que o mesmo seja advogado inscrito na OAB. Qualquer prejuízo ao reeducando deve ser comprovado, e não somente alegado (HC 415.400/SC, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/10/2017, DJe 26/10/2017).
+No mesmo norte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. RECONHECIMENTO. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. NULIDADE. DEFESA TÉCNICA EXERCIDA POR SERVIDORES INTEGRANTES DOS QUADROS DO DEPARTAMENTO DE ADMINISTRAÇÃO PENITENCIÁRIA (GERENTE DE REVISÕES CRIMINAIS). AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZO. ART. 563 DO CÓDIGO DE PROCESSO PENAL. MANIFESTA ILEGALIDADE NÃO VERIFICADA. AGRAVO NÃO PROVIDO.
+1. Para o reconhecimento da falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado" (REsp 1.378.557/RS, julgado pelo rito do art. 543-C do CPC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, DJe 21/3/2014; Súmula 533/STJ).
+2. Este Superior Tribunal possui entendimento de que o fato de a defesa ter sido exercida por servidores integrantes dos quadros do Departamento de Administração Penitenciária (gerente de revisões criminais) não acarreta, por si só, a nulidade do processo administrativo disciplinar, sendo imprescindível a demonstração de efetivo prejuízo ao apenado.
+3. No Processo Penal, é imprescindível quando se aventa nulidade de atos processuais a demonstração do prejuízo sofrido em consonância com o princípio pas de nullité sans grief. 4. Na hipótese, a mera alegação de que não cabe ao gerente de revisões criminais exercer o papel de defesa técnica, por ser ele funcionário do estabelecimento penal, sem a comprovação do prejuízo sofrido, não justifica a declaração da nulidade do procedimento administrativo disciplinar, ademais que a defesa escrita postula pelo reconhecimento da nulidade do incidente disciplinar ou pela não aplicação da falta disciplinar.
+5. Agravo regimental não provido.
+(AgRg no HC 396.203/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/08/2017, DJe 30/08/2017)
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. INSTAURAÇÃO DE PAD. AUSÊNCIA DE DEFESA TÉCNICA. NULIDADE NÃO CARACTERIZADA. ORDEM DENEGADA.
+1. Esta Corte, antes da edição do enunciado sumular 533, já apregoava a necessidade de se garantir, na execução penal, a ampla defesa do sentenciado. No caso, o procedimento administrativo disciplinar foi devidamente instaurado e o sentenciado foi assistido por defensor nos âmbitos administrativo e judicial.
+2. Não se pode concluir, da análise dos autos, pela parcialidade do defensor que, embora seja funcionário da unidade prisional, patrocinou os interesses do sentenciado.
+3. Ordem denegada.
+(HC 385.486/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 09/03/2017, DJe 16/03/2017)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
