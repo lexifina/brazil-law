@@ -1,0 +1,14 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “CUMPRIMENTO DE SENTENÇA. Desapropriação. Precatório expedido em 1.7.2005 e pago integralmente em 30.7.2014, quando o Tribunal de Justiça já administrava os débitos do Município de Diadema. Pretendida a exclusão dos juros no período da moratória instituída pelo artigo 78 do ADCT. Inexistência de qualquer pagamento no período do parcelamento. Inaplicabilidade do disposto no RE nº 590.751-SP, porque as parcelas foram adimplidas a destempo. Precedentes. Agravo não provido.”
+    Cabe observar, desde logo, que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 590.751/SP, Rel. Min. RICARDO LEWANDOWSKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT, INTRODUZIDO PELA EC 30/2000. INCIDÊNCIA DE JUROS COMPENSATÓRIOS E MORATÓRIOS NAS PARCELAS SUCESSIVAS. INADMISSIBILIDADE. ART 5º, XXIV E XXXVI, DA CONSTITUIÇÃO. OFENSA AO PRINCÍPIO DA JUSTA INDENIZAÇÃO. NECESSIDADE DE REEXAME DE PROVA. OFENSA REFLEXA. INCIDÊNCIA DA SÚMULA 279 DO STF. RE PARCIALMENTE PROVIDO.
+    I – O art. 78 do ADC possui a mesma ‘mens legis’ que o art. 33 deste Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência destes nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente.
+    II – Não se mostra possível, em sede de recurso extraordinário, examinar a alegação de ofensa ao princípio da justa indenização, abrigado no art. 5º, XXIV, da Constituição Federal, diante do que dispõe a Súmula 279 do STF.
+    III – A discussão acerca dos limites objetivos da coisa julgada, ademais, constitui matéria de legislação ordinária, que não dá ensejo à abertura da via extraordinária.
+    IV – Recurso extraordinário parcialmente provido.”
+    Cumpre registrar, por oportuno, que os eminentes Ministros desta Suprema Corte têm determinado a incidência da sistemática da repercussão geral, inclusive quando houver julgamento sobre o mérito da matéria cuja transcendência foi reconhecida (RE 606.915/SP, Rel. Min. DIAS TOFFOLI – RE 607.501/SE, Rel. Min. LUIZ FUX – RE 907.942/RS, Rel. Min. EDSON FACHIN – RE 1.029.168/PR, Rel. Min. GILMAR MENDES – ARE 855.723-AgR-Segundo-ED/RJ, Rel. Min. GILMAR MENDES, v.g.).
+    Isso significa que se impõe, quanto ao Tema nº 132/RG, nos  termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução destes autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 10 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
