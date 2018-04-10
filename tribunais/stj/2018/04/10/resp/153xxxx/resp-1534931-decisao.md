@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTIGO 535 DO CPC/1973. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Funasa, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 596):
+EMBARGOS À EXECUÇÃO. COMPENSAÇÃO DOS VALORES RECEBIDOS NA VIA ADMINISTRATIVA. PORTARIA MARE. EVOLUÇÃO FUNCIONAL. JUROS MORATÓRIOS. MP Nº. 2.180-35/01. LEI 9.494/97. APLICABILIDADE IMEDIATA. HONORÁRIOS ADVOCATÍCIOS. BASE DE CÁLCULO.
+1. O STF, no julgamento dos Embargos de Declaração no Recurso Ordinário em Mandado de Segurança n. 22307-7-DF, firmou o entendimento de que deve ser compensado o percentual recebido pelos servidores por força da Lei n. 8.627/93.
+2. É entendimento pacífico neste Tribunal a inaplicabilidade da Portaria MARE n. 2.179/98 para a apuração do valor devido nas execuções de título judicial que reconhece o direito ao referido reajuste, pois esta portaria parte da classe/padrão que o servidor ocupava na data de sua edição (em 1998) e não na classe/padrão em que o servidor estava em janeiro de 1993.
+3. A adoção, em execução, de parâmetros não estabelecidos na decisão exequenda que observem a evolução funcional do servidor, apurando, a cada progressão funcional, o percentual do reajuste devido para os ocupantes da classe/padrão a que o servidor passou a pertencer, afronta a coisa julgada.
+4. A Lei 9.494/97, alterada pela Medida Provisória nº 2.180-35/2001, deve ser aplicada imediatamente aos feitos em curso, sem, contudo, retroagir a período anterior à sua vigência, conforme entendimento pacificado no STJ.
+Os embargos de declaração interpostos foram parcialmente acolhidos para fins de prequestionamento (e-STJ fl. 723).
+A recorrente alega violação do artigo 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito da contradição quanto aos honorários advocatícios, por ter sido condenada a pagar honorários sobre parcela que restou vencedora.
+Quanto ao juízo de reforma, aduz ofensa aos artigos 1º, 2º e 5º, da Lei 9.367/1996; 20, 21, 334, I, II, e III, e 743, I, do Código de Processo Civil/73; 1º, 8º e 9º, do Decreto 20.910/1932; e 197, 198, 199, 202, 203, 204, 884, 1.062 e 1.063, do Código Civil; 6º da Lei 8.622/1993; e 1º, 2º e 3º, da Lei 8.627/1993, defendendo, em suma, que ocorreu a prescrição da pretensão executória e que "deve ser observada a compensação de valores decorrentes da Medida Provisória 583/1994 (convertida na Lei nº 9.367 de 16 de dezembro de 1996), a qual foi editada justamente com o escopo de promover a isonomia entre os servidores do Poder Executivo com os dos Poderes Legislativo e Judiciário" (e-STJ fl. 782).
+Com contrarrazões (e-STJ fls. 814-874).
+Juízo positivo de admissibilidade às e-STJ fls. 877-878.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O recurso merece prosperar.
+Com efeito, a recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que a recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da contradição quanto aos honorários advocatícios, por ter sido condenada a pagar honorários sobre parcela que restou vencedora.
+Com efeito, evidencia-se que as questões suscitadas guardam correlação lógico-jurídica com a pretensão deduzida nos autos e se apresentam imprescindíveis à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 535, I ou II, do CPC/1973, ensejando a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
