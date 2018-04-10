@@ -1,0 +1,87 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA DE SEGURO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DANDO PROVIMENTO AO RECLAMO APENAS PARA DETERMINAR QUE OS JUROS MORATÓRIOS INCIDAM A PARTIR DA CITAÇÃO.
+INSURGÊNCIA DA SEGURADORA.
+1. A revisão das conclusões a que chegou o Tribunal de origem, acerca do cabimento da indenização securitária pleiteada, reclama a interpretação de cláusula contratual, bem como a incursão no contexto fático-probatório dos autos, o que é vedado no âmbito do recurso especial, ante o teor dos óbices insertos nas Súmulas 5 e 7 do STJ.
+2. A instância de origem, com amparo nos elementos de convicção dos autos, decidiu pela configuração dos requisitos ensejadores da reparação civil, incidindo, na espécie, o óbice da Sumula 7 desta Corte.
+3. O pedido de redução do quantum indenizatório encontra, igualmente, óbice na Súmula 7/STJ.
+4. Devida a indenização securitária e havendo a negativa da seguradora em efetuar seu pagamento, incidente a correção monetária desde esse evento.
+5. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por COMPANHIA DE SEGUROS ALIANÇA DO BRASIL, em face de decisão monocrática da lavra deste signatário (fls. 557-563, e-STJ), que deu provimento parcial ao recurso especial da ora agravante apenas para determinar que os juros moratórios incidam a partir da citação.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fls. 446-447, e-STJ):
+APELAÇÕES CÍVEIS - AÇÃO DE COBRANÇA DE SEGURO E AÇÃO DE INDENIZAÇÃO - FEITOS CONEXOS - DECISÃO EM UMA ÚNICA SENTENÇA - ILEGITIMIDADE PASSIVA DO SEGUNDO APELANTE - REJEIÇÃO - INTERESSE DE AGIR DA PRIMEIRA APELANTE - RECONHECIMENTO - SEGURO DE VIDA - ÓBITO DA CONTRATANTE - DEVER DE PAGAMENTO DO PRÊMIO - DESCONTO EM CONTA CORRENTE DAS PARCELAS REFERENTES AO SEGURO APÓS O FALECIMENTO DA CONTRATANTE - ATO ILÍCITO COMPROVADO - DANO MORAL CONFIGURADO - QUANTUM INDENIZATÓRIO MANTIDO - JUROS DE MORA - TERMO INICIAL - SÚMULA N. 54 DO STJ - DATA DO EVENTO DANOSO - CORREÇÃO MONETÁRIA SOBRE O VALOR DO SEGURO - INCIDÊNCIA A PARTIR DO EVENTO DANOSO - RESTITUIÇÃO EM DOBRO DOS VALORES COBRADOS DE FORMA INDEVIDA - HONORÁRIOS ADVOCATÍCIOS INALTERADOS - RECURSO DA PRIMEIRA APELANTE PARCIALMENTE PROVIDO, RECURSO DO SEGUNDO APELANTE DESPROVIDO E RECURSO DA TERCEIRA APELANTE PARCIALMENTE PROVIDO.
+Se as partes demandadas fazem parte do mesmo grupo econômico, ou se uma delas atua como revendedora dos serviços da outra, não há espaço para a tese de ilegitimidade passiva.
+O interesse da parte autora resta demonstrado por meio da contratação do seguro de vida, do falecimento da contratante e do não pagamento da indenização securitária.
+Não demonstrada a justa recusa ao pagamento do prêmio do seguro, impõe-se a procedência da sua cobrança.
+A cobrança ilegal da mensalidade do seguro, após o falecimento da contratante, aliada à via crúcis percorrida pela autora, para receber o pagamento da indenização securitária, configura o dever de indenizar, em face da ocorrência de dano moral.
+Mantém-se o valor fixado a título de indenização decorrente de dano moral que se mostra adequado e razoável.
+Os juros moratórios (arts. 406, do CC, c/c 161, § 1º, do CTN), incidentes sobre a indenização por dano moral, contam-se a partir do evento danoso (Sumula nº 54 do STJ).
+A correção monetária, sobre a indenização securitária, incide a partir da data do evento danoso.
+Constatada a má-fé, cabe a restituição em dobro dos valores indevidamente cobrados.
+Não comportam redução os honorários advocatícios fixados em percentual razoável e de acordo com os critérios objetivos definidos no art. 20 do CPC.
+Nas razões do especial, a recorrente alegou que o acórdão impugnado incorrera em vulneração dos artigos 757, 760, 771 e 777 do Código Civil de 2002, e 11 da Lei 1.060/1950.
+Sustentou, em suma: (i) ser indevida a indenização pleiteada, ante a ausência de informação e da regulação do sinistro junto à seguradora, porquanto "não há como verificar se o evento se enquadra ou não no contrato de seguro firmado entre as partes" (fl. 470, e-STJ), além de o aviso de sinistro ser uma das condições para o recebimento da indenização; (ii) não haver cobertura contratual para o pagamento da indenização pleiteada; (iii) não haver cometido ato ilícito a ensejar sua condenação em indenização por dano moral, ausência de nexo de causalidade para a aludida indenização, bem assim a responsabilidade contratual, em regra, não dá causa à condenação em dano moral; (iv) os juros moratórios incidentes sobre a aludida condenação devem ocorrer a partir da citação e a correção monetária a partir do ajuizamento da ação; (v) excesso no valor fixado a título de honorários advocatícios, sendo necessária sua redução.
+Admitido o apelo na origem, ascenderam os autos a esta Corte de Justiça, ao qual foi dado parcial provimento por este signatário apenas para determinar que os juros moratórios incidam a partir da citação.
+No presente agravo interno (fls. 568-575, e-STJ), a agravante sustenta que a presente demanda não necessita de reanálise de provas e circunstâncias fáticas dos autos nem interpretação de cláusula contratual, afastando a alegada incidência das Súmulas 5 e 7 desta Corte. Afirma ter o aresto recorrido afrontado os dispositivos legais anteriormente citados (artigos 757, 760, 771 e 777 do Código Civil). Alegou inexistir entendimento pacificado no Superior Tribunal de Justiça, não sendo aplicável ao caso o óbice da Súmula 83/STJ.
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo Colegiado.
+Sem impugnação, conforme certificado à fl. 580, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA DE SEGURO C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DANDO PROVIMENTO AO RECLAMO APENAS PARA DETERMINAR QUE OS JUROS MORATÓRIOS INCIDAM A PARTIR DA CITAÇÃO.
+INSURGÊNCIA DA SEGURADORA.
+1. A revisão das conclusões a que chegou o Tribunal de origem, acerca do cabimento da indenização securitária pleiteada, reclama a interpretação de cláusula contratual, bem como a incursão no contexto fático-probatório dos autos, o que é vedado no âmbito do recurso especial, ante o teor dos óbices insertos nas Súmulas 5 e 7 do STJ.
+2. A instância de origem, com amparo nos elementos de convicção dos autos, decidiu pela configuração dos requisitos ensejadores da reparação civil, incidindo, na espécie, o óbice da Sumula 7 desta Corte.
+3. O pedido de redução do quantum indenizatório encontra, igualmente, óbice na Súmula 7/STJ.
+4. Devida a indenização securitária e havendo a negativa da seguradora em efetuar seu pagamento, incidente a correção monetária desde esse evento.
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI(Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão impugnada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Inicialmente, a revisão das conclusões a que chegou o Tribunal de origem, acerca do cabimento da indenização securitária pleiteada, reclama a interpretação de cláusula contratual, bem assim a incursão no contexto fático-probatório dos autos, consoante se depreende da leitura do seguinte excerto do acórdão recorrido:
+Da obrigação ao pagamento do seguro.
+Como já dito no tópico anterior, a primeira apelante demonstrou a contratação do seguro de vida, o falecimento da contratante e o não pagamento do prêmio.
+Por sua vez, a terceira apelante alegou que a primeira apelante não teria enviado a documentação necessária à análise do sinistro, todavia, a justificativa evasiva não veio acompanhada de provas (art. 333, II, do CPC), tampouco restou demonstrado haver solicitação para que a autora complementasse a documentação apresentada.
+Portanto, não vejo motivos para afastar a obrigação solidária das demandas em pagar a indenização securitária a primeira apelante.
+Desse modo, inviável a reapreciação da controvérsia, no âmbito do recurso especial, ante o teor dos óbices insertos nas Súmulas 5 e 7 do STJ.
+2. Tocante à alegação de ausência dos requisitos ensejadores da reparação civil, igualmente não prospera o reclamo.
+No caso concreto, o Tribunal local, com amparo nos elementos de convicção dos autos, decidiu pela configuração dos requisitos ensejadores da reparação civil, pelos seguintes fundamentos:
+De fato, a cobrança ilegal da mensalidade do seguro encontra-se comprovada às fls. 24/28 - RAC nº 132.346/2014, aliada à via crucis percorrida pela primeira apelante para receber o pagamento da indenização securitária, fundamentam a condenação solidária das apelantes ao pagamento de indenização por dano moral.
+Sobre o tema, destaco a explanação efetuada pela Magistrada a quo, que relata as nuances deste tipo, in verbis:
+"Com relação ao alegado dano moral, frisa-se que o contrato de seguro se destina a garantir, a favor do segurado, o ressarcimento de prejuízo que este venha a sofrer, caso ocorra a hipótese nele prevista.
+Assume a seguradora o risco de indenizar um dano em potencial. Assim, a regra nos contratos de seguro, é que a seguradora possui o dever de pagar a cobertura prevista quando se efetivar o dano, sendo certo que a quitação devida não ocorreu; e mais, embora instada a efetuar o pagamento na seara administrativa, quedou-se inerte.
+Além disso, a autora se viu obrigada a percorrer uma verdadeira via crucis. Primeiramente tentou receber a diferença do prêmio do seguro administrativamente, porém restou ignorada, isto em janeiro de 2009, por meio do aviso de sinistro nº 12114/20301421.
+Ademais, ao invés de efetuar o pagamento do prêmio de seguro, a instituição financeira continuou a efetuar a cobrança do prêmio de seguro, e o que é pior, propôs a renovação do contrato de seguro, em 27/10/2010, quando a contratante já havia falecido em 15/01/2009 (fls. 29/30).
+Após todas estas narrativas, sem dúvida que a autora sofreu danos morais, isto em razão das dificuldades financeiras que a experiência ordinária nos ensina que a mesma vivenciou, lendo que discutir o pagamento da indenização, providenciou documentos e se submeteu as verificações que não precisava ter se submetido e, finalmente, viu-se obrigada a acionar a Justiça para solução do conflito. O demandado comportou-se como se a autora perseguisse algo ilegal e imoral, que não seu próprio direito.
+O descaso da instituição financeira  latente. A alegação de que não dispunha os meios necessários para efetuar o pagamento é irrita, beirando a má-fé. Se sabia que a autora tinha direito ao recebimento do prêmio, por que não consignou o valor devido em Juízo " (fls. 337v./338 - RAC nº 132.342/2014 e fls. 76v./77 - RAC nº 132.346/2014).
+Desta forma, caracterizado o ato ilício, bem como o nexo de causalidade, entre as condutas do segundo e da terceira apelantes e os prejuízos causados à primeira apelante, nos termos dos artigos 186 e 927 do Código Civil, impõe-se àqueles o pagamento de indenização por danos morais, não comportando alteração, a sentença, no ponto.
+Dessa forma, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. EXTRAVIO DE TALONÁRIOS DE CHEQUES. UTILIZAÇÃO INDEVIDA POR TERCEIROS. INSCRIÇÃO DO NOME DO CORRENTISTA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. COMPROVAÇÃO DO DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. REDUÇÃO DA INDENIZAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA. 1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ. 2. No caso concreto, o Tribunal local à luz de ampla cognição fático-probatória concluiu que a inscrição indevida em cadastro de restrição ao crédito ensejou dano moral ao autor. 3. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração da divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ, e 541, parágrafo único, do CPC). 4. A ausência de similitude fática entre os acórdãos paradigmas e a decisão recorrida é manifesta, uma vez que apesar de todos tratarem de indenização por dano moral decorrente de indevida inscrição em órgão de restrição ao crédito cada qual possui peculiaridades subjetivas e contornos fáticos próprios conducentes à fixação do quantum indenizatório. 5. Agravo regimental desprovido.
+(AgRg no AREsp 175938/SP, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, DJe de 01/02/2013)
+3. O pedido de redução do quantum indenizatório, outrossim, encontra óbice na Súmula 7/STJ.
+No caso concreto, o Tribunal local decidiu pela presença dos requisitos ensejadores da reparação civil, mantendo o valor da indenização por dano moral fixada na sentença, de R$ 15.000,00 (quinze mil reais) segundo critérios de razoabilidade. Confira-se trecho extraído do aresto hostilizado:
+ ..
+Consolidou-se nos tribunais o entendimento de que a quantia deve ser arbitrada de modo a impedir a reiterada conduta lesiva do ofensor, considerando o seu reconhecido poder econômico, o caráter pedagógico da indenização, o grau de responsabilidade frente ao dano causado e a compensação do abalo moral sofrido pela vítima.
+Nessa ótica, o princípio do livre convencimento confere ao magistrado a prudente prerrogativa de arbitrar o valor que entender justo, sempre de acordo com as peculiaridades do caso concreto, fazendo uma correspondência entre a ofensa e o valor da condenação, observando os princípios que norteiam o dano moral, tais como a proporcionalidade e a razoabilidade.
+(..)
+Ao sopesar esses fatores, tenho que o valor de R$15.000,00 (quinze mil reais), fixado na sentença, não comporta redução, pois atende aos parâmetros da razoabilidade e da proporcionalidade, guarda relação com as condições pessoais e a capacidade socioeconômica das partes.  grifou-se
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria em rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial no ponto.
+4. Com relação ao termo inicial para incidência da correção monetária, igualmente não prospera o reclamo.
+Na hipótese ora em foco, o Tribunal de origem condenou a seguradora ao pagamento da indenização securitária devida em razão da morte do segurado, acrescido de correção monetária e juros moratórios desde o evento danoso (fl. 456, e-STJ).
+Nos termos da jurisprudência desta Corte, prevalece o entendimento de que "somente com a recusa do pagamento da indenização pela seguradora é que ficou caracterizado o prejuízo do autor (Súmula 43/STJ), devendo, portanto, a partir daí incidir a correção monetária" (REsp 1.117.031/RS, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 17.03.2011, DJe 28.03.2011).
+Dessa forma, devida a indenização securitária e havendo a negativa da seguradora em efetuar seu pagamento, incidente a correção monetária desde esse evento.
+No mesmo sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO SECURITÁRIA. INVALIDEZ PERMANENTE. ILÍCITO CONTRATUAL. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA EM QUE O PAGAMENTO DEVERIA TER SIDO FEITO.
+1. Em se tratando de ilícito contratual consistente no não pagamento de indenização securitária, a correção monetária incide a partir da data do efetivo prejuízo.
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" - Súmula n. 83 do STJ.
+3. Agravo regimental desprovido. (AgRg no AREsp 313.443/DF, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 03.06.2014, DJe 12.06.2014)
+Desse modo, inarredável a aplicação da Súmula 83/STJ quanto ao ponto.
+Ademais, não trouxe a agravante nenhum precedente apto a infirmar o entendimento desta Corte quanto a incidência da correção monetária, apenas afirmando inexistir entendimento pacificado no Superior Tribunal de Justiça.
+Neste contexto, descurou a insurgente de apontar a existência de precedentes em sentido contrário, a fim de refutar a aplicação do enunciado contido na Súmula 83 do STJ.
+De rigor, portanto, a manutenção da decisão agravada.
+5. Do exposto, nego provimento ao agravo interno.
+É como voto.
