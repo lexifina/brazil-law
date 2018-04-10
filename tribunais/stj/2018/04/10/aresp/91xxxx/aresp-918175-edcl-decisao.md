@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME], em face de decisão monocrática da lavra deste signatário (fls. 308/311, e-STJ), que negou provimento ao agravo (art. 544 do CPC/73).
+Irresignado (fls. 315/318, e-STJ), o embargante alega a existência de omissão, contradição e obscuridade na decisão embargada em ralação à liquidez, certeza e exigibilidade do título. No mais, reitera os fundamento do recurso especial.
+Impugnação às fls. 322/329, e-STJ.
+É o relatório.
+Decido.
+Os embargos de declaração não merecem acolhida.
+1. Nos estreitos limites do artigo 1.022 do CPC/2015, os embargos de declaração visam somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material existente em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende o ora embargante.
+Nesse sentido, precedente desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS. 1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+No presente caso, o decisum embargado contém fundamentação suficiente para justificar o não provimento do apelo, pois aplicou no ponto, a Súmula 7 do STJ, quanto ao alegada ausência de liquidez e exigibilidade do título, como se vê às fls. 309/310, e-STJ da decisão singular ora impugnada.
+No caso, as razões dos embargos revelam tão somente o intuito de reapreciação das questões já decididas e a sua insatisfação com o resultado do julgado, o que não se admite com a objetividade do recurso manejado. É que, a pretexto de omissão, obscuridade e contradição, na verdade, pretende a modificação do decisum, especialmente no tocante ao afastamento da alegada violação ao art. 535 do CPC/73 e à incidência da Súmula 7/STJ, cuja via processual é inadequada.
+Como se vê, a pretensão do insurgente não está em harmonia com a natureza e a função dos embargos declaratórios, não demonstrando, em suas razões recursais, qualquer omissão/contradição/obscuridade que a decisão embargada tenha incorrido. Deste modo, as assertivas formuladas pelo embargante buscam, nitidamente, rediscutir questão já decidida, sendo manifesto o intuito infringente, pretensão inviável no âmbito dos aclaratórios.
+Portanto, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar - neste momento processual - a multa prevista no artigo 1.026, § 2º, do CPC/2015, conforme requerido pelo embargado na impugnação, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
