@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. OMISSÃO. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 175, e-STJ):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PROCESSO ADMINISTRATIVO. MANIFESTAÇÃO DE INCONFORMIDADE PENDENTE. INSCRIÇÃO PRECIPITADA. DEVIDO PROCESSO LEGAL. INOBSERVÂNCIA. PROVIMENTO PARCIAL RECURSO ADMINISTRATIVO. DIREITO À COMPENSAÇÃO. DECADÊNCIA AFASTADA.
+A exigibilidade do crédito nasce quando já nao cabe reclamaçac nem recurso contra o lançamento respectivo, quer porque transcorreu o prazo legalmente estipulado para tanto, quer porque tenha sido proferida decisao de última instancia administrativa.
+A embargante, na esfera administrativa, após ter seu pedido de restituiçao/compensaçao julgado improcedente, teve concedido, pela própria belegacia da Receita Federal, o prazo de 30 (trinta) dias para apresentar mariifestaçao de inconformidade, o que, de fato, foi feito pela embargante.
+A inscriçao em dívida ativa realizada pela embargada, objeto da execuçao fiscal em apenso, foi feita de forma precipitada, uma vez que nao aguardou a decisao definitiva proferida pela última instância administrativa, deixando assim, de obedecer ao devido processo legal.
+Após a pro!açao da sentença, foi noticiado nos autos o provimento parcial ao recurso interposto no supramencionado recurso administrativo, afastando a decadencia do direito de pleitear a compensoçao do tributo, contrariando a tese defendida pela Fazenda Nacional.
+A Turma, por unanimidade, negou provimento à apelaçao cível.
+Embargos de declaração rejeitados.
+O recorrente alega, preliminarmente, violação do art. 535, II, do CPC/1973), por omissão no julgado com relação as alegações de violação dos artigos 2º, 128, 460, todos do CPC/73, pois o pedido dos embargos à execução fiscal, na verdade, não abarcou toda a CDA, mas apenas parte dela, e o julgamento foi no sentido de decretar a nulidade de toda a CDA e que desconsiderou que o recurso interposto não se enquadrava neste dispositivo do Código Tributário, porquanto a situação não se enquadrava no adt. 74 e seu §40, da Lei n. 9.430/96, já que não havia compensação PENDENTE de apreciação, mas sim compensação já apreciada e indeferida, logo não passível de ser considerado como declaração de compensação.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 226, e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Quanto ao mais, o art. 535 do Código de Processo Civil de 1973 aponta que da decisão que apresentar obscuridade, contradição ou omissão caberá embargos de declaração, de forma a garantir a inequívoca, clara e completa prestação jurisdicional. Nas situações em que o ponto omisso, obscuro ou contraditório for necessário para o deslinde da controvérsia, cabe reconhecer a nulidade do acórdão, devendo os autos retornar ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração com manifestação expressa a seu respeito.
+A parte recorrente, por meio de embargos de declaração (fls. 180-184, e-STJ), requereu expressamente que a Corte de origem se manifestasse quanto à violação dos artigos 2º, 128, 460, todos do CPC/73, pois o pedido dos embargos à execução fiscal, na verdade, não abarcou toda a CDA, mas apenas parte dela, e o julgamento foi no sentido de decretar a nulidade de toda a CDA
+No entanto, mesmo após instado a se manifestar sobre a questão, por meio de recurso integrativo, o Tribunal a quo manteve-se silente, limitando-se a se manifestar genricamente.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão julgador dos embargos declaratórios, determinando o retorno dos autos ao Tribunal de origem, para que se manifeste sobre as omissões apontadas pelo recorrente.
+Publique-se. Intimem-se.
