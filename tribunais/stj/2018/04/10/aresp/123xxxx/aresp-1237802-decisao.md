@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+4. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por UNIMED - RIO COOPERATIVA DE TRABALHO MÉDICO DO RIO DE JANEIRO LTDA., fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 12/12/2016.
+Concluso ao gabinete em: 26/03/2018.
+Ação: indenizatória, com pedido de antecipação de tutela para que a agravante arcasse com as despesas de procedimento cirúrgico, ajuizada por [NOME] DE MELLO, sucedida pelos seus herdeiros, FÁBIO DE MELLO GOMES, ANDRÉ DE MELLO GOMES e MARDETTE DE MELLO FERREIRA DA COSTA, em face da agravante, devido à negativa de fornecimento de materiais para realização de procedimento cirúrgico de descompressão medular e artrodese posterior em caráter de urgência.
+Sentença: julgou procedente os pedidos, para confirmar a antecipação de tutela deferida e condenar a agravante a autorizar a internação de [NOME] para realização do procedimento cirúrgico, bem como a liberação do material adequado e essencial para realização do procedimento, arcando com todas as despesas e medicamentos hospitalares pertinentes.
+Condenou ainda a agravante a indenizar moralmente os recorridos, em sucessão processual, na quantia total de R$ 15.000,00. Fixou os honorários em 10% sobre o valor da condenação.
+Acórdão: negou provimento à apelação interposta pela agravante e deu parcial provimento à apelação interposta pelos agravados, para majorar os danos morais para R$ 30.000,00, nos termos da seguinte ementa:
+Apelação Cível. Relação de Consumo. Ação de Obrigação de Fazer c/c Indenizatória. Plano de Saúde. Recusa em autorizar material para realização de procedimento cirúrgico :"fraturas nas "vertebras L1 e L2". Idade Avançada. Providência que só foi alcançada através de liminar concedida em Plantão Judiciário. Sucessão pelos herdeiros. Sentença de procedência Irresignação dos litigantes. Postergação do procedimento, que consistiu em verdadeira recusa. Conduta abusiva do prestador de serviço, que atentou contra a própria Dignidade da Pessoa Humana. Violação do Princípio da Boa-Fé Objetiva. Dano moral configurado. Verba reparatória, que não está de acordo com os Princípios da Razoabilidade e Proporcionalidade, além dos parâmetros desta Corte. Majoração para R$30.000,00 (trinta mil reais). Aplicabilidade das Súmulas 209 e 339, ambas do E.TJRJ. Astreintes. Medida coercitiva, para que seja conferida efetividade aos provimentos jurisdicionais, sem possuir caráter indenizatório. Honorários de Sucumbência. Fixação de acordo com o artigo 20, §s 3º e 4º, do CPC/1973. Jurisprudência e Precedentes citados: AgRg no AREsp 195026/SP; Agravo Regimental no Agravo em Recurso Especial 2012/0131482-8. Relator: Ministro Napoleão Nunes Maia Filho. Órgão Julgador: Primeira Turma. Data do Julgamento: 27/11/2012. Data da Publicação/Fonte: DJe 03/12/2012, RIOBDCPC; 0096672-15.2007.8.19.0004. Apelação. DES. MARIO ASSIS GONCALVES - Julgamento: 02/09/2015 - TERCEIRA CÂMARA CÍVEL; 0198605-30.2013.8.19.0001. Apelação. DES. MURILO KIELING - Julgamento: 11/11/2015 - VIGÉSIMA TERCEIRA CÂMARA CÍVEL CONSUMIDOR; 0231170-81.2012.8.19.0001. Apelação DES. CELSO SILVA FILHO - Julgamento: 29/07/2015 - VIGÉSIMA QUARTA CÂMARA CÍVEL CONSUMIDOR; 0012058-29.2011.8.19.0007. DES. NATACHA TOSTES OLIVEIRA - Julgamento: 05/05/2016 - VIGÉSIMA SEXTA CÂMARA CÍVEL CONSUMIDOR; 0025461-02.2015.8.19.0209. Apelação. JDS. DES. ANA CELIA MONTEMOR - Julgamento: 08/06/2016 - VIGÉSIMA QUARTA CÂMARA CÍVEL CONSUMIDOR.
+DESPROVIMENTO DO PRIMEIRO RECURSO E PROVIMENTO PARCIAL DO SEGUNDO RECURSO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação do art. 14, §3º, I, do CDC.
+Afirma que a condenação por danos morais seria indevida, pois não teria ocorrido a negativa de prestação do serviço, mas apenas decurso do tempo necessário para a análise técnica que antecede a autorização.
+Não teria ocorrido ato ilícito a ensejar condenação por danos morais, tendo em vista que as normas da ANS preveem o prazo de 21 dias úteis para internação cirúrgica.
+O dano não teria sido comprovado, tampouco a prática de qualquer ato ilícito pela recorrente, motivo pelo qual não haveria qualquer direito indenizatório.
+Por fim, sustenta que o valor fixado de R$30.000,00 seria exorbitante e deveria ser reduzido.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 14, §3º, I, do CDC, indicado como violado, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à abusividade da conduta praticada pela agravante e configuração dos danos morais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que "a recusa indevida à cobertura médica é causa de danos morais, pois agrava o contexto de aflição psicológica e de angústia sofrido pelo segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada" (REsp 1.668.302/RS, minha relatoria, 3ª Turma, DJe de 22/06/2017). Também: AgInt no AREsp 1.123.964/RJ, 4ª Turma, DJe de 22/11/2017.
+Na hipótese, o Tribunal de origem decidiu que, havendo cobertura contratual para a doença que aflige o consumidor, é abusiva a recusa da operadora à cobertura de exames destinados ao seu tratamento, bem como que haveria dano moral, pois teria sido ultrapassado, e muito, a esfera do mero aborrecimento, em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+- Do dano moral
+Quanto ao valor arbitrado a título de danos morais, a jurisprudência do STJ é pacífica no sentido de que a sua modificação somente é permitida quando a quantia estipulada for irrisória ou exagerada, o que não está caracterizado neste processo. Precedentes: REsp 1.668.302/RS, minha relatoria, 3ª Turma, DJe de 22/06/2017; AgInt no AREsp 1.036.187/PE, 4ª Turma, DJe de 01/08/2017; AgInt no AREsp 962.044/DF, 3ª Turma, DJe de 30/11/2016.
+Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
