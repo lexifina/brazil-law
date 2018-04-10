@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi condenado como incurso no artigo 157, § 3º, segunda parte (latrocínio), c.c. artigo 14, inciso II, ambos do Código Penal, à pena de 15 (quinze) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, e ao pagamento de 6 (seis) dias-multa, fixado em 1/30 (um trigésimo) do valor do salário mínimo vigente ao tempo do fato.
+Irresignada a parte e interposto recurso, restou este desprovido por acórdão assim ementado (e-STJ, fl. 795):
+APELAÇÕES. Latrocínio tentado. Artigo 157, § 3º, segunda parte, c.c. o 14, inciso II, ambos do Código Penal. Sentença condenatória. Recursos defensivos. Atenuante da confissão espontânea não conhecida, porque inexistente. Delação premiada. Impossibilidade. Não preenchimento dos requisitos legais. Contexto fático-probatório que não permite, ademais, o reconhecimento de participação de menor importância. Pena e regime preservados. Recursos desprovidos.
+Opostos embargos de declaração, foram estes rejeitados (e-STJ, fls. 840/845).
+Na petição de recurso especial, a parte recorrente sustenta violação ao art. 4º, da Lei n. 9.807/99. Alega que é possível a aplicação da regra da delação premiada prevista no art. 8º, parágrafo único, da Lei nº 8.072/90.
+Afirma que "a delação premiada deve ser reconhecida em favor do apelante. O apelante auxiliou as autoridades policiais na identificação dos demais coautores ou partícipes do crime, porém não conseguiu a recuperação total ou parcial do produto do crime que foram apropriados pelos corréus, mas contribuiu efetivamente para a localização dos bens subtraídos da vítima. Atuou decisivamente, tanto na fase investigatória quanto na judicial, para a identificação dos co-autores do delito apurado nestes autos (e-STJ, fl. 866)."
+Alega que as circunstâncias judiciais para fixação da pena-base devem ser revistas.
+Postula a revisão do regime inicial do cumprimento da pena sustentando que a fundamentação para a fixação deste foi a gravidade abstrata do delito e sua natureza hedionda.
+Contrarrazões às fls. 909/919.
+Admitido o recurso (fls. 941/942) os autos vieram a esta Corte.
+Parecer ministerial nos termos da seguinte ementa (e-STJ, fl. 959):
+PROCESSUAL PENAL. RECURSO ESPECIAL. ARTIGO 105, III, ALÍNEA "A" DA CF. LATROCÍNIO. DELAÇÃO PREMIADA. CONTRIBUIÇÃO INSUFICIENTE. REQUISITOS NÃO PREENCHIDOS. PARECER PELO DESPROVIMENTO DO RECURSO.
+É o relatório. Decido.
+Não merece provimento a pretensão recursal.
+Primeiramente requer a parte recorrente o reconhecimento dos benefícios de delação premiada.
+Roga a Lei 9.807/99 ao tratar do tema:
+Art. 13. Poderá o juiz, de ofício ou a requerimento das partes, conceder o perdão judicial e a conseqüente extinção da punibilidade ao acusado que, sendo primário, tenha colaborado efetiva e voluntariamente com a investigação e o processo criminal, desde que dessa colaboração tenha resultado:
+I - a identificação dos demais co-autores ou partícipes da ação criminosa;
+II - a localização da vítima com a sua integridade física preservada;
+III - a recuperação total ou parcial do produto do crime.
+Parágrafo único. A concessão do perdão judicial levará em conta a personalidade do beneficiado e a natureza, circunstâncias, gravidade e repercussão social do fato criminoso.
+Art. 14. O indiciado ou acusado que colaborar voluntariamente com a investigação policial e o processo criminal na identificação dos demais co-autores ou partícipes do crime, na localização da vítima com vida e na recuperação total ou parcial do produto do crime, no caso de condenação, terá pena reduzida de um a dois terços
+E a Lei n. 8.072/90:
+Art. 8º Será de três a seis anos de reclusão a pena prevista no art. 288 do Código Penal, quando se tratar de crimes hediondos, prática da tortura, tráfico ilícito de entorpecentes e drogas afins ou terrorismo.
+Parágrafo único. O participante e o associado que denunciar à autoridade o bando ou quadrilha, possibilitando seu desmantelamento, terá a pena reduzida de um a dois terços.
+Quanto à asserção, o Tribunal de origem consignou (e-STJ, fl. 797):
+Em se tratando de crime hediondo, prevalece a regra especial prevista no artigo 8º, parágrafo único, da lei nº 8.079/90, que estabelece que o participante e o associado que denunciar à autoridade o bando ou quadrilha, possibilitando seu desmantelamento, terá a pena reduzida de um a dois terços.
+Ocorre que no caso especifico dos autos, como bem ponderou o MM. Juiz sentenciante, não há qualquer evidência de que os réus tenham formado uma associação criminosa de forma estável, tratando-se apenas de concurso de agentes eventual (fls. 575).
+E, ainda que assim não fosse, não estão presentes, in casu, os requisitos cumulativos previstos nos artigos 13 e 14, da lei nº 9.807/99, pois inexiste notícia da recuperação, sequer parcial, dos bens subtraídos na empreitada criminosa.
+E o magistrado de piso ressaltou na sentença (e-STJ, fl. 646):
+Não há se falar em delação premiada, na medida em que em se tratando de norma especial em relação aos arts. 13 e 14 da Lei 9.807/99, no tocante aos crimes hediondos deve prevalecer a regra especial da delação premiada prevista no art. 8º, parágrafo único, da Lei 8.072/90, ou seja, nas hipóteses de latrocínio apenas é possível o reconhecimento da delação premiada quando há hipótese de desbaratamento de quadrilha prevista no art. 288 do Código Penal (hoje associação criminosa), sendo certo que não há qualquer evidência de que os réus tenham formado uma associação criminosa de forma estável, tratando-se apenas de concurso de agentes eventual.
+Por outro lado, ainda que assim não fosse, o art. 14 da Lei 9.807/99, que possui requisitos cumulativos e não alternativos ("Além de ser voluntária a colaboração aí prevista, são cumulativos os requisitos constantes dos arts. 13 e 14 da Lei n" 9.807/99. " (STF - HC 85.70l/SP, Rei. Min Cezar Peluso, DJe de 08/05/2009)), não autoriza a redução da reprimenda, porquanto a delação dos acusados não gerou a recuperação nem sequer parcial dos bens subtraídos, estando, assim, ausentes os requisitos para o reconhecimento de tal benefício legal.
+O recorrente não rebate tal fundamento, o que atrai o óbice da Súmula n. 283 do Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ademais, encontra-se de acordo com a jurisprudência desta Corte Especial a decisão vergastada, tendo em vista que não foram cumpridos os requisitos legais para concessão da benesse, que trata de providência político-criminal orientada com elementos concessivos taxativamente previstos em lei.
+Neste sentido:
+CRIMINAL. HC. LATROCÍNIO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA. RECONHECIMENTO. IMPOSSIBILIDADE. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DA SENTENÇA PENAL CONDENATÓRIA. PEÇA IMPRESCINDÍVEL À COMPREENSÃO DA CONTROVÉRSIA. DELAÇÃO PREMIADA. NÃO-OCORRÊNCIA. CONCURSO EVENTUAL DE AGENTES. AUSÊNCIA DE ORGANIZAÇÃO CRIMINOSA DESTINADA À PRÁTICA DE DELITOS HEDIONDOS OU ASSEMELHADOS. ORDEM PARCIALMENTE CONHECIDA, E NESSA EXTENSÃO, DENEGADA.
+(..)
+II. Hipótese em que se pleiteia, em favor do paciente condenado pela prática de crime de latrocínio, a incidência da delação premiada prevista no art. 8º, § único, da Lei n.º 8.072/90.
+III. Referido dispositivo legal se aplica exclusivamente aos casos em que, praticados os delitos de que cuidam a referida lei, por meio de quadrilha ou bando associados para tal fim, este ou aquela sejam desmantelados em razão de denúncia feita por partícipe e associado.
+IV. O paciente e os três co-réus não se associaram de forma estável para o fim de praticar delitos hediondos ou assemelhados, hipótese única em que, comprovando-se que a delação possibilitou o efetivo desmantelamento da organização criminosa, teria lugar a redução de pena ora pleiteada.
+V. Eventual associação de agentes para a pratica de determinado crime dessa natureza, ainda que sejam eficientes as informações prestadas pelo delator, não permite o reconhecimento da delação premiada.
+VI. Ordem parcialmente conhecida, e nessa extensão, denegada.
+(HC 62.618/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJ 13/11/2006, p. 283)
+No que tange à pena-base fixada, destacou o Tribunal a quo (e-STJ, fl. 799):
+A pena-base foi acertadamente fixada acima do mínimo legal diante das circunstâncias do delito, que foi cometido de madrugada com a invasão da residência da vítima, que estava dormindo, tendo sido agredida fisicamente e simultaneamente pelos três réus, estando confinada no interior de um veículo, tudo indicando a maior reprovabilidade da conduta dos acusados (fls. 576), com ressalva apenas quanto à pena de multa aplicada (10 dias-multa), que deveria ter guardado proporcionalidade com a pena privativa de liberdade (23 anos de reclusão), mantida no entanto, em homenagem ao princípio da non reformatio in pejus.
+O ordenamento jurídico não estabelece um critério matemático para a majoração da pena-base, tampouco as circunstâncias judiciais denotam qualquer baliza objetiva nesse sentido.
+Assim, devidamente fundamentada a exacerbação da pena-base pela decisão vergastada diante das circunstâncias em que se deu o delito justificando na maior gravidade no modus operandi da ação do recorrente, não há que se falar em revisão.
+Neste diapasão:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. LATROCÍNIO E ROUBO MAJORADO. ABSOLVIÇÃO. AUSÊNCIA DE LIAME SUBJETIVO DO PARTÍCIPE. NECESSÁRIO REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INAFASTABILIDADE DA CONCLUSÃO PELA COOPERAÇÃO DOLOSAMENTE DISTINTA. PENA-BASE. CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME EXTRAPOLAM AS CIRCUNSTÂNCIAS ORDINÁRIAS DO TIPO. CORREÇÃO DA VALORAÇÃO NEGATIVA. INOCORRÊNCIA DE CONFISSÃO ESPONTÂNEA DO RÉU. INAPLICABILIDADE DA ATENUANTE. WRIT NÃO CONHECIDO.
+(..)
+4. Não se vislumbra qualquer ilegalidade na valoração negativa das circunstâncias judiciais da culpabilidade de das circunstâncias do crime. A primeira restou configurada pela extrema crueldade e brutalidade observadas na execução das lesões e mutilações nas vítimas, que as levaram à morte. Quanto às circunstâncias do crime, o concurso de seis agentes para executar os dois latrocínios é claramente um circunstância desfavorável, porquanto reduz as chances de defesa das vítimas, além de demonstrar a covardia dos autores.
+5. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a confissão do acusado, conquanto parcial, meramente voluntária, condicionada, extrajudicial ou posteriormente retratada, enseja a incidência da atenuante prevista no art. 65, inciso III, alínea d, do Código Penal, desde que efetivamente utilizada para o convencimento e convicção do julgador quanto ao acerto da sentença, sendo, pois, expresso fundamento para a condenação.
+6. In casu, conforme excerto colacionado, o juiz expressamente rechaça a existência de confissão por parte do primeiro paciente, tanto que contrapõe as provas produzidas nos autos com as negações acerca do fatos do ora réu. Há confissão dos outros réus, mas não do primeiro paciente, motivo pelo qual não há falar em aplicação da atenuante da confissão espontânea. Outrossim, as circunstâncias de caráter pessoal não se comunicam aos demais coautores (CP, art. 30).
+7. Habeas corpus não conhecido.
+(HC 330.920/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/08/2016, DJe 15/08/2016)
+Quanto ao regime prisional fixado, nada há a deferir tendo em vista que a pena corporal do réu foi fixada em 15 anos e 4 meses de reclusão, possuindo, portanto, expressa vedação legal para a alteração pleiteada (art. 33, § 2º, alínea a, CP).
+Ante o exposto, com fundamento no art. 932, inc. IV, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, nego provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
