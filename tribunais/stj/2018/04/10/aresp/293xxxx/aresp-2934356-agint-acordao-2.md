@@ -1,0 +1,56 @@
+EMENTA
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. PRETENSÃO DE REEXAME FÁTICO PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+II - Verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+III - Além disso, verifica-se que a irresignação do recorrente acerca da carência para a concessão do benefício , vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos decidiu que "indicando o conjunto probatório que a parte autora exerceu atividade rural em pequena porção temporal do período equivalente à carência necessária à concessão do beneficio, é inviável a outorga deste" (fl. 284).
+IV - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+V - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. PREENCHIMENTO DOS REQUISITOS. NÃO CONCOMITÂNCIA. IMPOSSIBILIDADE. APLICAÇÃO DO ART. 48, CAPUT E § 3º, DA LBPS. IMPOSSIBILIDADE. FALTA DE IDADE MÍNIMA. RESTITUIÇÃO DE VALORES PAGOS A MAIOR AO SEGURADO EM DECORRÊNCIA DE DECISÃO JUDICIAL REVOGADA. IMPOSSIBILIDADE. VERBAS ALIMENTARES RECEBIDAS DE BOA-FÉ.
+1. O tempo de serviço rural pode ser comprovado mediante a produção de prova material suficiente, ainda que inicial, complementada por prova testemunhal idônea.
+2. Não é possível, em caso de aposentadoria por idade rural, dispensar a necessidade de implementação simultânea dos requisitos de idade e trabalho durante o interregno correspondente à carência, uma vez que o benefício, no caso, não tem caráter atuarial, e não se pode criar regime híbrido que comporte a ausência de contribuições e a dispensa do preenchimento concomitante das exigências legais.
+3. A descontinuidade prevista no § 2º do art. 48 da LBPS não abarca as situações em que o trabalhador rural para com a atividade rural por muito tempo e depois retorna ao trabalho agrícola, uma vez que dispõe expressamente que a comprovação do labor rural deve-se dar no período imediatamente anterior ao requerimento do benefício.
+4. Indicando o conjunto probatório que a parte autora exerceu atividade rural em pequena porção temporal do período equivalente à carência necessária à concessão do benefício, é inviável a outorga deste.
+5. Não contando a parte autora com 65 anos ao tempo do ajuizamento da demanda, descabe averiguar a eventual comprovação do trabalho urbano por ela alegadamente exercido para fins de aplicação do caput ou do § 3º do art. 48 da LBPS.
+6. Embora indevido o benefício pleiteado, deve o tempo reconhecido ser averbado para futura concessão de benefício previdenciário.
+7. Na esteira da jurisprudência sedimentada no âmbito do e. Supremo Tribunal Federal, são irrepetíveis as verbas alimentares recebidas de boa-fé pelo segurado, não se mostrando cabível a pretensão do INSS no sentido de que sejam restituídos valores percebidos pelo segurado enquanto vigentes decisões judiciais que autorizavam a majoração da renda mensal de seu benefício. Entendimento reafirmado no âmbito da Terceira Seção deste Regional.
+8. Ressalva de fundamentação da Desembargadora Federal Vânia Hack de Almeida.
+Foram parcialmente acolhidos os embargos declaratórios opostos, tão somente para fins de prequestionamento (fls. 299-310).
+No recurso especial, o recorrente sustenta que o Tribunal de origem reconheceu o direito à averbação dos períodos compreendidos entre 28/10/1960 a 25/05/1981 e 01/01/2002 a 24/11/2009. Sustenta, em síntese, que o Tribunal teria deixado de conceder o benefício sob a alegação de que a descontinuidade prevista no § 2º, do art. 48 da Lei n. 8.213/91 não abarca as situações em que o trabalhador rural para com a atividade rural por muito tempo e depois retorna ao trabalho agrícola.
+Não foram apresentadas contrarrazões.
+O recurso especial foi inadmitido pela incidência da Súmula 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial formulado por FLORIANO SILVEIRA DA SILVA".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida e acrescenta ainda, conforme os seguintes excertos da petição de agravo interno:
+Sem razão a parte agravante.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Nesse diapasão, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF" (AgRg no REsp 919239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007).
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 983.543/RJ, Rel. Ministro HERMAN BENJAMIN, DJe 05/05/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp 1597355/CE, Rel. Ministro FRANCISCO FALCÃO, DJe 10/03/2017)
+Além disso, verifica-se que a irresignação do recorrente acerca da carência para a concessão do benefício , vai de encontro às convicções do julgador a quo, que com lastro no conjunto probatório constante dos autos decidiu que "indicando o conjunto probatório que a parte autora exerceu atividade rural em pequena porção temporal do período equivalente à carência necessária à concessão do beneficio, é inviável a outorga deste" (fl. 284).
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
