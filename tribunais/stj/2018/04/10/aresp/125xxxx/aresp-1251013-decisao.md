@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. 1. ACORDO EXTRAJUDICIAL. ALEGADAMENTE EXTRAÍDO DOS AUTOS. AUSÊNCIA DE ELEMENTOS MÍNIMOS PARA SUBSIDIAR A TESE. TRANSAÇÃO NÃO HOMOLOGADA. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 2. REDUÇÃO DOS HONORÁRIOS EM CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se de agravo interposto por Comércio e Representações Bornholdt Ltda. desafiando decisão do Tribunal de Justiça do Amazonas que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, em acórdão assim ementado (e-STJ, fl. 534):
+AGRAVO DE INSTRUMENTO. ACORDO EXTRAJUDICIAL ALEGADAMENTE EXTRAÍDO DOS AUTOS SEM PRÉVIA NOTIFICAÇÃO DO AGRAVANTE. INOPONIBILIDADE. AUSÊNCIA DE ELEMENTOS MÍNIMOS PARA SUBSIDIAR A TESE. TRANSAÇÃO NÃO HOMOLOGADA. INEXISTENTE CÓPIA DO ACORDO. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Conquanto o Agravante alegue ter celebrado acordo substitutivo da sentença, deixou de apresentar qualquer cópia do mesmo.
+2. O simples desentranhamento da petição de transação sem prévia notificação do Agravante é insuficiente para convencer da sua completa celebração e validade.
+3. De qualquer forma, o acordo não foi homologado nos termos do artigo 475-N, III, do CPC.
+4. Recurso conhecido e não provido.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 542-545).
+Nas razões do recurso especial, o recorrente alegou ofensa aos arts. 14, I e II, e 20, § 4º, do CPC/1973; e 849 do CC/2002. Sustentou manobra ilegal por parte da recorrida, que expressou sua vontade de compor, assinou a minuta de acordo e protocolou a referida petição, entretanto, voltou atrás na decisão e, sem nenhuma comunicação, requereu o desentranhamento da petição de acordo e a expedição de alvará para levantamento do valor depositado a título de garantia do juízo.
+Asseverou que a fixação de honorários sucumbenciais no âmbito de Impugnação ao Cumprimento de Sentença não respeitou os princípios da proporcionalidade e da razoabilidade, pois o juiz singular arbitrariamente fixou no percentual de 20% sobre o valor da causa, e na ação principal foi fixado o percentual de 10%. Pleiteou a homologação do acordo firmado entre as partes.
+Foram apresentadas contrarrazões (e-STJ, fls. 604-608).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência da Súmula n. 7 do STJ.
+Irresignado, o recorrente interpõe agravo refutando o óbice apontado pela Corte estadual.
+Contraminuta às fls. 699-707 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado n. 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal estadual, ao dirimir a controvérsia, concluiu que não há nos autos elementos mínimos a indicar a existência e validade da conclusão da transação, bem como a ausência de pedido de redução dos honorários advocatícios, conforme se colhe dos excertos do aresto recorrido (e-STJ, fls. 537-538 e 557):
+Da atenta leitura do caderno processual sobressai nitidamente que a alegada petição de acordo, se realmente houve, foi somente juntada aos autos, mas sequer chegou a ser apreciada pelo juiz, muito menos homologada, a teor do artigo 475-N, III, do digesto civil adjetivo.
+Com efeito, a parte contrária poderia desistir da tratativa e prosseguir na execução sem óbices. Inexiste qualquer vinculação da Agravada a um acordo que não consta do processo e que não foi homologado, e do qual o Recorrente não possui nem mesmo uma cópia para demonstrar sua existência.
+À luz destas considerações, é forçoso concluir que o recurso sub judice não deve ser acolhido, porquanto ausentes elementos mínimos a indicar tanto a existência quanto a validade da conclusão da transação que encerraria a contenda em termos distintos daqueles fixados judicialmente.
+Nas razões do agravo de instrumento, em nenhum momento foi suscitada a excessividade dos honorários sucumbenciais fixados na fase de cumprimento de sentença, vez que o embargante apenas argumentou que seu pagamento redundaria em prejuízo de difícil reparação.
+Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ademais, a matéria relativa à redução dos honorários sucumbenciais fixados na fase de cumprimento de sentença não foi arguida no agravo de instrumento, que se limitou a argumentar que sua penhora causaria dano imensurável, tornando infrutuoso o recurso (e-STJ, fl. 557) e não podendo, portanto, ser examinada neste momento processual sobre esse enfoque, porquanto obstada pelo Enunciado Sumular n. 211 do Superior Tribunal de Justiça.
+Com efeito, o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência inafastável contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
