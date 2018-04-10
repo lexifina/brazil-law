@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA. AGENTE DE ADMINISTRAÇÃO DO MUNICÍPIO DO RIO DE JANEIRO E AGENTE DE PORTARIA DO INSS. DIREITO DE OPÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por [NOME], com fundamento na alínea c do art. 105, III da Constituição Federal, no qual se insurge contra acórdão proferido pelo egrégio TRF da 2a. Região, assim ementado:
+CONSTITUCIONAL E ADMINISTRATIVO. ACUMULAÇÃO DE PROVENTOS DE APOSENTADORIAS. AGENTE DE ADMINISTRAÇÃO DO MUNICÍPIO DO RIO DE JANEIRO E AGENTE DE PORTARIA DO INSS. DESCABIMENTO. OPÇÃO. INVIABILIDADE.
+1. O Supremo Tribunal Federal, interpretando o artigo 37, inciso XVI, da CRFB/88, firmou orientação pela impossibilidade de acumulação de proventos com vencimentos e, por lógica, de proventos com proventos.
+2. A Emenda Constitucional 20/98 vedou expressamente o recebimento de mais de uma aposentadoria pelo regime de previdência previsto no artigo 40, quando não acumuláveis os cargos na ativa.
+3. Precedentes desta Corte: APELRE 200751020047658, 7a. Turma Especializada, rei. Juiz Convocado FLAVIO DE OLIVEIRA LUCAS, DJ 15/12/2010; AC 200851010039049, 6a Turma Especializada, rei. Desembargador Federal GUILHERME CALMON NOGUEIRA DA GAMA, DJ 06/05/2010.
+4. Não há que se falar em opção, eis que a Medida Provisória 1.522, de 11.10.1996 e o Decreto 2.027/96 estabeleceram a exigência de o servidor apresentar opção pelos vencimentos do cargo efetivo apenas como condição para a respectiva posse, quando perceber vantagem pecuniária (vencimento ou provento) de outra fonte, que não seja acumulável, sob pena de nulidade do ato da respectiva nomeação, com a devolução das parcelas percebidas a título de remuneração, em razão do exercício de seu cargo ou emprego (cf. art. 1o. e 3o. do Dec. 2.027/96).
+5. Na hipótese em tela a situação é diversa, sendo certo que a acumulação indevida com os vencimentos percebidos do INSS acarretaria, inclusive, a demissão do servidor (art. 132, XII, Lei 8.112/90), o que justificaria, após a aposentadoria, a cassação desta última (art. 134 da Lei 8.112/90).
+6. Apelação conhecida e desprovida (fls. 241/242).
+2. Em suas razões recursais, o recorrente aponta divergência jurisprudencial acerca da interpretação dada ao direito de opção do beneficiário à aposentadoria que lhe é mais vantajosa.
+3. É o relatório. Decido.
+4. A irresignação não prospera.
+5. Inicialmente, em relação à alínea c, a divergência jurisprudencial não ficou configurada. Cumpre asseverar que a análise da admissibilidade do Recurso Especial pela alínea c do permissivo constitucional torna imprescindível a demonstração da identidade das situações fáticas e a interpretação diversa dada entre eles na solução das lides, o que não se constatou no caso em comento.
+6. Ademais, a Corte de origem não reconheceu o direito de opção do recorrente ao benefício mais vantajoso pelas seguintes razões:
+Não há que se falar em opção, eis que a Medida Provisória 1.522, de 11.10.1996 e o Decreto 2.027/1996 estabeleceram a exigência de o servidor apresentar opção pelos vencimentos do cargo efetivo apenas como condição para a respectiva posse, quando perceber vantagem pecuniária (vencimento ou provento) de outra fonte, que não seja acumulável, sob pena de nulidade do ato da respectiva nomeação, com a devolução das parcelas percebidas a título de remuneração, em razão do exercício de seu cargo ou emprego (cf. art. 1o. e 3o. do Dec. 2.027/1996).
+Na hipótese em tela a situação é diversa, sendo certo que a acumulação indevida com os vencimentos percebidos do INSS acarretaria, inclusive, a demissão do servidor (art. 132, XII, Lei 8.112/90), o que justificaria, após a aposentadoria, a cassação desta última (art. 134 da Lei 8.112/90) (fls. 238).
+7. Verifica-se, da leitura do acórdão recorrido, bem como das razões do Recurso Especial, que a parte agravante não infirmou especificamente os fundamentos do acórdão hostilizado. Desse modo, não comporta trânsito o Apelo, aplicando-se, à espécie, por analogia, o óbice contido na Súmula 283/STF.
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
