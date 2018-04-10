@@ -1,0 +1,16 @@
+DECISÃO
+Demonstrada a tempestividade do recurso, reconsidero a decisão de fls. 535-536/e-STJ, e passo a analisar o agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO - Razões carentes de fundamento, que se limitam a atacar questões desconectadas do tema litigioso, sem menção alguma às premissas da sentença nem à sua conclusão, abstendo-se de impugnar a motivação que embasou a procedência do pedido - Inadmissibilidade - Princípio tantum devolutum quantum appellatum - Inépcia que impede o conhecimento nesta instância ad quem - Súmula nº 4 do extinto TACSP - Recurso não conhecido.
+Nas razões de recurso especial, alega o ora agravante violação do artigo 6º da Lei de Introdução às Normas do Direito Brasileiro; 4º da Lei 4.595/1964; e 5º da Medida Provisória 2.170-36/2001.
+Deve ser mantida a decisão agravada - a qual foi publicada depois da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do atual Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte -, que bem aplicou ao caso a Súmula 282/STF.
+Com efeito, consignou o acórdão recorrido:
+2. A irresignação não é suscetível de ser conhecida.
+3. A procedência do pedido revisional se fundamentou apenas na incorreção do cálculo do saldo devedor, uma vez que não respeitado o método acordado entre as partes, na cláusula 6º do instrumento, qual seja, o índice da caderneta de poupança (fls. 48).
+Inconformado, o banco acionado interpôs apelação sustentando questões que sequer foram analisadas na decisão atacada, como legalidade do sistema de amortização, aplicabilidade do art. 6º da Lei nº 4.380/64, entre outras (fls. 366/383).
+Ao que se infere, ao invés de impugnar a questão que ensejou a procedência da ação, notadamente o disposto na cláusula 6ª do instrumento contratual (fls. 48), o apelante voltou-se contra matérias diversas ali não tratadas ou que nenhuma conexão revelam com os motivos do decreto extintivo proferido.
+Muito ao contrário do que deveria ocorrer, não se encontra no recurso interposto, o método utilizado pelo banco para chegar ao saldo devedor no valor de R$19.637,39, enfrentando a conclusão do laudo pericial de fls. 344.
+Seguramente, as razões recursais (fls. 366/383) são de todo carentes de fundamentos e totalmente desconectadas das matérias apreciadas pelo julgador singular.
+Na verdade, não fazendo qualquer menção, em suas inadvertidas razões recursais, às premissas da sentença, absteve-se o apelante de impugnar os fundamentos que embasaram a procedência reconhecida, nada transferindo ao E. Tribunal a respeito da matéria em discussão, visto como dela somente poderia tomar conhecimento se fosse impugnada, a teor do princípio tantum devolutum quantum appellatum, inserto nos arts. 514, II e 515, do Código de Processo Civil.
+Nas razões do recurso especial, os ora agravantes apresentam razões dissociadas do decidido, apontando violação a dispositivos de lei sobre os quais não houve debate, ainda que implícito, e deixando de enfrentar os fundamentos do acórdão recorrido, o que atrai a incidência das Súmulas 282 e 284/STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
