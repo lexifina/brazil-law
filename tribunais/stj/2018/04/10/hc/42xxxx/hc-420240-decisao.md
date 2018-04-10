@@ -1,0 +1,7 @@
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NO ART. 33, CAPUT, DA LEI Nº 11.343/2006 E ART. 16, PARÁGRAFO ÚNICO, DA LEI Nº 10.826/2003, EM CONCURSO MATERIAL. CONDENAÇÃO EM PRIMEIRA INSTÂNCIA. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. SUPERVENIÊNCIA DE JULGAMENTO. PRELIMINAR REJEITADA E PARCIAL PROVIMENTO AO APELO DEFENSIVO PARA AFASTAR A CONDENAÇÃO PELO CRIME PREVISTO NO ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI Nº 10.826/2003, RECONHECER A CAUSA DE AUMENTO PREVISTA NO ART. 40, IV, DA LEI Nº 11.343/2006 E REDUZIR A PENA IMPOSTA. RELEVANTE ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
+DECISÃO
+As informações obtidas no endereço eletrônico do Tribunal de Justiça de São Paulo dão conta de que, em 5/4/2018, os integrantes da 8ª Câmara de Direito Criminal, por unanimidade, rejeitaram a preliminar e deram parcial provimento ao apelo defensivo para afastar a condenação pelo delito previsto no art. 16, parágrafo único, IV, da Lei nº 10.826/2003, reconhecer a causa de aumento prevista no art. 40, IV, da Lei nº 11.343/2006 e reduzir a pena imposta ao réu Diego para 9 anos e 26 dias de reclusão e 906 dias-multa em seu mínimo unitário, mantidos os demais termos da r. sentença (Apelação Criminal nº 0014009-57.2016.8.26.0114), fato que esgota a pretensão contida na presente impetração, dada a perda superveniente do objeto da demanda e a alteração do cenário fático-processual.
+Em consequência, julgo prejudicado o writ (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
