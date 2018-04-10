@@ -1,0 +1,15 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA. DECISÕES SUSCITADAS ORIUNDAS DE TRIBUNAL REGIONAL DO TRABALHO E DE JUÍZO DE DIREITO DE PRIMEIRO GRAU. DEFICIÊNCIA NA INSTRUÇÃO DO INCIDENTE. DETERMINAÇÃO À LUZ DO CPC/2015 DE SANEAMENTO SOB PENA DE INDEFERIMENTO DA PETIÇÃO INICIAL.
+1. Trata-se de Conflito de Competência instaurado, por entender o autor ABEL JORGE FREIRE RODRIGUES que ambos os Juízos Suscitados, o TRT da 8a. Região e o Juízo de Direito da 7a. Vara Cível e Empresarial da Comarca de Belém/PA, reputam-se competentes para a mesma demanda.
+2. Após extensa narrativa da petição inicial, pleiteia a concessão de efeito suspensivo ao acórdão prolatado pelo TRT da 8a. Região (fls. 47/67) e também à sentença do Juízo de Direito (fls. 68/75), além de tutela cautelar provisória de indisponibilidade dos bens e bloqueio, via BACENJUD, dos ativos do Sindicato dos Trabalhadores do Poder Judiciário do Estado do Pará-SINJEP.
+3. Houve deferimento do pleito de gratuidade processual pela Presidência deste STJ (fls. 81).
+4. É o relatório.
+5. De início, não se pode considerar que haja, na verdade, o referido conflito, nem tampouco que este seja atual, conforme será explicitado.
+6. Ora, de início, insta verificar que as decisões judiciais que estariam cada qual, reconhecendo a competência de diferentes esferas judiciais, uma da Justiça Especializada do Trabalho e, outra, do Juízo Cível Estadual, não são recentes, sendo a primeira datada de 4.9.2017 (fls. 67), e a segunda de 4.5.2017 (fls. 72)
+7. Não há, nos autos do presente Conflito, nenhum elemento que demonstre a interposição de recursos contra tais decisões suscitadas, porquanto a só ocorrência do trânsito em julgado de uma delas já seria o suficiente para eliminar a possibilidade de existência de conflito, vale dizer que essa demonstração é ônus de quem invoca o incidente, e que, nesse caso, foi descumprido.
+8. Por sua vez, a análise da parte dispositiva da decisão do Juízo de Direito (fls. 68/75) está a demonstrar que a demanda foi extinta sem resolução do mérito, por ilegitimidade ativa, fundamento cuja reforma deve ser buscada através das vias recursais ordinárias e não através de conflito positivo de competência, diretamente ao STJ.
+9. Para corroborar a inexistência de conflito, veja-se o pedido realizado pela parte reclamante:
+2) Que seja concedida, dentro do poder geral de cautela, mormente para fins de assegurar a integridade patrimonial da agremiação, tutela provisória para fins de determinar a indisponibilidade dos bens do Sindicato, determinando inclusive o bloqueio das contas da entidade via BACENJUD, até ulteriormente vir ser decidida quanto a competência em razão da matéria (fls. 42).
+10. Ante o exposto, à luz da sistemática do Código Fux de Processo Civil, comprove a parte autora, no prazo de 5 dias úteis, que as decisões apontadas não passaram em julgado, bem como apresente as cópias das respectivas petições iniciais, além de outros documentos que entender pertinentes, sob pena de indeferimento da petição inicial.
+11. Publique-se.
+12. Intimações necessárias.
