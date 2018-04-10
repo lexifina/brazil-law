@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL REFER, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado (fls. 612, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PLANO DE PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. REFR. EXPURGOS INFLACIONÁRIOS. PRELIMINAR. (I) AUSÊNCIA DE INTERESSE PROCESSUAL. INOCORRÊNCIA. APOSENTADOS QUE NÃO SE DESLIGARAM DA ENTIDADE PREVIDENCIÁRIA. PREJUDICIAL. (II) PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. OBRIGAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO APENAS DAS PARCELAS VENCIDAS HÁ MAIS DE CINCO ANOS DO AJUIZAMENTO DA AÇÃO. SÚMULA 291 DO STJ. EFEITO EXPANSIVO DO RECURSO. ART. 515, §3º, DO CPC. QUESTÕES DE MÉRITO EM CONDIÇÕES DE IMEDIATO JULGAMENTO (III) APLICABILIDADE DO CDC. ENTIDADE DE PREVIDÊNCIA PRIVADA. SÚMULA 321, STJ. (IV) RECÁLCULO DA APOSENTADORIA COMPLEMENTAR E DEVOLUÇÃO DAS DIFERENÇAS DEVIDAS. CORREÇÃO MONETÁRIA DO BENEFICIO PREVIDENCIÁRIO QUE DEVE SE DAR DE FORMA PLENA. SÚMULA 289 DO STJ. REFORMA INTEGRAL DA SENTENÇA. RECURSO PROVIDO, JULGANDO-SE PARCIALMENTE PROCEDENTES OS PEDIDOS.
+Embargos declaratórios opostos e rejeitados às fls. 656/667, e-STJ.
+Nas razões do recurso especial, a parte recorrente alega, além de divergência jurisprudencial, violação dos artigos 3º do CDC, 75 da LC nº 109/01 e inobservância das Súmulas 289 e 427 do STJ.
+Argumenta, em síntese: a) não ser caso de incidência da legislação consumerista por não haver relação de consumo entre as partes; e b) prescrição do próprio fundo de direito; e c) inadequada a aplicação da Súmula 289 do STJ, porquanto o autor não se desligou do regime jurídico de previdência privada.
+Contrarrazões apresentadas às fls. 791/808.
+Juízo positivo de admissibilidade às fls. 842/845.
+É o relatório.
+Decido.
+1. De início, consigne-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. Conforme entendimento sumulado nesta Corte Superior, "O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas" (Súmula 563/STJ).
+Nesse sentido:
+RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA E MÚTUO FENERATÍCIO. OFENSA AO ART. 535 DO CPC. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO IMPUGNADO. ENTIDADE FECHADA. NÃO INCIDÊNCIA DO CDC. SÚMULA 563/STJ. LIMITAÇÃO DA TAXA DE JUROS. LEI DE USURA. ART. 591 DO CC. PREVISÃO DE MULTA CONTRATUAL. POSSIBILIDADE. EMBARGOS DE DECLARAÇÃO. AFASTADA A MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. Inicialmente, quanto à tese de violação ao art. 535 do CPC, impende consignar que não houve negativa de prestação jurisdicional, máxime porque a Corte de origem analisou as questões deduzidas pela recorrente, dirimindo as questões pertinentes ao litígio.
+2. Em consonância com a Súmula nº 563/STJ, o Código de Defesa do Consumidor é aplicável apenas às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas.
+3. O mútuo feneratício, contratado com entidade fechada de previdência privada, submete-se aos limites da Lei de Usura e ao art. 591 do Código Civil, de modo que a taxa efetiva de juros não pode exceder a 12% ao ano.
+4. Como é cediço, os mútuos são oferecidos mediante modelos científicos que, efetivamente, tomam em consideração, na formação da taxa de juros, o risco de inadimplemento. Nesse passo, é justificável a majoração da referida taxa, fixada em 6% ao ano - enquanto o tomador do crédito permanecer vinculado ao plano de benefícios -, para 8%, em caso de desligamento da relação de emprego mantida com a patrocinadora, mormente ante o sensível aumento do risco de inadimplemento na situação em epígrafe.
+5. É descabida a redução da multa contratual de 10% para 2%, visto que o Código de Defesa do Consumidor não incide na relação contratual em exame.
+6. Os embargos de declaração, opostos com notório propósito de prequestionamento, não possuem caráter protelatório, razão pela qual deve ser afastada a multa prevista no art. 538, parágrafo único, do CPC.
+7. Recurso especial parcialmente provido.
+(REsp 1304529/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2016, DJe 22/04/2016)
+Verifica-se, portanto, estar o entendimento adotado pelo acórdão recorrido em desarmonia com a jurisprudência desta Corte Superior, de modo que faz-se mister sua correção.
+3. Ante o exposto, dou provimento ao recurso especial para anular o acórdão recorrido, devendo o Tribunal local apreciar novamente a controvérsia com base no direito aplicável à espécie, afastada a incidência da legislação consumerista. Prejudicadas as demais questões recorridas.
+Publique-se. Intimem-se.
