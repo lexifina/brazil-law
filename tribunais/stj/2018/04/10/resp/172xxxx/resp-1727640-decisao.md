@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 249):
+ADMINISTRATIVO. VESTIBULAR. ENSINO SUPERIOR. CERTIDÃO DE CONCLUSÃO DE ENSINO MÉDIO. MATRÍCULA. POSSIBILIDADE.
+1. A aprovação em concurso vestibular só garante ao aluno a matrícula na instituição de ensino superior se já houver concluído o ensino médio, ante os expressos termos do art. 44, II, da Lei 9.394/96 (Lei de Diretrizes e Bases da Educação).
+2. Hipótese em que o impetrante, aprovado em processo seletivo para uma vaga no curso superior de engenharia de produção mecânica - integral, não apresentou diploma ou certificado de conclusão de ensino médio exigido no ato do cadastramento na UFPB, comprovando, entretanto, ter cursado o ensino médio no ano letivo de 2013, no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - IFRN por meio de certidão de conclusão do ensino médio, de modo que não se mostra razoável recusar seu cadastramento.
+
+Opostos embargos declaratórios, foram improvidos.
+A parte recorrente aponta violação aos arts. 3º, I, 44, II e 53, I e V, da Lei 9.394/96 e 41 da Lei 8.666/93. Para tanto, sustenta que é necessária a apresentação do certificado de conclusão do Ensino Médio no momento da matrícula em curso superior.
+O Ministério Público Federal, em parecer, opinou pelo desprovimento do recurso (fls. 316/319).
+É o relatório.
+O inconformismo não prospera.
+De início, cabe evidenciar o seguinte trecho do acórdão recorrido (fls. 238/239):
+9. A Lei nº. 9.394/1996, art. 44, II, por sua vez, estabeleceu que a educação superior abrangerá os cursos e programas de graduação, abertos a candidatos que tenham concluído o ensino médio ou equivalente e tenham sido classificados cm processo seletivo.
+10. O caso dos autos trata de legalidade, ou não, de indeferimento de cadastramento dc candidato aprovado ao curso superior de engenharia de produção mecânica - integral em razão de falta de apresentação do certificado de conclusão do ensino médio.
+11. Os documentos colacionados demonstraram que o impetrante foi aprovado em processo seletivo para uma vaga no curso superior de engenharia de produção mecânica - integral (id. 4058200.389402, p. 03/07); que não pôde efetuar matrícula na UFPB, em 21/fevereiro/2015, em razão de não ter apresentado certificado de conclusão do ensino médio (id. 4058200.389402, p. 09); que esse mesmo impetrante concluiu o ensino médio no ano letivo de 2013, no Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - IFRN; e que preencheu, em 19/fevereiro/2015, ficha de cadastro individual junto à ré UNIVERSIDADE FEDERAL DA PARAÍBA - UFPB para ingresso no curso sobremencionado (id. 4058200.389402, p. 05).
+12. A pretensão do impetrante se funda, portanto, na conclusão do ensino médio sem a devida emissão do certificado pertinente a tempo de realizar cadastramento na instituição de ensino superior para a qual prestou exames.
+13. A Administração Pública deve ter cm mente, na aplicação c interpretação das leis, os princípios que a norteiam - entre eles, os da proporcionalidade e da razoabilidade, segundo Constituição Federal, art. 37 - a fim guardar conformidade c adequação entre os meios que emprega e os fins que a lei deseja alcançar.
+14. A finalidade da sobremencionada Lei nº. 9.394/1996, art. 44, II, é fazer com que apenas os possuidores do segundo grau completo possam cursar a universidade, mas não se pretende, com isso, erigir o diploma de conclusão do segundo grau como documento indispensável para realização de matrícula; a apresentação desse documento não é uma finalidade em si mesma ou uma exigência essencial, mas um meio de provar a aptidão para a vida universitária.
+15. Nesse sentido, é necessária uma visão finalística na qual se identifique o bem jurídico que se intenta preservar ou tutelar, para que aspectos formais não se sobreponham ao espírito da norma.
+16. Resumindo, os autos mostraram que o impetrante não apresentou documento exigido no ato do cadastramento na UNIVERSIDADE FEDERAL DA PARAÍBA por motivo alheio à sua vontade, que consistiu na falta de emissão pela escola de origem, o que caracteriza justa causa; entretanto comprovou ter cursado o ensino médio através de certidão (id. 4058200.389401, p. 01), de modo que não se mostra razoável recusar seu cadastramento.
+
+Depreende-se que a alteração das conclusões adotadas pela Corte de origem pra aferir o atendimento do aluno aos requisitos para a matrícula, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. AUTONOMIA UNIVERSITÁRIA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MATRÍCULA EM UNIVERSIDADE. CONCLUSÃO DO ENSINO MÉDIO. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7 DESTA CORTE.
+1. O Tribunal de origem não se pronunciou sobre a tese da autonomia universitária, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+2. A alteração da conclusão adotada pela Corte de origem, no sentido de que "restou comprovado que a candidata concluiu o ensino médio, bem como protocolou a solicitação de revalidação perante a instituição de ensino" (fl. 141), exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1454418/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/08/2014, DJe 20/08/2014)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
