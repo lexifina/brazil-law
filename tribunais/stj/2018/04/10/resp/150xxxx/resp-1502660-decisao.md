@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA APARECIDA RIBEIRO SCABORA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ fl. 153):
+EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. ALIENAÇÃO DO IMÓVEL EM MOMENTO POSTERIOR À CONSTRIÇÃO JUDICIAL. CO PROPRIEDADE. PENHORA DA INTEGRALIDADE DO IMÓVEL. POSSIBILIDADE. PRESERVAÇÃO DA COTA-PARTE AOS CO PROPRIETÁRIOS. HONORÁRIOS ADVOCATÍCIOS.
+1. O art. 185 do CTN institui uma garantia inerente aos créditos tributários, já que torna ineficazes, perante a Fazenda Pública, os atos do devedor que afetam a sua solvabilidade.
+2. Na redação anterior à LC n. 118/2005, a presunção de fraude operava a partir da propositura da execução fiscal. Apesar de muitos defenderem a interpretação literal da norma, pacificou-se a jurisprudência no sentido de que somente após a citação do devedor no processo executivo atuava a presunção de alienação fraudulenta. A celeuma restou superada após a edição da LC n. 118, bastando haver a alienação de bens ou rendas após a inscrição em dívida ativa, para que se presuma a fraude.
+3. No caso em comento, a alienação, ocorrida em 03.08.2012, se deu posteriormente à própria constrição judicial, realizada em 23.07.2012, de modo que não resta dúvida que se deu em fraude à execução. Não há, in casu, demonstração da boa fé da embargante, que, aliás, expressamente consignou na exordial que estava ciente da existência da execução fiscal.
+4. O fato de o imóvel ter sido adquirido posteriormente pela embargante e por terceiras pessoas não tem o condão de afastar a constrição judicial sobre o bem, uma vez que essa alienação se deu em fraude à execução.
+5. O bem de propriedade de mais de um titular que não comporta divisão pode ser levado à hasta pública, devendo, no entanto, ser preservado aos coproprietários o direito de receber o equivalente a sua cota-parte.
+6. Mantida a condenação da embargante ao pagamento dos honorários advocatícios, fixados em R$ 1.000,00 (um mil reais), adotando-se como índice de atualização o IPCA-E.
+7. Apelação da embargante improvida.
+8. Apelação da embargada parcialmente provida, para alterar o índice de atualização da verba honorária.
+Nas razões do especial a parte recorrente alegou violação do art. 1.046 do CPC, bem como dissídio jurisprudencial. Insurgiu-se contra a determinação de penhora sobre a integralidade do imóvel pelo juízo da execução fiscal, afirmando que o fato de haver previsão legal (art. 655-B do CPC/1973) para resguardar aos coproprietários o produto da arrematação até o limite do valor da sua parte ideal não afasta a ofensa ao direito constitucional da propriedade, que continua a ser violado. Nesse sentido, a fração ideal de imóvel indivisível pertencente a terceiro não poderia ser levada à hasta pública, devendo ficar limitada a constrição judicial apenas à fração ideal de propriedade do executado.
+Contrarrazões apresentadas (e-STJ fls. 208/210)
+Recurso admitido (e-STJ fl. 222)
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Isso considerado, registro o que decidiu o voto condutor do acórdão recorrido (e-STJ fl. 147/149):
+No que tange à possibilidade do bem possuído por mais de um titular ser levado integralmente à hasta pública, apresento os seguintes julgados, verbis:
+(..)
+Percebe-se, da análise dos julgados acima apresentados, que a jurisprudência vem aceitando a penhora de bem indivisível possuído por mais de um titular, além da hipótese da meação do cônjuge do executado. Com efeito, quem se sujeita à copropriedade, deve também sujeitar-se à possibilidade de alienação da totalidade do bem, pois tal circunstância não a impede, desde que resguardado o valor correspondente à parcela do coproprietário.
+Ressalto, ainda, que o coproprietário goza do direito de preferência na aquisição do bem, nos termos dos artigos 504, do Código Civil, e 1.118, do CPC, podendo adquirir a parcela pertencente ao outro titular, de modo a consolidar o domínio sobre a totalidade do bem.
+Considerando a existência de condomínio em bem indivisível, não há falar em impossibilidade de a penhora recair sobre a integralidade do imóvel, restando, portanto, desacolhido o apelo no ponto.
+Do que se observa, o entendimento adotado pela Corte Regional confronta a orientação jurisprudencial do Superior Tribunal de Justiça, segundo a qual a penhora de bem imóvel indivisível também pertencente a terceiro (não cônjuge) deve ficar limitada à fração ideal de titularidade do executado.
+A esse respeito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. VIOLAÇÃO DO ART. 557 DO CPC/73. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. PENHORA DE BEM INDIVISÍVEL. IMÓVEL DE PROPRIEDADE DE VÁRIOS IRMÃOS. POSSIBILIDADE DE PENHORA DAS FRAÇÕES IDEAIS DE PROPRIEDADE DO EXECUTADO.
+1. Constata-se que não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. A jurisprudência do Superior Tribunal de Justiça orienta que eventual nulidade na decisão singular do relator, proferida com fulcro no art. 557 do CPC/1973, fica superada com a reapreciação da matéria, na via do Agravo Interno, pelo órgão colegiado.
+3. A jurisprudência do STJ entende que "a alienação de bem indivisível não recairá sobre sua totalidade, mas apenas sobre a fração ideal de propriedade do executado, o que não se confunde com a alienação de bem de propriedade indivisível dos cônjuges, caso em que a meação do cônjuge alheio à execução, nos termos do art. 655-B, do CPC, recairá sobre o produto da alienação do bem" (REsp 1.404.659/PB, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 7/4/2014).
+4. Recurso Especial não provido.
+(REsp 1.700.587/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017)
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA. BEM INDIVISÍVEL. COPROPRIEDADE. TERCEIRO ESTRANHO À EXECUÇÃO. APENAS UM DELES EXECUTADO. HONORÁRIOS. RESISTÊNCIA. RESPONSABILIDADE DE QUEM DEU CAUSA. SÚMULA 303 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão da Corte estadual encontra-se em harmonia com a jurisprudência sedimentada nesta Corte Superior, no sentido de que a fração ideal de bem indivisível pertencente a terceiro não pode ser levada a hasta pública, de modo que somente as frações ideais de propriedade dos executados se submetem à constrição judicial.
+2. "Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios". Enunciado da Súmula 303 do STJ.
+3. Agravo interno não provido (AgInt no REsp 1.535.979/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/08/2017, DJe 09/08/2017).
+RECURSO ESPECIAL. EXECUÇÃO. TÍTULO EXTRAJUDICIAL. DUPLICATAS. OMISSÃO INEXISTENTE. PREQUESTIONAMENTO AUSENTE. IMÓVEL. BEM DE FAMÍLIA. DESCARACTERIZAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. ACÓRDÃO RECORRIDO. JURISPRUDÊNCIA DESTA CORTE. DISSONÂNCIA. PENHORA. FRAÇÃO IDEAL DE COPROPRIETÁRIO. POSSIBILIDADE.
+1. Cinge-se a controvérsia a definir se é possível a penhora de fração ideal dos recorridos sobre o imóvel que se encontra em condomínio e servindo de residência para sua genitora.
+2. A jurisprudência desta Corte consolidou o entendimento de ser possível a penhora de fração ideal de imóvel caracterizado como bem de família.
+3. A fração ideal de bem indivisível pertencente a terceiro não pode ser levada à hasta pública, devendo a constrição judicial incidir apenas sobre as frações ideais de propriedade dos executados.
+4. Recurso especial conhecido em parte e provido (REsp 1.457.491/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/09/2015, DJe 11/09/2015).
+Nesse mesmo sentido, cito as seguintes decisões monocráticas exaradas por ministros integrantes da Primeira Turma: REsp 1.279.720/PR, Rel. Ministro Sérgio Kukina, DJ 06/02/2017; REsp 1.609.171/RS, Rel. Ministro Regina Helena Costa, DJ 29/09/2016; AREsp 619.268/SC, Rel. Ministro Benedito Gonçalves, DJ 03/02/2015.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para JULGAR PROCEDENTES os embargos de terceiro, desconstituindo a penhora impugnada.
+Outrossim, inverto os ônus sucumbenciais.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 - STJ.
+Publique-se. Intimem-se.
