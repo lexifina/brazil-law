@@ -1,0 +1,34 @@
+DECISÃO
+MANDADO DE SEGURANÇA – FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS – COEFICIENTE – DECISÃO NORMATIVA Nº 79/2006 DO TRIBUNAL DE CONTAS DA UNIÃO – PRECEDENTES – NEGATIVA DE SEGUIMENTO.
+    1. O assessor Dr. Marcelo Maciel Torres Filho prestou as seguintes informações:
+    Em 9 de abril de 2007, Vossa Excelência indeferiu a medida acauteladora, ante os seguintes fundamentos:
+    MANDADO DE SEGURANÇA – FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS – COEFICIENTE – DECISÃO NORMATIVA Nº 79/06, DO TRIBUNAL DE CONTAS DA UNIÃO – LIMINAR – IMPROPRIEDADE.
+    1. O Município de Lima Campos, do Estado do Maranhão, sustenta encontrar-se o ato atacado mediante este mandado de segurança – Decisão Normativa nº 79, do Tribunal de Contas da União, de 14 de novembro de 2006 - em descompasso com a Lei Complementar nº 91/97, com a redação imprimida pela Lei Complementar nº 106/2001. Assevera enquadrar-se na previsão do § 2º do artigo 1º da citada lei, afirmando que a modificação de parâmetros somente poderia ocorrer a partir de 1º de janeiro de 2008. Compara a respectiva situação com a do Município de Mata Roma. Ressalta que o objetivo da norma foi evitar queda brusca do repasse de valores. Requer a concessão de liminar para que seja determinada à autoridade coatora a revisão do coeficiente de participação, afastando-se cálculos que aponta como errôneos e como a implicar a redução de valores, vindo-se, alfim, a confirmar a medida.
+    Acompanharam a inicial os documentos de folha 12 a 31.
+    2. O tema envolve rateio do fundo de participação dos Municípios e, portanto, interesses que excedem os alusivos ao impetrante. Não há campo para, sem audição da autoridade dita coatora, implementar-se liminar que altere os coeficientes constantes dos anexos à Decisão Normativa nº 79/2006, do Tribunal de Contas da União.
+    3. Indefiro a medida acauteladora.
+    [...]
+    O Tribunal de Contas da União, em informações, aduz competir a si o cálculo das quotas do Fundo de Participação dos Municípios, cingindo-se à utilização dos dados demográficos fornecidos pelo Instituto Brasileiro de Geografia e Estatística – IBGE, considerados os artigos 1º, inciso VI, e 102 da Lei nº 8.443/1992, bem assim o 1º, § 1º, da Lei Complementar nº 91/1997. Consoante argumenta, este último diploma determina a aplicação gradual de redutor financeiro, entre 1998 e 2007, a Municípios que apresentem ganhos adicionais, presente o coeficiente estabelecido com base nas respectivas populações, distribuindo-se o montante aos demais, inclusive àqueles com o mesmo coeficiente populacional. Discorre sobre o cálculo efetivado. Alude a precedentes.
+    A Procuradoria-Geral da República preconiza o indeferimento da ordem.
+    O processo é físico e está concluso.
+    2. Por meio do ato impugnado, o Tribunal de Contas da União aprovou, para o ano de 2007, os coeficientes destinados ao cálculo das quotas alusivas ao Fundo de Participação dos Municípios, presente o artigo 159, inciso I, alínea “b”, da Constituição Federal. A metodologia encontra fundamento na Lei Complementar nº 91/1997, cujo artigo 1º, cabeça, fixou critério atinente ao número de habitantes, tendo o respectivo § 2º estabelecido:
+    Art. 1º […]
+    […]
+    § 2º Ficam mantidos, a partir do exercício de 1998, os coeficientes do Fundo de Participação dos Municípios – FPM atribuídos em 1997 aos Municípios que apresentarem redução de seus coeficientes pela aplicação do disposto no caput deste artigo.
+    Nos termos do artigo 2º do mesmo diploma, sobre os ganhos adicionais decorrentes da observância da norma transcrita incide redutor financeiro, a ser aplicado gradualmente entre 1999 e 2007, para redistribuição automática aos demais participantes do Fundo.
+    O Plenário adotou, à unanimidade, em diferentes processos, entendimento no sentido da legitimidade da decisão normativa nº 79/2006 do Tribunal de Contas da União, no que implementou, consideradas as informações populacionais veiculadas pelo Instituto Brasileiro de Geografia e Estatística – IBGE, os coeficientes. Atentem para o decidido nos mandados de segurança nº 26.469, relator ministro Eros Grau, julgado em 22 de novembro de 2007, e nº 26.464, relatora ministra Cármen Lúcia, apreciado em 7 de abril de 2008, cujas ementas transcrevo:
+    MANDADO DE SEGURANÇA. CONSTITUCIONAL. FINANCEIRO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. DISTRIBUIÇÃO DE RECURSOS SEGUNDO CRITÉRIOS DEMOGRÁFICOS. ART. 161, II E PARÁGRAFO ÚNICO DA CONSTITUIÇÃO. LEIS COMPLEMENTARES N. 91/97 E 106/01. SISTEMÁTICA QUE REDUZIU O IMPACTO INICIAL SOBRE OS MUNICÍPIOS SUJEITOS AO FATOR REDUTOR DE ORDEM DEMOGRÁFICA, COMPENSANDO-SE AS DIFERENÇAS NOS REPASSES DOS EXERCÍCIOS SEGUINTES. INEXISTÊNCIA DE OFENSA A DIREITO ADQUIRIDO E AO PRINCÍPIO DA LEGALIDADE.
+    1. A LC 91/97 não assegura o recebimento, pelos Municípios sujeitos ao fator redutor nela previsto, de valor nunca inferior ao recebido pelo Município que, em idêntico patamar populacional, não esteja sujeito ao redutor.
+    2. O texto normativo, ao contrário, fez a distinção necessária, na medida em que concedeu tratamento desigual aos então desiguais: garantiu-se o coeficiente de 1.997 aos Municípios que, na sistemática por ela implementada, apresentassem coeficiente menor que o do ano anterior, compensando-se nos anos seguintes as diferenças apuradas.
+    3. Não há ofensa a direito adquirido e ao princípio da legalidade no ato do Tribunal de Contas da União que aplicou redutor ao coeficiente da quota do Fundo de Participação dos Municípios, nos termos da legislação em vigor. Precedente: MS n. 23.399, Relatora a Ministra ELLEN GRACIE, DJ 14.12.2001.
+    4. Segurança denegada.
+    MANDADO DE SEGURANÇA. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. CÁLCULO DO COEFICIENTE DE PARTICIPAÇÃO SEGUNDO CRITÉRIOS DEMOGRÁFICOS. LEIS COMPLEMENTARES NS. 91/1997 E 106/2001. COMPENSAÇÃO DOS GANHOS ADICIONAIS, PERCEBIDOS EM EXERCÍCIOS FINANCEIROS ANTERIORES, MEDIANTE A APLICAÇÃO GRADUAL DE FATORES DE REDUÇÃO.
+    1. O critério legal estabelecido no art. 2º da Lei Complementar n. 91/1997 reduz a participação dos Municípios que recebem mais que o permitido pelos seus índices populacionais e conduz a maior participação daqueles que percebem menos do que deveriam.
+    2. A Lei Complementar n. 91/1997 não assegura aos Municípios sujeitos ao fator de redução o direito de perceber o mesmo valor dos Municípios que, com a mesma população, não estejam sujeitos ao redutor. Precedentes: MS 26.469/DF, MS 26.479/DF, MS 26.489/DF e MS 26.499/DF, todos de relatoria do Ministro Eros Grau.
+    3. Apreciação do critério adotado pelo legislador é matéria não sujeita à análise jurídica possível na via do mandado de segurança, que não se presta à impugnação de lei em tese (Súmula 266 do Supremo Tribunal Federal).
+    4. Segurança denegada.
+    3. Ante o quadro, nego seguimento ao pedido, a teor do artigo 21, § 1º, do Regimento Interno.
+    4. Publiquem.
+Brasília, 10 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
