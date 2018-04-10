@@ -1,0 +1,41 @@
+EMENTA
+ADMINISTRATIVO. CURSO DE FORMAÇÃO. POLÍCIA MILITAR. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. NÃO CABIMENTO. DECISÃO QUE NÃO JULGOU O MÉRITO DO MANDADO DE SEGURANÇA EM VIRTUDE DO INDEFERIMENTO DA GRATUIDADE JUDICIÁRIA. CABIMENTO DE RECURSO ESPECIAL E NÃO DE RECURSO ORDINÁRIO.
+I - O art. 105, II, b, da Constituição Federal prevê que compete a esta Corte Superior o julgamento de recursos ordinários em mandado de segurança, decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória.
+II - No caso dos autos, verifica-se que o recurso ordinário foi interposto contra acórdão do TJMS (fls. 69-74), que não julgou o mérito do mandamus pois indeferiu-se o pedido de gratuidade judiciária (fls. 49-51). Tal decisão, deveria ter sido impugnada, em tese, por recurso especial. Desse modo, o recurso ordinário não merece conhecimento. Neste sentido: STJ, AgRg no RMS 32.218/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 07/10/2010). No mesmo sentido: STJ, AgInt no Ag 1.433.575/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016; AgInt no Ag 1433739/RN, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/06/2017, DJe 27/06/2017.
+III - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso ordinário em mandado de segurança interposto por [NOME], com fundamento no artigo 105, inciso II, alínea "b", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim ementado:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA. JUSTIÇA GRATUITA INDEFERIDA. PEDIDO DE CONCESSÃO DO BENEFÍCIO. ALEGADA HIPOSSUFICIÊNCIA, BASTANDO A AFIRMAÇÃO PARA FAZER JUS. NÃO ACOLHIMENTO. PRESUNÇÃO RELATIVA QUE PODE SER ILIDIDA PELAS PROVAS JUNTADAS AOS AUTOS. POLO ATIVO COMPOSTO POR CINCO SUBTENENTES DA PMRN ESTÁVEIS NO SERVIÇO PÚBLICO. CAPACIDADE ECONÔMICA DEMONSTRADA. MANUTENÇÃO DA DECISÃO AGRAVADA. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+1. O Código de Processo Civil, no art. 99, § 3º, afirma que há presunção da alegação de insuficiência formulada pela pessoa natural. Trata-se, portanto, de presunção iuris tantum da pobreza daquele que afirma encontrar-se sob tal condição.
+2. Contudo, ainda é possível o indeferimento da benesse pelo magistrado quando as circunstâncias que envolvem a matéria trazida à apreciação judicial revele elementos dos quais se possa concluir pela capacidade econômica das partes, já que não se trata de presunção legal absoluta em favor da parte.
+3. Precedentes do STJ (AgRg no AREsp 769.190/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, j. 10/11/2015) e desta Corte (Ag nº 2016.001926-6, Relator Juiz Convocado Ricardo Procópio, 3ª Câmara Cível, j. 12/07/2016; Agravo de Instrumento nº 2016.003576-5, Rel. Desembargador João Rebouças, j. 05/07/2016).
+4. Agravo Interno conhecido e desprovido.
+Na origem, trata-se de mandado de segurança impetrado por [NOME], [NOME], [NOME], [NOME] e [NOME] em face de ato ilegal praticado pelo Comandante Geral da Polícia Militar do Rio Grande do Norte, requerendo a abertura de curso de habilitação de oficiais e, por sua vez, sejam realizadas as respectivas matrículas.
+No presente recurso ordinário, o recorrente sustenta que a simples afirmação da parte, de que não tem condições de arcar com as custas do processo e honorários de advogado, sem prejuízo próprio ou de sua família, garante os benefícios da gratuidade judiciária, conforme previsto no art. 4º da Lei nº 1.060/50. Afirma que foram analisados apenas aspectos objetivos para a negativa do benefício, em detrimento da condição pessoal de cada impetrante.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O Ministério Público opina provimento do recurso, para que a Corte a quo oferte aos recorrentes a oportunidade de comprovar a necessidade de concessão do benefício da justiça gratuita.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do Recurso Ordinário em Mandado de Segurança".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sustenta a parte agravante que o recurso deveria ser conhecido, conforme o seguinte excerto da petição de agravo interno:
+Não há outro recurso que possamos impetrar a não ser o recurso ordinário, haja vista que a denegação da segurança e colocada no caput do art. 18 como genérica, não sendo especificada o seu cabimento mediante o enfrentamento do mérito ou o indeferimento da inicial sem resolução dele. Incabível de fato seria o Recurso Especial ou Extraordinário.
+Sem razão a parte agravante.
+O art. 105, II, "b", da Constituição Federal prevê que compete a esta Corte Superior o julgamento de recursos ordinários em mandado de segurança, decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória.
+No caso dos autos, verifica-se que o presente recurso ordinário foi interposto contra acórdão do TJMS (fls. 69-74), proferido em agravo regimental interposto contra decisão interlocutória em mandado de segurança que indeferiu o pedido de justiça gratuita (fls. 49-51). Tal decisão, como cediço, deveria ter sido impugnada, em tese, por recurso especial. Desse modo, o presente recurso não merece ser conhecido.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA INTERPOSTO CONTRA ACÓRDÃO QUE MANTEVE O INDEFERIMENTO DO PEDIDO DE JUSTIÇA GRATUITA, DETERMINANDO A INTIMAÇÃO DO ORA AGRAVANTE PARA RECOLHIMENTO DAS CUSTAS PROCESSUAIS, SOB PENA DE SER NEGADO SEGUIMENTO AO MANDAMUS. ART. 105, II, b, DA CONSTITUIÇÃO FEDERAL. NÃO CABIMENTO DO RECURSO ORDINÁRIO, À MÍNGUA DE ACÓRDÃO DENEGATÓRIO DA SEGURANÇA. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática publicada em 05/04/2017, que, por sua vez, julgara recurso interposto contra decisão que inadmitira o Recurso Ordinário, publicada na vigência do CPC/2015.
+II. In casu, o impetrante, mediante Recurso Ordinário, insurge-se contra acórdão que, no julgamento de Agravo Regimental, manteve decisão monocrática que indeferira o pedido de gratuidade judiciária, por ele formulado, e determinou a sua intimação para efetuar o recolhimento das custas processuais, sob pena de ser negado seguimento ao mandamus.
+III. Segundo a jurisprudência do STJ, "pelo fato de o indeferimento do pedido de gratuidade de justiça não se assemelhar à denegação da pretensão mandamental, em razão de sua natureza jurídica diversa, deve-se reconhecer que o recurso ordinário interposto contra o referido indeferimento não se enquadra na hipótese constitucional de cabimento (artigo 105, inciso II, alínea "b", da Constituição Federal de 1988). A jurisprudência do STJ entende que a interposição de recurso ordinário, ao invés do recurso especial, é erro grosseiro que impede a aplicação do princípio da fungibilidade recursal" (STJ, AgRg no RMS 32.218/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 07/10/2010). No mesmo sentido: STJ, AgInt no Ag 1.433.575/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016.
+IV. Agravo interno desprovido.
+(AgInt no Ag 1433739/RN, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/06/2017, DJe 27/06/2017)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
