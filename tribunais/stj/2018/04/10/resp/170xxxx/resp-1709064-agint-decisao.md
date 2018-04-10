@@ -1,0 +1,36 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo Interno interposto contra a decisão que negou seguimento ao Recurso Especial, fundamentada na falta de indicação dos dispositivos legais tidos por violados, atraindo a incidência da Súmula n. 284/STF.
+Sustenta a Agravante, em síntese, que:
+(i) "a União entende que a decisão merece reforma, na medida em que em suas razões recursais efetivamente apontou como violados os 28 da Lei n. 9.430/96; 44, IV da Lei n. 4.506/64; 43 do CTN; e arts. 392, 443 e 521 do Decreto n. 3.000/1999" (fl. 391e);
+(ii) "A União em suas razões recursais apresentou a lei de regência, a forma como o acórdão regional solucionou o caso concreto, e os dispositivos de lei federal violados com esse entendimento do Tribunal a quo, não havendo qualquer deficiência recursal a motivar a negativa de seguimento ao recurso especial fazendário" (fl. 393e).
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 399/413e.
+Em juízo de retratação, consoante o disposto no art. 1.021, § 2º, do CPC/15, verifica-se o desacerto da mencionada decisão, razão pela qual de rigor a sua reconsideração.
+Isto posto, nos termos desse dispositivo, RECONSIDERO a decisão de fls. 381/384e restando, por conseguinte, PREJUDICADO o agravo interno de fls. 390/394e, e passo, doravante, a novo julgamento do Recurso Especial.
+Trata-se de Recurso Especial interposto por FAZENDA NACIONAL, contra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 213e):
+MANDADO DE SEGURANÇA. CRÉDITO PRESUMIDO DE ICMS. INCLUSÃO NA BASE DE CÁLCULO DO IRPJ E DA CSLL. DESCABIMENTO.
+Tem o contribuinte o direito de excluir da base de cálculo do IRPJ e da CSLL os valores referentes a créditos presumidos de ICMS, uma vez que não constituem renda, lucro ou acréscimo patrimonial da pessoa jurídica.
+Opostos embargos de declaração, foram rejeitados (fls. 261/264e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+- Arts. 392, 443 e 521 do Decreto n. 3.000/99; 28 da Lei n. 9.430/96; e 43 do Código Tributário Nacional; e 44, IV, da Lei n. 4.506/64 - "Não se trata de mero crédito gerado pela sistemática não-cumulativa do imposto, em face de determinada etapa da circulação econômica do bem. Ao revés, o incentivo constitui-se em verdadeira subvenção de custeio, instituída pelo legislador rio-grandense." (fl. 287e). "(..) é certo que, nos termos do art. 44 da Lei nº 4.5026/64 e art. 392, I, do Regulamento do Imposto de Renda (RIR - Decreto nº 3.000/99), as subvenções de custeio são computadas no conceito de lucro." (fl. 287e).
+Com contrarrazões (fls. 315/332e), o recurso foi admitido (fl. 354e).
+O Ministério Público Federal manifestou-se às fls. 377/379e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b, e 255, II, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+De outra parte, observo que a questão não foi analisada pelo tribunal de origem à luz dos arts. 392, 443 e 521 do Decreto n. 3.000/99; 28 da Lei n. 9.430/96; e 43 do Código Tributário Nacional; e 44, IV, da Lei n. 4.506/64.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Por outro lado, ao julgar os EREsp n. 1.517.492/PR, da minha relatoria (acórdão pendente de publicação), a 1ª Seção deste Superior Tribunal assentou a inviabilidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e do CSLL, porquanto entendimento contrário sufragaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou.
+Nessa linha:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ICMS. CRÉDITOS PRESUMIDOS CONCEDIDOS A TÍTULO DE INCENTIVO FISCAL. INCLUSÃO NAS BASES DE CÁLCULO DO IMPOSTO SOBRE A RENDA DA PESSOA JURÍDICA - IRPJ E DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. INVIABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - Ao julgar os EREsp n. 1.517.492/PR, da minha relatoria (acórdão pendente de publicação), a 1ª Seção deste Superior Tribunal assentou a inviabilidade de inclusão do crédito presumido de ICMS nas bases de cálculo do IRPJ e do CSLL, porquanto entendimento contrário sufragaria a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal que o Estado-membro, no exercício de sua competência tributária, outorgou.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1671906/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 15/12/2017).
+Isto posto, com fundamento no art. 1.021, § 2º, do CPC/15, RECONSIDERO a decisão de fls. 381/384e, restando, por conseguinte, PREJUDICADO o agravo interno de fls. 390/94e; e, com fundamento nos arts. 932, III e IV, do Código de Processo Civil de 2015 e 34, XVIII, a e b, e 255, I e II, do RISTJ, CONHEÇO EM PARTE do Recurso Especial e NEGO-LHE PROVIMENTO.
+Publique-se e intimem-se.
