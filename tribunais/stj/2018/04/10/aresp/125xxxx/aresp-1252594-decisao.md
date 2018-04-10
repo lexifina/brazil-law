@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 640):
+DESAPROPRIAÇÃO - Laudo oficial, adotado pela r. sentença, que há de ser prestigiado, pois reflete a justa indenização  A base de cálculo dos juros compensatórios há de considerar os valores já depositados antes da imissão na posse (inicial e complementação)  Apelação parcialmente provida.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 26 do Decreto-Lei nº 3.365/41. Para tanto, sustenta que "o valor indenizatório deve tomar por base a data da avaliação realizada pelo perito judicial para confecção do laudo prévio, no caso, junho/2012, tendo como objetivo se aproximar ao máximo do valor que o imóvel seria comercializado entre particulares, caso não fosse objeto de desapropriação pelo Poder Público" (fl. 660). Em acréscimo, argumenta que "imprescindível se faz excluir da investigação do mercado imobiliário possíveis situações atípicas ou especiais que possam influenciar os dados pesquisados, como é o caso do Rodoanel Mário Covas, uma das maiores obras de infraestrutura já realizada no país" (fl. 661).
+É o relatório.
+Ao solucionar a controvérsia, o Tribunal a quo decidiu (fls. 643/644):
+A perícia atendeu à norma do artigo 26 do Decreto-Lei nº 3.365/41, segundo a qual o valor da indenização deve ser contemporâneo à avaliação (tratando a lei, por óbvio, da chamada avaliação definitiva, porquanto a preliminar decorre de construção jurisprudencial), não cuidando a apelante de trazer qualquer elemento apto a excepcionar a regra , informação da qual se pudesse pelo menos inferir que a obra proporcionou valorização ao imóvel.
+Como se vê, o acórdão recorrido está em sintonia com a jurisprudência deste Superior Tribunal, cujo entendimento assevera que a inteligência do art. 26 do Decreto-Lei nº 3.365/1941 estabelece que o valor da indenização por desapropriação deve ser contemporâneo à avaliação judicial. Por oportuno, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. OFENSA AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. INDENIZAÇÃO. JUSTO VALOR. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. DESCUMPRIMENTO DOS REQUISITOS LEGAIS.
+ ..
+5. O STJ entende que, em regra, o valor da indenização será contemporâneo à data da perícia. Precedentes: AgRg no AgRg no REsp 1.195.011/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 14/2/2011; AgRg no REsp 1438111/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 21/05/2014; AgRg no AREsp 329.936/CE, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 13/11/2013).
+ ..
+9. Recurso Especial conhecido parcialmente e, nessa parte, não provido.
+(REsp 1.661.943/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA,DJe 13/9/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. LAUDO PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. MOMENTO DA AVALIAÇÃO JUDICIAL.
+ ..
+2. A revisão da conclusão a que chegou o Tribunal de origem sobre o valor do imóvel auferido pela perícia judicial demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+3. A orientação jurisprudencial firmada no STJ é no sentido de que, em regra, o valor da justa indenização deve ser contemporâneo à avaliação judicial, tendo em vista que o laudo inicial se reportou ao preço de mercado à época em que confeccionado.
+4. Agravo interno não provido.
+(AgInt no REsp 1.400.296/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 29/5/2017)
+Lado outro, não se cogita a possibilidade de se mitigar a regra de que a indenização por desapropriação deve ser contemporânea à data da perícia judicial, ao argumento de que o imóvel teria sofrido excepcional valorização entre a avaliação preliminar e a definitiva, pois inexiste no acórdão recorrido elementos capazes de indicar que o incremento no preço do bem expropriado tenha decorrido de melhorias implementadas pelo expropriante, de modo que a revisão do acórdão recorrido, no particular, demandaria, necessariamente, o reexame de matéria fática, o que é vedado na estreita via do especial, nos termos da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
