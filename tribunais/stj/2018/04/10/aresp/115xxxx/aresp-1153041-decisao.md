@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do CPC/2015) interposto por USINA SANTA RITA S.A. AÇÚCAR E ÁLCOOL e USINA MARINGÁ INDÚSTRIA E COMÉRCIO LTDA. contra decisão que não admitiu recurso especial (fl. 144, e-STJ).
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 108, e-STJ):
+EMBARGOS À EXECUÇÃO. Instrumento contratual subscrito por duas testemunhas. Título executivo por for força de lei, hábil a embasar a ação de execução. Mora. Notificação. Desnecessidade. Obrigação contraída com prazo determinado para cumprimento. Sentença mantida. Recurso improvido.
+Nas razões do recurso especial (fls. 111-121, e-STJ), as insurgentes apontaram violação dos arts. 783 e 803 do CPC/2015. Sustentaram, em síntese, que " ..  Ausentes os requisitos do artigo 783 do NCPC, a execução é nula (art. 803 NCPC) e deve ser extinta (fl. 118, e-STJ).
+Contrarrazões apresentadas (fls. 136-143, e-STJ).
+Em juízo de admissibilidade, negou-se seguimento ao reclamo. Daí o presente agravo, buscando destrancar o processamento daquela insurgência.
+Contraminuta apresentada (fls. 155-158, e-STJ).
+É o relatório.
+Decido.
+1. Na hipótese, o Tribunal de origem, com amparo nos elementos de prova constantes dos autos, negou provimento ao recurso, pois concluiu tratar-se de título executivo extrajudicial hábil a instrução da execução. É o que se extrai do seguinte excerto do aresto recorrido (fls. 108-109, e-STJ):
+Ingressou o Banco com ação de execução fundada em instrumento contratual de confissão de dívida subscrito por duas testemunhas, datado de 01/11/2011 da qual os apelantes figuram como devedores solidários. A dívida, na ocasião, tinha o valor de R$ 14.112.864,39, com vencimento para 03 anos após da data da celebração, isto é, em 01/11/2014.
+Aludido instrumento contratual é título executivo extrajudicial nos termos do art. 585, inciso II, do CPC/73 (atual art. 784, inciso III, do CPC/15), sendo hábil a instruir a execução.
+No que diz respeito à mora, aqui, ela não estava vinculada à notificação dos embargantes/executados, uma vez que a obrigação contraída, além de líquida e certa, tinha prazo determinado ser cumprida. Como salientado pelo MM. Juiz, findo o prazo sem seu cumprimento, automaticamente o devedor é constituído em mora.
+Desse modo, para superar as premissas em que se apoiou o Tribunal de origem, a fim de concluir que " ..  O documento sobre o qual se funda a ação executiva, embora revestido dos requisitos de título executivo extrajudicial,não preenche os requisitos do artigo 783 do NCPC, portanto nula" (fl. 119, e-STJ), como requerem as recorrentes em suas razões do recurso especial, revelar-se-ia imprescindível a incursão no acervo fático-probatório dos autos, providência inviável no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DO ART. 535, I e II, DO CPC/1973. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. COISA JULGADA. REDISCUSSÃO DE MATÉRIA. IMPOSSIBILIDADE. TÍTULO EXECUTIVO EXTRAJUDICIAL. REQUISITOS. SÚMULA Nº 7/STJ. PRESCRIÇÃO INTERCORRENTE. SÚMULAS NºS 5 E 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional na hipótese em que o Tribunal de origem indica adequadamente os motivos do convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese. 2. Inexiste o vício de contradição quando os argumentos apresentados no acórdão recorrido guardam coerência lógica, demonstrando, ainda, a compatibilidade entre os fundamentos e a solução dada à questão litigiosa.
+3. A coisa julgada não impede apenas a propositura de ação idêntica após o trânsito em julgado, mas a discussão, por qualquer via (ação ou defesa), do resultado proferido em demanda anterior. Precedentes.
+4. O acolhimento da pretensão recursal sobre a existência de liquidez, certeza e exigibilidade do título executivo extrajudicial demandaria o reexame de matéria fática e das demais provas constantes dos autos, atraindo o óbice da Súmula 7/STJ.
+5. A discussão sobre o prazo prescricional aplicável à hipótese reclama a apreciação da natureza jurídica e do objeto do contrato (móveis/imóveis), encontrando obstáculo nas Súmulas nºs 5 e 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 628.985/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017)  grifou-se .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. LIQUIDEZ E EXIGIBILIDADE DO TÍTULO RECONHECIDOS PELAS INSTÂNCIAS ORDINÁRIAS. ALTERAÇÃO DO ENTENDIMENTO. INVIABILIDADE. SÚMULA 7 DO STJ. EXCESSO DE EXECUÇÃO. ALEGAÇÃO GENÉRICA SEM A INDICAÇÃO DO VALOR SUPOSTAMENTE CORRETO. SÚMULA 284 DO STF. REEXAME DE MATÉRIA FÁTICA E PROBATÓRIA. REDIMENSIONAMENTO DOS HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7/STJ. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. A sentença foi mantida pelo Tribunal de origem sob o fundamento de que estariam presentes os requisitos de liquidez e exigibilidade do título. A alteração do entendimento esposado pelas instâncias ordinárias quanto aos requisitos do título executivo implicaria a revisão do substrato probatório, o que é inviável em sede de recurso especial, pela Súmula 7/STJ.
+2. Quanto ao excesso de execução, o acórdão recorrido está em sintonia com a jurisprudência desta Corte no sentido de que a alegação deve vir acompanhada do valor que a parte insurgente entende ser devido. "A alegação genérica de excesso de execução, sem correlação com as exatas disposições do título executivo e com as particularidades do caso concreto, atrai a incidência da Súmula 284/STF" (AgRg no AREsp 547.340/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/09/2014, DJe de 30/09/2014).
+3. "O redimensionamento dos ônus sucumbenciais, também impõe incontornável reexame dos aspectos fáticos da lide, o que encontra, novamente, óbice na Súmula n. 7/STJ" (AgRg no Ag 1.400.243/SP, Rel.
+Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 16/02/2016).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 284.574/PE, Rel. Ministro LÁZARO GUIMARÃES, DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017)  grifou-se .
+2. Do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/2015, majoro em 1% (um por cento) o valor dos honorários advocatícios arbitrados na origem (fl. 77, e-STJ).
+Publique-se.
+Intimem-se.
