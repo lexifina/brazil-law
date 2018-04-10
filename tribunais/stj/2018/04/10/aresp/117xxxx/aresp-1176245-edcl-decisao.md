@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO NORDESTE DO BRASIL, contra a decisão de fls. 327/328, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que:
+"É que, consoante se verifica da r. Decisão Embargada, esse Ilustre Ministra, data vênia, equivocadamente, de forma contraditória, que a parte Recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. [NOME], no entanto é pacifica a jurisprudência que a responsabilidade de remeter o processo em sua integralidade para o STJ pertence ao Tribunal de origem, ainda mais em se tratando dos autos digitais".
+ ..
+ ..  "o único responsável pela remessa de todas as peças que compõe o processo objeto do presente Recurso Especial é o Tribunal de Justiça do Estado de Sergipe, não havendo nenhuma responsabilidade por parte do Recorrente em enviar documento de representação processual.
+Conforme possível verificar nos autos de nº 201310101756 que originaram o Recurso Especial interposto, nas fls. 98, consta procuração nomeando o Dr. [NOME] como representante legal da Recorrente, não havendo assim razão para se falar em irregularidade na representação processual." (fls. 332/333).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, os agravantes no momento da interposição do agravo, não procederam à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do recurso especial e do agravo, Dr. [NOME].
+Veja que mesmo após a intimação para regularizar a representação (fl. 322), eles não o fizeram, deixando o prazo transcorrer in albis (fl. 324). Assim, correta a decisão que não conheceu do recurso pela aplicação da Súmula n.º 115/STJ.
+Ademais, se porventura a procuração constava nos autos "que originaram o recurso especial," cabia à parte juntar cópia ou novo instrumento aos autos onde pretendia interpor o recurso. A responsabilidade pelo traslado do instrumento é da parte, não do tribunal. Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PARADIGMA PROFERIDO PELA MESMA TURMA DO ACÓRDÃO EMBARGADO NÃO SE PRESTA À CONFIGURAÇÃO DO DISSÍDIO JURISPRUDENCIAL.
+JURISPRUDÊNCIA PACÍFICA. SÚMULA 168/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "Segundo a jurisprudência da Corte Especial deste Superior Tribunal de Justiça, não se presta à configuração do dissídio jurisprudencial, viabilizador dos embargos de divergência, aresto prolatado pela mesma Turma que julgou o acórdão embargado". (AgInt nos EAREsp 777.815/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 15/06/2016, DJe 29/06/2016).
+2. Não prospera a pretensão recursal, na medida em que o acórdão embargado decidiu no mesmo sentido da jurisprudência desta Corte, pois que a procuração juntada em outro processo conexo ou incidental, não apensado, não produz efeito em favor do recorrente neste Tribunal Superior. O entendimento uniforme é de que cabe ao recorrente diligenciar, nos autos do recurso a ser julgado nesta Corte, a regularidade da representação processual mediante a juntada do respectivo instrumento de mandato e da cadeia de substabelecimentos existente, passada ao subscritor da peça recursal. Sem isso, não se pode, de fato, conhecer do recurso.
+3. In casu, incide a Súmula 168 do STJ, segundo a qual "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+4. Agravo interno a que se nega provimento" (AgInt nos EAREsp 416.557/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/09/2016, DJe 07/10/2016.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
