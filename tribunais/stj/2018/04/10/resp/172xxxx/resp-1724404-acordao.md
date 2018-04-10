@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL E ADMINISTRATIVO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. CONSELHO REGIONAL DE CORRETORES DE IMÓVEIS. COBRANÇA DE ANUIDADES ANTERIORES À ENTRADA EM VIGOR DA LEI 12.514/2011. FATO GERADOR. EFETIVO EXERCÍCIO PROFISSIONAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+1. Conquanto o STJ tenha o entendimento de que o fato gerador da obrigação em debate é o registro no conselho profissional, em face do disposto no art. 5º da Lei 12.514/2011, tal posicionamento é de ser adotado a partir da entrada em vigor da referida lei. Nos períodos anteriores, como o caso presente, em que se discute a cobrança das anuidades relativas às competências de 2007, 2008 e 2009, considera-se como fato gerador o efetivo exercício profissional. Precedente: REsp 1.387.415/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe de 11.3.2015.
+2. In casu, verifica-se que o acórdão impugnado inobservou a exegese da legislação federal, conforme acima definido, motivo pelo qual a pretensão recursal deve ser acolhida. Isso não significa, entretanto, que a hipótese é de reforma do julgado. Com efeito, o provimento da pretensão recursal acarreta a necessidade de devolução dos autos à origem, para que nova decisão seja proferida, respeitadas as premissas acima estabelecidas à luz dos elementos probatórios dos autos.
+3. Recurso Especial parcialmente provido determinando a devolução os autos à origem.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, deu parcial provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 2ª Região cuja ementa é a seguinte (fl. 120, e-STJ):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO FISCAL. CONSELHO REGIONAL DE CORRETORES DE IMÓVEIS. CRECI. COBRANÇA DE ANUIDADES ANTERIORES A PEDIDO DE BAIXA DE INSCRIÇÃO. EXECUÇÃO AJUIZADA EM 2010. ART. 8º DA LEI 12.514/2011 NÃO APLICÁVEL AO CASO CONCRETO.
+I - No caso dos Conselhos Regionais de Corretores de Imóveis, não se verifica, na cobrança de anuidades a partir do exercício de 2004, violação ao princípio da legalidade, em razão das alterações promovidas pela Lei 10.795/2003 na redação do art. 16 da Lei 6.530/78, que passou a prever os limites máximos para a sua fixação e atualização.
+II - O pagamento das anuidades é decorrente da inscrição no respectivo conselho e não depende do efetivo exercício da profissão. Para eximir-se da obrigação, cabe ao interessado solicitar o cancelamento de seu registro, junto ao Conselho, devendo observar as exigências legais cabíveis, sob pena de vir a arcar com os prejuízos decorrentes da própria inércia. No caso em tela, a embargante somente requereu o cancelamento de sua inscrição somente em 11/10/2012, conforme documento juntado às fls. 13, portanto, quando já vencidas todas as anuidades objeto da cobrança (2007, 2008 e 2009) e em data posterior à distribuição da ação de execução fiscal, ocorrida em 15/12/2010.
+III - Consoante já decidiu o Colendo Superior Tribunal de Justiça, em sede de recurso repetitivo, que "o art. 8º da Lei 12.514/2011, segundo o qual "Os Conselhos não executarão judicialmente dívidas referentes a anuidades inferiores a 4 (quatro) vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente", é inaplicável às execuções ficais propostas antes da vigência do referido diploma legal" (REsp nº 1.404.796-SP - Rel. Min. MAURO CAMPBELL MARQUES - j. em 26/3/2014), sendo certo que a execução fiscal que deu ensejo aos presentes embargos foi ajuizada em 2010, antes, portanto, da vigência da Lei 12.514/2011.
+IV - Apelação desprovida.
+A recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 1º da Lei 6.530/1978 e 884 do Código Civil de 2002. Pugna pelo reconhecimento da inexigibilidade do crédito exequendo, tendo em vista que, no seu entendimento, não ficou configurado o fator gerador das anuidades anteriores a 2011 (Lei 12.514/2011), qual seja, o efetivo exercício da profissão.
+Contrarrazões apresentadas às fls. 170-181, e-STJ.
+O recurso foi inadmitido na origem. Para melhor análise da controvérsia, foi dado provimento ao Agravo para determinar sua conversão em Recurso Especial.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 21.2.2018.
+Merece parcial acolhimento o recurso.
+O Tribunal de origem, no enfrentamento da matéria, consignou (fl. 119, e-STJ):
+Por fim, vale esclarecer que o pagamento das anuidades é decorrente da inscrição no respectivo conselho e não depende do efetivo exercício da profissão. Para eximir-se da obrigação, cabe ao interessado solicitar o cancelamento de seu registro, junto ao Conselho, devendo observar as exigências legais cabíveis, sob pena de vir a arcar com os prejuízos decorrentes da própria inércia.
+(..)
+Conquanto o STJ tenha o entendimento de que o fato gerador da obrigação em debate é o registro no conselho profissional, em face do disposto no art. 5º da Lei 12.514/2011, tal posicionamento é de ser adotado a partir da entrada em vigor da referida lei. Nos períodos anteriores, como o caso presente, em que se discute a cobrança das anuidades relativas às competências de 2007, 2008 e 2009, considera-se como fato gerador o efetivo exercício profissional.
+Nesse sentido, confira-se o seguinte precedrente:
+TRIBUTÁRIO. CONSELHO REGIONAL DE ENFERMAGEM. ANUIDADES. PERÍODO ANTERIOR À VIGÊNCIA DA LEI N. 12.514/2011. FATO GERADOR. EXERCÍCIO PROFISSIONAL.
+1. A jurisprudência desta Corte tem entendimento firmado no sentido de que, nos termos do art. 5º da Lei n. 12.514/2011, o fato gerador para cobrança de anuidades de conselho de fiscalização profissional é o registro, sendo irrelevante o exercício da profissão.
+2. Em período anterior à vigência da Lei n. 12.514/2011, o fato gerador da obrigação tributária era o exercício profissional e não a filiação ao conselho profissional.
+3. Reconhecido pelo Tribunal de origem que a executada não exercia a profissão, tem-se por afastada a cobrança.
+4. Recurso especial a que se nega provimento.
+(REsp 1387415/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe de 11/3/15).
+In casu, verifica-se que o acórdão impugnado inobservou a exegese da legislação federal, conforme acima definido, motivo pelo qual a pretensão recursal deve ser acolhida. Isso não significa, entretanto, que a hipótese é de reforma do julgado. Com efeito, o provimento da pretensão recursal acarreta a necessidade de devolução dos autos à origem, para que nova decisão seja proferida, respeitadas as premissas acima estabelecidas à luz dos elementos probatórios dos autos.
+Ante o exposto, dou parcial provimento ao Recurso Especial, determinando a devolução dos autos à origem.
+É como voto.
