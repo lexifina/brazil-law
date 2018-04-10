@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. ANÁLISE DA ATIVIDADE DESENVOLVIDA PELA EMPRESA. CEREALISTA OU AGROINDUSTRIAL. AFERIÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 351):
+LEI Nº 10.925, DE 2004. ARTIGO 8º. CRÉDITO PRESUMIDO DE PIS E COFINS. PESSOA JURÍDICA CEREALISTA.
+O contribuinte pessoa jurídica da espécie "cerealista que exerça cumulativamente as atividades de limpar, padronizar, armazenar e comercializar os produtos in natura de origem vegetal classificados nos códigos 09.01, 10.01 a 10.08, exceto os dos códigos 1006.20 e 1006.30, e 18.01, todos da Nomenclatura Comum do Mercosul - NCM", não faz jus aos créditos presumidos de PIS e COFINS de que trata o art. 8º, caput, da Lei nº 10.925, de 2004, por expressa disposição do § 4º do mesmo artigo.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 8º da Lei nº 10.925/2004, sustentando que preenche todas as condições para fazer jus ao crédito presumido da Cofins/PIS.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 444.
+É o relatório. Passo a decidir.
+O Tribunal de origem, em suas razões de decidir, consignou que (fls. 325):
+ ..
+"No caso dos autos, a impetrante é cerealista, uma vez que, conforme noticia na inicial, ela adquire - de produtores rurais - matéria-prima alimentar (grãos em estado bruto) ou alimento in natura (grãos in natura), e, após eventual beneficiamento mediante processo que compreende "cumulativamente as atividades de limpar, padronizar e armazenar", vende não produto alimentício (como é próprio das agroindústrias), mas sim alimento in natura (grãos in natura de trigo, milho e soja, ou seja, produtos de origem vegetal classificados nos códigos 10.01, 10.05 e 12.01 da Nomenclatura Comum do Mercosul - NCM). A impetrante, portanto, no âmbito do sistema desonerativo da Lei nº 10.925, de 2004, é beneficiada com a venda dos seus grãos com a suspensão da incidência das contribuições (art. 9º, I), e está impedida, dessarte, de deduzir crédito presumido na forma do caput do art. 8º, por expressa disposição do § 4º, I, do mesmo artigo."
+ ..
+Na espécie, rever o entendimento firmado pelo Tribunal de origem, quanto ao enquadramento da recorrida como empresa agroindustrial, demandaria reexame de aspectos fático-probatórios da causa e tal providência não é admissível no âmbito do recurso especial, consoante diretriz firmada na Súmula 7 do Superior Tribunal de Justiça: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nessa linha de entendimento, confira-se o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. RESSARCIMENTO/COMPENSAÇÃO DE CRÉDITO PRESUMIDO DE PIS/COFINS. ARTS. 8º DA LEI Nº 10.925/2004 E 56-A DA LEI Nº 12.350/2010. ANÁLISE DA ATIVIDADE DESENVOLVIDA PELA EMPRESA. CEREALISTA OU AGROINDUSTRIAL. AFERIÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. O cerne da pretensão recursal da FAZENDA NACIONAL diz respeito ao enquadramento da empresa autora no sentido de que ela seria cerealista, não lhe sendo possível o aproveitamento do crédito presumido de PIS/COFINS previsto no art. 8º da Lei nº 10.925/2004, nos termos do § 4º do referido dispositivo, assim, por não ter direito ao crédito presumido, também não teria direito à compensação/ressarcimento dos referidos créditos apurados a partir do ano-calendário de 2006 autorizada pelo art. 56-A da Lei nº 12.350/2010.
+2. Conforme se depreende do acórdão recorrido, foi reconhecida a condição de agroindustrial da empresa, e não de cerealista.
+Confira-se, in verbis (fls. 483 e-STJ): "Conforme o Estatuto Social anexado ao presente feito, a impetrante tem por objetivos sociais, entre outros "a produção, beneficiamento, padronização, amazenamento, comercialização, registro, importação e exportação de sementes fiscalizadas" (Evento 1, ESTATUTO3). (..) Como se vê, a atividade desenvolvida pela impetrante não se enquadra no conceito previsto no artigo 8º, §1º, inciso I, da Lei nº 10.925/04, haja vista que as mercadorias exportadas pela contribuinte são adquiridas no mercado interno e passam por um processo de beneficiamento que caracteriza processo industrial, ao modificar, aperfeiçoar e beneficiar o produto vendido (..)".
+3. Não é possível a esta Corte rever o acórdão recorrido no que tange ao enquadramento fático da situação ensejadora do crédito presumido de PIS/COFINS na hipótese, de modo a caracterizar a empresa como cerealista e não como agroindustrial, uma vez que o Tribunal Regional é soberano em relação à análise da situação fático-probatória dos autos. Rever tais aspectos em sede de recurso especial encontra óbice no teor da Súmula nº 7 do STJ, in verbis: "A pretensão de simples reexame de provas não enseja recurso especial".
+4. Agravo interno não provido.
+(AgInt no REsp 1637153/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/10/2017, DJe 30/10/2017)
+No mesmo sentido: RESP 1.649.161/RS, Relatora Ministra Regina Helena Costa, DJe 28/3/2017; RESP 1.652.917/RS, Relatora Ministra Regina Helena Costa, DJe 16/3/2017; AgInts. nos Resps ns. 1.654.190/PR e 1.670.772/RS, de relatoria do Ministro Napoleão Nunes Maia Filho, julgados em 13.3.18, acórdãos ainda pendentes de publicação.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
