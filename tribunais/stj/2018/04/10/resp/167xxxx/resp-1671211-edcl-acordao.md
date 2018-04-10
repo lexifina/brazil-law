@@ -1,0 +1,68 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. RECURSO ESPECIAL. REDISCUSSÃO DA LIDE. INADMISSIBILIDADE. RECURSO PROTELATÓRIO. REJEIÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão.
+2. A reiteração de fundamento anteriormente refutado, com base em entendimento uniformizado, demonstra o caráter protelatório do recurso.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente) e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com a Sra. Ministra Relatora.
+Ausentes, justificadamente, os Srs. Ministros Marco Buzzi e Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de embargos de declaração opostos por LUMINA PARTICIPAÇÕES E AQUISIÇÕES LTDA, em face do acórdão de fl. 1.313, assim ementado:
+AGRAVO INTERNO. RECURSO ESPECIAL. CESSÃO DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA E EMPRESA DE TELEFONIA. COMPETÊNCIA. ART. 100, "D", DO CÓDIGO DE PROCESSO CIVIL/1973. SÚMULA 83/STJ. NÃO PROVIMENTO.
+1. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+2. Agravo interno a que se nega provimento
+A embargante alega omissão e contradição, afirmando que "as obrigações foram assumidas com a TELEPAR" (fl. 1.317), sendo "aplicável o art. 53, III, "b" do CPC/15, o que conduz a conclusão de que o foro competente para processar e julgar a demanda é o da Comarca de Curitiba-PR" (fl. 1.317).
+Requer, outrossim, a retratação desta Relatora ou o provimento do recurso pelo órgão colegiado.
+Impugnação de OI S.A., às fls. 1.322/1.331, pela rejeição dos embargos.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A irresignação não merece acolhida.
+O acórdão embargado analisou detidamente as razões do recurso especial, nos seguintes termos. Confiram-se (fls. 1.306/1.311):
+O agravo não merece provimento.
+Os argumentos jurídicos trazidos nas razões do agravo interno não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida (fls. 1.231/1.235):
+Trata-se de recurso especial interposto por LUMINA PARTICIPAÇÕES E AQUISIÇÕES LTDA, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 1.025):
+AGRAVO DE INSTRUMENTO. ADIMPLEMENTO CONTRATUAL. EXCEÇÃO DE INCOMPETÊNCIA. CESSÃO DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA E EMPRESA DE TELEFONIA. CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA. COMPETÊNCIA DE REGRA ESPECIAL DO LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO. PRECEDENTE DO STJ. RECURSO PROVIDO.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 1.073/1.080).
+Nas razões do especial, a recorrente alega violação dos arts. 2º e 101, I, do Código de Defesa do Consumidor; 94, caput, e § 1º, e 100, IV, "a" e "d", do Código de Processo Civil/1973 (arts. 46, caput, § 1º, e 53, III, "a" e "d", do Código de Processo Civil/2015), bem como dissídio jurisprudencial. Afirma que aplicável, ao caso, o Código de Defesa do Consumidor, tendo em vista tratar-se de "hipótese inequívoca de existência de contrato de adesão entre as partes" (fls. 1.092/1.093). Acrescenta que é "faculdade da parte autora a escolha de um dentre os distintos domicílios do réu, quando houver mais de um " (fl. 1.104); e que a "regra geral de que o réu seja demandado em seu domicílio (art. 46, caput, do CPC) (..), não pode prejudicar (..) que o Autor exerça (..) o seu direito de ação (46, § 1º, CPC)" (fl. 1.104).
+Passo a decidir.
+A Corte Estadual, ao julgar o agravo, assim se pronunciou (fls. 1.040):
+(..) para a cessionária de contratos de participação financeira que busca o adimplemento contratual dos pactos adquiridos, não incidem as regras dispostas no CDC, mas o disposto no artigo 100, IV, "d" do CPC, que determina o ajuizamento da demanda no local onde a obrigação deverá ser adimplida, se procedente o pedido, ou seja, somente na sede da pessoa jurídica demandada.
+O entendimento acima disposto encontra-se em consonância com a atual jurisprudência desta Corte, no sentido de que descaracterizada a relação de consumo em caso de cessionário de grande número de contratos. Confira-se:
+PROCESSUAL CIVIL, CIVIL E CONSUMIDOR. RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. AÇÃO DE ADIMPLEMENTO CONTRATUAL OBJETIVANDO A SUBSCRIÇÃO DE AÇÕES POR CESSÃO DE DIREITO. CESSIONÁRIO DE MILHARES DE CONTRATOS DE PARTICIPAÇÃO FINANCEIRA. DESMEMBRAMENTO DOS DIREITOS DOS CEDENTES. CONDIÇÕES PERSONALÍSSIMAS DO CEDENTE QUE NÃO SE TRANSFEREM AO CESSIONÁRIO. QUALIDADE DE CONSUMIDOR. HIPOSSUFICIÊNCIA. INAPLICABILIDADE DAS REGRAS DO CDC PARA A DEFINIÇÃO DE COMPETÊNCIA.
+1. A jurisprudência do STJ é firme em reconhecer a existência de relação de consumo nos contratos para aquisição de linha telefônica com cláusula de investimento em ações, haja vista que o contrato de participação financeira está atrelado diretamente aos serviços de telefonia.
+2. Na hipótese, o recorrente é cessionário de milhares de contratos de participação financeira e pleiteia, como ele mesmo afirma em sua inicial, "todas as diferenças havidas entre as ações entregues e as que deveriam à época terem sido, bem como todos os direitos e desdobros decorrentes dos eventos societários a que se submeteu a Companhia", tendo o acórdão recorrido asseverado que o mesmo adquiriu o direito de pleitear as ações "na qualidade de investidor" e não para "se utilizar pessoalmente dos serviços fornecidos pela empresa de telefonia".
+3. Assim, houve desmembramento dos direitos dos cedentes, tendo ocorrido cessão parcial apenas daqueles referentes às diferenças entres as ações subscritas, mantidos os direitos de uso dos serviços de telefonia pelos compradores originários. Portanto, desvinculando-se os serviços de telefonia da pretensão deduzida, não há falar em incidência dos ditames do código do consumidor e, por conseguinte, das regras conferidas especialmente ao vulnerável destinatário final. É que a mera cessão dos direitos à participação acionária acabou por afastar justamente a relação jurídica base - uso do serviço de linha telefônica - que conferia amparo à incidência do código protetor, por ser o comprador destinatário final dos referidos serviços de telefonia.
+4. Ademais, é bem de ver que há condições personalíssimas do cedente que, apesar de não impedirem a cessão, não serão transferidas ao cessionário caso ele não se encontre na mesma situação pessoal daquele. De fato, a pessoa do credor, suas qualidades pessoais, muitas vezes possuem tamanha relevância para as condições do crédito ou para determinado tratamento peculiar que, embora não seja obstáculo para a cessão e troca da titularidade jurídica, limitará, a certo ponto, a transmissão dos acessórios que estejam diretamente vinculados a ele, é claro, desde que também não se reflitam como qualidades do cessionário.
+5. No caso, o recorrente ajuizou ação objetivando adimplemento contratual em seu domicílio - Florianópolis, Santa Catarina - por ser cessionário de milhares de contratos de participação financeira de consumidores de serviços de telefonia. Ocorre que não há falar em cessão automática da condição personalíssima de hipossuficiente do consumidor originário ao cessionário para fins de determinação do foro competente para o julgamento. Deverá o magistrado, isto sim, analisar as qualidades deste para averiguar se o mesmo se encontra na mesma situação pessoal do cedente. Assim, afastando-se a qualidade de consumidor dos cedentes, principalmente quanto a sua hipossuficiência - condição personalíssima -, há de se aplicar, no tocante ao cessionário dos contratos de participação financeira, as regras comuns de definição do foro de competência.
+6. A reapreciação da controvérsia, para infirmar a existência de conexão, tal como lançada nas razões do recurso especial, demandaria o revolvimento do conjunto fático-probatório dos autos, o que é vedado nos termos da Súmula 7 do STJ. Precedentes.
+7. Recurso especial a que se nega provimento.
+(REsp 1266388/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/12/2013, DJe 17/02/2014)
+Dessa forma, afastada a relação de consumo entre as partes litigantes, não há que se falar em aplicação do art. 46, § 1º, do Código de Processo Civil/2015 (94, § 1º, do Código de Processo Civil/1973), devendo considerar-se competente para julgar a ação, o local em que pleiteado o cumprimento de obrigação, o foro em que a pessoa jurídica tenha sede ou filial, a depender do local em que assumida a obrigação. Nesse sentido:
+RECURSO ESPECIAL - AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE PRODUTOS AGRÍCOLAS PROMOVIDA NO FORO DO DOMICÍLIO DOS AUTORES DA AÇÃO - EXCEÇÃO DE INCOMPETÊNCIA, DESTINADA A FAZER PREVALECER O FORO ELEITO CONTRATUALMENTE PELAS PARTES - DESACOLHIMENTO PELAS INSTÂNCIAS PRECEDENTES - EM SE TRATANDO DE RELAÇÃO TIPICAMENTE EMPRESARIAL, COMPOSTA, DE UM LADO, POR UMA MULTINACIONAL DO SETOR AGRÍCOLA E, DE OUTRO, POR PRODUTORES RURAIS DE GRANDE PORTE, A CLÁUSULA CONTRATUAL DE ELEIÇÃO DE FORO VOLUNTÁRIA E CONSENSUALMENTE POR ELES AJUSTADA AFIGURA-SE PLENAMENTE HÍGIDA E EFICAZ - RECURSO ESPECIAL PROVIDO. INSURGÊNCIA DA EMPRESA DEMANDADA. Hipótese em que as instâncias ordinárias reconheceram a invalidade da cláusula de eleição de foro, ante a superioridade econômica de um dos contratantes em relação ao outro, reputando competente para conhecer e julgar a ação de rescisão de contrato de compra e venda de produtos agrícolas o foro do domicílio dos autores, comarca em que a empresa ré teria agência ou sucursal, com esteio no artigo 100, IV, "b", do CPC.
+(..)
+2. De acordo com o artigo 100, IV, "b", do CPC, a pessoa jurídica será demandada no domicílio em que situada sua sucursal, desde que as obrigações tenham sido assumidas por esta filial. Não basta, portanto, para efeito de definição de competência, a simples existência de agência ou sucursal em determinada comarca, mas que a contratação sub judice tenha se dado por esta filial, necessariamente. Circunstância, é certo, inocorrente na hipótese dos autos.
+(..)
+6. Recurso especial PROVIDO, para acolher a exceção de incompetência, reputando válida a cláusula de eleição de foro.
+(REsp 1055185/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/04/2014, DJe 07/04/2014)
+AGRAVO DE INSTRUMENTO EM EXCEÇÃO DE INCOMPETÊNCIA. DECISÃO INTERLOCUTÓRIA PROFERIDA POR JUÍZO FEDERAL. CAUSA EM QUE SÃO PARTES ESTADO ESTRANGEIRO E PESSOA JURÍDICA DOMICILIADA NO BRASIL. COMPETÊNCIA RECURSAL DO SUPERIOR TRIBUNAL DE JUSTIÇA. AÇÃO DE REPARAÇÃO DE DANO. INADIMPLEMENTO CONTRATUAL. FORO COMPETENTE. LUGAR ONDE A OBRIGAÇÃO DEVERIA TER SIDO SATISFEITA (CPC, ART. 100, IV, D). AGRAVO DESPROVIDO.
+(..)
+2. Em se tratando de ação de reparação de danos que tenha por causa de pedir inadimplemento contratual, o foro competente para processamento e julgamento da demanda é o do lugar onde deveria ter-se dado o cumprimento da obrigação, porquanto o pedido de indenização é sucedâneo da obrigação descumprida. A responsabilidade civil, como dever jurídico secundário, surge do descumprimento do dever jurídico primário ou originário. Aplica-se, na espécie, a regra de competência estabelecida no art. 100, IV, d, do Código de Processo Civil, que é especial em relação à regra da alínea a desse mesmo dispositivo legal.
+3. Agravo de instrumento a que se nega provimento.
+(Ag 1431051/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/06/2012, DJe 21/08/2012)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a orientação desta Corte, não há o que se reformar, esbarrando o presente recurso no óbice da Súmula 83/STJ.
+Em face do exposto, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso especial.
+Intimem-se.
+A conclusão adotada pela Corte Estadual encontra-se em harmonia com a jurisprudência deste Superior Tribunal de Justiça, no sentido de que aplicável a regra geral do art. 100, IV, "d", do Código de Processo Civil/1973.
+Em face do exposto, não havendo o que se reformar, nego provimento ao agravo interno.
+É como voto.
+No presente recurso busca-se, em verdade, a modificação do julgado por via sabidamente inadequada, na medida em que os embargos de declaração são recursos de fundamentação vinculada, adstritos à correção dos vícios de omissão, contrariedade, obscuridade ou, ainda, erro material. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FALÊNCIA. IMPONTUALIDADE. TÍTULO EXECUTIVO JUDICIAL.
+EXECUÇÃO FRUSTRADA. DESNECESSIDADE. LIQUIDEZ DO TÍTULO. SIMPLES CÁLCULO ARITMÉTICO PARA INCLUSÃO DO VALOR DOS ENCARGOS E ABATIMENTO DOS PAGAMENTOS PARCIAIS. ACLARATÓRIOS. AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. DESCABIMENTO.
+(..)
+2. Ausentes as hipóteses insertas no art. 535 do CPC, inexistindo omissão, contradição ou obscuridade, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, onde se objetiva rediscutir a causa já devidamente decidida.
+3. Caráter manifestamente protelatório dos embargos de declaração, ensejando a aplicação da multa prevista no artigo 538, parágrafo único, do CPC.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgRg no Ag 1073663/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2011, DJe 16/08/2011)
+Em face do exposto, não configurado vício no julgado ora embargado, rejeito os embargos de declaração.
+É como voto.
