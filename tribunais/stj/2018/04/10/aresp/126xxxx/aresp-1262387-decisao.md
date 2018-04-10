@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Julgamento sob a égide do CPC/2015.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+3. Agravo conhecido. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] SADER e OUTRO contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 12/09/2017.
+Distribuído ao gabinete em: 16/03/2018.
+Ação: de indenização de danos materiais e morais ajuizada por [NOME] SADER e OUTRO em face do ITAU UNIBANCO S/A., na qual se requer o pagamento pelo danos materiais e a compensação pelos danos morais atinentes ao roubo de pertences que estavam depositados no cofre da instituição bancária.
+Sentença: julgou parcialmente procedente os pedidos para condenar a instituição financeira ao pagamento de compensação por danos morais tão somente.
+Acórdão: não conheceu dos agravo retidos e negou parcial provimento às apelações interpostas pelos ora agravantes e pela instituição financeira, conforme ementa abaixo:
+"PROCESSO - Não se conhece do primeiro agravo retido interposto pelos autores, porquanto não foi reiterado.
+PROCESSO - Pelo princípio da unirrecorribilidade, contra cada decisão judicial cabe apenas um único recurso, salvo exceções previstas em lei - Não conhecimento do segundo recurso, em observância ao princípio da unirrecorribilidade.
+RESPONSABILIDADE CIVIL - Como a cláusula limitativa de uso do cofre bancário, que não pode ser havida como abusiva, conforme já decidido pelo Eg. STJ (STJ-3ª Turma, REsp 1163137/SP, rel. Min. Massami Uyeda, v.u., j. 14/12/2010, DJe 03/02/2011), e, na espécie, as partes autoras não comprovaram, ou sequer alegaram, a contratação de seguro nos termos em que exigido pelo contrato de locação de cofre firmado entre as partes, incabível a condenação do banco réu locador de indenizar os autores por danos materiais em montante superior ao limite contratado de R$15.000,00, ainda que os bens armazenados no cofre locado excedessem consideravelmente referido montante.
+DANO MORAL - A subtração de joias de família e outros pertences guardados em cofre de aluguel, fato suficiente demonstrado pela prova constante dos autos, constitui, por si só, fato ensejador de dano moral - Manutenção da r. sentença na parte em que fixou a indenização por danos morais na quantia de R$20.000,00 para cada um dos autores, com incidência de correção monetária a partir da publicação da r. sentença.
+Agravos retidos não conhecidos, e apelações desprovidas." (fl. 695, e-STJ).
+Recurso especial: alega violação dos arts. 6º, VIII, 25, caput, e 51, do CDC e 424 do CC, sustentando, em síntese, a nulidade da cláusula 7 do contrato do cofre particular que limitou o seu uso a objetos até o valor de R$ 15.000,00 e a inversão do ônus da prova para se comprovar a veracidade da existência de joias e de alto valor em dólares nos cofres violados a ensejar o pagamento de indenização requerida.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+1. Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+ A respeito da possibilidade de se anular a cláusula 7 do contrato do cofre particular que limitou o seu uso a objetos até o valor de R$ 15.000,00, assim consignou o acórdão recorrido:
+"(..) são válidas, visto que não abusivas, as cláusulas "7.2" e "7.3" do "Contrato de Locação de Cofre Particular" firmado entre as partes, as quais estabelecem que o locatário: (c.1) não poderia utilizar o cofre locado para colocar bens de valor acima do limite fixado na cláusula "5" do contrato; e (c.2) somente poderia colocar no cofre locado bens cujo valor exceda o limite fixado na cláusula "5" do contrato em caso de contratação prévia de seguro pelo valor excedente; (d) o contrato originário previa a quantia de Cr$ 1.650.750,00, posteriormente convertida, na renovação automática, após o vencimento de 30.06.2011, como limite da soma dos valores dos bens que poderiam ser armazenados no cofre locado pelo locatário, sem contratação de seguro, conforme correspondência juntada a fls. 119; (e) a correspondência juntada aos autos a fls. 119, cujo recebimento não foi impugnado pelos autores no momento apropriado (cf. bem decidido pelo MM Juízo sentenciante a fls. 554), demonstra que o locador era cientificada semestralmente sobre o conteúdo das cláusulas "7.2" e "7.3" do "Contrato de Locação de Cofre Particular" e sobre o limite do valor dos bens que poderiam ser armazenados no cofre locado; e (f) o descumprimento pelos autores das cláusulas "7.2" e "7.3" do contrato, uma vez que estes não comprovaram, ou sequer alegaram, a contratação de seguro nos termos em que exigido pelo contrato de locação de cofre firmado entre as partes, é suficiente para afastar a obrigação do banco réu locador de indenizar os autores por danos materiais em montante superior ao limite contratado de R$15.000,00, ainda que os bens armazenados no cofre locado excedessem consideravelmente referido montante." (fl. 701, e-STJ).
+Logo, alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+2. Do reexame de fatos e provas
+No que pertine à alegação de inversão do ônus da prova a fim de se comprovar a existência de objetos de valor econômico superior ao permitido no contrato pela guarda de bens móveis em cofre bancário, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do CPC/15, tendo em vista que ambas as partes foram sucumbentes nesta sede recursal, mantendo-se a proporção fixada na sentença.
+Publique-se. Intimem-se.
