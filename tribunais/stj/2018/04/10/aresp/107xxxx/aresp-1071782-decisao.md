@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto pelo Município de Guarulhos, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 158):
+APELAÇÃO CÍVEL - Mandado de segurança - IPTU do exercício de 2013.1) Art. 26 da Lei Municipal nº 6.793/10, que repete o disposto no art. 7o da Lei Municipal nº 5.753/01, declarado inconstitucional pelo C. Órgão Especial - Aplicação de alíquotas diferenciadas de acordo com os serviços públicos postos à disposição do contribuinte - Impossibilidade - Serviços que já são remunerados por meio de taxas. 2) Considera-se interposto o recurso oficial - Inteligência do art. 14 da Lei nº 12.016/09 - Sentença mantida - Recursos improvidos.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 128 do CPC/73. Sustenta, em síntese, que ocorreu o julgamento extra petita, tendo em vista que o contribuinte não pleiteou a nulidade total dos lançamentos progressivos, mas tão somente o direito do IPTU ser calculado com base na alíquota de 0,35%.
+Parecer do Ministério Público Federal "pelo não conhecimento do agravo, para que seja negado provimento ao recurso especial" (fls. 198/200).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A matéria pertinente ao art. 128 do CPC/73 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
