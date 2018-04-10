@@ -1,0 +1,50 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MAUS ANTECEDENTES. HABITUALIDADE CRIMINOSA. REGIME FECHADO E NEGATIVA DE SUBSTITUIÇÃO POR RESTRITIVAS. FUNDAMENTO CONCRETO. AUSÊNCIA DE BIS IN IDEM. AGRAVO IMPROVIDO.
+1. O regime prisional fechado não foi estabelecido com base exclusiva nos maus antecedentes, mas também em razão da reiteração criminosa do agravante, que possui ficha criminal com mais de quatro décadas de práticas delitivas.
+2. Não há falar em bis in idem na consideração dos maus antecedentes na primeira fase dosimétrica e da habitualidade criminosa quando da fixação do regime prisional, porquanto entende está Corte Superior que "Ainda que o réu seja primário e todas as circunstâncias judiciais tenham sido favoráveis a ele, a reiteração criminosa justifica a fixação de regime inicial mais gravoso" AgInt no HC 344.686/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/05/2016, DJe 16/05/2016.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão monocrática que negou provimento ao agravo em recurso especial por considerar válida a justificação do regime fechado e inocorrente o alegado bis in idem.
+O agravante reitera os argumentos do recurso especial no sentido de que as condenações anteriores alcançadas pelo período depurador não servem para a fixação do regime mais gravoso e negativa da substituição da pena por restritivas de direitos.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada negou provimento ao agravo em recurso especial, considerando válida a justificação do regime fechado e inocorrente o alegado bis in idem, sob os seguintes argumentos (fls. 399/401):
+"Trata-se de agravo que objetiva o destrancamento de recurso especial interposto com fundamento no art. 105, III, a, da CF, apontando violação ao art. 33, §2º, e art. 44, ambos do Código Penal.
+A decisão de inadmissão do recurso especial foi fundamentada nas Súmulas n. 7 e 83 deste STJ.
+O agravante insiste na possibilidade de conhecimento do apelo nobre, porquanto entende satisfeitos os requisitos de admissibilidade inerentes à via, bem como aduz que não pretende o reexame de provas, mas sim sua revaloração.
+O Ministério Público Federal ofertou parecer pelo não conhecimento do agravo.
+É o relatório.
+DECIDO.
+O agravo em recurso especial é tempestivo e ataca os fundamentos da decisão recorrida, razão pela qual passa-se ao exame do recurso especial.
+Consta dos autos que o recorrente foi condenado como incurso no art. 171, caput do CP, à pena de 1 ano e 8 meses de reclusão, em regime fechado, e 17 dias-multa.
+Sustenta, em síntese, por equivocado "o v. Acórdão ora recorrido quando atribuem ao recorrente a pecha de portador de maus antecedentes com base em condenações cujo lapso temporal entre a extinção de sua punibilidade e a prática de novo ilícito tenha ultrapassado cinco anos" (fl. 341), histórico que não configura a reincidência, todavia, importou em negativa de regime mais brando que o fechado e de substituição por restritivas de direitos.
+Sobre os temas, o Colegiado estadual manifestou-se sob os seguintes argumentos (fls. 321/323):
+" ..  Na primeira fase, segundo os critérios do art. 59, do Código Penal, considerada a personalidade do réu, voltada para as práticas delitivas (extensa folha de antecedentes em apenso), bem como por suas inúmeras condenações anteriores, já transitadas em julgado (fls. 673, 724 e 885 do apenso), mantenho a pena-base em um ano e oito meses de reclusão, e dezessete dias-multa, no mínimo legal.
+Sobre a possibilidade da utilização de condenações anteriores transitadas em julgado como maus antecedentes, mesmo após o período depurador, já se manifestou o C. Superior Tribunal de Justiça:  ..
+Na segunda etapa, não há circunstâncias agravantes ou atenuantes a considerar.
+Na derradeira, inexistem causas de aumento e de diminuição da pena.
+Quanto ao regime de cumprimento da pena, adotando-se os mesmos critérios utilizados na primeira fase de fixação da pena, entendo pela manutenção do inicial fechado, pois, além de ser contumaz na prática do estelionato, o réu em nenhum momento demonstrou ter modificado seu comportamento em decorrência das condenações anteriores. Pelo contrário, demonstrou que faz do crime de estelionato seu meio de vida. Além disto, furtou-se a colaborar para a elucidação dos fatos neste feito e não deu nenhum sinal de que pretenda mitigar os danos sofridos pelas vitimas.
+No mais, melhor sorte não assiste ao apelante quanto ao pleito de substituição da privativa de liberdade por restritivas de direitos, pois se trata de agente audaz na elaboração de esquemas fraudulentos, investigado e processado por diversas vezes pela prática do crime de estelionato; tudo a demonstrar que a medida não se mostra suficiente à expiação do delito. Não.estão preenchidos, portanto, os requisitos previstos no art. 44, III, do Código Penal.
+Aqui, consigno não se tratar de bis in idem, como pretende fazer crer a digna Defesa, o fato de considerar os maus antecedentes e personalidade desvirtuada tanto para a elevação da pena-base, quanto para a fixação de regime mais severo e afastamento das penas alternativas.
+Isso porque, na primeira fase de fixação da reprimenda, referidas circunstâncias balizam a aplicação da pena, conforme o art. 59, inciso I, do Código Penal, enquanto que, ao estabelecer-se o regime de cumprimento, estar-se-á cumprindo o disposto no inciso III do mencionado artigo, c.c. o art. 33, § 21, também do Codex.
+Com relação à substituição da pena, como já exposto, a benesse não se mostra suficiente, não restando preenchida, portanto, a previsão do inciso III, do art. 44, do Código Penal. Aqui, os maus antecedentes e personalidade do agente deve ser tidos como requisitos à substituição da pena e não como meras circunstâncias desfavoráveis.  .. "
+Como se vê, o Colegiado a quo manteve a imposição do regime prisional mais gravoso, não pela consideração única da existência de maus antecedentes, mas pela constatação da habitualidade criminosa do recorrente, "que faz do crime de estelionato seu meio de vida", o que, de fato, se denota do apenso 1 destes autos, cujos registros criminais demonstram a prática reiterada do mesmo delito por mais de quatro décadas, circunstância de revela maior reprovabilidade das condutas do agente, cuja motivação é considerada válida por esta Casa Superior.
+Assente, ademais, a compreensão de que o regime de cumprimento de pena mais gravoso do que a pena comporta pode ser estabelecido, desde que haja fundamentação específica, com base em elementos concretos extraídos dos autos, conforme se verifica na hipótese sob exame, a teor das Súmulas n. 440/STJ e 718 e 719/STF.
+Os mesmos fundamentos, aliás, são suficientes para afastar o benefício da substituição da pena corporal por restritivas de direitos, já que, embora o recorrente não seja reincidente, a medida não se mostra recomendável, diante das circunstâncias concretas do caso, esbarrando na hipótese do inciso III, do art. 44 do CP.
+Vale lembrar que os dispositivos legais que norteiam tanto as regras de fixação do regime prisional como as condições para substituição da pena, consideram como critério preponderante as circunstâncias judiciais avaliadas na dosagem da reprimenda, inexistindo, pois, o alegado bis in idem pelos fundamentos das negativas acima expostas.
+Merece confirmação, portanto, os fundamentos da decisão agravada.
+Ante o exposto, nego provimento ao agravo em recurso especial."
+A despeito da argumentação trazida pelo agravante, o regime prisional fechado não foi estabelecido com base exclusiva nos maus antecedentes, mas também em razão da reiteração criminosa do agravante, que possui ficha criminal com mais de quatro décadas de práticas delitivas.
+De sorte que não há falar em bis in idem na consideração dos maus antecedentes na primeira fase dosimétrica e da habitualidade criminosa quando da fixação do regime prisional, porquanto entende está Corte Superior que "Ainda que o réu seja primário e todas as circunstâncias judiciais tenham sido favoráveis a ele, a reiteração criminosa justifica a fixação de regime inicial mais gravoso" AgInt no HC 344.686/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/05/2016, DJe 16/05/2016.
+Nesse sentido já se posicionou a Quinta Turma, veja-se:
+" ..  PENA. REGIME INICIAL DE CUMPRIMENTO. MODO FECHADO. PRÁTICA RECORRENTE DE CRIMES CONTRA O PATRIMÔNIO. REITERAÇÃO CRIMINOSA. PERICULOSIDADE. FORMA MAIS SEVERA. MANUTENÇÃO JUSTIFICADA. COAÇÃO ILEGAL NÃO VERIFICADA.
+1. Tendo o acórdão impugnado concluído de forma fundamentada quanto ao regime de cumprimento de pena, diante da prática reiterada de crimes contra o patrimônio, reveladora da maior periculosidade do agente envolvido, não há o que se falar em ilegalidade na manutenção do modo fechado para o resgate da sanção.
+2. Habeas corpus parcialmente concedido, apenas para reduzir a pena-base do paciente, em relação ao delito de roubo simples, ao mínimo legalmente previsto, tornando a sua reprimenda definitiva em 4 (quatro) anos de reclusão e pagamento de 10 (dez) dias-multa, mantidos, no mais, a sentença condenatória e o acórdão impugnado.
+(HC 189.668/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/06/2012, DJe 01/08/2012)
+Assim, considerando que o agravante não apresentou qualquer elemento capaz de alterar a conclusão do julgado, mantenho o posicionamento firmado na decisão agravada.
+Ante o exposto, voto por negar provimento ao agravo regimental.
