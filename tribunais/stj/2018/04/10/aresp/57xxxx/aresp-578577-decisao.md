@@ -1,0 +1,29 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. SALÁRIO MATERNIDADE. ART. 55, § 3o. DA LEI 8.213/1991. A CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO COM O RECONHECIMENTO DE TEMPO DE SERVIÇO RURAL EXIGE INÍCIO DE PROVA MATERIAL. A PROVA EXCLUSIVAMENTE TESTEMUNHAL NÃO BASTA PARA A COMPROVAÇÃO DO TRABALHO RURAL. AGRAVO DO SEGURADO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto com fundamento na alínea a do art. 105, III da Constituição Federal, nos qual se insurge contra acórdão proferido pelo Tribunal Regional Federal da 3a. Região que, reformando a sentença, julgou improcedente o pedido de salário maternidade, ao fundamento de que não ficou comprovado o exercício do labor rural.
+2. Em seu Apelo Especial, a recorrente sustenta que o acórdão recorrido merece reforma, argumentando que restou devidamente comprovada a atividade rural, razão pela qual é cabida a concessão do salário maternidade.
+3. É o relatório. Decido.
+4. Da leitura dos autos, o que se verifica é que o acórdão recorrido é claro em reconhecer que não há qualquer prova material nos autos que sirva como prova inicial da atividade rural. Da mesma forma, a sentença não traz qualquer menção a existência de prova material que justifique a concessão do benefício.
+5. De fato, nesta Corte prevalece o entendimento de que a prova exclusivamente testemunhal não basta, para o fim de obtenção de benefício previdenciário, à comprovação do trabalho rural, devendo ser acompanhada, necessariamente, de um início razoável de prova material, nos termos do art. 55, § 3o. da Lei 8.213/1991 e Súmula 149 deste Superior Tribunal de Justiça.
+6. Tal orientação foi consolidada em julgamento de Recurso Especial, representativo da controvérsia, eis a ementa desse julgado:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PREVIDENCIÁRIO. TRABALHADOR RURAL. TEMPO DE SERVIÇO. PROVA EXCLUSIVAMENTE TESTEMUNHAL. IMPOSSIBILIDADE DE RECONHECIMENTO.
+1. Prevalece o entendimento de que a prova exclusivamente testemunhal não basta, para o fim de obtenção de benefício previdenciário, à comprovação do trabalho rural, devendo ser acompanhada, necessariamente, de um início razoável de prova material (art. 55, § 3º, da Lei n. 8.213/91 e Súmula 149 deste Superior Tribunal de Justiça).
+2. Diante disso, embora reconhecida a impossibilidade de legitimar, o tempo de serviço com fundamento, apenas, em prova testemunhal, tese firmada no julgamento deste repetitivo, tal solução não se aplica ao caso específico dos autos, onde há início de prova material (carteira de trabalho com registro do período em que o segurado era menor de idade) a justificar o tempo admitido na origem.
+3. Recurso especial ao qual se nega provimento (REsp. 1.133.863/RN, Rel. Min. CELSO LIMONGI, DJe 15.4.2011).
+7. Corroborando tal orientação, os seguintes julgados:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. TEMPO RURAL RECONHECIDO EM PARTE. REQUISITOS NÃO PREENCHIDOS PARA CONCESSÃO DO BENEFÍCIO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C".
+1. O Tribunal de origem consignou que o período anterior a 1972 não pode ser reconhecido, pois comprovado por prova exclusivamente testemunhal.
+2. A prova exclusivamente testemunhal não é suficiente para a comprovação da condição do trabalhador rural, nos termos do art. 55, § 3o, da Lei 8.213/91, cuja norma foi confirmada pela Súmula 149 do STJ.
+3. O autor não apresentou qualquer prova de que a atividade rurícola era exclusivamente de natureza agropecuária, o que inviabiliza qualquer tentativa de reconhecimento do seu labor como especial.
+4. Verifica-se que a análise da controvérsia demanda o reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+5. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular ao se examinar o Recurso Especial pela alínea "a" do permissivo constitucional.
+6. Agravo Interno não provido (AgInt no AREsp. 928.224/SP, Rel. Min. HERMAN BENJAMIN, DJe 8.11.2016).
+
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. TRABALHO RURAL NÃO RECONHECIDO. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. CONJUNTO PROBATÓRIO INSUFICIENTE. REEXAME DE PROVAS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Nos termos do art. 55, § 3º, da Lei 8.213/1991, para a obtenção de benefício previdenciário de aposentadoria por tempo de serviço com o reconhecimento de tempo de serviço rural, a prova exclusivamente testemunhal não basta para a comprovação do trabalho rural.
+2. No caso, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que o único documento apresentado não era suficiente para comprovar o exercício de labor rural no período pretendido. Assim, modificar o acórdão recorrido, como pretende o recorrente, no sentido de conceder o direito à aposentadoria rural, demandaria o reexame de todo o contexto fático-probatório dos autos, o que é defeso a esta Corte em vista do óbice da Súmula 7/STJ.
+3. Quanto à interposição do recurso especial pela alínea "c", além de o recorrente não ter apresentado a divergência nos moldes legais e regimentais, este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa. Precedentes.
+Agravo regimental improvido (AgRg no AREsp. 857.883/SP, Rel. Min. HUMBERTO MARTINS, DJe 13.4.2016).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
