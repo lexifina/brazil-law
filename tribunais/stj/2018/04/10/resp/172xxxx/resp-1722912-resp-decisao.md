@@ -1,0 +1,9 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL QUE VERSA SOBRE QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO DA RECORRENTE SOBRE A EXISTÊNCIA DE REPERCUSSÃO GERAL E SOBRE A QUESTÃO CONSTITUCIONAL. DILIGÊNCIA CUMPRIDA. PARÁGRAFO ÚNICO DO ART. 1.032 DO CPC/2015. SOBRESTAMENTO DO RECURSO ESPECIAL E REMESSA DOS AUTOS AO SUPREMO TRIBUNAL FEDERAL.
+DECISÃO
+Cuida-se de recurso especial manejado pela FAZENDA NACIONAL em face de acórdão proferido pelo Tribunal Regional Federal da 4ª Região que determinou, na hipótese, o afastamento da aplicação dos arts. 7º e 8º da Lei nº 12.546/2011 por entender, em síntese, que houve desvio de finalidade legislativa.
+Na decisão de fls. 202-204 e-STJ este relator reconheceu que o recurso especial versa sobre questão constitucional, sobretudo em face do teor da Súmula Vinculante n. 10/STF: "Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte", ocasião em que, com base no art. 1.032 do CPC/2015, forte no Enunciado Administrativo nº 3 desta Corte, intimou-se a recorrente para demonstrar a existência de repercussão geral e se manifestar sobre a questão constitucional.
+A diligência restou cumprida pela recorrente, conforme se verifica das razões acostadas às fls. 207-2012 e-STJ, na petição nº 00110852/2018.
+Contrarrazões ofertadas pela empresa recorrente às fls. 221-232, na petição de fls. 00169269/2018.
+Ante o exposto, com fulcro no parágrafo único do art. 1.032 do CPC/2015, e em razão do cumprimento da diligência instada ao recorrente, determino o sobrestamento do presente recurso especial e a remessa dos autos ao Supremo Tribunal Federal para exame da questão constitucional.
+Publique-se. Intimem-se.
