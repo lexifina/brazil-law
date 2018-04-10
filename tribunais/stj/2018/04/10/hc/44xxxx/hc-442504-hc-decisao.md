@@ -1,0 +1,13 @@
+DECISÃO
+Por meio da petição de fls. 30-31, o impetrante requer a reconsideração ao decisum de fls. 25-26, em que indeferi liminarmente o habeas corpus. Na ocasião, trouxe aos autos cópia da decisão que converteu a prisão em flagrante do paciente em preventiva, da decisão que indeferiu a liminar do writ impetrado na origem e de diversos outros documentos.
+Decido.
+De plano, saliento que, em que pese a prática reiterada de pedidos de reconsideração, não há previsão legal expressa a permitir o uso do referido instituto. Contudo, no caso, uma vez que agora consta dos autos cópia dos documentos faltantes, entendo que, pela aplicação dos princípios da economia e da celeridade processuais, deve o pedido ser conhecido.
+Passo agora, portanto, à nova apreciação do feito.
+Reitero, novamente, que as matérias aventadas neste habeas corpus não foram objeto de análise pelo Tribunal de origem, ficando, assim, impedida sua admissão, sob pena de incidir-se na indevida supressão de instância.
+Nesse sentido, regula o enunciado da Súmula n. 691 do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar".
+O referido impeditivo é ultrapassado tão somente em casos excepcionais, nos quais a ilegalidade é tão flagrante de modo a não escapar à pronta percepção do julgador, o que, todavia, não ocorre na espécie dos autos.
+O Juiz de primeiro grau, ao converter a prisão em flagrante do paciente em preventiva, salientou que "o autuado possui antecedentes criminais" (fl. 85); destacou, ainda, que "o autuado Wesley, vulgo Tatu, conhecido dos meios policiais que, ao perceber a aproximação dos policiais, dispensou algo no chão que, após a revista, constatou-se que o objeto dispensado tratava-se de uma porção de maconha, além de 13 porções de crack, além de quantia em dinheiro" (fl. 85).
+Portanto, à primeira vista, verifico que foram apontados elementos concretos e específicos dos autos que, ao menos em princípio, evidenciam a gravidade concreta do delito em tese cometido e a possibilidade de reiteração criminosa, a ensejar, por conseguinte, a necessidade de manutenção da custódia preventiva para a garantia da ordem pública.
+Não exsurge dos autos, pois, flagrante ilegalidade ou qualquer mácula no decisum monocrático que justifique a intervenção imediata e prematura deste Superior Tribunal.
+À vista do exposto, conheço do pedido de reconsideração, mas o indefiro, mantendo, por conseguinte, o indeferimento liminar deste habeas corpus, em razão do óbice contido na Súmula n. 691 do Supremo Tribunal Federal.
+Publique-se e intimem-se.
