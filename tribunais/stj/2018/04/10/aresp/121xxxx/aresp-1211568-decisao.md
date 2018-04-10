@@ -1,0 +1,39 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 489, II, III E IV, DO NOVO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal Regional Federal da 1º Região, ementado verbis:
+"PENAL. PROCESSUAL PENAL. CONTRABANDO. MÁQUINAS CAÇA-NÍQUEIS. MATERIALIDADE, AUTORIA E DOLO COMPROVADOS. CIRCUNSTÂNCIAS JUDICIAIS. CONDUTA SOCIAL. ENUNCIADO 444 DA SÚMULA DO STJ. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. DESNECESSIDADE. CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME. AUMENTO DA PENA-BASE. IMPOSSIBILIDADE. REFORMATIO IN PEJUS. DOSIMETRIA.
+1. O crime previsto no artigo 334 do Código Penal consuma-se com a simples entrada ou saída do produto proibido. Comprovado nos autos que as máquinas caça-níqueis possuíam componentes de origem estrangeira, caracterizado está o crime de contrabando, pois as atividades com elas empreendidas são proibidas no Brasil.
+2. Demonstrado nos autos que o acusado mantinha, em estabelecimento comercial, vinte e duas máquinas eletrônicas programadas para exploração de jogos de azar, compostas por peças de origem estrangeira sem a devida documentação legal.
+3. A pretensão de aumento da pena-base com fulcro na conduta social, considerada desfavorável pelo Parquet, esbarra no Enunciado 444 da Súmula do STJ.
+4. O aumento da pena-base com fulcro na culpabilidade e nas circunstâncias em que o delito foi cometido, respalda-se no fato de que, in casu, não se trata apenas de mercadorias cuja importação era proibida, a qual foi utilizada no exercício da atividade comercial, mas, sim, de 22 (vinte e dois) equipamentos capazes de ludibriar consumidores incautos, elevando, pois, o grau de lesividade aos jogadores. Pena, no entanto que se mantém, tendo em vista a impossibilidade de reformatio in pejus.
+5. Pena de reclusão fixada acima do mínimo legal, com substituição por duas restritivas de direitos.
+6. Apelação do acusado a que se nega provimento." (fl. 564)
+Em seu recurso especial, às fls. 574/577, sustenta o recorrente afronta ao artigo 489, incisos II, III e IV, do Novo Código de Processo Civil, sob a alegação de que "o Tribunal de Piso julgou o mérito recursal, em patente supressão de instância, não analisando no v. Acórdão recorrido a nulidade da r. Sentença monocrática que deixou de analisar a tese defensiva em flagrante cerceamento de defesa."
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 613/615, sob os seguintes fundamentos:
+"Observo que a alegação de violação ao disposto no artigo 489 do CPC carece do necessário prequestionamento, uma vez que não foi apreciada pelo Colegiado, e a parte não opôs embargos de declaração, alegando vícios do acórdão neste ponto.
+Com efeito, é assente no Superior Tribunal de Justiça o entendimento de que até mesmo as questões de ordem pública, passíveis de conhecimento ex officio, em qualquer tempo e grau de jurisdição ordinária, não podem ser analisadas no âmbito do recurso especial se ausente o requisito do prequestionamento (Cf. STJ, REsp 789.062/MG, Ministro Castro Meira, Segunda Turma, DJ 11/12/2006; AgRg no AREsp 430.927/SP, Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 06/02/2014)."
+Em seu agravo, às fls. 618/622, assevera o recorrente que "o que se pretende com o presente Recurso Especial é a declaração da nulidade do r. Acórdão recorrido por flagrante ausência de motivação, eis que julgou matéria diversa daquela que lhe foi submetida a julgamento pelas partes, matéria essa que pode ser conhecida até mesmo de oficio."
+O Ministério Público Federal manifestou-se às fls. 650/652, pelo não conhecimento do agravo em recurso especial, verbis:
+
+"AGRAVO EM RECURSO ESPECIAL CÓDIGO PENAL, ART. 334, § 1º, "C". EXPLORAÇÃO CLANDESTINA DE MÁQUINAS TIPO "CAÇA- NÍQUEIS". RECURSO ESPECIAL INADMITIDO EM RAZÃO DA AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTO INATACADO PELO AGRAVANTE. INCIDÊNCIA DA SÚMULA 182/STJ. DECISÃO AGRAVADA ESCORREITA. ACÓRDÃO RECORRIDO QUE, NEM MESMO IMPLICITAMENTE, DELIBEROU ACERCA DA SUPOSTA VIOLAÇÃO AO ART. 489, II, III, E IV, DO NCPC. PARECER PELO NÃO CONHECIMENTO OU PELO IMPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL."
+É o relatório.
+A insurgência não merece prosperar.
+No que se refere à alegada ofensa ao disposto no artigo 489, incisos II, III e IV, do Novo Código de Processo Civil, verifica-se que o citado artigo não foi apreciado pelo Tribunal de origem, não podendo, portanto, ser apreciada por esta Corte superior a alegada contrariedade.
+Assim, tem-se que perquirir nessa via estreita sobre violação da referida norma, sem que se tenha explicitado a tese jurídica de que ora se controverte, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+Desse modo, na espécie têm incidência, por simetria, os Enunciados 282 e 356 da Súmula do Excelso Pretório, respectivamente, in verbis:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+É assente nesta Corte o entendimento no sentido de que é condição sine qua non ao conhecimento do especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como malferidos na formulação recursal, emitindo-se, sobre cada um deles, juízo de valor, interpretando-se-lhes o sentido e a compreensão.
+Mesmo se tratando de nulidades absolutas e condições da ação, é imprescindível o prequestionamento, pois este é exigência indispensável ao conhecimento do recurso especial, fora do qual não se pode reconhecer sequer matéria de ordem pública, passível de conhecimento de ofício nas instâncias ordinárias. Confiram-se, nesse sentido, os precedentes da Corte:
+Nesse sentido, confiram-se os seguintes precedentes deste Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM O ENTENDIMENTO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL CONTRARIADO. SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas violações dos arts. 59 e 65, inciso I, do Código Penal, não foram objeto de prequestionamento, uma vez que a Corte a quo, conforme ressaltado pela decisão ora agravada, "não emitiu juízo de valor sobre essas normas, o que atrai a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal".
+(..)
+(AgRg no AREsp 42.432/PR, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 01/03/2012, DJe 15/03/2012)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FUNDAMENTOS INSUFICIENTES PARA REFORMAR A DECISÃO AGRAVADA.
+1.Os conteúdos normativos dos dispositivos tidos por violados não foram objeto de debate ou deliberação pelo Tribunal de origem, restando ausente, assim, o requisito indispensável do prequestionamento da matéria. Não exercitados embargos de declaração para suprir eventual omissão, deixou de ser atendido o mencionado requisito. Aplicação, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+(..)
+(AgRg no Ag 404.619/RJ, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, julgado em 16/08/2011, DJe 05/09/2011)
+Ante o exposto, com fundamento no artigo 253, parágrafo único, inciso II, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
