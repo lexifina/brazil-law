@@ -1,0 +1,24 @@
+DECISÃO: Reconsidero a decisão por mim proferida nestes autos, ficando prejudicado, em consequência, o exame do recurso de agravo interno contra ela interposto.
+    Passo, desse modo, a apreciar o apelo extremo deduzido pela União Federal, no qual sustentou que o acórdão, confirmado em sede de embargos de declaração pelo E. Superior Tribunal de Justiça, teria transgredido preceitos inscritos na Constituição da República.
+    E, ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o  RE 553.710/DF, Rel. Min. DIAS TOFFOLI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “Direito Constitucional e Administrativo. Mandado de segurança. Anistiado político. Pagamento retroativo de prestação mensal concedida. Norma que torna vinculante requisição ou decisão administrativa de órgão competente que determina o pagamento pela União. Dívida da Fazenda Pública que não foi reconhecida por decisão do Poder Judiciário. Afastamento do regime do art. 100 da Constituição Federal. Obrigação de fazer que está sendo descumprida. Repercussão geral reconhecida. Recurso extraordinário a que se nega provimento. Tese fixada.”
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise quanto à matéria em referência.
+    Impõe-se registrar, ainda, que não procede a alegação da parte ora recorrente no sentido de que não se revela cabível, neste caso, a incidência de juros de mora e de correção monetária.
+    Cabe assinalar, a propósito do tema, ante a inquestionável procedência de suas observações, o seguinte trecho da decisão proferida pelo eminente Ministro LUIZ FUX, por ocasião do julgamento do RE 1.113.832/DF:
+    “Verifica-se que, ao julgar o ‘leading case’ em questão, o Plenário desta Suprema Corte negou provimento ao recurso extraordinário para ratificar a concessão da ordem determinada pelo Superior Tribunal de Justiça.
+    Conforme se extrai do próprio relatório do acórdão proferido no julgamento da repercussão geral em questão, eis o teor da ordem concedida pelo Superior Tribunal de Justiça:
+    ‘A ordem foi concedida para, conforme se extrai do acórdão objurgado e da exordial, ‘determinar ao Ministro de Estado da Defesa o imediato cumprimento da Portaria nº 84/2004, do Ministro da Defesa que reconheceu a anistia política do impetrante, disponibilizando em seu favor a quantia de R$ 187.481,30 (cento e oitenta e sete mil, quatrocentos e oitenta e um reais e trinta centavos), acrescido de correção monetária e juros de mora legais’ (fls.15/16 – ‘sic’).’ (...)
+    Dessa forma, ao negar provimento ao RE 553.710, ‘leading case’ da repercussão geral, o Plenário desta Suprema Corte manteve o acórdão que condenara a União em juros e correção monetária.
+    Assim, constato que o acórdão ora recorrido está em harmonia com o que decidido por esta Corte em sede de repercussão geral.” (grifei)
+    Vê-se, desse modo, que se revela inviável a pretensão recursal extraordinária.
+    Cabe registrar, finalmente, consoante entendimento jurisprudencial prevalecente no âmbito desta Corte, que a circunstância de o precedente no “leading case” ainda não haver transitado em julgado não impede venha o Relator da causa a julgá-la, fazendo aplicação da diretriz consagrada naquele julgamento (RE 212.852-AgR/SP, Rel. Min. MOREIRA ALVES – RE 224.249-AgR/CE, Rel. Min. ILMAR GALVÃO – RE 611.683-AgR/DF, Rel. Min. DIAS TOFFOLI, v.g.):
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. LEGITIMIDADE. POLO PASSIVO. ASSISTÊNCIA À SAÚDE. REPERCUSSÃO GERAL. INSURGÊNCIA VEICULADA CONTRA A APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. POSSIBILIDADE DE APLICAÇÃO IMEDIATA DOS ENTENDIMENTOS FIRMADOS PELO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL EM REPERCUSSÃO GERAL.
+    1. A existência de precedente firmado pelo Plenário desta Corte autoriza o julgamento imediato de causas que versem sobre o mesmo tema, independente da publicação ou do trânsito em julgado do paradigma. Precedentes.
+    2. Agravo regimental a que se nega provimento.”
+    (ARE 930.647-AgR/PR, Rel. Min. ROBERTO BARROSO – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, nego provimento ao recurso extraordinário, por achar-se em confronto com acórdão proferido pelo Plenário desta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e  Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 10 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
