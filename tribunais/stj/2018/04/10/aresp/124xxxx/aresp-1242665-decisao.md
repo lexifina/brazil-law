@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 140, 371, 373, I, 374 e 489, II, do Código de Processo Civil; 14 e 17 do Código de Defesa do Consumidor; 403, 884 e 885 do Código Civil; e 5º da Constituição Federal. O acórdão recorrido está retratado na seguinte ementa (fl. 219):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS - ATRASO INJUSTIFICADO PARA MARCAÇÃO DA CIRURGIA - DANO MORAL - VERIFICAÇÃO.
+- Cabe ao réu a demonstração da existência de fato extintivo do direito do autor, a teor do disposto no art. 373, II, do Código de Processo Civil.
+- O retardamento injustificado na realização de procedimento cirúrgico pela angústia e ansiedade dele resultante, provoca dano moral indenizável.
+Sustenta, em síntese, a inexistência de nexo de causalidade entre a conduta da ora agravante e os supostos danos suportados pelo agravado.
+Afirma, por outro lado, que o valor arbitrado a título de danos morais é exorbitante.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, é necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+No mérito, registro que o Tribunal de origem concluiu que ficou configurado o dano moral, conforme se extrai dos seguintes excertos (fls. 221/224):
+(..) Da análise dos autos, verifica-se que o autor pretende ver-se indenizado, ao argumento de que, após a realização de um cirurgia para remoção de um câncer de próstata, teve a necessidade de realizar uma segunda cirurgia corretiva, de extrema urgência, mas a ré demorou 1 mês e 15 duas para realizar o procedimento. Explicou que essa demora e a incerteza de que a segunda cirurgia seria realizada foram fonte de angústia e sofrimento, pois no período tinha dificuldades para urinar e se locomover, além de sofrer incontinência urinária e dores.
+A controvérsia cinge-se, portanto, em verificar se houve demora injustificada na realização da cirurgia e se o atraso é imputável à ré; bem como analisar se houve danos morais e, caso positivo, o quantum.
+De início, insta consignar que a responsabilidade da ré pelos danos causados pela falha na prestação dos serviços é objetiva, nos termos dos artigos 932 e 933 do CC, bem como do art. 14 do CDC, independendo da comprovação de culpa e decorrendo do próprio da atividade que desenvolve. (..)
+Pois bem. Verifica-se através da guia de solicitação de internação de fl. 115 que, de fato, o procedimento médico em questão não era urgente. No entanto, consta expressamente no protocolo de solicitação de cirurgia de fl. 22, que em caso de cirurgia não urgente, o prazo para sua realização é de 21 dias úteis.
+Restando incontroverso que a ré ultrapassou 16 dias do aludido prazo, caberia a ela comprovar que o atraso não se deu por sua culpa Ocorre que esta não se desincumbiu do seu ônus. Não obstante tenha alegar que a demora se deu em razão do atraso do plano de seguro em autorizar a realização do procedimento, não juntou qualquer documento para comprovar sua alegação.
+Dessa forma, inegável a culpa da ré em atrasar injustificadamente, o procedimento cirúrgico em questão. Ora, a atitude da apelante extrapola o exercício regular de um direito, configurando-se. na verdade, abuso deste. E, se assim agindo, provocar dano a outrem, fica obrigado a repará-lo (CC, arts. 187 e 927).
+Por outro lado, quando o assunto se volta para a indenização a titulo de danos morais, tenho que irretocável a sentença "a quo".
+Não pode ser acolhida a alegação sobre a inocorrência de fato capaz de causar danos morais, pois, para a caracterização do dano moral, basta a demonstração de uma situação que conduza à presunção da existência de uma lesão a causar repercussão no universo psíquico do ofendido.
+Não me resta dúvida de que os sentimentos de angústia e ansiedade provocados pela demora injustificada na realização da cirurgia causou ao autor dano moral indenizável, mormente considerando o fato de que a liberação para a realização do procedimento somente se deu, um mês e meio depois de solicitado.
+A obrigação de indenizar, como se sabe, deve, obrigatoriamente, respeitar os princípios da proporcionalidade e da razoabilidade, caso contrário, poderá deixar de punir o ofensor e promover o enriquecimento ilícito da parte ofendida, hipóteses defesas em nosso ordenamento. (..)
+Com efeito, observo que rever o entendimento do Tribunal de origem demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+No mais, anoto que esta Corte considera excepcionalmente cabível o reexame do valor arbitrado a título de danos morais, quando for ele excessivo ou irrisório.
+No caso dos autos, o valor de R$ 20.000,00 (vinte mil reais) mantido pelo acórdão (fl. 224), mostra-se dentro dos padrões da razoabilidade e proporcionalidade, não justificando intervenção desta Corte Superior.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 5% (cinco por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
