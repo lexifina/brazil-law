@@ -1,0 +1,23 @@
+DECISÃO: O exame da presente causa evidencia a ocorrência, na espécie, de hipótese configuradora de perda superveniente de objeto deste recurso ordinário em “habeas corpus”.
+    Com efeito, em consulta aos registros processuais mantidos pelo E. Superior Tribunal de Justiça em sua página oficial na “Internet”, constatei não mais subsistir a situação versada nestes autos, eis que o paciente, ora recorrente, interpôs agravo em recurso especial (AREsp 829.767/ES) que veio a ser provido, em parte, pelo eminente Ministro ROGERIO SCHIETTI CRUZ, cabendo transcrever os seguintes fragmentos de sua douta decisão:
+    “Reconheço a violação do art. 59 do CP para afastar a consideração negativa da culpabilidade e das circunstâncias do crime.
+    Ante a análise negativa de 3 vetoriais, a pena-base do paciente foi exasperada em 8 meses de reclusão e a pena de multa foi acrescida de 15 unidades, o que equivale a 2 meses e 20 dias de reclusão e 5 dias-multa para cada uma. Mantida a análise desfavorável dos maus antecedentes, redimensiono a reprimenda, na primeira fase da dosimetria, para 1 ano, 2 meses e 20 dias de reclusão, mais 15 dias-multa.
+    Compenso a confissão espontânea com a reincidência, por serem igualmente preponderantes, pois não houve destaque, no acórdão, de eventual multirreincidência ou reincidência específica. Não há causas de aumento ou de diminuição da pena, razão pela qual torno a reprimenda definitiva no patamar indicado.
+    Mantenho o regime inicial fechado, uma vez que, não obstante o ‘quantum’ da pena seja inferior a 4 anos, o agravante é reincidente e ostenta circunstância judicial desfavorável (maus antecedentes), elementos que também devem ser considerados para a escolha do regime prisional, a teor do art. 33 do CP, sem possibilidade de aplicação da Súmula n. 269 do STJ.
+    Inviável, pelos mesmos motivos, a substituição da pena privativa de liberdade por restritiva de direitos, porquanto não atendidos os requisitos do art. 44 do CP.” (grifei)
+    A ocorrência desse fato assume relevo processual, eis que faz instaurar, na espécie, situação de prejudicialidade, apta a gerar a extinção deste recurso ordinário em “habeas corpus”, em face da superveniente perda de seu objeto.
+    Enfatize-se, por oportuno, que esse posicionamento que venho de referir encontra apoio na jurisprudência do Supremo Tribunal Federal (RTJ 132/1185, Rel. Min. OCTAVIO GALLOTTI – HC 55.437/ES, Rel. Min. MOREIRA ALVES – HC 58.903/MG, Rel. Min. CUNHA PEIXOTO – HC 64.424/RJ, Rel. Min. NÉRI DA SILVEIRA – HC 69.236/PR, Rel. Min. PAULO BROSSARD – HC 74.107/SP, Rel. Min. MAURÍCIO CORRÊA – HC 74.457/RN, Rel. Min. NÉRI DA SILVEIRA – HC 80.448/RN, Rel. Min. SEPÚLVEDA PERTENCE – HC 84.077/BA, Rel. Min. GILMAR MENDES – HC 113.121/MG, Rel. Min. ROSA WEBER – RHC 82.345/RJ, Rel. Min. MAURÍCIO CORRÊA, v.g.), cabendo destacar, entre outras, as seguintes decisões que esta Corte proferiu a propósito do tema ora em exame:
+    “Superados os motivos de direito ou de fato que configuravam situação de injusto constrangimento à liberdade de locomoção física do paciente, e afastada, em consequência, a possibilidade de ofensa ao seu ‘status libertatis’, reputa-se prejudicado o ‘habeas corpus’ impetrado em seu favor.  Precedentes.”
+    (RTJ 141/502, Rel. Min. CELSO DE MELLO)
+    “(...) A jurisprudência do Supremo Tribunal Federal consolidou o entendimento de que ‘A superveniente alteração do quadro processual, resultante da prolação de outro ato decisório pelo Tribunal Estadual, instaura situação de prejudicialidade da ação de ‘habeas corpus’ perante o Superior Tribunal de Justiça’ (HC 109.142, Rel. Min. Dias Toffoli). Precedentes.”
+    (HC 123.431/RJ, Red. p/ o acórdão Min. ROBERTO BARROSO – grifei)
+    “– A superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do ‘habeas corpus’, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em consequência, a extinção anômala do processo.”
+    (RHC 83.799-AgR/CE, Rel. Min. CELSO DE MELLO)
+    “(...) O julgamento superveniente pelo Tribunal de Justiça do Estado de Pernambuco do apelo interposto pelo recorrente, reduzindo a pena a ele aplicada, inseriu novo título judicial no mundo jurídico, tornando, assim, prejudicado o recurso dirigido contra a decisão precedente.”
+    (RHC 118.520/DF, Rel. Min. DIAS TOFFOLI – grifei)
+    Sendo assim, e tendo em consideração as razões expostas, julgo  prejudicado o presente recurso ordinário em “habeas corpus”.
+    2. Devolvam-se estes autos ao E. Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 10 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
