@@ -1,0 +1,69 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. PREVIDÊNCIA PRIVADA. DEVOLUÇÃO DE CONTRIBUIÇÕES PAGAS A MAIOR. PRAZO PRESCRICIONAL QUINQUENAL. PRECEDENTES. SÚMULA 83/STJ. LEGALIDADE DA MAJORAÇÃO. INOVAÇÃO INCABÍVEL. AUSÊNCIA DE INDICAÇÃO NO RECURSO ESPECIAL DE DISPOSITIVO TIDO COMO VIOLADO. SÚMULA 284/STF.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Nos termos do art. 75 da LC 109/2001, assim como ocorria sob a égide da legislação anterior (Lei 3.807/60, Decreto 72.771/73 e Lei 8.213/91), a prescrição para reclamar o direito de revisão das prestações de benefício previdenciário ou de devolução de contribuição paga a maior é parcial, vale dizer, atinge apenas as prestações vencidas em período anterior a cinco anos do ajuizamento da ação. Precedentes. Súmula 83/STJ.
+3. Não se admite a adição, em sede de agravo interno, de tese não exposta no recurso especial, por importar em inadmissível inovação.
+4. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da Constituição Federal não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+5. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão de fls. e-STJ 1.108/1.114, em que neguei provimento ao agravo em recurso especial.
+A parte agravante, em suas razões, reiterou os fundamentos contidos no recurso especial no tocante à alegação de violação ao artigo 178, do Código Civil, tendo em vista a decadência do direito da recorrida em pleitear a restituição dos valores decorrentes da alteração da contribuição. Alegou negativa de vigência ao artigo 21, § 1º, da Lei Complementar nº 109/2001, em virtude da legalidade da majoração das contribuições.
+A parte agravada, regularmente intimada, pugnou pela manutenção da decisão recorrida.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a conclusão da decisão impugnada, visto que apenas reiterados os fundamentos utilizados no recurso especial, razão pela qual o presente recurso não merece prosperar.
+Inicialmente, cumpre diferenciar o caso ora em análise dos julgados trazidos em sede de agravo.
+Da análise dos autos, verifico que a presente discussão versa sobre a alteração da contribuição de 11% para 14,9%, em razão de modificação no estatuto da agravante, cuja adesão, que era facultativa, foi expressamente afastada pelo Tribunal de origem, de modo que inaplicável o pleiteado prazo decadencial, em virtude de inexistência de regular negócio jurídico firmado entre as partes.
+É o que se depreende da leitura do seguinte trecho (fls. 1004/1006 e-STJ):
+"Como bem observado pelas partes em suas peças nos presentes Autos, a majoração das alíquotas de contribuição para o fundo de pensão, que enseja a presente lide, ocorreu por força de alteração regulamentar havida no ano de 1991.
+A Ré alega, neste sentido, que houve ampla divulgação da mencionada alteração, sendo possibilitado aos contribuintes aderir aos novos termos ou não, valendo o silêncio como anuência tácita à alteração dos percentuais.
+(..)
+Todavia, importante destacar que somente [NOME] firmou a repactuação de 2006/2007, assinado o termo individual de adesão, conforme documento juntado aos autos, bem como ratificada nos termos da peça de bloqueio.
+(..)
+Portanto, deve prevalecer o entendimento que, sem a concordância expressa dos autores Carlos Moraes de Menezes e [NOME] ao termo de repactuação, que não é cabível a adesão tácita, eis que esta foi lastreada por incentivo pecuniário, o que afasta a possibilidade de aceitação implícita."
+Assim sendo, versando a lide sobre a revisão de contribuições calculadas em desacordo com as regras estatutárias aplicáveis aos agravados, imperioso concluir pela manutenção da decisão agravada.
+Como salientado, a Lei Complementar 109/2001, editada com a finalidade de regulamentar o regime de previdência complementar, estabeleceu em seu art. 75 regra específica e aplicável indistintamente às entidades abertas e fechadas de previdenciária complementar, redigida nos seguintes termos:
+"Art. 75. Sem prejuízo do benefício, prescreve em cinco anos o direito às prestações não pagas nem reclamadas na época própria, resguardados os direitos dos menores dependentes, dos incapazes ou dos ausentes, na forma do Código Civil."
+Verifico que a redação do art. 75 da Lei Complementar 109/2001 não apresentou alteração substancial ao conteúdo dos arts. 57, caput, da Lei 3.807/60, 418 e 419 do Decreto 72.771/73 e 103 da Lei 8.213/91, em seu texto originário, adotando, do mesmo modo que a legislação anterior, o prazo de prescrição de cinco anos, ressalvando expressamente o direito ao benefício, o que significa subsistir o entendimento pacificado neste Tribunal no sentido de que a prescrição não atinge o fundo de direito do benefício previdenciário complementar correspondente ao contrato celebrado entre a entidade de previdência (fechada ou aberta) e o aderente, mas apenas as prestações vencidas há mais de cinco anos do ajuizamento da ação.
+Nesse sentido é, inclusive, o enunciado da Súmula 291, nos termos:
+"A ação de cobrança de parcelas de complementação de aposentadoria pela previdência privada prescreve em cinco anos."
+Com efeito, a orientação consolidada em ambas as Turmas que compõem a Segunda Seção deste Tribunal, ao interpretar o disposto nos arts 103, da Lei 8.213/91 e 75 da Lei Complementar 103/2001, podendo ser citados, entre muitos outros, os seguintes acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. PRESCRIÇÃO QUINQUENAL. NÃO OCORRÊNCIA. DEVOLUÇÃO INTEGRAL DAS CONTRIBUIÇÕES PESSOAIS DOS EX-ASSISTIDOS. EXPURGOS INFLACIONÁRIOS SOBRE FUNDO DE RESERVA. CORREÇÃO MONETÁRIA PLENA SÚMULA 83/STJ. REVISÃO DA CONCLUSÃO ESTADUAL. INVIABILIDADE. SUMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Violação do artigo 535 do CPC/1973 não configurada.
+2. A prescrição aplicável ao presente feito é quinquenal e tem como termo inicial a data em que houver a devolução a menor das contribuições pessoais vertidas pelo participante. A correção monetária incidente sobre a restituição de parcelas pagas ao plano de previdência complementar deve utilizar os índices que melhor reflitam a desvalorização da moeda, ainda que outro tenha sido avençado. Incidência da Súmula 83/STJ.
+3. A alteração do entendimento adotado pela Corte de origem, acerca do termo inicial da contagem do prazo prescricional demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada na via estreita do recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior. 4. Razões recursais insuficientes para a revisão do julgado.
+5. Agravo interno desprovido.
+(AgInt no AREsp 774.693/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/10/2017, DJe 23/10/2017)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - DEMANDA POSTULANDO A EQUIPARAÇÃO, ENTRE HOMENS E MULHERES, DO PERCENTUAL DO CÁLCULO DO SALÁRIO DE BENEFÍCIO PARA FINS DE SUPLEMENTAÇÃO DE APOSENTADORIA - DECISÃO MONOCRÁTICA ACOLHENDO PARCIALMENTE ANTERIORES ACLARATÓRIOS, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA ENTIDADE DE PREVIDÊNCIA PRIVADA.
+(..) 2. Prazo prescricional para exercício da pretensão de revisão da renda mensal inicial do benefício de previdência privada. Aplicação da Súmula 291/STJ. Cuidando-se de prestação de trato sucessivo, o decurso do prazo prescricional quinquenal não atinge o próprio fundo do direito invocado, mas apenas as parcelas vencidas anteriormente ao quinquênio que antecede o ajuizamento da ação. Precedentes.
+(..) 5. Agravo regimental desprovido.
+(AgRg nos EDcl no RESP 1.057.696/RS, 4ª Turma, Rel. Min. Marco Buzzi, DJ 11.3.2014) AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL.
+Por fim, observo que igualmente não merece guarida as alegações de violação ao artigo 21, § 1º, da Lei Complementar nº 109/2001.
+Isso porque, nos termos da jurisprudência desta Corte Superior, não se admite, em sede de agravo interno, a adição de teses não expostas no recurso especial, caracterizando-se tal procedimento como indevida inovação recursal.
+Ademais, quando da interposição do recurso especial, saliento que o ora recorrente sequer apontou quais dispositivos de lei federal entendeu por violados ou que recairia dissídio jurisprudencial a respeito das alegações de ser indevida a condenação ao pagamento de danos materiais e morais, de modo a permitir o conhecimento do recurso especial com espeque na alínea "a" ou "c" do inciso III do artigo 105 da Constituição Federal.
+Assim sendo, imperioso concluir pela incidência da súmula nº 284, do Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. TERMO FINAL DO PENSIONAMENTO. SÚMULA 284/STF. DANOS MORAIS. VALOR RAZOÁVEL.
+1. Segundo o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). Ressalva do ponto de vista pessoal da Relatora.
+2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da CF não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1432383/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24/06/2014, DJe 01/08/2014)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE CONCESSÃO DE SUPLEMENTAÇÃO DE APOSENTADORIA - DECISÃO MONOCRÁTICA DA LAVRA DESTE SIGNATÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DOS AUTORES.
+1. Segundo a consolidada jurisprudência desta Corte Superior, é inadmissível, em sede de agravo interno, a adição de teses não expostas no recurso especial, caracterizando-se tal procedimento como indevida inovação recursal. 2. É assente na jurisprudência deste STJ o entendimento de que a afetação de determinado recurso ao rito dos recursos repetitivos não implica a suspensão ou sobrestamento das demais ações já em curso nesta Corte, mas apenas, as em trâmite nos Tribunais de origem. Precedentes.
+3. Nos termos do entendimento firmado pela Segunda Seção deste STJ em sede de recursos repetitivos: "Nos planos de benefícios de previdência privada patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, para se tornar elegível a um benefício de prestação que seja programada e continuada, é necessário que o participante previamente cesse o vínculo laboral com o patrocinador, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares." (REsp 1433544/SE, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 09/11/2016, DJe 01/12/2016).
+4. O participante tem mera expectativa de que permanecerão íntegras as regras vigentes no momento de sua adesão ao plano de previdência complementar fechada. Alterações posteriores do regime a ele se aplicarão, pois não há direito adquirido a regime jurídico.
+5. Agravo interno desprovido.
+(AgInt no AREsp 874.490/SE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/04/2017, DJe 03/05/2017)
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS DE CONDOMÍNIO. LEGITIMIDADE. INOVAÇÃO INCABÍVEL. REEXAME DE PROVAS.
+SÚMULA 7/STJ.
+1. Não se admite a adição, em sede de agravo interno, de tese não exposta no recurso especial, por importar em inadmissível inovação.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A jurisprudência desta Corte evoluiu no sentido de que, uma vez demonstrado que o promissário comprador imitiu-se na posse do bem e sendo comprovado que o condomínio teve ciência inequívoca da transação, há legitimidade passiva concorrente de ambos os contratantes para responder por despesas condominiais relativas a período em que a posse foi exercida pelo promissário comprador.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1219742/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/08/2017, DJe 22/08/2017)
+Por fim, nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
