@@ -1,0 +1,73 @@
+EMENTA
+ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DO NÚMERO DE VAGAS. AUSÊNCIA DE COMPROVAÇÃO DE DIREITO LÍQUIDO E CERTO.
+I - O candidato aprovado fora do número de vagas previstas no edital possui mera expectativa de direito à nomeação, convolando-se em direito subjetivo somente na hipótese de comprovação do em direito subjetivo somente na hipótese de comprovação do surgimento de cargos efetivos durante o prazo de validade do concurso público, bem como o interesse da Administração Pública em preenchê-las. Neste sentido: AgRg no RMS 43.596/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 30/03/2017; AgInt no RMS 49.983/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/03/2017, DJe 20/03/2017; AgRg nos EDcl no RMS 45.117/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017.
+II - A admissão de temporários, fundada no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de efetivos, estes recrutados mediante concurso público (Art. 37, II e III da CF), para suprir necessidades permanentes do serviço.
+III - São institutos diversos, com fundamentos fáticos e jurídicos que não se confundem, pelo que também a presença de temporários nos quadros estatais não pode ser tida, só por si, como caracterizadora da preterição dos candidatos aprovados para provimento de cargos efetivos. Neste sentido: AgInt no RMS 51.806/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 30/03/2017; AgInt no RMS 51.478/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/03/2017, DJe 24/03/2017)
+IV - Na hipótese em tela, apesar das contratações temporárias, não há, nos autos, comprovação da existência de cargos efetivos vagos, de modo a amparar o pretendido direito da Recorrente à nomeação, não havendo que se falar em direito líquido e certo a ser amparado nesta via.
+V - Ademais, tal verificação, quanto à existência de cargos vagos, demandaria necessária dilação probatória, o que não se admite nesta via mandamental. Neste sentido: AgRg no RMS 35.906/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 30/03/2017.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso ordinário em mandado de segurança interposto por [NOME], com fundamento no artigo 105, inciso II, alínea "b", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, assim ementado:
+MANDADO DE SEGURANÇA; ADMINISTRATIVO. CONCURSO PÚBLICO. ANALISTA DE CONTROLE EXTERNO - CIÊNCIAS CONTÁBEIS (TCE/PA). AUSÊNCIA DE NOMEAÇÃO. ATO SUPOSTAMENTE OMISSIVO DO PRESIDENTE DO TCE/PA. PRELIMINAR DE MÉRITO IMPOSSIBILIDADE JURÍDICA DO PEDIDO - REJEITADA. MÉRITO. VAGAS PREENCHIDAS DENTRO DO PRAZO DE VALIDADE DO CERTAME. ALEGAÇÃO DE CRIAÇÃO DE NOVAS VAGAS. PUBLICAÇÃO DA LEI ESTADUAL N.º 7.681/2012. PREVISÃO DE CRIAÇÃO DE CARGOS AO LONGO DOS ANOS. EXERCÍCIO DO PODER DISCRICIONÁRIO DO ADMINISTRADOR. NECESSIDADE E CONVENIÊNCIA DA ADMINISTRAÇÃO. CARGOS QUE DEPENDEM INCLUSIVE DE DOTAÇÃO ORÇAMENTÁRIA. MERA EXPECTATIVA DE DIREITO DE NOMEAÇÃO E POSSE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA À UNANIMIDADE.
+Na origem, trata-se de mandado de segurança impetrado contra ato praticado pelo Presidente do Tribunal de Contas do Estado do Pará, que não teria procedido com a nomeação da impetrante para o cargo em que foi aprovada em concurso público.
+No presente recurso ordinário, a recorrente sustenta ter direito líquido e certo à nomeação para o exercício de cargo público, apesar de aprovada fora do número de vagas, considerando o surgimento de vagas durante o prazo de validade do edital, bem como a possível contratação de comissionados de forma sistemática por parte da Administração.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O Ministério Público opina pelo desprovimento do recurso.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 34, XVIII, b, do RI/STJ, nego provimento ao recurso ordinário em mandado de segurança".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+ O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+É cediço que o candidato aprovado fora do número de vagas previstas no edital possui mera expectativa de direito à nomeação, convolando-se em direito subjetivo somente na hipótese de comprovação do em direito subjetivo somente na hipótese de comprovação do surgimento de cargos efetivos durante o prazo de validade do concurso público, bem como o interesse da Administração Pública em preenchê-las.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. CONCURSO PÚBLICO. PRETERIÇÃO. APROVAÇÃO FORA DAS VAGAS. VIA MANDAMENTAL. DILAÇÃO PROBATÓRIA . IMPOSSIBILIDADE. CONTRATAÇÃO TEMPORÁRIA. NÃO DEMONSTRAÇÃO DO SURGIMENTO DE VAGAS EFETIVAS. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+(..)
+II - O candidato aprovado fora do número de vagas previstas no edital possui mera expectativa de direito à nomeação, convolando-se em direito subjetivo somente na hipótese de comprovação do surgimento de cargos efetivos durante o prazo de validade do concurso público, bem como o interesse da Administração Pública em preenchê-las (v.g. AgRg no RMS 37.982/RO, 1ª T., Rel. Min. Arnaldo Esteves, DJe de 20.08.2013; REsp 1.359.516/SP, 2ª T., Rel. Min. Mauro Campbell, DJe de 22.05.2013).
+(..)
+VI - Agravo Regimental improvido.
+(AgRg no RMS 43.596/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 30/03/2017)
+CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. APROVADO FORA DAS VAGAS. COMPROVADO SURGIMENTO DE VAGA. AUSÊNCIA DE PROVA DE DISPONIBILIDADE ORÇAMENTÁRIA. PRECEDENTE DO STJ. INEXISTÊNCIA DE PRETERIÇÃO. TEMA FIXADO EM REPERCUSSÃO GERAL - RE 837.311/PI. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+I - Os candidatos aprovados fora do número de vagas previstas no edital - ou, em concurso para cadastro de reserva - não possuem direito líquido e certo à nomeação, mesmo que novas vagas surjam no período de validade do concurso (seja por criação em lei, seja por força de vacância), uma vez que tal preenchimento está sujeito a juízo de conveniência e oportunidade da administração pública.
+II - O mero surgimento de vagas não enseja a caracterização da preterição se não houver a nomeação do candidato, nisso estando incluso o advento de lei que prevê a criação de mais vagas para o cargo pleiteado, sobretudo quando a própria legislação condiciona a implementação dos novos postos à prática de ato administrativo do Tribunal de Justiça, que considerará ainda a existência de previsão orçamentária, de recursos financeiros e os limites da Lei de Responsabilidade Fiscal.
+III - Agravo interno improvido.
+(AgInt no RMS 49.983/DF, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 14/03/2017, DJe 20/03/2017)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO FORA DAS VAGAS. MERA EXPECTATIVA DE DIREITO À NOMEAÇÃO. PRECEDENTES DO STJ E STF. SURGIMENTO DE VAGAS NÃO COMPROVADO. SERVIDORES TEMPORÁRIOS. ART. 37, IX, DA CF/88. NECESSIDADES TRANSITÓRIAS DA ADMINISTRAÇÃO. PRETERIÇÃO NÃO CARACTERIZADA.
+(..)
+2. A atual jurisprudência desta Corte é firme no sentido de que "candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que novas vagas surjam no período de validade do concurso - por criação de lei ou por força de vacância -, cujo preenchimento está sujeito a juízo de conveniência e oportunidade da Administração. Precedentes do STJ" (RMS 47.861/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/06/2015, DJe 05/08/2015).
+3. Esta é também a orientação do STF, como se pode aferir, dentre outros, dos seguintes precedentes: RE 837.311/PI, Rel. Ministro LUIZ FUX, TRIBUNAL PLENO, Repercussão Geral - DJe de 18/04/2016 e AI 804.705 AgR, Rel. Ministro DIAS TOFFOLI, PRIMEIRA TURMA, DJe de 14/11/2014.
+(..)
+5. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no RMS 45.117/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2016, DJe 03/02/2017)
+Ademais, é cediço que a admissão de temporários, fundada no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de efetivos, estes recrutados mediante concurso público (Art. 37, II e III da CF), para suprir necessidades permanentes do serviço.
+São institutos diversos, com fundamentos fáticos e jurídicos que não se confundem, pelo que também a presença de temporários nos quadros estatais não pode ser tida, só por si, como caracterizadora da preterição dos candidatos aprovados para provimento de cargos efetivos.
+Neste sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO CLASSIFICADO ALÉM DO NÚMERO DE VAGAS OFERECIDO NO EDITAL. NOMEAÇÃO. EXPECTATIVA DE DIREITO. PRECEDENTES DO STJ E STF. SERVIDORES TEMPORÁRIOS. ART. 37, IX, DA CF/88. NECESSIDADES TRANSITÓRIAS DA ADMINISTRAÇÃO. PRORROGAÇÃO ILEGAL DO CONTRATO. IMUTABILIDADE DA NATUREZA PRECÁRIA. PRETERIÇÃO NÃO CARACTERIZADA.
+1. Candidatos aprovados em concurso público, no qual se classificam para além das vagas oferecidas no edital do certame, não têm o direito líquido e certo à nomeação, mas tão somente, expectativa de direito. Precedentes do STJ e do STF.
+2. A admissão de temporários, fundada no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não concorre com a nomeação de efetivos, estes recrutados mediante concurso público (Art. 37, II e III da CF), para suprir necessidades permanentes do serviço. São institutos diversos, com fundamentos fáticos e jurídicos que não se confundem, pelo que também a presença de temporários nos quadros estatais não pode ser tida, só por si, como caracterizadora da preterição dos candidatos aprovados para provimento de cargos efetivos.
+3. A prorrogação dos contratos temporários para além dos limites temporais legalmente fixados não modifica sua natureza transitória, para transformá-los em vínculos efetivos.
+4. Agravo interno a que se nega provimento.
+(AgInt no RMS 51.806/ES, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 30/03/2017)
+ADMINISTRATIVO. CONCURSO PÚBLICO. CARGO DE ENFERMEIRO. CONTRATAÇÃO TEMPORÁRIA PARALELA AO PERÍODO DE VALIDADE DO CONCURSO. NÃO COMPROVAÇÃO DE DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA.
+I - A impetrante não está classificada dentro do número de vagas previstas no instrumento convocatório. A atual jurisprudência desta Corte é firme no sentido de que "candidatos aprovados fora do número de vagas previstas no edital ou em concurso para cadastro de reserva não possuem direito líquido e certo à nomeação, mesmo que novas vagas surjam no período de validade do concurso - por criação de lei ou por força de vacância -, cujo preenchimento está sujeito a juízo de conveniência e oportunidade da Administração. Precedentes do STJ". (RMS 47.861/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/6/2015, DJe 5/8/2015).
+II - A mera expectativa de nomeação dos candidatos aprovados em concurso público (fora do número de vagas) convola-se em direito líquido e certo quando, dentro do prazo de validade do certame, há contratação de pessoal de forma precária para o preenchimento de vagas existentes, com preterição daqueles que, aprovados, estariam aptos a ocupar o mesmo cargo ou função.
+III - A paralela contratação de servidores temporários, admitidos mediante processo seletivo fundado no art. 37, IX, da Constituição Federal, atende necessidades transitórias da Administração e não caracteriza, só por si, preterição dos candidatos aprovados em concurso público para provimento de cargos efetivos.
+IV - Agravo interno improvido.
+(AgInt no RMS 51.478/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/03/2017, DJe 24/03/2017)
+Na hipótese em tela, apesar das contratações temporárias, não há, nos autos, comprovação da existência de cargos efetivos vagos, de modo a amparar o pretendido direito da Recorrente à nomeação, não havendo que se falar em direito líquido e certo a ser amparado nesta via.
+Ademais, tal verificação, quanto à existência de cargos vagos, demandaria necessária dilação probatória, o que não se admite nesta via mandamental.
+Neste sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. APROVAÇÃO FORA DO NÚMERO DE VAGAS. CADASTRO DE RESERVA. EXPECTATIVA DE DIREITO À NOMEAÇÃO. CONTRATAÇÃO TEMPORÁRIA. AUSÊNCIA DE DEMOSTRAÇÃO DE CARGOS VAGOS. DILAÇÃO PROBATÓRIA VEDADA VIA MANDADO DE SEGURANÇA.
+(..)
+II - O candidato aprovado fora do número de vagas previstas no edital possui mera expectativa de direito à nomeação, convolando-se em direito subjetivo somente na hipótese de comprovação do surgimento de cargos efetivos durante o prazo de validade do concurso público, bem como o interesse da Administração Pública em preenchê-las (v.g. AgRg no RMS 37.982/RO, 1ª T., Rel. Min. Arnaldo Esteves, DJe de 20.08.2013; REsp 1.359.516/SP, 2ª T., Rel. Min. Mauro Campbell, DJe de 22.05.2013) .
+III - Não há direito líquido e certo a ser amparado, haja vista a ausência de demonstração da existência de cargos efetivos vagos, bem como da alegada preterição da parte recorrente, sendo a dilação probatória providência vedada na via mandamental .
+IV - Agravo Regimental improvido.
+(AgRg no RMS 35.906/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 30/03/2017)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
