@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA - CONTRIBUIÇÃO PREVIDENCIÁRIA - COMPLEMENTAÇÃO DE APOSENTADORIA -LEI N° 954/03 - CONSTITUCIONALIDADE.
+    I - Impetrante, beneficiado pela complementação de aposentadoria instituída pela Lei 4.819/58 e seguintes, que se insurge contra incidência de contribuição previdenciária - art. 1° da Lei Complementar Estadual 954/03 e 1.012/2007.
+    II — Licitude do desconto - Irrelevante que o servidor fosse, na origem, regido pela
+    Consolidação das Leis do Trabalho — Legislação que o equiparou, para fins previdenciários, a servidor público — observância ao principio da isonomia, evitando-se que logre maiores vantagens em relação àquele que serviu diretamente à administração. Sentença mantida. Recurso desprovido”.
+    A pretensão não merece acolhida. Inicialmente, cabe ressaltar que o Plenário do Supremo Tribunal Federal, ao apreciar a ADI 3.105, Rel. Min. Cezar Peluso, firmou entendimento no sentido de ser constitucional, após a edição da EC nº 41/2003, a cobrança de contribuição previdenciária sobre proventos de aposentadoria e pensões dos servidores públicos da União, Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações.
+    Ademais, o Tribunal de origem, firme na legislação local, assentou a regularidade dos descontos nos vencimentos do recorrente. Diante de tal circunstância, não se mostra viável dissentir da conclusão assentada pelo acórdão recorrido sem que seja analisada a legislação infraconstitucional pertinente. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Confiram-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. COMPLEMENTAÇÕES DE APOSENTADORIA. 1. O deslinde da controvérsia relativa à legalidade da cobrança de contribuição previdenciária sobre complementação de aposentadoria cinge-se ao âmbito infraconstitucional. Súmulas 279 e 280 do STF. 2. Agravo regimental a que se nega provimento (ARE 914760 AgR / SP, Rel. Min. Edson Fachin)”
+    “Agravo regimental em agravo de instrumento. 2. Contribuição previdenciária. Incidência sobre proventos de inativos e pensionistas. Período posterior à EC 41/2003. Constitucionalidade. 3. Discussão acerca da incidência da Lei estadual 954/2003. Matéria infraconstitucional. 4. Recurso que não demonstrou o desacerto da decisão agravada. 5. Agravo regimental a que se nega provimento”. (AI 737632-AgR/SP, Rel. Min. Gilmar Mendes)
+    Nesse sentido, confira-se ainda a ementa do ARE 685.591-AgR, julgado sob a relatoria da Ministra Rosa Weber:
+    “DIREITO ADMINISTRATIVO. CONTRIBUIÇÃO SOBRE PROVENTOS DE INATIVOS E PENSIONISTAS APÓS A EMENDA CONSTITUCIONAL 41/2003. CONSTITUCIONALIDADE. DESCONTOS INSTITUÍDOS PELA LEI COMPLEMENTAR ESTADUAL 954/2003. ALEGAÇÃO DE NÃO INCIDÊNCIA DA CONTRIBUIÇÃO APÓS O ADVENTO DA LEI COMPLEMENTAR ESTADUAL 1.012/2007. DEBATE DE ÂMBITO INFRACONSTITUCIONAL. SÚMULA 280/STF. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO FEDERAL NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 05.09.2011.
+    A jurisprudência desta Corte é firme no sentido de ser constitucional a cobrança de contribuição previdenciária sobre os proventos de servidores inativos e pensionistas após a EC 41/2003.
+    A discussão relativa ao desconto das contribuições previstas na Lei Complementar Estadual 954/2003 reveste-se de índole infraconstitucional, de modo que, a eventual afronta ao texto constitucional, caso ocorresse, seria indireta, o que não atende a exigência contida no art. 102, III, ‘a’, da Lei Maior. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”.
+    Agravo regimental conhecido e não provido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+                Brasília, 11 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
