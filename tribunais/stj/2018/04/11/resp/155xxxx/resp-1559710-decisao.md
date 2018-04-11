@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 248):
+ASSISTÊNCIA SOCIAL. BENEFÍCIO DE PRESTAÇÃO CONTINUADA. ART. 203, INCISO V, DA CONSTITUIÇÃO FEDERAL. LEI 8.742/93 (LOAS). REQUISITOS. ORIENTAÇÃO DO STF.
+1. (..).
+2. O requisito incapacidade para a vida independente (a) não exige que a pessoa possua uma vida vegetativa ou que seja incapaz de locomover-se; (b) não significa incapacidade para as atividades básicas do ser humano, tais como alimentar-se, fazer a higiene e vestir-se sozinho; (c) não impõe a incapacidade de expressar-se ou de comunicar-se; (d) não pressupõe dependência total de terceiros; (e) apenas indica que a pessoa deficiente não possui condições de autodeterminar-se completamente ou depende de algum auxílio, acompanhamento, vigilância ou atenção de outra pessoa, para viver com dignidade.
+3. (..).
+4. Na mesma ocasião o Supremo Tribunal Federal declarou a inconstitucionalidade do parágrafo único do artigo 34 da Lei 10.741/03 (Estatuto do Idoso). Segundo entendeu a Corte, restou caracterizada ofensa ao princípio da isonomia, pois aberta exceção para o recebimento de dois benefícios assistenciais por idosos, sem que contemplada a percepção conjunta de benefício de idoso com o de deficiente ou de qualquer outro previdenciário. Assim, incorreu o legislador em equívoco, pois, tratando-se de situações idênticas, deveria ser possível a exclusão do cômputo do benefício, independentemente de sua origem.
+5. Comprovada a incapacidade para a vida independente e a situação de risco social em que vive, é devida a concessão do benefício assistencial à parte autora.
+Opostos embargos declaratórios, foram rejeitados (fl. 260).
+Aponta o INSS, preliminarmente, afronta ao art. 535, II, do CPC, sustentando negativa de prestação jurisdicional.
+No mérito, indica violação ao art. 20, § 2º, da Lei 8.742/93 e 145 do CPC, sustentando que o Tribunal "determinou a concessão de benefício assistencial à parte autora, apesar de não ter sido comprovado a condição legal para tanto, a deficiência" (fl. 264).
+Enfatiza que "o laudo médico pericial juntado aos autos para tanto, concluiu pela INEXISTÊNCIA DE DEFICIÊNCIA da parte interessada. Nos termos do dispositivo em tem tela, a deficiência caracteriza-se pelo impedimento de longo prazo o qual mesmo diante da conclusão pericial, o órgão julgador preferiu PRESUMIR a deficiência a partir de elementos aleatórios que encontrou nas entrelinhas da fase instrutória e concedeu o beneficio" (fl. 267).
+Devidamente intimada, a parte recorrida deixou transcorrer in albis, o prazo para apresentar contrarrazões, conforme certidão de fl. 277.
+É o relatório.
+A irresignação não merece prosperar.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A seguir, é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Quanto à questão de fundo, defende a autarquia que deve prevalecer a conclusão do laudo pericial no sentido de que a autora não tem deficiência, requisito legal para a concessão do benefício assistencial.
+Entretanto, é importante ressaltar que o juiz não está adstrito às conclusões da perícia técnica e pode se pautar em outros elementos de prova aptos à formação de seu livre convencimento, estando autorizado a concluir pela incapacidade laborativa fundado no conjunto probatório produzido nos autos e nas particularidades do caso concreto. AgRg no AREsp 136.474/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/06/2012, DJe 29/06/2012.
+Na espécie, o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que, embora o laudo pericial não atestasse a deficiência da parte autora, outros aspectos socioeconômicos, profissionais e culturais, impunham o reconhecimento do direito ao benefício pleiteado, conforme se vê do seguinte excerto do acórdão recorrido (fls. 236/242):
+Do caso concreto
+No presente caso, no que tange à análise da prova referente aos requisitos da incapacidade e socioeconômico, a sentença da lavra do Juiz de Direito Paulo [NOME] foi proferida nos seguintes termos:
+(..).
+No que concerne ao requisito incapacidade, em que pese o laudo pericial afirme que não há redução da capacidade para prática dos atos cotidianos pelo autor, os demais elementos do contexto probatório marcham em sentido contrário ao parecer médico.
+Não se questiona aqui a ocorrência e clareza da perícia realizada, que constatou que, de fato, o autor não tem a saúde comprometida por conta da doença que possui.
+Entretanto, a realizada social em que está inserido indica a enorme dificuldade de recolocação no mercado de trabalho, mormente por conta do preconceito que sofre a pessoa portadora do vírus HIV.
+Desse modo, sendo de uma dificuldade colossal conseguir trabalho, o autor fica impossibilitado de promover meios para garantir a sua subsistência, tornando-se uma vítima da doença que lhe acomete.
+Negar-lhe o benefício postulado seria o mesmo que obrigá-lo a viver marginalizado, à beira da sociedade, totalmente dependente da caridade de terceiros, o que não se admite. Estar-se-ia criando mais um problema social, o que vai de encontro às premissas sociais do Estado.
+(..).
+Portanto, a parte autora tem direito ao benefício postulado, eis que demonstrou a contento a existência dos requisitos previstos no artigo 203, inciso V, da CRFB, na Lei 8.742/93 e no Decreto 1.744/95.
+(..).
+Por conseguinte, comprovada a incapacidade da parte autora para o trabalho e para a vida independente, bem como a situação do risco social em que vive, é devido o benefício assistencial, desde a data do requerimento administrativo, apresentado em 24/10/2012 (fl. 13), não merecendo reforma a sentença que julgou procedente o pedido.
+Referido entendimento está em consonância com a jurisprudência desta Corte sobre o tema, como demonstram os seguintes precedentes:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA POR INVALIDEZ. ASPECTOS ECONÔMICOS, SOCIAIS E CULTURAIS DO SEGURADO. VALORAÇÃO DA PROVA COLHIDA NA INSTÂNCIA ORDINÁRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 07 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Conforme a jurisprudência do Superior Tribunal de Justiça, "A concessão da aposentadoria por invalidez deve considerar, além dos elementos previstos no art. 42 da Lei nº 8.213/91, os aspectos socioeconômicos, profissionais e culturais do segurado, ainda que o laudo pericial apenas tenha concluído pela sua incapacidade parcial para o trabalho. Precedentes. Agravo regimental não provido" (STJ, AgRg no REsp 1338869/DF, Relator Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 29/11/2012).
+II. Reconhecido, pelo Tribunal de origem, que o recorrido faz jus ao benefício de aposentadoria por invalidez, a mudança de entendimento acerca da questão demandaria incursão no conjunto fático-probatório dos autos, o que é vedado, pelo enunciado da Súmula 07 desta Corte.
+III. Consoante a jurisprudência do STJ, "concluindo o juízo de origem, com base no contexto fático-probatório dos autos, que a parte autora faz jus ao benefício, a revisão desse posicionamento encontra óbice no enunciado nº 7 da Súmula n. 7/STJ. (..)" (STJ, AgRg no Ag 1368042/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 12/09/2011).
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 36.281/MS, Rel. Min. ASSUSETE MAGALHÃES, SEXTA TURMA, DJe 1/3/2013)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. LAUDO PERICIAL CONCLUSIVO PELA INCAPACIDADE PARCIAL DO SEGURADO. NÃO VINCULAÇÃO. CIRCUNSTÂNCIA SÓCIO-ECONÔMICA, PROFISSIONAL E CULTURAL FAVORÁVEL À CONCESSÃO DO BENEFÍCIO. RECURSO DO INSS DESPROVIDO.
+1. Os pleitos previdenciários possuem relevante valor social de proteção ao Trabalhador Segurado da Previdência Social, devendo ser, portanto, julgados sob tal orientação exegética.
+2. Para a concessão de aposentadoria por invalidez devem ser considerados outros aspectos relevantes, além dos elencados no art. 42 da Lei 8.213/91, tais como, a condição sócio-econômica, profissional e cultural do segurado.
+3. Embora tenha o laudo pericial concluído pela incapacidade parcial do segurado, o Magistrado não fica vinculado à prova pericial, podendo decidir contrário a ela quando houver nos autos outros elementos que assim o convençam, como no presente caso.
+4. Em face das limitações impostas pela moléstia incapacitante, avançada idade e baixo grau de escolaridade, seria utopia defender a inserção do segurado no concorrido mercado de trabalho, para iniciar uma nova atividade profissional, motivo pelo qual faz jus à concessão de aposentadoria por invalidez.
+5. Agravo Regimental do INSS desprovido.
+(AgRg no AREsp 136.474/MG, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/6/2012)
+Ademais, a questão foi decidida na instância ordinária de acordo com os fatos e provas constantes nos autos, de forma que a alteração das conclusões adotadas, tal como colocado pela autarquia recorrente, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito, veja-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ASSISTÊNCIA SOCIAL. AMPARO SOCIAL AO DEFICIENTE. 535. OMISSÃO. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMOSTRADO.
+1. Inexiste violação do art. 535 do CPC quando o Tribunal de origem resolve a controvérsia de maneira sólida e fundamentada, apenas não adotando a tese do recorrente.
+2. Rever o posicionamento do Tribunal de origem, no ponto em que entendeu que a parte autora não teria direito ao benefício assistencial, demandaria o reexame fático-probatório, o que é inadmissível nesta instância especial. Incidência da Súmula 7/STJ.
+Precedentes.
+3. Não é possível conhecer do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional, porquanto é necessário indicar o dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, o que não foi observado pelo agravante. Inteligência da Súmula 284/STF.
+4. Agravo regimental não provido.
+(AgRg no AREsp 298.359/PB, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 05/09/2013, DJe 12/09/2013)
+Diante do exposto, não conheço do recurso especial.
+Publique-se.
