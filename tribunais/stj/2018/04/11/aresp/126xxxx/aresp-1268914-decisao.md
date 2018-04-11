@@ -1,0 +1,22 @@
+DECISÃO
+Agrava-se de decisão que inadmitiu o processamento de recurso especial interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Amazonas.
+Extrai-se dos autos que o ora agravante, no primeiro grau de jurisdição, foi condenado como incurso no art. 16, paragrafo único, IV, da Lei 10.826/2003, à pena de 2 anos e 6 meses de reclusão, no regime inicial aberto, e ao pagamento de 15 dias-multa. Foram apreendidos 1 revólver calibre .38, com numeração raspada e 6 munições intactas do mesmo calibre (e-STJ fls.121/124).
+O Tribunal de origem negou provimento ao apelo da defesa. O acórdão recebeu a seguinte ementa (e-STJ fl. 706):
+POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. PEDIDO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NÚMERO DE SÉRIE SUPRIMIDO POR TERCEIRO. IRRELEVÂNCIA. RECURSO DESPROVIDO.
+1. Para se enquadrar na tipificação penal do art. 16, § único, IV da Lei 10.826/03, basta que o agente possua arma de fogo com numeração, marca ou qualquer outro sinal de identificação suprimido.
+2. In casu, o Apelante postula pela desclassificação do delito previsto art. 16, parágrafo único, IV, da Lei 10.826/03, para o tipificado no Art. 12 do mesmo diploma legal, sob o argumento de que o revólver apreendido continha sinal identificador.
+3. Todavia, extrai-se dos autos que a arma de fogo possuia apenas o número de montagem. Porém, o número de série encontrava-se, de fato, suprimido. Portanto, conclui-se que a referida conduta amolda-se à tipificação supracitada.
+4. Outrossim, é irrelevante que a supressão do número de série tenha sido efetuada pelo possuidor ou não, posto que se trata de crime de mera conduta, o qual, para configurar-se, basta que o agente possua arma de fogo com sinal de identificação raspado, suprimido ou adulterado.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente apontou violação do art, 18. parágrafo único, II, do Código Penal e art. 16, paragrafo único, IV, da Lei 10.826/2003. Pugnou pela desclassificação da conduta para o delito do art. 12 da Lei 10.826/2003, sob o argumento de que não ficou demonstrado que o acusado tinha conhecimento de que a arma estava com a numeração suprimida.
+O Ministério Público Federal manifestou-se, às e-STJ fls. 228/229, pelo desprovimento do recurso.
+É o relatório. Decido.
+O Tribunal de origem, a quem cabe a análise das questões fático-probatórias dos autos, reconheceu a existência de elementos de provas suficientes para embasar o decreto condenatório. Desse modo, tenho que a mudança da conclusão alcançada no acórdão impugnado exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+A respeito:
+REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE DE ARMA COM NUMERAÇÃO RASPADA. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. O Tribunal de piso, soberano na reanálise do conjunto fático-probatório, concluiu pela condenação da ora agravante pela prática do crime de posse ilegal de arma de fogo com numeração suprimida.
+2. Desconstituir o julgado por suposta contrariedade à lei federal, pugnando pela absolvição ou, alternativamente, a mera desclassificação da conduta denunciada, não encontra campo na via eleita, dada a necessidade de revolvimento do material probante, procedimento de análise exclusivo das instâncias ordinárias e vedado ao Superior Tribunal de Justiça em sede de recurso especial, a teor da Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 565.520/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/11/2014, DJe 27/11/2014).
+Ademais, o aresto recorrido alinha-se à orientação jurisprudencial assente nesta Corte Superior, firme no sentido de que "A conduta de possuir arma de fogo com número de série e marca suprimidos por processo abrasivo, no momento da apreensão, se subsume ao crime tipificado no art. 16, parágrafo único, IV, da Lei n. 10.826/2003, que dispõe incorrer nas mesmas penas do caput quem portar, possuir, adquirir, transportar ou fornecer arma de fogo com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado" (HC 334.693/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+Diante do exposto, conheço do agravo e não conheço do recurso especial.
+Publique-se. Intimem-se.
