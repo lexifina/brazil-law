@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário interposto pelo Município de General Salgado em face de acórdão do Tribunal de Justiça do Estado de São Paulo, que julgou inconstitucional a Lei que instituiu a COPIP no município.
+    Em um primeiro momento os autos vieram a esta Corte, oportunidade em que determinei a sua baixa à origem coma finalidade de adequação à sistemática da repercussão geral, tendo por base o julgamento do RE 573.675, de relatoria do Ministro Ricardo Lewandowski, Tribunal Pleno, DJe 22.05.2009 (Tema 44).
+    Em juízo de retratação, o Tribunal de Justiça do Estado de São Paulo manteve o entendimento outrora esposado, cuja ementa transcrevo (eDOC 7, p. 14):
+    “CONTRIBUIÇÃO — Iluminação pública —Município de General Salgado — Exercícios de 2003 a 2006 — Pretensão à restituição dos valores ti ó indevidamente pagos — Cobrança fundada na LC no 06/2002 — Diploma, todavia , declarado inconstitucional pelo E. órgão Especial desta Corte, na ADI n° 116.866-0/2 — Hipótese diversa da daquela que ensejou a decisão no RE n° 573.675-0/SC — Acórdão não destoante , pois, do decidido naquele precedente — Caso em que a manutenção do decisum por este Tribunal é de rigor, a teor do que estatui o art. 543 -13, §§ 30 e 4°, do CPC.”
+    Ante a negativa de retratação, os autos retornaram a esta Corte para julgamento do mérito.
+    É o relatório. Decido.
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 149-A, do Texto Constitucional.
+    Nas razões recursais, sustenta-se a constitucionalidade da referida contribuição.
+    A pretensão merece acolhida.
+    Isso porque esta Corte entendeu, em sede de repercussão geral, pela constitucionalidade da instituição de contribuição para o custeio de serviço de iluminação pública no âmbito do RE-RG 573.675, de relatoria do Ministro Ricardo Lewandowski, Tribunal Pleno, DJe 22.05.2009.
+    Veja-se a ementa do referido julgamento:
+    “CONSTITUCIONAL. TRIBUTÁRIO. RE INTERPOSTO CONTRA DECISÃO PROFERIDA EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE ESTADUAL. CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA - COSIP. ART. 149-A DA CONSTITUIÇÃO FEDERAL. LEI COMPLEMENTAR 7/2002, DO MUNICÍPIO DE SÃO JOSÉ, SANTA CATARINA. COBRANÇA REALIZADA NA FATURA DE ENERGIA ELÉTRICA. UNIVERSO DE CONTRIBUINTES QUE NÃO COINCIDE COM O DE BENEFICIÁRIOS DO SERVIÇO. BASE DE CÁLCULO QUE LEVA EM CONSIDERAÇÃO O CUSTO DA ILUMINAÇÃO PÚBLICA E O CONSUMO DE ENERGIA. PROGRESSIVIDADE DA ALÍQUOTA QUE EXPRESSA O RATEIO DAS DESPESAS INCORRIDAS PELO MUNICÍPIO. OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA CAPACIDADE CONTRIBUTIVA. INOCORRÊNCIA. EXAÇÃO QUE RESPEITA OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO EXTRAORDINÁRIO IMPROVIDO. I - Lei que restringe os contribuintes da COSIP aos consumidores de energia elétrica do município não ofende o princípio da isonomia, ante a impossibilidade de se identificar e tributar todos os beneficiários do serviço de iluminação pública. II - A progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os consumidores de energia elétrica, não afronta o princípio da capacidade contributiva. III - Tributo de caráter sui generis, que não se confunde com um imposto, porque sua receita se destina a finalidade específica, nem com uma taxa, por não exigir a contraprestação individualizada de um serviço ao contribuinte. IV - Exação que, ademais, se amolda aos princípios da razoabilidade e da proporcionalidade. V - Recurso extraordinário conhecido e improvido.”
+    Por conseguinte, o Tribunal de origem divergiu da jurisprudência do Supremo Tribunal Federal, não prosperando a distinção entre a presente demanda e o paradigma indicado.
+    Ante o exposto, conheço do recurso extraordinário a que se dá provimento, nos termos do 21, § 2º, do RISTF, para reformar o acórdão recorrido, assentando a constitucionalidade da exação referente à COSIP da Municipalidade Recorrente, sendo inviável a repetição de indébito.
+    Invertidos os ônus de sucumbência.
+    Publique-se.
+    Brasília, 11 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
