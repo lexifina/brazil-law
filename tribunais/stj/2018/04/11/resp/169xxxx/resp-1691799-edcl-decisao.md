@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] ALICE, em face de decisão de fls. 215/221, que negou provimento ao recurso especial.
+Em suas razões, a parte embargante aponta omissão na decisão, afirmando que "o Recurso Especial questionou a correção monetária fixada pelo v. acórdão do E. Tribunal Regional a quo, todavia, não houve qualquer pronunciamento na r. decisão monocrática de fls. retro sobre a matéria, o que resulta num julgamento citra petita" (fl. 225).
+Nessa linha, aduz que, "Tendo o Recurso Especial defendido o posicionamento agora declarado pelo STF e a r. decisão monocrática ter sido proferida após referido julgamento, mister que a matéria seja analisada pelo Douto Ministro Relator, nos termos do que dispõe o art. 1.022, parágrafo único, do CPC, e o art. 489, § 1º, VI, do mesmo Codex" (fl. 226).
+Sustenta, ainda que "além da omissão sobre a violação aos artigos 509, § 4º, 502, 508 e 535, VI, do CPC, a r. decisão ora questionada também foi omissa em analisar as razões recursais sob a ótica do art. 105, III, "c", da CF, vício que precisa ser sanado" (fl. 226).
+A parte embargada não apresentou impugnação conforme certidão de fl. 233.
+É o relatório.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+A tese defendida nos presentes embargos, relativa à violação aos arts. 502, 508 e 535, VI, do CPC, conforme consignado na decisão embargada, o Tribunal decidiu em sintonia com o entendimento desta Corte, no sentido de que não ser possível, em sede de execução, alegar matéria que não fora oportunamente suscitada e discutida no processo de conhecimento, em razão da preclusão e da coisa julgada.
+Por outro lado, de fato, não houve qualquer manifestação na decisão embargada, acerca da correção monetária fixada pela Corte de origem, muito embora, nas razões do apelo especial, a embargante mencione de forma genérica a Lei 11.960/09, não amparou o inconformismo na violação de qualquer lei federal.
+Com efeito, consta na petição do apelo especial: "eis os dispositivos legais afrontados pela r. decisum recorrida:- os artigos 435, 502, 508, 509, § 4º, 535, VI e 1022,1 e II, todos no Novo CPC (antigos arts. 467, 474, e 475-G, 741, VI e 535, I e II), bem como a Súmula 72 do TNU e o artigo 687 da IN nº 77/2015, a Resolução nº. 267/13 do CJF e os demais entendimentos jurisprudenciais mencionados" (fl. 158).
+Nesse contexto, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
