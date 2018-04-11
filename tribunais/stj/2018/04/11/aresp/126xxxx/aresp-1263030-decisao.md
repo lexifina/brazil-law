@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DO TUTELA ANTECIPADA. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
+DECISÃO
+AGNALDO ALVES DE OLIVEIRA (AGNALDO) ajuizou ação declaratória de inexistência de débito c/c indenização por danos morais e pedido de tutela antecipada contra TIM NORDESTE S/A (TIM), que foi julgada procedente.
+A apelação interposta por AGNALDO foi parcialmente provida pelo Tribunal de origem, nos termos da seguinte ementa:
+Apelação Cível - Ação declaratória de Inexistência de Débito c/c Indenização por Danos Morais - Preliminar de ausência de interesse recursal afastada - Sucumbência material caracterizada - Fixação de valor dos danos morais em quantia inferior a pleiteada pelo autor - Recurso repetitivo - Mérito - Cobrança por inadimplemento de linha telefônica - Serviço não contratado pelo requerente - Atuação de falsários que não existe a responsabilidade da empresa requerida - Dano moral devido - Caracterização in re ipsa - Manutenção do quantum indenizatório fixado em RS I.000,00 (mil reais) - Quantificação que deve levar em conta a existência de várias ações ajuizadas pelo Autor sobre o mesmo tema - Vedação ao enriquecimento sem causa - Majoração dos honorários para o percentual de 20% do valor da condenação - Sentença parcialmente reformada - Recurso conhecido e parcialmente provido - Votação unânime. (e-STJ fls. 182)
+Inconformado, AGNALDO interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 944 do CC, ao sustentar que o valor da indenização é ínfimo, devendo ser majorado.
+O apelo nobre não foi admitido em virtude da incidência da Súmula 7 do STJ.
+Nas razões do presente agravo em recurso especial, AGNALDO sustentou que não é caso de incidência da referida súmula.
+Sem impugnação.
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+Do art. 944 do CC
+No que se refere ao montante arbitrado pelos danos morais, a lei não fixa valores ou critérios para a sua quantificação que, entretanto, deve ter assento na regra do art. 944 do Código Civil. Por isso, esta Corte tem se pronunciado reiteradamente que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Dessa forma, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+No caso, o tribunal de origem fundamentou que o autor possui diversas ações semelhantes e que a fixação de valor alto ensejaria enriquecimento sem causa, assim consignando:
+Compulsando os autos, verifico que o autor possui diversas ações semelhantes nas quais pleiteia dano moral cm decorrência da negativação referente a faturas da Tim Celular S/A que se venceram em meses anteriores e posteriores a que se discute nos presentes autos.
+Ademais, em consulta no Sistema de Controle Processual deste Tribunal de Justiça, verifico que algumas destas ações já foram julgadas procedentes, com a fixação de dano moral em RS 3.000.00 1201510801079), RS 2.000.00 (201511101251), RS 1.000.00 (201510101056) e RS 1.000.00 (201SI1101246). Desse modo. fixar um valor alto cm cada uma delas fomentaria ainda mais a "indústria do dano moral", ocasionando enriquecimento sem causa por pane da autora. (e-STJ fls. 184)
+Assim, o valor fixado na sentença e mantido pelo Tribunal de origem para a indenização por danos morais, qual seja, R$ 1.000,00 (mil reais), não se mostra irrisório a justificar a excepcional intervenção desta Corte no presente feito.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NEGAR PROVIMENTO do recurso especial.
+Deixo de majorar os honorários advocatícios, pois já fixados no teto máximo permitido, conforme art. 85, § 2º c/c § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
