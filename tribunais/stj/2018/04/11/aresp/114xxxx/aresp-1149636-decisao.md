@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO. AÇÃO DE COBRANÇA. 1. AGRAVO RETIDO. PERÍCIA EM DOCUMENTOS FISCAIS. AUSÊNCIA DE INTIMAÇÃO DAS PARTES ACERCA DA REALIZAÇÃO DA PERÍCIA. REQUERIMENTO DE NOVA PERÍCIA. IMPOSSIBILIDADE. PROVA DESNECESSÁRIA AO DESLINDE DA CAUSA. 2. INADIMPLEMENTO JUSTIFICADO PELA EXISTÊNCIA DE CASO FORTUITO. DIVERSOS ROUBOS DOS VALORES ARRECADADOS. IMPOSSIBILIDADE. DATAS DOS ROUBOS DIFEREM COM O VENCIMENTO DOS VALORES COBRADOS. AUSÊNCIA DE RESPONSABILIDADE SOLIDÁRIA. DISPOSIÇÃO CONTRATUAL. RESPONSABILIDADE EXCLUSIVA DA EXECUTADA QUANTO À GUARDA DOS VALORES ARRECADADOS. 2. APLICAÇÃO DE JUROS DE MORA NO VALOR DE 1% AO MÊS. JUROS E CORREÇÃO MONETÁRIA.
+DEVIDOS DESDE A DATA DO VENCIMENTO DE CADA PARCELA.
+HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO NOS TERMOS DO ART. 20, §3º. RECURSO DE APELAÇÃO (1) DESPROVIDO. RECURSO DE APELAÇÃO (2) PROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 515 do Código de Defesa do Consumidor de 1973; 115, 1.058 e 1.091 do Código Civil de 1916.
+Assim posta a questão, observo que o recurso não poderia ser acolhido sem reexame de prova. As razões do recurso especial partem do pressuposto de que não foi demonstrada sua responsabilidade contratual no caso dos autos. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 213):
+Pois bem, infere-se que as datas dos assaltos, conforme boletins de ocorrência (fls. 266/271), ocorreram em 17.01.2001, 12.04.2001, 26.07.2001, 03.09.2001, 10.11.2001, e, por outro lado, os valores cobrados possuem data de vencimento em 03.12.2001(fls. 40), 30.11.2001 (fls. 63), 16.01.2002 (fls. 80), 02.12.2001 (fls. 112) e em 03.12.2001 (fls. 154).
+Dessa forma, percebe-se que as datas de vencimento dos valores cobrados e os assaltos sofridos pela apelante não coincidem, motivo pelo qual, a cobrança se mostra devida, restando prejudicada a análise da validade/eficácia da "CLÁUSULA 2a, §5º" do contrato celebrado pelas partes, eis que a cláusula impugnada trata da responsabilidade da guarda dos valores arredados, in verbis:
+"A guarda do numerário desde o recebimento até a prestação de contas para a COPEL, é de inteira responsabilidade do AGENTE ARRECADADOR, inclusive, quanto a fatores decorrentes de caso fortuito ou força maior, conforme definidos no parágrafo único do artigo 1058 do Código Civil. (fls. 255) "
+De mais a mais, mesmo que as datas dos assaltos coincidissem com a do vencimento das prestações, não deve prosperar a alegação da culpa concorrente das partes, eis que, à luz da "CLÁUSULA 2a, §5º" do contrato celebrado pelas partes, a ré era a única responsável pela guarda do numerário arrecadado.
+Afastar essas conclusões é inviável em recurso especial, consoante dispõem as Súmulas 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
