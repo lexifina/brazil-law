@@ -1,0 +1,27 @@
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INEXISTÊNCIA DE PEDIDO ADMINISTRATIVO IDÔNEO. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 07/STJ. RECURSO ESPECIAL DESPROVIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME], fundamentado nas alíneas "a" e "c", inciso III, artigo 105, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO CAUTELAR PREPARATÓRIA DE EXIBIÇÃO DE DOCUMENTOS - PRELIMINAR DE FALTA DE INTERESSE DE AGIR - RECURSO ESPECIAL 1349453/MS (ART. 543-C DO CPC) - PRÉVIO PEDIDO ADMINISTRATIVO VÁLIDO - AUSÊNCIA - EXTINÇÃO DO PROCESSO. - Conforme reposicionamento do C. STJ adotado no Recurso Especial 1349453/MS, que foi julgado sob a ótica de Recurso Repetitivo, a propositura de ação cautelar de exibição de documentos preparatória para o fim de instruir ação principal está condicionada à demonstração de existência de relação jurídica entre as partes, comprovação de prévio pedido administrativo à instituição financeira não atendido em prazo razoável e ao pagamento do custo do serviço, desde que haja a previsão contratual respectiva e a normatização da autoridade monetária. - Ausente o interesse de agir da parte que não comprova a existência de prévio requerimento administrativo válido, tal circunstancia enseja a extinção do processo sem julgamento do mérito.
+(V.v.) Embora não atendidos os requisitos configuradores do interesse processual, informados no REsp 1.349.453/MS, processado sob a sistemática dos recursos repetitivos, não seria razoável, a essa altura, julgar extinto o processo, sem exame do mérito, porquanto a instituição financeira já exibiu a documentação em sua defesa. Adotar tal medida processual seria desfazer a realidade fática produzida nos autos, injustificado formalismo, até mesmo porque nada impediria que a parte autora ingressasse novamente com a medida cautelar de exibição de documentos, após prévio requerimento à instituição financeira não atendido. Há que se preservar, salvo melhor juízo, o interesse já consolidado.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 119/133).
+Nas razões do recurso especial, o recorrente além de dissídio jurisprudencial, alega violação aos artigos 42, 43 § 2º da Lei nº 8.078/90; 14, § 1º da Lei nº 9.492/97 e 246, I e 513, § 2º, II da Lei nº 13.105/15, sustentando, em síntese, negativa de prestação jurisdicional e ter interesse de agir, uma vez que atendeu ao requisito do prévio pedido não atendido em prazo razoável.
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Com efeito, verifica-se que o Tribunal de origem, após análise do conteúdo fático-probatório colacionado aos autos, concluiu pela inexistência de prévio pedido administrativo idôneo, nesses termos:
+No presente feito, inexiste pedido administrativo válido. Isso porque passou a ser o entendimento desta Câmara que o pleito administrativo deve ser comprovado por meio de protocolo perpetrado pela parte consumidora, apto a demonstrar a efetivação do pedido de exibição do documento na agência bancária ou local onde contratou o serviço, o que não foi juntado aos autos.
+Com tais considerações, uma vez instalada, de ofício, a preliminar de falta de interesse de agir da parte autora, alternativa não resta senão a extinção do processo sem resolução do mérito, com fulcro no art. 267 do CPC. (e-STJ fl. 105).
+Assim, depreende-se da leitura dos autos que a análise da alegação recursal acerca da idoneidade do requerimento administrativo, demandaria inafastável revolvimento fático probatório, o que é vedado em sede de recurso especial, a teor da Súmula 7 deste Superior Tribunal de Justiça.
+A propósito, confira julgado desta Corte Superior:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. BRASIL TELECOM. EXIBIÇÃO DE DOCUMENTOS. PEDIDO ADMINISTRATIVO. OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado que concluiu que houve pedido administrativo de exibição de documentos demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 643.050/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/05/2015, DJe 02/06/2015).
+Destarte, dada a incidência da Súmula nº 7 desta Corte Superior, o desprovimento do recurso especial é medida que se impõe.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+Assim, como o caso dos autos é proveniente de sentença condenatória, sendo fixada verba honorária de R$ 400,00 (quatrocentos reais), a majoração dos honorários a ser pago pela parte recorrente para R$ 500,00 (quinhentos reais) é medida adequada ao caso, ressalvado o benefício da assistência judiciária gratuita.
+Ante o exposto, com base no art. 932, inciso IV, do CPC/2015 c/c a Súmula 568/STJ, nego provimento ao recurso especial.
+Intimem-se.
