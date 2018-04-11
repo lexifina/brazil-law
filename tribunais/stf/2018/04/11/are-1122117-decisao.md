@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário, sob o fundamento de que o conhecimento do recurso encontra óbice na Súmula 281 desta Corte.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar o fundamento da decisão agravada, o que atrai a incidência da Súmula 287/STF.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal. Com esse entendimento, menciono julgados de ambas as Turmas deste Tribunal, cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Além disso, a decisão agravada está em consonância com o entendimento desta Corte no sentido de que, nos termos do art. 102, III, da Constituição Federal, admite-se o recurso extraordinário apenas contra decisão de única ou de última instância. No presente caso, constata-se que não foram esgotadas as vias recursais ordinárias, uma vez que ainda seria cabível recurso de agravo contra a decisão monocrática que julgou os embargos de declaração, nos termos do art. 1.021 do Código de Processo Civil. Incide, na espécie, a Súmula 281 desta Corte.
+    Nesse sentido, menciono as seguintes decisões, entre outras: ARE 866.925-AgR/SC, Rel. Min. Dias Toffoli; ARE 664.388-AgR-AgR/DF, Rel. Min. Teori Zavascki; ARE 730.431-ED/RJ, Rel. Min. Cármen Lúcia; ARE 708.120-ED/DF, Rel. Min. Rosa Weber; AI 797.148-AgR/RJ, Rel. Min. Luiz Fux; AI 686.751-AgR/SC, Rel. Min. Ayres Britto; RE 399.785-AgR/PB, Rel. Min. Joaquim Barbosa; ARE 788.525-AgR/PR, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
