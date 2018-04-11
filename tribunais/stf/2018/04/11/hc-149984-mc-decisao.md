@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Terceira Vara Criminal da Comarca de São Leopoldo/RS, no processo-crime nº 0009103-77.2017.8.21.0033, converteu a prisão em flagrante do paciente, ocorrida no dia 29 de abril de 2017, em preventiva, ante a suposta prática da infração descrita no artigo 157, § 2º, incisos I e II (roubo com causas de aumento de pena alusivas a emprego de arma de fogo e concurso de pessoas), do Código Penal. Frisou indispensável a custódia para garantir a ordem pública, reportando-se à gravidade do crime. Destacou os contornos do delito, cometido com grave ameaça e concurso de agentes, em estabelecimento comercial e contra diversas vítimas. Afastou a viabilidade de medida cautelar diversa, tendo-a como insuficiente.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 413.927/RS, o qual teve a ordem indeferida pela Sexta Turma.
+    Os impetrantes sustentam a inidoneidade da fundamentação do ato mediante o qual imposta a constrição, dizendo-a lastreada na gravidade abstrata da infração. Apontam ausentes os requisitos autorizadores da preventiva. Sublinham as condições pessoais favoráveis do paciente – primariedade, bons antecedentes, ocupação lícita e residência fixa.
+    Requerem, no campo precário e efêmero, a revogação da custódia e, sucessivamente, a imposição de medida descrita no artigo 319 do Código de Processo Penal. No mérito, buscam a confirmação da providência.
+    Mediante a petição/STF nº 18.373/2018, reiteram os pedidos. Noticiam que o Juízo da Terceira Vara Criminal da Comarca de São Leopoldo/RS, em 21 de março último, condenou o paciente 6 anos de reclusão, em regime inicial semiaberto, e ao pagamento de 30 dias-multa, ante a prática do delito citado. Negou o direito de recorrer em liberdade, afirmando presentes os motivos ensejadores da preventiva.
+    Em consulta ao sítio do Tribunal de Justiça, verificou-se a interposição de apelação em 6 de abril de 2018.
+    A fase é de apreciação da medida acauteladora.
+    2. A prisão em flagrante por crime de roubo, cometido mediante emprego de arma de fogo e concurso de pessoas, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Ocorre que o paciente está preso preventivamente há 11 meses e 12 dias. Surge o excesso de prazo. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato mediante o qual implementada, em execução antecipada da sanção, ignorando-se garantia constitucional.
+    A superveniência de decisão condenatória recorrível não afasta a natureza preventiva da constrição. O artigo 283, cabeça, do Código de Processo Penal, ao versar os títulos prisionais provisórios, contempla o flagrante, a temporária e a preventiva, revelando que as prisões decorrentes da pronúncia e da sentença penal condenatória ainda não alcançada pela preclusão maior integram a última. O artigo 387, § 1º, rotula como preventiva a custódia oriunda de condenação não transitada em julgado.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0009103-77.2017.8.21.0033, da Terceira Vara Criminal da Comarca de São Leopoldo/RS. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 11 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
