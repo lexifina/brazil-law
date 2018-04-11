@@ -1,0 +1,35 @@
+EMENTA
+ADMINISTRATIVO. ANISTIA. VALORES RETROATIVOS. ILEGITIMIDADE ATIVA.
+I - Trata-se de mandado de segurança impetrado contra o MINISTRO DE ESTADO DO PLANEJAMENTO ORÇAMENTO E GESTÃO, por suposta omissão no cumprimento da portaria 683/2004, no tocante aos valores retroativos relativos à declaração de anistiado do pai da impetrante.
+II - Parecer ofertado pelo d. Ministério Público Federal, opinando pela concessão parcial da ordem (fls. 156-160).
+III - O Superior Tribunal de Justiça, em hipóteses similares à presente, tem se manifestado no sentido de que os valores retroativos relacionados à reparação econômica devida em virtude da concessão de anistia política têm caráter indenizatório, ingressando na esfera patrimonial do espólio após o óbito do anistiado.
+IV - Nesse contexto, compete à impetrante carrear aos autos os documentos que comprovam a sua nomeação como herdeira ou sucessora habilitada como inventariante, para defender os interesses do espólio, ou, na hipótese de encerramento do processo de inventário, de que lhe foi transmitido o direito à integralidade dos valores que seriam devidos ao anistiado político a título de efeitos retroativos de reparação econômica, com a exclusão dos demais herdeiros. Nesse sentido: Agint no MS 21732/DF, PRIMEIRA SEÇÃO, Rel. Ministro Gurgel de Faria, julgamento em 14/12/2016, DJe 16/02/2017; RMS 34252 AgR/DF, SEGUNDA TURMA, Rel. Ministro Teori Zavascki; Rel. para acórdão Min. Dias Toffoli, julgamento 06/02/2017.
+V - Na hipótese, não houve comprovação de que o bem ora pleiteado tenha sido transmitido à filha/impetrante em partilha, o que denota sua ilegitimidade ativa.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator." Os Srs. Ministros Herman Benjamin, Og Fernandes, Benedito Gonçalves, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Ausente, ocasionalmente, o Sr. Ministro Napoleão Nunes Maia Filho.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu mandado de segurança impetrado contra o MINISTRO DE ESTADO DO PLANEJAMENTO ORÇAMENTO E GESTÃO, por suposta omissão no cumprimento da portaria 683/2004, no tocante aos valores retroativos relativos à declaração de anistiado do pai da impetrante.
+Alega a impetrante que a Portaria anistiadora, editada pelo Ministro da Justiça, reconheceu a condição de anistiado de seu falecido genitor, concedendo-lhe reparação econômica de caráter indenizatório, em prestação mensal, com efeitos retroativos. Aduz que, com a morte de sua mãe (a qual vinha recebendo a reparação), tem direito líquido e certo de receber a indenização retroativa. Ao final, pleiteia a concessão da ordem a fim de que seja determinado à autoridade coatora o integral cumprimento da obrigação decorrente da referida Portaria, com o pagamento da reparação econômica.
+Informações prestadas pela autoridade apontada (fls. 99/151).
+Parecer ofertado pelo d. Ministério Público Federal, opinando pela concessão parcial da ordem (fls. 156/160).
+A decisão recorrida tem o seguinte dispositivo:"Ante o exposto, nos termos dos artigos 6º, § 5º, e 19 da Lei 12.016/2009 c/c arts. 485, IV, do CPC/2015 e 212 do RI/STJ, extingo o Mandado de Segurança, sem resolução de mérito. Custas processuais pela impetrante, suspensa a exigibilidade na forma do §3º do art. 98 do CPC/2015, diante da gratuidade de justiça deferida à fl. 39. ".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+O Superior Tribunal de Justiça, em hipóteses similares à presente, tem se manifestado no sentido de que os valores retroativos relacionados à reparação econômica devida em virtude da concessão de anistia política têm caráter indenizatório, ingressando na esfera patrimonial do espólio após o óbito do anistiado.
+Nesse contexto, compete à impetrante carrear aos autos os documentos que comprovam a sua nomeação como herdeira ou sucessora habilitada como inventariante, para defender os interesses do espólio, ou, na hipótese de encerramento do processo de inventário, de que lhe foi transmitido o direito à integralidade dos valores que seriam devidos ao anistiado político a título de efeitos retroativos de reparação econômica, com a exclusão dos demais herdeiros. Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ANISTIADO POLÍTICO. VALORES RETROATIVOS DA REPARAÇÃO ECONÔMICA. ILEGITIMIDADE ATIVA. 1. O Superior Tribunal de Justiça possui entendimento de que os valores retroativos relacionados à reparação econômica devida em virtude da concessão de anistia política têm caráter indenizatório, ingressando na esfera patrimonial do espólio após o óbito do anistiado. 2. Compete ao impetrante carrear aos autos os documentos que comprovam que foi nomeado como inventariante para defender os interesses do espólio, ou, na hipótese de encerramento do processo de inventário, que lhe foi transmitido o direito à integralidade dos valores que seriam devidos ao anistiado político a título de efeitos retroativos de reparação econômica, com a exclusão dos demais herdeiros. 3. Hipótese em que a impetrante não comprovou que a sua condição é de inventariante ou que tenha sido transmitido a si o direito à integralidade dos valores referentes à indenização retroativa, havendo a configuração da sua ilegitimidade ativa para pleitear isoladamente. 4. Agravo interno desprovido.
+(Agint no MS 21732/DF, PRIMEIRA SEÇÃO, Rel. Ministro Gurgel de Faria, julgamento em 14/12/2016, DJe 16/02/2017)
+EMENTA. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. CÔNJUGE SUPÉRSTITE. PRETENSÃO DE PAGAMENTO DOS EFEITOS FINANCEIROS RETROATIVOS. VALORES QUE DEVERIAM TER INGRESSADO NO PATRIMÔNIO DO ANISTIADO POLÍTICO ANTES DE SUA MORTE, POR ISSO SUJEITOS À SUCESSÃO HEREDITÁRIA. AUSÊNCIA DE COMPROVAÇÃO DA CONDIÇÃO DE INVENTARIANTE. LEGITIMIDADE ATIVA. NÃO CONFIGURAÇÃO. DIREITO AO PAGAMENTO DA PRETENSÃO MENSAL DECORRENTE DA QUALIDADE DE DEPENDENTE ECONÔMICO QUE NÃO SE CONFUNDE COM O DIREITO À SUCESSÃO HEREDITÁRIA RELATIVAMENTE AOS ATRASADOS FIXADOS NA PORTARIA DE ANISTIA POLÍTICA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(RMS 34252 AgR/DF, SEGUNDA TURMA, Rel. Ministro Teori Zavascki; Rel. para acórdão Min. Dias Toffoli, julgamento 06/02/2017).
+Na hipótese, não houve comprovação de que o bem ora pleiteado tenha sido transmitido à filha/impetrante em partilha, o que denota sua ilegitimidade ativa.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
