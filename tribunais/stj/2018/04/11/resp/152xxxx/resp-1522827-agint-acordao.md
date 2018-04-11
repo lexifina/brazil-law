@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. ART. 20, § 4º, DO CPC. VALOR RAZOÁVEL. SÚMULA 07/STJ.
+1. A pretensão trazida no especial esbarra no óbice contido na Súmula 7/STJ, na medida em que não se enquadra nas exceções que permitem a interferência desta Corte, uma vez que o valor arbitrado não se mostra irrisório, não sendo determinante para tanto apenas e somente o valor da causa.
+2. In casu, o voto condutor do acórdão recorrido deixou assentado, dentre outros fundamentos, que: A causa é de simples solução, não dependendo de dilação probatória nem envolvendo questões complexas. Aliado a isto, tem-se que a ação judicial teve que ser proposta em virtude de erro do próprio contribuinte, ou seja, foi o autor que, com seu comportamento, fez necessário o ajuizamento da ação (fl. 231). Inafastável, portanto, a Súmula 7/STJ.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 359/361):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 20 DO CPC. ACÓRDÃO QUE REGISTROU A OBSERVÂNCIA AOS CRITÉRIOS LEGAIS DE FIXAÇÃO DA VERBA. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+O agravante alega, em síntese, que o r. acórdão que negou provimento ao apelo da Recorrente e manteve os honorários advocatícios em R$ 3.000,00 (três mil reais), o equivalente à 1,5% do valor histórico da causa, quantia esta ínfima considerada a repercussão econômica para a parte Recorrente, visto que estava foi indevidamente excluída do Parcelamento Especial - PAES, ficando impossibilitada de obter a Certidão de Regularidade Fiscal - imprescindível face o caráter público de sua atividade e com os processos executivos, até então sobrestados, novamente reativados, a sofrer indevida cobrança judicial no valor significativo de R$ 200.000,00 (duzentos mil reais) (fl. 371).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. APRECIAÇÃO EQUITATIVA. ART. 20, § 4º, DO CPC. VALOR RAZOÁVEL. SÚMULA 07/STJ.
+1. A pretensão trazida no especial esbarra no óbice contido na Súmula 7/STJ, na medida em que não se enquadra nas exceções que permitem a interferência desta Corte, uma vez que o valor arbitrado não se mostra irrisório, não sendo determinante para tanto apenas e somente o valor da causa.
+2. In casu, o voto condutor do acórdão recorrido deixou assentado, dentre outros fundamentos, que: A causa é de simples solução, não dependendo de dilação probatória nem envolvendo questões complexas. Aliado a isto, tem-se que a ação judicial teve que ser proposta em virtude de erro do próprio contribuinte, ou seja, foi o autor que, com seu comportamento, fez necessário o ajuizamento da ação (fl. 231). Inafastável, portanto, a Súmula 7/STJ.
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque o acórdão recorrido deixou devidamente justificado, com base no exame fático probatório da demanda, a fixação dos honorários advocatícios nos seguintes termos (fl. 231):
+Apelo da autora - honorários advocatícios. O valor a ser fixado a título de honorários advocatícios deve pautar-se pelos parágrafos 3º e 4º do art. 20 do CPC, que manda fixá-los "consoante apreciação eqüitativa do juiz, atendidas as normas das alíneas a, b e c do parágrafo anterior", ou seja, o grau de zelo profissional, o lugar da prestação do serviço e a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço. Ao juiz resta a difícil tarefa de mensurar a verba advocatícia, sob parâmetros tão difusos. No âmbito dessa "apreciação eqüitativa", tem-se entendido que a verba não pode ser tão reduzida que avilte a profissão do advogado, nem tão elevada que resulte desproporcional ao trabalho dele exigido. Nessa fixação, também há de ser considerado o proveito econômico perseguido pela parte, que, no caso, corresponde ao valor atribuído à demanda.
+A causa é de simples solução, não dependendo de dilação probatória nem envolvendo questões complexas. Aliado a isto, tem-se que a ação judicial teve que ser proposta em virtude de erro do próprio contribuinte, ou seja, foi o autor que, com seu comportamento, fez necessário o ajuizamento da ação. De acordo com esses parâmetros, mantenho os honorários advocatícios em R$ 3.000,00.
+Nos termos da jurisprudência da Primeira Turma do STJ, no que se refere aos honorários advocatícios, em regra, a revisão do valor fixado exige novo exame do contexto fático-probatório, o que é vedado pela Súmula 7/STJ. Este óbice pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos (AgRg no AREsp 180.051/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 13/5/2013)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
