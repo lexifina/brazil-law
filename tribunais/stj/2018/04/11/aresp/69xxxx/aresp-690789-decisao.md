@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AUSÊNCIA DE PROVAS DE SUSPEIÇÃO DO MAGISTRADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA CARÁTER PROTELATÓRIO. AFASTAMENTO DA MULTA DO ARTIGO 538 DO CPC/1973. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da configuração de deserção.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 58, e-STJ):
+EXCEÇÃO DE SUSPEIÇÃO. SUSPEIÇÃO DE MAGISTRADO POR INIMIZADE E PARCIALIDADE - MERAS ALEGAÇÕES - LITIGÂNCIA DE MÁ-FÉ NÃO CARACTERIZADA. REJEIÇÃO.
+"2. A suposta suspeição de desembargador, suscitada de forma genérica e despida de qualquer comprovação, não merece ser acolhida, notadamente diante da detida análise realizada em sede de exceção de suspeição. (..). 4. Agravo regimental a que se nega provimento." (AgRg no RMS 28.054/PE, Rel. Ministro ADILSON VIEIRA MACABU (DESEMBARGADOR CONVOCADO DO TJ/RJ), QUINTA TURMA, julgado em 27/03/2012, DJe 19/04/2012, in www.stj.jus.br).
+Não demonstradas as hipóteses do art. 17 do CPC, não há condenação por litigãncia de má-fé.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente sustenta ofensa aos artigos 135, 538 do CPC/1973, dissídio jurisprudencial e postula o deferimento do benefício da AJG, sob os seguintes argumentos: (a) exceção de suspeição do julgador de primeiro grau; (b) ausência de caráter protelatório dos embargos de declaração a justificar a imposição de multa; (c) impossibilidade econômica de custear o presente recurso dada a multiplicidade de ações interpostas em seu desfavor, aliada à necessidade de ter assegurada a ampla defesa.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Acerca do pedido de AJG, o recorrente refere não possuir condições de suportar as custas e despesas processuais sem prejuízo do sustento próprio, sob os fundamentos de exercer a atividade de auxiliar de contabilidade e de haver inúmeros processos onde figura como demandado. Diante de tais considerações, defiro o benefício de assistência judiciária gratuita - AJG.
+No que diz respeito à tese de suspeição do julgador de primeiro grau, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que não houve a demonstração das hipóteses do artigo 135, I e II, do CPC/1973 a caracterizar a suscitada suspeição, tratando-se de meras alegações, as quais carecem de provas.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame do contexto fático-probatório dos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Em relação à multa de 1% fixada pela Corte de origem (fl. 75, e-STJ), assiste razão à parte recorrente, uma vez que o Superior Tribunal de Justiça sumulou entendimento no sentido de que embargos de declaração opostos com o intuito de prequestionamento não devem ser considerados procrastinatórios. Nesse sentido é a redação da Súmula 98 deste Tribunal, a qual determina que os "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Por fim, o alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial tão somente para afastar a multa aplicada na origem.
+Publique-se. Intimem-se.
