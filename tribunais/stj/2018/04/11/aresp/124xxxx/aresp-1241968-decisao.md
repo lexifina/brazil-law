@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos em face de decisão que não admitiu recurso especial, interposto visando à reforma de acórdão que, em ação declaratória de inexistência de débito c/c repetição de indébito e danos morais, confirmou a sentença de improcedência dos pedidos, de acordo com a seguinte ementa (fl. 246):
+APELAÇÃO CÍVEL DA PARTE AUTORA - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C INDENIZAÇÃO POR DANOS MORAIS - INDÍGENA - AUTOR QUE NÃO RECONHECE O CONTRATO DE EMPRÉSTIMO CONSIGNADO QUE MOTIVOU DESCONTOS DE PARCELAS NO BENEFÍCIO PREVIDENCIÁRIO - COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO - DEPÓSITO DO PRODUTO DO MÚTUO NA CONTA-CORRENTE DA PARTE - CUMPRIMENTO PELO RÉU DO ÔNUS DA PROVA - REGULARIDADE DO DÉBITO - IMPROCEDÊNCIA DO PEDIDO MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+1- Hipótese em que os elementos dos autos evidenciam que a parte autora firmou os contratos de empréstimo consignados, elidindo a alegação de fraude na contratação. Evidenciada a licitude da origem da dívida, persiste a responsabilidade do autor por seu pagamento.
+2- Sendo incontroverso nos autos que os produtos dos empréstimos ditos nulos foram depositados na conta corrente da parte autora, não há como considerar válida a justificativa apontada de que não firmou os contratos, tampouco se beneficiara de qualquer quantia.
+No especial, [NOME] alega a violação dos arts. 4º, § 1º, da Lei 1.060/1950; 927 do Código Civil e 1º, 2º, 6º, incisos VI e VII, 14, 39 e 46 do Código de Defesa do Consumidor, a pretexto de que foi indevida a revogação da gratuidade judiciária; de que é incabível a imposição de multa por litigância de má-fé; o arbitramento de sucumbência em favor da parte adversa; e que a condição de consumidor, no âmbito de relação de consumo, o protege das operações fraudulentas e abusivas perpetradas pelos correspondentes bancários da instituição financeira ré, que é fornecedora.
+As contrarrazões de fls. 276/279 invocam o óbice da Súmula 7/STJ.
+A decisão de admissibilidade negativa negou seguimento ao apelo por força da ausência de prequestionamento, conforme previsto na Súmula 282/STF.
+A motivação constante da peça de fls. 285/289 insiste que ocorreu o prequestionamento implícito, o que basta para superar o limite do conhecimento.
+Resumida assim a controvérsia, passo a decidir.
+De início, necessário salientar que a via especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+Além disso, os enunciados sumulares não são aptos à demonstração da divergência jurisprudencial, que para este propósito deve ser representada pelos julgados que a eles serviram de alicerce.
+Incidem, ademais, os enunciados 282 e 356 da Súmula do STF quanto às matérias levantadas no recurso especial, pois são estranhas ao julgado recorrido, a elas faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Com efeito, cabe à parte provocar, nas instâncias ordinárias, o debate das questões federais suscitadas no recurso especial e, na hipótese de omissão pela Corte de origem na apreciação de tais matérias, aviar o recurso integrativo próprio. Persistindo a falta, há de se invocar violação à norma de regência dos embargos de declaração, sem o que falta à causa o indispensável requisito do prequestionamento, que consiste na emissão de juízo de valor objetivo acerca das questões de direito levantadas no recurso especial, requisito que se admite na forma implícita tão somente quando a lide tenha sido decidida de tal forma categórica que não paire dúvida sobre qual dispositivo legal norteou o acórdão recorrido, não sendo essa, todavia, a hipótese dos autos. Nesse sentido, entre muitos, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 211/STJ E 282/STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 283/STF. REEXAME DE PROVA. SÚMULA N. 7/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284/STF.
+1. Interpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, devido ao princípio da unirrecorribilidade e à preclusão consumativa.
+2. Segundo a jurisprudência do STJ, o requisito do prequestionamento é satisfeito quando o Tribunal a quo emite juízo de valor a respeito da tese defendida no especial (Súmulas n. 211/STJ e 282/STF).
+3. O acesso à via excepcional, nos casos em que o Tribunal de origem, a despeito da oposição de embargos de declaração, não supre a omissão apontada, depende da demonstração, nas razões do recurso especial, de ofensa ao art. 535 do CPC.
+4. A ausência de impugnação específica dos fundamentos da decisão recorrida suficientes para mantê-la enseja o não conhecimento do recurso (Súmula n. 283/STF).
+5. Incide a Súmula n. 7/STJ quando a apreciação da tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+6. Aplica-se o óbice da Súmula n. 284/STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+7. Agravo regimental desprovido. (destaquei)
+(Quarta Turma, AgRg no Ag 1.169.633/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJe de 1º.7.2011)
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. MATÉRIA CONSTITUCIONAL. INCOMPETÊNCIA. SISTEMA FINANCEIRO DA HABITAÇÃO. CONTRATO DE MÚTUO. CRITÉRIO DE PRÉVIO REAJUSTE E POSTERIOR AMORTIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. DESPROVIMENTO.
+I. Não se presta o recurso especial para discussão de matéria de cunho constitucional.
+II. No que se refere ao sistema de amortização do saldo devedor, esta Corte tem sufragado a exegese de que a prática do prévio reajuste e posterior amortização do saldo devedor está de acordo com a legislação em vigor e não fere o equilíbrio contratual.
+III. Configura-se o prequestionamento quando a causa tenha sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto.
+IV. Admite-se o prequestionamento implícito para conhecimento do recurso especial, desde que demonstrada, inequivocamente, a apreciação da tese à luz da legislação federal indicada, o que não ocorreu na hipótese dos autos.
+V. Agravo regimental desprovido. (destaquei)
+(Quarta Turma, AgRg no AgRg no Ag 889.400/DF, Rel. Ministro ALDIR PASSARINHO JUNIOR, DJe de 22.4.2008)
+Como se verifica dos autos, não foram opostos embargos de declaração.
+Mesmo que não fosse intransponível o óbice processual, a discussão das questões de fundo resvalaria necessariamente pelo reexame de matéria fática, vedado pela Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
