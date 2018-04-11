@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisões que inadmitiu o recurso extraordinário interposto em face de acórdão da 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 17):
+    “PREVIDENCIÁRIO. Funcionário Público Estadual. Atendente de saúde. Contagem de Tempo. Acolhida a pretensão da impetrante à averbação do tempo prestado em atividade insalubre para fins de aposentadoria especial, ante a incidência do artigo 57 da Lei federal nº 8.213/91, caracterizada a inércia do executivo estadual em editar lei complementar que regulamente a situação do servidor. Sentença de concessão parcial da ordem. Manutenção. A omissão legislativa injustificada pelo não cumprimento de comando constitucional autoriza a aplicação, por analogia, do disposto na Lei nº 8.213/91. Interpretação do art. 40, § 4º, da CF. Orientação desta Corte de Justiça.
+    RECURSOS, VOLUNTÁRIO E OFICIAL, NÃO PROVIDOS.”
+    Os embargos de declaração foram rejeitados (eDOC 2, pp. 42-45).
+    No seu recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 2º, caput; 5º, LXXI; 22, XXIII; 24, XII e § 2º; e 40, § 4º, II e III, da Carta da República.
+    Sustenta-se ser inadequada a via do mandado de segurança, porque a pretensão em análise somente poderia “somente por meio de mandado de injunção, perante o Supremo Tribunal Federal, (...) seria possível a concessão da tutela jurisdicional perseguida pelo autor” (eDOC 2, p. 89).
+    Alega-se a incompetência absoluta da Corte de origem para determinar a integração de lacuna gerada por omissão supostamente inconstitucional do governo federal, por caber ao STF atuar na espécie.
+    Afirma-se que “se a autora é filiada a regime próprio de previdência social, sendo, portanto excluída do regime geral, a ela não se aplicam as disposições da Lei 8.213/91” (eDOC 2, p. 92).
+    Aduz-se, caso superados os argumentos anteriores, que o recebimento de adicional de insalubridade não acarreta o automático direito à aposentadoria especial, sendo ônus da autora comprovar o preenchimento dos requisitos respectivos, e que, “nos termos do art. 57 da Lei 8.213/91, a aposentadoria especial é devida ao segurado que tiver trabalhado sob condições especiais que prejudiquem a sua saúde ou sua integridade física, e não aos que laborem em condições insalubres” (eDOC 2, p. 102).
+    A Presidência da Seção de Direito Público do Tribunal de origem inadmitiu o recurso extraordinário por entender que o acórdão impugnado “não traduz desrespeito à legislação enfocada a ponto de permitir seja o presente alçado à instância superior” (eDOC 2, p. 120).
+    É o relatório. Decido.
+    Inicialmente, as matérias alusivas à inadequação da via eleita e à incompetência da Corte de origem para analisar e julgar a controvérsia em exame não foram objeto de prequestionamento na via ordinária, tampouco dos embargos opostos, razão por que incidem, quanto ao ponto, as Súmulas 282 e 356 do STF.
+    No mais, verifica-se que esta Corte reputou constitucional a questão e reconheceu a existência da repercussão geral da controvérsia referente à possibilidade de aplicação das regras do regime geral de previdência social para a averbação do tempo de serviço prestado em atividades exercidas sob condições especiais, nocivas à saúde ou à integridade física de servidor público, com conversão do tempo especial em comum, mediante contagem diferenciada (Tema 942), cujo recurso paradigma é o RE-RG 1.014.286, Rel. Min. Luiz Fux.
+    Ante o exposto, determino a remessa dos autos à origem para adequação à sistemática de repercussão geral no tocante à aplicação do tema 942 (art. 1.036 do CPC e art. 328 do RISTF), e nego provimento ao agravo quanto à questão remanescente (art. 932, IV, a, do CPC).
+    Publique-se.
+    Brasília, 11 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
