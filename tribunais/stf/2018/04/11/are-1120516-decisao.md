@@ -1,0 +1,19 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 277, e-STJ, Vol. 1):
+    “APELAÇÃO CÍVEL, Improbidade administrativa - Preliminar de cerceamento de defesa afastada - Desnecessidade de produção de outras provas 'além daquelas já encartadas nos autos — Acumulação indevida de cargos públicos remunerados — Declaração falsa quanto a não ocupação de outro cargo público - Caracterização - Inteligência do art. 37, inc. XVI, da CF - Conduta que atenta contra os princípios da Administração Pública, nos termos do art. 11, inc. I, da Lei n° 8.492/92 — Aplicação de multa civil no valor de R$ 3.365,77, correspondente à remuneração percebida pela requerida durante o período de seis meses e sete dias no qual acumulou indevidamente dois cargos públicos — Possibilidade — Valor razoável e proporcional — Sentença mantida — Recurso improvido.”
+    No apelo extremo, alega-se, com amparo no art. 102, III, a, da Constituição Federal, que o acórdão recorrido violou dispositivos constitucionais.
+    É o relatório. Decido.
+    Não merecem ser acolhidas as razões da parte recorrente. Em relação à suscitada ofensa ao art. 93, IX, da Carta Magna, o Juízo de origem não destoou do entendimento firmado por esta CORTE no julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339).
+    Nessa oportunidade, o SUPREMO TRIBUNAL FEDERAL assentou que o inciso IX do art. 93 da Constituição Federal de 1988 “exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    No caso em apreço, a fundamentação do acórdão recorrido alinha-se às diretrizes desse precedente.
+    Quanto à alegação de afronta ao art. 5º, LIV e LV, da CF/88, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, o Tribunal de origem decidiu a controvérsia com base na legislação ordinária pertinente (Lei 8.429/1992) e nas circunstâncias da causa.
+    Assim, a reversão do julgado depende da análise da legislação infraconstitucional, o que é vedado na via extraordinária, bem como demanda o reexame do contexto fático-probatório dos autos, medida igualmente incabível nesta sede recursal, conforme consubstanciado na Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário). Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Improbidade administrativa. Acumulação indevida de cargos. Restituição dos valores recebidos. Desnecessidade de se perquirir quanto ao dolo do agente. 4. Ofensa reflexa à Constituição Federal. 5. Necessidade do revolvimento do conjunto fático-probatório. Impossibilidade. Súmula 279. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE 1.066.422-AgR, Rel. Min. GILMAR MENDES, DJe 27/3/2018)
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que o julgado recorrido foi julgado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 11 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
