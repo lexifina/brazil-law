@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTRATO DE CESSÃO DE DIREITOS E OBRIGAÇÕES.
+NECESSIDADE DE ANUÊNCIA DA CEDIDA SOB PENA DE INVALIDADE DO NEGÓCIO JURÍDICO. PREVISÃO CONTRATUAL CONTEMPLANDO TAL EXIGÊNCIA. INEXISTÊNCIA DE ABUSIVIDADE. PRECEDENTES DO STJ.
+MORA DA CONSTRUTORA QUE NÃO SERVE PARA COMPELI-LA A EXTERNAR CONSENTIMENTO ACERCA DA CESSÃO DE POSIÇÃO CONTRATUAL. APELO CONHECIDO E DESPROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 2º e 3º do Código de Defesa do Consumidor; 109 do novo Código de Processo Civil, além de divergência jurisprudencial.
+Assim posta a questão, verifico que o recurso especial não pode ser acolhido sem interpretação de cláusulas contratuais e reexame de prova, a partir dos quais seria possível admitir a tese de que o contrato celebrado com a agravada contém cláusulas abusivas.
+A agravante pretende a cessão de seus direitos e obrigações decorrentes de contrato de compra e venda. A respeito do tema, o Tribunal de origem observou o seguinte (fl. 411, e-STJ):
+(..) a Autora busca, judicialmente, que a Demandada seja compelida a emitir anuência em contrato de cessão de direitos para terceiro, argumentando que a discordância para emissão de vontade está atrelada a exigência de que renuncie a eventuais direitos conseguidos através de ação de indenização que manejou.
+Registre-se que no contrato de compromisso de compra e venda, existe cláusula expressa, vedando a cessão de direitos, sem anuência prévia e por escrito, da Promitente Vendedora, cuja redação é a seguinte:
+"CESSÃO E/OU TRANSFERÊNCIA: É vedado ao PROMITENTE COMPRADOR ceder, prometer, ou transferir, gratuita ou onerosamente, ou a qualquer título, os direitos derivados do presente negócio jurídico, sem a anuência prévia e por escrito da PROMITENTE VENDEDORA, sob pena de vencimento antecipado e compulsório das parcelas então vincendas à época da cessão, da promessa de cessão ou da transferência."
+Não visualizo no bojo de tal regramento quaisquer abusividade ou situação a colocar o consumidor em posição excessivamente desvantajosa, sendo, portanto, válida a regra.
+De outra banda, o mero descumprimento contratual pela Promitente vendedora não é fundamento apto a respaldar a dispensa da anuência da cedida quanto a cessão de direitos e deveres, sendo, despicienda qualquer outra motivação para respaldar a negativa, haja vista estar enquadrada no campo da mera liberalidade desta.
+Como bem fundamentou o Sentenciante de 1º Grau, a cedida não resta obrigada a justificar a negativa de concessão da sua anuência em contrato de cessão de obrigação contratual, explicitando, com maestria, tal tópico, o qual promova a sua transcrição para evitar tautologia:
+"Outrossim, vale a pena consignar que a alegação de descumprimento contratual por parte da requerida não constitui fundamento apto a dispensar o consentimento para a cessão de direitos e deveres, mas sim de eventual pedido de rescisão contratual, que não foi a opção escolhida pela requerente ao intentar ação de revisão de cláusulas contratuais, que tramitou perante a 15ª Vara Cível.
+Do mesmo modo não restou comprovado que a requerida não tenha autorizado a cessão em razão da demanda por ela proposta, já que os e-mails por ela acostado aos autos indicam que a construtora não teria aprovado em razão da proximidade do habite-se (fl.
+116).
+E ainda que assim não fosse, entendo que, por se tratar de relação contratual, cuja cessão de direitos dependa de consentimento do contratante, consoante previsão legal e contratual, a motivação é irrelevante.
+Outro ponto relevante a ser consignado é o fato de a autora, apesar de dizer que adquiriu o imóvel para investimento, intentou ação de revisão de cláusulas contratuais e neste feito não pede provimento jurisdicional para se seja autorizada a cessão, mas apenas indenização por danos morais e materiais, relativos a negócio não concretizado, cujo contrato sequer foi acostado aos autos, até mesmo para comprovar os eventuais lucros cessantes no importe de R$ 83.000,00 (oitenta e três mil reais)."
+Verificar a ocorrência de abuso nesse contexto é inviável em recurso especial, dada a incidência das Súmulas 5 e 7 desta Corte.
+E, com efeito, a existência de cláusula vedando a cessão de direitos e obrigações em contrato assinado livremente pelas partes não configura, por si só, imposição abusiva. Seria necessária a demonstração de erro, dolo, coação, etc, o que não poderia ser feito em recurso especial.
+O dissídio jurisprudencial não ficou caracterizado, pois não destacadas as circunstâncias que assemelhassem os casos confrontados, o que, diante da incidência dos enunciados citados, seria mesmo inviável.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
