@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Instituto Nacional de Colonização e Reforma Agrária - Incra contra decisão do Tribunal Regional Federal da 1ª Região, publicada na vigência do CPC/1973, que negou seguimento ao recurso especial quanto à matéria versada nos REsps repetitivos 1.116.364/PI e 1.111.829/SP e não o admitiu com amparo no óbice das Súmulas 7 e 211 do STJ e 282 do STF.
+O agravante, com respeito aos arts. 12, § 2º, da Lei n. 8.629/1993 e 12, § 2º, da LC 76/1993, sustenta não haver jurisprudência pacífica, pois, conforme precedente do STJ (AgRg no REsp 1.295.197/GO), a justa indenização deve ser fixada com base no valor de mercado do imóvel à época da imissão do Incra na posse.
+Defende a inaplicabilidade da Súmula 7/STJ à hipótese, visto que não discute os valores da indenização, mas o erro formal do laudo judicial, que adotou como parâmetro o valor de mercado do imóvel na época de feitura do documento.
+Afirma ainda não haver entendimento estabelecido no tocante à aplicação de juros compensatórios em desapropriação de imóvel improdutivo. Argumenta que, no recurso especial repetitivo, não houve pronunciamento quanto ao descabimento desses juros à luz do Código Civil (art. 402).
+Sem contraminuta.
+Em manifestação de e-STJ, fls. 812/816, o Ministério Público Federal opina pelo desprovimento do agravo.
+É o relatório.
+O presente recurso não merece prosperar.
+A decisão ora questionada estabeleceu o seguinte:
+a) descabida a discussão em torno do cabimento de juros compensatórios na desapropriação de imóvel improdutivo, pois o STJ já admitiu essa possibilidade em recurso repetitivo (REsp 1.116.364/PI), tomando em consideração inclusive o disposto no art. 402 do Código Civil;
+b) ausente o interesse recursal quanto ao termo final dos juros compensatórios, porquanto decidido que se aplicam a partir da imissão na posse até a data da primeira conta fonte do precatório original, na forma do art. 100, § 12, da CF/1988;
+c) conforme o acórdão recorrido, a condenação é superior à oferta, por isso impossível afirmar-se o contrário para questionar a cobrança dos juros compensatórios diante do disposto na Súmula 7/STJ;
+d) incide a orientação das Súmulas 211/STJ e 282/STF, porque "carece do necessário prequestionamento a matéria relativa à exclusão dos juros compensatórios após o trânsito em julgado sobre os 20% da oferta que se tornam disponíveis à parte, uma vez que não foi objeto da apelação" (e-STJ, fl. 789);
+e) inviável a modificação do valor dos honorários advocatícios, por força da Súmula 7/STJ.
+Feita essa explanação, observe-se que as alegações do agravo relativas à necessidade de apuração do quantum indenizatório consoante o valor do imóvel à época da imissão na posse não têm qualquer pertinência com a decisão ora combatida.
+Assim, inviável a análise da suposta divergência jurisprudencial em torno dos arts. 12, § 2º, da Lei n. 8.629/1993 e 12, § 2º, da LC 76/1993, bem como do erro no laudo pericial, porque deficiente a fundamentação do recurso nesses pontos. Aplica-se, nessa parte, o teor da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Quanto à tese de impossibilidade da cobrança dos juros compensatórios para o imóvel improdutivo à luz do art. 402 do Código Civil, a matéria foi inadmitida com base no art. 543-C, § 7º, I, do CPC/1973.
+É entendimento sedimentado neste Tribunal Superior que não cabe agravo contra decisão que não admite o apelo extremo com amparo no art. 543-C, § 7º, I, do CPC/1973, ainda que tenha por objetivo discutir a correta aplicação do repetitivo.
+Nesses casos, o apelo será devolvido à origem para que seja apreciado como agravo interno, segundo decidido pela Corte Especial nos seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO, NO TRIBUNAL A QUO, QUE NEGA SEGUIMENTO AO ESPECIAL COM BASE NO ART. 543-C DO CPC. INTERPOSIÇÃO DO AGRAVO DO ART. 544 DO CPC. DESCABIMENTO. ERRO GROSSEIRO. NÃO CONFIGURAÇÃO. REMESSA DO RECURSO PELO STJ À CORTE DE ORIGEM PARA APRECIAÇÃO COMO AGRAVO INTERNO. AGRAVO PROVIDO.
+1. No julgamento da Questão de Ordem no Ag 1.154.599/SP, a Corte Especial assentou o entendimento de que não cabe agravo (CPC, art. 544) contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC, podendo a parte interessada manejar agravo interno ou regimental na origem, demonstrando a especificidade do caso concreto.
+2. Entretanto, o art. 544 do CPC prevê o cabimento do agravo contra a decisão que não admite o recurso especial, sem fazer distinção acerca do fundamento utilizado para a negativa de seguimento do apelo extraordinário. O não cabimento do agravo em recurso especial, naquela hipótese, deriva de interpretação adotada por esta Corte Superior, a fim de obter a máxima efetividade da sistemática dos recursos representativos da controvérsia, implementada pela Lei 11.672/2008.
+3. Então, se equivocadamente a parte interpuser o agravo do art. 544 do CPC contra a referida decisão, por não configurar erro grosseiro, cabe ao Superior Tribunal de Justiça remeter o recurso à Corte de origem para sua apreciação como agravo interno.
+4. Agravo interno provido.
+(AgRg no AREsp 260.033/PR, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 5/8/2015, DJe 25/9/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO, NO TRIBUNAL A QUO, QUE NEGA SEGUIMENTO AO ESPECIAL COM BASE NO ART. 543-C DO CPC. INTERPOSIÇÃO DO AGRAVO DO ART. 544 DO CPC. DESCABIMENTO. ERRO GROSSEIRO. NÃO CONFIGURAÇÃO. REMESSA DO RECURSO PELO STJ À CORTE DE ORIGEM PARA APRECIAÇÃO COMO AGRAVO INTERNO. AGRAVO PROVIDO.
+1. No julgamento da Questão de Ordem no Ag 1.154.599/SP, a Corte Especial assentou o entendimento de que não cabe agravo (CPC, art. 544) contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC, podendo a parte interessada manejar agravo interno ou regimental na origem, demonstrando a especificidade do caso concreto.
+2. Entretanto, o art. 544 do CPC prevê o cabimento do agravo contra a decisão que não admite o recurso especial, sem fazer distinção acerca do fundamento utilizado para a negativa de seguimento do apelo extraordinário. O não cabimento do agravo em recurso especial, naquela hipótese, deriva de interpretação adotada por esta Corte Superior, a fim de obter a máxima efetividade da sistemática dos recursos representativos da controvérsia, implementada pela Lei 11.672/2008.
+3. Então, se equivocadamente a parte interpuser o agravo do art. 544 do CPC contra a referida decisão, por não configurar erro grosseiro, cabe ao Superior Tribunal de Justiça remeter o recurso à Corte de origem para sua apreciação como agravo interno.
+4. Agravo interno provido.
+(AgRg no AREsp 267.592/PR, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 5/8/2015, DJe 25/9/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Devolvam-se os autos à origem para que, na parte relativa ao art. 543-C do CPC/1973, seja a insurgência processada como agravo interno.
+Publique-se. Intimem-se.
