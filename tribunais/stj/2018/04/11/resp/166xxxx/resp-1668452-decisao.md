@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 CPC/15) interposto por CENTRO TRASMONTANO DE SÃO PAULO contra decisão que negou seguimento ao recurso especial (fls. 366-367, e-STJ).
+O apelo nobre (art. 105, III, alínea "a", da CF/88) desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 281, e-STJ):
+Obrigação de fazer. Prestação de serviços "home care" . Ré que deve colocar à disposição da segurada a infraestrutura correspondente à enfermagem, fisioterapia, consultas médicas e outros itens correlatos. Insumos de uso pessoal que devem ficar a cargo da família, porquanto alheios ao contrato. Danos morais não configurados, uma vez que o serviço já vem sendo colocado à disposição da enferma, inclusive antes da propositura da ação. Recursos desprovidos.
+Os embargos de declaração opostos foram rejeitados (fls. 292-295, e-STJ).
+Nas razões do recurso especial (fls. 297-303, e-STJ), a insurgente apontou violação do art. 333, incisos I e II, do CPC/73, ao argumento de que a recorrida se desincumbiu de sua obrigação, não juntando prova sobre o fato constitutivo de seu direito quanto à negativa de prestação de serviços de home care.
+Contrarrazões às fls. 356-360 (e-STJ).
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 366-367, e-STJ), dando ensejo a interposição do presente agravo (fls. 371-376, e-STJ), no qual a insurgente sustenta a viabilidade do apelo.
+Contraminuta às fls. 381-385 (e-STJ).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+No que diz respeito à suposta violação do art. 333 do CPC/1973, o Tribunal de origem consignou o seguinte (fl. 282, e-STJ):
+A alegação genérica e superficial da ré de que vinha cumprindo integralmente o que fora contratado, inclusive fornecendo o que se tornara necessário no âmbito do home care em prol da paciente, não se apresenta de forma clara e precisa, consequentemente, não há que se falar em falta de interesse de agir do polo ativo, que alega falha na prestação do serviço, portanto, a pretensão de extinção o processo sem julgamento do mérito não pode prevalecer.
+Com efeito, para alterar os fundamentos da decisão impugnada acerca da prova do fato constitutivo do direito da recorrida, como pretende a insurgente, seria imprescindível a reavaliação do conjunto fático-probatório, o que é inviável no âmbito do recurso especial, haja vista o teor da supracitada Súmula 7 do STJ.
+Sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA. AGRAVO RETIDO. INDEFERIMENTO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. APELAÇÃO CÍVEL:PRELIMINARES DE INÉPCIA DA INICIAL. NULIDADE DA CITAÇÃO. CARÊNCIA DE AÇÃO. REJEIÇÃO. MÉRITO: MORA. AUSÊNCIA DE JUSTO MOTIVO.RESCISÃO CONTRATUAL. INDENIZAÇÃO POR PERDAS E DANOS. CABIMENTO.LITIGANCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO. ART. 535 DO CPC. VIOLAÇÃO. NÃO OCORRÊNCIA. SÚMULAS 7, 283 E 83/STJ.1. A Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, apenas não adotando a tese vertida pelo Agravante. Inexistência de omissão.2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).3. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, os óbices das Súmulas 284 e 283 do STF.4. A não adoção do rito especial não importa nulidade, visto que o rito comum ordinário é mais amplo e mais completo, mormente quando exercidos a ampla defesa e o contraditório pela parte contrária.Precedentes.5. O reconhecimento da nulidade de atos processuais exige efetiva demonstração de prejuízo suportado pela parte interessada, em respeito ao princípio da instrumentalidade das formas (pas de nullité sans grief). Precedentes.6.Agravo interno a que se nega provimento.
+(AgInt no AREsp 202.180/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/08/2017, DJe 04/09/2017).
+2. Do exposto, nego provimento ao agravo, majorando os honorários sucumbenciais, com base no art. 85, § 11, do NCPC, em 1% (um por cento) sobre o valor atualizado da causa, a ser suportado exclusivamente pela parte recorrente (enunciado nº 7/STJ), observado o disposto no art. 98, § 3º, do NCPC.
+Publique-se.
+Intimem-se.
