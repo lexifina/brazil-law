@@ -1,0 +1,16 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pela FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de Sergipe, assim ementado (fls. 769-773, e-STJ):
+Civil e Processo Civil - Previdência privada - PETROS - Cerceamento de defesa - Inocorrência - Prescrição - Relação de trato sucessivo - Suplementação de aposentadoria - Aplicação das regras vigentes no momento da inscrição no plano - Termo de adesão às novas regras que não prevê o "Fator de Reajuste Inicial", mas sim novo índice de correção - Sentença reformada - Redistribuição do ônus de sucumbência.
+I - Tratando-se de relação de trato sucessivo, renova-se o prazo prescricional periodicamente - na hipótese, mês a mês - de maneira que somente prescrevem as prestações vencidas antes do quinquênio que procede o ajuizamento da ação, conforme jurisprudência dominante do STJ;
+II - As regras aplicadas para cálculo do benefício discutido nos autos - suplementação da aposentadoria - são aquelas vigetnes no momento da admissão do beneficiário no plano, que se deu com o Regulamento de 1975, observando-se as alterações posteriores, desde que mais favoráveis ao beneficiário do direito, nos moldes do que preceitua a súmula de nº 288 do TST;
+III - Ao reverso do que pretende fazer crer a Petros, observa-se do termo de adesão às alterações do regulamento da PETROS, assinado pelo Recorrente, que o aludido documento não faz alusão ao Fator de Reajuste Inicial objurgado, mas sim ao aumento da taxa de contribuição e correção do benefício. Não há, portanto, que se falar em aceitação expressa de incidência do redutor pelo benficiário;
+IV - Recurso conhecido e parcialmente provido.
+O apelo nobre discute, entre outras questões, a relativa ao regulamento aplicável ao participante de plano de previdência privada para fins de cálculo da renda mensal inicial do benefício complementar, se o regulamento relativo à época da filiação ou o da concessão do benefício, matéria por mim afetada em 27/11/2014, sob o rito dos Recursos Representativos de Controvérsia, à Segunda Seção do Superior Tribunal de Justiça nos autos do Resp nº 1.435.837/RS, ainda pendente de julgamento, vinculado ao Tema nº 907.
+Dessa forma, faz-se necessária a devolução dos autos ao Tribunal de origem, conforme previsto no art. 256-L do Regimento Interno deste Tribunal Superior, incluído por meio da Emenda Regimental nº 24, de 28/09/2016, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ".
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, inciso II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Intimem-se.
+Cumpra-se.
