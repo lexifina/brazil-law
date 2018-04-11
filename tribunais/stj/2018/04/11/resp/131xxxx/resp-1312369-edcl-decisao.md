@@ -1,0 +1,13 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO DEMONSTRADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO em face de decisão assim ementada (fl. 658):
+ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. PREFEITO. CONTRATAÇÃO DE SERVIDORES SEM CONCURSO PÚBLICO. AMPARO EM LEGISLAÇÃO MUNICIPAL ENTÃO VIGENTE. AUSÊNCIA DO ELEMENTO SUBJETIVO (DOLO). JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO PARA JULGAR IMPROCEDENTE A AÇÃO CIVIL PÚBLICA.
+O embargante alega omissão: (i) quanto ao que estabelece o art. 489, § 1º, V, do CPC/2015 ao argumento de que não houve, pelo então recorrente, demonstração de similitude fática entre os julgados citados e o caso dos autos, o que impediria a prolação monocrática da decisão e que não se considera fundamentada a decisão judicial que se limita a invocar precedente sem demonstrar que o caso sob julgamento se ajustaria àqueles fundamentos; (ii) quanto ao disposto no art. 489, § 1º, IV, do CPC/2015, aduzindo que não houve o enfrentamento de todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada, no tocante ao argumento de que não houve indicação de quais dispositivos da legislação federal teriam sido contrariados, bem como a explicitação dos motivos, razão pela qual deveria ser aplicada a Súmula 284/STF.
+Impugnação a fls. 680-684.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, compete dizer que o recorrente interpôs recurso especial, com fundamento na alínea a do permissivo constitucional, apontando como contrariado o art. 12, parágrafo único, da Lei n. 8.429/1995 (fl. 511 e-STJ), passando em seguida a expor as alegações recursais pertinentes. Isso, pois, demonstra improcedentes as alegações do ora embargante seja para a aplicação da Súmula 284/STF por falta de fundamentação, seja por falta demonstração de similitude fática a amparar alegação de dissídio jurisprudencial, tendo em vista que o recurso especial não fora interposto com fundamento na alínea c do permissivo constitucional.
+Dessa forma, tem-se que o embargante efetivamente não indica eventual ponto omisso na decisão ora embargada nem demonstra insuficiência na prestação jurisdicional, cingindo-se a mero inconformismo com o resultado da decisão.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se
