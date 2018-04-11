@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fulcro na alínea a do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE RORAIMA.
+Consta dos autos que o recorrente foi condenado, como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 5 anos de reclusão, em regime semiaberto, e ao pagamento de 500 dias-multa
+Interposta apelação pela Defesa, o Tribunal de origem negou provimento ao recurso.
+Sustenta o recorrente, em suma, a fixação da pena no mínimo legal, aplicação do redutor contido no § 4º do art. 33, da Lei 11.343/06 e estabelecimento do regime inicial de cumprimento de pena menos gravoso (aberto).
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo não conhecimento ou desprovimento do recurso especial (fls. 299/305).
+É o relatório.
+Decido.
+No que se refere ao primeiro pedido, qual seja, de fixação da pena no mínimo legal, depreende-se das razões recursais que o recorrente não explicita em que consistiria a suposta violação ao preceito de lei federal relativo à aplicação da pena-base pela instância ordinária. Desta forma, diante da deficiência da fundamentação do apelo, incide o óbice consubstanciado na Súmula 284/STF. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AOS ARTS. 395, 396, 397, E 399, TODOS DO CPP. RECEBIMENTO IMPLÍCITO DA DENÚNCIA. POSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. VIOLAÇÃO AO ART. 68 DO CPP. REVISÃO DE PENA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. AFRONTA AOS ARTS. 13 E 14, AMBOS DA LEI Nº 9.807/99. DELAÇÃO PREMIADA. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. ALEGAÇÃO DE NULIDADE NO ACÓRDÃO QUE JULGOU A APELAÇÃO. PEDIDO DE REDUÇÃO DA PENA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS DE LEI VIOLADOS. RECURSO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. De fato, esta Corte possui o entendimento de que "é perfeitamente admissível e válido o recebimento implícito da denúncia. O ato do juízo processante que pratica atos no sentido do prosseguimento do processo-crime equivale, tacitamente, ao recebimento da exordial acusatória. RHC 30.302/SC, Rel. Min. LAURITA VAZ, QUINTA TURMA, DJe 12/03/2014)
+2. O acolhimento da pretensão revisional, na seara criminal, deve ser excepcional, limitando-se às hipóteses em que a suposta contradição à evidência dos autos seja patente, estreme de dúvidas, dispensando a interpretação ou análise subjetiva das provas constantes dos autos, o que não ocorre na espécie. Incidência da Súmula 7 deste Tribunal.
+3. A ausência de indicação dos dispositivos violados enseja a aplicação do enunciado nº 284 do Pretório Excelso, pois caracteriza deficiência na fundamentação, o que dificulta a compreensão da controvérsia.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp 1572883/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/04/2016, DJe 15/04/2016)
+Em relação ao pleito de incidência da causa de diminuição de pena contida no art. 33, § 4º, verifica-se ter sido negada sua aplicação nos termos seguintes:
+1.ª Apelação: [NOME]No que se refere ao recurso de [NOME], observa-se dos autos que já havia uma investigação sobre a ocorrência de tráfico de drogas na Praça Mané Garrincha, nesta capital, constatando-se que o corréu [NOME] era um dos principais envolvidos, sendo, por essa razão, determinada a realização de busca e apreensão na residência deste último, oportunidade em que foram encontradas 170,3g (cento e setenta gramas e três decigramas) de maconha.
+Durante a busca e apreensão, [NOME] estava no local e assumiu a propriedade da droga apreendida.
+ ..
+De igual modo, é inviável o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n.º 11.343/06, pois a conduta de [NOME] (modus operandi) não se assemelha a de um traficante ocasional, conforme comprovaram as diligências policiais, confirmadas em juízo pelas testemunhas que delas participaram.
+Apesar de ele não ter sido flagranteado vendendo maconha, não é verossímil sua alegação de que a adquiriu apenas para consumo próprio, estando caracterizada a dedicação à atividade criminosa.
+ ..
+2.ª Apelação: [NOME]
+ ..
+No mesmo sentido, é inviável o reconhecimento do tráfico privilegiado (art. 33, § 4.º, da Lei n.º 11.343/06), pelos motivos já expostos, isto é, a conduta de [NOME] (modus operandi) não se assemelha a de um traficante ocasional. (fls. 114/119).
+Na espécie, como visto, o Tribunal de origem negou a aplicação do benefício em virtude das circunstâncias do caso - em especial, o modus operandi, considerando que já havia uma investigação sobre a ocorrência de tráfico de drogas na Praça Mané Garrincha, nesta capital, constatando-se que o corréu [NOME] era um dos principais envolvidos, sendo, por essa razão, determinada a realização de busca e apreensão na residência deste último, oportunidade em que foram encontradas 170,3g (cento e setenta gramas e três decigramas) de maconha -, as quais evidenciariam o não preenchimento dos requisitos legais, concluindo, com base na prova dos autos, que a conduta do recorrente não se assemelha a de um traficante ocasional (fl. 756), sendo que a pretendida revisão do julgado implicaria o reexame do material cognitivo produzido nos autos, insuscetível de ser realizada em recurso especial, nos termos da Súmula 7/STJ A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE CITAÇÃO. REQUISIÇÃO DE RÉU PRESO. PREJUÍZO NÃO COMPROVADO. INEXISTÊNCIA DE NULIDADE. ENCONTRO FORTUITO DE PROVAS (SERENDIPIDADE). POSSIBILIDADE. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. RECURSO NÃO PROVIDO.
+(..)
+6. Inviável a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, se o Tribunal de origem constatou, diante das peculiaridades do caso concreto, que o réu se dedicava a atividades criminosas, notadamente ao tráfico de drogas. Concluir de forma diversa enseja o reexame do conjunto fático-probatório, obstado pela Súmula n. 7/STJ.
+7. Agravo regimental não provido.
+(AgRg no REsp 1174858/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/03/2016, DJe 17/03/2016).
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. HABEAS CORPUS. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO E/OU OMISSÃO. OCORRÊNCIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. NÃO INCIDÊNCIA. DEDICAÇÃO À NARCOTRAFICÂNCIA. AFERIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. INVIABILIDADE. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal). In casu, evidencia-se a ocorrência de uma das condições.
+2. Concluído pelo Tribunal de origem, com arrimo nos fatos da causa, que o paciente não era mero traficante ocasional, dedicando-se à narcotraficância, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n.º 11.343/06. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via estreita do habeas corpus.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no HC 317.302/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/03/2016, DJe 17/03/2016).
+Por fim, mantidos os termos do acórdão impugnado, resta prejudicada a análise do pleito de fixação de regime inicial diverso do semiaberto, estabelecido pela instância de origem, uma vez que condenado o recorrente à pena reclusiva acima de 4 anos - 5 anos - cuja pena-base foi, inclusive, estabelecida acima do mínimo legal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
