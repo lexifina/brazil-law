@@ -1,0 +1,59 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Rio de Janeiro, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo Tribunal de Justiça local, publicado na vigência do CPC/1973, assim ementado (e-STJ, fl. 168):
+APELAÇÃO CÍVEL. ESTADO. COBRANÇA. PRESTAÇÃO DE SERVIÇO. HONORÁRIOS. Existindo prova acerca da efetiva prestação do serviço, acolhe-se a pretensão de cobrança formulada pela autora, face ao Estado. Nas causas em que for vencida a Fazenda os honorários devem ser arbitrados com base no §4 º, do art. 20, do CPC. Recursos improvidos.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 251/254).
+A parte insurgente alega violação do art. 1º, 3º, 8º e 9º do Decreto 20.910/1932, porquanto se encontra prescrito o direito da recorrida de postular a indenização decorrente das prestações que venceram em fevereiro e março de 2000, uma vez que ultrapassados 5 (cinco) anos quando da propositura da ação.
+Sustenta que a alegação de que havia pleito administrativo não é suficiente para obstar a fluência do prazo prescricional, já que não houve qualquer tipo de interrupção do prazo de prescrição em curso.
+Aduz que (e-STJ, fl. 260):
+Ademais, ainda que se possa considerar o reconhecimento da dívida em 2001 como causa de interrupção da prescrição, certo é que o artigo 9º acima transcrito dá conta de que a prescrição interrompida recomeça a correr pela metade do prazo.
+Assim, há que se considerar que toda a dívida objeto do reconhecimento ocorrido no ano de 2001 estaria prescrita, eis que decorrido mais de dois anos e meio até o ajuizamento da presente demanda. O argumento de que havia pleito administrativo é falacioso e deve ser desconsiderado de pronto.
+Aponta malferimento dos arts. 332 e 333 do CPC/1973, pois a recorrida não apresentou prova da real e efetiva prestação dos serviços que alega ter realizado no mês de dezembro de 2002, o que seria seu ônus, por se tratar de fato constitutivo de seu direito.
+Refere negativa de vigência ao art. 52, § 1º, da Lei n. 8.078/1990, ao argumento de que as multas em decorrência do adimplemento das obrigações não poderão ultrapassar o percentual de 2% do valor do montante devido.
+Contrarrazões às e-STJ, fls. 269/270.
+Parecer do Ministério Público Federal, às e-STJ, fls. 338/341, em que opina pelo não conhecimento do apelo nobre e, se conhecido, pelo não provimento.
+É o relatório.
+Com relação à questão em torno da prescrição, o acórdão de origem não destoa da jurisprudência do STJ, a qual se firmou no sentido de que, de acordo com o art. 4º, parágrafo único, do Decreto n. 20.910/1932, há suspensão da prescrição diante de requerimento administrativo do particular para reconhecimento da dívida da Fazenda, que só se reinicia após a manifestação final da Administração Pública.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO RECURSO EM ESPECIAL. SERVIDOR PÚBLICO FEDERAL. ANISTIA. LEI 8.878/1994. PRESCRIÇÃO. ART. 1º DO DECRETO 20.910/32. SUSPENSÃO DURANTE O CURSO DE PROCESSO ADMINISTRATIVO. ART. 4º, PARÁGRAFO ÚNICO, DO DECRETO 20.910/1932. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES. ACÓRDÃO RECORRIDO QUE ENTENDE PELA INEXISTÊNCIA DE INÉRCIA DA AUTORA. REVISÃO. IMPOSSIBILIDADE.
+NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É firme o entendimento no âmbito do STJ no sentido de que a formalização de requerimento administrativo, dentro do prazo prescricional, provoca a suspensão do prazo e não sua interrupção, ex vi do art. 4º, parágrafo único, do Decreto 20.910/1932.
+2. Desta forma, competia à Administração, para demonstrar a ocorrência da prescrição de fundo de direito, trazer evidências de que houve a negativa expressa do direito vindicado, o que não ocorreu.
+3. Tendo o acórdão recorrido decidido que a pretensão autoral não se encontra prescrita, pois "a autora incessantemente pleiteou seu direito à reintegração", afastar tal premissa, a fim de reconhecer a ocorrência de prescrição da pretensão autoral em razão de sua inércia, como pretende a agravante, exige o reexame do conjunto fático-probatório, o que é vedado na via estreita do recurso especial, por força da Súmula 7/STJ. Precedentes.
+4. Agravo regimental não provido.
+(AgRg no AREsp 498.065/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/8/2014, DJe 12/8/2014)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO. PRAZO. REPETIÇÃO DE PAGAMENTO INDEVIDO DE PROVENTOS DE SERVIDOR PÚBLICO APOSENTADO. RELAÇÃO DE DIREITO PÚBLICO. APLICAÇÃO DO DECRETO N. 20.910/32 POR ISONOMIA. PRAZO QUINQUENAL. SUSPENSÃO DA PRESCRIÇÃO DURANTE O PROCESSO ADMINISTRATIVO. INOVAÇÃO RECURSAL.
+1. O caso concreto refere-se a cobrança de indébito por parte da Fazenda Pública perante servidor decorrente de pagamento indevido de proventos. Inaplicável, portanto, o enunciado n. 153 da Súmula do extinto TFR que diz respeito à constituição e cobrança de crédito tributário ("Constituído, no qüinqüênio, através de auto de infração ou notificação de lançamento, o crédito tributário, não há falar em decadência, fluindo, a partir daí, em princípio, o prazo prescricional que, todavia, fica em suspenso, até que sejam decididos os recursos administrativos").
+2. O art. 4º, parágrafo único do Decreto n. 20.910/32 traz dispositivo que diz respeito à suspensão da prescrição diante de estudo que a Administração Pública realiza provocada por requerimento administrativo do particular para reconhecimento da dívida da Fazenda, o que não se enquadra na hipótese dos autos e a possibilidade de sua aplicação analógica sequer foi debatida seja no recurso especial, seja na instância de origem, tratando-se de verdadeira inovação recursal.
+3. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 188.172/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/9/2012, DJe 12/9/2012)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO. REQUERIMENTO ADMINISTRATIVO. SUSPENSÃO DO PRAZO. ART. 4º, PARÁGRAFO ÚNICO, DO DECRETO N.º 20.910/32.
+1. O requerimento administrativo suspende o lapso prescricional, nos termos do art. 4.º do Decreto n.º 20.910/32, reiniciando a contagem do prazo na data da negativa do pedido. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.308.900/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 7/8/2012, DJe 21/8/2012)
+Ademais, constato que carecem de prequestionamento a alegação de violação dos arts. 3º, 8º e 9º do Decreto 20.910/1932 e a tese a eles relacionada.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+Na hipótese dos autos, malgrado a oposição de embargos declaratórios, o Tribunal de origem não analisou a questão. Nesse contexto, a fim de suprir essa omissão, a parte recorrente deveria ter alegado violação do art. 535 do CPC/1973 nas razões do recurso especial.
+Desse modo, não tendo sido apreciada pelo Tribunal a quo, a despeito da oposição de embargos de declaração, aplicável à espécie o teor da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+No que tange à alegação de violação dos arts. 332 e 333 do CPC/1973, a Corte a quo assim se manifestou (e-STJ, fl. 254):
+2 - Quanto à inexistência de prova da prestação do mês de dezembro de 2002.
+Neste ponto não se acolhe a postulação do Estado, porque a rigor restou provada realmente a prestação relativa ao mês de dezembro de 2002, já que o documento de fls. 61 é hábl a demonstra o atendimento da obrigação a cargo da autora.
+Diga se que referido documento é diferente da documentação relatada as demais prestações.
+Assim, diante da afirmação do Tribunal de origem de que a parte autora comprovou o fato constitutivo de seu direito, verifica-se que, para rever essas conclusões da forma como pretende a recorrente, seria necessário o reexame do conjunto fático-probatório dos autos, o que é inviável na via eleita, em razão do óbice da Súmula 7/STJ. No ponto:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. URV. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC/1973 E 1.022 DO CPC/2015. INEXISTÊNCIA. MERO INCONFORMISMO. ÔNUS PROBATÓRIO. ART. 333 DO CPC/1973. MATÉRIA DE PROVA. OFENSA AO ART. 514, II, DO CPC/1973. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7/STJ.
+1. Deve ser rejeitada a alegada violação dos arts. 458 e 535 do CPC, na medida em que o Tribunal de origem julgou integralmente a lide, fundamentando seu proceder de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando as razões de seu convencimento.
+2. Os argumentos apresentados pelo insurgente buscam, exclusivamente, a inversão do ônus da prova pela Corte regional, que, diante do caso concreto, tem a faculdade de determiná-la ou não.
+3. A Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+4. A Corte de origem concluiu pela ausência de violação ao artigo 514, II, CPC/73, "haja vista que o recurso impugnou satisfatoriamente os pontos elencados na sentença", o que leva à conclusão de atendimento dos requisitos previstos no referido dispositivo.
+5. Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.665.411/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 5/9/2017, DJe 13/9/2017)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 333, I, DO CPC. INVERSÃO DO ÔNUS DA PROVA. ELEMENTOS FORMADORES DA CONVICÇÃO DO MAGISTRADO A QUO. REVISÃO. ENUNCIADO Nº 7/STJ.
+1. Conforme dispõe o art. 333, I e II, do Código de Processo Civil, compete ao autor fazer prova constitutiva de seu direito; e ao réu, prova dos fatos impeditivos, modificativos ou extintivos do direito do autor.
+2. Cabe às instâncias ordinárias, a análise de aspectos ligados ao conjunto probatórios dos autos, a ensejar, ou não, a inversão do ônus da prova.
+3. Os argumentos apresentados pelo recorrente buscam, exclusivamente, a inversão do ônus da prova pela Corte regional, que, diante do caso concreto, tem a faculdade de determiná-la ou não. A alteração desse entendimento, a fim de acolher a pretensão do recorrente de rever os elementos formadores da convicção do magistrado a quo, é tarefa inviável de ser realizada nesta Corte, por óbice da Súmula nº 7 do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 60.594/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 19/4/2012, DJe 13/6/2012)
+Por fim, quanto à multa aplicada, o art. 52, § 1º, da Lei n. 8.078/1990 não guarda vínculo com a hipótese dos autos, uma vez que não se trata de relação de consumo a atrair a aplicação do referido dispositivo, o que faz incidir no caso a Súmula 284/STF.
+Ante o exposto, com fulcro na Súmula 568/STJ e no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
