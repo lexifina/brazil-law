@@ -1,0 +1,19 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO. EMBARGOS INFRINGENTES. SERVIDOR PÚBLICO. MP 2.225-45/01. INCORPORAÇÃO DE QUINTOS DE FUNÇÃO COMISSIONADA E PAGAMENTO DE ATRASADOS. INCABÍVEL. RECURSO PROVIDO.
+    1. A Autora, ora Embargada, visa o pagamento dos valores atrasados relativos aos quintos incorporados aos seus vencimentos, referentes ao ano de 2000; março a dezembro de 2001; 2002; 2003 e 2004, na forma dos artigos 62-A da Lei 8.112/90, acrescentado pela MP 2.225-45/01.
+    2. A conclusão exarada no v. Acórdão não deve ser mantida, de modo a prevalecer o Voto Vencido, o qual deu provimento ao Agravo Interno interposto pela União, no sentido de que inexiste direito à incorporação de quintos no período reclamado e, por consequência, indevido qualquer pagamento a tal título.
+    3. Não conhecido o recurso em relação à prescrição, uma vez que tal matéria não foi objeto de divergência no Acórdão Embaragdo.
+    4. Não obstante a orientação do STJ em sentido contrário sobre a questão, inclusive no julgamento do REsp 1.261.020/CE, afetado como Recurso Repetitivo, este Tribunal vem decidindo no sentido de que, apesar de o art. 62-A da Lei 8.112/90, introduzido pela MP 2.225-45/2001, fazer alusão aos artigos 3º e 10 da Lei 8.911/94, não revigorou a sua vigência, pois a repristinação de norma só é admitida quando houver expressa menção desse efeito, nos termos do art. 2º, § 3º, da LICC, o que não ocorre no caso em exame.
+    5. Decisão consubstanciada no entendimento sinalizado pelo STF, nos autos do MS 25845, assim como da Reclamação 8757, ambos de relatoria do Min. Joaquim Barbosa, no sentido de suspender a concessão de novas incorporações de quintos/décimos nos vencimentos dos servidores do TCU e filiados do SINDJUS-DF, dos valores correspondentes ao exercício de cargos ou funções comissionadas no período compreendido entre 08/04/1998 a 04/09/2001. Ademais, reconhecida a repercussão geral do tema nos recursos extraordinários nºs 638115 e 587371, nos quais, sendo confirmada a orientação, prevalecerá sobre aquele adotado no REsp 1.261.020/CE. Precedentes recentes deste TRF2: EIAC 2008.51.09.000160-3, AC 2009.51.01.016754-8, AC 2009.51.01.018309-8.
+    6. Embargos Infringentes providos.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 5º, XXXVI, da Constituição.
+    O recurso não deve ser provido.
+    O Supremo Tribunal Federal, no julgamento do RE 638.115-RG, sob a relatoria do Ministro Gilmar Mendes, firmou o entendimento no sentido de que somente é possível contagem de tempo para percepção de quintos até 08.04.1998. Vale destacar o seguinte trecho do voto proferido pelo Ministro Marco Aurélio:
+    “Ante esse emaranhado normativo’ – como eu disse –, ‘surge quadro definido: a contagem de tempo, para efeito de percepção de quintos, cessou em 8 de abril de 1998 e aqueles que perfizeram tempo considerada essa data-limite continuaram a perceber o valor sob o título primitivo – da Lei nº 8.911/94. Mas, confirmando-se a máxima segundo a qual a normatização por vezes imprecisa serve a confundir, e não a elucidar, editou-se a Medida Provisória que causou a celeuma, de nº 2.225-45, em 4 de setembro de 2001, gancho do entendimento sobre o ressuscitamento, limitado no tempo, dos ‘quintos’”.
+    O Tribunal de origem não divergiu dessa orientação.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 11 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
