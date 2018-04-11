@@ -1,0 +1,6 @@
+DECISÃO
+TIAGO DE BRITO DA LUZ, paciente neste habeas corpus, estaria sofrendo coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que negou provimento ao Agravo Regimental no HC n. 4001407-71.2016.8.24.0000, mantendo incólume decisão monocrática que não conheceu do writ.
+Em consulta ao sítio eletrônico do Tribunal a quo, verifico que, em 3/3/2018, foi proferida decisão que desclassificou o crime doloso contra a vida para o delito previsto no art. 15 da Lei n. 10.826/2003. Determinou, ainda, a reautuação do feito, para posterior análise dos crimes previstos nos arts. 15 e 16, parágrafo único, IV, ambos da Lei n. 10.826/2003 e 28 da Lei n. 11.343/2006.
+Assim, evidencia-se a prejudicalidade do writ, em que se alega nulidade da decisão que recebeu a exordial acusatória, por carência de fundamentação, pois incoerente analisar os argumentos lançados para o recebimento da denúncia, se a própria pretensão acusatória já foi desclassificada, depois de uma análise vertical do acervo fático-probatório dos autos, no qual foi oportunizado a ampla defesa ao paciente.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado este habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
