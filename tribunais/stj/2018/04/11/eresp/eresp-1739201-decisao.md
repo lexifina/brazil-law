@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CIÊNCIA INEQUÍVOCA. CARACTERIZAÇÃO. PROCESSO ELETRÔNICO. IRRELEVÂNCIA DO CONTEÚDO DA PETIÇÃO. SUPERAÇÃO DO ANTIGO ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA A RESPEITO DO TEMA. INTELIGÊNCIA DO ART. 9º, § 1º, DA LEI Nº 11.419/06. RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram julgados na forma desta ementa:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CIÊNCIA INEQUÍVOCA DE ATO DECISÓRIO. PROCESSO ELETRÔNICO.
+1) ERRO DE PREMISSA DE FATO. ESPÉCIE DO GÊNERO ERRO MATERIAL. POSSIBILIDADE DE DISCUTIR A MATÉRIA EM SEDE DE EMBARGOS. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+2) PETICIONAMENTO E ACESSO AOS AUTOS NO SISTEMA E-SAJ. ATOS DESVINCULADOS. POSSIBILIDADE DE PETICIONAR SEM ACESSAR OS AUTOS.
+3) EFEITOS INFRINGENTES. ERRO QUE, A DESPEITO DE EXISTENTE. NÃO ALTERA O RESULTADO DO JULGAMENTO. DESVINCULAÇÃO ENTRE OS CAMINHOS DE PETICIONAMENTO E ACESSO QUE NÃO AFASTA O FATO DE QUE, POR FAZER MENÇÃO A DOCUMENTOS ESPECÍFICOS DOS AUTOS, PRESUME-SE QUE A PETIÇÃO CONFECCIONADA FOI ELABORADA APÓS ACESSO AO CADERNO PROCESSUAL.
+4) RECURSO CONHECIDO E PROVIDO APENAS PARA SANEAR O ERRO DE PREMISSA DE FATO.
+Para o Superior Tribunal de Justiça, o erro de premissa de fato é espécie de erro material, tornando possível que sua alegação em sede de Embargos de Declaração, seja no CPC/73, por força do art. 463, I, seja no CPC/15, em virtude do art. 1.022, III.
+O art. 9º, §1º, da Lei nº 11.419/06 (Lei do Processo Eletrônico) estabelece que "as citações, intimações, notificações e remessas que viabilizem o acesso à íntegra do processo correspondente serão consideradas vista pessoal do interessado para todos os efeitos legais". Citado dispositivo somente tem aplicação plena na hipótese de o ato de comunicação ter sido efetivamente realizado. Em se tratando de acesso espontâneo aos autos, sem que se promova um ato formal de intimação, é necessária a análise do conteúdo da peça para precisar se houve ou não acesso aos autos antes do peticionamento.
+Para fins de caracterização de ciência inequívoca, não se exige, como o fazia o STJ no âmbito do processo físico, que o conteúdo da petição evidencie que a parte teve ciência inequívoca de uma decisão específica nos autos. Basta que, no âmbito do E-SAJ, se infira que houve acesso aos autos eletrônicos para que incida a presunção legal (art. 9º, §1º, da Lei nº 11.419/06) de que a parte teve ciência de todos os atos praticados.
+As presunções judiciais são pacificamente aceitas pela doutrina e pela jurisprudência. Consistem na possibilidade de o juiz, por processo indutivo, inferir de um fato demonstrado nos autos que ocorreu um segundo fato não provado.
+Por fazer menção específica à localização de certos documentos nos autos, presume-se (presunção judicial) que a parte, antes de peticionar, acessou efetivamente o caderno processual. Esse fato é bastante para atrair a presunção legal de que teve ciência da sentença proferida.
+Além disso, não se torna possível presumir uma desvinculação temporal entre os momentos de acesso aos autos e peticionamento para concluir que aquele (o acesso) ocorreu antes da disponibilização da sentença. Isso porque a peça apresentada na origem tem apenas duas páginas, não sendo possível inferir, em virtude do lapso temporal e de sua extensão, que seriam necessários dois dias inteiros para revisar seu teor. Desta forma, o fato de todas as peças mencionadas serem anteriores à sentença torna-se desimportante, pois há plena incidência da já mencionada presunção legal.
+Recurso conhecido e provido para sanear o erro material apontado, sem atribuição de efeitos infringentes aos Embargos.
+No recurso especial, a parte ora agravante alega violação dos artigos 236, 242 e 463 do Código de Processo Civil de 1973; dos artigos 272, 494 e 1.003 do CPC de 2015; e do artigo 9º da Lei 11.419/2006, além de divergência jurisprudencial.
+Aponta nulidade absoluta, decorrente de ausência de publicação da sentença.
+Requer restituição de prazo para se manifestar sobre a sentença, da qual não teve ciência.
+Sustenta que o conhecimento dos atos processuais não pode resultar de presunção, salvo ciência inequívoca, não ocorrente na espécie dos autos.
+Em face da relevância da matéria, dou provimento ao agravo para determinar a conversão dos autos em recurso especial.
+Intimem-se.
