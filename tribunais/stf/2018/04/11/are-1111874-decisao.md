@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário com agravo cujo objeto é o acórdão do Tribunal Regional Federal da 5ª Região assim ementado (eDOC 5, p. 15):
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. CÁLCULOS DO CONTADOR OFICIAL. FÉ PÚBLICA. PRESUNÇÃO ‘JURIS TANTUM’ DE LEGITIMIDADE E VERACIDADE.
+    Agravo de Instrumento manejado pelo INSS em face da decisão, proferida em sede 1. de Execução, que homologou os cálculos apresentados pela Contadoria do Foro, relativos a valores complementares de juros e correção monetária.
+    2. O Juízo de Primeira Instância confirmou a conta acolhida pela Contadoria Judicial, considerando não ter o Recorrente apresentado elementos para desconstituir os cálculos do perito judicial.
+    3. Não podem ser desprezados os cálculos realizados/acolhidos na perícia contábil, vez que não se vislumbra nenhum erro aritmético, mas apenas divergência quanto à correção aplicada, pela qual não há porque reformar a decisão agravada, destacando, ainda, a fé pública das conclusões do Contador Judicial que estão equidistantes dos interesses das partes.
+    4. A jurisprudência sedimentada nesta Corte é no sentido de que as informações prestadas pela Contadoria do Foro possuem fé pública e são dotadas de imparcialidade e têm presunção ‘jurus tantum’ de legitimidade e de veracidade, devendo ser prestigiadas pelo Órgão Julgador, principalmente quando as provas apresentadas pela parte interessada não são suficientes para desconstituí-las. Agravo de Instrumento improvido.”
+    De plano, verifica-se que a matéria cinge-se ao Tema 96 da sistemática da repercussão geral, cujo recurso-paradigma é o RE 579.431, de relatoria do Ministro Marco Aurélio, DJe de 19.04.2017, que assentou a seguinte tese: “Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório.”
+    Do mesmo modo, a questão referente ao período de graça constitucional está afeta ao Tema 147 da repercussão geral, cujo paradigma é o RE-RG-QO 591.085, de relatoria do Ministro Ricardo Lewandowski, Tribunal Pleno, DJe 20.02.2009, assim ementado:
+    “CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II - Julgamento de mérito conforme precedentes. III - Recurso provido.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 11 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
