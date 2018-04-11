@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. INVENTÁRIO. BEM RECEBIDO A TÍTULO DE DOAÇÃO. DISPENSA DA COLAÇÃO DE FORMA EXPRESSA. INEXISTÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DO ACÓRDÃO VERGASTADO. SÚMULA 283/STF. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AGRAVO DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por MARCIA BEATRIZ LICHTEMBERGER CATAN, em face da decisão que negou seguimento a recurso especial, aviado pela alínea "a" do inciso III do art. 105 da Constituição Federal, ao fundamento de ausência de demonstração da ofensa ao art. 112 do Código Civil, bem como de incidência da Súmula 07/STJ (e-STJ fls. 239-240).
+Em suas razões, infirmou especificamente as razões da decisão agravada (e-STJ fls. 243-246).
+No recurso especial, alega a parte recorrente violação ao art. 112 do Código Civil, sustentando, em síntese, que o Tribunal de Origem não realizou a vontade expressa em vida pelo de cujus no tocante à doação do bem imóvel feita à recorrente, quando cotejada com os demais atos de disposição que foram feitos aos demais herdeiros e donatários, filhos do de cujus e irmãos da recorrente; que não foi a intenção do de cujus doar o único bem imóvel para a recorrente, e em condições diversas do que fez para os demais filhos e herdeiros; bem como que o bem recebido por doação não deve ser levado à colação, em inventário.
+Apresentadas as contrarrazões (e-STJ fls. 220-229/233-237).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial (e-STJ fls. 270-273).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/2015, conforme Enunciado Administrativo Nº 3/STJ.
+Ato contínuo, percebe-se que a irresignação não merece acolhida.
+A recorrente, em sede de recurso especial, alega ofensa ao art. 112 do Código Civil, sustentando, em síntese, que o Tribunal de Origem não realizou a vontade expressa em vida pelo de cujus no tocante à doação do bem imóvel feita à recorrente, quando cotejada com os demais atos de disposição que foram feitos aos demais herdeiros e donatários, filhos do de cujus e irmãos da recorrente; que não foi a intenção do de cujus doar o único bem imóvel para a recorrente, e em condições diversas do que fez para os demais filhos e herdeiros; bem como que o bem recebido por doação não deve ser levado à colação, em inventário.
+O acórdão recorrido, por sua vez, assim assentou (e-STJ fls. 204-205):
+No tocante à determinação da colação, nesse ponto, o recurso não pode ser conhecido, porque o juízo proferiu a primeira decisão, nesse sentido, em 10 de agosto de 2012, inexistindo, naquela oportunidade, interposição de recurso adequado, não podendo agora, anos depois de sua proclamação, pugnar a agravante pela sua dispensa, tanto assim que o juízo apenas manteve seu r. "decisum" anterior, restando a matéria preclusa, portanto.
+Quanto à validade dos documentos supramencionados, trazidos recentemente , razão assiste ao juízo.
+De fato, a dispensa da colação deve ser feita, expressamente, observando-se que, mesmo se fosse reconhecida a validade dessas declarações, em nenhum momento mencionou-se a dispensa da colação.
+Noutro dizer, a "dispensa da colação, prevista no art. 2005, deve obedecer, necessariamente, a uma das duas formas previstas no art. 2.006. Deve constar do próprio título da liberalidade ou em testamento." (in "Código Civil Comentado, Doutrina e Jurisprudência, Coordenador Ministro Cezar Peluso, página 1936, artigo 2006 do CC comentado por [NOME] , editora Manole).
+Por isso mesmo que, em cotejo com os demais elementos nos autos, não se pode aplicar ao caso o quanto disposto no artigo 112 do Código Civil, porquanto, frise-se, em nenhum momento, foi indicada a dispensa da colação, não se podendo, destarte, dar validade aos documentos juntados pela agravante.
+Com efeito, vislumbra-se que a pretensão da agravante não merece guarida, uma vez que a conclusão do v. acórdão, qual seja, de que a matéria atinente à determinação da colação restou preclusa, não foi impugnada, de forma específica, pela ora recorrente no bojo das razões do especial, incidindo, pois, o óbice constante da Súmula 283/STF ao caso em tela, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FASE DE LIQUIDAÇÃO. PROVA ATUARIAL. REEXAME DA MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. FUNDAMENTO SUFICIENTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA Nº 283/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Quando a determinação do valor da condenação depender apenas de cálculo aritmético, o cumprimento de sentença poderá se dar sem a fase de liquidação, e não havendo a necessidade de perícia ou de se alegar ou produzir fato novo, não há falar em liquidação por arbitramento ou por artigos.
+3. Rever as conclusões do tribunal quanto à necessidade de realização de perícia atuarial demandaria análise de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+4. A interposição do recurso especial, deixando a parte recorrente de infirmar especificamente os fundamentos suficientes do acórdão, atrai a incidência da Súmula nº 283 do Supremo Tribunal Federal.
+5. Agravo interno não provido.
+(AgInt no AREsp 913.610/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/11/2017, DJe 04/12/2017) - g.n.
+Ademais, convém ressaltar que, elidir a conclusão do aresto impugnado de que "em cotejo com os demais elementos nos autos, não se pode aplicar ao caso o quanto disposto no artigo 112 do Código Civil, porquanto, frise-se, em nenhum momento, foi indicada a dispensa da colação, não se podendo, destarte, dar validade aos documentos juntados pela agravante", demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+Destarte, o desprovimento do recurso é medida que se impõe.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+Contudo, percebe-se que o recurso especial apresentado nesta Corte Superior foi interposto nos autos de agravo de instrumento, contra decisão interlocutória na qual não houve prévia fixação de honorários, não sendo cabível, portanto, tal majoração.
+ Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Intimem-se.
