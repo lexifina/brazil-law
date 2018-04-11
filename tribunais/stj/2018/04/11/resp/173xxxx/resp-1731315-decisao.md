@@ -1,0 +1,40 @@
+EMENTA
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. CONTRATO DE PLANO DE SAÚDE. PREVISÃO DE COPARTICIPAÇÃO DE CUSTEIO APÓS O TRIGÉSIMO DIA DE INTERNAÇÃO. VIABILIDADE DA DISPOSIÇÃO. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+CARLOS PINTO LOJA NETO e PEDRO PUGGINA LOJA (CARLOS e outro) ajuizaram ação de indenização em desfavor de OMINT SERVIÇOS DE SAÚDE LTDA. (OMINT), cujos pedidos foram julgados procedentes, exceto quanto ao pleito de condenação da ré em custear o tratamento integral da parte autora até a sua alta médica, que não foi examinado por falta de interesse (e-STJ, fls. 361/367).
+As apelações interpostas por CARLOS e outro, de um lado, e OMINT, de outro, foram improvidas pelo Tribunal de origem, nos termos da seguinte ementa:
+Apelação Cível. Relação de consumo. Plano de saúde.
+Pedido de reembolso integral das despesas com gastos médicos, hospitalares e de transporte por ambulância. Plano contratado na modalidade livre escolha.
+Sentença de parcial procedência. Apelações interpostas por ambas as partes.
+O magistrado é o destinatário final da prova e cabe a ele decidir ser há necessidade ou não de sua produção. Matéria discutida em agravo de instrumento. Impossibilidade de nova discussão. Princípio da segurança jurídica.
+Laudo médico (indexador 00069) descrevendo o estado clinico do autor e indicando a urgência. Restou configurada a necessidade da internação e do transporte pela UTI, devendo a sentença ser mantida na condenação de devolução dos valores despendidos com o transporte.
+É nula de pleno direito a cláusula, inserida em contratos de plano ou de seguro saúde, que limita o tempo de cobertura para internação, inclusive para tratamento psiquiátrico ou de dependência química. Enunciado 09 do Aviso TJ/CEDES nº 16 de 2015.
+Ao efetuar parte do reembolso administrativamente o plano réu anuiu com a escolha dos autores pela clínica não credenciada. Impugnação posterior que se mostra contraditória. Conduta vedada em nosso ordenamento jurídico.
+Falha na prestação do serviço. Dano moral configurado.
+Quantum fixado na sentença que está de acordo com os princípios da razoabilidade e da proporcionalidade.
+Manutenção da sentença.
+NEGA-SE PROVIMENTO AOS RECURSOS. (e-STJ, fls. 461/462).
+Os embargos de declaração opostos por CARLOS e outro, de um lado, e OMINT, de outro, foram rejeitados (e-STJ, fls. 494/498).
+Inconformada, OMINT interpôs recurso especial, com fundamento no art. 105, a e c, da CF, alegando violação do art. 16, VIII, da Lei 9.656/98, ao sustentar que a cláusula que prevê a coparticipação do usuário no custeio de despesas decorrentes da internação psiquiátrica a partir do 31º (trigésimo primeiro) dia de internação do beneficiário em um mesmo ano contratual, sendo vedado impor à operadora do plano de saúde que arque integralmente com os respectivos gastos, além do percentual de coparticipação instituído no ajuste do qual os recorridos são beneficiários ser menor do que o máximo permitido pela Agência Nacional de Saúde (ANS), o que demonstra a falta de abusividade do dispositivo. Também indicou dissídio jurisprudencial, tendo por paradigmas precedentes do Tribunal de Justiça do Estado de São Paulo e desta Corte Superior quanto à referida matéria.
+Em juízo de admissibilidade, a Terceira Vice-Presidência do Tribunal estadual admitiu o referido apelo nobre (e-STJ, fl. 564/567).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No que se refere à legalidade da coparticipação do segurado nos custos posteriores ao trigésimo dia de internação do paciente, verifica-se que o aresto recorrido está em desconformidade com a jurisprudência desta Corte, que reconhece a viabilidade da disposição que prevê o compartilhamento das despesas entre a prestadora de assistência médica e o paciente, nos termos das seguintes ementas:
+DIREITO CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. CLÁUSULA DE COPARTICIPAÇÃO. TRATAMENTO PSIQUIÁTRICO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. LEI 9.656/98. POSSIBILIDADE. PREVISÃO CONTRATUAL EXPRESSA.
+1. Ação de obrigação de fazer cumulada com compensação por dano moral e indenização por dano material ajuizada em 27.12.2012. Recurso especial atribuído ao gabinete em 25.08.2016. Julgamento: CPC/73.
+2. O propósito recursal é aferir a abusividade de cláusula em contrato de assistência médica, que impõe coparticipação do contratante, após o período de 30 (trinta) dias, à razão de 50% (cinquenta por cento) do valor das despesas hospitalares e honorários médicos de internação para tratamento psiquiátrico.
+3. Ausente o vício do art. 535, II do CPC/73, rejeitam-se os embargos de declaração.
+4. A lei especial que regulamenta a prestação dos serviços de saúde autoriza, expressamente, a possibilidade de coparticipação do contratante em despesas médicas específicas, desde que figure, de forma clara e expressa, a obrigação para o consumidor no contrato. 5. Na hipótese, a coparticipação foi utilizada para redimensionar, contratualmente, "a franquia, os limites financeiros ou o percentual de coparticipação do consumidor ou beneficiário", prevista para as despesas com tratamento psiquiátrico na apólice de seguro saúde escolhida pelo recorrido.
+6. O acórdão recorrido diverge do entendimento deste órgão julgador, no sentido de que "não é abusiva a cláusula de coparticipação expressamente contratada e informada ao consumidor, para a hipótese de internação superior a 30 (trinta) dias decorrentes de transtornos psiquiátricos, pois destinada à manutenção do equilíbrio entre as prestações e contraprestações que envolvem a gestão dos custos dos contratos de planos de saúde". Precedentes.
+7. Afastada, na hipótese, a abusividade da cláusula que estabelece a coparticipação do recorrido quando necessária internação hospitalar para tratamento psiquiátrico por período superior a trinta dias por ano contratual, impõe-se o reconhecimento da improcedência da condenação da recorrida em indenizar danos materiais e compensar danos morais.
+8. Recurso especial parcialmente conhecido e, nessa parte, provido para declarar a validade da cláusula de coparticipação estipulada para internações superiores a 30 (trinta) dias, decorrentes de transtornos psiquiátricos, e para afastar a condenação da recorrente ao pagamento de indenização por danos materiais e compensação por danos morais.
+(REsp 1.667.946/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 18/05/2017, DJe 26/05/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. SISTEMA DE COPARTICIPAÇÃO. PREVISÃO CONTRATUAL CLARA E EXPRESSA. ABUSIVIDADE. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+1. Atendido o direito de informação, mediante a redação de forma clara e expressa da cláusula limitativa, bem como mantido o equilíbrio das prestações e contraprestações, não há que se cogitar de abusividade da cláusula contratual que estabelece a coparticipação do consumidor após o trigésimo dia de internação. Precedente.
+2. Agravo interno desprovido.
+(AgInt no REsp 1.617.669/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 22/11/2016, DJe 25/11/2016)
+Nessas condições, DOU PROVIMENTO ao recurso especial a fim de reconhecer a validade da disposição de coparticipação entre as partes prevista para internações superiores a trinta dias.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito a multa (art. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
