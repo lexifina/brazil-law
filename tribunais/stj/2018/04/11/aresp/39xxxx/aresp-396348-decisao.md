@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que inadmitiu recurso especial, fundamentado no art. 105, III, "a" da Constituição Federal, este interposto contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"AGRAVO INTERNO CONTRA DECISÃO QUE EXTINGUIU AÇÃO RESCISÓRIA SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DE COMPLEMENTAÇÃO DO DEPÓSITO PRÉVIO DO ART. 488, II, DO CÓDIGO DE PROCESSO CIVIL. ALEGAÇÃO DE AUSÊNCIA DE PRONUNCIAMENTO ACERCA DE PEDIDO DE ASSISTÊNCIA JUDICIÁRIA. MATÉRIA JÁ APRECIADA EM SEDE DE EMBARGOS DE DECLARAÇÃO ANTERIORMENTE OPOSTOS. DECISÃO MONOCRÁTICA QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E IMPROVIDO." (e-STJ, fl 1426)
+Nas razões do recurso especial, KERGINALDO JÁCOME DA COSTA alega o seguinte negativa de prestação jurisdicional, nestes termos:
+"Como já se pode relatar, em ambos os casos os membros da magistratura entenderam não proceder o argumento, negando vigência por omissão ao art. 5º do Código de Processo Civil, à medida em que recusou-se a apreciar o pedido de justiça gratuita protocolado nos autos antes da prolação da decisão. Ocorre que o processo foi extinto sem julgamento de mérito por ausência de recolhimento de complementação de depósito de caução para ação rescisória, determinado no art. 488, inciso II, do Código de Processo Civil, dessa forma, o acolhimento do pedido de justiça gratuita é suficiente para modificar a decisão emanada extintiva e permitir que a questão de mérito seja apreciada." (fl. 1436)
+Tecem considerações acerca do mérito da ação rescisória.
+É o relatório.
+A irresignação não merece prosperar.
+Com efeito, nas razões recursais a parte recorrente apontou violação genérica, não desenvolvendo argumentação que evidenciasse a ofensa, sendo que o mencionado art. 5º do CPC/73 não possui pertinência temática com a lide, tornando patente a falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal. A propósito:
+"AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. RECURSO QUE DEIXA DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO. SÚMULA Nº 182/STJ. EMBARGOS DE DECLARAÇÃO.RECORRENTE QUE NÃO DEFINE NEM DEMONSTRA EM QUE CONSISTE A OMISSÃO. SÚMULA Nº 284/STF. ARTIGOS 496 E 513 DO CÓDIGO DE PROCESSO CIVIL. NÃO DEMONSTRAÇÃO DA VIOLAÇÃO DOS DISPOSITIVOS DE LEIS FEDERAIS. SÚMULA Nº 284/STF. AGRAVO IMPROVIDO.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." (Súmula do STJ, Enunciado nº 182).
+2. "É possível o juízo de admissibilidade adentrar o mérito do recurso, na medida em que o exame da sua admissibilidade, pela alínea "a", em face dos seus pressupostos constitucionais, envolve o próprio mérito da controvérsia." (AgRgAg nº 228.787/RJ, Relator Ministro Sálvio de Figueiredo Teixeira, in DJ 4/9/2000).
+3. Em tema de violação do artigo 535 do Código de Processo Civil, a não indicação expressa das questões apontadas como omitidas vicia a motivação do recurso especial, inviabilizando o seu conhecimento.Incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+4. Ao apontar a violação dos artigos 496, inciso I, e 513 do Código de Processo Civil, nas razões do recurso especial, a agravante não define nem demonstra no que consistiu a alegada violação dos dispositivos legais, deixando de explicitar, de forma clara e precisa, a negativa de vigência de lei federal, atraindo a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+5. Agravo regimental improvido."
+(AgRg no Ag 1.292.758/MG, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA TURMA, julgado em 18/05/2010, DJe de 04/06/2010)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Prejudicada a análise do pedido de tutela provisória, formulado às fls. 1631/1682.
+Publique-se.
