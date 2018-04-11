@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno contra decisão da Presidência deste STJ que considerou deserto o recurso especial em cujas razões não houve renovação do pedido de justiça gratuita já concedido na origem.
+Ocorre que no julgamento do Agravo Regimental no EAREsp 86.915/SP, na sessão de 26.2.2015, a Corte Especial deste Superior Tribunal decidiu não ser necessária a renovação do pedido de assistência judiciária gratuita no âmbito do Superior do Tribunal de Justiça (acórdão da relatoria do Ministro RAUL ARAÚJO, DJe 4.3.2015).
+Reconsidero, assim, a decisão de fls. 1.707-1.708/eSTJ, e passo a analisar o agravo contra decisão que negou seguimento a recurso especial interposto pela divergência em face de acórdão assim ementado:
+RECURSO DE AGRAVO RETIDO
+AÇÃO COM PEDIDO DE COBRANÇA. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. CONTRATO HABITACIONAL FIRMADO DIRETAMENTE COM A COHAPAR. SOCIEDADE DE ECONOMICA MISTA. DESVINCULAÇÃO DO SISTEMA FINANCEIRO DE HABITAÇÃO. CAPITAL PRIVADO. CONTRATAÇÃO DE SEGURO COM EMPRESA ESPECÍFICA - COMPANHIA EXCELSIOR DE SEGUROS - PARTE QUE TEM LEGITIMIDADE PARA RESPONDER PELOS PREJUÍZOS SUSCITADOS NO IMÓVEL DO AUTOR. SEGURADORA INDICADA PELO AUTOR, COMO RÉ DA LIDE, QUE NÃO TEM QUALQUER RESPONSABILIDADE INSTRUMENTAL EM ARCAR COM O PLEITO INDENIZATÓRIO - AUSÊNCIA DE APÓLICE - PRECEDENTES. EXTINÇÃO DO PROCESSO. ARTIGO 267, INCISO IV, DO CPC.
+AGRAVO RETIDO CONHECIDO E, NO MÉRITO, PROVIDO, POR MAIORIA.
+RECURSO DE APELAÇÃO PREJUDICADOS.
+Não merece reforma a decisão agravada, a qual foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016, desta Corte.
+Com efeito, assinalo que nas razões de recurso especial não houve indicação do artigo de lei a respeito de cuja interpretação divergiu o acórdão recorrido, o que, nos termos da jurisprudência desta Corte, atrai a incidência da Súmula 284/STF.
+Com efeito, verifico que a demonstração do dissídio jurisprudencial não obedeceu ao disposto nos artigos 541 do Código de Processo Civil de 1973 e 255 do RISTJ, uma vez que a recorrente, ora agravante, deixou de evidenciar a semelhança entre os fatos considerados pelo acórdão recorrido e o panorama de fato dos paradigmas invocados, limitando-se a afirmar a existência de divergência na interpretação do direito. Ausente, pois, a demonstração de que os casos confrontados tenham se assentado em bases de fato similares e adotado conclusões opostas sobre idêntica questão jurídica, requisitos fundamentais para o conhecimento do recurso fundado na alínea c do artigo 105, III, da Constituição Federal.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
