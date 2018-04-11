@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o ora paciente foi preso preventivamente pela suposta prática do delito tipificado no art. 121, § 2º, II e IV, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da prisão preventiva. O eg. Tribunal de origem denegou a ordem, em acórdão assim ementado:
+"HOMICÍDIO QUALIFICADO (art. 121, § 2o, incisos II e IV, do Código Penal). Prisão preventiva. Revogação. Inadmissibilidade. Presença dos requisitos da custódia cautelar. Existência de prova da materialidade da infração e de indícios de autoria, que, somada à gravidade do crime, justifica a manutenção da custódia cautelar, para garantia da ordem pública, da instrução criminal e da futura aplicação da lei penal. Custódia decretada e mantida por decisões bem fundamentadas. Alegação de legítima defesa. Via inadequada para análise da questão. Constrangimento ilegal inexistente. Ordem denegada" (fl. 74).
+Daí o presente mandamus, no qual o impetrante repisa os argumentos lançados no writ originário, reafirmando a existência de constrangimento ilegal consubstanciado na ausência de fundamentação da r. decisão que decretou a segregação cautelar.
+Sustenta que "Ademais, vale lembrar que trata- se de Acusado, primário de bons antecedentes, com residência fixa e trabalho licito, em mais radicado no distrito da culpa, sendo que nunca sequer foi aberto um inquérito policial em seu nome" (fl. 17).
+Requer, ao final, a revogação da prisão decretada em desfavor do paciente.
+Liminar indeferida às fls. 90-91.
+Informações prestadas às fls. 97-105.
+O Ministério Público Federal, às fls. 107-109, manifestou-se pelo não conhecimento do habeas corpus, em parecer ementado, in verbis:
+"EMENTA: HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. RACIONALIZAÇÃO NO USO DO MANDAMUS. PRECEDENTES DO STJ E STF. HOMICÍDIO DUPLAMENTE QUALIFICADO. MOTIVO TORPE E RECURSO QUE DIFICULTOU A DEFESA DA VÍTIMA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO ADEQUADA. PRESENÇA DOS REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GRAVIDADE DO DELITO. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. PARECER PELO NÃO CONHECIMENTO DO WRIT" (fl. 107).
+É o relatório.
+Decido.
+A deficiente instrução dos autos impede o conhecimento do writ. Com efeito, olvidou-se o impetrante de juntar aos autos cópia do decreto prisional que converteu a prisão em flagrante do ora paciente em prisão preventiva, em sede de audiência de custódia.
+A apontada deficiência de instrução impede a exata compreensão da controvérsia, sendo pacífica a jurisprudência desta Corte de Justiça no sentido de que é ônus do impetrante a correta instrução dos autos, sob pena de não conhecimento do habeas corpus.
+Nesse sentido:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PREJUDICIALIDADE DO RECURSO EM RELAÇÃO AOS RECORRENTES BENEFICIADOS COM A LIBERDADE PROVISÓRIA PELO JUÍZO DE ORIGEM. NÃO CONHECIMENTO DO RECURSO PARA OS RECORRENTES QUE NÃO FIGURAM COMO PACIENTES NO ACÓRDÃO DO WRIT ORIGINÁRIO.  ..  INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. O recurso está prejudicado em relação aos recorrentes [NOME], [NOME] e R. de A.. Conforme informações prestadas a essa Corte, na audiência de instrução e julgamento foi concedida liberdade provisória a esses recorrentes. Assim, não há como negar a perda superveniente do objeto deste recurso em relação a eles. O recurso foi interposto por seis réus, contudo o acórdão que instrui o pedido tem como paciente unicamente [NOME] de [NOME].. Desse modo, constato a deficiência de instrução quanto aos recorrentes [NOME] e [NOME], não havendo como conhecer do recurso deles.
+ ..
+4. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+Recurso em habeas corpus conhecido em parte e, nessa extensão, desprovido" (RHC 73.802/MG, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 28/10/2016, grifei).
+"AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. CRIME DE RECEPTAÇÃO. TESE DE AUSÊNCIA DE FUNDAMENTAÇÃO DOS REQUISITOS AUTORIZADORES. DEFICIÊNCIA DE INSTRUÇÃO. ÔNUS DO IMPETRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. Consoante entendimento desta Corte Superior, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 286.754/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 3/2/2015).
+2. Não tendo sido juntadas aos autos cópia da decisão do decreto prisional, folha de antecedentes criminais e documentação comprobatória das condições de favorabilidade do paciente, ora agravante, deve ser mantida a decisão que indeferiu o writ liminarmente.
+3. Agravo regimental improvido." (AgRg no HC 353.292/TO, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 18/05/2016, grifei).
+No âmbito desta Corte Superior, cito as seguintes decisões monocráticas: HC n. 412.703/GO, Sexta Turma, Rel. Ministro Sebastião Reis Júnior; HC n. 412.088/MG, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca; HC n. 411.306/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik; HC nº 412.341/TO, Sexta Turma, Relª. Ministra Maria Thereza de Assis Moura; HC n. 412.092/SP, Sexta Turma, Rel. Ministro Antonio Saldanha Palheiro.
+Ante o exposto, não conheço do presente habeas corpus.
+P. e I.
