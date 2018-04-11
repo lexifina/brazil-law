@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. EMBARGOS DE TERCEIROS. BEM DE FAMÍLIA. DESNECESSIDADE DE COMPROVAÇÃO DE QUE O IMÓVEL PENHORADO É O ÚNICO DE PROPRIEDADE DO DEVEDOR. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
+DECISÃO
+MARIA DAS DORES QUEIROZ DE SOUZA (MARIA DAS DORES) ajuizou embargos de terceiros contra [NOME] [NOME] DEVICO & CIA LTDA. ([NOME]), que foram julgados improcedentes.
+A apelação interposta por MARIA DAS DORES não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - BEM DE FAMÍLIA - IMPENHORABILIDADE - AUSÊNCIA DE COMPROVAÇÃO - EXISTÊNCIA DE OUTROS BENS NA OCASIÃO DO AJUIZAMENTO DA DEMANDA - HONORÁRIOS RECURSAIS EXIGIBILIDADE SUSPENSA - JUSTIÇA GRATUITA - ARTIGO 98, § 3o CPC/15.
+Consoante a exegese dos arts. Io e 5o da Lei 8.009/90, é impenhorável o imóvel residencial da entidade familiar, assim considerado quando utilizado em caráter de moradia permanente.
+Caso em que a apelante não logrou se desincumbir do ônus da prova de fato constitutivo de seu direito, a teor do que dispõe o art. 373, I do NCPC, sendo, ainda, proprietária de outros bens imóveis à época do ajuizamento da execução. (e-STJ fls. 242)
+Inconformada, MARIA DAS DORES interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação do art. 5º da Lei 8.009/90, ao sustentar que (1) utiliza o imóvel penhorado, e (2) havendo mais de um bem no patrimônio do devedor, para efeitos de impenhorabilidade, considera-se residência o único imóvel utilizado pelo casal.
+O apelo nobre não foi admitido em virtude da incidência da Súmula 7 do STJ.
+Nas razões do presente agravo em recurso especial, MARIA DAS DORES sustentou que não é caso de aplicação da referida súmula.
+Sem impugnação.
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do art. 5º da Lei 8.009/90
+Inicialmente, a Lei nº 8.009/90, ao instituir a impenhorabilidade do bem de família, buscou proteger a família ou a entidade familiar, de modo a tutelar o direito constitucional fundamental da moradia e assegurar um mínimo para uma vida com dignidade dos seus componentes.
+Esta Corte entende que, para ser reconhecida a impenhorabilidade do bem de família, não é necessária a prova de que o imóvel em que reside a família é o único de sua propriedade.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PENHORA DE IMÓVEL. BEM DE FAMÍLIA. RESIDÊNCIA DO EXECUTADO. LEI 8.009/1990. IMPENHORABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. DESNECESSIDADE DE COMPROVAÇÃO DE QUE O IMÓVEL PENHORADO É O ÚNICO DE PROPRIEDADE DO DEVEDOR. PRECEDENTES DO STJ.
+1. Hipótese em que o Tribunal de origem consignou que ficou "comprovado que o imóvel penhorado destina-se à moradia do executado e de sua família". 2. Para modificar o entendimento firmado no acórdão recorrido, é necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ. 3. O STJ entende que, para que seja reconhecida a impenhorabilidade do bem de família (Lei 8.009/1990), não é necessária a prova de que o imóvel em que reside a família do devedor é o único de sua propriedade. Precedentes: REsp 1014698/MT, Rel. Ministro Raul Araújo, Quarta Turma, DJe 17.10.2016; REsp 790.608/SP, Rel. Ministro José Delgado, Primeira Turma, DJ 27.3.2006, p. 225, REPDJ 11.5.2006, p. 167; REsp 574.050/RS, Rel. Ministro Luiz Fux, Primeira Turma, DJ 31.5.2004, p. 214.
+4. Recurso Especial não conhecido.
+(REsp 1685402/PE, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. em 03/10/2017, DJe 16/10/2017)
+RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. EXECUÇÃO. PENHORA. BEM DE FAMÍLIA (LEI 8.009/90, ARTS. 1º E 5º). CARACTERIZAÇÃO. IMÓVEL RESIDENCIAL DO DEVEDOR. ÔNUS DA PROVA. RECURSO PROVIDO.
+1. Tendo a devedora provado suficientemente (ab initio) que a constrição judicial atinge imóvel da entidade familiar, mostra-se equivocado exigir-se desta todo o ônus da prova, cabendo agora ao credor descaracterizar o bem de família na hipótese de querer fazer prevalecer sua indicação do bem à penhora.
+2. Nos termos da jurisprudência desta Corte, não é necessária a prova de que o imóvel onde reside o devedor seja o único de sua propriedade, para o reconhecimento da impenhorabilidade do bem de família, com base na Lei 8.009/90. Precedentes.
+3. Recurso especial provido.
+(REsp 1014698/MT, Rel. Ministro RAUL ARAÚJO, Quarta Turama, j. em 06/10/2016, DJe 17/10/2016)
+O art. 5º, parágrafo único, da Lei 8.009/90 estabelece que poderá ser escolhido o imóvel de menor valor na hipótese em que a parte possuir vários imóveis utilizados como residência. Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. BANCÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE IMÓVEL. BEM DE FAMÍLIA. PLURALIDADE DE IMÓVEIS RESIDENCIAIS. ART. 5º, PARÁGRAFO ÚNICO, DA LEI Nº 8.009/90. MENOR VALOR. INEXIGIBILIDADE. NA AUSÊNCIA DE OUTROS IMÓVEIS UTILIZADOS COMO RESIDÊNCIA DA FAMÍLIA A IMPENHORABILIDADE DEVE SER RECONHECIDA INDEPENDENTE DO VALOR DO IMÓVEL. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+1. Inaplicabilidade do NCPC a este julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A Lei nº 8.009/90, ao instituir a impenhorabilidade do bem de família, buscou proteger a família ou da entidade familiar, de modo a tutelar o direito constitucional fundamental da moradia e assegurar um mínimo para uma vida com dignidade dos seus componentes.
+3. O art. 5º, parágrafo único, da Lei nº 8.009/90 dispõe que poderá ser escolhido o de menor valor na hipótese em que a parte possuir vários imóveis utilizados como residência.
+4. Os imóveis residenciais de alto padrão ou de luxo não estão excluídos, em razão do seu valor econômico, da proteção conferida aos bens de família consoante os ditames da Lei nº 8.009/90.
+5. Apenas na hipótese de existir mais de um imóvel utilizado como residência, a impenhorabilidade recairá sobre o de menor valor, garantido ao devedor a proteção do patrimônio mínimo. 6. A moldura fática presente no acórdão recorrido, como se vê, não fornece elementos concretos para saber se há ou não a pluralidade de imóveis residenciais, para fins da incidência do parágrafo púnico do art. 5º da Lei 8.009/90 ou se apenas o imóvel penhorado tem essa finalidade e a vocação ínsita do recurso especial não permite a incursão na seara probatória. Retorno dos autos para novo julgamento de acordo com a jurisprudência desta Corte.
+7. Recurso especial provido.
+(REsp 1482724/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/11/2017, DJe 28/11/2017)
+No caso, o tribunal de origem assim fundamentou:
+Desse modo, em que pese a alegação da embargante no sentido de que o imóvel referido (objeto da penhora) seria o seu único bem, utilizado para fins de moradia permanente, as provas documentais existentes no processo, dão conta de outra realidade fática.
+Cabia à embargante o ônus de comprovar não ser proprietária de outro bem além daquele constrito, do qual não se desincumbiu,, de modo que inviável o reconhecimento da impenhorabilidade.
+Com base cm tais considerações, conclui-se, portanto, que a parte embargante não se desincumbiu do ônus que lhes cabia (artigo 333, I, do CPC - atual art. 373, I), no sentido de comprovar os fatos constitutivos de seu direito, não havendo falar, portanto, na impenhorabilidade do imóvel.
+Verifica-se que o tribunal de origem contrariou a jurisprudência desta Corte ao exigir que fosse comprovado que a autora possuiu um único imóvel.
+A incompatibilidade da conclusão do tribunal estadual com a orientação desta Corte poderia levar a pensar no provimento do Recurso Especial, entretanto, isso não poderia ocorrer, tendo em vista a necessidade da análise das demais circunstâncias fáticas para a caracterização do bem de família.
+Cabe ressaltar que em sede de recurso especial não é permitido incursão na seara probatória, a qual só pode ser realizada pelo Tribunal de origem, o que impõe o retorno dos autos ao Tribunal estadual para analisar se o imóvel em questão é ou não bem de família, a fim de que possa ser aplicada jurisprudência desta Corte.
+Nessa condições, DOU PROVIMENTO ao recurso especial determinando o retorno dos autos ao tribunal de origem para que seja analisado se o imóvel em questão é bem de família, considerando a jurisprudência desta Corte acima mencionada.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
