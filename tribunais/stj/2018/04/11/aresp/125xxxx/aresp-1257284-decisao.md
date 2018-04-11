@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 201):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. FORNECIMENTO DE ÁGUA. CORSAN. APLICAÇÃO DE MULTA E INDENIZAÇÃO POR VIOLAÇÃO DO HIDRÔMETRO. DESCABIMENTO. AGRAVO RETIDO NÃO ACOLHIDO.
+- Ausente demonstração do cerceamento de defesa, imperioso o desacolhimento do agravo retido.
+- A aplicação de multa e indenização pela violação do hidrômetro conforme o disposto no art. 68 do Regulamento de Serviço de Água e Esgoto pressupõe efetiva comprovação da adulteração por parte da concessionária, por se tratar de relação de consumo. O art. 6º, VIII, do Código de Defesa do Consumidor, autoriza a inversão do ônus da prova, quando verossímil a alegação da parte autora.
+- Não demonstrada a efetiva variação do consumo de água após a substituição do medidor, necessário o afastamento da cobrança de multas e indenização à Concessionária.
+- Suspensão do abastecimento em relação à fatura de 07/2013 que não se apresenta possível, porquanto inexiste o débito apontado.
+- Hipótese na qual deverá a condenação ser reduzida aos limites do pedido.
+NEGARAM PROVIMENTO AO AGRAVO RETIDO E DERAM PARCIAL PROVIMENTO À APELAÇÃO.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 4º, III, e 6º, VIII, todos do CDC; 373, I, II, e parágrafo único, do CPC/73; 40 da Lei 11.447/2007; 6º, § 3º, II, da Lei 8.987/95, além de dissídio jurisprudencial. Para tanto, sustenta que (I) é descabida a inversão do ônus da prova no presente caso; (II) o serviço de abastecimento de água pode ser interrompido nos casos de inadimplência de multa aplicada por fraude no medidor; e (III) dissídios com julgados deste STJ, no sentido de que, inexistindo débito pretérito, mas multa pela fraude no medidor, a falta da contraprestação financeira desobriga a continuidade do fornecimento.
+É o relatório.
+Sobre o alegado cerceamento de defesa, ante a inversão do ônus da prova, nota-se que o acórdão recorrido está em consonância com a jurisprudência consolidada desta Corte no sentido de que a relação entre as concessionárias e os usuários dos serviços de fornecimento de água se submetem ao Código de Defesa do Consumidor (AgRg no AREsp 428.762/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017).
+No tocante à questão de fundo, as instâncias ordinárias compreenderam que o débito decorrente da multa aplicada a título de violação do hidrômetro e recuperação de consumo, além dos encargos financeiros dessas rubricas, é nulo, porquanto não foi demonstrada pela Concessionária a suposta violação do aparelho ou fraude praticada na residência do consumidor.
+Assim, a revisão dessas premissas, inclusive a de que não houve variação no consumo após a troca do hidrômetro, tal como pretendido nas razões de recurso especial, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, cumpre ressaltar que resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada não pode ser conhecida no no exame do recurso especial pela alínea a do permissivo constitucional.
+Ante o exposto, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
