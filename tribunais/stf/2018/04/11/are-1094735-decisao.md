@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu o recurso extraordinário interposto em face de acórdão da 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 6, p. 9):
+    “Apelação – Servidor público – Contagem de tempo de serviço fictício visando requerimento administrativo – aposentadoria especial (CF, art. 40, § 4º) – Insalubridade – Descabimento – Vedação constitucional – Inviabilidade da contagem diferenciada, pois é prevista no Regime Geral de Previdência Social (RGPS), porém vedada expressamente aos servidores públicos pela CF (art. 40, § 10) – Entendimento do Plenário do STF – Matéria fora da abrangência da Súmula Vinculante n.º 33 – O recebimento de adicional de insalubridade, por si só, não enseja a contagem especial do tempo de serviço – Todavia, cabe destacar que a matéria versada nesta ação, estando fora da abrangência da Súmula, não impede futura postulação, administrativa ou judicial, da aposentadoria especial propriamente dita, nos moldes da aludida Súmula e das demais disposições aplicáveis – Sentença de procedência reformada – Reexame necessário e recurso voluntário a que se dá provimento.”
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 40, § 4º, da Carta da República, ante a falta de reconhecimento à contagem diferenciada de tempo de serviço prestado sob condições insalubres por servidor público, adotando-se disposições contidas na Lei 8.213/1991.
+    Determinada a remessa dos autos à Turma Julgadora após o julgamento de mérito do RE 797.905 (tema 727 da repercussão geral), o acórdão recorrido foi mantido, consoante os seguintes fundamentos (eDOC 9, p. 16):
+    “RECURSO ESPECIAL E EXTRAORDINÁRIO – RETORNO À TURMA JULGADORA – RECURSO REPRESENTATIVO DE CONTROVÉRSIA (RE Nº 797.905/SE) – Em cumprimento ao disposto no artigo 1.030, inciso II, do novo CPC, verifica-se ser caso de manutenção do V. Acórdão – Contagem de tempo de serviço fictício visando aposentadoria especial por exercer atividade insalubre – Hipótese de que não se subsume à matéria do Recurso Repetitivo, em razão de não tratar de concessão de aposentadoria, mas somente averbação e apostilamento do período laborado em condições insalubres – Discussão em sede de ação ordinária e não mandado de injunção – Mantido o acórdão proferido às fls. 144/151 – Nego provimento ao recurso de apelação interposto.”
+    A Presidência da Seção de Direito Público do Tribunal de origem inadmitiu o recurso extraordinário com base no óbice da Súmula 279 do STF e na consonância do entendimento adotado com a jurisprudência desta Corte (eDOC 9, pp. 22-23).
+    É o relatório. Decido.
+    Consabido, a admissibilidade dos recursos às instâncias especiais é aferida tanto na origem quanto no destino.
+    O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, observa-se que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, verifica-se que a Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso mediante aplicação das súmulas 279 e 286 do STF, temas não ventilados no agravo (eDOC 10, pp. 3-8).
+    Não se mostra, portanto, viável o conhecimento do agravo, por não atacar os fundamentos da decisão que inadmitiu o apelo extremo, diante do óbice da súmula 287 do STF.
+    Ante o exposto, não conheço do recurso, por ser manifestamente inadmissível, nos termos do art. 932, III, do CPC.
+    Consoante o art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os §§ 3º e 4º do art. 98.
+    Publique-se.
+    Brasília, 11 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
