@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO REGIMENTAL. Execução de título extrajudicial. Magistrada que suspendeu a execução desde a aprovação do plano de recuperação judicial da empresa-agravante, todavia, manteve os atos praticados até tal data, considerando que a adjudicação já havia sido deferida, a entrega dos bens adjudicados deverá ser realizada, como requerido pela exequente/agravada.
+Determinação, ainda, para que a executada, ora agravante, entregue os bens adjudicados à exequente, cumprindo imediatamente o mandado de entrega. Razoabilidade. Penhora dos veículos que foi realizada antes do processamento da recuperação judicial - Lei de Recuperação Judicial não confere efeito retroativo para invalidar situações ou fatos processuais já consumados. Precedentes. Penhora de faturamento de 15% da agravante, de outro lado, que merece ser revisto. Ato continuado que representa situação de extrema onerosidade para a empresa sujeita aos efeitos da recuperação. Regimental provido, em parte, tão-somente para cessar, por ora, a penhora de faturamentos da agravante .
+Alega-se, no especial, violação dos artigos 877, § 1º, do Código de Processo Civil e 6º e 47 da Lei 11.101/05 ao argumento de que a adjudicação somente se aperfeiçoa com a assinatura do auto, do que o contrário resultaria, na hipótese, malferimento ao princípio da preservação da empresa.
+Assim delimitada a controvérsia, passo a decidir.
+Embora a agravante sugira que a alienação judicial não se encerrou, o acórdão local consignou que "não tem sentido anular ou tornar ineficaz o ato processual perfeito, acabado e irretratável e suspender o processo de execução, apenas e tão somente porque houve decisão autorizando o processamento da recuperação judicial" (e-STJ, fl. 68).
+Segundo se colhe, aliás, da decisão do relator, a recorrente já foi até mesmo multada por não entregar os bens penhorados.
+Leia-se o excerto:
+"Cumpre ressaltar, ainda, que a agravante tenta de todas as maneiras procrastinar o cumprimento da obrigação que lhe foi imposta, de entrega dos bens penhorados, tanto é que foi determinada a aplicação da multa de litigância de má-fé de 20% sobre o valor atualizado do débito em execução, decisão esta mantida quando do julgamento do Agravo de Instrumento nº 2157218-04.2016.8.26.0000, de minha relatoria" (e-STJ, fl. 40).
+As alegações, portanto, a par de incompreensíveis, demandam revisão do acervo fático-probatório do processo, a incidir as disposições dos verbete n. 284 da Súmula do Supremo Tribunal Federal e 7 desta Casa.
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
