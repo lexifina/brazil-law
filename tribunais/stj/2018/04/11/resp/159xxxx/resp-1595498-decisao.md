@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fulcro na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (fl. 596):
+AÇÃO ACIDENTÁRIA. TRABALHADOR COM SEVERAS LIMITAÇÕES. IMPOSSIBILIDADE DE EXERCER SUAS ATIVIDADES. APOSENTADORIA POR INVALIDEZ.
+Ainda que a perícia tenha constatado apenas a redução da capacidade, não sendo indicado o exercício de esforço físico, deve-se considerar a limitação do segurado como um todo, que possui apenas um braço funcional.
+Tal circunstância impõe o reconhecimento da incapacidade absoluta. Promoção da dignidade da pessoa.
+Termo inicial. Data da intimação da sentença.
+As parcelas vencidas deverão ser pagas de uma única vez, corrigidas monetariamente pelo INPC, desde cada vencimento, e acrescidas de juros demora de 1% ao mês a contar da citação; ambos até 30/06/2009, pois a partir de julho de 2009, devem incidir uma única vez até o efetivo pagamento, os índices oficiais de remuneração básica e juros de mora aplicados à caderneta de poupança, em razão da vigência da Lei 11.960/2009, que alterou a redação do art. 1º-F da Lei 9.494/1997.
+Honorários advocatícios. Percentual reduzido.
+Apelação do provida em parte. Sentença reformada parcialmente em reexame necessário. Decisão unânime.
+Opostos embargos de declaração, foram rejeitados (fl. 625).
+Nas razões do apelo especial, aponta o recorrente violação aos arts. 535, II do CPC e 42 da Lei 8.213/91. Sustenta, além de negativa de prestação jurisdicional, a impossibilidade de concessão de aposentadoria por invalidez a parte autora, quando o laudo pericial afirmar a existência apenas de incapacidade parcial" (fl. 650).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 667/671.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A seguir, verifica-se, não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, defende a autarquia que deve prevalecer a conclusão do laudo pericial de que a autora é parcialmente capaz para atividade laborativa, uma vez que o benefício não deve ser concedido à pessoa que não estiver total e permanentemente incapacitada para o trabalho.
+Entretanto, é importante ressaltar que o juiz não está adstrito às conclusões da perícia técnica e pode se pautar em outros elementos de prova aptos à formação de seu livre convencimento, estando autorizado a concluir pela incapacidade laborativa fundado no conjunto probatório produzido nos autos e nas particularidades do caso concreto. AgRg no AREsp 136.474/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/06/2012, DJe 29/06/2012.
+Na espécie, o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que, embora o laudo pericial não atestasse incapacidade total e permanente da parte autora para a atividade laboral, outros aspectos socioeconômicos, profissionais e culturais do segurado, impunham o reconhecimento do direito ao benefício pleiteado, conforme se vê do seguinte excerto do acórdão recorrido (fls. 600/605):
+O benefício a ser concedido ao autor é a aposentadoria por invalidez.
+Ainda que a perícia médica tenha reconhecido redução da capacidade laborativa, cabe analisar tal conclusão juntamente com a situação pessoal do segurado.
+O autor está impossibilitado de exercer atividades que demandem esforço físico e movimentos repetitivos. Essa é a constatação do laudo.
+Tal indicação permitiria a condenação do réu ao fornecimento do serviço de reabilitação para outra atividade de subsistência, com posterior concessão de auxílio-acidente.
+Conforme histórico laboral do autor, já foi concedido, em dois períodos, o auxílio-doença, com tentativa de reabilitação, mas sem troca de função, o que importou na recidiva da moléstia.
+Na espécie, não se pode perder de vista a condição peculiar do apelado: trata-se de uma pessoa que possui apenas um braço funcional.
+Isso já imporia sérias limitações.
+Mas não é só: do acidente de trabalho o braço que lhe restou apresenta sérias seqüelas que impedem o exercício de tarefas que exijam esforço.
+Ainda que o demandante tenha pouca idade (47 anos), qual função poderia exercer dignamente  Essa resposta, o INSS, responsávelpelo serviço de reabilitação profissional, não foi capaz de dar.
+Assim, em promoção ao princípio da dignidade da pessoa humana, é mesmo de ser concedida a aposentadoria.
+Em homenagem à culta e operosa Juíza de Direito LUSMARY FÁTIMA TURELLY DA SILVA, peço vênia para transcrever os fundamentos da sentença, adotando-os como razões de decidir. Verbis:
+(..).
+Contudo, apesar da perícia apontar que o demandante somente tenha restado com sua capacidade laboral reduzida de modo permanente, não podendo mais desempenhar as mesmas atividades que exercia antes do infortúnio laboral, o que em tese,lhe conferiria o direito à concessão de auxílio acidente do trabalho, mesmo que não tenha postulado isso na exordial ante a aplicação do princípio da fungibilidade que impera nas demandas acidentárias devido ao seu caráter social, conferindo ao julgador, desde que verificando o preenchimento dos pressupostos legais, o poder de conferir beneficio diverso daquele requerido pela parte autora; por outro lado, entendo que é preciso considerar as condições pessoais do segurado.
+De fato, o autor está com 47 anos de idade (fl. 11), já tem o membro superior direito paralisado devido ao acidente de trânsito que sofreu em 1987 e agora apresenta no lado esquerdo limitações para a realização de tarefas em que haja necessidade de esforço físico e de movimentos repetitivos.
+Referido entendimento está em consonância com a jurisprudência desta Corte sobre o tema, como demonstram os seguintes precedentes:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA POR INVALIDEZ. ASPECTOS ECONÔMICOS, SOCIAIS E CULTURAIS DO SEGURADO. VALORAÇÃO DA PROVA COLHIDA NA INSTÂNCIA ORDINÁRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 07 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Conforme a jurisprudência do Superior Tribunal de Justiça, "A concessão da aposentadoria por invalidez deve considerar, além dos elementos previstos no art. 42 da Lei nº 8.213/91, os aspectos
+socioeconômicos, profissionais e culturais do segurado, ainda que o laudo pericial apenas tenha concluído pela sua incapacidade parcial para o trabalho. Precedentes. Agravo regimental não provido" (STJ, AgRg no REsp 1338869/DF, Relator Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 29/11/2012).
+II. Reconhecido, pelo Tribunal de origem, que o recorrido faz jus ao benefício de aposentadoria por invalidez, a mudança de entendimento acerca da questão demandaria incursão no conjunto fático-probatório dos autos, o que é vedado, pelo enunciado da Súmula 07 desta Corte.
+III. Consoante a jurisprudência do STJ, "concluindo o juízo de origem, com base no contexto fático-probatório dos autos, que a parte autora faz jus ao benefício, a revisão desse posicionamento encontra óbice no enunciado nº 7 da Súmula n. 7/STJ. (..)" (STJ, AgRg no Ag 1368042/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 12/09/2011).
+IV. Agravo Regimental improvido.
+(AgRg no AREsp 36.281/MS, Rel. Min. ASSUSETE MAGALHÃES, SEXTA TURMA, DJe 1/3/2013)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. LAUDO PERICIAL CONCLUSIVO PELA INCAPACIDADE PARCIAL DO SEGURADO. NÃO VINCULAÇÃO. CIRCUNSTÂNCIA SÓCIO-ECONÔMICA, PROFISSIONAL E CULTURAL FAVORÁVEL À CONCESSÃO DO BENEFÍCIO. RECURSO DO INSS DESPROVIDO.
+1. Os pleitos previdenciários possuem relevante valor social de proteção ao Trabalhador Segurado da Previdência Social, devendo ser, portanto, julgados sob tal orientação exegética.
+2. Para a concessão de aposentadoria por invalidez devem ser considerados outros aspectos relevantes, além dos elencados no art. 42 da Lei 8.213/91, tais como, a condição sócio-econômica, profissional e cultural do segurado.
+3. Embora tenha o laudo pericial concluído pela incapacidade parcial do segurado, o Magistrado não fica vinculado à prova pericial, podendo decidir contrário a ela quando houver nos autos outros elementos que assim o convençam, como no presente caso.
+4. Em face das limitações impostas pela moléstia incapacitante, avançada idade e baixo grau de escolaridade, seria utopia defender a inserção do segurado no concorrido mercado de trabalho, para iniciar uma nova atividade profissional, motivo pelo qual faz jus à concessão de aposentadoria por invalidez.
+5. Agravo Regimental do INSS desprovido.
+(AgRg no AREsp 136.474/MG, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/6/2012)
+No mesmo sentido vão as seguintes decisões monocráticas: AREsp 307.725/PR, Rel. Ministro Mauro Campbell Marques, Dje 23/04/2013; AREsp 302388/PR Rel. Ministro Castro Meira, Dje 25/03/2013; e AREsp 279.588/MG Rel. Ministro Humberto Martins, Dje 18/02/2013.
+Ademais, a questão foi decidida na instância ordinária de acordo com os fatos e provas constantes nos autos, de forma que a alteração das conclusões adotadas, tal como colocado pela autarquia recorrente, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Diante do exposto, nego provimento ao agravo.
+Publique-se.
