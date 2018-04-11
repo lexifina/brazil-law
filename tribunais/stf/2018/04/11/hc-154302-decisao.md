@@ -1,0 +1,33 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Fábio Rogério Donadon Costa, em favor de Vinicius Silva Santos, contra decisão proferida pelo Ministro Jorge Mussi, do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC nº 439.617/SP.
+    Consta dos autos que o paciente foi condenado pela prática do delito descrito no art. 158, § 1º, do Código Penal, à pena de 05 (cinco) anos e 04 (quatro) meses de reclusão e 13 (treze) dias-multa, a ser cumprida inicialmente em regime fechado, em razão do suposto constrangimento causado, entre os dias 19.09.2016 e 10.10.2016, à Baboui Youssef Mansour, mediante grave ameaça, com o intuito de obter indevida vantagem econômica, materializada na quantia de R$ 300.00,00 (trezentos mil reais), vedado direito de recorrer em liberdade. (eDOC 2, p. 27)
+    Irresignada, a defesa interpôs apelação criminal no
+    Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo, requerendo a revogação da custódia e pleiteando o direito de responder em liberdade. A Corte estadual indeferiu o pedido de liminar. Pendente, ainda, o julgamento do mérito. (eDOC 2, p. 49-50)
+    Novo mandamus foi impetrado no Superior Tribunal de Justiça, que indeferiu liminarmente o pedido. (eDOC 2, p. 52)
+    Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza a concessão de liberdade provisória ao réu a fim de possa responder a ação penal em liberdade. (eDOC 1, p. 3)
+    Alega ilegalidade na individualização da pena, haja vista a fixação do regime fechado para início do cumprimento da reprimenda.
+    Argui que o juízo de origem, muito embora tenha reconhecido a primariedade do réu e seus bons antecedentes, fixou regime mais gravoso sem fundamentação idônea.
+    Requer liminarmente a imediata soltura do paciente possa aguardar em liberdade e, no mérito, o abrandamento para o regime semiaberto. (eDOC 1, p. 44)
+    É o relatório.
+    Passo a decidir.
+    Trata-se de habeas corpus no qual a defesa insurge-se contra decisão monocrática proferida pelo Ministro Jorge Mussi, do STJ, que indeferiu liminarmente o HC 439.617/SP.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017 e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Além disso, cumpre destacar que o agravo regimental interposto contra a decisão do STJ encontra-se pendente de julgamento. Aliás, no que se refere ao tema, tenho-me posicionado, na Segunda Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014, e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no artigo 102, inciso II, alínea a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (artigo 5º, inciso XXXV, CF), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de evidente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste habeas corpus .
+    No caso, destaco os seguintes trechos da decisão impugnada do STJ:
+    “Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+    E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular. É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações:
+    "Pela documentação apresentada, não se visualiza de modo inequívoco a aventada ilegalidade na decisão que indeferiu o direito de o paciente apelar em liberdade que, pese de modo sumário, veio acompanhada de correspondente fundamentação ” (e-STJ, fl. 94).
+    Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária, para manter, ao menos
+    por ora, a constrição cautelar do paciente.
+    Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+    Pelo exposto, indefere-se liminarmente o habeas corpus, com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça”. (eDOC 2 , p. 51-52)
+    Feitas essas considerações, ressalvo minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao pedido formulado habeas corpus, por ser manifestamente incabível (artigo 21, § 1º, do RI/STF).
+    Publique-se. Int..
+    Brasília, 11 de abril de 2018
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
