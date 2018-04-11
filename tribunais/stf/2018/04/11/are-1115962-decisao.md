@@ -1,0 +1,11 @@
+DESPACHO
+    1. Este Supremo Tribunal submeteu as questões trazidas neste processo à sistemática da repercussão geral:
+    a) Tema 308, Recurso Extraordinário n. 705.140: repercussão geral reconhecida e mérito julgado, e
+    b) Tema 551, Recurso Extraordinário n. 1.066.677: repercussão geral reconhecida.
+    2. Pelo exposto, nos termos do al. c do inc. V do art. 13 do Regimento Interno do Supremo Tribunal Federal, determino a devolução destes autos ao Tribunal de origem, para:
+    a) quanto ao Tema 308, observar o procedimento previsto nos incs. I e II do art. 1.030 do Código de Processo Civil, e
+    b) quanto ao Tema 551, observar o procedimento previsto no inc. III do art. 1.030 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 11 de abril de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
