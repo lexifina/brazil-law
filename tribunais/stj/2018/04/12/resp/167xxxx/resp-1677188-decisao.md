@@ -1,0 +1,77 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO CPC/73. AÇÃO DE COBRANÇA DE COMISSÃO POR INTERMEDIAÇÃO IMOBILIÁRIA. ARREPENDIMENTO DEPOIS DE ASSINADO O CONTRATO. RESULTADO ÚTIL ALCANÇADO. CONCLUSÃO DO TRIBUNAL DE ORIGEM COM BASE NAS PROVAS DOS AUTOS. ALTERAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+APOGEO CONSULTORIA EMPRESARIAL LTDA. (APOGEO) ajuizou ação de cobrança de comissão por intermediação imobiliária contra BROOKFIELD RIO DE JANEIRO EMPREENDIMENTOS IMOBILIÁRIOS S.A. BISA (BROOKFIELD), julgada procedente para condenar esta última ao pagamento de R$ 2.500.000,00, corrigido monetariamente desde 17/9/2010, mais juros de mora a contar da citação.
+Contra tal decisão, BROOKFIELD interpôs apelação, a qual não foi provida nos termos do acórdão a seguir ementado:
+Mediação - Cobrança - Compromisso de compra e venda de imóvel - Arrependimento depois de assinado o contrato - Resultado útil alcançado - Comissão devida - Inteligência do art. 725 do Código Civil - Improvimento (e-STJ, fl. 238).
+Embargos de declaração rejeitados (e-STJ, fls. 256/262).
+Nas razões do apelo nobre, interposto com fundamento no art. 105, III, a e c, BROOKFIELD alegou, a par de dissídio jurisprudencial, violação dos arts. 131, 165, 458, II, e 535, II, todos do CPC/73 e 725 e 884, ambos do CC/02. Sustentou, em suma, que 1) o Tribunal a quo foi omisso ao não apreciar as arguições expostas nos aclaratórios de existência de normas federais cogentes, que condicionam a cobrança da comissão de corretagem à venda definitiva do imóvel ante ao evidente enriquecimento ilícito da parte; 2) o acórdão entendeu devida a comissão de corretagem em razão da assinatura do mero compromisso, não obstante o contrato de mediação a condicionasse expressamente a realização da venda definitiva do imóvel.
+O Tribunal de origem negou seguimento ao apelo nobre, sobrevindo agravo que foi conhecido para determinar sua autuação como recurso especial (e-STJ, fls. 368/369).
+É o relatório.
+Inicialmente, vale pontuar que a disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na Sessão de 9.3.2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da alegada violação dos arts. 131, 165, 458, II, e 535, II, todos do CPC/73
+BROOKFIELD alegou que o Tribunal a quo foi omisso ao não apreciar as arguições expostas nos aclaratórios no sentido de que haveria normas federais cogentes condicionando a cobrança da comissão de corretagem à venda definitiva do imóvel.
+Observa-se que não foi demonstrado nenhum vício no acórdão recorrido a ensejar a integração do julgado, porquanto a fundamentação adotada pelo Tribunal de origem foi clara e suficiente para respaldar a conclusão alcançada quanto ao resultado útil alcançado com o esforço da intermediadora, fazendo jus, portanto, ao recebimento da comissão de corretagem, no seguintes termos:
+No caso, observa-se que as partes da transação de fls. 28/40 não só se comprometeram a vender e comprar um determinado imóvel por certo preço, como estabeleceram o pagamento em três parcelas que se venceriam em 02 e 60 dias úteis a contar da assinatura do contrato, ocorrida em 17.09.2010. (fls. 31, cf. 2.1 itens a, b e c) Evidentemente que não se trata de mero contrato prévio.
+O que se vê, aliás, é a concretização do serviço prestado pela autora, aproximando os interessados e fazendo com que aceitem as condições oferecidas (e-STJ, fl. 240 - sem destaque no original).
+Ora, se o Tribunal de origem afirmou que não se tratava de mero contrato prévio, mas de compra e venda efetivamente celebrada, não faria sentido exigir que ele se manifestasse quanto a uma eventual norma federal que alegadamente condiciona o recebimento da comissão a concretização do negócio.
+Desse modo, inexistindo os vícios elencados nos arts. 131, 165, 458, II, e 535, II, todos do CPC/73, não há falar em omissão, falta de fundamentação ou negativa de prestação jurisdicional no julgado.
+(2) Da alegada contrariedade aos arts. 725 e 884, ambos do CC/02
+BROOKFIELD sustentou que o acórdão entendeu devida a comissão de corretagem em razão da assinatura de um mero compromisso, não obstante o contrato de mediação a condicionasse expressamente a realização da venda definitiva do imóvel.
+Quanto a alegação de ser indevida a verba de corretagem em razão do negócio definitivo não ter sido firmado entre as partes, extrai-se do acórdão:
+Recorre a ré aduzindo que, embora o contrato de fls. 28/40 não tenha tido a participação da autora, este fato era irrelevante, por se tratar de mero compromisso de compra e venda, contrato prévio à efetiva compra e venda; ademais, a condição de que a comissão das corretoras envolvidas seria paga somente quando da assinatura da escritura pública de compra e venda já constava da contraproposta que a autora intermediou, com ela anuindo, portanto.
+Justifica essa última condição porque antevia a possibilidade de um distrato em razão de pendências documentais e de conveniências dos então contratantes, distrato que se concretizou posteriormente.
+Entendo, porém, que a condição imposta na contraproposta de fls. 24/26 e da qual a autora tinha conhecimento envolve o pagamento da comissão aos intermediários corretores (..) no ato da assinatura do contrato de compra e venda (fls. 25 - grifei), com o que não se confunde a assinatura de escritura pública de compra e venda.
+Ademais, a despeito da explanação doutrinária sobre a distinção entre o compromisso de compra e venda, como contrato preliminar à efetiva compra e venda, mister observar que o conteúdo do negócio jurídico diz mais sobre sua natureza jurídica do que o próprio título lançado em seu cabeçalho.
+No caso, observa-se que as partes da transação de fls. 28/40 não só se comprometeram a vender e comprar um determinado imóvel por certo preço, como estabeleceram o pagamento em três parcelas que se venceriam em 02 e 60 dias úteis a contar da assinatura do contrato, ocorrida em 17.09.2010. (fls. 31, cf. 2.1 itens a, b e c) Evidentemente que não se trata de mero contrato prévio.
+O que se vê, aliás, é a concretização do serviço prestado pela autora, aproximando os interessados e fazendo com que aceitem as condições oferecidas.
+Ademais, a vendedora comprometeu-se a entregar a documentação exigida em cinquenta dias contados da assinatura (fls. 34, cl. 5.1), de sorte que, na pior das hipóteses, quando da verificação da documentação, o pagamento do sinal (item a) já havia sido feito.
+Se depois desse ajuste, por conveniências dos então contratantes, o negócio foi desfeito, mesmo pactuando-se que o distrato não traria ônus para nenhum dos negociantes (fls. 34, cf. 5.5, item a), não pode a corretora ver esvaziado o seu direito à comissão.
+Obviamente que a mediadora não se submete à previsão contratual constante da cláusula 7.6, que isenta o vendedor do pagamento da comissão em caso de não efetivação ou rescisão da venda e compra definitiva do imóvel, à qual não anuiu.
+Aliás, o distrato foi ajustado apenas em 13.07.11 (fls. 120/126), cerca de dez meses após a assinatura do "compromisso", quando há muito já alcançado o resultado útil do trabalho da autora.
+No caso em tela, tendo a intermediária da relação jurídica encontrado compradora disposta a pagar a quantia pretendida pela vendedora e tendo o contrato sido efetivamente celebrado (fls. 13/16), não há que se falar em desistência do negócio, a qual somente se caracteriza se ocorrida previamente à formalização contratual.
+Assim é que a r. sentença, acertadamente, ponderou:
+É relevante consignar que não houve, na espécie, simples recusa ou desistência de proposta aceita, antes de qualquer formalização de contrato, mas sim desfazimento de negócio jurídico perfeito e acabado, que configura resultado útil alcançado com o esforço da autora, de modo que esta faz jus ao recebimento da remuneração pleiteada, não produzindo qualquer efeito o disposto nas cláusulas 7.5 e 7.6 do contrato, em relação às quais a requerente não anuiu (fls. 190) (e-STJ, fls. 239/241 - sem destaque no original).
+A jurisprudência desta Corte possui entendimento no sentido de que alcançado o resultado útil do negócio com a assinatura do contrato de promessa de compra e venda, ainda que haja arrependimento posterior das partes, é devida a comissão de corretagem.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. VENDA DE IMÓVEL. COMISSÃO DE CORRETAGEM. CABIMENTO. DESISTÊNCIA DO VENDEDOR APÓS A ASSINATURA DO CONTRATO DE PROMESSA DE COMPRA E VENDA. SÚMULA N. 83/STJ. REVISÃO DE PROVAS. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF.
+1. É devida a comissão de corretagem por intermediação imobiliária se os trabalhos de aproximação realizados pelo corretor resultarem, efetivamente, no consenso das partes quanto aos elementos essenciais do negócio. Súmula n. 83/STJ.
+2. Incide a Súmula n. 7 do STJ se a tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Aplica-se a Súmula n. 282/STF na hipótese em que a questão suscitada no recurso especial não tenha sido debatida no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1440053/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 15/3/2016, DJe 28/3/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 535 DO CPC. NÃO VIOLAÇÃO. COMPRA E VENDA. DESISTÊNCIA. INTERMEDIAÇÃO. COMISSÃO DE CORRETAGEM DEVIDA. PERCENTUAL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. As razões do agravante não se mostram capazes de autorizar a reforma dos fundamentos da decisão atacada, sobretudo no que diz respeito ao percentual de retenção, visto que o tribunal de origem considerou as peculiaridades do caso concreto e o contrato livremente pactuado entre as partes.
+3. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+4. É devida a comissão de corretagem na hipótese em que a intermediação alcança o seu fim.
+5. Agravo regimental não provido.
+(AgRg no REsp 1503217/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 25/8/2015, DJe 1º/9/2015 - sem destaque no original)
+No caso dos autos, ficou claro pelos trechos acima transcritos que 1) ocorreu a intermediação da corretora para a aproximação das partes; 2) foi demonstrado o efetivo fechamento do negócio até com o pagamento do laudêmio para a transferência do domínio útil dos lotes no SPU no montante de R$ 5.001.687,66 (cinco milhões um mil reais seiscentos e oitenta e sete reais e sessenta e seis centavos) (e-STJ, fl. 127); 3) o vínculo contratual foi rompido por ocasião de posterior distrato; e 4) a mediadora não se submete à previsão contratual que isenta o vendedor do pagamento da comissão em caso de não efetivação ou rescisão da venda e compra definitiva do imóvel, pois a ela não anuiu, sendo, portanto, devida a comissão de corretagem pleiteada.
+Nesse sentido:
+CIVIL. RECURSO ESPECIAL. CORRETAGEM. COMISSÃO. COMPRA E VENDA DE IMÓVEL. DESISTÊNCIA DO COMPRADOR APÓS ASSINATURA DE PROMESSA DE COMPRA E VENDA E PAGAMENTO DE SINAL. COMISSÃO DEVIDA.
+1. Discute-se se é devida a comissão de corretagem quando, após a assinatura da promessa de compra e venda e o pagamento de sinal, o negócio não se concretiza em razão do inadimplemento do comprador.
+2. No regime anterior ao do CC/02, a jurisprudência do STJ se consolidou em reputar de resultado a obrigação assumida pelos corretores, de modo que a não concretização do negócio jurídico iniciado com sua participação não lhe dá direito a remuneração.
+3. Após o CC/02, a disposição contida em seu art. 725, segunda parte, dá novos contornos à discussão, visto que, nas hipóteses de arrependimento das partes, a comissão por corretagem permanece devida.
+4. Pelo novo regime, deve-se refletir sobre o que pode ser considerado resultado útil, a partir do trabalho de mediação do corretor.
+5. A assinatura da promessa de compra e venda e o pagamento do sinal demonstram que o resultado útil foi alcançado e, por conseguinte, apesar de ter o comprador desistido do negócio posteriormente, é devida a comissão por corretagem.
+6. Recurso especial não provido.
+(REsp 1339642/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 12/3/2013, DJe 18/3/2013)
+Outrossim, rever o posicionamento adotado pelo tribunal a quo para se chegar à conclusão diversa, demandaria o reexame do acervo fático-probatório dos autos, conduta vedada em recurso especial ante o óbice da Súmula nº 7 do STJ.
+A propósito, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE PROVAS. INVIABILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. A reapreciação da conclusão do aresto impugnado quanto a ser devida comissão de corretagem imobiliária encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+2. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp 626.125/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 1º/10/2015, DJe 8/10/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL. AÇÃO DE COBRANÇA. COMISSÃO DE CORRETAGEM. OBRIGAÇÃO DE RESULTADO. PARTICIPAÇÃO NA CONCLUSÃO DO NEGÓCIO. INEXISTÊNCIA.
+REVISÃO. IMPOSSIBILIDADE. CONFIRMAÇÃO DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O contrato de corretagem não impõe simples obrigação de meio, mas de resultado, de maneira que somente é cabível a comissão de corretagem quando o corretor efetua a aproximação entre comprador e vendedor, resultando na efetiva venda do imóvel.
+2. O Tribunal a quo afirmou que, embora o recorrente tenha iniciado as tratativas, não demonstrou a efetiva participação na conclusão do negócio por seu intermédio.
+3. Na medida em que a convicção firmada deu-se com base nos elementos fáticos dos autos, a modificação de tal entendimento lançado no v. acórdão recorrido, nos moldes em que ora postulada, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 514.317/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 25/8/2015, DJe 16/9/2015)
+Ressalta-se, ainda, que, consoante a Súmula nº 568 do STJ, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema (Corte Especial, DJe 17/3/2016).
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
