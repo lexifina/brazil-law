@@ -1,0 +1,90 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CREDRIO SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas, assim ementado:
+EMENTA: DIREITO PROCESSUAL CIVIL E DIREITO CIVIL. APELAÇÃO CÍVEL. AUSÊNCIA DE COISA JULGADA. PEDIDO E CAUSA DE PEDIR DISTINTOS. AÇÃO DE BUSCA E APREENSÃO AJUIZADA INDEVIDAMENTE. GARANTIA POR CONTRATO DE MÚTUO BANCÁRIO PREVISTA EM NEGÓCIO JURÍDICO DIVERSO DAQUELA DEMANDA. ATO ILÍCITO CONFIGURADO. DANO MATERIAL. DEVOLUÇÃO no VALOR DO VEICULO A ÉPOCA DA APREENSÃO. TERMO INICIAL DE JUROS. ARTIGO 405 DO CC. RECURSO CONHECIDO, POREM DESPROVIDO.
+I  Diante do que aduz o artigo 337, §§ 1.º, 2.º e 4.º do Código de Processo Civil, apenas ocorrerá a coisa julgada, quando houver repetição de ação anteriormente ajuizada, a qual jé tenha transitado em julgado, outrossim, a repetição das ações somente se reconhecerá pela teoria da tríplice identidade: mesmas partes, mesma causa de pedir e mesmo pedido. Contudo, no caso em tela, vê-se, nitidamente, diferenças entre a causa de pedir e os pedidos da presente Iide com relação à reclamação anteriormente julgada. (fl. 100);
+II - No mérito, a instituição financeira ajuizou ação de busca e apreensão de n. 001.04.099052-5, a qual tramitou perante a 10.ª Vara Cível, tendo como objetivo a constrição para adimplemento de contrato de mutuo bancário n. 511, consoante cópia de petição inicial de fls. 25/26. Entretanto, a autora, ora recorrida, apenas garantiu por fiança o contrato oriundo de operação n. 207, o qual, como se pode observar pelos recibos acostados aos autos de fls. 17/22, fora devidamente quitado pelo devedor [NOME];
+III - No momento, em que se percebe o equivoco da ré em visar a apreensão do veiculo da requerida por conta de contrato de mutuo não garantido por ela, deve-se considerar que houve 0 indevido ajuizamento da ação de busca e apreensão do automóvel. Descarta-se a utilização do artigo 188, I do Código Civil em razão de não ter havido configuração do exercício regular de um direito;
+IV - No tangente ao dano material, manifestando-se apenas pelo pedido de devolução do veiculo, é tautológico que um veiculo FIAT/FIORINO WORKING ano 1996/1996 (fl. 37) apreendido em 03/05/2005, conforme auto de apreensão de fl. 51 sofreu deterioração pelo decurso do tempo, passado mais de 1 (uma) década parado e sem a devida manutenção/conservação, ademais, há cristalina perda do seu valor de mercado;
+V - Logo, o retorno do estado anterior só poderá ser obtido mediante a substituição da obrigação de devolver o bem pela indenização equivalente ao valor pecuniário do automóvel à data da apreensão, cujo montante, como afirmou o magistrado de primeiro grau deve ser apurado em cumprimento de sentença;
+VI - No pertinente ao termo a quo de juros e correção monetária, pelo fato de ter havido relação contratual, deve-se aplicar o artigo 405 do Código Civil e o enunciado de Sumula 43 do Superior Tribunal de Justiça, os juros devem contar a partir da citação e a correção monetária a partir do evento danoso, qual seja a data de apreensão do veiculo (03/05/2005);
+VII - Dispensável, neste momento processual, a discussão quanto ao valor do dano material, uma vez que ainda não há valor líquido fixado, o qual será devidamente apurado em cumprimento de sentença.
+VIII  Apelação conhecida, porém desprovida.
+Opostos embargos de declaração, foram acolhidos sem efeitos modificativos.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto no art. 508 do Código de Processo Civil.
+Sustenta, em síntese, a ocorrência da eficácia preclusiva da coisa julgada, sob o argumento de não ser possível deduzir a pretensão indenizatória na presente demanda, por força de anterior ação proposta pela parte autora, relacionada aos mesmos fatos tratados no presente processo.
+Contrarrazões ao recurso especial às fls. 395-397.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+É assente nesta Corte Superior que "conquanto seja de sabença que o que faz coisa julgada material é o dispositivo da sentença, faz-se mister ressaltar que o pedido e a causa de pedir, tal qual expressos na petição inicial e adotados na fundamentação do decisum, integram a res judicata, uma vez que atuam como delimitadores do conteúdo e da extensão da parte dispositiva da sentença" (REsp 795.724/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 01/03/2007, DJ 15/03/2007).
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. TÍTULO EXECUTIVO QUE NÃO FAZ REFERÊNCIA A PAGAMENTO DE JUROS CAPITALIZADOS PELO VENCIDO. INCLUSÃO DA FÓRMULA EM SEDE DE EXECUÇÃO. IMPOSSIBILIDADE. PRECEDENTES.
+1. O dispositivo da sentença, comando atingido pela eficácia preclusiva da coisa julgada, deve ser interpretado de forma lógica, de acordo com as premissas que lhe conferem alicerce. Assim, o art. 469 do CPC, ao estabelecer as partes da sentença não abarcadas pela res judicata, pretendeu retirar a imutabilidade das questões que compõem os fundamentos jurídicos aduzidos pelo autor, enfrentados pelo réu e decididos pelo juiz. Porém, não retira os efeitos da coisa julgada das premissas essenciais à matriz lógica da decisão, mediante a qual se alcançou o comando normativo contido no dispositivo da sentença.
+2. Há um eixo lógico que une a causa de pedir à fundamentação da decisão, e o pedido ao dispositivo. Evidentemente, recorre-se à inicial quando a própria sentença não traz em seu bojo os termos em que o pedido foi acolhido, ou seja, quando o dispositivo é do tipo "indireto", simplesmente acolhendo o pedido do autor.
+3. Cuidando-se de dispositivo de sentença do tipo "direto", no qual há explícita alusão ao alcance quanto a procedência do pedido, e não figurando no título judicial expressa determinação de que os juros são capitalizados, descabe a incidência do encargo por essa fórmula, inserido em sede de execução de sentença pelo exequente, artifício que, no caso concreto, exacerba o valor devido a cifras astronômicas. Precedentes.
+4. Recurso especial conhecido em parte e não provido.
+(REsp 846.954/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2011, DJe 09/02/2012)
+_____________________
+PROCESSO CIVIL E TRIBUTÁRIO. ICMS. EFICÁCIA DA COISA JULGADA EM MATÉRIA TRIBUTÁRIA. AÇÃO DECLARATÓRIA. EXECUÇÃO FISCAL. EFICÁCIA PROSPECTIVA DA COISA JULGADA EM VIRTUDE DA INEXISTÊNCIA DE ALTERAÇÃO LEGISLATIVA SUPERVENIENTE. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA.
+1. A decisão em ação declaratória que reconhece, em manifestação trânsita, o direito à não-incidência de ICMS sobre produtos industrializados exportados, em face de imunidade constitucional (art. 155, § 2º, X, "a"), é ato jurisdicional prescritivo, que torna indiscutível a exigibilidade do tributo, sob pena de violação da coisa julgada.
+2. A eficácia preclusiva da coisa julgada material alcança o dispositivo da sentença quanto ao pedido e a causa de pedir, como expressos na petição inicial e adotados na fundamentação do decisum.
+3. Deveras, integram a res judicata, uma vez que atuam como delimitadores do conteúdo e da extensão da parte dispositiva da sentença. Dessa forma, enquanto perdurar a situação fático-jurídica descrita na causa de pedir, aquele comando normativo emanado na sentença, desde que esta transite em julgado, continuará sendo aplicado, protraindo-se no tempo, salvo a superveniência de outra norma em sentido diverso.
+(..)
+11. Recurso especial parcialmente conhecido e, nesta parte, desprovido.
+(REsp 875.635/MG, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 16/10/2008, DJe 03/11/2008)
+_____________________
+É também em razão desse prisma que se firmou o entendimento de que em "havendo dúvidas na interpretação do dispositivo da sentença, deve-se preferir a que seja mais conforme à fundamentação e aos limites da lide, em conformidade com o pedido formulado no processo" (REsp 818.614/MA, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26/10/2006, DJ 20/11/2006).
+Na hipótese dos autos, a Corte local, à luz dos elementos acostados aos autos, concluiu que a causa de pedir e os pedidos eram diversos: (1) "indenização por danos referente à negativação do nome da autora em órgãos de proteção ao crédito"; e (2) "indenização por danos relacionados ao fato de ter sido ajuizada ação de busca e apreensão, supostamente, de forma indevida, há pedido de devolução do veículo ou valor equiparado, bem como pedido de danos morais e materiais".
+É o que se vê do seguinte excerto do aresto proferido em sede de embargos de declaração:
+ ..
+02.06. Como mencionado alhures, a Embargante defende que o acórdão foi omisso no tocante à falta de análise acerca da eficácia preclusiva da coisa julgada tendo o acórdão embargado afastado expressamente a tese da função negativa da coisa julgada. Confira-se:
+( .. ) 02.04. O debate versa acerca da preliminar de coisa julgada; atuação da recorrente no exercício regular de direito; equívoco no termo inicial de juros e pedido de exclusão e (ou) diminuição do valor fixado para indenização.
+02.05. Feitas tais considerações, constato que o Apelo não merece prosperar. Senão, vejamos.
+02.06. Concernente à preliminar levantada, impende destacar que a reclamação n. 315/06 processada perante o 10.º Juizado Especial Cível possuía como causa de pedir indenização por danos referente à negativação do nome da autora em órgãos de proteção ao crédito, todavia, o que se busca com a presente demanda é a indenização por danos relacionados ao fato de ter sido ajuizada ação de busca e apreensão, supostamente, de forma indevida, há pedido de devolução do veículo ou valor equiparado, bem como pedido de danos morais e materiais.
+02.07. Diante do que aduz o artigo 337, §§ 1.º, 2.º e 4.º do Código de Processo Civil, apenas ocorrerá a coisa julgada, quando houver repetição de ação anteriormente ajuizada, a qual já tenha transitado em julgado, outrossim, a repetição das ações somente se reconhecerá pela teoria da tríplice identidade: mesmas partes, mesma causa de pedir e mesmo pedido. Contudo, no caso em tela, vê-se, nitidamente, diferenças entre a causa de pedir e os pedidos da presente lide com relação à reclamação anteriormente julgada. (fi. 100). ( .. ). (grifos nossos).
+02.07. Nesta senda, urge apreciar também a premissa de eficácia preclusiva da coisa julgada, a qual está prevista no artigo 508 da Lei Adjetiva Civil:
+02.08.
+Art. 508. Transitada em julgado a decisão de mérito, considerar-se-ão deduzidas e repelidas todas as alegações e as defesas que a parte poderia opor tanto ao acolhimento quanto à rejeição do pedido. (grifo nosso).
+É simples entender a regra quando aplicada para os possíveis argumentos do autor, segundo a doutrina majoritária, a eficácia preclusiva da coisa julgada atinge tão somente alegações referentes à causa de pedir que fez parte da primeira demanda, porquanto alegado outro fato jurídico ou outra fundamentação jurídica, não presentes na primeira demanda, afasta-se do caso concreto a tríplice identidade, considerando tratar-se de nova causa de pedir.
+02.09. Justamente, foi o que ocorreu no caso em tela, há 2 (duas) causas de pedir distintas, a primeira: causa de pedir de indenização por danos referente à negativação do nome da autora em órgãos de proteção ao crédito; a segunda: refere-se à indenização por danos relacionados ao fato de ter sido ajuizada ação de busca e apreensão, supostamente, de forma indevida, há pedido de devolução do veículo ou valor equiparado, bem como pedido de danos morais e materiais.
+ ..
+(fls. 348-350)
+Tendo isso em conta, é pacífica a jurisprudência da Corte no sentido de que a alteração das conclusões do Tribunal a quo no tocante à existência ou não de coisa julgada, por não haver nas demandas identidade de parte, causa de pedir e pedido, demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súm 7 do STJ.
+Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTELIGÊNCIA DO ART. 557, CAPUT, DO CPC. POSSIBILIDADE. TRIBUNAL DE ORIGEM CONCLUIU PELA AUSÊNCIA DA COISA JULGADA. CAUSA DE PEDIR E PARTES DIVERSAS. REEXAME FÁTICO. IMPOSSIBILIDADE. SÚMULA 7.
+1. Para infirmar a conclusão a que chegou o Tribunal de origem acerca da inexistência de coisa julgada, por ter a segunda demanda judicial partes e objeto diversos, seria necessário reexame dos elementos fático-probatórios dos autos, soberanamente delineados pelas instâncias ordinárias, o que é defeso nesta fase recursal a teor da Súmula 7 do STJ.
+2. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 476.966/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 07/04/2016, DJe 12/04/2016)
+___________________
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. RAZÕES DISSOCIADAS. SÚMULA 284/STF. COISA JULGADA. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. É inadmissível o agravo interno que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos na decisão agravada. Os argumentos postos no presente apelo não guardam pertinência com os fundamentos da decisão atacada, atraindo a incidência da Súmula 284/STF.
+2. Ademais, a alteração das conclusões adotadas pela Corte de origem acerca do reconhecimento da coisa julgada em decorrência da identidade de partes, pedido e causa de pedir, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ. Precedentes: AgRg no AREsp 446.807/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 07/03/2014; e AgRg no AREsp 386.216/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/12/2013.
+3 - Agravo regimental a que se nega provimento.
+(AgRg no AREsp 585.612/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/12/2014, DJe 12/12/2014)
+_____________________
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. APOSENTADORIA ESPECIAL. COISA JULGADA. IDENTIDADE DE PARTES, PEDIDO E CAUSA DE PEDIR. EXTINÇÃO DO SEGUNDO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 267, V, DO CÓDIGO DE PROCESSO CIVIL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte está consolidada no sentido de que, reconhecido no acórdão recorrido a identidade de pedidos e causas de pedir entre o processo atual e outro anterior, nova análise demanda exame do material fático-probatório dos autos.
+2. Diante do contexto fático-probatório firmado no acórdão recorrido, a pretensão exposta nas razões de recurso especial encontra óbice da Súmula n. 7/STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 478.259/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 01/04/2014, DJe 07/04/2014)
+____________________
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL APOSENTADO. PROGRESSÃO FUNCIONAL. EXISTÊNCIA DE COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ.
+1. Na espécie, o Tribunal de origem entendeu estar configurada a existência de coisa julgada, porquanto há identidade de fatos, pedido e causa de pedir.
+2. A revisão do entendimento referido exige o reexame do acervo fático-probatório do processado, o que é inviável na via do recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 386.216/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 10/12/2013, DJe 17/12/2013)
+____________________
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA.
+INEXISTÊNCIA DE COISA JULGADA MATERIAL CONSTATADA PELO TRIBUNAL DE ORIGEM. AÇÕES COM CAUSAS DE PEDIR DIVERSAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+I - Tendo o Tribunal de origem, à luz dos fatos e provas apresentados, decidido pela inexistência de coisa julgada material, porquanto são ações com causas de pedir diversas, infirmar tal posicionamento encontra óbice na Súmula 7/STJ.
+II - Agravo improvido.
+(AgRg no Ag 812.077/RJ, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 16/09/2008, DJe 30/09/2008)
+____________________
+PROCESSO CIVIL - AGRAVO DE INSTRUMENTO - NEGATIVA DE PROVIMENTO - AGRAVO REGIMENTAL - AÇÃO DIVISÓRIA - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA - ART. 267, VI DO CPC - AUSÊNCIA DE PREQUESTIONAMENTO - SÚMULA 211/STJ - ARTS. 468 E 473 DO CPC - REEXAME DE PROVA - SÚMULA 7/STJ - DESPROVIMENTO.
+1 - A negativa de prestação jurisdicional somente se configura quando, na apreciação do recurso, o julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi. In casu, o v. acórdão recorrido pronunciou-se sobre a questão que lhe foi devolvida, inexistindo qualquer conclusão conflitante com os seus fundamentos.
+2 - No que tange ao artigo 267, inciso VI, do CPC, verifico que não foi ventilado no processo. Dessa forma, não sendo argüida tal infringência opportuno tempore, mas somente em sede de recurso especial, presente a falta de prequestionamento, o que obsta o conhecimento do Recurso Especial pela incidência da Súmula 211 da Corte, segundo a qual é "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+3 - Por fim, inexiste qualquer violação aos artigos 468 e 473 do CPC. A coisa julgada pressupõe a tríplice identidade: de partes, causa de pedir e pedido (REsp 299228/RS; Relator Ministro BARROS MONTEIRO, DJ 24.11.2003 p. 308) e o Tribunal a quo, diante do contexto fático e do histórico da demanda, entendeu presente tais pressupostos. Segundo orientação desta Corte "a matéria fática do acórdão estadual, não sujeita à revisão nesta via, não permite concluir-se que estaria havendo afronta à coisa julgada." (AgRg no Ag 308581/SP, Relator Ministro CASTRO FILHO, DJ 13.08.2001 p. 136). Incide, na hipótese a Sumula 7/STJ.
+4 - Agravo regimental desprovido.
+(AgRg no Ag 650.173/RS, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 13/09/2005, DJ 10/10/2005, p. 380)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
