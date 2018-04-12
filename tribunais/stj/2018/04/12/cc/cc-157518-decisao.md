@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Conflito de Competência, instaurado entre o Juízo Federal da 5ª Vara de Niterói/RJ, ora suscitante, e o Juízo Federal da 18ª Vara da Seção Judiciária de Brasília/DF, ora suscitado, nos autos da Execução Fiscal ajuizada, em 03/03/2009, pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, ora primeiro interessado, contra [NOME], ora segundo interessado.
+O Juízo Federal da 18ª Vara da Seção Judiciária do Distrito Federal, perante o qual foi inicialmente ajuizada a Execução Fiscal, declarou-se incompetente e determinou a remessa dos autos à Seção Judiciária do Estado do Rio de Janeiro, pelos seguintes fundamentos:
+"A execução fiscal deve, pois, em princípio, ser proposta no foro do domicilio do réu. Todavia, nos termos do parágrafo único do artigo 578 do Código de Processo Civil, o exequente dispõe da faculdade de ajuizá-la no foro do lugar em que se praticou o ato ou ocorreu o fato que deu origem à dívida.
+No caso dos autos, verifica-se que à época do ajuizamento da presente execução, ocorrido em 3-3-2009 (p. 1), o executado já possuía domicílio na cidade de Niterói (RJ) - p. 3 - , tanto que para lá se expediu a precatória para citação do devedor (p. 12).
+Observa-se, então, que a competência para o processamento e o julgamento da execução em questão, e dos processos a ele incidentais, é do juízo do domicílio do devedor (artigo 578, caput, do Código de Processo Civil), o que se justifica até mesmo pela conveniência da prática dos respectivos atos processuais" (fl. 34e).
+Por sua vez, Juízo Federal da 5ª Vara de Niterói/RJ, ao suscitar o presente Conflito, o fez nos seguintes termos:
+"A execução fiscal deve ser proposta no foro do domicílio do réu e a competência é fixada no momento da propositura da ação, sendo irrelevantes as modificações de fato ou de direito ocorridas posteriormente
+No caso concreto, não se pode afirmar que o Executado encontrava-se domiciliado nesta Cidade de Niterói na ocasião da distribuição do feito uma vez que a diligência deprecada para esta municipalidade (Rua Álvares de Azevedo, 130, Icaraí, Niterói, RJ) resultou negativa, conforme certificado pelo Oficial de Justiça em 16.01.2010 (fl. 18).
+Aliás, o exequente formulou pedido de reconsideração junto ao juízo declinante sob o fundamento de que o executado encontrava-se domiciliado nos Estados Unidos da América desde 1997, ocasião em que foi concedida uma bolsa de estudo pelo CNPQ (fl. 145).
+Verifico, ainda, que houve o comparecimento espontâneo do executado junto ao Juízo declinante. ocasião em que ofereceu exceção de pré-executividade no dia 04.10.2010 (fls.), que fora analisada e rejeitada pelo referido Juízo conforme decisão de fls. 95/97.
+(..)
+Assim, considerando que a competência é fixada no momento da propositura da ação, não podendo ser validamente deslocada posteriormente, SUSCITO CONFLITO NEGATIVO DE COMPETÊNCIA perante o Colendo Superior Tribunal de Justiça em face do Exmo. Juiz da 18ª Vara Federal de Brasília/DF, pelos motivos acima expendidos" (fls. 38/43e).
+Assiste razão ao Juízo Federal suscitante.
+Em se tratando de competência territorial, ou seja, relativa, a regra de estabilização da competência - perpetuatio jurisdictionis - deve prevalecer em casos como o presente, em que estabelecida a relação processual, sem que houvesse a oposição de exceção de competência pela réu.
+É certo que a lei processual admite como exceção à perpetuação da competência a posterior supressão do órgão judiciário ou alteração da competência em razão da matéria ou da hierarquia. Todavia, nenhuma dessas situações ocorreu na hipótese dos autos.
+Com efeito, na espécie, caberia ao exequente desistir da execução ajuizada em Brasília para manejá-la em Niterói, e não apenas requerer o seu deslocamento, providência esta não prevista na legislação processual.
+Nesse sentido, vejamos:
+"CONFLITO DE COMPETÊNCIA. EXECUÇÃO FISCAL. REQUERIMENTO DO EXEQUENTE PARA DESLOCAMENTO DO FEITO A OUTRO JUÍZO. INADMISSIBILIDADE.
+- Não mais se interessando pelo prosseguimento do processo onde pediu a execução, cabe ao exequente requerer a desistência e não apenas a remessa dos autos, se nem houve exceção declinatória de foro" (STJ, CC 1.717/PA, Rel. Ministro HÉLIO MOSIMANN, PRIMEIRA SEÇÃO, DJU de 13/05/1991).
+Ante o exposto, com fundamento no art. 34, XXII, do Regimento Interno do STJ, conheço do presente Conflito, para declarar a competência do Juízo Federal da Juízo Federal da 18ª Vara da Seção Judiciária de Brasília/DF, ora suscitado.
+I.
