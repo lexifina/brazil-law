@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. MANIFESTA INADMISSIBILIDADE.
+1. É manifestamente inadmissível o agravo em recurso especial que não impugna, de maneira consistente, os fundamentos da decisão agravada.
+2. Agravo interno no agravo em recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+Relatora: Ministra NANCY ANDRIGHI
+Cuida-se de agravo interno interposto por GAFISA S/A, com fundamento no art. 1021 do CPC/15, contra decisão monocrática que não conheceu o recurso especial que interpusera.
+Ação: obrigação de fazer cumulada com indenização ajuizada pelo CONDOMÍNIO VILLA FELICITÁ em face dos agravados e agravante.
+Decisão monocrática: excluiu do polo passivo a corré [NOME] [NOME] S/A Engenharia e Construções e admitiu a denunciação da lide em face de Gafisa S/A.
+Acórdão: negou provimento ao agravo de instrumento da agravante nos termos da seguinte ementa:
+OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO - Decisão que excluiu do polo passivo a corré [NOME] [NOME] S/A Engenharia e Construções e admitiu a denunciação da lide em face de Gafisa S/A - Insurgência da litisdenunciada - Conjunto probatório que não indica ostentasse a proprietária do terreno a condição de parceira, integrante ou coligada no empreendimento de incorporação - Exclusão da lide corretamente determinada - Denunciação da lide à construtora - Admissibilidade - Contrato por ela firmado em que há expressa ressalva de que seria responsável pelos danos e prejuízos que tenha motivado e deixado de adotar as cautelas e métodos usuais e de boa técnica para evitá-los, restando configurado, em tese, o direito de regresso da incorporadora em face dela, o que se enquadra no disposto no artigo 70, inciso III, do CPC - Ademais, sua responsabilidade, enquanto construtora do empreendimento é objetiva, conforme artigos 12 e 25 do Código de Defesa do Consumidor e 618 do Código Civil, o que também justifica sua inclusão na lide em que se discute a existência de vícios construtivos - Decisão mantida - Recurso improvido. (e-STJ fl. 1333)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: fundamentado na alínea "a" do permissivo constitucional. Alega violação dos arts. 70, III, 267, VI do CPC/73; 88 do CDC; e, 29 e 30 da Lei 4.591/64. Insurge-se contra a denunciação da lide. Alega que não se mostra admissível a denunciação da lide nas hipóteses de responsabilidade solidária. Sustenta q ue "a [NOME] não apenas é responsável solidária por conta da questão ambiental, ligada à emissão de gases do terreno que, de forma incontroversa, foi por ela negociado, como, de outro bordo, praticou atos que permitem a extensão da qualidade de incorporadora também a ela, nos exatos termos dos artigos 29 e 30, da LCI, a revelar sua legitimidade para figurar no polo passivo da demanda" (e-STJ fl. 1393).
+Decisão monocrática: não conheceu o agravo em recurso especial, com fundamento no art. 253, parágrafo único, I do RISTJ (e-STJ fls. 1522/1523).
+Agravo interno no agravo em recurso especial: sustenta, em síntese, que impugnou efetivamente o óbice da Súmula 7 do STJ (e-STJ fls. 1527/1542).
+É o relatório.
+VOTO
+Relatora: Ministra NANCY ANDRIGHI
+Julgamento: CPC/15.
+A decisão agravada não conheceu do agravo em recurso especial interposto por GAFISA S/A, ante a falta de impugnação específica do fundamento da decisão de admissibilidade do TJ/SP acerca da incidência da Súmula 7 do STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A decisão de admissibilidade do TJ/SP inadmitiu o recurso especial da agravante com base nos seguintes fundamentos i) falta de demonstração da ofensa aos dispositivos legais apontados como violados; e, ii) necessidade de reexame do contexto fático-probatório do processo (Súmula 7 do STJ).
+Na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula 7 do STJ, deve a agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não foi feito.
+Com efeito, alterar o decidido no acórdão impugnado, no que se refere ao fato de que i) "inexistem elementos concretos nos autos a demonstrar a efetiva participação da empresa excluída, proprietária do terreno, na atividade empresarial de incorporação do empreendimento imobiliário que ali se instaurou" (e-STJ fl. 1335); e, ii) "com relação à denunciação da lide, ao contrário do que sustenta a agravante, no contrato por ela firmado na condição de construtora, na cláusula 7.2 (fl. 209), em sua parte final, há expressa ressalva de que seria responsável pelos danos e prejuízos que tenha motivado e deixado de adotar as cautelas e métodos usuais e de boa técnica para evitá-los" (e-STJ fl. 1340), exige o reexame de fatos, o que é vedado em recurso especial pela Súmula 7 do STJ.
+As razões genéricas apresentadas no agravo em recurso especial além da repetição das razões do recurso especial, de fato, não afastam o óbice da Súmula 7 do STJ utilizado pelo TJ/SP.
+Nesse contexto, ressalte-se que o art. 34, XVIII, "a", do RISTJ exige a impugnação específica e consistente a todos os fundamentos da decisão de inadmissibilidade do recurso especial, motivo pelo qual referido ponto deveria ter sido melhor combatido.
+Deve ser mantido, portanto, o não conhecimento de seu agravo em recurso especial, em razão da aplicação da Súmula 182/STJ.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
