@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. DIREITO SUBJETIVO À NOMEAÇÃO. CONTRATAÇÕES TEMPORÁRIAS REALIZADAS DURANTE O PRAZO DE VALIDADE DE CONCURSO PARA A MESMA FUNÇÃO. POSSIBILIDADE. CARGO DE PROVIMENTO EFETIVO EM SITUAÇÃO DE VACÂNCIA. NÃO COMPROVAÇÃO. IMPROVIMENTO.
+    1. A jurisprudência superior consagra o entendimento de que o candidato de concurso público para provimento de cargos efetivos que tenha sido classificado fora do número de vagas ofertadas no respectivo edital somente terá direito subjetivo à nomeação quando lograr demonstrar que a contratação temporária para o exercício de atribuições próprias de servidor de cargo efetivo se deu em número superior ao número de candidatos aprovados e classificados à sua frente, bem como comprovar a existência de cargo de provimento efetivo em situação de vacância.
+    2. In casu, o candidato (apelante) não comprovou a existência de cargos efetivos em vacância, de molde a não restar caracterizado seu direito subjetivo à nomeação.
+    3. Apelo improvido” (pág. 38 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação ao art. 37, II, IV e IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O tribunal de origem, com apoio no acervo probatório dos autos, entendeu que não há direito subjetivo à nomeação pelo recorrente, uma vez que não comprovou a existência de cargos efetivos em vacância. Desse modo, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF. Nesse sentido, destaco os seguintes julgados desta Corte:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONTRATAÇÃO DE SERVIDORES A TÍTULO PRECÁRIO. DIREITO SUBJETIVO À NOMEAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. PRETERIÇÃO DE CANDIDATO. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. INOCORRÊNCIA. AGRAVO INTERNO DESPROVIDO” (ARE 1.083.729-AgR/PI, Rel. Min. Luiz Fux).
+    “Ementa: DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CONTRATAÇÃO PRECÁRIA NO PRAZO DE VALIDADE DO CERTAME. PRETERIÇÃO CONFIGURADA. ANALISAR A OCORRÊNCIA DE EVENTUAL AFRONTA AOS PRECEITOS CONSTITUCIONAIS INVOCADOS NO APELO EXTREMO EXIGIRIA A REELABORAÇÃO DA MOLDURA FÁTICA CONSTANTE DO ACÓRDÃO REGIONAL. VIOLAÇÃO DO PRINCÍPIO DA SEPARAÇÃO DE PODERES NÃO CONFIGURADA. ACÓRDÃO RECORRIDO PUBLICADO EM 28.4.2012.
+    Divergir do entendimento do Tribunal a quo, acerca da ocorrência de contratação precária para o exercício do cargo para o qual a recorrente obteve aprovação, demandaria a reelaboração da moldura fática delineada no acórdão de origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    O exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Precedentes.
+    As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à incidência da Súmula 279/STF, a inviabilizar o trânsito do recurso extraordinário.
+    Agravo regimental conhecido e não provido” (RE 733.480-AgR/MA, Rel. Min. Rosa Weber).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% os honorários advocatícios anteriormente fixados, observados os limites do art. 85, § 2° e § 3°, do CPC.
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
