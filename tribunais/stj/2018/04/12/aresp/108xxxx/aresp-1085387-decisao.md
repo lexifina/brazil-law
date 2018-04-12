@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"EMENTA: APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE C/C DESFAZIMENTO DE CONSTRUÇÃO E PLANTAÇÃO E PAGAMENTO DE ALUGUEL - REQUISITOS LEGAIS - COMODATO VERBAL - NÃO COMPROVADO. A ação de reintegração de posse possibilita ao autor ser reintegrado na posse em caso de esbulho e depende da comprovação dos seguintes pressupostos: posse do autor, esbulho praticada pelo réu e perda da posse (art. 927 do CPC). É ônus do autor a comprovação dos fatos constitutivos do seu direito e do réu a demonstração da existência de fato impeditivo, modificativo ou extintivo do direito do autor (art. 333 do CPC). A existência de contrato de comodato, embora admissível na forma verbal, já que não se trata de negócio solene, deve ser comprovada." (e-STJ, fl. 213)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 229/235).
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 1.168 do Código Civil de 1916, 541 do Código Civil de 2002, 131, 348, 349, 535, do Código de Processo Civil de 1973, 371, 389, 390 e 1.022, sustentando, em síntese, que foi admitida que o comodato pode ser verbal, mas comprovado, e que a doação de imóvel pode ser realizada de forma verbal, como nos autos, devendo ser reconhecida a legitimidade de sua posse.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil de 1973 (1.022 do CPC/2015), tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+No mérito, o Tribunal de origem, ao apreciar o recurso de apelação, confirmou a sentença que julgou procedente a ação de manutenção de posse com interdito proibitório ajuizada pelos recorridos, uma vez que concluiu que o comodato verbal é válido, alegado pelos recorrentes para justificar a posse, embora não comprovado na hipótese dos autos, e que a doação depende de instrumento particular ou de escritura pública, nos termos do art. 541 do Código Civil, nos seguintes termos (e-STJ, fls. 215/217):
+"A recorrente pretende seja reintegrada na posse do imóvel, objeto do litígio, afirmando que o réu a esbulhou.
+Conforme dispõe o art. 333 do Código de Processo Civil, é ônus do autor a comprovação dos fatos constitutivos do seu direito e do réu a demonstração da existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+Sobre o ônus da prova, convém registrar a orientação de [NOME] e [NOME]:
+Afirma-se que a regra do ônus da prova se destina a iluminar o juiz que chega ao final do procedimento sem se convencer sobre como os fatos se passaram. Nesse sentido, a regra do ônus da prova é um indicativo para o juiz se livrar do estado de dúvida e, assim, definir o mérito. Tal dúvida deve ser paga pela parte que tem o ônus da prova. Se a dúvida paira sobre o fato constitutivo, essa deve ser suportada pelo autor, ocorrendo o contrário em relação aos demais fatos. ([NOME], Luiz Guilherme; [NOME], Sérgio Cruz. Processo de Conhecimento, v. 2,9a ed. revista e atualizada, São Paulo: Revista dos Tribunais, 2011, p. 266).
+E ainda a lição do professor [NOME]:
+Não há um dever de provar, nem à parte contrária assiste o direito de exigir a prova do adversário. Há um simples ônus, de modo que o litigante assume o risco de perder a causa se não provar os fatos alegados dos quais depende a existência do direito subjetivo que pretende resguardar através da tutela jurisdicional. Isto porque, segundo máxima antiga, fato alegado e não provado é o mesmo que fato inexistente. (Curso de Direito Processual Civil, v. I, 50a ed., Forense, 2009, p.420).
+A comprovação do esbulho ou da turbação, bem como de sua data, e a posse anterior configuram os elementos imprescindíveis para a autorização do pedido de reintegração ou manutenção da posse, nos
+termos do que dispõe o art. 927 do Código de Processo Civil.
+Art. 927. Incumbe ao autor provar:
+I - a sua posse;
+II - a turbação ou o esbulho praticado pelo réu;
+III - a data da turbação ou do esbulho;
+IV - a continuação da posse, embora turbada, na ação de manutenção; a perda da posse, na ação de reintegração.
+Na hipótese dos autos, cuidou o apelado de demonstrar que ocupa
+o imóvel objeto do litígio há mais de 30 (trinta) anos.
+Por outro lado, a recorrente não trouxe aos autos, ônus que lhe incumbia, prova de que o apelado ocupa a terra em litígio a título de comodato verbal, como por ela sustentado, não prestando, para tanto, a mera notificação de fl. 11, ato unilateral.
+Ora, a existência de contrato de comodato, embora admissível na forma verbal, já que não se trata de negócio solene, deve ser comprovada.
+Nos dizeres dos citados [NOME] e [NOME],
+"não sendo solene, em regra, o comodato admite qualquer meio de prova de sua existência", sendo proibida, no entanto, a prova exclusivamente testemunhai para a demonstração da existência de contratos cujo valor exceda a dez vezes o salário mínimo, nos termos do que prevê o art. 401 do Código de Processo Civil, (obra citada, p. 737).
+De se registrar ainda:
+Comodato verbal. Não presunção de existência. Muito embora não se afaste a possibilidade de se convencionar verbalmente o comodato, desde que se cogite da demosntração de sua existência, mister se faz a produção de prova oral ou de qualquer natureza. Por derivar de ato a título gratuito, não pode ser presumido, devendo, consequentemente, emergir de elementos seguros, que afastem dúvidas sobre o episódio que o gerou (2o TACivSP, 4a Câm  AP 219306-0, rei. Juiztelles Corrêa, j.21.6.1988; JTACSP 114/1950) (NERY JÚNIOR, Nelson. NERY, Rosa Maria de Andrade. Código Civil Comentado. 9a ed. São Paulo: Revista
+dos Tribunais, p.731)
+Dessa forma, tendo em vista que não foi comprovada, por qualquer meio, a existência de contrato de comodato verbal, a pretensão da recorrente não prospera, sendo de se manter a sentença de primeira instância.
+Por derradeiro, consigno que, diante do resultado deste voto, incabível a condenação do apelado em litigância de má-fé."
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se
