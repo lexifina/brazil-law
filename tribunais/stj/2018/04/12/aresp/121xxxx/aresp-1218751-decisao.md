@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZATÓRIA. 1. DANO MORAL NÃO CONFIGURADO. REVISÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA N. 7 DO STJ. 2. ÔNUS SUCUMBENCIAIS. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. HONORÁRIOS RECURSAIS. CABIMENTO. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça do Mato Grosso do Sul que não admitiu o recurso especial apresentado às fls. 129-145 (e-STJ).
+Na origem, a ora agravante ajuizou ação ordinária contra Flex Análise de Crédito e Cobrança Ltda., buscando a declaração de cancelamento do débito e a condenação da requerida ao pagamento de danos morais.
+O Magistrado de primeiro grau julgou parcialmente procedente o feito apenas para declarar cancelado o débito objeto do litígio, no montante de R$ 3.152,92 (três mil, cento e cinquenta e dois reais e noventa e dois centavos). Sob o argumento de sucumbência recíproca, fixou os honorários advocatícios, nos termos do art. 85, § 2º, do NCPC, em 10% (dez por cento) do valor atualizado da causa, cabendo à autora o pagamento de 50% (cinquenta por cento) deste valor ao patrono da ré e à requerida, por sua vez, o pagamento do mesmo percentual ao advogado da demandante.
+Em apelação da autora, a Quinta Câmara Cível do Tribunal de Justiça do Mato Grosso do Sul negou provimento ao apelo em acórdão assim ementado (e-STJ, fl. 115):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - AUSÊNCIA DE NEGATIVAÇÃO OU PROTESTO - DANO MORAL NÃO CONFIGURADO - DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS - PEDIDOS SUCESSIVOS - ACOLHIMENTO DE APENAS UM DELES - SUCUMBÊNCIA RECÍPROCA MANTIDA - SUCUMBÊNCIA RECURSAL - MAJORAÇÃO DOS HONORÁRIOS - RECURSO CONHECIDO E DESPROVIDO.
+1 - A mera cobrança de débito declarado inexistente, por si só, não autoriza a condenação ao pagamento de indenização por danos morais, mormente quando não há inscrição indevida do nome da parte prejudicada em órgão de proteção ao crédito ou protesto do título.
+2 - A improcedência de um dos pedidos cumulados sucessivamente caracteriza a sucumbência recíproca, devendo os ônus sucumbenciais serem suportados por ambas as partes, na proporção do sucumbência de cada um. Precedentes do STJ.
+3 - O desprovimento do recurso implica na majoração dos honorários fixados em primeira instância em favor do patrono da parte contrária.
+Nas razões do recurso especial, a insurgente apontou violação dos arts. 186 e 927 do Código Civil; 14 do Código de Defesa do Consumidor; e 85, § 11, do CPC/2015.
+Aduziu ser devida a reparação por dano moral, pois ficou comprovado o constrangimento sofrido em razão das ameaças contidas na notificação recebida e na correspondência do cartório, bem como a humilhação a que foi exposta por ter sido taxada como má pagadora de uma dívida que não existiu.
+Defendeu que a sucumbência recíproca seja afastada para condenar a recorrida ao pagamento das custas processuais e honorários advocatícios na sua integralidade, considerando que o principal pedido foi acolhido.
+Por fim, alegou o não cabimento da majoração dos honorários aplicada pela Corte estadual.
+Não foram apresentadas contrarrazões.
+O Tribunal de origem inadmitiu o recurso sob o fundamento de incidência da Súmula n. 7 do STJ.
+Irresignada, a recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Sem contraminuta.
+Brevemente relatado, decido.
+Quanto à questão de fundo, o Tribunal estadual, soberano na análise das provas dos autos, concluiu não estar configurado o dano moral, na espécie, consignando que a mera cobrança de débito declarado inexistente, por si só, não autoriza a condenação ao pagamento de indenização, mormente quando não há inscrição indevida do nome da parte prejudicada em órgão de proteção ao crédito ou protesto do título.
+Com efeito, para infirmar as conclusões a que chegou o acórdão recorrido seria imprescindível o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância extraordinária, consoante dispõe a Súmula 7/STJ.
+Em relação ao redimensionamento dos ônus sucumbenciais, também é aplicável o óbice da Súmula 7/STJ, pois a "revisão da distribuição dos ônus sucumbenciais, com o intuito de perquirir eventual sucumbência recíproca dos litigantes, envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto" (AgRg no AREsp n. 438370/PR, Relator o Ministro Marco Buzzi, Quarta Turma, julgado em 24/2/2015, DJe 4/3/2015).
+E ainda:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ. 2. No caso concreto, alterar a distribuição da sucumbência realizada pelo Tribunal de origem demandaria o reexame da matéria fática, o que encontra óbice na referida súmula. 3. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 598731/SP, Relator o Min. Antônio Carlos Ferreira, Quarta Turma, julgado em 18/12/2014, DJe 02/02/2015)
+Por fim, nos termos do art. 85, § 11, do CPC/2015, correta a fixação da verba honorária recursal pela Corte de origem, considerando o desprovimento da apelação.
+Ademais, quanto ao tema, a Terceira Turma do STJ, nos autos dos EDcl no AgInt no REsp 1.573.573/RJ, desta relatoria, firmou o entendimento de que, para a fixação da aludida verba, não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor atualizado da causa, suspensa a exigibilidade em razão da gratuidade de justiça.
+Publique-se.
