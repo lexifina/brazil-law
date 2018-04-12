@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. FORNECIMENTO DE MEDICAMENTOS FORA DA LISTA DO SUS. TEMA AFETADO AO REGIME DOS RECURSOS REPETITIVOS: RESP. 1.657.156/RJ, REL. MIN. BENEDITO GONÇALVES. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial interposto pela UNIÃO contra decisão que negou provimento ao seu Agravo em Recurso Especial, nos termos da seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS PELO FUNCIONAMENTO DO SISTEMA ÚNICO DE SAÚDE. POSSIBILIDADE DE FORNECIMENTO PELO SUS DE FÁRMACO SEM REGISTRO NA ANVISA DADA A SITUAÇÃO EXCEPCIONAL APRESENTADA PELO PACIENTE. AGRAVO EM RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA PROVIMENTO (fls. 711)
+2. A parte agravante requer, em suma, a reconsideração da decisão agravada, uma vez que o medicamento pleiteado não consta na lista do SUS, e que o tema em tela se encontra afetado ao regime dos Recursos Repetitivos.
+3. É o relatório.
+4. Em face das razões de fls. 730/733, reconsidera-se a decisão de fls. 711/721 e passa-se a reapreciação da questão.
+5. A questão debatida nos autos, referente à possibilidade de fornecer medicamentos não incorporados em atos normativos do SUS, encontra-se afetada à 1a. Seção, aguardando o julgamento do REsp. 1.657.156/RJ, de relatoria do Ministro BENEDITO GONÇALVES, sob o rito dos recursos repetitivos (art. 1.036 do CPC/2015).
+6. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+7. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, aprecie o feito na forma dos arts. 1.040 e 1.041 do CPC/2015.
+8. Publique-se. Intimações necessárias.
