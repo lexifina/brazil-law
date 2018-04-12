@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. EXECUÇÃO FISCAL DE PEQUENO VALOR. SENTENÇA EXTINTIVA. EMBARGOS INFRINGENTES REJEITADOS. WRIT. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. Nos termos do pacífico entendimento jurisprudencial desta Corte Superior, a sentença proferida no âmbito de execução fiscal de pequeno valor somente pode ser atacada por embargos infringentes (art. 34 da Lei n. 6.830/1980) e, remanescendo controvérsia de natureza constitucional, por recurso extraordinário (art. 102, III, da CF), sendo descabida a impetração de mandado de segurança perante o Tribunal de Justiça, porquanto, via de regra, é utilizado como mero sucedâneo recursal, o que infringe o subsistema recursal estabelecido pela Lei de Execução Fiscal.
+2. Hipótese em que o acórdão recorrido deve ser mantido, porquanto a
+denegação do mandamus está em conformidade com a orientação jurisprudencial desta Corte Superior.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves e Sérgio Kukina votaram com o Sr. Ministro Relator. Ausente, justificadamente, a Sra. Ministra Regina Helena Costa.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno do MUNICÍPIO DE TATUÍ contra decisão que, com apoio em pacífico entendimento jurisprudencial, negou provimento a recurso ordinário, em que se discute o cabimento de mandado de segurança contra sentença que extingue execução fiscal em razão do baixo valor do crédito tributário executado.
+O agravante sustenta, em síntese, que inexiste lei que limite o valor a ser cobrado por meio de execução fiscal e que o STJ, por meio da Súmula 452, pacificou que a extinção das ações de pequeno valor é faculdade da Administração Federal, vedada a atuação judicial de oficio, o que, sem dúvida, caracteriza abuso de poder do Juiz de Direito do Serviço Anexo das Fazendas da Comarca de Tatuí, ao extinguir execuções fiscais de pequeno valor. Então, o caso não trata de impetração do writ perante Corte de segunda instância como mero sucedâneo de apelação, mas de mandamus que objetiva coibir abuso de poder por parte do Juízo antes mencionado, cuja impetração encontra amparo no art. 5º, inciso LXIX, da Constituição Federal, como permissivo de impetração de mandado de segurança.
+Sem impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Como assinalado na decisão agravada, a impetração de mandado de segurança contra decisão judicial somente é admitida nos casos de manifesta ilegalidade ou abuso de poder (vide: AgRg no MS 21.781/DF, Rel. Ministro Felix Fischer, Corte Especial, DJe 02/02/2016; AgRg no MS 22.154/DF, Rel. Ministra Maria Thereza De Assis Moura, Corte Especial, DJe 14/12/2015).
+Especificamente quanto às sentenças extintivas das execuções de pequeno valor, o entendimento jurisprudencial desta Corte Superior é o de que só podem ser atacadas por embargos infringentes (art. 34 da Lei n. 6.830/1980), à exceção de eventual recurso extraordinário quando houver controvérsia de natureza constitucional, sendo descabida a impetração do mandado de segurança, porquanto, em regra, é manejado como mero sucedâneo recursal, o que infringe o subsistema recursal da Lei de Execuções Fiscais, que preconiza o encerramento da fase ordinária ainda na primeira instância.
+A esse respeito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO JUDICIAL. EXECUÇÃO FISCAL ABAIXO DE 50 ORTNS. EXTINÇÃO. WRIT. NÃO CABIMENTO.
+1. "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição" (Súmula 267 do STF).
+2. Hipótese em que a ação mandamental é impetrada diretamente contra sentença extintiva de execução fiscal, sem que a exequente-impetrante opusesse os embargos infringentes do art. 34 da Lei n. 6.830/1980.
+3. Nesse contexto, deve-se reconhecer o não cabimento do writ, que não pode ser utilizado como sucedâneo recursal, salvo quando teratológica a decisão impugnada, por ilegalidade ou abuso de poder.
+4. Recurso ordinário desprovido.
+(RMS 49.410/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 28/04/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. IMPETRAÇÃO EM FACE DE DECISÃO QUE, EM EXECUÇÃO FISCAL, JULGA EMBARGOS INFRINGENTES (ART. 34 DA LEI 6.830/80). INEXISTÊNCIA DE TERATOLOGIA. INADMISSIBILIDADE.
+1. Conforme orientação desta Corte, "nas execuções fiscais de que trata o art. 34 da Lei n. 6.830, de 1980, a sentença está sujeita aos embargos infringentes do julgado, cujo julgamento constitui a palavra final do processo", tratando-se "de opção do legislador, que só excepciona desse regime o recurso extraordinário, quando se tratar de matéria constitucional" (RMS 37.753/MG, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 04/12/2012, DJe 12/12/2012).
+2. Agravo regimental não provido (AgRg no RMS 47.452/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/03/2015, DJe 30/03/2015).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. EXECUÇÃO FISCAL DE VALOR IGUAL OU INFERIOR A 50 OTN. ART. 34 DA LEI 6.830/80. SENTENÇA. RECURSOS CABÍVEIS: EMBARGOS DE DECLARAÇÃO, EMBARGOS INFRINGENTES OU RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. AÇÃO IMPRÓPRIA. SUCEDÂNEO RECURSAL. ATO JUDICIAL TRANSITADO EM JULGADO. IMPOSSIBILIDADE. SÚMULAS 267/STF E 268/STF.
+1. Só são oponíveis embargos de declaração e embargos infringentes de sentença proferida no âmbito das execuções fiscais previstas no art. 34 da Lei n.º 6.830/80, regra excepcionada apenas pelo eventual cabimento de recurso extraordinário, quando houver questão constitucional debatida. Precedentes: RMS 36.879/SP, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 19/3/2013, Dje 25/3/2013 e RMS 42.738/MG, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 13/8/2013, DJe 21/8/2013.
+2. É incabível o mandado de segurança quando empregado como sucedâneo recursal, nos termos da Súmula 267/STF, ou impetrado em face de ato judicial transitado em julgado, a teor dos óbices existentes na Súmula 268/STF e no art. 5º, III, da Lei 12.016/09.
+3. Agravo regimental a que se nega provimento (AgRg no RMS 47.099/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/02/2015, DJe 04/03/2015).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
