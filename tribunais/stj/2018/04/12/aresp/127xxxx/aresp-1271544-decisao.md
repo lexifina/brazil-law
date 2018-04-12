@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. SERVIDOR PÚBLICO MUNICIPAL. COMPENSAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA EM FAVOR DO ESTADO. LEI 8.906/84. PROCURADORIA MUNICIPAL. LEI MUNICIPAL 9.402/81. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO E FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do MUNICÍPIO DE SÃO PAULO fundado na alínea "a" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO - Execução contra a Fazenda Pública - Compensação entre os honorários de sucumbência fixados em razão da procedência dos embargos e o crédito principal executado - Possibilidade - Honorários advocatícios integram o patrimônio da Fazenda Pública e não são de titularidade da procuradoria judicial - Ausência de violação à ordem de pagamentos por precatório - Decisão mantida. RECURSO NÃO PROVIDO.
+E possível a compensação entre os honorários de sucumbência fixados em razão de procedência dos embargos à execução contra a Fazenda Pública e o crédito
+principal executado.
+No recurso especial, a parte recorrente aponta violação dos arts. 22 e 23 da Lei Federal n. 8.906/84 e arts. 368 e 369 do Código Civil, aduzindo que não é possível a compensação dos honorários advocatícios devidos aos procuradores municipais com crédito dos recorridos junto à Fazenda Municipal.
+Houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundado na inexistência de ofensa à legislação enfocada.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A insurgência não prospera.
+A parte recorrente alega malferimento dos artigos supramencionados arguindo que:
+Ao deferir a compensação dos honorários devidos pelos Recorridos com os valores supostamente devidos pelo Município a eles, o v. acórdão recorrido não se atentou para o fato de que os honorários advocatícios não pertencem ao Município de São Paulo, mas aos Procuradores Municipais.
+(..)
+Assim, tendo em vista que os destinatários finais dos valores aqui discutidos são diferentes, não se poderia admitir a sua compensação, com bem havia decidido a r. decisão monocrática.
+Na primeira relação jurídica, a dívida é decorrente do suposto não pagamento de reajustes salariais por parte do Município aos Recorridos, cujo valor é (ou será) objeto de precatório a ser pago oportunamente. E na segunda relação jurídica, a dívida é fruto da condenação dos Recorridos ao pagamento de verba honorária, cujo destinatário, por forca da citada lei, são os Procuradores Municipais.
+Como não há identidade de credores e devedores, por conta da diversa natureza jurídica das dívidas aqui tratadas, não se poderia admitir a sua compensação.
+Ocorre que infirmar a conclusão alcançada pelo Tribunal de origem, acolhendo-se, para tanto, as razões recursais fundamentadas na Lei Municipal n. 9.402/81, pressupõe a apreciação de tal tese e, consequentemente de direito local, no que se refere à distribuição de honorários aos procuradores do Estado, o que é obstado pela Súmula 280 do STF, segundo a qual "por ofensa a direito local não cabe recurso extraordinário". Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORES PÚBLICOS MUNICIPAIS. EXTINÇÃO DO FEITO. SÚMULA 7/STJ. EXAME DE LEI LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF.
+1. Rever o entendimento da instância ordinária, no tocante à extinção do feito, implica o reexame de provas dos autos, o que não pode ser realizado pela via eleita em virtude do óbice da Súmula 7 do STJ.
+2. Ademais, a controvérsia demanda a análise de lei local (Lei municipal n. 14.591/2007 e Lei n. 14.712/2008). Tal circunstância torna inviável o acolhimento do apelo extremo devido ao disposto na Súmula 280/STF, aplicada ao caso por analogia: "Por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1063085/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/03/2018, DJe 13/03/2018)
+O Tribunal de origem, ao analisar a controvérsia, assentou que:
+Há, pois, identidade entre credores e devedores das respectivas verbas, eis que não se trata de crédito de titularidade das procuradorias fazendárias, que sequer possuem personalidade jurídica distinta das pessoas jurídicas às quais estão vinculadas.
+Por outro lado, tal entendimento não torna a Fazenda Pública devedora de verba de sucumbência, eis que a compensação opera extinção do crédito, sem novação alguma.
+Contudo, tal fundamentação não foi impugnada de modo adequado no presente recurso. Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. SERVIDOR PÚBLICO. PARIDADE ENTRE INATIVOS/PENSIONISTAS DO DNER E SERVIDORES DA EXTINTA AUTARQUIA FEDERAL APROVEITADOS NO DNIT. PRESCRIÇÃO DA AÇÃO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC/1973.
+2. O acórdão recorrido afastou a prescrição com o fundamento de que a relação jurídica dos autos é de trato sucessivo sem que tenha sido previamente negado o direito reclamado. Assim, como o referido argumento não foi atacado pela parte recorrente e é apto, por si só, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. No julgamento do Recurso Especial 1.244.632/CE pelo rito dos recursos repetitivos (art. 543-C do CPC), da lavra da Ministro Castro Meira, a Primeira Seção do Superior Tribunal de Justiça firmou o entendimento de que o servidor aposentado do extinto DNER, ainda que passe a integrar o quadro de inativos do Ministério dos Transportes, deve ter como parâmetro de seus proventos a retribuição dos servidores ativos do DNER absorvidos pelo DNIT, pois esta autarquia é que é a sucessora do DNER, não havendo razão para justificar qualquer disparidade. Dessa forma, devem ser estendidos os benefícios e vantagens instituídas pelo novo Plano de Cargos e Salários dos servidores do DNIT, promovido pela Lei 11.171/2005, sob pena de desobediência à paridade de vencimentos entre servidores ativos e inativos e pensionistas 4. Recurso Especial conhecido parcialmente e, nessa parte, não provido.
+(REsp 1677028/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
