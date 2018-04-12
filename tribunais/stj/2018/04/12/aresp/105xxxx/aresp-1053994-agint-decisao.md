@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. FORNECIMENTO DE MEDICAMENTOS FORA DA LISTA DO SUS. TEMA AFETADO AO REGIME DOS RECURSOS REPETITIVOS: RESP. 1.657.156/RJ, REL. MIN. BENEDITO GONÇALVES. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial interposto pelo ESTADO DO RIO DE JANEIRO contra decisão que negou provimento ao Agravo em Recurso Especial da ora agravada, nos termos da seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM ANTECIPAÇÃO DE TUTELA. FORNECIMENTO DE MEDICAMENTOS NECESSÁRIOS PARA O TRATAMENTO DE SAÚDE. IMPOSSIBILIDADE DE VERIFICAÇÃO DOS CRITÉRIOS ADOTADOS PARA ADMITIR A NECESSIDADE E ADEQUAÇÃO DO TRATAMENTO À PACIENTE. NÃO INFRINGÊNCIA À CLÁUSULA DE RESERVA DE PLENÁRIO. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO (fls. 486).
+2. A parte agravante requer, em suma, a reconsideração da decisão agravada uma vez o medicamento pleiteado não consta na lista do SUS, e que o tema em tela encontra-se afetado ao regime dos Recursos Repetitivos.
+3. É o relatório.
+4. Em face das razões de fls. 498/500, reconsidera-se a decisão de fls. 486/493 e passa-se a reapreciação da questão.
+5. A questão debatida nos autos, referente à possibilidade de fornecer medicamentos não incorporados em atos normativos do SUS, encontra-se afetada à 1a. Seção, aguardando o julgamento do REsp. 1.657.156/RJ, de relatoria do Ministro BENEDITO GONÇALVES, sob o rito dos recursos repetitivos (art. 1.036 do CPC/2015).
+6. A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+7. Em face do exposto, dá-se provimento ao Agravo Interno para determinar a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia, aprecie o feito na forma dos arts. 1.040 e 1.041 do CPC/2015.
+8. Publique-se. Intimações necessárias.
