@@ -1,0 +1,30 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão da Primeira Turma Recursal da Fazenda Pública dos Juizados especiais Cíveis do Estado do Rio Grande do Sul, assim ementado (fl. 114):
+    “RECURSAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO ESTADUAL. CONTRATO TEMPORÁRIO. DEPÓSITO DE FGTS. VÍNCULO ADMINISTRATIVO. DIREITO NÃO EVIDENCIADO.
+    1. Trata-se de ação em que pretende a parte autora, que ocupava o argo de agente educacional, seja determinado ao requerido o pagamento/depósito do FGTS em razão do rompido contrato emergencial de trabalho.
+    2. A parte demandante manteve-se vinculada aos quadros públicos por força de contrato temporário de trabalho. Tal figura encontra amparo no texto constitucional, restando enunciado no artigo 37, IX, da CRFB/88, que a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público.
+    3. Aqui não há como se negar o vínculo administrativo a que submetido a parte demandante, não havendo falar em contrato trabalhista, pelo que afastados os institutos que salvaguardam o labor regrado pela CLT.
+    4. Sentença de improcedência mantida por seus próprios fundamentos.
+    RECURSO INOMINADO DESPROVIDO.”
+    Opostos embargos de declaração foram rejeitados.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta a existência de repercussão geral da matéria e alega que o julgado ofendeu os arts. 1º, IV, 5º, XXXVI, 7º, V, VI e X, 37, caput, e 39, § 1º, I e III, da Carta Magna.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Quanto à alegação de afronta ao direito adquirido, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, a sentença, mantida pelo acórdão recorrido, decidiu a controvérsia nos seguinte termos (fls. 86-87):
+    “No caso dos autos, a parte autora foi contratada pelo Estado, em caráter temporário, para o exercício da função de professor. Desse modo, tal contratação teve como base o disposto no artigo 37, inciso IX, da CF, como também a Lei Estadual nº 10.376/95.
+    A Lei Estadual nº 10.376/95 optou pela contratação dos servidores em caráter emergencial nos limites do regime estatutário, e não pelo exposto na CLT, como dispões no seu art. 5º:
+    (…)
+    Ademais, como bem referido no parecer do Ministério Público, cuida-se de cargo demissível ad nutum, logo, incabíveis as pretensões formuladas na inicial relativas aos dispositivos da CLT, inaplicáveis, como acima visto, ao contrato da autora, não existindo comprovação de irregularidade na dispensa do contratado”.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas indicadas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, a solução dessa controvérsia, depende da análise de legislação local e das provas dos autos, providências incabíveis em recurso extraordinário, conforme consubstanciado nas Súmulas 280/STF (Por ofensa a direito local não cabe recurso extraordinário) e 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+    Nesse sentido, citem-se as seguintes decisões monocráticas da mesma origem: ARE 1.104.589/RS, Rel. Min. EDSON FACHIN, DJe de 9/4/2018; e ARE 1107432/RS, de minha relatoria, DJe de 26/2/2018.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (CPC/2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
