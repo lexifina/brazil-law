@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+No presente agravo, o recorrente afirma que a análise das razões do recurso especial não exigiria reexame de provas, mas a revaloração jurídica. Pugna pelo provimento do agravo para que o recurso especial seja conhecido e, no mérito, provido.
+Contraminuta apresentada.
+O Ministério Público Federal manifestou-se pelo improvimento do agravo.
+É o relatório.
+Decido.
+O recorrente foi condenado como incurso no art. 33, caput, da Lei 11.343/2006, à pena de 5 anos de reclusão, em regime inicial fechado, além de 500 dias-multa. Interposta apelação, restou o recurso improvido pelo Tribunal a quo.
+No recurso especial, busca a desclassificação do delito de tráfico de entorpecentes para o tipo previsto no art. 28 da Lei 11.343/2006, aduzindo contrariedade ao citado dispositivo.
+O Tribunal de origem, soberano na análise das provas dos autos, mantendo a sentença de primeiro grau, concluiu que teriam sido devidamente comprovadas a materialidade e a autoria do crime de tráfico de entorpecentes, afastando a desclassificação da conduta perpetrada para o tipo previsto no art. 28 da Lei 11.343/06, tudo conforme os seguintes fundamentos:
+A autoria e a materialidade do crime de tráfico de drogas foram devidamente comprovadas nos autos, em especial por meio dos seguintes elementos de convicção: auto de prisão em flagrante (fls. 32-34); laudo de perícia criminal de exame preliminar em material (fls. 49); boletim de ocorrência policial (fls. 52-54); auto de apresentação e apreensão (fls. 46 e 47); e prova oral colhida em Juízo. Vejamos.
+Interrogado na seara policial, o acusado negou a prática do delito de tráfico, afirmando que não sabia que na sacola que carregava havia drogas e que apenas iria entregá-la a uma mulher que o estava esperando na parada de ônibus (fl. 34).
+Na Delegacia, o policial militar responsável pelo flagrante, soldado LUCAS BORGES, relatou que, no dia do fato, estava realizando serviço de patrulhamento de rotina na Ceilãndia-DF, quando avistou dois rapazes conduzindo uma motocicleta, e resolveu abordá-los, tendo o piloto da motocicleta parado ao escutar a sirene da viatura.
+Narrou que o piloto foi revistado e nada foi encontrado em seu poder. O garupa da motocicleta estava na posse de uma sacola e, indagado sobre o que havia em seu interior, afirmou que não sabia e que iria entregar a sacola a uma mulher desconhecida que o estaria aguardando na parada de õnibus da QNQ 1, vestindo blusa preta e calça jeans.
+Relatou que dentro da sacola havia um tablete de maconha e uma balança de precisão, e que foram até a parada de ônibus, mas não encontraram ninguém.
+Afirmou, ainda, que o piloto da motocicleta estava vestido com roupas características de mototaxista e negou saber o conteúdo da sacola, afirmando que nunca tinha visto o garupa antes. Confiram-se:
+(..)
+A testemunha WILLIAS, mototaxista, ao ser ouvido na seara policial, afirmou que, no dia do fato, trabalhava como mototaxista, quando foi abordado por um sujeito que pediu para ser levado até uma rua próxima do ponto.
+Narrou que foi até o local, onde o rapaz desceu, entrou em uma casa e retornou um pouco depois, pedindo que o levasse até uma parada de ônibus na QNQ. No trajeto, foram abordados por uma viatura da polícia militar, tendo os policiais encontrado drogas na sacola do rapaz, o qual nunca havia visto antes.
+(..)
+Fortalecendo o acervo probatório, o laudo de perícia criminal de exame preliminar em material (fls. 49) atestou que as substância apreendida - uma porção de substância vegetal de tonalidade pardo -esverdeada, prensada em forma de tijolo, perfazendo a massa líquida de 251, 50g (duzentos e cinquenta e um gramas e cinquenta centigramas) apresentou resultado positivo para a substância tetrahidrocannabiol - THC, principal componente da "maconha".
+Como se vê, os depoimentos dos policiais que participaram do flagrante (na seara policial e em Juízo), coerentes e harmônicos, encontram respaldo no depoimento da testemunha WILLIAS (na seara policial) e no Laudo Pericial, formando um acervo probatório robusto e suficiente à condenação do apelante como incurso no artigo 33, "caput", da Lei nº 11.343/2006.
+Não há falar em desclassificação para a conduta de porte de droga para consumo pessoal (artigo 28 da Lei 11.343/2006).
+Primeiro porque o acusado afirmou na Delegacia que estava levando a droga para outra pessoa (ou seja, não se destinava ao seu consumo), versão corroborada pelo depoimento extrajudicial do mototaxista que o conduzia e pelos depoimentos judiciais dos policiais. Segundo porque a quantidade de droga apreendida e a balança de precisão comprovam que o entorpecente se destinava à difusão ilícita.
+Frise-se que, ao contrário do que alegou a douta Defesa (fl. 154) reveste-se de especial importância a oitiva judicial dos policiais militares que participaram da diligência que culminou na prisão em flagrante do apelante.
+Isso porque, além da presunção de veracidade de suas declarações (inerentes a sua condição de agente público), os depoimentos de policiais, no desempenho da função pública, são dotados de eficácia probatória, idôneos a embasar uma sentença condenatória, principalmente quando corroborados em juízo e em plena consonância com as demais provas existentes nos autos.
+(..)
+Na hipótese dos autos, em que pese o acusado não tenha sido flagrado vendendo a droga a algum usuário e não haja qualquer filmagem comprovando a traficância (como alegou a douta Defesa, fls. 155 e 156), a quantidade da droga e as circunstâncias do flagrante evidenciam que as substâncias seriam destinadas à difusão ilícita.
+Com efeito, ao contrário do que alegou a douta Defesa (fl. 157), a quantidade de maconha apreendida foi significativa: 251,50g(dúzentos e cinquenta e um gramas e cinquenta centigramas).
+Além disso, os policiais militares LUCAS BORGES e FRANCISCO afirmaram, em Juízo, que no dia do fato, na abordarem do acusado, localizaram, além de um tablete de maconha, uma balança de precisão.
+Acrescente-se que a balança de precisão é um sinal indicativo de traficância, não merecendo guarida o argumento da douta Defesa de que "é comum usuários utilizarem balanças de precisão a fim de evitar que sejam enganados pelos traficantes"(fl. 157). No ponto, como bem salientou a douta magistrada sentenciante, não é crível que o acusado portasse uma balança de precisão para exigir que o traficante pesasse a droga, mormente diante do temor imputado por traficantes a usuários, e à sociedade em geral, "in verbis":
+(..)
+Ademais, o acusado, ao ser interrogado na seara policial e em Juízo, apresentou versões conflitantes: alegou na Delegacia que estava transportando a droga para terceiro, desconhecendo o conteúdo da sacola, ao passo que, em Juízo, alegou que a droga apreendida em seu poder era pra consumo próprio, o que fortalece ainda mais o acervo probatório.
+Acrescente-se, outrossim, que ainda que a condição de usuário houvesse sido comprovada nos autos, o que não aconteceu, não seria suficiente para a absolvição em relação ao crime de tráfico, pois é comum que usuários também comercializem substância entorpecente com a finalidade de sustentar o próprio vício.
+Assim, estando os depoimentos dos policiais e da testemunha WILLIAS em perfeita consonância com o Laudo Pericial, formando um acervo probatório robusto a ensejar a condenação do acusado no crime de tráfico descrito na denúncia, não há que falar em desclassificação da conduta para o tipo previsto no artigo 28 da Lei n. 11.343/2006, devendo ser mantida a condenação do apelante, nos exatos termos da sentença.
+Dessume-se da fundamentação transcrita que as instâncias ordinárias, soberanas na análise das provas dos autos, concluíram que os elementos de convicção colhidos nos autos configuram a conduta prevista no art. 33, caput, da Lei 11.343/06, porque comprovadas a materialidade e a autoria delitiva.
+Destarte, a reforma do aresto, no sentido de acolher a desclassificação da conduta tipificada no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) para o crime previsto no art. 28 da mesma lei (posse de substância entorpecente para uso próprio), demanda necessária incursão na seara probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7 desta Corte.
+Confiram-se, a propósito, os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA USO. MODIFICAÇÃO DO JULGADO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+- A Corte de origem manteve a sentença que desclassificou o delito de tráfico de drogas para uso. Rever essa premissa importa em incursão no conteúdo fático-probatório carreado aos autos, tarefa inviável em recurso especial, ex vi do Verbete n. 7 da Súmula deste Tribunal.
+Agravo regimental desprovido.
+(AgRg no AREsp 625.252/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 07/05/2015, DJe 18/05/2015)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES DE TRÁFICO ILÍCITO DE DROGAS. DESCLASSIFICAÇÃO PELO TRIBUNAL A QUO PARA USO PRÓPRIO. PLEITO PELA CONDENAÇÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Eg. Tribunal a quo, amparado na interpretação do arcabouço probatório dos autos, entendeu ter ficado comprovado que a droga apreendida fosse destinada ao uso próprio, sendo incabível a desconstituição de tal conclusão, em razão do óbice constante da Súmula 7, do STJ.
+2. Agravo regimental não provido.
+(AgRg no REsp 1317783/RJ, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 04/02/2014, DJe 11/02/2014)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. INTERPOSIÇÃO DE DOIS RECURSOS PARA A MESMA FINALIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE E PRECLUSÃO CONSUMATIVA. TRÁFICO DE DROGAS. USO PRÓPRIO. DESCLASSIFICAÇÃO OPERADA PELO TRIBUNAL DE ORIGEM. PRETENDIDO RESTABELECIMENTO DA SENTENÇA CONDENATÓRIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. CONSUMAÇÃO. EXTINÇÃO DA PUNIBILIDADE.
+1. Considerando-se que o Tribunal de origem desclassificou a conduta do agente por concluir que não há nos autos provas suficientes da destinação à difusão ilícita, inclusive, embasando sua decisão na prova oral colhida, o revolvimento desse entendimento esbarraria no óbice da Súmula 7/STJ, porque seria imprescindível reexaminar o contexto fático-probatório dos autos.
+  ..
+3. Agravo regimental do Ministério Público Federal não conhecido. Agravo regimental do Ministério Público de Goiás improvido.
+(AgRg no AREsp 491.040/GO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/06/2015, DJe 24/06/2015)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
