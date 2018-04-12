@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça de São Paulo, assim ementado:
+    “PRESTAÇÃO DE SERVIÇOS DE SANEAMENTO BÁSICO. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. ILEGITIMIDADE ATIVA ‘AD CAUSAM’ E PRESCRIÇÃO AFASTADAS. ARGUIÇÃO DE DECISÃO EXTRA PETITA PREJUDICADA ANTE O ACOLHIMENTO DO MÉRITO DA TESE DEFENSIVA. CRITÉRIO DE CÁLCULO DE TARIFA DE COLETA DE ESGOTO. EQUIPARAÇÃO AO VOLUME DE ÁGUA CONSUMIDO PELO USUÁRIO. LEGALIDADE. PARÂMETRO RESPALDADO EM LEGISLAÇÃO FEDERAL E ESTADUAL. REGIME TARIFÁRIO NÃO VINCULADO EXCLUSIVAMENTE À QUANTIDADE DE DEJETOS LANÇADOS PELO USUÁRIO. NECESSIDADE DE RECOMPOSIÇÃO DO EQUILÍBRIO ECONÔMICO- FINANCEIRO. RECURSO DA RÉ PROVIDO, PREJUDICADO O DO AUTOR”. (eDOC 15, p. 51)
+    Opostos embargos de declaração, estes foram rejeitados (eDOC 12, p. 58)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 5º, caput e II; 21, XIX; 22, IV; 37; e 93, IX, do texto constitucional.
+    Nas razões recursais, alega-se que o juízo a quo não teria sanado omissão e contradição do acórdão, mesmo após a oposição de embargos de declaração. (eDOC 16, p. 80)
+    No mérito, afirma-se que a recorrida fatura indevidamente a tarifa de coleta de esgoto baseada no consumo de água, apesar de nem toda a água fornecida ser devolvida à rede de esgoto. Sustenta que não há amparo legal para tal sistema de cobrança, previsto que está apenas no art. 5° do Decreto Estadual 41.466/1996, sem fundamento em lei; por outro lado, a disposição legal aplicável (art. 21 da 9.433/1997) determinaria a cobrança de acordo com o volume lançado ao esgotamento. (eDOC 16, p. 82)
+    Aduz também que há violação à isonomia entre os consumidores, pois a Sabesp cobraria de outros usuários a tarifa de esgoto em fração (0,8 ou 0,6) do volume de água fornecida, não sobre a integralidade. (eDOC 16, p. 85)
+    É o relatório.
+    Decido.
+    Verifico que o presente recurso submete-se ao regime jurídico do Código de Processo Civil de 1973, tendo em vista que impugna decisão publicada em data anterior a 17.3.2016.
+    A irresignação não merece prosperar.
+    Inicialmente, não conheço do recurso quanto às alegações de violação ao art. 93, IX, por negativa de prestação jurisdicional, tendo em vista que o Tribunal de origem já o julgou prejudicado no ponto, aplicando o tema 339 da repercussão geral quanto a essa questão. (eDOC 18, p. 54)
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Federal 4.473/1997 e Decreto 41.446/96 do Estado de São Paulo), consignou que esta determina o cálculo da tarifa de coleta de esgoto baseado no consumo de água, como era realizado pela recorrida. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Desse modo, à luz da legislação estadual, plenamente válido o regime tarifário aplicado pela concessionária ré, porquanto, legalmente prevista a equiparação do volume de água consumido à quantidade de efluentes sanitários despejados, na proporção de 1:1, para fins de cálculo da remuneração do serviço de coleta de esgoto.
+    O Decreto nº 41.446/96 não afronta o artigo 175 da Constituição Federal e muito menos a Lei de Recursos Híbridos (lei 4.473/97) ou ainda o Código de Defesa do Consumidor, encarregava a SABESP da gestão de captação, tratamento e distribuição de águas, conforme reservado pela Lei Federal nº 6.528/78 e seu regulamento (Decreto nº 82.587/78)”. (eDOC 15, p. 55)
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesses termos, incide no caso a Súmula 280 do Supremo Tribunal Federal.
+    Ademais, ressalta-se que, nos termos da Súmula 636 do STF, não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário. 2. Tarifa de água e esgoto. Critérios utilizados para classificação do imóvel. Controvérsia decidida com base no Decreto 41.446/1996 do Estado de São Paulo. 3. Incidência da Súmula 280. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”. (RE 603533 AgR, de minha relatoria, Segunda Turma, DJe 30.5.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. FORNECIMENTO DE ÁGUA E ESGOTO. CRITÉRIO DE FIXAÇÃO DA TARIFA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 823934 AgR, rel. Min. Cármen Lúcia, Segunda Turma, DJe 28.11.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, a, do CPC c/c art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
