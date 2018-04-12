@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que o ora agravante foi condenado como incurso no art. 157, § 2º, incisos I e II, do Código Penal - CP (roubo majorado, por duas vezes), às penas totais de 18 anos e 2 meses de reclusão, e pagamento de 42 dias-multa, em regime fechado.
+Irresignado, a defesa ajuizou revisão criminal, pleiteando o reexame da dosimetria das penas fixadas e o reconhecimento da continuidade delitiva.
+O Tribunal de origem julgou improcedente a ação revisional, em acórdão assim ementado:
+REVISÃO CRIMINAL. CONTRARIEDADE A TEXTO DE LEI E À EVIDÊNCIA DOS AUTOS. REEXAME DE PROVAS. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO. AFASTAMENTO DE AGRAVANTES. CAUSAS DE AUMENTO DE PENA. PRINCÍPIO DA ABSORÇÃO. CONTINUIDADE DELITIVA. PEDIDO IMPROCEDENTE.
+1. A revisão criminal é ação de natureza constitutiva que tem por escopo rescindir coisa julgada em matéria criminal, nas estritas hipóteses elencadas no art. 621 do Código de Processo Penal, não funcionando como apelação, para reexame das provas ou como manifestação de inconformismo quanto à condenação.
+2. A subsunção ou não da situação dos autos às hipóteses previstas no art. 621 do Código de Processo Penal não representa condição preliminar para o conhecimento da revisão, mas sim seu mérito.Preliminar do Ministério Público Federal afastada. Precedentes desta Seção.
+3. O julgado majorou a pena-base com base em minucioso exame do caso concreto. Destacou, em especial, a gravidade concreta do crime, concluindo pela existência de circunstâncias desfavoráveis ao requerente. Em relação ao roubo do veículo, o julgado expressamente ressaltou que o requerente, acompanhado de outro acusado, manteve o proprietário do automóvel sob seu jugo,mediante o emprego de grave ameaça, optando por subtrair o bem sem a liberação da vítima. Aumentos das penas-base justificados.
+4. No tocante à segunda fase da dosimetria da pena, ao contrário do alegado, não há violação ao disposto no 61, I, c.c. o art. 63, ambos do Código Penal, quanto à aplicação da reincidência com base em folha de antecedentes. Precedentes do STJ.
+5. Não há qualquer impedimento à aplicação da agravante da reincidência a mais de um crime praticados em concurso material,tendo em vista que, em se tratando de condutas autônomas, deverão ser valoradas de acordo com a situação pessoal do autor e, nesse aspecto, a reincidência será verificada em relação a cada um dos crimes, de acordo com o disposto no art. 63 do Código Penal.
+6. A aplicação da agravante prevista no art. 61, II, "b", do Código Penal, deu-se de acordo com a prova dos autos, tendo em vista que o roubo do veículo foi praticado com o propósito de se desvencilhar da perseguição policial. Ademais, a lei não impõe limites mínimo e máximo para a sua incidência.
+7. Com relação às causas de aumento de pena previstas no art. 157,§ 2º, I e II, do Código Penal, a aplicação da fração de 1/2 (meio) em relação a ambos os roubos, encontra-se fundamentada, baseando-se em dados concretos, diversamente do que alega o requerente, não havendo qualquer violação à Súmula nº 443. Além disso, o julgado é anterior a Súmula.
+8. Deve ser mantido o acórdão no tocante ao reconhecimento do concurso material no caso concreto, uma vez que os réus praticaram mais de um crime a partir de condutas diversas, subtraindo mediante o emprego de violência, o patrimônio dos correios e, na seqüência, o veículo de propriedade de um particular com a finalidade de assegurar a impunibilidade do primeiro delito. Portanto, trata-se de delitos praticados por meio de condutas diferentes e em circunstâncias também distintas, não se configurando a unidade de crimes ou a continuidade delitivas.
+9. Preliminar afastada e revisão julgada improcedente (fls. 74-75).
+Na petição de recurso especial, a defesa alega violação dos arts. 33, § 2º, "b", 59 e 61, I e II, "b", 63, 69, 71, e 157, § 2º, I e II, do Código Penal.
+Sustenta que as penas-base foram fixadas acima do mínimo legal sem fundamentação concreta, pois inexistem argumentos para justificar a exasperação pela culpabilidade e personalidade.
+Alega que a folha de antecedentes não é documento apto à comprovação da reincidência e que há bis in idem pela utilização do mesmo antecedente criminal para majorar as penas dos dois roubos.
+Assevera que não se justifica a aplicação da agravante com fundamento no fato do roubo do veículo ter sido "com o firme propósito de se desvencilhar da perseguição policial, que já se havia iniciado após o primeiro delito".
+Aduz, ainda, que a pena foi aumentada na terceira fase tão somente em razão do número de majorantes e que o roubo do veículo ocorreu na mesma ação criminosa, devendo ser fixada a fração mínima e reconhecido o crime continuado, além de modificado o regime de pena.
+A r. decisão agravada não admitiu o recurso especial haja vista a incidência das Súmulas n. 7 e n. 83 desta Corte e pela prejudicialidade do pleito quanto ao regime de pena.
+Contraminuta às fls. 161-173.
+O Ministério Público Federal opina pelo desprovimento do recurso (fls. 186-189).
+É o relatório. Decido.
+Para melhor análise da matéria, dou provimento ao agravo, determinando a sua conversão em recurso especial.
+Publique-se. Intimem-se.
