@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME] contra decisão pela qual conheci em parte do recurso especial e, nesta extensão, neguei-lhe provimento, por entender que: (I) não há falar em nulidade da sentença, pois o relatório da sentença, não obstante seja sucinto, contém os elementos necessários à correta a identificação da controvérsia constante da lide; (II) os argumentos expostos no bojo das peças defensivas foram devidamente enfrentados por ocasião da fundamentação do decisum, circunstância que afasta a alegada nulidade; (III) eventual nulidade quanto à incidência do art. 1061 do Código de Civil de 1916 foi suprida em razão do pronunciamento emitido pelo órgão colegiado, o qual consignou expressamente a inaplicabilidade do dispositivo legal; (IV) em se tratando de ação civil na qual se discute a responsabilidade pessoal da recorrente quanto aos fatos narrados pelo Ministério Público, não se faz imperativa a presença do administrador da massa insolvente; (V) a alteração das conclusões adotadas pela Corte de origem, de modo a afastar a participação da recorrente, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ; e (VI) o dissídio jurisprudencial não foi comprovado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+A parte embargante alega que o ponto fulcral de sua defesa não foi julgado, qual seja, o fato de que a indenização por perdas e danos nas obrigações de pagamento em dinheiro se resolvem com o pagamento de juros e mais custas judiciais, como previsto no art. 1.061 do Código Civil de 1916 e no art. 249 do Código Comercial.
+Impugnação às fls. 1.356/1.359 e 1.361/1.364.
+É o relatório. Passo a decidir.
+A irresignação não merece acolhida.
+De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+No caso em exame, não há omissão há ser sanada, pois, conforme já consignado, o órgão colegiado local consignou expressamente a inaplicabilidade do art. 1061 do Código de Civil de 1916, nos seguintes termos (fl. 1.001):
+ ..
+Consigne-se, no mais, que o dano, no caso, não se classifica em contratual, posto que a responsabilidade civil dos demandados é decorrente da violação de não prejudicar.
+Portanto, o argumento de que as perdas e danos resolvem- se no pagamento de juros e custas entremostra-se superável, visto que não sobrevém de inadimpíemento de obrigação de pagamento em dinheiro. Logo, a indenização deve corresponder ao real prejuízo sofrido pelo ofendido.
+ ..
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeitam-se os embargos declaratórios.
+Publique-se.
