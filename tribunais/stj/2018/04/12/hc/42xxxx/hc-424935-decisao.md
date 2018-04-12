@@ -1,0 +1,39 @@
+EMENTA
+HABEAS CORPUS. ROUBO. PENA-BASE. EXASPERAÇÃO. LEGALIDADE. VIOLÊNCIA EXACERBADA. REGIME FECHADO. GRAVIDADE CONCRETA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+DECISÃO
+Por meio deste writ, a Defensoria Pública vem a esta Corte requerer a concessão da ordem, inclusive liminarmente, para que seja revista a pena de Reverton Eric da Silva Correa no Processo n. 0002967-97.2016.8.26.0635, da 25ª Vara Criminal da comarca de São Paulo, afastando-se a exasperação na primeira fase da dosimetria - sob o argumento de que o emprego de violência já foi levado em consideração pelo Legislativo para majorar a pena do crime de roubo (fl. 2), tratando-se elementar do tipo penal - e, com isso, alterando-se o regime prisional para o aberto.
+O pedido de liminar foi indeferido (fls. 28/29).
+Dispensadas as informações, o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República [NOME], manifestou-se pela denegação da ordem (fls. 34/35).
+É o relatório.
+A respeito do alegado, asseverou o Tribunal a quo (fls. 22/23 - sem grifos no original):
+A reprimenda merece alteração.
+A pena-base foi fixada em 1/4 acima do mínimo legal pelos registros criminais (fls. 22/24, 48/50 e 74/75) e em razão da violência empregada contra a vítima, alcançando a pena de 5 anos de reclusão, com 20 dias-multa, mínimos.
+Afasta-se a exasperação da base pelos registros criminais, porquanto o crime mencionado pelo magistrado sentenciante é posterior ao crime destes autos e não pode servir de fundamento para exasperar a pena-base. Por outro lado, o réu demonstrou extrema violência ao desferir um soco na boca da vítima, lesionando-a. Destarte, reduzo o aumento da pena-base para 1/6, e ausentes atenuantes e agravantes, alcança-se a pena final de 4 anos e 8 meses de reclusão e 11 dias-multa, no valor unitário mínimo legal.
+Não se cogita de abrandamento do regime prisional, pois o mais adequado para o cumprimento da pena reclusiva imposta ao apelante era, de fato, o fechado, já que condenado por crime de roubo, infração penal repugnante que, por suas circunstâncias e consequências, desassossega a sociedade e causa traumas profundos em suas vítimas.
+ ..
+Importante consignar, a propósito, que não há qualquer ilegalidade na fixação do referido regime inicial, e nem ofensa às Súmulas 718 e 719, do Supremo Tribunal Federal, pois os fatos concretos e as circunstâncias judiciais aferidas (violência física empregada contra a vítima), ambos extraídos dos autos, demonstram não ser recomendável a adoção de regime prisional mais brando, sobretudo para não se provocar afrouxamento excessivo e intolerável estímulo ao criminoso, forjando, em seu espírito, a sensação de uma ilusória impunidade.
+Sabe-se que, em princípio, questões relativas à dosimetria da pena não são suscetíveis de apreciação em sede de habeas corpus, pois depende da valoração de circunstâncias fáticas, o que é próprio de se fazer nas instâncias ordinárias. Apenas nos casos em que haja infringência aos critérios legais ou flagrante desarrazoabilidade do critério adotado nas instâncias ordinárias para o estabelecimento da pena, é possível corrigir-se a dosimetria por esta via especial.
+Na hipótese, não há flagrante ilegalidade a ser sanada.
+Com efeito, bem ponderou o Ministério Público Federal (fl. 35):
+A ordem deve ser denegada.
+As elementares da grave ameaça ou violência a pessoa, no crime de roubo, foram valoradas abstratamente pelo legislador. Restando ao julgador, no caso concreto, apreciar a intensidade da violência, que pode se fazer presente em maior ou menor grau, a fim de fixar a pena-base adequada dentro do intervalo legalmente previsto. No caso dos autos, o réu demonstrou extrema violência ao desferir um soco na boca da vítima, lesionando-a. Assim, não há que se falar em afastamento da exasperação na primeira fase da dosimetria.
+Noutro giro, a fixação do regime fechado está amparada nas circunstâncias judiciais consideradas desfavoráveis ao acusado, bem como no descumprimento das condições de sua liberdade provisória, em razão de ter novamente cometido o delito de roubo. Desse modo, não faz jus ao regime mais brando.
+No mesmo sentido, confiram-se os seguintes precedentes:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. ROUBO SIMPLES TENTADO. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL DE FORMA PROPORCIONAL E FUNDAMENTADA. REGIME PRISIONAL FECHADO. MANUTENÇÃO. PACIENTE REINCIDENTE E COM PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL, ANTE A PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. NÃO APLICAÇÃO DA SÚMULA N. 269/STJ. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+- Nos casos em que a conduta do agente transcender ou extrapolar as circunstâncias ou consequências naturais do tipo, a violência excessiva poderá servir de fundamento para a elevação da pena-base.
+- Hipótese em que inexiste constrangimento ilegal na fixação da pena-base em apenas 1/6 acima do piso legal, com lastro na valoração desfavorável do vetor relativo às circunstâncias do delito, diante da efetiva violência empregada pelo paciente contra a vítima, que caiu ao chão após ser brutalmente empurrada, evidenciando, assim, um modus operandi violento, que desbordou dos elementos normais do tipo penal violado. Precedentes.
+- Esta Corte firmou o entendimento no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada na reincidência ou nas circunstâncias judiciais previstas no art. 59 do Código Penal. Inteligência da Súmula n.
+440/STJ E Súmulas 718 e 719, ambas do STF.
+- Por outro lado, segundo o enunciado n. 269 da Súmula desta Corte, é admissível a fixação do regime prisional semiaberto ao réu reincidente condenado a pena igual ou inferior a quatro anos, quando favoráveis as circunstâncias judiciais. - Hipótese em que, apesar de a pena final do paciente ter sido estabelecida em patamar inferior a quatro anos de reclusão e a reincidência não ser empecilho, por si só, à fixação do regime intermediário, o fato de o acusado possuir circunstância judicial desfavorável, que justificou a exasperação da pena-base acima do mínimo legal, impede o reconhecimento do alegado constrangimento ilegal, devendo ser mantido o regime fechado para início de cumprimento da pena. Precedentes.
+- Habeas corpus não conhecido.
+(HC n. 421.934/RJ, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 7/12/2017)
+AGRAVO REGIMENTAL. HABEAS CORPUS. DESCLASSIFICAÇÃO DO CRIME DE ROUBO PARA FURTO. NECESSIDADE DE INCURSÃO NA SEARA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. VIA ANGUSTA DO HABEAS CORPUS. AUMENTO DA PENA-BASE. CULPABILIDADE. VIOLÊNCIA EXCESSIVA QUE DESBORDA DO TIPO PENAL. 1.
+Tendo o Tribunal a quo concluído, no julgamento da apelação interposta pela acusação, que a conduta perpetrada pelo agente subsume-se ao tipo penal previsto no artigo 157 do Código Penal, e não ao tipo previsto no artigo 155 do mesmo diploma legal, a alteração de tal entendimento exigiria a incursão aprofundada nas provas e demais elementos de convicção dos autos, em cognição plena, vertical e exauriente, o que não é possível em habeas corpus. Precedentes.
+2. O aumento na pena-base decorrente da análise da culpabilidade do agente, deu-se pela verificação da excessiva agressividade do agravante, que ultrapassou a violência inerente ao tipo penal, razão pela qual não merece qualquer reparo a dosimetria levada a efeito nas instâncias ordinárias.
+3. Agravo regimental não provido.
+(AgRg no HC n. 340.400/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2017)
+Ante o exposto, denego a ordem.
+Publique-se.
