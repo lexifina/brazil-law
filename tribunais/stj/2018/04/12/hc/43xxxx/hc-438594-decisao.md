@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, impetrado em favor de [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento ao apelo da defesa, mantendo a condenação do paciente às penas de 6 anos e 8 meses de reclusão e 666 dias-multa, pelo crime do art. 33, caput, da Lei 11.343/06, mantidos os demais termos da sentença condenatória.
+Dos elementos que instruem os autos, verifica-se que o paciente foi denunciado pela prática do delito previsto no art. 33, caput, da Lei 11.343/06, porque tinha em depósito, guardava e vendia drogas, para a entrega e consumo de terceiros, consistentes em 06 porções de cocaína na forma de "crack" com peso de 14,1 gramas; 06 porções de cocaína em pó com peso de 17,2 gramas e 09 porções de cocaína em pó com peso de 22 gramas.
+Após o encerramento da instrução criminal, o paciente foi condenado às penas de 6 anos e 8 meses de reclusão e 666 dias-multa, pelo crime do art. 33, caput, da Lei 11.343/06.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, que negou provimento ao recurso.
+Neste writ, o impetrante alega constrangimento ilegal em virtude da ausência de fundamentação idônea a justificar o aumento de 1/3 pela reincidência, razão pela qual deve ser reduzida a elevação da pena na segunda fase da dosimetria para 1/6 (um sexto).
+Requer a concessão da ordem, para que seja reduzido o aumento da reprimenda pela reincidência para a fração mínima de 1/6 (um sexto).
+A liminar foi indeferida (fls. 271/272).
+Informações prestadas às fls. 278 e 360/361.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 382/385).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do artigo 105 da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+A propósito:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO DE ENTORPECENTES. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. MAUS ANTECEDENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA. MATÉRIA NÃO DEBATIDA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Consoante o disposto no artigo 42 da Lei 11.343/2006, na fixação da pena do crime de tráfico de drogas, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente.  ..
+- Habeas corpus não conhecido.
+(HC 406.549/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Em relação ao quantum de aumento procedido em razão da agravante da reincidência, verifica-se que o juízo sentenciante elevou a reprimenda em 1/3 (um terço), tendo o Tribunal a quo mantido a fração adotada, por entender ser a mais adequada à hipótese de crime específico, com base nos seguintes termos, litteris:
+A pena a ele imposta foi fixada com equilíbrio e justiça, não merecendo reparo algum.
+Neste sentido, a pena-base foi fixada no mínimo legal. Já na segunda fase de aplicação da pena, foi observada a reincidência específica (fls. 119), conforme acertada observação do magistrado de primeiro grau: "em segunda fase de aplicação vislumbro a inexistência de atenuantes e a presença da reincidência e a prática de novo delito em pleno cumprimento de pena em regime aberto" (fls. 184), não havendo que se falar, portanto, em aplicação de menor fração, pois tal quadro vislumbra uma reprimenda mais severa. Dessa forma, a pena foi agrava em 1/3 (um terço), totalizando 06 (seis) anos e 08 (oito) meses de reclusão, em regime inicial fechado, e ao pagamento de 666 (seiscentos e sessenta e seis) dias- multa, calculados no mínimo legal. (fls. 257/258)
+De acordo com a doutrina: "Ponto relevante, que merece abordagem preliminar, refere-se ao quantum das agravantes e atenuantes. A norma do art. 61 limitou-se a estipular que as circunstâncias ali previstas sempre agravam a pena, embora não tenha fornecido, como ocorre em outros Códigos estrangeiros, qualquer valor. O mesmo ocorre com o disposto no art. 65, que determina dever ser a pena atenuada, porém sem qualquer menção ao montante" (NUCCI, Guilherme de Souza, Individualização da Pena, 3ª ed., RT:SP, 2009, p. 212).
+Não obstante o entendimento doutrinário majoritário sobre o tema haver se firmado no sentido de que o aumento por cada agravante ou atenuante deva ser equivalente a 1/6 da pena-base (menor montante fixado para as causas de aumento ou diminuição da pena), a fim de se evitar a aplicação em quantidades aleatórias, ao arbítrio do magistrado, este Superior Tribunal tem orientado no sentido de que o patamar de acréscimo pela circunstância agravante deve observar os princípios da proporcionalidade, da razoabilidade, da necessidade e suficiência à reprovação e prevenção ao crime, informadores do processo de aplicação da pena.
+Nesse norte:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. FURTO QUALIFICADO. DOSIMETRIA. AGRAVANTE. REINCIDÊNCIA ESPECÍFICA. MAJORAÇÃO EM 1/4 DA PENA-BASE. MOTIVAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. Os Tribunais Superiores restringiram o uso do habeas corpus e não mais o admitem como substitutivo de recursos, e nem sequer para as revisões criminais.
+2. O entendimento desta Corte é no sentido de inexistir ilegalidade ou desproporcionalidade no aumento superior a 1/6 da pena-base, na sua dosimetria, quando presente agravante, desde que, considerando as peculiaridades do caso concreto, o julgador justifique a adoção de patamar diverso  .. .
+(HC 277.995/RS, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 18/02/2014, DJe 21/02/2014)
+No caso, da leitura do acórdão impugnado, verifica-se que o aumento de 1/3 (um terço) mostra-se proporcional à justificativa apresentada, qual seja, a reincidência específica do paciente, não havendo falar em ilegalidade a ser sanada.
+A propósito:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. AGRAVANTE DA REINCIDÊNCIA. CONDENAÇÃO DEFINITIVA ANTERIOR PELO MESMO DELITO. APLICAÇÃO DA FRAÇÃO DE 1/3. AUMENTO PROPORCIONAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. O Superior Tribunal de Justiça firmou entendimento de que, embora ausente previsão legal acerca dos percentuais mínimo e máximo de elevação da pena em razão da incidência das agravantes, o incremento da pena em fração superior a 1/6 (um sexto) exige fundamentação concreta.
+3. Na hipótese, sendo específica a reincidência do agente, não há ilegalidade no aumento da pena na fração de 1/3, a autorizar excepcionalmente a intervenção desta Corte.
+4. Habeas corpus não conhecido.
+(HC 380.574/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/06/2017, DJe 17/08/2017)
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. WRIT SUBSTITUTIVO. PENA-BASE UM ANO ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. REINCIDÊNCIA ESPECÍFICA. AUMENTO DA PENA EM 1/3. MANIFESTO CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. É razoável a fixação da pena-base do crime de roubo um ano acima do mínimo legal ante os maus antecedentes do réu, principalmente ante a reiteração no cometimento de crime de natureza patrimonial, com violência ou grave ameaça contra pessoa.
+2. Consoante a jurisprudência desta Corte, apesar de não estabelecida pela norma penal a quantidade de aumento de pena em decorrência das agravantes genéricas, deve ela se pautar pelo percentual mínimo fixado para as majorantes, que é de 1/6.
+Entretanto, é admitida como razoável a adoção de percentual superior mediante fundamentação concreta (multirreinciência, reincidência específica).
+3. Não há desproporcionalidade na exasperação da pena do paciente em 1/3, pois a instância antecedente destacou sua reincidência específica.
+4. Habeas corpus não conhecido.
+(HC 331.534/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/10/2015, DJe 27/10/2015)
+Diante do exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, por se afigurar manifestamente incabível, não conheço do habeas corpus.
+Publique-se. Intimem-se.
