@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado .do Mato Grosso do Sul, assim ementado:
+"APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - LEGITIMIDADE ATIVA DO EMBARGANTE - AQUISIÇÃO DE ÁREA OBJETO DE LITÍGIO - POSSE E TURBAÇÃO DEMONSTRADAS - TERCEIRO DE BOA-FÉ - INEXISTÊNCIA DE SUCESSÃO NA POSSE - RECURSO NÃO PROVIDO." (e-STJ, fl. 62)
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 97/100).
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 333, I, 334, IV, 335 e 1.046 do Código de Processo Civil de 1973 e divergência jurisprudencial, sustentando, em síntese, (a) que não houve a devida análise dos elementos probatórios dos autos; (b) que o embargante não é terceiro de boa-fé e que o embargante é sucessor de [NOME] e, por isso, não poderia ingressar com embargos após a citação dos réus na ação de reintegração de posse.
+O Ministério Público Federal opinou pelo não provimento do agravo (e-STJ, fls. 198/200).
+É o relatório. Decido.
+O Tribunal de origem, ao negar provimento à apelação e manter a sentença, concluiu, com base nos elementos fático-probatórios dos autos, pela procedência dos embargos de terceiro do ora recorrido, ante os seguintes fundamentos:
+Isso porque, a ação versa sobre embargos de terceiro em que o embargante busca a exteriorização do domínio da posse na coisa. Sabe-se que a lei confere ao proprietário proteção, desde que fundada a posse e o esbulho, dispondo o art. 1. 046, caput e § 1º do CPC:
+Art. 1.046 - Quem não sendo parte no processo, sofrer turbação ou esbulho na posse de seus bens por ato de apreensão judicial, em casos como o de penhora, depósito, arresto, seqüestro, alienação judicial, arrecadação, arrolamento, inventário, partilha, poderá requerer lhe sejam manutenidos ou restituídos por meio de embargos.
+§ 1º - Os embargos podem ser de terceiro senhor e possuidor, ou apenas possuidor.
+Como se nota, a ação de embargos de terceiro nada mais é que uma ação formulada por um terceiro, em defesa de seus bens objeto de apreensão judicial estabelecida por medida do juiz, em um processo do qual não é parte integrante.
+Para tanto, a finalidade dos embargos de terceiro é liberar o bem, que é de posse e domínio de terceiro estranho à relação processual, ora apreendido por ato judicial, no caso dos autos, a reintegração de posse.
+Dessa maneira, como já bem constatado pelo juízo a quo, tendo o embargante comprovado por meio de provas documentais e testemunhais que é o possuidor da área objeto da lide, e considerando-se a turbação pela constrição judicial, restaram efetivamente caracterizados tanto a sua legitimidade ativa quanto o seu interesse na resolução da lide.
+Ainda, segundo ressaltou a magistrada, o laudo pericial realizado nos autos principais, também atestou que o ora recorrido é o possuidor da área em discussão.
+Assim, não merecem prosperar as afirmações de que o embargante não possui a condição de terceiro de boa-fé.
+Quanto à alegação de que o embargante é sucessor indireto de [NOME] e que dessa forma não poderia ingressar com os embargos após a citação dos réus na ação de reintegração de posse, razão não assiste aos recorrentes.
+Conquanto tenham sustentado os apelantes que o "vendedor" do imóvel, [NOME], seria sucessor da ré lngrid [NOME], esse fato não indica ou transforma o adquirente de boa-fé em sucessor indireto.
+Até mesmo porque, nem sequer a pessoa de [NOME] faz parte da ação principal, como réu, não havendo falar em sucessão na posse após a citação.
+Outrossim, não há prova nos autos de que o recorrido tinha conhecimento de litígio envolvendo a área. Pelo contrário, os indícios demonstram que não teve a oportunidade de saber da demanda, pois residia em outra comarca." (e-STJ, fls. 63/64)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, para reconhecer demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Ademais, a Corte local, ao aplicar julgar procedentes os embargos de terceiro, informaram especificamente a condição de terceiro de boa-fé do recorrido, bem como a sua não condição de sucessor indireto, assim como o seu não conhecimento do litígio acerca da área por residir em outra comarca. Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
