@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Eis a síntese da decisão prolatada pelo Tribunal de Justiça do Estado do Rio de Janeiro:
+    Agravo contra decisão monocrática do Relator que negou seguimento a agravo de instrumento interposto de decisão que determinou a intimação do Agravante, na forma do artigo 475-J do CPC, para pagamento do montante de R$ 300.000,00, referente à multa cominatória decorrente do descumprimento da obrigação de fazer que lhe fora imposta na sentença, acrescido de honorários advocatícios de R$ 2.000,00. Decisão agravada que reduziu a multa cominatória arbitrada na sentença e determinou a intimação do Agravante para seu pagamento na forma do artigo 475-J do CPC. Agravo de instrumento que constitui via inadequada para que o Agravante se volte contra o valor da multa cominatória, devendo o mesmo se valer da impugnação de que trata o art. 475-J, § 1º do CPC. Desprovimento do agravo.
+    No extraordinário cujo trânsito busca alcançar, o recorrente alega a violação do artigo 5º, incisos V, XXXV, LIV e LXXVIII, da Constituição Federal. Argui a nulidade da decisão por negativa de prestação jurisdicional. Diz contrariados os princípios da razoabilidade e da proporcionalidade, aludindo ao valor da multa como exorbitante.
+    2. Descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica, abordando os temas suscitados neste extraordinário quanto à inadequação do meio para impugnação do valor fixado a título de multa cominatória diária.
+    A par deste aspecto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 12 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
