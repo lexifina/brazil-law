@@ -1,0 +1,34 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. MULTA COMINATÓRIA. REVISÃO DO VALOR FIXADO NAS INSTÂNCIAS DE ORIGEM. IMPOSSIBILIDADE. VALOR ARBITRADO EM PATAMAR RAZOÁVEL. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO AMAZONAS com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJAM, assim ementado (fl. 176):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. ESCOLA. SEGURANÇA CONTRA INCÊNDIO. IRREGULARIDADES CONSTATADAS. AUSÊNCIA DE PROJETO. NECESSIDADE DE OBSERVÂNCIA AO RELATÓRIO 133/2014 DO CORPO DE BOMBEIROS MILITAR DO ESTADO DO AMAZONAS. ASTREINTES. POSSIBILIDADE.
+1. É dever do Poder Público implementar infraestrutura necessária às instituições de ensino, de forma a proporcionar segurança aos alunos, professores e demais funcionários.
+2. Ausência de projeto de combate a incêndio e falta de comprovação de que a irregularidade foi sanada no estabelecimento escolar.
+3. É lícito ao magistrado fixar multa contra a Fazenda Pública com o objetivo de assegurar o adimplemento da obrigação de fazer.
+4. Recurso conhecido e não provido.
+Embargos de declaração opostos pela Municipalidade acolhidos para limitar a multa cominatória fixada em sentença a 10 dias-multa, assim ementado (fl. 201):
+PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO - ASTREINTE - REDUÇÃO - POSSIBILIDADE - ART. 537, § 1º, I, CPC/2015 - PRINCÍPIO DA RAZOABILIDADE - OMISSÃO CONFIGURADA - ACLARATÓRIOS ACOLHIDOS.
+O recorrente alega violação dos artigos 536 e 537 do CPC/2015 sob o fundamento de que o valor da multa cominatória fixada pelo juízo de piso não é exorbitante, devendo ser integralmente mantida.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 258/260.
+É o relatório. Passo a decidir.
+Em relação ao valor fixado a título de multa cominatória, prevalece no âmbito desta Corte o entendimento de que somente é admitida a sua revisão nas hipóteses em que ele tenha sido fixado em valor irrisório ou abusivo, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+No caso dos autos, o Tribunal de origem, após análise das circunstâncias de fato presentes na demanda, entendeu por bem limitar a 10 dias-multa as astreintes fixadas no juízo de piso no valor de R$ 5.000,00, perfazendo o montante da indenização a R$ 50.000,00.
+Desta forma, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7 deste Tribunal. Neste sentido:
+"ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MONITOR CARDÍACO. O SOBRESTAMENTO DO JULGAMENTO DE PROCESSOS EM FACE DE RECURSO REPETITIVO (ART. 543-C DO CPC/1973) SE APLICA APENAS AOS TRIBUNAIS DE SEGUNDA INSTÂNCIA. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/1973. INOVAÇÃO RECURSAL. IMPOSIÇÃO DE MULTA DIÁRIA. VALOR ARBITRADO EM R$ 10.000,00. RAZOABILIDADE. INEXISTÊNCIA DE EXORBITÂNCIA. AUSÊNCIA DE ARGUMENTAÇÃO APTA A INFIRMAR AS CONCLUSÕES DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial deste Superior Tribunal de Justiça firmou entendimento de que o comando legal que determina a suspensão do julgamento de processos em face de recurso repetitivo, nos termos do art. 543-C do CPC/1973, somente é dirigido aos Tribunais de segunda instância, e não abrange os Recursos Especiais já encaminhados ao STJ.
+2. As alegações trazidas no Agravo Regimental, relativas a suposta violação do art. 535 do CPC/1973, não podem ser examinadas, porquanto não foram suscitadas por ocasião da interposição do Recurso Especial, constituindo-se indevida inovação recursal, o que é defeso na oportunidade do Agravo.
+3. Na hipótese, a multa diária foi fixada levando-se em consideração as peculiaridades do caso, de forma que o acolhimento das alegações deduzidas pela parte recorrente demandaria, necessariamente, a incursão no acervo fático-probatório da causa, medida vedada em sede de Recurso Especial. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, o que não é o caso dos autos.
+4. Agravo Regimental do Estado de Pernambuco a que se nega provimento." (AgRg no AREsp 691.349/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 09/03/2018).
+"PROCESSUAL CIVIL. TELEFONIA. CÁLCULOS DE LIQUIDAÇÃO. JUNTADA DE DOCUMENTOS. MULTA COMINATÓRIA. ALTERAÇÃO DOS CRITÉRIOS. REDUÇÃO DO VALOR. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. JUROS DE MORA NÃO INCIDE SOBRE A MULTA. PRECEDENTE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO. 1. Cuida-se, na origem, de Agravo de Instrumento interposto pela OI S.A., ora recorrida, contra decisão do Juiz de primeiro grau, que rejeitou o incidente de impugnação oposto ao cumprimento de sentença movido pelo ora recorrente.
+2. O Tribunal a quo deu parcial provimento ao Agravo de Instrumento da ora recorrida.
+3. Esclareça-se que é firme o entendimento do STJ, de que só é admitida a revisão do valor da multa cominatória na hipótese em que ele tenha sido fixado em valor irrisório ou exorbitante, o que não se configura neste caso.
+4. O Tribunal de origem afirmou que "a decisão de antecipação de tutela deva ser relida, ao efeito de considerar que a multa não incida por dia, mas, sim, por fatura emitida de forma errada, o que se mostra mais congruente com a natureza da obrigação constante na ordem judicial." (fl. 1459, grifo acrescentado).
+5. Assim, rever a alteração dos critérios para a fixação da multa e a redução do seu valor implica revolvimento dos fatos e circunstâncias da causa, o que encontra óbice no enunciado da Súmula 7 do Superior Tribunal de Justiça. Nesse sentido: AgRg no AREsp 78.294/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 16/3/2016.
+6. No mais, o Tribunal de origem consignou que "evidente excesso de execução, bem como a ausência de emprego de todos os meios judiciais cabíveis para juntada das faturas que abrangem o período de condenação, dado necessário para liquidação do título exequendo" (fl. 1467, grifo acrescentado).
+7. Modificar o entendimento da Corte Regional demanda reexame do conjunto fático-probatório dos autos, obstado nos termos da Súmula 7/STJ. Nesse sentido: AgRg no REsp 1.260.800/RS, Rel. Ministro Castro Meira, Segunda Turma, DJe 23/4/2012.
+8. Por fim, esclareça-se que não incidem juros de mora sobre multa cominatória, pois configura evidente bis in idem. A propósito: AgRg no REsp 1.355.832/GO, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 18/5/2015.
+9. Recurso Especial parcialmente conhecido e, nessa parte, não provido." (REsp 1706976/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
