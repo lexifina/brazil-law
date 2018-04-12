@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo manejado por [NOME], contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 221):
+DIREITO PREVIDENCIÁRIO. AUXÍLIO-DOENÇA ACIDENTÁRIO. CONCESSÃO. LESÃO TEMPORÁRIA E PARCIAL. NEXO DE CAUSALIDADE COM A ATIVIDADE DESEMPENHADA. ATIVIDADE LABORAL PREJUDICADA. SENTENÇA CONFIRMADA.
+I. Constatada a perda parcial e temporária da capacidade laboral e o nexo de causalidade desta com as atividades desenvolvidas, o segurado tem direito à percepção do auxílio-doença acidentário.
+II. O auxílio-doença acidentário deve ser pago enquanto persistirem as lesões incapacitantes para o desempenho da atividade habitualmente exercida pelo trabalhador.
+III. Não há fundamento para o encaminhamento do segurado a programa de reabilitação ou para a concessão de aposentadoria por invalidez quando a prova técnica indica incapacidade laboral temporária e parcial.
+IV. Recurso voluntário e remessa obrigatória desprovidos.
+Opostos embargos de declaração foram rejeitados (fl. 258).
+Nas razões do apelo especial, a recorrente aponta violação aos arts. 489, § 1º, IV e 1.022, I e II, do CPC/2015, sustentando negativa de prestação jurisdicional, "diante da recusa em analisar trecho da prova pericial na qual se fundam os pedidos recursais de concessão do serviço de reabilitação profissional e auxílio-acidente" (fl. 274).
+Devidamente intimado, o INSS não apresentou contrarrazões ao recurso especial, conforme certidão de fl. 279.
+É o relatório.
+A irresignação não merece acolhimento.
+Com efeito, o Tribunal de origem, no voto proferido em sede de embargos de declaração consignou (fls. 261/265):
+Não se divisa omissão no acórdão impugnado, uma vez que todas as questões que constituem o objeto do recurso foram expressamente examinadas.
+O colegiado analisou as teses articuladas no recurso, apreciou os fatos, valorou as provas e solucionou a controvérsia à luz do direito que os julgadores entenderam aplicável à espécie.
+A respeito das conclusões do laudo pericial e da desnecessidade de inclusão da segurada em programa de reabilitação profissional, constou expressamente do julgado:
+(..)
+A r. sentença abordou a lide em toda a sua extensão e deu a solução mais consentânea com o direito vigente. Em razão da consistência dos seus fundamentos, passo a adotá-los como parte integrante deste voto:
+(..)
+A questão de fato resolve-se sem maiores complexidades, muito porque deve fundar-se na análise do quadro clínico e da perícia médica a que se submeteu o autor.
+Para fins de concessão de beneficio acidentário, necessária a presença de nexo causal entre a lesão/doença e a atividade laborai, a teor dos arts. 19, 20 e 21 da Lei nº 8213/91.
+Há prova do nexo causal entre o fato e o trabalho do autor, pois não obstante a ausência de emissão da CAT - Comunicação de Acidente do Trabalho pelo empregador, certo de que aquela expedida pelo sindicato (fls. 17/18) constitui mera declaração unilateral de vontade, inapta a produzir efeitos perante terceiros, certo é que a perícia médica judicial (fls. 89/99) atesta ser o autor portador de transtornos de discos cervicais com radiculopatia, concluindo que "a doença acima elencada está relacionada com tarefas executadas na função de bancária" e, sobretudo, que "as condições de trabalho da pericianda eram executadas com posições forçadas, gestos repetitivos, tudo isso como fator de riscos associados com a etiologia multicausal da entidade".
+O perito oficial ressalta ainda que "no próprio exame admissional da pericianda, conforme doe. fl. 44 foi relatada a presença de riscos ergonômicos, fator este que corrobora para a afirmação da existência do nexo de causalidade".
+Com efeito, não há dúvida da presença do nexo causal.
+O perito oficial revelou categoricamente que há incapacidade laboral temporária e parcial, de caráter multiprofissional, ou seja, para atividades que exijam esforço físico e movimentos repetitivos com os membros superiores, não se admitindo ainda sua inserção a programa de reabilitação, pois seu quadro clinico carece de avaliações médicas periódicas.
+Não se trata de lesão consolidada, pois poderá a patologia evoluir para ausência de sintomas, os quais, contudo, manifestam-se desde o afastamento previdenciário.
+Ao contrário do que insiste em afirmar o perito médico assistente do autor, não há prova de que a inaptidão funcional seja permanente e consolidada, pois a perícia médica judicial é aquela única isenta e imparcial, fundada em rigor cientifico sob o crivo do contraditório e da ampla defesa suficientes a avaliar com melhor precisão o quadro clinico do segurado.
+Trata-se, por isso, de restrição laborai, a demonstrar que a pretensão jurídica formulada encontra amparo no art. 59 da Lei nº 8213/91.
+Uma vez que assegurada a percepção de auxílio-doença acidentário, não persiste a necessidade nem a utilidade de outra perícia judicial em fase de liquidação de sentença. Ora, somente após reavaliação médica no INSS poder-se-á aferir se o autor ainda padece de incapacidade laboral, se ela é temporária ou permanente e, nesse último caso, se é parcial ou total, certo de que o INSS, no exercício de seu poder-dever de agir na esfera administrativa, poderá concluir pelo retorno do autor à sua atividade laboral, conceder auxílio-acidente ou mesmo aposentadoria por invalidez.
+E só após decisão do INSS que surgirá ou não pretensão de ter reconhecido o autor a percepção de outro benefício que não o auxílio-doença acidentário.
+Ou seja, a causa de pedir será diversa daquela ora em lide, poís a pretensão invocada limita-se objetivamente ao ato administrativo que cessou a percepção de auxílio-doença, e no caso, a sentença acolhe a pretensão para assegurar o beneficio acidentário.
+Não se admite que, em sede de liquidação dessa sentença, instaure-se novo contencioso a fim de dirimir a existência de capacidade laborai ou não do autor, o que exigirá nova perícia com fundamento, repita-se, em nova causa de pedir. Outra conclusão seria admitir a prolação de sentença condicional.
+Deve o autor perceber auxílio-doença acidentário desde 31/03/14 e não apenas seu homônimo estritamente previdenciário (fl. 131), até reavaliação médica administrativa do INSS.
+Também merece prosperar a conversão em acidentários dos benefícios concedidos às fls. 59 e 60, de 19/09/04 a 01/12/05 e de 10/01/06 a 20/07/09, dada a presença de nexo causal.
+Não se indaga de aposentadoria por invalidez, por não preencher o autor requisito para tanto indispensável, que consiste na incapacidade permanente e total para toda e qualquer atividade laborai, conforme o art. 42 da Lei nº 8213/91.
+Ainda que o pedido consubstancie-se de forma restrita, certo é que a causa de pedir é a mesma e os benefícios de caráter acidentário são postulados,seja em juízo ou mesmo na via administrativa, em caráter subsidiário um ao outro.
+Isto posto, julgo procedente em parte o pedido para condenar o réu converter em acidentários os benefícios de fls. 59 e 60, assim como para conceder auxílio-doença acidentário desde 31/03/14 até sua reavaliação médica administrativa perante o INSS, obrigando-se o réu a pagar ao autor as parcelas vencidas e não quitadas com incidência de correção monetária, desde o vencimento de cada parcela, e juros moratórios legais desde a citação do réu, abatendo-se o valor já pago administrativamente e/ou por força de tutela antecipada, e outras parcelas percebidas a titulo de salário e/ou beneficio de percepção legalmente incompatível, apurada a quantia devida em sede de liquidação de sentença, prescritas as parcelas que antecedem o qüinqüênio anterior à propositura da ação.
+Mantenho a produção dos efeitos da tutela antecipada anteriormente concedida.
+(..)
+Todas as questões de fato e de direito do litígio foram equacionadas com acerto, em especial a conclusão técnica da incapacidade parcial e temporária da Autora para atividades laborais que exijam determinados movimentos.
+A solução dada à lide está em perfeita sintonia com os artigos 59 e 62 da Lei 8.213/91, que versa sobre os Planos de Benefícios da Previdência Social. A propósito, explana [NOME]:
+No auxílio-doença, a incapacidade é presumidamente suscetível de recuperação. É, assim, beneficio concedido em caráter provisório, enquanto não há conclusão definida sobre as conseqüências da lesão sofrida. O beneficiário será submetido a tratamento médico e a processo de reabilitação profissional, devendo comparecer periodicamente à perícia médica (prazo não superior a dois anos), a quem caberá avaliar a situação.
+Dos tratamentos prescritos, não poderá o beneficiário ser obrigado a se submeter á intervenção cirúrgica e à transfusão de sangue. A perícia poderá concluir pela: a) insuscetibiiidade de recuperação para qualquer atividade - aposentando o segurado por invalidez; b) habilitação para o desempenho da mesma atividade ou de outra, sem redução de capacidade para o trabalho - cessando o benefício do auxílio-doença; c) consolidação das lesões, gerando seqüelas que impliquem a redução da capacidade para o trabalho que habitualmente exercia - cessando o auxílio-doença e gerando a concessão de auxílio-acidente, podendo o segurado retornar ao mercado de trabalho e d) continuação das condições geradoras do auxílio-doença - mantendo-se o beneficio e prosseguindo o tratamento. (Direito Previdenciário, 5a ed., Editora Lumen Júris, Rio de Janeiro, 2003; p. 99/100).
+Com efeito, havendo a cessação indevida do auxílio-doença, dada a incapacidade para o labor em razão das lesões decorrentes do acidente de trabalho e, de outro lado, a possibilidade de reabilitação em outra função, não há qualquer reparo à antecipação de tutela que restabeleceu o beneficio e à sentença que determinou o pagamento retroativo das parcelas não pagas. Nesse sentido, decidiu este Tribunal de Justiça:
+Evidenciadas, por meio de vasta documentação colacionada aos autos, a persistência das lesões e a perda temporária de capacidade laborativa, forçoso reconhecer o direito do autor ao recebimento do auxílio-doença acidentário durante o período entre a indevida cessação e o posterior restabelecimento do beneficio. (2012.01.1.071306-8 APC, 3a T., Rela. [NOME], DJe 21/05/2013).
+Tal como delineado o quadro clínico da Recorrente na prova pericial, não há fundamento para sua inclusão em Programa de Reabilitação Profissional e muito menos para a sua aposentadoria por invalidez.
+Demais disso, pretensão dessa ordem está em desconformidade com a própria causa de pedir e só poderá ser atendida, desde que satisfeitos os requisitos legais, depois de nova avaliação da Apelante pela autarquia previdenciária, mesmo porque a sistemática processual vigente não admite sentença condicional.
+Incensurável, pois, a sentença prolatada.
+(..) (grifo nosso)
+(..).
+Ausente, pois, o vício apontado.
+Isto posto, voto pelo desprovimento do recurso.
+Dessarte, observa-se pela fundamentação do acórdão recorrido, integrada em sede de embargos declaratórios, que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+Do exposto, nego provimento ao agravo.
+Publique-se.
