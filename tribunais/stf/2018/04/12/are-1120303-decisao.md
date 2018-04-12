@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso de agravo que tem por objeto decisão que inadmitiu recurso extraordinário interposto em face de acórdão assim ementado (eDOC-1, p. 182):
+    “APELAÇÃO – MANDADO DE SEGURANÇA – ISSQN – Consulta fiscal formulada perante o Fisco não tem o condão de suspender a exigibilidade do crédito tributário – Recolhimento após o prazo legal, com incidência de juros e multa – Denegação da ordem – Manutenção da sentença nos termos do artigo 252 do Regimento Interno deste Egrégio Tribunal – Recurso não provido.”
+    Os embargos de declaração foram desprovidos (eDOC -1, p. 205).
+    No recurso extraordinário, interposto com fundamento no permissivo constitucional do art. 102, III, a, alega-se ofensa aos arts. 5º, caput, XXXIV, e 150, II, da Constituição Federal.
+    Nas razões recursais alega-se, em síntese, violação ao princípio da segurança jurídica uma vez que possui o direito constitucional de petição para realização de consulta com a finalidade de orientar-se para melhor proceder e realizar o direito (eDOC 1, p. 234).
+    A Presidência da Seção de Direito Público do TJSP inadmitiu o extraordinário com base na Súmula 282 do STF (eDOC-1, p. 311).
+    É o relatório. Decido.
+    De início, convém reproduzir o assentado pelo Tribunal de origem, que ao julgar improcedente a apelação, confirmou a sentença de onde se extrai os seguintes fundamentos (eDOC-1, p. 183):
+    “A empresa impetrante é contribuinte do imposto. Antes da consulta já fazia o recolhimento do tributo.
+    Em outras palavras: não havia dúvida quanto à exação.
+    No entanto, no começo de 2011, a impetrante deixou de recolher o ISS e, em vez de pagar a guia, formulou consulta administrativa indagando da incidência do tributo.
+    Enquanto não respondia a consulta, a impetrante não recolheu o imposto. Ao final, com a resposta, a dívida da empresa havia sido majorada pelo acréscimo de juros e multa.
+    Assim, discute a impetrante os efeitos da consulta.
+    Os efeitos da consulta são claros, porque estão estipulados em lei: não se suspende a dívida enquanto não respondida a consulta.
+    Não cabe aqui discutir a regularidade do dispositivo porque, se a intenção da empresa era impedir os efeitos da mora, deveria ter consignado em pagamento.”
+    Assim, constata-se que eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, de modo a inviabilizar o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Confiram-se, a esse respeito, os seguintes julgados:
+    “Embargos de declaração em agravo regimental em recurso extraordinário. 2. Direito Tributário. 3. ISS. 4. Empresa fornecedora de concreto. Análise da possibilidade de dedução de valores relativos a materiais da base de cálculo do ISS. 5. Necessidade de reexame do acervo probatório. Precedente. 6. Ausência de impugnação específica dos fundamentos da decisão recorrida. Incidência das súmulas 284 e 279. 7. Inexistência de omissão, contradição ou obscuridade. 8. Pretensão de rediscussão de matéria. 9. Embargos de declaração rejeitados.” (RE 632409 AgR-ED, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 23.11.2016)
+    “Agravo regimental no agravo de instrumento. ISSQN. Possibilidade de dedução da base de cálculo veiculada pelo Decreto-lei nº 406/68. Falta de prequestionamento. Ofensa ao art. 5º, II, LIV, LV e XXXV. Reflexa. Multa de 50%. Fatos e provas. Súmula nº 279/STF. 1. Os arts. 5º, incisos II, XXXV, LIII, LIV e LV; 37, caput; e 93, inciso IX, apontados como violados, carecem do necessário prequestionamento. 2. A jurisprudência desta Corte é pacífica no sentido de que eventual contrariedade ao art. 5º, II, LV, LIV e XXXV, caso ocorresse, seria meramente reflexa ou indireta. 3. O acórdão recorrido decidiu pela inexistência de provas nos autos a comprovar que a situação da agravante se enquadrava na situação descrita no Decreto-lei nº 406/68, o qual prevê a possibilidade de dedução de certos valores dos materiais e subempreitadas no cálculo do preço do serviço, para fins de ISS. Revolvimento de fatos e provas. Incidência da Súmula nº 279/STF. 4. Razões insuficientes para caracterizar, de plano, a irrazoabilidade e a desproporcionalidade da multa fiscal aplicada em relação à hipótese dos autos, sendo certo que, no caso dos autos, eventual efeito confiscatório da multa somente seria aferível mediante averiguação do quadro fático-probatório, o que é vedado na via estreita do recurso extraordinário (Súmula nº 279/STF). 5. Agravo regimental não provido.” (AI 687642 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 08.03.2012)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
