@@ -1,0 +1,43 @@
+DECISÃO
+MANDADO DE SEGURANÇA – PERDA DE OBJETO – PREJUÍZO.
+    1. O assessor Dr. Marcelo Maciel Torres Filho prestou as seguintes informações:
+    Em 5 de abril de 2007, Vossa Excelência não acolheu o pedido de concessão de medida acauteladora, consignando:
+    FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS – ESTORNO BANCÁRIO – AFASTAMENTO – MANDADO DE SEGURANÇA – LIMINAR INDEFERIDA.
+    1. Em jogo faz-se o Fundo de Participação dos Municípios. Sustenta o impetrante a ilegalidade de ato do Tribunal de Contas da União que implicou estorno bancário. A Corte de Contas teria fixado para todo o exercício de 2006 coeficiente de repasse, reduzindo-o em 7 de março do mesmo ano. Ajuizada ação anulatória de ato administrativo, o Juízo da Segunda Vara Federal da Seção Judiciária do Tocantins deferiu tutela antecipada. O Ministro de Estado da Fazenda teria encaminhado ao Tribunal de Contas cópia da ordem judicial. Veio à balha, então, decisão normativa.
+    Afirma o Município que a modificação do coeficiente de repasse não poderia ser implementada no curso do exercício financeiro de 2006, ante o disposto no artigo 92 do Código Tributário Nacional e no artigo 244 do Regimento Interno do Tribunal de Contas da União. Evocando o princípio da anualidade, busca a concessão de medida liminar, “a fim de que sejam devolvidos os remanejamentos efetivados sob a forma ‘estorno bancário’ a partir da publicação do Acórdão 2025/2006-TCU” (folha 10). O pedido final visa à cassação definitiva dos efeitos do referido pronunciamento bem como do Aviso nº 425/MF, por meio do qual se veiculou cronograma de redistribuição de valores do Fundo.
+    Acompanharam a inicial os documentos de folha 13 a 354.
+    À folha 357, prolatei a seguinte decisão:
+    PROCESSO – SANEAMENTO.
+    MANDADO DE SEGURANÇA – LIMINAR – INFORMAÇÕES.
+    1. A leitura da inicial, de folha 2 a 11, revela inconformismo com acórdão prolatado pelo Tribunal de Contas da União.
+    A par da incompetência desta Corte para julgar mandado de segurança voltado contra ato de Ministro de Estado e do Secretário do Tesouro Nacional, vê-se que o objeto da impetração não diz respeito a atividade desenvolvida diretamente por eles. Cumpre ter presente ainda o interesse da própria União no desfecho do julgamento deste processo e a repercussão maior da matéria, a exigir que se conte, antecipadamente, com informações da autoridade apontada como coatora.
+    2. Retifiquem a autuação para:
+    2.1 – Afastar o Ministro de Estado da Fazenda e o Secretário do Tesouro Nacional da relação processual;
+    2.2 – Citar a União, para, querendo, contestar o pedido, ficando-lhe assinado o prazo, para tanto, de trinta dias.
+    3. Solicitem informações ao Tribunal de Contas da União, ante as quais será apreciado o pleito de concessão de medida acauteladora.
+    4. Publiquem.
+    O Tribunal de Contas da União prestou informações, encaminhando com o ofício de folha 368 manifestação da Consultoria Jurídica, que, em síntese, sustenta:
+    a) a decadência da impetração no que voltada, de forma transversa, à insubsistência de determinação contida no Acórdão nº 174/2006, publicado no Diário Oficial de 21 de fevereiro de 2006;
+    b) a improcedência da alegada transgressão do princípio da anualidade, porquanto a Decisão Normativa nº 74/2006 apenas teria corrigido erro material existente na Decisão Normativa nº 72/2005;
+    c) a impropriedade do mandado de segurança como via para cobrar da União a devolução do remanejamento efetuado nos repasses do Fundo de Participação dos Municípios dos meses de janeiro e fevereiro de 2006, ante o cumprimento de determinação contida no Acórdão nº 174/2006-TCU-Plenário.
+    A União apresentou a contestação de folha 431 a 444, argüindo também a decadência relativa à ação mandamental. Estar-se-ia impugnando ato do qual o impetrante teve ciência em 7 de março de 2006 - a Decisão Normativa nº 74/2006. Registra a configuração de litispendência tendo em conta a ação ordinária ajuizada contra si no Juízo da Segunda Vara Federal de Palmas, cuja causa de pedir é a Decisão Normativa nº 74/2006 e o pedido, a desconsideração respectiva. Coloca-se como litisconsorte passiva necessária, discorrendo a seguir sobre a matéria de fundo. Revela que a situação presente é diversa da retratada nos Mandados de Segurança nº 24.098-9/DF, 24.112-8/DF e 24.151/DF, quando esta Corte deferiu a ordem, assentando a necessidade de respeito ao princípio da anualidade. No caso ora em discussão, alega não haver ocorrido revisão dos coeficientes mas simples correção, já que não correspondiam à realidade demonstrada por dados disponíveis. Alude ao que consignado pelo relator no acórdão que se aponta como configurador do ato de constrangimento. A correção de rumo teria implicado o benefício de Municípios mais pobres.
+    2. A espécie não sugere a concessão de liminar, mormente nos termos em que é pleiteada, ou seja, visando ao afastamento do estorno verificado. Há de se aguardar o julgamento pelo Plenário, mantendo-se, assim, a equação que envolve os Municípios brasileiros. Sopesando-se valores, deve-se preservar a situação atual.
+    3. Indefiro a medida acauteladora.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+    A Procuradoria-Geral da República opina pela carência da ação ou pela decadência do direito de formalizar mandado de segurança, a depender do ato que se considere impugnado.
+    O processo é físico e está concluso.
+    2. Verifica-se a perda de objeto. Conforme noticiado na inicial, o impetrante ajuizou ação ordinária, de nº 2006.43.00.002324-6, também buscando a declaração de nulidade da decisão do Tribunal de Contas da União nº 74/2006, sob o argumento de ofensa ao princípio da anualidade, no que reduzido o coeficiente empregado para cálculo dos repasses alusivos ao Fundo de Participação dos Municípios.
+    Consulta ao sítio eletrônico da Justiça Federal revelou o trânsito em julgado, em 18 de novembro de 2015, do acórdão por meio do qual a Sétima Turma do Tribunal Regional Federal da 1ª Região desproveu a apelação interposta pela Fazenda Nacional contra a sentença do Juízo, em que declarada a nulidade do referido ato administrativo e determinada a restituição dos valores repassados a menor. Eis a síntese do pronunciamento:
+    PROCESSUAL CIVIL E TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS. REDUÇÃO DO VALOR DO REPASSE (ANO DE 2006) TENDO EM VISTA DECISÃO NORMATIVA DO TCU Nº 74/2006. IMPOSSIBILIDADE DE REDUÇÃO NO MESMO EXERCÍCIO. VIOLAÇÃO AO PRINCÍPIO DA ANUALIDADE. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+    1. “Nos termos do art. 92 do Código Tributário Nacional, compete ao Tribunal de Contas da União - TCU a definição dos coeficientes de participação do Fundo de Participação dos Municípios - FPM, sendo-lhe legítimo proceder à correção de eventuais equívocos ocorridos, até mesmo de ofício, como no caso, observando-se, contudo, em qualquer caso, o princípio da anualidade, previsto no referido dispositivo legal.” ((Ap 0001661-49.2006.4.01.4200/RR, Rel. Des. Fed. SOUZA PRUDENTE, T8, e-DJF1 p.303 de 25/07/2011)
+    2. A Decisão Normativa do TCU n. 74/2006, que alterou o coeficiente para cálculo do Fundo de Participação dos Municípios previsto na Decisão Normativa TCU n. 72/2005, ao reduzir, no mesmo exercício financeiro (ano de 2006), o valor repassado ao município a título de FPM, violou o princípio da anualidade previsto no art. 92 do CTN.
+    3. A correção monetária adotada para o repasse dos valores indevidamente descontados é a taxa Selic, nos termos da Lei n. 9.250/95.
+    4. Os honorários advocatícios em desfavor da Fazenda Pública, de acordo com o art. 20, §4º, do CPC, devem ser fixados, mediante juízo de equidade, com modicidade; observada, todavia, a justa remuneração do advogado, objetivo que por certo não foi alcançado com honorários advocatícios de R$ 500,00 (quinhentos reais). No caso, diante da relativa complexidade do feito e sem esquecer o alto valor tratado na ação (superior a R$ 23.000.000,00), fixo os honorários advocatícios devidos pela FN em 3% (três por cento) do valor da condenação.
+    5. Apelação da FN não provida. Apelação do autor provida em parte para fixar a condenação da FN em honorários advocatícios em 3% (três por cento) do valor da condenação.
+    O quadro sinaliza o prejuízo deste mandado de segurança, considerada a superveniente perda de objeto, no que afastado do mundo jurídico, em relação ao impetrante, o ato dito ilegal, bem assim determinado o estorno dos valores.
+    3. Declaro prejudicada a impetração.
+    4. Publiquem.
+Brasília, 12 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
