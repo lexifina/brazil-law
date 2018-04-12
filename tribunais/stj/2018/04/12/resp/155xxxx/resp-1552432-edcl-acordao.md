@@ -1,0 +1,29 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. AUSÊNCIA.
+1. Ausente vício de obscuridade, contradição, erro material ou omissão a ser sanado no acórdão embargado, devem ser rejeitados os embargos de declaração.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, rejeitar os embargos de declaração nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de embargos de declaração opostos por GUILHERMO RAMAO SALAZAR contra o acórdão que conheceu parcialmente do recurso especial interposto por DILMA [NOME], dando-lhe provimento, nos termos da seguinte ementa (e-STJ fl. 595):
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CÉDULA RURAL PIGNORATÍCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO CREDOR-EXEQUENTE. INTIMAÇÃO. NECESSIDADE. PRINCÍPIO DO CONTRADITÓRIO. MORTE DE UM DOS EXECUTADOS. REGULARIZAÇÃO. NULIDADE NÃO VERIFICADA.
+1. Ação ajuizada em 19/12/1994. Recurso especial interposto em 09/03/2015 e atribuído a esta Relatora em 25/08/2016. Julgamento: CPC/1973.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Verifica-se a prescrição intercorrente da pretensão executória quando o credor-exequente deixa de promover o regular andamento do processo, adotando as providências que lhe são próprias, por prazo equivalente ao da prescrição do título exequendo.
+4. Consoante a jurisprudência firmada pela 3ª Turma deste Tribunal, compete ao juiz, antes de pronunciar a prescrição intercorrente, intimar o exequente a fim de que, no exercício regular do contraditório, tenha a oportunidade de comprovar a eventual existência de fatos impeditivos à incidência da prescrição. Precedentes.
+5. A inobservância do disposto no art. 265, I, do CPC/73 - que determina a suspensão do processo pelo falecimento de uma das partes - enseja, tão somente, nulidade relativa, sendo válidos os atos processuais subsequentes desde que não haja prejuízo aos interessados. Precedentes.
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+Nas razões do presente recurso, o embargante alega que o acórdão embargado foi omisso acerca da preliminar - levantada em contrarrazões - de ilegitimidade e falta de interesse recursal da embargada DILMA.
+Assevera que a embargada não é parte na lide e, dada sua condição de ex-advogada do BANCO DO BRASIL S/A, sequer detém interesse jurídico na demanda.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na hipótese dos autos, verifica-se que a questão apontada no presente recurso não constitui qualquer dos vícios acima mencionados, pois, conforme expressamente reconhecido pelo embargante, a Turma julgadora, em que pese o voto-vista elaborado pelo e. Min. Villas Bôas Cueva, por unanimidade superou a preliminar de ilegitimidade da recorrente DILMA, conhecendo parcialmente do recurso especial e, nessa extensão, dando-lhe parcial provimento. A propósito, confiram-se os termos da certidão de julgamento acostada à e-STJ fl. 594.
+Não obstante, apenas para fins de esclarecimento, haja vista que houveram ponderações orais por parte desta Relatora na sessão de julgamento, cabe ressaltar que:
+a) a questão relativa à capacidade de DILMA para recorrer não constitui pressuposto de admissibilidade do recurso especial (legitimidade recursal), mas sim questão afeta ao interesse processual de DILMA de figurar no processo como terceira interessada. Isso porque a recorrente ingressou nos autos após a sentença que decretou a prescrição intercorrente da ação de execução, interpondo recurso de apelação, que foi conhecido pelo TJ/MS, embora não tenha o Tribunal se manifestado sobre o interesse  jurídico  de Dilma para ingressar na lide na condição de terceira interessada;
+b) em que pese a ausência de manifestação quanto ao interesse de DILMA, as partes interessadas - compreendidas aqui os executados MARIO ANTONIO COMPARIN e IDALINA ANNA COMPARIM, além do ora embargante GUILHERMO RAMAO SALAZAR - não provocaram o TJ/MS a enfrentar a preliminar de não conhecimento do recurso de apelação de DILMA; tampouco se insurgiram contra o conhecimento do mérito recursal;
+c) embora a questão tenha sido suscitada em contrarrazões ao recurso especial, não é permitido ao Superior Tribunal de Justiça examinar o interesse  jurídico  de DILMA em ingressar na lide como terceira interessada, tendo em vista a ausência de prequestionamento da matéria, requisito este que é exigido inclusive para matérias de ordem pública.
+Assim, feitas essas considerações, mostra-se inviável o acolhimento dos presentes aclaratórios para o fim desejado pelo embargante, qual seja, de não conhecimento do recurso especial por suposta ausência de legitimidade e interesse recursal. Não há se falar, destarte, em omissão da Turma julgadora, que rejeitou, fundamentada e expressamente, a preliminar suscitada em contrarrazões pelo embargante.
+Forte nessas razões, REJEITO os embargos de declaração.
