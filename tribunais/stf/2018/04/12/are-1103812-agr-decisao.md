@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra a decisão monocrática, na qual foi negado seguimento ao recurso com fulcro no art. 21, § 1º, do RISTF, maneja agravo interno Benjamim Valle.
+    Alega demonstrada, na hipótese, a afronta direta dos preceitos da Lei Maior indicados nas razões recursais. Afirma “[...] que não foi observado o direito à inviolabilidade dos dados bancários sem autorização judicial para tal, sendo desconsideradas as alegações quanto a ilicitude dos lançamentos efetuados com base em provas ilícitas [...]”. Reitera a afronta ao art. 5º, XII, LIV e LV, da Constituição Federal.
+    Intimado, o representante do Ministério Público Federal manifestou-se pelo improvimento do agravo.
+    É o relatório.
+    Decido.
+    O Colegiado de origem julgou a controvérsia em decisão cuja ementa reproduzo:
+    “DIREITO PENAL E PROCESSUAL PENAL. LITISPENDÊNCIA E COISA JULGADA. INOCORRÊNCIA. CONTINUIDADE DELITIVA. ANÁLISE PELO JUIZ DA EXECUÇÃO. CRIME MATERIAL CONTRA A ORDEM TRIBUTÁRIA. ART. 1º, INCISO I, DA LEI 8.137/90. QUEBRA DO SIGILO. LEI COMPLEMENTAR 105/01 E LEI 9.311/96. LICITUDE DA PROVA. MOVIMENTAÇÃO FINANCEIRA OMITIDA. PRESUNÇÃO RELATIVA. DISCUSSÃO ACERCA DO CRÉDITO TRIBUTÁRIO. INDEPENDÊNCIA DAS ESFERAS CÍVEL E CRIMINAL. 1. Se os fatos descritos nas denúncias confrontadas constituem condutas individualizadas que, apesar da similitude no modus operandi, configuram ilícitos penais distintos, não há falar em litispendência ou coisa julgada. 2. Cabe ao juízo da execução a eventual reunião dos feitos e, então, decidir acerca da existência, ou não, de crime continuado, em virtude de o réu estar respondendo a outros processos semelhantes. 3. A Receita Federal, quando devidamente amparada em procedimento administrativo prévio, pode ter acesso direto aos dados e registros do contribuinte existentes junto à instituição financeira. Teleologia da Lei Complementar 105/01 e da Lei 9.311/96. 4. Apresentados documentos espontaneamente pelo contribuinte, não há falar em nulidade. 5. Movimentação financeira omitida importa presunção relativa de rendimentos (art. 42 da Lei 9.430/96). 6. Constituído o crédito tributário, eventual incorreção quanto ao lançamento se dá perante o juízo competente para julgar a matéria tributária. Não cabe discutir perante o juízo criminal eventuais vícios do processo administrativo.”
+    Após a prolação da decisão agravada a matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no no RE 1.055.941-RG, verbis:
+    “CONSTITUCIONAL. PROCESSUAL PENAL. COMPARTILHAMENTO COM O MINISTÉRIO PÚBLICO, PARA FINS PENAIS, DOS DADOS BANCÁRIOS E FISCAIS DO CONTRIBUINTE, OBTIDOS PELO FISCO NO LEGÍTIMO EXERCÍCIO DE SEU DEVER DE FISCALIZAR, SEM A INTERMEDIAÇÃO DO PODER JUDICIÁRIO. TRANSFERÊNCIA DE INFORMAÇÕES EM FACE DA PROTEÇÃO CONSTITUCIONAL DA INTIMIDADE E DO SIGILO DE DADOS. ART. 5º, INCISOS X E XII, DA CONSTITUIÇÃO FEDERAL. QUESTÃO EMINENTEMENTE CONSTITUCIONAL. MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, A REPERCUTIR NA ESFERA DO INTERESSE PÚBLICO. TEMA COM REPERCUSSÃO GERAL.”
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC.
+    Ante o exposto, reconsidero a decisão recorrida para aplicar o paradigma da repercussão geral.
+    Devolvam-se os autos ao Tribunal a quo para os fins previstos nos arts. 1.036 a 1.040 do CPC/2015.
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministra Rosa Weber
+Relatora
