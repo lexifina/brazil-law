@@ -1,0 +1,46 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por DARELLI DISTRIBUIDORA DE BEBIDAS E PRODUTOS DE HIGIENE E LIMPEZA LTDA, contra acórdão prolatado, por unanimidade, pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 89e):
+Exceção de preexecutividade  A lavratura do Auto de Infração e Imposição de Multa consuma o lançamento do crédito tributário, a teor do disposto no art. 142 do CTN. Nessa esteira, na hipótese dos autos, o AIIM foi lavrado em 24.06.2008, em decorrência de infrações à legislação do ICMS ocorridas no ano de 2005, de modo que não ocorreu a decadência  Não se há de falar, em nulidade do auto de infração por falta de fundamentação legal. Há justificativa expressa no decreto 45490/00 para o auto de infração. O decreto, aliás, repete a lei tributária e, por isso, não impede a defesa, justificativa para que o fundamento jurídico conste do referido auto  Não há ilegalidade na atualização da multa. A atualização é simples manutenção da pena aplicada. O que não se pode fazer é aplicar multa sobre multa, mas não essa a alegação da agravante  Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, que consumou a decadência e a CDA é nula.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+No tocante à decadência, o tribunal de origem assentou que (fl. 90e):
+A lavratura do Auto de Infração e Imposição de Multa consuma o lançamento do crédito tributário, a teor do disposto no art. 142 do CTN. Nessa esteira, na hipótese dos autos, o AIIM foi lavrado em 24.06.2008, em decorrência de infrações à legislação do ICMS ocorridas no ano de 2005, de modo que não ocorreu a decadência.
+Se não bastasse, amolda-se perfeitamente à hipótese o disposto na Súmula nº 153 do extinto TFR, in verbis: "Súmula nº 153/TFR. Constituído, no qüinqüênio, através de auto de infração ou notificação de lançamento, o crédito
+tributário, não há falar em decadência"
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1407870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+Acerca dos requisitos de validade da CDA, observo que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+ADMINISTRATIVO, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. PRETENSÃO DE DEVOLUÇÃO DAS TAXAS DE DIPLOMA. PRAZO PRESCRICIONAL. FATO DO SERVIÇO. ARTIGO 2º DA LEI N. 9.870/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+1. No caso, não há se falar em violação do art. 26, inciso II, do Código de Defesa do Consumidor, porquanto inaplicável o prazo decadencial a que alude este artigo, uma vez que não se trata de responsabilidade do fornecedor por vícios aparentes ou de fácil constatação existentes em produto ou serviço, mas de danos causados por fato do serviço, consubstanciado pela cobrança indevida da taxa de diploma, razão pela qual incide o prazo qüinqüenal previsto no art. 27 do CDC.
+2. O artigo 2º da Lei n. 9.870/1999 não foi apreciado pelo Tribunal de origem, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula n. 282 do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1327122/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 15/04/2014, destaque meu).
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1374369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013, destaque meu).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
