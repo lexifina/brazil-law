@@ -1,0 +1,8 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2180365-25.2017.8.26.0000.
+Depreende-se dos autos que o paciente teve a prisão preventiva decretada no dia "19 de julho de 2017" (fl. 17), em razão de suposta incursão no art. 2º, §§ 2º, 3º e 4º, I, da Lei n. 12.850/2013. Em tese, ele seria "proprietário de um hotel na região da Cracolância,  ..  e exercia o comando individual e coletivo da organização criminosa, praticando os atos de execução pessoalmente ou por interpostas pessoas, com o objetivo de cometer crimes previstos na Lei de Drogas e no Estatuto do Desarmamento" (fl. 19).
+O impetrante busca o imediato relaxamento da custódia cautelar, sob a assertiva de que perdura por prazo irrazoável, em flagrante "excesso de prazo na formação da culpa" (fl. 3).
+A impetração não comporta conhecimento. Além da deficiente instrução dos autos, uma vez que a defesa não juntou documentos que permitam aferir eventual paralisação indevida do processo, o alegado excesso de prazo nem sequer foi analisado pelo Tribunal de Justiça estadual, motivo pelo qual o conhecimento da tese diretamente por este Superior Tribunal importaria em indevida supressão de instância.
+Ilustrativamente: "A alegação de constrangimento ilegal decorrente de excesso de prazo da segregação não foi submetida à análise do Tribunal a quo, de modo que não pode ser apreciada diretamente por esta Corte, sob pena de incidir-se em indevida supressão de instância" (HC n. 423.710/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 23/3/2018).
+À vista do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
