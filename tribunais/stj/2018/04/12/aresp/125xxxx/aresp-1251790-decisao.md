@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de agravo em recurso especial interposto por [NOME] DE COL contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA que inadmitiu o seu apelo nobre.
+Consta dos autos que [NOME] DE COL foi condenado das imputações que lhe foram feitas inerentes ao artigo 15 da Lei n. 10.826/2003, à pena de 2 (dois) anos de reclusão, no regime inicial aberto, substituída por 2 (duas) restritivas de direitos, mais o pagamento de 10 (dez) dias -multa.
+Inconformado, interpôs apelo nobre, com fulcro no inciso III do art. 105 da Constituição Federal, o qual não foi admitido na origem, com fundamento no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+No presente recurso, sustenta que não incidiria o referido óbice à hipótese dos autos, visto que a análise da questão recursal não demandaria o reexame das provas, mas apenas a revaloração destas.
+Requer o provimento do agravo para que seja admitido e acolhido o seu recurso especial.
+Parecer do Ministério Público Federal às fls. 396/398 (e-STJ).
+É o relatório.
+2. A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que, de fato, o recurso especial interposto não merece seguimento.
+Ao julgar a apelação, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA entendeu estarem presentes elementos suficientes a sustentar a condenação por infração ao art. 15 da Lei n. 10.826/2003, tendo acórdão restado assim ementado (e-STJ, fls. 320/321):
+Na comarca de Chapecó (2ª Vara Criminal), o Órgão do Ministério Público ofereceu denúncia contra [NOME], imputando-lhe a prática do delito capitulado no art. 15 da Lei n. 10.826/2003, em virtude dos seguintes fatos narrados às fls. II a IV:
+ ..
+Na ocasião, após ainda desferir um soco no vidro do veículo conduzido pelo ofendido, o aqui denunciado [NOME] DE COL, atuando em flagrante demonstração de ofensa à incolumidade e segurança alheia e portando instrumento de reconhecido poder vulnerante e potencialidade, consistente "em o uma arma, semelhante a uma pistola cromada", efetuou um disparo de arma de arma de fogo em plena via pública, lugar habitado ou mesmo em suas adjacências (com considerável concentração de populares), "em direção ao veículo" da vítima [NOME] (no momento em que este "arrancou o caminhão"), o qual "atingiu próximo a maçaneta da porta do motorista".
+A propósito, segundo infere-se do resultado do Levantamento Pericial de Disparo de Arma de Fogo em Veículo Automotor, "o veículo em causa, objeto do presente laudo, foi atingido, por no mínimo, um projétil oriundo de disparo de arma de fogo, em época recente aos exames, conforme descrito e ilustrado no corpo do presente laudo" (Laudo Pericial de fls. 22-30). Registre-se, por fim, que, após o disparo de arma de fogo, o aqui ç denunciado [NOME] DE COL "perseguiu" a vítima e ainda "tentou passar pelo veículo do declarante  .. " e mais "perseguiu o declarante por cerca de 3 vi kilômetros do local onde efetuou o disparo; que durante a perseguição EDEMAR tentou fechar e ultrapassar o veículo do declarante, não conseguindo porque o declarante lhe fechava a passagem, em como pelo fato de outros veículos transitarem na contramão.
+Com efeito, da leitura do excerto acima transcrito, verifica-se que o Tribunal de origem, soberano na reanálise dos fatos e das provas, concluiu pela existência, nos autos, de elementos concludentes para fundamentar o decreto condenatório.
+Nesse aspecto, desconstituir o julgado, buscando uma absolvição, desclassificação ou reclassificação da conduta criminosa analisada na origem, não encontra amparo na via eleita, dada a necessidade de revolvimento do conjunto fático-probatório, procedimento de análise exclusivo das instâncias ordinárias e vedado a este Superior Tribunal de Justiça, em sede de recurso especial, ante o óbice Sumular n. 7/STJ.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO IMPRÓPRIO. ART. 157, § 1º, DO CP. DESCLASSIFICAÇÃO PARA O CRIME DE FURTO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Rever o entendimento externado pelas instâncias ordinárias, para afastar as elementares do crime de roubo impróprio (art. 157, § 1º, do CP), implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental improvido.
+(AgRg no AREsp 718.983/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+3. Por tais razões, afigurando-se inadmissível o recurso especial, conhece-se do agravo para não conhecer o recurso especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
