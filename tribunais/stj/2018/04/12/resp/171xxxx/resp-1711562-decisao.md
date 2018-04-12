@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PIS E COFINS. CONCEITO DE FATURAMENTO. INCONSTITUCIONALIDADE DO ART. 3º, § 1º, DA LEI 9.718/98. ENTIDADE DE PREVIDÊNCIA PRIVADA. MATÉRIA INSUSCETÍVEL DE ANÁLISE PELA VIA DO RECURSO ESPECIAL. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fulcro na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da Quarta Região, assim ementado (fl. 160):
+TRIBUTÁRIO. COFINS. PREVIDÊNCIA PRIVADA. BASE DE CÁLCULO.
+A Lei 9.718/98 incorreu em evidente inadequação aos dispositivos da Constituição Federal de 1988 ao ampliar a base de cálculo da COFINS sob a égide da redação original do art. 195, I, da CF. Inconstitucionalidade do art. 3, 1, da Lei 9.718/98, declarada pelo STF.
+Impossibilidade da cobrança do PIS e da COFINS sobre receitas de qualquer natureza no regime comum das referidas contribuições relativamente às entidades de previdência privada fechada.
+No apelo especial alega violação do art. 3, §§ 5 e 6 da Lei 9.718/98. Sustenta que a recorrida se enquadra no conceito de instituição financeira e, portanto, os valores gerados nas operações financeiras são receitas operacionais, e, por essa razão, sujeitam-se à incidência de PIS/COFINS.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 418.
+É o relatório. Passo a decidir.
+O presente recurso não merece prosperar.
+Decidiu o acórdão recorrido:
+A Lei 9.718/98 surgiu sob a égide da redação original do art. 195, I, da CF, eis que anterior ao advento da EC no 20/98. Dessa forma, não poderia desfigurar o conceito de faturamento, estendendo a base de cálculo da "receita bruta das vendas de mercadorias, de mercadorias e serviços e de serviço de qualquer natureza" (art. 20 da LC 70/91) para a receita bruta entendida como a "totalidade das receitas auferidas pela pessoa jurídica, sendo irrelevantes o tipo de atividade por ela exercida e a classificação contábil adotada para as receitas" (art. 30, 10, da Lei 9.718/98). Aquele conceito, expresso na LC 70/91, equivalia ao de faturamento, conforme reconheceu o STF; este, não, razão porque mostra- se inconstitucional. Tais vícios, por certo, não restaram sanados com o advento da EC no 20/98, pois só são recepcionadas as normas que integram validamente o ordenamento jurídico. A norma inconstitucional já nasce viciada, não produzindo nenhum efeito válido desde a origem.  ..
+A Lei 9.718/98 incorreu, pois, em evidente inadequação aos dispositivos da Constituição Federal de 1988 relativamente à alteração da base de cálculo da COFINS e da contribuição ao PIS.
+Embora o Plenário desta Corte Federal tenha rejeitado o Incidente de Argüição de Inconstitucionalidade na AMS no 1999.04.01.080274-1, tal resta superado pelas decisões do STF no RE 357.950/RS e no RE 346.084/PR, em que declarou a inconstitucionalidade constante do art. 30, 10, da Lei 9.718/98.
+Desse modo, é ilegítima a exigibilidade do PIS e da COFINS nos moldes da alteração promovida pela Lei no 9.718/98 com relação à ampliação da base de cálculo destas contribuições.  ..
+Pois bem, "o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à Cofins é matéria eminentemente constitucional, que foge à sua competência do âmbito do Recurso Especial" (REsp 1.278.769/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18/12/2012). No mesmo sentido: AgRg nos EDcl no REsp 1.261.346/RJ, Rel. Ministro Humberto Martins, Segunda Turma, DJe 28/09/2012; AgRg no REsp 1.199.538/RS, Rel. Ministro Francisco Falcão, Primeira Turma, DJe 09/08/2012; AgRg no REsp 1.226.835/PR, Rel. Ministro Hamilton Carvalhido, Primeira Turma, DJe 10/05/2011.
+Lado outro, não cabe ao STJ, no exercício da sua jurisdição especial, apreciar a tese de que a declaração de inconstitucional do art. 3º, § 1º, da Lei 9.718/98, proferida pelo STF, se aplica às instituições financeiras (no caso, entidade de previdência privada), competindo à Suprema Corte analisar o alcance de seu julgado. Nessa esteira, mutatis mutandis, o entendimento adotado pela Primeira Turma, nos autos do AgRg no REsp 1.109.302/RS, de minha relatoria, DJe 30/11/2009.
+A propósito, o Pretório Excelso já reconheceu a repercussão geral desse tema, nos autos do RE 609.096/RS, o também revela a natureza constitucional da controvérsia.
+Nessa mesma esteira:
+TRIBUTÁRIO. PROCESSUAL CIVIL. INSTITUIÇÃO FINANCEIRA. CONCEITO DE FATURAMENTO PARA FINS DE INCIDÊNCIA DA CONTRIBUIÇÃO PARA O PIS. ACÓRDÃO ASSENTADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE PELO STJ.
+1. Inviável o conhecimento do recurso que demanda análise de matéria eminentemente constitucional, sob pena de invasão de competência reservada à Suprema Corte.
+2. Ademais, mesmo que, como insinuado pela parte agravante, pudessem existir fundamentos de natureza legal relacionados ao mérito da causa, é certo que, na espécie, eles perderiam relevo jurídico diante do viés constitucional empregado pelo acórdão local.
+3. Ressalte-se, por fim, que o STF reconheceu a repercussão geral de matéria idêntica à discutida nos presentes autos, qual seja, a definição do conceito de faturamento para fins de incidência da contribuição para o PIS relativamente às receitas financeiras das instituições financeiras, ratificando a compreensão de que essa questão seria constitucional (RE 609.096 RG, Relator(a): Min. RICARDO LEWANDOWSKI, julgado em 03/03/2011, DJe-080 DIVULG 29-04-2011 PUBLIC 02-05-2011 EMENT VOL-02512-01 PP-00128).
+4. Agravo regimental a que se nega provimento (AgRg no AREsp 262.171/CE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11/11/2013)
+Ante o exposto, nego privimento ao recurso especial.
+Publique-se. Intimem-se.
