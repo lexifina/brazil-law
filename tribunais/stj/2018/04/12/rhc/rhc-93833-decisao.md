@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por CRISTIANE GUIMARÃES GAMA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, proferido nos termos da seguinte ementa (e-STJ fl. 45):
+EMENTA: HABEAS CORPUS - PRISÃO EM FLAGRANTE DELITO - ROUBO EXASPERADO PELO EMPREGO DE ARMA BRANCA E EM CONCURSO DE PESSOAS - PERICULOSIDADE DAS AGENTES CONSTATADA - NECESSIDADE DE CONSTRIÇÃO DA LIBERDADE COMO GARANTIA DA ORDEM PÚBLICA - DECISÃO FUNDAMENTADA - LIBERDADE PROVISÓRIA - IMPOSSIBILIDADE - IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - INVIABILIDADE. 01. Afiguram-se necessárias, para a garantia da ordem pública, as segregações cautelares de pacientes presas em flagrante delito pela prática, em tese, de roubo mediante grave ameaça exercida com o emprego de arma branca e em concurso de agentes. 02. Encontrando-se a decisão fundamentada, concretamente, na necessidade das segregações processuais para a garantia da ordem pública, não há falar-se na aplicação das medidas cautelares elencadas no art. 319 do CPP.
+Consta dos autos que a recorrente foi presa em flagrante delito em 27/9/2017 pela suposta prática do crime previsto no art. 157, § 2.º, incisos I e II, do Código Penal, sendo a prisão convertida em preventiva.
+No presente recurso, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea do decreto de prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando que a gravidade abstrata do delito não pode servir como fundamento para a manutenção da medida constritiva.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, ainda que com a imposição de outras medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Indeferida a liminar (e-STJ fls. 106/108), o Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ fls. 114/115).
+É o relatório, decido.
+Consoante informações colhidas do site do Tribunal de origem, em 23/03/2018 foi concedida a liberdade provisória à ré, ora recorrente, momento em que foi determinada a expedição de alvará de soltura em seu favor.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar da recorrente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique. Intime-se.
