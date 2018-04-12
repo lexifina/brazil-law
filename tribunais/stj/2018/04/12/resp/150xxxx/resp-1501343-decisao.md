@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], na vigência do CPC/73, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"AGRAVO LEGAL EM AGRAVO DE INSTRUMENTO. ADESÃO AO REFIS. ANUÊNCIA DA PESSOA JURÍDICA. NECESSIDADE. ADESÃO AO PARCELAMENTO CONFIGURA EM CONFISSÃO IRREVOGÁVEL E IRRETRATÁVEL DOS DÉBITOS POR ELE ABRANGIDOS.
+1. O ingresso e a participação em regime de pagamento parcelado corresponde a um benefício concedido pelo credor em favor do devedor. Ou seja, para gozar desses benefícios, cabe ao devedor se submeter ao preenchimento de todos os requisitos necessários, de modo a conseguir a benesse advinda da liberalidade do credor. Assim sendo, se a legislação prevê que deve haver a anuência da pessoa jurídica para que a pessoa física corresponsável possa participar do regime de parcelamento, essa previsão legal não pode ser desconsiderada pelo Poder Judiciário, a quem descabe alargar as hipóteses de parcelamento previstas na lei ou abrandar as exigências criadas para a concessão do benefício.
+2. Se a legislação referente à concessão de parcelamento dispõe que a adesão implicará em confissão irrevogável e irretratável dos débitos por ele abrangidos, entende-se que não pode o Poder Judiciário tornar sem efeito essa condição, cabendo à parte autora avaliar a conveniência de pleitear o seu ingresso nesse regime de parcelamento.
+3. O fato de a jurisprudência admitir a possibilidade de discussão judicial da dívida mesmo em hipóteses que houve confissão na via administrativa, dentro de certos limites, não significa que a contribuinte não ficará sujeita, na via administrativa, aos efeitos do descumprimento dos requisitos necessários à manutenção no parcelamento. Dessa forma, não há como se admitir seja viabilizada a adesão que não dentro dos estritos parâmetros legais, cuja compatibilidade com a Constituição Federal de 1988 é também reiteradamente aceita pelos Tribunais, sobretudo ante a autonomia quanto à opção ou não pela formalização do acordo.
+4. Negado provimento" (fl. 129e).
+Verifica-se que o acórdão, objeto do presente Recurso Especial, foi proferido em sede de Agravo de Instrumento, sendo que o Juízo da 1ª Vara Federal de Itajaí/SC, em 05/12/2014, nos autos da AÇÃO ORDINÁRIA (PROCEDIMENTO COMUM ORDINÁRIO) 5008985-37.2014.404.7208/SC julgou o mérito do processo que deu origem ao presente Recurso Especial, com fulcro no art. 269, I, do Código de Processo Civil/73.
+Desse modo, não subsiste mais a utilidade e a necessidade do provimento judicial buscado por meio do presente Recurso, razão pela qual deve ser reconhecida a perda superveniente do interesse recursal.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DA SENTENÇA DE MÉRITO. PERDA DO OBJETO DO RECURSO.
+1. A prolação de sentença de mérito enseja a superveniente perda de objeto do recurso interposto contra o acórdão que decidiu agravo de instrumento.
+2. Agravo provido" (STJ, AgRg nos EDcl no REsp 1.173.831/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 30/05/2014).
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DA SENTENÇA DE MÉRITO. EXTINÇÃO DA AÇÃO PRINCIPAL. PERDA DO OBJETO DO RECURSO.
+1. A prolação de sentença de mérito enseja a superveniente perda de objeto do recurso interposto contra o acórdão que decidiu agravo de instrumento.
+2. A decisão interlocutória que determinava averbação do protesto na matrícula do imóvel fica esvaziada pela sentença que extingue a ação cautelar de protesto contra alienação de bens.
+3. Agravo regimental prejudicado" (STJ, AgRg nos EDcl nos EDcl no REsp 1.302.959/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 02/10/2013).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO INTERLOCUTÓRIA. INDEFERIMENTO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA. ALEGAÇÃO. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DA SENTENÇA DE SENTENÇA DE MÉRITO NA AÇÃO PRINCIPAL. PERDA DE OBJETO.
+1. "Conforme precedentes deste Superior Tribunal de Justiça, a superveniência de sentença de mérito implica a perda de objeto de recurso interposto contra acórdão que desproveu agravo de instrumento. Isso porque eventual provimento do especial não poderia dar ensejo à reforma do título judicial que exerceu cognição exauriente." (AgRg no REsp 1012974/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2013, DJe 03/10/2013).
+2. Agravo regimental prejudicado" (STJ, AgRg no AREsp 427.255/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 05/11/2014).
+No mesmo sentido, confira-se julgado da Segunda Turma:
+"PROCESSUAL CIVIL. DECISÃO INTERLOCUTÓRIA QUE INDEFERIU PEDIDO DE DECLARAÇÃO DE INEFICÁCIA DO NEGÓCIO JURÍDICO. SUPERVENIÊNCIA DE SENTENÇA. RECURSO ESPECIAL PREJUDICADO.
+1. A prolação de sentença de mérito, mediante cognição exauriente, enseja superveniente perda de objeto de recurso interposto contra acórdão que desproveu Agravo de Instrumento (EDcl no AgRg no Ag 1.228.419/SC, Rel. Ministro Humberto Martins, Segunda Turma, DJe 17/11/2010) .
+2. Eventual provimento do apelo, referente à decisão interlocutória, não teria o condão de infirmar o julgamento superveniente e definitivo que reapreciou a questão.
+3. Agravo Regimental não provido" (STJ, AgRg no AREsp 253.514/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 07/03/2013).
+Ante o exposto, nos termos do art. 34, I, XI, do RISTJ, julgo prejudicado o presente Recurso Especial, por perda superveniente do objeto.
+I.
