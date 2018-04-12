@@ -1,0 +1,54 @@
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. "CROSS EXAMINATION". AUSÊNCIA DE PREQUESTIONAMENTO. ATENUANTES DE CONFISSÃO E REPARAÇÃO DE DANO. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA 231/STJ. GRATUIDADE DA JUSTIÇA. ISENÇÃO DO PAGAMENTO DE CUSTAS. IMPOSSIBILIDADE. VERIFICAÇÃO DA MISERABILIDADE POR OCASIÃO DA EXECUÇÃO. RECURSO IMPROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo que deu parcial provimento ao recurso da defesa para "reduzir a pena do recorrente para 1 ano e 8 meses de reclusão e pagamento de 16 (dezesseis) dias-multa, no valor unitário mínimo legal, substituída a pena corporal por uma restritiva de direitos e multa, nos termos acima explicitados, e estipulado o regime aberto."
+Sustenta o recorrente violação do artigo 212 do Código de Processo Penal ao argumento de que o Tribunal de Justiça negou validade ao sistema de "cross examination" porque "na audiência de instrução deste feito, o Meritíssimo juiz da Primeira Vara Criminal de Avaré, apesar de deixar que a Defesa e o Ministério Público formulassem diretamente suas indagações para as testemunhas, houve por bem questioná-las primeiramente, tudo em conformidade com o anterior sistema abolido pela Lei 11.719108."
+Alega, outrossim, contrariedade ao artigo 65 do Código Penal aduzindo, para tanto, que o acórdão recorrido não poderia ter deixado de aplicar as atenuantes da confissão e da reparação do dano.
+Afirma, por fim, negativa de vigência aos artigos 98 e 99 do Código de Processo Civil ao argumento de que o magistrado não poderia ter deixado para a fase da execução da pena o exame da gratuidade de justiça ao argumento de que "o juiz só pode indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão de gratuidade, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos."
+As contrarrazões foram apresentadas e o Ministério Público Federal ofertou parecer às fls. 776.
+É o relatório.
+No que se refere à alegada ofensa ao disposto no artigo 212 do Código de Processo Penal, verifica-se que a tese suscitada nas razões recursais não foi objeto de apreciação pela Corte de origem, sequer implicitamente, tampouco foram opostos embargos de declaração para fins de prequestionamento.
+Desse modo, na espécie têm incidência, por simetria, os Enunciados 282 e 356 da Súmula do Excelso Pretório, respectivamente, in verbis:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Saliente-se que é indispensável o efetivo exame da matéria pelo acórdão recorrido, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, que exige o prequestionamento por meio da apreciação da questão federal pelo Tribunal a quo, de modo a se evitar a supressão de instância.
+Nesse sentido, confiram-se os seguintes precedentes deste Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM O ENTENDIMENTO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL CONTRARIADO. SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. As alegadas violações dos arts. 59 e 65, inciso I, do Código Penal, não foram objeto de prequestionamento, uma vez que a Corte a quo, conforme ressaltado pela decisão ora agravada, "não emitiu juízo de valor sobre essas normas, o que atrai a incidência das Súmulas 282 e 356 do Supremo Tribunal Federal".
+(..)
+(AgRg no AREsp 42.432/PR, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 01/03/2012, DJe 15/03/2012)
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FUNDAMENTOS INSUFICIENTES PARA REFORMAR A DECISÃO AGRAVADA.
+1.Os conteúdos normativos dos dispositivos tidos por violados não foram objeto de debate ou deliberação pelo Tribunal de origem, restando ausente, assim, o requisito indispensável do prequestionamento da matéria. Não exercitados embargos de declaração para suprir eventual omissão, deixou de ser atendido o mencionado requisito. Aplicação, por analogia, das Súmulas 282 e 356 do Supremo Tribunal Federal.
+(..)
+(AgRg no Ag 404.619/RJ, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, julgado em 16/08/2011, DJe 05/09/2011)
+Passo seguinte, em relação à incidência das atenuantes previstas no artigo 65 do Código Penal, verifico que a pena-base aplicada ao recorrente já foi fixada no mínimo legal (cf. fl. 615), de modo que, ainda que fosse eventualmente reconhecida a incidência de qualquer atenuante, não poderia tal benesse, de qualquer modo, repercutir no cálculo da reprimenda.
+Decerto, não pode a reprimenda ser reduzida aquém do mínimo legal, tendo incidência do enunciado n. 231 da Súmula de Jurisprudência do Superior Tribunal de Justiça:
+"A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal"
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. DECISÃO MONOCRÁTICA. PRINCÍPIO DA COLEGIALIDADE. OFENSA. INEXISTÊNCIA. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE DE REDUÇÃO DA PENA INTERMEDIÁRIA ABAIXO DO MÍNIMO LEGAL. SÚMULA N. 231/STJ. CONSUMAÇÃO. INVERSÃO DA POSSE DO BEM, AINDA QUE POR BREVE TEMPO. REGIME PRISIONAL SEMIABERTO. ADEQUAÇÃO.
+1. O julgamento monocrático do agravo em recurso especial, com esteio em óbices processuais e na jurisprudência dominante desta Corte, tem respaldo nas disposições do CPC e do RISTJ.
+2. "Fixada a pena-base no mínimo legal, ainda que reconhecidas as atenuantes da confissão e da menoridade relativa, não poderão repercutir no cálculo da reprimenda, porquanto, de acordo com a Súmula 231 do STJ, descabe a redução da pena na segunda fase da dosimetria a patamar aquém do mínimo legal em razão da existência de circunstância atenuante" (HC 272.043/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/4/2016, DJe 22/4/2016).
+(..)
+(AgRg no REsp 1608835/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+Por fim, no que se refere ao pedido de concessão da gratuidade da justiça, deduzido pelo recorrente com o propósito de se isentar do pagamento das custas processuais, constata-se a inexistência de interesse recursal uma vez que, ainda que deferido o benefício, o recorrente não faria jus à isenção do pagamento das custas processuais, mas tão somente à suspensão da sua exigibilidade pelo período de 5 anos, a contar da sentença final, quando então, em não havendo condições financeiras de quitar o débito, restaria prescrita a obrigação.
+Ademais, o momento de verificação da miserabilidade do condenado, para fins de suspensão da exigibilidade do pagamento, é na fase de execução, tendo em vista que é possível a ocorrência de alteração na situação financeira do apenado entre a data da condenação e a execução da sentença condenatória.
+Confiram-se, nesse sentido, os seguintes julgados deste Superior Tribunal de Justiça:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 804 DO CPP. BENEFICIÁRIO DA JUSTIÇA GRATUITA. ISENÇÃO DO PAGAMENTO DE CUSTAS. IMPOSSIBILIDADE. SUSPENSÃO DA EXIGIBILIDADE. FASE DE EXECUÇÃO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte sufragou o entendimento de que o beneficiário da justiça gratuita não faz jus a isenção do pagamento das custas processuais, mas tão somente a suspensão da exigibilidade destas, pelo período de 5 anos, a contar da sentença final, quando então, em não havendo condições financeiras de o recorrente quitar o débito, restará prescrita a obrigação.
+2. O momento de verificação da miserabilidade do condenado, para fins de suspensão da exigibilidade do pagamento, é na fase de execução, visto que é possível que ocorra alteração na situação financeira do apenado entre a data da condenação e a execução da sentença condenatória.
+3. Agravo regimental improvido".
+(AgInt no REsp 1637275/RJ, da minha relatoria, SEXTA TURMA, julgado em 06/12/2016, DJe 16/12/2016).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUSTAS PROCESSUAIS. ISENÇÃO. JUÍZO DA EXECUÇÃO. SÚMULA N. 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. APLICAÇÃO ÀS ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. LEI ESTADUAL. IMPOSSIBILIDADE DE CONHECIMENTO. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+- O Tribunal de origem, ao manter a condenação do réu nas custas processuais e reconhecer que eventual isenção deve ser promovida no Juízo da Execução, decidiu a lide de acordo com a jurisprudência desta Corte. Incidência da Súmula n. 83/STJ - O óbice dessa Súmula também se aplica ao recurso especial interposto com fulcro na alínea "a" do permissivo constitucional.
+(..)
+(AgRg no AREsp 503.530/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 14/04/2015, DJe 24/04/2015)
+PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO INATACADO (SÚMULA 182/STJ). DISPOSITIVO VIOLADO. INDICAÇÃO. NECESSIDADE (SÚMULA 284/STF). ART. 33, § 4º, DA LEI N. 11.343/2006. FUNDAMENTAÇÃO IDÔNEA E COM BASE EM ELEMENTOS CONCRETOS. QUANTIDADE DE DROGA (SÚMULA 83/STJ). ALTERAÇÃO DO PATAMAR FIXADO. INVIABILIDADE (SÚMULA 7/STJ). CUSTAS. ISENÇÃO. IMPOSSIBILIDADE. ART. 804 DO CPP.
+(..)
+5. Nos termos do art. 804 do Código de Processo Penal, mesmo que beneficiário da justiça gratuita, o vencido deverá ser condenado nas custas processuais (AgRg no AREsp n. 394.701/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/9/2014).
+6. Agravo regimental improvido".
+(AgRg no AREsp 464.526/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/11/2014, DJe 09/12/2014).
+Do exposto resulta que a pretensão recursal deduzida na insurgência especial é contrária à jurisprudência desta Corte Superior de Justiça acerca do tema, cabendo a esta relatora negar provimento ao recurso nos termos do enunciado nº 568 da Súmula desta Corte, verbis:
+O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 932, IV, "a", do Código de Processo Civil em vigor (Lei nº 13.105/2015) c/c artigo 3º do Código de Processo Penal, e no artigo 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+Intime-se.
