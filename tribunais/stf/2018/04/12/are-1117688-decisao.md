@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado, no relevante:
+    “APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. BRASIL TELECOM. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PRESCRIÇÃO. O prazo prescricional da pretensão relacionada ao contrato para aquisição de linha telefônica condicionada à compra de ações rege-se observados os arts. 2.028 e 2.035 do CC, pelos arts. 177 do CC/16 ou pelo 205 do CC/02, vintenário ou decenário, respectivamente, se inicia em ambos os casos na data de subscrição deficitária das ações.” (eDOC 2, p. 87)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação ao art. 5°, caput, I, e 3º, I do texto constitucional.
+    Nas razões recursais, alega-se violação ao princípio da isonomia, uma vez que o acórdão recorrido aplicou ao caso concreto dois regimes jurídicos diferentes, criando, assim, dois prazos prescricionais diversos, um societário e um ordinário civil.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, ressalto que a matéria relativa ao contrato de participação financeira e subscrição de ações de telefonia e sua complementação corresponde ao tema 178 da sistemática da repercussão geral, cujo paradigma é o AI-RG 729.263, rel. Min. Cezar Peluso, DJe 16.10.2009, no qual foi declarada a inexistência de repercussão geral da questão pelo Plenário Virtual desta Corte. Eis a ementa desse julgado:
+    “RECURSO. Extraordinário. Incognoscibilidade. telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional”.
+    Além disso, verifico que o Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Código Civil e Lei n. 6.404/76), consignou que o prazo prescricional seria o da lei civil. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A prescrição, rege-se, pois, pelos artigos 177 do Código Civil de 1916 ou 205 do Código Civil de 2002, que estabelecem, respectivamente, os prazos de vinte e dez anos. Por conseguinte, não incide, na espécie, o prazo trienal, disposto no artigo 287, II, “g”, da Lei nº 6404/76.” (eDOC 2, p. 92).
+    Assim, verifica-se que a matéria debatida pelo Tribunal de origem restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso. Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “Agravo regimental no agravo de instrumento. Administrativo. prescrição. Impossibilidade de análise da legislação infraconstitucional. Ofensa constitucional indireta. Precedentes. Agravo regimental ao qual se nega provimento” (AI 850.551 AgR, rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.10.2011).
+    “DIREITO CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. 1. A matéria controvertida está restrita ao âmbito  infraconstitucional  e depende da análise do conjunto fático-probatório. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1049239 AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe 13.9.2017
+    “Agravo regimental em agravo de instrumento. 2. Prazo prescricional. Código civil ou Decreto 20.910/32. Matéria infraconstitucional. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 747.283-AgR, de minha relatoria, Segunda Turma, DJe 10.12.2010).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
