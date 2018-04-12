@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 270, e-STJ):
+PREVIDENCIÁRIO - PROCESSO CIVIL - EXTINÇÃO DA EXECUÇÃO - CERCEAMENTO DE DEFESA - INOCORRÊNCIA - PAGAMENTO DE PRECATÓRIO - ATUALIZAÇÃO - JUROS DE MORA - CORREÇÃO MONETÁRIA - ADIs 4.357 E 4.425 - MODULAÇÃO DOS EFEITOS.
+I - Não se verifica a alegada ocorrência de cerceamento de defesa no caso em tela, em virtude da ausência de oportunidade para a parte se manifestar a respeito da correção do pagamento efetuado por precatório, uma vez que após o levantamento do depósito o exequente foi intimado do despacho pelo qual foi determinado que se aguardasse o retomo do processo principal, em razão da notícia do depósito do precatório em relação à parte incontroversa, no entanto, quedou-se inerte, tendo se manifestado somente após decisão que extinguiu a execução.
+II - Não há se falar em diferenças decorrentes da aplicação de juros de mora na atualização do precatório, uma que a referida questão já foi apreciada pelo título judicial em execução, no qual restou consignado que os juros de mora devem incidir tão somente até a data da conta de liquidação que der origem ao precatório ou a requisição de pequeno valor - RPV, conforme já decidido pelo E.
+STF, no julgamento do AI - AgR 492.779 -DF, devendo prevalecer a coisa julgada.
+III - Considerando os tennos da decisão proferida pelo E. STF, na modulação dos efeitos das ADIs 4.357 e 4.425, e que o pagamento do precatório foi efetuado no ano de 2013, é de rigor o reconhecimento da inexistência de diferenças relativas à correção monetária, pois o precatório foi corretamente atualizado de acordo com os critérios fixados na Emenda 62/09 e Lei de Diretrizes Orçamentárias, ou seja, pela TR.
+IV - Apelação da parte exequente improvida.
+No recurso especial o recorrente alega, além de dissídio jurisprudencial, violação do artigo 332 do CPC/1973, ao argumento de que "a extinção, de pronto, da execução caracterizou irrefutável cerceamento de defesa, uma vez que não lhe foi assegurado a possibilidade de dilação probatória". Assim, em nome do devido processo legal, aduz ser necessária a reforma da r. decisão, a fim de que seja dada a oportunidade ao exequente de conferir se os valores depositados foram devidamente pagos.
+Sustenta, ademais, malversação do art. 794, I, e 795 do CPC/1973, arguindo que, "para que a questão dos valores incontroversos seja extinta pelo pagamento do devedor, há que se verificar se o devedor pagou corretamente o valor devido, e como se trata de montante em dinheiro, necessário dar oportunidade ao exequente de elaboração de cálculos para conferência do depósito".
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+O Tribunal a quo consignou quanto ao ponto controverso (fl. 268, e-STJ):
+Assinalo, inicialmente, que não merece prosperar a alegação da parte exequente a respeito da ocorrência de cerceamento de defesa, haja vista que ela teve oportunidade de apresentar manifestação a respeito do depósito do precatório após o levantamento efetuado em 10.06.2013, conforme documentos de fls. 186/188, pois foi intimada em 15.10.2013 do despacho de fl. 185, que determinou que se aguardasse o retorno do processo principal, em razão da notícia do depósito do precatório em relação à parte incontroversa, no entanto, quedou-se inerte, tendo se manifestado somente após decisão de fl. 193, proferida em 20.10.2014.
+Assim, tendo a Corte de origem, após ampla análise do conjunto fático-probatório, firmado a compreensão de que não há cerceamento de defesa na hipótese, não é possível rever a conclusão a que chegou o Tribunal de origem sobre a questão. Com efeito, tal análise demanda necessariamente o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
