@@ -1,0 +1,31 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME], de decisão que negou seguimento a recurso especial apresentado contra o v.acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE DESPEJO - FALTA DE PAGAMENTO - COBRANÇA DE ALUGUÉIS E ENCARGOS - DESPEJO PERDA OBJETO - CONSTITUIÇÃO EM MORA - SIMPLES INADIMPLEMENTO - CITAÇÃO CONJUGE - NÃO NECESSIDADE - COMPROVAÇÃO DE PAGAMENTO - PROVA DOCUMENTAL - INEXISTÊNCIA.
+- A constituição em mora em obrigações decorrentes de relação contratual se dá com o simples inadimplemento, não sendo necessária a prévia notificação do devedor.
+- Em ações de despejo não se faz necessário a composição do pólo passivo pelo cônjuge do devedor.
+- A única maneira de se desvencilhar da cobrança referente aos aluguéis em atraso, bem como de demais encargos locatícios, seria trazendo aos autos os recibos de pagamento dos mesmos, o que não foi feito.
+- As despesas como fornecimento de energia elétrica e água devem ser vistas como consectários legais da locação, uma vez que quem consome é que deve arcar com os valores." (fl. 98)
+Opostos embargos de declaração, foram rejeitados (fls. 130/133).
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, o recorrente aponta violação dos arts. 333, I, e 368 do CPC/1973, 421 e 422 do CC/2002 e 2º, 35 e 57 da Lei 8.245/91 (fls. 136/145).
+Foram apresentadas contrarrazões (fls. 163/165).
+É o relatório. Decido.
+2. O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, quanto à alegada violação dos arts. 368 do CPC/1973, 421 e 422 do CC/2002 e 2º e 35 da Lei 8.245/91, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a parte ora recorrente tenha oposto embargos de declaração a fim de sanar eventual irregularidade.
+Ressalte-se que esta eg. Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, não sendo suficiente a simples invocação da matéria na petição de embargos de declaração. Caberia à parte recorrente, na hipótese, alegar violação ao art. 535 do Código de Processo Civil de 1973, providência, todavia, da qual não se desincumbiu. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AÇÃO DE RESOLUÇÃO PARCIAL DE CONTRATO E RESTITUIÇÃO DE VALORES COM PEDIDO DE ADIMPLEMENTO DE CONTRATO DE PLANTA COMUNITÁRIA. RECONHECIMENTO DO DIREITO À RESTITUIÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. ARTS. 538 E 884 DO CC. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 DO STF E 211 DO STJ. DECISÃO MANTIDA.
+1. O Tribunal de origem entendeu que "não tendo a demandada retribuído o investimento realizado pelo consumidor, conforme determinava a portaria que regulamentava a relação entabulada entre as partes à época, nada impede que o contratante postule e veja reconhecido seu direito em ver o valor investido devidamente devolvido. Rever esta conclusão esbarraria no óbice das Súmulas 5 e 7 do STJ".
+2. A matéria referente ao art. 884 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+O Superior Tribunal de Justiça não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 535 do Código de Processo Civil, sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Agravo regimental não provido."
+(AgRg no AREsp 663.279/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 28/08/2015, g.n.)
+Sem razão o recorrente, também, no tocante ao art. 333, I, do CPC.
+O Tribunal de origem, no que se refere à prova da relação locatícia existente entre as partes, expressamente consignou o seguinte:
+"Por fim, no que diz respeito a carência de ação por ilegitimidade passiva razão mais estapafúrdia a alegação, posto que não se pode negar pelos arrazoados dos autos que a parte firmou contro de locação com o apelado, fl. 09.
+ ..
+Pelos documentos carreados com a peça de ingresso, vê-se que foi firmado contratod de locação com os apelantes, ff. 16/17 e 19/20 que venceria em novembro/2013 e passou a vigie por prazo indeterminado, em que pese a sinalização da formalização de um aditivo, fl. 18 que não chegou a ser efetivado pelo apelado ao argumento que tomou conhecimento da inadimplência dos requeridos em relação a contas de água e energia elétrica." (fls. 102/103).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 do STJ.
+Por fim, no que se refere ao art. 57 da Lei 8.245/91, observa-se que o Tribunal de origem, ao examinar a questão considerou que, em se tratando de ação de despejo por falta de pagamento, em que a obrigação de pagar os aluguéis e encargos locatícios decorre de uma relação contratual, a "mora é ex re, ou seja, resulta do próprio descumprimento da obrigação, sendo desnecessária a notificação prévia" (fl. 101).
+Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido quanto ao ponto, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
