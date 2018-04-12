@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre a Justiça Trabalhista (suscitante) e a Justiça Federal (suscitada) nos autos de embargos de devedor opostos em execução fiscal promovida pela Fazenda Nacional.
+O Juízo do Setor Anexo Fiscal da Comarca de Indaiatuba - SP, no exercício da jurisdição federal delegada, deferiu pedido formulado pela Fazenda Nacional de "envio destes autos para a Justiça do Trabalho, cuja competência para seu processamento é absoluta" (fl. 56) - cf. fl. 60.
+O Juízo da Vara do Trabalho de Indaiatuba-SP, por sua vez, suscitou o conflito, alegando que "à fl. 86/87, houve por bem o C. STJ reconhecer a competência do E. TRF da 3ª Região para julgar a Apelação de f. 31/35, abduzindo da justiça laboral qualquer apreciação deste executivo fiscal" (fl. 64).
+O Ministério Público Federal opinou "pelo conhecimento do conflito para declarar competente o Tribunal Regional Federal da 3ª Região, o suscitado" (fls. 219/222).
+É o relatório.
+O Juízo suscitante, na verdade, reaviva a discussão já submetida a este Tribunal Superior, solvida nos termos da decisão proferida pelo Ministro Teori Albino Zavascki no CC 81.287/SP, acostada às fls. 173/174 destes autos, já transitada em julgado (fl. 180), pela qual se reconheceu que "proferida sentença pela Justiça Estadual Comum, no exercício de competência federal delegada, em data anterior à modificação introduzida pela EC n. 45/2004  ..  cabe ao Tribunal Regional Federal respectivo, em face de sua competência revisional, apreciar e julgar o recurso de apelação interposto" (fl. 173).
+Com efeito, solvida a questão por decisão já transitada em julgado (CC 81.287/SP), incabível sua reapreciação por meio de novo incidente.
+Nesse sentido, a Terceira Turma desta Corte, quando do julgamento do AgRg no Ag 1.352.423/RS, da relatoria do Ministro Massami Uyeda, acórdão publicado em 29 de março de 2011, deliberou que "não é possível a reanálise de competência já definida em conflito de competência anterior com decisão já transitada em julgado ainda que para eventual adequação a entendimento consolidado em súmula vinculante posterior, a qual deu nova interpretação ao texto constitucional, tendo em vista que, em respeito à coisa julgada e ao princípio da segurança jurídica, tal possibilidade se restringe ao caso de alteração do texto constitucional".
+Nessa mesma linha:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. ACIDENTE DE TRABALHO. INDENIZAÇÃO PLEITEADA PELOS HERDEIROS DO TRABALHADOR FALECIDO. ALTERAÇÃO DA JURISPRUDÊNCIA DESTA EGRÉGIA CORTE. ALEGADA OFENSA À SÚMULA VINCULANTE 22/STF. DECISÃO PROFERIDA EM PROCESSO ANTERIOR, COM TRÂNSITO EM JULGADO. IMPOSSIBILIDADE DE NOVO JULGAMENTO. AGRAVO DESPROVIDO.
+1. Não há nulidade na decisão que reconhece a competência da justiça comum para julgamento da ação, em que os herdeiros do de cujus pleiteiam indenização, decorrente de acidente de trabalho que causou a sua morte, na hipótese em que proferida anteriormente à edição da Súmula Vinculante 22.
+2. Em respeito à coisa julgada e ao princípio da segurança jurídica, não é possível nova análise acerca da competência para o julgamento da lide, quando essa já foi definida em processo anterior com decisão transitada em julgado, ainda que para eventual adequação a entendimento consolidado em súmula vinculante posterior, que deu nova interpretação ao texto constitucional.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no Ag 1417204/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/9/2014, DJe 9/10/2014)
+Por estas razões, não conheço do presente conflito de competência.
+Devolvam-se os autos ao Tribunal Regional Federal da 3ª Região, juízo competente para o julgamento do presente feito, conforme já reconhecido no CC 81.287/SP.
+Dê-se ciência aos Tribunais conflitantes e ao Ministério Público Federal.
+Publique-se.
