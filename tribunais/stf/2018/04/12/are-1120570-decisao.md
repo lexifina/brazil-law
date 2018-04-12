@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão do Tribunal de Justiça do Estado de São Paulo que negou seguimento ao recurso extraordinário, tendo em vista a incidência das Súmulas 279 e 280 do Supremo Tribunal Federal, bem como em razão de que eventual ofensa à Constituição seria reflexa (págs. 150-151 do doc. eletrônico 2).
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar os fundamentos da decisão agravada.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Com esse entendimento, menciono julgados  de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma- grifei).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma- grifei).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; ARE 752.372-AgR/MG, de minha relatoria.
+    Ademais, conforme assinalado na decisão agravada, para divergir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos e da norma local aplicável à espécie (Lei 3.925/1995 do Município de Piracicaba/SP), o que é vedado pelas Súmulas 279/STF e 280/STF. Nesse sentido, destaco a ementa do ARE 909.659-AgR/SP, da relatoria da Ministra Cármen Lúcia, em que se analisou situação idêntica à destes autos:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. ABONO DE DESEMPENHO. NATUREZA JURÍDICA. INTEGRAÇÃO DA BASE DE CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
