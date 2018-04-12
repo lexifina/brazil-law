@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da 1ª Turma Recursal da Fazenda Pública dos Juizados Especiais Cíveis do Estado do Rio Grande do Sul, assim ementado (eDOC 6, p. 1):
+    “RECURSO INOMINADO. MUNICÍPIO DE PINHEIRINHO DO VALE. APOSENTDORIA VOLUNTÁRIA. INSS.
+    1. Trata-se de ação ordinária em que a parte autora visa a declaração de nulidade de sua exoneração, em razão de aposentadoria pelo INSS, bem como sua reintegração e pagamento de remunerações atualizadas, julgada procedente na origem.
+    2. Sentença de procedência confirmada por seus próprios fundamentos, nos moldes do artigo 46, última figura, da Lei nº 9.099/95.
+    RECURSO INOMINADO DESPROVIDO, POR MAIORIA, VENCIDA A DRA. THAIS COUTINHO DE OLIVERIA”.
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com fulcro no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao art. 37, § 10, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que (eDOC 7, p. 8-10):
+          “(...) o autor fez parte do quadro de servidores do Município, motivo pelo qual a relação existente entre as partes é regulada pelo Estatuto dos Servidores Públicos Municipais de Pinheirinho do Vale, qual seja a Lei nº 002/2008, pois o demandante é ocupante de cargo efetivo onde a regulação é feita por meio de estatuto.
+    (…) Ora, não se pode “misturar” um regime jurídico único com o regime previdenciário, para logo após determinar a segregação dos efeitos deste, naquele, o que é absolutamente indevido.
+    (…) A Lei Municipal determina que a aposentadoria é causa de vacância, não competindo ao Poder Judiciário interpretar o eventual ‘instituto previdenciário’ em que ocorreu a aposentadoria para determinar se pode, ou não, o servidor permanecer ‘no serviço’”.
+    A Primeira Vice-Presidência do TJ/RS inadmitiu o recurso ao concluir que o acórdão recorrido encontra-se em consonância com a orientação deste Supremo Tribunal Federal (eDOC 9, p. 1-10).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Correta a decisão agravada, porquanto o entendimento adotado pelo acórdão a quo está em harmonia com a jurisprudência deste Supremo Tribunal, no sentido de que, à luz do § 10 do art. 37 da Carta da República, é possível a acumulação de proventos decorrentes de aposentadoria no Regime Geral de Previdenciária Social com remuneração de cargo público.
+    Confiram-se, a propósito, os seguintes acórdãos:
+    “RECLAMAÇÃO. ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO. DESCUMPRIMENTO DA DECISÃO PROFERIDA NO JULGAMENTO DAS AÇÕES DIRETAS DE INCONSTITUCIONALIDADE 1.721/DF E 1.770/DF. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO. I – O Supremo Tribunal Federal, por ocasião do julgamento da ADI 1.770/DF, Rel. Min. Joaquim Barbosa, e da ADI 1.721/DF, Rel. Min. Ayres Britto, declarou inconstitucionais o § 1º e o § 2º do art. 453 da CLT, sob o fundamento de que a mera concessão da aposentadoria voluntária ao trabalhador não tem por efeito extinguir, instantânea e automaticamente, o seu vínculo de emprego. II – A contrario sensu, pode-se afirmar, então, que é permitido ao empregado público requerer a aposentadoria voluntária no Regime Geral de Previdenciária Social e continuar trabalhando e, consequentemente, recebendo a respectiva remuneração. Isso porque em tais situações não há acumulação vedada pela Constituição Federal. III – Agravo regimental a que se nega provimento” (Rcl n. 9762-AgR, Plenário, Relator o Ministro Ricardo Lewandowski, DJe 31.5.2013).
+     “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POSSIBILIDADE DE ACUMULAÇÃO DE PROVENTOS DECORRENTES DE APOSENTADORIA NO REGIME GERAL DE PREVIDÊNCIA SOCIAL COM REMUNERAÇÃO DE CARGO PÚBLICO. PRECEDENTES. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA DECISÃO AGRAVADA, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 914547 AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 29.8.2016)
+    Veja-se, ainda, o ARE 796.044-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 13.6.2014. No mesmo sentido, cito as seguintes decisões monocráticas: RE 902.344, Rel. Min. Dias Toffoli, DJe 10.8.2017 e ARE 1.115.182, Rel. Min. Alexandre de Moraes.
+    Também não merece acolhimento o pleito alternativo para que os autos sejam sobrestados “até o julgamento do paradigma, eis que foi reconhecida a repercussão geral no processo RE 655.283 – Tema 606/STF” (eDOC 7, p. 13).
+    Com efeito, no exame do RE-RG 655.283, de relatoria do Ministro Marco Aurélio, DJe de 02.05.2013 (Tema 606, 1ª parte), esta Corte reconheceu a existência de repercussão geral nos casos em que se discute a controvérsia relativa à reintegração de empregados públicos dispensados em decorrência da concessão de aposentadoria espontânea e à consequente possibilidade de acumulação de proventos com vencimentos.
+    Observo, no entanto, que o presente caso não se amolda à tese julgada no Tema 606, 1ª parte, da sistemática da repercussão geral, tendo em vista que, na hipótese em análise, o acórdão recorrido reconheceu o direito à servidora pública regida pelo regime jurídico estatutário a acumulação de proventos decorrentes da aposentadoria pelo Regime Geral de Previdência Social com remuneração de cargo público.
+    Nesse sentido, vejam-se as seguintes decisões monocráticas: ARE 792.681, Rel. Min. Rosa Weber, DJe 25.9.2015 e ARE 915.420-ED, Rel. Min. Dias Toffoli, DJe 05.04.2018.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do Código de Processo Civil e art. 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
