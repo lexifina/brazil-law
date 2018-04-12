@@ -1,0 +1,24 @@
+DECISÃO: O presente recurso extraordinário foi interposto pela União contra acórdão que, proferido pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado (fls. 127):
+    “PIS. SOCIEDADES COOPERATIVAS DE CRÉDITO. MEDIDA PROVISÓRIA Nº 1.858/99. LEI 5.764/71.
+    As disposições da Lei Complementar 7, de 1970, devem ser tidas como de lei ordinária, e, portanto, passíveis de modificação por norma da mesma hierarquia.
+    Os atos cooperativos não estão sujeitos à incidência do PIS porquanto o art. 79 da Lei 5.764/71 dispõe que o ato cooperativo não implica operação de mercado, nem contrato de compra e venda de produto ou mercadoria. O resultado positivo decorrente dos atos típicos da sociedade cooperativa não pode ser tido como faturamento. Mantido o fim societário na prática do ato próprio que beneficie à sociedade cooperativa, não resta configurada a base de cálculo do PIS.
+    No caso das cooperativas de crédito, toda a sua movimentação financeira, incluindo a captação de recursos, a realização de empréstimos aos cooperados e a efetivação de aplicações financeiras no mercado, constitui ato cooperativo, o que impede a incidência da contribuição ao PIS. Isso porque, via de regra, estão impedidas de realizar negócios jurídicos com não-cooperativados, sob pena de praticarem atividades típicas de instituições financeiras. O art. 23 da Resolução BACEN n.º 3.106/2003 prevê que as cooperativas de crédito somente podem captar depósitos ou realizar empréstimos com associados.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 72, V, do ADCT.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Cabe registrar, de outro lado, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se observar, por relevante, no que concerne à própria controvérsia jurídica em causa, que o entendimento exposto na presente decisão acha-se consagrado em acórdão proferido pela colenda Primeira Turma desta Suprema Corte:
+    “DIREITO TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COFINS E CONTRIBUIÇÃO PARA O PIS. COOPERATIVA. INCIDÊNCIA DA EXAÇÃO APENAS NOS ATOS NÃO COOPERADOS. DISTINÇÃO, NO CASO CONCRETO, ENTRE ATOS COOPERADOS E NÃO COOPERADOS. SÚMULA 279/STF. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES.
+    1. A jurisprudência do Supremo Tribunal Federal entende que não há incidência do PIS e da COFINS nos atos cooperativos próprios e que, por outro lado, incide a exação em atos praticados com terceiros não associados.
+    2. Identificar a natureza do ato praticado, se cooperado ou não, demandaria o reexame da legislação infraconstitucional e do acervo fático-probatório, o que é vedado em sede de recurso excepcional. Essa hipótese atrai a incidência da Súmula 279 desta Corte.
+    3. A Lei nº 5.764/1971 foi recepcionada pela Constituição de 1988 com natureza de lei ordinária e o seu art. 79 define o que é ato cooperativo. Saber se essa definição repercutirá ou não na materialidade de cada espécie tributária demanda a análise da subsunção do fato à norma de incidência específica (RE 599.362, Rel. Min. Dias Toffoli), providência vedada em sede de recurso excepcional.
+    3. Agravo regimental a que se nega provimento.”
+    (RE 599.266-AgR/MG, Rel. Min. ROBERTO BARROSO)
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 12 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
