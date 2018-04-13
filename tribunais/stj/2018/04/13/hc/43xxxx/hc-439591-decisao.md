@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de [NOME], contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Minas Gerais.
+Depreende-se dos autos que o paciente foi condenado pela prática do crime descrito no art. 16, caput, da Lei n. 10.826/2003, à pena de 03 (três) anos de reclusão, em regime aberto, mais ao pagamento de 10 (dez) dias-multa, sendo a pena privativa de liberdade substituída por duas restritivas de direitos.
+Irresignada, a defesa do paciente interpôs recurso de apelação perante o eg. Tribunal de origem, que negou provimento ao apelo, nos termos do v. acórdão juntado às fls. 84-97.
+No presente mandamus, o impetrante sustenta, em síntese, a atipicidade material da conduta praticada, qual seja, porte ilegal de munição, em razão da ausência da arma de fogo para imediata utilização.
+Nesse sentido, alega que: " ..  a conduta perpetrada se mostra atípica, haja vista a absoluta falta de possibilidade de lesão ou de perigo de lesão ao bem jurídico tutelado, qual seja, a incolumidade pública. Segundo o princípio da ofensividade (ou lesividade), um fato somente poderá ser punido criminalmente se provocar lesão ou perigo de lesão ao bem jurídico protegido  .. ."
+Requer, ao final, a concessão da ordem, para absolver o paciente por atipicidade da conduta, ante a conduta de posse irregular de munição de uso restrito (fls. 1-8).
+As informações foram prestadas às fls. 152-162.
+O Ministério Público Federal, às fls. 169-174, manifestou-se pelo não conhecimento do writ, caso contrário, pela denegação da ordem, nos termos da seguinte ementa:
+"HABEAS CORPUS. SUCEDÂNEO RECURSAL. INADEQUAÇÃO. PENAL E PROCESSUAL PENAL. PORTE ILEGAL DE MUNIÇÃO DE USO RESTRITO. ART. 16 DA LEI 10.826/03. CONDENAÇÃO NAS INSTÂNCIAS ORDINÁRIAS. PLEITO DE ABSOLVIÇÃO POR ATIPICIDADE DA CONDUTA. CRIME DE MERA CONDUTA E DE PERIGO ABSTRATO. TIPICIDADE DA CONDUTA CONFIGURADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELA EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO OU PELA DENEGAÇÃO DA ORDEM."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem, de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante sustenta, em síntese, a atipicidade material da conduta praticada, qual seja, porte ilegal de munição, em razão da ausência da arma de fogo para imediata utilização.
+No ponto, o entendimento desta Corte de Justiça é assente no sentido de que o porte de munição, em desacordo com as normas de regência, por se tratar de crime de perigo abstrato e de mera conduta, é suficiente para a configuração do delito tipificado no art. 14, da Lei 10.826/03, pois o que se pretende é o resguardo da segurança pública e da paz social.
+Portanto, não há que se falar na atipicidade material da conduta praticada ou na incidência do princípio da insignificância, independentemente de ter havido ou não a apreensão da arma ou da pequena quantidade de munição apreendida com o paciente.
+Na linha de precedentes desta eg. Corte Superior, colaciono os seguintes arestos:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. ART. 16 DA LEI N.10.826/2003. PERIGO ABSTRATO. TIPICIDADE DA CONDUTA. PRISÃO PREVENTIVA. RELAXAMENTO. PREJUDICADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O porte ilegal de arma de fogo de uso restrito é delito de perigo abstrato, cujo bem jurídico tutelado é a segurança pública e a paz social, sendo inaplicável o princípio da insignificância.
+3. Relaxada a prisão preventiva do paciente pelo reconhecimento do excesso de prazo na formação da culpa, o pleito da revogação da custódia antecipada encontra-se prejudicado.
+Habeas corpus não conhecido." (HC 414.618/PR, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 02/03/2018).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. POSSE ILEGAL DE MUNIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. CRIME DE PERIGO ABSTRATO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Inexiste maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. Esta Corte possui entendimento no sentido de ser inaplicável o princípio da insignificância aos crimes de posse e de porte de arma de fogo, por reconhecer-lhes a natureza de crimes de perigo abstrato, independentemente da quantidade da munição apreendida e se esta encontrava-se ou não acompanhada da arma (AgRg no AREsp 644.499/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 4/8/2015).
+3. Agravo regimental improvido." (AgRg no HC 413.017/MS, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe 14/02/2018).
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
