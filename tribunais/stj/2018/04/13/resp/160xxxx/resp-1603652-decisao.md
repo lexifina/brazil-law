@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 197):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO POR INCAPACIDADE. INTERESSE DE AGIR. DECADÊNCIA. PRESCRIÇÃO. MEMORANDO CIRCULAR CONJUNTO Nº 21/DIRBEN/PFEINSS, DE 15.04.2010. DECRETO REGULAMENTADOR - LIMITES. ARTIGO 29, II, DA LEI 8.213/91.
+1. Restando demonstrado que o INSS não pagou todos os valores devidos, está presente o interesse de agir.
+2. Contam-se os prazos prescricional e decadencial a partir da data de edição do Memorando-Circular-Conjunto nº 21/DIRBEN/PFEINSS (15.10.2010), não atingindo o (s) benefícios (s) ora discutidos (s).
+3. Os Decretos 3.265/99 e 5.545/05, que modificaram o artigo 32 do Decreto 3.048/99 (RBPS), extrapolaram sua função regulamentar ao contrariarem as diretrizes estabelecidas pelos artigos 29 da Lei 8.213/91 e 3º da Lei 9.876/99.
+4. Os benefícios por incapacidade concedidos após a vigência da Lei nº 9.876/99 têm o salário-de-benefício calculado pela média aritmética simples dos maiores salários de contribuição, correspondente a 80% do período contributivo considerado, independentemente do número de contribuições mensais vertidas.
+Opostos embargos declaratórios, foram rejeitados (fl. 218).
+Aponta o recorrente violação ao art. 267, VI, do CPC, sustentando, que "a parte autora carece de interesse de agir em relação à aplicação do art. 29, II, da Lei 8.213/91, a fim de que o cálculo de seu benefício seja realizado com a inclusão de apenas 80% (oitenta por cento) dos maiores salários de contribuição desde 07/1994, independentemente do número de contribuições mensais" (fls. 227/228).
+Aduz que a "aplicação do Memorando-Circular Conjunto nº 21 DIRBEN/PFEINSS (de 15/04/10), que passou a revisar administrativamente os benefícios por incapacidade e as pensões derivadas destes (assim como as não precedidas de benefício) concedidos a partir de 29/11/1999, para que, de acordo com a sistemática do art. 29, II, da Lei 8.213/9, com a redação dada pela Lei 9.876/99, sejam considerados apenas os 80% maiores salários de contribuição no cálculo de suas RMIs, implica ausência de interesse de agir" (fl. 228).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 239/242.
+É o relatório.
+Com efeito, o Tribunal de origem, ao concluir que permanece o interesse de agir da parte autora na revisão do benefício, adotou as seguintes razões de decidir (fl. 190/191):
+Quanto ao interesse de agir da parte autora, entendo que, não obstante tenha o INSS realizado transação na ACP nº 0002320-59.202.4.03.6183, abarcando a revisão de todos os benefícios por incapacidade na forma do art. 29, inciso II, da Lei 8.213/91, com redação dada pela Lei nº 9.876/99, havendo prova nestes autos que o(s) benefício (s) objeto da presente ação já sofreu (ram) a revisão em questão, o pagamento dos atrasados ainda não ocorreu, estando apenas previsto para meados de 2017.
+Portanto, a autarquia não pagou os atrasados a que a parte demandante tinha direito, o que, por si só, já demonstra seu interesse de agir.
+Ressalte-se, também, que, mesmo em casos nos quais o autor eventualmente receba os valores devidos no curso do processo, não pode ser afastado o seu interesse no momento do ajuizamento da ação, devendo ser efetuado o cálculo devido e descontados os valores pagos administrativamente.
+Entretanto, a Autarquia ora recorrente, no Recurso Especial, limitou-se a sustentar a ausência de interesse de agir, sem atacar o referido fundamento do acórdão.
+A irresignação, portanto, esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Do exposto, não conheço do recurso especial.
+Publique-se.
