@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. HIPÓTESE DE CABIMENTO. OBSCURIDADE. RAZÕES RECURSAIS DEFICIENTES. PRETENSÃO DE REJULGAMENTO DA CAUSA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+DECISÃO
+[NOME] opõe embargos de declaração contra a decisão monocrática assim ementada:
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. LEGALIDADE DE AVALIAÇÃO PSICOLÓGICA. INQUINAÇÃO. CRITÉRIOS SUBJETIVOS. IMPOSSIBILIDADE DE PROSSEGUIMENTO SEM SUBMISSÃO A NOVO EXAME. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+Sustenta a ocorrência de obscuridade, nos seguintes termos:
+O Recurso Especial interposto pelo Embargado possuía dois pedidos distintos: (a) a reforma do acórdão para chancelar o ato administrativo que desclassificou o Embargante do concurso prestado, indeferindo os pleitos formulados nesta ação e (b) caso não seja reformado o acórdão que seja determinada a realização de novo exame.
+A fundamentação tratou do ponto da necessidade de um novo exame, mas não explicitou se no caso em comento o Recorrente deverá fazer novo exame ou se estaria dando provimento ao Recurso Especial para chancelar o ato de eliminação do Embargante, que frisa-se foi ilegal.
+Impugnação em e-STJ fls. 413.
+É o relatório.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O mérito recursal é inviável, como se apreende da transcrição das razões.
+Há prevalecer que o vício da obscuridade consiste essencialmente na dificuldade de compreensão do texto decisório pela parte ante a falta de clareza, como bem explica Daniel Amorim Assumpção Neves ("in" Manual de Direito Processual Civil, 8.ª ed., Salvador: JusPosdivm, 2016, p. 3252/3253):
+A obscuridade, que pode ser verificada tanto na fundamentação quanto no dispositivo, decorre da falta de clareza e precisão da decisão, suficiente a não permitir a certeza jurídica a respeito das questões resolvidas. O objetivo do órgão jurisdicional ao prolatar a decisão é ser entendido, de preferência por todos, inclusive as partes, ainda que tal missão mostre-se extremamente inglória diante do nível cultural de nosso país. De qualquer forma, uma escrita simples, com palavras usadas com frequência no dia a dia, limitação de expressões em língua estrangeira ao mínimo indispensável, bem como a utilização de termos técnicos com ponderação, que apesar de imprescindíveis à qualquer ciência, não precisam ser empregados na decisão sem qualquer proveito prático, auxiliam na tarefa de proferir decisões claras e compreensíveis.
+O embargante, por outro lado, reclama que diante da existência de dois pedidos recursais deduzidos pelo Distrito Federal apenas um deles foi acolhido mas não o outro, não havendo explicitação, contudo, sobre em que medida ele não teria compreendido alguma parte do decisório, no que se revela, na verdade, o uso de embargos de declaração com finalidade outra que não a resolução propriamente dos vícios previstos no art. 1.022 do CPC/2015, objetivando com isso um novo enfrentamento da demanda, o que não se coaduna com a via recursal escolhida.
+Assim sendo, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
