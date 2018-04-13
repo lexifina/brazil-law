@@ -1,0 +1,6 @@
+DECISÃO
+Compulsando os autos, verifica-se que a controvérsia travada nos presentes autos diz respeito a indenização por dano moral por inclusão indevida de nome de consumidor em banco de cadastro de inadimplentes.
+A Corte Especial, no julgamento do CC n. 150.050/DF, Rel. Min. Og Fernandes, DJ 08.05.2017, realizando a interpretação do que fora anteriormente decido no CC 138.405/DF, definiu que compete à Segunda Seção a análise de ações propostas por particulares em face de empresas concessionárias de serviços públicos, quando não houver pedido ou causa de pedir referente ao contrato de concessão de serviço público ou à norma legal ou regulamentar da concessão.
+Dessa forma, considerando que a causa de pedir da presente demanda está relacionada tão somente com o direito privado, não havendo, portanto, discussão em torno da concessão em si do serviço público, é de se concluir que a competência para o julgamento do presente feito é da Segunda Seção, nos termos do art. 9º, §2º, III, do RISTJ e do CC 150.050/DF.
+Nesse mesmo sentido, versando sobre a mesma matéria, vale conferir o seguinte precedente: AgRg no AREsp 570.295/PE, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 13/03/2015.
+Diante do exposto e, com a devida vênia e respeito, determino a distribuição dos autos a um dos relatores da Segunda Seção.
