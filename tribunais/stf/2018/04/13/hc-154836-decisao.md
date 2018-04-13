@@ -1,0 +1,24 @@
+Decisão:
+Ementa: Processual Penal. Habeas corpus. Prisão preventiva. Excesso de prazo. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro Felix Fischer, assim ementado:
+    “PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO. INOCORRÊNCIA. PECULIARIDADE DO CASO CONCRETO. COMPLEXIDADE. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS. HABEAS CORPUS NÃO CONHECIDO.
+    I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+    II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+    III - Os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes).
+    IV - In casu, verifica-se inexistir, ao menos por ora, o alegado excesso de prazo, uma vez que o eventual atraso para conclusão do feito se deve em razão das peculiaridades do caso concreto, bem como diante da complexidade do caso que envolve diversos corréus (nove), presos em comarcas distintas, e diferentes defensores, além da demanda de várias diligências, mormente pela necessidade de expedição de cartas precatórias.
+    Habeas corpus não conhecido.”
+    2. Extrai-se dos autos que o paciente foi preso temporariamente e denunciado pelos crimes dos arts. 2º da Lei 12.850/13, 121, §2º, I, III e IV, e 148 do Código Penal, c/c os arts. 29 e 69 do Código Penal. A prisão foi convertida em preventiva.
+    3. Em seguida, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio HC no Superior Tribunal de Justiça, não conhecido.
+    4. Neste habeas corpus, a parte impetrante sustenta a ilegalidade da “delonga indeterminada na manutenção preventiva” e a “ausência de fundamentação harmônica para a sua decretação, haja vista que não houve sequer a consideração das condições pessoais do paciente”.
+    Decido.
+    5. A Primeira Turma do Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade do uso da ação de habeas corpus em substituição ao recurso ordinário previsto na Constituição Federal ( v.g HC 109.956, Rel. Min. Marco Aurélio, e HC 104.045, Rel.ª Min.ª Rosa Weber). De modo que o processo deve ser extinto sem resolução do mérito por inadequação da via eleita.
+    6. Não é o caso de concessão da ordem de ofício.
+    7. A orientação jurisprudencial do Supremo Tribunal Federal é pacífica no sentido de que a aferição de eventual demora na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo). Precedentes: HC 125.839-AgR, de minha relatoria; RHC 122.462, Rel. Min. Teori Zavascki; HC 122.297-AgR, Rel.ª Min.ª Cármen Lúcia.
+    8. No caso de que se trata, o Superior Tribunal de Justiça deixou consignado que, “conforme informações prestadas pelo eg. Tribunal de origem, acostadas às fls. 874-893, aguarda a devolução das cartas precatórias e a oitiva de testemunhas para concluir a instrução do feito” e que o caso “envolve diversos corréus (nove), presos em comarcas distintas, e diferentes defensores, além da demanda de várias diligências”. De modo que não encontro injustificada demora ou mesmo desídia por parte do Poder Judiciário que autorize a imediata revogação da custódia do paciente.
+    9. Quanto à alegada “ausência de fundamentação” da prisão cautelar, além de verificar que a matéria não passou pelo crivo do Superior Tribunal de Justiça, dou especial relevância ao fundamento adotado pelo Juízo de origem, no sentido da participação do paciente, e outros, em organização criminosa que agia “ao arrepio da Lei e do Estado, ‘julgando, impondo sentenças cruéis e as executando’”.
+    10. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+    Brasília, 13 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
