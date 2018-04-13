@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], desafiando decisão da Presidência do Tribunal de Justiça do Estado de São Paulo que não admitiu recurso especial com base nos seguintes fundamentos: (I) não houve violação ao art. 535 do CPC/73; (II) "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contem fundamentação adequada para lhe dar respaldo" (fl. 243); (II) incidência da Súmula 7/STJ e; (III) a aplicação da Súmula 280/STF.
+Parecer do Ministério Público Federal pelo não conhecimento do agravo (fls. 302/305).
+É o relatório.
+Verifica-se que a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico (I) a apontada aplicação do óbice previsto na Súmula 7/STJ, (II) "os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contem fundamentação adequada para lhe dar respaldo" (fl. 243) e; (III) a aplicação da Súmula 280/STF.
+Com efeito, apesar de fazer menção ao verbete sumular nº 7/STJ (discorrendo, genericamente, sobre a referida Súmula 7/STJ), a parte agravante não declinou os motivos pelos quais, no seu entender, o referido óbice não seria aplicável ao caso concreto.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Quanto à alegada negativa de prestação jurisdicional, melhor sorte não assiste à parte agravante, porquanto, verifica-se que não ocorreu ofensa ao art. 535 do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Diante do exposto, conheço parcialmente do agravo e, na parte conhecida, nego-lhe provimento.
+Publique-se.
