@@ -1,0 +1,21 @@
+DECISÃO
+EDUARDO DE LIMA COSTA, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n. 0003452-48.2015.8.26.0210.
+Consta dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, porque mantinha em depósito, para fins comerciais, 14 porções de crack, com peso bruto aproximado de 3,09 g; 2 porções maiores da mesma substância, com peso bruto aproximado de 28,87 g; 15 eppendorfs de cocaína, com peso bruto de, aproximadamente, 10,83 g.
+Busca-se, por meio deste writ, liminarmente e no mérito, seja fixado o regime inicial semiaberto de cumprimento de pena, nos termos do art. 33, § 2º, "b", do Código Penal.
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, com a concessão de habeas corpus, de ofício, "para a aplicação do sistema prisional semiaberto" (fl. 68).
+Decido.
+O Juiz sentenciante entendeu devida a imposição do regime inicial fechado, "por se tratar de crime equiparado a hediondo" (fl. 31). O Tribunal de Justiça estadual, por sua vez, manteve a fixação do modo inicialmente mais gravoso, nos seguintes termos (fls. 46-47):
+Por fim, inviável que o regime prisional inicial seja outro diverso do fechado. Sendo que tal tratamento mais severo corresponde à eficiente medida político-criminal, que busca harmonizar a legislação pátria aos Tratados de Direito Internacionais que tangem ao combate a narcotraficância, dos quais o país é signatário.
+Além disso, é certo que a traficância ilícita fomenta a prática de outros delitos. O que faz com que a conduta do réu mereça maior reprovabilidade por parte do Estado.
+Fica patente, portanto, que o regime fechado é o único que se mostra apto para atingir a função preventiva da pena, de inibir a prática de novas ações delituosas, nos termos do artigo 33, § 3º, do Código Penal.
+Conforme visto, as instâncias ordinárias entenderam devida a fixação do regime inicial fechado com base, tão somente, no caráter hediondo e na gravidade abstrata do delito cometido, sem, no entanto, haver apontado elementos concretos dos autos que, efetivamente, evidenciassem a imprescindibilidade de imposição do modo mais gravoso.
+Assim, uma vez que o paciente era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve a pena-base fixada no mínimo legal (fl. 45), foi condenado a reprimenda superior a 4 e inferior a 8 anos de reclusão e foi apreendido com quantidade de drogas não tão elevada, entendo que o regime inicial semiaberto é, efetivamente, o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 2º, "b", e § 3º, do Código Penal.
+Essa, aliás, também foi a compreensão do Ministério Público Federal que, em seu parecer, assim se manifestou, no que interessa (fls. 63-64):
+Frise-se que, avaliadas, de forma positiva, todas as vetoriais do art. 59, do CP, a reprimenda basilar restou infligida no mínimo legal (05 anos), a qual se tornou definitiva nesse mesmo patamar.
+Ademais, o quantum dos estupefacientes apreendidos (31,96 gramas de crack e 10,83 gramas de Erythroxilon coca-cocaína) não é expressivo a ponto de autorizar a aplicação de um regime prisional mais gravoso.
+Essa Corte Superior tem apregoado que, estabelecida a pena-base no patamar mínimo pela favorabilidade das circunstâncias judiciais, não se justifica a fixação do regime prisional mais gravoso (Súmula 440/STJ).
+Portanto, torna-se, de rigor, seguir as diretrizes do artigo 33 c/c o artigo 59, ambos do Código Penal, para imposição do modo prisional adequado, o semiaberto.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para fixar ao paciente o regime inicial semiaberto de cumprimento de pena, nos autos da condenação objeto do Processo n. 0003452-48.2015.8.26.0210, da 1ª Vara da Comarca de Guaíra - SP.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
