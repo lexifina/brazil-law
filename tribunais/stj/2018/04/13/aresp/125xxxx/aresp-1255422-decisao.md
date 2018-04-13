@@ -1,0 +1,18 @@
+DECISÃO
+ Trata-se de agravo interposto por ROBERTO SATURNINO DUARTE contra a decisão que negou seguimento ao seu recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pela Trigésima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 264):
+APELAÇÃO ACIDENTE DE TRÂNSITO ATROPELAMENTO CULPA CONCORRENTE VIOLAÇÃO DE DEVER DE CUIDADO DANOS MORAIS ACUIDADE DA DECISÃO.
+- Irresponsabilidade da vítima (imprudência significativa) que não elide o dever de indenizar do autor, verificada a violação do dever de diligência na condução de veículo automotor (art. 28, do Código de Trânsito Brasileiro) dever qualificado pelas condições adversas da pista, suficiente a prova da imprudência a justificar a indenização, acuradamente fixada (artigos 944, parágrafo único, e 945, ambos do Código Civil);
+- Manutenção da decisão por seus próprios e bem lançados fundamentos artigo 252 do Regimento Interno do Tribunal de Justiça de São Paulo;
+RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 277/279).
+O agravante sustenta, nas razões de recurso especial, ofensa aos artigos 186 do Código Civil e 373, I, do Código de Processo Civil, alegando que não há prova de que se encontrava em velocidade incompatível com a via, portanto, deve ser reconhecido que o acidente foi causado exclusivamente por culpa da vítima, que, alcoolizado, à noite e debaixo de chuva intensa, empurrava seu carro na contramão.
+Assim delimitada a controvérsia, passo a decidir.
+No caso em exame, o acórdão recorrido confirmou a sentença de procedência parcial do pedido indenizatório, que reconheceu a ocorrência de culpa concorrente das partes no evento danoso, com base nos seguintes fundamentos (fl. 265):
+Por sentença (fls. 217/220), a MM. Magistrada julgou procedente em parte o pedido inicial. Reconheceu a "responsabilidade maior" da vítima (Alexandre) que junto das testemunhas Delso e Murilo empurrava o veículo de sua propriedade na contramão e expostos ao trânsito. Fundamentou a "imprudência gritante", com a manutenção do veículo na faixa da esquerda, às 5h da manhã, com chuva e em local de declive; sem prejuízo, Roberto estava em alta velocidade, tendo concorrido para o sinistro. Consequentemente, impôs ao requerido a responsabilidade pelos danos morais (arbitrados em R$18.000,00); contra a r. decisão, insurge-se o demandado.
+A despeito da irresignação, a sentença da R. Primeira Instância deve ser prestigiada in totum. A legislação de trânsito (artigo 28) estabelece que é dever do condutor "a todo momento, ter domínio de seu veículo, dirigindo-o com atenção e cuidados indispensáveis à segurança do trânsito"; muito embora tenha havido culpa concorrente, a velocidade impressa pelo requerido não elide a responsabilidade, nos exatos termos da decisão de Primeiro Grau.
+Como bem fundamentado, a violência da colisão, mesmo após o atropelamento da vítima é suficiente para demonstrar a velocidade do veículo do recorrente.
+A sinalização foi exaustivamente demonstrada. Apesar da enorme irresponsabilidade da vítima e dos depoentes, a velocidade do demandado foi causa concorrente para o óbito.
+Tivesse o domínio completo do veículo poderia, ao menos, reduzir o impacto. Sem dúvida, as condições adversas da pista, não podem ser ignoradas, mas, também impunha maior diligência do requerido.
+Assim, conforme consignado na decisão agravada, a adoção de entendimento por esta Corte acerca da existência de prova acerca da culpa concorrente pelo evento danoso, demandaria reexame do acervo fático-probatório dos autos, o que é vedado a teor da Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
