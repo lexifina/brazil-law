@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por OI MÓVEL S/A de decisão que negou seguimento a recurso especial fundado no art. 105, III, a, da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - TRÂNSITO EM JULGADO - AÇÃO RESCISÓRIA - SUSPENSÃO DA EFICÁCIA DA DECISÃO - INOCORRÊNCIA DE CIRCUNSTÂNCIAS RELEVANTES - IMPOSSIBILIDADE - CAUÇÃO - EXECUÇÃO DEFINITIVA - INEXIGÍVEL - RECURSO CONHECIDO E NÃO PROVIDO.
+- O ajuizamento da ação rescisória não impede o cumprimento da sentença ou acórdão rescindendo, ressalvada a concessão, caso imprescindíveis e sob o pressupostos previstos em lei, de medidas de natureza cautelar ou antecipatória de tutela, art. 489 do CPC.
+- "Em execução definitiva, não se exige do autor o oferecimento de caução para o levantamento dos valores que lhe são devidos."
+- Recurso conhecido e não provido." (fl. 769)
+Opostos embargos de declaração, foram rejeitados (fls. 798/802).
+As razões do recurso especial apontam violação dos arts. 535, II, 798 e 799 do Código de Processo Civil de 1973, alegando a recorrente, em síntese: a) existência de omissão no julgamento, uma vez que não examinados os dispositivos legais invocados pela parte; b) inobservância do poder geral de cautela do juiz, tendo em vista a existência de risco de ineficácia da ação rescisória proposta pela recorrente, decorrente da impossibilidade de recebimento do valor que eventualmente terá que ser devolvido pelos Recorridos em caso de procedência da ação; c) existência de relação de prejudicialidade entre a decisão proferida no processo principal e a ação rescisória.
+Foram apresentadas contrarrazões (fls. 846/848).
+É o relatório. Decido.
+2. O recurso será examinado à luz do Enunciado n. 2 do Plenário do STJ, nos seguintes termos: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+O recurso também não prospera no tocante aos aspectos de mérito.
+O Tribunal de origem, ao examinar a controvérsia, decidiu à base da seguinte fundamentação:
+ "In casu, ainda que em primeiro momento tenha deferido o pedido de suspensão dos efeitos da decisão agravada, após detida análise dos autos, ao meu sentir, carecem os recorrentes de razão.
+ É que, ao contrário do alegado, não há qualquer prejudicialidade ou equívoco do juízo em determinar o cumprimento da sentença, frize-se, por se tratar de sentença devidamente transitada em julgado, da qual não cabe mais recurso.
+ Além disso, não há nos autos qualquer notícia de que eventual pleito suspensivo do agravante formulado nos autos da Ação Rescisória tenha sido deferido.
+ Por fim, quanto ao pedido de imposição de caução para levantamento dos valores disponíveis em juízo, entendo que não são cabíveis, uma vez que "em execução definitiva, não se exige do autor o oferecimento de caução para o levantamento dos valores que lhe são devidos" (STJ, AgRg no AREsp 325.652/SC, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/10/2013, Dje de 28/10/2013)" (fls. 774/775).
+Contudo, esses fundamentos, suficientes à manutenção do v. acórdão recorrido, não foram impugnados nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
