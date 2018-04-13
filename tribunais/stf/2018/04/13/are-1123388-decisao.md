@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão que inadmitiu o recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, o qual impugna decisão monocrática proferida no âmbito do Tribunal Superior do Trabalho (eDOC 4).
+    No caso, o apelo extremo não foi admitido por não ter exaurido todas as instâncias ordinárias. (eDOC 14)
+    Decido.
+    O recurso não merece prosperar.
+    Conforme expressa dicção do artigo 102, III, da Constituição Federal, a competência do Supremo Tribunal Federal para julgar o recurso extraordinário restringe-se às causas decididas em única ou última instância.
+    No presente caso, o agravante não esgotou as vias ordinárias cabíveis, pois interpôs o recurso extraordinário contra decisão monocrática do relator que negou provimento ao agravo de instrumento em recurso de revista. Dessa forma, o presente recurso deve ser obstado, tendo em vista a incidência da Súmula 281 desta Corte.
+    Nesse sentido, confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO NÃO UNÂNIME. POSSIBILIDADE DE CABIMENTO DE EMBARGOS INFRINGENTES. ART. 530 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE DECISÃO DE ÚLTIMA INSTÂNCIA. VIA RECURSAL NÃO ESGOTADA NA ORIGEM. SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 670.775, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 17.4.2009).
+    “RECURSO EXTRAORDINÁRIO - OBJETO. Consoante dispõe o artigo 102, inciso III, da Carta Federal, a decisão atacável mediante extraordinário há de se mostrar de única ou última instância. DIREITO INSTRUMENTAL – NATUREZA das NORMAS - ORGANICIDADE. A regra direciona à natureza imperativa, e não dispositiva, das normas instrumentais. Descabe a queima de etapas, deixando-se de interpor recurso previsto, para, de imediato, alcançar o crivo do Supremo. O acesso a esta Corte, via extraordinário, pressupõe o esgotamento da jurisdição na origem, fenômeno que não ocorre quando inobservado o artigo 530 do Código de Processo Civil, no que contempla a adequação dos embargos infringentes” (RE-AgR 413.195, Rel. Min. Marco Aurélio, Primeira Turma, DJ 4.8.2006).
+    “RECURSO EXTRAORDINÁRIO - AUSÊNCIA DE esgotamento das VIAS RECURSAIS ORDINÁRIAS - DESCABIMENTO DO APELO EXTREMO - SÚMULA 281/STF - DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL - AGRAVO REGIMENTAL IMPROVIDO. O prévio esgotamento das instâncias recursais ordinárias constitui pressuposto de admissibilidade do recurso extraordinário. - Tratando-se de acórdão majoritário, proferido em sede de apelação civil, cabe à parte recorrente - ressalvada a hipótese de decisão em processo de mandado de segurança (Súmula 597/STF) - opor- lhe os pertinentes embargos infringentes (CPC, art. 530), não lhe sendo lícito, sem a prévia exaustão dessa via recursal ordinária, agir per saltum, deduzindo, desde logo, o apelo extremo. Precedentes” (RE-AgR 332.636, Rel. Min. Celso de Mello, Segunda Turma, DJ 20.9.2002).
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
