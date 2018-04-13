@@ -1,0 +1,21 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. CONDENAÇÃO PELO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. ABSOLVIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Writ não conhecido.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça do Rio de Janeiro.
+Narram os autos que o paciente foi denunciando pelas práticas dos crimes dos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, sendo condenado, então, à pena de 5 anos de reclusão, em regime semiaberto, e 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (fls. 23/34 - Processo n. 0054405-85.2017.8.19.0001).
+Defesa e acusação recorreram, tendo o Tribunal de Justiça dado provimento apenas ao recurso ministerial, a fim de condenar o réu como incurso no art. 35, caput, da Lei n. 11.343/2006, redimensionando a pena para 8 anos de reclusão, em regime fechado, e 1.200 dias-multa (fls. 93/109 - Apelação Criminal n. 0054405-85.2017.8.19.0001).
+Daí a presente impetração, em que se alega constrangimento ilegal quanto à condenação do paciente no crime de associação para o tráfico.
+Em breve síntese, pontua a defesa que (fl. 13):
+ ..  o fato de existir anotações referentes a mercancia não comprova a associação, apenas o tráfico. E informações fornecidas pelos policiais a respeito de "pretensa confissão informal" não tem valor probatório e sua admissão fere de morte os princípios do contraditório, da ampla defesa, do direito ao silêncio e a própria Constituição Federal.
+Dessa forma, o paciente restou indevidamente condenado pelo crime de associação para o tráfico com base em meros indícios e ilações, razão pela qual deve ser concedida a ordem para que o mesmo seja absolvido.
+Postula, então, a concessão liminar da ordem para que  ..  seja absolvido o paciente do crime de associação para o tráfico, por ser medida de Justiça (fl. 13).
+É o relatório.
+No caso, o acórdão recorrido, ao tratar do tema, consignou que  ..  levando em conta as circunstâncias em que foi detido o recorrente, a quantidade de drogas encontradas, todas embaladas com inscrições referentes à facção criminosa "Comando Vermelho" (188,2 g de maconha, 27 g de cocaína e 296 g de crack), as anotações do doc. 39, contendo anotações do movimento da mercancia de entorpecentes, o local da apreensão, bem como toda prova testemunhal, confirmada está a tese de que o recorrente praticava o tráfico e estava associado para praticar o tráfico ilícito de drogas, que é liderado na comunidade pelo Comando Vermelho.
+Continuou, apontando que,  ..  como é de conhecimento de todos, nas localidades que são comandadas por facções criminosas como o "Comando Vermelho", em especial na comunidade conhecida como Jacarezinho, é impossível que alguém realize o comércio ilícito sem pertencer à facção ou aliar-se ao "comandante".
+Finalizou a Corte estadual, aduzindo que  ..  as informações sobre a atuação do apelante no tráfico de drogas, associada às circunstâncias e o local de sua prisão, bem como a forma como as drogas foram encontradas, devidamente acondicionadas não deixam dúvidas sobre a veracidade dos fatos narrados na denúncia, tratando-se de quadro probatório firme e seguro para produzir a condenação, acolhendo-se o pedido do Ministério Público para condenar Flávio também pelo delito de associação para o tráfico de drogas (fls. 106/107).
+Pois bem. Para a caracterização da associação para o tráfico, é imprescindível o dolo de se associar com estabilidade e permanência, sendo que a reunião ocasional de duas ou mais pessoas não se subsume ao tipo do art. 35 da Lei n. 11.343/2006.
+Na espécie, da leitura do excerto acima transcrito, infere-se que a Corte local concluiu que, diante das circunstâncias do caso, o vínculo associativo era evidente e não eventual, de modo que alterar tal entendimento implica, sem dúvidas, revolvimento fático-probatório, incabível na estreita via do habeas corpus, de cognição sumária.
+Nessa linha, dentre outros, o HC n. 411.340/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 26/2/2018, e o HC n. 402.691/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 28/8/2017.
+Ante o exposto, não conheço da presente impetração.
+Publique-se.
