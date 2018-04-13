@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL, com apoio no art. 105, III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, cuja ementa se segue:
+"AGRAVO DE EXECUÇÃO PENAL - NOVA CONDENAÇÃO - UNIFICAÇÃO DAS PENAS - ALTERAÇÃO DO MARCO INICIAL PARA CONCESSÃO DO LIVRAMENTO CONDICIONAL - IMPOSSIBILIDADE - RECURSO PROVIDO.
+A nova condenação no curso da execução da pena não altera a data-base para a concessão do livramento condicional. Entendimento do STJ - Súmula 441.
+Contra o parecer. Recurso provido"(e-STJ, fl. 84).
+Neste recurso especial, colacionando jurisprudência desta Corte e do Supremo Tribunal Federal, sustenta o Parquet estadual, em síntese, violação do disposto no art. 111, caput, e parágrafo único, da Lei de Execução Penal.
+Assevera que "apesar de a Lei de execução penal não tratar expressamente do marco inicial para contagem do prazo para fins de concessão de novos benefícios, a jurisprudência mais atual tem entendido que, no caso de superveniência de nova sentença condenatória, independente de ser por fato anterior ou posterior, o marco inicial para concessão de novo benefício é a data do trânsito em julgado da nova condenação e não a data do fato, muito menos a data da decisão que unificou as penas, tampouco a data da primeira ou última prisão (e-STJ, fl. 100).
+Requer, assim, o provimento do recurso, para que seja considerada a data do trânsito em julgado da nova sentença condenatória para o Parquet.
+Contrarrazões apresentadas (e-STJ, fls. 123-136) e admitido o inconformismo (e-STJ, fls. 138-141), os autos ascenderam a esta Corte.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 149-150).
+É o relatório.
+Decido.
+Sobre o tema em debate, ressalte-se, desde logo, que as Turmas que compõem a Terceira Seção desta Corte têm, ambas, pacífico entendimento de que, em caso de superveniente condenação definitiva imposta ao sentenciado, decorrente de fato anterior ou posterior ao início da execução penal, a contagem do prazo para concessão de benefícios é interrompida e deve ser feito novo cálculo, com base no somatório das penas.
+Tal posicionamento jurisprudencial, contudo, estabelecia, como termo a quo para concessão de futuros benefícios, a data do trânsito em julgado da última sentença condenatória.
+Recentemente, todavia, no julgamento do Recurso Especial n. 1.557.461/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, publicado em 15/3/2018, a Terceira Seção deste Superior Tribunal modificou sua linha jurisprudencial sobre o tema, passando a adotar parâmetro distinto, conforme revela a ementa:
+"RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto.
+Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado.
+As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido".
+(REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018)
+Extrai-se do julgado, a seguinte tese:
+"A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta disciplinar grave, configura excesso de execução."
+Assim, por estar o acórdão recorrido em consonância com a jurisprudência firmada nesta Corte, a pretensão recursal esbarra no óbice previsto na Súmula 83 deste Superior Tribunal de Justiça, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
