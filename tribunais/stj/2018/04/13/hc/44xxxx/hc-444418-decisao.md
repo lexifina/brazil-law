@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DIOGO SANTOS DA SILVA, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2021435-69.2018.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática do crime do art. 33 da Lei n. 11.343/2006, tendo em vista a apreensão de 2 tabletes de maconha pesando 145,96g (cento e quarenta e cinco gramas e noventa e seis centigramas - e-STJ fl. 42), além de uma bobina com material plástico usualmente empregada para embalar drogas. Por ocasião da audiência de custódia, a segregação foi convertida em prisão preventiva.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 41):
+HABEAS CORPUS - Tráfico de entorpecentes (artigo 33, caput, da Lei n. 11.343/06) - Apreensão de razoável quantidade de drogas (02 tabletes de maconha com peso de 145,96 gramas) - Pressupostos da segregação cautelar presentes - Inócuas outras medidas do artigo 319 do CPP - Constrangimento ilegal não caracterizado - Ordem denegada.
+No presente writ, a defesa argumenta que a constrição cautelar não está devidamente fundamentada, uma vez que a decisão foi proferida genericamente e sem lastro nas hipóteses taxativas do art. 312 do CPP. Aduz que a gravidade abstrata dos crimes não pode supedanear o decreto constritivo. Ressalta as condições pessoais favoráveis do paciente, como a primariedade e a residência fixa. Alega falta de motivação, ainda, quanto à inaplicabilidade das medidas cautelares do art. 319 do CPP.
+Requer, liminarmente e no mérito, seja concedido ao paciente o direito de responder ao processo em liberdade. Subsidiariamente, pede a cassação da decisão impugnada, "para que outra seja prolatada, desconsiderando-se a gravidade abstrata do(s) delito(s) praticado(s) e com fundamentação idônea" (e-STJ fl. 5).
+É, em síntese, o relatório.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência. Com efeito, consta no decreto constritivo que "o indiciado ostenta maus antecedentes, além de haver sido recentemente condenado definitivamente por dois crimes de roubo, o que o torna reincidente" (e-STJ fl. 36).
+Desse modo, não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau, notadamente sobre outras decisões referentes à prisão cautelar do paciente, e ao Tribunal de Justiça, ressaltando-se que deverão noticiar a esta Corte qualquer alteração no quadro fático atinente ao tema objeto desta irresignação.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico do Tribunal de Justiça, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
