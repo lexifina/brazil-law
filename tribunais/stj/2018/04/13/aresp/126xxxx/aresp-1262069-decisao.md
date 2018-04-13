@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Acidente de trânsito. Ação de indenização por danos materiais e moral. Hipótese em que os elementos reunidos nos autos demonstram que o condutor do veículo violou o art. 28 do CTB ao não dirigir o bem com a atenção e os cuidados indispensáveis à segurança do trânsito, agindo com culpa grave. Ocorre, entretanto, que a vítima contribuiu com o resultado do evento danoso, pois não estava com cinto de segurança. Presentes os requisitos caracterizadores da responsabilidade civil, de rigor o ressarcimento dos danos materiais e morais suportados pela vítima.
+Legitimidade dos genitores da vítima para pleitearem indenização por dano moral, uma vez que o sofrimento dela gerou reflexos no cotidiano da família. Questão já decidida por este E. Tribunal de Justiça, no julgamento do agravo nº 992.09.084784-8.
+Pensão mensal. Na data da perícia, a vítima ainda se encontrava em reabilitação, existindo a possibilidade de melhora do seu quadro clínico. De rigor, por ora, estabelecer o pagamento de pensão no valor equivalente a 7% do salário mínimo vigente na data do pagamento, com a ressalva da possibilidade de sua alteração, em ação própria, se for constatada a mudança no comprometimento patrimonial físico da vítima.
+Tendo em vista a natureza do dano, suas consequências na vida dos autores e as condições das partes, os valores arbitrados pelo juízo de origem, a título de indenização por dano moral, em favor da vítima e dos seus genitores devem ser reduzidos, respectivamente, para R$26.400,00 e R$2.640,00 para cada um.
+Recurso parcialmente provido" (e-STJ fl. 1.105).
+No recurso especial (fls. 1.141-1.159, e-STJ), os recorrentes alegam violação dos artigos 186, 392, 927 e 949 do Código Civil, 28 do Código Brasileiro de Trânsito e 333, I do Código de Processo Civil de 1973.
+Sustentam, que
+"(..) não há no v. acórdão guerreado qualquer indicação de conduta peculiar do Recorrente [NOME] que seja capaz de explicar o ocorrido, como, por exemplo, eventual excesso de velocidade, eventual realização de manobra perigosa etc (e não há indicação de conduta específica do Recorrente [NOME] porque simplesmente não praticou ele qualquer ato ilícito, como amplamente demonstrado nos autos pela prova testemunhal)".
+Contrarrazões não apresentadas, recurso inadmitido.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O inconformismo não comporta acolhimento.
+Com efeito, o Tribunal de origem concluiu que o condutor do veículo agiu com culpa ao não dirigir com a atenção e os cuidados indispensáveis à segurança no trânsito e considerou, por outro lado, que a vítima também contribuiu para o evento danoso, porque não estava com cinto de segurança no momento do acidente, conforme demonstra a seguinte transcrição:
+"Na inicial, os autores relataram que, em 12.08.2007, por volta das 5h20min, o réu, ao conduzir o veículo Corolla pela rodovia Deputado Archimedes Lammoglia, ao agir com imprudência e negligência, perdeu o controle de direção, o que implicou a queda do bem de um barranco de 20 metros. Relataram que a autora Tânia, que estava no automóvel como passageira, foi arremessada para o banco de trás, causando-lhe danos de ordem material e moral.
+A dinâmica do acidente foi suficientemente esclarecida pelo conjunto probatório formado no decorrer da instrução.
+Os documentos que acompanhara a inicial, principalmente o boletim de ocorrência (fls. 22/23), as fotografias (fls. 239/245), o laudo pericial (fls. 516/521) e a oitiva das testemunhas e informantes (fls. 608/613; 645/654) possibilitaram a compreensão do sinistro.
+De início, impõe consignar que, mesmo que as testemunhas arroladas tenham atestado que na estrada havia pedriscos e buracos, é certo que tais constatações não retiravam do condutor do veículo a sua obrigação de manter o controle da direção do bem, nos termos do art. 28 do CTB, sobretudo porque, como se percebe das oitivas colhidas, no momento do acidente, as condições climáticas não eram adversas, pois não chovia e não havia neblina no local, possibilitando a visibilidade da via pelo réu.
+Desse modo, responde os réus pelos danos causados aos autores, uma vez que, embora benéfico o transporte, o condutor do veículo agiu com culpa grave ao não dirigir o veículo com a atenção e os cuidados indispensáveis à segurança do trânsito.
+Por outro lado, é certo que a vítima contribuiu com o resultado do evento danoso, ou seja, com as lesões por ela suportadas, porque não estava com cinto de segurança no momento do acidente (art. 65 do CTB), sendo este fato inconteste nos autos.
+Contudo, não se pode imputar à autora culpa exclusiva pelo sinistro, uma vez que, se o condutor do veículo não tivesse perdido o controle da direção, ainda que ela estivesse sem o cinto, lesão alguma teria sofrido" (e-STJ fls. 1.109-1.110).
+Nesse contexto, aferir se houve, ou não, culpa exclusiva da vítima, suficiente para afastar a responsabilidade dos recorrentes demandaria, necessariamente, o reexame de matéria fático-probatória, o que é inviável em recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Considerada a sucumbência recíproca fixada na origem, deixo de majorar os honorários advocatícios, nos termos do artigo 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
