@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Agravo de Instrumento Ação de execução Pedido de citação eletrônica Descabimento - Inexistência de legislação específica sobre a matéria - Resolução nº 234/16 do CNJ que determina ser faculdade o registro das pessoas jurídicas e físicas na Plataforma de Comunicações do Poder Judiciário - Pedido de aplicação do incidente de resolução de demanda repetitiva Afastado - Ausentes os requisitos preconizados nos incisos I e II do art. 976 do CPC Decisão mantida - Recurso improvido.
+A agravante sustenta ser possível efetuar a citação eletrônica da parte executada.
+No que toca aos arts. 246, V, 4º da Lei de Introdução às Normas do Direito Brasileiro, o recorrente não demonstrou em que consiste a ofensa a tais normas, tornando patente a falta de fundamentação do recurso especial, circunstância que atrai a incidência do verbete nº 284 da Súmula do Supremo Tribunal Federal.
+Acerca da alegada ofensa aos arts. 6º da Lei n. 11.419/2006 e 976, do Código de Processo Civil, o recurso não tem como ser conhecido, pois não foram impugnados os fundamentos do julgado estadual, que se amparou, respectivamente, no art. 5º da Lei n. 11.419/2006, além dos inc. I e II do art. 977 do CPC para a solução deste tema em particular.
+Com efeito, o Tribunal de origem afirmou que o cadastramento e credenciamento prévios em sítio eletrônico do Poder Judiciário são requisito para receber a citação eletrônica. A facultatividade desses atos foi afirmada no art. 14 da Resolução n. 234/16 do CNJ.
+Além disso, a Corte revisora negou a existência, quanto à questão suscitada nos autos, de repetição de processos ou de risco à segurança jurídica ou isonomia. Ressaltou que já existe incidente de resolução de demanda repetitiva ajuizado pelo recorrente, em face de outro agravo de instrumento, anteriormente interposto da mesma ação originária.
+Esses fundamentos são suficientes por si mesmos para manter o acórdão, que por consequência não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+O dissídio jurisprudencial, por sua vez, não foi adequadamente demonstrado, uma vez que está ausente a indispensável semelhança fática entre as teses confrontadas. O acórdão indicado como paradigma versa acerca de notificação extrajudicial efetuada por meio eletrônico, providência que não se confunde com atos processuais, nem mesmo com a citação.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
