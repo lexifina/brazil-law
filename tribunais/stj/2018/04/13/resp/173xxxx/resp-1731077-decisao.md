@@ -1,0 +1,18 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por FUNDAÇÃO HABITACIONAL DO EXÉRCITO - FHE, contra acórdão prolatado, por unanimidade, pela 7ª Turma especializada do Tribunal Regional Federal da 2ª Região em agravo de instrumento, assim ementado (fls. 126/132e):
+AGRAVO INTERNO. EXECUÇÃO EXTRAJUDICIAL. MILITAR. DESCONTO DE 70% EM FOLHA DE PAGAMENTO. IMPENHORABILIDADE. INOVAÇÃO RECURSAL.
+1. O contrato de empréstimo está em fase de execução, não sendo possível o desconto de percentual sobre os proventos do agravante, pois se trata de bem absolutamente impenhorável, nos termos do art. 649, IV, do CPC.
+2. Não é cabível, em sede de agravo interno, a apreciação de argumentação não trazida nas razões do agravo de instrumento, nem tratada na decisão agravada, por caracterizar inovação recursal.
+3. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 148/152e).
+Com amparo no art. 105, III, a e c, da Constituição da República, a Recorrente aponta ofensa aos arts. 21 da Lei n. 1.046/50, 14, § 3º, da Medida Provisória n. 2.215-10/2001, 566, I, 585, II, 614, I, II e III, 652, 652-A, 653, 666, II, e 738 do Código de Processo Civil de 2015, ao fundamento de que é legal o desconto em folha de pagamento, desde que respeitado o montante de 70% dos valores líquidos mensais, até o total adimplemento da obrigação.
+Aduz, ainda, que o contrato de empréstimo em análise conteria previsão de pagamento das parcelas mensais através de consignação em folha, ressaltando que o executado não teria apresentado bens à penhora ou buscado quitar seu débito. Desse modo, o art. 14, § 3º, da MP n. 2.215-10/2001 permitiria o desconto em folha de até 70% em empréstimos contraídos por militares das Forças Armadas e que seria perfeitamente cabível a reimplantação do desconto em folha por se tratar de cláusula contratual constante do instrumento objeto da execução.
+Conclui que a penhora de valores decorrentes de pagamento de salário não se confunde com o desconto em folha para pagamento de empréstimo garantido por margem salarial consignável, prática que encontra amparo em legislação específica.
+Para configurar a divergência, aponta precedente do Tribunal Regional Federal da 4ª Região.
+Sem contrarrazões, o recurso foi inadmitido (fl. 194e), tendo sido interposto Agravo convertido em recurso especial (fl. 221e).
+Feito breve relato, decido.
+A Primeira Turma, em 06.03.2018, na Questão de Ordem no AREsp 1.168.380/RJ, examinando a controvérsia relativa à possibilidade de penhora de salários em decorrência de dívida originada de "contrato de adesão de empréstimo simples", constatou que, não obstante uma das partes ostentar a condição de servidor público, o caso não se amolda à orientação firmada pela Corte Especial, no julgamento da Questão de Ordem no EREsp 1.163.337/RS, segundo a qual a competência das Turmas que integram a Seção de Direito Público limita-se ao julgamento de "recursos referentes a limite percentual de desconto em pagamento de empréstimo consignado feito por servidor público, com débito em conta-corrente e desconto na folha de pagamento".
+Concluiu, assim, que a relação jurídica litigiosa no caso em tela é regida pelas normas do Direito Privado, estando inserida dentre aquelas de competência da Segunda Seção desta Corte, nos termos do art. 9º, caput, § 2º, II e IV, do Regimento Interno, sendo este o critério que define a distribuição interna de competência no âmbito desta Corte.
+Isto posto, DECLINO DA COMPETÊNCIA para a apreciação do recurso e DETERMINO a devolução dos autos à Secretaria Judiciária, para redistribuição do feito a uma das Turmas que compõem a Segunda Seção, nos termos dos arts. 9º, caput, e § 2º, II e IV, e 71 do Regimento Interno desta Corte.
+Publique-se e intimem-se.
