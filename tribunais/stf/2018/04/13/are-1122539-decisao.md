@@ -1,0 +1,28 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. ACUMULAÇÃO DE CARGOS PÚBLICOS. ÁREA DA SAÚDE. POSSIBILIDADE. AUSÊNCIA DE PROVAS DA ALEGADA INCOMPATIBILIDADE DE HORÁRIOS. APELAÇÃO PROVIDA.
+    1. A Impetrante, detentora de cargo público como enfermeira no Hospital Federal de Ipanema, com jornada de 30 (trinta) horas semanais, postula a autorização para acumular tal cargo com o que possui no CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro, cuja jornada que é de 30 (trinta) horas semanais.
+    2. A possibilidade de acumulação de cargos públicos está prevista no artigo 118 da Lei 8.112/90. Já a acumulação de cargos de profissionais da saúde ganhou expressa proteção constitucional (art. 37, inc. XVI, alínea "c"), tendo como requisitos, tão somente a compatibilidade de horários e a regulamentação da profissão.
+    3. A profissão da Impetrante, enfermeira, possui regulamentação própria na Lei 7.498/86. Ausência de provas que demonstrem a alegada incompatibilidade de horários.
+    4. Não é razoável que a Administração Pública venha a cercear um direito garantido constitucionalmente à Impetrante sem qualquer apuração acerca da efetiva existência de incompatibilidade de horários dos cargos a serem exercidos e, ainda, com base em legislação infraconstitucional.
+    5. A Administração Pública tem a faculdade de se utilizar dos instrumentos legais pertinentes para averiguar se o servidor público está cumprindo, a contento, com as suas atribuições.
+    6. Conforme entendimento firmado pelo o Egrégio STJ não se aplica aos profissionais da saúde a impossibilidade de acumulação de cargo civil com cargo militar, prevista no artigo 142 § 3°, inciso II da CF.
+    7. Apelação provida”. (eDOC 2, p. 102)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 37, XVI, “c”, 142, § 3º, II, do texto constitucional.
+    Nas razões recursais, alega-se que existe incompatibilidade de horários entre dois cargos exercidos, o que não permitiria a acumulação.(eDOC 3, p. 47)
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que existe compatibilidade de horários que permite a acumulação dos cargos pretendida. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No caso dos autos, inexistem provas da alegada incompatibilidade de horários e, em contrapartida, as escalas de serviços disponibilizadas e acostadas nos autos (fls. 42 e 44), demonstram a compatibilidade da acumulação desejada.
+    A verdade é que sequer foi concedida à Impetrante a oportunidade de verificar e demonstrar a compatibilidade de horários para o exercício de ambos os cargos, na medida em que a Impetrada instaurou Processo Administrativo Disciplinar contra a ela e decidiu que (fls. 47/48):
+    (...)
+    Outrossim, vale ressaltar que a Impetrante não possui carga horária semanal superior a 60 (sessenta) horas, bem como que a Administração Pública tem a faculdade de se utilizar dos instrumentos legais pertinentes para averiguar se o servidor público está cumprindo, a contento, com as suas atribuições. Presumir, pela quantidade de horas, que o mesmo é ineficiente, não é razoável. Dessa forma, a Impetrada deveria ter apresentado, no momento oportuno, provas da incompatibilidade de horários, a fim de demonstrar que o ato por ela realizado não estava eivado de ilegalidade”. (eDOC 2, p. 97)
+     Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+     Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS NA ÁREA DE SAÚDE. COMPATIBILIDADE DE HORÁRIO. INCURSIONAMENTO NO CONTEXTO FÁTICOPROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. 1. A acumulação remunerada de cargos públicos, quando sub judice a controvérsia sobre a compatibilidade de horários, demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 desta Corte, a qual dispõe, verbis: ‘Para simples reexame de prova não cabe recurso extraordinário’. Precedentes: AI 730.343-AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 14/12/2012, RE 633.298-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 14/2/2012, e ARE 773.327-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, Dje 20/11/2013. 2. In casu, o acórdão extraordinariamente recorrido assentou: ‘CONSTITUCIONAL E ADMINISTRATIVO. PROFISSIONAL DE SAÚDE. CUMULAÇÃO DE CARGOS PÚBLICOS. CARGA HORÁRIA. INCOMPATIBILIDADE. TCU. ACÓRDÃO Nº 2.133/2005. ENTENDIMENTO’. 3. Agravo regimental DESPROVIDO. (ARE-AgR 812.147, Rel. Min. LUIZ FUX, Primeira Turma, DJe 14.8.2014)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Servidor público. Técnico em radiologia. Acumulação de cargos. 3. Matéria restrita à analise de legislação infraconstitucional (Lei 7.394/85 e Decreto 92.790/86). 4. Reexame fático-probatório. Verbete 279 da Súmula do STF. Precedentes. 5. Agravo regimental a que se nega provimento”. (ARE-AgR 817.366, de minha relatoria, Segunda Turma, DJe 12.9.2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 13 de abril de 2018.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
