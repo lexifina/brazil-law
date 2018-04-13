@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ARTS. 142, 151, INC. II, E 156 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO E DE COMANDO NORMATIVO. SÚMULAS 211/STJ E 284/STF. VIOLAÇÃO DO ART. 142 DO CTN. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TRF3 assim ementado (fl. 90):
+AGRAVO DE INSTRUMENTO. LEVANTAMENTO DE CARTA DE FIANÇA. EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DE MÉRITO. NÃO HÁ VENCEDOR NA DEMANDA. CONVERSÃO. IMPOSSIBILIDADE.
+A jurisprudência tem entendido que o levantamento ou a conversão em renda da carta de fiança depende do provimento dado à ação a que está vinculado, assim como o depósito judicial também depende.
+A peculiaridade deste caso é que a ação originária foi extinta sem resolução de mérito. Assim, não vejo como possa haver conversão em renda da garantia ofertada nos autos, já que a União, ora agravada, não foi vencedora da ação.
+Agravo provido.
+Embargos de declaração rejeitados.
+A recorrente alega violação do art. 535 do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito da seguinte questão: a) natureza jurídica do depósito realizado, em consonância com os arts. 142, 151, inc. II, e 156 do CTN.
+Quanto à questão de fundo, sustenta ofensa aos arts.142, 151, inc. II, e 156 do CTN, sob os seguintes argumentos: a) a suspensão da exigibilidade do crédito tributário reclama o depósito integral das parcelas discutidas; b) não procede a firmação de que, por se tratar de faculdade do contribuinte, o depósito judicial, que regularmente realizado acarreta diversas consequências em relação ao Fisco, pode ser levantado ao seu alvitre, independentemente do resultado final da demanda ou de pré-oitiva da autoridade fazendária; c) no momento em que realizado, o depósito judicial deixa de representar mera faculdade da parte, constituindo nova relação jurídica destinada a garantir a obrigação tributária sub judice; d) o STJ tem entendimento no sentido de que, realizado o depósito, não pode a parte pretender o levantamento da quantia, vinculando-se o ato ao resultado da demanda; e) no caso, a decisão recorrida determinou o levantamento dos valores pela parte recorrida louvando-se, exclusivamente, em planilha por ela apresentada, sendo que existe nos autos divergência de valores.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 130-132.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Afasta-se a alegada violação do art. 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Lado outro, evidencia-se que os arts. 142, 151, inc. II, e 156 do CTN (e as teses a eles vinculadas) não foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Frisa-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação do art. 142 do CTN.
+Outrossim, também não é possível conhecer do recurso especial que apresenta suposta violação dos referidos dispositivos, pois eles não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF.
+Por fim, quanto ao art. 142 do CTN, acrescenta-se que a recorrente não apresentou qualquer argumento a ensejar a apreciação da ofensa ao referido normativo. Incide à hipótese, mais uma vez, a Súmula 284/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
