@@ -1,0 +1,32 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EXCESSO DE EXECUÇÃO. ANÁLISE QUE DEMANDA A INCURSÃO NO ACERVO FÁTICO PROBATÓRIO DOS AUTOS. AGRAVO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto por ZENILDA RODRIGUES COELHO - ESPÓLIO, com fundamento na alínea a do art. 105, inciso III da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. EXECUÇÃO DE SENTENÇA. IMPUGNAÇÃO. EXCESSO DE EXECUÇÃO. DIES A QUO PARA CÁLCULO DO VALOR DEVIDO RELATIVO À INTEGRALIDADE. ERRO MATERIAL NA DECISÃO EXEQUENDA. À UNANIMIDADE, NEGARAM PROVIMENTO AO
+AGRAVO DE INSTRUMENTO (fls. 88).
+2. Nas razões do Apelo Nobre, a parte recorrente alega violação dos arts. 467 do CPC/73, ao argumento de que formado o titulo judicial com determinação de que a Autarquia recorrida efetuasse o pagamento da pensão integral desde 21.05.1999 até a data do óbito da pensionista 30.06.2002. sem que houvesse interposiçáo de recurso pelas partes quanto ao ponto, operou-se a coisa julgada material, que é a impossibilidade de modificação da sentença no mesmo processo, como conseqüência da preclusão dos recursos (fls. 125).
+3. É o que havia para relatar. Decido.
+4. Cuida-se, na origem, de Execução em que se discute a existência de excesso de execução no tocante ao pagamento do restante da pensão em razão de equívoco quanto a data do termo inicial.
+5. Acerca do tema, a Corte de origem teceu as seguintes considerações:
+A pensionista Zeniida, já falecida, foi incluída como dependente de seu filho, a fim de perceber pensão por morte (processo n. 108482101).
+Na oportunidade, segundo o site do TJRS, foi decidido que o marco inicial da pensão seria a postulação administrativa, datada de 19/10/2000.
+Na presente ação, após ser incluída como pensionista, postulou a integralidade do benefício para perceber pensão, como se o servidor extinto "vivo fosse".
+A decisão que transitou em julgado, em face de erro material, estipulou, como marco inicial, para pagamento de diferenças, a data de 21/05/1999, em face de prescrição qüinqüenal. Em verdade, deveria ter constado a data de 19/10/2000, pois, em período anterior, sequer era pensionista do IPERGS.
+Ressalte-se que a própria autora requer a integralização do benefício, segundo fl. 22, a partir do momento em que incluída como depen
+dente.
+Importa mencionar que o simples erro material, como no caso, erro na data de marco inicial não lesa a coisa julgada material, segundo o art. 463, inc. I, do CPC, podendo ser sanado a qualquer momento.
+(..).
+Efetivamente, verifica-se a existência de erro material no título exequendo. É que anterior decisão judicial proferida nos autos da ação de conhecimento na 001/108482101, aforada pela extinta Zenilda contra o IPERGS, reconheceu o direito da demandante ao percebimento da pensão por morte, deixada por seu filho, bem como ao pagamento das parcelas vencidas, a contar de 19/10/2000 - data do pedido administrativo. Em que pese não tenha sido acostado ao presente recurso de agravo de instrumento cópia da sentença proferida nos autos da ação ne 001/108482101, é possível depreender tal julgamento através da leitura do relatório e voto do ilustre Desembargador Carlos Roberto Lofego Canibal, quando da apreciação da Apelação/Reexame Necessário n8 [CPF]: (..) (fls. 91/92).
+6. In casu, o Tribunal a quo concluiu que houve erro material no título exequendo, porquanto o termo inicial deveria ser a data de 19.1.2000, conforme decisão proferida na ação de conhecimento. Contudo, constou a data de 21.5.1999 erroneamente.
+7. Dessa forma, a alteração do entendimento da Corte de origem no tocante a ausência de excesso de execução, na forma pretendida, demandaria necessariamente a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7/STJ. A propósito, confira-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGADO EXCESSO DE EXECUÇÃO. NECESSIDADE DE REEXAME DE PROVAS E FATOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Hipótese em que o acórdão recorrido, à luz dos elementos fáticos dos autos, concluiu que inexiste excesso de execução, no caso, porquanto a conta impugnada apenas deu cumprimento às determinações do título executivo". Incidência, no caso, da Súmula 7/STJ.
+II. Segundo jurisprudência desta Corte, não é possível o conhecimento do recurso especial que pretende rever a conclusão do Tribunal de origem acerca do excesso de execução, porque a convicção a que chegou o acórdão recorrido decorreu da análise do conjunto fático-probatório dos autos. O acolhimento da pretensão recursal demanda o reexame desse suporte, obstando a admissibilidade do especial, a teor da Súmula 7 do STJ (STJ, AgRg no AREsp 182.876/RJ, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe de 05/03/2013). No mesmo sentido: STJ, AgRg no AREsp 486.087/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/05/2014; STJ, AgRg no AREsp 343.531/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 10/04/2014.
+III. Agravo Regimental improvido (AgRg no AREsp. 689.275/RJ, Rel. Min. ASSUSETE MAGALHÃES, DJe 28.8.2015).
+
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OMISSÃO DO JULGADO RECORRIDO AFASTADA. AUSÊNCIA DE INÉRCIA DO CREDOR. ILIQUIDEZ DO TÍTULO EXECUTIVO. EXCESSO DE EXECUÇÃO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Afasta-se a alegada ofensa ao art. 535 do CPC, porquanto o Tribunal de origem dirimiu, de forma clara e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos. Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. No que se refere às alegações de prescrição, iliquidez do título executivo e excesso de execução, a alteração das conclusões adotadas pela Corte de origem exigiria novo exame do acervo fático- probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto no enunciado 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento (AgRg no REsp. 1.392.202/PI, Rel. Min. SÉRGIO KUKINA, DJe 14.8.2014).
+8. Diante do exposto, nega-se provimento ao Agravo.
+9. Publique-se.
+10. Intimações necessárias.
