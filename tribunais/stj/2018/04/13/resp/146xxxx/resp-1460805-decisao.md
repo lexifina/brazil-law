@@ -1,0 +1,18 @@
+EMENTA
+PROCESSO CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. PARCELAMENTO. CONFISSÃO DE DÍVIDA. NÃO INIBIÇÃO AOS ASPECTOS JURÍDICOS DA OBRIGAÇÃO TRIBUTÁRIA. PRECEDENTES. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF5, assim ementado (fl. 256):
+Tributário e Processual Civil. Preliminar de inépcia da inicial rejeitada. Imposto de renda retido na fonte. Glosa indevida dos valores da declaração de ajuste do contribuinte. Auto de Infração. Ilegalidade. Apelo improvido.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito da ocorrência de confissão, por parcelamento, do débito que foi declarado nulo.
+Quanto a (às) questão (ões) de fundo, sustenta ofensa ao(s) artigos 15, I, da Lei 10.684/2003, sob os seguintes argumentos: (a) destacado nas razões de apelação, o autor da presente ação aderiu ao parcelamento previsto na Lei 10.684/2003, que foi rescindido em 05/06/2006 (fís. 153/156), o que constitui confissão irretratável dos débitos, acarretando a improcedência do pedido de anulação do débito confessado, nos termos do art. 15, I da Lei 10.684/2003; (b) o autor da presente ação era, também, à época dos fatos , o responsável tributário da pessoa jurídica que não repassou o valor descontado dele mesmo, quando do pagamento da remuneração (PAF fls. 98). Desta feita, a responsabilização pessoal do responsável tributário é totalmente cabível, visto que, de outra forma, o autor se beneficiaria de um ato ilícito por ele cometido.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 276.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+De início, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 535 do CPC/1973.
+Quanto ao mérito, a jurisprudência do STJ (REsp 1.133.027/SP, Rel. para Acórdão Min. Mauro Campbell Marques, Primeira Seção, DJe 16/03/2011) se firmou no sentido de que a confissão da dívida não inibe o questionamento judicial da obrigação tributária, no que se refere aos seus aspectos jurídicos. Quanto aos aspectos fáticos sobre os quais incide a norma tributária, a regra é que não se pode rever judicialmente a confissão de dívida efetuada com o escopo de obter parcelamento de débitos tributários. No entanto, como na situação presente, a matéria de fato constante de confissão de dívida pode ser invalidada quando ocorre defeito causador de nulidade do ato jurídico (v.g. erro, dolo, simulação e fraude).
+Diante disso, aplica-se à hipótese a Súmula 83/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
