@@ -1,0 +1,53 @@
+DECISÃO
+Agrava-se de decisão que negou seguimento ao recurso especial de [NOME], fundado no art. 105, inciso III, alínea a, da Constituição, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que confirmou sua condenação por associação para o tráfico de drogas (art. 35 da Lei n. 11.343/2006), reduzindo-lhe as penas para 3 anos de reclusão e 700 dias-multa, em regime inicial fechado.
+Opostos embargos declaratórios pelo agravante, a fim de buscar a aplicação do art. 580 do CPP, ao argumento de que estaria na mesma situação fática de dois réus tiveram a ação penal trancada, foram rejeitados (e-STJ fls. 1.229/1.250).
+Em seu recurso especial, alegou negativa de vigência ao art. 580 do CPP. Aduziu que "a conduta, o fato que levou o recorrente a ser denunciado no feito 0365813-2.2010.8.26.0000, que teve curso perante o r. Juízo da 7ª Vara Criminal da Comarca da Capital são (sic) os mesmos que levaram o mesmo a ser denunciado e condenado neste feito. Tal situação foi idêntica a que ocorreu para os réus Sandro e [NOME], que tiveram sorte diferente nos autos, tendo sido concedido para os mesmos habeas corpus de ofício" (e-STJ fl. 1.355).
+Com contrarrazões (e-STJ 1.404/1.410), o recurso foi inadmitido (e-STJ fls. 1.445/1.446).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo, requerendo, ainda, a execução provisória da pena imposta, na esteira da jurisprudência firmada pela Suprema Corte.
+É o relatório.
+Insurge-se unicamente o ora agravante contra a negativa de aplicação, pelo acórdão recorrido, do art. 580 do CPP.
+No que interessa, o acórdão recorrido assim dirimiu a controvérsia (e-STJ fls. 1.198/1.206):
+Impõe-se, no entanto, de ofício, quanto aos acusados [NOME] e Sandro conceder ordem de HABEAS CORPUS, para reconhecer a ocorrência de coisa julgada, anular o presente feito e trancar a respectiva persecução penal, prejudicados os recursos.
+[NOME] e Sandro estão sendo criminalmente processados pela prática do crime de tráfico ilícito de entorpecentes, crime de natureza permanente.
+A partir do procedimento de interceptação telefônica que deu origem à presente persecução penal, logrou-se apurar que [NOME] e Sandro tinham em depósito entorpecentes, que foram apreendidos e deram causa a persecução penal pela prática dos crimes de tráfico ilícito de entorpecentes e associação para o tráfico, diversa do presente processo, qual seja, Processo Crime 0018155-52.2010.8.26.0060, que teve curso perante o R. Juízo da 24a Vara Criminal da Comarca da Capital.
+Sandro e [NOME] foram condenados, em 22/09/2010, em concurso material, como incursos no art. 33, caput, da Lei 11.343/06, a 6 (seis) anos de reclusão, em regime fechado, e a 600 (seiscentos) dias-multa, à razão mínima ao dia-multa, e como incursos no art. 35, caput, da Lei 11.343/06, a 3 (três) anos de reclusão, em regime fechado, e a 700 (setecentos) dias-multa, à razão mínima ao dia-multa.
+A colenda 1ª Câmara de Direito Criminal deste Eg. Tribunal de Justiça, em julgamento realizado em 29/08/2011, por unanimidade, deu parcial provimento aos apelos para absolver [NOME] e Sandro da imputação de se acharem incursos no art. 35, caput, da Lei 11.343/06, com fundamento no art. 386, VII, do Cód. De Proc. Penal, bem como, quanto ao crime de tráfico, para reduzir as penas de Sandro para 5 (cinco) anos de reclusão, em regime fechado, e para 500 (quinhentos) dias-multa, e de [NOME] para 1 (um) ano e 8 (oito) meses de reclusão, em regime aberto, e para 166 (cento e sessenta e seis) dias-multa.
+A r. decisão condenatória transitou em julgado em 13/10/2011 para a acusação e em 26/09/2011 para a defesa.
+Na presente persecução penal, [NOME] e Sandro foram denunciados novamente pela prática de crime de tráfico ilícito de entorpecentes, em razão de apreensão de entorpecentes a partir de informação obtida através da mesma interceptação telefônica que deu origem ao anterior processo crime acima referido.
+Impõe-se, portanto, reconhecer que os crimes em análise, ou seja, de 18/11/2009 e 05/03/2010, apurados a partir de uma mesma interceptação telefônica e tendo o acusado Fabrício como mandante, foram realizados em um mesmo contexto fático, devendo ser reconhecidos como crime único.
+Ademais, não houve solução de continuidade da conduta de Sandro e [NOME] entre as referidas datas que ocasionaram a instauração de persecuções penais diversas.
+Não se trata, portanto, de reiteração criminosa.
+Por ocasião da prolação da r. sentença ora impugnada, [NOME] e Sandro já haviam sido condenados definitivamente pela prática do crime em questão.
+(..).
+Quanto ao mérito, os apelos de Fabrício, Eduardo e [NOME] procedem em parte.
+Ficou demonstrado, estreme de dúvida, os acusados Fabrício, Eduardo e [NOME], agindo em concurso com outros indivíduos não identificados, associaram-se para o fim da prática do tráfico ilícito de entorpecentes.
+(..).
+Ficou demonstrado, também, que nas circunstâncias de tempo e lugar descritas na inicial, ou seja, em 24/04/2010, os acusados Fabrício, Eduardo e [NOME], tinham em depósito 1 (um) tijolo de cocaína, num total 1,107 kg, substância entorpecente cuja expressiva quantidade, forma de acondicionamento e circunstâncias da apreensão indicam a destinação ao comércio clandestino.
+Por este fato, [NOME] foi anteriormente processado e condenado nos autos do Proc. Crime 0365813-52.2010.8.26.0000, que teve curso perante o R. Juízo da 7a Vara Criminal da Comarca da Capital.
+(..).
+Apurou-se, assim, que o acusado Fabrício comandava a associação; Sandro, Eduardo e [NOME] armazenavam entorpecentes para posterior distribuição e Sandro, ainda, recebia pagamento dos entorpecentes.
+(..).
+No que tange ao crime de associação para o tráfico ilícito de entorpecentes, impõe-se, para [NOME], Fabrício e Eduardo, reduzir as penas-base aos patamares mínimos, pois a quantidade e a natureza dos entorpecentes apreendidos não autoriza a majoração em relação a este delito.
+Por ocasião do julgamento dos embargos declaratórios, acrescentou-se (e-STJ fls. 1.249/1.250):
+Quanto ao pleito de aplicação do art. 580, do Cód. de Proc. Penal pelo embargante [NOME], não comporta acolhimento.
+Importa considerar, a propósito, que o embargante, na presente persecução penal, foi julgado e condenado pela prática do crime previsto no art. 35, caput, da Lei 11.343/06, que não foi objeto da persecução penal 0365813-2.2010.8.26.0000, que teve curso perante o R. Juízo da 7a Vara Criminal da Comarca da Capital (fls. 1.018/1.022).
+Não há que se falar, assim, em reconhecimento de coisa julgada.
+ Dispõe o art 580 do Código de Processo Penal que, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Na hipótese, segundo se depreende das considerações feitas pelo acórdão recorrido, as situações fáticas dos réus são diversas, uma vez que o ora agravante foi condenado, na ação anterior, apenas pelo delito de tráfico de drogas, mas nesta foi condenado por associação para o tráfico. Já os réus [NOME] e Sandro estavam sendo processados, na presente ação, somente por tráfico de drogas. Ocorre que, pelos mesmos fatos, já haviam sido condenados como incursos no art. 33, caput, da Lei n. 11.343/2006, razão pela qual não poderiam ser novamente processados por esse crime.
+Maiores considerações a respeito do tema demandaria demorada incursão em aspectos fático-probatórios, providência inadmissível na via eleita, a teor da Súmula n. 7/STJ.
+Todavia, verifico a existência de ilegalidade flagrante na imposição do regime inicial fechado ao agravante. Isso porque, a pena-base foi fixada no mínimo legal e não foram apontados elementos concretos que justificassem o regime mais gravoso. Confira-se, no ponto, o acórdão recorrido (e-STJ fls. 1.206/1.207):
+No que tange ao crime de associação para o tráfico ilícito de entorpecentes, impõe-se, para [NOME], Fabrício e Eduardo, reduzir as penas-base aos patamares mínimos, pois a quantidade e a natureza dos entorpecentes apreendidos não autoriza a majoração em relação a este delito.
+Não é demais anotar, a propósito, que o crime de associação para fins de tráfico consuma-se independentemente da posse ilegal de entorpecentes, de modo que a expressiva quantidade de droga apreendida não caracteriza circunstância judicial desfavorável, não autorizando, portanto, a exasperação das penas.
+(..).
+Para o crime de associação para o tráfico, as penas dos acusados Fabrício e [NOME] passam a perfazer, portanto, 3 (três) anos de reclusão e 700 (setecentos) dias-multa, à razão mínima ao dia-multa, e as de Eduardo 3 (três) anos e 6 (seis) meses de reclusão e 816 (oitocentos e dezesseis) dias-multa, à razão mínima ao dia-multa.
+Não há que se falar em substituição da pena privativa de liberdade em relação ao crime de associação para fins de tráfico, por insuficiência para fins de reprovação penal.
+(..).
+No que tange ao crime de associação para o tráfico ilícito de entorpecentes, o regime inicial fechado, deve prevalecer, porque a prática ilícita em questão, sem dúvida, pelas repercussões sociais, que lhe são inerentes, notadamente, viabilizar a prática do crime de tráfico ilícito de entorpecentes, crime legalmente classificado como equiparado a crime hediondo, consideradas, ainda, as já analisadas circunstâncias do caso em tela, possui contornos de gravidade diferenciada.
+Constata-se que a fundamentação revela-se por demais genérica, servindo para qualquer réu e qualquer crime de associação para o tráfico.
+Nos termos da jurisprudência desta Corte, o regime de cumprimento de pena mais gravoso do que a sanção comporta pode ser estabelecido, desde que haja fundamentação específica, com base em elementos concretos extraídos dos autos, a teor das Súmulas n. 440/STJ e 718 e 719/STF, o que não ocorreu no caso concreto.
+Assim, para o ora agravante, considerando a magnitude da quadrilha da qual fazia parte, responsável pelo comércio de expressiva quantidade de drogas, o regime a ser imposto é o semiaberto.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial, concedendo ordem de habeas corpus, de ofício, para fixar o regime semiaberto para o início do cumprimento da pena privativa de liberdade imposta.
+Acolho o pedido do Parquet Federal, determinando a comunicação do presente decisum ao Tribunal de Justiça de São Paulo para que tome as providências que entender necessárias no tocante ao início da execução provisória da pena do agravante, nos termos da Resolução n. 113/2007- CNJ, com a redação dada pela Resolução n. 180/2013 (arts. 8º/11).
+Comunique-se, com urgência.
+Publique-se.
+Intime-se.
