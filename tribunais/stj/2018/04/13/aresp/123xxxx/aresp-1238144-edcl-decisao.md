@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão por mim proferida em que conheci do agravo para negar provimento ao recurso especial por não vislumbrar a existência de omissão no acórdão estadual, bem como por entender correto o regime prisional fixado na origem.
+Alega a defesa que o embargante é tecnicamente primário e que tendo sido a pena-base fixada no mínimo legal, o regime prisional adequado é o aberto.
+É o relatório. Decido.
+Os aclaratórios merecem acolhida.
+Constata-se, primeiramente, que de fato há nos autos (e-STJ fl. 396) a informação de que houve erro material na sentença, sendo o recorrente tecnicamente primário. Por essa razão, a pena foi redimensionada para 1 (um) ano de reclusão, a ser cumprida no regime semiaberto.
+Nesse contexto, com razão a defesa quando alega a existência de erro na decisão embargada que não se ateve à referida informação.
+Assim, sendo o recorrente primário, inexistindo circunstâncias judiciais desfavoráveis e tendo a pena final sido fixada em 1 (um) ano de reclusão, adequada a fixação do regime aberto para o cumprimento da reprimenda. Nessa linha:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. POSSE E GUARDA DE INSTRUMENTOS E OBJETOS DESTINADOS À PREPARAÇÃO DE DROGAS (ART. 34 DA LEI N. 11.343/2006). ABSOLVIÇÃO. IMPOSSIBILIDADE. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. DOSIMETRIA DA PENA. EXASPERAÇÃO DA PENA-BASE. ELEMENTOS DESVINCULADOS DO CONTEXTO FÁTICO DO DELITO. FUNDAMENTO INIDÔNEO. REDIMENSIONAMENTO AO MÍNIMO LEGAL. REGIME PRISIONAL MAIS GRAVOSO (FECHADO). PENA INFERIOR A QUATRO ANOS. RÉ PRIMÁRIA E CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. MODO ABERTO. READEQUAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. POSSIBILIDADE. WRIT NÃO CONHECIDO. MANIFESTA ILEGALIDADE VERIFICADA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+4. Fixada a pena no mínimo legal (3 anos de reclusão), verificada a primariedade da agente e sendo favoráveis as circunstâncias do art. 59 do CP, o regime inicial aberto é o adequado à prevenção e à reparação do delito, nos termos do art. 33, § 2º, "c", do Código Penal (Súmula n. 444/STJ).
+ ..
+6. Habeas Corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena-base e fixar a reprimenda final em 3 anos de reclusão, mais o pagamento de 1.200 dias-multa, bem como para estabelecer o regime aberto e substituir a pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo Execução. (HC 292.915/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 05/04/2017)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. USO DE DOCUMENTO FALSO. NOVOS FUNDAMENTOS UTILIZADOS PELO TRIBUNAL PARA A CONFIGURAÇÃO DOS MAUS ANTECEDENTES, NA PRIMEIRA FASE DA DOSIMETRIA DA PENA. REFORMATIO IN PEJUS RECONHECIDA. ALEGAÇÃO MINISTERIAL DE QUE AS CIRCUNSTÂNCIAS DO CASO CONCRETO IMPEDIRIAM A FIXAÇÃO DO REGIME ABERTO. PENA-BASE FIXADA NO MÍNIMO LEGAL. PRIMARIEDADE E QUANTUM DE PENA ESTABELECIDO INFERIOR A QUATRO ANOS. AGRAVO REGIMENTAL DESPROVIDO.
+I - O acórdão impugnado violou o artigo 617, do Código de Processo Penal, incorrendo em reformatio in pejus, agravando a situação da paciente sem que houvesse recurso ministerial neste ponto.
+II - Ademais, consideradas favoráveis as circunstâncias do art. 59 do CP, sendo primária a paciente e o quantum de pena estabelecido não excede 4 (quatro) anos, não há razão para que não se conceda a paciente o regime aberto para início de cumprimento de pena, ex vi do art. 33, § 2º, alínea "c", e § 3º, do Código Penal.
+Agravo regimental desprovido. (AgRg no HC 362.211/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 02/12/2016)
+Ante o exposto, acolho os embargos de declaração, com efeitos infringentes, para dar parcial provimento ao recurso especial para fixar o regime aberto para o cumprimento da reprimenda corporal.
+Publique-se. Intime-se.
