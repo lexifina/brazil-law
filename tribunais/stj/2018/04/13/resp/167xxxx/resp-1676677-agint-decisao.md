@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de agravo interno interposto por DIRECIONAL AMBAR EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra decisão unipessoal que não conheceu do recurso especial de fls. 553/555 (e-STJ).
+Nas razões do presente agravo interno, a recorrente tece considerações acerca dos óbices aplicados na decisão agravada e pugna pelo sobrestamento do processo, em virtude da afetação do REsp n. 1.614.721/DF, que versa sobre a possibilidade ou não de inversão, em desfavor da construtora, da cláusula penal estipulada exclusivamente ao adquirente do imóvel.
+RELATADO O PROCESSO. DECIDO.
+Em virtude das razões apresentadas pela agravante em suas razões recusais, reconsidero a decisão agravada e passo a nova análise do recuso especial interposto pela ora agravante, no qual se discute, além de outras questões, a possibilidade ou não de inversão, em desfavor da construtora (fornecedora), da cláusula penal estipulada exclusivamente para o adquirente (consumidor), nos casos de inadimplemento da construtora em virtude de atraso na entrega de imóvel objeto de contrato de promessa de compra e venda.
+Tendo em vista que a referida questão de direito foi afetada para julgamento, sob o rito dos recursos repetitivos (Tema 971), conforme decisão proferida pelo Min. Luiz Felipe Salomão nos autos dos REsps ns. 1.614.721/DF e 1.631.485/DF, impõe-se a suspensão do presente recurso perante o Tribunal de origem, até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental n. 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Forte nessas razões, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC/2015.
+Publique-se. Intimem-se.
