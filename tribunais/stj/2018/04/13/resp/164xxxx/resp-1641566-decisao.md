@@ -1,0 +1,40 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO, contra acórdão prolatado, pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 1.822e):
+Apelação  anulação de AIIM  primeiro AIIM anulado por erro  segundo AIIM lavrado após a fluência do prazo decadencial Recurso provido
+Os embargos infringentes foram rejeitados em acórdão resumido na seguinte ementa (fl. 1.905e):
+EMBARGOS INFRINGENTES. Ação anulatória de débito fiscal. Auto de infração e imposição de multa anulado.
+Novo auto de infração, com conteúdo mais abrangente, lavrado mais de cinco anos após a ocorrência do fato gerador. Vício material do primeiro, por isso sem nenhum efeito quanto ao prazo legal de decadência para a constituição do crédito tributário. Hipótese não amparada pelo disposto no artigo 173, ff, do Código Tributário Nacional. Decadência verificada.
+Prevalência dos votos vencedores. Embargos rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, que:
+Art. 173, II, do CTN O Referido AIIM foi posteriormente anulado, em 07/10/2003, levando-se em conta vício formal consistente na falta de clareza, o que acarretara, conseqüentemente, cerceamento de defesa do contribuinte ( fls. 140/154 ) recomendando-se nova ação fiscal, posto que não caracterizada a decadência, nos termos do artigo 173, II do CTN .  ..  "ao partirem da premissa de que o auto de infração originalmente lavrado, AIIM n. 2.030.337-3, meses após os respectivos atos infracionais, padecia de VÍCIO MATERIAL e não de vício FORMAL, ou seja, concluindo que ocorreram acréscimos na capitulação da exigência fiscal. Em que pese o entendimento da maioria, o vício formal ficou plenamente configuradorado, autorizando nova ação fiscal dentro do prazo previsto pelo legislação.
+Afirma que "a Recorrida formulou pedido de parcelamento em seara administrativa envolvendo a dívida em questão, com os benefícios previstos no Programa de Parcelamento Incentivado do ICMS ( fls. 1614/1615 ), o qual foi indeferido, posto que não formulado no prazo previsto pelo Decreto 51.960/07";
+Art. 20, § 4º do CPC - os honorários advocatícios foram fixados em patamar exorbitante.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+No que tange ao pedido de parcelamento como causa de interromper a decadência, observo que as razões recursais não está embasada em dispositivo de lei federal tido por violado, circunstância que atrai, por analogia, a incidência da orientação contida na Súmula 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Por outro lado, a Recorrente alega que o auto de infração padecia de vício formal e não material, autorizando nova ação fiscal dentro do prazo previsto na legislação.
+Contudo, o tribunal de origem, após minucioso exame dos elementos fáticos, assentou que (fl. 1.826e):
+A anulação proclamada pela 2a Câmara Efetiva do TIT afirmou a existência de imperfeições capazes de dificultar ou impossibilitar a defesa, com imprecisão na apresentação de números e valores e na indicação dos fundamentos infracionais.
+O primitivo auto de infração foi substituído por nova autuação, que fez superar as irregularidades, acrescentando imputações, tanto que o valor nominal experimentou sensível elevação. Assim, a apresentação das irregularidades e a nova imputação dos agentes fiscais que produziram o AIIM nº 3.034.179-6 indica que a anulação decorreu de erro que exigiu o refazimento da imputação fiscal, com a lavratura de novo AIIM.
+Rever o entendimento do tribunal de origem, com o objetivo de acolher a pretensão recursal de que o auto de infração padecia de vício formal, e não material, autorizando nova ação fiscal dentro do prazo previsto na legislação, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+No pertinente à verba honorária, observo que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o prequestionamento significa o prévio debate da questão no tribunal a quo, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+ADMINISTRATIVO, PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENSINO SUPERIOR. PRETENSÃO DE DEVOLUÇÃO DAS TAXAS DE DIPLOMA. PRAZO PRESCRICIONAL. FATO DO SERVIÇO. ARTIGO 2º DA LEI N. 9.870/1999. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF.
+1. No caso, não há se falar em violação do art. 26, inciso II, do Código de Defesa do Consumidor, porquanto inaplicável o prazo decadencial a que alude este artigo, uma vez que não se trata de responsabilidade do fornecedor por vícios aparentes ou de fácil constatação existentes em produto ou serviço, mas de danos causados por fato do serviço, consubstanciado pela cobrança indevida da taxa de diploma, razão pela qual incide o prazo qüinqüenal previsto no art. 27 do CDC.
+2. O artigo 2º da Lei n. 9.870/1999 não foi apreciado pelo Tribunal de origem, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula n. 282 do STF.
+3. Agravo regimental não provido.
+(AgRg no REsp 1327122/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 15/04/2014, destaque meu).
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1. A orientação do STJ é de que, se a licença-prêmio não gozada foi computada como tempo efetivo de serviço, para fins de aposentadoria, conforme autorização legal, não pode ser desconsiderada para fins do enquadramento previsto na Lei 11.091/05.
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1374369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/06/2013, DJe 26/06/2013, destaque meu).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
