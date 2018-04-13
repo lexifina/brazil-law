@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por ROSANIA MARIA DA SILVA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, c, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. DECISÃO MONOCRÁTICA. AGRAVO INTERNO. SALARIO-MATERNIDADE. ATIVIDADE URBANA DO CÔNJUGE. MANUTENÇÃO DO JULGADO.
+1 - A autora, convivente, para comprovar a sua qualidade de segurada na condição de trabalhadora rural colacionou aos autos, dentre outros, os seguintes documentos: cópia da certidão de nascimento do seu filho nascido em 18.08.2014 (fls. 115) e cópia da CTPS do seu companheiro (fls. 16-20). Observo que, conforme a CTPS de fls. 16-203, o companheiro da demandante trabalhou nos períodos de 01.03.2007 a 30.08.2007; de 01.05.2008 a 30.09.2009; de 01.02.2011 a - sem anotação de data de desligamento; de 04.04.2011 a 20.12.2013 e de 05.05.2014 - sem anotação de data de desligamento, na função de tratorista.
+2 - Tratorista, embora execute suas tarefas no campo, não é considerado, no âmbito de direito previdenciário e, inclusive, de direito trabalhista, trabalhador eminentemente rural, de que trata a lei complementar nºlll, de 25 de maio de 1971, estando sujeito, portanto, ao regime previdenciário urbano
+3 - Agravo interno desprovido.
+No recurso especial, a recorrente aponta divergência jurisprudencial com julgado do Tribunal Regional do Trabalho da 15ª Região, quanto à interpretação dada ao art. 55, § 3º da Lei 8.213/91.
+Aduz, em síntese, que o julgado paradigma, ao contrário do consignado no acórdão combatido, considera rural o trabalhador que exerce a função de tratorista, se o trabalho for exercido para empregador rural.
+Sustenta, ainda, que o início de prova material em nome do cônjuge, por extensão, também lhe beneficia, porquanto é segurada especial e faz jus ao benefício previdenciário de salário-maternidade.
+Sem contrarrazões, o recurso especial foi inadmitido com fundamento de que a pretensão esbarra na Súmula 7/STJ.
+No presente agravo, a recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo a agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+A questão controversa dos autos diz respeito à qualificação da autora como segurada especial (art. 11, VII, da Lei 8.213/91) para fins de recebimento de auxílio-maternidade.
+Alega que exerce atividade rural em regime de economia familiar e para comprovação do alegado, como início de prova material, apresentou documentos em que consta a profissão do marido de tratorista, à ela extensível.
+O Tribunal a quo entende que o marido da autora não pode ser considerado rural, tendo em vista que exerce atividade de empregado urbano.
+Sendo esse o panorama dos autos, apresentou a requerente dissídio jurisprudencial com julgado do Tribunal Regional do Trabalho da 15ª Região, em que se reconhece a natureza rural da atividade de tratorista para fins de exclusão do reconhecimento da prescrição em reclamatória trabalhista.
+De início, cabe esclarecer que no meio rural há tanto o empregado rural, segurado obrigatório previsto no art. 11, I, da Lei 8.213/91, quanto o segurado especial, previsto no art. 11, VII, que é o trabalhador rural que labora em regime de economia familiar.
+O fato do trabalhador laborar no meio rural, não quer dizer que seja segurado especial, como parece ser o presente caso, em que o esposo da autora era empregado, com registro na CTPS.
+Assim o simples reconhecimento do trabalhador como trabalhador rural, in casu, atrai a incidência da Súmula 284/STF (óbice por deficiência na fundamentação), porquanto o reconhecimento do serviço de tratorista como urbano ou rural não altera a situação fática da autora. Para o recurso especial garantir o direito ao benefício pretendido, deveria procurar demonstrar a qualidade de segurado especial do cônjuge da autora, em regime de economia familiar, e não simplesmente sua condição rural.
+No mais, quanto ao dissídio jurisprudencial invocado, verifica-se, conforme a previsão do art. 255, §1º, do RISTJ, que é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se, novamente, o constante da Súmula n. 284 do STF.
+Isto porque, da análise do recurso especial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que enquanto o acórdão recorrido trata da qualificação da autora como segurada especial, o acórdão paradigma cuida de reconhecimento de vinculo empregatício rural para afastar a prescrição em reclamação trabalhista.
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E COMPENSATÓRIA POR DANOS MORAIS. ISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+2. O reexame de fatos e provas em recurso especial são inadmissíveis.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.002.220/BA, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/11/2017, DJe 4/12/2017).
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. CONVERSÃO EM URV. LEI 8.880/1994. SERVIDORES PÚBLICOS ESTADUAIS. INATIVOS E PENSIONISTAS. ILEGITIMIDADE PASSIVA DA FESP RECONHECIDA PELO TRIBUNAL A QUO. INTERPRETAÇÃO DA LCE 1.010/2007. DIREITO LOCAL. SÚMULA 280/STF. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O Tribunal de origem analisou e aplicou a Lei Complementar Estadual 1.010/2007, reconhecendo, a partir daí, a ilegitimidade passiva da FESP para as ações envolvendo pensionista e inativos, razão pela qual extinguiu o processo, sem julgamento de mérito, nos termos do art. 267, VI, do CPC/1973.
+2. Assim, ao adentrar na legislação local para decidir a lide, o Tribunal a quo acabou por afastar a competência do STJ para o deslinde do desiderato contido no Recurso Especial, ante o óbice da Súmula 280 do STF.
+3. Em relação ao dissídio jurisprudencial, destaco que a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. É indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a interpretação legal divergente.
+4. Recurso Especial não conhecido.
+(REsp 1.666.682/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/6/2017, DJe 19/6/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
