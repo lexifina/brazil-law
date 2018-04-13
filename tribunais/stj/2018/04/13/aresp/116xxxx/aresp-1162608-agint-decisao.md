@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno fundado no CPC/2015, manejado por [NOME] em face de decisão monocrática da Presidência que não conheceu do agravo em virtude da intempestividade do recurso especial (fls. 345/346).
+No agravo interno, a parte agravante defende a tempestividade do recurso, argumentando que "em sua r. decisão que negou seguimento ao Recurso Especial, o próprio Egrégio TJMG (2ª lauda, 3º parágrafo) diz sobre o recurso de [NOME]: Recurso tempestivo, visto que, embora interposto inicialmente via e-mail, procedimento vedado pelo Superior Tribunal de Justiça, foi protocolado dentro do prazo legal, nos termos do artigo 1003, § 4º, do Código de Processo Civil de 2015 (protocolo postal). O TJMG, portanto, em nenhum momento suscitou a intempestividade do Recurso Especial, tendo claramente declarado a sua tempestividade, não tendo havido necessidade de comprovar a ocorrência de eventual feriado, não sendo este, intempestividade, o motivo de ter sido negado o seu seguimento" (fl. 351).
+É o relatório.
+A irresignação comporta acolhida.
+De acordo com a análise dos autos, verifica-se que a parte agravante foi intimada do acórdão recorrido em 24/10/2016 (fl.233), e o apelo especial interposto em 18/11/2016.
+Ora, é cediço que na contagem dos prazos processuais o primeiro dia é excluído e o último dia é incluído. Portanto, o primeiro dia útil do prazo recursal foi dia 25/10/2016, encerrando o prazo de 30 (trinta) dias úteis no dia 05/12/2016.
+Dessa forma, o recurso especial é manifestamente tempestivo, eis que interposto dentro do prazo de 30 (trinta) dias úteis, nos termos dos arts. 183 e 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil/15.
+Desse modo, exercendo o juízo de retratação, reconsidero a decisão às fls. 345/346, para reconhecer a tempestividade do recurso. Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
