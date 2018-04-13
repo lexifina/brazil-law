@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] PORTO BÚZIOS INCORPORAÇÃO S.A., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Processo Redistribuído em cumprimento à Resolução 737/2016 e à Portaria 1/2016. COMPROMISSO DE COMPRA E VENDA. Incontroverso atraso na entrega da unidade. Sentença que condenou a incorporadora no pagamento multa de 2% mais indenização por danos morais de R$ 10.000,00. Impossibilidade de aplicação de multa contratual estipulada para o consumidor de forma inversa. Necessária compensação dos prejuízos, por meio de indenização por danos morais de R$ 5.000,00. Quantia adequada para o atraso de seis meses. Recurso provido em parte" (e-STJ fl. 285).
+No recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos arts. 186 e 927 do Código Civil, ao fundamento de não ser devida a indenização por dano moral em virtude de mero descumprimento contratual.
+Sem as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar.
+Inicialmente, registra-se que, em se tratando de dissídio notório, admite-se, excepcionalmente, a mitigação dos requisitos exigidos para a interposição do recurso pela alínea "c" "quando os elementos contidos no recurso são suficientes para se concluir que os julgados confrontados conferiram tratamento jurídico distinto à similar situação fática" (AgRg nos EAg 1.328.641/RJ, Rel. Min. Castro Meira, DJe 14/10/11).
+No caso em apreço, a Corte de origem reduziu a condenação em danos morais pelo atraso na entrega da obra para o patamar de R$ 5.000,00 (cinco mil reais) sob os seguintes fundamentos:
+"(..)
+Por outro lado, no que diz respeito à indenização por danos morais, vale mencionar que esta 4ª Câmara somente concede indenização por danos morais em casos peculiares, com pelo menos um ano de atraso e outras características que devem ser levadas em conta.
+Contudo, é induvidoso que os compradores, apesar de pedirem aplicação de multa contratual, não pleitearam lucros cessantes, e, devem ser recompensados pela omissão da vendedora. Daí porque, neste específico caso, concede-se indenização por danos morais de R$ 5.000,00, o que bem compensa os prejuízos experimentados nesse período de seis meses de atraso" (e-STJ fl. 288).
+Entretanto, da simples leitura da sentença, observa-se que, ao contrário do consignado no acórdão estadual, houve, sim, pedido de lucros cessantes, julgado improcedente na primeira instância (e-STJ fls. 226/227), sem que tenha havido nenhuma insurgência nesse ponto.
+Assim, o aresto combatido encontra-se em confronto com a jurisprudência do Superior Tribunal de Justiça, segundo a qual não se presume o dano moral nos casos de atraso na entrega de imóvel objeto de contrato de compra e venda, admitindo-se a indenização somente em hipóteses excepcionais e desde que devidamente comprovados os danos alegados.
+Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. INDENIZAÇÃO. PARCIAL PROCEDÊNCIA. OFENSA AO ART. 535 DO CPC/73. INEXISTÊNCIA. RESPONSABILIDADE DA CONSTRUTORA. AUSÊNCIA DE EXCLUDENTE. LUCROS CESSANTES DEVIDOS. CUMULAÇÃO COM MULTA. POSSIBILIDADE. EQUIPARAÇÃO DE MULTAS. VALOR EXAGERADO PARA O COMPRADOR. DESEQUILÍBRIO CONTRATUAL. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. DANO MORAL. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL QUE JUSTIFIQUE A INDENIZAÇÃO. RECENTE ENTENDIMENTO DESTA CORTE. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+(..)
+5. A moderna jurisprudência firmada no âmbito da Terceira Turma desta Corte é no sentido de que o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes compradores.
+6. No caso concreto, a fundamentação do dano moral está justificada somente da frustração da expectativa da autora, que se privou do uso do imóvel pelo tempo em que perdurou o atraso na entrega da obra, sem tecer nota adicional ao mero atraso que pudesse, além dos danos materiais, causar grave sofrimento ou angústia a ponto de configurar verdadeiro dano moral.
+7. Agravo regimental parcialmente provido a fim de excluir a condenação por dano moral" (AgRg no AREsp 847.358/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 1º/6/2017 - grifou-se).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. LUCROS CESSANTES. PRESUNÇÃO. CLÁUSULA PENAL MORATÓRIA. REVERSÃO. CUMULAÇÃO COM LUCROS CESSANTES. POSSIBILIDADE. JURISPRUDÊNCIA CONSOLIDADA NO STJ. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. DANO MORAL NÃO CONFIGURADO.
+(..)
+8. A jurisprudência do STJ vem evoluindo, de maneira acertada, para permitir que se observe o fato concreto e suas circunstâncias, afastando o caráter absoluto da presunção de existência de danos morais indenizáveis.
+9. O dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes-compradores.
+10. Recurso especial parcialmente conhecido e, nessa parte, provido" (REsp 1.665.550/BA, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 16/5/2017).
+Logo, merece reforma o acórdão recorrido, incidindo na espécie o enunciado da Súmula nº 568/STJ.
+Ante o exposto, dou provimento ao recurso especial para afastar a indenização por danos morais e, em consequência, julgar improcedentes os pedidos iniciais.
+Custas e honorários advocatícios pelos autores, ora recorridos, fixados estes últimos em 10% (dez por cento) do valor da causa, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
