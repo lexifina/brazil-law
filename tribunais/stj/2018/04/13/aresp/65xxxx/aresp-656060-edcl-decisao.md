@@ -1,0 +1,24 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS DA DECISÃO EMBARGADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Cuida-se de Embargos de Declaração opostos por MARTA ADRIANA LOPES em face de decisão que deu provimento ao Agravo em Recurso Especial da União, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ACUMULAÇÃO DE DOIS CARGOS PRIVATIVOS DE PROFISSIONAIS DE SAÚDE. CARGA HORÁRIA SOMADA SUPERIOR A 60 HORAS SEMANAIS. INCOMPATIBILIDADE DE HORÁRIOS. ART. 37 DA CARTA MAGNA E ART. 118 DA LEI 8.112/90. EXEGESE JUDICIAL DAS LEIS ESCRITAS. FINALIDADE E ADEQUAÇÃO DO ESFORÇO INTERPRETATIVO. PREVALÊNCIA DOS ASPECTOS FACTUAIS RELATIVOS À PROTEÇÃO E À SEGURANÇA DOS PROFISSIONAIS E PACIENTES. AGRAVO EM RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO (fls. 334).
+2. A parte embargante alega que além de ter, na prática, negado a possibilidade recursal da parte, violando os artigos celetistas e processuais que prescrevem o cabimento dos recursos e, também, os artigos constitucionais que garantem a ampla defesa, o contraditório e o devido processo legal  a saber: artigo 5o., incisos XXXIV, XXXV, LIV e LV  , o v. acórdão negou à jurisdicionada a devida prestação jurisdicional, pois não analisou os argumentos levantados pela ora Embargante, principalmente, a aplicabilidade da Súmula 7, do C. STJ (fls. 352).
+3. É o relatório.
+4. Os presentes Embargos de Declaração não merecem acolhimento.
+5. Verifica-se que inexiste a omissão apontada, o que afasta, desde já, qualquer possibilidade de alteração do acórdão embargado, que concluiu que a Lei 8.112/90, em seu art. 19, fixou para o Servidor Público a jornada de trabalho de, no máximo, 40 horas semanais, com a possibilidade de duas horas de trabalho extras por jornada. Tomando-se como base esse preceito legal, impõe-se reconhecer que o Acórdão TCU 2.133/2005 e o Parecer GQ 145/98, ao fixarem o limite de 60 horas semanais para que o Servidor se submeta a dois ou mais regimes de trabalho, devem ser prestigiados, uma vez que atendem ao princípio da razoabilidade e proporcionalidade.
+6. Quanto à ofensa ao art. 37, XVI da CF/88, a jurisprudência é firme de que, em sede de Recurso Especial, é vedado a este Tribunal Superior apreciar violação de dispositivos constitucionais, ainda que para fins de prequestionamento, uma vez que o julgamento de matéria de índole constitucional é reservado ao Supremo Tribunal Federal. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE REEXAME DE MATÉRIA DE MÉRITO (AÇÃO DE PRESTAÇÃO DE CONTAS. ACÓRDÃO ESTADUAL. VIOLAÇÃO AO ARTIGO 535, DO CPC. NÃO CONFIGURAÇÃO). INOBSERVÂNCIA DAS EXIGÊNCIAS DO ART. 535 E INCISOS, DO CPC. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. DESCABIMENTO.
+1. Os embargos de declaração somente são cabíveis quando houver na sentença ou no acórdão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 535, I e II, do CPC.
+2. Os embargos de declaração, via de regra, não permitem rejulgamento da causa, como pretende a parte, ora embargante, sendo certo que o efeito modificativo pretendido somente é possível em hipóteses excepcionais e uma vez comprovada a obscuridade, contradição ou omissão do julgado, o que não se evidencia no caso em exame. Precedentes do STJ.
+(..).
+4. É incabível a utilização de embargos de declaração para prequestionamento de matéria constitucional a fim de viabilizar a interposição de recurso extraordinário. Precedentes da Corte.
+5. Embargos de declaração rejeitados (EDcl no AgRg nos EDcl no REsp. 1.141.279/AM, Rel. Min. ANTÔNIO CARLOS FERREIRA, DJe 9.9.2014).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO - EMBARGOS DE DECLARAÇÃO - CONTRIBUIÇÃO PARA O FUNRURAL - LEI 8.212/91 - OMISSÃO CONFIGURADA NO JULGADO - PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL - IMPOSSIBILIDADE.
+A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o art. 97 do CTN reproduz dispositivo da Constituição Federal, cuja apreciação é vedada a essa Corte, por se tratar de matéria de índole constitucional, de competência exclusiva do Supremo Tribunal Federal.
+Não cabe a esta Corte examinar na via especial, sequer a título de prequestionamento, eventual violação de dispositivo constitucional, tarefa reservada, pela Constituição da República, ao Supremo Tribunal Federal.
+Embargos de declaração acolhidos, sem efeitos infringentes (EDcl no AgRg nos EDcl no REsp. 763.551/PR, Rel. Min. HUMBERTO MARTINS, DJe 7.12.2014).
+7. Com efeito, não há qualquer vício no decisum ora impugnado. Ressalte-se, que os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+8 Ante o exposto, rejeitam-se os Embargos de Declaração.
+9. Publique-se.
+10. Intimações necessárias.
