@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por VIVIAN SANTOS DA SILVA contra o acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas que julgou prejudicado do writ originário, HC n. 0801247-59.2017.8.02.0000, nos termos da seguinte ementa:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO. GRAVIDEZ AVANÇADA E RISCO DE NASCIMENTO EM ESTABELECIMENTO PRISIONAL. CONCESSÃO DE LIBERDADE NA ORIGEM. PERDA DO OBJETO. MATÉRIA PREJUDICADA. UNANIMIDADE.
+A recorrente, presa em flagrante em 13 de agosto de 2016, e convertida a custódia em preventiva (e-STJ fls. 66/68), foi denunciada pela suposta infringência ao art. 33, caput, da Lei n. 11.343/2006. O Juízo de primeiro grau informou que a sua prisão preventiva foi convertida em domiciliar no dia 27/3/2017 (e-STJ fl. 81).
+Irresignada com o excesso de prazo na prisão cautelar, a defesa impetrou habeas corpus perante o Tribunal local. O julgamento do mérito da ordem, entretanto, foi considerado prejudicado, tendo em vista a revogação da custódia pela origem. (e-STJ fls.91/96).
+Nas razões do presente recurso (e-STJ fls. 103/106), a Defensoria Pública suscita a nulidade da decisão que decretou a prisão preventiva da recorrente, por fundamentação inidônea (gravidade abstrata do delito) e ausência dos requisitos autorizadores da medida extrema, insculpidos no art. 312 do Código de Processo Penal. Pede, ao final, a revogação da prisão preventiva da recorrente, com a expedição de alvará de soltura.
+Não houve pedido liminar e o Ministério Público Federal manifestou-se pela prejudicialidade da ordem, tendo em vista que a prisão cautelar da recorrente já foi revogada pela origem, cujo parecer foi assim ementado (e-STJ fls. 124/125):
+RECURSO ORDINÁRIO EM HABEAS CORPUS . PRISÃO PREVENTIVA. ACÓRDÃO DO E. TJAL JULGADO PREJUDICADO EM RAZÃO DA REVOGAÇÃO DA CUSTÓDIA NA ORIGEM. AUSÊNCIA DE INTERESSE.
+- Parecer pelo não conhecimento do recurso.
+É o relatório. Decido.
+O seguimento do presente recurso ordinário em habeas corpus está prejudicado pela perda superveniente do objeto. Isso porque a questionada prisão preventiva do recorrente já foi revogada pela instância originária, com concessão de prisão domiciliar, em abril/2017. Nesse sentido:
+ ..  1. Sobrevindo decisão que revogou a segregação antecipada do acusado, constata-se a perda do objeto do recurso no tocante à alegada falta de fundamentação da decisão que manteve a medida extrema. 2. Recurso julgado parcialmente prejudicado e, na parte remanescente, desprovido (RHC 69.927/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 1º/8/2016).
+Mesmo que esta questão pudesse ser superada, o que se admite apenas por respeito ao debate, o presente recurso não seria conhecido por irregularidade formal. É que inexiste silogismo entre as razões fático-jurídicas apresentadas pela defesa e a fundamentação do acórdão impugnado.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Intime-se. Publique-se.
