@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recurso especial, este interposto com fulcro na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 84):
+CONSTITUCIONAL. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. LOAS. BENEFÍCIO ASSISTENCIAL. ÓBITO DO BENEFICIÁRIO. PRESTAÇÕES VENCIDAS. DIREITO HEREDITÁRIO.
+1. O benefício de prestação continuada é personalíssimo e, portanto, não é transmissível aos herdeiros em caso de óbito e nem geram o direito à percepção do benefício de pensão por morte aos dependentes.
+2. Tendo sido reconhecido o direito ao benefício, o valor referente às prestações vencidas já havia sido incorporado ao patrimônio jurídico do de cujus e, portanto, deve ser reconhecido o direito dos herdeiros ao recebimento deste montante.
+3. Apelação não provida.
+Opostos embargos de declaração, foram rejeitados (fls. 101/102).
+Nas razões do apelo especial, aponta o recorrente violação aos arts. 21, § 1º, da Lei 8.742/93, na medida em que "A sentença restou mantida pelo V. acórdão que, não obstante tenha reconhecido que, por força do preceituado no § Io, do artigo 21, da Lei 8.742/93, é intransferível o direito de continuar recebendo o beneficio, não gerando, inclusive pensão por morte, entendeu que permanece a pretensão dos sucessores quanto aos valores eventualmente devidos" (fls. 106/108).
+Afirma que "em face do caráter personalíssimo do benefício vindicado, a morte da postulante acarretaria a extinção do feito, sem julgamento do mérito, nos moldes previstos no artigo 267, inciso VI, do Código de Processo Civil" (fl. 109).
+Aduz que "o art. 23 do Decreto nº6.214, de 26/09/2007, refere-se ao resíduo não pago em vida, ou seja, apenas aos valores devidos entre o último pagamento e data do óbito. Contudo, o v. acórdão proferido em segundo grau de jurisdição houve por bem determinar que os herdeiros da parte autora da ação principal possuem legitimidade para a execução do julgado" (fl. 110).
+Sem contrarrazões.
+É o relatório.
+Com efeito, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o caso dos autos não versa sobre o direito ao benefício assistencial e nem tampouco sobre pensão, mas sim sobre o direito dos sucessores ao montante referente às prestações vencidas do benefício, crédito esse que já havia sido incorporado ao patrimônio jurídico do de cujos, razão pela qual a vedação do dispositivo supracitado não se aplica ao caso concreto. Em outras palavras, após o reconhecimento do direito ao benefício, o valor referente aos atrasados converte-se em crédito comum, descaracterizada a natureza assistencial que lhe deu origem, e, portanto, sujeito à sucessão universal" (fl. 83).
+A irresignação, portanto, esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Do exposto, nego provimento ao agravo.
+Publique-se.
