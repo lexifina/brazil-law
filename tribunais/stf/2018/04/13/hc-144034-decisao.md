@@ -1,0 +1,38 @@
+Decisão: Trata-se de habeas corpus com pedido de liminar, impetrado por Vagner da Costa, em favor de Maicon Rodrigues dos Santos, contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), que não conheceu do RHC 82.229/SP.
+    Consta dos autos que o paciente foi preso em flagrante porque acusado da prática dos crimes, em tese, de roubo majorado e homicídio tentado (eDOCs 3-9).
+    O Juízo da 1ª Vara Criminal da Comarca de Itaquaquecetuba/SP converteu a custódia em prisão preventiva (eDOC 10, p. 11-13).
+    Recebeu-se a denúncia e foi determinada a incidência do rito especial por se tratar de procedimento afeto à Vara do Júri (Proc. 0009330-07.2016.8.26.0278; portal eletrônico do TJ/SP).
+    Inconformada, a defesa impetrou, no TJ/SP, o HC 2203083-50.2016.8.26.0000 (eDOC 2, p. 3-26), cujo Relator indeferiu o pedido de liminar (eDOC 10, p. 5-7). Posteriormente, a ordem foi denegada.
+    Daí a interposição, no STJ, do referido RHC 82.229/SP, cuja liminar foi indeferida. Após, a Quinta Turma do Superior Tribunal de Justiça (STJ) não conheceu do citado recurso (portal eletrônico do STJ).
+    No presente HC, sustenta-se, em síntese, o seguinte:
+    a) inexigibilidade de procuração no processamento do recurso de habeas corpus perante o STJ;
+    b) inépcia da denúncia, porquanto a subtração e a posterior perseguição policial possuem nexo de casualidade, assim, é impositiva a reclassificação do fato para roubo impróprio, afastando a tentativa de homicídio contida na inicial acusatória;
+    c) ausência de individualização da conduta dos acusados;
+    d) inocorrência de qualquer fundamento autorizador da segregação cautelar do paciente;
+    e) possibilidade de conversão da prisão preventiva em outras medidas cautelares, nos termos dos arts. 282 e 319 do CPP.
+    Ao final, a parte impetrante pede:
+    “I – Seja declarada inepta a denúncia oferecida contra o paciente;
+    II – Caso não seja acolhida a inépcia da peça vestibular da Ação Penal, seja concedido ao paciente o benefício legal da liberdade provisória, concedendo uma das medidas cautelares alternativas como dispõe o artigo 319, do Código de Processo Penal;
+    III – Concedendo-se a ordem, convalidando-se a liminar concedida, possibilite ao paciente aguardar em liberdade o desfecho da Ação Penal;
+    IV – Por derradeiro, caso não seja a ordem concedida, de ofício, se for o caso, para reconhecer a inépcia da inicial; liberdade provisória, seja afastado o não conhecimento do recurso ordinário pela ausência de instrumento de mandato e devolvido ao C. STJ, para apreciar o mérito do remédio constitucional”. (eDOC 1, p. 31)
+    Indeferi o pedido de liminar (eDOC 14, p. 1-5).
+    Requisitei informações ao Juízo da 1ª Vara Criminal da Comarca de Itaquaquecetuba/SP (Proc. 0009330-07.2016.8.26.0278) e ao Relator, no STJ, do RHC 82.229/SP (eDOC 14, p. 1-5), as quais foram prestadas (eDOCs 19-21).
+    O Ministério Público Federal opinou pela denegação da ordem (eDOC 22, p. 1-4).
+    É o relatório.
+    Decido.
+    Preliminarmente, conforme assinalei ao julgar o pedido de liminar (eDOC 14, p. 1-5), constato que a Quinta Turma do STJ, em nome da efetividade da prestação jurisdicional e visando a verificar a ocorrência de flagrante ilegalidade no ato judicial impugnado, superou a questão da irregularidade de representação processual do ora paciente, por ausência do instrumento de mandato, e apreciou, de ofício, o habeas corpus em apreço (voto, p. 3-5, portal eletrônico do STJ).
+    É relevante, também, o fato de que posteriormente à presente impetração, o Juízo da 1ª Vara Criminal da Comarca de Itaquaquecetuba/SP, nos autos da referida Ação Penal 0009330-07.2016.8.26.0278, em 1º.11.2017, proferiu sentença na qual não pronunciou o paciente, nos termos do artigo 414 do CPP, em relação ao crime de homicídio, mas o condenou a 5 anos e 6 meses de reclusão, em regime semiaberto, bem como ao pagamento de multa, pela prática do delito descrito no artigo 157, § 2º, incisos I e II, do CP (portal eletrônico do TJ/SP, pub. 10 e 27.11.2017), ficando prejudicada, portanto, a pretensão da parte impetrante de afastar a imputação relativa à tentativa de homicídio contida na inicial acusatória e, por conseguinte, de inépcia da denúncia.
+    Além disso, conforme já relatado, a defesa também alega a inexistência de motivos ensejadores da prisão cautelar, aliás, mantida pela supracitada sentença condenatória, “uma vez que permanecem intactos os pressupostos estabelecidos pelo art. 312, do Código de Processo Penal”. Ali também se decidiu: “Recomendem-se os réus na prisão onde se encontram, requisitando-se imediatamente vaga em estabelecimento penitenciário adequado (regime semiaberto)” (portal eletrônico do TJ/SP, pub. 10 e 27.11.2017).
+    Inicialmente, reitero que, de modo geral, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para a sua decretação, nos termos do artigo 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    É bem verdade que, na linha da jurisprudência deste Tribunal, não basta, porém, a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Por oportuno, destaco precedentes desta Corte no sentido de ser idônea a prisão decretada para resguardo da ordem pública e aplicação da lei penal, considerada a gravidade concreta do crime e porque devidamente fundamentada (HC 131.442/SP, de minha relatoria, Segunda Turma, DJe 21.9.2016); HC 140.427/CE, por mim relatado, decisão monocrática, DJe 15.9.2017; HC 143.475/RS, por mim relatado, decisão monocrática, DJe 30.11.2017; HC 143.576/BA, por mim relatado, decisão monocrática, DJe 29.11.2017 e HC 153.321/RS, por mim relatado, decisão monocrática, DJe 8.3.2018).
+    Ademais, permanecendo o paciente custodiado durante a instrução criminal, tendo, inclusive, o Juízo entendido por sua manutenção no cárcere, ao proferir sentença condenatória, em razão da presença incólume dos requisitos previstos no artigo 312 do CPP, não deve ser revogada a prisão cautelar se não houver alteração fática apta a autorizar-lhe a devolução do status libertatis. Nesse sentido: HC 139.585/CE, de minha relatoria, Segunda Turma, DJe 10.4.2017.
+    As circunstâncias que justificaram a prisão em apreço, mencionadas na decisão que converteu referida custódia em preventiva (eDOC 10, p. 11-13), na sentença supracitada (portal eletrônico do TJ/SP), bem como nos acórdãos do TJ/SP e do STJ (HC 2203083-50.2016.8.26.0000 e RHC 82.229/SP, respectivamente; portal eletrônico do STJ), autorizam a conclusão pela necessidade da segregação cautelar para garantia da ordem pública e aplicação da lei penal. Vê-se, portanto, que a medida extrema lastreou-se em elementos concretos colhidos dos próprios autos, harmonizando-se a constrição da liberdade do acusado com a jurisprudência do STF.
+    Todavia, no caso dos autos, apesar de determinado na sentença, não há demonstração inequívoca, sobretudo diante das informações recebidas (eDOCs 19-21) e do andamento processual (portal eletrônico do TJ/SP), no sentido de que o paciente tenha sido transferido a estabelecimento penitenciário adequado ao regime prisional fixado (semiaberto).
+    Diante do exposto, com base no art. 192, caput, do RI/STF, concedo parcialmente a ordem para determinar que o paciente seja alocado em estabelecimento compatível com o regime fixado em sentença (semiaberto).
+    Comunique-se com urgência.
+    Publique-se.
+    Brasília, 13 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+                 Documento assinado digitalmente
