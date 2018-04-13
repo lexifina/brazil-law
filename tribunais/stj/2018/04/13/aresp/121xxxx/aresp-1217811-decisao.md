@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por STJOIN COMERCIAL LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a" da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AÇÃO DE PRESTAÇÃO DE CONTAS - Segunda fase - Contrato de abertura de crédito em conta corrente - Cerceamento de defesa - Inocorrência - Compete ao Juiz aferir sobre a necessidade ou não de produzir determinada prova, bem como indeferir aquelas que considerar inúteis ou protelatórias - Dicção do artigo 130, do CPC/73 - Prova pericial - Desnecessidade - Contas apresentadas na forma mercantil  Impugnação genérica, sem especificação dos lançamentos considerados discordantes ou obscuros - Sentença mantida - Recurso não provido" (e-STJ fl. 1.197).
+No especial, a recorrente alegou violação dos artigos 915 e 917 do Código de Processo Civil de 2015.
+Postulou, em síntese, a reforma do acórdão ao argumento de que os documentos representativos de cada lançamento apresentados pela instituição bancária são insuficientes para comprovar a prestação de contas.
+Afirma que determinados valores deveriam ser justificados pelo banco, pois não estavam devidamente instruídos pelos documentos autorizadores dos débitos ou da respectiva contratação.
+Apresentadas as contrarrazões e inadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Importante considerar que o Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, consignou que os documentos apresentados pela instituição bancária são suficientes para prestação de contas, consoante se verifica do seguinte excerto do voto condutor:
+"(..) Verifica-se que o réu prestou contas na forma mercantil (fls. 151/322; 323/837; 838/842; 846; 847/856; 857/938), tendo o juízo a quo determinado à autora que se manifestasse sobre as contas prestadas (fls. 939).
+A postulante, ora apelante, limitou-se a insistir que faltou à prestação de contas a apresentação dos contratos para possibilitar a conferência das bases de cálculo, fórmulas de cálculo e das taxas de juros e encargos aplicadas ao longo de todo o período na conta corrente e nas linhas de crédito que compuseram o relacionamento em tela (fls. 942), requerendo "o extorno dos valores debitados em sua conta corrente, os quais não foram justificados com o respectivo instrumento que o autorizasse, conforme demonstrados no laudo anexo a presente impugnação, restituindo a Requerente a importância total de RS 211.076,30 devidamente corrigida a partir de cada debito, acrescida de juros de mora, fixando ainda, honorários advocatícios sobre o valor a restituir" (fls. 946).
+A forma mercantil de apresentação de contas, segundo o ensinamento doutrinário, deve preencher os seguintes requisitos:
+Essa forma mercantil ou contábil exige a organização das diversas parcelas que compõem as contas em colunas distintas para débito e crédito, fazendo-se todo o lançamento por meio de histórico que indique c esclareça a origem de todos os recebimentos e o destino de todos os pagamentos. Outro dado importante é a seqüência cronológica dos dados lançados1.
+Na hipótese, as contas foram prestadas em observância a tal forma. A autora, a seu turno, limitou-se a impugná-las genericamente, deixando de apontar os lançamentos que pretendia questionar. A este respeito, confira-se:
+Contrato Bancário. AÇÃO DE PRESTAÇÃO DE CONTAS - Segunda Fase - Sentença que julgou boas as contas prestadas pelo Banco/réu. Contas prestadas pela Instituição Financeira, acompanhadas de parecer técnico - Impugnação genérica e não fundamentada. Inadmissibilidade- Subsistência da sentença que julgou boas as contas apresentadas. Sentença mantida por seus próprios e jurídicos fundamentos, nos termos do art. 252 do Regimento Interno deste E. Tribunal de Justiça de São Paulo. Recurso não provido" (e-STJ fls. 1.198 - 1.199).
+Dessa forma, rever o entendimento do acórdão impugnado implicaria o reexame do contexto fático-probatório, procedimento inadmissível em recurso especial, nos termos da Súmula nº 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Registra-se que, na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
