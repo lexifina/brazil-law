@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por MULTIPLAN ADMINISTRADORA DE SHOPPING CENTERS LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RESPONSABILIDADE CIVIL - Legitimidade ad causam e interesse de agir configurados - Furto de veículo em estacionamento de hipermercado localizado em shopping center - Aplicação da Súmula n. 130 do STJ - Subtração e danos comprovados - Honorários advocatícios bem fixados - Agravo retido não conhecido - Apelações desprovidas" (e-STJ fl. 428).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente alegou, além de dissídio jurisprudencial, violação dos artigos 104 a 112 do Código Civil.
+Postulou, em síntese, a reforma do acórdão ao argumento de que não se trata de culpa solidária, pois a responsabilidade civil por danos, furtos e roubos ocorridos no estacionamento é de responsabilidade única e exclusiva da empresa Carrefour Comércio e Indústria Ltda.
+Asseverou não se tratar de simples previsão contratual, visto que a cláusula contratual isenta a recorrente. Aduziu que a empresa Carrefour deve arcar com a totalidade da indenização ou, alternativamente, que a recorrente seja condenada apenas subsidiariamente.
+Apresentadas as contrarrazões e inadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, consignou ser de responsabilidade da Multiplan a administração e fiscalização do estacionamento, sendo inequívoca a solidariedade das empresas envolvidas, consoante se verifica do seguinte excerto do voto condutor:
+"(..) A apelada comprovou a propriedade da motocicleta (fls. 29), bem como que o furto ocorreu no estacionamento destinado a tais veículos, isto porque seu esposo recebeu o Cartão de Estacionamento n. 772, conforme Termo de Entrega de Material de fls. 33, o que não reteria se houvesse retirado o bem do local.
+O estacionamento para motos fica no pátio do Carrefour, cuja administração e fiscalização é de responsabilidade da Multiplan, como deflui do § 2o da cláusula oitava da Escritura Recíproca de Servidão (fls. 124), não havendo qualquer óbice de utilização por usuários do Shopping, e pelo que consta, conforme depoimento do funcionário da Multiplan, [NOME], supervisor da área operacional, colhido através do sistema audiovisual, à época era o único local destinado à guarda de tais veículos, não podendo ser oposta à autora a isenção de responsabilidade por danos estabelecida entre os contratantes.
+É inequívoca a relação de consumo, aplicando-se o disposto nos arts. 14 e 17 do CDC.
+No sistema do CDC respondem solidariamente todos aqueles que se inserem na cadeia de fornecimento de serviços.
+Consoante entendimento do Superior Tribunal de Justiça: "a solução da controvérsia deve partir da principiologia do Código de Defesa do Consumidor fundada na solidariedade de todos aqueles que participam da cadeia de produção ou da prestação de serviços. Para a responsabilização de todos os integrantes da cadeia de consumo, apura-se a responsabilidade de um deles, objetiva ou decorrente de culpa, caso se verifiquem as hipóteses autorizadoras previstas no CDC. A responsabilidade dos demais integrantes da cadeia de consumo, todavia, não decorre de seu agir culposo ou de fato próprio, mas de uma imputação legal de responsabilidade que é servil ao propósito protetivo do sistema" (REsp 997.993/MG, Rei. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2012, DJe 06/08/2012), bem como que: "a empresa que integra, como parceira, a cadeia de fornecimento de serviços é responsável solidária pelos danos causados ao consumidor por defeitos no serviço prestado" (AgRg no Ag 1153848/SC, Rei. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 12/04/2011, DJe 27/04/2011)" (e-STJ fls. 431/433).
+Dessa forma, rever o entendimento do acórdão impugnado implicaria a interpretação de cláusula contratual e o reexame do contexto fático-probatório, procedimentos inadmissíveis em recurso especial, nos termos das Súmulas nºs 5 e 7/STJ.
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"Recurso Especial. Civil. Responsabilidade civil. Cirurgião e anestesiologista. Recurso com fundamento nas alíneas "a" e "c" do art. 105, III, da CF. Reexame fático-probatório. Súmula 07/STJ. Incidência.
+- A constatação de ter o médico cirurgião e o anestesista agido ou não com culpa no atendimento a paciente, nas modalidades negligência, imprudência ou imperícia, demanda necessariamente o reexame do conjunto fático-probatório da causa, o que é vedado pela Súmula 7 do STJ.
+- O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a", quanto pela "c" do permissivo constitucional.
+- Recurso especial não conhecido." (REsp 765.505/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/3/2006, DJ 20/3/2006 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 15% (quinze por cento) do valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
