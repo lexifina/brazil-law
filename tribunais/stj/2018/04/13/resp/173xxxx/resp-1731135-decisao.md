@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se recurso especial interposto por [NOME] TEODORO VITOR E OUTROS, com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 246/247):
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. PENSÃO POR MORTE. REQUISITOS LEGAIS NÃO PREENCHIDOS. TRABALHADOR URBANO. QUALIDADE DE SEGURADO NÃO COMPROVADA. SENTENÇA TRABALHISTA HOMOLOGATÓRIA DO ACORDO COMO INÍCIO DE PROVA MATERIAL. NECESSÁRIO OUTROS MEIOS DE PROVA. APELAÇÃO PROVIDA.
+1. A pensão por morte, benefício devido ao conjunto dos dependentes do segurado que falecer, aposentado ou não, está disciplinada pela Lei nº 8.213/1991, nos artigos 74 a 79, cujo termo inicial, previsto no artigo 74, com a redação dada pela Lei nº 9.528/97, é fixado conforme a data do requerimento, da seguinte forma: (i) do óbito, quando requerida até trinta dias depois deste; (ii) do requerimento, quando requerida após o prazo previsto no inciso anterior; (iii) da decisão judicial, no caso de morte presumida.
+2. O artigo 16, da Lei 8.213/91, enumera as pessoas que são beneficiárias da Previdência Social, na condição de dependentes do segurado: Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de dependentes do segurado: I - o cônjuge, a companheira, o companheiro e o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência
+grave; II - os pais; 1JI - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave; (..)
+3. Na hipótese, o evento morte ocorreu em 28/03/14 (fl. 17), presente o requerimento administrativo apresentado em 16/09/14 (fl. 18).
+4. Quanto à condição de dependente da parte autora em relação ao "de cujusverifico que é presumida por se tratar de filhos do falecido, devidamente demonstrado nos autos - certidões de nascimento às fls. 13,15 e 16.
+5. No entanto, a controvérsia da demanda reside na qualidade de segurado. Infere-se do extrato do CNIS, em consulta junto ao sítio do DATAPREV em 01/12/16 nada constar em nome do falecido, e anotação em CTPS (fls. 21-24), pela qual o último vínculo empregatício do de cujus refere-se ao período de 28/03/09 a 28/03/14, efetuada em decorrência de reclamação trabalhista, cuja sentença homologou o reconhecimento do vínculo, por confissão do empregador (fls. 19-20).
+6. No entanto, referido início de prova material não é suficiente para comprovar a qualidade de segurado, fazendo-se necessário o complemento por outras provas, consoante entendimento da 3a Seção desta Corte, alinhado ao posicionamento do C. Superior Tribunal de Justiça. Nessa linha, trago o precedente jurisprudencial:(..)
+7. Apelação provida.
+Apontam os recorrentes, além de divergência jurisprudencial, violação aos arts. 15 e 102 da Lei 8.213/91, com a redação dada pelas Leis de nºs 9.528/97 e 10.666/03, sustentando que estão presentes os requisitos legais à concessão do benefício de pensão por morte.
+Alegam que "o último contrato de trabalho do falecido foi registrado em CTPS, fls.. em decorrência de sentença homologatória da Justiça do Trabalho de Mogi Mirim/SP, as fls. 19/20, pela qual restou reconhecido o vínculo empregatício no período de 28/03/2009 a 28 de março de 2014" (fl. 254).
+Sem contrarrazões.
+Parecer do Ministério Público Federal pelo provimento do recurso (fls. 275/283).
+É o relatório.
+Cinge-se a controvérsia em saber se a sentença trabalhista supre a necessidade de apresentação de início de prova material, para comprovação da qualidade de segurado do de cujus, para fins de concessão de pensão por morte, quando calcada apenas em confissão do ex empregador acerca do vínculo de trabalho.
+Segundo o Tribunal a quo, reconhecido na Justiça do Trabalho o tempo de serviço anotado na Carteira de Trabalho e Previdência Social - CTPS, com base apenas em sentença trabalhista não pode ser considerada como início de prova material, para fins previdenciários.
+Por oportuno, veja-se o seguinte trecho do acórdão recorrido (fls. 242/244):
+Na hipótese, o evento morte ocorreu em 28/03/14 (fl. 17), presente o requerimento administrativo apresentado em 16/09/14 (fl. 18).
+Quanto à condição de dependente da parte autora em relação ao "de cujus", verifico que é presumida por se tratar de filhos do falecido, devidamente demonstrado nos autos - certidões de nascimento às fls. 13,15 e 16.
+No entanto, a controvérsia da demanda reside na qualidade de segurado.
+Infere-se do extrato do CNIS, em consulta junto ao sítio do DATAPREV em 01/12/16 nada constar em nome do falecido, e anotação em CTPS (fls. 21-24), pela qual o último vínculo empregatício do de cujus refere-se ao período de 28/03/09 a 28/03/14, efetuada em decorrência de reclamação trabalhista, cuja sentença homologou o reconhecimento do vínculo, por confissão do empregador (fls. 19-20).
+No entanto, referido início de prova material não é suficiente para comprovar a qualidade de segurado, fazendo-se necessário o complemento por outras provas, consoante entendimento da 3a Seção desta Corte, alinhado ao posicionamento do C. Superior Tribunal de Justiça.
+(..).
+Dessarte, ausente o requisito da qualidade de segurado, a parte autora não faz jus ao benefício de pensão por morte, devendo a sentença de primeiro grau ser mantida.
+Referido entendimento está em sintonia com a jurisprudência desta Corte, firmada no sentido de que a sentença trabalhista pode ser considerada como início de prova material, desde que prolatada com base em elementos probatórios capazes de demonstrar o exercício da atividade laborativa, durante o período que se pretende ter reconhecido na ação previdenciária.
+Nesse sentido, vejam-se os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA QUALIDADE DE SEGURADO.
+1. Não tendo o falecido, à data do óbito, a condição de segurado ou implementado os requisitos necessários à aposentadoria, seus dependentes não fazem jus à concessão do benefício de pensão por morte. Precedentes.
+2. A sentença trabalhista apta a se prestar como início de prova material é aquela fundada em elementos que evidenciem o labor e o período em que este fora exercido.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.084.414/SP, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 19/02/2013, DJe 01/03/2013 - grifo nosso)
+PREVIDENCIÁRIO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL. ANOTAÇÕES FEITAS POR ORDEM JUDICIAL. SENTENÇA TRABALHISTA NÃO FUNDAMENTADA EM PROVAS DOCUMENTAIS E TESTEMUNHAIS. INÍCIO DE PROVA MATERIAL NÃO-CARACTERIZADO.
+1. A sentença trabalhista será admitida como início de prova material, apta a comprovar o tempo de serviço, caso ela tenha sido fundada em elementos que evidenciem o labor exercido na função e o período alegado pelo trabalhador na ação previdenciária. Precedentes das Turma que compõem a Terceira Seção.
+2. No caso em apreço, não houve produção de qualquer espécie de prova nos autos da reclamatória trabalhista, tendo havido acordo entre as partes.
+3. Embargos de divergência acolhidos.
+(EREsp 616.242/RN, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 28/09/2005, DJ 24/10/2005, p. 170)
+Assim, não merece reforma o acórdão combatido que está em harmonia com o entendimento desta Corte Superior, na medida em que não constou da sentença trabalhista o necessário início de prova material apto a demonstrar o exercício da atividade laborativa.
+Nesse mesmo sentido:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. ART. 55, § 3º, DA LEI N. 8.213/91. SENTENÇA HOMOLOGATÓRIA DE ACORDO TRABALHISTA. INEXISTÊNCIA, NO CASO, DE ELEMENTOS QUE EVIDENCIEM O PERÍODO TRABALHADO E A FUNÇÃO EXERCIDA. AUSÊNCIA DE OUTRA PROVA MATERIAL.
+1. A sentença homologatória de acordo trabalhista é admitida como início de prova material para fins previdenciários, mesmo que o INSS não tenha participado da lide laboral, desde que o decisum contenha elementos que evidenciem o período trabalhado e a função exercida pelo trabalhador, o que não ocorreu no caso dos autos. Nesse sentido, confiram-se:AgRg nos EREsp 811.508/PR, Terceira Seção, Rel. Min. Jorge Mussi, DJe de 05/12/2012; AgRg no AREsp 301.546/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 21/3/2014; AgRg no REsp 1.395.538/PB, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 26/09/2013; AgRg no AREsp 357.432/CE, Rel. Min. Eliana Calmon, Segunda Turma, DJe de 04/10/2013; AgRg no REsp 1.084.414/SP, Rel. Min. Og Fernandes, Sexta Turma, DJe de 01/03/2013; e AgRg no AREsp 95.686/MG, Rel. Min. Sebastião Reis Júnior, Sexta Turma, DJe de 22/02/2013.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 249.379/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/04/2014, DJe 22/04/2014)
+Ante o exposto, não conheço do recurso especial. Impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
