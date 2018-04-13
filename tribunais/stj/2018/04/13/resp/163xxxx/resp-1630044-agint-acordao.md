@@ -1,0 +1,42 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS NÃO PREQUESTIONADOS. ART. 74, II, DA LEI N. 8.213/1991. FUNDAMENTOS NÃO SERVEM À IMPUGNAÇÃO DO ACÓRDÃO RECORRIDO.
+1. Não há violação do art. 535 I e II, do CPC/1973, quando a Corte de origem emprega fundamentação adequada e suficiente para dirimir a controvérsia.
+2. Os fundamentos adotados pelo Tribunal de origem não têm correlação com a tese de defesa. Assim, forçoso reconhecer que os dispositivos legais não estão prequestionados, assim como, não servem à impugnação do acórdão recorrido. Incide, na hipótese, as Súmulas 282, 283 e 284 do STF).
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por [NOME] contra decisão, assim ementada (fl. 814):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PENSÃO POR MORTE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ARTS. 69 DA LEI N. 8.212/1991; 6º, § 2º DA LINDB; 884 DO CÓDIGO CIVIL; E 11 DA LEI N. 10.666/2003. FALTA DE PREQUESTIONAMENTO. SUMULAS 282/STF E 211/STJ. MARCO INICIAL DO BENEFÍCIO. ADIMPLEMENTO DAS CONTRIBUIÇÕES POST MORTEM. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões recursais, a parte agravante alega que não incidem os óbices das Súmulas 211/STJ; 282; 283 e 284 do STF, houve emissão de juízo de valor, pelo tribunal a quo, ao menos em relação ao artigo 74 da Lei n. 8.213/91, o qual, inclusive, é o ponto nodal da controvérsia ora debatida, bem como também não houve deficiência de fundamentação, a qual atacou especificamente todos os fundamentos utilizados pelo acórdão recorrido.
+Sem impugnação (certidão à fl. 834).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/1973. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS NÃO PREQUESTIONADOS. ART. 74, II, DA LEI N. 8.213/1991. FUNDAMENTOS NÃO SERVEM À IMPUGNAÇÃO DO ACÓRDÃO RECORRIDO.
+1. Não há violação do art. 535 I e II, do CPC/1973, quando a Corte de origem emprega fundamentação adequada e suficiente para dirimir a controvérsia.
+2. Os fundamentos adotados pelo Tribunal de origem não têm correlação com a tese de defesa. Assim, forçoso reconhecer que os dispositivos legais não estão prequestionados, assim como, não servem à impugnação do acórdão recorrido. Incide, na hipótese, as Súmulas 282, 283 e 284 do STF).
+3. Agravo interno não provido.
+
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): A decisão agravada foi assim fundamentada (fls. 814/816):
+O Ministério Público Federal, em seu Parecer, manifesta-se pelo não provimento do recurso especial às fls. 806/812.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Feita esta consideração, de pronto, afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Quanto aos artigos 69 da Lei n. 8.212/91; 6º, § 2º da LINDB; 884 do Código Civil; e 11 da Lei 10.666/03, observa-se que a Corte de origem não emitiu juízo de valor acerca de tais dispositivos ou às teses a eles vinculadas. Com efeito, se as questões que são objeto do recurso especial não foram debatidas nas instâncias ordinárias, tratando-se de inovação em sede de embargos declaratórios, os quais não foram acolhidos, se mostra inviável a sua análise na via do especial, pois recai o óbice das Súmulas n. 211/STJ e 282/STF para o conhecimento da matéria por este Superior Tribunal de Justiça.
+Nesse sentido, confira-se:
+"É vedada a inovação de teses em embargos de declaração e, por tal razão, inexiste omissão em acórdão que julgou a apelação sem se pronunciar sobre matérias não argüida nas razões de apelação." (REsp 1.038.920/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 25/11/2008).
+No mais, da leitura atenta das razões do recurso especial verifica-se, quanto à alegada violação ao 74, II da Lei n. 8.213/91, que a parte recorrente limitou-se a reiterar as alegações de que a legislação pertinente prevê o termo inicial do benefício quando da realização do requerimento administrativo, sob o argumento de que "independentemente de comprovação ou regularização posterior, a qualidade de segurado do falecido já encontrava-se presente quando do óbito, na medida em que a situação fática da vida (ser sócio quotista de empresa) que lhe conferia a qualidade de segurado já havia se perfectibilizado no mundo dos fatos, ou seja, a qualidade de segurado já havia se configurado quando do óbito, revestindo-se de reconhecimento tardio de um direito que já havia se incorporado ao patrimônio jurídico do segurado e, via de conseqüência, ao patrimônio jurídico de seus dependentes previdenciários. (fls. 773/774).
+No entanto, a Corte de origem na fundamentação do acórdão recorrido, faz referência ao 74, caput, da Lei n. 8.213/91, com a finalidade de esclarecer os requisitos legais para reconhecimento da qualidade de segurado do de cujos, na condição de contribuinte individual e, para esclarecer do porque que da concessão do benefício só se tornar possível a partir da comprovação do recolhimento das contribuições em atraso, veja-se: "No ponto, entendo que o termo inicial da pensão por morte deve ser fixado na data do efetivo recolhimento das contribuições previdenciárias pela dependente do de cujus, não podendo se falar em direito ao benefício antes de tal providência" (fl. 719).
+Assim, resta caracterizada a deficiência na fundamentação recursal, que não impugna com propriedade os exatos termos do acórdão recorrido. É de rigor portanto, a aplicação das Súmulas ns. 283 e 284 do STF.
+A irresignação não merece prosperar.
+No que diz respeito à incidência das Súmulas 211/STJ e 282/STF à hipótese dos autos, a parte agravante não logrou demonstrar o desacerto da decisão agravada.
+E, embora os embargos declaratórios tenham sido rejeitados, não se verifica violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015), mas apenas decisão contrária ao interesse das partes.
+Com efeito, o TRF da 4ª Região externou, de forma clara, coerente e fundamentada, as razões de decidir, as quais se mostram suficientes para embasar o acórdão impugnado, sendo desnecessário o pronunciamento requerido nos aclaratórios.
+De outro lado, com relação ao art. 74, caput, da Lei n. 8.213/91, observa-se que os argumentos trazidos pelo recorrente em suas razões do recurso especial não servem à impugnação dos fundamentos em que se apóia o acórdão recorrido.
+Porquanto, a Corte de origem ao analisar o art. 74, caput, da Lei n. 8.213/91, o faz com a finalidade de esclarecer que o de cujus só implementou os requisitos legais e, consequentemente, a qualidade de segurado, na condição de contribuinte individual, com a comprovação do recolhimento das contribuições em atraso. E quanto a esse fundamento suficiente o recorrente não apresentou argumentos suficientes capazes de demonstrar o desacerto da Corte de origem. Assim, apresentando-se deficiente a tese de defesa, é inevitável a aplicação das Súmulas 284 e 283 do STF.
+Nessa linha, frisa-se, os fundamentos adotados pelo Tribunal de origem não têm correlação com a tese de defesa.
+Assim, além de não se observar a alegada violação do art. 535 do CPC, forçoso reconhecer que os dispositivos legais não estão prequestionados (Súmula n. 282 do STF) e não servem à impugnação do acórdão recorrido (Súmulas n. 283 e n. 284 do STF).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
