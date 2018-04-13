@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DESISTÊNCIA DO RECURSO E RENÚNCIA AO DIREITO A QUE SE FUNDA A AÇÃO. ERRO MATERIAL VERIFICADO. FUNDAMENTAÇÃO NOS TERMOS DO CPC/2015. NÃO INCIDÊNCIA DE HONORÁRIOS ADVOCATÍCIOS EM SEDE DE AÇÃO MANDAMENTAL. EMBARGOS DE DECLARAÇÃO DO PARTICULAR ACOLHIDOS.
+1. Cuida-se de Embargos de Declaração opostos por TAM LINHAS AÉREAS S.A. em face de decisão que homologou pedido de renúncia ao direito sobre o qual se funda a presente ação, extinguindo o feito nos termos do art. 269, V do CPC, e manteve a condenação da renunciante nos ônus de sucumbência..
+2. Em suas razões, a parte embargante alega que houve erro material no julgado, considerando que a decisão embargada tem como fundamento dispositivos do antigo CPC/1973, sendo necessária a substituição por dispositivos do CPC/2015. Assevera, ainda que não houve condenação em honorários advocatícios, porquanto incabíveis nos termos do art. 25 da Lei 12.016/2009.
+3. É o relatório do essencial.
+4. De início, cumpre esclarecer que o art. 1.022, II do CPC/2015 é bastante específico ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a existência de obscuridade, contradição, omissão ou erro material no julgado.
+5. No pertinente ao fundamento para extinção do feito, há que se retificar a parte dispositiva da decisão ora embargada, a fim de constar a homologação do pedido de desistência do Agravo em Recurso Especial, nos termos do art. 998 do CPC/2015, e a extinção do feito, com resolução do mérito, nos termos do art. 487, III, c do CPC/2015.
+6. Também em relação ao arbitramento de ônus sucumbenciais, observa-se que não há que se manter a verba honorária, na hipótese, haja vista que, em sede de Mandado de Segurança, não é admitida condenação em honorários advocatícios, conforme art. 25 da Lei 12.016/2009 e orientação das Súmulas 512/STF e 105/STJ.
+7. Ante o exposto, acolhem-se os Embargos de Declaração do Particular nos termos da fundamento supra.
+8. Publique-se. Intimações necessárias.
