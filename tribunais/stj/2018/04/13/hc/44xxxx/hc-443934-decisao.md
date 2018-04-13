@@ -1,0 +1,13 @@
+DECISÃO
+ABRAÃO SANTOS DE OLIVEIRA, paciente neste habeas corpus, alega sofrer constrangimento ilegal em decorrência de decisão proferida pelo Desembargador relator do HC n. 2049472-09.2018.8.26.0000, do Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido liminar.
+Nesta Corte, a defesa sustenta, em síntese, a ausência dos requisitos autorizadores da prisão cautelar, a ausência de fundamentação do decreto preventivo e a desproporcionalidade da medida, haja vista a primariedade do paciente e o fato de que, ainda que venha a ser condenado, o réu não experimentará o regime prisional mais gravoso.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a imposição de medida cautelar menos gravosa.
+Decido.
+Inicialmente, destaco que as matérias aventadas nesta ordem de habeas corpus não foram objeto de análise pelo Tribunal de origem, ficando, assim, impedida sua admissão, sob pena de incidir-se na indevida supressão de instância.
+Nesse sentido, regula o enunciado da Súmula n. 691 do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar".
+O referido impeditivo é ultrapassado tão somente em casos excepcionais, nos quais a ilegalidade é tão flagrante de modo a não escapar à pronta percepção do julgador, o que não ocorre na espécie.
+O Juiz de primeiro grau, ao homologar o flagrante e decretar a prisão preventiva, ressaltou a quantidade de droga apreendida - 267 invólucros de cocaína, com peso aproximado de 64, 8 gramas, e 240 invólucros de maconha, com peso aproximado de 448 gramas, drogas extremamente lesivas, além de R$ 162,00 em dinheiro, tudo a revelar a gravidade concreta da conduta criminosa. Ademais, ressaltou que o paciente ostenta outra passagem naquela audiência de custódia também por crime de tráfico de drogas, ocasião em que foi agraciado com liberdade provisória com cautelares, as quais descumpriu.
+Tais circunstâncias - gravidade concreta da conduta extraída da quantidade da droga apreendida e a vida pregressa do paciente - são elementos que demonstram a necessidade da segregação cautelar para a garantia da ordem pública, pois a imposição de qualquer outra medida diversa da prisão será insuficiente para evitar a prática de novas infrações penais, nos termos do art. 282, I, do CPP.
+Assim, não identifico flagrante constrangimento ilegal ou qualquer mácula nos atos impugnados neste mandamus, a justificar a intervenção imediata e prematura desta Corte Superior de Justiça.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
