@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+""SEGURO DE VIDA E ACIDENTES PESSOAIS INVALIDEZ PARCIAL E PERMANENTE POR DOENÇA COBERTURA NÃO ABRANGIDA PELA APÓLICE SENTENÇA MANTIDA RECURSOS IMPROVIDOS.
+A cobertura contratada vale com o elemento de apuração, inclusive do prêmio que o segurado paga, não podendo ser simplesmente desconsiderada para favorecê-lo se não pagou por esse risco"" (e-STJ, fl. 311)
+Nas razões recursais, a ora agravante, aponta violação aos artigos 757 e 1.432 do Código Civil, 4º, I, e 47 do Código de Defesa do Consumidor, bem como divergência jurisprudencial. Sustenta, em síntese, que as regras do Código de Defesa do Consumidor, aplicam-se ao presente feito; é nula a cláusula que exclui doença ocupacional da cobertura, primeiro porque não consta na apólice principal e segundo porque mesmo constando nas condições gerais do seguro, elas não foram redigidas em destaque, as doenças ocupacionais se equiparam a acidentes de trabalho, razão pela qual faz jus ao recebimento do prêmio do seguro.
+Sobreveio o juízo de admissibilidade do Tribunal de origem, que inadmitiu o recurso especial, o que ensejou a interposição do presente recurso.
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz o Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A Corte Estadual, com base nos fatos, provas e conteúdo contratual dos autos, assim se pronunciou:
+"Ao que se infere da apólice de seguro de vida em grupo foram contratadas as seguintes coberturas: morte por causa acidental, invalidez permanente total ou parcial por acidente e invalidez permanente total por doença (cf. fI. 1 193.
+A perícia oficial detectou quadro de incapacidade parcial e permanente para o trabalho, ao concluir que o autor não pode exercer atividades que exijam esforços físicos ou hipermovimentação com a coluna lombar" (fI. 2623.
+A conclusão que se extrai, portanto, é no sentido de que o segurado é portador de invalidez parcial e permanente por doença, cobertura que não encontra abrigo na apólice; vale dizer, o quadro físico do apelante não se encaixa na cobertura do seguro que ampara somente a hipótese de incapacitação permanente total por doença (fI .119), tendo a perícia, de forma clara, destacado que o segurado é capaz de adaptar-se a outra atividade laborativa (resposta ao quesito n 7, formulado pela ré - f/. 199)
+(..)
+Na verdade, as coberturas previstas em contrato de seguro valem com o elementos de apuração , inclusive, do prêmio que o segurado paga, não podendo ser simplesm ente desconsideradas para favorecê-lo, se não pagou por este risco." (e-STJ, fls. 315/317)
+Nesse contexto, a alteração das premissas adotadas na origem no sentido de acolhimento das razões do recurso demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos que encontram óbice nas Súmula 5 e 7 desta Corte. Referido óbice é aplicável a ambas as alíneas do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CONTRATO DE SEGURO DE VIDA EM GRUPO. INVALIDEZ PERMANENTE. CARACTERIZAÇÃO DA INCAPACIDADE FUNCIONAL. AUSÊNCIA DE COBERTURA. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO À LIBERDADE DE CONTRATAR, À BOA-FÉ, À PROBIDADE E À ESTIPULAÇÃO DE CONTRATOS ATÍPICOS. INEXISTÊNCIA. CLÁUSULAS LIMITATIVAS AO DIREITO DO CONSUMIDOR. REDAÇÃO EM DESTAQUE. PRINCÍPIO DA PERSUASÃO RACIONAL OU DO LIVRE CONVENCIMENTO MOTIVADO. DESNECESSIDADE DE DILAÇÃO PROBATÓRIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. A Corte de origem, mediante a perquirição das cláusulas contratuais e a análise soberana do contexto fático-probatório, apontou que ficou comprovado, por meio da perícia do INSS e dos laudos médicos, que a doença que acometeu o segurado é permanente, fato que levou à concessão de aposentadoria por invalidez, estando caracterizada a incapacidade funcional, a ensejar a indenização securitária.
+2. Desse modo, registre-se que o acolhimento da pretensão recursal, com a perquirição específica da ausência de cobertura de invalidez no caso em epígrafe, nos moldes pretendidos em sede de apelo nobre, demandaria a interpretação do instrumento contratual, bem como a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Na hipótese vertente, não há que se falar em violação à liberdade decontratar, aos princípios da boa-fé e da probidade, bem como à estipulação de contratos atípicos, pois a liberdade de contratar não pode prejudicar o consumidor, além de o contrato de seguro revestir-se de natureza típica, com expressão previsão no Código Civil, consoante se observa entre os arts. 757 e 802.
+4. O Superior Tribunal de Justiça perfilha o entendimento de que as cláusulas contratuais devem ser interpretadas da maneira mais favorável ao consumidor, devendo observar o direito de informação, mediante redação clara, expressa e em destaque das cláusulas limitativas de direitos.
+5. O princípio da persuasão racional ou do livre convencimento motivado constitui prerrogativa concedida ao juiz, para que, com fulcro nos elementos relevantes constantes nos autos, possa firmar a convicção
+sobre a matéria debatida. Nesse diapasão, o argumento de cerceamento
+de defesa, por necessidade de dilação probatória, não se sustenta, tendo
+em vista que o acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+6. O acolhimento da pretensão recursal, no sentido de rever o posicionamento da Corte de origem que apontou a desnecessidade de dilação probatória, demandaria o revolvimento do acervo fático-probatório constante nos autos, situação vedada pelo óbice da Súmula nº 7/STJ.
+7. O dissídio jurisprudencial não foi demonstrado, uma vez que a recorrente se limitou a citar acórdãos trazidos como paradigmas, sem realizar o necessário cotejo analítico, em desatenção ao disposto na legislação processual pátria e no Regimento Interno do Superior Tribunal de Justiça.
+8. Agravo interno não provido.
+(AgInt no AREsp 1123531/MA, Rel. Ministro LUIS FELIPE SALOMÃO,
+QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+Ademais, o recurso não merece prosperar, também, pela alínea "c" do permissivo constitucional, em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ. Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. QUITAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA. TÍTULOS DA DÍVIDA PÚBLICA. DAÇÃO EM PAGAMENTO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+III - Já é firme o entendimento desta Corte, segundo o qual a simples transcrição de ementas não basta para que se configure a divergência jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+IV - Agravo regimental improvido."
+(AgRg no REsp 738.797/RS, Relator o eminente Ministro FRANCISCO FALCÃO, DJ de 03.10.2005)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXAME DE MATÉRIA CONSTITUCIONAL E DE LEI LOCAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ART. 255 DO RISTJ.
+(..)
+IV - Em casos nos quais só a comparação das situações fáticas evidencia o dissídio pretoriano, indispensável que se faça o cotejo analítico entre a decisão reprochada e os paradigmas invocados. A simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+Agravo regimental desprovido."
+(AgRg no REsp 754.475/AL, Relator o eminente Ministro FELIX FISCHER, DJ de 26.09.2005)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
