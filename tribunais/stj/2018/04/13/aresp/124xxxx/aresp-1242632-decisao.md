@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de agravo interno interposto com fulcro no art. 1.021 do Código de Processo Civil contra decisão do Tribunal de Justiça do Estado de Tocantins que negou seguimento ao recurso especial com fundamento no art. 1.042, inciso I, do Código de Processo Civil, em razão de o acórdão recorrido estar em consonância com Tema 5 da Repercussão Geral.
+Conforme preconiza o art. 1.030, § 2.º, do Código de Processo Civil, da decisão que nega seguimento a recurso especial proferida com fundamento na aplicação da sistemática dos recursos repetitivos ou da repercussão geral, em razão de o acórdão recorrido encontrar-se em consonância com o acórdão paradigma proferido pela Corte de Vértice, cabe agravo interno.
+Constato, no caso dos autos, que falece competência ao Superior Tribunal de Justiça para processar e julgar referido recurso, pois o agravo interno tem como destinatário o respectivo órgão colegiado prolator da decisão atacada, a quem compete sua análise, nos termos do caput do art. 1.021 do Código de Processo Civil.
+Ante o exposto, tendo em vista a manifesta incompetência desta Corte Superior para apreciar o recurso, determino a baixa definitiva destes autos ao e. Tribunal a quo para que processe, como melhor entender, o recurso de agravo interno interposto.
+Publique-se. Intimem-se.
