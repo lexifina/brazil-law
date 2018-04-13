@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto por Oi Movel S.A. - Em Recuperacao Judicial, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 168):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. REALIZAÇÃO DE NOVA PENHORA SOBRE O SALDO REMANESCENTE, DEPOIS DE JULGADOS IMPROCEDENTES OS EMBARGOS À EXECUÇÃO POR DECISÃO DEFINITIVA. PROPOSITURA DE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA E NÃO DE NOVOS EMBARGOS À EXECUÇÃO PARA QUESTIONAR O EXCESSO DA REALIZAÇÃO DA SEGUNDA PENHORA. ERRO GROSSEIRO CARACTERIZADO. INADMISSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. RECURSO DESPROVIDO.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 277 do CPC/2015. Sustenta que "a Recorrente não se utilizou de má-fé, bem como a interposição da peça de impugnação ao cumprimento de sentença, não pode ser considerada como erro grosseiro." (fl. 200).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A matéria pertinente ao art. 277 do CPC/2015 não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
