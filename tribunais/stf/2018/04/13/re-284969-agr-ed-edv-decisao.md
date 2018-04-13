@@ -1,0 +1,21 @@
+DECISÃO:
+    1.  Trata-se de embargos de divergência opostos em 17.11.2015 contra acórdão proferido à unanimidade de votos pela Segunda Turma do Supremo Tribunal Federal, sob a relatoria do Ministro Carlos Velloso, assim ementado (fls. 198/207):
+    “CONSTITUCIONAL. COMPETÊNCIA: JUSTIÇA DO TRABALHO. BENEFÍCIO DECORRENTE DE CONTRATO DE TRABALHO.
+    I. – Benefício decorrente de contrato de trabalho. Competência da Justiça do Trabalho.
+    II. – RE provido. Agravos não providos.”
+    2. A Segunda Turma, já sob a relatoria do Ministro Gilmar Mendes, rejeitou os embargos de declaração opostos pela parte ora embargante, e impôs multa de 1% (um por cento), em face da litigância de má-fé (acórdão de fls. 242/245).
+    3. A parte embargante aponta o acórdão da Primeira Turma, proferido no AI 808.322-AgR, Rel. Min. Edson Fachin, como paradigmático da divergência jurisprudencial.
+    4. Os embargos de divergência foram admitidos pelo Ministro Gilmar Mendes (fls. 259).
+    5. A parte adversa, regularmente intimada, apresentou peça em que alega, preliminarmente, ausência de depósito prévio da multa imposta. Quanto ao mérito, pugna pela improcedência do recurso (fls. 265/266).
+    6. A Secretaria Judiciária informa a existência nos autos de guia de Depósito Judicial, de 17.11.2015, Caixa Econômica Federal, no valor de R$ 85,58 (oitenta e cinco reais e cinquenta e oito centavos). Acrescenta, ademais, que “após consulta efetuada pela Seção de Acompanhamento Contábil/CEF, a Caixa Econômica Federal noticiou a existência de Depósito Judicial vinculado ao ‘número único do processo 284.969’, com valor devidamente atualizado e data coincidente com a guia acostada aos autos” (fls. 270/272).
+    7. É o relatório. Decido.
+    8. Tanto a decisão impugnada como o recurso de embargos datam de período anterior a 18.03.2016, quando entrou em vigor o CPC/2015. O recurso preenche os requisitos de admissibilidade exigidos pelo CPC/1973 – aplicável ao caso nos termos dos arts. 14 e 1.046 do novo Código (Lei nº 13.105/2015).
+    9. Os embargos devem ser providos, tendo em vista que o acórdão recorrido está em dissonância com a jurisprudência do Supremo Tribunal Federal. O Plenário desta Corte, em 20.02.2013, sob a sistemática da repercussão geral, decidiu que compete à Justiça comum processar e julgar ação que objetiva a complementação de aposentadoria (RE 586.453, Redator para o Acórdão o Min. Dias Toffoli – Tema 190). Na ocasião, a maioria dos Ministros desta Corte definiu que o § 2º do art. 202 da Constituição Federal autonomizou, expressamente, a previdência complementar relativamente ao contrato de trabalho.
+    10. Em outras palavras, firmou-se o entendimento de que o § 2º do art. 202 da Constituição seria a fonte normativa evidente da existência de dois regimes de previdência: um, o do regime geral, que alcançaria todos os trabalhadores do setor privado; e outro, complementar, de previdência privada, inteiramente dissociado das relações trabalhistas e de tudo que dela decorrer – inclusive em matéria de previdência. Ou seja, o contrato de previdência complementar bastaria em si mesmo, seria um pacto de natureza totalmente distinta, sem nenhuma vinculação com as relações trabalhistas.
+    11. Dessa forma, não há que se falar, na competência da Justiça especializada quando a ação se voltar exclusivamente contra o ex-empregador, uma vez que a definição da competência jurisdicional foi posta, pelo Supremo Tribunal Federal, em razão da natureza autônoma da previdência complementar, ainda que o surgimento do contrato de previdência complementar pressuponha a existência de um vínculo trabalhista subjacente.
+    12. Ademais, nos termos da jurisprudência do STF, o relator possui plena faculdade de prover embargos de divergência, por decisão monocrática, nas hipóteses em que o acórdão embargado divergir da jurisprudência dominante do Tribunal, como ocorre neste caso. Precedentes: RE 560.555-AgR-EDv, Rel. Min. Celso de Mello, e RE 605.288-AgR-EDv, Rel. Min. Dias Toffoli.
+    13. Diante do exposto, nos termos do artigo 335, § 1º, do RI/STF, dou provimento aos embargos de divergência para reformar o acórdão recorrido e negar seguimento ao recurso extraordinário apresentado pelo Estado de São Paulo.
+    Publique-se. Intimem-se.
+          Brasília, 13 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
