@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], contra acórdão assim ementado (fl. 126):
+RESPONSABILIDADE CIVIL. ABERTURA INDEVIDA DE REGISTRO NEGATIVO DE CRÉDITO. DANO MORAL.
+1 A inscrição indevida em cadastro de inadimplente, se inexistentes registros desabonatórios anteriores, como no caso em tela, gera dano moral indenizável, independente de comprovação, porquanto se trata de dano moral in re ipsa.
+2 Consideradas a repercussão do dano e as condições econômicas dos litigantes, impõe-se o arbitramento de indenização por danos morais em montante que indenize satisfatoriamente a parte lesada, sem, contudo, provocar seu locupletamento indevido ou causar onerosidade excessiva à ofensora.
+3 Hipótese em que a indenização fixada na sentença, tendo em vista as peculiaridades do caso, não observou tais critérios, impondo-se, assim, sua majoração.
+APELO PROVIDO EM PARTE.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 402/407).
+Em suas razões, a recorrente alega violação do art. 6º do Código de Defesa do Consumidor, bem como dissídio jurisprudencial, arguindo que os juros e correção monetária devem ter incidência a partir do evento danoso, nos termos da Súmula 54/STJ. Pretende, ainda, seja majorado o valor fixado para a indenização em R$ 10.000,00 (dez mil reais) - fl. 145.
+Passo a decidir.
+Inicialmente, no que se refere à apontada afronta ao art. 6º do Código de Defesa do Consumidor, a recorrente não esclarece, objetiva e especificamente, os motivos de reforma do julgado proferido pela Corte de origem não guardando, o citado dispositivo legal, similitude com o que tratado nas razões do especial. Incidência do enunciado 284 da Súmula do STF.
+No mais, o Tribunal de origem, com base nos fatos e provas dos autos, concluiu que o valor adequado para a indenização era de R$ 10.000,00 (dez mil reais), e a revisão do entendimento adotado demandaria inevitável reexame de matéria fática, procedimento que encontra óbice no verbete 7 da Súmula desta Corte.
+Acrescente-se, em relação ao apontado dissídio jurisprudencial, que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes dos arts. 1029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+No que se refere ao termo inicial da correção monetária, o Tribunal de origem entendeu que esta "deverá incidir desde a data da sentença" (fl. 13).
+A jurisprudência desta Corte orienta-se no sentido de que "a correção monetária do valor da indenização do dano moral incide desde a data do arbitramento" (enunciado 362 da Súmula do STJ).
+No presente caso, apenas para que não se opere a reformatio in pejus, mantenho o decidido no acórdão recorrido.
+Quanto ao posicionamento desta Corte em relação ao termo inicial dos juros de mora, com a reserva de meu ponto de vista em sentido contrário, adoto o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), segundo o qual no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios fluem a partir do evento danoso (Súmula 54 do STJ).
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou parcial provimento ao recurso especial, tão somente para determinar que os juros de mora devem incidir a partir do evento danoso (enunciado 54 da Súmula do STJ).
+Intimem-se.
