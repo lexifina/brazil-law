@@ -1,0 +1,31 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERAL interpõe recurso especial contra acórdão do Tribunal Regional Federal da 4ª Região.
+Consoante registra o Tribunal a quo, [NOME] foi denunciado como incurso no art. 334, caput, do Código Penal.
+O Magistrado de primeiro grau absolveu o acusado, nos termos do art. 386, III, do CPP, com aplicação do princípio da insignificância.
+O Tribunal de origem negou provimento ao apelo da acusação nos termos sintetizados na seguinte ementa (e-STJ fl. 362):
+DIREITO PENAL. DESCAMINHO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. REITERAÇÃO. IRRELEVÂNCIA. DIREITO PENAL DO FATO. ENTENDIMENTO DA 4ª SEÇÃO DESTA CORTE.
+1. Consoante entendimento do Supremo Tribunal Federal - adotado por esta Corte -, aplica-se o princípio da insignificância no crime de descaminho quanto o total dos tributos iludidos (IPI e II), não supera o valor legalmente instituído na esfera administrativa como limite mínimo para fins de execução fiscal que, atualmente, encontra-se no patamar de R$ 20.000,00 (vinte mil reais), conforme a Portaria nº 75/2012 do Ministério da Fazenda.
+2. A 4ª Seção deste Tribunal decidiu que para fins de incidência do princípio da insignificância deve ser levado em conta somente o valor dos tributos, em tese, sonegados, sem qualquer incursão nos aspectos subjetivos do agente, sendo irrelevante a existência de procedimentos administrativos da Receita Federal, inquéritos, ações penais em andamento ou condenações transitadas em julgado.
+3. Nesse quadro, considerando, na espécie, o valor dos impostos sonegados, é caso de reconhecimento do delito de bagatela.
+Nas razões do presente recurso especial, apoiado na alínea "a" do permissivo constitucional, o representante do Parquet alega violação do art. 334 do Código Penal. Sustenta que a reiteração da conduta delitiva impede a aplicação do princípio da insignificância. Destaca que procedimentos administrativos demonstram a habitualidade delitiva.
+Apresentadas as contrarrazões (e-STJ fls. 390/393) e admitido o recurso (e-STJ fl. 396), manifestou-se o Ministério Público Federal pelo provimento do recurso especial em parecer de e-STJ fls. 412/416.
+É o relatório. Decido.
+Consoante a orientação jurisprudencial assente no Superior Tribunal de Justiça, ainda que o valor do tributo seja inferior ao patamar estipulado no art. 20 da Lei n. 10.522/2002, não se aplica o princípio da insignificância para o crime de descaminho, previsto no art. 334 do Código Penal, quando verificada a habitualidade delitiva.
+Insta frisar que, apesar de não configurar reincidência, a existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância.
+A respeito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. ART. 334 DO CP. HABITUALIDADE CRIMINOSA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. PRECEDENTES. INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. ANÁLISE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. DESNECESSIDADE. MATÉRIA DE DIREITO. SÚMULA 7/STJ. NÃO APLICAÇÃO. AGRAVO IMPROVIDO.
+1. A habitualidade na prática do crime do art. 334 do CP denota o elevado grau de reprovabilidade da conduta, obstando a aplicação do princípio da insignificância. Precedentes.
+2. Na hipótese, o recorrente apresenta certidão de antecedentes criminais com registro de 4 ações penais, uma comunicação de prisão em flagrante e uma representação criminal, todas pelo crime de descaminho, por fatos ocorridos em 2005, 2007, 2008, 2011 e 2012, o que demonstra a potencialidade de maior lesão ao bem jurídico tutelado, relevante ao ordenamento jurídico.
+3. A análise acerca da possibilidade da aplicação do princípio da insignificância ao crime de descaminho não implica o revolvimento do conjunto fático-probatório dos autos, porque matéria estritamente de direito, não havendo falar em incidência da Súmula 7/STJ.
+4. Agravo regimental improvido (AgRg no REsp 1540268/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/11/2015, DJe 19/11/2015).
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. EXISTÊNCIA DE OUTROS DOIS PROCEDIMENTOS FISCAIS, EM RAZÃO DA PRÁTICA DA MESMA CONDUTA. REITERAÇÃO. REDUZIDO GRAU DE REPROVABILIDADE DA CONDUTA. INEXISTÊNCIA. DECISÃO QUE DEVE SER MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que mantém a ação penal instaurada contra o recorrente, em razão da prática do crime de descaminho, quando não evidenciado o reduzido grau de reprovabilidade do comportamento, tendo em vista a habitualidade criminosa do réu, comprovada por outros procedimentos fiscais.
+2. Agravo regimental improvido (AgRg no RHC 50.696/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 30/6/2015, DJe 4/8/2015).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. HABITUALIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE.
+I - Não é possível a aplicação do princípio da insignificância ao crime de descaminho quando a existência de informações acerca da existência de outros procedimentos administrativos fiscais indica elevado grau de reprovabilidade do comportamento do acusado e maior potencial de lesividade ao bem jurídico tutelado (precedentes).
+II - Em sede de recurso especial, é inviável qualquer discussão a respeito de violação de dispositivos constitucionais.
+Agravo regimental desprovido (AgRg no REsp 1636137/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/03/2017, DJe 29/03/2017).
+No caso em apreço, o Tribunal de origem entendeu "que para fins de incidência do princípio da insignificância deve ser levado em conta somente o valor dos tributos, em tese, sonegados, sem qualquer consideração a respeito dos aspectos subjetivos do agente, tais como habitualidade, reiteração, dentre outros" (e-STJ fl. 358).
+Assim sendo, o aresto recorrido destoou do entendimento jurisprudencial desta Corte sobre o tema, sendo de rigor a sua reforma.
+Ante o exposto, dou provimento ao recurso especial para afastar a aplicação, de plano, do princípio da insignificância e determinar o retorno dos autos ao Tribunal de origem para que retome o julgamento da apelação.
+Publique-se. Intimem-se.
