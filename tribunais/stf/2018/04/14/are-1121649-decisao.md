@@ -1,0 +1,14 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+    “REMESSA NECESSÁRIA E APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. DIREITO À ACESSIBILIDADE DE PORTADORES DE DEFICIÊNCIA OU COM MOBILIDADE REDUZIDA EM ESCOLA PÚBLICA. I – PRELIMINAR DE CARÊNCIA DA AÇÃO POR FALTA DE INTERESSE PROCESSUAL, ARGUIDA PELO APELANTE. TRANSFERÊNCIA PARA O MÉRITO. II – MÉRITO. OBRIGAÇÃO DE ADAPTAR ESTABELECIMENTO PÚBLICO DE ENSINO ÀS NORMAS TÉCNICAS DE ACESSIBILIDADE. NECESSIDADE DE GARANTIR O ACESSO DIANTE DA OMISSÃO ESTATAL. AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA SEPARAÇÃO DOS PODERES E DA LEGALIDADE ORÇAMENTÁRIA. PRECEDENTES DESTA CORTE DE JUSTIÇA. CONHECIMENTO E DESPROVIMENTO DO APELO E DA REMESSA NECESSÁRIA.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 2º; 37; 100 e 165 da Constituição.
+    O recurso é inadmissível, tendo em vista que o acórdão recorrido está alinhado com a jurisprudência desta Corte. Nessa linha, vejam-se os AREs 807.717 e 1.063.770, ambos de minha relatoria; o RE 410.715-AgR, Rel. Min. Celso de Mello; o RE 440.028, Rel. Min. Marco Aurélio; e o AI 700.543-AgR, Relª. Minª. Cármen Lúcia.
+    Ademais, para dissentir da conclusão do Tribunal de origem, seriam necessárias a análise da legislação infraconstitucional pertinente e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF. Sobre essa temática, veja-se a ementa do ARE 761.127-AgR, de minha relatoria:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS. DETERIORAÇÃO DAS INSTALAÇÕES DE INSTITUIÇÃO PÚBLICA DE ENSINO. CONSTRUÇÃO DE NOVA ESCOLA. POSSIBILIDADE. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. GARANTIA DO DIREITO À EDUCAÇÃO BÁSICA. PRECEDENTES.
+    As duas Turmas do Supremo Tribunal Federal possuem entendimento de que é possível ao Judiciário, em situações excepcionais, determinar ao Poder Executivo a implementação de políticas públicas para garantir direitos constitucionalmente assegurados, a exemplo do direito ao acesso à educação básica, sem que isso implique ofensa ao princípio da separação dos Poderes. Precedentes.
+    Agravo regimental a que se nega provimento.”
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (arts. 17 e 18 da Lei nº 7.347/1985).
+    Publique-se.
+          Brasília, 14 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
