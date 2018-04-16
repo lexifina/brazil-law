@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DE GOIÁS. CADASTRO DE RESERVA. CONVOCAÇÃO E NOMEAÇÃO. ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO.
+1. Na forma da jurisprudência do STJ, "em se tratando de impetração contra ato omissivo, deve ser considerada autoridade coatora aquela que deveria ter praticado o ato buscado ou da qual deveria emanar a ordem para a sua prática (Lei n. 12.016/2009, artigo 6º, § 3º)" (MS 22.140/DF, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 19/5/2017).
+2. Nos termos do art. 37, XII, da Constituição do Estado de Goiás, o Governador do Estado de Goiás é a autoridade responsável pela nomeação dos candidatos aprovados no concurso público da Polícia Militar daquele Estado.
+3. Inexistindo delegação de poderes, em favor do Secretário de Estado de Planejamento, para a convocação ou nomeação, referida autoridade não possui legitimidade para figurar no polo passivo do mandado de segurança. Precedente: AgInt no RMS 52.334/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/5/2017; AgInt no RMS 53.615/GO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 5/12/2017.
+4. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 342):
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DE GOIÁS. CADASTRO DE RESERVA. CONVOCAÇÃO. ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO. INCOMPETÊNCIA PARA A PRÁTICA DO ATO DE NOMEAÇÃO. PRECEDENTE. RECURSO IMPROVIDO.
+A agravante sustenta que procedeu a correta indicação da autoridade coatora, pois o Governador do Estado de Goiás, por meio do Decreto de 12 de novembro de 2015, delegou ao Secretário de Estado de Gestão e Planejamento os poderes referentes a nomeação e convocação dos aprovados no cadastro de reserva do concurso da PMGO.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DE GOIÁS. CADASTRO DE RESERVA. CONVOCAÇÃO E NOMEAÇÃO. ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO.
+1. Na forma da jurisprudência do STJ, "em se tratando de impetração contra ato omissivo, deve ser considerada autoridade coatora aquela que deveria ter praticado o ato buscado ou da qual deveria emanar a ordem para a sua prática (Lei n. 12.016/2009, artigo 6º, § 3º)" (MS 22.140/DF, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 19/5/2017).
+2. Nos termos do art. 37, XII, da Constituição do Estado de Goiás, o Governador do Estado de Goiás é a autoridade responsável pela nomeação dos candidatos aprovados no concurso público da Polícia Militar daquele Estado.
+3. Inexistindo delegação de poderes, em favor do Secretário de Estado de Planejamento, para a convocação ou nomeação, referida autoridade não possui legitimidade para figurar no polo passivo do mandado de segurança. Precedente: AgInt no RMS 52.334/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/5/2017; AgInt no RMS 53.615/GO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 5/12/2017.
+4. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na forma da jurisprudência desta Corte, "em se tratando de impetração contra ato omissivo, deve ser considerada autoridade coatora aquela que deveria ter praticado o ato buscado ou da qual deveria emanar a ordem para a sua prática (Lei n. 12.016/2009, artigo 6º, § 3º)" (MS 22.140/DF, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 19/5/2017).
+Segundo disciplina o art. 37, XII, da Constituição do Estado de Goiás, "Compete privativamente ao Governador do Estado:  ..  XII - prover e extinguir os cargos públicos estaduais, na forma da lei".
+Por sua vez, ao contrário do que afirma a parte agravante, verifica-se que no item II do Decreto de 12/11/2015, após realizar a nomeação dos candidatos relacionados no Anexo Único desse decreto, limitou-se o Governador do Estado de Goiás a delegar, em favor do Secretário de Estado de Gestão e Planejamento, "competência para proceder, mediante portaria, a correção de erros matérias pertinentes a classificações, nomes, cargos e CPF do pessoa constante do referido Anexo" (fl. 127-STJ).
+Assim, inexiste no mencionado decreto qualquer delegação de poderes no que concerne à possibilidade de ulteriores nomeações serem realizadas pelo referido Secretário de Estado, apontado como autoridade coatora.
+Da mesma forma, inexiste no art. 7º, I, h, da Lei Estadual 17.257/2011 a referida delegação, uma vez que este apenas elenca, dentre as atribuições da Secretaria de Estado de Gestão e Planejamento, poderes para a "realização de concursos públicos e outros processos seletivos, em caráter exclusivo, para os órgãos e as entidades do Poder Executivo, com as exceções desta Lei, e facultativo para os demais poderes, órgãos, entidades, esferas de Governo ou instituições públicas ou privadas".
+Assim, nenhum reparo há de ser feito ao acórdão recorrido que, outrossim, deu à controvérsia solução que encontra-se em harmonia com a jurisprudência desta Corte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONCURSO PÚBLICO. POLÍCIA MILITAR DO ESTADO DE GOIÁS. CADASTRO DE RESERVA. CONVOCAÇÃO. ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO. INCOMPETÊNCIA PARA A PRÁTICA DO ATO DE NOMEAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015 ao julgamento deste Agravo Interno.
+II - O Superior Tribunal de Justiça tem entendimento consolidado segundo o qual a autoridade coatora que detém legitimidade para figurar no polo passivo de ação mandamental é aquela que tenha praticado o ato impugnado, consoante o disposto na Lei n. 12.016/2009.
+III - No caso, depreende-se das informações constantes dos autos, que o Governador do Estado de Goiás é a autoridade responsável pela nomeação dos candidatos aprovados no concurso público da Polícia Militar daquele Estado, não tendo havido delegação de poderes ao Secretário de Estado de Planejamento para a convocação ou nomeação.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido (AgInt no RMS 52.334/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/5/2017).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. POLÍCIA MILITAR DO ESTADO DE GOIÁS. CADASTRO DE RESERVA. CONVOCAÇÃO E NOMEAÇÃO. ILEGITIMIDADE PASSIVA DO SECRETÁRIO DE ESTADO DE GESTÃO E PLANEJAMENTO.
+1. Na forma da jurisprudência do STJ, "em se tratando de impetração contra ato omissivo, deve ser considerada autoridade coatora aquela que deveria ter praticado o ato buscado ou da qual deveria emanar a ordem para a sua prática (Lei n. 12.016/2009, artigo 6º, § 3º)" (MS 22.140/DF, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 19/5/2017).
+2. Nos termos do art. 37, XII, da Constituição do Estado de Goiás, o Governador do Estado de Goiás é a autoridade responsável pela nomeação dos candidatos aprovados no concurso público da Polícia Militar daquele Estado.
+3. Inexistindo delegação de poderes, em favor do Secretário de Estado de Planejamento, para a convocação ou nomeação, referida autoridade não possui legitimidade para figurar no polo passivo do mandado de segurança. Precedente: AgInt no RMS 52.334/GO, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/5/2017.
+4. Agravo interno não provido (AgInt no RMS 53.615/GO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 5/12/2017).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
