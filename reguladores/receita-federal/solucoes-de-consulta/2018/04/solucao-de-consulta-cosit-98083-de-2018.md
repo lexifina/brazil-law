@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98083, de 2 de abril de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8443.99.33 Mercadoria: Cartucho de toner para impressão a laser, constituído por recipiente plástico com formato próprio para encaixe na máquina, de configuração retangular, repleto de pó de toner ciano em seu interior. DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 2 “b” da Seção XVI e texto da posição 84.43), RGI/SH 6 (textos das subposições 8443.9 e 8443.99) e RGC/NCM 1 (textos do item 8443.99.3 e subitem8443.99.33), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.083-2018 .pdf]
