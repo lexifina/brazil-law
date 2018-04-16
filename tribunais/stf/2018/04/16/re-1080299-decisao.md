@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 01, p. 258):
+    RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME DE RESPONSABILIDADE DE PREFEITO. AUSÊNCIA DE DECISÃO DE RECEBIMENTO DA DENÚNCIA. ACÓRDÃO QUE REFORMA A SENTENÇA QUE ABSOLVEU SUMARIAMENTE O RÉU. PRONUNCIAMENTO JUDICIAL QUE DEVE SER CONSIDERADO COMO O QUE ACOLHEU A INICIAL. ENUNCIADO 709 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. MÁCULA NÃO CARACTERIZADA.
+    1. Nos termos do enunciado 709 da Súmula do Pretório Excelso, "salvo quando nula a decisão de primeiro grau, o acórdão que provê o recurso contra a rejeição da denúncia vale, desde logo, pelo recebimento dela", razão pela qual o aresto que reformou a sentença que absolveu sumariamente o réu e determinou o prosseguimento do feito deve ser considerado como a decisão por meio da qual a inicial foi acolhida.
+    2. O Superior Tribunal de Justiça e o Supremo Tribunal Federal possuem o entendimento de que é possível presumir o recebimento implícito da exordial acusatória quando o Juiz designa data para audiência de instrução e julgamento, isto é, quando pratica atos no sentido do prosseguimento da ação penal deflagrada.
+    2. No caso dos autos, conquanto não tenha afirmado expressamente que a denúncia havia sido recebida, o togado singular agendou audiência de instrução e julgamento, o que revela que, ainda que tacitamente, acolheu a vestibular apresentada pelo órgão ministerial, o que reforça a inexistência de mácula apta a contaminar a ação penal,
+    FALTA DE FUNDAMENTAÇÃO DA DECISÃO QUE RECEBEU A DENÚNCIA. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+    A aventada necessidade de motivação do despacho que recebe a exordial acusatória não foi alvo de deliberação pela Corte Estadual no aresto impugnado, o que impede qualquer manifestação deste Sodalício sobre o tópico, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+    PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. ACEITAÇÃO DO BENEFÍCIO DA SUSPENSÃO CONDICIONAL DO PROCESSO. PERDA DO OBJETO. PREJUDICIALIDADE DO RECLAMO NO PONTO.
+    1. A superveniência da aceitação do benefício previsto no artigo 89 da Lei 9.099/1995 em ação penal em que se pretende a extinção da punibilidade do acusado pela prescrição enseja a perda do objeto do reclamo no ponto, pois, de acordo com o §6º do mencionado dispositivo legal, "não correrá a prescrição durante o prazo de suspensão do processo". Precedente.
+    2. Recurso parcialmente conhecido, e, nessa extensão, desprovido.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 5º, LIV e LV, da CF. Alega-se que: a) “a supressão do juízo de admissibilidade da denúncia, tal como se o procedimento fosse monofásico, implicou nulidade do feito e permitiu o fluxo da prescrição”; b) o acórdão recorrido, ao deixar de reconhecer a prescrição punitiva estatal, violou o devido processo legal e o direito à ampla defesa.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já assentou que não há repercussão geral (Tema 660) quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório é debatida sob a ótica infraconstitucional, uma vez que configura ofensa indireta ou reflexa à Constituição Federal, o que torna inadmissível o recurso extraordinário (ARE-RG 748.371, Rel. Min. Gilmar Mendes, DJe 1º.08.2013).
+    Ante o exposto, em vista da manifestação do Supremo Tribunal Federal acerca da matéria suscitada neste recurso extraordinário, determino a remessa dos autos ao STJ para adequação à sistemática da repercussão geral, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 16 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
