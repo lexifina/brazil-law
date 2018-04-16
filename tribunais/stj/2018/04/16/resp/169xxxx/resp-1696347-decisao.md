@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. DISTINÇÃO (DISTINGUISHING). RECURSO REPETITIVO E HIPÓTESE DOS AUTOS. OCORRÊNCIA. TAXAS DE MANUTENÇÃO. ADMINISTRADORA DE LOTEAMENTO URBANO. CONTRATO-PADRÃO LEVADO A REGISTRO EM CARTÓRIO.
+1. Julgamento sob a égide do CPC/15.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4.A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema
+5. Inaplicabilidade do precedente firmado em sede de recurso especial repetitivo (REsp 1.280.871/SP, 2ª Seção, DJe 22/05/2015), por meio da aplicação da técnica da distinção (distinguishing).
+6. É viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente. Súmula 568/STJ.
+7. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por ADMINISTRADORA JARDIM ACAPULCO LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 25/08/2016.
+Conclusão ao Gabinete em: 19/09/2017.
+Ação: de cobrança, ajuizada pela recorrente, em face de [NOME] (recorrido) e [NOME], devido à falta de pagamento de taxa de manutenção de loteamento, no importe de R$ 46.401,37, referente aos períodos de 03/02/2004 a 03/08/2004 e de 03/10/2004 até 03/02/2008, bem como as que vencerem no curso da presente demanda, acrescidas de multa, juros e correção monetária.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar o recorrido ao pagamento dos valores indicados na petição inicial, aos quais se somam as parcelas vencidas no decorrer do trâmite do processo até a liquidação do débito, corrigidos monetariamente de acordo com a Tabela Prática de Atualização de Débitos Judiciais do TJ/SP, a partir dos respectivos vencimentos, bem como juros de mora a partir da citação, ficando afastada a aplicação de multa.
+Acórdão: negou provimento à apelação interposta pelo recorrido, nos termos da seguinte ementa:
+Loteamento. Cobrança de taxa de manutenção. Sentença de procedência. Inconformismo.
+Preliminar. Ilegitimidade ativa. Inocorrência. A pertinência subjetiva das partes em relação ao objeto litigioso decorre dos serviços prestados pela autora no loteamento em que se localiza o imóvel dos réus, bem como da obrigação assumida contratualmente.
+Mérito. Cobrança de taxa de manutenção. Despesas de interesse comum. Serviços prestados e usufruídos por todos os moradores e/ou proprietários. Obrigação de pagar decorrente de cláusula contratual. Contribuições devidas.
+Sentença mantida. Recurso improvido. (e-STJ, fl. 831)
+Acórdão proferido após julgamento no STJ de recurso repetitivo representativo da controvérsia REsp 1.280.871/SP (Tema 882) : deu provimento à apelação interposta pelo recorrido, para julgar improcedente a ação, sob o fundamento de que as taxas de manutenção criadas por associações de moradores não obrigam os não associados ou que a elas não anuíram. Nesse sentir, é a ementa do julgado:
+APELAÇÃO - Ação de cobrança julgada parcialmente procedente - Associação de moradores de loteamento fechado - Taxa de contribuição associativa - Reexame da matéria - Art. 543, § 71, II do CPC - Adequação a entendimento consolidado no STJ - Impossibilidade de cobrança de taxa de não associado ou de quem a ela não anuiu - Ação improcedente. Provido o apelo dos réus. (e-STJ, fl. 984).
+Embargos de declaração: interpostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 354, 489, §1º, III, 1.013, §3º, e 1.022, todos do CPC/15; 26 e 29, ambos da Lei 6.766/79; 884, 885 e 886, todos do CC/02, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que é devido o pagamento da taxa de manutenção prevista em cláusula contratual e que os recorridos se locupletaram ilicitamente pela utilização dos serviços prestados pela recorrente sem a devida contraprestação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do não pagamento das taxas de manutenção, de maneira que os embargos de declaração opostos pela recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+- Da fundamentação deficiente
+Os argumentos invocados pela recorrente não demonstram como o acórdão recorrido violou o art. 1.013, §3º, do CPC/15. Aplica-se, portanto, a Súmula 284/STF.
+- Da distinção entre a hipótese dos autos e a situação submetida a julgamento no âmbito do recurso repetitivo (REsp 1.280.871/SP - Tema 882)
+ Inicialmente, cabe frisar que a aplicação de um precedente judicial - na hipótese dos autos o recurso repetitivo REsp 1.280.871/SP (Tema 882) - apenas pode ocorrer após a aplicação da técnica da distinção (distinguishing), a qual se refere a um método de comparação entre a hipótese em julgamento e o precedente que se deseja a ela aplicar.
+A aplicação de tese firmada em sede de recurso repetitivo a uma outra hipótese não é automática, devendo ser fruto de uma leitura dos contornos fáticos e jurídicos das situações em comparação pela qual se verifica se a hipótese em julgamento é análoga ou não ao paradigma. Dessa forma, para aplicação de um precedente, é imperioso que exista similitude fática e jurídica entre a situação em análise com o precedente que visa aplicar.
+A jurisprudência deste STJ aplica a técnica da distinção (distinguishing), a fim de reputar se determinada situação é análoga ou não a determinado precedente. Nesse sentido: RE nos EDcl nos EDcl no REsp 1.504.753/AL (3ª Turma, DJe 29/09/2017), REsp 1.414.391/DF (3ª Turma, DJe 17/05/2016) e AgInt no RE no AgRg nos EREsp 1.039.364/ES (Corte Especial, DJe 06/02/2018).
+Necessário salientar que a hipótese dos autos refere-se à ação cobrança ajuizada por sociedade empresária limitada prestadora de serviços de administração de loteamento, cuja causa de pedir está fundada no descumprimento de obrigação contratual existente entre as partes.
+Por outro lado, a situação submetida a julgamento no bojo do recurso repetitivo REsp 1.280.871/SP (Tema 882) reporta-se à ação de cobrança ajuizada por associação de moradores, cuja causa de pedir encontra-se fundamentada em estatuto de associação civil e no princípio da vedação do enriquecimento sem causa.
+Nota-se, portanto, a existência de distinção entre as situações descritas, o que impede a aplicação do recurso repetitivo mencionado na hipótese dos autos.
+- Da viabilidade da cobrança de taxas de manutenção pela administradora de loteamento (Súmula 568/STJ)
+O acórdão recorrido, ao concluir pela impossibilidade de se imputar a obrigação de pagamento das taxas de manutenção ao recorrido, divergiu da jurisprudência do STJ quanto ao tema, firmada no sentido de que é viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em contrato-padrão levado a registro no respectivo cartório ao qual aderiu o adquirente (AgInt no REsp 1.349.713/SP, 4ª Turma, DJe de 29/6/2017; e REsp 1.422.859/SP, 3ª Turma, DJe de 26/11/2015).
+Além disso, o entendimento deste STJ é no sentido de que as restrições e obrigações constantes no contrato-padrão, depositado em cartório como condição para o registro do projeto de loteamento, incorporam-se ao registro e vinculam os posteriores adquirentes, porquanto dotadas de publicidade inerente aos registros públicos.
+Logo, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, com fundamento no art. 932, III, IV, "a", e V, "a", do CPC/2015, bem como na Súmula 568/STJ, DOU-LHE PARCIAL PROVIMENTO, para restabelecer os efeitos da sentença proferida nos autos.
+Publique-se. Intimem-se.
