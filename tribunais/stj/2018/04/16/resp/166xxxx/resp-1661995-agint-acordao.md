@@ -1,0 +1,25 @@
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ACUMULAÇÃO ENTRE AUXÍLIO-ACIDENTE E APOSENTADORIA. LESÃO QUE DEU ORIGEM AO BENEFÍCIO ACIDENTÁRIO E CONCESSÃO DA APOSENTADORIA DEVEM SER ANTERIORES À PUBLICAÇÃO DA MP N. 1.596-14/1997 (11/11/1997). ENTENDIMENTO ASSENTADO NO RESP N. 1.296.673/MG, SUBMETIDO AO RITO DO ART. 543-C DO CPC/1973.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.296.673/MG, submetido ao rito do art. 543-C do CPC/1973, definiu que: " a  acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991, promovida em 11/11/1997 pela Medida Provisória 1.596-14/1997, que posteriormente foi convertida na Lei 9.528/1997".
+2. No caso dos autos, a recorrente começou a perceber o auxílio-acidente a partir de 29/12/1993 e a aposentadoria ocorreu em 6/7/2001 (fl. 127); ou seja, a aposentadoria somente veio a ser concedida posteriormente à edição da Lei n. 9.528/1997, o que denota a impossibilidade de o segurado perceber concomitantemente os dois benefícios.
+3. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO BENEDITO GONÇALVES- Relator: Trata-se de agravo interno interposto contra decisão da Presidência desta Corte que deu provimento ao recurso especial interposto pelo INSS para julgar improcedente a pretensão autoral, tendo em vista o decidido no REsp 1.296.673/MG, julgado sob o rito dos recursos repetitivos.
+A agravante alega, em síntese, que a lesão incapacitante eclodiu anteriormente à entrada em vigor da Lei n. 9.528/97, com auxílio-acidente concedido em 27/07/95, e que por isso sua cumulação com a aposentadoria, concedida em 06/07/01, portanto, se trata de situação diversa a tratada no repetitivo em questão, e que a decisão agravada não observou a ocorrência de decadência já que se passaram mais de 10 anos da concessão do ultimo benefício deferido. (fl. 227)
+Sem impugnação.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ACUMULAÇÃO ENTRE AUXÍLIO-ACIDENTE E APOSENTADORIA. LESÃO QUE DEU ORIGEM AO BENEFÍCIO ACIDENTÁRIO E CONCESSÃO DA APOSENTADORIA DEVEM SER ANTERIORES À PUBLICAÇÃO DA MP N. 1.596-14/1997 (11/11/1997). ENTENDIMENTO ASSENTADO NO RESP N. 1.296.673/MG, SUBMETIDO AO RITO DO ART. 543-C DO CPC/1973.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.296.673/MG, submetido ao rito do art. 543-C do CPC/1973, definiu que: " a  acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991, promovida em 11/11/1997 pela Medida Provisória 1.596-14/1997, que posteriormente foi convertida na Lei 9.528/1997".
+2. No caso dos autos, a recorrente começou a perceber o auxílio-acidente a partir de 29/12/1993 e a aposentadoria ocorreu em 6/7/2001 (fl. 127); ou seja, a aposentadoria somente veio a ser concedida posteriormente à edição da Lei n. 9.528/1997, o que denota a impossibilidade de o segurado perceber concomitantemente os dois benefícios.
+3. Agravo interno não provido.
+
+VOTO
+Exmo. Sr. MINISTRO BENEDITO GONÇALVES - Relator: A decisão agravada não enseja reforma, uma vez que respaldada no entendimento assentado no julgamento do REsp n. 1.296.673/MG, submetido ao rito do art. 543-C do CPC/1973, que firmou o entendimento de que "a acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, apta a gerar o direito ao auxílio-acidente, e a concessão da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991, promovida em 11/11/1997 pela Medida Provisória 1.596-14/1997, posteriormente convertida na Lei 9.528/1997".
+No caso em análise, restou consignado no acórdão recorrido que a recorrente passou a perceber auxilio-acidente em 29/12/1993, e a aposentadoria ocorreu em 06/07/2001 (fl. 127). Verifica-se, pois, que se amolda à hipótese descrita acima, razão pela qual não se permite a cumulação dos benefícios de auxílio-acidente e aposentadoria.
+Como visto, insurge-se a recorrente contra decisão que deu provimento ao apelo nobre do INSS aplicando entendimento firmado em recurso especial submetido à sistemática do art. 543-C do CPC/73 (REsp n.1.296.673/MG), o que revela a manifesta improcedência do presente agravo interno.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
