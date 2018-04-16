@@ -1,0 +1,59 @@
+DECISÃO
+[NOME] opôs os presentes embargos de declaração à decisão pela qual indeferi liminarmente o habeas corpus, nos seguintes termos (e-STJ fls. 14/17):
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] D" [NOME] LIMA, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, no HC n. 1012848-41.2017.4.01.0000, indeferiu o pedido de liminar.
+Consta dos autos que a ora paciente foi presa em flagrante, acusada de manter em depósito, ao que parece, no interior de sua residência, ""duas porções, graúdas, de maconha, além de quase duas centenas de porções da mesma droga, bem como 16 porções de cocaína. [NOME] é ainda acusada de manter sob sua guarda munições, de uso permitido, sem autorização e em desacordo com determinação legal e regulamentar" (e-STJ fl. 6).
+O pedido de conversão da prisão decretada por domiciliar foi indeferido (e-STJ fls. 6/7).
+Inconformada, a defesa impetrou writ. Contudo o pleito liminar foi indeferido pelo Tribunal a quo (e-STJ fls. 8/10).
+Na presente impetração, afirma-se que "a justificativa para manutenção da prisão preventiva da Paciente não deve subsistir e isso porque ela possui quatro filhos menores [NOME]". L. (nascido em 30/09/2004), Y. D". [NOME] (nascido em 09/02/2007), [NOME]". de S. (nascido em 21/09/2013) e [NOME]". de S. (nascido em 03/10/2014), e dependentes de seus pais, além de estar grávida do quinto filho" (e-STJ fl. 3).
+Sustenta-se, ainda, que, "diante do HC coletivo n. 143.641, concedido pelo STF e do disposto no artigo 318, IV, do Código de Processo Penal, além da gravidez de risco da Paciente por não ter tomado todas as vacinas, a decisão que indeferiu a conversão da prisão preventiva em prisão domiciliar tornou-se uma coação ilegal, motivo pelo qual o presente Habeas Corpus deve ser concedido a fim de tornar válido o HC Coletivo concedido pelo Supremo Tribunal Federal e afastar a coação ilegal que prejudica a boa formação do feto no útero da mãe" (e-STJ fl. 4).
+Requer-se, inclusive liminarmente, a substituição da prisão preventiva pela prisão domiciliar.
+É, em síntese, o relatório.
+Não obstante as razões constantes da petição inicial, o impetrante trouxe aos autos apenas a decisão que negou a conversão da prisão preventiva em domiciliar (e-STJ fls. 6/7), deixando de juntar aos autos cópia da decisão que decretou a prisão preventiva, documento esse imprescindível para análise do presente writ.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 23/4/2015, grifei.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/3/2015, grifei.)
+Ainda que assim não fosse, é de se ver que o Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus ante decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do STF), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.  ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais profunda pelo Tribunal estadual, que deverá apreciar a argumentação da impetração e as provas juntadas ao habeas corpus no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+A defesa alega que a decisão é "ambígua porque as instâncias inferiores já firmaram o seu entendimento no momento em que negaram o pedido da conversão da prisão preventiva em prisão domiciliar" (e-STJ fl. 23).
+Afirma que " o Código de Processo Civil que foi instituído através da Lei 13.105/15, o qual possui aplicabilidade análoga ao Processo Penal, tem como princípio a aplicação das Regras Processuais e Procedimentais para busca do direito e não para aplicabilidade do processo por si só" (e-STJ fl. 24).
+Nesta esteira, destaca que "o argumento de que está ausente peça essencial para análise do pedido de Habeas Corpus não deve subsistir porque trata-se de processo digital, e todas a peças necessárias encontram- se disponíveis no processo de origem" (e-STJ fl. 24).
+Sustenta, ademais, que "o fundamento de que Súmula 691 do STF impossibilita a análise do HC impetrado contra decisão liminar de HC também não subsiste porque trata-se de uma regra procedimental, impondo ao cidadão a negativa do seu direito de ação (art. 5º, XXXIV, a, da CF) e ao Poder Judiciário excluir de sua apreciação lesão ou ameaça ao direito da Paciente (art. 5º, XXXV, da CF)" - e-STJ fl. 24.
+Postula, assim, o acolhimento do presente recurso a fim de que seja sanada a ambiguidade apontada e, ao final, conferidos efeitos modificativos ao julgado, para concessão da medida liminar, com o reconhecimento do direito da embargante à prisão domiciliar.
+É, em síntese, o relatório. Decido.
+Conforme o art. 619 do Código de Processo Penal, são cabíveis embargos de declaração com o fito de sanar ambiguidade, obscuridade, contradição ou omissão porventura existentes no decisum impugnado.
+Contudo, na espécie, não se vislumbra a ambiguidade apontada.
+Com efeito, como salientado na deliberação monocrática, a questão apresentada no habeas corpus não pode ser analisada pelo Superior Tribunal de Justiça, tendo em vista que a irresignação do paciente ainda não foi apreciada pelo colegiado do Tribunal de origem, bem como porque mostra-se deficientemente instruída a impetração, não tendo sido juntada a cópia da decisão que decretou a prisão preventiva.
+Além disso, consoante anteriormente consignado, não se vislumbra, no caso, as excepcionais hipóteses de superação do entendimento firmado na Súmula n. 691 do Pretório Excelso.
+Assim, como se vê, não há que se falar em ambiguidade no julgado. Percebe-se que há uma insatisfação da parte com a decisão contrária aos seus interesses e a pretensão de modificá-la por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Por fim, cumpre salientar que esta Corte Superior é firme na compreensão de que são inadmissíveis os embargos de declaração que visem ao prequestionamento de matéria constitucional, sob pena de usurpação da competência conferida ao Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS NO JULGADO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE.
+1. Os embargos de declaração somente são cabíveis quando presente, ao menos, uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na espécie, busca a parte embargante o prequestionamento de dispositivos da Constituição Federal.
+3. Encontra-se pacificado o entendimento de que não são cabíveis embargos de declaração para que o Superior Tribunal de Justiça enfrente matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.  ..
+(EDcl no AgRg nos EDcl no AgRg nos EDcl no AREsp 649.137/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2016, DJe 29/03/2016)
+RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO.  ..  OBJETIVO DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.  ..
+1. É firme entendimento jurisprudencial de que não cabe a esta Corte se manifestar, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.  ..
+(EDcl no REsp 1484415/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/03/2016, DJe 14/04/2016).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
