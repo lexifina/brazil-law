@@ -1,0 +1,16 @@
+EMENTA
+HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. NULIDADE. AUDIÊNCIA REALIZADA POR VIDEOCONFERÊNCIA. INSTRUÇÃO DEFICIENTE. FALTA DE DEMONSTRAÇÃO DO PREJUÍZO. PENA INFERIOR A 4 ANOS. REGIME FECHADO. LEGALIDADE. RÉU REINCIDENTE E COM MAUS ANTECEDENTES. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+DECISÃO
+[NOME] foi condenado ao cumprimento da pena privativa de liberdade de 9 meses e 10 dias de reclusão, em regime inicial fechado, bem como ao pagamento de 3 dias-multa, no piso legal, ante a incidência do art. 155, § 1º, I, c/c o art. 14, II, ambos do Código Penal (Processo n. 0020681-16.2014.8.26.0320, da 2ª Vara Criminal da comarca de Limeira/SP).
+Diante da rejeição da preliminar suscitada na apelação da defesa e do improvimento do recurso pelo Tribunal de Justiça de São Paulo, sobreveio o presente writ, no qual se objetiva a reanálise apenas da nulidade dos atos realizados por videoconferência e do regime inicial de cumprimento de pena fixado.
+É o relatório.
+Na espécie, inexiste manifesto constrangimento ilegal a ser reparado pela via eleita.
+O Tribunal local, ao afastar a alegação de nulidade ante a realização da audiência de instrução por meio de vídeoconferência, expôs que o réu pôde apresentar sua versão dos fatos e se defender daqueles que lhe foram imputados, bem como, pôde escutar e visualizar o i. magistrado a quo e os demais presentes na sala de audiência, não havendo o que se falar em cerceamento de defesa ou em qualquer outro tipo de prejuízo (fl. 22).
+E aqui há a compreensão de que, sendo causa de nulidade relativa, a realização de audiência por videoconferência, por si só, não configura inobservância do devido processo legal e seus consectários (HC n. 365.096/SP, Ministro Felix Fischer, Quinta Turma, DJe 10/2/2017). E em homenagem ao art. 563 do CPP, não se declara a nulidade do ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte (HC n. 264.030/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/2/2017).
+No caso, não há elementos pré-constituídos suficientes para analisar se o tema da nulidade foi suscitado no momento da audiência. Afora isso, a defesa não indicou, no writ, o prejuízo concreto suportado pelo paciente.
+Quanto ao regime, pelo que consta do acórdão impugnado, a Corte estadual decidiu de acordo com o entendimento pacífico do Superior Tribunal de Justiça.
+Disse o acórdão, em relação ao pedido de fixação de regime diverso do fechado,  ..  ser de rigor a manutenção deste, uma vez que embora a pena do réu não se mostre elevada, o mesmo ostenta maus antecedentes e é reincidente, fator este que pede um maior rigor e uma maior repressão em sua conduta, sendo certo que o regime fechado é o único que se mostra apto para atingir a função preventiva da pena, de inibir a prática de novas ações delituosas, nos termos do art. 33, § 3o, do CP (fl. 26).
+Sobre o assunto, confiram-se, por exemplo, estes precedentes: HC n. 422.519/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/2/2018; e AgRg no HC n. 425.901/MS, de minha relatoria, Sexta Turma, DJe 19/2/2018.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
