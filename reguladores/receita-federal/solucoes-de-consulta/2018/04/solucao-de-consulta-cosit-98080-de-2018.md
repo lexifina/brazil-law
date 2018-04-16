@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98080, de 2 de abril de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 8310.00.00 Mercadoria: Placa metálica de grande dimensão confeccionada em chapa galvanizada na qual é feita a aplicação de adesivo impresso contendo informações de publicidade e de proximidade de posto de combustível, com estrutura de sustentação em metalon, própria para ser instalada permanentemente em beira de estrada, denominada comercialmente “placa de aproximação”. DISPOSITIVOS LEGAIS: RGI/SH 1 (texto da posição 83.10), da Nomenclatura Comum do Mercosul (NCM), constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.080-2018 .pdf]
