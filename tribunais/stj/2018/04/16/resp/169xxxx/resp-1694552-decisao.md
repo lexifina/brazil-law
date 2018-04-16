@@ -1,0 +1,16 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA DE PROFESSOR. INCIDÊNCIA DO FATOR PREVIDENCIÁRIO NO CÁLCULO DA RENDA MENSAL INICIAL DO BENEFÍCIO. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 145, e-STJ):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. APOSENTADORIA DE PROFESSOR. FATOR PREVIDENCIÁRIO. NÃO INCIDÊNCIA.
+1. A Corte Especial do Tribunal Regional Federal da 4ª Região afirmou a inconstitucionalidade do inciso I do artigo 29 da Lei 8.213/91, sem redução do texto, e dos incisos II e III do § 9º do mesmo dispositivo, com redução de texto, em relação aos professores que atuam na educação infantil e no ensino fundamental e médio.
+2. Assim, o benefício de aposentadoria por tempo de contribuição de professor concedido à parte autora deve ser revisado, para que o fator previdenciário seja afastado do cálculo da renda mensal inicial.
+Embargos de declaração do INSS parcialmente acolhidos, para fins de prequestionamento, e da parte autora acolhidos para agregar fundamentação, sem efeitos infringentes.
+O INSS alega violação dos artigos 29, I e § 9º, II e III, da Lei 8.213/1991, bem como do artigo 949, parágrafo único, do CPC/2015, além de dissídio jurisprudencial, ao fundamento de que é legítima a incidência do fator previdenciário sobre a aposentadoria de professor e que "não cabe ao tribunal regional declarar inconstitucional a norma que o STF declarou constitucional" (fl.235, e-STJ). Nesse ponto aduz que "a constitucionalidade da aplicação do fator previdenciário já foi discutida pelo Plenário do STF que, ao analisar a Medida Cautelar na Ação Direta de Inconstitucionalidade n 2111 MC/DF, decidiu pela aplicação do fator previdenciário, negando o pedido de declaração da inconstitucionalidade dos artigos 29 e 32 da Lei nq 9.876/99 que deram nova redação ao artigo 29, "caput", incisos e parágrafos da Lei nº 8.213/91" (fls. 243, e-STJ).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 278, e-STJ.
+É o relatório. Passo a decidir.
+A controvérsia relativa à incidência ou não do fator previdenciário no caso concreto foi dirimida com fundamento constitucional, especificamente com base nos artigos 5º, caput, 6º e 201, § 8º, da Constituição Federal, conforme Incidente de Arguição de Inconstitucionalidade n. 5012935-13.2015.4.04.0000, julgado pela Corte Especial do TRF4. Desse modo, o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
