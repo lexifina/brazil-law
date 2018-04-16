@@ -1,0 +1,31 @@
+DESPACHO
+(Petição/STF n. 21.290/2018)
+HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. AUTORIDADE COATORA CUJOS ATOS NÃO SE SUBMETEM DIRETAMENTE À COMPETÊNCIA DESTE SUPREMO TRIBUNAL. PETIÇÃO DA DEFESA PELA QUAL POSTULADA A NULIDADE DESSA DECISÃO. NADA A DEFERIR.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por Rosa Marina Tristão Rodrigues Longo, advogada, em benefício de Alexandre Longo e Carlos Alberto Franco Wanderley, indicando-se como autoridade coatora o Juízo da Primeira Vara Federal de Ponta Grossa/PR.
+    A impetrante alegou usurpação da competência do Ministro Ricardo Lewandowski, pois o Juízo de origem teria determinado o cumprimento imediato da condenação, quando pendente pedido da Procuradoria-Geral da República de execução no Recurso Extraordinário n. 1.104.731, ainda não apreciado neste Supremo Tribunal.
+    Argumenta que, “na data de 06/04/2018, o juiz singular, sem qualquer pedido do MPF, sem qualquer ordem do STF, repita-se, único juiz competente atualmente, e sem qualquer alteração fática, determinou o cumprimento provisório da pena restritiva de direito”.
+    Este o teor dos pedidos:
+    “Liminarmente que reconheça a usurpação de competência deste Relator, pois ainda pendente apreciação do pedido da PGR para este cumprimento antecipado, oficie o juízo da 1ª VF de Ponta Grossa, nos autos nº 50130269620134047009, e determine a suspensão da decisão do ali evento 389, aqui juntada como ato coator, até julgamento do mérito deste writ.
+    No mérito requer a declaração de que o art. 5, LVII da CF, art. 147 da LEP e art. 283 e 386 do CPP, impedem o cumprimento antecipado das penas, inclusive as de multa e restritiva de direitos, declarando ainda que a decisão firmada no HC 126292 e HC 152752 apenas assentara a possibilidade de se determinar a antecipação do cumprimento da pena, e, em consequência, declarar anulada/cancelada a ação de execução antecipada da pena, determinando seu pronto arquivamento.
+    No mérito pede-se ainda confirmação da liminar outrora dada, desta feita porém até o julgamento do mérito dos incidentes relacionados no item VII, garantindo assim a ampla defesa em todas suas nuances” (sic).
+    2. Em 12.4.2018, a presente ação foi registrada à Presidência. Nessa mesma data, por tratar-se de impetração contra ato de Juiz Federal de Ponta Grossa/PR, neguei seguimento ao presente habeas corpus, prejudicado o requerimento de medida liminar neste Supremo Tribunal (inc. XIX do art. 13 c/c § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), e determinei a remessa dos autos ao Tribunal Regional Federal da Quarta Região para as providências jurídicas cabíveis.
+    3. Em 16.4.2018, a impetrante protocolizou a Petição/STF n. 21.290/2018, postulando “seja anulada tal decisão, corrigido o erro gravíssimo de certificação (e, permita dizer, de forma muito estranha, pois em todos os incidentes anteriores se percebeu a prevenção, e neste não) e, na sequência, encaminhado os autos ao Gabinete do Ministro prevento para nova decisão”.
+    Assevera que “este HC 155497 é prevento ao ministro Ricardo Lewandowski, da 2ª Turma, conforme já informado na inicial e conforme petição encaminhada no dia 13/04/2018, tão logo verificou que o processo foi encaminhado à Presidência.
+    Perceba que todos os incidentes processuais relacionados ao caso dos réus Alexandre e Carlos tem prevenção justificada pela Rcl 25162 e/ou HC 150692, conforme sempre certificado em todos os processos que estão preventos ao citado Ministro, a saber: HC 150692, HC 149989, 149336, HC 155093, HC 148320 e RE 1104731 (…).
+    Esta questão lhe foi avisada ainda via telefone, ao Gabinete, bem como encaminhado email para Secretaria, e, infelizmente, para surpresa, o processo não só foi mantido em seu Gabinete, como no dia 13, dia que inclusive estava esta Presidente ausente, pois posse tomou como Presidente da República, veio decisão negando seguimento ao HC.
+    Data vênia a usurpação de competência do Ministro Ricardo Lewandowski é não só incompatível com a tradição e regimento desta Corte, como também prejudicial ao réu, pois de conhecimento notório que o posicionamento do referido Ministro é para concessão de liminares em caso de cumprimento antecipado da pena”.
+    4. O presente habeas corpus não poderia ter sido distribuído nem ao Ministro Ricardo Lewandowski por prevenção nem a qualquer Ministro deste Supremo Tribunal.
+    Indica-se, na inicial da presente ação, coação atribuída ao Juízo da Primeira Vara Federal de Ponta Grossa/PR, que teria determinado a execução da pena imposta aos pacientes.
+    Nos termos da al. d do inc. V do art. 13 do Regimento Interno deste Supremo Tribunal, é atribuição do Presidente, “como Relator, nos termos do art. 38 da Lei n. 8.038/1990, até eventual distribuição, os habeas corpus que sejam inadmissíveis por incompetência manifesta, encaminhando os autos ao órgão que repute competente”.
+    5. Como assentei ao negar seguimento à presente impetração, a espécie não comporta ato processual válido a ser adotado neste momento pelo Supremo Tribunal Federal.
+    6. A competência do Supremo Tribunal Federal para julgar habeas corpus é determinada constitucionalmente em razão do paciente ou da autoridade indigitada coatora (al. i do inc. I do art. 102 da Constituição da República).
+    No rol constitucionalmente definido não se inclui a atribuição deste Supremo Tribunal para processar e julgar originariamente habeas corpus no qual figure como autoridade coatora juiz federal.
+    A matéria não admite discussão mínima por se cuidar de norma de competência constitucional expressa, a impossibilitar interpretação extensiva.
+    7. Nem se poderia cogitar de eventual usurpação de competência deste Supremo Tribunal, em especial do Ministro Ricardo Lewandowski, em habeas corpus, pela singela circunstância de que o ato coator é expressamente atribuído ao juízo de primeiro grau.
+    8. Pelo exposto, quanto à pretensão deduzida na Petição/STF n. 21.290/2018, nada há a deferir.
+    Cumpra-se a determinação de remessa destes autos ao Tribunal Regional Federal da Quarta Região, para as providências jurídicas cabíveis.
+    Publique-se.
+    Brasília, 16 de abril de 2018.
+Ministra CÁRMEN LÚCIA
+Presidente
