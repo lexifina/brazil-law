@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Eduardo Sant’Ana Demarchi apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 438.625/SP, Relator o Ministro Ribeiro Dantas.
+    Sustenta o impetrante, em síntese, que o paciente está sendo submetido a constrangimento ilegal, pois o decreto de prisão preventiva dele seria desprovido de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos do art. 312 do Código de Processo Penal.
+    Aduz, ainda, o excesso de prazo, visto que o paciente encontra-se preso preventivamente há mais de 8 (oito) meses sem culpa formada.
+    Requer, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada ou substituída por medidas cautelares diversas (CPP, art. 319).
+    Examinados os autos, decido.
+    Transcrevo a ementa proferida pelo Superior Tribunal de Justiça:
+    “PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. WRIT NÃO CONHECIDO.
+    1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+    2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+    3. A prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de pessoa e mediante grave ameaça exercida com emprego de arma de fogo, adentrou estabelecimento comercial e subtraiu das vítimas celulares e quantia em dinheiro, vindo a ser capturado e preso em flagrante.
+    4. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nestes autos.
+    5. Não há falar em inovação de fundamentos no acórdão impugnado, uma vez que o Tribunal de origem, com base em elementos concretos extraídos dos autos, chancelou a custódia cautelar do paciente, sem fazer acréscimos à motivação declinada pelo magistrado, que entendeu presentes os requisitos autorizadores para o decreto preventivo.
+    6. Writ não conhecido.”
+    No caso, o julgado proferido pela Quinta Turma não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Pelo contrário, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Conforme destacou o Ministro Ribeiro Dantas no aresto questionado,
+    “No caso dos autos, a segregação cautelar do paciente foi decretada pelos seguintes fundamentos:
+    ‘(...)
+    Por primeiro, impõe-se consignar que, a despeito da Súmula Vinculante n. 11 do Colendo Supremo Tribunal Federal, determino a manutenção das algemas nos averiguados, uma vez que o número reduzido de policiais militares que atuam nas audiências de custódias, a compleição física dos policiais, que às vezes é inferior à dos investigados, o número de investigados que, muitas vezes, é maior que o dos policiais e o número elevado de promotores, defensores, advogados, servidores e público em geral que transitam pelo local em que são realizadas as audiência de custódia, indicam a necessidade do uso de algemas para garantir a segurança de todos e regular ordem e prosseguimento dos trabalhos. O flagrante encontra-se formal e materialmente em ordem. É de ser decreta a prisão preventiva do autuado, eis que há indícios de que tenha praticado o crime de roubo em questão, eis que este foi reconhecido pelas próprias vítimas. A suspeita que pesa contra ele é grave, ou seja de crime de roubo, denotando periculosidade acentuada por parte do agente.
+    Com efeito, estão presentes os requisitos necessários para o deferimento da pretensão.
+    A imputação tem alto grau de reprovação social e vem se tornando, a cada dia, um dos principais motivos de preocupação da parcela ordeira da sociedade.
+    Ademais, nada indica que os denunciados guardem compromisso com o distrito da culpa.
+    Anote-se que há comprovação de que ambos foram presos em flagrante pela prática de crime análogo, no mesmo local, contra as mesmas vítimas e com o mesmo modus operandi, o que traduz fortes indícios de responsabilidade, também. No caso tratado nestes autos.
+    Desta forma, evidenciada a necessidade de prisão como forma de manter a ordem pública e de resguardar a instrução do processo, bem como a futura aplicação da lei penal, decreto a prisão preventiva de Wagner (...) e Luiz
+    (...)’
+    Como se vê, a prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de pessoa e mediante grave ameaça exercida com emprego de arma de fogo, adentrou estabelecimento comercial e subtraiu das vítimas celulares e quantia em dinheiro, vindo a ser capturado e preso em flagrante.
+    Com efeito, o Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nestes autos”.
+    Esse entendimento não afronta a jurisprudência deste Supremo Tribunal, preconizada no sentido de que,
+     “mostra-se idôneo o decreto de prisão preventiva quando assentado na garantia da ordem pública, ante a periculosidade do agente, evidenciada não só pela gravidade in concreto do delito, em razão de seu modus operandi, mas também pelo risco real da reiteração delitiva” (HC nº 128.779/SP, Segunda Turma, de minha relatoria, DJe de 5/10/16).
+    Perfilhando esse entendimento: HC nº 133.210/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 3/10/16; HC nº 137.365/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 8/11/16, entre outros.
+    Quanto ao alegado excesso de prazo, registro que o tema não foi analisado no Superior Tribunal de Justiça. Portanto, sua análise, de forma originária, neste ensejo, configuraria inadmissível supressão de instância.
+    Nesse sentido: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 25/5/07, entre outros.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 16 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
