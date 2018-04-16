@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, em virtude da incidência das Súmulas n. 7/STJ e 284/STF (e-STJ fls. 1.262/1.264).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.158/1.159):
+APELAÇÃO CÍVEL. AÇÕES CAUTELARES, DE REVISÃO DE CONTRATO E DE BUSCA E APREENSÃO. CONTRATO DE ABERTURA DE CRÉDITO FIXO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. FINAME AGRÍCOLA MODERFROTA.
+AGRAVO RETIDO: INVERSÃO DO ÔNUS FINANCEIRO. IMPOSSIBILIDADE. INVERSÃO DO ÔNUS DA PROVA QUE NÃO ALTERA A RESPONSABILIDADE PELO PAGAMENTO DOS HONORÁRIOS PERICIAIS. PRECEDENTES DO STJ.
+RECURSO DE APELAÇÃO: CAPITALIZAÇÃO COMPOSTA DE JUROS. LEGALIDADE. PREVISÃO EXPRESSA NO CONTRATO DA TAXA MENSAL E ANUAL DOS JUROS.
+ENUNCIADO Nº 3 DA 17ª E 18ª CÂMARAS CÍVEIS DESTE TRIBUNAL. RESP 973.827/RS. - REPROGRAMAÇÃO DAS PARCELAS E ALONGAMENTO DE PRAZO PARA O PAGAMENTO DA DÍVIDA. AUSÊNCIA DE COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS LEGAIS. INEXISTÊNCIA DO PEDIDO FORMAL À INSTITUIÇÃO FINANCEIRA IMPROCEDÊNCIA DO PEDIDO. - DESCARACTERIZAÇÃO DA MORA. IMPOSSIBILIDADE. INEXISTÊNCIA DE ILEGALIDADES NO PERÍODO DE NORMALIDADE CONTRATUAL. RESP 1.061.530/RS. DECOTE DA SENTENÇA NO TOCANTE À CONDENAÇÃO DO APELANTE MÁRCIO ALESSANDRO CONEGLIAN AOS ONUS SUCUMBENÓIAIS DA AÇÃO DE BUSCA E APREENSÃO, UMA VEZ QUE b MESMO NÃO É PARTE NA REFERIDA DEMANDA. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 1.173/1.198), interposto com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes alegaram, além de dissídio jurisprudencial, ofensa aos arts. 14 da Lei n. 4.829/1964 e 13 do Decreto-Lei n. 167/1967. Argumentaram que o Tribunal de origem teria incorrido em "equívoco quando considerou que os requisitos para a prorrogação pleiteada não teriam sido atendidos e que o fato de já ter ocorrido uma prorrogação em relação as operações em questão, obstaria em uma nova concessão" (e-STJ fl. 1.180).
+Sustentaram, ainda, contrariedade ao art. 85, §§ 2º e 11, do CPC/2015. Defenderam que o recorrido deveria ser condenado ao pagamento integral das verbas de sucumbência.
+No agravo (e-STJ fls. 1.269/1.283), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 1.291/1.300).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+O Tribunal de origem, com base na interpretação das cláusulas contratuais e na análise do contexto fático-probatório dos autos, concluiu que os recorrentes não preencheram os requisitos necessários para a prorrogação da dívida. Confira-se (e-STJ fls. 1.167/1.170):
+É que, como bem apontado pelo Douto Juízo a quo, se verifica dos autos que já houve o alongamento da dívida em decorrência da quebra de safra de 2004/2005 (fl. 112/113) e não foi demonstrado o preenchimento dos requisitos quanto aos períodos subsequentes, uma vez que sequer foi comprovado o requerimento à instituição financeira, o que era imprescindível.
+(..)
+Ressalte-se que a necessidade de pedido de reprogramação das parcelas e dilação de prazo para o pagamento da dívida perante as instituições financeiras é revisto, inclusive, nas resoluções do Conselho Monetário Nacional que tratam da matéria, como se vê na Resolução nº 3.373, apontada pelos próprios Apelantes em suas razões de recurso:
+(..)
+Assim, não se vislumbram motivos para a reforma da sentença neste tocante.
+Dessa maneira, a revisão de tal entendimento esbarra nos óbices das Súmulas n. 5 e 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA AOS DISPOSITIVOS LEGAIS INVOCADOS. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, a análise da pretensão recursal no sentido de verificar a inexistência de cláusula expressa de capitalização de juros e o preenchimento dos requisitos para a prorrogação da dívida, seria necessária análise dos elementos fáticos dos autos, inviável em recurso especial.
+3. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 541, parágrafo único, do CPC/1973 e 1.029, § 1º, CPC/2015).
+4. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+5. Agravo regimental a que se nega provimento.
+(AgRg no AgRg no AREsp 37.996/PR, de minha relatoria, QUARTA TURMA, julgado em 27/02/2018, DJe 13/03/2018.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CRÉDITO RURAL. PRORROGAÇÃO. REQUISITOS LEGAIS. REEXAME. SÚMULA N. 7-STJ. CAPITALIZAÇÃO DOS JUROS. PERIODICIDADE DA COBRANÇA. SÚMULAS N. 5 E 7-STJ. ART. 112 DO CC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS N. 282 E 356-STF. CONTRATAÇÃO DOS ENCARGOS MORATÓRIOS. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO.
+1. É direito do devedor, nos termos da Lei 9.138/95, o alongamento das dívidas originárias de crédito rural quando preenchidos os requisitos legais, os quais devem ser verificados pelas instâncias ordinárias e cujo reexame encontra o óbice de que trata o enunciado n. 7, da Súmula do STJ.
+2. A conclusão do Tribunal revisor acerca da periodicidade da capitalização dos juros efetivamente praticada pela instituição financeira foi obtida pela análise do conteúdo fático e contratual dos autos, que se situa fora da esfera de atuação desta Corte, nos termos dos enunciados 5 e 7 da Súmula do STJ.
+3. Incidem os enunciados 282 e 356 da Súmula do STF quanto à alegada violação do art. 122 do Código Civil, pois é estranho ao julgado recorrido, a ele faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+4. O dissídio jurisprudencial a respeito da ausência de contratação dos encargos moratórios não foi adequadamente demonstrado, uma vez que está ausente a indispensável semelhança fática entre as teses confrontadas.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 680.372/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/05/2015, DJe 15/05/2015.)
+De outro lado, quanto aos dissídios jurisprudenciais em relação à capitalização mensal dos juros e à descaracterização da mora, cumpre observar que o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, providência não adotada no recurso nesse ponto. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. CORREÇÃO MONETÁRIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL INTERPRETADO. SÚMULA 284/STF. JUROS MORATÓRIOS. LIMITAÇÃO. SÚMULA 379/STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DO ARTIGO SUPOSTAMENTE VIOLADO. SÚMULA 211/STJ. AGRAVO DESPROVIDO.
+1. Correção monetária. Inexistência de indicação de dispositivo cuja interpretação tenha sido divergente a fim de viabilizar o conhecimento da matéria, o que é imprescindível para correta configuração do dissídio jurisprudencial. Incidência da Súmula 284/STF.
+2. Limitação dos juros moratórios. Os juros poderão ser convencionados até o limite de 1% ao mês nos contratos bancários não regidos por legislação específica, como na presente hipótese. Súmula 379/STJ. Acórdão recorrido em harmonia com a jurisprudência desta Corte. Súmula 83/STJ.
+3. Constatada a falta de enfrentamento do dispositivo legal pelo Tribunal a quo, tem-se por ausente o necessário prequestionamento, de forma que incide, na espécie, a Súmula 211/STJ, pois mesmo tendo sido opostos embargos declaratórios, estes não tiveram o condão de suprir o devido prequestionamento, razão pela qual deve a parte, no recurso especial, suscitar violação do art. 535, II, do Código de Processo Civil.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.395.828/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/10/2015, DJe 26/10/2015.)
+Por fim, o óbice da Súmula n. 7/STJ também impede a análise da pretensão recursal sobre a distribuição do ônus da sucumbência, uma vez que demandaria o vedado reexame de provas. Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTS. 113 E 1.245 DO CC. ÔNUS DA SUCUMBÊNCIA. CONCLUSÃO DO JULGADO FUNDADO EM FATOS E PROVAS. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+1. Inexistem violação aos arts. 20 e 535 do CPC, pois o julgado está devidamente fundamentado, expondo de maneira clara e objetiva os fundamentos que embasaram a conclusão estadual, não sendo necessário que aquela Corte tivesse analisado um a um os fundamentos expendidos pela parte.
+2. A análise da pretensão recursal sobre a distribuição do ônus da sucumbência, aplicação do princípio da causalidade e o valor dos honorários advocatícios demandaria o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+3. A matéria referente aos arts. 113 do CPC e 1.245 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+4. Com base na análise fático-probatória da causa, o Tribunal asseverou que não se pode falar em fraude à execução, pois a citação da executada foi muito posterior aos atos de alienação envolvendo o imóvel em questão - incidência, no ponto da Súmula 7/STJ - ; aliado a isso, atestou que contrato particular de compra e venda atesta a boa-fé do recorrido na aquisição do bem - aplicação, no caso, do enunciado da Súmula 84/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 702.490/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/8/2015, DJe 28/8/2015.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. RESPONSABILIDADE CIVIL. ART. 535 DO CPC NÃO VIOLADO. JULGAMENTO EXTRA PETITA. NÃO CARACTERIZAÇÃO. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA DO PEDIDO. PRECEDENTES. SÚMULA 83/STJ. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte tem jurisprudência firmada no sentido de que o mero descontentamento da parte recorrente com o resultado do julgado não caracteriza afronta ao art. 535 do CPC.
+2. "O pedido é aquilo que se pretende com a instauração da demanda e se extrai a partir de uma interpretação lógico-sistemática do afirmado na petição inicial, recolhendo todos os requerimentos feitos em seu corpo, e não só aqueles constantes em capítulo especial ou sob a rubrica "dos pedidos"." (REsp 120.299/ES, Relator o Ministro Sálvio de Figueiredo Teixeira, Quarta Turma, julgado em 25.6.1998, DJ 21.9.1998, p. 173)
+3. A pretensão de redistribuição dos ônus sucumbenciais fica obstada pela incidência da Súmula 7 desta Corte.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 729.099/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1/9/2015, DJe 10/9/2015.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
