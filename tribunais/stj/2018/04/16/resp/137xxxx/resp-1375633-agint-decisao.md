@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. HONORÁRIOS ADVOCATÍCIOS. REFORMATIO IN PEJUS. OCORRÊNCIA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VALOR FIXADO PELO TRIBUNAL. IRRISORIEDADE. MAJORAÇÃO PARA 1% DO VALOR DA CAUSA. AGRAVO INTERNO CONHECIDO. DECISÃO RECONSIDERADA.
+DECISÃO
+Cuida-se de agravo interno interposto por Companhia Hidro Elétrica do São Francisco - CHESF contra decisão monocrática assim ementada (e-STJ, fl. 1.115-1.120):
+RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO MONITÓRIA. EMBARGOS ACOLHIDOS. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM PATAMAR IRRISÓRIO, TOMANDO-SE POR BASE O VALOR DA CAUSA. NECESSIDADE DE MAJORAÇÃO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+Em suas razões, assevera a recorrente que a fixação de honorários advocatícios em R$ 260.000,00 (duzentos e sessenta mil reais) teria resultado em reformatio in pejus. Isso porque o acórdão recorrido em especial os teria fixado em 0,5% sobre o valor da causa, o que, considerando a atualização monetária do valor então fixado até hoje, corresponderia a valor superior ao arbitrado na decisão agravada.
+Pleiteia, ao fim, a reconsideração da decisão ou o provimento do agravo, para que se atribua valor condizente com o valor da causa atualizado.
+Relatado o processo, decido.
+Com efeito, verifica-se a existência de vedada reformatio in pejus na hipótese dos autos, o que impõe a reconsideração da decisão monocrática desta relatoria.
+Isso porque ao determinar a imposição de honorários advocatícios fixados à proporção de 0,5% (cinco décimos percentuais) sobre o valor atribuído à causa, qual seja, R$ 25.729.532,73 (vinte e cinco milhões, setecentos e vinte e nove mil, quinhentos e trinta e dois reais e setenta e três centavos), o acórdão intitulou a recorrente no direito a honorários advocatícios correspondentes a R$ 128.647,66 (cento e vinte oito mil, seiscentos e quarenta e sete reais e sessenta e seis centavos). Desde sua fixação, esse valor deve se sujeitar à atualização monetária, nos termos do enunciado n. 14 da Súmula Jurisprudencial do STJ: "Arbitrados os honorários advocatícios em percentual sobre o valor da causa, a correção monetária incide a partir do respectivo ajuizamento".
+Desse modo, tendo em consideração a atualização do valor fixado (acórdão publicado em 30 de setembro de 2011) e que a correção monetária do valor até a data decisão ora agravada supera o valor nela fixado, configurou-se a vedada reformatio in pejus, o que impõe a reconsideração da decisão para nova fixação.
+Ainda que a jurisprudência desta Corte seja pacífica em afirmar que os honorários fixados, nos termos do art. 20, § 4º, do CPC/1973, não se sujeitam aos limites percentuais sobre o valor da causa, tem sido reiteradamente considerados ínfimos os honorários fixados abaixo de 1%.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. MAJORAÇÃO PARA 1% DO VALOR DA CAUSA. IRRISORIEDADE NÃO CONFIGURADA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1 - Conforme entendimento consolidado desta Corte, apenas são irrisórios os honorários advocatícios fixados em patamar inferior a 1% do valor da causa ou do proveito econômico.
+2 - Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp n. 1.004.841/SP, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 19/12/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. DESNECESSIDADE DE VINCULAÇÃO AOS LIMITES PERCENTUAIS PREVISTOS NO § 3º DO ART. 20 DO CPC/73. VALOR IRRISÓRIO. NÃO OCORRÊNCIA. RAZOABILIDADE NA FIXAÇÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. No cumprimento de sentença, aplicam-se as disposições do § 4º do art. 20 do CPC/73 para a fixação de honorários advocatícios, não ficando o julgador limitado aos percentuais estabelecidos no § 3º do mesmo dispositivo.
+2. Esta Corte Superior de Justiça possui entendimento pacificado de que a alteração do quantum fixado de forma equitativa a título de honorários advocatícios, nos termos do art. 20, § 4º, do CPC/73, demanda necessário revolvimento do conteúdo fático-probatório dos autos, o que atrai a incidência da Súmula 7/STJ, excetuando-se os casos de valor irrisório ou exorbitante, o que não ocorreu no caso dos autos. 3. A respeito da índole irrisória, a jurisprudência deste Tribunal Superior firmou como parâmetro o patamar de 1% do valor da causa, tendo assentado que, nos casos em que os honorários são fixados em valor inferior a este percentual, é admitida a excepcional intervenção desta Corte, o que foi observado no caso concreto.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.356.616/PR, Rel. Min. Lázaro Guimarães (desembargador convocado do TRF 5ª Região), Quarta Turma, DJe 26/10/2017)
+Nesse cenário, fixo novos honorários advocatícios devidos à razão de 1% do valor dado à causa.
+Com esses fundamentos, conheço do presente agravo interno para reconsiderar a decisão agravada e fixar os honorários advocatícios em 1% do valor da causa, devidamente atualizado, afastando a reformatio in pejus demonstrada.
+É como voto.
