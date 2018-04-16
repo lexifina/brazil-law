@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 98):
+    “PREVIDENCIÁRIO. Pensão por Morte. Reconhecidas a decadência do direito da Administração de rever o ato concessivo da pensão e a prescrição da ação anulatória, eis que esgotado o prazo decenal previsto na Lei estadual n° 10.177/98. Precedentes. REEXAME NECESSÁRIO E RECURSO VOLUNTÁRIO DA AUTORA NÃO ACOLHIDOS”.
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, d, do permissivo constitucional, alega-se o seguinte (eDOC 2, p. 3-5):
+    “O Tribunal de Justiça paulista, de forma equivocada, entendeu haver operado no presente caso a decadência, com base na Lei Estadual n. 10.17711998, não sendo, a seu ver, aplicável o Código Civil.
+     (...) Nos casos concretos ora em exame, ainda não havia transcorrido metade do prazo prescricional, posto que a recorrida é pensionista desde 14.01.2002, ainda na vigência do Código Civil de 1916, conforme se infere da documentação que instrui a inicial da presente demanda.
+    Assim, o prazo a ser considerado, em consequência, é o fixado no novo Código Civil, tendo como termo inicial a data de sua vigência. Desta forma, o prazo fatal para questionamentos judiciais a respeito do ato que se busca anular foi 10 de janeiro de 2013, com base no artigo 205 c/c artigo 2.028 do Novo Código Civil”.
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso extraordinário interposto pela alínea d, porquanto entendeu não haver a Corte de origem homenageado a lei local em face da lei federal (eDOC 2, p. 40).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, assim asseverou (eDOC 1, p. 100)
+    “Na hipótese, o termo inicial do pagamento da pensão foi 11.5.2001 (fl. 14), ao passo que a presente ação foi proposta somente em 10.1.2013 (fl. 02 v), cerca de doze anos após a concessão do benefício; logo, muito depois de esgotado o lapso decadencial previsto no dispositivo legal acima reproduzido.
+    Não colhe a tese de que a prescrição da ação não teria se consumado por força do artigo 177 do Código Civil/16 c.c. 2.028 do Código Civil/02.
+    Isso porque, diante de direitos pessoais oponíveis à Administração, não se aplicam os prazos da lei comum, mas sim o prazo decenal, especial, previsto na Lei estadual no 10.177/98, esta que, aliás, já se encontrava em vigor, quando do advento do novo Código Civil”.
+    Desse modo, para divergir do entendimento adotado pelo juízo a quo, seria necessário o reexame de fatos e provas, além da legislação local aplicável à espécie (Lei Municipal 10.177/98), o que atrai a incidência das Súmulas 279 e 280 do STF.
+    Ademais, observa-se que o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição, mas apenas julgou a controvérsia com base no conjunto probatório dos autos e na legislação pertinente, o que inviabiliza o processamento do recurso extraordinário com base na alínea “c”, do inciso III, do art. 102, da Constituição.
+    Nesse sentido, confiram-se os seguintes acórdãos:
+    “(...) 4. O Recurso Extraordinário não pode ser conhecido pelo permissivo da alínea “c” do inciso III do art. 102 da Constituição Federal, uma vez que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face desta Constituição”. (AI 840409 AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe 14.12.2017)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. PUBLICAÇÃO DA DECISÃO DE AFASTAMENTO DE MILITAR. 1. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 2. ALEGAÇÃO DE OFENSA AO INCISO XXXV DO ART. 5º DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 3. INTERPOSIÇÃO DO APELO EXTREMO COM BASE NAS ALÍNEAS“C” E “D” DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie, providência vedada neste momento processual. 2. No caso, a jurisdição foi prestada de forma completa, embora em sentido contrário aos interesses da parte recorrente. 3. O Tribunal de Justiça do Distrito Federal e dos Territórios não julgou válida lei ou ato de governo local contestados ante a Constituição, ou lei local ante a lei federal, o que inviabiliza o recurso extraordinário fundamentado nas alíneas“c” e “d” do inciso III do art. 102 da Carta Magna. Agravo regimental desprovido” (AI 829.416-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 12.05.2011).
+    “(... ) Incabível o apelo extremo pelas alíneas “c” e “d” do art. 102, III, da Constituição Federal quando o acórdão impugnado não julgou válida lei ou ato de governo local contestado em face da Constituição, nem julgou válida lei local contestada em face de lei federal”. (ARE 1036694 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 18.9.2017)
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a, do CPC e 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
