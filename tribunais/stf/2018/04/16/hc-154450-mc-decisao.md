@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Guarulhos/SP, no processo nº 0083051-77.2004.8.26.0224, em 11 de julho de 2005, ao receber denúncia na qual imputado ao paciente o cometimento da infração prevista no artigo 157, § 2º, incisos I e II (roubo com causas de aumento de pena alusivas ao concurso de pessoas e ao emprego de arma de fogo), do Código Penal, determinou a prisão preventiva. Destacou presentes indícios de autoria, apontando encontrada, no veículo apreendido, a carteira nacional de habilitação do paciente, por meio da qual realizado o ato de reconhecimento pessoal. Consignou necessária a restrição da liberdade para garantir a instrução processual e a aplicação da lei penal, reportando-se à gravidade do delito.
+    Deixou de acolher sucessivos pedidos de revogação da custódia formulados pela defesa, assentando permanecerem os motivos ensejadores e frisando que o paciente não foi localizado para cumprimento do mandado de prisão.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 429.046/SP, o qual teve a liminar indeferida.
+    O impetrante diz ser o caso de superação do verbete nº 691 da Súmula do Supremo. Sustenta a inidoneidade da fundamentação do ato que implicou a preventiva, afirmando-a lastreada na gravidade abstrata do crime. Articula com a violação dos artigos 93, inciso IX, da Constituição Federal e 315 do Código de Processo Penal. Argui não ser a revelia do paciente motivação suficiente ao implemento da constrição cautelar. Afirma inexistir notícia de cometimento de delitos após o ano de 2004.
+    Requer, no campo precário e efêmero, o afastamento da custódia, com expedição de contramandado de prisão. No mérito, busca o reconhecimento do direito do paciente de aguardar, solto, o trânsito em julgado de eventual condenação.
+    Em consulta ao sítio do Tribunal de Justiça, no dia 16 de abril de 2018, verificou-se que o processo-crime está na fase de instrução, com designação de audiência de interrogatório para 26 de junho próximo.
+    A etapa é de exame da medida acauteladora.
+    2. A análise da decisão por meio da qual determinada a preventiva revela haver sido considerada a imputação. Inexiste a constrição automática tendo em conta a infração possivelmente praticada, levando à inversão da ordem processual, que direciona, presente o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. Quanto ao risco à instrução processual e à aplicação da lei penal, há de reportar-se, obrigatoriamente, a certa informação. Fora isso é a suposição do excepcional, do extravagante, o que não justifica a preventiva. O fato de o acusado ter deixado o distrito da culpa não implicou prejuízo ao regular andamento processual, uma vez que constituiu defesa técnica. Surge a insubsistência das premissas lançadas, bem como a falta de contemporaneidade dos acontecimentos, relativos ao ano de 2004.
+    3. Defiro a liminar. Expeçam o contramandado de prisão ou, se já ocorrida esta última, o alvará de soltura, a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva formalizada no processo nº 0083051-77.2004.8.26.0224, da Primeira Vara Criminal da Comarca de Guarulhos/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem médio, integrado à sociedade.
+    5. O curso deste habeas não prejudica o de nº 404.055/SP, em trâmite no Superior Tribunal de Justiça. Com as homenagens merecidas, remetam cópia desta decisão ao relator, ministro Antônio Saldanha Palheiro.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 16 de abril de 2018
+Ministro MARCO AURÉLIO
+Relator
