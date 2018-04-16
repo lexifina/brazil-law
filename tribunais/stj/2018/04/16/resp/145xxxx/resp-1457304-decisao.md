@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 937):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. BASE DE CÁLCULO. FUNÇÃO GRATIFICADA. LIMITAÇÃO. REESTRUTURAÇÃO DE CARREIRA. LEI Nº 9.030/95. FUNÇÕES COMISSIONADAS E GRATIFICADAS.
+A Lei 9.030/95 não implementou reestruturação de carreira, mas apenas estabeleceu novos valores para os cargos comissionados e funções gratificadas O reajuste de 3,17% deve incidir sobre a remuneração do servidor, incluídas as parcelas relativas ao exercício de cargos em comissão e funções gratificadas.
+Prequestionamento quanto à legislação invocada estabelecido pelas razões de decidir.
+Agravo de instrumento provido.
+Opostos embargos declaratórios, foram parcialmente acolhidos para fins de prequestionamento (fls. 969/970).
+A parte recorrente aponta violação aos arts. 462, 535, I e II, 741, VI e 794, I do CPC/73; 28 da Lei nº 8.880/94; 3º, 4º e 7º da Lei nº 9.030/95; e 10 da MP nº 2.225-45. Sustenta, além de negativa de prestação jurisdicional, que inexiste título executivo a amparar a pretensão quanto à implantação do índice de 3,17% sobre eventuais rubricas usufruídas pelo exequente. Afirma que "a remuneração da rubrica de função (FG  GDAF) nunca foi calculada sobre o vencimento básico dos servidores públicos, sendo o único atrelamento que o reajuste geral se daria nas mesmas datas e índices" (fl. 988)
+Assevera que o reajuste de 3,17% deve ser limitado à fevereiro de 1995 (Lei nº 9.030/95), sob o argumento de que "a referida lei reajustou os cargos em comissão e funções gratificadas em percentual muito superior aos 3,17%, além de desatrelar a base de cálculo dos reajustes ao vencimento básico, bem como desvinculando o reajuste das funções e gratificações, com reflexos nas incorporações (quintos e décimos)" (fl. 989).
+Reforça que "tanto as funções comissionadas, funções gratificadas e respectivas incorporações, foram reajustadas em percentuais muito superiores a 3,17%, a partir do 01.03.1995, bem como, sua base de cálculo ficou desvinculada do vencimento básico dos servidores públicos federais" (fl. 990). Assim, afirma que "restou demonstrado que ocorreu uma causa extintiva da obrigação de fazer derivada de sentença, qual seja o pagamento muito além do fixado do título executivo judicial. Indispensável o reconhecimento pelo Poder Judiciário da satisfação da obrigação, a fim de evitar enriquecimento indevido, decretando a extinção da execução" (fl. 991).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação não comporta acolhida.
+Inicialmente, é deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Ademais, extrai-se do aresto recorrido as seguintes razões (fls. 935/936):
+Quando da análise do pedido de liminar, proferi a seguinte decisão:
+Entendo que não se encontrando expressamente prevista a limitação temporal do reajuste no título executivo, esta não pode ser feita sob pena de ofensa à coisa julgada.
+Ademais, relativamente à Lei 9.030/95, tal norma não implementou reestruturação de carreira, mas apenas estabeleceu novos valores para os cargos comissionados e funções gratificadas, não podendo ser considerada como limite temporal para a concessão do reajuste.
+Nesse sentido, o seguinte precedente do e. STJ:
+(..)
+Da mesma forma, o reajuste de 3,17% deve incidir sobre as funções gratificadas e os cargos de confiança, conforme jurisprudência pacífica do Superior Tribunal de Justiça e desta Corte. Confira-se:
+(..)
+Em face do exposto, defiro a tutela recursal, a fim de afastar a limitação temporal à Lei 9.030/95, bem como determinar a incidência do reajuste sobre as funções comissionadas e cargos em comissão, devendo ser elaborada nova conta, observando-se tais critérios.
+Não vejo motivos para alterar a decisão anteriormente proferida, servindo a mesma de fundamento para o provimento do presente agravo de instrumento.
+Destarte, o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, firme no sentido de que "o resíduo de 3,17%, oriundo da correta aplicação dos arts. 28 e 29, § 5o. da Lei 8.880/94, incide sobre a remuneração do servidor público e não somente sobre o vencimento-básico" (AgRg no AREsp 39.365/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 26/08/2014, DJe 12/09/2014).
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. BASE DE CÁLCULO DO REAJUSTE DE 3,17%. REMUNERAÇÃO. AGRAVO REGIMENTAL DA FUNDAÇÃO BIBLIOTECA NACIONAL DESPROVIDO.
+1. Esta Corte consolidou a orientação de que o resíduo de 3,17% apresenta como base de cálculo o vencimento-básico, acrescido das vantagens de caráter permanente que integram a remuneração do Servidor, incluídas as parcelas decorrentes do exercício de funções gratificadas ou cargos em comissão, e excluídas aquelas parcelas que tenham o vencimento-básico como base de cálculo, a fim de se evitar a dupla incidência.
+2. Agravo Regimental da FUNDAÇÃO BIBLIOTECA NACIONAL desprovido.
+(AgRg no AREsp 146.986/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/09/2016, DJe 22/09/2016)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 3,17%. BASE DE CÁLCULO. REMUNERAÇÃO. PRESCRIÇÃO. EDIÇÃO DA MP 2.225/2001. RENÚNCIA TÁCITA. AÇÃO AJUIZADA ANTES DE 04/09/2006. EFEITOS PATRIMONIAIS CONTADOS A PARTIR DE JANEIRO DE 1995. PRECEDENTES. RECURSO A QUE SE NEGA PROVIMENTO.
+1. O reajuste de 3,17% deve incidir sobre a remuneração dos servidores públicos federais e não apenas sobre o vencimento básico.
+ 2. Ajuizada a ação no prazo de cinco anos contados da publicação da referida Medida Provisória 2.225/2001, o servidor público tem direito ao recebimento do reajuste de 3,17%, com efeitos patrimoniais contados a partir de janeiro de 1995
+3. Agravo regimental improvido.
+(AgRg no REsp 1157833/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/10/2014, DJe 29/10/2014)
+ADMINISTRATIVO. ART. 535 DO CPC. ALEGAÇÃO GENÉRICA DE OMISSÃO NO ACÓRDÃO. SÚMULA 284/STF. REAJUSTE DE 3,17%. BASE DE CÁLCULO. REMUNERAÇÃO. PRECEDENTES. SÚMULA 83/STJ.
+1. A alegação genérica de violação do art. 535 do Código de Processo Civil, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, atrai a aplicação do disposto na Súmula 284/STF.
+2. Esta Corte tem entendimento pacífico no sentido de que, quanto base de cálculo do percentual de 3,17%, tal índice deve incidir sobre o total da remuneração, e não apenas sobre o vencimento básico. Precedentes. Mesmo entendimento da decisão recorrida. Incidência da Súmula 83/STJ. Agravo regimental improvido.
+(AgRg no REsp 1259568/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 11/12/2012, DJe 18/12/2012)
+Ainda na linha de nossa jurisprudência, está pacificado o entendimento no Superior Tribunal de Justiça, no sentido de que "a Lei 9.030/95 não pode ser considerada como termo final para a incidência do índice de 3,17%, porquanto tratou apenas da remuneração de cargos em comissão de natureza especial e funções comissionadas, não sendo norma que reestruturou, nem reorganizou a carreira" (AgRg no REsp 1.278.356/PR, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 02/08/2016, DJe 10/08/2016).
+Em reforço:
+AGRAVO INTERNO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 3,17%. FUNÇÕES COMISSIONADAS. LIMITAÇÃO À DATA DA EDIÇÃO DA LEI 9.030/1995. IMPOSSIBILIDADE
+1. O entendimento deste Superior Tribunal de Justiça é pacífico no sentido de que "a Lei 9.030/95 não pode ser considerada como termo final para a incidência do índice de 3,17%, porquanto tratou apenas da remuneração de cargos em comissão de natureza especial e funções comissionadas, não sendo norma que reestruturou, nem reorganizou a carreira. Precedentes: AgRg nos EDcl no REsp 1.523.151/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30/9/2015; AgRg no REsp 1.577.678/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 27/5/2016" (AgRg no REsp 1278356/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 02/08/2016, DJe 10/08/2016). Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1243745/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/10/2017, DJe 30/10/2017)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EMBARGOS. RESÍDUO DE 3,17%. LIMITAÇÃO TEMPORAL. BASE DE INCIDÊNCIA. FUNÇÕES GRATIFICADAS E CARGOS EM COMISSÃO. LEI N. 9.030/95. AUSÊNCIA DE ALTERAÇÃO OU REESTRUTURAÇÃO DE CARGOS OU DE CARREIRA. ART. 9º DA MP N. 2.225/2001.
+1. A jurisprudência do STJ reconhece que a limitação temporal prevista no art. 10 da Medida Provisória 2.225-45/2001 não afronta a coisa julgada, podendo ser arguida em sede de embargos à execução.
+2. Esta Corte Superior de Justiça consolidou a orientação no sentido de que o termo final do pagamento dos valores devidos a título do reajuste de 3,17% opera-se na data da reestruturação/reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225/2001;
+ou em 1º/1/2002, para as carreiras que não foram reestruturadas/reorganizadas até essa data, a teor do art. 9º da mencionada medida provisória.
+3. A Lei n. 9.030/95, que fixa a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia e assessoramento, não reestruturou ou reorganizou carreiras, de modo que não tem a faculdade de dar cabo à incidência do resíduo de 3, 17%.
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1523151/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 22/09/2015, DJe 30/09/2015)
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego provimento.
+Publique-se.
