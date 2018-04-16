@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Turma do tribunal Regional Federal da 3ª Região que, em síntese, confirmou a sentença que deferiu a concessão do benefício de auxílio-reclusão.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação dos artigos 194, parágrafo único, e 201, inciso IV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que a Corte de origem reconheceu o direito dos autores, ora recorridos, ao benefício do auxílio-reclusão em questão, amparada no conjunto fático-probatório dos autos e na legislação infraconstitucional pertinente, ambos de reexame vedado em sede recursal extraordinária. Incidência, na espécie, das Súmulas 279 e 636 da Suprema Corte. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Policial militar. Auxílio-reclusão. 3. Preenchimento dos requisitos para concessão do auxílio-reclusão. Necessidade de revolvimento do acervo fático-probatório e da legislação local. Súmulas 279 e 280. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento” (ARE 702.966/BA-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 16/6/15).
+    “DIREITO PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AUXÍLIO-RECLUSÃO. REQUISITOS. CONTROVÉRSIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTES DOS AUTOS. SÚMULA 279/STF. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que a matéria relativa ao cumprimento dos requisitos para concessão de benefícios previdenciários não tem natureza constitucional, justamente por tratar-se de matéria infraconstitucional e demandar o reexame do acervo probatório dos autos. 2. Embargos de declaração recebidos como agravo regimental a que se nega provimento” (ARE nº 855.037/SP-ED, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 3/6/15).
+    “Agravo regimental no recurso extraordinário com agravo. Auxílio-reclusão. Prequestionamento. Ausência. Preenchimento dos requisitos para percepção do benefício. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando o tema nele suscitado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido.” (ARE nº 791.166/RS-AgR, Primeira Turma, de minha relatoria, DJe de 7/5/14).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PENSÃO POR MORTE. PREENCHIMENTO DOS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 782.536/PR-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 24/9/10).
+    Nesse mesmo sentido, as seguintes decisões monocráticas: ARE nº 884.268/PR, Relator o Ministro Gilmar Mendes, DJe de 6/5/15; ARE nº 818.216/SP, de minha relatoria, DJe de 18/12/14; e ARE nº 784.857/RS, Relatora a Ministra Cármen Lúcia, DJe de 2/12/13.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
