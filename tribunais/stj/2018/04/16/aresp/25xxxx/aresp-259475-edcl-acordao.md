@@ -1,0 +1,46 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 do CPC/73) - EXCEÇÃO DE INCOMPETÊNCIA SUSCITADA NOS AUTOS DE AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS - ACIONISTA MINORITÁRIO - PERDAS DECORRENTES DE IMPLANTAÇÃO DE POLÍTICA TARIFÁRIA - DELIMITAÇÃO DA COMPETÊNCIA - FORO DA SEDE DA EMPRESA ONDE OCORREU O ATO REPUTADO ILEGAL QUE DEU ENSEJO AO PLEITO INDENIZATÓRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Antonio Carlos Ferreira.
+Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Cuida-se de embargos de declaração (fls. 1.126/1.128, e-STJ) opostos por CLUBE DE INVESTIMENTO DOS FUNCIONARIOS DA SUDFER - CLUBE SUDFER, contra acórdão de fls. 1.118/1.123 (e-STJ), de relatoria deste signatário, que negou provimento ao agravo regimental apresentado pelo ora insurgente.
+O acórdão embargado consubstancia-se na seguinte ementa:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - EXCEÇÃO DE INCOMPETÊNCIA - FORO DA SEDE DA EMPRESA LESADA - SÚMULA N. 7 DO STJ - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECURSO.
+1. Pretensão voltada à análise de qual seria o efetivo dano causado, relacionado à cobrança de tarifas sub-avaliadas às empresas do grupo controlador. A instância ordinária fixou a competência levando em considerações acontecimentos que se deram na assembléia deliberativa ocorrida na sede da empresa na cidade do Rio de Janeiro. Incidência da Súmula 7/STJ.
+2. Agravo regimental desprovido.
+Irresignado, o insurgente opõe embargos de declaração (fls. 1.126/1.128, e-STJ), sustentando, em síntese, a ocorrência de obscuridade a macular o aresto recorrido, consubstanciada na prescindibilidade do exame do acervo fático-probatório constante dos autos para a resolução da controvérsia.
+Reafirma os argumentos outrora deduzidos, no sentido de que o objeto da questão controvertida circunscreve-se à análise do "dano efetivamente causado à empresa e aos seus acionistas, mediante a cobrança de tarifas subavaliadas dos acionistas controladores, em detrimento do que determina a Lei nº 6.404/76. Ou seja, o dano suscitado não é e nem nunca foi à reunião ou decisão do conselho de administração da companhia, mas, sim, o dano decorrente da cobrança de tarifas reduzidas para os sócios controladores, tarifas essas que são cobradas ao longo de toda a ferrovia" (fl. 1.127, e-STJ).
+Impugnação às fls. 1.132/1.137 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO (ART. 544 do CPC/73) - EXCEÇÃO DE INCOMPETÊNCIA SUSCITADA NOS AUTOS DE AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS - ACIONISTA MINORITÁRIO - PERDAS DECORRENTES DE IMPLANTAÇÃO DE POLÍTICA TARIFÁRIA - DELIMITAÇÃO DA COMPETÊNCIA - FORO DA SEDE DA EMPRESA ONDE OCORREU O ATO REPUTADO ILEGAL QUE DEU ENSEJO AO PLEITO INDENIZATÓRIO - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDANTE.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/2015, o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado.
+2. Dada a natureza dos aclaratórios, esses não podem ser utilizados como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Os embargos de declaração não merecem acolhimento, visto não ter o embargante logrado demonstrar a existência de qualquer vício a macular o aresto embargado, possuindo o presente recurso nítido caráter infringente.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontráveis em decisão, ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado. Nesse sentido, confira-se os seguintes precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS. 1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso. 2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.  ..  4. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 860.920/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 07/06/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. 1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015. 2. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 19/05/2016, DJe 24/05/2016)  grifou-se
+No caso, não há infringência ao artigo 1.022, CPC/2015, em razão da suficiente fundamentação exarada no acórdão embargado (fls. 1.118/1.123, e-STJ),
+Na hipótese em foco, o decisum embargado não possui vício a ser sanado por meio de embargos de declaração, visto que esta eg. Quarta Turma decidiu a controvérsia com base no entendimento adotado no âmbito desta Corte, sendo clara na sustentação das razões do desprovimento do agravo interno interposto.
+Consoante consta do acórdão ora embargado, ao dirimir a questão controvertida o Tribunal local levou em consideração o local onde ocorreram os acontecimentos que deram ensejo à ação indenizatória, qual seja, a sede da empresa, localizada no Estado do Rio de Janeiro, fato este que redundou na fixação de competência do juízo.
+É o que se extrai do seguinte excerto do aresto hostilizado (fl. 1000, e-STJ):
+ "Tendo em vista que o fato gerador do pretenso e alegado dano, abuso de direito dos acionistas majoritários, ocorreu em decorrência de atos e deliberações promovidas na sede da empresa controlada, em assembléia deliberativa, com sede no Rio de Janeiro, deverá a ação tramitar na Comarca de sua sede."
+Diante disso, não obstante as alegações feitas à respeito da cobrança de tarifas sub-avaliadas às empresas do grupo controlador, para acolhimento do apelo extremo, a fim de reconhecer a competência de juízo diverso, seria necessário derruir a afirmação contida no decisum atacado, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula n. 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Deste modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/2015 na decisão hostilizada, cuidando-se o presente reclamo de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+2. Do exposto, rejeitam-se os embargos de declaração.
+É como voto.
