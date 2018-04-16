@@ -1,0 +1,12 @@
+EMENTA
+TRIBUTÁRIO. COFINS E PIS. ALÍQUOTAS. BENS EM ESTOQUE. LEI 10.637/2002, ART. 11, § 1º, E LEI 10.833/2003, ART. 12, § 1º. REPERCUSSÃO GERAL. TEMA 179 (RE 587.108/RS). ART. 1.040 DO CPC/2015. SOBRESTAMENTO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TRF4, tendo sido lavrada a seguinte ementa (fl. 152):
+TRIBUTÁRIO. COFINS E PIS. LEIS Nº 10.637/2002 E Nº 10.833/2003. MAJORAÇÃO DAS ALÍQUOTAS. CRÉDITO SOBRE O VALOR DO ESTOQUE EXISTENTE. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA NÃO- CUMULATIVIDADE.
+Não ofende o princípio da não-cumulatividade o percentual de crédito presumido previsto pelo legislador nos art. 11 da Lei nº 10.637/2002 e 12 da Lei nº 10.833/2003, incidente sobre o valor das mercadorias adquiridas para revenda, pois leva em consideração o valor das alíquotas do PIS e da COFINS que incidiram sobre o faturamento quando da aquisição daquelas mercadorias.
+Observa-se que o tema tratado nos autos é objeto de repercussão geral perante o STJ no RE 587.108/RS, Tema 179:
+CONSTITUCIONAL. TRIBUTÁRIO. PIS E COFINS. NÃO CUMULATIVIDADE. BENS EM ESTOQUE. CRÉDITO. ALÍQUOTA. LEI 10.637/2002, ART. 11, § 1º, E LEI 10.833/2003, ART. 12, § 1º. RELEVÂNCIA JURÍDICA E ECONÔMICA DA QUESTÃO CONSTITUCIONAL. EXISTÊNCIA DE REPERCUSSÃO GERAL.
+Consoante a jurisprudência desta Corte, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, o reconhecimento da repercussão geral da matéria constitucional, nos termos do art. 543-B do CPC/1973 (art. 1.036 do CPC/2015), justifica o sobrestamento, pela instância ordinária, dos recursos especiais, que tragam em seu bojo a mesma questão jurídica a ser definida pelo STF. Nesse sentido: AgInt no AgInt no Resp 1603061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017; AgRg no REsp 1.467.551/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 9/9/2014. Confira-se, ainda, o AgInt no REsp 1.706.720/RJ , julgado na sessão de 6/3//2018, acórdão pendente de publicação.
+Destaca-se, ainda, que há recurso extraordinário admitido nos autos (fls. 216/230 e 290, respectivamente).
+Ante o exposto, determino a devolução dos autos ao Tribunal a quo para que o exame do recurso especial ocorra somente após o pronunciamento definitivo do STF em sede de repercussão geral, quando então será exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário.
+Publique-se. Intimem-se.
