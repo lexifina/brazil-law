@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fl. 547):
+AGRAVO INTERNO  APELAÇÃO/REEXAME NECESSÁRIO - DECISÃO MONOCRÁTICA  URV  APLICAÇÃO DO CPC DE 1973  MAJORAÇÃO DA VERBA HONORÁRIA  IMPOSSIBILIDADE  OBSERVÂNCIA AO ARTIGO 20, §3º E § 4º DO CPC (1973)  PRECEDENTES DO STJ E STF  AGRAVO DESPROVIDO.
+Segundo orientação do Superior Tribunal de Justiça, em harmonia com o entendimento também desta Corte, inobstante o decisum tenha sido proferido sob a égide do Novo Código de Processo Civil, a norma processual a ser aplicada é aquela correspondente à data em que foi proferido o provimento judicial impugnado. (REsp 1526712/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/04/2016, DJe 19/04/2016)
+Nos casos de vencida a Fazenda Pública, os honorários devem ser fixados de forma equitativa (art. 20, § 4º , do CPC), conforme orientação do Superior Tribunal de Justiça.
+Não foram opostos embargos declaratórios.
+A parte recorrente aponta violação aos arts. 14, 85, §§ 1º, 3º, I e 11 do CPC/2015; 133 da Constituição Federal e ao enunciado administrativo nº 7 do STJ. Sustenta que a decisão recorrida foi publicada após 18/03/2016, razão pela qual deve ser a ela aplicado o regramento do novo CPC/2015 quanto aos honorários advocatícios, nos termos do Enunciado Administrativo nº 7 do STJ. Alega que os honorários foram fixados em valor ínfimo, "o que equivale a 0,015% do valor da causa, sendo que o novo CPC prevê honorários entre 10% a 20% para o caso em tela" (fl. 559).
+Assevera que "o novo cenário jurídico concernente aos honorários de sucumbência tratado pelo novo CPC, impõe que a decisão do segundo grau, deveria, na verdade, majorar os honorários arbitrados no primeiro grau (Art. 85, § 11), mas, contrariando os ditames na nova legislação processual, o Tribunal de Justiça de Mato Grosso, fixou os honorários para o valor aviltante de R$1.000,00 (um mil reais)" (fl. 564).
+Alega, ainda, que é necessário se socorrer ao direito intertemporal para dirimir os conflitos existentes ao longo de mudanças ocorridas na legislação, razão pela qual as novas normas do CPC/2015 devem incidir sobre o atos que ainda não foram praticados.
+Pugna pela majoração da verba honorária ao patamar de 20%.
+É o relatório.
+A irresignação não comporta acolhida.
+Inicialmente, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 133 da Constituição Federal.
+De outro lado, no que se refere à alegada infringência ao Enunciado Administrativo nº 7 do STJ, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF. Nesse sentido, sobressaem os seguintes precedentes: REsp 1.347.557/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/11/2012; AgRg no Ag 1.307.212/MS, Rel. Ministro Raul Araújo, Quarta Turma, DJe 7/12/2012.
+Ademais, extrai-se do aresto recorrido as seguintes razões (fls. 549/551):
+O recurso não merece provimento, haja vista que a tese defendida pelo agravante já fora sobejamente analisada e decidida na decisão recorrida.
+Em que pesem os argumentos apresentados pelo agravante, segundo orientação do Superior Tribunal de Justiça, em harmonia com o entendimento também desta Corte, inobstante a decisão monocrática tenha sido proferida sob a égide do Novo Código de Processo Civil, em 02/06/2016 (fls. 188/196), a norma processual a ser aplicada é aquela correspondente à data em que foi proferido o provimento judicial impugnado, neste caso, a data da sentença (31/08/2015), à fls. 133/136.
+Com efeito, aplicam-se, portanto, no caso em tela, as regras constantes no Código de Processo Civil de 1973.
+A propósito, é o entendimento da Corte Superior, senão vejamos, in verbis:
+(..)
+Desta feita, a aplicabilidade do CPC/2015 aos processos em curso deve respeitar a eficácia dos atos já iniciados ou realizados, conforme prevê o seu artigo 14, sendo inaplicável, in casu, as regras instituídas pelo §3º, do art. 85, do NCPC, conforme verificado acima.
+No que tange à majoração do montante, tenho que não assiste razão ao agravante, pois observada a orientação do Superior Tribunal de Justiça, nos casos de vencida a Fazenda Pública, que os honorários sejam fixados de forma equitativa (art. 20, § 4º , do CPC). Assim, tenho como justa, para o caso, a quantia fixada em R$ 1.000,00 (um mil reais), a título de honorários advocatícios.
+Trago à colação o julgado do Superior Tribunal de Justiça, in verbis:
+(..)
+Logo, não há que se falar em majoração da verba honorária, porque fixada dentro dos parâmetros legais e do caso concreto.
+Destarte, o entendimento perfilhado pelo Tribunal de origem encontra-se em consonância com a jurisprudência desta Corte Superior, firme no sentido de que o marco temporal para a incidência do novo estatuto processual, no que se refere aos honorários advocatícios sucumbenciais, é a data da sentença.
+Nesse sentido, destaca-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. HONORÁRIOS ADVOCATÍCIOS. MARCO TEMPORAL PARA APLICAÇÃO DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRECEDENTE. IMPUGNAÇÃO DO VALOR FIXADO A TÍTULO DE VERBA HONORÁRIA. MAJORAÇÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O recorrente alega que não há falar em direito adquirido a fim de
+conclamar incida o Novo Código de Processo Civil apenas às demandas ajuizadas após a sua entrada em vigor (conforme decidido pelo Tribunal a quo), porquanto, consoante estabelecido no artigo 14 do NCPC, o novel diploma normativo processual incidirá imediatamente aos processos em curso.
+2. A jurisprudência desta Corte tem entendido que o marco temporal que deve ser utilizado para determinar o regramento jurídico aplicável para fixar os honorários advocatícios é a data da prolação da sentença, que, no caso, foi na vigência do Código de Processo Civil de 1973. Precedente: REsp 1.636.124/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/12/2016, DJe 27/04/2017.
+3. Nesse contexto, sobrepõe-se o entendimento consolidado neste Tribunal, no sentido de que salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado nº 7, da Súmula do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1657177/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/08/2017, DJe 23/08/2017)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. COMPENSAÇÃO DE VERBA HONORÁRIA. POSSIBILIDADE. MARCO TEMPORAL. SENTENÇA PROLATADA NA VIGÊNCIA DO CPC/73. INCIDÊNCIA DA SÚMULA Nº 306 DO STJ. PRETENSÃO DE APLICAÇÃO DO ART. 85, § 14, DO NCPC. ARTIGO NÃO PREQUESTIONADO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO COM APLICAÇÃO DE MULTA.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. O art. 85, § 14, do NCPC, diversamente do que afirmam os agravantes, não foi objeto de debate nas instâncias ordinárias e, de fato, não poderia ter sido, uma vez que a nova lei processual civil não se encontrava em vigor, o que atrai a
+aplicação das Súmulas nºs 282 e 356 do STF.
+3. Esta Corte assentou entendimento no sentido de que em homenagem à natureza processual material e com o escopo de preservar-se o direito adquirido, as normas sobre honorários advocatícios não são alcançadas por lei nova. A sentença, como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.(REsp 1465535/SP, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 22/8/2016) 4. Na lide examinada os honorários foram fixados pela sentença sob a vigência do CPC/73, sendo possível, portanto, a aplicação da Súmula nº 306 do STJ.
+5. Agravo interno não provido com aplicação de multa.
+(AgInt no AREsp 1034509/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+Portanto, na hipótese dos autos, o arbitramento dos honorários advocatícios deve ser feito com base nos dispositivos do Código de Processo Civil de 1973.
+Dito isso, segundo o entendimento consolidado pela Primeira Seção do Superior Tribunal de Justiça, em julgamento pelo rito previsto artigo no artigo 543-C do Código de Processo Civil, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade." (REsp nº 1.155.125/MG, Relator Ministro Castro Meira, DJe de 06/04/2010).
+Por outro lado, a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em hipóteses excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas no caso dos presentes autos, pois o Tribunal de origem manifestou-se no sentido de que "no que tange à majoração do montante, tenho que não assiste razão ao agravante, pois observada a orientação do Superior Tribunal de Justiça, nos casos de vencida a Fazenda Pública, que os honorários sejam fixados de forma equitativa (art. 20, § 4º, do CPC). Assim, tenho como justa, para o caso, a quantia fixada em R$ 1.000,00 (um mil reais), a título de honorários advocatícios" (fl. 551).
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a majoração dos honorários advocatícios pleiteada pelas partes ora recorrentes.
+A propósito, confiram-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. TRAVAMENTO DE PORTA GIRATÓRIA. DETECTOR DE METAIS.
+DANOS MORAIS. MAJORAÇÃO DA INDENIZAÇÃO E DOS HONORÁRIOS ADVOCATÍCIOS. INVIABILIDADE. RAZOABILIDADE NA FIXAÇÃO DO QUANTUM. SÚMULA N. 7/STJ.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+2. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização e dos honorários advocatícios, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, a quantia arbitrada pelo Tribunal de origem não se distancia dos parâmetros da razoabilidade e da proporcionalidade.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 274.220/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 4/6/2013)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão do valor dos honorários advocatícios arbitrado, é, em
+princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+2. A tese jurídica veiculada nas razões do regimental não é capaz de
+modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 171.013/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/3/2013)
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
