@@ -1,0 +1,13 @@
+EMENTA
+JUIZADOS ESPECIAIS ESTADUAIS. RECLAMAÇÕES AJUIZADAS CONTRA ACÓRDÃOS DAS TURMAS RECURSAIS DOS ESTADOS E DO DISTRITO FEDERAL. JULGAMENTO QUE DEVERÁ SER REALIZADO NOS TRIBUNAIS DE JUSTIÇA, POR SUAS CÂMARAS REUNIDAS OU SEÇÕES ESPECIALIZADAS, CONFORME DECIDIDO PELA CORTE ESPECIAL DO STJ NA QUESTÃO DE ORDEM NO AGRG NA RCL N. 18.506/SP. ORIENTAÇÃO MATERIALIZADA COM A EDIÇÃO DA RESOLUÇÃO STJ/GP N. 3, PUBLICADA EM 8/4/2016. PERMANÊNCIA NO STJ APENAS DAS RECLAMAÇÕES QUE JÁ HAVIAM SIDO DISTRIBUÍDAS.
+Reclamação não conhecida, ordenado o seu encaminhamento ao Tribunal de Justiça do Distrito Federal e dos Territórios.
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, ajuizada por [NOME], com fundamento nos arts. 105, I, alínea f, da Constituição Federal, 1º da Resolução n. 12/2009, 13 da Lei n. 8.038/90 e 187 do RISTJ, contra acórdão proferido pela Segunda Turma Recursal dos Juizados Especiais do Distrito Federal, o qual teria afrontado as decisões proferidas por esta Corte Superior no julgamento da Rcl n. 5.243/MT e da Rcl n. 22.676/RJ, reconhecendo a possibilidade de revisão do valor da indenização por danos morais se inobservados os princípios da razoabilidade e da proporcionalidade.
+Brevemente relatado decido.
+Do que se extrai dos autos, a reclamação, ajuizada com fundamento na Resolução STJ n. 12/2009, foi distribuída neste Tribunal em 2/4/2018 (e-STJ, fl. 31).
+Ocorre que a Corte Especial, na sessão realizada em 6/4/2016, concluiu o julgamento da Questão de Ordem no AgRg na Rcl n. 18.506/SP, tendo deliberado que "caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes".
+Para materializar essa decisão, foi editada a Resolução STJ/GP n. 3, que expressamente dispôs caber ao Superior Tribunal de Justiça o julgamento das reclamações que lhe foram distribuídas anteriormente a sua publicação, ocorrida em 8/4/2016.
+Constatado que a distribuição deste reclamo ocorreu após a publicação da Resolução STJ/GP n. 3/2016, necessário se faz, a fim de que não haja prejuízo para a reclamante, o seu encaminhamento ao tribunal doravante competente para o julgamento.
+Ante o exposto, não conheço da reclamação.
+Remetam-se os autos ao Tribunal de Justiça do Distrito Federal e dos Territórios.
+Publique-se.
