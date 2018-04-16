@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO. ATUAÇÃO DA DEFENSORIA PÚBLICA DA UNIÃO COMO CURADORA ESPECIAL. CONDENAÇÃO DO CURATELADO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. LEI COMPLEMENTAR 80/1994. CÓDIGO DE PROCESSO CIVIL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIAS COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE 748.371. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “EXECUÇÃO. FINANCIAMENTO. FINEP. PRESCRIÇÃO. INOCORRÊNCIA. CITAÇÃO POR EDITAL. REGULARIDADE. APELAÇÃO DA DPU DESPROVIDA. CONDENAÇÃO DA EMPRESA REVEL EM HONORÁRIOS. CABIMENTO. APELAÇÃO ADESIVA DA FINEP PROVIDA.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, LIV, LV e LXXIV, e 134 da Constituição Federal. Alega que “da atuação da Defensoria Pública da União como curadora especial não pode decorrer a condenação da parte em honorários, em razão da gratuidade dos serviços prestados” (Vol. 8, fl. 28). Requer, ao final, o provimento do recurso, “para afastar a condenação em honorários advocatícios do curatelado pela Defensoria Pública, em razão da gratuidade do serviço público de assistência jurídica integral e gratuita” (Vol. 8, fl. 30).
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que encontraria óbice nas Súmulas 279 e 636 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A matéria relativa à condenação do curatelado ao pagamento de honorários advocatícios em decorrência da atuação da Defensoria Pública da União como curadora especial, quando sub judice a controvérsia, implica a análise da legislação infraconstitucional aplicável à espécie (Lei Complementar 80/1994 e Código de Processo Civil), o que se revela inviável em sede de recurso extraordinário, por configurar ofensa indireta à Constituição Federal. Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DA PARTE RECORRENTE. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS EM FAVOR DA DEFENSORIA PÚBLICA. OFENSA CONSTITUCIONAL MERAMENTE REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” ( ARE 795.813-AgR, Rel. Teori Zavascki, Segunda Turma, DJe de 17/6/2014)
+    Demais disso, ressalte-se que os princípios da ampla defesa, do contraditório (artigo 5º, LV) e do devido processo legal (artigo 5º, LIV), quando debatidos sob a ótica infraconstitucional, não revelam repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário Virtual do STF, na análise do ARE 748.371, da Relatoria do Ministro Gilmar Mendes, DJe de 1º/8/2013, Tema 660, conforme se pode destacar do seguinte trecho do referido julgado:
+    “Ante o exposto, manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.”
+    Ex positis, DESPROVEJO o agravo, com fundamento artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de abril de 2018.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
