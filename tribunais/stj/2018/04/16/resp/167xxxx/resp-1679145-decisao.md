@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 152):
+EMENTA: CUPRIMENTO DE SENTENÇA - AÇÃO DE COBRANÇA - SUPLEMENTAÇÃO DE APOSENTADORIA - REFER - ENTENDIMENTO EM DISSONÂNCIA COM O STJ - RECURSO ESPECIAL - COMPETÊNCIA DA JUSTIÇA ESTADUAL - RETRATAÇÃO DA DECISÃO.
+Segundo entendimento fixado pelo Superior Tribunal de Justiça a partir dos Recursos Especiais nº 1183604/MG e nº 1187776/MG, a competência para julgamento das demandas que envolvam contrato de previdência privada administrados pela Rede Ferroviária de Seguridade Social é da Justiça Estadual.
+O art. 543-C, § 7º, II do CPC, autoriza a manutenção ou retratação da decisão recorrida. Deve ser revisto o entendimento contido no acórdão quando a decisão encontra-se em dissonância com a jurisprudência do STJ.
+Opostos embargos declaratórios, foram acolhidos, nos seguintes termos (fl. 173):
+EMENTA: CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. EXCESSO DE EXECUÇÃO CONSTATADO. LITIGÂNCIA DE MÁ-FÉ NÃO VERIFICADA. AFASTAMENTO DA MULTA IMPOSTA.
+- Constatada a existência de excesso de execução, não há falar que a impugnação apresentada pelo executado, sob essa alegação, tenha tido cunho protelatório, pelo que deve ser afastada a multa a ele imposta com fulcro no art. 18 do CPC.
+A parte recorrente aponta violação aos arts. 436, 131 e 458 do CPC/73, Súmula 221 do STF e art. 93 da CF/88, além de dissídio jurisprudencial. Sustenta, em síntese, a negativa de prestação jurisdicional e ausência de fundamentação do acórdão recorrido. Afirma, ainda, a necessidade de se decotar os excessos presentes no laudo pericial, especialmente quanto à metodologia de cálculos e a duplicidade de correção.
+É o relatório.
+Em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa ao art. 93 da Constituição Federal.
+No que se refere à alegada infringência à Súmula 221/STF, esta Corte firmou entendimento de que enunciado ou súmula de tribunal não equivale a dispositivo de lei federal, restando desatendido o requisito do art. 105, III, a, da CF. Nesse sentido, sobressaem os seguintes precedentes: REsp 1.347.557/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 5/11/2012; AgRg no Ag 1.307.212/MS, Rel. Ministro Raul Araújo, Quarta Turma, DJe 7/12/2012.
+Ademais, verifica-se não ter ocorrido ofensa aos arts. 131 e 458 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto aos cálculos da execução, colhe-se do acórdão recorrido a seguinte fundamentação, verbis (fls. 175/176):
+A respeito da atitude do juiz diante da perícia técnica, defendo não estar ele adstrito ao laudo pericial nem obrigado a decidir de acordo com a conclusão do perito oficial, podendo analisar os elementos fáticos e formar a sua convicção de forma diversa do expert. Entretanto, entendo que apenas não deve aceitar as conclusões do laudo pericial quando o trabalho é inaproveitável, mal fundamentado ou desmotivado, o que definitivamente, não ocorre no caso dos autos.
+Segundo nota-se, os cálculos realizados pelo perito oficial seguiram as instruções constantes na r. sentença de f. 28/31. confirmada por este Tribunal através do v. acórdão de f. 32/36. Não havendo como se aplicar a metodologia de cálculos pleiteada pela recorrente, por ter sido esta afastada por decisão judicial transitada em julgado.
+Resta claro, portanto, portanto, que a alteração das conclusões adotadas pela Corte de origem quanto à incorreção dos cálculos, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE O CONSUMO DE ENERGIA ELÉTRICA. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. CORREÇÃO MONETÁRIA E JUROS DE MORA. LIMITES DA COISA JULGADA. SÚMULA 7 DO STJ.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+2. Inexiste violação ao art. 535 do CPC/1973 quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da recorrente.
+3. A alteração da conclusão das instâncias ordinárias sobre a correção dos cálculos apresentados pela contadoria judicial importaria em reexame de provas, o que é vedado no âmbito do recurso especial, sob pena de violação à Súmula 7 do STJ. (grifei)
+4. Em sede de embargos à execução não é permitido nova discussão sobre matérias julgadas no processo de conhecimento, sob pena de violação à coisa julgada.
+5. Agravos regimentais não providos.
+(AgRg no REsp 1239718/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 03/10/2017, DJe 13/12/2017)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 1.029, §1º, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
