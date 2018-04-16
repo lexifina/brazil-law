@@ -1,0 +1,5 @@
+DECISÃO
+Admite-se, em princípio, os presentes embargos de divergência, tendo em conta o atendimento, em tese, dos requisitos de admissibilidade e a demonstração, prima facie, da alegada divergência, nos termos do § 1º do art. 266 do Regimento Interno do Superior Tribunal de Justiça.
+Com efeito, dê-se vista aos embargados para, querendo, ofertar impugnação (art. 267 do RISTJ).
+Após, abra-se vista dos autos ao Ministério Público Federal para manifestação.
+Publique-se. Intimem-se.
