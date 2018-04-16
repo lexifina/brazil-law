@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MAURICIO APARECIDO MOTTA, contra r. decisum de em. Desembargador do eg. Tribunal de Justiça de São Paulo, que indeferiu a liminar pleiteada no HC n. 2005830-83.2018.8.26.0000.
+Depreende-se dos autos que o paciente foi condenado às penas de 3 (três) anos de reclusão, em regime fechado, mais pagamento de 700 (setecentos) dias-multa, como incurso nas sanções do art. 35, caput, da Lei n. 11.343/06 (fls. 20-24).
+Irresignada, a defesa do paciente impetrou o Habeas Corpus perante o eg. Tribunal de origem, pleiteando, liminarmente, a fixação de regime mais brando, qual seja, o aberto.
+A medida liminar foi indeferida pelo em. Desembargador Relator do feito, consoante r. decisão proferida em 23/01/2018 (fl. 26).
+Alega que a prisão é arbitrária e ilegal, determinada antes de transitada em julgado a sentença condenatória, carente de fundamentação idônea, que permite a superação da Súmula 691/STF.
+Sustenta que, segundo o entendimento do Supremo Tribunal Federal no HC 118.533, o tráfico privilegiado não tem natureza hedionda e, por isso, entende que o paciente tem direito a um regime mais benéfico do que o fechado, uma vez que preso cautelarmente desde o dia 30 de junho de 2016 (data da prisão em flagrante delito), já tendo cumprido mais de 1/6 da pena imposta (1 ano e 8 meses), custodiado unicamente em função do presente processo.
+Assevera que o paciente é primário, a pena fixada restou em 3 (três) anos de reclusão e todas as circunstâncias judiciais lhes foram favoráveis, já que a pena-base foi fixada no mínimo legal.
+Menciona que o estabelecimento do regime fechado encontra-se em desacordo com o enunciado das Súmulas nºs 718 e 719 do Supremo Tribunal Federal e 440 desta Corte Superior.
+Requer, assim, a concessão da ordem para que seja revogada a prisão cautelar do paciente, concedendo-lhe a liberdade provisória ou, alternativamente, que se substitua a prisão pela prisão domiciliar ou por qualquer outra das cautelares previstas no art. 319 do CPP, a fim de que possa aguardar em liberdade o julgamento do recurso de apelação, assim como seja estabelecido o regime aberto ou semiaberto.
+Pedido liminar indeferido às fls. 38-43.
+Informações prestadas às fls. 53-68.
+A d. representante do Ministério Público Federal, às fls. 70-71, manifestou-se no sentido de que seja o habeas corpus julgado prejudicado pela perda do objeto. Eis a ementa do parecer:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU LIMINAR EM HABEAS CORPUS IMPETRADO PERANTE O TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO WRIT. SÚMULA 691/STF. NÃO CONHECIMENTO. SUPERVENIÊNCIA DE DECISÃO DE MÉRITO NO TRIBUNAL DE ORIGEM. PERDA DO OBJETO. HABEAS CORPUS PREJUDICADO". (fl. 70).
+É o relatório.
+Decido.
+O presente mandamus está prejudicado.
+Ab initio, verifica-se que o presente writ investe contra decisão proferida por em. Desembargador de Tribunal de Justiça que denegou o pedido liminar em habeas corpus impetrado na origem.
+Sobre o tema, contudo, insta consignar que a jurisprudência desta Corte há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado sumular nº 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido o seguinte precedente desta Corte Superior:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE NEGOU A TUTELA DE URGÊNCIA NO WRIT ORIGINÁRIO. INEXISTÊNCIA DE ILEGALIDADE PATENTE. APLICAÇÃO DA SÚMULA 691/STF. INDEFERIMENTO SUMÁRIO DO MANDAMUS. EXCEPCIONALIDADE NÃO EVIDENCIADA. DECISÃO MONOCRÁTICA CONFIRMADA. AGRAVO IMPROVIDO.
+1. Segundo orientação pacificada neste Superior Tribunal, é incabível habeas corpus contra indeferimento de medida liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância. Exegese da Súmula 691/STF.
+2. Encontrando-se a decisão da autoridade impetrada suficientemente motivada, não há como se afastar o óbice ao conhecimento do remédio constitucional, imposto pela Súmula 691/STF, merecendo, portanto, ser confirmado o decisum agravado, por seus próprios fundamentos.
+3. O revolvimento das questões aventadas no writ originário e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+4. Agravo regimental improvido" (AgRg no HC n. 304.571/PE, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 18/11/2014).
+Ademais, segundo informações obtidas no sítio eletrônico do eg. do Tribunal de origem, verifica-se que sobreveio julgamento definitivo do habeas corpus originário em 08/02/2018, conforme ementa do v. acórdão, in verbis:
+"HABEAS CORPUS ASSOCIAÇÃO AO TRÁFICO ILÍCITO DE ENTORPECENTES PRETENSÃO DE APELAR EM LIBERDADE PRESENÇA DOS REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL RÉU FORAGIDO MANDADO DE PRISÃO NÃO CUMPRIDO DECISÃO FUNDAMENTADA.Cabe a manutenção da custódia cautelar na sentença condenatória se presentes os requisitos previstos no artigo 312 do Código de Processo Penal. ORDEM DENEGA DA SENTENÇA PRETENSÃO À FIXAÇÃO DE REGIME PRISIONAL MAIS BRANDO SUCEDÂNEO DE RECURSO PRÓPRIO MATÉRIA QUE IMPORTA EM APROFUNDAMENTO DE PROVAS. Constitui meio inadequado o habeas corpus para rever a fixação de regime prisional imposto em sentença condenatória. ORDEM CONHECIDA EM PARTE, E NA PARTE CONHECIDA, DENEGADA".
+Desse modo, forçoso reconhecer a prejudicialidade do presente mandamus, tendo em vista a perda superveniente de seu objeto, uma vez que os seus argumentos, expostos contra a decisão monocrática que indeferiu a medida liminar, restaram superados com o julgamento definitivo do writ na origem.
+Nesse sentido os seguintes julgados deste Tribunal Superior:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. (1) EXECUÇÃO. PROGRESSÃO DE REGIME. MATÉRIA NÃO ANALISADA PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. (2) SÚMULA 691. INEXISTÊNCIA DE ILEGALIDADE PATENTE. EXCEPCIONALIDADE INOCORRENTE. DECISÃO MANTIDA. (3) SUPERVENIENTE DECISÃO PELO NÃO CONHECIMENTO DO MANDAMUS ORIGINÁRIO. FUNDAMENTOS DESTA IMPETRAÇÃO SUPERADOS. (4) TESE DEFENSIVA. AUSÊNCIA DE COMPROVAÇÃO. (5) PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Em sede de habeas corpus, não é possível conhecer tema não tratado na origem, sob pena de supressão de instância.
+2. A aceitação de habeas corpus impetrado contra decisão que indeferiu a liminar em prévio writ se submete aos parâmetros da Súmula 691 do STF, somente afastada no caso de excepcional situação, o que inocorre na espécie dos autos.
+3. Advindo o julgamento do mandamus ajuizado perante o Tribunal de origem, superados encontram-se os fundamentos desta impetração, diante da existência de novo ato constritor.
+4. Cabe ao impetrante o escorreito aparelhamento do remédio heróico indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+5. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+6. Agravo regimental desprovido" (AgRg no HC n. 335.437/ES, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 27/10/2015, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU LIMINAR NA ORIGEM. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. QUANTIDADE E DIVERSIDADE DE DROGA APREENDIDA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. INCIDÊNCIA DA SÚMULA 691 DO STF. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO. PERDA DE OBJETO DO HABEAS CORPUS. PRECEDENTES. AGRAVO PREJUDICADO.
+1. Nos termos da orientação desta Corte, o julgamento do mérito do habeas corpus originário resulta na perda do objeto daquele impetrado na instância superior, na qual é impugnada a decisão indeferitória da liminar na origem.
+2. Agravo regimental prejudicado" (AgRg no HC n. 320.850/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 28/8/2015).
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, julgo prejudicado o habe"as corpus.
+P. e I.
