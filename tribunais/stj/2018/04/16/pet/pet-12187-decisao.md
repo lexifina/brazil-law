@@ -1,0 +1,18 @@
+DECISÃO
+Vistos etc.
+Trata-se de petição na qual FABIANE GALLO COSTA encaminha "termos de apelação à Impoluta Instância Superior" com fundamento no art. 186 do CC e 5º da Constituição Federal. A requerente afirma, em suma, o seguinte:
+Que, os Apelados - CRISTIANO NECHAR MAR TINELLI e a empresa de cobrança de condomínio MAC-MKONTI, ambos da comarca de Piracicaba-SP., foram alvos de ação impetrada pela Apelante em face de ter promovido ação passível de "Danos Morais " com o devido respaldo legal e embasada em fatos ocorridos da mais alta incidência de ofensa moral, atentatórios à moral e honra da proponente, mesmo porquê o primeiro Suplicado, alto e em bom som, ofendeu-a, deliberadamente, em público, à frente de diversos condôminos e demais pessoas existentes no local, além de vários funcionários do Edifício em que a Autora é moradora de longa data, de ilibada formação, trabalhadora, cujos resquícios de ofensas, transferiram-se para locais além do recinto da ocorrência, mormente, até no local de emprego da Apelante, servindo de "chacotas " de amigos e conhecidos do prédio e demais pessoas de seu circulo de amizade.
+Ao final, requer a procedência da ação, deduzindo o seguinte pedido (e-STJ Fl. 10):
+ Finalmente, estando tal decisão judicial passível de anulação, por pretensa infringência ao disposto legal acima cominado e, por não encontrar meios para reconsideração à douta Sentença referida, ratificada, injustamente, pelo douto - ACORDÃO - de 2a Instância, daí a propositura dos presentes termos de Apelação, a fim de encontrar guarida perante esse AUGUSTO TRIBUNAL DE INSTÂNCIA SUPERIOR TEMPLO SAGRADO da sacrossanta aplicação da justiça em prol da JUSTIÇA!
+ Deste modo, espera a impetrante que essa CONSPÍCUA CASA DE LEIS, conhecendo do presente postulado, se lhe dê provimento, reformando a douta Sentença do Juízo "a quo", e, cessando, assim, o constrangimento e prejuízo de que a peticionária está sofrendo.
+À e-STJ Fl. 16, a Presidência do STJ deferiu o pedido de gratuidade da justiça.
+É o relatório. Decido.
+A requerente encaminhou ao Superior Tribunal de Justiça "termos de apelação" visando à reforma da "douta Sentença do Juízo "a quo"".
+O pedido é manifestamente improcedente.
+Segundo o art. 105 da Constituição Federal, o Superior Tribunal de Justiça não tem competência para processar e julgar recurso de apelação interposto contra acórdão proferido por Tribunal de Justiça ou Tribunal Regional Federal.
+De qualquer sorte, a petição também não pode ser admitida como recurso especial, pois, de acordo com o art. 1.029 do CPC, "o recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal  art. 105, III , serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido" e não diretamente nesta Corte.
+Por ora, deixo de reputar a requerente como litigante de má-fé, nos termos do art. 80, I, do CPC ("Considera-se litigante de má-fé aquele que: I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso").
+Isso porque, o Superior Tribunal de Justiça já decidiu que "não há de se confundir má-fé, dolo, com erro processual ou falta de técnica jurídica" (REsp 1177878/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 06/04/2010, DJe 14/04/2010).
+Contudo, advirto, desde já, que a apresentação de incidentes protelatórios e infundados poderá dar azo à aplicação de multa (arts. 77, II c/c 1.021, § 4º, do CPC) e que a concessão de gratuidade da justiça não afasta o dever de o beneficiário pagar, ao final, as multas processuais que lhe sejam impostas, de acordo com o art. 98, § 4º, do CPC.
+Ante o exposto, não conheço do pedido formulado na petição.
+Intime-se.
