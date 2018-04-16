@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que reconhecera o direito de filha maior de militar receber pensão por morte.
+    O recurso busca fundamento no art. 102, III, a e d, da Constituição Federal. A parte recorrente alega violação aos arts. 24, XII e § 4º; e 42, § 2º, da Constituição Federal.
+    O recurso não é admissível. Isso porque, para dissentir das conclusões do Tribunal de origem, seriam imprescindíveis a análise das normas infraconstitucionais pertinentes e a reapreciação de fatos e provas, o que não é cabível nesse momento processual. Nessas condições, a hipótese atrai a incidência das Súmulas 279 e 280/STF.
+    Ademais, o Plenário do Supremo Tribunal Federal, no julgamento do RE 610.220-RG, sob a relatoria da Ministra Ellen Gracie, concluiu pela ausência da repercussão geral da matéria constitucional tratada nos autos. A decisão do Plenário está assim ementada:
+    “Administrativo. Servidor público. Direito à pensão para filha solteira maior de 21 anos. Lei estadual 7.672/82 do Rio Grande do Sul. Aplicação dos efeitos da ausência de repercussão geral tendo em vista tratar-se de divergência solucionável pela aplicação da legislação estadual. Inexistência de repercussão geral.”
+    Por fim, observa-se ser incabível o recurso extraordinário com fundamento na alínea d do inciso III do art. 102 da Constituição. Isso porque o recurso, com base nesse dispositivo, depende da demonstração de conflito de competência legislativa entre entes da Federação, sendo inviável seu uso com a simples pretensão de rever interpretação dada pelo Tribunal de origem à norma infraconstitucional. Nesse sentido, veja-se trecho da ementa do ARE 697.583-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. IMPOSSIBILIDADE. OFENSA INDIRETA À CONSTITUIÇÃO. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA AGRAVO IMPROVIDO.
+    […]
+    V – A admissão do recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição Federal pressupõe a ocorrência de conflito de competência legislativa entre os entes da Federação. Dessa forma, é incabível o apelo extremo, fundado no aludido dispositivo, cuja pretensão seja provocar o reexame da interpretação de norma infraconstitucional conferida pelo Juízo de origem.
+    VI – Agravo regimental improvido.”
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 16 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
