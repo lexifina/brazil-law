@@ -1,0 +1,29 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/1973. EMBARGOS À EXECUÇÃO. DESCABIMENTO. LEI 8.898/94. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. SUMÚLAS 283/STF E 284/STF. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF 3ª Região, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SENTENÇA HOMOLOGATÓRIA DE CÁLCULOS DO CONTADOR ANTERIOR À LEI N.º 8.898/94. TRÂNSITO EM JULGADO. IMPOSSIBILIDADE DE OPOSIÇÃO DE EMBARGOS, NOS TERMOS DO ART. 730 DO CPC. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. APELAÇÃO E AGRAVO RETIDO PREJUDICADOS.
+- Lei nova, segundo os lineamentos do direito intertemporal brasileiro, tem eficácia imediata. Incide sobre os atos processuais praticados a partir do momento em que se torna obrigatória, sem, contudo, alcançar os atos consumados sob o império da legislação anterior.
+- De acordo com a sistemática processual anterior ao advento da Lei n.º 8.898/94, a liquidação da sentença, sempre que abrangesse juros o rendimento de capital cuja taxa fosse estabelecida em lei ou contrato, operava-se por cálculos do contador.
+- Sentença homologatória proferida em data anterior a edição da Lei n.º 8.898/94, de sorte que, passada em julgado, inviabiliza a oposição de embargos à execução.
+- Processo extinto, ex officio, sem resolução de mérito, nos termos do art. 267, VI, do CPC. Apelação e agravo retido prejudicados.
+Embargos de declaração rejeitados.
+Sustenta a parte recorrente, em preliminar, violação ao art. 535, II, do CPC/1973, ao argumento de que o Tribunal de origem rejeitou seus declaratórios sem, contudo, apreciar a controvérsia à luz dos arts. 730, II, V e VI e 743 do CPC/1973.
+Alega, ainda, contrariedade aos supracitados artigos, ao argumento de que a Corte local os violou frontalmente, ao permitir que o Exequente receba valores em duplicidade, uma vez nestes autos e aqueles já recebidos nos autos de outra ação judicial, com a qual havia litispendência que não foi comunicada (fl. 539).
+Contrarrazões às fls. 551-556.
+Juízo positivo de admissibilidade às fls. 567-568.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Afasta-se a alegada violação ao art. 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, o Tribunal de origem afastou a possibilidade de embargos à execução para impugnar matéria constante de sentença homologatória já transitada em julgado, nos seguintes termos (fl. 513e-STJ):
+"Lei nova, segundo os lineamentos do direito intertemporal brasileiro, tem eficácia imediata. Incide sobre os atos processuais praticados a partir do momento em que se torna obrigatória, sem, contudo, alcançar os atos consumados sob o império da legislação anterior.
+De acordo com a sistemática processual anterior ao advento da Lei n.º 8.898/94, a liquidação da sentença, sempre que abrangesse juros ou rendimento do capital, cuja taxa fosse estabelecida em lei ou contrato, operava-se por cálculos do contador.
+As partes, intimadas, falavam em cinco dias, decidindo o juiz por sentença. Com essa moldura, é de ver que os cálculos podiam ser criticados ao longo do procedimento de liquidação, em dois momentos distintos: (i) na intimação subseqüente à conta e (ii) por recurso de apelação interposto contra a sentença que a homologou.
+Não obstante, com o advento da Lei nº 8.898, cuja vigência iniciou-se em 30/08/94, ficou eliminada a liquidação por cálculo do contador. Aos influxos da nova reação conferida ao art. 604 do CPC, o credor, ao requerer a citação do devedor para pagamento, devia instruir o pedido com memória discriminada de cálculo. Suprimido o procedimento anterior de acertamento do débito, os embargos passaram a ser o único meio para impugnação.
+ No caso, como o quantum debeatur foi apurado de acordo com a sistemática anterior, inadmissível a oposição de embargos à execução para impugnar matéria constante da sentença homologatória já transitada em julgado, sob pena de pôr a perder a segurança das relações jurídicas definitivamente deslindadas.
+Nesse sentido:
+"Assim, se uma sentença já havia homologado o cálculo do contador antes da vigência da lei nova, essa homologação prevalecerá como ato regular em relação à lei do seu tempo. À luz desta é que sua regularidade será apreciada, sem que pura e simplesmente essa homologação possa ser banida do mundo jurídico. Não se admitirão embargos à execução nos quais se discuta o quantum debeatur, porque o momento para isso já estará superado (preclusão)".
+De fato, a r. sentença homologatória foi proferida em 19/04/93, data em que a Lei n.º 8.898/94 ainda não havia sido editada. Conclui-se, portanto, que a lei nova não poderia alcançá-la, defeso ao devedor utilizar-se de embargos à execução para retirar autoridade daquela res judicata."
+Verifica-se que o INSS não impugnou, de forma clara e precisa, o fundamento adotado pelo Tribunal de origem que entendeu pelo descabimento dos Embargos à Execução para impugnar cálculos já homologados. Por tal motivo, tem-se que as razões recursais apresentam deficiência na sua argumentação, o que atrai os óbices das Súmulas 283 e 284, ambas do Supremo Tribunal Federal.
+Ante o exposto, nego seguimento ao recurso especial.
+Publique-se. Intimem-se.
