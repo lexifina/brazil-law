@@ -1,0 +1,4 @@
+Solução de Divergência Cosit nº 98003, de 10 de abril de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Reforma de ofício a Solução de Consulta SRRF/7ªRF/Diana nº 213, de 07 de junho de 2004. Código NCM 8517.62.49 Mercadoria: Roteador digital, para conectar uma rede local a uma rede de área estendida, contendo uma ou duas portas LAN 10/100, porta auxiliar, porta de console, interface serial síncrona/assíncrona com velocidade máxima de 4Mbps, duas portas SIC (Smart Interface Card) e uma porta MIM (Multifunctional Interface Modules). DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.17), RGI 6 (textos da subposição de 1º nível 8517.6 e de 2º nível 8517.62) e RGC 1 (textos do item 8517.62.4 e do subitem 8517.62.49) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto n.º 8.950, de 2016.
+.
+[arquivo anexo: SD Cosit nº 98.003-2018 .pdf]
