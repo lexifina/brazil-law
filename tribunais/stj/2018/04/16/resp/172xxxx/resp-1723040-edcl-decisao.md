@@ -1,0 +1,33 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ALEGADA EXISTÊNCIA DE OMISSÕES NO JULGADO. OMISSÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARCIALMENTE.
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] à decisão monocrática de fls. 858-861 (e-STJ), na qual esta relatoria conheceu parcialmente do seu recurso especial para, nessa extensão, negar-lhe provimento.
+Em suas razões recursais (fls. 864-869, e-STJ), defende o embargante a existência de omissões na decisão unipessoal.
+Impugnação às fls. 873-876 (e-STJ).
+É o breve relatório. Decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo apenas cabíveis nas hipóteses previstas no artigo 1.022 do Código de Processo Civil de 2015, quais sejam, a omissão, a obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ADICIONAL DE QUALIFICAÇÃO. REQUISITOS PARA PERCEPÇÃO. ART. 56, INCISO III, §§ 4 E 5º, DA LEI 11.907/09. AUSÊNCIA DE REGULAMENTAÇÃO. IMPERTINÊNCIA DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. INCAPACIDADE DE INFIRMAR O ARESTO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO NÃO COMBATIDO. SÚMULA 283/STF. SÚMULA 126/STJ. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+3. O acórdão embargado foi categórico ao afirmar que o Tribunal a quo, ao entender pela necessidade de regulamentação da Lei 11.907/2009 para a concessão da Gratificação de Qualificação aos detentores de curso de graduação, não analisou a tese de que a regulamentação da matéria está prevista na LDB - Lei de Diretrizes e Bases da Educação Nacional.
+4. Também não discutiu a instância de origem o preenchimento pelo autor dos requisitos previstos no art. 56, inciso III, §§ 4 e 5º, da Lei 11.907/09 para a concessão da Gratificação de Qualificação, porquanto considerou aquele Tribunal que o pagamento da vantagem estava condicionado à regulamentação pelo Executivo, conforme expresso no § 6º do mesmo dispositivo legal, o que ocorreu apenas em fevereiro de 2013.
+5. Os artigos de lei apontados como violados são considerados impertinentes quando não possuem comandos legais suficientes para afastar a tese adotada no acórdão regional.
+6. Não foi rebatido (Súmula 283/STF), tampouco impugnado por meio de recurso extraordinário (Súmula 126/STJ), o fundamento da Corte de origem, no sentido de que o poder regulamentar "trata-se de verdadeira prerrogativa da Administração Pública a definição desses critérios, e o Poder Judiciário não pode vir substituir a vontade da Administração. Assim, a sentença vergastada, ao fazê-lo, de fato viola a separação de Poderes." (fl. 292, e-STJ).
+Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no REsp 1589590/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/08/2016, DJe 23/08/2016).
+Na hipótese dos autos, o insurgente alega que a decisão monocrática foi omissa quanto aos seguintes pontos recursais: i) alternatividade do pedido de ressarcimento do IPTU; ii) ilegitimidade ativa do condomínio; iii) ausência do interesse de agir do condomínio; e iv) que o Tribunal local já elevou os honorários advocatícios ao patamar máximo de 20% (vinte por cento) sobre o valor atualizado da causa, o que impede nova majoração.
+Com relação às alegadas omissões i, ii e iii, sem razão o insurgente, pois a decisão embargada trouxe manifestação satisfatória sobre tais argumentos recursais.
+Veja-se às fls. 860-861 (e-STJ):
+No mérito, esta Corte Superior entende que o condomínio tem legitimidade ativa e interesse para propor a ação de usucapião de área comum.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE USUCAPIÃO ORDINÁRIO. CONDOMÍNIO. POSSIBILIDADE DE USUCAPIR ÁREA COMUM. POSSE EXCLUSIVA SOBRE O BEM POR MAIS DE DEZ ANOS. COMPROVAÇÃO. REQUISITOS PREENCHIDOS. OFENSA AOS ARTS. 458 E 535 DO CPC/1973. INOCORRÊNCIA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no AREsp 750.322/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/10/2017, DJe 06/11/2017).
+Por fim, sem razão o recorrente quando defende a alternatividade do pedido de ressarcimento do IPTU. Da forma como o pedido foi formulado não se pode concluir que seja alternativo ou subsidiário.
+Veja-se à fl. 5 (e-STJ):
+Ante o exposto, requer a Vossa Excelência se digne em ordenar a citação do réu, no endereço constante do exórdio, para querendo, responder aos termos da presente ação reivindicatória, no prazo legal, sob pena de confissão e revelia, acompanhando-a em todos os seus termos e atos, até final sentença, quando então será a mesma julgada procedente, condenando-se o requerido a restituir a área ocupada (  /- 65 m2), bem como, a pagar os valores correspondentes aos alugueres do periodo de 3 anos e o IPTU pela ocupação indevida da área desde 1990, cujo quantum será apurado em liquidação de sentença, acrescido de juros, correção monetária, custas e verba honorária no percentual a ser arbitrado por este juizo sobre o valor da condenação, e demais cominações de direito.
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Já com relação à omissão apontada no item iv, com razão o embargante. De fato, não se observou que a Corte estadual já havia majorado os honorários advocatícios ao percentual de 20% (vinte por cento) sobre o valor atualizado da causa.
+Diante do exposto, acolho parcialmente os embargos de declaração para excluir do dispositivo da decisão embargada a majoração dos honorários advocatícios.
+Publique-se.
