@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão proferido pelo TJES assim ementado (e-STJ fl. 202):
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - PRAZO PARA INTERPOSIÇÃO - CIÊNCIA INEQUÍVOCA DA AÇÃO EXECUTIVA E DOS ÔNUS QUE RECAIAM SOBRE O IMÓVEL - INTEMPESTIVIDADE.
+1. A contagem do prazo de cinco dias para o oferecimento de embargos por terceiro que não participou do processo de execução tem inicio a partir da ciência inequívoca da ocorrência da agressão à sua posse, ou seja, do conhecimento da constrição judicial havida sobre o bem que lhe pertence. Interpretação extensiva ao art. 1.048 do CPC. Jurisprudência do STJ e dos tribunais pátrios.
+2. No caso, datando de 12.07.1999 a ciência inequívoca da parte quanto ao registro da hipoteca e da penhora do bem litigado, bem como à existência da ação executiva, revela-se extemporânea a interposição dos presentes embargos de terceiro em 15.08.2000, restando não atendido o pressuposto processual extrínseco da tempestividade, circunstância hábil a obstar o processamento do presente feito.
+3. Não há como admitir que, mesmo ciente do ato judicial de constrição, o terceiro tivesse a faculdade de se manter inerte até o momento da arrematação, adjudicação ou remição, para então se insurgir contra a penhora.
+4. Recurso provido. Processo extinto sem resolução de mérito.
+Os embargos de declaração de fls. 233/246 (e-STJ) não foram conhecidos pelo acórdão de fls. 280/292 (e-STJ), por intempestividade.
+Os aclaratórios de fls. 294/296 (e-STJ) foram rejeitados pelo aresto de fls. 317/322 (e-STJ).
+Em suas razões (e-STJ fls. 325/345), o recorrente alega, além de dissídio jurisprudencial, ofensa aos arts. 219 e 1.022 do CPC/2015. Argumenta que, como o "V. Acórdão de fls. 164 foi publicada em 21 de março de 2.016, o prazo para apresentação de qualquer recurso será contado em dias úteis, (..) sendo os embargos de declaração de fls. 180/193 (..) plenamente tempestivos" (e-STJ fl. 330).
+Sustentou, ainda, contrariedade aos arts. 675 do CPC/2015 (art. 1.048 do CPC/1973) e 1º, parágrafo único, da Lei n. 8.009/1990. Defendeu que os embargos de terceiro seriam tempestivos, pois "o auto de adjudicação acostado às fls. 229, foi assinada em data de 28 de maio de 2.012, enquanto os embargos de terceiros foram interpostos em 15 de agosto de 2.000, ou seja, quase 13 (treze) anos antes da assinatura do referido auto de adjudicação" (e-STJ fl. 331).
+Foram apresentadas contrarrazões (e-STJ fls. 351/355).
+É o relatório.
+Decido.
+O recurso especial não deve ser conhecido.
+Inicialmente observo que, de fato, a jurisprudência do STJ entende que "o marco temporal para aplicação do Código de Processo Civil de 2015 é a data da publicação da decisão recorrida" (AgInt nos EDcl no AREsp n. 810.784/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/11/2017, DJe 20/11/2017). Confira-se a ementa do referido julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. INTERPOSIÇÃO SOB A VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 1973. INSUFICIÊNCIA DO PREPARO. INTIMAÇÃO PARA COMPLEMENTAÇÃO. PORTE DE REMESSA E DE RETORNO. RECOLHIMENTO COM VALOR INFERIOR. REABERTURA DE PRAZO. NÃO CABIMENTO. LITIGÂNCIA DE MÁ-FÉ. APRESENTAÇÃO DE RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. INTUITO PROTELATÓRIO NÃO EVIDENCIADO.
+1. O marco temporal para aplicação do Código de Processo Civil de 2015 é a data da publicação da decisão recorrida, que, no presente caso, foi realizada sob a égide do Código de Processo Civil de 1973 (Enunciado Administrativo nº 2/2016 - STJ).
+2. A Corte Especial do Superior Tribunal de Justiça, segundo interpretação do § 2º do artigo 511 do Código de Processo Civil de 1973, firmou orientação no sentido de admitir a "complementação do preparo" na hipótese de preparo insuficiente, em sua concepção ampla, quando ocorrer o recolhimento apenas das custas, do porte de remessa e retorno ou outra taxa recursal, facultando à parte recorrente suprir a insuficiência no valor do preparo.
+3. Não é cabível a reabertura de prazo para complementar o valor das custas, se foi concedido prazo para regularizar o preparo e a ordem judicial não foi atendida. Precedentes.
+4. Não configura litigância de má-fé a apresentação de recurso legalmente previsto no ordenamento jurídico e quando não ficar evidenciado o intuito protelatório da insurgência.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 810.784/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/11/2017, DJe 20/11/2017.)
+Também nesse sentido, o seguinte precedente da Corte Especial:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MÉRITO RECURSAL NÃO DEBATIDO NO ACÓRDÃO IMPUGNADO. EMBARGOS DE DIVERGÊNCIA INADMISSÍVEIS. INCIDÊNCIA DO ENTENDIMENTO SEDIMENTADO NA SÚMULA N. 315 DO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO INEXISTENTE.
+I - Se no julgamento do AREsp não há exame da matéria de fundo pelo Superior Tribunal de Justiça, incide o entendimento sedimentado no enunciado n. 315 da Súmula do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+II - Segundo decidido pelo Plenário desta Corte, na sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, portanto, o Código de Processo Civil de 1973 quanto ao recurso especial interposto. Assim, diante do enunciado administrativo n. 2 do STJ, é inaplicável o disposto no art. 76 do Código de Processo Civil de 2015.
+III - Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+IV - Na forma da jurisprudência, o exercício regular do direito constitucional de recorrer não enseja condenação do ora agravante às penalidades por litigância de má-fé e multa, na forma dos arts. 79 e 80, VII, do CPC/2015. Precedentes do STJ (AgInt no AgRg nos EREsp 1.433.658/SP, Rel. Ministro Jorge Mussi, Corte Especial, DJe de 25/11/2016). Descabimento, no caso, de aplicação dos arts. 79 e 80, VII, do CPC/2015.
+V - Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp 155.081/SC, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 18/10/2017, DJe 27/10/2017.)
+Portanto, está equivocado o entendimento do Tribunal de origem no sentido de que: (i) a contagem dos prazos deveria se dar de acordo com o CPC/1973, porque "a sessão de julgamento em que consolidado o deslinde do apelo ocorrera em 08/03/2013" (e-STJ fl. 286) e (ii) muito embora a veiculação do respectivo acórdão tenha ocorrido em 18/3/2016, este ato " apenas se prestara a demarcar o início da fluência do prazo para exercer o direito de recorrer" (e-STJ fl. 287).
+No entanto, ainda assim, os aclaratórios de fls. 233/246 (e-STJ) são intempestivos.
+Conforme certidão de fl. 231 (e-STJ), o acórdão recorrido foi disponibilizado no DJe do dia 18/3/2016 (sexta-feira) (e-STJ fl. 231), considerando-se publicado no dia 21/3/2016 (segunda-feira) - já na vigência do CPC/2015.
+Dessa maneira, o prazo para a interposição de recurso deve ser contado em dias úteis, nos termos do art. 219 do CPC/2015.
+Sendo assim, o prazo recursal iniciou no dia 22/3/2016 (terça-feira) e terminou no dia 28/3/2016 (segunda-feira), afigurando-se intempestivos os aclaratórios opostos no dia 30/3/2016 (quarta-feira) (e-STJ fl. 233), fora do prazo previsto no art. 1.022 do CPC/2015.
+Ressalte-se que a jurisprudência desta Corte é firme ao entender que os embargos de declaração, nesse caso, não interrompem o prazo para a interposição de outros recursos. A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PLEITO PARA POSTERIOR JUNTADA DE SUBSTABELECIMENTO. INADMISSIBILIDADE. SÚMULA N. 115/STJ.ART. 37, DO CPC, INAPLICABILIDADE NA INSTÂNCIA SUPERIOR. ANTERIORES EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS. NÃO INTERRUPÇÃO DO PRAZO.INTEMPESTIVIDADE.
+1. O STJ firmou entendimento de que a regra inserta no art. 37, do CPC é inaplicável na instância superior, sendo incabível posterior juntada de substabelecimento ou qualquer diligência para suprir falta de procuração. Incidência da Súmula n. 115/STJ.
+2. A oposição dos embargos de declaração interrompe o prazo para interposição de outros recursos (art. 538, do CPC). Todavia, nos casos em que não são conhecidos por intempestividade, tal não ocorre, uma vez que o prazo recursal fluiu normalmente, operando-se a preclusão do direito de recorrer e, por conseguinte, o trânsito em julgado do decisum embargado.
+3. Embargos declaratórios não-conhecidos.
+(EDcl nos EDcl nos EDcl no AgRg nos EREsp 710346/RJ, Relator Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 18/12/2009, DJe 08/02/2010)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTEMPESTIVO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS POR INTEMPESTIVIDADE NÃO INTERROMPEM O PRAZO PARA INTERPOSIÇÃO DOS DEMAIS RECURSOS. INOBSERVÂNCIA DO PRAZO PREVISTO NO ART. 545 DO CPC. EMBARGOS DE DECLARAÇÃO INTEMPESTIVOS NÃO INTERROMPEM O PRAZO RECURSAL.
+1. Embargos de declaração anteriormente opostos em descumprimento ao prazo previsto para juntada da versão original da petição apresentada por fax. Infringência do preceito do art. 2º da Lei 9.800/1999.
+2. Existência de protocolo realizado pelo Tribunal de origem. Mesmo com o cancelamento da Súmula 256 deste Tribunal, "a sistemática protocolar unificada foge ao alcance quanto à interposição ou oposição dos declaratórios, regimentais ou quando se pretenda abrir divergência contra decisões proferidas diretamente pelos Tribunais Superiores, onde se deve respeitar o protocolo interno de cada Corte" (AgRg no Ag 1006224/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 03/11/2009, DJe 16/11/2009).
+3. Os embargos de declaração, quando não conhecidos por intempestividade, não interrompem o prazo para a interposição de qualquer outro recurso. Precedentes.
+4. Intempestivo o presente recurso, apresentado quando findo o prazo de 5 (dias) dias previsto no art. 545 do Código de Processo Civil.
+5. Interposição de recurso manifestamente inadmissível a ensejar a aplicação da multa prevista no artigo 557, § 2º do Código de Processo Civil.
+6. Agravo regimental não conhecido.
+(AgRg nos EDcl no Ag 1396849/RS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2012, DJe 27/02/2012).
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a Gratuidade da Justiça na origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
