@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. EXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. REVISÃO. IMPOSSIBILIDADE. PRETENSÃO DE REEXAME DE PROVA. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+
+DECISÃO
+Trata-se de recurso especial interposto pelo [NOME] E PREVIDENCIA S/A com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 324):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA.
+Considerando que o direito vindicado na inicial não está comprovado de plano, demandando a realização de instrução probatória, correta a sentença que denegou a segurança, sem exame do mérito, e remeteu a discussão à via ordinária.
+Os embargos de declaração foram rejeitados.
+No apelo especial, a parte recorrente alega, preliminarmente, violação do art. 535, II, do CPC/1973, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+Quanto ao juízo de reforma, aduz violação dos arts. 1º e 10 da Lei 12.016/2009 e 321 do CPC/2015. Para tanto, sustenta (i) que "evidenciou sua natureza jurídica, de modo que, enquanto contribuinte da COFINS, não desafiaria a questão da majoração da alíquota se não tivesse a natureza jurídica de sociedade empresária que tem por objeto atividades de seguros de pessoas e previdência complementar aberta, conforme Estatuto Social anexado à petição inicial como prova pré-constituída" (fl. 373) e (ii) a "inconstitucionalidade do artigo 18 da Lei nº 10.684/2003, tendo em vista que a eleição de setores, da forma como feita pelo legislador, afronta o comando constitucional do §9º do artigo 195 da Constituição Federal que, interpretado adequadamente, permite apenas a majoração de alíquotas de setores que igualmente gerem maiores despesas para a seguridade social, pela aplicação do princípio da equidade no custeio da previdência social e da isonomia em matéria tributária" (fl. 389).
+Contrarrazões às fls. 407-408
+Juízo de admissibilidade á fl. 386.
+O Ministério Público Federal, às fls. 466-468, manifestou-se pelo não conhecimento dorecurso.
+É o relatório. Passo a decidir.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a revisão do que foi decidido pelas instâncias ordinárias acerca dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo, não é adequado em sede de recurso especial, por força do óbice da Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO. DOMÍNIO PÚBLICO. TERRENO DA MARINHA. MANDADO DE SEGURANÇA. EXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. REVISÃO. IMPOSSIBILIDADE. PRETENSÃO DE REEXAME DE PROVA. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - Havendo o Tribunal de origem, com base no acervo fático-probatório dos autos, concluído pela existência de prova pré-constituída do direito líquido e certo a ser protegido por meio de mandado de segurança, a inversão do julgado implicaria, necessariamente, o reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ. Precedentes: REsp 1.660.683/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2017, DJe 20/6/2017 e AgInt no AREsp 902.897/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/3/2017, DJe 3/4/2017.
+II - Agravo interno improvido.
+(AgInt no AREsp 963.360/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 06/03/2018, DJe 12/03/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 1º DA LEI 1.533/51. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. DIREITO LÍQUIDO E CERTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 29/06/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Na origem, trata-se de Mandado de Segurança impetrado contra ato do Diretor do Departamento de Estradas de Rodagem do Estado de Pernambuco. Segundo consta da sentença, "o pedido tem por objeto anular os efeitos do Ofício 104/00 e da Portaria 246 de 08.08.00, ambos do DER-PE. Conforme a inicial, as referidas normas baixadas pela impetrada, proíbem a utilização de Terminal Particular, ou sala VIP, na sede da impetrante, obrigando o embarque e desembarque de passageiros no Terminal Rodoviário Antônio Farias, ao proibir que seus ônibus entrem no TAF, já com passageiros".
+III. Não tendo o acórdão hostilizado expendido qualquer juízo de valor sobre o art. 1º da Lei 1.533/51, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 211/STJ, na espécie.
+IV. Ademais, "a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que é incabível, em Recurso Especial, o exame acerca da presença ou não dos pressupostos autorizadores da impetração do Mandado de Segurança, referentes ao direito líquido e certo e ao reexame da eventual desnecessidade de realização de dilação probatória. Incide, na espécie, a Súmula 7 deste Tribunal" (STJ, REsp 1.660.683/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/06/2017).
+ ..
+VI. Agravo interno improvido.
+(AgInt no AREsp 936.148/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2017, DJe 28/11/2017)
+Na espécie, o Tribunal a quo decidiu que o direito vindicado não está comprovado de plano, demandando a realização de instrução probatória. A propósito confira-se o seguinte excerto do voto condutor do acórdão recorrido (fl. 322):
+Assim, a definição relativa às atividades desenvolvidas pela impetrante é de fundamental importância para o deslinde do feito, vez que a causa de pedir construída na petição inicial pretende distingui-la das sociedades corretoras para afastar a majoração prevista no artigo 18 da Lei nº 10.684/03.
+Nos autos, há apenas o contrato social da empresa, no qual consta que "a companhia tem por objeto atividades de seguros de pessoas e previdência complementar aberta, podendo, ainda, participar como sócia ou acionista de outras sociedades." Trata-se de expressão bastante vaga, que não permite aferir com certeza o objeto social da empresa.
+Dito isso, verifico óbice formal para a apreciação do mérito da demanda, considerando que a controvérsia instaurada acerca da natureza das atividades desenvolvidas pela impetrante demandaria instrução probatória, o que é vedado em mandado de segurança.
+Vale dizer, o mandado de segurança é garantia constitucional posta ao cidadão para que se defenda de lesão ou ameaça de lesão (art.5º, XXV da CF) praticada por autoridade pública, ou por quem lhe faça as vezes, em virtude de ilegalidade ou abuso de poder (art.5º, LXIX da CF). Atualmente, está inteiramente regulamentado pela Lei 12.016/2009
+Ante o exposto, não conheço do recurso especial.
+Incabível a aplicação do artigo 85, § 11, do CPC/2015 à hipótese, tendo em vista que não foram fixados honorários advocatícios nas instâncias ordinárias.
+Publique-se. Intimem-se.
