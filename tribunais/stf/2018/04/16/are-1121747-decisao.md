@@ -1,0 +1,13 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO – MANDADO DE SEGURANÇA – ITBI – Integralização do capital social pela transmissão de bem imóvel – Inexigibilidade fundada no art. 156, §2º, da Constituição Federal – Objeto social não vinculado à aquisição, locação ou arrendamento de bens imóveis – Sentença reformada – Recurso provido”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 146, II, e 156, § 2º, I, da Carta. Sustenta que não restou provado que a atividade preponderante da recorrida não é a venda ou locação de propriedade imobiliária, e que esse ônus cabe à recorrida, porquanto a imunidade não é automática, dependendo do preenchimento dos requisitos legais
+    A decisão agravada negou seguimento ao recurso sob o fundamento de que incide a vedação da Súmula 279/STF.
+    A pretensão recursal não merece prosperar, tendo em vista que a parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. Tal como redigida, a preliminar de repercussão geral apresentada poderia ser aplicada a qualquer recurso, independentemente das especificidades do caso concreto, o que, de forma inequívoca, não atende ao disposto no art. 543-A, § 2º, do CPC.
+    Como já registrado por este Tribunal, a simples descrição do instituto da repercussão geral não é suficiente para desincumbir a parte recorrente do ônus processual de demonstrar de forma fundamentada porque a questão específica apresentada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico e ultrapassaria o mero interesse subjetivo da causa (RE 596.579-AgR, Rel. Min. Ricardo Lewandowski).
+    Ademais, para dissentir das conclusões adotadas pelo Tribunal de origem sobre a natureza da atividade realizada pela parte recorrente e, consequentemente, sobre a imunidade do tributo incidente no caso, demandaria tão somente o reexame do conjunto fático e probatório, providência vedada em sede de recurso extraordinário. No mesmo sentido: ARE 1081651 AgR / SP, Rel. Min. Gilmar Mendes, ARE 896106 AgR / RJ, Rel. Min. Rosa Weber.
+    Diante do exposto, com base no art. 932, III, do CPC/2015 e no art. 21, § 1º, do RI/STF, não conheço do recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é cabível, na hipótese, condenação em honorários advocatícios (art. 25, Lei nº 12.016/2009 e Súmula 512/STF).
+    Publique-se.
+          Brasília, 16 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
