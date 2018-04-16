@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, com a seguinte ementa:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR. ADICIONAL DE GESTÃO EDUCACIONAL – AGE. INCLUSÃO NA BASE DE CÁLCULO. ‘QUINTOS’. VPNI. IMPOSSIBILIDADE. RESTITUIÇÃO AO ERÁRIO. BOA-FÉ NO RECEBIMENTO. IMPOSSIBILIDADE. VERB A ALIMENTAR.
+    1. O atual entendimento jurisprudencial do Superior Tribunal de Justiça é no sentido de que o Adicional de Gestão Educacional (AGE), instituído pela Lei 9.640/98, não pode servir de base de cálculo para incorporação de quintos, os quais foram transformados em Vantagem Pessoal Nominalmente Identificada (VPNI), por força do § 1º do art. 15 da Lei 8.527/97, e só sofrem alteração no seu valor em decorrência da revisão geral da remuneração dos servidores públicos.
+    2. Incabível a restituição ao erário dos valores em decorrência da errônea interpretação ou má aplicação da lei pela Administração Pública, quando constatada a boa-fé do beneficiado.”
+    O recurso extraordinário busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação ao arts. 5º, XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso pelos seguintes fundamentos: (i) existência e ofensa reflexa à Constituição; (ii) incidem, no caso, as Súmulas 282 e 356/STF.
+    O recurso não deve ser provido, tendo em vista que não discute matéria constitucional. Com efeito, para divergir do entendimento do Tribunal de origem acerca das parcelas que compõem a base de cálculo da vantagem pleiteada, seria necessária a análise das normas infraconstitucionais aplicadas à espécie. Incide, no caso, a jurisprudência do Supremo Tribunal Federal que afasta o cabimento de recurso extraordinário para o questionamento de alegadas violações à legislação infraconstitucional, sem que se discuta o seu sentido à luz da Constituição. Nessa linha, veja-se o AI 725.112-AgR, julgado sob a relatoria da Ministra Cármen Lúcia:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. SERVIDOR PÚBLICO: INCORPORAÇÃO DE QUINTOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    No mesmo sentido, vejam-se: AI 846.521, Relª. Minª. Cármen Lúcia; AI 738.758, Rel. Min. Luiz Fux; RE 628.655, Relª. Minª. Rosa Weber.
+    A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, para o cabimento do recurso interposto com base na alínea b do inciso III do art. 102 da Constituição Federal, seria imprescindível a existência de declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do Tribunal, o que não ocorreu no presente caso. Nessa linha, vejam-se o ARE 701.883 AgR, Rel. Min. Celso de Mello; e o AI 821.963, Relª. Minª. Cármen Lúcia.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+                Brasília, 16 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
