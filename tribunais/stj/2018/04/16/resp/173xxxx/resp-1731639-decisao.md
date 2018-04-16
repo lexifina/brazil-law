@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] DOS [NOME] [NOME], fundamentado nas alínea "a" do inciso III do artigo 105 da Constituição da República, contra acórdão proferido pela Terceira Câmara Criminal do Tribunal de Justiça do Estado de Minas Gerais, que negou provimento à apelação defensiva para manter sua condenação às penas de 2 (dois) anos e 8 (oito) meses de reclusão, em regime inicial aberto, e pagamento de 13 (treze) dias-multa, pela prática do crime descrito no artigo 155, § 1º e § 4º, I, do Código Penal, convertida a pena privativa de liberdade em duas restritivas de direitos, consistentes no pagamento de 1 (um) salário mínimo e prestação de 1 (uma) hora de serviço por dia de pena, limitadas à 8 horas semanais, a entidade do terceiro setor a ser indicada pelo Juiz da Execução Penal.
+O recorrente defende, em resumo, violação do artigo 158 do Código de Processo Penal, porquanto foi reconhecida a presença da qualificadora de rompimento de obstáculo do crime de furto, sem que houvesse, contudo, a elaboração de laudo pericial para comprovar a materialidade da referida circunstância.
+Requer, ao final, o provimento do recurso especial para que seja afastada a qualificadora do crime.
+Contrarrazoado o recurso (fls. 232/238), após o juízo prévio de admissibilidade (fls. 240/241), os autos ascenderam a este Superior Tribunal de Justiça.
+Instada a se manifestar, a Procuradoria-Geral da República, na condição de fiscal da lei, ofertou parecer pelo não conhecimento do apelo especial (fls. 252/257).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca do tema trazido à discussão no apelo nobre, assim restou assentado pela Câmara julgadora:
+Melhor sorte não socorre à douta defesa quanto ao pleito de decote da qualificadora do arrombamento, pois, como visto linhas acima, a prova oral é uníssona no sentido de que o apelante arrombou a janela da fazenda, não havendo dúvidas a esse respeito. Assim, no caso em análise, a ausência do laudo pericial não ilide o reconhecimento da qualificadora do arrombamento, vez que comprovada pela prova oral coligida.
+Frise-se que, desde a fase de inquérito, foi imputada ao apelante a conduta do arrombamento da janela que constou inclusive do histórico do boletim de ocorrência ("foi constatado que a janela da sala do imóvel havia sido danificada/quebrada" - f. 04v.) e a douta defesa não produziu qualquer prova capaz de ilidi-la.
+Destarte, deve ser mantida a condenação de [NOME] pelo crime do artigo 155, § 1º e § 4º, I, do Código Penal. (fl. 215)
+Verifica-se, pois, que a Colegiado de origem entendeu ser suficiente a prova testemunhal para o reconhecimento da qualificadora de rompimento de obstáculo para o crime de furto, independentemente da existência de vestígios.
+Sobre o assunto, este Superior Tribunal de Justiça possui jurisprudência dominante no sentido de ser imprescindível a elaboração de exame de corpo de delito, direito ou indireto, para o reconhecimento judicial da presença de circunstância qualificadora do crime de furto relativa ao rompimento de obstáculo, salvo quando impossível sua elaboração, ante a inexistência ou desaparecimento dos vestígios, hipótese em que a prova testemunhal poderá ser considerada suficiente.
+A título exemplificativo, confiram-se os seguintes julgados de ambas as Turmas integrantes da Terceira Seção deste Tribunal:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO MEDIANTE ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. DESAPARECIMENTO DOS VESTÍGIOS. COMPROVAÇÃO POR PROVAS TESTEMUNHAIS. POSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior encontra-se orientada no sentido da imprescindibilidade da realização de perícia a fim de caracterizar a circunstância qualificadora do crime de furto, sendo possível que a perícia seja suprida pela prova testemunhal quando houverem desaparecidos os vestígios, nos termos dos arts. 158 e 167, ambos do Código de Processo Penal.
+Agravo regimental desprovido.
+(AgRg no REsp 1.644.981/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/05/2017, DJe 24/05/2017)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO PELA ESCALADA E PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL.
+IMPRESCINDIBILIDADE. AFASTAMENTO DAS QUALIFICADORAS.
+1. Este Tribunal Superior firmou orientação de ser imprescindível, nos termos dos artigos 158 e 167 do CPP, a realização de exame pericial para o reconhecimento das qualificadoras de escalada e arrombamento no caso do delito de furto (art. 155, § 4º, II, do CP), quando os vestígios não tiverem desaparecido e puderem ser constatados pelos peritos. Precedentes.
+2. No caso dos autos, não consta do acórdão recorrido fundamentos aptos a justificar a ausência do exame técnico, razão pela qual as mencionadas qualificadoras devem ser afastadas.
+3. Agravo regimental a que se nega provimento.
+(AgInt no REsp 1.602.259/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 01/12/2017)
+Dessarte, constata-se que a Câmara julgadora, ao reconhecer a presença da qualificadora com base apenas em prova testemunhal, mesmo diante da possibilidade de elaboração do laudo pericial, dissentiu da jurisprudência desta Corte Superior de Justiça.
+Desse forma, afasta-se a qualificadora prevista no artigo 155, § 4º, I, do Código Penal, relativa ao rompimento de obstáculo, desclassificando-se a conduta para furto simples, sendo necessário, portanto, o redimensionamento da reprimenda corporal.
+Assim, mantidos todos os demais aspectos da dosimetria levada a efeito pelo Juízo de primeiro grau, torna-se definitiva a pena privativa de liberdade em 1 (um) ano e 4 (quatro) meses de reclusão.
+Ante o exposto, com fundamento no artigo 255, § 4º, inciso III, do Regimento Interno do Superior Tribunal de Justiça, dá-se provimento ao recurso especial para desclassificar a conduta da recorrente para furto simples, redimensionando a sanção corporal nos termos acima.
+Publique-se. Intimem-se.
