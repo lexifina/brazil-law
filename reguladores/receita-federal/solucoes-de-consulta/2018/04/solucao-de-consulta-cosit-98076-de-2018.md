@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 98076, de 23 de março de 2018
+ASSUNTO: Classificação de Mercadorias EMENTA: Código NCM: 9031.80.99 Mercadoria: Aparelho para medir a tensão aplicada à lâmina da serra de fita, com indicador de precisão que disponibiliza leitura direta em PSI, utilizado principalmente em ambientes industriais, com 14,605 cm de comprimento, 12,065 cm de largura e 6,35 cm de altura, denominado comercialmente “tensômetro”. DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 90.31), RGI 6 (texto da subposição 9031.80) e RGC 1 (textos do item 9031.80.9 e do subitem 9031.80.99) da NCM constante da TEC, aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto no 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+.
+[arquivo anexo: SC Cosit nº 98.076-2018.pdf]
