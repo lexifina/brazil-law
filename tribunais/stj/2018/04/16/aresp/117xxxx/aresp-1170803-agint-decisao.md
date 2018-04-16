@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interno, interposto por ABAV IMPORTACAO E EXPORTACAO LTDA, contra decisão monocrática, acostada às fls. 491/492, e-STJ, da Presidência desta Corte, que não conheceu do próprio recurso especial, ante a sua intempestividade.
+O apelo extremo, fundamentado no artigo 105, inciso III, "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 391/392, e-STJ):
+CERCEAMENTO DE DEFESA - Julgamento antecipado da lide - Hipótese em que a causa já se encontrava madura para a apreciação de seu mérito, não se admitindo a produção de provas inúteis ou meramente protelatórias - Cerceamento inocorrente - PRELIMINAR AFASTADA.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C INDENIZAÇÃO POR DANOS MORAIS ASSISTÊNCIA JUDICIÁRIA - Pessoa jurídica - Possibilidade excepcional de concessão do benefício por se tratar de sociedade com fins lucrativos - Dispensa do recolhimento das custas recursais RECURSO DA AUTORA PROVIDO, NESTA PARTE.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C INDENIZAÇÃO POR DANOS MORAIS - Duplicata mercantil - Compra e venda de mercadorias Alegação da corré de que existe relação comercial entre as partes, demonstrada por documentos - Argumentação de que a ausência de assinatura de recebimento das mercadorias não pode descaracterizar a existência de relacionamento entre as empresas - Descabimento - Ausência de documentos capazes de demonstrar a efetiva entrega das mercadorias - Danos morais - Reconhecimento - Sentença mantida RECURSO DA CORRÉ, NÃO PROVIDO.
+DANO MORAL - Banco de dados - Inscrição indevida do nome da autora nos cadastros de proteção ao crédito - Dano moral configurado - A fixação do dano moral deve ser ponderada, visando a inibir a repetição da conduta danosa,sem importar enriquecimento sem causa do lesado Manutenção da indenização fixada em primeiro grau - RECURSO DA AUTORA NÃO PROVIDO, NESTA PARTE.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C INDENIZAÇÃO POR DANOS MORAIS - Duplicata mercantil - Compra e venda de mercadorias - Protesto dos títulos por ausência de pagamento - Sentença que reconhece ausência de responsabilidade do Banco réu por ser mero agente de cobrança dos títulos Insurgência da autora - Pretensão de condenação do Banco réu - Descabimento - Endosso mandato - O endossatário de título de crédito por endosso mandato só responde por danos decorrentes de protesto indevido se extrapolar os poderes de mandatário Atuação como simples procurador da mandante - Sentença mantida - RECURSO DA AUTORA NÃO PROVIDO, NESTA PARTE.
+HONORÁRIOS ADVOCATÍCIOS - Pretensões de redução e majoração das verbas honorárias arbitradas pelo D. Juízo a quo, referentes às condenações da autora e da corré - Cabimento apenas quanto ao pleito reducional - Valor condenatório imposto à autora que se mostra exagerado,considerando-se a complexidade da causa - Quantum fixado à corré que se mostra adequado para remunerar condignamente o bom trabalho desenvolvido pelo patrono da autora - RECURSO DA AUTORA PARCIALMENTE PROVIDO, NESTA PARTE.
+Em suas razões de recurso especial (fls. 407/423, e-STJ), a recorrente indica ofensa aos artigos 186 do CC/02; e 333, I, e 511 do CPC/73. Sustenta, em síntese: i) a gratuidade de justiça foi indevidamente concedida à Recorrida, sendo, portanto, o recurso de apelação deserto; ii) não houve dano moral a indenizar no caso em apreço; e iii) cabe ao autor o ônus probatório do seu direito.
+Contrarrazões às fls. 431/442, e-STJ.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob os seguintes fundamentos: i) não houve demonstração das vulnerações legais suscitadas; e ii) incidência da Súmula 7/STJ.
+Daí o agravo (art. 1042 do NCPC), às fls. 277/296, (e-STJ), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 472/484, e-STJ.
+Em decisão proferida às fls. 491/492, a Ministra Presidente do STJ não conheceu do recurso ante à intempestividade do recurso especial, dando ensejo ao presente agravo interno.
+É o relatório.
+Decido.
+Com efeito, a Corte Especial, no julgamento do AgRg no AREsp 137.141/SE, Rel. Min. Antônio Carlos Ferreira, DJe de 19/9/2012, firmou entendimento, em consonância com a Corte Constitucional, de que a "comprovação da tempestividade do recurso especial, em decorrência de feriado local ou de suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final para sua interposição, pode ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF e do STJ".
+Dessa forma, tendo em vista que a insurgente comprovou, por meio de documentos idôneos, a suspensão do prazo recursal, reconsidero a decisão monocrática anteriormente proferida e passo à análise do agravo.
+A pretensão recursal não merece prosperar.
+1. Inicialmente, no tocante à violação ao arts. 511 do CPC/1973, relacionado à tese de que a apelação é deserta, bem como quanto à alegação de que houve equívoco ao se conceder a gratuidade em sede de recurso adesivo, incide, na espécie, o Enunciado n. 282, da Súmula do STF, ante a ausência de prequestionamento, porquanto o referido dispositivo não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Observa-se, nesse ponto, que a parte recorrente, caso entendesse que o órgão julgador foi omisso quanto às questões alegadas, poderia ter se valido da oposição de embargos de declaração, para forçar o Tribunal de origem a se manifestar sobre os temas omitidos, providência esta, contudo, não adotada pela parte recorrente.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AÇÃO CIVIL PÚBLICA. CUMULAÇÃO DE CONDENAÇÕES. OBRIGAÇÃO DE FAZER E DE INDENIZAR. POSSIBILIDADE. PRECEDENTES. COMODATO VERBAL. OCUPAÇÃO PRECÁRIA. FUNDAMENTOS BASILARES DO ACÓRDÃO RECORRIDO INATACADOS. SÚMULA 283/STF.
+1. Inexistindo, na Corte de origem, efetivo debate sobre a tese jurídica veiculada nas razões do recurso especial, resta descumprido o requisito do prequestionamento, conforme dispõe a Súmula 282/STF.
+(..)
+4. Agravo Regimental a que se nega provimento. (AgRg no AREsp 482.717/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/03/2016, DJe 29/03/2016)
+2. Com efeito, verifica-se que o Tribunal a quo, soberano na análise dos elementos fáticos e probatórios delineados nos autos, concluiu pela inexigibilidade do débito consubstanciado na duplicata mercantil, bem como que, em razão do protesto indevido, houve a caracterização de danos morais, nos seguintes termos (fls. 396/397, e-STJ):
+Inicialmente, quanto às alegações da corre ABAV de que existiu transação comercial entre si e a autora, o conjunto probatório trazido aos autos mostra-se insuficiente à demonstração de tal relação empresarial.
+Em que pesem os esforços argumentativos da corré, não há nos autos qualquer comprovante que possibilite a conclusão inequívoca de que houve a efetiva entrega das mercadorias. Ora, a duplicata é título de crédito de natureza causal, cuja causa debendi é requisito essencial à exigibilidade do título.
+Funda suas alegações na afirmação de que, apesar de inexistir assinatura de recebimento das mercadorias na nota fiscal dos produtos, o documento referente ao conhecimento de transporte (fls. 143) demonstra a existência de relação comercial com a autora e entrega das mercadorias.
+Apesar de tais alegações da corré, não soa crível que tenha ocorrido a entrega das mercadorias sem que fosse exigida qualquer assinatura de recebimento, até mesmo como forma de comprovação, pela transportadora, de que prestou os serviços para os quais foi contratada.
+Portanto, não se desincumbiu, a corré, de seu ônus de demonstrar a existência da causa debendi, o que implica, por conseguinte, na inexigibilidade do título, o qual nem mesmo poderia ter sido levado a protesto.
+Quanto ao pleito recursal de reforma da condenação indenizatória sob a alegação de inexistência de dano moral, a jurisprudência é pacífica no sentido de que em casos de protesto indevido é desnecessária a prova da ocorrência do dano, pois ele se presume:
+(..)
+Portanto, encontrando-se o aresto de origem em sintonia à jurisprudência consolidada nesta Corte, a Súmula 83 do STJ serve de óbice ao processamento do recurso especial.
+Outrossim, o recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos a teor do que dispõe a Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SUMULA 7/STJ. PROTESTO INDEVIDO DE TÍTULO. DANO MORAL IN RE IPSA. PESSOA JURÍDICA. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, constato que a revisão das premissas firmadas pelo Tribunal a quo demandaria reanálise dos fatos discutidos na lide, o que é defeso nesta fase recursal (Súmula 7/STJ) e impede o conhecimento do recurso especial por ambas as alíneas.
+2. "Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica" (REsp n. 1.059.663/MS, Relatora Ministra NANCY ANDRIGHI, DJe 17/12/2008).
+3. Agravo interno não provido.
+(AgInt no AREsp 1132603/RO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/02/2018, DJe 05/03/2018)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROTESTO INDEVIDO DE DUPLICATA. REVISÃO. SÚMULA 7/STJ. DANO MORAL INDENIZÁVEL. COMPROVAÇÃO. DESNECESSIDADE. IN RE IPSA. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. Rever a conclusão do Tribunal estadual de que o protesto foi indevido demandaria o reexame da matéria fática, providência vedada pela Súmula 07/STJ.
+2. Nessas hipóteses de protesto indevido, é desnecessária a comprovação do dano moral indenizável, por se tratar de fato por si só capaz de configurá-lo. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 848.065/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2016, DJe 23/08/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICATAS. PROTESTO. AUSÊNCIA DE COMPROVAÇÃO DA CONTRATAÇÃO E DA ENTREGA DAS MERCADORIAS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal a quo, analisando o acervo fático-probatório dos autos, concluiu que não ficou comprovada a entrega das mercadorias e que a assinatura constante das notas fiscais não tem nenhuma semelhança com a assinatura do autor/agravado, razão pela qual foi reconhecida a inexistência do débito ao qual se referem as duplicatas indicadas na inicial.
+2. Para modificar o que foi decidido pela Corte de origem, seria necessário o revolvimento do conteúdo fático-probatório dos autos, providência incabível no recurso especial, ante o óbice previsto na Súmula 7 desta Corte.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 197.092/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/09/2017, DJe 02/10/2017)
+3. Por fim, não se conhece do agravo interno acostado às fls. 510/524, e-STJ , tendo em vista a violação ao princípio da unirrecorribilidade.
+A propósito:
+EMBARGOS DE DECLARAÇÃO OPOSTOS SOB A ÉGIDE DO CPC/2015. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. OBSCURIDADE, CONTRADIÇÃO, OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. NÃO CABIMENTO. CORREÇÃO DE VÍCIO FORMAL. ENUNCIADO ADMINISTRATIVO N. 5/STJ.
+1. Interpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+ ..  (EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 02/06/2016, DJe 09/06/2016)
+4. Do exposto, dou provimento ao agravo interno para reconsiderar a decisão monocrática de fls. 491/492, e-STJ, e amparado pelo art. 932 do NCPC c/c Súmula 568/STJ, para negar provimento ao agravo.
+Publique-se.
+Intimem-se.
