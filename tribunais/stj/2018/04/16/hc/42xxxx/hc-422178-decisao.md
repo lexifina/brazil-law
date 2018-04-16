@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME] PAULINO, apontando como autoridade coatora a Desembargadora relatora do HC n. 0030449-77.2017.4.01.0000/RO do Tribunal Regional Federal da 1ª Região.
+Consta dos autos que o paciente, advogado, foi preso preventivamente, no âmbito da "Operação Epístola", acusado de participação na organização criminosa liderada por [NOME], o "[NOME]", voltada para a prática de crimes como tráfico de entorpecentes e lavagem de dinheiro.
+Impetrado habeas corpus na Corte regional, pleiteando-se a substituição da segregação por cautelares diversas, o pedido de liminar foi indeferido pela Desembargadora relatora, que não identificou, "em exame provisório, a possibilidade de revogar o decreto prisional em relação a [NOME] DOS [NOME] PAULINO ou substituí-lo por medidas cautelares menos gravosas, porquanto notadamente insuficientes no caso concreto em que a prisão preventiva foi decretada para obstar a atuação de organização criminosa do qual, em tese, faz parte como um dos principais expoentes, bem assim para acautelar a sociedade de reiteração criminosa, considerando inclusive, que o paciente já foi preso em flagrante na posse de grande quantidade de cocaína" (e-STJ fl. 583).
+Alega a defesa que a liminar do habeas corpus foi indeferida na origem em 20 de junho de 2017 e que, até o momento, o mérito ainda não foi julgado, o que configuraria constrangimento ilegal por excesso de prazo.
+Argumenta que "o ato omissivo da Autoridade tida como coatora consiste em que até o presente momento o mérito do Habeas Corpus impetrado pende de julgamento, o que configura inaceitável constrangimento ilegal, haja vista não ser curto o período de pendência da referida Ação perante o órgão julgador, uma vez que a inicial do Mandamus foi distribuída em 20/06/2017, ou seja, a tramitação já perdura por longos CEM DIAS" (e-STJ fl. 3).
+Sustenta que "o ato omissivo apontado causa flagrante prejuízo ao Paciente por violar princípios de envergadura constitucional, principalmente a celeridade e a duração razoável do processo, os quais devem ser aplicados com observação aos princípios da razoabilidade e da proporcionalidade, assegurando que a busca da tutela jurisdicional não se estenda além do prazo razoável, ainda mais quando esta tutela é previsto na CR como Garantia Fundamental" (e-STJ fl. 5).
+Esclarece que "O ESCOPO DO PRESENTE HABEAS CORPUS É DAR EFETIVIDADE AO PRINCÍPIO DE DURAÇÃO RAZOÁVEL DO PROCESSO PARA QUE O MANDAMUS IMPETRADO NA INSTÂNCIA A QUO SEJA JULGADO NUM PERÍODO RAZOÁVEL, ATINGINDO ASSIM SUA DA UTILIDADE" (e-STJ fl. 8).
+Requer, liminarmente, o reconhecimento do direito do paciente de aguardar em liberdade o julgamento do mérito do habeas corpus na origem. No mérito, pede seja determinado ao Tribunal de origem o julgamento imediato do habeas corpus impetrado em benefício do paciente naquela Corte regional.
+A liminar foi indeferida às e-STJ fls. 593/595.
+As informações foram juntadas às e-STJ fls. 600/601, 603/1.266, 1.268/1.351, 1.364/1.370, 1.377/1.384, 1.385/1.392 e 1.396/1.425.
+A defesa peticionou requerendo a reconsideração da decisão que indeferiu a liminar (e-STJ fls. 1.359/1.360).
+O Ministério Público Federal se manifestou pelo não conhecimento ou pela denegação do writ (e-STJ fls. 1.353/1.357).
+É o relatório.
+Consoante informações prestadas pelo Tribunal Regional Federal da 1ª Região, foi expedido alvará de soltura em favor do paciente e julgado prejudicado o habeas corpus originário, objeto da presente impetração (e-STJ fls. 1.402/1.413).
+Sendo assim, a alegação de excesso de prazo para o julgamento do writ na origem perde o sentido, de sorte que o presente remédio constitucional também se encontra prejudicado.
+Ante o exposto, julgo prejudicado o habeas corpus, bem como o pedido de reconsideração de e-STJ fls. 1.359/1.360.
+Publique. Intimem-se.
+Cientifique-se o Ministério Público Federal.
