@@ -1,0 +1,26 @@
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO DE RESCISÃO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS C/C PERDAS E DANOS E MULTA AJUIZADA POR EMPRESA PRESTADORA DE SERVIÇOS CONTRA CONDOMÍNIO TOMADOR DOS SERVIÇOS. LIAME OBRIGACIONAL ENTRE AS PARTES DE NATUREZA EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+DECISÃO
+O Juízo da 4ª Vara do Trabalho de São José dos Campos - SP suscita conflito negativo de competência em relação ao Juízo de Direito da 4ª Vara Cível de São José dos Campos - SP, nos autos da ação de rescisão de contrato cumulada com perdas e danos e multa proposta por Connecta Serviços Gerais S/C Ltda. em desfavor de Condomínio Esplanada Palace.
+Narra a inicial que as partes firmaram contrato de prestação de serviços de limpeza e de portaria, tendo a autora colocado à disposição do réu diversos empregados para desempenhar as respectivas funções, mediante pagamento mensal.
+Ocorre que, em decorrência de ofensas verbais dirigidas pelo zelador do condomínio contra empregados da requerente que lá prestavam os serviços, o que culminou, inclusive, com a elaboração de boletins de ocorrência por assédio moral, decidiu a empresa suspender a continuidade do contrato e ingressar com a referida ação.
+A demanda foi ajuizada, inicialmente, perante o Juízo Cível, que declinou da competência para a Justiça especializada, ao argumento de que "as pretensões da parte, conquanto legalmente fundadas no Direito Comum, dizem respeito a problemas ocorridos no curso de relações de trabalho havidos entre os empregados das partes e consequências diretamente ligadas a essas relações" (e-STJ, fl. 18).
+Por sua vez, ao receber os autos, a Justiça laborista suscitou o presente conflito, à consideração de que "a Justiça do Trabalho não será competente para conhecer de ação quando a relação havida entre as partes for diversa da de trabalho, ou seja, quando a relação for estritamente civil, ainda que se tenha por causa de pedir o desentendimento entre trabalhadores" (e-STJ, fl. 165).
+Brevemente relatado, decido.
+Como é cediço, a competência para o julgamento da causa se define em função da natureza jurídica da questão controvertida, demarcada pelo pedido e pela causa de pedir.
+No caso, verifica-se da inicial que a lide não tem natureza trabalhista, pois, apesar de a matéria discutida envolver problemas de relacionamento entre empregados da autora e do réu, o liame obrigacional estabelecido entre a empresa prestadora de serviços e o condomínio decorre de contrato firmado, exclusivamente, sob a égide do direito civil.
+Logo, estando a pretensão dissociada de qualquer pleito de natureza trabalhista, impõe-se reconhecer a Justiça Comum Estadual como competente para o julgamento da lide.
+Nesse sentido, por analogia:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA DO TRABALHO E JUSTIÇA COMUM ESTADUAL. AÇÃO DE COBRANÇA. ALEGADO INADIMPLEMENTO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS. AUSÊNCIA DE PESSOALIDADE NO CUMPRIMENTO DAS OBRIGAÇÕES. DESCARACTERIZAÇÃO DA RELAÇÃO DE TRABALHO. LIDE DE ÍNDOLE EMINENTEMENTE CIVIL. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Compete à Justiça Comum processar e julgar ação de cobrança decorrente de contrato de prestação de serviços, quando patente a ausência de relação trabalhista.
+2. Na hipótese, o autor da ação de cobrança e prestador dos serviços dispunha, na realização das obrigações contratadas, da assistência de corpo próprio de empregados, o que descarateriza a existência da relação de trabalho, pois ausente ao menos um de seus requisitos, o da pessoalidade.
+3. Conflito conhecido para declarar competente a Justiça Comum Estadual.
+(CC n. 135.775/SP, Relator o Ministro Raul Araújo, Segunda Seção, DJe de 6/5/2016);
+Conflito negativo de competência. Indenização. Contrato de prestação de serviços.
+1. Verifica-se da petição inicial e da causa de pedir que a natureza do pleito não tem índole trabalhista. Os autos tratam de ação de indenização, não estando em discussão qualquer obrigação de índole trabalhista ou de vínculo empregatício, mas, essencialmente, pedido relacionado à indenização decorrente de rescisão de contrato de prestação de serviços, o qual, por si só, não caracteriza relação de trabalho para efeito de definir a competência em favor da Justiça do Trabalho após a Emenda Constitucional nº 45.
+2. Hipótese em que há simples pedido de compensação por ter deixado o autor de ser empregado, passando a ser prestador de serviço. O dano teria ocorrido, então, quando prestador de serviços para a ré, ausente qualquer pedido de índole trabalhista.
+3. Conflito conhecido para declarar competente o Juízo da 2ª Vara Cível de Araçatuba/SP.
+(CC n. 51.937/SP, Relator o Ministro Carlos Alberto Menezes Direito, Segunda Seção, DJe de 19/12/2005).
+Diversa seria a solução, caso a demanda tivesse sido ajuizada diretamente por empregado da empresa prestadora de serviços em desfavor do condomínio, requerendo, em decorrência do mencionado assédio, indenização por danos morais (CC n. 97.458/SP, Relator o Ministro Sidnei Beneti, Segunda Seção, DJe de 29/6/2011).
+Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da 4ª Vara Cível de São José dos Campos - SP, suscitado, encaminhando-se-lhe os autos.
+Comunique-se. Publique-se.
