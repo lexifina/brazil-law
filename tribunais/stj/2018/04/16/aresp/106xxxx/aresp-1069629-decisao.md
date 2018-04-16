@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Naquela decisão, tendo como pano de fundo ação acidentária, foi decidido pelo restabelecimento de auxílio-doença acidentário ao segurado, com termo inicial no dia seguinte à cessação administrativa promovida pela autarquia, ou seja, no dia seguinte a alta médica.
+No recurso especial (fls. 222-225), o recorrente informa que ficou comprovado nos autos que o segurado exerceu atividade laboral após a concessão da alta médica pela autarquia. Desta forma, o restabelecimento do benefício de auxílio-doença acidentário pelo acórdão recorrido, a contar a alta médica, coincide com o período trabalhado. Pugna pela exclusão das parcelas do benefício previdenciária no período trabalhado.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com fundamento no óbice da Súmula 7/STJ.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+A pretensão de fato esbarra na Súmula n. 7/STJ.
+Isso porque o segurado trabalhou no período contestado, mesmo sem ter condição, devido à necessidade de obter condições à sua sobrevivência, colocando em risco ainda mais sua saúde, o que por óbvio não afasta a obrigatoriedade do INSS pagar o benefício que erroneamente não foi concedido no momento adequado, conforme restou consignado às fls. 217-218 do acórdão:
+Sendo assim, nada obstou que o segurado, tendo recebido uma indevida alta médica da autarquia, procurasse alguma atividade laborativa compatível com sua então licitação física.
+Aliás, o segurado não poderia, de qualquer forma, manter o seu sustento e o de sua família após a equivocada cessação administrativa do beneficio sem buscar alguma ocupação que lhe remunerasse, ainda que para tanto tivesse que contrariar a prescrição médica de afastamento do trabalho e repouso.
+A omissão do INSS ao não manter o obreiro afastado em gozo de benefício por incapacidade temporária não pode redundar em seu próprio proveito, como pretende nas razões de seu apelo.
+Ora, rever tal posicionamento para entender que o segurado trabalhou em condições razoáveis de saúde demanda revolvimento fático probatório.
+Nesse sentido, in verbis:
+RECURSO ESPECIAL. PREVIDENCIÁRIO. PROCESSUAL CIVIL. ARTS. 460 DO CPC/1973, 876, 884, 885 do CC/2002, 42, 43, 46, 59, 60, 101 DA LEI 8.213/1991 e 71 DA LEI 8.212/1991 AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ARTS. 462, 741 e 743 DO CPC/1973
+1. Não se conhece de Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+2. É inviável analisar a tese defendida no Recurso Especial de que o período de 23.2.2011 a 31.1.2012, em que a recorrida exerceu atividade laboral após a sentença datada de 9.8.2011, deve ser excluído das prestações vencidas do benefício de aposentadoria por invalidez, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Incidência da Súmula 7/STJ.
+3. Recurso Especial não conhecido.
+(REsp 1645795/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/03/2017, DJe 20/04/2017)
+Além disso, esclareça-se que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Nesse diapasão, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF" (AgRg no REsp 919239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007).
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 983.543/RJ, Rel. Ministro HERMAN BENJAMIN, DJe 5/5/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp 1.597.355/CE, Rel. Ministro FRANCISCO FALCÃO, DJe 10/3/2017).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
