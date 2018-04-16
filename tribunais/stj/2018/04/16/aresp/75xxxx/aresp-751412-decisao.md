@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"AGRAVO INOMINADO. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. DEMOLIÇÃO DE CONSTRUÇÕES ERGUIDAS EM ÁREA PÚBLICA. DISCUSSÃO APENAS QUANTO Á EXISTÊNCIA DE DANOS MATERIAIS INDENIZÁVEIS. NÃO HÁ QUE SE FALAR EM LITISCONSÓRCIO PASSIVO DO MUNICÍPIO, NEM DE SUA DENUNCIAÇÃO Á LIDE. JUÍZO DE PISO COMPETENTE ANTE A INEXISTÊNCIA DE INTERESSE PÚBLICO NA CAUSA. PEDIDO DE ASSISTÊNCIA LITISCONSORCIAL REJEITADO ANTE A AUSÊNCIA DE DEMONSTRAÇÃO DA RELAÇÃO JURÍDICA QUE JUSTIFICARIA A INTERVENÇÃO. AGRAVO INOMINADO A QUE SE NEGA PROVIMENTO." (e-STJ, fl. 40)
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 58/63).
+Nas razões do recurso especial, a parte agravante alega violação do art. 50 do CPC/73, sustentando, em síntese, ser cabível a assistência litisconsorcial no caso diante da existência de interesse jurídico na demanda, uma vez que "além de ser proprietária de diversos lotes que confrontam com a área que foi objeto do pedido de reintegração de posse, é a responsável, conjuntamente com a 2ª ré Matertrade pela administração da área objeto da lide" (e-STJ. fls.71/72).
+Apresentadas contrarrazões às fls. 83/98 (e-STJ).
+É o relatório. Decido.
+Constata-se que conteúdo disposto no art. 50 do CPC/1973 não tem comando normativo apto a infirmar os fundamentos do aresto recorrido, uma vez que o mencionado dispositivo trata do instituto da assistência simples e as razões do recurso especial defendem o cabimento de assistência litisconsorcial. Dessa forma, sendo deficiente a fundamentação recursal, no ponto, incide a Súmula 284 do Supremo Tribunal Federal, do seguinte teor: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+"AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+1. Não se admite recurso especial quanto à alegada violação a dispositivos de lei federal que não contêm comando normativo suficiente para infirmar as conclusões do acórdão recorrido.
+Incidência da Súmula 284/STF. Igualmente, a ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial atrai o óbice da referida súmula. Precedentes.
+2. Não se admite recurso especial por dissídio entre julgados do mesmo Tribunal nos termos da Súmula 13 do STJ. 3. É inviável conhecer o apelo nobre pela divergência, na medida em que apurar a similitude fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido exigiria reexame do material fático-probatório dos autos. Incidência da Súmula 7/STJ. Precedentes.
+4. Agravo interno desprovido."
+(AgInt no Ag 1324730/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/06/2017, DJe 13/06/2017 - grifei)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. SUSPENSÃO DO PROCESSO. ART. 265, § 5º, DO CPC/1973. PREJUDICIALIDADE EXTERNA. INEXISTÊNCIA. IMPOSSIBILIDADE.
+1. Em situações excepcionais, a Terceira Turma do Superior Tribunal de Justiça tem afastado o rigor da norma contida no art. 265, § 5º, do Código de Processo Civil/1973 de modo a permitir a flexibilização do prazo máximo de suspensão do processo enquanto se aguarda o julgamento de outra causa com relação de prejudicialidade.
+2. Inexistindo relação de prejudicialidade externa entre as demandas, não se admite a pretendida suspensão do processo com fundamento no art. 265, IV, "a", do CPC/1973 e, menos ainda, a prorrogação do prazo de suspensão, mesmo que equivocadamente determinada.
+3. Hipótese, ademais, em que o pedido de dilação do prazo de suspensão do processo de execução foi objeto de incontáveis incidentes apresentados na origem, a evidenciar a preclusão da matéria.
+4. Considera-se deficiente a fundamentação recursal quando o dispositivo legal indicado como malferido não possui comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pela parte recorrente. Incidência, por analogia, do óbice contido na Súmula nº 284/STF.
+5. Agravo interno não provido."
+(AgInt no AREsp 1010223/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/06/2017, DJe 28/06/2017 - grifei)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
