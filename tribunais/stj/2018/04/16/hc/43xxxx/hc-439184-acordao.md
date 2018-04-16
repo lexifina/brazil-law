@@ -1,0 +1,33 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. ORDEM CONCEDIDA.
+1. O ora paciente é o único réu no processo criminal objeto desta impetração, está cautelarmente privado de sua liberdade há quase dois anos e ainda não foi concluída a única diligência até então determinada - exame de dependência toxicológica -, a indicar o decurso de um período considerável para que se encerre a instrução probatória.
+2. Ordem concedida para assegurar ao paciente o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, conceder a ordem, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro e Sebastião Reis Júnior votaram com o Sr. Ministro Relator. Ausente, justificadamente, a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WALISON ALVES NOGUEIRA alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2224207-55.2017.8.26.0000.
+Nesta Corte, a defesa sustenta a ausência de motivação idônea para justificar a conversão da prisão em flagrante do acusado, pela suposta prática do crime de tráfico de drogas, em custódia preventiva, bem como o excesso de prazo para o encerramento da instrução criminal.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+Deferida a liminar (fls. 405-407) e prestadas as informações (fls. 416-419), veio o parecer do Ministério Público Federal (fls. 422-426), que opinou pela denegação da ordem.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. ORDEM CONCEDIDA.
+1. O ora paciente é o único réu no processo criminal objeto desta impetração, está cautelarmente privado de sua liberdade há quase dois anos e ainda não foi concluída a única diligência até então determinada - exame de dependência toxicológica -, a indicar o decurso de um período considerável para que se encerre a instrução probatória.
+2. Ordem concedida para assegurar ao paciente o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Primeiramente, saliento que, em relação à validade do decreto prisional, a Sexta Turma desta Corte Superior já entendeu válida a constrição cautelar do acusado nos autos do HC n. 387.360/SP, DJe 19/10/2017.
+Todavia, em relação à alegação de excesso de prazo, melhor sorte assiste ao paciente.
+Consta dos autos que o réu foi preso em flagrante, em 8/7/2016 (há quase dois anos), pela suposta prática do crime previsto no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006. Em 29/4/2017, o Juízo de primeiro grau homologou o auto de prisão em flagrante e decretou a custódia cautelar do acusado. Em 10/8/2016 foi ofertada a denúncia, que foi recebida em 27/1/2017. Nos dias 23/2/2017 e 21/3/2017 foram realizadas audiências de instrução, oportunidade em que foram ouvidas testemunhas de acusação e de defesa. Na segunda audiência foi determinado que se cobrasse da autoridade policial o laudo de exame químico toxicológico, requerido e deferido assim que apresentada a defesa prévia. O feito foi, então, suspenso, e o incidente de avaliação, instaurado e apenso aos autos principais (fls. 361-362).
+Do exame do andamento do Processo n. 0014503-80.2016.8.26.0320, na página eletrônica do TJSP, verificou-se que depois de realizada a última audiência (21/3/2017) e apensado o incidente (12/4/2017), foi proferido despacho, no dia 14/8/2017, que solicitou "providências necessárias" para o encaminhamento dos autos apensos. No dia 2/2/2018 (último andamento antes da determinação de soltura pelo STJ) o prazo foi novamente suspenso até, ao que parece, o dia 18/5/2018.
+As informações prestadas às fls. 416-419 noticiam que os autos se encontram "aguardando que o Perito Judicial designe dia e hora para realização do exame pericial".
+Dentro desse contexto, constato a ocorrência do alegado excesso de prazo, tendo em vista que o paciente está preso cautelarmente desde 8/7/2016 (há quase dois anos), de modo que é de se tributar ao Estado-Juiz a demora no processamento da causa, com perspectiva de ainda se alongar por muitos meses, em razão do aguardo da conclusão do incidente de dependência toxicológica, requerido na oportunidade da defesa prévia.
+Ilustrativamente:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO INSUFICIENTE. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. ORDEM CONCEDIDA.
+ ..
+3. A quantidade de entorpecente apreendida em poder do réu não tem o condão de, isoladamente, indicar a prática habitual do comércio de entorpecentes e, por conseguinte, justificar a sua custódia provisória.
+4. O ora paciente é o único réu no processo criminal objeto desta impetração, está cautelarmente privado de sua liberdade há mais de um ano e ainda não foi concluída a única diligência até então determinada - exame de dependência toxicológica -, a indicar o decurso de um período considerável para que se encerre a instrução probatória.
+5. Ordem concedida para assegurar ao paciente o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
+(HC n. 407.784/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/11/2017)
+Dessa forma, reconheço injustificada e indevida a delonga para o encerramento do feito; é, portanto, manifesta a ilegalidade imposta ao acusado na ação penal que deu origem a esta impetração.
+À vista do exposto, concedo a ordem para, confirmada a liminar deferida, assegurar ao paciente o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP.
