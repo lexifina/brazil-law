@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de petição protocolada por ALEX SOUZA BITTENCOURT, recorrido.
+Verifica-se nos autos que houve desistência da recorrente LIBERTY SEGUROS S/A em relação ao seu agravo em recurso especial (e-STJ fls. 834/859), homologada (e-STJ fl. 862) em decisão transitada em julgado. O recurso prosseguiu em relação à EXPRESSO COLETIVO IÇARENSE LTDA., determinando-se, por decisão monocrática, a devolução dos autos ao TJSC, pois existente tema afetado à Segunda Seção para julgamento segundo o rito dos recursos repetitivos (e-STJ fl. 870).
+Posteriormente, determinou o Tribunal de origem o seu retorno, tendo em vista o cancelamento do tema 925 (e-STJ fls. 876/877).
+Efetivamente, após a decisão monocrática, a Corte especial tornou sem efeito a afetação do recurso especial, com o cancelamento do tema n. 925/STJ.
+ALEX SOUZA BITTENCOURT requer, inicialmente, a análise da petição de fl. 803 (e-STJ), em que renuncia aos juros de mora da lide principal a partir do evento danoso, pedindo que incidam a partir da citação válida. Na oportunidade, destacou que, "por se tratarem de direitos patrimoniais disponíveis, o recorrido expressa sua renúncia à incidência de juros a partir do evento danoso e desde já requer que os juros moratórios incidam a partir da citação válida" (e-STJ fl. 803). Na presente petição confirma sua renúncia.
+A respeito do termo inicial dos juros de mora, na lide principal, verifica-se que o autor foi vítima de acidente em transporte coletivo de passageiros, concluindo o Tribunal de origem que os juros incindiriam a partir do evento danoso. O recurso especial impugna este ponto.
+Ocorre, porém, que o procurador habilitado não tem poderes para renunciar (e-STJ fl. 20), devendo, assim, ser intimado para juntar procuração com poderes específicos.
+Pede o requerente, ainda, que (e-STJ fl. 885):
+2. Considerando a manifestação de fl. e-STJ 867 e a limitação da matéria contida no recurso especial, diante do depósito de valor em dinheiro efetuado para pagamento parcial da condenação pela empresa LIBERTY SEGUROS S/A, conforme guia de fl. e-STJ 859, requer seja expedido alvará judicial para liberação imediata do referido valor em favor do recorrido.
+Nesta instância especial, não há como deferir o requerimento de alvará de levantamento de valores requerido por ALEX, pedido que deve ser dirigido ao juízo de origem, de acordo com o art. 516, II, do CPC/2015, pois o tema encontra-se relacionado ao cumprimento do julgado, na parte relativa à seguradora.
+Diante do exposto, determino a intimação de ALEX SOUZA BITTENCOURT para juntada de procuração concedendo ao seu advogado poder específico para renunciar e indefiro o pedido de alvará de levantamento nesta sede.
+Publique-se e intimem-se.
