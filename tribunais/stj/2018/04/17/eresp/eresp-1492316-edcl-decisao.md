@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CASC ADMINISTRADORA DE SHOPPING CENTERS S.A. contra decisão que indeferiu liminarmente os embargos de divergência porque via inadequada à revisão de acórdão que decide a respeito de alegação de violação do art. 535 do CPC/1973.
+A embargante aduz, em síntese (e-STJ fl. 845):
+Essa Segunda Turma está a afirmar que não há omissão em relação ao reenquadramento dos graus de risco (SAT), mantendo a sentença de primeiro grau e também a decisão do Tribunal pela improcedência da ação, o que sugere que essa Segunda Turma do STJ também concordaria com a inexistência de ilegalidade do reenquadramento promovido por meio do Decreto 6. 957/2009.
+Entretanto, a Primeira Turma deste STJ apresentou decisão contrária, afirmando que o reenquadramento dos graus de risco teria sido, sim, ilegal, conforme se pode verificar novamente na decisão abaixo copiada (e que havia sido apresentada nos Embargos de Divergência):
+ ..
+Logo, a divergência denunciada pela empresa não se dá pela existência ou não de omissão ou de ofensa ao 535 do CPC/73, mas pela existência de decisões contrárias proferidas pelo mesmo STJ: enquanto a Primeira Turma entende ter havido ilegalidade no reenquadramento dos graus de risco (por não ter havido estudo estatístico prévio), essa Segunda Turma estaria decidindo pela inexistência dessa ilegalidade (ainda que não tenha, efetivamente, analisado o mérito).
+Logo, a decisão liminar que indefere os presentes Embargos de Divergência incorre em omissão e em obscuridade.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material, vícios não demonstrados pela embargante e, no caso, inexistentes no acórdão embargado.
+O acórdão da Segunda Turma, objeto dos embargos de divergência, tão somente julgou o recurso quanto à tese de violação do art. 535 do CPC/1973, nada concluindo a respeito da legalidade do reenquadramento dos graus de risco, uma vez que, quanto ao ponto, decidiu: "verifica-se que a discussão referente à legalidade da cobrança da contribuição previdenciária destinada ao custeio do Seguro de Acidente de Trabalho - SAT, nos termos do art. 10 da Lei 10.666/03, permitindo a redução ou majoração da alíquota, com base na aplicação do FAP, foi resolvida pelo Tribunal de origem sob o enfoque do artigo 150, inciso I da Constituição Federal (afronta ao princípio da legalidade), o que impede a sua análise em sede de recurso especial".
+Assim, sendo pacífico o entendimento da inadequação dos embargos de divergência para discutir a tese de violação do art. 535 do CPC/1973 e sendo esta a razão pela qual o recurso foi indeferido, não há os vícios de integração que a embargante considera existir.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
