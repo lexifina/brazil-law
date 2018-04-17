@@ -1,0 +1,27 @@
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. SENTENÇA DECLARATÓRIA. RESTITUIÇÃO OU COMPENSAÇÃO. OPÇÃO DO CONTRIBUINTE A PARTIR DO TRANSITO EM JULGADO. SÚMULA 461/STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado (fl. 752):
+Ação declaratória de inexistência de relação jurídica tributá ria, em fase de cumprimento de senteniça - Indébito tributário - Pretensão de aproveitamento mediante compensação do indébito tributário com outros créditos de 1CMS - Opção pela forma de adimplemento da obrigação dada ao contrÉibuinte-credor - SJJ, súmula 461 - Escolha, entretanto, já manifestada quando da formulação dos pedidos na petição inicial - Decisão liquidanda que não se restringiu à declaração do direito d  contribuinte, expressa mente acolhendo o pedido de restituição dos valores pagos indevidamente, cuja instrumentalização ocorre por meio de precatório requisitório - Irrelevância, outrossim, da classificação dada aos pedidos formulados - Cumulação eventual (subsidiária) ou alternativa, que, na prática, representa a rejeição dos pedidos não acolhidos - Ocorrência, portanto, de trânsito em julgado em relação a essa questão - Coisa julgada material 1- Obstáculo intransponível ao reexame da matéria. Recurso desprovido.
+Os embargos de declaração foram rejeitados, conforme fls. 784-791.
+No apelo especial (e-STJ fls. 851-867), a recorrente alega violação a diversos dispositivos legais e divergência jurisprudencial. Alega que o acórdão do Tribunal de origem ao indeferir o pedido de compensação dos créditos de ICMS reconhecidos por sentença declaratória transitada em julgado contrariou entendimento da Súmula 461/STJ.
+Decisão de admissibilidade à fl. 905.
+Com contrarrazões.
+É o relatório. Decido.
+Na hipótese dos autos, o Tribunal de origem ao indeferir o pedido de compensação dos créditos de ICMS reconhecidos por sentença declaratória transitada em julgado, assim se manifestou (e-STJ fl. 346/347/349):
+ ..
+Isso somente ocorreu, aliás, em virtude de pedido expressamente formulado pela ora agravante na petição inicial (fs. 35-53), e reiterado na apelação cível (fs. 319-334), de que o Estado fosse condenado à devolução dos valores recolhidos indevidamente, através de precatório requisitório, ou por meio de compensação desses valores (f. 52):
+ ..
+(d) julgar totalmente procedente a presente demanda ordinária, condenando a Ré à devolução de todos e quaisquer valores pagos indevidamente ,a título de ICMS incidente sobre os valores pagos corno contraprestação à demanda reservada de energia elétrica, (i) através de precatório requisitório, ou, alternativamente,(ii) reconhecendo o direito da Autora à comnpensação de tais valores, acrescidos, em qualquer das hipóteses, dos juros moratórios e legais, bem como de correção monetária, considerado em ambas as situações o prazo retroativo de 10 (dez) anos para fins de apuração doi crédito, tendo em conta tratar-se de tributo sujeito ao lançamento por homologação;
+ ..
+É preciso notar que nesse caso o direito de opção foi exercido pela parte autora, de forma antecipada, por ocasião da formulação dos pedidos em sua petição inicial, que foram reiterados na apelação cível, de que o indébito tributário fosse adimplido, preferencialmente, pela restituição por meio da expedição de precatório requisitório.
+ ..
+Por outro lado, ainda que se cogite que os pedidos formulados na petição inicial não representam uma cumulação subsidiária de pedidos (em que há uma ordem de preferência dos pedidos), mas, sim, cumulação alternativa de pedidos - conforme indica a agravante em seu pedido de reconsideração -, não há como ser deferida a pretensão recursal.
+5.1. Como ressabido é, na denominada cumulação imprópria subsidiária de pedidos, também conhecida como cumulação eventual, há a reunião de dois ou mais pedidos em uma sequência preferencial.
+5.1.1. Nessa hipótese, o acolhimento do primeiro pedido (dito subordinante), é prejudicial para que o segundo pedido (subordinado) seja decidido. Em contrapartida, rejeitado o primeiro pedido, abre-se a via para análise e decisão sobre o segundo formulado, e assim sucessivamente.
+ ..
+Com efeito, da leitura do excertos acima transcritos, infere-se que o Tribunal de origem indeferiu o pedido de compensação tendo por base que o contribuinte já teria se manifestado pela escolha da restituição na petição inicial, não sendo mais cabível a opção pela compensação.
+Contudo, não há como prosperar tal raciocínio da Corte a quo.
+Esta Corte de Justiça, por diversas vezes, manifestou o entendimento segundo o qual, operado o trânsito em julgado do acórdão que declarou o direito à repetição do indébito, é facultado ao contribuinte manifestar a opção de receber o respectivo crédito por meio de precatório regular ou compensação, eis que constituem, ambas as modalidades, formas de execução do julgado colocadas à disposição da parte quando procedente a ação." (REsp 551184 PR, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 21/10/2003, DJ 01/12/2003, p. 341)
+Ante o exposto, dou provimento ao Recurso Especial para permitir ao contribuinte optar por receber, por meio de precatório ou por compensação, o indébito tributário certificado por sentença declaratória transitada em julgado, nos termos da Súmula 461/STJ.
+Publique-se. Intimem-se.
