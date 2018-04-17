@@ -1,0 +1,42 @@
+EMENTA
+APOSENTADORIA ESPECIAL. ART. 57 DA LEI 8.213/91. NÃO CARACTERIZAÇÃO DE ATIVIDADE ESPECIAL. NÃO OBSERVÂNCIA DOS REQUISITOS LEGAIS PARA A CONCESSÃO DO BENEFÍCIO. NÃO COMPROVAÇÃO. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Se o magistrado conclui desnecessária a realização de perícia, por entender que a constatação da especialidade do labor exercido se faz por meio dos formulários e laudos já fornecidos pela empresa e juntados aos autos, pode indeferí-la, nos termos dos arts. 370, paragráfo único, e 464, § 1º, II, ambos do NCPC, sem que isso implique cerceamento de defesa.
+2. O STJ não é competente para apreciar violação a dispositivos da Constituição Federal.
+3. Não se conhece de Recurso Especial cuja fundamentação seja deficiente. Incidência, por analogia, da Súmula 284/STF.
+4. Não há semelhança entre o paradigma, julgado improcedente por falta de provas, refugindo da equiparação do acórdão do Tribunal onde houve eleição de prova suficiente para indeferir o pedido.
+5. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" , da Constituição da República, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 3ª Região , assim ementado:
+APOSENTADORIA ESPECIAL. ART. 57 DA LEI N.º 8.213/91. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. MATÉRIA PRELIMINAR REJEITADA. AGRAVO RETIDO NÃO CONHECIDO. NÃO CARACTERIZAÇÃO DE ATIVIDADE ESPECIAL. NÃO OBSERVÂNCIA DOS REQUISITOS LEGAIS PARA A CONCESSÃO DO BENEFÍCIO. APELAÇÃO DA PARTE AUTORA IMPROVIDA. SENTENÇA MANTIDA.
+Matéria preliminar rejeitada. Descabe a alegação de cerceamento de defesa, isso porque o juiz é o destinatário da prova, cabendo-lhe indeferir a produção daquelas inúteis em face da existência de dados suficientes para o julgamento da causa, ou determinar, de ofício, a produção de outras que se façam necessárias à formação do seu convencimento. Assim, se o magistrado entende desnecessária a realização de perícia, por entender que a constatação da especialidade do labor exercido se faz por meio dos formulários e laudos já fornecidos pela empresa e juntados aos autos, pode indeferí-la, nos termos dos arts. 370 § único e art. 464, § 1º, II, ambos do NCPC, sem que isso implique cerceamento de defesa.
+Agravo retido não conhecido, uma vez que sua apreciação pelo Tribunal não foi expressamente requerida nas razões de apelação.
+A concessão da aposentadoria especial está condicionada ao preenchimento dos requisitos previstos no artigo 57 da Lei nº 8.213/91.
+A concessão da aposentadoria por tempo de serviço/contribuição está condicionada ao preenchimento dos requisitos previstos nos artigos 52 e 53 da Lei nº 8.213/91 e à carência estabelecida nos artigos 24 e 25, II, do mesmo diploma legal.
+O uso de EPI não descaracteriza a especialidade do labor, nos termos da Súmula n.º 9 da Turma Nacional de Uniformização de Jurisprudência dos Juizados Especiais Federais.
+Não comprovada a especialidade do labor nos períodos pleiteados. Não ficou configurada a exposição habitual e permanente, não ocasional nem intermitente a agentes biológicos, de forma que não se pode enquadrar o período em comento no item 1.3.2, do quadro anexo, do Decreto 53.831/64 e 1.3.2 do Decreto 83.080/79, bem como no item 3.0.1 do Decreto 2.172/97, não podendo, também ser enquadrado segundo a categoria profissional.
+Não comprovado tempo mínimo de 25 anos no exercício da atividade insalubre, pelo que não faz jus à concessão da aposentadoria especial.
+A parte autora não possui o tempo mínimo necessário para a concessão da aposentadoria por tempo de contribuição até a entrada cm vigor da EC 20/98, pelo que deve cumprir os requisitos determinados no art. 9o da EC nº 20/98: idade mínima de 53 anos e 30 anos de contribuição, se homem, e 48 anos de idade e 25 anos de contribuição, se mulher, e, ainda, um período adicional de 40% sobre o tempo faltante quando da data da publicação desta Emenda.
+A parte autora não contava com mais de 53 anos de idade na data do requerimento administrativo, pelo que não faz jus à concessão da aposentadoria por tempo de contribuição.
+Apelação da parte autora improvida.
+Sentença mantida.(fls. 181-202, eSTJ).
+Nas razões do Recurso Especial (fls.205-210, eSTJ) a parte recorrente sustenta, além de divergência jurisprudencial, (REsp 1.415.970 Relª. Min. Nancy Andrighi), ofensa à Constituição, art. 5º, inc. LV, bem como, aos arts. 332 do CPC/73 e 373 , I , NCPC . Alega, em suma, estarem presentes todos os requisitos de admissibilidade do recurso.
+Sem Embargos de Declaração.
+Sem contrarrazões.
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 05.02.2018.
+Insurge-se o recorrente contra acórdão que declarou:
+Descabe a alegação de cerceamento de defesa, isso porque o juiz é o destinatário da prova, cabendo-lhe indeferir a produção daquelas inúteis em face da existência de dados suficientes para o julgamento da causa, ou determinar, de ofício, a produção de outras que se façam necessárias à formação do seu convencimento. Assim, se o magistrado entende desnecessária a realização de perícia, por entender que a constatação da especialidade do labor exercido se faz por meio dos formulários e laudos já fornecidos pela empresa e juntados aos autos, pode indeferí-la, nos termos dos arts. 370 § único e art. 464, § 1º, II, ambos do NCPC, sem que isso implique cerceamento de defesa.(grifei).
+O insurgente requer o reconhecimento do cerceamento de defesa e a nulidade do acórdão, por ofensa aos artigos 5º, inciso LV, da Constituição da República e 332 do Código de Processo Civil/73.
+Quanto à apontada afronta ao art. 5º da CF/1988, não se pode conhecer do Recurso Especial, porquanto o exame da violação de dispositivos constitucionais é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Tendo em vista o recorrente não ter se desincumbido, a contento, das exigências constantes nos arts. 541, parágrafo único, do CPC e 255, § 1º, do RI/STJ no que diz respeito à comprovação do dissídio jurisprudencial, não indicando trechos do relatório e do voto de modo a explicitar os pontos de aproximação e de dessemelhança entre o acórdão censurado e o paradigma trazido a cotejo, não se pode conhecer do dissídio pretoriano.
+Ao que se percebe, não há semelhança entre o paradigma, julgado improcedente por falta de provas, refugindo da equiparação do acórdão do Tribunal. Aqui houve eleição de prova suficiente para indeferir o pedido, uma vez que os formulários exigidos por lei e necessários à comprovação do tipo de labor executado pelo autor não afirmam as condições exigidas para a aposentadoria especial e com ela não se coadunam.
+De outra parte, observa-se que a parte recorrente se limitou a alegar genericamente a tese de ofensa ao contraditório e a ampla defesa, sem desenvolver sua tese. Tratando-se de alegação genérica, é de rigor a aplicação do óbice da Súmula 284/STF, abaixo transcrita:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Não se pode conhecer da irresignação contra a ofensa aos arts. 332 CPC/73 ou 373, I, do NCPC, pois os referidos dispositivos legais não foram analisados pela instância de origem. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF:
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ademais, o acórdão recorrido foi enfático ao anunciar que o tempo de serviço em condições de especialidade não ficou comprovado, no tocante à aduzida natureza especial do trabalho desenvolvido pelo segurado. Rever o entendimento do Tribunal de origem, reconhecer o cerceamento de defesa e decretar a nulidade do acórdão demanda reexame do conjunto fático-probatório dos autos, obstado nos termos da Súmula 7/STJ.
+Por todo exposto, não conheço do recurso.
+É como voto.
