@@ -1,0 +1,64 @@
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PROMOTORA DE JUSTIÇA. PENA DE SUSPENSÃO DAS ATIVIDADES POR 15 DIAS. SUPOSTAS AUSÊNCIA DE FUNDAMENTAÇÃO E OFENSAS AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. NÃO OCORRÊNCIA. PRODUÇÃO DE PROVAS RESPALDADA PELO ORDENAMENTO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. NULIDADE NÃO CONFIGURADA. RECURSO NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso em mandado de segurança, com pedido de liminar, interposto por [NOME], com fundamento no artigo 105, II, "b", da CF contra acórdão oriundo do Órgão Especial do Tribunal de Justiça do Paraná, assim ementado (fls.
+MANDADO DE SEGURANÇA - PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - PROMOTORA DE JUSTIÇA - PENA DE SUSPENSÃO DAS ATIVIDADES POR 15 DIAS - EXCESSO DE PRAZO NA CONDUÇÃO DO PROCEDIMENTO - PROPORCIONALIDADE E RAZOABILIDADE - AUSÊNCIA DE PREJUÍZO À PARTE - IRREGULARIDADE NA FORMAÇÃO DA COMISSÃO PROCESSANTE - INEXISTÊNCIA DE PREVISÃO LEGAL ACERCA DA ANTIGUIDADE NA CARREIRA - ALEGAÇÕES AFASTADAS - INTIMAÇÃO PESSOAL DA DECISÃO CONDENATÓRIA - DECISÃO PROFERIDA EM SESSÃO DE JULGAMENTO NA QUAL A PARTE E SEU PROCURADOR ESTIVERAM PRESENTES - DESNECESSIDADE DE NOVA INTIMAÇÃO - SEGURANÇA DENEGADA.
+A recorrente argumenta que "ao contrário do que constou no acórdão recorrido, segundo o qual a parte e seu Procurador encontravam-se presentes na sessão de julgamento, somente participou do ato o Advogado da Impetrante a fim de realizar sustentação oral no caso, em outras palavras, o Procurador da Autora esteve presente na sessão de julgamento (25.06.2012), mas a parte não" (fl. 1.002, grifei). Dessa forma, diz que "a intimação realizada não foi plenamente válida, haja vista não haver reunido os requisitos necessários da publicidade, os quais são imprescindíveis à aptidão de caracterizar o dies a quo da contagem de prazo para eventual impugnação" (fl. 1.004).
+Sustenta também que, "ao contrário do afirmado na decisão recorrida, houve excesso na conclusão do processo administrativo instaurado contra a Recorrente, o que enseja o reconhecimento de sua nulidade, porquanto o prazo extrapola o limite do razoável, desrespeitando a legislação cogente, qual seja, LOMPPR (Lei Complementar Estadual n. 85/1999)" (fl. 1.006).
+Por fim, afirma a existência de "irregularidade formal derivada na constituição da Comissão Processante, na medida em que houve por desatendida a norma vertente do parágrafo 11 do artigo 175 da Lei Complementar Estadual n. 85/1999 - LOMP, segundo o qual, o processo administrativo-disciplinar, instaurado pelo Corregedor-Geral do Ministério Público será contraditório, assegurando-se ao acusado ampla defesa, devendo constar da resolução que instaurar o processo administrativo-disciplinar a designação de comissão composta de três membros escolhidos dentre os integrantes da carreira, vitalícios e de entrância igual ou superior à do acusado" (fl. 1013).
+Ao final, requer o provimento do recurso, a fim de, concedendo a segurança, considerar tempestivo o recurso de embargos de declaração e, consequentemente, reconhecer a nulidade do Processo Administrativo Disciplinar n. 2/2011, tendo em vista a ocorrência de excesso de prazo para sua conclusão, bem como prescrição (fl. 1.016).
+Contrarrazões oferecidas às fls. 1.032-1.037.
+Às fls. 1.055-1.063, a Subprocuradoria-Geral da República opina pelo improvimento do recurso, em parecer subscrito pelo [NOME], nos seguintes termos:
+PROCESSO CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. RECURSO ADMINISTRATIVO. INTIMAÇÃO. EMBARGOS DE DECLARAÇÃO. TEMPESTIVIDADE.
+É o relatório. Passo a decidir.
+Na origem, a impetrante, Promotora de Justiça, insurge-se contra ato do Procurador-Geral de Justiça do Paraná, o qual não conheceu dos embargos de declaração opostos em face da decisão proferida nos autos de Procedimento Administrativo Disciplinar, por considerá-los intempestivo.
+Assim, tem-se como controvérsia no presente mandado de segurança à verificação da existência do direito líquido e certo da impetrante à anulação da decisão que não conheceu os Embargos de Declaração interpostos por ela em face do Recurso Administrativo.
+Da alegada tempestividade dos embargos de declaração
+Acerca da principal tese da impetração do mandado de segurança, a recorrente reitera os argumentos da impetração de que a sua presença e a de seu advogado na sessão de julgamento, realizada em 25/6/2012, não deve ser considerada como termo a quo para a impetração de recurso. Defende que o início do prazo deve ocorrer apenas com a publicação do resultado do julgamento nos Órgãos de imprensa oficial ou com a sua intimação pessoal.
+Com efeito, o fundamento adotado pelo Tribunal de origem bem elucida a questão, razão pela qual peço licença para transcrevê-lo:
+A esse respeito, oportuno se mostra colacionar os dispositivos legais do estatuto jurídico da Impetrante (Lei Orgânica do Ministério Público do Estado do Paraná - LOMPPR):
+Lei Complementar Estadual n. 85/1999.
+Art. 183 - Recebendo o processo administrativo-disciplinar o Procurador-Geral de Justiça, no prazo de dez dias:
+l - decidirá pelo seu arquivamento, ou pela aplicação das sanções cabíveis;
+II - determinara novas diligências, se considerar conveniente esclarecimentos complementares, caso em que, efetivadas, proceder-se-á de acordo com os arts. 184 e 185, desta Lei;
+III - solicitará ao Colégio de Procuradores de Justiça autorização para a proposição de ação civil visando à:
+a) decretação de perda do cargo de membro vitalício do Ministério Público;
+b) cassação de aposentadoria ou disponibilidade.
+Ad. 184 - A intimação da decisão será sempre pessoal.
+Art. 190 - Aplicam-se subsidiariamente ao processo administrativo-disciplinar as normas do Código de Processo Penal.
+Assim, deve ser analisado o conceito de intimração pessoal (art. 184, LOMPPR) à luz do sistema processual penal (art. 190, LOMPPR), tendo em vista, a omissão da lei estadual.
+O Código de Processo Penal estabelece que deve haver intimação pessoal de toda decisão condenatória (art. 392, CPP) e que a referida intimação pessoal ocorrerá na própria sessão de julgamnento quando estiver presente a parte (art. 798. CPP).
+Isso porque, de acordo comi o artigo 798, do Código de Processo Penal, o prazo recursal inicia-se na data da própria sessão. Veja-se:
+"Art. 798 - Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+§ 52 Salvo os casos expressos, os prazos correrão:
+b) da audiência ou sessão em que for proferida a decisão, se a ela estiver presente a parte".
+Nessa linha, como apontado pela Procuradoria-Geral de Justiça (fls. 839), deve ser aplicado o entendimento jurisprudencial no sentido de que:
+ ..
+A doutrina processualista acompanha esse entendimento:
+"Além dessa forma comum de fixar-se o início do prazo, há outras:
+a) A partir da data da audiência ou da sessão em que for proferida a decisão, se a parte estiver presente (..) seja o crjime aflançável ou inafiançável., se intil-ado e não comparecer à sessão, seráão réu julgado à revelia e, então deverá ser intimiado para que possa fluir o prazo recursal. Mas, se estiver presente, o prazo se inicia na data do julgamento" (TOURINHO FILHO, Fernando da Costa. CÓDIGO DE PROCESSO PENAL COMENTADO - Volume 11. 14" edição, ed. Saraiva, p. 653).
+Assim., considerando a desnecessidade de um.a nova intimação, posto que a parte e seu Procurador encontravam-se presentes na sessão de julgamento, não deve prosperar a insurgência acerca da intempestividade para a propositura dos Embargos.
+DIe outro vértice, a titulo de argumentação, a intempestividade dos Embargos de Declaração há de ser mantida mesmo se analisarmos a questão da intimação da Impetrante sob outro enfoque, da ciência das partes sobre o teor da decisão, o que possibilitaria eventual manifestação de inconformismo especifica. Explico.
+Os Aclaratórios foram protocolados em 8/11/2012 (fls. 822/834).
+Examinando os autos, verifica-se que a Sessão Extraordinária na qual foi julgado o Recurso interposto pela ora Impetrante foi realizada, como já dito, em 25/06/2012 (fls. 806/809).
+Naquela oportunidade, restou consignada "a apresentação de defesa por parte do Advogado da Interessada", após a qual foi proferido o voto da Relatora (fls. 806).
+Logo, o Procurador da impetrante teve ciência a respeito do resultado do Recurso na própria Sessão, o que, a principio, poderia ensejar o decurso do prazo para impugnação (o que já restou ventilado acima), mas possibilita também a alegação de que não houve o conhecimento dos exatos termos decisórios, já que. na Ata, não há transcrição do voto, argumento que será examinado agora.
+Ocorre que, no caso em comento, não há dúvida que, ao menos em 31/10/2012, a impetrante foi intimada pessoalmente sobre o inteiro teor da decisão, nos termos do artigo 184. da LOMPPR (a intimação da decisão será sempre pessoal), a qual lhe foi entregue, conforme certidão de fls. 813, redigida em momento posterior à juntada da decisão do Recurso (fls. 795/805).
+Saliente-se que a Impetrante não é pessoa leiga, que desconheça a importância de urna intimação realizada através do recebimento da decisão, uma vez que se trata de Promotora de Justiça.
+Dessa forma, o prazo iniciou em 01/11/2012 e encerrou em 05/11/2015, daí porque a oposição dos Aclaratórios em 08/11/2012 é intempestiva.
+Ressalvo, inclusive, que há autorização do procurador da Impetrante para que o estagiário retire os autos em carga em 01/11/2012 (fls. 814), o que pode ser considerado como um indicio a respeito do conhecimento sobre a decisão posteriormente impugnada e a ausência de tempestividade na propositura dos Embargos de Declaração.
+Desta feita, não há como vingar, nem por este viés, a insurgência acerca da intempestividade para a propositura dos Embargos.
+Assim, foi consignado no acórdão recorrido a seguinte assertiva: "não há dúvida que, ao menos em 31/10/2012, a Impetrante foi intimada pessoalmente sobre o inteiro teor da decisão, nos termos do artigo 184, da LOMPPR (a intimação será sempre pessoal), a qual lhe foi entregue, conforme certidão de fls. 813, redigida em momento posterior à juntada da decisão do Recurso" (fls. 795/805).
+Ocorre que a recorrente não trouxe qualquer elemento capaz de infirmar a conclusão do acórdão hostilizado, além de não demonstrar efetivamente o alegado prejuízo em sua defesa com a intimação da ata de julgamento, do qual participou o seu patrono.
+Anote-se que o artigo 188 do CPC/2015 traz o princípio da instrumentalidade nos seguintes termos:
+Os atos e termos processuais independem de forma determinada, salvo quando a lei expressamente a exigir, considerando-se válidos os que, realizados de outro modo, lhe preencham a finalidade essencial.
+O artigo 277 do mesmo diploma legal também estabelece que:
+Quando a lei prescrever determinada forma, o juiz considerará válido o ato se, realizado de outro modo, lhe alcançar a finalidade.
+Dessa forma, prestigiando-se o princípio da instrumentalidade das formas, eventual nulidade somente deve ser reconhecida quando for efetivamente comprovado eventual prejuízo sofrido pela parte interessada. O que, na espécie, não foi observado.
+A propósito:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. COAÇÃO NO CURSO DO PROCESSO. CITAÇÃO POR EDITAL, SUSPENSÃO DO PROCESSO E PRODUÇÃO ANTECIPADA DE PROVAS. SUPOSTAS AUSÊNCIA DE FUNDAMENTAÇÃO E OFENSAS AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. NÃO OCORRÊNCIA. PRODUÇÃO DE PROVAS RESPALDADA PELO ORDENAMENTO. PRINCÍPIO PAS DE NULLITÉ SANS GRIEF. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. NULIDADE NÃO CONFIGURADA. HABEAS CORPUS NÃO CONHECIDO.
+6. Segundo entendimento pacífico desta Corte Superior, a vigência no campo das nulidades do princípio pas de nullité sans grief impõe a manutenção do ato impugnado que, embora praticado em desacordo com a formalidade legal, atinge a sua finalidade, restando à parte demonstrar a ocorrência de efetivo prejuízo, o que não ocorreu no presente caso.
+7. Habeas corpus não conhecido. (HC 417.361/DF, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 7/3/2018)
+Por fim, como bem observado pelo Ministério Público Federal em seu parecer, os mesmos fundamentos se aplicam para enfrentar as alegações acerca do excesso de prazo na conclusão do PAD e de prescrição da pretensão punitiva, uma vez que a conclusão do TJ/PR nesses pontos (possibilidade de prorrogação dos trabalhos administrativos diante da complexidade da apuração dos fatos e interrupção do lapso prescricional com a instauração do PAD), não foram satisfatoriamente afastadas pelos argumentos trazidos pela recorrente que se limitou a considerar o prazo de forma singular.
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
