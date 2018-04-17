@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros, com fundamento no artigo 105, III, "a", da Constituição Federal contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fls. 1.576-1.577):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO COLETIVA. ANUÊNIOS. EXECUÇÃO INDIVIDUAL. EMBARGOS À EXECUÇÃO. FUNASA. PRESCRIÇÃO. BASE DE CÁLCULO. JUROS DE MORA. PREQUESTIONAMENTO.
+1. Nos termos da Súmula 150 do STF, "Prescreve a execução no mesmo prazo de prescrição da ação". Assim, o trânsito em julgado da sentença proferida no processo de conhecimento é o marco inicial do prazo de prescrição da ação de execução e não sua interrupção.
+2. Quando ainda pendente decisão do Supremo Tribunal Federal em sede de recurso extraordinário, não há que se falar em trânsito em julgado da ação coletiva.
+3. Não tendo sido discutida na ação de conhecimento eventual aplicação do reajuste de 28,86% na base de cálculo dos anuênios, não há como os exequentes pretenderem imputá-los manu militari em sede de execução, porque sequer se sabe se os embargados tinham direito a tal percentual, pois tal reajuste não foi linear e há, inclusive, categorias que receberam reajuste superior a tal percentual ainda no ano de 1993.
+4. Não tem nenhum fundamento legal a alegação da FUNASA de que não seriam devidos juros de mora até o momento do ingresso da execução porque os exequentes não se apresentaram espontaneamente para receber seu crédito.
+5. Quanto à fixação da verba honorária, é pacífico o entendimento da 2ª Seção deste Tribunal no sentido de que dita verba deve ser fixada em 10% sobre o valor da causa ou da condenação, sendo que a regra em referência somente não é aplicável quando resultar valor exorbitante ou ínfimo, o que não é o caso dos autos. No caso concreto os embargados decaíram em parte mínima do pedido.
+6. Embora não tenha ocorrido ofensa aos dispositivos legais e constitucionais mencionados pela parte, dá-se por prequestionada a matéria para evitar embargos de declaração.
+Os embargos de declaração interpostos foram parcialmente acolhidos para fins de prequestionamento (e-STJ fls. 1.628-1.629).
+Nas razões do recurso especial, os recorrentes apontas violação do art. 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes para o deslinde da controvérsia.
+No mérito, a parte recorrente alega violação dos arts. 1º e 2º da Medida Provisória 2.169/2001; 467 e 468 do Código de Processo Civil/73; 161, § 1º, do CTN; 3º do Decreto-Lei 2.322/1987; e da Medida Provisória 2.180/2001, sob o argumento de que "a legislação a ser aplicada em tela é a vigente na data de propositura das ação ordinária (nº 95.00.16023-4) que deu origem à presente execução, ou seja, aquela em vigor em 1995, a qual estabelecia os juros de mora à taxa de 1% (um por cento) ao mês, não incidindo, nesta situação, o direito superveniente" (e-STJ fl. 1.677, grifo no original).
+Com contrarrazões (e-STJ fls. 1.732-1.734).
+Juízo positivo de admissibilidade às e-STJ fls. 1.800-1.801.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Em face do provimento do recurso especial da Funasa, que anulou o acórdão proferido nos embargos de declaração, declaro prejudicado o presente recurso.
+Publique-se. Intimem-se.
