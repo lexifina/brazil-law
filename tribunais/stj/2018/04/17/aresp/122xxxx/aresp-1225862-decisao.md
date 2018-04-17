@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL COM BASE EM TESE FIRMADA EM RECURSO REPETITIVO. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO (ART. 1042, CAPUT, CPC/2015). ERRO GROSSEIRO. PRECEDENTES. INDICAÇÃO DE OFENSA À VERBETE SUMULAR. IMPOSSIBILIDADE. ATO NORMATIVO QUE NÃO SE AMOLDA AO CONCEITO DE LEI FEDERAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial apresentado por [NOME] contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. REGISTRO EM CADASTRO DE INADIMPLENTES. AÇÃO DE CANCELAMENTO DE REGISTRO. NOTIFICAÇÃO PRÉVIA.
+Preliminar afastada, porquanto a procuração constante nos autos é suficiente para demonstrar a capacidade postulatória do procurador da parte -ré.
+Hipótese em que comprovada a notificação prévia de nove das dez inscrições, conforme exigido pelo art. 43, § 2º, do Código de Defesa do Consumidor.
+Inexistindo a notificação prévia, ilegal torna-se a inscrição, o que determina a exclusão do nome da devedora do cadastro da ré com relação ao apontamento não notificado.
+Reconhecida a ilegalidade de uma das dez inscrições reclamadas.
+PRELIMINAR AFASTADA. APELO PARCIALMENTE PROVIDO. UNÂNIME.
+.
+Em suas razões, o recorrente alega ofensa ao art. 43, § 2º do CDC; à Súmula 359/STJ e à orientação jurisprudencial constante do Recurso Especial nº 1.061.134, sustentando ausência de notificação anterior à data de inclusão no cadastro de restrição.
+É o relatório.
+Passo a decidir.
+Inicialmente, verifica-se que o Tribunal de origem negou seguimento ao recurso especial, ao fundamento de que, no que tange ao dispositivo legal tido por violado, artigo 43, § 2º do CDC, o acórdão recorrido decidiu conforme o entendimento firmado por esta Corte Superior no julgamento do Recurso Especial nº 1.083.291/RS, julgado sob o rito dos recursos repetitivos - Tema 59.
+Nesse contexto, conforme determina o art. 1.030, §2º, do CPC/2015, uma vez negado seguimento ao recurso especial na instância de origem ante a conformidade do entendimento exarado pelo acórdão recorrido com aquele firmado em julgamento repetitivo por esta Corte Superior, a irresignação da parte deve se dar por meio de agravo interno, previsto no art. 1.021 do CPC/2015. Observe-se que, nessa hipótese, a interposição do agravo do art. 1.042, caput, do CPC/2015 configura erro grosseiro, conforme entendimento da Terceira Turma do STJ:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+ ..
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015.
+(AREsp 959.991/RS, TERCEIRA TURMA, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 26/08/2016 - g.n.)
+Nesse ponto, portanto, inviável o conhecimento do recurso, por ser inadmissível a interposição de agravo em recurso especial obstado pela aplicação de tese firmada em Recurso Repetitivo.
+Ato contínuo, sem razão a alegação de contrariedade ao teor da Súmula 359/STJ, porquanto é incabível a interposição de recurso especial por violação de enunciado sumular, por se tratar de verbete que não se enquadra no conceito de lei federal a sofrer o controle de legalidade desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE DUPLICATA MERCANTIL PROTESTADA. AUSÊNCIA DE PAGAMENTO A FIM DE AFASTAR A MORA. OBRIGAÇÃO INTEGRALMENTE CUMPRIDA A JUSTIFICAR A INAPLICABILIDADE DO ART. 20 DO CDC. REVISÃO. ANÁLISE QUE DEMANDA O REEXAME FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. INDICAÇÃO DE OFENSA A SÚMULA. IMPOSSIBILIDADE NO APELO NOBRE. AGRAVO INTERNO DESPROVIDO.
+1. Tendo o Tribunal estadual, com lastro nos elementos fático-probatórios, concluído que a caução prestada à época do deferimento da tutela antecipada não constituiu pagamento da dívida a fim de afastar a mora, bem como afastado a aplicabilidade do art.
+20 do CDC em razão do cumprimento integral da obrigação assumida pela agravada, não se mostra possível modificar tais conclusões por demandar o reexame do conjunto fático-probatório dos autos, procedimento sabidamente vedado na via do recurso especial (Súmula n. 7/STJ).
+2. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+3. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+4. Agravo interno desprovido. (AgInt no AREsp 1007788/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2017, DJe 30/10/2017)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONTRATO BANCÁRIO. VIOLAÇÃO A SÚMULA E DISSÍDIO COM VERBETE SUMULAR.
+1. O conceito de súmula não se confunde com o de "lei federal", razão pela qual é de ser negado seguimento a recurso especial, pela alínea "a" do permissivo constitucional, quando alegado malferimento a verbete sumular.
+2. Na esteira dos precedentes deste Tribunal, não configura o dissídio jurisprudencial o confronto com súmula, cabendo ao recorrente realizar o cotejo analítico e demonstrar a divergência, utilizando-se, para tanto, dos julgados que deram origem ao enunciado sumular.
+3. Decisão agravada mantida pelos seus próprios fundamentos.
+4. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no REsp 882.392/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/03/2011, DJe 23/03/2011)
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+Assim, como o caso dos autos é proveniente de sentença condenatória, sendo fixada verba honorária de R$ 500,00 (quinhentos reais), a majoração dos honorários a ser pago pela parte recorrente para R$ 800,00 (oitocentos reais) é medida adequada ao caso, ressalvado o benefício da assistência judiciária gratuita.
+Advirta-se que eventual recurso interposto contra este decisum está sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
