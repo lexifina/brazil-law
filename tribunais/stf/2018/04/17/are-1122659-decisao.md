@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região assim ementado, no relevante:
+    “PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TEMPO ESPECIAL. BIOLÓGICOS. EPI. PERMANÊNCIA A PARTIR DE 29/04/1995. CONVERSÃO. LEI VIGENTE NA DATA DA APOSENTADORIA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO PROPORCIONAL. IDADE MÍNIMA E PEDÁGIO. PARCIAL PROVIMENTO”. (eDOC 7, p. 74)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 7º, caput; e 201, § 1º, do texto constitucional.
+    Nas razões recursais, defende-se a necessidade do cômputo como tempo de serviço especial do período em que o recorrente teria laborado na função de guarda mirim.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou a inexistência de comprovação do desempenho da atividade especial alegada pelo recorrente. Nesse sentido, extrai-se o seguinte trecho da ementa do acórdão impugnado:
+    “15. A sentença deve ser reformada para excluir da contagem de tempo especial o período de 01/06/1972 a 31/12/1973, porque não há nos autos nenhuma prova de ter o impetrante laborado como guarda-mirim.” (eDoc. 7, p. 71)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes desta Corte:
+    “Agravo regimental em recurso extraordinário. 2. Direito Previdenciário. 3. Conversão do tempo de serviço comum em especial. Cômputo para fins de aposentadoria. Violação ao direito adquirido. Não ocorrência. 4. Impossibilidade de análise de legislação infraconstitucional e de reexame de matéria fático-probatória. Súmula 279. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 1027221 AgR, Segunda Turma, de minha relatoria, DJe 13.9.2017)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. CONVERSÃO DO TEMPO COMUM EM ESPECIAL. REQUISITOS NECESSÁRIOS PARA CONCESSÃO DO BENEFÍCIO. LEGISLAÇÃO EM VIGOR. MATÉRIA INFRACONSTITUCIONAL. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. SÚMULA 279 DO STF. TEMPUS REGIT ACTUM. ADI 3.104. AGRAVO NÃO PROVIDO. 1. É inviável o processamento do apelo extremo quando a divergência em relação ao entendimento adotado pelo juízo a quo demanda a reanálise da legislação infraconstitucional e do conjunto fático-probatório, incidindo a Súmula 279 do STF. Hipótese em que a violação ao Texto Constitucional, se houver, é meramente reflexa ou indireta. 2. O Supremo Tribunal Federal, no julgamento da ADI 3.104, de relatoria da Min. Cármen Lúcia, Tribunal Pleno, DJE 09.11.2007, decidiu que ‘em questões previdenciárias, aplicam-se as normas vigentes ao tempo da reunião dos requisitos de passagem para a inatividade’, não havendo falar-se, portanto, em violação ao princípio tempus regit actum. 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Verba honorária majorada em 25%, nos termos do art. 85, §§ 2º, 3º e 11, CPC.” (RE 974195 AgR, Primeira Turma, Rel. Ministro Edson Fachin, DJe 18.11.2016)
+    Ante o exposto, nego seguimento ao recurso (artigo 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
