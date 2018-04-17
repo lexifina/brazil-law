@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], em 17/07/2012, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. PENSÃO. SERVIDOR PÚBLICO FEDERAL. RESTITUIÇÃO DE VALORES.
+Direito da parte autora à restituição dos valores atrasados referentes ao entretempo de julho de 2009 a dezembro de 2009 decorrentes de cessação administrativa, é incontroverso nos autos" (fl. 184e).
+Opostos embargos declaratórios, foram acolhidos os do INSS, nos seguintes termos:
+"EMBARGOS DECLARATÓRIOS. PREQUESTIONAMENTO.
+Suprimento de omissão quanto aos honorários advocatícios sucumbenciais.
+Não se faz necessário indicar todos os dispositivos legais e constitucionais nos quais se funda a decisão, desde que fundamentada e motivadamente exponha suas razões" (fl. 201e).
+Ainda inconformada, sustenta a parte recorrente:
+DAS RAZÕES DE RECURSO ESPECIAL
+DA NEGATIVA DE VIGÊNCIA AOS ARTIGOS 186, §19, 190, 217 e 224, DA LEI 8.112/90
+(..)
+Entendeu o magistrado que para fins de concessão, o benefício deve ser regrado pela legislação vigente à época em que preenchido o suporte fático, ou seja, tendo sido a aposentadoria concedida por tempo de serviço e não com base no estado de saúde da servidora, não pode haver a sua alteração posterior, mesmo se acometida de doença prevista na legislação.
+É cristalino o direito vindicado, pois a servidora instituidora da pensão aposentou-se proporcionalmente (20/30 avos), sendo que após lhe foi diagnosticado câncer (causa do óbito), doença que lhe dava direito a conversão da aposentadoria proporcional em integral na forma prevista no art. 186, I, parágrafo 1e, combinado com o art. 190, da Lei n.e 8.112/90.
+O art. 190, da Lei n.g 8.112/90, admite ao servidor aposentado proporcionalmente, quando acometido de qualquer doença estabelecida no art. 186, parágrafo 1Q, da Lei n.Q 8.112/90, o recebimento de aposentadoria integral desde a data da vigência da Lei, estando presente na sua redação original.
+(..)
+A contar da MP n.Q 441/2008, convertida na Lei n.Q 11.907/2009, a redação do artigo passou a seguinte redação:
+(..)
+Sendo incontroverso o fato da instituidora da pensão do Autor, ora Recorrente, ter sido acometida por neoplasia maligna (art. 186, § 12 , da Lei n.9 8.112/90,), e estando ela enquadrada na forma do ar. 190, da Lei n.9 8.112/90, deve a pensão ser revista e recalculada como se a servidora estivesse aposentada com proventos integrais à data do óbito, com o pagamento dos atrasados a contar da data da concessão da pensão" (fls. 208/212e).
+Requer, ao final, "que o presente Recurso Especial seja conhecido e provido, para que a pensão seja recalculada tendo por base o valor integral a que faria jus a instituidora da pensão, na forma em que dispõe o art. 190 e 186 da Lei n.s 8.112/90, bem como para que sejam as diferenças daí decorrentes pagas ao autor acrescidas de correção monetária e juros de mora na forma da lei" (fl. 212e).
+Foram apresentadas contrarrazões (fls. 236/237e).
+A irresignação não merece acolhimento.
+Com efeito, observa-se que os arts. 217 e 224 da Lei 8.112/90, não foram apreciados pela instância ordinária, sequer implicitamente, embora a parte recorrente tenha oposto Embargos de Declaração. Incide, assim, o óbice da Súmula 211 deste Superior Tribunal de Justiça.
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não, ao caso concreto.
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 535 do CPC/73, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se conhece do Recurso Especial quanto à matéria - arts. 219 e 293 do CPC/1973 que não foi especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Óbice da Súmula 211/STJ.
+2. Para que se configure prequestionamento implícito, é necessário que o Tribunal a quo emita juízo de valor a respeito da matéria debatida.
+3. Ocorrendo omissão de questão fundamental ao deslinde da controvérsia, deve a parte, em seu especial, veicular violação ao artigo 535, inciso II, do Código de Processo Civil, em vez de insistir no mérito (REsp 594.570/SP, 3ª Turma, Rel. Min. Castro Filho, DJ de 17.5.2004).
+4. Recurso Especial não provido" (STJ, REsp 1.615.958/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 29/11/2016).
+Posto isso, verifica-se que, nas razões do Recurso Especial, o fundamento utilizado no acórdão recorrido de que - "a alteração de regime de aposentadoria de proventos proporcionais por tempo de serviço para aposentadoria por invalidez com proventos integrais, é admitida desde a alteração ocorrida no art. 190, da Lei nº 8.112/90, pela edição da Medida Provisória nº 441, de 29/08/2008, posteriormente convertida na Lei nº 11.907, de 02/02/2009. No caso vertente, todavia, a aposentadoria foi concedida em dezembro de 2003 e o óbito da servidora ocorreu em 2007, ou seja, antes da alteração legislativa acima mencionada, inviabilizando, assim, a aplicação da nova legislação, porque configurada estaria a retroação legislativa, sem previsão legal. Deveras, a teor do art. 190 da Lei 8.112/90, a conversão da aposentadoria por tempo de serviço em invalidez pressupõe a existência da aposentadoria após o início da vigência da inovação legislativa (suporte fático) inaugurada pela Medida Provisória nº 441, possibilitando a incidência imediata (jurisdicização/fato jurídico) do novo instituto (aplicação imediata da lei)" (fls. 181/182e) - não foi impugnado pela parte recorrente, o qual, sendo apto, por si só, para manter o decisum combatido, quanto ao ponto, permite aplicar, na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO, POR ANALOGIA, DO ÓBICE DA SÚMULA N. 283/STF. JUROS DE MORA EM HONORÁRIOS ADVOCATÍCIOS ARBITRADOS EM PERCENTUAL DO VALOR DO DÉBITO EXECUTADO ATUALIZADO. NÃO INCIDÊNCIA. SÚMULA N. 83/STJ. INCIDÊNCIA.
+I - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+(..)
+V - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VI - Agravo Regimental improvido" (STJ, AgRg no REsp 1.514.004/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 14/08/2015).
+"ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. MILITAR. EXCLUSÃO DA CORPORAÇÃO. INQUÉRITO MILITAR E ADMINISTRATIVO. AUSÊNCIA DE CONTRADITÓRIO E AMPLA DEFESA NA FASE INQUISITORIAL. ARTS. 153 E 156 DA LEI Nº 8.112/90. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO ESPECIAL. SÚMULA Nº 283/STF. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. CARACTERIZAÇÃO. REVOLVIMENTO DAS PROVAS NOS AUTOS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. A questão federal relativa aos artigos 153 e 156 da Lei nº 8.112/90, a despeito da oposição de embargos de declaração, não foi apreciada e decidida pelo órgão julgador. Atraída a incidência, no ponto, do enunciado da Súmula nº 211 do Superior Tribunal de Justiça, verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."
+2. A orientação preconizada no verbete 283 da Súmula do Supremo Tribunal Federal, também aplicada ao especial, impõe à parte recorrente o dever de impugnar todos os fundamentos suficientes, por si só, para a manutenção do acórdão recorrido, sob pena de não conhecimento desta espécie recursal, o que não ocorreu.
+(..)
+4. Agravo regimental não provido" (STJ, AgRg no AREsp 672.541/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 1º/06/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
