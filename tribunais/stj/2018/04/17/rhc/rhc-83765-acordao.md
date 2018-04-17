@@ -1,0 +1,45 @@
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso dos autos, o decreto preventivo está suficientemente fundamentado na necessidade de garantia da ordem pública, pois, quando da prisão em flagrante do recorrente, foram apreendidos 160 gramas de cocaína, acondicionados em 113 tubos, além de uma balança de precisão e material comumente utilizada para venda de drogas. Consoante pacífico entendimento desta Corte, a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto preventivo.
+3. Recurso ordinário em habeas corpus desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro.
+Colhe-se dos autos que o recorrente, denunciado pela suposta prática dos delitos tipificados nos arts. 33 e 35 da Lei n. 11.343/2006, teve a prisão preventiva decretada.
+Neste recurso, sustenta, em síntese, que "a prisão provisória não se justifica ante a ausência de fundamentação idônea da decisão combatida" (e-STJ, fl. 57).
+Pleiteia a revogação de sua prisão preventiva ou a substituição dela por medidas cautelares diversas.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se à fl. 116.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso dos autos, o decreto preventivo está suficientemente fundamentado na necessidade de garantia da ordem pública, pois, quando da prisão em flagrante do recorrente, foram apreendidos 160 gramas de cocaína, acondicionados em 113 tubos, além de uma balança de precisão e material comumente utilizada para venda de drogas. Consoante pacífico entendimento desta Corte, a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto preventivo.
+3. Recurso ordinário em habeas corpus desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, a custódia cautelar do recorrente foi decretada pelos seguintes fundamentos:
+"O flagrante é regular e não contém máculas, motivo pelo qual o homologo. Os policiais militares investigando denúncia de tráfico de entorpecentes numa residência na localidade do Açu, se dirigiram ao local onde avistaram o indiciado [NOME] em frente a referida residência e, após abordarem o mesmo e nada encontrarem em revista pessoal, tiveram a entrada franqueada, sendo que após revista no local lograram arrecadar 160g de cocaína, acondicionada em 113 tubos, além de R$ 30,00 em espécie, balança de precisão e material de endolação. O crime imputado ao acusado é equiparado a hediondo e merece disciplina específica na Lei 11.343/03. Não existe nos autos qualquer informação acerca de antecedentes, residência fixa e ocupação lícita do autuado, de modo a viabilizar a aplicação das medidas previstas no art. 319 do CPP.
+Resta, então, a conversão da prisão em flagrante em prisão preventiva, ante a presença de indícios suficientes da autoria, prova da existência do crime e necessidade de garantir-se a ordem pública e a instrução criminal.
+Com arrimo no exposto, converto em prisão preventiva a prisão em flagrante de [NOME]." (e-STJ, fls. 110-111)
+Como se vê, o decreto preventivo está suficientemente fundamentado na necessidade de garantia da ordem pública, pois, quando da prisão em flagrante do recorrente, foram apreendidos 160 (cento e sessenta) gramas de cocaína, acondicionada em 113 (cento e treze) tubos, além de uma balança de precisão e material comumente utilizada para venda de drogas. Consoante pacífico entendimento desta Corte, a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto preventivo.
+Sobre o tema, os seguintes precedentes:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. NEGATIVA DE AUTORIA. REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. REVOGAÇÃO DA PRISÃO PREVENTIVA. INVIABILIDADE. FUNDAMENTAÇÃO IDÔNEA. ELEVADO RISCO DE REITERAÇÃO DELITIVA. PERICULOSIDADE CONCRETA EVIDENCIADA. GARANTIA DA ORDEM PÚBLICA. RECURSO DESPROVIDO.
+ ..
+2. Considerando a natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art.312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos do previsto no art. 319 do CPP.
+3. As instâncias ordinárias, soberanas na análise dos fatos, entenderam que restou demonstrada a periculosidade concreta do paciente, evidenciada pela reincidência específica do recorrente e da significante quantidade de droga apreendida (70 gramas de cocaína divida em 139 porções prontas para comercialização, conforme denúncia) em local conhecido como ponto de venda de drogas. Dessa forma, a prisão processual está devidamente fundamentada na necessidade de garantir a ordem pública e para evitar reiteração delitiva, não havendo falar em existência de flagrante ilegalidade.
+Recurso em habeas corpus desprovido."
+(RHC 77.492/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/12/2016, DJe 10/02/2017)
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. RECURSO ORDINÁRIO EM HABEAS CORPUS DESPROVIDO.
+I - A prisão cautelar deve ser considerada exceção, já que, por meio desta medida, priva-se o réu de seu jus libertatis antes do pronunciamento condenatório definitivo, consubstanciado na sentença transitada em julgado. É por isso que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores (HC n. 93.498/MS, Segunda Turma, Rel. Min.
+Celso de Mello, DJe de 18/10/2012).
+II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora recorrente acarretaria risco à ordem pública, notadamente se considerada a diversidade e a quantidade dos entorpecentes apreendidos em seu poder (80 gramas de cocaína e 16 gramas de maconha).
+Recurso ordinário desprovido."
+(RHC 59.031/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2016, DJe 30/03/2016)
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+É como voto.
