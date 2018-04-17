@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR TEMPORÁRIO. AGRAVO DE INSTRUMENTO. CONEXÃO. ART. 103 DO CPC/1973. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJMG, assim ementado (fl. 59):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. FHEMIG. GRATIFICAÇÃO NATALINA. CONTRATOS ADMINISTRATIVOS. AJUIZAMENTO DE OUTRAS AÇÕES RELATIVAS AO MESMO CONTRATO. CONEXÃO POR PREJUDICIALIDADE. APENSAMENTO. POSSIBILIDADE. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+I. Nos termos do artigo 103 do CPC, "reputam-se conexas duas ou mais ações, quando lhes for comum o objeto ou a causa de pedir".
+II. A conexão deve ser analisada objetivamente, a partir do caso concreto apresentado, observando-se não só a existência de similitude entre o objeto ou a causa de pedir das demandas, mas principalmente a existência da mesma relação jurídica de direito material constante nos feitos, evitando-se, por conseguinte, a prolação de decisões conflitantes.
+III. Embora os pedidos formulados pela Agravante sejam distintos (gratificação natalina e gratificação complementar), as ações apontadas como conexas discutem a mesma relação jurídica, possuindo a mesma causa de pedir remota, que ó o contrato administrativo firmado entre as partes.
+A recorrente alega violação do artigo 103 do CPC/1973, ao argumento de que inexiste conexão entre o presente feito e a ação de n. 0024.13.254.011-3, posto que não lhes seria comum nem o objeto nem a causa de pedir.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 88-89.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Dessa feita, passo a apreciação do apelo especial, o qual não merece prosperar.
+A Corte de origem, ao apreciar a controvérsia, assentou:
+" ..
+Portanto entendo que a conexão deve ser analisada objetivamente, a partir do caso concreto apresentado, observando-se não só a existência de similitude entre o objeto ou a causa de pedir das demandas, mas principalmente a existência da mesma relação jurídica de direito material constante nos feitos, evitando-se, por conseguinte, a prolação de decisões conflitantes.
+ ..
+Volvendo aos autos, embora os pedidos formulados pela Agravante sejam distintos gratificação natalina e gratificação complementar, as ações apontadas como conexas pelo d. Juiz Monocrático discutem a mesma relação jurídica, possuindo a mesma causa de pedir remota, que é o contrato administrativo firmado entre as partes. O direito que embasa o pedido da Agravante, assim como o título jurídico que fundamenta a sua pretensão é idêntico nas duas ações, o contrato administrativo existente com a FHEMIG.
+Portanto, visando um julgamento uniforme acerca do vinculo estabelecido entre a Agravante e a Agravada, e conforme já ressaltado no indeferimento da antecipação dos efeitos da tutela recursal, entendo que a reunião dos feitos no juízo prevento poderá sim evitar a prolação de decisões contraditórias, restando atendida, ainda, a celeridade processual." (fls. 62-63).
+A recorrente, ao indicar ofensa ao art. 103 do CPC, limitando-se a argumentar a inexistência de pedido ou causa de pedir comuns, deixou de impugnar o fundamento adotado pelo acórdão recorrido, no sentido de que "a conexão deve ser analisada objetivamente, a partir do caso concreto apresentado, observando-se não só a existência de similitude entre o objeto ou a causa de pedir das demandas, mas principalmente a existência da mesma relação jurídica de direito material constante nos feitos, evitando-se, por conseguinte, a prolação de decisões conflitantes", sendo que " embora os pedidos formulados pela Agravante sejam distintos gratificação natalina e gratificação complementar, as ações apontadas como conexas pelo d. Juiz Monocrático discutem a mesma relação jurídica, possuindo a mesma causa de pedir remota, que é o contrato administrativo firmado entre as partes. O direito que embasa o pedido da Agravante, assim como o título jurídico que fundamenta a sua pretensão é idêntico nas duas ações, o contrato administrativo existente com a FHEMIG".
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
