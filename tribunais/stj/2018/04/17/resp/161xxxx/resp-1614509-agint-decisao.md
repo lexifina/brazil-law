@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo interno interposto por [NOME] contra decisão unipessoal que conheceu parcialmente do recurso especial que interpusera, e, nessa parte, negou-lhe provimento.
+Ação: de obrigação de fazer, ajuizada pelo agravante, em face de BRADESCO SAUDE S/A, na qual requer a manutenção do requerente como beneficiário no plano de saúde ofertado pelo ex-empregador.
+Decisão agravada: deu provimento ao recurso especial interposto pela agravada, sob o seguinte fundamento:
+- Da Súmula 83/STJ
+O TJ/SP, ao entender ser irrelevante a distinção de quem realizou a contribuição para o plano de saúde coletivo, contrariou o entendimento do STJ no sentido de que, nos planos de saúde coletivos custeados exclusivamente pelo empregador, não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em convenção coletiva de trabalho, sendo irrelevante apenas a existência de coparticipação, pois esta não se confunde com contribuição. Nesse sentido: REsp 1.608.346/SP, 4ª Turma, DJe de 30/11/2016 e AgInt no REsp 1.575.056/SP, 3ª Turma, DJe de 25/11/2016.
+A decisão agravada, portanto, merece reforma.
+Agravo interno: sustenta ter contribuído diretamente para o custeio do plano de saúde. Afirma que o Tribunal de origem não consignou expressamente que houve apenas contribuição indireta, mas sim que, "hipoteticamente, não existisse as contribuições diretas" (e-STJ fl. 500), para afastar as alegações da agravada.
+RELATADO O PROCESSO, DECIDE-SE.
+Em virtude das razões apresentadas no agravo interno de fls. 493/512, e-STJ, e considerando que a questão de direito, qual seja, a manutenção de ex-empregado aposentado ou demitido sem justa causa no plano de saúde coletivo empresarial, ainda que a contribuição tenha sido exclusiva da empregadora, foi afetada para julgamento, sob o rito dos recursos repetitivos (tema 989), impõe-se a suspensão do presente recurso perante o Tribunal de origem até a publicação do acórdão paradigma, nos termos do art. 256-L, I, do RISTJ, incluído por meio da Emenda Regimental n. 24, de 28/09/2016.
+Salienta-se, por oportuno, que, após o pronunciamento desta Corte, o recurso especial deve ser analisado na forma prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Forte nessas razões, torno sem efeito a decisão agravada (fls. 448/450, e-STJ), e determino a devolução destes autos ao respectivo Tribunal de origem, com a devida baixa nesta Corte para que permaneça suspenso o recurso até a publicação do acórdão paradigma, nos termos dos arts. 1.036, § 1º, e 1.037, II, ambos do CPC/2015.
+Publique-se. Intimem-se.
