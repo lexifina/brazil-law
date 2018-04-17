@@ -1,0 +1,26 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO. [NOME]. INVALIDEZ PERMANENTE. TERMO INICIAL DA CORREÇÃO MONETÁRIA. DATA DO EVENTO DANOSO. JURISPRUDÊNCIA CONSOLIDADA NO ÂMBITO DO RECURSO ESPECIAL REPETITIVO N. 1.483.620/SC. ACÓRDÃO EM DISSONÂNCIA COM À JURISPRUDÊNCIA DO STJ. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Na origem, versam os autos sobre ação de cobrança ajuizada por [NOME] em desfavor de Seguradora Líder do Consórcio do Seguro [NOME] S.A., na qual pleiteou o recebimento de indenização de seguro obrigatório - [NOME], por lesões corporais decorrentes de acidente de trânsito, ocorrido em 1º/6/2013.
+O Juiz singular julgou improcedente o pedido (e-STJ, flS. 104-108).
+Interpostas apelações pelas partes, o Tribunal de Justiça do Estado de Sergipe negou provimento a ambos os recursos (e-STJ, fl. 169):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO ([NOME]). INDENIZAÇÃO DECORRENTE DE INVALIDEZ PARCIAL PERMANENTE. CORREÇÃO MONETÁRIA. TERMO INICIAL. CONFORME ENTENDIMENTO DO STJ NO RESP Nº 1.483.620/SC, JULGADO SOB A SISTEMÁTICA DE RECURSO REPETITIVO, A INCIDÊNCIA DE ATUALIZAÇÃO MONETÁRIA NAS INDENIZAÇÕES POR MORTE OU INVALIDEZ DO SEGURO [NOME], PREVISTA NO §7º DO ART. 5º DA LEI Nº 6.194/74, REDAÇÃO DADA PELA LEI Nº 11.482/2007, OPERA-SE DESDE A DATA DO EVENTO DANOSO, ENTRETANTO, SOMENTE ENSEJARÁ AS ATUALIZAÇÕES MONETÁRIAS, NO CASO DE A SEGURADORA NÃO PROCEDER COM O PAGAMENTO ADMINISTRATIVO NO PRAZO DE 30 DIAS DA ENTREGA DOS DOCUMENTOS NECESSÁRIOS PELO SEGURADO. HIPÓTESE DIVERSA DA AVENTADA NO RECURSO PARADIGMA.INTERPRETAÇÃO SISTEMÁTICA DOS DISPOSITIVOS MENCIONADOS. NO CASO IN OCULI, NÃO HÁ COMO AFERIR SE O PAGAMENTO FORA EFETUADO NO PRAZO CORRETO, POIS O APELANTE NÃO ANEXOU OS DOCUMENTOS COMPROBATÓRIOS DO REQUERIMENTO ADMINISTRATIVO, ONDE PROVARIA A DATA CORRETA QUE FORA EFETUADO O PAGAMENTO, ÔNUS QUE LHE COMPETIA, A TEOR DO ART. 373, I DO CPC. IMPOSSIBILIDADE DA INCIDÊNCIA DA CORREÇÃO MONETÁRIA. AUSÊNCIA DE PEDIDO DE COMPLEMENTAÇÃO NO RECURSO. MANUTENÇÃO DA SENTENÇA. HONORÁRIOS RECURSAIS ARBITRADOS.
+RECURSO CONHECIDO E IMPROVIDO. UNÂNIME.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 263-271).
+Irresignada, [NOME] [NOME] alega, no especial, além de divergência jurisprudencial, violação aos arts. 926, 927, III, 988, § 5º, II, do Novo Código de Processo Civil, aduzindo que houve violação a julgamento de recurso repetitivo - REsp n. 1.483.362/SC - , na medida em que a recorrida realizou o pagamento sem qualquer correção monetária e que a correção monetária deveria incidir a partir do evento danoso.
+Sem contrarrazões (e-STJ, fl. 319).
+Juízo de admissibilidade positivo.
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Dito isso, o Tribunal de origem, ao considerar que a atualização monetária sobre o valor indenizatório deve observar como termo a quo a data do evento danoso, alinhou-se à jurisprudência desta Corte, consolidada por julgamento de recurso repetitivo, senão vejamos:
+RECURSO ESPECIAL REPETITIVO. CIVIL. [NOME]. INDENIZAÇÃO. ATUALIZAÇÃO MONETÁRIA. TERMO "A QUO". DATA DO EVENTO DANOSO. ART. 543-C DO CPC.
+1. Polêmica em torno da forma de atualização monetária das indenizações previstas no art. 3º da Lei 6.194/74, com redação dada pela Medida Provisória n. 340/2006, convertida na Lei 11.482/07, em face da omissão legislativa acerca da incidência de correção monetária.
+2. Controvérsia em torno da existência de omissão legislativa ou de silêncio eloquente da lei.
+3. Manifestação expressa do STF, ao analisar a ausência de menção ao direito de correção monetária no art. 3º da Lei nº 6.194/74, com a redação da Lei nº 11.482/2007, no sentido da inexistência de inconstitucionalidade por omissão (ADI 4.350/DF).
+4. Para os fins do art. 543-C do CPC: A incidência de atualização monetária nas indenizações por morte ou invalidez do seguro [NOME], prevista no § 7º do art. 5º da Lei n. 6194/74, redação dada pela Lei n. 11.482/2007, opera-se desde a data do evento danoso.
+5. Aplicação da tese ao caso concreto para estabelecer como termo inicial da correção monetária a data do evento danoso.
+6. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.483.620/SC, Segunda Seção, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 1º/6/2015).
+A propósito, a orientação adotada no referido recurso repetitivo foi, inclusive, registrada recentemente no enunciado da Súmula n. 580/STJ, segundo o qual: "A correção monetária nas indenizações do seguro [NOME] por morte ou invalidez, prevista no § 7º do art. 5º da Lei n. 6.194/1974, redação dada pela Lei n. 11.482/2007, incide desde a data do evento danoso", merecendo reforma, portanto, o acórdão atacado.
+Ante o exposto, dou provimento ao recurso especial para determinar a incidência da correção monetária a partir da data do evento danoso.
+Publique-se.
