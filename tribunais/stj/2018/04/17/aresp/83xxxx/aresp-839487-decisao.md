@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 1ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 214):
+ADMINISTRATIVO. CURSO DE RECICLAGEM DE VIGILANTE. SENTENÇA PENAL TRANSITADA EM JULGADO. INEXISTÊNCIA. INEXISTÊNCIA DE RESTRIÇÃO AO EXERCÍCIO DE PROFISSÃO. FALTA DE CARACTERIZAÇÃO DE ANTECEDENTES CRIMINAIS LEI 7.102/93.
+1. A orientação do Supremo Tribunal Federal e Superior Tribunal de Justiça: e desta Corte Regional é no sentido de que não se deve considerar como antecedente criminal a circunstância de alguém figurar como indiciado em inquérito policial, mas tão-somente, a condenação por fato criminoso, transitada em julgado.
+2. Na hipótese dos autos foi imputada ao impetrante a prática de ilícito penal, inexistindo, contudo, prova de existência de sentença penal condenatória transitada em julgado, devendo se resguardado o seu direito de exercer a profissão de vigilante.
+3. Nega-se provimento ao recurso de apelação e à remessa oficial.
+Embargos de declaração rejeitados (e-STJ fls. 234/237).
+No especial obstaculizado, a ora agravante aponta violação dos arts. 16, VI, 19, II, da Lei n. 7.102/83; 4º, I e 6º, VIII, da Lei n. 10.826/2003.
+Depois de contra-arrazoado (e-STJ fls. 265/273), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, em face da incidência da Súmula 83 do STJ (e-STJ fls. 286/287).
+Na presente irresignação, a UNIÃO alega, em resumo, que o recurso obstado atende aos pressupostos de admissibilidade e, ao final, reitera os argumentos anteriormente expendidos.
+Sem contraminuta.
+Em parecer (e-STJ fls. 309/311), o Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial.
+Passo a decidir.
+Inicialmente, cumpre destacar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerado, verifico que a irresignação recursal não merece prosperar.
+A jurisprudência do STJ firmou-se no sentido de que viola o princípio da presunção de inocência o impedimento de registro e homologação de curso de formação ou reciclagem de vigilante, por ter sido verificada a existência de inquérito ou ação penal não transitada em julgado, notadamente quando o delito imputado não envolve o emprego de violência contra pessoa ou comportamento incompatível com as funções de vigilante.
+Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXERCÍCIO PROFISSIONAL. CURSO DE RECICLAGEM DE VIGILANTES. NEGATIVA DE REGISTRO EM RAZÃO DA EXISTÊNCIA DE AÇÃO PENAL NÃO TRANSITADA EM JULGADO. DENUNCIAÇÃO CALUNIOSA. IMPOSSIBILIDADE. IDONEIDADE QUE NÃO PODE SER ILIDIDA PELA EXISTÊNCIA DE DELITO EPISÓDICO, QUE NÃO TRAGA CONSIGO UMA VALORAÇÃO NEGATIVA SOBRE A CONDUTA EXIGIDA AO PROFISSIONAL. VIOLAÇÃO DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. AGRAVO INTERNO DA UNIÃO DESPROVIDO.
+1. A jurisprudência desta Corte consolidou entendimento segundo o qual viola o princípio da presunção de inocência o impedimento de participação ou registro de curso de formação ou reciclagem de vigilante, por ter sido verificada a existência de Inquérito ou Ação Penal não transitada em julgado. Precedentes: REsp. 1.604.113/DF, Rel. Min. OG FERNANDES, DJe 20.9.2016; AgRg no REsp. 1.561.915/PB, Rel. Min. ASSUSETE MAGALHÃES, DJe 14.3.2016; AgRg no REsp. 1.452.502/SC, Rel. Min. SÉRGIO KUKINA, DJe 3.9.2015.
+2. Consta dos autos que a parte autora teve indeferido o pedido de registro dos cursos de reciclagem de vigilante, em virtude de estar sendo processada criminalmente por denunciação caluniosa, delito que não envolve emprego de violência contra pessoa ou denota comportamento agressivo incompatível com o exercício da função de vigilante.
+3. Esta Corte Superior firmou compreensão de que a idoneidade do vigilante é requisito essencial ao exercício de sua profissão, não sendo ela elidida na hipótese de haver processo em andamento ou condenação por delito episódico e que não traga consigo uma valoração negativa sobre a conduta exigida ao profissional, como no presente caso. Precedentes: AgRg no AREsp. 420.293/GO, Rel. Min. MAURO CAMPBELL MARQUES, DJe 5.2.2014 REsp. 1.241.482/SC, Rel. Min. HUMBERTO MARTINS, DJe 26.4.2011.
+4. Agravo Interno da UNIÃO desprovido. (AgInt no REsp 1542931/SC, rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 31/03/2017). (Grifos acrescidos).
+No caso, o agravado é investigado por suposta prática do delito previsto no art. 296, § 1º, III, do Código Penal (crime contra a fé pública), circunstância que, à míngua de violência contra pessoa, afasta a incompatibilidade dele com a atividade de vigilante.
+Ante o exposto, com base no art. 253, II, parágrafo único, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
