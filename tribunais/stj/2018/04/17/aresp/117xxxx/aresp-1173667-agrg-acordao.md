@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA E VIOLAÇÃO DE DOMICÍLIO. CITAÇÃO POR HORA CERTA. AFIRMATIVA DO TRIBUNAL A QUO DE QUE O RÉU SE OCULTOU DO OFICIAL DE JUSTIÇA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AUSÊNCIA DE ENVIO DE CORRESPONDÊNCIA COM INFORMAÇÃO DA CITAÇÃO POR HORA CERTA. MERA FORMALIDADE. PREJUÍZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual afastou a tese de nulidade da citação por hora certa porque, com base nas provas dos autos, constatou que o réu se ocultou do oficial de justiça com o intuito de frustrar a citação. Nessa extensão, rever o entendimento do acórdão recorrido demandaria amplo reexame do conteúdo fático-probatório dos autos, providência obstada pela Súmula n. 7 do STJ.
+2. De acordo com a jurisprudência do STJ, o envio da correspondência de que trata o art. 229 do CPC é mera formalidade, e não constitui requisito fundamental para sua validade. Precedentes.
+3. Consoante o princípio pas de nullité sans grief, não há nulidade sem demonstração de prejuízo concreto.
+4. A defesa não logrou demonstrar a existência de prejuízo ao réu, pois ele, depois de haver sido citado por hora certa, constituiu advogado de sua confiança, o que lhe garantiu plena ciência do trâmite processual e o exercício da ampla defesa. Além disso, o acusado poderia postular prazo para apresentação do rol de testemunhas, como o fez o Ministério Público, todavia, quedou-se inerte, de modo que houve a preclusão da questão.
+5. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Maria Thereza de Assis Moura e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+RAUL ARRUDA BARROS NETO interpõe agravo regimental contra a decisão na qual conheci do agravo para não conhecer do recurso especial.
+O agravante afirma ser "inconteste o fato de que para discutir a necessidade dessa modalidade de citação seria necessário o reexame de provas, situação vedada pela Súmula n. 7 desta e. Corte Superior, por isso o inconformismo defensivo é específico à falta de comunicação ao agravante dessa citação por hora certa" (fls. 480-481).
+Requer a reconsideração da decisão agravada ou a submissão da questão ao órgão colegiado competente.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AMEAÇA E VIOLAÇÃO DE DOMICÍLIO. CITAÇÃO POR HORA CERTA. AFIRMATIVA DO TRIBUNAL A QUO DE QUE O RÉU SE OCULTOU DO OFICIAL DE JUSTIÇA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AUSÊNCIA DE ENVIO DE CORRESPONDÊNCIA COM INFORMAÇÃO DA CITAÇÃO POR HORA CERTA. MERA FORMALIDADE. PREJUÍZO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A Corte estadual afastou a tese de nulidade da citação por hora certa porque, com base nas provas dos autos, constatou que o réu se ocultou do oficial de justiça com o intuito de frustrar a citação. Nessa extensão, rever o entendimento do acórdão recorrido demandaria amplo reexame do conteúdo fático-probatório dos autos, providência obstada pela Súmula n. 7 do STJ.
+2. De acordo com a jurisprudência do STJ, o envio da correspondência de que trata o art. 229 do CPC é mera formalidade, e não constitui requisito fundamental para sua validade. Precedentes.
+3. Consoante o princípio pas de nullité sans grief, não há nulidade sem demonstração de prejuízo concreto.
+4. A defesa não logrou demonstrar a existência de prejuízo ao réu, pois ele, depois de haver sido citado por hora certa, constituiu advogado de sua confiança, o que lhe garantiu plena ciência do trâmite processual e o exercício da ampla defesa. Além disso, o acusado poderia postular prazo para apresentação do rol de testemunhas, como o fez o Ministério Público, todavia, quedou-se inerte, de modo que houve a preclusão da questão.
+5. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Mantenho a decisão agravada, pois não há motivos para alterar a compreensão assim externada, in verbis (grifos no original):
+A respeito da apontada nulidade da citação por hora certa, assim se pronunciou o Magistrado de primeiro grau (fl. 242):
+Preliminarmente, não há que se falar em nulidade da citação por hora certa vez que o acusado não teve sua defesa cerceada.
+Bem poderia, até mesmo em audiência, requerer abertura de prazo para arrolar suas testemunhas de defesa. Assim, por não tê-lo feito restou precluso seu direito.
+Disso se extrai, pois, que o réu não suportou qualquer prejuízo, notadamente por constituiu advogado e tinha plena ciência do trâmite processual.
+A Corte estadual, ao apreciar o recurso de apelação, consignou que (fls. 360-361):
+Não há se falar em nulidade da citação, pois demonstrado que o recorrente ocultou-se com o intuito de frustrar a consecução do referido ato processual.
+Afinal, foram efetuadas doze tentativas de notificação pessoal, sendo certo que, em todas as diligências, o sr. Oficial de justiça deixou seu número telefônico para possibilitar posterior contato por parte do acusado (cf. certidões de fls. 77, 81, 83 e 90).
+Mesmo ciente de tais circunstâncias (cf. informado pelo porteiro do prédio  certidão de fl. 90), no dia e horário agendados, o apelante novamente se ausentou, chegando a desligar seu celular com o nítido escopo de não ser encontrado, panorama que realmente justifica a incidência do disposto no art. 362 do Código de Processo Penal.
+De outra parte, como bem destacado no parecer ministerial (fl. 277), não se verifica nenhum prejuízo decorrente da realização da citação por hora certa.
+Isso porque, posteriormente, Raul constituiu advogado de sua confiança (cf. procuração de fl. 136), o que lhe garantiu plena ciência do trâmite processual e o exercício da ampla defesa.
+Ademais, o recorrente poderia ter postulado prazo para apresentação do rol de testemunhas por ocasião da audiência, assim como o fez, aliás, o ilustre representante do Ministério Público (cf. termo de fl. 135). Todavia, quedou-se inerte, restando preclusa a questão.
+Opostos embargos de declaração pela defesa, o referido Tribunal assentou (fl. 380):
+O decisum fundamentou que o acusado comprovadamente se ocultou por diversas vezes com o escopo de frustrar sua notificação pessoal, daí porque acertada a citação por hora certa. Em acréscimo, restou consignado que a falta de demonstração de efetivo prejuízo ao embargante impediria o reconhecimento da aventada nulidade processual, entendimento, aliás, consolidado pelas Cortes Superiores e que em nada contraria o aspecto anteriormente apontado.
+Inicialmente, cabe consignar que a Corte de origem afastou a tese de nulidade da citação feita por hora certa porque, com base nas provas dos autos, constataram que o recorrente "ocultou-se com o intuito de frustrar a consecução do referido ato processual" (fl. 360, grifei). Com efeito, o Tribunal a quo registrou que "foram efetuadas doze tentativas de notificação pessoal, sendo certo que, em todas as diligências, o sr. Oficial de justiça deixou seu número telefônico para possibilitar posterior contato por parte do acusado" (fl. 361). Também, destacou que o réu chegou "a desligar seu celular com o nítido escopo de não ser encontrado (fl. 361).
+Nesse contexto, concluir em sentido oposto ao decidido pelas instâncias ordinárias demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável em recurso especial a teor do prescrito pela Súmula n. 7 do STJ. Nesse sentido:
+ ..
+1. A análise dos fundamentos que ensejaram o reconhecimento de que a citação por hora certa obedeceu todos os requisitos legais para sua realização exigiria o reexame do contexto fático e probatório dos autos, o que é vedado nesta via especial, ante o óbice da Súmula 7 desta Corte.
+2. Agravo regimental desprovido. (AgRg no REsp n. 1.348.248/MG, Rel. Ministro Marco Buzzi, 4ª T., DJe 2/3/2017)
+ ..
+1. O Tribunal de origem, com base no acervo probatório dos autos, concluiu pela ocorrência de ocultação do agravante para ser citado. Assim, a pretensão de modificação do julgado nesse aspecto envolve necessariamente reexame de prova, situação vedada em recurso especial, a teor da Súmula nº 7 do STJ.
+ ..
+(AgRg no REsp n. 1.537.625/RJ, Rel. Ministro Moura Ribeiro, 3ª T., DJe 13/10/2015)
+ ..
+I - A análise do argumento de que o recorrente não teria se furtado de receber a citação ou, ainda, de que não recebeu a carta comunicando que esta fora realizada por hora certa, assim como da assertiva de que os documentos constantes dos autos não demonstram a legitimidade do proponente da ação de despejo, demanda revolvimento de matéria fática e de cláusula contratual, vedado em sede de recurso especial, ex vi das Súmulas 5 e 7 do STJ. (REsp n. 328.356/SP, Rel. Ministro Felix Fischer, 5ª T., DJ 25/2/2004)
+Além disso, "A jurisprudência desta Corte é no sentido de que o envio da correspondência mencionada no art. 229 do CPC, contendo a informação da citação por hora certa, é mera formalidade, não se constituindo como requisito para sua validade, que ocorreu de forma regular" (AgRg no REsp n. 1.537.625/RJ, Rel. Ministro Moura Ribeiro, 3ª T., DJe 13/10/2015, destaquei). No mesmo entendimento, cito, ainda, o AgRg no REsp 1.430.255/MG e o REsp 1.084.030/MG.
+Por fim, é cediço que, "Não se logrando êxito na comprovação do alegado prejuízo, tendo somente sido suscitada genericamente a matéria, mostra-se inviável, pois, o reconhecimento de qualquer nulidade processual, em atenção ao princípio do pas de nullité sans grief" (RHC n. 71.493/RJ, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 12/9/2016, grifei).
+No presente caso, as instâncias ordinárias asseveraram não haver o réu sofrido qualquer prejuízo, "porque, posteriormente, Raul constituiu advogado de sua confiança (cf. procuração de fl. 136), o que lhe garantiu plena ciência do trâmite processual e o exercício da ampla defesa. Ademais, o recorrente poderia ter postulado prazo para apresentação do rol de testemunhas por ocasião da audiência, assim como o fez, aliás, o ilustre representante do Ministério Público (cf. termo de fl. 135). Todavia, quedou-se inerte, restando preclusa a questão" (fl. 361). Dessa forma, não há se falar em nulidade.
+Essa tem sido a compreensão do STJ:
+ ..
+1. Não se constata qualquer ilegalidade apta a inquinar de nulidade o ato citatório, na medida em que o oficial de justiça certificou que realizou as diligências necessárias à localização do recorrente no endereço informado nos autos pelo advogado constituído, e, ainda, de que havia indícios da sua ocultação para impedir a realização do ato.
+2. Ademais, conforme declarado pelo defensor constituído, o recorrente tinha plena ciência da ação penal em seu desfavor, tendo recebido, inclusive, cópia da acusação, não tendo comparecido a Juízo apenas para não ser preso.
+3. O recorrente não demonstrou qualquer prejuízo por ele suportado em razão da sua citação por hora certa, sublinhando-se o fato de ter constituído advogado, que esteve presente a todos os atos processuais realizados, apresentou defesa e memoriais, bem como recurso em sentido estrito contra a decisão de pronúncia.
+4. Recurso improvido. (RHC n. 43.819/ES, Rel. Ministro Jorge Mussi, 5ª T., DJe 19/2/2014, destaquei)
+ ..
+II - No sistema de nulidades pátrio, em que vigora o princípio pas de nullité san grief, somente se proclama a nulidade de um ato processual quando houver demonstração de efetivo prejuízo à defesa, o que não ocorreu na hipótese.
+III - In casu, o paciente apresentou tempestivamente resposta escrita à denúncia, razão pela qual resta sanada a eventual nulidade do ato de notificação por hora certa, já que ausente qualquer prejuízo ao exercício do contraditório e ampla defesa (Precedentes). Ordem parcialmente conhecida e, nesta parte, denegada. (HC n. 127.789/RS, Rel. Ministro Felix Fischer, 5ª T. DJe 13/8/2009)
+IV. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+No tocante ao inconformismo por não haver sido comunicado acerca da realização de sua citação pela forma indicada (por hora certa), a irregularidade, se existente, não lhe trouxe aparentemente, nenhum prejuízo, visto que constituiu advogado, que lhe patrocinou e lhe assegurou a amplitude de defesa.
+À vista do exposto, nego provimento ao agravo regimental.
