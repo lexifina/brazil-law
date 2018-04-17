@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que não admitiu o recurso especial sob os seguintes fundamentos (e-STJ fls. 280/282): (a) consonância entre o entendimento do acórdão recorrido e a orientação do Superior Tribunal de Justiça, (b) inexistência de ofensa ao art. 458 do CPC/1973 e (c) aplicação da Súmula n. 7/STJ.
+O acórdão recorrido possui a seguinte ementa (e-STJ fl. 201):
+PRESCRIÇÃO - PARTICIPAÇÃO FINANCEIRA EM INVESTIMENTO DO SERVIÇO TELEFÔNICO COMPLEMENTAÇÃO DE PARTICIPAÇÃO ACIONÁRIA - PRETENSÃO DE NATUREZA PESSOAL - PRAZO PRESCRICIONAL APLICÁVEL - EXEGESE DOS ARTS. 177 DO CC/16, ARTS. 205 E 2028 DO CC/02 - TERMO "A QUO" DO LAPSO PRESCRICIONAL - DATA DA VIOLAÇÃO DO DIREITO - EFETIVA SUBSCRIÇÃO DAS AÇÕES - CC/02, ART. 189. O cômputo do prazo prescricional inicia-se do momento em que ocorre a violação ao direito da parte (CC/02, art. 189), ou seja, quando da efetiva subscrição (emissão das ações), que, no caso, ocorreu posteriormente à integralização. SUBSCRIÇÃO DE AÇÕES RESPONSABILIDADE DA CONCESSIONÁRIA PELA EMISSÃO DE AÇÕES - VALOR PATRIMONIAL DA AÇÃO (VPA) QUE DEVE SER APURADO COM BASE NO BALANCETE DO MÊS DA INTEGRALIZAÇÃO - DESCUMPRIMENTO - RECEBIMENTO DA DIFERENÇA - RECURSO PROVIDO. Nos contratos de participação financeira firmados entre a Telesp e o adquirente de linha telefônica, o assinante-acionista tem direito de receber a quantidade de ações correspondente ao valor patrimonial na data da integralização (Súmula 371 do STJ).
+Os embargos declaratórios opostos foram parcialmente acolhidos, para sanar omissão quanto ao critério de conversão em perdas e danos (e-STJ fls. 230/238).
+No especial (e-STJ fls. 241/264), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou dissídio jurisprudencial e violação dos arts. 333 e 458, I e II, do CPC/1973 e 6º, VIII, e 7º, 8º e 170 da Lei n. 6.404/1976.
+Sustentou: (i) ausência de fundamentação no acórdão impugnado, (ii) que a subscrição das ações seria devida somente após a efetiva incorporação da rede ao capital social da companhia telefônica, utilizando o valor patrimonial da ação conforme o balanço aprovado na mesma assembleia da integralização e (iii) impossibilidade da inversão do ônus da prova na fase decisória.
+No agravo (e-STJ fls. 299/314), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 326).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade do recurso especial.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, por isso devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas até então pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O Colegiado de origem analisou de forma fundamentada as questões submetidas a exame, apenas não adotando a tese defendida pela parte, não havendo se falar em ofensa ao art. 458, II, do CPC/1973.
+A Corte estadual negou provimento à apelação da companhia telefônica quanto ao valor patrimonial da ação, conforme o seguinte excerto (e-STJ fl. 207):
+Simples exame da radiografia do contrato, trazido aos autos pela requerida (fls. 41), permite inferir ter a autora investido a quantia de R$ 1.094,07, com emissão de 5.016 ações preferenciais, adotado o Valor Patrimonial da Ação (VPA) do mês da capitalização, no caso 31/12/1998, ofendendo, assim, a súmula 371, que estabelece que o VPA deveria ser aquele da data da integralização, que no caso foi em 31/03/1997.
+(..)
+O cálculo da quantidade de ações cabíveis aos assinantes efetivamente deveria ter tomado por base o valor pago por eles considerado o valor patrimonial da ação vigente ao tempo da integralização, até porque inexiste nos autos qualquer prova de que o aporte de recursos somente tenha ocorrido na data da subscrição, como afirma a requerida.
+A insurgência recursal, todavia, não trouxe impugnação específica capaz de combater o fundamento do acórdão relativo à inexistência de prova de que o aporte de recursos somente ocorreu na data em que foram subscritas as ações, pois limitaram-se a afirmar que a subscrição das ações seria devida após a efetiva incorporação da rede ao capital social da companhia telefônica, utilizando o valor patrimonial da ação conforme o balanço aprovado na mesma assembleia da integralização.
+Apresentada a questão nesses termos, conclui-se que o recurso encontra óbice na Súmula n. 283/STF, in verbis:
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do especial, por falta de debate prévio. Há, portanto, a incidência das Súmulas n. 282 e 356 do STF, respectivamente:
+É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Dessa forma, o recurso especial não reúne condições de admissibilidade no que concerne à alegada ofensa aos arts. 6º, VIII, do CDC e 333 do CPC/1973, em virtude da ausência de prequestionamento, consoante se infere do acórdão recorrido (e-STJ fls. 198/209).
+Ressalte-se que o tema também não foi arguido nos embargos de declaração opostos na origem (e-STJ fls. 212/224).
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
