@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA ANGELINA SPINELLI MEDEIROS contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 99):
+AGRAVO REGIMENTAL - PREVIDENCIÁRIO - REVISÃO DE BENEFÍCIO - INCLUSÃO NO CÁLCULO DA PENSÃO POR MORTE DO VALOR DO AUXÍLIO ACIDENTE RECEBIDO EM VIDA PELO SEGURADO FALECIDO - LEI Nº 8.213/91, ARTIGO 31, ARTIGO 34 E INC. II, ARTIGO 86 E § 1º, § 2º, § 3º E LEI Nº 9.528/97.
+1. A questão posta no agravo é a irresignação da parte autora com a decisão que negou provimento à apelação interposta e manteve integralmente a r. sentença de primeiro grau, que negou o pedido de recálculo da renda mensal inicial do beneficio de forma que o beneficio de Auxílio-Acidente recebido pelo seu cônjuge falecido seja computado no cálculo da pensão por morte a que faz jus, em conformidade com a Lei nº 8.213/91, artigo 31, artigo 34 e inc. II, artigo 86 e § 1º, § 2º, § 3º e Lei nº 9.528/97.
+2. Não há como prosperar a pretensão de incorporar o valor do auxílio-acidente percebido pelo segurado falecido no cálculo da pensão por morte, posto que, o óbito ocorreu em 29/08/2000 e o segurado recebia auxílio acidente desde 16/05/1972 e aposentadoria por tempo de serviço desde 23/01/1986, de acordo com a legislação previdenciária anterior, mantido pela Lei nº 8.213/91, art. 86, § 40 até que foi revogada pela Lei nº 9.032, de 28.04.95. A autora percebe o benefício de pensão por morte NB3 21/ 117.925.676-7 requerido em 11/09/2000, desde o falecimento.
+3. Agravo regimental desprovido.
+No especial obstaculizado, a recorrente alega que o acórdão recorrido viola o direito adquirido e o ato jurídico perfeito pois "se a Lei nova (9.528/97) não foi suscitada para impedir o recebimento em conjunto dos dois benefícios (aposentadoria e auxílio-acidente), não pode também interferir no direito de inclusão do valor do segundo na pensão correspondente" (e-STJ fl. 108)
+As contrarrazões não foram apresentadas (e-STJ fl. 119).
+O recurso não foi admitido e a parte interpôs agravo (e-STJ fls 123/124 e 126/137).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Feito tal esclarecimento, verifico que a pretensão recursal subjacente ao presente agravo não se mostra passível de acolhimento.
+Isso porque "a jurisprudência desta Corte é no sentido de que ocorrendo o óbito do instituidor da pensão na vigência da Lei 9.032/95, não é possível a incorporação da metade do valor do auxílio-acidente, percebido em vida pelo de cujus, à pensão por morte, uma vez que referida lei revogou o § 4º do art. 86 da Lei 8.213/91" (AgInt no AREsp 891.155/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/05/2016, DJe 25/05/2016)
+No mesmo sentido:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. AUXÍLIO-ACIDENTE. INCORPORAÇÃO DE METADE DE SEU VALOR À PENSÃO. ART. 86, § 4º, DA LEI 8.213/91. REVOGAÇÃO PELA LEI 9.032/95. ÓBITO DO SEGURADO POSTERIOR À VIGÊNCIA DA LEI 9.032/95. APLICAÇÃO DO PRINCÍPIO TEMPUS REGIT ACTUM. AGRAVO REGIMENTAL IMPROVIDO.
+I. "A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado" (Súmula 340 do STJ).
+II. O art. 86, § 4º, da Lei 8.213/91 - revogado pela Lei 9.032/95 - previa que "quando o segurado falecer em gozo do auxílio-acidente, a metade do valor deste será incorporada ao valor da pensão se a morte não resultar do acidente do trabalho".
+III. No caso, foi concedido auxílio-acidente de 40% ao de cujus, em 01/03/1994, em razão das sequelas deixadas por acidente típico, ocorrido em 18/03/1992, com fundamento no art. 86, § 4º, da Lei 8.213/91. Entretanto, o instituidor da pensão faleceu em 28/07/2004, de forma que os requisitos para a incorporação da metade do auxílio-acidente à pensão por morte foram reunidos após a vigência da Lei 9.032/95, não havendo que se falar, pois, em retroatividade do § 4º do art. 86 da Lei 8.213/91, em atenção ao princípio tempus regit actum. Precedentes do STJ (AgRg no Ag 792.475/SP, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, DJ de 05/02/2007; e REsp 685.596/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJ de 15/08/2005).
+IV. Agravo regimental improvido.
+(AgRg no REsp 1308322/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 02/09/2014, DJe 11/09/2014)
+Na hipótese dos autos, a pretensão recursal encontra óbice na orientação referida, pois o óbito do segurado ocorreu em momento posterior ao da edição da Lei n. 9.032/1997, a saber, em 29/08/2000 (e-STJ fl. 99).
+Por fim, não haverá arbitramento de honorários recursais, por se tratar de recurso interposto na vigência do Código de Processo Civil de 1973.
+Ante o exposto, com base no art. 253, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se.
+Intimem-se.
