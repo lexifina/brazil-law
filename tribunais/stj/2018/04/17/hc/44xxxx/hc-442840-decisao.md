@@ -1,0 +1,21 @@
+DECISÃO
+MARCOS SILVEIRA DE ANFLOR, paciente neste habeas corpus, alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul no Recurso em Sentido Estrito n. 0021340-34.2016.8.21.7000.
+Nesta Corte, a defesa sustenta, em resumo, a ausência de motivação idônea para decretar a prisão preventiva do réu, pela suposta prática do delito previsto no art. 157, § 2º, I, c/c o art. 14, II, ambos do Código Penal, além do excesso de prazo para encerramento do feito.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+Decido.
+Da análise dos autos, ao menos em um juízo de cognição sumária, não vislumbro manifesto constrangimento ilegal a ensejar o deferimento da medida de urgência.
+O Juízo singular, ao receber os autos da prisão em flagrante do paciente, acusado da prática do delito previsto no art. 157, § 2º, I, c/c o art. 14, II, ambos do CP, manteve sua liberdade, mediante a imposição de medidas cautelares diversas.
+Irresignado, o Ministério Público estadual interpôs recurso em sentido estrito, ao qual o Tribunal de Justiça deu provimento para impor ao réu a prisão preventiva, sob a seguinte fundamentação (fls. 78-81, destaquei):
+Presente o fumus comissi delicti à decretação da medida excepcional, constando a apreensão de um canivete em poder do agente (fl. 11), sendo que a admissão da prática delitiva, conforme levada a efeito pelo investigado, restou confirmada pelos dizeres da vítima, bem como pelo reconhecimento que fez e depoimentos dos policiais militares que efetuaram sua prisão em flagrante.
+Por outro lado, o periculum libertatis resta evidenciado, como dito, pela periculosidade do recorrido, que tentou praticar o roubo em local movimentado (um posto de gasolina), em pleno horário de funcionamento - 18h -, ameaçando o frentista com um canivete, que reagiu jogando combustível sobre ele e defendendo-se com uma cadeira, tudo colocando em risco o próprio frentista e as demais pessoas que ali estavam, em ação que, não tenho dúvidas, abalou seriamente a ordem pública.
+Ademais, como bem ressaltou o ilustre Parquet, o flagrado, em seu relato à autoridade policial, além do presente, confessou a prática de outras condutas delitivas, todas, segundo ele, praticadas em conluio com outro comparsa, dentre elas um roubo praticado em uma residência, no qual teriam amarrado e amordaçado as vítimas, roubando-lhes R$ 200,00.
+Ainda que estes fatos não digam com o presente, bem demonstram o perigo da soltura deste indivíduo, que demonstrou que vem agindo de forma violenta, reiteradamente atacando o patrimônio alheio, precisando ser contido.
+ ..
+De forma que, diante do modus operandi utilizado pelo agente, bem como a admissão, perante a autoridade policial, de outros crimes também de elevada gravidade, imperiosa a constrição cautelar, porquanto a outra conclusão não se pode chegar a não ser a de que a sua liberdade está a colocar em risco a ordem pública, justificando, assim, a excepcionalidade da medida.
+Ao indeferir o pedido de revogação da constrição cautelar, o Juízo singular evidenciou o fundado risco de reiteração delitiva, ao destacar que "não convence o argumento no sentido de que, por ser réu primário, merece a liberdade provisória, sobretudo porque possui processos penais instaurados contra si. À evidência, como já referido, essa situação não serve para que se os considere reincidente, mas pode embasar a necessidade de prisão cautelar" (fl. 110, grifei).
+Assim, em análise perfunctória, observo a indicação de motivação idônea a ensejar a custódia provisória do paciente. Com efeito, a jurisprudência desta Corte Superior é firme ao asseverar que o registro de ações penais ou inquéritos policiais em andamento evidencia o risco de reiteração delitiva e, por isso mesmo, pode ensejar a segregação preventiva do réu.
+Acerca do excesso de prazo, verifico que o Tribunal local não se manifestou sobre o mérito do writ lá impetrado, o que, em princípio, configura supressão de instância e impede a apreciação da matéria por esta Corte Superior.
+À vista do exposto, indefiro a liminar.
+Solicitem-se informações à autoridade apontada como coatora, bem como ao Juízo de primeiro grau, via malote digita.
+Em seguida, encaminhem-se os autos ao Ministério Público Federal para manifestação.
+Publique-se e intimem-se.
