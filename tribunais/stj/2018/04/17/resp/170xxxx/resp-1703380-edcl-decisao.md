@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos por [NOME] contra decisão que deu provimento ao recurso especial que interpôs, para restabelecer a sentença de fls. 281/289 (fls. 386/393).
+O embargante menciona que a sentença de fls. 281/289, além de conceder os proventos da graduação imediata e o auxilio invalidez, condenou a Ré ao pagamento de honorários fixados em 10% sobre o valor da causa. O Tribunal de origem, deu provimento às apelações das partes, para negar o recebimento dos proventos da graduação imediata, bem como fixar os honorários em 10% sobre o valor da condenação. A parte ré conformou-se com o acórdão, não interpondo qualquer recurso para este STJ, e o ora embargante recorreu tão somente para que lhe fosse reconhecido o direito de receber os proventos da graduação imediata, o que veio a ser concedido na decisão ora embargada.
+Pontua que a parte do acórdão que fixou o valor da verba de sucumbência em 10% sobre o valor da condenação transitou em julgado, já que, repita-se, a Ré não ofertou qualquer recurso.
+Afirma que, ao dar provimento ao recurso especial, e determinar o restabelecimento da sentença de 1º grau, a decisão fica contraditória e até mesmo contém erro material, já que a decisão de piso tinha como base dos honorários o valor da causa enquanto o acórdão que revogou aquela fixou o percentual sobre o valor da condenação.
+Pretende seja aclarado o julgado, determinando-se que os honorários devidos são aqueles fixados pelo acórdão em 10% sobre o valor da condenação.
+É o relatório.
+Com razão o embargante.
+Do exame dos autos é de se constatar que a verba honorária foi alterada pela instância ordinária que, provendo a apelação do autor, condenou a União Federal ao pagamento do percentual de 10% sob o valor da condenação (fl. 337).
+O acórdão proferido às fls. 337/347, efetivamente, não foi objeto de recurso da parte ré, sendo certo que o apelo nobre, interposto pelo autor, requereu a restauração parcial da sentença, na parte que assegurou a ele o direito ao recebimento de proventos da graduação imediata (fls. 363/364).
+Dessa forma, merecem acolhimento, com efeito infringente, os embargos de declaração, a fim de que, alterando o dispositivo do julgado de fls. 386/393, dele passe a constar o provimento do recurso especial, para o restabelecimento parcial da sentença de fls. 281/289, na parte que assegurou a ele o direito ao recebimento de proventos da graduação imediata.
+Publique-se.
