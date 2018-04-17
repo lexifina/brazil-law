@@ -1,0 +1,19 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. SISTEMA ÚNICO DE SAÚDE-SUS. REAJUSTE DA TABELA. PLANO REAL. FATOR DE CONVERSÃO DA MOEDA. ACÓRDÃO REGIONAL RECORRIDO QUE DEIXOU DE APRECIAR A TESE ARGUMENTADA A RESPEITO DOS JUROS MORATÓRIOS (ART. 1o.-F DA LEI 9.494/1997). NULIDADE RECONHECIDA POR OFENSA AO ART. 535, II DO CPC/1973. RECURSO ESPECIAL PROVIDO EM PARTE, APENAS PARA ANULAR O ACÓRDÃO DOS ACLARATÓRIOS JULGADOS NA CORTE REGIONAL, DETERMINANDO-SE SEU REJULGAMENTO CONFORME SE ENTENDER DE JUSTIÇA.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento na alínea a do permissivo constitucional, contra acórdão prolatado pelo egrégio TRF da 5a. Região, assim ementado:
+ADMINISTRATIVO. SISTEMA ÚNICO DE SAÚDE-SUS. MÉDICOS CONVENIADOS. REAJUSTE DE TABELA. PLANO REAL. FATOR DE CONVERSÃO DA MOEDA. PRESCRIÇÃO. SUMULA No. 85 DO STJ.
+I. A questão refere-se a pagamento de serviços prestados por conveniado no âmbito do Sistema Único de Saúde-SUS, o que configura prestação de trato sucessivo. Desta forma, a prescrição não atinge as prestações posteriores, alcançando somente as parcelas devidas no qüinqüênio que antecede ao ajuizamento da ação, conforme disposto na Súmula 85 do STJ.
+II. O STJ já se posicionou no sentido de que, para efeito de reembolso dos hospitais e médicos conveniados ao SUS, o fator de conversão do real é o fator de 2.750 e não o criado pelo Ministério da Saúde de 3.013, por ser este autoridade incompetente frente à atribuição exclusiva do Banco Central do Brasil. Precedente:
+III. A correção dos serviços tabelados no âmbito do SUS, em decorrência da instituição do Plano Real, deve ser processada conforme determinado pelo art. § 3o., da MP no. 542/95, convertida na Lei no. 9096/95, combinado com o Comunicado no. 4000 do Banco Central do Brasil.
+IV. Remessa oficial e apelação improvidas (fls. 203).
+2. Houve oposição de Aclaratórios, os quais restaram improvidos (fls. 227).
+3. Nas razões do Apelo Raro, alegou-se ofensa aos arts. 535, II do CPC; 15, §§ 1o., 5o., 7o. e 26 da Lei 8.080/1990; art. 23, § 1o. da MP 542/1994 (convertida na Lei 9.069/1995), além de dispositivos da CF/1988 e da Portaria GM/MS 1.323/1999.
+4. Contrarrazões às fls. 275/281. Inicialmente, o Apelo teve seu seguimento denegado (art. 543-C, § 7o., I do CPC/1973) ante o julgamento do repetitivo: REsp. 1.179.057/AL, Rel. Min. ARNALDO ESTEVES LIMA, como representativo da controvérsia, em relação ao mérito da causa.
+5. Dessa decisão,B sobreveio recurso interno para invocar a necessidade de tramitação do Apelo Raro, no que tange aos juros moratórios (Lei 9.494/1997), bem como à prescrição do fundo de direito (arts. 1o. e 2o. do Decreto-lei 20.910/1932).
+6. À vista dessa irresignação, reconsiderou-se, parcialmente, a decisão denegatória anterior, para se admitir o Apelo Raro quanto à violação ao art. 535, II do CPC/1973.
+7. É o relatório.
+8. De início, verifica-se que conforme constou da decisão de admissibilidade, realmente não houve análise da tese argüida acerca dos juros de mora, a saber, a incidência do art. 1o.-F da Lei 9.494/1997, em que pese a interposição de Aclaratórios onde se alegou a referida omissão.
+9. Ora, sabe-se que a referida matéria foi objeto de ADI"s perante a Suprema Corte, e ainda, de modo específico, conta com Recursos Especiais afetados como repetitivos.
+10. Entretanto, ainda que firmada a tese aplicável, no presente caso, a ausência do necessário prequestionamento, este entendido como sendo a discussão e decisão da matéria, impede que esta Corte Superior, conheça da alegação.
+11. Ante o exposto, dá-se parcial provimento ao Apelo Raro, para, anulando o acórdão dos Aclaratórios, determinar que a egrégia Corte Regional reaprecie o Recurso Integrador de fls. 207/219, conforme entender de justiça.
+12. Publique-se. Intimações necessárias.
