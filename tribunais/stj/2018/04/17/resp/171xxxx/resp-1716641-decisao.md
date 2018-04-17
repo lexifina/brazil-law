@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, fundado na alínea "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça local, cuja ementa é a seguinte (e-STJ fl. 164):
+TRÁFICO DE DROGAS. Hipótese na qual não se apreendeu substância entorpecente. Depoimentos de agentes de segurança penitenciária pelos quais se depreende tão-somente o encontro de papeis contendo anotações características da mercancia espúria em cela ocupada pelo réu. Atipicidade da conduta. Acolhimento. Portanto, recurso provido.
+A parte recorrente, em suas razões recursais, sustenta que a materialidade do crime de tráfico de drogas pode ser demonstrada por meio de prova documental e testemunhal, sendo prescindível a apreensão da droga e a elaboração do laudo toxicológico. Busca apresentar dissídio jurisprudencial.
+Apresentadas contrarrazões (e-STJ fls. 251/255), o recurso especial foi admitido (e-STJ fls. 258), manifestando-se o Ministério Público Federal pelo não conhecimento deste (e-STJ fls. 270/273).
+É o relatório. Decido.
+O recurso não merece acolhida.
+Não se pode conhecer de recurso especial fundado na alínea "c" do permissivo constitucional quando a parte recorrente não realiza o necessário cotejo analítico entre os arestos confrontados, a fim de ficarem demonstradas a similitude fática e a adoção de teses divergentes. Divergência jurisprudencial não demonstrada.
+Ademais, mesmo quando o recurso especial é interposto com fundamento na alínea "c" do permissivo constitucional, é necessária a indicação do dispositivo da legislação infraconstitucional federal sobre o qual recai a divergência, o que não foi realizado, sob pena de atração da Súmula n. 284 do Supremo Tribunal Federal, por analogia (fundamentação deficiente).
+Mesmo que superados tais óbices, o recurso não prosperaria.
+O Tribunal a quo, ao absolver o acusado, não divergiu da jurisprudência desta Corte Superior de Justiça no sentido de que é imprescindível para a demonstração da materialidade do crime de tráfico a apreensão de drogas.
+Nessa linha, o seguinte julgado:
+PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO. AÇÃO PENAL. FALTA DE JUSTA CAUSA. AUSÊNCIA DE MATERIALIDADE. APREENSÃO DE DROGAS. IMPRESCINDIBILIDADE PARA O TRÁFICO. NÃO PARA O CRIME DE ASSOCIAÇÃO PARA O TRÁFICO.
+1. É imprescindível para a demonstração da materialidade do crime de tráfico a apreensão de drogas. Precedentes desta Corte. Ressalva do ponto de vista da relatora.
+2. Para a configuração do delito previsto no art. 35 da Lei n.º 11.343/06 é desnecessária a comprovação da materialidade quanto ao delito de tráfico, sendo prescindível a apreensão da droga ou o laudo toxicológico. É indispensável, tão somente, a comprovação da associação estável e permanente, de duas ou mais pessoas, para a prática da narcotraficância.
+3. Ordem concedida parcialmente para trancar a ação penal apenas no tocante ao crime de tráfico de drogas, estendendo os efeitos desse julgamento, nos termos do art. 580 do Código de Processo Penal, aos demais denunciados. (HC 432.738/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/03/2018, DJe 27/03/2018)
+Salienta-se, ainda, que, no julgamento do ERESp n. 1544057/RJ, de minha relatoria, a Terceira Seção desta Corte pacificou o entendimento de que o laudo toxicológico definitivo é imprescindível à comprovação da materialidade dos delitos envolvendo entorpecentes, sem o qual é forçosa a absolvição do acusado, admitindo-se, no entanto, em situações excepcionais, que a materialidade do crime de drogas seja feita por laudo de constatação provisório, desde que ele permita grau de certeza idêntico ao do laudo definitivo e tenha sido elaborado por perito oficial (EREsp 1544057/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 26/10/2016, DJe 09/11/2016).
+No presente caso, não houve a apreensão de substância entorpecente, devendo ser o acusado absolvido.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, e no art. 255, § 4º, inciso I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
