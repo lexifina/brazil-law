@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FORMA DE LIQUIDAÇÃO DE SENTENÇA. PRECLUSÃO. REVOLVIMENTO DO ACERVO FÁTICO. SÚMULA 7/STJ. INTEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO INTERPOSTO NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 283/STF.
+1. O Tribunal de origem não conheceu do Agravo de Instrumento contra decisão que homologou os cálculos em liquidação por arbitramento com base nos seguintes fundamentos: a) preclusão para discutir a forma de liquidação (a ora agravante pretendia realizar a liquidação por artigos); e b) intempestividade do recurso porque as decisões que fixaram o regime de liquidação e determinaram a inversão do ônus probatória não foram objeto de impugnação no momento adequado.
+2. A assertiva, lançada no Recurso Especial da empresa, de que não havia decisão judicial inequívoca a respeito do regime de liquidação (se por arbitramento ou por artigos) contrasta com a premissa adotada no acórdão hostilizado, o que atrai a incidência da Súmula 7/STJ.
+3. Por último, a ausência de impugnação ao fundamento de que o Agravo de Instrumento era intempestivo torna aplicável o óbice da Súmula 283/STF.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do Recurso Especial.
+A agravante afirma que lhe parece que o acórdão hostilizado, em seu próprio bojo, "deixou passar pelo seu crivo a própria transcrição da forma como foi feita a prova pericial, em que o perito ainda afirmou que seria necessária a prova do "fato novo", algo que se refere à liquidação por artigos e não por arbitramento" (fl. 1485, e-STJ).
+No que se refere à questão da intempestividade, defende ser inaplicável o óbice da Súmula 283/STF, pois o posicionamento da Corte local a esse respeito encontra-se vinculado à interpretação que ela deu ao instituto da preclusão, de modo que, inexistindo autonomia entre os temas, o afastamento da Súmula 7/STJ acarretará, automaticamente, a superação da incidência da Súmula 283/STF.
+Por último, a agravante acrescenta que "a questão relativa à modalidade de liquidação em nada poderia significar a falta de conhecimento do agravo de instrumento como um todo ou ainda a proibição (verdadeira censura processual) de a TAM, ora agravante, poder questionar a decisão que julgou a liquidação, nos termos do art. 475-H, do CPC/1973, especialmente porque (..) os demais fundamentos e pedidos recursais residiram em outras bases que têm origens diferentes, são independentes e são dissociadas do despacho ordinatório mencionado pelo v. acórdão recorrido" (fl. 1488, e-STJ).
+Foi apresentada impugnação.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Não procede a irresignação da agravante.
+O argumento de que, em outro excerto do voto condutor do acórdão proferido nas instâncias de origem, faz-se referência à opinião do perito a respeito da prova de "fato novo" não exclui o registro, também lá lançado, de que tanto em 2011 como em 2012 foram publicadas decisões que categoricamente fixaram o regime de liquidação por arbitramento, sem interposição de recurso pela parte.
+Ademais, o fato de o perito ter se utilizado da expressão "fato novo" em sua manifestação não leva à conclusão de que a Corte local estava em dúvida a respeito da forma de liquidação.
+Consequentemente, não merece acolhida a argumentação para que seja superada a incidência da Súmula 7/STJ e, por consequência, a da Súmula 283/STF (no que diz respeito à ausência de impugnação ao entendimento de que o Agravo de Instrumento protocolado na Corte local é intempestivo).
+Melhor sorte não assiste em relação ao provimento parcial do apelo nobre, para forçar a Corte local a examinar os fundamentos ditos autônomos do Agravo de Instrumento lá interposto.
+Isso porque consta no acórdão hostilizado que o mesmo raciocínio, quanto à intempestividade, se aplica à discussão a respeito da alegada "inversão do ônus da prova". Infere-se, na seguinte transcrição do provimento jurisdicional oriundo do Tribunal a quo: "(..) se a agravante pretendesse o reconhecimento da indevida inversão do ônus da prova deveria ter se insurgido contra a r. Decisão que detemrinou a realização da perícia, após a manifestação do Sr. [NOME] fls. 783/785 deste instrumento, e não neste momento processual" (fl. 1251, e-STJ).
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
