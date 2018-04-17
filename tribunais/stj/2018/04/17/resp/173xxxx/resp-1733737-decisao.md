@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. IMPROBIDADE ADMINISTRATIVA. FALTA DE PREQUESTIONAMENTO DAS ALEGADAS OFENSAS A DISPOSITIVOS NORMATIVOS EMBORA OPOSTOS EMBARGOS DE DECLARAÇÃO. SÚMULA 211/STJ. APLICABILIDADE DA LEI DE IMPROBIDADE A AGENTES POLÍTICOS. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO NAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 283/STF POR APLICAÇÃO ANALÓGICA. RECURSO ESPECIAL NÃO CONHECIDO. .
+DECISÃO
+Trata-se de recurso especial interposto por MESSIAS DA SILVA JUNIOR e por [NOME] MIRANDOLA BARBOSA em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fl. 751):
+AGRAVO INTERNO Decisão monocrática Entendimento do art. 557, caput, segunda parte e § 1.º-A, do CPC Possibilidade, independentemente de outros pressupostos Cabível ao relator negar provimento, de forma monocrática, a recurso que se apresentar em confronto com jurisprudência dominante do mesmo Tribunal ou de Tribunal Superior, ante o disposto no art. 557, caput, segunda parte do Cód. Proc. Civil, independentemente de ser manifestamente inadmissível, improcedente ou prejudicado, pressupostos distintos, contidos na primeira parte do artigo de lei (art. 557, caput, segunda parte, do CPC). Possível dar-se provimento a recurso, se a decisão recorrida estiver em confronto com jurisprudência dominante nos Tribunais Superiores (art. 557, § 1º - A, do CPC).
+Os embargos de declaração não foram acolhidos (e-STJ fls. 783/794).
+Nas razões do recurso especial, a parte ora Recorrente aduz que houve ofensa aos arts. 5º, da Lei de Ação Civil Pública, 17, da Lei de Ação Popular e 30 do Estatuto da Advocacia, pois "a defesa na verdade é de ato do Município praticado pelo chefe do executivo, havendo portanto, interesse do Município que tais atos sejam defendidos e mantidos. No caso em testilha, houve defesa, de atos de oficio ou seja de atos praticados na qualidade de prefeito municipal de Ituverava, não podendo falar em ato de improbidade" (e-STJ fl. 815).
+As contrarrazões foram juntadas às e-STJ fls. 822/830.
+Decisão de admissibilidade do recurso especial (e-STJ fls. 908/909).
+Parecer do Ministério Público Federal (e-STJ fls. 915/916).
+É o relatório. Decido.
+Incide o Enunciado administrativo n. 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Embora opostos embargos de declaração, não houve o necessário prequestionamento das alegadas ofensas aos arts. arts. 5º, da Lei de Ação Civil Pública, 17, da Lei de Ação Popular e 30 do Estatuto da Advocacia. Incide assim a Súmula 211/STJ a inviabilizar o conhecimento destas insurgências.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. IMPROBIDADE. ENUNCIADO 3/STJ. APLICABILIDADE. ACÓRDÃO QUE INDEFERIU PEDIDO DE INDISPONIBILIDADE DE BENS. AUSÊNCIA DE FUMUS BONI IURIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VIOLAÇÃO DOS ARTS. 10 E 11 DA LIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211 DO STJ. APLICAÇÃO DA REGRA PREVISTA NO ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO. INVIABILIDADE. REQUISITOS LEGAIS NÃO PREENCHIDOS.
+ ..
+4. Quanto à apontada violação dos arts. 10 e 11 da LIA, extrai-se do acórdão recorrido que os dispositivos legais apontados como violados e as matérias a eles correlatas não foram objeto de apreciação pelo Tribunal de origem, nem sequer implicitamente. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado. Aplicação do óbice fundado na Súmula 211 do STJ.
+5. O Superior Tribunal de Justiça vem se posicionando no sentido de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+6. Recurso especial não conhecido.
+(REsp 1684231/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+Além do mais, observo que o acórdão recorrido apenas discutiu a aplicação da Lei de Improbidade Administrativa a agentes políticos. Esse fundamento não foi devidamente impugnado nas razões do recurso especial, o que leva à incidência da Súmula 283/STF por aplicação analógica.
+Incidente o teor da Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
