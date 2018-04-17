@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (eDOC 2, p. 283):
+    “AGRAVO LEGAL. AÇÃO RESCISÓRIA COM FULCRO NO ART. 485, INCISO V, DO CPC. DECISÃO MONOCRÁTICA. APLICÁVEL O ART. 557, INCISO V, DO CPC. INEXISTÊNCIA DE VIOLAÇÃO DE LEI. AGRAVO IMPROVIDO.
+    1 - A jurisprudência vem entendendo ser plenamente possível o julgamento de ação rescisória por meio do art. 557 do CPC. Precedentes desta Corte.
+    2 - A r. decisão rescindenda reconheceu o direito à concessão do benefício postulado pela parte ré, única e exclusivamente porque, após análise das provas constantes dos autos originários, entendeu restar comprovada, por meio de início de prova material corroborado por prova testemunhal, a sua condição de rurícola pelo período legalmente exigido nos moldes do art. 55, § 3º, da Lei nº 8.213/91, razão pela qual não há que se falar em violação de lei.
+    3 - É assente a orientação pretoriana, reiteradamente expressa nos julgados desta Corte, no sentido de que o órgão colegiado não deve modificar a decisão do Relator, salvo na hipótese em que a decisão impugnada não estiver devidamente fundamentada ou padecer dos vícios da ilegalidade e abuso de poder, que possam gerar dano irreparável ou de difícil reparação.
+    4 - Agravo legal improvido.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 32).
+    No recurso extraordinário, com fundamento no artigo 102, III, a, do permissivo constitucional, aduz-se ofensa aos artigos 5º, XXXVI; 195, § 5º; e 202, caput, da Constituição Federal.
+    Nas razões recursais sustenta-se, em suma, que (eDOC 3, p. 65):
+    “... o trabalhador rural em regime de economia familiar (segurado especial, condição sustentada pelo Recorrido ao ajuizar a lide primitiva), a fim de fazer jus ao benefício de aposentadoria por idade deveria comprovar, além do requisito etário, o exercício de atividade rural, ainda que de forma descontínua, por período equivalente a carência necessária ao deferimento do benefício, em período imediatamente anterior ao requerimento do benefício.
+    (…)
+    No caso dos autos, uma vez que nascido em 08/09/1930, o Réu implementou o quesito idade em 1985, data em que já não exercia mais atividade rural, fato incontroverso e reconhecido pela própria parte ré. Assim, não há de se falar em direito adquirido para situação não consolidada.”
+    A Vice-Presidência do TRF/3ª Região inadmitiu o recurso com base no entendimento de que a ofensa, caso exista, é meramente reflexa (eDOC 3, p. 82-83).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, verifica-se que o Tribunal de origem, reproduzindo trechos da decisão monocrática, assim asseverou (eDOC 2, p. 279-280):
+    “In casu, a r. decisão rescindenda reconheceu o direito à concessão do benefício postulado pela parte ré, única e exclusivamente porque entendeu restar comprovada, por meio de início de prova material corroborado por prova testemunhal, a sua condição de rurícola pelo período legalmente exigido nos moldes do art. 55, § 3º, da Lei nº 8.213/91.
+    Com efeito, a r. decisão rescindenda teve como fundamento da procedência do pedido a existência de documentos e de testemunhas demonstrando a condição de rurícola da parte ré pelo período de carência exigido pelos artigos 142 e 143 da Lei nº 8.213/91.
+    (...)
+    Vale dizer ainda que o fato da parte ré ter implementado o requisito etário e cumprido a atividade rural anteriormente ao advento da Lei nº 8.213/91, por si só, não é obstáculo à concessão do benefício, já que a referida lei, ao instituir a aposentadoria por idade rural, em nenhum momento exigiu que tais requisitos fossem cumpridos posteriormente à sua entrada em vigor.
+    Desse modo, não padece de ilegalidade a decisão que, baseada na análise do conjunto probatório e na persuasão racional do julgador, conclui pela satisfação das condições necessárias à concessão do benefício de aposentadoria por idade a trabalhador rural, ainda que o implemento dos requisitos não tenha ocorrido de forma simultânea.”
+    Na espécie, depreende-se dos fundamentos que constam da ementa do acórdão recorrido, que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Lei Federal 8.213/91) e por meio do exame de fatos e provas. Desse modo, o entendimento a respeito dos critérios de concessão do benefício de aposentadoria do trabalhador rural revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Além disso há a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA DE  TRABALHADOR RURAL.  CUMPRIMENTO DOS REQUISITOS PARA CONCESSÃO DO BENEFÍCIO: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL QUE SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DOS §§ 2º, 3º E 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL/2015, E MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 1.079.183-AgR, Ministra Presidente, Tribunal Pleno, DJe 12.4.2018).
+    “Agravo regimental no recurso extraordinário com agravo. Previdenciário. Aposentadoria de trabalhador rural. Requisitos para concessão do benefício não demonstrados na origem. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.” (ARE 674.431-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 27.6.2013).
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a, do Código de Processo Civil e 21, § 1º, do RISTF.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
