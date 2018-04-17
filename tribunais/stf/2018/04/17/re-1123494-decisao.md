@@ -1,0 +1,10 @@
+DECISÃO: O presente recurso extraordinário é insuscetível de conhecimento, eis que, embora a parte recorrente não houvesse sucumbido, mesmo assim recorreu, indevidamente, do acórdão proferido pelo Tribunal “a quo”, transgredindo, com tal comportamento, diretriz processual básica, segundo a qual somente se legitima o interesse de recorrer, quando efetivamente concretizada hipótese configuradora de sucumbência.
+    Com efeito, verifico que, ao contrário do que sustenta o ora recorrente, em sua petição recursal, o acórdão questionado em sede recursal extraordinária não reconheceu o direito pleiteado pela parte ora recorrida.
+    Como se sabe, a sucumbência qualifica-se como pressuposto recursal genérico, comum a qualquer recurso, caracterizada pela ocorrência, em maior ou em menor grau, de lesividade à situação jurídica da parte a quem foi desfavorável a resolução judicial do litígio.
+    Isso significa, portanto, que é do estado de sucumbência que resulta o interesse jurídico legitimador do exercício do direito de recorrer, de tal modo que, inexistente a situação de sucumbência, nada justifica – precisamente em face da ausência desse pressuposto geral de recorribilidade – o próprio cabimento do recurso eventualmente interposto (VICENTE GRECO FILHO, “Direito Processual Civil Brasileiro”, vol. 2/260 e 266/267, item n. 61, 4ª ed., 1989, Saraiva; JOSÉ FREDERICO MARQUES, “Manual de Direito Processual Civil”, vol. III/171-172, item n. 599, 2ª ed., 1998, Millennium; HUMBERTO THEODORO JÚNIOR, “Curso de Direito Processual Civil”, vol. I/554, item n. 528, 25ª ed., 1998, Forense; NELSON NERY JÚNIOR/ROSA MARIA ANDRADE NERY, “Código de Processo Civil Comentado”, p. 963, item n. 17, 4ª ed., 1999, RT, v.g.).
+    Sendo assim, e em face das razões expostas, não conheço do recurso extraordinário, por manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem em favor da parte ora recorrida.
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
