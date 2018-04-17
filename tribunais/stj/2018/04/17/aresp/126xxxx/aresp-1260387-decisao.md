@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo (CPC/2015, art. 1.042), interposto contra decisão que não admitiu o recurso especial sob os seguintes fundamentos (e-STJ fls. 532/541): (a) inexistência de ofensa ao art. 535 do CPC/1973 e (b) incidência da Súmula 83/STJ.
+O acórdão recorrido possui a seguinte ementa (e-STJ fl. 452):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. REAJUSTES SALARIAIS. REPASSE AOS INATIVOS. NÃO CABIMENTO.
+1. A prescrição qüinqüenal não atinge o fundo de direito, aplicando-se apenas às parcelas vencidas anteriormente aos 5 (cinco) anos da propositura da ação. Aliás, "O pagamento de complementação de aposentadoria é obrigação de trato sucessivo, sujeita, pois, à prescrição quinquenal que alcança somente as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação e não o próprio fundo de direito (Súmulas nº 291 e 427 do STJ)
+2. O Superior Tribunal Justiça, no Recurso Especial repetitivo n. 1.425.326/RS, julgado na forma do artigo 543-C, do CPC/73, atual 1.036 do NCPC, pacificou a questão acerca da extensão dos realinhamentos salariais concedidos aos inativos, determinando a impossibilidade do repasse aos inativos de toda e qualquer vantagem recebida pelos trabalhadores ativos. Ação improcedente.
+DERAM PARCIAL PROVIMENTO AO APELO.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 487/499).
+No especial (e-STJ fls. 502/512), interposto com base no art. 105, III, "a", da CF, os recorrentes apontaram violação dos arts. 535, II, do CPC/1973, 3º da Lei Complementar n. 108/2001, 113 e 114 do CC/2002.
+Sustentaram: (i) negativa de prestação jurisdicional, (ii) ofensa ao regulamento do plano de benefícios que expressamente prevê reajustes aos aposentados nos mesmos níveis salariais dos empregados em atividade e (iii) desrespeito ao princípio da boa-fé objetiva que rege os contratos.
+No agravo (e-STJ fls. 544/551), afirmam a presença de todos os requisitos de admissibilidade do especial.
+A contraminuta foi apresentada às fls. 557/566 (e-STJ).
+É o relatório.
+Decido.
+O recurso merece provimento.
+O Tribunal a quo negou provimento à apelação dos autores quanto à questão de fundo, manifestando-se nos seguintes termos (e-STJ fls. 460/461):
+No tocante à questão de fundo, o Superior Tribunal Justiça, no Recurso Especial repetitivo n. 1.425.326/RS, julgado na forma do artigo 543-C, do CPC/73, atual 1.036 do NCPC, de relatoria do eminente Min. Luis Felipe Salomão, pacificou a questão acerca da extensão dos realinhamentos salariais concedidos aos inativos, consignando:
+PREVIDÊNCIA PRIVADA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART 543-C DO CPC. PLANO DE BENEFÍCIOS SUBMETIDO À LEI COMPLEMENTAR N. 108/2001, JÁ OPERANTE POR OCASIÃO DO ADVENTO DA LEI. VEDAÇÃO DE REPASSE DE ABONO E VANTAGENS DE QUALQUER NATUREZA PARA OS BENEFÍCIOS EM MANUTENÇÃO. CONCESSÃO DE VERBA NÃO PREVISTA NO REGULAMENTO DO PLANO DE BENEFÍCIOS DE PREVIDÊNCIA PRIVADA, AINDA QUE NÃO SEJA PATROCINADO POR ENTIDADE DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE.
+1. Para fins do art. 543-C do Código de Processo Civil: a) Nos planos de benefícios de previdência privada fechada, patrocinados pelos entes federados - inclusive suas autarquias, fundações, sociedades de economia mista e empresas controladas direta ou indiretamente -, é vedado o repasse de abono e vantagens de qualquer natureza para os benefícios em manutenção, sobretudo a partir da vigência da Lei Complementar n. 108/2001, independentemente das disposições estatutárias e regulamentares; b) Não é possível a concessão de verba não prevista no regulamento do plano de benefícios de previdência privada, pois a previdência complementar tem por pilar o sistema de capitalização, que pressupõe a acumulação de reservas para assegurar o custeio dos benefícios contratados, em um período de longo prazo.
+2. Recurso especial provido.
+Nesse contexto, em sendo definida a impossibilidade do repasse aos inativos de toda e qualquer vantagem recebida pelos trabalhadores ativos, como no caso "vertente, impositiva a improcedência da ação.
+Entretanto, nas razões dos embargos de declaração opostos, os agravantes salientaram que a demanda não postula nenhuma verba indenizatória ou repasse de vantagens, mas apenas o cumprimento do contrato firmado entre as partes, conforme o seguinte excerto (e-STJ fls. 471/472):
+Ainda cabe ressaltar que o julgado proferido no REsp nº 1.425.326/RS tem como objeto pedido de vantagem deferida para a categoria ativa e não repassada aos inativos, caso diverso do presente pleito, onde não se questiona inserção de verba na concessão do beneficio, mas, simplesmente, o reajuste anual correto dado ao beneficio em manutenção de acordo com o contratado, motivo pelo qual se demonstra a contradição do presente julgado.
+(..)
+No entanto, não há olvidar que, na época da conquista do direito, a requerida obrigou-se à complementação da aposentadoria, de maneira que toda vez que se verificar aumento geral de salários os associados terão seu beneficio mensal reajustado com base nos mesmos níveis, conforme o art. 14 do Estatuto, ou seja, do beneficio contratado, o que, sem dúvida, deve ser observado, sob pena de desvirtuamento da própria finalidade do que se conhece por previdência complementar.
+Artigo 14. Toda vez ,que se verificar um aumento geral de salários no Banco, os associados aposentados, no regime deste Regulamento, terão seu benefício mensal reajustado com base nos níveis salariais dos empregados em atividade, de igual padrão, função ou comissionamento, na forma dos artigos 10, 11 e 12. (grifos no original.)
+O Tribunal de origem, mesmo provocado a se manifestar a respeito do tema na inicial e nos embargos opostos, permaneceu silente quanto à matéria.
+É pacífico nesta Corte o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido, para que a questão seja apreciada. Nesse sentido:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+(..)
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Ficam prejudicadas as demais questões trazidas no especial.
+Diante do exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso especial, a fim de ANULAR O ACÓRDÃO proferido no julgamento dos embargos de declaração (e-STJ fls. 487/499) e determinar o retorno dos autos ao Tribunal de origem para exame da omissão apontada.
+Publique-se e intimem-se.
