@@ -1,0 +1,65 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 489 E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional, matéria insuscetível de ser examinada em sede de recurso especial.
+3. A alteração das conclusões adotadas pela Corte de origem, tal como proposta pela recorrente, demandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por RIVALDO FRANCO SOBRAL, desafiando decisão que negou provimento a agravo em recurso especial, sob os seguintes fundamentos: (I) inexistência de violação aos arts. 489 e 1.022, II do CPC/2015; (II) ter o Tribunal de Origem decidido a controvérsia à luz de fundamento prevalentemente constitucional; e (III) que a alteração das conclusões adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+O agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicional, pois o Tribunal de origem não haveria se manifestado sobre pontos relevantes ao deslinde da causa. Afirma a desnecessidade de reexame de fatos e provas, não sendo aplicável ao caso o óbice da Súmula 7/STJ, além de não se tratar de matéria eminentemente constitucional.
+As razões do recurso foram impugnadas às fls. 596/597.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado na decisão recorrida, verifica-se não ter ocorrido qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, "Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional." (AgInt no AREsp 879.172/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/09/2016, DJe 28/09/2016).
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA
+OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução
+jurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 27/09/2016).
+Ademais, a instância ordinária solveu a controvérsia sob a seguinte fundamentação (fls. 371/378):
+Sabe-se que a aposentadoria especial consiste em um benefício que garante ao trabalhador uma contrapartida diferenciada para compensar os desgastes auferidos pelo segurado ao longo dos anos.
+A Constituição Federal, especificamente em seu artigo 40, §4º, prevê a possibilidade de aposentadoria especial do servidor público.
+(..)
+De acordo com a norma constitucional, impõe-se regulamentação específica, por meio da qual se defina o inteiro conteúdo normativo, a viabilizar o exercício do direito à aposentadoria especial.
+(..)
+Trata-se de uma norma constitucional de eficácia limitada (de aplicação indireta ou mediata). Essa regra condiciona o exercício do direito a aposentadoria especial do servidor público, uma vez que limita o direito a uma posterior edição de lei.
+Tem-se que a intenção do constituinte, ao prever a regulamentação posterior, era possibilitar uma melhor elaboração por Lei específica.
+Ocorre que, até o presente momento, tal Lei Complementar (vale dizer, de iniciativa da Presidenta da República, por força do art. 61, II, "a", da Lei Maior) não foi editada (caracterização da mora legislativa na regulamentação da norma constitucional em questão).
+Deste modo, o direito à aposentadoria especial para o servidor público possui algumas nuances, em razão da inexistência de lei específica regulamentando a matéria.
+Com efeito, a lei específica, referida no texto constitucional, ainda não foi editada, a causar celeuma na doutrina e na jurisprudência no sentido de concretizar tal direito.
+(..)
+Infere-se que o Juiz de primeiro grau, ao reconhecer a existência do risco na atividade exercida pelo autor e que este conta com quase 34 (trinta e quatro) anos de serviço público, aplicou, por analogia, no caso, a citada Lei Complementar Federal nº 51/85, que dispõe sobre a aposentadoria do servidor público policial, nos termos do § 4º, inciso II, do artigo 40 da Constituição Federal, e, assim, com fundamento no artigo 1º, reconheceu o direito à aposentadoria especial.
+A referida Lei Complementar Federal nº 51/85, a qual, segundo entendimento do Supremo Tribunal Federal, foi recepcionada pela Constituição Federal, garante o direito à aposentadoria especial, tão somente, àqueles servidores ocupantes de "cargo de natureza estritamente policial".
+Do contexto fático-probatório que se desenha nos autos, verifica-se, primeiramente, que o autor sempre exerceu a função de professor de educação física, vinculado, inclusive, à Secretaria Estadual de Educação.
+Outrossim, observa-se que o reclamante encontra-se lotado na Fundação Renascer, antiga FEBEM/SE, atuando junto ao Centro de Atendimento a Menores (CENAM), onde possui, sem dúvidas, contato diário com menores infratores, recebendo, inclusive, adicional de periculosidade pela função exercida.
+No entanto, entende-se que tal situação, data venia maxima, de forma alguma, pode ser regulada pela Lei Complementar nº 51/85.
+Isso porque os cargos de professor e policial possuem natureza completamente diversa, a não autorizar, assim, por analogia, a aplicação do mencionado diploma legal.
+Ademais, o Supremo Tribunal Federal, em situação semelhante, por meio do julgamento do MI 6.516/DF, de Relatoria do Ministro Gilmar Mendes, em 18.06.2015, assinalou que "A jurisprudência assentada pelo Plenário desta Corte no julgamento ocorrido em 11.6.2015, Mis 833 e 844, Red. p/ acórdão Min. Roberto Barroso (Cf. Inf. 789), consolidou-se no sentido de que apenas as profissões de policial e agente penitenciário têm direito à aposentadoria especial em razão do risco das atividades exercidas." Conquanto seja razoável imaginar o caráter perigoso das atividades realizadas pelo autor no âmbito do serviço público, cumpre reconhecer, no entanto, em face da orientação firmada pelo plenário da Excelsa Corte, que somente os policiais e agentes penitenciários fazem jus à aposentadoria especial em razão da atividade de risco (art. 40, §4º, II, da CF), situação que não se subsume ao caso. Logo, ao contrário do que decidiu o Juiz de primeiro grau, inaplicável, no caso, a Lei Complementar nº 51/85 ao caso.
+(..)
+Deste modo, segundo entendimento majoritário do Supremo Tribunal Federal, para fins de concessão de aposentadoria especial, nos termos do §4º, inciso II, do artigo 40 da Constituição Federal, a lei deve estabelecer critérios para aferição de situações concretas de risco no serviço público. Em relação a tais atividades existe um estado de omissão infraconstitucional, exceto no caso das atividades "estritamente policiais", que foram contempladas pela já citada Lei Complementar nº 51/85. Quanto às demais atividades, o reconhecimento do direito à aposentadoria especial dependerá da discricionariedade legislativa, respeitadas as disposições constitucionais.
+Logo, resta afastada a aplicação, no caso, da Lei Complementar nº 51/85.
+No que se ( refere ao benefício da aposentadoria especial, a que se refere o artigo 40, §4º, inciso III, da Constituição Federal (atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física), o plenário do Supremo Tribunal Federal, ao formular a Súmula Vinculante nº 33, firmou entendimento que, enquanto o Poder Legislativo continuar em mora, deverão ser aplicadas as regras da aposentadoria especial dos trabalhadores em geral (Regime Geral da Previdência Social - RGPS).
+(..)
+No caso em apreço, não restou evidenciado que o requerente exerce atividade sob condições especiais que prejudiquem a sua saúde ou a sua integridade física (a depender de agente físico, químico ou biológico ad qual está exposto).
+Por meio de perícia ambiental (fls. 160/171), restou demonstrada que "o autor exerce atividade de professor de educação física para menores infratores, o que, por si só, já pressupõe a exposição ao perigo contra a integridade física.." e que "O ambiente ao qual o
+requerente labora, apresenta situação de risco diário e constante contra a integridade física do trabalhador.." sic (fl. 170).
+Uma coisa é a atividade que põe em risco a integridade física, outra é a atividade que prejudica a integridade física.
+Restou comprovado, quando muito, um caráter de periculosidade e risco na atividade exercida pelo reclamante. No entanto, como sobredito, a definição da atividade de risco deve ser definida pelo Poder Legislativo, pois não há como o Judiciário estabelecer os requisitos que enquadrem determinada atividade profissional e permitam a análise de pedidos de aposentadoria especial.
+Assim, correta a decisão recorrida ao considerar que o Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional, matéria insuscetível de ser examinada em sede de recurso especial.
+A propósito, confira-se:
+ADMINISTRATIVO E CONSTITUCIONAL. SERVIDOR PÚBLICO ESTADUAL. VIOLAÇÃO AO ART. 535 DO CPC/1973 NÃO CONFIGURADA. APOSENTADORIA. TEMPO DE SERVIÇO. ATIVIDADES INSALUBRES. CONTAGEM ESPECIAL. ACÓRDÃO COM FUNDAMENTOS CONSTITUCIONAIS. EXAME EM RECURSO ESPECIAL. IMPOSSIBILIDADE.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. O Tribunal de origem utilizou fundamento constitucional para declarar que, enquanto pendente lei específica para os servidores públicos, a contagem do tempo de serviço de servidor público em condições insalubres deve ser realizada com base nas disposições da Lei 8.213/1991. Descabe, pois, a esta Corte examinar a questão, porquanto reverter o julgado significa usurpar competência do STF.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1651086/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/03/2017, DJe 20/04/2017)
+Ainda que assim não fosse, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
