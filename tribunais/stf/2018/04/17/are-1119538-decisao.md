@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos:
+    “Apelação Cível – Plano de Carreira – Município de Cubatão – Servidora que teve alterado o regime jurídico de acordo com a lei e, portanto, tem os mesmos direitos e deveres dos estatutários – Prescrição do fundo de direito afastada – Incidência apenas da prescrição quinquenal parcelar – Direito a ser submetida às avaliações periódicas conforme previsão legal – Exegese da Lei Municipal 1986/91 e Decreto Municipal 65894/92 – Inexistência de violação ao princípio da separação de poderes – A inércia do Excecutivo não pode invalidar os comandos do Legislativo – Previsão orçamentária que não pode servir de óbice ao cumprimento de dispositivo legal – Recurso desprovido” (eDOC 3 p. 54)
+    Os embargos de declaração opostos foram rejeitados. (eDOC 72)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2°; 18; 30, I e 37, X do texto constitucional.
+    Nas razões recursais, alega-se que o recorrido não tem direito à progressão, tendo em vista que o art. 1º do Decreto 6.594/92 está desatualizado, sendo necessária nova regulamentação para que a evolução na carreira seja implementada.
+    Diante desse entrave, sustenta-se não ser possível proceder à avaliação dos servidores para verificar o atendimento dos requisitos necessários às progressões pleiteadas.
+    Pugna-se, ao final, pelo provimento do recurso, para que seja julgada improcedente a demanda inicial.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação local aplicável à espécie (Lei Municipal 1.986/1991 e Decreto 6.594/1992) e o conjunto probatório constante dos autos, consignou que o Município deve observar a legislação local e dar andamento à evolução na carreira dos servidores, bem como realizar o consequente reenquadramento funcional. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “No mérito, pretende a autora obter a chamada progressão, submetendo-se à necessária avaliação de desempenho prevista na Lei 1986/91, regulamentada pelo Decreto Municipal 6594/92, nos seguintes termos:
+    (...)
+    Já o Decreto Municipal determinou que uma Comissão Especial seria formada para avaliar os casos de progressão, sendo inadmissível que passados mais de vinte anos a autora ainda não tenha sido avaliada.
+    Ao contrário do que é sustentado nas razões recursais, não há discricionariedade para o Poder Executivo cumprir as normas que, expressamente, instituíram a evolução a evolução funcional com clara e inafastável previsão dos critérios para a contagem de pontos.
+    (...)
+    A atuação judicial no pedido apresentado pela autora não representa violação ao princípio da independência dos Poderes, bem como não se trata de aumento de vencimentos pelo Poder Judiciário.
+    Como a lei previu, os critérios de progressão e promoção dos servidores, aqueles que são os destinatários da referida norma podem auferir todas as vantagens da lei, já que a inércia do Executivo não pode invalidar os comandos do Legislativo.
+    Nesse ínterim, perfaz a pretensão no sentido de ser a autora submetida ao processo de avaliação, como determina expressamente a legislação” (eDOC 3 p. 58-59)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito da legislação local, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o revolvimento do acervo fático-probatório. Nesses termos, incidem no caso as Súmulas 280 e 279 do STF.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PROGRESSÃO DE CARREIRA. SERVIDOR PÚBLICO MUNICIPAL. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. PRECEDENTES. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. APLICAÇÃO DE NOVA SUCUMBÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE-AgR 877539, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.03.2017)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PROGRESSÃO NA CARREIRA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. ALEGADA OFENSA AO ART. 5º, II, DA CF. OFENSA REFLEXA. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie (Lei 10.961/92 e Decreto 36.033/94). Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais. III Para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. IV - Agravo regimental improvido.” (AI-AgR 803599, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 10.11.2010)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista o disposto no art. 85, § 11, do CPC, majoro, em 10%, o valor da verba honorária fixada anteriormente, observados os limites previstos nos §§ 2º e 3º do referido dispositivo, ressalvada a eventual concessão do benefício da justiça gratuita.
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
