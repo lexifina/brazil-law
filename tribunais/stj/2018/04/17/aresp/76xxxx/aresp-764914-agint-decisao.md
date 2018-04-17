@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interno interposto por FEDERAÇÃO DAS EMPRESAS DE TRANSPORTE RODOVIÁRIOS DO ESTADO DO RIO GRANDE DO SUL contra decisão de minha lavra, em que conheci do agravo para não conhecer do recurso especial, em face do disposto na Súmula 284 do STF (e-STJ fls. 478/479).
+Sustenta o(a) agravante que o referido enunciado não se aplica à espécie, pois houve violação do art. 535 do CPC/1973 quando a Corte estadual, provocada via embargos de declaração, deixou de analisar a omissão e a contradição ali suscitadas.
+Decorrido o prazo legal, o(s) agravado(s) não apresentou(aram) impugnação.
+Tem razão o agravante.
+É que, examinando mais detidamente o apelo nobre, pude verificar que a alegação de nulidade por negativa de prestação jurisdicional não foi formulada de forma genérica, não sendo o caso de incidência da Súmula 284 do STF.
+Nesse passo, é de se reconhecer a insubsistência da decisão de e-STJ fls. 478/479.
+A superação de tal óbice, contudo, não permite o provimento do especial, como se vê a seguir.
+Os autos versam sobre ação direta de inconstitucionalidade de lei municipal "que dispõe acerca de isenções tarifárias no serviço público de transporte coletivo do Município de Rio Grande", proposta pela ora agravante em desfavor da Câmara Municipal e do Município de Rio Grande/RS (e-STJ fl. 388), demanda que foi julgada improcedente pela Corte Especial do Tribunal de origem.
+A recorrente, ora agravante, no recurso extremo, alegou que houve negativa de tutela jurisdicional porque o aresto recorrido "não apreciou a questão da violação do art. 163, § 4º, da Constituição Estadual, e do art. 9º da Lei de Mobilidade Urbana, Lei nº 12.587/2001, incorrendo, assim, em omissão." (e-STJ fl. 435).
+Ocorre que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1340652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1388789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/12/2015, DJe 04/03/2016, e AgRg no REsp 1545862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/11/2015, DJe 18/11/2015.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 478/479 e, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
