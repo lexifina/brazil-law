@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 702):
+AÇÃO CIVIL PÚBLICA. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO PARA DEFESA DO PATRIMÔNIO DA COLETIVIDADE. DANO AO ERÁRIO. UTILIZAÇÃO DE IMÓVEL DE USO COMUM DO POVO EM BENEFICIO PRÓPRIO. DESCUMPRIMENTO DE DECISÃO JUDICIAL QUE ANULOU O CONTRATO QUE AUTORIZARA TAL DESTINAÇÃO. INDENIZAÇÃO ARBITRADA EM MONTANTE EQUIVALENTE AO ALUGUEL DA ÁREA PELO PERÍODO DA OCUPAÇÃO ILEGAL. SENTENÇA CONFIRMADA. RECURSO DESPROVIDO.
+ADEQUAÇÃO DE OFÍCIO DO TERMO INICIAL E ÍNDICES DE JUROS E CORREÇÃO MONETÁRIA.
+Opostos embargos declaratórios, acolhidos e parcialmente providos, nestes termos (fl. 909):
+AÇÃO CIVIL PÚBLICA. RESSARCIMENTO DE DANO AO ERÁRIO. OCUPAÇÃO INDEVIDA DE IMÓVEL PÚBLICO POR VÁRIOS ANOS. LESÃO SUCESSIVA AO BEM JURÍDICO. PEDIDO DE INDENIZAÇÃO MENSAL
+PRESCRIÇÃO. INCIDÊNCIA NO CASO CONCRETO, POR SE TRATAR DE ILÍCITO CIVIL NÃO DECORRENTE DE IMPROBIDADE ADMINISTRATIVA. ENTENDIMENTO DO STF. RESSALVA DO PONTO DE VISTA DO RELATOR.
+PRAZO DE 5 ANOS, NA LINHA DE PRECEDENTES DO STJ, QUE INCIDE RETROATIVAMENTE À DATA DE PROPOSITURA DA DEMANDA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+"É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil". (RE n. 669.069, rei. Min. Teori Zavascki, Plenário, j. 3-2-2016)
+"A pretensão de ressarcimento de danos ao erário não decorrente de ato de improbidade prescreve em cinco anos". (EREsp 662844 / SP, rei. Min. Hamilton Carvalhido, Primeira Seção, j. 13-12-2010)
+Nas razões do recurso especial, a parte agravante aponta, além da divergência jurisprudencial, violação aos arts. 23, II, da Lei nº 8.429/92; 1º-C e 4º da Lei nº 9.494/97; 21 da Lei nº 4.717/65; 13 da Lei nº 7.347/55; e 47, 267, VI, e 333, I, do CPC/73. Para tanto, sustenta que a indenização pelo uso e gozo do bem público não poderia ser paga ao ente municipal proprietário do imóvel, mas ao fundo gerenciado pelo Conselho Estadual indicado pela legislação de regência. Aduz, ainda, que a pretensão ressarcitória estaria prescrita, pois ajuizada "depois de mais de vinte anos da decisão que declarou a nulidade do comodato.
+Defende sua ilegitimidade passiva ad causam, ao argumento de que, "Se a indenização postulada é devida por quem ocupa o imóvel, somente aquelas que ocuparam (pessoas jurídicas) devem ser demandadas.Assim, não se admite a desconsideração da personalidade jurídica, ex ofício, de diversas empresas para reverter a indenização obtida nesta decisão ao município que manteve-se inerte durante todos esses anos" (fl. 945).
+Alega, por outro lado, que as instituições de ensino que exploraram economicamente a área pública em litígio deveriam integrar o polo passivo da presente demanda, em razão da existência de litisconsórcio necessário.
+Por fim, assere que "o ônus da prova compete ao autor da Ação Civil Pública que jamais demonstrou que o recorrente poderia ser o proprietário ou beneficiário direto de qualquer quantia da locação" (fl. 945).
+É o relatório.
+No que diz respeito à prescrição da pretensão indenizatória, verifica-se que o recurso especial não impugna fundamento basilar que ampara o acórdão recorrido, qual seja, o de que, em se tratando de lesão sucessiva do patrimônio público, que se renova a cada dia em que o réu permaneceu ocupando indevidamente a área pública, o "prazo prescricional, nesse contexto, deve incidir para cada prestação individualmente considerada, contando-se o prazo, portanto, retroativamente à propositura da demanda" (fl. 917).
+Destarte, o inconformismo, nesse particular, esbarra no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Em razão do referido óbice sumular, não se conhece do dissídio jurisprudencial suscitado acerca da matéria.
+Quanto ao art. 13 da Lei nº 7.347/55, o Tribunal de origem não se pronunciou sobre a respectiva matéria, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+No tocante aos arts. 47, 267, VI, e 333, I, do CPC/73, melhor sorte não socorre a parte agravante.
+Ao solucionar a controvérsia, o Tribunal a quo asseverou (fls. 705/):
+A sentença que anulou o comodato transitou em julgado, mas nunca foi implementada, continuando o réu a usufruir, agora por locação a terceiros, do lote 27, que é área pública.
+O réu é o proprietário dos lotes 25 e 26 e beneficiado direta e exclusivamente pelo uso da área verde que deveria ter sido implementada no lote 27, como informara ao Parquet extrajudicialmente.
+Há prova de que os lotes 25 e 26 foram adquiridos pelo requerido e sua esposa em 13-9-1995, apesar de não ter sido registrada a escritura pública de compra e venda (f. 98/102).
+O atual responsável pelo Colégio Visão informou que o local onde exerce sua atividade é alugado desde julho de 2005, tendo o proprietário realizado inúmeros melhoramentos no imóvel, que há mais de 20 anos vem sendo ocupado inteiramente por particular.
+ ..
+Extrai-se do contrato de locação firmado entre a empresa do atual proprietário do Colégio Visão (Gardner Cursos e Colégios Ltda. ME) e ANJ Administração de Imóveis Ltda., que o objeto da contratação foi o imóvel como um todo, para sediar o centro educacional, sendo de R$ 8.500,00 o valor do aluguel a partir de 03/2006 (f. 62/65), informação esta ratificada pelo réu perante a Promotora de Justiça Márcia Arend.
+Ora, como [NOME] saberia o valor do aluguel se acaso fosse, como insiste em dizer em juízo, totalmente alheio à contratação, pois afirma que o contrato foi celebrado pela ANJ.
+É óbvio que o contrato não menciona o lote 27 como objeto da locação, mas também não indica os lotes 25 e 26, e isso tem uma razão lógica: o imóvel é considerado, utilizado e locado como um todo.
+Isso é corroborado pelas fotografias anexadas aos autos e pela prova técnica, nada disso impugnado pelo réu.
+ ..
+Houve tentativa de localizar o responsável pela ANJ Administração de Imóveis, mas não foi bem sucedida a diligência.
+Se tal investigação tivesse sido verticalizada, provavelmente alguma "surpresa" seria verificada.
+Durante o julgamento, o Des. José Gaspar Rubick, com perspicácia, aventou: o nome ANJ não poderia representar as iniciais do [NOME] (JNA) ao contrário
+Na internet, em consulta ao cadastro sincronizado nacional, do Ministério da Fazenda, localizamos a A.N.J Administração de Imóveis Ltda. ME, a qual tem sede na Av. Josué Di Bernardi, 239, Ed. Jowi, sala 406.
+Nas f. 209 destes autos consta ofício da Receita Federal informando o endereço de José Nilton Alexandre: Av. Josué Di Bernardi, 239, Ed.
+Jowi, sala 413.
+Ainda da consulta ao cadastro sincronizado, retira-se que a atividade econômica principal da ANJ é: ALUGUEL DE IMÓVEIS PRÓPRIOS.
+Não resta dúvida alguma que, de fato, o réu é o proprietário e beneficiário direto da locação indevida do lote 27, que ocupa ilegalmente há muito tempo.
+Portanto, o único destino desta preliminar, que tem profunda conexão com o mérito, é a rejeição.
+No mais, oportuna a transcrição da sentença bem lançada pelo MM.
+Juiz Paulo Roberto Froes Toniazzo, cujos argumentos adoto como razão de decidir:
+ ..
+6. Todavia, o Réu declarou expressamente ser proprietário do Centro Educacional Visão (fls. 41/42), a época dos fatos, bem como extrai-se da prova documental que é casado sob o regime da comunhão universal de bens com [NOME] (fls. 102; 155/240), proprietária formal da instituição de ensino em questão (fls. 373/376), firma individual constituída apenas para efeito da prática dos atos de comércio, cujos direitos e obrigações, é cediço, se confundem com os de seu titular e com a sociedade conjugal que integra, circunstâncias que, por si só, os tornam igualmente responsáveis pela reparação dos danos causados à terceiros, notadamente ao erário público, sobretudo porque o regime de comunhão universal importa a comunicação de todos os bens presentes e futuros dos cônjuges e suas dívidas passivas (..  (CC, art. 1.667).
+Anoto que, a par do reconhecimento expresso, é pública e notória a qualidade de proprietário do Centro Educacional Visão atribuída ao Réu, não sendo demais registrar que a Procuradoria -Geral do Município de São José, ao manifestar-se quanto às supostas irregularidades (sic) na construção de uma quadra esportiva, onde deveria estar instalada uma praça pública, informou que inúmeras tentativas foram feitas para encontrá-lo, inclusive foi feito contato telefônico com o então proprietário vulgo Sr. [NOME] que atualmente é diretor da COMCAP, pelo telefone nº 3271- 6822, porém estas restaram inexitosas (fl. 26), assim como LAURO GUESSER, ao prestar depoimento perante o Ministério Público, declarou que no ano de 1983, ao que se recorda, deu início a um processo judicial neste fórum em razão da ocupação de uma esquina no Bairro Kobrasol, pela escola "Colégio Visão", de propriedade de [NOME]; que a escola ocupava a área livre como pátio da escola; que o terreno foi cercado mediante muro, sendo usado excl usivamente pela escola (fl. 82).
+ ..
+Anoto, ainda, que o eminente Des. Jorge Borba suscitou a existência de litisconsórcio necessário entre o réu e as demais escolas que exploraram a atividade econômica sobre o imóvel (lote 27), pois, em tese, caso procedente o pedido, elas também haviam se locupletado.
+Data venia, mas não há litisconsórcio algum, porque somente o réu é beneficiado pelo uso indevido do lote 27, pois cobra aluguel.
+As instituições de ensino que ali se instalaram após o Colégio Visão sempre pagaram aluguel ao demandado, portanto, não têm nenhuma participação na ilicitude, pois sempre exerceram a posse do bem de manifesta boa fé!
+Como se vê, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
