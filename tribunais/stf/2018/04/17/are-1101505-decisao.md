@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 8ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 111):
+    “PENSÃO POR MORTE. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. Hipótese dos autos em que a apelada é beneficiária instituída desde 06.05.1999 em decorrência da morte de seu pai e na condição de filha solteira de ex-servidor da Polícia Militar, concedida por força da Lei Estadual nº 452/74. Pretensão da autarquia em anular o ato administrativo de concessão. Não cabimento. O prazo para que a Administração reveja seus atos ilegais é de 10 (dez) anos Lei Estadual 10.177/1998. Decadência verificada. Sentença que julgou extinto o feito, pelo reconhecimento da prescrição. Manutenção da sentença. RECURSO NÃO PROVIDO”.
+    Os embargos de declaração foram rejeitados (eDOC 1, fl. 140).
+    No recurso extraordinário, com fundamento no art. 102, a e d, do permissivo constitucional, aponta-se ofensa aos arts. 24, XII e § 4º e 42, § 2º, da Carta da República.
+    Nas razões recursais, alega-se que “o prazo para o exercício da autotutela pela Administração Bandeirante é regulado pela Lei Estadual 10.177/98, que fixa o prazo de 10 anos para anulação administrativa” (eDOC 1, p. 175).
+    Afirma-se que a Corte a quo aplicou ao caso a Lei Estadual 452/1974 em detrimento do art. 5º da Lei Federal 9.717/1998, “que veda aos Estados membros a concessão de benefícios previdenciários diversos daqueles previstos no Regime Geral de Previdência Social (eDOC 1, p. 167).
+    Argumenta-se que a superveniência da Lei Federal 9.717/1998, sobre normas gerais, suspendeu a eficácia da Lei Estadual 452/1974 na parte em que essa permitia a instituição de filhas solteiras de policiais militares como dependentes por ato de vontade, motivo pelo qual o acórdão recorrido teria violado o art. 24, XII e § 4º da Constituição.
+    Sustenta-se que, a despeito de o art. 42, § 2º, da Constituição estabelecer a competência dos Estados para legislar sobre pensionistas de policiais militares, deve ser interpretado em consonância com o art. 24, XII e § 4º desse diploma.
+    Destaca-se não ser a presente hipótese semelhante à analisada no RE 610.220, no qual a matéria debatida não teve reconhecida a repercussão geral.
+    A Presidência da Seção de Direito Público do TJ/SP, quanto à alínea a, inadmitiu o recurso extraordinário com base na Súmula 280 do STF e no que tange à alínea d, entendeu não haver a Corte de origem homenageado a lei local em face da lei federal (eDOC 2, p. 17-18).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    No tocante ao prazo decadencial, a decisão deu-se com fundamento em legislação local e em normas infraconstitucionais (Lei Estadual 10.177/1998 e Lei Federal 9.784/1999 e Decreto Federal 20.910/1932), de modo que eventual divergência em relação ao entendimento adotado esbarra na vedação contida na Súmula 280 do STF e na impossibilidade de conhecer-se de ofensa reflexa à Constituição.
+    Ademais, o prazo decadencial não foi o único fundamento utilizado para a manutenção da procedência do pedido da parte recorrida, sendo que a Corte de origem, ao proceder ao julgamento da matéria de fundo, também assentou seu entendimento em norma local e infraconstitucionais (Lei Estadual 452/1974 e Leis Federais 9.717/1998 e 8.213/1991), senão vejamos (eDOC 1, p.119):
+    “No que se refere à alegação de ilegalidade na concessão da referida pensão com base em dispositivo de lei estadual sem correspondência com a Lei Federal nº 9.717/ 98 (...)
+    Como se vê, mais não é preciso dizer”.
+    Sobre o tema, confira-se:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280/STF. ACÓRDÃO RECORRIDO PUBLICADO EM 28.11.2014. 1. As razões do agravo regimental não são aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere ao óbice da Súmula 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta ofensa aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo regimental conhecido e não provido.” (ARE 877.864-AgR, Min. Rel. Rosa Weber, Primeira Turma, DJe 11.6.2015).”
+    Especificamente sobre as referidas leis, cito os precedentes: ARE 967.724, Rel. Min. Celso de Mello, DJe 29.6.2011 e ARE 964.122, Rel. Min. Roberto Barroso, DJe 9.6.2016.
+    Ademais, o conhecimento do recurso extraordinário pela alínea d do inciso III do art. 102 da Constituição exige que a parte recorrente demonstre a ofensa, pela Corte de origem, do sistema constitucional de repartição de competências legislativas ao julgar válida lei local contestada em face de lei federal, o que não se verifica na espécie.
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 932, a, do CPC e 21, § 1º, do RISTF.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, em virtude da ausência de fixação de honorários pelo Tribunal de origem.
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
