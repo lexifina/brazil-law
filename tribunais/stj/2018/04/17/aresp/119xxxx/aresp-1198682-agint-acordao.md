@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. TERMO INICIAL. INTEMPESTIVIDADE.
+1. "O prazo para a apresentação dos embargos à execução inicia-se da intimação da primeira penhora, mesmo que seja insuficiente, excessiva ou ilegítima, e não da sua ampliação, redução ou substituição" (AgInt nos EDcl no AREsp 880.265/MG, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 18/12/2017).
+2. Em havendo reforço da penhora, os embargos serão cabíveis tão somente para impugnar os aspectos formais do novo ato constritivo, sob pena de intempestividade, como consignou o acórdão recorrido.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por Comercial Ribeiro Pintão Importação e Exportação Ltda. - em recuperação judicial contra decisão da Presidência que conheceu do agravo para não conhecer o recurso especial.
+A agravante alega que "é evidente que a Execução não se encontrava garantida, de tal maneira que a Recorrida requereu o reforço da garantia, haja vista os bens nomeados não terem sido suficientes para tanto. Assim, mister se fazer reconhecer a contrariedade do acórdão recorrido ao artigo 16 da Lei 6.830/80" (e-STJ, fl. 800).
+Impugnação apresentada pela parte contrária.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): A decisão agravada possui a seguinte fundamentação:
+A Primeira Seção do Superior Tribunal de Justiça, ao apreciar o Tema n.º 131, ao qual está vinculado o Recurso Especial Repetitivo n.º 1.112.416/MG, firmou entendimento no sentido de que "o termo inicial para a oposição dos Embargos à Execução Fiscal é a data da efetiva intimação da penhora" nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. NULIDADE DO ACÓRDÃO POR FALTA DE MOTIVAÇÃO. ARTS. 131, 165 E 458, II, DO CPC. NÃO-OCORRÊNCIA. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. TERMO A QUO DO PRAZO PARA EMBARGOS À EXECUÇÃO FISCAL. GARANTIA DO JUÍZO MEDIANTE PENHORA. JUNTADA DO MANDADO. RECURSO REPETITIVO. ART. 543-C DO CPC.
+1. Não há nulidade no julgamento se a fundamentação, embora concisa, for suficiente para a solução da demanda.
+2. Não se conhece de Recurso Especial em relação a ofensa ao art. 535 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+3. O termo inicial para a oposição dos Embargos à Execução Fiscal é a data da efetiva intimação da penhora, e não a da juntada aos autos do mandado cumprido.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ."
+(REsp 1112416/MG, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/05/2009, DJe 09/09/2009)
+Na espécie, o Tribunal de origem decidiu a controvérsia com base na seguinte fundamentação:
+"Do que se retira dos autos, a Fazenda do Estado ajuizou ação de execução fiscal em 17 de agosto de 2011 (fls. 32), expedindo-se carta precatória para citação, penhora e avaliação em 28 de outubro de 2011 (fls. 41). A citação deu-se em 19 de dezembro de 2011 (fls. 68, verso), ao que se seguiu nomeação de bens à penhora (fls. 46), em 17 de janeiro de 2012, sem interposição de embargos, na oportunidade, pela executada.
+Em 21 de março de 2014 foram interpostos os presentes embargos, nos quais a executada busca a extinção da execução fiscal diante da alegada nulidade do auto de infração e imposição de multa, pois as operações ali representadas teriam sido regulares. Ocorre que a matéria se encontra preclusa, uma vez que o prazo de 30 dias para oposição de embargos iniciou-se com a intimação da penhora, nos termos da regra do artigo 16, III, da Lei Federal nº 6.830/80, oportunidade em que a executada se limitou a nomear bens.
+É certo que a intimação ocorrida em 19 de fevereiro de 2014 (fls. 164 e 165) abriu novo prazo para embargos. Todavia, somente a matéria objeto daquele ato comportava impugnação, vale dizer, a nomeação do depositário, facultando-se também à parte voltar-se contra erros formais passíveis de gerar nulidade.
+Repise-se que o prazo do artigo 16 da Lei das Execuções Fiscais é preclusivo, definindo-se a preclusão como a perda de uma faculdade ou de direito subjetivo processual, de sorte que, consumando-se o prazo para impugnação daquilo que se deu até aquele momento processual, inadmite-se a rediscussão de matéria, sepultada em decorrência da reconhecida intempestividade dos embargos do devedor (STJ-JTAERGS 75/251 in Theotonio Negrão, Código de Processo Civil e legislação processual em vigor, SP, Saraiva, 43a ed., p. 881)." (Fls. 703/704).
+Nessa linha, a reforma do julgado, a fim de acolher a tese da parte Recorrente de que "diferentemente do que altera o v. acórdão, a Execução Fiscal somente foi garantida em 19 de fevereiro de 2014, ocasião em que o representante legal da Recorrente foi devidamente intimado da realização da penhora ocorrida nos autos" (fl. 732), demandaria necessário revolvimento do conjunto fático-probatório dos autos, o que é vedado pelo enunciado da Súmula n.º 7 deste Superior Tribunal de Justiça, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER o recurso especial.
+O recurso não merece mesmo prosperar.
+Em havendo reforço da penhora, os embargos à execução são cabíveis tão somente para impugnar os aspectos formais do novo ato constritivo, sob pena de intempestividade, como consignou o acórdão recorrido.
+A propósito:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. REJEIÇÃO DOS EMBARGOS. INTEMPESTIVIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PRAZO PARA APRESENTAÇÃO DOS EMBARGOS CONTADO A PARTIR DA PRIMEIRA PENHORA.
+I - Nos termos da jurisprudência do STJ, o prazo para a apresentação dos embargos à execução inicia-se da intimação da primeira penhora, mesmo que seja insuficiente, excessiva ou ilegítima, e não da sua ampliação, redução ou substituição. Nesse sentido: REsp 1669387/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/08/2017, DJe 13/09/2017; AgRg no REsp 1.189.741/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/08/2014, DJe 05/09/2014; AgRg no REsp 1523916/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/09/2015, DJe 28/09/2015; REsp 1.126.307/MT, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 01/03/2011, DJe 17/05/2011.)
+II - Ademais, o reforço ou substituição de penhora não alterará o prazo original para o ajuizamento dos embargos, podendo ensejar tão somente o início de nova contagem de defesa, desta vez para a impugnação restrita aos aspectos formais do novo ato constritivo, nos termos do recurso especial representativo de controvérsia 1.116.287/SP. Nesse sentido: REsp 1.116.287/SP, Rel. Ministro LUIZ FUX, CORTE ESPECIAL, julgado em 02/12/2009, DJe 04/02/2010; HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/08/2017, DJe 13/09/2017.
+III - Agravo interno improvido.
+(AgInt nos EDcl no AREsp 880.265/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
