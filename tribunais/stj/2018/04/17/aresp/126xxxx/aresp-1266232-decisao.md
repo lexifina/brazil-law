@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, em 12/12/2016, contra decisão do Tribunal de Justiça do Estado do Paraná, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL - PREVIDENCIÁRIO - REVISÃO DE CÁLCULO DE AUXÍLIO-DOENÇA POR ACIDENTE DE TRABALHO - REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO - INTERRUPÇÃO DO PRAZO PRESCRICIONAL POR ATO DA AUTARQUIA - OCORRÊNCIA - CIRCULAR 21 DIRBEN/PFEINSS QUE RECONHECEU DE FORMA INEQUÍVOCA O DIREITO PLEITEADO PELO AUTOR - PRESCRIÇÃO QÜINQÜENAL QUE TEM INÍCIO EM 15/04/2010 - RECURSO PROVIDO - SENTENÇA MANTIDA, NOS DEMAIS TERMOS, EM REEXAME NECESSÁRIO" (fl. 129e).
+Opostos Embargos de Declaração (fls. 141/143e), foram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. MATÉRIA DEVIDAMENTE TRATADA NO JULGADO. EMBARGOS REJEITADOS.
+1. Cabem embargos de declaração apenas para suprir obscuridade, contradição ou omissão no julgado (art. 535, CPC), sendo imprestável para rediscussão da matéria já debatida.
+2. O prequestionamento é inviável, eis que a matéria foi totalmente analisada na decisão recorrida" (fl. 156e).
+Sustenta a parte agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, além de divergência jurisprudencial, ofensa aos arts. 202, VI, do Código Civil, 103 e 104 da Lei 8.213/91, pelos seguintes argumentos:
+"OFENSA À LEGISLAÇÃO FEDERAL - DA INOCORRÊNCIA DA INTERRUPÇÃO DA PRESCRIÇÃO
+No caso em apreço, o acórdão recorrido apontou, com fundamento no disposto no art. 202, inciso VI do Código Civil, que deve ser declarada a interrupção da prescrição, em razão da edição do Memorando Circular 21-INSS/DIRBEN.
+Todavia, importa referir que não se pode confundir reformulação de atuação interna, com o reconhecimento da dívida em concreto.
+Por óbvio, se tivesse a autarquia a intenção inequívoca de reconhecer o direito, por certo o faria não sob a forma de memorando, que tem por finalidade disciplinar uma conduta meramente interna da administração.
+Ademais, deve ser considerado o fato de não haver prova de competência administrativa para o reconhecimento da dívida, tampouco para a renúncia do prazo de prescrição.
+Ora, impossível querer que um ato interno da Administração se sobreponha a norma legal, ora prevista na Lei 8213/91, ora prevista no regramento jurídico então vigente. Ainda que assim não fosse o Memorando Circular expressamente dispõe que o pagamento das diferenças deverá observar a prescrição qüinqüenal.
+No entanto, a interpretação dada pelo Tribunal quanto às referidas normas infralegais não guarda sintonia com a melhor interpretação e aplicação do direito. E com efeito, observa-se, por exemplo que o item 4.3 do memorando circular nº 21/DIRBEN/PFE-INSS exige que o segurado efetue o requerimento de revisão do benefício.
+Resta evidenciado, portanto, que o referido Memorando Circular teve efeitos meramente internos, sem repercutir na contagem do prazo prescricional.
+Isto posto, merece ser afastada a alegada interrupção da prescrição, aplicada na decisão recorrida, por não se amoldar à norma do art. 202, VI do Código Civil e violar a norma do art 103 e 104 da Lei 8213/91" (fls. 165/166e).
+Ao final, "requer-se a V. Excias. se dignem em conhecer e prover o presente recurso especial, para, reformar a decisão recorrida, conforme a fundamentação lançada no presente recurso" (fl. 166e).
+Foram apresentadas contrarrazões (fls. 170/173e).
+Negado seguimento ao Recurso Especial (fls .180/181e), foi interposto o presente Agravo (fls. 185/187e).
+Não foi apresentada contraminuta (fl. 189e).
+A irresignação não merece acolhimento.
+De início, da leitura das razões recursais, resta evidente que eventual violação aos arts. 202, VI, do Código Civil, e 103 e 104 da Lei 8.213/91 seria meramente reflexa, e não direta, porque, para o exame da controvérsia, quanto à alegada inexistência de reconhecimento inequívoco do direito revisional, para fins de análise de causa suspensiva/interruptiva da prescrição, seria imprescindível o exame do Memo-Circular 21 DIRBEN/PFEINSS, não cabendo, portanto, o exame da questão em Recurso Especial.
+Não se pode deixar de registrar, outrossim, que o apelo nobre não constitui via adequada para análise de ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea a do inciso III do artigo 105 da Constituição Federal.
+No caso, não obstante a apontada violação a dispositivos de lei federal, a controvérsia foi dirimida a partir da análise do Memo-Circular 21 DIRBEN/PFEINSS - diploma normativo que não se insere no conceito de lei federal -, fugindo, assim, da hipótese constitucional de cabimento deste recurso.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (STJ, AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/10/2016).
+"PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. OFENSA AO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ATIVIDADE ESPECIAL. LEI 9.032/95. NECESSIDADE DE COMPROVAÇÃO DA ESPECIALIDADE. REEXAME. IMPOSSIBILIDADE. PORTARIA MINISTERIAL. NÃO CABIMENTO. NORMA QUE ESCAPA AO CONCEITO DE LEI FEDERAL.
+(..)
+3. Ademais, apesar de terem sido invocados dispositivos legais, o ponto central da controvérsia levantado pelo insurgente fundamenta-se em portarias e normas regulamentadoras. No entanto, esclareço que o apelo nobre não constitui via adequada para análise de ofensa a resoluções, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal.
+4. Recurso Especial não conhecido" (STJ, REsp 1.613.147/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 13/09/2016).
+Se não bastasse, a alteração das conclusões adotadas pelo Tribunal Estadual, nos termos em que posta nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência obstada, em Recurso Especial, na Súmula 7/STJ.
+Nesse mesmo sentido, as seguintes decisões; STJ, REsp 1.581.423/SP, Relator Ministro SERGIO KUKINA, DJe de 16/06/2017; STJ, AREsp 1.089.006/SP, Relator Ministro MAURO CAMPBELL MARQUES, DJe de 17/05/2017; STJ, ARESP 928.949/PR, Relator Ministro OG FERNANDES, DJe de 06/12/2016; STJ, AREsp 832.778/PR, Relator Ministro HUMBERTO MARTINS, DJe de 25/02/2016.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
