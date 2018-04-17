@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – ANÁLISE – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 1ª Região confirmou o entendimento do Juízo quanto à procedência do pedido de cumulação de cargos privativos de profissional da saúde, considerada a compatibilidade de horários. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação dos artigos 5º, incisos XXXV, LIV e LV, 7º, incisos XIII, XV e XXII, 37, incisos XIII e XVI, 39, § 3º, 93, inciso IX, e 196 da Constituição Federal. Argui a nulidade da decisão por negativa de prestação jurisdicional. Aponta a incompatibilidade de horários. Entende contrariados os princípios da eficiência, da impessoalidade, da legalidade e da supremacia do interesse público. Alude à aplicabilidade do parecer nº 145/98 da Advocacia Geral da União.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido, os seguintes trechos:
+    No caso, pretende a impetrante cumular cargos de enfermeira, um no Município de Cuiabá/MT, de 30 horas semanais, outro na UFMT, de 40 horas semanais, totalizando assim 70 horas semanais.
+    A matéria. Como visto acima, não comporta maiores dilações. O ato impetrado é manifestamente ilegal, destinando à norma constitucional que autoriza a cumulação remunerada de cargos públicos uma interpretação restritiva, não autorizada pelo legislador constituinte.
+    A existência ou não de incompatibilidade de horários deve ser aferida e demonstrada concretamente, não sendo lícito à Administração, em contrariedade ao texto constitucional, restringir o direito à cumulação remunerada de cargos baseando-se unicamente em critério consubstanciado no somatório de cargas horárias.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Ante o quadro, nego seguimento ao extraordinário. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 17 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
