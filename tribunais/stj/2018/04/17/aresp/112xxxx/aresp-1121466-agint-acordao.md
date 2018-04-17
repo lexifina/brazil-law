@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. REPRESENTAÇÃO PROCESSUAL. IRREGULARIDADE. IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. AUSÊNCIA. SÚMULA 283/STF. AGRAVO NÃO PROVIDO.
+1. A ora agravante, em suas razões de recurso especial, não impugnou o fundamento utilizado no acórdão recorrido de que houve a habilitação das herdeiras no processo e de que a procuração delas conferindo poderes ao patrono que subscreveu o agravo de instrumento o instruiu, o que atrai, na hipótese, a incidência da Súmula 283/STF.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno interposto por COMPANHIA DE BEBIDAS DAS AMÉRICAS - AMBEV contra decisão monocrática desta Relatoria que conheceu do agravo para negar provimento ao recurso especial.
+Quanto à matéria debatida no agravo interno, fundamentou-se a decisão monocrática, em resumo: (a) no fato de que o Tribunal a quo considerou que os documentos obrigatórios à instrução do agravo de instrumento foram devidamente reunidos, tendo consignado que houve a habilitação no processo das herdeiras de [NOME] [NOME] e que os instrumentos de procuração outorgados por elas ao advogado que subscreveu o agravo instruíram o recurso; e (b) em que tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado de forma específica nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF .
+A agravante, em suas razões recursais, sustenta, em síntese, que: (a) é inaplicável a Súmula 283/STF, pois o fundamento tido por suficiente para manutenção do acórdão recorrido foi impugnado nas razões recursais; (b) as procurações outorgadas por herdeiros conferem poderes apenas para a defesa de seus interesses nos autos, não abarcando os atos praticados em nome do espólio; (c) não há urgência que legitime a postulação em juízo sem a devida procuração; (d) a obrigatoriedade da juntada da procuração ao agravo de instrumento impõe-se não só para que seja respeitado o direito à ampla defesa, mas para também averiguar a regularidade da representação processual; (e) não se opõe ao entendimento adotado na decisão agravada pela aplicação da Súmula 284/STF no tocante à alegação da violação do art. 1.022 do CPC, mas a ausência de enfrentamento desse capítulo autônomo da decisão monocrática não atrai a incidência da Súmula 182/STJ, in casu, "tendo em vista que as violações perpetradas pelo v. acórdão recorrido ao arts. 103, 104 e 1.017 do CPC/2015 foram devidamente demonstradas e "têm o condão de reformar o acórdão por completo ou parcialmente, independentemente de recurso contra os demais capítulos." (e-STJ, fls. 237/238).
+Decorrido o prazo legal sem apresentação de impugnação (e-STJ, fl. 242).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado nº 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não merece provimento o agravo interno.
+Com efeito, verifica-se que a Corte de origem baseou-se em dois fundamentos principais para se decidir pelo conhecimento do agravo de instrumento, afastando a alegação da ora agravante de que teria sido subscrito por advogado sem poderes de representação, quais sejam: (a) a exigência de que o agravo de instrumento seja instruído com cópias das procurações outorgadas aos advogados do agravante e do agravado (art. 1.017, I, do CPC) existe para que seja preservado o direito à ampla defesa e, uma vez preservado esse direito, o que entende ter ocorrido in casu, é possível o conhecimento do recurso; e (b) em virtude da morte de [NOME], houve a habilitação de suas herdeiras, tendo o agravo de instrumento sido informado com os instrumentos de procuração outorgados por elas ao advogado que firmou o recurso. É o que se verifica, in verbis:
+"Não há que se falar em não conhecimento do recurso, pois a obrigatoriedade da reunião do documento referido pela agravada existe para que seja preservado do direito à ampla defesa.
+Assim, conheço do recurso."
+(e-STJ, fl. 142 - acórdão do agravo de instrumento - grifou-se)
+"O agravo foi interposto por intermédio do Advogado Dr. [NOME] (fls. 5) em nome do ESPÓLIO DE ANTONIA GEA [NOME].
+Compulsando os autos, vejo que o Advogado Dr. [NOME] sempre foi o procurador de todos os atos praticados em nome de ANTONIA GEA [NOME].
+Em virtude da morte de ANTONIA GEA [NOME], houve a habilitação de suas herdeiras, com reunião do instrumento de procuração outogada (sic) também ao Dr. [NOME] (cf. fls. 32/35).
+Portanto, foram reunidos os documentos.
+De mais a mais, como bem observou o v. acórdão:
+"Não há que se falar em não conhecimento do recurso, pois a obrigatoriedade da reunião do documento referido pela agravada existe para que seja preservado do direito à ampla defesa".
+Então, preservado esse direito, possível o conhecimento do recurso tal como aconteceu."
+(e-STJ, fls. 155/156 - acórdão dos embargos de declaração - grifou-se)
+Como bem observado na decisão monocrática, o segundo fundamento, consistente na habilitação das herdeiras no processo e a existência de procuração delas conferindo poderes suficientes ao patrono que subscreveu o agravo de instrumento, não foi enfrentado nas razões do recurso especial, tendo-se limitado a agravante a defender que a procuração outorgada pela de cujus não subsiste com a sua morte. Trata-se de razão autônoma e suficiente à manutenção do acórdão recorrido que, não impugnada, atrai a incidência da Súmula 283/STF, como decidido monocraticamente, não tendo trazido o agravo interno argumento novo capaz de resultar na reforma do julgado. Na mesma direção, mutatis mutandis:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO AOS ARTS. 264 E 295, II DO CPC. INEXISTÊNCIA. EXTINÇÃO DO PROCESSO COM RESOLUÇÃO DO MÉRITO.
+1. Alegada violação do artigo 535 do Código de Processo Civil não configurada, visto que, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. Alterações subjetivas e objetivas da demanda podem ser feitas unilateralmente antes da angularização da relação jurídico-processual ou, após a citação, somente com a anuência explícita do réu (art. 264 do CPC), sendo certo que a decisão saneadora enseja a estabilização do processo, impossibilitando toda e qualquer alteração nos elementos da demanda (art. 331, §§ 2º e 3º).
+3. Adição de pedido inicial após citação seguida de nova oportunidade de cumprimento do princípio do devido processo legal e posterior negativa de procedência do pedido aditado demonstram a inexistência de prejuízo a parte ré.
+4. Ausência de impugnação ao argumento de que dispositivo indicado como violado para fins de ajuizamento de ação rescisória não se relaciona com a temática de vício de representação. Incidência das súmulas 283 e 284/STF.
+5. Agravo interno não provido.
+(AgInt no AgRg no REsp 1.288.073/AM, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/08/2017, DJe de 04/09/2017 - grifou-se)
+RECURSO ESPECIAL. FUNDAMENTO INATACADO. SÚMULA N. 283 DO STF. COMPRA E VENDA DE IMÓVEL. PROCURAÇÃO OUTORGADA POR CÔNJUGE AO SEU CONSORTE. INSTRUMENTO SEM PODERES ESPECIAIS E EXPRESSOS. AUSÊNCIA DE PREJUÍZO PARA O CASAL. NULIDADE DA AVENÇA. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. Se o acórdão recorrido possui mais de um fundamento bastante para mantê-lo, a falta de impugnação de qualquer deles, que fica incólume, atrai, por analogia, a incidência da Súmula n. 283 do STF.
+2. Art. 1.295, § 1º, do Código Civil de 1916. Exegese. Proteção do outorgante contra eventuais prejuízos, como a possível alienação, por parte do mandatário, de bem não inserido na vontade do mandante e a a apropriação dos seus valores por aquele.
+3. Ausência de prejuízo para o casal. Premissa assentada pela Corte originária. Embora a compra e venda tenha sido realizada sem formalidade legal, não gerou nenhum dano para o casal, circunstância que se coaduna com o fim da norma jurídica, motivo pelo qual não se autoriza a desconstituição do negócio jurídico.
+4. Recurso especial improvido.
+(REsp 1.173.776/RS, Rel. Ministro VASCO DELLA GIUSTINA - DESEMBARGADOR CONVOCADO DO TJ/RS -, TERCEIRA TURMA, julgado em 16/11/2010, DJe de 24/11/2010 - grifou-se)
+Vale destacar que apenas no agravo interno, diante da aplicação do óbice da Súmula 283/STF pela monocrática, é que a agravante veio a impugnar o fundamento em questão do acórdão do Tribunal de Justiça de São Paulo.
+Pelo exposto, nega-se provimento ao agravo interno.
+É como voto.
