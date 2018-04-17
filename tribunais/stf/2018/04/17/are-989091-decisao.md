@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “SERVIDOR PÚBLICO MUNICIPAL. Diferença entre os proventos de aposentadoria e a referência do cargo de Chefe do Setor Legislativo. Encargo exclusivo do Instituto de Previdência Municipal. Ilegitimidade ‘ad causam’ do Município. Aposentado no cargo de Encarregado dos Serviços da Secretaria da Câmara Municipal, extinto pela Lei n° 1.813/1987. Proventos que passaram a corresponder à referência do cargo de Chefe da Divisão Financeira. Lei n° 2966/2003, que instituiu o Plano de Cargos e Salários e Evolução Funcional dos servidores públicos municipais e extinguiu os cargos anteriormente criados, inclusive o de Chefe da divisão Financeira. Previsão legal de que os servidores que ocupavam cargo de chefia, extintos pela referida lei, teriam a referência de seus proventos equiparadas ao cargo de Chefe do Setor Legislativo. Vinculação expressamente vedada pelo artigo 37, XIII, da Constituição Federal. Todavia, enquanto não houver outro regramento legal para os que ocupavam os cargos de chefia que foram extintos, será este o parâmetro a ser observado para a realização do quanto assegurado pelo artigo 7° da Emenda Constitucional n° 41/2003, de revisão dos proventos de aposentadoria na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade. Recurso parcialmente provido” (pág. 109 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, d, da Constituição, alegou-se, em suma, violação ao art. 37, XIII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Insta salientar que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição.
+    Cito, portanto, os seguintes julgados, entre outros: ARE 942.080-AgR/SP, Rel. Min. Roberto Barroso; ARE 975.770-AgR/SP, de minha relatoria; ARE 867.801-AgR/PR, Rel. Min. Luiz Fux; ARE 869.285-AgR/RS, Rel. Min. Rosa Weber.
+    Por fim, ressalta-se que o presente caso não trata de acórdão que tenha julgado válida lei local contestada em face de lei federal, o que afasta o cabimento de recurso extraordinário com base na alínea d do art. 102, III, da CF.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
