@@ -1,0 +1,23 @@
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$ 2.000, UMA VEZ QUE O VALOR DA CAUSA FOI FIXADO EM R$ 510,00, APENAS PARA EFEITOS FISCAIS. RAZOABILIDADE EM FACE DAS CARACTERÍSTICAS DA DEMANDA. AGRAVO INTERNO DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO.
+1. A orientação desta Corte Superior é de que a revisão dos honorários advocatícios fixados pelas instâncias ordinárias somente é admissível em situações excepcionais, quando o valor revelar-se manifestamente irrisório ou excessivo, por demandar, em tese, a averiguação e avaliação do contexto fático-probatório dos autos.
+2. A hipótese dos autos não comporta a exceção que admite a revisão da verba sucumbencial, uma vez que foram sopesadas as circunstâncias necessárias e arbitrado quantum que se mostra razoável à remuneração adequada da atividade advocatícia desenvolvida.
+3. Agravo Interno do ESTADO DE PERNAMBUCO a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno no Agravo em Recurso Especial interposto pelo ESTADO DE PERNAMBUCO contra decisão monocrática de minha lavra proferida com a seguinte ementa:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS FIXADOS COM RAZOABILIDADE PELO TRIBUNAL DE ORIGEM (VALOR DE R$ 2.000 REAIS). IMPOSSIBILIDADE DE ALTERAÇÃO. INCIDÊNCIA DA SÚMULA 7 DO STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO (fls. 244).
+2. A parte agravante reitera os argumentos do Apelo Nobre quanto às alegações de que o acórdão recorrido contrariou e negou vigência aos arts. 20, § 4o. e 535 do CPC/1973, defendendo, em suma, que: (a) as verbas honorárias foram fixadas de forma exorbitante; e (b) negativa de prestação jurisdicional, por não ter o acórdão se manifestado de forma direta sobre as normas tidas por violadas.
+3. O Agravo Interno interposto não foi impugnado.
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$ 2.000 REAIS, UMA VEZ QUE O VALOR DA CAUSA FOI FIXADO EM R$ 510,00, APENAS PARA EFEITOS FISCAIS. RAZOABILIDADE EM FACE DAS CARACTERÍSTICAS DA DEMANDA. AGRAVO INTERNO DO ESTADO DE PERNAMBUCO A QUE SE NEGA PROVIMENTO.
+1. A orientação desta Corte Superior é de que a revisão dos honorários advocatícios fixados pelas instâncias ordinárias somente é admissível em situações excepcionais, quando o valor revelar-se manifestamente irrisório ou excessivo, por demandar, em tese, a averiguação e avaliação do contexto fático-probatório dos autos.
+2. A hipótese dos autos não comporta a exceção que admite a revisão da verba sucumbencial, uma vez que foram sopesadas as circunstâncias necessárias e arbitrado quantum que se mostra razoável à remuneração adequada da atividade advocatícia desenvolvida.
+3. Agravo Interno do ESTADO DE PERNAMBUCO a que se nega provimento.
+1. De início, quanto à alegação de violação do art. 535 do CPC/1973, não há como acolher a tese ventilada. Tanto o juízo singular (fls.129), quanto o Tribunal de origem (fls. 176) apreciaram a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada como violada, o que impede a apreciação por esta Corte Superior de Justiça quanto a alteração da decisão recorrida.
+2. Por sua vez, no tocante ao quantum fixado a título de honorários, a orientação desta Corte Superior é de que a revisão dos honorários advocatícios fixados pelas instâncias ordinárias somente é admissível em situações excepcionais, quando o valor revelar-se manifestamente irrisório ou excessivo, por demandar, em tese, a averiguação e avaliação do contexto fático-probatório dos autos.
+3. A hipótese dos autos não comporta a exceção que admite a revisão da verba sucumbencial, uma vez que foram sopesadas as circunstâncias necessárias e arbitrado quantum que se mostra razoável à remuneração adequada da atividade advocatícia desenvolvida.
+4. Ante o exposto, nega-se provimento ao Agravo Interno do ESTADO DE PERNAMBUCO. É como voto.
