@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos pela Agência Nacional de Saúde Suplementar contra decisão, em seu favor, que deu provimento ao recurso especial, afastando a necessidade de esgotamento de diligência para fins de utilização do Sistema BacenJud.
+A embargante aduz omissão e obscuridade na decisão. Argumenta que "já existiam valores bloqueados via Sistema BacenJud, mas o Tribunal Regional entendeu pelo desbloqueio, com a sua substituição pela penhora de imóvel indicado pelo executado, razão pela qual a ANS interpôs recurso especial" (e-STJ, fl. 397).
+Não houve impugnação da parte contrária.
+É o relatório.
+A Primeira Seção, na análise de recurso repetitivo, firmou a compreensão de que se mostra possível rejeitar pedido de substituição da penhora quando descumprida a ordem legal estatuída no art. 11 da Lei de Execução Fiscal (REsp 1.090.898/SP, Rel. Ministro Castro Meira, DJe 31/8/2009).
+Nessa linha:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. OFERECIMENTO DE IMÓVEL RURAL. RECUSA FUNDADA NA INOBSERVÂNCIA DA ORDEM LEGAL. LEGITIMIDADE. PENHORA ONLINE. BACEN-JUD. REGIME DA LEI 11.382/2006. CONSTRIÇÃO VIÁVEL, INDEPENDENTEMENTE DA EXISTÊNCIA DE OUTROS BENS PASSÍVEIS DE PENHORA.
+1. A jurisprudência desta Corte Superior é no sentido de que a penhora (ou eventual substituição de bens penhorados) deve ser efetuada conforme a ordem legal, prevista no art. 655 do CPC e no art. 11 da Lei 6.830/80, podendo a Fazenda Pública recusar a nomeação de bem, no caso, imóvel rural, quando fundada na inobservância da ordem legal, sem que isso implique ofensa ao art.
+620 do CPC (REsp 1.090.898/SP, 1ª Seção, Rel. Min. Castro Meira, DJe de 31.8.2009 - recurso submetido à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ).
+2. A Corte Especial/STJ, ao apreciar o REsp 1.112.943/MA (Rel. Min. Nancy Andrighi, julgado em 15.9.2010), aplicando a sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ, confirmou a orientação no sentido de que, no regime da Lei 11.382/2006, não há mais necessidade do prévio esgotamento das diligências para localização de bens do devedor, para se efetivar a penhora online.
+3. Se a Fazenda exequente não concorda com a nomeação à penhora de bem imóvel, porque não obedecida a ordem do art. 11 da Lei n. 6.830/80, ela não pode ser compelida a aceitar outro bem, no caso de haver ativos financeiros da executada aptos à garantia da execução, uma vez que o dinheiro encontra em primeiro na ordem de preferência legal (AgRg no REsp 1248706/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 07/06/2011, DJe 10/06/2011)
+4. Recurso especial provido.
+(REsp 1.269.372/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/9/2011, DJe 21/9/2011)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA ON-LINE. SISTEMA BACEN-JUD. ADVENTO DA LEI N.º 11.382/2006. ESGOTAMENTO DE DILIGÊNCIAS PARA LOCALIZAÇÃO DE BENS DO DEVEDOR. RESP 1.112.943/MA. NOMEAÇÃO DE BENS À PENHORA. DIREITO DE RECUSA DA FAZENDA PÚBLICA. RESP 1.337.790/PR.
+ ..
+2. Quanto à recusa de bem nomeado à penhora por parte da Fazenda Pública, caso não seja observada a gradação legal, a Primeira Seção deste STJ, ao julgar o REsp 1.337.790/PR, também submetido ao rito do art. 543-C do CPC, ratificou o entendimento no sentido de que seria ela legítima, não havendo falar em violação do art. 620 do CPC, uma vez que a Fazenda Pública pode recusar a substituição por quaisquer das causas previstas no art. 656 do CPC ou nos arts. 11 e 15 da LEF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.489.460/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/12/2014, DJe 19/12/2014)
+Também, ao julgar o REsp 1.337.790/PR, esta Corte fixou a orientação de que cumpre ao devedor fazer a nomeação de bens à penhora observando a ordem legal, incumbindo-lhe demonstrar, se for o caso, a necessidade de afastá-la.
+A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. NOMEAÇÃO DE BENS À PENHORA. PRECATÓRIO. DIREITO DE RECUSA DA FAZENDA PÚBLICA. ORDEM LEGAL. SÚMULA 406/STJ. ADOÇÃO DOS MESMOS FUNDAMENTOS DO RESP 1.090.898/SP (REPETITIVO), NO QUAL SE DISCUTIU A QUESTÃO DA SUBSTITUIÇÃO DE BENS PENHORADOS. PRECEDENTES DO STJ.
+1. Cinge-se a controvérsia principal a definir se a parte executada, ainda que não apresente elementos concretos que justifiquem a incidência do princípio da menor onerosidade (art. 620 do CPC), possui direito subjetivo à aceitação do bem por ela nomeado à penhora em Execução Fiscal, em desacordo com a ordem estabelecida nos arts. 11 da Lei 6.830/1980 e 655 do CPC.
+ ..
+4. A Primeira Seção do STJ, em julgamento de recurso repetitivo, concluiu pela possibilidade de a Fazenda Pública recusar a substituição do bem penhorado por precatório (REsp 1.090.898/SP, Rel. Ministro Castro Meira, DJe 31.8.2009). No mencionado precedente, encontra-se como fundamento decisório a necessidade de preservar a ordem legal conforme instituído nos arts. 11 da Lei 6.830/1980 e 655 do CPC.
+5. A mesma ratio decidendi tem lugar in casu, em que se discute a preservação da ordem legal no instante da nomeação à penhora.
+6. Na esteira da Súmula 406/STJ ("A Fazenda Pública pode recusar a substituição do bem penhorado por precatório"), a Fazenda Pública pode apresentar recusa ao oferecimento de precatório à penhora, além de afirmar a inexistência de preponderância, em abstrato, do princípio da menor onerosidade para o devedor sobre o da efetividade da tutela executiva. Exige-se, para a superação da ordem legal prevista no art. 655 do CPC, firme argumentação baseada em elementos do caso concreto. Precedentes do STJ.
+7. Em suma: em princípio, nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem legal. É dele o ônus de comprovar a imperiosa necessidade de afastá-la, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC.
+8. Diante dessa orientação, e partindo da premissa fática delineada pelo Tribunal a quo, que atestou a "ausência de motivos para que  ..  se inobservasse a ordem de preferência dos artigos 11 da LEF e 655 do CPC, notadamente por nem mesmo haver sido alegado pela executada impossibilidade de penhorar outros bens  .. " - fl. 149, não se pode acolher a pretensão recursal.
+9. Recurso Especial parcialmente provido apenas para afastar a multa do art. 538, parágrafo único, do CPC. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ.
+(REsp 1.337.790/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 12/6/2013, DJe 7/10/2013)
+Na presente hipótese, o agravo de instrumento foi provido na origem, tomando por base, de forma genérica, o princípio da menor onerosidade, razão pela qual o apelo nobre merece mesmo prosperar.
+Ante o exposto, acolho os embargos de declaração para, afastando a obscuridade, manter o provimento recursal e o bloqueio dos ativos financeiros.
+Publique-se. Intimem-se.
