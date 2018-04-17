@@ -1,0 +1,71 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. FURTO. INSIGNIFICÂNCIA. INOCORRÊNCIA. SUPLEMENTAÇÃO DE FUNDAMENTAÇÃO. POSSIBILIDADE. EXECUÇÃO PROVISÓRIA DA PENA. INEXISTENTE OFENSA À COISA JULGADA FORMAL NEM REFORMATIO IN PEJUS. AUSÊNCIA DE RECURSO COM EFEITO SUSPENSIVO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência admite a suplementação de fundamentação desde que não haja o agravamento da situação do recorrente, o que não ocorreu no presente caso.
+2. De acordo com a jurisprudência deste Tribunal Superior a simples interposição de recurso especial, sem a concessão de efeito suspensivo, não obsta a execução provisória da pena privativa de liberdade. Precedentes.
+3. É possível a execução provisória da pena, ainda que concedido na sentença condenatória ou no acórdão de apelação o direito de recorrer em liberdade até o trânsito em julgado da condenação, sem que isso caracterize violação a coisa julgada ou reformatio in pejus.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto por [NOME] BARBOSA DOS [NOME] em face de decisão que negou provimento ao recurso especial.
+Alega a incidência do princípio da insignificância, pois, além de preencher os requisitos, não é admissível complementar ou integralizar, em sede de recurso da defesa, os fundamentos do Tribunal de origem (fl. 600).
+Menciona que o acolhimento do pedido de execução provisória por esse Superior Tribunal de Justiça, valendo-se de mera petição incidental proposta pelo Ministério Público, configura ainda manifesta reformatio in pejus, vedada pelo artigo 617 do Código de Processo Penal, porquanto tal capítulo da sentença não foi objeto de recurso pelo Ministério Público, tampouco objeto de reforma pelo Tribunal de origem (fl. 602).
+Requer a reconsideração da decisão atacada ou a apresentação do feito em mesa para que a Turma dê provimento ao agravo regimental para que seja reconhecida a atipicidade material ou afastada a execução provisória da pena.
+Contrarrazões opostas pelo Ministério Público, pugnando pelo improvimento do recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão objeto da presente irresignação foi prolatada nos seguintes termos (fls. 584/587):
+[NOME] BARBOSA DOS [NOME] interpõe recurso especial em face de acórdão assim ementado (fl. 493):
+EMENTA: APELAÇÃO CRIMINAL - TENTATIVA DE FURTO QUALIFICADO - AUTORIA E MATERIALIDADE - PROVA ADEQUADA - PRINCÍPIO DA INSIGNIFICÂNCIA - AUSÊNCIA DE PREVISÃO LEGAL - PRIVILÉGIO - RÉ REINCIDENTE - NÃO APLICAÇÃO - PENAS-BASE E REGIME CORRETOS - TENTATIVA - FRAÇÃO ADEQUADA - SENTENÇA MANTIDA. - Induvidosas materialidade e autoria, não há que se falar em insuficiência de provas para a condenação. - O principio da insignificância não encontra respaldo em nosso ordenamento jurídico. -Ao furto qualificado, bem como ao réu reincidente, não se aplicam as benesses previstas no art. 155, § 2o, do Código Penal. - A fração de redução pela tentativa é inversamente proporcional ao "iter criminis" percorrido pelo agente. Quanto maior, menor será a redução. - A condenação em custas decorre de imposição legal (art. 804, do CPP), relegando-se à fase de execução eventual isenção. - Apelação não provida.
+Nas razões do recurso especial, com fundamento no art. 105, III, c, da Constituição Federal, alega dissídio jurisprudencial com vistas à aplicação do princípio da insignificância.
+Requerem a absolvição pelo crime de furto com base na atipicidade material da conduta.
+Contra-arrazoado e admitido, nesta instância, manifestou-se o Ministério Público Federal pelo improvimento do recurso especial (fls. 562/565).
+É o relatório.
+Decido.
+Consta dos autos que o recorrente foi condenado à pena de 2 anos e 1 mês de reclusão, mais 31 dias-multa, no regime semiaberto, como incurso no art. 155, caput, c/c art. 14, II, ambos do CP. Interposto recurso de apelação, o Tribunal de origem negou provimento ao apelo da defesa.
+Quanto à aplicação da insignificância, o voto condutor assim referiu (fls. 496/497):
+A ré pretende a absolvição pela aplicação do princípio da insignificância, entendendo ser de pouco valor o objeto subtraído.
+Sem embargo, tenho para mim que nosso ordenamento jurídico não acolheu a teoria da bagatela, não cumprindo ao Judiciário deixar de tutelar os bens expressamente destacados pelo legislador nos diplomas legais.
+Se não há para o furto causa expressa a excluir a tipicidade por eventual pequeno valor da coisa, mister considerar o comportamento do réu como penalmente relevante, independentemente da importância da res furtiva.
+Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada.
+A conduta do réu, consistente na tentativa de furto de R$ 94,00, o que representava 52% do salário mínimo vigente à época dos fatos (R$ 180,00 - 2001), conforme assentando na instância ordinária, não pode ser tido o fato como de lesividade mínima, ou nenhuma, a justificar a incidência da insignificância para excluir a tipicidade do crime. Nesse sentido:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. TENTATIVA DE FURTO QUALIFICADO. CONCURSO DE AGENTES. PRINCÍPIO DA INSIGNIFICÂNCIA.
+1. Não é irrelevante a conduta dos agravantes que, em concurso de agentes subtraíram bens avaliados em R$ 200,00 (duzentos reais), aproximadamente 39% do valor do salário mínimo vigente à época dos fatos.
+2. O valor da coisa pode até tornar privilegiado o furto, mas é insuficiente para efeito de aplicação do princípio da insignificância.
+3. A subtração de bens, de forma reiterada e contumaz, não pode ser tida como um indiferente penal, na medida em que a falta de repressão de tais condutas representaria verdadeiro incentivo a pequenos delitos.
+4. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.390.485/RS, Rel. Ministro OG FERNANDES, Sexta Turma, DJe de 30/9/2013).
+Por sua vez, postula o Ministério Público Federal a execução provisória da pena.
+A Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou a orientação firmada pelo Pleno do Supremo Tribunal Federal (HC 122.292/MG, de 17/2/2016) de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+Os fundamentos do voto condutor do acórdão no Supremo Tribunal Federal, de relatoria do Ministro Teori Zavascki, encontram-se sintetizados na seguinte ementa:
+CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. 1. A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal. 2. Habeas corpus denegado (HC 126292, Rel. Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em 17/02/2016, PROCESSO ELETRÔNICO DJe-100 de 17-05-2016) .
+O Pleno Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo, confirmada, ainda, em repercussão geral (ARE 964246 RG, Rel. Min. TEORI ZAVASCKI, DJe 25/11/2016).
+Assim, prolatado o juízo condenatório por Tribunal de Apelação e na pendência de recursos especial ou extraordinário, somente casuísticos efeitos suspensivos concedidos - por cautelar ou habeas corpus -, impedirão a execução provisória.
+Aplicam-se, pois, os arts. 637 do CPP e 27, § 2º, da Lei 8.038/90, c/c a Súmula 267 do STJ, autorizando-se o imediato recolhimento do réu para o início do cumprimento da pena.
+Nesse sentido a orientação firmada pelo art. 9º, § 2º, da Resolução n. 113, de 20 de abril de 2010, do CNJ, de que, Estando o processo em grau de recurso, sem expedição de guia de recolhimento provisória, às Secretarias desses órgãos caberão expedi-la e remetê-la ao juízo competente.
+Ante o exposto, nego provimento ao recurso e defiro o pedido do Ministério Público, determinando o imediato recolhimento de [NOME] à prisão, delegando-se ao Tribunal local a execução dos atos, a quem caberá a expedição de mandado de prisão e guia de recolhimento provisório.
+À Coordenadoria da Sexta Turma, para extração de cópia integral dos autos, a ser encaminhada ao Tribunal de origem.
+Quanto à insignificância, cumpre assinalar que a jurisprudência desta Corte admite a suplementação da fundamentação a afastar a incidência da atipicidade material, desde que não agravada a situação do réu, motivo pelo qual não há falar em absolvição com base no princípio da bagatela, tendo em vista que o valor subtraído não se mostra ínfimo.
+A propósito, veja o precedente da Suprema Corte:
+Ementa: HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. AFERIÇÃO DAS CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CP. INVIABILIDADE. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. IMPOSSIBILIDADE. FIXAÇÃO DE REGIME INICIAL FECHADO. VIABILIDADE. CONDIÇÕES DESFAVORÁVEIS RECONHECIDAS NA SENTENÇA CONDENATÓRIA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA.
+ ..
+5. Mantida a essência da causa de pedir e sem piorar a situação do recorrente, é legítima a manutenção da decisão recorrida ainda que por outros fundamentos. No particular, o Superior Tribunal de Justiça, ao negar provimento ao agravo em recurso especial e manter o regime inicial mais gravoso, levou em consideração os parâmetros de individualização da reprimenda com base em substrato fático contido na acusação e citado na própria sentença condenatória. Desse modo, não há falar em reformatio in pejus. 6. Habeas corpus denegado.
+(HC 124250, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 09/12/2014, PROCESSO ELETRÔNICO DJe-249 DIVULG 17-12-2014 PUBLIC 18-12-2014).
+No mesmo sentido é a posição desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. DOSIMETRIA DA PENA. COMPENSAÇÃO ENTRE A REINCIDÊNCIA E A CONFISSÃO ESPONTÂNEA. PACIENTE QUE OSTENTA VÁRIAS CONDENAÇÕES. IMPOSSIBILIDADE. FUNDAMENTAÇÃO ACRESCIDA POR ESTE TRIBUNAL SUPERIOR. VIABILIDADE. SITUAÇÃO DO AGRAVANTE INALTERADA. PRECEDENTES.
+ ..
+3. É possível a adoção de novos fundamentos, por esta Corte Superior, para manter a vedação à compensação total entre as referidas agravante e atenuante, tendo em vista que a situação do recorrente não foi alterada. Precedentes.
+ ..
+(AgRg no HC 335.969/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 23/02/2016, DJe 29/02/2016).
+Registre-se, ainda, que é possível a execução provisória da pena, mesmo que fosse concedido na sentença condenatória ou mesmo no acórdão que julgou o recurso de apelação o direito de recorrer em liberdade até o trânsito em julgado da condenação, sem que isso caracterize violação a coisa julgada ou reformatio in pejus.
+Necessário consignar que a execução provisória da pena não se confunde com o instituto da prisão preventiva, inexistindo violação à coisa julgada a determinação de antecipação do cumprimento da pena com base na novel interpretação mesmo tendo sido conferido anteriormente o direito de recorrer em liberdade. Nesse sentido: Rcl 30193/SP, Relator Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 11/05/2016, DJe 16/06/2016; Rcl 33746/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 23/08/2017, DJe 31/08/2017.
+Portanto, não merece prosperar a argumentação do agravante de que ocorreu reformatio in pejus, na concessão da execução provisória, por se tratarem de institutos distintos, o direito de recorrer em liberdade e a execução provisória da pena. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PROVISÓRIA DA PENA EM AÇÃO PENAL ORIGINÁRIA. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. O Plenário do Supremo Tribunal Federal, ao interpretar o princípio constitucional da presunção de inocência, no julgamento do HC n. 126.292/SP (DJe 17/5/2016), entendeu pela possibilidade de execução provisória da pena após a prolação de acórdão condenatório, proferido em grau de apelação, ainda que sujeito a recurso especial e extraordinário. Esse entendimento foi reafirmado no julgamento, em 10/11/2016, do ARE n. 964.246/SP, examinado sob a sistemática da repercussão geral, de maneira a conferir eficácia erga omnes e vinculante à decisão da Suprema Corte proferia em recurso extraordinário.
+2. A jurisprudência desta Corte firmou-se no sentido de que é possível a execução provisória da pena aos casos de ação penal de competência originária do Tribunal.
+3. Não há descumprimento de acórdão do Tribunal de origem que, em ação penal originária, permite ao réu recorrer em liberdade, nem tampouco ofensa à coisa julgada, ou mesmo reformatio in pejus, quando o Presidente do Tribunal acolhe pedido do Ministério Público para executar provisoriamente a pena, com amparo no novo e superveniente entendimento do Supremo Tribunal Federal.
+4. Agravo regimental não provido. (AgRg no HC 380.859/AP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/03/2017, DJe 22/03/2017).
+
+Assim, considerando que a agravante não apresentou qualquer elemento capaz de alterar a conclusão do julgado, mantenho o posicionamento firmado na decisão agravada.
+Ante o exposto, voto por negar provimento ao agravo regimental.
