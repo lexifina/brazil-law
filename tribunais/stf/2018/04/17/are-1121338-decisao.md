@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INADEQUAÇÃO – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 2ª Região, reformando o entendimento do Juízo, julgou procedente o pedido de cumulação de cargos privativos de profissional da saúde, considerada a compatibilidade de horários. No extraordinário cujo trânsito busca alcançar, a recorrente alega a violação do artigo 37, inciso XVI, da Constituição Federal. Afirma feridos os princípios da eficiência, da impessoalidade, da legalidade e da supremacia do interesse público. Alude à aplicabilidade do parecer nº 145/98 da Advocacia Geral da União.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão recorrido, os seguintes trechos:
+    No caso concreto, a autora exerce o cargo de Auxiliar de enfermagem no setor de neurocirurgia do Hospital Federal de Bonsucesso, em regime de plantões de 12 x 60 horas, das 19:00 às 7:00 h, com jornada semanal de 30 horas, de acordo com a Portaria nº 1.281/2006 (fl. 40), e exerce o mesmo cargo na maternidade do Hospital Estadual Rocha Faria, desde 06/09/1999, com carga horária semanal de 24 horas, no período da manhã (fl. 54), perfazendo um total de 54 horas semanais, não havendo nos autos qualquer comprovação de descumprimento de jornada de trabalho ou de comprometimento de seu desempenho funcional.
+    Verifica-se que, na hipótese, há compatibilidade de horários no exercício dos cargos em questão, na medida em que a jornada de trabalho da parte impetrante não ultrapassa o limite de 60 horas semanais, consideradas razoáveis para que não haja o comprometimento da qualidade de serviço prestado, pois, como se sabe, o profissional da área de saúde necessita estar em boas condições físicas e mentais, para poder cumprir o seu mister de forma eficiente, cabendo à Administração Pública, a qualquer momento, averiguar a compatibilidade de horários.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% sobre o valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 17 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
