@@ -1,0 +1,50 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MOEDA FALSA (ART. 289, § 1º, DO CP). DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO. MAUS ANTECEDENTES. CONDENAÇÕES ALCANÇADAS PELO PERÍODO DEPURADOR. ILEGALIDADE. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. Consoante orientação sedimentada nesta Corte Superior, condenações passadas em julgado, atingidas pelo período depurador previsto em lei, embora não sirvam para atestar a reincidência do réu, podem ser consideradas como maus antecedentes para exasperar a pena-base.
+2. Na hipótese, não se verifica ilegalidade a ser sanada na via eleita, porquanto a recorrente possui 4 condenações transitadas em julgado, das quais 2 foram utilizadas para aplicação da agravante da reincidência em 1/6 (um sexto) e as outras 2 foram corretamente valoradas como maus antecedentes para exasperar a pena-base na mesma fração.
+3. Agravo a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Trata-se de agravo regimental interposto por ERICA DO NASCIMENTO contra decisão desta Relatoria que, nos termos do art. 34, inciso VII, c.c. art. 253, parágrafo único, inciso II, alínea "c", do RISTJ conheceu do agravo para dar parcial provimento ao Recurso Especial, a fim de reduzir a pena para 4 anos e 1 mês de reclusão e pagamento de 12 dias-multa.
+Alega a agravante, em síntese, que a legislação penal não permite a consideração de condenações anteriores que tenham superado o período depurador para fins de reincidência e, da mesma forma, tais condenações não devem ser consideradas como maus antecedentes.
+Requer a reconsideração do decisium ou que o presente agravo seja submetido à julgamento colegiado, a fim de que seja dado integral provimento ao apelo nobre com o consequente redimensionamento da pena.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JORGE MUSSI (Relator): Infere-se dos autos que a agravante foi condenada à pena de 3 anos e 6 meses de reclusão, em regime inicial semiaberto, e pagamento de 12 dias-multa, substituída por 2 penas restritivas de direitos, pela prática do delito previsto no art. 289, § 1º, do Código Penal, porque:
+"Em 30 de novembro de 2012, por volta das 19hrs35min., no interior do salão de beleza MAVAND, situado na Rua Henri Ford, nº 205, Rio de Janeiro - RJ, a DENUNCIADA, de forma livre e consciente, introduziu em circulação moeda que sabia ser falsa.
+Consta dos autos que, a denunciada, ao fazer as unhas no referido estabelecimento comercial, utilizou-se de uma nota de R$ 100,00 (cem) reais falsificada para efetuar o pagamento da despesa ali incorrida." (e-STJ fl. 76)
+Inconformadas, defesa e acusação interpuseram recurso de apelação perante o Tribunal Regional, o qual deu provimento ao recurso ministerial, a fim de aumentar a pena para 5 anos e 3 meses de reclusão e pagamento de 79 dias-multa, revogada a concessão da substituição da pena.
+Foram opostos embargos de declaração, os quais não foram providos.
+Contra esta decisão foi interposto Recurso Especial, no qual alegou-se, em síntese, violação ao art. 59, do Código Penal, sob o argumento de que condenações anteriores atingidas pelo período depurador da reincidência teriam sido consideradas de forma equivocada para exasperar a pena-base.
+Inadmitido em Juízo Prévio de Admissibilidade, foi apresentado o correspondente agravo do art. 544, do Código de Processo Civil de 1973.
+Instado a se manifestar, o Ministério Público Federal ofertou parecer pelo desprovimento do recurso.
+Por decisão monocrática desta Relatoria, o agravo foi conhecido, dando-se parcial provimento ao Recurso Especial, nos seguintes termos:
+"Sabe-se que a aplicação da pena-base é o momento em que o juiz, dentro dos limites abstratamente previstos pelo legislador, deve eleger, fundamentadamente, o quantum ideal de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar para as singularidades do caso concreto, guiando-se pelos fatores relacionados no caput do art. 59 do Código Penal.
+Nos termos de entendimento pacífico no âmbito desta Corte Superior de Justiça, a revisão da dosimetria da pena em sede de recurso especial é admissível apenas diante de ilegalidade flagrante.
+Na hipótese, observa-se que o Tribunal a quo considerou desfavorável a recorrente condenações passadas em julgado há mais de 5 anos, as quais, de fato, são aptas a majorar a sanção na primeira fase da dosimetria.
+Isso porque este Sodalício entende que condenações transitadas em julgado, atingidas pelo período depurador previsto em lei, embora não caracterizem reincidência, podem ser consideradas como maus antecedentes.
+ ..
+Contudo, percebe-se a desproporcionalidade no quantum de pena irrogado, devendo, portanto, ser dado parcial provimento ao especial a fim de reduzir a sanção inicial, de forma que seja procedido um aumento de 1/6 (um sexto) em razão da valoração negativa dos antecedentes, alcançando a sanção inicial 3 anos e 6 meses de reclusão e multa." (e-STJ fl. 482/483)
+No presente recurso busca a agravante a redução da pena-base ao mínimo legal. Todavia, a irresignação não comporta acolhimento.
+Com efeito, a revisão da pena fixada em sede de Recurso Especial é possível, mas somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios, consoante orientação pacificada neste Superior Tribunal, o que foi verificado na hipótese apenas com relação à proporcionalidade do aumento efetuado na origem.
+In casu, a decisão impugnada manteve a motivação utilizada para exasperar a reprimenda básica, porém modulou sua fração com fundamento no entendimento deste Sodalício, que consagra a majoração em 1/6 (um sexto) por vetorial desfavorável.
+No que se refere à suposta ilegalidade pela utilização de condenações anteriores para valorar negativamente os antecedentes, manifestou-se afirmando que condenações transitadas em julgado, ainda que atingidas pelo período depurador previsto no art. 64, inciso I, do CP, podem ser consideradas como maus antecedentes, razão pela qual manteve a exasperação da pena-base operada na origem, apenas modificando a fração aplicada, ante a sua desproporcionalidade para o caso em concreto.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO. DOSIMETRIA. MAUS ANTECEDENTES. VALORAÇÃO DE TÍTULOS CONDENATÓRIOS JÁ ATINGIDOS PELO PERÍODO DEPURADOR DE CINCO ANOS. POSSIBILIDADE. RÉU QUE OSTENTAVA OITO CONDENAÇÕES TRANSITADAS EM JULGADO À ÉPOCA DOS FATOS SOB APURAÇÃO. AUMENTO PROPORCIONAL. PENA-BASE ACIMA DO PISO LEGAL. REGIME PRISIONAL FECHADO MANTIDO. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+3. Nos termos da jurisprudência desta Corte, condenações anteriores ao prazo depurador de 5 anos, malgrado não possam ser valoradas na segunda fase da dosimetria como reincidência, constituem motivação idônea para a exasperação da pena-base a título de maus antecedentes.
+4. Descabe falar em desproporcionalidade no aumento operado pela Corte de origem, pois a básica foi estabelecida 12 meses acima do piso legal pelos maus antecedentes em razão da presença de 8 condenações transitadas em julgado a serem valoradas na primeira fase do procedimento dosimétrico.
+5. Estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do CP, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+6. Writ não conhecido.
+(HC 430760/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 01/03/2018, DJe 07/03/2018)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 157, § 3º, 2ª PARTE, DO CÓDIGO PENAL. DOSIMETRIA. CONDENAÇÃO ANTERIOR. PERÍODO DEPURADOR. TRANSCURSO. MAUS ANTECEDENTES. CONFIGURAÇÃO. POSSIBILIDADE.
+1. As condenações anteriores ao prazo depurador de 5 anos podem constituir motivação idônea para a exasperação da pena-base a título de maus antecedentes, apesar do fato de que não podem ser consideradas como reincidência. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC 389185/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/08/2017, DJe 14/08/2017)
+Ademais, conforme ressaltado no acórdão impugnado, a recorrente possui 4 condenações transitadas em julgado, das quais 2 foram utilizadas para aplicação da agravante da reincidência em 1/6 (furto tentado e roubo majorado - e-STJ fls. 58/59) e as outras 2 foram corretamente valoradas como maus antecedentes para exasperar a pena-base na mesma fração (roubo majorado e furto tentado - e-STJ fls. 56/57), nos termos da decisão ora agravada, de modo que não se verifica ilegalidade a ser sanada na via eleita.
+Dessa forma, constata-se que a decisão agravada bem fundamentou a manutenção do aumento da pena-base promovido na origem, harmonizando-se com o entendimento jurisprudencial pacífico desta Corte Superior, não havendo que se falar em sua modificação.
+Ante o exposto, nega-se provimento ao agravo regimental.
+É o voto.
