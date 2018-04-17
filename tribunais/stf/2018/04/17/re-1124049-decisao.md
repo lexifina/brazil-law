@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “ADMINISTRATIVO. CARREIRA DE MAGISTÉRIO. QUINTOS. FORMA DE CÁLCULO. VPNI.
+    1. A Lei n° 9.527, de 10/12/1997 extinguiu a incorporação de quintos/décimos, transformando as parcelas incorporadas em Vantagem Pessoal Nominalmente Identificada (VPNI), sujeita exclusivamente à atualização quando da revisão geral da remuneração dos servidores públicos federais (art. 15).
+    2. A VPNI não guarda vinculação com a parcela que lhe deu origem, não sendo possível determinar, portanto, que as parcelas de quintos/décimos incorporadas aos proventos e pensões das Autoras, em razão de exercício de cargo em comissão ou função de confiança, permaneçam vinculadas aos critérios estabelecidos pela Portaria MEC n° 474/1987, a fim de que sejam calculadas com base na remuneração do Professor Titular da Carreira do Magistério Superior, em regime de Dedicação Exclusiva com Doutorado, modificada pela Lei n° 11.784, de 22/09/2008.
+    3. Recurso desprovido” (pág. 13 do documento eletrônico 14).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5°, XXXVI; e 37, XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, acerca da alegada nulidade do acórdão recorrido, observo que esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Esse entendimento foi consolidado no julgamento do ARE 748.371-RG (Tema 660), Rel. Min. Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguinte fundamentos:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ademais, a apreciação das alegadas ofensas à Constituição demanda a análise de normas infraconstitucionais aplicáveis ao caso, sendo certo que eventual ofensa à Constituição seria apenas indireta, o que inviabiliza o extraordinário.
+    Nesse mesmo sentido, cito o ARE 990.504/RS, Rel. Min. Celso de Mello e o RE 943.427/RS, Rel. Min. Luiz Fux.
+    Por oportuno, o Plenário do Supremo Tribunal Federal, no julgamento do RE 563.965-RG/RN, de relatoria da Ministra Cármen Lúcia, reconheceu a repercussão geral do tema em debate e confirmou a sua jurisprudência no sentido de que não há direito adquirido à forma de cálculo de remuneração. Salientou, ainda, a legitimidade de lei superveniente que, sem causar decesso remuneratório, desvincule o cálculo da vantagem incorporada dos vencimentos do cargo em comissão ou função de confiança outrora ocupado pelo servidor, passando a quantia a ela correspondente a ser reajustada segundo os critérios das revisões gerais de remuneração do funcionalismo. O acórdão do referido julgado foi assim ementado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento”
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
