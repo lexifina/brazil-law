@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por [NOME], contra decisão monocrática de fls. 393/395, que negou provimento ao agravo em recurso especial, ao consignar a incidência da Súmula 7/STJ ao apelo nobre.
+Em seus aclaratórios, alega a parte embargante, em resumo, que há omissão no julgado, nos seguintes termos: "É de se notar, pois, novamente, que, ante a condenação em litigância de má-fé, saiu-se da interposição dos recursos excepcionais em pior situação do que o status quo ante, pois a sua causa primária estava perdida e, ainda, tendo exercido o legítimo e legal direito de recorrer aos Tribunais Superiores, ao manejar agravos regimentais, viu-se, também, alcançada por condenação inesperada, em litigância de má-fé, sem que, efetivamente, tenha praticado atos passíveis desse enquadramento, mesmo não se deixando de consignar o alto grau de respeito que a Recorrente detém para com o Poder Judiciário." (fl. 403).
+Aduz, ainda, que "Desse modo, este é o outro ponto omisso da R. Decisão Monocrática ora combatida via Declaratórios, pois, a teor do disposto no mencionado art. 489, § Io, do CPC, este fundamento deixou de ser infirmado por parte deste E. STJ, no referido Decisum, prevalecendo, pois, permissa vênia, a afronta ao referido e relevante princípio recursal da proibição da Reformatio in Pejus." (fl. 403).
+Impugnação não oferecida (fl. 415).
+É o relatório.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de nenhuma das referidas deficiências.
+Com efeito, decidiu-se que ".. é pacífico o posicionamento do STJ de que a alteração das conclusões adotadas pela Corte de origem, no sentido de que houve litigância de má-fé, tal como colocada nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ." (fl. 394).
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, mas sim irresignação da parte com a decisão adotada no acórdão embargado, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É como voto.
