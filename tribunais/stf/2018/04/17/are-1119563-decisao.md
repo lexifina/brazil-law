@@ -1,0 +1,33 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “AGRAVO INTERNO
+    Tributo – ICMS –Mandado de Segurança – Importação – Equipamentos médicos – Entidade Beneficente de Assistência Social – Imunidade tributária – Apelação – Art. 557, do Código de Processo Civil – Negado seguimento – Possibilidade:
+    – Não demonstrada qualquer inconsistência no fundamento da decisão, é manifestamente infundada a irresignação do agravante.
+    Ementa da decisão:
+    TRIBUTO
+    ICMS – Mandado de Segurança – Importação – Equipamentos médicos – Entidade Beneficente de Assistência Social – Imunidade tributária – Possibilidade:
+    A imunidade tributária abrange as operações relativas a bens que serão utilizados na prestação dos serviços específicos das entidades assistenciais sem fins lucrativos.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe observar, desde logo, que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (AI 476.664-AgR/RS, Rel. Min. JOAQUIM BARBOSA – AI 484.661-AgR/RS, Rel. Min. AYRES BRITTO – RE 311.626-AgR/PA, Rel. Min. CÁRMEN LÚCIA, v.g.):
+    “TRIBUTÁRIO. ICMS. IMUNIDADE. OPERAÇÕES DE IMPORTAÇÃO DE MERCADORIA REALIZADA POR ENTIDADE DE ASSISTÊNCIA SOCIAL. AGRAVO IMPROVIDO.
+    I – A jurisprudência da Corte é no sentido de que a imunidade prevista no art. 150, VI, ‘c’, da Constituição Federal abrange o ICMS incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos.
+    II – Agravo improvido.”
+    (AI 669.257-AgR/RS, Rel. Min. RICARDO LEWANDOWSKI)
+    “AGRAVO DE INSTRUMENTO – ICMS – INCIDÊNCIA – OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS – IMPOSSIBILIDADE – TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, ‘c’) – RECURSO DE AGRAVO IMPROVIDO.”
+    (AI 785.459-AgR/RS, Rel. Min. CELSO DE MELLO)
+    Impõe-se ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão essencialmente idêntica à que ora se examina (AI 675.567/RS, Rel. Min. DIAS TOFFOLI – AI 719.014/SP, Rel. Min. ELLEN GRACIE – AI 831.455/SP, Rel. Min. JOAQUIM BARBOSA – AI 836.299/SP, Rel. Min. MARCO AURÉLIO – ARE 644.132/SP, Rel. Min. GILMAR MENDES – ARE 991.742/SP, Rel. Min. RICARDO LEWANDOWSKI – RE 386.125/RS, Rel. Min. GILMAR MENDES, v.g.).
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou quanto à análise da matéria em referência.
+    Cumpre ressaltar, de outro lado, que o E. Tribunal “a quo”, ao julgar a controvérsia relativa ao atendimento dos requisitos necessários ao reconhecimento da imunidade tributária da instituição ora recorrida, entendeu-os existentes, assim procedendo em face de estrita consideração do conjunto fático-probatório produzido nos autos, o que faz incidir, na espécie, a restrição contida na Súmula 279/STF, que veda o reexame de fatos e provas em sede recursal extraordinária.
+    A mera análise do acórdão em referência demonstra que o E. Tribunal de Justiça do Estado de São Paulo, no julgamento do recurso, sustentou as suas conclusões em aspectos fático-probatórios:
+    “A impetrante é associação civil de direito privado, sem fins econômicos ou lucrativos, de caráter beneficente, social e científico (fls. 49/80) declarada de utilidade pública pela União (fls. 99).
+    Tem por objetivo: criar, manter e administrar estabelecimentos hospitalares e de assistência médica; criar manter e administrar ambulatórios para atendimento ao público, podendo conceder serviços a preços subsidiados, quando entender possível e necessário para o atendimento de sua finalidade de assistência social; promover, incentivar e favorecer a pesquisa científica no campo médico; desenvolver outras atividades correlatas aos objetivos associativos; e manter ou subsidiar outras entidades de assistência social que aplicarem integralmente, no Brasil, ou seus recursos na manutenção de seus objetivos sociais (fls. 49).
+    Os bens importados, segundo alega, serão utilizados tão somente na prestação de serviços médico-hospitalares visando à otimização das atividades realizadas. A importação é essencial para a aprimoramento dos serviços médico-hospitalares oferecidos aos seus pacientes.
+    .......................................................................................................
+    De acordo com o seu Estatuto, o Hospital Alemão Oswaldo Cruz não tem fins lucrativos, é vedada a remuneração e a distribuição de lucros, bonificações ou quaisquer vantagens a diretores e conselheiros, em caso de dissolução, seus bens serão incorporados a uma ou mais entidades beneficentes no Brasil, registradas no Conselho Nacional de Assistência Social e de comprovada idoneidade, a critério da Assembleia Geral (fls. 49, 50 e 64).
+    Atendidos os requisitos legais do Código Tributário Nacional e enquadrando-se as mercadorias importadas nas atividades desenvolvidas pela impetrante, há de ser reconhecida a imunidade tributária.”
+    Vê-se, portanto, que a pretensão deduzida em sede recursal extraordinária, pela parte ora agravante, revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal  como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
