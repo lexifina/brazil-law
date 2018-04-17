@@ -1,0 +1,14 @@
+DECISÃO
+Por meio da petição de fls. 551-552, os impetrantes requerem a reconsideração do decisum de fls. 540-542, em que indeferi liminarmente o habeas corpus, em razão do enunciado na Súmula n. 691 do Supremo Tribunal Federal.
+Na ocasião, basicamente reiteram a afirmação de que "o decreto de prisão preventiva é absolutamente ilegal, pois não contém fundamentação mínima, repete os termos do artigo 312, CPP" (fl. 552).
+Requerem, assim, seja revogada a custódia preventiva do paciente, com a imposição, se for o caso, de medidas cautelares alternativas à prisão.
+Decido.
+A decisão que indeferiu liminarmente o habeas corpus não comporta nenhuma modificação, haja vista que os impetrantes não trouxeram nenhum argumento ou fato novo.
+Faço lembrar que as matérias aventadas neste habeas corpus não foram objeto de análise pelo Tribunal de origem, ficando, assim, impedida sua admissão, sob pena de incidir-se na indevida supressão de instância.
+Nesse sentido é o disciplinamento do enunciado da Súmula n. 691 do Supremo Tribunal Federal: "Não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+O escopo da Súmula n. 691 é impedir que a impetração sucessiva de habeas corpus, sem que o anterior haja sido julgado definitivamente, viole princípios processuais fundamentais, tais como o da hierarquia dos graus de jurisdição e o da competência.
+Conforme salientado no decisum ora agravado, o referido impeditivo pode ser ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade não escapa à pronta percepção do julgador (v. g., HC n. 104.855/CE, Rel. Ministro Gilmar Mendes, 2ª T., DJe 17/10/2011; HC n. 96.539/SP, Rel. Ministro Ricardo Lewandowski, 1ª T., DJe 6/5/2010).
+Contudo, no caso, pela leitura da decisão impugnada na inicial (decreto de prisão preventiva), não identifico, de pronto, a presença de alguma excepcionalidade, de flagrante ilegalidade ou de abuso de poder que justifique o afastamento da orientação contida na referida súmula. Isso porque o Magistrado de primeiro grau apontou elementos concretos e específicos dos autos - devidamente explicitados na decisão de fls. 540-542 - que, ao menos em princípio, evidenciam a gravidade concreta dos delitos de peculato em tese cometidos e a possibilidade de reiteração criminosa, a ensejar, por conseguinte, a necessidade de manutenção da segregação preventiva para a garantia da ordem pública.
+Até, pois, que o Tribunal de Justiça do Estado do Rio de Janeiro analise as matérias aventadas no habeas corpus lá impetrado, qualquer decisão proferida por este Superior Tribunal configura inadmissível supressão de instância.
+À vista do exposto, indefiro o pedido de reconsideração formulado às fls. 551-552 e, por conseguinte, mantenho o indeferimento liminar deste habeas corpus.
+Publique-se e intimem-se.
