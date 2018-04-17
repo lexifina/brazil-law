@@ -1,0 +1,30 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela SERVIÇO DE APOIO AS MICRO E PEQUENA EMPRESAS DE SÃO PAULO, contra acórdão prolatado, por unanimidade, pela 1ª Turma do Tribunal Regional Federal da 3ª Região, assim ementado (fls. 783/784e):
+PROCESSUAL CIVIL. TRIBUTÁRIO. APELAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO PRÉVIO INDENIZADO. COMPENSAÇÃO. TERCEIROS NO POLO PASSIVO. HONORÁRIOS ADVOCATÍCIOS.
+1. 0 aviso prévio indenizado não compõe o salário de contribuição, uma vez que não há trabalho prestado no período, não havendo, por conseqüência, retribuição remuneratória por labor prestado.
+2. Aqueles que AJUIZARAM AÇÕES ANTES da entrada em vigor da LC 118/05 (09/06/2005) têm direito à repetição das contribuições recolhidas no período de DEZ ANOS anteriores ao ajuizamento da ação, limitada ao prazo máximo de cinco anos a contar da vigência da nova lei (art.
+2.028 do Código Civil). No tocante ÀS ACORN AJUIZADAS APÓS a vigência da LC 118/05, o prazo prescricional é de CINCO ANOS. (RE 566.621 - STF).
+3. Fica permitida a compensação após o trânsito em julgado, pois a ação foi proposta posteriormente à edição da LC 104/2001, conforme já decidiu o STJ, em regime de Recurso Repetitivo (543-C do CPC).
+4. A discussão quanto ao limite do percentual imposto à compensação prevista no art. 89 da Lei nº 8.212/91, com a redação dada pela Lei nº 9.129/95, restou superada, em razão da revogação dos parágrafos do referido artigo pela MP 449/08, convertida na Leiº 11.941/09, que deve ser aplicada aos casos ainda pendentes de julgamento, nos termos do art. 462 do CPC. Cabe observar, que na hipótese da compensação ter sido realizada antes do trânsito em julgado, seja em razão de medida liminar ou outro remédio judicial, aplica-se, também, neste caso, a legislação vigente. Assim, se as limitações eram previstas em lei à época do encontro de contas, de rigor a sua aplicação.
+5. Quanto à possibilidade de compensação com tributos da mesma espécie, o STJ decidiu pela aplicabilidade da norma legal vigente no ajuizamento da ação, apreciando a causa pelo regime de recursos repetitivos (artigo 543-C do CPC - STJ - RESP - RECURSO ESPECIAL - 1137738 - PRIMEIRA SEÇÃO - RELATOR MINISTRO LUIZ FUX - DJE DATA:01/02/2010) 6. A compensação deve ser realizada independentemente da prova de que não ocorreu o repasse da exação ao bem ou serviço, afastando-se o §1º, artigo 89, da Lei nº 8.212/91. Precedente do STJ e desta Corte.
+7. No julgamento do Recurso Especial n. 111.175, sob o regime do art. 543-C do CPC e da Resolução STJ 08/2008, o Superior Tribunal de Justiça consolidou posicionamento sobre a aplicação da taxa SELIC, a partir de 1º.01.1996, na atualização monetária do indébito tributário, que não pode ser acumulada com qualquer outro índice, seja de juros, seja de atualização monetária.
+8. Os destinatários das contribuições a terceiros também devem integrar a lide, pois são litisconsortes passivos necessários, em razão de que o resultado da demanda que eventualmente determine a inexigibilidade da contribuição afetará direitos e obrigações não apenas do agente arrecadador, mas também deles. Precedentes desta Corte e do STJ.
+9. É razoável que a condenação em honorários advocatícios seja fixada em R$ 3.000,00 - dado que a matéria discutida nos autos ser absolutamente de direito, pois absolutamente elevada a condenação da União no pagamento de honorários.
+10. Apelação da União e Remessa Oficial parcialmente providas.
+Apelação da autora provida.
+Opostos embargos de declaração, foram rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, a sua ilegitimidade para figurar no polo passivo da demanda.
+Com contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Esta Corte tem decidido que, nas ações que discutem a legalidade das contribuições para o SEBRAE, por se tratar de seu agente fiscalizador e arrecadador, as entidades do chamado Sistema S não possuem legitimidade para compor o pólo passivo ao lado da Fazenda Nacional.
+Nessa linha:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRIBUIÇÃO AO SEBRAE. LEGITIMIDADE PASSIVA DO INSS. ILEGITIMIDADE DO SEBRAE. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. O Plenário do STJ apreciou a aplicabilidade do CPC/2015 aos processos que já se encontravam em andamento quando do início de sua vigência, decidindo ser aplicável a novel legislação processual somente aos recursos que impugnem decisões publicadas a partir de 18.3.2016, o que não é o caso dos autos. Perfeitamente possível, portanto, o julgamento monocrático com base no art. 557, § 1o-A do CPC/73.
+2. A jurisprudência, há muito firmada nesta Corte, indica o INSS como ente legítimo para figurar nas ações que discutem a legalidade das contribuições para o SEBRAE, por se tratar de seu agente fiscalizador e arrecadador, reconhecendo que as entidades do chamado Sistema S não possuem legitimidade para compor o pólo passivo ao lado da Fazenda Nacional. Precedentes: REsp. 1.583.458/SC, Rel. Min. HUMBERTO MARTINS, DJe 15.4.2016; AgInt no REsp. 1.605.531/SC, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2016.
+3. Agravo Interno da Empresa desprovido.
+(AgInt no REsp 1320522/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/03/2017, DJe 31/03/2017)
+Isto posto, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PROVIMENTO ao Recurso Especial, para reconhecer a ilegitimidade passiva da Recorrente.
+Publique-se e intimem-se.
