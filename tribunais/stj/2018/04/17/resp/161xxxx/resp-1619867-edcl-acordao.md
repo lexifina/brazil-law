@@ -1,0 +1,43 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Não merecem acolhimento os embargos de declaração opostos sem a indicação de obscuridade, contradição, omissão ou erro material (CPC/2015, arts. 1.022 e 1.023). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no aresto embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO):
+Trata-se de embargos de declaração opostos por IDALÍCIO GOMES DE OLIVEIRA contra decisão desta eg. Quarta Turma que foi assim ementada:
+"AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SÚMULA 418/STJ. INAPLICABILIDADE NO CASO. AUSÊNCIA DE ALTERAÇÃO DO JULGAMENTO ANTERIOR. AGRAVO NÃO PROVIDO.
+1. "A única interpretação cabível para o enunciado da Súmula 418 do STJ é aquela que prevê o ônus da ratificação do recurso interposto na pendência de embargos declaratórios apenas quando houver alteração na conclusão do julgamento anterior" (REsp 1.129.215/DF, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 16/9/2015, DJe de 3/11/2015).
+2. Agravo interno a que se nega provimento."
+Nas razões recursais, o embargante insiste nas alegações aduzidas no agravo interno, sustentando, em síntese, que, quando proferida a decisão que não recebeu o recurso de apelação por falta de ratificação, estava em vigor o entendimento constante na Súmula 418 do STJ, sem a ressalva de que a ratificação somente seria necessária em caso de alteração do julgado, de modo que aplicar o novo entendimento retroativamente ofende a segurança jurídica.
+Alega, ainda, que a decisão proferida nos embargos declaratórios foi relevante e integrativa, na medida em que acrescentou uma pesada sanção à ora agravada (CAPAF) ao suspender imediatamente os descontos que esta percebia mensalmente há mais de trinta anos, impondo-se a reiteração do recurso de apelação.
+Requer, ao final, a reforma da decisão embargada pela Turma Julgadora.
+Intimada, a embargada não apresentou manifestação.
+É o relatório.
+VOTO
+O SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Vale ressaltar que o art. 1.023 da novel codificação processual exige que conste na petição de embargos declaratórios a "indicação do erro, obscuridade, contradição ou omissão", sem a qual, repita-se, é inviável o acolhimento da pretensão recursal.
+In casu, a parte embargante não suscitou, na petição de embargos, a existência de quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, limitando-se, tão somente, a alegar que o acórdão embargado deveria ser reformado, porquanto o entendimento da desnecessidade da ratificação da apelação traz segurança jurídica.
+Portanto, os presentes embargos declaratórios não se fundamentam na eventual existência dos vícios anteriormente mencionados, de modo a deixar nítido o propósito da parte embargante em rediscutir temas que foram devidamente apreciados, o que é defeso por meio da via processual escolhida, desautorizando, deste modo, o acolhimento da pretensão embutida nos aclaratórios.
+A propósito, alguns arestos proferidos nesse sentido, os quais exprimem a firme jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, in verbis:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÕES E DE CONTRADIÇÃO. REDISCUSSÃO DA CAUSA. INVIABILIDADE NA VIA RECURSAL ELEITA. ACLARATÓRIOS REJEITADOS.
+1. Dispõe o art. 1022, do novo Código de Processo Civil, que cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, por fim, corrigir erro material.
+2. Conforme afirmado no acórdão ora embargado, o Tribunal a quo "decidiu de forma suficientemente fundamentada todas as questões suscitadas, expondo as razões que o levaram a concluir pela prática de ato de improbidade administrativa. Assim, não há falar em violação ao art. 535 do CPC/73".
+3. Quanto à contradição na fixação das penalidades, consignou o acórdão ora embargado a impossibilidade de revisão da proporcionalidade das sanções cominadas, tendo em vista a incidência da Súmula 7/STJ.
+4. Assim, o propósito dos aclaratórios ora analisados é nitidamente a rediscussão da causa, o que escapa aos seus limites traçados pelo Código de Processo Civil.
+5. Embargos de declaração rejeitados."
+(EDcl no AgInt no REsp 1.560.072/MT, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/10/2017, DJe de 30/10/2017)
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. NOS EMBARGOS DE DECLARAÇÃO. NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO EXTRA PETITA. VÍCIOS DO ART. 1022 DO CPC/2015. NÃO EXISTÊNCIA. MANIFESTA INTENÇÃO PROTELATÓRIA. CARACTERIZAÇÃO. MAJORAÇÃO DA MULTA. § 3º DO ART. 1026 DO CPC 2015.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados e considerando, pela segunda vez, o seu caráter protelatório, majora-se a multa aplicada nos embargos declaratórios anteriores para 5% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao respectivo depósito."
+(EDcl nos EDcl nos EDcl no AgRg no AREsp 650.036/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/08/2017, DJe de 04/09/2017)
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO E CONTRADIÇÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. RECURSO MANIFESTAMENTE PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO CPC.
+1. Não há que falar em omissão ou contradição no acórdão recorrido, uma vez que este foi claro ao afirmar que, após análise dos autos, não restou configurada situação de manifesta inadmissibilidade ou improcedência do agravo interno passível de acarretar a aplicação da multa do art. 1.021, § 4º do CPC/15. Dessa forma, os embargos foram providos a fim de afastar a aplicação da multa imposta às fls. 322-328. Permanecem intactos os fundamentos do acórdão de, fls. 322-328, que negou provimento ao agravo interno em razão da incidência da Súmula 182 do STJ.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC/2015, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei. In casu, trata-se de terceiro embargos que tiveram os mesmos argumentos dos primeiros opostos e, afastada a suposta omissão ou contradição no pronunciamento do órgão julgador, deve ser imposta a penalidade.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% sobre o valor atualizado da causa, nos moldes do artigo 1.026, § 2º, do CPC."
+(EDcl nos EDcl nos EDcl nos EDcl no AgInt no AREsp 893.888/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/04/2017, DJe de 03/05/2017)
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
