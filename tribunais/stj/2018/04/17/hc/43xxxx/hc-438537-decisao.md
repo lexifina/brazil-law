@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0006304-96.2016.8.24.0038).
+Extrai-se dos autos que o paciente foi condenado pelo Juízo de primeiro grau pela prática do delito tipificado no art. 180, caput, do Código Penal (receptação), à pena de 1 ano de reclusão, em regime aberto, bem como ao pagamento de 10 dias-multa, substituída a pena privativa de liberdade por uma pena restritiva de direitos, consistente na prestação de serviços à comunidade.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso, determinando a execução imediata da pena, nos termos da seguinte ementa:
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. CRIME DE RECEPTAÇÃO (ARTIGO 180, CAPUT, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PEDIDO DE ABSOLVIÇÃO. ALEGADA AUSÊNCIA DE DOLO, POR DESCONHECIMENTO ACERCA DA ORIGEM ILÍCITA DO VEÍCULO APREENDIDO. DESCABIMENTO. CONTEXTO PROBATÓRIO FIRME QUE DÁ CONTA DE QUE O VEÍCULO ANTERIORMENTE FURTADO FOI FLAGRADO NA POSSE DO AGENTE. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE JUSTIFICATIVA ACERCA DA ORIGEM LÍCITA DO BEM. CONDENAÇÃO MANTIDA. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. SENTENÇA MANTIDA. EXECUÇÃO PROVISÓRIA DA PENA. CONDENAÇÃO CONFIRMADA POR ESTE TRIBUNAL. PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO. REEXAME SOBRE A MATÉRIA FÁTICA E ELEMENTOS DE PROVA ESGOTADO. CASO QUE SE AMOLDA À NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (HC 126.292/SP), RATIFICADA POR OCASIÃO DO INDEFERIMENTO DAS MEDIDAS CAUTELARES OBJETO DAS AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE 43 E 44.
+- "Não há que se falar em indevida inversão do ônus da prova, considerando que esta Corte Superior possui entendimento pacífico no sentido de que, tratando-se de crime de receptação, em que o acusado foi flagrado na posse do bem, a ele competiria demonstrar que desconhecia a sua origem ilícita, o que, no caso, não ocorreu" (STJ. HC 366.639/SP, Quinta Turma, Rel. Min. Felix Fischer, j. em 28.3.2017).
+- Confirmada a condenação neste Juízo ad quem, admite- se a execução provisória da pena, tendo em vista o esgotamento do revolvimento da matéria fática e dos elementos de prova, à luz do princípio do duplo grau de jurisdição, sem que se possa falar em afronta ao princípio da presunção de inocência, seguindo o entendimento do Supremo Tribunal Federal, nos autos do HC 126.292/SP, ratificado quando do indeferimento das medidas cautelares objeto das ADCs 43 e 44.
+- Parecer da Procuradoria-Geral de Justiça pelo conhecimento e o desprovimento do recurso.
+- Recurso conhecido e desprovido (fls. 210/211).
+Foram opostos embargos de declaração, encontrando-se pendentes de julgamento.
+No presente mandamus, a impetrante alega a impossibilidade da execução provisória das penas restritivas de direitos, ante o disposto no art. 147 da Lei de Execuções Penais.
+Requer, em liminar e no mérito, a suspensão da execução da pena imposta ao paciente até o trânsito em julgado da condenação.
+Liminar deferida apenas para suspender a execução provisória das penas restritivas de direito até o julgamento definitivo da presente impetração (fls. 244/246).
+O Ministério Público Federal opinou pelo não conhecimento do writ com a cassação da liminar anteriormente deferida (fls. 252/259).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte firmou o entendimento de que as penas restritivas de direitos não podem ser executadas antes do trânsito em julgado da condenação, em observância ao disposto no art. 147 da Lei n. 7.210/84. Confira-se, a propósito, a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados (EREsp 1619087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 14/06/2017, DJe 24/08/2017).
+Ante exposto, concedo a ordem, de ofício, para suspender a execução provisória da pena restritiva de direito imposta ao paciente até o trânsito em julgado de eventual condenação, confirmando a liminar anteriormente deferida.
+Publique-se.
+Intimações necessárias.
