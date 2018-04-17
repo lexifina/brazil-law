@@ -1,0 +1,70 @@
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. ROUBO MAJORADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. No caso em exame, a prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de pessoas e mediante grave ameaça exercida com emprego de arma de fogo, adentrou uma mercearia e, subjugando a vítima, subtraiu-lhe R$ 150,00, um celular, 30 caixas de cigarros e 15 sacos de fumo de corda, evadindo-se do local, sendo capturado e preso em flagrante logo em seguida.
+4. Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a sua prisão preventiva, tendo como escopo o resguardo da ordem pública, como ocorreu na espécie.
+5. A alegada negativa de autoria não pode ser apreciada por esta Corte Superior de Justiça, por demandar o exame aprofundado do conjunto fático-probatório dos autos, inviável na via estreita do habeas corpus.
+6. Habeas corpus não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ALEX MATEUS SILVA ALVES, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Na origem, constata-se prisão em flagrante, convertida em preventiva, e denúncia em desfavor do paciente pela prática, em tese, da conduta descrita no art. 157, § 2º, I e II, do Código Penal.
+Inconformada, a defesa impetrou habeas corpus perante o TJSP, que denegou a ordem, verbis:
+"HABEAS CORPUS. Suposta prática de roubo majorado. Objetiva a concessão da liberdade provisória. Impossibilidade. Decisão que não se pode dizer teratológica ou ilegal. Afora isso, custódia está amparada em suficientes indícios de autoria e materialidade, além da necessidade de garantia da ordem pública e conveniência da instrução criminal, tendo em vista a gravidade em concreto do delito. Constrangimento ilegal não demonstrado - Ordem denegada" (e-STJ fl. 9).
+Neste writ, alega o impetrante que "o decreto de prisão preventiva expedido pela autoridade coatora mostra-se totalmente desprovido de qualquer fundamentação válida" (e-STJ, fl. 2).
+Aduz, outrossim, que "pesa sobre o paciente somente a palavra da vitima, que estava abalada psicologicamente, sendo fácil a mesma ter se confundido, portanto, não há presente o indícios suficientes de autoria" (e-STJ, fl. 5).
+Ao final, requer a concessão da ordem, liminarmente e no mérito, para que seja revogada a prisão preventiva.
+A liminar foi indeferida.
+Informações prestadas.
+O Ministério Público Federal opinou pelo não conhecimento da ordem.
+É o relatório.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. ROUBO MAJORADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+3. No caso em exame, a prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de pessoas e mediante grave ameaça exercida com emprego de arma de fogo, adentrou uma mercearia e, subjugando a vítima, subtraiu-lhe R$ 150,00, um celular, 30 caixas de cigarros e 15 sacos de fumo de corda, evadindo-se do local, sendo capturado e preso em flagrante logo em seguida.
+4. Segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a sua prisão preventiva, tendo como escopo o resguardo da ordem pública, como ocorreu na espécie.
+5. A alegada negativa de autoria não pode ser apreciada por esta Corte Superior de Justiça, por demandar o exame aprofundado do conjunto fático-probatório dos autos, inviável na via estreita do habeas corpus.
+6. Habeas corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, a segregação cautelar do paciente foi decretada pelos seguintes fundamentos:
+"(..)
+Com efeito, estão presentes os requisitos necessários para o deferimento da pretensão.
+A imputação tem alto grau de reprovação social e vem se tornando, a cada dia, um dos principais motivos de preocupação da parcela ordeira da sociedade.
+Ademais, nada indica que os denunciados guardem compromisso com o distrito da culpa.
+Anote-se que há comprovação de que ambos foram presos em flagrante pela prática de crime análogo, no mesmo local, contra as mesmas vítimas e com o mesmo modus operandi, o que traduz fortes indícios de responsabilidade, também. No caso tratado nestes autos.
+Desta forma, evidenciada a necessidade de prisão como forma de manter a ordem pública e de resguardar a instrução do processo, bem como a futura aplicação da lei penal, decreto a prisão preventiva de Wagner (..) e Luiz (..)".
+Como se vê, a prisão preventiva está adequadamente motivada com base em elementos concretos extraídos dos autos, para garantia da ordem pública, diante do modus operandi da suposta conduta criminosa, indicando a periculosidade do paciente que, em concurso de pessoas e mediante grave ameaça exercida com emprego de arma de fogo, adentrou uma mercearia e, subjugando a vítima, subtraiu-lhe R$ 150,00, um celular, 30 caixas de cigarros e 15 sacos de fumo de corda, evadindo-se do local, sendo capturado e preso em flagrante logo em seguida.
+Com efeito, segundo reiterada jurisprudência desta Corte, a periculosidade do agente, evidenciada no modus operandi do delito, é fundamento idôneo para justificar a sua prisão preventiva, tendo como escopo o resguardo da ordem pública, como ocorreu na espécie.
+Nesse sentido:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. PERICULOSIDADE CONCRETA. MODUS OPERANDI. EVASÃO DO DISTRITO DA CULPA. RECORRENTE FORAGIDO. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. RECURSO ORDINÁRIO DESPROVIDO.
+I - A prisão cautelar deve ser considerada exceção, já que, por meio desta medida, priva-se o réu de seu jus libertatis antes do pronunciamento condenatório definitivo, consubstanciado na sentença transitada em julgado. É por isso que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. A prisão preventiva, portanto, enquanto medida de natureza cautelar, não pode ser utilizada como instrumento de punição antecipada do indiciado ou do réu, nem permite complementação de sua fundamentação pelas instâncias superiores. (HC n. 93.498/MS, SEGUNDA TURMA, Rel. Min. CELSO DE MELLO, DJe de 18/10/2012).
+II - No caso, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam a necessidade de garantia da ordem pública e da aplicação da lei penal, notadamente se considerado o modus operandi da conduta em tese praticada, bem como a evasão do recorrente do distrito da culpa, encontrando-se foragido até o presente momento (precedentes).
+III - Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese.
+IV - Não é cabível a aplicação das medidas cautelares alternativas à prisão, in casu, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+Recurso ordinário desprovido" (RHC 68.156/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/4/2016, DJe 29/4/2016).
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, [NOME] (CONSUMADOS E TENTADOS), EXTORSÃO, TENTATIVA DE LATROCÍNIO, FURTO QUALIFICADO E RECEPTAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. PERICULOSIDADE DO ACUSADO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. TESE DE LETARGIA PROCESSUAL. ACUSADO NÃO SEGREGADO. APRECIAÇÃO DA TEMÁTICA. IMPOSSIBILIDADE. ARGUMENTO DEFENSIVO NÃO APRESENTADO PERANTE O COLEGIADO ESTADUAL. RECURSO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, quais sejam, o modus operandi delitivo e a periculosidade do agente, cifrados em intrépida e audaz ação criminosa, dispondo de uma perniciosa influência intimidatória, demonstrando-se, assim, a necessidade da prisão para a garantia da ordem pública.
+2. Não estando o acusado segregado, eis que ausente do distrito da culpa, é inviável a apreciação da tese do excesso de prazo para quem nem preso está, acrescentando-se que a temática sequer fora apresentada perante o Colegiado de origem.
+3. Recurso parcialmente conhecido e, nessa extensão, negado provimento."
+(RHC 58.275/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 7/5/2015, DJe 15/5/2015).
+De mais a mais, a alegada negativa de autoria não pode ser apreciada por esta Corte Superior de Justiça, por demandar o exame aprofundado do conjunto fático-probatório dos autos, inviável na via estreita do habeas corpus.
+A propósito, o seguinte julgado:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO NA FORMA TENTADA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI. RISCO DE REITERAÇÃO. NEGATIVA DE AUTORIA. MEIO INADEQUADO.
+CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO IMPROVIDO.
+1. Para a decretação da prisão preventiva é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+2. No presente caso, a prisão preventiva está devidamente justificada para a garantia da ordem pública, notadamente em razão do peculiar modus operandi utilizado para a prática do delito, com a tentativa de atear fogo à vítima, bem como a probabilidade de reiteração delitiva, consubstanciada na ameaça documentada por meio de boletim de ocorrência na qual o recorrente afirmou que quando saísse da prisão atearia fogo na casa com todos que estivessem em seu interior. Precedentes.
+3. O habeas corpus não é o meio adequado para o exame da tese de negativa de autoria ou materialidade, por exigir dilação probatória, necessariamente incompatível com a via estreita do writ, ação constitucional de rito célere e de cognição sumária.
+4. As condições subjetivas favoráveis do recorrente, tais como primariedade e residência fixa, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+5. Recurso ordinário em habeas corpus a que se nega provimento."
+(RHC 86.456/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/8/2017).
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordem por esta Corte.
+Ante o exposto, não conheço do habeas corpus.
+É como voto.
