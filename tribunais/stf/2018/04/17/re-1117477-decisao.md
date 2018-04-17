@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário interposto em face do acórdão da 6ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo assim ementado (eDOC 3, p. 56):
+    “APELAÇÃO - Ação declaratória - Concurso interno para promoção ao cargo de Cabo da PM - Pedido de anulação de questões de prova, supostamente mal formuladas ou com gabarito oficial incorreto - Improcedência - Pretensão de inversão do julgamento - Possibilidade - Cabimento do controle pelo Judiciário da legalidade dos atos administrativos, inclusive aqueles relativos a bancas examinadoras de concurso - Inocorrência de violação à Separação dos Poderes - Aplicação do princípio da Inafastabilidade do Controle Jurisdicional - Artigo 5º, XXXV, da CF - Análise que, entretanto, se restringe às hipóteses de erro grosseiro - Precedente do STJ - Perícia, no caso, que concluiu pela inconsistência das questões de nº 03, 14, 16 e 18 - Cabimento da utilização da prova emprestada - Respeito ao contraditório - Reforma da sentença - Precedentes deste Tribunal - Provimento da apelação, por maioria de votos.”
+    Os embargos infringentes a seguir opostos pelo Estado de São Paulo foram rejeitados (eDOC 3, pp. 85-91).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 2º e 37, caput, I e II, da Carta da República.
+    Nas razões recursais, sustenta-se, em suma, que “o Poder Judiciário não pode substituir a banca examinadora quanto aos critérios de correção das questões que são formuladas em concursos de provas, sob pena de violação ao princípio da separação dos poderes” (eDOC 3, pp. 99-100).
+    Julgado o mérito do RE 632.853 (Tema 485 da repercussão geral), a Câmara de origem manteve o respectivo acórdão (eDOC 3, pp. 125-129).
+    O Estado de São Paulo reiterou os termos do extraordinário (eDOC 3, p. 131), o qual restou admitido pela Vice-Presidência da Seção de Direito Público do TJ/SP (eDOC 3, pp. 134-135).
+    É o relatório. Decido.
+    A irresignação merece prosperar.
+    O Tribunal de origem, ao julgar a apelação, assim se manifestou (eDOC 3, pp. 58-59):
+    “O laudo pericial que consta dos autos (fls. 51/53), elaborado pelo Prof. Dr. Eduardo César Catanozi, traz a conclusão de que as questões de língua portuguesa de nº 03, 14, 16 e 18, de fato, mostram-se passíveis de anulação, quer porque o gabarito apresentou resposta equivocada, quer porque o enunciado da questão não permitiu ao candidato concluir qual seria a resposta correta.
+    Quanto à questão de nº 03, o trabalho pericial registra que:
+    ‘Possivelmente, os colegas professores que elaboraram a questão consideraram da mesma equivalência morfológica um pronome indefinido e um pronome pessoal do caso oblíquo tônico. Ora, ambos possuem em comum apenas o fato de serem pronomes, o que não é suficiente para afirmar que um equivale ao outro. Portanto, neste caso, concordo com a alegação de que a pergunta está mal formulada e de que, portanto, não possui resposta plenamente correta’. (fl. 47)
+    No tocante à de nº 14:
+    ‘O problema que se nos apresenta é semelhante ao da questão nº 03: pergunta e resposta destacam uma palavra de mesma classe morfológica, nesse caso, um artigo. Contudo, não se pode afirmar que um artigo definido possui mesma equivalência de um artigo indefinido. Portanto, acredito que é pertinente o questionamento do candidato, já que há problema na formulação do enunciado da questão’. (fl. 47)
+    E no que se refere à questão nº 18,
+    ‘O enunciado da questão apresenta uma figura de estilo chamada sinestesia e o gabarito oficial aponta como correta a alternativa “c”, que também é uma sinestesia. Contudo, novamente, a questão 18 solicita uma “figura de sintaxe” e, de novo, deveria ter pedido uma “figura de estilo”. A incorreção é a mesma apontada na questão nº 16. Há inadequação na pergunta formulada” (fl. 48) (Destaques no original).
+    Da análise dos fundamentos adotados, verifica-se que o acórdão recorrido contraria o entendimento constante do RE 632.853-RG, Rel. Min. Gilmar Mendes, DJe 29.6.2015 (Tema 485 da repercussão geral), segundo o qual não compete ao Judiciário “substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção utilizados, salvo ocorrência de ilegalidade ou de inconstitucionalidade”. Confira-se a ementa desse julgado:
+    “Recurso extraordinário com repercussão geral. 2. Concurso público. Correção de prova. Não compete ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas. Precedentes. 3. Excepcionalmente, é permitido ao Judiciário juízo de compatibilidade do conteúdo das questões do concurso com o previsto no edital do certame. Precedentes. 4. Recurso extraordinário provido.”
+    Nesse sentido observem-se as decisões no RE 966415, Rel. Min. Luiz Fux, DJe 6.10.2016; e no ARE 976084, Rel. Min. Dias Toffoli, DJe 16.6.2016.
+    Ante o exposto, dou provimento ao recurso, nos termos do art. 932, V, b, do CPC, para restabelecer a sentença.
+    Publique-se.
+    Brasília, 17 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
