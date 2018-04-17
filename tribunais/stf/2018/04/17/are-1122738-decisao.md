@@ -1,0 +1,24 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão assim ementado:
+    “MANDADO DE SEGURANÇA. TRIBUTÁRIO.IMUNIDADE PREVISTA NO INC. VI DO ART. 150 DACF/1988.
+    ‘O que cumpre perquirir (...) é se o bem adquirido, no mercado interno ou externo, integra o patrimônio da entidade abrangida pela imunidade’(Ministro CARLOS VELLOSO). Se sim, então se reconhece a imunidade.
+    Não provimento da remessa obrigatória e da apelação”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, VI, c, 155, II, §2º, IX, a, da Carta. Sustenta que: (i) é exigível o ICMS no desembaraço aduaneiro da mercadoria importada; (ii) o acórdão recorrido conferiu interpretação ampla à norma constitucional que preconiza o benefício da imunidade; (iii) a entidade não logrou comprovar a vinculação de seu patrimônio às suas finalidades essenciais.
+    A pretensão recursal não merece prosperar, porquanto a decisão agravada está correta e alinhada aos precedentes firmados por esta Corte. O Tribunal de origem, com apoio no acervo probatório dos autos e na interpretação da legislação infraconstitucional aplicável à espécie, concluiu que a parte ora recorrida faz jus à imunidade tributária prevista no texto constitucional.
+    Consoante previsão do art. 150, VI, c, da Carta, a imunidade das entidades de assistência social afasta a incidência de impostos. E, nos termos do art. 150, § 4º, da CF, somente são excluídos os impostos sobre o patrimônio, a renda e os serviços relacionados com as finalidades essenciais da entidade imune.
+    Embora o texto constitucional não especifique os impostos que podem ser alcançados pela imunidade, este Tribunal vem ampliando significativamente o campo de abrangência da regra imunizante, entendendo que qualquer imposto que pudesse onerar de alguma forma o patrimônio, a renda ou os serviços da entidade imune tem a sua incidência afastada pela imunidade.
+    Não obstante continuem válidas as restrições previstas no texto constitucional, na prática esta Corte tem afastado a cobrança de todos os impostos que pudessem gravar o patrimônio ou as atividades das entidades assistenciais imunes.
+    Esta Corte já decidiu pela existência do direito à imunidade em relação ao ICMS incidente na aquisição de mercadorias importadas, destinadas a incorporação ao ativo fixo da entidade. Confira-se o julgado:
+    ““CONSTITUCIONAL. TRIBUTÁRIO. ICMS. IMUNIDADE TRIBUTÁRIA. INSTITUIÇÃO DE EDUCAÇÃO SEM FINS LUCRATIVOS. C.F., art. 150, VI, "c". I. - Não há invocar, para o fim de ser restringida a aplicação da imunidade, critérios de classificação dos impostos adotados por normas infraconstitucionais, mesmo porque não é adequado distinguir entre bens e patrimônio, dado que este se constitui do conjunto daqueles. O que cumpre perquirir, portanto, é se o bem adquirido, no mercado interno ou externo, integra o patrimônio da entidade abrangida pela imunidade. II. - Precedentes do STF. III. - R.E. não conhecido.” (RE 203.755, Rel. Min. Carlos Velloso)”
+    Ambas as Turmas deste Tribunal já decidiram que a imunidade tributária contida no art. 150, VI, c, da Carta abrange o ICMS incidente na importação de bens utilizados na prestação de serviços pelas entidades de assistência social sem fins lucrativos.
+    “AGRAVO DE INSTRUMENTO - ICMS - INCIDÊNCIA - OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS - IMPOSSIBILIDADE - TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, ‘c’) - RECURSO DE AGRAVO IMPROVIDO.”. (AI 785.459-AgR, Rel. Min. Celso de Mello)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMUNIDADE DAS ENTIDADES DE ASSISTENCIAL SOCIAL RECONHECIDA COM RELAÇÃO AO ICMS INCIDENTE SOBRE PRODUTOS IMPORTADOS. PRECEDENTES.
+    A jurisprudência da Corte orienta-se no sentido de que a imunidade prevista no art. 150, VI, c, da Constituição Federal, abrange o ICMS incidente sobre a importação de mercadorias utilizadas na prestação de seus serviços específicos.
+    Não procede a vinculação do recurso à sistemática da repercussão geral com relação a um leading case que controverte sobre questão diversa.
+    Agravo regimental a que se nega provimento”. (ARE 803.906-AgR, de minha relatoria)”
+    Ademais, a jurisprudência do Supremo Tribunal Federal entende que não cabe à entidade demonstrar que utiliza seus bens ou rendas de acordo com suas finalidades institucionais. Ao contrário, compete à Administração tributária demonstrar a eventual tredestinação do bem ou atividade gravados pela imunidade (ARE 760.876-AgR, Rel. Min. Dias Toffoli).
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 17 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
