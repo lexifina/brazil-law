@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de dois agravos internos (e-STJ fls. 626/635 e 636/736) interpostos contra decisão da Presidência desta Corte, que não conheceu do agravo por intempestividade do recurso especial, interposto na vigência do CPC/1973 (e-STJ fls. 621/622).
+De início, não conheço da petição de fls. 636/736 (e-STJ), por força do princípio da unirrecorribilidade e da preclusão consumativa (cf. EDcl no AREsp n. 224.031/SP, Relator Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 8/4/2014, DJe 14/4/2014).
+Em suas razões, a agravante comprovou ter interposto o recurso dentro do prazo legal.
+Assim, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão agravada e prossigo no exame do recurso.
+Trata-se de agravo (CPC/2015, art. 1.042), interposto contra decisão que não admitiu o recurso especial sob os seguintes fundamentos (e-STJ fls. 585/589): (a) inexistência de ofensa ao art. 535 do CPC/1973 e (b) aplicação das Súmulas n.211 do STJ e 282 do STF.
+O acórdão recorrido possui a seguinte ementa (e-STJ fls. 510/511):
+AGRAVO REGIMENTAL EM JULGAMENTO MONOCRÁTICO (CPC 557). AÇÃO DE ENTREGA DE COISA CERTA. IMPUTAÇÃO DE CONDUTA DELITUOSA AO AUTOR. APREENSÃO DE MERCADORIA. ABSOLVIÇÃO. DETERMINAÇÃO DE DEVOLUÇÃO OU PAGAMENTO EM PECÚNIA. AUSÊNCIA DE FATO NOVO A JUSTIFICAR A MODIFICAÇÃO DO ENTENDIMENTO ADOTADO NA DECISÃO RECORRIDA. DESPROVIMENTO.
+I- Autorizado está o Relator a proferir julgamento unipessoal quando o entendimento jurisprudencial dominante respaldar o seu posicionamento.
+II- De acordo com precedentes do STJ, o julgamento do agravo regimental supre eventual irregularidade na aplicação do art. 557 do CPC, pois, nesta oportunidade, o recurso é reapreciado pelo órgão colegiado.
+III- Em sede da ação de entrega de coisa incerta, demonstrado pelo autor ter sido absolvido da conduta delituosa de receptação de fios contra si imputada pelo órgão Ministerial de 1º grau, diante da não comprovação no juízo criminal de que os aludidos bens são provenientes de origem ilícita, incumbe a empresa de telefonia requerida devolver as referidas mercadorias, antes apreendidas, ou proceder o pagamento em pecúnia.
+IV Diante da não comprovação pela ré da existência de fato impeditivo, modificativo ou extintivo do direito autoral, ônus que lhe incumbia, "ex vi" do art. 333, inciso II do CPC, e dada a demonstração de que os bens apreendidos no comércio do autor não possuem origem ilícita, os mesmos devem ser a este devolvidos, sob pena de enriquecimento sem causa daquela.
+V- Em sede de agravo regimental, então interposto contra julgamento unipessoal proferido com base no CPC 557, não demonstrado fato novo apto a derruir a fundamentação do relator, insta repelir o pedido de reconsideração e, ainda, desprover o recurso, atendendo, tão somente, o princípio da colegialidade.
+AGRAVO REGIMENTAL CONHECIDO, MAS, DESPROVIDO.
+Os embargos declaratórios opostos foram rejeitados (e-STJ fls. 532/545).
+No especial (e-STJ fls. 550/561), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou dissídio jurisprudencial e violação dos arts. 332 e 535, I e II, do CPC/ 1973.
+Sustentou omissão no acórdão recorrido e fez alegações genéricas quanto à ausência de comprovação da procedência e propriedade do material apreendido, insurgindo-se, ainda, quanto aos valores a estes atribuídos.
+No agravo (e-STJ fls. 595/601), afirma a presença de todos os requisitos de admissibilidade do especial.
+A contraminuta foi apresentada às fls. 600/617 (e-STJ).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade do recurso especial.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da recorrente, não se identificando omissão, contradição ou obscuridade no acórdão impugnado.
+Além disso, não se admite alegação genérica de afronta ao art. 535 do CPC/1973, cabendo à parte recorrente indicar os motivos específicos pelos quais haveria violação da norma, medida não adotada na espécie, o que atrai o óbice da Súmula n. 284/STF.
+A simples indicação do dispositivo legal tido por violado, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do especial, por falta de debate prévio. Há, portanto, a incidência das Súmulas n. 282 e 356 do STF, respectivamente:
+É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.
+O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Dessa forma, o recurso especial não reúne condições de admissibilidade no que concerne à alegada ofensa ao art. 332 do CPC/1973, em virtude da ausência de prequestionamento, consoante se infere do aresto impugnado (e-STJ fls. 484/497).
+Ressalte-se que o tema também não foi arguido nos embargos de declaração opostos na origem (e-STJ fls. 526/529).
+Ademais, a Corte estadual negou provimento ao agravo interposto pela companhia telefônica, mantendo anterior decisão, sob os seguintes fundamentos (e-STJ fls. 519/521):
+No mérito, o autor busca, com a presente ação, a restituição dos materiais apreendidos, alegando que, apesar de ter sido acusado de vender produtos de origem ilícita, tal fato não restou comprovado no juízo criminal, o que levou à sua absolvição e, consequentemente, ao dever do réu restituir os produtos que lhe foram entregues pela autoridade policial.
+O réu se limitou a alegar que o autor não comprovou a propriedade dos bens e que, por isso, não tem obrigação de devolver os materiais apreendidos.
+As alegações do autor restaram comprovadas pelos documentos acostados aos autos.
+Infere-se da cópia dos termos de fls. 18/19 que foram entregues à ré os seguintes objetos apreendidos com o autor: "1.694,5 Kg (mil, seiscentos e noventa e quatro quilos e cinquenta gramas) de fios queimados, incluindo cabos e fios terra; dois rolos de fios encapados e 820 Kg (oitocentos e vinte quilos) de fios de cobre".
+A sentença penal absolutória (fls. 26/29) confirma que o autor foi denunciado pelo crime de receptação qualificada, mas, após concluir que os produtos não foram adquiridos de forma ilícita, o autor foi absolvido pelo juízo criminal:
+"Diante do exposto, com fundamento no art. 386, inciso II, do Código de Processo Penal, julgo improcedente o pedido contido na denúncia, e de consequência, absolvo o acusado [NOME], a imputação que lhe fora feita, uma vez demonstrada a ausência de prova da existência do fato".
+Além disso, a decisão proferida pelo mesmo juízo (fls. 31/32) determinou a restituição dos bens ao requerente:
+"No caso, não há dúvida quanto ao direito do requerente, uma vez que fora absolvido da imputação contra ele formulada anteriormente e, como não houve a comprovação da procedência ilícita dos objetos pleiteados, estes devem ser devolvidos ao seu proprietário, não havendo, portanto, óbice à restituição dos mesmos.  ..
+Ao teor do exposto, acolho o parecer ministerial e determino a devolução dos bens supracitados  ..  a [NOME] [NOME] DA [NOME]"  ..
+Verifica-se no documento de fls. 33/34 que tal decisão não foi cumprida, pois a autoridade policial entregou os bens à empresa ré como se proprietária fosse, tendo o juízo criminal sugerido às partes que procurassem o juízo cível para resolver a questão.
+Ressalto que a ré, apesar de dizer que os fios eram de seu uso exclusivo, comercializava tais mercadorias em leilões, como restou esclarecido na manifestação do Ministério Público (fls. 161/163) e na sentença (fls. 26/29):
+" ..  Conforme se vê nos autos, a empresa Brasil Telecom realizava leilões de sucatas de alumínio, cobre, ferro, etc. (doc. Fls. 238/242), tendo, inclusive, o acusado arrematado alguns lotes dessas sucatas." (fls. 163).
+" ..  Contudo, as provas carreadas aos autos não demonstram que os produtos apreendidos no estabelecimento do acusado eram de procedência ilícita, ou ainda, que foram subtraídos da empresa - vítima, Brasil Telecom.
+Nota-se que também restou demonstrado que os produtos apreendidos em poder do denunciado, ao contrário do que alegou a empresa-vítima, eram por esta comercializados". (fls. 28) (grifei)
+Portanto, diante do contexto probatório dos autos, presume-se que o autor tenha adquirido as mercadorias de boa- fé.
+Cumpre consignar que, no ordenamento jurídico pátrio, prevalece o princípio da boa-fé, enquanto a má-fé, exceção, deve ser devidamentecomprovada.
+Assim, não tendo o réu comprovado a existência de algum fato impeditivo, modificativo ou extintivo do direito do autor, ônus que lhe incumbia, nos termos do art. 333, inciso II do CPC, e considerando que as provas dos autos comprovam que os bens apreendidos no comércio do autor não tiveram origem ilícita, tais objetos devem restituídos ao requerente, sob pena de enriquecimento sem causa do réu". (sic - fls. 184/186). - negritei.
+Deste modo, imbuído desta motivação, demonstrado que a mercadoria apreendida no estabelecimento comercial do autor/1º apelante não possui origem ilícita, pois, em que pese a requerida/2ª apelante ter dito que a mesma é de seu uso exclusivo, o aludido produto foi comercializado em leilões, o qual, inclusive, foi objeto de arrematação por aquele, razão pela qual outra medida não há senão restituir-lhe o produto (1.694,5 Kg de fios queimados, incluindo cabos e fios terra; dois rolos de fios encapados e 820 kg de fios de cobre) ou o seu equivalente em dinheiro, conforme restou decidido no ato sentencial. (grifos no original.)
+Rever esse entendimento demandaria o reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Por fim, o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração dessa divergência mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 541, parágrafo único, do CPC/1973) (art. 1.029, § 1º, do CPC/2015). No presente caso, não foi realizado o indispensável cotejo analítico entre os julgados, sendo insuficiente a mera transcrição de ementas para configuração do dissídio.
+Diante do exposto, com fundamento no art. 259 do RISTJ, RECONSIDERO a decisão monocrática (e-STJ fls. 621/622) para afastar a intempestividade do recurso especial e NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
