@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JOSE BIANCARDI, apontando como autoridade coatora o Tribunal Regional Federal da 1ª Região.
+Consta dos autos que o paciente foi absolvido da prática dos delitos insculpidos nos arts. 203, § 1º, I, e 297, § 4º, ambos do CP, porquanto subsidiários ao delito previsto no art. 149 do CP, pelo qual foi condenado às penas de 3 anos e 6 meses de reclusão, substituída a sanção corporal por duas medidas restritivas de direitos.
+Em 2/12/2015, o Tribunal de origem negou provimento à apelação do réu e deu parcial provimento ao apelo do Ministério Público para condenar o paciente pelo crime previsto no art. 297, § 4º, do CP, à pena de 5 anos de reclusão e 50 dias-multa, bem como para majorar a pena-base do crime do art. 149 do CP, mantida a elevação pela continuidade delitiva, no índice de 2/3, concretizando a sanção em 5 anos de reclusão. Aplicado o concurso formal de delitos (art. 70 do CP), foram as penas definitivamente estabelecidas em 7 anos e 6 meses de reclusão, em regime inicial semiaberto, além do pagamento de 70 dias-multa, em acórdão assim ementado (fl. 283):
+PENAL. REDUÇÃO A CONDIÇÃO ANÁLOGA À DE ESCRAVO. ART. 149 DO CP. AUTORIA E MATERIALIDADE COMPROVADAS. OMISSÃO DE ANOTAÇÃO NA CTPS. ART. 297, § 4o, DO CP. DOLO. DOSIMETRIA ALTERADA. SENTENÇA REFORMADA.
+1. Precárias condições de trabalho e isolamento físico dos trabalhadores no interior da Fazenda Córrego do Limão, diante do conjunto probatório coligido, comprovam o crime previsto no art. 149 do CP, sobretudo diante da decisão do Pleno do Supremo Tribunal Federal no Inq. 3412/AL.
+2. No caso, o delito tipificado no art. 297, § 4o, do CP está provado e corresponde à omissão dolosa do réu relativa aos registros de contratos de trabalho e/ou prestação de serviços nas CTPS de trabalhadores, os quais deveriam produzir efeitos perante a Previdência Social.
+3. Apelação do réu não provida e apelação do MPF parcialmente provida.
+Opostos embargos de declaração, foram rejeitados à unanimidade, declarando o relator, de ofício, extinta a punibilidade do réu quanto ao delito previsto no art. 297, § 4º, do CP, tendo em vista a prescrição retroativa da pretensão punitiva.
+Insurge-se o impetrante em face da aplicação da continuidade delitiva ao crime tipificado no art. 149 do CP, ao fundamento de que a fração máxima de aumento foi aplicada à míngua de qualquer motivação. Aduz, ainda, que o delito perpetrado possui natureza de crime permanente, sendo, portanto, incompatível com a aplicação do instituto da continuidade delitiva.
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+Acerca da continuidade delitiva, estas foram as considerações tecidas pelas Corte a quo (fl. 294):
+Dessa forma, pelos mesmos fundamentos utilizados pelo Juízo a quo, fixo a pena-base em 03 (três) anos de reclusão, considerando que o MPF requereu a sua majoração.
+Sem circunstâncias atenuantes ou agravantes, a pena foi corretamente aumentada em 2/3 (dois terços), na terceira fase, por força da continuidade delitiva - art. 71 do CP, ante a quantidade de trabalhadores resgatados na fazenda do réu (15).
+Ao contrário do que alega o impetrante, o aumento da pena pela continuidade delitiva, na fração máxima de 2/3, foi fundamentada na quantidade de crimes cometidos pelo paciente (15), o que encontra ressonância na abalizada jurisprudência desta Corte, segundo a qual em se tratando de aumento de pena referente à continuidade delitiva, aplica-se a fração de aumento de 1/6 pela  prática de 2 infrações; 1/5 para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações; 1/2 para 6 infrações e 2/3 para 7 ou mais infrações. (AgRg no AREsp 619.117/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/10/2017, DJe 23/10/2017). Neste mesmo sentido: HC 387.773/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/09/2017, DJe 21/09/2017.
+Quanto à alegada incompatibilidade entre o instituto da continuidade delitiva e os crimes de natureza permanente, verifico que as razões de apelação e dos embargos de declaração não foram anexadas aos autos, não se podendo constatar se a Corte a quo foi provocada para se manifestar sobre a insurgência.
+De todo modo, da análise do acórdão combatido pode-se constatar que a questão não foi examinada pelo Tribunal de origem, o que impede o seu conhecimento diretamente por este Sodalício, sob pena de indevida supressão de instância.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
