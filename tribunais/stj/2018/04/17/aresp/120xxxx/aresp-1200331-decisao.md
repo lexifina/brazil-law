@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que negou seguimento a recurso especial, sob fundamento de incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 397/400) .
+O acórdão recorrido apresenta a seguinte ementa (e-STJ fl. 338):
+Apelação cível. Seguros. Plano de saúde. Ação revisional. Aplicabilidade do Código de Defesa do Consumidor. Inteligência da Súmula 469 do STJ.Reajustes anuais. Ausência de abusividade. Os contratos de plano de saúde coletivos não estão limitados aos índices de reajuste autorizados pela ANS para os planos de saúde individuais e familiares. Livre pactuação entre as parte contratantes. Reajuste por mudança de faixa etária. À unanimidade, negaram provimento ao apelo.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 354/358).
+Sobreveio o recurso especial (e-STJ fls. 364/376), fundado no art. 105, III, "a", da CF, no qual a recorrente sustentou violação dos arts. 187, 206, 421 e 422 do Código Civil de 2002, 13 da Lei n. 9.556/1998, 39 e 51 do Código de Defesa do Consumidor, 4º e 5º da Lei de Introdução às Normas do Direito Brasileiro, 15, § 3º, do Estatuto do Idoso e 140 do CPC/2015, argumentando, em síntese, que a seguradora aumentou abusivamente a mensalidade do plano de saúde coletivo, além de o referido plano ter sido fundado em planilhas inacessíveis ao consumidor. Assim, argumentou que deveria ser declarado abusivo o reajuste anual de mensalidade praticada pela empresa recorrida.
+No agravo (e-STJ fls. 404/408), afirma a presença dos requisitos de admissibilidade do recurso especial.
+Foi apresentada contraminuta (e-STJ fls. 414/419).
+É o relatório.
+Decido.
+Ao negar a abusividade alegada, entendeu o Tribunal de origem que o reajuste do plano de saúde não é, por si, ilegal, pois não se submete aos limites fixados pela ANS. Com efeito, o entendimento do Tribunal a quo coaduna-se com a jurisprudência do STJ, no sentido de não submeter o reajuste de mensalidades de plano de saúde coletivo ao teto de aumentos fixado pela ANS apenas para os planos individuais e familiares. Nesse sentido:
+(..) há diferenças sensíveis entre os planos de saúde individuais e coletivos. Quanto aos reajustes das mensalidades, a Agência Nacional de Saúde Suplementar (ANS), nos planos coletivos, limita-se a monitorar o mercado, de modo que os parâmetros para a majoração são decorrentes da livre negociação entre a operadora e a pessoa jurídica estipulante, possuidora de maior poder de negociação. Por outro lado, nos planos individuais, a autarquia reguladora intervém de forma mais incisiva e direta no setor (EDcl no REsp 1.568.244/RJ, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 23/8/2017, DJe 28/8/2017.)
+Ademais, no que concerne ao reajuste da mensalidade do contrato de saúde coletivo, a decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que não é abusiva a cláusula que prevê a possibilidade de reajuste do plano de saúde, seja por variação de custos, seja por aumento de sinistralidade. A esse respeito, confiram-se os julgados desta Corte Superior:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MENSALIDADES. REAJUSTE. AUMENTO DA SINISTRALIDADE. ABUSIVIDADE. NÃO RECONHECIMENTO NA ORIGEM. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. O recurso especial inadmitido impugna acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é possível o reajuste de contratos de saúde coletivos sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade.
+3. Revisar o entendimento da instância ordinária que afastou a natureza abusiva do reajuste do plano de saúde é pretensão que esbarra no reexame de cláusulas do contrato e das provas constantes dos autos, sendo, portanto, inviável em recurso especial (Súmulas nºs 5 e 7/STJ).
+4. Agravo interno não provido.
+(AgInt no REsp 1656653/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. REAJUSTE. ABUSIVIDADE NÃO RECONHECIDA. REEXAME DE PROVAS E DA RELAÇÃO CONTRATUAL ESTABELECIDA. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+2. "É possível reajustar os contratos de saúde coletivos, sempre que a mensalidade do seguro ficar cara ou se tornar inviável para os padrões da empresa contratante, seja por variação de custos ou por aumento de sinistralidade". (AgRg nos EDcl no AREsp 235.553/SP, Rel.
+Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 02/06/2015, DJe 10/06/2015). Aplicação da Súmula 83/STJ.
+2. Na espécie, o acórdão, à luz do contrato entabulado entre as partes e dos reajustes promovidos pela operadora do plano de saúde, não reconheceu a abusividade do reajuste do plano de saúde amparado nas provas e no contrato firmado entre as partes. A reforma do aresto hostilizado, com a desconstituição de suas premissas, impõem reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1483244/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/02/2017, DJe 23/02/2017.)
+Desse modo, verifica-se que o Colegiado estadual decidiu em consonância com a jurisprudência desta Corte, o que atrai a incidência da Súmula n. 83 do STJ, aplicável aos recursos interpostos pelas alíneas "a" e "c", do permissivo constitucional.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem, observados os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a Gratuidade da Justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se. Intimem-se.
