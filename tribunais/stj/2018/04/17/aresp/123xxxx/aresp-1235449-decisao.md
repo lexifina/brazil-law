@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 83/STJ (e-STJ fls. 400/411).
+O acórdão recorrido está assim ementado (e-STJ fl. 269):
+Agravo de instrumento. Previdência privada.Pedido de restituição de valores pagos em razão de antecipação de tutela em ação julgada improcedente. Desnecessidade de ajuizamento de nova demanda. Possibilidade de desconto no percentual de 10%. Precedente do STJ. Agravo de instrumento parcialmente provido.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 310/313 e 314/317).
+No especial (e-STJ fls. 324/342), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou ofensa aos arts. 273, 475-I, 475-J, 475-L, II, e 649, IV, do CPC/1973, 113 do CC/2002 e 1º, III, da CF/1988, bem como divergência jurisprudencial, sustentando a impossibilidade de devolução dos valores pagos em sede de tutela antecipada, tendo em vista a natureza alimentar do benefício e diante do fato de que foi comprovada a boa-fé do agravante.
+No agravo (e-STJ fls. 419/430), afirma a presença dos requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 445/449).
+É o relatório.
+Decido.
+A jurisprudência mais recente desta Corte tem entendido que "os valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, haja vista a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa" (AgRg no REsp n. 1.568.908/RS, Relator Ministro Ricardo Villas Bôas Cueva, DJe de 1/3/2016).
+Nesse sentido, vejam-se os seguintes julgados:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. RECEBIMENTO PROVISÓRIO. TUTELA ANTECIPADA CONCEDIDA. POSTERIOR REVOGAÇÃO. DEVOLUÇÃO DOS VALORES. NECESSIDADE. MEDIDA DE NATUREZA PRECÁRIA. REVERSIBILIDADE. AUSÊNCIA DE BOA-FÉ OBJETIVA. DESCONTO EM FOLHA DE PAGAMENTO. POSSIBILIDADE. VERBA DE NATUREZA ALIMENTAR. PARÂMETROS.
+1. Cinge-se a controvérsia a saber se a revogação da tutela antecipada obriga o assistido de plano de previdência privada a devolver os valores recebidos com base na decisão provisória, ou seja, busca-se definir se tais verbas são repetíveis ou irrepetíveis.
+2. O Supremo Tribunal Federal já assentou inexistir repercussão geral quanto ao tema da possibilidade de devolução dos valores de benefício previdenciário recebidos em virtude de tutela antecipada posteriormente revogada, porquanto o exame da questão constitucional não prescinde da prévia análise de normas infraconstitucionais, o que se traduziria em eventual ofensa reflexa à Constituição Federal, incapaz de ser conhecida na via do recurso extraordinário (ARE nº 722.421 RG/MG).
+3. A tutela antecipada é um provimento judicial provisório e, em regra, reversível (art. 273, § 2º, do CPC), devendo a irrepetibilidade da verba previdenciária recebida indevidamente ser examinada não somente sob o aspecto de sua natureza alimentar, mas também sob o prisma da boa-fé objetiva, que consiste na presunção de definitividade do pagamento. Precedente da Primeira Seção, firmado em recurso especial representativo de controvérsia (REsp nº 1.401.560/MT).
+4. Os valores recebidos precariamente são legítimos enquanto vigorar o título judicial antecipatório, o que caracteriza a boa-fé subjetiva do autor. Entretanto, como isso não enseja a presunção de que tais verbas, ainda que alimentares, integram o seu patrimônio em definitivo, não há a configuração da boa-fé objetiva, a acarretar, portanto, o dever de devolução em caso de revogação da medida provisória, até mesmo como forma de se evitar o enriquecimento sem causa do então beneficiado (arts. 884 e 885 do CC e 475-O, I, do CPC).
+5. A boa-fé objetiva estará presente, tornando irrepetível a verba previdenciária recebida indevidamente, se restar evidente a legítima expectativa de titularidade do direito pelo beneficiário, isto é, de que o pagamento assumiu ares de definitividade, a exemplo de erros administrativos cometidos pela própria entidade pagadora ou de provimentos judiciais dotados de força definitiva (decisão judicial transitada em julgado e posteriormente rescindida). Precedentes.
+6. As verbas de natureza alimentar do Direito de Família são irrepetíveis, porquanto regidas pelo binômio necessidade/possibilidade, ao contrário das verbas oriundas da suplementação de aposentadoria, que possuem índole contratual, estando sujeitas, portanto, à repetição.
+7. Os valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, ante a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa.
+8. Como as verbas previdenciárias complementares são de natureza alimentar e periódica, e para não haver o comprometimento da subsistência do devedor, tornando efetivo o princípio da dignidade da pessoa humana (art. 1º, III, da CF), deve ser observado, na execução, o limite mensal de desconto em folha de pagamento de 10% (dez por cento) da renda mensal do benefício previdenciário suplementar até a satisfação integral do crédito.
+9. Recurso especial parcialmente provido.
+(REsp 1.555.853/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/11/2015, DJe 16/11/2015.)
+AGRAVO INTERNO. RECURSO ESPECIAL PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO CESTA-ALIMENTAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. DEVOLUÇÃO DE VALORES RECEBIDOS A TÍTULO DE ANTECIPAÇÃO DE TUTELA REVOGADA. PROVIMENTO JURISDICIONAL PROVISÓRIO.
+1. Não se admite inovação recursal em agravo regimental, em razão do instituto da preclusão consumativa.
+2. Os valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada devem ser devolvido, haja vista o caráter provisório da medida antecipatória.
+Precedentes do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1584045/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/03/2017, DJe 24/03/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO CESTA-ALIMENTAÇÃO. PROVIMENTO JURISDICIONAL PROVISÓRIO. REVOGAÇÃO. DEVOLUÇÃO DOS VALORES RECEBIDOS A TÍTULO DE ANTECIPAÇÃO DE TUTELA. POSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. "A jurisprudência mais recente deste Tribunal Superior é no sentido de que os valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada devem ser devolvidos, haja vista a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa" (AgRg no REsp n.1.568.908/RS, Relator o Ministro Ricardo Villas Bôas Cueva, DJe 01/03/2016).
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo interno improvido.
+(AgInt no REsp 1601439/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/09/2016, DJe 14/10/2016.)
+Incide a Súmula n. 83/STJ no caso.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
