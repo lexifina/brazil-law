@@ -1,0 +1,23 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXTINÇÃO DA EXECUÇÃO INDIVIDUAL E DOS EMBARGOS POR AUSÊNCIA DE LIQUIDAÇÃO DA SENTENÇA GENÉRICA. AUSÊNCIA DE OMISSÃO DO JULGADO REGIONAL. REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.
+1. Afasta-se a alegada ofensa ao art. 535 do CPC, porquanto a instância ordinária dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal de origem concluiu não haver como deixar de considerar necessário o devido processo de liquidação do julgado, visto que, ainda que os cálculos apresentados tenham sido feitos com base em informações do órgão pagador dos exequentes, não houve a efetiva apuração das informações necessárias e discutidas no processo, não sendo razoável permitir que seja feito tal procedimento em sede de embargos à execução .
+3. A alteração de tal premissa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto contra decisão que negou provimento ao agravo em recurso especial, em razão da ausência de omissão do julgado regional, bem como pela incidência da Súmula 7/STJ (fls. 1331/1333).
+Inconformados, os agravantes insistem na tese de negativa de prestação jurisdicional. Afirmam que se o Tribunal a quo afirma que não teriam sido atendidos os arts. 97 e 98 do CDC, e seus §§, sob o argumento de inexistir valor líquido, forçoso seria apreciar a indigitada documentação dos autos. Acrescentam que se, o Tribunal a quo entendeu que a extinção dos embargos e da execução deveria ser por ausência dos pressupostos de constituição e desenvolvimento válido do processo, art. 267, IV, do CPC, a extinção deveria ocorrer sem julgamento de mérito. De forma a possibilitar aos embargantes promover sua liquidação na execução da sentença coletiva genérica.
+Defendem que a hipótese é mera análise se existe nos autos a liquidação, não havendo falar-se em revolvimento de fatos e provas. Uma vez verificado que o documento existe nos autos, conclui-se pela violação da lei, que autoriza o mero cálculo aritmético para a hipótese (art. 475-B, § 1º). Acrescentam que houve recurso especial por violação aos arts. 267, IV e 268 do CPC então vigente, atual art. 486, § 1º do NCPC. Tal matéria não é de fato, é de direito.
+Insistem na configuração do dissídio jurisprudencial.
+Requerem o processamento do apelo nobre.
+É o relatório.
+VOTO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, afasta-se a alegada ofensa ao art. 535 do CPC, porquanto a instância ordinária dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De outro lado, o Tribunal de origem concluiu não haver como deixar de considerar necessário o devido processo de liquidação do julgado, visto que, ainda que os cálculos apresentados tenham sido feitos com base em informações do órgão pagador dos exequentes, não houve a efetiva apuração das informações necessárias e discutidas no processo, não sendo razoável permitir que seja feito tal procedimento em sede de embargos à execução (fl. 1.191).
+A alteração de tal premissa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+No mais, é inviável o conhecimento do dissídio jurisprudencial quando a questão foi decidida com base nas peculiaridades fáticas do caso, a justificar a incidência da Súmula 7/STJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
