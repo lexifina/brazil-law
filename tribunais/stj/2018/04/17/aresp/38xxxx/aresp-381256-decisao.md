@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por BURGER S/A INDÚSTRIA E COMÉRCIO, pretendendo a admissão de recurso especial que desafia acórdão assim ementado (e-STJ fl. 75):
+AGRAVO DE INSTRUMENTO. Execução fiscal. Pedido de suspensão de leilão e de repetição da avaliação. Não configuradas as situações do art. 683 do CPC. Mera atualização monetária. Decisão mantida. Recurso improvido.
+No apelo nobre (e-STJ fls. 83/138), a recorrente apontou violação dos arts. 128, 293, 459, 460, 683, II e III, e 685, parágrafo único, 686, VI, do CPC/1973. Defendeu, em resumo, que: (a) o acórdão recorrido é nulo, porquanto proferiu julgamento citra petita; (b) a avaliação dos bens penhorados exige conhecimento técnico específico e, por isso, não pode ser realizada por oficial de justiça, comportando nova avaliação; (c) "em se tratando de bens móveis, (..), ser notório que suas valorizações ocorrem com as flutuações do mercado, que sempre é substancialmente superior aos índices inflacionários"; e (d) o edital do leilão previu "uma só e única praça", deixando, assim, com o disposto no art. 686, VI, do CPC/1973, que determina que o edital deve conter comunicação de nova praça se, na primeira, não for alcançado o preço da avaliação.
+Contrarrazões às e-STJ fls. 147/150.
+O Tribunal de origem obstou o recurso especial por entender que não "restou evidenciado qualquer maltrato a normas legais ou divergência jurisprudencial" (e-STJ fl. 152), não concordando a agravante com essa fundamentação (e-STJ fls. 156/209).
+Sem contraminuta (e-STJ fl. 256).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Isso considerado, registro que o presente recurso especial não merece ser mesmo admitido.
+Com efeito, os indicados arts. 128, 293, 459, 460, 685, parágrafo único, e 686, VI, do CPC/1973 não foram efetivamente apreciados pelo acórdão recorrido, carecendo o recurso especial, em relação a tais dispositivos, do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+Frise-se que eventual nulidade no julgamento realizado pelo acórdão recorrido deve ser oportunamente suscitada em sede de embargos de declaração, para que o Tribunal de origem sobre ela se manifeste, viabilizando, assim, o acesso à instância especial, o que não ocorreu na espécie.
+A esse respeito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS Á EXECUÇÃO. NULIDADE DA EXECUÇÃO. FALTA DE INTERESSE. EXCESSO DE EXECUÇÃO. OFENSA AOS ARTS. 131, 165, 458, 535, DO CPC. PREQUESTIONAMENTO. SÚMULAS 282, 356/STF. IMPROVIMENTO.
+ ..
+3.- Os dispositivos apontados como violados não debatidos no Acórdão recorrido devem ser arguidos por meio de Embargos de Declaração, ainda que a contrariedade tenha surgido no julgamento do próprio Acórdão. Ausentes os Embargos, incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+ ..  (AgRg no AREsp 120.417/GO, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 22/10/2013, DJe 14/11/2013)
+RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE. SECRETÁRIO ADJUNTO DE ESTADO DA COMUNICAÇÃO SOCIAL - MG. PUBLICIDADE. PROMOÇÃO ELEITORAL DO GOVERNADOR DE ESTADO. DANO AO ERÁRIO E VIOLAÇÃO DE PRINCÍPIOS DA ADMINISTRAÇÃO. ART. 37, § 1º, DA CF. PROCEDÊNCIA NA SENTENÇA. IMPROCEDÊNCIA NO ACÓRDÃO DA APELAÇÃO. AÇÃO JULGADA PARCIALMENTE PROCEDENTE NOS EMBARGOS INFRINGENTES. VIOLAÇÃO DO ART. 535 DO CPC ACOLHIDA EM PARTE.
+ ..
+3. Cuidando-se de uma eventual nulidade processual surgida no julgamento dos embargos infringentes, caberiam, sim, os embargos de declaração, independentemente de haver, ou não, a nulidade, para que o Tribunal apreciasse o tema, viabilizando o prequestionamento e a sua discussão, também, nesta Corte Superior. Com isso, nessa parte, os declaratórios opostos na origem não poderiam ter sido rejeitados sem rebater tal nulidade.
+ ..  (REsp 1.121.713/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 11/06/2013, DJe 18/06/2013)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ADOÇÃO, TAMBÉM, DE PARECER DO MINISTÉRIO PÚBLICO COMO RAZÃO DE DECIDIR DO ACÓRDÃO RECORRIDO. POSSIBILIDADE. EMBARGOS INFRINGENTES. EFEITO DEVOLUTIVO LIMITADO. DISCUSSÃO SOBRE O PONTO DE DISCREPÂNCIA. VIOLAÇÃO AO ART. 530 DO CPC. NÃO OCORRÊNCIA. DESAPROPRIAÇÃO. CONTROVÉRSIA SOBRE O DOMÍNIO. CABIMENTO. ÁREA SITUADA EM FAIXA DE FRONTEIRA. BEM DOMINICAL DA UNIÃO TRANSFERIDO PELO ESTADO DO PARANÁ A TERCEIRO. NULIDADE DO ATO JURÍDICO. INDENIZAÇÃO DESCABIDA.
+ ..
+2. A matéria pertinente à ocorrência de julgamento extra petita não foi apreciada pela instância judicante de origem, tampouco suscitada nos embargos declaratórios opostos perante a Corte local. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ ..  (AgRg no REsp 1.220.823/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/10/2013, DJe 21/10/2013).
+Já o pedido de nova avaliação, respaldado no art. 683 do CPC/1973, foi assim indeferido pela Corte estadual:
+O pedido de nova avaliação dos bens penhorados, por pessoa devidamente qualificada, não se justifica, por expressa disposição legal, pois nos termos do art. 680 do CPC, primeira parte, a avaliação deve ser feita pelo Oficial de Justiça. Poderá, todavia, ser determinada a reavaliação quando houver fundadas razões para adoção de perícia. Porém, não foram trazidos aos autos fatos e provas suficientes para dar ensejo à realização de avaliação por perito técnico, o que reclamaria a indicação de vício insanável ou manifesta impropriedade do valor encontrado.
+O artigo supracitado, só faz ressalva para os casos em que o valor foi estimado pelo executado, ou quando necessários conhecimentos especializados.
+ ..
+O art. 683 também prevê a possibilidade de nova avaliação e seus incisos descrevem as hipóteses que a justificariam. Porém, a agravante não demonstrou e tampouco trouxe aos autos qualquer elemento de prova capaz de demonstrar que ocorreram as circunstâncias previstas no texto legal, a justificar seu pedido.
+Nesse contexto, a revisão do acórdão recorrido pressupõe o reexame do acervo fático-probatório dos autos, o que é inviável no âmbito do recurso especial, consoante entendimento há muito sedimentado na Súmula 7 do STJ.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
