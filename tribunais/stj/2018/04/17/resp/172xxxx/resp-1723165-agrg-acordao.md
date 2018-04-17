@@ -1,0 +1,58 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. DOSIMETRIA. ALEGAÇÃO DE INDEVIDA EXASPERAÇÃO DA PENA-BASE. PLEITO DE AFASTAMENTO DA CIRCUNSTÂNCIA JUDICIAL CULPABILIDADE. VETORIAL DEVIDAMENTE FUNDAMENTADA. AUMENTO PROPORCIONAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+In casu, os fundamentos apresentados no acórdão objurgado, em relação à manutenção da vetorial culpabilidade, mostram-se suficientes e adequados para manter o quantum de exasperação da pena-base na primeira fase da dosimetria. Assim, atento a essa orientação, tenho que se revela juridicamente aceitável a exasperação mantida pelo eg. Tribunal a quo, em 08 (oito) meses.
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por [NOME] contra a decisão de fls. 592-596, de minha lavra, na qual desprovi o recurso especial.
+Consta dos autos que o MM Juízo de primeiro grau condenou o ora recorrente como incurso nas sanções do art. 121, § 2º, inciso IV, e do art. 121, § 2º, inciso IV, c.c. o art. 14, inciso II, nos termos do art. 69, caput, todos do Código Penal, à pena total de 30 (trinta) anos e 5 (cinco) meses de reclusão, em regime inicial fechado (fls. 458-465).
+Interposto recurso de apelação criminal pela Defesa, o eg. Tribunal de origem, em decisão unânime, negou-lhe provimento, para manter a sentença recorrida (fls. 538-546). Eis a ementa do acórdão:
+"PENAL. PROCESSO PENAL. HOMICÍDIO. APELAÇÃO. ALEGAÇÃO DE DECISÃO DOS JURADOS CONTRÁRIA A PROVA DOS AUTOS, EM RAZÃO DE AUSÊNCIA DE COMPROVAÇÃO DA AUTORIA DELITIVA. ERRO NA APLICAÇÃO DA PENA, EM VIRTUDE DE AUSÊNCIA DE FUNDAMENTAÇÃO. RECURSO CONHECIDO E IMPROVIDO. UNÂNIME."
+Nas razões do recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a parte recorrente sustentou violação ao art. 59, do Código Penal. Para tanto, argumentou que:
+a) "o art. 59 do Código Penal faz referência à culpabilidade em sentido lato, já que a culpabilidade em sentido estrito, para que se esteja já na fase de fixação da pena cabível, presume-se superada" (fl. 557).
+b) "premeditação, significando exatamente uma meditação preordenada, antecipada, um pensamento planejado, é algo que não se amolda ao caso aqui analisado" (fl. 558).
+c) " ..  não há outra solução senão afastar o entendimento explcitado no acórdão guerreado. Trata-se, portanto, de uma necessária correção a fim de afastar a má interpretação dada ao art. 59 do Código Penal" (fl. 558).
+Apresentadas as contrarrazões (fls. 566-570), o recurso foi admitido parcialmente na origem (fls. 572-577) e os autos encaminhados a este Superior Tribunal de Justiça.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 588-589). Eis a ementa do parecer:
+"PENAL. RECURSO ESPECIAL. CRIME DE HOMICÍDIO. DOSIMETRIA. PRIMEIRA FASE. VALORAÇÃO NEGATIVA DA CULPABILIDADE. FUNDAMENTAÇÃO IDÔNEA. PELO IMPROVIMENTO DO RECURSO."
+Em decisão de fls. 592-596, desprovi o apelo nobre. Eis a ementa do decisum:
+"PENAL. RECURSO ESPECIAL. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. DOSIMETRIA. PLEITO DE REDUÇÃO DA PENA-BASE. CULPABILIDADE. PREMEDITAÇÃO. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. RECURSO ESPECIAL DESPROVIDO."
+Nas razões do presente agravo regimental, a Defesa alega, em síntese, que:
+a) " ..  para exasperar a pena-base à conta da culpabilidade, o julgador deve identificar um elemento concreto que seja apto a comprovar que a conduta praticada foi realizada com INTENSIDADE DE DOLO acima do normal ao tipo" (fl. 607);
+b) " ..  percebe-se que, embora o r. Juiz primevo tenha valorado negativamente o elemento culpabilidade para exasperar a reprimenda basal, não indicou nenhum elemento dos autos apto a evidenciar tal anormalidade na culpa do agravante, SEQUER EXPLICOU COMO A AÇÃO TRANSPASSOU AS ELEMENTARES NORMAIS INERENTES AO PRÓPRIO DELITO, o que seria necessário para embasar o juízo negativo" (fl. 607);
+c) "na espécie, a culpabilidade foi considerada intensa sem, contudo, identificar algum elemento que justificasse a conduta do agravante anormal ao tipo. O fato de o crime ter sido premeditado, como assim entenderam as instâncias ordinárias, não é apto a elevar a pena-base, pois diferente do asseverado, não serve para mensurar a culpabilidade" (fl. 609).
+Pugna, ao final, pela apresentação do recurso ao colegiado.
+Por manter o decisum, trago o feito para apreciação da eg. Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. DOSIMETRIA. ALEGAÇÃO DE INDEVIDA EXASPERAÇÃO DA PENA-BASE. PLEITO DE AFASTAMENTO DA CIRCUNSTÂNCIA JUDICIAL CULPABILIDADE. VETORIAL DEVIDAMENTE FUNDAMENTADA. AUMENTO PROPORCIONAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+In casu, os fundamentos apresentados no acórdão objurgado, em relação à manutenção da vetorial culpabilidade, mostram-se suficientes e adequados para manter o quantum de exasperação da pena-base na primeira fase da dosimetria. Assim, atento a essa orientação, tenho que se revela juridicamente aceitável a exasperação mantida pelo eg. Tribunal a quo, em 08 (oito) meses.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida.
+Conforme mencionado no decisum recorrido, o Supremo Tribunal Federal tem entendido que "a dosimetria da pena é questão de mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada" (HC n. 137.769/SP, Rel. Min. Roberto Barroso, julgado em 24/10/2016).
+O Pretório Excelso também entende não ser possível para as instâncias superiores reexaminar o acervo probatório para a revisão da dosimetria, exceto em circunstâncias excepcionais, uma vez que, ordinariamente, a atividade dos Tribunais Superiores, em geral, deve circunscrever-se "ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades" (HC n. 128.446/PE, Segunda Turma, Rel. Min. Teori Zavascki, julgado em 15/9/2015).
+No mesmo sentido, tem sido assente nesta Corte o entendimento de que a dosimetria da pena, quando imposta com base em elementos concretos e observados os limites da discricionariedade vinculada atribuída ao magistrado sentenciante, impede a revisão da reprimenda por esta Corte Superior, exceto se for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que caberá a reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+Pois bem.
+Feitas essas considerações e compulsando-se os autos, verifica-se que, de fato, não merece prosperar o reclamo, devendo ser mantido o decisum vergastado.
+Como ressaltado, a circunstância judicial da culpabilidade, valorada como negativa pelas instâncias ordinárias, define-se a partir da concepção de que o réu tem liberdade para agir, e poderia ter escolhido o respeito ao justo e assim não o fez. A medida da culpabilidade está relacionada ao grau de censurabilidade da conduta a partir dos elementos concretos disponíveis no caso em apreço.
+Com efeito, da análise dos autos, extrai-se que o MM. Juízo a quo ao valorar como negativa a circunstância judicial culpabilidade, o fez em decisão de termos seguintes, verbis: "no caso vertente, certamente a culpabilidade deve ser valorada em desfavor do condenado, pois o crime foi premeditado, tendo o agente, inclusive, ido ao encontro da vítima portando arma de fogo e, ao encontrá-la, efetuou diversos disparos. Destarte, deflui-se do episódio a idéia de que o condenado teve intensa vontade de praticar o delito e, por ter sido em grau elevado a culpabilidade, como acentado acima, sua avaliação reclama elevação da pena em patamar considerável" (fl. 460).
+O eg. Colegiado a quo, por seu turno, ao se manifestar sobre referida circunstância, pontou, verbis: "verifico, a princípio, que a fundamentação utilizada pelo magistrado para valorar de modo negativo a circunstância judicial da culpabilidade se mostra de acordo com o contexto dos autos e idônea para maximizar a quantidade de pena imposta ao acusado" (fl. 544). E conclui o eg. Colegiado: "a menção ao número de disparos, bem como à premeditação são fatos concretos - baseados em elementos constantes nos autos - que justificam a necessidade de impor uma reprimenda mais rigorosa ao acusado, não havendo, portanto, razão para se falar wuq e a valoração da culpabilidade foi realizada de maneira abstrata" (fl. 545).
+Nota-se, da análise dos excertos acima transcritos, que, ao contrário do que mencionado pelo agravante no presente reclamo, in casu, houve fundamentação idônea para se exasperar a pena-base, não sendo o caso, repise-se, de se acolher a alegação de violação ao art. 59 do Código Penal.
+O ilustre representante do Parquet Federal, em seu d. parecer, sobre a quaestio, pontuou: "a jurisprudência dessa Eg. Corte é no sentido de que a premeditação constitui elemento idôneo a justificar o desvalor da culpabilidade, pois denota maior gravidade da infração penal, de modo que não se sustenta a tese defensiva" (fl. 589).
+Nesse sentido, e em reforço:
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA. VETORIAL DA CULPABILIDADE. PREMEDITAÇÃO. FUNDAMENTAÇÃO IDÔNEA PARA O DESFAVORECIMENTO. BIS IN IDEM NA VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. INOCORRÊNCIA. DESLOCAMENTO DA QUALIFICADORA DO USO DE MEIO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA. POSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - "Legítima a exasperação da pena-base, pela circunstância judicial da culpabilidade, fundamentada na premeditação e preparo da conduta delituosa" (HC n. 295.911/GO, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 17/6/2016).
+ ..
+Agravo regimental desprovido." (AgRg no HC n. 373.415/SC, Quinta Turma, de minha lavra, DJe de 27/3/2017, grifei).
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. TRIBUNAL DO JÚRI. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. PREMEDITAÇÃO. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. VERIFICAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.
+ ..
+2. A culpabilidade do agente foi considerada acentuada na medida em que restou comprovado que o acusado premeditou o crime, o que envolveu, inclusive, a aquisição de arma, ou seja, circunstâncias que, de fato, denotam especial reprovabilidade, aptas a justificar o desvalor, na medida em que demonstra que houve um planejamento anterior. Assim, a exasperação da pena-base decorreu da análise do caso concreto, respaldada nas provas dos autos, e não considera em seus fundamentos as elementares do tipo penal imputado, sendo possível concluir pela compatibilidade entre os motivos do incremento na pena-base do réu e o princípio da individualização da pena.
+ ..
+4. Agravo regimental não provido." (AgRg no REsp n. 1.529.944/DF, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/6/2016, grifei).
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
