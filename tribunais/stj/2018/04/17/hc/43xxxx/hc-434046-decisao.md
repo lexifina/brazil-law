@@ -1,0 +1,5 @@
+DECISÃO
+EUGENIO [NOME], [NOME] e ROBINSON DANIEL SARRIA ZEVALLOS, pacientes neste habeas corpus, alegam sofrer constrangimento ilegal diante de acórdão prolatado pelo Tribunal Regional Federal da 5ª Região no HC n. 0809246-15.2017.4.05.0000.
+Em consulta processual realizada na página eletrônica desta Corte Superior, verifico a anterior distribuição do RHC n. 85.921/CE, em que figura como paciente EUGENIO [NOME], sendo que no recurso em questão a defesa também postula a revogação da prisão preventiva do réu, ainda que sob fundamentos diversos (ausência de motivação idônea).
+Verifico, com base nas informações prestadas pelo Juízo de primeiro grau naquele recurso, que foi concedida liberdade provisória aos réus em 15/2/2018 (fls. 282-288), a evidenciar a prejudicialidade deste recurso, em que a defesa postula a expedição de alvará de soltura em favor dos acusados, sob o fundamento de excesso de prazo para conclusão do feito.
+À vista do exposto, com fundamento no art. 34, XX, c/c do art. 246, ambos do RISTJ, julgo prejudicado o recurso, pela perda superveniente de seu objeto.
