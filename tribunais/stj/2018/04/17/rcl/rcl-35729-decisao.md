@@ -1,0 +1,16 @@
+EMENTA
+RECLAMAÇÃO. AJUIZAMENTO CONTRA SENTENÇA CONDENATÓRIA PROFERIDA PELO JUÍZO DE PRIMEIRO GRAU. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. PEDIDO NÃO CONHECIDO.
+DECISÃO
+Trata-se de reclamação ajuizada por [NOME], com pedido liminar, fundamentada no art. 105, inciso I, alínea "f", da Constituição Federal, e nos arts. 187 e 192 do Regimento Interno deste Superior Tribunal de Justiça, contra sentença proferida pelo Juízo de Direito da 20ª Vara Criminal de São Paulo.
+Alega o reclamante que, além de ser primário e ter bons antecedentes, restou reconhecido na sentença condenatória que as circunstâncias judiciais descritas no art. 59 do Código Penal lhe são favoráveis, não tendo a reprimenda imposta ultrapassado o limite estabelecido no art. 33, § 2º, alínea "b", do Código Penal. Assim, a adoção do regime mais gravoso para o início do cumprimento da pena com base na gravidade abstrata do delito ofende o disposto no enunciado nº 440 deste Superior Tribunal de Justiça e nos enunciados 718 e 719 do Supremo Tribunal Federal.
+Requer, em sede liminar, a concessão de regime intermediário para início do cumprimento da sanção e, no mérito, que "se julgue procedente a presente Reclamação, cassando a decisão no que se refere a imposição de regime de cumprimento de pena em regime mais gravoso do que determina a Lei o que viola não só o princípio da individualização da pena, mas também a Súmula 440 deste E. Superior Tribunal de Justiça e as Súmulas 718 e 719 do Supremo Tribunal Federal, pois agindo assim estará Vossa Excelência promovendo a mais justa e perfeita justiça" (fl. 6).
+É o relatório.
+Verifica-se, desde logo, o não cabimento da presente reclamação.
+Com efeito, a teor do contido no art. 187 do Regimento Interno deste Superior Tribunal de Justiça, bem como na esteira do fixado no art. 105, I, alínea "f", da Constituição Federal, cabe reclamação "para preservar a competência do Tribunal ou garantir a autoridade das suas decisões".
+No caso, não se verifica nenhuma dessas hipóteses, porquanto, ao que se tem, sequer há decisão proferida no caso concreto por esta Corte. Assim, não há falar em usurpação de competência tampouco descumprimento de decisão deste Sodalício.
+De igual modo, a hipótese não versa sobre decisão proferida no âmbito de Juizado Especial Estadual a ensejar o cabimento do instituto da reclamação com fundamento na Resolução nº 3/2016 desta Corte, que delegou às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para dirimir divergência entre acórdão proferido por turma recursal estadual e jurisprudência deste Superior Tribunal de Justiça, desde que o tema esteja consolidado em súmula ou em julgamento de recurso especial repetitivo.
+Outrossim, não se trata de reclamação ajuizada com fundamento no art. 988 do Novo Código de Processo Civil para garantir a observância de enunciado de súmula vinculante e de julgamento proferido em sede de recurso repetitivo, após esgotada a instância ordinária.
+Na verdade, a presente reclamação foi manejada como sucedâneo recursal, o que não é admissível.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da reclamação.
+Publique-se.
+Intimem-se.
