@@ -1,0 +1,40 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 1ª Região no julgamento de apelação, assim ementado (fls. 130/137ee):
+PREVIDENCIÁRIO E CONSTITUCIONAL. PENSÃO POR MORTE. TRABALHADOR RURAL. INÍCIO DE PROVA MATERIAL. PROVA TESTEMUNHAL. TERMO A QUO. CORREÇÃO MONETÁRIA. JUROS DE MORA. VERBA ADVOCATÍCIA.
+1 Atendidos os requisitos indispensáveis à concessão do benefício de pensão por morte, - início de prova material da dependência econômica e da atividade rural do instituidor, devidamente corroborado por prova testemunhal sólida, deve ser reformada a sentença que veiculou o indeferimento do pedido exordiano.
+2. Caso concreto: Documentos: Certidão de casamento onde consta a profissão do falecido como lavrador; Certidão de óbito onde consta a profissão da instituidora da pensão como lavradora; certidão de casamentos do filhos do autor e a falecida (profissão dos filhos lavradores) Prova testemunhal: informam a convivência e o labor do autor e a instituidora da pensão por morte como trabalhadores rurais em regime de economia familiar.
+3. É presumida a dependência econômica do cônjuge, nos termos do art. 16 e § 4º, da Lei 8.213/91.
+4. O parágrafo único do artigo 103 da lei n.º8.213/91, com redação dada pela Lei n.º 9.528/97 traz é a prescrição quinquenal, como faz o Decreto n.º 20.910/32, que somente ocorre com relação a prestações sucessivas, como é da natureza dos benefícios previdenciários, ao se referir a "prestações vencidas ou quaisquer restituições ou diferenças devidas". A aplicação do Decreto 20.910/32 seria para as hipóteses de prescrição do fundo do direito, não fazendo referência à extinção do "direito ou ação" do segurado, limitando-se à revisão do ato concessivo.
+5. Termo inicial conforme estipulação constante do item "a" do voto proferido pela relatora.
+6. Correção monetária de acordo com os índices constantes do Manual de Cálculos da Justiça Federal. Juros de mora de 1% a.m até Lei 11.960/09 a partir de quando serão reduzidos para 0,5% ao mês caso a taxa SELIC ao ano seja superior a 8,5% ou 70% da taxa SELIC ao ano, mensalizada, nos demais casos, segundo Lei 12.703/2012 e Manual de Cálculos da Justiça Federal. Contam-se da citação, para as parcelas eventualmente vencidas anteriormente a ela, e do respectivo vencimento, para as que lhe são posteriores.
+7. Em se tratando de causas ajuizadas perante a Justiça Federal, o INSS está isento de custas (inclusive despesas com oficial de justiça) por força do art. 4º, inciso I, da Lei nº 9.289/96. A isenção se repete nos Estados onde houver lei estadual assim prescrevendo, a exemplo do Acre, Tocantins, Minas Gerais, Goiás, Rondônia, Mato Grosso e Piauí.
+8. Prevalência da regra cunhada na Súmula 111 do STJ para fins de fixação dos honorários advocatícios.
+9. Não tendo ocorrido deferimento de tutela antecipada, justifica-se a determinação de implantação imediata do benefício perseguido (art. 461, do CPC), já que eventuais recursos interpostos contra o presente julgado são desprovidos de efeito suspensivo. Precedentes do STJ. Em qualquer das hipóteses supra, fica expressamente afastada a fixação prévia de" multa, sanção esta que somente é aplicável na hipótese de efetivo descumprimento do comando relativo à implantação do benefício
+10. Apelação provida.
+Opostos embargos de declaração, foram rejeitados (fls. 156/159e).
+Com amparo no art. 105, III, a, da Constituição da República aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Arts. 74 da Lei n. 8.213/91 e 10, I, da CLPS - "Na legislação vigente à época do óbito, portanto, o MARIDO NÃO INVÁLIDO não era considerado dependente da segurada, não fazendo jus ao benefício de pensão por morte."; e
+Art. 1.022 do Código de Processo Civil.
+Com contrarrazões (fls. 177/182e), o recurso foi admitido (fls. 184/186e)
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Ao analisar a questão referente à concessão da pensão por morte ao marido não inválido cujo óbito da segurada ocorreu antes da Constituição da República de 1988, o tribunal de origem assentou (fl. 130/137e):
+Chefe ou arrimo de família
+Antes da Lei 8.213/91, estabelecia a Lei Complementar nº 11/71 (art. 4º e parágrafo único) e a Lei Complementar nº 16/75 (art. 5º) que o trabalhador rural somente teria direito à aposentadoria por idade quando completasse 65 anos, desde que comprovasse o exercício de atividade rural pelo menos nos três últimos anos antes do requerimento administrativo, e a sua condição de chefe ou arrimo de família.
+Com a nova ordem constitucional em 1988, tais normas não foram recepcionadas pelo sistema do direito positivo. A Constituição Federal dispôs sobre a idade mínima para as trabalhadoras rurais, que passou a ser de 55 anos, se mulher, ou 60 anos, se homem, nos termos do art. 202, I, atual art. 201, § 7º, II, com as alterações introduzidas pela EC 20/98, não mais restringindo o benefício à figura do arrimo de família.
+Em face do art. 5º, I, da CF/88, a exigência de conceder-se o benefício somente ao chefe ou arrimo da unidade familiar deixou de existir, uma vez que ficou proibido qualquer tipo de discriminação entre homens e mulheres. Ademais, mesmo antes da promulgação da atual constituição, a jurisprudência do antigo TFR já admitia, em casos tais, a concessão do aludido benefício. (cf. T.F.R., 2a T, A.0 Nº 92.290/SP, in DJU 21.03.84, p. 3498).
+(..)
+Mérito
+Quanto ao caso concreto, o comando exarado deve ser reformado.
+(..)
+Com a promulgação da Constituição Federal de 1988, a igualdade entre os sexos alcançou status de direito fundamental, nos termos do art. 5º, I, cuja aplicabilidade é imediata.
+Desse modo, a norma dos incisos I e III, do art. 10, do Decreto 89.312/84, na parte em que condiciona apenas ao pai e ao marido, se inválidos, a possibilidade de obter os benefícios próprios do dependente, conflita com a nova ordem constitucional, não tendo sido, portanto, recepcionada. A exigência de requisito de invalidez para concessão do benefício de pensão por morte ao pai e ao cônjuge varão afronta o princípio da isonomia.
+Consoante depreende-se do julgado, o acórdão impugnado possui como fundamento matéria eminentemente constitucional, porquanto o deslinde da controvérsia deu-se à luz do art. 5º, da Constituição da República.
+O recurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Todavia, no caso, o recurso especial foi interposto na vigência do Código de Processo Civil de 2015, que determina em seu art. 1.032:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Parágrafo único. Cumprida a diligência de que trata o caput, o relator remeterá o recurso ao Supremo Tribunal Federal, que, em juízo de admissibilidade, poderá devolvê-lo ao Superior Tribunal de Justiça.
+Trata-se da fungibilidade recursal entre o recurso especial e o recurso extraordinário, instituída pelo novo estatuto, com vista à celeridade processual.
+Isto posto, com fundamento no art. 1.032 do Código de Processo Civil de 2015, intime-se a Recorrente, para que, no prazo de 15 (quinze) dias, demonstre a existência de repercussão geral suficiente para ensejar a abertura da via extraordinária, manifestando-se sobre a questão constitucional apontada.
+Publique-se e intimem-se.
