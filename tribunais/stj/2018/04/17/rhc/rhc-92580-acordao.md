@@ -1,0 +1,56 @@
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE E DIVERSIDADE DOS ENTORPECENTES APREENDIDOS. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso dos autos, quando da prisão em flagrante do recorrente foram apreendidos 17,7 gramas de cocaína, 27,6 gramas de maconha e 5,6 gramas de crack, o que justifica seu encarceramento cautelar, para garantia da ordem pública, consoante pacífico entendimento desta Corte, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+3. Ademais, o decreto de prisão preventiva está fundamentado no fato de o recorrente possuir anterior registro criminal pela prática do delito de roubo, já tendo sido beneficiado com liberdade provisória, o que também justifica sua segregação cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+4. Recurso ordinário em habeas corpus desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática do delito tipificado no art. 33 da Lei n. 11.343/2006.
+Neste recurso, sustenta, em síntese, que não estão presentes os requisitos autorizadores de sua custódia provisória.
+Pleiteia a revogação de sua prisão preventiva ou a substituição dela por medidas cautelares diversas.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE E DIVERSIDADE DOS ENTORPECENTES APREENDIDOS. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso dos autos, quando da prisão em flagrante do recorrente foram apreendidos 17,7 gramas de cocaína, 27,6 gramas de maconha e 5,6 gramas de crack, o que justifica seu encarceramento cautelar, para garantia da ordem pública, consoante pacífico entendimento desta Corte, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+3. Ademais, o decreto de prisão preventiva está fundamentado no fato de o recorrente possuir anterior registro criminal pela prática do delito de roubo, já tendo sido beneficiado com liberdade provisória, o que também justifica sua segregação cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+4. Recurso ordinário em habeas corpus desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, a segregação cautelar do recorrente foi decretada pelos seguintes fundamentos:
+"Trata-se de comunicação de prisão em flagrante [NOME], preso em 20/9/2017, como incurso nas sanções do art. 33 da Lei n. 11343/2003. Constato que o APFD está formalmente em ordem, obedecendo as disposições do art. 304 e 306 do Código de Processo Penal, não sendo hipótese de relaxamento. Tampouco vislumbro possível a concessão de liberdade provisória. No caso em tela, não obstante a primariedade do autuado, tem-se que ele já foi preso em flagrante pela prática de roubo majorado, ocasião em que esteve em audiência de custódia, tendo sido beneficiado com a liberdade provisória em 26/10/2016, cumulada com medidas cautelares diversas da prisão. Ademais, tem-se que as circunstâncias do crime são graves, constando do APFD que o autuado ao avistar os policiais jogou uma meia em uma lixeira, contendo 27 microtubos de cocaína, 33 invólucros de maconha e 25 invólucros plásticos com crack, diversidade de substância psicoativa que aponta para a gravidade concreta do delito." (e-STJ, fls. 72-73)
+Conforme consignado, quando da prisão em flagrante do recorrente foram apreendidos 17,7g (dezessete gramas e sete decigramas) de cocaína, 27,6g (vinte e sete gramas e seis decigramas) de maconha e 5,6g (cinco gramas e seis decigramas) de crack (e-STJ, fl. 18), o que justifica seu encarceramento cautelar, para garantia da ordem pública, consoante pacífico entendimento desta Corte, no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+Ademais, o decreto de prisão preventiva está fundamentado no fato de o recorrente possuir anterior registro criminal pela prática do delito de roubo, já tendo sido beneficiado com liberdade provisória, o que também justifica sua segregação cautelar para garantia da ordem pública, como forma de evitar a reiteração delitiva.
+Sobre os temas:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE, VARIEDADE E NOCIVIDADE DA DROGA APREENDIDA. PETRECHOS PARA O TRÁFICO. FUNDADO RECEIO DE REITERAÇÃO DELITIVA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+III - In casu, a decisão do juiz singular encontra-se em consonância com a jurisprudência desta Corte sobre o tema, uma vez que devidamente fundamentada em elementos extraídos dos autos, a evidenciar a necessidade de garantia da ordem pública, notadamente, se considerada a quantidade, nocividade e variedade dos entorpecentes apreendidos em poder do paciente (16 gramas de maconha e 138 gramas de cocaína), em conjunto com uma balança de precisão e uma arma de fogo, circunstâncias indicativas de um envolvimento estreito com o tráfico de drogas e que revelam a indispensabilidade da imposição da medida extrema.
+IV - Outrossim, a prisão preventiva para assegurar a ordem pública se legitima nos registros de passagens criminais anteriores do paciente, ainda que sem trânsito em julgado, que tornam patente o risco concreto de reiteração delitiva e apontam para a sua periculosidade social.
+ ..
+Habeas corpus não conhecido."
+(HC 389.197/SE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/4/2017, DJe 26/4/2017).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. RECEPTAÇÃO. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SÚMULA 52/STJ. PRISÃO PREVENTIVA. FUNDAMENTOS CONCRETOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+ ..
+2. Se a prisão cautelar foi imposta ou mantida com base em explícita e concreta fundamentação a justificar a necessidade da rigorosa providência, não há falar em constrangimento ilegal.
+3. Na espécie, o real risco de reiteração delitiva (tirado do fato de que o paciente responde a outro processo criminal) confere lastro de legitimidade à manutenção da medida extrema, pois revela a necessidade de se garantir a ordem pública.
+4. Ordem denegada."
+(HC 365.627/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/4/2017, DJe 20/4/2017).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DA CONDUTA PARA USO DE ENTORPECENTE. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE DE DROGA APREENDIDA. PERICULOSIDADE DO AGENTE. REITERAÇÃO DELITIVA. RISCO AO MEIO SOCIAL. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ORDEM NÃO CONHECIDA.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal. Devendo, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos do previsto no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente motivada, tendo sido demonstrada, com base em elementos concretos, a periculosidade do paciente e a gravidade do delito, evidenciadas pela quantidade e qualidade da droga apreendida - 26 invólucros de maconha, perfazendo 19,8g, 9 invólucros de cocaína, perfazendo 6,7g, e ainda 118,5g de cocaína acondicionada em 1 saco plástico incolor -, e pela reiteração de condutas delitivas, já que o paciente foi condenado pela prática do mesmo delito de tráfico de drogas e responde a outro processo criminal pela prática do delito de posse de arma de fogo, o que demonstra risco ao meio social, recomendando a sua custódia cautelar para garantia da ordem pública.
+4. A presença de condições pessoais favoráveis do agente, como primariedade, domicílio certo e emprego lícito, não representa óbice, por si só, à decretação da prisão preventiva, quando identificados os requisitos legais da cautela.
+5. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+Habeas corpus não conhecido."
+(HC 382.973/RO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 9/3/2017, DJe 16/3/2017).
+Por fim, é "indevida a aplicação de medidas cautelares diversas da prisão quando esta encontra-se justificada na gravidade concreta do delito e na periculosidade social do réu, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública" (HC 315.151/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 28/4/2015, DJe de 25/5/2015; HC 323.026/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1/9/2015, DJe 17/9/2015).
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+É como voto.
