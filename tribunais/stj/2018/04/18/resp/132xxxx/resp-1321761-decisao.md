@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por CERÂMICA PRINCESA DO NORTE LTDA, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 59):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. CDA. VALIDADE. REQUISITOS. LANÇAMENTO. ART. 515, § 3º, CPC. NOTIFICAÇÃO. DESNECESSIDADE. INSCRIÇÃO EM DIVIDA ATIVA. REGULARIDADE FORMAL. TAXA SELIC. MULTA. IMPOSIÇÃO LEGAL. CARÁTER NÃO CONFISCATÓRIO.
+1. Extinção do processo com base no art. 267, IV, do CPC afastada, e com aplicação do disposto no art. 515, § 30, do CPC resolve-se no mérito da causa porque madura para julgamento.
+2. É desnecessária a intimação do contribuinte do ato de inscrição em dívida ativa, por não haver previsão legal de tal proceder.
+3. Os requisitos da CDA, constantes no § 5º, do art. 2º, da Lei 6.830/80, têm por escopo o exercício da ampla defesa e do contraditório, princípios constitucionalmente consagrados, pela parte executada/embargante. Cumprindo esse aspecto teleológico nos autos, não há de se falar em nulidade.
+4. O processo administrativo não constitui documento essencial ao executivo fiscal, nos termos do artigo 6º, § 1º, da Lei no 6.830/80. Considerando que o próprio título executivo ampara satisfatoriamente o débito, oportunizado o lídimo direito ao contraditório não há falar em cerceamento de defesa.
+5. A aplicação de multa moratória por parte da Fazenda Pública pelo não adimplemento de tributo, ou atraso no seu adimplemento, por ser decorrência de lei, não caracteriza confisco.
+6. A incidência da SELIC sobre os créditos fiscais se dá por força de instrumento legislativo próprio (lei ordinária) sem importar qualquer afronta à Constituição Federal.
+7. Sem condenação em honorários advocaticios, em face do encargo previsto no Decreto-Lei no 1.025/69 e da dição da Súmula n. 168, do extinto TFR. Custas processuais por conta do executado.
+8. Apelação improvida.
+Opostos dois embargos de declaração, ambos foram rejeitados, sendo aplicada a multa de 1% prevista no art. 538 do CPC/73 (e-STJ fls. 169/173 e 181/186 ).
+No apelo nobre (e-STJ fls. 189/201), a recorrente, aponta violação dos arts. 2º, § 5º, II, da Lei n. 6.830/80, 202, II do CTN, tendo em vista que a CDA não demonstrou a maneira de cálculo dos juros de mora, não bastando a transcrição do fundamento legal; art. 161 do CTN, porque é impossível a incidência de juros sobre o valor da multa e art. 20 do CPC/73 porque o acórdão recorrido considerou legal o encargo de 20% previsto pelo DL n. 1.025/69.
+Apresentadas contrarrazões (e-STJ fls. 206/211).
+Decisão de admissibilidade (e-STJ fls. 213/217).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+Dito isso, no que tange à validade do título, o Tribunal de origem, no que interessa, consignou (e-STJ fl. 154):
+A embargante não logrou êxito na comprovação do desatendimento aos requisitos constantes no § 5º, do art. 2º da LEF por parte do título executivo, tais como o período da dívida, a sua origem, sua fundamentação legal e seu modo de atualização.
+A sinteticidade é característica do título executivo, sendo que a descrição pormenorizada dos fatos originadores do débito consta do procedimento administrativo. Dessa maneira, não se pode cogitar da declaração da nulidade da CDA, e conseqüentemente, da extinção da execução.
+Nesse contexto, considerando a situação delineada no acórdão recorrido, à luz da Súmula 7 desta Corte Superior, o recurso especial não serve à constatação de vícios nos requisitos de validade da certidão de dívida ativa.
+A propósito, transcrevo as seguintes ementas:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA (SÚMULA 283/STF). REQUISITOS DA CDA. REEXAME DE FATOS E PROVAS (SÚMULA 7/STJ).
+1. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, de que o art. 4º da Lei nº 6.830/80, bem como o art. 135, III, do CTN, autorizam a execução contra o devedor ou o responsável tributário, esbarrando, pois, no obstáculo da Súmula 283/STF .
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento (AgRg no REsp 1318768/PB, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/05/2016, DJe 17/05/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. REQUISITOS DA CDA. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao desate da controvérsia, só que de forma contrária aos interesses da parte. Logo, não padece de vícios de omissão, contradição ou obscuridade, a justificar sua anulação pelo STJ. Tese de violação do art. 535 do CPC repelida.
+2. É pacífico o entendimento desta Corte de que a aferição do preenchimento ou não dos requisitos essenciais à validade da CDA demanda análise do suporte fático-probatório dos autos, providência essa vedada nesta seara recursal ante o óbice da Súmula 7/STJ.
+3. É assente também a orientação segundo a qual é possível ao juiz reconhecer a nulidade da CDA de ofício, ou facultar à Fazenda Pública, tratando-se de erro formal, a substituição ou emenda do título executivo.
+4. Agravo Regimental não provido (AgRg no AREsp 832.015/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2016, DJe 27/05/2016).
+Nesse sentido, refiro-me, ainda, aos seguintes julgados: AgRg no Ag n. 824.609/PR, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 24/03/2009; REsp n. 925.719/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 24/09/2008; REsp n. 814.075/MG, Rel. Ministro LUIZ FUX, Primeira Turma, DJe 02/04/2008; REsp n. 766.050/PR, Rel. Ministro LUIZ FUX, Primeira Seção, DJ 25/02/2008.
+Quanto ao fundamento do recorrente de que os juros não podem incidir sobre o valor da multa, observa-se que o Tribunal a quo não emitiu pronunciamento a respeito dessa premissa, o que caracteriza a ausência de prequestionamento, viabilizador do recurso especial.
+Verifica-se que a Corte Regional decidiu somente pela legitimidade da cobrança cumulada da multa de mora e juros, consoante Súmula 209, do TFR, que estabelece: "Nas execuções fiscais da Fazenda Nacional, é legítima a cobrança cumulativa de juros de mora e multa moratória".
+Por fim, a jurisprudência deste Tribunal Superior "reiterou o entendimento fixado na Súmula 168 do extinto TFR, que dispõe que o encargo de 20%, do Decreto-Lei 1.025, de 1969, é sempre devido nas execuções fiscais da União e substitui, nos embargos, a condenação do devedor em honorários advocatícios" (AgRg no REsp 1102720/DF, AGRAVO REGIMENTAL NO RECURSO ESPECIAL 2008/0136932-0, Relator(a) Ministro SÉRGIO KUKINA, (1155) Órgão Julgador T1 - PRIMEIRA TURMA, Data da Publicação/Fonte DJe 04/04/2016). (Grifos acrescidos).
+Ante o exposto, nos termos do art. 255, § 4º, I e II, do RISTJ, CONHEÇO, EM PARTE, DO RECURSO ESPECIAL e nessa extensão, NEGO-LHE PROVIMENTO.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 - STJ.
+Publique-se. Intimem-se.
