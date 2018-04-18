@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. UTILIZAÇÃO DO SISTEMA INFOJUD. LOCALIZAÇÃO DE BENS DO EXECUTADO.
+A utilização do sistema INFOJUD deve ser analisada pelo juiz, que pode rejeitá-la quando não realizadas diligências extrajudiciais para localização de bens do devedor. Ademais, o êxito do agravo interno, que é fundado no permissivo do parágrafo Io do art. 557 do CPC, exige que a parte demonstre a ausência dos pressupostos de aplicação do caput do referido artigo, o que não ocorreu no caso presente. De outro lado, o relator pode negar, nos casos previstos em lei e de imediato, seguimento ao recurso. Inteligência do art. 557, caput, do CPC. Agravo interno não provido.
+No presente recurso especial, o recorrente aponta violação dos arts. 591, 600, I e IV, 612, 352, § 3º do CPC/1973 e 198, § 1º, I, do CTN.
+Sustenta, em síntese, que, no que tange à localização dos bens do devedor, não há necessidade do exaurimento dos meios extrajudiciais para que haja o deferimento da penhora via sistema INFOJUD.
+É o relatório. Decido.
+Primeiramente, cumpre salientar que o Superior Tribunal de Justiça, na apreciação dos recursos especiais representativos da controvérsia ns. 1.112.943/MA e 1.184.765/PA, fixou o entendimento de que, após o advento da Lei n. 11.382/2006, não é necessário o exaurimento de todas as vias extrajudiciais de localização de bens do devedor para a utilização do sistema de penhora eletrônica denominado BACENJUD.
+Nessa esteira, sob a luz dos mencionados precedentes, é que esta Corte Superior firmou jurisprudência no sentido de que o entendimento adotado para o BACENJUD deve ser estendido para os sistemas RENAJUD e INFOJUD, como meio de prestigiar a efetividade da execução, senão vejamos:
+PROCESSUAL CIVIL. SISTEMA INFOJUD. ESGOTAMENTO DE DILIGÊNCIAS. DESNECESSIDADE.
+1. Com a entrada em vigor da Lei 11.382/2006, e como resultado das inovações nela tratadas, houve evolução no sentido de prestigiar a efetividade da Execução, de modo que a apreensão judicial de dinheiro, mediante o sistema eletrônico denominado BacenJud, passou a ser medida primordial, independentemente da demonstração relativa à inexistência de outros bens.
+2. Atualmente, a questão se encontra pacificada, nos termos do precedente fixado pela Corte Especial do STJ, no julgamento do REsp 1.112.943/MA, sujeito ao rito dos recursos repetitivos.
+3. Ademais, o STJ posiciona-se no sentido de que o entendimento adotado para o Bacenjud deve ser aplicado ao Renajud e ao Infojud, haja vista que são meios colocados à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados. Nesse sentido: AgRg no REsp 1.322.436, Rel. Min. Assusete Magalhães, DJe 17.08.2015; REsp 1.522.644, Rel. Min. Humberto Martins, DJe 01/07/2015; AgRg no REsp 1.522.840; Rel. Min. Mauro Campbell Marques, DJe 10/06/2015; REsp 1.522.678, Rel. Min. Herman Benjamin, DJe 18/05/2015.
+4. Recurso Especial provido.
+(REsp 1582421/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2016, DJe 27/05/2016)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RI/STJ, conheço do agravo para dar provimento ao recurso especial para autorizar a utilização do sistema INFOJUD.
+Publique-se. Intimem-se.
