@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 239):
+ADMINISTRATIVO. AÇÃO ORDINÁRIA. REMESSA OFICIAL. RESOLUÇÃO NORMATIVA ANS N. 279/2011. EFEITOS. CONTRATOS VIGENTES. ADEQUAÇÃO.
+1. Segundo o entendimento deste Tribunal Regional Federal, as regulamentações levadas a efeito pela Agência Nacional de Saúde, no exercício de suas atribuições, somente devem ser aplicadas aos negócios jurídicos concluídos após a entrada em vigor da respectiva normativa, sob pena de retroatividade prejudicial e mitigação infundada do princípio da segurança jurídica.
+2. A Resolução Normativa n. 279/2011 é expressa ao determinar o aditamento dos contratos já vigentes, a fim de adequação aos seus preceitos, conforme se depreende do caput do artigo 27.
+Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento.
+O recorrente aponta violação dos arts. 535, II, do CPC/1973; 1º e 4º da Lei n. 9.961/2000; 30, 31, e 35, § 6º, da Lei n. 9.656/1998.
+Sustenta, preliminarmente, que houve negativa de prestação jurisdicional. Alega, em síntese, que (e-STJ fl. 278) "os efeitos da Resolução nº 279/11 somente se produzirão sobre os contratos antigos se, na esfera da autonomia privada conferida às contratantes, houver interesse da Operadora e da pessoa jurídica contratante.".
+Contrarrazões apresentadas.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+Isso considerado, observo que o Superior Tribunal de Justiça firmou o entendimento de que não há violação do art. 535, II, do CPC/1973, muito menos negativa de prestação jurisdicional, quando o acórdão "adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, para decidir de modo integral a controvérsia posta" (AgRg no REsp 1.340.652/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 13/11/2015).
+Acerca do tema, conferir, ainda: REsp 1.388.789/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 04/03/2016, e AgRg no REsp 1.545.862/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 18/11/2015.
+No caso, o Tribunal a quo decidiu de forma suficientemente fundamentada sobre o tema apontado como olvidado (e-STJ fl. 237).
+Por outro lado, verifica-se que o acórdão recorrido dirimiu a controvérsia à luz da interpretação dada aos efeitos da Resolução Normativa ANS n. 279/2011. Confira-se (e-STJ fls. 237/238):
+É certo que, nos autos do agravo de instrumento n. 5000543-12.2013.404.0000, a Quarta Turma deste Tribunal Regional Federal acolheu o pedido liminar da autarquia federal ora agravante, afastando o óbice à aplicação imediata dos artigos 8o, 14 e 26 da Resolução Normativa n. 195/2009 da ANS (decisão ainda não transitada em julgado). Ocorre que destacada Resolução não determina o aditamento dos contratos firmados antes da sua entrada em vigor, mas apenas estabelece mitigações à inclusão de novos beneficiários aos planos que se mantiverem em desacordo com as suas disposições.
+A Resolução Normativa n. 279/2011, diferentemente, é expressa ao determinar o aditamento dos contratos já vigentes, a fim de adequação aos seus preceitos, conforme se depreende do caput do artigo 27, in verbis:
+ ..
+Ou seja, tratando-se de redações normativas diversas, prudente que o Poder Judiciário considere as respectivas peculiaridades, sob pena de quebra da isonomia interpretativa.
+Não vislumbro, portanto, em um juízo sumário de verossimilhança, razões para a alteração da decisão objurgada, mormente se considerada a extensa fundamentação externada pelo juízo a quo.
+Diante desse panorama, o acolhimento da tese veiculada no recurso especial passa, necessariamente, pela análise daquele ato normativo, o que não se coaduna com a via eleita, uma vez que resoluções não se enquadram no conceito de lei federal de que trata o art. 105, III, da Constituição Federal.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535/CPC. PLANO DE SAÚDE. MULTA EM RAZÃO DE NEGATIVA DE REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. ART. 8º DA RESOLUÇÃO 124/2006 DA ANS. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE "TRATADO OU LEI FEDERAL".
+1. Deve ser afastada a alegada violação ao art. 535, II, do CPC, na medida em que a Corte de origem analisou, de forma objetiva e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta no presente feito, não havendo falar em omissão.
+2. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise da Resolução nº 124/2006 da ANS, pretensão insuscetível de ser apreciada em recurso especial, porquanto o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1395932/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/11/2013, DJe 03/12/2013)
+Confiram-se, ainda: AgInt no AREsp 906.891/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 04/05/2017, DJe 10/05/2017; AgInt no AREsp 77.871/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/11/2016, DJe 18/11/2016; AgRg no AREsp 288.596/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 03/03/2016, DJe 11/03/2016.
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
