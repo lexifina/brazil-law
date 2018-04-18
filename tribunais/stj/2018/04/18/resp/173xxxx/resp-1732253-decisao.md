@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão do Tribunal Regional Federal da 4ª Região, cuja ementa é a seguinte:
+TRIBUTÁRIO. IMPOSTO DE RENDA RETIDO NA FONTE. ARTIGO 158 DA CF. INSTRUÇÃO NORMATIVA 1.599/2015.
+1. O art. 158, I, da Constituição Federal, dentro da partilha da receita tributária do imposto de renda, dispõe que pertence aos Municípios e suas autarquias e fundações o imposto de renda, incidente na fonte, sobre os rendimentos pagos a qualquer título. A expressão "pagos a qualquer título" é suficientemente clara para afastar a pretensão do Fisco em limitar, por um ato normativo, a partilha constitucional da receita do imposto de renda, retido na fonte, reduzindo, deste modo, as receitas das entidades políticas, impondo-lhes flagrante submissão fiscal à União, ameaçando o princípio federativo.
+2. Também vale ressaltar a frustração da segurança jurídica e da confiança no conteúdo da própria Constituição. Há mais de trinta anos o imposto de renda retido sobre todos os pagamentos efetuados era de titularidade dos Municípios, suas autarquias e fundações. A estabilidade jurídica, indispensável na condução do orçamento e execução das políticas públicas, exige que a administração tributária, no afã de aumentar a receita federal, não aborte a legítima expectativa das pessoas políticas, concretizada, repita-se, há mais de 30 anos, em uma fonte de receita indispensável à sua própria manutenção.
+Opostos embargos de declaração, foram rejeitados.
+A recorrente alega violação dos arts. 489 e 1.022 do CPC/2015, bem como dos arts. 8º, 45 e 85 do CTN, dos arts. 10 e 16 da Lei n. 4.506/1964, dos arts. 1º, 2º, 3º e 7º da Lei n. 7.713/1988 e do art. 64 da Lei n. 9.430/1996, defendendo ser da União o produto do imposto de renda incidente sobre os pagamentos efetuados pelo Município, não relacionados a contratos de trabalho, como no caso de pagamento por fornecimento de bens e serviços.
+Sem contrarrazões pela parte recorrida.
+Recurso extraordinário interposto e admitido na origem.
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado n. 3 do Plenário do STJ).
+Isso considerado, importa destacar que o Tribunal Regional Federal decidiu a controvérsia com base em interpretação direta do art. 158, I, da Constituição Federal, a qual, por si só, é suficiente para a solução da controvérsia na medida em que trata da titularidade do produto da arrecadação do imposto de renda, incidente na fonte, sobre rendimentos pagos a qualquer título.
+Não há, pois, violação do art. 1.022 do CPC/2015, tendo em vista que o acórdão recorrido se apóia em fundamentação coerente e suficiente ao embasamento de sua conclusão.
+Quanto ao mérito, forçoso o não conhecimento do recurso especial, pois, nos termos do art. 105, III, da Constituição Federal, não é a via adequada à revisão de fundamentação constitucional.
+Quanto ao requerimento de readequação da petição recursal, conforme autorização do art. 1.032 do CPC/2015, não deve ser acolhido, pois a Fazenda Nacional interpôs o recurso extraordinário, já admitido, o que torna desnecessária essa providência.
+Nesse sentido:
+ ..  ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO INTERPOSTO. IMPOSSIBILIDADE DE ANÁLISE NESTA CORTE. ENTENDIMENTO PACÍFICO DO STJ.
+ ..
+XI - Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, afasta-se, ipso facto, a apreciação da questão por este Tribunal, cuja competência está jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+XII - Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+XIII - No mesmo, sentido, ainda, as seguintes decisões monocráticas, em processos idênticos: REsp 1657495, Rel. Min. OG FERNANDES, dje 22.5.17; REsp 1668221, Rel Min. SÉRGIO KUKINA, Dje 12.5.17 e REsp 1662022, Rel. Min. ASSUSETE MAGALHAES, Dje 02.5.17.
+XIV - Cumpre ressaltar a existência de recurso extraordinário admitido na origem, a afastar a providência contida no art. 1.032 do CPC/2015 (cfr. AgInt no REsp 1.622.902/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/3/2017).
+XV - Agravo interno improvido.
+(AgInt no REsp 1659462/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 01/03/2018, DJe 06/03/2018)
+Por fim, por força do art. 85, § 11, do CPC/2015, considerada a natureza e a importância da causa, bem como a baixa complexidade do trabalho adicional exigido em decorrência da interposição do recurso especial, majoro a verba honorária de sucumbência em 10% sobre o valor arbitrado na sentença (10% do valor atualizado da causa), respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE DO RECURSO ESPECIAL e, nessa parte, NEGAR-LHE PROVIMENTO, com a majoração da verba honorária de sucumbência em 10% sobre o valor arbitrado na sentença (R$ 2.000,00), respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
