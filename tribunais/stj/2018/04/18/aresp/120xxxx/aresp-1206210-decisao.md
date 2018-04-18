@@ -1,0 +1,63 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. AUSENTE. FUNDAMENTOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO. PENHORA DE FATURAMENTO. CABIMENTO. FRUSTRAÇÃO DE OUTRAS TENTATIVAS. AUSÊNCIA DE OUTROS BENS PARA PENHORA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por GRUPO OK CONSTRUCOES E EMPREENDIMENTOS LTDA - EPP contra decisão que inadmitiu o recurso especial com fundamento na alínea "a" do art. 105, III, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. PENHORA SOBRE PERCENTUAL DA RENDA BRUTA DIÁRIA DA PARTE EXECUTADA. AUSÊNCIA DE ILEGALIDADE. MEDIDA QUE MAIS SE APROXIMA DA PENHORA DE DINHEIRO EM TERMOS DE EFETIVIDADE. A MEDIDA PODE SER DEFERIDA SEMPRE QUE NÃO FOREM ENCONTRADOS OUTROS BENS NO PATRIMÔNIO DO EXECUTADO, SE OS BENS FOREM INSUFICIENTES OU INEFICAZES PARA EFEITO SATISFAZER A EXECUÇÃO, OU AINDA QUANDO A MEDIDA SE APRESENTAR, DIANTE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO, COMO A FORMA MAIS EFICIENTE PARA O ÊXITO DA PRESTAÇÃO JURISDICIONAL EXECUTIVA. SÚMULA Nº 100 DO TJRJ. O PRINCÍPIO DA MENOR ONEROSIDADE DEVE SER CONJUGADO COM O PRINCÍPIO DA EFICIÊNCIA DA ATIVIDADE EXECUTIVA. PROVIMENTO PARCIAL DO RECURSO PARA REDUZIR A PENHORA A 10% DA RENDA BRUTA DIÁRIA DA EMPRESA EXECUTADA. (e-STJ, fl. 30)
+Nas razões do recurso especial, a recorrente apontou violação aos artigos 1.022, 805 e 835, do Código de Processo Civil de 2015, sustentando que a medida restritiva é muito onerosa, configurando afronta aos princípios da razoabilidade, proporcionalidade e preservação econômica da empresa. Alega que não foram esgotados todos os meios de busca de bens passíveis de sofrer o ato de constrição judicial para fins de satisfazer a execução.
+Intimado, o agravado não apresentou contrarrazões.
+É o relatório.
+Passo a decidir.
+A irresignação recursal não merece acolhida.
+Primeiramente, cumpre esclarecer que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça, conforme disposto no Enunciado Administrativo n. 3/STJ.
+De início, no tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. ACOLHIMENTO. CUSTAS PROCESSUAIS. SUCUMBÊNCIA MÍNIMA. RESPONSABILIDADE INTEGRAL DA PARTE VENCIDA.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Verificada a sucumbência mínima, caberá à outra parte, por inteiro, responder pelas custas e honorários advocatícios.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no AgRg no REsp 1448042/PR, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 15/10/2015, DJe 21/10/2015 - grifou-se)
+RECURSO ESPECIAL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA (..)
+1. Os embargos de declaração consubstanciam-se no instrumento processual destinado à eliminação, do julgado embargado, de contradição, obscuridade ou omissão sobre tema cujo pronunciamento se impunha pelo Tribunal, não se prestando para promover a reapreciação do julgado. (..)".
+(REsp 1.134.690/PR, Rel. Ministro Massami Uyeda, Terceira Turma, julgado em 15/02/2011)
+No caso dos autos, o acórdão proferido pelo Tribunal de origem foi claro ao examinar toda a matéria de direito suscitada pela agravante, fundamentando que:
+Ao revés, foi determinada, diante das circunstâncias do caso em apreço, a medida que se revela mais eficiente para atender à finalidade do processo executivo, ou seja, a penhora sobre parcela da renda da empresa executada. Vale acrescentar que a empresa agravante não demonstrou a existência de outros bens passíveis de penhora, sendo que a penhora on line restou infrutífera. De modo que, na hipótese em análise, a medida de penhora de renda afigura-se absolutamente compatível com os princípios que informam a atividade jurisdicional executiva. Ademais, não há nos autos provas inequívocas de que a penhora comprometerá o funcionamento da empresa executada. Assim como não há qualquer prova da alegada precariedade financeira, bem como do faturamento da recorrente, a fim de se avaliar o impacto da penhora sobre o funcionamento da Executada/agravante. (e-STJ, fl. 34 - grifou-se).
+Ademais, o acórdão recorrido é claro ao examinar a possibilidade de deferir a penhora sobre o faturamento bruto da empresa, o que afasta a omissão no acórdão embargado.
+Desse modo, embora rejeitados os embargos de declaração opostos, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+Consoante a jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todas as teses apresentadas durante um processo judicial, bastando que as decisões estejam devida e coerentemente fundamentadas, em obediência ao que determina o art. 93, inciso IX, da Constituição Federal.
+Assim já se decidiu em diversos julgados, dentre os quais:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE. O ÓRGÃO JURISDICIONAL NÃO ESTÁ OBRIGADO A SE PRONUNCIAR SOBRE TODOS OS ARGUMENTOS SUSCITADOS PELAS PARTES SE IMPERTINENTES À SOLUÇÃO DA QUESTÃO. DECISÃO MONOCRÁTICA. MÉRITO DO ESPECIAL. POSSIBILIDADE. AUSÊNCIA DE PEÇA FACULTATIVA. IMPRESCINDIBILIDADE À SOLUÇÃO DA CONTROVÉRSIA. FORMAÇÃO DEFICIENTE. AGRAVO IMPROVIDO.
+(..)
+II. O órgão julgador, como acentuado pelo entendimento pretoriano, não é obrigado a se pronunciar sobre todos os temas, mas apenas acerca daqueles relevantes e aptos à formação de sua convicção.
+(..)
+V. Agravo improvido.
+(AgRg no Ag 1232500/SP, Rel. Ministro Aldir Passarinho Junior, Quarta Turma, DJe 06/09/2010 - grifou-se)
+Além disso, o acórdão recorrido está em sintonia com o entendimento desta Corte, que somente admite a penhora de faturamento em hipóteses excepcionais, após frustradas as tentativas de garantia do juízo por outros meios menos gravosos ao devedor.
+Nesse sentido, confira-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 1973. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA SOBRE O FATURAMENTO LÍQUIDO DA EMPRESA. POSSIBILIDADE. REQUISITOS. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Nos termos do Enunciado Administrativo n. 2 do STJ, "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+2. Na esteira da jurisprudência do Superior Tribunal de Justiça, não há vedação legal que impeça, em caráter excepcional, a imposição de penhora sobre o faturamento da sociedade empresária, quando observados, cumulativamente, os seguintes requisitos: I) inexistência de bens passíveis de garantir a execução ou que sejam de difícil alienação; II) nomeação de administrador (CPC, art. 655-A, § 3º); e III) fixação de percentual que não inviabilize a atividade empresarial.
+3. O STJ tem mantido penhoras do faturamento líquido, com vistas a, por um lado, em não existindo patrimônio outro suficiente, disponibilizar forma menos onerosa para o devedor e, por outro lado, garantir de forma idônea e eficaz a satisfação do crédito, atendendo, assim, ao princípio da efetividade da execução.
+4. In casu, o exame acerca da existência de outros bens passíveis de serem penhorados, inclusive já ofertados nos autos, ou mesmo de que a determinação de penhora de 20% do faturamento da empresa executada traduz-se em medida desarrazoada, demandaria a revisão de matéria fática, o que é defeso em sede de recurso especial, nos termos da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 111.531/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 22/03/2018, DJe 27/03/2018 - grifou-se)
+
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. OFERECIMENTO À PENHORA DE IMÓVEL INEXISTENTE. CONDENAÇÃO EM LITIGÂNCIA DE MÁ-FÉ. POSSIBILIDADE DE PENHORA SOBRE FATURAMENTO DA EMPRESA.
+1. O Tribunal a quo entendeu que a oferta de imóvel inexistente à penhora constitui em litigância de má-fé. Esclareço que modificar tal conclusão, de modo a acolher a tese da recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+2. A penhora de faturamento da empresa só pode ocorrer em casos excepcionais, que devem ser avaliados pelo magistrado à luz das circunstâncias fáticas apresentadas no curso da Execução, obedecendo o que preceitua o art. 866 do CPC e desde que não existam outros bens penhoráveis e a constrição não afete o funcionamento da empresa.
+3. Dessarte, correta a decisão da Corte regional que fixou a penhora sobre o faturamento da empresa no percentual de 5% "como forma de equilibrar a relação de forças entre as partes da execução fiscal, de modo a preservar a atividade empresarial desenvolvida e permitir que, ao menos uma parte do débito tributário, seja revertido para os cofres públicos".
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1696970/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/11/2017, DJe 19/12/2017 - grifou-se)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE FATURAMENTO DE EMPRESA. PRINCÍPIO DA MENOR ONEROSIDADE. POSSIBILIDADE. ARTS. 620 E 655 DO CPC. REQUISITOS. SÚMULA N. 7/STJ. ART. 535 DO CPC. AUSÊNCIA DE OMISSÃO.
+1. É possível, excepcionalmente, a penhora recair sobre faturamento de empresa sem que isto configure violação do princípio da menor onerosidade da execução. Precedentes do STJ.
+2. O Tribunal de origem destacou que: "conforme se verifica dos documentos anexados, a empresa agravante indicou bens de difícil comercialização e liquidez para quitar seu débito". E, quanto ao princípio da menor onerosidade, afirmou que "a agravante não apresentou qualquer documento que indique que a penhora como foi deferida de fato inviabilizaria o funcionamento da empresa" (e-STJ fl. 136).
+3. Nesse contexto, a verificação dos requisitos da penhora, da necessidade de relativização da ordem prevista no art. 655 do CPC, da existência de outros bens passíveis de constrição e da suposta inviabilização das atividades da empresa, demandaria o reexame do conjunto fático dos autos, vedado pelo disposto na Súmula n. 7/STJ.
+4. A violação do art. 535 do CPC não se configura na hipótese em que o Tribunal de origem, ainda que sucintamente, pronuncia-se sobre a questão controvertida nos autos, não incorrendo em omissão, contradição ou obscuridade.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 175.106/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/09/2012, DJe 28/09/2012 - grifou-se)
+Na espécie, o Tribunal de origem consignou que "a empresa agravante não demonstrou a existência de outros bens passíveis de penhora, sendo que a penhora on line restou infrutífera. De modo que, na hipótese em análise, a medida de penhora de renda afigura-se absolutamente compatível com os princípios que informam a atividade jurisdicional executiva. Ademais, não há nos autos provas inequívocas de que a penhora comprometerá o funcionamento da empresa executada. Assim como não há qualquer prova da alegada precariedade financeira, bem como do faturamento da recorrente, a fim de se avaliar o impacto da penhora sobre o funcionamento da Executada/agravante". (e-STJ, fl. 34 - grifou-se).
+Sendo assim, ausente nos autos provas contundentes de outros bens também passíveis de penhora.
+Ademais, a penhora on line foi infrutífera, sendo a penhora sobre o faturamento medida adequada a ser tomada. Correto o entendimento do Tribunal de origem, de modo que rever tal posicionamento é obstado pela Súmula 7/STJ.
+Advirta-se, por fim, que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015, conforme Enunciado Administrativo n. 3/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Intime-se.
