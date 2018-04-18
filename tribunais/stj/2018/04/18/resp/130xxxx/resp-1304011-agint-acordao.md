@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$ 5.000,00. IMPOSSIBILIDADE DE REVISÃO. AUSÊNCIA DE DADOS CONCRETOS NO ACÓRDÃO RECORRIDO. AGRAVO INTERNO DO CONTRIBUINTE O QUAL SE NEGA PROVIMENTO.
+1. Não há como se apurar o valor da causa e os critérios de equidade previstos no art. 20, § 4o. do CPC, para avaliar a razoabilidade dos honorários advocatícios, porquanto tais elementos não foram mencionados nas razões de decidir do acórdão local e não foram opostos Embargos de Declaração com o objetivo de sanar eventual omissão. Carecem, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+2. Agravo Interno do contribuinte o qual se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno no Embargos Declaratórios no Recurso Especial interposto por AGCO DO BRASIL COMÉRCIO E INDÚSTRIA LTDA. contra decisão monocrática de minha lavra proferida com a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO VERIFICADA. FIXAÇÃO DA VERBA SUCUMBENCIAL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS APENAS PARA, EM INTEGRAÇÃO À DECISÃO VERGASTADA, REDEFINIR A VERBA HONORÁRIA.
+2. A parte agravante afirma ser irrisório os honorários advocatícios fixados em R$ 5.000,00, tendo em vista o valor da causa de R$ 972.345,19.
+3. O Agravo Interno interposto foi impugnado às fls. 828/830.
+4. É o relatório.
+VOTO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM R$ 5.000,00. IMPOSSIBILIDADE DE REVISÃO. AUSÊNCIA DE DADOS CONCRETOS NO ACÓRDÃO RECORRIDO. AGRAVO INTERNO DO CONTRIBUINTE O QUAL SE NEGA PROVIMENTO.
+1. Não há como se apurar o valor da causa e os critérios de equidade previstos no art. 20, § 4o. do CPC, para avaliar a razoabilidade dos honorários advocatícios, porquanto tais elementos não foram mencionados nas razões de decidir do acórdão local e não foram opostos Embargos de Declaração com o objetivo de sanar eventual omissão. Carecem, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+2. Agravo Interno do contribuinte o qual se nega provimento.
+1. Firmou-se a orientação, nesta Corte Superior, de que a revisão do valor fixado a título de honorários advocatícios somente é admissível em situações excepcionais, quando o valor revelar-se manifestamente irrisório ou excessivo. Constatada a irrisoriedade ou excessividade, é possível o julgamento do Recurso Especial pelo Relator, nos termos do art. 544, § 4o., II, c, ou do art. 557, § 1o.-A ambos do CPC.
+2. O critério para a fixação da verba honorária deve levar em conta, sobretudo, a razoabilidade do seu valor em face do trabalho profissional advocatício efetivamente prestado, não devendo altear-se a culminâncias desproporcionais e nem ser rebaixado a níveis claramente demeritórios, não sendo determinante para tanto apenas e somente o valor da causa.
+3. Acerca da questão, a parte recorrida foi condenada ao pagamento de honorários advocatícios no valor de R$ 5.000,00, nos termos da sentença.
+4. Como se observa, o presente caso não comporta a exceção que admite a revisão da verba sucumbencial, uma vez que foram sopesadas as circunstâncias necessárias e arbitrado quantum que se mostra razoável à remuneração adequada da atividade advocatícia desenvolvida.
+5. Ademais, no caso concreto, não há como se apurar o valor da causa e os critérios de equidade previstos no art. 20, § 4o. do CPC, para avaliar a razoabilidade dos honorários advocatícios, porquanto tais elementos não foram mencionados nas razões de decidir do acórdão local e não foram opostos Embargos de Declaração com o objetivo de sanar eventual omissão. Carecem, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+6. Ante o exposto, nega-se provimento ao Agravo Interno regularmente interposto pelo Contribuinte. É como voto.
