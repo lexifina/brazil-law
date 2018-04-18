@@ -1,0 +1,23 @@
+Decisão: Trata-se de reclamação com pedido de medida liminar, ajuizada por Claudemir Soares da Luz, com fundamento no artigo 103-A, § 3º, da Constituição Federal, apontando como autoridade reclamada o Tribunal de Justiça do Estado de Santa Catarina, por alegada violação da Súmula Vinculante 56 do STF.
+    Consta dos autos que o reclamante foi condenado à pena total de 16 anos e 8 meses de reclusão, no regime inicial fechado.
+    Com a progressão ao regime semiaberto, foi então concedida ao apenado a prisão domiciliar, por entender o Juízo da Execução que o local de cumprimento da pena não atendia aos padrões exigidos pela Lei de Execução Penal. (eDOC 3)
+    Irresignado, o Ministério Público interpôs agravo em execução no Tribunal de Justiça catarinense (Processo 0014414-50.2017.8.24.0038), que conheceu do recurso e deu-lhe provimento a fim de cassar a prisão domiciliar e determinar o retorno do apenado a estabelecimento compatível com o cumprimento da pena no regime semiaberto, nos termos da ementa a seguir transcrita:
+    “AGRAVO EM EXECUÇÃO PENAL. SAÍDA ANTECIPADA. PRISÃO DOMICILIAR CONCEDIDA COM BASE NA SÚMULA VINCULANTE 56. INSURGÊNCIA DO MINISTÉRIO PÚBLICO. DECISÃO EQUIVOCADA. HIPÓTESES DO ARTIGO 117 DA LEI DE EXECUÇÃO PENAL NÃO ATENDIDAS. VEDAÇÃO DA CHAMADA PROGRESSÃO POR SALTO. PENITENCIÁRIA INDUSTRIAL DE JOINVILLE QUE SE ENQUADRA NO CONCEITO DE ESTABELECIMENTO PRISIONAL SIMILAR. DIREITOS INERENTES AO REGIME SEMIABERTO RESPEITADOS. ALA DESTINADA EXCLUSIVAMENTE AOS PRESOS DO REGIME INTERMEDIÁRIO. DECISÃO REFORMADA PARA QUE O APENADO RETORNE AO ESTABELECIMENTO PRISIONAL VISANDO DAR CONTINUIDADE AO CUMPRIMENTO DA PENA. RECURSO CONHECIDO E PROVIDO.” (eDOC 6, p. 1)
+    Nesta Corte, a defesa alega, em síntese, que a unidade prisional em que se encontra alojado, não oferece os requisitos exigidos pela Lei de Execução Penal aos estabelecimentos penais que devem abrigar os presos que cumprem pena no regime intermediário. (eDOC 1, p. 2)
+    Requer, portanto, que se julgue procedente a presente reclamação, para tornar definitiva a liberdade do paciente, expedindo-se alvará de soltura definitivo, para aguardar em prisão domiciliar, a concessão de vaga em estabelecimento de regime semiaberto. (eDOC 1, p. 7)
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (artigo 52, parágrafo único, RISTF).
+    Passo a decidir.
+    Conforme se extrai do acórdão proferido pela 5ª Câmara Criminal do TJ/SC, ao julgar o Agravo de Execução Penal 0014414-50.2017.8.24.0038, o apenado está cumprindo sua reprimenda em local adequado ao seu regime. Assim restou assentado:
+    “O objeto recursal em questão, já foi tema de vários recursos analisados por este Colendo Tribunal, sendo a grande maioria, oriundos da mesma unidade jurisdicional. Ciente disso, esta egrégia Corte fixou seu entendimento à favor do Ministério Público, como ilustram os muito bem lançados fundamentos do eminente Desembargador Paulo Roberto Sartorato, no Agravo em Execução Penal n. 0001085-68.2017.8.24.0038, julgado em 06.04.2017:
+    (...)
+    O caso dos autos, por ser idêntico ao precedente supracitado, merece a mesma solução. Frisa-se que o apenado, ora agravado, também cumpria sua reprimenda na Penitenciária Industrial de Joinville quando foi agraciado com a concessão de prisão domiciliar, mesmo estando preso em ala destinada exclusivamente aos presos do regime intermediário e tendo todos os direitos inerentes ao regime semiaberto garantidos.
+    Além disso, não se vislumbra dos autos, qualquer tentativa por parte do magistrado de piso, de diligenciar junto ao DEAP para a transferência do detento a outro estabelecimento prisional, ou seja, não houve o esgotamento da via administrativa antes de proferida a decisão sobre a prisão domiciliar, a qual deveria ser a última alternativa.
+    Em assim sendo, o pleito principal do recurso deve ser acolhido, para que seja revogada a prisão domiciliar deferida na origem, determinando-se o retorno do apenado ao estabelecimento prisional para o cumprimento da pena.” (eDOC 6, p. 3-7)
+    Diante das informações transcritas acima, o Tribunal de Justiça trouxe elementos hábeis a confirmar que ao condenado foi disponibilizado estabelecimento prisional compatível com o regime de cumprimento de pena fixado em sentença condenatória, de modo a não justificar a concessão da prisão domiciliar.
+    Desse modo, não vislumbro afronta à Súmula Vinculante 56 do STF.
+    Ante o exposto, com base no artigo 21, § 1º, do RISTF, julgo improcedente a presente reclamação. Prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 18 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
