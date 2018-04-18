@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/15. NÃO CONFIGURAÇÃO. APENAS OS CRÉDITOS EXISTENTES NA DATA DO PEDIDO ESTÃO SUJEITOS À RECUPERAÇÃO JUDICIAL. CONSONÂNCIA DO ENTENDIMENTO ADOTADO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO EM RECURSO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL NA PARTE CONHECIDA.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por VIPLAN VIAÇÃO PLANALTO LIMITADA contra decisão do Tribunal de Justiça do Distrito Federal e Territórios que negou seguimento ao recurso especial fundamentado na alínea "a" do inciso III, do artigo 105, da Constituição Federal.
+Nas razões do recurso especial, a parte recorrente alega a violação dos artigos 1.022, II, do Código de Processo Civil de 2015 bem como 6º, § 4º, 7º, § 1º, 47 e 49 da Lei n. 11.101/2005, sustentando, em síntese, a existência de omissão quanto à competência do juízo da recuperação judicial para autorizar a constrição de qualquer bem pertencente ao patrimônio da empresa recuperanda e que "o egrégio STJ possui o entendimento pacificado de que não é plausível a retomada das execuções após o transcurso do prazo de 180 dias inicialmente deferido na recuperação"  sic  (e-STJ fl. 255).
+Sobreveio juízo de admissibilidade do apelo nobre por meio do qual foi negado seguimento ao recurso ao fundamento de que resguardado de ofensa estaria o artigo 1.022 do Código de Processo Civil de 2015 e que, no tocante aos demais artigos tidos por violados incindiria, na espécie, a Súmula 83/STJ, fundamentos impugnados nas razões do presente recurso.
+Por meio do parecer de fls. e-STJ 327-330, opina o Ministério Público Federal pelo desprovimento do presente recurso haja vista a ausência de violação ao art. 1.022 do CPC/2015 bem como a a consonância do entendimento esposado no acórdão recorrido com a jurisprudência desta Corte Superior.
+É o breve relatório.
+Passo a decidir.
+Não pode ser dado provimento à irresignação recursal.
+Quanto à alegada violação do artigo 1.022 do Código de Processo Civil por omissão quanto aos artigos 5º e 6º da Lei n. 11.101/2005, constata-se que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide com fundamentação suficiente a controvérsia.
+Na hipótese em exame, a Corte local assim consignou quanto à matéria, verbis:
+"observa-se que o prazo de prorrogação por mais dois anos da recuperação judicial da empresa agravante esgotou em 26 de maio de 2014, podendo, a priori, a partir daí o direito do credor de iniciar ou continuar sua ação e execução, independentemente de pronunciamento judicial", nos termos do § 4º do art. 6º da Lei nº 11.101/2005.
+Ressalta-se, que a agravante não demonstrou que houve a satisfação do crédito perseguido pela agravada, muito menos a inclusão do crédito no plano de recuperação homologado, cuja habilitação não é obrigatória.
+Conforme disposto no artigo 47 da Lei nº 11.101/2005, "a recuperação judicial tem por objetivo viabilizar a superação da crise econômico- financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo a preservação da empresa, função social e o estímulo a atividade econômica." A recuperação suspende o curso da prescrição e das ações e execuções em face do devedor. Entretanto não são todos os credores que se submetem as consequências de tal recuperação.
+De acordo com o artigo 49 da Lei nº 11.101/2005, há necessidade da existência do crédito na data do pedido da recuperação judicial para se sujeitar o disposto no art. 6º do mesmo diploma legal. O art. 49 do citado diploma legal assim estabelece: "Art. 49. Estão sujeitos a recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos." Na hipótese, como dito alhures, a agravante distribuiu o pedido de recuperação judicial em 13 de agosto de 2008, conforme consulta do andamento do processo no site deste Tribunal.
+No entanto, a sentença que condenou a agravante ao pagamento da indenização por danos morais e lucros cessantes, foi proferida em 10 de dezembro de 2013 (fls. 61/68) e a baixa dos autos ao juízo de origem para início do cumprimento de sentença se deu em 16 de maio de 2016 (fl. 82), portanto, em data posterior ao pedido de recuperação judicial.
+Destarte, está evidente que o crédito executado foi constituído após o pedido de recuperação judicial da agravante, não se sujeitando aos seus efeitos, isso porque é inviável a habilitação no plano de recuperação judicial desse crédito posteriormente constituído, nos termos do art. 49 da Lei nº 11.101/2005." (e-STJ fls. 202-203 g.n.).
+Assim, a pretensão recursal, em verdade, traduz-se em inconformismo com a decisão posta. Amolda-se à espécie, pois, o entendimento pretoriano consolidado quanto à desnecessidade de que o Tribunal, ao proferir sua decisão, aprecie expressamente todas as questões suscitadas pelas partes, bastando que no acórdão constem os fundamentos utilizados para se chegar à conclusão exteriorizada e esta apresente uma solução à questão jurídica que lhe foi submetida pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. JUÍZO PRÉVIO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ANÁLISE DO MÉRITO. POSSIBILIDADE. SÚMULA 123 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC. NÃO CONFIGURAÇÃO. PREQUESTIONAMENTO DE QUESTÕES CONSTITUCIONAIS. IMPOSSIBILIDADE.
+(..) 2. Quando o Tribunal de origem, ainda que sucintamente, pronuncia-se de forma clara e suficiente sobre a questão posta nos autos, não se configura ofensa ao artigo 535 do CPC. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte.
+3. (..)
+4. Agravo regimental desprovido. (AgRg no Ag 1265516/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 22/06/2010, DJe 30/06/2010, grifei)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NO ACÓRDÃO RECORRIDO. VÍCIO NÃO CONFIGURADO. MULTA ADMINISTRATIVA. NULIDADE POR CERCEAMENTO DE DEFESA. NECESSIDADE DE REVOLVIMENTO DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+1. Não há falar em omissão existente no acórdão quando o Tribunal local julga integralmente a lide, apenas não adotando a tese defendida pela recorrente, tampouco se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional. Precedentes.
+2. Diante dos fundamentos assentados no acórdão recorrido, verifica-se que rever o entendimento do Tribunal de origem quanto à inexistência de vícios no processo administrativo, que resultou na aplicação de multa à recorrente, demandaria reexaminar as provas constantes dos autos ou, ainda, interpretar as cláusulas contratuais firmadas entre as partes, medidas vedadas em recurso especial ante o óbice fundado nas Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1036898/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/06/2017, DJe 12/06/2017)
+Ademais no tocante à ofensa aos artigos 6º, § 4º, 7º, § 1º, 47 e 49 da Lei n. 11.101/2005 sob a alegação de que "a competência para intervir e/ou destinar o acervo patrimonial da Embargante é exclusiva do juízo da recuperação judicial, haja vista que está submetida a processo recuperacional"  sic  (e-STJ fl. 259), a orientação adotada pela Corte estadual coincide com a jurisprudência deste Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL - CUMPRIMENTO DE SENTENÇA - EMPRESA EM RECUPERAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO EM RAZÃO DA AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL E DA INCIDÊNCIA DA SÚMULA 83 DO STJ.
+IRRESIGNAÇÃO DA RECUPERANDA.
+1. Não há falar em violação do art. 535 do CPC/73 na hipótese em que a questão fora satisfatoriamente decidida pelo Tribunal a quo, fundamentadamente.
+2. De acordo com o art. 49 da Lei nº 11.101/2005, apenas os créditos existentes na data do pedido estão sujeitos à recuperação judicial. Assim, créditos posteriores ao pleito recuperacional não se submetem aos seus efeitos. Precedentes.
+3. Consoante a jurisprudência desta Corte Superior, "A simples utilização de instrumento processual previsto no ordenamento jurídico pátrio não demonstra, por si só, intuito protelatório, de modo que não tem cabimento a multa prevista no artigo 557, § 2º, do revogado Código de Processo Civil" (AgRg no AREsp 461.220/RS, Rel.
+Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2016, DJe 12/08/2016).
+4. Agravo regimental desprovido.
+(AgRg no AgRg no REsp 1494870/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/09/2016, DJe 14/09/2016)
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - ALEGAÇÃO DE QUE NO PLANO DE CREDORES HOUVE A INCLUSÃO INDEVIDA DE CRÉDITO FIDUCIÁRIO - COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA APRECIAR E DECIDIR SOBRE A NATUREZA DO CRÉDITO NO PROCESSO DE SOERGUIMENTO - DISCUSSÃO QUE EXTRAPOLA OS LIMITES DESTE INCIDENTE PROCESSUAL - MATÉRIA PENDENTE DE APRECIAÇÃO, EM SEDE DE AGRAVO DE INSTRUMENTO, PERANTE A CORTE ESTADUAL.
+INCONFORMISMO DO SUSCITANTE.
+1. Nos termos da disposição normativa contida no art. 49 da Lei nº 11.101/2005, apenas os créditos existentes na data do pedido estão sujeitos à recuperação judicial.
+2. Compete ao juízo da recuperação decidir se o crédito constituído anteriormente ao processo de soerguimento possui ou não natureza concursal e, também, concluir pela possibilidade de se postergar a execução da garantia, ante o princípio da preservação da empresa.
+Precedentes da Segunda Seção.
+3. O conflito, enquanto incidente processual, cinge-se tão-somente em fixar a competência do juízo da recuperação judicial em detrimento daquele que tramitou execuções individuais ajuizadas anteriormente ao deferimento do pedido de soerguimento, mormente se, como ocorre no caso, a matéria está sendo debatida, em grau de recurso, pela instância ordinária.
+4. Agravo regimental desprovido.
+(AgRg no CC 122.293/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 25/05/2016)
+Incide, pois, o óbice da Súmula 83/STJ.
+Desse modo, não comporta provimento a irresignação recursal.
+Ante o exposto, conheço do agravo para, desde logo, negar provimento ao recurso especial na parte conhecida.
+Advirta-se que "não cabe a majoração dos honorários advocatícios nos termos do § 11 do art. 85 do CPC de 2015 quando o recurso é oriundo de decisão interlocutória sem a prévia fixação de honorários" (AgInt no REsp 1.507.973/RS, Relator o Ministro João Otávio de Noronha, julgado em 19/5/2016 e publicado no DJe de 24/5/2016).
+Intimem-se.
