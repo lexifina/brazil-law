@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial, interposto por FLAVIO SCHMIDT CARLOS E OUTROS, com amparo na alínea "a" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 102, e-STJ):
+AGRAVO DE INSTRUMENTO. BRASIL TELECOM. CUMPRIMENTO DE SENTENÇA. VALOR PATRIMONIAL DA AÇÃO. BALANCETE MENSAL. OBSERVÂNCIA DO TITULO EXECUTIVO.
+A indenização dos dividendos e dos juros sobre capital proprio deve observar o calculo para diferença acionária determinado na fase de conhecimento por este Tribunal, adotando-se, portanto, o critério do valor patrimonial da ação fixado no balancete mensal da companhia da data da integralização, sob pena de violação à coisa julgada.
+Agravo de instrumento improvido.
+Foram opostos embargos de declaração (fls. 111/114, e-STJ), os quais foram desacolhidos (fls. 117/122,e-STJ).
+Nas razões do especial (fls. 126/133, e-STJ), o recorrente sustentou:
+(i) 535, incs. I e II, do CPC/73, ante a negativa de prestação jurisdicional, por não ter sido suprida a omissão suscitada nos aclaratórios; e
+(ii) 467 e 468, do CPC/73, porquanto a indenização referente aos dividendos e juros sobre capital próprio, pertinentes às ações de telefonia fixa, reconhecidas em demanda anterior, deve levar em consideração a mesma quantidade acionária deferida na ação de subscrição (15.828 e 15.876 ações), sob risco de ofensa à coisa julgada.
+Apresentadas contrarrazões (fls. 139/141, e-STJ) ao apelo extremo, o qual foi admitido na origem.
+É o relatório.
+Decido.
+A irresignação merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2.Quanto à apontada violação do artigo 535, I e II, do CPC/73, não assiste razão à recorrente, porquanto uníssona a jurisprudência deste STJ no sentido de que inocorre a mácula quando clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01.09.2011, DJe 06.09.2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01.09.2011, DJe 08.09.2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23.08.2011, DJe 31.08.2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16.08.2011, DJe 19.08.2011; e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09.08.2011, DJe 22.08.2011).
+3. Conforme entendimento jurisprudencial firmado por esta Excelsa Corte, conclui-se que uma vez fixado em demanda anterior, transitada em julgado, outro critério para as ações da telefonia fixa, não procede a fixação dos dividendos e juros sobre capital próprio com base no balancete mensal, porquanto trata-se do acessório seguir o principal. Nesse sentido:
+Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIVIDENDOS. TERMO FINAL. TRÂNSITO EM JULGADO. CÁLCULO. CRITÉRIO. COISA JULGADA. IMUTABILIDADE. NÃO PROVIMENTO. 1. Os dividendos são incluídos no cálculo até o trânsito em julgado da ação de conhecimento, data da conversão das ações em perdas e danos. 2. Nos casos em que estabelecido comando expresso no título exequendo, ainda que divergente do critério do balancete, esse deverá prevalecer, em respeito ao instituto da coisa julgada. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 955.077/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/05/2017, DJe 17/05/2017)
+4. Do exposto, dou parcial provimento ao recurso especial para determinar que os dividendos e juros sobre capital próprio, referentes à telefonia fixa, sejam calculados conforme os critérios estabelecidos na ação já transitada em julgado.
+Publique-se.
+Intimem-se.
