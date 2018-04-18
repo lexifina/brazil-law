@@ -1,1 +1,4 @@
-Art. 20-D. (VETADO).
+Art. 20-D. Sem prejuízo da utilização das medidas judicias para recuperação e acautelamento dos créditos inscritos, se houver indícios da prática de ato ilícito previsto na legislação tributária, civil e empresarial como causa de responsabilidade de terceiros por parte do contribuinte, sócios, administradores, pessoas relacionadas e demais responsáveis, a Procuradoria-Geral da Fazenda Nacional poderá, a critério exclusivo da autoridade fazendária:
+I - notificar as pessoas de que trata o caput deste artigo ou terceiros para prestar depoimentos ou esclarecimentos;
+II - requisitar informações, exames periciais e documentos de autoridades federais, estaduais e municipais, bem como dos órgãos e entidades da Administração Pública direta, indireta ou fundacional, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios;
+III - instaurar procedimento administrativo para apuração de responsabilidade por débito inscrito em dívida ativa da União, ajuizado ou não, observadas, no que couber, as disposições da Lei nº 9.784, de 29 de janeiro de 1999.
