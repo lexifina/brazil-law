@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANDRESSA SANTOS GOMES, apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que a paciente foi presa em flagrante pela suposta prática dos delitos tipificados nos arts. 33 e 35, c/c o art. 40, IV, todos da Lei n. 11.343/2006 e 16, parágrafo único, da Lei n. 10.826/2003, porque, em associação, trazia consigo e tinha em depósito 226 porções de crack, pesando 24,8g (vinte de quatro gramas e oito decigramas), e 1 bucha de cocaína, pesando 2,4g (dois gramas e quatro decigramas), e ainda possuía 1 revólver marca Rossi, calibre .38, com numeração suprimida, contendo 5 munições intactas, sem autorização e em desacordo com a determinação legal. Após, a custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, que denegou a ordem nos termos da seguinte ementa (e-STJ fl. 207):
+HABEAS CORPUS . TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. RECEPTAÇÃO. PRISÃO PREVENTIVA. LEGALIDADE DA PRISÃO. GARANTIA DA ORDEM PÚBLICA. QUESTÕES JÁ ENFRENTADAS. EXCESSO DE PRAZO. INOCORRÊNCIA.
+Trazendo a impetração reiteração de fundamento contido em habeas corpus anteriormente julgado por esta Câmara Criminal (nº [CPF]), resta conhecido o writ apenas na parte em que não alcançado por tal decisão.
+Mostra-se inaceitável a extrapolação dos prazos processuais, se decorrente de inércia ou negligência do juízo, devidamente demonstradas na impetração, o que não ocorre no caso vertente.
+A alteração legislativa aventada, com o acréscimo, pelo Estatuto da Primeira Infância (Lei nº 13.257/2016) do inciso V ao artigo 318 do Código de Processo Penal, contemplando a possibilidade da concessão de prisão domiciliar à mulher com filho de até 12 anos de idade incompletos, não tem a consequência de, diante da existência de prole até tal idade, ser obrigatória a adoção de tal providência. Não fosse assim e teria o legislador tornado imperativo o deferimento do benefício, o que não fez.
+Por isso que, não vindo aos autos dado algum que evidencie ser necessária a colocação da paciente em prisão domiciliar, não se está diante de hipótese que autorize a providência lá contemplada.
+ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+Na presente impetração, a defesa alega que a paciente possui um filho de 3 anos de idade, razão pela qual, a teor do art. 318, V, do Código de Processo Penal, poderá o Juiz substituir a prisão preventiva por prisão domiciliar.
+Aduz, ainda, que o decreto constrito está carente de fundamentação, não se fazem presentes os motivos autorizadores insertos no art. 312 do Código de Processo Penal e que há excesso de prazo para a formação da culpa.
+Outrossim, alega nulidade da prisão, pois os policiais militares vasculharam o domicílio da paciente sem apresentação de mandado de busca e apreensão.
+Diante disso, pleiteia a defesa, em tema liminar, "seja determinado a revogação da prisão preventiva decretada em desfavor da Paciente ANDRESSA SANTOS GOMES, em razão da irregularidade de sua decretação, em razão da NULIDADE SUSCITADA - INVIOLABILIDADE DO DOMICÍLIO - com fulcro no art. 5.º, inciso XI, da CF/88 e art. 245, do CPP, uma vez que os policiais civis adentraram em ambiente domiciliar, sem autorização do proprietário da casa, que sequer encontrava-se no local e sem portar o devido MBA, o que faz com a prova seja considerada ABSOLUTAMENTE NULA" (e-STJ fl. 64). No mérito, busca a revogação definitiva da prisão preventiva.
+Liminar indeferida às e-STJ fls. 174/177.
+Informações prestadas às e-STJ fls. 182/186 e 204/206.
+Deferido o pedido de diligências formulado pelo Ministério Público Federal às e-STJ fl. 198.
+O Ministério Público Federal manifestou-se pela concessão da ordem, para substituir a prisão preventiva pela prisão domiciliar (e-STJ fls. 208/217).
+É, em síntese, o relatório.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem e conforme consta do parecer ministerial, em 2/3/2018 foi proferida sentença condenatória pelo Juízo de piso, aplicando à ora paciente a pena de 11 anos de reclusão, em regime inicial fechado, e multa, pela prática dos crimes descritos na denúncia.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
