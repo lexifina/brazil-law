@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2193185-76.2017.8.26.0000).
+Consta dos autos que, no dia 8.7.2017, o paciente, juntamente com outro, foi preso em flagrante delito pela suposta prática das infrações previstas no art. 33, caput, e no art. 35, caput, ambos da Lei n. 11.343/2006 - Processo n. 0000600-64.2017.8.26.0571, da 1ª Vara Criminal da Comarca de Tatuí/SP.
+Em 9.7.2017, a custódia flagrancial foi convertida em preventiva (fls. 266/267).
+Requerida a revogação da constrição provisória, o pleito restou indeferido em 25.9.2017 e 14.12.2017 (fls. 52/54).
+Inconformada, a defesa impetrou prévio writ no Tribunal de origem, cuja ordem restou não conhecida, em 25.10.2017, nos termos da seguinte ementa (fl. 43):
+"HABEAS CORPUS. Reiteração. Conhecimento. Impossibilidade. - Impossível o conhecimento de habeas corpus que configura mera reiteração de outro writ já analisado em favor do paciente."
+Daí o presente mandamus, no qual o impetrante aduz, inicialmente, "que o presente habeas corpus não se trata de mera reiteração de pedido porquanto a presente impetração não ataca o decreto de prisão, mas sim a decisão que indeferiu a liberdade provisória formalizada pelo paciente, a qual se compõe de novos e distintos fundamentos" (fl. 11).
+Alega que carece de fundamentação idônea o decreto de prisão preventiva do acusado, uma vez que calcado em elementos genéricos e na gravidade abstrata do delito.
+Sublinha que não se encontram presentes os requisitos previstos no artigo 312 do Código de Processo Penal a supedanear o encarceramento.
+Afirma que o acusado é primário, possui bons antecedentes, labor lícito - porteiro, família constituída e residência fixa no distrito da culpa.
+Sustenta, ainda, a ocorrência de indevida letargia processual, visto que o paciente está custodiado há mais de 5 (cinco) meses e 20 (vinte) dias, sem que tenha sido encerrada a instrução criminal.
+Requer, liminarmente e no mérito, seja expedido alvará de soltura em favor do paciente, a fim de que lhe seja permitido responder ao processo em liberdade até o trânsito em julgado de eventual sentença condenatória, com extensão do efeitos ao corréu [NOME], nos termos do artigo 580 do Código de Processo Penal.
+Ajuizado este writ no período de férias forenses, o Vice-Presidente desta Corte, Ministro Humberto Martins, indeferiu o pedido liminar (fls. 514/517).
+Com vista dos autos, o Ministério Público Federal opinou, em parecer da lavra do Subprocurador-Geral Hugo Gueiros Bernardes Filho, pela denegação da ordem (fls. 521/528).
+Em petição de fls. 532/544, a defesa reitera os argumentos sustentados na inicial do mandamus, destacando "que o paciente não está mais segregado pelas razões vertentes na decisão que converteu sua prisão em flagrante em preventiva, mas sim por decisões posteriores, proferidas pelo Juízo de origem que indeferiram o pedido de revogação da custódia a partir de fundamentos distintos da segregação cautelar originária" (fl. 536).
+Pugna pelo "desacolhimento do Parecer Ministerial lavrado às e-STJ Fls. 521/528" e pela concessão da ordem (fl. 544).
+É o relatório.
+Decido.
+Inicialmente, cumpre ressaltar que estes autos foram a mim distribuídos por prevenção ao HC n. 410.945/SP, impetrado em prol do ora paciente e do corréu, o qual restou indeferido liminarmente, em 8.8.2017, com espeque no enunciado n. 691 do Supremo Tribunal Federal.
+Dos assentamentos eletrônicos deste Superior Tribunal, observa-se, ainda o ajuizamento do HC n. 425.508/SP, impetrado em favor do ora paciente, objetivando sua liberdade, alegando excesso de prazo para encerramento da instrução criminal, bem como ausência de fundamentação idônea do decreto segregatório, referente ao Processo n. 0000600-64.2017.8.26.0571, da 1ª Vara Criminal da Comarca de Tatuí/SP, no qual a Sexta Turma deste Superior Tribunal denegou a ordem, em 20.3.2018, nos termos da seguinte ementa:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E RESPECTIVA ASSOCIAÇÃO. PRISÃO CAUTELAR. EXCESSO DE PRAZO. INOCORRÊNCIA. FUNDAMENTAÇÃO DA CUSTÓDIA. GRAVIDADE CONCRETA. PERICULOSIDADE. ORDEM PÚBLICA. INEXISTÊNCIA DE ILEGALIDADE MANIFESTA. ORDEM DENEGADA.
+1. A questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto.
+2. In casu, muito embora o paciente esteja preso desde julho de 2017 (há aproximadamente 8 meses), trata-se de processo que apresenta certa complexidade, tendo em vista a pluralidade de réus e a necessidade de expedição de cartas precatórias. Tal contexto justifica o andamento do feito, que é compatível com as particularidades da causa, não se tributando, pois, aos órgãos estatais indevida letargia.
+3. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade concreta dos fatos delituosos, cifrada na grande quantidade de droga apreendida (10 tijolos de maconha, com peso aproximado de 10 quilos).
+4. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+5. Ordem denegada.
+Verifica-se que tanto o presente writ quanto o supramencionado HC n. 425.508/SP têm os mesmos números da ação penal e pedidos. Assim, evidenciado que o pleito deduzido neste writ tem objeto idêntico ao de habeas corpus anteriormente impetrado perante esta Corte e já apreciado, configura-se a inadmissível reiteração, de acordo com a jurisprudência pacífica deste Tribunal.
+Ressalte-se que o próprio Tribunal Estadual não conheceu do mandamus ora impugnado (HC n. 2193185-76.2017.8.26.0000), alegando que o writ se trata de mera reiteração de outro habeas corpus já analisado em favor do paciente. A Corte de origem pontuou que "ambos os pedidos - revogação da prisão preventiva, concedendo-se a liberdade provisória, e relaxamento da prisão cautelar decorrente de excesso de prazo para a formação da culpa - foram formulados, com os mesmos fundamentos, e já analisados no habeas corpus acima mencionado, descabendo a este órgão julgador conhecer de pedido acerca do qual já se manifestou em oportunidade anterior, tão próxima no tempo". Além disso, destacou que "nenhum fundamento novo foi ventilado, inexistindo, portanto, razão para nova decisão judicial" (fl. 44).
+Diante do exposto, com fundamento no art. 34, XVIII, "a", e XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, arquivem-se os autos.
