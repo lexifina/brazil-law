@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por ESTRATEGIA COMERCIO E SERVICOS LTDA. e OUTRO contra a decisão de fls. 969/970, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que:
+ " ..  ao contrário do que consta na r. decisão, o recurso especial foi interposto dentro do prazo de 15 dias úteis determinado no artigo 1.003, parágrafo quinto, do Código de Processo Civil, tendo em vista a suspensão dos prazos processuais em todos os órgãos do Poder Judiciário entre os dias 20/12/2016 e 20/01/2017, nos termos da Resolução CNJ 244 de 12/09/2016 (doc. anexo), e que no dia 25/01/2017 não houve expediente no TJ/SP, em virtude do feriado municipal na cidade de São Paulo, conforme Lei Municipal nº 7008/67 e artigo 10 da Lei nº 14.485/2007 (doc. anexo), o que foi expressamente citado pelos Embargantes nas razões recursais." (fl. 975).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Embora o entendimento jurisprudencial adotado no Código de Processo Civil de 1973 fosse no sentido de admitir a comprovação posterior da tempestividade, essa orientação não mais persiste, em razão de disposição expressa do Código de Processo Civil vigente, em seu art. 1.003, § 6.º, do qual se extrai que: "O recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso" (§ 6.º, art. 1.003). Ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento idôneo, apto a comprová-la, ser encartado aos autos no momento da interposição do recurso que se pretende ver conhecido.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. PRINCÍPIO DA PRIMAZIA DO MÉRITO. ART. 932, PARÁGRAFO ÚNICO, DO CPC/15. INTIMAÇÃO DO RECORRENTE. INAPLICABILIDADE. REGRA ESPECIAL. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. OBRIGATORIEDADE. ART. 1.006, § 3º, DO CPC/15. DECISÃO MANTIDA.
+1. Na sistemática do CPC/73, era possível a demonstração da tempestividade em virtude de feriado local ou suspensão do expediente, nos termos do entendimento do STF (RE 626.358 AgR, Rel. Ministro Cezar Peluso, Plenário) e do STJ (AgRg no AREsp 137.141/SE, Rel. Min. Antonio Carlos Ferreira, Corte Especial).
+2. Por sua vez, o art. 1.003, § 6º, do CPC/15 impõe ao recorrente o ônus de comprovar a ocorrência de feriado local ou de suspensão do expediente no ato de interposição do recurso.
+3. Não obstante o princípio da primazia do mérito, o próprio Código de Processo Civil de 2015 estabeleceu expressa obrigatoriedade de comprovação de feriado local ou suspensão do expediente, regra específica que prevalece sobre a regra geral.
+4. Não comprovada a existência de feriado local ou suspensão do expediente no ato da interposição do recurso, nos termos do § 6º do art. 1.003 do CPC/15, deve o relator considerar inadmissível o recurso, independente de intimação, não se aplicando o art. 932, parágrafo único.
+5. Agravo interno no agravo em recurso especial não provido."
+(AgInt nos EDcl no AREsp 1016839/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/06/2017, DJe 29/06/2017).
+Nessa linha, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deveria ter sido demonstrada por documento idôneo, no ato da interposição do recurso, não bastando a mera menção ao feriado local nas razões recursais.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
