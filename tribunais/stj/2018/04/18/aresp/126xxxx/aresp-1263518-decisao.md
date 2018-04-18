@@ -1,0 +1,27 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação Criminal n. 1.0024.14.278307-5/001).
+Consta dos autos que o agravado foi condenado à pena de 1 ano e 8 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, e § 4º, da Lei n. 11.343/2006.
+Nas razões do recurso especial, o ora agravante aponta violação do art. 33, § 4º, da Lei n. 11.343/2006, sob o argumento de que "o acusado não preenche todas as condições para a concessão da benesse nele insculpida, quais sejam: "que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa"" (fl. 489).
+Considera que, "não obstante tecnicamente primário, constata-se que o réu se dedica a atividades criminosas, conforme se infere dos seis boletins de ocorrência (REDS) juntados aos autos, nos quais contam o acusado [NOME] como autor de crimes de tráfico de drogas, nas datas de 06/02/2011 (fls. 91/94); 17/12/2011 (fls. 95/98); 24/04/2011 (fls. 116/122); 21/10/2012 (fls. 99/102); 13/08/2014 (fls. 103/106) e 13/05/2013 (fls. 107/111)" (fl. 490).
+Pondera, por fim, que "o embargado dedicava-se de forma contumaz ao crime, aproximando-se da figura do delinqüente profissional, o que torna inviável a aplicação da causa de diminuição de pena em apreço" (fl. 500).
+Requer o provimento do recurso, para que seja afastada a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+O recurso especial foi inadmitido no juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivo pelo qual passo à análise do recurso especial.
+A Corte de origem assim fundamentou a incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, in verbis (fls. 445-446):
+Na terceira fase, penso que o denunciado faz jus ao benefício previsto no § 4º do art. 33 da Lei 11/343/A6. O sentenciado é primário, como registrei. Os policiais militares realmente informam que já conheciam o réu pelo envolvimento anterior com o tráfico. No entanto, tenho que são vagos esses apontamentos.
+Vejo que o agente da Polícia Civil esclarece que, em estudo realizado acerca da vida pregressa do réu, apenas duas pessoas não identificadas o indicaram como traficante - depoimento em áudio e vídeo.
+Então, por entender que são insuficientes as informações trazidas sobre a dedicação do sentenciado a atividades criminosas, creio que deve incidir a referida benesse, em seu patamar mediano, porque se trata da apreensão de crack, droga de elevado potencial nocivo. Assim, fixo a pena intermediária em 02 anos e 06 meses de reclusão e 250 dias/multa.
+Com efeito, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+No caso, verifico que o Tribunal de origem entendeu devidamente preenchidos todos os requisitos autorizadores da redução da pena, havendo salientado que o recorrido é tecnicamente primário, bem como que não há elementos concretos nos autos que permitam a inequívoca conclusão de que se dedicasse a atividades delituosas ou de que integrasse organização criminosa.
+Nesse contexto, conforme concluiu a Corte estadual, "são insuficientes as informações trazidas sobre a dedicação do sentenciado a atividades criminosas" (fl. 446).
+Dessa maneira, para entender de modo diverso, acolhendo a alegação de que o acusado se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência essa, como cediço, vedada em recurso especial, consoante o disposto na Súmula n. 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+ ..
+- Tendo o Tribunal a quo, ao apreciar a apelação, entendido que o agravante preenche os requisitos necessários para a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei de Drogas, chegar a conclusão diversa implica em exame aprofundado de provas, vedado em sede de especial, a teor da Súmula n. 7 do STJ.
+- A alteração do que restou consignado na instância ordinária, de maneira a permitir a readequação do redutor, demandaria o reexame do conjunto fático-probatório dos autos, o que é inviável na via especial.
+Agravo regimental desprovido.
+(AgRg no AREsp n. 425.613/PR, Rel. Ministro Ericson Maranho (Desembargador convocado do TJ/SP), 6ª T., DJe 17/4/2015).
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 3º do CPP, e no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Publique-se e intimem-se.
