@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 6, p. 10):
+    "CONCURSO PÚBLICO. DEPARTAMENTO DE POLÍCIA FEDERAL. EXAME PSICOTÉCNICO. PERFIL PROFISSIOGRÁFICO SIGILOSO E SEM PREVISÃO LEGAL. CRITÉRIOS SUBJETIVOS. MOTIVOS E MOTIVAÇÃO INSUFICIENTES.
+    1. "Este Superior Tribunal de Justiça já pacificou o entendimento segundo o qual o término do prazo de validade do concurso não implica, por si só, em perda do objeto, carência de ação ou inexistência de pressuposto processual" (EDcl no REsp 653.445/BA, Min. Nefi Cordeiro, 6T, Dje 12/03/2015).
+    2. Provimento à apelação para anular sentença em que extinta ação na qual se questiona exame psicotécnico de concurso público para Agente de Polícia Federal regido pelo Edital n. 15/2009 em razão da conclusão do certame sem participação do autor no curso de formação.
+    3. Prosseguimento no julgamento do mérito com base no art. 515, § 3º, do CPC.
+    4. Em sede de juízo de repercussão geral, o Supremo Tribunal Federal reafirmou sua jurisprudência pela necessidade de previsão em lei, em sentido estrito, cristalizada na Súmula 686, e de critérios objetivos previamente divulgados, para aplicação de exame psicotécnico (Al 758.533 QO-RG/MG, Rel. Ministro Gilmar Mendes, Pleno, DJe de 13/08/2010).
+    Pela jurisprudência do STF, "é necessário um grau mínimo de objetividade e de publicidade dos critérios que nortearão a avaliação psicotécnica. A ausência desses requisitos torna o ato ilegítimo, por não possibilitar o acesso à tutela jurisdicional para a verificação de lesão de direito individual pelo uso desses critérios" (MS 30822/DF, Min. Ricardo Lewandowski, Segunda Turma, DJe de 26/06/2012).
+    5. Na linha da jurisprudência deste Tribunal: "3. O exame psicológico não pode examinar o temperamento ou a compatibilidade de traços de personalidade com o cargo ou atribuições do cargo a ser exercido, restringindo-se a aferir se o candidato tem transtornos cognitivos e/ou comportamentais ou patologias mentais. 4. As avaliações de características da personalidade são altamente subjetivas, insuscetíveis de determinação e medição, válida para uma pessoa no decorrer de toda sua vida e em todas as circunstâncias, diga-se, são características de toda pessoa. ...7. No caso dos autos [...] não há parâmetro no edital dos critérios e do perfil profissiográfico almejado, sendo, portanto, inócuo se determinar que o candidato se submeta a novo exame" (EIAC 0039621-09.2009.4.01.3400/DF, Des, Federal Néviton Guedes, 3S, 21/10/2015).
+    6. Pedido julgado procedente para afastar a exigência do exame psicotécnico e possibilitar a participação do autor em curso de formação, assim como ser nomeado e empossado, caso aprovado."
+    Os embargos de declaração opostos foram rejeitados (eDOC 6, p. 27).
+    No recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se ofensa aos arts. 5º, caput; e 37, II; do Texto Constitucional.
+    A Presidência do TRF/1ª Região inadmitiu o recurso com base na ofensa indireta ao Texto Constitucional (eDOC 6, p. 64-65).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+     Observa-se que divergir do entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, e das normas editalícias previstas no certame, o que encontra óbice na apreciação do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 454 do STF. Sobre o tema, cito os seguintes precedentes desta Corte:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO: SUBMISSÃO A NOVO TESTE. OBSERVÂNCIA DE NORMAS DO EDITAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO. (ARE 980.437, Rel Min. Cármen Lúcia, DJe 04.08.2016).
+    “Agravo regimental no recurso extraordinário. 2. concurso público. Exame psicotécnico. Critérios subjetivos. 3. Necessidade do reexame do conjunto fático-probatório. Impossibilidade. Súmula 279 do STF. 4. Necessidade da interpretação das cláusulas do edital. Impossibilidade. Súmula 454 do STF. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (RE 930.646, Rel Min. Gilmar Mendes, DJe 02.03.2016).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC.
+    Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 18 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
