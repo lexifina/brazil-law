@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça local.
+Depreende-se dos autos que o Juízo da Vara de Execuções Penais da Comarca de Novo Hamburgo condedeu ao recorrido o benefício do livramento condicional (e-STJ fls. 62/63).
+Irresignado, o ora recorrente interpôs recurso de agravo em execução, o qual foi provido, por maioria, nos termos da seguinte ementa (e-STJ fl. 100):
+AGRAVO EM EXECUÇÃO. CRIME CONTRA O PATRIMÔNIO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO DESATENDIDO.
+O livramento condicional poderá ser concedido ao condenado à pena privativa de liberdade igual ou superior a dois anos que a) cumpra mais de um terço da reprimenda, se primário e ostentar bons antecedentes, ou mais da metade, quando reincidente em crime doloso (comum); b) comprove comportamento satisfatório durante a execução da pena, bom desempenho no labor que lhe foi atribuído e aptidão para prover a própria subsistência mediante trabalho honesto e; c) repare o dano causado pela infração, salvo efetiva impossibilidade de fazê-lo. Em se tratando de crime doloso, cometido com violência ou grave ameaça à pessoa, ainda é cogente a presença de condições pessoais que façam presumir que o liberado não voltará a delinquir.
+No caso em apreciação, o reeducando não apresenta mérito subjetivo para gozar do último benefício antes de sua plena liberdade.
+Benefício cassado.
+AGRAVO EM EXECUÇÃO PROVIDO, POR MAIORIA.
+Interpostos embargos infringentes pela defesa, o recurso foi acolhido, restabelecendo a decisão agravada. O acórdão recebeu a seguinte ementa (e-STJ fl. 139):
+EMBARGOS INFRINGENTES. AGRAVO EM EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO.
+A redação do art. 112 da LEP exige tão somente a implementação de dois requisitos para o livramento condicional: o cumprimento do lapso temporal (objetivo) e o atestado de bom comportamento carcerário (subjetivo). Somente elementos concretos das avaliações psicossociais poderiam ensejar o indeferimento, o que não se vislumbra no caso. Preenchidos os dois requisitos, o apenado faz jus ao benefício. Ademais, o cometimento de faltas graves durante o cumprimento da pena acarreta a instauração de Procedimento Administrativo Disciplinar, que pode inclusive conduzir ao rebaixamento da conduta carcerária, entre outras sanções judiciais. Faltas pretéritas, entretanto, não podem servir como óbice à concessão do benefício indefinidamente, ainda mais quando preenchidos os seus requisitos legais.
+EMBARGOS INFRINGENTES ACOLHIDOS.
+Irresignado, o Ministério Público interpôs recurso especial alegando contrariedade ao art. 83, III, do Código Penal, além de dissídio pretoriano. Argumentou que, apesar do adimplemento do lapso temporal, o recorrido não preencheu o requisito subjetivo para o livramento condicional, visto que não se pode desconsiderar as faltas disciplinares praticadas pelo acusado.
+Contraminuta às e-STJ fls. 175/181.
+O Ministério Público Federal manifestou-se pelo provimento do agravo (e-STJ fls. 201/203).
+É o relatório. Decido.
+Não assiste razão ao recorrente.
+De fato, este Tribunal Superior firmou entendimento de que a falta disciplinar de natureza grave, conquanto não interrompa o prazo para a obtenção do livramento condicional, pode ser utilizada para justificar o não preenchimento do requisito subjetivo. No entanto, o cometimento de falta grave não impede, por si só, a concessão da referida benesse. Há de ser analisado, pelo magistrado, o comportamento global do reeducando durante toda a execução da reprimenda.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83, III, DO CP. REQUISITO SUBJETIVO. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO. DESCABIMENTO. ANÁLISE DE DIREITO LOCAL. PRESCINDIBILIDADE. SÚMULA 280/STF. NÃO INCIDÊNCIA. DUPLA PUNIÇÃO PELO MESMO FATO. NÃO OCORRÊNCIA. MATÉRIA CONSTITUCIONAL. ANÁLISE. VIA INADEQUADA.
+1. O objeto do recurso especial cingiu-se à possibilidade de limitação temporal para a averiguação dos requisitos subjetivos inerentes à concessão do livramento condicional, sendo despicienda a análise de direito local para a solução da demanda. Não incidência da Súmula 280/STF.
+2. O fato de a Corte de origem ter colocado limite temporal quando da análise do requisito do comportamento satisfatório durante a execução da pena, por si só, é suficiente para caracterizar a violação do art. 83, III, do Código Penal.
+3. Na progressão de regime, a interrupção do prazo é sanção obrigatória àquele que comete falta grave. Esta, entretanto, não impede peremptoriamente a concessão do livramento condicional. Pode o magistrado, dentro de seu livre convencimento motivado, entender ter havido comportamento satisfatório durante a execução da pena e conceder o benefício, apesar da falta grave. E, nessa análise para fins de livramento condicional, não é aferida apenas a existência de falta grave, como ocorre no caso da progressão, mas é levado em consideração todo o contexto da execução da pena. Inexiste, assim, dupla punição pela mesma falta grave.
+4. No caso concreto, o Juízo da execução entendeu que o comportamento carcerário não recomendava a concessão da liberdade condicional não apenas em razão da prática de falta grave, mas também por causa de outras circunstâncias que, embora a ela relacionadas, com ela não se confundem, tais como o fato de ter sido cometida no ano anterior ao pedido de livramento condicional e quando estava o reeducando usufruindo do benefício de saída temporária.
+5. É inviável a análise de matéria constitucional, ainda que para fins de prequestionamento.
+6. Agravo regimental improvido. (AgInt no REsp 1580988/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/05/2016, DJe 19/05/2016, grifei.)
+Na hipótese sub judice, a Corte de origem, analisando as peculiaridades do caso concreto, entendeu que o ora recorrido teria preenchido o requisito subjetivo necessário para a concessão do livramento condicional.
+Desse modo, tenho que a mudança da conclusão alcançada no acórdão impugnado exige o reexame de fatos e provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmula n. 7/STJ e Súmula n. 279/STF).
+Confira-se:
+HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. EXECUÇÃO PENAL. FALTA GRAVE. INTERRUPÇÃO DO LAPSO TEMPORAL PARA O LIVRAMENTO CONDICIONAL. IMPOSSIBILIDADE. REQUISITO SUBJETIVO. AUSÊNCIA. FUNDAMENTAÇÃO CONCRETA. PRECEDENTES. WRIT NÃO CONHECIDO.
+1. Tratando-se de habeas corpus substitutivo do recurso próprio, inviável o seu conhecimento.
+2. Não é possível interromper-se o lapso temporal para concessão de livramento condicional em razão do cometimento de falta grave. Precedentes.
+3. Quanto ao requisito subjetivo, não há flagrante ilegalidade a ser reconhecida. O Tribunal de origem procedeu a uma análise do mérito do condenado e entendeu incabível a concessão do benefício. Trata-se de matéria de fato, não de direito, e a inversão do decidido depende de um exame amplo e profundo da conduta carcerária do sentenciado.
+4. Writ não conhecido. (HC 364.570/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/09/2016, DJe 30/09/2016.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
