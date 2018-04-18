@@ -1,0 +1,27 @@
+DECISÃO
+ROSELI DIAS DE ALMEIDA, paciente neste habeas corpus substitutivo de recurso ordinário, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2222463-25.2017.8.26.0000.
+Depreende-se dos autos que a paciente foi presa em flagrante em 31/10/2017 e responde pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. A prisão em flagrante foi convolada em preventiva pelo Juízo da 3ª Vara Criminal da Comarca de Limeira - SP. O Tribunal local, por sua vez, denegou o habeas corpus lá impetrado.
+Neste writ, a impetrante alega, resumidamente, a ocorrência de constrangimento ilegal, ao argumento de que "não há dados que demonstrem que a liberdade do agente venha causar prejuízo à segurança social, à eficácia das investigações e à execução de eventual sentença condenatória" (fl. 3). Ressalta, no particular, que não está evidenciada nenhuma das hipóteses previstas no art. 312 do Código de Processo Penal
+Requer, assim, a revogação da prisão ante tempus.
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pela substituição da prisão preventiva por medidas cautelares diversas.
+Decido.
+O Magistrado de primeira instância, ao convolar o flagrante em prisão preventiva, destacou que:
+ ..  A prisão se deu porque os guardas civis municipais que a efetuaram diligenciavam pelo bairro local dos fatos quando uma pessoa não identificada apontou a residência da autuada como local de venda de drogas. Contra o mesmo imóvel, já havia denúncia do comércio ilícito de entorpecentes. Os GCMs, então, pediram autorização da autuada para adentrar a residência, tendo recebido a devida permissão. Já na parte da frente da residência, onde funciona um bar, foi encontrada uma porção de maconha. No interior do imóvel foi encontrado um tijolo de maconha. A autuada disse que guardava a droga para uma pessoa de pré nome Vinicius, pessoa contra a qual também existe denúncia de tráfico de drogas, mas Vinicius não foi abordado.  ..  A autuada possui antecedente criminal por estelionato.VEC 0.972.356  ..  (fl. 35, grifei).
+Na sequência, asseverou que:
+ ..  A quantidade de drogas apreendidas - 421,39 gramas - demonstra que as mesmas se destinavam ao comércio maldito.  ..  A quantidade de drogas apreendidas, conforme laudo de constatação preliminar juntado aos autos denota que a autuada tem na traficância o seu meio de vida, uma vez que não comprovou trabalho ou emprego lícito. O fato de a autuada dizer que apenas guardava a droga para terceira pessoa, não exclui a tipicidade do delito.  ..  A gravidade da conduta da autuada é inconteste. Não há como se falar que uma pessoa que tem em sua posse cerca de meio quilo de maconha não coloca em risco a ordem pública  ..  (fls. 35-36, destaquei).
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+3. No caso dos autos, com a paciente foram apreendidos aproximadamente 500 gramas de maconha, o que justifica sua segregação cautelar, para garantia da ordem pública, pois esta Corte possui entendimento pacificado no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva  ..  (HC n. 381.655/AC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/5/2017, sublinhei).
+ ..
+2. Caso em que a paciente foi surpreendida portando dois tijolos contendo aproximadamente 500 gramas de maconha, além de balança de precisão e R$393,00 em notas contadas.
+3. O decreto constritivo encontra-se fundamentado na garantia da ordem pública, considerando a grande quantidade de substância entorpecente apreendida, circunstância essa que aponta a gravidade concreta dos fatos e a periculosidade da acusada  ..  (HC n. 336.828/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5  T., DJe 1º/2/2016, sublinhei).
+Além da quantidade da droga apreendida, o Juízo singular também apontou que "A autuada possui antecedente criminal por estelionato.VEC 0.972.356" (fl. 35).
+A esse respeito, "Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, embora não possam exasperar a pena-base (Súmula 444/STJ), constituem indicativos de risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva para garantia da ordem pública" (HC n. 396.145/PB, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 20/6/2017, destaquei).
+Por fim, quanto ao pleito ministerial, é imperioso consignar que o Juízo de primeiro grau apontou que "A quantidade de drogas apreendidas, conforme laudo de constatação preliminar juntado aos autos denota que a autuada tem na traficância o seu meio de vida" (fl. 36, grifei).
+Nesse sentido:
+ ..
+4. Ademais, ao indeferir a concessão de liberdade provisória postulada pela defesa, a Magistrada destacou a apreensão de drogas e de balança de precisão em poder da ré, circunstâncias que, por certo, evidenciam a dedicação da investigada ao comércio ilício de entorpecentes e que, somadas aos indícios de seu envolvimento com a associação criminosa, reforçam a necessidade de sua custódia preventiva.
+5. Por idênticas razões, as demais medidas cautelares não se prestariam ao acautelamento da ordem pública.
+6. Ordem denegada (HC n. 406.744/GO, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 21/11/2017, destaquei)
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
