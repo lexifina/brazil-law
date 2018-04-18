@@ -1,0 +1,15 @@
+Decisão:
+    Trata-se de recurso extraordinário interposto contra acórdão da Terceira Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AÇÃO POPULAR. CERTIFICADO DE ENTIDADE BENEFICENTE DE ASSISTÊNCIA SOCIAL (CEBAS). MEDIDA PROVISÓRIA N.º 446/2008.
+    1. A Medida Provisória n.º 446/2008, que dispôs sobre a certificação das entidades beneficentes de assistência social, foi rejeitada pelo Congresso Nacional, o qual não editou ato disciplinando as relações jurídicas estabelecidas no período de sua vigência (art. 62, § 11, da CF), tornando aplicáveis as respectivas disposições.
+    2. A possibilidade de o Poder Judiciário apreciar a presença dos requisitos de relevância e urgência, previstos no art. 62 da Constituição Federal, é admitida em casos excepcionais de abuso da discricionariedade do Presidente da República. Não sendo essa a hipótese dos autos, o que se infere pelos motivos que ensejaram sua edição, não há invalidade a ser reconhecida.
+    3. Tampouco há inconstitucionalidade material, pois a expedição de certificado pelo Conselho Nacional de Assistência Social, no período de vigência da referida Medida Provisória, não exime a entidade beneficiária de implementar os demais requisitos legais para fruição da imunidade prevista no art. 195, § 7º, da Constituição Federal.
+    4. Inexistindo elementos suficientes para formação de qualquer juízo acerca do efetivo implemento ou não dos requisitos previstos na legislação de regência, tal análise deve se dar na via administrativa, oportunamente”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º; 37; 62, §§ 3º e 11; 170; 195, caput, e §7º, todos da Carta. Sustenta que: (i) há inconstitucionalidade formal e material do posteriormente rejeitado artigo 37 da Medida Provisória nº 446/2008; (ii) Não é possível a manutenção da validade dos Certificados de Entidade Beneficente de Assistência Social (CEBAS) deferidos com amparo na Medida Provisória nº 446/2008, após a sua rejeição pelo Congresso Nacional.
+    A pretensão recursal não merece prosperar. O Plenário do Supremo Tribunal Federal, no julgamento do RE 566.622-RG, decidiu que somente lei complementar pode estabelecer requisitos para a concessão de imunidade tributária. Naquela assentada, foi fixada a seguinte tese, para fins de repercussão geral: “Os requisitos para o gozo de imunidade hão de estar previstos em lei complementar”.
+    De modo que, com o julgamento do mencionado recurso sob a sistemática da repercussão geral, os requisitos necessários para a fruição da imunidade são aqueles previstos no art. 14, do Código Tributário Nacional. Em consequência, todos os requisitos elencados em lei ordinária, a exemplo da exigência do CEBAS, são inválidos, em razão de inconstitucionalidade formal.
+    Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 18 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
