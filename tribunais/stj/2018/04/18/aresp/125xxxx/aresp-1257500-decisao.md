@@ -1,0 +1,42 @@
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA, DE FORMA ESPECÍFICA E FUNDAMENTADA, TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo interposto por [NOME] ANDRÉ LIMA e [NOME] DA [NOME] FERNANDES contra decisão proferida pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+O MM. Juízo de 1º Grau condenou os ora recorrentes como incursos nas sanções do 157, § 2º, incisos I e II, do Código Penal (fls. 358-372).
+O eg Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal ali interposto pela Defesa dos recorrentes, mas deu provimento ao recurso do corréu (fls. 518-530). Eis a ementa do acórdão:
+"ROUBO CIRCUNSTANCIADO. PROVAS. NÃO RATIFICADAS EM JUÍZO. ART. 155 DO CPP. ABSOLVIÇÃO. DOSIMETRIA. CULPABILIDADE. CONDUTA SOCIAL.
+I - Imperiosa a absolvição do réu nos termos do art. 155, do Código de Processo Penal quando os elementos de informação produzidos na fase extrajudicial não restaram corroborados em juízo, sob o respaldo dos princípios constitucionais do contraditório e da ampla defesa.
+II - Merece maior reprovação o roubo praticado contra menores de idade, dada a acentuada vulnerabilidade das vítimas.
+III - Correta a análise desfavorável da conduta social do réu que durante o cumprimento de pena em regime domiciliar pratica novo fato criminoso a denotar falta de sentimento de emenda e desprestígio para com as instituições públicas.
+IV - Recurso de [NOME] conhecido e provido. Recursos de [NOME] e [NOME] conhecidos e desprovidos"
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega violação ao art. 59, do Código Penal. Para tanto, mencionam que:
+a) " ..  quanto à circunstância judicial da culpabilidade, é imperioso asseverar que ela faz referência ao maior ou menor grau de reprovabilidade da conduta do agente ante o bem jurídico ofendido e, para tal análise, necessário se faz o exame do dolo, que, quanto mais intenso, maior será a censurabilidade da conduta e, ao contrário, quanto menos intenso, menor será sua censurabilidade" (fl. 541).
+b) "no que se refere à conduta social, esta foi valorada negativamente sob o argumento de que ambos os recorrentes teriam cometido o crime quando em cumprimento de prisão domiciliar" (fl. 543).
+c) " ..  esse entendimento colide com as diretrizes que devem balizar a análise da conduta social do acusado, haja vista que essa se refere à vida pregressa do réu em sua comunidade" (fl. 543).
+O especial foi inadmitido na origem pela incidência da Súmula n. 83/STJ (fls. 566-569).
+Daí a interposição do presente agravo, no qual o recorrente repisa os argumentos expendidos no apelo nobre (fls. 572-578). Alega, em apertada síntese, que:
+a) não incide a Súmula n. 83/STJ, pois " ..  não há como sustentar a decisão agravada no tocante a incidência da Súmula 83" (fl. 574).
+b) " ..  o presidente/vice-presidente do tribunal recorrido só pode negar seguimento ao recurso especial com suporte na existência de entendimento contrário do STJ se tal entendimento houver sido firmado no regime de julgamento de recursos repetitivos (NCPC, art. 1.036 a 1.041)" (fl. 576).
+c) " ..  no que toca ao caso ora em apreço, cabe destacar que a matéria versada nas razões do apelo extremo jamais foi analisada pelo Superior Tribunal de Justiça em recurso especial repetitivo" (fl. 577).
+Contraminuta apresentada pelo Parquet distrital (fl. 581).
+O Ministério Público Federal, em seu d. parecer, manifestou-se pelo não conhecimento do agravo (fls. 595-599).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+O especial foi inadmitido na origem pela incidência da Súmula n. 83/STJ (fls. 566-569).
+Neste agravo, contudo, a defesa limitou-se a reiterar os argumentos expendidos no apelo nobre. Com efeito, os agravantes deixaram de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, especificamente o único fundamento, qual seja, a aplicação das Súmulas n. 83/STJ.
+Não trouxeram os agravantes nenhum fundamento em sentido contrário, tendo se limitado a mencionar o seu cabimento e a repisar os fundamentos expendidos anteriormente quando da interposição do recurso de apelação criminal.
+Desse modo, a ausência de impugnação dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Como bem ressaltado pelo ilustre representante do Parquet Federal, em seu d. parecer: " ..  compulsando os autos, verifica-se que as razões recursais não rebatem, diretamente, todos os argumentos apresentados no decisum agravado para obstar o seguimento do recurso especial" (fl. 597). E arremata, verbis: " ..  os agravantes, em fundamentação lacônica, limitaram-se a apresentar sua irresignação, refutando os argumentos da decisão agravada tão somente quanto à valoração da culpabilidade e da conduta social, acrescentando, ademais, que a aplicação de referido enunciado sumular só obsta o seguimento do especial se houver sido exarado no regime dos recursos especiais repetitivos (e-STJ fl. 577)" (fl. 598).
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. No mesmo sentido, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO PELO JÚRI. DECISÃO MANIFESTAMENTE CONTRÁRIA AOS AUTOS. ANULAÇÃO PELO TRIBUNAL A QUO. FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. DEFICIÊNCIA NA COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AUSENTE ILEGALIDADE FLAGRANTE. IMPOSSIBILIDADE DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravante deixou de impugnar a única causa de inadmissão do agravo em recurso especial. Incidência, por analogia, do enunciado sumular n. 182 do STJ.  ..
+4. Agravo regimental não provido" (AgRg no AREsp n. 572.082/ES, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso. Não basta deduzir a inaplicabilidade dos óbices sumulares, devendo ser esclarecido o rechaço aos pontos esteares do acórdão recorrido, como comprovar, por meio da indicação de precedentes desta Corte Superior, da desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo eg. Tribunal a quo.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
