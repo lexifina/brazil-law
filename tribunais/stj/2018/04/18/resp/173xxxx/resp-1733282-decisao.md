@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO AO ART. 535, II, DO CPC/1973. NÃO OCORRÊNCIA. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. CARACTERIZAÇÃO DA RESPONSABILIDADE OBJETIVA. VALOR DA INDENIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA. SÚMULA 568/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC, fundamentado na alínea "a" do permissivo constitucional, em face de decisão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. ERRO MÉDICO. HOSPITAL UNIVERSITÁRIO DA UFSC. DANOS MORAIS.
+1. A questão da responsabilidade do Hospital Universitário da UFSC insere- se, a par da discussão relativa à responsabilidade pela prestação de serviço médico e hospitalar, no âmbito da responsabilidade estatal, haja vista que, no caso concreto, trata- se de hospital público, no qual atuam médicos titulares de cargo público, nessa função.
+2. Quanto ao primeiro aspecto, isto é, da responsabilidade de hospitais por erro médico, segundo a jurisprudência consolidada na Colenda Segunda Seção do Egrégio STJ, a responsabilidade do hospital se confirma quando verificada falha no serviço afeta única e exclusivamente ao seu serviço ou no caso do médico ser seu empregado ou preposto.
+3. A responsabilidade unicamente do Hospital restringe-se a falha de serviços cuja atribuição é afeta única e exclusivamente ao hospital, e é objetiva, fundada na teoria do risco administrativo, com fulcro no artigo 37, parágrafo 6º, da CF/88.
+4. Parcial procedência da demanda, para condenar o Hospital Universitário da UFSC a pagar danos morais à parte autora, sendo que o esquecimento de material cirúrgico na cavidade abdominal da autora não pode ser caracterizado como mero aborrecimento.
+Opostos embargos de declaração foram rejeitados.
+Aduz, preliminarmente, que no recurso a entidade pública pediu a complementação do acórdão quanto à matéria de ordem pública atinente à taxa de juros e à correção monetária regidos pela Lei 11.960/09, razão pela qual indica que a prestação jurisdicional não foi adequada o que viola o art. 535, II, do CPC/1973.
+Salienta, ainda, que inexistem os pressupostos que autorizam o reconhecimento da responsabilidade objetiva, tendo em vista a ausência de nexo de causalidade, motivo pelo qual indica malferimento aos arts. 186, 884 e 944 do CC/2002.
+Acrescenta que a condenação em danos morais no patamar de R$ 50.000,00 (cinquenta mil reais) é excessiva e merece ser reduzida.
+Por fim, aponta ofensa ao art. 5º, da Lei 11.960/2009 e do art. 1º-F da Lei 9.494/1997, uma vez que o acórdão recorrido, ao manter os termos da sentença, não observou que a matéria mencionada nos dispositivos mencionados (índices a serem aplicados em condenações contra a Fazenda Pública), discutida perante o STF, ainda não foi publicada. Salienta, portanto, que deve ser aplicada integralmente a regra do referido dispositivo.
+Apresentada contrarrazões pela recorrida às fls. 1.073/1.090, e-STJ.
+É o necessário a relatar. Passo a decidir.
+Inicialmente, necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Assiste parcial razão à recorrente.
+De pórtico, no que tange à eventual negativa de prestação jurisdicional por violação ao art. 535, II, do CPC/1973, cumpre asseverar que o acórdão repreendido, ao adotar as razões de decidir da sentença, alicerçou a dinâmica da correção monetária e do juros de mora nos seguintes termos: a) atualização monetária com incidência do IPCA-E a partir da data da intimação da ré do teor da sentença; b) juros de mora no percentual de 1% (um porcento) ao mês, nos moldes do art. 406 do CC/2002, a partir do evento danoso.
+ Destaca-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535, II, do CPC/1973, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AÇÃO MONITÓRIA. CHEQUE PRESCRITO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU FALTA DE MOTIVAÇÃO NO ACÓRDÃO A QUO. DECISUM ESTADUAL TODO FUNDADO EM FATOS E PROVAS. SÚMULA N. 7/STJ.AGRAVO NÃO PROVIDO.
+1. Acórdão estadual claro e nítido, sem omissões, obscuridades, contradições ou ausência de motivação. Não obstante a oposição de embargos declaratórios, não são eles mero expediente para forçar o ingresso na instância especial, se não há vício a suprir; inexistente, portanto, ofensa ao art. 535 do CPC, pois a matéria foi devidamente abordada no aresto a quo.
+ ..
+3. Agravo regimental não provido.
+(AgRg no AREsp 638.454/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/03/2015, DJe 10/03/2015)
+De outro giro, quanto à alegação de ofensa ao art. 884 do CC/2002, o qual trata do instituto do enriquecimento ilícito, observa-se que no caso examinado, não houve apreciação pelo Tribunal de origem acerca das indicadas violações. Logo, fica impossibilitado o julgamento do recurso quanto ao ponto, por ausência de prequestionamento, nos termos das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Registre-se que, em que pese a oposição de embargos de declaração, a parte recorrente não sustentou argumentos com o fim de obter um pronunciamento pelo Tribunal a quo a respeito da questão.
+Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. VEDAÇÃO. AGRAVO INTERNO NÃO PROVIDO. TARIFA PROGRESSIVA. FALTA DE PREQUESTIONAMENTO. DANO MORAL. NÃO OCORRÊNCIA E VALOR INDENIZATÓRIO. SÚMULA 7/STJ.
+1. É vedada a inovação recursal, seja em sede de agravo regimental, seja em embargos de declaração, ante a preclusão consumativa. Precedente: AgRg no AREsp 247.288/PE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 24/5/2013, AgRg no AREsp 304.572/AL, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2013.
+2. Não é possível o conhecimento de recurso em relação à questão que não foi tratada no acórdão recorrido ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF).
+3. A análise da tese recursal relativa à ausência de dano moral e ao quantum indenizatório esbarra na impossibilidade de incursão na seara probatória na via especial, conforme disposto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1456933/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 04/04/2017, DJe 11/04/2017)
+No que diz respeito à assinalada violação aos arts. 186 e 944 do CC/2002, e, por consequência, aos consectários que envolvem a configuração da responsabilização civil e sua quantificação, respectivamente, verifica-se que o Tribunal a quo alicerçou sua inteligência gravitando em torno da matéria fático-probatória dos autos, a saber: de laudo pericial, documentos médicos e de prova testemunhal.
+Observa-se, portanto, que a conclusão do Tribunal de origem decorreu de análise da prova juntada aos autos. Logo, não é possível acolher a pretensão recursal porque seria necessário reexaminar conjunto fático-probatório dos autos, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE PROVAS. SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, nos termos da vedação imposta pelo enunciado nº 7 da Súmula do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 934.754/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/08/2015, DJe 10/08/2015)
+Por fim, cabe analisar suposto desrespeito ao art. 1º-F da Lei 9.494/1997, com as alterações carreadas pela Lei 11.960/2009.
+Quanto ao ponto assiste razão à recorrente.
+Deveras, a origem tratar dos dispositivos legais reportados, andou bem quanto à utilização do IPCA-E para fins de correção monetária a partir da intimação da ré do teor da sentença, entretanto, a aplicação única de juros de mora de 1% ao mês foi contrária a recente entendimento dessa Corte Superior estabelecido por meio do julgamento do REsp 1.495.146/MG, no âmbito do rito dos repetitivos da controvérsia (Tema 905).
+Nessa assentada, firmou-se a seguinte tese para os casos de condenações judiciais de natureza administrativa em geral, in verbis (grifo nosso):
+ ..
+3. Índices aplicáveis a depender da natureza da condenação.
+3.1 Condenações judiciais de natureza administrativa em geral.
+As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic, vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E.  ..  (http://www.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp)
+Cumpre esclarecer, que a taxa SELIC, em sua essência, já compreende juros de mora e correção monetária. Por tal razão, a sua incidência, a título de juros de mora, implica seja afastada a incidência do IPCA-E ou qualquer outro índice de correção monetária.
+Assim, considerando a incidência do juros de mora desde o evento danoso, conforme conclusão da origem, deve ser aplicada a sistemática firmada em sede de repetitivo ao caso concreto, conforme os fundamentos da citação supramencionada naquilo que for aplicável.
+Nesse sentido, incide à espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015 c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, nos termos da fundamentação.
+Publique-se. Intimem-se
