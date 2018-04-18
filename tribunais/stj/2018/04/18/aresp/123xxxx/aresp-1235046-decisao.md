@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO C/C OBRIGAÇÃO DE FAZER. TRATAMENTO DOMICILIAR. HOME CARE. FORNECIMENTO DE MEDICAMENTOS E DISPONIBILIZAÇÃO DE PROFISSIONAIS DE SAÚDE DIVERSOS. POSSIBILIDADE. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. RECURSO CONHECIDO E IMPROVIDO.
+I - Cuida-se de Agravo de Instrumento, no qual a Agravante pretende reformar a decisão prolatada pelo juízo de primeiro grau que entendeu por bem obrigar, em sede de liminar, a recorrente a conceder tratamento médico domiciliar (home care) à agravada, sob pena de multa diária.
+II - A internação domiciliar é uma forma de diminuir os custos, substancialmente menores em relação àqueles com que a agravada arcaria em caso de internação hospitalar, sendo efetivamente mais vantajosa, além de necessária a própria sobrevivência da recorrida, frente à diminuição de risco de adquirir infecção hospitalar.
+III - No caso dos autos, depreende-se dos documentos juntados a necessidade da agravante de tratamento domiciliar. Ora, o tratamento ora postulado é o mesmo que teria a parte em caso de hospitalização. Logo, entendo que não acarreta à agravante nenhum prejuízo a possibilidade de abranger, no plano de saúde, a cobertura do tratamento domiciliar. Precedentes.
+IV - Agravo conhecido, mas improvido.
+A parte agravante sustenta que o acórdão estadual é omisso. Afirma que não é obrigada, pela legislação que rege a matéria ou pelo contrato, a oferecer cobertura para serviços e produtos de uso domiciliar de forma ilimitada.
+Quanto à alegada violação do art. 1.022, I, II, do Código de Processo Civil, sem razão a recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Esta Corte, em sintonia com o disposto na Súmula 735 do STF, segundo a qual "não cabe recurso extraordinário contra acórdão que defere medida liminar", entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+Isso porque "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal" (AgRg no REsp 1.159.745/DF, Ministro Humberto Martins, Segunda Turma, julgado em 11.5.2010, DJe 21.5.2010).
+No mesmo sentido:
+PROCESSO CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL POR SUPOSTA AFRONTA AO ART. 273 DO CPC. NÃO CABIMENTO. SÚMULA 735/STF. SÚMULA 7/STJ.
+1. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedentes.
+3. Ainda que cabível, em tese, o recurso especial, seria imprescindível o reexame do contexto fático e probatório dos autos para a verificação dos pressupostos ensejadores da tutela antecipada, providência inviável nesta instância em face da Súmula 7/STJ, conforme a jurisprudência pacífica desta Corte.
+4. Agravo regimental a que se nega provimento.
+(RCDESP no Ag 741981/MA, Rel. Min. MARIA ISABEL GALLOTTI, DJe de 28.10.2010)
+Mesmo que assim não se entendesse, segundo a jurisprudência do Superior Tribunal de Justiça, o contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura, conforme recomendação médica.
+É o que demonstram os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE ANTECIPAÇÃO DE TUTELA. TRATAMENTO MÉDICO DOMICILIAR (HOME CARE). CLÁUSULA CONTRATUAL OBSTATIVA. ABUSIVIDADE. DECISÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ.
+1. "A jurisprudência do STJ tem entendimento firmado no sentido de ser abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do segurado, porque o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura. Precedentes. Incidência da Súmula 83/STJ". (AgRg no AREsp 734.111/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/12/2015, DJe 03/02/2016).
+2. Agravo interno não provido.
+(AgInt no AREsp 987.203/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 2/2/2017)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO HOME CARE. RECUSA INJUSTIFICADA. ABUSIVIDADE. DANO MORAL IN RE IPSA. CONFIGURAÇÃO. REVISÃO DO VALOR. QUANTUM INDENIZATÓRIO RAZOÁVEL. PRECEDENTES. INCIDÊNCIA DA SÚMULAS NºS 7 E 83 DO STJ. DECISÃO MANTIDA.
+(..)
+2. Entende-se por abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do beneficiário, porque o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura.
+(..)
+6. Agravo regimental não provido.
+(AgRg no AREsp 725.203/RJ, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/9/2015, DJe 24/9/2015)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
