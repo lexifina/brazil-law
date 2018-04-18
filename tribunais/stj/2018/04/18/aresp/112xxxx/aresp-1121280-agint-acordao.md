@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. A teor do disposto nos arts. 253, parágrafo único, I, do RISTJ, e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado por [NOME], [NOME], [NOME] e [NOME] para desafiar decisão da Presidência desta Corte, proferida às e-STJ fls. 641/642, que não conheceu do agravo em recurso especial, com fulcro no art. 253, parágrafo único, I, c/c o art. 1º da Resolução STJ n. 17/2013 do RISTJ, visto que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, no caso, a aplicabilidade da Súmula 7 do STJ.
+No presente agravo interno, sustenta a parte agravante, às e-STJ fls. 649/661, em suma, que, ao contrário do consignado, infirmou os fundamentos da decisão de inadmissibilidade do recurso especial.
+Pugna, ainda, que seja afastada a majoração dos honorários advocatícios.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Impugnação às e-STJ fls. 666/671.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Tenho que o inconformismo sob exame não merece prosperar.
+De fato, a parte agravante não trouxe nenhum argumento capaz de alterar o decisum atacado, proferido em sintonia com a jurisprudência deste Tribunal Superior, no sentido de que a parte deve infirmar especificamente os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge contra todos eles, a teor do disposto nos arts. 253, parágrafo único, I, do RISTJ e 932, III, do CPC/2015.
+Na hipótese, a parte agravante, nas razões do agravo em recurso especial, não infirmou de forma clara e específica os fundamentos da decisão recorrida, notadamente em relação à Súmula 7 do STJ, em evidente desrespeito ao princípio da dialeticidade.
+Nas razões do agravo interno, o agravante busca suprir a deficiência que impediu o conhecimento do agravo em recurso especial, alegando que (e-STJ fls. 652/653):
+Não se pode exigir a impugnação específica da Súmula 7 do eg. STJ, quando a r. decisão de origem incidiu em contradição, ao decidir que "tendo a Turma Julgadora concluído pela ausência dos requisitos autorizadores para a decretação da indisponibilidade de bens, eventual reexame da matéria não prescindiria da análise dos elementos fáticos da demanda, providência incompatível com a via estreita dos recursos excepcionais, a teor do Enunciado nº 7 da Súmula do Superior Tribunal de Justiça." (Grifo nosso)
+Isto porque, o v. acórdão combatido da c. Turma Julgadora concluiu pela presença e não ausência dos requisitos autorizadores para a decretação da indisponibilidade. O que basta para afastar a ausência de impugnação específica, data venia.
+No recurso interposto pelos ora agravantes restou demonstrada a frontal violação dos arts. 11, 371, 297, 300, 489, II, § 1º, I, II e III, do NCPC(arts. 131, 165, 798 e 804, do CPC/73), pois a indisponibilidade dos bens dos agravantes (f. 1139) foi decretada em apenas quatro folhas, nas quais, a primeira tem o nº do processo e nome das partes e a narrativa dos fatos em um parágrafo, que vai até a segunda f.; transcreve o § 4º do art. 37 da CF e o art. 7º, par. único da LIA, para dizer que é cabível o deferimento da liminar; na sequência e num parágrafo com cinco linhas diz que o fumus boni iuris "se consubstancia na farta prova documental que acompanha a inicial" e o periculum in mora "se traduz no risco de ineficácia do provimento jurisdicional caso a indisponibilidade de bens não seja concedida em sede de liminar" (SIC); no mais transcreve um v. aresto do STJ que toma duas folhas e um julgado do TJMG; fala que a medida não se torna irreversível e defere a liminar de indisponibilidade de bens.
+Sem adentrar na legitimidade do argumento ora trazido pela parte agravante, é certo que, conforme a jurisprudência desta Corte, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, já em sede de agravo interno, configura inovação recursal, incabível em razão da preclusão consumativa.
+Nesse sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA.
+OMISSÃO. INEXISTÊNCIA. CONTRATO ADMINISTRATIVO. INEXECUÇÃO. RETENÇÃO DE CRÉDITOS. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF. IMPUGNAÇÃO TARDIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. PRECLUSÃO.
+(..) 4. Na presente hipótese, não houve a impugnação particularizada de fundamento basilar que ampara o acórdão hostilizado, ou seja, de que a retenção de crédito decorrente do inadimplemento do contrato administrativo encontra previsão na Lei 8.666/93 (art. 80, IV). Sendo assim, como o fundamento não foi atacado pela parte insurgente e é apto, por si só, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, o óbice da Súmula 283 do STF.
+5. Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial, por ocasião do manejo de Agravo Regimental, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 283/STF, tendo em vista a ocorrência de preclusão consumativa.
+6. Agravo Regimental não provido.
+(AgRg no REsp 1573930/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/05/2016, DJe 01/06/2016)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO DECISÓRIO QUE OBSTOU O SEGUIMENTO DO RECURSO ESPECIAL. APLICAÇÃO ANALÓGICA DA SÚMULA 182/STJ. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. OFENSA AO ARTIGO 6º DA LINDB. MATÉRIA DE NATUREZA CONSTITUCIONAL. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, todos os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo regimental), além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+(..) 6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 761.678/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2015, DJe 10/11/2015)
+De outro lado, conforme o Enunciado Administrativo n. 7 do STJ, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC".
+Verifica-se que o recurso especial foi interposto contra decisão publicada em 16/11/2016 (e-STJ fl. 377), de modo a autorizar a fixação da verba honorária.
+Porém, registro que a decisão agravada tratou dos honorários advocatícios sucumbenciais recursais da seguinte forma:
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 15% do valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão de gratuidade da justiça. (Grifo adicionado).
+Como se percebe, a decisão da Presidência, mediante redação padrão utilizada para casos desse jaez (não conhecimento de agravo em recurso especial por vício de fundamentação), condicionou a majoração da verba honorária sucumbencial na esfera recursal ao valor previamente fixado a esse título pelas instâncias de origem.
+No caso dos autos, por se tratar de agravo de instrumento, o acórdão nada fixou a título de honorários sucumbenciais, revelando que o transcrito comando da decisão agravada não produz nenhum efeito in concreto, até porque 15% sobre zero nada representa.
+Tenho, portanto, que o caso não é de reforma desse tipo de decisão padrão, cuja aplicação está condicionada ao histórico de cada processo, sendo certo, que, na hipótese vertente, é patente a falta de interesse do agravante em sua modificação, por ausência de utilidade do provimento almejado.
+Por fim, no tocante à aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, não considero que o recurso manejado pelo agravante seja manifestamente inadmissível, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
