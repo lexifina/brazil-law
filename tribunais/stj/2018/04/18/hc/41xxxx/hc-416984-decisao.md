@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal Regional Federal da 1ª Região (HC n. 0007178-39.2017.401.000).
+Infere-se dos autos que o paciente foi condenado pela prática dos delitos previstos no art. 306 do Código de Trânsito Brasileiro (conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool); arts. 329 e 331, do Código Penal (resistência e desacato), às penas de 8 meses de detenção em regime inicial aberto, substituídas as penas privativas de liberdade por restritivas de direitos.
+Inconformada, a defesa interpôs apelação perante o Tribunal de origem, o qual proveu parcialmente o recurso para reconhecer a prescrição dos delitos tipificados nos arts. 329 e 331, ambos do Código Penal. O recurso especial defensivo foi admitido conforme decisão de fls. 50/51.
+Diante da determinação do Juízo de primeiro grau para execução provisória da pena, foi impetrado habeas corpus perante o Tribunal a quo, tendo a ordem sido denegada em acórdão assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS. CP, ARTIGO 333. CORRUPÇÃO ATIVA. AUDIÊNCIA ADMONITÓRIA. SUSPENSÃO. PEDIDO SUPERADO. SENTENÇA CONDENATÓRIA. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. POSSIBILIDADE. PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. AUSÊNCIA DE VIOLAÇÃO. CUMPRIMENTO APÓS O TRÂNSITO EM JULGADO. ORDEM DENEGADA.
+1. O colendo Tribunal Pleno do Supremo Tribunal Federal firmou orientação no sentido de que "a execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção da inocência afirmado pelo artigo 5º, inciso LVII, da Constituição Federal" (HC 126.292/SP, Tribunal Pleno, rel. Min. TEORI ZAVASKI, j. 17/02/2016, DJE 16/05/2016). Entendimento confirmado, por meio da repercussão geral suscitada naquela Corte Superior, em 11/11/2016, pelo Plenário Virtual (ARE 964.246/SP), o que atribuiu eficácia vinculante e erga omnes ao julgado.
+2. A inocência do réu deve ser presumida até a prolatação da sentença condenatória e o recurso em 2º grau seja julgado, confirmando-a.
+3. Os recursos cabíveis de decisões dos Tribunais de 2ª Instância ao Superior Tribunal de Justiça e Supremo Tribunal Federal não possuem eficácia suspensiva do julgado, bem assim não se prestam a discutir fatos e provas.
+4.Caso em que o paciente foi condenado a 01 (um) ano de detenção e 20 (vinte) dias-multa, por ter praticado o delito tipificado pelo artigo 306 do Código de Trânsito Brasileiro; 06 (seis) meses de detenção pelo crime de desacato; e 02 (dois) meses de detenção pelo delito de resistência. As penas privativas de liberdade foram substituídas por 02 (duas) restritivas de direito. Condenação reformada em julgamento de apelação, extinção da punibilidade pela prescrição quanto aos crimes de desacato e de resistência. Condenação mantida quanto ao artigo 306 do CTB. Recurso especial admitido e pendente de julgamento. Iniciadas as sanções penais pelo Juízo da Execução (fls. 18/19).
+No presente writ, o impetrante alega ser desarrazoado o início da execução com base exclusivamente no entendimento firmado pela Suprema Corte no julgamento do HC 126.292, de relatoria do eminente Ministro Teori Zavascki, uma vez que tal decisum não possui caráter vinculante.
+Aduz que a execução provisória, no caso concreto, fere o princípio da presunção de inocência, uma vez que não transitada em julgado a sentença, salienta que foi interposto recurso especial, ainda pendente de julgamento. Sustenta, ainda, que a execução antecipada de pena restritiva de direitos fere o disposto no art. 147 da Lei de Execução Penal.
+Requer, em liminar e no mérito, a suspensão da execução provisória da pena.
+Liminar deferida para suspender a execução provisória das penas restritivas de direito até o julgamento definitivo da presente impetração ou do trânsito em julgado da condenação (fls.63/66).
+Informações prestadas às fls. 75/76 e 79/88.
+O Ministério Público Federal opinou pela concessão da ordem (fls. 95/98).
+É o relatório.
+Decido.
+O writ está prejudicado.
+Isso porque, do andamento processual nesta Corte Superior, verificou-se que, em 21/9/2017, foi julgado o REsp 1.547.965/TO, tendo sido declarada extinta a prescrição punitiva estatal pretendida na ação penal de que aqui se trata (Ação Penal n. 2009.43.00.008066-5).
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus, ante a superveniente perda do seu objeto, tornando sem efeito a liminar anteriormente deferida.
+Publique-se.
+Intimações necessárias.
