@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como autoridade coatora o Tribunal de Justiça de Santa Catarina (Agravo de Execução Penal n. 00066806320178240033) - fl. 42):
+AGRAVO EM EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. SOMA DE PENAS. IRRESIGNAÇÃO DEFENSIVA CONTRA DECISÃO QUE FIXOU O DIA DO TRÂNSITO EM JULGADO DA ÚLTIMA CONDENAÇÃO COMO DATA-BASE PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. PLEITO PARA QUE A FIXAÇÃO DA DATA-BASE SEJA ALTERADA PARA O DIA DA ÚLTIMA PRISÃO. ALEGAÇÃO DE QUE A CONDENAÇÃO SUPERVENIENTE NÃO ALTEROU O REGIME PRISIONAL DE CUMPRIMENTO DA PENA. INVIABILIDADE. ALTERAÇÃO DO ENTENDIMENTO JURISPRUDENCIAL. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL E DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO CONHECIDO E DESPROVIDO. "Na linha da jurisprudência desta Corte, " ..  o marco inicial para a contagem dos benefícios da execução, em razão da prática de novo delito, corresponde à data do trânsito em julgado da última condenação, sendo que, ao unificar as penas, deve o juiz proceder à contagem a partir do somatório das penas que restam a ser cumpridas. Precedentes do STJ e do STF" (AgRg no HC n. 383.010/ES, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/5/2017). Agravo regimental desprovido. (AgRg no REsp 1659064/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/06/2017, DJe 01/08/2017).
+Alega-se na impetração que a decisão ora atacada causou constrangimento ilegal ao paciente, ao fixar a interrupção de sua pena na data do trânsito em julgado da última condenação, critério que não mais prevalece nesta Corte Superior (fl. 3).
+Requer a concessão da ordem para que seja cassado acórdão do Tribunal de Justiça do Estado de Santa Catarina, o qual considerou a data do trânsito em julgado da última condenação (12/02/2016) como marco (data-base) para fins de obtenção da progressão de regime, e seja estabelecida a data da última prisão do paciente (01/03/2014), ou a data do cometimento da última falta grave, como a data-base para a aquisição de benefícios na execução da pena.
+É o relatório.
+A Terceira Seção desta Corte, no julgamento do Resp 1.557.461/SC, ocorrido em 22/02/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+No caso de cometimento de falta grave, é importante ressaltar que devem ser observadas as diretrizes estabelecidas nas Súmulas 441, 534 e 535 desta Corte:
+A falta grave não interrompe o prazo para obtenção de livramento condicional.
+(Súmula 441/STJ)
+A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração.
+(Súmula 534/STJ)
+A prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto.
+(Súmula 535/STJ)
+Nesse contexto e diante do novo posicionamento adotado pela Egrégia Terceira Seção, concedo a ordem para estabelecer a data da última prisão do paciente, ou a data do cometimento da última falta grave, como a data-base para a aquisição de benefícios na execução da pena, observado o disposto nas Súmulas 441, 534 e 535/STJ.
+Comunique-se.
+Publique-se.
