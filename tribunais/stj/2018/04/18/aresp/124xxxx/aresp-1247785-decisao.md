@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] - DISTRIBUIDORA DE ENERGIA S.A, em face de decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do artigo 105 da Constituição Federal, contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA POR DANOS MORAIS E ANTECIPAÇÃO DE TUTELA. SENTENÇA A QUO QUE JULGOU IMPROCEDENTE A DEMANDA. INDEVIDA NEGATIVAÇÃO DADOS JUNTO AOS CADASTROS RESTRITIVOS DE CRÉDITO. CONFIGURAÇÃO DE DANO MORAL PASSÍVEL DE REPARAÇÃO. DANO IN RE IPSA. QUANTUM FIXADO NESTA INSTÂNCIA EM R$ 10.000,00 (DEZ MIL REAIS). INVERSÃO DO ÔNUS SUCUMBENCIAL.HONORÁRIOS RECURSAIS DEVIDOS. SENTENÇA REFORMADA. RECURSO CONHECIDO E PROVIDO. DECISÃO UNÂNIME.
+I - Caracterizada a relação de consumo e observada a cobrança de dívida inexistente, com posterior inscrição indevida nos cadastros de restrição ao crédito, conclui-se pela responsabilidade objetiva da [NOME] quanto aos danos causados;
+II - A inclusão indevida do nome da autora nos sistemas de proteção ao credito gera a obrigação de se indenizar por danos morais;
+III - O valor da indenização deve ler em consideração as circunstâncias em que se perpassaram os fatos, levando-se em conta sua finalidade dúplice punitiva/reparatória:
+IV - Na presente hipótese, o valor de R$ 10.000.00 (dez mil reais) a título compensatório se mostra adequado às finalidades punitiva e reparatória;
+V - Em se tratando de responsabilidade contratual, deverão incidir correção monetária pelo INPC desde o arbitramento (Súmula 362 do STJ) e juros moratórios de 1% (um por cento) ao mês desde a citação;
+VI - Reformada a sentença, impõe-se a inversão do ônus de sucumbência, a ser arcado pela empresa requerida;
+VII - Levando-se em conta que a sentença combatida foi proferida após a vigência do novo CPC. impõe-se o arbitramento de honorários recursais.
+VIII - In casu, honorários de sucumbência fixados no percentual de 15% (quinze por cento) sobre o valor da condenação, já incluído aí os honorários recursais, tudo nos termos do art. 85, §2º e §11 do NCPC.
+IXRecurso conhecido e provido.
+Não foram opostos embargos de declaração.
+Nas razões do especial, aponta a parte agravante violação ao artigo, 373, inciso II, do Código de Processo Civil de 2015.
+Da análise dos autos, observo que suas alegações não merecem prosperar.
+De início, observo que o Tribunal de origem, com base nos fatos e provas dos autos, consignou que a recorrida logrou êxito em comprovar o lastro probatório que fundamenta a existência do ilícito civil, assim se pronunciando (e-STJ fls. 141-142):
+In casu, vejo que o comprovante dc negativação acostado aos autos pela parte autora indica débitos vencidos em 26/05/2014, no valor de R$ 53,84 (cinqüenta e três reais e oitenta e quatro centavos) e em 26/06/2014, no valor de RS 47,26 (quarenta e sete reais e vinte e seis centavos), tendo como credor a [NOME].
+Há que salientar-se que ainda que se trate de uma relação consumerista, deve a parte autora trazer aos autos indícios de prova da sua alegação, fatos estes que ocorreram no caso subjudice.
+Com efeito, a demandante alicerçou seus argumentos no conteúdo dos protocolos acima aludidos, nos quais pediu em dezembro/2013 o cancelamento da prestação dos serviços, cumprindo, assim, o ônus que lhe cabia, de acordo com o art. 373,1, do NCPC (art. 333, I, do CPC/73).
+Outrossim, a empresa recorrida não impugnou a veracidade dos argumentos no tocante ao conteúdo dos respectivos protocolos, o que seria para ela muito fácil apontá-los como fato impeditivo do direito da autora (art. 373, II, do NCPC - art. 333, II, do CPC/73).
+Destarte, note-se que a resposta (contestação) da apelada não foi instruída com nenhuma prova (nenhum documento) que comprovasse a exclusão de sua responsabilidade. Só fora juntada Procuração e Ata de Reunião do Conselho de Administração da [NOME], sequer se manifestando sobre os protocolos de pedido de cancelamento do fornecimento de energia.
+Tratando-se de relação de consumo, na qual a responsabilidade é objetiva, cabia à requerida comprovar a impertinência dos protocolos indicados na inicial, bem como as excludentes de responsabilidade, no entanto, apenas afirmou que a inscrição no rol dos maus pagadores foi feita de forma devida, pois a autora encontra-se inadimplente.
+Acrescente-se que as faturas anexadas pela autora às fls. 23/27, referentes aos meses de janeiro/2014 a junho/2014, não foram quitadas, ao contrário do afirmado pelo juízo a quo que disse que "houve o pagamento até a fatura do mês de fevereiro de 2014, com vencimento em 26/03/2016, sendo, pois, a situação de fato diversa daquela alegada na iniciar.
+Ademais, tais faturas apenas ratifica o defeito na prestação do serviço, pois emitidas após o pedido de seu cancelamento. Servem para demonstrar o não atendimento do pedido de suspensão do fornecimento de energia, formulado através dos protocolos de nºs 13580181 e desta forma, não há que se falar em existência de débitos, não remanescendo, portanto, o direito da empresa recorrente de cobrar faturas pendentes, sendo ilegítima a inscrição do nome da autora nos cadastros restritivos de crédito.
+Desse modo, o acolhimento das razões do recurso especial, a fim de demover as conclusões da Corte de origem e, com isso, reconhecer a existência do débito, demandaria reexame de matéria fática, o que esbarra na Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
