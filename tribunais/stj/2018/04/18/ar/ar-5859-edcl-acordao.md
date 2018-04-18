@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLAÇÃO NO AGRAVO INTERNO NA AÇÃO RESCISÓRIA. PRAZO DECADENCIAL. MARCO INICIAL. TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO. OMISSÃO. NÃO EXISTÊNCIA.
+1. Consoante o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado, bem assim para corrigir-lhe erro material, não se constituindo tal medida integrativa em meio idôneo para fazer prevalecer o entendimento da parte embargante quanto à matéria já decidida no acórdão embargado.
+2. Tal como se afirmou no acórdão embargado, "a alegação de que os patronos não foram pessoalmente cientificados do trânsito em julgado do acórdão é desinfluente, pois não tem força, nem amparo legal, para modificar o marco decadencial fixado pelo código processual".
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Regina Helena Costa e os Srs. Ministros Gurgel de Faria, Francisco Falcão, Herman Benjamin, Og Fernandes, Benedito Gonçalves e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Ausente, ocasionalmente, o Sr. Ministro Napoleão Nunes Maia Filho.
+RELATÓRIO
+MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de embargos de declaração manejados por [NOME] e outros contra o acórdão às fls. 290 a 296, assim ementado:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PRAZO DECADENCIAL PARA AJUIZAMENTO. TRÂNSITO EM JULGADO DA ÚLTIMA DECISÃO. ART. 975 CPC.
+1. A teor do disposto no art. 975 do CPC, o prazo decadencial tem por marco inicial o trânsito em julgado da última decisão proferida nos autos. Precedentes.
+2. A alegação de que os patronos não foram pessoalmente cientificados do trânsito em julgado do acórdão é desinfluente, pois não tem força, nem amparo legal, para modificar o marco decadencial fixado pelo código processual.
+3. Na hipótese, o acórdão que pretendem os autores rescindir foi proferido à unanimidade em sede de agravo regimental na sessão ordinária do dia 5 de agosto de 2010 e sucessivamente embargado de declaração, em duas oportunidades, rejeitando o colegiado ambos os embargos. Insatisfeitos com o resultado, recorreram os interessados, todavia o STF negou seguimento ao recurso extraordinário, por decisão monocrática, que transitou em julgado no dia 4 de abril de 2014, consoante certificou a Corte Suprema. A ação rescisória, por sua vez, foi apresentada em 26 de julho de 2016.
+4. Agravo interno a que se nega provimento.
+Nas razões recursais, argumentam que "o acórdão é omisso no que tange a violação do princípio constitucional da ampla defesa e da publicidade na medida em que o trânsito em julgado ocorreu em 06/05/2014 (fl. 999), data distinta da data ora apontada na r. Decisão e, nesse particular, não houve ciência dos advogados do trânsito em julgado e baixa dos autos, havendo inequívoco prejuízo quanto ao prazo para apresentação da presente ação" (304).
+O Estado da Bahia apresentou impugnação, fls. 309 a 312, requerendo a rejeição do recurso integrativo.
+É o relatório.
+VOTO
+MINISTRO SÉRGIO KUKINA (Relator): Consoante o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para corrigir-lhe erro material, não se revelando meio idôneo para fazer prevalecer o entendimento da parte embargante quanto à matéria já decidida.
+Essa é a razão pela qual a jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/05/2016).
+No mesmo sentido, confiram-se, dentre outros:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO PORTADOR DE DEFICIÊNCIA AUDITIVA UNILATERAL. RESERVA DE VAGA NEGADA PELA ADMINISTRAÇÃO COM AMPARO NOS DECRETOS FEDERAIS 3.298/1999 E 5.296/2004. POSSIBILIDADE. PRECEDENTE DA CORTE ESPECIAL. DECISÃO DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou erro material existente no julgado.
+2. Excepcionalmente, o Recurso Aclaratório pode servir para amoldar o julgado à superveniente orientação jurisprudencial do Pretório Excelso, quando dotada de efeito vinculante, em atenção à instrumentalidade das formas, de modo a garantir a celeridade e a eficácia da prestação jurisdicional e a reverência ao pronunciamento superior, hipótese diversa da apresentada nos presentes autos.
+3. Com efeito, no caso em apreço, não se constata a presença de qualquer eiva a macular o acórdão embargado, que, de forma clara asseverou que, a tramitação de projeto de lei para enquadrar o portador de surdez unilateral como deficiente físico para todos os fins, inclusive reserva de vagas em concurso, não tem o condão de alterar o entendimento dessa Corte acerca da vigente disciplina legislativa da matéria, que não contempla o direito invocado.
+4. Isso porque o Decreto 5.296/2004 alterou a redação do art. 4o., II, do Decreto 3.298/1999 - que dispõe sobre a Política Nacional para Integração de Pessoa Portadora de Deficiência - e excluiu da qualificação deficiência auditiva os portadores de surdez unilateral.
+5. Com essa compreensão, o STJ, alinhando-se ao entendimento do Supremo Tribunal Federal (MS 29.910/AgRg, DJe 1.8.2011), concluiu, através de sua Corte Especial, que o candidato em concurso público com surdez unilateral não tem direito a participar do certame na qualidade de deficiente auditivo (MS 18.966 /DF, Rel. Min. CASTRO MEIRA, Rel. p/ acórdão Min. HUMBERTO MARTINS, DJe 20.3.2014).
+6. Não se constatando a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015; a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos, os quais não podem ser ampliados.
+7. Embargos de Declaração rejeitados.
+(EDcl no AgRg no RMS 39.528/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 22/06/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. VÍCIOS DO ART. 1.022 DO NCPC. INTEMPESTIVIDADE DE SEGUIDOS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL.
+1. Quarto embargos de declaração recebidos como agravo regimental, em obediência aos princípios da economia processual e da fungibilidade. EDcl no AgRg no REsp 1.208.878/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30.5.2011.
+2. A transmissão eletrônica das peças recursais é de inteira responsabilidade do causídico que representa as partes que assumem o risco ao deixar para os minutos finais seu envio.
+3. Conforme verificado no sitio desta Corte, não consta indisponibilidade do sistema, por mais de sessenta minutos, nos dias do vencimento do prazo dos dois embargos de declaração opostos fora do prazo.
+4. Os embargantes, na verdade, não apontam nenhuma omissão, contradição, obscuridade ou erro material nas razões dos embargos de declaração. Buscam tão somente a modificação do decidido no acórdão recorrido, o que é inviável.
+Embargos de declaração recebidos como agravo regimental, mas improvido.
+(EDcl nos EDcl nos EDcl nos EDcl no AREsp 623.971/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 09/05/2016)
+No caso que ora se examina, não há omissão a sanar.
+Com efeito, tal como reafirma o acórdão embargado em sua própria ementa, "a alegação de que os patronos não foram pessoalmente cientificados do trânsito em julgado do acórdão é desinfluente, pois não tem força, nem amparo legal, para modificar o marco decadencial fixado pelo código processual".
+Eis porque a argumentação da parte embargante revela, tão somente, o inconformismo com a solução que lhe pareceu desfavorável.
+Firme nestas razões, encaminho meu voto no sentido da rejeição dos presentes embargos de declaração.
+É como voto.
