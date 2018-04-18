@@ -1,0 +1,47 @@
+DECISÃO
+MAICON JACKSON DE LIMA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, na Apelação n. [CPF].
+Nas razões recursais, a defesa suscita violação dos arts. 59 e 121 do Código Penal, ao argumento de que "o acórdão recorrido incidiu em bis in idem ao valorar equivocadamente a vetorial consequências constante da pena-base" (fl. 871).
+Alega que a ocorrência de lesões graves já integra o tipo do crime de homicídio na modalidade tentada.
+Requer, dessa forma, a readequação da pena-base imposta ao réu.
+A Corte local não admitiu o recurso, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não conhecimento do agravo.
+Decido.
+I. Admissibilidade
+O agravo é tempestivo e preencheu os demais requisitos de admissibilidade. Quanto ao recurso especial, também observo o preenchimento dos requisitos de admissibilidade.
+Com efeito, a questão atinente à dosimetria da pena foi examinada pelo Tribunal a quo, no julgamento do apelo defensivo, a evidenciar o prequestionamento da matéria. Além disso, o recurso apresenta argumentação suficiente para permitir a compreensão das teses suscitadas, e a sua apreciação prescinde de revolvimento do contexto fático-probatório dos autos.
+II. Contextualização
+Em primeira instância, o réu foi condenado à pena de 9 anos de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 121, § 2º, IV, c/c o art. 14, II, ambos do Código Penal. A reprimenda foi assim individualizada (fls. 792-793, destaquei):
+CULPABILIDADE normal. O réu não registra ANTECEDENTES que possam ser valorados. Nada consta acerca da CONDUTA SOCIAL e PERSONALIDADE, presumindo-se normais. MOTIVOS não bem esclarecidos. CIRCUNSTÂNCIAS comuns ao delito. As CONSEQUÊNCIAS foram graves, pois, conforme laudo de fl. 22, Alexandra restou incapacitado para as ocupações habituais, por mais de 30 dias. Quanto ao comportamento da VÍTIMA, não há prova de que tenha contribuído para o delito.
+Sendo apenas uma das oito circunstâncias judiciais do art. 59 do Código Penal desfavorável ao réu, e lembrando que a pena cominada ao delito é de 12 a 30 anos, fixo a pena-base um pouco acima do mínimo: 14 anos de reclusão.
+Tendo em vista que o crime foi cometido na forma tentada (art. 14, II, do CP), a pena deve ser reduzida de 1/3 a 2/3, podendo, assim, ser fixada entre 4 anos e 8 meses e 9 anos e 4 meses. Considerando o iter criminis percorrido pelo agente, observo que praticamente tudo o possível para consumar o crime foi realizado, inclusive o laudo de fl. 22 atesta efetivo perigo de vida, assim, fixo a pena em 9 anos.
+O Tribunal a quo negou provimento ao apelo defensivo. A valoração das consequências do delito foi mantida pelos seguintes fundamentos (fls. 857-858):
+Com efeito, quanto ao apenamento imposto ao réu, não merece reparo, eis que fixado em patamar necessário e suficiente para a reprovação e prevenção do crime cometido.
+Ocorre que, presente uma operadora negativa, como no caso em apreço - consequências do delito consoante a doutrina de José Antonio Paganella Boschi, autorizado estava o magistrado a quo a fixar a pena-base de MAICON JACKSON acima do piso mínimo previsto para a espécie - no caso, em 14 (quatorze) anos de reclusão, ou seja, em 02 (dois) anos acima do piso mínimo -, de forma justa, proporcional, e fundamentada conforme se depreende à fl. 1120, do decisum, in verbis:
+ ..
+Quanto às consequências do delito, restou correta a sentença ao considerá-las negativas, eis que, conforme bem resumiu o Dr. Procurador de Justiça, no seu parecer de fls. 1155/1156:
+"É sabido que, por conseqüências do crime, compreende-se "o conjunto de efeitos danosos provocados pelo crime, em desfavor da vítima, de seus familiares ou da coletividade." E, in casu, tais efeitos foram refletidos de forma grave no ofendido, especialmente porque, como bem destacado pelo sentenciante, "(..) conforme laudo de fl. 22, Alexandro restou incapacitado para as ocupações habituais, por mais de 30 dias."
+Assim, correta a fixação da pena-base em 14 (quatorze) anos de reclusão, ou seja, em 02 (dois) anos acima do mínimo, repisa-se, o que, consideradas a pena mínima de 12 (doze) anos e a máxima de 30 (trinta) anos previstas para o crime de homicídio qualificado, não excede, nem de longe, o padrão de razoabilidade.
+Aplicam-se, nesse ponto, os princípios da legalidade, da razoabilidade, da proporcionalidade, da individualização, da dignidade e da humanidade da reprimenda penal, num juízo de suficiência, adequação e necessidade, e numa perspectiva de observância das finalidades profilática, pedagógica e retributiva da sanção penal.
+Com base nessas premissas, passo à análise das teses recursais.
+III. Redução da pena-base
+A fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à reprovação do delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentro dessa discricionariedade juridicamente vinculada, há de atentar para as singularidades do caso concreto, devendo, na primeira etapa do procedimento trifásico, guiar-se pelas oito circunstâncias relacionadas no caput do art. 59 do Código Penal. São elas: a culpabilidade; os antecedentes; a conduta social; a personalidade do agente; os motivos; as circunstâncias e as consequências do crime, e o comportamento da vítima.
+Na espécie, observo que o Juízo singular - no que foi acompanhado pela Corte local - considerou desfavoráveis as consequências do delito, pois a vítima ficou incapacitada para as ocupações habituais por mais de 30 dias.
+Tal justificativa é suficiente para o incremento da pena-base, e não configura bis in idem, visto que o crime de homicídio na modalidade tentada não pressupõe a ocorrência de lesões na vítima que a incapacite para suas ocupações habituais por grande período de tempo.
+A propósito, confira-se a jurisprudência do STJ:
+ ..
+2. A dosimetria é uma operação lógica, formalmente estruturada, de acordo com o princípio da individualização da pena. Tal procedimento envolve profundo exame das condicionantes fáticas, sendo, em regra, vedado revê-lo em sede de habeas corpus (STF: HC 97677/PR, 1.ª Turma, rel. Min. Cármen Lúcia, 29.9.2009 - Informativo 561, 7 de outubro de 2009). Assim, a dosimetria somente pode ser aferida em sede de habeas corpus quando há ilegalidade patente, o que não se verifica na espécie. A pena-base foi exasperada em 3 (três) anos, em razão da existência de elementos concretos, como as consequências do crime (Danosas e indeléveis, de ordem física e psicológica para a vítima cujas lesões impôs intervenções cirúrgicas impossibilitando-a de exercer suas atividades normais por mais de trinta dias), que evidenciam um plus de reprovabilidade na conduta do paciente.
+ ..
+4. Habeas corpus não conhecido. (HC n. 222.469/GO, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 9/12/2013, destaquei)
+ ..
+II - Na hipótese, analisando o aumento da pena-base efetivado pelo magistrado e mantido pelo eg. Tribunal de origem, a r. sentença condenatória evidenciou, com base em dados empíricos, o desvalor das consequências do crime, quais sejam: "Quanto às consequências, verifico que as lesões provocadas na vítima resultaram em incapacidade para ocupações habituais por mais de trinta dias, conforme atesta o auto de exame de corpo de delito de fl. 305-A. Considero essas circunstâncias algo de excepcional no contexto dos fatos, e compreendo que não estão valoradas automaticamente no tipo penal do homicídio tentado, levando-se em conta que uma tentativa de homicídio pode não resultar em lesões corporais (no caso de tentativa branca), e mesmo uma tentativa cruenta pode resultar em lesões menos graves ou duradouras - Isso exige aumento de pena nesta fase, em um ano de reclusão." Desse modo, não há que se falar em ilegalidade na exasperação da reprimenda-base, porquanto demonstrado as consequências do crime desvaforáveis ao paciente, o que exige resposta penal superior, em atendimento aos princípios da proporcionalidade e da individualização da pena. Precedentes.
+ ..
+Habeas corpus não conhecido.
+(HC n. 426.444/RS, Rel. Ministro Felix Fischer, 5ª T., DJe 7/3/2018, destaquei)
+IV. Execução imediata da pena
+Ante o esgotamento das instâncias ordinárias, como no caso, de acordo com entendimento firmado pelo Supremo Tribunal Federal, no julgamento do ARE n. 964.246, sob a sistemática da repercussão geral, é possível a execução da pena depois da prolação de acórdão em segundo grau de jurisdição e antes do trânsito em julgado da condenação, para garantir a efetividade do direito penal e dos bens jurídicos constitucionais por ele tutelados.
+V. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Por fim, determino o envio de cópia dos autos ao Juízo da condenação para imediata execução da pena imposta. A determinação deve ser desconsiderada caso o agravante já cumpra a reprimenda.
+Publique-se e intimem-se.
