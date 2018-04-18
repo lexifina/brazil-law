@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, suscitante, e o TRIBUNAL REGIONAL DO TRABALHO, suscitado, nos autos da reclamação trabalhista proposta por [NOME] e outros em face do Município de Cataguases/MG, visando a condenação da municipalidade ao pagamento do piso salarial estabelecido pela Lei nº 11738/2008.
+O juízo suscitado declarou-se incompetente para o julgamento da conforme os seguintes fundamentos (fl. 186):
+EMENTA: ADMINISTRAÇÃO PÚBLICA. REGIME ESTATUTÁRIO. INCOMPETÊNCIA MATERIAL DA JUSTIÇA DO TRABALHO. A Justiça do Trabalho, à luz do disposto no artigo 114, I, da CR/88, é competente para apreciar e dirimir controvérsias envolvendo empregados públicos, cujo regime jurídico é o celetista. No caso concreto, de acordo com a legislação de regência, os autores são servidores públicos estatutários, razão pela qual a competência para dirimir a controvérsia material de fundo é da Justiça Comum Estadual.
+O juízo suscitante instaurou o conflito negativo, aduzindo, em síntese que (fl. 243):
+EMENTA: APELAÇÃO CÍVEL - CONSTITUCIONAL - SERVIDOR MUNICIPAL - EMPREGADO PÚBLICO - REGIME CELETISTA - JUSTIÇA DO TRABALHO - COMPETÊNCIA. 1. Compete à Justiça do Trabalho julgar a causa oriunda da relação de trabalho mantida entre pessoa jurídica de direito público interno e empregado público submetido ao regime celetista.
+É o relatório. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+Tem-se que, para se definir qual é a Justiça competente para a análise desses autos, deve-se partir da premissa que os pedidos da exordial decorre de vínculo jurídico-administrativo entre as partes (fls. 107-114).
+In casu, os reclamantes relatam terem sido admitidos pelo Município de Cataguases/MG, mediante aprovação em concurso público, para exercer a função de professor da educação básica.
+Conforme explicitado na decisão do Juízo suscitado, a relação jurídica entre o Município de Cataguases/MG e seus servidores é de natureza estatutária, eis que nesse cenário, prevalece a decisão liminar proferida pelo Excelso Supremo Tribunal Federal na ADIn nº 3395-6 acerca da competência da Justiça Comum para analisar a pretensão de fundo que anima a lide, pois os autores são servidores públicos estatutários, ocupando cargo efetivos na estrutura funcional (fls. 191-192).
+Desse modo, nos termos da Súmula 137/STJ, compete à Justiça Comum Estadual o processamento e julgamento da presente demanda, diante da natureza jurídico-administrativa do vínculo havido entre os autores e o Município reclamado.
+No mesmo sentido, monocraticamente: CC 151.825/MG, Rel. Ministro OG FERNANDES, DJe de 31/05/2017; CC 146.326/MG, Rel. Ministro BENEDITO GONÇALVES, DJe de 11/04/2017 e CC 150.464/MG, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 08/02/2017.
+Sobre o tema, a orientação desta Corte Superior é no mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA DO TRABALHO. SERVIDOR MUNICIPAL. APROVAÇÃO EM CONCURSO PÚBLICO. DEMANDA DE NATUREZA ESTATUTÁRIA. SÚMULA 137/STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1.A despeito da contratação dos ora agravantes ter sido precedida de concurso público e serem regidos pela CLT, o pleito circunvolve-se à reintegração ao cargo anteriormente ocupado e ao pagamento de verbas salariais. Recai ao ponto a orientação firmada por este Superior Tribunal de Justiça na Súmula 137, segundo a qual compete à Justiça Comum Estadual processar e julgar ação de servidor público municipal, pleiteando direitos relativos ao vínculo estatutário.
+2.Agravo regimental a que se nega provimento.
+(AgRg no CC 70.003/RJ, 3ª Seção, Rel. Min. Celso Limongi, DJe 4.5.2010)
+Ante o exposto, conheço do conflito de competência, para declarar competente o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+Publique-se. Intimem-se.
