@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] contra a decisão de fls. 422/424, que deu provimento ao recurso especial para restabelecer a sentença.
+Em suas razões, sustenta a parte Embargante, em síntese, a ocorrência de erro grave na decisão, pois afirmou que:
+" ..  o embargante teria se aposentado em 1994 e que o auxílio-Acidente é inacumulável com a Aposentadoria por Tempo de Contribuição que recebe desde 1994  .. .
+ ..
+Eis que consta dos autos, fls. 276 a 280, a data de 08/09/1994 como sendo Auxílio Doença Previdenciário, espécie 31, concedido ao autor, justamente por ter sofrido o acidente de trabalho pelo esforço constante e exagerado no erguimento de peso no trabalho. Esta é a data da eclosão do Acidente de trabalho.
+O evento danoso ocorreu em 10/09/1993, consta na inicial, foi encaminhado à enfermaria da empresa e posteriormente ao Hospital, conforme as provas documentais e testemunhais.
+Somente em 23/05/2007 o autor recorrente obteve sua Aposentadoria por Tempo de Contribuição, vide escaneamento em anexo, somando-se o tempo comum juntamente com o tempo especial obteve mais de 36 anos de contribuição, conforme PPP - Perfil Profissiográfico Previdenciário anexado pelo INSS cujo risco ambiental consta apenas a exposição a ruído acima do limite de tolerância, sem mencionar a atividade penosa do labor." (fls. 429/430).
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Constou da decisão embargada que "o acórdão combatido diverge dessa orientação na medida em que admitiu a cumulação dos benefícios previdenciários, não obstante a aposentadoria seja posterior ao advento da Lei n.º 9.528/1997 (fl. 406)" (fl. 424, sem grifos no original).
+E essa informação de natureza fática foi extraída do acórdão recorrido, in verbis:
+"No caso em questão, a autarquia foi condenada no pagamento de auxílio-acidente ao autor, considerando as robustas provas carreadas aos autos de que a eclosão da patologia se deu em momento anterior à alteração legislativa que vedou a cumulação do auxílio-acidente com qualquer aposentadoria, inclusive com a concessão de dois auxílios-doença (NB 31/068321250-8, no período de 06 de setembro a 05 de outubro de 1994 e NB 31/108654539-4, no período de 10 de dezembro de 1997 a 04 de agosto de 1999). Ainda que a concessão de aposentadoria por tempo de contribuição em 23 de maio de 2007 (fls. 54) tenha sido posterior ao advento da Medida Provisória nº 1.596-14, convertida na Lei nº 9.528/97, o referido benefício acidentário se reveste de caráter vitalício, por força da legislação vigente na data de sua concessão, motivo pelo qual não pode ser suprimido." (sem grifos no original)
+Nessa linha, a decisão embargada não padece de qualquer vício, uma vez que o acórdão combatido divergia da orientação consolidada neste Superior Tribunal de Justiça sob o rito dos recurso especiais repetitivos.
+Portanto, não há qualquer irregularidade sanável por meio dos presentes embargos, tendo em vista que toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
