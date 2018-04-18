@@ -1,0 +1,14 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 134 e E 257, §§ 1º E 2º DO CTB. AUSÊNCIA DE PREQUESTIONAMENTO. SUMULA 356/STF. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo apresentado pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão que negou trânsito a recurso especial, interposto com base na alínea "a" do permissivo constitucional, em face de acórdão proferido pelo Tribunal de Justiça, assim ementado:
+"APELAÇÃO. MANDADO DE SEGURANÇA. RENOVAÇÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO. BLOQUEIO DE PRONTUÁRIO. PROCESSO ADMINISTRATIVO IRREGULAR.DESRESPEITO AO PRINCÍPIO DO CONTRADITÓRIO. SENTENÇA CONCESSIVA DA SEGURANÇA MANTIDA.
+APELO DESPROVIDO."
+Nas razões do recurso especial, a parte recorrente aponta violação ao artigo 134 E 257, §§ 1º e 2º do CTB. Sustenta que a responsabilidade pela multas e pelos pontos na carteira de motorista, é tanto do adquirente, quanto do alienante do veículo, pois ambos não efetuaram a comunicação da transferência do veículo ao órgão responsável, do prazo de 30 (trinta) dias.
+Nas razões do agravo, pugna-se pelo processamento do apelo nobre, ante o preenchimento de todos os seus requisitos de admissibilidade. É o necessário relatar. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Passo ao exame do especial, porquanto refutadas as razões pelas quais foi negado seguimento ao apelo especial.
+Não é possível conhecer da alegada violação dos arts. 134 E 257, §§ 1º e 2º do CTB , pois não houve apreciação pelo Tribunal de origem sobre o dispositivo e sobre a tese por ele abarcada - responsabilidade por multas e pontos na carteria -, o que impossibilita o julgamento do recurso neste aspecto, por ausência de prequestionamento, nos termos da Súmula 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Efetivamente, para a configuração do questionamento prévio não é necessário que o Tribunal de origem mencione expressamente o dispositivo infraconstitucional tido como violado. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não-preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso especial. Tal medida se justifica pelo simples fato de que não poderia o Tribunal de origem ter contrariado lei quanto a matéria que sequer tratou.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
