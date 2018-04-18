@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra decisão do Tribunal de Justiça do Estado de São Paulo, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 135):
+Auxílio-acidente Acidente típico Lesão no 5º quirodáctilo direito Sequelas que reduzem a capacidade laborativa do autor de forma parcial e permanente .
+Nexo causal devidamente comprovado Direito ao benefício corretamente reconhecido. Acidente ocorrido posteriormente à Lei nº 9.032/95. Recálculo do valor do auxílio-acidente Possibilidade, nos termos da Súmula nº 146 do STJ e precedentes desta C. Câmara. Termo inicial a partir do dia posterior à cessação do auxílio-doença, conforme critério estabelecido em lei Juros moratórios e correção monetária Incidência da Lei nº 11.960/09, observando-se, contudo, o decidido pelo STF nas ADIs nº 4.357, 4.372, 4.400 e 4.425. Honorários advocatícios fixados adequadamente.
+Reexame necessário provido em parte; apelo autárquico improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 154/158).
+No especial obstaculizado, o recorrente apontou violação do art. 535, I, do Código de Processo Civil de 1973, pelo não suprimento de omissão apontada em sede de embargos de declaração; e, no mérito, dos arts. 29, 124, V, da Lei 8.213/1991 e 884 do Código Civil, sob o argumento de que a incorporação do valor do benefício acidentário anterior na renda mensal do auxílio-acidente concedido nesta demanda constitui cumulação de benefícios vedada expressamente pela legislação federal, sendo inaplicável, à espécie, a Súmula 146 do STJ.
+Após apresentação de contrarrazões (e-STJ fls. 169/172), o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que não foram cumpridos os requisitos legais para seguimento do recurso especial.
+Na presente irresignação, o agravante sustenta que foram satisfeitos todos os requisitos para admissão do apelo nobre.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, qualquer contrariedade à norma invocada.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. DESVIO DE FUNÇÃO. NÃO COMPROVAÇÃO NA ORIGEM. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Não caracteriza violação do art. 535 do CPC quando a lide é decidida de modo claro, suficiente e fundamentado, ainda que o entendimento adotado seja contrário à pretensão deduzida pelo recorrente.
+2. O acórdão recorrido concluiu, levando em consideração depoimento pessoal e relato de testemunhas, que o servidor não laborava em desvio de função. Insuscetível de revisão o referido entendimento, por demandar reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1570382/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 03/03/2016, DJe 11/03/2016) (Grifos acrescidos).
+O acórdão recorrido, ao entender que, sendo o autor beneficiário de auxílio-acidente e vítima de novo infortúnio, fica assegurado o recálculo de seu benefício, somando-se ao salário de contribuição do período básico de cálculo o valor do benefício que percebe, decidiu em consonância com a Súmula 146 do Superior Tribunal de Justiça, que disciplina:
+"O segurado vítima de novo infortúnio, faz jus a um único benefício somado ao salário de contribuição do dia do acidente"
+Nesse mesmo sentido:
+Previdenciário. Auxílio-acidente. O segurado, vítima de novo infortúnio, faz jus a um único benefício somado ao salário-de-contribuição vigente no dia do acidente, a teor da Súmula nº 146/STJ. Embargos conhecidos e recebidos (EREsp 128761/SP, Rel. Ministro COSTA LEITE, Corte Especial, DJ 03/11/1998).
+EMBARGOS DE DIVERGÊNCIA. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. INACUMULABILIDADE DE BENEFÍCIOS. SÚMULA Nº 146 DO STJ. RECEBIMENTO DOS EMBARGOS.
+Assentou o enunciado da Súmula nº 146 que o segurado, vítima de novo infortúnio, faz jus a um único benefício somado ao salário de contribuição vigente no dia do acidente (EREsp 120.323/SC, Rel. Ministro HÉLIO MOSIMANN, Corte Especial, DJ 13/03/2000).
+PROCESSUAL E TRABALHO. AUXÍLIO-ACIDENTE. ACUMULAÇÃO. IMPOSSIBILIDADE. BENEFICIO ÚNICO. FIRMOU-SE A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA NO SENTIDO DE QUE, SE O SEGURADO SOFRE NOVO ACIDENTE SEM RELAÇÃO COM O ANTERIOR, FAZ JUS A UM SÓ BENEFICIO DEVIDAMENTE REAJUSTADO (EREsp 12628/SP, Rel. Ministro JESUS COSTA LIMA, Terceira Seção, DJ 20/03/1995).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se e intimem-se.
