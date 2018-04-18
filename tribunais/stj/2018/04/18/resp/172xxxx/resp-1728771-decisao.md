@@ -1,0 +1,42 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO [NOME]. INVALIDEZ PERMANENTE RECONHECIDA. PRESCRIÇÃO DA PRETENSÃO. CIÊNCIA DA INCAPACIDADE PELA PARTE DESDE O ACIDENTE. FATOS E PROVAS. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por TEODORO ALMEIDA OLIVEIRA, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurge contra acórdão do Tribunal de Justiça de Mato Grosso assim ementado (e-STJ, fls. 220-228):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO [NOME] - PRESCRIÇÃO - REJEITADA - INVALIDEZ PERMANENTE COMPROVADA - VALOR INDENIZATÓRIO - PROPORCIONALIDADE - TABELA DA SUSEP - APLICAÇÃO - CORREÇÃO MONETÁRIA A PARTIR DO EVENTO DANOSO - RECURSO DEPROVIDO.
+"Na ação de cobrança de indenização do seguro [NOME] o termo inicial da correção monetária é a data do evento danoso" (STJ - 3ª Turma - AgRg no AREsp 46.024/PR - Rel. Sidnei Beneti - j. 16/2/2012, Dje 12/03/2012.
+
+Os embargos de declaração opostos foram acolhidos para julgar prescrita a pretensão autoral (e-STJ, fls. 250-261).
+Confira-se a ementa:
+EMBARGOS DE DECLARAÇÃO - VÍCIO EXISTENTE - OMISSÃO - APELAÇÃO DESPROVIDA - EQUÍVOCO NO JULGAMENTO EM BLOCO - AUSÊNCIA DE JULGAMENTO DA PREJUDICIAL DE MÉRITO - PRESCRIÇÃO - ACOLHIDA - SEGURO [NOME] - INVALIDEZ NOTÓRIA - ENCURTAMENTO DE MEMBRO À ÉPOCA DO ACIDENTE - TERMO INICIAL DE 3 (TRÊS) ANOS DA CIÊNCIA INEQUIVOCA DA INCAPACIDADE - PRETENSÃO DA AÇÃO APÓS 7 (SETE) ANOS DO ACIDENTE SOFRIDO - CONHECIMENTO NA DATA DO SINISTRO - LAUDO MÉDICO QUE ATESTA A VERACIDADE DOS FATOS - PRESCRIÇÃO INCIDENTE - EMBARGOS ACOLHIDOS - ALTERAÇÃO DO JULGADO - APELAÇÃO QUE DEVE SER PROVIDA.
+A omissão que autoriza a interposição de embargos declaratórios é aquela existente quando um dos pedidos não é analisado, sendo indevida a interposição dos aclaratórios quando os pedidos são decididos, mesmo que por outros fundamentos.
+Havendo a omissão consistente na ausência de julgamento da prejudicial de mérito, necessário o acolhimento dos embargos para adequação da decisão.
+"O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca da incapacidade laboral" (Súmula 278/STJ).
+Desse modo resta configurada a prescrição da intenção de perceber o
+seguro obrigatório [NOME], a pessoa que teve o conhecimento da invalidez permanente na data do sinistro em que foi consolidada a lesão, conforme o laudo pericial. Assim não pode ser pleiteada a indenização após 7 (sete) anos da ciência inequívoca, tendo em vista o prazo prescricional de 3 (três) anos, nos ternos do art. 206, § 3º do Código Civil.
+No recurso especial, o recorrente aponta, além de divergência jurisprudencial, violação do art. 199 do Código Civil.
+Esclarece que se insurge contra o julgamento estadual decretando a prescrição da ação de cobrança de seguro [NOME]. Informa que somente teve ciência inequívoca de sua invalidez com a perícia médica realizada no ano de 2007, devendo essa data ser considerada para o início da contagem do prazo prescricional, conforme os REsps 1.388.030 e 1.305.993. Pondera que, desde a ocorrência do fato até o referido marco temporal não houve o transcurso do lapso prescricional trienal, o qual depende do conhecimento prévio da incapacidade laboral. Frisa que o acórdão foi calcado em presunção, o que não deve ser acatado, por não se vislumbrarem os requisitos para o estabelecimento da notoriedade do fato (e-STJ, fls. 266-279).
+Decisão de admissibilidade do recurso especial (e-STJ, fls. 347-349).
+Brevemente relatado, decido.
+A segunda instância concluiu, considerando o contexto fático-probatório da causa, que o recorrente teria tido ciência inequívoca de sua invalidez na data do fato. Estabeleceu o julgado que, "conforme ilustra a perícia do médico indicado pelo juízo singular às fls. 128/133, afirma que a invalidez se consolidou na ocorrência do acidente" (e-STJ, fl. 255), portanto, teria ocorrido a prescrição da pretensão, haja vista que o evento aconteceu em 24/4/2002, e a ação foi proposta 7 (sete) anos depois, ao passo que o prescricional seria de 3 (três) anos.
+Demonstrando que era notória a ciência da invalidez desde o acidente, o acórdão proferido nos embargos de declaração estampou que uma pessoa em sã consciência não teria como desconhecer sua condição de incapacidade laboral, por se tratar de uma lesão evidente (e-STJ, fl. 255). Ademais, de acordo com as "folhas 36/41 do Hospital Regional Dr. [NOME] no ano de 2006, resta claro que  ele  possuía conhecimento da lesão sofrida, pois resta no prontuário "fratura de clavícula", assim caracterizada resta a prescrição e a pretensão de ressarcimento do seguro [NOME], que poderia ser intentada até 13.11.2008" (e-STJ, fl. 255).
+A corroborar suas alegações, o Tribunal de Justiça atestou que a lesão causadora da incapacidade teria ocasionado um "encurtamento do membro", que não poderia ser de desconhecimento da parte nem decorrente de ausência de tratamento efetivado durante os 7 (sete) anos em que ficou inerte.
+Portanto, embora o entendimento desta Corte Superior preveja que o termo inicial da prescrição, em regra, decorra da realização de perícia médica conclusiva sobre a incapacidade, excepcionalmente, há casos em que esse conhecimento decorre do próprio acidente, como ocorreu nos presentes autos.
+Na espécie, o Colegiado local firmou ser notória a ciência da incapacidade pelo agravante desde a data do fato, atraindo a aplicação da Súmula 7/STJ por ambas as alíneas do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL. [NOME]. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. "O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez" - Súmula 278/STJ.
+2. Exceto nos casos de invalidez permanente notória (amputação de membro, entre outros), ou naqueles em que o conhecimento anterior resulte comprovado na fase de instrução, a vítima do acidente de trânsito tem ciência inequívoca do caráter permanente de sua incapacidade na data da emissão do laudo médico pericial (REsp repetitivo n. 1.388.030/MG, Rel. Ministro Paulo de Tarso Sanseverino, SEGUNDA SEÇÃO, julgado em 11.6.2014, DJe 1.8.2014).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1635151/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/05/2017, DJe 22/05/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE DIFERENÇA DE INDENIZAÇÃO SECURITÁRIA OBRIGATÓRIA ([NOME]). INVALIDEZ PERMANENTE PARCIAL. PRAZO PRESCRICIONAL TRIENAL. TERMO INICIAL.
+1. A jurisprudência da Segunda Seção, reafirmando a exegese cristalizada na Súmula 278/STJ, assentou que o termo inicial do prazo prescricional trienal para o exercício da pretensão de cobrança da indenização do seguro [NOME] "é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez" (REsp 1.388.030/MG, Rel. Ministro Paulo de Tarso Sanseverino, julgado em 11.6.2014, DJe 1º.8.2014). 2. Posteriormente, o referido órgão julgador esclareceu que, exceto nos casos de invalidez permanente notória (amputação de membro, entre outros) ou naqueles em que o conhecimento anterior resulte comprovado na fase de instrução, a vítima do acidente de trânsito tem ciência inequívoca do caráter permanente de sua incapacidade na data da emissão do laudo médico pericial (EDcl no REsp 1.388.030/MG, julgado em 27.8.2014, DJe 12.11.2014).
+3. Agravo interno não provido.
+(AgInt no REsp 1391511/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/05/2017, DJe 19/05/2017)
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. CIVIL E PROCESSUAL CIVIL. [NOME]. TERMO INICIAL DA PRESCRIÇÃO. CIÊNCIA INEQUÍVOCA DO CARÁTER PERMANENTE DA INVALIDEZ. NECESSIDADE DE LAUDO MÉDICO.
+1. Para fins do art. 543-C do CPC: 1.1. O termo inicial do prazo prescricional, na ação de indenização, é a data em que o segurado teve ciência inequívoca do caráter permanente da invalidez.
+1.2. Exceto nos casos de invalidez permanente notória, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico, sendo relativa a presunção de ciência.
+2. Caso concreto: Inocorrência de prescrição, não obstante a apresentação de laudo elaborado quatro anos após o acidente.
+3. RECURSO ESPECIAL DESPROVIDO.
+(REsp 1388030/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 11/06/2014, DJe 01/08/2014)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
