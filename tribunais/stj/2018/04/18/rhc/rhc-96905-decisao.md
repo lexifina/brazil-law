@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que o recorrente foi preso em flagrante, convertida a prisão em preventiva, pela prática, em tese, do delito previsto no art. 157, § 2º, inciso II, do Código Penal.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 66):
+HABEAS CORPUS CRIME - ROUBO MAJORADO (ART. 157, § 2º, II DO CP) - ALEGAÇÃO DE COAÇÃO ILEGAL ESCORADA NO EXCESSO DE PRAZO PARA O DESFECHO PROCESSUAL - NÃO OCORRÊNCIA NA ESPÉCIE - INCIDÊNCIA DO PRINCÍPIO DA RAZOA BILIDADE - COMPLEXIDADE DO CASO EM APREÇO - PLURALIDADE DE AGENTES (04 ACUSADOS) E NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS - INSTRUÇÃO PRESTES A SER ENCERRADA, RESTANDO APENAS TRÊS TESTEMUNHAS A [NOME] - AUSÊNCIA DE DESÍDIA ESTATAL NA CONDUÇÃO DO PROCESSO - ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA PROPORCIONALIDADE - NÃO ACOLHIMENTO - INCABÍVEL A REALIZAÇÃO DE PROJEÇÕES A RESPEITO DE REGIME DE CUMPRIMENTO DE PENA QUE AINDA SERÁ FIXADO - PRECARIEDADE DAS CONDIÇÕES PRISIONAIS A QUE SE ENCONTRA SUBMETIDO O PACIENTE - AUSÊNCIA DE PROVAS DO ALEGADO PELO IMPETRANTE CIRCUNSTÂNCIA QUE, POR SI SÓ, NÃO SE MOSTRA SUFICIENTE PARA A REVOGAÇÃO DO DECRETO PREVENTIVO, SOBRETUDO QUANDO PRESENTES OS REQUISITOS AUTORIZADORES - ORDEM DENEGADA
+No presente recurso, a defesa sustenta, em síntese, o excesso de prazo para a formação da culpa, sem que a defesa tenha colaborado para tamanho atraso na realização dos atos processuais.
+Contrarrazões às e-STJ fls. 117/122.
+É o relatório, decido.
+A liminar em recurso ordinário em habeas corpus, bem como em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência, sendo necessário aprofundado exame dos autos para a aferição de eventual constrangimento ilegal.
+Acerca do excesso de prazo, outrossim, não há dados suficientes nos autos que atestem, de plano, a existência de retardo injustificado atribuído exclusivamente ao apartado da Justiça. Cumpre salientar que o alegado excesso de prazo não pode ser apreciado apenas pela soma aritmética dos prazos, pois o processo penal é dinâmico, com vários incidentes, podendo sofrer empeços diversos, provocados inclusive pela defesa. Por isso, nesses casos, é imprescindível aguardar a vinda das informações, devidamente atualizadas.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau, inclusive o envio de senha, se for o caso, para acesso às informações processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Após, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intime-se.
