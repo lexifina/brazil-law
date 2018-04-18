@@ -1,0 +1,34 @@
+DECISÃO
+CHARLES HENRIQUE LOURENÇO DE OLIVEIRA agrava de decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás na Revisão Criminal n. 224854-97.2013.8.09.0000.
+Depreende-se dos autos que o agravante foi condenado à pena de 15 anos de reclusão, em regime fechado, como incurso no art. 121, § 2º, incisos I e IV, c/c os arts. 14, II, por três vezes, e 69, todos do Código Penal. Depois do trânsito em julgado da condenação, a defesa apresentou pedido de revisão criminal, que foi parcialmente conhecido e, nessa extensão, indeferido, nos termos da seguinte ementa (fls. 458-459):
+REVISÃO CRIMINAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. SENTENÇA CONTRÁRIA À EVIDÊNCIA DOS AUTOS E REDUÇÃO DA PENA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. I - A Revisão Criminal não constitui uma segunda apelação, não aceitando o mero reexame de prova já apreciada em duas oportunidades e não havendo novas provas formalmente produzidas, torna-se incabível o pedido.
+NULIDADE POR AUSÊNCIA DE QUESITAÇÃO DO CONCURSO MATERIAL EM JÚRI. INDEFERIMENTO. II - Tal tese não merece ser apreciada por ter sido apresentada em momento inoportuno, visto que não fora suscitada em plenário, ficando precluso.
+DESCARACTERIZAÇÃO DO CONCURSO MATERIAL PARA O FORMAL COM CONSEQUENTE REDUÇÃO DA PENA. III - O autor efetuou disparos contra vítimas distintas, restando configurado o concurso material.
+BENEFÍCIO DA ASSISTÊNCIA GRATUITA. IV - A ação revisional é eximida de recolhimento de custas judiciais ou despesas, não acarretando ônus ao recorrente. AUTOR JULGADO, EM PARTE, CARECEDOR DO DIREITO DE AÇÃO E INDEFERIDOS OS DEMAIS PEDIDOS.
+Nas razões do recurso especial, a defesa sustenta violação dos arts. 59, 68, 69 e 70, todos do Código Penal. Alega que "o não sopesamento adequado das circunstâncias produziu pena base acima do mínimo legal nas três situações ventiladas, gerando reprimenda que deve ser corrigida à luz da melhor doutrina e da jurisprudência pátria" (fl. 468).
+Também defende a aplicação do concurso formal, pois "o recorrente praticou em verdade uma única conduta voltada finalisticamente à produção do resultado morte da vítima Renato, no entanto, acabou por agredir bens jurídicos diversos" (fl. 469).
+Requer, dessa forma, a redução da pena-base e a "aplicação do concurso formal na aplicação das penas, nos moldes do art. 70 do Código Penal brasileiro e não o concurso material tal como consta dos autos" (fl. 471).
+O recurso especial não foi admitido pelo Tribunal a quo (fls. 480-482), o que ensejou a interposição deste agravo (fls. 487-496).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 511-513).
+Decido.
+O agravo é tempestivo e foram observados os demais requisitos necessários à sua admissibilidade. No entanto, o recurso especial interposto não comporta conhecimento.
+O Tribunal de origem não analisou o mérito do pedido de redução da pena, fundado no suposto "não sopesamento adequado das circunstâncias judiciais", pois entendeu que a revisão criminal não seria o meio cabível para tal discussão. Dessa forma, não debateu nenhum dos dispositivos federais tidos por violados (arts. 59, 68 e 69, todos do CP), o que configura a ausência de prequestionamento. Incide o óbice das Súmulas n. 282 e 356 do STF.
+Confira-se trecho do decisum:
+No presente caso, o suporte jurídico da pretensão revidenda é o artigo 621, inciso I, 1ª parte, do Código de Processo Penal, qual seja, quando a sentença condenatória for contrária ao texto expresso da lei penal.
+ ..
+No presente caso, o requerente não trouxe para os autos qualquer elemento novo ou mesmo demonstrou a contrariedade entre a decisão revidenda e as provas produzidas de modo a justificar a revisão pretendida, quer em processo de justificação judicial, quer em sentença declaratória ou processo criminal, pois em sede de Revisão Criminal, inverte-se o ônus da prova.
+ ..
+Em face das alegações apresentadas, patente que a argumentação do Requerente não modificou em nada as provas produzidas durante o trâmite processual, uma vez que não demonstrou de maneira inequívoca, contrariedade à evidência do processo.
+ ..
+Sendo assim, quanto à sentença ser contrária à evidências dos autos e quanto ao pedido de redução da pena, tais pleitos já foram explanados em sede de Apelação, portanto, não serão conhecidos (fls. 451-455, destaquei).
+Cumpre registrar que, ao interpor o recurso especial, a defesa deixou de suscitar violação ao art. 621 do Código de Processo Penal e, por conseguinte, de impugnar o único fundamento adotado pela instância antecedente para obstar a apreciação do tema, o que também atrai a incidência da Súmula n. 283 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Quanto à possibilidade se aplicar a regra do concurso formal na espécie, o Tribunal a quo ressaltou o seguinte (fl. 456):
+Além disso, quanto ao pleito de reconhecimento do concurso formal, com consequente redução da pena, faço uso, novamente, das palavras do Procurador de Justiça oficiante que aduziu "quanto ao pleito de reconhecimento de concurso formal, porquanto presentes os desígnios autônomos na prática dos crimes contra vítimas diferentes (..) o requerente efetuou diversos disparos contra elas, estando, portanto, configurado o cúmulo material" (fl. 419).
+Dessa forma, não há como se afastar o concurso material ou substituí-lo por concurso formal.
+Como visto, com esteio nos fatos e provas soberanamente delineados nas instâncias ordinárias, o Tribunal a quo assentou a ocorrência do concurso material. Assim, rever tal entendimento - para concluir que não houve desígnios autônomos na prática dos crimes contra três vítimas diferentes - demandaria análise do contexto fático-probatório, prática obstada pela Súmula n. 7 do STJ.
+A propósito:
+ ..
+3. As instâncias ordinárias, analisando as circunstâncias do caso concreto, decidiram que os resultados criminosos resultam de desígnios autônomos, restando caracterizado o concurso formal impróprio, para se chegar a solução diversa reconhecendo-se a unidade de desígnios para fins de caracterização do concurso formal próprio ou eventual absorção de um delito por outro, seria inevitável o revolvimento do arcabouço probatório carreado aos autos, o que é inviável nos termos do que preceitua o enunciado 7 da Súmula desta Corte.
+4. Agravo regimental a que se nega provimento (AgRg no REsp n. 1.171.947/MS, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 1º/2/2013).
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
