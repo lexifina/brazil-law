@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO DOS ARTIGOS 458 E 535 DO CPC/1973. NÃO OCORRÊNCIA. EXECUÇÃO DE SENTENÇA. ACORDO ADMINISTRATIVO. COISA JULGADA. AFASTAMENTO. FUNDAMENTO ESSENCIAL NÃO INFIRMADO. INCIDÊNCIA DA SÚMULA 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 1.494):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. RAZÕES DISSOCIADAS. NÃO CONHECIMENTO. ACORDO ADMINISTRATIVO. HOMOLOGAÇÃO JUDICIAL. DESNECESSIDADE.
+1. Não se conhece da apelação cujas razões estejam dissociadas daquilo que foi decidido na sentença.
+2. O acordo celebrado nos termos da Medida Provisória nº 1.704/98 merece ser prestigiado, de modo a preservar-se a segurança no negócio jurídico livremente ajustado entre as partes. A necessidade de homologação judicial da transação ocorre apenas se houver ação individual proposta pelo servidor. Firmado o termo na via administrativa, o único título de que dispõe o servidor é o próprio acordo, devendo ser extinta a ação em que pretende executar o título judicial decorrente da ação coletiva.
+Embargos de declaração rejeitados
+Os recorrentes alegam violação dos artigos 458, II, e 535, II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto à questão de fundo, sustentam ofensa aos artigos 467, 468, 473 e 474 do CPC/1973, pois "considerando que há decisão judicial transitada em julgado com expressa permissão no título executivo para que os servidores recebam as diferenças entre o valor recebido administrativamente e o valor apurado em conformidade com o título executivo, não pode haver a modificação de tal decisão em sede de embargos à execução" (fl. 1.552). Afirmam, ainda, que ao entender prescindível a assistência ou interveniência dos advogados no acordo administrativo, bem como a desnecessidade de homologação judicial, o acórdão recorrido violou os arts. 842 do Código Civil, 36 e 158 do CPC/1973.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 1.589.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Sob esse enfoque, afasta-se a alegada violação dos artigos 458 e 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No mais, observa-se que o Tribunal de origem manteve a sentença que julgou procedentes os embargos do devedor, extinguindo a execução, aos fundamentos de que (fls. 1.490-1.492):
+ ..
+No que toca às transações administrativas relativas ao reajuste de 28,86%, assim dispôs a MP nº 1.704/98:
+Art. 7º Ao servidor que se encontre em litígio judicial visando ao pagamento da vantagem de que cuida esta Medida Provisória é facultado receber os valores devidos até 30 de junho de 1998, pela via administrativa, firmando transação, até 30 de dezembro de 1998, a ser homologada no juízo competente.
+Da leitura do referido dispositivo legal, verifica-se que a necessidade de homologação judicial da transação firmada na via administrativa ocorre apenas na hipótese de haver ação individual proposta pelo servidor.
+Nesses casos, as transações não homologadas judicialmente não possuem o efeito jurídico de determinar a extinção da execução, devendo, apenas, para que não haja enriquecimento ilícito dos exequentes, serem abatidos os valores pagos administrativamente.
+Por sua vez, inexistindo ação individual, efetuado o acordo administrativo, oservidor abre mão de eventuais diferenças decorrentes de título judicial, sendo descabida qualquer pretensão de retratação unilateral da transação. Firmado o termo na via administrativa, o único título de que dispõe o servidor é o próprio acordo, devendo ser extinta a ação em que pretende executar o título judicial decorrente da ação coletiva.
+ ..
+Ademais, é prescindível a participação de advogado na celebração do acordo quando realizado por agente capaz, ausentes quaisquer vícios.
+ ..
+No caso específico dos autos, os exequentes não negam a existência do acordo administrativo. Pelo contrário. Admitem a celebração do ajuste ao referirem, na impugnação aos embargos, que "a totalidade dos valores acordados administrativamente" foi abatida quando da elaboração dos cálculos de liquidação.
+As fichas financeiras e os comprovantes de rendimentos juntados na ação principal, indicando o pagamento de parcelas a título do reajuste de 28,86%, ratificam a existência das transações.
+Assim, como o presente título executivo é decorrente de ação coletiva, e a execução foi ajuizada posteriormente aos acordos firmados, desnecessária a homologação judicial das transações, bem como a presença de advogados, devendo ser prestigiado o ajuste entre as partes, de modo a preservar-se a segurança nos negócios jurídicos livremente celebrados.
+Por fim, verifico que, de fato, nos autos da ação coletiva, a Turma entendeu ser necessária a participação do advogado para a homologação judicial do acordo.
+Ocorre que, no caso, como antes referido, mostra-se desnecessária a homologação judicial para que o acordo produza efeitos, uma vez que, repito, à época de sua celebração, inexistia ação individual proposta pelos servidores.
+ ..
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide ao caso a Súmula 283/STF.
+De fato, do excerto acima transcrito infere-se que o Tribunal de origem concluiu que "a necessidade de homologação judicial da transação firmada na via administrativa ocorre apenas na hipótese de haver ação individual proposta pelo servidor" e que "firmado o termo na via administrativa, o único título de que dispõe o servidor é o próprio acordo, devendo ser extinta a ação em que pretende executar o título judicial decorrente da ação coletiva".
+Nas razões do apelo especial, no entanto, a parte recorrente limitou-se a afirmar que os acordos não são válidos, bem como que houve ofensa à coisa julgada, sem contraporem seu inconformismo de forma específica ao acórdão prolatado, ferindo, dessa forma, o princípio da dialeticidade.
+Consoante jurisprudência desta Corte Superior incumbe ao recorrente impugnar os fundamentos da decisão recorrida, mostrando a razão pela qual seriam incorretos, sob pena de ficar caracterizada a ausência de interesse recursal. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. NEGATIVA DE TRÂNSITO AO RECURSO ESPECIAL. VIOLAÇÃO A NORMATIVOS CONSTITUCIONAIS. INADEQUAÇÃO RECURSAL. SÚMULA 284/STF. VIOLAÇÃO A NORMATIVOS FEDERAIS. PETIÇÃO DEFICIENTE. INDICAÇÃO GENÉRICA DE VIOLAÇÃO A LEI. SÚMULA 284/STF. FUNDAMENTAÇÃO INATACADA. SÚMULA 283/STF. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ.
+2. A mera indicação genérica de ofensa do acórdão da origem a diploma legal federal, sem especificação dos respectivos preceitos e normas, não cumpre o princípio da dialeticidade nem se presta a autorizar o processamento do apelo extremo. Incidência da Súmula 284/STF.
+3. Não se conhece do recurso especial quando o acórdão tem múltiplos fundamentos autônomos e o recurso não abrange todos eles. Inteligência da Súmula 283/STF.
+5. Agravo interno não provido (AgInt no AREsp 875.095/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/6/2016).
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
