@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por [NOME], desafiando acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o recorrente foi preso em flagrante pela prática das condutas descritas nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, pois, após o cumprimento de mandado de busca e apreensão, foram encontrados, em sua residência, 3 (três) torrões de substância semelhante à maconha.
+A prisão em flagrante foi convertida em preventiva.
+Contra essa decisão insurgiu-se a defesa.
+Entretanto, em sessão de julgamento realizada em 8 de setembro de 2016, a Quarta Câmara Criminal denegou a ordem de habeas corpus.
+No Superior Tribunal de Justiça, sustenta a defesa que não existe o mínimo indício de prova acerca da materialidade do crime de tráfico de drogas. Destaca que as conversas interceptadas apenas demonstram a compra do entorpecente pelo recorrente para uso próprio, situação corroborada pela quantidade irrelevante de estupefaciente encontrada em sua residência.
+Reverbera, outrossim, não estarem presentes os requisitos necessários à decretação da prisão preventiva. Pondera que as instâncias de origem não apresentaram elementos ou circunstâncias de perigo à ordem social, tampouco de afetação ao regular seguimento do processo criminal.
+Assere, ademais, que a medida excepcional apoiou-se somente nos elementos de informação coletados durante a prisão em flagrante de corréu, ocasião em que foram retiradas do aparelho celular respectivo conversas de whatsapp sem a devida e necessária autorização judicial.
+Diante dessas considerações, pede, em tema liminar, a revogação da prisão preventiva, expedindo-se o competente alvará de soltura.
+O pedido liminar foi indeferido (e-STJ fls. 95/97).
+Prestadas as informações, o Ministério Público Federal opinou pelo parcial provimento do recurso (e-STJ fls. 173/176).
+É, em síntese, o relatório.
+Infere-se dos autos que o Tribunal de origem não apreciou a questão da nulidade das provas obtidas por meio de telefone celular apreendido, asseverando que "a questão deverá ser apreciada nos autos da ação penal, não havendo mácula a ser reconhecida por essa ação constitucional" (e-STJ fl. 54). Sendo assim, a análise do tema não pode ser submetida a esta Corte Superior, sob pena de configurar indevida supressão de instância.
+A propósito, confiram-se os precedentes:
+ ..  3. As alegações de deficiência de defesa técnica e de ausência de autodefesa não foram enfrentadas no acórdão combatido, o que impede a análise da matéria pelo Superior Tribunal de Justiça, sob pena de supressão de instância. Precedentes.  ..  (HC 262.860/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/4/2016, DJe 22/4/2016)
+ ..  1. O Tribunal de origem não analisou a suposta ausência de fundamentação idônea para a exasperação da pena-base, de forma que seu exame diretamente por esta Corte Superior acarretaria indevida supressão de instância.  ..  (HC 319.513/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/4/2016, DJe 20/4/2016)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL EM RAZÃO DA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA. MATÉRIA NÃO APRECIADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. DEVOLUÇÃO DOS AUTOS PARA DECISÃO SOBRE O MÉRITO DA IMPUGNAÇÃO ORIGINÁRIA. RECURSO PARCIALMENTE PROVIDO.
+I - A prisão cautelar só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal. O juízo de piso, ao decreta-la, inevitavelmente, deverá se pronunciar sobre os seus motivos legitimadores, ainda que de maneira que depois se considere lacunosa ou deficiente.
+II - Na hipótese, o magistrado de primeira instância já opinou sobre os requisitos e os motivos ensejadores da prisão, quando a decretou originariamente, não sendo necessário que reitere as suas razões para que a possível ilegalidade seja levada ao conhecimento do Tribunal.
+III - Todavia, não tendo a eg. Corte a quo se pronunciado sobre a matéria, não pode este Superior Tribunal de Justiça enfrentar o tema, sob pena de incorrer em indevida supressão de instância. Recurso ordinário parcialmente provido, para determinar que os autos retornem ao eg. Tribunal de origem, devendo este decidir, como entender de direito, acerca da adequação da fundamentação da prisão cautelar do ora recorrente. (RHC 64.088/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/4/2016, DJe 20/4/2016)
+De outro lado, informações prestadas pelo Juízo de piso dão conta de que, em 14/10/2016, o ora recorrente foi beneficiado com a concessão da liberdade provisória.
+Nessas circunstâncias, havendo a superveniência de decisão judicial concedendo ao recorrente o benefício da liberdade provisória, o presente recurso - que objetivava, justamente, sua liberdade - perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
