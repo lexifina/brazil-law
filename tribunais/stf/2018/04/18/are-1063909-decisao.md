@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 09, p. 86):
+    RECURSO EM HABEAS CORPUS. PRETENSÃO DE TRANCAMENTO DE INQUÉRITO POLICIAL. INVESTIGAÇÃO DOS CRIMES DE ASSOCIAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO, FALSIDADE IDEOLÓGICA, CRIMES CONTRA O SISTEMA FINANCEIRO E OUTROS. ALEGAÇÃO DE EXCESSO DE PRAZO. INVESTIGAÇÃO QUE PERDURA DESDE SETEMBRO DE 2002. INEXISTÊNCIA DE ACUSAÇÃO FORMAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+    1. Embora o prazo de conclusão do inquérito policial, em caso de investigado solto, seja impróprio, ou seja, podendo ser prorrogado a depender da complexidade das investigações, a delonga por aproximadamente 14 anos se mostra excessiva e ofensiva ao princípio da razoável duração do processo.
+    2. Mostra-se inadmissível que, no panorama atual, em que o ordenamento jurídico pátrio é norteado pela razoável duração do processo (no âmbito judicial e administrativo) – cláusula pétrea instituída expressamente na Constituição Federal pela Emenda Constitucional n. 45/2004 –, um cidadão seja indefinidamente investigado, transmutando a investigação do fato para a investigação da pessoa. Precedente.
+    3. Não se desconhece o fato de que a investigação é complexa, contando com indícios da prática de crimes de lavagem de dinheiro, falsidade ideológica, crimes contra o sistema financeiro e outros, por meio de associação criminosa atuante por quase vinte Estados da Federação, além da criação de "empresas de fachada", nacionais e estrangeiras, em nome de "testas de ferro" e "laranjas" das atividades desenvolvidas, bem como manobras contratuais e contábeis efetuadas para "maquiar" o patrimônio dos efetivos sócios das empresas.
+    4. Colocada a situação em análise, verifica-se que há direitos a serem ponderados. De um lado, o direito de punir do Estado, que vem sendo exercido pela persecução criminal que não se finda. E, do outro, da recorrente em se ver investigada em prazo razoável, considerando-se as consequências de se figurar no pólo passivo da investigação criminal e os efeitos da estigmatização do processo.
+    5. Recurso provido para trancar o Inquérito Policial n. 2002.38.01.005073-9, em trâmite na 2ª Vara Federal da Seção Judiciária da Bahia, sem prejuízo da abertura de nova investigação, caso surjam provas substancialmente novas. O trancamento deve abranger os demais investigados, que se encontram em situação fático-processual idêntica.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, alega-se ofensa aos arts. 2º, 5º, II, e 37, todos da CF. Sustenta-se que o acórdão recorrido viola o princípio da legalidade ao obstar a continuação de investigação complexa, pois cabe ao Ministério Público e ao Poder Judiciário a apuração de crimes não prescritos.
+    A Vice-Presidência do STJ inadmitiu o recurso extraordinário por falta de preliminar fundamentada de repercussão geral e incidência das Súmulas 284 e 279.
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Consabido, a admissibilidade dos recursos extraordinários é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, constata-se que a negativa de seguimento do apelo extremo se baseou em três fundamentos. Entretanto, o agravante somente impugna a falta de repercussão geral. Sendo assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF.
+    Ante o exposto, não conheço do agravo, nos termos do art. 21, §1º, RISTF.
+    Publique-se.
+    Brasília, 18 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
