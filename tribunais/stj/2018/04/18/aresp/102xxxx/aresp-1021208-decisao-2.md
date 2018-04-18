@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que inadmitiu recurso especial manifestado, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba.
+Consta dos autos que o agravante foi condenado, em primeiro grau de jurisdição, à pena privativa de liberdade de 11 meses e 16 dias de detenção, em regime inicial aberto, substituída por duas restritivas de direitos, como incurso nos arts. 138 e 140, c/c o art. 141, II e III, todos do Código Penal.
+O Tribunal de origem negou provimento ao recurso de apelação defensivo (e-STJ fls. 657/676).
+Nas razões do especial, alega o recorrente violação dos arts. 41, 59 e 143 do Código Penal, 60, 61 e 89 da Lei n. 9.099/1995, e 1º, III, e 5º, LIV e LV, da Constituição da República.
+Sustenta, em síntese, as seguintes teses: (i) inépcia da denúncia, por não haver "descrição individualizada da possível conduta delituosa de cada acusado" (e-STJ fl. 754), sobretudo por "em nenhum momento delimit ar  a conduta deste recorrente, [NOME], sempre se referindo a este conjuntamente com os outros corréus, no plural" (e-STJ fl. 756); (ii) equivocada capitulação da conduta, o que "retirou do recorrente, ilegalmente, o direito ao rito" da Lei n. 9.099/95 e o direito à suspensão do processo; (iii) extinção da punibilidade, por retratação dos comentários proferidos; (iv) ausência de fundamentação idônea na análise da pena-base; e (v) incidência do princípio da insignificância, tendo em vista que o comentário, "mesmo nos termos descritos na exordial, teria sido de ínfimo potencial ofensivo, em repercussão à coluna do jornal" (e-STJ fl. 767).
+Requer seja decretada a nulidade do processo desde o recebimento da denúncia ou, alternativamente, desde o seu recebimento, ou, sucessivamente, seja declarada a extinção da punibilidade em relação ao crime de calúnia, com, ainda, reconhecimento do princípio da insignificância penal, ou, em último caso, sejam as penas aplicadas no mínimo legal.
+Inadmitido o recurso pelo Tribunal de origem (e-STJ fls. 811/813), os autos subiram a esta Corte por meio de agravo (e-STJ fls. 818/833).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ fls. 909/919).
+É, em síntese, o relatório. Decido.
+O Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, não o admitiu em razão dos seguintes fundamentos: (i) inadequação do recurso especial para a análise de dispositivos constitucionais; (ii) necessidade de reexame de fatos e provas, no que se refere à violação dos arts. 41 do CPP, e 60, 61 e 89 da Lei n. 9.099/1995 (Súmula n. 7/STJ); e (iii) falta de impugnação de fundamentos relevantes, no que diz respeito aos arts. 59 e 143 do CP (Súmula n. 293/STF).
+Todavia, nas razões do agravo em recurso especial, a defesa não atacou especificamente o primeiro fundamento supramencionado (reiterando, aliás, o argumento de que há violação dos arts. 1º, III, e 5º, LIV e LV, da Constituição da República - e-STJ fl. 828).
+Aplica-se, no caso, portanto, o óbice cristalizado na Súmula n. 182 desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NÃO COMBATIDOS. AGRAVO REGIMENTAL NÃO PROVIDO. DOSIMETRIA REFORMADA PELO TRIBUNAL A QUO. DETRAÇÃO. COMPETÊNCIA. CORTE DE ORIGEM. HABEAS CORPUS CONCEDIDO.
+1. Verificado que o agravante deixou de impugnar os fundamentos da inadmissão do recurso especial, incide o enunciado sumular n. 182 do STJ.
+ ..
+4. Agravo regimental não provido. Habeas Corpus concedido, de ofício, para determinar que a Corte estadual aplique o instituto da detração em favor do recorrente, fixando-lhe o regime de cumprimento de pena que entender adequado. (AgRg no AREsp 1021073/TO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/09/2017, DJe 02/10/2017, grifei).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO E CORRUPÇÃO DE MENORES. DECISÃO DE NÃO CONHECIMENTO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO. DOSIMETRIA. ILEGALIDADE FLAGRANTE. PENA-BASE. FUNDAMENTAÇÃO ABSTRATA. HABEAS CORPUS DE OFÍCIO. CONCEDIDO.
+1. Nos termos da 182 da Súmula desta Corte, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+3. Agravo regimental improvido, mas concedido habeas corpus de ofício para afastar as valorações abstratas e reduzir a pena para 8 anos e 2 meses de reclusão e ao pagamento de 60 dias-multa. (AgRg no AREsp 915.415/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/09/2017, DJe 13/09/2017, grifei).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
