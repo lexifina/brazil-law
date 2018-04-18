@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto de acórdão que recebeu a seguinte ementa (e-STJ fl. 1.283):
+IMPUGNAÇÃO. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA PROMOVIDA PELO IDEC. EXPURGOS INFLACIONÁRIOS. Cumprimento de sentença que pleiteia os expurgos julgados pela Vara da Fazenda Pública do Estado de São Paulo.
+Legitimidade do IDEC reconhecida para propor a execução do julgado. Inteligência dos arts. 97 e 82, IV do CDC. Observância do art. 614, lI, do CPC. Possibilidade de pedido formulado por co-titular da conta. Pretensão do banco em rediscutir em apelo adesivo questões já superadas na fase de conhecimento. Preliminares afastadas. RECURSO ADESIVO DO BANCO DESPROVIDO. PLANO VERÃO. INCLUSÃO DOS ÍNDICES RELATIVOS AOS PLANOS ECONÔMICOS POSTERIORES AO CONTEMPLADO NO PEDIDO INICIAL. Cabimento. Mera aplicação da correção monetária que se presta a recompor vaIor da moeda. JUROS REMUNERATÓRIOS. Possibilidade. Devem ser incorporados ao capital para restituir equilíbrio entre as partes. JUROS DE MORA. Os juros legais a partir da vigência do CC/2002 são devidos no percentual de 1% como mera adequação ao percentual legal. RECURSO PRINCIPAL DO AUTOR PROVIDO.
+Alega-se ofensa aos arts. 6º, 17, 18, 20, 128, 293, 460, 468, 471, 473, 475-G, 535 e 538 do Código de Processo Civil de 1973; 97 e 100 do Código de Defesa do Consumidor - CDC, bem como dissídio.
+Discute-se, além de vícios processuais, a ilegitimidade do Instituto para a execução da ação civil pública em nome dos seus representados, bem como a impossibilidade de inclusão dos juros remuneratórios na execução do crédito reconhecido na sentença da referida ação civil pública, sob o fundamento de que não constante do título.
+A questão merece melhor exame por esta Corte Superior.
+Em face do exposto, dou provimento ao agravo e determino a conversão em recurso especial.
+Intimem-se.
