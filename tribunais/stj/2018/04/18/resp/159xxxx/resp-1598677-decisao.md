@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535, II, DO CPC/1973. OMISSÃO. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 171, e-STJ):
+EMBARGOS À EXECUÇÃO FISCAL - CERTIDÃO DE DIVIDA ATIVA - REQUISITOS LEGAIS PREENCHIDOS - CONTRIBUIÇÃO AO SEST E SENAT.
+1 - A CDA deve conter os requisitos constantes no artigo 20, § § 50 e 60, da Lei n" 6.830/80, combinado com o artigo 202 do Código Tributário Nacional, materializando elementos essenciais para que o executado tenha plena oportunidade de defesa, assegurando-se os princípios do contraditório e do devido processo legal. Não se exige apresentação de cópias do processo administrativo.
+II - Cabe ao executado o ônus processual para elidir a presunção de liquidez e certeza da CDA (CTN, artigo 204; Lei n" 6.830/80, artigo 30), regra legal específica que afasta incidência de regra geral de ônus de prova (CPC, artigo 333, 1), devendo por isso demonstrar, pelos meios processuais postos à sua disposição, algum vício formal na constituição do título executivo, ou ainda, provar que o crédito declarado na CDA é indevido.
+III - Não se deve declarar a nulidade da CDA, ainda que ausente algum dos requisitos legais, quando tais falhas sejam supridas por outros elementos constantes nos autos, permitindo a ampla defesa do executado. Precedentes do STF e do STJ.
+IV - Caso em que a CDA de fis. 03/06 dos autos da execução fiscal em apenso, apresenta-se perfeita, indicando o processo administrativo de origem, o número, livro e data de inscrição na dívida ativa, os responsáveis, bem como o crédito a que se refere, a correção monetária e a forma de cálculo dos acréscimos de multa e de juros moratórios, com menção da legislação aplicável. A propósito, tais dispositivos legais constam da NFLD) n0 31.901.164-0 que instruiu o processo administrativo, no qual a embargante exercitou plenamente sua defesa.
+V - Presunção de liquidez e certeza da CDA não elidida.
+VI - Em relação à exigibilidade das contribuições ao Serviço Social do Transporte - SEST e ao Serviço Nacional de Aprendizagem do Transporte - SENAT, instituidas pela Lei n1  8.706/93, regulamentada pelo Decreto n0 1.007/93, a jurisprudência já consolidou sua legalidade, inclusive pelas empresas que não tenham como atividade principal ou preponderante, o transporte rodoviário de pessoas ou bens, próprios ou de terceiros, tal como ocorre no caso em tela. Precedentes desta Corte.
+VII - Diante da fundamentação supra, a r. sentença deve ser reformada, condenando a parte embargante no pagamento dos honorários advocatícios, fix dos em 15% (quinze por cento) sobre o valor da condenação, nos termos do art. 20, 0  oC .
+VIII - Apelação do INSS e remessa oficial providas.
+Embargos de declaração rejeitados.
+O recorrente alega, preliminarmente, violação do art. 535, II, do CPC/1973), por omissão no julgado com relação a alegação de inclusão do débito no REFIS. Sustenta omissão quanto à violação dos arts. 20, 26, 267, VI e VIII, do CPC/73; 13, § 3 da Lei 9.964/2000 e 5, § 3 da Lei 10.189/2001.
+Quanto às ddemais questões aduz ofensa aos arts. 97, 99, 108, 1, § 10, 114 e 203 do CTN.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 298, e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Quanto ao mais, o art. 535 do Código de Processo Civil de 1973 aponta que da decisão que apresentar obscuridade, contradição ou omissão caberá embargos de declaração, de forma a garantir a inequívoca, clara e completa prestação jurisdicional. Nas situações em que o ponto omisso, obscuro ou contraditório for necessário para o deslinde da controvérsia, cabe reconhecer a nulidade do acórdão, devendo os autos retornar ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração com manifestação expressa a seu respeito.
+A parte recorrente, por meio de embargos de declaração (fls. 188-191, e-STJ), requereu expressamente que a Corte de origem se manifestasse quanto à inclusão do débito no REFIS e violação dos arts. 20, 26, 267, VI e VIII, do CPC/73; 13, § 3 da Lei 9.964/2000 e 5, § 3 da Lei 10.189/2001.
+No entanto, mesmo após instado a se manifestar sobre a questão, por meio de recurso integrativo, o Tribunal a quo manteve-se silente, limitando-se a se manifestar genricamente.
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão julgador dos embargos declaratórios, determinando o retorno dos autos ao Tribunal de origem, para que se manifeste sobre as omissões apontadas pelo recorrente.
+Publique-se. Intimem-se.
