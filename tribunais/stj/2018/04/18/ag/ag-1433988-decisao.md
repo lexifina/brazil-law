@@ -1,0 +1,5 @@
+DECISÃO
+No Tribunal de Justiça de São Paulo, o Desembargador Presidente da Seção de Direito Privado não admitiu o recurso especial interposto pela empresa Bertocco e Bertocco Ltda EPP contra o acórdão da Apelação n. 1000817-38.2016.8.26.0438.
+Por não se conformar com essa decisão, publicada em 6/4/2018, a recorrente contra ela interpôs agravo, mas, por razões desconhecidas, protocolizou a petição recursal diretamente no Superior Tribunal de Justiça, sob a forma de instrumento, ao invés de apresentá-la nos próprios autos, endereçando-a ao Desembargador que proferiu a decisão agravada, tal como previsto no art. 1.042, § 2º, do CPC/2015.
+Considerando que a interposição do agravo ocorreu dentro do prazo legalmente previsto, determino sejam adotadas as seguintes providências: (I) cancelamento do registro deste agravo, com a consequente baixa na distribuição e (II) encaminhamento da petição de agravo e dos documentos que a acompanham ao Tribunal de Justiça de São Paulo, a fim de que o agravo seja juntado aos autos do Processo n. 1000817-38.2016.26.0438, observando-se, em seguida, o disposto no § 3º do art. 1.042 do CPC/2015.
+Cumpra-se.
