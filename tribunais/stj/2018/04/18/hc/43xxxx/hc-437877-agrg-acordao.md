@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MAUS ANTECEDENTES. CONDENAÇÃO ANTERIOR TRANSITADA EM JULGADO. PERÍODO DEPURADOR DE CINCO ANOS. ELEVAÇÃO DA PENA-BASE. POSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que "para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade" (HC 430.172/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 01/03/2018, DJe 07/03/2018)
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK:
+Trata-se de agravo regimental interposto pela Defensoria Pública do Estado de Mato Grosso do Sul em benefício de [NOME] contra decisão monocrática de minha relatoria, fls. 316/320, que não conheceu do habeas corpus.
+No presente regimental, a defesa reitera a alegação de que "a existência de condenação anterior, ocorrida em prazo superior a 5 (cinco) anos, contados da extinção da pena, assim como não serve para a configuração da reincidência, também não poderá servir para a negativação da circunstância judicial dos antecedentes" (fl. 328).
+Alega que "após o prazo de 5 (cinco) anos previsto no art. 64, I, do CP, cessam não apenas os efeitos decorrentes da reincidência, mas também qualquer outra valoração negativa por condutas pretéritas praticadas pelo agente" (fl. 328).
+Aduz que o posicionamento adotado está em desconformidade com o entendimento do col. Supremo Tribunal Federal e viola, não só a legislação penal, como também os princípios da razoabilidade, da presunção de inocência, da individualização da pena e da dignidade da pessoa humana.
+Sustenta que ultrapassado o período depurador, deve ser decotada a circunstância dos maus antecedentes.
+Requer, assim, a reconsideração da decisão agravada ou que o habeas corpus seja submetido a julgamento pelo órgão colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO JOEL ILAN PACIORNIK (RELATOR):
+A decisão deve ser mantida por seus próprios fundamentos.
+A jurisprudência desta Corte é firme no sentido de que, "para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade" (HC 429.723/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 16/02/2018).
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PENA-BASE. CONDENAÇÕES CRIMINAIS COM MAIS DE 5 ANOS. CONFIGURAÇÃO DE MAUS ANTECEDENTES. CRITÉRIO IDÔNEO PARA A EXASPERAÇÃO. PLEITO DE APLICAÇÃO DA MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. MAUS ANTECEDENTES E DEDICAÇÃO AO TRÁFICO DE FORMA ROTINEIRA. REQUISITOS NÃO PREENCHIDOS. REGIME PRISIONAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS E CONDENAÇÃO QUE SUPERA 4 ANOS DE RECLUSÃO. ILEGALIDADE NÃO CONFIGURADA. SUBSTITUIÇÃO POR RESTRITIVA DE DIREITOS. INVIABILIDADE. PENA PRIVATIVA DE LIBERDADE SUPERIOR A 4 ANOS. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+3. Nos termos da jurisprudência desta Corte Superior, as condenações criminais alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, contudo, não impedem a configuração de maus antecedentes.
+ ..
+9. Habeas corpus não conhecido (HC 423.685/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/03/2018).
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. COMPENSAÇÃO ENTRE MAUS ANTECEDENTES E ATENUANTE DA IDADE. DESCABIMENTO. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ART. 33, § 4º, DA LEI N. 11.343/06. IMPOSSIBILIDADE. MAUS ANTECEDENTES CONFIGURADOS. AUSÊNCIA DE REQUISITOS. CAUSA DE DIMINUIÇÃO DO ART. 46 DA LEI ANTIDROGAS. DESCABIMENTO. PACIENTE IMPUTÁVEL AO TEMPO DO FATO (ART. 19, LEI DE TÓXICOS). REGIME INICIAL DIVERSO DO FECHADO. PREJUDICADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. PENA SUPERIOR A 4 ANOS. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+ ..
+VI - Consoante jurisprudência deste Tribunal Superior, a condenação anterior existente, ainda que alcançada pelo período depurador de cinco anos previsto no art. 64, I, do Código Penal, embora não seja apta a caracterizar a agravante da reincidência, configura maus antecedentes, razão pela qual fica impedida a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, diante da ausência do preenchimento do requisitos legais.
+ ..
+Habeas corpus não conhecido (HC 399.828/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 19/02/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO SIMPLES. MAUS ANTECEDENTES. CONDENAÇÃO TRANSITADA EM JULGADO. PRAZO DEPURADOR DE CINCO ANOS. PENA-BASE EXARCEBAÇÃO. MOTIVAÇÃO IDÔNEA. PRECEDENTES. REGIME INICIAL. RÉU REINCIDENTE. PENA SUPERIOR A QUATRO ANOS. MODO FECHADO.
+1. Hipótese em que a instância de origem decidiu que a condenação cujo trânsito em julgado tenha ocorrido num prazo superior ao período depurador previsto no art. 64, I, do Código Penal não pode ser considerada para aumentar a pena-base pela análise desfavorável dos maus antecedentes.
+2. Este Superior Tribunal de Justiça firmou entendimento no sentido de que "para a configuração dos maus antecedentes, a análise das condenações anteriores não está limitada ao período depurador quinquenal, previsto no art. 64, I, do CP, tendo em vista a adoção pelo Código Penal do Sistema da Perpetuidade" (HC 389.141/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 08/08/2017, DJe 18/08/2017).
+3. Regime prisional fixado nos estritos limites do art. 33, § 2º, "b" e § 3º, do Código Penal, considerando se tratar de réu reincidente, com maus antecedentes, condenado à pena superior a 4 (quatro) anos de reclusão. Precedentes.
+4. Agravo desprovido (AgRg no REsp 1697968/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 19/02/2018).
+HABEAS CORPUS. ROUBO. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. ABALO PSICOLÓGICO DA VÍTIMA. ELEMENTO ÍNSITO. NECESSIDADE DE ESPECIFICAÇÃO DE FORMA CONCRETA. AFASTAMENTO DA CIRCUNSTÂNCIA JUDICIAL. PERSONALIDADE. CONDENAÇÕES PRETÉRITAS. PERÍODO DEPURADOR. FUNDAMENTO IDÔNEO. REINCIDÊNCIA. RECONHECIMENTO PELA INSTÂNCIA ORDINÁRIA POR MEIO DA DOCUMENTAÇÃO ACOSTADA AOS AUTOS. IMPOSSIBILIDADE DE REVERSÃO. DILAÇÃO PROBATÓRIA INDEVIDA NA VIA ESTREITA DO WRIT. ORDEM PARCIALMENTE CONCEDIDA.
+1. De acordo com o entendimento já firmado por esta Corte Superior de Justiça, o abalo psicológico causado à vítima é consequência inerente ao tipo penal de roubo, de modo que referido fundamento, para ser considerado idôneo, enseja que o dano seja especificado de forma concreta.
+2. A condenação por crime anterior, com trânsito em julgado, justifica a valoração negativa da circunstância judicial dos antecedentes, da conduta social ou da personalidade do agente, lastreando a exasperação da pena-base.
+3. Condenações anteriores transitadas em julgado, alcançadas pelo período depurador de 5 anos, consoante o art. 64, I, do CP, embora afastem os efeitos da reincidência, não impedem, em princípio, a configuração de maus antecedentes, permitindo o incremento da sanção inicial, inexistindo constrangimento ilegal no ponto.
+ ..
+5. Ordem parcialmente concedida para reduzir as penas impostas aos pacientes a 6 anos, 10 meses e 4 dias de reclusão e 16 dias-multa ([NOME]) e 7 anos de reclusão e 16 dias-multa ([NOME]) (HC 427.906/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 14/03/2018).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
