@@ -1,0 +1,19 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INEXIGIBILIDADE DE TÍTULOS. SÚMULA 7/STJ. DUPLICATAS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por CACOLA EMBALAGENS LTDA. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do artigo 105 da Constituição Federal, que desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 394):
+Ação Declaratória de inexigibilidade de títulos c.c. indenização por danos morais - Recurso interposto antes do início da contagem do prazo para sua interposição, que se deu com a intimação do ato que conhecera os embargos declaratórios -Ausência de reiteração por parte do apelante - Posição do C. STF que modificou entendimento anteriormente consolidado (RE 680371) - Extemporaneidade afastada - recurso tempestivo - duplicatas mercantis por indicação sem aceite e sem prova de recebimento da mercadoria pelo autor - Ausência de demonstração e que o autor teria autorizado terceiros a fazer pedidos de mercadorias em seu nome - Titulos inexigíveis - Protestos indevidos e que geraram danos morais - indenização fixada em R$ 6.000,00 diante das circunstâncias do caso concreto - Ação procedente. Recurso
+provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 203-207).
+Nas razões do recurso especial (e-STJ, fls. 213-234), a recorrente apontou violação dos arts. 333, II, do Código de Processo Civil de 1973, e 188, I, do Código Civil de 2002.
+Sustentou, em síntese, que logrou demonstrar que das alegações do autor não decorrem as pretensões deduzidas na demanda. Alegou que agiu no exercício regular do seu direito.
+Foram apresentadas contrarrazões (e-STJ, fls. 240-245).
+Juízo de admissibilidade negativo (e-STJ, fls. 247-249).
+Brevemente relatado, decido.
+Primeiramente, faz-se necessário transcrever o que ficou consignado no acórdão do Tribunal a quo sobre o tema (e-STJ, fls. 188-189):
+Os pontos controvertidos a serem analisados consistem em saber se, de fato, o autor realizou cadastro junto ao estabelecimento da ré, se ele se comprometeu a honrar o pagamento de pedidos feitos por seu irmão e por sua genitora e se ele recebeu as mercadorias objeto das notas fiscais ensejadoras da emissão das duplicatas em exame. Isso porque cabe à ré o ônus de provar que as duplicatas foram emitidas com base em negócio jurídico regular, a fim de desconstituir o direito do autor, que impugnou os títulos afirmando que não há que se falar em pagamento se em nenhum momento solicitou ou recebeu qualquer mercadoria.
+E a ré não logrou demonstrar a regularidade das duplicatas: O autor não assinou qualquer ficha de cadastro ou quaisquer autorizações, como afirmado em contestação. O documento de fls. 65 é unilateral (dados constantes dos registros administrativos da ré). As mercadorias mencionadas nas Notas Fiscais nº 142.265,139.812 e 146.120 não foram recebidas de próprio punho pelo autor. Basta verificar que as assinaturas lançadas nos canhotos de "recebimento das mercadorias" (fls. 79, 82 e 88) são claramente diversas da assinatura do autor lançadas na procuração "ad judicia" e na CNH (fls. 12/13). Vale ressaltar que o ônus da prova quanto à veracidade da assinatura impugnada compete à parte que produziu o documento (artigo 389, II, CPC).
+Dessarte, depreende-se que o Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos (ausência de assinatura de qualquer ficha de cadastro ou autorizações e não recebimento das mercadorias pelo autor). A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento).
+Publique-se.
