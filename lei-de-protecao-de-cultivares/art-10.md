@@ -3,6 +3,7 @@ I - reserva e planta sementes para uso próprio, em seu estabelecimento ou em es
 II - usa ou vende como alimento ou matéria-prima o produto obtido do seu plantio, exceto para fins reprodutivos;
 III - utiliza a cultivar como fonte de variação no melhoramento genético ou na pesquisa científica;
 IV - sendo pequeno produtor rural, multiplica sementes, para doação ou troca, exclusivamente para outros pequenos produtores rurais, no âmbito de programas de financiamento ou de apoio a pequenos produtores rurais, conduzidos por órgãos públicos ou organizações não-governamentais, autorizados pelo Poder Público.
+V - multiplica, distribui, troca ou comercializa sementes, mudas e outros materiais propagativos no âmbito do disposto no art. 19 da Lei nº 10.696, de 2 de julho de 2003, na qualidade de agricultores familiares ou por empreendimentos familiares que se enquadrem nos critérios da Lei nº 11.326, de 24 de julho de 2006.
 § 1º Não se aplicam as disposições do caput especificamente para a cultura da cana-de-açúcar, hipótese em que serão observadas as seguintes disposições adicionais, relativamente ao direito de propriedade sobre a cultivar:
 I - para multiplicar material vegetativo, mesmo que para uso próprio, o produtor obrigar-se-á a obter a autorização do titular do direito sobre a cultivar;
 II - quando, para a concessão de autorização, for exigido pagamento, não poderá este ferir o equilíbrio econômico-financeiro da lavoura desenvolvida pelo produtor;
