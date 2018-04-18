@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DISSÍDIO NÃO COMPROVADO.
+1. O incidente não deve ser conhecido porquanto a requerente limitou-se a transcrever a ementa dos acórdãos paradigmas, deixando de demonstrar o dissídio jurisprudencial mediante o cotejo analítico entre os acórdãos confrontados na forma exigida pela legislação processual correspondente.
+2. Agravo interno não provido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. As Sras. Ministras Assusete Magalhães e Regina Helena Costa e os Srs. Ministros Gurgel de Faria, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+Impedidos os Srs. Ministros Og Fernandes e Mauro Campbell Marques.
+Ausente, ocasionalmente, o Sr. Ministro Napoleão Nunes Maia Filho.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 123):
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DISSÍDIO NÃO COMPROVADO. PEDIDO INDEFERIDO LIMINARMENTE.
+A agravante alega que procedeu a devida demonstração do dissídio jurisprudencial e, inclusive, destacou que em recente precedente o STF decidiu que é devido o pagamento da URP. Aduz que "o entendimento pacificado pelo STJ não vem sendo respeitado e nem tampouco aplicado pelos Juizados Especiais Federais, que passam a seguir sua linha própria de entendimento, como se outra justiça fossem" (fl. 132). Afirma que "a decisão da TNU deve ser declarada nula, uma vez que não procedeu ao exame do vício suscitado, afrontando, desse modo, o preceptivo do princípio do acesso à justiça e a uma prestação jurisdicional qualitativa, sendo flagrante violação ao Princípio da Primazia da Resolução de mérito, insculpido no art. 4º do novo CPC" (fl. 134).
+Sem impugnação (certidão à fl. 144).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. DISSÍDIO NÃO COMPROVADO.
+1. O incidente não deve ser conhecido porquanto a requerente limitou-se a transcrever a ementa dos acórdãos paradigmas, deixando de demonstrar o dissídio jurisprudencial mediante o cotejo analítico entre os acórdãos confrontados na forma exigida pela legislação processual correspondente.
+2. Agravo interno não provido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece êxito.
+Conforme assinalado, o artigo 14, § 4º, Lei 10.259/2001, estabelece que para o cabimento do pedido de uniformização de lei federal perante esta Corte Superior, exige-se a observância de três requisitos, a saber: i) ser oriundos da Turma Nacional de Uniformização de Jurisprudência - TNU; ii) tratar de direito material; e iii) afrontar súmula ou jurisprudência dominante deste tribunal.
+No caso em apreço, observa-se que a requerente, ora agravante, não instruiu referido pedido com os documentos mínimos necessários para comprovação do dissídio, haja vista que não consta dos autos a cópia dos acórdãos apontados como paradigmas, deixando de se fazer a prova da alegada divergência.
+Com efeito, é indispensável a transcrição de trechos do relatório e do voto do acórdão atacado e do paradigma, realizando-se o adequado cotejo analítico, com o intuito de demonstrar a efetiva ocorrência de divergência jurisprudencial, providência não adotada pela requerente que limitou-se, tão-somente, a transcrever a ementa dos acórdãos paradigmas, sem realizar o confronto necessário, de maneira a identificar a semelhança dos casos.
+É de ser mantido, assim, o não conhecimento do pedido de uniformização, pois não comprovado nem demonstrado o suposto dissídio jurisprudencial, na forma exigida pela legislação processual correspondente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno.
+II - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas. Precedentes.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido (AgInt no Puil 440/RN, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 27/2/2018).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA PETIÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. ART. 18, § 3º, DA LEI 12.153/2009. PEDIDO NÃO INSTRUÍDO COM O INTEIRO TEOR DO ACÓRDÃO IMPUGNADO E DOS PARADIGMAS. INADMISSIBILIDADE. DEMANDA NA QUAL SE BUSCA O PAGAMENTO DE DIFERENÇAS REMUNERATÓRIAS, DECORRENTES DE PROMOÇÕES TRIENAIS DOS PROFESSORES DO ESTADO DO ACRE, NOS TERMOS DA LEI COMPLEMENTAR ESTADUAL 144/2005. ACÓRDÃOS PARADIGMAS QUE TRATAM DE SITUAÇÕES DIVERSAS: (I) DA PRESCRIÇÃO DO FUNDO DE DIREITO, ANTE O INDEFERIMENTO ADMINISTRATIVO DE PEDIDO DE PERCEPÇÃO DE GRATIFICAÇÃO DE ATIVIDADE DE REGÊNCIA DE CLASSE - GARC, E (II) DO TERMO INICIAL DA PRESCRIÇÃO DE PRETENSÃO, ADVINDA DE LEI NOVA. INEXISTÊNCIA DE SIMILITUDE FÁTICA ENTRE AS DECISÕES CONFRONTADAS.
+I. Incidente de Uniformização de Interpretação de Lei, suscitado pelo Estado do Acre, perante esta Corte, sob a alegação de que, na origem, a 2ª Turma Recursal dos Juizados Especiais do Acre divergiu de entendimento firmado por este Superior Tribunal e por Turmas Recursais do Distrito Federal, sobre a contagem da prescrição.
+II. O pedido não pode ser admitido, considerando que o ora agravante não o instruiu com os documentos necessários à sua apreciação, ou seja, a cópia integral do acórdão combatido, inclusive o dos respectivos Embargos de Declaração, e dos acórdãos paradigmas, não bastando, para tanto, a simples transcrição de ementas. Precedente do STJ: AgRg na Pet 10.437/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 20/05/2014.
+III. Ainda que assim não fosse, a ausência de similitude fática inviabiliza o processamento do pedido, haja vista que o acórdão impugnado reconheceu a existência de relação de trato sucessivo, nos termos da Súmula 85/STJ, em ação na qual se postula o pagamento de diferenças remuneratórias decorrentes de eventual direito a promoções trienais dos Professores do Nível Superior do Estado do Acre, nos termos da Lei Complementar Estadual 144/2005, e os paradigmas tratam (i) da prescrição do fundo de direito, ante o indeferimento administrativo de pedido de percepção de Gratificação de Atividade de Regência de Classe - GARC, e (ii) do termo inicial da prescrição de pretensão, advinda de lei nova. Nesse sentido, os seguintes precedentes desta Corte, em hipótese idêntica: AgRg na Pet 10.625/AC, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 17/09/2014; AgRg na Pet 10.594/AC, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 17/09/2014.
+IV. Agravo Regimental improvido (AgRg na Pet 10.600/AC, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 24/10/2014).
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO. INCIDENTE DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DA LEI FEDERAL. ART. 18, § 3º, DA LEI 12.153/2009. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Admite-se o incidente de uniformização dirigido ao STJ, entre outras hipóteses, quando houve interpretação divergente entre Turmas Recursais estaduais, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, nos termos do § 3º do artigo 18 da Lei n. 12.153/2009.
+2. No caso concreto, o incidente não deve ser conhecido porquanto o requerente não demonstrou o dissídio jurisprudencial mediante o cotejo analítico entre os acórdãos confrontados, na forma dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ.
+3. Agravo interno não provido (AgInt na Pet 10.251/DF, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 2/2/2017).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
