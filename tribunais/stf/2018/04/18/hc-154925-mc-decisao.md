@@ -1,0 +1,22 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO DOMICILIAR – ARTIGO 318, INCISO V, DO CÓDIGO DE PROCESSO PENAL – ADEQUAÇÃO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal da Comarca de Sumaré/SP, no processo nº 0006104-49.2017.8.26.0604, converteu as prisões em flagrante da paciente e de mais quatro pessoas, ocorridas no dia 25 de setembro de 2017, em preventivas, ante o suposto cometimento das infrações versadas nos artigos 33 (tráfico de drogas) e 35 (associação para o tráfico) da Lei nº 11.343/2006. Entendeu imperiosa a custódia para garantir a ordem pública, reportando-se à apreensão de 510 tijolos de maconha, totalizando aproximadamente 423 quilos. Ressaltou haver indícios de envolvimento em organização criminosa voltada ao comércio ilegal de entorpecentes. Não acolheu pedido de substituição da preventiva pelo regime domiciliar, referindo-se ao contexto dos delitos.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 441.833/SP, o qual teve a liminar indeferida.
+          O impetrante alega a inobservância do decidido, pelo Supremo, no habeas corpus coletivo nº 143.641. Aponta a inidoneidade da fundamentação lançada pelo Juízo ao não reconhecer o direito à modalidade domiciliar. Articula com a ofensa ao artigo 318, inciso V, do Código de Processo Penal, afirmando a existência de duas filhas, com 2 e 7 anos de idade. Assinala as condições pessoais favoráveis da paciente – primariedade, bons antecedentes, ocupação lícita e residência fixa. Diz provado o vínculo familiar, mediante certidão de nascimento das menores.
+    Requer, no campo precário e efêmero, o afastamento da constrição e, sucessivamente, a substituição por prisão domiciliar. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça verificou-se que o processo-crime está na fase de instrução.
+    A etapa é de exame da medida acauteladora.
+    2. A gradação do tráfico de drogas, considerada a apreensão de 510 tijolos de maconha, totalizando aproximadamente 423 quilos, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, ante a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente, em parte, o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+     Ocorre que a paciente comprovou ser mãe de Nikoly Kamily Faria da Silva e Yasmin Karolliny Faria da Silva, nascidas, respectivamente, em 26 de março de 2010 e 2 de maio de 2015, ou seja, na data de hoje, com 8 e 2 anos de idade. Observem tratar-se de paciente primária, denunciada por delito praticado sem emprego de violência, grave ameaça ou contra descendentes. Muito embora a existência de filhos menores não seja, por si só, suficiente a afastar a prisão, estão presentes os requisitos ensejadores da incidência da Lei nº 13.257, de 8 de março de 2016, a dispor sobre políticas públicas para a primeira infância, que incluiu o inciso V no artigo 318 do Código de Processo Penal, facultando ao juiz a substituição da custódia preventiva gênero pela domiciliar quando o agente for mulher com filho de até 12 anos de idade incompletos.
+     3. Defiro a liminar para substituir por prisão domiciliar a preventiva formalizada pelo Juízo da Primeira Vara Criminal da Comarca de Sumaré/SP, no processo nº 0006104-49.2017.8.26.0604. Advirtam a paciente da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda da cidadã integrada à sociedade.
+    4. Deixo de estender a medida acauteladora às corrés, por inexistir comprovação, no processo, de identidade de situação jurídica, mostrando-se impossível verificar as situações individualizadas. Fica inviabilizada a observância do que disposto no artigo 580 do Código de Processo Penal.
+    5. O curso deste habeas não prejudica o de nº 441.833/MG, em trâmite no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Joel Ilan Paciornik.
+    6. Colham o parecer da Procuradoria-Geral da República.
+    7. Publiquem.
+Brasília, 18 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
