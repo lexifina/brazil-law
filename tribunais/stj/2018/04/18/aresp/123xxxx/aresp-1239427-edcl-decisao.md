@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] para Tratores e Máquinas Agrícolas Ltda, inconformada com a decisão que conheceu do agravo para dar provimento ao recurso especial a fim de condenar a agravada a pagar à parte agravante honorários advocatícios na quantia de 10% do valo atualizado da causa.
+Em suas razões, a embargante aponta obscuridades e contradições no julgado. Nessa linha, aponta que "o Embargado de fato perdeu a ação, não fazendo sentido reconhecer aos seus patronos direito a honorários" e "somente a Embargante recorreu do v. acórdão proferido pelo tribunal a quo, não podendo ver sua situação piorada por conta do princípio recursal da vedação de reformatio in pejus".
+Impugnação às fls. 349-351.
+É o relatório.
+Nos termos do art. 1.022 do CPC/2015, é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, na sentença, confirmada pela Corte a quo, o pedido de rescisão contratual e de consequente busca e apreensão do bem objeto do contrato de garantia fiduciária foi julgado improcedente ao aplicar a teoria do adimplemento substancial dos contratos, porquanto o réu pagara 31 das 36 prestações contratadas, 86% da obrigação total (contraprestação e VRG parcelado) e mais R$ 10.500,44 de valor residual garantido.
+Nessa linha, haja vista a existência do débito em aberto observada pelo Tribunal de origem, quem, de fato, deu causa ao ajuizamento da presente demanda foi a embargante, ao não efetuar o pagamento da dívida em questão da forma devida, obrigando a parte embargada a buscar o Judiciário para ver satisfeito seu direito.
+Desse modo, houve obscuridade que contaminou o resultado do recurso, haja vista que a embargante foi quem, verdadeiramente, não efetuou o pagamento da dívida em questão da forma devida, obrigando o ora embargado a buscar o Judiciário para ver satisfeito o seu direito.
+Nessa linha, quem deu causa ao ajuizamento da demanda foi a ora embargante ao não efetuar o pagamento da dívida em questão da forma devida e, por conseguinte, o resultado do julgamento deveria ser outro, qual seja, conhecer do agravo para se negar provimento ao recurso especial, mantendo-se incólume o acórdão recorrido.
+Diante do exposto, acolho os embargos declaratórios, com efeitos modificativos, para, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conhecer do agravo a fim de negar provimento ao recurso especial.
+Publique-se.
