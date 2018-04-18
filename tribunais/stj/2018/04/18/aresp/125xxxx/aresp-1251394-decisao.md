@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por WALTER PARISIO PEREIRA DE MELO contra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal Regional Federal da 5ª Região.
+Sustenta a defesa, nas razões do recurso especial, violação dos artigos 386, VI, do Código de Processo Penal, e 337-A do Código Penal.
+Aduz que: a) "ainda que se considere que a conduta atribuída ao réu é, formal e materialmente, típica e antijurídica, como se demonstrará a seguir, não se pode considerar que se faz presente, na hipótese dos autos, a culpabilidade, o que, por evidente, excluiria o crime" (e-STJ, fl. 309); b) "se a vontade do agente se encontra viciada, coagida ou constrangida por circunstâncias sobre as quais ele (ou ela) não tem pleno controle, então, não se pode dizer que, ao agir segundo essa vontade maculada, a pessoa está escolhendo livremente o seu comportamento" (e-STJ, fl. 310); c) "a inexigibilidade de conduta diversa já foi admitida em situação semelhante à deste processo" (e-STJ, fl. 311); d) "em casos como o presente, a exclusão da culpabilidade está condicionada à existência de provas da dificuldade financeira. Não há dúvida de que existem provas nos autos da dificuldade financeira" (e-STJ, fl. 312) e d) "diante das circunstâncias apresentadas, é notório que, por mais que os fatos tenham ocorrido e ao recorrente tenha sido imputado a autoria, é necessário analisar que não está demonstrado a presença da culpabilidade, porque qualquer que fosse a pessoa nas mesmas condições do sentenciado deixaria de pagar os tributos, já que nenhuma alternativa tinha para manter os funcionários, pagando a todos sem atraso e ainda que enfrentado uma crise financeira" (e-STJ, fl. 313).
+Requer "seja reconhecida a inexigibilidade de conduta diversa e, por conseguinte, a exclusão da culpabilidade, absolvendo-se o réu" (e-STJ, fl. 314).
+Apresentadas as contrarrazões (e-STJ, fls. 320-334).
+O recurso foi inadmitido com fundamento na Súmula 7/STJ (e-STJ, fl. 336).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 366-370).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem afastou a tese de inexigibilidade de conduta diversa com a seguinte fundamentação:
+"No tocante à arguição de inexigibilidade de conduta diversa, também a defesa não se socorre de elementos concretos, indo buscar sustento a sua tese em razões de ordem atreladas à recessão econômica, o que teria inviabilizado o pagamento do tributo devido, afinal, objeto de supressão. O apregoado se reveste de forma genérica, destituído mesmo de qualquer respaldo probante coligido aos autos, em nada favorecendo a defesa do acusado no seu desiderato de infirmar a acusação." (e-STJ, fl. 261).
+A Corte de origem, após a análise acurada dos elementos probatórios constante nos autos, entendeu que a hipótese dos autos não configuraria a inexigibilidade de conduta diversa. Dessa forma, para se concluir de forma diversa, demandaria, necessariamente, o revolvimento do suporte fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+Neste sentido:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA (ART. 168-A DO CP). OMISSÃO NO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. INEXIGIBILIDADE DE CONDUTA DIVERSA. SUFICIÊNCIA DA PROVA. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. PENA-BASE. CONSEQUÊNCIAS DO CRIME DESFAVORÁVEL. VALOR EXPRESSIVO DO INDÉBITO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO COM DETERMINAÇÃO DE EXECUÇÃO PROVISÓRIA DA PENA.
+1. A anulação do acórdão da Corte de origem em razão da omissão, mesmo na hipótese em que há o objetivo de se obter o prequestionamento de determinada matéria, depende da demonstração analítica e detalhada dessa omissão, além da sua relevância para o deslinde final da causa, o que não ocorreu na hipótese. Súmula n. 284 do STF.
+2. O Tribunal de origem entendeu não ser suficiente a prova juntada aos autos relativamente à demonstração da incapacidade da sociedade empresarial, ao tempo dos fatos, de cumprir as suas obrigações, a fim de caracterizar a inexigibilidade de conduta diversa, causa excludente de culpabilidade. Incidência da Súmula n. 7 do STJ.
+ ..
+5. Agravo regimental não provido. Execução imediata da pena determinada."
+(AgRg no REsp 1362058/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017).
+"PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO QUALIFICADO. COAÇÃO MORAL IRRESISTÍVEL, INEXIGIBILIDADE DE CONDUTA DIVERSA E ESTADO DE NECESSIDADE. INEXISTÊNCIA DE PROVAS E DE EVIDÊNCIAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DOSIMETRIA DA PENA. JUSTIFICADA. INEXISTÊNCIA DE DESPROPORCIONALIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A análise das teses de coação moral irresistível, inexigibilidade de conduta diversa ou de estado de necessidade, demandam exame de provas dos autos, o que encontra impeço nesta via, pois o Tribunal de origem consignou expressamente que não foram produzidas provas que pudessem dar sustentação às referidas teses e que inexistiriam evidências nesse sentido. Rever tal afirmativa, portanto, esbarraria no óbice da Súmula n. 7 desta Corte.
+ ..
+3. Agravo regimental desprovido."
+(AgRg no AgRg no AREsp 1066593/SE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/10/2017, DJe 08/11/2017).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
