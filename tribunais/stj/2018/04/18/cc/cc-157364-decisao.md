@@ -1,0 +1,40 @@
+DECISÃO
+Conflito negativo de competência instaurado entre o Juízo de Direito da Vara de Execuções Penais do Distrito Federal, o suscitante, e o Juízo de Direito da 3ª Vara Criminal de Jaciara - MT, o suscitado.
+Consta dos autos que ODEON FREITAS MARTINS fora condenado pela prática do delito de roubo. O Juízo de Direito da 3ª Vara Criminal de Jaciara - MT, competente originalmente pela execução penal, expediu mando de prisão em desfavor do recuperando, o qual foi cumprido pela comarca de Brasília/DF, onde o reeducando se encontra detido. (e-STJ fl. 99)
+Instado a se manifestar acerca do pedido de progressão de regime formulado pelo recuperando, o Juízo suscitado declinou da competência para o Juízo de Direito da Vara de Execuções Penais do Distrito Federal, o suscitante.
+O Juízo suscitante, por sua vez, suscitou conflito de competência a esta Corte Superior ressaltando que o apenado não possui condenação ou execução no Distrito Federal, local em que se encontra recolhido exclusivamente em razão de ordem de prisão expedida pelo Juízo do Estado de Mato Grosso. Salienta, ainda, que a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a voluntária mudança de domicílio ou recaptura em local diverso da condenação não tem o condão de afetar o juízo da execução. Informa não haver vagas no sistema prisional do Distrito Federal.
+O Juízo suscitante foi designado para decidir, em caráter provisório, as medidas urgentes, até o julgamento final do presente incidente (e-STJ fl. 152).
+O Ministério Público Federal emitiu parecer sintetizado nos seguintes termos (e-STJ fl. 160/162):
+PROCESSO PENAL. CONFLITO DE COMPETÊNCIA. CONDENAÇÃO A PENA PRIVATIVA DE LIBERDADE. PEDIDO DE PROGRESSÃO DE REGIME. TRANSFERÊNCIA. NECESSIDADE DE PRÉVIA CONSULTA. COMPETÊNCIA PARA EXECUÇÃO E FISCALIZAÇÃO DA PENA: JUÍZO ORIGINÁRIO DA EXECUÇÃO PENAL. PARECER PELA COMPETÊNCIA DO JUÍZO SUSCITADO.
+É o relatório.
+Decido.
+Com razão o Juízo suscitante.
+O simples fato de o condenado ter sido preso em Comarca diversa da condenação, em cumprimento a mandado de prisão expedido por outro juiz, não constitui causa legal de deslocamento da competência originária para a execução da pena.
+Em situação análoga à dos autos, assim decidiu a Terceira Seção desta Corte Superior:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS CRIMINAIS ESTADUAIS: EXECUÇÃO DE PENA. PRISÃO PREVENTIVA EM OUTRA COMARCA. AUSÊNCIA DE TRANSFERÊNCIA LEGAL - ART. 86 DA LEP. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA.
+1. O simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena. Precedentes.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da Comarca de Rio Meleiro/SC, o suscitado, para a execução da pena do condenado. (CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 27/10/2016)
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO ALBERGUE DOMICILIAR. MUDANÇA PARA OUTRO ESTADO. AUSÊNCIA DE COMUNICAÇÃO AO JUÍZO. REGRESSÃO DE REGIME. MODIFICAÇÃO DA COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. NÃO OCORRÊNCIA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. Não há deslocamento de competência para a execução da pena quando o sentenciado é preso em outra cidade, tendo em vista a expedição de mandado de prisão pelo Juízo da Execução Penal em razão do descumprimento das condições do benefício da prisão albergue domiciliar, porquanto não se trata de transferência legalmente efetuada. Precedentes.
+2. Conflito conhecido para declarar a competência do Juízo de Direito da 2ª Vara Criminal e Anexo das Execuções Criminais de Mauá/SP, o suscitado. (CC 121.538/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, julgado em 23/05/2012, DJe 11/06/2012)
+Observe-se, ainda, que nem mesmo suposta existência de familiares no local da prisão, por si só, autorizaria o deslocamento da competência. Incabível beneficiar o apenado pela sua fuga obrigando o Juízo suscitante a se responsabilizar pela execução da pena imposta pelo Juízo suscitado. Isto porque apenas as transferências legalmente efetuadas têm o condão de alterar a competência do Juízo da execução da pena. A propósito:
+CRIMINAL. CONFLITO DE COMPETÊNCIA. COMPETÊNCIA PARA A EXECUÇÃO. INEXISTÊNCIA DE TRANSFERÊNCIA LEGAL A MODIFICAR A COMPETÊNCIA. IMPROPRIEDADE DO DESLOCAMENTO. COMPETÊNCIA DO JUÍZO SUSCITANTE.
+Somente as transferências de sentenciados legalmente efetuadas podem alterar a competência do Juízo da execução da pena.
+Não há como se deslocar a competência para a execução, na hipótese de condenado beneficiado com sursis que se mudou - sem autorização do Juízo da Execução de São Paulo - para cidade Mineira, onde acabou preso em função do mandado de prisão expedido pelo Juízo Paulista.
+Transferência legal de sentenciado não configurada.
+Conflito conhecido para declarar a competência do Juízo de Direito do Júri e da Vara de Execuções Criminais de São Bernardo do Campo - SP, o Suscitante. (CC 33.355/SP, Rel. Ministro GILSON DIPP, TERCEIRA SEÇÃO, julgado em 18/02/2002, DJ 25/03/2002, p. 176)
+Conforme jurisprudência consolidada desta Corte Superior, firmada com esteio no art. 65 da Lei de Execuções Criminais, o Juízo competente para a execução da pena imposta é o indicado na lei local de organização judiciária e, na sua ausência, o Juízo da condenação, facultando-se a transferência para local de residência do sentenciado ou de seus familiares tão somente se constatada a existência de vagas.
+Nesse sentido:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. RECURSO DO INTERESSADO. LEGITIMIDADE. COMPETÊNCIA PARA A EXECUÇÃO PENAL. JUÍZO INDICADO NA LEI LOCAL DE ORGANIZAÇÃO JUDICIÁRIA DO JUÍZO DA CONDENAÇÃO. TRANSFERÊNCIA DE PRESO PARA LOCAL PRÓXIMO AOS SEUS FAMILIARES. EXISTÊNCIA DE VAGAS. CONDIÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO 1.
+Possui legitimidade para interpor agravo regimental eventual interessado, desde que demonstre que a decisão proferida no conflito de competência refletirá diretamente na sua condição carcerária.
+2. A jurisprudência desta Corte, com fundamento no art. 65 da Lei de Execuções Penais, firmou entendimento de que o juízo competente para a execução penal é o indicado na lei local de organização judiciária do Juízo da condenação. É evidente que o fato de o processo executivo ser de competência de juízo que não corresponda ao do domicílio do réu não impede, por si só, que a pena possa ser cumprida neste último local, sob a supervisão de juízo que deve ser deprecado para essa finalidade.
+3. A despeito de otimizar a ressocialização do preso e de humanizar o cumprimento da reprimenda, pela maior proximidade do preso aos seus familiares, a transferência de presídio depende da existência de vaga.
+4. Agravo regimental não provido. (AgRg no CC 143.256/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 08/06/2016, DJe 17/06/2016)
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PENAL E PROCESSUAL PENAL. MUDANÇA VOLUNTÁRIA DE DOMICÍLIO DO APENADO. COMPETÊNCIA QUE SE MANTÉM NO JUÍZO DA EXECUÇÃO. PEDIDO DE TRANSFERÊNCIA DO PRESO. RECUSA FUNDAMENTADA. POSSIBILIDADE.
+1. A mudança de residência do apenado, por vontade própria, não constitui causa legal de transferência de preso. Precedentes.
+2. O direito que o preso tem de cumprir pena em local próximo à residência, onde possa ser assistido pela família, é relativo, pois a transferência pode ser negada desde que a recusa esteja fundamentada.
+3. Agravo Regimental improvido. (AgRg no CC 137.281/MT, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 23/09/2015, DJe 02/10/2015)
+No mesmo sentido, confira-se decisão monocrática proferida pelo Ministro ROGÉRIO SCHIETTI CRUZ, proferida no CC 150.563/CE, publicada no DJe 30/3/2017.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da 3ª Vara Criminal de Jaciara - MT, o suscitado.
+Publique-se.
+Intime-se
