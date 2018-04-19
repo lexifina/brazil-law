@@ -1,0 +1,14 @@
+EMENTA
+RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO CLARA DE QUAL DISPOSITIVO DE LEI FEDERAL RECAIRIA A DIVERGÊNCIA JURISPRUDENCIAL. SÚMULAS 283 E 284/STF. FUNDAMENTO INATACADO NO APELO NOBRE. SÚMULA 283/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto por MARIA INÊS DE OLIVEIRA SCHAEFFNER, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurge contra acórdão do Tribunal de Justiça São Paulo assim ementado (e-STJ, fls. 312-321):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. EXTINÇÃO DO FEITO DIANTE DO ACOLHIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO EFETIVA DE INÉRCIA DO EXEQUENTE NA HIPÓTESE DOS AUTOS. DE TODO MODO, PARA O PRONUNCIAMENTO DA PRESCRIÇÃO INTERCORRENTE, EXIGE-SE A INTIMAÇÃO PESSOAL DO AUTOR PARA A COMPROVAÇÃO DE SUA INÉRCIA, O QUE NÃO OCORREU IN CASU. PRECEDENTES DO C. SUPERIOR TRIBUNAL DE JUSTIÇA. DECISÃO ANULADA. RECURSO DO EXEQUENTE PROVIDO.
+No recurso especial, a recorrente aponta divergência jurisprudencial acerca da necessidade ou não de intimação pessoal do credor para dar andamento à execução, sob pena de decretação da prescrição intercorrente. Frisa que, além de não ser necessária a ciência pessoal do exequente, o contraditório foi exercido no caso, pois existiu intimação do patrono da parte para promover o andamento do feito (e-STJ, fls. 324-334).
+Contraminuta apresentada (e-STJ, fls. 373-376).
+Juízo positivo de admissibilidade (e-STJ, fls. 381-383).
+Brevemente relatado, decido.
+Primeiramente, nota-se que a recorrente não apontou nenhum dispositivo de lei em específico em seu recurso sobre o qual haveria divergência jurisprudencial. Há apenas menção, un passant, ao art. 485, III, do novo Código de Processo Civil, todavia, ao que parece, não é sobre esse dispositivo que recai a suposta divergência. Além disso, inexiste a demonstração do dissídio interpretativo nos termos regimentais, pois também não há o cotejo analítico, o que reforça a impossibilidade de conhecimento do recurso, com base nas Súmulas 283 e 284/STF.
+No mais, o julgado estadual foi calcado em duas premissas: a) inexistência de inércia da parte autora em buscar a satisfação de seu crédito (conclusão fundada na apreciação fático-probatória da causa - Súmula 7/STJ -, o que, por si só, já inviabiliza o conhecimento do recurso); e b) necessidade de intimação pessoal do credor para que ocorra o reconhecimento da prescrição intercorrente. Todavia, a parte atacou apenas este segundo fundamento, nada falando acerca da ausência de inércia do recorrido, mesmo tal fundamento sendo suficiente para a manutenção do julgado.
+Esse fato enseja a aplicação da Súmula 283/STF, obstando o conhecimento do recurso especial por quaisquer das alíneas do permissivo constitucional, inclusive por divergência jurisprudencial.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
