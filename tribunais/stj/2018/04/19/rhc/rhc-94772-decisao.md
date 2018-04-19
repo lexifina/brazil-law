@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0057324-50.2017.8.19.0000, relator o Desembargador Sidney Rosa da Silva).
+Consta nos autos que o recorrente foi preso cautelarmente pela suposta prática dos crimes de homicídio qualificado e ameaça.
+Impetrado habeas corpus no Tribunal de origem objetivando o trancamento da ação penal ou a liberdade do então paciente, a ordem não foi conhecida pelo Desembargador relator (e-STJ fls. 91/112).
+Interposto agravo regimental, o recurso não foi provido. Eis a ementa do aludido julgado (e-STJ fl. 160):
+AGRAVO INTERNO. HABEAS CORPUS. PROCESSUAL PENAL. CRIME DE HOMICÍDIO QUALIFICADO. AMEAÇA. PEDIDO ADITADO NO REMÉDIO CONSTITUCIONAL DE TRANCAMENTO DA AÇÃO PENAL POR AUSÊNCIA DE JUSTA CAUSA E DE DEFERIMENTO DA LIBERDADE PROVISÓRIA. INEXISTÊNCIA DE MANIFESTAÇÃO JUNTO AO JUÍZO A QUO. INVIÁVEL O EXAME DAS TESES DEFENSIVAS NÃO ANALISADAS PELO JUÍZO DE PRIMEIRO GRAU, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. QUESTÃO FÁTICA QUE SE AMPARA EM DECISÕES PRETORIANAS. AGRAVO INTERNO NÃO PROVIDO.
+Neste recurso, sustenta a defesa inexistirem motivos para a prisão preventiva, bem como afirma a inépcia da denúncia e a ausência de justa causa para a ação penal, asseverando que, ao contrário do afirmado pela Corte de origem, as referidas alegações não precisam ser endereçadas primeiramente ao Juízo de primeira instância.
+Busca, inclusive liminarmente, seja trancada a ação penal e revogada a prisão preventiva do recorrente.
+O recurso foi indeferido liminarmente ante a supressão de instância verificada (e-STJ fls. 210/212).
+No julgamento do agravo regimental manejado, a decisão impugnada foi reconsiderada tão somente para deferir, de ofício, a liminar a fim de determinar que o Tribunal de Justiça do Estado do Rio de Janeiro apreciasse o mérito do habeas corpus originário como entendesse de direito, mantido o indeferimento liminar do pedido de exame das teses meritórias, ante a supressão de instância outrora constatada.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento da ordem, mas pela concessão de habeas corpus de ofício "para que o Tribunal de Justiça do Estado de Rio de Janeiro verifique eventual existência de constrangimento ilegal na determinação da prisão cautelar e possível inépcia da denúncia" (e-STJ fl. 298).
+É, em síntese, o relatório.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam que o habeas corpus originário teve o seu mérito examinado pelo Tribunal de Justiça do Estado do Rio de Janeiro, nos moldes em que lançada a decisão liminar proferida por este relator, de modo que esvaziado este recurso, o qual foi conhecido apenas no tocante à necessidade de prévio exame dos temas pela Corte a quo.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
