@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] ARAÚJO, fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição da República, contra acórdão proferido pela Terceira Turma do Tribunal de Justiça do Estado do Pará, que negou provimento à apelação defensiva para manter a condenação do ora recorrente às penas de 9 (nove) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e pagamento de 18 (dezoito) dias-multa, pela prática do crime descrito no artigo 157, § 2º, I e II, do Código Penal.
+O recorrente defende, em resumo, violação do artigo 59 do Código Penal e divergência jurisprudencial, porquanto a pena-base teria sido fixada em patamar deveras elevado, tendo sido considerada como maus antecedentes a existência de inquéritos policiais e ações penais em seu desfavor.
+Aduz, ainda, contrariedade ao artigo 65, III, "d", do Código Penal e dissídio de jurisprudência, caracterizadas pela atenuação de apenas 6 (seis) meses da pena-base em decorrência de sua confissão espontânea.
+Requer, ao final, o provimento do recurso especial para redimensionamento das penas aplicadas.
+Contrarrazoado o recurso (fls. 182/186), após o juízo prévio de admissibilidade (fls. 206/208), os autos ascenderam a este Superior Tribunal de Justiça.
+Instada a se manifestar, a Procuradoria-Geral da República, na condição de fiscal da lei, ofertou parecer pelo desprovimento do apelo especial (fls. 229/237).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca da existência de maus antecedentes, assim restou assentado pela Turma paraense:
+Quanto à fixação da pena-base, o juízo a quo valorou as circunstâncias judiciais do art. 59, do CP da seguinte maneira (fl. 48):
+A culpabilidade do agente é própria do tipo nada havendo a ser valorado; registra antecedentes conforme certidão de fls.17; não há elementos para aferir a conduta social e a personalidade do acusado; os motivos do crime são o lucro fácil; as circunstancias do crime não favorecem o acusado porquanto se encontrava portando arma de fogo e em concurso de pessoas, dificultando a defesa da vítima, o que não passo a valorar pra não chegar-se em bis in idem; consequências extra-penais não foram favoráveis, pois a vitima não teve o bem restituído; a vítima não contribuiu para a prática do crime. Há, pois, cinco circunstancias desfavoráveis, razão pela qual fixo a pena-base acima do mínimo, em 7 anos e 9 meses de reclusão e 15 dias-multa.
+Como se percebe, três vetores do art. 59 foram valorados negativamente ao recorrente: antecedentes, motivos e consequências do crime e não cinco como aduziu o juízo sentenciante.
+Inobstante não estejam devidamente fundamentados esses vetores, passo a revalorá-los, ancorado na jurisprudência do c. STJ e STF (HC 76.156/SP, Primeira Turma, Rel. Min. Sepúlveda Pertence e HC 305.786/SP, Rel. Ministro LÁZARO GUIMARÃES - DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, DJe 28/03/2016), no sentido de que, em razão do efeito devolutivo da apelação, pode o juízo ad quem proceder à nova valoração das circunstancias judiciais, não estando adstrito aos fundamentos da sentença do juízo singular, inclusive com novos argumentos, mesmo em recurso exclusivo da defesa, desde que respeite o quantum da pena atribuído.
+Passo a revalorar.
+ ..
+Ele registra antecedentes criminais (fl. 17), o que não fora sequer questionado pelo apelante, pelo que valoro desfavorável.(fls. 145/147)
+Verifica-se, pois, que as instâncias ordinárias valoram negativamente os antecedentes do ora recorrente, ainda que no momento do oferecimento da denúncia constasse apenas a ação penal em curso, uma vez que quando da prolação da sentença já existia condenação transitada em julgado.
+Com efeito, destaca-se que o trânsito em julgado posterior ao crime descrito na denúncia, de condenação por ilícito penal praticado em data anterior àquele, ainda que não caracterize a agravante da reincidência, configura maus antecedentes, pois diz respeito ao histórico do réu.
+A propósito, confiram-se os seguintes julgados de ambas as Turmas que compõem a Terceira Seção deste Sodalício:
+PENAL. HABEAS CORPUS  ..  ROUBO MAJORADO. DOSIMETRIA. CONDENAÇÕES DEFINITIVAS POR FATO ANTERIOR, MAS COM TRÂNSITO EM JULGADO POSTERIOR. CONSIDERAÇÃO COMO MAUS ANTECEDENTES. POSSIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.  ..
+II - Esta Corte tem entendimento reiterado de que a condenação definitiva por fato anterior ao crime descrito na denúncia, mas com trânsito em julgado posterior à data do ilícito penal, ainda que não configure a agravante da reincidência, pode caracterizar maus antecedentes, pois diz respeito ao histórico do acusado. (Precedentes).  ..
+Habeas corpus não conhecido.
+(HC 424.759/SP, Rel. Ministro FÉLIX FISCHER, QUINTA TURMA, julgado em 13/03/2018, DJe 20/03/2018)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS.  ..  MAUS ANTECEDENTES. FATOS ANTERIORES. TRÂNSITO EM JULGADO POSTERIOR. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.  ..  ORDEM DENEGADA.  ..
+4. Configuram-se maus antecedentes se, na data da sentença, o paciente possuía condenação definitiva por delito anterior. A exigência de que o trânsito em julgado preceda o cometimento do crime atual é apenas para a caracterização da reincidência. Precedentes.
+5. Nos termos da Jurisprudência solidificada desta Corte, não há óbice à utilização de condenações anteriores transitadas em julgado como fundamento para fixação da pena-base acima do mínimo legal a título de maus antecedentes, conduta social ou personalidade, desde que se arrolem condenações distintas, sob pena de se incorrer em bis in idem. Na espécie, foi referenciada para fins de negativação da conduta social e personalidade a mesma condenação outrora empregada a título de maus antecedentes, sendo de rigor o decréscimo sancionatório.  ..
+9. Ordem parcialmente concedida, apenas para reduzir a reprimenda imposta à paciente ao patamar de 9 meses de detenção, mantidos os demais termos do édito condenatório.
+(HC 419.100/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/03/2018, DJe 05/04/2018)
+Conclui-se, portanto, que a Turma julgadora decidiu em conformidade com o entendimento deste Superior Tribunal de Justiça sobre o tema.
+Finalmente, no tocante ao montante de redução da pena ante a incidência da circunstância atenuante da confissão espontânea, verifica-se que a questão não foi prequestionada pelo Colegiado estadual e não foram opostos embargos de declaração para julgamento do tema. A rigor, destaca-se que a questão nem mesmo foi aduzida nas razões de apelação, de modo que não foi devolvida para a apreciação da Corte local.
+Desse modo, revela-se inviável o conhecimento do apelo no ponto, em face do não cumprimento do requisito constitucional de cabimento do recurso especial, relativo a ter a causa sido efetivamente decidida, em única ou última instância, pelo Tribunal de origem. Incide, por analogia, o teor da Súmula 282 do Supremo Tribunal Federal.
+A propósito. confiram-se:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  DOSIMETRIA. CONDENAÇÃO TRANSITADA EM JULGADO. BIS IN IDEM. PREQUESTIONAMENTO. SÚMULA 282/STF.  ..
+II - O eg. Tribunal de origem, ao apreciar o tema, não se manifestou, especificamente, acerca da utilização das condenações transitadas em julgado na primeira ou segunda fase da dosimetria. Verifica-se, também, que não foram opostos embargos de declaração para suprir a suposta omissão, razão pela qual o recurso, neste ponto, não reúne condições de prosperar, em face da ausência do indispensável prequestionamento da matéria, a teor do enunciado sumular n. 282 do Supremo Tribunal Federal.
+Agravo regimental desprovido.
+(AgRg no AREsp 946.365/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/03/2018, DJe 23/03/2018)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  ART. 383 DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356, AMBAS DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.  ..
+2. Conforme reiterada jurisprudência do STJ, para que atenda ao requisito do prequestionamento, é necessário que a questão haja sido objeto de debate pelo Tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca do dispositivo legal apontado como violado, o que não foi oportunizado na espécie.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1.219.533/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 20/03/2018, DJe 27/03/2018)
+Ante o exposto, com fundamento no artigo 255, § 4º, incisos I e II, do Regimento Interno do Superior Tribunal de Justiça, conhece-se em parte do recurso especial e, na parte conhecida, nega-se-lhe provimento.
+Publique-se. Intimem-se.
