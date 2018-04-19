@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CLAUDEMIR GONÇALVES DE AGUIAR, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da 2ª Vara das Execuções Criminais e Infância e Juventude da Comarca de Araçatuba/SP deferiu ao paciente o pedido de comutação de penas formulado com base no Decreto n. 8.615/2015 (e-STJ fl. 201).
+Irresignado, o Ministério Público interpôs agravo em execução perante o Tribunal de origem, que deu provimento ao recurso, nos termos do acórdão assim ementado (e-STJ fl. 183):
+Agravo em Execução. Comutação deferida nos termos do Decreto nº 8.615/2015. Prática de falta disciplinar de natureza grave, em 15/09/2011, consistente na prática de novo crime. Falta grave interrompe lapso temporal para obtenção do benefício da comutação. Agravo provido para cassar a decisão recorrida.
+Neste writ, a Defensoria Pública do Estado de São Paulo alega que, "no caso dos autos, conforme cálculo acostado, o requisito objetivo para fins de comutação foi preenchido em 27/07/2013, considerando 1/3 das penas. Assim, está preenchido o requisito objetivo para fins de comutação nos termos do Decreto 8.615/2015. A autoridade coatora, ao determinar o reinício da contagem do lapso para fins de comutação, praticou ato ilegal, ferindo o direito de ir e vir do paciente. Não há qualquer amparo legal para a interrupção da contagem dos prazos para concessão desses direitos, em prejuízo de todo o tempo de pena já cumprido" (e-STJ fl. 8).
+Assevera que, "em momento algum, foi inserido no referido Decreto que o tempo de cumprimento de pena exigido para a comutação deveria obedecer a eventual data de reinício da contagem de prazo. Ao contrário, se assim desejasse o Presidente da República teria feito expressamente. Esse é o entendimento sumulado deste STJ - Súmula 535- STJ: A prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto" (e-STJ fls. 8/9).
+Por isso, requer a concessão da ordem, a fim de anular a decisão proferida pelo Juízo de primeira instância, reconhecendo o direito do paciente à comutação da pena, nos termos previstos pelo Decreto n. 8.615/2015.
+As Informações foram prestadas (e-STJ fls. 208/272 e 274/279).
+O Ministério Público Federal manifestou-se pela concessão da ordem (e-STJ fls. 281/288).
+É, em síntese, o relatório. Decido.
+No caso dos autos, o Juízo da 2.ª Vara das Execuções Criminais e Infância e Juventude da Comarca de Araçatuba/SP, deferiu o pedido de comutação de penas, consignando, para tanto, que (e-STJ fl. 21):
+O mencionado sentenciado requer comutação de penas com base no Decreto nº 8.615/2015, argumentando ter preenchido os requisitos legais para tanto.
+O Ministério Público opinou pelo deferimento do pedido.
+É o relato do necessário.
+Decido.
+Julgo antecipadamente na forma do § 1º, do art. 196, da Lei de Execução Penal.
+Infere-se dos autos que o sentenciado é reincidente e preenche os requisitos para o acolhimento do pedido.
+O art. 2º do Decreto nº 8.615/2015 previu como requisito para a comutação, dentre outros, o cumprimento de 1/3 da pena até 25/12/2015, caso o sentenciado seja reincidente, como nesta execução.
+Desta feita, o requisito objetivo foi alcançado em 27/07/2013, conforme cálculo de penas acostado aos autos (fls. 417).
+O requisito subjetivo se faz presente, conforme expediente juntado (fls. 18). Satisfeito também o requisito previsto no art. 5º do referido decreto, uma vez que não praticou falta disciplinar de natureza grave nos últimos doze meses de cumprimento de pena anteriores à publicação do decreto.
+Ante o exposto, DEFIRO o pedido de comutação de penas formulado pelo sentenciado na proporção de 1/5, nos termos do art. 2º do Decreto supracitado, desprezadas as penas privativas de liberdade já cumpridas à época do decreto, para efeito de cálculo.
+O Tribunal de origem, por sua vez, ao prover o agravo em execução interposto pelo Parquet, reformou a decisão de primeiro grau, à base da seguinte fundamentação (e-STJ fls. 185/189, grifei):
+O agravado cumpre pena de trinta e sete (37) anos, dois (02) meses e quatorze (14) dias de reclusão, pela prática de roubo majorado, furto e receptação, com término previsto para o dia 14/04/2038. Foi preso em 15/09/2011 em razão da prática de novo crime.
+O inconformismo comporta acolhimento.
+A comutação, nada mais é do que o indulto parcial, que consiste em ato discricionário do Presidente da República, a quem compete delinear a extensão do benefício e os requisitos para sua concessão.
+Nos termos do artigo 2º, do Decreto nº 8.615/2015, a concessão do benefício pleiteado estava condicionada ao resgate de um terço (1/3) da pena até 25 de dezembro de 2015, posto que o sentenciado é reincidente.
+E considerando que o sentenciado praticou novo crime em 15/09/2011, forçoso reconhecer que ele não resgatou 1/3 da pena até 25/12/2015, de modo que ausente o requisito de ordem objetiva estipulado no referido Decreto.
+A prática de falta disciplinar de natureza grave (neste caso um crime), mesmo antes do período mencionado no Decreto Presidencial, influi na aferição do mérito do cativo na concessão de concessão de futuros benefícios.
+No que se refere à interrupção do prazo para concessão do benefício pelo cometimento de falta grave, embora me perfilhasse à corrente que entende não ter a falta disciplinar de natureza grave o condão de interromper o interstício aquisitivo da comutação, após aprofundada reflexão resolvi mudar meu posicionamento.
+Como a conduta faltosa interfere no mérito do sentenciado, inegavelmente, reinicia o cômputo de novo período aquisitivo para obtenção desse benefício.
+E no caso em exame, ainda que se considere como preenchido o requisito de ordem temporal, posto que a falta grave cometida foi anterior ao prazo previsto no Decreto Presidencial nº 8.380/2015, forçoso convir que a prática de falta grave denota ausência de mérito do sentenciado.
+Entender de modo diverso gera um contrassenso, pois beneficia indevidamente o cativo que não ostenta mérito para progredir ao regime menos gravoso.
+ ..
+À vista disso para que o sentenciado seja beneficiado com a comutação da pena, além do preenchimento dos requisitos estabelecidos no Decreto Presidencial, deverá também atender aos requisitos estabelecidos pela Lei de Execução Penal para a obtenção de benefícios. Admitir que o cativo que se encontra segregado em regime fechado seja beneficiado com a comutação da pena, sem que demonstre assimilação da terapêutica penal que lhe vem sendo dispensada, carece de lógica, coerência e acarreta, em última análise, afronta ao princípio da razoabilidade.
+Diante desse quadro, seja porque ausente o requisito de ordem objetiva, seja porque ausente o de ordem subjetiva, necessário se faz a cassação da decisão recorrida.
+Ante o exposto, pelo meu voto, dou provimento ao agravo para cassar a decisão recorrida.
+Da leitura do trecho acima colacionado, verifica-se que o posicionamento adotado pelo Tribunal de Justiça discente da jurisprudência firmada por este Superior Tribunal de que as faltas graves cometidas fora dos doze meses anteriores à data da publicação do Decreto Presidencial não podem ser utilizadas para justificar o indeferimento da comutação de pena, porquanto não é dado ao Poder Judiciário estabelecer condições não previstas na aludida norma para conceder benefícios nela definidos, sob pena de usurpação da competência atribuída ao Presidente da República no art. 84, inciso XII, da Constituição Federal.
+Ademais, este Superior Tribunal de Justiça sumulou o entendimento de que a prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto (Súmula 535/STJ).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE GRAVE. INTERRUPÇÃO DO PRAZO PARA FINS DE COMUTAÇÃO DE PENA OU INDULTO. SÚMULA 441/STJ. ESCLARECIMENTO DA DECISÃO AGRAVADA.
+DESNECESSIDADE. AGRAVO NÃO PROVIDO.
+1. A prática de falta grave pelo sentenciado, no curso da execução da pena, altera a data-base para a concessão de novos benefícios, exceto para fins de livramento condicional, indulto e comutação da pena. Entendimento consolidado nas Súmulas 441, 535 e 534 desta Corte e no recurso repetitivo, REsp 1.364.192/RS.
+2. Não há se falar em necessidade de esclarecimento da decisão impugnada, tendo em vista que o decisum explicita que "não é interrompido automaticamente o prazo pela falta grave no que diz respeito à comutação de pena ou indulto, mas a sua concessão deverá observar o cumprimento dos requisitos previstos no decreto presidencial pelo qual foram instituídos." 3. Agravo regimental não provido.
+(AgRg no HC 312.081/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO. FALTA GRAVE. INTERRUPÇÃO DO LAPSO PARA O LIVRAMENTO CONDICIONAL, INDULTO E COMUTAÇÃO DE PENA. AUSÊNCIA DE PREVISÃO LEGAL. SÚMULAS N. 441 E N. 535, STJ. FLAGRANTE ILEGALIDADE EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. A Terceira Seção desta Corte, no julgamento do EREsp n. 1.176.486/SP, relator Ministro Napoleão Nunes Maia Filho, uniformizou entendimento no sentido de que a falta disciplinar de natureza grave resulta na alteração da data base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena. Inteligência das Súmulas n. 441 e n. 535, ambas do STJ.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que a data-base para a concessão de livramento condicional, indulto e comutação de pena não se altere em decorrência da prática de falta disciplinar de natureza grave.
+(HC 400.988/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/06/2017, DJe 01/08/2017).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. COMUTAÇÃO DE PENA. DECRETO N. 7.648/2011. COMETIMENTO DE FALTA GRAVE FORA DO PERÍODO PREVISTO NO DECRETO PRESIDENCIAL. CONCESSÃO DO BENEFÍCIO.
+1. A Terceira Seção deste Tribunal Superior, no julgamento do EREsp 1.176.486/SP, uniformizou o entendimento de que a falta disciplinar de natureza grave resulta na alteração da data base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena.
+2. O Decreto presidencial concessivo - Decreto n. 7.648/11, em seus arts. 2º e 4º, apenas exige, para obtenção do benefício, que o condenado não tenha registro de falta grave nos últimos doze meses, contados da data da publicação do mencionado ato normativo.
+3. A jurisprudência desta Corte Superior pacificou-se no sentido de que a prática de falta grave fora do período previsto em Decreto Presidencial não justifica o indeferimento da comutação por ausência de requisito subjetivo, sob pena de afronta ao princípio da legalidade, ante a absoluta falta de previsão legal.
+4. Agravo regimental desprovido.
+(AgRg no HC 346.810/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/06/2016, DJe 22/06/2016).
+Desse modo, a Corte local, na medida em que impôs requisito não estabelecido no Decreto Presidencial ofendeu de forma manifesta o princípio da legalidade, situação que evidencia constrangimento ilegal bastante a ensejar a concessão excepcional de habeas corpus, de ofício.
+Ante o exposto, não conheço do habeas corpus. Entretanto, de ofício, concedo a ordem, para, cassando o acórdão impugnado, restabelecer a decisão do Juízo de primeiro grau, que deferiu o pedido de comutação de penas formulado pelo ora paciente.
+Publique-se. Intimem-se.
