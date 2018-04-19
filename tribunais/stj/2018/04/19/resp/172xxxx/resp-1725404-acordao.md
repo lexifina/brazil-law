@@ -1,0 +1,57 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. ARRENDAMENTO MERCANTIL. MULTA. RESPONSABILIDADE DO ARRENDATÁRIO. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Hipótese em que o Tribunal local consignou (fl. 1.770, e-STJ): "Entendimento jurisprudencial dominante no sentido de que, enquanto perdurar o arrendamento mercantil, o arrendante é proprietário para efeitos exclusivamente financeiros, não tendo qualquer responsabilidade por infrações praticadas pelo arrendatário ao utilizar o veículo arrendado, uma vez que nenhum poder exerce sobre esta utilização, nem retira desta qualquer proveito".
+2. Inicialmente, não se pode conhecer da irresignação contra a ofensa aos dispositivos legais invocados, uma vez que não foram analisados pela instância de origem. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF.
+3. Além disso, a título de argumentação, ressalto que, ainda que se afastasse tal óbice, melhor sorte não assistiria ao insurgente. Isso porque o aresto proferido na origem encontra-se em consonância com a orientação do Superior Tribunal de Justiça de que é do arrendatário - possuidor direto do bem - a responsabilidade pelo pagamento de multa decorrente de infração relativa ao uso indevido do bem arrendado, e não do arrendante. A propósito: AgRg no REsp 1.442.087/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30.6.2015; AgRg no AREsp 606.736/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20.3.2015; AgRg no Ag 1.303.257/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22.3.2011; REsp 787.429/SP, Primeira Turma, Rel. Min. Francisco Falcão, DJ de 4.5.2006.
+4. Recurso Especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+APELAÇÃO AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO C.C. DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA Pretensão do banco autor de ver declarada a inexistência de relação jurídica com o Município de São Paulo em função de infrações de trânsito praticadas por arrendatário de veículo - Improcedência do pedido declarada em primeiro grau Decisório que não merece subsistir - Entendimento jurisprudencial dominante no sentido de que, enquanto perdurar o arrendamento mercantil, o arrendante é proprietário para efeitos exclusivamente financeiros, não tendo qualquer responsabilidade por infrações praticadas pelo arrendatário ao utilizar o veículo arrendado, uma vez que nenhum poder exerce sobre esta utilização, nem retira desta qualquer proveito - Sentença reformada Recurso provido.
+O recorrente, nas razões do Recurso Especial, sustenta que ocorreu violação do art. 257, §§ 7º e 8º, do CTB, sob a argumentação de que "a arrendadora deve figurar como responsável pela infração supostamente cometida pelo veículo do arrendatário sempre que deixar de fornecer os dados ao órgão de trânsito" (fl. 1.789, e-STJ).
+Contrarrazões apresentadas às fls. 1.792-1.801, e-STJ.
+O Ministério Público Federal opinou pelo desprovimento do Recurso Especial, (fls. 1.829-1.830, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 19.3.2018.
+A irresignação não merece prosperar.
+Inicialmente, não se pode conhecer da irresignação contra a ofensa aos dispositivos legais invocados, uma vez que não foram analisados pela instância de origem. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. DISPOSITIVO LEGAL NÃO PREQUESTIONADO. SÚMULA 282/STF. (..)
+1. No que tange à violação do artigo 25, inciso V, alínea a, da Lei 8.625/93, não houve apreciação pelo Tribunal de origem sobre a incidência do dispositivo de referência, o que impossibilita o julgamento do recurso nesses aspectos, por ausência de prequestionamento, nos termos da Súmula 282/STF.
+(..)
+3. Agravo regimental não provido.
+(AgRg no AgRg no REsp 920.879/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 13/03/2013, grifei).
+PROCESSUAL CIVIL E ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTO. (..) PREQUESTIONAMENTO. SÚMULAS 282/STF e 211/STJ. (..)
+(..)
+2. Observa-se que o Tribunal a quo não emitiu carga decisória sobre os arts. 8º, 16, III, "b" e 17, II e IX, da Lei nº 8.080/90. Ausente o prequestionamento, inviável a discussão em recurso especial, a teor do disposto nas Súmulas 282/STF e 211/STJ.
+(..)
+(AgRg no AREsp 37.232/BA, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe 28/03/2012, grifei).
+Além disso, a título de argumentação, ressalto que, ainda que se afastasse tal óbice, melhor sorte não assistiria ao insurgente.
+Isso porque o aresto proferido na origem encontra-se em consonância com a orientação do Superior Tribunal de Justiça de que é do arrendatário - possuidor direto do bem - a responsabilidade pelo pagamento de multa decorrente de infração relativa ao uso indevido do bem arrendado, e não do arrendante.
+Nesse sentido:
+ADMINISTRATIVO. ARRENDAMENTO MERCANTIL. VEÍCULO. MULTA. RESPONSABILIDADE. ARRENDATÁRIO. PRECEDENTES. VEDAÇÃO À LAVRATURA DE NOVAS MULTAS. POSSIBILIDADE. EXTENSÃO TEMPORAL DA COISA JULGADA. AUSÊNCIA DE ALTERAÇÃO DA SITUAÇÃO DE FATO E DE DIREITO. CLÁUSULA REBUS SIC STANTIBUS. PRECEDENTES.
+1. Consoante jurisprudência pacificada do STJ, "é do arrendatário do veículo a responsabilidade pelo pagamento de multa decorrente de infração relativa ao uso indevido do bem arrendado" (AgRg no AREsp 606.736/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/02/2015, DJe 20/03/2015.).
+2. O reconhecimento do cunho declaratório da ação para inviabilizar novas multas sobre veículos comprovadamente objeto de gravame não implica condicionar a sentença a evento futuro e incerto, mas em reconhecer que o gravame existente e vinculado ao veículo pressupõe o cumprimento, por parte do arrendante, dos preceitos legais de informar os dados necessários à correta lavratura da multa veicular, evitando, assim, a aplicação de multas indevidas ao responsável e, consequentemente, o ajuizamento de futuras ações com o mesmo desiderato, pois, a toda evidencia, não promoveria o órgão municipal de trânsito tal restrição nos dados do veículo se não estivessem presentes as informações necessárias à identificação dos arrendatários.
+3. Nessa condição, o entendimento firmado tem eficácia vinculante para o futuro enquanto se mantiverem inalterados o estado de direito e o suporte fático sobre os quais se estabeleceu o juízo de certeza, que, na hipótese, vincula-se, restritivamente, à inviabilidade de aplicação de multas em face do arrendante que perfectibilizou o gravame antes da lavratura do auto de infração.
+4. Nos exatos limites da lide, os veículos que a arrendante promoveu seu gravame antes da lavratura da infração inviabilizaram sua responsabilidade pela multa no lugar do arrendatário, de modo que a coisa julgada não abarcará hipótese diversa onde constatada irregularidade no gravame ou mesmo sua ausência, pois o efeito preclusivo da coisa julgada, consoante acima delineado, não acoberta situação de fato diversa ou alterada do anteriormente juízo de certeza estabelecido. Agravo regimental improvido.
+(AgRg no REsp 1.442.087/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 30/6/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. ARRENDAMENTO MERCANTIL. EXECUÇÃO FISCAL. MULTA. TRANSPORTE IRREGULAR DE MERCADORIA. RESPONSABILIDADE DO ARRENDATÁRIO. PRECEDENTES.
+1. Conforme a orientação deste Superior Tribunal de Justiça, é do arrendatário do veículo a responsabilidade pelo pagamento de multa decorrente de infração relativa ao uso indevido do bem arrendado. Precedentes desta Corte.
+2. Agravo Regimental não provido.
+(AgRg no AREsp 606.736/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 20/3/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DISSÍDIO JURISPRUDENCIAL CONFIGURADO. CONTRATO DE ARRENDAMENTO MERCANTIL. MULTAS DE INFRAÇÃO DE TRÂNSITO COMETIDAS PELO ARRENDATÁRIO. ILEGITIMIDADE PASSIVA AD CAUSAM DA ARRENDADORA.
+1. As exigências de natureza formal, atinentes à configuração do dissídio jurisprudencial, devem ser mitigadas quando verificada a notoriedade da divergência, como é o caso dos autos, no qual são evidentes a similitude fática e a discrepância de interpretação normativa entre os acórdãos confrontados.
+2. A jurisprudência desta Corte possui o entendimento de que a sociedade empresária de leasing é parte ilegítima para figurar no polo passivo ad causam de demanda que tenha por objeto a cobrança de multa decorrente de auto de infração imputada ao arrendatário em face da utilização indevida do bem arrendado. Precedentes: REsp 1.095.329/SP, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 5/3/2009; REsp 849.632/SP, Rel. Ministro Luiz Fux, Primeira Turma, DJe 22/9/2008; REsp 1.066.087/SP, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 10/9/2008.
+3. Agravo regimental não provido.
+(AgRg no Ag 1.303.257/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 22/3/2011).
+PROCESSUAL CIVIL E ADMINISTRATIVO. TRANSPORTE IRREGULAR DE PASSAGEIROS. VEÍCULO ADQUIRIDO SOB O CONTRATO DE ARRENDAMENTO MERCANTIL. ILEGITIMIDADE DA ARRENDADORA PARA COMPOR O PÓLO PASSIVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. EXTINÇÃO DA EXECUÇÃO FISCAL. CONDENAÇÃO DA FAZENDA PÚBLICA EM HONORÁRIOS ADVOCATÍCIOS. FALTA DE PREQUESTIONAMENTO. SÚMULAS Nºs 282 E 356/STF.
+(..)
+II - Na hipótese em tela, o particular utilizou o veículo arrendado, por meio de contrato de arrendamento mercantil, sem autorização para tanto, para fazer transporte irregular de passageiros. Sendo assim, deve ele figurar no pólo passivo da execução fiscal movida pela Fazenda Pública, porquanto possui a posse direta do bem, não cabendo à empresa arrendadora a fiscalização dos bens arrendados.
+III - Ademais, consta a Resolução nº 59/98, do Conselho Nacional de Trânsito - CONTRAN, no qual prevê que "quando o veículo estiver registrado em nome de Sociedade de Arrendamento Mercantil, o órgão executivo de trânsito deverá encaminhar a notificação da infração de trânsito diretamente ao arrendatário".
+IV - É cabível a condenação da Fazenda Pública quando houver a extinção da execução fiscal, por meio do acolhimento da exceção de pré-executividade, aplicando-se, analogicamente a Súmula nº 153/STJ. Precedentes: EDcl no REsp nº 698.026/CE, Rel. Min. FELIX FISCHER, DJ de 06/02/06; AgRg no Ag nº 669.068/MG, Rel. Min. DENISE ARRUDA, DJ de 14/11/05 e REsp nº 611.253/BA, Rel. Min. LUIZ FUX, DJ de 14/06/04.
+V - Recurso especial conhecido em parte e, nesse ponto, improvido.
+(REsp 787.429/SP, PRIMEIRA TURMA, Rel. Min. FRANCISCO FALCÃO, DJ de 4.5.2006).
+Diante do exposto, nego provimento ao Recurso Especial.
+É como voto.
