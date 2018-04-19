@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça da respectiva unidade federativa (n. 186814-12.2014.8.09.0000) assim ementado (e-STJ, fls. 131-132):
+HABEAS CORPUS. AÇÃO PENAL. VIOLAÇÃO DO ART. 10, DA LEI Nº 7.347/85. ATIPICIDADE DA CONDUTA. SURSIS PROCESSUAL. PREJUDICIALIDADE. TRANCAMENTO DA INSTÂNCIA PENAL.
+I - O sursis processual, instituto de política criminal em favor daquele que preencha os requisitos para a suspensão temporária do curso da investigação judicial dos fatos, art. 89, da Lei nº 9.099/95, durante o período de prova, sujeita o beneficiário à retomada da marcha processual, pelo descumprimento das condições impostas, razão pela qual não prejudica a análise da ação mandamental, para o trancamento da ação penal, afastando potencial constrangimento ilegal em sua liberdade de locomoção, decorrente de possível atipicidade da conduta imputada.
+II - Não tem relevância penal a conduta do paciente que, acossado pelo representante ministerial para o fornecimento de dados, deixa de apresentar os elementos informativos requisitados, omissão que não inviabilizou a propositura de ação civil pública por ato de improbidade administrativa, revelando a sua dispensabilidade, deixando de configurar o delito do art. 10, da Lei nº 7.347/85, ensejando o trancamento da instância penal deflagrada.
+ORDEM CONCEDIDA.
+Opostos aclaratórios (e-STJ, fls. 145-147), foram rejeitados (e-STJ, fls. 152-159).
+Nas razões do apelo nobre (e-STJ, fls. 166-172), o insurgente aponta violação ao art. 619 do CPP.
+Em síntese, alega ter ocorrido negativa de prestação jurisdicional, uma vez que a Corte originária se quedou inerte sobre aspecto relevante da controvérsia.
+Requer a reforma do acórdão recorrido.
+Contrarrazões às fls. 179-184 (e-STJ).
+Após juízo de admissibilidade (e-STJ, fls. 186-188), os autos ascenderam a esta Corte Superior.
+A Subprocuradora-Geral da República, [NOME], opinou pelo provimento do inconformismo (e-STJ, fls. 204-210).
+É O RELATÓRIO.
+A irresignação merece prosperar.
+Na origem, a defesa interpôs habeas corpus em favor de [NOME] com o intuito de trancar ação penal que apura do delito previsto no art. 10 da Lei n. 7.347/1985.
+O Tribunal local concedeu a ordem, ao fundamento de que os dados não repassados ao Ministério Público são prescindíveis, uma vez que a ação civil pública fora ajuizada sem a documentação solicitada pelo ora recorrido.
+Inconformado, o Órgão Ministerial opôs embargos de declaração alegando omissão no acórdão embargado, tendo em vista que a ação civil pública foi ajuizada sem os documentos requisitados, sendo que em seu bojo, para a devida instrução e julgamento, foi realizado pedido para que o Juízo competente requisitasse as informações e as juntassem aos autos (e-STJ, fls. 146-147):
+Todavia, o acórdão foi omisso na análise do seguinte fato: não obstante tenha sido proposta a ação civil pública sem os documentos requisitados, o Ministério Público fez pedido expresso no bojo da ação para que o magistrado requisitasse os mesmos, fato este, inclusive, relatado na denúncia.
+Tal fato demonstra que os elementos que o Ministério Público buscava por meio da requisição eram indispensáveis, tanto que ressaltou na petição inicial da ação civil pública proposta:
+(..) Entrementes, por força da recusa do Presidente do Conselho de Contas em atender à requisição do Ministério Público, resta impossível especificar os atos administrativos que materializaram a efetivação de servidores no órgão auxiliar do Poder Legislativo, os quais serão juntados à ação durante a instrução".
+Note-se que a ação civil pública foi proposta tão somente com a presunção de que os dados técnicos almejados eram existentes, já que o Promotor, até aquele momento, não conseguiu ter acesso aos mesmos. Ora, se a ação visava a nulidade das portarias e resoluções e estes eram justamente os documentos requisitados pelo Ministério Público, é evidente que eram indispensáveis.
+Registre-se que a ausência destes documentos pode, inclusive, ensejar a rejeição da ação proposta, evidenciando a sua imprescindibilidade.
+
+Todavia, a Corte local quedou-se inerte perante a alegação de omissão.
+É cediço que o julgador não precisa responder a todos os argumentos das partes. Contudo, deve se pronunciar sobre temas essenciais ao deslinde da controvérsia, indicando as razões que lhe formaram a convicção.
+Na hipótese em foco, o Tribunal a quo deixou de sanar a declarada omissão sobre a questão federal suscitada nos autos e relevante para o deslinde da controvérsia. Impõe-se, desse modo, o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação sobre a imprescindibilidade dos documentos requisitados na perspectiva de que os dados técnicos não repassados pelo ora recorrido foram pedidos pelo Ministério Público ao Juízo na petição inicial da ação civil pública.
+A propósito:
+ ..
+NULIDADES NA INSTRUÇÃO PROCESSUAL SUSCITADAS NO MANDAMUS ORIGINÁRIO. MATÉRIA NÃO APRECIADA PELA CORTE IMPETRADA. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS EM FACE DA DECISÃO COLEGIADA POR MEIO DA QUAL RESTOU DENEGADA A ORDEM. PERSISTÊNCIA DA OMISSÃO. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS. PROVIMENTO PARCIAL DO RECURSO.
+1. Verifica-se a violação ao artigo 619 do Código de Processo Penal quando, apesar da oposição de embargos de declaração contra acórdão do Tribunal de origem, persiste a omissão apontada.
+2. No caso dos autos, a Corte estadual, ao considerar os argumentos lançados na impetração, em momento algum se pronunciou sobre as duas eivas que teriam ocorrido no feito, quais sejam, a falta de reconhecimento pessoal ou indireto do recorrente, e a ausência de sua intimação, bem como a de seu defensor, para determinados atos do processo, temas que sequer constaram do relatório do julgamento do writ pelo Tribunal a quo, tampouco do voto condutor, motivo pelo qual se impõe o novo julgamento dos embargos, suprindo-se o defeito mencionado.
+3. Recurso parcialmente provido apenas para determinar ao Tribunal de Justiça do Estado de São Paulo o novo julgamento dos embargos de declaração opostos contra o acórdão que julgou o HC n. 990.09.142235-5, para que supra as omissões apontadas. (RHC 28.280/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/11/2012, DJe 03/12/2012)
+PROCESSUAL PENAL. RECURSO ESPECIAL. DENÚNCIA. PROVAS. OPERAÇÃO ESFINGE. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA ANULADA PELO TRIBUNAL REGIONAL. EMBARGOS DE DECLARAÇÃO. QUESTÕES RELEVANTES SURGIDAS COM A PROLAÇÃO DO ACÓRDÃO RECORRIDO. OMISSÃO NÃO SANADA. VIOLAÇÃO DO ART. 619 DO CPP CONFIGURADA. JULGADO DE CUNHO GENÉRICO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal.
+2. Conquanto não esteja o magistrado obrigado a enfrentar todos os questionamentos das partes, havendo obscuridade e contradição sobre questão relevante para o deslinde da controvérsia, deve esta ser resolvida e aclarada em sede de embargos de declaração, sob pena de nulidade do julgado.
+3. Recurso especial parcialmente conhecido e, nessa extensão, provido, a fim de determinar o retorno dos autos ao Tribunal de origem para o saneamento dos vícios apontados no recurso integrativo. (REsp 1651656/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/04/2017, DJe 26/04/2017)
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que, em novo julgamento dos embargos de declaração, seja suprida a omissão destacada acima.
+Publique-se. Intimem-se.
