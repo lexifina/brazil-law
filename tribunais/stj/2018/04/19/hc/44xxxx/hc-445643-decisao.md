@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME] apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 0003510-59.2016.8.26.0099).
+Narram os autos que o Juízo da 2ª Vara Criminal da comarca de Bragança Paulista/SP condenou o paciente às penas de 1 ano e 8 meses de reclusão, em regime inicial fechado, e 166 dias-multa, pela prática do crime descrito no art. 33, § 4º, da Lei n. 11.343/2006.
+Interposta apelação pela defesa, a Primeira Câmara de Direito Criminal deu parcial provimento ao recurso para fixar o regime inicial aberto e substituir a pena privativa de liberdade por duas penas restritivas de direitos consistentes, ambas, em prestação de serviços à comunidade.
+Opostos embargos de declaração, estes foram parcialmente acolhidos para suprir omissão no tocante à fundamentação da escolha das restritivas de direito aplicadas, sem alteração das sanções (fls. 17/23).
+Agora, alega a Defensoria Pública, em suma, que o paciente fora condenado ao cumprimento de 01 (um) ano e 08 (oito) meses de reclusão pelo crime de tráfico de drogas, logo a substituição, de fato, deveria ocorrer por duas restritivas de direitos, de naturezas distintas, ou ainda por uma pena restritiva de direitos e multa (fl. 8).
+Aduz que a substituição da privativa de liberdade por duas restritivas de direitos de prestação de serviços comunitários certamente acarretará prejuízos à vida e ao trabalho remunerado do sentenciado, eis que diminuiria os seus vencimentos econômicos e resultaria no aumento de seu desgaste corporal, em função de ficar se deslocando reiteradamente até a unidade que receberá o serviço comunitário de sua parte (fl. 10).
+Requer, em liminar, seja suspenso o cumprimento das penas restritivas de direitos até o respectivo julgamento definitivo do writ e, no mérito, a concessão da ordem para que seja estabelecido a substituição da privativa de liberdade por restritivas de direitos de naturezas distintas, a teor do art. 44, § 2º, do Código Penal e art. 149, § 1º, da Lei n. 7.210/1984.
+É o relatório.
+No momento, não me deparo com o fumus boni iuris necessário para a concessão da medida de urgência requerida. Destacou o Tribunal Paulista que as penas aplicadas, embora idênticas, admitem execução simultânea, não havendo que se falar, portanto, em aplicação de pena única, em ofensa ao texto legal (fls. 19/20). Dispôs, ainda, que seria possível a aplicação de pena privativa de direito única, cumulada com multa, todavia, não corresponderia à gravidade concreta do fato penal apurado, que envolveu tráfico de entorpecentes causadores de intensa dependência química, quais sejam, crack e cocaína (fl. 21).
+Além disso, o exame da matéria demanda um exame mais aprofundado dos autos, o que é inviável neste juízo de cognição preliminar.
+Indefiro, portanto, o pedido liminar.
+Solicitem-se, por malote digital, no prazo de 20 dias, informações ao Juízo da 2ª Vara Criminal da comarca de Bragança Paulista/SP acerca da atual situação do paciente e do alegado na inicial.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se.
