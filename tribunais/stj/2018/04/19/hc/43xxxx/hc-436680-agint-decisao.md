@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado contra decisão da minha lavra que indeferiu pedido liminar no presente writ, o qual objetiva o afastamento do acórdão que negou progressão de regime com fundamento na gravidade abstrata dos crimes cometidos pela paciente e na longa pena a cumprir. (e-STJ fls. 5/23).
+Veja-se o decisum exarado:
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VARUNA SANTOS DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Infere-se dos autos que o Juízo da Vara de Execuções Criminais concedeu à paciente a progressão para o regime semiaberto.
+Interposto agravo em execução pelo Ministério Público, o Tribunal de origem deu provimento ao recurso, adotando a seguinte fundamentação (e-STJ fls. 7/12):
+É bem verdade que, para fins de progressão de regime prisional, a teor do artigo 112 da Lei de Execução Penal, com a nova redação dada pela Lei nº 10.792, de 1o de dezembro de 2003, não é mais exigido o exame criminológico, nem tampouco o parecer da Comissão Técnica de Classificação, o que não quer dizer que esteja o Magistrado impedido de determinar a realização de exame por profissionais da área da psiquiatria, em especial, ou de outra, desde que entenda necessárias tais providências. Daí porque nem mesmo se pode afirmar ser inconstitucional o dispositivo da nova lei que alterou a redação do artigo 112 e seu parágrafo único da Lei de Execução Penal.
+(..)
+No caso vertente, verifica-se que a sentenciada foi condenada à pena de quatorze (14) anos, nove (09) meses e vinte e seis (26) dias de reclusão, em regime fechado, pela prática do crime de associação criminosa e extorsão mediante sequestro qualificada, este último crime hediondo a demandar indagações e respostas adequadas para a verificação sobre se a reeducanda reúne, efetivamente, condições do ponto-de-vista subjetivo para a progressão de regime. O término do cumprimento da reprimenda deverá ocorrer apenas em 23 de outubro de 2024, se nada de anormal ocorrer até lá, destacando-se que o tipo de crime e o "quantum" da reprimenda corporal servem também, "data venia", para demonstrar a periculosidade da reeducanda.
+Assim, em razão destas informações, a nobre Magistrada sentenciante, sabiamente, optou por determinar a realização de avaliação, concluindo os "experts" que a sentenciada "cumpre pena pelos gravíssimos delitos de extorsão mediante sequestro e associação criminosa armada. As vítimas foram levadas para dois cativeiros distintos, sendo patente a periculosidade e desrespeito ao próximo" (fls. 25). E, ainda, que "seu processo resulta prejudicado em razão da refutação da imputação. Refuta por completo qualquer tipo de participação na ação" (fls. 29).
+Por outro lado, conquanto tenham os "experts", no relatório conjunto de avaliação, apontado alguns pontos favoráveis à referida benesse, a qual, aliás, lhe foi concedida, o Juiz não está adstrito aos resultados dos referidos laudos, "podendo aceitá-los ou rejeitá-los, no todo ou em parte", nos termos do que dispõe o artigo 182 do Código de Processo Penal. Como se sabe o Juiz é o "perito peritorum".
+Assim, em que pese estar atendido o requisito de caráter objetivo, de ordem temporal, ausente, porém, o subjetivo, que é caracterizado por elementos de ordem social e comportamental capazes de demonstrar ser o agravante merecedor do benefício pleiteado.
+Aliás, não se pode olvidar que está em discussão a reintegração à sociedade de pessoa que cometeu delitos graves, com longa pena a cumprir fazendo-se mister que o Estado-Juiz tenha elementos seguros para deferir a benesse.
+De se observar, mais uma vez, que o término da pena está previsto para o distante dia 23 de outubro de 2024.
+Ora, mostra-se evidente a ausência do preenchimento do requisito subjetivo para a concessão do pedido.
+Observa-se, a propósito, que a sentenciada foi condenada por extorsão mediante sequestro qualificado, crime hediondo.
+Portanto, ela não possui, ao menos por ora, as condições subjetivas para a almejada progressão.
+Oportuno salientar que em sede de execução de pena vigora o princípio "in dúbio pro societate", ou seja, se há dúvida, decide-se contra o sentenciado e a favor da sociedade.
+Ante o exposto, dá-se provimento ao agravo para cassar a r. sentença e determinar o retorno da reeducanda ao regime fechado, onde deverá permanecer, oficiando-se, com urgência, inclusive via "fac-símile".
+Na presente impetração, sustenta a defesa que a paciente está sofrendo constrangimento ilegal, tendo em vista decisão do Tribunal de Justiça que determinou o retorno da paciente ao regime fechado.
+Aduz que, desde 29 de junho de 2017, a paciente cumpre pena no regime semiaberto para o qual progrediu por seu próprio mérito.
+Alega que não houve motivação suficientemente idônea para a cassação da decisão que concedeu o benefício de progressão, tendo o acórdão impugnado pautado tão somente na gravidade abstrata dos crimes cometidos pela paciente e na sua longa pena a cumprir.
+Diante disso, requer, liminarmente e no mérito, a concessão da ordem, a fim de que seja restabelecida a decisão do Juízo a quo que deferiu a progressão ao regime semiaberto à paciente.
+É o relatório. Decido.
+A liminar em habeas corpus não possui previsão legal, tratando-se de criação jurisprudencial para os casos de manifesta ilegalidade que se revele de pronto na impetração.
+No caso dos autos, não obstante os argumentos apresentados, mostra-se imprescindível um exame mais aprofundado dos elementos de convicção carreados aos autos.
+Ademais, a medida antecipatória postulada confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, por ocasião do julgamento definitivo do habeas corpus.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo da Vara de Execuções Criminais.
+Após, dê-se vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
+No presente pedido, sustenta que a pena imposta à paciente teve sua última reforma no acórdão da Revisão Criminal em 14 anos, 4 meses e 24 dias referente a crime constante na Lei n. 8.072/1990 e 1 ano e 6 meses referente a crime simples e ela cumpre sua pena de maneira ininterrupta desde 23 de dezembro de 2009.
+Alega que o único registro de falta disciplinar ocorreu há mais de cinco anos, em 6 de dezembro de 2012 e, considerando que o início da contagem de tempo é o dia da falta citada e as frações específicas para cada uma das penas da paciente (2/5 para o crime hediondo e 1/6 para o crime comum), preencheu o requisito objetivo para progressão para regime semiaberto em 8 de agosto de 2016.
+Insiste no afastamento da decisão coatora fundamentada na ausência de requisito subjetivo em virtude da gravidade do crime praticado.
+Diante disso, requer seja reconsiderada a decisão que indeferiu a liminar pleiteada, para que a paciente volte a cumprir sua pena em regime semiaberto, suspendendo-se o acórdão coator até o julgamento definitivo do writ. No mérito, seja concedida a ordem, proibindo de maneira definitiva que o paciente volte para o regime fechado.
+É o relatório. Decido.
+Merece acolhimento o pedido de reconsideração.
+Na hipótese, a Corte de origem determinou o retorno da paciente ao regime fechado, adotando a seguinte fundamentação (e-STJ fls. 9/12):
+(..)
+No caso vertente, verifica-se que a sentenciada foi condenada à pena de quatorze (14) anos, nove (09) meses e vinte e seis (26) dias de reclusão, em regime fechado, pela prática do crime de associação criminosa e extorsão mediante sequestro qualificada, este último crime hediondo a demandar indagações e respostas adequadas para a verificação sobre se a reeducanda reúne, efetivamente, condições do ponto-de-vista subjetivo para a progressão de regime. O término do cumprimento da reprimenda deverá ocorrer apenas em 23 de outubro de 2024, se nada de anormal ocorrer até lá, destacando-se que o tipo de crime e o "quantum" da reprimenda corporal servem também, "data venia", para demonstrar a periculosidade da reeducanda.
+Assim, em razão destas informações, a nobre Magistrada sentenciante, sabiamente, optou por determinar a realização de avaliação, concluindo os "experts" que a sentenciada "cumpre pena pelos gravíssimos delitos de extorsão mediante sequestro e associação criminosa armada. As vítimas foram levadas para dois cativeiros distintos, sendo patente a periculosidade e desrespeito ao próximo" (fls. 25). E, ainda, que "seu processo resulta prejudicado em razão da refutação da imputação. Refuta por completo qualquer tipo de participação na ação" (fls. 29).
+Por outro lado, conquanto tenham os "experts", no relatório conjunto de avaliação, apontado alguns pontos favoráveis à referida benesse, a qual, aliás, lhe foi concedida, o Juiz não está adstrito aos resultados dos referidos laudos, "podendo aceitá-los ou rejeitá-los, no todo ou em parte", nos termos do que dispõe o artigo 182 do Código de Processo Penal. Como se sabe o Juiz é o "perito peritorum".
+Assim, em que pese estar atendido o requisito de caráter objetivo, de ordem temporal, ausente, porém, o subjetivo, que é caracterizado por elementos de ordem social e comportamental capazes de demonstrar ser o agravante merecedor do benefício pleiteado.
+Aliás, não se pode olvidar que está em discussão a reintegração à sociedade de pessoa que cometeu delitos graves, com longa pena a cumprir fazendo-se mister que o Estado-Juiz tenha elementos seguros para deferir a benesse.
+De se observar, mais uma vez, que o término da pena está previsto para o distante dia 23 de outubro de 2024.
+Ora, mostra-se evidente a ausência do preenchimento do requisito subjetivo para a concessão do pedido.
+Observa-se, a propósito, que a sentenciada foi condenada por extorsão mediante sequestro qualificado, crime hediondo.
+Portanto, ela não possui, ao menos por ora, as condições subjetivas para a almejada progressão.
+Oportuno salientar que em sede de execução de pena vigora o princípio "in dúbio pro societate", ou seja, se há dúvida, decide-se contra o sentenciado e a favor da sociedade.
+Ante o exposto, dá-se provimento ao agravo para cassar a r. sentença e determinar o retorno da reeducanda ao regime fechado, onde deverá permanecer, oficiando-se, com urgência, inclusive via ""fac-símile".
+(..)
+Portanto, o retorno da paciente ao regime fechado foi determinado, tão somente, em virtude da gravidade abstrata do crime praticado e da longa pena a cumprir.
+Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime ou livramento condicional, de modo que a concessão de benefícios somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+Nesse sentido: AgRg no HC 305.298/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO - Desembargador Convocado do TJ/PE -, QUINTA TURMA, julgado em 05/03/2015, DJe 12/03/2015; HC 297.193/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 11/11/2014, DJe 28/11/2014; HC 310.232/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 24/03/2015, DJe 10/04/2015; AgRg no HC 304.495/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/02/2015, DJe 02/03/2015; HC 293.882/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 07/08/2014, DJe 21/08/2014.
+Ante o exposto, reconsidero a decisão exarada às e-STJ fls. 18/21, e, em consequência, defiro a liminar para restabelecer a progressão ao regime semiaberto ao paciente.
+Comunique-se, com urgência.
+Publique-se. Intimem-se.
+Abra-se vista ao Ministério Público Federal.
