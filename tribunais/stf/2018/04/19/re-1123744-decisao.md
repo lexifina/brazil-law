@@ -1,0 +1,9 @@
+DECISÃO:
+    Trata-se de recursos extraordinários interpostos por Distribuidora de Medicamentos Santa Cruz Ltda e Profarma Distribuidora de Produtos Farmaceuticos S/a contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+    “Compra e venda de insumos farmacêuticos -Pedido de abstenção de cobrança e repasse de tarifa de emissão de boleto às drogarias e farmácias,representadas pelo Sindicato autor nos autos - Contrato de adesão - Relação de cunho comercial,com amparo na legislação civil - Regras gerais dos contratos cíveis que também preveem interpretação favorável ao aderente - Cobrança e repasse da tarifa de emissão de boleto abusiva, infringindo função social e boa-fé dos contratos - Imposição da forma de pagamento pelas distribuidoras requeridas Sentença confirmada - O preço da mercadoria deve abranger todos os valores que o distribuidor entende como necessários para propiciar-lhe a relação de lucro perseguida em toda atividade empresarial, não se podendo permitir que o preço acabe sendo maquiado,com a inclusão de despesas para cobrança, que são de responsabilidade do credor, que para tanto contrata banco de sua confiança e sistema de recebimento por boletos. O valor que o distribuidor paga pelo serviço de boletos é de sua responsabilidade e não do comprador (varejista) da mercadoria, que deve pagar por ela o preço, sem acréscimos externos. - Recursos não providos”.
+    Os recursos estão prejudicados, tendo em vista que o Superior Tribunal de Justiça deu provimento aos recursos especiais simultaneamente interpostos (REsp 1.515.640, Rel. Min. Paulo de Tarso Sanseverino).
+    Diante do exposto, com base no art. 21, IX, do RI/STF, julgo prejudicados os recursos.
+    Publique-se.
+          Brasília, 19 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
