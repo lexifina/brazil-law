@@ -1,0 +1,21 @@
+EMENTA
+DIREITO BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CAPITALIZAÇÃO MENSAL DOS JUROS. AUSÊNCIA DE EXPRESSA PACTUAÇÃO CONTRATUAL ASSEVERADA PELAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE REVISÃO POR ESTA CORTE SUPERIOR. SÚMULAS 5 E 7/STJ. CARACTERIZAÇÃO DA MORA DO DEVEDOR. INCLUSÃO DO DEVEDOR EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. POSSIBILIDADE.
+1. Afirmada pelas instâncias ordinárias a falta de expressa pactuação da capitalização mensal dos juros, a revisão do julgado encontra óbice nas Súmulas 5 e 7/STJ.
+2. Impõe-se a caracterização da mora do devedor, em razão do provimento relativo a não limitação dos juros remuneratórios e à possibilidade de capitalização de juros anual.
+3. Caracterizada a mora do devedor, possível a inscrição do nome do devedor nos cadastros de inadimplência. (REsp n. 1.061.530, Segunda Seção, Rel. Min. Nancy Andrighi, julgado em 22/10/2008).
+4. Recurso a que se nega provimento.
+DECISÃO
+.
+1. Cuida-se de recurso especial interposto por [NOME], com fundamento no artigo 105, inciso III, alínea "a" da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+CERCEAMENTO DA DEFESA - Inocorrência - Matéria de a qual antecipado, de acordo corn o inciso I, do artigo 330 do Código Civil - Ao Magistrado é facultada formação do livre convencimento, conformidade as provas dos autos - Ademais, cabe ao Julgador indeferir as provas que entender inúteis ou meramente protelatórias - Preliminar repelida.
+MONITÓRIA - CONTRATO ABERTURA DE: CRÉDITO EM CONTA-CORRENTE - Obrigações recíprocas firmadas, em atenção ao princípio autonomia vontade Inaplicabilidade da Lei nº 8.078/90 ao caso concreto, por não se tratar da relação de consumo - A limitação dos juros prevista tio parágrafo 192 Carta Magna não é autoaplicável - Ademais, tal dispositivo foi revogado nº 40/03 - Incidência da Súmula nº 596 do Supremo Tribunal Federal, como da Súmula Vinculante nº 07 - Inocorrência da capitalização dos juros, em virtude do refinanciamento da dívida Condenação ao pagamento das verbas sucumbenciais Cabimento O fato de ser a parte beneficiária da justiça gratuita somente suspende a exigibilidade das referidas verbas, enquanto perdurar a situação de pobreza - Decisão mantida - Recurso improvido
+Opostos embargos de declaração (fls. 401/406), os mesmos não foram conhecidos.
+Nas razões do recurso especial (fls. 435/451), o recorrente se insurge contra a cobrança da capitalização de juros pactuada, contra a cobrança da mora e o cadastro de seu nome nos Órgãos de Proteção ao Crédito.
+É o relatório.
+Decido.
+2. A capitalização mensal dos juros nos contratos bancários em periodicidade inferior a 1 (um) ano é admitida naqueles firmados após 31/03/2000, data da primeira edição da Medida Provisória n. 2.170-36/2001, então sob o n. 1963-17, desde que expressamente pactuada.
+No entanto, conforme se extrai do acórdão recorrido, a capitalização de juros não está expressamente pactuada, por conseguinte, não pode ser cobrada pela instituição financeira. Assim sendo, a inversão de tal julgado demandaria a análise dos termos do contrato, vedada nesta esfera recursal extraordinária, em virtude do óbice contido nos Enunciados 5 e 7 da Súmula do Superior Tribunal de Justiça.
+3. Embora o simples ajuizamento de ação revisional não implique o afastamento da mora (RESP 607.961/RJ, Segunda Seção, Rel. Min. Nancy Andrighi, julgado de 09.03.2005), o abuso na exigência dos "encargos da normalidade", quais sejam os juros remuneratórios e a capitalização de juros, descaracterizam a mora do devedor (ERESP 163.884/RS, Segunda Seção, Rel. Min. Barros Monteiro, Rel. p/ Acórdão Min. Ruy Rosado de Aguiar, julgado em 23.05.2001; Resp n. 1.061.530, Segunda Seção, Rel. Min. Nancy Andrighi, julgado em 22.10.2008).
+No caso ora em análise, impõe-se a caracterização da mora do devedor, uma vez que o Tribunal de origem permitiu a cobrança dos juros remuneratórios contratados e esta Corte autorizou a cobrança da capitalização mensal dos juros e da tarifa de abertura de crédito. Todos, encargos da normalidade.
+Desse modo, caracterizada a mora do devedor, possível a inscrição de seu nome nos cadastros de inadimplência. (REsp n. 1.061.530, Segunda Seção, Rel. Min. Nancy Andrighi, julgado em 22/10/2008).
+4. Diante do exposto, nego provimento ao recurso.
