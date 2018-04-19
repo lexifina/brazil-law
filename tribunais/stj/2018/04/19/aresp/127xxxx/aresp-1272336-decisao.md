@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. OFENSA AOS ARTS. 302 DO CPC/1973 E 36 DA LEI 12.529/2011. FALTA DE PREQUESTIONAMENTO. SENTENÇA. REPUBLICAÇÃO. TERMO INICIAL. ÚLTIMA PUBLICAÇÃO. APELAÇÃO. INTEMPESTIVIDADE. AFASTAMENTO. NECESSIDADE. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+DECISÃO
+Hipermercado Megafrutt Ltda. interpôs recurso especial, com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça de Goiás, assim ementado (e-STJ, fl. 405):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. SENTENÇA. DUPLICIDADE DE INTIMAÇÕES VIA DIÁRIO DA JUSTIÇA. SEGUNDA PUBLICAÇÃO DESTINADA À PARTE RÉ. CONTAGEM DO PRAZO RECURSAL DO AUTOR A PARTIR DA PRIMEIRA INTIMAÇÃO. APELO. INTEMPESTIVIDADE. 1. Havendo duplicidade de publicações da sentença via Diário da Justiça Eletrônico, sendo a segunda levada a efeito apenas para regularizar a intimação da parte ré, o prazo recursal da parte autora inicia-se a partir da primeira intimação válida. 2. Reputa-se intempestivo o apelo manejado fora do prazo legal. 3. Recurso conhecido e desprovido.
+Nas razões do recurso, alegou o recorrente violação do art. 1º, § 3º, do Decreto-Lei n. 4.567/1942, além de dissídio jurisprudencial.
+Afirmou, para tanto, que a primeira publicação da sentença não observou os requisitos dos arts. 236 e 237 do CPC/1973, devendo ser considerada nula, bem como que a republicação de sentença, para corrigir irregularidade na publicação anterior, renova o prazo recursal.
+Acentuou que, apesar de as disposições insertas na Lei de Introdução às Normas do Direito Brasileiro se referirem à publicação de lei, "cabe analogia à publicação de sentenças, uma vez que estas são, em análise profunda, a longa manus do Estado agindo como legislador em casos restritos" (e-STJ, fl. 415), defendendo, com isso, a tempestividade da apelação interposta na origem.
+Aduziu, ainda, que houve ofensa aos arts. 302 do CPC/1973 e 36 da Lei 12.529/2011, tendo em vista a "discriminação da recorrente, por meio da fixação diferenciada de preços" e o não reconhecimento dos danos materiais e morais suportados pelo recorrente mesmo diante da prática, pela recorrida, de infração à ordem econômica (e-STJ, fl. 419).
+Requereu, ao final, seja reconhecida a tempestividade do recurso de apelação e determinado o seu julgamento, ou que seja reformado o acórdão atacado para admitir a existência de ofensa à Lei 12.529/2011.
+O apelo extremo não foi admitido pelo Tribunal de origem, o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta ao agravo.
+Brevemente relatado, decido.
+Observo, inicialmente, que, com exceção da matéria envolvendo a tempestividade do recurso de apelação, as demais teses apresentadas pelo ora recorrente não foram examinadas pelo Tribunal de origem, não podendo, agora, ser enfrentadas por esta Corte, à míngua de prequestionamento.
+Sobre a referida questão, extrai-se dos autos que a Corte local não conheceu do recurso de apelação ali interposto pelo ora agravante, diante da sua intempestividade, porquanto, mesmo tendo havido uma segunda publicação da sentença, o prazo recursal teria fluido a partir da primeira publicação válida para o recorrente. Eis os fundamentos do acórdão recorrido:
+No presente caso, observo que a intimação da sentença recorrida fora publicada no Diário da Justiça em 10.08.2015 (segunda-feira), conforme se verifica da certidão de fl. 280 e novamente em 12.08.2015 (quarta-feira), esta última para fins de intimação da parte contrária, através do advogado Dr. [NOME] ([OAB]), conforme certificado à fl. 279.
+Ora, a primeira intimação não fora válida tão somente em relação à parte ré/apelada, ora agravada, por não constar o nome de seu advogado, invalidade esta que não se comunica com a parte autora/apelante, cujo nome do causídico constou em ambas as intimações.
+ ..  o que importa para a contagem do prazo recursal a partir da primeira intimação, é a validade das intimações em relação à parte recorrente, e não a identidade de meios utilizados por ambas.
+ ..
+Deve o agravante observar que, no caso, não houve uma mera republicação (para fins de intimação) da sentença, com igual validade para ambas as partes. A primeira publicação é que se mostra válida para o agravante a segunda publicação, válida para o agravado.
+Pois bem. O agravante fora intimado da sentença, validamente e pela primeira vez, no dia 10.08.2015 (segunda-feira), iniciando-se o prazo recursal no primeiro dia útil seguinte, qual seja, dia 11.08.2015 (terça-feira), consoante dispõe o artigo 184, § 2º, do CPC/73.
+Se o recurso voluntário deve ser manejado no prazo de 15 (quinze) dias (CPC/73, art. 508) o termo ad quem para sua interposição, no presente caso, deu-se em 25.08.2015 (terça-feira).
+E Sendo o recurso de apelação cível (fis. 282/292) interposto somente em 26.08.2015 (quarta-feira), conforme chancela constante à fl. 282, afigura-se o mesmo claramente extemporâneo. (e-STJ, fls. 400-403).
+Ocorre que é pacífica a jurisprudência desta Corte de que, "ocorrendo a segunda publicação no curso do prazo, é razoável que a parte considere essa nova data para a contagem do prazo do seu recurso, ainda que a republicação tenha sido feita por defeito quanto à outra parte" (REsp 471.907/SP, Relator o Ministro Ruy Rosado de Aguiar, DJ de 7/4/2003).
+A propósito, ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. APELAÇÃO NÃO ADMITIDA. INTEMPESTIVIDADE. REPUBLICAÇÃO DA SENTENÇA. TERMO INICIAL. ÚLTIMA PUBLICAÇÃO. PRECEDENTES DO STJ. AGRAVO NÃO PROVIDO.
+1. O v. acórdão recorrido está em descompasso com a jurisprudência do Superior Tribunal de Justiça, que entende que a nova publicação da decisão, ainda que desnecessária ou realizada por equívoco, tem o condão de reabrir a contagem do prazo recursal.
+2. Agravo interno a que se nega provimento. (AgRg no REsp 1.191.217/PR, Rel. Ministro Raul Araújo, DJe de 29/11/2016).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. TEMPESTIVIDADE. RENOVAÇÃO DO PRAZO RECURSAL. REPUBLICAÇÃO DA DECISÃO RECORRIDA. MULTA COMINATÓRIA. REVISÃO. POSSIBILIDADE. COISA JULGADA. PRECLUSÃO. NÃO OCORRÊNCIA. VALOR DA MULTA. REDUÇÃO. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. SÚMULA Nº 7/STJ.
+1.  ..
+2. A republicação de decisão judicial, ainda que por equívoco, renova o prazo recursal. Precedentes.
+3. Segundo a jurisprudência desta Corte, o artigo 461 do Código de Processo Civil de 1973 permite que o magistrado, de ofício ou a requerimento da parte, afaste ou altere o valor da multa quando este se tornar insuficiente ou excessivo, mesmo depois de transitada em julgado a sentença, não havendo espaço para falar em preclusão ou em ofensa à coisa julgada.
+4. Concluindo a Corte de origem que o valor da multa fixado não era adequado, o reexame da questão encontra o óbice na Súmula nº 7/STJ. 5. Agravo regimental não provido. (AgRg nos EDcl no AREsp 652.525/SP, Rel. Ministro Ricardo Villas Bôas Cueva, DJe de 8/8/2016)
+RECURSO ESPECIAL. ACÓRDÃO. INTIMAÇÃO. REPUBLICAÇÃO. INÍCIO DO PRAZO. SÚMULA 83/STJ.
+1. A jurisprudência do STJ é no sentido de que o prazo para interposição de recurso recomeça a fluir a partir da republicação do decisum. Incidência da Súmula 83/STJ.
+2.  ..
+Agravo regimental improvido. (AgRg no REsp 1.441.288/PE, Rel. Ministro Humberto Martins, DJe de 13/10/2014)
+Assim, a conclusão do acórdão recorrido de que a republicação da sentença para suprir irregularidade em relação à parte contrária não se comunicaria ao recorrente está em desconformidade com a jurisprudência desta Corte, merecendo, portanto, reforma.
+Logo, tendo sido republicada a sentença, em 12/8/2015, tal como reconhecido pelo acórdão recorrido, ainda que para fins de intimação da parte ora recorrida, mostra-se tempestivo o recurso de apelação interposto em 26/8/2015, porquanto dentro do prazo de 15 (quinze) dias previsto no art. 508 do CPC/1973, vigente à época da interposição do apelo.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, dar-lhe provimento a fim de afastar a intempestividade do recurso de apelação e determinar que o Tribunal de Justiça de Goiás prossiga no seu julgamento.
+Publique-se.
