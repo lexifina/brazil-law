@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. LOCAÇÃO DE EQUIPAMENTOS. EMISSÃO DE DUPLICATAS. ILEGALIDADE DOS TÍTULOS. INCIDÊNCIA DA SÚMULA 83/STJ. ESBULHO POSSESSÓRIO. CABIMENTO DE INDENIZAÇÃO. FALTA DE PREQUESTIONAMENTO. REDUÇÃO DO VALOR ARBITRADO A TÍTULO DE DANOS MORAIS. FUNDAMENTAÇÃO DEFICIENTE. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+DECISÃO
+Mecan Indústria e Locação de Equipamentos para Construção S.A. interpôs recurso especial, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 271):
+AÇÃO DE INEXIGIBILIDADE DE DÉBITO, CANCELAMENTO DE ANOTAÇÃO EM ROL DE INADIMPLENTE E REPARATÓRIA DE DANOS MORAIS. SENTENÇA DE PROCEDÊNCIA. INCONFORMISMO DA RÉ. EMISSÃO DE DUPLICATAS EM RAZÃO DE LOCAÇÃO DE EQUIPAMENTOS. RECONHECIDA A ILEGALIDADE DOS TÍTULOS QUE DEVEM CORRESPONDER SEMPRE À COMPROVADA COMPRA E VENDA MERCANTIL OU PRESTAÇÃO DE SERVIÇOS. AFRONTA AOS ARTS. 1º, 2º E 20 DA LEI 5.474/68. PRECEDENTES. SENTENÇA MANTIDA POR FUNDAMENTO DIVERSO. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso, alegou a recorrente violação do art. 373, I e II, do CPC/2015, aduzindo, para tanto, que se "desincumbiu do ônus que lhe cabia, qual seja, comprovar a celebração do negócio jurídico e a consequente mora da empresa recorrida, tendo em vista a correta realização da entrega dos equipamentos e a ausência do pagamento dos valores acordados" pela recorrida (e-STJ, fl. 299).
+Acentuou que "o contrato de locação, as notas fiscais de saída de equipamentos e diversos documentos assinados por ambas as partes foram devidamente apresentados demonstrando o fato modificativo do direito exigido pelo autor, ora recorrido, qual seja, a celebração do negócio jurídico e ausência do cumprimento das obrigações pactuadas entre a recorrente e a recorrida" (e-STJ, fl. 300).
+Acrescentou que "até o momento o recorrido vem mantendo-se na posse injusta dos bens de propriedade da recorrente", e, por isso, está evidenciado o esbulho possessório, sendo cabível em seu favor o pagamento de indenização, consoante previsto no art. 1.210, § 1º, do Código Civil.
+Aduziu, ainda, caso seja mantido o dever de indenizar, que o valor fixado a esse título se mostra excessivo.
+O apelo extremo não foi admitido pelo Tribunal de origem, o que ensejou a interposição do presente agravo.
+Não foi apresentada contraminuta ao agravo.
+Brevemente relatado, decido.
+Extrai-se dos autos que Avaf Instalações Industriais e Comércio Eireli ajuizou ação contra Mecan Indústria e Locação de Equipamentos para Construção S.A., sob a alegação de que teria tentado realizar operação de crédito junto à instituição financeira e foi surpreendido com a inscrição de seu nome no SERASA, constando 23 (vinte e três) apontamentos em seu Pefin, de origem da empresa ré, os quais seriam irregulares, já que não recebeu os equipamentos descritos nas notas fiscais.
+A ação de cancelamento de protesto foi julgada procedente por serem inexigíveis as duplicatas emitidas em decorrência da apontada inadimplência de contrato de locação de bens móveis, codnendando a ré ao pagamento de indenização por danos morais no valor de R$ 5.000,00 (cinco mil reais).
+Em apelação, o Tribunal de origem manteve a sentença de primeiro grau, contudo, sob fundamento diverso. Consignou, para tanto, o seguinte (e-STJ, fls. 272-273 e 274):
+Está satisfatoriamente demonstrada a nulidade dos títulos em questão.
+Ocorre que a duplicata, por ser título causal, só pode ser emitida diante das hipóteses previstas em legislação específica, quais sejam: ou para lastrear compra e venda de mercadorias ou a efetiva prestação de serviços, conforme se extrai da Lei 5.474/68.
+Com efeito, ainda que se perceba imprecisão no pedido e em sua fundamentação, é regra, ainda cogente no direito pátrio, o princípio jurídico "Da mihi factum dabo tibi jus" (Dá-me o fato que te darei o direito).
+Assim, reconhece-se que as duplicatas em questão foram todas emitidas indevidamente, já que embasadas em locação de equipamentos, e, como tal, devem ser declaradas inexigíveis.
+De fato, embora por fundamento distinto, entende-se que o inadimplemento de contrato de locação de bens móveis, não pode gerar a emissão de duplicata, por não atender aos requisitos legais acima mencionados.
+ ..
+Dessa forma, eram mesmo inexigíveis as duplicatas de fls. 30, posto que, conforme já destacado, decorrem de negócio jurídico que não se confunde com o contrato de prestação de serviço ou compra e venda mercantil, como definem os artigos 1º, 2º e 20 da Lei n.º 5.474/68.
+O entendimento apresentado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte, segundo a qual "não se admite a emissão de duplicata mercantil com base em contrato de locação de bens móveis, uma vez que a relação jurídica que antecede à sua formação não se enquadra nas hipóteses legais de compra e venda mercantil ou de prestação de serviços" (REsp 397.637/RS, Relatora a Ministra Nancy Andrighi, DJ de 23/6/2003).
+A propósito, ainda:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA. MÉRITO DO ESPECIAL. POSSIBILIDADE. LOCAÇÃO DE BENS MÓVEIS. EMISSÃO DE DUPLICATAS. NULIDADE. TÍTULO CAUSAL. ART. 175 DO CC. INAPLICABILIDADE À ESPÉCIE.
+1. O art. 544, § 3º, do Código de Processo Civil, combinado com os arts. 34, inciso VII, e 254, inciso I, do Regimento Interno desta Corte autoriza o relator a se manifestar quanto ao mérito do recurso especial em sede de juízo monocrático, mesmo em agravo de instrumento. Precedentes.
+2. A duplicata é titulo de crédito causal, somente podendo ser emitida validamente em decorrência de compra e venda mercantil ou de prestação de serviços.
+3. O art. 175 do Código Civil não se aplica à hipótese, vez que não se busca a declaração de nulidade do negócio jurídico firmado pelas partes.
+4. Agravo regimental não provido. (AgRg no Ag 660.274/MG, Relator o Ministro Fernando Gonçalves, DJ de 1º/7/2005)
+Incide, no caso, portanto, a Súmula 83/STJ.
+No tocante ao cabimento de pagamento de indenização diante da comprovação do esbulho possessório, observo que o acórdão atacado não tratou da matéria, apenas ressaltou-se que "a inexigibilidade do título não implica no reconhecimento da inexistência do débito, o qual poderá ser examinado quanto a sua pertinência e cobrado em ação própria eventualmente intentada pela credora" (e-STJ, fl. 274), o que, de resto, indica que não pode ser analisada à míngua do necessário prequestionamento.
+Some-se a isso o fato de a sentença ter reconhecido que os equipamentos não foram entregues, circunstância esta não infirmada pelo acórdão recorrido.
+Por fim, o pleito de redução do valor fixado a título de indenização em favor da ora recorrida atrai a aplicação, por analogia, da Súmula 284/STF, porquanto desacompanhado da necessária indicação do dispositivo de lei federal que teria sido contrariado ou objeto de interpretação divergente, o que configura deficiência recursal, por não permitir a exata compreensão da controvérsia, impedindo, com isso, o exame da matéria.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
