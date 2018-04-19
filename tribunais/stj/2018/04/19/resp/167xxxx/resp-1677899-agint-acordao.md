@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE ASSISTÊNCIA ODONTOLÓGICA. PRECEDENTES.
+1. O art. 28, § 9º, "q", da Lei n. 8.212/1991 estabelece que não integra o salário de contribuição "o valor relativo à assistência prestada por serviço médico ou odontológico, próprio da empresa ou por ela conveniado, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, despesas médico-hospitalares e outras similares, desde que a cobertura abranja a totalidade dos empregados e dirigentes da empresa" (REsp 1.430.043/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/3/2014).
+2. Não sendo caso de cobertura médico-odontológica que abranja a totalidade dos empregados e dirigentes da empresa, não há como se afastar a incidência da exação.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado pela Companhia Ultragáz S.A. contra decisão que deu provimento ao recurso especial da Fazenda Nacional, declarando a incidência de contribuição sobre as verbas pagas a título de assistência odontológica.
+Assevera a empresa que "o pagamento efetuado do plano odontológico pela agravante deve ser considerado isento da contribuição social, pois ainda manteve a natureza jurídica, não podendo ser considerado como salário" (e-STJ, fl. 565).
+Requer, portanto, a reforma da decisão recorrida, para que se afaste a exigibilidade da contribuição previdenciária sobre o auxílio odontológico.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Como consignado anteriormente, no que diz respeito à incidência da exação sobre a assistência odontológica, esta Corte já concluiu que não integra o salário de contribuição o valor relativo à assistência prestada por serviço médico ou odontológico, próprio da empresa ou por ela conveniado, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, despesas médico-hospitalares e outras similares, desde que a cobertura abranja a totalidade dos empregados e dirigentes da empresa.
+No ponto:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA (REGIME GERAL DA PREVIDÊNCIA SOCIAL). CUSTEAMENTO DE DESPESA DO EMPREGADO COM MEDICAMENTO. NÃO INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. AUSÊNCIA DE AMPLIAÇÃO OU VIOLAÇÃO DA NORMA ISENTIVA.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. O art. 28, § 9º, "q", da Lei 8.212/91 estabelece que não integra o salário de contribuição o valor relativo à assistência prestada por serviço médico ou odontológico, próprio da empresa ou por ela conveniado, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, despesas médico-hospitalares e outras similares, desde que a cobertura abranja a totalidade dos empregados e dirigentes da empresa. No caso concreto, a empregadora (ora recorrida), ao invés de efetuar o desembolso das despesas com medicamentos, via folha de pagamento, impõe ao empregado a aquisição do medicamento e efetua (o empregador) o pagamento de forma direta ao estabelecimento farmacêutico. Nesse contexto, não há falar em ampliação ou violação da norma isentiva, pois, como bem observado pelo Tribunal de origem, "embora não conste na folha de pagamento, trata-se em verdade de forma de reembolso dos valores despendidos pelos empregados com medicamentos", sendo que tal sistema "apenas evita etapas do moroso procedimento interno de reembolso via folha de pagamento, que, com certeza, seria mais prejudicial ao empregado".
+3. Recurso especial não provido.
+(REsp 1.430.043/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/2/2014, DJe 11/3/2014)
+Assim, a despeito da insurgência de empresa recorrente, não sendo caso de cobertura médico-odontológica que abranja a totalidade dos empregados e dirigentes da empresa, o acórdão do Tribunal de origem está em dissonância da jurisprudência desta Corte Superior. Logo, não há como se afastar a incidência da exação e, em consequência, o provimento do recurso especial fazendário.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
