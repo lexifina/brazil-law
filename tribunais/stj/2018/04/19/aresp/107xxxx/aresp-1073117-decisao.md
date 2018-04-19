@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III, "a", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, o acórdão recorrido concluiu que "o salário-de-benefício da parte autora não foi limitado ao teto máximo" (e-STJ fl. 132).
+Assim, a alteração dessa conclusão demandaria o reexame fático-probatório dos autos, inviável em sede de recurso especial.
+Nesse sentido:
+DIREITO PREVIDENCIÁRIO E CONSTITUCIONAL. REVISÃO DE BENEFÍCIO. APLICAÇÃO DOS NOVOS TETOS ESTABELECIDOS PELA EMENDA CONSTITUCIONAL 20/98 E PELA EMENDA CONSTITUCIONAL 41/2003. IMPOSSIBILIDADE DE ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 07 STJ. INADMISSIBILIDADE DO RECURSO.
+1. Cuida-se de Recurso Especial que, em suma, visa discutir o acórdão que entendeu que a parte autora, em seu benefício previdenciário, não sofreu limitação ao teto constitucional. O recurso demonstra, assim, nítida pretensão de revisar o exame probatório realizado pelas instâncias ordinárias.
+2. A alteração das conclusões adotadas pela Corte de origem, a fim de se verificar se o benefício previdenciário alcançou o teto legal quando da entrada em vigor das ECs 20/98 e 41/03, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ. (AgRg no AREsp 554.901/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 27/8/2015)
+3. Recurso Especial não conhecido.
+(REsp 1655012/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 18/04/2017)
+Registro, ainda, que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+A teor do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita, exceto em ações acidentárias, nos termos do art. 129, parágrafo único, da Lei n. 8.213/1991.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Majoro os honorários recursais em 10% (dez por cento) sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC de 2015. Suspensa a exigibilidade por se tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
