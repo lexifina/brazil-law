@@ -1,0 +1,14 @@
+DECISÃO
+PAULO [NOME] alega sofrer coação ilegal em seu direito de locomoção, em decorrência de omissão do Juiz de Direito da 2ª Vara Criminal da Comarca de Santa Luzia em julgar a Ação Penal n. 0022717-42.2018.8.13.0000.
+Consta da impetração que
+ ..  verifica-se que em razão do processo de n. 0245.17.011.162-0 o paciente foi preso preventivamente no dia 24 de julho de 2017 e responde a uma denúncia oferecida pelo Ministério Público Estadual no dia 04 de agosto de 2017.
+Como a defesa cumpriu rigorosamente os prazos processuais a audiência de instrução e julgamento foi realizada nos dias 07 e 08 de novembro de 2017, sendo certo que o Ministério Público apresentou suas alegações finais no dia 13 e a defesa apresentou as suas derradeiras razões no dia 20 daquele mês.
+Ocorre que, o processo foi concluso para sentença no dia 21 de novembro de 2017 e até a presente data não se tem a menor ideia de quando a sentença será proferida (vide movimentação processual em anexo extraída do site do TJMG).
+Alega, ainda, que "em janeiro do presente ano o subscritor impetrou ordem de habeas corpus perante o Tribunal de Justiça do Estado de Minas Gerais em razão da demora processual, porém, até a presente data o tribunal mineiro não julgou o habeas corpus do paciente".
+A defesa pede "que conceda o presente habeas corpus em caráter liminar, para que o paciente seja colocado imediatamente em liberdade, diante da manifesta demora dos integrantes do Poder Judiciário em exercício no Estado de Minas Gerais". No mérito, pede a confirmação da liminar.
+Decido.
+Ao analisar os autos, verifico que a inicial do writ não veio acompanhada da cópia de nenhum documento, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal. Em verdade, pelo conteúdo da impetração, é impossível saber qual o objeto da ação penal, sua complexidade, qual a motivação para eventual indeferimento de pedido liminar pelo Desembargador relator do writ originário, a fundamentação da prisão preventiva, etc.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013; HC n. 270.963/GO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 13/9/2013; HC n. 206.139/ES, Rel. Ministro Og Fernandes, 6ª T., DJe 30/8/2013.
+À vista do exposto, constatada a ausência de peça essencial para a análise do pleito de urgência, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
