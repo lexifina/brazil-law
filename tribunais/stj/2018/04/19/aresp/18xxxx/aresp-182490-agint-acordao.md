@@ -1,0 +1,101 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. CUMPRIMENTO DE SENTENÇA. DEPÓSITOS PARCIAIS. APURAÇÃO DO SALDO REMANESCENTE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2. "Na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada" (REsp 1348640/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, julgado em 07/05/2014, DJe 21/05/2014).
+3. O conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelo art. 541, parágrafo único, do CPC/1973.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno (e-STJ fls. 213/221), interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante alega que "a decisão agravada possui entendimento dissonante com o deste Superior Tribunal", firmado no recurso especial repetitivo n. 1.348.640/RS, no qual a Corte Especial decidiu que, "na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação, nos limites da quantia depositada" (e-STJ fl. 216).
+A seu ver, "não há o que se falar em saldo remanescente, uma vez que a Entidade efetuou o adimplemento da obrigação, realizando o depósito com as devidas atualizações e correções, inexistindo, portanto, saldo remanescente a ser depositado" (e-STJ fl. 216).
+Segundo afirma, o requisito do prequestionamento foi atendido, pois "o debate da matéria é inequívoco ao longo do decisum atacado pelo recurso especial: observância de idênticos critérios de atualização tanto para o valor total da dívida, quanto para os valores já pagos/amortizados, como forma de apuração do efetivo saldo remanescente devido aos agravados" (e-STJ fl. 218).
+Ao final, pede a reconsideração da decisão monocrática, ou a apreciação do agravo pelo Colegiado.
+O agravado não apresentou contrarrazões (e-STJ fl. 224).
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. CUMPRIMENTO DE SENTENÇA. DEPÓSITOS PARCIAIS. APURAÇÃO DO SALDO REMANESCENTE. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2. "Na fase de execução, o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada" (REsp 1348640/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, CORTE ESPECIAL, julgado em 07/05/2014, DJe 21/05/2014).
+3. O conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelo art. 541, parágrafo único, do CPC/1973.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: A insurgência não merece acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 205/209):
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544) contra decisão que inadmitiu o recurso especial, sob o fundamento de aplicação das Súmulas n. 282 e 283 do STF e 211 do STJ (e-STJ fls. 173/176).
+O acórdão recorrido está assim ementado (e-STJ fls. 112/113):
+AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. DEPÓSITOS PARCIAIS. CRITÉRIOS PARA APURAÇÃO DE SALDO REMANESCENTE. PARÂMETROS FIXADOS NO TÍTULO EXECUTIVO. DEPÓSITO JUDICIAL VINCULADO A REMUNERAÇÃO E ATUALIZAÇÃO A QUE ESTÃO AFETAS AS INSTITUIÇÕES FINANCEIRAS.
+1. Em se tratando de cumprimento de sentença, é evidente que em não havendo o pagamento da dívida, esta será apurada de acordo com o estipulado no título executivo judicial.
+2. No caso em tela foram realizados depósitos parciais pela devedora, o que é admitido pelas partes, tornando-se fato incontroverso dos autos, a teor do que estabelece o artigo 333, inciso III, do Código de Processo Civil.
+3. Portanto, havendo mais de um depósito parcial, o saldo remanescente será apurado sempre mediante a dedução do valor dos respectivos depósitos nas datas em que foram realizados do cálculo elaborado em consonância com o título judicial. A partir daí, sobre o saldo apurado, incidirá novamente juros e correção monetária de acordo com o estipulado no título executivo judicial.
+4. Descabe a incidência de juros moratórios e correção monetária nos moldes estabelecidos no título executivo sobre depósito efetuado, uma vez que, realizado este, a atualização e juros incidentes sobre aquela quantia é feita de acordo com os parâmetros fixados pela instituição financeira, a teor do que estabelece o artigo 629 do Código Civil. Logo, por imposição legal, não tem como seguirem os consectários legais precitados da mesma forma de cálculo prevista na decisão executada quanto ao valor depositado em instituição financeira, exceto se a não liberação deste decorra de má fé do devedor, o que não é a hipótese dos autos.
+5. Assim, os autos deverão ser encaminhados à Contadoria Judicial, a fim de que seja apurado eventual saldo remanescente, observando-se os critérios definidos na presente decisão.
+6. Não merece prosperar o prequestionamento postulado pela parte recorrente objetivando a interposição de recurso à Superior Instância, visto que o julgador não está obrigado a se manifestar sobre todos os artigos de lei invocados pelas partes, bastando que aqueles referidos no corpo da decisão sejam suficientes para a resolução do caso submetido à apreciação.
+7. Os argumentos trazidos no recurso não se mostram razoáveis para reformar a decisão monocrática.
+Negado provimento ao agravo interno.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 128/135).
+Nas razões do recurso especial (e-STJ fls. 141/149), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou dissídio jurisprudencial e ofensa aos arts. 334 e 884 do CC/2002.
+Sustentou, em síntese, a necessidade de uso dos mesmos critérios de atualização (correção monetária pelo IGP-M e juros de 12% ao ano) para créditos e débitos, sob pena de se proporcionar o enriquecimento sem causa do agravado.
+Foram apresentadas contrarrazões (e-STJ fls.161/171).
+No agravo (e-STJ fls. 180/185), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+No que se refere à alegada ofensa aos arts. 334 e 884 do CC/2002, observa-se que os temas tratados nesses dispositivos legais não foram objeto do acórdão recorrido.
+A simples indicação dos dispositivos legais tidos por violados, sem que a matéria tenha sido enfrentada pela decisão recorrida, impede o conhecimento do recurso especial, por falta de prequestionamento. A insurgência encontra óbice na Súmula n. 211/STJ:
+Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Ademais, Corte de origem manteve, pelos fundamentos dela constantes, a decisão monocrática do relator que negou provimento ao agravo de instrumento, interposto pela recorrente contra a decisão que fixou os critérios para apuração do saldo remanescente da execução, nos seguintes termos (e-STJ fls. 115/117):
+No caso em exame, verifica-se que as partes divergem acerca dos critérios de atualização dos valores depositados e/ou sacados para aferição de eventual saldo devedor.
+Preambularmente, para a correta solução da controvérsia, deve ser observado o que restou definido no título executivo judicial no que concerne ao fator de atualização monetária a ser utilizado, bem como a taxa de juros incidente sobre o montante devido.
+Por outro lado, é evidente que em não havendo o pagamento da dívida em sede de cumprimento de sentença, está será apurada de acordo com o estipulado no título executivo judicial.
+Entretanto, no caso em tela, foram realizados depósitos parciais pela devedora, o que é admitido pelas partes, tornando-se fato incontroverso dos autos, a teor do que estabelece o artigo 333, inciso III, do Código de Processo Civil.
+Portanto, havendo mais de um depósito parcial, o saldo remanescente será apurado sempre mediante a dedução do valor dos respectivos depósitos nas datas em que foram realizados do cálculo elaborado em consonância com o título judicial. A partir daí, sobre o saldo apurado, incidirá novamente juros e correção monetária de acordo com o estipulado no título executivo judicial.
+Releva ponderar, ainda, que descabe a incidência de juros moratórios e correção monetária nos moldes estabelecidos no título executivo sobre depósito efetuado, uma vez que, realizado este, a atualização e juros incidentes sobre aquela quantia é feita de acordo com os parâmetros fixados pela instituição financeira, a teor do que estabelece o artigo 629 do Código Civil. Logo, por imposição legal, não tem como seguirem os consectários legais precitados da mesma forma de cálculo prevista na decisão executada quanto ao valor depositado em instituição financeira, exceto se a não liberação deste decorra de má fé do devedor, o que não é a hipótese dos autos.
+A esse respeito o Superior Tribunal de Justiça já se posicionou no mesmo sentido, tendo deixado assim assentado:
+AGRAVO REGIMENTAL. DEPÓSITO JUDICIAL. GARANTIA DA EXECUÇÃO. CORREÇÃO MONETÁRIA E JUROS. RESPONSABILIDADE DO BANCO DEPOSITÁRIO. FUNDAMENTO INATACADO. SÚMULA 283/STF. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+I. O entendimento desta Corte é no sentido de que, após realizado o depósito judicial, a responsabilidade pela correção monetária e juros é da instituição financeira onde o numerário foi depositado.
+Efetuado o depósito judicial no valor da execução, cessa a responsabilidade do devedor sobre os encargos da quantia depositada, eis que tal responsabilidade passa a ser do banco depositário.
+II. O fundamento relativo ao argumento utilizado pelo Tribunal de origem ao afirmar que a responsabilidade pelos juros e correção monetária sobre eventual diferença entre o valor depositado e a quantia efetivamente devida é do devedor até a data do integral pagamento da dívida - suficiente por si só -, para manter a conclusão do julgado, não foi atacado, de forma específica, nas razões do Recurso Especial, incidindo, à hipótese, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+III. O agravo não trouxe nenhum argumento novo capaz de modificar a conclusão alvitrada, a qual se mantém por seus próprios fundamentos.
+Agravo Regimental improvido. (AgRg no REsp 1244700/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/05/2011, DJe 27/05/2011).
+PROCESSUAL CIVIL E CIVIL. AGRAVO NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA E JUROS. RESPONSABILIDADE DO BANCO DEPOSITÁRIO.
+- Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+- O reexame de fatos e provas em recurso especial é inadmissível.
+- Esta Corte Superior de Justiça possui entendimento pacífico de que a responsabilidade pela correção monetária e pelos juros, após feito o depósito judicial, é da instituição financeira onde o numerário foi depositado (Súmulas 179 e 271 do STJ). Esse posicionamento se aplica ainda que se trate de penhora de dinheiro para a garantia da execução. Assim, procedido o depósito judicial no valor da execução, cessa a responsabilidade do devedor por tais encargos.
+- Agravo no agravo de instrumento não provido. (AgRg nos EDcl no Ag 1298725/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/10/2010, DJe 21/10/2010).
+No mesmo sentido são os julgados desta Corte trazidos a colação a seguir: (..)
+Observa-se, portanto, que o entendimento do Tribunal de origem não destoa da jurisprudência desta Corte Superior a respeito dos juros de mora e correção monetária incidentes sobre os valores objeto do depósito judicial. A propósito:
+AGRAVO REGIMENTAL INTERPOSTO SOB A ÉGIDE DO CPC/1973. AGRAVO EM RECURSO ESPECIAL. DEPÓSITO JUDICIAL. EXPURGOS INFLACIONÁRIOS. ART. 5º, II, DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO DE LEI FEDERAL. LEI N. 4.595/64. MEDIDA PROVISÓRIA N. 294/91. DEFICIÊNCIA NA FUNDAMENTAÇÃO. RESPONSABILIDADE DA INSTITUIÇÃO FINANCEIRA PELA CORREÇÃO. SÚMULA N. 179 DO STJ. PRESCRIÇÃO VINTENÁRIA. JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECADÊNCIA. ART. 26, II, DO CDC. ART. 28 DA LEI N. 9.868/99. FALTA DE PREQUESTIONAMENTO. DIREITO ADQUIRIDO, JUROS REMUNERATÓRIOS E CORREÇÃO MONETÁRIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. APLICAÇÃO DA CORREÇÃO MONETÁRIA QUANTO AO PLANO COLLOR I. LEI N. 7.730/89 E MP N. 168/90. SÚMULA N. 284 DO STF. ARTS. 1º, § 2º, DA LEI N. 6.899/81 E 460 DO CPC/73. SÚMULAS N. 282 E 356 DO STF.
+1. Refoge da competência do STJ a análise de suposta ofensa a artigo da Constituição Federal.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Realizado o depósito judicial, a correção monetária e os juros são de responsabilidade da instituição financeira onde o depósito foi efetuado. Incidência da Súmula n. 179 do STJ.
+4. É vintenária a prescrição da pretensão às diferenças de correção monetária em depósitos judiciais (expurgos inflacionários), a teor do art. 177 do CC de 1916. Incidência da Súmula n. 83 do STJ.
+5. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+6. Agravo regimental desprovido.
+(AgRg no AREsp 691.342/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 02/06/2016, DJe 07/06/2016.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO LIQUIDAÇÃO DE SENTENÇA. DEPÓSITO JUDICIAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. RESPONSABILIDADE. INSTITUIÇÃO FINANCEIRA DEPOSITÁRIA.
+1. Embargos de declaração recebidos como agravo regimental em face do nítido caráter infringente das razões recursais. Aplicação dos princípios da fungibilidade e da economia processual.
+2. Assim como no cumprimento de sentença, nos embargos à execução, uma vez realizado o depósito judicial para a garantia do juízo, a remuneração da quantia depositada passa a ser de responsabilidade de instituição financeira depositária.
+3. A Caixa Econômica Federal, na condição de instituição financeira depositária do valor discutido na ação, não figura como parte na demanda, mas mera auxiliar do Juízo.
+4. Agravo regimental a que se nega provimento.
+(EDcl no REsp 1113350/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/09/2013, DJe 08/10/2013.)
+Incide no caso, portanto, a Súmula n. 83/STJ.
+Por fim, o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+No caso, a recorrente apenas transcreveu trechos dos julgados supostamente divergentes, sem demonstrar a similitude fática e divergências decisórias. Ausente, portanto, o necessário cotejo analítico entre as teses adotadas.
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - DEFICIÊNCIA DE FUNDAMENTAÇÃO - SÚMULA 284/STF - AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL - DECISÃO AGRAVADA MANTIDA IMPROVIMENTO.
+(..)
+2.- Não houve demonstração de dissídio jurisprudencial, diante da falta do exigido cotejo analítico entre os julgados mencionados, bem como pela ausência de similitude fática, de maneira que inviável o inconformismo apontado pela alínea "c" do permissivo constitucional.
+(..)
+4.- Agravo Regimental improvido.
+(AgRg no AREsp n. 488.145/SC, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 24/4/2014, DJe 19/5/2014.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+Inicialmente, como afirmado na decisão impugnada, observa-se que a tese jurídica relativa ao enriquecimento sem causa do recorrido, tal como alegada nas razões do especial, não foi enfrentada pelo acórdão recorrido, faltando-lhe, portanto, o indispensável prequestionamento, a atrair o óbice da Súmula n. 211/STJ.
+Ademais, embora a agravante alegue que o acórdão recorrido teria dissentido da orientação firmada pela Corte Especial do STJ no julgamento do recurso especial repetitivo n. 1.348.640/RS - de que "o depósito judicial do montante (integral ou parcial) da condenação extingue a obrigação do devedor, nos limites da quantia depositada" -, da leitura dos termos do acórdão, constata-se, ao contrário, que o Tribunal de origem aplicou a referida orientação nos seus exatos termos, ao dispor que, "havendo mais de um depósito parcial, o saldo remanescente será apurado sempre mediante a dedução do valor dos respectivos depósitos nas datas em que foram realizados do cálculo elaborado em consonância com o título judicial", e que, "a partir daí, sobre o saldo apurado, incidirá novamente juros e correção monetária de acordo com o estipulado no título executivo judicial", sendo descabida "a incidência de juros moratórios e correção monetária nos moldes estabelecidos no título executivo sobre depósito efetuado, uma vez que, realizado este, a atualização e juros incidentes sobre aquela quantia é feita de acordo com os parâmetros fixados pela instituição financeira, a teor do que estabelece o artigo 629 do Código Civil" (e-STJ fl. 115).
+Por fim, o conhecimento do recurso especial, pela alínea "c" do permissivo constitucional, exige, além de indicação do dispositivo legal objeto de interpretação divergente, demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas, nos termos definidos pelo art. 541, parágrafo único, do CPC/1973.
+No caso concreto, a recorrente apenas transcreveu trechos dos julgados supostamente divergentes, sem demonstrar similitude fática e divergências decisórias. Ausente, portanto, o necessário cotejo analítico entre as teses adotadas.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
