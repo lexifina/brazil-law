@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PRESTAÇÃO DE CONTAS - AÇÃO MOVIDA CONTRA A SOCIEDADE -ILEGITIMIDADE RECONHECIDA - PRESCRIÇÃO QUINQUENAL E NÃO TRIENAL - É A PESSOA NATURAL DOS SÓCIOS QUEM DEVE PRESTAR AS CONTAS, NUNCA A SOCIEDADE - POSIÇÃO DO MAGNÍFICO SUPERIOR TRIBUNAL DE JUSTIÇA - DECISÃO REFORMADA - RECURSO PROVIDO." (e-STJ, fl. 274)
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 535, 914, caput, e 915, caput, do CPC/73 e divergência jurisprudencial, sustentando, em síntese, que: (a) o acórdão recorrido foi omisso; e (b) os sócios não detêm legitimidade para responder em ação de prestação de contas, de modo que é possível o ajuizamento da ação contra a própria sociedade.
+É o relatório. Decido.
+Em relação à alegada ofensa ao art. 535 do CPC/73, verifica-se que a parte recorrente fez apenas alegação genérica de sua vulneração, apresentando uma fundamentação deficiente que impede a exata compreensão da controvérsia. Incide, na hipótese, a Súmula 284/STF.
+Nesse sentido, salienta o Ministro SIDNEI BENETI que "a ausência de demonstração de como ocorreu a ofensa ao art. 535, do CPC é deficiência, com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial" (AgRg no Ag 1.162.073/MG, Terceira Turma, DJe de 12/5/2010).
+O Tribunal de origem concluiu que a ação de prestação de contas deve ser ajuizada contra os sócios, não sendo possível ajuizá-la em desfavor da pessoa jurídica.
+Nesse contexto, o acórdão recorrido alinhou-se ao entendimento desta Corte no sentido de que a sociedade empresária é parte ilegítima para figurar no polo passivo de ação de prestação de contas ajuizada por um dos sócios, que deve ser ajuizada contra sócio-gerente ou contra aquele que detenha a administração da sociedade. Confiram-se:
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E INÉPCIA DA PETIÇÃO INICIAL. NÃO CARACTERIZADAS. RECONHECIDA LEGITIMIDADE ATIVA DO SÓCIO PARA EXIGIR AS CONTAS DE QUEM ADMINISTRA A SOCIEDADE. ALEGAÇÃO DE IMPRECISÃO DOS ATOS SOBRE OS QUAIS REPOUSA O DEVER DE PRESTAR CONTAS. REEXAME DE FATOS. SÚMULA 07/STJ. ALEGAÇÃO DE OFENSA A DISPOSITIVO LEGAL QUE NÃO É DEMONSTRADA DE FORMA ANALÍTICA. INCIDÊNCIA, POR ANALOGIA DA SÚMULA 284/STF.
+1.- A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+2.- O sócio tem legitimidade ativa para requerer em nome próprio para exigir daquele que administra a sociedade a prestação das contas correspondentes. Precedentes.
+3.- D e acordo com a Jurisprudência desta Corte a inépcia da petição inicial pela imprecisão dos seus termos apenas deve ser declarada quando importar em prejuízo para a ampla defesa, o que não ocorreu no caso dos autos.
+4.- Se a petição inicial já indicou de modo suficientemente preciso quais são os atos supostamente irregulares, não há espaço para se cogitar de imprecisão na delimitação desses mesmos atos, nem em relação ao seu conteúdo nem em relação à sua autoria. Partindo-se desse ponto, arguido na petição inicial, o resto é matéria a ser enfrentada ao longo do processo, mais especificamente na segunda fase da ação de prestação de contas, com base em percuciente análise de provas.
+5.- Não se conhece o recurso especial na parte em que apresenta alegação genérica de ofensa a dispositivo legal, sendo exigível a demonstração analítica da suposta violação. Incidência, por analogia, da Súmula 284/STF.
+6.- Agravo Regimental a que se nega provimento.
+(AgRg no REsp 1223010/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 25/06/2013, DJe 01/08/2013)
+Prestação de contas. Legitimidade. Prova. Sociedade de fato. A ação de prestação de contas deve dirigir-se contra o sócio gerente ou com poderes de administração e, não, contra a sociedade.
+Tratando-se de sociedade de fato, a prova de sua existência não está limitada àquelas de natureza documental. O artigo 1366 do Código Civil impõe a prova documental somente quando a causa de pedir se fundar no próprio contrato social.
+(REsp 178.423/GO, Rel. Ministro EDUARDO RIBEIRO, TERCEIRA TURMA, julgado em 26/06/2000, DJ 04/09/2000, p. 148)
+Dessarte, com fundamento nas Súmulas 83 e 568/STJ, não merece reforma o acórdão recorrido.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
