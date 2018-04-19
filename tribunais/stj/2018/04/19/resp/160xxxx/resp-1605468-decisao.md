@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] E RODOLFO MACEDO DO PRADO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (n. 2015.030109-4) assim ementado (e-STJ, fls. 63-64):
+REVISÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. LATROCÍNIO. AVENTADA NULIDADE DO PROCESSO POR INCOMPETÊNCIA DO JUÍZO. ALEGAÇÃO DE QUE O REQUERENTE COMETEU O CRIME DE HOMICÍDIO SEGUIDO DE FURTO. TESE AFASTADA. ACERVO PROBATÓRIO QUE DEMONSTRA QUE O REQUERENTE, SABENDO QUE A VÍTIMA HAVIA RECEBIDO QUANTIA EM ESPÉCIE DECORRENTE DA VENDA DE UM CAVALO, PEGOU CARONA COM A MESMA ATÉ SUA CASA, ONDE PASSOU A REALIZAR AGRESSÕES E ATOS DE TORTURA, OBJETIVANDO SUBTRAIR O DINHEIRO. DIVERSOS BENS SUBTRAÍDOS DA RESIDÊNCIA DA VÍTIMA E ENCONTRADOS NA CASA DO REQUERENTE, SEM QUALQUER JUSTIFICATIVA PARA TANTO. REQUERENTE, ADEMAIS, QUE CONFESSOU NA DELEGACIA QUE QUERIA O DINHEIRO DA VÍTIMA PARA PAGAR DÍVIDAS. DESCLASSIFICAÇÃO DA CONDUTA PARA OS CRIMES DE HOMICÍDIO E FURTO. INVIÁVEL. DOSIMETRIA. PRIMEIRA FASE. PLEITO DE MINORAÇÃO DA PENA-BASE, AO ARGUMENTO DE QUE AS CIRCUNSTÂNCIAS DO DELITO FORAM NORMAIS A ESPÉCIE. IMPOSSIBILIDADE. BRUTALIDADE UTILIZADA NA EXECUÇÃO DA VÍTIMA, QUE ULTRAPASSOU OS LIMITES PREVISTOS NO TIPO PENAL. AUMENTO CONDIZENTE COM O CASO CONCRETO E FRAÇÃO UTILIZADA PELO MAGISTRADO DEVIDAMENTE JUSTIFICADA. SEGUNDA FASE. PLEITO DE AFASTAMENTO DA AGRAVANTE DA DISSIMULAÇÃO POR AUSÊNCIA DE PROVAS DA SUA OCORRÊNCIA E DE FUNDAMENTAÇÃO INIDÔNEA NA SENTENÇA. INVIABILIDADE. REQUERENTE QUE SE APROVEITOU DA AMIZADE QUE MANTINHA COM A VÍTIMA PARA SOLICITAR UMA CARONA EM SUA BICICLETA E COMETER O CRIME CONTRA O PATRIMÔNIO, [NOME]. AGRAVANTE CORROBORADA PELO ACERVO PROBATÓRIO E DEVIDAMENTE FUNDAMENTDA NA SENTENÇA. DECISÃO MANTIDA. PEDIDO INDEFERIDO.
+Nas razões do apelo nobre (e-STJ, fls. 740-749), os insurgentes apontam violação ao art. 22, § § 1º e 2º, da Lei n. 8.906/2004.
+Em síntese, alegam que os honorários advocatícios deveriam ter sido arbitrados segundo a Tabela de Honorários da Seccional da OAB local.
+Requerem a reforma do acórdão recorrido.
+Contrarrazões às fls. 115-119 (e-STJ).
+Após juízo de admissibilidade (e-STJ, fls. 121-122), os autos ascenderam a esta Corte Superior.
+A Subprocuradora-Geral da República, [NOME], opinou pelo provimento do inconformismo (e-STJ, fls. 136-140).
+É O RELATÓRIO.
+A matéria tratada nos autos encontra-se afetada à Terceira Seção desta Corte Superior, pelo rito do artigo 1.036 e seguintes do CPC/15 (REsp 1.656.322/SC e REsp 1.665.033/SC, ambos de Relatoria do em. Min. Rogério Schietti).
+Dessa forma, convém determinar o retorno dos autos à origem, onde ficará sobrestado até a publicação do acórdão proferido nos autos do recurso representativo da controvérsia, conforme o disposto no art. 256-L, inciso I, do RISTJ (com redação dada pela Emenda Regimental n. 24 de 2016):
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator.
+Ante o exposto, com fundamento no art. 256-L, inciso I, do RISTJ, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão paradigma:
+a) o recurso especial tenha a admissibilidade negada, caso o acórdão recorrido coincida com a orientação deste STJ (art. 1.040, I, do CPC); ou
+b) seja a questão reexaminada, no Tribunal a quo, caso o acórdão impugnado esteja em dissonância com o entendimento a ser firmado nesta Corte (art. 1.040, II, do CPC).
+Publique-se. Intimem-se.
