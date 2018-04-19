@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+HABEAS CORPUS – SUPERIOR TRIBUNAL DE JUSTIÇA – PREJUÍZO – AUSÊNCIA.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara Única da Comarca de Juscimeira/MT, no processo nº 3153-21.2017.811.0048, na fase de investigação, determinou a prisão preventiva do paciente, ocorrida em 5 de dezembro de 2017, e de outras 10 pessoas, ante o suposto cometimento dos delitos descritos nos artigos 33, cabeça (tráfico de drogas), e 35, cabeça (associação para o tráfico), da Lei nº 11.343/2006. Reportou-se a conteúdo de interceptações telefônicas, as quais, segundo afirmou, revelam fortes indícios de integração em associação criminosa voltada à mercancia de entorpecentes. Consignou a necessidade da constrição para garantir a ordem pública e a aplicação da lei penal, aludindo ao risco de reiteração delitiva, ao sentimento de impunidade e de intranquilidade social. Asseverou não haver provas de residência fixa ou trabalho lícito a indicarem permanência no distrito da culpa. Em audiência de custódia, o Juízo manteve a cautelar, consignando presentes os motivos ensejadores.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 440.333/MT, o qual teve o pedido de concessão de liminar indeferido pelo Relator.
+    A impetrante sustenta a falta de provas do cometimento de tráfico de drogas, dizendo demonstrarem as interceptações telefônicas tratar-se de usuário. Alega não atendidos os requisitos autorizadores da preventiva. Aduz lastreada a prisão na gravidade abstrata do delito. Argui o excesso de prazo da constrição, a perdurar por 105 dias. Enfatiza as condições pessoais favoráveis do paciente – residência fixa e ocupação lícita.
+    Postula, no campo precário e efêmero, a revogação da custódia preventiva e, sucessivamente, a imposição de medida cautelar diversa. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal estadual, em 11 de abril de 2018, constatou-se ter sido formalizada denúncia contra o paciente na ação penal, encontrando-se o processo-crime na fase de apresentação de defesa prévia.
+    A etapa é de exame da liminar.
+    2. A gradação do tráfico de drogas, considerado o conteúdo de interceptações telefônicas, a revelar o envolvimento em associação criminosa, indica estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, presentes os fortes indícios de periculosidade, a constrição se impunha. Daí ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender foi justificada, atendendo-se ao figurino legal.
+    Ocorre que o paciente encontra-se preso, sem culpa formada, há 4 meses e 14 dias. Surge a problemática do excesso de prazo, presente a custódia provisória e o estágio do processo-crime, porquanto sequer iniciada a fase de instrução. A preventiva deve balizar-se no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato mediante o qual implementada, em cumprimento antecipado da sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso da prisão preventiva formalizada no processo nº 3153-21.2017.811.0048, da Vara Única da Comarca de Juscimeira/MT. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do homem médio, integrado à sociedade.
+    4. O curso deste habeas não prejudica o de nº 440.333/MT, em trâmite no Superior Tribunal de Justiça. Remetam cópia desta decisão, com as homenagens merecidas, ao relator, ministro Reynaldo Soares da Fonseca.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 19 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
