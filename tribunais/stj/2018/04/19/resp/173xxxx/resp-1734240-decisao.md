@@ -1,0 +1,26 @@
+DECISÃO
+[NOME] e outros, alegando serem moradores da Cidade dos Meninos, no município de Duque de Caxias/RJ, ajuizaram ação contra a União, afirmando que na região, nos anos de 1960, foi construída na localidade uma fábrica de pesticidas, tendo como principal elemento, o hexalcoriclohexano, conhecido como "pó de broca", e que após a desativação da fábrica, os caos de doenças relacionadas começaram a ser conhecidos, desaguando em desastre ambiental e danos à população.
+ A ação, voltada à reparação dos referidos danos à saúde dos autores, foi julgada improcedente (fls. 661-669), decisão mantida em grau recursal pelo Tribunal Regional Federal da 2ª Região, assim ementada (fl. 798):
+AGRAVO RETIDO E APELAÇÃO CÍVEL. DIREITO CIVIL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CIDADE DOS MENINOS. CONTAMINAÇÃO PELO COMPOSTO DENOMINADO "PÓ -DE -BROCA". IMPROVIMENTO.
+1. Trata-se de agravo retido e apelação cível interpostos contra sentença que julgou improcedente o pedido formulado pelos autores, ora apelantes. Estes pretendiam o reconhecimento da responsabilidade civil da União Federal, em virtude de residirem na Cidade dos Meninos, onde ocorreu grave problema de contaminação química pelo agente conhecido como "pó de broca.
+2. A realização de perícia é inteiramente desnecessária, diante da ausência de prova de que os autores viviam na Cidade dos Meninos antes da década de 80, quando vieram à tona os problemas decorrentes da contaminação. A lista de moradores sequer foi assinada e, de qualquer forma, possui data de 2004; os comprovantes de residência, por seu turno, são de 2007.
+3. Inexiste base legal para qualquer tipo de indenização aos autores, que vieram a residir no local contaminado muito tempo depois, quando já era amplo o conhecimento a respeito da contaminação da localidade.
+4. Agravo retido e apelação improvidos.
+Os embargos de declaração opostos foram rejeitados (fls. 828-833).
+Os autores interpõem recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando que o desastre ambiental respectivo é fato incontroverso nos autos, sustentando violação dos arts: 341; 374, III e IV, e 489, § 1º, VI, do CPC/2015; 186 e 927, do Código Civil, e 14, 1º, da Lei n. 6.938/81, devendo a União responsabilizar-se pelo dano moral por eles suportado.
+Invocam, a título de comprovação da alegada divergência jurisprudencial, acórdãos proferidos pela Segunda Turma desta Corte e do TRF da 1ª Região.
+Contrarrazões ofertadas (fls. 972-986).
+É o relatório. Decido.
+A controvérsia encontra-se estabelecida em torno de pedido de reparação de supostos danos causados à saúde dos autores, moradores da Cidade dos Meninos, em decorrência da desativação da fábrica de pesticidas, em razão da utilização do chamado "pó de broca".
+O acórdão recorrido, mantendo o entendimento monocrático, assim consignou, verbis (fls. 792 e segs., g.n.):
+Então, na minha visão, parece-me que, neste momento, não basta apenas a realização da perícia, é necessário que haja prova no sentido da residência interior à data em que houve a desativação, enfim, a interrupção das atividades lá na fábrica.
+ ..
+Vou pedir vênia a Vossa Excelência e seguir aquela linha que tenho manifestado no sentido de que realmente a sentença solucionou, com o devido acerto, a questão litigiosa ao julgar improcedente o pedido. Realmente não é caso de alteração e sequer mesmo de cassação ou anulação para fins de prosseguimento do processo. Estou confirmando a sentença.
+Improcedente por falta de provas.
+Sim, na verdade, por falta de prova. Até porque não houve nem prova sobre o momento em que os autores teriam passado a residir no local e isso, dentro daquelas iniciais genéricas, não tem como se preponderar.
+Da leitura dos trechos referidos, verifica-se que a irresignação recursal especial vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu não ter elementos probatórios suficientes dos alegados danos para fins de indenização.
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial, nos termos da Súmula n. 7/STJ.
+Em casos análogos, este Tribunal já decidiu sobre a incidência do referido óbice: AREsp n. 1.263.100/RJ, Rel. Ministro OG FERNANDES, DJe de 06/04/2018; AREsp n. 1.247.038/RJ, Rel. Ministro SÉRGIO KUKINA, DJe de 10/04/2018; AREsp n. 1.216.066/RJ, Rel. Ministro GURGEL DE FARIA, DJe de 01/03/2018; AREsp n. 1.182.585/RJ, Rel. Ministra ASSUSETE MAGALHÃES, DJe de 08/11/2017.
+Quanto à alegada divergência jurisprudencial, tem-se que a incidência do respectivo óbice sumular também impede seu exame, na medida em que falta identidade entre os paradigmas apresentados, uma vez ser impossível " ..  analisar recurso que trata de danos morais com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos." (AgRg no REsp 1.442.539, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 19/05/2014).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RI/STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
