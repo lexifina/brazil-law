@@ -1,0 +1,25 @@
+Decisão
+    Trata-se de Agravo de decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão proferido pela Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. COMPETÊNCIA.
+    1. A competência da Justiça Federal se define pela presença em um dos polos do processo das pessoas previstas no artigo 109-I da Constituição.
+    2. Neste caso, não havendo presença de qualquer das entidades e tendo a União manifestado desinteresse no feito, correta a decisão que declinou da competência para a Justiça Estadual.
+    3. Agravo de instrumento improvido. (Evento 97)”
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que a decisão a quo violou artigo 109, I, da Constituição, afirmando que a presença do MPF na demanda se mostra suficiente para firmar a competência da Justiça Federal.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, no tocante à violação ao artigo 109, I, cumpre esclarecer certos aspectos da causa.
+    Em 1º grau de jurisdição, o Juízo entendeu que o Ministério Público Federal não tem legitimidade para a causa, haja vista a inexistência de interesse da União e de verbas federais para pagamento dos contratos.
+    Conforme corretamente asseverou, “é certo que a presença do Ministério Público Federal na lide atrai a competência da Justiça Federal; porém, necessário se faz aferir a sua legitimação para a causa”. Fixada essa premissa, examinou a legitimidade do MPF e a afastou. Como não figura nenhum outro ente federal na demanda, reconheceu a incompetência da Justiça Federal.
+    Interposto agravo de instrumento pelo Parquet federal, não foi atacada a questão de sua ilegitimidade. Veja-se o seguinte trecho do acórdão recorrido:
+    “As questões relacionadas à ilegitimidade ativa do MPF não foram versadas no agravo de instrumento do MPF. Apenas mencionou nos fundamentos, que haveria interesse federal, mas não se voltou contra a decisão do juízo agravado que reconheceu a ilegitimidade ativa do Ministério Público Federal e determinou que o polo ativo fosse integrado pelo Ministério Público Estadual, o que não é suficiente para deslocar a competência para a Justiça Federal.”
+    O cenário delineado pelo acórdão recorrido revela que (a) precluiu a discussão sobre a legitimidade do MPF e (b) nenhum outro ente federal figura na causa. Nesse quadro, efetivamente não há como reverter as decisões das instâncias anteriores.
+    A fundamentação recursal consiste basicamente em demonstrar que as verbas são federais. O exame de tais alegações, contudo, não envolve o art. 109, I, nem qualquer outra norma constitucional.
+    Além do mais, essa linha de argumentação desvia-se dos reais motivos colocados no acórdão recorrido, o que atrai, em relação ao conhecimento do recurso extraordinário, os óbices das Súmulas 283 e 284/STF.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 19 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
