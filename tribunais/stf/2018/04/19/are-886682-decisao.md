@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Agravo contra decisão da instância de origem que não admitiu Recurso Extraordinário interposto em face de acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária da Paraíba, que possui ementa com o seguinte cabeçalho (Vol. 55):
+    “AGRAVO DE INSTRUMENTO. FASE DE EXECUÇÃO. GDPST. CICLO DE AVALIAÇÃO RETROATIVO A JANEIRO DE 2011. DECISÃO AGRAVADA MANTIDA. AGRAVO DE INSTRUMENTO DESPROVIDO.”
+    A parte recorrente sustenta, com fulcro no artigo 102, III, “a”, da Constituição Federal, violação aos artigos 5º, e 40, § 8º, da Carta Magna, e artigo 7º, da EC 41/2003.
+    É o relatório. Decido.
+    Considerando que a questão da preclusão do apelo extremo já foi examinada por decisão proferida pelo Ministro RICARDO LEWANDOWSKI, no exercício da Presidência, DJe de 18.3/2016, passo à análise do recurso extraordinário.
+    O Plenário desta CORTE, quando do julgamento do RE 597.154-QO-RG (Rel. Min. Presidente GILMAR MENDES, DJe de 29/05/2009), firmou orientação no sentido de que as gratificações de desempenho, enquanto possuírem caráter genérico, são extensíveis aos servidores inativos. Esse entendimento restou consignado na edição da Súmula Vinculante 20, nos seguintes termos: “A Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória no 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos”.
+    Entretanto, o acórdão recorrido divergiu do entendimento firmado pelo SUPREMO TRIBUNAL FEDERAL no que concerne à limitação da extensão do reajuste aos inativos, tendo em vista que o Plenário desta CORTE ao julgar o RE 662.406-RG, Rel. Min. TEORI ZAVASCKI, DJe de 13/02/2015, firmou a tese no sentido de que “o termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações após a conclusão do primeiro ciclo de avaliações, não podendo a administração retroagir os efeitos financeiros à data anterior”. Confira-se a ementa do referido acórdão:
+    “DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICA DE FISCALIZAÇÃO AGROPECUÁRIA - GDATFA. TERMO FINAL DO DIREITO À PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS. DATA DA REALIZAÇÃO DA AVALIAÇÃO DO PRIMEIRO CICLO.
+    1. O termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo de avaliações, não podendo a Administração retroagir os efeitos financeiros a data anterior.
+    2. É ilegítima, portanto, nesse ponto, a Portaria MAPA 1.031/2010, que retroagiu os efeitos financeiros da Gratificação de Desempenho de Atividade Técnica de Fiscalização Agropecuária - GDAFTA ao início do ciclo avaliativo.
+    3. Recurso extraordinário conhecido e não provido.”
+    Diante do exposto, com base no art. 21, § 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, conheço do Agravo para admitir o Recurso Extraordinário e DAR-LHE PROVIMENTO para determinar que o termo final do cálculo dos atrasados seja o da data da homologação dos resultados das avaliações, desconsiderada a retroação dos efeitos financeiros.
+    Publique-se.
+    Brasília, 19 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
