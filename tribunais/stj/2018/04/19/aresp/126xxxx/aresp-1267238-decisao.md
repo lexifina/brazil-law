@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. 1. JUNTADA DO TÍTULO ORIGINAL. NECESSIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 2. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por Banco Santander (Brasil) S.A. contra decisão que negou seguimento ao recurso especial, com fundamento na alínea c do permissivo constitucional, desafiando acórdão proferido pelo Tribunal de Justiça do Paraná assim ementado (e-STJ, fl. 240):
+Embargos à execução - Cédula de crédito bancário.
+1. Ausência do original do título executivo para instrução da ação de execução - Possibilidade de transferência mediante endosso em preto. Princípio da cartularidade - Necessidade de apresentação do original da cédula em Juízo, dada a sua natureza, que permite a circulação por endosso - Precedente do Superior Tribunal de Justiça. Apresentação do título por cópia autêntica - Inviabilidade.
+2. Ônus da sucumbência - Honorários advocatícios fixados em valor irrisório, considerada a dimensão dos embargos do devedor - Majoração que se impõe.
+3. Sucumbência recursal - Honorários advocatícios - Novo CPC (NCPC), art. 85, § 11 - Direito intertemporal - Aplicação somente aos recursos interpostos contra decisões publicadas a partir de 18/3/2016, data em que o NCPC (Lei n.º 13.105, de 2015) passou a ter eficácia - STJ, enunciado administrativo 7.
+3.1. O arbitramento de honorários sucumbenciais recursais (NCPC, art. 85, § 11) somente terá lugar quanto aos recursos interpostos contra decisões publicadas a partir de 18/3/2016, data em que o novo Código de Processo Civil ganhou eficácia.
+4. Apelação desprovida e recurso adesivo provido.
+Nas razões do recurso especial, o recorrente alegou divergência jurisprudencial com outro julgado acerca da necessidade da juntada do título original da cédula de crédito bancário ao processo executivo, tendo em vista que tal exigência somente é cabível quando a execução for pautada em título executivo cambial.
+As contrarrazões não foram apresentadas - fl. 305 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial pela falta de demonstração do dissídio jurisprudencial, bem como pela incidência da Súmula 284 do STF.
+Brevemente relatado, decido.
+Com efeito, em relação à nulidade da execução, por ausência de título executivo, o acórdão recorrido está em consonância com o entendimento do STJ, no sentido de que o contrato executado possui eficácia executiva decorrente expressamente da Lei n. 10.931/2004, e portanto se fazia necessário a juntada de documento original, haja vista o requisito da cartularidade, inerente às cédulas de crédito bancário.
+Confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. PROCESSUAL CIVIL. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO EXECUTIVO. ART. 543-C DO CPC. MATÉRIA DECIDIDA SOB O RITO DOS RECURSOS REPETITIVOS.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. No julgamento do REsp nº 1.291.575/PR, submetido ao rito previsto pelo artigo 543-C do Código de Processo Civil, a Segunda Seção decidiu que "A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei nº 10.931/2004)".
+3. Agravo regimental não provido. (EDcl no AREsp n. 46.042/SP, relator o Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 7/10/2014)
+Nessa mesma linha de entendimento, a decisão proferida pelo Ministro Paulo de Tarso Sanseverino por ocasião do julgamento do AgRg no AREsp n. 584.871/SP, DJe de 14/9/2015 (sem grifo no original):
+Consoante disciplina o art. 26 da Lei 10.931/04, a cédula de crédito bancário tem natureza de título de crédito e sabendo que os títulos de crédito têm como característica a cartularidade, a exigência de apresentação do título original ganha maior relevância, ao impedir que o crédito tenha sido transferido para outrem por meio do endosso.
+Assim, a necessidade de instrução da petição inicial de execução com o título executivo extrajudicial original decorre de disposição de lei.
+(..)
+Consoante o disposto no § 1º do artigo 29 da Lei 10.931/2004, a cédula de crédito bancária pode ser transferida por endosso, razão pela qual torna-se imprescindível que a ação executiva seja instruída com o documento original, diante da possibilidade de sua circulação.
+É certo que, ainda que a cópia da cédula de crédito bancário esteja autenticada por Tabelião com fé pública, faz-se imprescindível instruir a inicial com o original do título, em razão da possibilidade de transferência do crédito a terceiro, segundo dispositivo da lei especial.
+Ademais, o artigo 614, inciso I, do CPC determina que a petição inicial da execução deve ser instruída com o título executivo extrajudicial, cabendo ao credor que requer a execução tal apresentação.
+Descabida a alegação do agravante de que a cédula de crédito bancário não se apresenta como um título cambial, podendo se apresentar por meio de cópia. É da própria natureza da cédula de crédito bancário a condição de título de crédito.
+A propósito, o referido tema já fora tratado por meio de repetitivo, nos termos do art. 543-C, a seguir colacionado:
+DIREITO BANCÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CÉDULA DE CRÉDITO BANCÁRIO VINCULADA A CONTRATO DE CRÉDITO ROTATIVO. EXEQUIBILIDADE. LEI N. 10.931/2004. POSSIBILIDADE DE QUESTIONAMENTO ACERCA DO PREENCHIMENTO DOS REQUISITOS LEGAIS RELATIVOS AOS DEMONSTRATIVOS DA DÍVIDA. INCISOS I E II DO § 2º DO ART. 28 DA LEI REGENTE.
+1. Para fins do art. 543-C do CPC: A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004).
+3. No caso concreto, recurso especial não provido. (REsp 1.291.575-PR, Rel. Min. Luis Felipe Salomão, julgado em 14/8/2013 - grifou-se).
+Sendo assim, o entendimento adotado pelo Tribunal de origem está em conformidade com a orientação desta Corte, no sentido de que é necessária a juntada de documento original em razão do requisito da cartularidade, inerente às cédulas de crédito bancário.
+Incide, portanto, óbice da Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 100,00 (cem reais).
+Publique-se.
