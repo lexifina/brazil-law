@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo de decisão interposto por OI S.A que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+"AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO DE ADIMPLEMENTO CONTRATUAL. DECISÃO QUE ACOLHEU PARCIALMENTE A INSURGÊNCIA E DEIXOU DE FIXAR HONORÁRIOS FACE A SUCUMBÊNCIA MÍNIMA.
+DESCONTENTAMENTO ACERCA DOS HONORÁRIOS ARBITRADOS NO ÂMBITO DO CUMPRIMENTO DE SENTENÇA. INOVAÇÃO RECURSAL. AUSÊNCIA DE DELIBERAÇÃO PELO JUÍZO A QUO. INVIABILIDADE DE CONHECIMENTO DO RECLAMO NO PONTO, SOB PENA DE SUPRESSÃO DE INSTÂNCIA E VIOLAÇÃO AO DUPLO GRAU DE JURISDIÇÃO. TESE NÃO CONHECIDA.
+HONORÁRIOS EM IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INAPLICABILIDADE QUANDO REJEITADA A IMPUGNAÇÃO. CABIMENTO NO CASO DE ACOLHIMENTO, AINDA QUE PARCIAL, DO RESPECTIVO INCIDENTE. RECURSO ESPECIAL N. 1.134.186 JULGADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA ATRAVÉS DO RITO PREVISTO NO ART. 543-C DO CPC. CASO CONCRETO. EXCESSO DE EXECUÇÃO RECONHECIDO EM VALOR IRRISÓRIO. EXEQUENTES QUE DECAÍRAM DE PARTE MÍNIMA DO PEDIDO. INVIABILIDADE DE FIXAÇÃO DO ESTIPÊNDIO. INTELIGÊNCIA DO PARAGRAFO ÚNICO DO ART. 21 DO CÓDIGO DE PROCESSO CIVIL REVOGADO.
+RECURSO CONHECIDO EM PARTE E, NESTA, DESPROVIDO." (fl. 60)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a agravante aponta violação aos arts. 85, 141, 492 e 503 do Código de Processo Civil de 2015, sustentando, em síntese: (a) a necessidade de fixação de honorários advocatícios em impugnação de cumprimento de sentença e (b) a nulidade dos cálculos apresentados pelo contador judicial.
+Não foram apresentadas contrarrazões.
+É o relatório.
+O Tribunal de origem, no tocante à fixação dos honorários advocatícios, concluiu que os recorridos decaíram de parte mínima do pedido e portanto, "merece aplicação o disposto no parágrafo único do art. 21 do Código de Processo Civil revogado, que versava: "se um litigante decair de parte mínima do pedido, o outro responderá, por inteiro, pelas despesas e honorários" (fl. 66). Contudo, tal fundamento, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, convocando, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nas razões recursais, a recorrente apontou violação aos arts. 141, 492 e 503 do CPC/2015, mas não desenvolveu argumentação que evidenciasse as ofensas, limitando-se a afirmar "a nulidade decorrente de cálculos elaborados em desrespeito aos parâmetros estabelecidos no título executivo", tornando evidente a falha de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula nº 284/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OI S.A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO E COMPLEMENTAÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO E OFENSA À COISA JULGADA. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AGRAVO DESPROVIDO.
+1. A recorrente limitou-se a fazer alegações genéricas, não logrando demonstrar a suposta ofensa à lei federal ou, ainda, a incorreta interpretação dos dispositivos tidos por violados, deficiência que atrai a aplicação da Súmula n. 284/STF.
+2. Agravo interno a que se nega provimento." (AgInt no AREsp 1136382/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
