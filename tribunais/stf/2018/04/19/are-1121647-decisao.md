@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Colegiado de origem confirmou o entendimento do Juízo quanto à extinção do processo sem julgamento de mérito, considerada a existência de coisa julgada. No extraordinário cujo trânsito busca alcançar, a recorrente afirma a violação dos artigos 5º, incisos LIV e LV, 37, 39, § 1º, e 93, inciso IX, da Constituição Federal. Argui a nulidade do acórdão relativo aos embargos de declaração por negativa de prestação jurisdicional. Diz contrariados os princípios da isonomia, eficiência e continuidade do serviço público. Afirma a diversidade de fundamentos entre a presente demanda e a anterior, já finalizada.
+    2. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses com solução na origem. A tentativa acaba por fazer-se voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, eis a síntese da decisão recorrida:
+    APELAÇÃO CIVEL. POLÍTICA SALARIAL. SERVIDOR PÚBLICO. REAJUSTES DA LEI 10.395195 SOBRE VENCIMENTOS BÁSICOS. COISA JULGADA. Coisa Julgada - Verificado o ajuizamento de ação anterior com mesmas partes, a mesma causa de pedir e o mesmo pedido. A mudança de entendimento do órgão fracionário da Corte sobre a matéria, não autoriza o afastamento da coisa julgada. Impossibilidade de relativização do instituto ou de aplicação do artigo 471, I, do Código de Processo Civil ou, ainda, de aplicação do princípio da isonomia. POR MAIORIA, NEGARAM PROVIMENTO AO APELO. EM OBSERVÂNCIA AO ARTIGO 942 DO CPC/2015, VOTARAM, NESTA MESMA SESSÃO DE JULGAMENTO, OS DESEMBARGADORES EDUARDO KOTHE WERLANG E ANGELA MARIA SILVEIRA.
+    À toda evidência, somente pelo reexame do quadro fático constante no processo seria dado concluir de forma diversa, o que é vedado em sede extraordinária.
+    3. Ante o quadro, desprovejo o agravo. Majoro os honorários recursais em 5% sobre o valor da condenação, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 19 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
