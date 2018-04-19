@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de ação rescisória ajuizada por [NOME], com o objetivo de desconstituir decisão proferida pelo Ministro Humberto Martins no AREsp nº 518.689/ES.
+Para melhor compreensão da controvérsia, transcrevo a decisão proferida pela Presidente desta Corte, Ministra Laurita Vaz, no período de recesso judiciário, indeferindo o pedido de concessão de medida liminar (fls. 271/273):
+Trata-se de ação rescisória, com pedido de medida liminar, ajuizada por [NOME] [NOME] [NOME], em face do Estado do Espírito Santo, com o objetivo de rescindir a decisão proferida pelo Ministro Humberto Martins, no bojo do Agravo em Recurso Especial n.º 518.869-ES.
+Sustenta a Requerente, em suma, que a decisão impugnada "deve ser anulada e/ou revogada, pois inválida, eis que encontra-se fundada em erro de fato, violou literal disposição de lei e houve dolo da parte vencedora a fim de fraudar a lei, com fulcro no art. 485, incs. III, V e IX e §§ 1º e 2º, do CPC".
+Explica que, na defesa dos interesses de sua cliente, ajuizou ação ordinária perante a 4.ª Vara Cível dos Feitos da Fazenda Pública, para garantir-lhe o constitucional direito à saúde. Contudo, considerando que a autora da ação na origem faleceu antes do julgamento do mérito, noticia a Requerente que o Magistrado a quo extinguiu o processo e condenou o Estado ao pagamento de honorários advocatícios em seu benefício. Condenação que apenas foi reformada pela decisão judicial ora impugnada.
+Defende, nessa linha, que o decisum rescindendo incorreu em erro pois "entendeu que a ora Requerente ([NOME] [NOME] [NOME]) é Defensora Pública que busca seus Honorários Sucumbenciais, quando na verdade ela é uma Advogada Particular, simples e do interior do Estado do Espírito Santo que deseja, tão somente, os seus irrisórios Honorários Sucumbenciais que foram arbitrados na monta insignificante e injusta de R$ 300,00 (trezentos reais)". Daí o pedido liminar para que os honorários advocatícios que lhe foram negados sejam-lhe imediatamente pagos, ante sua natureza alimentar.
+No mérito, pugna pela anulação ou revogação da decisão combatida, para que "venha a perceber os seus alimentos, bem como tenha revisto os honorários sucumbenciais irrisórios de R$300,00 (trezentos reais) em montante equitativo".
+É o breve relatório. Decido.
+De saída, registro que o pedido acautelador em sede de ação rescisória deve ser examinado cum granu salis. É que, embora rescindível, não se pode afastar da premissa de que de coisa julgada se trata. Coisa julgada cujo respeito à intangibilidade é consequência inexorável do princípio da segurança jurídica, que dá credibilidade aos julgamentos prolatados no âmbito do Poder Judiciário.
+O imediato cumprimento da sentença ou do acórdão rescindendo é medida que se impõe para garantir a efetividade das decisões judiciais, salvo nas excepcionais hipóteses em que a verosimilhança da alegação seja evidente e haja sério risco de irreversibilidade do dano oriundo da imediata execução da sentença combatida. É o que dispõe o art. 489 do Código de Processo Civil.
+Pois bem, no caso dos autos, parecem-me razoáveis as alegações da Requerente, na medida em que do próprio dispositivo da decisão impugnada, extrai-se o seguinte comando: "dou provimento ao recurso especial para reconhecer a impossibilidade de pagamento de honorários pelo estado à Defensoria Pública do próprio ente". E o fato é que, como bem argumenta a Requerente, de pagamento à Defensoria Pública não se trata. Tudo a sinalizar para possível erro de fato da decisão cuja rescisão se pretende.
+Contudo, não vislumbro, nesse juízo prefacial, a irreversibilidade do dano, ou ainda, a grave lesão a ser acarretada ao patrimônio da requerente que justifique a concessão da medida acauteladora. Ao contrário, parece-me que o pedido liminar confunde-se com o próprio mérito que se pretende ver discutido na presente ação rescisória, o que impede o seu deferimento, na forma determinada pelo § 3.º do art. 1º da Lei n.º 8.437/1992.
+Em face do exposto, INDEFIRO o pedido de medida liminar formulado, sem prejuízo de ulterior deliberação pelo Ministro Relator.
+Defiro, por outro lado, o pedido de assistência judiciária formulado à fl.14.
+Cite-se o réu para contestar a presente ação no prazo de 30 dias, nos termos do art. 491 do Código de Processo Civil.
+É o relatório. Passo a decidir.
+Como bem ressaltou o Subprocurador-Geral da República Mario [NOME], em seu alentado parecer de fls. 310/315, a presente ação rescisória foi ajuizada em 8/1/2015, antes, portanto, do trânsito em julgado da decisão rescindenda, que se deu em 25/2/2015.
+ Nesse contexto, a ação rescisória não é cabível. Confira-se, a propósito, a seguinte ementa:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. ACÓRDÃO QUE ANULA SENTENÇA. QUESTÃO INTERLOCUTÓRIA. PROSSEGUIMENTO DO PROCESSO. AUSÊNCIA DE TRÂNSITO EM JULGADO.
+1. Caráter interlocutório do acórdão que anula sentença de mérito e determina o prosseguimento do processo no juízo de origem para dilação probatória.
+2. Descabimento de ação rescisória antes do trânsito em julgado da última decisão proferida no processo, a teor do disposto no art. 485, caput, do CPC. Precedentes.
+3. "Não fazem coisa julgada  ..  os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença" (art.
+469, inciso I, do CPC).
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1.463.795/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/04/2015, DJe 16/04/2015)
+Ante o exposto, nego seguimento à ação rescisória, o que faço com base no art. 34, XVIII, do RISTJ.
+Publique-se.
