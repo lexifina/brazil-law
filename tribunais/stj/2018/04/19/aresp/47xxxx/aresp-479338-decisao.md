@@ -1,0 +1,24 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEI LOCAL. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO DA PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por [NOME] DE ARAÚJO, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo TJSP, assim ementado:
+APOSENTADORIA - COMPLEMENTAÇÃO - DESCABIMENTO - VÍNCULOS COM A CDHU A PARTIR DE 1989 - INAPLICABILIDADE DA EXCEÇÃO PREVISTA NA LEI No 200/74 - RECURSO IMPROVIDO.
+"A servidora admitida na Prefeitura Municipal de Guarulhos, em 2.1.74; posteriormente, na Prefeitura Municipal de Cotia, em 1.2.85; e, enfim, pela CD)HU, apenas em 7.7.89, onde se aposentou em 24.9.03, não faz jus à complementação de sua aposentadoria, pois admitida por esta última companhia muito tempo após a revogação desse benefício, não se cogitando, portanto, da incidência da exceção prevista no art. 1o parág. único, da Lei no 200/74" (fls. 155).
+2. Não foram opostos Embargos de Declaração.
+3. Nas razões do Apelo Nobre inadmitido, a parte recorrente alega violação dos arts. 3o. da Lei 6.226/1975, 1o. da Lei 6.864/1980, argumentando, em síntese, fazer jus à complementação de aposentadoria.
+4. É o relatório.
+5. Do confronto das razões do Recurso Especial com o acórdão recorrido, nota-se que este resolveu a demanda com base na interpretação dada às Leis Estaduais de São Paulo 1.386/1951, 4.819/1958, bem como à LC Paulista 200/1974.
+6. Neste contexto, incide o óbice ao conhecimento do Recurso estatuído na Súmula 280/STF, aplicável por analogia: Por ofensa a direito local não cabe recurso extraordinário. A propósito:
+AGRAVO INTERNO. PROCESSUAL CIVIL. ADMINISTRATIVO. RECORRENTE MARCIA. PRESCRIÇÃO DO FUNDO DE DIREITO. AUSÊNCIA DE COTEJO ANALÍTICO. RECORRENTES EDUARDO E MIRIAM. SERVIDORES ESTADUAIS. COMPLEMENTAÇÃO DE APOSENTADORIA. ANÁLISE DE DIREITO LOCAL POR ESTA CORTE. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Impossível a pretendida análise de violação dos artigos 40, § 3o., 126, § 3o., e 201, § 2o., todos da Constituição Federal, uma vez que a apreciação de suposta violação de preceitos constitucionais não é possível na via especial, nem à guisa de prequestionamento, porquanto matéria reservada ao Supremo Tribunal Federal nos termos dos arts. 102, III, e 105, III, da Carta Magna.
+2. No que tange à prescrição da ação em relação à agravante Marcia, cumpre asseverar que a prescrição da pretensão à revisão do ato de aposentadoria, com a complementação do valor nos termos da Leis Estaduais 4.819/58 e 200/74, alcança o próprio fundo de direito, não havendo falar em relação de trato sucessivo.
+3. Não pode ser conhecido o presente recurso pela alínea c do permissivo constitucional, pois o recorrente não realizou o necessário cotejo analítico, bem como não apresentou, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementa, não foram demonstradas as circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+4. Segundo se observa dos fundamentos que serviram de fundamento para a Corte de origem apreciar a controvérsia acerca da complementação de pensão, o tema foi dirimido no âmbito local (Leis estaduais 1.386/51, 4.819/58 e 200/74), de modo a afastar a competência desta Corte Superior para o deslinde do desiderato contido no recurso especial: O exame de normas de caráter local é inviável na via do recurso especial, em face da vedação prevista na Súmula 280 do STF, segundo a qual por ofensa a direito local, não cabe recurso extraordinário".
+Agravo interno improvido (AgInt no AREsp. 882.097/SP, Rel. Min. HUMBERTO MARTINS, DJe 14.6.2016).
+
+ADMINISTRATIVO. COMPLEMENTAÇÃO DE PENSÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 5o. e 6o., § 2o. da LICC, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Incidência do óbice da Súmula 211/STJ.
+2. O exame do mérito da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos das Leis Estaduais 1.386/51, 4.819/58, 200/74 e 6.629/89 do Estado de São Paulo, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário).
+3. O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo regimental a que se nega provimento (AgRg no AREsp. 690.375/SP, Rel. Min. SÉRGIO KUKINA, DJe 6.12.2016).
+7. Ante o exposto, nega-se provimento ao Agravo.
+8. Publique-se. Intimações necessárias.
