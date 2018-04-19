@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARCOS VINÍCIUS DOS SANTOS em face de acórdão proferido, em sede de apelação, pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o paciente foi condenado às penas de 1 ano e 8 meses de reclusão, em regime fechado, e 166 dias-multa pela prática do delito descrito no art. 33 da Lei n. 11.343/2006.
+Sustenta a impetrante tratar-se de paciente primário, cuja pena-base foi fixada no mínimo legal, o que impõe a fixação do regime inicial aberto.
+Invoca os enunciados de Súmula 718 e 719/STF e 440/STJ.
+Deferida a liminar para fixar o regime semiaberto e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ, mas pela concessão da ordem, de ofício, para fixar o regime inicial aberto.
+É o relatório.
+DECIDO.
+Quanto ao regime prisional, assim consignou a sentença (fls. 12/17 - com destaques):
+Inicialmente, sopesadas as circunstâncias judiciais do artigo 59, do Código Penal, fixo a pena base no mínimo legal, ou seja, cinco anos de reclusão e quinhentos dias multa, calculados no mínimo legal.
+Na segunda fase da dosimetria, ausentes agravantes, deixo de considerar as atenuantes da confissão e da menoridade relativa à época dos fatos porque tais circunstâncias não podem reduzir a pena aquém do mínimo legal (Súmula 231, do STJ), permanecendo a reprimenda no mesmo patamar.
+Na derradeira etapa do sistema trifásico, deve ser levada em consideração a causa especial de diminuição de pena previstas pelo § 4º do art. 33 da Lei de Tóxicos, causa esta que, uma vez verificados seus requisitos, deve ser aplicada, ainda que de ofício. (..).
+ ..
+Diante de tais ponderações e das constatações das provas produzidas, reduzo a pena em 2/3 (dois terços), atendendo-se aos critérios de proporcionalidade que decorrem da própria norma que estipula um parâmetro dentro do qual a redução deve ser realizada. Como consequência, a pena resta definitiva em um ano e oito meses de reclusão e pagamento de cento e sessenta e seis dias-multa.
+No que tange ao regime prisional imponível à espécie, mister fixar-se a modalidade inicial fechada, por ser socialmente recomendável, diante das circunstâncias fáticas do caso, principalmente por envolver apreensão de cocaína, droga esta sabidamente de imensa potencialidade lesiva, além da quantidade de droga. Some-se a isso o fato de se tratar de delito de natureza hedionda, grave, causador de nefastas consequências na sociedade.
+Incabível, por fim, a substituição da reprimenda corporal por restritivas de direitos, pelas mesmas razões supra expostas.  ..
+O acórdão recorrido manteve o regime fechado sob o seguinte fundamento (fls. 18/26):
+O regime prisional inicial fechado foi fixado com absoluto acerto, não só por previsão legal - artigo 2o, § 1o, da Lei nº 8.072/90, com a redação dada pela Lei nº 11.464/07 - como, também, pela gravidade do crime, de catastróficas conseqüências à saúde pública, responsável, também, pela desagregação familiar e social.
+O crime de tráfico de entorpecentes é equiparado aos delitos hediondos, portanto os mais graves dentre os elencados no Código Penal e em Leis Especiais.
+Logo, soa, no mínimo, incongruente a fixação de regime diverso do fechado para o crime de tráfico de drogas.
+Há, como é de sabença, crimes graves, mas que não são tidos como hediondos, como, por exemplo, o de roubo agravado, o de homicídio simples, dentre outros. Mesmo o tráfico de drogas, considerado o § 4o, do artigo 33 da respectiva Lei Especial, é, sem dúvida, crime grave.
+Mas há os considerados hediondos.
+Hediondo quer significar horrendo, gravíssimo, repulsivo, absolutamente intolerável.
+Ora, sendo assim, como aplicar-se para um crime hediondo, como o tráfico de entorpecentes, regime que não o inicial fechado
+O traficante, perante a lei penal tal como está em vigor, é tido como um pária da sociedade, que destrói, não só a saúde das pessoas, especialmente a dos jovens, deixando muitos deles incapacitados para estudar ou mesmo trabalhar, pois é sabido que a cocaína e o "crack", por exemplo, além de causarem dependência, destroem os neurônios, como ainda arrasam os patrimônios das famílias, com gastos desmesurados com tratamentos e internações, e o que é pior: com mínimas chances de recuperação.
+Bem por isso que se trata de crime hediondo.
+A sociedade não tolera o traficante, não podendo o Poder Judiciário fazer ouvidos moucos ao clamor social.
+O legislador, com a edição da Lei nº 11.343/06, passou a punir o tráfico de forma mais severa exatamente porque o Poder Legislativo percebeu, sentiu que o tecido social estava se esgarçando cada vez mais e que os valores deveriam ser preservados.
+Uma sociedade repleta de viciados e dependentes é uma sociedade que caminha a passos largos para sua própria destruição com o prejuízo de todos, menos dos traficantes que, com o dinheiro e patrimônio amealhados de forma criminosa, poderão deixar o País e mudarem-se para outros lugares, onde, com certeza, passarão a destroçar outras sociedades, outras inúmeras famílias.
+ ..
+Mas, mesmo que, em alguns casos, possa não ser mais considerado hediondo, ainda assim o crime de tráfico é sempre muito grave, comportando, dessarte, o regime inicial fechado. Em liberdade, ou mesmo em regime prisional mais ameno, especialmente o aberto, óbvio que o agente irá continuar exercendo o nefando comércio. Nem a mais ingênua das pessoas iria acreditar no contrário!
+ ..
+Com efeito, sabe-se que no julgamento do HC n. 111.840/ES (Rel. Min. Dias Toffoli), em que Plenário do STF afastou a obrigatoriedade de imposição de regime inicial fechado aos condenados por crimes hediondos ou equiparados, consignou-se que as regras do art. 33 do CP deveriam ser utilizadas também na fixação do regime prisional inicial dos crimes hediondos e equiparados, daí o constrangimento ilegal.
+Nesse sentido, veja-se que o § 3º do art. 33 do CP estabelece que a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código. Ou seja, exige-se fundamentação concreta para a fixação de regime inicial mais gravoso do que a pena aplicada permite, nos termos do disposto nas Súmulas 440/STJ, 718 e 719/STF. No mesmo sentido: STJ, HC 217.931/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/08/2012, DJe de 27/08/2012.
+Na hipótese, no entanto, consignou também a sentença a quantidade de droga apreendida com os acusados para justificar a imposição de regime mais gravoso (o réu foi preso em coautoria com [NOME], somando-se ao total das drogas apreendidas em seu poder  5 pedras de crack  as 362 pedras de crack encontradas na posse de [NOME]). Ocorre que tal motivação, apesar de, a princípio, ser válida, apenas poderia justificar a fixação do regime mais gravoso, qual seja, o semiaberto - por se tratar de pena reclusiva inferior a 4 (quatro) anos de reclusão - e não o fechado, sobretudo porque primário o réu (fl. 15). A propósito, o seguinte precedente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO. REGIME INICIAL SEMIABERTO. PENA TOTAL ESTABELECIDA EM 4 (QUATRO) ANOS DE RECLUSÃO. GRAVIDADE CONCRETA. MAIOR REPROVABILIDADE NA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+2. Firmou-se neste Tribunal a orientação de que é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais do art. 59 do Código Penal ou em outra situação que demonstre efetivamente um plus na gravidade do delito.
+3. No caso dos autos, embora as circunstâncias judiciais tenham sido consideradas favoráveis e o paciente seja primário, não olvidando que a reprimenda corporal tenha sido estabelecida em 4 (quatro) anos de reclusão, o regime inicial semiaberto foi estabelecido a partir de motivação concreta extraída dos autos - o réu valeu-se de violência física contra a vítima, dando-lhe uma "gravata" e a derrubando no chão -, o que demonstra uma maior reprovabilidade na conduta do paciente, justificando o regime prisional mais gravoso, exatamente nos termos do que dispõe o art. 33, §§ 2º e 3º do Código Penal. Inaplicável, portanto, os enunciados das Súmulas n. 440/STJ e n. 718/STF.
+4. Habeas corpus não conhecido. (HC 381.013/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 11/04/2017).
+Assim, não se justifica a imposição do regime inicial fechado a réu primário, condenado à pena reclusiva inferior a 4 anos, cuja pena-base foi estabelecida no mínimo legal, fazendo jus o paciente ao regime semiaberto, em coerência com a orientação firmada na Súmula 440/STJ e, conforme dispõe o art. 33, § 2º, alínea "c" e § 3º, do Código Penal.
+Ante o exposto, concedo o habeas corpus para fixar o regime semiaberto para o início de desconto da pena.
+Publique-se.
+Intimem-se.
