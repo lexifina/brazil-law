@@ -1,0 +1,42 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. EXECUÇÃO. PENHORA. BEM IMÓVEL. ARREMATAÇÃO CONCLUÍDA. BEM DE FAMÍLIA. LEI Nº 8.009/90. ALEGAÇÃO TARDIA. IMPROCEDÊNCIA. DECISÃO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. SÚMULA Nº 568 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+CELSO DEL GRANDE PINTO (CELSO) ajuizou ação anulatória de arrematação contra EUGÊNIO [NOME] (EUGÊNIO) e [NOME] (PAULO) afirmando que o bem arrematada era seu único imóvel e, portanto, bem de família impenhorável.
+A ação anulatória foi julgada procedente, mas a sentença foi reformada em grau de apelação, tendo o acórdão transitado em julgado.
+Na presente ação rescisória, CELSO afirmou que a propriedade rural arrematada é bem de família e, portanto, impenhorável, sendo devida a desconstituição do acórdão.
+O Tribunal de origem julgou a ação rescisória improcedente em acórdão, assim ementado:
+AÇÃO RESCISÓRIA. IMPENHORABILIDADE DE IMÓVEL RURAL. INÉPCIA DA INICIAL. DEPÓSITO PRÉVIO. PERDA DE OBJETO DA LIDE. PRECLUSÃO CONSUMATIVA ACERCA DA ALEGAÇÃO DE IMPENHORABILIDADE. OBSERVÂNCIA DA INTIMAÇÃO DO DEVEDOR ACERCA DOS ATOS EXECUTÓRIOS. TUTELA ANTECIPADA. BENEFÍCIO DA JUSTIÇA GRATUITA.
+INÉPCIA DA INICIAL: A inicial enseja fácil compreensão dos fatos e do seu pedido, cuja dificuldade alegada é da parte e não do Judiciário. DEPÓSITO PRÉVIO: O argumento é descabido na medida em que a parte autora goza do benefício da Assistência Judiciária Gratuita, a qual não foi impugnada regularmente e isso arreda o ônus de proceder ao depósito prévio (art. 488, II, CPC) PERDA DE OBJETO DA LIDE: O fato que a parte entende que não se poderá desconstituir o acórdão combatido, nesta ação rescisória, não implica na perda de objeto da lide.
+PRECLUSÃO CONSUMATIVA ACERCA DA ALEGAÇÃO DE IMPENHORABILIDADE: Ocorreu a preclusão consumativa para discussão da impenhorabilidade do imóvel rural que fora arrematado, cuja tese sequer fora submetida ao juízo da execução, no tempo oportuno. A arrematação perfeita e acabada impede, segundo jurisprudência do STJ, o debate acerca da impenhorabilidade do imóvel rural do autor, pois isso somente poderia ser suscitado até a fase final da execução. Preclusa a discussão da penhorabilidade ou não do imóvel, em ação de anulação da arrematação. Não houve literal violação de lei (arts. 5, II; e 6, ambos da CF; art. 1, da Lei 8.009/90, art. 649, VIII, do CPC). Aplicação da Súmula 343 do STF.
+INTIMAÇÃO DO DEVEDOR DOS ATOS EXECUTÓRIOS: A questão relativa à falta de intimação pessoal do devedor acerca da praça é matéria preclusa, pois já transcorreu o prazo de dois anos do trânsito em julgado para ajuizamento da ação rescisória. A intimação do devedor para fins de ciência da praça poderá ser por meio de advogado ou edital, pois assim o próprio parágrafo quinto do artigo 687 do CPC admite, o que afasta a obrigatória intimação pessoal
+TUTELA ANTECIPADA: A tutela antecipada concedida é cassada em razão direta que ausentes os pressupostos objetivos do artigo 273 do Código de Processo Civil.
+BENEFÍCIO DA JUSTIÇA GRATUITA: Ausente qualquer indício de prova documental que os réus tenham necessidade de tal favor legal, pois um adquiriu o imóvel objeto de discussão em praça pública, ao passo que outro obteve o pagamento do débito com o dinheiro arrecadado na citada arrematação.
+AFASTARAM AS PRELIMINARES. JULGARAM IMPROCEDENTE A AÇÃO RESCISÓRIA. UNANIME (e-STJ, fls. 1.305/1.306).
+Irresignado, CELSO interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, sustentando a violação dos arts. 1º da Lei nº 8.009/90; 649, VIII, 686, 692 e 703, todos do CPC/73 no que se refere ao reconhecimento da impenhorabilidade do imóvel arrematado e, portanto, da nulidade absoluta da arrematação.
+Houve contrarrazões (e-STJ, fls. 1.354/1.374 e 1.445/1.498).
+O apelo nobre foi admitido.
+É o relatório.
+DECIDO.
+O recurso não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Do mérito
+CELSO sustentou a violação dos arts. 1º da Lei nº 8.009/90; 649, VIII, 686, 692 e 703, todos do CPC/73 no que se refere ao reconhecimento da impenhorabilidade do imóvel arrematado e, portanto, da nulidade absoluta da arrematação. Afirmou que a nulidade pode ser arguida a qualquer tempo, sendo necessária a análise das violações apontadas no momento da penhora e arrematação do imóvel.
+O Tribunal de origem julgou improcedente a ação rescisória consignando que o mérito da impenhorabilidade ou não do imóvel sequer tinha sido analisado pelo acórdão rescindendo diante da impossibilidade de discussão sobre o tema após a conclusão da arrematação, fazendo-o nos seguintes termos:
+IMPENHORABILIDADE DO IMÓVEL RURAL.
+Não há como julgar procedente a ação rescisória, neste ponto, uma vez que a petição inicial veicula, com a devida vênia, questão equivocada, porquanto o acórdão a ser rescindido sequer adentrou na análise da impenhorabilidade ou não do imóvel rural do autor. No caso, sequer ponderou da aplicação do artigo 1º, da Lei n. 8.009/90, ou do inciso VIII, do artigo 649 do Código de Processo Civil, pois a ementa está assim redigida:
+ ..
+Então, conforme anteriormente ponderado por esse subscritor, quando da decisão que determinou a emenda da inicial (fls. 1.042),".. a 19a Câmara Cível não conheceu da impenhorabilidade diante da impossibilidade disto ser discutido após ter havido arrematação perfeita e acabada, conforme orientação jurisprudencial do Superior Tribunal de Justiça. E, por isso, não se adentrou na questão da citada impenhorabilidade com base no artigo 649, VIII do Código de Processo Civil, ou no artigo 1 da Lei 8.009/90, porquanto aquela prejudicial assim impedia".
+Nesta linha, o fato é que ocorreu a preclusão consumativa para rediscussão da impenhorabilidade do imóvel rural que fora arrematado, cuja tese sequer fora submetida ao juízo da execução, no tempo oportuno. A arrematação perfeita e acabada impede, segundo jurisprudência do STJ, o debate da impenhorabilidade do imóvel rural do autor, o que somente poderia ser suscitado até a fase final da execução. Logo, se a arrematação em tela restou consumada, preclusa a discussão da penhorabilidade ou não do imóvel em ação de anulação daquela  ..  (e-STJ, fls. 1.313/1.317).
+Assim o fazendo, o acórdão recorrido encontra-se em consonância com o entendimento desta Corte quanto à impossibilidade de análise da impenhorabilidade do bem de família após a arrematação e, finda, a execução.
+Neste sentido, confira-se o seguinte precedente:
+AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. EXECUÇÃO. PENHORA. BEM IMÓVEL. ARREMATAÇÃO CONCLUÍDA. BEM DE FAMÍLIA. LEI N. 8.009/90. AÇÃO ANULATÓRIA. ART. 486 DO CPC. IMPENHORABILIDADE. ALEGAÇÃO TARDIA. IMPROCEDÊNCIA.
+1. "A impenhorabilidade do bem-de-família não pode ser argüida, em ação anulatória da arrematação, após o encerramento da execução. Precedentes." (AgRg no REsp 853296/GO, Relator Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, DJ 28/11/2007).
+2. Ação rescisória julgada improcedente.
+(AR 4.525/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Segunda Seção, j. 13/12/2017, DJe 18/12/2017)
+No precedente acima citado, a Segunda Seção consignou, ainda, que assiste ao devedor o direito de alegar a impenhorabilidade do bem de família, até a arrematação.
+Portanto, deve ser mantido o acórdão recorrido porque, tendo o Tribunal de origem consignado que a impenhorabilidade somente foi suscitada após ter havido a arrematação perfeita e acabada, está em consonância com o entendimento desta Corte.
+Incide quanto ao ponto o óbice da Súmula nº 568 do STJ.
+Nessas condições, com fundamento no art. 255 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NEGO PROVIMENTO ao recurso especial.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
