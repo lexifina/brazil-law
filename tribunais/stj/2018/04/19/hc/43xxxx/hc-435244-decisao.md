@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário impetrado por [NOME], contra acórdão proferido pela col. Primeira Câmara Criminal do eg. Tribunal de Justiça do Tocantins, nos autos do Habeas Corpus n. 0019568-82.2017.8.27.0000.
+Em 29.9.2006, o paciente subtraiu um automóvel e objetos pessoais pertencentes à vítima indicada na inicial. Para alcançar êxito na empreitada criminosa, o acusado valeu-se de violência e grave ameaça, tendo, logo após a subtração, matado a vítima.
+Após o regular trâmite da instrução criminal, o réu foi condenado a 25 (vinte e cinco) anos de reclusão, em regime fechado, além de 200 (duzentos) dias-multa.
+A defesa impetrou habeas corpus na origem, buscando a reforma da decisão condenatória, argumentando que a análise das circunstâncias judiciais do art. 59 do Código Penal não foi realizada de modo adequado, porquanto deixou de apresentar fundamentos idôneos para sustentar a exasperação da pena-base. O eg. Tribunal a quo denegou a ordem.
+Neste writ, a defesa, novamente, se insurge contra a quantificação da pena, alegando que estão ausentes fundamentos jurídicos idôneos para a majoração da pena.
+O pedido liminar foi indeferido (e-STJ, fl. 57).
+Em sua manifestação, o Ministério Público Federal opinou concessão da ordem (e-STJ, fls. 61-66).
+É o relatório.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, não sendo cabível a impetração de habeas corpus em substituição aos recursos e ações cabíveis, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+Nesse sentido:
+PROCESSO PENAL. PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO NA MODALIDADE TENTADA. JÚRI. ALEGAÇÃO DE NOMEAÇÃO DE DEFENSOR DATIVO ANTES DE INTIMAR A DEFENSORIA PÚBLICA PARA ATUAR NOS AUTOS. NULIDADE. NÃO OCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais, quando manifesta a ilegalidade ou sendo teratológica a decisão apontada como coatora.
+ ..
+6. Habeas corpus não conhecido. (HC 348.475/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/08/2017, DJe 28/08/2017)
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do artigo 654, § 2º, do Código de Processo Penal.
+Os Tribunais Superiores têm entendimento no sentido de que, por se tratar de exercício que envolve a apreciação do conjunto probatório e das peculiaridades de cada caso concreto, compete ao magistrado de primeiro grau, secundado pelo Tribunal, em apreciação de eventual recurso de apelação, a análise da situação concreta e, observando os princípios da proporcionalidade e da individualização da pena, fixar a reprimenda adequada.
+Ao julgar writ originário, o eg. Tribunal de Justiça não emitiu qualquer juízo relativo às penas impostas, limitando-se a corroborar as conclusões do magistrado singular acerca da necessidade de manutenção da custódia cautelar e sobre o cabimento do regime inicial fechado. Não há notícia de providência tomada pela defesa no sentido de sanar a omissão indicada.
+Diante desse quadro, a ausência de deliberação pela autoridade impetrada no aresto impugnado impede manifestação deste Superior Tribunal de Justiça sobre o tema, sob pena de indevida supressão de um dos graus de jurisdição.
+Com efeito, a competência deste Superior Tribunal de Justiça está expressamente prevista no art. 105 e incisos da Constituição Federal, exigindo, para conhecimento da matéria trazida em caso de habeas corpus a existência de ato coator de Tribunal sujeito à sua jurisdição ou de quaisquer das outras autoridades elencadas no inciso I, alíneas b e c, da Carta Política, o que não se vislumbra ocorrer na hipótese que se apresenta.
+No mesmo sentido:
+PENAL E PROCESSO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO AO RECURSO PREVISTO NO ORDENAMENTO JURÍDICO. 1. NÃO CABIMENTO. EXAME EXCEPCIONAL QUE VISA A PRIVILEGIAR A AMPLA DEFESA E O DEVIDO PROCESSO LEGAL. (..) 4. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. EXISTÊNCIA DE DUAS TESES. REVOLVIMENTO DE PROVAS. IMPROPRIEDADE DO WRIT. 4. DOSIMETRIA DA PENA. SUPRESSÃO DE INSTÂNCIA. 5. HABEAS CORPUS NÃO CONHECIDO.
+(..)
+4. Tendo o Tribunal de origem reconhecido, motivadamente, que a decisão proferida pelo Tribunal do Júri não se mostrou manifestamente contrária à prova dos autos, não é dado a esta Corte Superior aferir se a decisão possui ou não amparo probatório nos autos. Referida providência demandaria minucioso cotejo fático-probatório, o que é vedado na via estreita do writ.
+5. O pedido de revisão da dosimetria da pena não foi previamente apreciado pelo Tribunal de Justiça, sendo, portanto, vedada sua análise diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+6. Habeas corpus não conhecido. (HC 251.441/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/09/2015, DJe 30/09/2015)
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE DO § 4.º DO ART. 33 DA LEI 11.343/06. PATAMAR MÁXIMO. REGIME INICIAL. MOTIVAÇÃO. MATÉRIAS NÃO ENFRENTADAS PELO TRIBUNAL DE ORIGEM.
+CONHECIMENTO. IMPOSSIBILIDADE.
+1. Esta Corte somente pode conhecer de habeas corpus quando o tema objeto de debate foi enfrentado na origem, sob pena de indevida supressão da instância. In casu, os temas do quantum da minorante do parágrafo quarto do art. 33 da Lei 11.343/06 e a motivação para a escolha do regime inicial de cumprimento de pena não foram debatidos perante o Tribunal a quo. Desta forma, não é viável, amparando-se na amplitude de devolutividade da apelação, querer-se a apreciação deste tema, perante este Tribunal Superior. Tal espectro somente existe em termos de profundidade e, não, de extensão.
+2. Por mais que o habeas corpus seja um dos remédios constitucionais mais importantes, deve o seu emprego submeter-se às hipóteses de cabimento. Ademais, o seu manejo imoderado implica o desrespeito à lógica do sistema recursal, abastardando, ainda, o campo próprio da revisão criminal.
+3. Ordem não conhecida. (HC 214.464/AC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 06/10/2011, DJe 24/10/2011)
+Diante do exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, por se afigurar manifestamente incabível, não conheço deste habeas corpus.
+Publique-se e intimem-se.
