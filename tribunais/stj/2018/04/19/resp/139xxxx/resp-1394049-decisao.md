@@ -1,0 +1,29 @@
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ DESCABIDA. SUPERVENIENTE TRÂNSITO EM JULGADO DOS EMBARGOS DOS EXECUTADOS.
+1. Consoante cediço nesta Corte, mostra-se descabida/desproporcional a condenação da parte por litigância de má-fé apenas por se considerarem protelatórios os primeiros embargos de declaração, com nítido caráter de prequestionamento (REsp 815.018/RS, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 27.04.2016, DJe 06.06.2016).
+2. A insurgência quanto à necessidade de prestação de caução em execução provisória não se revela cognoscível. Isso porque, consoante se extrai do sítio eletrônico da Corte estadual, sobreveio o trânsito em julgado da decisão de improcedência dos embargos dos devedores, não havendo mais que se falar em execução provisória.
+3. Recurso especial parcialmente conhecido e, nessa extensão, provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por Construtora Incon Industrialização da Construção S/A e Outro, com amparo nas alíneas "a" e "c" do permissivo constitucional, objetivando a reforma de acórdão proferido pelo Triubnal de Justiça do Estado de São Paulo, assim ementado:
+ARREMATAÇÃO - Praça - Designação de datas - Embargos opostos à execução julgados improcedentes - Recurso de apelação recebido apenas no efeito devolutivo - Art. 520, V, do CPC - Possibilidade de alienação do domínio do imóvel penhorado desde que seja prestada garantia idônea pelo credor capaz de assegurar ao executado o ressarcimento na hipótese de sair-se ele vitorioso em última instância - Aplicabilidade do art. 568 do CPC - Recurso provido nesta parte.
+IMPENHORABILIDADE - Bem de família - Não caracterização - Inteligência ao art. 3º, inc. V, da Lei nº 8.009/90 - Recurso desprovido.
+Ambas as partes opuseram embargos de declaração. Os do exequente foram acolhidos, com efeitos infringentes, para afastar a obrigação de prestar caução. Por sua vez, o recurso integrativo dos executados foi rejeitado na origem, mantida sua condenação ao pagamento de multa por litigância de má-fé.
+Nas razões do especial, os recorrentes apontam, além de dissídio jurisprudencial, violação dos artigos 14, 17, 18, 165, 458, inciso III, 467, 512, 588, inciso II, todos do CPC de 1973. Sustentam, em síntese: (i) a nulidade do acórdão que lhes impôs a penalidade por litigância de má-fé pela oposição de embargos de declaração; e (ii) ser obrigatória a prestação de caução para a execução provisória da dívida, que se daria por meio da alienação do domínio de imóvel penhorado.
+Apresentadas contrarrazões ao apelo extremo.
+Inadmitido o apelo extremo na origem, os presentes autos ascenderam a esta Corte por força do provimento do Agravo de Instrumento 1.169.924/SP.
+É o relatório. Decido.
+2. Assiste razão aos recorrentes no tocante à multa por litigância de má-fé.
+É que, nos termos da jurisprudência desta Corte, mostra-se descabida/desproporcional a condenação da parte por litigância de má-fé apenas por se considerarem protelatórios os primeiros embargos de declaração, com nítido caráter de prequestionamento (REsp 815.018/RS, Rel. Ministro Raul Araújo, Segunda Seção, julgado em 27.04.2016, DJe 06.06.2016).
+No mesmo sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - COMPLEMENTAÇÃO DE AÇÕES SUBSCRITAS DEFICITARIAMENTE - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL, AFASTADOS A DOBRA ACIONÁRIA E OS JUROS SOBRE CAPITAL PRÓPRIO DO CÁLCULO DA CONDENAÇÃO, POR AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. AFASTADA A MULTA POR LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE CARÁTER PROCRASTINATÓRIO. IRRESIGNAÇÃO DA COMPANHIA TELEFÔNICA.
+(..)
+2. Multa por litigância de má-fé. A oposição de únicos embargos de declaração pela companhia telefônica não evidencia, em princípio, conduta contrária à lealdade e boa-fé processuais, ensejadora da aplicação das sanções previstas nos artigos 18, 538, parágrafo único, do CPC, máxime quando não vislumbrada qualquer peculiaridade em sentido contrário. Ademais, tais penalidades não são de imposição obrigatória pelo simples desprovimento da impugnação recursal (EDcl no AgRg nos EREsp 432.585/SP, Rel. Ministro Gilson Dipp, Corte Especial, julgado em 27.11.2003, DJ 19.12.2003) 3. Agravo regimental desprovido. (AgRg no REsp 1.524.291/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. EXISTÊNCIA. PRETENSÃO DE APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. DESCABIMENTO. ACOLHIMENTO. SANEAMENTO. SEM ALTERAÇÃO DO RESULTADO DE JULGAMENTO.
+1. A litigância de má-fé, passível de ensejar a aplicação da multa e indenização estabelecidas no art. 18 do CPC, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorre na hipótese.
+2. Embargos de declaração acolhidos, tão somente para esclarecer omissão, sem alteração do resultado de julgamento. (EDcl no AgRg no AREsp 658.784/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/03/2016, DJe 07/03/2016)
+Desse modo, deve ser afastada a penalidade imposta aos executados com base nos artigos 17 e 18 do CPC de 1973.
+3. Quanto à necessidade de prestação de caução em execução provisória, não se revela cognoscível a insurgência.
+Isso porque, consoante se extrai do sítio eletrônico da Corte estadual, sobreveio o trânsito em julgado da decisão de improcedência dos embargos dos devedores, não havendo mais que se falar em execução provisória.
+Assim, sobressai a perda de objeto da pretensão recursal no ponto.
+4. Ante o exposto, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento para afastar a condenação dos executados por multa de litigância de má-fé.
+Publique-se. Intimem-se.
