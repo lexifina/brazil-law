@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. INCORPORAÇÃO DA GRATIFICAÇÃO - GEFA AOS PROVENTOS DE APOSENTADORIA. ÓBITO DO AUTOR. APOSENTADORIA CONVERTIDA EM PENSÃO POR MORTE. AGRAVO DE INSTRUMENTO PROVIDO.
+1. Discute-se o direito da agravante, na qualidade de pensionista da autora falecida, de executar valores reconhecidos judicialmente nos autos da ação originária (a título de pagamento de GEFA a Procuradores Federais aposentados), no período entre o óbito da autora (10/04/1999) e a Medida Provisória que extinguiu o direito atai gratificação (junho/2000).
+2. O título executivo judicial reconheceu à autora (falecida em 10/04/1999) o direito à incorporação, aos seus vencimentos, da GEFA desde março/1995, do que se depreende que a mesma teria .direito a tal gratificação até junho/2000 (quando foi extinta "pela Medida Provisória 2.048/2000.
+3. Os valores referentes ao período entre março/1995 e o óbito da demandante são devidos aos seus herdeiros (consoante reconheceu O"Juízo a quo), e à quantia restante (até á extinção da gratificação por medida, provisória) é devida à pensionista daquela (caso da agravante).
+4. Este Tribunal, quando do julgamento de agravo de instrumento interposto pela União contra decisão proferida nos autos de execução em epígrafe (AGTR140969-PE), reconheceu o direito à execução de pensionista de outro autor (também falecido na ação de conhecimento), para recebimento dos valores referentes à GEFA, por entender que a aposentadoria paga ao autor em vida converteu-se em pensão por morte (paga de forma integral).
+5. Agravo de instrumento provido para reconhecer ser devida a execução pela recorrente, na condição de pensionista da autora falecida, dos valores reconhecidos judicialmente na ação originária, no período requerido (11/04/1999 a junho/2000)
+Opostos embargos de declaração, eles foram rejeitados (e-STJ, fls. 240/246).
+A recorrente aponta violação do art. 1.022 do CPC/2015. Alega omissão no julgado quanto ao argumento de que, nele, foram incluídos valores não contemplados no título transitado em julgado.
+Refere contrariedade aos arts. 494 e 502 a 509 do CPC/2015. Aduz que a recorrida não figurou como autora da ação em execução, cujo objeto era a gratificação sobre proventos da falecida servidora. Defende que, na qualidade de herdeira, faz jus apenas aos valores devidos até o falecimento da autora; como pensionista, deve buscar o seu direito na via adequada.
+Contrarrazões às e-STJ, fls. 260/274.
+É o relatório.
+O presente recurso não merece prosperar.
+O Tribunal local assim resumiu a controvérsia (e-STJ, fl. 220):
+O cerne da questão diz respeito ao direito da agravante, na qualidade de pensionista da exequente falecida, de executar valores reconhecidos judicialmente nos autos da ação originária (a título de pagamento de GEFA a Procuradores Federais aposentados), no período entre o óbito da autora (10/04/1999) e a Medida Provisória que extinguiu o direito a tal gratificação (junho/2000).
+Compulsando os autos, observa-se que o título executivo judicial em tela reconheceu a [NOME] o direito à incorporação aos seus vencimentos da GEFA desde março/1995, do que se depreende que a mesma teria direito a tal gratificação até junho/2000 (quando foi extinta pela Medida Provisória 2.048/2000).
+Tendo a autora falecido em 10/04/1999, depreende-se que os valores referentes ao período de março/1995 ao óbito da mesma são devidos aos seus herdeiros (consoante reconheceu o Juízo a quo) e a quantia referente ao período entre o óbito da demandante e junho/2000 (MP 2.048/2000) 4 devido à pensionista daquela (caso da agravante).
+Dessa leitura, extrai-se que, diferentemente do que alega a recorrente, a ação de conhecimento não reconheceu à autora, posteriormente falecida, o direito apenas ao recebimento da gratificação até a data de sua morte, mas até o advento da MP n. 2.048/2000, que extinguiu a vantagem.
+A questão estabelecida, portanto, foi a legitimidade da recorrida para a execução, visto que o crédito perseguido já havia sido reconhecido judicialmente. O colegiado posicionou-se positivamente, consignando (e-STJ, fl. 222):
+Assim seguindo a mesma linha de entendimento adotada por este egrégio Tribunal quando do julgamento de feito semelhante (relativo à situação de pensionista de outro autor da ação originária), tem-se que se reconhecer o direito da ora agravante de executar os valores reconhecidos judicialmente a título de GEFA entre a data do óbito da servidora falecida e a extinção da referida gratificação, consoante requerido perante o Juízo a quo.
+Vale ressaltar que não está a agravante, no presente feito, a pleitear a revisão do valor atual de sua pensão por morte, nem o recebimento dos valores reconhecidos judicialmente nos autos dó processo originário que não foram pagos à autora, referente ao período em que a mesma estava viva (entre março/1995 e 10/04/1999), estes devidos a todos os herdeiros da demandante.
+A pretensão da recorrente é o recebimento dos valores reconhecidos judicialmente referentes ao período entre o óbito da autora e a extinção da graficação por medida provisória (entre 11/04/1999 e junho/2000), os quais se tratam da execução do título executivo da ação em epígrafe, e são devidos apenas à pensionista daquela (situação da recorrente).
+Verifica-se, portanto, que o aresto é suficientemente fundamentado. O que se vislumbra, na verdade, é o mero inconformismo da insurgente com o resultado do julgamento.
+Inviável o conhecimento da assertiva de violação dos arts. 494 e 502 a 509 do CPC/2015. Afinal, para se afirmar a inobservância da coisa julgada, seria necessário desfazer a premissa fática estabelecida pela instância inferior, providência impossível sem o reexame dos documentos constantes do autos, vedado pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA Nº 7/STJ. PROCESSUAL CIVIL. LAUDO PERICIAL. HOMOLOGAÇÃO. VALORES. COISA JULGADA. VIOLAÇÃO. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Verificar a ocorrência de violação da coisa julgada, afastada pelo tribunal de origem, demanda o reexame do acervo fático-probatório dos autos (Súmula nº 7/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.066.605/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/3/2018, DJe 27/3/2018)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
