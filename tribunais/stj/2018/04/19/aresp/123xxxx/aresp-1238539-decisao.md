@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo manejado sob a égide do CPC/2015, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 504):
+APELAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. PRESTAÇÃO DE CONTAS DE GESTOR AO TRIBUNAL DE CONTAS DOS MUNICÍPIOS DO CEARÁ. POSSIBILIDADE DE ANÁLISE DA LEGALIDADE DO ATO ADMINISTRATIVO PELO JUDICIÁRIO. IMPOSSIBILIDADE DE ANÁLISE DO MÉRITO. OBSERVÂNCIA DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. VÁRIAS TENTATIVAS SEM SUCESSO DE INTIMAÇÃO DO INTERESSADO POR AR. INTIMAÇÃO POR EDITAL. AUSÊNCIA DE VÍCIOS QUE COMPROMETAM O ACÓRDÃO. SENTENÇA MANTIDA.
+1 O apelante insurgiu-se em face da sentença proferida pelo juízo de primeiro grau que julgou improcedente o pedido exordial de anulação de débito fiscal, por entender que o crédito fora regularmente inscrito em dívida ativa, possuindo a respectiva certidão todos os elementos indispensáveis à sua validade, conforme previsto no §5º do artigo 2º da Lei de Execuções Fiscais.
+2 - O Superior Tribunal de Justiça possui entendimento no sentido de que os embargos à execução fiscal não constituem o único meio de se insurgir judicialmente contra o Fisco, porquanto pode também o executado se valer, na via ordinária, das ações declaratórias e anulatórias de débito fiscal. A relação de prejudicialidade existente entre a ação anulatória e a execução fiscal leva à existência de conexão entre as referidas demandas.
+3 - As decisões dos Tribunais de Contas possuem natureza administrativa, e como tal, devem sofrer controle jurisdicional apenas no que tange à legalidade.
+4 - O período objeto da prestação de contas em questão foi exatamente aquele em que o apelante atuou na gestão da fundação. O processo nº 19.945/99 refere-se ao interstício de 1º de janeiro a 30 de junho de 1999; e, por sua vez, o processo nº 4017/99 tratou das contas referentes a 19 de junho a 31 de dezembro de 1998.
+5 - No que tange à existência ou não da ampla defesa e do contraditório no processo que deu origem ao acórdão do TCM, analisando os documentos colacionados ao apelo, percebe-se nitidamente que os princípios constitucionais foram devidamente atendidos.
+6 APELAÇÃO CONHECIDA E DESPROVIDA.
+Nas razões do recurso especial, a parte agravante sustenta que "foram agredidos os Princípios Constitucionais da ampla defesa, contraditório e do devido processo legal, consoante o que prescreve o artigo 5º, incisos, XXXV, LIV e LV da Constituição Federal" (fl. 523).
+Foi determinada a intimação da parte agravante (fls. 598/599) para que demonstrasse a existência de repercussão geral, nos termos do art. 1.032, caput, do CPC/2015.
+Em atendimento, a parte agravante apresentou às fls. 603/606.
+É o relatório.
+Segundo o disposto no caput do art. 1.032 do CPC/2015, tratando o recurso especial sobre questão constitucional, deverá o relator conceder prazo para que a parte recorrente demonstre a existência de repercussão geral e se manifeste sobre o tema constitucional.
+Cumprida a diligência (fls. 598/599), o recurso deverá ser remetido ao Supremo Tribunal Federal, a quem caberá o juízo de admissibilidade, podendo, inclusive, devolver os autos para esta Corte.
+Assim, em cumprimento à determinação contida no parágrafo único do art. 1.032 do CPC/2015, remetam-se os autos ao Supremo Tribunal Federal.
+Publique-se.
