@@ -1,0 +1,59 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO ESTADUAL. INEXISTÊNCIA. PLANO DE SAÚDE. PROCEDIMENTO ESTÉTICO NÃO COBERTO. RECUSA DEVIDA. TESE DO RECURSO ESPECIAL QUE DEMANDA REEXAME DE CLÁUSULAS CONTRATUAIS E DE CONTEXTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULAS Nº 5 E 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+3. A tese defendida no recurso especial demanda reexame de cláusulas contratuais e do contexto fático e probatório dos autos, vedados pelas Súmulas nº 5 e 7/STJ.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão por meio da qual neguei provimento ao agravo em recurso especial.
+A parte agravante, em seu recurso, reiterou as razões contidas no especial, de que o Tribunal de origem foi omisso ao não reconhecer que houve indevida negativa de cobertura apta a causar danos morais à parte recorrente.
+A parte agravada, regularmente intimada, pugnou pelo não conhecimento do recurso, com majoração de honorários, e pela aplicação de multa.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os frágeis argumentos desenvolvidos pelo agravante não têm plausibilidade jurídica para infirmar a conclusão adotada, porque em nenhum momento foi desenvolvido raciocínio no sentido de demonstrar incorreção da decisão agravada, tendo apenas reiterado os argumentos contidos no recurso especial.
+Como salientado, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, saliento que o Tribunal de origem enfrentou expressamente as questões levantadas pela recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado pelo recorrente.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. ERRO MÉDICO. DANOS MORAIS. MATÉRIA DE FATO. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ. CPC. ART. 535. VIOLAÇÃO. NÃO OCORRÊNCIA.
+1. Não ofende o art. 535 do CPC a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 829.006/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/09/2015, DJe 28/09/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/02/2016, DJe 01/03/2016)
+Ademais, fica evidente a intenção de análise de cláusulas contratuais e de reexame do contexto fático-probatório dos autos.
+Da leitura dos autos, verifico que o Tribunal de origem, ao analisar as circunstâncias contidas nos autos, o conjunto fático-probatório produzido e o contrato firmado entre as partes, consignou expressamente que a negativa de cobertura foi devida, visto que o tratamento de clareamento dental era estético e, portanto, não abarcado pelo plano contratado junto à parte recorrida, conforme se depreende da leitura do seguinte trecho (fls. 207/209 e-STJ):
+"A sentença não merece reforma.
+Em primeiro lugar, inconteste que o autor, ao buscar atendimento odontológico em razão de "dor latente no dente de fundo e inchaço na adjacência da gengiva", e tendo a ré negado cobertura, sob a alegação de que não havia sido cumprido o período de carência, ajuizou ação que tramitou perante a 44ª Vara Cível Central, tendo sido proferida sentença de procedência, com a condenação da ré a garantir o procedimento cirúrgico e de canal e mais o pagamento de indenização por danos morais, no montante de R$ 10.000,00 (fls. 46/50).
+Mas certo também que, na presente demanda, o autor pretende ainda o cumprimento total de decisão da ação anteriormente proposta, pois relata tratamento de endodontia para cessação de dor de dente. E, nesta medida, deve realmente postular no juízo da condenação. Com efeito, não cabe nesta ação a exigência de cumprimento de sentença de ação anteriormente proposta.
+De resto, verifica-se que, no documento acostado a fls. 54, háprescrição de tratamento de canal e extração, mas, como bem salientado pelo MM. Juízo a quo, ao que tudo indica, inclusive pela data em que foi firmado (09/05/2015), refere-se bem ao tratamento já pleiteado pelo autor no processo que moveu anteriormente.
+Depois, mesmo o clareamento dental pretendido pelo autor e que afirma coberto pela cláusula 11 do contrato é o "clareamento de dente desvitalizado" (cláusula 12.2.2 item 11 fls. 141/142), ou seja, clareamento de dente após o tratamento de canal.
+Mas veja-se que o autor narra em sua inicial ocorrência e pretensão diversas. Diz ele que a ré "providenciou procedimento de limpeza, restauração e extração de dente, o qual, caso a ré mandasse adotar os cuidados em momento a que foi oficialmente comunicada, poderia ser recuperado, alegando que para o tratamento de endodontia, haveria necessidade de colocar um dispositivo denominado "coroa", a fim de dar sustentação a restauração, e esse dispositivo o convênio não fazia cobertura, muito menos colocação de próteses dentárias." (fls. 2/3).
+Portanto, houve extração do dente e o autor pleiteia agora o clareamento dental para a retirada de manchas extrínsecas, derivadas de substâncias ou alimentos que coram a superfície dos dentes e também manchas intrínsecas originadas quando da formação dos dentes (fls. 3).
+Insista-se, algo diferente do clareamento que o contrato prevê e cuja finalidade, nos termos narrados, é mesmo estética, o que o ajuste não cobre.
+No tocante ao fornecimento de prótese dentária ou coroa, o autor não laborou maior especificação, nem mesmo de quais os dentes afetados, tampouco demonstrou requerimento e negativa da operadora.
+E, neste contexto, não cabia mesmo qualquer cogitação de danos morais.
+Assim, a improcedência era de rigor."
+Dessa forma, reitero que a alteração das conclusões firmadas pelo acórdão estadual esbarraria, necessariamente, nas vedações de análise de cláusulas contratuais e de reexame do conjunto fático-probatório por esta via do recurso especial, em virtude dos óbices contidos nas Súmulas nº 5 e 7, do STJ:
+PROCESSUAL CIVIL. CIVIL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO. PROMESSA DE COMPRA E VENDA. IMÓVEL QUE NÃO CUMPRE AS ESPECIFICAÇÕES CONTRATUAIS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. CONTROVÉRSIA DIRIMIDA À LUZ DO CONTRATO E DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REEXAME. INVIABILIDADE. SÚMULAS NºS 283 E 284 DO STF E 5 E 7 DO STJ. RECURSO INCAPAZ DE MODIFICAR AS CONCLUSÕES DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme destacado na decisão ora agravada, a linha argumentativa desenvolvida nas razões do apelo nobre é incapaz de demonstrar o efetivo malferimento dos dispositivos legais tidos por violados, além de se mostrar dissociada da fundamentação adotada pela Corte estadual, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284 do STF 2. A argumentação lançada no recurso desafia a moldura fático-probatória estabelecida no acórdão recorrido, voltando-se contra a interpretação do contrato firmado entre as partes, cotejado com os demais elementos de convicção dos autos, exigindo o reexame da solução adotada, o que é inviável em recurso especial, de acordo com as Súmulas nºs 5 e 7, desta Corte.
+3. Não tendo o Tribunal estadual reconhecido o suporte fático invocado pela recorrente, inexorável a conclusão sobre a necessidade de revolvimento dos elementos de convicção dos autos para a alteração do julgamento realizado na origem, procedimento sabidamente vedado em recurso especial.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo regimental não provido.
+(AgRg no AREsp 756.686/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 04/02/2016, DJe 15/02/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO. COBRANÇA. AÇÃO ORDINÁRIA. PRELIMINARES DE FALTA DE DOCUMENTOS ESSENCIAIS E DE ILEGITIMIDADE ATIVA. REJEIÇÃO PELO JUÍZO DE PRIMEIRO GRAU. VIOLAÇÃO AOS ARTS. 37, 396 E 397 DO CPC. FUNDAMENTOS SUFICIENTE INATACADOS. SÚMULA 283/STF. VIOLAÇÃO AO ART. 661 DO CC. EXAME. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. PRESCRIÇÃO. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO. PRAZO. CINCO ANOS.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF).
+2. A reversão do entendimento adotado pela Corte a quo demandaria, além do revolvimento do conjunto fático e probatório constantes dos autos - o que é inviável a teor da Súmula 7/STJ, a análise das cláusulas do instrumento de constituição do consórcio, o que também é vedado na via recursal eleita pela Súmula 5/STJ.
+3. A jurisprudência desta Corte é no sentido de que o prazo prescricional aplicável à pretensão dirigida contra empresa estatal prestadora de serviço público é de cinco anos.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1300567/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/06/2015, DJe 10/06/2015)
+Em que pese o não provimento do agravo interno, a sua interposição, por si só, não pode ser considerada como protelatória ou como litigância de má-fé, de modo que incabível, por ora, a aplicação de penalidade à parte que exerce regularmente faculdade processual prevista em lei (EDcl no AgInt nos EAREsp 782.294/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/12/2017, DJe 18/12/2017).
+Por fim, tendo a decisão de admissibilidade sido proferida já na vigência do novo diploma processual e à luz do disposto no art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
