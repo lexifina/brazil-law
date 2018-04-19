@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO TENTADO. VIOLAÇÃO DO ART. 155 DO CP. CONCURSO DE PESSOAS. COMPORTAMENTO REPROVÁVEL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+1. Em consonância com o quanto decidido pelo Tribunal de origem, para o reconhecimento da bagatela, não basta que fique constatado o ínfimo valor da coisa subtraída, impõe-se, igualmente, a análise de outras questões relacionadas ao agente e às circunstâncias do delito.
+2. As instâncias ordinárias decidiram em conformidade com a jurisprudência desta Corte ao afastar a incidência do privilégio, tendo em vista o reconhecimento da qualificadora do concurso de agentes.
+3. Nos termos da jurisprudência pacífica deste Tribunal Superior a prática do delito de furto qualificado por escalada, arrombamento, rompimento de obstáculo ou concurso de agentes, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância (AgRg no AREsp n. 1.204.004/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 8/3/2018).
+4. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido da impossibilidade de aplicação do princípio da insignificância nos casos, como o dos autos, de furto cometido com rompimento de obstáculo ou em concurso de agentes, bem como quando o agente é reincidente delitivo, uma vez que, nesses casos, denota-se uma maior reprovabilidade da conduta (AgRg no AREsp n. 548.459/MS, Ministro Jorge Mussi, Quinta Turma, DJe 16/2/2018).
+5. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Maria Thereza de Assis Moura votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por [NOME] contra a decisão que negou provimento ao recurso especial por ela apresentado (fls. 523/528):
+RECURSO ESPECIAL. PENAL. FURTO QUALIFICADO TENTADO. VIOLAÇÃO DO ART. 155 DO CP. CONCURSO DE PESSOAS. COMPORTAMENTO REPROVÁVEL. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+Recurso especial desprovido.
+Alega a agravante que, não obstante reconheça  ..  o entendimento dos Tribunais Superiores de forma uníssona de que não incide o princípio da insignificância em crime de furto qualificado, fl. 538, impõe-se o afastamento da jurisprudência dominante, que veda a aplicação do princípio da insignificância ao furto qualificado, diante da excepcionalidade do caso, e da satisfação completa, ainda que em furto qualificado, dos seguintes vetores: (a) mínima ofensividade da conduta do agente; (b) ausência de periculosidade social da ação; (c) reduzidíssimo grau de reprovabilidade do comportamento; e (d) inexpressividade da lesão jurídica provocada (fl. 539).
+Pede a reconsideração da decisão agravada, a fim de que seja provido o recurso especial.
+Foi dispensada a oitiva da parte agravada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A insurgência não merece prosperar.
+No que diz respeito à aplicação do princípio da insignificância, a despeito de os bens encontrados em posse da agravante, 10 peças de vestuário, 4 iogurtes, 1 pão de frutas, 1 bolo e 2 latas de suco, terem sido recuperados (fls. 1/2), o que impõe o reconhecimento da ínfima lesividade da conduta narrada na exordial acusatória, é forçoso anotar que a incidência do referido postulado se afigura inviável no caso em tela.
+Em consonância com o quanto decidido pelo Tribunal de origem, para o reconhecimento da bagatela, não basta que fique constatado o ínfimo valor da coisa subtraída, impõe-se, igualmente, a análise de outras questões relacionadas ao agente e às circunstâncias do delito, caso contrário, acabar-se-ia por admitir que os meliantes fizessem de tais condutas criminosas um meio de vida, trazendo intranquilidade à população, com a certeza de que sairiam impunes, amparados pelo princípio da insignificância, sem contar que seria um estímulo à delinquência.
+Desse modo, na espécie, as instâncias ordinárias decidiram em conformidade com a jurisprudência desta Corte ao afastar a incidência do privilégio, tendo em vista o reconhecimento da qualificadora do concurso de agentes (fl. 435).
+A corroborar, precedentes de ambas as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça:
+ ..
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 386, III, DO CPP. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. REITERAÇÃO DELITIVA. VALOR DO BEM QUE NÃO É ÍNFIMO. ACÓRDÃO RECORRIDO DE ACORDO COM O ENTENDIMENTO DO STJ. SÚMULA 568/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A Terceira Seção desta Corte Superior, no julgamento dos EAREsp nº 221.999/RS, firmou "a orientação no sentido de que a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem que a medida é socialmente recomendável".
+2. Nos termos da jurisprudência pacífica deste Tribunal Superior a prática do delito de furto qualificado por escalada, arrombamento, rompimento de obstáculo ou concurso de agentes, indica a especial reprovabilidade do comportamento e afasta a aplicação do princípio da insignificância.
+3. Consoante entendimento deste Superior Tribunal de Justiça, não pode ser considerada insignificante a subtração de uma bicicleta, um ventilador e uma faca, avaliados em R$110,00 (cento e dez reais), correspondente à época dos fatos, 25.12.2015, a mais de 13% do salário mínimo vigente, que perfazia R$ 788,00 (setecentos e oitenta e oito reais), mormente quando constatada a habitualidade delitiva e a prática do crime na sua forma qualificada.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 1.204.004/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 8/3/2018 - grifo nosso)
+REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO E CONCURSO DE AGENTES. REINCIDÊNCIA DELITIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. RELEVÂNCIA PENAL DA CONDUTA. INSURGÊNCIA DESPROVIDA.
+1. A aplicação do princípio da insignificância, causa excludente de tipicidade material, admitida pela doutrina e pela jurisprudência em observância aos postulados da fragmentariedade e da intervenção mínima do Direito Penal, demanda o exame do preenchimento de certos requisitos objetivos e subjetivos exigidos para o seu reconhecimento, traduzidos no reduzido valor do bem tutelado e na favorabilidade das circunstâncias em que foi cometido o fato criminoso e de suas conseqüências jurídicas e sociais.
+2. A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido da impossibilidade de aplicação do princípio da insignificância nos casos, como o dos autos, de furto cometido com rompimento de obstáculo ou em concurso de agentes, bem como quando o agente é reincidente delitivo, uma vez que, nesses casos, denota-se uma maior reprovabilidade da conduta.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 548.459/MS, Ministro Jorge Mussi, Quinta Turma, DJe 16/2/2018 - grifo nosso)
+ ..
+Portanto, o fato de a lesividade da conduta ter sido considerada ínfima não afasta, no caso e por si só, a tipicidade do delito.
+Ante o exposto, nego provimento ao agravo regimental.
