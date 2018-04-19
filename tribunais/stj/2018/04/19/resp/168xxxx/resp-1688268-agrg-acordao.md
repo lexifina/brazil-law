@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSO PENAL. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO PENDENTE DE JULGAMENTO. APRECIAÇÃO DO ESPECIAL. POSSIBILIDADE. MATÉRIA NÃO ARGUIDA EM CONTRARRAZÕES. PRECLUSÃO. PORTE DE MUNIÇÃO. CRIME DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A questão relativa a necessidade de enfrentamento da matéria constitucional arguida em recurso extraordinário pendente de julgamento, antes da apreciação do presente apelo raro, não foi declinada por ocasião das contrarrazões ao recurso especial, sendo obstado seu conhecimento no bojo de agravo regimental pelo óbice intransponível da preclusão.
+2. Inexiste ilegalidade na análise por este Tribunal do tema - porte de munição/crime de perigo abstrato - , antes da apreciação do extraordinário pendente de julgamento. Nem mesmo quando a matéria é reconhecida como de repercussão geral pelo Supremo Tribunal Federal - o que não é o caso dos autos - há impedimento de julgamento do recurso especial.
+3. "O simples porte de arma de fogo, acessório ou munição, por si só, coloca em risco a paz social, porquanto o instrumento, independentemente de sua potencialidade lesiva, intimida e constrange as pessoas, o que caracteriza um delito de perigo abstrato. O tipo penal visa à proteção da incolumidade pública, não sendo suficiente a mera proteção à incolumidade pessoal" (AgRg no REsp n. 1.434.940/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 4/2/2016).
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental contra decisão que deu provimento ao recurso especial do MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL para determinar o recebimento da denúncia contra ELISANDRO ANTUNES DE RAMOS pela prática de delito previsto no art. 14, caput, da Lei 10.826/2003.
+O agravante, nas razões regimentais, argumenta que "considerando-se que o v. acórdão atacado no recurso especial foi embasado também no princípio da proporcionalidade, o que inclusive se observa da ementa transcrita na r. decisão ora agravada, e o afastamento do respectivo fundamento constitucional compete ao Supremo Tribunal Federal, tanto que interposto recurso extraordinário, também admitido na origem, ainda pendente de apreciação." (e-STJ fls. 203)
+Aduz, ainda, que o STF recentemente aplicou o princípio da insignificância para absolver réu que portava 1 cartucho calibre 0.40 em razão do reconhecimento da ausência de perigo concreto da conduta.
+Requer, assim, a reconsideração da decisão agravada ou que o presente recurso seja levado para apreciação da Turma competente.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo não comporta conhecimento.
+Isso porque, a questão relativa a necessidade de enfrentamento da matéria constitucional arguida em recurso extraordinário pendente de julgamento antes da apreciação do presente apelo raro, não foi declinada por ocasião das contrarrazões ao recurso especial, sendo obstado seu conhecimento no bojo de agravo regimental pelo óbice intransponível da preclusão.
+A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGADA AUSÊNCIA DE IMPUGNAÇÃO AO PRINCÍPIO DA PROPORCIONALIDADE NO RECURSO ESPECIAL. PRETENSA APLICAÇÃO DAS SÚMULAS 126/STJ E 283/STF. TEMA NÃO SUSCITADO NAS CONTRARRAZÕES AO RECURSO ESPECIAL. POSSE ILEGAL DE MUNIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1.A pretensa aplicação das Súmulas 126/STJ e 283/STF não foram declinados por ocasião das contrarrazões ao recurso especial, não havendo, pois, como enfrentá-los por ora, dada a existência do óbice intransponível da preclusão consumativa.
+2. Ainda que assim não fosse, a mera menção ao princípio da proporcionalidade na ementa do acórdão proferido na origem não é argumento constitucional autônomo, porquanto a alusão ao citado princípio ocorreu retoricamente, isto é, obter dictum, sem acréscimo de fundamentação concreta quanto ao ponto. Inviável, pois, a incidência dos verbetes sumulares 126/STJ e 283/STF para obstar o recurso especial da parte adversa.
+3. O Superior Tribunal de Justiça firmou o entendimento de que o delito do artigo 14 da Lei n. 10.826/2003 busca tutelar a segurança pública, colocada em risco com a posse ou porte de arma, acessório ou munição à revelia do controle estatal, não impondo à sua configuração o resultado naturalístico ou efetivo perigo de lesão.
+4.Agravo regimental desprovido. (AgRg no REsp 1671508/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2017, DJe 18/10/2017)
+Ademais, sem razão o agravante quando sustenta que o recebimento da denúncia por esta Corte, somente pode ocorrer após o julgamento pelo Supremo Tribunal Federal do recurso extraordinário em que se alega violação do princípio constitucional da proporcionalidade.
+Ora, nem mesmo quando a matéria é reconhecida como de repercussão geral pelo Supremo Tribunal Federal - o que não é o caso dos autos - há impedimento de julgamento do recurso especial. Inexiste, portanto, ilegalidade na análise por este Tribunal do tema - porte de munição/crime de perigo abstrato - , antes da apreciação do extraordinário pendente de julgamento.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. CONDENAÇÃO ANTERIOR PELO CRIME DE USO DE ENTORPECENTES. RÉU REINCIDENTE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. PEDIDO DE SOBRESTAMENTO DO FEITO ATÉ O JULGAMENTO DO TEMA PELO STF. INADMISSIBILIDADE. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, embora tenha havido a despenalização do porte de drogas para consumo próprio com o advento da Lei n. 11.343/2006, a conduta descrita no art. 28 da Lei n. 11.343/2006 permanece criminalizada, razão pela qual a existência de condenação transitada em julgado por tal delito afasta a incidência da causa de diminuição do art. 33, § 4º, da Lei de Drogas, pela falta do preenchimento dos requisitos legais (réu não reincidente).
+2. "É assente na jurisprudência desta Corte Superior que o reconhecimento de repercussão geral pelo Supremo Tribunal Federal sobre a matéria objeto do recurso especial não impede o seu julgamento, mas tão-somente o sobrestamento de eventual recurso extraordinário a ser interposto" (AgRg nos EDcl no AREsp 564.056/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 08/03/2016, DJe 16/03/2016).
+3. Agravo regimental não provido. (AgRg no REsp 1608398/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 01/12/2016, DJe 07/12/2016)
+Por outro lado, o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que merece ser integralmente mantida, nos termos a seguir transcritos (e-STJ fls. 193/196):
+O MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL interpõe recurso especial, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local assim ementado (e-STJ fl. 102):
+APELAÇÃO CRIMINAL. PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. ART. 14, CAPUT, DA LEI N. 10.826/03. QUANTIDADE ÍNFIMA. FATO INEXPRESSIVO. ATIPICIDADE. REJEIÇÃO DA DENÚNCIA MANTIDA.
+1. O porte ilegal de munição é crime de perigo abstrato e de mera conduta, mostrando-se prescindível a demonstração de perigo concreto. Precedentes. Na esteira do entendimento dos Tribunais, em especial o STF, não são inconstitucionais os crimes de perigo abstrato, a exemplo daqueles previstos na Lei 10.826/03, que teve sua constitucionalidade assentada na ADI 3.112/DF.
+2. Porte de dois cartuchos de uso permitido. Ausência de proporcionalidade na incriminação. Precedentes da Câmara.
+RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, o representante do Parquet sustenta negativa de vigência ao art. 14 da Lei n. 10.826/2003 e contrariedade ao art. 395, II, do Código de Processo Penal. Aduz, em suma, que o porte de munição é crime de perigo abstrato, sendo irrelevante a quantidade de munição apreendida.
+Contra-arrazoado (e-STJ fls. 147/151), o recurso foi admitido (e-STJ fls. 159/167), manifestando-se o Ministério Público Federal, nesta instância, pelo seu provimento (e-STJ fls. 183/188).
+É o relatório. Decido.
+O recurso é tempestivo e a matéria foi devidamente prequestionada.
+Inicialmente, registre-se que, nos termos da Súmula n. 568 desta Corte, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Assiste razão ao recorrente.
+A jurisprudência desta Corte Superior consolidou-se no sentido de que "o simples porte de arma de fogo, acessório ou munição, por si só, coloca em risco a paz social, porquanto o instrumento, independentemente de sua potencialidade lesiva, intimida e constrange as pessoas, o que caracteriza um delito de perigo abstrato. O tipo penal visa à proteção da incolumidade pública, não sendo suficiente a mera proteção à incolumidade pessoal" (AgRg no REsp n. 1.434.940/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 4/2/2016).
+A propósito, os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ATIPICIDADE DA CONDUTA. CRIME DE PERIGO ABSTRATO. I - O crime de porte irregular de arma de fogo de uso permitido (art. 14 da Lei n. 10.826/2003) é crime de perigo abstrato, dispensando-se prova de efetiva situação de risco ao bem jurídico tutelado.
+II - "O simples porte de arma de fogo, acessório ou munição, por si só, coloca em risco a paz social, porquanto o instrumento, independentemente de sua potencialidade lesiva, intimida e constrange as pessoas, o que caracteriza um delito de perigo abstrato. O tipo penal visa à proteção da incolumidade pública, não sendo suficiente a mera proteção à incolumidade pessoal" (AgRg no REsp n. 1.434.940/GO, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 4/2/2016).
+Agravo regimental não provido. (AgRg no AREsp 1065328/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 17/10/2017, DJe 23/10/2017)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. POSSE ILEGAL DE MUNIÇÃO RELATIVA A ARMA DE USO RESTRITO. CRIME DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os crimes previstos nos art. 12, 14 e 16 da Lei 10.826/2003 são de perigo abstrato, razão pela qual é desnecessária a comprovação de prejuízo para a configuração do ilícito e incabível a aplicação do princípio da insignificância.
+2. Recurso ordinário improvido. (RHC 65.385/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/12/2015, DJe 10/12/2015)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. ART. 12 DA LEI N. 10.826/03. CRIME DE PERIGO ABSTRATO.
+O crime de posse ilegal de munição de uso permitido, tipificado no art. 12 da Lei n. 10.826/03, é de perigo abstrato ou de mera conduta, e visa proteger a segurança pública e paz soc"ial. Sendo assim, é irrelevante a quantidade de munição apreendida, uma vez que o delito se configura com a simples posse em desacordo com a legislação (precedentes).
+Agravo regimental desprovido. (AgRg no REsp 1527882/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/06/2015, DJe 17/08/2015)
+Logo, típica a conduta do recorrido em portar dois cartuchos intactos, de calibre .36, em desacordo com determinação legal e regulamentar, merecendo reforma do acórdão recorrido por encontrar-se em desconformidade com a jurisprudência deste Tribunal Superior.
+Ante o exposto, com fulcro no art. 932, VIII, do CPC, c/c art. 255, §4º, III, do RISTJ, dou provimento ao recurso para determinar o recebimento da denúncia contra ELISANDRO ANTUNES DE RAMOS pela prática de delito previsto no art. 14, caput, da Lei 10.826/2003.
+Publique-se. Intimem-se.
+Ante o exposto, não conheço do agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
