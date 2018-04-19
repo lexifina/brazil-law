@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DE MINAS GERAIS com fundamento no art. 105, III, "a", CF, aduzindo violação ao art. 111, LEP, art. 75, CP.
+Busca-se com o recurso especial que seja reconhecida a data do trânsito em julgado da última condenação criminal como marco para contagem dos benefícios carcerários.
+O parecer do MPF foi pelo provimento do recurso especial (fls. 424/427).
+É o relatório.
+Decido.
+Do acórdão recorrido verifica-se que foi considerada como marco para contagem dos benefícios legais durante a execução da pena a data da última prisão (fl. 300/315):
+O douto Juiz da Vara de Execuções Penais, através da decisão de f. 161/163, unificou as penas do Sentenciado, somando a nova condenação ao restante da pena em cumprimento, fixou o regime de cumprimento de pena no fechado, bem como fixou o marco inicial para a concessão de futuros benefícios a data da publicação da última sentença condenatória, qual seja, 23/07/2015, com base no Incidente de Uniformização da Jurisprudência nº 1.0704.09.136730-7/002, deste Eg.TRIBUNAL DE JUSTIÇA.
+Analisando os fundamentos insertos na decisão hostilizada, tenho que esta merece reparo. Explico:
+Cediço que o art. 111 da Lei 7.210/84 refere-se somente ao regime de cumprimento de pena, em caso de unificação de guias de execução, não especificando o marco inicial para a contagem de prazo visando à obtenção de benefícios, in verbis:
+(..)
+Diante deste cenário, a jurisprudência pátria, embora não seja pacífica, vem procurando preencher esta lacuna legal.
+Dessa forma, surgiram três (03) posicionamentos acerca do marco inicial para a obtenção de benefícios, quais sejam: a) data da decisão que unificou as penas: b) data do trânsito em julgado da última Sentença Condenatória; c) data da última prisão do reeducando.
+Dentre os diversos posicionamentos firmados, filio-me à corrente que reconhece a data da última prisão como marco inicial para obtenção de futuros benefícios.
+A adoção de tal critério evita que seja desconsiderado o lapso temporal compreendido até a data da decisão que unificou as penas, o que se revela mais justo e razoável.
+Com efeito, a fixação de marco inicial diverso para a obtenção de novos benefícios, mostra-se desarrazoado, uma vez que não leva em consideração o período de cumprimento de pena compreendido desde a última prisão, ou do agravamento da situação fática prisional do acusado, até aquele marco.
+Não se pode olvidar que o direito penal e processual penal possui como base principiológica a atuação jurisdicional sempre em favor do réu e, com mais razão, quando se tratar de matéria atinente à execução da pena, etapa essa ressocializadora e de reintegração dos detentos à sociedade, não sendo, portanto, razoável a adoção de marco inicial que agrava a situação do condenado.
+Entendimento diverso, inclusive, violaria o princípio da isonomia, já que ao se adotar a data da decisão que unificou as penas, como marco inicial para a obtenção de novos benefícios, dois casos idênticos, envolvendo condenados distintos, poderiam ter resultados diferentes, já que estes ficaram ao talante da celeridade do juízo em que tramitam seus feitos.
+De fato, o reeducando não pode arcar com uma condição desfavorável na execução penal em razão de circunstância a que não deu causa, sendo certo que ele não pode cumprir parte da pena em regime mais gravoso em razão do vagaroso trâmite processual.
+Pode-se cogitar, ainda, em ofensa ao princípio da ampla defesa, uma vez que o réu pode vir, inclusive, a não recorrer de uma decisão que lhe seja desfavorável, a fim de não permanecerem uma situação prisional mais gravosa.
+Assim, em razão dos argumentos esposados, deve ser considerada, como data - base para a obtenção de novas benesses, a data da última prisão do reeducando.
+(..)
+Dessa forma, no caso sub judice, deverá ser considerado, como marco inicial para a obtenção de benefícios futuros,a data da última prisão do Sentenciado, ou seja, 13/12/2013 (f.159/160).
+(..)
+Em que pese o judicioso parecer da douta Procuradoria-Geral de Justiça, tenho que, pelos fundamentos expostos alhures, a data base para a obtenção de novas benesses deverá ser tida como a data da última prisão do reeducando, que no caso é 13/12/2013,conforme Atestado de Pena de f. 159/160.
+A questão foi submetida a julgamento pela Terceira Seção, no REsp 1.557.461/SC, de relatoria do Ministro ROGERIO SCHIETTI CRUZ, na sessão de 22/2/2018, oportunidade em que se firmou a orientação de que a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem, adotando-se, assim, como data-base da unificação a data da prisão provisória, única ou última, nos termos da seguinte ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018).
+Impõe-se, portanto, a manutenção do acórdão recorrido, incidindo, no ponto, o óbice contido na Súmula 83/STJ - também empregado em recursos interpostos com fulcro na alínea a do permissivo constitucional -, segundo a qual: Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
