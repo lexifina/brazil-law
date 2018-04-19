@@ -1,0 +1,14 @@
+DECISÃO
+FABRICIO FERREIRA SCHUSTER, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n. 0103638-40.2016.8.26.0050.
+Consta dos autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, porque guardava, para fins de entrega a consumo de terceiros, 250 porções de cocaína (peso líquido de 342 g), bem como 462 porções de maconha, além de outras porções dessa mesma substância entorpecente (com peso líquido total de 1.218,1 g).
+A impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que as instâncias ordinárias não fundamentaram, concretamente, a necessidade de imposição do regime inicial mais gravoso.
+Requer, liminarmente e no mérito, seja fixado o regime inicial semiaberto de cumprimento de pena.
+A liminar foi indeferida e, ante a suficiente instrução do processo, foram dispensadas informações.
+O Ministério Público Federal opinou pela manutenção da decisão impugnada.
+Decido.
+O Juiz sentenciante impôs o regime mais gravoso "nos termos do disposto no artigo 33, § 3º e § 2º, "a" do Código Penal e artigo 387, § 2º do Código de Processo Penal, considerando-se as circunstancias desfavoráveis" (fl. 20).
+Imperioso salientar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Na dicção do art. 33, § 2º, "b", do Código Penal, "o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semiaberto".
+Contudo, apesar de haver sido o réu condenado à pena de 6 anos de reclusão, mesmo que afastada a obrigatoriedade do regime fechado, noto que o acusado possui circunstância judicial desfavorável (tanto que a pena-base foi fixada acima do mínimo legal - fl. 19), de modo que o regime inicial fechado é o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado. Logo, não há que falar em constrangimento ilegal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
