@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Embargos de Terceiro ajuizados pelo Município de São Paulo, incidentalmente à Ação de Cobrança, atualmente em fase de execução de sentença, objetivando obstar penhora "online" sobre ativos financeiros de "conta sistema" e "conta gestão" administradas pela SPTrans. Alegação de impenhorabilidade das aludidas contas. Sentença que extinguiu o processo, sem resolução do mérito, pela ausência de interesse processual. Recurso da Municipalidade objetivando a inversão do julgado. Inadmissibilidade. Tema precluso e de rediscussão vedada, a teor do art. 473 do CPC. Recurso das embargadas objetivando majoração de honorários advocatícios. Acolhimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, XXXV, LIV e XXII; 30, V; 93, IX; 100; e 173, § 1º, II, todos da Constituição, bem como ao decidido no RE 599.628-RG.
+    O recurso é inadmissível, tendo em vista que, para chegar à conclusão pretendida pelo recorrente, seria imprescindível a análise do conjunto fático e probatório dos autos (Súmula 279/STF), o que torna inviável o processamento do recurso extraordinário.
+    O Plenário do Supremo Tribunal Federal (STF) já assentou a inexistência de repercussão geral da controvérsia relativa à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, julgado sob a relatoria do Ministro Gilmar Mendes - Tema 660).
+    Por fim, ressalta-se que o Plenário do STF também já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes).
+     Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 19 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
