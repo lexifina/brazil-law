@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2100052-77.2017.8.26.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 13.5.2016, por ter supostamente praticado os delitos tipificados nos arts. 33 e 35 c/c 40, inciso V, todos da Lei n. 11.343/06 (tráfico e associação para o tráfico interestadual de entorpecentes), e art. 16, caput, da Lei n. 10.826/03, por três vezes (posse ou porte ilegal de arma de fogo de uso restrito). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS - TRÁFICO DE ENTORPECENTES; PORTE DE ARMA, FALSIFICAÇÃO DE DOCUMENTO PÚBLICO; FALSIDADE IDEOLÓGICA - PRISÃO PREVENTIVA - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR - INOCORRÊNCIA. Decisão suficientemente embasada na presença dos requisitos do artigo 312 Código de Processo Penal, acrescida dos indícios de autoria e materialidade delitiva.
+EXCESSO DE PRAZO - INOCORRÊNCIA. Não existe constrangimento ilegal pelo excesso de prazo da instrução criminal de réu preso quando justificável a demora nas peculiaridades do caso concreto. ORDEM DENEGADA (fl. 226).
+No presente recurso, sustenta excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por cerca de 1 ano e 7 meses sem que a instrução tenha sido sequer iniciada, ante a indefinição do conflito de competência suscitado perante esta Corte.
+Alega ilegalidade da prisão em flagrante, porquanto inexistentes elementos capazes de configurar o estado flagrancial, bem como ante a demora na realização da audiência de custódia, ocorrida 5 dias após o encarceramento.
+Ressalta as circunstâncias pessoais favoráveis do paciente e afirma a suficiência da aplicação de medidas cautelares alternativas à prisão no caso concreto.
+Requer, em liminar e no mérito, a expedição de alvará de soltura ou a aplicação de medidas cautelares alternativas à prisão.
+Indeferido o pedido de liminar (fls. 284/285), prestadas informações solicitas às instâncias ordinárias (fls. 290 e 298/386), o Ministério Público Federal opinou pelo não conhecimento do recurso (fl. 388/393).
+É o relatório.
+Conforme informações prestadas pelo Juízo da 31ª Vara Criminal de São Paulo/SP e documentação juntada ao parecer do Ministério Público Federal, após interposição do presente recurso ordinário perante o Tribunal de Justiça do Estado de São Paulo - 9.10.2017, a Ação Penal n. 0056569-12.2016.8.26.0050 foi redistribuída para a Justiça Federal em 28.11.2017 (fl. 362), e passou a tramitar perante a 7ª Vara Criminal Federal da São Paulo/SP, tendo sido autuada sob o n. 0005922-25.2016.403.6181.
+O Juízo federal proferiu decisão, em 12.3.2018, na qual indeferiu pedido de revogação da prisão preventiva formulado pelo ora recorrente, por entender persistentes os motivos que autorizavam a decretação da segregação cautelar, e afastou a alegação de excesso de prazo na formação da culpa (fls. 394/396).
+Diante da superveniência de decisão acerca da custódia que ora se busca revogar, ainda não debatida pela segunda instância competente, agora o Tribunal Regional Federal da 3ª Região, inviável a análise do presente recurso, sob pena de se incorrer em indevida supressão de instância.
+Pelo exposto, julgo prejudicado o presente recurso em habeas corpus, ante a perda superveniente do objeto, com fundamento no art. 34, XI, do RISTJ.
+Publique-se.
+Intimem-se.
