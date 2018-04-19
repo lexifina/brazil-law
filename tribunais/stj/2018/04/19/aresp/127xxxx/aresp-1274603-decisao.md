@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fls. 101/102):
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA. MILITAR. REMUNERAÇÃO ADIMPLIDA A MENOR. PAGAMENTO DO SOLDO DE FORMA VERTICAL E ESCALONADO PREVISTO NA LEI Nº 7.059/2002. TEMA REGULADO DIVERSAMENTE PELA LEI Nº 8.562/2008. REVOGAÇÃO TÁCITA. CONFIGURAÇÃO.
+INEXISTÊNCIA DA LESÃO. DESPROVIMENTO.
+- O contexto das Leis Estaduais nº 7.059/2002 e 8.562/2008 denotam que esta tratou do tema pertinente à remuneração dos militares de forma diversa e incompatível em relação àquela, configurando, via de consequência, a revogação tácita da legislação mais antiga.
+- Inocorrente a caracterização da lesão alegada na petição inicial, impõe-se a manutenção da sentença que julgou improcedentes os pedidos, por estar a remuneração questionada compatível com a legislação que regula o adimplemento do soldo dos militares.
+Nas razões do recurso especial, a parte agravante sustenta que a Lei Estadual nº 7.059/02 encontra-se em plena vigência e deve ser aplicada ao caso concreto, por disciplinar o escalonamento vertical de reajuste dos soldos dos Praças e Oficiais da Polícia Militar daquele estado, respeitando-se o caráter hierárquico.
+É o relatório.
+Cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO DA SÚMULA 284 DO STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. As razões recursais devem fazer a demonstração explicativa dos pontos nos quais os fundamentos do julgado (supostamente) atentam contra a norma positiva, sob pena de não conhecimento do recurso, com base na Súmula 284 do STF, aplicada por analogia: ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+2. Se os elementos constantes dos autos são suficientes à formação da sua convicção, é lícito ao juiz conhecer diretamente do pedido, proferindo julgamento antecipado da lide, sem que isso implique cerceamento de defesa.
+3. Se o Tribunal de origem concluiu pela desnecessidade de realização de outras provas e pela ausência de cerceamento de defesa, a (eventual) reforma do julgado demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra inviável no âmbito do recurso especial (STJ, Súmula 7/STJ).
+4. O tribunal de origem decidiu em harmonia com a orientação predominante desta Corte, incidindo ao caso a Súmula nº 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou se firmou no mesmo sentido da decisão recorrida").
+5. Agravo regimental não provido.
+(AgRg no AREsp 477.747/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 17/12/2015, DJe 04/02/2016)
+Ainda que assim não fosse, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
