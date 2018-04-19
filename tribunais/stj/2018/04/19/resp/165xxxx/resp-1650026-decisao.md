@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do mesmo ente federativo que deu provimento ao agravo em execução da defesa para que fosse refeito o cálculo da pena, considerando a fração de 1/3 (um terço) contida no artigo 83, inciso I, do CP, com vistas à aferição do lapso temporal de cumprimento da reprimenda corporal, tendo por finalidade a concessão de livramento condicional.
+Os elementos existentes nos autos indicam que o recorrido requereu a elaboração de cálculo diferenciado para a concessão do livramento condicional, com a adoção da fração de 1/3 da pena do delito de associação para o tráfico, tipificado no art. 35 da Lei 11.343/06, sob o fundamento de que o mesmo não possui natureza hedionda.
+O Juízo da Execução indeferiu o pedido, por considerar que não havia sido satisfeito o requisito objetivo previsto no artigo 44, parágrafo único, da Lei de Drogas, o qual exige o cumprimento de 2/3 da pena. (e-STJ, fls. 25/26)
+A decisão foi reformada pela Corte a quo, em agravo da defesa, que determinou a aplicação da fração de 1/3 (um terço), contido no artigo 83, inciso I, do CP, com vistas à aferição do lapso temporal de cumprimento da sanção penal, para a concessão do benefício. (e-STJ, fl. 64)
+Nas razões do presente apelo nobre (e-STJ, fls. 80/102), o Parquet alega ofensa ao artigo 44, parágrafo único, da Lei n. 11.343/06, sustentando que, independentemente da natureza não hedionda do crime do artigo 35, da Lei n. 11.343/2006, para a concessão do benefício de livramento condicional é exigido o cumprimento de 2/3 da pena imposta ao condenado.
+Requer, ao final, o provimento do especial para reforma do acórdão recorrido.
+Instado a se manifestar, o Ministério Público Federal opinou pelo provimento do inconformismo. (e-STJ, fls. 146/148)
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca do benefício de livramento condicional para o delito de associação para tráfico, a Corte de origem manifestou nestes termos, in verbis:
+Merece acolhimento ao pleito recursal vertido.
+Isto porque o disposto no parágrafo único do art. 44 da Lei de Entorpecentes trata igualmente delitos que apresentam naturezas diversas, ou seja, o tráfico de entorpecentes, que é crime assemelhado a hediondo, e os demais ali referidos que, de conformidade com o teor do art. 1º da Lei nº 8072/90, não possuem tal gravosa classificação. (..)
+Assim, voto pelo provimento ao Recurso, determinando-se o refazimento do cálculo de pena, de forma a que nele seja adotado o parâmetro fracionário de 1/3 (um terço), contido no inc. nº I, do art. 83, do C. Penal, à aferição do lapso temporal de cumprimento do ergástulo para obtenção do Livramento Condicional. (e-STJ, fls. 61/64)
+Denota-se do trecho transcrito acima que a Corte e origem entendeu que no crime de associação para o tráfico é possível conceder o livramento condicional quando o réu tenha cumprido 1/3 da pena.
+No entanto, para fins de livramento condicional, é assente neste Sodalício que, independentemente de o crime de associação para o tráfico não se enquadrar no rol de delitos hediondos, certo é que a Lei n.º 11.343/06, em seu art. 44, parágrafo único, previu expressamente a necessidade do cumprimento de 2/3 da pena para a obtenção do livramento condicional, devendo essa previsão legal prevalecer em relação ao art. 83 do Código Penal, em atenção ao princípio da especialidade.
+ A propósito:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. CONCESSÃO DE LIVRAMENTO CONDICIONAL. FRAÇÃO DE CUMPRIMENTO DA PENA. ART. 44, PARÁGRAFO ÚNICO, DA LEI Nº 11.343/06. AGRAVO IMPROVIDO. 1. O crime de associação para o tráfico não é considerado hediondo ou equiparado, contudo o art. 44, parágrafo único, da Lei 11.343/2006 estabelece prazo mais rigoroso para a concessão de livramento condicional, qual seja, 2/3 do cumprimento da pena, vedando a sua concessão ao reincidente específico.
+2. Agravo regimental improvido.
+(AgInt no AREsp 532.666/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, Julgado em 27/06/2017, DJe 01/08/2017)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. LIVRAMENTO CONDICIONAL. CUMPRIMENTO DE 2/3 DA PENA. NECESSIDADE. PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste ofensa ao princípio da colegialidade nas hipóteses em que a decisão monocrática foi proferida em obediência ao art. 932 do Código de Processo Civil - CPC e art. 3º do Código de Processo Penal - CPP, por se tratar de recurso que impugnava julgado contrário à jurisprudência desta Corte.
+2. O julgamento colegiado do agravo regimental supre eventual vício da decisão agravada. .
+3. "O entendimento do Superior Tribunal de Justiça é firme de que, embora o delito de associação ao tráfico de drogas não integre o rol dos delitos hediondos ou a ele equiparados, persiste a necessidade de cumprimento de 2/3 da pena para a obtenção do livramento condicional, a teor do disposto no parágrafo único do art. 44 da Lei n. 11.343/2006, por se tratar de regra determinada pela lei especial, que se sobrepõe a regra geral (art. 83 do CP)" (HC 381.202/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 04/05/2017). Agravo regimental desprovido.
+(AgRg no RHC 71.796/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, Julgado em 15/08/2017, DJe 25/08/2017)
+Dessarte, estando o acórdão recorrido dissonante da jurisprudência desta Corte Superior, merece acolhimento o inconformismo ministerial.
+Ante o exposto, com fundamento no artigo 255, § 4º, inciso II, do Regimento Interno do Superior Tribunal de Justiça, dá-se provimento ao recurso especial para restabelecer a decisão do Juízo da Execução.
+
+Publique-se. Intimem-se.
