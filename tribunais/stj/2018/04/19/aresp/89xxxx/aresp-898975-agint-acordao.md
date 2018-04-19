@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE CONDENATÓRIA - PROTESTO INDEVIDO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA REQUERIDA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+2. É inviável admitir o recurso especial quanto à alegação de ofensa a Súmula deste Superior Tribunal de Justiça, uma vez que esse tipo de enunciado não se enquadra nas hipóteses previstas no artigo 105, inc. III, da Constituição Federal. Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por MADEIRAS 3000 LTDA em face da decisão acostada às fls. 209-212 e-STJ, da lavra deste relator, que negou provimento a agravo (art. 544 do CPC/73), por meio do qual a ora agravante pretendia ver admitido recurso especial.
+O apelo extremo (art. 105, III, "a", da CF/88) fora deduzido em desafio ao acórdão de fls.136-143 e-STJ, prolatado pelo e. Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - PROTESTO DE TÍTULO JÁ QUITADO - DANOS MORAIS CONFIGURADOS.
+- Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica.
+Opostos embargos de declaração (fls. 146-149 e-STJ), esses foram rejeitados (fls. 167-174 e-STJ).
+Nas razões do recurso especial, a ora agravante aduziu, em síntese, que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i) art. 535 do CPC/1973; (ii) art. 348 e 350 do CPC/1973. Mencionou afronta à Súmula 385/STJ.
+Sustentou, preliminarmente, a nulidade do acórdão por negativa de prestação jurisdicional. Argumentou que a existência de apontamentos anteriores do nome da recorrida em cadastro de devedores exime a recorrente da responsabilidade por danos morais. Defendeu que a recorrida confessou ser devedora contumaz.
+Sem contrarrazões (fl. 191 e-STJ).
+Em juízo prévio de admissibilidade, o tribunal estadual negou seguimento ao apelo nobre, decisão essa impugnada por meio do agravo (art. 544 do CPC/73) cuja minuta está acostada às fls. 197-200 e-STJ. Sem contraminuta (fl. 202 e-STJ).
+Em julgamento monocrático, negou-se provimento ao agravo, pois não verificada a negativa de prestação jurisdicional, além de ser incabível recurso especial fundado em ofensa a súmula, anotando-se, por fim, que a controvérsia relativa à confissão configurava indevida inovação recursal.
+Inconformada, interpôs o presente agravo interno (fls. 215-217 e-STJ) alegando, em síntese, a ocorrência de afronta ao artigo 535 do CPC/1973 e a possibilidade de admitir o recurso quanto à violação à súmula, pois se trataria de dissídio pretoriano, além de não ter havido inovação recursal. Requereu a reforma do decisum ou a apresentação do feito em mesa.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE CONDENATÓRIA - PROTESTO INDEVIDO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA REQUERIDA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+2. É inviável admitir o recurso especial quanto à alegação de ofensa a Súmula deste Superior Tribunal de Justiça, uma vez que esse tipo de enunciado não se enquadra nas hipóteses previstas no artigo 105, inc. III, da Constituição Federal. Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Não restou configurada a negativa de prestação jurisdicional. Conforme a iterativa jurisprudência deste Tribunal superior, não ocorre violação ao artigo 535 do CPC/1973 quando "o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional" (AgInt no AREsp 794.406/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/08/2017, DJe 28/08/2017).
+No mesmo sentido, vejam-se, a título de exemplo: AgInt no RE nos EDcl nos EDcl nos EAR 513/DF, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 29/03/2017, DJe 25/04/2017; AgInt no AREsp 1053808/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 22/08/2017, DJe 25/08/2017; AgInt no REsp 1550044/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017; AgRg no REsp 1249360/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/08/2017, DJe 01/09/2017
+Alegou a insurgente que o Tribunal de origem não se manifestou sobre a inadimplência confessa da recorrida e sobre os inúmeros apontamentos do nome da empresa adversária nos cadastros de devedores.
+Segundo os autos, a Corte de origem manteve a sentença que acolheu pedido inicial formulado pela parte adversa em ação de anulação de protesto e indenização por danos morais.
+Essencialmente, o Tribunal a quo verificou que o título protestado havia sido previamente quitado, de modo que a autora fazia jus à indenização por danos morais. Quanto aos outros apontamentos, não restaram comprovados.
+Citam-se os excertos correspondentes (fls. 140-143 e-STJ, sem grifos no original):
+Na hipótese dos autos, é incontroversa a existência de relação comercial entre as partes (vide Nota Fiscal nº 023940). Igualmente incontroverso é o fato de que o título, já quitado, foi levado a protesto (fls. 30/33). Com efeito, a Autora transferiu, para a conta-corrente da Ré, em 11/09/2012, a quantia de R$ 202,89 (duzentos e dois reais e oitenta e nove centavos), ou seja, antes da data em que o título foi protestado (30/11/2012).
+ ..
+É sabido que o protesto indevido gera dano moral à pessoa jurídica, causando abalo à sua imagem frente a clientes e fornecedores. Em situações análogas, este Eg. Tribunal tem entendido que:
+ ..
+Por fim, registro que não passou despercebido que a Recorrente requereu ao Magistrado de primeiro grau "que oficiasse ao SERASA e CDL, para que estes órgãos, fornecessem ao Juízo, a posição no cadastro restritivo, da então recorrida, relativo aos meses SETEMBRO a DEZEMBRO DE 2012", a fim de comprovar anteriores negativações em nome da Autora, pedido este que não foi examinado.
+Todavia, observa-se que, quando instada a especificar provas que pretendia produzir, a Recorrente informou não ter mais provas a produzir e requereu o julgamento dos autos no estado em que se encontrava (fl. 79).
+Assim, não tendo a Recorrente reiterado o pedido de produção desta prova, quando instada a fazê-lo, deve arcar com o ônus de sua conduta omissiva, encontrando-se evidenciada a preclusão temporal.
+Além disso, diferentemente do que se alega recursalmente, nos autos, inexistem provas válidas de anteriores negativações em nome da Apelada, razão pela qual também há que ser mantida a condenação em danos morais.
+Verifica-se, assim, que o Tribunal de Justiça do Estado de Minas Gerais decidiu de modo fundamentado as questões essenciais ao deslinde da controvérsia. Afasta-se, portanto, a alegada violação ao artigo 535 do CPC/73.
+2. Quanto à alegação de ofensa a enunciado da Súmula deste Superior Tribunal de Justiça, novamente é inviável conhecer o apelo extremo, uma vez que não se enquadra nas hipóteses previstas no artigo 105, inc. III, da Constituição Federal.
+Nesse sentido, vejam-se, a título de exemplo, os seguintes precedentes: AgInt no AgInt no AREsp 901.452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2016, DJe 07/02/2017; AgInt no REsp 1598311/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2016, DJe 07/11/2016; REsp 1185336/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/09/2014, DJe 25/09/2014.
+3. No que toca à apontada ofensa aos artigos 348 e 350 do CPC/1973, pois haveria nos autos confissão da recorrida sobre ser devedora contumaz, verificou-se a indevida inovação recursal, uma vez que a matéria foi apresentada apenas em sede de embargos de declaração, conforme se verifica do cotejo entre a apelação de fls. 99-106 e-STJ e os aclaratórios às fls. 167-174 e-STJ.
+E, ainda, que assim não fosse, não seria admissível a alegação, pois, nos termos da jurisprudência dos Tribunais Superiores, compete à parte recorrente, nas razões dos recursos extremos, impugnar especificamente os fundamentos do acórdão recorrido, sob pena de a deficiência das razões recursais atrair os óbices dos enunciados nº 283 e nº 284 da Súmula do STF. Nesse sentido, cita-se precedente deste Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. . AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o exame da pretensão recursal, no sentido de se verificar que a planilha apresentada pelo exequente não indica detalhadamente os índices, critérios e valores adotados na evolução da dívida, seria necessária nova análise dos elementos fáticos dos autos, inviável em recurso especial.
+3. O recurso especial que não traz insurgência específica capaz de combater fundamento do acórdão recorrido, suficiente para mantê-lo, não deve ser admitido. Incidência das Súmulas n. 283 e 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 926.467/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/12/2016, DJe 09/12/2016)
+Como visto, o acórdão recorrido entendeu que o protesto indevido de título gera danos morais in re ipsa, de forma que somente poderia ser ilidida a responsabilidade na hipótese de comprovada existência de legítimas inscrições prévias, o que não ocorreu no caso concreto.
+O argumento trazido pela insurgente quanto a eventuais pagamentos em atraso admitidos pela autora não é capaz de ilidir essa fundamentação, uma vez que não há relação imediata entre os alegados atrasos e protestos de títulos, de modo que, ainda que fosse acrescido ao quadro fático delineado na demanda essa informação sobre o comportamento da recorrida com relação a alguns de seus credores, subsistiria incólume a fundamentação adotada pelo acórdão estadual, pois não derruiria a conclusão quanto à insuficiência de provas a respeito da existência de prévias inscrições legítimas em cadastros de inadimplentes.
+Caberia aos insurgentes demonstrar o desacerto do acórdão recorrido, expondo as razões pelas quais o dano moral não se configuraria in re ipsa indicando como violados os dispositivos correspondentes. Ausente essa fundamentação nas razões recursais, incidem os óbices contidos nos enunciados da Súmula do STF nº 283: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos êles" e nº 284: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+É de rigor, portanto, a manutenção da decisão agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
