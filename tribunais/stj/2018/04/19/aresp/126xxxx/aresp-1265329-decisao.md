@@ -1,0 +1,34 @@
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL DE CONTRATO COM REPETIÇÃO DE INDÉBITO. PLANO DE SAÚDE COLETIVO. CLÁUSULA DE REAJUSTE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO NCPC. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO.
+DECISÃO
+AVELINO PAN (AVELINO) ajuizou ação de revisão contratual cumulada com repetição de indébito contra UNIMED NORDESTE RS - SOCIEDADE COOPERATIVA DE SERVIÇOS MÉDICOS LTDA. (UNIMED), objetivando, em síntese, a declaração de nulidade da cláusula que autoriza reajustes por mudança de faixa etária, bem como a condenação da ré na restituição dos valores pagos indevidamente desde o início da contratualidade.
+O Juízo de Piso julgou procedentes os pedidos, para a) modificar a cláusula que prevê o reajustamento da contraprestação do plano de saúde firmado entre as partes pela implementação da idade de sessenta anos ou mais, mantendo os valores praticados antes deste termo e as demais condições de reajuste anual previstas no contrato, e b) condenar o réu na devolução simples dos valores pagos a maior, corrigidos monetariamente pelo IGP-M a contar da data de cada desembolso e acrescidos de juros legais de 1 % ao mês, estes a partir da citação (e-STJ, fls. 204/208).
+Após, UNIMED interpôs o recurso de apelação, julgado improcedente pelo Tribunal de origem, em acórdão assim ementado:
+APELAÇÃO CÍVEL AÇÃO REVISIONAL. PLANO DE SAÚDE. UNIMED. REAJUSTE DA MENSALIDADE. FAIXA ETÁRIA. IMPOSSIBILIDADE. RESTITUIÇÃO DOS VALORES INDEVIDAMENTE COBRADOS. PRESCRIÇÃO.
+Preliminar de nulidade da sentença - Inocorrência. Sentença que examinou a matéria posta.ccbb df
+1. Alegação de prescrição afastada. Contrato de trato sucessivo que se renova mês a mês, sendo plenamente possível a discussão das cláusulas contratuais. A prescrição atinge apenas a pretensão à restituição de valores eventualmente cobrados de forma indevida, mas não o fundo de direito propriamente. Prescrição trienal. No tocante ao pedido de restituição de valores, é aplicável a prescrição trienal, nos termos do artigo 206, §3Õ, IV, do CC, por se tratar de pretensão de reparação por enriquecimento sem causa. Questão pacificada em razão do julgamento do REsp 1.360.969, submetido ao regime dos Recursos Repetitivos (art. 543-C do Código de Processo Civil/73). Sentença mantida no ponto.
+2. Conforme jurisprudência pacífica desta Corte e do e. STJ, a previsão de reajuste em razão da faixa etária é abusiva, devendo ser declarada nula. Aplicação do Estatuto"do Idoso e do CDC.
+3. Uma vez reconhecida a abusividade da cláusula que prevê o aumento da mensalidade exclusivamente em razão da faixa etária, impõe-se a restituição dos valores pagos a maior, na forma simples.
+4. Sucumbência recursal devida, nos termos do art. 85, § 11, do CPC. [NOME] E APELO DESPROVIDO.
+(e-STJ, fl. 301)
+Em face desta decisão, UNIMED interpôs embargos de declaração, que foram rejeitados pelo Tribunal de origem (e-STJ, fls. 327/333).
+Inconformada, UNIMED apresentou recurso especial, com base no art. 105, III, a, da Constituição Federal, sustentando, em síntese, violação aos arts. 489 e 1.022 NCPC, em virtude do Tribunal de origem não ter se pronunciado sobre a alegação de que o aumento da mensalidade por mudança de faixa etária não constitui objeto da lide, mas sim os aumentos em virtude da alteração de plano (e-STJ, fls. 336/345).
+As contrarrazões ao recurso especial não foram apresentadas (e-STJ, fl. 355).
+O apelo nobre não foi admitido em razão (1) da inexistência de omissão, contradição ou obscuridade no acórdão recorrido; (2) incidência das Súmulas nºs 5 e 7 do STJ, já que, no concernente aos reajustes das mensalidades do plano de saúde, a conclusão legal adotada pelo acórdão recorrido pautou-se em exame de provas e interpretação de cláusulas contratuais (e-STJ, fls. 357/363).
+Irresignada, UNIMED apresentou agravo em recurso especial (e-STJ, fls. 365/375), sustentando o afastamento dos mencionados óbices.
+A contraminuta ao agravo não foi apresentada (e-STJ, fl. 377).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação aos arts. 1.022 e 489 do NCPC
+Nas razões do apelo especial, UNIMED sustentou violação aos arts. 489 e 1.022 NCPC, em virtude do Tribunal de origem não ter se pronunciado sobre a alegação de que o aumento da mensalidade por mudança de faixa etária não constitui objeto da lide, mas sim os aumentos em virtude da alteração de plano.
+Sem embargo, o Tribunal a quo, quando do julgamento da apelação apresentada por UNIMED, manifestou-se expressamente sobre este ponto, senão veja-se:
+Inicialmente, rejeito a preliminar de nulidade da sentença. Embora a maior parte dos fundamentos da inicial se voltem contra o reajuste anual, o autor dispõe sobre a abusividade do reajuste pela mudança da faixa etária ao dispor sobre a incidência do Estatuto do Idoso, e discrimina todos os reajustes ocorridos, inclusive o etário. Assim, a sentença não é nula ao expor o magistrado sua convicção sobre a matéria analisando os reajuste ocorridos na contratação. (e-STJ, fls. 304/305)
+Ademais, o Tribunal de origem repisou a matéria no acórdão que julgou os aclaratórios aviados por UNIMED, in verbis:
+A respeito da alegada omissão, tenho que o julgado enfrentou expressamente a preliminar deduzida, reconhecendo que o autor na inicial requereu revisão dos reajustes ocorridos, de sorte que não há vício no julgado.
+Tal como expresso no julgado, embora a maior parte dos fundamentos da inicial se voltem contra o reajuste anual, o autor dispõe sobre a abusividade do reajuste pela mudança da faixa etária ao dispor sobre a incidência do Estatuto do Idoso, e discrimina todos os reajustes ocorridos, inclusive o etário. Assim, a sentença não é nula ao expor o magistrado sua convicção sobre a matéria analisando os reajustes ocorridos na contratação. (e-STJ, fl. 331)
+Sendo assim, inexistente omissão, contradição ou obscuridade no acórdão guerreado e estando este devidamente fundamentado, o recurso especial não merece prosperar.
+Nestas condições, com fundamento no art. 932, III, do NCPC, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados, nos termos do art. 85, § 11, do NCPC, em desfavor do UNIMED.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
