@@ -1,0 +1,49 @@
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO REGRESSIVA. ACIDENTE DE TRABALHO. RESSARCIMENTO DE VALORES AO INSS PELO PAGAMENTO DE BENEFÍCIOS PREVIDENCIÁRIOS. RESPONSABILIDADE DAS EMPRESAS RECHAÇADA PELA CORTE DE ORIGEM. CULPA EXCLUSIVA DA VÍTIMA. IMPOSSIBILIDADE DE PROCEDER A VALORAÇÃO DAS PROVAS E DIMENSIONAMENTO DA CULPA DA VÍTIMA. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem, confirmando a sentença, com base no acervo probatório dos autos, concluiu que não foi comprovada qualquer conduta omissiva ou negligente da empresa empregadora.
+2. Desse modo, a revisão de tais conclusões insertas no acórdão recorrido demandaria, necessariamente, o reexame dos aspectos fáticos da lide - especificamente para caracterizar a culpa da empresa empregadora, atividade cognitiva inviável na via do Recurso Especial, nos termos da Súmula 7/STJ.
+3. Recurso Especial do INSS a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Recurso Especial, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+1. Trata-se de Recurso Especial interposto com fundamento nas alíneas a e c do art. 105, III, da Constituição Federal, objetivando a reforma do acórdão proferido pelo Tribunal Regional Federal da 5a. Região, assim ementado:
+CONSTITUCIONAL ADMINISTRATIVO E"PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO ORDINÁRIA REGRESSIVA DE RESSARCIMENTO DE DANOS RELATIVOS À ACIDENTE, DO TRABALHO. ART. 120 DA LEI 8.213/91. ALEGADA NEGLIGÊNCIA DA EMPRESA REQUERIDA QUANTO ÀS NORMAS DE SEGURANÇA DO TRABALHO. NÃO COMPROVAÇÃO. LAUDO PERICIAL CONCLUSIVO. IMPROCEDÊNCIA. AGRAVO RETIDO NÃO CONHECIDO.
+1, - Impossibilidade de se conhecer do Agravo Retido interposto pela Requerida, ante ausência de requerimento expresso da Agravante, nas suas contrarrazões, nos termos e para os fins do § 10, do art. 523, do CPC.
+2 - O ressarcimento de valores despendidos pela autarquia previdenciária, a título de pagamento de benefícios em razão de atos praticados pela.empresa no tocante aos seus empregados, "é cabível quando demonstrada a culpa do empregador na causa do infortúnio.
+3 - No caso dos autos, o INSS não se desincumbiu do seu" ônus de comprovar a negligência da empresa requerida quanto às normas pertinentes à segurança de trabalho.
+4 - Improcedência do pedido inicial. Manutenção da sentença.
+Agravo Retido não conhecido e Apelação Cível improvida."
+2. Nas razões do seu Apelo Nobre, sustenta o recorrente, em síntese: (a) o acórdão recorrido, a despeito da oposição de Embargos de Declaração, permaneceu omisso; (b) a partir dos elementos probatórios coligidos na instrução processual, restou caracterizada a ocorrência dos fatores que foram apontados como causas do adoecimento funcional, indicadores da negligência da empresa no que toca ao cumprimento das normas de segurança do trabalho, razão pela qual não se pode afastar a responsabilidade da empresa; (c) o acórdão hostilizado ao isentar a empresa demandada da responsabilidade pela doença ocupacional experimentada pela trabalhadora, desconsiderou por completo as várias causas determinantes do adoecimento, todas associadas às precárias condições de trabalho impostas pela empresa.
+3. É o relatório.
+VOTO
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AÇÃO REGRESSIVA. ACIDENTE DE TRABALHO. RESSARCIMENTO DE VALORES AO INSS PELO PAGAMENTO DE BENEFÍCIOS PREVIDENCIÁRIOS. RESPONSABILIDADE DAS EMPRESAS RECHAÇADA PELA CORTE DE ORIGEM. CULPA EXCLUSIVA DA VÍTIMA. IMPOSSIBILIDADE DE PROCEDER A VALORAÇÃO DAS PROVAS E DIMENSIONAMENTO DA CULPA DA VÍTIMA. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL DO INSS A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem, confirmando a sentença, com base no acervo probatório dos autos, concluiu que não foi comprovada qualquer conduta omissiva ou negligente da empresa empregadora.
+2. Desse modo, a revisão de tais conclusões insertas no acórdão recorrido demandaria, necessariamente, o reexame dos aspectos fáticos da lide - especificamente para caracterizar a culpa da empresa empregadora, atividade cognitiva inviável na via do Recurso Especial, nos termos da Súmula 7/STJ.
+3. Recurso Especial do INSS a que se nega provimento.
+1. Sustenta o recorrente, em preliminar, negativa de prestação jurisdicional. O inconformismo não prospera, porquanto a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente. É de salientar que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, os questionamentos suscitados pelas partes.
+2. No mais, depreende-se da leitura do acórdão que a Corte de origem solveu a controvérsia nos seguintes termos:
+No caso dos autos, a segurada [NOME] foi contratada pela empresa requerida, em 14/08/2000, para exercer a função de auxiliar de enfermagem, realizando transporte de pacientes dos leitos para as macas, bem como para acompanhar os enfermos em cadeiras de rodas pelos corredores, entre outras diversas atividades.
+De acordo com a inicial, a referida empregada teria desempenhado suas atividades durante o prazo de três anos, quando passou a gozar do benefício previdenciário do auxílio-doença acidentário, em decorrência das péssimas condições de trabalho oferecidas pela demandada, ficando, ao final, incapacitada para o trabalho.
+E que, em decorrência disso, o INSS foi obrigado a conceder o benefício previdenciário, Auxílio-doença por Acidente de Trabalho (NB 5149063343), posteiriormente convertido em aposentadoria por invalidez (NB 5474297650).
+Ora, conforme acima já citado, o direito de regresso, na dicção legal, surge da culpa do empregador, que, deixando de atender aos comandos legais específicos para a prevenção de acidentes de trabalho, dá ensejo às condições propiciadoras para a ocorrência de tais infortúnios.
+Assim, nas ações regressivas, cumpre, pois, ao INSS o ônus da prova da negligência do empregador no fiel cumprimento das noras de segurança do trabalho. E o que se passa a analisar.
+Inexiste prova robusta a comprovar negligência da empresa requerida quanto a possíveis irregularidades relativas à segurança do trabalho.
+É que, de acordo com o laudo pericial realizado nestes autos, a conclusão do expert foi pela "inexistência do nexo causal entre a patologia referida e sua atividade laboral", fl. 1.660.
+O Sr. [NOME] foi enfático ao responder aos quesitos das partes e deste juízo (..).
+Do que se extrai é que não restou comprovada a relação de nexo causal da doença adquirida pela empregada com a atitude negligente da empresa requerida.
+Primeiro porque, por se tratar de doença com processo degenerativo crônico, não foi possível determinar o seu marco inicial, conforma afirmado pelo Sr. [NOME].
+Segundo porque, o INSS não se desincumbiu de seu ônus probatório ao afirmar que a empresa agiu de forma negligente ao não adotar as medidas necessárias para a recuperação da empregada, tendo, inclusive, a autarquia desistido da oitiva da própria Sra. [NOME], fl. 1.696.
+Assim, por não restar caracterizada a responsabilidade subjetiva e, consequentemente, o nexo de causalidade entre a conduta culposa do empregador e a efetiva ocorrência do dano, o pleito não procede.
+3. Concluindo, assim, pela Corte de origem, com base no acervo probatório dos autos, que não houve qualquer conduta negligente por parte da empresa, inviável o acolhimento da tese da Autarquia Previdenciária, uma vez que a inversão das conclusões a que chegou a Corte de origem demandaria a revisão do acervo probatório, o que esbarra no óbice contido na Súmula 7 desta Corte.
+4. Corroborando tal orientação, os seguintes julgados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO. VÍCIO NÃO CONFIGURADO. AÇÃO REGRESSIVA ACIDENTÁRIA. RESPONSABILIDADE. CULPA DA VÍTIMA. OMISSÃO DO EMPREGADOR NÃO CONFIGURADA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+1. Inexiste violação do art. 535 do CPC/1973 quando o acórdão recorrido fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+2. Impossível afirmar-se a falta do empregador, e afastar-se a culpa da vítima pelo evento danoso, para o fim de responsabilização por acidente de trabalho, sem o reexame do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+3. Recurso especial parcialmente conhecido e, nessa extensão, não provido (REsp. 1.526.773/PE, Rel. Min. OG FERNANDES, DJe 26.2.2018).
+
+ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO REGRESSIVA. ART. 120 DA LEI 8.213/1991. ACIDENTE DE TRABALHO. NORMAS DE SEGURANÇA. NEGLIGÊNCIA DA EMPREGADORA. AUSÊNCIA DE COMPROVAÇÃO. CULPA EXCLUSIVA DA VÍTIMA. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que, "conforme apontado pelo perito trabalhista, que a principal causa do acidente foi que o segurado operava sozinho a máquina de serrar, quando o correto seria sua operação por dois trabalhadores", tendo agido de forma imprudente em operá-la quando o seu parceiro de operação se ausentou para ir ao banheiro. "Não há como se imputar tal fato à empresa, visto que o fato se deu em questão de minutos, bem como foi realizada instrução do trabalhador para operá-la". Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+2. Recurso Especial não conhecido (REsp. 1.596.202/RS, Rel. Min. HERMAN BENJAMIN, DJe 5.9.2016).
+5. Ante o exposto, nega-se provimento ao Recurso Especial do INSS.
+6. É como voto.
