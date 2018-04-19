@@ -1,0 +1,14 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio Grande do Sul confirmou o entendimento do Juízo quanto à improcedência do pedido de abono de permanência. No extraordinário cujo trânsito busca alcançar, o recorrente aponta a violação dos artigos 5º cabeça, e 40, § 4º, incisos I e II, e § 19, da Constituição Federal. Insiste no direito pleiteado.
+    2. Colho do acórdão recorrido os seguintes trechos:
+    Por sua vez, o Estatuto dos Servidores Militares - Lei Complementar nº 10.990/97 - prevê, no art. 58, §2°, o abono de incentivo à permanência no serviço ativo, de forma que, em se tratando de policial militar, inviável a aplicação da regra da Lei Complementar nº 51/85 que alcança, enfim, somente os policiais civis.
+    Incabível, na espécie, a aplicação das disposições da Lei Complementar nº 51/85, pretendida pela parte recorrente, por se destinarem suas normas aos servidores da polícia civil, condição funcional diversa daquela que ostenta. Ainda que a gratificação em questão tenha como objetivo prestigiar o servidor que, após implementados os requisitos para a inatividade, permaneça na ativa, não se aplica irrestritamente, havendo de ser observada a legislação correlata, sobretudo quando há norma específica, o artigo 42 da Carga Magna, a definir, claramente, quais direitos alcançam a categoria do militares.
+    Conclui-se, portanto, a partir das disposições do art. 42, § 12, da Constituição Federal que não se estendem aos militares o direito ao percebimento da gratificação contida no § 19 do art. 40 do mesmo diploma legal, no caso, o abono permanência.
+    Assim, embora a parte recorrente tenha implementado os requisitos do art. 105 da Lei Complementar Estadual nº 10.990/97, que autoriza sua transferência para a reserva, a pedido, e tenha optado por permanecer na ativa, a pretensão relativa à percepção do abono de permanência não encontra supedâneo legal, na medida em que, repito, integrante do quadro de servidores militares.
+    À toda evidência, da leitura do acórdão impugnado mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de interpretação conferida a normas locais. Procedeu à análise da Lei Complementar estadual nº 10.990/97. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - Verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo. Está-se diante de caso cujo desfecho final fica no âmbito do próprio Tribunal de Justiça.
+    3. Ante o quadro, conheço deste agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto fixados em seu patamar máximo na origem.
+    4. Publiquem.
+Brasília, 19 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
