@@ -1,0 +1,39 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE QUINZE DIAS. FORMA DE CONTAGEM. PREVISÃO ESPECÍFICA CONTIDA NO ART. 798 DO CÓDIGO DE PROCESSO PENAL.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a contagem de prazo em processo penal obedece a regramento próprio. Importa lembrar que o art. 798 do Código de Processo Penal, em seu caput e § 1.º, determinam que " t odos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia de feriado" e que, "Não se computará o prazo o dia do começo, incluindo-se, porém, o do vencimento", constitui norma especial em relação às alterações trazidas pela Lei 13.105/2015.
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por EVANDRO CARLOS SOPELSA, contra a decisão de fls. 1.754-1.755, que não conheceu do agravo, porquanto intempestivo.
+Consta dos auto que o agravante foi condenado pelo juízo de primeiro grau como incurso no delito previsto no artigo 155, § 4º, inciso II, do Código Penal, à pena de 3 (três) anos e 6 (seis) meses de reclusão e 50 (cinquenta) dias-multa, operando-se, na ocasião, a substituição da pena privativa de liberdade por restritiva de direitos (fls. 1.505-1.519).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso teve negado o provimento (fls. 1.658-1.694).
+No recurso especial, interposto com fulcro nas alíneas a e c do permissivo constitucional, a defesa alega ofensa aos artigos 156, 158 e 159, todos do Código de Processo Penal.
+Nas razões do presente agravo regimental, a parte agravante sustenta que: "verifica-se que os prazos processuais, mesmo penais, por analogia, antes contínuos agora passaram a ser computados apenas dias úteis (..)  d iante disso, considera-se que a decisão monocrática, ora hostilizada, não deva prosperar, principalmente considerando-se a circunstância envolvida no caso em que se cuida, porquanto contrariamente ao entendimento exarado no decisum, infere-se dos termos do aludido recurso e da posição acima citada, que se encontram presentes os requisitos necessários ao conhecimento do recurso, porquanto o mesmo apresenta-se tempestivo. Nada obstando que o recurso seja conhecido e provido" (fl. 1.764).
+Pugna, ao final, pela apresentação do recurso ao colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO RECURSO ESPECIAL INTEMPESTIVO. PRAZO DE QUINZE DIAS. FORMA DE CONTAGEM. PREVISÃO ESPECÍFICA CONTIDA NO ART. 798 DO CÓDIGO DE PROCESSO PENAL.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a contagem de prazo em processo penal obedece a regramento próprio. Importa lembrar que o art. 798 do Código de Processo Penal, em seu caput e § 1.º, determinam que " t odos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia de feriado" e que, "Não se computará o prazo o dia do começo, incluindo-se, porém, o do vencimento", constitui norma especial em relação às alterações trazidas pela Lei 13.105/2015.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo não merece prosperar, devendo ser mantida a decisão recorrida por seus próprios fundamentos.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a contagem de prazo em processo penal obedece a regramento próprio. Importa lembrar que o art. 798 do Código de Processo Penal, em seu caput e § 1.º, determinam que " t odos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia de feriado" e que, "Não se computará o prazo o dia do começo, incluindo-se, porém, o do vencimento", constitui norma especial em relação às alterações trazidas pela Lei 13.105/2015.
+Portanto, a presença de norma específica regulamentando o tema na legislação processual penal afasta a incidência supletiva do novo Código de Processo Civil, mesmo em casos como o presente em que os réus são representados por distintos procuradores.
+Sobre a quaestio, o Supremo Tribunal Federal já se pronunciou, afirmando, na ocasião, que em se tratando de " ..  prazo processual penal, o modo de sua contagem é disciplinado por norma legal que expressamente dispõe sobre a matéria (CPP, art. 798, "caput"), o que torna inaplicável a regra fundada no art. 219, "caput", do Código de Processo Civil de 2015, pois, como se sabe, a possibilidade de aplicação analógica da legislação processual civil ao processo penal, embora autorizada pelo art. 3º do próprio Código de Processo Penal, depende, no entanto, para incidir, da existência de omissão na legislação processual penal (Lei de Introdução às Normas do Direito Brasileiro, art. 4º)" (HC n. 134.554/SP Rcon, Rel. Min. Celso de Mello, DJe de 15/06/2016).
+Nesse sentido, os precedentes abaixo:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRAZO PARA A INTERPOSIÇÃO DE RECURSO ESPECIAL. 15 DIAS CORRIDOS. INTEMPESTIVIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Em matéria penal, são intempestivos o Recurso Especial e o Agravo em Recurso Especial interpostos fora do prazo de 15 dias corridos.
+2. Agravo regimental improvido." (AgRg no AREsp 1.036.205/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 15/02/2018)
+"PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. NOVO CÓDIGO DE PROCESSO CIVIL. PRAZO DE 15 DIAS. FORMA DE CONTAGEM. ART. 798 DO CÓDIGO DE PROCESSO PENAL - CPP. PREVISÃO ESPECÍFICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte já se manifestou no sentido de que em ações que tratam de matéria penal ou processual penal não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015).
+2. Desta forma, a despeito de o agravo em recurso especial ser regulado inteiramente pelo novo CPC, inclusive quanto ao prazo - art. 1.042 -, verifica-se que como esse último diploma normativo é aplicado de forma suplementar ao processo penal e ante a existência de norma específica a regular a contagem do prazo - art. 798 do Código de Processo Penal - CPP -, o mesmo deve ser contabilizado de forma contínua e não segundo a previsão do art. 219 da novel legislação.
+Agravo regimental desprovido" (AgRg no AREsp 992.915/RR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 01/02/2017).
+"PROCESSUAL PENAL. AGRAVOS REGIMENTAIS EM AGRAVOS EM RECURSOS ESPECIAIS. MATÉRIA PENAL. INTEMPESTIVIDADE DOS AGRAVOS EM RECURSOS ESPECIAIS. PRAZO DE CINCO DIAS. ART. 28 DA LEI 8.038/90. LEI 12.322/2010. SÚMULA 699/STF. DECISÃO AGRAVADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STF E DO STJ. LITISCONSORTES COM DIFERENTES PROCURADORES. ART. 191 DO CPC. PRAZO EM DOBRO PARA RECORRER. INAPLICABILIDADE, NO PROCESSO PENAL. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que o benefício da contagem em dobro dos prazos processuais, quando houver litisconsortes com diferentes procuradores, nos termos do art. 191 do Código de Processo Civil, não se aplica no âmbito do processo penal. Precedentes.
+IV. Agravos Regimentais improvidos." (AgRg no AREsp 413.138/RS, Sexta Turma, Relª. Minª. Assusete Magalhães, DJe 13/12/2013)
+Assim, deve ser mantida a decisão ora agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
