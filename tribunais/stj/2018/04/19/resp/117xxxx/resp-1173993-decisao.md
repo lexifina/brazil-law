@@ -1,0 +1,58 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por [NOME] nstrup, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRF da 4ª Região, assim ementado (e-STJ, fl. 211):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO DE RENDA. TRIBUTAÇÃO REFLEXA. ILEGITIMIDADE PASSIVA. PRESCRIÇÃO. NULIDADE DA CDA AFASTADA. APLICAÇÃO DA TRD NO CÔMPUTO DOS JUROS DE MORA. HONORÁRIOS.
+1. Cabível a tributação reflexa em razão da ausência de contabilidade a permitir a tributação com base no lucro presumido, razão pela qual incide o regime do lucro arbitrado em favor dos sócios, na proporção da participação no capital social, na forma do Regulamento do Imposto de Renda - RIR/80, vigente à época do lançamento.
+2. Afastada a alegação de ilegitimidade passiva ante as previsões constantes dos arts. 403 e 404 do Decreto nº 85.450/80, aplicável ao caso, e como conseqüência da tributação reflexa.
+3. Não há falar em nulidade da CDA, por cabível, à espécie, a apuração de lucro por arbitramento, e por não ter respaldo a alegação de ausência de distribuição de lucro, por falta de comprovação.
+4. É aplicável a TRD no cômputo dos juros de mora, a teor do art. 30 da Lei nº 8.218/91.
+5. Nas execuções fiscais movidas pela União, o encargo legal de 20% (vinte por cento) previsto no Decreto-lei nº 1.025, de 1969, embutido no débito, substitui, nos embargos, a condenação em honorários advocatícios.
+Os embargos de declaração foram acolhidos, para fins de prequestionamento (e-STJ, fls. 221/226).
+O recorrente alega, nas razões do especial, contrariedade aos arts. 8º do Decreto-Lei 2.065/1983; 35 e 36 da Lei 7.713/1988; 43 e 174 do CTN; e Parecer Normativo n. 01 COSIT/1995.
+Sustenta a ocorrência da prescrição prevista no 174 do CTN, tendo em vista que teriam decorrido mais de cinco anos entre a constituição do crédito e a propositura do executivo fiscal.
+Assevera, de outra parte, que o julgado combatido contrariou o disposto no art. 43 do CTN, na medida em que não teria sido apurada a existência de acréscimo patrimonial, pressuposto indispensável para caracterizar o fato gerador do imposto de renda.
+Argumenta, ainda, pela ilegitimidade passiva para figurar no polo passivo do executivo fiscal, haja vista que o IRPJ será tributado na fonte.
+Salienta que as pessoas jurídicas não se confundem com a dos sócios, nos termos do art. 20 do Código Civil de 1916 e, dessa forma, a execução deveria ter sido promovida diretamente contra a sociedade empresária e não contra o seu sócio.
+Foram apresentadas as contrarrazões às e-STJ, fls. 289/290.
+Parecer do Ministério Público Federal (e-STJ, fls. 302/314).
+É o relatório.
+A irresignação não merece prosperar.
+No que tange à suscitada ocorrência da prescrição do crédito tributário, assim se pronunciou a Corte de origem (e-STJ, fls. 205/206):
+Relativamente à alegação de prescrição, igualmente não merece guarida a irresignação do recorrente, haja vista o que dispõe o art. 174, segunda parte, do Código Tributário Nacional, que peço licença para reproduzir, a título de ilustração:
+"Art. 174. A ação para cobrança do crédito tributário prescreve em 5 (cinco) anos, contados da data da sua constituição definitiva." (grifei)
+Decorre da norma insculpida no aludido dispositivo legal, então, que não corre prazo algum enquanto não for julgado eventual recurso administrativo, que foi o que ocorreu, tendo sido bem observado na sentença esse fato, com a seguinte manifestação:
+"..o ajuizamento da ação prescreve em cinco anos a contar da data da constituição definitiva do crédito tributário mediante lançamento (procedimento administrativo).
+Ocorre que, o embargante impugnou o lançamento, o qual teve sua decisão indeferida de forma definitiva, no âmbito administrativo, em 24.11.98, tendo o embargante ficado ciente da mesma, mas não ofereceu recurso.
+Logo, houve a constituição definitiva do crédito tributário após 24.11.98, e o direito de ação não está prescrito.
+ .. .
+Portanto, não há falar em prescrição do direito da parte embargada para executar o crédito tributário.
+Tal entendimento encontra-se em harmonia com o julgamento do Recurso Especial n. 1.113.959/RJ, de relatoria do Ministro Luiz Fux, que foi submetido ao rito do art. 543-C do CPC/1973, quando a Primeira Seção do STJ firmou a orientação de que " ..  o recurso administrativo suspende a exigibilidade do crédito tributário, enquanto perdurar o contencioso administrativo, nos termos do art. 151, III do CTN, desde o lançamento (efetuado concomitantemente com auto de infração), momento em que não se cogita do prazo decadencial, até seu julgamento ou a revisão ex officio, sendo certo que, somente a partir da notificação do resultado do recurso ou da sua revisão, tem início a contagem do prazo prescricional, afastando-se a incidência da prescrição intercorrente em sede de processo administrativo fiscal, pela ausência de previsão normativa específica".
+No mais, a Corte de origem negou a pretensão do recorrente com base no seguinte fundamento:
+No tocante à alegação de ilegitimidade passiva para a causa, conveniente referir as previsões constantes dos arts. 403 e 404 do Regulamento do Imposto de Renda que vigia à época do lançamento, qual seja, o Decreto nº 85.450/80, nos seguintes termos:
+"Art. 403. O lucro arbitrado se presume distribuído em favor dos sócios ou acionistas de sociedades não anônimas na proporção da participação no capital social ou ao titular da empresa individual."
+"Art. 404. A remuneração do administrador da pessoa jurídica que tenha seu lucro arbitrado de acordo com os artigos 399 e 400 será computada na Cédula C da declaração de rendimentos pelos valores efetivamente recebidos, quando conhecidos.
+Parágrafo único. Quando desconhecidos os valores da remuneração, será ela estimada para cada beneficiário em valor não inferior ao maior dentre os seguintes:
+a) 5% (cinco por cento) do valor que tenha servido de base de cálculo para arbitramento do lucro, dividido pelo número de administradores;
+b) duas vezes o limite de isenção do imposto de renda incidente na fonte sobre rendimentos do trabalho assalariado, multiplicado pelo número de meses do período-base a que corresponder a atividade de administração."
+De ser considerada correta, então, a tributação reflexa na pessoa física do sócio-gerente, uma vez obedecidas as previsões constantes dos dispositivos reproduzidos quando da lavratura da notificação de lançamento, juntada nas fls. 46/47 dos autos.
+Somado a isso, o fato de que o apelante comprovou ser detentor de 97% (noventa e sete por cento) do capital social da empresa, constituindo-se responsável tributário pelo débito fiscal.
+Observo, ainda, as bem lançadas argumentações da juíza singular a respeito do assunto, quando se manifestou, verbis:
+" ..
+Conforme prevê o artigo 45, I, da Lei n.8.981, de 20.01.1995, que a pessoa jurídica habilitada à opção pelo regime de tributação com base no lucro presumido deverá manter escrituração contábil nos termos da legislação contábil. Ocorre que, não existia na empresa na qual o embargante era sócio, contabilidade, logo não há que se falar em tal regime de tributação, mas, sim, com base no regime do lucro arbitrado.
+Assiste razão o embargado quando refere a distribuição do lucro arbitrado em favor dos sócios na proporção da participação no capital social ou ao titular da empresa individual, eis que o Decreto n. 85.450/80 (Regulamento do Imposto de Renda) corrobora com isso. Se a pessoa jurídica omitiu receita, logo presume-se que houve a sua distribuição entre os sócios.
+ .. "
+Desta forma, tenho que a alegação de ilegitimidade argüida pelo apelante não encontra o devido respaldo, devendo ser rechaçada.
+Verifica-se que os fundamentos adotados pela Corte de origem não foram, devidamente, impugnados pela parte insurgente nas razões do recurso especial de e-STJ, fls. 227/265.
+A não impugnação de fundamento suficiente para manter o acórdão combatido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. FORNECIMENTO DE SUPLEMENTO ALIMENTAR PELO ESTADO. ALERGIA À LACTOSE. ALEGADA OFENSA AO ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. SUPOSTA OFENSA A DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA 211/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO RECORRIDO. SÚMULA 283/STF. ALEGADA EXISTÊNCIA DE PROVAS NOS AUTOS PARA SUSTENTAR A PRETENSÃO INICIAL. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+3. Ausente a impugnação a fundamento suficiente para manter o acórdão recorrido, o recurso especial não merece ser conhecido, por lhe faltar interesse recursal. Inteligência da Súmula 283 do STF, aplicável, por analogia, ao recurso especial.
+ ..
+5. Recurso especial não conhecido. (REsp 1.367.651/MG, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 3/12/2013)
+Além disso, para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar que a pessoa jurídica possua direito de se beneficiar da opção do regime de tributação com base no lucro presumido, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Por fim, no caso, a divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil e 255, § 2º, do Regimento Interno do STJ, uma vez que parte interessada apenas transcreveu as ementas dos julgados que entendeu favoráveis à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no aresto impugnado.
+No aspecto:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. (PROCESSUAL CIVIL. RECURSO ESPECIAL. ADMISSIBILIDADE. NÃO INDICAÇÃO DOS MOTIVOS DA VIOLAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. VIOLAÇÃO AO ART. 535, DO CPC. INOCORRÊNCIA. ALÍNEA "C". AUSÊNCIA DE SIMILITUDE ENTRE OS ARESTOS CONFRONTADOS. NÃO CONHECIMENTO. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. SERVIDOR PÚBLICO. PRESCRIÇÃO. TERMO INICIAL. CIÊNCIA PELO TITULAR DA DEMANDA. ACÓRDÃO MANTIDO.  ..  9. A interposição do recurso especial pela alínea "c" do permissivo constitucional exige do recorrente a comprovação do dissídio jurisprudencial, cabendo ao mesmo colacionar precedentes jurisprudenciais favoráveis à tese defendida, comparando analiticamente os acórdãos confrontados, nos termos previstos no artigo 541, parágrafo único, do CPC. 10. Visando a demonstração do dissídio jurisprudencial, impõe-se indispensável avaliar se as soluções encontradas pelo decisum embargado e paradigmas tiveram por base as mesmas premissas fáticas e jurídicas, existindo entre elas similitude de circunstâncias. 11. In casu, não há similaridade, indispensável na configuração do dissídio jurisprudencial, entre o acórdão tomado como paradigma, do STF, julgado em 2/8/1960, tratou da prescrição de ato de improbidade previsto no art. 11, da CLT e o acórdão recorrido, que decidiu acerca da prescrição da ação de improbidade prevista no art. 23, II, da Lei n. 8.429/92.  ..  5. Embargos de declaração rejeitados. (EDcl no REsp 999.324/RS, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 17/12/2010)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
