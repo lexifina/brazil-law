@@ -1,0 +1,36 @@
+DECISÃO
+HSBC Bank Brasil S/A - Banco Múltiplo ajuizou ação contra o Município de Indaiatuba, objetivando a declaração de nulidade dos autos de infração de n. 10/2010, 261/2011, 55/2012 e 20/2012 - decorrentes de descumprimento do disposto na Lei Municipal n. 5.416/2008, ante a obrigatoriedade de instalação de sistema de monitoramento externo e interno em agências bancárias - e, consequentemente, das multas impostas em razão destes.
+O Tribunal de Justiça do Estado de São Paulo manteve a sentença de procedência parcial da ação, negando provimento aos recursos de apelação, nos termos assim ementados (fl. 471):
+Ação anulatória de autos de infração e imposição de multas - Réu apelante que não atendeu ao disposto na Lei Municipal nº_ 5.416/08, assim, foi mantida a multa imposta pelo auto de infração nº 10/10 - Reconhecida a nulidade das autuações nºs 261111, 20/12 e 55/12, por aplicação de sanção pelo mesmo fato gerador da autuação nº 10/10 - Negaram provimento a ambos os recursos, mantendo-se a r. sentença nos termos do artigo 252 do Regimento Interno deste Egrégio Tribunal.
+Os embargos declaratórios opostos foram rejeitados (fl. 492).
+O Município de Indaiatuba interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, apontando violação do art. 535, II, do CPC/1973, pois a despeito da oposição dos embargos declaratórios, o Tribunal a quo deixou de apreciar a eficácia da regra contida no art. 4º da Lei Municipal n. 5.416/2008.
+Intimado, o recorrido não apresentou contrarrazões (fl. 521).
+É o relatório. Decido.
+Como a decisão recorrida foi publicada sob a égide da legislação processual civil anterior, observam-se em relação ao cabimento, processamento e pressupostos de admissibilidade dos recursos, as regras do Código de Processo Civil de 1973, diante do fenômeno da ultratividade e do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça.
+A Corte de origem analisou as alegações da parte quanto à matéria tida como omissa, conforme se percebe do seguinte trecho do acórdão (fls. 473-476):
+ ..
+Não colhe o argumento expendido pelo HSBC BANK BRASIL S/A BANCO - MÚLTIPLO de que "não estando, portanto, o auto de infração devidamente regulamentado em lei existente e válida, nulo é o ato administrativo atacado", tendo em vista que a Lei nº 5.416/2008 dispõe sobre a capitulação e a sanção conforme se infere de seus artigos 1 º e 4º citados por ele à fL. 407.
+(..)
+Portanto, além de a questionada Lei Municipal ser auto-aplicável, se necessitasse de regulamento em nada poderia modificá-la.
+Também não procedem as razões expendidas pelo apelante Município de Indaiatuba em seu recurso, mormente, quanto à ocorrência do bis in idem conforme sustentou a MM. Juíza na r. sentença.
+A propósito é de se destacar os seguintes fundamentos da r. sentença:
+"A autora foi autuada por infringir a Lei Municipal nº 5416/2008, que instituiu a obrigatoriedade, pelas instituições financeiras, de instalação de sistema de monitoramento externo e interno em sua sede ou em caixa de auto-atendimento localizados fora das agências.
+(..)
+Quanto ao Auto nº 10/10, foi lavrado em decorrência da Notificação nº 129. Pelo que se denota dos autos, o requerente foi notificado em 13/10/2010, a esclarecer se estava cumprindo as determinações previstas na Lei nº 5416/08.
+Referida Lei prevê em seu art. 31 que as Instituições financeiras terão o prazo de 90 dias contados da publicação da lei para adotarem os procedimentos necessários para o perfeito financiamento do sistema de monitoramento sob pena da aplicação das penalidades previstas no artigo 4º da lei.
+Portanto, a notificação visava o esclarecimento sobre o cumprimento integral das regras previstas em lei. O requerente pediu administrativamente o cancelamento da referida notificação, porém, admitiu em seus esclarecimentos que não possuía monitoramento externo porque a Lei Federal 7102/83 não estabelece esta necessidade (fl. 36).
+(..)
+O requerente alega também a nulidade do Auto nº 10/10 porque a lei não prevê a hipótese de sanção no caso de não atendimento de notificação. Ocorre que referido auto especifica o artigo e parágrafo da lei que foram infringidos (artigo 4º, parágrafo 1º).
+Assim, não obstante a existência de pequeno erro material ao fazer referência na especificação da infração de "não atendimento da notificação", verifica-se, ao contrário do sustentado pela requerente, que a infração foi suficientemente descrita e tipificada no auto de infração.
+Pelo que se infere dos procedimentos administrativos juntados aos autos, restou demonstrado que realmente o sistema de monitoramento instalado pelo requerente visava apenas cobrir a parte interna de seu estabelecimento.
+Consigno que apesar do autor alegar que cumpriu integralmente o determinado na lei, quando instado a especificar provas, pediu o julgamento antecipado da lide, deixando precluir a oportunidade de provar sua assertiva.
+Verifica-se que o requerente apresentou administrativamente perante a requerida o manual explicativo de seu sistema de monitoramento de câmeras, porém, a requerida considerou que não estavam suficientes ao cumprimento da lei, originando os Autos de Imposição de Multa nºs 261/11, 20/12 e -55/12, que foram aplicados em virtude do atendimento parcial às exigências legais.
+Ocorre que, pela descrição cronológica dos fatos depreende-se que a questão sempre girou em torno do não cumprimento integral da Lei, especificamente do previsto no artigo 41, inciso I, eis que a requerente comprovou que já tinha o sistema de monitoramento na parte interna de sua agência.
+Os autos de imposição de Multa nºs 261/11, 20/12 e 55/12 não especificaram o artigo e incisos que foram descumpridos, fazendo menção apenas ao descumprimento da lei, o que reforça a conclusão de que o problema ainda era o descumprimento do art. 4º, parágrafo 1º, tipificado no primeiro Auto de Imposição de Multa nº 10/10.
+ ..
+Não se configura, portanto, a ofensa ao art. 535 do CPC/1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1486330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, CORTE ESPECIAL, DJe 27/5/2015.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja embargos de declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 535 do CPC/1973.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RI/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
