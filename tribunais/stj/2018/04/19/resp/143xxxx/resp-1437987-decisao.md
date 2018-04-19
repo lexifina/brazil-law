@@ -1,0 +1,29 @@
+DECISÃO
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. LICENÇA REMUNERADA PARA ATIVIDADE POLÍTICA. NECESSÁRIO DEFERIMENTO DO REGISTRO DE CANDIDATURA. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. RECURSO ESPECIAL DA UNIÃO A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela UNIÃO, com fundamento nas alíneas a e c do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 5a. Região, assim ementado:
+CONSTITUCIONAL. SERVIDOR PÚBLICO. LICENÇA REMUNERADA. EXERCÍCIO DE ATIVIDADE POLÍTICA. DEFERIMENTO DO REGISTRO. ARTIGO 86 DA LEI No 8.112/1990. APELAÇÃO IMPROVIDA.
+1. O Superior Tribunal de Justiça" e este egrégio Tribunal já decidiram que o servidor público candidato a cargo eletivo somente faz jus à licença remunerada após o deferimento do registro de candidatura pela justiça eleitoral. Precedentes: STJ,AGA 200801722669, OG FERNANDES, STJ - SEXTA TURMA, 04/05/2009; APELREEX 200984000001083, Desembargadora Federal Margarida Cantarelli, TRF5 - Quarta Turma, 12/11/2009.
+2. Correto o entendimento esposado na sentença, ao fixar como termo inicial da licença em"referência, o dia 24 de julho de 2010, data do deferimento do registro da candidatura pela Justiça Eleitoral.
+3. Nó caso em tela, 9 autor fez jus à licença remunerada para fins eleitorais, nos termos do art.86, § 20, da Lei n1. 8112/90, no período compreendido entre 24 de julho de 2010 a 15 de outubro de 2010, sendo, portanto, indevida a devolução à União, dos valores recebidos no periodo de 06 de 10 de 2010 a 15 de outubro de 2010, de que trata a Portaria Retificadora da Portaria 1.589 de 15/10/2010 da Coordenação Geral de Recurso Humanos do Departamento de Polícia Rodoviária Federal que havia concedido corretamente 01 periodo da licença remunerada.
+4. Decaindo o autor da parte mínim a, inaplicável a regra do art. 21, do CPC. Manutenção da verba honorária fixada em R$ 1.000,00 (hum mil reais> por se encontrar em consonância com a regra inserta no art. 20, § 40, do CPC.
+5. Apelação improvida (fls. 161).
+2. Alega-se nas razões do Apelo Nobre violação dos arts. 86, §§ 1o. e 2o. e 46, §§ 1o., 2o. e 3o. da Lei 8.112/1990 e arts. 884 e 885 do CC/2002, sustentando o dever de devolução de valores recebidos erroneamente porquanto o período de afastamento até o décimo dia seguinte à eleição decorre da própria Lei. Nem a Administração nem o autor podem alterar a seu bel prazer o afastamento posterior à data da eleição. E é exatamente esse período que está sendo cobrado do autor, haja vista que não há respaldo legal para o pagamento de sue remuneração nesse período (fls. 169).
+3. É o relatório. Decido.
+4. Acerca do termo inicial da licença para atividade políticas pelo Servidor Público, bem como a devolução dos valores correspondentes ao período em que a licença teria sido paga indevidamente, o acórdão recorrido consignou:
+Acerca da matéria em discussão na presente ação, o Superior Tribunal de Justiça já decidiu que o servidor público candidato a cargo eletivo, somente faz jus à licença remunerada após o deferimento do registro de candidatura pela justiça eleitoral, conforme precedente abaixo transcrito:
+(..).
+Assim, correto o entendimento esposado na sentença ao fixar como termo inicial da licença em referência, o dia 24/07/2010, data do deferimento do registro da candidatura (fls. 25) pela Justiça Eleitoral.
+Nesta circunstância, o autor fez jus à licença remunerada para fins eleitorais, nos termos do art.86, § 2o., da Lei 8112/90, no, período compreendido entre 24/07/2010 a 15/10/2010, sendo portanto, indevido a devolução à União, dos valores recebidos no período de 06/10/2010 a 15/10/2010, de que trata a Portaria Retificadora (fís. 48) da Portaria 1.589 de 15/10/2010 da Coordenação Geral de Recurso Humanos do Departamento de Polícia Rodoviária Federal (fís. 34) que havia concedido corretamente o periodo da licença remunerada.
+Não é portanto, cabível a restituição de qualquer valor recebido a título de licença remunerada para fins eleitorais, no periodo de 06/10/2010 a 15/10/2010 (fls. 158/159).
+5. O Tribunal a quo decidiu à luz do entendimento desta Corte Superior, de que é imprescindível o deferimento do registro de candidatura do Servidor para que este faça jus à licença remunerada para o exercício de atividade política. Nesse sentido:
+AGRAVO REGIMENTAL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. CARGO ELETIVO. DISPUTA. LICENÇA REMUNERADA. CANDIDATURA. REGISTRO. DEFERIMENTO. NECESSIDADE.
+- A fim de que o servidor público faça jus à licença remunerada para o exercício de atividade política, é imprescindível o deferimento do registro de sua candidatura pela Justiça Eleitoral. Precedentes.
+- Agravo regimental desprovido (AgRg no Ag 1.075.291/DF, Rel. Min. OG FERNANDES, DJe 4.5.2009).
+
+RECURSO ESPECIAL. ADMINISTRATIVO E ELEITORAL. POLICIAL CIVIL. DISTRITO FEDERAL. LICENÇA PARA ATIVIDADE POLÍTICA. VEREADOR. DOMICÍLIOS ELEITORAL E CIVIL DIVERSOS. POSSIBILIDADE. DESINCOMPATIBILIZAÇÃO. DESNECESSIDADE. REMUNERAÇÃO INTEGRAL. INTELIGÊNCIA DO ART. 86, §§ 1º E § 2º DA LEI Nº 8.112/90.
+I- O servidor público integrante do quadro funcional da Polícia Civil do Distrito Federal faz jus à licença para atividade política, com vencimentos integrais, desde que tenha sido deferido pela justiça eleitoral o registro de sua candidatura, independentemente de concorrer ao pleito em domicílio eleitoral diverso daquele onde exerce suas atribuições.
+II- A desincompatibilização do servidor só se exige na hipótese de concorrer a cargo eletivo na localidade onde exerce suas atribuições e desde que exerça cargo de direção, chefia, assessoramento, arrecadação ou fiscalização. Inteligência do § 1º do art. 86 da Lei nº 8.112/90.
+Recurso especial parcialmente conhecido e desprovido (REsp. 599.751/DF, Rel. Min. FELIX FISCHER, DJ 9.10.2006).
+6. Ante o exposto, nega-se seguimento ao Recurso Especial da União.
+7. Publique-se.
+8. Intimações necessárias.
