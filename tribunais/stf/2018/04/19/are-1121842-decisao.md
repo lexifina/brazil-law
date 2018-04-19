@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL – INTERPRETAÇÃO – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1.. O Tribunal de Justiça do Estado de São Paulo, reformando o entendimento do Juízo, concedeu a segurança quanto ao restabelecimento do benefício de pensão por morte. No extraordinário cujo trânsito busca alcançar, a recorrente alega violado o artigo 24, inciso XII e § 4º, da Constituição Federal. Diz da impossibilidade de pagamento de benefício distinto dos previstos no regime geral de previdência social. Aponta a ilegalidade da concessão de parcela a partir de lei com eficácia suspensa. Tece considerações sobre a Lei federal nº 9.717/98. Aponta a inocorrência da decadência do direito de invalidação do ato concessivo do benefício.
+    2. De início, quanto à evocação do enquadramento do extraordinário na alínea d do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco da agravante, uma vez que não se julgou válida lei local contestada em face de lei federal. Incabível o recurso, no particular.
+    No mais, da leitura da decisão impugnada mediante o extraordinário depreende-se, a mais não poder, ter o Tribunal de origem julgado a apelação a partir de análise conferida a normas locais. Procedeu à interpretação da Lei Complementar estadual nº 1.013/07 e das Leis Ordinárias estaduais nº 452/74 e nº 1.069/76. Ora, a controvérsia sobre o alcance de lei local não viabiliza, conforme sedimentado pela jurisprudência - verbete nº 280 da Súmula: Por ofensa a direito local não cabe recurso extraordinário -, o acesso ao Supremo.
+    Colho do acórdão o seguinte trecho:
+    Verifica-se dos autos que o instituidor da pensão faleceu no dia 10 de março de 1999 (fls. 18), durante a vigência da Lei no 452/74, com a redação conferida pela Lei Estadual no 1.069/1976 e, portanto, antes das alterações promovidas pela Lei Complementar no 1.013/2007, que restringiu a concessão do benefício às mesmas hipóteses previstas na legislação do Regime Geral de Previdência Social.
+    Portanto, observado o regime previdenciário vigente à época do óbito do segurado, pelo princípio do tempus regict actum, a impetrante adquiriu o direito à pensão pela morte de seu pai, não podendo ser atingida pela regra estabelecida em legislação posterior, razão pela qual de rigor o restabelecimento do pagamento.
+    3. Ante o quadro, conheço do agravo e o desprovejo. Deixo de fixar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, por tratar-se de extraordinário formalizado no curso de processo cujo rito os exclua.
+    4. Publiquem.
+Brasília, 19 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
