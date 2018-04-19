@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, objetivando reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (fl. 91):
+ACIDENTÁRIA - Restabelecimento de auxílio suplementar - Descabimento - Impossibilidade de cumulação do benefício com aposentadoria por tempo de serviço, nos termos do art. 9º, parágrafo único, da Lei nº 6.367/76 - Descabimento da restituição dos valores já recebidos - Caráter alimentar do benefício - Princípio da irrepetibilidade - Procedência parcial da ação - Exclusão da imposição de custas ao INSS - Recursos autárquico e oficial parcialmente providos.
+No recurso especial (fls. 146-149), o recorrente aponta violação do art. 115, inciso II, da Lei n. 8.213/91.
+Sustenta, em síntese, pela possibilidade de restituição dos valores recebidos indevidamente pelo segurado, ainda que recebidos de boa-fé e com caráter alimentar, independente de haver erro da administração.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O recurso especial foi inadmitido com fundamento na ausência de violação à lei federal.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passo ao exame do recurso especial.
+O recurso não merece trânsito.
+Esta e. Corte tem jurisprudência sedimentada no sentido de que valores decorrentes de benefício previdenciário pagos a maior, em que o segurado não deu contribuição ao erro da administração, são percebidos de boa-fé e não estão sujeitos à devolução.
+Nesse sentido, in verbis:
+RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. PRESCRIÇÃO E TRANSAÇÃO EXTRAJUDICIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF.ASSISTIDO. VALORES RECEBIDOS INDEVIDAMENTE. NORMA DO REGULAMENTO. MÁ APLICAÇÃO. ERRO DA ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. CORREÇÃO DO ATO. DEVOLUÇÃO DAS VERBAS. DESNECESSIDADE. CARÁTER ALIMENTAR. BOA-FÉ DO BENEFICIÁRIO. APARÊNCIA DE LEGALIDADE E DEFINITIVIDADE DO PAGAMENTO.
+1. Cinge-se a controvérsia a saber se o pagamento a maior realizado pelo ente de previdência privada, seja por exclusiva inércia, seja por erro na interpretação e na aplicação de ato normativo, enseja o desconto das diferenças nas parcelas vincendas do benefício previdenciário complementar do assistido.
+2. Apesar de os regimes normativos das entidades abertas e fechadas de previdência complementar e da Previdência Social diferirem entre si, possuindo cada qual especificidades intrínsecas e autonomia em relação à outra, o mesmo raciocínio quanto à não restituição das verbas recebidas de boa-fé pelo segurado ou pensionista e com aparência de definitividade deve ser aplicado, a harmonizar os sistemas.
+3. Não só os pagamentos dos benefícios da previdência pública mas também os da previdência privada devem reger-se pelo postulado da boa-fé objetiva. Logo, se restar configurada a definitividade putativa das verbas de natureza alimentar recebidas pelo assistido, que, ao invés de ter dado causa ou ter contribuído para o equívoco cometido pelo ente de previdência complementar, permaneceu de boa-fé, torna-se imperioso o reconhecimento da incorporação da quantia em seu patrimônio, a afastar a pretensa repetição de indébito ou a alegação de enriquecimento ilícito.
+4. Os valores recebidos de boa-fé pelo assistido, quando pagos indevidamente pela entidade de previdência complementar em razão de interpretação equivocada ou de má aplicação de norma do regulamento, não estão sujeitos à devolução, pois cria-se falsa expectativa de que tais verbas alimentares eram legítimas, possuindo o contrato de previdência privada tanto natureza civil quanto previdenciária.
+5. Hipótese diversa é daqueles casos envolvendo a devolução de valores de benefícios previdenciários complementares recebidos por força de tutela antecipada posteriormente revogada, pois, nessas situações, prevalecem a reversibilidade da medida antecipatória, a ausência de boa-fé objetiva do beneficiário e a vedação do enriquecimento sem causa. (grifo nosso)
+6. Recurso especial não provido.
+(REsp 1626020/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/11/2016, DJe 14/11/2016)
+AGRAVO INTERNO. PREVIDENCIÁRIO. DESCONTO DE VALORES RECEBIDOS DE BOA-FÉ DA APOSENTADORIA DO SEGURADO. IMPOSSIBILIDADE. CARÁTER ALIMENTAR DO BENEFÍCIO. RESTITUIÇÃO. PRECEDENTES: RESP 1.550.569/SC, REL. MIN. REGINA HELENA COSTA, DJE 18.5.2016; RESP 1.553.521/CE, REL. MIN. HERMAN BENJAMIN, DJE 2.2.2016; AGRG NO RESP 1.264.742/PR, REL. MIN. NEFI CORDEIRO, DJE 3.9.2015. AGRAVO DESPROVIDO.
+1. Esta Corte tem o entendimento de que, em face da hipossuficiência do segurado e da natureza alimentar do benefício, e tendo a importância sido recebida de boa-fé por ele, mostra-se inviável impor ao benefíciário a restituição das diferenças recebidas. (grifo nosso)
+Precedentes: REsp. 1.550.569/SC, Rel. Min. REGINA HELENA COSTA, DJe 18.5.2016; REsp. 1.553.521/CE, Rel. Min. HERMAN BENJAMIN, DJe 2.2.2016; AgRg no REsp. 1.264.742/PR, Rel. Min. NEFI CORDEIRO, DJe 3.9.2015.
+2. Ressalta-se que o presente julgamento debate tema distinto daquele sedimentado na apreciação do REsp. 1.401.560/MT, representativo de controvérsia, não se referindo à devolução de verbas conferidas por decisão precária, a título de tutela antecipada.
+3. Agravo Interno do INSS desprovido.
+(AgInt no REsp 1441615/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/08/2016, DJe 24/08/2016)
+Sendo assim, e com base na Súmula 568/STJ, considero que a pretensão do recorrente diverge da jurisprudência firmada nesta e. Corte, motivo pelo qual deve ser negada.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RI/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
