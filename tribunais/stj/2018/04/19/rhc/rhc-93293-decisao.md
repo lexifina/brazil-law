@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (2157413-52.2017.8.26.0000).
+Consta dos autos ter sido o recorrente preso em flagrante, custódia essa convertida em preventiva, pela suposta prática do crime de tráfico de entorpecentes, pois, segundo a denúncia, "(a) vendeu e entregou ao consumo do adolescente  ..  duas porções da droga popularmente conhecida como "maconha" (THC - Tetraidrocanabinol); (b) guardava, para fins de venda e entrega ao consumo de terceiros, sete porções da referida droga, pesando 13,24 gramas, bem como (c) cultivava duas plantas que se constituíam em matéria-prima para a preparação da referida droga  com peso aproximado de 10g - e-STJ fl. 38  " (e-STJ fl. 63, grifei).
+Impetrado habeas corpus no Tribunal de origem objetivando a liberdade do ora recorrente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 76):
+Habeas corpus - Tráfico Ilícito de entorpecentes - Possibilidade de aplicação do redutor previsto no art. 33, § 4º da Lei 11.343/06, em caso de eventual condenação - Via eleita inadequada à análise do mérito da ação penal - Revogação da prisão preventiva por ausência de fundamentação - Impossibilidade - Presentes os requisitos do art. 312, do CPP - Prisão preventiva mantida - Ordem denegada.
+Neste recurso, sustenta a defesa inexistir motivação idônea para a segregação antecipada, visto que não apontada, concretamente, a presença dos requisitos do art. 312 do Código de Processo Penal, asseverando a desproporcionalidade da custódia preventiva ante a possibilidade, em caso de eventual condenação, de fixação de regime prisional diverso do fechado e de substituição da pena.
+Aduz que militam em favor do recorrente condições pessoais favoráveis, tais como primariedade e ocupação lícita.
+Defende a suficiência da imposição de medidas cautelares alternativas.
+Busca, inclusive liminarmente, seja revogada a custódia cautelar do recorrente.
+Liminar deferida em 19/12/2017 para assegurar ao recorrente a possibilidade de aguardar o julgamento definitivo deste recurso em liberdade (e-STJ fls. 117/119).
+Em parecer, o Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ fls. 146/152).
+É o relatório.
+Consoante informações colhidas no sítio eletrônico do Tribunal de origem, em 8/3/2018 foi proferida sentença condenatória pelo Juízo de piso, aplicando ao ora recorrente a pena de 1 ano, 11 meses e 10 dias de reclusão, em regime inicial aberto, e 194 dias-multa, pela prática do crime previsto no art. 33, caput e § 1º, II, da Lei n. 11.343/2006, c/c o art. 40, VI, da mesma Lei, sendo-lhe, ainda, deferida a substituição da pena privativa de liberdade por duas restritivas de direitos.
+Nessas circunstâncias, a liberdade do recorrente agora decorre da sentença condenatória, a qual impôs regime aberto para início de cumprimento da reprimenda, substituída a pena por restritiva de direitos, motivo pelo qual o presente recurso ordinário em habeas corpus perdeu seu objeto.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
