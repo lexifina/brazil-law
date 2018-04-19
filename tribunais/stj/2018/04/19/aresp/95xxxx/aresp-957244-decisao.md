@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. REAJUSTE DE 28,86%. EMBARGOS À EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 211 do STJ e 282 e 284 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 1461-1462):
+PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO, REFERENTE AO REAJUSTE DE 28,86%. COMPENSAÇÃO. EVOLUÇÃO FUNCIONAL E REPOSICIONAMENTO. CORREÇÃO MONETÁRIA. INDICES DE DEFLAÇÃO. DESCABIMENTO. TRANSAÇÃO. HOMOLOGAÇÃO. LITISPENDÊNCIA. INOCORRÊNCIA.
+1. Consoante reiterados precedentes desta Corte, a evolução funcional do servidor não pode ser utilizada para fins de compensação do reajuste de 28,86% a que se referem as Leis n" 8.622 e 8.627/93, devendo apenas serem compensados os reposicionamentos concedidos pelos referidos diplomas legais.
+2. Em relação à base de cálculo do reaiuste de 28,86%, o Supremo Tribunal Federal, conforme interpretação conferida às Leis 8.622/93 e 8.627193, decidiu que o reaauste de 28,86% importou em revisão geral de remuneração, o que inclui o vencimento básico (servidor público) ou o soldo, no caso de militar, acrescido das parcelas que não os tem como base de cálculo.
+3. Considerando que a complementação do salário mínimo possui natureza remuneratária dos militares de baixa graduação, resta claro que o reaiuste de 28,86% deve incidir sobre tais parcelas. Precedente, su&eito ao rito dos repetitivos: (REsp 990.284/RS. Rei. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 26/11/12008, DJe 12009).
+4. Correta a incidência do reajuste de 28,86% sobre a rubrica: Abono Especial 5% MP 433/94, visto que integra a base de cálculo por se tratar de vantagem de caráter pe rmanente/habitual e se enquadrar no conceito de remuneração.
+5. "A base de cálculo para a incidência do reajuste de 28,86 deverá ser a remuneração, compreendendo todas as parcelas remuneratórias de natureza permanente que podem ser alcançadas pela revisão geral, inclusive o Abono previsto na Lei 7.706." (AC 2000.34.00.035967- 3/DF, ReI. Desembargador Federal Carlos Olavo, Primeira Turma, e-DJF1 p. 170 de 12052009.
+6. Não pode o credor ser apenado com a redução do valor nominal de seu crédito, ao argumento de gue num dado período houve variação negativa dos preços apurados, pelo simples fato de que se ele tivesse recebido o que de direito no momento oportuno, sequer se teria cogitado da ação ajuizada.
+7. Devem ser excluídos dos cálculos de valores atrasados as parcelas referentes aos apelados gue firmaram acordo/transação judicial para recebimento na via administrativa das diferenças decorrentes do reajuste de 28,86%.
+8. Segundo estabelece o art. 333 e incisos do Código de Processo Civil, o Ônus da prova cabe a quem alega, não sendo suficientes, para efeito de comprovação, meras alegações.
+9. Os índices de correção monetária a serem utilizados na feitura dos cálculos exequendos são exatamente aqueles constantes do Manual para Procedimento de Cálculos no Âmbito da Justiça Federal.
+10. Apelação parcialmente procedente.
+Embargos de declaração acolhidos.
+No recurso especial o recorrente alega violação do art. 28 da Lei 8.880/1994, do art. 41 da Lei 8.112/1990, do art. 20 da Lei 8.890/1994 e dos arts. 876 e 884 do Código Civil, ao argumento de que não seria possível a incidência do índice de 28,86% sobre a rubrica temporária rubrica 675 - ABONO 5% - MP 433/94, face a sua natureza esporádica e temporária, já que se tratou de pagamento devido exclusivamente no mês de fevereiro de 1994, não servindo de base de cálculo para nenhuma gratificação ou adicional" (fl. 1.494), de modo que não se inclui no conceito de "remuneração" e, portanto, deve ser excluída da base de cálculo do aludido reajuste.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Tendo a agravante impugnado o fundamento de inadmissibilidade, passo a apreciação do apelo especial.
+No que diz respeito a violação do art. 28 da Lei 8.880/1994, do art. 41 da Lei 8.112/1990, do art. 20 da Lei 8.890/1994 e dos arts. 876 e 884 do Código Civil, sustenta a agravante que não seria possível a incidência do índice de 28,86% sobre a rubrica 675 - ABONO 5% - MP 433/94, pois se tratou de pagamento devido exclusivamente no mês de fevereiro de 1994, não servindo de base de cálculo para nenhuma gratificação ou adicional, não se incluindo, dessa forma, no conceito de "remuneração".
+Contudo, a Corte de origem não apreciou nem debateu a controvérsia considerando a referida tese recursal, limitando-se a assentar que a referida verba detém caráter permanente, o que enseja a aplicação da Súmula 282 do STF, face a ausência de prequestionamento.
+Frise-se, por oportuno, que os embargos de declaração opostos pela ora agravante na origem, se limitaram a suscitar omissão do julgado quanto a análise da natureza da rubrica 000330 - VP Transitória.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
