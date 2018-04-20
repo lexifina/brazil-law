@@ -1,0 +1,18 @@
+Decisão
+    Trata-se de Embargos de Declaração opostos por AD AUGUSTA PER ANGUSTA LTDA – EPP contra despacho que determinou a devolução dos dos autos ao Juízo de origem para aplicação de precedentes desta CORTE formados sob a sistemática da repercussão geral (RE 611.505-RG, Rel. Min. EDSON FACHIN, Tema 482; ARE 745.901-RG, Rel. Min. TEORI ZAVASCKI, Tema 759; e RE 565.160, Rel. Min. MARCO AURÉLIO, Tema 20).
+    Sustenta a embargante que o referido despacho padece de omissão e equívoco, pois (a) a União interpôs agravo da decisão que negou seguimento ao recurso extraordinário por ela interposto, insurgindo-se apenas quanto à incidência de contribuição previdenciária sobre os valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença; (b) em relação ao aviso prévio indenizado e ao terço constitucional de férias, tais matérias não foram objeto de agravo em recurso extraordinário; (c) quanto à contribuição previdenciária sobre o aviso prévio indenizado (Tema 759), o STF decidiu pela inexistência de repercussão geral da matéria; (d) relativamente ao terço constitucional de férias, não caberia, na hipótese, a aplicação do Tema 20, pois o Superior Tribunal de Justiça já definiu que tal verba não compõe a base de cálculo da contribuição, tratando-se, portanto, de matéria infraconstitucional.
+    Intimada a se manifestar, a UNIÃO apresentou razões, sem contudo impugnar os fundamentos dos embargos, conforme se afere do seguinte trecho da peça processual (Vol. 23):
+    “Por dever de lealdade e boa-fé processual, a União, concordando com todos os pontos do recurso aclaratório, deixa de apresentar impugnação.”
+    É o relatório. DECIDO.
+    Embora, via de regra, sejam irrecorríveis os despachos (Código de Processo Civil, art. 1.001), a jurisprudência tolera sua correção quando se detectar erro material. Veja-se, a propósito, o seguinte julgado desta CORTE em situação idêntica à presente:
+    “RECURSO. Embargos de declaração. Interposição contra acórdão que determinou a devolução dos autos para o Tribunal de origem. Art. 543-B do CPC. Erro material na indicação do precedente cuja repercussão geral foi reconhecida. Correção. Sobrestamento. Embargos de declaração providos. Embargos declaratórios prestam-se à correção de erro material, quando o acórdão embargado indica precedente sobre tema diverso do discutido nos autos.” (RE 545.519-ED, Rel. Min. CEZAR PELUSO, Segunda Turma, DJe de 9/10/2009)
+    No caso, assiste razão à ora embargante, pois, de fato, há erro material a ser sanado.
+    De início, destaco que da análise acurada do Agravo em Recurso Extraordinário, verifica-se que a União restringiu-se a discutir acerca da incidência de contribuição previdenciária sobre os valores pagos pelo empregador ao empregado nos primeiros quinze dias de auxílio-doença.
+    Assim, não tendo a União se insurgido sobre as matérias constantes dos Temas 20 e 759 desta CORTE SUPREMA, esta decisão ficará restrita à análise da controvérsia versada no Tema 482 (RE 611.505-RG, Rel. Min. EDSON FACHIN).
+    No que remanesce, esta CORTE, quando do julgamento do RE 611.505-RG (Rel. Min. CESAR PELUSO, Tema 482) rejeitou a repercussão geral relativamente à discussão acerca da “incidência de contribuição previdenciária sobre os valores pagos pelo empregador ao empregado nos primeiros quinze dias de auxílio-doença”, haja vista a inexistência de questão constitucional a ser apreciada.
+    Por todo o exposto, ACOLHO OS EMBARGOS DE DECLARAÇÃO, e, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO AGRAVO.
+    Publique-se.
+    Brasília, 20 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+        Documento assinado digitalmente
