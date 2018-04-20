@@ -1,0 +1,18 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PENAL E PROCESSO PENAL. EXCEÇÃO DE SUSPEIÇÃO. IMPARCIALIDADE DO JULGADOR. NÃO DEMONSTRAÇÃO. NÃO CONFIGURAÇÃO DAS HIPÓTESES TAXATIVAS.
+    1. Constituem-se a suspeição e o impedimento em garantias da jurisdição, como corolário da defesa social, que retira a resposta criminal das mãos da vítima ou interessados.
+    2. A alegada imparcialidade do Juiz Federal não restou demonstrada.
+    3. Não indica o prejulgamento a circunstância de o magistrado conceder entrevista mencionando processo no qual já esgotou a sua jurisdição, quando os comentários são genéricos, de cunho acadêmico sobre penas e vicissitudes probatórias e processuais em face de pessoas com foro privilegiado, em nenhum momento citando o nome do excipiente ou o cargo que um dia ocupou.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega que:
+    (i) “houve uma contrariedade negativa quando se deixou de aplicar uma regra legal, qual seja, os tratados, pactos e convenções internacionais, bem como os artigos 5º LIV e 37 da Constituição Federal de 1988”;
+    (ii) que houve violação “ao disposto nos artigos 10 da Declaração Universal dos Direitos Humanos (DUDH), Artigo 26 da Declaração Americana dos Direitos e Deveres do Homem, Artigo 8º, da Convenção Americana de Direitos Humanos, Pacto de San José da Costa Rica e Artigo 14 do Pacto Internacional sobre os Direitos Civis e Políticos, todos aprovados e ratificados pelo Congresso e Governo Brasileiro”;
+    (iii) “não há dúvidas que sob qualquer prisma que se possa analisar o processo criminal, verificar-se-á que o Magistrado da 3ª Vara Federal de Santa Maria estava e ainda está eivado de parcialidade negativa sobre a causa, sendo que não poderia nem deveria julgar o processo criminal, devendo ser nulificados todos os atos e decisões proferidas pelo Juiz suspeito no curso da ação penal”.
+    O recurso é inadmissível, tendo em vista que, por ausência de questão constitucional, o Supremo Tribunal Federal rejeitou preliminar de repercussão geral relativa à controvérsia sobre suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal (ARE 748.371-RG, Rel. Min. Gilmar Mendes - Tema 660).
+    No caso, a parte recorrente se limita a postulara análise da legislação infraconstitucional pertinente e uma nova apreciação dos fatos e do material probatório constante dos autos, o que não é possível nesta fase processual (Súmula 279/STF). Nessa linha, vejam-se o AI 815.344-AgR, Rel. Min. Joaquim Barbosa; e o ARE 746.620-AgR, Rel. Min. Luiz Fux, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. EXCEÇÃO DE IMPEDIMENTO E SUSPEIÇÃO. JUIZ EXCEPTO. IMPARCIALIDADE. COMPROVAÇÃO. ADOÇÃO NAS RAZÕES DE DECIDIR DOS ARGUMENTOS EXPENDIDOS PELO PARQUET. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 748.371. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. MULTA DO ARTIGO 557, § 2º, DO CPC/1973. APLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 20 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
