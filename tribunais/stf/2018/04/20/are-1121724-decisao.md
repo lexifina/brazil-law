@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 2ª Região assentou a intempestividade da apelação, presente observância da exclusividade de intimação em nome do advogado indicado pela parte, apontando ainda a ocorrência de preclusão lógica. No extraordinário cujo trânsito pretende alcançar, a recorrente aponta a violação do artigo 5º, inciso LV, da Constituição Federal. Diz contrariado o princípio da ampla defesa ante a nulidade da intimação da sentença. Alude à questão de fundo, defendendo a inconstitucionalidade do “IOF-Ouro”.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Confiram a síntese do acórdão recorrido:
+    TRIBUTÁRIO. AGRAVO INTERNO. DECISÃO AGRAVADA EM CONSONÂNCIA COM JURISPRUDÊNCIA DO EG. STJ. PEDIDO DE INTIMAÇÃO EXCLUSIVA REQUERIDO EM NOME DE UM DELES. AUSÊNCIA DE REQUERIMENTO EXPRESSO DE INTIMAÇÃO DO ADVOGADO RESIDENTE NA “CIDADE DO JUÍZO” OU DE “QUEM POSSUÍA CADASTRO NO RECORTE DE PUBLICAÇÕES”. INTIMADA A AUTORA ACEITOU TACITAMENTE A SENTENÇA PRATICANDO ATO INCOMPATÍVEL COM A VONTADE DE RECORRER. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+    1. Decisão agravada em consonância com a jurisprudência dominante do Eg. Superior Tribunal de Justiça, uma vez que, como firmado, o pedido de intimação exclusiva foi observado, visto que nele consta o nome de dois advogados, tendo tal intimação sido realizada em nome de um deles. Ausência de requerimento expresso de intimação do advogado residente na “cidade do Juízo” ou de quem “possuía cadastro no recorte de publicações de Vitória”.
+    2. Como observado, a autora foi devidamente intimada através de seu patrono, que aceitou tacitamente a sentença, ao praticar ato incompatível com o desejo de recorrer (atendeu à determinação, efetuando o pagamento dos honorários de sucumbência) e deixar de arguir a suposta nulidade na primeira oportunidade que teve de se manifestar nos autos.
+    3. Decisão agravada mantida pelos próprios fundamentos.
+    4. Agravo interno não provido.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em síntese, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar-se a viabilidade do recurso.
+    A par desse aspecto, o acórdão impugnado revela interpretação de normas estritamente legais, sobretudo o Código de Processo Penal, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário, quanto à violação da ampla defesa, não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de outro processo.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 20 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
