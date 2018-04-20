@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Ministério Público do Estado de São Paulo. Aparelhado o recurso na afronta aos arts. 5º, LV, e 93, IX, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    As razões do recurso não se mostram aptas a infirmar os fundamentos que lastrearam a decisão recorrida. Incide, na espécie, o entendimento jurisprudencial vertido na Súmula 284/STF: “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”.
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano.
+    Ressalto, ainda, o entendimento jurisprudencial reafirmado, em sede de repercussão geral, em relação às violações alegadas no presente recurso, verbis:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 13.8.2010)
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (ARE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013)
+    Ainda que não se ressentisse o recurso quanto aos pressupostos, melhor sorte não colheria, porquanto compreensão diversa do entendimento adotado pelo Tribunal de origem demandaria o exame prévio da legislação processual aplicável, bem como a reelaboração da moldura fática delineada no acórdão recorrido, a tornar oblíqua e reflexa eventual ofensa à Constituição, a teor da Súmula 279/STF. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal.
+    Por conseguinte, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de abril de 2018.
+Ministra Rosa Weber
+Relatora
