@@ -1,0 +1,11 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – CORREÇÃO MONETÁRIA – FAZENDA PÚBLICA – CONDENAÇÃO – REPERCUSSÃO GERAL JULGADA – ACÓRDÃO PUBLICADO – PROVIMENTO.
+    1. Afasto o sobrestamento anteriormente determinado. A sistemática prevista no artigo 1.040 do Código de Processo Civil sinaliza, a partir da publicação do acórdão paradigma, a observância do entendimento do Plenário, formalizado sob o ângulo da repercussão geral.
+    2. O Tribunal de origem reformou parcialmente o entendimento do Juízo quanto ao direito do recorrente à aposentadoria especial. Fixou o índice de correção monetária e os juros moratórios com base nos critérios estabelecidos pelo artigo 1º-F da Lei 9.494/1997, com redação dada pela Lei nº 11.960/2009. No extraordinário, o recorrente articula com a inconstitucionalidade do referido dispositivo. Aponta a transgressão dos artigos 5º, inciso XXII, LIV, 7º, inciso IV, 37, cabeça, 150, incisos II e IV, 194, inciso IV e 201, parágrafos 3º e 4º, da Constituição Federal. Requer a observância do índice Nacional de Preços ao Consumidor Amplo Especial – IPCA-E para fins de atualização monetária.
+    O Pleno, no recurso extraordinário nº 870.947/SE, relatado pelo ministro Luiz Fux, acórdão publicado no Diário da Justiça de 20 de novembro de 2017, assentou, sob o ângulo da repercussão geral, a inconstitucionalidade parcial do artigo 1º-F da Lei 9494/1997, com redação dada pela Lei nº 11.960/2009. Concluiu que o índice de correção monetária aplicável às condenações impostas à Fazenda Pública será o decorrente da variação de preços da economia, evitando-se enriquecimento sem causa do Estado-devedor.
+    3. No caso, faz-se em jogo controvérsia estranha ao campo tributário. O Tribunal de origem fixou a correção monetária com base na Taxa Referencial - TR. O quadro impõe a reforma do pronunciamento, considerada a óptica revelada no paradigma, submetido ao regime da repercussão maior.
+    4. Ante o precedente, conheço do extraordinário e o provejo para, reformando o acórdão recorrido, determinar a incidência da correção monetária pelo Índice Nacional de Preços ao Consumidor Amplo Especial – IPCA-E.
+    5. Publiquem.
+Brasília, 20 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
