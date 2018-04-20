@@ -1,0 +1,38 @@
+Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Geraldo Santamaria Neto em favor de Deivison Correia Carvalho, contra decisão monocrática da lavra do Ministro Jorge Mussi, do Superior Tribunal de Justiça, que não conheceu do HC 438.153/SP.
+    O Juízo da 11ª Vara Criminal do Foro Central de Barra Funda/SP condenou o paciente à pena de 05 (cinco) anos de reclusão, em regime inicial fechado, pela prática do crime de tráfico de drogas, tipificado no art. 33 da Lei 11.343/2006.
+    Inconformada, a Defesa interpôs apelação perante o Tribunal de Justiça de São Paulo, que negou provimento ao recurso.
+    A questão, então, foi submetida à apreciação do Superior Tribunal de Justiça, que, via decisão monocrática da lavra do Ministro Jorge Mussi, não conheceu do HC 438.153/SP.
+    No presente writ, o Impetrante pugna pelo afastamento da Súmula 691/STF. Para tanto, alega inidônea a fundamentação da sentença condenatória quando da fixação do regime inicial, porquanto lastreada na gravidade abstrata do delito. Sustenta a ocorrência de bis in idem ao valorar a quantidade e natureza da droga na imposição do regime inicial mais gravoso e no afastamento da causa especial de diminuição da pena (art. 33, § 4º, da Lei 11.343/2006). Requer, em medida liminar e no mérito, a fixação do regime semiaberto.
+    É o relatório.
+    Decido.
+    Extraio do ato dito coator:
+    “A princípio, o pedido deduzido na inicial não comporta conhecimento na via eleita, já que formulado em flagrante desrespeito ao sistema recursal vigente no âmbito do Direito Processual Penal pátrio, tendo em vista a impetração se destinar a atacar acórdão contra o qual seria cabível a interposição de recurso específico para tal fim, nos termos do artigo 105, inciso II, alínea "a", da Constituição Federal.
+    Nesses termos, o entendimento pacífico no âmbito deste Sodalício:
+    (...).
+    Entretanto, o constrangimento apontado na inicial será analisado, a fim de se verificar a existência de flagrante ilegalidade que justifique a atuação de ofício por este Superior Tribunal de Justiça.
+    No caso dos autos, o ora paciente alega estar sofrendo coação ilegal com a fixação do regime fechado para cumprimento da pena de 05 (cinco) anos de reclusão aplicada devido a prática do crime tipificado no art. 33, caput, da Lei de Drogas.
+    Afirma que os fundamentos apresentados pelo juiz sentenciante são inidôneos para o estabelecimento do regime mais gravoso.
+    Analisando as informações contidas nos autos, constata-se que o magistrado singular, ao estabelecer o regime de cumprimento da pena, assim se manifestou (fl. 12):
+    [...]
+    O regime inicial de cumprimento da pena deverá ser o fechado, ante a gravidade da conduta praticada, a personalidade desvirtuada do réu, sua periculosidade, a grande quantidade de entorpecentes apreendidos e a teor do que dispõe o artigo 2º, § 1º, da Lei 8.072/90.[...]
+    Interposta apelação, o Tribunal de origem, ao julgar o recurso, desproveu a insurgência, mantendo a decisão singular, nos seguintes termos:
+    [...]
+    Além da natureza assemelhada aos hediondos, o que torna o regime prisional fechado o único necessário e suficiente à repressão e prevenção da conduta praticada.
+    Consoante orientação do Superior Tribunal de Justiça, a quantidade e a natureza do entorpecente apreendido, bem como as circunstâncias da ocorrência, podem recomendar estabelecimento prisional fechado para o cumprimento da pena privativa de liberdade, nos termos do artigo 33, §§2º e 3º, do Código Penal (HC 235.182/ES - Quinta Turma - Relatora Ministra LAURITA VAZ, DJE de 01 de agosto de 2013).
+    [...]
+    É necessário frisar que, o magistrado, durante a aplicação da sanção penal, deve estar atento ao princípio da individualização da pena, explicitando, de forma fundamentada, as circunstâncias judiciais, agravantes, atenuantes e causas de aumento e diminuição de pena aptas a embasarem o quantum da penalidade, bem como o regime para seu cumprimento.
+    Todavia, em que pese não se desconhecer o entendimento firmado pela Suprema Corte acerca da inconstitucionalidade da obrigatoriedade do regime fechado para execução das penas aplicadas aos delitos hediondos, no crime de tráfico de drogas, ao ser fixado o modo de cumprimento da reprimenda, o magistrado deve estar atento não só às circunstâncias judiciais inseridas no art. 59, do CP, como também o disposto no art. 42, da Lei 11.343/2006, o qual prevê a possibilidade de menção à quantidade e natureza da substância entorpecente como fundamento para a aplicação de regime mais gravoso.
+    Diante do exposto, constata-se inexistir qualquer irregularidade passível de ser sanada por meio do presente mandamus, pois a fundamentação aplicada para justificar a fixação do regime fechado ao caso do paciente está em estreita consonância com a jurisprudência vigente nesta Corte Superior, a qual considerada plausível a utilização da quantidade e da natureza da droga apreendida como fatores suficientes para aplicação do regime mais gravoso para a execução da pena.
+    Nesse sentido, confiram-se os seguintes precedentes oriundos de julgados proferidos por esta Quinta Turma:
+      (...).
+    Inexistente, portanto, qualquer ilegalidade a ser sanada por meio deste writ.
+    Ante o exposto, com fundamento no artigo 34, inciso XX, do RI/STJ, não se conhece do habeas corpus”.
+    Registro a existência de óbice ao conhecimento do presente writ, uma vez não esgotada a jurisdição do Superior Tribunal de Justiça, o ato impugnado é decisão monocrática extintiva do writ e não o resultado de julgamento colegiado. Deveria a Defesa, pretendendo a reforma da decisão monocrática, ter manejado agravo regimental para que a questão fosse apreciada pelo órgão colegiado (HC 122.275-AgR/SP, Rel. Min. Teori Zavascki, 2ª Turma, DJe 01.7.2014).
+    Ademais, o ato apontado como coator está em consonância com a jurisprudência desta Suprema Corte no sentido da “Possibilidade de indeferir a substituição da pena por restritiva de direitos e de fixar o regime de cumprimento da pena forte na quantidade e natureza da droga. Precedente.” (RHC 122.804/MT, de minha relatoria, 1ª Turma, DJe 14.10.2014). De igual modo, “O Supremo Tribunal já assentou entendimento quanto à possibilidade de o juiz fixar o regime inicial fechado e afastar a substituição da pena privativa de liberdade por restritiva de direitos com base na quantidade e na natureza do entorpecente apreendido (RHC nº 125.077/MS-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe 4/3/15)” (RHC 132.328/MS, Rel. Min. Dias Toffoli, 2ª Turma, DJe 30.5.2016); e “A teor das normas de regência, além da quantidade de pena, a fixação do regime inicial deve observar as circunstâncias sopesadas no desenrolar da dosimetria da pena, notadamente, na hipótese de tráfico de drogas, a natureza e quantidade dos entorpecentes apreendidos” (HC 140.720/AM, Rel. Min. Edson Fachin, 2ª Turma, DJe 02.6.2017).
+    Quanto à alegada ocorrência de bis in idem na individualização da pena, destaco que a matéria não foi objeto de apreciação pela instância anterior, a inviabilizar a análise do writ, neste ponto, pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de abril de 2018.
+Ministra Rosa Weber
+Relatora
