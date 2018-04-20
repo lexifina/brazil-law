@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 7º, inciso I e 153, inciso III, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão assim, em parte, ementado:
+    “DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. IMPOSTO SOBRE A RENDA. PESSOA FÍSICA. 1/3 FÉRIAS PROPORCIONAIS AVISO-PRÉVIO. JULGAMENTO ULTRA PETITA. RESILIÇÃO DE CONTRATO DE TRABALHO. VERBAS RESCISÓRIAS. INDENIZAÇÃO CONTRATO DIRETORIA. FÉRIAS INTEGRAIS, PROPORCIONAIS E TERÇO CONSTITUCIONAL. CARÁTER INDENIZATÓRIO. NÃO-INCIDÊNCIA. SÚMULA Nº 125 DO STJ. AVISO PRÉVIO. NÃO INCIDÊNCIA. MULTA ARTIGO 477 CLT. NÃO INCIDÊNCIA”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem acerca da incidência de imposto de renda sobre os valores recebidos a título de indenização do contrato diretivo, seria necessária a análise da causa à luz da legislação infraconstitucional, o que não é cabível em sede de recurso extraordinário. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em apelo extremo. Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROGRAMA DE DESLIGAMENTO ESPECIAL. INCIDÊNCIA DE IMPOSTO DE RENDA. ANÁLISE DE NORMA INFRACONSTITUCIONAL. OFENSA REFLEXA. CONSTITUCIONAL. RECURSO INTERPOSTO COM BASE NO ART. 102, III, B. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - A apreciação do tema referente à incidência de imposto de renda sobre os benefícios a título indenizatório e compensatórios pagos aos funcionários demitidos sem justa causa no Programa de Desligamento Especial depende de prévio exame de normas infraconstitucionais. II - O Tribunal a quo não declarou inconstitucional lei federal ou tratado, incabível a interposição de recurso extraordinário com base na alínea b do art. 102, III, da Constituição. III - Agravo regimental improvido” (AI n° 526.656/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ 19/12/07).
+    “RECURSO. Extraordinário. Incognoscibilidade. Rescisão de contrato de trabalho. Verbas rescisórias. Natureza Jurídica. Definição para fins de incidência de Imposto de Renda. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a definição da natureza jurídica de verbas rescisórias (salarial ou indenizatória), para fins de incidência de Imposto de Renda, versa sobre matéria infraconstitucional” (AI nº 705.941/SP-RG, Plenário Virtual, Relator o Ministro Cezar Peluso, DJe de 23/4/10).
+    No mesmo sentido, as seguintes decisões monocráticas: AI nº 693.892/RJ, Relatora a Ministra Ellen Gracie, DJe de 1/7/10, AI nº 637.197/SP, Relatora a Ministra Cármen Lúcia, DJe de 21/2/08 e AI n° 639.143/SP, Relatora a Ministra Cármen Lúcia, DJe de 27/8/08.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 20 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
