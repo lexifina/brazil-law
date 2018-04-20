@@ -1,0 +1,20 @@
+Decisão
+    Trata-se de Recurso Extraordinário, interposto com base no art. 102, III, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (Doc. 12):
+    “TRIBUTÁRIO. AGRAVO. IMPOSTO DE RENDA. PESSOA FÍSICA. RESTITUIÇÃO. INCIDÊNCIA SOBRE VERBAS TRABALHISTAS. NATUREZA ALIMENTAR. DECISÃO REFORMADA.
+    Crédito decorrente de restituição de imposto de renda, indevidamente cobrado sobre parcelas de natureza salarial, conserva a natureza alimentar que garante a preferência no recebimento do precatório. Isto porque, o valor retido a título de imposto de renda desfalcou o contribuinte de valores postos no lugar de salários.”
+    Nas razões recursais, com amparo no art. 102, III, “a”, da Constituição Federal, alega-se violação ao art. 100, “caput” e § 1º-A, da CF/88.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Tribunal de origem, ao dar provimento ao Agravo de Instrumento da ora recorrida, assentou o seguinte (Doc. 11, fl. 3):
+    “Os valores discutidos pela demandante dizem respeito à incidência indevida de imposto de renda sobre quantias pagas em ação trabalhista, de n° 01509.811/91-5, que tramitou perante a 1ª VT de Bagé. Assim sendo, o montante retido indevidamente pelo Fisco subtraiu a demandante de valores postos no lugar de salários.
+    Logo, por decorrência lógica, a restituição mantém natureza alimentar. Portanto, merece reforma a decisão agravada para que a expedição do precatório/RPV considere precitada natureza.”
+    Nesses termos, para rever o entendimento da instância de origem a respeito do caráter alimentar da verba em questão, seria necessária a revisão das provas, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+     Não se aplica o art. 85, § 11, do CPC/2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 20 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
