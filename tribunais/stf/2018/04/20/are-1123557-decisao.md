@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR ESTADUAL. ADICIONAL DE INTERIORIZAÇÃO. LEI 5.652/1991 DO ESTADO DO PARÁ. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA 280 DO STF. AGRAVO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015.  AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos objetivando a reforma da decisão que inadmitiu seu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão assim ementado:
+    “AGRAVO INTERNO EM APELAÇÃO. ADICIONAL DE INTERIORIZAÇÃO. NÃO SE CONFUNDE COM A GRATIFICAÇÃO DE LOCALIDADE ESPECIAL. DIREITOS DISTINTOS MATERIA JÁ PACIFICADA NO AMBITO DESTA CORTE ESTADUAL. DECISÃO UNÂNIME.” (Doc. 1, fl. 154)
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 40, caput, 195 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender que o apelo encontra óbice nas Súmulas 280 e 282 do STF.
+    É o relatório. DECIDO.
+    Não merece provimento o agravo.
+    A questão relativa ao adicional de interiorização devido aos policiais militares do Estado do Pará, quando sub judice a controvérsia, não viabiliza o acesso à instância extraordinária, por demandar a análise da legislação infraconstitucional local. Nesse sentido: ARE 677.430-AgR, Rel. Min. Cármen Lúcia, DJe de 16/5/2012, assim ementado:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. MAGISTÉRIO. 1. ADICIONAL DE INTERIORIZAÇÃO. INVIABILIDADE DO REEXAME DE FATOS E PROVAS DE CLÁUSULAS DE EDITAL: INCIDÊNCIA DAS SÚMULAS Nº 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. 2. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    A propósito, menciono as lições do ilustre professor Roberto Rosas sobre a Súmula 280 desta Corte:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia. A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário. Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963). Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356).” (Direito Sumular. São Paulo: Malheiros, 2012, 14ª Edição, p. 138)
+    Por fim, observo que o recurso foi interposto sob a égide da nova lei processual, o que impõe a aplicação de sucumbência recursal.
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF, e CONDENO a parte sucumbente nesta instância recursal ao pagamento de honorários advocatícios majorados ao dobro do valor fixado pela origem (artigo 85, § 11, do CPC/2015).
+    Publique-se.
+    Brasília, 20 de abril de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
