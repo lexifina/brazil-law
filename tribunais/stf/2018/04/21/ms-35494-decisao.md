@@ -1,0 +1,10 @@
+Despacho
+    A alegação de que o Tribunal de Contas da União teria descumprido a liminar concedida nestes autos já foi por mim afastada no Mandado de Segurança 35.410 (DJe de 3/4/2018), cuja fundamentação segue reproduzida:
+    Em resposta a alegação formulada pelo impetrante de que houve descumprimento da decisão, em que deferi a medida liminar para suspender os efeitos do ato impugnado na TC 021.009/2017-1, unicamente, em relação aos substituídos pelo impetrante e, consequentemente, determinar que o Tribunal de Contas da União, nos casos concretos submetidos a sua apreciação, se abstenha afastar a incidência dos os §§ 2º e 3º dos artigos 7º e 17 da Medida Provisória 765/2016, convertida na Lei 13.464/2017, o Tribunal de Contas da União – TCU, informa que: (a) logo que comunicado da decisão liminar, o TCU, prontamente, adotou as providências ao seu efetivo cumprimento (fls. 8); (b) uma vez suspensos “os efeitos do ato impugnado na TC 021.009/2017-1”, tal qual determinado pelo Exmo. Relator deste mandado de segurança, desconhece-se, posteriormente, qualquer acórdão ou mesmo despacho de Ministro-Relator do TCU nos quais tenha sido expedida determinação para se extirpar o referido bônus (fls. 9); e (c) não se vislumbra a incidência dessa ordem para os acórdãos já prolatados pela Corte de Contas. Pelo menos, não há que se negar que a interpretação adotada pela Sefip, de não incidência da liminar em relação aos acórdãos do TCU anteriores à comunicação, está alinhada à jurisprudência do próprio STF no tocante aos efeitos das medidas liminares em sede de mandados de segurança (Petição 14.072/2018, fls. 12).
+    Tendo em vista as informações prestadas pela autoridade coatora naquele processo, não vislumbro qualquer desrespeito à determinação contida na medida liminar. Dessa forma, não há nada a prover quanto ao pedido formulado na Petição 11.279/2018.
+    Encaminhem-se os autos à Procuradora-Geral da República, para parecer.
+    Publique-se.
+    Brasília, 21 de abril de 2018.
+                Ministro Alexandre de Moraes
+                            Relator
+                Documento assinado digitalmente
