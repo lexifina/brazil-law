@@ -1,0 +1,46 @@
+EMENTA
+TRIBUTÁRIO. COMPETÊNCIA TRIBUTÁRIA. CPC/73. MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE NESTA CORTE.
+I - Aplica-se aos autos o enunciado administrativo n. 2 do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+II - A Primeira Seção do STJ, ao julgar, sob o rito do art. 543-C do CPC, o Recurso Especial 1.168.038/SP proclamou que "o art. 110 do CTN estabelece restrições ao exercício da competência tributária pelo legislador do ente federativo, matéria nitidamente constitucional, razão pela qual a competência para o exame de sua violação compete ao Supremo Tribunal Federal" (REsp 1168038/SP, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 09/06/2010, DJe 16/06/2010).
+III - Nesse panorama, observa-se que a questão entelada foi resolvida com apoio na interpretação constitucional, transbordando os lindes específicos de cabimento do recurso especial. Ressalte-se que há recurso extraordinário interposto nos autos (fls. 295-304).
+IV - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por GENERAL ELETRIC DO BRASIL LTDA, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+TRIBUTÁRIO. EXPORTAÇÃO. INCENTIVO FISCAL. ALÍQUOTA PRIVILEGIADA. VARIAÇÃO CAMBIAL. ADN 105/86 DO BACEN.
+1. O Decreto nº 85.450/80, que regulava o Imposto de Renda, já previa expressamente no art. 254, que as variações monetárias decorrentes da taxa de câmbio, deveriam ser incluídas na determinação do lucro operacional, inclusive se fossem essas variações decorrentes de ganhos cambiais e monetários realizados no pagamento de obrigações. Esse regulamento repetia a determinação contida no art. 18 do Decreto-lei nº 1598/77, art. 18. Portanto todas as variações monetárias estavam sujeitas à hipótese de incidência do IR e para a determinação do lucro operacional.
+2. O Ministério da Fazenda, objetivando a reorganização do mercado de moeda e créditos, instituiu através do Ato Declaratório Normativo nº 105/86, o denominado prêmio sobre saque de exportação, dispondo que "a variação monetária ativa decorrente de variações na taxa de câmbio auferida pelos exportadores em virtude de depósito em dólares dos Estados Unidos, vinculados a contratos de câmbio, para simultânea transferência ao Banco Central do Brasil, na forma da Resolução n" 1208/86, do Conselho Monetário Nacional, tem o tratamento de prêmio sobre saque de exportação e inclui-se entre as parcelas que compõem a receita bruta e de exportação ".As receitas decorrentes da exportação passaram a contar com esse benefício fiscal.
+3. A situação foi revista pelo BACEN que através da Resolução nº 1492/88, estabeleceu que os depósitos existentes sob a Resolução nº 1208/86 fossem sacados uma vez em cada mês, a partir de julho de 1988, no valor mínimo de US$ 20.000,00
+4. Por seu turno o Ministro da Fazenda editou a Portaria nº 248, de 01.07.88 determinando que a variação monetária auferida pelos titulares desses depósitos seria considerada variação monetária ativa para fins de formação do lucro de exploração, não se incluindo pois para a composição da receita bruta e receita de exportação.
+5. O fato de ter ocorrido a retirada de um benefício fiscal (prêmio) por ato de mesma hierarquia demonstra a inocorrência de ilegalidade formal e material. Não há falar-se em direito adquirido, pois a lei continuava a disciplinar a matéria como lucro de exportação. Ademais disso, a Resolução do BACEN foi publicada em junho de 1988, (Resol. 1492), também estabeleceu em contrapartida "exclusivamente aos exportadores, com base de câmbio de exportação contratado a partir da vigência desta Resolução, participarem de ofertas públicas de Obrigações do Tesouro Nacional-OTN, de prazo de resgate de 3 ( três) meses, especialmente emitidas para essa finalidade, cujas características serão fixadas em portaria do Ministro da Fazenda
+6. Não existe, portanto, direito líquido e certo à utilização do ADN 105/86 para qualquer efeito após sua revogação pela Portaria MF 248/88, quer para elaboração de balanço, quer para pagamento de Imposto de Renda, quer para qualquer outro efeito decorrente.
+7. Apelação improvida.
+O presente feito decorre de mandado de segurança impetrado para ver reconhecido o direito da recorrente de realizar o pagamento do Imposto de Renda sobre variações cambiais decorrentes de depósitos em dólares, com base na Resolução BACEN n. 1.208/86 e no Ato Declaratório Normativo n. 105/86, com alíquota reduzida, não se submetendo à regra constante da Portaria Ministerial n. 248/1988.
+Foram opostos embargos de declaração os quais foram acolhidos somente para determinar que a execução da fiança se processe perante o juízo a quo.
+No presente recurso especial, o recorrente aponta violação do art. 110 do CTN. Sustenta, em síntese, que a alteração da natureza jurídica de receita de exportação para receita financeira, de acordo com a portaria n. 248/1988, revogando o tratamento tributário mais favorável ao recorrente, ofende o referido dispositivo legal.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no artigo 255, § 4º, I, do RI/STJ não conheço do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+ O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+Aplica-se aos autos o enunciado administrativo n. 2 do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+A Primeira Seção do STJ, ao julgar, sob o rito do art. 543-C do CPC, o Recurso Especial 1.168.038/SP proclamou que "o art. 110 do CTN estabelece restrições ao exercício da competência tributária pelo legislador do ente federativo, matéria nitidamente constitucional, razão pela qual a competência para o exame de sua violação compete ao Supremo Tribunal Federal", in verbis:
+TRIBUTÁRIO - PROCESSO CIVIL - IMPOSTO SOBRE A RENDA - REGIME DE TRIBUTAÇÃO - DESPESAS DEDUTÍVEIS - REGIME DE CAIXA - DEPÓSITOS JUDICIAIS - INGRESSOS TRIBUTÁRIOS - IMPOSSIBILIDADE DE DEDUÇÃO ANTES DO TRÂNSITO EM JULGADO DA DEMANDA - VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS - ART. 110 DO CTN - MATÉRIA CONSTITUCIONAL - INCOMPETÊNCIA DO STJ - PRECEDENTES - RECURSO SUBMETIDO AO REGIME DO ART. 543-C DO CPC E DA RESOLUÇÃO N. 8/STJ.
+1. Falece competência ao Superior Tribunal de Justiça para conhecer de supostas violações a enunciados normativos constitucionais. Precedentes.
+2. O art. 110 do CTN estabelece restrições ao exercício da competência tributária pelo legislador do Ente Federativo, matéria nitidamente constitucional, razão pela qual a competência para o exame de sua violação compete ao Supremo Tribunal Federal. Precedentes.
+3. Compete ao legislador fixar o regime fiscal dos tributos, inexistindo direito adquirido ao contribuinte de gozar de determinado regime fiscal.
+4. A fixação do regime de competência para a quantificação da base de cálculo do tributo e do regime de caixa para a dedução das despesas fiscais não implica em majoração do tributo devido, inexistindo violação ao conceito de renda fixado na legislação federal.
+5. Os depósitos judiciais utilizados para suspender a exigibilidade do crédito tributário consistem em ingressos tributários, sujeitos à sorte da demanda judicial, e não em receitas tributárias, de modo que não são dedutíveis da base de cálculo do IRPJ até o trânsito em julgado da demanda.
+6. Recurso especial conhecido em parte e não provido.
+(REsp 1168038/SP, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, julgado em 09/06/2010, DJe 16/06/2010)
+Nesse panorama, observa-se que a questão entelada foi resolvida com apoio na interpretação constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Ressalte-se que há recurso extraordinário interposto nos autos (fls. 295-304).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
