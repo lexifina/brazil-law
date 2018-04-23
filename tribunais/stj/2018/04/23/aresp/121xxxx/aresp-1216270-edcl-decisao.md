@@ -1,0 +1,16 @@
+DECISÃO
+TRIBUTÁRIO. EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE DETERMINA O SOBRESTAMENTO DO FEITO. MATÉRIA IDÊNTICA A TRATADA NO RESP 1.340.553/RS. PRESCRIÇÃO INTERCORRENTE. EMBARGOS REJEITADOS.
+1. Trata-se de Embargos de Declaração opostos pela ELBA SIMAS PONTE, contra a decisão assim ementada:
+TRIBUTÁRIO. PRESCRIÇÃO INTERCORRENTE. RESP.1.340.553/RS. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 543-C, §§ 7o. E 8o. DO CPC (ART. 1.040 DO CPC/2015).
+2. Aduz a parte embargante que a matéria destes autos não guarda relação com o tema afetado em repetitivo, uma vez que a prescrição a ser analisada nos autos não é a intercorrente, mas sim a prescrição por simples exclusão do parcelamento.
+3. Impugnação não apresentada (fls. 329).
+4. É o relatório.
+5. De início, cumpre esclarecer que o art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+6. Aduz a parte embargante que a matéria aqui tratada não guarda relação com o tema da prescrição intercorrente. Vejamos.
+7. O acórdão recorrido está assim fundamentado, no ponto que interessa:
+Pois bem. Da análise dos autos, não verifico inércia da exequente pelo prazo prescricional no processo. Com efeito, após a rescisão do parcelamento da Lei nº 10.684, de_2003, em 12-08-2005 (fl. 39), a União requereu, em 03-08-2006, o prosseguimento da execução, com a reavaliação do bem penhorado para posterior designação de leilão (fls. 37-38). No entanto, o oficial de justiça informou não ter sido possível cumprir a diligência, uma vez que o imóvel teria sido vendido (31-08-2006, f. 43v), o que foi veementemente negado pelo depositário (17-05-2007, fs. 51-53). Diante da controvérsia, a exequente requereu fossem solicitados esclarecimentos do Oficial de registro de Imóveis da comarca (25-10-2007, f. 62), o que foi deferido pelo juízo"em 29-10-2007 (fl. 64). Todavia, os esclarecimentos apenas foram prestados em 20-08-2009(fls. 67-69). Então, em 30-07-2010, a União requereu o redirecionamento da execução fiscal contra os sócios gerentes "da sociedade executada (fl. 84), com base em certidão .de oficial de justiça. de 28-10-2009, pertinente a outro processo, que informava acerca do encerramento das atividades da pessoa jurídica (/l. 85). Contudo, o pedido apenas foi deferido em 07-08-2013 al. 93).Após a citação, (19-05-2015, fl. 109), a exequente requereu, em 17-07-2015, a realização de penhora online (/l. 110), o que foi deferido em 07-08-2015 (fl.113). Porém, os executados afirmaram que o valor penhorado dizia respeito a proventos de aposentadoria (13-08-2015, fls. 114-120); na mesma oportunidade, alegaram ter ocorrido n prescrição intercorrente, o que. foi acolhido na sentença de 21-08-2015 (fl. 129). (fls. 256/257).
+8. Colhe-se desse pequeno trecho que a matéria aqui tratada é a mesma do Recurso Especial Repetitivo 1.340.553/RS, qual seja, prescrição intercorrente.
+9. Assim, rejeitam-se os Declaratórios.
+10. Cumpra-se o determinado na decisão de fls. 314/315.
+11. Publique-se.
+12. Intimações necessárias.
