@@ -1,0 +1,59 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VALIDADE DA CDA E LIQUIDEZ DO TÍTULO EXECUTIVO. PRESENÇA DOS REQUISITOS LEGAIS ATESTADA PELO TRIBUNAL DE ORIGEM. MODIFICAÇÃO DO JULGADO QUE REQUER O REEXAME DE PROVAS. ENCARGO LEGAL. DECRETO 1.025/1969 E APLICAÇÃO DA TAXA SELIC. FALTA DE PREQUESTIONAMENTO E SEQUER A PARTE OPÔS OS CABÍVEIS EMBARGOS DE DECLARAÇÃO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial interposto com fundamento nas alíneas a e c do art. 105, III da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal Regional Federal da 3a. Região, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CDA AFASTADA. PERÍODO DA DÍVIDA ANTERIOR À CONSTITUIÇÃO DA EXECUTADA. APELAÇÃO IMPROVIDA.
+1. A certidão de dívida ativa goza de presunção de legalidade e preenche todos os requisitos necessários para a execução de título, quais sejam: a certeza, liquidez e exigibilidade.
+2. Assim é do executado o ônus processual de ilidir a presunção de liquidez e certeza da certidão de dívida ativa, nos termos do art. 204, do CTN combinado com o art. 3º, da LEF, através dos meios processuais cabíveis, demonstrando eventual vício no referido título executivo ou que o crédito nele descrito seja indevido.
+3. Ademais, as certidões de dívida ativa que embasam o executivo impugnado citam com precisão os dispositivos da legislação que teriam sido violados pela embargante na parte alusiva a "Fundamentação Legal.
+4. Outrossim, a dívida em cobro refere-se a valores referentes ao período de janeiro a junho/2006, época em que a empresa já estava plenamente constituída, conforme se verifica dos documentos de 27/28 e 35/42.
+5. Apelação improvida (fls. 123).
+2. Em seu Apelo Nobre, a recorrente aponta, além de divergência entre julgados, violação dos arts. 20, §§ 3o. e 4o., do CPC/1973, 2o., § 5o., 3o. da Lei 6.830/1980 e 161, § 1o., do CTN, argumentando: (a) iliquidez e incerteza da dívida exequenda, ausente requisito essencial da CDA ; (b) inaplicabilidade da Taxa SELIC ao caso em apreço, e (c) indevido os honorários de 20% a título de encargo legal.
+3. Com contrarrazões (fls. 155/163), o recurso fora inadmitido na origem (fls. 165/167).
+4. É o relatório. Decido.
+5. Em que pese à plausibilidade jurídica dos argumentos lançados às fls. 127/141, o recurso não pode ser conhecido, em parte, ante a falta de prequestionamento. Verifica-se que as teses levantadas no Recurso Especial, no que diz com a inaplicabilidade da Taxa SELIC, e com relação à insurgência do pagamento referente ao encargo legal, não foram debatidas pelo Tribunal de origem, tampouco a parte recorrente opôs os cabíveis Aclaratórios, a fim de suprir tal omissão. Incide, no caso, as Súmulas 282 e 356 do STF. A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NULIDADE DA CDA. RECONHECIMENTO PELA FAZENDA PÚBLICA. OPORTUNIDADE PARA EMENDA, ANTES DA EXTINÇÃO DA EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Inexiste violação da legislação federal (arts. 2º e 3º da Lei 6.830/1980, art. 202 do CTN e art. 618, I, do CPC/1973) quando a própria Fazenda Pública reconhece que o título executivo (Certidão da Dívida Ativa) não preencheu os requisitos legais.
+2. A tese de que lhe deveria ser oportunizada, antes da extinção do feito, a faculdade de promover a emenda da CDA, para corrigir a falha acima apontada, não foi objeto de valoração nas instâncias de origem, nem tampouco foram opostos Embargos de Declaração a esse respeito, razão pela qual incide, no ponto, o óbice da Súmula 282/STF.
+3. Agravo não provido (AREsp. 1.178.298/SP, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017).
+
+RECURSO FUNDADO NO NOVO CPC. TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF. TRIBUTO SUJEITO À LANÇAMENTO POR HOMOLOGAÇÃO. DECLARAÇÃO. CONSTITUIÇÃO. SÚMULA 436/STJ. CDA. REQUISITOS. AFERIÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A matéria pertinente aos arts. 113, 139, e 145 do CTN não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+2. Vigora no STJ o entendimento de que o prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, que a questão tenha sido suscitada pelas partes nos recursos que aviaram perante aquele Sodalício.
+3. O acórdão recorrido decidiu em conformidade com o que preconiza a Súmula 436/STJ: A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco.
+4. É incabível, em recurso especial, examinar os requisitos de validade da CDA que aparelha a execução fiscal quando tal apreciação demandar o revolvimento de seu próprio conteúdo, ante o óbice da Súmula 7/STJ.
+5. Agravo interno a que se nega provimento (AgInt no AgInt nos EDcl no AREsp. 899.059/SP, Rel. Min. SÉRGIO KUKINA, DJe 23.8.2017).
+7. Quanto ao pleito de reconhecimento da nulidade da CDA, o Tribunal de origem, após a análise do conjunto fático-probatório dos autos, concluiu que a CDA se reveste da higidez e certeza necessárias para embasar a Execução, inexistindo prova, nos autos, capaz de infirmar tal constatação.
+8. Destarte, tendo o Tribunal a quo observado com acuidade o correto preenchimento do título que embasa a Execução Fiscal, de acordo com a legislação que rege a matéria, bem como a ausência de prejuízo a ampla defesa do executado, para se chegar a conclusão diversa da firmada pelas instâncias ordinárias, seria necessário o reexame das provas carreadas aos autos, o que é defeso em Recurso Especial.
+9. Nesse sentido:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. REQUISITOS DA CDA. SÚMULA 7/STJ. ICMS. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. DESNECESSIDADE DE PROCEDIMENTO ADMINISTRATIVO PRÉVIO PARA INSCRIÇÃO EM DÍVIDA ATIVA. ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. RESP PARADIGMA 962.379/RS. SÚMULA 83/STJ. SELIC. ATUALIZAÇÃO DE CRÉDITO TRIBUTÁRIO. ESFERA ESTADUAL. POSSIBILIDADE. ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. RESP PARADIGMA 1.111.189/SP. SÚMULA 83/STJ.
+1. O acórdão recorrido concluiu que a CDA preenchia adequadamente os requisitos legais, bem como rechaçou a alegação de cerceamento de defesa, visto que o crédito fora constituído pelo próprio contribuinte e que prescindível qualquer produção de prova. Rever o entendimento do Tribunal de origem no sentido de analisar os requisitos da CDA esbarram na Súmula 7/STJ.
+2. Quanto à alegação de necessidade de processo administrativo a fim de apurar o débito fiscal, cumpre asseverar que a jurisprudência pacífica desta Corte entende que, tratando-se de débito declarado pelo próprio contribuinte, é desnecessário o prévio procedimento administrativo, uma vez que sua declaração já é suficiente para a constituição do crédito tributário, o que atrai o óbice da Súmula 83/STJ.
+3. Em relação à utilização da taxa Selic como índice de correção monetária de débitos tributários, verifica-se que, novamente, o Tribunal de origem decidiu pela sua possibilidade, entendimento este que se coaduna com a jurisprudência desta Corte. Incidência da Súmula 83/STJ.
+Agravo regimental improvido (AgRg no AREsp. 659.733/PR, Rel. Min. HUMBERTO MARTINS, DJe 22.4.2015).
+
+TRIBUTÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC. EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR. CERTIDÃO DE DÍVIDA ATIVA. PRESUNÇÃO DE CERTEZA E LIQUIDEZ. ÔNUS DA PROVA DO CONTRIBUINTE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. Nos termos da jurisprudência pacífica do STJ, a Certidão de Dívida Ativa goza de presunção de certeza e liquidez, cujo ônus de ilidi-la é do contribuinte, cabendo a ele, ainda, a juntada dos documentos imprescindível à solução da controvérsia.
+3. A aferição dos requisitos essenciais à validade da CDA demanda, em regra, reexame do conjunto fático-probatório dos autos, o que é inviável em Recurso Especial ante o óbice da Súmula 7/STJ.
+4. Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+Agravo regimental improvido (AgRg no REsp. 1.565.825/RS, Rel. Min. HUMBERTO MARTINS, DJe 10.2.2016).
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. CDA. HIGIDEZ. REEXAME PROBATÓRIO. SÚMULA 7/STJ.
+1. Não cabe na via especial a análise dos elementos fáticos dos autos que justificaram a conclusão da Corte de origem segundo a qual a CDA continha os elementos necessários à defesa do contribuinte. Inteligência da Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento (AgRg no AREsp. 588.672/SP, Rel. Min. OG FERNANDES, DJe 11.12.2014).
+10. Por fim, o Recurso Especial fora interposto já na vigência do CPC/2015. Desse modo, mostra-se evidente o direito à majoração dos honorários sucumbenciais recursais.
+11. Tendo em vista o disposto no art. 85, § 11 do CPC/2015 e o Enunciado 241 do Fórum Permanente de Processualistas Civis, os honorários de sucumbência recursal serão somados aos honorários pela sucumbência em primeiro grau, observados os limites legais. Assim, fixam-se os honorários recursais em 1% sobre o proveito econômico, que deverão ser acrescidos ao montante total. Precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. DOCUMENTO NOVO. NÃO CARACTERIZAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. HONORÁRIOS ADVOCATÍCIOS RECURSAIS. APLICAÇÃO. MULTA.
+(..).
+4. Nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC (Enunciado Administrativo 7 do Plenário do STJ).
+5. Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa (art. 1.021, § 4º, do CPC/2015).
+6. Agravo interno desprovido, com a majoração da verba honorária e aplicação de multa (AgInt no AREsp. 236.269/SC, Rel. Min. GURGEL DE FARIA, DJe 20.10.2016).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ONEROSIDADE EXCESSIVA. TEORIA DA IMPREVISÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO. INCIDÊNCIA DA SÚMULA 7 DO STJ. REVALORAÇÃO DAS PROVAS. HIPÓTESE NÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC/15.
+(..).
+3. O § 11 do art. 85 do Código de Processo Civil de 2015 tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos provenientes de decisões condenatórias antecedentes.
+4. Atendidos os limites legais dos §§ 2º e 3º do art. 85 do CPC/15, a majoração da verba honorária a título de honorários recursais é medida que se impõe.
+5. Agravo interno conhecido e desprovido (AgInt no AREsp. 196.789/MS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 18.8.2016).
+12. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial de BELLOLI COML/ DE COMPONENTES ELETRO ACUSTICOS LTDA.
+13. Em observância ao disposto no art. 85, § 11 do CPC/2015, fixam-se os honorários recursais em 1% sobre o proveito econômico do presente recurso.
+14. Publique-se. Intimações necessárias.
