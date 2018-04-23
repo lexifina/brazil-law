@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravos em recurso especial interpostos contra decisão que inadmitiu recursos especiais fundamentados no art. 105, inciso III, da Constituição Federal.
+- Agravo interposto por [NOME] CORREA [NOME]
+Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial interposto por [NOME] com base neste fundamento: i) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ), no tocante ao percentual da multa moratória, taxa de juros a longo przao, periodicidade da capitalização de juros.
+Entretanto, a parte agravante, limitando-se a reiterar as razões apresentadas quando da interposição do recurso especial, a par de sustentar a invasão da competência constitucional do STJ, não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: i) incidência da Súmula 83/STJ.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+- Agravo interposto pela COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DA REGIAO TRES PONTAS LTDA. - SICOOB COPERSUL
+Quanto ao recurso especial interposto pela COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DA REGIAO TRES PONTAS LTDA. - SICOOB COPERSUL, verifica-se que a decisão agravada o inadmitiu com base nos seguintes fundamentos: i) negativa de prestação jurisdicional não demonstrada (art. 535 do CPC/73); ii) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 83/STJ), no tocante aos juros remuneratórios; iii) ausência de prequestionamento de matéria referente ao art. 337 do CPC/73 (Súmulas 211/STJ e 282/STJ).
+Entretanto, a parte agravante, limitando-se a reiterar as razões apresentadas quando da interposição do recurso especial, a par de sustentar a invasão da competência constitucional do STJ, não demonstrou, de maneira consistente, a inaplicabilidade dos seguintes óbices: i) negativa de prestação jurisdicional não demonstrada (art. 535 do CPC/73); ii) ausência de prequestionamento de matéria referente ao art. 337 do CPC/73 (Súmulas 211/STJ e 282/STJ).
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO dos agravos interpostos por [NOME] [NOME] e por COOPERATIVA DE CREDITO DE LIVRE ADMISSAO DA REGIAO TRES PONTAS LTDA. - SICOOB COPERSUL, com fundamento no art. 253, parágrafo único, I, do RISTJ.
+Publique-se. Intimem-se.
