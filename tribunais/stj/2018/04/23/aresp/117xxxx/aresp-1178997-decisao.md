@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que não admitiu recurso especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra acórdão, proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA. APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE ATO JURÍDICO. SUBSUNÇÃO À LEI Nº 9.514/97 - ALIENAÇÃO FIDUCIÁRIA. CERCEAMENTO DIREITO DE DEFESA NÃO CONFIGURADO. AUSÊNCIA DE VÍCIO NOS AVISOS DE COBRANÇA PARA CONSTITUIÇÃO EM MORA DOS DEVEDORES. CARÊNCIA DE FATOS NOVOS A JUSTIFICAR O PEDIDO DE RECONSIDERAÇÃO.
+I - Em obediência ao princípio da dialeticidade, deve a parte recorrente demonstrar o desacerto da sentença atacada, mediante impugnação específica das razões de decidir. A invocação de alegações genéricas, abstratas ou desconexas com decisum combatido, ou a mera remissão aos termos da petição inicial ou da contestação, acarreta o não conhecimento do recurso, nesta parte, por ausência de regularidade formal.
+II - Quando o juiz verificar que as provas constantes dos autos são suficientes para firmar o seu convencimento, mesmo em se tratando de questões de fato e de direito, conhecerá diretamente do pedido, proferindo sentença com o julgamento antecipado da lide, em face dos princípios da economia e celeridade processual (CPC, art. 330, I).
+III - Não se há falar em nulidade da decisão por ausência de fundamentação, se o julgador externa devidamente os motivos de seu convencimento, ainda que de forma sucinta e objetiva.
+IV - Não há que se confundir a execução extrajudicial do Decreto-Lei nº 70/66 com o procedimento previsto na Lei nº 9.514/97. O contrato possui cláusula de alienação fiduciária, nos termos dos artigos 22 e seguintes da Lei nº 9.514/97, que dispõe sobre o Sistema de Financiamento Imobiliário - SFI e institui a alienação fiduciária de coisa imóvel, cujo regime de satisfação da obrigação difere dos mútuos firmados com garantia hipotecária, porquanto na hipótese de descumprimento contratual e decorrido o prazo para a purgação da mora, ocasiona a consolidação da propriedade do imóvel em nome da credora fiduciária.
+V - Inexistindo fundamento ou fato novo capaz de conduzir o julgador a nova convicção, nega-se provimento ao Agravo Regimental.
+AGRAVO REGIMENTAL CONHECIDO, MAS IMPROVIDO.
+Em suas razões do especial, o ora agravante alega que o acórdão recorrido violou o disposto no art. 31 e 32 do Decreto-Lei 70/66, sustentando a necessidade de intimação pessoal para realização do leilão, o que não ocorreu na hipótese em exame. Afirma, para tanto:
+ No presente caso, demonstrou-se a não observância das formalidades legais previstas nos artigos da lei federal acima transcritos, uma vez que o agente fiduciário não se dignou a procurar os recorrentes, vez que residiam no imóvel e obviamente lá poderiam ser encontrados, sendo, portanto, possível sua intimação acerca do leilão que, como leigos que são, achavam não existir, posto que sabiam que poderiam ser cobrados judicialmente do débito, mas nunca extrajudicialmente.
+ Conforme se verifica pelos documentos dos autos, apontados pelo acórdão recorrido como confirmadores do cumprimento das formalidades legais, não houve notificação pessoal dos mutuários.
+ Ficou comprovado que não houve intimação pessoal dos recorrentes da realização do leilão.
+ Ademais, nenhuma das duas cartas de cobrança foram enviadas conforme determina o art. 31, inciso IV do DL 70/66, restando.
+viciado o ato por falta de cumprimento da formalidade legal Caberia, assim, ao agente financeiro, promover a notificação judicial dos mutuários, e não sua notificação via edital.
+ O STJ tem reputado em julgamentos de ações desta natureza que o agente fiduciário deve esgotar todos os meios possíveis para a localização dos mutuários, inclusive com a notificação judicial dos mesmos, para somente depois partir para a publicação dos famigerados editais.
+ Ainda o Superior Tribunal de Justiça tem entendido que o procedimento extrajudicial adotado pela CEF não pode retirar dos mutuários o direito de discutir o débito judicialmente.
+Decorreu o prazo para apresentação de contrarrazões.
+Não tendo sido admitido o recurso na origem, em razão da incidência das Súmulas 5 e 7/STJ, foi interposto o presente agravo.
+Na petição de fls. 375-409 (e-STJ), o ora agravante requer a suspensão do leilão "designado para o dia 26/04/2018, às 14:12", sob pena de "lesão grave e de difícil reparação no direito do recorrente".
+É o relatório. Decido.
+A colenda Corte de origem consignou que não se pode exigir a intimação pessoal do devedor dando-lhe ciência das datas dos leilões extrajudiciais quanto aos contratos de financiamento imobiliário com garantia de alienação fiduciária, previstos no art. 17, IV, da Lei n. 9.514/19, mas tão somente para os contratos de financiamento imobiliário com garantia hipotecária.
+Todavia, em que pesem os argumentos lançados pelo tribunal a quo, esta Corte Superior vem assentando o entendimento de que, "no âmbito do Decreto-Lei nº 70/66, a jurisprudência do Superior Tribunal de Justiça há muito se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/97" (REsp 1447687/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/08/2014, DJe 08/09/2014).
+Nesse diapasão, há a necessidade de intimação pessoal do devedor sobre a data da realização do leilão extrajudicial também quanto aos contratos de alienação fiduciária de coisa imóvel, ainda que tenha sido efetuada a regular notificação do devedor para a purgação da mora, nos termos do disposto no art. 39 da Lei nº 9.514/1997.
+ A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA.
+BEM IMÓVEL. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL. SÚMULA 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. Nos contratos de alienação fiduciária de coisa imóvel, regidos pela Lei nº 9.514/97, é necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1109712/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)
+DIREITO PROCESSUAL CIVIL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA DE BEM IMÓVEL. LEI Nº 9.514/1997. INTIMAÇÃO PESSOAL. NECESSIDADE. EXEGESE DO ART. 26 § 3º. RECURSO ESPECIAL PROVIDO.
+1. Na alienação fiduciária em garantia de bem imóvel, vencida e não paga, no todo ou em parte, a dívida e constituído em mora o fiduciante, consolidar-se-á  ..  a propriedade do imóvel em nome do fiduciário (art. 26, caput, da Lei nº 9.514/1997).
+2. Ao fiduciante é dada oportunidade de purgar a mora. Para tanto, deverá ser intimado pessoalmente, ou na pessoa de seu representante legal ou procurador regularmente constituído.
+3. A intimação, sempre pessoal, pode ser realizada de três maneiras: (a) por solicitação do oficial do Registro de Imóveis; (b) por oficial de Registro de Títulos e Documentos da comarca da situação do imóvel ou do domicílio de quem deva recebê-la; ou (c) pelo correio, com aviso de recebimento, sendo essa a melhor interpretação da norma contida no art. 26, §3º, da Lei nº 9.514/1997.
+4. É nula a intimação do devedor que não se dirigiu à sua pessoa, sendo processada por carta com aviso de recebimento no qual consta como receptor pessoa alheia aos autos e desconhecida.
+5. Recurso especial provido para restabelecer a liminar concedida pelo juízo de piso até o final julgamento do processo.
+(REsp 1531144/PB, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/03/2016, DJe 28/03/2016)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE LEILÃO EXTRAJUDICIAL. LEI Nº 9.514/97. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. NOTIFICAÇÃO PESSOAL DO DEVEDOR FIDUCIANTE. NECESSIDADE. PRECEDENTE ESPECÍFICO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. "No âmbito do Decreto-Lei nº 70/66, a jurisprudência do Superior Tribunal de Justiça há muito se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/97" (REsp 1447687/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/08/2014, DJe 08/09/2014).
+2. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1367704/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/08/2015, DJe 13/08/2015)
+"RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ARREMATAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. LEI Nº 9.514/97. ALIENAÇÃO FIDUCIÁRIA DE COISA IMÓVEL. LEILÃO EXTRAJUDICIAL. NOTIFICAÇÃO PESSOAL DO DEVEDOR FIDUCIANTE. NECESSIDADE.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A teor do que dispõe o artigo 39 da Lei nº 9.514/97, aplicam-se as disposições dos artigos 29 a 41 do Decreto-Lei nº 70/66 às operações de financiamento imobiliário em geral a que se refere a Lei nº 9.514/97.
+3. No âmbito do Decreto-Lei nº 70/66, a jurisprudência do Superior Tribunal de Justiça há muito se encontra consolidada no sentido da necessidade de intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, entendimento que se aplica aos contratos regidos pela Lei nº 9.514/97.
+4. Recurso especial provido."
+(REsp 1447687/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/08/2014, DJe 08/09/2014)
+Dessa maneira, depreende-se que a conclusão do Tribunal de origem em relação à desnecessidade de intimação pessoal do devedor de operações de financiamento imobiliário em geral a que se refere o art. 39 Lei n. 9.514/1997, em sua redação original, contraria a jurisprudência deste Tribunal.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial para declarar a nulidade do procedimento extrajudicial em litígio, ante o não cumprimento das regras previstas no Decreto-Lei n. 70/1966.
+Publique-se.
+Tendo em vista as informações trazidas na petição de fls. 375-409 (e-STJ), oficie-se, com urgência, ao d. Juízo de origem.
