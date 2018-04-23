@@ -1,0 +1,25 @@
+DECISÃO
+PROCESSUAL CIVIL. AÇÃO CÍVEL REGRESSIVA. PROVA CONSTITUTIVA DO DIREITO PLEITEADO. IMPOSSIBILIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A contra acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado:
+AGRAVO INOMINADO NA APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. DIREITO DE REGRESSO. CLÁUSULA CONTRATUAL. PRÉVIA NOTIFICAÇÃO. NECESSIDADE. INOBSERVÂNCIA.
+1. Preliminar de cerceamento de defesa que não prospera. Segundo dispõe o art. 130 do CPC, cabe ao juiz o indeferimento das provas que considerar desnecessárias à instrução do processo. Precedentes do TJRJ.
+2. Ademais, a prova documental deve ser carreada com a exordial, nos termos do art. 396 do Código de Processo Civil, por isso, eventual prova de ter comunicado à ré acerca do pagamento da indenização deveria ter sido apresentada quando da propositura da ação, pois não se trata de "documentos novos", que podem ser juntados a qualquer tempo, nos termos do artigo 397 do Diploma Processual citado. Precedentes do TJRJ.
+3. Passa-se à análise do mérito e, para tanto, faz-se necessário o exame da cláusula vigésima quarta do contrato firmado entre as partes.
+4. Da análise da cláusula acima, bem como seus parágrafos, depreende-se que os réus assumiram as obrigações decorrentes de atos ou fatos ocorridos em data anterior à "TOMADA DE POSSE", obrigando-se a liquidá-las.
+5. Não obstante, verifica-se que os §§5º e 6º, da cláusula citada, impõem à autora o ônus de dar "imediata e inequívoca ciência" aos réus "da demanda, da reclamação ou da autuação, por escrito, dentro de 96 (noventa e seis) horas, contada da data em que a mesma tomou ciência", sob pena de ficarem os demandados "eximidos de qualquer responsabilidade perante a CONCESSIONÁRIA".
+6. In casu, a princípio, caberia aos réus efetuar o pagamento da indenização, por terem assumido a obrigação de arcar com pagamento de indenização por fatos anteriores à posse pela Supervia.
+7. Não obstante, como se depreende dos autos, a autora não comprovou ter atendido à condição contratual acima apontada, qual seja, cientificado os réus da demanda contra si proposta e, ainda, no prazo de 96 horas contados da ciência daquela demanda.
+8. Nessa toada, ante a inércia configurada, a demandante deixou de comprovar o fato constitutivo do direito alegado, nos termos do artigo 333, inciso I, do Código de Processo Civil, que, no caso dos autos não se limita ao pagamento da indenização de responsabilidade dos réus, mas, também, à prévia notificação, ônus do qual não se desincumbiu. Precedentes do TJRJ.
+9. Dessa forma, impõe-se a manutenção da sentença vergastada, que julgou improcedente a pretensão autoral.
+10. Recurso não provido.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Alega a recorrente, inicialmente, ofensa ao art. 535 do CPC/1973, reputando omisso o acórdão recorrido, não obstante a oposição dos Aclaratórios.
+4. No mérito, aponta violação dos arts. 326, 396 e 397 do CPC/1973, bem como dos arts. 346 e 884 do Código Civil, insurgindo-se contra o julgamento antecipado da lide, no sentido da improcedência, afirmando que, na espécie, não poderia ter sido considerada inútil ou protelatória a pretensão de comprovar a inexistência do fato imperditivo suscitado pela parte ré em contestação, qual seja, o suposto descumprimento de cláusula contratual que exigia a cientificação quanto ao pagamento da indenização, asseverando que tal comprovação caberia a quem alegou, no caso, a parte ré.
+5. Inadmitido o Recurso Especial, sobreveio Agravo.
+6. É o relatório. Decido.
+7. Primeiramente, em relação à suposta contrariedade ao art. 535 do CPC/1973, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma invocada.
+8. Quanto ao mérito, a Corte de origem, a partir da interpretação das cláusulas contratuais pactuadas, concluiu ser a comprovação da cientificação da empresa ré fato constitutivo do direito pugnado pela autora, razão pela qual, não materializada essa prova, caberia o improcedência antecipada do pedido.
+9. De fato, constituindo a notificação requisito para a quitação do débito, infere-se que compete à parte autora a sua comprovação, no ato do ajuizamento da ação, por se tratar de aspecto constitutivo do direito que defende na exordial de ressarcimento pelo pagamento de dívida pretérita, de pessoa jurídica diversa.
+10. A desconstituição dessa premissa demandaria inevitável interpretação das cláusulas contratuais do ajuste referido no acórdão recorrido, medida vedada nessa seara do Recurso Especial, nos termos das Súmulas 5 e 7/STJ.
+11. Ante o exposto, nega-se provimento ao Agravo.
+12. Publique-se. Intimações necessárias.
