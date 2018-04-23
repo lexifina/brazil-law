@@ -1,0 +1,46 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. COBRANÇA DE REMUNERAÇÃO PROVISÓRIA PELO USO DO DOMÍNIO ÚTIL DE BEM PÚBLICO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973. ARGUMENTAÇÃO GENÉRICA. JULGADO FUNDAMENTADO. APLICAÇÃO DA SÚMULA 284/STF. NO MÉRITO, A QUESTÃO FOI APRECIADA PELA CORTE FLUMINENSE CONSOANTE A INTERPRETAÇÃO E APLICAÇÃO DO ART. 237 DA LEI ORGÂNICA DO MUNICÍPIO DO RIO DE JANEIRO/RJ. INVIABILIDADE DE MANEJO DO RECURSO ESPECIAL. SÚMULA 280/STF. RECURSO ESPECIAL DE PETROBRÁS DISTRIBUIDORA S.A. NÃO CONHECIDO.
+1. Trata-se de Recurso Especial interposto pela PETROBRÁS DISTRIBUIDORA S.A., com fundamento no art. 105, inciso III, alínea a da Constituição da República, em face de acórdão do Tribunal de Justiça do Rio de Janeiro, cuja ementa assim se exprime:
+AGRAVO INTERNO. AÇÃO DECLARATÓRIA DE NULIDADE DE COBRANÇA DE REMUNERAÇÃO PROVISÓRIA PELA MUNICIPALIDADE DO RIO DE JANEIRO. PERTENCE AO MUNICÍPIO O DOMÍNIO ÚTIL DA ÁREA ONDE ESTÃO ESTABELECIDOS OS POSTOS DE GASOLINA DA AUTORA, TORNANDO, POIS, LEGÍTIMA A COBRANÇA IMPUGNADA. ART. 333, I, DO CPC. IMPROCEDÊNCIA DOS PEDIDOS QUE SE MANTÉM. DESPROVIMENTO DO RECURSO (fls. 597).
+2. O referido acórdão manteve decisão monocrática que negou provimento à Apelação interposta pela PETROBRÁS DISTRIBUIDORA S/A contra sentença de improcedência do pedido de declaração de nulidade das cobranças impostas pelo Município do Rio de Janeiro como contraprestações financeiras pela ocupação de diversos terrenos situados no Aterro do Flamengo.
+3. Houve oposição de Aclaratórios, os quais restaram improvidos (fls. 632).
+4. Nas razões do Apelo Nobre, alegou a parte recorrente, a violação dos arts. 535, II do CPC/1973; 1o., I do Decreto-Lei 1.146/1939; 36, § 3o., 1o. do Decreto-Lei 3.438/1941; 2o. e 3o. da Lei 3.752/1960, porquanto o acórdão recorrido haveria conferido errônea interpretação jurídica a tais dispositivos ao entender que o MUNICÍPIO DO RIO DE JANEIRO/RJ teria o domínio útil das áreas localizadas no Aterro do Flamengo.
+5. O primeiro juízo de admissibilidade não conheceu do recurso por considerá-lo deserto; interposto o competente recurso de Agravo, converteu-se os autos em Recurso Especial para ser apreciado pela egrégia Corte Especial (fls. 767).
+6. Perante o Órgão Máximo deste STJ, afastou-se a deserção para permitir seu processamento e apreciação (fls. 777).
+7. É o relatório.
+8. De início, não ocorre a alegada nulidade do acórdão por violação ao art. 535 do CPC/1973, porquanto o Tribunal de origem apreciou as questões que lhe foram trazidas de maneira clara e fundamentada, com elementos constantes nos autos.
+9. Além disso, a parte recorrente não expôs qual seria a deficiência do acórdão a ser suprida, limitando-se a alegações genéricas de ocorrência de omissão, pelo que, nesse ponto, é inadmissível sua insurgência, sendo aplicável ao caso, por analogia, a Súmula 284/STF, segundo a qual é inadmissível o Recurso Extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Nesse sentido, é a jurisprudência do STJ:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ICMS. INCENTIVO FISCAL. AUSÊNCIA DE CELEBRAÇÃO DE CONVÊNIO CONFAZ. REDUÇÃO DE BASE DE CÁLCULO. APROVEITAMENTO DE CRÉDITO. VIOLAÇÃO DO ART. 535 DO CPC. FUNDAMENTO GENÉRICO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. ANÁLISE DE NULIDADE DA CDA. SÚMULA 7/STJ. QUESTÃO RESOLVIDA SOB ENFOQUE CONSTITUCIONAL.
+1. A alegada ofensa ao art. 535 do CPC foi apresentada de forma genérica pela parte recorrente, tendo em vista que não demonstrou, de maneira clara e específica, a ocorrência de omissão no julgado, atraindo, assim, o enunciado da Súmula 284 da Suprema Corte.
+(..).
+6. A instância ordinária, ao vedar o aproveitamento integral do ICMS relativo às aquisições de mercadorias, cujas saídas ocorreram com base de cálculo reduzido, proveniente de benefícios fiscais concedidos por outra unidade da federação e não previsto em convênios celebrados entre os Estados, baseou seu entendimento em fundamento constitucional - art. 155, § 2o., XII, g, da CF.
+7. Nesse contexto, eventual contrariedade, caso existente, ocorreria apenas no plano constitucional, de modo que se configura inviável a rediscussão da matéria pelo STJ, no recurso especial.
+8. Agravo regimental a que se nega provimento (AgRg no REsp. 1.539.743/MG, Rel. Min. OG FERNANDES, DJe 22.10.2015).
+
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. DESVIO DE FUNÇÃO. DIFERENÇAS SALARIAIS. OMISSÃO DO JULGADO ESTADUAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INÉPCIA DA INICIAL E JULGAMENTO EXTRA PETITA AFASTADOS. ERROR IN PROCEDENDO. FUNDAMENTO INATACADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+2. O Tribunal de origem deu a correta aplicação ao art. 282 do CPC, ao considerar cumpridos os requisitos da petição inicial, não vislumbrando a alegada inépcia da inicial uma vez que os autores narram na inicial (fls. 02/05) que estavam em exercício fático da função de técnico em radiologia, apesar de contratados para função diversa, requerendo indenização pecuniária.
+(..).
+5. Agravo regimental a que se nega provimento (AgRg no AREsp. 533.421/PE, Rel. Min. SÉRGIO KUKINA, DJe 13.3.2015).
+10. Afastados o óbice da deserção e a alegação de nulidade por erro de procedimento, passa-se à análise da matéria de mérito veiculada no Apelo Raro. Antes, porém, importante ressaltar os fundamentos pelos quais a Corte local apreciou a causa:
+O cerne da questão consiste em se analisar se o município do Rio de Janeiro detém o uso e fruição dos imóveis localizados na área do Parque do Flamengo, local onde estão instalados os postos de gasolina da ré, sendo cobrados desta a remuneração provisória pela urbe.
+Da análise dos autos, não há dúvidas que o réu possui direito ao aforamento da área e à cobrança de remuneração provisória impugnada nos autos, consoante disposto no art. 237 da Lei Orgânica do Município.
+Neste sentido, considerando que na sentença a questão foi exaustivamente analisada e para se evitar a tautologia, acolho os mesmos fundamentos como razão de decidir, valendo citar os seguintes trechos:
+(..).
+Pelo exposto, não tendo a demandante comprovado o fato constitutivo do direito alegado, como determina a regra de distribuição prevista no artigo 333, I, do CPC, foi proferida de forma irretocável a sentença que pôs fim ao processo (fls. 598/600).
+11. Com efeito, nota-se que o egrégio Tribunal Fluminense apreciou a causa mediante a aplicação do art. 237 da Lei Orgânica do Município do Rio de Janeiro, ou seja, mediante a análise de legislação local.
+12. Esta Corte Superior não detém competência constitucional para apreciar, em sede de Recurso Especial, nem aspectos de legislação local, ante a incidência da Súmula 280/STF. Nesse sentido, é a jurisprudência deste STJ:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ANÁLISE DA LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. INCIDÊNCIA. LEI ESTADUAL CONTESTADA EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF.
+1. O Tribunal de origem, ao examinar a matéria, fundamenou-se na Lei estadual n. 13.918/2009.
+2. Incabível, pois, a análise do recurso especial ante a incidência, por analogia, da Súmula 280 do STF: Por ofensa a direito local não cabe recurso extraordinário.
+3. A pretensão da recorrente envolve disposições de lei local contestada em face de lei federal, matéria de cunho eminentemente constitucional, nos termos da EC n. 45/2004.
+4. No âmbito do agravo interno, é vedado o exame de matéria que não foi oportunamente trazida nas razões do recurso especial, por caracterizar indevida inovação recursal.
+5. Agravo interno a que se nega provimento (AgInt no AREsp. 1.105.881/SP, Rel. Min. OG FERNANDES, DJe 21.3.2018).
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEIS COMPLEMENTARES MUNICIPAIS NS. 133/85 E 549/2006 E DECRETO MUNICIPAL N. 15.232/2006. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o., DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..).
+II - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+(..).
+V - Agravo Interno improvido (AgInt no AREsp. 1.182.712/RS, Rel. Min. REGINA HELENA COSTA, DJe 5.3.2018).
+13. Ante o exposto, não se conhece do Recurso Especial de PETROBRÁS DISTRIBUIDORA S.A.
+16. Publique-se. Intimações necessárias.
