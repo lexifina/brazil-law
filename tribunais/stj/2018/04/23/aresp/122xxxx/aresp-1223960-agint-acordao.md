@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+2. Agravo não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interno interposto por [NOME] LTDA contra decisão que não conheceu do agravo em recurso especial.
+Ação: regressiva ajuizada por TOKIO MARINE SEGURADORA S.A contra a ora agravante e ATLAS AIR INC, na qual alega que firmou com a empresa SONY [NOME] LTDA contrato de seguro, obrigando-se a garantir todas as mercadorias transportadas em trechos nacionais e internacionais. A empresa segurada, por seu turno, firmou contrato de compra e venda de peças para televisores domésticos com a empresa YOUNG LIGHTING TECHNOLOGY INC., importando as mercadorias de Taiwan para o [NOME]. Para o transporte das mercadorias, a Sony contratou os serviços da empresa agravante DC [NOME] [NOME] LTDA. que por sua vez contratou a empresa HORIZON INTERNATIONAL CARGO, que atua no mercado como agente de cargas, a qual trouxe a carga pela empresa China Air Lines, até o aeroporto de Miami, onde a mercadoria foi entregue à ATLAS AIR INC, que se encarregou de deslocar os produtos de Miami, nos EUA, até o aeroporto de Manaus no [NOME]. Entretanto, ao chegar ao aeroporto de destino no [NOME], constataram-se avarias de amassado, embalagem rasgada e furada nos produtos segurados. Sustenta que, diante do prejuízo constatado e do contrato de seguro firmado com a empresa Sony, se responsabilizou pela indenização na quantia de R$ 47.248,84 à segurada, subrogando-se nos seus direitos em relação à agravante e à empresa interessada. Assim, atribuindo à estas a responsabilidade pelas avarias sofridas pelos produtos durante o transporte, requer a condenação solidária delas ao pagamento no valor de R$ 47.248,84 corrigidos monetariamente e acrescidos de juros.
+Sentença: julgou improcedente o pedido e extinguiu o processo com fundamento no art. 487, I, do CPC.
+Acórdão: o TJ/SP deu provimento ao recurso de apelação interposto pela agravada, nos termos assim ementados (e-STJ fl. 567):
+RESPONSABILIDADE CIVIL Ação regressiva Transporte aéreo de cargas extravio/avarias de mercadorias - Inaplicabilidade do prazo decadencial previsto no parágrafo único do artigo 754 do código civil - Responsabilidade objetiva e solidária do agente de carga e da transportadora - Inteligência do artigo 734 do código civil - Reparação baseada no direito comum - Inaplicabilidade da indenização tarifada prevista em legislação especial - Indenização paga pela empresa seguradora Sub-rogação caracterizada Inteligência do artigo 786 do Código Civil - Falha na prestação dos serviços caracterizada Responsabilidade objetiva - Aplicação do CDC Possibilidade Precedentes do Superior Tribunal de Justiça Sentença reformada Recurso provido.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos da decisão denegatória de seguimento do recurso especial (Súmula 182/STJ).
+Agravo interno: a agravante alega que rebateu todos fundamentos da decisão denegatória de processamento do recurso e requer a sua reconsideração.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada não conheceu do agravo em recurso especial da agravante, ante a incidência da Súmula 182/STJ.
+Da análise do presente recurso, verifica-se que a agravante deixou de rebater, pontualmente, o fundamento da decisão agravada, pois não demonstrou, de maneira consistente e específica, a inaplicabilidade da Súmula 182/STJ à hipótese dos autos.
+De fato, a agravante não demonstrou que, nas razões do agravo em recurso especial, impugnou a incidência do óbice da Súmula 7/STJ.
+Outrossim, cumpre ressaltar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela aplicação do enunciado n. 7/STJ, incumbiria à parte interessada demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos, o que, de fato, não se observa na hipótese dos presentes autos.
+Assim, consoante jurisprudência pacífica desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula nº 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo.
