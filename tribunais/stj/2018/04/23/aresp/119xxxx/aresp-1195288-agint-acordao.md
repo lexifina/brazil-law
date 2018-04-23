@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+2. Agravo não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interno interposto por [NOME] DIAS - ESPÓLIO e NILZA DA ROCHA E CARMO DIAS contra decisão que não conheceu do agravo em recurso especial.
+Ação: declaratória de nulidade de escritura pública de compra e venda de imóvel proposta pelos agravantes contra [NOME] & CIA LTDA e OUTROS, na qual alegam que [NOME] adquiriu de [NOME], em 28/07/1998, uma área rural com aproximadamente 248,644,0 hectares, situada no lugar denominado "GLEBA NOVA MACAPÁ", área esta objeto das matrículas nº 590, da comarca de Boca do Acre/AM, nº 245, da Comarca de Lábrea/AM e nº 1.479, da Comarca de Sena Madureira. Aduzem que, embora conste na escritura a quitação plena, geral e irrevogável do negócio dada pelos vendedores, o falecido [NOME] foi vítima de um deles, [NOME] que, em conluio com terceiros, praticou uma série de atos fraudulentos, a começar pela averbação de cancelamento da escritura de compra e venda, sem qualquer motivo. Sustentam que a anotação foi inserida no espaço existente entre as assinaturas das partes, havendo menção em seu teor de um suposto requerimento, datado de 30 de novembro de 1998, mas que não foi localizado nos arquivos da Serventia. Asseveram que, não obstante se trate de escritura nula de pleno direito, não podendo produzir efeitos, a anotação causou enorme prejuízo, na medida em que induziu a erro terceiros por acreditarem que o negócio tinha sido rescindido, quando isso jamais ocorreu, pois em 04/11/1999, [NOME], na qualidade de procurador dos vendedores, assinou outra Escritura Pública de compra e venda do mesmo imóvel rural, tendo como comprador [NOME] & CIA Ltda. Afirmam que o vendedor não era mais representante dos outros vendedores, não possuindo poderes para vender o imóvel, bem como que os vendedores, que não participaram diretamente da transação, desconheciam o segundo negócio, qual seja, a existência de má-fé do comprador [NOME] & CIA Ltda. Requerem, assim, que seja declarada nula de pleno de direito a Escritura Pública nº 62, fls. 173F/175v, da 2ª Serventia de Rio Branco, a favor de Moacir [NOME] [NOME] [NOME] & Cia Ltda e sues sucessores e eventuais negócios jurídicos posteriores.
+Sentença: julgou extinto o processo, sem resolução do mérito, tendo em vista a existência de coisa julgada.
+Acórdão: o TJ/AC negou provimento ao recurso de apelação interposto pelos agravantes, nos termos assim ementados (e-STJ fls. 340/341):
+DIREITO PROCESSUAL CIVIL. APELAÇÃO. DEMANDAS CONCOMITANTES. TRÍPLICE IDENTIDADE VERIFICADA. COISA JULGADA. CUSTAS FINAIS. RESPONSABILIDADE.
+1. Tendo sido a sentença prolatada antes de 18.3.2016, descabe a utilização de dispositivo inovador do CPC/2015 (art. 10) como parâmetro para invalidá-la.
+2. Em teoria, configura violação ao princípio do contraditório (C.F., art. 5º, LV) - em sua acepção de contraditório como direito das partes de influenciar as decisões judiciais - a sentença que extingue o feito por coisa julgada sem dar ao autor a oportunidade de se manifestar a respeito da possível repetição de demandas.
+3. Entretanto, em aplicação dos princípios da instrumentalidade das formas e da economia processual, não há necessidade de anulação da sentença terminativa neste caso se é possível, desde já, no julgamento da apelação, verificar a ocorrência de repetição de demandas e resolver a questão processual.
+4. Constatada a tríplice identidade entre duas demandas concomitantes, tendo o mérito da mais antiga sido resolvido por sentença transitada em julgado, impõe-se a extinção terminativa da mais recente, conforme disposto no art. 485, V, do Código de Processo Civil de 2015.
+5. Consoante disposto no art. 9o, III, da Lei Estadual nº. 1.422/2001, é do sucumbente a responsabilidade pelo pagamento de custas correspondentes a 1,5% (um e meio por cento) do valor da causa quando da "satisfação da prestação jurisdicional", conceito que não se limita às sentenças resolutivas de mérito, estendendo-se a todo e qualquer provimento final que extingue o processo.
+6. Preliminar de nulidade rejeitada. Apelo desprovido.
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pelos agravantes devido à ausência de impugnação específica dos fundamentos da decisão denegatória de seguimento do recurso especial (Súmula 182/STJ).
+Agravo interno: os agravantes alegam que rebateram todos fundamentos da decisão denegatória de processamento do recurso e requerem a sua reconsideração.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+O agravo interno não merece acolhida, porquanto os argumentos deduzidos nas razões recursais pelos agravantes são incapazes de alterar o julgado.
+Conforme anteriormente relatado, a decisão agravada não conheceu do recurso especial aplicando a Súmula 182/STJ, haja vista que não teria ocorrido a impugnação do fundamento da decisão denegatória do apelo nobre, relativo à ausência/deficiência de cotejo analítico.
+De fato, os agravantes não demonstraram que, nas razões do agravo em recurso especial, impugnaram a incidência do referido fundamento.
+Assim, consoante jurisprudência pacífica desta Corte, não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão agravada, a teor do disposto na Súmula nº 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo.
