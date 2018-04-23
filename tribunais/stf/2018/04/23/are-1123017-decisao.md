@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário, no qual se alega contrariedade aos artigos 59, 145, II e § 2º, e 150, I, III, “a”, “b” e “c”, da Constituição Federal.
+    Insurge-se, no recurso extraordinário, contra acórdão assim ementado:
+    “Mandado de Segurança – Competência impositiva do ISSQN – Ilegitimidade de parte – Decadência do direito de requerer mandado de segurança – Inadequação da via mandamental, visto que a matéria exige dilação probatória Recurso conhecido e desprovido”.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que para ultrapassar o entendimento do Tribunal a quo acerca do preenchimento dos requisitos para se impetrar mandado de segurança, seria necessário o reexame da causa à luz da legislação infraconstitucional e do conjunto fático e probatório constante dos autos, o qual não é permitido em sede de recurso extraordinário. Desse modo, a alegada violação da Constituição Federal seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em apelo extremo. Incidência do enunciado da Súmula nº 279 do STF. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Mandado de segurança. Decadência. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. É necessário opor embargos declaratórios que permitam ao Tribunal de origem a apreciar a matéria sob o ângulo constitucional. 3. O Tribunal de origem reconheceu a decadência do direito dos agravantes para impetração do mandado de segurança com fundamento na legislação infraconstitucional. 4. Agravo regimental não provido” (AI nº 762.568/CE-AgR, Primeira Turma, de minha relatoria, DJe de 19/11/10).
+    “EMENTA Agravo regimental no recurso extraordinário. Negativa de prestação jurisdicional. Não ocorrência. Princípios do contraditório e da ampla defesa. Mandado de segurança. Prova pré-constituída. Ofensa reflexa. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido” (RE n° 582.134/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 21/2/13).
+    Por fim, ressalte-se que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do Agravo de Instrumento nº 800.074/SP, Pleno, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria relativa aos pressupostos de cabimento de mandado de segurança. Esse julgado recebeu a seguinte ementa:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.” (DJe de 6/12/10).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 23 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
