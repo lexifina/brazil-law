@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO NACIONAL DO MAGISTÉRIO. LEIS MUNICIPAIS 5.548/2009 E 5.801/2011 DO MUNICÍPIO DE PELOTAS/RS. ANÁLISE DE DIREITO LOCAL. NÃO CABIMENTO. AGRAVO DO MUNICÍPIO DE PELOTAS A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pelo MUNICÍPIO DE PELOTAS com fundamento no art. 105, III, a e c da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. RECURSO ADESIVO. REEXAME NECESSÁRIO. SERVIDOR PÚBLICO. MUNICÍPIO DE PELOTAS. PISO NACIONAL DO MAGISTÉRIO.
+- A suspensão até o julgamento da ação civil pública 022/1.13.0018745-8, ajuizada pelo Ministério Público contra o Município de Pelotas, é medida salutar para os feitos que, diferentemente do presente, ainda não foram julgados. Preliminar de suspensão do processo afastada.
+- A Lei 11.738/08, que instituiu o piso salarial profissional nacional para os profissionais do magistério público da educação básica, tem caráter nacional e independe de regulamentação por lei local para ser aplicada. Competência da União para a edição da lei que é prevista expressamente na Constituição da República. O termo inicial para a execução da referida lei é 27 de abril de 2011, data do julgamento do mérito da ADI 4.167.
+- As Leis Municipais 5.548/09 e 5.801/11 não implementaram o piso, pois a primeira apenas previu o pagamento de parcela completiva e a segunda fixou valor inferior ao estabelecido pelo MEC.
+- Manutenção dos honorários advocatícios.
+Sucumbência recíproca não configurada, ante o decaimento exclusivo do réu.
+NEGARAM PROVIMENTO AO AGRAVO INTERNO (fls. 230).
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Recurso Especial inadmitido, a parte recorrente alega ofensa aos arts. 1.022, II, e 85 do CPC/2015, 206, § 3o., IV e V do CC, 1o. e 10 do Decreto 20.910/1932, e 5o. da Lei 11.738/2008, sustentando, em síntese: a) omissão no acórdão recorrido; b) prescrição da pretensão; c) que o Município revisou e reajustou os vencimentos dos integrantes do quadro do Magistério, através das Leis Municipais 5.548/2009 e 5.801/2011; e d) a necessidade de redução da verba honorária fixada em 5% do valor da condenação, porquanto excessivo.
+4. É o relatório do essencial.
+5. Inicialmente, em relação à suposta contrariedade ao art. 1.022, II do CPC/2015, inexiste a violação apontada. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que o julgamento diverso do pretendido, como na espécie, não implica ofensa à norma ora invocada.
+6. No tocante à prescrição, da leitura dos autos verifica-se que a questão somente foi suscitada nas razões do Recurso Especial, não tendo sido apontada a omissão nas razões dos Embargos de Declaração, configurando, assim, a indevida inovação recursal, impondo-se o não conhecimento do recurso quanto ao ponto.
+7. Quanto ao mérito, é inafastável a aplicação da Súmula 280/STF. Isto porque a questão da remuneração dos Professores do Município de Pelotas/RS foi decidida com amparo em leis locais, quais sejam, as Leis Municipais 5.548/2009 e 5.801/2011. Assim, torna-se inviável a análise do ponto na via estreita do Especial.
+8. Também não prospera a pretensão recursal de redução dos honorários advocatícios. O reexame dos critérios de fixação da verba honorária é, em princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+9. Tendo em vista o disposto no art. 85, § 11 do CPC/2015 e o Enunciado 241 do Fórum Permanente de Processualistas Civis, os honorários de sucumbência recursal serão somados aos honorários devidos em razão da sucumbência em primeiro grau, observados os limites legais.
+10. Assim, fixam-se os honorários recursais em 1% sobre o valor da condenação, que deverão ser acrescidos ao montante total.
+11. Ante o exposto, nega-se provimento ao Agravo do MUNICÍPIO DE PELOTAS.
+12. Publique-se. Intimações necessárias.
