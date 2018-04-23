@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por [NOME] em face de decisão que negou provimento ao agravo em recurso especial sob os seguintes fundamentos: (I) incidência da Súmula 211/STJ; (II) falta de ofensa ao art. 535 do CPC/73.
+A parte embargante sustenta a existência de contradição na decisão embargada, sob o argumento de que "há manifesta contradição no decisum uma vez que suas asserções, porque contrastantes (de um lado reconhece a existência de omissão no acórdão regional, mesmo após a interposição de aclaratórios, e, por outro lado, afasta a violação ao art. 535 do CPC/73) se apresentam de entendimento inconciliável" (fls. 276/277).
+Intimada a parte embargada a se manifestar, decorreu in albis o prazo para impugnação (fl. 281).
+É o relatório.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Além disso, não há que se falar em contradição na decisão que afasta a violação ao art. 535 do CPC/73 e não analisa a violação de dispositivos legais ou teses por ausência de prequestionamento. Nesse sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 211/STJ.
+1. Não se verifica a ofensa ao art. 535 do CPC, quando o Tribunal de origem dirime, fundamentadamente, as questões que lhe são submetidas, apreciando integralmente a controvérsia posta nos autos. Ressalte-se que não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal a quo não se pronunciou sobre a matéria versada no art. 333, I, do CPC, apesar da oposição de embargos de declaração. Nesse contexto, pois, incide o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo").
+3. "A questão jurídica sobre a qual o Tribunal de origem não estava obrigado a se manifestar, por não haver sido provocado a tanto em momento oportuno, não pode ensejar ofensa ao artigo 535 do Código de Processo Civil. Além disso, se, a despeito dos embargos de declaração opostos, o Tribunal não se pronuncia sobre determinada questão, porque encontrou fundamentos diversos para o deslinde da controvérsia, inclusive de âmbito constitucional, falta o requisito do prequestionamento, incidindo, assim, a Súmula n. 211/STJ. Em casos tais, inexiste contradição em afastar a violação do artigo 535 do Código de Processo Civil e, ao mesmo tempo, não conhecer do mérito do recurso por ausência de prequestionamento."(EDcl nos EDcl no REsp 1190734/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/06/2011)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 355622/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 21/11/2013, DJe 28/11/2013)
+Conforme consignado na decisão embargada, nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Ademais, o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+PROCESSUAL CIVIL - ADMINISTRATIVO - LICITAÇÃO - EXECUÇÃO DO CONTRATO - SUCESSÃO DE EMPRESAS - OMISSÃO NÃO VERIFICADA - ART. 515 DO CPC - FALTA DE
+PREQUESTIONAMENTO - SÚMULA 211/STJ.
+1. A teor da Súmula 211/STJ, é inadmissível recurso especial para exame de matéria que não foi objeto de prequestionamento.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se, apenas, que a decisão seja fundamentada. Aplica o magistrado ao caso concreto a legislação por ele considerada pertinente.
+3. Inexiste afronta ao art. 535 do CPC, quando a omissão alegada nos embargos de declaração é sobre questão desinfluente para a solução do litígio.
+4. Recurso especial da primeira recorrente não conhecido e improvido o recurso da segunda recorrente.
+(REsp 804921/AL, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/05/2007, DJ 28/05/2007)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
