@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOSEANE ARAUJO DOS SANTOS, EMERSON MARIO BARBOSA DE SOUZA, WADISON DA SILVA ANDRADE e ADALBERTO HENRIQUE DA SILVA, apontando como autoridade coatora Desembargadora do Tribunal de Justiça do Estado da Bahia, no julgamento do HC 8006404-86.2018.8.05.0000.
+Noticiam os autos que os pacientes foram denunciados como incursos nos artigos 33, caput e § 1º, inciso II, e 35, combinados com o artigo 40, inciso III, todos da Lei 11.343/2006, tendo a sua custódia temporária sido convertida em preventiva por ocasião do recebimento da incoativa.
+Buscando a revogação da custódia cautelar dos acusados, a defesa impetrou prévio writ na origem, cujo pedido liminar foi indeferido.
+Sustenta o impetrante que as interceptações telefônicas dos acusados teriam sido autorizadas mediante decisão desprovida de fundamentação.
+Alega que a segregação antecipada dos pacientes teria sido decretada com base em fatos genéricos e abstratos.
+Requer, liminarmente, a revogação da prisão preventiva dos réus, e, no mérito, pugna pela confirmação da medida de urgência, bem como a anulação das interceptações telefônicas, trancando-se a ação penal.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta" (AgRg no HC 427.758/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+E, da análise da documentação acostada, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, a Desembargadora Relatora consignou que "a inicial não veio instruída com os documentos de IDs 887895/887908, não se verificando, de modo inequívoco, o fumus boni iuris e o periculum in mora autorizadores da medida pleiteada" (e-STJ fl. 8).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, tendo sido declinadas justificativas plausíveis para o indeferimento da cautela almejada, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ademais, "a jurisprudência desta Corte Superior firmou-se no sentido de que a ação mandamental de habeas corpus exige a apresentação de prova pré-constituída, recaindo sobre o impetrante o ônus de instruir corretamente o mandamus, a fim de que seja possível identificar o alegado constrangimento ilegal" (AgRg no HC 438.187/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/03/2018, DJe 27/03/2018), circunstância que afasta a plausibilidade jurídica do pleito e reforça a impossibilidade de superação do óbice contido no verbete 691 da Súmula do Pretório Excelso.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
