@@ -1,0 +1,19 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E ADMINISTRATIVO. AUTO DE INFRAÇÃO. MULTA. DIVERGÊNCIA DIVERGÊNCIA ENTRE ACÓRDÃOS DO MESMO TRIBUNAL. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 13/STJ. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA 284 DO STF. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundado na alínea c do art. 105, III da Constituição Federal, no qual TRANSPORTES ALBINO LTDA. alega divergência jurisprudencial em relação à matéria controvertida.
+2. O acórdão recorrido foi assim ementado:
+DIREITO ADMINISTRATIVO. ANTT. COMPETÊNCIA ADMINISTRATIVA NORMATIVA E SANCIONADORA. ARTIGO 34, VII, RESOLUÇÃO 3.056/2009/ANTT. INCIDÊNCIA. CTB. AFASTAMENTO. AUTO DE INFRAÇÃO. VALIDADE.
+A ANTT detém competência administrativa normativa e sancionadora quanto ao serviço de transporte de cargas, na forma dos artigos 24, incisos VIII e XVIII, e 78-A, ambos da Lei 10.233/2001.
+O auto de infração que a parte autora visa anular foi lavrado pela ANTT porque o condutor do veículo teria incorrido nos dizeres do artigo 34, inciso VII da Resolução ANTT 3.056/09 (evadir, obstruir ou de qualquer forma, dificultar a fiscalização). Na espécie, não se trata de infração de trânsito, mas sim de transgressão a dever da empresa transportadora de cargas, verificada pela fiscalização da ANTT, no cumprimento de seu poder de polícia. Portanto, não há que se falar em aplicação do art. 281, II, do Código de Trânsito Brasileiro. Logo, incide, na espécie, o prazo prescricional previsto na Lei 9.873/1999 (fls. 268).
+3. Em seu Apelo Nobre (fls. 277/295), a parte recorrente sustenta a existência de divergência jurisprudencial. Assevera, em síntese, que acórdão análogo entendeu pela nulidade das multas embasadas no art. 34, VII da Resolução ANTT 3.056 de 2009, sob o entendimento de que se trata de infrações de trânsito, com a consequente aplicabilidade do Código de Trânsito Brasileiro e não da Resolução própria da ANTT (fls. 282).
+4. É o relatório.
+5. A irresignação não merece prosperar.
+6. Com efeito, o dissídio jurisprudencial não foi analiticamente demonstrado, porquanto os arestos trazidos pelo recorrente são originários da própria Corte prolatora da decisão recorrida. Aplicável, portanto, a Súmula 13 desta Corte, segundo a qual a divergência entre julgados do mesmo Tribunal não enseja Recurso Especial.
+7. Observe-se, ainda, que a parte recorrente não indicou qual seria o dispositivo de Lei Federal de interpretação controvertida nos Tribunais, o que atrai a incidência do enunciado 284 da Súmula de jurisprudência do Supremo Tribunal Federal, por analogia.
+8. Por fim, de acordo com o Enunciado Administrativo 7/STJ, somente no julgamento de recursos interpostos contra decisões publicadas a partir de 18.3.2016 é possível a fixação/majoração de honorários advocatícios, na forma do art. 85, § 11 do CPC/2015.
+9. Na hipótese dos autos, verifica-se que o Recurso Especial foi interposto já na vigência do CPC/2015. Desse modo, mostra-se evidente o direito à majoração dos honorários sucumbenciais recursais.
+10. Tendo em vista o disposto no art. 85, § 11 do CPC/2015 e o Enunciado 241 do Fórum Permanente de Processualistas Civis, os honorários de sucumbência recursal serão somados aos honorários devidos em razão da sucumbência em primeiro grau, observados os limites legais.
+11. Assim, fixam-se os honorários recursais em 1% sobre o proveito econômico, que deverão ser acrescidos ao montante total. Precedentes: AgInt no AREsp. 236.269/SC, Rel. Min. GURGEL DE FARIA, DJe 20.10.2016; AgInt no AREsp. 196.789/MS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 18.8.2016.
+12. Diante do exposto, nega-se provimento ao Agravo em Recurso Especial. Fixam-se os honorários recursais em 1% sobre o proveito econômico (art. 85, § 11 do CPC/2015), que deverão ser acrescidos ao montante total.
+13. Publique-se.
+14. Intimações necessárias.
