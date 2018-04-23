@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 203):
+ADMINISTRATIVO. INMETRO. MULTA. ERRO FORMAL NA EMBALAGEM. LEI N. 9.933/99. RESOLUÇÃO CONMETRO N. 12/88. TABELA III. AUSÊNCIA DE PREJUÍZO AO CONSUMIDOR. DIREITO Ã INFORMAÇÃO. AUSÊNCIA DE RAZOABILIDADE NA APLICAÇÃO DA PENALIDADE.
+I - Comercialização de produto com erro formal na embalagem, consistente no uso da letra "L" para indicação da unidade de volume litro, quando a Resolução CONMETRO n. 12/88 determina o emprego da letra "1" para tanto.
+II - A Administração Pública está sujeita à observância do princípio da razoabilidade, a significar que, no exercício de discricionariedade, deva optar por solução equilibrada, proporcional, justa.
+III - Na situação exposta, em face da ausência de prejuízo do consumidor, que não teve desprezado seu direito à informação, impende observar-se tal princípio, porquanto revela-se injusta a imposição de multa sem antes oportunizar-se ao autuado a alteração de seu procedimento.
+IV - Apelação improvida.
+Opostos embargos declaratórios, foram parcialmente acolhidos, nestes termos (fl. 231):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. CABIMENTO EM RELAÇÃO AOS HONORÁRIOS ADVOCATÍCIOS.
+I - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, no tocante à matéria de mérito, pelo quê ausente pressuposto a ensejar a oposição de embargos de declaração em relação à mesma.
+II - Não existindo a omissão, o pretendido efeito modificativo do julgado somente pode ser obtido em sede de recurso.
+III - Desnecessário estampar no acórdão referência expressa a dispositivo legal empregado na fundamentação do recurso. Hipótese em que configurado o prequestionamento implícito.
+IV - Verificada, no caso, omissão a ser suprida, nos termos do art. 535, inciso II, do Código de Processo Civil, a ensejar a declaração do julgado, mediante embargos de declaração.
+V - Complementado o voto para constar da fundamentação a redução dos honorários advocatícios para 10% (dez por cento) sobre o valor atribuído à causa, devidamente atualizado em consonância com a Resolução n. 134/2010, do Conselho da Justiça Federal, consoante o entendimento desta Sexta Turma, levando-se em consideração o trabalho realizado pelo patrono, o tempo exigido para seu serviço e a complexidade da causa, e à luz dos critérios apontados no § 4o, do art. 20, do Código de Processo Civil.
+VI - Embargos de declaração parcialmente acolhidos, com efeitos infringentes.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1º, 3º, 5º, 7º, 8º e 9º, da Lei n. 9.933/99. Sustenta, em síntese, que a lavratura de auto de infração decorreu da constatação de conduta irregular da parte ora agravada, consistente em expor à venda produto cuja embalagem contém informações fora do padrão estabelecido na Resolução CONMETRO n. 12/88.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Ao dirimir a controvérsia, o Tribunal de origem consignou (fls. 201/202):
+ O CONMETRO, por sua vez, exercendo seu poder normativo, baixou a Resolução n. 12/88, a qual, em sua Tabela III, prevê como símbolo para a unidade "litro", a letra "1" (minúscula), dispondo ainda que "A título excepcional a 16a CGPM/1979 adotou os dois símbolos 1 (letra ele minúscula) e L (letra ele maiúscula) como símbolos utilizáveis para o litro. O símbolo L será empregado sempre que as máquinas de impressão não apresentem distinção entre o algarismo um e a letra ele minúscula, e que tal coincidência acarrete probabilidade de confusão.".
+ Na hipótese em comento, verifica-se que a Autora foi autuada por comercializar um preparado sólido para refresco, sabor abacaxi, marca Rizzo, com erro formal na indicação da unidade legal de quantidade, ou seja, em vez de constar "Faz 1 litro", em sua embalagem estava constando "Faz 1 Litro", em afronta ao disposto nos arts. Io e 5o, da Lei n. 9.933/99 e no item 3 e subitem 3.1.1, da Resolução CONMETRO n. 12/88.
+ A Administração Pública está sujeita à observância do princípio da razoabilidade, a significar que, no exercício de discricionariedade, deva optar por solução equilibrada, proporcional, justa, enfim.
+ Na situação exposta, em face da ausência de prejuízo do consumidor, que não teve desprezado seu direito à informação, impende observar-se tal princípio, porquanto revela-se injusta a imposição de multa sem antes oportunizar-se ao autuado a alteração de seu procedimento.
+Verifica-se que a Corte regional concluiu pela insubsistência do auto de infração a partir da análise das peculiaridades fáticas do caso em análise e com base nos princípios da razoabilidade. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AMBIENTAL. AÇÃO DECLARATÓRIA DE NULIDADE. AUTO DE INFRAÇÃO. TERMO DE AJUSTAMENTO DE CONDUTA FIRMADO NA AÇÃO CIVIL PÚBLICA. DEMOLIÇÃO. IMPOSSIBILIDADE. RECURSO ESPECIAL NÃO PROVIDO.
+1. Cuida-se, na origem, de Ação Declaratória de Nulidade proposta por [NOME], ora recorrido, contra o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - Ibama, visando à declaração de nulidade do Auto de Infração nº 336786-D e do Processo Administrativo - PA nº 02007.003665/2005-53.
+O Juiz de 1º Grau julgou procedente o pedido, desconstituindo as sanções de multa e demolição impostas no Auto de Infração nº 336786/D.
+2. A pretensão recursal do recorrente esbarra nas Súmulas 5 e 7 do STJ. Se existe Termo de Ajustamento de Conduta homologado judicialmente, não pode o órgão administrativo simplesmente ignorá-lo.
+3. Recurso Especial não provido.
+(REsp 1645572/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/03/2017, DJe 19/04/2017)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
