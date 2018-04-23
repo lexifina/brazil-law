@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. Ao contrário do que afirma a embargante, não se verifica no julgado questionado a alegada contradição, na medida em que a jurisprudência é firme no sentido de que "a alegação genérica de ofensa ao art. 535 do CPC/73, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice do enunciado n. 284 da Súmula do STF" (AgInt no Resp 1.623.576/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 26/2/2018)". Precedentes.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de embargos de declaração opostos por VIP Promotora de Vendas Ltda. contra acórdão, proferido pela Segunda Turma, que negou provimento ao recurso especial, nos termos da seguinte ementa (e-STJ, fl. 365):
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. APLICABILIDADE LEIS N. 10.637/2002 E N. 10.833/2003. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 535 do CPC/1973 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. Deixando o Tribunal de origem de se manifestar sobre a matéria ventilada no recurso especial, incide, no caso, a Súmula 211 do Superior Tribunal de Justiça.
+3. Recurso especial não conhecido.
+Em suas razões, a embargante sustenta que a decisão ora impugnada é contraditória, pois, "como pode extrair-se do recurso especial da embargante, a parte embargante consignou em sua peça de recurso especial que: "Tribunal a quo, mesmo após a oposição de embargos de declaração, deixou de enfrentar, acertadamente, sobre os dispositivos ali elencados, assim como para questionar os dispositivos elencados"" (e-STJ, fl. 379).
+Assim, não seria mais necessário discorrer sobre a suposta omissão.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O art. 1.022 do CPC/2015 traz as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) o erro material.
+Ao contrário do que afirma a parte embargante, não se verifica no julgado questionado a suscitada contradição, uma vez que a jurisprudência do Superior Tribunal de Justiça é uníssona ao afirmar que "a alegação genérica de ofensa ao art. 535 do CPC/73, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice do enunciado n. 284 da Súmula do STF" (AgInt no Resp 1.623.576/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 26/2/2018) .
+No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. IMÓVEL RURAL DE DOMÍNIO DA UNIÃO. AÇÃO REIVINDICATÓRIA AJUIZADA PELO INCRA. ILEGITIMIDADE AD CAUSAM. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83 DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 15/08/2017, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73. II. Na origem, trata-se de ação reivindicatória ajuizada pelo INCRA, em desfavor dos ora agravados, com o objetivo de reivindicar a posse de imóvel de propriedade da União Federal, sob o fundamento de que este se encontra indevidamente ocupado pelos réus. O Tribunal de origem manteve a sentença que julgara extinto o processo, sem resolução do mérito, reconhecendo a ilegitimidade ativa do INCRA.
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a agravante não evidencia qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+ ..
+V. Agravo interno improvido.
+(AgInt no REsp 1.418.051/MT, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 27/2/2018)
+Dessa forma, não são cabíveis os presentes embargos, haja vista que a real intenção da parte embargante não é sanar alguma omissão, contradição ou obscuridade no acórdão impugnado, e, sim, rediscutir o que aqui ficou claro e coerentemente decidido, buscando efeitos infringentes em situação na qual não são cabíveis.
+Registre-se, por fim, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
