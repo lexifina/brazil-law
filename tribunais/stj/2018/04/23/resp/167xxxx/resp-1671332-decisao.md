@@ -1,0 +1,69 @@
+DECISÃO
+Vistos.
+Trata-se Recurso Especial interposto pelo ESTADO DO RIO GRANDE DO SUL, contra acórdão prolatado, por unanimidade, pela 25ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento de apelação, assim ementado (fls. 80/81e):
+APELAÇÃO CíVEL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTES DA LEI ESTADUAL 10.395/95 SOBRE VENCIMENTO BÁSICO. PROVENTOS DE APOSENTADORIA. MEDIA SALARIAL PRESCRIÇÃO DO FUNDO DE DIREITO
+A prescrição atinge apenas as parcelas vencidas há mais de cinco anos da propositura da ação, na forma da súmula nl> 85, do STJ, não tendo se operado a prescrição do fundo de direito.
+APOSENTADORIA PELA MÉDIA SALARIAL - EC NO 4112003:
+A circunstância de a parte autora ter se aposentado, com base no artigo 40, §§ 30 e 17, da Constituição Federal, não afasta o seu direito aos- reajustes previstos na Lei Estadual nO 10.395/95.
+Deve o Estado, ao implantar os reajustes, fazer incidir os percentuais destes sobre os vencimentos/rubrica que a autora percebia antes da aposentadoria.
+O pagamento dos valores em atraso, observada a prescrição quinquenal, será efetuado até a data da aposentadoria, após o que deve ser realizado o recálculo dos proventos com o pagamento dos valores corretos, considerando os reajustes devidos.
+ATUALIZAÇÃO MONETÁRIA - ADIS 4357 E 4425 E CAUTELAR NA ADI 4425
+A Medida Cautelar concedida nos autos da ADI 4425 pelo Min Luiz Fux, e ratificada pelo plenário no dia 24.10.2013, determina aos Tribunais a aplicação da legislação considerada inconstitucional pela Suprema Corte (ADIs 4425 e 4357), até decisão final nos autos dos embargos de declaração que modulará os efeitos da decisão.
+INDEXADOR DA ATUALIZAÇÃO MONETÁRIA - LEI NO 11 .96012009
+A correção monetária far-se-á pelo IGP-M desde a data do inadimplemento de cada parcela, até 30.06.2009, a partir de quando será realizada por os índices oficiais da caderneta de poupança, na forma da Lei n 11.960/2009.
+MODULAÇÃO DOS EFEITOS
+Não se desconhece que o STF, em julgamento ocorrido em 25.03.2015 modulou os efeitos das ADIs 4425 e 4357 em relação ao regime especial de pagamento de precatórios, instituído por a EC 6212009, mantendo a aplicação do índice de remuneração básica da caderneta de poupança (TR) até 25.03.2015, data após a qual os créditos dos precatórios deverão ser corrigidos pelo IPCA- E, dentre outras determinações. Ocorre que o acórdão ainda não transitou em julgado, se afigurando conveniente a manutenção dos critérios de atualização até então vigentes.
+JUROS DE MORA
+ Os juros de mora incidem a partir da constituição do devedor em mora, o que se dá com a citação, nos termos do art. 219 do CPC e art. 404 do CC.
+Nas ações cuja citação tenha ocorrido em data posterior a 30.06.2009 os juros de mora incidem segundo os juros da caderneta de poupança.
+NECESSIDADE DO REEXAME:
+O Egrégio Superior Tribunal de Justiça afirma a necessidade de reexame necessário nas sentenças iquidas, caso dos autos, i ndependentem ente do valor atribuido à causa, explicitando que os pressupostos normativos para a dispensa do reexame são aferidos, não pelos elementos da demanda (petição inicial ou valor da causa) e sim pelos que decorrem da sentença que a julga.
+APELAÇÕES DESPROVIDAS. SENTENÇA EXPLICITADA EM REEXAME NECESSÁRIO.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa ao art. 1º do Decreto Federal n. 20.910/32, alegando, em síntese, ser o caso de "prescrição do próprio fundo do direito, pois não se está a discutir vantagens pecuniárias ou parcelas que deveriam estar sendo pagas ao autor, e que consistiriam em obrigação de trato sucessivo, mas, isto sim, está-se buscando a alteração dos proventos com a revisão do valor de parcelas que tiveram cessado seu pagamento há mais de cinco anos da propositura da ação" (fl. 100e).
+Com contrarrazões (fls. 108/114e), o recurso foi inadmitido (fls. 117/131e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 187e).
+O Ministério Público Federal manifestou-se às fls. 200/205e, opinando pelo não conhecimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+De fato, ao prolatar o acórdão recorrido, o Tribunal de origem afastou a tese de prescrição de fundo de direito consignando tratar-se, no caso, de prescrição de trato sucessivo, nos seguintes termos (fls. 84/86e):
+O pedido veiculado por a parte demandante foi de pagamento dos reajustes previstos no art. 8 , incs. IV e V da Lei 10.395/95 sobre os proventos de aposentadoria.
+Em relação aos reajustes da Lei 10.395/95 sobre os proventos de aposentadoria, inexiste prescrição a ser reconhecida.
+O artigo 10 do Decreto nº 20.910/32 prevê que as dívidas passivas da União, Estados e dos Municipios, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originaram.
+Ocorre que este dispositivo resta afastado por força da Súmula 85 do Superior Tribunal de Justiça.
+A Súmula 85, do STJ enuncia que nas relações jurídicas de trato sucessivo, em que a Fazenda Pública figure como devedora, quando não tiver sido negado o prôprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+A súmula se aplica à hipótese sub judíce, posto que eventuais diferenças de vencimentos/proventos caracterizam-se como parcelas de trato sucessivo, em que a eventual lesão se trata de relação jurídica de trato sucessivo em que a Fazenda Pública seria devedora de diferenças, situação em que não foi negado expressamente, anteriormente à propositura da presente ação, o próprio direito reclamado, caso em a prescrição atinge apenas as parcelas vencidas há mais de cinco anos da propositura da ação, na forma da Súmula nº 85, do STJ, não tendo se operado a prescrição do fundo de direito.
+O inadimplemento dos reajustes previstos na Lei Estadual nº10.395/95 ocasionou pagamento a menor dos proventos de aposentadoria.
+Ou seja, desde então o básico vem sendo pago em valor inferior ao que deveria, diferença esta que se renova a cada mês.
+Não há prescrição do fundo de direito porquanto inexiste manifestação da Administração acerca dessa incorporação, incidindo apenas a prescrição quinquenal, das parcelas vencidas há mais de cinco anos da propositura da ação.
+Somente incide a prescrição do fundo de direito quando a Administração Pública tenha expressamente negado o direito postulado, o que não é o caso dos autos, pois o Ente Público demandado nunca negou expressamente o direito ora postulado.
+A súmula 85, do Superior Tribunal de Justiça se aplica à hipótese sub judíce, caso em que a prescrição atinge as parcelas vencidas há mais de cinco anos da propositura da ação, na forma da Súmula n1 85, do STJ.
+O Superior Tribunal de Justiça examinou a matéria, reconhecendo o interesse processual e afastando a prescrição, quando do julgamento do Recurso Especial Representativo da Controvérsia nº 1336213-RS, relator o Ministro Herman Benjamin.
+Com efeito, verifico que o acórdão recorrido adotou entendimento pacificado nesta Corte, segundo o qual em caso de ato omissivo da Administração Pública, em que não tenha havido negativa expressa do direito pretendido, não se opera a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, porquanto resta caracterizada a relação de trato sucessivo, que se renova mês a mês, nos termos da Súmula n. 85 desta Corte.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDORES DO PODER JUDICIÁRIO. AÇÃO ORDINÁRIA DE REVISÃO DE REMUNERAÇÃO. LEI ESTADUAL FLUMINENSE 1.206/87. RELAÇÃO DE TRATO SUCESSIVO. INOCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. AGRAVO DO ESTADO DO RIO DE JANEIRO DESPROVIDO.
+1. Segundo a orientação jurisprudencial desta Corte, nos casos em que a pretensão envolve o pagamento de vantagem pecuniária e não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ.
+2. As vantagens pecuniárias decorrentes da Lei Estadual Fluminense 1.206/87, se amoldam mensalmente ao patrimônio jurídico do Servidor Público, razão pela qual é inarredável a incidência da Súmula 85 deste Tribunal Superior.
+3. Além disso, trata-se de ato omissivo da Administração, que não concedeu aos ora agravados, Servidores do Poder Judiciário, o reajuste concedido aos demais Servidores do Estado pela Lei Estadual Fluminense 1.206/87, após a declaração de inconstitucionalidade pela Suprema Corte da exclusão dos integrantes do Poder Judiciário.
+4. A ausência de pagamento do reajuste aos agravados não configura ato lesivo de efeito único como crê o recorrente, mas omissão da Administração em efetuar o correto pagamento, sendo certo que o prazo prescricional não pode ter início sem que se opere a inequívoca ciência da parte no tocante à violação à sua esfera de direitos individuais a motivar a pretensão judicialmente perquirida.
+5. Um dos mais importantes atributos do ato administrativo é a sua presunção de legalidade, motivo pelo qual não se pode apenar, de modo algum, o Servidor que, ao não perceber determinada vantagem econômica em seus proventos, não ajuíza de imediato ação judicial. É cediço que o Servidor crê na boa-fé da Administração Pública, o que o conduz a não travar uma relação de desconfiança para com os entes públicos.
+6. Recurso Especial do ESTADO DO RIO DE JANEIRO a que se nega provimento.
+(REsp 1537137/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 25/11/2015, DJe 31/03/2016);
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA. PROGRESSÃO FUNCIONAL AUTOMÁTICA. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. ATO OMISSIVO DA ADMINISTRAÇÃO PÚBLICA. TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. A jurisprudência desta Corte firmou o entendimento no sentido de que havendo ato omissivo da Administração Pública não ocorre a prescrição do fundo de direito, mas tão-somente das parcelas anteriores ao qüinqüênio que precedeu à propositura da ação (Súmula 85/STJ). Precedentes: AgRg no AREsp 558.052/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/10/2014; MS 20.694/DF, Rel. Ministro Benedito Gonçalves, Pimeira Seção, DJe 01/09/2014; AgRg no AREsp 537.217/CE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 27/08/2014; AgRg no AREsp 344.705/CE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 04/08/2014.
+2. Agravo regimental não provido.
+(AgRg no AREsp 599.050/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 18/12/2014, DJe 03/02/2015, destaque meu);
+ADMINISTRATIVO E PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. SERVIDOR PÚBLICO ESTADUAL. IMPLEMENTAÇÃO DE REAJUSTE DE 24%. PRESCRIÇÃO. PRESTAÇÕES DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Em se tratando de relação de trato sucessivo, o indeferimento do pedido pela Administração é o termo a quo para o cômputo do prazo quinquenal. Se não houver negativa expressa, o entendimento jurisprudencial é no sentido de que, nas hipóteses em que a Administração, por omissão, não paga benefícios aos servidores, a prescrição não atinge o próprio fundo de direito, mas tão somente as parcelas vencidas há mais de cinco anos da propositura da ação, nos termos da Súmula 85/STJ.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 515.459/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/08/2014, DJe 15/08/2014, destaque meu).
+No caso, a parte Autora busca sanar omissão da Administração, consubstanciada na inércia em implementar o reajuste estabelecido pela Lei Lei Estadual n. 10.395/95, não tendo havido negativa expressa a esse respeito.
+Outrossim, a análise da tese recursal, no sentido de que a pretensão autoral foi negada no próprio ato de aposentadoria, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3 DO STJ. PAGAMENTO DE PAM. RESP N. 1.336.216/RS. PRESCRIÇÃO. SÚM. N. 280 DO STF. ANÁLISE DO ATO DE APOSENTADORIA. ANÁLISE PROBATÓRIA. IMPOSSIBILIDADE. SÚM. N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A análise da pretensão recursal implicaria interpretação de norma local, insuscetível de análise em sede de recurso especial, nos termos da Súmula n. 280/STF.
+2. A acolhida da pretensão recursal, com o intuito de verificar se a aposentadoria da parte recorrida teria condão de impedir o pagamento de PAM, com a consequente revisão do julgado impugnado, depende de reexame fático-probatório dos autos, o que não é possível em sede de recurso especial por força do óbice da Súmula n. 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 991.504/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017)
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
