@@ -1,0 +1,17 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+    Nas razões recursais, com amparo no art. 102, III, da Constituição Federal, foi alegada violação ao art. 97, da CF/88.
+    É o relatório. Decido.
+    Quanto à suposta violação ao art. 97 da CF/1988, verifica-se que o órgão fracionário do Tribunal de origem apenas interpretou e aplicou o conjunto normativo pertinente de acordo com o caso concreto, não havendo infração à referida norma constitucional.
+    O artigo 97 da Constituição Federal estabelece verdadeira cláusula de reserva de plenário, que atua como condição de eficácia jurídica da própria declaração jurisdicional de INCONSTITUCIONALIDADE dos atos do Poder Público, aplicando-se para todos os tribunais, via difusa, e para o Supremo Tribunal Federal, também no controle concentrado (ADI/MC 3.804-4/AL Rel. Min. SEPÚLVEDA PERTENCE; HC 88.508/RJ MC, Rel. Min. CELSO DE MELLO; 1 a T. RE 453744 AgR/RJ Rel. Min. CEZAR PELUSO; RE 488.033-4/RS, Rel. Min. CELSO DE MELLO).
+    A cláusula de reserva de plenário determina uma regra especial aos tribunais para garantia de maior segurança jurídica na hipótese de afastamento do princípio de presunção de constitucionalidade das leis e atos normativos, porém, como já tive oportunidade de ressaltar (Direito constitucional. 34. ed. São Paulo: Atlas, 2017, capítulo 12, item 9.1.1), não se aplica para a declaração de CONSTITUCIONALIDADE dos órgãos fracionários dos tribunais ( RTJ 98/877).
+    No mesmo sentido, citem-se os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO. RESERVA DE PLENÁRIO. Descabe confundir reserva de plenário do artigo 97 da Constituição Federal com interpretação de normas legais. RECURSO EXTRAORDINÁRIO MATÉRIA LEGAL. O recurso extraordinário não serve à interpretação de normas estritamente legais. RECURSO EXTRAORDINÁRIO PRESTAÇÃO JURISDICIONAL DEVIDO PROCESSO LEGAL. Se, de um lado, é possível ter-se situação concreta em que transgredido o devido processo legal a ponto de se enquadrar o recurso extraordinário no permissivo que lhe é próprio, de outro, descabe confundir a ausência de aperfeiçoamento da prestação jurisdicional com a entrega de forma contrária aos interesses do recorrente. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.” (ARE 927.229-AgR, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 27/4/2016)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGADA CONTRARIEDADE AO PRINCÍPIO DA RESERVA DE PLENÁRIO: INOCORRÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 908.119-AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 10/3/2016)
+    Por fim, conforme acertadamente assinala a Egrégia Procuradoria-Geral da República, todas as demais questões se situam no âmbito infraconstitucional, o que também inviabiliza o apelo extremo.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 23 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
