@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. MENOR SOB GUARDA. DEPENDENTE. ACÓRDÃO RECORRIDO QUE ADOTA FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM SEDE DE RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.032 DO CPC/2015. AGRAVO INTERNO PROVIDO PARA TORNAR SEM EFEITO A DECISÃO AGRAVADA E INTIMAR A AGRAVADA NOS TERMOS DO ART. 1032 DO CPC/2015.
+DECISÃO
+Trata-se de agravo interno interposto por INSTITUTO DE PREVIDENCIA DOS SERVIDORES DO ESTADO MG contra a decisão de fls. 159/161 (e-STJ), onde não conheci o recurso especial da ora agravante, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. MENOR SOB GUARDA. DEPENDENTE. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. REVISÃO EM RECURSO ESPECIAL. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões de agravo interno, a agravante sustenta o equívoco da decisão agravada, na medida em que: a) o exame de sua pretensão prescinde de análise constitucional, uma vez que o recurso se fundamenta apenas em legislação federal; b) caso o entendimento for realmente o de que a controvérsia demanda análise de dispositivo constitucional, deve ser seguido o procedimento estabelecido pelo art. 1.032 do CPC/2015.
+Não foi apresentada impugnação ao agravo interno.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A decisão agravada foi correta ao concluir que o Tribunal de origem dirimiu a controvérsia a partir de um enfoque eminentemente constitucional, uma vez que o fundamento da Corte a quo se sedimentou na garantia de proteção ao menor, formalizada no art. 227, caput, e § 3º, I, da CF (e-STJ fl. 100).
+Com isso, inviável a análise da controvérsia em sede de Recurso Especial, sob pena de usurpação da competência do STF.
+Não obstante, considerando que o recurso especial foi interposto já na vigência do CPC/2015, inaplicável ao caso a previsão da Súmula 126/STJ, face ao teor do art. 1.032 do referido Código processual, que conta com a seguinte redação:
+Art. 1.032. Se o relator, no Superior Tribunal de Justiça, entender que o recurso especial versa sobre questão constitucional, deverá conceder prazo de 15 (quinze) dias para que o recorrente demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Dessa feita, impõe-se a intimação da ora agravada para, no prazo de 15 (quinze) dias, demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional, devendo em seguida o recurso ser enviado ao Supremo Tribunal Federal, nos termos do parágrafo único do art. 1.032 do CPC/2015.
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, reconsiderar a decisão agravada, tornando-a sem efeito, e, com base no art. 1.032, I, do CPC/2015, intimar a agravada para que demonstre a existência de repercussão geral e se manifeste sobre a questão constitucional.
+Publique-se. Intimem-se.
