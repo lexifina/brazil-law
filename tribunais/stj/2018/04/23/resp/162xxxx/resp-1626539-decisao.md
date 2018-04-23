@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado por [NOME], com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 446):
+Ação de desapropriação. Modificação de competência. Remessa do feito ao juízo falimentar. Expropriado que, diante da desconsideração da personalidade jurídica da empresa em processo de falência, tem o patrimônio pessoal e comprometido com a massa falida. Vis attractiva. Juízo universal da falência. Precedentes. Manutenção da decisão. Desprovimento do recurso.
+O Juízo Falimentar atrai todas as ações que envolvam bens, negócios e interesses da massa falida, tal como preceituado pela legislação de regência (art. 76 da Lei n. 11.101/05 e art. 70, § 2º, do Decreto-Lei n. 7.661/45). (TJSC, AI n. 2014.078108-6, de Tijucas, rei. Des. João Henrique Blasi).
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+A parte recorrente aponta violação aos arts. 214, 247 e 535 do CPC/73. Para tanto, sustenta que: (I) o aresto integrativo deve ser anulado, pois não sanou omissão indicada em embargos de declaração; e (II) a citação na ação de origem deve ocorrer antes da abertura de prazo para contrarrazoar o agravo de instrumento interposto contra decisão interlocutória ali proferida.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Logo de início, tenho que deve ser acolhida a suscitada violação ao art. 535 do CPC.
+Do exame do processado, é possível notar que a parte recorrente atravessou petição noticiando a ausência de citação no processo principal e requerendo que o prazo para contrarrazões iniciasse somente após a apresentação de contestação naqueles autos.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios posteriormente opostos, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral.
+Ante o exposto, dou provimento ao recurso especial por violação do art. 535 do CPC, e determino o retorno dos autos ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração.
+Publique-se.
