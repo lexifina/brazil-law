@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. ENUNCIADO ADMINISTRATIVO N. 3. DIA 11/8. FERIADO NO ÂMBITO DA JUSTIÇA FEDERAL E DOS TRIBUNAIS SUPERIORES. AUSÊNCIA DE EXPEDIENTE FORENSE NO TRIBUNAL ESTADUAL. NÃO COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DE RECURSO. APLICAÇÃO DO ART. 1.003, § 6º, DO NOVO CPC. IMPOSSIBILIDADE DE REGULARIZAÇÃO POSTERIOR. AGRAVO DESPROVIDO.
+1. Nos termos do § 6º do art. 1.003 do NCPC, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+2. O entendimento jurisprudencial desta Corte que permite a comprovação de feriado local ou ausência de expediente forense em momento posterior foi construído sob a égide do Código de Processo Civil/1973, não se aplicando aos recursos interpostos na vigência do novo código, diante de determinação expressa em sentido contrário.
+3. Em consonância com o disposto no inciso IV do artigo 62 da Lei 5.010/1966, o dia 11/8 é feriado no âmbito da Justiça Federal e dos Tribunais Superiores, não fazendo, o referido dispositivo legal, menção aos Tribunais de Justiça Estaduais.
+4. Agravo desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de agravo interno interposto por WD EDUCACIONAL LTDA - ME contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, assim redigida (e-STJ, fls. 324-325):
+ ..
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas, apesar de presente a guia de recolhimento. Assim, incide na espécie o disposto na Súmula n.º 187 deste Tribunal, o que leva à deserção do recurso.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgRg no AREsp 165.686/BA, 1.ª Turma, Rel. Min. Ari Pargendler, DJe de 1.º/9/2014; e AgRg no AREsp 425.678/SC, 4.ª Turma, Rel. Min. Luis Felipe Salomão, DJe de 7/3/2014.
+Ademais, verifica-se que a parte Recorrente foi intimada da decisão agravada em 22/07/2016, sendo o agravo somente interposto em 15/08/2016.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5.º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Veja-se que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+ ..
+Em sua irresignação, a agravante sustenta, em síntese, que: os autos do recurso especial se encontram instruídos com documentos comprobatórios dos respectivos pagamentos das guias de recolhimento do preparo recursal; e o agravo em recurso especial é tempestivo, tendo em vista que o dia 11 de agosto é feriado nacional, consoante o art. 62, IV, da Lei n. 5.010/1966.
+Sem impugnação (fl. 336, e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016, aos recursos interpostos contra decisões publicadas a partir de 18 de março de 2016, serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+De acordo com tal entendimento, foi julgado intempestivo o agravo em recurso especial, porquanto, publicada a decisão recorrida no dia 22/7/2016 (fl. 284, e-STJ), o prazo recursal de 15 (quinze) dias úteis iniciou-se em 25/7/2016 (segunda-feira) e terminou dia 12/8/2016 (sexta-feira), sendo o agravo somente interposto em 15/8/2016 (fl. 285, e-STJ).
+Destaque-se que, ao contrário do sustentado pela ora agravante, o dia 11/8, conforme previsto no art. 62, IV, da Lei n. 5.010/1966, só é considerado feriado no âmbito da Justiça Federal e dos Tribunais Superiores.
+Com efeito, o teor do mencionado dispositivo legal não abrange as Justiças Estaduais.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL INTEMPESTIVO. CONTAGEM DE PRAZO NA INSTÂNCIA DE ORIGEM. NÃO COMPROVAÇÃO DE SUSPENSÃO DE PRAZO RECURSAL NO MOMENTO DA INTERPOSIÇÃO.
+1. É intempestivo o recurso especial protocolado após o término do prazo recursal se não for demonstrado, no momento de sua interposição, qualquer hipótese de suspensão do aludido prazo. Dessa forma, decretado feriado forense o dia 11 de agosto de 2008, pelo Ato da Presidência n. 18/2008, do Tribunal de Justiça da Paraíba, deveria o agravante comprovar, no momento da interposição do Recurso Especial, a ocorrência de feriado local que justificasse a suspensão do prazo para interposição do recurso.
+2. O inciso IV do artigo 81 do Regimento Interno do Superior Tribunal de Justiça, fixa o dia 11 de agosto como feriado no âmbito desta Corte, em consonância com o disposto no inciso IV do artigo 62 da Lei 5.010/66, que declara a mesma data como feriado no âmbito da Justiça Federal e dos Tribunais Superiores, não fazendo, as referidas normas, menção aos Tribunais de Justiça Estaduais.
+3. Agravo regimental não provido.
+(AgRg no Ag 1164681/PB, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 02/09/2010, DJe 13/09/2010)
+Nesse aspecto, sendo o presente feito oriundo do Tribunal de Justiça do Estado do Amazonas, é certo que a ausência de expediente forense no dia 11/8/2016 deveria ter sido comprovada na interposição do recurso, segundo disposição contida no § 6º do art. 1.003 do novo CPC: "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+Portanto, o entendimento jurisprudencial desta Corte que permite a comprovação posterior de feriado local ou ausência de expediente forense no Tribunal de origem foi construído sob a égide do Código de Processo Civil/1973, não se aplicando aos recursos interpostos na vigência do novo código, diante de determinação expressa em sentido contrário.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/2015. INTEMPESTIVIDADE. FERIADO LOCAL NÃO COMPROVADO, NO ATO DA INTERPOSIÇÃO DO RECURSO. IMPOSSIBILIDADE DE COMPROVAÇÃO POSTERIOR. ARTS. 1.003, § 6º, E 1.029, § 3º, DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 20/10/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência - firmada sob a égide do CPC/73 -, "a comprovação da tempestividade do recurso, em decorrência de feriado local ou suspensão de expediente forense no Tribunal de origem que implique prorrogação do termo final pode ocorrer posteriormente, em sede de Agravo Regimental" (STJ, AgRg no AREsp 137.141/SE, Rel.
+Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe de 15/10/2012).
+III. O CPC/2015 não possibilita a mitigação ao conhecimento de recurso intempestivo. De fato, nos casos em que a decisão agravada tenha sido publicada já na vigência do novo CPC, descabe a aplicação da regra do art. 932, parágrafo único, do CPC/2015, para permitir a correção do vício, com a comprovação posterior da tempestividade do recurso. Isso porque o CPC/2015 acabou por excluí-la (a intempestividade) do rol dos vícios sanáveis, conforme se extrai do seu art. 1.003, § 6º ("o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso"), e do seu art. 1.029, § 3º ("o Supremo Tribunal Federal ou o Superior Tribunal de Justiça poderá desconsiderar vício formal de recurso tempestivo ou determinar sua correção, desde que não o repute grave)". Nesse sentido: STJ, AgInt no REsp 1.626.179/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2017; AgInt no REsp 1.638.816/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 06/04/2017.
+IV. No caso, a decisão que inadmitiu o Recurso Especial foi disponibilizada em 16/05/2016, segunda-feira, considerando-se publicada em 17/05/2016, terça-feira - na vigência do CPC/2015 -, sendo o Agravo em Recurso Especial interposto somente em 09/06/2016, quinta-feira, após o transcurso do prazo recursal de 15 dias úteis, ocorrido em 08/06/2016, quarta-feira.
+V. A partir da vigência do CPC/2015, a comprovação da ocorrência de feriado local, para fins de aferição da tempestividade do recurso, deve ser realizada no momento de sua interposição, não se admitindo a comprovação posterior, como pretende a parte agravante.
+VI. Agravo interno improvido.
+(AgInt no AREsp 990.221/MT, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 04/05/2017, DJe 10/05/2017)
+Dessa forma, ainda que tenha havido o devido preparo, a insurgente não logrou êxito em demonstrar a tempestividade do agravo em recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
