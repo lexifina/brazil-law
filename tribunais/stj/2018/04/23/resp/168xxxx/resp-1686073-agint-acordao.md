@@ -1,0 +1,62 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão impugnada. Incidência da Súmula 182 do Superior Tribunal de Justiça.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por Dibemol Cobranças Ltda. contra decisão da Presidência que não conheceu do recurso especial.
+A agravante alega que "houve evidente contrariedade aos termos da Lei Federal n. 9.250/1995 suscitada nas razões recursais, ofendendo, assim, o acórdão recorrido ao comando do artigo 269, inciso I, do CPC" (e-STJ, fl. 262).
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): A decisão agravada possui o seguinte teor:
+Vistos, etc.
+Trata-se de recurso especial interposto por DIBEMOL COBRANÇAS LTDA. contra o acórdão do Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos, litteris:
+"APELAÇÃO - MANDADO DE SEGURANÇA COM PEDIDO DE LIMINAR - ICMS - PROGRAMA DE PARCELAMENTO INCENTIVADO - JUROS - Pretensão inicial da empresa-contribuinte voltada à limitação dos juros de mora ao índice da Taxa Selic, em detrimento do valor decorrente da incidência da Lei nº 13.918/09 prevista no programa de parcelamento incentivado ao qual aderiu - impossibilidade - a adesão a programa especial de parcelamento corresponde à verdadeira novação da dívida tributária, pelo que seu cumprimento deve se dar nos estritos termos em que pactuado (pacta sunt servanda) - declaração de inconstitucionalidade da Lei nº 13.918/2009 pelo C. Órgão Especial deste Tribunal de Justiça que não tem o condão de gerar para o contribuinte o poder de revisão unilateral do termo de parcelamento - sentença de concessão da ordem reformada. Recurso provido." (fl. 183).
+Nas razões do recurso especial aponta a parte Recorrente ofensa ao art. 269, inciso I, do Código de Processo Civil de 1973 e à Lei n.º 9.250/1995, sob o fundamento de que, verbis:
+"25. Diante de todo exposto, Nobres Julgadores, verifica-se que a cobrança da atualização da de juros superiores aos da Taxa Selic, é nitidamente inconstitucional, pois fere o princípio do não confisco, bem como os princípios da razoabilidade e proporcionalidade, devendo, desta forma, excluir os débitos da apelante os juros declarados inconstitucionais, a fim de dar continuidade ao pagamento do contrato de adesão do PPI (Programa de Parcelamento Incentivado), para em consonância com a ADI nº 442 pelo STF, reconhecendo que a taxa de juros aplicável ao montante do imposto ou da multa não poderia exceder aquela incidente na cobrança dos tributos federais - Taxa Selic -, teria declarado a Lei n º 13.918/09 inconstitucional, consoante r. sentença de fls. 124/126, sendo de extrema necessidade a reforma do r. acórdão." (fl. 206).
+
+Contrarrazões às fls. 211/222.
+É o relatório.
+Decido.
+Apesar de alegar violação ao art. 269, inciso I, do Código de Processo Civil de 1973, a parte Recorrente não teceu qualquer razão a demonstrar o malferimento de referido dispositivo legal.
+Trata-se, portanto, de alegação genérica a artigo de lei federal, insuficiente para permitir o conhecimento do recurso especial pela alínea a do permissivo constitucional, incidindo à espécie o entendimento jurisprudencial consolidado na Súmula n.º 284/STF, aplicado aqui por analogia.
+Tampouco se conhece o recurso especial pela alegada violação à Lei n.º 9.250/1995.
+De fato, faz-se necessário ao conhecimento do apelo excepcional que o recorrente individualize o dispositivo de lei federal tido por violado. Não o fazendo, incide, mais uma vez, o entendimento do enunciado da Súmula n.º 284/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO E ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. EMBARGOS À EXECUÇÃO DE SENTENÇA. PROCURADOR DA FAZENDA NACIONAL. REAJUSTE DE 28,86%. BASE DE CÁLCULO. "PRÓ-LABORE DE ÊXITO". REMUNERAÇÃO A TÍTULO DE DAS. HONORÁRIOS ADVOCATÍCIOS FIXADOS PELO TRIBUNAL DE ORIGEM COM BASE NO CRITÉRIO DE EQUIDADE. DESPROPORCIONALIDADE NÃO CARACTERIZADA. REVISÃO. IMPOSSIBILIDADE. SÚMULA n. 7/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido e quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, circunstâncias que atraem, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+ ..
+VII - Recursos Especiais desprovidos."
+(REsp 1.643.811/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 27/09/2017).
+"ADMINISTRATIVO. ACUMULAÇÃO DE CARGOS PÚBLICOS DE ENFERMEIRO. VIOLAÇÃO DO ART. 535, INCISO II, DO CPC/73 E ART. 10 DA LEI N. 8.112/90. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. ÔNUS DA PROVA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+I - O recurso especial que indica violação de dispositivo de lei federal, mas traz somente alegações genéricas, é deficiente em sua fundamentação, o que atrai o óbice do enunciado n. 284 da Súmula do Supremo Tribunal Federal, aplicada por analogia.
+II - Não há como aferir a violação dos arts. 333 e 334 do Código de Processo Civil de 1973, sem adentrar no acervo fático-probatório dos autos e sem que se faça a reanálise de provas ao reexame. Incidência do enunciado n. 7 da Súmula do STJ.
+III - Agravo interno improvido."
+(AgInt no AREsp 1.017.440/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 04/10/2017).
+Ainda que assim não fosse, o único dispositivo de lei federal explicitamente citado no recurso como violado - art. 269, inciso I, do Código de Processo Civil de 1973 - não contém comando normativo capaz de sustentar a tese recursal, de que "devem ser afastados os juros altamente abusivos incidentes sobre seus débitos de ICMS" (fl. 197).
+A propósito:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ESCRITÓRIO DE ADVOCACIA. PREPARO. AUSÊNCIA DE COMPROVAÇÃO DE PAGAMENTO. PERDA DE UMA CHANCE. LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO. ALEGADA OFENSA AO ART. 1º, § 1º, DA LEI 4.717/65. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RAZÕES DE RECURSO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APRECIAÇÃO DE ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE, NA VIA DE RECURSO ESPECIAL. SUSCITADA OFENSA AO ART. 17 DA LEI 8.429/92. FALTA DE COMANDO NORMATIVO CAPAZ DE SUSTENTAR A TESE RECURSAL DE LEGITIMIDADE ATIVA DO PARQUET PARA ATUAR EM AÇÃO DE REPARAÇÃO DE DANOS, EM RAZÃO DE ILÍCITO CIVIL. SÚMULA 284/STF. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+VI. No que tange ao art. 17 da Lei 8.429/92, o aludido dispositivo não possui comando normativo suficiente para desconstituir o acórdão recorrido, pois trata de situação fática diversa da discutida nos presentes autos, já que a presente demanda prosseguiu, quanto à Companhia Estadual de Energia Elétrica - CEEE, somente em relação ao pleito de reparação de danos, em razão de ilícito contratual. Esta Corte entende ser aplicável a Súmula 284/STF, quando o dispositivo de lei, indicado como violado, não possui comando legal suficiente para rebater a tese recorrida. Nesse sentido: STJ, AgInt no REsp 1607124/PI, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 14/10/2016; AgInt nos EDcl no REsp 1.527.675/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 28/06/2016; AgRg no REsp 1.559.479/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 05/02/2016; AgRg no AREsp 369.420/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 05/02/2016; AgRg no REsp 821.571/RR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 22/09/2008.
+VII. Agravo interno conhecido, em parte, e, nessa extensão, improvido."
+(AgInt no REsp 1.435.370/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 7/2/2017, DJe 15/2/2017)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE MULTA. OFENSA AO ARTIGO 535 DO CPC/73 NÃO CONFIGURADA. ARTIGO 273 DO CPC/73. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA.
+1. O Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Com relação ao art. 273/CPC/73, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+3. O recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque o dissídio jurisprudencial não foi demonstrado na forma exigida pelos arts. 541, parágrafo único, do CPC/73 e 255, §§ 1º e 2º, do RISTJ. Com efeito, a parte recorrente não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.
+4. No que toca à alegada divergência jurisprudencial com o acórdão paradigma do TJSP, não pode ser conhecido o recurso especial, uma vez que aplicável o disposto na Súmula 13 desta Corte, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 457.577/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/8/2016, DJe 26/8/2016)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão combatida, o que, na hipótese dos autos, não foi atendido, especialmente a motivação de que o único dispositivo de lei federal explicitamente citado no recurso especial não contém comando normativo capaz de sustentar a tese recursal.
+Incide no caso o óbice da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182 DO STJ. INCIDÊNCIA.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, o agravo interno deve infirmar todos os fundamentos da decisão atacada, sob pena de não ser conhecido.
+2. Hipótese em que o recorrente, em flagrante desrespeito ao princípio da dialeticidade, deixou de impugnar especificamente o fundamento da decisão agravada no sentido de que, à luz da jurisprudência desta Corte, a indisponibilidade de bens pode ser decretada sem a notificação prévia do réu em ação de improbidade administrativa.
+3. Se a decisão objurgada está fundamentada no sentido de que o acórdão recorrido destoa do atual entendimento desta Corte Superior sobre a matéria, deveria a parte irresignada demonstrar a existência de posicionamento jurisprudencial diverso, apto a garantir a manutenção da orientação adotada pelo Tribunal a quo. Precedente.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 661.265/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 9/8/2016, DJe 8/9/2016)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
