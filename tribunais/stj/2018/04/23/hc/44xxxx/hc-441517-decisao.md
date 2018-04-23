@@ -1,0 +1,11 @@
+DECISÃO
+MATEUS SANTOS GONÇALVES, paciente neste habeas corpus substitutivo de recurso especial, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0003208-27.2017.8.26.0509.
+Depreende-se dos autos que o Juízo singular homologou os cálculos de liquidação de penas referentes ao sentenciado, condenado por tráfico de drogas, e concedeu-lhe o benefício do livramento condicional. Irresignado, o Ministério Público estadual interpôs agravo em execução, ao qual o Tribunal de Justiça deu parcial provimento para cassar o benefício, porquanto "a pena privativa de liberdade imposta ao agravado resultou inferior a 02 anos, não se enquadrando, portanto, na condição expressamente exigida pelo artigo 83, caput, do Código Penal" (fl. 23).
+Neste writ, a defesa alega que "a disposição constante da cabeça do art. 83 do Estatuto Repressivo, instituída em período anterior à Constituição Federal, pois o Código Penal data de 11 de julho de 1984, contraria, dentre outros, os princípios da igualdade e da razoabilidade, de tal modo que a questão deve ser resolvida no campo da não recepção" (fl. 6).
+Todavia, a análise da não recepção do patamar estipulado no caput do artigo 83 do Código Penal é matéria afeita à competência do Supremo Tribunal Federal, órgão máximo da esfera do Poder Judiciário, a que compete, precipuamente, a guarda da Constituição da República.
+A esse respeito:
+ ..
+I. No caso, a tese jurídica, sustentada nas razões do Recurso Especial, não é de eventual violação ou negativa de vigência a lei federal, mas de não recepção do art. 1º da Lei 7.144/83 pela Constituição Federal, matéria que, à toda evidência, é eminentemente constitucional, o que desborda a competência do STJ. Nesse sentido: STJ, AgRg no AREsp 438.563/AL, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 29/05/2014; AgRg no AREsp 75.487/ES, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/08/2012  ..  (AgRg no REsp n. 1.207.207/SC, Rel. Ministra Assusete Magalhães, 2ª T., DJe 2/12/2015, grifei).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
