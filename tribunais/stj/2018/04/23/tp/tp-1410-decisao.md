@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de pedido formulado por CONSÓRCIO ARC, com arrimo no art. 1.029, § 5º, do CPC/2015, em que objetiva atribuir efeito suspensivo a recurso especial que desafia acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO Cumprimento de sentença Suspensão de liminar 918/SP no C. STF que reconheceu a aplicação do regime dos precatórios previsto no art. 100 da CF para a execução de débitos judiciais em face de sociedade de economia mista que exerce com exclusividade serviço público Decisão mantida Recurso desprovido."
+Informa que propôs ação em desfavor da requerida visando à cobrança de diferença de valores assegurados em contrato, cuja sentença de procedência transitou em julgado.
+Na fase de cumprimento do título judicial, foi concedido ao consórcio o bloqueio de valores, via BACENJUD, decisão posteriormente revogada pelo magistrado singular, ao fundamento de que a executada, na condição de sociedade de economia mista, faria jus ao sistema de precatórios.
+Contra essa decisão interpôs o agravo de instrumento cujo julgamento gerou o acórdão recorrido no especial que, por sua vez, foi inadmitido (e-STJ fls. 199/201).
+Aponta a plausibilidade do direito na alegação de que a requerida "não executa serviço público essencial; porque tem renda própria; porque se reveste da forma de sociedade de economia mista, submetida ao regime de direito privado, por imposição legal; porque o crédito tem natureza remuneratória da prestadora do serviço público essencial, sem a qual a atividade seria interrompida; juridicamente impossível atribuir-se à São Paulo Transportes S/A. o regime publicista."
+O perigo de dano estaria manifesto na determinação do STF, na Suspensão da Liminar n. 918, na qual se determinou o sobrestamento do cumprimento da sentença, "até que a Suprema Corte delibere se lhe é ou não extensível o regime de precatórios," sem o levantamento de quaisquer valores.
+Requer seja concedido efeito suspensivo ao "agravo de instrumento contra despacho denegatório de recurso especial, ordenando a manutenção do depósito judicial até final julgamento daquele."
+Passo a decidir.
+De início, cumpre destacar que, no Superior Tribunal de Justiça, a tutela provisória de urgência é cabível apenas para atribuir efeito suspensivo ou, eventualmente, para antecipar a tutela em recursos ou ações originárias de competência desta Corte, devendo haver a satisfação simultânea de dois requisitos, quais sejam, a verossimilhança das alegações - fumus boni iuris, consubstanciada na elevada probabilidade de êxito do recurso interposto ou da ação - e o perigo de lesão grave e de difícil reparação ao direito da parte - periculum in mora.
+Na presente hipótese, não vislumbro o primeiro dos pressupostos.
+O aresto recorrido decidiu a controvérsia à luz da ordem emanada do Supremo Tribunal Federal, na Suspensão de Liminar n. 918/SP, na qual se "determinou o cumprimento do julgado pelos ditames do art. 100 da Constituição Federal," "para a execução de débitos judiciais de sociedade de economia mista que prestam serviço público em regime de exclusividade," condição em que se enquadraria a SPTRANS, ora requerida, de acordo com a lei municipal (e-STJ fls. 100/106).
+Destarte, inviável a apreciação do recurso especial, sob pena de invasão da competência do STF.
+Assim, ausente a plausibilidade do direito invocado, requisito indispensável à concessão do provimento de urgência, não merece acolhida o presente reclamo.
+Ante o exposto, com arrimo no art. 34, XVIII, "a", do RISTJ, INDEFIRO o pedido.
+Publique-se. Intimem-se.
