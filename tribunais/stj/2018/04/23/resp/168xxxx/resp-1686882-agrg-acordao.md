@@ -1,0 +1,44 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE ROUBO. DESPROPORCIONALIDADE DA DOSIMETRIA. EXCESSO NA FIXAÇÃO DA PENA DE MULTA. FUNDAMENTO NÃO IMPUGNADO PELO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+A ausência de impugnação aos fundamentos da decisão que conheceu em parte e negou provimento ao recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por [NOME] contra decisão fls. 945-955, na qual neguei provimento ao recurso especial, cuja ementa transcrevo:
+"PENAL. RECURSO ESPECIAL. CRIME DE ROUBO. DESPROPORCIONALIDADE DA DOSIMETRIA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. EXCESSO NA EXASPERAÇÃO NA PRIMEIRA FASE. DESPROVIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO EM CONCRETO PARA A EXASPERAÇÃO DAS MAJORANTES. FUNDAMENTAÇÃO IDÔNEA. VIOLAÇÃO A ENUNCIADO DE SÚMULAS. NÃO CABE RECURSO CONTRA VIOLAÇÃO A ENUNCIADO SUMULAR. SÚMULA N. 518/STJ. EXCESSO NA FIXAÇÃO DA PENA DE MULTA. DESPROPORCIONALIDADE NÃO DEMONSTRADA. RAZÕES RECURSAIS DISSOCIADAS. SÚMULA 284 DO STF. RECURSO ESPECIAL EM PARTE CONHECIDO E, NESSA PARTE, DESPROVIDO."
+Neste regimental, a defesa repisa as razões apresentadas no recurso especial, no sentido da desproporcionalidade na exasperação da pena base na primeira fase da dosimetria, indicado que apenas duas circunstâncias judiciais foram desfavoráveis. Sustenta que, nesses termos, se a pena mínima é de 4 (quatro) anos, cada circunstância judicial desfavorável somente poderia resultar em um incremento de 6 (seis) meses, por serem 8 (oito) circunstâncias judiciais contempladas no art. 59 do Código Penal. De tal modo, conclui que a pena base deveria ter sido de 5 (cinco) anos e não 5 (cinco) anos e 6 (seis) meses.
+Argumenta que a pena de multa fixada em 290 (duzentos e noventa) dias multa é desproporcional, pois o máximo de dias multa admitidos em lei é de 360 (trezentos e sessenta) dias multa. Defende que, na hipótese, os dias multa não deveria ter ultrapassado 90 (noventa) dias multa, para observar proporção à pena privativa de liberdade adequada ao caso concreto.
+Ao final, requer a reconsideração da decisão agravada ou, subsidiariamente, que seja levado o feito à apreciação do Colegiado.
+Por manter o decisum trago o recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CRIME DE ROUBO. DESPROPORCIONALIDADE DA DOSIMETRIA. EXCESSO NA FIXAÇÃO DA PENA DE MULTA. FUNDAMENTO NÃO IMPUGNADO PELO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+A ausência de impugnação aos fundamentos da decisão que conheceu em parte e negou provimento ao recurso especial atrai a incidência do óbice da Súmula 182/STJ.
+Agravo regimental não conhecido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo regimental não merece ser conhecido, porque a parte não impugnou, de maneira específica e suficiente, os fundamentos da decisão agravada.
+Consta dos autos que a parte recorrente foi condenada às penas de 10 (dez) anos, 5 (cinco) meses e 23 (vinte e três) dias de reclusão, em regime de cumprimento inicialmente fechado, e de 500 (quinhentos) dias-multa, cada qual valorado em 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos, fixando-se o valor mínimo de reparação dos danos em RS 22.975,53 (vinte e dois mil, novecentos e setenta e cinco reais e cinqüenta e três centavos), pela prática do delito previsto no art. 157, § 2º, I e I, c/c art. 71, ambos do Código Penal.
+Em segunda instância, o eg. Tribunal a quo deu parcial provimento ao apelo interposto pelo ora recorrente, exclusivamente para reduzir o número de dias-multa para 291, para compatibilizar a pena de multa à privativa de liberdade, mormente quanto à exasperação levada a cabo pelo reconhecimento da continuidade delitiva.
+Sobreveio o presente recurso especial, no qual, consoante relatado, pretende-se a redução da pena-base, por haver violação dos artigos 59 e 157 do Código Penal, especificamente sobre o quantum aplicado, levando a um incremento de 1 (um) ano e 6 (seis) meses, motivado nos antecedentes e consequências do crime como circunstâncias judiciais desfavoráveis. Além disso, invocou a violação ao enunciado de súmula 443 do c. STJ, em razão de ter havido exasperação da 3ª fase da pena apenas em razão do número de majorantes incidentes, sem fundamentação em concreto. Por fim, indicou a defesa ter havido novamente violação do art. 59 do Código Penal na desproporcionalidade verificada na fixação da pena de multa.
+Monocraticamente, decidi que a exasperação realizada na primeira fase da dosimetria estava bem fundamentada pela apreciação negativa nos vetores "maus antecedentes" e "consequências do crime". Quanto à violação ao enunciado de súmula 443/STJ, consignei entendimento de que não é admissível recurso especial com fundamento em suposta violação a enunciado de súmula dos Tribunais Superiores, consoante o teor do enunciado sumular 518/STJ. Quanto à multa fixada, declinei que o recorrente não apresentou elementos concretos que configurassem o excesso indicado, incorrendo na hipótese do enunciado de súmula 284/STF.
+Não obstante, o agravo regimental não aborda qualquer um dos elementos de fundamento da decisão recorrida, mas limita-se a repisar as razões do recurso especial, conforme consta do relatório, apontando suposta desproporcionalidade na exasperação da pena base na primeira fase da dosimetria e também da pena de multa aplicada.
+Destarte, o argumento invocado revela-se insuficiente para infirmar a decisão agravada, atraindo a incidência do enunciado da Súmula nº 182 desta Corte Superior de Justiça, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Com efeito, verificada esta hipótese - ausência de impugnação integral dos fundamentos da decisão agravada - o recurso não merece ser conhecido, conforme remansosa jurisprudência desta Corte, v.g.:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 184, § 2º, DO CP. AUSÊNCIA DE IMPUGNAÇÃO DO ÚNICO FUNDAMENTO DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182 DO STJ. ACÓRDÃO PARADIGMA ORIUNDO DE JULGADO PROFERIDO EM CONFLITO DE COMPETÊNCIA. INADMISSIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Agravo regimental que não infirma todos os fundamentos da decisão agravada não pode ser conhecido (súmula 182 do STJ).  ..
+Agravo regimental não conhecido". (AgRg no AgRg no REsp n. 1.647.313/MS, Quinta Turma, de minha relatoria, DJe de 24/5/2017).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO PELO JÚRI. DECISÃO MANIFESTAMENTE CONTRÁRIA AOS AUTOS. ANULAÇÃO PELO TRIBUNAL A QUO. FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. DEFICIÊNCIA NA COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. AUSENTE ILEGALIDADE FLAGRANTE. IMPOSSIBILIDADE DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravante deixou de impugnar a única causa de inadmissão do agravo em recurso especial. Incidência, por analogia, do enunciado sumular n. 182 do STJ.
+ ..
+4. Agravo regimental não provido". (AgRg no AREsp n. 572.082/ES, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 24/5/2016).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO. PENA-BASE REVISTA E FIXADA NO MÍNIMO LEGAL. REGIME DE CUMPRIMENTO DA PENA MAIS SEVERO EM DECORRÊNCIA DA GRAVIDADE CONCRETA DO DELITO PRATICADO - TRÁFICO DE UM QUILO E DUZENTOS GRAMAS DE COCAÍNA. FUNDAMENTO NÃO IMPUGNADO. ÓBICE INTRANSPONÍVEL DA SÚMULA 182 DESTA CORTE. AGRAVO NÃO CONHECIDO.
+1. Verifica-se da argumentação declinada pelo agravante, nas razões deste agravo, absoluta ausência de impugnação do fundamento pertinente à fixação de regime de cumprimento da pena mais severo - a gravidade concreta do delito praticado - tráfico de um quilo e duzentos gramas de cocaína -, revelando-se insuperável o óbice do verbete n. 182 da Súmula desta Corte, que dispõe: "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Desse modo, a decisão agravada deve ser mantida incólume por seus próprios termos.
+3. Agravo regimental não conhecido". (AgRg no AREsp n. 733.379/MS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 30/9/2015).
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
