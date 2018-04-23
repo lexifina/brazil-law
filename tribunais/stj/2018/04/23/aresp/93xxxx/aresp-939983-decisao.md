@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Agravo Interno. Apelação cível. Processual e Societário. Ação indenizatória. Demanda proposta por acionista em face de administradores e controladores, por suposto esvaziamento do patrimônio da empresa.
+Alegada condutas aleivosas. Dano diretamente causado à sociedade. Reflexos indiretos a todos os seus acionistas. Ação social x Ação individual. Ilegitimidade do acionista para o ajuizamento de ação individual. Ausente o dano direto. Inteligência do art. 159, parágrafo 7º da Lei 6.404/76. Precedentes do TJ/RJ e do STJ.
+Sentença de extinção mantida. Desprovimento do recurso."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 811/813).
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 159, caput, §§ 4º e 7º, da Lei nº 6.404/76; 3º, 6º e 267, VI, do CPC/73, e divergência jurisprudencial, sustentando, em síntese, ser parte legítima para figurar no polo ativo da demanda, uma vez que sofreu danos diretos em razão de condutas antijurídicas praticadas pelos administradores e controladores da empresa Café Solúvel Brasília S.A, da qual é titular de 28% do capital social.
+Contrarrazões às fls. 839/847 (e-STJ).
+É o relatório. Decido.
+No caso dos autos, verifica-se que o Tribunal de origem concluiu pela ilegitimidade ativa do recorrente ao argumento de que os prejuízos relatados pelo recorrente são indiretos, não sendo cabível, portanto, a ação individual de reparação, nos seguintes termos:
+"Cinge-se a controvérsia em examinar a legitimidade de acionista para pleitear reparação por dano material supostamente causado por conduta aleivosa dos administradores e controladores de companhia.
+A sociedade anônima é regida pela Lei 6.404/76, sendo que a parte que regula a ação de responsabilidade encontra-se prevista em seu art. 159, que dispõe o seguinte:
+(..)
+Ante intelecção legal, é possível observar a existência de dois tipos de ações: a ação social e a ação individual. A primeira decorre do prejuízo causado ao patrimônio da sociedade, podendo ser proposta pela companhia ou pelo acionista, como substituto processual, em caso de inércia do legitimado, já a segunda possui como fundamento o prejuízo causado diretamente ao patrimônio do acionista.
+Na hipótese vertente, o autor pretende ser indenizado por prejuízos causados ao seu patrimônio, porquanto, em razão de suposto ato ilícito de administradores e controladores da companhia Café Solúvel Brasília, houve a desvalorização das suas ações e, consequentemente, dos seus lucros.
+Ora, diante da narrativa deduzida na inicial, é claro que os prejuízos, se de fato ocorreram, foram causados à sociedade, uma vez que se viu privada de receitas e de fluxo de caixa. Evidentemente que, de modo reflexo, os acionistas foram lesados.
+Ocorre que, in casu, o autor recorrente, inadequadamente, tomou esse dano como próprio e pleiteou o ressarcimento com fundamento no art. 159, parágrafo 7º da Lei de Sociedade Anônima.
+No entanto, não se tem direito próprio a ser ressarcido de danos que afetam, em primeiro lugar, a companhia e, indiretamente, todos os seus acionistas.
+(..)
+Como visto, na presente demanda apenas teria legitimidade ativa a companhia ou o acionista, e neste último caso apenas como substituto processual.
+Logo, patente a ilegitimidade do autor para figurar no polo ativo da presente demanda, tendo em vista, repita-se, tratar-se de prejuízo social e não individual." (e-STJ, fls. 769/771)
+Sobre o tema, a jurisprudência deste Tribunal Superior entende que, nos casos em que os atos de administrador ou controlador causarem danos diretamente à companhia, são cabíveis as ações sociais previstas nos §§ 3º e 4º da Lei n. 6.404/76 (Lei das Sociedades Anônimas), sendo o acionista legitimado para propô-la somente na condição de substituto processual. Por outro lado, nos casos em que os atos de administrador ou controlador causarem prejuízos diretos ao acionista ou terceiro, são cabíveis as ações individuais previstas no § 7º do mesmo normativo, situação na qual o acionista pode pleitear, individualmente, ressarcimento de seus danos.
+Nesse sentido, colhem-se os seguintes precedentes:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL E EMPRESARIAL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA (CPC, ART. 130). NÃO OCORRÊNCIA. SOCIEDADE ANÔNIMA. AÇÃO DE RESPONSABILIDADE CIVIL CONTRA ADMINISTRADOR (LEI 6.404/76, ART. 159) OU ACIONISTAS CONTROLADORES (APLICAÇÃO ANALÓGICA): AÇÃO SOCIAL UT UNIVERSI E AÇÃO SOCIAL UT SINGULI (LEI 6.404/76, ART. 159, § 4º). DANOS CAUSADOS DIRETAMENTE À SOCIEDADE. AÇÃO INDIVIDUAL (LEI 6.404/76, ART. 159, § 7º).
+ILEGITIMIDADE ATIVA DE ACIONISTA. RECURSO PROVIDO.
+1. Aplica-se, por analogia, a norma do art. 159 da Lei 6.404/76 (Lei das Sociedades Anônimas) à ação de responsabilidade civil contra os acionistas controladores da companhia por danos decorrentes de abuso de poder.
+2. Sendo os danos causados diretamente à companhia, são cabíveis as ações sociais ut universi e ut singuli, esta obedecidos os requisitos exigidos pelos §§ 3º e 4º do mencionado dispositivo legal da Lei das S/A.
+3. Por sua vez, a ação individual, prevista no § 7º do art. 159 da Lei 6.404/76, tem como finalidade reparar o dano experimentado não pela companhia, mas pelo próprio acionista ou terceiro prejudicado, isto é, o dano direto causado ao titular de ações societárias ou a terceiro por ato do administrador ou dos controladores. Não depende a ação individual de deliberação da assembleia geral para ser proposta.
+4. É parte ilegítima para ajuizar a ação individual o acionista que sofre prejuízos apenas indiretos por atos praticados pelo administrador ou pelos acionistas controladores da sociedade anônima.
+5. Recurso especial provido."
+(REsp 1207956/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/09/2014, DJe 06/11/2014 - grifo nosso)
+"RECURSO ESPECIAL. PROCESSUAL CIVIL E EMPRESARIAL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA (CPC, ART. 130). NÃO OCORRÊNCIA. SOCIEDADE ANÔNIMA. AÇÃO DE RESPONSABILIDADE CIVIL CONTRA ADMINISTRADOR (LEI 6.404/76, ART. 159) OU ACIONISTAS CONTROLADORES (APLICAÇÃO ANALÓGICA): AÇÃO SOCIAL UT UNIVERSI E AÇÃO SOCIAL UT SINGULI (LEI 6.404/76, ART. 159, § 4º). DANOS CAUSADOS DIRETAMENTE À SOCIEDADE. AÇÃO INDIVIDUAL (LEI 6.404/76, ART. 159, § 7º).
+ILEGITIMIDADE ATIVA DE ACIONISTA. RECURSO PROVIDO.
+1. O art. 130 do CPC trata de faculdade atribuída ao juiz da causa de poder determinar as provas necessárias à instrução do processo.
+O julgamento antecipado da lide, no entanto, por entender o magistrado encontrar-se maduro o processo, não configura cerceamento de defesa.
+2. Não viola os arts. 459 e 460 do CPC a decisão que condena o réu ao pagamento de valor determinado, não obstante constar do pedido inicial a apuração do valor da condenação na execução da sentença.
+3. Aplica-se, por analogia, a norma do art. 159 da Lei n. 6.404/76 (Lei das Sociedades Anônimas) à ação de responsabilidade civil contra os acionistas controladores da companhia por danos decorrentes de abuso de poder.
+4. Sendo os danos causados diretamente à companhia, são cabíveis as ações sociais ut universi e ut singuli, esta obedecidos os requisitos exigidos pelos §§ 3º e 4º do mencionado dispositivo legal da Lei das S/A.
+5. Por sua vez, a ação individual, prevista no § 7º do art. 159 da Lei 6.404/76, tem como finalidade reparar o dano experimentado não pela companhia, mas pelo próprio acionista ou terceiro prejudicado, isto é, o dano direto causado ao titular de ações societárias ou a terceiro por ato do administrador ou dos controladores. Não depende a ação individual de deliberação da assembleia geral para ser proposta.
+6. É parte ilegítima para ajuizar a ação individual o acionista que sofre prejuízos apenas indiretos por atos praticados pelo administrador ou pelos acionistas controladores da sociedade anônima.
+7. Recurso especial provido."
+(REsp 1214497/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/09/2014, DJe 06/11/2014 - grifo nosso)
+Nesse contexto, verifica-se que o acórdão combatido, ao afastar a legitimidade ativa do recorrente para pleitear reparação por danos causados a ele indiretamente, o fez em consonância com a jurisprudência desta Corte Superior, razão pela qual não merece provimento o recurso especial, a teor do que dispõem as Súmulas 83 e 568 do STJ.
+Ademais, tendo o Tribunal de origem concluído que os atos dos administradores e controladores da empresa causaram danos indiretos ao recorrentes, a alteração de tal entendimento para se reconhecer que houve danos diretos demandaria, necessariamente, a incursão no acervo fático-probatórios dos autos, incidindo, portanto, o óbice da Súmula 7/STJ, que dispõe que: "A simples pretensão de reexame de prova não enseja recurso especial". Nesse sentido, colhem-se os seguintes julgados:
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
