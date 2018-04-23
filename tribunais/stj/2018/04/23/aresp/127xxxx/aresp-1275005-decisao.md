@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 64):
+Agravo de Instrumento. Repetição de Indébito. Decisão que determinou a intimação pessoal da agravante para que se abstenha de interromper o fornecimento de água no Condomínio Ravena, sob pena de multa de R$10.000,00, em caso de descumprimento. manutenção, pois, diante do trânsito em julgado da sentença que julgou parcialmente o pedido autoral, determinando o refaturamento das mensalidades em conformidade com a tarifa social, válida a decisão recorrida no sentido de a parte agravante se abster de interromper o fornecimento de água no respectivo condomínio agravado. Cabimento e adequação da multa. DESPROVIMENTO DO RECURSO.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 537, § 1º, do CPC/2015. Sustenta, em síntese, ser devida a exclusão ou redução do valor das astreintes em cumprimentos aos princípios da razoabilidade e proporcionalidade, sob pena de enriquecimento sem causa da parte agravada.
+É o relatório.
+O inconformismo não prospera, pois, a respeito das astreintes, na via especial não é cabível, em regra, a revisão do valor fixado pelas instâncias ordinárias a título de multa diária por descumprimento da obrigação de fazer, ante a impossibilidade de análise de fatos e provas, conforme a Súmula 7/STJ.
+Contudo, a jurisprudência desta Corte admite, em caráter excepcional, que o quantum arbitrado a título de astreintes seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade.
+Ocorre que, no caso dos autos, a parte agravante não demonstrou que o valor arbitrado, R$ 500,00 ( quinhentos reais ) por dia em caso de descumprimento seria exorbitante, razão pela qual deve ser mantido.
+Sobre o tema, leiam-se:
+PROCESSUAL CIVIL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. FORNECIMENTO DE ÁGUA. VALOR DAS ASTREINTES. PROPORCIONALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 535 do Código de Processo Civil de 1973, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara sobre as razões para a diminuição das astreintes.
+2. Consoante a jurisprudência do STJ, o valor arbitrado a título de astreintes somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, sob pena de ofensa ao disposto na Súmula 7/STJ, o que não é o caso dos autos.
+3. Recurso Especial parcialmente conhecido e nessa parte não provido.
+(REsp 1681152/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. FORNECIMENTO DE ÁGUA. OBRIGAÇÃO DE FAZER. REVISÃO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+I - Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que a ré foi regularmente intimada, sobretudo quanto à incidência de multa por descumprimento de obrigação de fazer, valendo registrar que o acréscimo do seu valor se deu em razão da desídia do próprio réu executado, que optou por cumprir a obrigação tardiamente. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em recurso especial. Enunciado n. 7 da Súmula do STJ.
+II - No tocante ao recurso especial interposto com base na alínea c do permissivo constitucional, cumpre asseverar que a análise do dissídio jurisprudencial está prejudicada, pois consoante jurisprudência do STJ, em razão da aplicação do enunciado n. 7 da Súmula do STJ, não é possível encontrar similitude fática entre o acórdão combatido e acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em razão de entendimentos diversos sobre uma mesma questão legal, mas, sim, em razão de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+III - Agravo interno improvido.
+(AgInt no AREsp 966.463/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 20/06/2017, DJe 26/06/2017)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
