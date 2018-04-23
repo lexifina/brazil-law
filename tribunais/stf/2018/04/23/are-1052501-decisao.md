@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Paraná, ementado nos seguintes termos:
+    “APELAÇÃO CRIMINAL. TRIBUNAL DO JÚRI. CRIME DE HOMICÍDIO QUALIFICADO. PRELIMINAR DE NULIDADE POR OFENSA AO ART. 478, I, DO CPP. EXPOSIÇÃO DE PARTE DA DECISÃO DE PRONÚNCIA PELA DEFESA AOS JURADOS. NÃO UTILIZAÇÃO COMO ARGUMENTO DE AUTORIDADE A INFLUENCIAR A CONVICÇÃO DOS JURADOS. NULIDADE RELATIVA. PREJUÍZO NÃO DEMONSTRADO. PRELIMINAR REJEITADA.
+    ABSOLVIÇÃO. ALEGADA DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. DECISÃO DOS JURADOS QUE, EMBORA REJEITANDO A ÚNICA TESE DEFENSIVA (NEGATIVA DE AUTORIA), ABSOLVE O RÉU AO RESPONDER AO QUESITO GENÉRICO. DECISÃO COMPLETAMENTE DISSOCIADA DO CONJUNTO PROBATÓRIO CONTIDO NOS AUTOS. RECURSO MINISTERIAL PROVIDO NESTA PARTE”. (eDOC 6, p. 102)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação ao artigo 5º, inciso XXXVIII, alínea “c”, do texto constitucional. (eDOC 7, p. 26)
+    Nas razões recursais, o recorrente alega que o acórdão atacado, ao anular a decisão tomada por maioria do Conselho de Sentença, teria violado o princípio da soberania dos veredictos. (eDOC 7, p. 30)
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a decisão dos jurados, além de contraditória, foi manifestamente contrária às provas dos autos.
+    Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Pois bem, ao responderem aos três primeiros quesitos formulados, os jurados admitiram a materialidade do crime, o nexo de causalidade e a autoria delitiva, respondendo positivamente, por maioria de votos, ao terceiro quesito em que se indagava se ‘o réu Anderson Junior da Silva com auxílio de terceira pessoa concorreu para o crime, desferindo disparos de arma de fogo e/ou golpe de faca na vítima Gilberto Francisco Dias?’
+    [...]
+    Assim, não havendo nada no conjunto probatório que justificasse, dentro das hipóteses previstas na lei penal, a opção pela absolvição do acusado, a decisão dos jurados revela-se em manifesta contrariedade à prova dos autos”. (eDOC 6, p. 106-108)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Ademais, esta Corte firmou jurisprudência no sentido de não reconhecer ofensa à Constituição Federal na anulação do veredicto e consequente determinação para que o réu seja submetido a novo julgamento pelo Tribunal do Júri.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. SUBMISSÃO DO ACUSADO A NOVO JÚRI. POSSIBILIDADE. JURISPRUDÊNCIA CONSOLIDADA DO SUPREMO TRIBUNAL FEDERAL. 1. O Supremo Tribunal Federal firmou o entendimento de que a submissão do acusado a novo julgamento popular não contraria a garantia constitucional da soberania dos veredictos. Precedentes. 2. Ausência de ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva. 3. Agravo regimental a que se nega provimento”. (HC-AgR 130.690/SP, Rel. Min. Roberto Barroso, Primeira Turma, DJe 24.11.2016 – grifei)
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Reapreciação de fatos e provas. Impossibilidade. Incidência da Súmula 279/STF. Precedentes. Pretendida concessão de habeas corpus de ofício. Inexistência de ilegalidade flagrante, abuso de poder ou teratologia. Regimental não provido. 1. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas, a teor do que dispõe a Súmula nº 279/STF. 2. O Supremo Tribunal Federal já entendeu que a anulação de decisão do tribunal do júri, por manifestamente contrária à prova dos autos, não viola a regra constitucional que assegura a soberania dos veredictos do júri (CF, art. 5º, XXXVIII, c) (AI nº 728.023/RS-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 28/2/11). 3. Inexiste ilegalidade flagrante, abuso de poder ou teratologia que justifique a concessão do habeas corpus de ofício, pois não incorre em excesso de linguagem o acórdão que, ao dar provimento ao apelo ministerial, concluiu que houve julgamento contrário às provas dos autos, demonstrando a materialidade delitiva e a existência dos indícios de autoria. Precedentes. 4. Agravo regimental não provido”. (ARE-AgR 947.288/ES, Rel. Min. Dias Toffoli, Segunda Turma, DJe 4.11.2016) (grifei)
+    Ante o exposto, nego seguimento ao recurso (artigo 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
