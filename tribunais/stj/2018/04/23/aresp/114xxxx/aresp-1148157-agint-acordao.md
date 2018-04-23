@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e que os agravantes deixaram de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastado o decreto de intempestividade.
+3. Agravo interno no agravo em recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por JOSE DIAS DE MACEDO, AMARILIO PROENCA DE MACEDO e ROBERTO PROENCA DE MACEDO contra decisão unipessoal, proferida pela Ministra Presidente do STJ, que não conheceu do agravo em recurso especial que interpuseram, com fundamento na intempestividade (e-STJ fls. 576/577).
+Opostos embargos de declaração, foram estes rejeitados pela decisão de e-STJ fls. 594/5963.
+Nas razões do presente recurso, os agravantes reiteram a tempestividade do agravo em recurso especial, ao argumento de que, consoante a Resolução nº 59/2016 do Tribunal a quo, não houve expediente forense nos dias 27 e 28 de fevereiro de 2017. Afirmam que, mesmo na vigência do CPC/2015, é possível a comprovação posterior da tempestividade do recurso.
+Ao final, requerem a exclusão da condenação ao pagamento de honorários recursais.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Preliminarmente, em harmonia com o princípio da unirrecorribilidade recursal, não conheço do agravo interposto por meio da Petição AgInt 00691707/2017 (e-STJ fls. 614/627), haja vista a preclusão consumativa ocorrida com a prévia interposição do presente agravo (petição nº 00691703/2017, e-STJ fls. 600/613).
+A decisão agravada declarou a intempestividade do agravo em recurso especial nos termos da seguinte fundamentação:
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que a parte Recorrente foi intimada da decisão agravada em 21/02/2017, sendo o agravo somente interposto em 16/03/2017.
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5.º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Veja-se que a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem a sexta-feira da paixão e, também, o dia de Corpus Christi, não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais. Caso essas datas sejam feriados locais deve ser colacionado o ato normativo local com essa previsão, por meio de documento idôneo, no momento de interposição do recurso.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+De fato, compulsando os autos, verifica-se que o agravo em recurso especial é intempestivo, pois a decisão agravada foi publicada no Diário de Justiça Eletrônico no dia 20/02/2017, de maneira que o prazo para interposição do recurso teve início em 21/02/2017, findando em 14/03/2017. Todavia, o agravo em recurso especial somente foi interposto na data de 16/03/2017.
+Quanto à comprovação posterior da tempestividade do recurso, cabe salientar que a Corte Especial deste Tribunal, ao concluir o julgamento do AREsp 957.821/MS (DJe de 19/12/2017) , consolidou o entendimento de que, conforme a literalidade do art. 1.003, § 6º, do CPC/15, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15. Dessa maneira, "ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada".
+Por conseguinte, considerando que o presente agravo em recurso especial foi interposto sob a égide do novo regramento processual e que deixaram os agravantes de comprovar a ocorrência de feriado local quando da interposição, não há como ser afastado o decreto de intempestividade.
+Outrossim, registre-se que, diante da negativa de conhecimento do recurso, manteve-se, na integralidade, o acórdão prolatado pelo Tribunal a quo, que dera provimento a recurso de apelação para o fim de reconhecer a legitimidade passiva dos ora agravantes e determinar a reabertura da fase de instrução processual no juízo do 1º grau de jurisdição. Logo, não subsistindo na hipótese dos autos a condenação ao pagamento de honorários advocatícios, não tem aplicabilidade o disposto no último parágrafo da decisão agravada, que se refere apenas às eventuais hipóteses em que há a prévia fixação de honorários na instância de origem.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno, com as observações supra.
