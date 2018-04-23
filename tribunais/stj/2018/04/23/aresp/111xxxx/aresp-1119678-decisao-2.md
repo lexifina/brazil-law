@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. MANDADO DE SEGURANÇA COLETIVO ANTERIOR AO AJUIZAMENTO DA AÇÃO. INTERRUPÇÃO DA CONTAGEM DO PRAZO PRESCRICIONAL. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão da Corte de origem que inadmitiu o recurso especial interposto pela São Paulo Previdência - SPPREV.
+O apelo nobre obstado enfrenta acórdão, assim ementado (e-STJ fl. 285):
+AÇÃO ORDINÁRIA DE COBRANÇA - Pretensão ao recebimento de valores, relativos ao ALE, no período imprescrito, vantagem esta incorporada por força de ação mandamental - Conquanto diverso, hoje, o entendimento da E. Câmara acerca da matéria, e mais, embora não se possa falar na existência de coisa julgada que pudesse vincular a decisão, no presente caso, é certo que não se afigura razoável pudesse prevalecer, quanto a período anterior àquele em que o órgão colegiado, em outros tempos, reconheceu o direito à incorporação do ALE, orientação atual - Reexame necessário e apelação da autarquia improvidos - Recurso dos autores parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fl. 307).
+No recurso especial, a recorrente alega violação do artigo 1º do Decreto Federal 20.910/1932, sustentando prescrição de parte da pretensão dos autores da ação.
+Contrarrazões apresentadas (e-STJ fls. 425-436).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Contraminuta apresentada (e-STJ fls. 478-482).
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+O recurso em apreço não merece prosperar.
+Nas razões do especial, a recorrente sustenta prescrição da pretensão dos policiais militares. Aponta que no mandado de segurança impetrado pela Associação dos Oficiais da Reserva e Reformados da Polícia Militar do Estado de São Paulo, o provimento jurisdicional que se postulava era divergente do provimento postulado na ação originária, razão pela qual o MS não teria o condão de interromper a contagem do prazo prescricional, conforme entendeu o v. acórdão.
+Entretanto, o acórdão assim se pronunciou a respeito do tema (e-STJ fls. 287-288):
+De mais a mais, está claro que se aplica à espécie, a contrário senso, a regra do artigo 14, § 4º, da Lei Federal nº 12.016, de 07/8/09, porquanto se trata de buscar o pagamento das vantagens pecuniárias, asseguradas em mandado de segurança, no que concerne a prestações vencidas antes do ajuizamento daquela ação, na esteira do que dispõem as Súmulas 269 e 271, ambas do Supremo Tribunal Federal.
+ ..
+E a contagem do lustro prescricional de que cuida a norma do artigo 3º do Decreto n.º 20.910/32, por certo, dar-se-á, retroativamente, a partir da data do mandado de segurança coletivo, porquanto o direito à vantagem lá se viu reconhecido, não se tratando, por isto, de hipótese de suspensão de prazo prescricional.
+Extrai-se da leitura do excerto que a Corte de Origem entendeu que o direito ao recebimento das vantagens pecuniárias postulado na ação originária viu-se assegurado em sede de mandado de segurança, reconhecendo a interrupção da prescrição.
+Destarte, torna-se irrefragável a conclusão de que a pretensão recursal demanda revolvimento do conjunto fático e probatório constantes dos autos, a saber para analisar os pedidos propostos na ação originária e no mandado de segurança, o que é inviável a teor da Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. PERCENTUAL DE 28,86%. PRESCRIÇÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ 1. A alteração das conclusões adotadas pela Corte de origem, a fim de que se possa constatar a ocorrência da prescrição, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1488279/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 27/09/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. PAGAMENTO DE PAM. RESP N. 1.336.216/RS. PRESCRIÇÃO. TERMO INICIAL. SÚMULA 280 DO STF. ANÁLISE DO ATO DE APOSENTADORIA. ANÁLISE PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A questão da prescrição está diretamente ligada à incorporação de PAM ao benefício ao vencimento básico (consequentemente, se essa deve fazer parte dos critérios então fixados para a aposentadoria), conforme se verifica do excerto acima transcrito. Ocorre que a aferição da prescrição alegada pelo Estado depende de exame de direito local, pois sem a devida interpretação das premissas legais estaduais não há meios para aferir o momento em que se iniciou o prazo prescricional. Todavia, essa tarefa não é possível em recurso especial nos termos da Súmula 280 do STF. 2. Imprescindível, ainda, seria o reexame do conjunto fático-probatório dos autos, diante do princípio da actio nata, pois como o próprio agravante, nas razões de seu recurso especial, confessa, as diferenças decorrentes dos incisos IV e V do art. 15 da Lei 10.395/95 foram asseguradas em ação judicial anterior. Contudo, essa análise também não é possível em recurso especial, nos termos da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1075061/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/10/2017, DJe 24/10/2017)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
