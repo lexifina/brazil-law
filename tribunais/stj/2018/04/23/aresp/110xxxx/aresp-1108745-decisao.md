@@ -1,0 +1,30 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. ART. 476 DO CÓDIGO CIVIL. PRETENSÃO RECURSAL CUJA ANÁLISE DEPENDE DO REEXAME FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão que enfrenta acórdão assim ementado (fls. 248):
+PROCESSUAL CIVIL - AÇÃO MONITÓRIA - CONCESSÃO DE DIREITO REAL PARA USO DE TERRAS PÚBLICAS - PLATÔ DE NEÓPOLIS - INÉPCIA DA INICIAL AFASTADA - PETIÇÃO INSTRUÍDA COM CÁLCULOS ATUALIZADOS DOS VALORES DEVIDOS A TÍTULO DE TARIFA - ;EXCEPTIO NON ADIMPLENTI CONTRACTUS; - CLÁUSULA QUE NÃO SE APLICA À HIPÓTESE - EMBARGANTE QUE NÃO SE DESINCUMBIU DO ÔNUS D E P R O V A R O DESCUMPRIMENTO DO C O N T R A T O P E L A REQUERENTE-EMBARGADA - RECURSO CONHECIDO E IMPROVIDO.
+No apelo especial, a parte recorrente alega ofensa do artigo 476 do Código Civil. Defende, em síntese, que "a discussão que se põe em mira através do presente viés processual tem delimitação na ausência de apreciação dos documentos colacionados em sede de embargos como meio de comprovação da exceção do contrato não cumprido" (fls. 257).
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+No que tange as insurgências ora apresentadas, o Tribunal de origem concluiu que (fls. 248/251):
+Por fim, quanto à arguição da excepcio non adimplenti contractus é também irreprochável o argumento lançado na sentença, no sentido de que o embargante não teria provado o descumprimento das obrigações impostas ao demandante.
+Nesse ponto, o autor apenas alega que o "Platô de Neópolis" funciona de forma precária e as expensas dos empresários ( ) através da Associação dos Concessionários do Distrito de Irrigação do Platô de Neópolis - ASCONDIR", todavia, não há provas concretas nesse sentido.
+Não se desconsidera, frise-se, os termos do acordo firmado entre a COHIDRO e a ASCONDIR, em que restou estabelecido que enquanto a autora não procedesse à celebração de " ajustes, contratos ou convênios visando à implantação dos Bancos Capacitores nas EB "s e outras aplicações correlatas, a exemplo da construção de reservatórios nas estações 2, 3 e 4, como também a automação do sistema conforme projeto original" restaria suspenso o pagamento de qualquer pagamento por parte da ASCONDIR e seus associados.
+Todavia, repita-se, não há provas idôneas capazes de atestar o descumprimento desse acordo por parte da COHIDRO e que esse suposto descumprimento teria inviabilizado o uso da terra concedida.
+Daí se vê que a convicção a que chegou o acórdão recorrido decorreu da análise do conjunto fático-probatório e da interpretação das cláusulas contratuais, de forma que o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz das Súmulas 5 e 7 desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO UNIPESSOAL ANTERIOR, NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não constatada a alegada violação ao artigo 535 do CPC/73, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. Alterar as premissas adotadas pelo decisum atacado, no tocante à alegada exceção do contrato não cumprido, demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+3. Na hipótese, o Tribunal local seguiu orientação desta Corte no sentido de que o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83/STJ.
+4. Segundo a jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ.
+5. Agravo interno desprovido (AgInt no AREsp 614.880/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 23/03/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. PERMISSIONÁRIA DE TRANSPORTE DE PASSAGEIROS. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO E PRODUÇÃO DE PROVA PERICIAL. SÚMULAS 283 E 284 DO STF. INCIDÊNCIA. SÚMULAS 5 E 7 DO STJ. APLICAÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Nos termos dos enunciados das Súmulas 283 e 284 do STF, respectivamente, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" e "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. Caso em que o Tribunal paulista consignou que a hipótese delineada nos autos não comportava a admissão da tese de quebra do equilíbrio contratual pela oposição da cláusula da excepcio non adimpleti contractus, cuja impertinência tornava irrelevante a instrução probatória, fundamento não expressamente rebatido nas razões do especial.
+4. Discordar das conclusões alvitradas na origem impõe o reexame do acervo probatório, bem como o perlustrar de cláusulas contratuais, providência sabidamente vedada no âmbito do apelo nobre em face do teor das Súmulas 5 e 7 desta Corte.
+5. Agravo interno desprovido (AgInt no AREsp 374.109/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 19/12/2017)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
