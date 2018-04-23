@@ -1,0 +1,29 @@
+DECISÃO
+PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA HÍBRIDA. RECONHECIMENTO PELO TRIBUNAL DE ORIGEM DA AUSÊNCIA DE AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. COISA JULGADA. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento a Recurso Especial fundando na alínea a do art. 105, III da Constituição Federal, interposto contra acórdão do Tribunal Regional Federal da 3a. Região que julgou improcedente o pedido de concessão de aposentadoria por idade.
+2. Em seu Apelo Especial, sustenta que a possibilidade é possível a concessão de aposentadoria por idade para qualquer espécie de segurado mediante a contagem de períodos de atividade, como segurado urbano ou rural, com ou sem a realização de contribuições facultativas de segurado especial. Não constituindo óbice à concessão do benefício o fato de que a última atividade exercida pelo segurado, no período imediatamente anterior ao requerimento do benefício ou ao implemento da idade mínima, não tenha sido de natureza agrícola.
+3. É o breve relatório. Decido.
+4. O que se verifica da leitura dos autos é que a tese de possibilidade de reconhecimento de aposentadoria híbrida não foi enfrentada pela Corte de origem, uma vez que o pedido autoral foi negado por não se reconhecer o exercício de atividade laboral rural.
+5. Confira-se o acórdão recorrido quanto a este ponto:
+Porém, o mesmo período de atividade rurícola que a autora quer ver reconhecido já foi objeto de análise por ocasião do primeiro processo, conforme se extrai da decisão monocrática às fis. 43: .. "Compulsando os autos, verifica-se que a prova material é frágil, não contemporânea ao período de atividade rural que se pretende comprovar, e os depoimentos das testemunhas são vagos e imprecisos, não esclarecendo detalhes sobre a atividade campesina da requerente, apenas afirmando "genericamente o labor rural. Além do que, não é possível estender à autora  condição de lavrador do marido, como pretende, eis que o extrato do sistema Dataprev demonstra que exerce atividade urbana. Por fim, o extrato Dataprev e a CTPS indicam que a própria autora exerceu atividade urbana, como empregada doméstica, afastando a alegada condição de rurícola.." Não houve interposição de recursos, conformando-se a autora com o não reconhecimento da sua atividade rural e o improvimento de seu pedido de aposentadoria rural por idade, e os autos baixaram definitivamente à Comarca de origem em 21.05.2008.
+Assim, já tendo sido devidamente analisado - e não reconhecido - o tempo de serviço, rurícola da autora, resta configurada a ocorrência da coisa julgada material, ô que impede a reanálise da atividade rural.
+6. Contudo esse fundamento autônomo e suficiente à manutenção do aresto recorrido não foi impugnado nas razões do Recurso Especial, permanecendo, portanto, incólume. Dessa forma, aplicável, na espécie, por analogia, a Súmula 283 do STF, o que impede o provimento do Recurso.
+7. A propósito, os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO REVISIONAL DE CONTRATO E DE RESTITUIÇÃO DE VALORES. REAJUSTES DAS CONTRAPRESTAÇÕES PECUNIÁRIAS COM BASE NA SINISTRALIDADE. DECISÃO RECORRIDA FUNDAMENTADA NA INOBSERVÂNCIA DO DEVER DE INFORMAÇÃO. FUNDAMENTO AUTÔNOMO E SUFICIENTE NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283 DO STF. ALÍNEAS "A" E "C". AGRAVO INTERNO NÃO PROVIDO.
+1. É inadmissível o recurso que deixa de impugnar fundamento autônomo e suficiente à manutenção do v. acórdão recorrido, a teor da Súmula 283/STF. A Corte de origem fundamentou sua decisão no descumprimento do dever de informação por parte da agravante em relação à justificativa apresentada para o reajuste (aumento da sinistralidade). Tal fundamento, contudo, autônomo e suficiente à manutenção do acórdão, não foi objeto de impugnação específica e fundamentada no recurso especial.
+2. O óbice da Súmula 283/STF aplica-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional.
+3. Agravo interno a que se nega provimento (AgInt no AREsp. 1.207.118/SP, Rel. Min. LÁZARO GUIMARÃES, DJe 6.4.2018).
+
+PROCESSUAL CIVIL. PETIÇÃO NO RECURSO ESPECIAL RECEBIDA COMO AGRAVO INTERNO. SERVIDOR PÚBLICO. DEMISSÃO. ENRIQUECIMENTO ILÍCITO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. A jurisprudência desta Corte Superior, aplicando o princípio da fungibilidade recursal, admite o recebimento de pleitos como se recursos fossem, se cumpridas as finalidades e os prazos recursais. Desse modo, recebe-se a presente Petição como agravo interno.
+2. A ausência de impugnação de fundamentos do acórdão recorrido que sejam suficientes para mantê-lo enseja o não conhecimento do recurso, incidindo o enunciado da Súmula 283/STF.
+3. Agravo interno não provido (PET no REsp. 1.468.841/PE, Rel. Min. BENEDITO GONÇALVES, DJe 16.3.2018).
+
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO POPULAR. TESES DE JULGAMENTO EXTRA PETITA, ILEGITIMIDADE PASSIVA E AUSÊNCIA DE ILÍCITO PERPETRADO. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. O Tribunal de origem afastou as teses de julgamento extra petita, ilegitimidade passiva e ausência de ato ilícito perpetrado com base na análise do acervo fático probatório existente nos autos.
+Incidência da Súmula 7/STJ.
+2. No mais, verifica-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF.
+3. Agravo interno a que se nega provimento (AgInt no AREsp. 1.086.084/SP, Rel. Min. SÉRGIO KUKINA, DJe 21.11.2017).
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial.
+9. Publique-se.
+10. Intimações necessárias.
