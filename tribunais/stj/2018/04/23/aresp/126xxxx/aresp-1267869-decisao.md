@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo interno interposto por [NOME], inconformado com a decisão que inadmitiu o recurso especial interposto contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo e assim ementado:
+AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. COMPROMISSO DE COMPRA E VENDA. Autora que pleiteia a exibição do recibo de pagamento da taxa de assessoria técnico- imobiliária. Relação de consumo. Solidariedade dos envolvidos.
+Alegação de que o recibo não foi fornecido. Documento relacionado ao contrato de compra e venda considerado de interesse comum.
+Credora que possui o dever de apresentar o recibo. Precedentes desta Corte. Sentença reformada para condenar a ré a exibir o recibo de pagamento da taxa de assessoria técnico-imobiliária. Sucumbência invertida. Honorários majorados. Recurso provido.
+Nas razões do recurso especial, o ora agravante aponta afronta ao artigo 85, § 8º, do CPC/2015, diante da suposta irrisão do valor fixado a título de honorários de advogado. Aponta, ainda, divergência jurisprudencial sobre o tema.
+É o relatório.
+Conforme o entendimento desta Corte, o valor estabelecido a título de honorários advocatícios pelas instâncias ordinárias somente pode ser alterado, na via do recurso especial, nas hipóteses em que se distanciar dos padrões de razoabilidade e da proporcionalidade, o que não ocorreu na hipótese em exame.
+Não é demais recordar que a Corte Especial, em julgado mais recente e ainda não publicado (EREsp 1527430/SC, sessão de julgamento de 1/2/2018) decidiu pela não adoção de um parâmetro objetivo para aferição da irrisão dos honorários sucumbenciais, afastando a pretensão de que fosse fixado em 1% do valor da causa. Segundo foi decidido, o caráter exorbitante ou irrisório deve ser analisado caso a caso.
+Na hipótese em testilha, os honorários advocatícios foram fixados em 15% sobre o valor da causa. Nesse contexto, constatado que os honorários de sucumbência foram fixados em patamar razoável, não sendo irrisórios nem exorbitantes, não compete a esta Corte Superior, em recurso especial, promover a revisão pretendida, ante a incidência do Enunciado Sumular n. 7 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TAXA DE CORRETAGEM. RESTITUIÇÃO. HONORÁRIOS ADVOCATÍCIOS. CUNHO CONDENATÓRIO. ART. 20, § 3º, DO CPC/73. INCIDÊNCIA SOBRE VALOR DA CONDENAÇÃO. QUANTUM. MAJORAÇÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Conforme entendimento desta Corte, quando o acórdão proferido é de cunho condenatório, devem os honorários advocatícios ser fixados entre o mínimo de 10% e o máximo de 20% sobre o valor da condenação, nos termos do art. 20, § 3º, do CPC/73.
+2. O valor estabelecido a título de honorários advocatícios pelas instâncias ordinárias somente pode ser alterado, na via do recurso especial, nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade e da proporcionalidade, o que não ocorreu na hipótese em exame. No caso, os honorários advocatícios foram fixados em 15% sobre o valor da condenação, que corresponde à restituição de comissão de corretagem indevidamente paga no montante de R$ 1.750,00, com a devida incidência de correção e juros moratórios.
+3. Agravo interno a que se nega provimento.
+(AgRg no AREsp 844.121/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/04/2016, DJe 22/04/2016)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
