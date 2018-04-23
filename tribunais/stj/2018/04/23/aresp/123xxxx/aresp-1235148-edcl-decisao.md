@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] contra a decisão de fls. 377/380, que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, sustenta a parte Embargante, in verbis:
+"  ..  fica claro que a r. decisão publicada em 19/02/2018, a qual conheceu do Agravo para NEGAR PROVIMENTO ao recurso especial, levou em consideração r. decisão equivocada, que inadmitiu Recurso Especial anteriormente apresentado pela Embargada.
+ ..
+Apenas a certidão não é suficiente para caracterizar a dissolução irregular, uma vez que, conforme precedente do egrégio Superior Tribunal de Justiça, além do encerramento irregular, o credor deve demonstrar que os sócios agiram de forma dolosa ou fraudulenta, ou então que se utilizaram dos bens da empresa para atender interesses pessoais" (fls. 385/386).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existente no julgado.
+Na espécie, há mesmo erro material no relatório da decisão embargada, no qual foi citada ementa de julgado anterior, quando deveria ter sido transcrita a seguinte ementa:
+"EXECUÇÃO FISCAL. REDIRECIONAMENTO. SÓCIO -GERENTE. ADMINISTRADOR RESPONSABILIDADE. DISSOLUÇÃO IRREGULAR. POSSIBILIDADE. INADIMPLEMENTO DO TRIBUTO. DISPENSÁVEL. CONTRIBUIÇÃO PARA O FGTS. NATUREZA TRABALHISTA E SOCIAL. SÚMULA 353. STJ. REGRAMENTO DIFERENCIADO. RECURSO REPETITIVO.
+1. A execução fiscal objetiva a cobrança de valores de FGTS, contribuição de natureza trabalhista e social que não possui caráter tributário, sendo inaplicáveis, portanto, as disposições contidas no Código Tributário Nacional, entre as quais as hipóteses de responsabilidade pessoal previstas no art. 135 do CTN, tal como assentado pelo STJ em seus precedentes, bem como no enunciado da Súmula nº 353.
+2. A não localização da sociedade empresária no endereço fornecido como domicílio fiscal gera presunção iuris tantum de dissolução irregular, situação que autoriza o redirecionamento da execução fiscal para os sócios -gerentes.
+3. 0 redirecionamento da execução aos sócios não está previsto, unicamente, no inciso III do art. 135 do CTN, vez que havia previsão no art. 10 do Decreto nº 3.708/19, que, embora tenha sido revogado, tacitamente, pelo Código Civil de 2002, deve ser aplicado aos fatos ocorridos anteriormente à vigência do novo Código Civil, em atenção ao princípio do tempus regit actum. Por sua vez, há previsão no art. 158 da Lei 6.404/78 de responsabilidade dos administradores por violação de lei ou estatuto.
+4. Se a dissolução irregular ocorreu na vigência do novo Código Civil, viável, em tese, o redirecionamento da execução, com base nos arts. 1.016, 1.053 e 1.036, quanto aos administradores, bem como, em relação aos sócios, por força da ausência das providências do art. 1.038, a justificar a aplicabilidade do art. 1.023.
+5. 0 procedimento extintivo da sociedade empresária é prescrito pelo direito no resguardo dos interesses não apenas dos sócios, como também dos credores da sociedade, respondendo pela sua liquidação irregular, de forma pessoal e, consequentemente, ilimitada, aqueles que deixarem de observá-lo, gerando a presunção iuris tantum de sua dissolução irregular o fato de não se encontrar a empresa localizada no domicílio fiscal informado.
+6. 0 Superior Tribunal de Justiça, no julgamento do Resp 1.371.128, sob o regime dos recursos repetitivos, firmou entendimento de que "não há como compreender que o mesmo fato jurídico "dissolução irregular" seja considerado ilícito suficiente ao redirecionamento da execução fiscal de débito tributário e não o seja para a execução .fiscal de débito não - tributário. "Ubi eadem ratio ibi eadem legis dispositio". O suporte dado pelo art. 135, III, do CTN, no âmbito tributário é dado pelo art. 10, do Decreto n. 3.078/19 e art. 158, da Lei n. 6.404/78 - LSA no âmbito não -tributário, não havendo, em nenhum dos casos, a exigência de dolo".
+7. A dissolução irregular apontada pela recorrente baseou-se na certidão do oficial de justiça, datada de 04 de fevereiro de 2002, na qual foi certificado que a sociedade não foi localizada no endereço diligenciado.
+8. Restou comprovado que o sócio ocupava cargo de [NOME] na sociedade, consoante o documento acostado, evidenciando sua responsabilidade pessoal.
+9. Agravo de instrumento provido." (fls. 286/287).
+Nessa linha, os embargos merecem ser acolhidos no ponto.
+Quanto ao mais, pretende a parte Embargante, na verdade, rediscutir matéria devidamente enfrentada no decisum embargado, consubstanciando mera insatisfação com o resultado da demanda, o que não se coaduna com a via eleita.
+Ante o exposto, ACOLHO PARCIALMENTE os embargos de declaração, sem efeitos modificativos, nos termos da fundamentação, visto que, apesar do erro material no relatório, o recurso especial foi julgado de acordo com as premissas fáticas do processo, não alterando assim o resultado do julgamento.
+Publique-se. Intimem-se.
