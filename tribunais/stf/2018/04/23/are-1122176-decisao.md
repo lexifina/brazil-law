@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão da Vice-Presidência do TRF da 2ª Região que inadmitiu recurso extraordinário interposto em face de acórdão da 7ª Turma Especializada do TRF da 2ª Região, assim ementado (eDOC 1, p. 249):
+    “ADMINISTRATIVO. MILITAR. PRAÇA DO CORPO DO PESSOAL GRADUADO DA AERONÁUTICA (CPGAER). PROMOÇÃO AO POSTO DE CAPITÃO. OCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. ACESSO AO OFICIALATO. REQUISITOS NÃO DEMONSTRADOS. PROMOÇÃO DE PRAÇAS. INTERTÍCIO MÍNIMO DE 2 (DOIS) ANOS E MÁXIMO DE 7 (SETE) ANOS. LEGALIDADE. DECRETO Nº 68.951/71.”
+    No extraordinário, com fulcro no art. 102, III, d, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXV e XXXVI, e 37, II, da Carta da República e ao princípio da isonomia.
+    Afirma-se não se poder falar em prescrição quinquenal porque o conhecimento sobre a situação das promoções apenas se deu quando da publicação do acórdão do REsp 858.115.
+    Sustenta-se inexistir previsão legal sobre a “promoção por transposição”, implementada pela União apenas para alguns agentes funcionalmente iguais ao recorrente segundo o Regulamento Interno de Serviços da Aeronáutica, não podendo esse ente valer-se da presunção de legitimidade, sob pena de ofensa à isonomia e à hierarquia.
+    Questionam-se os critérios e prazos contidos no Decreto 3.960/2000 e na Portaria 622/1994, a fim de demonstrar-se a ocorrência do preterimento alegado e destaca-se que “o quadro de taifeiros fora criado em aproveitamento do pessoal do Subgrupamento de Subsistência, sem que fosse realizado concurso público para ingresso no quadro, conforme prevê o art. 37, II, da CF/88” (eDOC 2, p. 53).
+    Alegam-se preenchidos os requisitos para a promoção pleiteada, bastando, para assegurar a carreira de Oficial da Aeronáutica, o fato de o recorrente ter sido promovido por merecimento ao longo da carreira. Acrescenta-se que o controle do emprego da competência discricionária realiza-se mediante a incidência do princípio da proporcionalidade e da teoria dos motivos determinantes.
+    É o relatório. Decido.
+    Inicialmente, a despeito de alegar configurada a hipótese prevista no art. 102, III, d, da Constituição, o recorrente não trouxe argumentação relativa à ocorrência de julgamento de lei local contestada em face de federal, o que torna aplicável a Súmula 284 do STF.
+    Em seguida, observa-se que os argumentos alusivos à ofensa aos arts. 5º, XXXV e XXXVI, e 37, II, da Carta da República não foram objeto de prequestionamento na via ordinária, tampouco foram opostos embargos de declaração para sanar eventual omissão, razão por que, nesse ponto, o recurso não merece prosperar em virtude do óbice das Súmulas 282 e 356 do STF.
+    No mais, o Tribunal de origem apreciou a matéria relativa à prescrição e aos requisitos para a promoção pleiteada à luz da legislação infraconstitucional pertinente (Decretos 881/1993, 20.910/1932, 68.951/1971 e 86.686/1981) e do conjunto fático-probatório dos autos. Desse modo, a discussão revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição, e esbarra no óbice da Súmula 279 do STF, o que inviabiliza o processamento do recurso extraordinário.
+    Frise-se, por oportuno, que esta Corte, no julgamento do RE 633.244/CE, Relator Ministro Gilmar Mendes, DJe 5.4.2011, entendeu pela inexistência de repercussão geral da controvérsia acerca das condições para a promoção de policial militar (tema 375). O acórdão restou assim resumido:
+    “Recurso extraordinário. Administrativo. Policial Militar. Condições para promoção. Necessidade de cumprimento dos requisitos impostos por legislação estadual. Decreto 15.275/82 e Lei 10.072/76 do Estado do Ceará. Matéria restrita ao âmbito infraconstitucional. Repercussão geral rejeitada.”
+    Ante o exposto, nego provimento ao agravo, nos termos do art. 932, IV, a, do CPC.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, porquanto não houve fixação de verba honorária nas instâncias de origem.
+    Publique-se.
+    Brasília, 23 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
