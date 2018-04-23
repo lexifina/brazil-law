@@ -1,0 +1,19 @@
+Decisão: Trata-se de “agravo interno” cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da 3ª Turma Recursal do Juizado Especial da 3a. Região – Seção Judiciária de São Paulo (eDOC 34) que confirmou a sentença de primeiro grau, assim fundamentada (eDOC 10, p. 3-4):
+    “A matéria ora em debate foi recentemente apreciada, em 08/09/2010, pelo col. Supremo Tribunal Federal. Nos termos do que foi decidido no Recurso Extraordinário (RE 564354), o entendimento da Corte Superior é de que o teto é exterior ao cálculo do benefício, não se tratando de reajuste, apenas de uma readequação ao novo limite. A relatora do caso, Ministra Cármen Lúcia Antunes Rocha, frisou que só após a definição do valor do benefício é que se aplica o limitador (teto). Assim, se esse limite for alterado, ele é aplicado ao valor inicialmente calculado.
+    (...) Da análise das telas do sistema Dataprev, denota-se que a RMA atual é menor que R$ 2.589,95 e que R$ 2.873,79, razão pela qual o pedido da parte autora é improcedente.
+    Posto isso, julgo improcedente a ação, negando em sua totalidade o postulado na inicial”.
+    A Presidência da Turma de origem inadmitiu o recurso extraordinário com base na Súmula 279 do STF, bem como o pedido de uniformização (eDOC 52, p. 1-3) .
+    Dessa decisão foram opostos embargos de declaração os quais foram rejeitados (eDOC 56, p. 1-3).
+    Após, o recorrente interpôs o agravo interno com fundamento no art. 1.021, § 2º, do CPC/2015, pleiteando à Turma recursal que se retratasse ou que determinasse a remessa do mencionado recurso a esta Corte Suprema Corte.
+    Examinando os autos, verifica-se que, na hipótese em exame, em que se afastou a aplicação do entendimento firmado em regime de repercussão geral (RE-RG 564.354), por se tratar de reexame do conjunto fático-probatório constante dos autos, o agravo nos próprios autos é o único recurso cabível contra a decisão que não admitiu o recurso extraordinário. Nesse sentido: AI 720.821-AgR-ED-ED-EDv, Rel. Min. Gilmar Mendes, Plenário, DJe 17.03.2016.
+    Importa registrar, também, que não se admite a fungibilidade do presente recurso em agravo nos próprios autos no caso de erro grosseiro, o que ocorre na espécie. Nesse sentido, em caso análogo, veja-se o seguinte julgado:
+    “AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. RECURSO INTEMPESTIVO. “AGRAVO DE INSTRUMENTO” INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO. INCABÍVEL. 1. É intempestivo o agravo interposto fora do prazo legal. 2. Não cabe “agravo de instrumento” contra decisão proferida pelo relator que negou seguimento ao recurso extraordinário. Erro grosseiro que não permite o saneamento do vício. Precedentes” (RE 738.455-AgR, Rel. Min. Roberto Barroso, DJe 23.09.2016).
+    Confira-se, ainda, a seguinte decisão monocrática: ARE 818.330/PE, Rel. Min. Teori Zavascki, DJe 07.10.2015.
+    Ademais, ainda que fosse possível a conversão do presente recurso em agravo nos próprios autos, seria ele intempestivo.
+    Com efeito, a decisão agravada foi publicada no Diário Oficial Eletrônico em 25.04.2017 (eDOC 53) e a petição recursal somente foi protocolada no Tribunal a quo em 01.08.2017 (eDOC 59).
+    Ressalte-se que a oposição de embargos declaratórios à decisão que inadmite o recurso extraordinário (eDOC 54) não suspende nem interrompe o referido prazo, conforme precedente acima citado (AI 720.821-AgR-ED-ED-EDv).
+    Ante o exposto, não conheço do agravo, nos termos do art. 932, III, do CPC c/c artigo 21, §1º, RISTF, majoro em ¼ (um quarto) os honorários fixados anteriormente, com fulcro no art. 85, §11, do CPC, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade por ser a parte beneficiária da justiça gratuita.
+    Publique-se.
+    Brasília, 23 de abril de 2018.
+Ministro Edson Fachin
+Relator
