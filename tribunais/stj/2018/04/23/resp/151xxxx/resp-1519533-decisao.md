@@ -1,0 +1,30 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO PENAL. ART. 155, § 4º, II, C/C O 14, II, AMBOS DO CÓDIGO PENAL. FURTO QUALIFICADO PELA ESCALADA E REINCIDÊNCIA. MAIOR REPROVABILIDADE. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO.
+Recurso especial não provido.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo que - no delito de furto praticado pelo atual recorrente (art. 155, § 4º, II, c/c o 14, II, ambos do Código Penal) -, em razão da qualificação (escalada) e reincidência do réu, afastou a incidência do princípio da insignificância e manteve a condenação fixada na sentença,  ..  in verbis: inviável a aplicação do princípio da insignificância na hipótese, tendo em vista que não se pode afirmar ser mínima a ofensividade da conduta perpetrada, tampouco reduzido o grau de reprovabilidade do comportamento de agente reincidente que escala portão de aproximadamente dois metros e meio de altura para ingressar em moradia (asilo inviolável do indivíduo) e subtrair bens (fl. 170).
+Opostos embargos de declaração, estes foram rejeitados (fls. 195/198).
+A conduta delituosa do recorrente foi descrita, nos autos, da seguinte forma (fl. 1):
+ ..  Consta do incluso inquérito policial que, no dia 21 de dezembro de 2009, durante a madrugada, na Rua Luiz Assou, nº 250, Vila Buenos Aires, nesta cidade e comarca, [NOME] DE OLIVEIRA, qualificado a fls. 18, tentou subtrair para ele, mediante escalada, um portão de alumínio instalado na garagem da residência de [NOME] e L L de S, não obtendo a consumação do delito por circunstâncias alheias à sua vontade.
+Segundo o apurado, o denunciado escalou a grade frontal da residência, alcançou a garagem e arrancou o portão que estava lá instalado, atirando-o à rua. Em razão do barulho, alguns vizinhos acordaram, viram o portão caído na calçada e o denunciado [NOME] sobre a grade da casa, abordando-o e impedindo-o que consumasse a subtração.
+ ..
+No recurso especial, em necessária síntese, a defesa aduz que o acórdão a quo violou os arts. 1º, 13 e 155, todos do Código Penal, e 386, III, do Código de Processo Penal, porque cabível o princípio da insignificância, pois o bem furtado (portão de ferro) nem sequer foi avaliado e foi devolvido à vítima, isto é,  ..  verifica-se que o bem objeto da tentativa de subtração possui importância reduzida, devendo ser ressaltada a condição econômica do sujeito passivo, tendo este recuperado, inclusive, o bem em tela, inexistindo, portanto, repercussão social ou econômica da conduta (fl. 214).
+Aduz a defesa técnica que,  ..  no caso, mesmo que se trata de delito, em tese, praticado na forma qualificada, pelo cometimento mediante escalada, os dados concretos e a prova oral relevam a inexistência da criação/ou incremento de um risco proibido relevante (fl. 217).
+Requer o recorrente a sua absolvição em decorrência  ..  da incidência do princípio da insignificância como causa supralegal de exclusão da tipicidade de conduta (fl. 221).
+Contrarrazões ofertadas, por meio das quais se sustenta a manutenção do acórdão recorrido (fls. 227/248).
+O Parquet opinou pelo não conhecimento do recurso (fls. 269 e 270).
+É o relatório.
+Presentes os requisitos de admissibilidade, o recurso merece ser conhecido.
+Primordialmente, a ideia de insignificância do delito só será aplicada nos casos em que a ofensividade da conduta do agente é mínima e dela não resultar prejuízo significativo para a vítima, além de reduzido o grau de reprovabilidade do comportamento.
+A corroborar, precedente da Sexta Turma deste Tribunal: HC n. 205.940/SP, Ministro Og Fernandes, Sexta Turma, DJe 17/8/2011.
+Ao contrário do disposto na insurgência recursal, entendo inadequada a incidência do postulado da insignificância, porquanto, a despeito do suposto reduzido valor da res subtraída (portão de metal), o furto, no caso, faz-se qualificado pela escalada de obstáculo de 2,50 m (dois metros e cinquenta centímetros), além da reincidência verificada in casu (fls. 1/3, 128/133, 167/171 e 195/198).
+Em outros termos, a jurisprudência deste Tribunal considera que furtos qualificados assumem maior reprovabilidade,  ..  portanto inadequada a incidência do princípio da insignificância (AgRg no REsp n. 1.197.775/MG, Ministro Og Fernandes, Sexta Turma, DJe 16/11/2010).
+Ilustrativamente: HC n. 170.233/SP, da minha relatoria, Sexta Turma, DJe 29/6/2012.
+Ademais, o simples fato de ter  ..  havido a restituição de parte dos bens subtraídos à vítima não conduz, necessariamente, ao reconhecimento do princípio da bagatela, porquanto a ausência de prejuízo material deve ser analisada em conjunto com as demais circunstâncias do caso concreto (HC n. 187.961/RS, da minha relatoria, Sexta Turma, DJe 28/11/2011).
+Diante disso, não merece reforma o acórdão a quo.
+Em acréscimo, segundo a jurisprudência deste Superior Tribunal, os embargos de declaração intempestivos, na origem, não implicam interrupção do prazo para a interposição de outros recursos, ou seja,  ..  embargos Declaratórios tidos por intempestivos, porquanto apresentados os originais do recurso após o prazo máximo de 5 dias previsto no art. 2º da Lei n. 9.800/1999, não interrompem o prazo para a interposição de outros recursos (AgRg nos EDcl no REsp n. 1.237.684/SC, Ministro Sidnei Beneti, Terceira Turma, DJe 29/8/2012).
+Em tempo, o Tribunal de origem não conheceu dos embargos de declaração opostos pelo ora recorrente em razão da ausência do interesse de agir (fls. 195/198). Consequentemente, tal fundamento não se presta para afastar a interrupção do prazo para a interposição do presente recurso especial.
+Diante disso, não assiste razão à parte recorrente.
+Sendo repetidamente decidida a matéria debatida, conforme os precedentes citados, o presente recurso comporta pronta solução, nos moldes do art. 34 do RISTJ e o disposto na Súmula 568/STJ, com o fim de se agilizar a prestação jurisdicional.
+Ante o exposto, com fulcro no art. 34 do RISTJ e o disposto na Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se.
