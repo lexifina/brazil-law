@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, III, 3º, I, III, 5º, XXII, XXIII, XXXII, XXXV, LIV e LV, 6º e 170, II, III e V, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento. Compreensão diversa do entendimento adotado demandaria o exame prévio da legislação infraconstitucional aplicável, bem como a reelaboração da moldura fática delineada no acórdão recorrido, além de revisão de cláusulas contratuais, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Aplicação das Súmulas 279 e 454/STF. Precedentes:
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. CIVIL. PROGRAMA DE ARRENDAMENTO RESIDENCIAL. INADIMPLEMENTO. REINTEGRAÇÃO DE POSSE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INTERPRETAÇÃO DE NORMAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 454 DO STF. INCURSIONAMENTO NO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 279 DO STF. RECURSO INTERPOSTO SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NO JUÍZO RECORRIDO. IMPOSSIBILIDADE DE MAJORAÇÃO NESTA SEDE RECURSAL. ARTIGO 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.” (RE 878.667-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 13.9.2016)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito civil. 3. Programa de arrendamento residencial. Lei 10.188/2001. 4. Inadimplemento contratual. Ação possessória. Reintegração de posse. 5. Ausência de matéria constitucional. 6. Agravo regimental a que se nega provimento.” (ARE 1049552-AgR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 10.10.2017)
+    Ressalto que no julgamento do RE 748.371-RG, Rel. Min. Gilmar Mendes, Pleno, DJe 01.8.2013, decidiu-se pela inexistência de repercussão geral da matéria relacionada à alegação de violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais, cuja ementa transcrevo:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 23 de abril de 2018.
+Ministra Rosa Weber
+Relatora
