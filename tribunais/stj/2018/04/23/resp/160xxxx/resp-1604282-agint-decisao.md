@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno contra decisão que julgou recurso especial interposto por [NOME], com base no art. 105, inciso III, alíneas a e c, da Constituição Federal, em face de acórdão resumido da seguinte maneira (fl. 120):
+PREVIDENCIÁRIO. FEPASA. Afastada a pretensão das autoras, beneficiárias de pensões instituídas por ex- ferroviários integrantes da extinta FEPASA, ao recebimento do abono salarial previsto em dissídio coletivo válido para o biênio 2006/2007, eis que caracterizada a prescrição do fundo de direito, não incidindo, no caso concreto, as Súmulas 85 do Superior Tribunal de Justiça e 443 do Supremo Tribunal Federal. Exame da jurisprudência. REEXAME NECESSÁRIO ACOLHIDO.
+Nas razões do especial, a recorrente sustenta, em síntese, divergência entre o acórdão a quo e a orientação jurisprudencial do Superior Tribunal de Justiça em casos semelhantes ao dos autos. Defende a reforma do acórdão a quo em face da necessária aplicação da Súmula 85/STJ, pois o direito de cobrar a complementação renova-se a cada mês.
+Sem contrarrazões, uma vez que o interessado não possui advogado constituído nos autos (fl. 143).
+Deu-se provimento ao recurso especial afastando a prescrição de fundo de direito.
+Interposto agravo interno, alega a parte agravante que faltou na decisão recorrida a determinação de retorno dos autos ao Tribunal de origem para continuação do julgamento da matéria.
+Diante das razões apresentadas pela parte agravante, reconsidero a decisão recorrida a fim de incluir os seguintes fundamentos.
+A orientação jurisprudencial do Superior Tribunal de Justiça é no sentido da não ocorrência da prescrição do fundo direito à complementação de benefício requerida por aposentados ou pensionistas da extinta FEPASA. A propósito, confiram-se a seguir:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA OU PENSÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA.
+1. Segundo assentado por esta Corte Superior, não há prescrição do fundo de direito nos casos em que servidores públicos aposentados ou pensionistas da extinta FEPASA buscam a complementação do benefício previdenciário. A propósito: (AgRg no REsp 1.468.203/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 24/09/2014; e AgRg no REsp 1.055.666/PR, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 27/06/2012).
+2. Agravo regimental não provido(AgRg nos EDcl no REsp 1.356.965/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 01/10/2015, DJe 07/10/2015.);
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSIONISTA E APOSENTADOS DA FEPASA. COMPLEMENTAÇÃO DO BENEFÍCIO PREVIDENCIÁRIO. NÃO OCORRÊNCIA. PRESCRIÇÃO DO FUNDO DE DIREITO. SÚMULA 85/STJ.
+1. A decisão recorrida está em consonância com a jurisprudência desta Corte no sentido de que, nos casos em que os servidores públicos aposentados e pensionistas da extinta Fepasa buscam a complementação do benefício previdenciário, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação, por incidência do disposto na Súmula 85/STJ.
+2. Agravo Regimental não provido (AgRg no AgRg nos EDcl no REsp 1.456.176/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/09/2015, DJe 10/11/2015.);
+Assim, afastada a prescrição, é necessário o retorno dos autos ao Tribunal a quo para continuação do julgamento.
+Ante exposto reconsidero a decisão recorrida para determinar o retorno dos autos ao Tribunal de origem, para o fim de prosseguimento do julgamento afastada a prescrição.
+Publique-se. Intime-se.
