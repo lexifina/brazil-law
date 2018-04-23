@@ -1,0 +1,52 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DE DECLARAÇÃO DA CONDIÇÃO DE REFUGIADO. ALEGAÇÃO DE OMISSÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REFORMA DO JULGADO. OBJETIVO QUE REFOGE AOS ESPECTRO DO RECURSO INTEGRADOR. PRECEDENTES: EDCL NO AGINT NO ARESP 863.814/SE, REL. MIN. GURGEL DE FARIA, DJE 3.10.2017 E EDCL NO RESP 1.344.821/PR, REL. MIN. HERMAN BENJAMIN, DJE 25.5.2016. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE. USURPAÇÃO DA COMPETÊNCIA DO EXCELSO STF. ENTENDIMENTO FIRMADO NESTA CORTE SUPERIOR: EDCL NO RESP 1.530.017/PR, REL. MIN. REGINA HELENA COSTA, DJE 27.11.2017 E EDCL NO AGINT NO ARESP 1.001.828/SP, REL. MIN. OG FERNANDES, DJE 23.6.2017. EMBARGOS DE DECLARAÇÃO DA UNIÃO REJEITADOS.
+1. O recurso integrador não se presta, diretamente, à reforma do acórdão, esta, somente poderá ocorrer de maneira indireta, em consequência do suprimento de um vício reconhecido, hipótese ausente na espécie.
+2. O STJ não deve, na seara do Recurso Especial, ainda que em sede de Aclaratórios para fins de prequestionamento, analisar dispositivo da Carta Magna, sob pena de usurpação da competência do Excelso STF.
+3. Aclaratórios da UNIÃO rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os Embargos de Declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Embargos de Declaração no Agravo Regimental no Recurso Especial opostos pela UNIÃO contra acórdão prolatado pela egrégia 1a. Turma, assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DE DECLARAÇÃO DA CONDIÇÃO DE REFUGIADO. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULA 211/STJ). IMPOSSIBILIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 7/STJ). AGRAVO REGIMENTAL DA UNIÃO AO QUAL SE NEGA PROVIMENTO.
+1. De início, cumpre ressaltar que, nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+2. Quanto à alegada violação ao art. 1o. c/c os arts. 12 e 29, assim como 3o. da Lei 9.474/97, verifica-se que o acórdão impugnado não analisou questão sob a ótica dos referidos dispositivos legais apontados como violados. Ausente, assim, o prequestionamento da matéria, aplica-se o óbice da Súmula 211/STJ.
+3. Ainda que fosse possível superar esse óbice, inclusive no que foi prequestionado, constata-se que o acórdão recorrido decidiu, com base nos elementos fáticos constantes dos autos, conforme se pode depreender de uma simples leitura da ementa. O revolvimento dessa matéria, em sede de recorribilidade extraordinária, demandaria a análise de fatos e provas, o que atrai o óbice da Súmula 7 desta egrégia Corte.
+4. Agravo Regimental da UNIÃO ao qual se nega provimento (fls. 367).
+2. Nas razões dos Aclaratórios a parte embargante aponta omissão no julgado, capaz de ofender o art. 93, IX da CF/1988.
+3. Devidamente intimada, a parte embargada deixou de apresentar impugnação (fls. 384).
+4. É o relatório.
+VOTO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DE DECLARAÇÃO DA CONDIÇÃO DE REFUGIADO. ALEGAÇÃO DE OMISSÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REFORMA DO JULGADO. OBJETIVO QUE REFOGE AOS ESPECTRO DO RECURSO INTEGRADOR. PRECEDENTES: EDCL NO AGINT NO ARESP 863.814/SE, REL. MIN. GURGEL DE FARIA, DJE 3.10.2017 E EDCL NO RESP 1.344.821/PR, REL. MIN. HERMAN BENJAMIN, DJE 25.5.2016. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE. USURPAÇÃO DA COMPETÊNCIA DO EXCELSO STF. ENTENDIMENTO FIRMADO NESTA CORTE SUPERIOR: EDCL NO RESP 1.530.017/PR, REL. MIN. REGINA HELENA COSTA, DJE 27.11.2017 E EDCL NO AGINT NO ARESP 1.001.828/SP, REL. MIN. OG FERNANDES, DJE 23.6.2017. EMBARGOS DE DECLARAÇÃO DA UNIÃO REJEITADOS.
+1. O recurso integrador não se presta, diretamente, à reforma do acórdão, esta, somente poderá ocorrer de maneira indireta, em consequência do suprimento de um vício reconhecido, hipótese ausente na espécie.
+2. O STJ não deve, na seara do Recurso Especial, ainda que em sede de Aclaratórios para fins de prequestionamento, analisar dispositivo da Carta Magna, sob pena de usurpação da competência do Excelso STF.
+3. Aclaratórios da UNIÃO rejeitados.
+1. De início, em que pese à densa argumentação trazida no Recurso Integrador, voltada à caracterização de omissão no julgado, esta, não ocorre, verificando-se, portanto, que a pretensão da parte embargante é a reforma do acórdão embargado, o que não é possível, por esta via recursal integradora.
+2. Assim, todas as irresignações apresentadas no anterior Agravo Regimental foram devidamente solucionadas, porém, a parte embargante, vencida, com tais respostas não concordou, entretanto a via utilizada não é apta a tal pretensão.
+3. Nesse sentido é a jurisprudência deste STJ:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. INOCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso integrativo, porquanto os vícios alegados pelo(a) embargante, na realidade, manifestam seu inconformismo com a denegação da segurança pretendida, sendo certo que eventual reforma do julgado não condiz com a natureza integrativa dos aclaratórios.
+3. A prescrição trazida pelo art. 489 do CPC/2015, na esteira interpretativa sufragada no Superior Tribunal de Justiça, significa que o julgador deve enfrentar apenas as questões capazes de infirmar a conclusão adotada na decisão recorrida, hipótese aqui não verificada (EDcl no MS n. 21315/DF, Primeira Seção, DJe 15/06/2016).
+4. Embargos de declaração rejeitados (EDcl no AgInt no AREsp. 863.814/SE, Rel. Min. GURGEL DE FARIA, DJe 3.10.2017).
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. A argumentação ventilada nestes aclaratórios é artificiosa, pois a ementa e o voto condutor do acórdão embargado são claros, com destaque em negrito, que a base de cálculo da verba honorária fixada em favor da Fazenda Pública é o montante de 10% do valor que a parte autora, derrotada, pretendia compensar, e que será apurado em liquidação de sentença.
+4. Assim, não houve referência ao valor da condenação, expediente lançado com o nítido escopo de contornar o descabimento do Agravo Regimental para pleitear a reforma do julgado colegiado, em atitude que tecnicamente desafia os limites da fronteira que separa o exercício do direito de recorrer da utilização de manobra protelatória.
+5. Embargos de Declaração rejeitados, sem imposição de multa (art. 538, parágrafo único, do CPC), por ora (EDcl no REsp. 1.344.821/PR, Rel. Min. HERMAN BENJAMIN, DJe 25.5.2016).
+4. Finalmente, não deve esta Corte Superior, na seara do Recurso Especial, analisar dispositivo constitucional, ainda que em grau de Embargos de Declaração, porquanto referida tarefa é da competência do Excelso STF. Referido entendimento vem sendo sistematicamente aplicado por este STJ:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONTRADIÇÃO. NÃO OCORRÊNCIA. PRETENSÃO DE EXAME DE DIVERGÊNCIA JURISPRUDENCIAL. INVIABILIDADE. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - Os embargos de declaração não constituem via processual idônea para analisar eventual divergência entre o entendimento adotado no acórdão embargado e o de outros julgados.
+IV - Não compete a esta Corte Superior a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal, ex vi art. 102, III, da Constituição da República.
+V - Embargos de declaração rejeitados (EDcl no REsp. 1.530.017/PR, Rel. Min. REGINA HELENA COSTA, DJe 27.11.2017).
+
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos declaratórios são cabíveis quando houver contradição nas decisões judiciais ou quando for omitido ponto sobre o qual se devia pronunciar o juiz ou tribunal, ou mesmo correção de erro material, na dicção do art. 1.022 do CPC vigente, algo inexistente no caso concreto.
+2. Ao contrário do que pretende fazer crer a parte embargante, não se verifica a suscitada omissão ou erro material, uma vez que ficou devidamente consignado na decisão embargada a aplicação do verbete sumular 182/STJ.
+3. O não conhecimento do recurso na espécie, com fundamento no óbice imposto pela Súmula 182/STJ, impede o exame das respectivas questões de mérito. Não há falar, portanto, em omissão ou contradição quanto à análise das matérias suscitadas pela embargante.
+4. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Embargos de declaração rejeitados (EDcl no AgInt no AREsp. 1.001.828/SP, Rel. Min. OG FERNANDES, DJe 23.6.2017).
+5. Ante o exposto, rejeitam-se os Embargos de Declaração da UNIÃO.
