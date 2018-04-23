@@ -1,0 +1,22 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PEDIDO DE REVISÃO DE ATO ADMINISTRATIVO INDEFERIDO POR EXCLUSIVO FUNDAMENTO DE PRESCRIÇÃO. NORMA ESTADUAL COM PRAZO DIVERSO DO ESTABELECIDO NO ARTIGO 1º DO DECRETO Nº 20.910/32. INTERPRETAÇÃO DE DIREITO LOCAL. IMPOSSIBILIDADE. SÚMULA Nº 280/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO AMAZONAS, com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça daquele Estado, nesses termos ementado:
+APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. PEDIDO DE REVISÃO DE ATO ADMINISTRATIVO INDEFERIDO POR EXCLUSIVO FUNDAMENTO DE PRESCRIÇÃO. NORMA ESTADUAL COM PRAZO DIVERSO DO ESTABELECIDO NO ARTIGO 1º DO DECRETO Nº 20.910/32. PREVALÊNCIA DA NORMA ESPECIAL SE MAIS BENÉFICA AO CIDADÃO. SENTENÇA DE PRIMEIRO GRAU EM DISSONÂNCIA À JURISPRUDÊNCIA DO STJ. RECURSO CONHECIDO E PROVIDO.
+Sustenta a parte recorrente que o acórdão estadual contrariou as disposições dos art. 1º do Decreto nº 20.910/1932.
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Para o Tribunal a quo, há norma local, especial, que afasta a aplicação do Decreto nº 20.910/1932.
+Desse modo, a querela não pode ser objeto do recurso especial (cf., por analogia, a Súmula nº 280/STF).
+Sobre a matéria, cito:
+PRESCRIÇÃO. INDENIZAÇÃO. ABATE. ANIMAIS. Cuida-se do prazo prescricional da ação em que se pleiteia indenização em razão do abate de animais doentes, destruição de coisas ou construções rurais por interesse da defesa sanitária animal ou salvaguarda da saúde pública. No caso, o princípio da especialidade (lex specialis derogat legi generali) afasta a aplicação da regra geral de prescrição quinquenal no Direito Administrativo (art. 1º do Dec. n. 20.910/1932), pois prevalece o disposto no art. 7º da Lei n. 569/1948, com a redação dada pela Lei n. 11.515/2007, que fixa o prazo prescricional em 180 dias da data em que houve o sacrifício ou destruição. Precedente citado: RMS 21.066-PE, DJe 29/9/2008. REsp 1.184.775-PR, Rel. Min. Luiz Fux, julgado em 4/5/2010. (Informativo nº 0433/STJ).
+ADMINISTRATIVO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. PENSÃO POR MORTE. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. PRAZO PRESCRICIONAL. PREVALÊNCIA DE NORMA ESPECIAL. LEI ESTADUAL N. 10.177/98. IMPOSSIBILIDADE DE ANÁLISE. SÚMULA N. 280/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
+I -  .. .
+II - Em razão do princípio da especialidade no conflito aparente de normas, as leis especiais sem sobrepõem às leis gerais. Assim, afasta-se a aplicação do Código Civil quando houver lei específica sobre a matéria, no caso dos autos, a Lei Federal n. 9.784/99 e Lei Estadual n. 10.177/98.
+III - Assim, quanto ao transcurso ou não do prazo prescricional para se ajuizar a ação anulatória, faz-se necessária a análise das regras expedidas pela Lei Estadual n. 10.177/98, o que é vedado ante o óbice do enunciado n. 280 da Súmula do STF, aplicado ao caso por analogia, de acordo com o qual "por ofensa a direito local não cabe Recurso Extraordinário". Precedentes: AgRg no AREsp 783.801/SP, Rel. Ministra Diva Malerbi (desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 17/12/2015, DJe 10/2/2016; AgRg no AREsp 725.196/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 20/8/2015, DJe 1º/9/2015; AgRg no Agravo em Recurso Especial 120.788/SP, Rel: Min. TEORI Albino Zavascki, julgado em 5/6/2012, DJe 14/6/2012; e AgRg no Resp 796.370/SP, Rel. Ministro Og Fernandes, Sexta Turma, julgado em 9/3/2010, DJe 29/3/2010.
+IV - Agravo interno improvido.
+(AgInt no AREsp 905.023/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017)
+Ainda que assim não se entendesse, a Constituição Federal, em seu artigo 102, III, "d", revela a competência do Supremo Tribunal Federal para julgar, em recurso extraordinário, as causas em última instância que julgar válida lei local contestada em face de lei federal.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
