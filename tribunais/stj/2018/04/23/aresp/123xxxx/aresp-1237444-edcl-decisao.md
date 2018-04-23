@@ -1,0 +1,8 @@
+DECISÃO
+TRIBUTÁRIO. INCLUSÃO DE TUST E TUSD NA BASE DE CÁLCULO DO ICMS (TEMA 986 - EREsp. 1.163.020/RS, REsp. 1.699.851/TO, REsp. 1.692.023/MT). DETERMINAÇÃO DE RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 1.040 DO CPC/2015. PLEITO APRECIADO ÀS FLS. 1.080/1.081. EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
+1. O ESTADO DE MINAS GERAIS opõe Embargos de Declaração em que se insurge contra a decisão de fls. 1.065, sustentando que não se aplica o RE 593.824, pois a matéria objeto da presente ação, visa exclusivamente à declaração do direito de não recolher o ICMS sobre a Tarifa de Uso do Sistema de Transmissão (TUST), não tratando da questão relativa ao ICMS sobre demanda contratada de energia elétrica.
+2. Verifica-se que a matéria versada no Apelo Nobre se encontra afetada à 1a. Seção do STJ como representativo da controvérsia e aguarda julgamento do Tema 986 (EREsp. 1.163.020/RS, REsp. 1.699.851/TO, REsp. 1.692.023/MT).
+3. Outrossim, observa-se que estes Declaratórios foram opostos no mesmo dia em que publicada a decisão, fls. 1.080/1.081, que determinou o sobrestamento do feito com base nos Repetitivos acima mencionados.
+4. Observa-se, ainda, que o mencionado Recurso Especial (REsp. 1.163.020/RS), foi objeto de Embargos de Divergência, sendo este e mais outros dois recursos indicados como repetitivos; pelo que, não cabe mais sua aplicação para acolhimento do Recurso Especial do Estado.
+5. Assim, prejudicado está o exame destes Declaratórios, uma vez que quando da apreciação do pedido da parte adversa houve a determinação de sobrestamento às fls. 1.080/1.081.
+6. Publique-se. Intimações necessárias.
