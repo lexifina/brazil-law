@@ -1,0 +1,51 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ATACADAO S.A. contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.EXTINÇÃO DO PROCESSO POR ABANDONO DA CAUSA PELA PARTE EXEQUENTE (ARTIGO 485, III, DO CÓDIGO DE PROCESSO CIVIL). INTIMAÇÃO DO AUTOR A DAR PROSSEGUIMENTO AO FEITO. INÉRCIA. DETERMINAÇÃO REITERADA POR MEIO DE INTIMAÇÃO PESSOAL COM A ADVERTÊNCIA DE EXTINÇÃO DO FEITO NO CASO DE INÉRCIA DO EXEQUENTE. AUSÊNCIA DE MANIFESTAÇÃO. ABANDONO DE CAUSA CONFIGURADO. NULIDADE DA INTIMAÇÃO.INTIMAÇÃO PESSOAL DO AUTOR REALIZADA ATRAVÉS DE CARTA COM AVISO DE RECEBIMENTO ENVIADA AO ENDEREÇO DECLINADO NA EXORDIAL. PRESUNÇÃO DE VALIDADE, AINDA QUE RECEBIDO POR TERCEIRO. TEORIA DA APARÊNCIA. ÔNUS DE PROVAR O CONTRÁRIO QUE INCUMBIA AO AUTOR. SÚMULA Nº 240 DO STJ. INAPLICABILIDADE.EXECUTADO QUE, EMBORA CITADO, NÃO EMBARGOU A EXECUÇÃO E TAMPOUCO APRESENTOU CONTESTAÇÃO.CONTRADITÓRIO NÃO ESTABELECIDO. RECURSO AO QUAL SE TRIBUNAL DE JUSTIÇA. Apelação Cível nº 1.617.713-6. ESTADO DO PARANÁ NEGA PROVIMENTO.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 485, §1º, do CPC. Sustenta que a intimação não pode ser considerada válida, porque não foi recebida por pessoa com poderes para representação da sociedade empresária. Além disso, afirma que a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu.
+Decido.
+2. No tocante à intimação de pessoas jurídicas, o Superior Tribunal de Justiça adota a teoria da aparência, segundo a qual se considera válida a citação feita na pessoa de quem, sem nenhuma reserva, identifica-se como representante da empresa, mesmo sem ter poderes expressos de representação, e assina o documento de recebimento. Nesse sentido, alguns julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. NULIDADE DE CITAÇÃO. NÃO OCORRÊNCIA. APLICAÇÃO DA TEORIA DA APARÊNCIA. PRECEDENTES. LEGITIMIDADE DA PROMISSÁRIA VENDEDORA. NÃO COMPROVAÇÃO DA CIÊNCIA DO CONDOMÍNIO ACERCA DA TRANSAÇÃO IMOBILIÁRIA, BEM COMO DA ALEGADA IMISSÃO NA POSSE PELO PROMISSÁRIO COMPRADOR. RECURSO DESPROVIDO.
+1 - Nos termos da jurisprudência consolidada nesta Corte, é válida a citação realizada na pessoa de quem se apresenta como representante legal da pessoa jurídica, sem fazer nenhuma ressalva quanto à inexistência de poderes para tal. Aplicação da teoria da aparência.
+Precedentes.
+2 - (..)
+5 - Agravo regimental a que se nega provimento.
+(AgRg no REsp 1216422/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/06/2015, DJe 03/08/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PESSOA JURÍDICA. CITAÇÃO. TEORIA DA APARÊNCIA.
+1. Aplica-se a teoria da aparência para reconhecer a validade da citação via postal com AR, efetivada no endereço da pessoa jurídica e recebida por pessoa que, ainda que sem poder expresso para tanto, a assina sem fazer qualquer objeção imediata.
+2. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no Ag 958.237/RS, Rel. Ministro HONILDO AMARAL DE MELLO CASTRO (DESEMBARGADOR CONVOCADO DO TJ/AP), QUARTA TURMA, julgado em 15/12/2009, DJe 02/02/2010)
+AGRAVO REGIMENTAL - AÇÃO MONITÓRIA -PESSOA JURÍDICA - CITAÇÃO - TEORIA DA APARÊNCIA -POSSIBILIDADE - PRECEDENTES - RECURSO IMPROVIDO.
+1. Este Superior Tribunal de Justiça admite que a citação da pessoa jurídica se realize validamente na pessoa daquele que, mesmo sem ter poderes de representação, se apresente como tal, mormente se não há a imediata oposição. Precedentes.
+2. Recurso improvido.
+(AgRg no Ag 989.921/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 21/08/2008, DJe 05/09/2008)
+3. É certo que ficou cristalizado na Súmula 240 do STJ ser indispensável o requerimento do réu, antes da extinção da execução por abandono da causa pela autora.
+Entretanto, na trilha dos precedentes da Súmula 240, a jurisprudência deste Tribunal Superior, buscando o aperfeiçoamento do entendimento sobre a matéria, passou a declarar em seus julgados que a extinção do processo, por abandono da causa pelo autor, necessitaria de requerimento do réu apenas nos casos em que fosse embargada a ação/execução, tendo em vista o fato de não ter havido, ainda, a integração do demandado à lide.
+Dessa forma, consolidou-se o entendimento nesta Casa de que, na hipótese em que a relação processual não tenha se aperfeiçoado, como ocorrer nas execuções não embargadas, a inércia do exequente, após regularmente intimado para promover o andamento do feito, impõe a extinção ex officio da execução, ficando afastada, nesses casos, a exigência prevista na Súmula 240 do STJ.
+Confira:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA A SÚMULA. IMPOSSIBILIDADE. DISSÍDIO NÃO COMPROVADO. EXTINÇÃO DE EXECUÇÃO NÃO EMBARGADA. ABANDONO. SÚMULA N. 240/STJ. INAPLICABILIDADE. DECISÃO MANTIDA.
+1. É descabida a interposição de recurso especial com fundamento em violação de súmula, pois esta não se enquadra no conceito de lei federal.
+2. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da divergência, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos moldes exigidos pelo art. 255, §§ 1º e 2º, do RISTJ.
+3. "A jurisprudência deste Tribunal Superior, aperfeiçoando o entendimento sobre a matéria, entende que a extinção do processo, por abandono da causa pelo autor, necessita de requerimento do réu apenas nos casos em que for embargada a ação/execução, por não ter havido, nesses casos, a integração do requerido à lide, justificando, assim, sua manifestação acerca da extinção" (REsp 1355277/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2015, DJe 01/02/2016.) 4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 995.134/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/10/2017, DJe 06/10/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXTINÇÃO DO PROCESSO.
+ABANDONO DE CAUSA. 1. VALIDADE DA INTIMAÇÃO PESSOAL. ENDEREÇO FORNECIDO PELA AUTORA NA INICIAL. AUSÊNCIA DE INFORMAÇÃO AO JUÍZO DE EVENTUAL MUDANÇA. 2. DESNECESSIDADE DE REQUERIMENTO DO EXECUTADO PARA EXTINÇÃO DA EXECUÇÃO. INCIDÊNCIA DA SÚMULA 83/STJ. 3. ASSERTIVA DE QUE NÃO HOUVE DE DE EFETIVA INTIMAÇÃO. REEXAME DE FATOS E PROVA.
+INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO REGIMENTAL DESPROVIDO.
+1. É válida a intimação da autora promovida no endereço declinado por ela nos autos, a fim extinguir o processo por abandono de causa, porquanto a parte e seu patrono são responsáveis pela atualização do endereço para o qual sejam dirigidas as intimações necessárias, devendo suportar os efeitos decorrentes de sua desídia.
+2. É necessário o requerimento do executado para a extinção da execução somente nos casos em que a execução é embargada.
+3. A assertiva de que não foi efetivada intimação, reclama reexame de prova e fatos, o que é vedado na instância especial pela Súmula 7 desta Corte.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1495046/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/09/2016, DJe 12/09/2016)
+RECURSO ESPECIAL. EXTINÇÃO DA AÇÃO POR ABANDONO DO AUTOR. REGULAR INTIMAÇÃO PARA QUE DÊ ANDAMENTO AO FEITO. NÃO ATENDIMENTO.
+NECESSIDADE DE REQUERIMENTO DO EXECUTADO QUANDO EMBARGADA A EXECUÇÃO. EMBARGOS DO DEVEDOR COM TRÂNSITO EM JULGADO. CRÉDITO EXEQUENDO CERTO. EXTINÇÃO SEM REQUERIMENTO, MAS COM CONCORDÂNCIA EXPRESSA DO RÉU EM CONTRARRAZÕES DE APELAÇÃO.
+1. Aplica-se a teoria da aparência para reconhecer a validade da citação via postal com aviso de recebimento (AR), efetivada no endereço da pessoa jurídica e recebida por pessoa que, ainda que sem poder expresso para tanto, a assina sem fazer nenhuma objeção imediata.
+2. Nos termos da Súmula 240 do Superior Tribunal de Justiça, a extinção do processo, por abandono da causa pelo autor, depende de requerimento do réu, tendo em vista a necessidade de ser facultado ao demandado opor-se à extinção da demanda por não ser a ação um direito apenas do autor, mas também parte passiva, em determinadas circunstâncias.
+3. A jurisprudência deste Tribunal Superior, aperfeiçoando o entendimento sobre a matéria, entende que a extinção do processo, por abandono da causa pelo autor, necessita de requerimento do réu apenas nos casos em que for embargada a ação/execução, por não ter havido, nesses casos, a integração do requerido à lide, justificando, assim, sua manifestação acerca da extinção.
+4. Com o julgamento de embargos do devedor, o crédito exequendo apresenta-se estabilizado, sólido, tendo sido com isso satisfeito o direito do executado a ter um julgamento de mérito, ao mesmo tempo que se constata uma situação que apenas excepcionalmente será modificada.
+5. Não pendendo decisão nos embargos de devedor e seguindo a execução seu curso, é de concluir pelo desinteresse do executado nesse prosseguimento e, consequentemente, a desnecessidade de seu requerimento quanto a esse fim.
+6. No caso dos autos, a falta de impugnação da sentença de extinção por parte da executada, e as declarações das contrarrazões, hão de ser encaradas como a vontade de não dar seguimento ao feito, ou seja, como demonstração de desinteresse para continuidade da execução, capaz de suprir o requerimento para a extinção.
+7. Recurso especial a que se nega provimento.
+(REsp 1355277/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2015, DJe 01/02/2016)
+4. No caso, o Tribunal de origem, alinhado à jurisprudência desta Corte, considerou válida a intimação pessoal da sociedade empresária, ao concluir que "a carta de intimação foi remetida ao endereço em que se situa a sede da pessoa jurídica apelante, conforme apresentado na exordial (fl. 02), a qual foi recebida por funcionário da empresa" (fl. 256). Além disso, considerou desnecessário o requerimento do executado, porquanto, embora citado, sequer constituiu procurador nos autos.
+Portanto, não merece acolhida a pretensão recursal.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
