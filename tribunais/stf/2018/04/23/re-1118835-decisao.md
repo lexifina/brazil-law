@@ -1,0 +1,24 @@
+DECISÃO
+    Trata-se de Recurso Extraordinário interposto com base no art. 102, III, da Constituição Federal, em face de acórdão proferido pelo Tribunal Regional Federal da 3ª Região.
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a recorrente sustenta, em síntese, que o julgado ofendeu dispositivos da CF/88.
+    É o relatório. Decido.
+    O apelo não tem chances de êxito. Por sua exatidão, merecem ser adotadas as considerações do Eminente Decano desta CORTE, Min. CELSO DE MELLO (ARE 1.109.672, DJe de 5/3/2018), em caso bem próximo, no qual o INSS também figura como recorrente:
+    “DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Instituto Nacional do Seguro Social – INSS contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 3ª Região, está assim ementado:
+    ‘AGRAVO LEGAL. HIPÓTESE DE APLICAÇÃO DO ART. 557 DO CPC. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. INSS. IPTU. AUSÊNCIA DE DOCUMENTO DE TRANSFERÊNCIA DO COMPRADOR. LEGITIMIDADE DA AUTARQUIA. HONORÁRIOS.’
+    A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal ‘a quo’ teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário em questão revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    ‘Para simples reexame de prova, não cabe recurso extraordinário.’ (grifei)
+    Com efeito, a mera análise do acórdão recorrido torna evidente que o E. Tribunal Regional Federal da 3ª Região, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático- -probatórios, a seguir destacados:
+    ‘Ocorre que não consta dos autos qualquer documento comprobatório de que a propriedade do imóvel foi transferida aos herdeiros do compromissário comprador, qual seja, o registro do instrumento no cartório de registro de imóveis (…).’
+    Cumpre ressalvar, de outro lado, no que concerne à alegada imunidade tributária, que para se acolher o pleito recursal deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se registrar, por relevante, quanto a esse específico ponto, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 742.339-AgR/PR, Rel. Min. DIAS TOFFOLI – ARE 953.751/SP, Rel. Min. EDSON FACHIN – RE 440.657-AgR/MG, Rel. Min. JOAQUIM BARBOSA – RE 943.891-AgR/SP, Rel. Min. ROSA WEBER, v.g.):
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. AUTARQUIA. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA – IPTU. VINCULAÇÃO DO IMÓVEL ÀS FINALIDADES ESSENCIAIS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.’ (RE 378.136-AgR/DF, Rel. Min. CÁRMEN LÚCIA)
+    Vê-se, portanto, que a pretensão deduzida pela parte agravante revela-se processualmente inviável, pois o apelo extremo não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, mostram-se condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.”
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 23 de abril de 2018.
+                Ministro Alexandre de Moraes
+                Relator
