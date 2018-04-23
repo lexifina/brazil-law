@@ -1,0 +1,22 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. CONFISSÃO PARCIAL. NÃO INCIDÊNCIA. PRESENÇA DE MAIS DE UMA CAUSA DE AUMENTO. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. SÚMULA 443/STJ. CONSTRANGIMENTO ILEGAL. OCORRÊNCIA.
+Ordem concedida, nos termos do dispositivo.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Os autos dão conta que o paciente foi condenado à pena de 6 anos e 5 meses de reclusão, em regime fechado, como incurso no art. 157, § 2º, II e V do Código Penal (fls. 12/15 - Processo n. 0000367-74.2014.8.26.0635).
+Tão somente a defesa recorreu, tendo o Tribunal de Justiça negado provimento ao recurso, mantendo a sentença condenatória (fls. 29/33 - Apelação Criminal n. 0000367-74.2014.8.26.0635).
+Daí a presente impetração, em que se alega constrangimento ilegal quanto ao não reconhecimento da confissão espontânea, bem como pelo aumento, desproporcional, da pena, em decorrência do reconhecimento de duas majorantes.
+Postula, então, pela concessão da ordem para que seja afastado o critério aritmético de dosagem da pena; em seguida, requer a readequação da reprimenda para que a terceira fase seja aumentada em apenas 1/3 ante a completa ausência de qualquer ato extraordinário que possa majorar a pena em questão; bem como o reconhecimento da atenuante da confissão (fl. 6).
+Dispensadas as informações, o Ministério Público Federal emitiu parecer pelo não conhecimento do writ, mas pela concessão da ordem de ofício para reduzir ao mínimo legal (1/3), o aumento da reprimenda procedido na terceira fase da dosimetria da pena (fls. 53/59).
+É o relatório.
+Busca a impetração, o reconhecimento da confissão espontânea, ainda que parcial; bem como, seja afastado o aumento de 3/8, na terceira fase da dosimetria da pena.
+Extrai-se do acórdão ora impugnado (fls. 32/33):
+ ..  ser inviável o reconhecimento da circunstância atenuante referida no artigo 65, inciso III, alínea d, do estatuto repressivo: a confissão, para que tenha característica atenuante, deve se apresentar como ato indicativo de lealdade processual: deve traduzir sentimento de arrependimento e se apresentar relevante para a elucidação dos fatos. Por isso, se o réu confessa, vencido por tudo aquilo que o incrimina, sem que seu procedimento se revista desses predicados, indicativos do propósito de prestar um serviço à Justiça e de simplificar a instrução criminal, não incidirá a atenuante em questão. Que não terá aplicação, igualmente, quando de tratar de confissão parcial, como no caso presente, em que [NOME], apesar de admitir a subtração do veículo GM/Celta, placas [PLACA], de São Paulo/SP, nega ter exercido violência física contra o ofendido [NOME] ou restringindo sua liberdade.
+Note-se que o entendimento exarado pelas instâncias ordinárias é dissonante da jurisprudência desta Corte, na qual é firme, de que a confissão espontânea, ainda que parcial, se utilizada para embasar a condenação enseja o reconhecimento da circunstância redutora do art. 65, III, d, do Código Penal (HC n. 243.427/SP, Ministra Marilza Maynard (Desembargadora convocada do TJ/SE), Quinta Turma, DJe 26/04/2013).
+No que se refere às majorantes do roubo, observa-se que o juiz de piso, referendado pela Corte estadual, fixou a fração em 3/8, porque presentes as qualificadoras do concurso de agentes e restrição da liberdade da vítima (fl. 15).
+Verifica-se, pois, que a fração de aumento da pena foi fixada, apenas, pelas quantidades de majorantes imputadas ao sentenciado e, assim decidindo, as instâncias de origem malferiram o disposto na Súmula 443/STJ.
+Desse modo, configurado o constrangimento ilegal deduzido, impõe-se a concessão da ordem, devendo, portanto, ser reduzida ao patamar legal mínimo de 1/3 (um terço).
+Nesse viés, procedendo-se à nova dosimetria, tem-se que a reprimenda básica foi fixada em 4 anos e 8 meses de reclusão; pela atenuante da confissão, reduzo a pena ao mínimo, nos termos da Súmula 231/STJ. Na terceira fase, aumento em 1/3, pelas majorantes, resultando a reprimenda final em 5 anos e 4 meses, 15 dias-multa.
+Mantenho o regime fechado, eis que devidamente fundamentado pelas instâncias ordinárias.
+Ante o exposto, concedo a ordem, para reconhecer a atenuante da confissão, bem como aplicar a fração de 1/3 na terceira fase do cálculo dosimétrico, resultando a reprimenda final em 5 anos e 4 meses de reclusão e 15 dias-multa.
+Publique-se.
