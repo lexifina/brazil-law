@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo (art. 1.042 do NCPC) interposto por OI S.A., contra decisão que negou seguimento ao recurso especial manejado, sob os seguintes fundamentos: a) impossibilidade de análise de violação à Súmula nesta sede recursal; e b) incidência da Súmula n. 7/STJ.
+O recurso especial, fundamentado na alínea "a" do permissivo constitucional, se voltou contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fls. 1.186-1.187, e-STJ):
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. MESMO CONTEÚDO. JULGAMENTO CONJUNTO. CELERIDADE, ECONOMIA PROCESSUAL E DURAÇÃO RAZOÁVEL DO PROCESSO. EXIBIÇÃO DE DOCUMENTOS. POSSIBILIDADE. INAPLICABILIDADE DA SÚMULA 389 DO STJ. PRÉVIO REQUERIMENTO. DESNECESSIDADE. FALTA DE INTERESSE DE AGIR. INOCORRÊNCIA.
+1. Considerando que a matéria discutida no agravo interno é a mesma aventada no agravo de instrumento e diante da manifestação da parte agravada, ambos os recursos podem ser julgados na mesma assentada, com vistas a privilegiar a celeridade, a economia processual e a duração razoável do processo.
+2. O reconhecimento da relação jurídica e a distribuição do ônus da prova são matérias que devem ser discutidas na fase de conhecimento, e não no atual momento processual - qual seja: a liquidação da sentença - quando a exibição dos documentos representa medida necessária à elaboração do cálculo correto, nos exatos termos do artigo 510 do Código de Processo Civil. O comando presente na decisão vergastada, portanto, decorre estritamente da necessidade de que sejam fixados os limites da execução, não se tratando de medida relacionada ao julgamento do mérito da causa.
+3. O direito processual civil é orientado pelo princípio do livre convencimento motivado do magistrado, o que lhe permite, enquanto destinatário da prova, determinar a realização das provas que entender necessárias à sua convicção.
+3. É cediço que existe entendimento consolidado do e. Superior Tribunal de Justiça no sentido de que o pedido de exibição de documentos formulado contra sociedade anônima deve ser precedido de requerimento administrativo e do respectivo pagamento dos custos do serviço. Contudo, tal orientação decorre do julgamento do Recurso Especial Repetitivo n. 982.133, que teve por objeto matéria analisada sob a perspectiva de uma ação cautelar de exibição de documentos, nos termos do artigo 844 do CPC/1973, o que não se verifica no caso vertente, mostrando-se inaplicável à situação.
+5. Agravo interno não conhecido.
+6. Agravo de instrumento conhecido e desprovido.
+Os embargos de declaração opostos pela ora recorrente foram conhecidos e parcialmente providos, sem alteração no julgamento, tão somente para esclarecimentos (fls. 1.215-1.225, e-STJ).
+Nas razões recursais (fls. 1.250-1.269, e-STJ), sustenta a insurgente violação do art. 100, § 1º, da Lei n. 6.404/76, que trata de requerimento administrativo apresentado por acionista, para obtenção de documentos da companhia, mediante pagamento do valor referente à diligência, pois sua inobservância também teria violado a Súmula 389/STJ;
+Foram apresentadas contrarrazões (fls. 1.305-1.310, e-STJ).
+O apelo nobre foi inadmitido na origem (fls. 1.311-1.313, e-STJ), contra o que se voltou o presente agravo, afastando os óbices impostos e pugnando pelo seu processamento.
+Por força de decisão da lavra da Presidência desta Corte, determinou-se a devolução dos autos à origem, para que o recurso permanecesse suspenso até a análise do Tema n. 663/STJ, nos termos dos arts. 1.040 e 1.041 do CPC/1973 (fls. 1.363-1.364, e-STJ).
+O agravado opôs embargos de declaração, os quais foram acolhidos para tornar sem efeito a decisão embargada e determinar a distribuição dos autos para análise do agravo de fls. 1.316-1.331, e-STJ.
+Vieram os autos à esta relatoria.
+É o relatório.
+Decido.
+O recurso especial merece ser provido.
+1. De início, consigne-se que a decisão recorrida foi publicada após a entrada em vigor da Lei n. 13.105 de 2015 (18/03/2015), estando o recurso sujeito aos requisitos de admissibilidade do novo regramento processual, conforme Enunciado Administrativo 3/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, QUARTA TURMA, julgado em 05/04/2016).
+2. Quanto ao mérito da insurgência, referente ao interesse de agir da parte recorrida no pedido incidental de exibição de documentos, merece prosperar a irresignação.
+Observa-se que o acórdão hostilizado adotou entendimento divergente do perfilhado pela pacífica jurisprudência deste Tribunal, tendo em vista o que dispõe a Súmula n. 389 desta Corte, in verbis: "A comprovação do pagamento do  custo do serviço  referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima."
+Com efeito, o artigo 100, § 1º, da Lei n. 6.404/1976 permite que a sociedade anônima exija do interessado valor correspondente ao custo do serviço de fornecimento de certidões sobre dados constantes de livros societários.
+Na esteira desse dispositivo legal, a Segunda Seção desta Corte assentou, em julgamento submetido ao rito dos recursos repetitivos que, se não for demonstrado o requerimento para a obtenção dos documentos, tampouco apresentado o comprovante de pagamento da "taxa de serviço" exigida, carece o autor de interesse de agir para a ação de exibição de documentos.
+Nesse sentido, confira-se o seguinte precedente:
+
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+(REsp 982133/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 10/09/2008, DJe 22/09/2008)
+Ressalte-se que o STJ também aplica o entendimento acima aos pedidos de exibição de documentos feitos, incidentalmente, em ação ordinária de adimplemento contratual. Nesse sentido: AgRg na MC 20.827/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/08/2014, DJe 08/09/2014; Resp 1.422.940 - PR, Min. Moura Ribeiro, in DJ de 11.09.2014; AREsp n. 191.106/RS, Rel. Min. Massami Uyeda, DJ de 3.8.2012; e REsp n. 1.201.249/RJ, Rel. Min. Paulo de Tarso Sanseverino, DJ de 13.6.2012.
+Desse modo, estando o acórdão recorrido em desacordo com o entendimento pacificado nesta Corte Superior, impõe-se a sua reforma, nesse ponto, com o fim de ser cassada a decisão que deferiu o pedido incidental de exibição de documentos.
+3. Do exposto, conheço do agravo (artigo 1.042 do NCPC), para dar provimento ao recurso especial para cassar a decisão que deferiu o pedido incidental de exibição de documentos.
+Publique-se.
+Intimem-se.
