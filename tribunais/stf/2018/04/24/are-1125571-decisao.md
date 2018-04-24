@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do TRF da 1ª Região, assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. ANISTIA. LEI 8878/94. RETORNO. ENQUADRAMENTO COMO ESTATUTÁRIO. DEMISSÃO EM MOMENTO ANTERIOR À EDIÇÃO DA LEI 8.112/90 (ART. 243). IMPOSSIBILIDADE. LEI 8.878/94. READMISSÃO COMO CELETISTA.
+    1. No caso concreto, discute-se sobre o direito de ex-celetista anistiado pela Lei 8878/94, retornar ao serviço público como estatutário, em face da norma do art. 243 da Lei 8112/90, que instituiu a transposição para o regime estatutário - RJU - de todos os servidores públicos pertencentes à Administração Direta, Autárquica ou Fundacional.
+    2. A jurisprudência desta Corte se firmou no sentido de os Empregados públicos anistiados pela Lei 8878/94, por também não implementarem o requisito constitucional de investidura mediante concurso público (art. 37, II, da CF/88), não fazerem jus à admissão no serviço público como estatutários, sendo o art. 243 da Lei nº 8.112/90 aplicável apenas aos funcionários da Administração Direta, Autárquica e Fundacional Precedentes desta Corte e do Superior Tribunal de Justiça. Precedentes desta Corte e do Superior Tribunal de Justiça. Precedente (AC 0005108-19.1999.4.01.3900 / PA, Rel. JUÍZA FEDERAL ADVERCI RATES MENDES DE ABREU, 3ª TURMA SUPLEMENTAR, e-DJF1 p.1446 de 21/09/2012).
+    3. O retorno do anistiado inaugura uma nova relação empregatícia. Os direitos são os verificados ao longo de sua duração. Desconsidera-se o anterior vínculo do anistiado com a Administração Pública. Sendo readmissão, e não de reintegração, afasta-se qualquer possibilidade de reflexos ex tunc ao momento da exoneração do trabalhador, sendo eles devidos a partir do seu efetivo retorno à atividade (Súmula 83/STJ. Agravo regimental improvido".(AgRg no REsp 1443412/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/05/2014, DJe 22/05/2014).
+    4. Apelação desprovida”. (eDOC 9, p. 37)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao arts. 5º, II; 37, I e II e 39, do texto constitucional.
+    Nas razões recursais, alega o recorrente, em síntese, que como os servidores públicos federais submetem-se ao regime jurídico único da Lei 8.112/1990, sua reintegração ao serviço público deve implicar sua vinculação a este regime.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a espécie dos autos, consignou que o recorrente seria vinculado ao regime celetista quando foi desligado, o que deveria determinar seu retorno ao serviço público sob o mesmo regime.
+    Assim, verifico que o acórdão recorrido está em consonância com a jurisprudência desta Corte, que não reconhece a possibilidade de transposição dos anistiados com vínculo celetista para o regime jurídico único, em seu retorno ao serviço público.
+    Nesse sentido, trago precedentes de ambas Turmas deste Tribunal:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. EMPREGADO PÚBLICO ANISTIADO. RETORNO AO SERVIÇO PÚBLICO NO MESMO REGIME JURÍDICO. PRECEDENTES. 1. O Supremo Tribunal Federal firmou o entendimento no sentido de que o retorno de empregado público anistiado ao serviço público, nos termos da Lei nº 8.878/1994, deve ocorrer no mesmo regime em que se encontrava anteriormente ao ato de demissão, dispensa ou exoneração. Precedente. (...)”. (ARE 962518 AgR, rel. Min. Roberto Barroso, Primeira Turma, DJe 22.6.2017)
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. EMPREGADO PÚBLICO REGIDO PELA CONSOLIDAÇÃO DAS LEIS DO TRABALHO – CLT. ANISTIA ADMINISTRATIVA. LEI 8.878/1994. RETORNO AO SERVIÇO PÚBLICO. REINTEGRAÇÃO. REGIME JURÍDICO CELETISTA. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. (...)”. (ARE 967887 AgR, rel. Min. Teori Zavascki, Segunda Turma, DJe 1º.12.2016)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
