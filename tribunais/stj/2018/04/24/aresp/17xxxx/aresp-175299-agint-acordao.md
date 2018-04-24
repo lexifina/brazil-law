@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE RESCISÃO - DECISÃO MONOCRÁTICA QUE ACOLHEU O AGRAVO REGIMENTAL PARA, DE PLANO, DAR PROVIMENTO AO APELO EXTREMO.
+INSURGÊNCIA DA REQUERIDA.
+1. "A simples mudança de entendimento do tribunal de origem acerca de matéria anteriormente apreciada, ausentes erro material, omissão, contradição ou obscuridade, não autoriza a atribuição de efeitos infringentes aos embargos de declaração."(REsp 1523256/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/05/2015, DJe 29/05/2015). 1.1. No caso concreto, o Tribunal local apreciou matéria já decidida no acórdão embargado tendo modificado o entendimento antes adotado, extrapolando os limites dos embargos de declaração, razão pela qual deve ser cassada a referida deliberação, com retorno dos autos à Corte de origem para proferir nova deliberação, nos estreitos limites dos aclaratórios.
+2. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por EMPREND EMPREENDIMENTOS E CONTRUÇÕES S/A em face da decisão acostada às fls. 1068-1073 e-STJ, da lavra deste relator, que deu provimento ao recurso especial da parte adversa, reconhecendo ofensa ao artigo 535 do CPC/1973.
+Em julgamento monocrático, constatou-se que o Tribunal a quo extrapolou os limites dos embargos de declaração, atribuindo indevidos efeitos infringentes aos aclaratórios, apreciando novamente matéria já decidida no acórdão embargado e alterando o entendimento adotado.
+Inconformada, a então recorrida, interpôs o presente agravo interno (fls. 1077-1096 e-STJ) alegando ser inadmissível o recurso especial por incidência das súmulas 5/STJ, 7/STJ e 211/STJ, além de defender o acerto do acórdão impugnado, que estipulou a retenção de 10% dos valores pagos por parte da construtora e estabeleceu o trânsito em julgado como termo inicial dos juros de mora, além de afastar a indenização por benfeitorias. Quanto aos embargos de declaração, defendeu a possibilidade de que lhes seja atribuído efeito infringente. Requereu a reforma do decisum ou a apresentação do feito em mesa.
+Impugnação às fls. 1100-1117 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE RESCISÃO - DECISÃO MONOCRÁTICA QUE ACOLHEU O AGRAVO REGIMENTAL PARA, DE PLANO, DAR PROVIMENTO AO APELO EXTREMO.
+INSURGÊNCIA DA REQUERIDA.
+1. "A simples mudança de entendimento do tribunal de origem acerca de matéria anteriormente apreciada, ausentes erro material, omissão, contradição ou obscuridade, não autoriza a atribuição de efeitos infringentes aos embargos de declaração."(REsp 1523256/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/05/2015, DJe 29/05/2015). 1.1. No caso concreto, o Tribunal local apreciou matéria já decidida no acórdão embargado tendo modificado o entendimento antes adotado, extrapolando os limites dos embargos de declaração, razão pela qual deve ser cassada a referida deliberação, com retorno dos autos à Corte de origem para proferir nova deliberação, nos estreitos limites dos aclaratórios.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pelo recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Este Superior Tribunal de Justiça considera admissível a atribuição de efeitos infringentes a Embargos de Declaração, contudo, essa situação excepcional deve advir do reconhecimento de algum dos vícios elencados no artigo 535 do CPC/1973 (equivalente ao artigo 1.022 do CPC/15) que, por conseqüência lógica, acarrete, invariavelmente, a modificação do julgado.
+Dessa forma, "A simples mudança de entendimento do tribunal de origem acerca de matéria anteriormente apreciada, ausentes erro material, omissão, contradição ou obscuridade, não autoriza a atribuição de efeitos infringentes aos embargos de declaração."(REsp 1523256/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/05/2015, DJe 29/05/2015)
+Nesse sentido, veja-se, ainda, precedente da Corte especial:
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO. OBSCURIDADE, CONTRADIÇÃO E OMISSÃO NÃO VERIFICADA. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO, ASSENTANDO QUE OS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA FIXADOS POR ACÓRDÃO DO STF EM 1985 - ANTES DA VIGÊNCIA DO ESTATUTO DA [OAB] - CONSTITUEM DIREITO AUTÔNOMO DO ADVOGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão ora embargado foi claro ao concluir que os honorários advocatícios de sucumbência fixados por sentença ou acórdão prolatado na vigência do Código de Processo Civil de 1973 e da Lei n. 4.215/1963 - anterior, portanto, à edição da Lei n. 8.906/1994 -, possuem caráter autônomo e integram o patrimônio do advogado, o que lhe assegura o direito de promover, em proveito próprio, a execução.
+3. O intuito da embargante de reverter o resultado do julgamento que lhe fora desfavorável ultrapassa os restritos limites dos embargos de declaração, os quais não permitem a reapreciação da causa, sendo certo que o efeito modificativo pretendido somente é possível em casos excepcionais e uma vez comprovada a obscuridade, contradição ou omissão do julgado, vícios não configurados na espécie.
+4. Embargos de declaração rejeitados.
+(EDcl nos EAg 884.487/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 18/10/2017, DJe 27/10/2017)
+Extrai-se da leitura do acórdão de fls. 678-688 e-STJ, no qual foi julgada a apelação da ora agravante, que a Corte de origem, naquela oportunidade, manteve sentença de procedência do pedido do autor, ora agravado, consoante os seguintes fundamentos:
+(i) a rescisão do contrato de compra e venda de imóvel é cabível quando o comprador não tem mais condições de arcar com o pagamento das prestações;
+(ii) deveria ser aplicada a cláusula 6.3 do termo de ajuste e utilização de financiamento para a construção, que estabelecia o percentual de retenção de 3% (três por cento) em favor da vendedora no caso de rescisão por desistência do comprador. Essa cláusula permitiria ao comprador "desistir da compra do imóvel, no prazo previsto, mas não há qualquer ressalva sobre o fato de o mesmo desistir após esse prazo, nem há nos autos qualquer notificação ou interpelação por parte da apelante ao apelado, para fazê-lo cumprir o pactuado, mas apenas alega que fez inúmeras tentativas amigavelmente para resolver a pendência (fls. 120 da contestação), sendo irrelevante a inobservância deste prazo, desde quando não se operou a prescrição para a ação. Ademais, também tinha a apelante o prazo de sessenta dias para devolver os valores pagos." ( fls. 684-685 e-STJ).
+(iii) não havia prova de que o comprador houvesse residido no imóvel por longo período. O contrato de locação não seria suficiente para justificar a taxa de fruição;
+(iv) o autor teria comprovado os gastos com as benfeitorias alegadas, inexistindo prova no sentido de serem essas de natureza voluptuária.
+(v) impossibilidade de aplicação de multa contratual, uma vez ausente previsão de penalidade na avença.
+Nos embargos de declaração opostos pela vendedora (fls. 691-710 e-STJ), foram aduzidas omissões quanto:
+(i) à existência de notificação encaminhada pela vendedora ao comprador, uma vez que as comunicações realizadas teriam colocado o comprador em mora;
+(ii) à inaplicabilidade da cláusula 6.3 do contrato ao caso e a necessária adequação da decisão à jurisprudência deste Tribunal superior, considerando o tempo entre o inadimplemento e a resolução do contrato;
+(iii) à comprovação de que o comprador estava na posse do bem;
+(iv) ao termo inicial dos juros; e
+(v) ao ônus da comprovação da natureza das benfeitorias.
+A Corte estadual acolheu parcialmente os aclaratórios. Essencialmente, o Tribunal a quo justificou os efeitos modificativos da seguinte maneira ( fls. 828-846 e-STJ):
+(i) contradição quanto à existência de notificação, reconhecendo que essa fora realizada;
+(ii) contraditória a aplicação da cláusula 6.3 da avença à situação, haja vista o decurso de tempo entre a expedição do habite-se e a rescisão.
+(iii) necessário esclarecimento quanto os juros de mora, que seriam devidos a partir do trânsito em julgado e quanto à devolução do imóvel à posse da vendedora, consectário lógico da rescisão contratual decretada.
+(iv) Considerou ser ônus do comprador demonstrar a implementação das benfeitorias;
+(v) quanto ao período de fruição, considerou demonstrada a posse e a fruição do bem;
+Da análise acima, depreende-se que a Corte estadual atribuiu efeitos infringentes aos embargos de declaração em situação na qual não se verificaram nenhum dos vícios elencados no artigo 535 do CPC/1973, nem mesmo erro material ou premissa equivocada.
+O Tribunal de origem apenas alterou seu entendimento quanto à aplicabilidade da cláusula contratual, primeiramente admitida, pois independente do transcurso do tempo entre o habite-se e a rescisão, e, depois, rejeitada, em virtude do lapso temporal entre os dois fatos indicados. Igualmente, reconsiderou a decisão quanto à comprovação da posse e das benfeitorias, sem indicar qual seria o erro material ou a premissa fática que permitiram a atribuição de efeitos modificativos aos aclaratórios.
+Desse modo, impôs-se o provimento ao recurso especial para anular o acórdão de fls. 828-846 e-STJ, que julgou os primeiros embargos de declaração bem como os demais atos subsequentes, determinando o retorno dos autos ao Tribunal de origem para que se procedesse a novo julgamento dos aclaratórios de fls. 691-710 e-STJ, observada a estreiteza cognitiva inerente à referida via recursal.
+Restaram prejudicadas, portanto, as demais alegações contidas no recurso especial e discutidas também no agravo interno.
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
