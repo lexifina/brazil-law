@@ -1,0 +1,4 @@
+DECISÃO
+Conforme o reconhecido no julgamento do recurso ordinário, a via do habeas corpus não se coaduna com o pleito de trancamento do processo-crime, salvo quando demonstrada, de forma inequívoca, a carência de justa causa para a persecução penal. No caso, porém, em que pesem os fundamentos deduzidos no bojo das razões recursais, descabe falar em flagrante atipicidade da conduta ou, ainda, em carência de elementos mínimos de convicção a indicar a participação do réu na senda criminosa. Além disso, o acórdão proferido no julgamento do writ originário reconheceu a existência de ação penal em curso na Comarca de Traipu, restando, portanto, evidenciada a instrução deficiente do recurso, já que não restou instruído com cópia da denúncia.
+Ante o exposto, indefiro o pedido de nova análise das razões defensivas.
+Publique-se. Intimem-se.
