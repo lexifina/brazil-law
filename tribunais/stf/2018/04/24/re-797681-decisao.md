@@ -1,0 +1,23 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios (fl. 371, e-STJ, Doc. 8):
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL - RAZÕES DO APELO - PRINCÍPIO DA DIALETICIDADE - VIOLAÇÃO - INEXISTÊNCIA - POLÍCIA MILITAR E CORPO DE BOMBEIROS DO DISTRITO FEDERAL - PRESTAÇÃO DE SERVIÇOS VOLUNTÁRIOS - VÍNCULO EMPREGATÍCIO - RECONHECIMENTO - AUSÊNCIA DE PREVISÃO LEGAL - IMPOSSIBILIDADE.
+    1. Não há violação do princípio da dialeticidade quando os fundamentos da sentença são impugnados nas razões da apelação e a matéria constante do recurso não é dissociada do provimento judicial proferido em primeira instância.
+    2. A Lei 10.029/00, ao disciplinar a prestação de serviços voluntários, não prevê a possibilidade de reconhecimento de vínculo empregatício, circunstância que impossibilita a percepção de verbas rescisórias em decorrência do exercício da atividade.
+    3. Os diplomas legais editados pelo Poder Público gozam da presunção de legitimidade e constitucionalidade, razão pela qual o ajuizamento de ação direta de inconstitucionalidade pendente de julgamento pelo Supremo Tribunal Federal não afasta a incidência da norma.
+    4. Negou-se provimento ao recurso.”
+     No Recurso Extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, alega-se violação aos arts. 7º e 37 da CF/88.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar formal e motivadamente a preliminar de repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    Ademais, o Tribunal de origem, interpretando a legislação infraconstitucional pertinente (Lei 10.029/2000, Lei Distrital 3.394/2004 e Decreto Distrital 28.362/2007), entendeu que a contratação de prestadores de serviço voluntários com base na Lei 10.029/2000 não gera o direito ao pagamento de verbas rescisórias em face da ausência de previsão normativa nesse sentido.
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas indicadas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Ademais, a solução dessa controvérsia, depende, também, da análise da legislação local, o que é incabível em recurso extraordinário, conforme consubstanciado na Súmula 280/STF: Por ofensa a direito local não cabe recurso extraordinário.
+    Em caso idêntico, cite-se a seguinte decisão monocrática, já transitada em julgado: ARE 846191/DF, Rel. Min. ROSA WEBER, DJe de 3/11/2014.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o julgado recorrido foi publicado antes da vigência da nova codificação processual.
+    Publique-se.
+    Brasília, 24 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+  Documento assinado digitalmente
