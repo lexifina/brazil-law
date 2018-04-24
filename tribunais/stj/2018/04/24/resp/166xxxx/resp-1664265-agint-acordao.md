@@ -1,0 +1,48 @@
+EMENTA
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA. CONDENAÇÃO FUNDAMENTADA NA EXISTÊNCIA DE CULPA. IMPOSSIBILIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO DOLO GENÉRICO. VOTO REVISOR. OBTER DICTUM NÃO INTEGRA AS RAZÕES DE DECIDIR.
+1. A jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que os atos de improbidade administrativa descritos no artigo 11 da Lei nº 8429/92 dependem da presença do dolo genérico, não obstante dispensarem a demonstração da ocorrência de dano para a Administração Pública ou enriquecimento ilícito do agente.
+2. Dessa orientação divergiu o acórdão recorrido, na medida em que, não obstante a ausência de demonstração do elemento subjetivo doloso, determinou a condenação do recorrente tão somente com fundamento na culpa.
+3. A fundamentação adotada pelo Desembargador Revisor - no sentido de que a existência do dolo estaria caracterizada - configuraram apenas obter dictum, não integrando, portanto, as razões de decidir do órgão colegiado local.
+4. Eventual contradição entre os votos proferidos na instância de origem deveria ter sido suscitada no momento adequado, a fim de restar sanada qualquer dúvida acerca do elemento subjetivo norteador da conduta perpetrada pela parte acusada, o que não se verificou na hipótese dos autos.
+5. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Ministério Público do Estado de Mato Grosso desafiando decisão pela qual conheci em parte do recurso especial de [NOME], ora agravado, e, na parte conhecida, dei-lhe provimento para afastar a condenação pela prática de ato de improbidade administrativa.
+Na oportunidade, esclareci que, não obstante a ausência de demonstração do elemento subjetivo doloso, o Tribunal de origem determinou a condenação do recorrente tão somente com fundamento na culpa, providência que afronta a jurisprudência deste Superior Tribunal de Justiça, segundo a qual os atos de improbidade administrativa descritos no artigo 11 da Lei nº 8429/92 dependem da presença do dolo genérico.
+A referida decisão foi assim fundamentada (fls. 782/787):
+Trata-se de recurso especial manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado (fl. 607):
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA - FRACIONAMENTO DE CONTRATAÇÃO DE SERVIÇOS DE COLETA DE LIXO PARA FINS DE BURLAR A NECESSIDADE DE PROCEDIMENTO LICITATÓRIO - COMPROVAÇÃO - IMPROBIDADE ADMINISTRATIVA CARACTERIZADA - APLICAÇÃO DE SANÇÃO - OBSERVADO O PRINCÍPIO DA PROPORCIONALIDADE - RECURSO DESPROVIDO.
+O fracionamento de serviços com o intuito de burlar o processo licitatório e o limite legal estabelecido no art. 24, II, da Lei das Licitações - Lei nº 8.666/93, configura-se ato ímprobo, o que justifica a imposição de sanção prevista na Lei nº 8.429/92.
+Opostos embargos declaratórios, foram rejeitados (fls. 671/676).
+A parte recorrente aponta violação aos arts. 9º, 10, 11 e 12, todos da Lei nº 8.429/1992. Sustenta, em síntese, que: (I) a ausência de má-fé na juntada de novos documentos em embargos de declaração enseja na possibilidade de apreciação dos embargos declaratórios, principalmente quando tais documentos servem para desvendar equívocos ou são cruciais para a compreensão da lide; (II) o acórdão proferido por esta Turma merece reforma, pois condenou o recorrente sem a presença do dolo; (III) cada contrato fora na monta de R$ 4.710,00 (quatro mil setecentos e dez reais) e R$ 4.368,00 (quatro mil trezentos e sessenta e oito reais), dentro dos limites de fracionamento estabelecidos por lei; (IV) o recorrente jamais causou ou quis causar prejuízos ao erário publico; (V) se não houve dano ao erário publico, não houve dolo, não há não pode haver infringência aos princípios da administração publica; (VI) não há em se falar em fracionamento de licitacão, se não havia possibilidade de competição na localidade; (VII) os contratos foram devidamente cumpridos em todos os anos, com valores não vultosos; (VIII) em momento algum carrearam aos autos quaisquer provas que demonstrassem o prejuízo ao erário público ou o enriquecimento ilícito; (IX) quanto ao artigo 11 da Lei 8.429/92, que prevê atos de improbidade administrativa que violem os princípios administrativos, deve-se ressaltar a necessidade do dolo para a sua configuração.
+O Ministério Público Federal, em parecer ofertado pelo Subprocurador-Geral da República Mario [NOME], opina pelo não conhecimento do recurso e, caso conhecido, pelo seu desprovimento (fls. 769/780).
+É o relatório. Passo a decidir.
+Inicialmente, convém registrar que, no tocante aos arts. 9º e 10 da Lei nº 8.429/1992, é inadmissível o recurso especial, porquanto apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido.
+No caso, aduz o recorrente, em suma, que, para a configuração do ato de improbidade administrativa, faz-se necessária a demonstração de enriquecimento ilícito e dano ao erário. Contudo, o Tribunal a quo solucionou a controvérsia asseverando que a conduta praticada pelo recorrente estaria enquadrada no art. 11 da Lei de Improbidade Administrativa.
+Assim, os argumentos postos no presente apelo não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nessa linha de raciocínio, confiram-se os seguintes julgados:
+ ..
+Da mesma forma, no que diz respeito à tese de que é possível a juntada de documentos novos no momento da oposição dos embargos de declaração, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo igualmente a incidência da Súmula 284/STF.
+Quanto ao mais, no entanto, tenho que assiste razão ao recorrente.
+Com efeito, a jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que os atos de improbidade administrativa descritos no artigo 11 da Lei nº 8429/92 dependem da presença do dolo genérico, não obstante dispensarem a demonstração da ocorrência de dano para a Administração Pública ou enriquecimento ilícito do agente. No mesmo sentido:
+ ..
+Dessa orientação divergiu o acórdão recorrido, na medida em que, não obstante a ausência de demonstração do elemento subjetivo doloso, determinou a condenação do recorrente tão somente com fundamento na culpa. Veja-se (fl. 612):
+ ..
+Não obstante a ausência de comprovação do agir doloso do apelante assim como o efetivo prejuízo ao erário, devidamente analisado e sopesado pelo magistrado a quo, entendo que a inobservância da legislação com a indevida dispensa do processo licitatório, por si só, caracteriza a sua ação culposa.
+ ..
+Ante o exposto, conheço em parte do recurso especial e, na parte conhecida, dou-lhe provimento para afastar a condenação pela prática de ato de improbidade administrativa.
+Em suas razões recursais, a agravante afirma que o Desembargador Revisor, ao proferir o seu voto, reconheceu de forma expressa a existência do dolo na conduta do agravado.
+Sem impugnação (fls. 800/801).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhida.
+Com efeito, na hipótese do autos, consta da certidão de fl. 602 que a Egrégia Quarta Câmara Cível do Tribunal de Justiça do Estado do Mato Grosso, à unanimidade, negou provimento ao recurso de apelação interposto por [NOME], ora agravado.
+Nessas condições, presume-se que prevaleceram integralmente as conclusões contidas no voto proferido pelo Desembargador Relator do recurso ([NOME]), segundo o qual (fl. 612):
+ ..
+Não obstante a ausência de comprovação do agir doloso do apelante assim como o efetivo prejuízo ao erário, devidamente analisado e sopesado pelo magistrado a quo, entendo que a inobservância da legislação com a indevida dispensa do processo licitatório, por si só, caracteriza a sua ação culposa.
+ ..
+Desse modo, há que se concluir que a fundamentação adotada pelo Desembargador Revisor ([NOME]) - no sentido de que a existência do dolo estaria caracterizada - configuraram apenas obter dictum, não integrando, portanto, as razões de decidir do órgão colegiado local.
+Assim, merece ser mantida a decisão agravada, a qual, considerando que a jurisprudência deste Superior Tribunal de Justiça é firme no sentido de que os atos de improbidade administrativa descritos no artigo 11 da Lei nº 8429/92 dependem da presença do dolo genérico, deu provimento ao recurso especial para afastar a condenação pela prática de ato de improbidade administrativa, em razão da existência de condenação fundamentada tão somente na existência de ação culposa.
+Saliente-se, por oportuno, que eventual contradição entre os votos proferidos na instância de origem deveria ter sido suscitada no momento adequado, a fim de restar sanada qualquer dúvida acerca do elemento subjetivo norteador da conduta perpetrada pela parte acusada, o que não se verificou na hipótese dos autos.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
