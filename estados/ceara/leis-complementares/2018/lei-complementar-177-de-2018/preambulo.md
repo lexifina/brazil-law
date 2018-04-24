@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 177, DE 06.04.18 (D.O. 24.04.18)
+ALTERA DISPOSITIVOS NA LEI COMPLEMENTAR ESTADUAL Nº 06, DE 28 DE ABRIL DE 1997.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
