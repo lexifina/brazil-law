@@ -1,0 +1,49 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. ILEGITIMIDADE ATIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ELSA DE FREITAS (ELSA) propôs ação de adimplemento contratual de complementação de dobra acionária contra a BRASIL TELECOM OI S.A. (OI), julgada improcedente, nos termos do art. 269, I, do CPC/73 (e-STJ, fls. 140/148).
+O relator negou provimento ao recurso de apelação interposto por ELSA, por decisão monocrática (e-STJ, fls. 173/176).
+O Tribunal de origem negou provimento ao agravo regimental de ELSA, em acórdão assim ementado:
+AGRAVO INOMINADO PREVISTO NO § 1o DO ART. 557 DO CPC. DECISÃO MONOCRÁTICA PROFERIDA POR RELATOR QUE NEGOU PROVIMENTO AO RECURSO DA AUTORA. BRASIL TELECOM (OI S/A). INSURGÊNCIA. SUBSCRIÇÃO DE AÇÕES BRASIL TELECOM (OI S/A). ILEGITIMIDADE DA AUTORA. DECISÃO QUE FOI EMANADA EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA EGRÉGIA CORTE E DA CORTE SUPERIOR. DECISUM QUE DEVE SER MANTIDO. RECURSO CONHECIDO E DESPROVIDO (e-STJ, fl. 188).
+Nas razões do recurso especial, interposto com base no art. 105, III, a e c, da Constituição Federal, ELSA aponta violação dos arts. 3º, 267, VI, § 3º, 333, II e 543-C do CPC/73; 6º, VIII, 43 e 47 do CDC; e, 31, §1º e 100, II, da Lei nº 6.404/76, sustentando: (1) o reconhecimento da legitimidade ativa do cessionário, haja vista que, na cessão de crédito, não se exige a anuência do devedor, não sendo, portanto, requisito de existência e validade do crédito cedido, servindo, tão somente, para salvaguardar os direitos do devedor; e, (2) divergência jurisprudencial.
+Não foram apresentadas as contrarrazões (e-STJ, fl. 210).
+O recurso foi admitido na origem (e-STJ, fls. 211/213).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que as disposições do  NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao recurso especial ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da ilegitimidade ativa
+O Tribunal de origem concluiu pela ilegitimidade ativa de ELSA, após a devida instrução processual, nos seguintes termos:
+Isto porque não se vislumbrou nos autos, após a devida instrução processual, a legitimidade ativa da parte, inobstante tenha sido reconhecida em outra demanda, até porque um erro não justifica outro.
+Ao analisar a radiografia de fl. 48, documento que foi juntado aos autos pela própria Autora, ora recorrente, depreende-se que a posição acionária foi transferida à [NOME], não se aferindo legitimidade ativa a autora.
+Como bem salientou a magistrada de piso, "não se nega que o documento acima referido é unilateral. Todavia, o documento foi juntado pela própria parte autora, que deixou de impugnar a tese de ilegitimidade ativa quando da apresentação da réplica. Logo, há que se ter por verdadeiras as informações ali contidas, nos termos do art. 372 do CPC"
+Assim, mesmo que se tenha julgado em ação anterior, direito da demandante a complementação de ações, denota-se pela prova trazida aos autos - pela própria recorrente - que a posição acionária foi transferida a terceira pessoa, não possuindo a recorrente mais ações desde 1998.
+Cumpre salientar que pacificou-se entendimento de que "o cessionário do direito de uso de linha telefônica não possui legitimidade para pleitear a complementação de subscrição de ações, salvo quando lhe forem transferidos todos os direitos e obrigações contratuais" (STJ, AgRg nos EDcl no AgRg no Ag 845681/RS, rei. Min. Paulo de Tarso Sanseverino, j. em 14.9.2010).
+É bom que se diga que a transferência da linha telefônica não acarreta, por via de conseqüência, a das ações dela decorrentes, sendo necessário para tanto contrato de cessão de direitos, sem o qual o novo adquirente não se torna acionista de empresa de telefonia, tampouco legítimo para figurar no polo ativo da demanda (vide: STJ, AgRg no Ag 908764/RS, rei. Min. João Otávio de Noronha, j. em 18.12.2007).
+Assim sendo, mesmo sendo a radiografia, documento produzido de forma unilateral, dá conta de que as ações pertinentes ao contrato telefônico foram transferidas em nome de terceira pessoa estranha à lide, inarredável a conclusão de que o direito de complementação das ações subscritas em quantidade inferior não lhe pertence mais, segundo informação desde 1998.
+Saliente-se, outrossim, que o documento sub examine tem sido admitido por este e outros Tribunais como instrumento hábil a se verificar a situação acionária em casos deste jaez (Confira-se: TJRS, Agravo de Instrumento n. [CPF], rei. Des. Breno Beutler Júnior, j. em 8.3.2013; TJSC, Apelação Cível n. 2012.013995-1, rel.a Des.a Soraya Nunes Lins, j. em 9.8.2012) (e-STJ, fls. 191/192).
+Desta forma, para se chegar à conclusão diversa da que entendeu o eg. Tribunal de origem seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, com respaldo na Súmula nº 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. INVERSÃO DO ÔNUS DA PROVA. ART. 6º, III, DO CDC. REQUISITOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. TAXA PREVISTA NO ART. 100, § 1º, DA LEI N. 6.404/76. INTERESSE DE AGIR. SÚMULA Nº 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. Acerca da matéria referente à inversão do ônus da prova, a alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A eg. Segunda Seção deste Superior Tribunal de Justiça, no julgamento do Recurso Especial Repetitivo n.º 982.133/RS (Rel. Min. Aldir Passarinho Junior, DJe de 22/9/2008), processado nos moldes do art. 543-C do CPC, firmou entendimento de que, nas ações em que se postula a obtenção de documentos com dados societários, para a caracterização do interesse de agir, necessário demonstrar a ocorrência de requerimento formal, na via administrativa, bem como o comprovante de pagamento da taxa de serviço, quando a empresa o exigir (art. 100, § 1º, da Lei n. 6.404/1976). Desconstituir tal premissa demandaria o reexame de acervo fático-probatório.
+4. Agravo regimental não provido.
+(AgRg no AREsp 559.463/RS, da minha relatoria, Terceira Turma, j.10/2/2015, DJe 23/2/2015)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. NÃO COMPROVAÇÃO DA RELAÇÃO CONTRATUAL. ART. 333, I, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. INTERESSE DE AGIR. SÚMULA N. 7/STJ.
+1. Aplica-se o óbice previsto na Súmula n. 211/STJ quando a questão suscitada no recurso especial, não obstante a oposição de embargos declaratórios, não foi apreciada pela Corte a quo.
+2. Aplica-se a Súmula n. 7 do STJ na hipótese em que o acolhimento da tese defendida no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 516.128/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 11/11/2014, DJe 18/11/2014)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. BRASIL TELECOM S/A. PAGAMENTO DA TAXA PREVISTA NO ART. 100, § 1º, DA LEI 6.404/76. DESNECESSIDADE. CONVÊNIO FIRMADO ENTRE A BRASIL TELECOM S/A E O PODER JUDICIÁRIO LOCAL. FUNDAMENTO NÃO ATACADO. SUMULA STF/283. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- Restou consignado no v. Acórdão recorrido ser, no presente caso, inexigível o recolhimento da taxa, uma vez que o pedido administrativo foi formulado na vigência do Convênio firmado entre a Brasil Telecom S/A e o Poder Judiciário local. Tal fundamento não foi impugnado, de forma específica, nas razões do Recurso Especial. A insurgência contra o referido fundamento seria de rigor, ficando inviabilizado o trânsito do Recurso Especial neste ponto, incidindo a orientação da Súmula 283 do Colendo Supremo Tribunal Federal.
+2.- Além disso, a convicção a que chegou o Acórdão quanto ao interesse de agir da parte ora agravada decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz da Súmula 7 desta Corte.
+3.- A agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+4.- Agravo Regimental improvido.
+(AgRg no AREsp 516.122/RS, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. 10/6/2014, DJe 25/6/2014)
+(2) Do dissídio jurisprudencial
+Quanto ao dissídio interpretativo invocado, o recorrente limitou-se a transcrever trechos das ementas dos julgados apontados como paradigmas, sem, contudo, realizar o cotejo analítico e demonstrar a similitude fática no escopo de comprovar o dissídio jurisprudencial, não suprindo, dessa forma, o disposto no art. 255, § 2º, do Regimento Interno do STJ.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), NÃO CONHEÇO do recurso especial.
+Advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao possível cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
