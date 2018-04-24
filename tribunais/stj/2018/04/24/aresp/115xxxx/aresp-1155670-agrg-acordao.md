@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO. DECRETO 8.615/2015. INDULTO HUMANITÁRIO. ATENDIMENTO MÉDICO ADEQUADO NO SISTEMA PRISIONAL. REVERSÃO DAS PREMISSAS FÁTICAS. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Nos termos da orientação jurisprudencial desta Corte, O indulto humanitário requer, para sua concessão, a necessária comprovação, por meio de laudo médico oficial ou por médico designado pelo juízo da execução, de que a enfermidade que acomete o sentenciado é grave, permanente e exige cuidados que não podem ser prestados no estabelecimento prisional (RHC 87.697/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/11/2017, DJe 21/11/2017).
+2. Assim, concluindo as instância ordinárias que o agravante tem recebido atendimento médico adequado no estabelecimento prisional, a reversão das premissas fáticas encontra óbice na Súmula 7/STJ.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO NEFI CORDEIRO - Relator:
+Trata-se de agravo regimental interposto por AILTON FANTINATI MARIANO em face de decisão que negou provimento ao agravo em recurso especial pela incidência da Súmula 7/STJ.
+Sustenta, em síntese, que não se busca discutir questões de fato, mas sim que a decisão que negou o indulto ao Agravante contrariou o Decreto nº 8.615/2015 ao exigir requisitos não previstos no decreto para a concessão do indulto (fls. 282/283).
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO NEFI CORDEIRO - Relator:
+A decisão agravada, que merece ser mantida por seus próprios fundamentos, foi assim concebida (fls. 274/276):
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7/STJ e 83/STJ.
+Nas razões recursais, com fulcro no art. 105, III, a, da Constituição Federal, aponta violação do art. 1º, XII, c, do Decreto 8.615/15, ao argumento de que faz jus ao indulto humanitário, uma vez que preenchidos os requisitos legais.
+Defende, ainda, que "restou demonstrada a necessidade de cuidado contínuo que não podem ser prestados no estabelecimento penal, eis que na Penitenciária Estadual de Dourados não há atendimento médico multidisciplinar, não possui atendimento médico 24h, muito menos alimentação adequada para diabéticos. Além disso, não tem condições de oferecer o tratamento adequado ao reeducando" (fl. 163).
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo desprovimento do agravo.
+É o relatório.
+Decido.
+Quanto ao preenchimento dos requisitos legais ao deferimento do indulto, assim concluiu o Tribunal de origem, in verbis (fls. 101/102):
+O agravante sustenta que faz jus ao indulto humanitário, consoante prevê o artigo 1.º, XII, alínea "c" do Decreto n.º 8.172/2013, pois de acordo com a confirmação do perito, é portador de doença que se iniciou provavelmente em 2001, sem qualquer cessação, havendo agravamento da doença ao longo do cumprimento da pena, preenchendo os requisitos impostos pelo decreto.
+O pedido não comporta acolhimento.
+Prevê o artigo 1.º, XII, "c", do Decreto Presidencial n.º 8.172/2013, que assim dispõe:
+"Art. 1º Concede-se o indulto coletivo às pessoas, nacionais e estrangeiras:
+(..) XII condenadas:
+c) acometidas de doença grave e permanente que apresentem grave limitação de atividade e restrição de participação ou exijam cuidados contínuos que não possam ser prestados no estabelecimento penal, desde que comprovada a hipótese por laudo médico oficial ou, na falta deste, por médico designado pelo juízo da execução, constando o histórico da doença, caso não haja oposição da pessoa condenada;"
+Em que pese padecer de doença grave, apresentando quadro de trombose e amputação de membro inferior devido a complicações geradas em razão de diabetes mellitus, constata-se dos autos da execução penal (processo de n. 0000147-50.1999, em trâmite pela 3ª Vara Criminal da comarca de Dourados/MS), que o agravante vem recebendo atendimento médico adequado no estabelecimento prisional.
+Além disso, há nos autos informação de que o agravante tem garantido seu direito a saídas temporárias para consultas médicas especializadas e realização de exames com a frequência necessária. É o que se colhe dos despachos de f. 975, f. 983, f. 990 e f. 1008. Porquanto, mesmo necessitando de permanentes cuidados médicos, recebe do Estado toda assistência à saúde de que precisa.
+Dessa forma, sendo o apenado comprovadamente atendido com regularidade, inviável a concessão do indulto humanitário, tal qual pleiteado pela defesa, vez que não se enquadra na hipótese do artigo 1º, inciso XII, alínea "c", do Decreto 8.615/2015.
+Impende destacar, por fim, que ainda que o agravante esteja cumprindo pena em regime fechado, em estabelecimento prisional, assegura-se-lhe, em caso de emergência e urgência, o direito a ser socorrido ou pelas unidades móveis do SAMU ou pelo Corpo de Bombeiros, e atendimento adequado nos hospitais sempre que necessário.
+São estes os fundamentos pelos quais, contra o parecer, nego provimento ao recurso.
+De fato, rever as conclusões das instâncias ordinárias, a fim de constar o preenchimento dos requisitos para a concessão de indulto, implicaria, no presente caso, rever o conjunto fático-probatório, o que não encontra espaço na via eleita (Súmula 7/STJ).
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. INDULTO HUMANITÁRIO. DECRETO PRESIDENCIAL N.º 8.615/2015. REQUISITO SUBJETIVO NÃO COMPROVADO. DECLARAÇÃO POR ESTA CORTE. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ELEITA. DIVERGÊNCIA JURISPRUDENCIAL. NÃO CONHECIMENTO. INSURGÊNCIA DESPROVIDA. 1. As Instâncias de origem, após o exame dos elementos de convicção existentes nos autos, concluíram que o estado de saúde do reeducando, a despeito de exigir cuidados, não lhe impõe limitações e restrições permanentes e totais, dotadas de tal gravidade a privá-lo por completo de suas atividades cotidianas regulares, incapacitando-o para o cumprimento da pena, não preenchendo, portanto, os requisitos elencados na alínea c do inciso XXX do artigo 1.º do Decreto Presidencial n.º 8.615/2015. 2. Para desconstituir o julgado, no intuito de abrigar o pleito do insurgente de concessão do mencionado beneficio, concluindo que sua doença lhe impõe graves limitações e restrições de participação, que lhe impeçam de cumprir a pena, seria necessário aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via eleita. Óbice do Enunciado n.º 7 da Súmula desta Corte Superior. 3. A jurisprudência deste Sodalício tem entendimento assente no sentido de que "Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissidio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula 7, do STJ também se aplica aos recursos especiais interpostos pela alinea c, do permissivo constitucional" (AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO, Desembargador Convocado do TJ/BA, DJe 30/6/2010).
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1.022.529/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 12/05/2017)
+Ante o exposto, nego provimento ao agravo.
+A decisão recorrida encontra-se em consonância com o entendimento desta Corte de que O indulto humanitário requer, para sua concessão, a necessária comprovação, por meio de " laudo médico oficial" ou "por médico designado pelo juízo da execução", de que a enfermidade que acomete o sentenciado é grave, permanente e exige cuidados que não podem ser prestados no estabelecimento prisional (RHC 87.697/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 14/11/2017, DJe 21/11/2017).
+Assim, concluindo as instância ordinárias que o agravante vem recebendo atendimento médico adequado no estabelecimento prisional, a reversão das premissas fáticas encontra óbice na Súmula 7/STJ.
+Ante o exposto, voto por negar provimento ao agravo regimental.
