@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, suscitado por [NOME] S/A - em recuperação judicial, tendo como suscitados, de um lado, o Juízo da 7ª Vara Empresarial do Rio de Janeiro e, de outro, o Juízo da 34ª Vara Cível de São Paulo, o Juízo da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo e o Centro de Arbitragem e Mediação da Câmara de Comércio Brasil-Canadá.
+Afirma a suscitante que o Juízo da 7ª Vara Empresarial do Rio de Janeiro deferiu, em 27.3.2015, o processamento de seu pedido de recuperação judicial.
+A par disso, informa que Aselco - Indústria, Comércio, Importação e Exportação de Instrumentação Ltda. distribuiu medida cautelar pré-arbitral em face de Consórcio UFN III e Sinopec Petroleum do Brasil Ltda. visando o bloqueio de R$ 7.295.545, 63 (sete milhões duzentos e noventa e cinco mil quinhentos e quarenta e cinco reais e sessenta e três centavos), existentes em contas ali indicadas, ou relativas a recebíveis junto a Petrobrás.
+A suscitante esclarece fazer parte do Consórcio UFN III, na proporção de 65%, razão pela qual as medidas constritivas atingem seu patrimônio.
+As medidas constritivas foram deferidas pelo Juízo da 34ª Vara Cível de São Paulo, porém mostraram-se infrutíferas, pois não foram encontrados valores significativos nas contas da Sinopec, informando a Petrobrás inexistirem recebíveis vinculados às companhias mencionadas.
+A Aselco distribuiu, então, o procedimento arbitral, cobrando os valores cujo bloqueio foi requerido na medida cautelar, relativos a materiais adquiridos para realização da obra UFN III, negócio jurídico que precede o pedido de recuperação judicial, realizado em 2013. O Tribunal Arbitral manteve a decisão cautelar do Juízo cível, sendo expedida carta arbitral, distribuída perante o Juízo falimentar de São Paulo, que determinou o bloqueio de ativos financeiros do Consórcio UFN III e da Sinopec até o montante de R$ 8.268.004,91 (oito milhões duzentos e sessenta e oito mil e quatro reais e noventa e um centavos).
+Sustenta a suscitante que os bloqueios sofridos pelo Consórcio vão lhe atingir, por via reflexa, vez que responsável por 65% das obrigações, conforme termo de constituição do consórcio. Entende, em vista disso, que cabe ao Juízo da recuperação determinar se o crédito da Aselco perante o consórcio se submete ao regime da recuperação judicial.
+Ressalta que os créditos que detém perante a Petrobrás foram incluídos no plano de recuperação judicial, aprovado pelos credores em 28.8.2015 e homologado pelo Juízo em 14.9.2015. Assevera, portanto, ser o Juízo da recuperação judicial competente para a realização de atos executivos.
+Assegura que os Juízos das Varas Cíveis de São Paulo têm decidido no sentido de que fica suspensa a cobrança de 65% dos débitos do Consórcio UFN III, pois trata-se de créditos novados em virtude da recuperação judicial, respondendo pelos 35% restantes a Sinopec. Os valores relativos a quota de 65% devem ser, segundo entende, habilitados na recuperação judicial.
+Requer que: (i) seja declarada a invalidade dos atos praticados pelo Juízo Cível de São Paulo e pelo Tribunal Arbitral; (ii) seja reconhecida a competência do Juízo da 7ª Vara Empresarial da Comarca da Capital do Estado do Rio de Janeiro para decidir e determinar a realização de atos de execução e expropriação para a satisfação de créditos concursais, ainda que cobrados em face do Consórcio UFN III.
+O pedido liminar foi indeferido pela decisão de fls. 298/302 (e-STJ).
+A Galvão Engenharia S.A. opôs embargos de declaração (fls. 325/397, e-STJ).
+O Juízo da 34ª Vara Cível de São Paulo prestou informações à fl. 661 (e-STJ), o Juízo da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo prestou informações às fls. 644/645 (e-STJ) e o Centro de Arbitragem e Mediação da Câmara de Comércio Brasil-Canadá às fls. 400/401 e 677/679 (e-STJ).
+A Subprocuradoria-Geral da República opina pelo não conhecimento do conflito de competência, em parecer assim sintetizado:
+"- Conflito positivo de competência.
+- As medidas constritivas deferidas pelo MM. Juízo de Direito da 34ª Vara Cível do Foro Central de São Paulo - SP mostraram-se infrutíferas, já que não foram encontrados valores significativos nas contas da Sinopec, informando, ainda, a Petrobrás, não haver créditos em nome dos requeridos.
+- O MM. Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo - SP informou, à fl. 644, ter o bloqueio de bens pelo Sistema Bacenjud resultado negativo.
+- Parecer pelo não conhecimento do conflito de competência" (fls. 666/667, e-STJ).
+É o relatório.
+DECIDO.
+O conflito positivo de competência ocorre quando dois ou mais Juízos se declaram competentes para o julgamento da mesma causa, ou quando proferem decisões incompatíveis entre si acerca do mesmo objeto.
+O presente conflito de competência foi instaurado em razão de medidas constritivas determinadas pelo Tribunal Arbitral e efetivadas por meio de medida cautelar distribuída ao Juízo da 34ª Vara Cível de São Paulo e, posteriormente, carta arbitral distribuída à 2ª Vara de Falências e Recuperação Judicial de São Paulo, as quais poderiam atingir o patrimônio de sociedade empresária em processo de recuperação judicial.
+Conforme se colhe dos autos, as medidas constritivas determinadas pelo Tribunal Arbitral restaram infrutíferas (fls. 79 e 643/644, e-STJ). Além disso, a Petrobrás informou que não há créditos em favor da sociedade em recuperação.
+Não fosse isso, há informação de que o procedimento arbitral foi encerrado em dezembro de 2017 (fls. 677/679, e-STJ).
+Nesse contexto, não resta configurado o conflito positivo de competência na espécie, pois não há decisões conflitantes acerca do julgamento de uma causa ou do destino de determinado bem. Não havendo, ademais, continuidade do procedimento arbitral.
+Ante o exposto, não conheço do conflito positivo de competência.
+Os embargos de declaração de fls. 325/328 (e-STJ) ficam prejudicados.
+Publique-se.
+Intimem-se.
