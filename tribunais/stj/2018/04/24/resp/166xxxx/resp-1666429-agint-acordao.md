@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. NOMEAÇÃO. LEI 8.666/93. INAPLICABILIDADE. EXCEPCIONALIDADE DO CASO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. "A Lei 8.666/93, que estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, não guarda pertinência com as questões envolvendo concursos para preenchimento de cargos públicos efetivos" (AgRg no REsp 1.292.947/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/02/2016, DJe 24/02/2016).
+2. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por [NOME], desafiando decisão que não conheceu do recurso especial, sob os seguintes fundamentos: (I) que a Lei nº 8.666/93 não guarda pertinência com as questões envolvendo concursos para preenchimento de cargos públicos efetivos; (II) que a alteração das conclusões adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ; e (III) não atendimento às exigências dos arts. 1.029, § 1º do CPC e 255, §§ 1º e 2º do RISTJ quanto à alegada divergência jurisprudencial.
+O agravante, em suas razões, sustenta que houve demonstração concreta e suficiente da violação à norma infraconstitucional, não sendo caso de aplicação da Súmula 7/STJ, tendo em vista o seu direito à nomeação no cargo público.
+As razões do recurso não foram impugnadas (fl. 232).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Conforme asseverado na decisão recorrida, "a Lei 8.666/93, que estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, não guarda pertinência com as questões envolvendo concursos para preenchimento de cargos públicos efetivos" (AgRg no REsp 1.292.947/MG, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 16/02/2016, DJe 24/02/2016).
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONCURSO PÚBLICO. LEI DE LICITAÇÕES E CONTRATOS. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. PRECEDENTES DO STJ.
+1. O art. 41 da Lei 8.666/93 não guarda pertinência temática com os fundamentos adotados pelo acórdão recorrido, pois estabelece normas gerais sobre licitações e contratos administrativos pertinentes a obras, serviços, inclusive de publicidade, compras, alienações e locações no âmbito dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios. Desse modo, aplica-se o óbice previsto na Súmula 284/STF.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.529.923/AC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/08/2015, DJe 24/08/2015)
+Ainda que assim não fosse, colhem-se do acórdão os seguintes fundamentos quanto à excepcionalidade do caso em exame (fls. 156/159):
+O colendo Superior Tribunal de Justiça posiciona-se, atualmente, no sentido de que, os candidatos aprovados no certame, dentro do número de vagas previsto no edital, possuem direito subjetivo à nomeação e posse, pois a Administração fica vinculada à previsão editalícia.
+(..)
+Outro não é o entendimento da Corte Constitucional, que, no RE 598.099/MS, com repercussão geral reconhecida, afirma, dentro do prazo de validade do concurso, a Administração poderá escolher o momento no qual realizará a nomeação dos candidatos aprovados dentro do número de vagas, consoante disposto no edital, que passa a ser um direito do concursado aprovado e, desse modo, um dever imposto ao poder público.
+Todavia, no mesmo julgado, o Supremo Tribunal Federal fez a ressalva no sentido de que, em havendo "situações excepcionais", esse dever imposto pode ser mitigado, observando-se, com isso, o interesse público.
+(..)
+Depreende-se da narrativa dos autos que o Prefeito Municipal de Conceição da Barra, em 2007, atendendo a uma exigência do Ministério Público Estadual (por meio de Termo de Ajustamento de Conduta), deflagrou o edital nº 001/2007, com a previsão de 2 (dois) cargos de Técnico de Raio X, sem a conseqüente nomeação de nenhum dos candidatos aprovados durante o prazo de validade do concurso.
+O Município Apelante, contudo, informa que com a remodelação do quadro de servidores da saúde, influenciada pela política do governo federal, que fixou o hospital de São Mateus como de referência da região, tornou desnecessária a nomeação de mais Técnicos em Raio-X no Município de Conceição da Barra.
+Destarte, se a ampliação do sistema de exames na localidade de Conceição da Barra não foi efetivada em razão de fato alheio à vontade do Administrador local (por uma questão de gestão integrada da saúde pública), em que pese a previsão editalícia, sem a aquisição de nova máquina de Raio-X, evidente é a superveniência de desinteresse da Administração na nomeação de novos servidores municipais para atuar nessa atividade.
+Observe-se que é incontroversa nos autos a falta de nomeação de quaisquer outros servidores, mesmo que em caráter temporário, para os cargos em questão.
+Como se vê, presentes neste caso os requisitos mitigadores do direito subjetivo à nomeação em concurso público (superveniência, imprevisibilidade, gravidade e necessidade), de modo que indevida a manutenção no quadro de servidores de cargos que não tenham demanda correspondente, por tratar-se de situação incompatível com o interesse público e a moralidade administrativa.
+Resta claro, portanto, que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
