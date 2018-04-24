@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão do Tribunal Regional Federal da 5ª Região, que inadmitiu o seu apelo nobre.
+Consta dos autos que o agravado foi condenado à pena de 1 ano, 9 meses e 10 dias de reclusão e pagamento de 52 dias-multa em regime inicial aberto, sendo a pena privativa de liberdade substituída por duas restritivas de direitos, pela prática do crime tipificado no art. 171, § 3º do Código Penal.
+Inconformada, a defesa interpôs recurso de apelação perante a Corte Regional, a qual deu provimento ao recurso para absolver o réu.
+Contra a decisão foi apresentado o Recurso Especial, com fulcro na alínea "a", do inciso III, do art. 105 da Constituição Federal, o qual não foi admitido na origem, com fundamento na Súmula n. 7/STJ.
+No presente recurso, alega o agravante que sua pretensão não demanda a apreciação do conjunto fático-probatório, mas sim a adequada interpretação do dispositivo legal tido por violado.
+Requer o acolhimento do agravo, a fim de que seja admitido e provido o Recurso Especial.
+O Ministério Público Federal manifestou-se pelo desprovimento da insurgência.
+É o relatório.
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que o Recurso Especial interposto, de fato, não merece seguimento.
+Acerca do pedido de restabelecimento da condenação, importante trazer à colação as razões de decidir da Corte Regional no que tange à autoria delitiva, in verbis:
+"Como se observa dos fundamentos do édito condenatório, faz-se presente o dolo.
+Pelo colhido nos autos, o ora apelante teve a seu favor concedido benefício de aposentadoria como rurícola, deferido em 19 de abril de 2006 (cfe. apenso II ao IPL), em momento posterior à aposentadoria compulsória a ele concedida, como servidor público municipal, pela Prefeitura da Cidade do Paulista/PE, com efeitos a partir de 10 de fevereiro de 2006, através de ato datado de 15 de março de 2006 (cfe. fls. 66 do apenso II ao IPL), ou seja, em uma proximidade temporal tal que não impediria a ele, quando da entrevista para a obtenção do benefício previdenciário, responder negativamente ao questionamento de possuir outra fonte de renda (questão VIII - cfe. fls. 37 do adenso II ao IPL).
+Desta forma, ainda que albergue em sua"defesa a tese de desconhecimento da legislação específica, teria ele, sim, consciência de possuir outra fonte de renda - como servidor público municipal, e aquela data aposentado compulsoriamente - e omitiu tal fato quando entrevistado para os fins de obtenção do benefício de segurado especial "rurícola" na Agência da Previdência Social à qual se dirigiu" (e-STJ fls. 369/370).
+Divergindo a respeito da questão, o voto condutor que ensejou a absolvição do agravado apresentou os seguintes fundamentos:
+"Penso que o recurso deva ser provido, com todas as vênias que peço a Sua Excelência, o Relator. A tal conclusão cheguei ouvindo atentamente a transcrição que fez da sentença, no tanto em que ela se reporta aos fatos.
+Gizo, inicialmente, que um benefício previdenciário haver sido deferido em circunstâncias nas quais o segurado não lhe faria jus é, claro, relevante, mas não gera inexorável necessidade de sua condenação por estelionato. A antijuridicidade desta figura criminal demanda, para além disso, o cometimento de engano mediante fraude ou ardil, o que não se verifica com segurança no caso dos autos.
+Deu-se, com efeito, que o segurado (Sr. JOSÉ FERREIRA DE MORAIS), já jubilado pelo RPPS do município de Paulista (PE), apresentou documentação ao INSS postulando nova aposentadoria, agora fundada em labor rurícola em regime de economia familiar, obtendo-a.
+Há, de fato, clara incompatibilidade na percepção cumulada de ambos os benefícios, mas não se demonstrou com segurança que o labor rurícola, documentado nos papéis apresentados ao INSS, não houvesse sido efetivamente realizado (a sugestão é, aliás, diversa).
+A postulação administrativa, então, não partiu de documentos apriorística e demonstradamente falsos. Os fatos documentados, ao revés, apresentados ao crivo do INSS para análise e validação, sugerem ser possível que o órgão previdenciário, conquanto houvesse constatado o labor campesino, lograsse identificar, sem embargo, a existência da outra aposentadoria e, então, por esse motivo jurídico, indeferisse o benefício que lhe fora pretendido.
+Somente no caso da apresentação de documentos sabidamente falsos, simulando realidade além do alcance dos mecanismos naturais de conferência empreendidos pela autarquia previdenciária, é que se poderia falar nas elementares do tipo de estelionato, as quais, no caso, não se podem ter como induvidosamente demonstradas." (e-STJ fl. 372)
+Da leitura dos excertos transcritos, infere-se que o Tribunal de origem, após percuciente reexame do delineamento fático e probatório coligido aos autos, constatou a inexistência de elementos concludentes para embasar o decreto condenatório, nos moldes do art. 171, § 3º do Código Penal.
+Dessa forma, desconstituir o julgado, pela alegação de que a fraude teria ocorrido, no intuito de abrigar o pleito acusatório de condenação, não encontra espaço na via eleita, porquanto seria necessário a este Tribunal Superior aprofundado revolvimento do contexto fático-probatório, providência exclusiva das instâncias ordinárias, incabível em sede de Recurso Especial, conforme já consolidado no Enunciado n. 7 da Súmula desta Corte.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO CONDENATÓRIO. INCURSÃO EM MATÉRIA FÁTICA-PROBATÓRIA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. DECISÃO MANTIDA.
+1. O Tribunal de origem asseverou a insuficiência probatória para condenação pelo crime de estelionato contra a Previdência Social. Desse modo, o pleito de condenação incide na vedação da Súmula 7/STJ, uma vez que a alteração do julgado demandaria o revolvimento dos aspectos fático-probatórios dos autos.
+2. Agravo regimental a que nega provimento.
+(AgRg no AREsp 518850/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/10/2017, DJe 25/10/2017)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DEIXAR DE RESTITUIR AUTOS RECEBIDOS NA QUALIDADE DE ADVOGADO. INSUFICIÊNCIA PROBATÓRIA PARA EMBASAR A CONDENAÇÃO. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Rever o entendimento externado pelas instâncias ordinárias, no sentido da existência de fundamentos aptos a embasar a condenação, implicaria necessário reexame de provas, o que não se admite na via do recurso especial, tendo em vista o óbice da Súmula n. 7 desta Corte.
+2. Agravo regimental improvido.
+(AgRg no AREsp 990527/DF, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Por tais razões, conheço do agravo para não conhecer do Recurso Especial, nos termos do artigo 253, parágrafo único, inciso II, alínea a, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
