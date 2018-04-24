@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Recurso Especial, fundamentado na alínea a do permissivo constitucional, interposto pela FAZENDA NACIONAL, na vigência do CPC/2015, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. INCLUSÃO DE SÓCIO NO POLO PASSIVO. REGISTRO DE DISTRATO. ARTIGO 9º DA LEI COMPLEMENTAR 123/2006. ARTIGO 135, INCISO III, DO CÓDIGO TRIBUTÁRIO NACIONAL. RECURSO DESPROVIDO.
+1. O artigo 9º da Lei Complementar 123/2006 prevê que o sócio ou administrador da microempresa ou empresa de pequeno porte pode solicitar a baixa nos registros dos órgãos públicos, independentemente do pagamento de débitos fiscais (§ 3º), sem prejuízo da responsabilidade solidária dos titulares, sócios e administradores do período dos respectivos fatos geradores (§ 5º).
+2. Ocorre que, mesmo em tal hipótese, essencial, para que se cogite de redirecionamento da execução fiscal, a comprovação da ocorrência das irregularidades previstas no artigo 135 do Código Tributário Nacional, não se equiparando a tanto a mera inadimplência no pagamento dos débitos fiscais. Precedentes.
+3. No presente caso, não se extrai dos autos a efetiva ocorrência de dissolução irregular da empresa, causa que ensejaria o redirecionamento da execução. De fato, como bem salientado pelo MM. Juiz de primeira instância "o registro de distrato na Jucesp foi efetuado em data anterior à constatação do encerramento das atividades da empresa executada, conforme certidão do oficial de justiça", o que restou comprovado neste instrumento, autorizando, assim, a manutenção da decisão recorrida neste ponto. Precedentes.
+4. Agravo interno desprovido" (fls. 170/171e).
+Alega-se, nas razões do Recurso Especial, violação ao art. 135, III, do Código Tributário Nacional. Para tanto, sustenta, in verbis:
+"Ab initio, espaço para o texto legal, artigo 135 do Código Tributário Nacional:
+(..)
+Depreende-se do dispositivo supra transcrito que a responsabilidade dos sócios-gerentes da executada decorre de disposição legal expressa e se verifica toda vez que se deixa de recolher o tributo dentro do prazo estabelecido pela norma tributária.
+No caso vertente, é de rigor a aplicação das disposições do artigo 9º, da Lei Complementar nº 123/2006, que assim prevê:
+(..)
+Neste caso, evidencia-se a necessidade de responsabilizar os sócios que deixaram de cumprir com suas obrigações sociais, implicando o descumprimento dessa obrigação tributária em infração legal a justificar a responsabilização pessoal do representante legal da pessoa jurídica de direito privado, ex vi do disposto no artigo 128, 135 inciso III do CTN e artigo 4º, inciso V da Lei 6830/80.
+Eis os diplomas normativos supra citados:
+(..)
+Por fim, dispõe o artigo 4º, inciso V da Lei 6830/80:
+(..)
+autos.
+Eis a disciplina legal conferida à matéria vertente nos autos.
+Em suma, tanto o Código Tributário Nacional quanto a Lei de Execuções Fiscais, que rege o procedimento da ação de execução fiscal são coincidentes no trato da matéria. Havendo previsão legal expressa para inclusão do sócio no pólo passivo da ação executiva, causa surpresa a interpretação restritiva esposada pelo I. Juízo "a quo", confirmada nesta instância recursal.
+Efetivamente, preenchidos os pressupostos específicos, especialmente, o descumprimento da parte agravada de obrigação tributária acessória, comprovado nos autos por diversas diligências, bem como requerimento expresso da parte autora-exequente), impõe-se a inclusão do sócio no pólo passivo da ação executiva.
+Assim, restou plenamente evidenciado o cabimento do presente Recurso Especial pela letra "a", do inciso III do artigo 105 da Carta Magna, eis que houve violação expressa a dispositivo de lei federal, qual seja, o artigo 135 do Código Tributário Nacional" (fls. 175/177e).
+Requer, ao final, "a admissão do presente Recurso Especial e, após seu processamento regular, o provimento da pretensão recursal perante o Colendo Superior Tribunal de Justiça, de modo a reformar o acórdão recorrido" (fl. 178e).
+Não foram apresentadas contrarrazões (fl. 180e).
+A irresignação não merece acolhimento.
+O Tribunal de origem, para decidir a controvérsia dos autos, deixou consignado, no que interessa:
+"A recorrente pugna pela inclusão dos sócios no polo passivo da execução fiscal, com base no artigo 9º da LC 123/2006.
+Referido dispositivo prevê que o sócio ou administrador da microempresa ou empresa de pequeno porte pode solicitar a baixa nos registros dos órgãos públicos, independentemente do pagamento de débitos fiscais (§ 3º), sem prejuízo da responsabilidade solidária dos titulares, sócios e administradores do período dos respectivos fatos geradores (§ 5º).
+Ocorre que, mesmo em tal hipótese, essencial, para que se cogite de redirecionamento da execução fiscal, a comprovação da ocorrência das irregularidades previstas no artigo 135 do Código Tributário Nacional, não se equiparando a tanto a mera inadimplência no pagamento dos débitos fiscais. Nesse sentido:
+(..)
+No presente caso, não se extrai dos autos a efetiva ocorrência de dissolução irregular da empresa, causa que ensejaria o redirecionamento da execução.
+De fato, como bem salientado pelo MM. Juiz de primeira instância "o registro de distrato na Jucesp foi efetuado em data anterior à constatação do encerramento das atividades da empresa executada, conforme certidão do oficial de justiça de fl. 113" (decisão de primeira instância acostada à f. 133 deste instrumento), o que restou comprovado às f. 119 e 122-1123 deste instrumento, autorizando, assim, a manutenção da decisão recorrida neste ponto. Corroborando o entendimento ora esposado:
+(..)
+Assim, por qualquer ângulo que se analise a questão, tem-se que não deve ser acolhida a pretensão da recorrente. No mesmo sentido, colhe-se o seguinte precedente desta E. Turma:
+(..)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno" (fls. 165/169e).
+Com efeito, o Superior Tribunal de Justiça possui jurisprudência consolidada no sentido de que o redirecionamento da Execução Fiscal, e seus consectários legais, para o sócio-gerente da empresa, somente é cabível quando reste demonstrado que este agiu com excesso de poderes, infração à lei ou contra o estatuto, ou na hipótese de dissolução irregular da empresa.
+Neste sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. REDIRECIONAMENTO DA EXECUÇÃO PARA O SÓCIO-GERENTE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.º 07/STJ. ARTIGO 543-C, DO CPC. RESOLUÇÃO STJ 8/2008. ARTIGO 557, DO CPC. APLICAÇÃO.
+1. O redirecionamento da execução fiscal, e seus consectários legais, para o sócio-gerente da empresa, somente é cabível quando reste demonstrado que este agiu com excesso de poderes, infração à lei ou contra o estatuto, ou na hipótese de dissolução irregular da empresa. Precedentes: RESP n.º 738.513/SC, deste relator, DJ de 18.10.2005; REsp n.º 513.912/MG, DJ de 01/08/2005; REsp n.º 704.502/RS, DJ de 02/05/2005; EREsp n.º 422.732/RS, DJ de 09/05/2005; e AgRg nos EREsp n.º 471.107/MG, deste relator, DJ de 25/10/2004.
+2. In casu, consta da certidão do Oficial de Justiça (fl. 64): "lá encontrei um imóvel abandonado, parcialmente demolido. Indagando no vizinho (..) a mim declarou que a requerida havia se mudado e que desconhecida onde a mesma se encontrava, motivo pelo qual deixei de Citá-la". Em parecer proferido pela procuradoria estadual, consta (fls. 65 e 66, do e-STJ): "A executada foi dissolvida de forma irregular, encerrou suas atividades sem proceder à baixa nos órgãos competentes, deixando em aberto débitos para com o estado, conforme certidão do Sr. Oficial de Justiça."
+3. Nada obstante, a jurisprudência do STJ consolidou o entendimento de que "a certidão emitida pelo Oficial de Justiça atestando que a empresa devedora não mais funciona no endereço constante dos assentamentos da junta comercial é indício de dissolução irregular, apto a ensejar o redirecionamento da execução para o sócio-gerente, a este competindo, se for de sua vontade, comprovar não ter agido com dolo, culpa, fraude ou excesso de poder, ou ainda, não ter havido a dissolução irregular da empresa" (Precedentes:REsp 953.956/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 12.08.2008, DJe 26.08.2008; AgRg no REsp 672.346/PR, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 18.03.2008, DJe 01.04.2008; REsp 944.872/RS, Rel. Ministro Francisco Falcão, Primeira Turma, julgado em 04.09.2007, DJ 08.10.2007; e AgRg no Ag 752.956/BA, Rel. Ministra Denise Arruda, Primeira Turma, julgado em 05.12.2006, DJ 18.12.2006).
+4. Desta sorte, a cognição acerca da ocorrência ou não da dissolução irregular ou de infração à lei ou estatuto pelos aludidos sócios importa no reexame do conjunto fático-probatório da causa, o que não se admite em sede de recurso especial (Súmula nº 07/STJ).
+5. Aplicação do entendimento sedimentado na Súmula n. 83 do STJ, in verbis: "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida".
+6. À luz da novel metodologia legal, publicado o acórdão do julgamento do recurso especial, submetido ao regime previsto no artigo 543-C, do CPC, os demais recursos já distribuídos, fundados em idêntica controvérsia, deverão ser julgados pelo relator, nos termos do artigo 557, do CPC (artigo 5º, I, da Res. STJ 8/2008).
+7. Agravo regimental desprovido" (STJ, AgRg no Ag 1265124/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe de 25/05/2010).
+Na hipótese dos autos, o Tribunal de origem, com base nos elementos de provas constantes dos autos, entendeu não estarem presentes os requisitos autorizadores do redirecionamento da Execução Fiscal.
+Portanto, os argumentos utilizados pelo recorrente somente poderiam ter sua procedência verificada, mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar entendimento diverso do contido na decisão hostilizada, reavaliar o conjunto probatório dos autos.
+Incide, portanto, na espécie, o óbice do enunciado 7 da Súmula desta Corte.
+Nesse sentido, os seguintes precedentes:
+"TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR DA SOCIEDADE NÃO ACOLHIDA PELA INSTÂNCIA ORDINÁRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Consoante a pacífica jurisprudência deste Tribunal, configurada a dissolução irregular, viabiliza-se o redirecionamento da execução.
+2. Na hipótese dos autos, o Tribunal de origem consignou que não restou caracterizada a dissolução irregular, tendo a sociedade devedora sido citada no endereço constante da CDA. Nesse contexto, infirmar as conclusões a que chegou o acórdão recorrido demandaria a incursão na seara fático-probatória dos autos, tarefa essa soberana às instâncias ordinárias, o que impede o reexame na via especial, ante o óbice da Súmula 7 deste Tribunal.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no AREsp 450.992/BA, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/03/2014).
+"TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULA 393/STJ. SÓCIO. REDIRECIONAMENTO. REEXAME DE PROVAS. SÚMULA 7/STJ. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DE APRECIAÇÃO. AGRAVO NÃO PROVIDO.
+1. "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória" (Súmula 393/STJ).
+2. "Para se chegar à conclusão diversa da firmada pelas instâncias ordinárias no tocante ao redirecionamento da execução fiscal em razão do descumprimento ao art. 135, III do CTN pelo sócio-gerente seria necessário o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial" (AgRg no Ag 1.341.069/PR, Primeira Turma, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 15/9/11).
+3. A matéria relativa à prescrição, apesar de ser de ordem pública, não foi enfrentada pelas instâncias ordinárias, restando ausente o indispensável requisito do prequestionamento. Inviável, assim, sua apreciação em sede de recurso especial.
+4. Agravo regimental não provido" (STJ, AgRg no AREsp 430.927/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 06/02/2014).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
