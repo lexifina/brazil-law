@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LUCAS ANTONIEVICZ VASKO, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Paraná.
+O impetrante informa que foi indeferido o pedido de liminar no writ de origem, e requer a revogação da prisão preventiva, sob a alegação de ausência dos requisitos autorizadores dessa medida cautelar, elencados no art. 312 do Código de Processo Penal, bem como excesso de prazo para o julgamento da ação penal. Pede, subsidiariamente, que sejam aplicadas as medidas alternativas à custódia previstas no art. 319 do Código de Processo Penal.
+Sustenta ainda a invasão de domicílio por parte dos policiais que entraram na casa do paciente no período noturno e sem ordem judicial.
+Aponta a ausência de autoria delitiva em relação ao tráfico ilícito de drogas, haja vista que outra pessoa havia deixado a droga na residência do acusado.
+O paciente foi preso em flagrante pelos crimes previstos nos artigos 33, caput, e 35 da Lei 11.343/2006; e, art. 180, caput, do Código Penal - CP.
+É o relatório.
+DECIDO.
+No procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Sobre as demais matérias, destaca-se que a teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão negativa de liminar proferida em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que tão somente em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A liminar foi indeferida nos seguintes termos (fls. 47/48):
+Vistos.
+I - Trata-se de ordem de habeas corpus, com pedido liminar, impetrado pelo advogado [NOME], em favor do paciente LUCAS ANTONIEVICZ VASKO, alegando sofrer constrangimento ilegal por ato do MM. Juiz de Direito da 1ª Vara Criminal de São José dos Pinhais.
+Narra o impetrante, inicialmente, que o paciente está preso há mais de 5 meses, sem que tenha sido encerrada a instrução criminal. Devidamente demonstrado que o paciente está sofrendo coação ilegal com o excesso de prazo em sua indevida prisão cautelar. Diz, ainda, que sua conduta não está pormenorizada nos autos, sendo certo que inexistem fundamentos aptos a ensejar sua prisão cautelar. Aduz, por fim, serem suficientes, em seu caso, medidas cautelares diversas da prisão, já que é primário.
+Na esteira desses argumentos, requer a concessão de liminar com a expedição de alvará de soltura em favor do paciente. Subsidiariamente, pugna pela substituição da constrição cautelar por medida cautelar diversa da prisão. Ao final, pugna pela confirmação da medida.
+É o relatório. Passo a decidir.
+II - A concessão liminar da ordem de habeas corpus supõe, além da comprovação da urgência da medida, a demonstração inequívoca da plausibilidade do direito invocado, requisito este que, no particular, não se faz presente.
+Quanto ao alegado excesso de prazo, conforme iterativa jurisprudência do Tribunais Superiores, não há um lapso temporal legal para que seja ultimada a instrução criminal e a verificação da responsabilidade criminal do agente, e que o prazo para o encerramento da instrução criminal não possui as características de fatalidade e improrrogabilidade, fazendo-se necessário, para aferição da delonga processual desmedida, a utilização de um juízo de razoabilidade a par das peculiaridades que o caso apresenta, não podendo ser aferido o excesso de prazo com sub judice base na mera soma aritmética dos prazos processuais.
+A respeito, leciona Renato Brasileiro de Lima (LIMA, [NOME]. Nova : Prisão Cautelar. Niterói: Impetus, 2011. P. 274)
+ ..
+No presente caso, verifica-se que são quatro denunciados pelo suposto cometimento dos delitos previstos nos artigos 33 e 34 da Lei 11.343/2006, artigo 288 do Código Penal e artigos 12 e 16 da Lei 10.826/2003, o que por certo estendeu a marcha processual, cuja audiência de instrução e julgamento foi designada para o dia 15 de maio de 2018.
+Dito isso, cumpre ressaltar que, nos termos do posicionamento da jurisprudência, o Supremo Tribunal Federal entende que, em análise preliminar de pedido de habeas somente a relevância das questões aventadas, não autoriza a concessão de liminar quando corpus, necessário o exame da pretensão em caráter definitivo.
+"As questões suscitadas, embora relevantes, não evidenciam hipóteses que autorizem, liminarmente, a revogação da prisão preventiva. Consideradas as circunstâncias da causa, (STF - Medida Cautelar o exame da pretensão será feito no momento próprio, em caráter definitivo." no Habeas Corpus 128278/PR - Decisão Monocrática Relator Ministro Teori Zavascki - 25/05/2015)
+Assim, na linha de entendimento da Corte Suprema, acima exposta, observo que, embora pertinentes as questões ventiladas pela impetrante, não vislumbro a possibilidade de concessão, em caráter liminar, da ordem, porquanto nesta estreita via cognitiva não restou demonstrado inequivocamente o alegado constrangimento ilegal, sobretudo diante do entendimento jurisprudencial supracitado, e, ainda, por reputar imprescindível confrontar as alegações trazidas na impetração com as informações pormenorizadas a serem prestadas pela autoridade apontada como coatora.
+Logo, mormente em razão de o objeto da impetração, consistente na suposta ocorrência de excesso de prazo, demandar o exame da pretensão com cognição mais aprofundada, o que será feito após as informações prestadas pelo Juízo em análise conjunta por este Órgão a quo, Colegiado, indefiro o pedido liminar.
+Não é possível analisar o pedido de revogação da prisão preventiva, pois a decisão que decretou essa medida cautelar não se encontra nos autos. Assim, não tem como aferir a presença dos requisitos legais da custódia, elencados no art. 312 do CPP.
+O argumento de invasão do domicílio do paciente também não pode ser conhecido, pois não há cópia do auto de prisão em flagrante.
+Ressalta-se que, em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa.
+Com relação aos prazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal. De efeito, uníssona é a jurisprudência no sentido de que o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal.
+Assim, não se verifica manifesta ilegalidade apta a autorizar a mitigação da Súmula 691 do STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
