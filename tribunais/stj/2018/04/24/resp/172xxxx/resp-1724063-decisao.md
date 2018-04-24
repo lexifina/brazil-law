@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por TELEFÔNICA BRASIL S.A., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO - AÇÃO DE COBRANÇA - COMPLEMENTAÇÃO DE AÇÕES - INOCORRÊNCIA DE PRESCRIÇÃO - PRAZO VINTENÁRIO, OU DECENAL, OBSERVADA A REGRA DE TRANSIÇÃO DO ART. 2.028 DO CÓDIGO CIVIL VIGENTE - RESPONSABILIDADE DA EMPRESA PELA SUBSCRIÇÃO DAS AÇÕES NA DATA DA INTEGRALIZAÇÃO - SÚMULA 371 DO STJ - INDENIZAÇÃO SERÁ O RESULTADO DO PRODUTO DA QUANTIDADE DE AÇÕES MULTIPLICADO PELA SUA COTAÇÃO NA BOLSA DE VALORES NO DIA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO - PRECEDENTES - CORREÇÃO MONETÁRIA DEVIDA A PARTIR DE ENTÃO - RECURSO PARCIALMENTE PROVIDO" (fl. 207 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, além de divergência jurisprudencial, a recorrente alega violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigos 489 e 1.022, I e II, do Código de Processo Civil de 2015: o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de enfrentar a seguinte questão: o contrato em apreço teria sido firmado sob o regime da Planta Comunitária de Telefonia (PCT) e não de participação financeira regular, não sendo examinadas as peculiaridades de tal contratação;
+(ii) artigos 7º, 8º, e 170 da Lei nº 6.404/1976: nos contratos de PCT, a integralização ocorria na data da incorporação da rede ao capital social da empresa de telefonia na forma de dação em pagamento. Após aprovação do laudo de avaliação em assembléia, dividindo-se o valor obtido pelos integrantes da comunidade que financiaram a construção da rede junto ao empreendedor privado, chegava-se ao valor da integralização de cada membro, que, posteriormente, era dividido pelo valor patrimonial da ação conforme o balanço aprovado na mesma assembléia. Nesta modalidade, a relação contratual para a construção da rede era estabelecida entre a comunidade interessada e um empreendedor local, por ela escolhido; e
+(iii) artigo 884 do Código Civil: "imprescindível o respeito a todos os eventos societários para se chegar ao número correto de ações a serem indenizadas, sob pena de a parte exequente buscar vantagem indevida" (fl. 257 e-STJ).
+ É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão merece acolhimento no tocante à alegada negativa de prestação jurisdicional.
+Compulsando os autos, verifica-se que, não obstante a oposição de embargos declaratórios, permaneceu silente a Corte local quanto ao requerimento de manifestação expressa acerca da legitimidade do critério de apuração de ações sob o regime PCT, nos termos dos arts. 7º, 8º e 170 da Lei nº 6.404/1976.
+O não enfrentamento pela instância ordinária da matéria ventilada nos embargos de declaração e imprescindível à solução do litígio implica violação ao artigo 1.022 do Código de Processo Civil de 2015, tanto que, nos termos da Súmula nº 211/STJ, revela-se inadmissível o recurso especial que, a despeito da oposição de embargos, trate de tema não analisado pela instância local, porquanto ausente o requisito do prequestionamento.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 CONFIGURADA. OMISSÃO QUANTO A ASPECTO FÁTICO RELEVANTE PARA O DESLINDE DO FEITO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questão relevante apontada em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo o recurso especial ser provido para anular o acórdão, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento" (AgInt no AREsp 1.113.795/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/3/2018, DJe 15/3/2018).
+Solução nesse sentido torna prejudicadas as demais questões suscitadas no recurso especial.
+Ante o exposto, dou provimento ao recurso especial para determinar a devolução dos autos ao Tribunal de origem para que realize novo julgamento dos embargos de declaração de fls. 219/228 e-STJ, no tocante ao ponto específico das peculiaridades do contrato da Planta Comunitária de Telefonia (PCT) .
+Publique-se.
+Intimem-se.
