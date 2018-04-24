@@ -1,0 +1,6 @@
+DECISÃO
+Inicialmente destaca-se que na data de 7/5/2012 (fl. 42), determinei a baixa do presente agravo de instrumento para que o Tribunal de origem observasse os ditames da Lei 12.322/2010.
+Ocorre, que, à fl. 418, a Secretaria Judiciária desta Corte informa que "à vista do Ofício de fl. 47, que renovou a solicitação de envio do feito principal para julgamento, que, salvo melhor juízo, a r. decisão de fl. 42 já restou cumprida, eis que os autos em questão foram recebidos no STJ em 26/7/2012 e, autuados como AREsp 206.639 (2012/01508054), foram encaminhados a V. Exa., que, por decisão publicada em 10/8/2012, conheceu do agravo para desde logo negar seguimento ao recurso especial, sendo certo que tal decisão transitou em julgado, com a baixa do feito ao tribunal e origem (TJ/RJ) em 28/08/2012".
+Evidenciado, assim, tratar-se o Ag 1.422.912/RJ e o AREsp 206.639/RJ de recursos idênticos, mas equivocadamente autuados em duplicidade, bem como que a controvérsia neles versada encontra-se definitivamente julgada por esta Corte no bojo do AREsp 206.639/RJ, com decisão já transitada em julgado, impositivo o reconhecimento da prejudicialidade do Ag 1.422.912/RJ.
+Ante o exposto, julgo prejudicado o presente agravo de instrumento.
+Publique-se. Intimem-se.
