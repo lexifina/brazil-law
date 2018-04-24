@@ -1,0 +1,35 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] DUNDES contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA R. DECISÃO PELA QUAL FOI DETERMINADA PENHORA SOBRE 10% DO FATURAMENTO BRUTO DA EXECUTADA ALEGAÇÃO DE INCORREÇÃO - PEDIDO DE REFORMA ACERTO DA R. DECISÃO AGRAVADA POSSIBILIDADE DE PENHORA DO FATURAMENTO PERCENTUAL FIXADO EM 1º GRAU QUE NÃO SE MOSTRA EXCESSIVO MANUTENÇÃO DA R. DECISÃO COMO PROFERIDA - RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente violação do art. 866, § 1º, do CPC/1973. Sustenta que a penhora de mais 10% do faturamento da empresa, somada à outra penhora de 30%, inviabiliza a atividade empresarial e configura onerosidade excessiva do executado.
+Decido.
+2. Acerca da viabilidade do exercício da atividade empresarial, o Tribunal de origem assim se pronunciou:
+Diante de tais elementos, é de se dizer que a penhora sobre o faturamento como determinada não implique em desestabilizar financeiramente a empresa do devedor, uma vez que a constrição de mais 10% do faturamento, ainda que somados aos 30% já comprometidos, aparentemente não implique na inviabilidade do exercício da atividade empresarial do recorrente, notadamente porque nada resultou demonstrado nesse sentido, inexistindo, portanto, quaisquer motivos que justifiquem a reforma do entendimento adotado em 1º Grau de Jurisdição.
+Com base em tal realidade, de rigor reconhecer como adequados os termos da R. Decisão proferida, de sorte a ter por regular a penhora promovida nos autos da execução, esta incidente sobre 10% do faturamento da empresa, daí porque deva ser mantido sem retoques o entendimento de 1º Grau, manutenção essa que se dá com base em seus próprios, legítimos, e jurídicos fundamentos.(sem grifos no original)
+Nesse contexto, a pretensão de ver reduzido o percentual da penhora demandaria reexame de provas relativas à onerosidade da execução e à viabilidade da atividade empresarial, o que é vedado pela Súmula 7/STJ.
+Nessa sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENHORA. 10% DO FATURAMENTO.
+1. A pretensão recursal de ver reduzido o percentual da penhora demandaria reexame de provas relativas à onerosidade da execução e à viabilidade da atividade empresarial, o que é vedado pela Súmula 7/STJ e impede o conhecimento do recurso especial. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 750.479/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/09/2015, DJe 18/09/2015)
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. LIQUIDAÇÃO. CÁLCULOS DO CREDOR. MODALIDADE. SÚMULA N. 344/STJ. IMPUGNAÇÃO. COISA JULGADA. ANTERIOR OBJEÇÃO. PENHORA SOBRE O FATURAMENTO. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO.
+1. Não há ofensa ao art. 535 do Código de Processo Civil, pois o Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que o órgão julgador examine uma a uma as alegações e os fundamentos expendidos pelas partes.
+2. O acórdão recorrido não reconheceu a premissa fática segundo a qual a anterior objeção apresentada pelo executado teria sido extinta sem resolução de mérito. Com efeito, o acolhimento da tese recursal, no ponto relativo à não ocorrência de coisa julgada, demandaria reexame de provas, o que é vedado pela Súmula 7/STJ.
+3. "A liquidação por forma diversa da estabelecida na sentença não ofende a coisa julgada" (Súmula n. 344/STJ).
+4. É cabível a penhora sobre o faturamento do devedor. Ademais, saber se a constrição, notadamente quanto ao percentual de bloqueio determinado, ofende o art. 620 do CPC (princípio da menor onerosidade) demanda reexame de provas. Incidência da Súmula 7/STJ.
+5. Nos termos do entendimento firmado em sede de recurso especial representativo de controvérsia (art. 543-C do CPC), não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC (REsp 1.134.186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 01/08/2011, DJe 21/10/2011).
+6. Agravo regimental parcialmente provido.
+(AgRg no AREsp 583.685/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/02/2015, DJe 11/02/2015)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - CUMPRIMENTO DE SENTENÇA - PENHORA DO FATURAMENTO DA SOCIEDADE EMPRESÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DA DEVEDORA.
+1. Nos termos da jurisprudência desta Corte Superior, a penhora sobre renda da empresa somente é cabível excepcionalmente, desde que: i) o devedor não possua bens ou, se os tiver, sejam esses de difícil execução ou insuficientes a saldar o crédito demandado; ii) haja indicação de administrador e esquema de pagamento; iii) que o percentual fixado sobre o faturamento não torne inviável o exercício da atividade empresarial" (AgRg no AgRg no Ag 1421489/RJ, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 17/05/2012, DJe 24/05/2012). Acórdão a quo em consonância com a jurisprudência deste STJ. Incidência da Súmula 83/STJ.
+2. A discussão acerca da inviabilização das atividades da empresa pela constrição de eventuais valores e da moderação do percentual fixado para penhora, reclama o revolvimento do conjunto fático-probatório, o que é vedado em sede de recurso especial, ante o disposto na Súmula n. 7/STJ. Precedentes.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 594.641/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/05/2015, DJe 27/05/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE FATURAMENTO DA EMPRESA. PRINCÍPIO DA MENOR ONEROSIDADE. AUSÊNCIA DE AFRONTA AO ART. 620 DO CPC. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos de prova, concluiu que a penhora sobre 20% do faturamento da empresa não caracteriza violação do princípio da menor onerosidade. Alterar esse entendimento é inviável em recurso especial, ante o óbice da referida súmula. Precedentes.
+3. Agravo regimental a que nega provimento.
+(AgRg no AREsp 389.440/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/11/2014, DJe 28/11/2014)
+Não obstante, cumpre consignar que "a revisão do percentual da penhora poderá ser feita pelas próprias instâncias ordinárias, caso se mostre adequada essa providência, durante a execução." (REsp 1545817/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/04/2016, DJe 27/05/2016)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
