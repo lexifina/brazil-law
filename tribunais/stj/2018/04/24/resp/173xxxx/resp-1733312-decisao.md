@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial, interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJSP assim ementado (e-STJ fl. 340):
+COMPROMISSO DE VENDA E COMPRA DE BEM IMÓVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO.
+1.- Cerceamento de defesa. Não acolhimento. Suficiência da prova documental ao deslinde da controvérsia. Expedição de ofício à CEF para a comprovação de quitação dos encargos objeto da presente insurgência. Desnecessidade. Pagamento demonstrado documentalmente. Correto julgamento antecipado da lide.
+2.- Prescrição. Afastamento da objeção. Discussão alusiva à existência de disposições contratuais abusivas e, consequentemente, na restituição das quantias exigidas com suporte nessas cláusulas. Prazo decenal aplicável à espécie (art. 205, Código Civil). Precedentes.
+3.- Falta de interesse de agir e ilegitimidade passiva. Carência da ação não detectada. Imprescindível necessidade da demanda, inclusive após a insurgência apresentada pela empreendedora. Legitimidade, outrossim, resultante da previsão contratual lançada pela demandada. Questionamento judicial que paira sobre a relação contratual e não sobre o contrato de financiamento estabelecido com a instituição financeira.
+4.- Encargos do financiamento. Verba exigida sem nenhuma demonstração de necessidade. Reconhecimento da sua abusividade, outrossim, por este Tribunal. Devolução das quantias indevidamente cobradas, porém, simples, e não em dobro. Embora indevidas, inexistente a má-fé quando a cobrança foi resultante de expressa previsão contratual. Observância, assim, do enunciado pela S. 159 do E. STF. 5.- Honorários advocatícios ad exitum. Restituição da verba. Possibilidade, em tese. Quantia avençada, entretanto, que ainda não foi desembolsada pelo autor. Dano emergente que deve ser certo e atual. Verba, por ora, indevida. Doutrina e precedente desta Câmara.
+APELO DA ECON PARCIALMENTE PROVIDO, DESPROVENDO-SE O RECURSO DO AUTOR.
+Nas razões apresentadas (e-STJ fls. 598/652), a recorrente aponta, além de dissídio jurisprudencial, ofensa ao art. 206, § 3º, IV, do CC/2002, pois incidiria a prescrição trienal na pretensão de repetição de indébito dos encargos contratuais tidos por abusivos pelo recorrido, ora adquirente imobiliário.
+Aduz afronta ao art. 422 do CC/2002, porque o conteúdo da avença - livremente pactuado - vincularia as partes, sendo, dessa maneira, insuscetível de revisão judicial a cobrança dos encargos previstos na avença.
+Foram apresentadas contrarrazões (e-STJ fls. 389/404).
+O recurso foi admitido na origem (e-STJ fls. 406/408).
+É o relatório.
+Decido.
+Segundo a jurisprudência do Superior Tribunal de Justiça, "o reembolso/devolução/repetição de valores decorrentes da declaração de abusividade de cláusula contratual submete-se ao prazo prescricional trienal previsto no art. 206, § 3º, inciso IV, do Código Civil de 2002, estabelecido para direitos fundados no enriquecimento sem causa, referente às prestações pagas a maior no período de três anos compreendido no interregno anterior à data da propositura da ação" (REsp n. 1.449.289/RS, Relator Ministro LUIS FELIPE SALOMÃO, Relator p/ Acórdão Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/11/2017, DJe 13/12/2017.)
+Na mesma linha:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO.
+PRESTAÇÃO DE CONTAS. PRETENSÃO DE REPETIÇÃO DE INDÉBITO. RESTITUIÇÃO/DEVOLUÇÃO DE VALORES INDEVIDAMENTE APROPRIADOS. LANÇAMENTOS EM CONTA CORRENTE. ENRIQUECIMENTO SEM CAUSA. PRESCRIÇÃO.
+1. O prazo prescricional aplicável à pretensão de restituição dos valores pagos indevidamente (repetição de indébito) é, na vigência do Código Civil de 1916, vintenário, conforme seu artigo 177. Tal prazo foi reduzido para três anos com a entrada em vigor do Código Civil de 2002, de acordo com os artigos 206, § 3º, inciso IV, e 2.028 desse diploma legal. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.089.653/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/3/2018, DJe 5/4/2018.)
+Ainda nesse sentido: REsp n. 1.597.230/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/3/2018, DJe 23/3/2018, e AgRg no AREsp n. 684.437/RS, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/5/2016, DJe 31/5/2016.
+O TJSP aplicou a prescrição decenal na pretensão de reembolso do comprador dos encargos contratuais tidos por abusivos, tendo em vista que (e-STJ fl. 342):
+Sem razão, depois, a alegada ocorrência da prescrição, partindo-se do pressuposto que não se discute a ilicitude extracontratual, nem tampouco a indenização alinhada à esse meio, mas a validade de disposição contratual inserida na avença firmada entre as partes, com a consequente devolução dos valores indevidamente exigidos com suporte à previsão, hipótese em que incide a previsão do art. 205 do Código Civil, segundo reiterado entendimento do C. STJ:
+(..)
+Em tais condições, a decisão da Justiça local dissente do entendimento desta Corte Superior. Assim, impõe-se a devolução dos autos à origem, para a análise da questão à luz da jurisprudência do STJ, isto é, observando-se a prescrição trienal da pretensão de restituição dos encargos contratuais tidos por abusivos.
+Diante da determinação de retorno dos autos  origem, para a análise da prescrição da pretensão de restituição da verba discutida, segundo a jurisprudência desta Corte Superior, fica prejudicada a análise da tese de inexistência de abusividade da cobrança do encargo.
+Diante do exposto, CONHEÇO PARCIALMENTE do agravo e, nesta extensão, DOU PROVIMENTO ao recurso especial, a fim de determinar o retorno dos autos à origem para novo julgamento do recurso de apelação, sob o enfoque da tese jurídica ora delimitada quanto ao prazo prescricional aplicável ao pedido de reembolso dos encargos contratuais tidos por abusivos.
+Publique-se e intimem-se.
