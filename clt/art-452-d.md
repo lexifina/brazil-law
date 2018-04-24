@@ -1,1 +1,0 @@
-Art. 452-D. Decorrido o prazo de um ano sem qualquer convocação do empregado pelo empregador, contado a partir da data da celebração do contrato, da última convocação ou do último dia de prestação de serviços, o que for mais recente, será considerado rescindido de pleno direito o contrato de trabalho intermitente.
