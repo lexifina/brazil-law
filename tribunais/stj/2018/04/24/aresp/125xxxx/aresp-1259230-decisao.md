@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) contra decisão que negou seguimento ao recurso especial, por inexistência de violação de lei federal e incidência das Súmulas n. 7 e 83 do STJ (e-STJ fls. 962/966).
+O acórdão recorrido está assim ementado (e-STJ fl. 847):
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. AÇÃO AJUIZADA NA JUSTIÇA DO TRABALHO. DECLARAÇÃO DE INCOMPETÊNCIA. REMESSA À JUSTIÇA COMUM. POSTERIOR DECRETAÇÃO DE REVELIA. NÃO COMPARECIMENTO DOS RÉUS EM ATO REALIZADO NAQUELA CORTE ESPECIALIZADA. EQUÍVOCO DO JUIZ SENTENCIANTE. CIRCUNSTÂNCIA QUE, NA ESFERA COMUM, NÃO TORNA O RÉU REVEL. REVELIA AFASTADA. RECURSO PROVIDO NESSE ASPECTO.
+AUSÊNCIA DE NULIDADE. PROCESSO INSTRUÍDO COM PARTICIPAÇÃO DOS DEMANDADOS. DIREITO DE DEFESA ASSEGURADO. ALEGAÇÃO DE VIA INADEQUADA. INOCORRÊNCIA. AÇÃO QUE BUSCAVA CONCOMITANTEMENTE ARBITRAMENTO E COBRANÇA DE VERBA PROFISSIONAL. PRELIMINAR AFASTADA. APELAÇÃO CÍVEL E RECURSO ADESIVO. DIREITO CIVIL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIO ADVOCATÍCIO CONTRATUAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DOS RÉUS. INEXISTÊNCIA DE CONTRATAÇÃO. TESE REFUTADA. PRESTAÇÃO DE SERVIÇO AOS DEMANDADOS EVIDENCIADA NOS AUTOS. AMPLITUDE DA ATUAÇÃO. FIXAÇÃO DA VERBA REMUNERATÓRIA. EXEGESE DO § 2º DO ARTIGO 22 DO ESTATUTO DA OAB OBSERVADA. DECISÃO MANTIDA. RECURSO ADESIVO DO AUTOR. ARGUMENTO. PROVA DE LABOR EM MAIS AÇÕES DO QUE AQUELAS RELACIONADAS NA SENTENÇA. PROCEDÊNCIA PARCIAL DO APELO. EXTRATOS DE CONSULTA PROCESSUAL. ELABORAÇÃO DE PEÇAS DEMONSTRADA. SUCUMBÊNCIA PARCIAL MANTIDA.
+No especial (e-STJ fls. 873/897), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes alegaram, além de divergência jurisprudencial, ofensa aos arts. 22 da Lei n. 8906/94 e 330, III, 337, XI, e 485, IV, do CPC/2015, sustentando, em síntese, a inadequação da via eleita, pois "antes de realizar a cobrança de qualquer valor dos recorrentes, por eventual prestação de serviços jurídico, deveria, por primeiro, diante da inexistência de contrato escrito entre as partes litigantes, requerer o ARBITRAMENTO DOS HONORÁRIO" (e-STJ fl. 876).
+No agravo (e-STJ fls. 969/1.009), afirmam a presença de todos os requisitos de admissibilidade do especial.
+O recorrido não apresentou contraminuta (e-STJ fl. 1.019).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 855/856):
+No quadro em voga, todavia, a despeito de ter nomeado a demanda como "Ação de Cobrança de Honorários Profissionais", percebe-se que o também houve pedido expresso de arbitramento dos honorários. Da mesma forma, a lide toda teve como objetivo precípuo permitir ao julgador definir os critérios a serem observados para o arbitramento, o que foi feito na sentença.
+O que se vê, portanto, é que, apesar do equívoco em relação à nomenclatura da ação adotada, que deixou de mencionar expressamente "ação de arbitramento e cobrança", referindo apenas à cobrança, o procedimento necessário ao arbitramento dos honorários foi igualmente conduzido a regularmente pela Magistrada, no curso do processo.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que, apesar de não ter constado o nome "ação de arbitramento", houve pedido expresso de arbitramento de honorários e o procedimento necessário ao arbitramento dos honorários foi devidamente conduzido. Tal ponto, apto, por si só, a sustentar o juízo emitido, não foi rebatido nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, a decisão recorrida está em consonância com a jurisprudência desta Corte, no sentido de que não há impedimento de cumulação de pedido de arbitramento de honorários com pedido de cobrança. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ARBITRAMENTO E COBRANÇA DE HONORÁRIOS. PROCEDÊNCIA PARCIAL. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. ADEQUAÇÃO DA VIA ELEITA. PRECEDENTES. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. Não ocorrência de julgamento extra petita, porquanto o arbitramento dos honorários advocatícios está contido no pedido da autora.
+2. Adequação da via eleita, porque existente contrato verbal com revogação do mandato no curso da ação, resilição unilateral do contrato.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1136582/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
