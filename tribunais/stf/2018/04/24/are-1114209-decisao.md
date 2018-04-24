@@ -1,0 +1,9 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão da 7ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 2, p. 5):
+    “ADMINISTRATIVO. Servidor estadual que exerce atividade insalubre. Dentista. Pretensão à aplicação do art. 57, § 1º, da Lei nº 8.213/91, para efeito de contagem de tempo para aposentadoria especial. Possibilidade. Omissão legislativa já reconhecida em anteriores mandados de injunção. Direito que pode ser reconhecido na presente ação, já que a injunção supre uma omissão legislativa e não uma situação fática. Suprida uma só vez a omissão, é o quanto basta para que o direito então reconhecido se estenda a toda uma categoria, competindo à Administração aferir a situação individual de cada servidor. Aplicabilidade da súmula vinculante nº 33 do STF. Sentença confirmada. Recursos não providos, considerada interposta a remessa necessária.”
+    De plano, verifica-se que esta Corte reputou constitucional a questão e reconheceu a existência da repercussão geral da controvérsia referente à possibilidade de aplicação das regras do regime geral de previdência social para a averbação do tempo de serviço prestado em atividades exercidas sob condições especiais, nocivas à saúde ou à integridade física de servidor público, com conversão do tempo especial em comum, mediante contagem diferenciada (Tema 942), cujo recurso paradigma é o RE-RG 1014286, Rel. Min. Luiz Fux.
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação à sistemática de repercussão geral, nos termos do art. 1.036 do CPC, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 24 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
