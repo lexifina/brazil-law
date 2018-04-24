@@ -1,0 +1,13 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. AÇÃO ACIDENTÁRIA. AGRICULTOR. PERDA DA VISÃO DO OLHO ESQUERDO. PERÍCIA MÉDICA CONCLUSIVA. SEQUELAS QUE IMPLICAM REDUÇÃO DA CAPACIDADE LABORAL. NEXO ETIOLÓGICO COMPROVADO. PREENCHIDO OS REQUISITOS DO ART. 86 DA LEI N. 8213/1991. TRABALHADOR QUE FAZ JUS AO AUXÍLIO-ACIDENTE, A CONTAR DO CANCELAMENTO DO AUXÍLIO-DOENÇA OBEDECIDA A PRESCRIÇÃO QUINQUENAL. JUROS MORATÓRIOS, CORREÇÃO MONETÁRIA, CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS FIXADOS EM CONSONÂNCIA COM ENTENDIMENTO DESTA CÂMARA. SENTENÇA MANTIDA. REMESSA E RECURSO DESPROVIDOS.”
+    O Tribunal de origem acolheu parcialmente os embargos de declaração opostos pela autarquia previdenciária para “reconhecer a aplicação do princípio tempus regit actum, e adequar o julgado para que seja concedido ao embargado o direito à percepção do auxílio suplementar previsto no art. 9º, da Lei n. 6.367/76, no percentual de 20% (vinte por cento) do salário de contribuição, vigente no dia do acidente, não inferior ao salário de benefício”. Veja-se a ementa do julgado:
+    “EMBARGOS DE DECLARAÇÃO. PREVIDENCIÁRIO. AÇÃO ACIDENTÁRIA. AGRICULTOR. ACIDENTE OCORRIDO EM 1990, SOB A ÉGIDE DA LEI N. 6.367/1976. AUXÍLIO-ACIDENTE CONCEDIDO COM BASE NA LEI N. 8.213/1991. INOBSERVÂNCIA DO PRINCÍPIO TEMPUS REGIT ACTUM. REQUISITOS DO ART. 535 DO CPC PREENCHIDOS. EMBARGOS PARCIALMENTE ACOLHIDOS COM EFEITOS INFRINGENTES.
+    ‘Equiparados o empregado rural ao urbano, para efeito de proteção securitária relativa a acidente de trabalho ocorrido após a Constituição de 1988, os benefícios correspondentes também passaram a ser regidos pela legislação acidentária urbana vigente até o início da vigência da Lei n. 8.213/91.’ (Apelação Cível n. 2008.036487-4, Rel. Des. Jaime Ramos).”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 195, § 8º, da Constituição.
+    O recurso extraordinário não deve ser provido. O Supremo Tribunal Federal não admite distinção entre trabalhador rural e urbano para fins de concessão de benefícios previdenciários após o advento da Constituição Federal de 1988. Precedentes: RE 197.516-AgR, Rel. Min. Maurício Corrêa; RE 190.968, Rel. Min. Marco Aurélio; ARE 713.338-AgR, Rel. Min. Ricardo Lewandowski; e ARE 866.541, Rel. Min. Dias Toffoli.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento do recurso.
+    Publique-se.
+          Brasília, 24 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
