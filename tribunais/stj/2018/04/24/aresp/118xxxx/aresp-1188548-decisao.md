@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de agravo (art. 1042, do NCPC), interposto por [NOME] e OUTROS, contra decisão que não admitiu recurso especial (fls. 261/262, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 190, e-STJ):
+REUNIÃO DE SÓCIOS. ALEGAÇÃO DE NULIDADE NA CONVOCAÇÃO. TUTELA ANTECIPADA DEFERIDA. CUMPRIMENTO DO MANDADO APÓS A REALIZAÇÃO DO ATO. AUSÊNCIA DE PEDIDO DE NULIDADE DAS DELIBERAÇÕES. PERDA SUPERVENIENTE DO INTERESSE PROCESSUAL. CARACTERIZAÇÃO. PROCESSO EXTINTO, SEM RESOLUÇÃO DE MÉRITO. RECURSO PREJUDICADO.
+Reunião de sócios. Alegação de nulidade da convocação. Tutela antecipada deferida. Cumprimento do mandado após a realização da reunião. Petição inicial que não contém pedido de invalidade das deliberações. Perda superveniente do interesse processual. Caracterização. Precedente julgamento desta Câmara Empresarial, em caso semelhante e que tramita entre as mesmas partes, no mesmo sentido.
+Extinção do processo sem resolução de mérito. Recurso prejudicado.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, os recorrentes apontam ofensa ao artigo 1022, II, do NCPC.
+Sustentam, em síntese, que o acórdão recorrido foi omisso: i) quanto às alegadas irregularidades praticadas pelo Oficial de Justiça no cumprimento do mandado de intimação, sustentando, no ponto, que, o "Oficial de Justiça não intimou nem citou nenhum dos representantes legais da recorrida, expressamente mencionados na inicial, nem mencionou o horário da intimação, como se verifica da certidão, de fls. 63, vindo a citar uma terceira pessoa, que colocou no mandado que teria recebido a intimação, às 18:56 h" (e-STJ,fl. 218); ii) no que pertine à aplicação dos arts. 1.072, § 5º, e 1.078, § 1º, ambos do Código Civil de 2002, no sentido de que somente as deliberações tomadas de conformidade com a lei vinculam os sócios ausentes; iii) acerca da aplicação dos princípios razoabilidade e da proporcionalidade; e iv) ao deixar de examinar o documento de fls. 133/137, ata da reunião para prestação de constas referente ao exercício sociais de 2000 a 2013.
+Contrarrazões (fls. 243/251, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: i) ausência de violação ao art. 535 do CPC/73; e ii) não houve demonstração das vulnerações legais suscitadas.
+Daí o presente agravo (art. 1042 do NCPC), no qual os agravantes lançam argumentos a fim de combater os retrocitados óbices.
+Contraminuta às fls. 300/304 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Inicialmente, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÃO. INVERSÃO DO ÔNUS DA PROVA E DEVER DE INDENIZAR. REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação ao art. 1.022, I e II, do Novo CPC (art. 535, I e II, do CPC/73). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+ ..
+(AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+CIVIL. PROCESSUAL CIVIL. AÇÃO COMINATÓRIA. VÍCIOS DE CONSTRUÇÃO. OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA O ACÓRDÃO RECORRIDO. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OU OBSCURIDADE. AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 535 DO CPC. FALTA DE INTIMAÇÃO PARA ACOMPANHAR VISTORIA. ART. 431-A DO CPC. PREJUÍZO NÃO DEMONSTRADO. NULIDADE. AUSÊNCIA. DECADÊNCIA. PRAZO. TERMO INICIAL. ART. 618, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL. NÃO OCORRÊNCIA.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+ ..
+(REsp 1296849/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2017, DJe 20/02/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. OFENSA AFASTADA. AVALIAÇÃO DE BEM IMÓVEL PENHORADO. LAUDO PERICIAL. IMPUGNAÇÃO. ALEGADA NECESSIDADE DE NOVA AVALIAÇÃO. NÃO VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PRECEDENTES. AGRAVO NÃO PROVIDO.
+1. Não se verifica a alegada violação ao art. 535 do CPC/73, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida. De fato, inexiste omissão, contradição ou obscuridade no aresto recorrido. Ressalta-se não ser possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional, ou ausência de fundamentação.
+ ..
+(AgInt no AREsp 794.199/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/02/2017, DJe 16/02/2017)
+Aduzem os agravantes a ocorrência de negativa de prestação jurisdicional, ao argumento de que o Tribunal de origem teria sido omisso quanto à aplicação do art. 1.078, § 1º, do Código Civil de 2002, no sentido de que somente as deliberações tomadas de conformidade com a lei vinculam os sócios ausentes; acerca da aplicação dos princípios razoabilidade e da proporcionalidade; e ao deixar de examinar o documento de fls. 133/137.
+Contudo, o Tribunal de origem concluiu pela inexistência de qualquer dos vícios do art. 535 do CPC/73, consignando que "não era o caso de se enfrentar outros dispositivos legais, princípios de Direito ou a prova documental produzida nos autos", pois o mérito da causa não havia sido apreciado.
+Convém colacionar, o seguinte excerto retirado do acórdão que julgou os embargos de declaração (fls. 207/208, e-STJ):
+A decisão recorrida julgou extinto o processo, sem resolução de mérito, pelo reconhecimento de que houve perda superveniente do interesse de agir dos autores do pedido, os ora embargantes.
+Constou na decisão impugnada que "tendo havido a perda superveniente do interesse de agir dos autores, vez que a reunião cuja convocação sustentaram ser inválida efetivamente ocorreu, observando-se que não consta na petição inicial pedido de invalidade das deliberações tomadas, é o caso de se extinguir o processo, sem resolução de mérito, nos mesmos moldes do precedente citado".
+Diante desse quadro, não era o caso de se enfrentar outros dispositivos legais, princípios de Direito ou a prova documental produzida nos autos, vez que não foi julgado o mérito da causa.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. OMISSÃO NÃO CONSTATADA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. A parte embargante, na verdade, deseja a rediscussão da matéria, já julgada de maneira inequívoca. Essa pretensão não está em harmonia com a natureza e a função dos embargos declaratórios prevista no art. 1022 do CPC.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 874.797/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/08/2016, DJe 09/08/2016)
+2. No tocante à alegada omissão do acórdão recorrido quanto às irregularidades praticadas pelo Oficial de Justiça no cumprimento do mandado de intimação, verifica-se que essa tese não foi suscitada nos embargos declaratórios opostos na instância ordinária, somente em sede especial, restando caracterizada indevida inovação recursal, carecendo do adequado prequestionamento, o que atrai a incidência da Súmula 282/STF.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO DE BEM COMUM. SÚMULA 7/STJ E SÚMULAS 282 E 356 DO PRETÓRIO EXCELSO. AGRAVO DESPROVIDO.
+1 - A questão amparada no art. 265, I, do Código de Processo Civil não foi apreciada pelo Tribunal a quo e nem poderia ser por se tratar de inovação recursal alegada apenas nas razões do recurso especial. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do Pretório Excelso.
+2 - No mais, o Tribunal de origem, à vista das circunstâncias fáticas da causa, manteve a sentença que determinou a extinção do condomínio e determinou que o réu, ora agravante, arcasse com os encargos da sucumbência, bem como asseverou não estar preenchidos os requisitos para o reconhecimento da fraude à execução. Assim, o acolhimento das pretensões recursais, como ora perseguido, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+3 - Agravo regimental a que se nega provimento.
+(AgRg no AREsp 43.227/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/08/2014, DJe 04/09/2014)
+Além disso, o acolhimento das razões do recurso especial para concluir-se pela existência falhas no ato de intimação como querem os recorrentes, no sentido de que o oficial de justiça "não intimou nem citou nenhum dos representantes legais da recorrida", bem como "nem mencionou o horário da intimação", demandaria imprescindível a incursão na seara probatória dos autos e a interpretação das cláusulas contratuais, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. ARREMATAÇÃO. NULIDADE DO MANDADO DE CITAÇÃO. ÔNUS DO PROVA. DESÍDIA DO MEIRINHO. PARCELAMENTO. ADESÃO POSTERIOR À ARREMATAÇÃO. IMPENHORABILIDADE DO BEM. SÚMULA 7/STJ. VIOLAÇÃO DO ART. 535 DO CPC INEXISTENTE. DEVIDO ENFRENTAMENTO DAS QUESTÕES RECURSAIS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+1. Inviável o acolhimento da tese de irregularidade no mandado citatório, pois demandaria o reexame de todo o arcabouço fático dos autos, vedado por força da Súmula 7 do STJ.
+2. O art. 333, incisos I e II, do CPC dispõe que compete ao autor fazer prova constitutiva de seu direito; e ao réu, prova dos fatos impeditivos, modificativos ou extintivos do direito do autor.
+3. A alegação de que o "meirinho não adotou as diligências necessárias para citá-lo" contrapõe-se à conclusão da Corte de origem, cuja modificação entra óbice na Súmula 7 do STJ.
+4. O simples pedido de parcelamento não tem o condão de suspender a exigibilidade do crédito tributário, sendo devida a informação ao juízo da execução antes da arrematação (REsp 706.011/PR, Rel.
+Ministra Denise Arruda, Primeira Turma, julgado em 21/08/2007, DJ 17/09/2007, p. 213).
+5. No caso dos autos, o pagamento da primeira parcela do parcelamento ocorrera em 17.4.2008, momento este bem posterior à arrematação (8.4.2008).
+6. A impenhorabilidade do bem foi afastada pela Corte de origem, em decorrência do conjunto probatório dos autos. Para se chegar a conclusão diversa, o Superior Tribunal de Justiça teria necessariamente que reexaminar as provas dos autos, o que é vedado em sede especial, conforme os termos do enunciado sumular 07 desta Corte: "A pretensão de simples reexame de prova não enseja recurso especial." 7. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+8. A não realização do necessário cotejo analítico, bem como a não apresentação adequada do dissídio jurisprudencial, não obstante a transcrição de ementas, impedem a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+Agravo regimental improvido.
+(AgRg no REsp 1254038/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/02/2012, DJe 27/02/2012)
+3. Ademais, o Superior Tribunal de Justiça fixou entendimento de que a parte recorrente, nas razões do recurso especial, deve impugnar todos os pontos capazes de sustentar o acórdão vergastado, em respeito ao princípio da dialeticidade.
+No caso dos autos, o Tribunal de origem, ao decidir a demanda, consignou ter desaparecido, no curso da causa, o interesse de agir dos autores, ora agravantes, porquanto a reunião cuja convocação sustentaram ser inválida efetivamente ocorreu, e observando-se que não consta na petição inicial pedido de invalidade das deliberações tomadas, extinguiu o feito, sem resolução de mérito.
+É o que se extrai do excerto do acórdão (fl. 191/196, e-STJ):
+Os autores alegaram que são sócios da Eduq Educacional Qualitat Ltda. e de outras duas empresas, todas situadas na região de Atibaia/SP.
+Sustentaram que foram convocados para reunião marcada para o dia 26 de junho de 2015, primeira chamada às 17:00hs e segunda chamada às 17:30hs, mesmo dia em que foram convocados para reunião das outras empresas Instituição Educacional Atibaiense Ltda., primeira chamada 16:15hs e segunda 16:30hs, e Instituto Educacional Gertrudes Pires Alvim Sociedade Simples Ltda., primeira chamada às 18:00hs e segunda às 18:30hs.
+Alegando vícios nas convocações, que foram promovidas pelos mesmos administradores, porquanto as empresas têm em comum os gestores, pediram a procedência do pedido para que fosse declarada a nulidade da convocação para as reuniões em questão, como se vê de fls. 12.
+Sucede que, deferida a antecipação da tutela (fls. 58), o mandado somente foi cumprido no dia 26.06.2015, às 18:56hs (fls. 61), oportunidade em que, como afirmaram os réus, a reunião já havia ocorrido (fls. 67).
+Diante desse quadro, no qual a ordem de suspensão da reunião ficou prejudicada, não há motivos para o decreto de nulidade da convocação, de modo que desapareceu, no curso da demanda, o interesse de agir dos autores.
+Em caso semelhante, ajuizado pelos autores contra os réus para discutir a validade da convocação para a reunião da sociedade Instituição Gertrude Pires Alvim Sociedade Simples Ltda., a sentença de procedência do pedido foi reformada para se reconhecer a perda superveniente do interesse de agir dos autores.
+(..)
+E mais recentemente esta Câmara Especializada também julgou a Apelação interposta por Instituto Educacional Atibaiense, de minha relatoria, na qual se deu a mesma solução (Ap. n.
+1004289-87.2015.8.26.0048, em 25.05.2016).
+Portanto, tendo havido a perda superveniente do interesse de agir dos autores, vez que a reunião cuja convocação sustentaram ser inválida efetivamente ocorreu, observando-se que não consta na petição inicial pedido de invalidade das deliberações tomadas, é o caso de se extinguir o processo, sem resolução de mérito, nos mesmos moldes do precedente citado.
+Ocorre, com relação à fundamentação delineada pela Corte de origem, no sentido de que, a ordem de suspensão da reunião ficou prejudicada, e, diante da ausência de pedido na petição inicial de invalidade das deliberações tomadas, era o caso de extinção do processo, sem julgamento do mérito, não houve impugnação nas razões do recurso especial.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+Nesse sentido:
+RECURSO ESPECIAL - SEGURO - EMBRIAGUEZ - PROVA - FUNDAMENTO INATACADO - JUROS MORATÓRIOS - TERMO INICIAL - MATÉRIA DE ORDEM PÚBLICA.
+1.- Ausente impugnação a fundamentos do acórdão recorrido, aplica-se a Súmula 283 do Supremo Tribunal Federal.
+ ..
+3.- Agravo Regimental improvido. (AgRg no REsp 1086197/SP, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 28/06/2011, DJe 01/07/2011)
+Ademais, a conclusão firmada pelo Tribunal a quo, no sentido de que inexiste interesse de agir, não pode ser revista, visto que demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte.
+4. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, não conheço do agravo e, com base no art. 85, § 11, do NCPC, majoro os honorários advocatícios em R$ 100,00 (cem reais), a serem acrescidos àqueles da sucumbência do caso no valor de R$ 4.000,00 - cinco mil reais - (fls. 196, e-STJ), a ser suportado exclusivamente pelos recorrentes.
+Publique-se.
+Intimem-se.
