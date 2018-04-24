@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por [NOME], contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no julgamento do HC n. 1.0000.17.041130-0/000.
+Consta dos autos que o Recorrente encontra-se preso preventivamente desde 9/9/2016 (fl. 54), pela suposta prática dos delitos tipificados nos arts. 33 e 35, ambos da Lei n. 11.343/2006 (tráfico e associação para o tráfico de entorpecentes).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem em acórdão que restou assim ementado:
+"HABEAS CORPUS - PRISÃO PREVENTIVA - TRÁFICO DE SUBSTÂNCIA ENTORPECENTE E ASSOCIAÇÃO PARA O TRÁFICO - CONCESSÃO DE LIBERDADE PROVISÓRIA - AUSÊNCIA DE PROVA PRÉ - CONSTITUÍDA - DILAÇÃO PROBATÓRIA - IMPOSSIBILIDADE. 01.Impossível, na ação direta de Habeas Corpus, a produção de prova, que deve estar pré-constituída quando de seu ajuizamento. 02. Não há como o Tribunal, em sede de Habeas Corpus, examinar os requisitos para a concessão da liberdade provisória, se o impetrante não instrui a ordem com qualquer documento" (fl. 43).
+No presente recurso ordinário, a defesa alega ausência de provas de autoria/participação do recorrente nos delitos imputados.
+Sustenta que não foram encontrados entorpecentes em poder do recorrente e que este nega a propriedade da droga encontrada e, complementa afirmando que o fato de ter fugido da polícia não faz com que recaia a presunção de propriedade da substância contra o recorrente.
+Aduz que a decisão que decretou a prisão preventiva está fundamentada na gravidade abstrata do delito. Defende a necessidade de revogação da referida custódia, porquanto outros indiciados receberam alvarás de soltura.
+Requer, liminarmente e no mérito, a revogação da custódia cautelar ou a substituição desta por quaisquer outras medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Sem petição de contrarrazões (fls. 263/266), o recurso foi remetido a esta Corte Superior (fl. 62). O pedido de liminar foi indeferido (fls. 71/72). O Ministério Público Federal opinou pelo não conhecimento do recurso (fls.77/79).
+É o relatório.
+Decido.
+Inicialmente, verifico que as questões apresentadas no presente recurso - negativa de autoria e ilegalidade da prisão provisória - não foram debatidas no Tribunal de origem, porquanto o writ originário estava deficientemente instruído, tendo em vista não ter sido apresentada a cópia da decisão que decretou a custódia cautelar. Desse modo, é inadmissível seu enfrentamento nesta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+Assim tem se orientado a jurisprudência deste Superior Tribunal de Justiça:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O NARCOTRÁFICO. POSSE/PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. NEGATIVA DE PARTICIPAÇÃO NO ILÍCITO. MATÉRIA NÃO EXAMINADA PELA CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. IRREGULARIDADE NO FLAGRANTE. QUESTÃO SUPERADA COM O ADVENTO DE NOVO TÍTULO (PRISÃO PREVENTIVA). ENCARCERAMENTO FUNDADO NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. ORDEM PÚBLICA. QUANTIDADE E NATUREZA DAS SUBSTÂNCIAS TÓXICAS APREENDIDAS. NECESSIDADE DE ACAUTELAMENTO DA ORDEM E DA SAÚDE PÚBLICAS. ASSOCIAÇÃO CRIMINOSA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA E INADEQUAÇÃO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. COAÇÃO ILEGAL NÃO EVIDENCIADA. RECURSO DESPROVIDO.
+1. Inviável a apreciação diretamente por esta Corte Superior de Justiça da alegada negativa de autoria, sob pena de incidir-se em indevida supressão de instância, tendo em vista que a matéria não foi analisada no aresto combatido. Ademais, a análise acerca da negativa de autoria é questão que não pode ser dirimida na via estreita do recurso ordinário em habeas corpus, por demandar o reexame aprofundado das provas coletadas no curso da instrução criminal, vedado na via eleita, devendo ser solucionada na sede e no Juízo próprios, ou seja, na ação penal a que responde.
+(..)
+7. Recurso parcialmente conhecido e, na extensão, desprovido (RHC 83.294/CE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 04/04/2018).
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. CONDENAÇÃO À PENA DE 8 ANOS E 10 MESES DE RECLUSÃO. PRISÃO PREVENTIVA. MATÉRIA NÃO APRECIADA. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM DENEGADA.
+1. O pleito de revogação da prisão preventiva não foi objeto de julgamento pela Corte de origem, o que impede seu conhecimento por este Tribunal, sob pena de indevida supressão de instância.
+(..)
+4. Habeas corpus denegado, com recomendação de celeridade ao Tribunal de origem (HC 425.072/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 12/03/2018).
+Ante o exposto, com fundamento no art. 34, inciso XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço o presente recurso em habeas corpus.
+Publique-se.
+Intime-se.
