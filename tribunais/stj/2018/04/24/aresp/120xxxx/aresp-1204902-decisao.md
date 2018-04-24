@@ -1,0 +1,49 @@
+DECISÃO
+1. Cuida-se de agravo em recurso especial fundado no art. 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo de Instrumento Ação revisional de contrato bancário em fase de cumprimento de sentença - Abertura de crédito em conta corrente - Insurgência contra decisão que homologou o laudo pericial - Impossibilidade - Agravante que, na verdade, pretende manter os critérios usualmente utilizados no cálculo dos juros - Capitalização em periodicidade inferior à anual que, entretanto, foi afastada pelo v. Acórdão - Decisão mantida - Recurso desprovido. (fl. 1.328)
+O recorrente, nas razões do recurso, aponta violação aos arts. 354 e 884 do CC, sob o argumento de que a perícia judicial incorreu em erro grosseiro, devendo ser reconhecida a nulidade do laudo, visto que o recálculo de eventual valor devido, no presente caso, deve levar em consideração o produto "Cheque "Especial", direcionando-se os créditos realizados em conta-corrente para o pagamento dos encargos mensais, nos moldes do art. 354 do CC, sob pena de enriquecimento ilícito.
+Contrarrazões ao recurso especial às fls. 1.356-1.364.
+O recurso recebeu crivo negativo de admissibilidade na origem (fl. 1.372), ascendendo a esta Corte Superior por meio da interposição de agravo (fls. 1.375-1.381).
+É o relatório. Decido.
+2. Inicialmente, impende consignar que a Corte de origem apontou a correta precisão do critério adotado pelo perito judicial na composição dos cálculos atinentes ao caso concreto. De fato, divisam-se os seguintes fundamentos extraídos do acórdão recorrido,litteris:
+Nesse passo, não se verifica qualquer imprecisão no critério adotado pelo senhor perito, que expressamente consignou à fl. 1168 que "(..) fica evidenciado que, quando se acumula juros ao saldo negativo do presente mês, sendo que o referido saldo vai continuar negativo no mês subsequente, haverá cobrança de juros sobre juros(..)". (fl. 1.330)
+Observa-se, portanto, que a Corte de origem, soberana na análise do acervo fático-probatório, consignou a correção do critério utilizado na elaboração dos cálculos pelo perito.
+Dessa forma, não é possível o acolhimento da pretensão recursal, no sentido de rever a metodologia adotada no laudo pericial contábil, em virtude do óbice previsto no enunciado da Súmula nº 7 do STJ.
+Nesse sentido, citam-se os seguintes escólios:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. ARBITRAMENTO DA INDENIZAÇÃO.OBSERVÂNCIA DO LAUDO PERICIAL. SUCUMBÊNCIA. RESPONSABILIDADE PELOS HONORÁRIOS DO ASSISTENTE DO PERITO. SUCUMBENTE. VIOLAÇÃO A NORMATIVOS FEDERAIS. DIVERGÊNCIA JURISPRUDENCIAL. PRESTAÇÃO JURISDICIONAL INCOMPLETA. DESCARACTERIZAÇÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. REVISÃO DOS CRITÉRIOS E DA METODOLOGIA EMPREGADOS NA PERÍCIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. HONORÁRIOS DO PERITO. ATRIBUIÇÃO AO SUCUMBENTE. EXPRESSÃO LEGAL.
+1. O mero julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional tampouco viola o art. 1.022 do CPC/2015, também quando irrelevantes o ponto ou a questão para o correto deslinde da controvérsia. Jurisprudência do Superior Tribunal de Justiça.
+2. Ao Superior Tribunal de Justiça não compete, pela via do recurso especial, examinar a negativa de vigência a norma de índole constitucional, ainda que de conteúdo principiológico.
+3. Não é cognoscível o recurso especial para o exame da justeza da indenização arbitrada em ação de desapropriação quando a verificação disso exigir a revisão e a reinterpretação dos critérios e da metodologia utilizados nos laudos do assistente técnico e do perito judicial. Inteligência da Súmula 07/STJ.
+4. Não se conhece do recurso especial quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+5. Nas ações de desapropriação por utilidade pública, o ônus da sucumbência é definido pela aceitação ou não do preço ofertado, de maneira que a condenação em valor superior à oferta enseja a sucumbência do ente desapropriante e, portanto, a sua responsabilidade pelo pagamento das custas e despesas processuais, no que inclui o ressarcimento dos honorários do assistente da perícia do desapropriado. Inteligência do art. 30 do Decreto-Lei 3.365/1941. Precedente.
+6. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+(AREsp 1232887/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 01/03/2018, DJe 07/03/2018)  g.n.
+AGRAVO INTERNO. RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. DISCUSSÃO. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. COISA JULGADA. INTERPRETAÇÃO. LIMITES. AGRAVO DE INSTRUMENTO. FIXAÇÃO DE PARÂMETROS PARA ELABORAÇÃO DOS CÁLCULOS. CONTEÚDO DECISÓRIO. PRECLUSÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. NÃO CABIMENTO. ENUNCIADOS 282 E 356 DA SÚMULA DO STF E 7 E 83/STJ.
+1. É vedada a esta Corte Superior a análise de suposta violação de normas constitucionais, ainda que com o objetivo de prequestionamento, sob pena de usurpação da competência exclusiva do Supremo Tribunal Federal.
+2. Ante a falta de prequestionamento de parte dos temas ventilados no recurso especial, incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. Não há ofensa ao art. 535 do Código de Processo Civil revogado quando o Tribunal de origem se manifesta, de modo suficiente, sobre todas as questões levadas a julgamento, não sendo possível atribuir vício algum ao acórdão somente porque decidiu em sentido contrário à pretensão do recorrente.
+4. O acolhimento das alegações de ofensa à coisa julgada e de equívoco da perícia na elaboração dos cálculos dependeria de reexame de matéria fática, o que é inviável em recurso especial, nos termos da Súmula 7 do STJ. Precedentes.
+5. A decisão que fixa parâmetros para a confecção dos cálculos possui conteúdo decisório, portanto fica sujeita à preclusão se não impugnada oportunamente pela via apropriada.
+6. Temas, ademais, em sintonia com a jurisprudência deste Tribunal (Súmula 83/STJ).
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1573157/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/03/2018, DJe 20/03/2018)  g.n.
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. CÁLCULOS ELABORADOS PELO CONTADOR JUDICIAL. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. Na hipótese em tela, o Tribunal de origem concluiu, através de perícia judicial, que o devido é de R$ 24.002.985,30. Portanto, o valor executado pelo Município obedece os parâmetros estabelecidos pelo juízo. Dessa forma, o excesso de execução não está demonstrado.
+Além disso, analisar se a Ação de Execução se processou de modo diferente levaria ao exame das provas produzidas no processo.
+Modificar o entendimento da Corte regional, para reexaminar o contexto fático produzido nos autos, encontra óbice na Súmula 7 do STJ.
+2. Recurso Especial não conhecido.
+(REsp 1694442/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/10/2017, DJe 16/10/2017)  g.n.
+DIREITO SOCIETÁRIO. RECURSOS ESPECIAIS. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE LIMITDA. HOLDING. LIQUIDAÇÃO DE SENTENÇA. JUROS DE MORA. TAXA SELIC. CUMULAÇÃO COM CORREÇÃO MONETÁRIA. DESCABIMENTO. SOBRESTAMENTO DO PROCESSO. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. CRITÉRIO UTILIZADO PARA A APURAÇÃO DE HAVERES E MARCO INICIAL DO BALANÇO DE DETERMINAÇÃO. PRECLUSÃO. SÚMULA 83/STJ. SISTEMÁTICA DE CÁLCULOS ADOTADA PELA PERÍCIA. SÚMULA 7/STJ. ADEQUAÇÃO DE VALORES PROVISIONADOS. SÚMULA 284/STF. MARCO INICIAL DOS JUROS DE MORA. SÚMULA 211/STJ. DISTRIBUIÇÃO DA SUCUMBÊNCIA. SÚMULA 7/STJ.
+ ..
+8- Modificar as conclusões do acórdão recorrido quanto à adequação dos critérios a serem considerados pela perícia à vista da realidade econômica e patrimonial da sociedade exigiria o reexame do acervo fático-probatório dos autos, o que é vedado a esta Corte pela Súmula 7/STJ.
+ ..
+14- Recursos especiais não providos.
+(REsp 1537922/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/03/2017, DJe 30/03/2017)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE DO RESP. INOBSERVÂNCIA DA SÚMULA 123/STJ. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO GENÉRICA À LEI FEDERAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. IRREGULARIDADE NA MEMÓRIA DE CÁLCULO AFASTADA PELO TRIBUNAL DE ORIGEM. INCIDÊNCIA, NO PONTO, DA SÚMULA 7/STJ. ANATOCISMO. OCORRÊNCIA NÃO RECONHECIDA PELA INSTÂNCIA ORDINÁRIA. NECESSIDADE DE REVISÃO DOS CÁLCULOS ELABORADOS PELO CONTADOR JUDICIAL. APLICAÇÃO DA SÚMULA 7/STJ. AÇÃO MONITÓRIA. DEBÊNTURE. PRAZO PRESCRICIONAL. CINCO ANOS. INTELIGÊNCIA DO ART. 206, § 5º, I, DO CÓDIGO CIVIL. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+ ..
+4. A Corte estadual, amparada nos cálculos realizados pela Contadoria Judicial, afastou o alegado excesso de execução ao entender que não ficou configurada na hipótese dos autos a incidência de juros sobre juros.
+5. Nesse contexto, infirmar as conclusões do julgado, para reconhecer, como ora postulado, o desacerto dos cálculos realizados pela Contadoria Judicial, demandaria, na hipótese dos autos, o revolvimento do suporte fático-probatório da demanda, o que encontra vedação no enunciado da Súmula 7 do Superior Tribunal de Justiça.
+6. Agravo interno a que se nega provimento.
+(AgRg no AREsp 263.268/PB, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/05/2016, DJe 18/05/2016)  g.n.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, não conheço do presente recurso.
+Publique-se. Intimem-se.
