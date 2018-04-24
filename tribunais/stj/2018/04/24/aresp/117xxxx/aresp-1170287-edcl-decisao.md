@@ -1,0 +1,31 @@
+DECISÃO
+Aço-Fer Comércio de Produtos Siderúrgicos Ltda - EPP opõe embargos de declaração contra a decisão de fls. 672/674, assim disposta:
+Trata-se de agravo manifestado contra decisão que negou seguimento ao recurso especial, no qual se alega dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 563):
+DECLARATÓRIA DE INEXIGIBILIDADE DE TÍTULO C.C. ANULAÇÃO DE PROTESTO E INDENIZAÇÃO POR DANO MORAL - Preliminar de manutenção da liminar - Descabimento - A teor do inciso V, do § 1º, do art. 1.012, do NCPC, começa a produzir efeitos imediatamente após a publicação a sentença que revoga tutela provisória - Emissão de duplicata que se justifica em casos de compra e venda mercantil ou prestação de serviços - Recebimento de produtos pela autora - Inadimplemento que gerou emissão de duplicata mercantil - Negócio subjacente devidamente verificado - Exigibilidade do título - Danos morais e materiais não verificados - Improcedência da ação e procedência da reconvenção que devem ser mantidas - Recurso não provido.
+Sustenta a agravante, em síntese, que "somente poderá haver a subcontratação com anuência expressa da contratante, não sendo possível a anuência tácita, ainda mais quando não previstas no instrumento contratual" (fl. 577).
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que o Tribunal de origem manteve a procedência da reconvenção, assim discorrendo (fls. 564/567):
+(..)
+No mérito, conforme moderna doutrina de LUIZ EMYGDIO F. DA ROSA JÚNIOR, "a duplicata é título de crédito formal, impróprio, causal à ordem, extraído por vendedor ou prestador de serviço, que visa a documentar o saque fundado sobre crédito decorrente de compra e venda mercantil ou prestação de serviços, assimilada aos títulos cambiários por lei, e que tem como seu pressuposto a extração de fatura (..) tem natureza causal por estar legalmente vinculada, como cordão umbilical, à sua origem, uma vez que só pode ser extraída em decorrência de compra e venda mercantil ou de prestação de serviços, não sendo portanto título abstrato ou perfeito" (Títulos de Crédito, Renovar, 2.000).
+Vê-se, pois, que a emissão de duplicata se justifica somente em casos de compra e venda mercantil ou prestação de serviços (Lei nº 5.474/68).
+A ausência de causa justificadora da emissão do título significa que ele é ilegal e, portanto, nulo. Por outro lado, a comprovação da contratação e da efetiva prestação de serviço supre a ausência de aceite da duplicata levada a protesto.
+Na espécie, verifica-se dos autos que a requerida Aço Fer Comércio de Produtos Siderúrgicos Ltda. forneceu produtos à autora GV do Brasil Indústria e Comércio de Aço Ltda., que deles se beneficiou (págs. 204/207).
+Conforme constou na sentença combatida, "A contestação e a reconvenção apresentadas vieram aparelhadas pela nota fiscal e comprovantes de recebimento - nos quais figuram a primeira requerida como remetente das mercadorias e a autora, na qualidade de destinatária. Os e-mails trocados também dão conta da efetiva relação comercial e posterior inadimplemento do débito por parte da requerente-reconvinda (fls. 222/224)".
+A propósito, dos aludidos e-mails denota-se claramente que, não obstante a inexistência de expressa autorização por escrito para a subcontratação em comento, esta restara tacitamente anuída pela autora-reconvinda, eis que a própria requerente afirmou que, a partir daquela data, não mais aceitaria as notas de faturamento emitidas pela [NOME] diretamente à GV do Brasil, observando, entretanto, que tal não implicava nos pagamentos a serem efetuados até 10/04/2013, data posterior à da emissão do título em questão.
+Destarte, privilegiando-se a busca pela verdade real, impõe-se, de fato, a incidência da cláusula geral de boa-fé, que permite a responsabilidade solidária de quem aproveita os benefícios do negócio jurídico, devendo, em contrapartida, arcar com os ônus respectivos.
+(..)
+Outrossim, a autora-reconvinda não logrou demonstrar eficazmente o pagamento pelos produtos recebidos, ônus que lhe incumbia.
+Nessa esteira, não há que se falar em declaração de inexigibilidade do débito, nem, por conseguinte, em procedência dos demais pedidos formulados na ação principal.
+E, sendo devido o valor do título, de rigor a manutenção da procedência da reconvenção.
+(..)
+Com efeito, observo que rever o entendimento do Tribunal de origem demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
+A embargante requer esclarecimentos acerca dos honorários advocatícíos, majorados com fundamento no art. 85, § 11, do Código de Processo Civil de 2015, tais como, "se: (i) os honorários foram majorados de 10% fixados na sentença para mais 10%, totalizando 20%; (ii) os honorários majorados para 10% no total, entretanto, o valor inicialmente fixado já foi o de 10%; (iii) os honorários foram majorados em 10% do já fixado, sendo 11%" (fl. 679).
+Intimada para se manifestar acerca da interposição do recurso, a parte embargada, Ishiyama Energia Montagens e Infraestrutura Ltda., apresentou impugnação às fls. 684/685. GV do Brasil Indústria e Comércio de Aço Ltda não apresentou impugnação.
+Passo à análise dos embargos de declaração.
+Inicialmente, não identifico na decisão embargada nenhum dos vícios necessários ao conhecimento dos embargos de declaração, a teor do art. 1.022 do Código de Processo Civil, adstrito à correção de omissão, obscuridade, contradição ou erro material.
+Com efeito, esclareço que os honorários advocatícios arbitrados pelas instâncias ordinárias, no percentual de 10% (dez por cento) sobre o valor da condenação em favor da embargante, foram majorados pela decisão, ora embargada, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC/2015, totalizando, portanto, o percentual de 11% (onze por cento) sobre o valor da condenação.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
