@@ -1,0 +1,22 @@
+DECISÃO
+MOISÉS SORES LOPES, paciente neste habeas corpus, estaria sofrendo coação ilegal em seu direito a locomoção, decorrente de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0000449-69.2015.8.26.0571.
+Consta dos autos que o paciente foi condenado à pena de 3 anos de reclusão, no regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, da Lei n. 11.343/2006.
+Irresignada, a defesa interpôs apelação criminal perante a Corte de origem, que lhe negou provimento, para manter inalterada a sentença condenatória.
+Nas razões deste writ, a impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que deve ser fixado ao paciente o regime aberto, porquanto imposto o fechado com base na periculosidade abstrata do crime.
+Requer, assim, a concessão da ordem, para que seja estabelecido o regime aberto e substituída a sanção reclusiva por medida restritiva de direitos.
+A liminar foi por mim deferida, nos termos da decisão de fls. 32-34, para assegurar ao paciente que aguardasse no regime semiaberto o julgamento final deste habeas corpus.
+Instado a se manifestar, o Ministério Público Federal opinou pela "concessão da ordem de ofício, tão somente para que seja fixado regime inicial semiaberto para o cumprimento de pena" (fl. 4).
+Decido.
+A Corte estadual manteve a fixação do modo inicial mais fechado, nos seguintes termos (fls. 17-18, destaquei):
+A fixação do regime inicial fechado mostrou-se adequada ante a gravidade concreta do delito perpetrado, notória a nocividade das drogas apreendidas - em especial a cocaína em pó -, restando patentes sua capacidade de disseminação e a arregimentação de clientes aos borbotões.
+ ..
+Patente a nocividade das drogas apreendidas, conduzindo os que optam por enveredar por essa seara a caminhos muitas vezes sem volta, em total descompasso com os valores apregoados pela Sociedade; inviável, pois, a aplicação do que dispõe o artigo 44 do Código Penal, de qualquer modo incabível ante o "quantum" da pena fixado.
+Vale gizar: sequer merecia ser contemplado, o inculpado, com a benesse da lei especial, certo que se dedicava ao ofício criminoso há certo tempo, consoante razões supra expendidas, o que mais ainda sustenta a inviabilidade da substituição da pena privativa de liberdade por penas alternativas.
+Do trecho anteriormente transcrito, verifico que o Tribunal estadual entendeu devida a imposição do regime inicial fechado com base na suposta gravidade do crime. Contudo, não apontou elementos suficientemente concretos dos autos que efetivamente evidenciassem a imprescindibilidade de fixação do modo mais gravoso.
+Assim, uma vez que o paciente era tecnicamente primário ao tempo do delito, teve a pena-base fixada no mínimo legal, foi condenado a reprimenda inferior a 4 anos de reclusão, foi beneficiado com a minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 - a qual visa, justamente, a beneficiar o "traficante ocasional" - e foi apreendido com quantidade não expressiva de drogas (75g de maconha e 89g de cocaína), entendo evidenciada a plausibilidade jurídica do direito tido como violado nesse ponto.
+Ademais, registro que, embora haja sido apreendido cocaína em poder do acusado (substância entorpecente dotada de alto poder viciante), a quantidade das drogas não foi elevada, de modo que a natureza da substância não pode, por si só, ensejar a imposição de regime inicial mais gravoso de cumprimento de pena, notadamente quando verificado que todas as demais circunstâncias são favoráveis ao acusado.
+De igual sorte, o Tribunal de origem negou a substituição da pena privativa de liberdade também sem mencionar qualquer elemento concreto dos autos que, de fato, evidenciasse que a substituição da reprimenda não se mostra medida socialmente recomendável.
+Assim, entendo que deve a ordem ser concedida também para determinar a substituição da reprimenda privativa de liberdade do paciente por restritivas de direitos, as quais deverão ser estabelecidas pelo Juízo das Execuções Criminais, à luz das peculiaridades do caso concreto.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem, a fim de: a) fixar o regime aberto de cumprimento de pena; e b) determinar a substituição da reprimenda por duas restritivas de direitos, a serem escolhidas pelo Juízo das Execuções Criminais.
+Comunique-se, com urgência, o inteiro teor dessa decisão ao Tribunal de Justiça estadual e ao Juízo de primeiro grau, para as providências cabíveis.
+Publique-se e intimem-se.
