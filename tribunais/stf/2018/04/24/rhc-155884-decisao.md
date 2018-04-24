@@ -1,0 +1,31 @@
+Decisão:
+ementa: Processual Penal. Recurso ordinário em habeas corpus. Prisão preventiva. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de concessão de liminar, interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, da Relatoria da Ministra Maria Thereza de Assis Moura, assim ementado:
+    “PROCESSUAL PENAL. HABEAS CORPUS. OPERAÇÃO ALL INN. ASSOCIAÇÃO PARA O TRÁFICO TRANSNACIONAL DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. ARTICULADA ORGANIZAÇÃO. REITERAÇÃO DELITIVA. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+    1. A necessidade da custódia cautelar restou demonstrada, com espeque em dados concretos dos autos, conforme recomenda a jurisprudência desta Corte, estando o decisum proferido na origem fundamentado na participação em audaz e articulada organização de tráfico de drogas, esquadrinhada após a autorização judicial de interceptações telefônicas, sendo apreendida quase uma tonelada de cocaína nas investigações policiais, contando o paciente com a confiança do chefe da associação, na qual marcava encontros dos integrantes do grupo e passava as orientações da chefia, ostentando o acusado, ainda, uma deletéria reiteração delituosa - registros de receptação e furto qualificado - , a evidenciar, portanto, risco para a ordem pública.
+    2. Ordem denegada.”
+    2. Extrai-se dos autos que o recorrente foi denunciado pelo crime previsto no artigo 35, caput, c/c o artigo 40, I, ambos da Lei 11.343/06. Em 14.03.2017, o Juízo de origem decretou a prisão preventiva do acusado.
+    3. Dessa decisão, foi impetrado habeas corpus no Tribunal Regional Federal da 3ª Região. Denegada a ordem, sobreveio a impetração de HC no Superior Tribunal de Justiça, negado.
+    4. Neste recurso ordinário, a defesa sustenta a ausência de fundamentação idônea para a decretação da custódia cautelar, destacando que, ao contrário do que afirmaram as instâncias precedentes, o acionante não integraria organização criminosa.
+    5. Com essa argumentação, requer o provimento do recurso a fim de revogar a prisão processual do acionante.
+    Decido.
+    6. O recurso ordinário não deve ser provido.
+    7. O acordão recorrido está alinhado com a orientação jurisprudencial do Supremo Tribunal Federal no sentido de que a gravidade em concreto do crime e a necessidade de interromper a atuação de organização criminosa constituem fundamentação idônea para a decretação da custódia preventiva (vg. HC 137.234, Rel. Min. Teori Zavascki; HC 136.298, Rel. Min. Ricardo Lewandowski; HC 136.935-AgR, Rel. Min. Dias Toffoli).
+    8. No caso de que se trata, tal como assentou o Superior Tribunal de Justiça, “A necessidade da custódia cautelar restou demonstrada, com espeque em dados concretos dos autos, conforme recomenda a jurisprudência desta Corte, estando o decisum proferido na origem fundamentado na participação em audaz e articulada organização de tráfico de drogas, esquadrinhada após a autorização judicial de interceptações telefônicas, sendo apreendida quase uma tonelada de cocaína nas investigações policiais, contando o paciente com a confiança do chefe da associação, na qual marcava encontros dos integrantes do grupo e passava as orientações da chefia, ostentando o acusado, ainda, uma deletéria reiteração delituosa - registros de receptação e furto qualificado - , a evidenciar, portanto, risco para a ordem pública”. Transcrevo, nesse sentido, as seguintes passagens do aresto impugnado:
+    “(...)
+    Verifica-se que foi decretada e mantida a custódia cautelar, fundamentalmente, em razão da participação em articulada organização criminosa, das circunstâncias do crime, da significativa atuação dentro da associação e da renitência delitiva. Destacou-se, por fim, a garantia da ordem pública, conveniência da instrução criminal e a necessidade de se assegurar a aplicação da lei penal.
+    Ao que se me afigura, debruçando-me sobre o caso em concreto, a prisão provisória se sustenta, porque nitidamente vinculada à elementos de cautelaridade.
+    Nunca é demais lembrar que a prisão processual somente pode ser decretada em situações excepcionais, com fulcro em dados concretos. Nesse âmbito, vê-se que a decisão guerreada lastreou-se em elementos extraídos concretamente da conduta em tese perpetrada pelo acusado.
+    Com efeito, a gravidade concreta - explicitada, em especial, no modus operandi delitivo - foi alinhada como substrato para o encarceramento processual do ora paciente.
+    Sublinhe-se que o transcorrer do agir, conforme se depreende dos autos, reflete uma ação criminosa organizada e audaz, esquadrinhada após a autorização judicial de interceptações telefônicas, sendo apreendida quase uma tonelada de cocaína nas investigações policiais, contando o paciente com a confiança do chefe da associação, na qual marcava encontros dos integrantes do grupo e passava as orientações da chefia, ostentando o acusado, ainda, uma deletéria reiteração delituosa - registros de receptação e furto qualificado - , a motivar, pois, a segregação cautelar.
+    (…)
+    A despeito dos reclamos doutrinários de interpretação restritiva da locução ordem pública, a jurisprudência desta Casa de Justiça tem-na admitido nas hipóteses em que o decisum se funda em elementos concretos dos autos.
+    Em verdade, outro não é o entendimento desta Corte, que considera a gravidade concreta do delito dado apto a engendrar a cautelaridade para a prisão processual.
+    Dessarte, estando a segregação lastreada em elementos concretos colhidos dos próprios autos, não há imputar qualquer ilegalidade à custódia. (...)”.
+    9. Além disso, eventual acolhimento da pretensão defensiva – no sentido de que o recorrente não integra organização criminosa – , demandaria o revolvimento do conjunto fático-probatório, inviável na via restrita do habeas corpus.
+    10. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+    Publique-se.
+    Brasília, 24 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
+                 Documento assinado digitalmente
