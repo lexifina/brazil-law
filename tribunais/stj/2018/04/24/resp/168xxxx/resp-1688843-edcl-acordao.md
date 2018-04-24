@@ -1,0 +1,36 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRADIÇÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+2. No caso, a apuração do valor provisório da mensalidade do plano de saúde, segundo os parâmetros fixados pelo Tribunal de origem, em antecipação dos efeitos da tutela, dispensa a necessidade de liquidação de sentença.
+3. Embargos de declaração acolhidos sem efeitos infringentes.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de embargos de declaração opostos por Ford Motor Company Brasil Ltda. ao acórdão proferido pela Terceira Turma desta Corte assim ementado (e-STJ, fl. 607):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. EMPREGADO APOSENTADO. POSSIBILIDADE DE MANUTENÇÃO DA COBERTURA. NECESSIDADE DE PAGAMENTO INTEGRAL DO VALOR DO PRÊMIO. ACÓRDÃO COMBATIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA N. 83/STJ. 3. APURAÇÃO DOS VALORES. DESNECESSIDADE DE LIQUIDAÇÃO. SÚMULA N. 7 DO STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. A instância de origem dirimiu, fundamentadamente, as matérias que lhe foram submetidas, razão pela qual o acórdão combatido não padece de omissão, contradição ou obscuridade.
+2. O art. 30 da Lei n. 9.656/1998 confere ao consumidor o direito de contribuir para plano ou seguro privado coletivo de assistência à saúde, decorrente de vínculo empregatício, no caso de rescisão ou exoneração do contrato de trabalho sem justa causa, assegurando-lhe o direito de manter sua condição de beneficiário, nas mesmas condições de que gozava na época da vigência do contrato de trabalho, desde que assuma também o pagamento da parcela anteriormente de responsabilidade patronal.
+3. O acórdão decidiu a controvérsia quanto à desnecessidade de liquidação para apuração dos valores com fulcro no material fático-probatório dos autos. Logo, no particular, aplica-se o enunciado n. 7 da Súmula do STJ.
+4. Agravo interno improvido.
+Nas razões dos aclaratórios (e-STJ, fls. 616-620), a embargante sustenta que a decisão é contraditória quanto à necessidade ou não de liquidação para apuração de valores.
+Diante disso, requer o acolhimento dos aclaratórios, a fim de suprir os elementos de contradição existentes no acórdão embargado.
+Foi apresentada impugnação às fls. 624-626 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Quanto à contradição apontada sobre a necessidade, ou não, da liquidação para apuração dos valores, verifico que assim foi consignado pela Corte de origem (e-STJ, fls. 245-250):
+De um lado, os artigos 30 e 31 da Lei nº 9.656/98, com os esclarecimentos contidos na Resolução Consu 21 (artigo 3º, § 6º), asseguram àquele que se desligou de empresa que mantinha contrato coletivo de assistência à saúde, seja por rescisão ou exoneração do contrato de trabalho sem justa causa, seja por aposentadoria, "o direito de manter sua condição de beneficiário, nas mesmas condições da cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma seu pagamento integral" (grifei).
+E, em cognição sumária, vê-se que o aqui agravado, prima facie, se enquadra nessa autorização legal, uma vez que foi funcionário da Ford Motor Company Brasil Ltda. por mais de dez anos, aderindo ao plano de saúde coletivo administrado pela recorrente (fls. 33/45).
+Noutro norte, ao que consta, a elevação veio imposta sem qualquer comprovação acerca da cota-parte relativa à empresa, além do que veio fixada em valor que se mostra aparentemente excessivo. Vale anotar, no entanto, que o cálculo ofertado pelo autor não encontra, prima facie, qualquer amparo, já que não considera o número de vidas contratadas (4, ao que consta).
+Assim, enquanto a questão estiver sendo debatida nos autos, razoável que, consoante o entendimento que vem sendo mantido por esta Câmara em casos semelhantes, a mensalidade corresponda à soma do valor mensal que já vinha sendo descontado do agravante mais a média anual desembolsada pela empresa.
+(..)
+Diante disso, cabível a concessão parcial da tutela provisória requerida, para o fim de determinar que a ré mantenha o autor e seus dependentes/agregados no plano de saúde oferecido pela ex-empregadora, nas mesmas condições de preço e cobertura assistencial de que gozava quando da vigência do contrato de trabalho, com expedição de boleto considerando a cota-parte do empregado e empregador, sob pena de multa diária de R$ 1.000,00.
+Esse valor deve corresponder à soma do valor mensal que já vinha sendo descontado do agravante mais a média desembolsada pela empresa nos últimos dozes meses anteriores ao rompimento do vínculo empregatício, multiplicado pelo número de vidas, cujo balanço deverá ser apresentado pela ré diretamente ao juízo do processo em cinco dias.
+Sendo assim, ficou claro que enquanto a questão estiver sendo debatida nos autos, o valor da mensalidade corresponderá à soma do valor mensal que já vinha sendo descontado da agravante mais a média desembolsada pela empresa nos 12 (doze) meses anteriores ao rompimento do vínculo empregatício, multiplicado pelo número de vidas, cujo balanço (para apuração da mensalidade conforme acima mencionado) deverá ser apresentado pela corré Bradesco Saúde S.A.
+Não se trata, de fato, da necessidade de liquidação para apuração de valores, tendo em vista, inclusive, que o acórdão recorrido foi proferido em antecipação de tutela, de cognição não exauriente, cuja aferição da existência ou não dos requisitos para a concessão da medida, em regra, nem sequer podem ser revistos no âmbito de recurso especial.
+A deliberação do acórdão estadual, portanto, foi apenas no sentido de que a ora recorrente disponibilize a documentação necessária, a fim de que o Juízo da causa possa apurar o valor provisório da mensalidade do plano de saúde, segundo os parâmetros fixados pelo Tribunal, nessa fase inicial do processo, até que a questão venha a ser julgada em definitivo, após a devida instrução do feito, com a prolação da sentença.
+Diante do exposto, acolho os presentes embargos de declaração para sanar a contradição apontada, mantida, contudo, a conclusão do julgado.
+É como voto.
