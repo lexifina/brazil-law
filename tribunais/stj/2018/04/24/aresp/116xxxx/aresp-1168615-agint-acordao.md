@@ -1,0 +1,22 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. AGRAVO INTERNO DA SERVIDORA A QUE SE NEGA PROVIMENTO.
+1. Consoante certificado às fls. 309, o prazo para interposição do Recurso Especial teve início no dia 3.9.2014 (quarta-feira), com término previsto para o dia 17.9.2014 (quarta-feira). Contudo, o Apelo Nobre foi interposto somente no dia 18.9.2014 (quinta-feira), ou seja, fora do prazo previsto no art. 508 do CPC/1973. Portanto, manifesta a intempestividade do Recurso.
+2. Ademais, importante salientar que está consolidado o entendimento de que o Tribunal de origem é responsável pela realização do juízo provisório de admissibilidade, inexistindo vinculação do STJ, a quem cabe a realização do juízo definitivo de admissibilidade do Recurso Especial, de modo que não há que se falar em preclusão quanto a análise da tempestividade do Recurso Especial.
+3. Agravo Interno da Servidora a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao Agravo Interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa (Presidente) e Gurgel de Faria votaram com o Sr. Ministro Relator.
+RELATÓRIO
+1. Trata-se de Agravo Interno interposto por EDILA FERREIRA ALEIXO contra decisão que não conheceu do seu Recurso Especial por se encontrar intempestivo.
+2. A parte agravante alega que a orientação jurisprudencial do Superior Tribunal de Justiça é na linha de que a comprovação da existência de feriado ou de suspensão de expediente forense local pode ocorrer em momento posterior à interposição do Recurso Especial, motivo pelo qual deve ser considerado tempestivo.
+3. Acrescenta que a decisão que inadmitiu o recurso da Agravante na origem se deu em virtude de suposta falta de exaurimento das vias ordinárias haja vista o entendimento do cabimento de embargos infringentes, conforme verifica-se às fls.351, restando preclusa qualquer alegação de intempestividade do supracitado recurso (fls. 407).
+4. Dessa forma, requer a reconsideração da decisão agravada ou a submissão do feito ao Órgão Colegiado competente.
+5. É o relatório.
+VOTO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. AGRAVO INTERNO DA SERVIDORA A QUE SE NEGA PROVIMENTO.
+1. Consoante certificado às fls. 309, o prazo para interposição do Recurso Especial teve início no dia 3.9.2014 (quarta-feira), com término previsto para o dia 17.9.2014 (quarta-feira). Contudo, o Apelo Nobre foi interposto somente no dia 18.9.2014 (quinta-feira), ou seja, fora do prazo previsto no art. 508 do CPC/1973. Portanto, manifesta a intempestividade do Recurso.
+2. Ademais, importante salientar que está consolidado o entendimento de que o Tribunal de origem é responsável pela realização do juízo provisório de admissibilidade, inexistindo vinculação do STJ, a quem cabe a realização do juízo definitivo de admissibilidade do Recurso Especial, de modo que não há que se falar em preclusão quanto a análise da tempestividade do Recurso Especial.
+3. Agravo Interno da Servidora a que se nega provimento.
+1. A despeito das alegações da parte agravante, razão não lhe assiste, porquanto os argumentos trazidos no recurso não foram suficientes para infirmar a decisão agravada, devendo ser mantida por seus próprios fundamentos.
+2. In casu, consoante certificado às fls. 309, o prazo para interposição do Recurso Especial teve início no dia 3.9.2014 (quarta-feira), com término previsto para o dia 17.9.2014 (quarta-feira). Contudo, o Apelo Nobre foi interposto somente no dia 18.9.2014 (quinta-feira), ou seja, fora do prazo previsto no art. 508 do CPC/1973. Portanto, manifesta a intempestividade do Apelo Nobre.
+3. Ademais, importante salientar que está consolidado o entendimento de que o Tribunal de origem é responsável pela realização do juízo provisório de admissibilidade, inexistindo vinculação do STJ, a quem cabe a realização do juízo definitivo de admissibilidade do Recurso Especial, de modo que não há que se falar em preclusão quanto a análise da tempestividade do Recurso Especial.
+4. Ante o exposto, nega-se provimento ao Agravo Interno da Servidora. É o voto.
