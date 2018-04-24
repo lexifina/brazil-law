@@ -1,0 +1,27 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. CONFISSÃO E REPACTUAÇÃO DO CRÉDITO. HONORÁRIOS DE ADVOGADO PARA PRONTO PAGAMENTO. 10% SOBRE O VALOR DA EXECUÇÃO. EXCESSO VERIFICADO. CONSOLIDAÇÃO E REDUÇÃO DO DÉBITO. POSSIBILIDADE DE REVISÃO. PRETENSO FATO SUPERVENIENTE. INSINDICABILIDADE. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO INTERNO E DESPROVIDOS.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, receber os embargos de declaração como agravo interno e negar -lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente), Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de embargos de declaração opostos por GOMM ADVOGADOS ASSOCIADOS e OUTROS contra a decisão deste relator que deu parcial provimento ao recurso especial da parte adversa, cuja ementa está assim redigida:
+RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. EXTINÇÃO MEDIANTE CONFISSÃO E REPACTUAÇÃO DAS DÍVIDAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. EXPRESSO ENFRENTAMENTO DAS QUESTÕES RELEVANTES E NECESSÁRIAS PARA O JULGAMENTO NA ORIGEM. LEGITIMIDADE ATIVA DO BADEP. RECONHECIMENTO DE QUE A CESSÃO DOS DIREITOS DE CRÉDITO OCORRERA POSTERIORMENTE AO AJUIZAMENTO DA EXECUÇÃO. INSINDICABILIDADE. PRESCRIÇÃO. INEXISTÊNCIA. HONORÁRIOS DE ADVOGADO PARA PRONTO PAGAMENTO. 10% SOBRE O VALOR DA EXECUÇÃO. EXCESSO VERIFICADO. ACORDO REALIZADO. CONSOLIDAÇÃO E REDUÇÃO DO DÉBITO. POSSIBILIDADE DE REVISÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Em 05/02/2018, declarei que os embargos seriam conhecidos como agravo interno, determinando a complementação das razões formuladas pelos embargantes.
+Sobreveio manifestação complementar às fls. 1.256 e ss.
+Em suas razões recursais, sustentaram que o reconhecimento do direito aos honorários, pautado no acordo em que a executada reconheceu ser devedora da verba, deveria, também, ordenar o reconhecimento do direito aos honorários no valor fixado na origem. Destacaram não ter participado do referido acordo, não se justificando fixar os honorários sobre o valor repactuado, impondo-se manter a base de cálculo e o percentual em prestígio aos arts. 22, 23, 24, §§3º e 4º, da Lei 8.906/94.
+Asseveraram que o acordo em questão fora descumprido pela Iguaçu e que o valor da dívida original fora restabelecido. Referiram que os honorários foram fixados antes mesmo da edição da Lei Estadual 15.943/08 e a sua redução ofende o art. 5º, XXXVI, da CF.
+Disseram aplicarem-se os enunciados 5 e 7/STJ acerca da fixação da verba, ressaltaram que a execução tramita há mais de 20 anos, que a fixação dos honorários em 10% já havia precluído, sendo indevido, ainda, arbitrá-los com base na lei estadual porque posterior. Pediram o provimento do agravo.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, antes de tudo conheço dos presentes embargos como agravo interno e, de pronto, destaco que as razões trazidas pelos recorrentes em complementação àquelas formuladas originalmente em sede de embargos, em nada alteram a convicção deste relator acerca do parcial provimento do recurso da parte adversa.
+Inicialmente, é patente a inovação decorrente do alegado descumprimento do acordo celebrado entre a cessionária dos créditos e a executada, assim, como a alegada continuidade da execução pelo valor original.
+Nada há no acórdão no que concerne, carecendo, pois, do necessário prequestionamento. Referido fato já há muito teria ocorrido e, em nenhum momento, houveram por bem os litigantes em suscitá-lo, pelo contrário, os ora agravantes reafirmaram os efeitos do referido acordo, no qual basearam o direito à percepção dos honorários.
+Não pode esta Corte Superior, ademais, analisar o impacto deste fato sem proceder ao reexame do acordo firmado, tarefa que a ela, definitivamente, não pertine.
+Não há, em absoluto, qualquer vínculo entre o reconhecimento do direito previsto no acordo ao pagamento dos honorários que os advogados fizessem jus, com o percentual a que eles efetivamente fazem jus, fixado na decisão agravada.
+A aplicabilidade ou não da lei estadual é irrelevante, e, aliás, não fora objeto de conhecimento o seu teor na forma do enunciado 280/STF.
+Rearbitrei os honorários, fixados na origem para pronto pagamento em 10% sobre o total da execução, por entender do seu excesso, notadamente em face do destacado montante do valor objeto da execução e do trabalho desenvolvido pelos causídicos nesta incipiente fase processual.
+Não há falar em atração do enunciado 7/STJ em matéria de arbitramento de honorários quando o valor revele-se, sem qualquer perquirição das provas coligidas, excessivo.
+Utilizei como parâmetro o também destacado valor relativo à presente execução, e atribui o percentual de 4% em vez dos 10% originalmente fixados, não porque a Lei Estadual tenha assim ordenado, mas porque entendi razoável o percentual diante das circunstâncias fáticas tratadas no acórdão, ou seja, tratarem-se de honorários para, ao fim e ao cabo, atualizar-se a dívida e redigir a petição inicial da execução.
+Ante o exposto, conheço dos embargos de declaração como agravo interno e a ele nego provimento.
+É o voto.
