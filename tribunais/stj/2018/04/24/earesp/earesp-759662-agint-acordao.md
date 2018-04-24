@@ -1,0 +1,74 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+I - In casu, incidiu o óbice sumular nº 315 do STJ, porquanto a matéria objeto da divergência não foi analisada pelo acórdão embargado em face da ausência de particularização dos dispositivos de lei federal tidos por violados. Segundo o verbete sumular: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+II - A configuração do dissídio interno que viabiliza a interposição de embargos de divergência pressupõe que os acórdãos confrontados apresentem, além de similitude fática, discussão das teses jurídicas distintas sob o mesmo enfoque legal, e sejam assentados sob o exame do mérito do recurso, porque não servem tais embargos para discussão sobre a aplicação de regra técnica de admissibilidade recursal (AgInt nos EAREsp n. 341.992/SP, Corte Especial, Rel. Min. Mauro Campbell Marques, DJe de 29/6/2017).
+Agravo interno desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, João Otávio de Noronha, Humberto Martins, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de Agravo Interno interposto por MAGOSAN CONSTRUTORA LTDA, em face de decisão monocrática por mim proferida às fls. 2543-2548, pela qual os Embargos de Divergência foram indeferidos liminarmente, com fulcro no artigo 266-C do RISTJ, por incidência do óbice sumular n. 315 do STJ, bem como pela ausência do necessário cotejo analítico entre acórdão embargado e paradigma.
+Depreende-se dos autos que a parte recorrente manejou Agravo em Recurso Especial, o qual foi conhecido, porém com negativa de provimento ao recurso especial, em razão da ausência de particularização dos dispositivos de lei federal tidos por violados (fls. 2434-2436), oportunidade em que aviou Agravo Interno (fls. 2440-2452), cuja decisão proferida pela col. Quarta Turma se direcionou no mesmo sentido (fl. 2499), conforme ementa que ora transcrevo:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. JULGAMENTO EXTRA PETITA. TERMO INICIAL DOS JUROS DE MORA. DIVERGÊNCIA JURISPRUDENCIAL. ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. RECURSO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que "a ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante a inviabilizar a abertura da instância especial, também atraindo a incidência da Súmula n.º 284 do STF" (EDcl no AREsp 179.144/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 29/6/2012).
+2. Agravo interno improvido."
+Opostos embargos de declaração, estes restaram rejeitados (fl. 2523).
+Irresignada a parte interpôs recurso de embargos de divergência indicando como paradigma o julgado proferido pela Segunda Turma, no Agravo Regimental no Recurso Especial nº 1.428.379/AL.
+O recurso de divergência foi liminarmente indeferido com fulcro no art. 266-C do RISTJ, assentando-se o julgado no entendimento firmado no verbete sumular nº 315/STJ, e também na ausência de cotejo analítico.
+No presente Agravo Interno (fls. 2552-2558), sustenta a recorrente que teria efetuado o devido cotejo analítico, aduzindo ainda que a Súmula 315/STJ não teria sido recepcionada pelo CPC/2015, pois não se enquadraria nos incisos I e II do artigo 1043 do Diploma Processual em vigor.
+Por fim, requer o recebimento do presente agravo interno, com a reconsideração da decisão ou que seja levado ao Colegiado para o acolhimento do recurso e provimento aos embargos de divergência.
+Oferecida impugnação pelo agravado às fls. 2561-2566.
+Por manter a decisão agravada, submeto o feito a col. Corte Especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO DESPROVIDO.
+I - In casu, incidiu o óbice sumular nº 315 do STJ, porquanto a matéria objeto da divergência não foi analisada pelo acórdão embargado em face da ausência de particularização dos dispositivos de lei federal tidos por violados. Segundo o verbete sumular: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+II - A configuração do dissídio interno que viabiliza a interposição de embargos de divergência pressupõe que os acórdãos confrontados apresentem, além de similitude fática, discussão das teses jurídicas distintas sob o mesmo enfoque legal, e sejam assentados sob o exame do mérito do recurso, porque não servem tais embargos para discussão sobre a aplicação de regra técnica de admissibilidade recursal (AgInt nos EAREsp n. 341.992/SP, Corte Especial, Rel. Min. Mauro Campbell Marques, DJe de 29/6/2017).
+Agravo interno desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: O presente agravo interno não merece prosperar.
+Com efeito, consoante disciplina o artigo 1.043 do CPC/2015 os Embargos de Divergência são cabíveis contra acórdão que:
+"I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+ ..
+III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+O art. 266 do RISTJ - com a redação dada pela Emenda Regimental 22, de 2016 - estabelece, nesse mesmo sentido, que:
+"Art. 266. Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal, sendo:
+I - os acórdãos, embargado e paradigma, de mérito;
+II - um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+Conforme consignado na decisão ora vergastada, verifica-se que o órgão fracionário não adentrou no mérito do recurso especial em virtude da ausência de particularização dos dispositivos de lei federal tidos por violados.
+Diante disso, inobstante as razões aventadas pela ora agravante no sentido de que o Enunciado Sumular 315 do STJ não mais teria aplicabilidade frente as inovações promovidas pelo Código de Processo Civil de 2015, em verdade, tal não é o posicionamento adotado no âmbito desta Corte Superior.
+Firme o entendimento consolidado pela jurisprudência deste Tribunal que somente são cabíveis embargos de divergência em sede de agravo interno no agravo em recurso especial quando o agravo interno é conhecido e julgado o recurso especial, ou como dispõe o artigo 1.043 do CPC/2015 "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+In casu, não admitido o especial na origem, não provido o agravo interno por acórdão da col. Quarta Turma por óbice de admissibilidade, imperioso concluir pelo não cabimento da interposição de embargos de divergência, incidindo o disposto na Súmula 315 do STJ.
+A propósito, cito os recentes julgados desta Corte:
+"DIREITO PENAL. FRAUDE EM PROCESSO LICITATÓRIO. ACÓRDÃO EMBARGADO QUE MANTEVE DECISÃO MONOCRÁTICA EM RAZÃO DA FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DE NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL NA ORIGEM. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA NO ÂMBITO DO AGRAVO DE INSTRUMENTO QUE NÃO ADMITE RECURSO ESPECIAL. INCIDÊNCIA DO ENUNCIADO N. 315 DA SÚMULA DO STJ.
+ ..
+II - O acórdão embargado manteve a decisão monocrática que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182/STJ, considerando a inexistência de impugnação a todos os fundamentos do decisum.
+III - Na mencionada decisão, não se enfrentou o mérito da controvérsia ao adotar como óbice ao recurso o referido enunciado sumular, esbarrando a discussão na preliminar de admissibilidade recursal.
+IV - No caso, incide a Súmula n. 315/STJ - "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+V - O CPC de 2015, em seu art. 1.043, II, previa a possibilidade de interposição de embargos de divergência em se tratando de arestos relativos a juízo de admissibilidade. Ocorre que tal dispositivo foi revogado quando da edição da Lei n. 13.256/2016, ratificando o entendimento já prestigiado por esta Corte de Justiça, que recentemente já se manifestou a respeito do assunto: AgInt nos EREsp 1473968/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 17/08/2016, DJe 30/08/2016.
+VI - Os embargos de divergência têm por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas se tenha dado diferente interpretação na legislação aplicável ao caso. Não se prestam para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento e, muito menos, confrontar tese de admissibilidade com tese de mérito.
+VII - Agravo interno improvido." (AgInt nos EAREsp 1009872/RN, Corte Especial, Rel. Min. Francisco Falcão, DJe 14/12/2017, grifei).
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INCIDÊNCIA DO ENUNCIADO 315 DESTA CORTE. MULTA PREVISTA NO ART. 1021, § 4º, DO CPC. INAPLICABILIDADE. MAJORAÇÃO DOS HONORÁRIOS. ART. 85, § 11, DO CPC. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Incidência do enunciado nº 315/STJ.
+2. Não se verifica, no caso, a manifesta improcedência do agravo interno a autorizar a imposição de multa.
+3. Honorários advocatícios majorados em razão do trabalho adicional realizado em grau recursal (art. 85, § 11, do CPC).
+4. Agravo interno a que se nega provimento, com majoração da verba honorária." (AgInt nos EAREsp 823.222/MG, Corte Especial, Relª. Minª. Maria Thereza de Assis Moura, DJe 11/05/2017, grifei).
+Por fim, o argumento utilizado pelo agravante, no sentido de que o Código de Processo Civil elencaria menos requisitos para a admissibilidade dos embargos de divergência não encontra respaldo na jurisprudência desta Corte.
+Os artigos 1.043, § 4º, do Código de Processo Civil e art. 266, § 4º, do Regimento Interno deste Superior Tribunal de Justiça, preceituam que o Embargante "mencionará as circunstâncias que identificam ou assemelham os casos confrontados".
+Dessa forma, imprescindível que o recorrente esmiúce os casos, detalhando os pontos de convergência que autorizam a comparação, o que inocorreu na hipótese. A mera transcrição de excertos esparsos dos julgados, sem que se delineie a necessária semelhança, são inservíveis para o conhecimento de embargos de divergência, que visa precipuamente a unificação de entendimentos dentro de um mesmo contexto.
+Para bem demonstrar o exposto, colaciono os seguintes precedentes:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO ENTRE ACÓRDÃOS PARADIGMA E EMBARGADO. AUSÊNCIA. SIMILITUDE FÁTICA. NÃO DEMONSTRADA. DIVERGÊNCIA QUANTO A TÉCNICAS DE CONHECIMENTO. EXAME. IMPOSSIBILIDADE.
+1. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+2. Revela-se inviável rever, em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentram no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal.
+3. Agravo interno não provido." (AgInt nos EAREsp 992.733/SP, Corte Especial, Relª. Minª. Nancy Andrighi, DJe 04/12/2017, grifei).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. AUSÊNCIA DE COTEJO ANALÍTICO ENTRE OS ACÓRDÃOS CONFRONTADOS. DISCUSSÃO SOBRE A APLICAÇÃO DA REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL. INADEQUAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. PRECEDENTES DO STJ. 1.
+Na hipótese em análise, a embargante pretende o reconhecimento de divergência de entendimentos entre a Primeira e a Segunda Turmas desta Corte Superior no que diz respeito à inaplicabilidade da Súmula 7/STJ no que diz respeito à análise da proporcionalidade e razoabilidade da sanção aplicada. Isso porque, a sanção de suspensão dos direitos políticos é a mais severa, logo, deve ser aplicada tão somente aos casos mais graves, de modo que ao STJ é atribuído o juízo de razoabilidade e proporcionalidade da penalidade ao caso concreto .
+2. A configuração do dissídio interno que viabiliza a interposição de embargos de divergência pressupõe que os acórdãos confrontados apresentem, além de similitude fática, discussão das teses jurídicas distintas sob o mesmo enfoque legal, e sejam assentados sob o exame do mérito do recurso, porque não servem tais embargos para discussão sobre a aplicação de regra técnica de admissibilidade recursal. Precedentes do STJ.
+3. In casu, o embargante não comprovou a divergência jurisprudencial nos termos regimentais, pois não realizou o cotejo analítico entre os arestos confrontados, a fim de comprovar a similitude fática e jurídica, mas tão somente transcreveu as ementas dos julgados apontados como paradigmas.
+4. É pacífico o entendimento desta Corte Superior no sentido de que não se configura divergência entre julgados que confrontam aspectos da regra técnica de admissibilidade.
+5. Agravo interno não provido." (AgInt nos EREsp 1445348/CE, Primeira Seção, Rel. Min. Mauro campbell Marques, DJe 17/10/2017, grifei).
+Ante o exposto, nego provimento ao Agravo Interno.
+É o voto.
