@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. EXTINÇÃO MEDIANTE CONFISSÃO E REPACTUAÇÃO DAS DÍVIDAS. LEGITIMIDADE ATIVA DO BADEP. RECONHECIMENTO DE QUE A CESSÃO DOS DIREITOS DE CRÉDITO OCORRERA POSTERIORMENTE AO AJUIZAMENTO DA EXECUÇÃO. INSINDICABILIDADE DO FATO EM SEDE DE INSTÂNCIA ESPECIAL. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze (Presidente), Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por IGUAÇU CELULOSE, PAPEL S/A contra a decisão deste relator que deu parcial provimento ao seu recurso especial, cuja ementa está assim redigida:
+RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. EXTINÇÃO MEDIANTE CONFISSÃO E REPACTUAÇÃO DAS DÍVIDAS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. EXPRESSO ENFRENTAMENTO DAS QUESTÕES RELEVANTES E NECESSÁRIAS PARA O JULGAMENTO NA ORIGEM. LEGITIMIDADE ATIVA DO BADEP. RECONHECIMENTO DE QUE A CESSÃO DOS DIREITOS DE CRÉDITO OCORRERA POSTERIORMENTE AO AJUIZAMENTO DA EXECUÇÃO. INSINDICABILIDADE. PRESCRIÇÃO. INEXISTÊNCIA. HONORÁRIOS DE ADVOGADO PARA PRONTO PAGAMENTO. 10% SOBRE O VALOR DA EXECUÇÃO. EXCESSO VERIFICADO. ACORDO REALIZADO. CONSOLIDAÇÃO E REDUÇÃO DO DÉBITO. POSSIBILIDADE DE REVISÃO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Em suas razões recursais, aduziu merecer reforma a decisão agravada no que toca à ilegitimidade ativa da sociedade agravada para postular o pagamento da verba honorária. Asseverou que não há aplicação da regra disposta no artigo 42 do CPC/73, haja vista que não se trata de alienação de coisa ou do direito litigioso, mas apenas da cessão do crédito BADEP (cedente) ao FDE (cessionário), hipótese em que apenas ao cessionário caberia o direito de exigir em juízo os créditos objeto de execução, sendo plenamente indevida a permanência do BADEP como exequente.
+Afirmou que a cessão do crédito objeto da execução ocorrera em 20/06/96, sendo que a execução fora proposta em 21/06/96, tendo tramitado por longos 15 anos sem que o exequente possuísse legitimidade. Asseriu, ainda, que apenas seriam devidos os honorários advocatícios que estivessem expressamente previstos na Escritura Pública de Confissão, Repactuação e Consolidação de Dívidas, nos termos do Programa de Recuperação de Créditos instituído pela Lei nº 15.943/2008. Acordo em que se estabeleceu que as recorrentes deveriam promover o pagamento dos "honorários advocatícios que façam jus os advogados" do credor, mas, em sendo nula a execução, nada seria devido. Pediu o provimento do recurso.
+Houve contrarrazões.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes Colegas, as razões trazidas pelo agravante não alteram a convicção deste relator acerca do parcial provimento do seu recurso especial.
+Pretende-se que esta Corte Superior reconheça a ilegitimidade ativa do credor original (BADEP) para ajuizar a execução, tendo em conta a cessão da dívida para o FDE (Agência de Fomento do Paraná S/A), gestora do Fundo de Desenvolvimento Econômico.
+Em relação à alegada ilegitimidade ativa, sobrelevei o que sobejamente tratado no aresto recorrido (fl. 720 e-STJ):
+Pois conforme bem fundamentado na decisão recorrida, a execução não pode ser declarada nula, pois além de estarem ausentes quaisquer das hipóteses previstas no artigo 618 e incisos do Código de Processo Civil, o BADEP, no momento de ajuizamento da ação, ainda era o detentor do crédito, haja vista que constou expressamente na escritura pública de cessão de crédito que este era objeto da ação de execução nº 14.656 (fls. 394/396-TJ), em trâmite na 3ª Vara da Fazenda, Falências e Recuperação Judicial de Curitiba, os quais foram remetidos à 2ª Vara da Fazenda, Falências e Recuperação Judicial de Curitiba, recebendo o nº 674/1997.
+Insiste-se que a cessão do crédito teria ocorrido antes do ajuizamento da execução, mas, em nenhum momento tenta-se explicar como o próprio instrumento de cessão faria menção à presente execução!
+Não há falar em ilegitimidade ativa do Banco e a alteração dessa conclusão não desprezaria a revisão das provas e fatos considerados pelo acórdão para assim se manifestar, o que revela a atração do enunciado 7/STJ.
+A alegação de que 15 anos se passaram no curso de execução ajuizada por exequente ilegítimo não vem em favor da agravante, aliás, senão em favor dos advogados recorridos.
+O acordo, do qual sequer participaram os advogados, celebrado quando não mais a devedor poderia discutir o título, pois transitada em julgado a decisão que teve por intempestivos os embargos à execução, determinou que a ora recorrente pagaria os honorários a que fizessem jus os causídicos nos embargos (julgados intempestivos) e nas execuções.
+Este é o crédito que agora vem sendo postulado.
+Houve trabalho dos advogados nos referidos embargos e nas execuções e, seja de acordo com a lei, seja de acordo com a transação celebrada, eles deverão ser adimplidos.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
