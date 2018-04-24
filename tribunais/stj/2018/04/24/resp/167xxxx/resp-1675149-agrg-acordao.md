@@ -1,0 +1,32 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE VIOLAÇÃO. JULGAMENTO MONOCRÁTICO PREVISTO NO REGIMENTO. MONTANTE DO DÉBITO TRIBUTÁRIO. DANO À COLETIVIDADE. POSSIBILIDADE. PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA. AGRAVO IMPROVIDO.
+1. Ausente a apontada nulidade, porquanto o julgamento monocrático encontra previsão no art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF ou, ainda, em jurisprudência dominante, inexistindo, portanto, ofensa ao princípio da colegialidade.
+2. É possível a consideração do montante total do débito tributário para valorar o dano à coletividade.
+3. Afastar a conclusão do Tribunal de origem de que o montante sonegado gerou dano à coletividade atrai o óbice da Súmula 7/STJ.
+4. Ressalvada compreensão pessoal diversa, a Terceira Seção, no julgamento do EResp 1.619.087/SC, na sessão de 14/06/2017, adotou a orientação quanto à impossibilidade de execução provisória das penas restritivas de direito, sendo indispensável, em tais casos, o trânsito em julgado da sentença penal condenatória, nos termos do art. 147 da Lei de Execução Penal.
+5. Agravo regimental improvido e pedido de execução provisória indeferido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental e indeferir o pedido de execução provisória, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Maria Thereza de Assis Moura, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que acolheu os embargos declaratórios para, alterando a parte dispositiva da decisão, negar provimento ao recurso especial.
+Aduz a defesa que o recurso especial deveria ter sido julgado pelo colegiado, e não de forma monocrática, e ainda que não incidem os enunciados sumulares suscitados pela decisão agravada.
+Pugna pela reconsideração da decisão agravada, ou sua submissão à Sexta Turma.
+O agravado apresentou impugnação ao recurso às fls. 724/727.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Inicialmente, ausente a apontada nulidade, porquanto o julgamento monocrático encontra previsão no art. 253, parágrafo único, inciso II, alínea b, do RISTJ, que permite ao relator negar provimento ao recurso quando a pretensão recursal esbarrar em súmula do STJ ou do STF ou, ainda, em jurisprudência dominante acerca do tema, inexistindo, portanto, ofensa ao princípio da colegialidade.
+A decisão que negou provimento ao recurso especial foi proferida nos seguintes termos:
+Entendeu o Tribunal a quo que deveria ser considerado o valor somado do débito real relativos aos meses de fevereiro e março/2012, que totaliza R$ 356.535,36, em razão da prática delitiva continuada, que revelaria grave dano à coletividade apto à autorizar o aumento da pena.
+De início, destaque-se que não há interesse recursal do recorrente em afastar do valor principal as multas e juros moratórios para o fim de valoração do grave dano à coletividade, já que o Tribunal a quo considerou apenas o montante real do débito, R$ 356.535,36.
+Acerca da consideração do montante total do débito tributário para o fim de valoração do grave dano à coletividade, a jurisprudência da Corte tem admitido tal mister quando se tratar de continuidade delitiva, conforme constou do acórdão recorrido, em tal sentido: AgRg no REsp 1134070/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/02/2013, DJe 05/03/2013; REsp 1498157/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/12/2014, DJe 03/02/2015; AgRg no REsp 1134027/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 04/12/2012, DJe 12/12/2012.
+Por fim, consigne-se que desconstituir a conclusão jurídica de que houve no caso grave dano à coletividade, a partir do exame valorativo do valor real total do tributo sonegado (R$ 356.535,36), encontraria óbice nos termos da Súm. 7/STJ.
+Assim, não comporta conhecimento o recurso especial nos termos das súmulas 83 e 7/STJ.
+Não obstante os argumentos deduzidos nas razões do regimental, o agravante não apresentou fundamentos aptos a desconstituir as premissas fáticas e jurídicas assentadas no decisum que, inclusive, fora proferida nos termos da orientação jurisprudencial desta Corte, que entende ser possível a consideração do montante total do débito tributário para valorar o dano à coletividade. De outro lado, afastar a conclusão do Tribunal de origem firmada no sentido de que o montante sonegado gerou dano à coletividade, atrai o óbice da Súmula 7/STJ.
+Portanto, mantenho a decisão agravada por seus próprios fundamentos.
+Postula o Ministério Público Federal a execução provisória da prestação de serviços à comunidade, imposta em face dos crimes dos arts. 306 e 309, ambos do CTB.
+É certo que a Sexta Turma desta Corte, ao apreciar os EDcl no REsp 1.484.413/DF e no REsp 1.484.415/DF, na sessão de 3/3/2016, adotou a orientação firmada pelo Pleno do Supremo Tribunal Federal (HC 122.292/MG, de 17/2/2016) de que a execução provisória da condenação penal, na ausência de recursos com efeito suspensivo, não viola o princípio constitucional da presunção de inocência.
+Inclusive, o Pleno do Supremo Tribunal Federal, apreciando medida cautelar nas Ações Declaratórias de Constitucionalidade 43 e 44 (DJE 11/10/2016), por maioria, reafirmou o entendimento da possibilidade de execução provisória da pena, na ausência de recurso com efeito suspensivo, confirmada, ainda, em repercussão geral (ARE 964246 RG, DJe 25/11/2016).
+Ocorre que, ressalvada compreensão pessoal diversa, a Terceira Seção, no julgamento do EResp 1.619.087/SC, na sessão de 14/06/2017, adotou a orientação quanto à impossibilidade de execução provisória das penas restritivas de direito, sendo indispensável, em tais casos, o trânsito em julgado da sentença penal condenatória, nos termos do art. 147 da Lei de Execução Penal.
+Ante o exposto, voto por negar provimento ao agravo regimental e indeferir o pedido de execução provisória da pena restritiva de direitos.
