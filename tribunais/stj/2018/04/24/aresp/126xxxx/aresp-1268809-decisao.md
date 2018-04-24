@@ -1,0 +1,21 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 02/STJ. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+Não se conhece de agravo cujas razões não atacam os fundamentos da decisão agravada.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+DESAPROPRIAÇÃO - Indenização paga de forma parcelada, nos termos da moratória prevista pela EC nº 30/00 - Devolução de eventuais quantias depositadas a maior e já levantadas pelas expropriadas - Questão que deve ser resolvida em ação própria, sob pena de converter a execução em repetição de indébito - Precedentes - Ausência de violação às normas invocadas - Recurso não provido.
+No recurso especial, interposto com base na alínea "a" do permissivo constitucional, o ora agravante aponta ofensa aos arts. 475-B, 475-J do CPC/73, alegando, em síntese, que:
+Ora, Excelências, impedir que o executado seja restituído do valor pago a maior nos autos da própria execução, vai de encontro ao próprio espírito da Lei 11.232/2005, cujo objetivo principal foi trazer celeridade e efetividade da prestação jurisdicional.
+Em suas contrarrazões, as recorridas pugnam pela manutenção do aresto atacado.
+O recurso foi inadmitido pela decisão de fls. 1.031/1.032.
+O agravante reitera os mesmos argumentos aduzidos no recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 2, in verbis: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Fundando-se a decisão que inadmitiu o recurso especial em entendimento consolidado no âmbito do Superior Tribunal de Justiça (como ocorre no caso), incumbe ao agravante demonstrar que a orientação não está pacificada, e não simplesmente alegar que a decisão agravada adentrou o mérito recursal.
+No mesmo sentido:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/1973. ENUNCIADO ADMINISTRATIVO Nº 2. PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS (SÚMULA 182 do STJ). PIS/PASEP E COFINS. BASE DE CÁLCULO. RECEITA OU FATURAMENTO. INCLUSÃO DO ICMS. TEMA JÁ JULGADO EM SEDE DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA.
+1. Não tendo sido admitido o recurso especial na origem, com base em entendimento consolidado no âmbito deste Superior Tribunal de Justiça, incumbe à agravante demonstrar, no agravo de instrumento, que a orientação jurisprudencial não está pacificada no mesmo sentido do acórdão recorrido, e não simplesmente reiterar as razões do recurso denegado ou alegar que o Presidente do Tribunal a quo não poderia adentrar o mérito recursal. Incide na espécie, por analogia, a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 2. Este Superior Tribunal de Justiça, no julgamento do recurso representativo da controvérsia REsp. n. 1.144.469 - PR (Primeira Seção, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/acórdão Min. Mauro Campbell Marques, julgado em 10.08.2016), firmou as teses de que: a) "O valor do ICMS, destacado na nota, devido e recolhido pela empresa compõe seu faturamento, submetendo-se à tributação pelas contribuições ao PIS/PASEP e COFINS, sendo integrante também do conceito maior de receita bruta, base de cálculo das referidas exações"; e b) "O artigo 3º, § 2º, III, da Lei n.º 9718/98 não teve eficácia jurídica, de modo que integram o faturamento e também o conceito maior de receita bruta, base de cálculo das contribuições ao PIS/PASEP e COFINS, os valores que, computados como receita, tenham sido transferidos para outra pessoa jurídica".
+3. Agravo regimental não provido.
+(AgRg no AREsp 287.296/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/12/2016, DJe 19/12/2016)
+Diante do exposto, com fundamento no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo.
+Publique-se. Intimem-se.
