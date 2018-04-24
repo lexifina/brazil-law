@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF, manejado com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 619):
+PREVIDÊNCIA PRIVADA. REVISÃO DE BENEFICIO. APELOS DE AMBAS AS PARTES. PRELIMINARES LITISCONSÓRCIO PASSIVO NECESSÁRIO. NÃO CONFIGURADO. DECADÊNCIA E PRESCRIÇÃO. NÃO OCORRÊNCIA. MÉRITO. REAJUSTE DO BENEFICIO COMPLEMENTAR. AUSÊNCIA DE VINCULAÇÃO A PREVIDÊNCIA OFICIAL. AUTONOMIA E INDEPENDÊNCIA ENTRE AS ENTIDADES PREVIDENCIÁRIAS. SENTENÇA MANTIDA RECURSO DESPROVIDO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. PEDIDO DE RETIRADA DO FEITO DA PAUTA DE JULGAMENTO. ALEGAÇÃO DE FATO NOVO. IMPOSSIBILIDADE. DOCUMENTOS PASSÍVEIS DE APRESENTAÇÃO ANTES DA PROLAÇÃO DA SENTENÇA E NAS RAZÕES DO APELO. PRECLUSÃO TEMPORAL (ART. 397 DO CPC). CONDENAÇÃO DE OFÍCIO POR LITIGÂNCIA DE MÁ-FE. OFENSA AO PRINCÍPIO DA LEALDADE PROCESSUAL EVIDENCIADA. APLICAÇÃO DE MULTA DE 1% (UM POR CENTO) E INDENIZAÇÃO DE 15% (QUINZE POR CENTO), AMBAS INCIDENTES SOBRE O VALOR ATUALIZADO DA CAUSA.
+A entidade financeira instituidora e patrocinadora da fundação de previdência privada com ela não se confunde. A obrigação contratual perante o segurado deve ser cumprida pela instituição de previdência, sendo inconsistente a tese de litisconsórcio passivo necessário.
+O art. 103 da Lei n. 8.213/91 nao se aplica aos casos que tratam da possibilidade de redução de benefício de complementação de aposentadoria, mas tão somente quanto ao direito de revisão do ato de concessão do benefício.
+A jurisprudência do STJ se consolidou no sentido de que a prescrição, em se tratando de relação de previdência privada consistente na complementação de aposentadoria, em que configurada obrigação de trato sucessivo, alcança tão somente as parcelas vencidas anteriormente ao quinqüênio laue precede o ajuizamento da ação, mas não o próprio (fundi do direito. (Ag Rg no REsp 1390199/RJ, rel. Min. Nancy Andrighi)
+A majoração do valor do benefício pago pelo orgão de previdência oficial não se reflete sobre a complementação paga pela instituição de previdência privada, porquanto independentes e de naturezas diferentes tais órgãos previdenciários. (Embargos Infringentes n. 2008.029489-0, da Capital, rel. Des. Luiz Carlos Freyesleben, j. 09.02.2011).
+A ação de natureza declaratória/condenatória, à luz do art. 20, §3º do Código de Processo Civil, determina a fixação da verba honorária entre o mínimo 10% e o máximo de 20% sobre o valor da condenação, observados o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+As práticas concomintantes de formulação de alegações infundadas e tentativa desleal de obstar o julgamento do processo justificam a aplicação cumulativa das multas por litigância de má-fé (CPC, art. 17) e por atentado à jurisdição (art. 14).
+Embargos de declaração opostos e rejeitados.
+Em suas razões de recurso especial, a recorrente aponta ofensa aos arts. 3º, parág. único, e 6º, ambos da LC nº 108/01, 18 e 19 da LC nº 109/2001, além de divergência jurisprudencial.
+Afirma a legalidade da minoração do benefício de complementação de aposentadoria em decorrência do reajuste praticado pelo INSS.
+Acresce a necessidade de observância dos critérios estabelecidos nos regulamentos dos planos de benefícios, bem como aduz que o aumento da renda global sem a respectiva fonte de custeio ofende ao regulamento contratado prestigia a invasão das reservas coletivas que sustentam o plano de benefícios.
+Aduz, por fim, não ser o CDC aplicável ao caso em comento.
+Contrarrazões às fls. 733/741, e-STJ.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. Nos termos da jurisprudência desta Casa, é possível a redução dos proventos suplementares em decorrência da majoração do benefício oficial.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. ENTIDADE FECHADA. MAJORAÇÃO DO BENEFÍCIO DO INSS. REDUÇÃO DOS PRVENTOS DE APOSENTADORIA. POSSIBILIDADE. SÚMULAS 5 E 7 DO STJ.
+1. A alteração da conclusão do acórdão recorrido no sentido de que os proventos de complementação de aposentadoria do autor dá ação correspondem à diferença entre o salário dos empregados em atividade na patrocinadora da entidade fechada de previdência privada e o montante pago pelo INSS, encontra óbice nas Súmulas 5 e 7 do STJ.
+2. Nos casos em que os proventos de complementação de aposentadoria correspondem à diferença entre o salário dos empregados em atividade na patrocinadora da entidade fechada de previdência privada e o montante pago pelo INSS (hipótese dos autos), admite-se a redução dos proventos suplementares em decorrência da majoração do benefício oficial.
+3. Agravo interno a que se nega provimento.
+(AgRg no Ag 1318486/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/03/2017, DJe 20/03/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. PLANO DE BENEFÍCIOS. REDUÇÃO DOS PROVENTOS SUPLEMENTARES EM DECORRÊNCIA DA MAJORAÇÃO DO BENEFÍCIO OFICIAL. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte firmou o entendimento de que, "Nos casos em que os proventos de complementação de aposentadoria devem corresponder à diferença entre o salário dos empregados em atividade na patrocinadora da entidade fechada de previdência privada e o montante pago pelo INSS (hipótese dos autos), admite-se a redução dos proventos suplementares em decorrência da majoração do benefício oficial" (AgRg no REsp 1.461.517/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/11/2015, DJe de 19/11/2015)
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1508614/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/09/2016, DJe 06/10/2016)
+3. Ante o exposto, dou provimento ao recurso especial a fim de julgar improcedente o pedido. Responderão os autores da ação pelo pagamento das custas processuais e dos honorários advocatícios, que fixo em R$ 1.000,00 (um mil reais).
+Publique-se. Intimem-se.
