@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por KSB BRASIL LTDA., com esteio no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Plano de saúde coletivo - Autor aposentado - Preliminares de ilegitimidade passiva, inépcia da inicial e prescrição afastadas - Plano custeado pela ex-empregadora - Irrelevância - Remuneração indireta - Aplicação do artigo 31 da lei 9.656/98 - Direito de permanecer no atual plano existente para os funcionários da ativa, com as mesmas condições de cobertura, desde que arque integralmente com as parcelas - Decisão mantida - Recurso improvido" (e-STJ fl. 259).
+Nas razões do especial (e-STJ fls. 264-274), a recorrente aponta violação dos artigos 1º e 30, § 5º, da Lei nº 9.656/1998; 11 da Consolidação das Leis do Trabalho e 206, II, do Código Civil.
+Sustenta sua ilegitimidade passiva na presente demanda ao argumento de que a Lei nº 9.656/1998 não é aplicável ao ex-empregador, mas direcionada exclusivamente aos administradores e/ou gestores de planos de saúde.
+Alega que o pedido inicial encontra-se prescrito por força da aplicação da prescrição trabalhista ao caso em tela, que estabelece o prazo de 2 (dois) anos para o ajuizamento de ação contra o ex-empregador.
+Argumenta, ainda, que o direito pleiteado também estaria prescrito, haja vista o disposto no art. 206 do CC, que prevê o prazo de 1 (um) ano para ação do segurado contra o segurador.
+Aduz, por fim, que o recorrido não preenche os requisitos para continuar a usufruir de plano de convênio médico nas mesmas condições que vigiam no curso de seu pacto laboral, visto que mantém atividade empresarial remunerada.
+Apresentadas as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+No que diz respeito à legitimidade passiva da empresa estipulante, cumpre, de início, fazer algumas considerações.
+O plano de saúde pode se dar em três modalidades distintas de regime, quais sejam, (i) individual ou familiar, (ii) coletivo empresarial e (iii) coletivo por adesão.
+O plano de saúde individual é aquele em que a pessoa física contrata diretamente com a operadora ou por intermédio de um corretor autorizado. O plano de saúde coletivo, por sua vez, é aquele contratado por uma empresa, conselho, sindicato ou associação, geralmente na condição de estipulante, junto à operadora de planos de saúde para oferecer assistência médica e/ou odontológica às pessoas vinculadas às mencionadas entidades bem como a seus dependentes.
+Como visto, há dois tipos de contratação de planos de saúde coletivos: o coletivo empresarial, o qual garante a assistência à saúde dos funcionários da empresa contratante em razão do vínculo empregatício ou estatutário, e o coletivo por adesão, contratado por pessoas jurídicas de caráter profissional, classista ou setorial, como conselhos, sindicatos e associações profissionais.
+Já a legitimidade ad causam depende do vínculo existente entre os sujeitos da ação (relação jurídica substancial) e deles com a causa (objeto litigioso), de modo que no polo passivo devem figurar, em regra, aqueles cujo patrimônio pode ser afetado com a procedência da demanda, ou seja, aqueles que suportarão os efeitos da condenação.
+Nesse sentido, confira-se a seguinte lição de Cândido Rangel Dinamarco:
+"(..)
+Legitimidade ad causam é qualidade para estar em juízo, como demandante ou demandado, em relação a determinado conflito trazido ao exame do juiz. Ela depende sempre de uma necessária relação entre o sujeito e a causa e traduz-se na relevância que o resultado desta virá a ter sobre sua esfera de direitos, seja para favorecê-la ou para restringi-la. Sempre que a procedência de uma demanda seja apta a melhorar o patrimônio ou a vida do autor, ele será parte legítima; sempre que ela for apta a atuar sobre a vida ou patrimônio do réu, também esse será parte legítima".
+(DINAMARCO, Cândido Rangel. Instituições de Direito Processual Civil, vol. II, 6ª ed., São Paulo: Malheiros, 2009, pág. 313 - grifou-se)
+Dessa forma, para se aferir a legitimidade passiva ad causam da ex-empregadora, na qualidade de estipulante, em ação de ex-empregado que busca a manutenção das mesmas condições de cobertura e de mensalidade de plano de saúde coletivo de quando estava na ativa, revela-se necessário verificar a natureza jurídica das relações estabelecidas entre os diversos atores nesse contrato: usuários, estipulante e operadora de plano de saúde.
+Para tanto, faz-se necessário buscar amparo nos institutos do seguro de vida coletivo (art. 801 do Código Civil). Com efeito, apesar de serem contratos distintos, as relações existentes entre as diferentes figuras do plano de saúde coletivo são similares às havidas entre as personagens do seguro de vida em grupo.
+Sobre o tema, [NOME] assim assinala:
+"(..)
+(..) O seguro de vida coletivo apresenta nuances diferentes que lhe dão uma feição própria. De formação mais recente que outros ramos, esse seguro tem muitos aspectos ainda discutidos pela doutrina, na busca de uma configuração jurídica adequada, não só de natureza do próprio contrato, como, principalmente, da pessoa do estipulante.
+46.3. Convém examinar as seguintes relações que se estabelecem no contrato: entre o segurador e o grupo de segurados; entre o segurador e o estipulante; finalmente, entre o estipulante e o grupo de segurados. Estas relações não são da mesma natureza jurídica. Sua harmonização em benefício dos interesses que se ligam no contrato tem sido objeto de estudos, mas, na prática, já estão assumindo feições definitivas de resguardo dos interesses do segurador.
+A vinculação entre o segurador e o grupo segurado é da mesma natureza do seguro de vida individual. Trata-se de uma estipulação a favor de terceiro. O segurador garante o pagamento do seguro aos beneficiários dos segurados que formam o grupo.
+46.4. Atentando-se para as relações entre o segurador e o estipulante, o contrato entre eles estabelecido não é uma estipulação a favor de terceiro e, sim, um contrato por conta de terceiro. (..).
+O estipulante é a principal figura do contrato. Assume perante o segurador a responsabilidade pelo pagamento do prêmio e pelo cumprimento das cláusulas contratuais. (..).
+46.5. Resta verificar a ligação entre o estipulante e o grupo segurado. Ele é apenas um intermediário (..).
+46.6. O estipulante se vincula ao grupo segurado por um contrato qualquer, estranho ao contrato de seguro. Não representa o segurador perante esse grupo".
+([NOME], [NOME]. O Seguro e o Novo Código Civil. Rio de Janeiro: Forense, 2007, págs. 200-201 - grifou-se)
+Assim, o vínculo jurídico formado entre a operadora e o grupo de usuários caracteriza-se como uma estipulação em favor de terceiro (art. 436 do CC). Por seu turno, a relação havida entre a operadora e o estipulante é similar a um contrato por conta de terceiro. Por fim, para os usuários, o estipulante é um intermediário, um mandatário e não um preposto da operadora de plano de saúde.
+Nesse contexto, o estipulante é apenas a pessoa jurídica que disponibiliza o plano de saúde em proveito do grupo que a ela se vincula, mas não representa a própria operadora. Ao contrário, o estipulante deve defender os interesses dos usuários, pois assume, perante a prestadora de serviços de assistência à saúde, a responsabilidade pelo cumprimento de todas as obrigações contratuais de seus representados.
+Sobre a figura do estipulante nos contratos de seguro de vida em grupo, cabe conferir, mais uma vez, os ensinamentos de [NOME]:
+"(..)
+(..) Nesses seguros, além do segurador que assume a responsabilidade dos riscos previstos no contrato, aparecem os seguintes interessados: o estipulante, que é a pessoa física ou jurídica que se responsabiliza perante o segurador pelo pagamento do prêmio e o cumprimento das cláusulas contratuais; os segurados que são as pessoas sujeitas ao risco e a favor de quem se faz a cobertura do seguro; finalmente, os beneficiários que são as pessoas indicadas pelos segurados para receber o pagamento do seguro, no caso de morte. (..)
+(..)
+(..) o legislador aprovou o art. 801  do Código Civil . O seguro de pessoas pode ser estipulado em proveito de grupo que, de qualquer modo, se vincule ao estipulante, que não representa o segurador perante o grupo segurado. É ele o único responsável, para com o segurador, pelo cumprimento de todas as obrigações contratuais. A modificação da apólice em vigor dependerá da anuência expressa de segurados, que representem três quartos do grupo.
+(..)
+(..) Ficou explícito no § 1º do dispositivo legal em exame que o estipulante não é mandatário do segurador. Esclarece a justificação do professor Comparato que não representa também o segurado. É o único responsável, para com o segurador, do cumprimento de todas as obrigações contratuais. Exerce um papel independente das demais partes que figuram no contrato, onde assume todas as obrigações contratuais perante o segurador, sobretudo o pagamento do prêmio recolhido dos segurados".
+([NOME], [NOME]. O Seguro e o Novo Código Civil. Rio de Janeiro: Forense, 2007, pág. 199 e 202 - grifou-se)
+Enfim, a empresa estipulante, em princípio, não possui legitimidade para figurar no polo passivo de demanda proposta por ex-empregado que busca, nos termos dos arts. 30 e 31 da Lei nº 9.656/1998, a permanência de determinadas condições contratuais em plano de saúde coletivo após a ocorrência da aposentadoria ou da demissão sem justa causa, visto que atua apenas como interveniente, na condição de mandatária do grupo de usuários e não da operadora. Esse é o entendimento que deve ser aplicado na hipótese dos autos.
+A propósito, os seguintes julgados desta Corte Superior:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. COMPROVANTES DE PREPARO ILEGÍVEIS. FALHA NA DIGITALIZAÇÃO NO TRIBUNAL DE ORIGEM.
+(..)
+2. O empregador, enquanto estipulante no contrato de plano de saúde em grupo, atua como mero mandatário, não possuindo legitimidade para integrar o pólo passivo da lide nos casos de pedido de manutenção do plano de saúde após a aposentadoria ante a previsão do art. 31 da Lei n. 9.656/98.
+3. Agravo regimental provido." (AgRg no AREsp nº 205.121/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, DJe 14/3/2016)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. LEGITIMIDADE PASSIVA DA MANDATÁRIA AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA Nº 7/STJ.
+1. Esta Corte Superior é firme no entendimento de que, em regra, a estipulante de contrato de plano de saúde coletivo é parte ilegítima para figurar no pólo passivo de ação de cobrança ajuizada pelos segurados ou beneficiários, na medida em que teria agido como simples mandatária.
+2. Tendo as instâncias ordinárias, soberanas na análise fática da causa, reconhecido expressamente a ilegitimidade da parte ré para a demanda, a pretensão recursal em sentido contrário esbarra, inarredavelmente, na Súmula nº 7/STJ.
+3. Agravo regimental não provido." (AgRg no AREsp nº 256.552/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 26/9/2013)
+Ante o exposto, dou provimento ao recurso especial para reconhecer a ilegitimidade passiva da recorrente KSB BOMBAS HIDRÁULICAS S.A. Prejudicada a análise das demais questões.
+Publique-se.
+Intimem-se.
