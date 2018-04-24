@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por IONE MARIA PAGEL E OUTROS, em 17/04/2017, contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que inadmitiu o Recurso Especial manejado contra acórdão assim ementado:
+"APELAÇÃO CÍVEL. REAPRECIAÇÃO DO RECURSO. RESP Nº 1.526.354. AÇÃO ESPECÍFICA PARA RESTITUIÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA RETIDA EM AÇÃO ANTERIOR. POSSIBILIDADE. SERVIDORAS PÚBLICAS INATIVAS. ANÁLISE DO RECURSO NA FORMA DO ARTIGO 515, §3º DO CÓDIGO DE PROCESSO CIVIL.
+- Os descontos previdenciários decorrem de lei e são exigíveis no momento do pagamento sobre o valor efetivamente recebido. Ressalva aos inativos, e até o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social, RGPS, a contar da vigência da LC 12.065/2004.
+- Em relação ao período anterior à Lei, não tendo havido comprovação de postulação e obtenção de cessação dos descontos em decisão judicial, por inconstitucionalidade da contribuição previdenciária, no percentual de 5,4%, em relação aos inativos, deve ser mantida a regularidade da cobrança, independente do valor dos proventos.
+- Recurso parcialmente provido" (fl. 293e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. REAPRECIAÇÃO DO RECURSO. RESP Nº 1.526.354. AÇÃO ESPECÍFICA PARA RESTITUIÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA RETIDA EM AÇÃO ANTERIOR. POSSIBILIDADE. SERVIDORAS PÚBLICAS INATIVAS. ANÁLISE DO RECURSO NA FORMA DO ARTIGO 515, §3º DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA DE AFRONTA AOS REQUISITOS DO ARTIGO 535 DO CPC. REDISCUSSÃO DE MATÉRIA IMPUGNADA. VEDAÇÃO. PREQUESTIONAMENTO.
+-Não merecem ser acolhidos os embargos que, ao pretexto de ver sanada omissão, objetivam, na verdade, rediscutir matéria já apreciada.
+-Consideram-se prequestionados os elementos suscitados pelo embargante, conforme artigo 1.025 do NCPC.
+-Embargos de declaração desacolhidos" (fl. 313e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa ao art. 489, § 1º, IV, do CPC/2015, sob o argumento de que a Corte de origem "deixou de adentrar no mérito de questão de direito material que embasa pedido contido na peça inicial do processo" (fl. 327e), concernente à inconstitucionalidade da incidência de contribuição previdenciária sobre inativos entre a Emenda Constitucional 20/98 e a Emenda Constitucional 41/2003.
+Foram apresentadas contrarrazões (fls. 341/346e e 348/354e).
+Negado seguimento ao Recurso Especial (fls. 357/362e), foi interposto o presente Agravo (fls. 367/377e).
+Apresentada contraminuta (fls. 382/385e).
+A irresignação não merece acolhimento.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "quanto à eventual período anterior, não tendo a parte credora demonstrado a postulação e obtenção de cessação dos descontos em decisão judicial, por inconstitucionalidade da contribuição previdenciária, aqui no Estado no percentual de 5,4%, em relação aos inativos, deve ser mantida a regularidade da cobrança, independente do valor dos proventos. Nesse sentido, passo a adotar o posicionamento pacificado nesta Câmara" (fl. 299e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios, anteriormente fixados em R$ 500,00 (quinhentos reais - fl. 90e), para R$ 666,00 (seiscentos e sessenta e seis reais), levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
