@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao artigo 150, VI, “a”, e § 2º, da Constituição Federal.
+    Anote-se a ementa do acórdão recorrido:
+    “DIREITO CONSTITUCIONAL. PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INOMINADO. ART. 557, CPC. EMBARGOS À EXECUÇÃO FISCAL. IPTU. INSS. COMPROMISSO DE COMPRA E VENDA SEM REGISTRO. LEGITIMIDADE PASSIVA. IMUNIDADE RECÍPROCA. ART. 150, VI, "A" E §2° DA CF/88. DESPROVIMENTO DO RECURSO.
+    1. O artigo 557 do Código de Processo Civil é aplicável quando existente jurisprudência dominante acerca da matéria discutida e, assim igualmente, quando se revele manifestamente procedente ou improcedente, prejudicado ou inadmissível o recurso, tendo havido, na espécie, o específico enquadramento do caso no permissivo legal, como expressamente constou da respectiva fundamentação.
+    2. A execução fiscal embargada cobra IPTU, competência de 2009, do INSS, proprietário do imóvel segundo o Registro Imobiliário e, portanto, contribuinte do imposto.
+    3. A alegação de que alienou o imóvel, em 01/04/1971, através de contrato particular de compromisso de compra e venda, porém sem o registro e a transferência do domínio, não se presta a infirmar a condição legal do proprietário como contribuinte do IPTU.
+    4. A imunidade do artigo 150, VI, a, § 2º da CF, exige que o bem esteja vinculado às finalidades essenciais da autarquia, o que não se evidencia no caso dos autos.
+    5. Agravo inominado desprovido.” (grifo nosso)
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o Tribunal de origem concluiu pela incidência do IPTU sobre o imóvel em discussão, baseando-se na existência de dados concludentes da desvinculação da propriedade às finalidades essenciais da autarquia, bem como na legislação infraconstitucional que rege o instituto da transferência da propriedade imobiliária. Desse modo, para ultrapassar o entendimento firmado pela instância de origem, seria necessário o reexame da causa à luz da legislação infraconstitucional e do conjunto fático-probatório dos autos, o que é inviável em sede de apelo extremo. Incidência da Súmula n° 279 desta Corte. Nesse sentido:
+    “EMENTA Agravo regimental em recurso extraordinário. Tributário. Imunidade. Entidade beneficente de educação (art. 150, VI, a, CF). Requisitos para o benefício. Matéria infraconstitucional. Destinação dos bens. Revolvimento de fatos e provas. Súmula nº 279/STF. 1. O acórdão recorrido concluiu pelo enquadramento do conselho cultural como entidade beneficente de educação sem fins lucrativos, a partir da análise dos requisitos previstos no art. 14 do Código Tributário Nacional, norma de cunho infraconstitucional. Inviável a abertura da via extraordinária. Precedentes. 2. Dissentir do que restou decidido no v. acórdão recorrido – que, relativamente ao IPTU, entendeu preenchidos os requisitos necessários ao gozo da imunidade prevista no art. 150, VI, c, da Constituição Federal - importaria no revolvimento de fatos e provas, o que é vedado, a teor da Súmula nº 279/STF. Precedentes. 3. Agravo regimental não provido” (RE n° 543.413/DF-AgR, Primeira Turma, de minha relatoria, DJe de 23/5/13)
+    “EMENTA Agravo regimental no agravo de instrumento. Tributário. IPTU. Imunidade. Finalidade do imóvel. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A Corte de origem, com fundamento nos fatos e nas provas dos autos, concluiu não ser possível conceder a imunidade tributária pleiteada pela ora agravante. 2. Não se presta o recurso extraordinário ao reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido” (AI n° 742.339/PR-AgR, Primeira Turma, de minha relatoria, DJe de 20/9/12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. AUTARQUIA. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - IPTU. VINCULAÇÃO DO IMÓVEL ÀS FINALIDADES ESSENCIAIS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n° 378.136/AgR-DF, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 5/2/10).
+     Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
