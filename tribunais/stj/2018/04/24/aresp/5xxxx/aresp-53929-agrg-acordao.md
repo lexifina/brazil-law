@@ -1,0 +1,86 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. PREVIDÊNCIA PRIVADA. ERRO NO CÁLCULO DO BENEFÍCIO. PRESCRIÇÃO. OCORRÊNCIA. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. No contexto dos autos, para reconhecer a efetiva existência de pagamento indevido, haveria necessidade de reapreciar as provas dos autos e as cláusulas contratuais, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+3. No que se refere à aplicação do art. 63, parágrafo único, da Lei Complementar n. 109/2001 para efeito de responsabilizar exclusivamente o profissional que cometeu o erro objeto deste processo, deixou a recorrente de impugnar tal fundamento no recurso especial, o que atrai a orientação da Súmula n. 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. A pretensão da recorrente de repetição do indébito não se confunde com eventuais pedidos de recebimento de "rendas temporárias ou vitalícias", o que torna inaplicável a regra do art. 178, § 10, II, do CC/1916.
+5. O art. 189 do CC/2002 não alcança a presente demanda, proposta em 3.4.2002, nem mesmo à luz das prestações cuja restituição foi requerida na reconvenção, tendo em vista que anteriores à vigência do referido Código.
+6. Incidência da vedação contida na Súmula n. 284 do STF no tocante à prescrição, carente o recurso especial de indicação de norma legal aplicável.
+7. Agravo regimental improvido.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo regimental interposto por PREVID EXXON - SOCIEDADE DE PREVIDÊNCIA PRIVADA contra a decisão de fls. 1.117/1.119 (e-STJ), que negou provimento ao agravo da ora recorrente por incidirem as vedações das Súmulas n. 282 e 356 do STF, 5 e 7 do STJ.
+Em suas razões, a agravante impugna os fundamentos da decisão agravada e reitera as teses do recurso especial.
+Sustenta não haver "necessidade alguma de se revolver matéria de fato nem de se analisar cláusula contratual, pois é fato incontroverso nos autos, comprovado por perícia atuarial, que o pagamento feito a maior mês a mês ao agravado decorre de erro no cálculo inicial do benefício devido ao agravado" (e-STJ fl. 1.125). Teria o colegiado, ainda, admitido "que o pagamento foi feito a maior em decorrência deste erro apurado no cálculo inicial do benefício do autor, ora agravado" (e-STJ fl. 1.125). Apenas considerou prescrito o pedido de repetição. Em tal contexto, segundo a agravante, "a matéria, acerca da prescrição, é exclusivamente de direito: trata-se de decidir se o erro ocorrido no início do pagamento das prestações mensais e sucessivas se convalida com o passar dos autos ou se a cada pagamento feito a maior nasce para a ré uma nova pretensão" (e-STJ fl. 1.125).
+Invoca a orientação da Súmula n. 85 do STJ e alega afronta aos arts. 178, § 10, II, do CC/1916 e 189 do CC/2002, argumentando que a prescrição deveria atingir somente os cincos anos anteriores ao pedido, por se tratar de prestações de trato sucessivo.
+Afirma que teria havido violação do art. 4º da LINDB, pois o pagamento do benefício em valor maior que o efetivamente devido esbarra no princípio que veda o enriquecimento sem causa.
+Ao final, requer a reconsideração da decisão ou a apreciação deste regimental pelo colegiado.
+O agravado, por seu advogado, apresentou impugnação argumentando que não assiste razão à agravante, tendo em vista que:
+(..) a uma, porque não implementados os pressupostos específicos de admissibilidade do presente agravo - falta impugnação específica e há fundamento suficiente inatacado;
+a duas, porque, o recurso de agravo de decisão denegatória que foi rejeitado monocraticamente é intempestivo e, por mais esse motivo, não tem como ser conhecido;
+a três, porque, o recurso de agravo, no mérito, não tem como ser provido - falta prequestionamento e, para a análise do direito não prequestionado é necessário revolver a matéria fático-probatória, assim como, reinterpretar cláusula contratual. (e-STJ fls. 1.144/1.145.)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENRIQUECIMENTO SEM CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. PREVIDÊNCIA PRIVADA. ERRO NO CÁLCULO DO BENEFÍCIO. PRESCRIÇÃO. OCORRÊNCIA. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. No contexto dos autos, para reconhecer a efetiva existência de pagamento indevido, haveria necessidade de reapreciar as provas dos autos e as cláusulas contratuais, o que é vedado pelas Súmulas n. 5 e 7 do STJ.
+3. No que se refere à aplicação do art. 63, parágrafo único, da Lei Complementar n. 109/2001 para efeito de responsabilizar exclusivamente o profissional que cometeu o erro objeto deste processo, deixou a recorrente de impugnar tal fundamento no recurso especial, o que atrai a orientação da Súmula n. 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+4. A pretensão da recorrente de repetição do indébito não se confunde com eventuais pedidos de recebimento de "rendas temporárias ou vitalícias", o que torna inaplicável a regra do art. 178, § 10, II, do CC/1916.
+5. O art. 189 do CC/2002 não alcança a presente demanda, proposta em 3.4.2002, nem mesmo à luz das prestações cuja restituição foi requerida na reconvenção, tendo em vista que anteriores à vigência do referido Código.
+6. Incidência da vedação contida na Súmula n. 284 do STF no tocante à prescrição, carente o recurso especial de indicação de norma legal aplicável.
+7. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida, possuindo a decisão agravada o seguinte teor (e-STJ fls. 1.117/1.119):
+Trata-se de agravo nos próprios autos (CPC, art. 544) interposto contra decisão que inadmitiu o recurso especial.
+O acórdão recorrido está assim ementado (e-STJ fl. 984):
+"PREVIDÊNCIA PRIVADA - Complementação da aposentadoria - Verificação de erro de cálculo atuarial, ocorrido em 1990, pela falta de aplicação de cláusula contratual - Plano de Previdência Privada que, após a referida verificação, pretendeu a redução de benefícios do autor, aposentado de longa data - Inadmissibilidade - Ocorrência de prescrição, relativamente ao reconhecimento do erro na interpretação de cláusula contratual - Sentença mantida - Recurso improvido".
+Não foram opostos embargos de declaração.
+As razões do recurso especial, fundamentado pelo art. 105, III, "a", da CF, apontaram ofensa aos arts. 178, § 10, II, do CC/1916, 189 do CC/2002 e 4º da LICC (e-STJ fls. 991/1006). Sustentou, em síntese, ser "improcedente o pedido de abstenção de correção do benefício vertido ao recorrido, na medida em que, mês a mês, o direito da recorrente é violado, nascendo para ela uma pretensão de repetição do que foi pago a maior para o recorrido" (e-STJ fl. 1.005).
+O Tribunal a quo inadmitiu o recurso sob o fundamento segundo o qual o acórdão estaria devidamente fundamentado, não sendo atendidas quaisquer das hipóteses autorizadoras da interposição recursal previstas nas alíneas "a", "b" e "c" do permissivo (e-STJ fls. 1.039/1.040).
+A agravante, em suas razões, impugna os fundamentos da decisão agravada (e-STJ fls. 1.080/1.099).
+É o relatório.
+Decido.
+Correta a decisão de inadmissibilidade do recurso especial.
+No tocante aos arts. 4º da LICC e 189 do CC/2002, a simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento. Há, portanto, incidência das Súmulas ns. 282 e 356 do STF, respectivamente:
+"É inadmissível o recurso especial, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+No presente caso, não houve enfrentamento da matéria pelo Tribunal de origem à luz da legislação federal supostamente violada.
+Ademais, a respeito da alegada violação do art. 178, § 10, II, do CC/1916, o Tribunal de origem consignou que (e-STJ fls. 986/987):
+"Como bem observado na r. sentença, a própria apelante admitiu que houve erro atuarial, considerado por ela como erro substancial, na forma prevista no art. 87 do Código Civil, decorrente da inadequação da metodologia de correção dos benefícios, pela incorreta apreciação da cláusula 7.12.8 do regulamento, implementando forma indevida de reajuste, desde a data do primeiro benefício concedido ao autor, somente verificado em 30 de setembro de 1990.
+Observa-se, "in casu", ocorreu mesmo a prescrição sobre o reconhecimento do erro de interpretação da cláusula contratual, que ocorreu no ano de 1990, a teor do que dispõe o art. 178, § 10º, inciso II, do Código Civil de 1916, vigente à época dos fatos. Assim, não há como ser exigida a repetição de pagamento indevido.
+Além do mais, reitera-se o entendimento do Mm. Magistrado de Primeiro Grau, de que o erro não pode ser considerado como escusável, uma vez que o cálculo realizado para a concessão do benefício foi realizado por profissional especializado na área, que se presume que deveria usar de prudência regular de sua profissão. Referida inescusabilidade é equiparada à culpa do profissional que praticou o erro, sendo, pois, dele a responsabilidade na repetição, nos termos do art. 63, parágrafo único, da Lei Complementar n. 109/01.
+E não colhe a alegação de não ocorrência de prescrição, levantada pela apelante, por se tratar os benefícios concedidos ao autor-apelado, prestações de trato sucessivo, renovando-se o prazo a cada parcela recebida, porque o que foi considerado prescrito foi o erro verificado em 1990.
+Quanto à indenizatória por danos morais, também é devida, uma vez que a apelante reduziu os benefícios do apelado, unilateralmente, para corrigir erro cometido por ela própria". (grifou-se).
+Dissentir do acórdão recorrido, o qual concluiu que o direito autoral estaria amparado pela prescrição do debate acerca do erro na interpretação de cláusula contratual, demandaria análise do contrato e reexame do conjunto fático-probatório dos autos, o que é vedado a esta Corte, tendo em vista o óbice das Súmulas ns. 5 e 7 do STJ:
+"A simples interpretação de cláusula contratual não enseja recurso especial".
+"A pretensão de simples reexame de prova não enseja recurso especial".
+Em face do exposto, NEGO PROVIMENTO ao agravo, nos termos do art. 544, § 4º, II, "a", do CPC.
+Publique-se e intimem-se.
+Com efeito, não houve o prequestionamento do art. 4º da LINDB (tese de enriquecimento ilícito do agravado). As instâncias ordinárias não apreciaram essa questão, nem mesmo de forma implícita. Ressalte-se que a agravante não opôs embargos declaratórios objetivando suprir eventual omissão, sendo inafastável, portanto, a incidência das Súmulas n. 282 e 356 do STF.
+Por outro lado, não é incontroverso que teria havido pagamentos verdadeiramente indevidos. Confiram-se, a propósito, as seguintes passagens da petição inicial e da réplica, nas quais o autor apenas fala em "supostos" equívocos e prejuízos:
+Ora, os supostos prejuízos reclamados pela Ré advém, única e exclusivamente, de equívocos confessos, perpetrados por funcionários e profissionais contratados por ela própria, que supostamente deixaram de calcular e aplicar corretamente um índice denominado "retorno de investimentos antecipados".
+Importante reiterar, nesse sentido, que o suposto equívoco apontado pela Ré não se deve a nenhum comportamento do ora Autor, que sempre contribuiu regularmente para o plano, prestou informações oportuna e corretamente e jamais criou entraves ao regular cumprimento do contrato. (e-STJ fls. 13/14 e 154 - grifei.)
+O texto reproduzido demonstra que o autor não reconhece que, efetivamente, tenha havido erro no pagamento.
+Extraio da sentença e do acórdão recorrido, por sua vez, que o mencionado pagamento indevido constitui fato incontroverso apenas para a ré, que alegou o próprio equívoco. Nesse sentido, os seguintes trechos da sentença e do acórdão recorrido, respectivamente:
+Resulta incontroverso pela própria admissão da ré que houve erro atuarial, considerado por ela como erro substancial, na forma prevista pelo art. 87 do Código Civil de regência à época, decorrente de inadequação da metodologia de correção dos benefícios e este desde a data do primeiro benefício concedido até o mês de dezembro de 1997.
+ ..
+Dessa forma, o erro substancial afirmado pela ré, capaz de interferir na relação jurídica havida entre as partes, ocorreu na incorreta apreciação da cláusula 7.12.8 do regulamento. (e-STJ fls. 842/843 - sentença - grifei.)
+Como bem observado na r. sentença, a própria apelante, admitiu que houve erro atuarial, considerado por ela, como erro substancial, na forma prevista no art. 87, do Código Civil, decorrente de inadequação da metodologia de correção dos benefícios, pela incorreta apreciação da cláusula 7.12.8 do regulamento, implementando forma indevida de reajuste, desde a data do primeiro benefício concedido ao autor, somente verificado em 30 de setembro de 1990. (e-STJ fl. 986 - acórdão recorrido - grifei.)
+Nessas circunstâncias, para admitir como fato incontroverso a realização de pagamento indevido haveria necessidade de reapreciar as provas dos autos e as cláusulas contratuais.
+Quanto ao mais, ainda que se afastem as Súmulas n. 5 e 7 do STJ, a pretensão apresentada no recurso especial não deve ser acolhida, esbarrando também na vedação da Súmula n. 283 do STJ.
+Destaco que o Tribunal de origem adotou dois fundamentos independentes entre si para negar provimento à apelação. O primeiro diz respeito à prescrição, enfrentado pela recorrente. O segundo, porém, que se refere à aplicação do art. 63, parágrafo único, da Lei Complementar n. 109/2001 para efeito de responsabilizar exclusivamente o profissional que cometeu o erro objeto deste processo, não foi objeto de impugnação no recurso especial. Eis o que consta do acórdão recorrido a respeito desse segundo fundamento:
+Além do mais, reitera-se o entendimento do Mm. Magistrado de Primeiro Grau, de que o erro não pode ser considerado como escusável, uma vez que, o cálculo realizado para a concessão do benefício foi realizado por profissional especializado na área, que se presume que deveria usar de prudência regular de sua profissão. Referida inescusabilidade é equiparada à culpa do profissional que praticou o erro, sendo, pois, dele a responsabilidade na repetição, nos termos do art. 63, parágrafo único, da Lei Complementar nº 109/01. (e-STJ fl. 987 - grifei.)
+De fato, a recorrente, no especial, não teceu nenhuma consideração específica acerca do art. 63, parágrafo único, da Lei Complementar n. 109/2001, o que atrai a orientação da Súmula n. 283 do STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+No tocante à ocorrência da prescrição, ressalto que a discussão travada no recurso especial diz respeito ao direito de repetição do indébito. Ou seja, debate-se a prescrição do direito que teria a entidade de previdência privada de reaver parcelas pagas indevidamente ao beneficiário. Sob esse enfoque, revelam-se absolutamente impertinentes as normas dos arts. 178, § 10, II, do CC/1916 e 189 do CC/2002, que assim estabelecem:
+Art. 178. Prescreve:
+ ..
+§ 10 Em 5 (cinco) anos:
+ ..
+II - As prestações de rendas temporárias ou vitalícias. (CC/1916.)
+Art. 189. Violado o direito, nasce para o titular a pretensão, a qual se extingue, pela prescrição, nos prazos a que aludem os arts. 205 e 206. (CC/2002.)
+Flagrantemente, a pretensão da recorrente de repetição do indébito não se confunde com eventuais pedidos de recebimento de "rendas temporárias ou vitalícias", o que torna inaplicável a regra do art. 178, § 10, II, do CC/1916.
+O art. 189 do CC/2002, por sua vez, não alcança a presente demanda, proposta em 3.4.2002 (e-STJ fls. 6/27), nem mesmo à luz das prestações cuja restituição foi requerida na reconvenção (e-STJ fls. 71/74), tendo em vista que anteriores à vigência do referido Código.
+Acerca da prescrição, portanto, incide a vedação da Súmula n. 284 do STF, carente o recurso especial de indicação de norma legal aplicável.
+Diante do exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
