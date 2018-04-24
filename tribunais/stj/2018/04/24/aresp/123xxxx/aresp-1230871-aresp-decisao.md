@@ -1,0 +1,10 @@
+DECISÃO
+1. Cuida-se de agravo interposto por [NOME] e OUTRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. HONORÁRIOS. PERICIAIS. INEXISTÉNCIA DE ÓBICE LEGAL AO PARCELAMENTO. RAZOABILIDADE DO NÚMERO PARCELAS FIXADAS NA DECISÃO MONOCRÁTICA. AUSÊNCIA DE FATOS NOVOS. MANUTENÇÂO. I - Não obstante a aquiescência expressa da parte adversa, o parcelamento dos honorários periciais em dez (10) vezes não representa adequada remuneração do Expert e, ainda, é desarrazoado esse número de parcelas e contribui para a demora excessiva no processamento de feito, cuja tramitação é prioritária, à luz do Estatuto do Idoso. Nas circunstâncias, o pagamento da verba honorária em quatro (4) parcelas, iguais e sucessivas, afigura-se razoavel, não acarretando ônus excessivo a parte que a custeará. II- Ausentes argumentos novos que demonstrem o desacerto dos fundamentos utilizados na decisão recorrida, nega-se provimento ao recurso de agravo regimental RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 33, 333, inciso II e 535, incisos I e II, do CPC de 1973.
+Na petição de fls. 287/291, a ora agravada alegou que o presente recurso teria perdido o seu objeto.
+Intimada, a parte agravante, na petição de fls. 296/311, informou "que os autos de origem da ação de reintegração de posse n. 28707-11.2011.8.09.0181, proposta pela Agravada em face dos Agravantes, foi devidamente julgada IMPROCEDENTE pelo nobre Juízo a quo da Vara Cível da Comarca de Flores de Goiás/GO, conforme se vê do inteiro teor da r. Sentença em anexo, motivo pelo qual o presente recurso perdeu o seu objeto, tudo por ser de direito e Justiça".
+2. Portanto, resta prejudicado o presente recurso, nos termos do artigo 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+3. Após, baixem os autos à instância de origem.
