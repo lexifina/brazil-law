@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto, com arrimo na alínea "a" do permissivo constitucional, contra v. acórdão do eg. Tribunal de Justiça de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. VIZINHANÇA. Ação demolitória. Cumprimento de sentença. Decisão agravada que somente determinou o processamento do incidente com a intimação dos executados pura o pagamento da multa cominatória. Regularidade da determinação, cabendo ao Juízo da causa apreciar as matérias de defesa, sob pena de supressão de grau de jurisdição. Recurso desprovido."
+Os embargos de declaração opostos foram rejeitados, nos termos dos v. acórdãos de fls. 482/486 e 516/520.
+Irresignados, os recorrentes apontam ofensa ao art. 803 do Código de Processo Civil, aduzindo, em síntese, que o cumprimento de sentença proposto pela parte ora recorrida, para recebimento de quantia apurada a título de astreintes, seria nula porquanto título executado não corresponderia a obrigação certa, líquida e exigível.
+É o relatório. Decido.
+De saída, faz-se oportuno destacar que o eg. Tribunal a quo concluiu que as questões suscitadas a respeito do cumprimento da obrigação de fazer e da incidência da multa cominatória devem ser examinadas em sede de impugnação ao cumprimento de sentença, senão vejamos das seguintes passagens do v. acórdão recorrido:
+ "Em que pese o inconformismo, a decisão agravada não comporta qualquer reparo.
+ Isso porque não obstante a relevância dos fundamentos apresentados, o que a agravante pretende é submeter a este Egrégio Tribunal as questões que devem ser ventiladas em impugnação ao cumprimento de sentença, perante o Juízo da causa.
+ Ora, a decisão agravada somente determinou o processamento do pedido e autorizou o bloqueio de ativos financeiros e, sem prejuízo da livre análise das questões apresentadas pelos agravantes, não se verificava qualquer impedimento para que fosse deferida a penhora, na fase de cumprimento de sentença.
+ O venerando acórdão que confirmou a respeitável sentença é o título executivo judicial, de modo que não se vislumbra a alegada nulidade do procedimento.
+ Inclusive, a incidência da multa cominatória já foi apreciada no julgamento dos Agravos de Instrumento nº 0044843-36.2012.8.26.0000 e 0068345-04.2012.8.26.0000.
+ De todo modo, as nulidades alegadas devem ser deduzidas pela via própria, em competente impugnação ao cumprimento de sentença, ou outro meio de defesa adequado, para que sejam livremente apreciadas pelo Juízo da causa, sendo inviável o seu conhecimento nessa oportunidade, sob pena de supressão de grau de jurisdição.
+ ..
+ E, acerca da incidência da multa diária, é certo que ela pode ser reavaliada a qualquer tempo, tendo em vista que, conforme julgamento do REsp nº 1.333.988/SP, julgado em 09 de abril de 2014, da relatoria do Ministro Paulo de Tarso Sanseverino, nos termos do artigo 543-C, do Código de Processo Civil, a decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada.
+ Destarte, resta confirmada a decisão agravada, pois proferida em conformidade com as disposições legais da fase de cumprimento de sentença, devendo a questão relativa a efetiva incidência da multa cominatória e o seu valor ser avaliada ao final, como determinado pelo Juízo da causa, sob pena de supressão de grau de jurisdição, que deverá observar, em qualquer hipótese, o quanto já decidido por este Egrégio Tribunal.
+Ocorre que, como reconhecido no acórdão impugnado, os recorrentes estão sob efeito de bloqueio de valores elevados, apesar da demonstração do cumprimento da obrigação de fazer, o que implica em violação do art. 803, I, do CPC/2015. Observe-se que sequer fixado o prazo para cumprimento da obrigação de demolição de obra, eis que dependente de perícia.
+Sobre a matéria, é pacífica a jurisprudência deste Tribunal:
+ "Não fixado o prazo para o cumprimento da obrigação de fazer, não cabe a incidência da multa cominatória uma vez ausente o seu requisito intrínseco temporal" (STJ-4ª - T., AI 1.323.400-AgRg. Min. Luis Felipe j. 23.10.12, DJ 5.11.12). No mesmo Sentido: STJ-3ª T., REsp 1.455.663, Min. Ricardo Cueva, j. 7.8.14, DJ 25.8.14
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, para determinar o levantamento do bloqueio de valores, conforme postulado pelos recorrentes .
+Publique-se.
