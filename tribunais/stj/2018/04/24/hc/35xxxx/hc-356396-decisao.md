@@ -1,0 +1,19 @@
+DECISÃO
+[NOME] alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 0053809-80.2015.8.26.0000).
+O impetrante acoima de ilegal a decisão que indeferiu o pedido de comutação de penas do paciente, formulado com base no Decreto n. 8.380/2014, apesar de preenchidos os seus requisitos taxativos. Alega que o apenado "já cumpriu o lapso referente aos crimes comuns, atingindo por então o lapso necessário exigido pelo decreto presidencial" (fl. 4) e, ainda, "demonstrou mérito nos últimos anos do cumprimento de sua pena, já que não possui falta grave disciplinar de natureza grave no ano do Decreto" (fl. 4).
+Requer o deferimento do benefício.
+O Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+O acórdão estadual assim dirimiu a controvérsia:
+A r. sentença impugnada indeferiu o beneficio pleiteado, considerando que o PACIENTE, apesar de ter cumprido o lapso temporal exigido, não satisfez o requisito subjetivo, considerado o exame psicossocial desfavorável, assim como seu histórico prisional.
+Infere-se da r. sentença, acostada às fls. 25/26, que [NOME] ostenta sete execuções criminais e apresenta histórico de fugas e faltas disciplinares de natureza grave, que embora tenham sido praticadas fora do período mencionado no Decreto, devem ser consideradas em desfavor do condenado. Observa-se, ainda, que ele é integrante de facção criminosa, demonstrando, portando, sua inaptidão para ser agraciado com a comutação (fl. 10).
+A teor dos julgados deste Superior Tribunal, na "análise do pedido de indulto ou comutação de pena, o Magistrado deve restringir-se ao exame do preenchimento dos requisitos previstos no decreto presidencial, uma vez que os pressupostos para a concessão da benesse são da competência privativa do Presidente da República" (HC n. 421.701/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 16/2/2018).
+Assim, a falta disciplinar de natureza grave praticada fora do período mencionado no decreto presidencial não pode ser entendida como interruptiva do requisito temporal, tampouco como desabonadora do comportamento do sentenciado. Confira-se:
+ ..  as faltas graves cometidas fora dos doze meses anteriores à data da publicação do Decreto Presidencial não podem ser utilizadas para justificar o indeferimento da comutação de pena, porquanto não é dado ao Poder Judiciário estabelecer condições não previstas na aludida norma para conceder benefícios nela definidos, sob pena de usurpação da competência atribuída ao Presidente da República no art. 84, XII, da Constituição Federal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 300.533/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 28/8/2017).
+Da mesma forma, o exame psicossocial desfavorável e a afirmação de que o paciente integra facção criminosa também não podem lastrear o indeferimento da comutação, por falta de requisito subjetivo, pois o Presidente da República não mencionou nenhuma dessas restrições no decreto de regência.
+Consoante assinalou o Subprocurador-Geral da República [NOME], ao Juiz "é vedada a interpretação extensiva para se criar novos requisitos, visto que, conforme disposto no art. 84, XII da Constituição Federal, compete privativamente ao Presidente da República estabelecer os requisitos do indulto e da comutação de penas" (fl. 77, destaquei).
+O acórdão está em desconformidade com a jurisprudência desta Corte. Assim, verifica-se o indevido constrangimento ilegal à liberdade de locomoção do paciente.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus para que o Juízo das Execuções reaprecie o pedido de comutação da pena do paciente e, para tanto, fique adstrito apenas aos requisitos taxativos do Decreto Presidencial n. 8.380/2014, sem considerar faltas graves cometidas fora dos limites legais ali previstos.
+Publique-se e intimem-se.
