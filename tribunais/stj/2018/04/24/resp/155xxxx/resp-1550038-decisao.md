@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial do MINISTÉRIO PÚBLICO FEDERAL, fundado no art. 105, inciso III, alínea a, da Constituição Federal, interposto contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (e-STJ fl. 54):
+CORREIÇÃO PARCIAL. PROCESSUAL PENAL. REQUISIÇÃO DE INFORMAÇÕES. ART. 8e DA LC 75/93.
+I - O Ministério Público dispõe de poderes para requisitar diretamente informações e documentos necessários à instrução penal, (art.129, VIII, da CF c/c art. 8e da LÇ ne 75/93), não havendo, pois, necessidade de intervenção do Poder Judiciário para esse fim.
+II - Correição parcial indeferida.
+Alega o recorrente que a Corte Especial Administrativa do Tribunal a quo conferiu má aplicação aos incisos II e VII do art. 8º da LC n. 75/1993, bem como ignorou a possibilidade de aplicação dos arts. 156, 400, 402, todos do CPP. Afirma que, havendo denúncia recebida, o pleito para que o Juízo oficiasse à Junta Comercial e ao Banco do Nordeste constitui pedido de produção de prova.
+Aduz que, "mesmo que a informação pretendida não seja sigilosa, quem preside a instrução processual é o juiz, em busca da verdade real - caput e incs. do art. 156 do Código de Processo Penal. Se pedido de produção probatória lhe é levado, deve decidir, na fase adequada, se o acolhe ou não, sob o critério da necessidade da prova. O que não pode o magistrado fazer é transferir, na ação penal, esse juízo de necessidade a quem pediu a prova, sob pena de confusão dos papéis no processo penal" (e-STJ fl. 69).
+Com contrarrazões (e-STJ fls. 87/97 e 129/140), o recurso foi admitido (e-STJ fls. 172/173).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fls. 190/193).
+É o relatório.
+Ressai dos autos que o Ministério Público Federal ajuizou correição parcial contra decisão proferida pelo Juízo da 2- Vara da Seção Judiciária da Bahia, nos autos da Ação Penal n. 20479-57.2011.4.01.3300, que indeferiu o requerimento, formulado ao final da denúncia, de expedição de ofício à Junta Comercial da Bahia com a finalidade de obter informação sobre os atos constitutivos e alterações das empresas Lusomar Maricultura Ltda e Brasmar S/A.
+Afirmou o acórdão recorrido que (e-STJ fls. 50/51):
+De fato, incumbe ao Ministério Público a requisição aos órgãos respectivos de informações e certidões de que necessita para sua atuação na ação penal, com fulcro no art. da LC n. 75/93, que dispõe, verbis:
+(..).
+Portanto, destinando-se os documentos objeto da requisição a fazer prova de situação que o Ministério Público defende como evidenciadora de conduta delituosa, não há negar que incumbem a ele, como dominus litis da ação penal, os ônus e deveres legais a ela inerentes.
+Assim, considerando que há previsão legal para que o próprio Ministério Público requisite tais documentos sem a intervenção judicial, indefiro a correição parcial.
+O Ministério Público, por expressa previsão constitucional e legal (art. 129, VI e VIII, da Constituição Federal, art. 26, I, b e II, da Lei Complementar n. 75/90 e art. 47 do Código de Processo Penal), possui a prerrogativa de conduzir diligências investigatórias, podendo requisitar diretamente documentos e informações que julgar necessários ao exercício de suas atribuições de dominus litis.
+Firmou-se a jurisprudência desta Corte no sentido de que em que pese possa o Ministério Público requerer ao juízo a realização de diligências necessárias ao exercício de suas atribuições, tal requerimento só se justifica se demonstrada a imprescindibilidade de utilização dessa via, ou seja, que não possível conseguir as informações por meio próprio.
+No caso concreto, conforme bem registrou o Tribunal a quo, não ficou demonstrada a incapacidade do Parquet em promover, por conta própria, as diligências necessárias para a persecução penal, estando o acórdão em harmonia com a jurisprudência desta Corte Superior. Confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. CORREIÇÃO PARCIAL. REQUERIMENTO DE DILIGÊNCIA DO MINISTÉRIO PÚBLICO AO JUÍZO LOCAL. CAPACIDADE DE REALIZAÇÃO PELO PRÓPRIO PARQUET. ATRIBUIÇÃO CONSTITUCIONAL. DESNECESSIDADE DE INTERVENÇÃO DO PODER JUDICIÁRIO NA HIPÓTESE VERTENTE.
+1. A Constituição Federal preceituou acerca do poder requisitório do Ministério Público para que pudesse exercer, da melhor forma possível, as suas atribuições de dominus litis e a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
+2. Ressalte-se que o referido poder conferido ao Parquet não impede o requerimento de diligências ao Poder Judiciário, desde que demonstre a incapacidade de sua realização por meios próprios. Precedentes.
+3. Na hipótese vertente, contudo, o Ministério Público requereu ao Juízo que fosse requisitado da autoridade policial o laudo de exame toxicológico das substâncias apreendidas e o relatório do Sistema Disque Denúncia, sem demonstrar existir empecilho ou dificuldade para tanto.
+4. Agravo regimental desprovido. (AgRg no REsp. 938.257/RS, Rel. Ministra LAURITA VAZ, Quinta Turma, DJe 21/02/2011)
+PENAL. RECURSO ESPECIAL. MINISTÉRIO PÚBLICO. REQUISIÇÃO DE DILIGÊNCIAS POR OCASIÃO DO OFERECIMENTO DA DENÚNCIA NEGADA PELO JUIZ. CORREIÇÃO PARCIAL INDEFERIDA. POSSIBILIDADE DE REALIZAÇÃO PELO PRÓPRIO ÓRGÃO MINISTERIAL. TUMULTO PROCESSUAL INEXISTENTE. RECURSO PARCIALMENTE CONHECIDO E IMPROVIDO.
+1. O Ministério Público, por expressa previsão constitucional e legal, possui a prerrogativa de conduzir diligências investigatórias, podendo requisitar diretamente documentos e informações que julgar necessários ao exercício de suas atribuições de dominus litis.
+2. A inversão tumultuária do processo, passível de correição parcial, somente se caracteriza nas hipóteses em que o órgão ministerial demonstra, de pronto, a incapacidade de realização da diligência requerida por meios próprios.
+3. Recurso especial parcialmente conhecido e improvido. (REsp 913.041/RS, Rel. Ministra JANE SILVA - Desembargadora convocada do TJ/MG - , Sexta Turma, DJe 03/11/2008)
+PROCESSUAL PENAL. REQUISIÇÃO DA FOLHA DE ANTECEDENTES CRIMINAIS. INDEFERIMENTO PELO MAGISTRADO. AUSÊNCIA DE DEMONSTRAÇÃO DA IMPOSSIBILIDADE DE OBTENÇÃO POR MEIOS PRÓPRIOS. INEXISTÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO.
+1. Em que pese possa o Ministério Público requerer ao juízo a realização de diligências necessárias ao exercício de suas atribuições, a jurisprudência desta Corte firmou-se no sentido de que o requerimento ao Poder Judiciário só se justifica se demonstrada a imprescindibilidade de utilização dessa via.
+2. Hipótese em que não restou demonstrada a impossibilidade de o próprio Parquet requisitar a ficha de antecedentes criminais dos denunciados, não havendo qualquer direito direito líquido e certo a ser amparado na via do mandado de segurança.
+3. Agravo regimental desprovido.(AgRg no RMS 37.274/RN, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 04/12/2014, DJe 10/12/2014)
+Incidência dos verbetes n. 83 e 568 da Súmula deste Tribunal.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intime-se.
