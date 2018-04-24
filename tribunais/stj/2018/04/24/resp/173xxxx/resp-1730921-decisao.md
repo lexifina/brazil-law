@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por DIOGO FERNANDES PAULINO, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o recorrente, no primeiro grau, foi condenado, como incurso no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 1 ano e 8 meses de reclusão, no regime inicial fechado.
+Consta do aresto recorrido que o réu "tinha em depósito e trazia consigo para entrega a terceiros, sete invólucros contendo cocaína, pesando 1,3g (um grama e três decigramas) e sete porções de cocaína na forma de crack, com peso de 1,7g (um grama e sete decigramas)" - e-STJ fl. 189.
+O Tribunal de origem deu parcial provimento ao apelo da defesa para fixar o regime inicial semiaberto e substituir a pena privativa de liberdade por duas restritivas de direitos. O acórdão recebeu a seguinte ementa (e-STJ fl. 188):
+Apelação - TRÁFICO DE ENTORPECENTE - Conjunto probatório suficiente para manter a condenação por tráfico de drogas. Prova testemunhai segura que confirma a traficância. Forma de acondicionamento das drogas e visualização de atos de mercancia - Reprimenda. Adequação - Regime prisional semiaberto. Fixação. Suficiência - Substituição da sanção corporal. Preenchimento dos requisitos - Apelo parcialmente provido.
+No presente recurso a defesa aponta ofensa ao disposto nos arts. 33 e 59, ambos do Código Penal. Sustenta que não há fundamentação idônea para a aplicação do regime inicial mais severo, destacando as condições judiciais favoráveis, a pequena quantidade de drogas apreendidas e a substituição da pena privativa de liberdade por restritiva de direitos.
+Contrarrazões às e-STJ fls. 227/236.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ fls. 250/254).
+É o relatório. Decido.
+Segundo a jurisprudência deste Tribunal Superior, a natureza e a quantidade da droga apreendida constituem fundamentos idôneos para justificar a imposição de regime prisional mais gravoso.
+Confira-se:
+PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. DOSIMETRIA. IMPOSIÇÃO DO REGIME INICIAL FECHADO E NEGATIVA DE SUBSTITUIÇÃO DAS PENAS. FUNDAMENTO COM BASE NA QUANTIDADE E NATUREZA DA DROGA APREENDIDA (29 PEDRAS DE CRACK). FIXAÇÃO DO REGIME FECHADO. CONDENAÇÃO NÃO SUPERIOR A 4 ANOS. RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO. FUNDAMENTO CONCRETO PARA A FIXAÇÃO DO REGIME MAIS GRAVOSO - O SEMIABERTO - E NÃO O FECHADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Nos termos do entendimento firmado pelo STJ, a natureza, a variedade e a quantidade da substância entorpecente constituem fundamento idôneo para justificar a fixação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 em patamar inferior ao máximo legal, constituindo, outrossim, justificativa para a imposição do regime mais severo e para o indeferimento da substituição das penas. Precedentes.
+3. Todavia, embora válido o fundamento para o recrudescimento do regime prisional, não se justifica a imposição do regime inicial fechado, ao réu primário, condenado à pena reclusiva não superior a 4 anos - 1 ano e 8 meses - cuja pena-base foi estabelecida no mínimo legal. Precedentes.
+4. Habeas corpus não conhecido, mas ordem concedida, de ofício, para estabelecer o regime semiaberto para o cumprimento da pena reclusiva.
+(HC 337.305/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/05/2016, DJe 25/05/2016, grifei.)
+No entanto, na espécie, tenho que a quantidade de droga apreendida - 1,3g (um grama e três decigramas) e sete porções de cocaína na forma de crack, com peso de 1,7g (um grama e sete decigramas) - não se mostra significativa para justificar a imposição do regime mais gravoso. De fato, não obstante o crack seja considerado de grande nocividade, pelo que se tem dos autos, o recorrente estava na posse de pouco mais de um grama do referido entorpecente, razão pela qual entendo não ser razoável a sua consideração para a fixação do regime prisional.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. APLICAÇÃO EM 2/3. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. QUANTIDADE DAS DROGAS APREENDIDAS NÃO CONSIDERÁVEL.
+EXECUÇÃO PROVISÓRIA DA PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE.
+ART. 147 DA LEP. ERESP 1.619.087/SC. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência desta Corte superior.
+2. Constituindo a quantidade de droga elemento norteador na fixação da minorante do § 4º do art. 33 da Lei 11.343/2006, o volume pouco expressivo de entorpecente autoriza a aplicação do redutor em seu grau máximo.
+3. Consoante o entendimento firmado pelo STJ, a natureza e a quantidade da droga apreendida constituem fundamento idôneo a justificar tanto a imposição do regime mais severo quanto o indeferimento da substituição das penas, desde que o volume não seja considerado inexpressivo.
+4. Assim, tratando-se de réu primário, com pena-base fixada no mínimo, a apreensão de quantidade não considerável de entorpecentes não constitui elemento apto a justificar a imposição do regime prisional mais severo ou o indeferimento da substituição da pena privativa de liberdade por restritiva de direitos.
+5. Ressalvada compreensão pessoal diversa, a Terceira Seção, no julgamento do EResp 1.619.087/SC, adotou orientação quanto à impossibilidade de execução provisória de pena restritiva de direitos.
+6. Agravo regimental improvido (AgRg no HC 407.757/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018).
+Ante o exposto, dou parcial provimento ao recurso especial, apenas para alterar o regime inicial para o aberto.
+Publique-se. Intimem-se.
