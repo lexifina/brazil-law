@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ILEGITIMIDADE PASSIVA NÃO CONFIGURADA. VERIFICAÇÃO DO DIES A QUO DO PRAZO DECADENCIAL PARA IMPETRAÇÃO. SÚMULA 7 DO STJ.
+1. O recorrente aduz ilegitimidade passiva, uma vez que a impetração se dirigiu a si como pessoa física, e não à autoridade decorrente da função que ocupou. O voto condutor do acórdão assevera: "não há ilegitimidade passiva de parte, já que a demanda foi ajuizada em face do Presidente da Câmara de Vereadores à época dos fatos".
+2. O Ministério Público fez constar que impetrava "mandado de segurança contra r. decisão, anexa, proferida pelo Nobre Presidente da Câmara de Vereadores de Pompéia, Sr. [NOME]" (fl. 4, e-STJ). Certo é que, em caso de sucessão, o novo Presidente deve ser considerado como impetrado, devendo atender aos ônus referentes ao processo.
+3. Quanto à alegada decadência do direito de propor o Mandado de Segurança, assim dispôs o julgador a quo: "o prazo de decadência do mandado de segurança tem início com o ato lesivo praticado pela autoridade impetrada. A comunicação do ato legislativo ao Ministério Público data de 30 de agosto de 2013 (fls. 127), sendo impetrado o remédio constitucional em 17 de dezembro de 2013" (fl. 300, e-STJ).
+4. É inviável analisar a tese defendida no Recurso Especial, de modo a alterar o dies a quo do prazo decadencial para a data da realização da audiência pública, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+5. Não obstante, ainda que se examinasse esse ponto, verifico que o ato coator apontado consiste na ocorrência de votação considerada nula, o que não guarda relação com a audiência pública realizada anteriormente.
+6. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão (Presidente) votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+MANDADO DE SEGURANÇA. ATO ADMINISTRATIVO. Votação do Projeto de Lei nº 23/2013, relacionado com a vedação do nepotismo no funcionalismo municipal de Pompeia. Preliminar de decadência rejeitada. O prazo de decadência do mandado de segurança tem início com o ato lesivo praticado pela autoridade impetrada. Legitimidade de parte do réu que à época dos fatos era o representante da Casa Legislativa. Votação do Projeto de Lei nº 23/13 realizada por oito vereadores, que deveriam se abster de votar porque possuíam parentesco com funcionários comissionados da administração municipal. Afronta ao artigo 133 do Regimento Interno da Câmara Municipal. Nulidade insanável. Violação à direito líquido e certo configurado. Sentença mantida. Recurso conhecido e improvido.
+Os Embargos de Declaração foram desacolhidos (fls. 318-322, e-STJ).
+O recorrente alega que a impetração foi dirigida a pessoa física, e não a autoridade pública, o que afrontaria a Lei 12.016/2009 e refletiria divergência jurisprudencial. Afirma que o prazo decadencial para o mandamus iniciou-se na audiência pública de 1º de julho de 2013, mais de 120 dias antes da impetração. Aduz violação aos arts. 6º e 23 da Lei 12.016/2009 e 485, IV e VI, do CPC/2015.
+O Recurso Especial teve seu seguimento obstado em razão da Súmula 7 do STJ e da ausência de cotejo analítico.
+O Ministério Público Federal opina pelo não conhecimento do recurso (fls. 484-488, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos no gabinete em 19/1/2018.
+O recorrente defende ilegitimidade passiva, uma vez que a impetração se dirigiu a ele como pessoa física, e não à autoridade decorrente da função que ocupou.
+Sobre o assunto, assim consta no voto condutor do acórdão: "não há ilegitimidade passiva de parte, já que a demanda foi ajuizada em face do Presidente da Câmara de Vereadores à época dos fatos, ou seja, o Sr. [NOME]".
+Com efeito, verifico que na inicial o Ministério Público fez constar que impetrava "mandado de segurança contra r. decisão, anexa, proferida pelo Nobre Presidente da Câmara de Vereadores de Pompéia, Sr. [NOME]" (fl. 4, e-STJ). Certo é que, em caso de sucessão, o novo Presidente deve ser considerado como impetrado, devendo atender aos ônus referentes ao processo.
+Quanto à decadência do direito de propor o Mandado de Segurança, assim dispôs o julgador a quo: "o prazo de decadência do mandado de segurança tem início com o ato lesivo praticado pela autoridade impetrada. A comunicação do ato legislativo ao Ministério Público data de 30 de agosto de 2013 (fls. 127), sendo impetrado o remédio constitucional em 17 de dezembro de 2013. Desse modo, de rigor afastar a alegação" (fl. 300, e-STJ).
+É inviável analisar a tese defendida no Recurso Especial, de modo a alterar o dies a quo do prazo decadencial para a data da realização da audiência pública, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Não obstante, ainda que se examinasse esse ponto, percebo que o ato coator apontado consiste na ocorrência de votação considerada nula, o que não guarda relação com a audiência pública realizada anteriormente.
+Isso posto, não conheço do Recurso Especial.
+É como voto.
