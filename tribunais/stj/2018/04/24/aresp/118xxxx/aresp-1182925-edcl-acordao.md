@@ -1,0 +1,39 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. FIXAÇÃO. VERBA HONORÁRIA RECURSAL. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material.
+2. Erro material constatado.
+3. Embargos de declaração acolhidos sem efeitos infringentes.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Trata-se de embargos de declaração opostos por [NOME] e outros ao acórdão assim ementado (e-STJ, fl. 825):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. ATROPELAMENTO EM DECLIVE. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. FALTA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. 2. RESPONSABILIDADE SOLIDÁRIA ENTRE O TOMADOR DO SERVIÇO E O CONDUTOR DO VEÍCULO. INCIDÊNCIA DAS SÚMULAS 5, 7 E 83 DO STJ. 3. AGRAVO IMPROVIDO.
+1. Não ficou caracterizada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Em relação à responsabilidade da agravante pelos danos derivados do acidente de trânsito, registre-se que a conclusão alcançada na origem coaduna-se com a orientação perfilhada por esta Casa, que reconhece, em matéria de acidente automobilístico, a responsabilidade objetiva e solidária da empresa tomadora de serviços.
+3. A alteração do entendimento firmado no aresto impugnado, no sentido de que o condutor do veículo, no momento do acidente, prestava serviço de transporte para a agravante, só seria possível mediante o revolvimento do acervo fático-probatório dos autos, providência vedada nesta instância extraordinária em decorrência do disposto nas Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+Sustentam os embargantes vício na decisão embargada, porquanto no julgamento da decisão monocrática proferida às fls. 801-805 (e-STJ), teria ocorrido equívoco na fixação dos honorários recursais, isso porque segundo afirmam, "acredita-se que o MM. Julgador pretendia majorar os honorários para 20% (vinte por cento), e não 2% (dois por cento), já que tal verba havia sido antes fixada em 15% (quinze por cento)" (e-STJ, fl. 835).
+Desse modo, alegam que deve ser corrigida a contradição e/ou erro material apontado, "sob pena de flagrante prejuízo ao advogado da parte recorrida, bem como enriquecimento sem causa da parte vencida, in casu, a Agravante Coopavel" (e-STJ, fl. 835).
+Ao final, pugnam pela condenação da parte recorrida ao pagamento de honorários aos seus patronos em 20% (vinte por cento) sobre o valor total da condenação, ou que sejam mantidos os honorários já arbitrados em 15% (quinze por cento) sobre o valor total da condenação.
+Impugnação apresentada à fl. 840 (e-STJ).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+Com efeito, os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo apenas cabíveis nas hipóteses previstas no artigo 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ADICIONAL DE QUALIFICAÇÃO. REQUISITOS PARA PERCEPÇÃO. ART. 56, INCISO III, §§ 4 E 5º, DA LEI 11.907/09. AUSÊNCIA DE REGULAMENTAÇÃO. IMPERTINÊNCIA DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. INCAPACIDADE DE INFIRMAR O ARESTO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO NÃO COMBATIDO. SÚMULA 283/STF. SÚMULA 126/STJ. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+3. O acórdão embargado foi categórico ao afirmar que o Tribunal a quo, ao entender pela necessidade de regulamentação da Lei 11.907/2009 para a concessão da Gratificação de Qualificação aos detentores de curso de graduação, não analisou a tese de que a regulamentação da matéria está prevista na LDB - Lei de Diretrizes e Bases da Educação Nacional.
+4. Também não discutiu a instância de origem o preenchimento pelo autor dos requisitos previstos no art. 56, inciso III, §§ 4 e 5º, da Lei 11.907/09 para a concessão da Gratificação de Qualificação, porquanto considerou aquele Tribunal que o pagamento da vantagem estava condicionado à regulamentação pelo Executivo, conforme expresso no § 6º do mesmo dispositivo legal, o que ocorreu apenas em fevereiro de 2013.
+5. Os artigos de lei apontados como violados são considerados impertinentes quando não possuem comandos legais suficientes para afastar a tese adotada no acórdão regional.
+6. Não foi rebatido (Súmula 283/STF), tampouco impugnado por meio de recurso extraordinário (Súmula 126/STJ), o fundamento da Corte de origem, no sentido de que o poder regulamentar "trata-se de verdadeira prerrogativa da Administração Pública a definição desses critérios, e o Poder Judiciário não pode vir substituir a vontade da Administração. Assim, a sentença vergastada, ao fazê-lo, de fato viola a separação de Poderes." (fl. 292, e-STJ).
+Embargos de declaração acolhidos sem efeitos modificativos. (EDcl no AgInt no REsp 1.589.590/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/8/2016, DJe 23/8/2016).
+Na hipótese dos autos, defendem os embargantes a existência de contradição e/ou erro material, na medida em que, nos termos do art. 85, § 11, do CPC/2015, foi majorado os honorários sucumbenciais, em favor do advogado da parte agravada, para 2% (dois por cento) sobre o valor da condenação. Contudo, acreditam que, na intenção de majorar, acabou reduzindo tal verba, isso porque na sentença já havia condenação ao pagamento de honorários advocatícios em 15% (quinze por cento), ou seja, pretendia na verdade majorar para 20% (vinte por cento).
+Dito isso, verifico tão somente a ocorrência de erro material na fixação dos honorários recursais e, para saná-lo, integralizo à decisão de fls. 801-805 (e-STJ), o seguinte excerto:
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação, a ser arcado por Coopavel Cooperativa Agroindustrial, ora agravante.
+Diante do exposto, acolho os embargos de declaração para sanar o erro material supra, mas sem efeitos infringentes.
+É como voto.
