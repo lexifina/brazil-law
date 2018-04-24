@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que inadmitiu o recurso especial, sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) aplicação da Súmula n. 7/STJ (e-STJ fls. 208/209).
+O acórdão do TJSP está assim ementado (e-STJ fl. 172):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA.
+I - Complementação do preparo de apelação. Descabimento. Recorrente que tinha plena ciência do valor correto que deveria recolher a título de preparo e, mesmo assim, recolhe valor a menor. Inaplicabilidade da regra do art. 511, par. 2º, do Código de Processo Civil. Precedentes do STJ.
+II - DECISÃO, POR FUNDAMENTO DIVERSO, MANTIDA. AGRAVO IMPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 182/185).
+Nas razões do recurso especial (e-STJ fls. 188/200), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou violação do art. 511, § 2º, do CPC/1973, pois, após ser indeferida pela Corte local a gratuidade da justiça pleiteada em agravo de instrumento, poderia complementar o preparo insuficiente, antes de ser julgada deserta a apelação.
+Afirmou ofensa aos arts. 17, V, VI e VII, e 583, parágrafo único do CPC/1973, porque o requerimento para complementar as custas não consistiria em ato de litigância de má-fé, uma vez que o acórdão impugnado teria reconhecido o pagamento do valor mínimo das custas a título de preparo, não sendo infundados os aclaratórios opostos para que a Corte de origem se manifestasse quanto ao pedido de complementação do preparo.
+Não foram apresentadas contrarrazões (e-STJ fl. 207).
+No agravo (e-STJ fls. 212/224), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl.226).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O TJSP, à luz do art. 511, § 2º, do CPC/1973, não acolheu o pedido de complementação do preparo, assentando inexistir equívoco escusável da recorrente, uma vez que o juízo a quo negou-lhe a gratuidade da justiça e o diferimento para recolher as custas judiciais. A Corte de origem assentou ainda que não havia justificativa para que o valor do preparo de R$ 8.329,60 (oito mil, trezentos e vinte e nove reais e sessenta centavos) informado à recorrente pudesse ser recolhido em sua quantia mínima de R$ 87,25 (oitenta e sete reais e vinte e cinco centavos), conforme se extrai do seguinte excerto (e-STJ fl. 173):
+Mesmo diante do recolhimento do preparo acostado às fls. 96, não se mostra viável, na espécie, a aplicação do disposto no art. 511, par. 2º, do Código de Processo Civil, pois não houve engano da recorrente no recolhimento das taxas pertinentes.
+O valor devido a título de preparo recursal constou expressamente da certidão de fls. 51 (fls. 292, autos originais). Ainda assim, insistiu o agravante na concessão da justiça gratuita ou no diferimento das custas judiciárias, ambos indeferidos pelo Juízo "a quo" e por este Tribunal. Neste ínterim, não houve sequer antecipação da tutela recursal por esta Câmara, de modo que nada estava a recomendar o recolhimento do valor mínimo (R$ -87,25, fls. 96), quando exigível a quantia de R$ -8.329,60 (fls. 51).
+Considerando, portanto, que o objetivo da norma do art. 511 par. 2º do CPC/1973 foi o de amparar o erro escusável, o engano, que, evidentemente, não está presente quando a parte, por intimação, conhece o valor correto a recolher e promove pagamento inferior em cem vezes ao devido, a deserção é medida de rigor.
+A respeito de tais razões de decidir, a recorrente não se manifestou, limitando-se a alegar que, caso desprovido o agravo de instrumento pleiteando a gratuidade da justiça e uma vez recolhidas as custas de preparo em seu valor mínimo, teria o direito de complementar o preparo da apelação, segundo o art. 511, § 2º, do CPC/1973.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF.
+Ademais, "consoante a remansosa jurisprudência do STJ, a eventual concessão do benefício da gratuidade de Justiça tem efeitos ex nunc, não podendo, pois, retroagir à data de interposição do recurso de apelação, sem o devido preparo e sem que tivesse sido expressamente deferido o benefício, que, no caso, não foi requerido simultaneamente à interposição do recurso" (EDcl no REsp n. 1.211.041/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/6/2014, DJe 1/8/2014).
+No mesmo sentido:
+CIVIL. PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO AO ART. 535 DO CPC. NÃO CONFIGURADA. 2. CONDIÇÕES DA AÇÃO. INTERESSE DE AGIR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. 3. CONCEITO DE QUITINETE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 4. AUSÊNCIA DE FORÇA MAIOR. 5. CONCESSÃO DO BENEFÍCIO DA ASSISTÊNCIA JUDICIÁRIA. EFEITOS EX NUNC. SÚMULA 83/STJ. 6. AGRAVO REGIMENTAL IMPROVIDO.
+(..)
+5. Os efeitos da concessão do benefício da assistência judiciária são ex nunc, ou seja, não retroagem, conforme jurisprudência pacífica desta Corte, a atrair a incidência da Súmula 83/STJ.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 576.146/DF, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/11/2015, DJe 09/12/2015.)
+A pretensão da recorrente, portanto, não encontra amparo na jurisprudência desta Corte, uma vez que o benefício da gratuidade, antes da interposição do apelo, havia sido indeferido em decisão interlocutória do juízo de origem, não retroagindo a eventual concessão do benefício por ocasião do julgamento do recurso.
+O Tribunal a quo reconheceu a existência de litigância de má-fé da recorrente, nos seguintes termos (e-STJ fls. 184/185):
+A pretensão da embargante à aplicação do disposto no art. 511, par. 2º, do Código de Processo Civil, conforme foi destacado no v. acórdão recorrido, mostrava-se completamente descabida. Não se tratava, à vista do valor devido apontado na certidão de fls. 51 (fls . 292, autos originais), de pleito fundado em desconhecimento da parte, cuidando-se, ao contrário, de manifesta má-fé, procedendo a embargante de modo temerário, além de provocar incidentes manifestamente infundados, condutas expressamente vedadas pelo disposto no artigo 17, incisos V e VI, do Código de Processo Civil.
+Bem por isso, a condenação da embargante à litigância de má-fé mostrou-se adequada e não comporta qualquer modificação.
+Rever tais conclusões, a fim de avaliar as circunstâncias que ensejaram a aplicação da multa por litigância de má-fé à recorrente, exigiria o reexame do acervo probatório dos autos, providência vedada na instância especial, a teor da Súmula n. 7/STJ.
+A propósito: "Descabe a esta Corte apreciar as razões que levaram as instâncias ordinárias a aplicar a multa por litigância de má-fé prevista nos artigos 17 e 18 do CPC de 1973, quando for necessário rever o suporte fático-probatório dos autos. Incide o teor da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial" (AgInt no AREsp n. 1.078.631/GO, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
