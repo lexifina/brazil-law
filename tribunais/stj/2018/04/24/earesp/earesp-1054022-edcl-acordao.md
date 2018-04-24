@@ -1,0 +1,55 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA.
+1. Os embargos de declaração têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado, a teor do disposto no art. 1.022 do CPC/2015.
+2. Hipótese em que o julgado embargado foi omisso ao não examinar fundamento que, embora pertinente, já se encontrava atingido pela preclusão.
+3. Embargos de declaração acolhidos, sem efeitos infringentes.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça , por unanimidade, acolher os embargos de declaração, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Napoleão Nunes Maia Filho, Benedito Gonçalves, Sérgio Kukina e Regina Helena Costa (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de embargos de declaração opostos por CHEVRON BRASIL LUBRIFICANTES LTDA. e IPIRANGA PRODUTOS DE PETROLEO S.A. contra acórdão proferido pela Primeira Turma desta Corte Superior, que negou provimento ao agravo interno, em julgado assim ementado (e-STJ fl. 1.388):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA.
+1. A teor do disposto nos arts. 253, parágrafo único, I, do RISTJ, e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+3. Agravo interno desprovido.
+Os embargantes sustentam, às e-STJ fls. 1.398/1.407, em suma, a ocorrência de omissão na decisão embargada "ao equiparar fundamentos autônomos ou não sem explicitar as razões que levaram a essa conclusão" e "ao desconsiderar fundamento trazido no agravo interno segundo o qual no Recurso Especial de fls. 839/872 não se discutiu qualquer violação a resolução e/ou a legislação local, razão pela qual o recurso especial não poderia deixar de ser admitido por esse fundamento" (e-STJ fl. 1.401).
+Por fim, requer o sobrestamento do processo até que a Corte Especial decida acerca da "desnecessidade de impugnação específica de todos os fundamentos da decisão agravada quando, nessa mesma decisão, houver fundamento autônomo cujo acolhimento implique na reforma completa ou parcial do acórdão recorrido, independentemente de recurso contra os demais fundamentos daquele decisum."(e-STJ fl. 1.404).
+Impugnação às e-STJ fls. 1.410/1.414, em que se pleiteia a manutenção do acórdão embargado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material no julgado.
+Conforme relatado, os embargantes sustentam, às e-STJ fls. 1.398/1.407, em suma, a ocorrência de omissão na decisão embargada "ao equiparar fundamentos autônomos ou não sem explicitar as razões que levaram a essa conclusão" e "ao desconsiderar fundamento trazido no agravo interno segundo o qual no Recurso Especial de fls. 839/872 não se discutiu qualquer violação a resolução e/ou a legislação local, razão pela qual o recurso especial não poderia deixar de ser admitido por esse fundamento." (e-STJ fl. 1.401).
+Com relação ao primeiro aspecto da insurgência - omissão na decisão embargada "ao equiparar fundamentos autônomos ou não sem explicitar as razões que levaram a essa conclusão" (e-STJ fl. 1.401) -, ficou consignado no mencionado decisum o seguinte (e-STJ fls. 1.391/1.392):
+Segundo a firme jurisprudência desta Corte Superior, o agravante deve impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+Essa nova orientação normativa deve ser interpretada no atual contexto do processo civil brasileiro, que exige dos operadores do direito, notadamente dos advogados e dos juízes, um maior compromisso com a fundamentação das postulações e das decisões, respectivamente.
+Para os magistrados isso fica claro no § 1º do art. 489 do CPC/2015, que, em seus incisos, exemplifica padrões de motivação então usualmente utilizados em decisões judiciais que, por sua generalidade e abstração, não podem mais ser considerados como fundamentação adequada à resolução das demandas.
+Em contrapartida a essa significativa mudança de comportamento no ato de julgar, que tem por escopo o aperfeiçoamento da própria prestação jurisdicional, a norma processual também veio a exigir do advogado um maior esmero na elaboração de suas petições, especialmente no caso de irresignações recursais, para que contemplem argumentação apta a superar os fundamentos adotados no decisum impugnado.
+Nessa esteira, constata-se que o disposto no art. 932, III, do CPC/2015 atribui ao conhecido princípio da dialeticidade a condição de pressuposto objetivo de admissibilidade recursal.
+Especificamente no caso do agravo em recurso especial, essa regra, que já era prevista no CPC/1973 (art. 544, § 4º, I), impõe ao agravante o dever de explicar o porquê de cada um dos fundamentos suscitados na decisão a quo não ser suficiente para justificar o juízo negativo de admissibilidade do recurso especial, identificando sua insubsistência em relação aos capítulos da insurgência existentes no apelo especial e, eventualmente, manifestando-se sobre a desistência parcial em relação a um deles.
+Com efeito, cuidando de pressuposto recursal objetivo, somente depois de superado esse óbice e conhecido o agravo é que o Superior Tribunal de Justiça emitirá o juízo definitivo sobre a admissibilidade do apelo nobre, momento em que poderá manter ou modificar a fundamentação consignada pelo Tribunal de origem.
+(..)
+Sendo assim, a não impugnação de um dos fundamentos da decisão recorrida é suficiente para o não conhecimento do recurso.
+Conforme se verifica, em especial do trecho grifado, não ocorre a alegada omissão suscitada, estando o acórdão devidamente fundamentado no ponto.
+No tocante ao segundo aspecto da insurgência - omissão "ao desconsiderar fundamento trazido no agravo interno segundo o qual no Recurso Especial de fls. 839/872 não se discutiu qualquer violação a resolução e/ou a legislação local, razão pela qual o recurso especial não poderia deixar de ser admitido por esse fundamento" (e-STJ fl. 1.401) -, assiste razão aos embargantes.
+Trata-se de fundamento que, por sua pertinência, deveria mesmo ser enfrentado, o qual, entretanto, não se mostra suficiente a imprimir efeitos infringentes ao presente acórdão.
+Como mencionado na decisão embargada, não se infirmou, nas razões do agravo em recurso especial, de forma clara e específica, os fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem, no tocante ao não cabimento de recurso especial por ofensa a resolução, em evidente desrespeito ao princípio da dialeticidade.
+O argumento acima citado, objeto da omissão, buscava suprir, já em sede de agravo interno, a deficiência que impediu o conhecimento do agravo em recurso especial.
+Sem adentrar na legitimidade da alegação, é certo que, conforme a jurisprudência desta Corte, a impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial, já em sede de agravo interno, configura inovação recursal, incabível em razão da preclusão consumativa.
+Nesse sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA.
+OMISSÃO. INEXISTÊNCIA. CONTRATO ADMINISTRATIVO. INEXECUÇÃO. RETENÇÃO DE CRÉDITOS. REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO. SÚMULA 283/STF. IMPUGNAÇÃO TARDIA DE FUNDAMENTO DO ACÓRDÃO RECORRIDO. PRECLUSÃO.
+(..) 4. Na presente hipótese, não houve a impugnação particularizada de fundamento basilar que ampara o acórdão hostilizado, ou seja, de que a retenção de crédito decorrente do inadimplemento do contrato administrativo encontra previsão na Lei 8.666/93 (art. 80, IV). Sendo assim, como o fundamento não foi atacado pela parte insurgente e é apto, por si só, para manter o decisum combatido, permite-se aplicar na espécie, por analogia, o óbice da Súmula 283 do STF.
+5. Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial, por ocasião do manejo de Agravo Regimental, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 283/STF, tendo em vista a ocorrência de preclusão consumativa.
+6. Agravo Regimental não provido.
+(AgRg no REsp 1573930/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/05/2016, DJe 01/06/2016)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO DECISÓRIO QUE OBSTOU O SEGUIMENTO DO RECURSO ESPECIAL. APLICAÇÃO ANALÓGICA DA SÚMULA 182/STJ. ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. OFENSA AO ARTIGO 6º DA LINDB. MATÉRIA DE NATUREZA CONSTITUCIONAL. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, todos os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+2. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo regimental), além de caracterizar inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+(..) 6. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 761.678/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2015, DJe 10/11/2015)
+Por fim, não há motivo para o deferimento do pedido de sobrestamento do processo até que a Corte Especial decida acerca da "desnecessidade de impugnação específica de todos os fundamentos da decisão agravada quando, nessa mesma decisão, houver fundamento autônomo cujo acolhimento implique na reforma completa ou parcial do acórdão recorrido, independentemente de recurso contra os demais fundamentos daquele decisum." (e-STJ fl. 1.404).
+É verdade que aguardam julgamento pela Corte Especial os EAREsps 701.404 e 831.326, nos quais se discute justamente o conhecimento dos agravos em recurso especial quando há fundamento inatacado.
+No entanto, a existência de eventuais embargos de divergência acerca do tema objeto dos recursos anteriormente interpostos não enseja a suspensão do julgamento de embargos de declaração, que têm por escopo apenas sanar obscuridade, contradição, omissão ou erro material.
+Ante o exposto, ACOLHO os embargos de declaração, sem efeitos modificativos, apenas para sanar a omissão acima identificada.
+É como voto.
