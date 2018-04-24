@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], fundamentado na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia que negou provimento à apelação da defesa para manter a sentença que condenou o recorrente à pena de 9 (nove) anos de reclusão, em regime inicial fechado, e pagamento de 720 (setecentos e vinte) dias-multa, pela prática das condutas descritas nos artigo 33, caput, c/c o artigo 40, inciso V, ambos da Lei n. 11.343/06, e 304, caput, na forma do 69, ambos do Estatuto Repressivo. (e-STJ, fl. 162)
+Os elementos existentes nos autos indicam que o recorrente foi denunciado pela prática do crime de tráfico de entorpecentes, por ter sido apreendido no aeroporto internacional de Porto Velho/RO na posse de 2,690 (dois quilos e seiscentos e noventa gramas) de cocaína, além de fazer uso de documento de identidade falsificado, ao se apresentar para embarque para Fortaleza, como sendo outra pessoa. (e-STJ, fls. 4/7)
+Julgada procedente a imputação, o acusado foi condenado, nos termos da denúncia, à pena de 9 (nove) anos de reclusão, em regime inicial fechado, e pagamento de 720 (setecentos e vinte) dias-multa. (e-STJ, fl. 98)
+A sentença foi mantida pela Corte de origem, em apelação da defesa. (e-STJ, fl. 162)
+Nas razões do presente apelo nobre (e-STJ, fls. 165/171), a defesa alega violação do artigo 33, § 4º, da Lei n. 11.343/06, sustentando que faz jus à redução da pena pelo tráfico privilegiado no patamar máximo de 2/3, uma vez que é primário, tem bons antecedentes e não há prova de que integre associação criminosa dedicada à traficância de drogas.
+Requer, ao final, o provimento do especial para reforma do acórdão recorrido.
+Contrarrazoada a insurgência (e-STJ, fls. 175/189), após o juízo prévio de admissibilidade (e-STJ, fl. 191), os autos ascenderam a este Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do inconformismo (e-STJ, fls. 203/206).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Quanto à causa especial de diminuição da pena pelo tráfico privilegiado, o Tribunal estadual negou o benefício, ressaltando a dedicação do agente à traficância de drogas, in verbis:
+Como cediço, o § 4o do art. 33 da Lei n. 11.343/06 dispõe que nos crimes de tráfico ilícito de entorpecentes, as penas poderão ser reduzidas de 1/6 (um sexto) a 2/3 (dois terços), desde que o agente seja primário, de bons
+antecedentes e não se dedique a atividades criminosas nem integre organização criminosa.
+Na hipótese, o juiz deixou de aplicar a causa de redução de pena do § 4o do art. 33 da Lei nº 11.343/06 ao fundamento de que a forma de acondicionamento da droga, e também pelas circunstâncias do conjunto fático probatório, revelam que o apelante integra uma organização criminosa voltada á prática de tráfico de drogas interestadual, com todo o aparato de pessoas, logística e custeio das ações, não se olvidando que ninguém confiaria depositar nas mãos de um neófito na senda do crime, o valor econômico financeiro que representa a grande quantidade de droga.
+Assim, considerando que o apelante se dedica ao tráfico ilícito de entorpecente, não faz jus ao benefício previsto no § 4o do art. 33 da Lei n. 11.343/06. (e-STJ, fl. 202)
+No caso em apreço, a Corte a quo não aplicou a benesse sob o fundamento de que as provas dos autos levam à conclusão de que o recorrente integra organização criminosa dedicada ao tráfico interestadual de drogas, motivo pelo qual não faria jus ao benefício, considerando o disposto no art. 33, § 4º, da Lei Antidrogas.
+Cabe ressaltar que o § 4º do art. 33 da Lei n.º 11.343/06 dispõe que, para o crime de tráfico de entorpecentes e suas figuras equiparadas, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente: a) seja primário; b) com bons antecedentes; c) não se dedique às atividades criminosas; e d) não integre organização criminosa.
+Com efeito, o exame da insurgência recursal nesse ponto, a fim de se concluir que o agente não se dedica a atividades ilícitas e modificar as conclusões do aresto a quo, demanda a análise de todo o acervo fático-probatório dos autos, o que é vedado a essa Corte Superior.
+Note-se que a jurisprudência deste Tribunal Superior é pacífica no sentido de não admitir o manejo do especial quando a questão repousar unicamente no reexame de provas, na esteira do enunciado da Súmula 7/STJ, tal como ocorre na espécie.
+A propósito, vejam-se:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE ENTORPECENTES. REDUTOR DO ART. 33, § 4º, DA LEI 11.343/2006. RECORRENTES QUE JÁ POSSUÍAM ENVOLVIMENTO COM A ATIVIDADE CRIMINOSA. REQUISITOS NÃO PREENCHIDOS. RECURSO DESPROVIDO.
+1. Estando evidenciado nos autos que as recorrentes já possuíam envolvimento com a atividade criminosa, não incide a causa especial de diminuição de pena, porquanto não preenchidos os requisitos previstos no art. 33, § 4º, da Lei n.º 11.343/06. Para concluir em sentido diverso, há necessidade de revolvimento do acervo fático-probatório, providência incabível na via do recurso especial. (..)
+3. Agravo regimental não provido.
+(AgRg no AREsp 966.002/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/09/2016, DJe 05/10/2016)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. ART. 33, § 4º, DA LEI N. 11.343/2006. ACÓRDÃO A QUO QUE NEGOU A INCIDÊNCIA DO REDUTOR, CONSIDERANDO A QUANTIDADE DE DROGAS QUE INDICAVA A DEDICAÇÃO DO ACUSADO À PRÁTICA DELITIVA. SÚMULA 7/STJ. EXISTÊNCIA DE OUTROS FUNDAMENTOS.
+1. Tendo concluído o acórdão recorrido, a partir da análise de elementos de cunho fático-probatório, que os recorrentes não preenchiam os requisitos para se beneficiar da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, pois se dedicavam a atividades criminosas, é inviável concluir de modo diverso, dada a necessidade de revisão desses elementos fáticos, vedada em recurso especial, por força da Súmula 7/STJ.
+2. Podem as instâncias ordinárias lançar mão da quantidade de drogas como fundamento idôneo para justificar a negativa da incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+3. Situação concreta em que houve, ainda, a apreensão de um debulhador de maconha e uma balança de precisão, de forma que a conclusão no sentido da dedicação a atividades criminosas não estaria fundada apenas na quantidade de drogas.
+4. Agravo regimental improvido.
+(AgRg no REsp 1502698/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/06/2015, DJe 29/06/2015)
+Dessa forma, estando devidamente fundamentada a não aplicação da fração de redução em razão do envolvimento do recorrente em atividades ilícitas, inexiste afronta à lei hábil a embasar o pleito nessa via especial.
+Ante todo o exposto, com fundamento no art. 255, § 4º, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não se conhece do recurso especial.
+
+Publique-se. Intimem-se.
