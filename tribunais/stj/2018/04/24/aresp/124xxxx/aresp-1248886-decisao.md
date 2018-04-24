@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo nos próprios autos, interposto contra decisão que inadmitiu recurso especial sob os seguintes fundamentos: (a) ausência de ofensa ao artigo 1.022, I e II, do CPC/2015, (b) ausência de violação do art. 4º do Decreto n. 22.636/1933 por aplicação do Tema 953, objeto de recursos representativos de controvérsia, (c) aplicação das Súmulas n. 7 do STJ e 283 e 284 do STF e (d) deficiência na demonstração de dissídio jurisprudencial (e-STJ fls. 773/780).
+O acórdão do TJSC traz a seguinte ementa (e-STJ fls. 674/675):
+APELAÇÕES CÍVEIS - AÇÃO REVISIONAL - CONTRATOS BANCÁRIOS DIVERSOS - SENTENÇA DE PARCIAL PROCEDÊNCIA - INSURGÊNCIA DE AMBAS AS PARTES.
+APELO DOS AUTORES
+PRESCRIÇÃO DA PRETENSÃO À REPETIÇÃO DO INDÉBITO - APLICAÇÃO DOS ARTS. 177 DO CC/1916 E 205 DO CC/2002, OBSERVADA A REGRA DE TRANSIÇÃO DO ART. 2.028 DO ÚLTIMO DIPLOMA LEGAL - PARCIAL ACOLHIMENTO.
+APELO DA INSTITUIÇÃO FINANCEIRA
+ALEGADA A IMPOSSIBILIDADE DE REVISÃO DO CONTRATO, INCLUSIVE COM BASE NO ARTIGO 175 DO CC - NÃO ACOLHIMENTO - INCIDÊNCIA DO CÓDIGO DE
+DEFESA DO CONSUMIDOR - SÚMULA N. 297 DO C. STJ - MITIGAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA E DO ATO JURÍDICO PERFEITO - ART. 6º, INCISO V, DO CDC - ADEMAIS, REVISÃO DE CONTRATOS EXTINTOS ADMITIDA NOS TERMOS DA SÚMULA N. 286 DO STJ - PRECEDENTES DESTA CORTE.
+DEFENDIDA A LEGALIDADE DA CAPITALIZAÇÃO DE JUROS - TESE RECHAÇADA - OBSERVÂNCIA DA ORIENTAÇÃO ASSENTADA PELO C. STJ NA SÚMULA N. 539 E NO RESP. N. 1.388.972/SC, AFETADO COMO REPRESENTATIVO DE CONTROVÉRSIA.
+ANATOCISMO VEDADO NO TOCANTE: 1) AOS CONTRATOS FIRMADOS EM DATA ANTERIOR À MEDIDA PROVISÓRIA N. 1.963/2000, REEDITADA SOB O N. 2.170-36/2001; 2) AOS PACTOS CELEBRADOS APÓS A VIGÊNCIA DA NORMA RETRO CITADA E NOS QUAIS INEXISTE PACTUAÇÃO; 3) AOS CONTRATOS NÃO EXIBIDOS, EM DESOBEDIÊNCIA À PRÉVIA DETERMINAÇÃO JUDICIAL, POIS NÃO SE PODE VERIFICAR A PACTUAÇÃO DO ENCARGO - SENTENÇA MANTIDA.
+REPETIÇÃO DO INDÉBITO - POSSIBILIDADE NA FORMA SIMPLES, SENDO DESNECESSÁRIA A PROVA DE QUE O PAGAMENTO OCORREU POR ERRO - SÚMULA N. 322 DO C. STJ.
+ÔNUS SUCUMBENCIAIS - ALTERAÇÃO DO JULGADO EM BENEFÍCIO DA PARTE AUTORA - MANUTENÇÃO DA DISTRIBUIÇÃO - VERBA HONORÁRIA INATACADA.
+FIXAÇÃO, EX OFFICIO, DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM FAVOR DO ADVOGADO DA CASA BANCÁRIA - COMPENSAÇÃO VEDADA - EXEGESE DO ART. 85, §§ 11 E 14, DO CPC/2015 - INVIABILIZADA A FIXAÇÃO DA VERBA EM PROL DO PATRONO DA PARTE AUTORA.
+RECURSO DOS AUTORES CONHECIDO E PARCIALMENTE PROVIDO - RECLAMO DA CASA BANCÁRIA CONHECIDO E DESPROVIDO.
+No recurso especial (e-STJ fls. 716/741), com fundamento no art. 105, III, alíneas "a" e "c", da CF, o recorrente apontou divergência jurisprudencial, bem como violação do disposto nos arts. 489, II, e 1.022, I e II, do CPC/2015, sustentando que houve negativa de prestação jurisdicional, uma vez que o Tribunal rejeitou os embargos de declaração sem enfrentamento das contradições e omissões do acórdão recorrido.
+Alegou também ofensa ao art. 4º do Decreto n. 22.636/1933, sustentando a legalidade da capitalização de juros em periodicidade anual, independentemente de pactuação expressa, bem como ao art. 206, § 3º, III, IV e V, do CC/2002, pleiteando a prescrição trienal da pretensão de repetir o indébito.
+Foram oferecidas contrarrazões (e-STJ fls. 763/771).
+No agravo (e-STJ fls. 782/796), foram refutados os fundamentos da decisão agravada, exceto a ausência de violação ao art. 4º do Decreto n. 22.636/33, e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+Em relação à afronta ao art. 1.022 do CPC/2015, importa esclarecer que os embargos de declaração só são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+O julgador não está compelido a ponderar sobre todos os argumentos invocados pela parte, quando tenha encontrado fundamentação satisfatória para dirimir integralmente a controvérsia.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+O Tribunal de Origem enfrentou assim a questão da legalidade da capitalização anual de juros, mesmo sem pactuação expressa (e-STJ fls. 684/686)
+Defende a recorrente a legalidade da cobrança de juros capitalizados "em qualquer periodicidade, independente de pactuação expressa", com base nos artigos 1.262 e 1.062 do Código Civil de 2016 (atuais arts. 406, 407, 2.044 e 2.045 do Código Civil de 2002) sendo que, no caso dos autos, haveria contratação do anatocismo.
+A sentença, que vedou a incidência da capitalização em qualquer periodicidade, deve ser mantida.
+(..)
+Não custa salientar que a jurisprudência consolidada da c. Corte Superior já refletia tal entendimento: AgInt no REsp 1.534.460/SC, Terceira Turma, Rel. Ministro Marco Aurélio Bellizze, j. em 01/12/2016; e, AgInt no REsp 1479739/SC, Quarta Turma, Rel. Ministro Antônio Carlos Ferreira, j. em 16/06/2016.
+A Segunda Seção desta Corte, no julgamento do REsp n. 1.388.972/SC (Relator Ministro MARCO BUZZI, julgado em 8/2/2017, DJe 13/3/2017), submetido ao rito dos recursos especiais repetitivos, consolidou o entendimento de ser obrigatória a pactuação expressa da capitalização anual de juros. Confira-se a ementa do julgado:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA - ARTIGO 1036 E SEGUINTES DO CPC/2015 - AÇÃO REVISIONAL DE CONTRATOS BANCÁRIOS - PROCEDÊNCIA DA DEMANDA ANTE A ABUSIVIDADE DE COBRANÇA DE ENCARGOS - INSURGÊNCIA DA CASA BANCÁRIA VOLTADA À PRETENSÃO DE COBRANÇA DA CAPITALIZAÇÃO DE JUROS
+1. Para fins dos arts. 1036 e seguintes do CPC/2015.
+1.1 A cobrança de juros capitalizados nos contratos de mútuo é permitida quando houver expressa pactuação.
+2. Caso concreto:
+2.1 Quanto aos contratos exibidos, a inversão da premissa firmada no acórdão atacado acerca da ausência de pactuação do encargo capitalização de juros em qualquer periodicidade demandaria a reanálise de matéria fática e dos termos dos contratos, providências vedadas nesta esfera recursal extraordinária, em virtude dos óbices contidos nos Enunciados 5 e 7 da Súmula do Superior Tribunal de Justiça.
+2.2 Relativamente aos pactos não exibidos, verifica-se ter o Tribunal a quo determinado a sua apresentação, tendo o banco-réu, ora insurgente, deixado de colacionar aos autos os contratos, motivo pelo qual lhe foi aplicada a penalidade constante do artigo 359 do CPC/73 (atual 400 do NCPC), sendo tido como verdadeiros os fatos que a autora pretendia provar com a referida documentação, qual seja, não pactuação dos encargos cobrados.
+2.3 Segundo a jurisprudência do Superior Tribunal de Justiça, é possível tanto a compensação de créditos quanto a devolução da quantia paga indevidamente, independentemente de comprovação de erro no pagamento, em obediência ao princípio que veda o enriquecimento ilícito. Inteligência da Súmula 322/STJ.
+2.4 Embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório. Inteligência da Súmula 98/STJ.
+2.5 Recurso especial parcialmente provido apenas para afastar a multa imposta pelo Tribunal a quo.
+(Segunda Seção, REsp 1388972/SC, Rel. Ministro Marco Buzzi, julgado em 08/02/2017, DJe 13/03/2017)
+Com efeito, o Tribunal a quo, ao fixar ser obrigatória a pactuação expressa para se admitir a capitalização anual, observou os parâmetros jurisprudenciais adotados nesta Corte Superior.
+Estando o acórdão impugnado em sintonia com a jurisprudência deste Tribunal Superior, incide a Súmula n. 83 do STJ.
+De outro lado, em relação ao prazo prescricional, a Corte local concluiu que (e-STJ fl. 678):
+De fato, o prazo prescricional da pretensão à repetição de indébito, relativamente aos contratos bancários, era vintenário, nos exatos termos do art. 177 do Código Civil de 1916, e, a partir do Estatuto Civil de 2002, passou a ser de 10 (dez) anos (art.205). respeitadas, é claro, as regras de direito intertemporal previstas no art. 2.028 do mesmo Diploma.
+Tal entendimento, porém, não está em consonância com a jurisprudência do STJ, a qual, no julgamento do REsp n. 1.361.730/RS (Relator para o acórdão o Ministro RAUL ARAÚJO, julgado em 10/8/2016, DJe 28/10/2016), submetido ao rito dos recursos especiais repetitivos, consolidou o entendimento de que "o exercício da pretensão de ressarcimento daquilo que foi pago a maior pelo consumidor deve-se sujeitar ao prazo prescricional trienal referente à ação de ressarcimento de enriquecimento sem causa, previsto no art. 206, § 3º, IV, do Código Civil de 2002". Confira-se a ementa do referido julgado:
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (CPC/73, ART. 543-C). PROCESSUAL CIVIL. CIVIL E BANCÁRIO. CÉDULA DE CRÉDITO RURAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. PRAZO: VINTENÁRIO NO CÓDIGO CIVIL/1916 (ART. 177); TRIENAL NO CÓDIGO CIVIL/2002 (ART. 206, § 3º, IV). TERMO INICIAL: DATA DO PAGAMENTO. CASO CONCRETO: RECURSO ESPECIAL NÃO PROVIDO.
+1. Para fins do art. 543-C do Código de Processo Civil de 1973: 1.1. - "A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal"; 1.2. - "O termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento." 2. Caso concreto: prescrição da pretensão. 3. Recurso especial a que se nega provimento.
+(REsp 1361730/RS, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 28/10/2016.)
+Também nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO BANCÁRIO. CÉDULA DE CRÉDITO RURAL. PLANO ECONÔMICO. COLLOR I (MARÇO/1990). REPETIÇÃO DO INDÉBITO. TERMO INICIAL DA PRESCRIÇÃO. DATA DO EFETIVO PAGAMENTO. INCIDENTE DE PROCESSO REPETITIVO. ART. 543-C DO CPC/1973. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. "A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal.  ..  O termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento" (REsp n. 1.361.730/RS, Relator Ministro Raul Araújo, Segunda Seção, julgado em 10/8/2016, DJe 28/10/2016).
+2. Agravo interno desprovido.
+(AgInt no REsp 1678722/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 15/12/2017.)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA - REPETIÇÃO DE INDEBITO - CEDULA [NOME] - CORREÇÃO MONETÁRIA - MARÇO/90 - PRESCRIÇÃO VINTENÁRIA - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA CASA BANCÁRIA.
+1. Consoante jurisprudência do STJ, firmada em julgamento repetitivo, "A pretensão de repetição de indébito de contrato de cédula de crédito rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916, e de três anos, sob o amparo do art. 206, § 3º, IV, do Código Civil de 2002, observada a norma de transição do art. 2.028 desse último Diploma Legal"; 1.2. "O termo inicial da prescrição da pretensão de repetição de indébito de contrato de cédula de crédito rural é a data da efetiva lesão, ou seja, do pagamento." Caso líder: REsp 1361730/RS, Rel. Min. Raul Araújo, DJe de 28/10/2016.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 641.922/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2017, DJe 05/04/2017.)
+Ante o exposto, CONHEÇO do AGRAVO para DAR PARCIAL PROVIMENTO ao recurso, a fim de reconhecer o prazo prescricional de 3 (três) anos para a pretensão de repetir o indébito.
+Publique-se e intimem-se.
