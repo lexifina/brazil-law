@@ -1,0 +1,35 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Alzira de Souza Lopes Codeco Marques e outro(a/s) contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal Regional Federal da 2ª Região, está assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL. ADVOGADOS DA UNIÃO. INGRESSO NA CARREIRA EM 2000. PROGRESSÃO NA CARREIRA. RESOLUÇÃO Nº 02/2000 E Nº 02/2005 DO CONSELHO SUPERIOR DA ADVOCACIA- -GERAL DA UNIÃO. EXIGÊNCIA DE INTERSTÍCIO MÍNIMO DE DOIS ANOS, CONTADOS DO TÉRMINO DO ESTÁGIO PROBATÓRIO. INEXISTÊNCIA DE VIOLAÇÃO DO PRINCÍPIO DA ISONOMIA. CRITÉRIOS DE DESEMPATE PARA PROMOÇÃO INCOMPATÍVEIS COM A REGRA DE ANTIGUIDADE E MELHOR CLASSIFICAÇÃO NO CERTAME. ANTECIPAÇÃO DE TUTELA VEDADA POR IMPLICAR EM RECLASSIFICAÇÃO E AUMENTO DE VENCIMENTOS.
+    1 – Incabível a concessão de antecipação de tutela na sentença se implica em reclassificação do servidor ou aumento de vencimentos.
+    2 – Advogados da União que ingressaram na carreira em 2000.
+    3 – Regulamentação da progressão na carreira efetuada pelo Conselho Superior da Advocacia-Geral da União, conforme art. 24 da LC 73/93 através das Resoluções nº 02/2000 e 02/2005, normas que fixaram exigência de cumprimento de um interstício mínimo de dois anos, contados após o término do estágio probatório, para a habilitação no concurso de promoção com respeito ao período de avaliação compreendido entre julho a dezembro de 2002.
+    4 – Interstício não mais exigido quanto ao período de avaliação de julho a dezembro de 2003.
+    5 – Autores que, em 2003, concorreram à Primeira Categoria da carreira conjuntamente com os advogados que ingressaram no ano de 2001.
+    6 – Violação do princípio constitucional da isonomia não caracterizado eis que os servidores não se encontram na mesma situação.
+    7 – São, porém, inconstitucionais, por violarem o princípio da razoabilidade, as regras contidas nos incisos do art. 3º do Decreto nº 4.434/2002, que adotam critérios estranhos e desarticulados com a carreira.
+    8 – Apelações e remessa conhecidas, apelação dos autores improvida e parcial provimento da apelação da União e da remessa, nos termos do voto supra.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Resoluções nº 02/2000 e nº 02/2005 do Conselho Superior da Advocacia-Geral da União), o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em aspectos fático- -probatórios:
+    “Como bem ressaltado pelo Juízo ‘a quo’, a promoção relativa a dezembro de 2002 deve ser regulamentada pela norma então em vigor, qual seja, a Resolução CS/AGU 2/2000, sendo incabível pretender a retroação da Resolução 1/2003 (que abolira a exigência de interstício mínimo) para reger fatos anteriores à sua edição.
+    Assim, era exigível, para a promoção de dezembro de 2002, o interstício de dois anos após a aprovação em estágio probatório. Já no tocante à promoção de julho de 2003, quando já em vigor a Resolução n. 1/2003, o único requisito era a conclusão do estágio probatório.
+    Com isso, puderam concorrer à promoção de julho de 2003 tanto os advogados empossados em 2000 (caso dos autores) como os empossados em 2001.
+    …...................................................................................................
+    Portanto, não há que se falar em quebra quando os servidores se encontram em situação diversa, como ocorre no caso, em que são cotejados grupos que ingressaram no serviço em datas diversas.”
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 701.379/SP, Rel. Min. LUIZ FUX – RE 600.988- -AgR/PR, Rel. Min. ROBERTO BARROSO, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Procurador federal. Progressão funcional. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes.
+    1. Não se presta o recurso extraordinário para a análise de matéria ínsita à legislação infraconstitucional, tampouco para o reexame dos fatos e das provas constantes dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    2. Agravo regimental não provido.
+    3. Inaplicável o art. 85, § 11, do CPC, pois não houve prévia fixação de honorários advocatícios na causa.”
+    (ARE 978.091-AgR/PR, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Se a parte vencida, eventualmente, for beneficiária da gratuidade, não se exonerará ela, em virtude de tal condição, da responsabilidade pelas despesas processuais e pela verba honorária decorrentes de sua sucumbência (CPC, art. 98, § 2º), ressalvando-se-lhe, no entanto, quanto a tais encargos financeiros, a aplicabilidade do que se contém no  § 3º do art. 98 desse mesmo estatuto processual civil.
+    Publique-se.
+    Brasília, 24 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
