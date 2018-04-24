@@ -1,0 +1,90 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. EQUÍVOCO NO CÁLCULO. REEXAME DE FATOS E PROVAS. FUNDAMENTAÇÃO DEFICIENTE.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/Superior Tribunal Justiça).
+2. A deficiência da fundamentação do recurso especial inviabiliza a exata compreensão da controvérsia. Incide a Súmula 284/Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno contra decisão pela qual neguei provimento a agravo em recurso especial.
+A agravante contesta a incidência das Súmulas 7 e 284, respectivamente do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Nos termos seguintes, neguei provimento ao agravo em recurso especial:
+O presente agravo visa à admissão de recurso especial que pede a reforma de acórdão retratado nesta ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA QUE FOI ACOLHIDA EM PARTE PARA "AFASTAR DO CÁLCULO DO CONTADOR JUDICIAL A INCIDÊNCIA DA DOBRA ACIONÁRIA". AVENTADO EQUÍVOCO NO CÁLCULO DOS RENDIMENTOS. ELABORAÇÃO DA CONTA QUE OBSERVOU A TABELA DE DIVIDENDOS DA PLANILHA PARA CÁLCULO DA DIFERENÇA DE AÇÕES, DA ASSESSORIA DE CUSTAS DA CORREGEDORIA-GERAL DE JUSTIÇA, CUJA UTILIZAÇÃO FOI RECOMENDADA A TODOS OS CONTADORES JUDICIAIS, MEDIANTE O COMUNICADO N. 67/CGJ. CÁLCULO DOS RENDIMENTOS QUE TEM POR LIMITE O TRÂNSITO EM JULGADO, CONFORME A ORIENTAÇÃO ADVINDA DO RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N. 1.301.989/RS. RECURSO DESPROVIDO.
+Ainda no agravo, a executada postula a suspensão do processo, haja vista o deferimento do processamento do pedido de recuperação judicial do grupo econômico OI.
+No recurso especial, fundado em violação dos artigos 128, 460, 468, 475-B e 475-J do Código de Processo Civil de 1973 e dos artigos 141, 492, 503, 509 e 523 do CPC de 2015, a operadora de telefonia reclama de excesso de execução. Afirma que o cálculo, elaborado pela contadoria judicial, utilizou "índices indevidos", em desrespeito ao título exequendo. Menciona ofensa à coisa julgada. Postula a suspensão do processo.
+Primeiro, entendo incabível a suspensão do trâmite processual.
+Em julgamentos nos quais deduzida idêntica postulação, e nos quais analisada a situação específica narrada pela recorrente (mormente o fato de estar em curso de recuperação judicial), o Superior Tribunal de Justiça tem decidido que o pedido de suspensão do processo, pelo prazo de 180 dias, nos termos do artigo 6º da Lei 11.101/2005, deve ser formulado perante o Juízo de origem. Nesses precedentes, relativos a demandas já em fase de cumprimento de sentença, tem-se considerado que a ausência de atos tendentes a afetar o patrimônio da recuperanda - notadamente por estar limitada a controvérsia neles versada, em geral, a definir os critérios corretos para o acertamento dos valores devidos - recomenda o prosseguimento do feito, conforme ressalva prevista no artigo 6º, §§ 1º e 3º, da Lei 11.101/2005, pois contribuirá para a maior confiabilidade, segurança e certeza da estimativa dos valores que serão incluídos no futuro plano de recuperação. Para exame:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DAS AÇÕES EXECUTIVAS EVENTUALMENTE AJUIZADAS CONTRA A EMPRESA EM RECUPERAÇÃO JUDICIAL. PEDIDO QUE DEVE SER FORMULADO PERANTE O JUIZ DA RECUPERAÇÃO JUDICIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, PARÁGRAFO 1º, DO CPC/2015. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. Não sendo o caso de concessão de tutela provisória, o pedido de suspensão das ações executivas eventualmente ajuizadas contra a empresa em recuperação judicial deve ser formulado perante o juízo da recuperação.
+(..)
+3. Agravo interno não conhecido.
+(AgInt no AREsp 713.397/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/08/2017, DJe 22/08/2017)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DO PROCESSO PELO DEFERIMENTO DO PROCESSAMENTO DE RECUPERAÇÃO JUDICIAL. NÃO CABIMENTO. RADIOGRAFIA DO CONTRATO. INSUFICIÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ.
+1. O presente processo trata de recurso especial interposto contra decisão proferida em agravo de instrumento na origem, no qual se pretende, em cumprimento de sentença, estabelecer os critérios para elaboração do cálculo dos valores devidos. Dessa forma, é incabível a suspensão do processo em razão do deferimento do processamento da recuperação judicial, pois não se verifica, na presente hipótese, a possibilidade da prática de atos expropriatórios, o que recomenda prosseguimento do feito, conforme ressalva prevista no artigo 6º, §§ 1º e 3º, da Lei 11.101/2005.
+2. A jurisprudência desta egrégia Corte se orienta no sentido de que, "nas hipóteses em que o devedor não fornece os documentos necessários para a confecção dos cálculos executivos, aplica-se o art. 475-B, § 2º, do CPC, que autoriza presumir corretos os cálculos apresentados pelo credor" (AgRg no AREsp 521.635/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/8/2014, DJe de 25/9/2014).
+3. A modificação do entendimento lançado no v. acórdão recorrido quanto à necessidade de apresentação do contrato de participação financeira firmado entre as partes para aferir o valor devido à recorrida demandaria o reexame do material fático-probatório dos autos, o que é vedado pela Súmula 7.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 930.558/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/03/2017, DJe 22/03/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA.
+1. O pedido de sobrestamento do cumprimento de sentença, pelo prazo de 180 dias, nos termos dos artigos 6º, § 4º, e 52, inciso III, da Lei 11.101/2005, motivado pelo deferimento do processamento da recuperação judicial, deve ser formulado perante o Juízo de origem.
+2. A verificação da presença dos requisitos para a atribuição de efeito suspensivo à impugnação, no presente caso, impõe necessário reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 920.949/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2017, DJe 21/02/2017)
+Assim, o pedido de suspensão do processo deve ser formulado perante o Juízo de origem.
+O Tribunal estadual confirmou a exatidão do cálculo confeccionado pelo contador judicial. Leia-se este fragmento do acórdão recorrido:
+Ao contrário do que alega a agravante, não se vislumbra qualquer equívoco na forma de cálculo dos dividendos (fls. 72/76 dos autos n. 0013761-02/2007.8.24.0005/03), anotando-se que foi utilizada a tabela dos dividendos encontrada na "Planilha para cálculo da diferença de subscrição de ações de telefonia - BRT", cuja utilização foi recomendada a todos os contadores das comarcas mediante o Comunicado n. 67/CGJ.
+Não fosse suficiente, o limite temporal para o cálculo dos rendimentos é o trânsito em julgado da decisão, conforme a orientação advinda da Segunda Seção do Superior Tribunal de Justiça, no julgamento do recurso especial representativo de controvérsia n. 1.301.989, do Rio Grande do Sul, de relatoria do ministro [NOME] Tarso Sanseverino, em data de 12.3.2014, constando: "No caso das ações convertidas em perdas e danos, é devido o pagamento de dividendos desde a data em que as ações deveriam ter sido subscritas, até a data do trânsito em julgado do processo de conhecimento, incidindo juros de mora e correção monetária segundo os critérios do item anterior".
+A revisão da posição perfilhada no acórdão recorrido, em particular a aferição da sugerida existência de incorreção na conta e o reconhecimento de possível excesso no valor executado, só é possível mediante reexame de matéria fática, o que encontra óbice na Súmula 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356 DO STF. RAZÕES DO RECURSO CUJA ANÁLISE DEPENDE DE REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7 DO STJ.
+(..)
+2. As razões do recurso especial discutem, ademais, a correção de cálculos admitidos pela corte de origem como corretos, questão que depende do reexame de matéria fática da lide, inviável de apreciação nesta sede (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 195608/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/10/2012, DJe 31/10/2012).
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DO DEVEDOR. COISA JULGADA. ARTS. 467, 468, 470 E 471 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO STF. EXCESSO DE EXECUÇÃO. PERÍCIA CONTÁBIL. REEXAME DE PROVA. INVIABILIDADE. DIVERGÊNCIA NÃO COMPROVADA. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA N. 7 DO STJ. TAXA DOS JUROS DE MORA. ARTS. 1.062 E 1.063 DO CÓDIGO CIVIL DE 1916. INCIDÊNCIA ATÉ O ADVENTO DO NOVO CÓDIGO CIVIL.
+(..)
+2. Firmado o convencimento do órgão julgador de origem com parâmetro na sistemática de elaboração dos cálculos do contador judicial e nos laudos periciais carreados aos autos, para se reconhecer a ocorrência ou não de excesso de execução, na estreita via desta instância especial, torna-se imprescindível o reexame do conjunto fático-probatório da demanda, procedimento que esbarra no óbice da Súmula n. 7 do STJ.
+(..)
+6. Recurso especial de [NOME] não-conhecido e recurso de Wrobel Construtora S/A provido.
+(4ª Turma, REsp 859.055/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, unânime, DJe de 24.3.2008).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. PLANOS ECONÔMICOS. SOBRESTAMENTO. DESNECESSIDADE. CUMPRIMENTO DE SENTENÇA. CÁLCULO DO QUANTO DEVIDO. REVISÃO. REEXAME DE PROVA. SÚMULA 7/STJ. INOVAÇÃO. INADMISSIBILIDADE.
+1. A ausência de discussão acerca dos índices de correção monetária aplicados em cadernetas de poupança decorrentes de Planos Econômicos afasta o sobrestamento do feito determinado pelo egrégio Supremo Tribunal Federal.
+2. Rever os cálculos apresentados pelo credor, e aqueles determinados pelo Juízo para apurar possível excesso na execução, demandaria ampla investigação probatória, que é vedada por meio do recurso especial, em razão do óbice do enunciado 7 da Súmula desta Corte.
+3. Inviável a apreciação de matéria inovada em sede de agravo regimental, que não foi objeto de impugnação específica no momento processual adequado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 203.324/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/12/2014, DJe 16/12/2014).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. EXCESSO DE EXECUÇÃO. JUROS SOBRE JUROS. REEXAME DE FATOS E PROVAS. POSSIBILIDADE DE REVERSÃO DE VALORES NA ORIGEM. ALEGAÇÃO GENÉRICA. ENUNCIADO 284 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. A análise do alegado excesso de execução - aventado em decorrência de suposta incorreção dos cálculos realizados pela contadoria judicial, que teria aplicado juros compostos - importaria o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7 do STJ.
+2. Ao apontar excesso de execução, a recorrente não esclarece, objetiva e especificamente, os motivos de reforma do julgado proferido pela Corte de origem, o que faz incidir o enunciado 284 da Súmula do STF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 346.558/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/10/2013, DJe 28/10/2013).
+Ademais, observo que o recurso especial é inepto, uma vez que a executada nele não logrou demonstrar, de forma inequívoca, com objetividade e precisão mínimas, de que maneira ou em que itens o cálculo da contadoria judicial seria excessivo, limitando-se a argumentar, genericamente, a utilização de "índices indevidos", os quais sequer são mencionados. Nessa situação, o recurso especial esbarra na Súmula 284 do Supremo Tribunal Federal. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO DA SÚMULA 284 DO STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7 DO STJ. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPERIOR TRIBUNAL. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. As razões recursais devem fazer a demonstração explicativa dos pontos nos quais os fundamentos do julgado (supostamente) atentam contra a norma positiva, sob pena de não conhecimento do recurso, com base na Súmula 284 do STF, aplicada por analogia: ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+2. Se os elementos constantes dos autos são suficientes à formação da sua convicção, é lícito ao juiz conhecer diretamente do pedido, proferindo julgamento antecipado da lide, sem que isso implique cerceamento de defesa.
+3. Se o Tribunal de origem concluiu pela desnecessidade de realização de outras provas e pela ausência de cerceamento de defesa, a (eventual) reforma do julgado demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra inviável no âmbito do recurso especial (STJ, Súmula 7/STJ).
+4. O tribunal de origem decidiu em harmonia com a orientação predominante desta Corte, incidindo ao caso a Súmula nº 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou se firmou no mesmo sentido da decisão recorrida").
+5. Agravo regimental não provido.
+(AgRg no AREsp 477.747/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 17/12/2015, DJe 04/02/2016)
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 14-D DA LEI N. 10.522/2002. INCIDÊNCIA DA SÚMULA N. 211/STJ.
+NÃO APRESENTAÇÃO DAS GFIPS. CONSTITUIÇÃO DOS CRÉDITOS POR ESTIMATIVA DO FISCO. OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA.
+I - O Superior Tribunal de Justiça considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+II - A jurisprudência desta Corte considera, ainda, deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+III - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+IV - In casu, rever o entendimento do Tribunal de origem, que consignou a inocorrência da constituição dos créditos por estimativa pelo Fisco, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+V - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+VI - Agravo Regimental improvido.
+(AgRg no REsp 1405871/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/12/2015, DJe 05/02/2016)
+Em face do exposto, indefiro o pedido de suspensão do curso do processo e nego provimento ao agravo.
+Nenhuma das objeções opostas pela agravante merece prosperar.
+Está afirmado na decisão ora agravada que a Corte de origem, com base nas provas depositadas no processo e respeitando o contraditório e a ampla defesa, não vislumbrou a presença de equívocos no cálculo elaborado pelo contador do Juízo.
+Exatamente nesse ponto, para se dissentir da conclusão da Corte estadual seria necessário o reexame do conjunto fático-probatório dos autos. Precedentes específicos, nesse sentido, estão listados na decisão ora agravada. Importante frisar que o agravo interno não demonstrou que tais precedentes não se aplicam ao caso concreto, nem indicou julgados em sentido inverso.
+Sucede que não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, reexaminar fatos e provas para, analisando cada um dos itens que compõem a memória de cálculo da condenação, inclusive com ampla investigação de índices/fatores de indexação aplicáveis e definição de seus limites temporais, constatar a ocorrência de excesso de execução.
+Daí estar registrado na decisão ora agravada a inviabilidade do recurso especial, nesse ponto, pela incidência da Súmula 7 do STJ.
+Assim, não vejo como concordar com a agravante.
+O segundo obstáculo anotado na decisão ora agravada (Súmula 284 do Supremo Tribunal Federal), embora constituindo fundamento autônomo para, por si só, manter o dispositivo do julgado singular, também diz respeito à pretensão já obstada pela impossibilidade de reexame de matéria fática em recurso especial (Súmula 7 do STJ).
+Assim, mesmo que os argumentos do agravo interno fossem suficientes para infirmar a aplicação daquele segundo óbice, subsistiria, como visto, o primeiro.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
