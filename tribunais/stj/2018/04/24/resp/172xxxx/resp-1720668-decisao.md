@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A. fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"EXIBIÇÃO DE DOCUMENTOS - FUNDADA A AÇÃO PROPOSTA NA NECESSIDADE DE UTILIZAÇÃO, COMO MEIO DE DEFESA EM DEMANDAS AJUIZADAS EM SEU DESFAVOR, DOS RECIBOS DE PAGAMENTO DA RESERVA DE POUPANÇA FIRMADOS PELOS EX-EMPREGADOS DA PATROCINADORA JUNTO À INSTITUIÇÃO BANCÁRIA, E QUE SE ENCONTRAM EM PODER DA MESMA, À VISTA DO CONTRATO FIRMADO ENTRE AS PARTES, POSSUI A AÇÃO CAUTELAR CUNHO SATISFATIVO, NÃO PRESSUPONDO AÇÃO PRINCIPAL - PRAZO CONTRATUAL PARA A GUARDA DOS RECIBOS NÃO EXPIRADO, DIANTE DE PRETÉRITAS MANIFESTAÇÕES DA AUTORA - DESPROVIMENTO DO RECURSO" (e-STJ fl. 257).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 535, II, do Código de Processo Civil de 1973 - o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar as questões postas nos embargos declaratórios relacionadas com os arts. 357 e 359 do Código de Processo Civil de 1973, e
+(ii) arts. 357, 359, 462 e 806 do Código de Processo Civil de 1973 - a instituição financeira não é revel; o recorrido, autor da ação cautelar, não ajuizou a ação principal no prazo legal; o banco asseverou não possuir os documentos solicitados e essa declaração não foi contestada; não há prova nos autos de que tenha havido a transmissão dos arquivos magnéticos para a realização dos pagamentos; não cabe a imposição de astreintes na hipótese, conforme estabelece a Súmula nº 372/STJ.
+Sem as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+ Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No que tange à pretensão de que a ação seja julgada improcedente, extrai-se das razões recursais que a recorrente não refutou os seguintes fundamentos adotados pela Corte local:
+"(..)
+De fato, inexiste dúvida acerca da natureza satisfativa da ação cautelar ajuizada visando à exibição, em decorrência de contrato firmado com Requerido, de recibos de quitação firmados por aqueles que sacar suas reservas de poupança, considerando-se que, por meio de tais documentos, pretende fazer prova, nas demandas propostas pelos ex-participantes em seu desfavor, sob o argumento de não terem recebido a aludida reserva, que os valores foram disponibilizados na conta da instituição bancária Ré, não se vislumbrando, pois, necessidade de propositura de qualquer ação principal" (e-STJ fl. 258).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, as conclusões do tribunal de origem acerca da questão decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+No que tange à assertiva recursal de não mais possuir os microfilmes dos recibo avulsos, por conta do decurso do prazo decenal previsto no parágrafo segundo, da cláusula segunda, do contrato para prestação do serviço de pagamento de reserva de poupança por cota-única/recibo avulso, melhor sorte não colhe o Réu, considerando-se que, apesar de ajuizada a demanda no mês de julho de 2008 objetivando à exibição de todos os saques efetuados a partir de novembro de 1996, a documentação de fls.35, 44, 47, 50, 54, 58, 61, 66 e 67, conforme bem observado pelo douto sentenciante, demonstra que a Autora vem solicitando àquele o envio dos recibos desde o ano de 1999 sem lograr, todavia, sucesso, não podendo a instituição bancária, pois, suscitar a própria torpeza para negar-se a exibi-los" (e-STJ fls. 258/259).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Quanto à multa diária imposta na sentença, verifica-se que a matéria não foi objeto de debate pela instância ordinária, sequer tendo sido objeto da apelação. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
