@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PLANO DE BENEFÍCIOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, com base nos elementos fático-probatórios dos autos, concluiu que a parte recorrente não comprovou que a parte autora ora recorrida é optante do Benefício Proporcional Diferido, de forma que faz jus à devolução dos valores. Assim, resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas.
+2. Quanto ao dissídio jurisprudencial, ressalta-se que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, os Ministros da Quarta Turma do Superior Tribunal de Justiça acordam, na conformidade dos votos e das notas taquigráficas, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente), Marco Buzzi e Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por [NOME] SEGURIDADE SOCIAL em face de decisão deste Relator de fls. 336-338, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido a impossibilidade de reexame do conjunto fático-probatório dos autos.
+Nas razões recursais, sustenta a parte agravante: " A matéria está adstrita única e exclusivamente a questão de direito sendo dispensável qualquer dilação probatória. Restou demonstrado que a complementação de aposentadoria é um benefício extralegal, visto que sua fonte é o Regulamento do Plano II do [NOME] onde encontram reguladas suas condições e requisitos logo, a interpretação extensiva das cláusulas contratuais fere de forma direta e literal o disposto no artigo 114 do Código Civil. Desnecessário rever documentos dos autos, bastando - para acolher a insurgência - analisar o equivocado enquadramento jurídico que foi dado aos fatos delineados nas decisões judiciais, e que representa violação direta aos referidos dispositivos legais.".
+Requer o conhecimento e provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PLANO DE BENEFÍCIOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, com base nos elementos fático-probatórios dos autos, concluiu que a parte recorrente não comprovou que a parte autora ora recorrida é optante do Benefício Proporcional Diferido, de forma que faz jus à devolução dos valores. Assim, resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas.
+2. Quanto ao dissídio jurisprudencial, ressalta-se que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. Conforme asseverei na decisão monocrática de minha Relatoria (fls. 336-338), o Tribunal de origem, com base nos elementos fático-probatórios dos autos, concluiu que a parte recorrente não comprovou que a parte autora ora recorrida é optante do Benefício Proporcional Diferido, de forma que faz jus à devolução dos valores. Assim, resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas.
+Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. ATUALIZAÇÃO MONETÁRIA DE BENEFÍCIOS E PRÊMIOS. COMPATIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 7 DO STJ. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem concluiu, com base nos fatos e nas provas dos autos, que não houve proporcionalidade entre a correção dos benefícios e o valor do respectivo prêmio mensal.
+Alterar esse entendimento é inviável em recurso especial, ante o óbice das referidas súmulas.
+3. Inviável o conhecimento de matéria arguida somente nas razões do agravo regimental, por configurar indevida inovação recursal.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 567.593/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/03/2018, DJe 23/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE PREVIDÊNCIA PRIVADA COMPLEMENTAR. DIFERENÇA DE COMPLEMENTAÇÃO DE APOSENTADORIA. OPÇÃO FORMULADA POR BENEFICIÁRIOS. NOVA ALTERAÇÃO LEGAL. ALEGAÇÕES DE OCORRÊNCIA DE DECADÊNCIA. INOVAÇÃO RECURSAL. ONEROSIDADE EXCESSIVA. IMPREVISIBILIDADE DO EVENTO. SÚMULAS 5 E 7 DO STJ. APLICABILIDADE DA TEORIA DA IMPREVISÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Ao longo de todo o processo, as promovidas sustentaram a ocorrência da prescrição do fundo de direito e, somente em sede de agravo interno, inovam com alegação de decadência do direito de ação, tema que nem sequer foi aventado nas razões de recurso especial ou do agravo interposto.
+2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, necessitam observar o requisito do prequestionamento na via do recurso especial. Precedentes.
+3. Em relação às argumentações acerca da ausência de onerosidade excessiva para um dos contratantes e previsibilidade do evento, o objetivo almejado pelas recorrentes esbarra nas Súmulas 5 e 7 do STJ, pois vinculado primordialmente à análise de disposições contratuais relacionadas à previdência privada dos autores, além de matéria de fato emanada dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 827.043/SC, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 07/12/2017, DJe 14/12/2017)
+3. Por fim, quanto ao dissídio jurisprudencial, ressalta-se que o conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
