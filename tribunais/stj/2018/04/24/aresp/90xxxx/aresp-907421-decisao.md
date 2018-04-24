@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/1973, art. 544), interposto contra decisão que inadmitiu o recurso especial, ante a aplicação das Súmulas n. 7 do STJ e 282, 283 e 284 do STF (e-STJ fls. 345/348).
+O TJPR negou provimento ao agravo de instrumento, em acórdão assim ementado (e-STJ fl. 145):
+AGRAVO REGIMENTAL AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO. RAZÕES QUE VISAM À REFORMA DA DECISÃO. REPETIÇÃO DE PARTE DOS FUNDAMENTOS UTILIZADOS EM AGRAVO DE INSTRUMENTO. MATÉRIAS ANALISADAS. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL ACOLHIDO E NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados, havendo a aplicação da multa, com amparo no art. 538, parágrafo único, do CPC/1973 (e-STJ fls. 171/177).
+Nas razões do recurso especial (e-STJ fls. 181/204), interposto com base no art. 105, III, "a" e "c", da CF, o recorrente alegou violação:
+(a) do art. 792 do CPC/1973, porque o juízo de origem, após ser comunicado sobre o acordo realizado entre as partes, não teria suspendido o processo, extinguindo-o e, com a oposição dos aclaratórios para sanar tal contradição, teria indevidamente penalizado o recorrente, à luz do art. 538, parágrafo único, do CPC/1973,
+(b) do art. 538, parágrafo único, do CPC/1973, pois os embargos de declaração opostos visariam sanar contradição consistente na prolação de decisões conflitantes na Corte de origem sobre processo envolvendo as mesmas partes, não sendo protelatórios, o que tornaria indevido aplicar a multa prevista no dispositivo (e-STJ fls. 200/202), e
+(c) do art. 18, § 2º, do CPC/1973, visto que a indenização de 20% (vinte por cento) arbitrada seria indevida, uma vez que estaria condicionada à prova de litigância de má-fé do recorrente, não evidenciada nos autos.
+Argumentou que, "simultaneamente, a parte Recorrente interpôs Agravos de Instrumentos nos autos n. 0004362-25.2010.8.16.0050 e 0003620-97.2010.8.16.0050, em trâmite na 1ª Vara Cível da Comarca de Bandeirantes/PR, em que mesmo com a formalização de acordo entre as partes, houve aplicação das multas previstas nos arts. 538, parágrafo único, e art. 18, § 2º do CPC/1973, bem com a não aplicação da suspensão do processo devidamente convencionada, com fulcro no art. 792, caput do CPC/1973" (e-STJ fl. 188).
+Apontou dissenso jurisprudencial, sustentando a discrepância de decisões do próprio TJPR, visto que "a decisão supra colacionada resolveu a lide nos autos n. 0004362-25.2010.8.16.0050, pois afastou as multas arbitrariamente impostas, bem como reabriu o prazo para interpor recurso de apelação, a fim de obter-se a suspensão do processo, com fulcro no art. 792, caput, do CPC/1973" (e-STJ fl. 190), havendo diferentes interpretações dos arts. 18, § 2º, 538, parágrafo único, e 792 do CPC/1973, segundo acórdãos listados em fls. 191/197 (e-STJ).
+Não foram apresentadas contrarrazões (e-STJ fl. 344).
+No agravo (e-STJ fls. 351/370), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fl. 372).
+É o relatório.
+Decido.
+O recurso especial e o agravo foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados, e a realização do cotejo analítico, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973 (CPC/2015, art. 1.029, § 1º).
+De tais ônus o recorrente não se desincumbiu, pois limitou-se a transcrever ementas dos julgados a partir dos quais alegou o dissenso interpretativo. Assim, é inviável conhecer da divergência jurisprudencial apontada. A esse respeito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. SUSPENSÃO DO PROCESSO. DESNECESSIDADE. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS DE LEIS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO DESPROVIDO.
+(..)
+3. A simples transcrição de ementas, trechos ou inteiro teor dos precedentes colacionados, sem o necessário cotejo analítico entre os casos confrontados, não viabiliza o conhecimento do recurso especial pelo dissídio, ante a inobservância dos requisitos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.602.814/SC, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/5/2017, DJe 31/5/2017.)
+O apontado dissídio interpretativo, em relação às decisões proferidas pelo próprio TJPR envolvendo as mesmas partes, não merece acolhida, tendo em vista que a decisão invocada como paradigma é oriunda da própria Corte recorrida, circunstância que atrai a aplicação da Súmula n. 13/STJ como óbice ao recurso. A propósito: AgRg no AREsp n. 569.064/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/10/2015, DJe 26/10/2015.
+A Corte local não se manifestou quanto aos arts. 18, § 2º, e 792 do CPC/1973, visto que sequer conheceu do agravo de instrumento interposto pelo recorrente, ao assentar que a decisão impugnada tinha natureza de sentença, sendo, por isso apelável e que, ante o equívoco inescusável, era inaplicável a fungibilidade recursal ao caso em exame (e-STJ fl. 174).
+Dessa forma, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria dos dispositivos, pertencente ao mérito do agravo de instrumento sequer conhecido, carece de prequestionamento e sofre, por conseguinte, o empecilho da Súmula n. 211/STJ.
+A jurisprudência desta Casa orientou-se no sentido de que, estando afastada a tese de afronta ao art. 535 do CPC/1973 - por estar completa a prestação jurisdicional e não haver omissão, contradição ou obscuridade na decisão recorrida -, justifica-se a aplicação da multa do art. 538, parágrafo único, do CPC/1973, ante o caráter protelatório dos embargos de declaração. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM S.A. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. ART. 538, PARÁGRAFO ÚNICO, DO CPC/1973. AFASTAMENTO DA MULTA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide, pronunciando-se, de forma clara e suficiente, sobre a controvérsia estabelecida nos autos.
+2. A oposição de embargos declaratórios na origem, pretendendo a rediscussão do julgado, inclusive invocando questões expressamente decididas no acórdão embargado, caracteriza o manifesto intuito protelatório, sendo escorreita a aplicação da multa prevista no art. 538, parágrafo único, do CPC/1973.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 910.948/PR, de minha Relatoria, QUARTA TURMA, julgado em 8/11/2016, DJe 16/11/2016.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NULIDADE DE HIPOTECA CUMULADA COM ADJUDICAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. CARÁTER MANIFESTAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. ART. 131 DO CPC. LIVRE CONVENCIMENTO MOTIVADO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA Nº 284/STF.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Não escapam os recorrentes da imposição da multa de que trata o parágrafo único do art. 538 do Código de Processo Civil ante a oposição de declaratórios de caráter manifestamente protelatório.
+(..)
+6. Agravo regimental não provido.
+(AgRg nos EDcl no REsp n. 1.369.687/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2015, DJe 4/2/2016.)
+O TJPR, ao afastar a tese de ofensa ao art. 535 do CPC/1973, reconheceu o caráter protelatório dos embargos, assentando que (e-STJ fls. 174/176):
+Destaco, também, que a finalidade dos embargos de declaração é de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. A ausência destes vícios conduz necessariamente à sua rejeição.
+Não verifico qualquer vício que possa ensejar a oposição dos embargos de declaração, salvo melhor entendimento.
+Ressalto que as matérias alegadas haviam sido tratadas e decididas quando do julgamento do agravo de instrumento e do agravo interno, ambos julgados desfavoravelmente ao embargante.
+O agravo de instrumento restou não conhecido por ser manifestamente inadmissível, vez que a parte embargante deveria ter interposto apelação cível no lugar de interpor agravo de instrumento. Houve erro grosseiro, impossibilitando o reconhecimento de fungibilidade recursal.
+Não satisfeito com o resultado, o embargante interpôs agravo interno, que restou acolhido e não provido.
+Inconformado, o Banco insurgente opõe estes embargos de declaração para o fim de rediscutir as matérias analisadas no agravo de instrumento e repetidas no agravo interno.
+Assim, verifico que as matérias destes embargos de declaração foram analisadas e decididas de forma fundamentada, quando do julgamento do agravo de instrumento e do agravo interno.
+Desta forma, não verifico nenhuma omissão, obscuridade, contradição ou erro material que ensejassem a modificação do Acórdão, não tendo que se falar no acolhimento destes embargos de declaração.
+Ainda, se o insurgente pretendesse rediscutir a matéria, isso não se daria mediante embargos de declaração, mas sim via recurso cabível.
+Diante desta quadra de considerações, de se ver que o vício alegado pelo embargante, na realidade, é a discordância da fundamentação e do convencimento desta julgadora e não a existência de vício no corpo do decisum. A pretensão do embargante é rediscutir a matéria decidida, de modo a obter o reconhecimento de sua tese, o quê, pela via intentada, não se revela viável.
+(..)
+Note-se, ainda, que nas razões destes embargos, o Banco repete os mesmos argumentos, refutados anteriormente à exaustão, demonstrando claramente o caráter protelatório do feito.
+Desse modo, constatando que os embargos opostos deduzem argumentação absolutamente despropositada, já refutada e com evidente finalidade de protelar a efetividade da decisão proferida sob o pretexto da omissão, fica o embargante condenado a pagar a multa prevista no artigo 538, parágrafo único, do Código de Processo Civil, consistente em 1% sobre o valor da causa.
+Verifica-se que o acórdão impugnado está em sintonia com a jurisprudência desta Corte Superior quanto ao tema, motivo por que a Súmula n. 83/STJ incide como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
