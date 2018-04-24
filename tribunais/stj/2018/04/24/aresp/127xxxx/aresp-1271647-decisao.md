@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 494/496).
+O acórdão recorrido está assim ementado (e-STJ fls. 450/451):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS . ATRASO NA ENTREGA DO IMÓVEL. RESCISÃO POR CULPA EXCLUSIVA DA PROMITENTE VENDEDORA. DEVOLUÇÃO INTEGRAL DO VALOR PAGO. DANO MORAL CONFIGURADO. MULTA COMPENSATÓRIA. HONORÁRIOS ADVOCATÍClOS NÃO ALTERADOS.1. Restando patente que a rescisão do contrato de compra e venda decorreu do inadimplemento na entrega do imóvel, descabe retenção de percentual pago pelo comprador, devendo a restituição das parcelas ser integral. 2.
+O dano acarretado ultrapassa o mero aborrecimento ou dissabor, capaz de alterar o aspecto psicológico emocional da vítima, ainda que lhe cause inoportunas sensações negativas, gerando, assim, o dever de indenizar. Assim, considerando-se o caso concreto, tem-se justa a indenização do comprador, em razão dos danos morais sofridos, no montante de R$ 10.000,00 (dez mil reais). 3. A demora injustificada, mesmo com observância da cláusula de tolerância, na entrega do imóvel, dá guarida ao pedido de rescisão contratual formulado pela parte Autora.
+Abusiva cláusula que estipula penalidade exclusivamente ao consumidor. In casu, admitida a inversão de cláusula contratual ao fornecedor, permanece a mesma ratio reconhecendo a abusividade. 4. Devem ser mantidos os honorários advocatícios arbitrados, se o magistrado, ao fixá-los, levou em consideração os critérios encartados no § 3º do artigo 20 do Código de Processo/73. 1º APELO CONHECIDO E DESPROVIDO. 2º APELO CONHECIDO E PARCIALMENTE PROVIDO.
+No especial (e-STJ fls. 455/474), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 113, 421 e 422 do CC/2002, sustentando, em síntese, ofensa ao contrato entabulado entre as partes. Afirmou a inexistência de previsão contratual de fixação de multa como penalidade pelo inadimplemento contratual e de juros moratórios e remuneratórios. Acrescentou a impossibilidade de devolução integral dos valores adimplidos pelos recorridos.
+Indicou ainda afronta aos arts. 186, 927 e 844 do CC/2002, aduzindo não ter ficado caracterizado dano moral e que o valor arbitrado seria excessivo.
+No agravo (e-STJ fls. 513/523), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelos recorridos (e-STJ fls. 530/534).
+É o relatório.
+Decido.
+A tese de que não haveria previsão contratual para os encargos impostos pelas instâncias de origem, em decorrência do inadimplemento contratual, não foi analisada pela Corte local. Incidente, portanto, as Súmulas n. 282 e 356 do STF por falta de prequestionamento.
+Além disso, a Corte local consignou que (e-STJ fl. 437):
+Em relação ao pedido da impossibilidade de restituição das quantias pagas, restou claramente demonstrado que o inadimplemento na entrega do imóvel, se deu por culpa exclusiva do 1º apelante/inpar, que não entregou o imóvel na data aprazada.
+Os documentos de fis. 305/306 certificam que foram entregues os blocos A, B, C, D, no entanto, o adquirido pelo 2º apelante é o bloco H, conforme documentos de f. 48, descabendo assim, retenção de percentual pago pelo comprador, devendo a restituição das parcelas ser integral.
+(..)
+Nesse caso, a multa é estabelecida pelo Código Civil, que determina, em seu artigo 409, que a cláusula penal estipulada, em conjunto com a obrigação, pode se referir à inexecução completa da obrigação, de alguma cláusula especial ou à mora, in verbis:
+(..)
+In casu, pactuada entre as partes a tolerância de 180 dias para a entrega da obra, deve tal prazo ser aplicado.
+Assim, sendo a data prevista para a entrega da obra em dezembro 2010, acrescidos de mais 180 dias, o termo final passa a ser 30 de maio de 2011, estando, portanto, a 1ºApelante em mora desde aquela data.
+(..)
+Diante do exposto, condeno o 1º apelante ao pagamento da multa compensatória pelo atraso na entrega das chaves no percentual de 2% (dois por cento), sobre o valor atualizado do contrato.
+Para acolher as razões recursais e afastar referidos encargos, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Além disso, a decisão recorrida está em consonância com a jurisprudência desta Corte, pacífica ao afirmar que, na hipótese de resolução de contrato de promessa de compra e venda de imóvel por culpa exclusiva do promitente vendedor, a devolução das parcelas deve ser realizada de forma imediata e em parcela única. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESFAZIMENTO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL POR CULPA DO PROMITENTE VENDEDOR. RESTITUIÇÃO PARCIAL DE VALORES. DESCABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. AGRAVO IMPROVIDO.
+1. Não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte.
+2. Consoante fixado pelas instâncias de origem, a extinção do contrato se deu por culpa da recorrente, promitente vendedora. Nesses termos, a devolução dos valores pagos não pode ocorrer de forma parcial. Precedentes.
+3. A alegação trazida no agravo regimental, de que não poderia ser determinada a restituição em dobro do valor pago pelo promitente comprador, constitui inovação recursal e, por isso, não pode ser conhecida.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp n. 838.810/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/5/2016, DJe 27/5/2016.)
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. DIREITO DO CONSUMIDOR. CONTRATO DE COMPRA DE IMÓVEL. DESFAZIMENTO. DEVOLUÇÃO DE PARTE DO VALOR PAGO. MOMENTO.
+1. Para efeitos do art. 543-C do CPC: em contratos submetidos ao Código de Defesa do Consumidor, é abusiva a cláusula contratual que determina a restituição dos valores devidos somente ao término da obra ou de forma parcelada, na hipótese de resolução de contrato de promessa de compra e venda de imóvel, por culpa de quaisquer contratantes. Em tais avenças, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+2. Recurso especial não provido.
+(REsp 1300418/SC, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/11/2013, DJe 10/12/2013.)
+Quanto ao atraso na entrega de imóvel objeto de compra e venda, a jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais. É necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - AÇÃO DE ANULAÇÃO DE NEGÓCIO JURÍDICO DE COMPRA E VENDA - VÍCIOS NA AVENÇA. INADIMPLEMENTO CONTRATUAL - DANO MORAL - NÃO CABIMENTO - DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. A jurisprudência consolidada nesta Corte Superior permeia-se no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, porquanto considerado como hipótese de dissabor do cotidiano, razão pela qual o entendimento perfilhado pela Corte de origem se coaduna com o posicionamento adotado por esta Casa. Incidência da Súmula 83/STJ. Precedentes. AgRg no REsp 1408540, REsp 1129881/RJ, REsp 876.527/RJ,. 2. Ainda assim, a Corte Estadual com base na análise acurada dos autos concluiu que o caso vertente afasta-se de hipótese extraordinária autorizadora à indenização por danos extramateriais, derruir o entendimento exarado implicaria no revolvimento das matéria fática e probatória da demanda, o que incide no óbice da Súmula 7/STJ, em ambas alíneas.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 362.136/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 3/3/2016, DJe 14/3/2016.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015.)
+Cabe ser analisado, portanto, se, no caso concreto, o descumprimento contratual ultrapassou o mero dissabor, devendo-se levar em conta, apenas, as premissas fáticas descritas no acórdão recorrido, para que não incida a vedação contida no enunciado n. 7 da Súmula do STJ.
+No caso, o TJGO condenou a recorrente ao pagamento de danos morais, fixados em R$ 10.000,00 (dez mil reais). Para tanto, adotou fundamentação sucinta, nos seguintes termos (e-STJ fl. 442):
+Assim, in casu, entendo que o dano acarretado ultrapassa o mero aborrecimento ou dissabor, capaz de alterar o aspecto psicológico emocional da vítima, ainda que lhe cause inoportunas sensações negativas, gerando, assim, o dever de indenizar.
+(..)
+Assim, considerando-se o caso concreto, tem-se justa a indenização do comprador, em razão dos danos morais sofridos, no montante de R$ 10.000,00 (dez mil reais).
+Portanto, extrai-se que a Corte local concluiu que o mero atraso na entrega do imóvel, por si só, causou dano moral. Com efeito, o Tribunal de origem deixou de apontar, concretamente, situação específica, desvinculada dos normais aborrecimentos da parte que não recebe o imóvel no prazo contratual, discorrendo sobre episódio consistente em mero descumprimento do contrato, incapaz de gerar dor e sofrimento indenizável.
+Além disso, percebe-se que os próprios recorridos se limitaram a alegar, na inicial, a existência genérica de danos morais pelo simples atraso na entrega do imóvel.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO PARCIAL ao recurso especial para afastar a condenação em danos morais.
+Configurada a sucumbência recíproca, as custas e o valor total dos honorários advocatícios definidos na origem deverão ser suportados na proporção de 10% (dez por cento) para os autores e 90% (noventa porcento ) para a ré. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
