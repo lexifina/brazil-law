@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 192/195, in verbis:
+Trata-se de Recurso Especial interposto por [NOME], com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Apelação Criminal n. 0053342-87.2013.8.26.057.
+Colhe-se dos autos que o recorrente foi condenado, por ter incorrido no crime previsto no art. 306 da Lei 9.503/97  condução de veículo automotor com a capacidade psicomotora alterada , às penas de 06 (seis) meses de detenção, em regime aberto, substituída por duas penas restritivas de direitos, bem como à pena de suspensão da habilitação para conduzir veículos pelo prazo de 06 (seis) meses (fl. 79).
+Irresignada, a defesa interpôs apelação, tendo a 8ª Câmara de Direito Criminal do e. Tribunal de Justiça do Estado de São Paulo, à unanimidade, dado parcial provimento ao recurso, para reduzir a 02 (dois) meses o prazo da suspensão da habilitação para dirigir veículos automotores, bem como para afastar a pena de prestação de serviços à comunidade, mantida, no mais, a r. sentença condenatória, por seus próprios e jurídicos fundamentos." (fl. 131).
+Daí a interposição do presente Recurso Especial, com fundamento no artigo 105, inciso III, alínea "a" do permissivo constitucional, em cujas razões se alega que a "Corte estadual violou de forma flagrante o disposto no artigo 89 da Lei 9.099/95, pois a despeito do preenchimento dos requisitos legais previstos no supracitado artigo pelo réu, não foi a ele ofertada a suspensão condicional do processo, benefício este que sujeita o acusado ao cumprimento de determinadas condições - sem reconhecimento de culpa - as quais, se cumpridas, ensejam a declaração de extinção de sua punibilidade" (fl. 148).
+Contrarrazões apresentadas às fls. 152/157.
+Admitido o recurso especial, com apoio no preenchimento dos requisitos de admissibilidade (fl. 181).
+É o relatório.
+O Parquet opinou pelo desprovimento do recurso especial.
+É o relatório. Decido.
+Consta dos autos que o Juízo de primeiro grau julgou prejudicada a audiência destinada ao oferecimento da suspensão condicional do processo, ao fundamento de que o réu respondia a outros processos criminais, não fazendo jus ao benefício (e-STJ fls. 53/54).
+Em apelação, o réu suscitou preliminar de nulidade, por ausência da proposta de suspensão do processo, ao argumento de que não respondia a outros processos.
+Contudo, o Tribunal de origem rejeitou a preliminar nos seguintes termos (e-STJ fl. 128):
+Prima facie, rejeito a preliminar de anulação do processo. É que a douta Defesa não se insurgiu contra a falta de proposta do sursis processual no momento da realização da audiência de instrução (termo de fls. 68 e mídia acostada à contracapa dos autos), como lhe competia, fazendo-o somente ao interpor recurso de apelação (fls. 89/91), quando já tinha se operado a preclusão da matéria.
+Com efeito, "Na linha de precedentes desta Corte, por se tratar de nulidade relativa, é alcançada pela preclusão a alegação formulada após a prolação de sentença condenatória, em que se aponta a falta de oferta de suspensão condicional do processo" (AgRg no REsp n. 1.534.449/PR, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 10/12/2015, DJe 16/12/2015).
+Nesse sentido:
+HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL E REVISÃO CRIMINAL. IMPROPRIEDADE DA VIA ELEITA. NULIDADE. AUSÊNCIA DE PROPOSTA DO SURSIS PROCESSUAL. PRECLUSÃO DO TEMA. DISCUSSÃO SURGIDA APÓS A SENTENÇA CONDENATÓRIA.
+1. É imperiosa a necessidade de racionalização do emprego do habeas corpus, em prestígio ao âmbito de cognição da garantia constitucional, e, em louvor à lógica do sistema recursal. In casu, foi impetrada indevidamente a ordem como substitutiva de recurso especial ou revisão criminal.
+2. A preclusão no processo é de crucial importância no que toca às nulidades relativas nas quais a parte deve demonstrar a ocorrência de real prejuízo.
+3. No caso, a impetração suscita a existência de nulidade em face da falta de oferecimento da proposta de suspensão condicional do processo, ex vi do art. 89 da Lei n.º 9.099/95. No entanto, é de se perceber que a sobrevinda da sentença penal condenatória, antes da qual o tema não foi tratado ou veiculado, sedimentou o procedimento e tornou inviável a alegação, porquanto operado o fenômeno preclusivo.
+4. Ordem não conhecida. (HC 208.051/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 11/03/2014, DJe 24/03/2014, grifei.)
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. AUSÊNCIA DE OFERECIMENTO DE PROPOSTA DE SUSPENSÃO CONDICIONAL DO PROCESSO. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. PRECLUSÃO. NULIDADE RELATIVA. RECURSO DESPROVIDO.
+1. Nos moldes do consignado no acórdão ora recorrido, a ausência de oferta da suspensão condicional do processo pelo querelante não foi impugnada durante o curso do processo-crime, não sendo razoável admitir que a sentença condenatória venha a ser anulada por tal fundamento, por se tratar de nulidade relativa, a qual deveria ter sido alegada pela defesa na primeira oportunidade em que se manifestou nos autos. Precedentes.
+2. Recurso desprovido. (RHC 92.258/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/02/2018, DJe 05/03/2018, grifei.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. SUSPENSÃO CONDICIONAL DO PROCESSO. ART. 89 DA LEI Nº 9.099/95. PRECLUSÃO. AGRAVO DESPROVIDO.
+I - O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula 7/STJ).
+II - Na linha de precedentes desta Corte, por se tratar de nulidade relativa, é alcançada pela preclusão a alegação formulada após a prolação de sentença condenatória, em que se aponta a falta de oferta de suspensão condicional do processo.
+Agravo Regimental desprovido. (AgRg nos EDcl no REsp 1.611.709/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/10/2016, DJe 26/10/2016, grifei.)
+Na hipótese, a decisão que julgou "prejudicada a audiência para proposta de suspensão condicional do processo" (e-STJ fl. 54) não foi impugnada no momento oportuno, operando-se a preclusão da matéria.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
