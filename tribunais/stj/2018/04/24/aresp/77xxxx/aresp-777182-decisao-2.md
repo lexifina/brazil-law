@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo de MARIA DE FREITAS PANICHI contra decisão que negou seguimento a recurso especial interposto impugnando acórdão assim ementado:
+Embargos infringentes. Seguros. Seguro de vida. Abusividade do aumento decorrente de alteração de faixa etária. Relativamente ao pedido de restituição dos valores pagos a maior, o prazo prescricional é trienal. Pretensão de ressarcimento. Inteligência do art. 206, § 3º, inc. IV do CC/2002. Embargos infringentes parcialmente acolhidos. Maioria.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a agravante, em suma, divergência jurisprudencial e negativa de vigência ao art. 205 do Código de Civil, aduzindo, em síntese, que é decenal o prazo prescricional da pretensão de alterar a cláusula que prevê o aumento do prêmio em razão da faixa etária.
+Apresentadas contrarrazões, pugnando pelo não provimento do recurso.
+O recurso não foi admitido na origem.
+Destaco que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo n. 2/2016 desta Corte.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento, passo a decidir.
+Depreende-se dos autos que a autora ajuizou ação declaratória e condenatória, sob a alegação de que aderiu ao seguro de vida em grupo mantido pela recorrente em 1995, mas que em 2003 houve alteração unilateral da apólice, que modificou os critérios de reajuste do prêmio, de forma abusiva. Afirmou que o ato é ilícito e pediu a manutenção do contrato original com a devolução dos valores pagos a maior. O Tribunal de origem, em sede de embargos infringentes, reconheceu a incidência do prazo trienal à pretensão.
+Ocorre que a jurisprudência do STJ firmou entendimento no sentido de que "a prescrição da pretensão ao ressarcimento de danos materiais e morais decorrentes da não renovação do contrato de seguro de vida em grupo é de um ano" (AgRg no REsp 1.389.234/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe 1.12.2015).
+Ainda nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO DE RESTITUIÇÃO DE INDÉBITO. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/73. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONTRATO DE SEGURO DE VIDA EM GRUPO. PRAZO DETERMINADO. NÃO RENOVAÇÃO DO CONTRATO ANTIGO. RESCISÃO UNILATERAL. PRÉVIA NOTIFICAÇÃO DO SEGURADO. LEGALIDADE. PRESCRIÇÃO ÂNUA. OCORRÊNCIA. SÚMULA Nº 83 DO STJ. REAJUSTE POR FAIXA ETÁRIA. FALTA DE PREQUESTIONAMENTO.
+INCIDÊNCIA DA SÚMULA Nº 211 DO STJ.
+(..)
+3. O segurado buscou a manutenção das condições originais da Apólice 40, extinta em março de 2002, e a indenização pelos prejuízos advindos do pagamento a maior dos prêmios, em virtude da adesão a outro contrato de seguro, no qual havia previsão de atualização segundo a mudança de faixa etária. O Tribunal de base, ao aplicar a prescrição anual, decidiu em consonância com a orientação deste Superior Tribunal de Justiça de que o prazo prescricional para a propositura de ação objetivando a revisão de cláusulas contratuais, a restituição de prêmios e a indenização por danos morais em virtude de conduta supostamente abusiva da seguradora que se recusou a renovar seguro de vida em grupo, oferecendo proposta de adesão a novo produto, é de 1 (um) ano, por aplicação do art. 206, § 1º, II, "b", do Código Civil (AgRg no REsp nº 1.355.348/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 4/6/2014). Assim, tendo sido a ação ajuizada apenas aos 5/11/2009 e a notificação para a alteração da apólice se efetivado aos 21/1/2002, o prazo prescricional já se havia exaurido.
+(..)
+6. Recurso especial não provido.
+(REsp 1.566.259/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 1.6.2017);
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA EM GRUPO. NÃO RENOVAÇÃO PELA SEGURADORA. OFERECIMENTO DE NOVO PRODUTO. PLEITO DE REVISÃO CONTRATUAL E DE INDENIZAÇÃO. OCORRÊNCIA DA PRESCRIÇÃO. PRAZO ÂNUO.
+1. Esta Corte Superior firmou o entendimento de que o prazo prescricional para a propositura de ação objetivando a restituição de prêmios e a indenização por danos morais em virtude de conduta supostamente abusiva da seguradora que se recusou a renovar seguro de vida em grupo, oferecendo proposta de adesão a novo produto, é de 1 (um) ano, por aplicação do art. 206, § 1º, II, "b", do Código Civil, incidindo à hipótese o enunciado da Súmula nº 101/STJ.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.355.348/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 4.6.2014).
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
