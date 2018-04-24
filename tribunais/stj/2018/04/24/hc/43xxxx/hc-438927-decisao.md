@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de TELLES BRADSHAW DO AMARANTE SARAIVA, no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 2 (dois) anos e 8 (oito) meses de reclusão, a ser cumprida inicialmente no regime aberto, bem assim ao pagamento de 6 (seis) dias-multa, pela prática do delito tipificado no art. 157, caput, c/c o art. 14, II, ambos do Código Penal, tendo em vista que, mediante grave ameaça, que impossibilitou a resistência da vítima V. DO N.S., subtraiu, para si, a quantia de R$ 25,00 (vinte e cinco reais) - e-STJ fls. 13/20.
+Interposta apelação pelas partes, os desembargadores da 10ª Câmara de Direito Criminal negaram provimento ao recurso defensivo e deram provimento à insurgência ministerial a fim de condenar o paciente como incurso nas sanções do art. 157, caput, do Código Penal, e fixar a reprimenda em 4 (quatro) anos de reclusão, em regime inicialmente semiaberto, bem assim ao pagamento de 10 (dez) dias multa (e-STJ fls. 21/27).
+Recebeu o acórdão esta ementa (e-STJ fl. 22):
+APELAÇÃO ROUBO CONSUMADO TENTADO RECURSOS MINISTERIAL E DEFENSIVO AUTORIA E MATERIALIDADE DEMONSTRADAS CONSUMAÇÃO CARACTERIZADA PELA INVERSÃO DA POSSE DO PRODUTO DA SUBTRAÇÃO EXASPERAÇÃO DAS PENAS EM RAZÃO DO RECONHECIMENTO DA CONSUMAÇÃO DO CRIME FIXAÇÃO DE REGIME PRISIONAL SEMIABERTO COMPATÍVEL COM AS CIRCUNSTÂNCIAS DA PRÁTICA ILÍCITA EM TELA RECURSO MINISTERIAL PROVIDO E DESPROVIMENTO DO APELO DEFENSIVO.
+No Superior Tribunal de Justiça, a Defensoria Pública aponta constrangimento ilegal decorrente da ausência de motivação idônea para a fixação do regime inicialmente semiaberto para cumprimento da reprimenda.
+Sustenta que o paciente é primário, sendo-lhe favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, no entanto, foi estabelecido o regime prisional intermediário sem a devida fundamentação, mas com base, somente, na gravidade abstrata do delito, o que vai de encontro ao disposto nas Súmulas n. 718 e 719 do STF, bem como na Súmula n. 440 do STJ.
+Dessa forma, requer, liminarmente e no mérito, o abrandamento do regime prisional para o aberto (e-STJ fls. 1/7).
+O pedido liminar foi indeferido (e-STJ fls. 31/33).
+Prestadas as informações (e-STJ fls. 38/39 e 42/52), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela denegação da ordem (e-STJ fls. 54/56).
+É, em síntese, o relatório.
+Objetiva a defesa, na presente impetração, a alteração do regime prisional para o aberto sob o argumento de ausência de motivação idônea para a fixação do regime mais gravoso.
+Na hipótese, o Tribunal de Justiça, ao dar provimento ao apelo ministerial, assim estabeleceu o regime inicial de cumprimento da sanção (e-STJ fl. 26):
+O pleito ministerial de fixação do regime prisional semiaberto para início do cumprimento da sanção corporal, comporta acolhimento, pois compatível com os contornos de gravidade diferenciada do caso em tela, em especial, a abordagem da vítima no interior de sua residência e a simulação do porte de arma de fogo para o exercício da grave ameaça, circunstâncias que revelam, por parte do agente, razoável envolvimento com a criminalidade, o que demanda resposta penal diferenciada (grifei).
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do CP). Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que permitir a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+No caso em tela, apesar do quantum de pena aplicado (4 anos de reclusão), entendo que deve ser mantido o regime semiaberto para cumprimento da reprimenda diante da gravidade concreta do delito, uma vez que, não obstante ter o paciente ameaçado a vítima com simulacro de arma de fogo, a abordou no interior de sua residência, o que permite a conclusão pela possibilidade de imposição de regime mais gravoso do que o cabível em razão do quantum de pena aplicado, em função do modus operandi da conduta.
+No mesmo sentido:
+REGIMENTAL. RECURSO ESPECIAL. ROUBO DUPLAMENTE MAJORADO. REGIME PRISIONAL MAIS GRAVOSO. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. POSSIBILIDADE. REFORMATIO IN PEJUS. INOCORRÊNCIA. RECURSO IMPROVIDO.
+1. A fixação de regime prisional inicial mais gravoso do que o permitido em razão da quantidade de pena aplicada exige fundamentação concreta acerca da gravidade da conduta praticada.
+2. Na espécie, o indicação do modus operandi do delito constitui elemento apto para se agravar o resgate da reprimenda corporal.
+ ..
+4. Agravo regimental desprovido (AgRg no REsp 1573084/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 08/02/2018, DJe 19/02/2018, grifei).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. REGIME INICIAL SEMIABERTO. ALTERAÇÃO. IMPOSSIBILIDADE. GRAVIDADE CONCRETA DA CONDUTA. VIOLÊNCIA FÍSICA CONTRA A VÍTIMA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que a menção a elementos indicativos da maior reprovabilidade da conduta perpetrada - ainda que não hajam sido utilizados para exasperar a pena-base - justifica a imposição de modo mais gravoso de cumprimento de pena, consoante disposto no art. 33, § 3º, do Código Penal.
+2. É válida a imposição de regime inicial semiaberto, ainda que a pena-base haja sido fixada no mínimo legal e a reprimenda definitiva seja de 4 anos de reclusão, em virtude da indicação de dados fáticos suficientes a demonstrar a gravidade concreta do crime  ..
+3. Agravo regimental não provido (AgRg no HC 407.959/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 07/11/2017, DJe 13/11/2017, grifei).
+HABEAS CORPUS SUBSTITUTIVO. NÃO CABIMENTO. ROUBO MAJORADO. PENA MÍNIMA. REGIME INICIAL FECHADO FUNDADO NA GRAVIDADE CONCRETA (MODUS OPERANDI) POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+ ..
+2. A Corte de origem fixou o regime inicial fechado, considerando a gravidade concreta da conduta, extraída do modus operandi utilizado para a prática do crime, o que não destoa da orientação jurisprudencial desta Corte Superior, no sentido de que é possível a fixação de regime mais gravoso desde que fundada na gravidade concreta da conduta praticada. Precedentes.
+3. Habeas corpus não conhecido (HC 363.553/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/08/2016, DJe 08/09/2016, grifei).
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
