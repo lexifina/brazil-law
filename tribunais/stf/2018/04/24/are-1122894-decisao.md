@@ -1,0 +1,35 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “TRIBUTÁRIO – IMUNIDADE – Entidade Assistencial – Preenchimento dos requisitos do art. 14 do CTN – Inexistência de comprovação de que o imóvel objeto de IPTU não será utilizado para a finalidade essencial da entidade – IPTU indevido – inexistência de relação jurídico-tributária – Apelo improvido.
+    PROCESSUAL CIVIL – Honorários advocatícios – A regra do art. 20, § 4º, do CPC, não impede que os honorários advocatícios sejam fixados sobre o valor da causa – Verba que não se considera irrisória, tampouco excessiva, atendendo à finalidade de mencionado disposição – Recurso a que se nega provimento.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceito inscrito na Constituição da República.
+    Cumpre ressaltar, desde logo, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código Tributário Nacional), o que torna incognoscível o apelo extremo.
+    Cabe registrar, de outro lado, que incide, na espécie, o enunciado constante da Súmula 279/STF, que assim dispõe:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido pelo ora recorrente, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do recurso extraordinário, em face do que se contém na Súmula 279/STF.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em interpretação de dispositivos meramente legais e em aspectos fático-probatórios:
+    “Destaque-se que o parágrafo 1º do art. 174 do CTN dispõe que o não cumprimento de um dos requisitos possibilita a autoridade competente a suspender a aplicação do benefício.
+    Não houve qualquer controvérsia acerca da natureza de entidade religiosa de cunho beneficente da autora, destinada à educação e assistência social.
+    …...................................................................................................
+    Ademais, a imunidade, diferentemente do que afirma a apelante, é sim entidade, não tendo qualquer caráter real, como pretendeu ver reconhecido.
+    Os demais argumentos da Municipalidade, acerca das movimentações financeiras da Autora, não encontram qualquer amparo nos autos e foram todos repelidos pelo perito contábil, cuja conclusão foi segura no sentido do preenchimento dos requisitos do artigo 14, do CTN, pela Requerente. Trata-se, pois, de meras conjecturas, dissociadas da prova dos autos.
+    E somente será caso de não se reconhecer a imunidade tributária se provado pelo ente tributante a ausência de alguns dos requisitos legais ou que o imóvel não são ou não estão sendo utilizados para os fins essenciais da Apelada.
+    …...................................................................................................
+    Portanto, inexistindo sequer um só elemento comprobatório da ausência dos requisitos legais e tampouco de que o imóvel não será destinado aos fins essenciais da Autora, não cabia mesmo à Municipalidade tributar quem goza de imunidade; não há relação jurídico-tributária que possa motivar o lançamento dos impostos questionados, sendo nulos os débitos decorrentes.”
+    Convém assinalar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 848.281-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.031.865/RS, Rel. Min. GILMAR MENDES – ARE 1.054.366/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. COMPROVAÇÃO DOS REQUISITOS DE IMUNIDADE TRIBUTÁRIA. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO STF.
+    1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas neste momento processual.
+    2. Agravo regimental desprovido.”
+    (AI 780.914-AgR/SP, Rel. Min. AYRES BRITTO)
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. IPTU. Imunidade. Entidade de assistência social sem fins lucrativos. Locação de imóvel. Súmula nº 724/STF. Comprovação dos requisitos para reconhecimento da imunidade. Controvérsia decidida à luz da legislação infraconstitucional e do conjunto fático-probatório. Súmula nº 279/STF. Ônus da prova.
+    1. O Tribunal de origem não divergiu da orientação da Corte no sentido de que a regra imunizante contida no art. 150, VI, ‘c’, da Constituição Federal afasta a incidência do IPTU sobre os imóveis de propriedade das instituições de assistência social sem fins lucrativos, mesmo que alugados a terceiros, desde que o valor dos aluguéis seja aplicado nas suas atividades essenciais (Súmula nº 724/STF).
+    2. O acórdão recorrido concluiu pelo enquadramento da instituição como entidade de assistência social sem fins lucrativos, a partir da análise dos requisitos previstos no art. 14 do Código Tributário Nacional. Para ultrapassar o entendimento consagrado pelo Tribunal a quo, necessário seria o reexame dos fatos e das provas e da legislação infraconstitucional de regência. Precedentes.
+    3. A presunção de que o imóvel ou as rendas da entidade assistencial reconhecidamente imune estão afetados às suas finalidades institucionais milita em favor da entidade. Cabe ao Fisco elidir a presunção, mediante a constituição de prova em contrário.
+    4. Agravo regimental não provido.”
+    (ARE 760.876-AgR/SE, Rel. Min. DIAS TOFFOLI)
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 24 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
