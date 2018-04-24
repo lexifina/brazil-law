@@ -1,0 +1,53 @@
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA. CONTINÊNCIA E CONEXÃO. NÃO APLICAÇÃO QUANDO IMPLICAR ALTERAÇÃO DE COMPETÊNCIA. PRECEDENTES. AVALIAÇÃO DOS CRITÉRIOS DE IDENTIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.O STJ entende pela impossibilidade de serem reunidas execução fiscal e ação anulatória de débito precedentemente ajuizada, quando o juízo em que tramita esta última não é Vara Especializada em Execução Fiscal, nos termos consignados nas normas de organização judiciária. Precedentes: CC 105.358/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 22/10/2010; CC 106.041/SP, Rel. Ministro Castro Meira, Primeira Seção, DJe 9/11/2009 e AgRg no REsp 1463148/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/9/2014.
+2. Para o acolhimento da tese de imprescindibilidade de reunião das ações por conexão ou prevenção, seria imprescindível promover o enfrentamento do acervo fático-probatório dos autos, providência inviável em sede de recurso especial ante o óbice da súmula 7/STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por Industria e Comércio Santa Thereza Ltda (fls. 279/286, e-STJ) contra decisão assim ementada:
+PROCESSO CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA. CONEXÃO. NÃO APLICAÇÃO QUANDO IMPLICAR ALTERAÇÃO DE COMPETÊNCIA. PRECEDENTES. SÚMULA 568/STJ. SÚMULA 83/STJ. RECURSO ESPECIAL AO QUAL SE NEGA PROVIMENTO.
+A agravante em suas razões reafirma a tese de violação aos artigos 104 e 105 do CPC/1973, ao sustentar que em razão da continência e conexão entre as demandas, a execução fiscal deveria ser reunida com a ação ordinária, pois ambas discutem judicialmente a mesma dívida perante o Estado.
+Contraminuta ao agravo interno à fl. 291 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA. CONTINÊNCIA E CONEXÃO. NÃO APLICAÇÃO QUANDO IMPLICAR ALTERAÇÃO DE COMPETÊNCIA. PRECEDENTES. AVALIAÇÃO DOS CRITÉRIOS DE IDENTIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.O STJ entende pela impossibilidade de serem reunidas execução fiscal e ação anulatória de débito precedentemente ajuizada, quando o juízo em que tramita esta última não é Vara Especializada em Execução Fiscal, nos termos consignados nas normas de organização judiciária. Precedentes: CC 105.358/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 22/10/2010; CC 106.041/SP, Rel. Ministro Castro Meira, Primeira Seção, DJe 9/11/2009 e AgRg no REsp 1463148/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/9/2014.
+2. Para o acolhimento da tese de imprescindibilidade de reunião das ações por conexão ou prevenção, seria imprescindível promover o enfrentamento do acervo fático-probatório dos autos, providência inviável em sede de recurso especial ante o óbice da súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, pretende a recorrente o reconhecimento de continência entre a execução fiscal ora tratada nos autos (processo n.º 0002294-83.2014.8.26.0309) e a ação anulatória, (processo nº 0049952-66.2012.8.26.0053, por ela ajuizada perante a 12ª Vara da Fazenda Pública da Capital), cuja as partes, causa de pedir e pedido são idênticas.
+Ao se compulsar a data de propositura das demandas, notar-se-á que a ação anulatória foi anteriormente proposta em relação à execução fiscal ajuizada pelo fisco estadual.
+Amparado neste fato sobredito, o STJ entende pela impossibilidade de serem reunidas execução fiscal e ação anulatória de débito precedentemente ajuizada, quando o juízo em que tramita esta última não é Vara Especializada em Execução Fiscal, nos termos consignados nas normas de organização judiciária.
+A propósito:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AÇÃO DE EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA DE DÉBITO FISCAL. IMPOSSIBILIDADE. REUNIÃO. VARA ESPECIALIZADA. COMPETÊNCIA ABSOLUTA. INTIMAÇÃO. CONTRIBUINTE PRESO NO MESMO DIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. FUNDAMENTAÇÃO CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF.
+1. Não se conhece da insurgência contra a ofensa dos arts. 102 e 111 do CPC, pois os referidos dispositivos legais não foram analisados pela instância de origem. Dessa forma, não se pode alegar que houve presquestionamento da questão, nem ao menos implicitamente.
+2. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+3. O Tribunal de origem, ao analisar a questão, fê-lo com base na interpretação do art. 5º, LIV e LV, da Constituição Federal, o que afasta a análise pelo STJ, sob pena de invadir a competência do STF, e não emitiu juízo de valor a respeito da lei federal tida por violada.
+4. Assim, incide a Súmula 126: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamento constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+5. O STJ entende pela impossibilidade de serem reunidas execução fiscal e ação anulatória de débito precedentemente ajuizada, quando o juízo em que tramita esta última não é Vara Especializada em Execução Fiscal, nos termos consignados nas normas de organização judiciária. Precedentes: CC 105.358/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 22/10/2010; CC 106.041/SP, Rel.
+Ministro Castro Meira, Primeira Seção, DJe 9/11/2009 e AgRg no REsp 1463148/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/9/2014.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1587337/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/05/2016, DJe 01/06/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA. CONEXÃO. NÃO APLICAÇÃO QUANDO IMPLICAR ALTERAÇÃO DE COMPETÊNCIA. AJUIZAMENTO DE AÇÃO DECLARATÓRIA PARA DISCUSSÃO DO DÉBITO. NECESSIDADE DE GARANTIA DO JUÍZO.
+1. Não merece prosperar a tese de violação do art. 535 do CPC, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. A reunião de ações, em razão de reconhecimento de conexão, não se mostra possível quando implicar alteração de competência absoluta.
+3. O ajuizamento prévio de ação declaratória visando revisar o título executivo só resulta na suspensão da execução quando devidamente garantido o juízo.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 869.916/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 14/06/2016, DJe 22/06/2016)
+Mesmo diante da jurisprudência deste sodalício, impende registrar que se perquirir a identidade processual para se aferir uma suposta continência entre as demandas, requer inegavelmente a análise da identidade da causa de pedir e dos pedidos postulados por ambas as ações, conquanto sabe-se que as partes são as mesmas.
+Neste sentido, não tendo o Tribunal de origem adentrado neste panorama, não cabe em sede de recurso especial aferir tais critérios, sob pena de se ofender o enunciado da Súmula 7/STJ.
+Ilustrativamente:
+AGRAVO REGIMENTAL NO AGRAVO (ART 544 DO CPC/73) - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA PARTE RÉ.
+1. Conforme entendimento do STJ, "A conexão é um instituto inspirado na preservação do prestígio do Poder Judiciário, por força da coerência e compatibilidade de suas decisões e atendimento aos postulados da economia processual, ao permitir que, num único processo e através de sentença una, possa o juiz prover sobre várias relações, ampliando o espectro da decisão para imiscuir no seu bojo uma pluralidade de conflitos, aumentando a efetividade da função pacificadora da justiça. A conexão ou a continência, por decorrência da identidade da causa de pedir ou pedido, torna conveniente o julgamento conjunto, não só por medida de economia processual, mas também para evitar a possibilidade de prolação de decisões contraditórias, que trariam desprestígio à Justiça. A jurisprudência do Superior Tribunal de Justiça reconhece certa e relativa margem de discricionariedade na avaliação do julgador, quanto à intensidade da conexão, mas devendo essa avaliação ser sempre orientada pela máxima de que as decisões não devem se contradizer." (AgInt no AREsp 479.470/SP, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/08/2017, DJe 27/09/2017). Incidência do óbice da súmula 83/STJ.
+2. Na hipótese, o Tribunal a quo asseverou existirem "diversas outras ações tratando da mesma matéria e tramitando nas diversas varas da comarca de Porto Velho, não havendo notícia de que em tais ações houve pedido ou determinação de reunião do mesmos e, portanto, seria inócua a análise conjunta da ação aqui discutida, uma vez que existem outras ações que serão julgadas por juízos diversos". Para o acolhimento da tese de imprescindibilidade de reunião das ações por conexão ou prevenção, seria imprescindível promover o enfrentamento do acervo fático-probatório dos autos, providência inviável em sede de recurso especial ante o óbice da súmula 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 462.985/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
