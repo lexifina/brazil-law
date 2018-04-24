@@ -1,0 +1,63 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE COTAS CONDOMINIAIS EM ATRASO. ARREMATAÇÃO DO IMÓVEL. PREÇO VIL. NÃO OCORRÊNCIA. PEDIDO DE REAVALIAÇÃO DO BEM PENHORADO. PRECLUSÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa aos arts. 458 e 535 do Código de Processo Civil de 1973 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. No caso, o Tribunal a quo concluiu que, se a avaliação do imóvel objeto da arrematação estava correta à época de sua realização e a devedora não postulou sua repetição, mesmo decorrido espaço de tempo entre aquele ato e o leilão (quase dois anos), não se pode considerar nula a praça, uma vez que não ocorrente a hipótese de preço vil.
+3. Nos termos da orientação jurisprudencial desta Corte Superior, "em qualquer das hipóteses previstas nos incisos do artigo 683 do Diploma Adjetivo Civil, o pedido de reavaliação do bem penhorado deverá se dar antes da sua adjudicação ou alienação. Tendo, in casu, o pleito sido requerido quando já ultimado o ato expropriatório (após a arrematação) não há como afastar a sua preclusão" (REsp 1.014.705/MS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 24/8/2010, DJe de 14/9/2010).
+4. Não compete ao Superior Tribunal de Justiça revisar as premissas fáticas que nortearam o convencimento das instâncias ordinárias quanto à descaracterização de preço vil, mesmo diante de suposta valorização do bem penhorado, especialmente no caso dos autos, em que a arrematação ocorreu por valor superior ao da avaliação.
+5. A divergência jurisprudencial não foi demonstrada, por ausência de similitude fática. Na situação concreta apreciada no acórdão paradigma, o lapso de tempo transcorrido entre a avaliação e a hasta pública ofereceu dúvida razoável quanto à configuração de preço vil, tendo em vista que o preço pago na arrematação correspondeu a quase 60% do valor da avaliação do bem constrito. Já na hipótese dos autos, a arrematação por valor superior ao da avaliação não ofereceu dúvidas quanto à não ocorrência de vileza do preço pelo qual foi arrematado o imóvel.
+6. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Trata-se de agravo interno interposto por [NOME] contra decisão que conheceu do agravo para negar provimento ao recurso especial da agravante, com os seguintes fundamentos: a) inviabilidade de análise de contrariedade a dispositivos constitucionais; b) ausência de ofensa aos arts. 458 e 535 do CPC/73; c) o pedido de reavaliação do bem penhorado deveria ocorrer antes da arrematação, sob pena de preclusão; d) impossibilidade de rever as premissas fáticas que nortearam o convencimento quanto à descaracterização de preço vil; e) a divergência jurisprudencial não foi demonstrada, por ausência de similitude fática.
+Em suas razões, a agravante insiste na deficiência da prestação jurisdicional, porquanto o Tribunal de origem não descreveu a circunstância fática para afastar a caracterização de preço vil.
+Sustenta a pertinência do paradigma colacionado para demonstrar a divergência jurisprudencial, a fim de fundamentar a tese de que a realização de praça, anos após a avaliação, redunda em avaliação velha, sendo que a nova avaliação é ato a ser determinado de ofício e que não se sujeita à preclusão.
+O agravado apresentou impugnação (e-STJ, fls. 1.084/1.087).
+É o relatório.
+VOTO
+Exmo. Sr. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator:
+Em que pesem as bem lançadas razões recursais, não merece êxito o inconformismo, devendo ser mantida a decisão agravada.
+A questão controvertida diz respeito à existência de preço vil na venda de imóvel localizado no Leblon, levado à praça em março de 2010, tendo como base o auto de avaliação no valor de R$ 1.000.000,00 (um milhão de reais), elaborado em junho de 2008, arrematado por R$ 1.145.000,00 (um milhão, cento e quarenta e cinco mil reais).
+Na hipótese, o Tribunal de origem exarou acórdão claro e suficientemente motivado, afastando a ocorrência de preço vil na arrematação por valor superior ao da avaliação, sob o fundamento de que a parte deveria ter pleiteado nova avaliação no momento oportuno, nos termos do art. 683 do CPC/73, sob pena de preclusão.
+A nulidade do acórdão recorrido, por deficiência na prestação jurisdicional, não se sustenta, porquanto os elementos necessários à integral solução da lide constam do julgado de forma clara e sem dúvida de compreensão.
+Segundo o Tribunal a quo, se a avaliação do imóvel objeto da arrematação estava correta à época de sua realização, mesmo tendo decorrido largo tempo entre aquele ato e o leilão, não se pode considerar nula a praça, já que a devedora não postulou ao juízo a repetição da avaliação.
+Assim decidindo, o acórdão objurgado não merece reparo.
+Esta Corte tem entendimento de que, "em qualquer das hipóteses previstas nos incisos do artigo 683 do Diploma Adjetivo Civil, o pedido de reavaliação do bem penhorado deverá se dar antes da sua adjudicação ou alienação. Tendo, in casu, o pleito sido requerido quando já ultimado o ato expropriatório (após a arrematação) não há como afastar a sua preclusão" (REsp 1.014.705/MS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 24/8/2010, DJe de 14/9/2010).
+Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À ARREMATAÇÃO. VIOLAÇÃO AO ART. 535, II, DO CPC. NÃO OCORRÊNCIA. REAVALIAÇÃO DO BEM PENHORADO. PRECLUSÃO. OFENSA AO ART. 3º DA LEI 4.121/62. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+(..)
+2. Nos termos da orientação jurisprudencial desta Corte Superior, "em qualquer das hipóteses previstas nos incisos do artigo 683 do Diploma Adjetivo Civil, o pedido de reavaliação do bem penhorado deverá se dar antes da sua adjudicação ou alienação. Tendo, in casu, o pleito sido requerido quando já ultimado o ato expropriatório (após a arrematação) não há como afastar a sua preclusão" (REsp 1.014.705/MS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 24/8/2010, DJe de 14/9/2010).
+3. "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (Súmula 284/STF).
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 606.014/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/04/2015, DJe de 15/05/2015)
+"TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À ARREMATAÇÃO. INEXISTÊNCIA DOS REQUISITOS PREVISTOS NO ART. 746 DO CPC. ALEGAÇÃO DE PREÇO VIL.
+MATÉRIA PRECLUSA. NULIDADE ANTE A AUSÊNCIA DE PUBLICAÇÃO DO EDITAL NOS TERMOS DO ART. 22 DA LEI N. 6.830/80. NECESSIDADE DE COMPROVAÇÃO DE PREJUÍZO. ATO QUE PRODUZIU OS EFEITOS DA PUBLICIDADE. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. AUSÊNCIA DE PAGAMENTO À VISTA NOS TERMOS DO ART. 690 DO CPC. INOVAÇÃO RECURSAL. SÚMULA 7/STJ.
+1. Segundo entendimento do Superior Tribunal de Justiça, em "qualquer das hipóteses previstas nos incisos do artigo 683 do Diploma Adjetivo Civil, o pedido de reavaliação do bem penhorado deverá se dar antes da sua adjudicação ou alienação. Tendo, in casu, o pleito sido requerido quando já ultimado o ato expropriatório (após a arrematação) não há como afastar a sua preclusão"(REsp 1.014.705/MS, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 24/8/2010, DJe 14/9/2010).
+(..)
+Agravo regimental improvido."
+(AgRg no REsp 1.282.195/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/2/2015, DJe de 19/2/2015)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À ARREMATAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. JULGAMENTO ANTECIPADO DA CAUSA. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PROVAS DOS AUTOS SUFICIENTES PARA O JULGAMENTO DA LIDE. IMPUGNAÇÃO AO LAUDO DE AVALIAÇÃO DO BEM PENHORADO. PRECLUSÃO. SUMULA 83/STJ. CARÊNCIA DA EXECUÇÃO POR INEXISTÊNCIA DE TÍTULO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 07/STJ. RELATIVIZAÇÃO DA ORDEM LEGAL DA PENHORA. POSSIBILIDADE, OBSERVADAS AS PECULIARIDADES DO CASO CONCRETO. REVISÃO. INVIABILIDADE. SÚMULA 07/STJ. RAZÕES QUE NÃO INFIRMAM AS CONCLUSÕES DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no REsp 1.209.401/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/11/2012, DJe de 18/12/2012)
+"RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMBARGOS À ARREMATAÇÃO. IMPUGNAÇÃO DO VALOR DA AVALIAÇÃO. IMPOSSIBILIDADE. PRECLUSÃO. PREÇO VIL. INOCORRÊNCIA. OPÇÃO PELO REFIS. HOMOLOGAÇÃO TÁCITA. SUSPENSÃO DO PROCESSO. HIPÓTESE NÃO VERIFICADA.
+(..)
+3. Os embargos à arrematação não permitem a impugnação do valor da avaliação do bem se o ora embargante foi anteriormente intimado dessa avaliação e deixou de se manifestar, precluindo a matéria.
+4. Recurso especial não-provido."
+(REsp 991.474/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 5/3/2009, DJe de 7/4/2009)
+"RECURSO ESPECIAL. EXECUÇÃO FISCAL. EMBARGOS À ARREMATAÇÃO. IMPUGNAÇÃO DO VALOR DA AVALIAÇÃO. IMPOSSIBILIDADE. PRECLUSÃO. PREÇO VIL. INOCORRÊNCIA. OPÇÃO PELO REFIS. HOMOLOGAÇÃO TÁCITA. SUSPENSÃO DO PROCESSO. HIPÓTESE NÃO VERIFICADA.
+Não impugnado o laudo de avaliação do bem penhorado no momento oportuno, não se deve trazer a discussão aos autos por ocasião dos embargos à arrematação, em razão da preclusão da matéria.
+(..)
+Recurso não conhecido."
+(REsp 465.482/RS, Rel. Ministro FRANCIULLI NETTO, SEGUNDA TURMA, julgado em 10/6/2003, DJ de 8/9/2003, p. 294)
+Ademais, não compete ao Superior Tribunal de Justiça revisar as premissas fáticas que nortearam o convencimento das instâncias ordinárias quanto à descaracterização de preço vil, mesmo diante de suposta valorização do bem penhorado, especialmente no caso dos autos, em que a arrematação ocorreu por valor superior ao da avaliação.
+A propósito, confira-se:
+"PROCESSUAL CIVIL. SUCESSÃO. EXECUÇÃO CONTRA ESPÓLIO. JUÍZO DO INVENTÁRIO. OPÇÃO DO CREDOR. NULIDADE DA ARREMATAÇÃO. PREÇO VIL. SÚMULA N. 7.
+1. A habilitação de crédito contra o espólio, no juízo do inventário, é mera faculdade concedida ao credor, que pode livremente optar por propor ação de cobrança e posterior execução.
+Inteligência do art. 1.017 do Código de Processo Civil.
+2. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, revisar as premissas fáticas que nortearam o convencimento das instâncias ordinárias quanto à inexistência de valorização de bem penhorado, para efeito da caracterização de preço vil.
+3. Recurso especial não-conhecido."
+(REsp 921.603/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 15/10/2009, DJe de 26/10/2009, g.n.)
+Em relação à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, esta eg. Corte de Justiça tem decidido, reiteradamente, que, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identificam ou assemelham os casos confrontados, a fim de demonstrar a similitude fática entre os acórdãos impugnado e paradigma, bem como a existência de soluções jurídicas díspares, nos termos dos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ. Contudo, na hipótese dos autos, não houve essa demonstração.
+A análise dos autos denota que as circunstâncias fáticas expostas no acórdão paradigma divergem do que foi exposto no aresto vergastado. É que a caracterização de preço vil tem como parâmetro o valor equivalente a 50% (cinquenta por cento) da avaliação do bem. No acórdão paradigma, o preço pago na arrematação correspondeu a quase 60% do valor da avaliação do bem constrito, circunstância que contribuiu para a conclusão de que, devido ao lapso de tempo transcorrido entre a avaliação e a hasta pública, poderia, na verdade, ter-se situado abaixo da metade do preço de mercado no momento do leilão. Como visto, aquela situação ofereceu dúvida razoável quanto à configuração de preço vil, o que não ocorreu na hipótese dos autos, em que a arrematação por valor superior ao da avaliação não ofereceu dúvidas quanto à não ocorrência de vileza do preço pelo qual foi arrematado o imóvel.
+Diante de tais pressupostos, nega-se provimento ao agravo interno.
+É como voto.
