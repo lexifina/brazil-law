@@ -1,0 +1,48 @@
+DECISÃO
+ Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO COMPRA E VENDA CITAÇÃO Validade Citação postal realizada no endereço da empresa ré. Aviso de recebimento AR recebido e firmado, sem ressalva quanto aos poderes de representação da pessoa jurídica. Aplicação da teoria da aparência. Jurisprudência pacífica do STJ e desta Corte.
+INTERESSE DE AGIR PRESENÇA Autor que comprova o descumprimento contratual pela ré, bem como as diversas tentativas, infrutíferas, de resolução da questão. Preliminares rejeitadas.
+APELAÇÃO CONTRATO DE COMPRA E VENDA Ausência de contestação Revelia bem decretada Presunção de veracidade dos fatos alegados na inicial Ausência, no caso, de direito indisponível Rediscussão da matéria fática Inadmissibilidade SENTENÇA MANTIDA RECURSO IMPROVIDO." (e-STJ, fl. 99)
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a parte agravante alega violação dos arts. 215, 245, 515, § 3º, do Código de Processo Civil de 1973, sustentando, em síntese, (a) que a citação por via postal ocorrida no endereço da parte agravante seria nula, pois foi recepcionada por pessoa desconhecida à empresa e nunca lhe foi entregue, (b) "em atenção ao princípio da celeridade e instrumentalidade processual, caso entenda pela desnecessidade de retorno dos autos, requer seja aplicado por analogia o artigo 515, § 3º, do Código de Processo Civil, passando-se à análise do mérito da lide, tendo em vista encontrar-se a causa madura para julgamento" (e-STJ, fl. 128).
+É o relatório. Decido.
+O Tribunal de origem entendeu aplicável a Teoria da Aparência, pois tratar-se-ia de hipótese em que pessoa jurídica foi intimada pessoalmente pela via postal no endereço constante na inicial, sendo a intimação recebida por pessoa que estava no local e que não fez ressalva à inexistência de poderes para o ato.
+A decisão ora recorrida, ao aplicar a Teoria de Aparência para hipótese em que pessoa física recebe intimação pessoal via postal no endereço de pessoa jurídica sem fazer ressalva de inexistência de poderes para tanto, está em consonância com o entendimento deste Superior Tribunal de Justiça . Nesse sentido:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. NULIDADE. CITAÇÃO. PESSOA JURÍDICA. RECEBIDA POR PESSOA QUE SE IDENTIFICA COMO REPRESENTANTE LEGAL. PRETENSÃO DE MODIFICAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 7 E 83/STJ.
+1. Este Superior Tribunal de Justiça tem entendimento consolidado no sentido da validade da citação de pessoa jurídica, quando recebida por pessoa que se identifica como sua representante legal, mas deixa de ressalvar que não possui poderes para tanto, prevalecendo, na espécie, a teoria da aparência.
+2. Rever o entendimento firmado no aresto recorrido, que admitiu a pessoa que recebeu a citação como representante legal da instituição financeira, requer, necessariamente, o revolvimento de matéria fática-probatória, circunstância vedada nesta sede especial, nos termos do enunciado sumular n. 7 desta Corte Superior de Justiça.
+3. Acórdão recorrido que se encontra em consonância com o entendimento consolidado nesta Corte, incidindo ao caso o óbice previsto na Súmula 83/STJ.
+4. AGRAVO REGIMENTAL DESPROVIDO."
+(AgRg no REsp n. 1.226.161/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 9/4/2013, DJe 15/4/2013.)
+"PROCESSUAL CIVIL E CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. CITAÇÃO VIA POSTAL DE PESSOA JURÍDICA. TEORIA DA APARÊNCIA. RAZÕES DESASSOCIADAS DO FUNDAMENTO ADOTADO NA DECISÃO AGRAVADA. SÚMULA 284/STF. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO MANIFESTAMENTE INFUNDADO. ART. 557, § 2º, DO CPC. MULTA. CABIMENTO.
+1. Em se tratando de citação de pessoa jurídica, o Superior Tribunal de Justiça adota a teoria da aparência, segundo a qual, consideram-se válidas as citações ou intimações feitas na pessoa de quem, sem nenhuma reserva, identifica-se como representante da empresa, mesmo sem ter poderes expressos de representação, e assina o documento de recebimento, sem ressalvas. Precedentes.
+3. No mérito, o arrazoado desenvolvido no regimental invoca dissídio com julgado cuja controvérsia debatida é diversa da analisada no presente caso. Razões desassociadas configuram argumentação deficiente a atrair a inteligência da Súmula 284/STF.
+4. No mais, o agravante não traz nenhum outro argumento novo capaz de modificar a decisão ora agravada que se mantém por seus próprios fundamentos 4. Agravo regimental não provido, com aplicação de multa."
+(AgRg no AREsp n. 284.545/RJ, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/3/2013, DJe 26/3/2013.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E EMPRESARIAL. ARTS. 267, IV, DO CPC. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. ALEGAÇÃO DE PREQUESTIONAMENTO IMPLÍCITO. NÃO OCORRÊNCIA. ALEGAÇÃO DE ILIQUIDEZ DO TÍTULO EXTRAJUDICIAL. REGULARIDADE DAS PLANILHAS DE DÉBITO. ALEGADA VIOLAÇÃO AO ART. 614 DO CPC. NECESSIDADE DE REEXAME DE PROVA. IMPOSSIBILIDADE. INTELIGÊNCIA DA SÚMULA 7/STJ. CITAÇÃO DA PESSOA JURÍDICA ENTREGUE A RECEPTOR DIVERSO DO REPRESENTANTE LEGAL, NO ESTABELECIMENTO. VALIDADE. TEORIA DA APARÊNCIA. PROVIMENTO NEGADO.
+1. É inviável o recurso especial quando ausente o prequestionamento, sequer implícito, do dispositivo da legislação federal apontado como violado.
+2. O Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, entendeu que a execução estaria aparelhada em título líquido, certo e exigível, aduzindo que foi carreado aos autos o demonstrativo do débito atualizado até a sua propositura.
+3. Há de ser reconhecida a validade da citação da pessoa jurídica por intermédio daquele que se apresenta na sede da empresa como seu representante legal e recebe a citação sem ressalva de que não possui poderes para tanto.
+4. Agravo regimental a que se nega provimento."
+(AgRg no AgRg no AREsp 356.174/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/11/2015, DJe 07/12/2015)
+Ademais, a alteração da conclusão da Corte de origem a respeito da aplicação da Teoria da Aparência demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Confira-se:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇO DE TRANSPORTE. CITAÇÃO. VALIDADE. TEORIA DA APARÊNCIA. PRESTAÇÃO DO SERVIÇO. COMPROVAÇÃO. ÔNUS DA PROVA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao art. 535 do Código de Processo Civil.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 616.726/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/11/2015, DJe 09/11/2015)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. NULIDADE CITAÇÃO NÃO RECONHECIDA. CONTESTAÇÃO INTEMPESTIVA. PROVA INEQUÍVOCA NÃO COMPROVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O acolhimento da pretensão recursal de que a citação teria ocorrido em nome de representante de empresa diversa da recorrente, demandaria a alteração das premissas fático-probatórias dos autos, com o revolvimento de provas, procedimento vedado nesta via recursal, ante o teor do enunciado sumular n. 7 deste Tribunal.
+2. O entendimento da Corte estadual está em harmonia com o posicionamento desta Corte, que adota a teoria da aparência, segundo a qual se considera válida a citação, bem como a intimação em geral na pessoa de quem se apresente perante o oficial de justiça sem manifestar qualquer ressalva quanto à inexistência de poderes para representá-la.
+3. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 537.988/GO, Relator Ministro LUIS FELIPE SALOMÃO,
+QUARTA TURMA, julgado em 09/12/2014, DJe 17/12/2014.)
+Quanto à alegada violação do art. 515, § 3º, do CPC/1973 - que admite o julgamento da causa madura pelo Tribunal de origem, com aplicação imediata do direito ao caso concreto -, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, tampouco foram objeto dos embargos declaratórios opostos para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF. A propósito:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
