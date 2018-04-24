@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. PARCELAMENTO DE EMPRESA OPTANTE PELO SIMPLES NACIONAL. MÉRITO NÃO ANALISADO PELO ACÓRDÃO RECORRIDO QUE APENAS ASSEGUROU O DIREITO À ANÁLISE DO PEDIDO FORMULADO ADMINISTRATIVAMENTE. AUSÊNCIA DE INTERESSE RECURSAL.
+1. Não há que se falar em reconhecimento desde logo à condição de optante pelo Simples ou de deferimento do parcelamento, mas tão somente de manutenção do direito à análise do pedido formulado. Dessa forma, não há interesse recursal da Fazenda Nacional no ponto, restando prejudicada a análise da alegada ofensa aos arts. 155-A, do CTN e 1º, 12, 13 e 16 da Lei Complementar nº 123/2006, uma vez que a Corte a quo não decidiu de forma definitiva a questão, a qual será analisada oportunamente na instância administrativa.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão (Presidente), Herman Benjamin e Og Fernandes votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Cuida-se de agravo interno manejado pela FAZENDA NACIONAL para submeter ao crivo do órgão colegiado decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA Nº 284 DO STF. PARCELAMENTO DE EMPRESA OPTANTE PELO SIMPLES NACIONAL. MÉRITO NÃO ANALISADO PELO ACÓRDÃO RECORRIDO QUE APENAS ASSEGUROU O DIREITO À ANÁLISE DO PEDIDO FORMULADO ADMINISTRATIVAMENTE. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante insurge-se contra a decisão agravada no ponto em que se afirmou não haver interesse recursal quanto à análise da matéria de fundo. No ponto, sustenta que a Corte a quo, ao possibilitar a análise do pedido administrativo fora do prazo teria violado expressamente o art. 16 da Lei Complementar nº 123/2006.
+Requer a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. PARCELAMENTO DE EMPRESA OPTANTE PELO SIMPLES NACIONAL. MÉRITO NÃO ANALISADO PELO ACÓRDÃO RECORRIDO QUE APENAS ASSEGUROU O DIREITO À ANÁLISE DO PEDIDO FORMULADO ADMINISTRATIVAMENTE. AUSÊNCIA DE INTERESSE RECURSAL.
+1. Não há que se falar em reconhecimento desde logo à condição de optante pelo Simples ou de deferimento do parcelamento, mas tão somente de manutenção do direito à análise do pedido formulado. Dessa forma, não há interesse recursal da Fazenda Nacional no ponto, restando prejudicada a análise da alegada ofensa aos arts. 155-A, do CTN e 1º, 12, 13 e 16 da Lei Complementar nº 123/2006, uma vez que a Corte a quo não decidiu de forma definitiva a questão, a qual será analisada oportunamente na instância administrativa.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO MAURO CAMPBELL MARQUES (Relator): Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante não trouxe nenhum argumento novo capaz de infirmar a decisão agravada, a qual merece ser mantida.
+Confira-se o teor da decisão agravada, in verbis:
+Cuida-se de recurso especial manejado pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região que, por unanimidade, possibilitou a análise do pedido de parcelamento tributário formulado em 10/2/2015 pela empresa recorrida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões recursais a recorrente alega, preliminarmente, ofensa ao art. 535 do CPC, uma vez que o acórdão recorrido, a despeito da oposição de embargos de declaração, teria deixado de analisar as questões ventiladas nos aclaratórios. No mérito alega ofensa aos arts. 155-A, do CTN e 1º, 12, 13 e 16 da Lei Complementar nº 123/2006 e sustenta, em síntese, que o parcelamento deve ser concedido na forma da lei e que a opção pelo Simples Nacional e seu tratamento diferenciado deve ser feita até o último dia útil do mês de janeiro, sendo irretratável para todo o ano-calendário. Aduz, outrossim, que não foi observada a Lei de Responsabilidade Fiscal e foi retirada, na hipótese, a previsibilidade de arrecadação de repasses pelo União que repassa dos valores dos tributos recolhidos no âmbito do Simples para os demais entes da Federal (Estados, Municípios e Distrito Federal).
+Requer o conhecimento e o provimento do recurso especial.
+Sem contrarrazões.
+Admitido o recurso especial na origem, subiram os autos a esta Corte e vieram-me conclusos.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Da análise da petição de recurso especial, verifica-se que a alegada afronta ao art. 535 do CPC foi realizada de forma genérica, sem a especificação das teses ou dos dispositivos legais sobre os quais o acórdão recorrido teria deixado de se manifestar. Dessa forma, não é possível conhecer da alegada ofensa, haja vista a deficiente fundamentação recursal no ponto. Incide no particular a Súmula nº 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, confira-se os seguintes precedentes:
+PROCESSUAL CIVIL. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. AFERIÇÃO DOS VALORES COBRADOS EM RAZÃO DA MÁ PRESTAÇÃO DE SERVIÇO PÚBLICO E DE MULTA POR INADIMPLEMENTO CONTRATUAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Não se pode conhecer da apontada violação ao artigo 535 do CPC, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros ou sobre os quais tenha ocorrido erro material. Incide, no caso, a Súmula n. 284 do Supremo Tribunal Federal, por analogia.
+2. A acolhida da pretensão recursal, no tocante à legalidade dos descontos em razão de gastos consequentes da má prestação de serviço, depende de prévio exame fático-probatório dos autos, o que não é possível em sede de recurso especial em face do óbice da Súmula nº 7/STJ.
+3. Agravo regimental não provido. (AgRg no AREsp 541.825/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 08/09/2014) (grifei)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ART. 2º DA LINDB. FALTA DE PREQUESTIONAMENTO. OFENSA AO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+(..)
+5. Agravo regimental a que se nega provimento. (AgRg no Ag 1.398.849/PB, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 27/08/2014) (grifei)
+Quanto ao mérito, melhor sorte não assiste à recorrente.
+É que não há interesse recursal no que tange ao mérito do pedido de parcelamento na hipótese, uma vez que o acórdão recorrido deixou claro que não assegurou o direito de fundo à empresa impetrante, mas tão somente o direito à análise do pedido formulado à Receita Federal. Confira-se (fls. 256):
+- O acórdão, adotando como razões de decidir os fundamentos da douta sentença, debruçou-se sobre a matéria pertinente ao pedido de possibilidade do parcelamento do SIMPLES NACIONAL, entendendo que "no caso em disceptação, à primeira vista, tenho que os dois pedidos de parcelamento formulados pela empresa autora, em 30/01/2015 (que não se concretizou) e 10/02/2015, respectivamente, dizem respeito ao mesmo parcelamento e não devem ser cumulados para aferição da limitação quanto ao número de parcelamentos possíveis em cada ano-calendário". Esse reconhecimento, não implica no direito ao parcelamento, mas tão somente à análise do pedido.
+Portanto, não há que se falar em reconhecimento desde logo à condição de optante pelo Simples ou de deferimento do parcelamento, mas tão somente de manutenção do direito à análise do pedido formulado.
+Dessa forma, não há interesse recursal da Fazenda Nacional no ponto, restando prejudicada a análise da alegada ofensa aos arts. 155-A, do CTN e 1º, 12, 13 e 16 da Lei Complementar nº 123/2006, uma vez que a Corte a quo não decidiu de forma definitiva a questão.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+Com efeito, não há interesse recursal no que tange ao mérito do pedido de parcelamento na hipótese, uma vez que o acórdão recorrido deixou claro que não assegurou o direito de fundo à empresa impetrante, mas tão somente o direito à análise do pedido formulado à Receita Federal. Confira-se (fls. 256):
+- O acórdão, adotando como razões de decidir os fundamentos da douta sentença, debruçou-se sobre a matéria pertinente ao pedido de possibilidade do parcelamento do SIMPLES NACIONAL, entendendo que "no caso em disceptação, à primeira vista, tenho que os dois pedidos de parcelamento formulados pela empresa autora, em 30/01/2015 (que não se concretizou) e 10/02/2015, respectivamente, dizem respeito ao mesmo parcelamento e não devem ser cumulados para aferição da limitação quanto ao número de parcelamentos possíveis em cada ano-calendário". Esse reconhecimento, não implica no direito ao parcelamento, mas tão somente à análise do pedido.
+Portanto, não há que se falar em reconhecimento desde logo à condição de optante pelo Simples ou de deferimento do parcelamento, mas tão somente de manutenção do direito à análise do pedido formulado.
+Dessa forma, não há interesse recursal da Fazenda Nacional no ponto, restando prejudicada a análise da alegada ofensa aos arts. 155-A, do CTN e 1º, 12, 13 e 16 da Lei Complementar nº 123/2006, uma vez que a Corte a quo não decidiu de forma definitiva a questão, a qual será analisada oportunamente na instância administrativa.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
