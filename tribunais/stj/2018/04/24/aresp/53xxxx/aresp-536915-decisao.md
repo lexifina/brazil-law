@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pela Fazenda Nacional, desafiando decisão denegatória de admissibilidade a recurso especial, este manejado com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 241):
+CONSTITUCIONAL. TRIBUTÁRIO. CERTIDÃO NEGATIVA DE DÉBITO. AUSENTES TRIBUTOS EM ABERTO.
+O artigo 205, do CTN, assegura acesso a certidão negativa, tendo por premissa a ausência de débito.
+Observo que as inscrições de nº 31.086.063-6, 30.956.080-2, 30.956.079-9 e 30.956.052-7 estão garantidas em executivo fiscal (fls. 11), Já a inscrição de número 30.956.078-0, que serviu como esteio para a denegação de segurança, tem como fundamento o processo administrativo de número 42991, como se verifica do topo de fls. 135. Confrontando tal documento com a certidão de fls. 54, verifica-se que tanto o número do processo administrativo quanto o da inscrição antes mencionados são objeto do processo de embargos de execução fiscal de nº 93.0511496-2, que também se encontra devidamente garantido por penhora.
+Insubsistência do óbice administrativo inicialmente firmado.
+Apelação provida.
+Opostos embargos de declaração, foram rejeitados (fls. 173/279).
+No recurso especial, a parte agravante aponta violação aos arts. 283, 333, I, 535, I e II, do CPC/73 e 205 e 206 do CTN. Sustenta, em resumo: (I) omissão no julgado proferido pelo Tribunal de origem; (II) "não basta a constrição de bens, mera indicação à penhora ou insuficiente depósito "garantidor" a ensejar a expedição de Certidão dos termos do artigo 206 do CTN." (fl. 291); e (III) as provas no mandado de segurança devem ser pré-constituídas e apresentadas junto com a petição inicial.
+Parecer do Ministério Público pelo não provimento do agravo (fls. 342/346).
+É o relatório.
+A irresignação não prospera.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+ De início, apesar de fazer menção aos verbete sumular nº 7/STJ (discorrendo, genericamente, sobre a aplicação da legislação tida como violada), a parte agravante não declinou os motivos pelos quais, no seu entender, os referidos óbices não seriam aplicáveis ao caso concreto, limitando-se a reeditar os mesmos argumentos apresentados no recurso inadmitido.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da súmula 182 desta Corte ("É inviável o agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. EXAME DE MÉRITO DO RECURSO ESPECIAL PELA CORTE DE ORIGEM. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Para viabilizar o prosseguimento do agravo, a irresignação recursal há de ser completa, especifica e objetiva. Não basta a impugnação genérica (Súmula 182/STJ).
+2. A jurisprudência desta Corte pacificou o entendimento segundo o qual a emissão de juízo sobre o mérito do recurso especial, pelo tribunal de origem, por ocasião do exame provisório de admissibilidade, não implica usurpação da competência do Superior Tribunal de Justiça.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 621.634/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 13/10/2015, DJe 26/10/2015)
+No que remanesce, verifica-se não ter ocorrido ofensa ao art. 535 do CPC/73 ou qualquer outra forma de negativa de prestação jurisdicional, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nos termos da orientação jurisprudencial deste Superior Tribunal, tendo a instância de origem se pronunciado de forma clara e precisa sobre as questões postas nos autos, assentando-se em fundamentos suficientes para embasar a decisão, como no caso concreto, não há falar em omissão no acórdão estadual, não se devendo confundir fundamentação sucinta com ausência de fundamentação (REsp 763.983/RJ, Rel. Min. NANCY ANDRIGHI, Terceira Turma, DJ 28/11/05).
+Dessarte, observa-se pela fundamentação do acórdão recorrido, integrada em embargos declaratórios, que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Afasta-se, assim, a alegada omissão ou negativa de prestação jurisdicional tão somente pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Frise-se que o Tribunal não fica obrigado a examinar todos os artigos de lei invocados no recurso, desde que decida a matéria questionada sob fundamento suficiente para sustentar a manifestação jurisdicional, dispensável a análise dos dispositivos que pareçam para a parte significativos, mas que para o julgador, se não irrelevantes, constituem questões superadas pelas razões de julgar.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO. SEGURO, VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULA Nº 211/STJ. AUSÊNCIA DE COBERTURA. SÚMULA Nº 7/STJ.
+1. Não viola o artigo 535 do Código de Processo Civil, nem importa negativa de prestação jurisdicional, o acórdão que adotou, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelos recorrentes, para decidir de modo integral a controvérsia posta.
+2. A tese recursal vinculada aos artigos do código consumerista, apontados como violados, não foi analisada pelo Tribunal local, sequer de modo implícito, atraindo ao caso, portanto, o óbice da Súmula nº 211/STJ.
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Ao contrário do ora sustentado, a pretensão recursal quanto ao reconhecimento da cobertura do seguro esbarra, invariavelmente, no óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+5. Agravo regimental não provido.
+(AgRg no REsp 1386843/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2014, DJe 24/02/2014)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
