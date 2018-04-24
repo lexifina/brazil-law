@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado (eDOC 2, p. 17):
+    “PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. INCIDENTE SUSCITADO POR PESSOA JURÍDICA CRIADA COM FUNDAMENTO NO ART. 60 DA LEI 11.101/05. JUÍZO DO TRABALHO E JUÍZO DA RECUPERAÇÃO JUDICIAL. DISCUSSÃO ACERCA DA COMPETÊNCIA PARA DECIDIR SOBRE A RESPONSABILIDADE PELO ADIMPLEMENTO DE OBRIGAÇÕES DAS EMPRESAS EM RECUPERAÇÃO DECORRENTES DA LEGISLAÇÃO DO TRABALHO. NÃO CONFIGURAÇÃO DO CONFLITO EM RAZÃO DE ESPECIAL PECULIARIDADE DO CASO CONCRETO: DÉBITOS TRABALHISTAS NÃO INCLUÍDOS NO PLANO DE RECUPERAÇÃO POR EXPRESSA DELIBERAÇÃO ASSEMBLEAR E ENCERRAMENTO DO PROCESSO RECUPERACIONAL POR SENTENÇA COM TRÂNSITO EM JULGADO. PRECEDENTE EM CASO ESPECÍFICO: CC 144.219/RJ, 2ª SEÇÃO, MIN. PAULO DE TARSO SANSEVERINO, JULGADO EM 14/06/2017. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO CONFLITO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.”
+    Foram opostos embargos de declaração, porém rejeitados (eDOC 4, p. 107)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa ao artigo 170, III, da Constituição da República.
+    Nas razões recursais, sustenta-se, em síntese, ter havido violação do princípio da função social da propriedade e da empresa (eDOC 4, p. 119).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 2, pp. 24):
+    “Nesse contexto, há que se referir que, conforme mencionado pela suscitante, a jurisprudência do Superior Tribunal de Justiça tem reconhecido a configuração de conflito nas hipóteses em que juízos distintos controvertem acerca da existência de sucessão dos ônus e obrigações, nos casos de alienação judicial de unidade produtiva (art. 60 da Lei 11.101/05), entre a sociedade em recuperação e a arrematante, afirmando, nesses casos, a competência do juízo recuperacional, notadamente porque, além de o desenvolvimento de atividade jurisdicional simultânea pelos juízos envolvidos ocasionar evidente prejuízo às partes, considerou-se o juízo que homologou a referida alienação o mais habilitado a verificar a extensão e higidez da medida adotada.
+    (...)
+    Irrelevante a circunstância de que a pessoa jurídica, incluída no polo passivo da execução trabalhista, tenha sido criada nos moldes do art. 60 da Lei 11.101/05, na medida em que a questão relacionada à formação do grupo econômico (CLT, art. 2º, §2º) é matéria a ser discutida no âmbito da própria Justiça Especializada pelas vias recursais próprias.
+    A propósito, entre outros, o seguinte precedente da Segunda Seção do STJ: AgRg no CC 140.410/DF, Rel. Ministra MARIA ISABEL GALLOTTI, DJe de 01/10/2015.
+    Ainda que se pudesse superar tal orientação do STJ, penso que as peculiaridades do caso também não possibilitariam o conhecimento do conflito.
+    Ocorre que, consoante constou da própria ata da assembleia de credores realizada em 09/09/2009, bem assim das informações recebidas em diversos conflitos anteriormente apresentados pela suscitante, prestadas pelo juízo recuperacional e pelo administrador judicial, os créditos detidos pelos credores trabalhistas (Classe I) não foram incluídos no plano de recuperação judicial apresentado, ou seja, não foram objeto da novação prevista no art. 59 da Lei 11.101/05, o que, à toda evidência, também inviabiliza o conhecimento do conflito.
+    Ora, se os credores trabalhistas não foram submetidos ao plano de recuperação, não há que se cogitar da competência do Juízo da 5ª Vara Empresarial da Comarca do Rio de Janeiro/RJ para deliberar sobre tais obrigações, especialmente se o juízo laboral, como no caso, não ordenou quaisquer atos de contrição sobre o patrimônio das empresas em recuperação.
+    (…)
+    Por fim, observa-se ainda que, segundo as informações trazidas aos autos, a recuperação judicial já foi encerrada, com a declaração de cumprimento das obrigações assumidas, por sentença com trânsito em julgado 2013, o que também impossibilita o conhecimento do incidente.”
+    Dessa forma, constato que eventual divergência em relação ao entendimento adotado pelo juízo a quo, tal como posta na lide, demandaria a análise da legislação infraconstitucional (CLT e Lei 11.101/05), bem como exigiria o reexame do conjunto fático-probatório dos autos (encerramento ou não da recuperação judicial), o que inviabiliza o processamento do apelo extremo por ausência de questão constitucional e porque a ofensa constitucional, se existente, seria meramente reflexa. Incidente, portanto, o óbice da Súmula 279 do STF.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, “a”, do CPC.
+    Publique-se.
+    Brasília, 24 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
