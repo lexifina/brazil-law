@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA SENTENÇA APELADA. OFENSA AO PRINCÍPIO DA DIALETICIDADE AFASTADA. PROVIMENTO DO RECURSO ESPECIAL DA AUTORA.
+1. Na linha da orientação jurisprudencial deste Superior Tribunal, a repetição dos argumentos deduzidos na inicial não impede, por si só, o conhecimento do recurso de apelação, notadamente quando suas razões estão condizentes com a causa de pedir e deixam claro o interesse pela reforma da sentença. (AgRg no Ag 990.643/RS, Terceira Turma, Rel. Min. NANCY ANDRIGHI DJ de 23/5/2008).
+2. Manutenção da decisão que conheceu do agravo para dar provimento ao recurso especial, determinando o retorno dos autos à origem a fim de que se prossiga no julgamento da apelação interposta como entender de direito.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO SÉRGIO KUKINA: A hipótese é de agravo interno interposto contra decisão que conheceu do agravo para dar provimento ao recurso especial interposto por [NOME], afastando a ofensa ao princípio da dialeticidade e determinando o retorno dos autos à origem a fim de que se prossiga no julgamento da apelação interposta como entender de direito (fls. 276/279).
+Inconformado, o Estado de Pernambuco afirma que não incorreu em erro o v. acórdão recorrido ao negar seguimento à apelação interposta pelo ora agravado. Assevera que observando-se a petição do recurso de apelação, verifica-se que se trata de repetição ipsis litteris da peça exordial, não cuidando o então recorrente, ora agravado, de impugnar os fundamentos da sentença recorrida. Como se observa, há até pedido de citação dos réus na petição do recurso de apelação, o que denota a simples transcrição da petição inicial.
+Defende, assim, a ofensa ao princípio da dialeticidade, uma vez que não combatidos os fundamentos utilizados pelo Juízo Sentenciante.
+Requer a reconsideração do decisum.
+É o relatório.
+VOTO
+O SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Consoante anteriormente mencionado, compulsando os autos, pode-se constatar que a sentença de fls. 97/99, fundamentada na previsão contida na Lei Estadual nº 12.344/2003, afastou a pretensão autoral de participação do Curso de Formação de Cabos/2008, porquanto a Lei Estadual nº 12.344/2003, que estabelece os requisitos para que um militar possa requerer inclusão no Quadro de Acesso visando ser promovido, impede aquele candidato que estiver submetido a conselho de disciplina ou processo de licenciamento, enquanto não houver decisão favorável, no âmbito administrativo (artigo. 26, inciso IV).
+Nas razões da apelação, observa-se o requerimento do autor da aplicação do Princípio da Inocência, sob a alegação de que a precariedade do conjunto probatório deve levar à absolvição do acusado, insistindo no direito à promoção à graduação perseguida.
+ Na linha da orientação jurisprudencial deste Superior Tribunal, a mera reiteração na apelação das razões apresentadas na contestação, por si só, não é motivo suficiente para o não conhecimento do recurso, quando estejam devidamente expostos os motivos de fato e de direito que evidenciem a intenção de reforma da decisão recorrida, tal como ocorreu na hipótese dos presentes autos.
+Confiram-se:
+PROCESSO CIVIL. RECURSO ESPECIAL. APELAÇÃO. ART. 514 DO CPC. REQUISITOS. REPETIÇÃO DOS ARGUMENTOS DEDUZIDOS NA INICIAL. POSSIBILIDADE.
+1. A repetição dos argumentos deduzidos na inicial não impede, por si só, o conhecimento do recurso de apelação, notadamente quando suas razões estão condizentes com a causa de pedir e deixam claro o interesse pela reforma da sentença. (c.f.: AgRg no Ag 990.643/RS, Terceira Turma, Rel. Min. NANCY ANDRIGHI DJ de 23/5/2008).
+2. Agravo regimental não provido.
+(AgRg no AREsp 341.906/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/11/2013, DJe 18/11/2013).
+AGRAVO REGIMENTAL - IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA - AGRAVO DE INSTRUMENTO NÃO CONHECIDO NA ORIGEM ANTE A NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. IRRESIGNAÇÃO DO EXECUTADO.
+1. O princípio da dialeticidade recursal deve ser compreendido como o ônus atribuído ao recorrente de evidenciar os motivos de fato e de direito para a reforma da decisão recorrida, segundo interpretação conferida ao art. 514, II, do CPC. Esta Corte possui entendimento assente no sentido de que não obstante a legislação processual exija que a apelação contenha "os fundamentos de fato e de direito", a parte não fica impedida de reiterar os fundamentos expendidos na inicial ou em outras peças processuais se estas forem suficientes para demonstrar os motivos da irresignação do insurgente, bem como do possível desacerto da decisão que se pretende desconstituir/modificar. Precedentes. Na hipótese, as razões do agravo de instrumento apresentado na origem são se mostram aptas a demonstrar e adequadamente infirmar os termos da decisão interlocutória, que teceu a minúcias e explicitou extensivamente os motivos pelos quais estaria acolhendo parcialmente a impugnação ao cumprimento de sentença, apenas para excluir do cálculo a multa de 10% fixada com base no art. 475-J. Em atenção ao princípio da dialeticidade, não basta ao agravante o desenvolvimento de arrazoado genérico em sentido contrário à decisão que pretende ver reformada, sendo imprescindível formular alegações e explicitar fundamentação que possa influir na análise da controvérsia. Precedentes.
+2.  ..
+3. Agravo regimental não provido.
+(AgRg no AgRg no REsp 1.309.851/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 5/9/2013, DJe 19/9/2013).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. GRATIFICAÇÕES DE ATIVIDADE POLICIAL MILITAR E DE HABILITAÇÃO POLICIAL MILITAR. PEDIDO DE CUMULAÇÃO. RECURSO DE APELAÇÃO. REPETIÇÃO DOS ARGUMENTOS DEDUZIDOS NA CONTESTAÇÃO. DEMONSTRAÇÃO DE INTERESSE DE REFORMA DA SENTENÇA. CUMPRIDOS OS REQUISITOS DE ADMISSIBILIDADE ELENCADOS NO ART. 514 DO CPC. MITIGAÇÃO DO RIGOR FORMAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A mera repetição dos argumentos declinados na peça contestatória não é motivo bastante para inviabilizar o apelo, desde que nítido o desejo de reforma ou anulação da sentença atacada, como ocorreu na espécie. Precedentes (REsp. 1.245.769/MG, Rel. Min. CASTRO MEIRA, DJe 22.11.2011).
+2. Agravo Regimental desprovido.
+(AgRg no AREsp 231.411/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/8/2013, DJe 5/9/2013).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DEFEITOS DO NEGÓCIO JURÍDICO. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. SÚMULAS 282 E 356/STF. APELAÇÃO. ART. 514 DO CPC. FUNDAMENTAÇÃO DA APELAÇÃO. REPRODUÇÃO DOS ARGUMENTOS CONTIDOS NA INICIAL. POSSIBILIDADE. RESCISÃO CONTRATUAL. REEXAME DE CLÁUSULAS E DE PROVA. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no Ag 1.132.227/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/8/2013, DJe 19/9/2013).
+PROCESSUAL CIVIL - TESE DE OMISSÃO - IMPROCEDÊNCIA - RECURSO DE APELAÇÃO - TRECHOS REPRODUZIDOS DA PETIÇÃO INICIAL - CIRCUNSTÂNCIA QUE, POR SI SÓ, NÃO INVIABILIZA O APELO.
+1. Não há falar em ofensa ao art. 535 do Código de Processo Civil quando os embargos de declaração evidenciam pretensão pelo reexame de mérito da causa.
+2. A mera repetição de trechos da petição inicial ou da contestação no recurso de apelação não é capaz de configurar, por si só, deficiência que inviabilize o conhecimento da insurgência.
+3. Recurso especial provido.
+(REsp 1.280.083/MG, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/8/2013, DJe 22/8/2013).
+Nesse contexto, deve ser mantida a decisão que conheceu do agravo para dar provimento ao recurso especial, determinando o retorno dos autos à origem a fim de que se prossiga no julgamento da apelação interposta como entender de direito.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
