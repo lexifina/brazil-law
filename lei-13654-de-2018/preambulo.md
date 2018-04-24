@@ -1,0 +1,2 @@
+Altera o Decreto-Lei nº 2.848, de 7 dezembro de 1940 (Código Penal), para dispor sobre os crimes de furto qualificado e de roubo quando envolvam explosivos e do crime de roubo praticado com emprego de arma de fogo ou do qual resulte lesão corporal grave; e altera a Lei nº 7.102, de 20 de junho de 1983, para obrigar instituições que disponibilizem caixas eletrônicos a instalar equipamentos que inutilizem cédulas de moeda corrente.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
