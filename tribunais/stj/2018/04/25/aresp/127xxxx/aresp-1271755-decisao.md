@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DANO MORAL. PESSOA JURÍDICA. SÚMULA 227/STJ. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. APLICAÇÃO DE REGRAS E PRESUNÇÃO DE EXPERIÊNCIA. POSSIBILIDADE. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Julio Cesar Franca Bueno Comércio de Móveis Eireli - ME ajuizou ação de conhecimento em desfavor de Serasa S.A. postulando a declaração de inexistência de débito e a condenação do réu ao pagamento de indenização por danos morais decorrentes da inscrição indevida do seu nome em cadastro de inadimplentes.
+O Magistrado de primeiro grau julgou procedentes os pedidos para determinar a exclusão do nome da autora dos cadastros de inadimplentes, declarando a inexistência do débito, bem como para condenar o requerido ao pagamento de indenização por danos morais no valor de R$ 8.000,00 (oito mil reais).
+Interposta apelação pelo réu, a Décima Sétima Câmara Cível do Tribunal de Justiça do Paraná deu parcial provimento à apelação para afastar a condenação à indenização por danos morais, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - SENTENÇA QUE JULGOU PROCEDENTES OS PEDIDOS INICIAIS - (I). INSCRIÇÃO DO NOME DA AUTORA NOS CADASTROS DE RESTRIÇÃO AO CRÉDITO - MEDIDA DESCABIDA - AUSÊNCIA DE DEMONSTRAÇÃO DE EFETIVA CONTRATAÇÃO DOS SERVIÇOS COBRADOS - RELAÇÃO JURÍDICA INEXISTENTE - INADIMPLEMENTO NÃO CONFIGURADO - INSCRIÇÃO REALIZADA - POR CULPA EXCLUSIVA DA RÉ - (II). CONDENAÇÃO EM DANOS MORAIS - PESSOA JURÍDICA - AUSÊNCIA DE PROVA INEQUÍVOCA DO PREJUÍZO SOFRIDO - NÃO DEMONSTRAÇÃO DE DEPRECIAÇÃO DA IMAGEM E DO BOM NOME DA AUTORA PERANTE TERCEIROS - OFENSA À HONRA OBJETIVA NÃO CARACTERIZADA - INDENIZAÇÃO POR DANOS MORAIS INDEVIDA - PRECEDENTES DESTA CORTE DE JUSTIÇA - SENTENÇA REFORMADA NESTE PONTO - APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.
+Opostos embargos de declaração, foram acolhidos, sem efeitos infringentes, apenas para fixar a verba honorária em R$ 1.000,00 (mil reais).
+Inconformada, a autora interpôs recurso especial fundamentado nas alíneas a e c do permissivo constitucional, apontando, além de dissídio jurisprudencial, violação aos arts. 186 e 927 do CC e 927, IV, do CPC/2015. Sustentou, em síntese, a necessidade de se reconhecer o dano moral indenizável, haja vista que a sua honra objetiva foi efetivamente violada.
+Contrarrazões às fls. 670-678 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidirem as Súmulas n. 7 e 83 do STJ.
+Irresignada, a recorrente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Sem contraminuta.
+Brevemente relatado, decido.
+Quanto aos danos morais da pessoa jurídica, consabido, o Enunciado n. 227 da Súmula de jurisprudência desta Corte cristaliza o entendimento de que a pessoa jurídica pode sofrer danos morais, porém desde que fique comprovada a efetiva ofensa à sua honra objetiva.
+A Corte estadual consignou que, no caso em testilha, não houve nenhum ato ofensivo à imagem da insurgente, pois não foi colacionado aos autos nenhum documento que demonstre que inscrição prejudicou a relação da apelada com seus fornecedores, capaz de macular e afetar o seu bom nome, conforme se verifica do seguinte trecho extraído do aresto combatido:
+Portanto, a condenação em danos morais está atrelada à demonstração de prejuízos à honra objetiva da pessoa jurídica, ou seja, é ônus de quem postula demonstrar os gravames perpetrados a sua imagem.
+Na espécie, a lesão à honra objetiva da apelada não restou devidamente comprovada, eis que não consta nos autos nenhum documento que demonstre que a inscrição indevida afetou a relação da apelada junto aos seus fornecedores, maculando e afetando seu bom nome.
+Em outras palavras, não há nos autos nenhuma prova de ofensa à imagem social ou qualquer prejuízo que reflita na reputação e credibilidade da empresa apelada em razão da medida tomada pela apelante, de modo que não configurado o dever de indenizar.
+Contudo, importante assinalar que o dano moral da pessoa jurídica não é idêntico àquele suportado por uma pessoa natural, pois não envolvem direitos extrapatrimoniais de natureza biopsíquica e tampouco envolve a dignidade da pessoa humana, protegendo-se, na verdade, a honra objetiva da pessoa jurídica, sendo os danos causados em violação ao bom nome, à fama, à reputação.
+Em razão disso, não há como aceitar que o dano moral de pessoa jurídica ocorra in re ipsa, sem a apresentação de qualquer tipo de prova. Entretanto, disso não decorre a impossibilidade da utilização de presunções ou regras de experiência no julgamento de pedidos de indenização por danos morais sofridos por pessoa jurídica, tais como naquelas em que há o protesto indevido de títulos ou a injusta inscrição do seu nome em cadastro de inadimplentes.
+A propósito:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. PROTESTO INDEVIDO. PAGAMENTO EM ATRASO. DANOS MORAIS. PESSOA JURÍDICA.
+1. Ação ajuizada em 14/01/2011. Recurso especial interposto em 11/02/2015 e atribuído a este gabinete em 25/08/2016.
+2. Para a pessoa jurídica, o dano moral não se configura in re ipsa, por se tratar de fenômeno muito distinto daquele relacionado à pessoa natural. É, contudo, possível a utilização de presunções e regras de experiência no julgamento.
+3. Afigura-se a ilegalidade no protesto de título cambial, mesmo quando pagamento ocorre em atraso.
+4. Nas hipóteses de protesto indevido de cambial ou outros documentos de dívida, há forte presunção de configuração de danos morais. Precedentes.
+5. Recurso especial provido. (REsp 1564955/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 06/02/2018, DJe 15/02/2018)
+Desse modo, levando-se em consideração que a Corte estadual se afastou do entendimento acima, torna-se imperiosa a reforma do acórdão recorrido para reconhecimento do dano moral, sendo que, em observância aos princípios da proporcionalidade e da razoabilidade, o valor estabelecido na sentença de primeiro grau (R$ 8.000,00 - oito mil reais) atende às peculiaridades do caso.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de restabelecer a sentença de primeiro grau, inclusive no que tange aos ônus sucumbenciais.
+Publique-se.
