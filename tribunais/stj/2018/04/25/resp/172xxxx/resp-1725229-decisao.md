@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 210):
+AÇÃO ACIDENTÁRIA. AUXÍLIO-DOENÇA. AUXÍLIO-ACIDENTE. APOSENTADORIA POR INVALIDEZ.
+1. Constatada a incapacidade para a atividade então exercida e apelação de causalidade com a patologia apresentada, é devido o auxílio-doença acidentário até a reabilitação profissional.
+2. Somente após o período de reabilitação poder-se-á aferir sobre a permanência ou não da incapacidade e o seu grau, o que inviabiliza, por enquanto, cogitar de auxílio-acidente ou aposentadoria por invalidez.
+Opostos embargos de declaração, foram rejeitados (fl. 268).
+Aponta a recorrente violação aos arts. 62 e 86 da Lei 8.213/91, na medida em que o Tribunal de origem, "embora tenha reconhecido a necessidade de encaminhamento da obreira ao serviço de reabilitação profissional, entendeu por não lhe conceder o benefício auxílio-acidente" (fl. 278).
+Aduz que "A reabilitação profissional, concedida à Autora, deverá ocorrer quando o trabalhador for insusceptível de recuperação para sua função habitual. Do reconhecimento de tal fato, é decorrência lógica a redução da capacidade laborativa, atraindo-se a aplicação do art. 86 da Lei nº 8.213/91, para a concessão do auxilio acidente" (fl. 278).
+Afirma que " somente há necessidade de reabilitar os segurados incapazes permanentemente para exercer sua função de origem. Observa-se que quando constatada incapacidade temporária, não há falar em reabilitação, visto que o segurado, após a sua recuperação, estará apto a exercer as suas funções de origem" (fl. 278).
+Sem contrarrazões.
+É o relatório.
+De início, é importante ressaltar que o juiz não está adstrito às conclusões da perícia técnica, podendo se pautar em outros elementos de prova aptos à formação de seu livre convencimento, estando autorizado a concluir pela incapacidade laborativa fundado no conjunto probatório produzido nos autos e nas particularidades do caso concreto.
+Contudo, no caso concreto, o Tribunal a quo, ao examinar a questão posta, concluiu que a parte autora não cumpriu os requisitos legalmente exigidos à concessão do benefício debatido (fls. 213/214):
+As razões do apelo, coincidentes com as da inicial, carecem de força para modificar a sentença, que adoto como motivação, a vênia devida ao MM. Juiz Vitor Feltrim Barbosa (153-155):
+"Para fins de concessão de benefício acidentário, necessária a presença de nexo causai entre a lesão/doença e a atividade laboral, a teor dos arts. 19, 20 e 21 da Lei nº 8213/91.
+Há prova do nexo causal entre o fato e o trabalho do autor, pois não obstante a ausência de emissão de CAT- Comunicação de Acidente do Trabalho pelo empregador, certo de que aquela expedida pelo sindicato (fls. 25/26) constitui mera declaração unilateral de vontade, inapta a produzir efeitos perante terceiros, o réu não o impugna e até mesmo já o havia reconhecido anteriormente na via administrativa ao conceder auxílio-doença acidentário de 09/08/12 a 15/01/13 (fl. 144).
+Some-se a tanto que a perícia judicial (fls. 109/119) reconhece a relação de causalidade ao atestar ser o autor portador de transtorno de adaptação, episódio depressivo grave com sintomas psicóticos, concluindo que o exercício da atividade de bancário contribuiu para o agravamento do quadro clínico do segurado.
+Com efeito, não há dúvida da presença do nexo causal.
+O perito oficial revelou categoricamente que há incapacidade total e temporária para a atividade de bancário, apresentando quadro psiquiátrico descompensado desde a origem e que deve o autor ser encaminhado à reabilitação profissional por subsistir resíduo de capacidade laborai a ser avaliado pela equipe técnica do INSS.
+Não se trata de lesão consolidada, pois poderá a patologia evoluir para ausência de sintomas, os quais, contudo, manifestam-se desde o afastamento laboral, de modo que jamais poderia ter sido cessada a percepção do auxílio-doença acidentário em 15/01/13 (fl. 144).
+Trata-se, por isso, de restrição laboral, a demonstrar que a pretensão jurídica formulada encontra amparo no art. 59 da Lei nº 8213/91.
+(..)
+Ora, somente após reabilitação profissional no INSS poder-se- á aferir se o autor ainda padece de incapacidade laboral, se ela é temporária ou permanente e, nesse último caso, se é parcial ou total, certo de que o INSS, no exercício de seu poder-dever de agir na esfera administrativa, poderá concluir pelo retorno do autor à sua atividade laborai, conceder auxílio-acidente ou mesmo aposentadoria por invalidez.
+E só após decisão do INSS que surgirá ou não pretensão de ter reconhecido o autor a percepção de outro benefício que não o auxílio-doença acidentário.
+Ou seja, a causa de pedir será diversa daquela ora em lide, pois a pretensão invocada limita-se objetivamente ao ato administrativo que cessou a percepção de auxílio-doença, e no caso, a sentença acolhe a pretensão para assegurar o benefício acidentário.
+(..)
+Não se indaga de aposentadoria por invalidez, por não preencher o autor requisito para tanto indispensável, que consiste na incapacidade permanente e total para toda e qualquer atividade laborai, conforme o art. 42 da Lei nº 8213/91.
+Ainda que o pedido consubstancie-se de forma restrita, certo é que a causa de pedir é a mesma e os benefícios de caráter acidentário são postulados, seja em juízo ou mesmo na via administrativa, em caráter subsidiário um ao outro. (..)."
+Como se percebe, ao consignar a ausência dos requisitos legalmente exigidos à concessão do benefício pleiteado, o acórdão fundou-se nas provas existentes nos autos. Dessa forma, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Do exposto, não conheço do recurso especial. Impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015), observando-se, contudo, o disposto no art. 98, § 3º, do CPC/2015, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
