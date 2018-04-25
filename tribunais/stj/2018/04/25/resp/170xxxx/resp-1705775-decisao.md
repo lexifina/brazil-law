@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO RESCISÓRIA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL, DE SÚMULA OU DE ATO NORMATIVO DIVERSO DE LEI FEDERAL. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+4. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL, com fundamento na alínea "a" do permissivo constitucional.
+Recurso Especial interposto em: 17/05/2017.
+Atribuído para o gabinete em: 25/10/2017.
+Ação: rescisória, ajuizada pela recorrente, em face de [NOME] e OUTROS, em razão de o acórdão rescindendo, proferido na apelação n. [CPF], violar a legislação federal e fundar-se em erro de fato.
+Acórdão: por maioria, julgou improcedente a ação rescisória, nos termos da seguinte ementa:
+AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. AUXÍLIO CESTA-ALIMENTAÇÃO. MUDANÇA DO ENTENDIMENTO JURISPRUDENCIAL ACERCA DA NATUREZA DA PARCELA. VIOLAÇÃO À LITERAL DISPOSITIVO DE LEI. ERRO DE FATO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA. VIA PROCESSUAL INADEQUADA.
+1. Carência de Ação. Afasta-se a presente prefacial, porquanto preenchidos os requisitos exigidos pelo artigo 488 e 282 do Código de Processo Civil. Ademais, os fundamentos esposados pela parte demandada se confundem com o mérito e com ele deverão ser analisados.
+2. Ilegitimidade passiva dos réus que atuaram como procuradores da autora na ação. Necessária a extinção do feito em relação aos procuradores da parte autora do processo originário, haja vista que os mesmos não fazem parte do processo no qual se pretende rescindir a decisão, não figuram como pólo ativo, atuando apenas como advogados.
+Mérito do recurso em análise.
+3. Transitada em julgado a sentença, opera-se o efeito da coisa julgada material, nos termos no art. 502 do novo CPC. Nessa fase o decisum tornando-se imutável e indiscutível, abrangido pelo manto da res iudicata, requisito essencial, atendido no caso em tela, para propositura da ação rescisória.
+4. No entanto, poderá ocorrer algum vício ou nulidade na sentença passível de reexame. Dessa forma, o legislador pátrio disponibilizou a parte prejudicada a ação rescisória, a fim de evitar a injustiça causada pela decisão imutável, a qual é passível de revisão em decorrência de vício insanável, cuja ciência ocorreu após a prolação daquele ato judicial.
+5. Contudo, somente em casos extremos existe a possibilidade de rescindir uma sentença sob o pálio da coisa julgada material, ante a necessidade de conservação das decisões judiciais para a manutenção da paz social.
+6. No presente feito a parte postulante alega como causa de pedir o fato de que o acórdão rescindendo infringiu o disposto no artigo 966, incisos V e VIII, da legislação processual civil, de violação manifesta de norma jurídica e erro de fato, uma vez que a apelação não foi analisada de forma adequada, inclusive afrontando entendimento pacificado nesta Corte e no Superior Tribunal de Justiça a respeito da matéria.
+7. Note-se que a circunstância atinente à mudança do entendimento jurisprudencial acerca da natureza das parcelas denominadas auxílio cesta alimentação, abono único, as quais possuíam caráter remuneratório consoante posicionamento anterior, passando o Superior Tribunal de Justiça a entender pela impossibilidade de extensão aos inativos em face da sua natureza indenizatória ou por não estarem previstas no regulamento do plano de benefícios de previdência privada, por si só, não dá azo à propositura da ação rescisória.
+8. Ademais, não há que se aplicar aos fatos narrados na inicial as hipóteses de incidência da norma legal precitada, na qual está lastreada pretensão, ou seja, a existência violação à disposição de lei e erro de fato, ao contrário, a matéria em discussão foi controvertida e objeto de deliberação judicial, portanto, inexiste a tipificação legal que autorize um juízo de rescisão da matéria abarcada pela coisa julgada material.
+Acolhida a preliminar de ilegitimidade passiva, afastar a prefacial suscitada e, no mérito, julgado improcedente o pedido formulado na ação rescisória. (e-STJ, fl. 181/182) (grifo nosso)
+Recurso especial: alega violação dos arts. 7º, XXVI, e 202, caput e § 2º, ambos da CF/88; 115, I, 116, 144, 966, V e VII, todos do CPC/15; 3º da LC 108/01; 3º e 6º, ambos da Lei 6.321/76. Sustenta:
+i) a legitimidade dos procuradores dos recorridos/autores da ação do processo de conhecimento; e
+ii) a existência de erro de fato a respeito da natureza da verba auxílio cesta-alimentação, prevista nos acordos coletivos de trabalho, bem como a efetiva violação da legislação federal.
+RELATADO O PROCESSO, DECIDE-SE.
+-Julgamento: aplicação do CPC/15
+- Da violação de dispositivo constitucional ou de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 115, I, 166 e 144, todos do CPC/15; 3º e 6º, ambos da Lei 6.321/76, indicado como violado, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+Além disso, cabe ressaltar que o art. 1.025 do CPC/15 dispõe que serão incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade. Entretanto, na situação posta em análise, esta Corte não entendeu pela existência de erro, omissão, contradição ou obscuridade, o que impede a inclusão dos dispositivos mencionados nas razões do recurso especial no bojo do acórdão impugnado para fins de prequestionamento da matéria.
+ - Das Súmulas 83 e 568, ambas do STJ
+O TJ/RS, ao manter o caráter remuneratório das parcelas denominadas auxílio-cesta-alimentação, tendo em vista ser esse o entendimento jurisprudencial prevalente quando da prolatação do acórdão rescindendo, manteve consonância com o entendimento do STJ, no sentido de que a interpretação feita pelo acórdão rescindendo da legislação aplicável à situação concreta, não sendo desarrazoada ou teratológica, de forma a seguir a orientação jurisprudencial pacífica da época, atrai a incidência da Súmula 343/STF (Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos Tribunais). Nesse sentido: AgInt no AREsp 909.615/RS (3ª Turma, DJe 14/02/2018); AgInt na AR 5.849/RS (2ª Seção, DJe 19/10/2017).
+Dessa forma, nos termos das Súmulas 83 e 568, ambas do STJ, o acórdão recorrido não merece reforma.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado dos recorridos em virtude da interposição deste recurso, majoro os honorários fixados anteriormente para R$ 4.500,00.
+Publique-se. Intimem-se.
