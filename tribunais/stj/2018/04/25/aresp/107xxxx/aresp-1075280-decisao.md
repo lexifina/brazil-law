@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+DIREITO CIVIL E DO CONSUMIDOR. CONTRATO DE PROMESSA DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. ENTREGA DO IMÓVEL. ATRASO INJUSTIFICADO. LUCROS CESSANTES. CASO FORTUITO OU FORÇA MAIOR. INOCORRÊNCIA.
+I - O atraso injustificado na entrega do imóvel enseja a obrigação do promitente vendedor pela reparação por lucros cessantes consistentes nos aluguéis pelo período de atraso.
+II - As diversas Vistorias requeridas pelo consumidor, bem como a demora na concessão da carta de "habite-se" não configuram culpa exclusiva da vítima/terceiro, caso fortuito ou força maior, pois plenamente previsíveis, estando inseridas no risco inerente à atividade exercida pela construtora.
+III - Condicionar a entrega do imóvel à assinatura do contrato de financiamento importa desonerar a construtora da obrigação inerente à natureza do negócio jurídico pactuado, bem como isentá-la das perdas e danos decorrentes do descumprimento da obrigação assumida, tratando-se de cláusula abusiva com evidente vantagem excessiva ao contratado, conforme preceitua o art. 51, IV, do CDC.
+IV - Não se trata de dano hipotético o prejuízo advindo da mora na entrega do imóvel adquirido, uma vez que o adquirente espera que" o bem adentre em seu patrimônio naquela oportunidade, sendo ele para alugar a terceiro ou para residir, em qualquer das hipóteses, há perda financeira para a parte.
+V - Negou-se provimento ao recurso.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões de recurso especial, alegam os agravantes, em suma, divergência jurisprudencial e violação do art. 1.022, incisos I e II, do Código de Processo Civil de 2015; e, 476 do Código Civil.
+Sustentam, além de negativa de prestação jurisdicional, que o termo final da indenização por atraso na entrega do imóvel é a data da expedição da carta de habite-se, pois a partir de então cabia ao adquirente cumprir com as obrigações necessárias ao recebimento das chaves.
+O recurso não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento deste agravo, verifico que não merece provimento.
+No tocante às alegações de ofensa ao art. 1.022 do CPC/15, observo que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial, circunstância que afasta referida alegação.
+A Corte estadual, inclusive, ao julgar os embargos de declaração das agravantes, tratou da matéria de modo exaustivo:
+O embargante alega a existência de contradição no acórdão, uma vez que o atraso na entrega da obra seu deu por culpa do ora embargado que, uma vez convocado para cumprir as condicionantes da cláusula 7.5, como a assinatura de escritura pública de alienação fiduciária e a realização de vistoria e aceite da unidade, manteve-se inerte, dando ensejo à alegada mora na entrega.
+Verifica-se a ocorrência de contradição quando há no acórdão incoerência entre as proposições constantes na motivação da decisão, na parte decisória ou entre as referidas nas razões de decidir e o dispositivo. Pode ocorrer contradição, ainda, entre o teor do acórdão e aquilo que resulta da votação.
+No entanto, conforme se infere do voto condutor, todas as questões necessárias para o deslinde da controvérsia foram devidamente examinadas e abordadas de forma coordenada e concatenada, não havendo vício a ser sanado.
+Acrescente-se que ao julgar o litígio, o magistrado deve se manifestar sobre as questões debatidas nos autos, demonstrando as razões de seu convencimento e observando o direito aplicável. Contudo, não está obrigado a examinar todas as teses formuladas, pelas partes, quando apenas parte delas é suficiente para fundamentar sua decisão. (..)
+Ademais, o acórdão foi devidamente fundamentado e justificou que o atraso não se deu por culpa do embargado, pois as vistorias foram indispensáveis para identificar os reparos a serem realizados na unidade (fls. 164). Por fim, salientou-se que condicionar a entrega do imóvel à assinatura do contrato de financiamento importaria em desonerar a construtora da obrigação inerente à natureza do negócio jurídico pactuado (fls. 371, e-STJ).
+Como se observa, o Tribunal de origem baseou-se na interpretação de fatos para afastar a aplicação da exceção do contrato não cumprido, de modo que rever as conclusões do acórdão recorrido implicaria, necessariamente, o reexame do conjunto fático-probatório, o que é vedado nesta instância especial, consoante entendimento da Súmula 7 do STJ. A propósito, cito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA. SUSPENSÃO DA EXIGIBILIDADE DAS PRESTAÇÕES PACTUADAS. EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. NÃO CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. INOVAÇÃO. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação ao artigo 535 do Código de Processo Civil.
+2. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+3. Não cabe a adição de teses não expostas no recurso especial em sede de agravo regimental. Precedente.
+4. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada" (Enunciado 182 da Súmula do STJ).
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 744.131/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23.2.2016, DJe 2.3.2016)
+Outrossim, a conclusão da instância ordinária para fixar a data de entrega das chaves como termo final do pagamento dos lucros cessantes resultou da análise das circunstâncias fáticas, bem como da interpretação de cláusulas contratuais. Incidem, neste ponto, os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO INJUSTIFICADO NA ENTREGA DO IMÓVEL. 1. LUCROS CESSANTES. POSSIBILIDADE. PRECEDENTES. SÚMULA 83/STJ. 2. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. CONCLUSÃO FIRMADA COM BASE NA APRECIAÇÃO FÁTICO-PROBATÓRIA E DE CLÁUSULAS CONTRATUAIS. 3. ABUSIVIDADE DA CLÁUSULA DE TOLERÂNCIA E PRAZO FINAL DA MORA. APLICAÇÃO DO CDC AO CASO. REVISÃO. SÚMULAS 5 E 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Consoante entendimento desta Corte, o atraso na entrega do imóvel enseja o pagamento de lucros cessantes, ante a impossibilidade de fruição do bem durante o tempo da mora.
+2. Afastada a ocorrência de caso fortuito ou força maior e tendo concluído o Tribunal de origem pela mora contratual da promitente vendedora, com base no exame do contexto fático-probatório dos autos, rever tal premissa atrai a incidência das Súmulas n. 5 e 7 desta Corte.
+3. Reconhecida, da mesma forma, pela Corte local a abusividade da cláusula de tolerância, tendo como base o fato de que a relação existente entre a promitente vendedora e o promitente comprador se qualifica como de consumo, com a aplicação das regras do Código de Defesa do Consumidor, e que o termo final da mora se daria com a efetiva entrega das chaves ao compromissário comprador, impossível o acolhimento da alegação no sentido da validade da referida cláusula, ou mesmo do argumento de que o final da obrigação se daria com o habite-se sem incorrer nos já citados óbices.
+4. Agravo interno improvido.
+(AgInt no REsp 1.661.238/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27.6.2017, DJe 2.8.2017).
+Em face do exposto, nego provimento ao agravo.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Intimem-se.
