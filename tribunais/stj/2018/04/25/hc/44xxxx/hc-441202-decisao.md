@@ -1,0 +1,60 @@
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. ASSOCIAÇÃO PARA O TRÁFICO. LAPSO TEMPORAL PARA OBTENÇÃO DO LIVRAMENTO CONDICIONAL. DOIS TERÇOS. CONDIÇÃO OBJETIVA QUE INDEPENDE DA HEDIONDEZ, OU NÃO, DO DELITO. DISCIPLINA DO ART. 44 DA LEI 11.343/2006. ORDEM DENEGADA.
+1. Na condenação pelo crime de associação para o tráfico, perpetrado sob a égide da Lei n.º 11.343/2006, faz-se necessário o desconto de 2/3 (dois terços) da pena para obtenção do livramento condicional (ressalvados os casos de reincidência específica, em que há vedação), em prestígio da programação normativa do artigo 44, parágrafo único, de tal diploma legal.
+2. Ordem denegada.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública em favor de [NOME], apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em execução nº 0005757-71.2017.8.26.0521).
+Depreende-se dos autos, que o Juiz de Execução Criminal - DEECRIM 10ª RAJ - SOROCABA/SP fixou a fração de 1/3, para os fins de livramento condicional, no tocante ao crime de associação para o tráfico ilícito de entorpecentes, conforme se observa do seguinte decisum:
+"Vistos.
+Considerando que a impugnação ofertada pela D. Defensoria Pública refere-se à fração necessária para livramento condicional ao crime do art. 35 da Lei 11.343/2006, e existindo respeitável divergência quanto à constitucionalidade do art. 44, parágrafo único, da mesma Lei, a questão arguida deverá ser analisada no caso concreto, ou seja, quando formalmente ajuizada tal pretensão.
+Assim, homologo o cálculo de penas acostado aos autos, nos termos do artigo 538, § Iº, das NSCGJ, e determino a expedição do respectivo atestado, em cumprimento ao art. 66, inciso X, da Lei n.º 7.210/84 (Lei de Execução Penal)". (fl. 27)
+Irresignado, o parquet interpôs agravo em execução penal, que após julgado, o Tribunal de origem deu provimento ao recurso para fixar a fração de 2/3, para os fins de livramento condicional, consoante a seguinte fundamentação (fls. 36/38):
+O recurso interposto pelo Ministério
+Público comporta provimento.
+Mostra-se desnecessária a discussão a respeito da natureza hedionda ou não do crime de associação para o tráfico, para fins de concessão do livramento condicional.
+Isto porque o art. 44, parágrafo único, da lei de Drogas, é expresso ao determinar que, para o livramento condicional, os crimes previstos no art. 34 a 37 da mesma Lei (entre eles está o de associação para o tráfico - art. 35), a fração a ser utilizada é de 2/3 (dois terços).
+Além disso, tratando-se de legislação especial, com espeque no princípio da especialidade, sobrepõe-se à norma geral prevista no art. 83 do Código Penal.
+A esse respeito:
+(..)
+Logo, a r. decisão deve ser reformada, para fixar a fração de 2/3 (dois terços) como necessária à obtenção do livramento condicional, em observância ao disposto na legislação especial.
+Pelo exposto, DOU PROVIMENTO ao agravo interposto pelo Ministério Público, para fixar a fração de 2/3 (dois terços) como necessária à obtenção do livramento condicional, em observância ao disposto na legislação especial.
+No presente mandamus, a impetrante aduz que a associação para o tráfico não possui natureza de crime hediondo ou equiparado a hediondo. Nesse contexto, sustenta que é ilegal a determinação do cumprimento de 2/3 da pena para a concessão do livramento condicional.
+Requer, liminarmente e no mérito, que seja cassada a decisão do tribunal de origem que fixou a fração de 2/3 para fins de livramento condicional.
+Liminar indeferida às fls. 42/44.
+Informações prestadas às fls. 49/73 e 76/83.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 85/89).
+Decido.
+Não há como acolher a irresignação.
+Em que pese o fato de que a tese sustentada na impetração já tenha sido outrora acolhida por esta Corte, em sessão realizada no dia 5.8.2014, com publicação do acórdão no Diário da Justiça Eletrônico do dia 18.8.2014, a Sexta Turma, refletindo melhor sobre o tema e considerando as disposições do art. 44 da Lei n.º 11.343/06, modificou o entendimento nos autos do HC n.º 292.882/RJ, assim sintetizado:
+EXECUÇÃO PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. (1) IMPETRAÇÃO COMO SUCEDÂNEO RECURSAL. IMPROPRIEDADE DA VIA ELEITA. (2) ASSOCIAÇÃO PARA O TRÁFICO. LAPSO PARA OBTENÇÃO DO LIVRAMENTO CONDICIONAL. DOIS TERÇOS. CONDIÇÃO OBJETIVA QUE INDEPENDE DA HEDIONDEZ, OU NÃO, DO DELITO. DISCIPLINA DO ART. 44 DA LEI 11.343/2006. OVERRULING. ORDEM NÃO CONHECIDA.
+1. No contexto de racionalização do emprego do habeas corpus, mostra-se indevida a sua utilização como sucedâneo recursal.
+2. Na condenação pelo crime de associação para o tráfico, perpetrado sob a égide da Lei 11.343/2006, faz-se necessário o desconto de 2/3 da pena para obtenção do livramento condicional, (ressalvados os casos de reincidência específica, em que há vedação), na condenação por associação para o tráfico, em prestígio da programação normativa do artigo 44, parágrafo único, de tal Diploma Normativo.
+3. Ordem não conhecida.
+Cumpre assinalar que o crime de associação para o tráfico jamais figurou no catálogo de crimes hediondos ou a eles equiparados, razão pela qual os arestos prolatados por esta Corte sob a égide da Lei n.º 6.368/1976 sufragavam, corretamente, a impossibilidade de se condicionar o livramento condicional nas execuções de penas por associação para o tráfico a lapso qualificado.
+Contudo, a novel legislação de regência (Lei n.º 11.343/2006), ao contrário de sua antecessora, pontualmente cuidou do tema, cristalizando hipótese de novatio legis in pejus, verbis:
+Art. 44. Os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.
+Parágrafo único. Nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico. (destaquei)
+
+Destarte, independentemente do qualificativo de hediondo ou equiparado, em razão da norma acima mencionada, há embasamento legal para o tratamento mais gravoso no que concerne ao livramento condicional aos condenados pelo crime de associação para o tráfico (ressalvados os casos de reincidência específica, em que há vedação).
+O acórdão ora impugnado, pois, ao dispor que o crime de associação para o tráfico requer o cumprimento de 2/3 (dois terços) da pena para a obtenção do livramento condicional, nos termos do art. 44 da Lei n.º 11.343/06, não merece reforma por estar em conformidade com a nova orientação desta Corte. A propósito, confiram-se:
+PENAL E EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. NULIDADE. HOMOLOGAÇÃO CÁLCULOS. NOVA VISTA À DEFESA APÓS MANIFESTAÇÃO DO PARQUET. PRESCINDIBILIDADE. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ART. 35, CAPUT, DA LEI N. 11.343/06. CRIME NÃO CONSIDERADO HEDIONDO OU EQUIPARADO. LIVRAMENTO CONDICIONAL. REQUISITO OBJETIVO. REINCIDENTE ESPECÍFICO. VEDAÇÃO. CRIME ANTERIOR GERADOR DA REINCIDÊNCIA. PREVISÃO NO MESMO TIPO PENAL DO QUE O PRATICADO POSTERIORMENTE. PRESCINDIBILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem, de ofício.
+II - Não se verifica a alegada nulidade por ofensa ao princípio do contraditório, se o Juízo das Execuções, ao analisar o pedido da Defesa para homologação de cálculos diferenciados, e após manifestação do Ministério Público, efetua a homologação nos termos propostos pelo Parquet, sem abrir nova vista à Defesa para se manifestar sobre o ato.
+III - Na hipótese, após a efetiva elaboração dos cálculos, os autos foram remetidos à Defensoria Pública, que tomou ciência da decisão e a impugnou, interpondo o recurso de agravo em execução, de forma que restou preservado o direito à ampla defesa do paciente. Ademais, não houve demonstração de prejuízo, requisito imprescindível para a declaração de nulidade, conforme o princípio pas de nullite sans grief, consagrado no art. 563 do Código de Processo Penal.
+IV - Embora a jurisprudência desta Corte Superior considere que o crime de associação para o tráfico de entorpecente não é hediondo ou equiparado, por não constar no rol dos artigos 1º e 2º, da Lei n. 8.072/90, o art. 44, parágrafo único, da Lei n. 11.343/2006, além de estabelecer prazo mais rigoroso para o livramento condicional, veda a sua concessão ao reincidente específico.
+V - Para fins de reincidência específica, o crime anterior gerador da reincidência não precisa, necessariamente, estar previsto no mesmo tipo penal do que aquele praticado posteriormente, pois basta a reincidência específica em crimes dessa natureza, ou seja, aqueles dispostos nos arts. 33, caput e §1º, e 34 a 37 da Lei n. 11.343/2006. Ademais, não é necessário que o crime anterior, gerador da reincidência, tenha sido praticado na vigência da Lei n. 11.343/2006.
+VI - In casu, após o paciente ter praticado o crime de tráfico de drogas em 4/2/2005, cuja condenação transitou em julgado em 27/11/2006, sofreu nova condenação pelos delitos de porte ilegal de arma de fogo de uso restrito, tráfico e associação para o tráfico na vigência da nova Lei de Drogas (fato praticado em 23/10/2011 e trânsito em julgado certificado em 18/11/2013), sendo, portanto, reincidente específico.
+Habeas corpus não conhecido.
+(HC 372.365/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/10/2017, DJe 25/10/2017)
+HABEAS CORPUS. EXECUÇÃO PENAL. ASSOCIAÇÃO PARA O TRÁFICO. CRIME NÃO CONSIDERADO HEDIONDO OU EQUIPARADO. BENEFÍCIOS. REQUISITO OBJETIVO. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. LAPSOS TEMPORAIS DISTINTOS. CUMPRIMENTO DE 1/6 (UM SEXTO) NO CASO DE PROGRESSÃO E DE 2/3 (DOIS TERÇOS) PARA O LIVRAMENTO, VEDADA A SUA CONCESSÃO AO REINCIDENTE ESPECÍFICO. ARTS. 112 DA LEI DE EXECUÇÃO PENAL E 44 DA LEI N. 11.343/2006. CONSTRANGIMENTO ILEGAL EVIDENCIADO. 1. A jurisprudência pacífica do Superior Tribunal de Justiça reconhece que o crime de associação para o tráfico de entorpecentes (art. 35 da Lei n. 11.343/2006) não figura no rol taxativo de delitos hediondos ou a eles equiparados, tendo em vista que não se encontra expressamente previsto no rol taxativo do art. 2º da Lei n. 8.072/1990.
+2. Não se tratando de crime hediondo, não se exige, para fins de concessão de benefício da progressão de regime, o cumprimento de 2/5 da pena, se o apenado for primário, e de 3/5, se reincidente para a progressão do regime prisional, sujeitando-se ele, apenas ao lapso de 1/6 para preenchimento do requisito objetivo.
+3. No entanto, a despeito de não ser considerado hediondo, o crime de associação para o tráfico, no que se refere à concessão do livramento condicional, deve, em razão do princípio da especialidade, observar a regra estabelecida pelo art. 44, parágrafo único, da Lei n. 11.343/2006, ou seja, exigir que o cumprimento de 2/3 (dois terços) da pena, vedada a sua concessão ao reincidente específico.
+4. Ordem concedida para afastar a natureza hedionda do crime de associação para o tráfico e determinar que o Juízo da Vara das Execuções Criminais da Comarca de São [NOME] do Rio Preto/SP proceda a novo cálculo da pena, considerando, para fins de progressão de regime e de livramento condicional, respectivamente, as frações de 1/6 (um sexto) e 2/3 (dois terços).
+(HC 394.327/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/06/2017, DJe 23/06/2017)
+
+Não se vislumbra, portanto, o alegado constrangimento ilegal.
+Ante o exposto, denego a ordem, com fulcro no artigo 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
