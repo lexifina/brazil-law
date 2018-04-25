@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por CARE PLUS MEDICINA ASSISTENCIAL LTDA. contra decisão que negou seguimento ao recurso especial, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, impugnando acórdão assim ementado:
+Plano de saúde. Aplicabilidade do CDC (Súmula 469 do C. STJ). Possibilidade de revisão de cláusulas contratuais que decorre do próprio sistema jurídico (arts. 478 e 480 do CC e art. 6º, V, do CDC). Relativização da "pacta sunt servanda".
+Contrato de assistência médica-hospitalar. Obrigação de fazer. Segurado diagnosticado com tumor carcinoide típico de pulmão metastático para pleura e parede torácica. Prescrição médica positiva a tratamento quimioterápico com os medicamentos Sandostin e Everolimus. Recusa da operadora de saúde. Descabimento. Negativa que restringe obrigação inerente à natureza do contrato (art. 51, IV, e §1º, II, do CDC). Irrelevância de o medicamento ter caráter experimental para a enfermidade apresentada pelo paciente (uso off label) e de haver exclusão contratual. Impostura evidenciada. Alcance da Súmula 102 desta C. Corte de Justiça. Conduta da seguradora que implica na concreta inutilidade do negócio protetivo. Necessidade de preservação da saúde do paciente. Evidenciado o desequilíbrio contratual no exercício abusivo do direito por força da desigualdade material de poder. Prestadora que confunde boa-fé com interesse próprio. Menoscabo com o consumidor. Quebra do dever de lealdade. Interpretação que fere a boa-fé objetiva e contrapõe-se à função social do contrato (arts. 421 e 422 do Cód. Civil). Incidência dos arts. 4º, "caput", 7º, 46, 47 e 51, IV, do CDC. Cobertura devida. Sentença mantida. Recurso desprovido.
+Nas razões do especial, a parte agravante alegou negativa de vigência dos arts. 421, 422, 478 e 480 do Código Civil, sob o argumento de que:
+ ..  o Acórdão recorrido admite a premissa fática de processo anterior como causa de modificação das condições contratuais, aliás, contingenciadas (custo excepcional limitado ao teto de 40 salários mínimos).
+17. Não obstante, o Acórdão recorrido, lançando mão de julgados desfavoráveis às operadoras de plano de saúde (nenhum deles contemplando a existência de anterior demanda transitada em julgado versando a mesma causa de pedir), optou por exarar que: "Destarte, revelam-se abusivas as cláusulas limitativas de cobertura em relação ao tratamento em questão, não só pelo fato de o procedimento ter sido prescrito por profissional habilitado, mas também porque a exclusão da cobertura deixa o segurado em situação de extrema desvantagem. " e, assim, obrigar a Recorrente a ilimitadamente arcar com custos de evento excluído de cobertura contratual:
+ ..
+18. Ao assim proceder, por certo que o Acórdão recorrido viola o artigo 478 do Código Civil, vez que impele a Recorrente à assunção de encargo excessivamente oneroso que não encontra suporte no instrumento que regula a prestação de serviço ao Recorrido, nem nas normas que regem a relação entre as partes e sequer nos princípios mais abrangentes do Direito, visto que mesmo a proteção à saúde, que tem moldura doutrinária e jurisprudencial, não é nem nunca foi ilimitada. (fls. 293-296 e-STJ)
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+O Tribunal de origem, mantendo o decidido singularmente com base nos fatos e provas dos autos, concluiu pela obrigatoriedade de cobertura do tratamento, assim se pronunciando (fls. 293-296, e-STJ) :
+Da negativa de cobertura: abusividade
+Fixadas essas premissas, tem-se que o autor é conveniado à operadora de saúde (cf. fls. 14/15), desde 01/07/2012.
+Ocorre que, após ser submetido a exames diversos (anatomopatológico, imunoistoquímica, cintilografia fls. 16/19), fora diagnosticado com tumor carcinoide recidivado típico de pulmão metastático para pleura e parede torácica, necessitando de tratamento quimioterápico sistêmico com os medicamentos Everolimus  Sandostatin (fls. 20/21; 22).
+No entanto, referida solcitação (fls. 20) fora negada pela operadora de saúde, sob o fundamento de que, em ação pretérita, fora determinada a cobertura do medicamento Everolim até o limite de 40 salários mínimos, o que já teria sido alcançado (fls. 41).
+Sobreveio o decreto de procedência (fls. 246/250), insurgindo-se a operadora de saúde, ao principal argumento de que não pode ser compelida a arcar com os gastos de um tratamento não coberto pelo contrato e para o qual não há o cumprimento das diretrizes traçadas pelo órgão regulamentador.
+A aludida negativa, contudo, não prospera e não deve convalescer, pois é defeso ao plano de saúde questionar/limitar o tratamento prescrito pelo médico.
+Exegese contrária implicaria negar a própria finalidade precípua do contrato, o que fere a razoabilidade.
+Além disso, se a enfermidade que acomete o segurado (câncer de pulmão) possui cobertura contratual, tal e qual na espécie, o fornecimento do medicamento adequado ao respectivo tratamento consubstancia mero desdobramento do seu alcance.
+ ..
+Destarte, apresenta-se abusivo e ilícito o impedimento de o segurado receber o tratamento com os medicamentos prescritos, sendo inadmissível a "criação" de motivo aleatório para negá-lo.
+A análise das razões do recurso, a fim de demover o que concluído pela origem, demandaria inevitável reexame de matéria fática, procedimento que encontra óbice nos verbetes 5 e 7 da Súmula desta Corte.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. NEGATIVA DE AUTORIZAÇÃO DE EXAME MÉDICO. SÚMULAS 5 E 7/STJ. COBERTURA SECURITÁRIA DA ENFERMIDADE. RECUSA INDEVIDA.
+(..)
+2. O acolhimento da pretensão recursal sobre a inexistência de abusividade da recusa de custeio do exame médico exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, e a interpretação de cláusulas contratuais, atraindo os óbices das Súmulas 5 e 7 do STJ.
+3. A operadora de plano de saúde pode estabelecer as doenças que terão cobertura, mas não podem limitar o tipo de tratamento a ser utilizado pelo paciente. Dessa forma, sendo fato incontroverso a cobertura securitária para a enfermidade em questão, inviável a insurgência da recorrente pretendendo limitar o tipo de tratamento a que deve se submeter o paciente.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.072.960/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20.6.2017, DJe 8.9.2017).
+Ademais, conforme orientação jurisprudencial deste STJ, é permitido às operadoras de planos de saúde, por expressa disposição contratual, restringir as enfermidades a serem cobertas, mas não limitar os tratamentos a serem realizados, como no caso dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. ABUSIVIDADE CONTRATUAL. INTERPRETAÇÃO FAVORÁVEL AO CONSUMIDOR. PROCEDIMENTO TERAPÊUTICO. CLÁUSULA LIMITATIVA. RECUSA INDEVIDA. AUSÊNCIA NO ROL DA ANS. COBERTURA DEVIDA.
+1. Inocorrência de omissão, tampouco, negativa de prestação jurisdicional, quando o Tribunal "a quo" decide de modo integral e com fundamentação suficiente a controvérsia trazida no recurso.
+2. Não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato de plano de saúde.
+3. São abusivas as cláusulas contratuais que limitam o direito do consumidor ao tratamento contratado.
+4. (..)
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1.099.275/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 9.11.2017, DJe 20.11.2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. OFENSA AO ART. 535 DO CPC/1973. INEXISTÊNCIA. NEGATIVA DE AUTORIZAÇÃO DE EXAME MÉDICO. SÚMULAS 5 E 7/STJ. COBERTURA SECURITÁRIA DA ENFERMIDADE. RECUSA INDEVIDA.
+1. Não há falar em violação ao art. 535 do Código de Processo Civil de 1973, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. O acolhimento da pretensão recursal sobre a inexistência de abusividade da recusa de custeio do exame médico exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, e a interpretação de cláusulas contratuais, atraindo os óbices das Súmulas 5 e 7 do STJ.
+3. A operadora de plano de saúde pode estabelecer as doenças que terão cobertura, mas não podem limitar o tipo de tratamento a ser utilizado pelo paciente. Dessa forma, sendo fato incontroverso a cobertura securitária para a enfermidade em questão, inviável a insurgência da recorrente pretendendo limitar o tipo de tratamento a que deve se submeter o paciente.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.072.960/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20.6.2017, DJe 8.9.2017).
+Em face do exposto, nego provimento ao agravo.
+Por fim, tendo o acórdão recorrido sido proferido já na vigência do novo diploma processual e à luz do disposto no art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida.
+Intimem-se.
