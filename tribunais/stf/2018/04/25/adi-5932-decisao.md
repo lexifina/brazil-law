@@ -1,0 +1,19 @@
+DECISÃO
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE – LIMINAR – ARTIGO 12 DA LEI Nº 9.868/1999 – JULGAMENTO DEFINITIVO.
+    1. O assessor Dr. Eduardo Ubaldo Barbosa prestou as seguintes informações:
+    A Confederação Nacional do Transporte – CNT ajuizou ação direta de inconstitucionalidade, com pedido de liminar, questionando a compatibilidade, com a Constituição Federal, do artigo 25 da Lei nº 13.606, de 9 de janeiro de 2018, no que inseriu os artigos 20-B, § 3º, inciso II, e 20-E na Lei nº 10.522, de 19 de julho de 2002, a disciplinarem a possibilidade de a Fazenda Pública averbar certidão de dívida ativa nos órgãos de registro de bens e direitos sujeitos a arresto e penhora, tornando-os indisponíveis.
+    Ressalta a própria legitimidade, considerado o artigo 103, inciso IX, da Constituição Federal, articulando com a condição de confederação sindical de âmbito nacional representativa do setor de transportes.
+    Afirma a inconstitucionalidade formal da norma atacada, presente o artigo 146, incisos II e III, da Constituição Federal. Consoante destaca, compete a lei complementar fixar regras gerais de legislação tributária, como a ampliação das garantias do crédito tributário. Reporta-se ao artigo 185-A do Código Tributário Nacional, a versar os meios e instrumentos legais de que dispõe a Fazenda Pública para efetivar a cobrança de créditos devidos.
+    Sob o ângulo material, assinala a ofensa ao princípio da separação dos poderes – artigo 2º da Constituição Federal. Aduz necessário crivo judicial no processo executivo voltado à satisfação do crédito tributário, tendo em vista as balizas constitucionais no sentido de obstar ao máximo o exercício da autotutela pelo Estado.
+    Assinala a violação dos princípios do devido processo legal, da ampla defesa e do contraditório – artigo 5º, incisos XXII, LIV e LV, da Lei Maior. Sublinha a impossibilidade de adoção de procedimento executivo unilateral. Assevera inexistir previsão constitucional a autorizar, sem a interferência do Judiciário, a inscrição em dívida ativa cumulada com a imposição de indisponibilidade de bens e direitos. Salienta a indispensabilidade de, na esfera tributária, possibilitar-se ao contribuinte o exercício de defesa prévia.
+    Argui desrespeitado o direito fundamental à propriedade, evocando o artigo 170, inciso II, da Constituição Federal. Frisa tratar-se de sanção de natureza política voltada à quitação dos débitos, discrepante, consoante alega, dos ditames constitucionais. Reporta-se ao verbetes nº 70, nº 323 e nº 547 da Súmula do Supremo.
+    Sob o ângulo do risco, indica a iminente aplicação dos atos questionados, presente a regulamentação pela Portaria nº 33/2018 da Procuradoria-Geral da Fazenda Nacional. Realça a ausência de perigo de dano reverso, enfatizando que, caso a liminar seja revogada, poderá a Fazenda Pública valer-se normalmente dos instrumentos previstos nos dispositivos impugnados.
+    Requer, liminarmente, a suspensão da eficácia dos trechos atacados. Postula, alfim, seja confirmada a tutela de urgência, com a declaração de inconstitucionalidade do artigo 25 da Lei nº 13.606/2018, na parte em que inseriu os artigos 20-B, § 3º, inciso II, e 20-E na Lei nº 10.522/2002, e, por arrastamento, da Portaria nº 33/2018 da Procuradoria-Geral da Fazenda Nacional.
+    Esta ação direta e as de nº 5.886, nº 5.890, nº 5.925 e nº 5.931 foram distribuídas por prevenção a Vossa Excelência, presente a identidade de objeto com relação à de nº 5.881 – artigo 77-B do Regimento Interno do Supremo.
+    O processo está concluso no Gabinete.
+    2. A racionalidade própria ao Direito direciona no sentido de aguardar-se o julgamento definitivo.
+    3. Aciono o disposto no artigo 12 da Lei nº 9.868/1999. Providenciem as informações, a manifestação da Advocacia-Geral da União e o parecer da Procuradoria-Geral da República.
+    4. Publiquem.
+Brasília, 25 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
