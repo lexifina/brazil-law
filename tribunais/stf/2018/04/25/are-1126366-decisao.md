@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade ao artigo 150, VI, “b”, e § 4°, da Constituição Federal.
+    Anote-se a ementa do acórdão recorrido:
+    “APELAÇÃO CÍVEL — Ação declaratória — ISS sobre construção de templo religioso — Imunidade reconhecida, nos termos do art. 150, inc. IV, CF — O templo está vinculado às finalidades da entidade religiosa — Obra realizada em regime de mutirão — Inocorrência de prestação de serviços sujeita à exação municipal — Sentença mantida — Recurso DESPROVIDO”.
+    Decido.
+    A irresignação não merece prosperar.
+    Anote-se que o Tribunal de origem utilizou como razão de decidir mais de um fundamento suficiente para a solução do feito. Desse modo, solucionou-se a controvérsia com base no argumento referente à ausência de contrato de prestação de serviço, impossibilitando, portanto, a incidência do ISS, bem como no fundamento relativo à imunidade tributária. Destaco o seguinte trecho do acórdão recorrido em que foi consignado o fundamento relativo à inexistência do referido contrato de prestação de serviço:
+    “Ocorre que restou amplamente demonstrado com a documentação anexada na exordial, referente à comunicação de construção no regime de mutirão (fls. 38/41), ao livro de adesão ao serviço voluntário (fls. 44/54), bem como livro de presença do serviço voluntário, com indicação de data e horário prestado por cada voluntário (fls. 78/109), tratar-se de construção de templo executado em regime de mutirão, sem remuneração dos que a realizaram. Ou seja, não houve contrato de prestação de serviços para a construção do templo.
+    Os serviços, foram, por assim dizer, prestados pela autora para si mesma, cuidando-se, bem por isso, de hipótese de não incidência do imposto, não sendo possível cogitar-se de solidariedade da ora apelada em relação à sua própria responsabilidade.
+    Ademais, caberia à municipalidade produzir prova relativamente ao fato impeditivo, modificativo ou extintivo do direito da apelada, nos termos do artigo 333, inciso II, do Código de Processo Civil. Não basta mera impugnação genérica quanto à validade de provas, calcada em sua versão ou suspeita”.
+    Como visto, há, no acórdão recorrido, fundamento suficiente à sua manutenção (ausência de contrato de prestação de serviço devido ao mutirão sem remuneração). Ressalte-se, ainda, que o recorrente, conforme decisão definitiva do Superior Tribunal de Justiça (e-STJ fl. 398), não obteve êxito no agravo (AREsp nº 1.118.017/SP) manejado contra a decisão que não admitiu recurso especial interposto simultaneamente ao presente recurso extraordinário (decisão transitada em julgado em 4/4/18 – e-STJ fl. 410).
+    Desse modo, incide, na espécie, a orientação do enunciado da Súmula nº 283 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL. RAZÕES EXTRAORDINÁRIAS QUE NÃO SE INSURGEM CONTRA TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange a todos eles. Súmula 283/STF. Agravo regimental não provido” (RE nº 408.184/MG-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJ de 30/9/05).
+    “EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. FUNDAMENTO INFRACONSTITUCIONAL NÃO RECORRIDO. CONHECIMENTO DO EXTRAORDINÁRIO. IMPOSSIBILIDADE. VÍCIOS NO JULGADO. INEXISTÊNCIA. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange a todos eles. Matéria expressamente esclarecida no acórdão recorrido. Vícios no julgado. Inexistência. Embargos de declaração rejeitados” (RE nº 162.926/SP-AgR-ED, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 4/4/03).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
