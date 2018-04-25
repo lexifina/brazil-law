@@ -1,0 +1,17 @@
+Decisão:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Décima Quarta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação. Mandado de segurança. Imposto sobre transmissão inter vivos de bens imóveis. Base de cálculo. Valor da arrematação. Precedentes do Superior Tribunal de Justiça.
+    Imposto sobre a transmissão inter vivos de bens imóveis. Fato gerador. Registro do título translativo da propriedade. Precedente do Superior Tribunal de Justiça. Pretensão de receber juros e multa moratória relativos a período anterior ao fato gerador do tributo. Inadmissibilidade. Incidência apenas de correção monetária. Recurso a que se dá parcial provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 156, II, da Carta. Sustenta que o ITBI tem como hipótese de incidência a transmissão onerosa, a qualquer título, de modo que o fato gerador do tributo é a arrematação do bem em hasta pública, e não seu posterior registro.
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos:
+    “[...] a fundamentação careceu do imprescindível prequestionamento, uma vez que nenhum dos dispositivos da Carta Magna arrolados foi expressamente ventilado no v. acórdão guerreado. Incidente a Súmula 282 do Colendo Supremo Tribunal Federal, que já decidiu ser inadmissível o prequestionamento na forma implícita.
+    Inadmito, pois, o recurso extraordinário.”
+    A pretensão recursal não merece prosperar, tendo em vista que as disposições do acórdão recorrido estão alinhadas à jurisprudência do Supremo Tribunal Federal no sentido de que a transmissão do imóvel, para fins de caracterização do fato gerador do Imposto sobre a Transmissão de Bens Imóveis, somente ocorre com a transferência efetiva da propriedade no cartório de registro de imóveis.
+    Nesse sentido, os seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. DIREITO PROCESSUAL CIVIL. DEVIDO PROCESSO LEGAL. ITBI. FATO GERADOR. PROMESSA DE COMPRA E VENDA. 1. A jurisprudência do STF se consolidou no sentido de que suposta ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e dos limites da coisa julgada, quando a violação é debatida sob a ótica infraconstitucional, não apresenta repercussão geral. Precedente: RE-RG 748.371, de relatoria do Ministro Gilmar Mendes, DJe 1º.8.2013. 2. A transferência do domínio sobre o bem torna-se eficaz a partir do registro público, momento em que incide o Imposto Sobre Transferência de Bens Imóveis (ITBI), de acordo com a jurisprudência do Supremo Tribunal Federal. Logo, a promessa de compra e venda não representa fato gerador idôneo para propiciar o surgimento de obrigação tributária. 3. Agravo regimental a que se nega provimento.” (ARE 807.255-AgR, Rel. Min. Edson Fachin, Primeira Turma)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. IMPOSTO SOBRE A TRANSMISSÃO DE BENS IMÓVEIS – ITBI. FATO GERADOR: REGISTRO DA TRANSFERÊNCIA EFETIVA DA PROPRIEDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (ARE 798.241-AgR, Relª. Minª. Cármen Lúcia, Segunda Turma)
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+     Brasília, 25 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
