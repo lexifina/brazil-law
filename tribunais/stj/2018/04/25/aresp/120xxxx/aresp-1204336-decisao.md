@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Distrito Federal e Territórios que inadmitiu o seu apelo nobre.
+Consta dos autos que o agravante foi condenado nas sanções do art. 157, § 2º, incisos I e II, do Código Penal, à pena de 8 (oito) anos de reclusão, em regime inicial fechado, e ao pagamento de 16 (dezesseis) dias-multa.
+Interposto recurso especial, este não foi admitido pela Instância de origem, ensejando a presente insurgência, na qual a agravante sustenta que o óbice indicado na decisão objurgada não incidiria in casu.
+Requer o acolhimento do agravo a fim de que seja provido o recurso especial.
+Parecer do Ministério Público Federal às e-STJ fls. 366/372.
+É o relatório.
+No recurso especial, suscitando afronta ao art. 59 do Código Penal, a parte defende, em síntese, a reforma da dosimetria, porquanto não seriam idôneos os motivos que ensejaram a elevação da pena-base pela valoração negativa da conduta social e da personalidade.
+No deslinde da questão, a Corte Distrital assim decidiu (e-STJ fls. 332/333):
+Requereu a Defesa a exclusão das circunstâncias da personalidade e da conduta social, ressaltando que os antecedentes do réu não podem ser utilizados como fundamentos para valorá-las.
+(..)
+Na primeira fase, a autoridade sentenciante considerou as condenações definitivas anteriores do réu e julgou desfavoráveis os antecedentes penais (fls. 121/122), a personalidade (fl. 117) e a conduta social (fls. 118 e 120) e fixou a pena-base em 5 (cinco) anos e 6 (seis) meses de reclusão.
+Compulsando os autos, verifica-se que as condenações mencionadas para a valoração dos antecedentes e da personalidade transitaram em julgado anteriormente aos fatos ora apurados, logo, possuem idoneidade para amparar o entendimento perfilhado pela autoridade sentenciante, não havendo reparos a serem feitos.
+No tocante à conduta social, convém esclarecer que na ação penal registrada à fl. 118 operou-se a extinção da punibilidade pela prescrição e decadência, de modo que não pode ser empregada para a valoração desta circunstância.
+Entretanto, a conduta social não deve ser afastada, pois a condenação certificada à fl. 120, também utilizada pelo magistrado "a quo" para a sua análise, é anterior ao fato em comento.
+Por oportuno, cabe consignar que este Tribunal possui o entendimento de que a existência de diversas condenações definitivas e anteriores permitem a análise desfavorável dos antecedentes, conduta social e personalidade do réu, bem como a configuração da reincidência, desde que não se tratem da Destarte, mantenho a pena-base em 5 (cinco) anos e 6 (seis) meses de reclusão.
+Como visto, a Corte de origem utilizou as anteriores condenações definitivas que possui o réu para a valoração negativa da personalidade e da conduta social e, em consequência, elevar a pena-base.
+Contudo, nos termos da jurisprudência recente desta Corte sobre o tema, "as condenações transitadas em julgado, mesmo que em maior número, não podem ser utilizadas para majorar a pena-base em mais de uma circunstância judicial, devendo ser valoradas somente a título de maus antecedentes." (HC 391.007/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/08/2017, DJe 30/08/2017).
+Assim, in casu, na esteira da compreensão firmada, não se revela idônea a utilização das referidas anotações criminais em mais de uma circunstância judicial para negativar outros vetores, tais como personalidade e conduta social.
+A esse respeito, vejam-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE. PERSONALIDADE. ANOTAÇÕES CRIMINAIS. IMPOSSIBILIDADE. CONSEQUÊNCIAS DO DELITO. FUNDAMENTAÇÃO INIDÔNEA. (..). ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+- Esta Quinta Turma decidiu que é inidônea a utilização de condenações anteriores transitadas em julgado para se inferir como negativa a personalidade ou a conduta social do agente (HC 366.639/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 28/3/2017, DJe 5/4/2017).
+(..)
+- Habeas corpus não conhecido. Ordem concedida ex officio, apenas para reduzir a pena do paciente para 6 anos, 10 meses e 20 dias de reclusão e multa, mantidos os demais termos da condenação.
+(HC 334.478/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/12/2017, DJe 18/12/2017)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO MAJORADO. DOSIMETRIA. CONDENAÇÕES PRETÉRITAS TRANSITADAS EM JULGADO. CONDUTA SOCIAL. FUNDAMENTAÇÃO INIDÔNEA. (..). HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+2. A dosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal - CP, e, no caso de majoração da pena-base, o Juiz sentenciante deve efetuar a dosimetria da pena "atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e conseqüências do crime, bem como ao comportamento da vítima". Em recente julgado, a Quinta Turma deste Sodalício deixou consignado que condenações pretéritas, ainda que transitadas em julgado, não constituem fundamentos idôneos a desabonar a personalidade ou a conduta social do agente (HC 366.639/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 05/04/2017).
+Na hipótese, constata-se que a Corte estadual manteve a majoração da pena-base com fundamento em apenas uma circunstância desfavorável, qual seja, a conduta social, consignando que existia, em desfavor do réu, sentença condenatória com trânsito em julgado. Dessa forma, a pena-base deve ser redimensionada ao mínimo legal, sendo fixada em 4 anos de reclusão e 10 dias-multas.
+(..)
+(HC 418.460/PE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO DUPLAMENTE MAJORADO E POSSE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. DOSIMETRIA. CONDUTA SOCIAL E PERSONALIDADE. IMPOSSIBILIDADE DE VALORAÇÃO DE CONDENAÇÕES TRANSITADAS EM JULGADO. FLAGRANTE ILEGALIDADE EVIDENCIADA. (..). WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+3. No que tange à conduta social e à personalidade do agente, a Quinta Turma deste Superior Tribunal de Justiça passou a entender que as condenações transitadas em julgado, mesmo que em maior número, não podem ser utilizadas para majorar a pena-base em mais de uma circunstância judicial, devendo ser valoradas somente a título de maus antecedentes.
+4. Ainda que o agente possua vasto histórico criminal, com diversas condenações transitadas em julgado, elas devem ser divididas para, na segunda fase da dosimetria, configurar a reincidência, e, na primeira etapa, serem sopesadas apenas como maus antecedentes, sob pena de bis in idem. Na hipótese, por certo, verifica-se que a personalidade do réu e a sua conduta social foram tidas por desfavoráveis em virtude das suas condenações penais anteriores, o que deve ser tido como fundamento inidôneo para a exasperação da pena-base.
+(..)
+(HC 371.559/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/03/2018, DJe 26/03/2018)
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. (..). DOSIMETRIA. CONDENAÇÕES DEFINITIVAS. EXASPERAÇÃO TANTO A TÍTULO DE MAUS ANTECEDENTES QUANTO DE CONDUTA SOCIAL E DE PERSONALIDADE. MOTIVAÇÃO INIDÔNEA. BIS IN IDEM. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+IV - "A circunstância judicial conduta social, prevista no art. 59 do Código Penal, compreende o comportamento do agente no meio familiar, no ambiente de trabalho e no relacionamento com outros indivíduos. Vale dizer, os antecedentes sociais do réu não se confundem com os seus antecedentes criminais. São vetores diversos, com regramentos próprios. Doutrina e jurisprudência. 2. Assim, revela-se inidônea a invocação de condenações anteriores transitadas em julgado para considerar a conduta social desfavorável, sobretudo se verificado que as ocorrências criminais foram utilizadas para exasperar a sanção em outros momentos da dosimetria. 3. Recurso ordinário em habeas corpus provido" (RHC n. 130.132/MS, Segunda Turma, Rel. Min. Teori Zavascki, julgado em 10/5/2016, grifei).
+V - A existência de condenação definitiva também não é fundamento idôneo para desabonar a personalidade do paciente, sob pena de bis in idem. Ademais, não é possível que o magistrado extraia nenhum dado conclusivo, com base em tais elementos, sobre a personalidade do agente. Assim, não havendo dados suficientes para a aferição da personalidade, mostra-se incorreta a sua valoração negativa, a fim de supedanear o aumento da pena-base (precedentes).
+(HC 388.034/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/05/2017, DJe 09/06/2017)
+Por tais razões, verificada a inadequação da consideração negativa da personalidade e da conduta social, deve-se afastar a valoração negativa dessas moduladoras, redimensionando-se a pena aplicada ao recorrente.
+Destarte, na primeira fase, remanescendo a valoração desfavorável dos antecedentes, fixa-se a pena base em 4 (quatro) anos e 6 (seis) meses de reclusão e 11 (onze) dias-multa.
+Na segunda etapa, reconhecida a agravante da reincidência, elevou-se a reprimenda em 6 (seis) meses, pelo que fica estabelecida, nessa fase, em 5 (cinco) anos de reclusão e 12 (doze) dias-multa.
+Por fim, pelo concurso de agentes, majorou-se na fração de 1/3 (um terço), restando a pena definitiva em 6 (seis) anos e 8 (oito) meses de reclusão e pagamento de 16 (dezesseis) dias-multa.
+Por tais razões, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea c, ambos do Regimento Interno do Superior Tribunal de Justiça, conhece-se do agravo para dar provimento ao recurso especial, para reduzir a pena-base aplicada, restando as reprimendas finais fixadas definitivamente em 6 (seis) anos e 8 (oito) meses de reclusão e 16 (dezesseis) dias-multa, mantidos os demais termos do acórdão objurgado.
+Publique-se e intimem-se.
+Cientifique-se o Ministério Público Federal.
