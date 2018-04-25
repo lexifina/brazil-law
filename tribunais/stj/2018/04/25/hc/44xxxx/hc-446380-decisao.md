@@ -1,0 +1,21 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. SENTENÇA. REGIME INICIAL FECHADO. QUANTIDADE DE DROGA (APROX. 321,3G DE CRACK E 326,7G DE COCAÍNA). FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação n. 0007345-19.2014.8.26.0360).
+Narram os autos que o Juízo da 2ª Vara da comarca de Mococa/SP condenou o paciente às penas de 5 anos de reclusão, no regime inicial fechado, e 500 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Interposta apelação pelo Ministério Publico e pela defesa, o Tribunal local negou provimento ao recurso da defesa e deu provimento parcial ao recurso Ministerial para condenar o ora paciente às penas de 8 anos de reclusão e 1.200 dias-multa por infração ao disposto nos art. 33, caput, e art. 35, caput, ambos da Lei n. 11.343/2006 (fl. 53).
+Aqui, o impetrante indica a existência de constrangimento ilegal na fixação do regime inicial fechado.
+Ressalta que o condenado não reincidente, cuja pena seja superior a 4 anos e não exceda a 08 (oito) anos, poderá, desde o princípio, cumpri-la em regime semiaberto (fl. 2) e que o paciente preenche os requisitos para concessão da benesse, uma vez que é primário, ostenta bons antecedentes, não se dedica a atividades criminosas nem integra facção (fl. 2).
+Requer, assim, inclusive em liminar, a concessão da ordem para que seja fixado o regime inicial semiaberto.
+É o relatório.
+Observa-se que o Juízo de origem fixou o regime inicial fechado por entender que o contexto delituoso em comento é extremamente grave, sobremaneira se considerando que, em concreto, foram encontradas uma pedra bruta de crack, pesando 321,3g (fl. 154) e 326,7g de cocaína, acondicionada em uma única porção (fl. 215), bem como uma balança de precisão (fls. 142/144) e um caderno de anotações, quanto a contabilidade do tráfico (fls. 133/141), entre outros objetos que indicam a traficância, como os tubos plásticos para acondicionar a droga à ser comercializada (fl. 23).
+Por sua vez, o Tribunal a quo, ao manter o regime inicial, dispôs que (fls. 47/48 - grifo nosso):
+ ..  não poderia mesmo ser outro que não o fechado, haja vista a extrema perniciosidade da conduta, valendo relembrar que a quantidade de drogas apreendidas atingiria um sem número de usuários, causando consequências nefastas para eles próprios, suas famílias e ao corpo social como um todo; cuida-se de verdadeiro cancro que fomenta a prática de tantos outros delitos, devendo ser severamente coibido, como bem fundamentado na sentença.
+Nesse contexto, regime inicial mais brando não atenderia aos fins da pena, nem surtiria efeito na assimilação da terapêutica penal por parte dos acusados, sobretudo no que se refere à função de prevenção especial positiva da reprimenda.
+Outrossim, a fixação de regime inicial fechado não se afigura inconstitucional, uma vez que reflete apenas a intenção legislativa de coibir mais duramente as condutas dos autores de crimes hediondos e equiparados, os quais o legislador reconheceu possuírem maior lesividade social, o que não impede a realização do princípio da individualização, a ser observado na fixação e na execução da pena  ..
+Ora, em que pese a ilegalidade da referência à hediondez do delito, a jurisprudência desta Corte Superior entende que a quantidade de drogas é motivação idônea para fixação do regime inicial mais gravoso. Confira-se: HC n. 351.735/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/5/2016, e HC n. 347.897/SP, de minha relatoria, Sexta Turma, DJe 1/7/2016.
+Ademais, a interpretação do Enunciado n. 440 da Súmula desta Corte Superior em sentido inverso, conduz ao entendimento de que se a pena-base é fixada acima do mínimo legal, como no caso em análise (fls. 22 e 43), é cabível a imposição de regime inicial mais rigoroso de cumprimento da pena.
+Portanto, ausente constrangimento ilegal decorrente da fixação do regime inicial de cumprimento de pena.
+Ante o exposto, indefiro liminarmente o pedido de habeas corpus nos termos do art. 210 do RISTJ.
+Publique-se.
