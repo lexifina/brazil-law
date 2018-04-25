@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. NEGÓCIO JURÍDICO. CONCLUSÃO NO SENTIDO DA EXISTÊNCIA DE DOAÇÃO, NÃO DE CONTRATO VERBAL DE UMA MOTOCICLETA. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por [NOME], com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fls. 207-219):
+PROCESSO CIVIL. DIREITO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RECONVENÇÃO. ALEGAÇÃO DE CESSÃO VERBAL DE DIREITOS SOBRE VEÍCULO. IMPROCEDÊNCIA. DOAÇÃO DE MOTOCICLETA. INDENIZAÇÃO POR DANOS MORAIS DEVIDA À RÉ-RECONVINTE. SENTENÇA MANTIDA. PRELIMINAR DE CERCEAMENTO DE DEFESA REJEITADA.
+1. "A invalidade de ato jurídico é medida excepcional, que é autorizada quando restarem patentes eventuais máculas no acordo efetivado pelas partes, ou seja, quando estiver cabalmente demonstrada a existência de vício de consentimento ou mesmo a ausência de seus requisitos essenciais de validade." (Acórdão n.919137, 20140710290737APC, Relator: FLAVIO ROSTIROLA, Revisor: GILBERTO [NOME] DE OLIVEIRA, 3ª Turma Cível, Data de Julgamento: 03/02/2016, Publicado no DJE: 16/02/2016. Pág.: 178)
+2. Configurada a doação de bem móvel (motocicleta) pelo autor-reconvindo à ré-reconvinte, sem qualquer vício de consentimento, deve ser considerado válido o ato jurídico.
+3. Por ter o autor-reconvindo se apropriado indevidamente do veículo automotor objeto da lide, utilizando-se de meios ilegítimos e em desrespeito à decisão interlocutória que indeferiu o pedido de busca e apreensão, estão caracterizados os danos extrapatrimoniais sofridos pela ré-reconvinte, consolidados pela violação ao seu direito de propriedade constitucionalmente garantido.
+4. Apelação conhecida, mas não provida. Preliminar rejeitada. Unânime.
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts. 186, 187, 402, 421, 422, 475 e 884 do Código Civil.
+Esclareceu que se insurgiu contra o julgamento estadual de ação rescisória de contrato verbal e de reconvenção, ambas as demandas referentes a direitos sobre uma motocicleta. Ponderou que os autos evidenciam a existência de uso do nome do ora recorrente para a aquisição do veículo pela recorrida, não de doação do referido bem. Informou que emprestou seu nome gratuitamente e teve que pagar pelo objeto, sendo certo que a recorrida recebeu o empréstimo do nome do insurgente, mas não cumpriu com sua obrigação e ainda ficou com a motocicleta.
+Enfatizou que foram desrespeitados no acórdão princípios regentes do direito das obrigações, como a necessidade de observância da boa-fé objetiva, da probidade, da função social do contrato e da ordem pública. Frisou que a manutenção do decisum ensejará enriquecimento sem causa da ré, o que não é admitido pelo art. 884 do Código Civil (e-STJ, fls. 221-237).
+Nas razões do agravo, a parte agravante impugna, de forma resumida, os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 258-260).
+Contraminuta apresentada (e-STJ, fls. 245-252).
+Brevemente relatado, decido.
+O acórdão concluiu que as provas colacionados aos autos demonstraram que o autor, ora agravante, doou a motocicleta, objeto da presente controvérsia, à recorrida de livre e espontânea vontade, sem nenhum ônus. Ou seja, firmou o decisum que não se tratou de contrato verbal para a aquisição do bem por [NOME], mas de doação a ela, com quem ele mantinha um relacionamento amoroso (e-STJ , fls. 216, 217-218).
+Portanto, não há como conhecer do recurso, pois fundado na apreciação de fatos e provas, atraindo a aplicação da Súmula 7/STJ por ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor da ação principal e da reconvenção.
+Publique-se.
