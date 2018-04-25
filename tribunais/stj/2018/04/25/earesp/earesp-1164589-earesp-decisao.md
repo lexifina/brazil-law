@@ -1,0 +1,37 @@
+DECISÃO
+1. Trata-se de embargos de divergência interpostos contra acórdão proferido pela Primeira Turma, assim ementado:
+PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO PUBLICADO NA ÉGIDE DO CPC/73. RECURSO ESPECIAL. PREPARO. COMPROVANTE ILEGÍVEL. DESERÇÃO.
+1. "Nos termos da jurisprudência do Superior Tribunal de Justiça, no ato de interposição, o recurso especial deve estar acompanhado das guias de preparo, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção." (AgInt no AREsp 957.219/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/09/2017, DJe 21/11/2017).
+2. Agravo interno a que se nega provimento.
+Sustenta a embargante dissídio jurisprudencial com os seguintes arestos:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE CONTRÁRIA. FALHA NA INTIMAÇÃO DO ACÓRDÃO RECORRIDO. TEMPESTIVIDADE. COMPROVANTE DO RECOLHIMENTO BANCÁRIO ILEGÍVEL NOS AUTOS ORIGINAIS. [NOME]. FALHA NÃO ATRIBUÍVEL AO RECORRENTE.
+ ..
+5. Todavia, a partir da entrada em vigor da Lei 12.322/2010, a formação do agravo foi bastante simplificada, a fim de que o recurso fosse processado nos próprios autos originários, que passaram a ser remetidos a esta Corte, para julgamento. Dispensou-se, desta forma, o agravante de providenciar a juntada de cópias do processo.
+6. Destarte, considerando que, na hipótese em exame, a intimação da decisão que inadmitiu o recurso excepcional ocorreu já na vigência da novel disciplina legal, esta deve ser imediatamente aplicada. Não há, portanto, como se impor ao agravante a responsabilidade por eventual ilegibilidade ou incompletude do processo original que fora remetido a esta Corte, até porque eventual falha no sistema de digitalização dos autos físicos somente poderá ser atribuída à Secretaria do órgão.
+7. Registre-se, ainda, que o recolhimento das custas processuais fora realizado por ocasião do protocolo do recurso especial, ou seja, em agosto de 2010, motivo pelo qual houve um desgaste natural do comprovante bancário, cuja ilegibilidade, a toda evidência, também não pode ser imputável ao agravante.
+8. Agravo regimental não provido.
+(AgRg no AREsp 72.081/BA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/06/2012, DJe 06/08/2012)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. COMPROVANTE DE PAGAMENTO DO PREPARO DO RECURSO ESPECIAL. ILEGIBILIDADE. POSSIBILIDADE DE SE AFERIR A REGULARIDADE DO PREPARO RECURSAL POR OUTROS MEIOS. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS.
+1. Embora as cópias dos comprovantes de pagamento fornecidos pelo estabelecimento bancário responsável pelo recolhimento dos valores relativos ao preparo do recurso especial estejam ilegíveis, a regularidade do preparo recursal pode ser aferida por outros meios.
+2. O cotejo entre a certidão fornecida pelo Tribunal de origem, que atesta que o preparo do recurso especial ocorreu de modo regular, e as cópias das Guias de Recolhimento da União (GRU) relativas ao recolhimento do porte de remessa e retorno dos autos e das custas judiciais devidamente preenchidas conduz à conclusão de que o agravo de instrumento foi instruído com documentação apta a demonstrar a regularidade do preparo do apelo especial, circunstância que autoriza seja afastado o óbice ao conhecimento do agravo de instrumento apontado pela decisão aqui agravada.
+3. Precedente (AgRg no Ag 1.098.891/RJ, Relator o Ministro CASTRO MEIRA, DJe de 2/2/2010) 4. Agravo regimental provido para reconsiderar a decisão agravada e determinar a subida dos autos do recurso especial.
+(AgRg no Ag 1249558/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2011, DJe 13/12/2011)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SÚMULAS 7 E 182/STJ E SÚMULA 284/STF. NÃO CABIMENTO. RECURSO ESPECIAL. EXECUÇÃO. DECISÃO QUE DETERMINA O ARQUIVAMENTO DO FEITO. NATUREZA DE SENTENÇA. ART. 162, C/C ART. 513 DO CÓDIGO DE PROCESSO CIVIL. RECURSO CABÍVEL. APELAÇÃO. PRECEDENTES.
+1. Tratando-se de decisão que põe fim ao procedimento executivo, não há como entender desarrazoada a alegação de que o recurso cabível é a apelação (art. 162, c/c o art. 513 do Código de Processo Civil).
+2. Agravo regimental não provido.
+(AgRg no Ag 1160413/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/06/2012, DJe 27/06/2012)
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PORTE DE REMESSA E RETORNO. GRU. NÚMERO DE REFERÊNCIA AUSENTE. JUNTADA DA GUIA ORIGINAL. DIVERGÊNCIA DEMONSTRADA. DESERÇÃO AFASTADA. EMBARGOS ACOLHIDOS.
+1. O Supremo Tribunal Federal quando assentou a razão de não se admitir divergência na aplicação de regra técnica de admissibilidade do recurso, revelando natureza meramente infringente do debate sobre o equívoco ou não na aplicação da regra; ressalvou expressamente quanto ao debate de teses antagônicas à própria regra.
+2. Quando a discussão se estabelece sobre a própria regra de conhecimento, esta evidentemente passível de dissenso a desafiar também a uniformização de jurisprudência.
+3. Desconsidera-se a deserção por se ter em conta que o comprovante do pagamento das custas do Recurso Especial foi juntado aos autos na sua via original, o que afasta a possibilidade de fraude no recolhimento das custas.
+4. Em princípio, deve sempre ser prestigiada a boa-fé do recorrente, isto é, deve-se partir da presunção de que as partes litigantes se comportarão de forma leal; assim, embora a exigência formal não seja em si descabida ou desnecessária, as consequências do seu descumprimento devem ser apreciadas sob a ótica da razoabilidade e da proporcionalidade.
+5. Embargos de Divergência acolhidos.
+(EREsp 781.135/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 06/05/2015, DJe 20/05/2015)
+Aduz que:
+Saliente-se que ao chegarem a este Col. Superior Tribunal de Justiça, os presentes autos, digitalizados pelo Tribunal de origem, apresentavam os recursos especiais interpostos pela ora Embargante devidamente instruídos com as guias de recolhimento das custas recursais (GRU"s) e com as guias de recolhimento das custas devidas ao Tribunal de origem (DARJs), acompanhadas dos respectivos comprovantes de pagamento, embora estes últimos se mostrassem parcialmente ilegíveis, como se vê às fls. e-STJ Fl. 600 e e-STJ Fl. 601 do volume 1 e às fls. e-STJ Fl. 877 e e-STJ Fl. 878 do apenso 1.
+24. Ocorre que, a ora Embargante localizou em seus arquivos cópias perfeitamente legíveis das GRUs e dos DARJs que instruíram seus recursos especiais e que correspondem, exatamente, às guias e comprovantes de pagamento constantes das referidas fls. e-STJ Fl. 600 e e-STJ Fl. 601 do volume 1 e das fls. e-STJ Fl. 877 e e-STJ Fl. 878 do apenso 1, o que permite verificar a regularidade do preparo recursal, tendo sido tais cópias anexadas ao agravo interno.
+25. Certamente, portanto, a ilegibilidade dos comprovantes de pagamento das custas recursais decorreu da perda parcial da coloração e do contraste dos papéis térmicos bancários em que impressos tais comprovantes e não de qualquer ato ou omissão atribuível à Embargante.
+É o relatório.
+2. Demonstrada, em princípio, a divergência e cumpridas as formalidades legais, admito os presentes embargos.
+3. Após, abra-se vista à parte embargada, pelo prazo de 15 (quinze) dias, para, querendo, apresentar impugnação (art. 267 do RISTJ) e ao Ministério Público (art. 266-D).
+Publique-se. Intimem-se.
