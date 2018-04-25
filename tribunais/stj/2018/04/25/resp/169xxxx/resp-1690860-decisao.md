@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais, assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - NOVA AVALIAÇÃO DO BEM PENHORADO CONDICIONADA AO PAGAMENTO DOS HONORÁRIOS PERICIAIS - DECISÃO ANTERIOR - AUSÊNCIA DE RECURSO - PRECLUSÃO. Se houve decisão anterior, não recorrida, que condicionou a realização de nova avaliação do bem penhorado ao pagamento dos honorários periciais e intimou o agravante para o recolhimento da verba, deixando ele de cumprir tal determinação judicial, como no caso em tela, impõe-se o indeferimento da prova, já que preclusa a oportunidade de irresignar-se contra tal determinação.
+O recorrente alega violação dos arts. 3º, inciso V, da Lei n. 1.060/50 e 465, § 3º, do Código de Processo Civil de 2015. Sustenta ser beneficiário da justiça gratuita e por isso possui isenção do pagamento de honorários periciais. Alega que o procedimento de intimação previsto no art. 465, § 3º, do CPC/2015 não foi observado pelo acórdão recorrido, bem como defende que não houve preclusão da matéria que versa sobre o valor e o pagamento dos honorários periciais.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Observo que os temas de que cuidam o art. 3º, inciso V, da Lei n. 1.060/50 (isenção de pagamento de honorários periciais) e 465, § 3º, do CPC/2015 (momento da intimação das partes sobre a avaliação dos honorários periciais) não foram objeto de discussão e pronunciamento no acórdão recorrido. Ausente o prequestionamento, não se conhece do recurso especial, consoante a Súmula 211 desta Corte.
+Quanto à tese de ausência de preclusão da matéria referente ao valor e ao pagamento dos honorários periciais, verifica-se que nas razões do recurso especial não houve indicação de quais dispositivos legais teriam sido supostamente violados pelo acórdão local, de modo que incide o verbete n. 284 da Súmula do STF.
+De igual teor:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que nega provimento.
+(AgInt no AREsp 1.126.226/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/10/2017, DJe 30/10/2017), grifo nosso.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
