@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo manejado pela Fazenda Nacional contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 154):
+PROCESSUAL CIVIL - AGRAVO LEGAL - EXECUÇÃO DE TÍTULO JUDICIAL - CÁLCULO DE LIQUIDAÇÃO NOS AUTOS PRINCIPAIS - SUBSTITUÍDOS POR NOVOS CÁLCULOS EM SEDE DE EMBARGOS - LAUDO DO CONTADOR -APURAÇÃO DOS VALORES CONSOLIDADOS NO TÍTULO - ACATAMENTO PELA SENTENÇA - POSSIBILIDADE - CÁLCULOS DE LIQUIDAÇÃO INICIAIS PREJUDICADOS-DECISÃO EXTRA PETITA - INOCORRÊNCIA
+I - Os cálculos de liquidação dos autos principais restaram prejudicados, por terem sido substituídos por outro nesta sede.
+II - In casu, a sentença não é extra petita, já que a nova cifra de liquidação apresentada pela parte embargada supera o montante apurado pelo contador judicial.
+III - Não havendo demonstração que ao laudo do contador está em desacordo com a sentença, nada impede que seja utilizado a título de liquidação.
+IV - A aplicação de índices de correção monetária em liquidação de sentença não acarreta infração ao art. 460 do Código de Processo Civil, por visar apenas a manutenção do valor aquisitivo da moeda.
+V - Espelhando o laudo pericial o valor consolidado do título judicial, se prosseguisse a execução com base na primitiva liquidação dos autos principais, a Fazenda Pública experimentaria enriquecimento sem causa.
+VI - Agravo legal provido.
+Opostos embargos declaratórios, estes foram rejeitados (fls. 163/170).
+Nas razões do especial, o INSS alega violação dos arts. 535, II, do CPC/73, 2º, 128, 460 e 473 do CPC/1973. Sustenta negativa de prestação jurisdicional, bem como aduz que a ocorrência de julgamento ultra petita, tendo em vista que "em sede de execução e embargos à execução cujo montante exeqüendo foi delimitado pelo contribuinte, esse deve ser o montante máximo imputável ao embargante ante aos invocados princípios da congruência entre principio e sentença e da inércia" (fl. 178).
+Houve contrarrazões (fls. 184/191).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/1973; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 ("Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça").
+Feita essa observação, verifica-se, inicialmente, não ter ocorrido ofensa ao art. 535 do CPC/1973, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, melhor sorte não assiste ao recorrente, pois, consoante pacífica a orientação desta Corte, "o acolhimento dos cálculos elaborados por Contador Judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado" (AgRg no Ag 1088328/SP, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 22/6/2010, DJe 16/8/2010).
+Sobre a questão, confiram-se, entre inúmeros outros, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. ACOLHIMENTO DOS CÁLCULOS DO CONTADOR JUDICIAL. VALORES SUPERIORES AOS INDICADOS PELA PARTE EXEQUENTE. JULGAMENTO ULTRA PETITA. NÃO CONFIGURAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - Segundo orientação desta Corte, o acolhimento de cálculos elaborados pela contadoria oficial, embora superiores àqueles apresentados pela parte exequente, não configura hipótese de julgamento ultra petita, à vista da necessidade de ajustar os cálculos aos parâmetros da sentença exequenda, garantindo a perfeita execução do julgado.
+ ..
+V - Agravo Interno improvido.
+(AgInt no REsp 1.650.796/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 15/8/2017, DJe 23/8/2017).
+TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ADOÇÃO DOS CÁLCULOS DA CONTADORIA JUDICIAL. DECISÃO ULTRA PETITA. NÃO-OCORRÊNCIA. ACÓRDÃO RECORRIDO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ.
+ ..
+2. Por outro lado, é assente o posicionamento do STJ no sentido de que "O acolhimento dos cálculos elaborados por Contador Judicial em valor superior ao apresentado pelo exequente não configura julgamento ultra petita, uma vez que, ao adequar os cálculos aos parâmetros da sentença exequenda, garante a perfeita execução do julgado" (AgRg no Ag 1088328/SP, Rel. Ministro Napoleão Nunes Maia Filho, Quinta Turma, julgado em 22/6/2010, DJe 16/8/2010). Precedentes: AgRg no AREsp 230.897/PB, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 10/11/2015, DJe 20/11/2015; AgRg no AREsp 563.091/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 25/11/2014, DJe 4/12/2014.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 770.660/SP, de minha relatoria, PRIMEIRA TURMA, julgado em 08/03/2016, DJe 28/03/2016).
+No mesmo sentido, as seguintes decisões monocráticas: REsp 1.614.627/PR, de minha relatoria, DJe de 12/09/2017; REsp 1.686.503/RJ, Rel. Ministra Regina Helena Costa, DJe de 4/9/2017; REsp 1.648.198/RS, Rel. Ministro Mauro Campbell Marques, DJe de 17/5/2017; e REsp 1.587.850/SP, Rel. Ministro Humberto Martins, DJe de 1º/7/2016.
+Nesse contexto, a Corte a quo que decidiu a controvérsia nos seguintes termos (fls. 151/152):
+Primeiramente é oportuno relatar que, apesar de a parte embargada ter inicialmente apurado no processo principal a título de liquidação da sentença o montante de R$ 25.548,13, procedeu novos cálculos de liquidação, agora em conformidade com os índices da Portaria Conjunta nº 01/96 indicados pela autarquia, requerendo que a execução prosseguisse pela nova cifra apurada de R$ 152.482,38 ( cento e cinqüenta e dois mil, quatrocentos e oitenta e centavos e trinta e oito centavos), conforme demonstrado à fls 05/08 destes autos.
+Sendo assim, com a nova liquidação os cálculos dos autos principais restaram prejudicados, motivo pelo qual não há falar em sentença "extra petita". Para se certificar do real valor consolidado no título em execução, o MM juiz a quo remeteu os autos à Contadoria Judicial que apurou a montante de R$ 141.862,40 ( cento e quarenta e um mil, oitocentos e sessenta e dois reais e quarenta centavos).
+No que diz respeito aos cálculos apresentados pelo Setor de Cálculos e Liquidação, não foi demonstrado que estavam em desacordo com o título judicial, portanto, nada impede que sejam acolhidos pelo magistrado a título de liquidação.
+(..)
+Com efeito, mesmo que o julgador não esteja vinculado ao laudo pericial, tal questão depende da análise da prova existente nos autos, por abranger critérios técnicos e complexos nem sempre dominados pelo juiz da causa, motivo pelo qual devem ser devidamente analisadas as considerações feitas pelo perito judicial.
+Por estar em consonância com o entendimento deste Superior Tribunal de Justiça, o acórdão recorrido não merece reparos.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
