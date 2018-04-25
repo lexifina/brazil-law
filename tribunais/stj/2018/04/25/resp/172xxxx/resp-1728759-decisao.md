@@ -1,0 +1,9 @@
+DECISÃO
+Vistos, etc.
+Mediante análise dos autos, verifica-se que a Vice-Presidência do Tribunal de origem, após constatar que o acórdão recorrido divergia da orientação firmada por esta Corte Superior em processo submetido ao rito dos recursos repetitivos, determinou a devolução dos autos ao órgão julgador, nos termos do art. 543-C, § 7º, inciso II, do Código de Processo Civil.
+Contudo, o entendimento firmado no acórdão recorrido foi mantido por meio de decisão monocrática do relator (fl. 434).
+Ocorre que o art. 543-C, § 7º, inciso II, do CPC, determina que o recurso especial deve ser novamente examinado pelo tribunal de origem na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça, ou seja, o reexame deve ser feito pelo órgão prolator do acórdão no Tribunal, em atenção ao princípio da colegialidade.
+O atual art. 1.040, II, do CPC, é no mesmo sentido, ao determinar que, publicado o acórdão paradigma, (..), o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior.
+Com efeito, em Questão de Ordem suscitada nos autos dos Recursos Especiais 1.148.726/RS, 1.154.288/RS, 1.155.480/RS, 1.158.872/RS, 1.153.937/RS e 1.146.696/RS, a Corte Especial deste Superior Tribunal de Justiça firmou entendimento no sentido de que o decisum monocrático que, em juízo de retratação, mantém acórdão divergente da orientação fixada no âmbito dos recursos repetitivos pelo STJ, não se enquadra nas hipóteses previstas no art. 557 do CPC.
+Ante o exposto, DETERMINO A DEVOLUÇÃO dos autos ao Tribunal de origem, para que o órgão colegiado se pronuncie conforme sistemática prevista no art. 1.040, II, do CPC.
+Publique-se. Intimem-se.
