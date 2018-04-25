@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSO-CRIME – COMPETÊNCIA – RELEVÂNCIA NÃO DEMONSTRADA.
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara Única da Comarca de Monte Alegre/MG, no processo nº 0002258-93.2018.8.13.0428, converteu em preventivas as prisões em flagrante do paciente e de mais três pessoas, ocorridas em 21 de fevereiro de 2018, ante a suposta prática das infrações descritas nos artigos 33, cabeça (tráfico de drogas) e 35(associação para o tráfico), da Lei nº 11.343/2006. Teve como indispensável a custódia, aludindo à garantia da ordem pública. Destacou a quantidade de entorpecentes apreendidos – 32 tabletes de cocaína, totalizando 31 quilos. Entendeu pela insuficiência de medida cautelar alternativa.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 439.377/MG, indeferido liminarmente pelo Relator.
+    O impetrante aponta a incompetência do Juízo, afirmando competente o da Subseção Judiciária Federal de Ituiutaba, local da apreensão da droga. Acrescenta que a prisão em flagrante decorreu de investigação alusiva ao tráfico internacional, dizendo tratar-se de competência da Justiça Federal. Articula com incompetência territorial do Juízo da Comarca de Monte Alegre. Aduz ser o caso de superação do verbete nº 691 da Súmula do Supremo. Alega que o ato mediante o qual imposta a preventiva lastreou-se em fundamentação genérica contrariando o disposto no artigo 312, do Código de Processo Penal.
+    Requer, no campo precário e efêmero, a revogação da preventiva. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 19 de abril último, revelou ter sido o processo-crime concluso ao Juízo, em 11 de abril do corrente ano.
+    A etapa é de apreciação da medida acauteladora.
+    2. Está-se no campo do Direito Penal, com envolvimento da liberdade de ir e vir do paciente. Cumpre observar a Carta Federal no que prevê a ação de habeas corpus . A adequação pressupõe, tão somente, seja articulada, na inicial, a ilegalidade de ato e haja órgão capaz de examiná-lo sob o ângulo do merecimento. Dizer-se incabível habeas corpus contra pronunciamento de Turma do Supremo é mitigar a garantia constitucional. Admito a impetração.
+    O artigo 40, inciso I, da Lei 11.343/06 define as balizas que devem ser consideradas para avaliar o caráter transnacional do delito de tráfico de drogas, a ensejar a competência da Justiça Federal, consoante disposto no artigo 70 do mesmo Diploma Legal. A caracterização da competência da Justiça Federal, considerada a prática de tráfico de entorpecentes, pressupõe a comprovação, por elementos concretos, do caráter internacional do contexto delituoso. Na espécie, ainda que, em depoimento, o policial civil tenha aludido à suposta aquisição de pasta base de cocaína na Bolívia, não surgem elementos suficientemente aptos a concluir-se nesse sentido, pois a alusão genérica à circunstância reveladora da competência da Justiça Federal não implica o deslocamento da jurisdição.
+    No tocante à articulada incompetência do Juízo da Comarca de Monte Alegre de Minas, porquanto os entorpecentes teriam sido apreendidos na cidade de Ituiuaba, o argumento não merece acolhimento. Os crimes atribuídos ao paciente são de caráter permanente, de modo que, ante o disposto nos artigos 70, §3º e 71, do Código de Processo Penal, a competência há de ser firmada pela prevenção. Não há ilegalidade a ser reconhecida na distribuição do processo àquela Comarca.
+    A par disso, a incompetência territorial é relativa, cujo reconhecimento não implicaria nulidade dos atos praticados.
+    Relativamente aos argumentos por meio dos quais formalizada a preventiva, observem que a gradação do tráfico de entorpecentes, considerada a quantidade de drogas encontradas – 32 tabletes de cocaína, perfazendo 31 quilos –, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, presentes os fortes indícios de periculosidade, a custódia se impunha. Daí, no caso específico, ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 25 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
