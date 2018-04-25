@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “CÍVEL. APELAÇÃO. AÇÃO DE REPARAÇÃO DE DANOS. AUTORES POLICIAIS FEDERAIS QUE IMPUTAM AO REQUERIDO – PROMOTOR DE JUSTIÇA – A PRÁTICA DE CONDUTAS OFENSIVAS À HONRA E INTEGRIDADE PROFISSIONAL DOS PRIMEIROS: (A) OITIVA EM INQUÉRITO PARA APURAR SUPOSTO CRIME PRATICADO POR ELES; (B) AFIRMATIVA EM SINDICÂNCIA DO MINISTÉRIO PÚBLICO QUE OS POLICIAIS FEDERAIS TERIAM FUGIDO DE LOCAL DO CRIME POR MEDO, E (C) ACUSAÇÃO DE QUE O APELADO TERIA SIDO AMEAÇADO POR UM DOS AUTORES MEDIANTE USO DE ARMA DE FOGO. SENTENÇA QUE JULGA EXTINTO O FEITO, SOB O FUNDAMENTO DE ILEGITIMIDADE PASSIVA. AUSÊNCIA DE DELIBERAÇÃO SOBRE A PRODUÇÃO DAS PROVAS REQUERIDAS PELAS PARTES. ATUAÇÃO DO APELADO – SE NO ESTRITO EXERCÍCIO DE SUAS FUNÇOES OU COM ABUSO E DOLO – QUE REQUER EXAME DE PROVAS. SENTENÇA CASSADA. RECURSO PROVIDO PARA CASSAR A SENTENÇA E ORDENAR A BAIXA DOS AUTOS PARA QUE O JUÍZO A QUO DELIBERE SOBRE AS PROVAS CUJA PRODUÇÃO FOI REQUERIDA PELAS PARTES E DÊ SEGUIMENTO AO FEITO” (pág. 15 do volume eletrônico 14).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, sustenta-se violação ao art. 37, § 6°, da mesma Carta.
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido não se harmoniza com a jurisprudência desta Corte, segundo a qual o agente público não possui legitimidade passiva nas ações de responsabilidade civil amparadas no art. 37, § 6°, da Constituição, garantido o direito de o ente público propor ação de regresso em face do servidor. Nesse sentido, menciono o ARE 908.331-AgR, de relatoria do Ministro Dias Toffoli:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Responsabilidade civil do estado. Inclusão do agente público no polo passivo da demanda. Impossibilidade. Ilegitimidade passiva. Precedentes.
+    1. A jurisprudência da Corte firmou-se no sentido de não reconhecer a legitimidade passiva do agente público em ações de responsabilidade civil fundadas no art. 37, § 6º, da Constituição Federal, devendo o ente público demandado, em ação de regresso, ressarcir-se perante o servidor quando esse houver atuado com dolo ou culpa.
+    2. Agravo regimental não provido.”
+    Com a mesma orientação, menciono, dentre outros, os seguintes julgados: RE 470.996-AgR, de relatoria do Ministro Eros Grau; AI 552.366-AgR, de relatoria da Ministra Ellen Gracie; RE 344.133, de relatoria do Ministro Marco Aurélio; e RE 327.904, de relatoria do Ministro Ayres Britto.
+    Isso posto, dou provimento ao recurso (art. 21, §2º, RISTF) para restabelecer da sentença de 1º grau. Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2°, do CPC.
+    Publique-se.
+    Brasília, 25 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
