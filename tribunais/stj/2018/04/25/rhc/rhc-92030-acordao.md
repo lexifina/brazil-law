@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nos presentes autos, em que os recorrentes teriam cometido o delito mediante o uso de arma de fogo, que foi apontada para a cabeça da vítima, e em concurso de agentes.
+3. Recurso ordinário em habeas corpus desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de recurso ordinário em habeas corpus interposto por [NOME] e [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará.
+Colhe-se dos autos que os recorrentes tiveram a prisão em flagrante convertida em preventiva, pela suposta prática dos delitos tipificados nos arts. 157, § 2º, II, e 288, do Código Penal.
+Neste recurso, sustentam que: a)"não estão presentes os requisitos autorizadores da prisão preventiva"; b) "a decisão ora combatida está totalmente desprovida de fundamentação idônea" (e-STJ, fl. 317); c) "vislumbra-se a aplicação de medidas cautelares menos cruéis e diversas da prisão, que em si mesmas alcançam os fins que alega o nobre Juiz em seu decreto prisional" (e-STJ, fl. 330).
+Pleiteiam a revogação da prisão preventiva ou a substituição dela por medidas cautelares diversas.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+
+EMENTA
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nos presentes autos, em que os recorrentes teriam cometido o delito mediante o uso de arma de fogo, que foi apontada para a cabeça da vítima, e em concurso de agentes.
+3. Recurso ordinário em habeas corpus desprovido.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+No caso dos autos, a segregação cautelar dos recorrentes foi decretada pelos seguintes fundamentos:
+"Verifico, de logo, ainda que em prelúdio cognitivo, haver prova da materialidade e indícios suficientes de autoria do delito acima mencionado, nos moldes do que exige o art. 312 do Código de Processo Penal.
+ ..
+Atento a estas razões, firmo convencimento de que, na espécie, se faz presente, de forma concreta, para preservação da ordem pública e conveniência da instrução criminal, a necessidade da prisão cautelar dos autuados, razão pela qual se me afigura insubsistente a concessão do benefício da liberdade provisória, sendo também insuficiente, para tal desiderato, a aplicação de outra medida cautelar menos gravosa.
+Com efeito, se me afiguram que os argumentos desenvolvidos pela autoridade policial são suficientes à conversão do auto em preventiva. Os autuados, da forma em que cometeram o delito, causando grave e intenso abalo à paz social. O modus operandi empregado pelos roubadores indica a elevada periculosidade dos ora custodiados. Esses elementos, no presente momento, são suficientes para embasar a custódia cautelar, haja vista a presença, em concreto, do fumus comissi delicti e do periculum libertatis.
+ ..
+Em última análise, a prisão cautelar dos autuados, com fundamento na ordem pública e na conveniência da instrução criminal, reveste-se de suficiente legalidade, legitimidade e necessidade quando dos autos se extrai que a prisão não se baseia apenas na gravidade em tese dos delitos, mas amparada, ainda, como dito, no modus operandi da conduta e na necessidade de coibir a reiteração dos delitos e trazer novamente a paz ao meio social, motivo pelo qual, sou que presentes e subsistentes os motivos de ordem pública e para a conveniência da instrução criminal determinantes da custódia preventiva. Com efeito, os crimes trouxeram grave e séria repercussão à comunidade local cuja prisão preventiva dos roubadores visará a arrefecer os ânimos da já abalada população e evitar a escalada da violência.
+Anoto, por derradeiro, que a custódia cautelar tem contornos estritamente processuais, em razão da presença, também, do requisito da conveniência da instrução criminal, caracterizado pela concreta situação de os autuados influenciarem na produção da prova testemunhal e da vítima:
+ ..
+Impende assinalar o depoimento da vítima cujo depoimento instrui o inquérito policial relatado pelo diligente Delegado de Polícia Civil e que aponta o autuado [NOME] como um dos autores dos crimes, o que encostou a arma de fogo em sua cabeça expondo a sua integridade física e psíquica a risco concreto, enquanto os demais, embora não reconhecidos, aguardavam no interior do veículo Pálio Branco o qual fora igualmente reconhecido e apreendido por ocasião da prisão em flagrante. A custódia cautelar, de sua sorte, visará a preservar a incolumidade física e psíquica do ofendido.
+Por tais razões, tenho que subsistem os requisitos autorizadores da custódia cautelar dos autuados, quais sejam, resguardar a ordem pública e a conveniência da instrução criminal." (e-STJ, fls. 35-43)
+Como se vê, a custódia cautelar foi decretada para garantia da ordem pública, ante a gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado mediante o uso de arma de fogo, que foi apontada para a cabeça da vítima, e em concurso de agentes.
+O Superior Tribunal de Justiça possui entendimento consolidado de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão do modus operandi com que o crime fora praticado, como ocorreu no caos dos presentes autos.
+Sobre o tema, o seguinte precedente:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. ROUBO E CORRUPÇÃO DE MENORES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. INOCORRÊNCIA. PERICULOSIDADE DO AGENTE. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. REITERAÇÃO DELITIVA. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+IV - No caso, o decreto prisional se encontra devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam que a liberdade do ora paciente acarretaria risco à ordem pública, tendo em vista o fundado receio de reiteração delitiva, diante da extrema periculosidade, evidenciada pelo modus operandi da conduta praticada, com o emprego de arma de fogo. (Precedentes).
+ ..
+Habeas corpus não conhecido."
+(HC 325.125/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2015, DJe 6/11/2015).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE INOCÊNCIA. DESCABIMENTO. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. COAÇÃO ILEGAL NÃO DEMONSTRADA. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico (art. 5º, LXI, LXV e LXVI, da CF). Assim, a medida, embora possível, deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+2. No caso, as instâncias ordinárias se basearam em elementos concretos que demonstram a necessidade da medida extrema, sobretudo a gravidade da conduta e a periculosidade do agente, destacando o decreto constritivo que o recorrente praticou crime de roubo, com uso de arma de fogo, em local público e juntamente com dois outros corréus, sendo que constam notícias de que o grupo seria responsável por outros delitos de mesma natureza.
+3. As afirmativas a respeito da fragilidade dos indícios de autoria, uma vez que não teria confessado, e as testemunhas não o teriam reconhecido, consistem, em suma, em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+5. Recurso parcialmente conhecido e desprovido."
+(RHC 60.446/PB, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1/9/2016, DJe 6/9/2016).
+Ademais, o fato de os recorrentes possuírem condições pessoais favoráveis, por si só, não impede a decretação da prisão preventiva, consoante pacífico entendimento desta Corte: RHC 81.823/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 1/6/2017, DJe 9/6/2017; HC 352.480/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 1/6/2017, DJe 7/6/2017; RHC 83.352/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/5/2017, DJe 30/5/2017.
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura dos recorrentes. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1/6/2017, DJe 9/6/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 1/6/2017, DJe 9/6/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1/6/2017, DJe 9/6/2017.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+É como voto.
