@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “Ação de repetição de indébito. Pagamentos de contribuições parafiscais destinadas a associação de fornecedores de cana de açúcar. Artigos 36 , b, e 64 da Lei n. 4870/65. Base de cálculo fixada de comum acordo no contrato. Recurso não provido” (página 66 do documento eletrônico 4).
+    No RE, fundado no art. 102, III, a , da Constituição Federal, alega-se violação ao art. 150, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Destaco do voto condutor do acórdão recorrido:
+    “A Lei n. 4.870/1965 conferia ao IAA a competência para, mediante processo fiscal, para apurar as infrações ao disposto naquela lei e na legislação do próprio Instituto, pelos órgãos competentes do próprio Instituto. Ocorre que o IAA - Instituto do Açúcar e do Álcool foi extinto por meio do Decreto no 92.240, de 07 de maio de 1990; posteriormente, pelo Decreto n. 99.288, de 06 de junho de 1990, as atribuições e competência do extinto Instituto do Açúcar e do Álcool (IAA), e de seus órgãos, foram transferidas para a Secretaria do Desenvolvimento Regional do Governo Federal.
+    Como se vê, a questão objeto desta ação e apelação não diz respeito a tributo estadual, mas à CIDE, contribuição parafiscal federal. No entanto, o pedido é voltado à Associação dos Fornecedores de Cana da Região Oeste Paulista e à Cosan S/A, atual Raizen Energia S/A, razão pela qual não há como alterar a sentença. Vale o que foi contratado.
+    Assim, o recurso não deve ser provido, uma vez que, embora inexista preço oficial para a tonelada de cana de açúcar, o pedido não diz respeito à legislação aplicável nem a interesse da União Federal, mas sim a contrato entre as partes, que prevê desconto pela adquirente da cana de açúcar e repasse das contribuições à Associação e/ou Cooperativa interessada, com a base de cálculo correspondente ao ATR relativo, indicado pela CONSECANA-SP.
+    Como anotado na sentença, não se trata de contrato por adesão e a autora não demonstrou ter assumido a obrigação com vício de vontade. O critério de cálculo não é fixado pelas ora requeridas e não cabe a elas alterá-lo. Ademais, a autora concordou no contrato com a aplicação do regulamento da CONSECANA” (páginas 68-69 do documento eletrônico 1 – grifei).
+    Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas contratuais, o que inviabiliza o recurso extraordinário, nos termos das Súmulas 279/STF e 454/STF STF
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2°, do CPC e eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 25 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
