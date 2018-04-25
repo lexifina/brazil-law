@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com apoio no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça daquela unidade federativa que deu parcial provimento à apelação defensiva para reduzir a sanção corporal do recorrido, ao entendimento de que não configura maus antecedentes condenação criminal com mais de 5 (cinco) anos da extinção da pena imposta.
+Sustenta o recorrente violação do art. 59 do Código Penal, sob o fundamento de que condenações atingidas pelo lapso depurador do art. 64, I do CP, que não gerem reincidência devem ser consideradas maus antecedentes para efeito de elevação da pena-base.
+Requer, assim, o provimento do recurso especial, a fim de que seja reconhecida a presença dos maus-antecedentes.
+Apresentadas contrarrazões (e-STJ, fls. 307-503) e admitido o inconformismo, os autos ascenderam ao STJ.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 521-524).
+É o relatório.
+Decido.
+Quanto ao tema, este Superior Tribunal de Justiça tem posicionamento consolidado no sentido de que condenações criminais anteriores com mais de cinco anos de extinção da pena, embora não tenha o condão de gerar reincidência, podem ser sopesadas, no momento da fixação da pena-base, para dosar a reprimenda.
+Nesse sentido, a propósito, confira-se os seguintes precedentes:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE VIGÊNCIA AO ART. 59 DO CP. DOSIMETRIA. PENA-BASE. CONDENAÇÃO ANTERIOR COM TRÂNSITO EM JULGADO. MAIS DE CINCO ANOS. PERÍODO DEPURATIVO. UTILIZAÇÃO PARA NEGATIVAR OS ANTECEDENTES. POSSIBILIDADE. VIOLAÇÃO AO ART. 33, § 4º, DA LEI N.º 11.343/06. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. MAUS ANTECEDENTES. CIRCUNSTÂNCIA QUE IMPEDE A APLICAÇÃO DO REDUTOR. DEMAIS PLEITOS PREJUDICADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. "Segundo entendimento desta Corte, o período depurador de cinco anos afasta a reincidência, mas não retira os maus antecedentes" (HC 281.051/MS, minha relatoria, SEXTA TURMA, DJe 28/11/2013).
+2. A existência de maus antecedentes justifica a negativa da aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei n.º 11.343/06.
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 912.007/MS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/06/2016, DJe 01/08/2016);
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NOVA ORIENTAÇÃO JURISPRUDENCIAL. NÃO CABIMENTO. RECEPTAÇÃO QUALIFICADA. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. CONDENAÇÕES POSTERIORES AO DELITO DE CUJA DOSIMETRIA SE CUIDA REFERENTES A CRIMES PRATICADOS EM MOMENTO ANTERIOR. POSSIBILIDADE. QUANTUM DE AUMENTO NA FRAÇÃO DE UM TERÇO. DESPROPORCIONALIDADE. FIXAÇÃO DO PATAMAR DE UM QUARTO. REGIME INICIAL FECHADO. INADEQUAÇÃO. REGIME INTERMEDIÁRIO QUE SE IMPÕE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não-conhecimento da impetração.
+Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem, de ofício.
+II - A jurisprudência desta Corte tem admitido, a valoração negativa, como maus antecedentes, de condenações posteriores ao delito de cuja dosimetria se cuida, contanto que se refiram a crimes praticados em momento anterior, como no caso. (Precedentes).
+III - Condenações anteriores que foram cumpridas ou cuja pena fora extinta há mais de cinco anos do cometimento do delito, se não se prestam a atrair o instituto da reincidência, subsistem para efeitos de maus antecedentes. (Precedentes).
+IV - A personalidade e a conduta social do paciente não podem ser negativamente valoradas ante a completa ausência de remissão a elementos concretos presentes nos autos que viessem em seu desabono.
+(Precedentes).
+V - Com o reconhecimento de uma única circunstância judicial desfavorável, na primeira fase da dosimetria da pena, resta patente a desproporção do aumento no quantum de um terço, em razão das apenas duas condenações com trânsito em julgado, devendo o referido patamar ser reduzido a um quarto. (Precedentes).
+VI - Consoante o disposto no art. 33, § § 2º e 3º, do Código Penal, impõe-se o regime inicial semiaberto ao paciente, não reincidente, condenado a pena inferior a 4 (quatro) anos, mas que, não obstante, ostenta circunstância judicial desfavorável. (Precedentes).
+Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena do paciente ao patamar de três anos e nove meses de reclusão, no regime inicialmente semiaberto." (HC 355.343/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/06/2016, DJe 27/06/2016 - grifou-se.)
+Assim, os maus antecedentes devem ser considerados na fixação da pena-base.
+Portanto, a partir dos parâmetros estabelecidos na origem, passo à nova dosimetria da pena.
+Na primeira fase, ante o reconhecimento dos maus antecedentes, fixo a pena-base em 4 anos de reclusão e 12 dias-multa. Na segunda fase, em razão da compensação entre a agravante da reincidência e a atenuante da confissão, a pena permanece no mesmo patamar, tornando-se definitiva, ante a ausência de causas de aumento e diminuição.
+Por fim, quanto ao regime inicial de cumprimento da pena, estabelecida a pena de 4 anos de reclusão e verificada a reincidência e os maus antecedentes do recorrido, determina-se a fixação do regime fechado para o cumprimento inicial da pena reclusiva, consoante as diretrizes do art. 33, §§ 2º e 3º, do Código Penal.
+Ante o exposto, nos termos do art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial para fixar a pena do recorrido em 4 anos de reclusão e 12 dias-multa, no regime inicialmente fechado.
+Publique-se. Intimem-se.
