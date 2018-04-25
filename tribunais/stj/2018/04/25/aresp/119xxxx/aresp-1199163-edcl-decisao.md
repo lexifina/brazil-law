@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por COOPERATIVA NACIONAL AGRO INDUSTRIAL - COONAI em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica de todos os fundamentos da decisão que inadmitiu o recurso especial.
+Em suas razões, sustenta a parte Embargante, em síntese, que "é o caso de conhecer e dar provimento aos presentes embargos de declaração, a fim de que sejam sanadas a obscuridade e a omissão existentes na decisão publicada no dia 13 de dezembro de 2017 e, consequentemente, ser esclarecido: a) se o valor da causa é irrisório ou não; b) se o valor dos honorários passou de 10% para 15% do valor dado à causa; c) ou se o valor fixado foi elevado em 15%, passando de R$ 1.000,00 para R$ 1.150,00." (fl. 345).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados, esclarecendo-se também se o valor da causa é irrisório ou não.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Os embargos não comportam acolhimento.
+O novo Código de Processo Civil, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Ademais, conforme dicção do Enunciado Administrativo n.º 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Veja-se que, no presente caso, não há omissão uma vez que preenchidos os requisitos acima delineados.
+Relativamente à queixa da Embargante acerca de o valor da causa ser irrisório, tal fato deveria ser objeto de impugnação adequada no momento oportuno, não sendo devido, nesta oportunidade, qualquer manifestação acerca de tema, em especial em razão do não conhecimento do recurso.
+Também descabe
+Outrossim, tem-se que os honorários recursais foram majorados em desfavor da parte Agravante no importe de 15% sobre o montante já arbitrado (10% sobre o valor atualizado da causa - fl. 162), nos termos do § 11 do art. 85 do Código de Processo Civil. Não se trata de substituir os honorários sucumbenciais já fixados na origem. Os honorários sucumbenciais fixados nas instâncias ordinárias apenas servirão como base de cálculo sobre a qual incidirão os 15% ora majorados.
+Sobre o ponto, a própria Embargante bem registrou em sua peça recursal que "majorar no importe de 15% sobre o valor já arbitrado dá a entender que a elevação foi de R$ 1.000,00 (mil reais) para R$ 1.150,00 (mil cento e cinquenta reais), pois significa aumentar em 15% (e não para 15%) o que havia antes sido estabelecido" (fl. 344), o que ressalta o fato de a decisão embargada não padecer dos vícios que autorizam a oposição dos embargos declaratórios.
+Ressalte-se que na fixação da majoração, foram devidamente observados os critérios, parâmetros e limites arrolados no § 2.º do art. 85 do Código de Processo Civil, mostrando-se adequado o montante relativo à majoração.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
