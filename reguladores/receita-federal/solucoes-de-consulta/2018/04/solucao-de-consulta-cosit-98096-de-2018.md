@@ -1,0 +1,5 @@
+Solução de Consulta Cosit nº 98096, de 19 de abril de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código NCM: 8509.40.90 Mercadoria: Espremedor de laranja e outras frutas cítricas, com cone extrator do tipo “carambola” acionado por motor elétrico incorporado, cuja acomodação da fruta no cone é manual (não automática), com motor de 200 W e 1750 rpm (em vazio), capacidade de espremer 500 ml de suco por minuto, corpo de aço inox, bico vertedor e tampa, de alumínio, peso aproximado de 3,1 kg e dimensões aproximadas de 26 cm de altura e 18 cm de largura, acompanhado, na mesma embalagem, de um copo de 500 ml e uma peneira, de plástico, identificado comercialmente por “Espremedor Residencial”.
+DISPOSITIVOS LEGAIS: RGI/SH 1 (Nota 3, letra (a), do Capítulo 85 e texto da posição 85.09) e 6 (texto da subposição 8509.40) e RGC/NCM 1 (texto do item 8509.40.90) da TEC aprovada pela Resolução Camex nº 125, de 2016, e da Tipi, aprovada pelo Decreto nº 8.950, de 2016, e subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 1.788, de 2018.
+[arquivo anexo: SC Cosit nº 98.096-2018.pdf]
