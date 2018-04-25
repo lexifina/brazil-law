@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REVISIONAL. CÉDULAS DE CRÉDITO RURAL SECURITIZADAS E CEDIDAS À UNIÃO. ARTS. 165, 458, II, E 535 DO CPC/1973. PRESCRIÇÃO. OCORRÊNCIA DE AMBIGUIDADE COM POTENCIAL DE PRODUZIR ENTENDIMENTOS DÍSPARES. VÍCIO DE OBSCURIDADE CARACTERIZADO. DEMAIS QUESTÕES PREJUDICADAS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+DECISÃO
+Trata-se de recurso especial de [NOME] [NOME] [NOME] DE [NOME], interposto com fundamento no art. 105, III, a , da CF, contra acórdão do Tribunal Regional da 4ª Região, assim ementado (fl. 107):
+AÇÃO ORDINÁRIA REVISIONAL. CÉDULAS DE CRÉDITO RURAL SECURITIZADAS. BANCO DO BRASIL. LEGITIMIDADE. PRESCRIÇÃO.
+- Quanto à legitimidade passiva, tratando-se de ação revisional cujo objeto são créditos egressos de financiamentos rurais objeto de securitização, têm legitimidade para figurar no pólo passivo a União e o Banco do Brasil, credora do débito e responsável pela formalização dos financiamentos por delegação, respectivamente.
+- Quanto à prescrição do direito revisional, dá-se em cinco anos nos termos do Decreto n.º 20.910/32, não se aplicando os prazos do Código Civil, uma vez que, a partir da Medida Provisória n.º 2.196-3/2001, os créditos oriundos das cédulas rurais inseridas no processo de securitização estabelecido pela Lei n.º 9.138/95 foram definitivamente transferidos para a União, assumindo a natureza de créditos não-tributários da Fazenda Pública.
+- O referido prazo prescricional apenas flui quando da data de vencimento contratualmente estabelecida no último ato negocial firmado.
+- Inocorrência da prescrição, ante a existência de parcelas vincendas.
+Cabível o retorno dos autos para exame meritório em relação às parcelas não atingidas pela prescrição.
+Embargos de declaração opostos e rejeitados (fl. 173).
+O recorrente sustenta afronta aos arts. 165, 458, II, e 535 do CPC/1973 alegando obscuridade no acórdão embargado, por determinar o retorno dos autos à primeira instância para exame meritório das parcelas não atingidas pela prescrição ao mesmo tempo em que consignou que o prazo prescricional atinente à pretensão revisional começa a contar do vencimento da última parcela - situação essa que abrangeria o contrato como um todo, não havendo assim parcelas prescritas e parcelas não prescritas.
+Aponta ofensa ao art. 1º do Decreto n. 20.910/1932 e ao art. 177 do CC, de 16, pugnando pela aplicação da regra da prescrição vintenária, e não a quinquenal, visto que, na cessão de crédito, o regime jurídico aplicável é o do cedente, e não o do cessionário, e que, ainda que adotada a tese do prazo prescricional quinquenal, seu cômputo iniciar-se-á com o pagamento da última parcela do contrato, em 2025.
+Contrarrazões apresentadas.
+Juízo de admissibilidade à fl. 295.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Cuida o vício da obscuridade quando a decisão se encontra ininteligível, dada a falta de legibilidade de seu texto, imprecisão quanto à motivação da decisão ou ocorrência de ambiguidade com potencial de produzir entendimentos díspares.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração ao argumento de que remanesce obscuridade no no acórdão embargado, que determinou o retorno dos autos à primeira instância para exame das parcelas não atingidas pela prescrição ao mesmo tempo em que consignou que o prazo prescricional atinente à pretensão revisional começa a contar do vencimento da última parcela - situação essa que abrangeria o contrato como um todo, não havendo, por consequência, parcelas prescritas e parcelas não prescritas.
+Extrai-se dos autos que o recorrente, nos embargos opostos, argumentou e requereu a manifestação expressa do órgão julgador a respeito do referido ponto.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A falta de manifestação sem esclarecimento suficiente a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 535, I ou II, do CPC/1973, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Demais questões prejudicadas.
+Ante o exposto, conheço parcialmente do recurso especial de [NOME] e, na parte conhecida, dou-lhe provimento, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
