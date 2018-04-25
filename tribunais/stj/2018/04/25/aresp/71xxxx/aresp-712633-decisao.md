@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado pelo Distrito Federal e pelo Instituto do Meio Ambiente e dos Recursos Hídricos do Distrito Federal - IBRAM contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 519/520):
+DIREITO CONSTITUCIONAL E AMBIENTAL. REMESSA DE OFÍCIO. APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. ILEGITIMIDADE PASSIVA. TERRACAP. IMPLANTAÇÃO DE PARQUE ECOLÓGICO. DEFINIÇÃO DA POLIGONAL. RECATEGORIZAÇÃO. CUSTAS. AUTARQUIA DISTRITAL.
+1. Deve haver correspondência unívoca entre as partes do direito material e aquelas do direito processual, caso contrário, não restará preenchida uma das condições da ação, qual seja: legitimidade de parte.
+2. Não se mostra legitima para figurar no polo passivo da demanda aquele em que não suportará os efeitos da condenação, mormente porque não é mais proprietária do terreno em que se pretende instalar o parque ecológico.
+3. Desponta ao Poder Público o dever de preservar o meio ambiente, mediante ações positivas, consoante prescreve o art. 225 da Constituição Federal.
+4. A definição da poligonal da Unidade de Conservação é essencial para melhor preservação da área e seus recursos naturais.
+5. Ultrapassado longo prazo para que a Administração enquadrasse a que espécie pertence o parque ecológico, pode o Poder Judiciário, em nome da preservação do meio ambiente sadio, intervir na esfera administrativa.
+6. A entidade autárquica é isento do recolhimento de custas.
+7. Recurso da TERRACAP provido para reconhecer sua ilegitimidade e julgar extinto o processo sem resolução do mérito, com base no art. 267, VI, do Código de Processo Civil.
+Apelo e remessa de ofício parcialmente providos.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC/73.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 535 do CPC/73. Sustenta, em síntese, que o acórdão recorrido se mostra contraditório, "no ponto que concluiu que "não mais subsiste a alegação de que é necessário haver a doação" para a implementação do Parque Ecológico, uma vez que "a Terracap já transferiu o domínio em 2007 das terras que constituem o Parque (.)para o Distrito Federal, conforme se vê do registro imobiliário de fl. 276"." (fl. 571).
+O Ministério Público Federal opinou pelo desprovimento do agravo, nos termos assim resumidos (fl. 674):
+AGRAVO. RECURSO ESPECIAL INADMITIDO NA ORIGEM.
+AÇÃO CIVIL PÚBLICA. PARQUE VIVENCIAL RECANTO DA EMAS. CONTRADIÇÃO. INEXISTÊNCIA. ANÁLISE DE PROVAS. SÚMULA Nº 7 DO STJ.
+- A contradição apontada pelos recorrentes não se refere à contradição nos fundamentos e conclusões do julgado atacado por recurso especial. Diz respeito, em verdade, à suposta contrariedade entre a conclusão do julgado e as provas constantes do autos. Ocorre, todavia, que a contradição apta a ensejar a integração de julgado por violação ao art. 535 do CPC se refere à contradição intrínseca ao provimento jurisdicional.
+- Ademais, nos moldes declinados na peça de insurgência, o conhecimento da matéria exigiria incursão no acervo fático probatório dos autos, providência vedada em sede de recurso especial, nos termos da Súmula nº 7 do STJ.
+- Parecer pelo não provimento do agravo.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No tocante ao tema concernente à ilegitimidade da TERRACAP em razão de a mesma não ser mais proprietária das terras em que se implantará parque ecológico, não cabe falar em ofensa ao art. 535 do CPC/73. Isso porque, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Em outras palavras, o parâmetro da contrariedade não pode ser externo, como outro acórdão, ato normativo ou prova. Confiram-se, a propósito, os seguintes precedentes: EDcl no REsp 1.200.563/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/9/2012; EDcl no AgRg no AREsp 18.784/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17/3/2012; e EDcl no AgRg no REsp 1.224.347/SC, Rel. Ministro Hamilton Carvalhido, Primeira Turma, DJe 6/12/2011.
+No caso em exame, o dispositivo do acórdão embargado (fls. 519/521) está em perfeita consonância com a fundamentação que lhe antecede (fls. 523/532). Portanto, não há contradição interna a ser sanada.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
