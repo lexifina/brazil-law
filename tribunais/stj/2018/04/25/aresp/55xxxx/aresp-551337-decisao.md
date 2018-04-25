@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça local, cuja ementa é a seguinte (e-STJ fls. 2788/2789):
+APELAÇÃO CRIMINAL - EXTORSÃO MAJORADA PELO EMPREGO DE ARMA E/OU CONCURSO DE AGENTES, TORTURA E ROUBO MAJORADO - SENTENÇA ABSOLUTÓRIA QUANTO AOS CRIMES DE TORTURA E ROUBO MAJORADO. APELANTES 1 E 2- PRELIMINARES - NULIDADE DO DEPOIMENTO COLHIDO VIA CARTA ROGATÓRIA - NÃO ACOLHIMENTO - IMPOSSIBILIDADE DE IMPOR O MODO DE EXECUÇÃO DA ORDEM AO PAÍS ESTRANGEIRO - ARGUIÇÃO DE NULIDADE ANTE A NÃO APRECIAÇÃO DE TESE AVENTADA EM ALEGAÇÕES FINAIS - INEXISTÊNCIA - NULIDADE ANTE A OFENSA AO PRINCÍPIO DA IDENTIDADE FÍSICA DO JUIZ - NÃO ACOLHIMENTO - CARÁTER RELATIVO - MÉRITO - PLEITO ABSOLUTÓRIO QUANTO AO CRIME DE EXTORSÃO MAJORADA - CABIMENTO - INEXISTÊNCIA DO ESPECIAL FIM DE AGIR DE OBTENÇÃO DE INDEVIDA VANTAGEM - AGENTE QUE ACREDITAVA QUE A VÍTIMA ESTAVA DESVIANDO DINHEIRO DE SEU ESCRITÓRIO - NÃO CARACTERIZAÇÃO DO TIPO PENAL - ABSOLVIÇÃO QUE SE IMPÕE - PEDIDO DE REDUÇÃO DAS PENAS IMPOSTAS - PREJUDICADO - RECURSO A QUE SE
+DÁ PROVIMENTO.
+APELANTE 3 - PEDIDO DE CONDENAÇÃO NAS SANÇÕES DOS CRIMES DE TORTURA E ROUBO MAJORADO - INVIABILIDADE - DELITOS QUE NÃO RESTARAM COMPROVADOS ANTE AS PROVAS COLHIDAS NOS AUTOS - ABSOLVIÇÕES MANTIDAS
+- RECURSO A QUE SE NEGA PROVIMENTO.
+Interpostos embargos de declaração, esses foram parcialmente acolhidos, sem efeitos infringentes (e-STJ fls. 2883). Abaixo, ementa do acórdão (e-STJ fls. 2883):
+EMBARGOS DE DECLARAÇÃO - EXTORSÃO MAJORADA PELO EMPREGO DE ARMA E/OU CONCURSO DE AGENTES E TORTURA - ACÓRDÃO QUE ANALISOU TODO O CONJUNTO PROBATÓRIO - PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO - JULGADO DEVIDAMENTE FUNDAMENTADO - INEXISTÊNCIA DE CONTRADIÇÃO OU OMISSÃO - OMISSÃO QUANTO AO DOLO DE UM DOS RÉUS - ACOLHIMENTO - EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITO INFRINGENTE.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação dos artigos 155, 381 e 619 do CPP, do artigo 158, §1º, do CP e do art. 1º, inciso I, alínea "a", da Lei nº 9.455/97. Sustenta: (i) incongruências na valoração das provas no julgamento dos embargos de declaração; (ii) a adoção do sistema do livre convencimento racionalmente motivado do Juiz; (iii) a ocorrência dos crimes de extorsão qualificada e de tortura.
+Apresentadas contrarrazões (e-STJ fls. 3045/3057 e 3060/3076), o Tribunal a quo não admitiu o recurso especial (e-STJ fls. 3100/3109), tendo sido apresentado o presente agravo.
+O Ministério Público Federal, instado a se manifestar, opinou pelo provimento do agravo em recurso especial (e-STJ fls. 3237/3246).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Primeiramente, ao contrário do que sustenta a parte recorrente, não há falar na ocorrência de incongruências na valoração das provas pela Corte de origem, uma vez que o acórdão recorrido apreciou as teses defensivas com base nos fundamentos de fato e de direito que entendeu relevantes e suficientes à compreensão e à solução da controvérsia, o que, na hipótese, revelou-se suficiente ao exercício do direito de defesa.
+Em segundo, o art. 381, inciso III, do CPP dispõe que a sentença conterá a indicação dos motivos de fato e de direito em que se fundam a decisão.
+No presente caso, a Corte local solveu a questão com fundamentação satisfatória, expondo, suficientemente, as razões pelas quais entendeu pela manutenção da condenação do recorrido pelo envolvimento na prática do crime de homicídio qualificado, julgado pelo Tribunal do Júri.
+Assim, não há que se falar em ausência de fundamentação, uma vez que o acórdão recorrido enfrentou os pontos relevantes ao deslinde da controvérsia, adotando, no entanto, solução jurídica contrária aos interesses do agravante. Precedentes: AgRg no REsp 1612936/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/09/2016, DJe 07/10/2016; AgRg no REsp 1575378/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/09/2016, DJe 04/10/2016; AgRg no REsp 1558583/PB, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/03/2016, DJe 17/03/2016; AgRg no REsp 1217998/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2016, DJe 15/02/2016).
+Por fim, o Tribunal a quo, ao analisar os documentos dos autos, concluiu pela absolvição dos acusados pela prática do crime de extorsão qualificada, pela inexistência da circunstância elementar concernente à vantagem indevida, e em relação ao crime de tortura, pela ausência da comprovação de sua ocorrência.
+Abaixo, trechos do acórdão:
+ ..
+A conduta típica do crime de extorsão se subsume ao fato de constranger a vítima, obrigando-a, coagindo-a mediante grave ameaça ou violência, para a obtenção de uma vantagem econômica indevida.
+Portanto, o dolo do agente é a vontade de constranger, ou seja, de obrigar a vítima a fazer ou deixar de fazer alguma coisa, exigindo, para tanto, o elemento subjetivo do tipo que é a finalidade de obter vantagem econômica indevida.
+ ..
+Pois bem, consta da sentença, à fl. 2.117, transcrição do depoimento prestado pela vítima, onde a mesma assevera que: "Roberto tinha feito várias perguntas sobre assuntos administrativos e especificamente, se eu o estava roubando."
+A gerente financeira do escritório, Sra. [NOME], ao depor, disse que Roberto pediu extratos pela manhã e que passou na sala da vítima e com ela manteve um diálogo amistoso, sendo que tudo estava tranquilo. Entregou os extratos e voltou para sua sala que ficava próxima às salas de Sergio e Roberto. Não assistiu à briga, mas ouviu os barulhos dela originados e também ouviu Roberto cobrando Sergio, o qual dizia que não tinha feito nada. Adiante, em seu depoimento, asseverou que Roberto suspeitava que ela era conivente com os desvios supostamente praticados por Sergio, tendo dito isso a ela. E, por fim, a testemunha ouviu que eles falavam sobre valores.
+[NOME], ex noiva de Sergio, disse que Roberto lhe falou que Sergio o estava roubando e que por isso haveria a dissolução da sociedade, tendo tal explicação ocorrido após as agressões. Ela afirmou que não sabia se os desvios de dinheiro estavam efetivamente acontecendo. Disse que a discussão iniciou-se porque Roberto se sentia traído por Sergio. Ainda, Roberto disse à [NOME] que não mais confiava nela, pois achava que ela também o roubava.
+Comente-se que os depoimentos acima reputam-se insuspeitos, eis que prestados após o término do contrato de trabalho da Sra.
+[NOME] término de noivado da Sra. [NOME] com a vítima.
+Ora, percebe-se pelo conteúdo dos depoimentos colacionados acima, que Roberto agiu movido pela crença de que estava sendo traído pelo sócio em face de supostos desvios de dinheiro.
+Assim, a vantagem buscada, ao menos no imaginário de [NOME], era a ele devida.
+Inexiste, pois, o especial fim de agir, que é a obtenção de indevida vantagem.
+Se a vantagem é devida ou se o agente acredita que o é, não há que se falar em extorsão, vez que ausente uma circunstância elementar do art. 158 do CP no que concerne à indevida vantagem.
+Portanto, se faz necessária a absolvição dos réus [NOME] e [NOME] das sanções do artigo 158, §1º do Código Penal, com fulcro no art. 386, III do Código de Processo Penal.
+ ..
+1. Do crime de tortura:
+Para caracterizar o crime de tortura disposto na alínea "a", inciso I, do artigo 1º da Lei 9.455/97 exige-se o especial fim de agir de "obter informação, declaração ou confissão da vítima ou de terceira pessoa".
+No presente caso, o delito não restou configurado.
+ ..
+Sobre o especial fim de agir do tipo penal de tortura, é o ensinamento do doutrinador [NOME]:
+"O elemento subjetivo da tortura, no tipo definido no artigo 1º, I, a, está representado pelo dolo, consubstanciado na consciência e vontade de infligir, na vítima, sofrimento físico ou mental, acrescido do elemento subjetivo especial do tipo, consistente na finalidade em obter informação, declaração ou confissão."
+Portanto, não basta a vítima ser submetida à coação moral e corporal para caracterizar este delito, o qual exige o especial fim de agir de obter informação, declaração ou confissão da mesma ou de outra pessoa.
+A exigência desse elemento subjetivo especial do tipo é fundamental para diferenciar o crime de tortura dos demais delitos que envolvem violência ou grave ameaça contra a pessoa. Caso contrário, qualquer delito em que se infligisse castigo corporal ou psicológico à vítima deveria necessariamente ser punido em concurso material com o crime de tortura.
+Denota-se do conteúdo probatório que Roberto agrediu a vítima, porque as discussões sobre a dissolução da sociedade tomaram um rumo demasiado, sendo que ambos perderam o controle de seus atos.
+Não obstante as lesões sofridas pela vítima tenham sido efetivamente relevantes, verifica-se que não há nos autos provas de que os réus possuíam o objetivo de obter informações, declarações ou confissões da vítima sobre valores econômicos que supostamente teriam sido desviados da sociedade advocatícia, além de documentos relativos à sociedade.
+Portanto, não restou configurado o especial fim de agir que determina o tipo penal de tortura, devendo ser mantida as suas absolvições quanto a esta imputação.
+ ..
+Assim, a partir da análise do caso concreto, concluindo o Tribunal de Justiça pela ausência de comprovação da prática dos crimes de tortura e pela inexistência da circunstância elementar concernente à vantagem indevida no crime de extorsão qualificada, não há como alterar esse entendimento no recurso especial, uma vez que seria necessário o reexame do conjunto fático-probatório, providência esta inviabilizada pelo teor da Súmula n. 7 deste Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art. 932, inciso IV, alínea "a", do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
