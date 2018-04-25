@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - EXCEÇÃO DE INCOMPETÊNCIA - CLÁUSULA DE ELEIÇÃO DE FORO - ALEGADA ABUSIVIDADE CONTRATUAL POR HIPOSSUFICIÊNCIA DA PARTE E POR SER O CONTRATO DE ADESÃO - NÃO CARACTERIZADA - CONTRATO DE GRANDE MONTA - INEXISTÊNCIA DE VULNERABILIDADE DA CONTRATADA - RECURSO PROVIDO.
+1) Não há se falar em abusividade de cláusula de eleição de foro por alegada vulnerabilidade de uma das partes quando o contrato é de vulto milionário.
+2) Do mesmo modo, não existe abusividade somente pelo fato de o contrato ser de adesão, uma vez que, em não sendo o contrato de caráter obrigatório, a parte dispõe da opção de não contratar. Em contratando, e não havendo qualquer vício que inquine o consentimento da parte, deve obediência aos termos da avença.
+3) Recurso a que se dá provimento para declarar válida e eficaz cláusula contratual de eleição de foro.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alega a ora agravante violação dos artigos 122 do Código Civil; e 100, IV, a e d, e 111 do Código de Processo Civil de 1973, além de divergência jurisprudencial. Sustenta que a tramitação do feito em comarca distante dificulta seu acesso à Justiça e à ampla defesa, pois se trata de microempresa em situação falimentar, beneficiária da assistência judiciária gratuita.
+Não merece reforma a decisão agravada.
+De início, observo que o conteúdo normativo do artigo 122 do Código Civil não foi debatido no acórdão recorrido, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, o que atrai a incidência da Súmula 282/STF; da mesma forma, verifico que o Tribunal local não analisou a questão da situação falimentar da ora agravante; além disso, não houve, nas razões de recurso especial, alegação de ofensa ao artigo 535 do Código de Processo Civil de 1973 (artigo 1.022 do Código de Processo Civil agora em vigor).
+Por outro lado, anoto que consignou o Tribunal de origem:
+A alegação da Agravada, de que seria hipossuficiente em relação às Agravantes e que, por isso, não pode se submeter a foro de eleição contido em cláusula de contrato de adesão, é desprovida de fundamento.
+Isso porque o simples fato de as duas Recorrentes serem mineradoras de grande porte e renome internacional, e a Recorrida ser microempresa, não induz hipossuficiência apta a derrogar cláusula contratual ao qual a parte aderiu voluntariamente.
+A alegação é descaracterizada pela simples análise do valor envolvido no contrato, de mais de dez milhões de reais (R$12.595.957,99 - f.34), e também pela vultosa quantia reivindicada na lide, que ultrapassa a soma de R$26.000.000,00 (vinte e seis milhões). Tais importâncias permitem concluir, por si só, a capacidade das partes, inclusive da Agravada. Fosse o contrário, a própria Recorrida não se prestaria a assinar contrato de tão grande vulto, e nem as Agravantes aceitariam que empresa desqualificada ou com insuficiência de recursos lhe prestasse serviços de tão grande monta. Dessa forma, não há se falar em hipossuficiência ou vulnerabilidade da Recorrida que importe em nulidade de cláusula contratual, ou interpretação de cláusula em seu benefício, em detrimento do que expressamente pactuado pelas partes.
+A outra questão aduzida pela Recorrida, de que o contrato seria de adesão e que, por tal razão, não pôde discutir qualquer das cláusulas, inclusive a de foro de eleição, também não merece guarida. E que não se trata de contrato obrigatório, a que uma das partes se vê obrigada a assinar, como é o caso, por exemplo, de serviço público essencial (tais como água, energia elétrica, etc.). Na hipótese, vige o princípio da liberdade contratual, em que as partes podem ou não contratar para prestar ou para que seja prestado determinado serviço, ou não. Se a Agravada não tinha condições de cumprir o contratado ou arcar com alguma das consequências previstas nas disposições contratuais (como o foro de eleição), tinha a seu dispor uma opção muito singela: não contratar. Como o fez, deve arcar com as conseqüências de sua livre escolha, uma vez que, além de se tratar de contrato entre particulares, não há qualquer evidência de qualquer dos vícios do consentimento que possam vir a invalidar a cláusula de eleição discutida nos autos.
+Não ha, portanto, a propalada abusividade contratual no que se refere ao foro de eleição, razão pela qual não vislumbro qualquer nulidade do contrato nesse ponto. (..)
+(..)
+Assim, não vislumbro qualquer nulidade da cláusula de eleição de foro no contrato entabulado entre as partes, razão pela qual esta é válida e deve surtir seus efeitos plenos, o que enseja o provimento do presente recurso.
+O entendimento do Tribunal de origem, além de não destoar da jurisprudência desta Corte - segundo a qual a cláusula de eleição de foro é válida, somente podendo ser afastada quando reputada ilícita em razão de especial dificuldade de acesso à justiça ou no caso de hipossuficiência da parte -, demandaria reexame de matéria de fato para ser infirmado.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FORO DE ELEIÇÃO. DIFICULDADE DE DEFESA. FALTA DE DEMONSTRAÇÃO. REVISÃO. SÚMULA 7/STJ.
+1. De acordo com o entendimento desta Corte, a cláusula de eleição de foro em contrato de adesão pode ser reputada inválida, quando demonstrada a hipossuficiência da parte ou a dificuldade de acesso à Justiça. Precedentes.
+2. É inviável rever em sede de recurso especial a conclusão das instâncias ordinárias acerca da falta de comprovação da dificuldade de defesa, pois demandaria reexame de provas, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no AREsp 983.281/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/02/2017, DJe 01/03/2017)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXCEÇÃO DE INCOMPETÊNCIA. CLÁUSULA DE ELEIÇÃO DE FORO INSERTA EM CONTRATO DE ELEVADA EXPRESSÃO ECONÔMICA. VULNERABILIDADE DO CONTRATANTE AFASTADA. VALIDADE DA CLÁUSULA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte admite invalidação de cláusula eletiva de foro em contratos de adesão, mesmo firmados entre pessoas jurídicas, quando verificada a vulnerabilidade de uma das partes.
+Precedentes.
+2. Em casos como o dos autos, porém, em que o contrato entabulado é de elevada monta, não há como cogitar de vulnerabilidade dos contratantes nem como invalidar, por conseguinte, a cláusula de eleição de foro. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp 1485381/TO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2015, DJe 04/02/2016)
+Incidência, pois, das Súmulas 7 e 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
