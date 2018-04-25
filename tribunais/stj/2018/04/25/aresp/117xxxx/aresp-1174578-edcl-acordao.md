@@ -1,0 +1,36 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO SÉRGIO KUKINA(Relator): Trata-se de embargos de declaração opostos por WALTER RIBEIRO DE OLIVEIRA JUNIOR contra acórdão resumido pela seguinte ementa (fl. 1.292):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSO PÚBLICO. CARGO DE ADVOGADO JÚNIOR DA PETROBRÁS. OFENSA AO ART. 535 DO CPC. OMISSÃO. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. MATÉRIA INSUSCETÍVEL DE EXAME NA VIA ESPECIAL. REEXAME DE MATÉRIA FÁTICA E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE. ÓBICE DAS SÚMULAS 5 E 7/STJ.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º e 37 da Constituição Federal.
+3. Inarredável a incidência das Súmulas 5 e 7/STJ ao caso, porquanto a inversão da conclusão adotada pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos e análise de cláusulas do edital do concurso, providências vedadas em recurso especial.
+4. Agravo Interno a que se nega provimento.
+Em suas razões, a parte embargante sustenta, em síntese, que: (I) "a decisão ora embargada é omissa, uma vez que, em momento algum do mérito do Recurso Especial, restou suscitada a ofensa a preceito constitucional. Em verdade, de uma leitura do recurso em questão, verifica-se que a parte recorrente deduziu ter havido ofensa a dispositivo infraconstitucional, em especial ao artigo 2º, incisos I, VI e VIII da Lei 9.784/99. Note-se, e destaque-se, que em momento algum sustentou-se, na via do Recurso Especial, a ofensa aos preceitos constitucionais, até mesmo porque tal pretensão recursal foi devidamente deduzido em Recurso Extraordinário, em trâmite perante o Egrégio Supremo Tribunal Federal." (fl. 1.304) e; (II) "a decisão proferida mostra-se novamente omissa, pois antecipando-se a esta possível argumentação, o recorrente demonstrou de forma detida e conclusiva, que jamais o enfrentamento do mérito do recurso especial demandaria a incursão em questão fática. Não há que se falar em rediscussão de questão fática, vedada pelas Súmulas antes referidas. Na verdade, a análise e solução jurídica ao caso demanda exclusivamente a análise do teor do Edital de Concurso Público, e o que rezam suas cláusulas, bem como apenas a análise dos documentos trazidos pelas partes, no tocante à discussão quanto a forma de chamamento dos até então candidatos. Não se trata de rediscussão de questão fática. Se trata, em verdade, de revaloração de prova fática, exclusivamente apresentada documentalmente pelas partes, por meio de declarações da Petrobrás e comprovantes de intimação postal dos candidatos." (fl. 1.305).
+É o relatório.
+VOTO
+EXMO. SR. MINISTRO SÉRGIO KUKINA(Relator): Não assiste razão à parte embargante.
+De acordo com o estatuído no art. 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou, ainda, para corrigir erro material.
+Na hipótese dos autos, como destacado pelo acórdão embargado, "em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos arts. 5º e 37 da Constituição Federal" (fl. 1.295), bem como, "a alteração das conclusões adotadas pela Corte de origem no tocante à legalidade da nomeação do candidato classificado na 14ª posição, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como das cláusulas do edital do concurso, providências vedadas em recurso especial, conforme os óbices previsto nas Súmulas 5 e 7/STJ." (fl. 1.297).
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegada omissão e contradição do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material a ser corrigido, conforme exige o art. 1.022 do novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CARÁTER INFRINGENTE. INTUITO PROTELATÓRIO. MULTA.
+1. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento, ausentes in casu.
+3. O inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+4. A insurgência revela o propósito manifestamente protelatório e a utilização indevida dos aclaratórios, justificando a incidência da sanção prevista no art. 538, parágrafo único do CPC.
+5. Embargos de Declaração rejeitados, com fixação de multa de 1% sobre o valor da causa.
+(EDcl no AgRg nos EDcl no AgRg no REsp 1.317.962/PI, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/12/2014, DJe 02/02/2015)
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade, contradição ou erro material.
+2. A contradição que autoriza os embargos de declaração é aquela interna do acórdão, verificada entre sua fundamentação e conclusão.
+3. Resumindo-se irresignação do embargante ao seu mero inconformismo com o resultado do julgado, desfavorável à sua pretensão, não há nenhum fundamento que justifique a interposição de embargos.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no AREsp 10.023/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 07/08/2012, DJe 20/08/2012)
+Ante o exposto, rejeitam-se os embargos declaratórios.
+É o voto.
