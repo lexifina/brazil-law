@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto contra acórdão assim ementado:
+RESOLUÇÃO DE COMPROMISSO DE VENDA E COMPRA - SENTENÇA DE PARCIAL PROCEDÊNCIA, para declarar a inadimplência dos Requeridos (com apuração do montante em liquidação de sentença), facultando aos Requeridos, apôs apurado o débito , efetuar o pagamento do valor devido ou entregar o imóvel à Autora - Requeridos inadimplentes - Resolvido o contrato, as partes voltam ao estado anterior ao da contratação - Devida indenização ("aluguel"") em razão da utilização não remunerada do imóvel - RECURSO DA REQUERIDA IMPROVIDO E RECURSO DA AUTORA PARCIALMENTE PROVIDO, para resolver o negocio jurídico, com a reintegração da Autora na posse do imóvel e a devolução dos valores pagos pela Requerida Maria Walkiria (deduzidos eventuais encargos que recaem sobre o imóvel e indenização mensal -"aluguel"" - no valor correspondente a 0,5% do valor atualizado do contrato - desde a citação).
+Os embargos de declaração opostos foram rejeitados (fls. 631-635, e-STJ).
+Nas razões de recurso especial, alega a agravante, em suma, dissídio jurisprudencial; violação dos arts. 206, § 3º, IV, 884 do Código Civil; e, 21 do Código de Processo Civil.
+Sustenta que o pagamento da indenização pela ocupação indevida do imóvel deve incidir a partir dos três anos que antecederam a citação, sob pena de enriquecimento ilícito dos réus. Afirma que decaiu na parte mínima dos seus pedidos, motivo pelo qual as verbas sucumbenciais devem ser impostas aos agravados.
+Apresentadas contrarrazões (fls. 683-688, e-STJ), pugnando pelo não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 710-711 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016, desta Corte.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento, verifico que este agravo não merece provimento.
+Em relação à matéria inserta na alegada violação dos arts. 206, § 3º, IV, e 884, ambos do Código Civil, observo que ela não foi tratada pelo Tribunal de origem sob esse enfoque, incidindo o óbice da Súmula 211/STJ, por ausência de prequestionamento.
+A propósito, confira-se:
+RECURSO ESPECIAL. FALÊNCIA. AÇÃO DECLARATÓRIA DE INEFICÁCIA DE NEGÓCIO JURÍDICO CELEBRADO DENTRO DO TERMO LEGAL. RESTITUIÇÃO DE VALORES À MASSA FALIDA. VIOLAÇÃO AOS ARTIGOS 535, I E II, DO CPC, 129, I E II, DA LEI DE FALÊNCIAS, 884 DA CC/02 E § § 3º E 4º DO ART. 20 DO CPC. SUMULA 07 DO STJ. AUSENTE PREQUESTIONAMENTO DO ARTIGO 884 DO CC/02. SÚMULA 211 DO STJ E SUMULAS 282 E 389 DO STF. RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.
+1. Inocorrência de nulidade por ofensa ao art. 535 do CPC, nem negativa de prestação jurisdicional, no acórdão que, mesmo não examinando individualmente cada um dos argumentos trazidos pela vencida, decide de modo integral e com fundamentação suficiente, a matéria devolvida à sua apreciação.
+2. A verificação dos requisitos necessários à aplicação do disposto no art. 129, I e II, da Lei de Falência, no caso em tela, encontra óbice da Súmula 07, por exigir, para a mudança do entendimento assentado pelo Tribunal de Origem, no revolvimento fático-probatório, o que não é possível nesta instância especial.
+3. A alegação de violação ao artigo 884 do Código Civil não conhecida em face da ausência de prequestionamento acerca da questão pelo Tribunal "a quo", encontrando óbice nas súmulas 211/STJ e 282/STF.
+4. Acolhimento da alegação de violação ao parágrafo 3º do artigo 20 do CPC, fixando-se a base de cálculo da verba honorária em 15% sobre o valor da condenação, em face da carga condenatória da decisão recorrida.
+5. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA PARTE, PROVIDO.
+(REsp 1.193.602/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 18.10.2011, DJe 18.11.2011).
+No que se refere à inversão da sucumbência, é certo que a presente análise demanda amplo reexame de questões de fato e de prova que são variáveis de acordo com as peculiaridades de cada caso concreto, o que é vedado no âmbito do recurso especial, a teor da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO POR ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INCIDÊNCIA DA COISA JULGADA. REVER A CONCLUSÃO DO ACÓRDÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou caracterizada a violação ao art. 1.022 do CPC/2015 (art. 535 do CPC/1973), porquanto o acórdão recorrido dirimiu a causa com base em suficiente fundamentação, sem nenhuma omissão ou contradição. No caso dos autos, houve o enfrentamento da matéria atinente ao instituto da coisa julgada, e o fato de a motivação ter sido em sentido contrário aos interesses da parte não caracteriza negativa de prestação jurisdicional. 2. O Colegiado estadual firmou premissa fática quanto à incidência da coisa julgada na hipótese, de modo que a alteração dessa conclusão demandaria o revolvimento do conjunto de fatos e provas dos autos, o que é vedado pelo óbice da Súmula n. 7 do STJ.
+3. Em relação à questão da revisão da distribuição dos ônus sucumbenciais, prevalece a compreensão exarada no pronunciamento monocrático, não havendo como acolher a irresignação, por envolver ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, providência vedada na via especial, nos termos da Súmula 7/STJ. Precedentes.
+4. Quanto à pretensão da parte agravada em condenar a ora agravante às penas da litigância de má-fé, constato que não merece guarida, pois, conforme entendimento desta Corte: "A interposição de recursos cabíveis não implicam em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+5. Agravo interno improvido.
+(AgInt no AREsp 1.002.977/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25.4.2017, DJe 4.5.2017).
+AGRAVO INTERNO EM AGRAVO (ART. 1.042 DO NCPC) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTENDO A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1.(..)
+2. (..)
+3. Pretensão de redimensionamento dos honorários advocatícios sucumbenciais arbitrados na origem. A revisão da distribuição dos ônus sucumbenciais, com o intuito de perquirir eventual sucumbência recíproca dos litigantes, envolve ampla análise de questões de fato e de prova, consoante as peculiaridades de cada caso concreto, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.039.441/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4.4.2017, DJe 19.4.2017).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
