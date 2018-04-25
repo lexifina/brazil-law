@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    ADMINISTRATIVO. RECURSO ESPECIAL. CONCURSO PÚBLICO. AUDITOR-FISCAL DO TESOURO NACIONAL. EDITAL. CRITÉRIO DE REGIONALIZAÇÃO E ESPECIALIZAÇÃO. LEGALIDADE. CLASSIFICAÇÃO NÃO OBTIDA. INEXISTÊNCIA DE PRETERIÇÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, II, III e IV, da Constituição.
+    O recurso não deve ser provido. O Supremo Tribunal Federal (STF) reconheceu a repercussão geral da questão ora debatida (RE 837.311-RG, Rel. Min. Luiz Fux Tema 784). Na análise do mérito, o Plenário fixou a seguinte tese: o surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizada por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato. Assim, o direito subjetivo à nomeação do candidato aprovado em concurso público exsurge nas seguintes hipóteses:(i) quando a aprovação ocorrer dentro do número de vagas dentro do edital; (ii) quando houver preterição na nomeação por não observância da ordem de classificação; (iii) quando surgirem novas vagas, ou for aberto novo concurso durante a validade do certame anterior, e ocorrer a preterição de candidatos de forma arbitrária e imotivada por parte da administração nos termos acima.
+    No caso dos autos, o candidato foi aprovado fora do número de vagas previstas no edital do concurso e não se enquadra nas hipóteses de preterição previstas pelo STF.
+    Ademais, para dissentir do acórdão recorrido quanto aos critérios de classificação para acesso à segunda fase regularmente prevista do concurso público, seria necessário analisar o material fático e probatório, bem como as cláusulas editalícias, o que é vedado nesse momento processual. Nesse sentido, veja-se a ementa do AI 502.882-AgR, julgado Rel. Min. Eros Grau:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. INTERPRETAÇÃO DAS CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE.
+    1. Critério de classificação dos candidatos para acesso à segunda fase do concurso público. Interpretação das cláusulas editalícias e reexame da matéria fática no que se refere à ordem de classificação e convocação dos aprovados na primeira fase do certame. Impossibilidade. Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Agravo regimental não provido.”
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
