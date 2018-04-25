@@ -1,0 +1,93 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO CPC/73. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. LEGITIMIDADE DO SINDICATO PARA DEFESA DE INTERESSES INDIVIDUAIS HOMOGÊNEOS DOS SEUS FILIADOS. PRECEDENTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL ANCORADA EM DISPOSITIVO LEGAL IMPERTINENTE. SÚMULA Nº 284 DO STF. PRESCRIÇÃO DA AÇÃO CIVIL PÚBLICA. DISSÍDIO JURISPRUDENCIAL NÃO CONHECIDO. TEMA NÃO PREQUESTIONADO. REGRA DE PLENÁRIO. TEMA CONSTITUCIONAL. SÚMULA Nº 284 DO STF. JUROS REMUNERATÓRIOS. PRESCRIÇÃO VINTENÁRIA. PRECEDENTES. EFICÁCIA TERRITORIAL DA SENTENÇA PROFERIDA NA AÇÃO CIVIL PÚBLICA E EXCLUDENTE DE RESPONSABILIDADE CONSISTENTE EM FATO DO PRÍNCIPE. TEMAS NÃO PREQUESTIONADOS. SÚMULA Nº 211 DO STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+O SINDICATO NACIONAL DOS APOSENTADOS E PENSIONISTAS E IDOSOS DA FORÇA SINDICAL (SINDICATO) ajuizou ação civil pública contra o BANCO [NOME] S.A. ([NOME]) com vistas a obter diferenças de correção monetária verificadas nos valores depositados por seus associados, em função de planos econômicos editados entre 1987 e 1991 (e-STJ, fls. 1/13).
+A sentença julgou parcialmente procedente o pedido nos seguintes termos:
+Ante o exposto, julgo PROCEDENTE EM PARTE o pedido para:
+Condenar o Réu no pagamento da(s) diferença(s) de correção monetária incidente sobre a(s) caderneta(s) de poupança dos associados do Autor, desde que haja saldo disponível no período reclamado e que a(s) data(s)-base seja(m) até o dia 15 (inclusive,, mediante aplicação do IPC no mês de junho/87 (Plano Bresser - 26,06%); compensando-se os índices efetivamente aplicados, valores a serem apurados em liquidação, atualizados desde a data dos pagamentos a menor pelos mesmos rendimentos sucessivamente aplicados às cadernetas de poupança (correção monetária e juros remuneratórios), de forma capitalizada, e acrescidos de juros moratórios de 1% ao mês desde a data da citação (e-STJ, fl. 131)
+O [NOME] interpôs apelação que foi desprovida em acórdão assim ementado:
+AÇÃO CIVIL PÚBLICA. CORREÇÃO DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. BRESSER, VERÃO. LEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. LEGITIMIDADE PASSIVA DO SINDICATO. PRESCRIÇÃO VINTENÁRIA. A ação de cobrança de diferença de correção monetária de saldo de caderneta de poupança prescreve em vinte anos. Descabida a incidência de prescrição qüinqüenal dos juros com base no art. 178, parágrafo 10, inciso Ill, do Código Civil, em ação em que se discute correção monetária de caderneta de poupança. Na correção de caderneta de poupança são devidos, em relação ao Plano Bresser e Verão, respectivamente,o IPC de junho de 1987 (26,06%) e o IPC de janeiro de 1989 (42,72%). O contrato de poupança confere ao consumidor o direito de obter remuneração relativamente ao saldo existente na conta. O preceito inscrito no inciso Ill do artigo 8º da Constituição assegura a ampla legitimidade ativa ad causam dos sindicatos como substitutos processuais das categorias que representam, especialmente quando seu estatuto expressamente autoriza a promoção da defesa destes interesses da categoria. Preliminares e prejudicial rejeitadas e recurso não provido. (e-STJ, fl. 342).
+O [NOME] opôs dois embargos de declaração, ambos rejeitados pelo TJMG (e-STJ, fls. 380/386 e 490/496).
+Irresignado, o [NOME] manejou recurso especial, com fundamento no art. 105, III, a e c da CF, alegando (1) que, nos termos dos arts. 3º 267, IV e § 3º, e 741, III, do CPC/73; 5º, da Lei nº 7.347/85; 2º, 3º e 81, III, do CDC e 6º da LINDB, a ação civil pública deveria ter sido extinta por falta de legitimidade ativa do sindicato, uma vez que, no caso, não estariam em jogo direitos tutelados pelo CDC; (2) que o Tribunal de origem teria sido omisso com relação à prescrição quinquenal das ações civis públicas, violando os arts. 219, § 5º, do CPC/73 e 193 do CC/02; (3) que a ação civil pública estaria submetida a prazo prescricional quinquenal, consoante reconhecido em precedentes desta Corte Superior; (4) ofensa ao art. 97, da CF e à Súmula Vinculante nº 10 do STF, porque a constitucionalidade das Leis nºs. 2.335/87 e 7.730/89 não foi apreciada pelo órgão especial do Tribunal de origem; (5) que a pretensão à percepção dos juros incidentes sobre as diferenças de correção monetária pleiteadas estaria prescrita, nos termos do art. 178, § 10, III, do CC/16; (6) que a sentença prolatada na ação civil pública somente faz coisa julgada nos limites da competência territorial do seu órgão prolator, consoante fixado no art. 16 da Lei nº 7.347/85; e, (7) que não pode ser responsabilizado pelos prejuízos advindos da política monetária nacional, a cargo do Conselho Monetário Nacional, pois, de acordo com o art. 1.277 do CC/16, o depositário não responde civilmente na hipótese de caso fortuito ou de força maior.
+Sem contrarrazões (e-STJ, fl. 605), o recurso foi admitido na origem (e-STJ, fls. 606/607 e 651/652).
+É o relatório.
+DECIDO.
+O recurso não merece provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo n. 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Ilegitimidade ativa
+De acordo com o [NOME] o SINDICATO não teria legitimidade ativa para propor a presente ação civil pública, porque não estariam em discussão direitos do consumidor na hipótese dos autos e também porque o CDC não poderia ser aplicável retroativamente.
+Confira-se:
+Completamente equivocado, permissa venia, o entendimento da Sentença e do Acórdão ao concluírem pela legitimidade do recorrido para a propositura da presente demanda.
+Ora, tratando-se de aplicação em caderneta de poupança, não há dúvida de que não se trata de relação de consumo, assim sendo, não se pode concluir pela legitimidade do recorrido!
+Em que pese os entendimentos anteriores deste E. SUPERIOR TRIBUNAL DE JUSTIÇA, há que se reavaliar a questão, sobretudo porque á aplicação do CDC a Questões anteriores à sua existência representa violência inaceitável aos princípios leeiferados da irretroatividade da Lei (e-STJ, fl. 524).
+Ocorre que independentemente da natureza consumerista do direito posto em causa, sobressai de forma inquestionável sua natureza coletiva (direitos individuais homogêneos) dos interesses envolvidos e também a clara relação entre a titularidade desses interesses e a finalidade institucional do sindicato. Impossível negar, dessa forma, a legitimidade ativa dessa instituição para promover a demanda.
+A propósito:
+CONSTITUCIONAL. PROCESSUAL CIVIL. AÇÃO CIVIL COLETIVA. DIFERENÇAS DE CORREÇÃO MONETÁRIA DE CONTAS DO FGTS. LEGITIMAÇÃO ATIVA DAS ENTIDADES SINDICAIS. NATUREZA E LIMITES. PROVA DO FATO CONSTITUTIVO DO DIREITO AFIRMADO E DOCUMENTO ESSENCIAL À PROPOSITURA DA DEMANDA. DISTINÇÕES.
+1. As entidades sindicais têm legitimidade ativa para demandar em juízo a tutela de direitos subjetivos individuais dos integrantes da categoria, desde que se tratem de direitos homogêneos e que guardem relação de pertencialidade com os fins institucionais do Sindicato demandante.
+(REsp 487.202/RJ, Rel. Ministro TEORI ALBINO ZAVASCKI, Primeira Turma, DJ 24/5/2004)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. SINDICATO. LEGITIMIDADE ATIVA. VIOLAÇÃO AO ART. 81, III, DO CÓDIGO DE DEFESA DO CONSUMIDOR. CONFIGURAÇÃO. IMPROVIMENTO.
+1.- O sindicato possui legitimidade ativa para ajuizar ação civil pública em defesa de direitos individuais homogêneos de seus filiados.
+(AgRg no REsp 1.163.703/MT, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 5/10/2011)
+(2) Omissão
+O [NOME] alegou que o Tribunal de origem teria sido omisso, porque não se manifestou com relação à prescrição quinquenal das ações civis públicas, violando os arts. 219, § 5º, do CPC/73 e 193 do CC/02.
+Sucede que os dispositivos legais indicados não constituem imperativo legal apto a embasar a tese recursal de que teria havido negativa de prestação jurisdicional.
+Com efeito, em nenhum momento o acórdão recorrido afirmou que a prescrição era impossível de análise em qualquer momento, afirmou, simplesmente, no julgamento dos segundos embargos declaratórios, que o aresto embargado não incorria em vícios de omissão, contradição ou obscuridade.
+Cumpria, assim, ao [NOME] alegar ofensa ao art. 535 do CPC/73, e não aos dispositivos legais destacados.
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE ANULAÇÃO DE CONTRATO C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE INEXISTENTES. ALEGAÇÃO DE NECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR. VIOLAÇÃO DOS ARTS. 245, PARÁGRAFO ÚNICO, 267, § 3º, 475-L, II, 580, 586, 632 E 644 DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. SÚMULA Nº 410 DO STF. MATÉRIA DE ORDEM PÚBLICA. IMPRESCINDIBILIDADE DO PREQUESTIONAMENTO NA INSTÂNCIA ESPECIAL. PRECEDENTES. DISPOSITIVOS QUE, ADEMAIS, NÃO GUARDAM PERTINÊNCIA COM A MATÉRIA SUSCITADA NO APELO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. MÉRITO. MULTA PELO DESCUMPRIMENTO DE DECISÃO JUDICIAL. EXORBITÂNCIA DAS ASTREINTES. OCORRÊNCIA ANTE AS PARTICULARIDADES DO CASO. PARCIAL PROVIMENTO.
+ ..
+4. Os arts. 245, parágrafo único, 267, § 3º, 475-L, II, 580, 586, 632 e 644 do CPC não constituem imperativos legais aptos a desconstituir os fundamentos declinados no acórdão recorrido. No caso, aplica-se o enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+(REsp 1.428.172/PR, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 1º/7/2015).
+AGRAVO REGIMENTAL - AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - COMPENSAÇÃO DE OBRIGAÇÕES - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - INOCORRÊNCIA - IMPERATIVO LEGAL.
+1.- Tendo o Tribunal de origem fundamentado o posicionamento adotado com elementos suficientes à resolução da lide, não há que se falar em ofensa ao artigo 535, do CPC.
+2.- O art. 381, do Código Civil, não constitui imperativo legal apto a desconstituir os fundamentos declinados no acórdão recorrido. No caso, aplica-se o enunciado 284 da Súmula do Supremo Tribunal Federal.
+(AgRg no AREsp 458.318/RS, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 13/5/2014).
+Incide, por isso, a Súmula nº 284 do STF.
+(3) Prescrição quinquenal da ação civil pública
+As razões recursais alegaram que a ação civil pública deveria ser extinta, porque ultrapassado o prazo prescricional de cinco anos a que, nos termos dos precedentes desta Corte Superior indicados como paradigmas, estaria submetida.
+Sucede que não foi indicado o dispositivo de lei federal a respeito de cuja interpretação estaria configurada a divergência pretoriana, o que atrai a incidência da Súmula nº 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL DENEGADA NA VIA ADMINISTRATIVA. NULIDADE NA COMPOSIÇÃO DO COLEGIADO JULGADOR. ANÁLISE DA ALEGAÇÃO. INVIABILIDADE. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL FEDERAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. CONTROVÉRSIA DECIDIDA COM BASE NA LEI LOCAL. SÚMULA 280 DO STF. PRECEDENTES.
+ ..
+2. No caso, o recorrente limitou-se a apontar a existência de divergência jurisprudencial entre o entendimento firmado no acórdão combatido e o posicionamento adotado por outros tribunais acerca da presente controvérsia, sem indicar, de forma clara e precisa, os dispositivos de lei federal que teriam sido supostamente afrontados.
+Assim, a deficiência da fundamentação do recurso inviabiliza a exata compreensão da controvérsia, atraindo, assim, o enunciado da Súmula 284 do Supremo Tribunal Federal.
+(REsp 1.691.089/PR, Rel. Ministro OG FERNANDES, Segunda Turma, DJe 9/4/2018);
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. EXISTÊNCIA DE FUNDAMENTOS NÃO ATACADOS. DISSOCIAÇÃO DAS RAZÕES RECURSAIS. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS NºS 282, 283 E 284, TODAS DO STF. ART. 6º DA LINDB. NATUREZA CONSTITUCIONAL. ANÁLISE VEDADA EM SEDE ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+ ..
+5. O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+(AgInt no AREsp 934.008/DF, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 3/4/2018)
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AÇÃO CAUTELAR INOMINADA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+ ..
+2. Outrossim, a ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.103.058/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 23/3/2018)
+Ainda impende considerar que as próprias razões recursais, consoante destacado no item anterior (item 2 supra), afirmaram que teria havido omissão por parte do Tribunal de origem no enfrentamento do tema.
+Assim, considerando que mesmo as questões de ordem pública exigem prequestionamento para seu conhecimento, não seria possível, de qualquer forma, examinar o tema da prescrição da ação civil pública. Incidiria, assim, a Súmula nº 211 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. CONTRATO DE CESSÃO DE DIREITOS E OBRIGAÇÃO SOBRE IMÓVEL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. RESCISÃO CONTRATUAL. PEDIDO DE DEVOLUÇÃO DOS HONORÁRIOS CONTRATUAIS. INDEFERIMENTO. SUPOSTA UTILIZAÇÃO EM BENEFÍCIO PRÓPRIO. CONJUNTO FÁTICO DELINEADO PELO TRIBUNAL A QUO. IMPOSSIBILIDADE DE REEXAME. SÚMULAS 5 E 7 DO STJ. 3. OFENSA AO ART. 344 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. 4. AGRAVO INTERNO DESPROVIDO.
+ ..
+3. É inadmissível o recurso especial acerca de questão não prequestionada pelo Tribunal de origem, ainda que seja matéria de ordem pública.
+(AgInt no AREsp 1.142.283/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 2/4/2018);
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. USUCAPIÃO EXTRAORDINÁRIO. REQUISITOS PREENCHIDOS. NULIDADE. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. INOVAÇÃO RECURSAL. PROCESSO UTILIZADO COMO DIFUSOR DE ESTRATÉGIAS. IMPOSSIBILIDADE DO MANEJO DA CHAMADA "NULIDADE DE ALGIBEIRA". ALEGADA CONFISSÃO JUDICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282/STJ E 356/STJ. REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+2. No atinente à questão de ordem pública, esta Corte pacificou entendimento de que é necessário o prequestionamento. Precedentes.
+(AgInt no AREsp 1.181.699/PR, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 9/3/2018)
+(4) Regra de plenário
+O recurso especial apontou ofensa ao art. 97, da CF e à Súmula Vinculante nº 10 do STF, porque a constitucionalidade das Leis nºs. 2.335/87 e 7.730/89 não teria sido apreciada pelo órgão especial do Tribunal de origem.
+A matéria, todavia, escapa ao âmbito de cabimento do recurso especial, voltado ao enfrentamento de questões infraconstitucionais, apenas. Incide, por isso, a Súmula nº 284 do STF.
+(5) Prescrição dos juros remuneratórios
+[NOME] também sustentou que estaria prescrita a pretensão ao recebimento de juros remuneratórios incidentes sobre as diferenças de correção monetária pleiteadas na inicial, nos termos do art. 178, § 10, III, do CC/16.
+Na linha dos precedentes desta Corte, porém, o prazo prescricional vintenário deve ser aplicado tanto às diferenças de correção monetária quanto aos juros remuneratórios respectivos.
+Anote-se, por todos:
+RECURSO ESPECIAL REPETITIVO (ART. 543-C DO CPC) - AÇÃO DE COBRANÇA - EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA - PLANOS BRESSER E VERÃO - PRELIMINAR - PRESCRIÇÃO VINTENÁRIA - NÃO-OCORRÊNCIA - EXIBIÇÃO DOS EXTRATOS BANCÁRIOS - INVERSÃO DO ÔNUS DA PROVA EM FAVOR DA CORRENTISTA - POSSIBILIDADE - OBRIGAÇÃO DECORRENTE DE LEI - CONDICIONAMENTO OU RECUSA - INADMISSIBILIDADE - RESSALVA - DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DA EXISTÊNCIA DA CONTRATAÇÃO - INCUMBÊNCIA DO AUTOR (ART. 333, I, DO CPC) - ART. 6º DA LEI DE INTRODUÇÃO AO CÓDIGO CIVIL - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DO ENUNCIADO N. 211/STJ - NO CASO CONCRETO, RECURSO ESPECIAL IMPROVIDO.
+I - Preliminar: nas ações em que se discutem os critérios de remuneração de caderneta de poupança e são postuladas as respectivas diferenças de correção monetária e dos juros remuneratórios, o prazo prescricional é de vinte anos, não transcorrido, na espécie;
+(REsp 1.133.872/PB, Rel. Ministro MASSAMI UYEDA, Segunda Seção, DJe 28/3/2012).
+(6) e (7) Eficácia territorial da sentença e Fato do príncipe
+O recurso especial alegou que a sentença prolatada na ação civil pública somente faz coisa julgada nos limites da competência territorial do seu órgão prolator, consoante fixado no art. 16 da Lei nº 7.347/85.
+Alegou, também, que não poderia ser responsabilizado pelos prejuízos advindos da política monetária nacional, a cargo do Conselho Monetário Nacional, pois, nos termos do art. 1.277 do CC/16, o depositário não responde civilmente na hipótese de caso fortuito ou de força maior.
+O Tribunal de origem não se manifestou, contudo, a respeito dessas questões que, inclusive, foram suscitadas nos primeiros embargos de declaração opostos sem que a Corte estadual as tenha efetivamente analisado.
+Os temas carecem, pois, do necessário prequestionamento, merecendo aplicação a Súmula nº 211 do STJ.
+Nessas condições, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários advocatícios sucumbenciais, porque essa medida é incabível na espécie.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
