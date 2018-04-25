@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA PETIÇÃO EM RECURSO ESPECIAL. PEDIDO DO AGRAVANTE DE INGRESSO NA LIDE COMO AMICUS CURIAE. DEMANDA JÁ JULGADA. INTEMPESTIVIDADE. AUSÊNCIA DE EXCEPCIONALIDADE NA POSTULAÇÃO. DESCABIMENTO DO PLEITO DE INGRESSO. INDEFERIMENTO DETERMINADO PELA DECISÃO AGRAVADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do STF na matéria, especialmente por ocasião do julgamento da ADI 4.071 e da ACO 779/RJ, admite o ingresso de amicus curiae até a inclusão do feito em pauta. No julgamento do AgRg na ACO 779, Rel. Ministro Dias Toffoli, admitiu-se a possibilidade, em tese, do ingresso na lide de amicus curiae após a inclusão do feito em pauta desde que haja demonstração de uma situação excepcional.
+2. No caso dos autos, o pedido de ingresso não ocorreu apenas depois da inclusão do feito em pauta, mas após o próprio julgamento efetivado. Ademais, ainda que se admitisse que a atual demanda se encontra na mesma situação processual daquela que fora julgada pelo STF, não há nesta qualquer situação de excepcionalidade, por duas razões básicas: o requerente não fundamentou qualquer excepcionalidade a ser considerada; e a questão posta para análise reduz-se a um tema estritamente jurídico, não exigindo a manifestação de experts na área técnica ou científica.
+3. Por fim e a corroborar a absoluta ausência de excepcionalidade, bem como a não ocorrência de qualquer prejuízo ao agravante na submissão de suas ponderações ao debate, com o decisório proferido após a interposição do presente agravo regimental, a questão foi sobrestada até o julgamento do REsp 1.492.221/PR.
+4. Assim, com o julgamento do citado recurso especial na sessão de 22/2/2018, publicado o acórdão em 20/3/2018, ficou delimitada a tese jurídica buscada pelo ora agravante nestes autos, motivo pelo qual a sua inadmissão nesta lide não lhe provocou qualquer prejuízo dada a possibilidade de debate do tema que foi efetivado naquele apelo nobre.
+5. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Benedito Gonçalves, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa, Gurgel de Faria, Herman Benjamin e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+Ausente, ocasionalmente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo regimental interposto pelo Estado do Rio Grande do Sul (e-STJ, fls. 682-687), em demanda na qual a União contende com [NOME], contra decisão desta relatoria que indeferiu o pedido de ingresso na lide pelo agravante (e-STJ, fls. 669-673).
+Alega o agravante que "postulou fosse admitido a manifestar-se nos autos, salientando que, dentre as matérias definidas, há uma com reflexos diretos em inúmeros recursos de interesse do Estado do Rio Grande do Sul, qual seja, a que versa sobre juros de mora e correção monetária nos débitos da Fazenda Pública".
+Aduz que, no caso, existe relevância da matéria debatida bem como efetivo interesse na controvérsia, razão pela qual não deve ser mantida a decisão que indeferiu o seu ingresso na lide.
+Requer seja reconsiderada a decisão agravada, a fim de deferir-se a sua participação no julgamento do presente feito.
+No decisum proferido (e-STJ, fls. 690-695), foi determinado o sobrestamento deste feito até a conclusão do julgamento do REsp 1.492.221/PR.
+Não houve impugnação.
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): O pedido do agravante de admissão na lide na condição de amicus curiae é absolutamente intempestivo.
+É que somente foi interposto nestes autos após o julgamento da lide (e-STJ, fls. 660-664), sendo certo que a jurisprudência do STF na matéria, especialmente por ocasião do julgamento da ADI 4.071 e da ACO 779/RJ, admite o ingresso de amicus curiae até a inclusão do feito em pauta.
+Friso, por oportuno, que as premissas do julgado do STF referente ao AgRg na ACO 779, Rel. Ministro Dias Toffoli, não se aplicam à hipótese em exame. O STF, nesse julgamento, admitiu a possibilidade, em tese, do ingresso na lide de amicus curiae após a inclusão do feito em pauta desde que haja demonstração de uma situação excepcional.
+No caso dos autos, em primeiro lugar, o pedido de ingresso não ocorreu apenas depois da inclusão do feito em pauta, mas após o próprio julgamento efetivado.
+Em segundo lugar, ainda que se admitisse que atual demanda se encontra na mesma situação processual daquela que fora julgada pelo STF, não há nesta qualquer situação de excepcionalidade, por duas razões básicas: a) o requerente não fundamentou qualquer excepcionalidade a ser considerada; b) a questão posta para análise reduz-se a um tema estritamente jurídico, não exigindo a manifestação de experts na área técnica ou científica.
+Por fim, a parte sequer pode aventar qualquer prejuízo na submissão de suas ponderações ao debate, porque, com o decisório proferido após a interposição do presente agravo regimental, a questão foi sobrestada até o julgamento do REsp 1.492.221/PR.
+Assim, com o julgamento do citado recurso especial na sessão de 22/2/2018, publicado o acórdão em 20/3/2018, ficou delimitada a tese jurídica buscada pelo ora agravante nestes autos, motivo pelo qual a sua inadmissão nesta lide não lhe provocou qualquer prejuízo dada a possibilidade de debate do tema que foi efetivado naquele REsp 1.492.221/PR.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
