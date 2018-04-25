@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA [NOME], contra decisão que não admitiu recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementado (fl. 109, e-STJ):
+AGRAVO REGIMENTAL - DECISÃO MONOCRÁTICA - AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - DENUNCIAÇÃO À LIDE - RECONHECIMENTO E DETERMINAÇÃO DE CITAÇÃO - NÃO IMPUGNAÇÃO - CONTESTAÇÃO COM ALEGAÇÃO DE ILEGITIMIDADE E RECUSA - NÍTIDO PEDIDO DE RECONSIDERAÇÃO - QUESTÃO PRECLUSA - INCIDÊNCIA DO ART. 75, II, DO CPC - PROCEDIMENTO REGULAR - RECURSO CONHECIDO E DESPROVIDO.
+1. O colendo Superior Tribunal de Justiça, sufragou entendimento de que o pedido de reconsideração não interrompe nem suspende o prazo para a interposição do recurso cabível.
+2. A decisão agravada que apenas mantém entendimento anterior não tem o condão de reabrir discussão sobre matéria que se encontra preclusa.
+3. Mesmo havendo a recusa da denunciação (art. 75, II, do CPC) torna-se descabida a pretensão de exclusão do processo, porque a agravante ainda permanece como ré na denunciação, e aquela alegação se opera como contestação.
+4. Decisão monocrática mantida.
+Nas razões do apelo especial, a parte recorrente sustentou ofensa ao art. 75, II, do Código de Processo Civil de 1973, alegando que "o objeto do recurso não é a determinação da citação por ocasião da análise do pedido de denunciação à lide, mas, sim, a injuridicidade na aplicação da regra do inciso II do artigo 75 da lei processual" (fl. 124, e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n.13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Verifica-se que o recurso não é claro quanto às razões da violação do art. 75, II, do CPC/1973, pois a parte recorrente tece apontamentos imprecisos sem evidenciar de fato as circunstâncias em que o acórdão recorrido teria afrontado o referido dispositivo, o que torna precária a construção de qualquer entendimento quanto ao mérito do que se pretende.
+Desse modo, a fundamentação do recurso especial é deficiente e prejudica a compreensão da controvérsia, o que atrai a incidência da Súmula 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DECISÃO DOS JURADOS CONTRÁRIA À PROVA DOS AUTOS. NÃO CONSTATADA. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO. SÚMULA 07/STJ.
+I - Nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, a Súmula 284 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+II - Rever o posicionamento do Tribunal de origem, com o objetivo de acolher a pretensão recursal, quanto à decisão dos jurados ser contraria à provas dos autos, demanda o vedado reexame do conjunto fático-probatório dos autos, nos termos da Súmula 07/STJ, assim enunciada: A pretensão de simples reexame de prova não enseja recurso especial.
+III - Agravo regimental não provido.
+(AgRg no AREsp 462.802/RO, Rel. Ministra REGINA HELENA COSTA, QUINTA TURMA, DJe 26.8.2014).
+Observo, ainda, que o dissídio jurisprudencial não foi demonstrado nos termos dos arts. 541, parágrafo único, do Código de Processo Civil de 1973 e 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça; para tanto, é necessária a demonstração da similitude de panorama de fato e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando a simples transcrição de ementas, como feito no caso concreto.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
