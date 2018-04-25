@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTE TRIBUNAL QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DO AGRAVANTE.
+1. Razões do agravo (art. 544 do CPC/73) que não impugnaram especificamente o fundamento invocado na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC 73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental desprovido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo regimental, interposto por EDIFICIO BRAZILIAN ART, contra decisão monocrática de fls. 736/737, e-STJ, da lavra da Presidência desta Corte, que não conheceu do agravo (art. 544 do CPC/73) ante a ausência de ataque específico a todos os fundamentos da decisão agravada.
+Opostos embargos de declaração, restaram rejeitados pela decisão de fls. 745/746 (e-STJ).
+Irresignado, o agravante interpõe o presente agravo regimental (fls. 750/757, e-STJ), no qual sustenta, em síntese, que "a agravante atacou de forma absolutamente especificada os fundamentos da decisão, até porquanto o V. Acórdão recorrido traz em seu bojo assertiva sobre a necessidade de aplicação do artigo 1532 do CC e o Recurso foi taxativo ao afirmar a aplicabilidade do artigo em questão de forma conjugada ao artigo 1533 do CC".
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do regimental pelo Colegiado.
+Impugnação às fls. 760/762, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO (ART. 544 DO CPC/73) - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTE TRIBUNAL QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DO AGRAVANTE.
+1. Razões do agravo (art. 544 do CPC/73) que não impugnaram especificamente o fundamento invocado na decisão de inadmissão do recurso especial. Em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão agravada. Correta aplicação analógica da Súmula 182 do STJ: "É inviável o agravo do art. 545 do CPC 73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental desprovido.
+
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo regimental não merece acolhida, porquanto os argumentos tecidos pelo agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida na íntegra por seus próprios fundamentos.
+1. Com efeito, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o decisum hostilizado, de maneira a demonstrar que o julgamento proferido merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge, devendo especificamente infirmar a fundamentação utilizada.
+Assim, consoante entendimento sedimentado desta Corte, pelo princípio da dialeticidade, compete à parte agravante evidenciar a inadequação de todos os óbices invocados na decisão de admissibilidade do recurso especial, autônomos ou não, sob pena de atrair o enunciado da Súmula 182 do STJ, a saber: "É inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido, confira-se:
+PROCESSO CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. RAZÕES RECURSAIS QUE NÃO TRATAM DOS ARGUMENTOS DA DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA. SÚMULA 182/STJ. AUSÊNCIA DE PEDIDO DE REFORMA DA DECISÃO AGRAVADA. PRINCÍPIO DISPOSITIVO. RECURSO NÃO CONHECIDO. 1. Os agravantes não enfrentaram em seu recurso o fundamento da decisão agravada, que estabeleceu serem incabíveis embargos de divergência contra decisão monocrática, nem formularam pedido para sua reforma. 2. Para se viabilizar o conhecimento do agravo regimental, sobretudo diante do princípio da dialeticidade, é necessário que se impugnem especificamente todos os fundamentos da decisão agravada, o que não ocorreu na hipótese em exame. A decisão objurgada permanece incólume e atrai o Verbete Sumular n. 182 do STJ. 3. O princípio dispositivo impõe que a parte recorrente formule pedido de reforma da decisão recorrida, sob pena de não conhecimento do recurso. 4. Agravo regimental não conhecido. (AgRg nos EAREsp 623.863/RS, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 21/10/2015, DJe 20/11/2015)  grifou-se
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. IMPUGNAÇÃO TOTAL E ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. 1. Com base no princípio da dialeticidade, compete à parte recorrente impugnar todos os fundamentos da decisão de admissibilidade do recurso especial, autônomos ou não, sob pena de atrair o óbice contido no enunciado da Súmula 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). 2. Para viabilizar o prosseguimento (admissibilidade) do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores. 3. O fato de a questão jurídica debatida no recurso especial estar afetada ao julgamento da Primeira Seção, sob o regime do art. 543-C do CPC, não
+justifica, nem desobriga o recorrente de cumprir os requisitos de admissibilidade do recurso. Ainda que equivocada a decisão denegatória do recurso especial, seus fundamentos devem ser impugnados pela parte agravante a fim de viabilizar o exame do recurso especial. 4. Agravo regimental desprovido. (AgRg no AREsp 770.897/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 10/11/2015, DJe 20/11/2015)  grifou-se
+No caso dos autos, verifica-se que, nas razões do agravo (fls. 700/712, e-STJ), o insurgente não combateu, especificamente, os fundamentos utilizados na decisão agravada.
+Isto porque, em juízo provisório de admissibilidade, inadmitiu-se o recurso especial sob o fundamento de que se aplica à hipótese o enunciado da Súmula 7 do STJ, além de não ter restado demonstrada na peça recursal a exata similitude de situações com soluções jurídicas diversas entre os vv. acórdãos paragonado e paradigma.
+Ocorre que, nas razões de agravo (art. 544 do CPC/73), o insurgente sequer menciona o referido óbice (Súmula 7/STJ, cuja incidência, vale lembrar, impede o conhecimento da insurgência também quanto à divergência jurisprudencial), não trazendo, da mesma forma, qualquer fundamento apto a afastar a sua aplicação.
+É de rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo regimental.
+É como voto.
