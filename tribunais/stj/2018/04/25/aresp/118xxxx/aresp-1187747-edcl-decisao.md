@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por [NOME] HIPODROMO EMPREENDIMENTOS LTDA e ATUA CONSTRUTORA E INCORPORADORA S/A contra a decisão de fls. 396/397, que não conheceu do recurso.
+Em suas razões, sustenta a parte Embargante, em síntese, que o "Com a devida vênia, ao contrário do que constou no decisum, as Recorrentes foram intimadas no sentido de que fosse regularizada a representação processual do subscritor do Agravo em Recurso Especial, e não do Recurso Especial (..)" (fl. 402).
+Aduz, ainda, que "Seguindo estritamente o comando exarado no despacho retro, as Embargantes colacionaram procuração atualizada conferindo poderes ao subscritor do Agravo em Recurso Especial, qual seja, Dr. [NOME] (agravo em anexo), apesar de já haver procuração conferindo-lhe poderes às fls.207/208 dos autos, igualmente em anexo." (fl. 403).
+Alude, também, que "Sem prejuízo, haja vista que a intimação das Embargantes buscava em realidade a regularização da representação processual do subscritor do Recurso Especial, requer-se neste ato a juntada de substabelecimento conferindo poderes ao Dr. [NOME]." (fl. 403).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Analisando os autos, verifico que existe erro material na decisão embargada, razão pela qual a corrijo.
+Houve erro na decisão de fls. 396/397. O despacho foi proferido para a regularização da procuração no subscritor do agravo em recurso especial, porém, verifica-se que a procuração se encontra na fl. 207. Quanto à procuração do subscritor do recurso especial, como a publicação do acórdão ocorreu sob a égide do CPC/73 a falta de procuração do subscritor do recurso especial é vício insanável.
+O marco temporal de aplicação do Novo Código de Processo Civil é a intimação do decisum recorrido.
+Dessa forma, o Novo Código de Processo Civil entrou em vigor em 18/03/2016, sendo aplicado somente a recursos cujo decisum recorrido tenha sido publicado a partir desta data.
+Logo, no caso específico dos autos, serão aplicados os requisitos de admissibilidade do Código de Processo Civil de 1973 para o Recurso Especial (intimação do acórdão recorrido em 09/03/2016 - fl. 346), e o Código de Processo Civil de 2015 para o Agravo em Recurso Especial (intimação da decisão agravada em 08/03/2017 - fl. 364).
+De fato, não havia vício de representação no agravo em recurso especial. No entanto, há vício de representação do recurso especial.
+Veja-se que o recurso especial de fls. 347/354 foi interposto ainda na vigência do Código de Processo Civil de 1973. O subscritor da referida peça processual, Dr. [NOME], no momento da apresentação do recurso não tinham procuração nos autos.
+Como as regras que se aplicam a esse recurso são a do Código de Processo Civil de 1973, é inaplicável a providência de que tratava o art. 13 do mesmo diploma em sede especial, devendo a representação processual estar formalmente perfeita por ocasião da interposição do recurso (EREsp 868.800/RS, Corte Especial, Rel. Min. Laurita Vaz, DJe de 11/11/2010).
+Portanto, devem ser observadas as regras nele previstas, nos termos do Enunciado Administrativo nº 2 do STJ, "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça", ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 1973, não havendo possibilidade de regularização posterior e a juntada efetuada posteriormente não tem validade, porque preclusa a oportunidade.
+Ante o exposto, ACOLHO os embargos de declaração para corrigir o erro material verificado na decisão de fls. 396/397, nos termos acima debatidos, mantido, porém, o NÃO CONHECIMENTO do recurso, nos termos do art. 21-E, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
