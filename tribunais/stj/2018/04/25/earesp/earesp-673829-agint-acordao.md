@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO DE DIVERGÊNCIA QUE NÃO ADMITIU O ESPECIAL. EMBARGOS DE DIVERGÊNCIA INCABÍVEIS. DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182/STJ. CPC/2015, ART. 1.021, §1º.
+1. Caso em que o acórdão embargado de divergência não ingressou no mérito do Recurso Especial, aplicando óbices ao seu conhecimento, motivo pelo qual a decisão monocrática agravada considerou os Embargos de Divergência incabíveis.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ e do art. 1.021, §1º, do CPC/2015.
+3. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Assusete Magalhães e os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria, Herman Benjamin, Napoleão Nunes Maia Filho e Og Fernandes votaram com o Sr. Ministro Relator.
+Ausente, ocasionalmente, o Sr. Ministro Francisco Falcão.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática assim ementada:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. APLICAÇÃO DE REGRA TÉCNICA CONCERNENTE AO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SÚMULA 315/STJ.
+Afirma a agravante que tem direito à implantação de 3,17% em seus proventos, nos moldes como, segundo a agravante, transitou em julgado na fase de conhecimento. Alega que efetuou cotejo analítico. Aduz que é possível conhecer do Recurso Especial. Acrescenta que a divergência é evidente.
+O agravado, intimado, deixou de apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO DE DIVERGÊNCIA QUE NÃO ADMITIU O ESPECIAL. EMBARGOS DE DIVERGÊNCIA INCABÍVEIS. DECISÃO AGRAVADA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 182/STJ. CPC/2015, ART. 1.021, §1º.
+1. Caso em que o acórdão embargado de divergência não ingressou no mérito do Recurso Especial, aplicando óbices ao seu conhecimento, motivo pelo qual a decisão monocrática agravada considerou os Embargos de Divergência incabíveis.
+2. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ e do art. 1.021, §1º, do CPC/2015.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de apreciar Agravo Interno interposto contra decisão monocrática que considerou inadmissíveis os Embargos de Divergência, sob o fundamento de que são incabíveis Embargos de Divergência em face de acórdão que não tenha admitido o Recurso Especial.
+Nas razões do agravo interno ora em exame, a agravante faz uma série de alegações, mas não impugna o fundamento da decisão monocrática agravada.
+As razões do agravo interno, dessarte, não impugnam o fundamento da decisão monocrática agravada, deixando, com isso, de dar cumprimento à exigência contida no art. 1.021, §1º, do CPC/2015: "§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada". Tal previsão legal tornou expresso o entendimento jurisprudencial já consolidado no verbete sumular n. 182/STJ.
+Assim sendo, por falta de impugnação específica, inadmissível o Agravo Interno.
+É nesse sentido a jurisprudência deste Superior Tribunal de Justiça, como se constata, dentre inúmeras outras, das seguintes ementas:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INCIDÊNCIA DO ENUNCIADO 315 DESTA CORTE. ACÓRDÃO EMBARGADO QUE NÃO JULGA O MÉRITO DO RECURSO ESPECIAL. PARADIGMA QUE VERSA SOBRE O MÉRITO DA CONTROVÉRSIA. INEXISTÊNCIA DE SIMILITUDE FÁTICA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO CONHECIDO.
+1. É inviável o agravo interno que não impugna os fundamentos da decisão agravada. Aplicação do disposto na Súmula 182/STJ.
+2. Agravo interno não conhecido (AgInt nos EAREsp 698.877/SP, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 11/10/2016).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. INOBSERVÂNCIA DA DIALETICIDADE. IRREGULARIDADE FORMAL. 1. É assente no Superior Tribunal de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão agravada pelos próprios fundamentos. 2. O agravo regimental que não impugna os fundamentos da decisão agravada configura-se formalmente irregular, porque inobservado o princípio da dialeticidade, sendo, portanto, manifestamente inadmissível. 3. Agravo regimental não conhecido. (AgRg nos EAREsp 482.632/RJ, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 02/12/2015, DJe 14/12/2015).
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. INCIDÊNCIA DA SÚMULA N. 182/STJ, POR ANALOGIA. RECURSO NÃO CONHECIDO. 1. A decisão agravada indeferiu liminarmente os embargos de divergência porque não comprovado o dissídio jurisprudencial e ante o fato de o acórdão embargado não ter examinado o mérito da controvérsia. 2. As razões do agravo regimental não enfrentam os fundamentos da decisão monocrática, defendendo tese de mérito sequer analisada pelo aresto da Terceira Turma. 3. Inexistindo impugnação específica ao decisum impugnado, restou desatendido o princípio da dialeticidade, motivo pelo qual incide, no caso em exame, por analogia, a Súmula n. 182/STJ: "É inviável o exame do agravo do artigo 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." Precedentes da Corte Especial. 4. Agravo regimental não conhecido. (AgRg no AgRg nos EAREsp 557.525/PR, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 02/12/2015, DJe 14/12/2015).
+Ante o exposto, não conheço do agravo interno. É o voto.
