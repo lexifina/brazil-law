@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MILITAR. OFICIAL DAS FORÇAS ARMADAS. EXERCÍCIO DE CARGO PÚBLICO CIVIL PERMANENTE. DEMISSÃO EX OFFICIO. DEVER-PODER DA ADMINISTRAÇÃO. EXIGÊNCIA DE PRÉVIA INDENIZAÇÃO INDEVIDA. COBRANÇA POSTERIOR. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+    1. O art. 117 da Lei 6.880/80, ao determinar que ‘O oficial da ativa que passar a exercer cargo ou emprego público permanente, estranho à sua carreira, será imediatamente demitido ex officio e transferido para a reserva não remunerada’, impõe à Administração um ato vinculado que não lhe faculta margem de discricionariedade. Não tem ela a opção de não demitir o militar, em face da vedação constitucional ao exercício concomitante de outro cargo público permanente.
+    2. A demissão ex officio do militar que passa a exercer cargo ou emprego público permanente, estranho à sua carreira, não está condicionada ao pagamento da indenização por ele devida ao erário, referente às despesas decorrentes de sua preparação profissional, cuja cobrança poderá ser feita posteriormente, na forma prevista em lei.
+    3. Agravo regimental não provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 93, 97, 116 e 142 da Constituição.
+    Foi determinado o sobrestamento do feito até o julgamento, pelo Plenário desta Corte, da ADI 1.626, sob a relatoria do Ministro Dias Toffoli.
+    Afasto o sobrestamento, tendo em vista que o Plenário do Supremo Tribunal Federal examinou o mencionado paradigma.
+    Passo a análise do recurso.
+    O recurso não deve ser provido. À exceção do art. 142 da Constituição, os demais preceitos constitucionais tidos por violados não foram objeto de análise pelo Tribunal de origem. Tampouco foram suscitados nos embargos de declaração opostos. Nesse ponto, o recurso carece de prequestionamento (Súmulas 282 e 356/STF).
+    Em sede de embargos de declaração, o Tribunal de origem esclareceu a impossibilidade de impor o pagamento da indenização como condição prévia para a exclusão do recorrido das fileiras da Força Aérea, uma vez que entendimento contrário estaria obrigando o impetrante a permanecer no serviço ativo, situação que “se mostra flagrantemente inconstitucional, diante do princípio segundo o qual ‘Ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei (art. 5°, II, da Constituição da República), mormente porque não se trata do serviço militar obrigatório previsto no art. 143, também da Carta Constitucional”.
+     Esses são fundamentos autônomos e suficientes para a manutenção do julgado, que não foram atacados no recurso extraordinário. Nessas condições, aplica-se a Súmula 283/STF.
+    O Supremo Tribunal Federal, no julgamento da ADI 1.626, assentou o entendimento no sentido de que os arts. 116 e 117 da Lei nº 6.880/1980, na redação dada pela Lei nº 9.297/1996, estão alinhados com o texto constitucional e tais normas, por sua vez, não afastam a liberdade individual do militar para desempenhar outras atividades (art. 5º, XIII, CF/1988), vedando-se somente a acumulação simultânea da função de defesa da nação (art. 142, § 3º, II, CF/1988) com outra que lhe é estranha. Além disso, destacou que a imposição de reposição dos custos dispendidos pela União com o oficial militar não agride referida liberdade.
+    O Superior Tribunal de Justiça não divergiu desse entendimento ao assentar que está resguardado à União o direito de cobrar do ora recorrido a indenização prevista no art. 117 da Lei nº 6.880/1980, não sendo possível, no entanto, impor como condição prévia o pagamento integral dessa indenização para a sua retirada das fileiras da Força Aérea.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 25 de abril de 2018.
+Ministro Luís Roberto Barroso
+Relator
