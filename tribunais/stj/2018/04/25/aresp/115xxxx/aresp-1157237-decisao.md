@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de AGRAVO EM RECURSO ESPECIAL interposto contra decisão que inadmitiu recurso especial.
+É o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que foi percebida, no Superior Tribunal de Justiça, a irregularidade no recolhimento do preparo, razão pela qual houve a intimação da parte Recorrente, com fundamento no art. 1.007, §§ 2º e 4º, do Código de Processo Civil, para complementar o recolhimento, no prazo de 5 (cinco) dias, somente da parte faltante da verba em dobro, uma vez que foi recolhido o preparo somente de forma simples, mesmo sendo devido em dobro, sob pena de não conhecimento do recurso.
+Apesar disso, mesmo tendo sido regularmente intimada para efetuar a complementação, a parte não se manifestou, não regularizando o preparo de forma adequada, em descumprimento ao § 2.º, c.c. o § 4.º, ambos do art. 1.007 do Código de Processo Civil.
+Não obstante tratar-se de recurso interposto por Conselho de Fiscalização Profissional, a Primeira Seção deste Superior Tribunal de Justiça consolidou o entendimento acerca da questão, nos moldes do art. 543-C do Código de Processo Civil de 1973, no sentido de que "o benefício da isenção do preparo, conferido aos entes públicos previstos no art. 4º, caput, da Lei 9.289/1996, é inaplicável aos Conselhos de Fiscalização Profissional" (REsp nº 1.338.247/RS, Rel. Min. Herman Benjamin, DJe de 19/12/2012).
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
