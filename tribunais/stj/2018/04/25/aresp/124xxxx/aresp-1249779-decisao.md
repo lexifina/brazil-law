@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). IMPUGNAÇÃO À HOMOLOGAÇÃO DE LAUDO PERICIAL CONTÁBIL. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO À COISA JULGADA E À PRECLUSÃO. INEXISTÊNCIA DE ERROS NA ELABORAÇÃO DO LAUDO. INOCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL NA PARTE CONHECIDA.
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por BANCO DO BRASIL S/A, contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO - IMPUGNAÇÃO À HOMOLOGAÇÃO DE LAUDO PERICIAL CONTÁBIL - INEXISTÊNCIA DE ERROS NA ELABORAÇÃO DO LAUDO - LITIGÂNCIA DE MÁ-FÉ - NÃO OCORRÊNCIA- DECISÃO MANTIDA. RECURSO IMPROVIDO.
+Na hipótese, não se vislumbram do laudo pericial contábil, na forma aventada pelo agravante, e nos estritos do recurso de agravo, erros procedimentais ou contrariedades aos parâmetros do título executivo, senão mero inconformismo do agravante quanto ao resultado da liquidação de sentença, decorrendo à manifesta improcedência do presente recurso.
+A mera improcedência das razões e alegações da parte não são bastantes para reconhecer a temeridade processual, notadamente, por valer-se de recurso previsto em lei, em que não se reconhece a utilização do expediente para fins meramente protelatórios.
+Opostos embargos de declaração, foram rejeitados o do recorrente e acolhidos o dos recorridos, sem efeitos infringentes (e-STJ fls. 1713/1721).
+Em seu recurso especial, o recorrente alega ofensa aos arts. 489, §1º, IV, V, VI, 505, 506, 507, 508, 509, §4ª e 1022, I e II do CPC, sustentando, em síntese, negativa de prestação jurisdicional e ofensa à preclusão e à coisa julgada, uma vez que a decisão proferida na liquidação de sentença não observou os limites da sentença e da decisão que havia afastado a apuração dos danos emergentes.
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+Preliminarmente, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação. Ademais, o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+No que concerne à observância do comando judicial no laudo pericial, a análise dessa questão demanda necessariamente o reexame do conteúdo fático-probatório, vedada em sede de recurso especial a teor da Súmula nº 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO. EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. ASSEMBLEIAS GERAIS EXTRAORDINÁRIA (AGE). REALIZAÇÃO EM TRÊS MOMENTOS DISTINTOS. LIQUIDAÇÃO DE SENTENÇA. IMPUGNAÇÃO. LAUDO DA CONTADORIA. LEGITIMIDADE DOS VALORES APURADOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. A atual fase em que se encontra o processo, no qual se busca liquidar a sentença, já superou a questão referente à necessidade de realização das Assembleias Gerais para autorizar a restituição do empréstimo compulsório sobre energia elétrica, porquanto já efetuadas em três momentos distintos.
+2. A primeira conversão, que abrangia créditos constituídos entre 1978 e 1985, ocorreu com a 72ª Assembleia Geral Extraordinária (AGE), em 20.4.1988. A segunda conversão, referente aos créditos de 1986 a 1987, foi realizada em 26.4.1990, por meio da 82ª AGE. Por derradeiro, a restituição dos últimos créditos, constituídos entre 1988 e 1993, foram autorizados em 30.6.2005, com a realização da 143ª AGE. (REsp 1.028.592/RS e 1.003.955/RS, relatoria da Min. Eliana Calmon, submetido ao rito previsto no art. 543-C do CPC).
+3. As ações de conhecimento vinculadas ao tema - empréstimo compulsório de energia elétrica - cingiam-se a questionar, essencialmente, não a forma de restituição do principal, mas a incorreta correção monetária efetuada pela Eletrobras, que acabava por restituir aos administrados valores inferiores ao devido.
+4. Assim, no julgamento das ações de conhecimento, às Cortes competentes para o deslinde da controvérsia limitava-se analisarem, em síntese: (a) a existência de valores prescritos; e (b) se os valores não prescritos foram restituídos de forma legítima, de modo a afastar o enriquecimento ilícito de uma das partes em detrimento da outra.
+5. Firmado entendimento na ação de conhecimento, já encoberto pelo manto da coisa julgada, cabe agora tão somente, diante da incerteza do valor devido, proceder à liquidação da sentença (art. 475-A do CPC), obedecidos os parâmetros estabelecidos no título judicial.
+6. Nesse ponto, o Tribunal de origem concluiu, após apresentação de impugnação ao valor apresentado e análise na contadoria do Tribunal, que os valores apresentados pela serventia da Corte atendiam aos parâmetros fixados no título executivo. A modificação desta conclusão é inviável em sede de recurso especial, sob pena de
+violação da Súmula 7 do STJ. Agravo regimental improvido.
+(AgRg no REsp 1310144/RS, Relator(a) Ministro HUMBERTO MARTINS, SEGUNDA TURMA, Data do Julgamento 15/05/2012 Data da Publicação/Fonte DJe 21/05/2012)
+PROCESSUAL CIVIL. DESAPROPRIAÇÃO. LIQUIDAÇÃO DE SENTENÇA. PADRÃO MONETÁRIO. CONVERSÃO. DECISÃO COM FUNDAMENTO EM LAUDO PERICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. A União discorda dos valores alcançados alegando que não foi feita a divisão da moeda por 1000, na passagem do padrão monetário vigente em 1967 - Cruzeiro para Cruzeiro Novo. Nesse particular, razão não lhe assiste, pois os valores dos alugueis referidos no laudo elaborado pela Contadoria, nos termos do assentado pela Corte local, estão fixados no padrão monetário cruzeiro da data do laudo e não de 1942.
+2. Agravo regimental não provido.
+(AgRg no REsp 983773/BA, Relator(a) Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA Data do Julgamento 19/08/2010 Data da Publicação/Fonte DJe 27/04/2011)
+Destarte, a pretensão recursal não merece prosperar.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+Assim, como o caso dos autos é proveniente de sentença condenatória, sendo fixada verba honorária de 12% sobre o valor da homologação dos cálculos, a majoração dos honorários a ser pago pela parte recorrente para 15% é medida adequada ao caso.
+Ante o exposto, com base no art. 932, inciso IV, do CPC/2015 c/c a Súmula 568/STJ, conheço do agravo para, desde logo, negar provimento ao recurso especial na parte conhecida.
+Intimem-se.
