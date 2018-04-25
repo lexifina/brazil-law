@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+LIMINAR – EXTENSÃO – CORRÉU.
+    1. O assessor Dr. Rafael Ferreira de Souza prestou as seguintes informações:
+    O Juízo do Vara Plantão da 16ª Circunscrição Judiciária, Comarca de São José do Rio Preto/SP, no processo nº 0000969-94.2017.8.26.0559, converteu as prisões em flagrante da paciente e de outro investigado, ocorridas em 2 de setembro de 2017, em preventivas, em virtude da suposta prática da infração descrita no artigo 33, cabeça (tráfico de drogas), da Lei nº 11.343/2006. Consignou necessária a constrição para garantir a ordem pública, a instrução processual e a aplicação da lei penal. Destacou a quantidade e o potencial lesivo dos entorpecentes encontrados – 29 pedras de crack, pesando 6,81 gramas, e 2 porções de maconha, totalizando 2,3 gramas –, além da apreensão de objetos para embalar as substâncias, aparelho celular e R$ 73,25. Ante a gravidade da conduta, entendeu insuficiente medida cautelar substitutiva. Indeferiu pedido de revogação da custódia.
+    Chegou-se ao Superior Tribunal de Justiça com recurso em habeas corpus nº 94.067/SP, desprovido pela Quinta Turma.
+    O impetrante sustenta a inidoneidade dos fundamentos do ato constritivo, tendo-os como abstratos. Salienta as condições pessoais favoráveis da paciente – primariedade, bons antecedentes, trabalho lícito e residência fixa. Sublinha a excepcionalidade da preventiva, aludindo aos incisos LVII e LXVI do artigo 5º da Constituição Federal. Aduz não demonstrada a autoria delitiva. Aponta a adequação de medida alternativa. Diz que a paciente está sendo responsabilizada criminalmente apenas em razão de manter relação de proximidade com o outro envolvido.
+    Requer, no campo precário e efêmero, o implemento de liberdade provisória, cumulada ou não com cautelar diversa. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça, no dia 23 de abril último, constatou-se o recebimento da denúncia em 2 de fevereiro de 2018. O andamento processual revelou encontrar-se em curso, perante o Juízo da Primeira Vara do Foro de José Bonifácio/SP, a instrução criminal.
+    A etapa é de apreciação da liminar.
+    2. A gradação do tráfico de entorpecentes, considerada a variedade e quantidade de substâncias e objetos apreendidos – 29 pedras de crack, pesando 6,81 gramas, e 2 porções de maconha, totalizando 2,3 gramas, além de material para embalar drogas e R$ 73,25 –, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, presentes os fortes indícios de periculosidade da paciente, a custódia se impunha. Daí, no caso específico, ter-se como razoável e conveniente o pronunciamento atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    Surge a problemática do excesso de prazo. A paciente está presa, sem culpa formada, desde o dia 2 de setembro de 2017, ou seja, há 7 meses e 23 dias. A preventiva deve balizar-se no tempo. Privar da liberdade, por período desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do ato mediante o qual implementada, em cumprimento antecipado da sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso a paciente não se encontre recolhida por motivo diverso da prisão preventiva formalizada no processo nº 0000969-94.2017.8.26.0559, da Primeira Vara do Foro de José Bonifácio/SP. Advirtam-na da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda da cidadã integrada à sociedade.
+    4. Sendo idêntica a situação do corréu Lucas Araújo Soares, estendo-lhe a medida acauteladora, observado o disposto no artigo 580 do Código de Processo Penal.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 25 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
