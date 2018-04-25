@@ -1,0 +1,44 @@
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DA DROGA APREENDIDA. MAIS DE 16 KG DE MACONHA. PROGRESSÃO. POSSIBILIDADE. RATIFICAÇÃO DE LIMINAR. ART. 387, § 2º, DO CPP. DETRAÇÃO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE.
+Ordem parcialmente concedida tão somente a fim de determinar que o Tribunal de origem reavalie o regime fixado para o início do cumprimento da pena, levando em consideração o disposto no art. 387, § 2º, do Código de Processo Penal. Ratificação da liminar anteriormente concedida que afastou a vedação quanto à progressão a regime menos gravoso.
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de [NOME], apontando-se como órgão coator o Tribunal de Justiça de São Paulo (Apelação n. 0016569-03.2014.8.26.0482 - fls. 20/25).
+Verifica-se dos autos que o Tribunal de origem manteve integralmente a sentença que condenou a paciente à pena de 4 anos, 10 meses e 10 dias de reclusão, a ser inicialmente cumprida em regime fechado, como incursa no art. 33, caput, e § 4º, c/c o art. 40, V, da Lei n. 11.343/2006, porque trazia consigo 16,02 quilos de maconha, na forma de 25 tijolos (fl. 13).
+Aqui, a defesa pretende, em suma, a fixação do regime semiaberto para o início do cumprimento da reprimenda, uma vez que se trata de paciente primária, condenada à pena inferior à 8 anos de reclusão, e cuja pena-base foi fixada no mínimo legal.
+Por fim, postula a aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, a fim de que se estabeleça o regime aberto.
+Liminar deferida apenas para afastar a vedação quanto à progressão ao regime menos gravoso (fl. 37/39), informações prestadas (fls. 50/61 e 63/86), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do writ, em parecer assim ementado (fls. 89/90):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO. REGIME FECHADO. FUNDAMENTAÇÃO ADEQUADA. ELEVADA QUANTIDADE DE DROGAS. DETRAÇÃO.
+As decisões colegiadas dos Tribunais de Justiça, proferidas em última ou única instância, devem ser impugnadas através dos recursos excepcionais, para o Superior Tribunal de Justiça ou para o Supremo Tribunal Federal. Se transitadas em julgado, devem ser, eventualmente, modificadas através da revisão criminal, para a qual o Superior Tribunal de Justiça não tem competência, salvo em relação aos seus próprios julgados. Ressalva-se a concessão de ordem de ofício quando caracterizado flagrante constrangimento ilegal à liberdade de locomoção.
+O regime fechado foi fixado com base em adequada fundamentação, considerando vetorial desfavorável inscrita no art. 42, da Lei Antidrogas, diante da expressiva quantidade de substância entorpecente, ficando registrado que a ré trazia consigo 16,02 kg , na forma de 25 (vinte e cinco) "tabletes" ou "tijolos" de substância entorpecente popularmente chamada "maconha", circunstância que desautoriza a fixação de regime prisional menos rigoroso.
+O disposto no § 2º, do art. 387, do Código de Processo Penal, com redação conferida pela Lei nº 12.736/2012, não guarda relação com o instituto da progressão de regime, disciplinado na execução penal, pois o legislador cuidou de abranger o referido dispositivo no Título XII - Da Sentença.
+Desse modo e em razão do próprio teor do dispositivo em destaque, que se refere a regime inicial de cumprimento de pena, cabe ao juiz sentenciante a verificação da possibilidade de se estabelecer um modo de execução mais brando, tendo em vista a detração no caso concreto.
+No caso sob exame, todavia, a análise da detração foi afastada porque, segundo a sentença, o único regime cabível seria o fechado, tendo em vista a gravidade do delito - equiparado ao hediondo -, "considerando principalmente a grande quantidade de droga que estava sendo transportada" (fl. 18).
+Parecer pelo não conhecimento do writ.
+É o relatório.
+Verifico que foi fixado o regime fechado para o início do cumprimento da reprimenda de 4 anos, 10 meses e 10 dias de reclusão, apesar do estabelecimento da pena-base no mínimo legal, não apenas em virtude da hediondez do crime de tráfico de drogas, mas também em razão da excessiva quantidade do entorpecente apreendido com a paciente (mais de 16 Kg de maconha - fls. 13 e 18), o que constitui fundamento idôneo, conforme tem decidido esta Corte:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. MAUS ANTECEDENTES. CIRCUNSTÂNCIA QUE IMPEDE A APLICAÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/06. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. PENA SUPERIOR A 4 ANOS. IMPOSSIBILIDADE. REGIME INICIAL FECHADO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. ELEMENTOS CONCRETOS. DENEGAÇÃO DA ORDEM.
+ ..
+3. Mantido o regime inicial fechado pelo Tribunal de origem, com base nas circunstâncias do caso concreto, em especial a quantidade da droga envolvida na empreitada criminosa - 4,34kg de maconha - (art. 42 da Lei n.º 11.343/2006), não há constrangimento ilegal a ser sanado.
+4. Habeas corpus denegado.
+(HC n. 418.364/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 15/02/2018 - grifo nosso)
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+ ..
+TRÁFICO DE DROGAS (ART. 33, CAPUT, C.C ART. 40 INCISOS V E VI, DA LEI N. 11.343/06). DOSIMETRIA. PENA-BASE ELEVADA COM FUNDAMENTO NA QUANTIDADE DA DROGA. CIRCUNSTÂNCIA TAMBÉM UTILIZADA NA TERCEIRA FASE DA PENA. BIS IN IDEM. IMPOSSIBILIDADE. REDUÇÃO DA REPRIMENDA BÁSICA. APLICAÇÃO DA MINORANTE DO § 4º DO ARTIGO 33 DA LEI DE DROGAS NA FRAÇÃO DE 1/6 (UM SEXTO). GRANDE VOLUME DE ENTORPECENTE. PRECEDENTES DESTE STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. No caso dos autos, a quantidade de droga foi considerada tanto na primeira quanto na terceira fases da dosimetria, razão pela qual, ausentes outras circunstâncias judiciais negativas, reduz-se a pena-base ao mínimo legal, 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, aplicando-se a causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/06, na fração de 1/6 (um sexto), em razão do considerável volume do estupefaciente apreendido.
+REGIME INICIAL FECHADO. POSSIBILIDADE. GRAVIDADE CONCRETA DO CRIME. ELEVADA QUANTIDADE DE ENTORPECENTE. MODO MAIS GRAVOSO JUSTIFICADO. COAÇÃO ILEGAL INEXISTENTE.
+1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso versado.
+2. Na espécie, a gravidade concreta do crime, evidenciada pela expressiva quantidade de droga, justifica a imposição do modo prisional fechado.
+REPRIMENDA RECLUSIVA. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITOS. PENA DEFINITIVA SUPERIOR A 4 (QUATRO) ANOS. IMPOSSIBILIDADE. BENEFÍCIO OBJETIVAMENTE INVIÁVEL.
+ ..
+3. Habeas corpus não conhecido. Ordem concedida de ofício a fim de reduzir a pena do paciente para 5 (cinco) anos, 6 (seis) meses e 20 (vinte) dias de reclusão e multa.
+(HC n. 346.460/MS, Ministro Jorge Mussi, Quinta turma, DJe 02/10/2017 - grifo nosso).
+Quanto ao mais, registro que a sentença condenatória vedou qualquer possibilidade de progressão (fl. 18), sendo que, no aspecto, já concedi liminar a fim de afastar tal vedação (fls. 37/39).
+Com efeito, a Suprema Corte, quando do julgamento do HC n. 111.840/ES, declarou incidenter tantum a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990 com a redação dada pela Lei n. 11.464/2007. Também o Supremo Tribunal Federal já declarou a inconstitucionalidade da proibição à substituição da reprimenda privativa de liberdade:
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ENTENDIMENTO CONSOLIDADO NO HABEAS CORPUS 97.256. INCONSTITUCIONALIDADE DA VEDAÇÃO. CONTROVÉRSIA CONSTITUCIONAL COM REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+(ARE 663261, Ministro Luiz Fux, DJe 06/02/2013)
+Assim, ratifico a liminar concedida.
+Por fim, observo que o acórdão impugnado não discorreu a respeito da detração prevista no art. 387, § 2º, do Código de Processo Penal, motivo pelo qual a matéria não pode ser apreciada nesta Corte, sob pena de indevida supressão de instância.
+Dessa forma, os autos deverão retornar ao Tribunal de origem para o exame da referida matéria.
+Ante o exposto, concedo parcialmente a ordem tão somente a fim de determinar que o Tribunal de origem reavalie o regime fixado para o início do cumprimento da pena, levando em consideração o disposto no art. 387, §2º, do Código de Processo Penal, e ratifico a liminar anteriormente concedida que afastou a vedação quanto à progressão a regime menos gravoso.
+Publique-se.
