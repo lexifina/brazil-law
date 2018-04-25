@@ -1,0 +1,36 @@
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. FUNDO DE INVESTIMENTOS EFETUADOS POR ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR NO BANCO SANTOS S/A. FALÊNCIA. LIMITE DA INDENIZAÇÃO DO FUNDO GARANTIDOR DE CRÉDITO - FGC.
+1. O investimento efetuado pela entidade de previdência complementar privada, em nome próprio, como único investidor, tem direito a apenas uma indenização até o limite previsto no artigo 2º, § 3º, IV, do Regulamento do Fundo Garantidor de Créditos, aprovado pelo Conselho Monetário Nacional, nos termos do disposto na Lei 4.595/64. Precedentes. (AgInt no REsp 1562941/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2016, DJe 02/02/2017)
+2. Recurso especial provido.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pelo FUNDO GARANTIDOR DE CRÉDITOS - FGC, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF, contra o acórdão do Egrégio Tribunal de Justiça do Estado de São Paulo, cuja ementa está assim redigida:
+Fundo de Previdência Privada. Fundação privada de previdência complementar. Entidade fechada. Empregados que patrocinam sua previdência futura. Lei que impõe às entidades de previdência privada que apliquem seus ativos financeiros em CDBs junto à instituição financeira nacional. Investimento materializado na quantia de R$ 10.000.000,00 junto ao Banco Santos S.A. Depósito formalizado quando a casa bancária ostentava o conceito "A" e a nota "10" junto ao mercado financeiro. Superveniência de intervenção federal, liquidação extrajudicial e falência do ente bancário. Fundo Garantidor de Crédito que se dispõe a restituir, de acordo com Resolução do BACEN, a quantia de R$ 20.000,00. Limitação que deve ser computada por participante e não em nome do CNPJ da entidade gestora. Exegese do FGC que redundaria em real imoralidade e correlato enriquecimento sem causa. Lesão ao princípio da função social do contrato e à boa-fé objetiva. Ação julgada improcedente. Recurso parcialmente provido.(e-STJ fl. 1.581)
+Opostos embargos de declaração, foram rejeitados.(e-STJ fls. 1.599/1.603)
+Nas razões do recurso especial, além do dissídio jurisprudencial, o recorrente aduziu ter o acórdão deixado de observar o inciso VI do parágrafo 3º, do art. 2º da Resolução 3.251/04 do Conselho Monetário Nacional, negando vigência aos artigos 3º, incisos IV, V e VI, 4º, incisos VI, VIII, XI e XVII, 9º e 30 da Lei nº 4.595/64, 1º, VI, 2º, V e 3º, I, da Lei nº 6.385/76, § 1º, do art. 28 da Lei Complementar nº 101/2000, bem como aos arts. 6º e 535 do Código de Processo Civil de 1973. Sustentou, em síntese, que o acórdão merece reforma, porquanto a cobertura proporcionada pelo FGC somente alcança a titular da aplicação, que a fundação previdenciária é considerada como uma única investidora, não cabendo indenizar a cada um dos participantes da entidade previdenciária. Referiu ser clara a Resolução do CMN a disciplinar a questão, sendo coberto pelo Fundo garantidor o limite de R$ 20.000,00 (vinte mil reais) por instituição garantida.
+Contrarrazões ao recurso especial apresentadas, às fls. 1.704/1.744 e-STJ.
+O recurso especial não foi admitido na origem.
+Interposto agravo em recurso especial, a ele dei provimento, determinando a sua conversão.
+Deferi o pedido de ingresso do Banco Central do Brasil na lide.
+É o relatório.
+Passo a decidir.
+A pretensão recursal merece prosperar.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+Trata-se de ação de cobrança proposta pela recorrida em face do Fundo Garantidor de Créditos (FGC), pretendendo a reposição dos valores investidos em instituição financeira que veio a ser liquidada extrajudicialmente.
+Discute-se, mais precisamente, se o valor resguardado pelo Fundo Garantidor de Créditos (FGC) refere-se individualmente a cada um dos participantes da entidade fechada de previdência ou se ela é considerada como um único investidor.
+Com efeito, o entendimento firmado por este Superior Tribunal de Justiça é no sentido de que o investimento realizado pela entidade previdenciária, em nome próprio, como único investidor, tem direito a uma única indenização até o limite previsto no Regulamento do FGC, aprovado pelo Conselho Monetário Nacional, nos termos do disposto na Lei nº 4.595/64.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. APLICAÇÃO FINANCEIRA. FALÊNCIA DA INSTITUIÇÃO FINANCEIRA. INDENIZAÇÃO PELO FUNDO GARANTIDOR DE CRÉDITOS. LIMITE. AGRAVO INTERNO DESPROVIDO.
+1. A hipótese trata de ação de cobrança ajuizada por entidade de previdência complementar contra o Fundo Garantidor de Créditos para cobrança do crédito garantido relativamente à contratação de depósitos bancários (CDBs) perante instituição financeira em processo judicial de falência (Banco Santos S/A), alegando que deve ser considerado o limite de R$ 20.000,00 (vinte mil reais) para cada um de seus associados.
+2. O investimento efetuado pela entidade de previdência complementar privada, em nome próprio, como único investidor, tem direito a apenas uma indenização até o limite previsto no artigo 2º, § 3º, IV, do Regulamento do Fundo Garantidor de Créditos, aprovado pelo Conselho Monetário Nacional, nos termos do disposto na Lei 4.595/64. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1562941/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/12/2016, DJe 02/02/2017)
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. APLICAÇÃO NO MERCADO FINANCEIRO. FALÊNCIA DA INSTITUIÇÃO FINANCEIRA. INDENIZAÇÃO PELO FUNDO GARANTIDOR DE CRÉDITOS (FGC). INVESTIMENTO EFETUADO POR ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR. LIMITE DE GARANTIA DO FUNDO GARANTIDOR DE CRÉDITO
+1. Ação de cobrança ajuizada por entidade de previdência complementar contra o Fundo Garantidor de Créditos para cobrança de indenização decorrente da aplicação em CDB perante instituição financeira em liquidação extrajudicial (Banco Santos S/A), alegando que deve ser considerado o limite garantido a cada um de seus associados.
+2. Função social de proteção ao pequeno investidor exercida pelo Fundo, para estimular e garantir a participação do cidadão comum no mercado financeiro.
+3. Investimento efetuado pela recorrida em nome próprio, como um único investidor, tendo, portanto, direito a uma única indenização até o limite previsto no inciso VI do § 3º do art. 2º do Regulamento do FGC, aprovado pelo Conselho Monetário Nacional, no exercício da competência estabelecida na Lei 4.595/64.
+4. Recurso especial conhecido e provido.
+(REsp 1454238/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2015, DJe 01/02/2016)
+Dessa maneira, o entendimento adotado pelo Tribunal de origem, no sentido de de condenar o FGC a pagar indenização a cada um dos participantes da entidade previdenciária, gestora de aplicação realizada em instituição financeira liquidada extrajudicialmente, está em confronto com a jurisprudência desta Corte Superior.
+Ante o exposto, com base no art. 932, V, do CPC/15 c.c. o Enunciado n.º 568/STJ, dou provimento ao recurso especial interposto pelo Fundo Garantidor de Créditos - FGC, restabelecendo a sentença.
+Intimem-se.
