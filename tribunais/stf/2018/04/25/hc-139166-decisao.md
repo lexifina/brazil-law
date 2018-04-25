@@ -1,0 +1,10 @@
+Petições 47.247, 48.070, 49.240 e 49.252/2017: Trata-se de reiterados pedidos formulados pelo impetrante para que seja concedido alvará de soltura em favor do paciente, sob alegação de excesso de prazo da prisão preventiva.
+    Verifico, de plano, que a questão já foi apreciada pela Segunda Turma do Supremo Tribunal Federal, que, na sessão realizada em 8/8/2017, denegou o habeas corpus em relação ao excesso de prazo, mas determinou, de ofício, o imediato julgamento da apelação pelo Tribunal de Justiça do Estado de São Paulo, verbis:
+    “HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE DEMORA NO JULGAMENTO DO MÉRITO DA APELAÇÃO INTERPOSTA NO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO. TRÊS SUBSTITUIÇÕES DE RELATORIA. DEMORA QUE NÃO PODE SER IMPUTADA À DEFESA. SITUAÇÃO CONFIGURADORA DE CONSTRANGIMENTO ILEGAL. ORDEM CONCEDIDA DE OFÍCIO. I – Decreto de prisão preventiva que apresenta fundamentação idônea para garantia da ordem pública e conveniência da ação penal. II – A demora excessiva para o julgamento do feito no TJSP, decorrente de sucessivas substituições de relatorias, no total de três, configura negativa de prestação jurisdicional e flagrante constrangimento ilegal sofrido pelo paciente, aptos a justificar a concessão da ordem de modo a que seja determinado o imediato julgamento daquela ação. III – Ordem denegada, com habeas corpus concedido de ofício, para determinar ao Tribunal de Justiça do Estado de São Paulo apresente a Apelação 90000668220108260224 em mesa para julgamento até a 2ª (segunda) sessão, ordinária ou extraordinária, subsequente à comunicação desta decisão” (documento eletrônico 65).
+    Ademais, não houve interposição de recurso contra o acórdão acima transcrito, operando-se, assim, o trânsito em julgado.
+    Isso posto, julgo prejudicado os pedidos formulados nas petições 47.247, 48.070, 49.240 e 49.252/2017.
+    Certifique-se o trânsito em julgado e arquivem-se os autos.
+    Publique-se.
+    Brasília, 25 de abril 2018.
+Ministro Ricardo Lewandowski
+Relator
