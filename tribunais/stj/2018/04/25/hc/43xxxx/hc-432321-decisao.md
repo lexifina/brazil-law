@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de [NOME] contra decisão de Desembargador componente do Tribunal de Justiça do Estado do Ceará que indeferiu o pleito sumário no Writ 0629617-21.2017.8.26.0000.
+Sustentam os impetrantes a ocorrência de constrangimento ilegal, sob o argumento de que não haveria fundamentação idônea para justificar a ordenação da prisão preventiva, porquanto embasada em motivações genéricas, insuficientes para respaldar a medida extrema.
+Afirmam que o réu está preso desde 11-8-2017, não tendo havido conclusão da instrução, restando configurada a ilegalidade da custódia por excesso de prazo na formação da culpa.
+Alegam ser o paciente primário, possuir bons antecedentes, residência fixa e trabalho lícito, predicados que lhe permitiriam responder ao processo em liberdade.
+Aduzem, que, para a hipótese dos autos, mostrar-se-ia mais adequada a substituição da prisão preventiva por medidas cautelares menos gravosas, em atenção ao Princípio da Presunção de Não-Culpabilidade.
+Requereu a concessão sumária e definitiva da ordem constitucional para que a prisão preventiva fosse revogada, com a expedição de alvará de soltura.
+Distribuídos os autos no período de férias forenses, a liminar foi indeferida pela Exma. Sra. Ministra Laurita Vaz, no exercício da Presidência deste Sodalício.
+Instado, o Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório.
+Conforme se observa, os impetrantes buscam a reforma da decisão monocrática que indeferiu o pleito sumário no habeas corpus impetrado na origem.
+A par disso, vale ressaltar que esta Corte Superior, nos termos do verbete sumular n. 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não é possível a utilização de habeas corpus contra decisão de relator que, em writ impetrado perante o Tribunal de origem, indefere o pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia jurídica da decisão impugnada, sob pena de supressão de instância". (HC 348.180/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/06/2016, DJe 01/08/2016)
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar, nos seguintes termos:
+2.4 - O Magistrado entendeu haver indícios suficientes de autoria e materialidade, conforme decisão às fls. 18/22, e-SAJ, tendo em vista o auto de apreensão, o boletim de ocorrência, as circunstâncias da prisão e os depoimentos colhidos pela autoridade policial. Além disso, o paciente já registra condenação criminal pelo delito de roubo simples, responde por outras três ações penais e foi preso no presente ano pelo delito de furto qualificado, mostrando, assim, que a conduta criminosa não constitui ato isolado na vida do acusado.
+Desta maneira, restaria demonstrada a provável periculosidade do agente e a possibilidade da sua reiteração delituosa, o que, em princípio, justificaria a decretação da prisão preventiva como garantia da ordem pública. (e-STJ fls. 36-39)
+Assim, para evitar indevida supressão de instância, visto que a Corte de Justiça impetrada ainda não apreciou o mérito do writ originário e, ausente coação ilegal a ser sanada de ofício por esse Superior Tribunal, nos termos do artigos 34, XX, do RISTJ, não se conhece do mandamus, por se afigurar manifestamente incabível na espécie.
+Publique-se e intimem-se.
+Após o trânsito em julgado, arquivem-se os autos.
