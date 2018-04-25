@@ -1,0 +1,37 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por GOLDEN CROSS ASSISTÊNCIA INTERNACIONAL DE SAÚDE LTDA (fls. 611/642e), objetivando a reforma de acórdão do Tribunal de Justiça do Estado do Acre, prolatado em sede de Apelação.
+Feito breve relato, decido.
+No caso, a pretensão formulada na petição inicial é de anulação de cláusulas de contrato coletivo de plano de saúde, consideradas abusivas pelo Parquet estadual, pois preveem reajuste com base em sinistralidade. Portanto, a relação jurídica litigiosa é regida pelas normas do Direito Privado, estando inserida dentre aquelas de competência da Segunda Seção desta Corte, nos termos do art. 9º, caput, § 2º, II e XIV, do Regimento Interno desta Corte.
+Ademais, segundo o entendimento da Corte Especial, "Na definição da competência das Seções deste Superior Tribunal de Justiça, prevalece a natureza da relação jurídica litigiosa. Pouco importa o instrumento processual utilizado ou a espécie da lei que fundamentou a decisão recorrida ou que foi invocada no recurso  .. " (in CC n. 29.481/SP, Corte Especial, Relator Ministro Cesar Asfor Rocha, DJ de 28/05/2001).
+Nesse sentido:
+CONFLITO INTERNO DE COMPETÊNCIA - AGRAVO REGIMENTAL - RELAÇÃO JURÍDICA LITIGIOSA - OBRIGAÇÃO DE DIREITO PRIVADO - COMPETÊNCIA DA SEGUNDA SEÇÃO DO STJ.
+1. A competência interna no STJ é firmada em razão da natureza da relação jurídica litigiosa (res in iudicium deducta).
+2. Recurso especial em que se discute responsabilidade civil de pessoa jurídica de Direito Privado. Competência da Segunda Seção desta Corte, nos termos do art. 9º, § 2º, II, do RISTJ.
+3. Agravo regimental não provido.
+(AgRg no CC n. 109.258/ES, Rel. Ministra ELIANA CALMON, CORTE ESPECIAL, julgado em 01/02/2013, DJe 28/02/2013).
+Verifico que a matéria já foi analisada pelas Turmas que compõem a Segunda Seção, consoante precedentes que ora reproduzo:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. NULIDADE DE CLÁUSULAS DO CONTRATO DE PLANO DE SAÚDE. EFEITOS INFRINGENTES. ACOLHIMENTO. CONVERSÃO EM RECURSO ESPECIAL DO PRESENTE AGRAVO.
+1. Ação Civil Pública ajuizada pela Associação dos Consumidores Explorados do Distrito Federal - ACODE, objetivando a nulidade de cláusulas que estabeleçam reajustes ilegais, abusivos e discriminatórios em todos os contratos do plano de saúde, atuais e futuros, administrados pela Amil, para os usuários acima de 60 anos ou mais, de modo a proibir quaisquer majorações a partir dessa faixa etária.
+2. Em face das circunstâncias que envolvem a controvérsia e, para melhor exame do objeto do recurso, acolho os presentes embargos de declaração atribuindo-lhes efeitos modificativos, a fim de converter o agravo em recurso especial em recurso especial que, posteriormente, será pautado e julgado pelo colegiado.
+3. Embargos de declaração acolhidos com efeitos modificativos para converter em recurso especial o presente agravo.
+(EDcl no AgRg no AREsp 704.901/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/06/2016, DJe 31/08/2016)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. PLANO DE SAÚDE. REAJUSTES ABUSIVOS POR FAIXA ETÁRIA. RELAÇÃO ENTRE CONSUMIDOR E OPERADORA. AUSÊNCIA DE INTERESSE DIRETO DA AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR (ANS).
+1. Ilegitimidade passiva da Agência Nacional de Saúde Suplementar (ANS) para figurar no polo passivo de ação civil pública em que se pleiteia a declaração de abusividade de reajustes em contrato de plano de saúde.
+2. Ausência de interesse jurídico direto da agência reguladora.
+3. Precedentes específicos do STJ.
+4. RECURSO ESPECIAL PROVIDO.
+(REsp 1384604/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/06/2015, DJe 22/06/2015)
+DIREITO DO CONSUMIDOR E PROCESSUAL COLETIVO. AÇÃO CIVIL PÚBLICA. PLANOS DE SAÚDE. LIMITAÇÃO DE REAJUSTE. SENTENÇA TRANSITADA EM JULGADO. TERMO DE AJUSTAMENTO DE CONDUTA. TERMO DE COMPROMISSO. ANS. RELEVÂNCIA. DIREITOS MÍNIMOS. COISA JULGADA. PREVALÊNCIA.
+1. O Termo de Ajustamento de Conduta e o Termo de Compromisso firmados entre a ANS e a Bradesco Saúde S.A. não passaram ao largo da ação coletiva, tendo o Ministério Público do Estado de São Paulo, inclusive, indicado ilegalidades nos mencionados acordos, o que, decerto, foi sopesado pelo Juízo sentenciante. No caso, o reajuste a título de resíduo de 8,76% autorizado pela ANS (referente a 2004/2005, com exigibilidade para 2005/2006 e anos posteriores) consistiu exatamente na parcela cuja cobrança fora proscrita pela sentença coletiva passada em julgado.
+2. No âmbito da tutela de direitos transindividuais, as partes da relação jurídica processual não coincidem com as partes da relação jurídica de direito material. Igualmente, no cenário da celebração de compromissos de ajustamento de conduta, os legitimados - órgãos públicos, nos dizeres do art. 5º, §º 6º, da Lei n. 7.347/1985 - não manuseiam direitos próprios, mas de terceiros. Por consequência lógica, muito embora detenham, por força de lei, a faculdade de celebrar compromisso de ajustamento de conduta, não detêm a disponibilidade do conteúdo material do direito controvertido, seguindo-se daí a regra segundo a qual não se pode transacionar com direito alheio (arts. 844 e 850, in fine, do Código Civil de 2002), independentemente de discussão acerca da disponibilidade de tais direitos.
+3. Assim, a autocomposição levada a efeito pelos órgãos públicos legitimados, na via administrativa do compromisso de ajustamento de conduta, não constituirá jamais renúncia a direitos, mas simples reconhecimento de direitos mínimos em proveito dos reais detentores do direito material controvertido. Caso assim não fosse, o instrumento de proteção de direitos transindividuais se transmudaria em mecanismo de restrição de direitos, exatamente na contramão de seu propósito e, em última análise, em frontal ofensa ao comando constitucional segundo o qual "a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito" (CF, art. 5º, inciso XXXV).
+4. Com efeito, a sentença proferida em ação civil pública, ajuizada para a tutela de direitos transindividuais, se mais vantajosa aos beneficiários, deve prevalecer em face de termo de ajustamento de conduta celebrado entre o órgão público e o demandado, seja pela preponderância da coisa julgada, seja pela independência das esferas judicial e administrativa, seja, ainda, pela qualidade e titularidade dos direitos controvertidos.
+5. Recurso especial não provido.
+(REsp 1309948/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/12/2014, DJe 24/02/2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. DIREITOS INDIVIDUAIS HOMOGÊNEOS. AÇÃO REVISIONAL. PLANO DE SAÚDE. REAJUSTE. MUDANÇA DE FAIXA ETÁRIA. PRESCRIÇÃO DECENAL. SÚMULA Nº 83/STJ.
+1. O prazo prescricional de demanda em que se busca a revisão de cláusula contratual de plano de saúde é de 10 (dez) anos, nos termos do art. 205 do Código Civil. Incidência da Súmula nº 83/STJ.
+2. Agravo regimental não provido.
+(AgRg no AREsp 559.288/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/03/2016, DJe 14/03/2016)
+Isto posto, DECLINO DA COMPETÊNCIA para a apreciação do presente recurso e DETERMINO a devolução dos autos à Secretaria Judiciária, para a redistribuição do feito a uma das Turmas que compõem a Segunda Seção, nos termos do art. 9º, caput, e § 2º, II e XIV, do Regimento Interno desta Corte.
+Publique-se e intimem-se.
