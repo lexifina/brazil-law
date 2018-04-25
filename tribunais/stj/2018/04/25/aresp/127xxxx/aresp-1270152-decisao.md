@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO DE CONSIGNAÇÃO DE CHAVES DO IMÓVEL ALUGADO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, IMPROVIDO.
+DECISÃO
+[NOME] ([NOME]) ajuizou ação de consignação de chaves do imóvel alugado contra [NOME] (FRANCISO), que foi julgada improcedente.
+A apelação interposta por não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+APELAÇÃO - AÇÃO DE CONSIGNAÇÃO DE CHAVES DE IMÓVEL LOCADO - AUSÊNCIA DE PROVA DA RECUSA DO LOCADOR NO RECEBIMENTO - DEMANDA AJUIZADA NO MESMO DIA EM QUE SOLICITADA A VISTORIA DO IMÓVEL - AUTOR QUE NÃO SE DESINCUMBIU DO ÔNUS PROBATÓRIO - SENTENÇA MANTIDA-RECURSO DESPROVIDO.
+Inconformado, [NOME] interpôs recurso especial, com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 141, 489, § 1º, inc. II, III, e IV, 492, e 1.022, inc. II, do NCPC, ao sustentar que (1) houve omissão a respeito da condição indevida imposta pelo réu para o agendamento da vistoria para a entrega da chave pelo autor, quando havia sido notificado para a devolução do imóvel no prazo improrrogável de 30 dias, e (2) houve julgamento citra petita, pois deixou de examinar a causa de pedir da demanda, consubstanciada na Notificação Extrajudicial carreada às fls. 14.
+O apelo nobre não foi admitido em virtude (a) da ausência de prestação jurisdicional, e (b) da incidência da Súmula 7 do STJ.
+Nas razões do presente agravo em recurso especial, [NOME] sustentou que (a) houve omissão do tribunal de origem, e (b) não é caso de reexame de provas.
+Foi apresentada impugnação (e-STJ, fls. 187/190).
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+Alegação de ocorrência de negativa de prestação jurisdicional
+No julgamento da apelação, o Tribunal de origem fundamentou que não foi comprovada a recusa do requerido em receber as chaves, assim consignando:
+Com efeito, o autor não apresentou qualquer indício de que o requerido se recusou a receber as chaves do imóvel, ônus que lhe incumbia, nos termos do artigo 333, inciso I, do Código de Processo Civil de 1973, que encontra correspondência no artigo 373, inciso I, da Nova Lei Adjetiva.
+Ora, o teor dos e-mails (fls. 17/20) não faz prova da recusa, visto que apenas houve pedido do autor para agendar a vistoria de entrega das chaves e resposta da SÉDULA ADMINISTRAÇÃO E ASSESSORIA LTDA informando os procedimentos prévios a serem cumpridos para o agendamento.
+Além disso, o autor ajuizou esta demanda no mesmo dia em que solicitou a vistoria, ou seja, em 28/04/2014 e como bem asseverou o Douto Magistrado sentenciante (fls. 65):
+"Solicitada vistoria em 28/04/2014, como narrado na inicial, a ação foi proposta no dia imediato, sem que houvesse qualquer justificativa para a medida, não estando de forma alguma caracterizada resistência da ré em receber o imóvel de volta. As condições de vistoria expostas a fls. 18/20 visam apenas formalizar o ato e preservar direitos, jamais podendo ser interpretado como recusa em receber o bem, até porque nada neste sentido consta das informações prestadas pela administradora do imóvel locado. A prova da recusa é documental, deveria ter sido produzida com a inicial, sendo irregular dilação para tal fim (art. 396 do CPC)." sic
+(..)
+Assim, ante a não comprovação da recusa do requerido em receber as chaves, era mesmo de rigor a improcedência da ação. (e-STJ Fl. 123/124)
+Nos embargos declaratórios, o recorrente sustenta, em síntese, que o recorrido solicitou a devolução do imóvel locado ao ora recorrente no prazo de 30 dias. Alega que o tribunal não analisou que, apesar do recorrido ter fixado prazo improrrogável para a desocupação do referido imóvel, em notificação, com expiração em 06/05/2014, quando o recorrente solicitou o agendamento da vistoria para a entrega das chaves em 28/04/2014, foi imposta uma condição indevida para a formalização da devolução do apartamento, que foi o agendamento da vistoria da entrega das chaves com antecedência de 30 dias. O recorrente sustenta que, tendo em vista a notificação realizada pelo recorrido, o não agendamento imediato da vistoria constitui recusa indevida.
+Conforme transcrição acima, verifica-se que o tribunal de origem analisou as questões que lhe pareceram necessárias à solução da causa, encontrando-se o acórdão fundamentado de forma a não ensejar dúvidas acerca das razões de ordem jurídica que lhe deram sustentação.
+O princípio da persuasão racional, habilita o magistrado a valer-se do seu convencimento, à luz dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto.
+Assim, houve manifestação sobre o tema, só que de forma contrária à pretensão dos recorrentes, o que não caracteriza nenhum dos vícios do art. 535 do CPC/73 (ART. 1.022 do NCPC).
+Não há negativa de prestação jurisdicional se o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, enfrentando os argumentos capazes de, em tese, afirmar a conclusão adotada na sentença recorrida.
+Dos arts. 141 e 492 do NCPC
+Os temas referentes aos arts. 141 e 492 do NCPC não foram apreciados pelo acórdão recorrido e tampouco foram opostos embargos de declaração, a esse respeito, estando ausente o indispensável debate prévio.
+Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional.
+Inafastável assim, por analogia, a incidência das Súmulas nº 282 e 356 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada; O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE o recurso especial e, nessa extensão, NEGAR PROVIMENTO.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de [NOME], nos termos do art. 85, § 11 do NCPC. Ressalte-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária foi estipulada com base na equidade.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
