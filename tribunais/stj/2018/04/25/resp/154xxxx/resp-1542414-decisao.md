@@ -1,0 +1,32 @@
+EMENTA
+RECURSO ESPECIAL. DIREITO EMPRESARIAL. FALÊNCIA. REMUNERAÇÃO DO SÍNDICO. OFENSA AO ART. 535 E 458 DO CPC/73 NÃO CONFIGURADA. OFENSA AO ART. 333 DP CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO INATACADO. SÚMULA 283/STF. REMUNERAÇÃO DO SÍNDICO. BASE DE CÁLCULO. INOBSERVÂNCIA, PELO ACÓRDÃO RECORRIDO, DO DISPOSTO NO ART. 67 DO DECRETO-LEI 7.661/45. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por [NOME] em face de acórdão do TJMG, assim ementado:
+AGRAVO DE INSTRUMENTO - FALÊNCIA - À LUZ DO DL. 7661/45 - REMUNERAÇÃO DO SÍNDICO - REMUNERAÇÃO MENSAL - POSSIBILIDADE - DESCONTO DAS PARCELAS PAGAS AO FINAL DO PROCESSO FALIMENTAR - AUSÊNCIA DE ZELO E DILIGÊNCIA DA SÍNDICA - NÃO COMPROVAÇÃO - VALOR DA REMUNERAÇÃO - ATUAÇÃO DILIGENTE DO SÍNDICO - MANUTENÇÃO DO VALOR FIXADO - NEGAR PROVIMENTO.
+- Os honorários do síndico constituem encargo da massa falida e, por isso, podem ser pagos ao sindico mensalmente, para suas despesas e manutenção, descontando-se, ao final do processo falimentar, os valores recebidos observando-se os índices previstos no art. 67 da antiga Lei de Falências.
+- Não tendo a parte comprovado que a Síndica atua sem zelo ou diligência, impossível a configuração da desídia.
+Opostos embargos de declaração, foram rejeitados (fls. 307/313).
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente apontou, além do dissídio jurisprudencial, ofensa aos seguintes dispositivos: (I) art. 535, II, do CPC/73, em razão da omissão do acórdão recorrido em analisar as questões essenciais, a despeito da oposição dos embargos de declaração; (II) arts. 458 e 333 do CPC/73, visto que o Tribunal, além de não fundamentar sua decisão, ignorou as regras de distribuição do ônus da prova ao não considerar os documentos juntados, os quais comprovariam a atuação desidiosa da síndica ao não cumprir ordens judiciais como a de prestar contas e a de publicar o quadro geral de credores; (III) art. 67 e §§ do Decreto-lei 7.661/1945, porquanto o percentual de 2%, aplicado pelo juízo falimentar para o cálculo da remuneração do síndico, deve incidir sobre o produto dos bens ou valores da massa, vendidos ou liquidados pelo síndico e, em relação aos bens que constituírem objeto de garantia real, a comissão será igual a que for devida ao depositário nas execuções judiciais; e não sobre o valor do ativo da massa.
+Contrarrazões ao recurso especial às fls. 385/389.
+No parecer de fls. 417/424, o MPF opinou pelo parcial conhecimento do recurso especial e, na parte conhecida, pelo seu parcial provimento.
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ).
+Afasto a preliminar de não conhecimento do recurso especial por ausência de comprovação do recolhimento das custas, visto que os documentos de fls. 348/351 são aptos a comprovar o preparo do recurso.
+Não vislumbro a alegada ofensa aos arts. 535 e 458 do CPC/73.
+Não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação.
+No caso, o acórdão recorrido (I) entendeu cabível a remuneração do síndico, (II) explicitou que, ao rejeitar a preliminar de mérito arguida pela recorrida, afirmou constarem dos autos documentação suficiente para o julgamento do agravo; contudo, tal constatação não implica, necessariamente, o provimento do pleito recursal; (III) afirmou que a questão referente ao pagamento de remuneração à maior para a atual síndica não foi analisada por não estar incluída dentro da decisão agravada, estando o exame do agravo de instrumento limitado ao âmbito restrito do que lá fora decidido; (IV) concluiu que o recorrente não teria comprovado que a síndica atuou de forma desidiosa.
+Ademais, o juízo não está obrigado a se manifestar a respeito de todas as alegações e dispositivos legais suscitados pelas partes.
+Quanto à apontada violação aos art. 333 do CPC/73, o recurso especial não pode ser conhecido, pois, sobre a matéria de que trata essa norma, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ. Destaco que as razões do recurso especial, ao apontar a alegada ofensa ao art. 535 do CPC/73, o fazem com fundamento na omissão da análise, apenas, dos temas referentes à fixação dos honorários de forma contrária ao art. 67 do Decreto-lei 7.661/45 e à partilha dos honorários fixados entre os síndicos.
+Por fim, em relação à partilha dos honorários, o acórdão recorrido, ao julgar os embargos de declaração, ressaltou que a matéria refoge ao que fora tratado pela decisão agravada, estando o exame do agravo de instrumento limitado ao seu conteúdo, razão pela qual não haveria qualquer omissão. Tal fundamento não foi refutado pelo recorrente, mantendo hígida a decisão, no ponto, por aplicação analógica do óbice da Súmula 283/STF.
+Entretanto, o recurso comporta conhecimento no que tange à controvérsia acerca da fixação dos honorários da Síndica, mais precisamente a sua base de cálculo. Quanto ao ponto, entendo que o recurso merece prosperar.
+Isso porque a base de cálculo que deverá ser usada para calcular a remuneração a ser paga ao síndico deve ser a estipulada pelo art. 67 do Decreto Falimentar, qual seja, "o produto dos bens ou valores da massa, vendidos ou liquidados" e, quanto aos bens com garantia real, "comissão igual a que, em conformidade com a lei, for devida ao depositário nas execuções", nos termos da jurisprudência desta Corte:
+FALÊNCIA. REMUNERAÇÃO DO SÍNDICO.
+I- A REMUNERAÇÃO DE SINDICO E DE SER FIXADA PELO JUIZ NOS LIMITES ESTABELECIDOS NA LEI E LEVANDO EM CONTA O PRODUTO DOS BENS DA MASSA, VENDIDOS OU LIQUIDADOS.
+II- RECURSO ESPECIAL ACOLHIDO.
+III- UNÂNIME.
+(REsp 5.153/SP, Rel. Ministro FONTES DE ALENCAR, QUARTA TURMA, julgado em 26/02/1991, DJ 20/05/1991, p. 6534)
+Ante o exposto, dar parcial provimento, alterando a base de cálculo da remuneração do síndico, nos termos da fundamentação.
+Advirto as partes da multa prevista ao agravo interno manifestamente improcedente (art. 1.021, § 4º, do NCPC).
+Intimem-se.
