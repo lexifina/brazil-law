@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO FEDERAL DA VARA ÚNICA DE PARNAÍBA - SJ/PI, suscitante, e o JUÍZO DE DIREITO DA VARA ÚNICA DE BURITI DOS LOPES - PI, suscitado.
+Extrai-se dos autos que os interessados foram denunciados como incursos nos arts. 288 e 171, § 3º, c/c o art. 14, II, do Código Penal.
+O Juízo suscitante alega que o fato imputado aos réus consiste na tentativa de estelionato contra particulares, por meio do uso de documentos falsos para alcançar saques indevidos em contas bancárias de natureza privada, não havendo com isso qualquer lesão ou ameaça a direito ou interesse da União, de suas autarquias ou empresas públicas federais (art. 109, IV, da Constituição Federal). A única relação que o fundo em epígrafe teria com o caso é que os supostos estelionatários escolheriam suas vítimas por meio da lista de beneficiários de "auxílio-universitário", disponibilizada no site do FNDE, o que, por si só, não atrai qualquer interesse direto do Fundo Nacional de Desenvolvimento da Educação (fl. 119).
+O suscitado, contudo, já havia se pronunciado no sentido de vislumbrar, no caso, interesse jurídico do FNDE na apuração do mencionado fato delitivo (fl.102/104).
+Os autos, então, vieram a esta instância, tendo o Ministério Público Federal ofertado parecer pela competência do JUÍZO DE DIREITO DA VARA ÚNICA DE BURITI DOS LOPES - PI, suscitado.
+É o relatório.
+DECIDO.
+O presente incidente foi instaurado nos autos de ação penal que imputa aos interessados a prática de tentativa de estelionato e formação de quadrilha por terem se associado para efetuar saques fraudulentos em nome de beneficiários de contas do Fundo Nacional de Desenvolvimento da Educação (FNDE) (fls. 3/8).
+A definição da competência da Justiça Federal para processar e julgar delito em face de autarquia federal, como é o caso do Fundo Nacional de Desenvolvimento da Educação, vinculada ao Ministério da Educação, exige que a conduta tenha sido praticada em detrimento de bens, serviços ou interesse deste, nos moldes do art. 109, IV, da CF/88, o que não se verifica na espécie, porquanto a fraude foi destinada aos valores contidos nas contas do universitários. Veja-se, à propósito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. FALSIFICAÇÃO DE GUIAS DE RECOLHIMENTO DE CONTRIBUIÇÃO PREVIDENCIÁRIA. APROPRIAÇÃO INDÉBITA. ESTELIONATO. CONEXÃO PROBATÓRIA. PREJUÍZO DA AUTARQUIA FEDERAL. NÃO OCORRÊNCIA. SÚMULA Nº 107/STJ. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. No caso, o contador denunciado falsificava a guia de recolhimento com o intuito de se apropriar do dinheiro destinado ao pagamento da contribuição previdenciária, circunstância que autoriza o reconhecimento de conexão probatória entre os delitos em apuração, quais sejam, falsificação de papéis públicos, apropriação indébita e estelionato.
+2. Não há nos autos elementos que demonstrem a ocorrência de lesão a bens, serviços ou interesses da União ou de suas autarquias e empresas públicas a justificar a competência da Justiça Federal, conforme disposto no art. 109, inciso IV, da Carta Magna. Incidência do enunciado nº 107/STJ.
+3. Conflito conhecido para, anulando os atos decisórios proferidos pelo Juízo incompetente, declarar a competência do Juízo de Direito de Tambaú - São Paulo, o suscitado. (CC 143.782/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 9/12/2015, DJe 15/12/2015).
+CRIMINAL. CONFLITO DE COMPETÊNCIA. ESTELIONATO. ATOS PRATICADOS CONTRA PATRIMÔNIO DE PARTICULAR. NÃO-CARACTERIZAÇÃO DE CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+Não ocorrendo lesão a serviços, bens ou interesses da União ou Entidades Federais, mas, tão-somente, a particulares, os atos praticados, ainda não suficientemente esclarecidos, não se caracterizam como crime contra o Sistema Financeiro Nacional, ante a inexistência de lesão à União ou a Entidades Federais.
+Hipótese em que resta caracterizado, em princípio, possível estelionato.
+Conflito conhecido para declarar a competência do o Juízo de Direito da Vara Criminal da Comarca de Muriaé/MG, o Suscitado. (CC 113.414/MG, Rel. Ministro GILSON DIPP, TERCEIRA SEÇÃO, julgado em 25/5/2011, DJe 7/6/2011).
+Além do mais, o interesse jurídico do FNDE na apuração do mencionado fato delitivo se apresenta apenas de forma reflexa, a fim de identificar o contexto de atuação dos fraudadores para melhorar a segurança das contas dos beneficiários.
+Nesse mesmo sentido, bem referiu o Subprocurador-Geral da República em sua manifestação (fls. 129/130):
+Não se trata, pois, de infração penal praticada diretamente contra aquele Fundo, ou em detrimento de bens, serviços ou interesse da União, de outras entidades autárquicas ou de empresas públicas.
+O ferimento a bens, serviços ou interesses federais, quando muito, sucederia na espécie apenas de forma reflexa, o que, todavia, não seria suficiente para atrair a competência da Justiça Federal.
+Ora, a origem federal da fonte pagadora não é suficiente para firmar a competência da Justiça Federal. O suficiente é que haja prejuízo direto para a União e demais pessoas jurídicas elencadas no art. 109, IV, da CF.
+Em verdade, o prejuízo provocado pela conduta imputada, caso houvesse consumação, recairia sobre o patrimônio dos Titulares das contas fraudadas, e não sobre bens, serviços ou interesses federais.
+Do contrário, toda e qualquer tentativa de obtenção fraudulenta de valores pertencentes a Particulares, mas oriundos de entes federais, atrairia a competência Justiça Federal, o que seria um equívoco.
+Ante o exposto, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA VARA ÚNICA DE BURITI DOS LOPES - PI, ora suscitado.
+Publique-se.
+Intimem-se.
