@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração manejados por SAPORE S.A contra decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 2/STJ. VIOLAÇÃO AO ART. 535 DO CPC/1973. OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO PARA DETERMINAR RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+A embargante alega, em síntese, erro material na decisão embargada, haja vista a inexistência de violação ao art. 535 do CPC pelo acórdão recorrido, eis que a questão relativa à (in)aplicabilidade do art. 10 da Lei nº 10.833/2002 ao PIS nunca teria sido objeto da demanda, além de carecer de prequestionamento para fins de oposição de recurso especial, além de estar superada pelo art. 15 da referida lei que teria determinado sua aplicação ao PIS.
+Requer o acolhimento dos aclaratórios para sanar o vício apontado.
+Impugnação às fls. 3.515-3.519e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+A decisão embargada se manifestou de forma clara e fundamentada no sentido de que a Fazenda Nacional interpôs embargos declaratórios na origem para instar o tribunal de origem a se pronunciar sobre a inaplicabilidade do art. 10 da Lei nº 10.833/2003 em relação ao PIS, visto que referido lei somente se refere à COFINS, bem como sobre o fato de a ora embargante não manter apenas contratos em regime de reajuste periódico, mas também de repactuação decorrente da teoria da imprevisão. Em análise do acórdão recorrido, verificou-se que os aclaratórios foram rejeitados sem manifestação sobre as referidas questões jurídicas, as quais são relevantes para o deslinde da controvérsia, razão pela qual foi reconhecida a deficiência na prestação jurisdicional e a conseqüente violação ao art. 535 do CPC/1973.
+Desta forma, indubitável que o decisum ora atacado abordou todos os pontos necessários à composição da lide, oferecendo conclusão conforme a prestação jurisdicional solicitada, encontrando-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições, o que impõe a rejeição dos presentes embargos. Verifica-se, na verdade, que o objetivo da embargante é obter um novo julgamento de mérito do recurso, sendo absolutamente inaceitável na via aclaratória.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado. Não havendo omissão, obscuridade ou contradição, impõe-se a sua rejeição.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
