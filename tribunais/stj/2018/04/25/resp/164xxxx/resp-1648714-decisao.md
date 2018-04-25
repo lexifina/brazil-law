@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL EM AÇÃO RESCISÓRIA. APLICABILIDADE DO CPC/1973. RESTITUIÇÃO DE VALORES RECEBIDOS INDEVIDAMENTE QUANDO APURADA MÁ-FÉ. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 178, e-STJ):
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AÇÃO RESCISÓRIA. COBRANÇA DE VALORES RECEBIDOS INDEVIDAMENTE APÓS O ÓBITO DA SEGURADA. PRESCRIÇÃO INTERCORRENTE. ERRO DE FATO E VIOLAÇÃO A DISPOSITIVO LEGAL NÃO CONFIGURADOS.
+. Se a declaração de prescrição intercorrente não decorreu de desatenção do julgador quanto a fatos da causa que pudessem influenciar a decisão em sentido oposto, mas da aplicação da legislação própria à espécie, não está configurado erro de fato a ensejar a rescisão.
+. Também inocorre a alegada violação aos arts. 884, 885 e 886 do Código Civil; 154, §2º, do Decreto nº 3.048/99; 103-A da Lei nº 8.213/91 e 37, §5º, da Constituição Federal no acórdão rescindendo, que reconheceu a incidência da prescrição intercorrente para a cobrança do valor sacado indevidamente pela ré, uma vez que o processo administrativo permaneceu sem movimentação por mais de cinco anos.
+. Hipótese em que a decisão que se quer desconstituir está em consonância com decisão do Supremo Tribunal Federal proferida no RE 669069, no sentido de que é prescritível a ação de reparação de danos à Fazenda Pública decorrente de ato ilícito.
+. Tratando-se de dívida de direito público, o prazo prescricional é quinquenal, aplicando-se o regramento do Decreto nº 20.910/32.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 884, 885 e 886 do Código Civil, 154, § 2º, do Decreto n. 3.048/1999, 103-A da Lei n. 8.213/1991, e 54, da Lei n. 9.784/1999.
+Sustenta que é em obediência ao princípio da legalidade que a Autarquia Previdenciária deve proceder à persecução dos valores recebidos de forma indevida, haja vista a existência de disposição legal que determina a recuperação de tais valores.
+Quanto ao caso concreto, argui que, embora o acórdão rescindendo tenha reconhecido que o recebimento dos valores ocorreu por má-fé da autora, bem como que não há decadência do direito ao cancelamento do benefício, pronunciou-se pela prescrição intercorrente para cobrança das parcelas devidas. Contudo, aduz que, não descaracterizada a má-fé, os dispositivos supracitados excepcionam a deflagração de prazo prescricional.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 294, e-STJ.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Sobre o ponto controverso, manifestou-se o Tribunal a quo:
+Ao analisar o art. 37, §2º, da CF/88, em sede de repercussão geral (RE 669069, julgado em 03.02.2016), a Suprema Corte manifestou-se no sentido de que "É prescritível a ação de reparação de danos à Fazenda Pública decorrente de ilícito civil".
+(..)
+Em assim sendo, tenho que a posição que melhor se harmoniza com o sistema constitucional é a de que a imprescritibilidade das ações de ressarcimento ao erário, prevista na disposição em comento, deve ser compreendida restritivamente, uma vez que atentaria contra a segurança jurídica exegese do art. 37, § 5º, que consagrasse a imprescritibilidade de ação de ressarcimento ao erário decorrente de qualquer ato ilícito. Em outras palavras, somente diante de ilícitos especialmente graves é possível concluir pela condição imprescritível da respectiva ação de ressarcimento.
+(..)
+Assim, tenho que a imprescritibilidade inscrita no art. 37, § 5º, da Constituição Federal deve abarcar somente as ações por danos decorrentes de ilícito penal ou de improbidade administrativa.
+Não sendo reconhecida nesta a natureza criminal do ato causador de dano ao erário, a pretensão de ressarcimento ostenta natureza civil comum, sujeitando-se normalmente aos prazos prescricionais.
+(..)
+Na hipótese em exame, os débitos são relativos ao interstício compreendido entre 1.11.1999 a 31.12.2004. Em 14.11.2005 houve a cessação do benefício em face da constatação de saque após o óbito da segurada; em 14.4.2013, a ré foi notificada para comparecer à Agência da Previdência Social e após a apresentação de defesa, foi intimada, em 04.7.2013, para pagamento do valor a ser restituído, de R$ 45.781,72 (OUT2 evento1). Assim, tendo o processo administrativo ficado sem movimentação por mais de cinco anos, entre 2005 e 2013, imperioso o reconhecimento da prescrição intercorrente, tal como consignado no acórdão rescindendo.
+Por não configurada qualquer das hipóteses do art. 485 do CPC, o pedido improcede. Condeno o autor ao pagamento de honorários advocatícios de R$ 1.000,00. Sem depósito prévio.
+Nesse diapasão, tem-se não ser possível conhecer do recurso especial que apresenta suposta violação dos artigos 884, 885 e 886 do Código Civil, 154, § 2º, do Decreto n. 3.048/1999, 103-A da Lei n. 8.213/1991, e 54, da Lei n. 9.784/1999, pois os dispositivos indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+Deveras, nenhum dos dispositivos mencionados trata da questão central do acórdão, qual seja, o decurso da prescrição intercorrente, mas de questões como o enriquecimento ilícito, forma de restituição de valores e prazo decadencial.
+Ademais, verifica-se que a controvérsia relativa à consumação do prazo prescricional foi dirimida com fundamento constitucional, especificamente com base no artigo 37, § 5º, da Constituição Federal e decisão recente do STF proferida no RE 669069, de modo que o recurso especial se apresenta inviável quanto ao ponto, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
