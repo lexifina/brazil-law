@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REQUISITOS PARA O PAGAMENTO À VISTA DE DÉBITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF4, assim ementado (fl. 482):
+TRIBUTÁRIO. BENEFÍCIO FISCAL. ART. 3º DA MEDIDA PROVISÓRIA Nº 470 DE 2009. INTERPRETAÇÃO.
+1. A Medida Provisória nº 470/2009 permitiu o pagamento ou parcelamento dos débitos decorrentes do aproveitamento indevido do incentivo fiscal setorial instituído pelo art. 1º do Decreto-Lei nº 491, de 5 de março de 1969, e os oriundos da aquisição de matérias primas, material de embalagem e produtos intermediários relacionados na Tabela de Incidência do Imposto sobre Produtos Industrializados TIPI, aprovada pelo Decreto nº 6.006, de 28 de dezembro de 2006, com incidência de alíquota zero ou como não tributados, com reduções de multa e juros, e também com o emprego de prejuízos fiscais de IRPJ ou bases negativas de CSLL, conforme previsto em seu art. 3º e §§.
+2. A interpretação e aplicação do artigo 3º da Medida Provisória nº 470/2009 deve observar a real dimensão normativa, buscando a finalidade e objetivos almejados pela norma.
+3. Os débitos impagos e decorrentes da discussão administrativa ou judicial sem êxito, acerca do aproveitamento do incentivo fiscal setorial instituído pelo art. 1º do Decreto-Lei nº 491/69, podem ser pagos nos termos dispostos no art. 3º da MP nº 470/2009.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 535, I e II, do CPC/1973, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a (às) questão (ões) de fundo, sustenta ofensa ao(s) artigo 1º do Decreto-Lei 491/1969, em síntese, pelos seguintes fundamentos (fl. 530/531):
+É irrefutável, pois, a conclusão de que, ao menos em parte, os débitos arrolados no processo administrativo em pauta não se acumulou em decorrência de aproveitamento indevido dos créditos inexistentes mencionados pelo legislador no referido dispositivo da MP, mas de simples inadimplência, tal qual constatado pelo ato impugnando neste writ.
+A um, porque o crédito-prêmio de IPI cujo ressarcimento foi pretendido, no MS de 2003, era em montante inferior a R$ 4,5 milhões. Já após a MP 470/09, o contribuinte vem afirmar deter mais de R$ 265 milhões a compensar na forma do benefício trazido pela medida provisória. Tal pretensão viola o limite do pedido formulado em sede do referido mandado.
+A dois, porque, antes da MP 470/2009, o contribuinte veiculou apenas pedido de ressarcimento, e não pedido de compensação, apto a justificar o endividamento.
+A três, porque os débitos fiscais que o contribuinte pretende compensar são de 11/2008 a 08/2009 (conforme fl. 04, 14 e 15 do OUT 4 do evento 1), posteriores, pois, ao pedido de ressarcimento veiculado no MS ajuizado em 2003.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 578.
+Parecer do MPF pelo não conhecimento do recurso especial.
+É o relatório. Passo a decidir.
+Registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+De início, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que diz respeito ao mérito, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 480, com grifos):
+No caso dos autos, a empresa impetrante não realizou as compensações de créditos de IPI por conta própria, mas procurou, embora sem sucesso, através do pedido administrativo (13971.002346/2010-97) e de ação judicial (MS 2003.72.05.004724-0), o reconhecimento do direito de pagar os débitos com os créditos decorrentes do IPI - o que, para efeito do disposto na MP nº 470/2009, equivale a aproveitamento indevido, já que inexistentes os créditos de IPI.
+Assim, reconhecida a situação da impetrante de contribuinte possuidor de débitos decorrentes do aproveitamento indevido do incentivo fiscal setorial instituído pelo art. 1º do Decreto-Lei nº 491, de 5 de março de 1969, aplica-se-lhe o direito "a opção de pagamento à vista ou parcelamento com a utilização de prejuízo fiscal e de base de cálculo negativa da Contribuição Social sobre o Lucro Líquido próprios, passíveis de compensação", sendo esta a interpretação que se impõe ao art. 3º da Medida Provisória nº 470/2009, para que compatibilizado com os ditames da Carta Fundamental (art. 5º, LIV e art. 150, II).
+Como bem observado pelo MPF, no parecer de fls. 600/604, o Acórdão atacado, com fundamento nas provas dos autos, expressamente reconheceu o preenchimento dos requisitos legais pela Recorrida para pagamento à vista de débitos na modalidade prevista no art. 3º da MP 470/2009.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
