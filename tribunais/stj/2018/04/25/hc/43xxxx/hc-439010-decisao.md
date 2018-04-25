@@ -1,0 +1,7 @@
+DECISÃO
+[NOME] alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de decisão monocrática do Desembargador relator do Tribunal de Justiça do Estado do Mato Grosso do Sul que indeferiu o pedido liminar no HC n. 1401659-25.2018.8.12.0000.
+Deferida a liminar para afastar as exigências de pagamento da fiança e de cumprimento das condições estabelecidas pelo Magistrado de primeiro grau, com a soltura do paciente, o corréu [NOME] requereu a extensão da tutela de urgência, ocasião em que, nos termos do art. 580 do CPP, superei o óbice da Súmula n. 691 do STF, para deferir a liminar em seu favor nos mesmos termos da decisão original.
+Todavia, verifico que o Tribunal sul-mato-grossense concedeu a ordem, apenas mantendo a imposição de duas medidas cautelares alternativas à segregação provisória: a) comparecimento perante à autoridade judicial e b) não alterar a residência, sem prévia permissão da autoridade judicial, nem se ausentar da comarca por mais de 8 dias, sem a devida comunicação, evidenciando-se, assim, a superveniência da perda do interesse de agir.
+Prejudicado este mandamus, é o caso de extingui-lo, independentemente de eventuais pedidos de extensão anteriormente indeferidos, visto que o acessório deve seguir o principal.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, cassando as liminares anteriormente deferidas, julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
