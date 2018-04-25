@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 2ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Ação ordinária. Carteira de Previdência dos Advogados. Óbito do instituidor da pensão em 1977. Inaplicabilidade das regras da Lei Estadual nº 13.549/09. Interpretação conforme à CF conferida pela ADI 4429 julgada pelo STF. Reajustes dos benefícios e contribuição previdenciária regidos pela Lei Estadual nº 10.394/70 vigente ao tempo da concessão da pensão. Precedentes. Correção monetária e juros de mora incidentes sobre as diferenças devidas à autora em decorrência do recálculo dos reajustes de seus proventos pelos critérios da Lei 11.960/09, observando- e o que for decidido elo STF quanto à Repercussão Geral (Tema nº 810) no RE 870.947. Correção monetária e juros de mora sobre a restituição das parcelas pagas a maior a título de contribuição previdenciária pelos mesmos índices utilizados pela Fazenda Pública na cobrança de seus créditos tributários. Sentença de procedência. Recursos oficial e voluntário dos réus parcialmente providos apenas quanto aos critérios de juros e correção monetária.”
+    No recurso extraordinário sustenta-se violação do artigo 7º, inciso IV, da Constituição Federal, bem como da Súmula Vinculante nº 4.
+    Decido.
+    A irresignação não merece prosperar.
+    O Supremo Tribunal Federal, ao julgar a ADI nº 4.429/SP, Relator o Ministro Marco Aurélio, afirmou a inaplicabilidade da Lei estadual nº 13.549/09 aos assegurados da Carteira de Previdência dos Advogados de São Paulo que reuniram os requisitos de aposentação sob a égide da Lei estadual nº 10.394/70. Confira-se a ementa do julgado:
+    “ESTADO – RESPONSABILIDADE – QUEBRA DA CONFIANÇA. A quebra da confiança sinalizada pelo Estado, ao criar, mediante lei, carteira previdenciária, vindo a administrá-la, gera a respectiva responsabilidade.” (Tribunal Pleno, DJe de 13/3/12)
+    Colhe-se do voto condutor do acórdão na ADI nº 4.429/SP:
+    “Por outro lado, como toda relação jurídica de longa duração, a previdenciária é, de certo modo, aberta, por ser impossível prever, desde logo, todas as mudanças sociais, econômicas e científicas que poderão desequilibrar o vínculo e exigir adaptação. Ante as inúmeras situações passíveis de alterar o suporte fático sobre o qual a relação jurídica foi criada, a expectativa de alguma modificação de regras para restabelecer o equilíbrio entre direitos e obrigações é implícita, seja a relação de natureza contratual, seja estatutária.
+    (…)
+    Contudo, a modificação da realidade, por mais grave, não se pode impor à força normativa da Carta da República. Uma coisa é afirmar a alteração ou a supressão de certo regime jurídico, respeitada a razoabilidade. Algo diverso é colocar em segundo plano direitos adquiridos e, digo mais, situações subjetivas já reconhecidas. Se formos ao inciso IV do § 4º do artigo 60 da Carta Federal, constataremos uma dualidade: a proteção, no tocante a emendas, faz-se presente considerados direitos e garantias.
+    Assim, incumbe ressaltar, desde logo, que as novas regras instituídas pela norma impugnada são inaplicáveis a quem, na data da publicação da Lei estadual nº 13.549, de 2009, já estava em gozo de benefício ou já tinha cumprido, com base no regime instituído pela Lei nº 10.394, de 1970, os requisitos necessários à concessão. É exigível a viabilidade do exercício do direito na forma como regulado antes da liquidação, ainda que se precise repassar verbas públicas do Estado de São Paulo para cobrir o déficit matemático.
+    (…)
+    Ante o quadro, acolho parcialmente o pedido para:
+    a) declarar a inconstitucionalidade dos § 2º e § 3º do artigo 2º da Lei nº 13.549, de 2009, do Estado de São Paulo, no que excluem a assunção de responsabilidade pelo Estado. Eis os dois preceitos:
+    (…)
+    b) conferir interpretação conforme à Constituição ao restante da norma impugnada, proclamando que as regras não se aplicam a quem, na data da publicação da Lei, já estava em gozo de benefício ou já tinha cumprido, com base no regime instituído pela Lei nº 10.394, de 1970, os requisitos necessários à concessão.” (grifei)
+    Portanto, esta Suprema Corte ressalvou expressamente os direitos adquiridos dos participantes da carteira de previdência que já se encontravam em gozo dos planos de benefícios ou que já reuniam os requisitos necessários à aposentação, na data de publicação da Lei Estadual nº 13.549/09.
+    Desse modo, restando assente nos autos que a ora recorrida já era pensionista à época da entrada em vigor da Lei Estadual nº 13.549/09, já que a pensão por morte foi deferida à autora sob a égide da Lei 10.394/70, em 20 de outubro de 1977, é certo que as instâncias de origem não divergiram da jurisprudência do Supremo Tribunal Federal acerca da matéria.
+    Nesse mesmo sentido, as seguintes decisões monocráticas: ARE nº 932.466/SP, minha relatoria, DJe 1º/2/16; e RE nº 905.535/SP, Relator o Ministro Edson Fachin, DJe 31/08/15.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 25 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
