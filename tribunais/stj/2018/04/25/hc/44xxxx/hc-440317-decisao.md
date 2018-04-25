@@ -1,0 +1,24 @@
+DECISÃO
+[NOME] [NOME] [NOME], paciente neste habeas corpus substitutivo de recurso ordinário, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina no Habeas Corpus n. 4028955-37.2017.8.24.0000.
+O paciente - condenado a 6 anos e 8 meses de reclusão, em regime inicial semiaberto, por incursão no art. 33, caput, da Lei n. 11.343/2006 - busca, inclusive liminarmente, o direito de recorrer em liberdade. Para tanto, argumenta ser a decisão que manteve sua prisão preventiva carente de fundamentação em dados concretos e desproporcional, uma vez que foi condenado a cumprir pena em regime inicial semiaberto.
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pelo não conhecimento do habeas corpus.
+Decido.
+A Magistrada singular indeferiu o recurso em liberdade "pois o delito de tráfico de drogas é equiparado a crime hediondo, bem como por subsistirem inalterados os fundamentos que ensejaram a decretação e a manutenção da custódia cautelar  .. , notadamente a necessidade de garantia da ordem pública" (fl. 283, grifei).
+Com efeito, a prisão preventiva do paciente foi decretada sob a seguinte fundamentação (fls. 54-56):
+ ..
+No caso em apreço, a prova da materialidade e os indícios suficientes de autoria do crime de tráfico de drogas (art. 33 da Lei nº 11.343/2006) encontram-se evidenciados pelos elementos de prova já constantes do inquérito policial.
+Pela ordem fática contida nos depoimentos dos policiais constata-se que a guarnição recebeu informações acerca da prática do tráfico de drogas pelo conduzido e por outros indivíduos. Verifica-se que foi montada uma operação para monitorar o conduzido e os demais envolvidos, sendo que conduzido foi abordado, em frente a sua residência na Praia da Pinheira, na posse da quantidade de 15g de maconha e a quantia de R$1.761,00. Nota-se que no interior da residência foram encontrados três comprimidos de ecstasy, dois pontos de LSD e mais 4,460kg de maconha. Foram encontrados enterrados no local um tonel e uma caixa contendo 84kg de maconha. Na residência, em que o conduzido informou guardar apenas a sela do cavalo, foi encontrado mais 50kg de maconha, duas balanças de precisão, rolos de película para embalar a droga e facas para cortar maconha.
+ ..
+Destarte, estando presentes, a um só tempo, os pressupostos fáticos e normativos que autorizam a medida prisional cautelar, impõe-se, ao menos nesta fase indiciária inicial, a segregação do investigado, motivo pelo qual converto a prisão em flagrante de [NOME] em prisão preventiva, forte nos arts. 310, II, 312 e 313 do CPP, ficando ressalvada a possibilidade de reanálise acaso novos elementos fáticos, probatórios ou processuais a permitirem.
+Ao indeferir o pedido de revogação da prisão preventiva, o Juízo de primeiro grau destacou que "os policiais militares alcançaram apreender grande quantidade de droga" (fl. 86), consistente em mais de 138 kg de maconha, 3 comprimidos de ecstasy, 2 comprimidos de LSD, além de R$ 1.761,00, 2 balanças de precisão, 1 rolo de papel filme, 5 facas, U$ 2,00 (dois dólares), 1 tábua de cortar e 3 celulares".
+Nesse sentido, é firme a jurisprudência do Superior Tribunal de Justiça:
+ ..
+3. A prisão preventiva foi adequadamente mantida pelo Magistrado sentenciante e pela Corte estadual, ante a demonstração, com base em elementos concretos, da gravidade concreta da conduta e da periculosidade do agente, evidenciada pela quantidade de droga apreendida - 202 tijolos de maconha, pesando um total de 257,1 quilos -, recomendando-se a sua custódia cautelar para garantia da ordem pública.
+4. Tendo o paciente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em Juízo de primeiro grau.
+5. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido (HC n. 404.589/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 13/4/2018, grifei).
+ ..
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao paciente que, segundo o decreto prisional, foi flagrado com elevada quantidade de substância entorpecente (162kg - cento e sessenta e dois quilos de maconha). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Ordem denegada (HC n. 422.997/BA, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/4/2018, sublinhei).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
