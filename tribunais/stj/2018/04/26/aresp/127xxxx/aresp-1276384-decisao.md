@@ -1,0 +1,53 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO QUE NÃO INFIRMA TODOS FUNDAMENTOS DA DECISÃO AGRAVADA. DECISÃO AGRAVADA QUE NEGA SEGUIMENTO AO APELO NOBRE COM BASE NO ART. 1.030, I, B, DO NCPC. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
+DECISÃO
+O BANCO DO BRASIL S.A. (BB) interpôs agravo de instrumento contra decisão que, nos autos do cumprimento de sentença promovido por [NOME] ([NOME]), rejeitou a impugnação por ele ofertada.
+O Tribunal de origem negou provimento ao aludido recurso em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. IMPUGNAÇÃO AO CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. IDEC. AÇÃO CIVIL PÚBLICA Nº 1998.01.1.016798-9/DF. UTILIZAÇÃO DOS ÍNDICES DE POUPANÇA. HONORÁRIOS SUCUMBENCIAIS. INOVAÇÃO RECURSAL.
+Deixa-se de conhecer do recurso nos pontos relativos à utilização dos índices de poupança e dos honorários sucumbenciais porque, ao que se verifica, não foram ventilados na impugnação oposta, tampouco enfrentados na decisão agravada, de modo a caracterizar, neste momento, inovação recursal, hipótese repudiada pelo ordenamento pátrio, considerando a violação ao Princípio do Duplo Grau de Jurisdição.
+PRESCRIÇÃO.
+O prazo prescricional da execução individual de sentença coletiva é de cinco anos, a contar do seu trânsito em julgado, nos termos do REsp nº 1.273.643/PR, julgado sob a sistemática dos recursos repetitivos. Transitada em julgado a aludida decisão em 27/10/2009 e proposto o presente cumprimento antes do transcurso do qüinqüênio legal, não há falar em prescrição da pretensão executória.
+ILEGITIMIDADE ATIVA. LIMITES TERRITORIAIS DA COISA JULGADA. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA.
+1. Resta pacificado, no âmbito da jurisprudência nacional, o entendimento de que (a) a sentença proferida pelo juízo da 12ª vara cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva nº 1998.01.1.016798-9, é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no juízo de seu domicílio ou no distrito federal; e (b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do IDEC, de ajuizarem o cumprimento individual da aludida sentença coletiva; Recurso Especial Repetitivo nº 1.391.198/RS.
+2. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário com Agravo - ARE nº 920.090/RS, rejeitou expressamente a repercussão geral das matérias atreladas aos paradigmas supramencionados, porquanto atinentes à interpretação de normas infraconstitucionais, motivo pelo qual o julgamento do Recurso Extraordinário nº 573.232/SC, que sobre outro tema versa, não tem o condão de modificar o entendimento consolidado pelo Superior Tribunal de Justiça na hipótese.
+3. A decisão proferida em Repercussão Geral no RE nº 885.658/SP apenas fixou a regra geral aplicável ao alcance subjetivo dos efeitos da sentença prolatada em ação coletiva, em nada alterando ou infirmando as conclusões já sedimentadas por força da coisa julgada
+formada no âmbito específico da presente causa.
+NECESSIDADE DE PRÉVIA LIQUIDAÇÃO INDIVIDUAL.
+1. A condenação proveniente de ação coletiva, genérica e que apenas fixa a responsabilidade do réu pelos danos causados (art. 95 do CDC), não se reveste de liquidez necessária ao cumprimento espontâneo do comando sentencial, de forma a ser imprescindível sua prévia liquidação individual, com a respectiva dilação probatória. "Ratio decidendi" do REsp nº 1.247.150/PR, julgado em caráter repetitivo.
+2. Contudo, uma vez recebido o cumprimento individual da sentença coletiva pelo juízo "a quo" e apresentada a respectiva impugnação pela parte executada, inclusive com possibilidade de ampla dilação probatória, não se verifica absolutamente nenhum prejuízo ao agravante capaz de macular o procedimento. Princípio da "pas de nullité sans grief". Inteligência do parágrafo único do art. 283 do CPC. Precedentes.
+TERMO INICIAL DOS JUROS DE MORA.
+Os juros de mora incidem a partir da citação do devedor na fase de conhecimento da ação civil pública, quando esta se fundar em responsabilidade contratual, sem que haja configuração da mora em momento anterior. Recurso Especial Repetitivo nº 1.370.899/SP.
+JUROS REMUNERATÓRIOS.
+Não tendo havido condenação expressa ao pagamento de juros remuneratórios na Ação Civil Pública nº 1998.01.016798-9/DF, descabe a inclusão dessa verba na fase de execução individual. REsp. Repetitivo nº 1.392.245/DF.
+Competia, contudo, ao agravante demonstrar minimante a incorreção dos cálculos elaborados - ou mesmo o equívoco nos parâmetros utilizados -, fato constitutivo do seu direito, na inteligência do art. 373, inc. I, do CPC, ônus do qual não se desincumbiu.
+APLICAÇÃO DO ÍNDICE DE 10,14% EM FEVEREIRO DE 1989.
+1. Inobstante o Superior Tribunal de Justiça tenha consolidado o IPC no período de janeiro e fevereiro de 1989 em 42,72% e 10,14%, respectivamente, apenas para as cadernetas de poupança iniciadas ou com aniversário antes do advento do Plano Verão (15 de janeiro de 1989) é que se aplica o aludido índice de atualização, então vigente, repousando as demais - assim como os meses subseqüentes - sob a égide da novel regulamentação. REsp. Repetitivo nº 1.107.201/DF.
+2. Inaplicável, assim, o percentual de 10,14% (IPC) para o mês de fevereiro/1989, estando correta a utilização do índice de 18,35%, apurado com base na Letra Financeira do Tesouro Nacional - LFT, nos termos do art. 17 da Lei nº 7.730/89.
+AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, DESPROVIDO (e-STJ, fls. 170/172).
+Irresignado, o BB interpôs recurso especial, fundado nas alíneas a e c do permissivo constitucional, apontando a violação dos arts. 217, 397, 405 do CC/02; 95, 97 do CDC; 21 da Lei nº 4.717/1965 e 16 da Lei nº 7.347/1985, sustentando, em síntese, 1) a ilegitimidade ativa do IDEC para propor ação civil pública, 2) a prescrição da ação; 3) o termo inicial de incidência dos juros moratórios seria a data da citação para a liquidação da sentença; e, 4) o desrespeito aos limites territoriais dos efeitos da sentença proferida na ação civil pública.
+O apelo especial não foi admitido na origem sob o fundamento de incidência da Súmula nº 83 do STJ, além do disposto no art. 1.030, I, b, do NCPC.
+O BB, então, interpôs o presente agravo renegando a incidência dos aludidos óbices e repisando as teses ventiladas no apelo nobre denegado na origem.
+Contraminuta não apresentada (e-STJ, fl. 283).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra os fundamentos da decisão agravada, pois o BB não infirmou devidamente os seus esteios, deixando de refutar, de forma arrazoada, a incidência dos óbices sumulares invocados.
+Como se sabe, não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp nº 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014), o que, igualmente, não se observa na hipótese.
+Além disso, cumpre destacar que, com o advento do Código de Processo Civil de 2015, passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput).
+Nesse contexto, tendo sido apresentado em desacordo com os requisitos do art. 932, III, do NCPC, o recurso não se mostra viável.
+A propósito, destacam-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.  ..
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, DJe 27/5/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DO ART. 1.030, I, "b", DO CPC/2015. RECURSO CABÍVEL. AGRAVO INTERNO NO TRIBUNAL DE ORIGEM.
+1. De acordo com o art. 1.030, I, "b", §2º, do CPC/2015, cabe agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão em conformidade com tese firmada em sede de recurso repetitivo. A interposição de agravo em recurso especial constitui falha inescusável que impede a aplicação do princípio da fungibilidade recursal. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp nº 1.153.611/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 1º/12/2017)
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo.
+Inaplicável a majoração de honorários advocatícios nos termos do art. 85, § 11 do NCPC.
+Advirta-se, todavia, que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts.1.021, § 4º e 1.026, § 2º) e honorários recursais (art. 85, § 11).
+
+Publique-se. Intimem-se.
