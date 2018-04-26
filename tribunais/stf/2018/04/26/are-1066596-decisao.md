@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. Afasto o sobrestamento anteriormente determinado.
+    2. A Turma Recursal confirmou o entendimento do Juízo quanto à condenação do recorrente ao pagamento de valores reconhecidos administrativamente, referentes à gratificação RSC-III – Reconhecimento de Saberes e Competências. No extraordinário cujo trânsito busca alcançar, o recorrente afirma violados os artigos 100, § 12, 165, § 5º, 167, incisos II, V e VI e 169 da Constituição Federal. Diz inobservado o disposto no Decreto nº 93.872/1986 e na Lei nº 4.320/1964. Destaca não estar em debate o direito da parte autora receber os valores, cingindo-se apenas à legalidade e à constitucionalidade do procedimento adotado para satisfação do crédito. Assevera ter adotado providências necessárias à liquidação do débito, dizendo indispensáveis a inclusão do débito no orçamento federal e a liberação do Ministério do Planejamento e Gestão. Requer a aplicação dos índices previstos no artigo 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009.
+    3. Colho do ato atacado os seguintes fundamentos:
+    3. Os documentos colacionados aos autos demonstram que a parte ré reconheceu, administrativamente, à parte autora ser-lhe devido o pagamento referente ao Reconhecimento de Saberes e Competências RSC- no período em questão.
+    4. O fato de a Administração estar adstrita ao princípio da legalidade, que a impede de proceder a qualquer pagamento sem prévia dotação orçamentária, não obsta que o servidor se socorra do Judiciário para a satisfação do seu crédito, visto que ele não está obrigado a se sujeitar ao juízo de conveniência e oportunidade da Administração em solicitar verba para o pagamento dos seus débitos. Os valores pagos extemporaneamente pela Administração Pública são passíveis da incidência de atualização monetária em razão da adequação da moeda aos efeitos decorrentes da desvalorização do poder aquisitivo ao tempo em que deveria ter sido efetivamente realizado.
+    A decisão impugnada mediante o extraordinário revela a análise do quadro fático e interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Conheço do agravo e o desprovejo. Fixo os honorários recursais no patamar de 5% do valor da causa, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015.
+    4. Publiquem.
+Brasília, 26 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
