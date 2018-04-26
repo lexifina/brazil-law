@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de Sergipe, assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE IMPORTÂNCIA - CONTRATO DE COMPRA E VENDA DE IMÓVEL - RESCISÃO CONTRATUAL POR INADIMPLÊNCIA - DEVOLUÇÃO DAS PARCELAS PAGAS - APLICAÇÃO DE CLÁUSULA PENAL - PREVISÃO DE RETENÇÃO DE 30% DO VALOR DO IMÓVEL - ABUSIVIDADE - APLICAÇÃO DO ARTIGO 51, IV E 53 DO CÓDIGO DE DEFESA DO CONSUMIDOR - REDUÇÃO PARA 25% DO VALOR PAGO - SENTENÇA MANTIDA NESTE PONTO - TERMO INICIAL DOS JUROS DE MORA SOBRE O VALOR A SER RESTITUÍDO - TRÂNSITO EM JULGADO DA SENTENÇA - ORIENTAÇÃO JURISPRUDENCIAL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO - DECISÃO UNÂNIME." (e-STJ, fl. 287)
+Nas razões do recurso especial, a parte agravante alega, além de divergência jurisprudencial, violação dos arts. 51, II, e 53 do CDC e 413 do CC/2002, sustentando que é abusiva a retenção de 25% dos valores pagos, uma vez que o recorrente sequer esteve na posse do imóvel e que a recorrida não comprovou a existência de prejuízo com a rescisão contratual, devendo o percentual de retenção ser reduzido para 10%; e dos arts. 405 e 219 do CPC/73, ao fundamento de que os juros de mora, por se tratar de responsabilidade contratual, devem fluir da data da citação.
+Contrarrazões às fls. 310/320 (e-STJ).
+É o relatório. Decido.
+A Corte de origem, ao declarar a rescisão do contrato de promessa de compra e venda entabulado entre as partes, determinou a retenção, pela recorrida, de 25% do valor pago pelo recorrente, nos seguintes termos:
+"No caso em tela, como dito acima, requer a apelante a retenção do percentual de 30% (trinta por cento), conforme previsão na Cláusula 12.4.4 do contrato.
+Entretanto, a meu ver, a cláusula em questão se mostra excessivamente onerosa, pois suprime a possibilidade de reembolso de grande parte da quantia já paga pelo promitente comprador.
+Ademais, não se pode olvidar que a ré, além da quantia mencionada, ainda tem a possibilidade de comercializar novamente o imóvel.
+Consoante art. 51, inciso IV, do Código de Defesa do Consumidor, são nulas de pleno direito, entre outras, as cláusulas contratuais relativas 51 IV Código de Defesa do Consumidor ao fornecimento de produtos e serviços que "estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a eqüidade".
+Sendo assim, não entendo razoável o percentual de 10% (dez por cento) fixado pela nobre julgadora a quo, por não se encontrar dentro dos parâmetros previstos pela jurisprudência.
+(..)
+Assim, altero a sentença que fixou em 10% (dez por cento) sobre o valor pago, o percentual a ser retido pela requerida, devendo esta, portanto, promover a devolução de 75% (setenta e cinco por cento) de toda a quantia paga pelos autores de forma integral.
+(..)
+Assim, deve-se alterar a sentença para fazer incidir os juros de mora a partir do trânsito em julgado desta decisão, fixando-se o percentual de retenção em 25% sobre o valor pago." (e-STJ, fls. 288/290)
+A jurisprudência desta Corte Superior admite, nas hipóteses de rescisão de contrato de compra e venda por inadimplemento do comprador, a retenção pelo vendedor do percentual de 10% a 25%. Contudo, o percentual deve incidir sobre o valor pago e não sobre o valor do contrato, sendo fixado de acordo com as particularidades do caso concreto. Neste sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. IMÓVEL. PROMESSA DE COMPRA E VENDA. PERCENTUAL DE RETENÇÃO DE 10% (DEZ POR CENTO). PARÂMETROS DE RAZOABILIDADE. ALTERAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudencia desta Corte consolidou-se no sentido da razoabilidade de retenção dos pagamentos realizados até a rescisão operada entre 10% (dez por cento) e 25% (vinte e cinco por cento), de acordo com as circunstâncias do caso concreto.
+3. A modificação do percentual fixado na origem demanda interpretação de cláusula contratual e reexame do acervo fático-probatório dos autos, procedimentos inviáveis em recurso especial (Súmulas nºs 5 e 7/STJ).
+4. Agravo interno não provido.
+(AgInt no REsp 1688214/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/03/2018, DJe 12/03/2018 - grifo nosso)
+"AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO NCPC) - AÇÃO DE RESCISÃO CONTRATUAL C/C PERDAS E DANOS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECURSO. INSURGÊNCIA DA DEMANDADA.
+1. Não se configura a violação ao art. 1.042 do NCPC, quando o Tribunal local pronuncia-se de forma fundamentada sobre as questões postas para análise, ainda que contrariamente aos interesses da parte recorrente.
+1. A jurisprudência desta Corte tem considerado razoável, em rescisão de contrato de compra e venda de imóvel por culpa do comprador, que o percentual de retenção, pelo vendedor, de parte das prestações pagas seja arbitrado entre 10% e 25%, conforme as circunstâncias de cada caso, avaliando-se os prejuízos suportados.
+Precedentes.
+1.1. Na hipótese, a discussão acerca do percentual de retenção aplicado no caso (10%) demanda reenfrentamento dos fatos da causa, bem como das cláusulas do respectivo contrato, o que encontra obstáculo nos enunciados n. 5 e 7 da Súmula do STJ. Precedentes.
+2. A aplicação da Súmula 7 também impede o exame de dissídio jurisprudencial, porquanto ausente a similitude fática entre o acórdão recorrido e os paradigmas ditos divergentes.
+3. Agravo interno desprovido."
+(AgInt no AREsp 994.698/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/03/2018, DJe 07/03/2018 - grifo nosso)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESOLUÇÃO. RETENÇÃO. PERCENTUAL DE 15%. RAZOABILIDADE. MELHOR PERCENTUAL A SER RETIDO. SÚMULAS 5 E 7 DO STJ. JUROS MORATÓRIOS DA CITAÇÃO. CABIMENTO. SÚMULA 83 DO STJ. RECURSO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% e 25% do total da quantia paga. Precedentes.
+2. No caso, o percentual de 15% do valor pago a ser retido pelo vendedor foi fixado pelas instâncias ordinárias com base nas particularidades do caso concreto. Saber qual seria o percentual mais condizente com a realidade do processo demanda a revisão de todo o substrato probatório, providência obstada no recurso especial pelas Súmulas 5 e 7 do STJ.
+3. Acórdão recorrido em sintonia com a jurisprudência do STJ no sentido de que, "tratando-se de responsabilidade contratual, e sendo a promitente vendedora a única responsável pelo descumprimento da avença, o termo inicial para a incidência dos juros moratórios é a data da citação" (AgInt no AREsp 978.519/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/08/2017, DJe de 25/08/2017). Incidência da Súmula 83 do STJ.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1121909/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018 - grifo nosso)
+Como se vê, o percentual fixado pela Corte de origem está em conformidade com os parâmetros fixados por esta Corte, razão pela qual não merece reforma o acórdão recorrido, a teor do que dispõem as Súmulas 83 e 568 do STJ.
+ Ademais, tendo o Tribunal de origem concluído que a retenção do percentual de 25% sobre os valores pagos é adequado para indenizar a recorrida por prejuízos decorrentes da resolução contratual, a alteração de tal entendimento demandaria, necessariamente o revolvimento do suporte fático-probatório dos autos, bem como das cláusulas do respectivo contrato, o que encontra obstáculo nos enunciados n. 5 e 7 da Súmula do STJ.
+No que tange aos juros de mora, a jurisprudência deste Superior Tribunal de Justiça entende que, nos casos em que a rescisão contratual é motivada por desistência do promitente comprador, não há que se falar em mora do promitente vendedor, devendo os juros de mora incidir a partir do trânsito em julgado da decisão judicial que determina a restituição das parcelas pagas. Veja-se, a propósito, os seguintes precedentes:
+"CIVIL E PROCESSUAL. CONTRATO DE PROMESSA DE COMPRA
+E VENDA. RESOLUÇÃO UNILATERAL PELO PROMITENTECOMPRADOR INJUSTIFICADAMENTE. PARCELA A SER RESTITUÍDA. JUROS MORATÓRIOS. TERMO DE FLUIÇÃO. TRÂNSITO EM JULGADO.
+I. Na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão.
+II. Inexistência de mora anterior da ré.
+III. Recurso especial conhecido e provido."
+(REsp 1008610/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 26/03/2008, DJe 03/09/2008 - grifo nosso)
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. PROMESSA. COMPRA E VENDA. DESISTÊNCIA. PROMITENTE COMPRADOR. VALORES PAGOS. RESTITUIÇÃO. RETENÇÃO. 25% (VINTE E CINCO POR CENTO). JUROS DE MORA. TERMO INICIAL. DECISÃO JUDICIAL. PARCIAL PROVIMENTO.
+1. Não é deficiente em sua fundamentação o julgado que aprecia as questões que lhe foram submetidas, apenas que em sentido contrário aos interesses da parte.
+2. A desistência do promitente comprador, embora admitida por esta Corte, rende ao promitente vendedor o direito de reter até 25% (vinte e cinco por cento) dos valores por aquele pagos a qualquer título, desde que não supere o contratualmente estipulado.
+3. "Na hipótese de resolução contratual do compromisso de compra e venda por simples desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios sobre as mesmas serão computados a partir do trânsito em julgado da decisão." (REsp 1008610/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 26/03/2008, DJe 03/09/2008).
+4. Agravo regimental a que se dá parcial provimento."
+(AgRg no REsp 927.433/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/02/2012, DJe 28/02/2012 - grifo nosso)
+Sobre o tema, o Tribunal de origem assim se manifestou, in verbis:
+"No que tange ao pleito recursal de incidência dos juros de mora a partir do trânsito em julgado da decisão judicial, tem-se que, neste ponto, razão assiste à apelante. Digo isso porque não existe mora da requerida em razão da rescisão contratual por iniciativa dos compradores do imóvel, que, voluntariamente, rescindiram o contrato por não mais possuírem condições de arcar com o valor ajustado.
+(..)
+Assim, deve-se alterar a sentença para fazer incidir os juros de mora a partir do trânsito em julgado desta decisão, fixando-se o percentual de retenção em 25% sobre o valor pago.
+Ante o exposto, voto pelo conhecimento e provimento parcial ao recurso no sentido de fixar o valor da retenção em 25%(vinte e cinco por , cento) sobre o valor pago e determinar a incidência dos juros de mora a partir do trânsito em julgado desta decisão, mantendo-se a sentença monocrática em todos os seus outros termos." (e-STJ, fls. 289/290 - grifo nosso)
+Nesse contexto, verifica-se que o Tribunal de origem, ao fixar a data do trânsito em julgado da decisão que fixou o valor a ser resolvido entre as partes como termo inicial dos juros moratórios, também o fez em consonância com a jurisprudência assente do STJ, razão pela qual não merece reforma, também neste ponto, o v. acórdão combatido.
+Por fim, melhor sorte não assiste ao recorrente quanto à admissibilidade do recurso especial pela alínea "c" do permissivo constitucional, em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ. Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. QUITAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA. TÍTULOS DA DÍVIDA PÚBLICA. DAÇÃO EM PAGAMENTO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+III - Já é firme o entendimento desta Corte, segundo o qual a simples transcrição de ementas não basta para que se configure a divergência jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+IV - Agravo regimental improvido." (AgRg no REsp 738.797/RS, Relator o eminente Ministro FRANCISCO FALCÃO, DJ de 03.10.2005)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXAME DE MATÉRIA CONSTITUCIONAL E DE LEI LOCAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ART. 255 DO RISTJ.
+(..)
+IV - Em casos nos quais só a comparação das situações fáticas evidencia o dissídio pretoriano, indispensável que se faça o cotejo analítico entre a decisão reprochada e os paradigmas invocados. A simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+Agravo regimental desprovido." (AgRg no REsp 754.475/AL, Relator o eminente Ministro FELIX FISCHER, DJ de 26.09.2005)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
