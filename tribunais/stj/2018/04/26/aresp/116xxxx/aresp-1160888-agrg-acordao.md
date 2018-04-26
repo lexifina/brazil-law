@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. A Suprema Corte firmou entendimento no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)" (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016).
+Agravo regimental improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Felix Fischer, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo regimental interposto por [NOME] contra decisão monocrática que apreciou recurso extraordinário interposto com o objetivo de reformar acórdão proferido pelo Superior Tribunal de Justiça, assim ementado (fl. 406, e-STJ).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. O agravante deixou de impugnar fundamento da decisão agravada, atraindo a aplicação do óbice previsto na Súmula n. 182 desta Corte.
+2. Agravo regimental desprovido."
+A decisão agravada negou seguimento ao recurso extraordinário, nos termos do art. 1.030, inciso I, alínea "a", do Código de Processo Civil, conforme a seguinte ementa (fl. 446, e-STJ):
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+Não foram opostos embargos de declaração.
+A agravante alega ofensa ao art. 5º, incisos X, XLVI, LIV, da Constituição Federal.
+Argumenta ainda que (fls. 458-459, e-STJ):
+"Ao contrário do aduzido, não remanesce dúvida de que restou demonstrada a questão federal susceptível do recurso especial, porque ocorreu erro de direito quanto à valoração da prova, porque abstratamente considerada. Não se está abordando a validade da prova, mas sim o seu conteúdo.
+Em relação ao entendimento de incidência da referida Súmula do STJ, "data máxima vênia", ao contrário da r. decisão, "in casu", não incide o enunciado da citada Súmula, pois, a r. decisão proferida pelas Turmas Recursais, foi de última instância, coadunando-se ao disposto na Magna Carta. Assim, por tratar-se de decisão analisada em última instância, perfeitamente cabível o agravo interposto.
+Não restam dúvidas de que, afastada a contrariedade à súmula do tribunal, dada a necessidade, não poderia o relator negar seguimcnto ao recurso sem que o Órgão Competente exerça a sua função, visto que o devido processo legal, com o contraditório e a ampla defesa, conforme garantias estabelecidas nos art. 5o, incisos XXXV, LIV e LV, da CF, dando-se a ele conhecimento e provimento, como de direito porquanto esta, apenas esta, seria a medida mais consentânea com o direito e com os ditames da verdadeira e almejada Justiça. Enfim, na esteira desse abalizado entendimento, o Recurso Especial e o Agravo Regimental mereciam provimento".
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Corte Especial.
+A parte agravada, instada a manifestar-se, apresentou impugnação (fls. 468-476, e-STJ), alegando ausência da demonstração da repercussão geral; fundamentação deficiente; incidência da Súmula 284/STF; necessidade de revolvimento de matéria fático-probatória para análise do caso; incidência da Súmula 179/STF; e ausência de ofensa direta a preceito constitucional.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+2. A Suprema Corte firmou entendimento no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)" (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016).
+Agravo regimental improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Sem razão a agravante.
+Trata-se de agravo regimental contra decisão que negou seguimento ao recurso extraordinário.
+De início, é preciso analisar os motivos que levaram a Sexta Turma desta Corte a aplicar a Súmula 182/STJ. Para isso, transcrevo trechos do acórdão recorrido (fl. 408, e-STJ):
+"A insurgência não pode prosperar.
+No caso dos autos, a decisão de inadmissibilidade do recurso especial está amparada nos seguintes fundamentos: não cabimento do recurso especial no qual se alega violação à norma constitucional, divergência não comprovada e incidência da Súmula n. 7/STJ.
+No entanto, nas razões do agravo em recurso especial, a agravante, de fato, deixou de impugnar o fundamento relativo ao não cabimento do recurso especial que alega afronta à norma constitucional.
+Como tem reiteradamente decidido esta Corte, o recurso deve impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurge, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Vale esclarecer que a dedução de impugnação específica, apenas neste agravo regimental, não sana o vício que macula o agravo em recurso especial, uma vez que já operada a preclusão.
+Destarte, é de rigor a aplicação do óbice previsto na Súmula n. 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"."
+Percebe-se, conforme o excerto do voto condutor acima transcrito, que, em razão do óbice processual contido na Súmula 182/STJ, o referido órgão colegiado não analisou o mérito da lide.
+Nesse ponto, o Supremo Tribunal Federal firmou entendimento no sentido de que a matéria referente ao cabimento de recursos da competência de outros tribunais não possui repercussão geral, pois está restrita ao âmbito infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+A propósito, confira-se a ementa do seguinte julgado:
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608." (RE 598.365/MG, Tribunal Pleno, Rel. Ministro AYRES BRITO, DJe de 26/3/2010.)
+Deve ser observado que a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+Assim, não há repercussão geral a ser reconhecida, pois o Supremo Tribunal Federal já decidiu que a controvérsia relativa à admissibilidade se restringe ao exame da legislação infraconstitucional, bem como firmou entendimento no sentido de que "a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF)". Eis a ementa do julgado:
+"DIREITO TRIBUTÁRIO. AGRAVO regimental. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS - ICMS. INCIDÊNCIA NA BASE DE CÁLCULO DO FRETE. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. 1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RI/STF). Desse modo, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF). 2. Nos termos da jurisprudência da Corte, não há repercussão constitucional imediata da controvérsia sobre a não inclusão do frete na base de cálculo do ICMS no regime de substituição tributária, porquanto seria necessária a análise da legislação infraconstitucional de regência. 3. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC/1973." (AI 823.853 AgR, Relator Min. ROBERTO BARROSO, Primeira Turma, julgado em 30/9/2016, acórdão eletrônico DJe-221, divulgado em 17/10/2016, publicado em 18/10/2016.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
