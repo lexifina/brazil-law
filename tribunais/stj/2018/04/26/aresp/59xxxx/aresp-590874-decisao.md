@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL, em face de decisão que inadmitiu Recurso Especial manejado contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. LICENCIAMENTO AMBIENTAL. ÓRGÃO INTEGRANTE DO SISNAMA. MANIFESTAÇÃO NÃO VINCULANTE.
+1. Hipótese em que a FATMA analisou estudo de impacto ambiental e considerou-o suficiente para autorizar o regular funcionamento do empreendimento, que consiste na exploração de conchas calcárias.
+2. A emissão de licença não tem sua eficácia condicionada à aprovação do estudo de impacto ambiental e relatório de impacto ambiental por outro órgão integrante do Sistema Nacional do Meio Ambiente (IBAMA), nos termos do art. 13, § 1º, da Lei Complementar nº 140/2011, que prevê a manifestação de outros órgãos de maneira não vinculante, respeitados os prazos e procedimentos.
+3. Embargos infringentes a que se nega provimento" (fl. 1.727e).
+Opostos embargos de declaração, foram desprovidos:
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA DE OMISSÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. RECURSO DESPROVIDO.
+1. Inexiste, no acórdão embargado, omissão a ser sanada, porquanto o juiz deve decidir a matéria trazida à lide, e não artigos de lei, bastando, para tanto, a exteriorização dos fundamentos jurídicos embasadores do acórdão, não sendo dever do julgador declinar, um a um, todos os dispositivos legais trazidos pelas partes ou eventualmente aplicáveis ao caso.
+2. A necessidade de prequestionamento não afasta a necessidade de ocorrência de omissão no acórdão quanto à matéria que se quer prequestionar, isto é: mesmo os declaratórios com fins de prequestionamento devem observar os requisitos previstos no art. 535 do CPC para o seu cabimento.
+3. A intenção de rediscutir a matéria e obter novo julgamento pela Turma não encontra nos embargos de declaração a via processual adequada, já que é cabível tal recurso quando na decisão prolatada houver obscuridade, contradição, ou omissão, conforme artigo 535, inc. I e II, do Código de Processo Civil ou, por construção jurisprudencial, erro material.
+4. Embargos desprovidos" (fl. 1.748/1.749).
+A parte agravante, nas razões do Recurso Especial, alegou a violação aos seguintes dispositivos: a) art. 18 da Lei Complementar 140/2011, em razão de o acórdão recorrido ter lastreado o não acolhimento do pedido do Ministério Público Federal no art. 13, § 1º, da mesma Lei, quando esta não "estava vigente na época do licenciamento concedido pela FATMA, a lhe retirar a validade de outorgá-lo" (fl. 1.755e), sendo descabida a sua aplicação de forma retroativa; b) arts. 1º e 6º do Decreto Presidencial de 14/9/2000 que criou a Área de Preservação Permanente - Baleia Franca, ao argumento de ser necessário o licenciamento também pelo IBAMA e não apenas pela FATMA.
+Oferecidas contrarrazões (fls. 1.780/1.782e), inadmitiu-se o Recurso Especial na origem (fls. 1.789/1.793e), advindo o presente Agravo (fls. 1.800/1.807e), contraminutado às fls. 1.809/1.812e,1.814/1.815e e 1.817/1.828e.
+O Ministério Público Federal manifestou-se pelo provimento do Agravo e do Recurso Especial (fls. 1.841/1.846e).
+A insurgência não comporta acolhimento.
+A apreciação de suposta violação ao decreto é vedada em sede de Recurso Especial, por não se enquadrar no conceito de lei federal, previsto no art. 105, III, a, da CF/88.
+A propósito do tema, destacam-se os seguintes precedentes:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. MP 66/02. BENEFÍCIO FISCAL. REQUISITOS LEGAIS. PORTARIA SRF/PGFN 1.225/02. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE "TRATADO OU LEI FEDERAL". PRECEDENTES.
+1. Não se conhece da alegada afronta aos arts. 111 do CTN, 20 e 22 da MP 66/2002, quando o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise da Portaria Conjunta SRF/PGFN 1.225/02, pretensão insuscetível de ser apreciada em recurso especial, porquanto o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. Precedentes: AgRg no AREsp 402.109/RS, de minha relatoria, Primeira Turma, DJe 22/11/2013; AgRg no REsp 1.040.345/RS, Primeira Turma, Rel. Ministro Luiz Fux, DJe 9/2/2010; AgRg no AREsp 245.610/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 26/11/2012; AgRg no Ag 1.203.675/PE, Segunda Turma, Rel. Ministro Humberto Martins, DJe de 10/3/2010.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1008136/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 06/05/2014).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE COMANDO PARA INFIRMAR OS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. VIOLAÇÃO A DECRETO. INVIABILIDADE.
+1. A norma inserida no art. 4º do Decreto 2.536/1998, por não disciplinar a eficácia (retroativa ou não) ou a natureza (declaratória ou constitutiva) do ato de concessão do Cebas, não possui aptidão para infirmar os fundamentos do acórdão do Tribunal de origem. Aplicação da Súmula 284/STF.
+2. Ademais, o STJ possui entendimento de que o comando legal inserido em decreto não se enquadra no conceito de lei federal, o que inviabiliza a discussão quanto à sua inteligência em Recurso Especial. 3. Agravo Regimental não provido" (STJ, AgRg no REsp 1.274.513/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/04/2012).
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 18 da Lei Complementar 140/2011, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 535 do CPC/73, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
