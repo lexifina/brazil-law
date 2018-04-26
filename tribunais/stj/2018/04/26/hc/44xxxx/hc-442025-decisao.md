@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ABHAYAM MARCELO VERISSIMO DE CAMPOS contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0040063-04.2013.8.24.0023).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 6 meses de detenção, em regime aberto, e multa, além da suspensão do direito de dirigir veículo automotor por 2 meses, com substituição da pena privativa de liberdade por uma restritiva de direitos, pela prática do crime previsto no art. 306, § 2º, do Código de Trânsito Brasileiro (e-STJ fls. 4/12).
+Irresignada, a defesa interpôs recurso de apelação, o qual foi improvido, com determinação para que seja dado início ao cumprimento da pena imposta (e-STJ fls. 13/32), em acórdão assim ementado:
+PENAL. PROCESSUAL PENAL. APELAÇÃO CRIMINAL. CRIME CONTRA A INCOLUMIDADE PÚBLICA. EMBRIAGUEZ AO VOLANTE (LEI 9.503/1997, ART. 306, CAPUT). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+(I) PRELIMINARES.
+(I.1) NULIDADE DA DECISÃO QUE REVOGOU A SUSPENSÃO CONDICIONAL DO PROCESSO. DECISÃO POSTERIOR AO FIM DO PERÍODO DE PROVA. POSSIBILIDADE. DESCUMPRIMENTO DAS CONDIÇÕES ESTABELECIDAS QUE ACARRETA REVOGAÇÃO AUTOMÁTICA DO BENEFÍCIO. PRECEDENTES DO STJ E STF.
+(I.2) AUSÊNCIA DE PRÉVIA INTIMAÇÃO DO DEFENSOR. RÉU QUE FOI INTIMADO DUAS VEZES PARA INFORMAR O CUMPRIMENTO DA CONDIÇÃO. JUSTIFICATIVA PESSOAL QUE DEVE SER FORNECIDA PELO RÉU, SEGUNDO PRECEDENTE DO STJ. DEFESA TÉCNICA QUE NÃO VOLTOU A MENCIONAR O ASSUNTO DURANTE O RESTANTE DO TRÂMITE PROCESSUAL. PRECLUSÃO DA MATÉRIA.
+(I.3) NULIDADE DA AUDIÊNCIA DE INSTRUÇÃO QUE NÃO OUVIU UMA DAS TESTEMUNHAS ARROLADAS. PARTES QUE CONCORDARAM EM DESISTIR DA OITIVA. PRELIMINAR REJEITADA.
+(II) MÉRITO.
+(II.I) ALEGADA ATIPICIDADE DA CONDUTA POR AUSÊNCIA DE DEMONSTRAÇÃO DA ALTERAÇÃO DA CAPACIDADE PSICOMOTORA. O DELITO DE EMBRIAGUEZ AO VOLANTE É DE PERIGO ABSTRATO, NÃO SENDO NECESSÁRIA A DEMONSTRAÇÃO DE CONDUTA ESPECÍFICA QUE INDIQUE A ALTERAÇÃO DA CAPACIDADE PSICOMOTORA. MERA INGESTÃO DA BEBIDA ALCOÓLICA SUFICIENTE PARA CARACTERIZAR O TIPO. ALEGAÇÃO DE QUE O APELANTE NÃO ESTAVA CONDUZINDO A MOTOCICLETA ISOLADA DOS AUTOS E CONTRADITÓRIA COM A PRÓPRIA VERSÃO DADA NO INTERROGATÓRIO. EXAME CLÍNICO, BOLETIM DE OCORRÊNCIA, OITIVA DOS POLICIAIS QUE ATENDERAM AO ACIDENTE E CONFISSÃO DO APELANTE CAPAZES DE SUSTENTAR O DECRETO CONDENATÓRIO.
+(II.2) ESTADO DE NECESSIDADE. VERSÃO ISOLADA QUE NÃO FICOU COMPROVADA NOS AUTOS. O PERIGO NÃO ERA ATUAL, POIS QUANDO SAIU DO BAR JÁ ESTAVA SEGURO. NÃO SE TRATAVA DA ÚNICA CONDUTA POSSÍVEL A SER REALIZADA PELO APELANTE, POIS PODERIA TER SE DEFENDIDO DAS POSSÍVEIS AMEAÇAS DE OUTRAS MANEIRAS.
+SENTENÇA MANTIDA.
+EXECUÇÃO PROVISÓRIA DA PENA. CONDENAÇÃO CONFIRMADA POR ESTE TRIBUNAL. PRINCÍPIO DO DUPLO GRAU DE JURISDIÇÃO. REEXAME SOBRE A MATÉRIA FÁTICA E ELEMENTOS DE PROVA ESGOTADO. CASO QUE SE AMOLDA À NOVA ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL (HC 126.292/SP), RATIFICADA POR OCASIÃO DO INDEFERIMENTO DAS MEDIDAS CAUTELARES OBJETO DAS AÇÕES DECLARATÓRIAS DE CONSTITUCIONALIDADE 43 E 44.
+- O agente que ingere bebida alcoólica e passa a trafegar com veículo automotor comete o crime de embriaguez ao volante, sem necessidade de demonstrar qual conduta de fato se trata da influência alcoólica.
+- O art. 306, caput, da Lei 9.506/1997, com a alteração dada pela Lei 11.705/2008, passa a ser crime de perigo abstrato, que prescinde da demonstração de dano efetivo à incolumidade pública.
+- Para caracterizar o estado de necessidade, é imprescindível a comprovação da ocorrência de perigo atual e da inexigibilidade de conduta adversa, conforme precedentes desta Corte.
+- Confirmada ou decretada a condenação neste Juízo ad quem, admite-se a execução provisória da pena, tendo em vista o esgotamento do revolvimento da matéria fática e dos elementos de prova, à luz do princípio do duplo grau de jurisdição, sem que se possa falar em afronta ao princípio da presunção de inocência, seguindo o entendimento do Supremo Tribunal Federal, nos autos do HC 126.292/SP, ratificado quando do indeferimento das medidas cautelares objeto das ADCs 43 e 44.
+- Parecer da PGJ pelo conhecimento e o desprovimento do recurso.
+- Recurso conhecido e desprovido.
+No presente mandamus (e-STJ fls. 1/3), o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois determinou a imediata execução da pena restritiva de direitos quando da prolação do acórdão que julgou o recurso de apelação, embora seja incabível a execução provisória de penas restritivas de direitos.
+Ao final, liminarmente e no mérito, pede a suspensão da execução antecipada da pena restritiva de direitos.
+O pedido liminar foi deferido às e-STJ fls. 37/41 e foram solicitadas ao Juízo de primeiro grau informações e a senha para acesso aos dados processuasis constantes do portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do CNJ.
+Em parecer exarado às e-STJ fls. 100 e 101, o Ministério Público Federal opinou pela concessão da ordem, a fim de que a execução da pena restritiva de direitos aplicada ao paciente somente seja executada após o trânsito em julgado.
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+Busca-se, na presente impetração, o reconhecimento de que o acórdão impugnado impôs constrangimento ilegal ao paciente ao determinar a imediata execução da pena restritiva de direitos, embora seja incabível a execução provisória de penas dessa natureza.
+Com efeito, a Terceira Seção desta Corte Superior consolidou o entendimento de que, nos termos do art. 147 da Lei de Execução Penal, as penas restritivas de direitos só podem ser executadas após o trânsito em julgado da sentença penal condenatória.
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS. EXECUÇÃO PROVISÓRIA. IMPOSSIBILIDADE. ART. 147 DA LEI DE EXECUÇÃO PENAL. PROIBIÇÃO EXPRESSA. AUSÊNCIA DE MANIFESTAÇÃO DO STF. EMBARGOS REJEITADOS.
+1. Embora o Supremo Tribunal Federal tenha decidido pela viabilidade da imediata execução da pena imposta ou confirmada pelos tribunais locais após esgotadas as respectivas jurisdições, não analisou tal possibilidade quanto às reprimendas restritivas de direitos.
+2. Considerando a ausência de manifestação expressa da Corte Suprema e o teor do art. 147 da LEP, não se afigura possível a execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de divergência rejeitados.
+(EREsp 1619087/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro JORGE MUSSI, Terceira Seção, julgado em 14/6/2017, DJe 24/8/2017)
+HABEAS CORPUS. SONEGAÇÃO FISCAL. ART. 1º, I, LEI N. 8.137/90. EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. HABEAS CORPUS CONHECIDO. ORDEM CONCEDIDA.
+I - "A execução provisória de acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso especial ou extraordinário, não compromete o princípio constitucional da presunção de inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal" (STF, HC 126.292/SP, Tribunal Pleno, Rel. Min. Teori Zavascki, DJe 17/5/2016).
+II - Tratando-se de penas restritivas de direitos, esta Corte manteve o entendimento de que não cabe sua execução provisória antes do trânsito em julgado da condenação, nos termos do art. 147 da Lei de Execução Penal. Precedentes.
+III - Esta Quinta Turma firmou a mesma orientação no julgamento do AgRg no REsp 1.618.434/MG e do AREsp 971.249/SP. Habeas corpus conhecido. Ordem concedida para suspender a execução das penas restritivas de direitos, até o trânsito em julgado da condenação.
+(HC 432.376/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 5/4/2018, DJe 10/4/2018) - negritei
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA DA PENA RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE.
+1. O Supremo Tribunal Federal, ao tratar sobre a execução provisória da pena, decidiu apenas acerca da privativa de liberdade, nada dispondo sobre as penas restritivas de direito.
+2. Ademais, a Suprema Corte, ao tempo em que vigorava o entendimento de ser possível a execução provisória da pena, como agora, não a autorizava para as penas restritivas de direito (EDcl no AgRg no AREsp 688.225/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/09/2016, DJe 28/09/2016).
+3. Em suma, nos termos do art. 147 da Lei de Execução Penal, as penas restritivas de direitos só podem ser executadas após o trânsito em julgado da sentença penal condenatória. Precedentes do STF e do STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp 1618434/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 13/12/2016, DJe 1º/2/2017)
+À vista disso, com fundamento no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus, mas concedo a ordem, de ofício, para obstar a execução da pena restritiva de direitos imposta ao paciente antes do trânsito em julgado da condenação.
+Publique-se. Intimem-se.
