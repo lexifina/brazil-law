@@ -1,0 +1,51 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. PRECLUSÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. LIMITES SUBJETIVOS DA COISA JULGADA. IMPOSSIBILIDADE DE EXTENSÃO À TERCEIROS. PRECEDENTES. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
+DECISÃO
+Trata-se de agravo em recurso especial manejado pela Fazenda do Estado de São Paulo em face de decisão do Tribunal de Justiça do mesmo Estado, que negou admissibilidade a recurso contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Execução de decisão que determinou o pagamento de complementação de aposentadoria paga pelo Banco do Estado de São Paulo e pelo INSS. Pretensão à inclusão, na base de cálculo desse pagamento, de direitos reconhecidos na esfera jurisdicional trabalhista. Admissibilidade. Decisão reformada. Recurso provido.
+Os embargos de declaração opostos foram rejeitados.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, a agravante apontou contrariedade aos arts. 1.022, 506, 507, 508 e 803, III, do CPC/2015, alegando em síntese que (a) a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso, (b) "porque além de preclusa a rediscussão de decisão transitada em julgado, foi estendido o limite da coisa julgada para parte não participante de processo de conhecimento e portanto sem efeito em relação a esta quanto ao ali determinado, seja no seu aspecto subjetivo (como vínculo constituído unicamente entre as partes que participaram do processo de conhecimento)." (fl. 305-e).
+Apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que não ficou evidenciado vício no acórdão recorrido apto a ensejar a violação ao art. 1.022 do CPC/2015. Ainda, que não houve a demonstração de malferimento dos dispositivos tidos por ofendidos. E que a análise da tese suscitada demanda reexame de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+A parte agravante rechaça os fundamentos mencionados.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou os fundamentos adotados na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Quanto à alegada ofensa ao artigo 1.022 do CPC/2015, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Destaca-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO - CÁLCULO EM SEPARADO - REGIME DAS LEIS 8.212/91 E 8.620/93 - POSSIBILIDADE - CPC, ART. 535, II - AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 27/05/2008, DJe 12/06/2008)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO COMANDO DO ARTIGO 535 DO CPC/1973. OMISSÃO NÃO CARACTERIZADA. LITISPENDÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A pretensão de simples reexame de provas, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 948.438/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 20/09/2016)
+Rejeitada, portanto, a preliminar de violação do art. 1.022 do CPC/2015.
+Quanto à tese de preclusão da discussão sobre decisão transitada em julgado, verifico que o acórdão recorrido não analisou tal ponto. Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no acórdão recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+Por fim, melhor sorte socorre à agravante no que tange aos limites subjetivos da coisa julgada. Isso porque a jurisprudência do STJ é firme quanto à inviabilidade da extensão dos efeitos de decisão judicial a terceiros.
+Neste sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDORES PÚBLICOS MUNICIPAIS. ISONOMIA. IMPOSSIBILIDADE DA EXTENSÃO DE VANTAGEM PECUNIÁRIA OUTORGADA A CERTOS SERVIDORES EM RECLAMAÇÃO TRABALHISTA. ART. 472 DO CÓDIGO DE PROCESSO CIVIL. LIMITES SUBJETIVOS DA COISA JULGADA. AUSÊNCIA DE COMPROVAÇÃO DA IDENTIDADE DE SITUAÇÕES. INATACADO FUNDAMENTO POR SI SÓ SUFICIENTE À MANUTENÇÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do STJ é firme quanto à inviabilidade da extensão dos efeitos de decisão judicial a terceiros, especialmente a que assegura vantagens pecuniárias a determinados servidores, porquanto tais efeitos somente atingem as partes que integraram a respectiva relação jurídica, nos termos do art. 472 do CPC.
+2. O fundamento do acórdão recorrido de que não foi provada a identidade de situações entre os recorrentes e o servidor paradigma, suficiente, por si só, à manutenção do julgado, não foi rebatido nas razões do Recurso Especial, permanecendo, portanto, incólume. Incidência da Súmula 283/STF.
+3. Agravo Regimental desprovido.
+(AgRg no AREsp 275.477/CE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/03/2014, DJe 08/04/2014)
+ADMINISTRATIVO. PROCESSUAL CIVIL. ANÁLISE DE DISPOSITIVO CONSTITUCIONAIS. IMPOSSIBILIDADE NA VIA ELEITA. EX-FERROVIÁRIOS. ARGUIÇÃO GENÉRICA. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DO DISPOSITIVO DE LEI FEDERAL VIOLADO. INCIDÊNCIA DA SÚMULA N.º 284 DO SUPREMO TRIBUNAL FEDERAL. REAJUSTE DE 26,06%. COMPLEMENTAÇÃO DE APOSENTADORIA. EXTENSÃO DOS EFEITOS DE ACORDO HOMOLOGADO NA JUSTIÇA DO TRABALHO. ART. 472 DO CPC. IMPOSSIBILIDADE.
+1. A via especial, destinada à uniformização da interpretação da legislação infraconstitucional, não se presta à análise de possível violação a dispositivos da Constituição da República.
+2. A alegação de ofensa genérica à lei federal - Lei n.º 10.478/2002, ao Decreto n.º 57.629/1966 e ao Decreto-Lei n.º 956/1969 -, sem a particularização dos dispositivos legais tidos como vulnerados, implica deficiência de fundamentação, atraindo a incidência da Súmula n.º 284 do Supremo Tribunal Federal.
+3. É descabida a pretensão de ferroviários aposentados e pensionistas, que não integraram as ações individuais nas quais foram firmados os acordos trabalhistas, de reajustamento de proventos, ao fundamento de existência de limitação subjetiva dos efeitos dos referidos acordos judiciais, nos termos do disposto no art. 472 do Código de Processo Civil.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1149780/BA, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 28/06/2011, DJe 01/08/2011)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR. R.F.F.S.A. COMPLEMENTAÇÃO DE APOSENTADORIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. LIMITES SUBJETIVOS DA COISA JULGADA. SÚMULA 339 DO STF.
+1. Conforme jurisprudência pacífica desta Corte, compete à Justiça Federal processar e julgar as causas instauradas entre os aposentados e pensionistas da extinta Rede Ferroviária Federal Sociedade Anônima - RFFSA, a União e o Instituto Nacional do Seguro Social - INSS, que tenham por objeto a discussão de diferenças de tabelas de complementação de aposentadorias e pensões de ferroviários, com fundamento na Lei n.º 8.186, de 21 de maio de 1991.
+2. Nos termos do art. 472 do CPC, não é possível a extensão dos efeitos de decisão judicial, especialmente a que assegurou vantagens pecuniárias a determinados servidores, porquanto tais efeitos somente atingem as partes que integram a respectiva relação jurídica, não podendo ser estendidos a terceiros.
+3. De acordo com a Súmula 339/STF, os limites da coisa julgada não podem ser extrapolados sob o fundamento de isonomia entre servidores, tendo em vista que a igualdade deve ser reconhecida com base nas leis, e não com base nas decisões judiciais. (AgRg no Ag 1.016.025/RS, Relator o Ministro Arnaldo Esteves Lima, DJ de 25/8/2008).
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1523992/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/10/2015, DJe 06/11/2015)
+Incide, no caso, o teor da Súmula 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe parcial provimento.
+Publique-se. Intimem-se.
