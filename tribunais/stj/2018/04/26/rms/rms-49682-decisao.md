@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por [NOME], com fundamento no artigo 105, inciso II, alínea b, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+EMENTA - MANDADO DE SEGURANÇA. JUIZ CORREGEDOR E DIRETOR DO FORO. LITISCONSORTES PASSIVOS. NOMEAÇÃO PARA RESPONDER PELO SERVIÇO DE TABELIONATO DE NOTAS. DISTRITO JUDICIÁRIO DE SANTA RITA DO ARAGUAIA. COMARCA DE MINEIROS. [NOME]. REGIME DE CLT. DECISÃO DO CONSELHO NACIONAL DE JUSTIÇA. NÃO CONHECIDO O PROCEDIMENTO.
+I - O impetrante tendo sido nomeado como Escrevente e Oficial/Substituto do Serviço de Tabelionato de Notas, de Protestos de Títulos, Tabelionato e Registro de Contratos Marítimos, Registro de Imóveis, de Títulos e Documentos, Civil das Pessoas Jurídicas, Civis das Pessoas Naturais, e de Interdição e Tutelas do Distrito Judiciário de Santa Rita do Araguaia, Comarca de Mineiros-GO, entendendo que tem o direito líquido e certo para responder pela Serventia, teve o pedido negado pelo Juiz Corregedor/impetrado.
+II - Recorrendo ao Conselho Nacional de Justiça, o pleito não foi conhecido, em face da vedação contida no art. 25, inciso X, do RICNJ - Regimento Interno do Conselho Nacional de Justiça.
+III - O impetrante não possui nenhum vínculo com o Poder Judiciário e o impetrado não estava vinculado à sua nomeação, eis que o seu contrato é regido pela CLT, não se subordinando às regras da Lei nº 8.935/94 e Lei Estadual nº 10.460/88.
+IV. A indicação dos substitutos dos titulares é feita sob a apreciação e critério do Juiz Diretor do Foro, nos termos dos artigos 155, 156, 157 e 158 da Consolidação dos Atos Normativos da Corregedoria-Geral da Justiça do Estado de Goiás.
+V - In casu, o impetrado utilizou-se de critérios técnicos para fazer a escolha do respondente interino da serventia extrajudicial, amparado nos textos legais mencionados.
+VI - Nos termos do art. 39, § 2º, da Lei nº 8.935/94, a autoridade competente designará o servidor mais antigo e o impetrante tinha sido contratado apenas há uma semana.
+VII - Exclusão da litisconsorte passiva [NOME].
+VIII - Ausência de direito líquido e certo. SEGURANÇA DENEGADA.
+Na origem, trata-se de mandado de segurança impetrado por [NOME] contra ato do Juiz de Direito Corregedor e Diretor do Foro da Comarca de Mineiros, de [NOME] e de [NOME].
+Pretende o impetrante ser nomeado para responder interinamente pelo expediente do Serviço de Tabelionato de Notas, de Protestos de Títulos, Tabelionato e Registro de Contratos Marítimos, Registro de Imóveis, de Títulos Documentos, Civil das Pessoas Jurídicas, Civil das Pessoas Naturais, e de Interdições e Tutelas do Distrito Judiciário de Santa Rita do Araguaia, Comarca de Mineiros, Estado de Goiás
+No presente recurso ordinário, o recorrente sustenta que a norma legal que garante o direito líquido e certo do impetrante/recorrente de ser nomeado interino da serventia em destaque (art. 39, § 2º), qual seja, a Lei 8.935/1994, também lhe vincula ao regime celetista (fl. 268).
+Alega que preenche o único requisito necessário para a sua designação - ser nomeado como substituto da serventia - e que é ilegal a nomeação de pessoa não integrante da serventia.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O Ministério Público opina pelo não conhecimento do recurso (fls. 319/323):
+EMENTA: PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO. FUNDAMENTOS.
+RECURSO ORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. 1 - No acórdão recorrido ficou consignado que "o impetrado utilizou-se dos critérios técnicos para fazer a escolha do respondente interino na serventia extrajudicial, amparado nos regramentos supracitados, bem assim na situação fática apresentada e por ele visualizada, notadamente os sérios problemas enfrentados naquela serventia (fraude cartorária), ser o impetrante pessoa desconhecida do juiz, e não ser da esfera de sua confiança, não ter o impetrante apresentado conhecimento da rotina da serventia, extinção do contrato de trabalho com a renúncia do titular; inexistência de vínculo com o Poder Judiciário e aparente situação de oportunismo". 2 - O recorrente, em suas razões recursais, assevera, apenas, que preenche o requisito para responder interinamente pela serventia, mas não ataca todos os fundamentos da decisão recorrida, razão pela qual está desabilitado o recurso aviado.
+3 - A jurisprudência desse Eg. STJ é pacífica no tocante ao não conhecimento do recurso ordinário quando não há impugnação específica dos fundamentos da decisão denegatória da segurança. Precedente.
+4 - Parecer pelo não conhecimento do recurso.
+É o relatório. Decido.
+Não merece conhecimento a presente irresignação, porquanto a parte recorrente deixou de atacar o fundamento da decisão recorrida, mais especificamente o de que a) com renúncia do ex-titular do cartório, houve o rompimento do vínculo empregatício, se desligando o impetrante da referida serventia; b) da falta de vínculo com o Poder Judiciário; e c) o impetrante não seria o substituto mais antigo para responder pelo expediente, limitando-se a afirmar que o Tribunal a quo deveria ter analisado os outros fundamentos do pedido.
+Por esta razão, o recurso padece de irregularidade formal e ofende o princípio da dialeticidade, fato que impede o exame de seu mérito, conforme entendimento dessa Corte Superior.
+Neste sentido:
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO À MOTIVAÇÃO ADOTADA NA ORIGEM. DESATENDIMENTO DO ÔNUS DA DIALETICIDADE.
+1. Descumprido o princípio da dialeticidade, o qual obriga a parte que recorre impugnar, especificamente, os fundamentos do acórdão que objurga, contrapondo-se às razões de decidir já expressadas.
+Precedentes.
+2. É certo na jurisprudência que "a formação de um regime híbrido, só com as vantagens legais dos cargos públicos ocupados, não encontra amparo constitucional, além de prejudicar a transparência no serviço público" (cf. RE 660033 AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe 29/10/2015).
+3. Agravo interno não provido.
+(AgInt no RMS 52.344/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/03/2017, DJe 17/03/2017)
+AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE.
+1. O recurso ordinário em mandado de segurança, como espécie recursal que é, reclama, para sua admissibilidade, a fiel observância do princípio da dialeticidade, impondo-se à parte recorrente o ônus de expor, com precisão e clareza, os erros - de procedimento ou de aplicação do direito - que justificam a reforma do acórdão recorrido, não bastando, para isso, a simples insatisfação com a denegação da ordem.
+2. No caso destes autos, a Corte Estadual denegou a segurança com base em dois fundamentos diversos: (1) a alteração da classificação final do processo seletivo se deu segundo as regras estabelecidas no edital; e, (2) foram observados os princípios do contraditório e da ampla defesa, tendo se assegurado ao impetrante o direito de recorrer. As razões do recurso ordinário, por sua vez, ficaram limitadas à reiteração dos argumentos postos na exordial e nos aclaratórios, nada apontando quanto ao desacerto desses fundamentos, pelo que se negou seguimento ao recurso.
+3. Agravo interno não provido.
+(AgInt no RMS 47.395/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do Recurso Ordinário em Mandado de Segurança.
+Publique-se. Intimem-se.
