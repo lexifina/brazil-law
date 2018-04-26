@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “DIREITO CONSTITUCIONAL. HABEAS DATA. INSTRUMENTO DE PROTEÇÃO DO DIREITO DE PERSONALIDADE. RELAÇÃO ANUAL DE INFORMAÇÕES SOCIAIS - RAIS. ALTERAÇÃO DO CAMPO COR PARA PARDO.
+    A ação de habeas data, como instrumento de proteção de dimensão do direito de personalidade, destina-se a garantir o acesso de uma pessoa a informações sobre ela que façam parte de arquivos ou banco de dados de entidades governamentais ou públicas, bem como a garantir a correção de dados incorretos, nos termos do artigo 5º, inciso LXXII, da Constituição Federal. O impetrante, todavia, deve demonstrar, desde logo, com a propositura da ação, a incorreção dos dados constantes no registro do órgão competente;
+    Na hipótese, o impetrante trouxe aos autos certidão expedida por Perita Criminal do Instituto Geral de Perícias, atestando ser ele de cor parda;
+    Em que pese as limitações do sistema RAIS/CAGED alegadas pela SERPRO, nos termos do Parecer do Ministério Público Federal, 'não é aceitável que uma limitação existente em sistema/programa desenvolvido pelo SERPRO e utilizado pelo Ministério do Trabalho e Emprego impeça a retificação dos dados do empregado'. (eDOC 9)
+    Os embargos de declaração opostos foram parcialmente acolhidos para fins de prequestionamento.
+    Nas razões do recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição, aponta-se violação ao art. 5º, LXXII, “b”, do texto constitucional.
+    Sustenta-se que a pretensão do recorrido de retificar dados constantes de todos os documentos que possui na Superintendência do Trabalho e Emprego em Santa Catarina/Florianópolis, em especial na RAIS/CAGED de 2006 a 2013, para alterar a referência a sua cor, atualmente constante como BRANCA para PARDO, não pode ser cumprida pelo Ministério do Trabalho e Emprego, tendo em vista que quem faz a gestão do sistema utilizado pelo órgão é o SERPRO, que sequer integra a ação.
+    Nessa esteira, alega-se que não houve recusa em atender ao pleito do impetrante, tendo em vista que o impetrado apenas se utiliza do sistema, mas “não possui qualquer ingerência sobre a gestão de dados realizada pelo SERPRO”.
+    Pugna-se, ao final, pelo provimento do recurso para que seja reformado o acórdão recorrido.
+    A Procuradoria-Geral da República emitiu parecer pelo desprovimento do recurso, em acórdão assim ementado:
+    “Recurso extraordinário. Habeas data. Alteração de dados em sistema utilizado pelo Ministério do Trabalho. Discussão sobre a legitimidade passiva ad causam. Questão constitucional indireta. Parecer pelo desprovimento do recurso.” (eDOC 68)
+    Decido.
+    O recurso não merece prosperar.
+    A jurisprudência desta Corte firmou-se no sentido de que a discussão acerca da legitimidade ad causam demanda a prévia análise da legislação infraconstitucional, o que inviabiliza o prosseguimento do recurso extraordinário quanto a este ponto, tendo em vista que a ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa. Nesse sentido, confira-se o seguinte precedente:
+    “HABEAS DATA – DADOS DE CÔNJUGE FALECIDO – LEGITIMIDADE DO SUPÉRSTITE. Conforme alcance do artigo 5º, inciso LXXII, alínea “a” da Constituição Federal, é assegurado ao cônjuge supérstite o conhecimento de informações relativas ao falecido, constantes de registros ou bancos de dados de entidades governamentais ou de caráter público. RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais”. (RE-AgR 589.257, Rel. Min. Marco Aurélio, Primeira Turma, DJe 26.8.2014)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. LEGITIMIDADE ATIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 587.112, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 4.6.2010)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de habeas data na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 5º, LXVII e art. 21 da Lei 9.507/97.
+    Publique-se.
+    Brasília, 26 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
