@@ -1,0 +1,44 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. IMPROBIDADE ADMINISTRATIVA. REEXAME NECESSÁRIO. CABIMENTO. INCIDÊNCIA, POR ANALOGIA, DO ART. 19, CAPUT, DA LEI N. 4.717/65. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+ Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA em face de acórdão prolatado pelo Tribunal de Justiça do mesmo ente federativo assim ementado (e-STJ fls. 536/537):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE ADMINISTRATIVA. REMESSA OFICIAL DETERMINADA POR FORÇA DO ART. 19 DA LEI N. 4.717/1965 (LAP). DUPLO GRAU DE JURISDIÇÃO NÃO OBRIGATÓRIO. REEXAME NECESSÁRIO NÃO CONHECIDO.
+O fato de a Lei n. 8.429/92 (LIA) não possuir disposição expressa sobre a sujeição da sentença ao duplo grau de jurisdição obrigatório não constitui omissão apta a justificar a aplicação, por analogia, das disposições afetas à Lei n. 4.717/65 (LAP).
+MÉRITO. IMPUTAÇÃO DAS CONDUTAS PREVISTAS NOS ART. 10, VIII, DA LEI N. 8.429/1992 (LIA). ALEGAÇÃO DE QUE A AQUISIÇÃO DE UM VEICULO PARA A PRESTAÇÃO DO SERVIÇO DE TRANSPORTE ESCOLAR TERIA SIDO SUPERFATURADA E ENGENDRADA PARA FAVORECER INTERESSES PARTICULARES. INSUBSISTÊNCIA. NÃO COMPROVAÇÃO DO EFETIVO PREJUÍZO SUPORTADO PELOS COFRES PÚBLICOS, NEM SEQUER DO ALEGADO DIRECIONAMENTO DA LICITAÇÃO. MERAS IRREGULARIDADES ADMINISTRATIVAS. CONJUNTO PROBATÓRIO INSUFICIENTE PARA SUSTENTAR UM DECRETO CONDENATÓRIO. PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE NÃO -CULPABILIDADE. NÃO DESINCUMBÉNCIA, PELO PARQUET, DO ÓNUS PROBATÓRIO ESTABELECIDO PELO ART. 333, I, DO CPC/73. MANUTENÇÃO DO DECISUM. APELOS DESPROVIDOS.
+"Em razão do princípio da presunção de não - culpabilidade, constitucionalmente consagrado (art. 5º, LVII) e aplicável, modus in rebus, ao campo da improbidade, a dúvida sobre a ocorrência dos fatos imputados ao réu deve levar o magistrado à prolação de sentença de improcedência (in dubio pro reo), não parecendo razoável a incidência de graves sanções previstas no art. 12 a não ser diante de prova firme da ocorrência da improbidade". (GARCIA, Emerson; ALVES, Rogério Pacheco. Improbidade administrativa. 6" ed. Rio de Janeiro: Lumen Juris. 2011. p. 964)" (Apelação Cível n. 2011.002942-0, de Camboriú, rel. Des. Rodolfo C. R. S. Tridapalli, j. em 18/08/2015).
+Nas razões do recurso especial, aduz a parte ora Recorrente que houve ofensa aos seguintes dispositivos: (a) art. 19, da Lei nº 4717/65 por entender que é cabível reexame necessário em ação civil pública por ato de improbidade administrativa; e, 9b) art. 10, caput, V, da Lei nº 8429/92, pois "é de se concluir, por suposto, por meio da valoração da prova produzida, que ficou o o suficientemente caracterizado o dano ao erário, notadamente pela conduta culposa o to de permitir/facilitar a aquisição de bem por preço superior ao de mercado, levada a cabo por [NOME] e [NOME] (art. 10, V, LIA), bem como pela inação de [NOME], na qualidade de Prefeito Municipal, em apurar o valor real do bem questionado (art. 10, caput, LIA)" (e-STJ fl. 588).
+As contrarrazões foram juntadas às e-STJ fls. 596/603.
+Decisão de admissibilidade do recurso especial (e-STJ fls. 605/607).
+Parecer do Ministério Público Federal (e-STJ fls. 619/625).
+É o relatório, no essencial.
+Incide o Enunciado Administrativo nº 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Com efeito, o recurso especial merece prosperar quanto à alegada ofensa ao art. 19, da Lei nº 4717/65.
+A esse respeito, o acórdão recorrido assim decidiu (e-STJ fls. 540/541):
+1. Do reexame necessário:
+Inicialmente, deixo de admitir o reexame necessário, por considerar que o fato de a Lei n. 8.429/92 (LIA) não possuir disposição expressa sobre a sujeição da sentença ao duplo grau de jurisdição obrigatório não constitui omissão apta a justificar a aplicação, por analogia, das disposições afetas à Lei n. 4.717/65 (LAP).
+É que o reexame necessário deve ser interpretado enquanto exceção no moderno sistema processual, portanto, restritivamente, não se compatibilizando - em face do princípio da presunção de inocência - com a gravidade das reprimendas perseguidas pela prática de atos de improbidade administrativa.
+De tal sorte, desta Relatoria:
+ ..
+Nesse sentido: Apelação n. 0003902-02.2011.8.24.0011, de Brusque, rel. Des. Jorge Luiz de Borba, j. em 26/04/2016; Apelação Cível n. 2014.071930-8, de São José, rel. Des. Cesar Abreu, j. em 03/11/2015; Apelação Cível n. 2014.026695-5, de Itajaí, rei. Des. Luiz Fernando Boller, j. em 13/10/2015; Apelação Cível n. 2014.069340-6, de Armazém, rel. Des. Rodolfo C. R. S. Tridapalli, j. em 14/07/2015; Reexame Necessário n. 2014.004811-3, de Porto Belo, rel. Des. Paulo Ricardo Bruschi, j. em 03/03/2015, dentre inúmeros outros precedentes.
+Conforme se viu, o acórdão recorrido não admitiu o reexame necessário tendo em vista a falta de disposição expressa na Lei nº 8429/92 nesse sentido.
+Ocorre, no entanto, que a orientação jurisprudencial deste Sodalício é no sentido de que as sentenças de improcedência de pedidos formulados em ação civil pública por ato de improbidade administrativa sujeitam-se indistintamente ao referido reexame necessário.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA. REEXAME NECESSÁRIO. CABIMENTO. APLICAÇÃO, POR ANALOGIA, DO ART. 19 DA LEI 4.717/65. APLICAÇÃO SUBSIDIÁRIA DO CÓDIGO DE PROCESSO CIVIL À LEI DE IMPROBIDADE ADMINISTRATIVA. ART. 475 DO CÓDIGO DE PROCESSO CIVIL DE 1973. PRECEDENTES.
+ ..
+II - Tese recursal que se restringe à aplicabilidade do art. 19 da Lei da Ação Popular  que sujeita ao duplo grau de jurisdição sentenças que concluírem pela carência da ação ou improcedência dos pedidos  nos casos de ações civis públicas por ato de improbidade administrativa.
+III - Jurisprudência do STJ firme no sentido de que o Código de Processo Civil deve ser aplicado subsidiariamente à Lei de Improbidade Administrativa. Precedentes: REsp 1217554/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 22/08/2013; EREsp 1098669/GO, Rel. Ministro ARNALDO ESTEVES LIMA, Primeira Turma, DJe 12/11/2010.
+IV - Admite-se, também, a aplicação analógica do art. 19 da Lei n. 4.717/65 em relação às ações civil públicas por ato de improbidade administrativa. Precedentes: REsp 1.108.542/SC, Rel. Ministro CASTRO MEIRA, DJe 29.5.2009; AgRg no REsp 1219033/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 25/04/2011; Embargos de Divergência em REsp n. 1.220.667-MG, Rel. Ministro HERMAN BENJAMIN, DJe 30/06/2017.
+V - As sentenças de improcedência de pedidos formulados em ação civil pública sujeitam-se indistintamente ao reexame necessário, seja por aplicação subsidiária do Código de Processo Civil (art. 475 do CPC/1973), seja pela aplicação analógica do Lei da Ação Popular (art. 19 da Lei n. 4.717/65).
+VI - Recurso especial conhecido e provido para determinar a devolução dos autos ao Tribunal de origem, a fim de proceder ao reexame necessário da sentença.
+(REsp 1605572/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2017, DJe 22/11/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. REFORMA DA SENTENÇA QUE REJEITOU A INICIAL. REEXAME NECESSÁRIO. CABIMENTO. INCIDÊNCIA, POR ANALOGIA, DO ART. 19, CAPUT, DA LEI N. 4.717/65.
+1. Não merece prosperar a tese de violação do art. 535 do CPC/73, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. Sendo assim, não há que se falar em omissão do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão ou qualquer outra causa passível de exame mediante a oposição de embargos de declaração.
+3. Por "aplicação analógica da primeira parte do art. 19 da Lei n.
+4.717/65, as sentenças de improcedência de ação civil pública sujeitam-se indistintamente ao reexame necessário" (REsp 1.108.542/SC, Rel. Ministro Castro Meira, DJe 29/5/2009).
+4. A sentença que rejeita a inicial da ação de improbidade, por sua manifesta improcedência, sujeita-se ao reexame necessário.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1596028/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/09/2017, DJe 29/09/2017)
+Assim, o recurso especial deve ser provido para determinar a devolução dos autos ao Tribunal a quo a fim de proceda ao reexame necessário da sentença.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
