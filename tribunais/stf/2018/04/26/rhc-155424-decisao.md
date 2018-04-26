@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Recurso Ordinário em Habeas Corpus interposto contra acórdão da Sexta Turma do Superior Tribunal de Justiça (Agravo Regimental no Habeas Corpus 420.198/SC, Rel. Min. MARIA THEREZA DE ASSIS MOURA).
+    Consta dos autos, em síntese, que o recorrente foi condenado à pena de 1 (um) ano e 5 (cinco) meses de reclusão, em regime inicial fechado, em razão da prática do crime de furto simples (art. 155, caput, do Código Penal).
+    Questionando a dosimetria da pena, a defesa interpôs apelação no Tribunal de Justiça do Estado de Santa Catarina, que deu parcial provimento ao recurso apenas para reduzir a pena de multa.
+    Ainda inconformada, a defesa impetrou Habeas Corpus junto ao Superior Tribunal de Justiça, no qual postulou a redução da pena-base, por meio do afastamento da valoração negativa da circunstância judicial atinente à conduta social. A ordem foi denegada pela Ministra Relatora, em decisão confirmada pelo colegiado, em acórdão assim ementado:
+    AGRAVO REGIMENTAL. HABEAS CORPUS . ORDEM DENEGADA. DOSIMETRIA. PRIMEIRA FASE. CONDUTA SOCIAL. VALORAÇÃO NEGATIVA. FUNDAMENTAÇÃO CONCRETA. PRETENSÃO DE SIMPLES REFORMA. FUNDAMENTOS DA DECISÃO MANTIDOS. RECURSO A QUE SE NEGA PROVIMENTO.
+    1. A Sexta Turma desta Corte firmou entendimento no sentido de que a existência de condenações anteriores transitadas em julgados pode macular os antecedentes, a personalidade e a conduta social do paciente, desde que não ocorra bis in idem.
+    2. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma.
+    3. Agravo regimental a que se nega provimento.
+    Neste recurso, a defesa reitera a existência de ilegalidade na dosimetria da pena. Sustenta que considerar como desfavoráveis a personalidade ou a conduta social do réu em virtude das suas condenações penais anteriores configura a invocação de fundamento inidôneo para a exasperação da pena-base. Requer, assim, o provimento do recurso, para reformar o v. acórdão do Superior Tribunal de Justiça e determinar o afastamento da pena-base a valoração negativa da circunstância judicial da conduta social.
+    Em parecer, a Procuradoria-Geral da República opinou pelo desprovimento do recurso.
+    É o relatório. Decido.
+    No presente caso, o Superior Tribunal de Justiça chancelou a dosimetria da pena realizada pelas instâncias ordinárias, nos seguintes termos:
+    (…)
+    Colhe-se do aresto impugnado:
+    No que tange à conduta social, ao contrário do que alegou a defesa, não há falar em ocorrência de bis in idem entre os antecedentes e a conduta social, haja vista que retirada a condenação utilizada pelo magistrado para configuração da reincidência, o acusado ainda detém 4 (quatro) condenações definitivas, sendo possível reparti-las entre as mencionadas circunstâncias judiciais.
+    Ademais, o digno togado, permissa vertia, não considerou apenas a prática de crimes pelos quais o apelante foi condenado, valorou sua conduta social, seu modo de viver, pois, conforme se apurou, praticou a conduta delituosa em exame enquanto cumpria pena, não exerce qualquer atividade lícita e de forma reiterada comete crimes contra o patrimônio. (fls. 294-295).
+    Com efeito, verifica-se a idoneidade do argumento apresentado pelas instâncias de origem para justificar a exasperação da pena-base, diante da valoração negativa da conduta social do paciente, tendo em vista a existência de várias condenações anteriores transitadas em julgado.
+    A dosimetria da pena está ligada ao mérito da ação penal, ao juízo que é realizado pelo magistrado sentenciante após a análise do acervo probatório amealhado ao longo da instrução criminal. Daí ser inviável, na via estreita do habeas corpus, reavaliar os elementos de convicção, a fim de se redimensionar a sanção. O que está autorizado, segundo reiterada jurisprudência desta CORTE, é apenas o controle da legalidade dos critérios invocados, com a correção de eventuais arbitrariedades, o que não se verifica na espécie (cf. HC 105.802, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 4/12/2012; HC 94.125, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 6/2/2009; HC 102.966 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 21/3/2012; HC 110390, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 22/10/2012).
+    No particular, a pena-base foi adequadamente fixada com fundamento no art. 59 do Código Penal, com destaque para o fato de que, excluída a condenação invocada para justificar a reincidência, o recorrente, que praticara o crime em questão enquanto cumpria pena, ainda detém 4 (quatro) condenações definitivas pela prática de delitos contra o patrimônio.
+    Ademais, conforme bem destacado pelo Ministério Público, essas 4 condenações transitadas em julgado são aptas a influírem na pena base. Assim, se se afastar essas 4 condenações do exame da conduta social, deverão elas irem ao exame dos antecedentes do agente, os negativando, sendo, assim, mantida a mesma pena aplicada.
+    Sendo esse o quadro, a fixação da pena-base em 1 (um) ano e 4 (quatro) meses de reclusão anos, ante a variação de 1 (um) a 4 (quatro) anos da pena em abstrato, foi estabelecida, sob qualquer ângulo, de maneira proporcional e adequada às circunstâncias do caso concreto, não havendo constrangimento ilegal a ser sanado.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS.
+    Publique-se.
+    Brasília, 26 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
