@@ -1,0 +1,23 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. AGRAVO DE INSTRUMENTO. INTIMAÇÃO OCORRIDA NA VIGÊNCIA DO CPC/2015. CONTAGEM DO PRAZO QUE DEVE OBSERVAR AS REGRAS PREVISTAS NA LEI NOVA. RECURSO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de Goiás que, nos autos de agravo de instrumento, em sede de agravo interno, confirmou a decisão monocrática que não conheceu do recurso, em razão de intempestividade, havendo a imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, no julgamento do agravo interno.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, o recorrente aponta ofensa aos arts. 1.021, § 4º, e 1.046, do CPC/2015, alegando, em síntese, que: (a) é descabida a multa aplicada em sede de agravo interno; (b) o agravo de instrumento foi interposto levando em consideração a intimação pessoal da autarquia previdenciária, motivo pelo qual não há falar em intempestividade.
+Em suas contrarrazões, o recorrido pugna pela manutenção do aresto atacado.
+O recurso foi admitido pela decisão de fls. 283/285.
+É o relatório. Passo a decidir.
+Inicialmente, registre-se que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não obstante os fundamentos do acórdão recorrido, depreende-se dos autos que a intimação do ora recorrente ocorreu na vigência do CPC/2015.
+Ressalte-se que o "recebimento dos autos na Escrivania" não interfere na contagem do prazo para o recurso, especialmente em razão da prerrogativa de intimação pessoal existente no caso.
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO AGRAVADA PUBLICADA SOB A ÉGIDE DO CPC/1973. CONTAGEM DO PRAZO. REGRAS DE DIREITO INTERTEMPORAL. INAPLICABILIDADE DO CÓDIGO DE PROCESSO CIVIL DE 2015. INTEMPESTIVIDADE.
+1. A nova lei processual se aplica imediatamente aos processos em curso (ex vi do art. 1.046 do CPC/2015), respeitados o direito adquirido, o ato jurídico perfeito, a coisa julgada, enfim, os efeitos já produzidos ou a se produzir sob a égide da nova lei.
+2. Considerando que o processo é constituído por inúmeros atos, o Direito Processual Civil orienta-se pela Teoria dos Atos Processuais Isolados, segundo a qual, cada ato deve ser considerado separadamente dos demais para o fim de determinar qual a lei que o regerá (princípio do tempus regit actum). Esse sistema está inclusive expressamente previsto no art. 14 do CPC/2015.
+3. Com base nesse princípio e em homenagem à segurança jurídica, o Pleno do Superior Tribunal de Justiça interpretou o art. 1.045 do Código de Processo Civil de 2015 e concluiu que o novo CPC entrou em vigor no dia 18/03/2016, além de elaborar uma série de enunciados administrativos sobre regras de direito intertemporal (vide Enunciados Administrativos n. 2 e 3 do STJ).
+4. Esta Corte de Justiça estabeleceu que a lei que rege o recurso é aquela vigente ao tempo da publicação do decisum. Assim, se a decisão recorrida for publicada sob a égide do CPC/1973, este Código continuará a definir o recurso cabível para sua impugnação, bem como a regular os requisitos de sua admissibilidade. A contrario sensu, se a intimação se deu na vigência da lei nova, será ela que vai regular integralmente a prática do novo ato do processo, o que inclui o cabimento, a forma e o modo de contagem do prazo.
+5. No caso, a decisão ora agravada foi publicada em 16/03/2016, portanto sob a égide do CPC/1973. Assim, é inviável a incidência das regras previstas nos arts. 219 e 1.021, § 2º, do CPC/2015, razão pela qual se mostra intempestivo o agravo regimental interposto após o prazo legal de cinco dias previsto nos arts. 545 do Código de Processo Civil de 1973 e 258 do Regimento Interno do STJ.
+6. Agravo regimental não conhecido.
+(AgRg no REsp 1584433/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/09/2016, DJe 21/10/2016 - grifou-se)
+Assim, impõe-se a anulação do acórdão recorrido, a fim de que a contagem do prazo recursal leve em consideração as regras do CPC/2015. Consequentemente, impõe-se a devolução dos autos ao Tribunal de origem para que seja proferido novo julgamento e o afastamento da multa aplicada em sede de agravo interno.
+Diante do exposto, com base no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
