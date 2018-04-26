@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FIRMINO E RONSANI LTDA - MICROEMPRESA, na vigência do CPC/73, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 4ª Região, assim ementado:
+"TRIBUTÁRIO. PROCESSO CIVIL. PENHORA. RECUSA DE BEM. CAUTELAR.
+1. O contribuinte pode, após o vencimento da sua obrigação e antes da execução, garantir o juízo de forma antecipada, para o fim de obter certidão positiva com efeito de negativa, todavia com a possibilidade de rejeição pela Fazenda Pública dos bens indicados.
+2. Cabe ressaltar que a recusa da União apresenta elementos de razoabilidade: a efetivação da penhora sobre meramente 1% sobre o faturamento, o crédito tributário estaria longe de ser garantido, já que nem mesmo a parcela de juros seria coberta pelo depósito mensal.
+3. Em que pese necessidade de que seja a execução promovida de forma menos onerosa ao devedor (artigo 620 do CPC), as atuais diretrizes do processo executório se orientam pelo princípio da efetividade, insculpido no artigo 612 do CPC, com vistas à satisfação total do crédito" (fl. 108e).
+Nas razões do Recurso Especial, manejado com apoio na alínea a e c do permissivo constitucional, alega-se a existência de divergência jurisprudencial e ofensa aos arts. 205 e 206 do CTN e 11 da Lei 6.830/80.
+Sustenta-se, em síntese, que:
+"A Sociedade Empresária postulante em razão da premência em obter a Certidão Positiva de Débitos Fiscais com efeitos de Negativa oferece como caução em garantia do débito tributário o percentual de 1% sobre o faturamento líquido mensal da empresa, ou com pagamento mensal mínimo de R$ 1000,00 (um mil reais), conforme se comprovará com demonstrativos de resultado que serão anexados a presente exordial.
+A penhora sobre o faturamento da empresa é sinônimo de faturamento sobre dinheiro, razão pela qual deve ser aceita como forma de garantia de débitos fiscais.
+Ademais, a ordem do artigo 11 da Lei nº 6.830/1980 é taxativo e, sendo o faturamento da sociedade empresarial sinônimo de dinheiro, está o mesmo em primeiro lugar no referido rol, que transcrevemos a seguir:
+(..)
+Da mesma maneira, equivalendo o percentual do faturamento à ordem preferencial, qual seja, dinheiro, não há óbice ao deferimento da questão em tela.
+Até porque os tribunais já vem decidindo de forma a aceitar a penhora sobre o faturamento da empresa como vemos:
+(..)
+Assim sendo, não resta duvidas quanto a possibilidade de se garantir o débito com percentual de faturamento, ou com pagamentos mínimos mensais, portanto não havendo óbice para a concessão da cautelar de caução e a expedição da devida CPEN.
+Para que a sociedade empresária requerente mantenha a sua empresa e, em decorrência dela, continue o atendimento de suas diversas funções sociais - inclusive a de gerar e fazer circular riquezas tributáveis, alcançando recursos financeiros ao Poder Público - faz-se imprescindível a obtenção de certidão positiva de débito com o efeito de negativa que prove sua regularidade fiscal.
+Nesse mesmo cenário, a sociedade empresária requerente reconhece a existência de dívida fiscal e a necessidade de saldá-la, no entanto, não dispõe de condições de fazê-lo de uma só vez, segundo o interesse imediato do Poder Público extremamente nocivo na perspectiva da sua economia.
+O Poder Público, por sua vez, tarda em dar prosseguimento a execução fiscal e a possibilitá-la a garantia do juízo para que pudesse dar início à discussão acerca do valor justo a ser pago e a obtenção de certidão de regularidade fiscal, nos termos do artigo 206 do Código Tributário Nacional.
+(..)
+Assim, não se pode "congelar" as atividades de uma sociedade empresária, levando-a ao sério risco de perda de mercado, em razão a inércia do Poder Público em aceitar e lavrar o devido auto de penhora dos bens devidamente ofertados nas execuções fiscais e dar azo à discussão. Há, portanto, fundado receio de que a sociedade empresária requerente suporte injustificáveis prejuízos caso aguarde a manifestação sobre a penhora dos bens ofertados na execução fiscal ou mesmo a prolação de sentença na ação de conhecimento pelo rito ordinário que será proposta com o escopo de se apurar o valor efetivamente devido ao Poder Público.
+Considerando o mercado em que atua, no qual a velocidade tecnológica não perdoa qualquer descompasso, a reparação das perdas de negócios torna-se extremamente difícil e a concessão de liminar inaudita altera parte se faz medida imprescindível.
+No prazo legal será proposta demanda de conhecimento visando à discussão dos encargos excessivos, juros, multas e honorários que compõem do débito tributário inscrito pelo Poder Público Federal. O legislador processual pátrio, ciente de que não poderia prever todas as emergências processuais, possibilitou ao julgador sopesar esses requisitos e ordenar todas as medidas legais necessárias para que as graves lesões de difícil reparação não se verifiquem no mundo dos fatos, como se vê do positivando nos artigos 798 e 799 do Código de Processo Civil.
+(..)
+A positivação dos poderes gerais de cautela confere a discricionariedade necessária ao magistrado para alcançar a imediata justiça, mesmo de provisoriamente e como lenitivo, a quem não pode aguardar a prestação jurisdicional sem que danos lhe sejam causados.
+No caso sub judice a caução da dívida para a obtenção de certidão positiva de débito com o efeito de negativa tem caráter instrumental - não satisfativo - em nada prejudica o direito do Poder Público, argumentos justos a ensejarem qualquer receio em sua concessão.
+Incontestes, o direito líquido e certo da sociedade empresária requerente de caucionar dívida fiscal com bem de sua propriedade que não a prejudica no desempenho de suas atividades para que melhor se mantenha atendendo a sua função social, sem provável abalo letal ao seu patrimônio é que propõe a presente cautelar e vem a este juízo requerer o que segue.
+Isto posto, insta a recorrente seja conhecido o presente recurso e, no mérito dado provimento, reconhecendo as negativas de vigência a artigos de lei federal e a divergência jurisprudencial para reformar a decisão atacada, condenando a União ao pagamento de custas e honorários advocatícios" (fls. 121/125e).
+Contrarrazões às fls. 131/132e.
+Recurso Especial admitido (fl. 135e).
+O presente recurso não merece prosperar.
+Conforme se observa do acórdão recorrido, a garantia oferecida pela ora recorrente não foi aceita com base na seguinte fundamentação:
+"De fato, a penhora sobre o faturamento em execução é amplamente aceita.
+Todavia, no caso concreto, não há espaço para sua aceitação nos termos em que proposta pela parte autora, vez que, com a efetivação da penhora sobre meramente 1% sobre o faturamento, o crédito tributário estaria longe de ser garantido, já que nem mesmo a parcela de juros seria coberta pelo depósito mensal" (fl. 107e).
+Rever esse juízo de fato, no sentido da insuficiência da garantia, demandaria incursão no conjunto probatório dos autos, medida sabidamente incompatível com o escopo restrito do Recurso Especial (Súmula 7/STJ).
+Outrossim, ainda que fosse possível, importa reconhecer que o Recurso Especial, ao bater-se, apenas e tão-somente, pela possibilidade genérica de penhora de faturamento, não impugna, especificamente, as razões de decidir do acórdão, no que se afirmou a insuficiência, no caso concreto, da garantia oferecida. De aplicar, portanto, por analogia, a Súmula 283/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
