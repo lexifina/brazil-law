@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial, este interposto contra v. acórdão assim ementado:
+"APELAÇÕES CÍVEIS - AÇÃO DE REINTEGRAÇÃO DE POSSE E USUCAPIÃO - REINTEGRAÇÃO DE POSSE - JULGAMENTO PROCEDENTE DA REINTEGRAÇÃO CARACTERIZAÇÃO DO ESBULHO INSURGÊNCIA DO AUTOR APENAS QUANTO AO RECONHECIMENTO DA COMPOSSE - ANÁLISE DO ARTIGO 1199 DO CÓDIGO CIVIL - NÃO CARACTERIZAÇÃO DO INSTITUTO - RECURSO CONHECIDO E PROVIDO - USUCAPIÃO EXTRAORDINÁRIO - ARTIGO 1238 DO CÓDIGO CIVIL - DEMONSTRAÇÃO DOS REQUISITOS - POSSE MANSA, PACÍFICA E ININTERRUPTA; ANIMUS DOMINI (INTENÇÃO DE DONO); PRAZO DE 15 ANOS PROVA TESTEMUNHAL - LIVRE CONVENCIMENTO MOTIVADO DO MAGISTRADO - ARTIGO 131 DO CPC - CLÁUSULA DE INALIENABILIDADE - INEXISTÊNCIA DE EMPECILHO PRECEDENTES - REFORMA DA SENTENÇA - JULGAMENTO PROCEDENTE DO PEDIDO - RECONHECIMENTO DO DOMÍNIO SOBRE O IMÓVEL OBJETO DOS AUTOS - APELO CONHECIDO E PROVIDO - DECISÃO UNÂNIME." (fl. 407)
+Nas razões do apelo nobre, a parte ora agravante aponta ofensa aos art. 1.199 e 1.200 do Código Civil, aduzindo, em síntese, que "restou claro que o Recorrido tinha posse precária do bem, afastando a ocorrência de esbulho possessório. Também não deixou dúvidas da existência de composse sobre o bem, afastando a reintegração de posse exclusiva do bem" (fl. 437).
+É o relatório.
+Passo a decidir.
+De saída, faz-se importante destacar que o eg. Tribunal de origem concluiu, de acordo com os elementos probatórios constituído nos autos, que a posse no imóvel em testilha fora exclusivamente exercida pelo ora agravado, bem como que esta seria justa, consoante se infere das seguintes passagens do v. acórdão recorrido, in verbis:
+ "Cuida-se de uma discussão judicial referente à posse da Fazenda Fortaleza, cujo imóvel encontra-se registrado em nome do apelado - certidão de fls. 72/73. O autor afirmou que utiliza o imóvel há anos e que pagou ao recorrido o preço justo pela aquisição das tarefas e, aos poucos, ia aumentando a área adquirida junto ao recorrido. Observa-se, também que o apelante comprou a área aos poucos e alterava a cerca ampliando o terreno, de acordo com a aquisição.
+ Restou assentado nos autos, depoimentos, petições e documentos que o autor, efetivamente, tinha a posse autorizada sobre a Fazenda. Sendo assim, é justa a posse do requerente, nos termos do artigo 1200 do Código Civil:
+"Art. 1.200. É justa a posse que não for violenta, clandestina ou precária".
+ Em razão disso, foi reconhecido o direito do autor à reintegração de posse sobre o imóvel, nos termos da sentença ora refutada.
+ Entretanto, apesar do julgamento procedente do pedido reintegratório, a MM. Julgadora reconheceu ter havido um período de composse, ou seja, uso comum da área pelas partes.
+ ..
+ Na análise do instituto, associada às circunstâncias envolvendo a relação travada entre as partes, observa-se que não havia coisa comum, mas sim, uma terra registrada em nome do requerido e utilizada pacificamente pelo autor, tanto que foi vencedor na ação de reintegração e o requerido não apresentou qualquer recurso.
+ Na verdade, a prova testemunhai é bastante frágil no tocante à alegada existência de um uso comum da terra, in casu, manutenção de gado de ambas as partes. Isto porque, ao mesmo tempo em que a testemunha [NOME] diz que entre 2006 a 2009 havia ovelhas do requerido na área supostamente arrendada pelo autor, percebe-se que a testemunha de nome Valdenicio é taxativa em afirmar que o autor nunca permitiu colocar gado do requerido no período de 2007 a 2009.
+ A testemunha [NOME], por sua vez, em alguns momentos disse que o gado era misturado, mas em outros, não sabia se o gado era todo do requerido ou do autor também.
+ Denota-se, assim, que não restou comprovada, seguramente, a composse suscitada pelo requerido, cujo ônus lhe cabia, nos termos do artigo 333, II do CPC.
+ Nesse toar, impõe-se o acolhimento do pleito recursal, uma vez que não caracterizada a composse, conforme fundamentos supra transcritos."
+(fl. 412/414)
+Com efeito, a modificação do entendimento firmado, especialmente para concluir pela existência de composse ou a precaridade da posse exercida pelo agravado, na forma pleiteada pelo ora agravante, demandaria o reexame do provas, o que é defeso em sede de recurso especial, nos termos do enunciado sumular n. 7/STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
