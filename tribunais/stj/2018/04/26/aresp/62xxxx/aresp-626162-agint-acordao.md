@@ -1,0 +1,75 @@
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem no sentido de que o julgamento antecipado da lide não implicou cerceamento de defesa, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. O Tribunal de origem não se pronunciou sobre a tese defendida no recurso especial, apesar de instado a fazê-lo por meio dos competentes embargos de declaração, nem houve indicação no apelo raro de afronta ao art. 535 do CPC/73. Incidência da Súmula 211/STJ.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto por [NOME] desafiando decisão que negou provimento a agravo em recurso especial, sob os fundamentos de que: (I) inviável a reforma do acórdão recorrido no ponto em que reconheceu não ter havido cerceamento ao direito de defesa da parte recorrente, ante a necessidade de revolver o substrato fático-probatório dos autos, nos termos da Súmula 7/STJ; e (II) o Tribunal de origem não se pronunciou sobre a tese veiculada no especial apelo relativa à alegada afronta ao art. 185 do CTN, apesar dos embargos de declaração, nem foi apontada violação ao art. 535 do CPC/73, pelo que incidente no particular a Súmula 211/STJ.
+O agravante, em suas razões, sustenta que: (I) "se o Recorrente buscou através dos Recursos cabíveis pronunciamento do Tribunal sobre a matéria e este não o fez mesmo sendo por diversas vezes provocados através de Recursos, resta clara afronta ao artigo 535 do Código de Processo de 1973" (fl. 291); e (II) "Não pede o Recorrente que seja a questão probatória do processo analisada por este Tribunal, e sim que verificado que não percorreu o feito as fases corretas na sua instrução, que este seja devolvido a vara de origem para que seja realizada a devida instrução, evitando o cerceamento do direito de defesa (garantia constitucional)" (fl. 293).
+Transcorreu in albis o prazo para impugnação (fl. 301).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+"Trata-se de agravo fundado no CPC/73, interposto por [NOME], desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 205):
+PROCESSUAL CIVIL. EMBARGOS DE TERCEIROS. PENHORA EM IMÓVEL. ALIENAÇÃO DO BEM APÓS O AJUIZAMENTO DO EXECUTIVO, DA CITAÇÃO DO DEVEDOR E DA VIGÊNCIA DA LC Nº 118/05. NÃO-APLICAÇÃO DA SUMULA Nº 375/STJ. TRANSAÇÃO INVÁLIDA. FRAUDE À EXECUÇÃO CONFIGURADA. PRESUNÇÃO NÃO-ILIDIDA. INTERPRETAÇÃO DOS ARTS. 185 DO CTN E 593, II, DO CPC. JULGAMENTO PELO STJ EM RECURSO REPETITIVO.
+1. A sentença julgou improcedentes embargos de terceiro.
+2. O STJ, em recurso repetitivo (REsp 1141990/PR), decidiu que:
+- a lei especial prevalece sobre a lei geral (lex specialis derrogat Lex generalis), não se aplicando a Súmula 375/STJ às execuções fiscais;
+- nas hipóteses de alienação do bem antes da vigência da LC 118/2005 (até o dia 08/06/2005), necessária a prévia citação no processo judicial para se caracterizar a fraude à execução fiscal.
+Sendo a alienação praticada a partir de 09/06/2005, basta a efetivação da inscrição em dívida ativa para a configuração da fraude.
+3. Concluiu-se, naquele julgado, que a fraude à execução prevista no art. 185 do CTN, tanto em sua redação originária quanto na redação dada pela LC nº 118/2005, diversamente da fraude contra credores, encerra presunção jure et de jure, dispensando a prova do elemento subjetivo da fraude realizada, o chamado concilium fraudis.
+4. Segundo o eminente Relator, a diferença de tratamento entre a fraude civil e a fraude fiscal justifica-se pelo fato de que, na primeira hipótese, afronta-se interesse privado, ao passo que, na segunda, interesse público, porquanto o recolhimento dos tributos serve à satisfação das necessidades coletivas. Assim, o registro da penhora não pode ser exigência à caracterização da fraude no âmbito dos créditos tributários, em vista da existência de regra própria e expressa, a configurar o vicio mesmo antes da citação do executado.
+5. Não há fraude à execução quando no momento do compromisso particular não existia a constrição, merecendo ser protegido o direito pessoal dos promissários-compradores, o que não ocorreu na hipótese em tela.
+6. In casu, os embargantes adquiriram o bem objeto da constrição judicial em 20/05/10, data posterior à entrada em vigor da LC nº 118/05. A execução fiscal foi ajuizada em 10/08/07, com citação válida do devedor em 12/03/10. Tem-se por configurada a fraude à execução.
+7. Apelação não-provida.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 326, 398 do CPC/73; e 185 do CTN; bem como dissídio jurisprudencial. Sustenta que: (I) houve o cerceamento de sua defesa, pois "O juízo de primeiro grau julgou antecipadamente a lide sem oportunizar aos Recorrentes o pronunciamento sobre a contestação e os documentos a ela juntados" (fl. 236); e (II) "a empresa devedora possui capacidade patrimonial para satisfazer ou garantir sua dívida fiscal, sem que para isto seja necessário penhorar bem dos Recorrentes" (fl. 238).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Em relação ao alegado cerceamento de defesa, o Tribunal a quo assim deliberou (fl. 196):
+"Inicialmente, registro que não ocorreu cerceamento ao direito de defesa. A matéria constante dos autos é puramente de direito, não necessitando de produção de provas, sendo correto o julgamento com base no art. 330, I, do CPC. Registro que os documentos acostados à contestação às fls. 114/115 em nada alteraria o comando sentencial se os apelantes tivessem tido vista antes da prolação da sentença.
+Nesse panorama, inviável a reforma do acórdão recorrido no particular, visto que a alteração das conclusões adotadas pela Corte de origem a respeito da não ocorrência do cerceamento de defesa ou da eventual necessidade de produção de provas, tal como colocada a questão nas razões recursais, demandaria, necessariamente, o reexame do substrato fático-probatório dos autos, a atrair, uma vez mais, a Súmula 7/STJ.
+Por fim, o Tribunal de origem não se pronunciou sobre a alegação de que "a empresa devedora possui capacidade patrimonial para satisfazer ou garantir sua dívida fiscal, sem que para isto seja necessário penhorar bem dos Recorrentes" (fl. 238), pelo que apontada afronta ao art. 185 do CTN, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC/73, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.")."
+Conforme já assinalado na decisão agravada, a Corte de origem expressamente assentou que "não ocorreu cerceamento ao direito de defesa  ..  A matéria constante dos autos é puramente de direito, não necessitando de produção de provas, sendo correto o julgamento com base no art. 330, I, do CPC  ..  Registro que os documentos acostados à contestação às fls. 114/115 em nada alteraria o comando sentencial se os apelantes tivessem tido vista antes da prolação da sentença" (fl. 196).
+Escorreita, pois, a decisão agravada ao fazer incidir no ponto a Súmula 7/STJ, pois a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial.
+Em reforço, confira-se:
+ADMINISTRATIVO. FORNECIMENTO DE ÁGUA. SUSPENSÃO INDEVIDA DO SERVIÇO. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. DOCUMENTOS JUNTADOS IRRELEVANTES À SOLUÇÃO DA CAUSA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PRETENSÃO DE REEXAME DE PROVA. AGRAVO CONHECIDO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. SÚMULA 7/STJ.
+1. Não se há falar em ofensa aos arts. 156, 458, incisos II e III, e art. 535 do Código de Processo Civil se o Tribunal de origem pronuncia-se de forma clara e suficiente sobre a questão colocada nos autos.
+2. O Tribunal de origem, procedendo com amparo nos elementos de convicção dos autos, assentou que os documentos juntados não foram determinantes ao deslinde do feito, pois não serviram para embasar o acórdão.
+3. Entendimento insuscetível de revisão, por demandar apreciação de matéria fática, inviável em recurso especial, dado o óbice da Súmula 7/ STJ.
+Agravo regimental improvido.
+(AgRg no AREsp 267.021/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/2/2013, DJe 25/2/2013)
+Por outro lado, o Tribunal a quo, de fato, não se pronunciou sobre a alegação de que "a empresa devedora possui capacidade patrimonial para satisfazer ou garantir sua dívida fiscal, sem que para isto seja necessário penhorar bem dos Recorrentes" (fl. 238), pelo que apontada afronta ao art. 185 do CTN, apesar de instado a fazê-lo por meio dos competentes embargos de declaração.
+Convém assinalar, por pertinente, que vigora no STJ o entendimento de que o prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, que a questão tenha sido suscitada pelas partes nos recursos que aviaram perante aquele Sodalício. A propósito:
+PROCESSUAL CIVIL. ART. 222 DO RIR. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NÃO ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. IMPOSTO DE RENDA. OMISSÃO DE RECEITA. MULTA. APURAÇÃO DA TRIBUTAÇÃO.
+PRETENDIDA APLICAÇÃO. ART. 530 DO RIR. OPÇÃO PELO PAGAMENTO DO IRPJ SOBRE BASE DE CÁLCULO ESTIMADA. REEXAME. SÚMULA 7/STJ.
+1. Descumprido o indispensável exame do artigo 222 do Regulamento do Imposto de Renda - RIR pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+2. Esta Corte não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, mas sim que a respeito tenha havido debate no acórdão recorrido.
+ ..
+Agravo regimental improvido.
+(AgRg no AREsp 495.539/SC, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 27/5/2014, DJe 2/6/2014)
+AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. TRIBUTÁRIO. ICMS. VIOLAÇÃO DO ART. 485, INC. V DO CPC. INAPLICABILIDADE DA SÚMULA 343/STF SE A DECISÃO RESCINDENDA FOR CONTRÁRIA À INTERPRETAÇÃO CONSTITUCIONAL DO STF. AUSÊNCIA DE PREQUESTIONAMENTO A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SÚMULA 211/STJ.
+AGRAVO REGIMENTAL DO ESTADO DO PARANÁ A QUE SE NEGA PROVIMENTO.
+ ..
+2. Merece relevo anotar que, para a configuração do prequestionamento, não basta que o dispositivo legal tido por violado seja suscitado pela parte interessada, impondo-se, também, que tenha sido objeto de debate pelo Órgão Colegiado competente. Incide, à espécie, o enunciado 211 da Súmula do Superior Tribunal de Justiça, segundo o qual é inadmissível Recurso Especial quanto à questão que, a despeito da oposição de Embargos de Declaração, não foi apreciada pelo Tribunal a quo.
+3. Agravo Regimental do ESTADO DO PARANÁ a que se nega provimento.
+(AgRg no AREsp 490.560/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/5/2014, DJe 26/5/2014)
+Importante rememorar que as razões de especial apelo não apontaram violação ao art. 535 do CPC/73 (cf fls. 232/243).
+Escorreita, pois, a decisão agravada ao fazer incidir a Súmula 211/STJ no ponto.
+Ressalte-se que não é possível considerar as razões trazidas no agravo interno vertente com o fito de complementar a fundamentação recursal do apelo raro, em observância aos Princípios da Eventualidade, da Complementaridade e da Preclusão Consumativa.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA INADMITIDOS. AGRAVO REGIMENTAL. FALTA DE DEMONSTRAÇÃO ANALÍTICA DAS TESES CONFRONTADAS. RI, ARTS. 255, § 2º, E 266, § 1º. REAPRESENTAÇÃO DAS RAZÕES RECURSAIS. COMPLEMENTAÇÃO DO RECURSO. PRECLUSÃO CONSUMATIVA.
+I. Não basta à parte recorrente transcrever as ementas e anexar os inteiros teores dos acórdãos confrontados. É necessário, nos termos do Regimento Interno, art. 266, parágrafo 1º c/c art. 255, parágrafo 2o, que os embargantes mencionem "..as circunstâncias que identifiquem ou assemelhem os casos confrontados", exigência aqui não cumprida.
+II. Ademais, diante do princípio da preclusão consumativa, o recurso não pode ser aperfeiçoado em momento posterior ao ato de interposição, para anexação de julgados que instruem a alegação de dissídio interpretativo que não acompanharam a petição primeiro protocolizada.
+III. Agravo regimental improvido.
+(AgRg nos EREsp 800.674/PE, Rel. Ministro ALDIR PASSARINHO JUNIOR, CORTE ESPECIAL, julgado em 18/12/2009, DJe 22/02/2010)
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL - PRECLUSÃO - FUNDAMENTO INATACADO.
+1. Decisão que negou seguimento a recurso especial por deficiência da fundamentação, eis que não indicou o recorrente, com clareza em objetividade, em que consistia a violação do art. 535 do CPC.
+2. Nessas circunstâncias, descabe, em sede de agravo regimental, complementar as razões recursais porque ocorreu a preclusão.
+3. Recurso que não conseguiu infirmar os fundamentos do decisum.
+4. Agravo regimental improvido.
+(AgRg no REsp 870.819/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 15/2/2007, DJ 2/3/2007, p. 286)
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
