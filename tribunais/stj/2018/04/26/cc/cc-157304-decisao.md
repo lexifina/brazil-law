@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo Federal da 1ª Vara de Sete Lagoas - SJ/MG, em face do Juízo de Direito da Vara Criminal de Três Marias - MG, para o processo e julgamento da suposta prática do crime previsto no artigo 34, caput e parágrafo único, I e II, da Lei nº 9.605/98.
+Extrai-se dos autos que, durante patrulhamento, policiais militares ambientais surpreenderam [NOME] e [NOME] praticando pesca mediante utilização de petrechos não permitidos, em período proibido, ocasião em que apreenderam os objetos e mais 30 kg de pescados.
+O inquérito foi remetido para o Ministério Público Estadual, que ofertou denúncia em desfavor dos acusados. O Juízo Estadual entendeu que a competência seria Federal, em razão de que estaria caracterizada ofensa a bens da União, remetendo os autos ao Juízo Federal (fls. 184-185).
+Recebidos os autos e após parecer ministerial o Juízo Federal suscitou o presente conflito, aduzindo que "embora a pesca tenha ocorrido em rio interestadual, considerando o montante de pescado apreendido (30 kg aproximadamente - fls. 07-v), evidencia-se que o dano ambiental assume proporções reduzidas, localizadas, a determinar a competência da justiça estadual." (fl. 200).
+A douta Subprocuradoria-Geral da República opinou pela declaração de competência do Juízo Federal local (fls. 212-217).
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgam competentes (positivo), incompetentes (negativo), ou quando houver divergência sobre a junção de processos, nos termos do artigo 114 do Código de Processo Penal.
+Nos termos do artigo 105, I, "d" da Constituição Federal, é da competência desta Corte Superior decidir o presente conflito de competência entre Juízo de direito e Juízo federal.
+Os crimes ambientais, embora praticados em face de bem comum e de grande relevância, que atinge direitos intergeracionais, não atrai, por si só, a competência da União para processamento e julgamento.
+É imprescindível que exista o interesse da União de modo a atrair a competência da justiça federal, nos termos do artigo 109, I, da CF.
+Diante do constante dos autos, não vislumbro qualquer interesse da União a ponto de o feito ser decidido pela Justiça Federal, em razão da pequena quantidade de pescado apreendida, o que não teria o potencial de ferir os interesses da União, limitando-se ao interesse do local da apreensão.
+Há precedentes recentes da Terceira Seção decidindo pela competência da justiça estadual em casos semelhantes, conforme ementas abaixo:
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CRIME AMBIENTAL. PESCA MEDIANTE PETRECHOS DE USO PROIBIDO. PEQUENA QUANTIDADE DE PESCADO. AUSÊNCIA DE OFENSA A BENS, SERVIÇOS OU INTERESSES DA UNIÃO. PREJUÍZO LOCAL. COMPETÊNCIA DO JUÍZO ESTADUAL.
+I - Os crimes ambientais, embora praticados em face de bem comum e de grande relevância, que atinge direitos intergeracionais, não atraem, por si só, a competência da União para processamento e julgamento.
+II - No caso em análise, em razão da pequena quantidade de pescado apreendida, que não teria o potencial de ferir os interesses da União, limitando-se ao interesse do local da apreensão, deve ser reconhecida a competência da Justiça Estadual para processar e julgar a causa.
+AGRAVO REGIMENTAL NÃO PROVIDO." (AgRg no CC 154.856/SP, Terceira Seção, de minha relatoria, DJe 01/02/2018)
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PESCA PREDATÓRIA. LESÃO RESTRITA AO LOCAL DA PESCA. LESÃO A BENS, SERVIÇOS OU INTERESSES DA UNIÃO NÃO DEMONSTRADA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Com o cancelamento da Súmula 91/STJ, a orientação desta Corte é no sentido de que, em crimes ambientais, a competência em regra é da jurisdição estadual, ressalvada a hipótese de configuração de lesão aos interesses, bens ou serviços da União, de suas entidades autárquicas ou empresas públicas.
+2. Embora o delito tenha ocorrido em rio interestadual, na espécie, os danos ambientais decorrentes da prática da pesca predatória possuem apenas dimensão local, restringindo-se ao Município de Coromandel/MG, motivo pelo qual deve ser aplicada a regra da competência da jurisdição estadual.
+3. Agravo regimental improvido." (AgRg no CC 145.487/MG, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe 04/10/2016, grifei)
+Ante o exposto, conheço do conflito de competência, e declaro competente o Juízo de Direito da Vara Criminal de Três Marias - MG, ora Suscitado.
+[NOME]
