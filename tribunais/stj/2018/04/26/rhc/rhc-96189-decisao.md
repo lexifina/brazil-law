@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por IZOMAR PEREIRA DOS SANTOS, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do do Estado de Mato Grosso.
+Depreende-se dos autos que o recorrente foi preso em flagrante e teve a prisão convertida em preventiva pela prática, em tese, do delito capitulado no art. 33, caput, da Lei 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação da decisão que decretou a prisão preventiva do ora recorrente. O eg. Tribunal de origem, à unanimidade, denegou a ordem, conforme ementa, in verbis:
+"HABEAS CORPUS - ART. 33 DA LEI 11.343/06 - PRISÃO PREVENTIVA - IRRESIGNAÇÃO DEFENSIVA - AVENTADA CARÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA A CUSTÓDIA INOCORRÊNCIA - FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS SATISFATORIAMENTE DEMONSTRADOS PELO JUÍZO IMPETRADO, COM BASE EM ELEMENTOS DISPONÍVEIS NOS AUTOS ALEGADA AUSÊNCIA DO PERICULUM LIBERTATIS 1MPROCEDÊNCIA - GRAVIDADE EM CONCRETO DA CONDUTA AFERIDA A PARTIR DO MODUS OPERANDI UTILIZADO r. DAS PECULIARIDADES FÁTICAS SUPOSTO COMÉRCIO DE DROGAS COM ELEVADO PODER VICIANTE EM ESTABELECIMENTO COMERCIAL INDÍCIOS NOS AUTOS DE PRÁTICA REITERADA - RISCO Á ORDEM PÚBLICA CONSTATADO - SUSCITADA AFRONTA AO PRINCÍPIO DA HOMOGENEIDADE DAS CAUTELARES - DESCABIMENTO - PRISÃO PREVENTIVA QUE NÃO SE CONFUNDE SANÇÃO DECORRENTE DF. CONDENAÇÃO - PRECEDENTES - PRETENDIDA A SUBSTITUIÇÃO POR ACAUTELATÓRIAS MENOS SEVERAS INVIABILIDADE INSUFICIÊNCIA E INADEQUAÇÃO NO CASO CONCRETO ORDEM DE NEGADA.
+Está suficientemente motivado o édito segregatício que expõe, ainda que de forma sucinta, a presença cumulativa do fumus comissi delicti e do periculum libertatis, com base nos elementos concretos e disponíveis nos autos, exatamente como se deu in casu.
+A prisão preventiva hostilizada se apresenta necessária e adequada conto forma de garantir a ordem pública, especialmente no que concerne a gravidade em concreto da conduta atribuída ao paciente, o qual. em tese. estaria promovendo a disseminação de drogas com elevado poder viciante  11 porções menores e 02 maiores de pasta-base de cocaína  em estabelecimento comercial da comarca de origem, no horário de funcionamento Alem do ousado modus operandi. há indícios na provo pré-constituída de que o paciente registraria boletim de ocorrência c TCO anteriores, igualmente relativos à Lei n." 11.343/06. a corroborar a necessidade da custodia.
+A simples possibilidade de o paciente ser condenado a cumprir sua pena cm regime menos gravoso que o fechado, por si só, não ofende o principio da homogeneidade das cautelares. notadamente porque a prisão preventiva não se confunde com o regime de cumprimento da pena, mostrando-se adequada e necessária sempre que se fizerem presentes os seus pressupostos e requisitos, assim como ocorreu na hipótese.
+A despeito dos predicados pessoais eventualmente favoráveis do beneficiário do mandamus verificado o cabimento do ergástulo, não há falar em substituição por cautelares alternativas (art. 282, §6º, CPP). Ademais, as peculiaridades do caso concreto traduzem a insuficiência e inadequação das medidas menos Severas para o fim de acautelar o corpo social.
+Ordem denegada." (fls. 77-78).
+Daí o presente recurso ordinário, no qual alega o recorrente que ausentes os requisitos essenciais à decretação da prisão preventiva, bem como motivação idônea.
+ Pondera que "a segregação cautelar limita-se a fazer referências genéricas acerca da garantia da ordem pública" (fl. 114).
+Aduz possuir condições pessoais favoráveis.
+Requer a revogação da prisão preventiva.
+ Sem pedido de liminar.
+O d. Ministério Público Federal manifestou-se, às fls. 129-131, pela prejudicialidade do recurso, em parecer ementado nos seguintes termos:
+"PENAL. PROCESSO PENAL. NARCOTRÁFICO. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. PERDA DE OBJETO ANTE SUPERVENIÊNCIA DE REVOGAÇÃO DA CUSTÓDIA CAUTELAR E EXPEDIÇÃO DE ALVARÁ DE SOLTURA. SEGUNDO CONSULTA DIRETA POSSÍVEL AO SÍTIO VIRTUAL DO TRIBUNAL A QUO2. PARECER POR SUA EXTINÇÃO SEM EXAME DE MÉRITO POR PREJUDICADO".
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Em consulta ao sítio eletrônico do Tribunal a quo (www.tjmt.jus.br) verifico que o Juiz da 2ª Vara Criminal da Comarca de Tanguará da Serra/MT, revogou a prisão preventiva em desfavor do recorrente e determinou a expedição de alvará de soltura em seu favor em 23/03/2018.
+Nesse contexto, verifico que o presente recurso perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto, julgo o presente recurso em habeas corpus prejudicado.
