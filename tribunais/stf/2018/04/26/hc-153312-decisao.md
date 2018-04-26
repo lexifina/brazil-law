@@ -1,0 +1,31 @@
+Decisão: Trata-se de habeas corpus impetrado contra decisão monocrática, proferida no âmbito do Superior Tribunal de Justiça, que não conheceu de HC 417.132/SP.
+    O impetrante opôs embargos de declaração, que foram rejeitados pelo Ministro-Relator. A referida decisão transitou em julgado em 21.11.2017.
+    Narra o impetrante que: a) o paciente supostamente teria cometido falta disciplinar de natureza grave em 31.03.2014, por infringir o disposto no art. 50, I, da Lei de Execução Penal; b) no procedimento disciplinar, concluiu-se que a falta disciplinar de natureza grave restou caracterizada; c) o Juízo da Execução homologou a decisão administrativa sem ter permitido a manifestação do Ministério Público ou da defesa, o que configura flagrante ilegalidade (art. 5º, LV e LIV, da CF e arts. 67 e 196, ambos da Lei de Execução Penal); d) a punição pela prática da falta grave é desproporcional, tendo em vista o baixíssimo grau de lesividade e de repercussão da suposta conduta ilícita.
+    À vista dos argumentos, pugna pela concessão da ordem para que seja anulada a decisão que homologou a falta disciplinar ou, subsidiariamente, seja desclassificada a conduta para o fim de caraterizá-la como falta disciplinar de natureza média.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    1.1. Não se inaugura a competência deste Supremo Tribunal Federal nas hipóteses em que não esgotada a jurisdição antecedente, visto que tal proceder acarretaria indevida supressão de instância, dado o cabimento de agravo regimental. Precedentes:
+    Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática do Superior Tribunal de Justiça, c uja jurisdição, à falta de manejo de agravo regimental ao Colegiado, não se esgotou. (HC 123.926, Rel. Min. ROSA WEBER, Primeira Turma, julgado em 14.04.2015, grifei)
+    Inexistindo deliberação colegiada do Superior Tribunal de Justiça a respeito da questão de fundo suscitada pelo impetrante, não compete ao Supremo Tribunal Federal analisá-la originariamente, sob pena de indevida supressão de instância. (HC 124.561-AgR, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 10.02.2015, grifei)
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que funciona como substitutivo de agravo regimental, cabível no âmbito do STJ.
+    1.2. Ademais, a Corte compreende que, ordinariamente, o habeas corpus não se presta a rescindir provimento condenatório acobertado pelo manto da coisa julgada, daí a impossibilidade de figurar como sucedâneo de revisão criminal. Acerca do tema:
+    O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal. (HC 128.693 AgR, Relator Roberto Barroso, Primeira Turma, julgado em 04/08/2015, grifei).
+    O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal. (HC 123.430, Relator Luiz Fux, Primeira Turma, julgado em 14/10/2014, grifei).
+    (...) habeas corpus não pode ser utilizado, em regra, como sucedâneo de revisão criminal, a menos que haja manifesta ilegalidade ou abuso no ato praticado pelo tribunal superior. (HC 86.367, Relatora Ellen Gracie, Segunda Turma, julgado em 30/09/2008, grifei).
+    No caso concreto, a decisão que homologou a falta grave foi proferida em 01.09.2014. A defesa interpôs agravo de execução, que foi julgado pelo TJSP em 05.05.2015. O acórdão do Tribunal transitou em 18.06.2015, conforme se infere do andamento processual no sítio eletrônico do TJSP.
+    Assim, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merecia conhecimento, na medida em que não se presta a rescindir provimento condenatório acobertado pelo manto da coisa julgada. Sendo assim, a decisão do STJ, que não conheceu do habeas corpus, não merece reproche.
+    Dessa forma, a análise do recurso não desborda das balizas fixadas pelo não conhecimento, de modo que a concessão da ordem reclama ilegalidade manifesta ou teratologia.
+    2. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Inicialmente, observo que, no ato impugnado, o Juízo da Execução consignou que os princípios constitucionais da legalidade, do contraditório e da ampla defesa foram respeitados no procedimento disciplinar, tendo havido inclusive a oitiva do reeducando, que foi assistido por defesa técnica (eDOC 05, p. 32).
+    O impetrante, por sua vez, alega que a simples falta de manifestação da defesa e do Ministério Público, no âmbito judicial, teria o condão de anular a decisão que homologou a falta grave. Contudo não demonstra qualquer prejuízo concreto decorrente da suscitada nulidade.
+    Como é cediço, a existência de efetivo prejuízo, a teor do art. 563 do CPP, “é essencial à alegação de nulidade, seja ela relativa ou absoluta, eis que (…) o âmbito normativo do dogma fundamental da disciplina das nulidades pas de nullité sans grief compreende as nulidades absolutas.” (HC 85.155/SP, Rel. Min. Ellen Gracie).
+    De tal modo, a falta de demonstração de prejuízo efetivo, aliada à arguição de nulidade formulada nesta Suprema Corte a destempo, impede o acolhimento da pretensão.
+    No que tange à proporcionalidade da punição imposta pela prática da falta grave, não é possível dissentir da conclusão do Juízo da Execução e do TJSP sem adentrar na análise de fatos e provas, o que se revela incabível na via estreita de cognição do habeas corpus.
+    Nesse sentido: RHC 105.150, Primeira Turma, de minha relatoria, DJe de 04.05.12; RHC 121.092/SP, Primeira Turma, Relator Luiz Fux, DJe de 12.05.14; HC 118.602/SP, Segunda Turma, Relator Teori Zavascki, DJe de 11.03.14 e HC 111.398/SP, Segunda Turma, Relator Ricardo Lewandowski, DJe de 03.05.12.
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem de ofício.
+    4. Posto isso, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 26 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
