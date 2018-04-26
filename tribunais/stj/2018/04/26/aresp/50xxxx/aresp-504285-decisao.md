@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por TRIDES CIA. IMOBILIÁRIA ADMINISTRADORA em que pretende admissão de recurso especial, no qual alega, além de dissídio jurisprudencial, violação ao arts. 74 da Lei n. 9.430/1996 e 21 do Código de Processo Civil de 1973, discutindo o regime de compensação e a fixação de sucumbência recíproca em honorários advocatícios.
+Com contrarrazões, o recurso não foi admitido porque não preencheria os requisitos de admissibilidade, notadamente por aplicação do art. 543-C do CPC/1973 (quanto ao regime jurídico da compensação) e aplicação da Súmula 7 do STJ (quanto a apreciação da sucumbência recíproca).
+No agravo, desiste-se da parte do recurso que trada de matéria já decidida por recurso repetitivo, impugnando-se especificadamente a incidência da Súmula 7 do STJ.
+Contraminuta apresentada pela parte agravada.
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Dito isso, acerca da condenação em honorários, constata-se que o Tribunal ordinário, após análise aprofundada dos fatos e das provas, entendeu por aplicar a regra do art. 21 do CPC/1973 da sucumbência recíproca após reconhecer a sucumbência do particular ao menos quanto ao índice de correção, à incidência de juros de mora e ao regime de compensação (e-STJ fls. 160/161).
+Nesse contexto, o recurso não merece ser conhecido, quanto ao ponto, porquanto, é assente, nesta Corte, o entendimento de que não cabe ao STJ rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, por implicar o revolvimento do contexto fático-probatório, inviável em sede de recurso especial à luz da Súmula 7 do STJ.
+No mesmo sentido:
+ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. SERVIDORES DO MAGISTÉRIO SUPERIOR. REESTRUTURAÇÃO DA CARREIRA. REFORMULAÇÃO NÃO PROMOVIDA PELA LEI N. 10.405/2002. ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. RESP PARADIGMA 1.371.750/PE. VERBA HONORÁRIA. SUCUMBÊNCIA RECÍPROCA RECONHECIDA NA ORIGEM. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+I - A jurisprudência do STJ é no sentido de que " ..  a aferição do quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, mostra-se inviável em recurso especial, tendo em vista o óbice disposto na Súmula 7 do STJ."(AgRg no AREsp 842.817/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/03/2016, DJe 16/03/2016). Precedente: REsp 1642736/ES, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/02/2017, DJe 06/03/2017.
+II - Agravo interno improvido.
+(AgInt nos EDcl no REsp 1591872/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 15/08/2017, DJe 21/08/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SUCUMBÊNCIA RECÍPROCA. AUSÊNCIA DE JUSTIFICATIVA PARA A REDISTRIBUIÇÃO DO GRAU DE DECAIMENTO DE CADA UMA DAS PARTES. SÚMULA 284 DO STF. REEXAME DE FATOS E DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. É inviável em sede de Recurso Especial, aferir o decaimento de cada litigante, com o fim de se estabelecer a proporção dos ônus sucumbenciais com a fixação do percentual dos honorários advocatícios, por demandar imprescindível revolvimento de matéria fática. Precedentes: AgRg no REsp. 1.464.576/SP, Rel. Min. HUMBERTO MARTINS, DJe 9.11.2015; AgRg no AREsp. 423.717/PI, Rel. Min. ASSUSETE MAGALHÃES, DJe 28.9.2015 e AgRg no AREsp. 715.021/ES, Rel. Min. SÉRGIO KUKINA, DJe 4.8.2015.
+2. Agravo Interno do ESTADO DE PERNAMBUCO desprovido.
+(AgInt no AREsp 577.730/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/09/2016, DJe 06/10/2016)
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 02/03/2016), o que não é o caso dos autos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se.
+Intimem-se.
