@@ -1,0 +1,33 @@
+DECISÃO
+O Estado de Santa Catarina ajuizou agravo contra decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão assim ementado pelo Tribunal de Justiça Estadual (fl. 492):
+Ação ordinária c/c de indenização por danos morais. Demarcação de terras indígenas. Constituição Federal de 1988, art. 231, §6º. Portaria n. 1.535/2002, do Ministério da Justiça. Particulares expropriados. Preliminares. Arguição de matérias apreciadas em sede de agravo de instrumento. Preclusão. Unirrecorribilidade. Não conhecimento do recurso. Mérito. Danos materiais. Perda da propriedade. Evicção. Não ocorrência. Aquisição do imóvel em momento anterior à demarcação como território indígena. Responsabilidade do Estado de Santa Catarina. Indenização pela terra nua. Omissão da Administração, diante dos danos causados aos particulares em nome do interesse público. Restrição de direitos. Constituição estadual, ademais, que prevê a possibilidade de indenização ou reassentamento daqueles que, com boa-fé, ocupavam as terras demarcadas. Indenização devida. Valor apurado em laudo pericial. Danos morais. Ocorrência. Efetivo sofrimento e abalo. Relatos de ameaças, pressão e atos de hostilidade. Manutenção da decisão. Juros moratórios e correção monetária. Adequação. Desprovimento do recurso. Remessa provida parcialmente.
+No caso de comportamento lícito, assim como na hipótese de danos ligados a situação criada pelo Poder Público, mesmo que não seja o Estado o próprio autor do ato danoso, entendemos que o fundamento estatal é, garantir uma equânime repartição dos ônus provenientes de atos ou efeitos lesivos, evitando que alguns suportem prejuízos ocorridos por ocasião ou por causa de atividades á desempenhadas no interesse de todos. De conseguinte, seu fundamento é o princípio de igualdade, noção básica do Estado de Direito ([NOME]).
+Em suas razões especiais o Estado alega violação dos arts. 944 e 946 do Código Civil, sob o argumento de que a indenização fixada no valor de R$ 60.000,00 (sessenta mil reais) é exorbitante e desarrazoada, ultrapassando o limite do dever de compensação do abalo moral e estético.
+Indica acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul a título de comprovação da alegada divergência.
+Não foram apresentadas contrarrazões (fl. 527).
+É o relatório. Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A controvérsia recursal está centrada no valor indenizatório, fixado em R$ 60.000,00 (sessenta mil reais) para ambos os autores, a título de danos morais em razão da perda da propriedade determinada por Portaria Ministerial, que reconheceu a propriedade dos autores como área de ocupação indígena, à consideração do sofrimento com relatos de ameaças, pressão e hostilidade.
+Para manter o quantum fixado na instância ordinária, o acórdão recorrido deliberou (fls. 505 e segs.):
+A pretensão de reparação dos danos morais recai sobre o abalo sofrido pelos demandantes por terem sido expropriados; pela pressão sofrida psicologicamente; invasões de terras; bloqueios de estradas e outros comportamentos, atribuídos aos indígenas, que contribuíram para que os particulares saíssem das terras ocupadas por sua família desde o ano de 1978, quando adquiridas por seu pai.
+ ..
+Em verdade, o sofrimento humano é insuscetível de ser avaliado por terceiros. Os fatos danosos repercutem no ânimo das pessoas em graus diferentes e, por óbvio, o dinheiro pouco supre a dor causada  ..
+ ..
+Nessa circunstância, observando os critérios alhures delineados para o arbitramento de danos morais, é razoável que a condenação do Estado à verba reparatória seja mantida em R$ 30.000,00 para cada um dos autores, totalizando R$60.000,00.
+Esta Corte de Justiça procede à revisão de verbas indenizatórias em situações bastante excepcionais: quando a verba tenha sido fixada em valor irrisório ou exorbitante. Confiram-se alguns julgados no sentido (g.n.):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS. MORAIS E MATERIAIS. ACIDENTE EM RODOVIA. COLISÃO. ÓBITO. LESÃO PELA PERDA DE UM FILHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. DANO MORAL. VALOR ARBITRADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Não viola o art. 535 do Código de Processo Civil de 1973 o acórdão que rejeita os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado.
+2. Tendo o tribunal de origem decidido a causa com base na análise dos elementos fático-probatórios dos autos, alterar sua decisão atrai a incidência da Súmula nº 7 do Superior Tribunal de Justiça.
+3. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em 250 (duzentos e cinquenta) salários mínimos.
+4. Agravo interno não provido.
+(AgInt no AREsp 904.302/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/04/2017, DJe 11/04/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática publicada em 05/08/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+ ..
+IV. Ressalte-se que a jurisprudência deste Tribunal permite o afastamento do óbice, previsto na Súmula 7/STJ, apenas na hipótese de fixação em valor irrisório ou abusivo, circunstância inocorrente, no presente caso. Nesse contexto, não sendo o caso de valor exorbitante, não há como afastar, no ponto, a incidência da Súmula 7/STJ. Precedentes do STJ.
+V. Agravo interno improvido.
+(AgInt no AREsp 873.844/TO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/03/2017, DJe 27/03/2017).
+In casu a situação não aparenta exorbitância para que seja ultrapasso o óbice sumular respectivo na análise do presente recurso.
+Quanto à alegada divergência jurisprudencial, tem-se que a incidência da Súmula n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RI/STJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
