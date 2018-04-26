@@ -1,0 +1,60 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO E CONSTITUCIONAL. AGRAVO DE INSTRUMENTO. CONCESSÃO DE TRATAMENTO DE CÂMARA HIPERBÁRICA. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Não se conheceu do recurso especial ante a ausência de indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, bem como a incidência do enunciado n. 7 da Súmula do STJ. A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+II - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+III - Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conheceu do agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O presente feito decorre da interposição de agravo de instrumento com pedido de tutela de urgência por [NOME] contra decisão judicial que negou o pedido de tutela de urgência, para fornecimento de tratamento médico objetivando restabelecer a saúde do agravante, face a gravidade da doença.
+No TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, a decisão objeto do agravo de instrumento foi mantida em acórdão assim ementado:
+ADMINISTRATIVO E CONSTITUCIONAL. AGRAVO DE INSTRUMENTO. CONCESSÃO DE TRATAMENTO DE CÂMARA HIPERBÁRICA. DESCABIMENTO. 1. Trata-se de agravo de instrumento, em ação ordinária, interposto por [NOME], em contrariedade à decisão que indeferiu a tutela de urgência requerida para pagamento de tratamento em câmera hiperbárica (Oxigenoterapia Hiperbárica (OHB) no Tratamento de Úlcera Crônica Infectada em Pé Diabético).
+2. É certo que é obrigação do Estado, compreendidos aí todos os entes políticos que compõem o sistema federativo, garantir a saúde dos cidadãos, competindo-lhe proporcionar o tratamento médico adequado, bem como fornecer os equipamentos e medicamentos excepcionais, ainda que não constantes da lista do SUS ou do registro da ANVISA, quando comprovada a necessidade de sua aplicação no caso concreto.
+3. Ressalte-se, de início, que a pretensão do agravante não concerne ao fornecimento de medicamentos, como sói acontecer, ou mesmo à realização de internamento ou cirurgia. Ao contrário, versa o direito a múltiplas sessões em câmara hiperbárica, que é extremamente dispendiosa.
+4. Mais que isso, extrai-se dos elementos da causa que não há noticia que comprove a eficácia do tratamento, chegando-se a questionar mesmo o risco à saúde do paciente submetido a tanto.
+5. Importa destacar, ainda, que de acordo com consulta técnica citada nos autos, pelo juiz de origem, "a oxigenoterapia não está recomendada para "tratamento de feridas crônicas", bem como "há pouca literatura sobre o tema, com resultados imprecisos e alguns mostrando, inclusive, que essa prática pode piorar o quadro clínico do paciente".
+6. Observe-se, outrossim, que os recursos são finitos, de modo que o erário não pode ser compelido indistintamente a arcar com toda e qualquer pretensão dos administrados relativas a tratamentos reputados experimentais, cuja eficácia não seja comprovada. Com efeito, devem ser evitadas as decisões que impliquem vultosa destinação de recursos ao atendimento de situações estritamente individuais, tendo em vista que prejudicariam, mesmo que indiretamente, a situação dos demais que precisam do custeio de terapias de comprovada eficácia. Sendo assim, vê-se que o fornecimento do tratamento à agravante se mostra incompatível com os princípios da reserva do possível e da isonomia.
+7. Agravo de instrumento desprovido.
+Não foram opostos embargos declaratórios.
+[NOME] interpôs recurso especial com fundamento no art. 105, III, a da Constituição Federal. o qual foi admitido na origem.
+No STJ, por meio de decisão monocrática, às fls. 291-293, o recurso especial não foi conhecido ante a ausência de indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, bem como a incidência do enunciado n. 7 da Súmula do STJ.
+Contrarrazões ao recurso especial às fls. 251-275.
+Parecer do Ministério Público às fl.s 285-289, manifestando-se com a seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APELO INTERPOSTO CONTRA ACÓRDÃO QUE INDEFERIU TUTELA ANTECIPADA. IMPOSSIBILIDADE. SÚMULA 735/STF, POR ANALOGIA. SUPERAÇÃO DA CITADA SÚMULA. IMPOSSIBILIDADE. MÍNIMA CHANCE DE ÊXITO DO RECURSO ESPECIAL. 1. Nos termos da Súmula 735/STF, aplicada por analogia, não cabe recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão. 2. Não cabe, na via do recurso especial, a revisão dos requisitos autorizadores de antecipação de efeitos de tutela, por esbarrar no óbice da Súmula 7/STJ. 3. Parecer pelo não conhecimento do recurso especial.
+Interposto agravo interno, alega a parte agravante que não há motivos para o não conhecimento do recurso interposto, tendo em vista a urgência da demanda, bem como o preenchimento de todos os requisitos essenciais do mesmo, cabendo desta forma o seguimento da demanda.
+Intimada, a parte agravada apresentou impugnação em que requer o desprovimento do recurso.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Segundo decidido pelo Plenário desta Corte, na sessão realizada em 9/3/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, portanto, o Código de Processo Civil de 2015.
+No STJ, o recurso especial não foi conhecido ante a ausência de indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, bem como a incidência do enunciado n. 7 da Súmula do STJ.
+É o que ser percebe nos seguintes excertos:
+ ..  Não merece guarida a irresignação do recorrente, uma vez que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+ ..  Verifica-se que a irresignação recursal acerca da concessão da tutela de urgência vai de encontro às convicções do julgador a quo, estabelecidas com lastro o conjunto probatório constante dos autos, no que a pretensão esbarraria na Súmula n. 7/STJ.
+Em seu agravo interno, embora a parte agravante tenha impugnado os fundamentos da decisão recorrida quanto a indicação dos dispositivos violados (fl. 305), não ataca o fundamento de incidência do enunciado n. 7 da Súmula do STJ. Nessas circunstâncias, considerando o teor do enunciado n. 182 da Súmula do Superior Tribunal de Justiça, revela-se evidentemente inadmissível o recurso especial.
+Se a parte realmente não impugna todos os fundamentos da decisão impugnada, incide o óbice imposto pelo enunciado 182 da Súmula deste Tribunal: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A mesma exigência é prevista no parágrafo 1º do art. 1.021 do Código de Processo Civil de 2015.
+Nesse sentido, veja-se a seguinte jurisprudência:
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182 DO STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ.
+2. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada.
+3. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Agravo interno não conhecido.
+(AgInt no REsp 1600403/GO, Rel. Ministro Humberto Martins, segunda turma, julgado em 23/8/2016, DJe 31/8/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do artigo 1.021, § 1º, do CPC/2015 cabe ao agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada.
+2. Incidência da Súmula 182/STJ, in verbis: "É inviável o agravo do Art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 3. Agravo interno não conhecido.
+(AgInt no AREsp 873.251/SP, Rel. Ministro Mauro Campbell Marques, segunda turma, julgado em 19/5/2016, DJe 30/5/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO. DECISÃO QUE INADMITIU RECURSO ESPECIAL. AGRAVO DO ART. 544 DO CPC/1973. AUSÊNCIA DE ATAQUE ESPECÍFICO. SÚMULA 182/STJ. IMPUGNAÇÃO TARDIA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. IMPOSSIBILIDADE. PRECEDENTES.
+1. O princípio da dialeticidade exige que a interação dos atores processuais se estabeleça mediante diálogo coerente e adequado entre seus interlocutores.
+2. Não por outro motivo, o recorrente deve promover o ataque específico de todos os fundamentos da decisão impugnada, cuja reforma pressupõe a apresentação de razões suficientes para demonstrar o desacerto do entendimento perfilhado pelo julgador. Sem o cumprimento desse ônus processual, o recurso nem sequer terá aptidão para promover a alteração por ele buscada.
+3. Nas razões do Agravo previsto no art. 544 do CPC/1973, verifica-se que a parte agravante deixou de impugnar a decisão recorrida.
+4. É inviável o Agravo em Recurso Especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal a quo para negar trânsito ao apelo especial. Incidência, por analogia, da Súmula 182 do STJ.
+5. Ademais, a impugnação tardia dos fundamentos da decisão que não admitiu o Recurso Especial, por ocasião do manejo de Agravo Interno, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+6. Agravo Interno não provido.
+(AgInt no AREsp 864.079/PR, Rel. Ministro Herman Benjamin, segunda turma, julgado em 9/8/2016, DJe 8/9/2016)
+Destaca-se, ainda, entendimento do Supremo Tribunal Federal sobre o tema:
+DIREITO CIVIL E PROCESSUAL CIVIL. CONTRATO BANCÁRIO. CAPITALIZAÇÃO DE JUROS. RECURSO QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. IRREGULARIDADE FORMAL. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL E ART. 317, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. RECURSO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. Não preenchimento do requisito de regularidade formal expresso nos arts. 1.021, § 1º, do Código de Processo Civil e 317, § 1º, do Regimento Interno do Supremo Tribunal Federal: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada" e "A petição conterá, sob pena de rejeição liminar, as razões do pedido de reforma da decisão agravada". Ausência de ataque, nas razões do agravo regimental, aos fundamentos da decisão agravada. 2. Considerado o trabalho adicional realizado em grau recursal, majoro em 10% (dez por cento) os honorários anteriormente fixados, obedecidos os limites previstos no art. 85, §§ 2º, 3º e 11, do CPC/2015. 3. Agravo regimental não conhecido. (ARE 977378 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 16/09/2016.
+Ante o exposto, não conheço o recurso de agravo interno.
+É o voto.
