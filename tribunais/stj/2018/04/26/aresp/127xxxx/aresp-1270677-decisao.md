@@ -1,0 +1,38 @@
+DECISÃO
+
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMPRESARIAL. Prestação de contas. Segunda fase. Ausência de cerceamento de defesa. Prova documental suficiente. Realização de perícia contábil que bem apurou os valores devidos pela ex-sócia e administradora da sociedade. Sócia que se retirou não é responsável por dívidas posteriores a sua saída. Recurso desprovido." (fls.778)
+Opostos embargos de declaração, os mesmos foram rejeitados (e-STJ, fls. 790/794).
+Nas razões do recurso especial, a parte agravante alega violação aos arts. 442, 443 e 469 do Código de Processo Civil de 2015, sustentando, em síntese, (a) que houve usurpação da prova ao se manter resultado proferido na segunda fase de prestação de contas mesmo diante da postulação de produção de prova oral para demonstrar a existência de sócio oculto na sociedade, (b) que o pedido para a complementação necessária do laudo pericial produzido foi indeferido e (c) que houve cerceamento de defesa.
+É o relatório. Decido.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Quanto à alegada violação aos arts. 442 e 443 do CPC/15, o Tribunal a quo concluiu não haver cerceamento de defesa ou necessidade de prova oral pois a alegação de que haveria um sócio oculto deveria estar corroborada por documentos já juntados aos autos, in verbis:
+"Preliminarmente, não se vislumbra o alegado cerceamento de defesa, pois, desnecessária a prova oral, isto porque a apelante poderia juntar nos autos os documentos para comprovar maior razão jurídica para seu argumento, de que seu verdadeiro sócio era o pai da autora que apenas se valia do nome dela. Como bem salientou Magistrada:
+"A alegação da existência de sócio oculto, não constante do contrato social, deve ser também apurada por meio de documentos que já deveriam estar nos autos." (e-STJ, fls. 779/780)
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando o acórdão recorrido analisou todas as questões pertinentes para a solução da lide. O fato de a decisão ser contrária aos interesses da parte recorrente não configura negativa de prestação jurisdicional.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova e da interpretação de cláusulas contratuais, concluiu pela desnecessidade de produção da prova oral requerida, pela inexistência de cerceamento de defesa, pela culpa da ora recorrente pela resilição do contrato e por ter a autora decaído da maior parte do pedido. Entender de modo contrário implicaria reexame de matéria fática e interpretação do ajuste celebrado, o que é vedado em recurso especial.
+4. Agravo interno desprovido.
+(AgInt no REsp 1363678/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2018, DJe 14/03/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PROVA ORAL. CERCEAMENTO DE DEFESA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil de 1.973. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. As conclusões do acórdão recorrido não podem ser revistas por esta Corte Superior, em sede de recurso especial, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido."
+(AgInt no AREsp 1047446/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+No tocante à suposta violação ao art. 469 do CC/02, o Tribunal de origem concluiu pela inexistência de nulidade a ser reconhecida na produção da prova pericial, que fora elucidativa e conclusiva, in verbis:
+"Nesse vértice, a prova pericial foi bastante elucidativa, não havendo qualquer alteração a ser feita. E dizer, o perito, contador, respondeu com superioridade aos quesitos das partes, também da apelante (fls. 358/378), concluindo o saldo a partir das peculiaridades do negócio e da administração, o que é suficiente. E, em abono dessa afirmação, registra-se que, por ocasião de julgamento de Agravo de Instrumento ( fls. 650/653), ficou afastada a pretensão da apelante de anular a perícia a partir de aspectos formais : a conclusão da turma julgadora foi de mero inconformismo com o resultado da prova." (e-STJ, fl. 780)
+Ademais, afirmou-se pela desnecessidade de complementação da mesma, por ter sido considerada bem realizada, in verbis:
+"Daí porque, se a perícia foi considerada bem realizada, por profissional capacitado, que esclareceu todas as dúvidas do Juízo, não há porque pretender qualquer reparo, ou complementação, como pretende a inconformada embargante." (e-STJ, fl. 793)
+Novamente, tem-se que a pretensão da parte agravante em modificar o v. acórdão recorrido esbarra na Súmula 7/STJ, pois demanda o revolvimento de suporte fático-probatório dos autos.
+Vejamos:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE EMBARGADA/ EXEQUENTE.
+1. Não há falar em ofensa ao art. 535 do Código de Processo Civil/73, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo. Não caracteriza omissão ou falta de fundamentação a mera decisão contrária aos interesses da parte, tal como na hipótese dos autos.
+2. Sendo o magistrado o destinatário final da prova, a ele cabe apreciar a suficiência do acervo probatório juntado aos autos. A aferição acerca da necessidade de complementação de perícia impõe o reexame do conjunto fático exposto nos autos, atraindo o óbice da Súmula 7/STJ.
+3. É possível ao avalista opor exceções relativas à origem do débito se o título de crédito não circulou. Hipótese em que a redução do débito exequendo, em embargos à execução, favorece o devedor principal e os avalistas do título.
+4. Agravo interno desprovido."
+(AgInt no REsp 1215966/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/11/2017, DJe 27/11/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de R$ 1.000,00 (mil reais) para R$ 1.100,00 (mil e cem reais).
+Publique-se.
