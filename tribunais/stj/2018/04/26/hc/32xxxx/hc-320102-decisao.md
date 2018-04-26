@@ -1,0 +1,12 @@
+EMENTA
+HABEAS CORPUS. ART. 159, § 1º, DO CP. PRISÃO PREVENTIVA. SUPERVENIENTE PROLAÇÃO DE SENTENÇA CONDENATÓRIA. VEDAÇÃO AO DIREITO DE RECORRER EM LIBERDADE. PERDA DO OBJETO.
+Writ prejudicado.
+DECISÃO
+O presente habeas corpus impetrado em favor de [NOME], o qual buscava a revogação da prisão preventiva do ora paciente, perdeu o objeto.
+Em consulta à página do Tribunal de Justiça, na internet, constatei que, em 29/6/2017, o Juízo de Direito da 5ª Vara Criminal da comarca de Campinas/SP (Ação Penal n. 0037555-15.2014.8.26.0114) proferiu sentença em que condenou o paciente às penas de 4 anos e 6 meses de reclusão, e 540 dias-multa, em regime inicial fechado, pela prática de delito descrito no art. 159, § 1º, do Código Penal. Na oportunidade, foi mantida a prisão cautelar.
+Ora, o aresto combatido nesta impetração foi proferido no dia 11/3/2015, à luz do primevo decreto prisional e  ..  ante a prolação de édito condenatório, que alterou a realidade fática dos autos, esvaziou-se o objeto do pedido aqui formulado, no sentido de não estarem presentes os requisitos exigidos para a imposição da custódia cautelar (AgRg no HC n. 413.143/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 19/9/2017).
+Considerando que a sentença superveniente inaugura nova realidade processual, resta impedido o exame da questão invocada nesta Corte, sob pena de incorrer em indevida supressão de instância, sendo prescindível a utilização de fundamentos diversos para a aplicação da prejudicialidade ao objeto do habeas corpus (AgRg no RHC n. 73.759/BA, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/11/2016).
+Afinal, na ocasião da prolação de sentença condenatória,  ..  em que se reconheceu, ainda que em decisão sujeita a recurso, mas em cognição exauriente, a culpa do paciente,  ..  a adequação da medida cautelar imposta foi reexaminada à luz de um espectro fático-processual de maior amplitude e profundidade. Assim, o estado de liberdade, atualmente, é alvo de ato jurisdicional superveniente, autônomo, de requisitos específicos e que desafia impugnação própria. (STF: HC n. 138.238/PR, Ministro Edson Fachin, DJe 22/2/2017).
+De mais a mais, o anterior título judicial não revelava nenhuma ilegalidade aparente, uma vez que apresentada fundamentação concreta para a decretação da prisão preventiva.
+Assim, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente writ.
+Publique-se.
