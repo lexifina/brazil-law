@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM REPARAÇÃO DE DANOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição Federal.
+3. Recurso especial não conhecido.
+DECISÃO
+Cuida-se de recurso especial interposto por CONSTRUTORA UBIRATAN LTDA, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 08/08/2016.
+Concluso ao gabinete em: 11/10/2017.
+Ação: de rescisão contratual cumulada com reparação de danos ajuizada pela recorrente em face de CLEDILENE CARLA SILVA KOBAYASHI, pleiteando a reintegração na posse de bem objeto de contrato de compra em venda, ante a inadimplência da ré, bem como a perda dos valores pagos, indenização por avarias, despesas administrativas e corretagem.
+Sentença: deu parcial provimento aos pedidos para declarar rescindido o contrato firmado pelas partes e determinar a reintegração da autora na posse definitiva do bem imóvel, bem como condenar a ré ao pagamento do percentual de 12% (doze por cento) do valor atualizado do contrato (fls. 29, cláusula 11º, parágrafo primeiro, alínea "b"), com correção monetária, conforme a Tabela Prática do TJSP, desde o ajuizamento da ação, e juros de 1% ao mês desde a citação, importância a ser apurada em liquidação de sentença. Julgou improcedente pedido reconvencional.
+Acórdão: deu parcial provimento às apelações apresentadas por ambas as partes, para julgar parcialmente procedente a ação e declarar rescindido o contrato firmado entre as partes, cabendo à autora a retenção de 20% das parcelas, além do recebimento de taxa de ocupação indevida do imóvel, fixada em 0,5% do valor do contrato por mês de ocupação, desde a data da posse até a sua efetiva reintegração, afastada a multa por litigância de má-fé, assim como parcialmente procedente a reconvenção, para o fim de condenar a ré à indenização das benfeitorias úteis e necessárias realizadas, assegurando a ré o direito de retenção e ao ressarcimento das parcelas pagas nos termos da fundamentação, sem repercussão nos encargos sucumbenciais fixados em primeiro grau.
+A ementa do aresto restou assim redigida:
+COMPROMISSO DE COMPRA E VENDA  INADIMPLEMENTO POR PARTE DO ADQUIRENTE  RESCISÃO CONTRATUAL  REINTEGRAÇÃO DE POSSE - RESTITUIÇÃO DAS PARTES AO ESTADO ANTERIOR DEVOLUÇÃO DO IMÓVEL E DAS QUANTIAS PAGAS, COM RETENÇÃO DAS DESPESAS ADMINISTRATIVAS ALÉM DE INDENIZAÇÃO PELA OCUPAÇÃO DO IMÓVEL  INDENIZAÇÃO PELAS BENFEITORIAS - CABIMENTO  EMBARGOS DECLARATÓRIOS  NATUREZA INFRINGENTE QUE NÃO IMPLICA, POR SI SÓ, LITIGÂNCIA DE MÁ-FÉ - SENTENÇA PARCIALMENTE REFORMADA.
+Cerceamento de defesa e inépcia da Inicial. Inocorrência. Preliminares afastadas. Verificada a mora do adquirente, que parou de pagar as prestações ajustadas, cabível a rescisão do contrato, restituindo as partes ao estado anterior, mediante devolução do imóvel e do dinheiro pago, autorizada, contudo, a retenção de 20% a título de indenização pelas despesas geradas além de taxa de ocupação indevida do imóvel de 0,5% do valor atualizado do contrato, por cada mês de ocupação, desde a data da posse. Cabível, de outro lado, a indenização pelas benfeitorias úteis e necessárias realizadas pelo adquirente. Precedentes. Sentença parcialmente reformada. Recursos providos.
+RESULTADO: apelações parcialmente providas.
+Recurso especial: alega violação dos arts. 394, 395, 396 e 405 do CC, bem como dissídio jurisprudencial. Pleiteia "seja afastada a incidência dos juros moratórios sobre o saldo das parcelas pagas pela recorrida, a ser restituído pela recorrente, reconhecendo-se que o termo inicial de tais consectários somente ocorre com o trânsito em julgado da decisão".
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca das teses relacionadas aos artigos 394, 395, 396 e 405 do CC, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Ademais, a ausência de prequestionamento do tema que se supõe divergente, qual seja, aplicação do art. 405 do CC, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da CF. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, fixo honorários advocatícios em favor da parte recorrida no importe de R$ 1.000,00.
+Publique-se. Intimem-se.
