@@ -1,0 +1,23 @@
+DECISÃO
+ CLAUDIO RUBENS DOS SANTOS SILVA alega sofrer coação ilegal no seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (HC n. 0014426-47.2018.8.26.0590).
+Narra o impetrante que o paciente "foi processado e condenado em segunda instância ao cumprimento da pena privativa de liberdade de 01 (um) ano e 04 (quatro) meses de reclusão, em regime inicial fechado e não substituída por restritivas de direitos, bem como ao pagamento de dias-multa, como incurso no art. 180 do CP" (fl.02).
+No entanto, é de rigor o reconhecimento da "prescrição da pretensão punitiva estatal em quatro anos ultrapassando o lapso entre a data do recebimento da denúncia (19/08/2010) até a data do trânsito em julgado da sentença 17/07/2015". Ademais, "a única razão ventilada para a fixação do regime fechado foi a argumentação de que o réu é reincidente" (fl. 02).
+Requer o reconhecimento da prescrição ou a fixação do regime aberto.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O habeas corpus não foi instruído com nenhum documento, mas depreende-se da resposta ao pedido de informações que o paciente foi condenado por receptar veículo automotor, ciente de sua origem ilícita.
+I. Prescrição
+Quanto à tese de prescrição, não é possível conhecer do writ pois caracterizadas sua deficiente instrução e a supressão de instâncias. Além de a impetração não estar instruída com a cópia da decisão que recebeu a denúncia ou com qualquer outro documento que delimite os marcos interruptivos da prescrição, a pretensão foi deduzida diretamente neste Superior Tribunal, sem análise prévia do Juiz e do TJSP.
+O impetrante distribuiu petição de apenas três folhas, sem fazer prova inequívoca de sua alegação. Mesmo em questões de ordem pública, que podem ser declaradas em qualquer tempo ou grau de jurisdição, "o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente" (HC n. 442.064/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 17/4/2018).
+II. Regime prisional
+Quanto ao regime prisional, o habeas corpus comporta concessão.
+Depreende-se da documentação enviada na resposta ao pedido de informações que, em primeiro grau, "o paciente fora condenado por infração ao art. 180, caput, do CP, às penas de 1 ano e 3 meses de reclusão, em regime inicial semiaberto, e 12 dias-multa" (fl. 13).
+Em grau de apelação, o Tribunal exasperou as "reprimendas em 1 ano e 4 meses de reclusão" (fl. 13) e fixou o regime inicial fechado.
+Na primeira fase da dosimetria, nenhuma circunstância do art. 59 do CP foi analisada de forma desfavorável e "a pena-base restou fixada no patamar mínimo". A multirreincidência do apelante em crimes patrimoniais dolosos e a gravidade dos fatos lastrearam a fixação do regime prisional mais gravoso. Vale transcrever o acórdão:
+Finalmente, imperiosa a alteração do regime inicial de cumprimento da pena, da modalidade semiaberta para a fechada, conforme postulado pelo Parquet, pois tem-se que a opção pelo regime prisional mais rigoroso  calcada na gravidade concreta dos fatos em apreço e na já mencionada multireincidência ostentada pelo apelante,  atende ao disposto no artigo 33, § 3º, do Código Penal (fl. 25).
+A teor da Súmula n. 440 do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito".
+Ademais, tem-se proclamado, reiteradamente, ser "admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais", como in casu (Súmula n. 269 do STJ).
+Não basta citar a multirreincidência para transitar o réu do regime aberto para o fechado e equipará-lo a um agente que praticou homicídio qualificado ou latrocínio. Inviável conceber tamanha relevância ao instituto da reincidência, principalmente quando a letra da lei impede apenas a aplicação do regime aberto nesta hipótese (quando houver a pena é igual ou inferior a 4 anos de reclusão).
+Era imperioso, para fixar o regime mais gravoso, que o Tribunal indicasse elementos concretos mais graves da receptação ou, mesmo, a análise desfavorável do art. 59 do CP, o que não existiu na espécie. Assim, reconhecida a ilegalidade na motivação do acórdão, o paciente faz jus ao regime intermediário.
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, concedo o habeas corpus para, nos termos da Súmula n. 269 do STJ, fixar ao paciente o regime semiaberto de cumprimento da pena.
+Publique-se e intimem-se.
