@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. 13,9g DE CRACK, 2,1g DE COCAÍNA, 62,1g DE MACONHA. CAUSA DE DIMINUIÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. ACÓRDÃO A QUO QUE NEGOU A INCIDÊNCIA DO REDUTOR, POR ENTENDER QUE O ACUSADO SE DEDICAVA A ATIVIDADE CRIMINOSA. REVER TAL ENTENDIMENTO. NECESSIDADE DE REEXAME DOS FATOS. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal de Justiça de Santa Catarina que, em juízo de admissibilidade, não admitiu o recurso especial por ele apresentado.
+Narram os autos que o agravante foi denunciado pela suposta prática dos crimes de tráfico de entorpecentes e de porte ilegal de arma de fogo de uso restrito e, posteriormente, foi condenado pelos referidos crimes ao cumprimento da pena de 9 anos e 4 meses de reclusão, além do pagamento de 593 dias-multa.
+Tão só a defesa apelou. O Tribunal de Justiça local, por sua vez, deu parcial provimento ao recurso para alterar a reprimenda final para 8 anos e 10 meses de reclusão, mantendo os demais dispositivos da sentença condenatória.
+Nas razões do especial (fls. 405/412), a defesa apontou contrariedade ao art. 33, § 4º, da Lei n. 11.343/06. Sustentou, em suma, a inexistência de fundamentação válida para o afastamento da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei de Drogas, uma vez que o recorrente preenche todos os requisitos legais previstos no referido artigo.
+Por fim, pleiteou pela incidência da referida causa de diminuição em seu patamar máximo.
+Apresentadas contrarrazões (fls. 416/423), o recurso especial não foi admitido, por incidência das Súmulas 284/STF e 7/STJ (fls. 425/427).
+Contra essa decisão a defesa interpõe agravo (fls. 429/439).
+Instado a se manifestar, o Ministério Público Federal opinou pelo improvimento do agravo, nos termos da seguinte ementa (fl. 471):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI Nº 11.343/2006. IMPOSSIBILIDADE. INTEGRANTE DE ORGANIZAÇÃO CRIMINOSA. ACÓRDÃO COMBATIDO, CONSONANTE COM A JURISPRUDÊNCIA DOS TRIBUNAIS SUPERIORES. INCIDÊNCIA DA SÚMULA 83/STJ. PARECER PELO IMPROVIMENTO DO AGRAVO.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Insurge-se a defesa contra a dosimetria da pena, em especial, a não aplicação do privilégio legal previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Ao afastar a aplicação da minorante, o Tribunal teceu os seguintes fundamentos (fl. 359):
+ ..  Na hipótese, para além da quantidade e diversidade das drogas, da prova oral no sentido de que era "gerente da boca", da apreensão de balança de precisão e de outros instrumentos utilizados por quem se dedica habitualmente a esse negócio ilícito, circunstâncias que, por si sós, evidenciam que não se trata de traficante ocasional, há provas de que integra facção criminosa, espécie de organização criminosa, conhecida como "PCC - Primeiro Comando da Capital".
+Deveras, como consta da sentença, em reforço à confissão extrajudicial e ao depoimento na delegacia da adolescente [NOME], o documento de fl. 172, consistente na página inicial do caderno em que eram anotadas as transações de drogas, estampa os dizeres: "15.33", equivalente a "PCC", além dessa sigla, "157", "1º Deus, 2º Nois e 3º Nois mata".
+Ademais, os policiais responsáveis pela abordagem, apreensão e prisão em flagrante iniciaram a investida em virtude da guerra que existe entre essa facção e outra, autodenominada "PGC", pela disputa no tráfico de drogas na região, visto que o apelante teria assumido a gerência da "boca".
+Nesse contexto, dada a existência pública e notória dessa organização criminosa e esses indicativos de que o apelante a integrava, entende-se que efetivamente não faz jus ao benefício pretendido.  ..
+Dessa forma, tendo concluído o acórdão recorrido, a partir da análise de elementos de cunho fático-probatório, que o recorrente não preenchia os requisitos para se beneficiar da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, notadamente em razão da quantidade e diversidade das drogas, da prova oral no sentido de que era "gerente da boca", da apreensão de balança de precisão e de outros instrumentos utilizados por quem se dedica habitualmente ao tráfico (fl. 359), e, ainda, por existir provas de que o réu integra organização criminosa conhecida como PCC, é inviável concluir de modo diverso, dada a necessidade de revisão desses elementos fáticos, vedada em recurso especial, por força da Súmula 7/STJ.
+Nesse sentido: AgRg no AREsp n. 382.311/SP, de minha relatoria, Sexta Turma, DJe 28/5/2015 e HC n. 317.689/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 13/5/2015.
+Ante o exposto, com fundamento nos arts. 932 do Código de Processo Civil e 34, XVIII, e 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
