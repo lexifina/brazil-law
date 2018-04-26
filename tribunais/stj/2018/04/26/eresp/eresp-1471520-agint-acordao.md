@@ -1,0 +1,70 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS ARTS. 5º, XXXV, E 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO OCORRÊNCIA. TEMA 339/STF. VIOLAÇÃO DOS LIMITES DA COISA JULGADA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF.
+1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+3. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Felix Fischer, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por [NOME] e OUTROS contra decisão monocrática de minha relatoria que negou seguimento ao recurso extraordinário nos termos da seguinte ementa (fl. 841, e-STJ):
+"RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS ARTS. 5º, XXXV, E 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO OCORRÊNCIA. TEMA 339/STF. VIOLAÇÃO DOS LIMITES DA COISA JULGADA. TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+O acórdão objeto do recurso extraordinário apresenta a seguinte ementa (fl. 656, e-STJ):
+"ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. COMPENSAÇÃO. OFENSA A COISA JULGADA. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+1. Cuida-se, na origem, de Agravo de Instrumento interposto contra decisão que, em execução de sentença, determinou a compensação de valores eventualmente pagos na via administrativa a título do reajuste de 28,86%.
+2. O Tribunal a quo negou provimento ao Agravo de Instrumento e assim consignou: "Cabível, portanto, a compensação do reajuste de 28,86% com os acréscimos concedidos pela MP nº 1.704/98, regulamentada pelo Decreto n" 2.693/98 e Portaria MARE 2.179/98, sem que haja ofensa à coisa julgada." "Correta, assim, a decisão agravada, que reconheceu o direito à compensação, determinando a remessa dos autos à Contadoria para cálculo dos percentuais a serem efetivamente incorporados à remuneração da parte autora, se existentes" (fl. 630).
+3. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese dos recorrentes, demandaria reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+4. Agravo Regimental não provido."
+Embargos de declaração rejeitados (fls. 689/692, e-STJ).
+Nas razões recursais, a parte agravante alega violação dos arts. 5º, incisos XXXV, LIV e LV, e 93, inciso IX, da Constituição Federal. Pugna pela inaplicabilidade do Tema 181/STF, asseverando, em síntese, que "o título executivo não autoriza nenhuma compensação ao reajuste de 28,86% que não aqueles previstos nas Leis nº 8.622 e 8.627/93. Não obstante, na hipótese dos autos, o Superior Tribunal de Justiça assentou entendimento de que seria possível compensação não prevista no título executivo, qual seja, aquela decorrente de progressão funcional" (fl. 857, e-STJ).
+Não foram oferecidas contrarrazões (fl. 862, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DOS ARTS. 5º, XXXV, E 93, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO OCORRÊNCIA. TEMA 339/STF. VIOLAÇÃO DOS LIMITES DA COISA JULGADA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. CONTROVÉRSIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF.
+1. Não subsiste a alegação de ofensa ao art. 93, inciso IX, da Carta Magna, porquanto o acórdão recorrido, não obstante seja contrário aos interesses da parte, está suficientemente motivado, sem ficar configurada, assim, a apontada ofensa à Constituição da República, aplicando-se à espécie o entendimento do STF exarado nos autos do AI-RG-QO 791.292/PE, julgado sob o regime da repercussão geral (Tema 339/STF).
+2. A Corte Suprema, ao examinar o ARE/RG 748.371/MT, reconheceu que carece de repercussão geral o tema relativo à violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, o que resulta, quanto a esses assuntos, no indeferimento liminar da insurgência (Tema 660/STF).
+3. O Supremo Tribunal Federal, ao julgar o RE 598.365/MG-RG, decidiu inexistir repercussão geral na questão alusiva aos pressupostos de admissibilidade de recursos de outros tribunais, pois a matéria está restrita ao exame de legislação infraconstitucional (Tema 181/STF). Assim, eventual ofensa ao texto constitucional, ainda que existente, dar-se-ia de forma indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Conforme consignado na decisão agravada, no tocante à alegada ofensa ao art. 93, IX, da Constituição Federal por violação do dever de fundamentação no acórdão recorrido, observa-se que a questão foi decidida pelo Supremo Tribunal Federal, no regime da repercussão geral, por ocasião do julgamento do AI-RG-QO n. 791.292/PE, relatado pelo Ministro Gilmar Mendes nos termos da seguinte ementa, in verbis:
+"Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º).
+2. Alegação de ofensa aos incisos XXXV e LV do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência.
+3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral." (STF, AI 791.292 QO-RG, Rel. Ministro Gilmar Mendes, DJe de 13/8/2010 - Tema n. 339 da sistemática da repercussão geral.).
+Nos termos da jurisprudência firmada pelo Pretório Excelso, o atendimento ao comando normativo contido no inciso IX do art. 93 da Carta da República e ao art. 5º, inciso XXXV, da Lex Maxima exige que as decisões judiciais estejam alicerçadas, ainda que de maneira sucinta, em fundamentação apta à solução da controvérsia, embora a consecução de tal desiderato não imponha ao órgão julgador o exame minudente de todas as alegações veiculadas pelas partes.
+Assim, para efeito de análise de conformidade da decisão com o decidido sob o regime de repercussão geral, deve ser verificado se o aresto atacado possui motivação suficiente à solução da controvérsia ou se, à míngua da satisfação desse requisito, caracterizou-se a afronta ao princípio constitucional inscrito no inciso IX do art. 93 da Carta Magna.
+Importante consignar que, nesta fase processual, a análise da questão constitucional ora em comento está adstrita à aferição da existência ou não de fundamentação suficiente para lastrear o acórdão recorrido. Por conseguinte, a verificação do acerto ou desacerto da motivação adotada no provimento judicial atacado extrapola os limites da cognição inerente ao juízo de admissibilidade exercido por esta Vice-Presidência.
+O acórdão concluiu que (fls. 661/662, e-STJ):
+"Dispõe o decisum agravado:
+O Tribunal a quo negou provimento ao Agravo de Instrumento e assim consignou:
+Cabível, portanto, a compensação do reajuste de 28,86% com os acréscimos concedidos pela MP nº 1.704/98, regulamentada pelo Decreto n" 2.693/98 e Portaria MARE 2.179/98, sem que haja ofensa à coisa julgada.
+Para apuração do montante devido, não deve o julgador se valer pura e simplesmente do contido na tabela anexa à Portaria MARE, mas sim dos percentuais de reajuste efetivamente implantados nas fichas financeiras dos servidores, conforme enquadramentos resultantes das Leis n" 8.460/92 e 8:627/93, efetuando a compensação dos acréscimos já concedidos aos exequentes, para fins de recebimento das diferenças advindas da equiparação salarial.
+Correta, assim, a decisão agravada, que reconheceu o direito à compensação, determinando a remessa dos autos à Contadoria para cálculo dos percentuais a serem efetivamente incorporados à remuneração da parte autora, se existentes.
+Ante o exposto,, voto por negar provimento ao agravo de instrumento.
+É o voto. (fl.413).
+Entretanto, conforme tem pronuncia do o Supremo Tribunal, Federal, os embargos declaratórios devem ser apreciados com espírito de compreensão.
+Assim, esclareço que a decisão da Turma foi clara no sentido de que não ofende a coisa julgada a compensação do reajuste de 28,86%.
+Assim, não restaram violados os artigos mencionados pelo embargante.
+Isso posto, conforme determinado pelo Egrégio STJ, sanando as omissões apontadas, nos termos, da fundamentação, voto por dar parcial provimento aos embargos de declaração, sem alteração no resultado do julgado.
+E o voto. (fl. 522).
+Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demandaria reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+(..)
+Reafirmo, portanto, que modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demandaria reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ".
+No caso dos autos, ao julgar a pretensão formulada no recurso em recurso especial, a Segunda Turma do Superior Tribunal de Justiça manifestou-se de forma clara. Logo, verifica-se que as razões de decidir consignadas no aresto impugnado revelam a adoção de fundamentação satisfatória ao deslinde da controvérsia, sendo certo que a prolação do citado provimento judicial, ao contrário do que pretende fazer crer a parte recorrente, observou corretamente, conforme preconizado pelo Pretório Excelso, a devida entrega da prestação jurisdicional.
+No que diz respeito à suposta violação do art. 5º, XXXVI, da CF/88, deve-se notar que a Suprema Corte, ao julgar o ARE/RG nº 748.371 (Tema 660/STF), reconheceu que não existe repercussão geral acerca de questões relativas à ofensa aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como dos limites da coisa julgada, quando o julgamento da demanda estiver sujeito à prévia análise da correta incidência de regras infraconstitucionais.
+Nesse sentido:
+"Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral." (ARE 748.371 RG, Relator Min. GILMAR MENDES, julgado em 6/6/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31/7/2013 PUBLIC 1º/8/2013.)
+Ademais, a decisão recorrida se firmou na ausência de preenchimento dos pressupostos de admissibilidade necessários à análise do mérito recursal, ante a incidência da Súmula 7/STJ.
+Nesse ponto, o Supremo Tribunal Federal firmou entendimento no sentido de que a matéria referente ao cabimento de recursos da competência de outros tribunais não possui repercussão geral, pois está restrita ao âmbito infraconstitucional, o que não enseja a abertura da via extraordinária (Tema 181/STF).
+A propósito, confira-se a ementa do seguinte julgado:
+"PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608." (RE 598.365/MG, Tribunal Pleno, Rel. Ministro AYRES BRITO, DJe de 26/3/2010.)
+Nessa linha de entendimento, por ausência de repercussão geral sobre a matéria, os fundamentos do aresto atacado não são passíveis de revisão pela Suprema Corte.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
