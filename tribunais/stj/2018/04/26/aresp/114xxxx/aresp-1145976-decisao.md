@@ -1,0 +1,49 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. AÇÃO DE PRESTAÇÃO DE CONTAS. FALTA DE INTERESSE DE AGIR. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+ELIETI FERREIRA REBELATTO (ELIETI) propôs ação contra MAURÍCIO DAL AGNOL (MAURÍCIO), visando à prestação de contas dos valores levantados nos processos discriminados na peça vestibular, nos quais MAURÍCIO atuou como procurador da parte autora.
+O Juízo de primeira instância julgou extinto o feito, sem resolução de mérito, por falta de interesse processual. Em razão da sucumbência, ELIETI foi condenada ao pagamento das custas processuais e honorários advocatícios do patrono da parte adversa, fixados em R$ 600,00 (seiscentos reais), suspensa a exigibilidade em face da assistência judiciária gratuita a ela concedida (e-STJ, fls. 90/102).
+O Tribunal de origem deu provimento ao recurso de apelação de ELIETI, com a seguinte ementa:
+APELAÇÃO CÍVEL. MANDATO. AÇÃO DE PRESTAÇÃO DE CONTAS.
+Nos termos da legislação vigente, todo aquele que na qualidade de mandatário exercer atos de gestão em nome de terceiro, está obrigado a prestar contas de sua administração. Advogado constituído para atuar em demanda judicial em favor do autor. Processo especioso. Duas fases: nesta primeira fase, examina-se, tão somente, a legitimidade do demandado para o polo passivo. Reconhecida a condição de mandatário, imperiosa a procedência para que se processe a segunda fase, quando se possibilitará ao requerido a produção das provas e a prestação de contas na forma prevista em Lei. APELAÇÃO PROVIDA (e-STJ, fl. 127).
+Os embargos de declaração opostos por MAURÍCIO foram rejeitados (e-STJ, fls. 167/171).
+Irresignado, MAURÍCIO interpôs recurso especial (e-STJ, fls. 175/191), com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 17, 330, III, 485, VI, do NCPC, ao sustentar que (1) o acórdão recorrido deixou de aplicar norma atinente ao valor da prova, sendo incontroverso que as contas foram prestadas de forma extrajudicial; (2) restou incontroverso que ELIETI carece de interesse de agir, já que teve prévio conhecimento dos valores sacados em demanda anterior, além de as contas terem sido prestadas de forma extrajudicial; e, (3) divergência jurisprudencial, no que se refere à falta de interesse de agir quando as contas já foram prestadas de forma extrajudicial.
+As contrarrazões ao recurso especial não foram apresentadas (e-STJ, fl. 205).
+O Tribunal de Justiça do Estado do Rio Grande do Sul inadmitiu o apelo nobre diante da incidência da Súmula nº 7 do STJ, tanto para a alínea a quanto para a alínea c (e-STJ, fls. 214/222).
+Nas razões do agravo em recurso especial, MAURÍCIO aduziu que não se aplica, ao caso, a Súmula nº 7 do STJ (e-STJ, fls. 225/233).
+A contraminuta ao agravo em recurso especial não foi apresentada (e-STJ, fl. 235).
+Intimado, MAURÍCIO regularizou sua representação processual (e-STJ, fl. 251)
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não comporta acolhimento.
+(1) e (2) Da falta de interesse de agir na ação de prestação de contas
+O Tribunal local concluiu que MAURÍCIO está legitimado a ser demandado na ação de prestação de contas, na qualidade de mandatário de ELIETI, nos seguintes termos:
+Eminentes Colegas: Registro inicialmente que a sentença foi publicada e o apelo interposto na vigência do Código de Processo Civil de 1973. Assim, vai analisada a demanda sob a égide daquele regramento legal, que confere rito especioso à ação de prestação de contas. Há uma primeira fase, e é esta que está sob exame, em que o Julgador apenas deve se ater à questão se, em razão da relação obrigacional entre as partes, o demandado está obrigado a prestar contas de gestão ao demandante. No caso concreto, incontroverso que o apelado foi constituído Procurador da autora para representá-la em processo que contra a Brasil Telecom, buscando indenização por diferença acionária. Alega a demandante que o réu levantou valores, sem lhe informar a quantia exata que lhe cabia. Assim, na qualidade de mandatário, o requerido está legitimado a ser demandado em ação desta natureza que, nesta primeira fase, apenas se limita ao seu dever em prestar as contas, decorrência do mandato. É na segunda fase que demonstrará, no prazo exíguo de Lei, que as prestou de forma correta, no tempo e modo devidos, como exige a legislação vigente (e-STJ, fls. 128/129 - sem destaque no original)
+Por seu turno, MAURÍCIO, em suas razões recursais, argumentou que inexiste interesse de agir, uma vez que as contas já foram prestadas extrajudicialmente, ou seja, sem impugnar especificamente os fundamentos do acórdão recorrido de que na primeira fase da ação de prestação de contas só é analisada a questão da legitimidade passiva do demandado, no tempo e modo devidos. Incidindo, à espécie, a Súmula nº 283 do STF.
+A propósito, vejam-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, julgado aos 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+AGRAVO INTERNO NO ESPECIAL. RECUPERAÇÃO JUDICIAL. ADIANTAMENTO DE CONTRATO DE CÂMBIO - ACC. NATUREZA EXTRACONCURSAL. ART. 49, §4º, DA LEI Nº 11.101/2005. SÚMULA Nº 83/STJ. TRANSCURSO DO PRAZO DE SUSPENSÃO. PLANO HOMOLOGADO. FUNDAMENTOS. SÚMULA Nº 283/STF. DECISÃO MANTIDA.
+ ..
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal - Súmula nº 283/STF.
+(AgInt no REsp 1.258.939/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado aos 14/3/2017, DJe 20/3/2017 - sem destaque no original)
+(3) Da divergência jurisprudencial
+No que se refere ao dissenso jurisprudencial no tocante à falta de interesse de agir na prestação de contas, este não pode ser conhecido porque não realizado o necessário cotejo analítico a evidenciar a similitude fática entre os julgados trazidos a confronto, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos, não sendo o bastante a mera transcrição de ementas ou de passagens dos arestos indicados como paradigma, por não atender aos requisitos dos arts. 541, caput, do CPC/73 e 255, §§ 1º e 3º, do RISTJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INVERSÃO DO ÔNUS PROBATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. CERCEAMENTO DE DEFESA. SUFICIÊNCIA DE PROVAS ATESTADA PELAS INSTÂNCIAS ORDINÁRIAS. LIVRE CONVENCIMENTO MOTIVADO DO JULGADOR. INFIRMAR TAIS CONCLUSÕES. INVIABILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO DESPROVIDO.
+ ..
+4. A ausência de similitude fática entre o acórdão impugnado e o acórdão paradigma torna inviável o conhecimento do recurso especial pela divergência jurisprudencial.
+(AgInt no AREsp 1.011.318/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 4/5/2017, DJe 18/5/2017 - sem destaques no original)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA CUMULADA COM NULIDADE DE DUPLICATAS E CANCELAMENTO DE PROTESTO.
+PREQUESTIONAMENTO. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+ ..
+4. O conhecimento do recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973.
+(AgInt no AREsp 385.139/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 4/5/2017, DJe 12/5/2017 - sem destaques no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO os honorários fixados anteriormente em desfavor de MAURÍCIO de R$ 600,00 (seiscentos reais) para R$ 700,00 (setecentos reais), nos termos do art. 85, § 11, do NCPC, observado o art. 98, § 3º, do NCPC. Ressalte-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária foi estipulada com base na equidade.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
