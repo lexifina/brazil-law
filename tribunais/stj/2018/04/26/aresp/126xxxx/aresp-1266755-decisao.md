@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NÃO CONFIGURADO.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais. Precedentes.
+2. Agravo conhecido. Recurso especial provido.
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ROSSI RESIDENCIAL S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" permissivo constitucional.
+Agravo em recurso especial interposto em: 06/09/2017.
+Concluso ao gabinete em: 26/03/2018.
+Ação: indenização por danos materiais e compensação por danos morais cumulada com obrigação de fazer e de não fazer ajuizada por ROBSON DE JESUS ARSELI em face de ROSSI RESIDENCIAL SA, em virtude de atraso na averbação do "habite-se" para cumprimento do contrato de financiamento.
+Sentença: julgou parcialmente procedente a ação para condenar a agravante ao pagamento dos valores desembolsados em favor do agente financeiro a título de juros pela mora, e ao pagamento de compensação por danos morais, no valor de R$ 10.000,00 (dez mil reais).
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+COMPRA E VENDA - INADIMPLEMENTO CONTRATUAL - ATRASO NA AVERBAÇÃO DO "HABITE-SE" - ILEGITIMIDADE PASSIVA E INCOMPETÊNCIA DA JUSTIÇA FEDERAL - Preliminares afastadas - A CEF não tem qualquer responsabilidade pelo atraso na entrega da obra e não pode responder pelas consequências do retardamento da construção, de sorte que caberá à apelante restituir ao apelado os valores relativos aos "juros de obra" - CASO FORTUITO - Inocorrência - Aplicação da Súmula 160 deste E. Tribunal - JUROS DE OBRA - Valores que devem ser suportados pela vendedora durante o período de atraso - Compete à construtora requerer a averbação do "habite-se" junto à matrícula do imóvel, nos termos do art. 44 da Lei n. 4.591/64 - DANO MORAL - Patenteado o prejuízo extrapatrimonial sofrido pelo promissário comprador, ante a perturbação psíquica pelo retardamento da obtenção do domínio do imóvel, embora já tivesse a posse - Sentença mantida - RECURSO DESPROVIDO (e-STJ fls. 307).
+Recurso especial: alega dissídio jurisprudencial quanto à interpretação dos arts. 186 e 927 do CC/02. Sustenta, em síntese, que o atraso na entrega da unidade condominial adquirida pelo agravado sobreveio devido ocorrência de caso fortuito comprovado. Aduz que o inadimplemento contratual não configura afronta aos direitos de personalidade. Insurge-se contra a condenação em compensar danos morais.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do dano moral
+O inadimplemento contratual se resolve, em regra, pela obrigação de indenizar os danos patrimoniais daí decorrentes, e, excepcionalmente, pela compensação por danos morais, cujo reconhecimento implica mais do que os dissabores de um negócio frustrado.
+Pode-se acrescentar, ainda, que dissabores, desconfortos e frustrações de expectativa fazem parte da vida moderna, em sociedades cada vez mais complexas e multifacetadas, com renovadas ansiedades e desejos, e por isso não se pode aceitar que qualquer estímulo que afete negativamente a vida ordinária configure dano moral.
+Assim, deve-se identificar no caso concreto uma verdadeira agressão ou atentado à dignidade da pessoa humana, capaz de ensejar sofrimentos e humilhações intensos, descompondo o equilíbrio psicológico do indivíduo por um período de tempo desarrazoado. Em outras palavras, o inadimplemento contratual não configura, necessariamente, dano moral, pois incapaz de agredir diretamente a dignidade humana.
+À vista disso, a compensação por dano moral por atraso em entrega de unidade imobiliária, ou em situações como a hipótese de atraso pela construtora na averbação da conclusão da obra (e-STJ fl. 313/314), só será possível em excepcionais circunstâncias que sejam comprovadas de plano nos autos.
+Não sendo presumido o dano moral na espécie, seria necessária a sua comprovação a fim de gerar o dever de indenizar.
+A fundamentação do acórdão recorrido para deferir a compensação pelo dano moral foi baseada "na perturbação psíquica pelo retardamento para obter o domínio do imóvel, embora já tivesse a posse" (e-STJ fl. 314), mas não foram traçadas qualquer nota adicional que justificasse uma compensação além dos danos materiais.
+Assim, o TJ/SP, ao reconhecer a possibilidade de compensação por danos morais, em razão do simples atraso na entrega de bem imóvel, de forma a não demonstrar consequências fáticas que venham a ultrapassar o mero aborrecimento, divergiu do entendimento STJ, no sentido de que o inadimplemento contratual não causa, por si só, danos morais. Nesse sentido: REsp 1.642.314/SE, 3ª Turma, DJe de 22/03/2017; AgRg no AREsp 316.555/RJ, 4ª Turma, Dje de 24/02/2017.
+Em razão do exposto, afasta-se a obrigação em compensar o dano moral pela ausência de circunstâncias excepcionais que o caracterize na hipótese.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para excluir a condenação em compensar os danos morais.
+Mantém-se a sucumbência definida pelo Tribunal de origem (e-STJ fl. 315).
+Publique-se. Intimem-se.
