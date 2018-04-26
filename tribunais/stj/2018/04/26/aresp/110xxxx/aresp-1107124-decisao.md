@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto pelo MUNICÍPIO DE SÃO PAULO, em 14/08/2015, contra decisão do Tribunal de Justiça de São Paulo, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"APELAÇÃO - EMBARGOS À EXECUÇÃO - EXCESSO DE EXECUÇÃO - DILIGÊNCIA DE OFICIAL DE JUSTIÇA. Havendo recolhimento de diligências de oficial de justiça nos autos para a citação da parte, cabe sua restituição mediante execução de sentença à parte vencedora, independentemente da sua efetiva utilização pela serventia. Recolhimento necessário para o regular trâmite e formação da relação jurídica processual.
+Recurso não provido" (fl. 249e).
+O acórdão em questão foi objeto de Embargos de Declaração, acolhidos, sem efeitos modificativos, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - ERRO MATERIAL - CORREÇÃO QUE NÃO INTERFERE NO JULGAMENTO DO RECURSO.
+Embargos acolhidos, sem efeito modificativo" (fl. 263e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa aos arts. 20, 26 e 269,II, do CPC/73, sob o argumento de que "o v. acórdão de apelação violou os arts. 20, e 269, I, todos do CPC ao fixar que devem ser reembolsados não somente as despesas efetivamente utilizadas devem ser ressarcidas pela outra parte, mas também qualquer despesa adiantada, ainda que não utilizada e passível de restituição pelo ente que a recolheu, no caso o Estado de São Paulo" (fl. 270e). Acrescenta que estaria demonstrado o excesso de execução, tendo em vista a cobrança de diligência para citação do município, com base no art. 730 do CPC, no valor de R$ 15,13 (quinze reais e treze centavos), a qual não teria ocorrido, razão pela qual não deveria ser restituída, apesar de adiantada pelas recorridas.
+As recorridas deixaram de apresentar contrarrazões, ao argumento de que estariam concordando com a redução da execução, ante o valor irrisório em debate nos autos (fls. 275/276e).
+Negado seguimento ao Recurso Especial (fl. 278e), foi interposto o presente Agravo (fls. 281/284e).
+Não foi apresentada contraminuta (fl. 287/288e).
+A irresignação não merece acolhimento.
+O Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "apesar das teses recursais, a parte contrária efetivamente precisou desembolsar tais valores de diligências de oficial de justiça para regular trâmite/formação da relação jurídica processual. O fato de a serventia não ter utilizado tais valores, não exime a municipalidade de reembolsar a parte vencedora do feito" (fls. 250/251e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
