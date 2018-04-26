@@ -1,0 +1,21 @@
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao nobre apelo. Incidência, por analogia, da Súmula 182/STJ.
+2. Inadmitido o recurso especial pelo do óbice contido na Súmula 7/STJ, cabe à parte agravante, diante da indicação de que a questão suscitada implica revolvimento do conjunto probatório, demonstrar a situação particular do caso concreto que justificasse o afastamento do referido óbice sumular.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): A hipótese é de agravo interno interposto contra decisão que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 182/STJ, na medida em que a parte não foi capaz de declinar os motivos pelos quais o óbice contido na Súmula 7/STJ não se aplicaria ao caso concreto.
+Segundo afirma a agravante, seu recurso reunia condições de ser conhecido, porquanto ficou esclarecido que " não se não busca a analise de qualquer matéria probatória, indicando no Parágrafo "17" das razões que a matéria é exclusivamente de direito, já exposta no parágrafo "16" quais são essas matérias elencadas no recurso. Não há qualquer fato a ser analisado, havendo necessidade do revolvimento da matéria exclusivamente de Direito" (fl. 1.070).
+Foram apresentadas impugnações pelo Ministério Público Federal (fls. 1.075/1.078) e pelo Parquet agravado (fls. 1.082/1.086).
+É o relatório.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Em que pesem os argumentos deduzidos no presente recurso, a decisão agravada não merece reparos.
+Conforme destacado na decisão atacada, negado o processamento do recurso especial ante a necessidade de revisão do acervo fático-probatório dos autos para a reforma do acórdão recorrido, é necessário que as razões do agravo tragam não só o pedido de destrancamento do apelo nobre, mas que também infirmem o juízo formulado pela decisão agravada, demonstrando a situação particular que justificasse o afastamento da Súmula 7/STJ.
+Isso porque, uma vez aplicado o óbice contido na referida súmula, deve o recurso indicar especificamente qual ponto da moldura fática delineada na instância ordinária contrasta com a aplicação do direito federal, possibilitando conclusão diversa da adotada pelo acórdão recorrido, sob pena de atrair a incidência da Súmula 182/STJ.
+Em outras palavras, "Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente" (AgInt no AREsp 1.070.028/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017).
+No caso dos autos, a parte agravante limitou-se ao argumento de que "tratando-se exclusivamente de matéria de direito, não há o que falar no presente recurso em apreciação de provas, consoante determinação da Súmula 7 do STJ" (fl. 1.029)
+Como se percebe, tal afirmação não tem o condão de rebater, de modo específico, o fundamento autônomo e suficiente para a manutenção da decisão de admissibilidade do recurso especial, razão pela qual não há como afastar a incidência da Súmula 182/STJ.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
