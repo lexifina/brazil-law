@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa (Presidente), Gurgel de Faria, Napoleão Nunes Maia Filho e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos em face acórdão resumido pela seguinte ementa (fl. 1.323):
+ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NO RECURSO ESPECIAL. PAGAMENTO DE VANTAGEM INDEVIDA A OFICIAIS DE JUSTIÇA. PRESTAÇÃO JURISDICIONAL. ELEMENTO SUBJETIVO. INDIVIDUALIZAÇÃO DAS SANÇÕES. PROPORCIONALIDADE DAS PENAS. EXCLUDENTE DE ILICITUDE.
+1. As instâncias ordinárias foram claras em especificar a existência de todos os elementos necessários à condenação pela prática de ato de improbidade administrativa, inclusive no que diz respeito ao elemento anímico vetor da conduta perpetrada pelos agentes condenados.
+2. A jurisprudência do STJ considera indispensável, para a caracterização de improbidade, que a atuação do agente seja dolosa, para a tipificação das condutas descritas nos artigos 9º e 11 da Lei 8.429/1992, ou pelo menos eivada de culpa grave, nas do artigo 10 (EREsp 479.812/SP, Rel. Ministro Teori Albino Zavascki, Primeira Seção, julgado em 25.8.2010, DJe 27.9.2010), circunstância que restou devidamente comprovada nos autos.
+3. O fato de terem sido cominadas as mesmas penalidades para todos os agravantes não importa ausência de fundamentação da decisão, notadamente porque demonstrado nos autos que todos os acusados concorreram para prática do ato de improbidade administrativa por meio de atitudes que refletiam equivalente gravidade.
+4. Desse modo, considerando que a atividade judicial foi exercida em sua integralidade, deve ser prontamente afastada a alegação de que o acórdão recorrido deixou de oferecer a devida prestação jurisdicional.
+5. A jurisprudência deste Tribunal é uníssona no sentido de que a revisão das penalidades aplicadas em ações de improbidade administrativa implica o reexame do conjunto fático-probatório dos autos, o que esbarra na Súmula 7/STJ, salvo em hipóteses excepcionais, nas quais, da leitura do acórdão recorrido, exsurgir a desproporcionalidade entre o ato praticado e as sanções aplicadas, o que não é o caso vertente.
+6. Não obstante constar do Código de Processo Civil a necessidade de as partes custearem as despesas a que derem causa durante o deslinde processual, ficou consignado nos autos que foram feitos depósitos em valor muito superior àquele relativo às despesas ordinárias com ; realização de diligências por oficiais de justiça. Assim, não há como s acolher a tese de que a conduta perpetrada pelo escritório de advocacia encontrava-se amparada por excludente de antijuridicidade relativa ; previsão legal do pagamento de despesas processuais.
+7. Agravo interno improvido.
+Em suas razões, a parte embargante sustenta, em síntese, que: (I) as decisões condenatórias proferidas nas instâncias ordinárias não individualizaram suficientemente as condutas, especialmente por ocasião da aplicação das penalidades; (II) não houve plena individualização das condutas, porquanto foi atribuída a [NOME] - funcionário do escritório demandado, que apenas cumpria ordens - a prática de conduta de equivalente gravidade àquelas imputadas ao seu empregador (que supostamente se beneficiava da prática) e ao diretor do escritório (a quem se atribui a responsabilidade pela instituição de tabela para gratificação de oficiais de justiça); e (III) o egrégio TJRS não apontou se a condenação se deu pela presença de dolo ou culpa.
+Impugnação às fls. 1.361/1.365.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para corrigir erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no acórdão embargado que "as instâncias ordinárias foram claras em especificar a existência de todos os elementos necessários à condenação pela prática de ato de improbidade administrativa, inclusive no que diz respeito ao elemento anímico vetor da conduta perpetrada pelos agentes condenados" (fl. 1.330).
+Ademais, restou claramente afirmado que, não obstante os diversos níveis de participação nos atos de improbidade, as condutas perpetradas pelos agentes envolvidos denotam equivalente gravidade, motivo pelo qual não há que se falar na ausência de fundamentação da decisão que cominou as mesmas penalidades para todas as partes ora embargantes.
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas obscuridades do decisum embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+Ante o exposto, rejeito os embargos declaratórios.
+É o voto.
