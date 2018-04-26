@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PETIÇÃO INDEFERIDA LIMINARMENTE. PROCESSO EXTINTO SEM RESOLUÇÃO DE MÉRITO.
+DECISÃO
+Trata-se de reclamação ajuizada por [NOME] e outros em face de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, nestes termos sintetizado (e-STJ fl. 477):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA, C/C COBRANÇA - POLICIAIS MILITARES E BOMBEIROS - CONVERSÃO DOS VENCIMENTOS EM URV - SERVIDORES PÚBLICOS - REESTRUTURAÇÃO DA CARREIRA - PRESCRIÇÃO - OCORRÊNCIA - PREQUESTIONAMENTO - RECURSO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que as diferenças remuneratórias decorrentes da conversão dos proventos dos servidores em URV, embora não possam ser compensadas com reajustes posteriores, ficam limitadas no tempo quando houver ocorrido a reestruturação da carreira, com a instituição de novo regime jurídico remuneratório.
+2. Tendo entrado em vigor a Lei Complementar Estadual n. 127 em maio de 2008, resta evidenciada a ocorrência da prescrição, tendo em vista que o apelante ingressou com a presente ação de cobrança somente em dezembro de 2014.
+3. Tendo sido todas as questões levantadas devida e satisfatoriamente apreciadas, resta dispensável qualquer manifestação expressa acerca dos dispositivos legais invocados.
+Na reclamação, os reclamantes afirmam condição de militar estadual. Defendem a impossibilidade de declarar a prescrição do fundo de direito na ação em que pleiteiam diferenças salariais decorrentes da conversão de cruzeiros reais para URV nos termos do art. 3º do Dec.-Lei n. 20.910/1932. Aduzem que a conversão efetivada pelo Estado importou em um diferença salarial de 11,98% por não ter observado o critério do art. 22 da Lei n. 8.880/1994. Suscita que ocorreu a inadmissão do recurso especial manejado contra o acórdão ora reclamado e que o agravo em recurso especial restou infrutífero no âmbito do Superior Tribunal de Justiça.
+Nos termos do artigo 105, inciso I, alínea "f", da Constituição Federal, compete a este Superior Tribunal de Justiça processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões.
+No mesmo sentido, dispõe o artigo 187 do Regimento Interno deste Superior Tribunal de Justiça que, "para preservar a competência do Tribunal ou garantir a autoridade das suas decisões, caberá reclamação da parte interessada ou do Ministério Público."
+Como é cediço, tendo sido proposta a presente ação autônoma de impugnação com o fito de garantir a autoridade de decisão proferida por esta Corte Superior é imprescindível a existência de ato - comissivo, omissivo ou retardatário - realizada por juízo destinatário da decisão que venha a usurpar a competência deste Superior Tribunal de Justiça ou ato - que também implique em ação, omissão ou retardamento - de desobediência a mandamento emanado por esta Corte Superior de Justiça.
+Isso porque do acórdão ora reclamado foi manejado o recurso especial, cujo mérito não foi provido pelo Superior Tribunal de Justiça em sede de agravo em recurso especial, tendo em vista a ausência de necessidade de reforma dos fundamentos e do dispositivo lançado pelo Tribunal de origem.
+Com essas considerações, ressoa claro que a intenção da reclamante é utilizar a presente via com viés recursal, furtando-se de submeter a insurgência às instâncias adequadas que, pela sistemática recursal pátria, teria precedência no exame da matéria.
+A esse respeito, citam-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO CONSTITUCIONAL.AUSÊNCIA DOS REQUISITOS. RECLAMAÇÃO INDEFERIDA. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. A reclamação constitucional, prevista nos arts. 105, I, "f", da CF e 187 do RISTJ, tem a finalidade de fazer cumprir decisão prolatada em caso concreto, bem como de preservar a competência desta Corte Superior, não sendo cabível como sucedâneo recursal. Precedente.
+2. É inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+3. Agravo interno não conhecido.
+(AgInt na Rcl 31.647/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 22/06/2016, DJe 30/06/2016)
+RECLAMAÇÃO CONSTITUCIONAL. AGRAVO REGIMENTAL. ART. 105, I, f, DA CF/88. HIPÓTESES DE CABIMENTO DA RECLAMAÇÃO. PRESERVAÇÃO DA COMPETÊNCIA DO STJ. GARANTIA DA AUTORIDADE DAS DECISÕES DO STJ. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A reclamação constitucional, prevista no art. 105, I, f, da CF/88, destina-se tão somente à preservação da competência do Superior Tribunal de Justiça ou à garantia da autoridade de suas decisões.
+2. "A Reclamação, em razão de sua natureza incidental e excepcional, destina-se a preservação da competência e garantia da autoridade dos julgados somente quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada" (AgRg na Rcl 3.497/RN, Rel. Ministro Napoleão Nunes Maia Filho).
+3. "Incabível a reclamação manejada com o propósito de desconstituir o acórdão proferido pelo Tribunal de origem, passível de recurso próprio" (AgRg na Rcl 22.459/MG, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 25/3/2015, DJe de 6/4/2015).
+4. Agravo regimental desprovido.
+(AgRg na Rcl 6.572/RJ, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 08/06/2016, DJe 29/06/2016)
+Ante o exposto, indefiro liminarmente a petição inicial e, por conseguinte, julgo extinto o processo sem resolução de mérito, com fundamento no artigo 34, XVIII, do RISTJ.
+Publique-se. Intimem-se.
