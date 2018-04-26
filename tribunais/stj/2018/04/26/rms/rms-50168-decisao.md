@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por [NOME], com fundamento no artigo 105, inciso II, alínea "b", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+MANDADO DE SEGURANÇA. NOTÁRIOS E REGISTRADORES. PROCESSO DISCIPLINAR. PROCEDIMENTO DA LEI Nº 10.460/88. PENA APLICADA. ACÓRDÃO DA CORTE ESPECIAL. AUTORIDADE COATORA. MÉRITO DO ATO PUNITIVO. IMPOSSIBILIDADE DE REVISÃO PELO PODER JUDICIÁRIO.
+I - Não se extingue o mandado de segurança por ilegitimidade passiva da Corte Especial do Tribunal de Justiça do Estado de Goiás, porquanto, apesar de a execução do acórdão competir ao seu Presidente, se a decisão foi proferida pelo colegiado, nele se identifica a autoridade coatora para suportar a ação mandamental.
+II - É pacífico o entendimento do Tribunal de Justiça do Estado de Goiás pela aplicação da Lei Estadual nº 10.460/88, Estatuto dos Servidores Públicos Civis do Estado de Goiás, para a apuração de falta funcional praticada por delegatários das funções notariais e de registro, dada a ausência de procedimento específico estabelecido pela Lei nº 8.935/94, não comprometendo de ilegalidade a penalidade imposta em processo administrativo disciplinar em que assegurados a ampla defesa e o contraditório.
+III - Não compete ao Poder Judiciário avaliar a existência da falta funcional, a autoria e a sanção imposta, aplicada em processo administrativo disciplinar, respeitadas as garantias constitucionais do contraditório e defesa plena, vedada a análise do mérito do ato punitivo, reservada a verificação da sua compatibilidade com a lei e a Constituição.
+SEGURANÇA DENEGADA.
+Na origem, trata-se de mandado de segurança contra acórdão da Corte Especial do Tribunal de Justiça do Estado de Goiás, que, em recurso administrativo, confirmou o rito procedimental da Lei nº 10.460/88, para a apuração de infração disciplinar praticada por delegatários das funções notariais e registradores do Estado de Goiás, ratificando a penalidade de repreensão, aplicada pela Juíza de Direito Diretora do Foro da Comarca de Aparecida de Goiânia, verificada a negligência funcional.
+No presente recurso ordinário, o recorrente sustenta que "a decisão denegatória do Órgão Especial do Tribunal de Justiça de Goiás vai de encontro ao entendimento do Supremo Tribunal Federal e do Superior Tribunal de Justiça, segundo o qual os notários e registradores não são servidores públicos e nessa condição não podem se submeter ao regramento dirigido a esses servidores, o que inclui a aposentadoria compulsória e o processo administrativo disciplinar pertinente" (fl. 526).
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+O Ministério Público opina provimento do recurso.
+É o relatório. Decido.
+O processo administrativo disciplinar destina-se a apurar a responsabilidade de titulares dos serviços notariais e registro que tenham descumprido os deveres previstos na legislação vigente, em especial a Lei nº 8.935/94, a qual regulamenta o art. 236 da Constituição Federal.
+O referido diploma legal, em seus arts. 28 a 36, trata dos direitos, deveres, infrações disciplinares e penalidades referentes a esses serventuários, porém não traz normas específicas quanto ao procedimento a ser observado em caso de infração disciplinar. Nesses casos, o entendimento sedimentado é no sentido de que deve ser aplicado subsidiariamente o Estatuto dos Servidores Públicos Civis.
+Nesse sentido, os seguintes precedentes do STJ: RMS 35.208/DF, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 16/02/2012, DJe 27/02/2012; e RMS 22.935/DF, Rel. Ministro Castro Meira, Segunda Turma, julgado em 27/11/2012, DJe 06/12/2012.
+Confira-se:
+ADMINISTRATIVO. OFÍCIO DE REGISTRO. DISTRITO FEDERAL. PENALIDADE. MULTA. LEI 8.935/94. ALEGAÇÃO DE PRESCRIÇÃO. NÃO OCORRÊNCIA. PORTARIA INAUGURAL. AUSÊNCIA DE CAPITULAÇÃO LEGAL INEXISTENTE VIOLAÇÃO DA AMPLA DEFESA. PRECEDENTE. EXISTÊNCIA DA INFRAÇÃO DISCIPLINAR. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Cuida-se de writ impetrado com o fito de declarar a nulidade de processo administrativo que ensejou a aplicação da penalidade de multa, por infração disciplinar, a oficial de registro de imóveis, com base nos arts. 30, XIV e 31, V, ambos da Lei n. 8.935/94.
+2. Ante a ausência de previsão normativa específica na Lei n. 8.934/95, devem ser utilizados dispositivos do regime jurídico aplicável (Precedente: (RMS 23.587/RJ, Rel. Min. Francisco Falcão, Rel. p/ Acórdão Min. Luiz Fux, Primeira Turma, DJe 3.11.2008); no caso do Distrito Federal, os prazos para sindicância e para processo administrativo são aqueles prescritos pela Lei n. 8.112/90.
+(..)
+Recurso ordinário improvido.
+(RMS 35.208/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/02/2012, DJe 27/02/2012)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RI/STJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
