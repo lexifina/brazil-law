@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO, em 06/06/2017, contra decisão do Tribunal Regional de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"COBRANÇA CONTRATO ADMINISTRATIVO PRESTAÇÃO DE SERVIÇOS QUESTIONAMENTO A RESPEITO DA UTILIZAÇÃO DE CARTA DE FIANÇA PRAZO DE VIGÊNCIA SUPERAÇÃO EXCLUSÃO DO GARANTIDOR MANTIDA CONDENAÇÃO DA EMPRESA CABIMENTO PELO RETARDAMENTO ADAPTAÇÃO DOS JUROS DE MORA SENTENÇA MANTIDA NA MAIOR PARTE. SUCUMBÊNCIA MANTIDA ALTERAÇÃO DO JULGADO NÃO ENSEJADORA DE ALTERAÇÃO DE TAL ÔNUS. RECURSO PROVIDO EM PARTE" (fl. 551e).
+Sustenta a parte agravante, nas razões do Recurso Especial, negativa de vigência aos arts. 55, 56, 86 e 87 da Lei 8.666/93.
+Para tanto, alega que:
+"DA VALIDADE DA GARANTIA
+Evidentemente, o v. acórdão de fls. 550/554 resta distante da realidade fática e legal demonstrada nos autos, sendo relevante reiterar que a multa imposta decorre de ATRASO na obrigação contratual, a qual foi assegurada pelo apelado.
+Pois bem, ao contrário do que restou decidido, a garantia prestada pelo recorrido é totalmente possível de execução, devendo responder pela sanção aplicada à Poly Aço do Brasil Construções Ltda., respeitando o valor da multa e o limite da apólice.
+A Lei 8666/93 dispõe nos artigos 55 e 56 sobre a obrigatoriedade da contratação ser assegurada por meio de uma das modalidades de garantia ali previstas, cuja finalidade é de justamente garantir a plena execução do contrato, ou seja, a execução de TODAS as obrigações contratualmente assumidas pelo tomador, no contrato principal.
+Deste modo, notou-se o descumprimento contratual da construtora, uma vez que foi notificada para pagamento da multa contratual, nos limites de sua garantia, mas não o fez, deixando de cumprir com suas obrigações.
+De outro lado, o contrato firmado pela Fundação com a Poly Aço do Brasil Construções Ltda. estabeleceu expressamente a obrigação quanto ao prazo para elaboração dos serviços, obrigação que se não cumprida estaria sujeita à aplicação das penalidades previstas na Cláusula Décima Primeira, dentre as quais está prevista a multa.
+Portanto, no caso é flagrante que a contratada não cumpriu o prazo contratual sendo justa e lícita a aplicação da sanção, a qual se faz plenamente exigível em face do corréu Banco Pottencial, nos termos contratualmente previstos.
+O artigo 87, § 1º da Lei 8.666/93, o qual expressamente garante à autora o direito de descontar da garantia a multa aplicada à contratada, prevê a possibilidade de responsabilização da seguradora:
+(..)
+De tal modo, o fato é que tão logo seja constatada a inadimplência contratual, e finalizada a apuração em sede administrativa (à que está obrigada a FDE a proceder) conclua-se pela imposição de sanção faz-se imediatamente exigível a garantia, eis que sua finalidade é assegurar a total execução do contrato, sendo descabido o entendimento do corréu, de que as penalidades exigidas não estavam estabelecidas em contrato.
+(..)
+Salutar atentar ao fato de que a contratação somente seria considerada liquidada após o cumprimento de todas as obrigações assumidas pela contratada, e se não o fez vindo a sofrer a sanção de que trata a cobrança dos autos, é evidente que o Banco Neon S/A deve responder na condição de garantidor, nos limites da garantia prestada.
+Outrossim, não é demais frisar o disposto no artigo 86, § 2º, da Lei 8.666/93, onde há expressa previsão para descontar da garantia contratual o valor de eventuais sanções administrativas pecuniárias - multa, o que por sua vez, só se faz possível após finda a fase administrativa em que se conclui pela aplicação da sanção:
+(..)
+Sendo correto que, não se conta a responsabilidade do garantidor a partir da propositura da ação e sim da data do cometimento da infração, onde se verifica no próprio caso em comento que, na data do descumprimento do contrato pela Poly Aço do Brasil Construções a garantia estava vigente.
+Conforme apólice de fls. 76, nota-se claramente que a garantia, inicialmente, foi ajustada para perdurar até 01/11/2009. Às fls. 77, mediante Termo Aditivo de prorrogação da Carta de Fiança, avençou-se que a obrigação se estenderia até 29/07/2010.
+Portanto, ao compararmos com a data de cometimento da infração, qual seja, 08/06/2009 (data em que deveria ter sido entrega a obra), com a data de vigência da apólice (29/07/2010), percebe-se claramente que a obrigação era válida, bem como estava em vigor.
+Veja-se que a garantia tem o escopo de assegurar a plena execução do contrato, de tal modo que, ao tempo em que restar configurado inadimplemento contratual (ocorrido na vigência do contrato, e portanto, na vigência da garantia), é cabível a cobrança da garantia para cobrir os prejuízos da FDE, não sendo relevante ou necessário que a garantia ainda esteja em vigor, até porque, não se obriga que o próprio contrato principal esteja vigente para fins de aplicação de sanção administrativa:" (fl. 558/568e).
+Requer, ao final, o provimento do recurso.
+Foram apresentadas as contrarrazões (fls. 570/580e), negado seguimento ao Recurso Especial (fls. 583e), foi interposto o presente Agravo (fls. 586/593e).
+Foi apresentada a contraminuta (fls. 596/601e).
+A insurgência não merece amparo.
+Em relação ao cerne da controvérsia, eis os termos do acórdão recorrido:
+"Efetivamente, não denota comportar responsabilização do mencionado Banco corréu, neste caso.
+É sabido que o expedidor da Carta de Fiança tem responsabilidade pela garantia oferecida, mas não correspondendo o prazo de validade da garantia com a mesma época do descumprimento da previsão contratual, não viabiliza a garantia que havia sido contratada, aspecto este que não denota superado pelos termos asseverados pelas razões recursais" (fl. 550/554e).
+Nesse contexto, a alteração das conclusões adotadas no acórdão recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, o reexame do contrato celebrado entre as partes e das provas carreadas nos autos, procedimento vedado, pelas Súmulas 5 e 7 desta Corte.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios anteriormente fixados em R$ 5.000,00 (cinco mil reais) para R$ 6.500,00 (seis mil e quinhentos reais), levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
