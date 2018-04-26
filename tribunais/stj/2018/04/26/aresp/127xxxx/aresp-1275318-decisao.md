@@ -1,0 +1,58 @@
+EMENTA
+CIVIL. CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. INDENIZAÇÃO. ATRASO NA ENTREGA DA OBRA. AUSÊNCIA DE APONTAMENTO DO DISPOSITIVO TIDO POR VIOLADO. SÚMULA Nº 284 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+JORGE SALIM CAIED (JORGE) ajuizou contra EMPREENDIMENTOS IMOBILIÁRIOS (TAO EMPREENDIMENTOS), ação de indenização por danos materiais, alegando, em síntese, que houve atraso na entrega do imóvel que adquiriu e que no contrato foi estipulada cláusula contratual de pagamento de multa de 0,5% ao mês sobre o valor valor do imóvel até a data da conclusão da obra. Desta forma, requereu a condenação ao pagamento da referida multa (e-STJ, fls.2/7).
+A demanda foi julgada procedente nos termos da inicial. Condenou-se, ainda, a requerida ao pagamento das custas processuais e em honorários advocatícios, estes fixados em 10% sobre o valor da condenação (e-STJ, fls.219/222).
+TAO EMPREENDIMENTOS opôs embargos de declaração e foram rejeitados (e-STJ, fls.224/230 e 242).
+TAO EMPREENDIMENTOS interpôs apelação e o Tribunal de origem negou-lhe provimento, em acórdão assim ementado:
+PROCESSUAL CIVIL E CONSUMIDOR. PROMESSA DECOMPRA E VENDA DE IMÓVEL. PRELIMINARES. INTEMPESTIVIDADE DA APELAÇÃO. IRREGULARIDADE NA REPRESENTAÇÃO PROCESSUAL. REJEIÇÃO. AGRAVO RETIDO. DENUNCIAÇÃO DA LIDE. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. NÃO PROVIMENTO. MÉRITO. ATRASO NA ENTREGA DA UNIDADE IMOBILIÁRIA. [NOME]. EMBARGO DAS CONSTRUÇÕES. EVENTO IMPREVISÍVEL. MOTIVO DE FORÇA MAIOR. MORA NÃO CARACTERIZADA. DATA DA ENTREGA DO IMÓVEL. AVERBAÇÃO DO HABITE- SE.
+1. No caso em que há carga do processo antes da publicação da decisão, o termo inicial para a contagem do prazo recursal ocorre no primeiro dia útil seguinte à data em que foi realizada a carga do processo.
+2. Há presunção relativa de veracidade da cópia de procüração particular que outorga poderes ao advogado subscritor da apelação.
+3. Por se tratar de relação jurídica sujeita às normas do Direito do Consumidor, não é cabível denunciação da lide, nos termos do art. 88, do CDC. A sistemática do CDC privilegia a proteção da parte hipossuficiente na relação de consumo e, por isso, o consumidor tem a faculdade de acionar apenas um dos responsáveis pelo dano, permitindo a celeridade e economia processual.
+4. O contrato de promessa de compra e venda de unidade imobiliária na planta é regido pelo Código de Defesa do Consumidor, uma vez que o comprador é consumidor, porque adquiriu a unidade imobiliária como destinatário final do produto, e, a construtora, fornecedora, a teor do que dispõem os arts. 2o e 3o, do CDC.
+5. Em 02/05/2012, o instituto ICMBIO (Instituto Chico Mendes de Conservação da Biodiversidade) embargou as construções que estavam sendo realizadas no Setor [NOME] até 28/06/2012, sendo considerada situação imprevisível pela parte ré. Neste referido período, bem como de 01/02/2013 a 06/02/2013 - período compreendido entre o término do prazo para a entrega (31/01/2013) e a expedição do habite-se após liberada a Licença de Operação - ocorreu motivo de força maior. Assim, devem ser acrescidos à data final para a entrega do imóvel os sessenta e quatro (64) dias referentes à suspensão, o que prorroga o prazo de entrega da unidade para 06/04/2013.
+6. A obra deve ser considerada entregue na data da averbação do habite-se no registro imobiliário. Com isso, uma vez averbado o habite-se em 26/03/2013, antes, portanto, do término do prazo de entrega da unidade, prorrogado para 06/04/2013 em razão de motivo de força maior, não há que se falar em atraso na entrega da obra e, consequentemente, no pagamento de multa/lucros cessantes dele decorrente.
+7. Agravo retido não provido. Apelo provido (e-STJ,fl.343).
+Os embargos de declaração opostos por JORGE e TAO EMPREENDIMENTOS não foram acolhidos (e-STJ, fls. 362/367, 378/383 e 396/406).
+Inconformada, a TAO EMPREENDIMENTOS interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, alegando, em síntese, a ocorrência de caso fortuito ou de força maior aptos a romper com o nexo de causalidade e afastar a sua responsabilidade civil. Invocou dissídio jurisprudencial quanto ao ponto com ementas de julgados do STJ para ilustrar a divergência. ( e-STJ, fls. 409/419).
+Em juízo de admissibilidade, a vice-presidência do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial (e-STJ, fls.442/444).
+Contraminuta apresentada (e-STJ, fls.461/468).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Do atraso na entrega da obra
+Verifica-se que a recorrente não aponta especificamente os dispositivos que entendeu ter havido a violação e as razões que fundamentariam a controvérsia trazida a esta Corte para ser analisada.
+Dessa forma, é de se aplicar a Súmula nº 284 do STF, por analogia.
+Nesse sentido:
+EMPRESARIAL, CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. ADIANTAMENTO SOBRE CONTRATOS DE CÂMBIO (ACC"S). EMPRESA EXECUTADA EM RECUPERAÇÃO JUDICIAL. PEDIDO DE RECONHECIMENTO DE FRAUDE À EXECUÇÃO INDEFERIDO. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC/73. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE IMPUGNAÇÃO A ARGUMENTO ESPECÍFICO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 283 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCOMPREENSÃO DA CONTROVÉRSIA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. MÁ-FÉ. CONFIGURAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73.
+(..)
+3. O tema referente aos arts. 467, 468 e 471, todos do CPC/73, não foi objeto de debate no venerando acórdão recorrido, carecendo, por conseguinte, do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais. Aplicável, assim, a Súmula nº 211 do STJ. Além do mais, não foram apresentados argumentos claros e concatenados que pudessem esclarecer os fundamentos ou motivos pelos quais entende-se violado os referidos dispositivos, o que impede compreender a exata medida da controvérsia, ensejando a aplicação da Súmula nº 284 do STF, por analogia.
+(REsp 1.440.783/SP, de minha relatoria, Terceira Turma, j. 14/6/2016, DJe 21/6/2016)
+ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. FRAUDE EM PROCESSO LICITATÓRIO. RAZÕES DO RECURSO ESPECIAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO STF. DIVERGÊNCIA NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO.
+(..)
+IV - A fundamentação do recurso especial é, pois, deficiente ao ponto de não permitir a perfeita apreensão de seu objeto, ensejando, por isso, a aplicação por analogia do entendimento cristalizado no enunciado n. 284 da Súmula do Supremo Tribunal Federal, segundo o qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+(AgInt no REsp 1.551.586/SP, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, j.17/8/2017, DJe 28/8/2017, sem destaque no original)
+(2) Dissídio pretoriano
+A viabilidade do recurso especial pela alínea c do art. 105, III, da Constituição Federal pressupõe, além da transcrição dos acórdãos aptos à comprovação da alegada divergência, se proceda ao cotejo analítico entre o aresto recorrido e o trazido como paradigma, com a demonstração da identidade fática entre eles e da interpretação divergente dada ao mesmo dispositivo legal.
+No caso em tela TAO EMPREENDIMENTOS não apontou o dispositivo tido por violado, fazendo incidir a Súmula nº 284 do STF.
+Vejam-se os precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALTA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. REEXAME DE PROVAS. SUCUMBÊNCIA. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVADO. DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA DE INDICAÇÃO.
+INCIDÊNCIA DA SÚMULA Nº 284/STF.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. Se o tribunal de origem não emite juízo de valor em torno dos dispositivos apontados como violados no recurso especial, não há como analisar suposta afronta em virtude da falta de prequestionamento. Súmulas nº 211/STJ e 282/STF.
+2. É inviável a esta Corte a análise da suficiência das provas e da satisfação do ônus probatório das partes, pois esta providência esbarra no óbice do enunciado da Súmula nº 7/STJ.
+3. O Superior Tribunal de Justiça tem jurisprudência firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ.
+4. A divergência jurisprudencial, nos termos do art. 541, parágrafo único, do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+5. Se nas razões de recurso especial não há sequer a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da eventual ofensa à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal.
+6. Agravo regimental não provido.
+(AgRg no REsp 1329545/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 23/10/2015, sem destaque no original)
+PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA "C". AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF.
+1. "É imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c." (AgRg nos EREsp 382.756/SC, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 18/11/2009, DJe 17/12/2009.).
+2. A apresentação tardia da indicação do dispositivo de lei que entende violado, quando não apontado no recurso especial, representa inovação vedada no âmbito do agravo regimental.
+Agravo interno improvido.
+(AgInt no AREsp 864.540/SP, Rel. Ministro HUMBERTO MARTINS, Segunda Turma, DJe 15/04/2016, sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% valor dos honorários advocatícios anteriormente fixados em desfavor de TAO EMPREENDIMENTOS, nos termos do art. 85, § 11 do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
