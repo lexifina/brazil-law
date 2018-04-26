@@ -1,0 +1,18 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara Plantão da Comarca de João Neiva/ES, no processo nº 0000202-33.2018.8.08.0006, deixou de converter em preventiva a prisão em flagrante do paciente, ocorrida no dia 14 de janeiro de 2018, ante a suposta prática da infração disposta no artigo 180, cabeça (receptação), do Código Penal, afirmando não atendidos os requisitos ensejadores. Homologou o auto de prisão em flagrante e a fiança arbitrada pela autoridade policial.
+    O Juízo da Segunda Vara Criminal da Comarca de Aracruzes/ES, no processo nº 0000202-33.2018.8.08.0006, acolhendo representação da autoridade policial, uma vez encerradas as investigações e havendo indícios do cometimento do delito previsto no artigo 157, § 2º, incisos I e II (roubo com causas de aumento de pena alusivas ao emprego de arma e ao concurso de pessoas), com redação anterior à Lei nº 13.654/2018, do Código Penal, determinou a preventiva do paciente, efetivada em 9 de fevereiro de 2018. Frisou indispensável a custódia para garantir a ordem pública, destacando ter sido reconhecido pela vítima como um dos autores do roubo. Apontou que o paciente foi conduzido em outra oportunidade à Delegacia em virtude da alega prática da infração definida no artigo 14 (porte ilegal de arma de fogo de uso permitido) da Lei nº 10.826/2003.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 441.334/ES, o qual foi indeferido liminarmente pelo Relator.
+    O impetrante diz ser o caso de superação do verbete nº 691 da Súmula do Supremo. Sustenta a inidoneidade da fundamentação do ato que implicou a preventiva, tendo-o como lastreado em elementos abstratos. Assevera inobservados os requisitos versados no artigo 312 do Código de Processo Penal. Afirma não responder a outro processo-crime. Aduz a viabilidade de medida cautelar diversa, destacando o caráter excepcional da cautelar.
+    Requer, no campo precário e efêmero, a revogação da preventiva e, sucessivamente, a imposição de medida cautelar descrita no artigo 319 do Código de Processo Penal. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, realizada em 14 de abril de 2018, revelou que o processo-crime encontra-se na fase de instrução, com audiência designada para o dia 14 de maio de 2018.
+    A etapa é de análise da medida acauteladora.
+    2. As premissas da constrição cautelar não resistem a exame, presente o arcabouço normativo. O Juízo, ao determinar a prisão preventiva, aludiu ao fato de que o paciente foi reconhecido, pela vítima, na delegacia. Ressaltou ter sido conduzido à delegacia em razão da conduta de porte ilegal de arma de fogo de uso permitido, sem apontar o trânsito em julgado de condenação anterior, a sinalizar a periculosidade. A preventiva deve basear-se no artigo 312 do Código de Processo Penal. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso do ato formalizado pelo Juízo da Segunda Vara Criminal da Comarca de Aracruz/ES, no processo nº 0000202-33.2018.8.08.0006. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência, e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 26 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
