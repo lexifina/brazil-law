@@ -1,0 +1,70 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. OMISSÃO INEXISTENTE. INCONFORMISMO COM A TESE ADOTADA. DETURPAÇÃO DA FUNÇÃO RECURSAL DOS DECLARATÓRIOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material, o que não ocorre na espécie.
+2. Ao contrário do que suscita o embargante, o acórdão objurgado é expressamente claro ao consignar que o STF, ao julgar o Tema 20/STF, firmou entendimento no sentido de reconhecer que a definição de "folha de salário" para fins de incidência de contribuição previdenciária patronal abarca amplo conceito referente a todas as verbas recebidas pelo empregado, de modo que aferir a hipótese de incidência, a qual decorre da natureza da verba, é matéria infraconstitucional que carece de repercussão geral.
+3. Com efeito, pretende a parte embargante a análise do acerto ou desacerto da decisão de admissibilidade do recurso extraordinário, sendo que, no presente caso, a questão foi decidida de maneira fundamentada e completa, mas não conforme objetivava o recorrente, uma vez que foi aplicado entendimento diverso.
+4. Contudo, entendimento contrário ao interesse da parte não se confunde com omissão, sendo inservível a oposição dos declaratórios para o fim único de reexame da matéria já decidida.
+Embargos de declaração rejeitados.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Felix Fischer, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de embargos de declaração opostos pelo MUNICÍPIO DE SERRA DE SÃO BENTO contra acórdão proferido pela Corte Especial, que negou provimento ao agravo interno interposto pela parte embargante nos termos da seguinte ementa (fl. 755, e-STJ):
+"AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. FÉRIAS GOZADAS. TEMA 20/STF. DISCUSSÃO SOBRE A NATUREZA JURÍDICA DA VERBA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. Discute-se nos autos a incidência de contribuição previdenciária a cargo do empregador sobre férias gozadas.
+2. O Supremo Tribunal Federal, no julgamento do RE 565.160/SC, Rel. Marco Aurélio, sob a sistemática da repercussão geral, firmou a seguinte tese: "A contribuição social a cargo do empregador incide sobre ganhos habituais do empregado, quer anteriores ou posteriores à Emenda Constitucional nº 20/1998."
+3. No caso dos autos, o acórdão recorrido está em conformidade com a orientação firmada pelo Supremo Tribunal Federal, sob o rito da repercussão geral, por ocasião do julgamento do RE 565.160/SC (Tema 20/STF).
+4. A discussão acerca da natureza jurídica das verbas, se remuneratória ou indenizatória, não possui repercussão geral, por ser de índole infraconstitucional.
+Agravo interno improvido."
+Aduz o embargante que "a decisão aqui recorrida é omissa quanto ao aspecto nuclear articulado nestes autos, partindo da premissa que as razões expostas no agravo interno desenvolviam pedido afeto ao que restou decidido pelo Supremo Tribunal Federal, nos autos do RE 565.160/SC, que trouxe a interpretação constitucional dos arts. 195, inciso I e art. 201, §11, da Constituição Federal" (fl. 774, e-STJ).
+Alega, ainda, que "em nenhum momento foi promovida a análise jurídica da natureza habitual ou não da parcela das verbas das férias usufruídas para fins incidência da contribuição previdenciária perante este C. STJ" (fl. 776, e-STJ).
+Decurso de prazo para a impugnação aos embargos (fl. 781, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. OMISSÃO INEXISTENTE. INCONFORMISMO COM A TESE ADOTADA. DETURPAÇÃO DA FUNÇÃO RECURSAL DOS DECLARATÓRIOS.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material, o que não ocorre na espécie.
+2. Ao contrário do que suscita o embargante, o acórdão objurgado é expressamente claro ao consignar que o STF, ao julgar o Tema 20/STF, firmou entendimento no sentido de reconhecer que a definição de "folha de salário" para fins de incidência de contribuição previdenciária patronal abarca amplo conceito referente a todas as verbas recebidas pelo empregado, de modo que aferir a hipótese de incidência, a qual decorre da natureza da verba, é matéria infraconstitucional que carece de repercussão geral.
+3. Com efeito, pretende a parte embargante a análise do acerto ou desacerto da decisão de admissibilidade do recurso extraordinário, sendo que, no presente caso, a questão foi decidida de maneira fundamentada e completa, mas não conforme objetivava o recorrente, uma vez que foi aplicado entendimento diverso.
+4. Contudo, entendimento contrário ao interesse da parte não se confunde com omissão, sendo inservível a oposição dos declaratórios para o fim único de reexame da matéria já decidida.
+Embargos de declaração rejeitados.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Não merecem prosperar as alegações do embargante.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material, o que não ocorre na espécie.
+Ao contrário do que suscita o embargante, o acórdão objurgado é expressamente claro ao consignar que o STF, ao julgar o Tema 20/STF, firmou entendimento no sentido de reconhecer que a definição de "folha de salário" para fins de incidência de contribuição previdenciária patronal abarca amplo conceito referente a todas as verbas recebidas pelo empregado, de modo que aferir a hipótese de incidência, a qual decorre da natureza da verba, é matéria infraconstitucional que carece de repercussão geral.
+Para melhor ilustração, transcrevo excerto do acórdão embargado (fls. 760-765, e-STJ):
+"Discute-se nos autos a incidência de contribuição previdenciária a cargo do empregador sobre férias gozadas.
+Quanto ao tema, o Supremo Tribunal Federal, no julgamento do RE 565.160/SC, Rel. Marco Aurélio, sob a sistemática da repercussão geral, firmou a seguinte tese:
+"A contribuição social a cargo do empregador incide sobre ganhos habituais do empregado, quer anteriores ou posteriores à Emenda Constitucional nº 20/1998."
+(..)
+No caso dos autos, o acórdão recorrido está em conformidade com a orientação firmada pelo Supremo Tribunal Federal.
+Quanto à natureza jurídica das verbas, in casu, as férias gozadas, extrai-se dos votos emanados no referido paradigma o entendimento de que esta discussão, se remuneratória ou indenizatória, não possui repercussão geral, por ser de índole infraconstitucional.
+A propósito, manifestação do Min. Edson Fachin:
+"(..)
+No tocante segunda distinção proposta entre parcelas de natureza remuneratória e indenizatória, entende-se que essa matéria não desafia a via do apelo extremo, pois inexiste um conceito constitucionalizado de renda ou indenização.
+A esse respeito, veja-se que o Poder Constituinte remeteu ao âmbito legal a definição dos casos em que os ganhos habituais do empregado são incorporados ao salário para fins de contribuição previdenciária, consoante o disposto no art. 201, §11, da Constituição da República.
+Nesse sentido, o Supremo Tribunal Federal tem se manifestado iterativamente pela infraconstitucionalidade de controvérsias relativas à definição da natureza jurídica de verba para fins de tributação, seja por contribuição previdenciária, seja por imposto de renda.
+Confiram-se os seguintes paradigmas de Temas de repercussão geral:
+"PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO COM AGRAVO. AVISO PRÉVIO INDENIZADO. INCIDÊNCIA DE CONTRIBUIÇÃO PREVIDENCIÁRIA. NATUREZA JURÍDICA DA VERBA. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. 1. A controvérsia relativa à incidência de contribuição previdenciária sobre as verbas pagas a título de aviso prévio indenizado, fundada na interpretação da Lei 8.212/91 e do Decreto 6.727/09, é de natureza infraconstitucional. 2. É cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009). 3. Ausência de repercussão geral da questão suscitada, nos termos do art. 543-A do CPC." (ARE 745901 RG, Rel. Min. TEORI ZAVASCKI, DJe 18.09.2014)
+"RECURSO. Extraordinário. Incognoscibilidade. Rescisão de contrato de trabalho. Verbas rescisórias. Natureza jurídica. Definição para fins de incidência de Imposto de Renda. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a definição da natureza jurídica de verbas rescisórias (salarial ou indenizatória), para fins de incidência de Imposto de Renda, versa sobre matéria infraconstitucional." (AI 705941 RG, Rel. Min. CEZAR PELUSO, DJe 23.04.2010) (..)"
+No mesmo sentido, o Min. Luiz Fux:
+"Destaque-se, por fim, que descabe a esta Corte definir a natureza indenizatória ou remuneratória de cada parcela, eis que tal discussão não possui status constitucional, conforme amplamente vem sendo reconhecido pela jurisprudência.
+Compete tão somente a este colegiado a interpretação dos dispositivos constitucionais em relação ao tema, de modo que deles só é possível extrair a necessidade de pagamento com habitualidade e em decorrência da atividade laboral, para fins de delimitação da base de cálculo da contribuição previdenciária do empregador e consequente interpretação do conceito de "folha de salários"."
+O Min. Luís Roberto Barroso:
+"21. Dessa forma, não se busca aqui definir, individualmente, a natureza das verbas ou, mais importante se foram pagas com habitualidade ou eventualidade, e quais delas estão habilitadas ou não para compor a base de cálculo da contribuição. Isso, na esteira da jurisprudência desta Corte, é matéria de índole infraconstitucional."
+(..)
+Portanto, por ausência de repercussão geral sobre a matéria, os fundamentos do aresto atacado não são passíveis de revisão pela Suprema Corte."
+Como se vê, o acórdão embargado foi claro ao consignar que:
+"Quanto à natureza jurídica das verbas, in casu, as férias gozadas, extrai-se dos votos emanados no referido paradigma o entendimento de que esta discussão, se remuneratória ou indenizatória, não possui repercussão geral, por ser de índole infraconstitucional" (fl. 761, e-STJ).
+Com efeito, pretende a parte embargante a análise do acerto ou desacerto da decisão de admissibilidade do recurso extraordinário, sendo que, no presente caso, a questão foi decidida de maneira fundamentada e completa, mas não conforme objetivava a recorrente, uma vez que foi aplicado entendimento diverso.
+Contudo, entendimento contrário ao interesse da parte não se confunde com omissão, sendo inservível a oposição dos declaratórios para o fim único de reexame da matéria já decidida.
+A propósito:
+"3. O acórdão foi preciso e suficientemente claro no desenvolvimento de seus fundamentos. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC/2015, pois não há que se confundir entre decisão contrária aos interesses da parte e negativa de prestação jurisdicional." (AgInt no REsp 1.701.691/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/2/2018, DJe 2/3/2018.)
+"6. Ressalte-se que a mera insatisfação com o conteúdo da decisão não enseja Embargos de Declaração. Esse não é o objetivo dos Aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC/2015." (EDcl nos EDcl nos EDcl no AgRg no REsp 1.265.074/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/11/2017, DJe 19/12/2017.)
+Ante o exposto, rejeito os embargos de declaração.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
