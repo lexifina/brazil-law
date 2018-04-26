@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, II, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local (Leis Municipais nº 2.134/1999, 2.135/1999 e 2.822/2007) apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Magistério municipal. Pagamento de biênios. Prequestionamento. Ausência. Legislação local. Ofensa reflexa. Precedentes. 1. É inadmissível o recurso extraordinário se os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Não se presta o recurso extraordinário para o exame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 3. Agravo regimental não provido.” (ARE 909270 AgR, Relator(a):  Min. DIAS TOFFOLI, Segunda Turma, julgado em 15/12/2015, PROCESSO ELETRÔNICO DJe-042 DIVULG 04-03-2016 PUBLIC 07-03-2016)
+    “Agravo regimental no recurso extraordinário com agravo. Magistério municipal. Progressão funcional. Legislação local. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. O recurso extraordinário não se presta para o exame de matéria ínsita ao plano normativo local, tampouco ao reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 2. Agravo regimental não provido.” (ARE 917839 AgR, Relator(a):  Min. DIAS TOFFOLI, Segunda Turma, julgado em 24/11/2015, PROCESSO ELETRÔNICO DJe-018 DIVULG 29-01-2016 PUBLIC 01-02-2016)
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. MAGISTÉRIO. PROGRESSÃO NA CARREIRA. AFASTAMENTO LIMITADO AO EXERCÍCIO DE CARGO DE PRESIDENTE DE ENTIDADE SINDICAL. LEI MUNICIPAL 6.761/85. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.” (RE 610287 AgR, Relator(a):  Min. TEORI ZAVASCKI, Segunda Turma, julgado em 04/08/2015, ACÓRDÃO ELETRÔNICO DJe-175 DIVULG 04-09-2015 PUBLIC 08-09-2015)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de abril de 2018.
+Ministra Rosa Weber
+Relatora
