@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Estado de São Paulo contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – Base de cálculo do imposto sobre transmissão ‘causa mortis’ e doação (ITCMD) – Quotas de sociedade limitada – Valor patrimonial – Legislação que não especifica se deve ser utilizado o valor patrimonial contábil ou o valor patrimonial real da quota – Ausência de previsão legal que determine que o valor patrimonial da quota a ser utilizado como base de cálculo do ITCMD seja o valor patrimonial real, de forma que deve ser aceito o valor patrimonial contábil utilizado pelos impetrantes – Ausência de vedação legal à utilização do valor patrimonial contábil da quota no cálculo do ITCMD – Multa aplicada em razão da oposição de embargos de declaração que deve ser afastada – Recurso dos impetrantes provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido diversos preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Código Tributário Nacional), o que torna incognoscível o apelo extremo.
+    Cabe enfatizar, ainda, que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei estadual nº 10.705/2000), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em legislação infraconstitucional e em interpretação de direito local:
+    “A questão posta nestes autos cinge-se à fixação da base de cálculo do imposto de transmissão ‘causa mortis’ e doações (ITCMD). O artigo 38 do Código Tributário Nacional determina o quanto segue:
+    A base de cálculo do imposto é o valor venal dos bens ou direitos transmitidos.
+    O legislador estadual deve observar as normas do Código Tributário Nacional, sendo a ele defeso aumentar a base de cálculo ou a alíquota de tributo de sua competência em desrespeito a regras superiores.
+    A lei que rege o imposto de transmissão ‘causa mortis’ e doações no Estado de São Paulo é a Lei Estadual nº 10.705/00, com alterações da Lei nº 10.992/2001, que determina o quanto segue:
+    …...................................................................................................
+    Tem-se, portanto, que a base de cálculo do ITCMD é o valor venal do bem transmitido e que pode ser admitido o valor patrimonial das quotas do capital social, quando elas não forem objeto de negociação ou não tiverem sido negociadas nos últimos 180 dias.
+    É evidente que, no caso dos autos, a base de cálculo do ITCMD é o valor patrimonial das quotas.”
+    Convém assinalar, finalmente, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 1.101.018/SP, Rel. Min. ALEXANDRE DE MORAES – ARE 1.103.169/SP, Rel. Min. RICARDO LEWANDOWSKI – ARE 1.125.384/SP, Rel. Min. GILMAR MENDES, v.g.).
+    Vê-se, portanto, que a pretensão deduzida pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC, ante a inadmissibilidade de condenação em verba honorária, por tratar-se de processo de mandado de segurança (Súmula 512/STF e Lei nº 12.016/2009, art. 25).
+    Publique-se.
+    Brasília, 26 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
