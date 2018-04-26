@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por [NOME] contra decisão que deu provimento ao recurso especial interposto por BANCO ABN AMRO REAL S.A. para reconhecer a validade do contrato de arrendamento mercantil.
+Em suas razões, o embargante sustenta a existência de omissão no julgado pois "a controvérsia da Embargante se limitava unicamente e principalmente na questão relativamente necessidade da manutenção da PÉGASUS VEÍCULO LTDA no polo passivo do feito ante o acolhimento do pedido de rescisão contratual, não havendo qualquer insurgência em relação ao julgado que determinou a rescisão do contrato" (fl. 1316).
+Devidamente intimada, o embargada não se manifestou.
+É o relatório.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Quanto à legitimidade passiva, a decisão embargada assim se manifestou:
+"O eg. Tribunal a quo entendeu que a recorrente tem legitimidade passiva para a demanda, a qual visa desconstituir relação contratual de compra de automóvel realizada pela recorrida mediante financiamento obtido junto à recorrente, porquanto "a responsabilidade por eventuais vícios existentes sobre o veículo é do proprietário, qual seja, do Banco ABN AMRO Arrendamento Mercantil S.A., não havendo que se falar em responsabilidade da vendedora" (fl. 969) Ao assim decidir, o acórdão recorrido divergiu da jurisprudência desta Corte Superior que entende inexistir relação de acessoriedade entre o contrato de compra e venda de bem de consumo e o de financiamento bancário destinado a viabilizar a aquisição, não havendo se falar, portanto, em responsabilidade do recorrente." (fl. 1308)
+Desta forma, ausente a alegada omissão, verifica-se que os presentes embargos declaratórios revelam o nítido propósito da parte embargante em rediscutir tema que foi devidamente apreciado, o que é defeso através da via processual eleita.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
