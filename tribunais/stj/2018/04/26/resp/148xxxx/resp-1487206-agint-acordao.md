@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. JULGAMENTO IMEDIATO. POSSIBILIDADE. DESNECESSIDADE DE AGUARDAR O TRÂNSITO EM JULGADO DO PARADIGMA. PREVIDENCIÁRIO. CONVERSÃO DO TEMPO COMUM PARA ESPECIAL. TRABALHO PRESTADO EM PERÍODO ANTERIOR À LEI 9.032/1995. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal proferiu entendimento no sentido de que a existência de precedente firmado pelo Plenário daquela Corte autoriza o imediato julgamento dos processos com o mesmo objeto, independentemente do trânsito em julgado do paradigma.
+2. A discussão foi sobre a possibilidade de conversão do tempo de serviço comum para especial, mediante a aplicação do fator 0,71 de conversão, nas hipóteses em que o trabalho foi prestado em período anterior à Lei n. 9.032/1995, para fins de concessão de aposentadoria especial com data de início posterior a essa legislação. Inexistência de repercussão geral - Tema 943/STF.
+Agravo interno improvido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Felix Fischer, Francisco Falcão, Nancy Andrighi e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Napoleão Nunes Maia Filho e Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Cuida-se de agravo interno interposto por VOLNEI MARCELINO DE ALMEIDA contra decisão que apreciou recurso extraordinário interposto contra acórdão assim ementado (fl. 429, e-STJ):
+"PREVIDENCIÁRIO. AGRAVOS REGIMENTAIS. CONVERSÃO DE TEMPO DE SERVIÇO COMUM EM ESPECIAL. INCIDÊNCIA DA LEGISLAÇÃO VIGENTE QUANDO PREENCHIDOS OS REQUISITOS DO BENEFÍCIO PRETENDIDO. PREJUDICADA A ANÁLISE DO REGIMENTAL DE FLS. 390/401.
+1. No julgamento do REsp 1.310.034/PR, Rel. Ministro HERMAN BENJAMIN, processado nos termos do arts. 543-C do CPC, ficaram estabelecidos os seguintes parâmetros "a) a configuração do tempo especial é de acordo com a lei vigente no momento do labor, e b) a lei em vigor quando preenchidas as exigências da aposentadoria é a que define o fator de conversão entre as espécies de tempo de serviço".
+2. Segundo as premissas estabelecidas, para que o segurado faça jus à conversão de tempo de serviço comum em especial, é necessário que ele tenha reunido os requisitos para o benefício pretendido antes da Lei n. 9.032/95, de 28/4/95, independentemente do momento em que foi prestado o serviço.
+3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação a dispositivo constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Afastada a possibilidade de conversão de tempo comum em especial no caso concreto, resta prejudicado o julgamento do regimental que pugna alteração do termo inicial do benefício.
+5. Agravo regimental de fls. 402/421 a que se nega provimento, julgado prejudicado o recurso de fls. 390/401."
+A decisão agravada negou seguimento ao recurso extraordinário, nos termos do art. 1.030, inciso I, alínea "a", do Código de Processo Civil, conforme ementa a seguir transcrita (fl. 495, e-STJ):
+"RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. CONVERSÃO DO TEMPO COMUM PARA ESPECIAL. TRABALHO PRESTADO EM PERÍODO ANTERIOR À LEI N. 9.032/1995. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 943/STF. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO."
+Alega a parte agravante que o RE 1.029.723/DF ainda não transitou em julgado e que está pendente a análise de embargos de declaração. Requer, portanto, o sobrestamento do presente recurso até o julgamento dos embargos de declaração opostos no referido recurso extraordinário.
+Reitera as razões de extraordinário, defendendo, em síntese, que:
+"(..) o direito à conversão de tempo comum em tempo especial é direito adquirido e ato jurídico perfeito que se incorporou ao patrimônio jurídico do titular pela realização dos requisitos fático legais, independentemente do momento do exercício do direito, não sendo afetado ou prejudicado pelas alterações legislativas posteriores, não se tratando de regime jurídico como constou do REsp 1.310.034/PR" (fl. 507, e-STJ).
+Aduz que "o art. 3º da Lei 9.032/95, que alterou o §3º do art. 57 da Lei 8.213/91 e não resguardou o direito adquirido dos segurados do RGPS cuja prestação da atividade se deu antes de 28/04/1995, data de edição da Lei 9.032/95, É INCONSTITUCIONAL" (fl. 507, e-STJ).
+Não foi apresentada impugnação ao agravo (fl. 535, e-STJ).
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. JULGAMENTO IMEDIATO. POSSIBILIDADE. DESNECESSIDADE DE AGUARDAR O TRÂNSITO EM JULGADO DO PARADIGMA. PREVIDENCIÁRIO. CONVERSÃO DO TEMPO COMUM PARA ESPECIAL. TRABALHO PRESTADO EM PERÍODO ANTERIOR À LEI 9.032/1995. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. O Supremo Tribunal Federal proferiu entendimento no sentido de que a existência de precedente firmado pelo Plenário daquela Corte autoriza o imediato julgamento dos processos com o mesmo objeto, independentemente do trânsito em julgado do paradigma.
+2. A discussão foi sobre a possibilidade de conversão do tempo de serviço comum para especial, mediante a aplicação do fator 0,71 de conversão, nas hipóteses em que o trabalho foi prestado em período anterior à Lei n. 9.032/1995, para fins de concessão de aposentadoria especial com data de início posterior a essa legislação. Inexistência de repercussão geral - Tema 943/STF.
+Agravo interno improvido.
+
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (Relator):
+Não obstante o esforço contido nas razões recursais, não prospera a pretensão de reforma da decisão prolatada.
+Consigne-se, inicialmente, quanto ao pedido de sobrestamento, que o Supremo Tribunal Federal proferiu entendimento no sentido de que a existência de precedente firmado pelo Plenário daquela Corte autoriza o imediato julgamento dos processos com o mesmo objeto, independentemente do trânsito em julgado do paradigma.
+A propósito:
+"Embargos de declaração no agravo regimental no recurso extraordinário. Embargos com o objetivo de sobrestamento do feito. Aposentadoria especial. Conversão de tempo comum em especial. Repercussão geral. Ausência. Análise concluída. Trânsito em julgado. Desnecessidade. Precedentes. 1. O Plenário da Corte, no exame do RE nº 1.029.723/PR (Tema 943), Relator o Ministro Edson Fachin, em sessão realizada por meio eletrônico, finalizada em 20/4/2017 (DJe de 21/4/2017), assentou, dado o caráter infraconstitucional da matéria, a ausência de repercussão geral do tema versado nestes autos, relativo à possibilidade de conversão do tempo de serviço comum para especial, mediante a aplicação do fator 0,71 de conversão, nas hipóteses em que o trabalho tiver sido prestado em período anterior à Lei 9.032/95, para fins de concessão de aposentadoria especial com data de início posterior a essa legislação. 2. A existência de precedente firmado pelo Tribunal Pleno da Corte autoriza o julgamento imediato de causas que versem sobre a mesma matéria, independentemente da publicação ou do trânsito em julgado do paradigma. 3. Embargos de declaração rejeitados." (RE 993.773 AgR-ED, Relator Min. DIAS TOFFOLI, Segunda Turma, julgado em 8/8/2017, processo eletrônico DJe-191, divulgado em 28/8/2017, publicado em 29/8/2017.)
+No mais, a decisão não merece reforma.
+Consoante fixado no decisum ora agravado, a controvérsia refere-se à possibilidade de conversão do tempo de serviço comum para especial, mediante a aplicação do fator 0,71 de conversão, nas hipóteses em que o trabalho foi prestado em período anterior à Lei n. 9.032/1995, para fins de concessão de aposentadoria especial com data de início posterior a essa legislação.
+E, quanto ao tema, o Supremo Tribunal Federal, nos autos do RE 1.029.723/DF, reconheceu a inexistência de repercussão geral.
+A propósito, a ementa do referido julgado:
+"RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. NÃO CARACTERIZAÇÃO. PREVIDENCIÁRIO. CONVERSÃO DO TEMPO COMUM PARA ESPECIAL. TRABALHO PRESTADO EM PERÍODO ANTERIOR À LEI 9.032/1995. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE REPERCUSSÃO GERAL." (RE 1.029.723 RG, Relator Min. EDSON FACHIN, julgado em 20/4/2017, processo eletrônico DJe-128, divulgado em 14/6/2017, publicado em 16/6/2017, Tema 943.)
+Nessa linha de entendimento, por ausência de repercussão geral sobre a matéria, os fundamentos do aresto atacado não são passíveis de revisão pela Suprema Corte.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Vice-Presidente
