@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo interposto por INDARU INDÚSTRIA E COMÉRCIO LTDA., em 13/09/2016, contra decisão do Tribunal Regional Federal da 3ª Região, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO - JUSTIÇA ESTADUAL - JURISDIÇÃO FEDERAL - RECOLHIMENTO DE CUSTAS - DIFERIRMENTO (sic) - ART. 5º, LEI 11.608/03 - COMPROVAÇÃO DA IMPOSSIBILIDADE - INOCORRÊNCIA - VALOR DA CAUSA - RETIFICAÇÃO - ART. 258, CPC - NECESSIDADE - RECURSO IMPROVIDO.
+1.Na Justiça Federal, as custas processuais têm regulação pela Lei nº 9.289/96, onde o §1º do artigo 1º dispõe que deve reger-se pela legislação estadual a cobrança de custas nos processos ajuizados perante a Justiça estadual no exercício da jurisdição federal, como é o caso das execuções fiscais da União Federal e de suas autarquias e o caso em comento.
+2.Dispõe a Lei Estadual nº 11.608/03: "Artigo 5.º - O recolhimento da taxa judiciária será diferido para depois da satisfação da execução quando comprovada, por meio idôneo, a momentânea impossibilidade financeira do seu recolhimento, ainda que parcial."
+3.Para a concessão do benefício almejado, necessária a comprovação, por meio idôneo, da momentânea impossibilidade financeira do recolhimento das custas , não tendo o embargante logrado êxito em fazê-lo, posto que as provas constantes nos autos indicam uma paralisação das atividades, não ausência de patrimônio suficiente para o mencionado recolhimento.
+4.No tocante à retificação do valor da causa, é entendimento corrente que o valor dado a uma causa deve ser equivalente ao benefício econômico pretendido pela parte e que, na hipótese dos embargos à execução, corresponder à diferença entre o pretendido pelo credor e o entendido pelo devedor.
+5.No presente caso, a embargante/agravante impugna apenas duas inscrições em Dívida Ativa (fl. 20), somando os valores inscritos, atualizados até 2008, conforme consta da CDA.
+6.O valor da causa encerra questões de ordem pública, fiscal e jurisdicional, servindo esta última como alicerce para adoção do procedimento. No caso do valor da causa acarretar consequências ao andamento do feito o juiz poderá de ofício corrigir o valor da causa .
+7.Do artigo 258, do Código de Processo Civil, infere-se a obrigatoriedade da determinação do valor da causa ao estabelecer que a toda causa será atribuído um valor certo, ainda que não tenha conteúdo econômico imediato. O valor da causa é o valor da relação jurídica de direito material, mas nos limites de petitum.
+8.De rigor que se imponha ao autor o ônus da atribuição aproximada de valor à causa e, no caso, há muita discrepância entre o atribuído e valor impugnado através da ação proposta, necessitando sua correção, com complementação das custas processuais.
+9.O valor cobrado e impugnado pela embargante deve ser atualizado, não merecendo reforma a decisão agravada.
+10.Agravo de instrumento improvido" (fls. 502/503e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO - CONTRADIÇÃO INTERNA - INEXISTÊNCIA - PREMISSA EQUIVOCADA - OBSCURIDADE - VALOR DA CAUSA - DÉBITO NÃO ATUALIZADO - EMBARGOS REJEITADOS.
+1.A contradição autorizadora da oposição dos embargos declaratórios é aquela existente entre as proposições e as conclusões do próprio julgado e não entre a tese defendida e o julgado.
+2.O acolhimento de "premissa equivocada" implicaria eventual error in judicando, não se prestando os embargos de declaração para saná-lo.
+3.A embargante não comprovou a inexistência de patrimônio (aliás, afirmou tê-lo), que obstasse o pagamento das custas, que são - consideravelmente - inferiores ao valor de um imóvel.
+4.Quanto à obscuridade apontada, a embargante não se atentou que o valor da causa deve ser atualizado, limitando-se a somar os valores executados nas CDAs impugnadas nos embargos (valores atualizados até 2008), restando clara tal necessidade no acórdão recorrido: "O valor cobrado e impugnado pela embargante deve ser atualizado, não merecendo reforma a decisão agravada."
+5.Se não houve a devida atualização do valor , há discrepância entre o valor atribuído à causa e o valor executado.
+6.Embargos de declaração rejeitados" (fl. 531e)
+Sustenta a parte agravante, nas razões do Recurso Especial, fundamentado na alínea a do permissivo constitucional, afronta ao art. 535, I, do CPC/73, pela persistência de contradição, não sanada no julgamento dos Embargos de Declaração, sob o seguinte argumento:
+"Portanto, fica patente a contradição entre as proposições e as conclusões do v. Acórdão, pois apesar de reconhecer que a Recorrente paralisou suas atividades (fato incontroverso), este entendeu que esta deveria recolher as custas processuais através de seu patrimônio, o que não é possível, primeiro porque as custas processuais têm que ser pagas em dinheiro, e não em imóvel; e, segundo, porque a Recorrente não pode alienar seu patrimônio, sob pena de fraude à execução, pois figura no polo passivo de centenas de processos judiciais" (fl. 546e).
+Foram apresentadas contrarrazões (fls. 554/555e).
+Negado seguimento ao Recurso Especial (fls. 557/558e), foi interposto o presente Agravo (fls. 560/568e).
+Foi apresentada contraminuta (fls. 570/572e).
+A irresignação não merece acolhimento.
+Em relação ao art. 535 do CPC/73, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, AgRg no AREsp 408.492/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 24/10/2013; STJ, AgRg no AREsp 406.332/MS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/11/2013; STJ, AgRg no REsp 1360762/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/09/2013.
+No caso, em relação à questão da existência de patrimônio necessário ao pagamento das custas processuais exigidas, o tribunal de origem consignou o seguinte:
+"Outrossim, a embargante não comprovou a inexistência de patrimônio (aliás, afirmou tê-lo), que obstasse o pagamento das custas, que são - consideravelmente - inferiores ao valor de um imóvel.
+Quanto à obscuridade apontada, a embargante não se atentou que o valor da causa deve ser atualizado, limitando-se a somar os valores executados nas CDAs impugnadas nos embargos (valores atualizados até 2008), restando clara tal necessidade no acórdão recorrido: "O valor cobrado e impugnado pela embargante deve ser atualizado, não merecendo reforma a decisão agravada."
+Logo, se não houve a devida atualização do valor, há discrepância entre o valor atribuído à causa e o valor executado" (fl. 530e).
+Portanto, ainda que o acórdão recorrido possa ter reconhecido a paralisação das atividades da parte recorrente, não concluiu pela inexistência de patrimônio apto ao pagamento de custas, tratando as situações como coisas distintas. Dessa forma justificou-se por qual motivo são devidas as referidas custas.
+Ademais, ressalte-se que, dentro dos limites do julgado embargado, inexiste contradição interna que prejudique a racionalidade ou a coerência do acórdão. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+1. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+2. A contradição a que se refere o inc. I do art. 535 do CPC é a que se verifica dentro dos limites do julgado embargado (contradição interna), aquela que prejudica a racionalidade do acórdão, afetando-lhe a coerência, não se confundindo com a contrariedade da parte vencida com as respectivas conclusões.
+3. A atribuição de efeitos infringentes é possível apenas em situações excepcionais, em que sanada a omissão, contradição ou obscuridade, a alteração da decisão surja como consequência necessária.
+4. Embargos de declaração rejeitados" (STJ, EDcl no AgRg no REsp 1.402.655/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 19/12/2013).
+"PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. DESCABIMENTO.
+1. Apenas autoriza a oposição de embargos de declaração a contradição que é interna ao julgado, e não a alegada contradição entre a fundamentação da decisão impugnada e outro parâmetro externo. Precedentes.
+2. Embargos de declaração rejeitados" (STJ, EDcl no AgRg no AREsp 271.768/BA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe de 13/12/2013).
+"PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRADIÇÃO EXTERNA QUE NÃO AUTORIZA OS EMBARGOS DECLARATÓRIOS - OFENSA A NORMA INFRALEGAL - RECURSO ESPECIAL INCABÍVEL.
+1. A contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado; tampouco dá guarida à insurgência a suposta dissonância entre duas ou mais decisões, ainda que oriundas do mesmo órgão julgador.
+2. Não se admite exame de material fático-probatório no âmbito do recurso especial, a teor do que dispõe a Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Eventual desrespeito a norma infralegal não autoriza o apelo nobre.
+4. Recurso especial não conhecido" (STJ, REsp 1.250.367/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 22/08/2013).
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
