@@ -1,0 +1,15 @@
+DECISÃO
+[NOME] ROSA, paciente neste habeas corpus, alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 0117849-95.2014.8.21.7000.
+Nesta Corte, a defesa sustenta a ausência de provas idôneas para basear a condenação do réu, porquanto o ingresso forçado dos policiais no domicílio do réu foi fundado em mera suspeita, a configurar a "ilicitude da única prova trazida pelo órgão acusatório" (fl. 3).
+Subsidiariamente, afirma a possibilidade de desclassificar a conduta do réu para o delito previsto no art. 28 da Lei n. 11.343/2006 ou, ainda, de reconhecer a incidência da causa especial de diminuição de pena.
+Requer, liminarmente, a suspensão dos efeitos do acórdão impugnado. No mérito, pugna pela absolvição do paciente, pela desclassificação da conduta ou pela aplicação da minorante.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento da impetração.
+Decido.
+De início, ressalto que a legalidade do ingresso dos policiais no domicílio do réu foi por mim reconhecida no REsp n. 1.542.553/RS, interposto pelo Ministério Público estadual contra o acórdão então proferido nos autos da apelação objeto deste writ (Processo n. 0117849-95.2014.8.21.7000). Naquela ocasião, afastei a absolvição do ora paciente e determinei ao Tribunal a quo que prosseguisse no julgamento do apelo defensivo, por entender que "as circunstâncias da prisão evidenciaram, concretamente, sinais anteriores de flagrante delito, aptos a justificar o ingresso dos policiais na residência do recorrido, sem permissão e sem mandado judicial, não havendo falar em ilicitude da prova obtida, pois fundadas e prévias as suspeitas de cometimento do crime de tráfico" (grifei), em especial porque "a atividade dos agentes estatais  ..  fundou-se nas declarações de usuário, de que teria comprado drogas do réu".
+A decisão em comento foi proferida em 2/12/2015 e não houve impugnação da defesa. Desse modo, esta Corte Superior não é competente para analisar eventual irresignação a respeito de seu conteúdo.
+Quanto às demais matérias - desclassificação da conduta ou aplicação da minorante -, percebo a insuficiência da instrução do mandamus. Isso porque não há, nos autos, cópia da sentença condenatória, documento essencial para a apreciar o constrangimento ilegal aqui suscitado.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+É cogente ao impetrante apresentar elementos documentais suficientes para se permitir aferir a alegada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, não conheço do habeas corpus.
+Nada impede, porém, à vista dos princípios da economia e da celeridade processuais, que, caso a parte traga a aludida peça faltante, o pedido seja considerado e analisado.
+Publique-se e intimem-se.
