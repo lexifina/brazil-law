@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FAZENDA NACIONAL, em 29/06/2015, com base na alínea a do permissivo constitucional, contra acórdão, promanado do Tribunal Regional Federal da 2ª Região, assim ementado:
+"TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. REDIRECIONAMENTO AOS SÓCIOS. DISSOLUÇÃO IRREGULAR. NÃO CONFIGURADA. SÚMULA Nº 435 DO STJ.
+I - O Egrégio Superior Tribunal de Justiça vem adotando o posicionamento no sentido de que "a certidão do oficial de justiça que atesta que a emprega não funciona no local de suas atividades é indício de dissolução irregular, apta a permitir o redirecionamento da execução fiscal contra o sócio-gerente, consoante o disposto na Súmula 435/STJ.
+II - A localização da empresa agravada, ainda que em domicílio diverso do cadastrado, na junta comercial, não configura a hipótese de dissolução irregular apta a permitir o redirecionamento da execução fiscal.
+III - O fato de não ter sido pago o débito ou indicado bens à penhora pela sociedade, ainda que frustradas diligências, tais como BACENJUD, RENAJUD não autoriza por si só o redirecionamento da execução fiscal em face do administrador, tendo em vista o que dispõe a Súmula nº 430 do STJ: "o inadimplemento da obrigação tributária pela sociedade não gera, por si só, a responsabilidade solidária do sócio-gerente".
+IV - Agravo de Instrumento conhecido e desprovido" (fl. 160e).
+Embargos de Declaração não acolhidos (fls. 171/186e).
+Alega-se, nas razões do Recurso Especial, ofensa aos arts. 535, II, do CPC/73, 124, I, 134, VII, e 135, III, do CTN e 1.003 e 1.025 do Código Civil. Sustenta, a parte recorrente, em breve resumo, o seguinte:
+"O art. 135, III, do CTN autoriza o redirecionamento da execução contra os sócios, diretores ou representantes de pessoas jurídicas de direito privado quando praticarem atos com excesso de poderes ou infração à lei, contrato social ou estatuto.
+Eis o teor do dispositivo legal supracitado:
+(..)
+De acordo com a informação prestada pelo oficial de justiça na certidão que atestou a citação (fl. 45), reafirmada na certidão negativa de penhora (fl. 46), a empresa executada ENCERROU SUAS ATIVIDADES.
+Assim, uma vez constatada a irregular dissolução da sociedade, a incidência do artigo 135, III, do CTN, no que diz respeito ao redirecionamento da execução, é de rigor, nos termos da jurisprudência do STJ: (..)" (fl. 184e).
+Aduz, ainda, que o acórdão padeceria de omissão, porquanto não teria examinado a "informação de que a empresa executada ENCERROU DUAS ATIVIDADES, prestada pelo oficial de justiça na certidão que atestou a citação (fl. 45) e reafirmada na certidão negativa de penhora (fl. 46). Nesta última certidão (fl. 46), além de noticiar que a empresa encerrou as suas atividades há aproximadamente quatro anos (conforme informação prestada pelo próprio representante legal), o oficial de justiça informou que o endereço no qual foi cumprida a diligência corresponde à residência do representante legal da empresa, e que referida empresa de transportes não possui outros bens além de alguns caminhões deteriorados, sem condições de uso, já penhorados em outros processos" (fl. 183e).
+Requer, ao final, "seja admitido e provido o presente Recurso Especial, anulando-se o v. acórdão recorrido para que outro seja proferido com o exame da questão apontada, face à violação ao disposto no art. 535, II, do CPC; caso assim não entenda essa Egrégia Corte, protesta a recorrente pela reforma do aresto atacado, em virtude de sua contrariedade aos demais dispositivos legais supracitados" (fl. 189e).
+Sem contrarrazões (fl. 193e).
+Recurso Especial admitido (fl. 195e).
+O presente recurso merece prosperar.
+Está devidamente configurada a omissão, no acórdão recorrido.
+Dessarte, embora tenha sido instada, inclusive mediante a oposição dos competentes Embargos de Declaração, a analisar a alegação de que a empresa - segundo declarado, em certidão, pelo Oficial de Justiça - não mais estaria ativa, tendo sido a citação cumprida não no endereço oficial da pessoa jurídica, mas na própria residência do representante legal daquela, quedou-se, a Corte de origem, omissa.
+Como o reconhecimento da procedência da argumentação da ora recorrente poderia, em tese, inverter o resultado do julgamento (pois conduziria, em linha de princípio, ao entendimento de que houve dissolução irregular), tem-se que sua análise expressa era obrigatória, sob pena de negativa de prestação jurisdicional e violação do art. 535, II, do CPC/73.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, de modo a determinar o rejulgamento, pelo Tribunal de origem, dos Embargos de Declaração fazendários, com o expresso enfrentamento da questão concernente à suposta declaração, pelo Oficial de Justiça, de que a empresa executada teria encerrado suas atividades.
+I.
