@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. ALEGAÇÕES FINAIS. INTIMAÇÃO. AUSÊNCIA. PREJUÍZO NÃO DEMONSTRADO REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/Amapá, assim ementado (fl. 1410):
+CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL E REMESSA EX OFFICIO. NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA DO DIREITO DE DEFESA. INÉRCIA DO PARQUET. DIREITO PRECLUSO, NULIDADE DO PROCESSO. ILEGITIMIDADE PASSIVA. MATÉRIA ESGOTADA. AUSÊNCIA DE RECURSO ESPECÍFICO, CERCEAMENTO DO DIREITO DE DEFESA POR NÃO TER SIDO OPORTUNIZADA APRESENTAÇÃO DE ALEGAÇÕES FINAIS. PREJUÍZO NÃO COMPROVADO. DISPENSA DE LICITAÇÃO DE IMÓVEL. OFENSA A PRINCÍPIOS ADMINISTRATIVOS. DOLO DO AGENTE NÃO EXIGÍVEL. APLICAÇÃO DA LEI Nº 8.429/92.
+1. Tendo a parte, neste caso o Parquet, a oportunidade de se insurgir contra o ato que alega cerceador de seu direito de defesa e não se manifestando no momento oportuno, não poderá, em fase posterior da marcha processual, buscar seja declarada e reconhecida a nulidade da sentença por cerceamento de defesa.
+2. Não há se falar em nulidade do processo por ilegitimidade passiva, diante da ausência de recurso específico contra o que restou decidido, estando, portanto, preclusa as vias adotadas.
+3. Conforme orientação pacífica de nossos Tribunais, as nulidades somente poderão ser declaradas quando demonstrado o efetivo prejuízo da parte, situação que não se mostra evidenciada nos autos.
+4. Nos termos da Lei nº 8.429/92, em seu artigo 11, não se exige dolo na conduta do agente nem a prova da lesão ao erário público, bastando a simples ilicitude ou imoralidade administrativa para restar configurado o ato de improbidade.
+5. Remessa ex officio em que se nega provimento e julga prejudicado os apelos voluntários.
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 11 da Lei nº 8.429/1992 e 47 e 454 do CPC/1973, sob os seguintes argumentos: (a) é admitida a sanção de agentes públicos na hipótese do art. 11 da Lei de Improbidade Administrativa quando haja expressa comprovação de dolo na conduta havida como ímproba, o que não ocorreu no caso dos autos; (b) "deve o presente recurso ser extinto sem resolução de mérito, ante a ocorrência da decadência em razão da não indicação do litisconsorte passivo necessário" (fl. 1509); (c) violação do devido processo legal e da ampla defesa diante da ausência de intimação para a apresentação de alegações finais.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 1545/1546.
+Parecer do MPF às fls. 1574/1579.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+A ausência de intimação para apresentação de alegações finais não implica nulidade processual quando isso não importar em prejuízo para a defesa, como entendido pelo Tribunal de origem, no caso concreto. Princípio pas de nullite sans grief. Nesse sentido: AgInt no REsp 1.581.109/PR, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 26/10/2017.
+No que diz respeito à legitimidade passiva do recorrente, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 1416):
+"No meu sentir não vejo como prosperar a alegação do apelante, e assim o digo por mais de uma razão.
+Primeiro porque a magistrada não tinha condições de saber que a compra do imóvel foi precedida de autorização do Conselho de Administração do IPEAP, uma vez que a parte não juntou durante a instrução processual qualquer documento nesse sentido. Somos sabedores de ser ônus da parte provar o alegado.
+Segundo porque o Presidente do extinto IPEAP, enquanto agente público gestor máximo da Instituição era o responsável por todos os atos administrativos, inclusive por aqueles autorizados pelo Conselho de Administração, motivo pelo qual possui legitimidade para figurar no pólo passivo da demanda".
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+ Este Tribunal tem reiteradamente se manifestado no sentido de que "o elemento subjetivo, necessário à configuração de improbidade administrativa censurada nos termos do art. 11 da Lei 8.429/1992, é o dolo genérico de realizar conduta que atente contra os princípios da Administração Pública, não se exigindo a presença de dolo específico" (REsp 951.389/SC, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe 04/05/2011).
+Alterar o decidido no acórdão impugnado, no sentido de que "é inequívoco que a condenação por Improbidade deve alcançar o Requerido [NOME], uma vez que, como dirigente, era ciente (ou deveria ser) acerca das finalidades do IPEAP e, sobretudo, das condições em que os lotes foram adquiridos" (fl. 1421), exige o reexame de fatos e provas vedado em recurso especial pela Súmula 7/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
