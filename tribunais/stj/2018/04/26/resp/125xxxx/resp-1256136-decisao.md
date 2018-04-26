@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela VIAÇÃO GRACIOSA LTDA, em 17/12/2010, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. PERMISSIONÁRIA DE TRANSPORTE RODOVIÁRIO DE PASSAGEIROS. PROCESSO ADMINISTRATIVO. VIOLAÇÃO AO EQUILÍBRIO ECONÔMICO-FINANCEIRO CONTRATUAL. ANTT. UNIÃO. ILEGITIMIDADE PASSIVA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. INOCORRÊNCIA. PRODUÇÃO PROBATÓRIA DESNECESSÁRIA. LIDE SOLVIDA TÃO SOMENTE COM ARGUMENTOS JURÍDICOS.
+1.- Compete à Agência Nacional de Transportes Terrestres - ANTT instaurar processo administrativo para verificar eventuais perdas econômico-financeiras decorrentes de permissão de serviços de transportes, bem como fiscalizar diretamente o cumprimento das condições de outorga da autorização e respectivas cláusulas contratuais (art. 26 da Lei 10.233/2001).
+2.- O processo administrativo objeto da lide mostra-se acertado, não estando violados os princípios do contraditório e da ampla defesa, já que o pedido de indenização, em si, foi indeferido, e que tal discussão é objeto do processo judicial nº 2007.34.00.040928-0, em trâmite na Justiça Federal de Brasília.
+3.- Não há ofensa ao devido processo legal, uma vez que este não garante direito à produção probatória inadequada ou desnecessária, nem obriga a administração a abrir fase instrutória quando a questão é resolvida exclusivamente com argumentos jurídicos" (fl. 421e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. PREQUESTIONAMENTO.
+São cabíveis embargos de declaração para fins de prequestionamento, indevidos os efeitos infringentes quando se manifesta unicamente contrariedade à tese adotada" (fl. 435e).
+Nas razões do Recurso Especial, a parte recorrente aponta, além de divergência jurisprudencial, violação aos artigos 14, § 15, III, da Lei 9.649/99, 5º da Lei 10.233/2001, 42, §§ 2º e 3º, I, da Lei 8.987/95, 59, parágrafo único, da Lei 8.666/93, 2º, parágrafo único, VII, X, 3º, II, 38, 44 da Lei 9.784/99, 47, 128 e 535 do CPC/73. Sustenta a legitimidade passiva da União e a existência de vícios no procedimento administrativo, os quais podem ser discutidos, ainda que exista outra demanda versando sobre o direito à prorrogação do contrato. Aponta, também, negativa de prestação jurisdicional.
+Contrarrazões a fls. 468/480 e 482/491e.
+O recurso não pode ser conhecido.
+Conforme verifica-se dos autos, o acórdão recorrido foi disponibilizado, no Diário de Justiça eletrônico, em 26/11/2010, sexta-feira (fl. 437e), considerando-se publicado em 29/11/2010, na vigência do CPC/73.
+O Recurso Especial, porém, somente foi interposto em 17/10/2010 (fl. 438e), quando já expirado o prazo de 15 (quinze) dias, previsto no art. 508 do CPC/73, o que ocorreu em 14/12/2010 (terça-feira).
+A propósito:
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA LAVRA DO MINISTRO PRESIDENTE DO STJ QUE NÃO CONHECEU DO RECLAMO EM RAZÃO DA SUA INTEMPESTIVIDADE. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Nos termos do Enunciado Administrativo n. 2 do Superior Tribunal de Justiça que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça". Dessa forma, o recurso especial que não observa o prazo de quinze dias previsto no art. 508 do CPC/73 é intempestivo.
+2. Dispõe, ainda, o Enunciado n. 5, desta Corte, que: "nos recursos tempestivos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016), não caberá a abertura de prazo prevista no art. 932, parágrafo único, c/c o art. 1.029, § 3º, do novo CPC".
+3. Agravo interno desprovido" (STJ, AgInt no AREsp 1.090.750/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 08/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários recursais, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
