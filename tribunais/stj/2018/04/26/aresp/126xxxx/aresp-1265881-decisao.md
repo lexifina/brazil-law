@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVOS EM RECURSOS ESPECIAIS AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS CUMULADA COM PEDIDO DE OBRIGAÇÃO DE FAZER. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+2. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravos conhecidos. Recursos especiais não conhecidos.
+DECISÃO
+Cuida-se de agravos em recursos especiais interpostos por ARMOND COMERCIO E LOCAÇÃO DE IMOVEIS LTDA, MRV ENGENHARIA E PARTICIPAÇÕES SA e PARQUE ALABAMA INCORPORAÇÕES SPE LTDA, contra decisões que negaram seguimento a recursos especiais.
+Agravo em recurso especial interposto em: 15/08/2017 por ARMOND COMERCIO E LOCAÇÃO DE IMÓVEIS LTDA, e 14/08/2017 por MRV ENGENHARIA E PARTICIPAÇÕES SA e PARQUE ALABAMA INCORPORAÇÕES SPE LTDA.
+Concluso ao gabinete em: 22/03/2018.
+Ação: indenização por perdas e danos cumulada com pedido de obrigação de fazer ajuizada por CENI DE SOUZA SANTOS em face das agravantes, devido ao atraso na entrega de imóvel.
+Sentença: julgou parcialmente procedente para condenar as agravantes a procederem a restituição ao autor dos valores despendidos a título de despesas de corretagem (R$ 4.140,00 - quatro mil, cento e quarenta reais) devidamente atualizados a partir do respectivo desembolso e acrescidos de juros de mora legais contados da citação.
+Em razão da sucumbência recíproca, determinou que cada parte arcará com a custas judiciais e despesas processuais despendidas, bem como com os honorários de seus respectivos advogados.
+Acórdão: deu parcial provimento ao recurso interposto pelo agravado, conforme a seguinte ementa (e-STJ fl. 653):
+APELAÇÃO. COMPROMISSO DE COMPRA E VENDA. Observância do Recurso Especial Repetitivo n.1.551.951 - SP. LEGITIMIDADE. Participação das empresas na relação jurídica, tornando-as responsáveis perante os consumidores. Inteligência do parágrafo único, do art. 7º; arts. 18, 19 e parágrafos do art 25. CDC. CERCEAMENTO DE DEFESA. O juiz é o destinatário da prova, competindo-lhe aferir da conveniência e oportunidade para o julgamento antecipado da lide. Desnecessária a produção de prova testemunhai no presente caso. Questão que dependia de prova essencialmente documental. Nulidade inocorrente. ATRASO NA ENTREGA DO IMÓVEL Reconhecida a abusividade da cláusula que não possibilita ao promitente comprador qualquer previsão quanto à data de recebimento do imóvel adquirido, ficando totalmente a critério da vendedora o momento da entrega É razoável que o prazo para conclusão da obra seja vinculado à assinatura do contrato de compromisso de compra e venda e não à expedição do habite-se. PRAZO DE TOLERÂNCIA. Não é abusiva a cláusula que contempla o prazo de tolerância, uma vez que as partes estavam cientes da possibilidade de atraso na entrega do empreendimento. LUCROS CESSANTES. Ocorrência. Condenação em 0,5% ao mês. DANO MORAL - Inexistência de lesão a direito de personalidade. COMISSÃO DE CORRETAGEM E TAXAS A comissão de corretagem pode ser livremente pactuada,observado o princípio de informação do consumidor. Todavia, há abusividade na cobrança de taxa de assessoria ou atividade congênere, uma vez, que não há contrapartida para o consumidor do serviço prestado. SUCUMBÊNCIA. Decaimento de ambas as partes. Manutenção da sucumbência recíproca. RECURSOS PARCIALMENTE PROVIDOS.
+Embargos de Declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial - MRV ENGENHARIA E PARTICIPAÇÕES SA e PARQUE ALABAMA INCORPORAÇÕES SPE LTDA: alega violação dos arts. 300 e 373, I, do CPC, 476 do CC/02. Sustenta que, na presente hipótese, a distribuição do ônus da prova não foi devidamente aplicada. Assevera que a parte agravada não demonstrou o cumprimento do contrato. Ressalta que, conforme legislação apontada, não poderia entregar o imóvel sem que a parte adversa conseguisse o financiamento.
+Recurso especial - ARMOND COMERCIO E LOCAÇÃO DE IMÓVEIS LTDA: alega violação dos arts. 265, 403 e 722 do CC/02. Aduz que a inexecução do contrato não decorre diretamente ou imediatamente de algo que a corretora tenha feito ou deixado de fazer. Afirma que não detém qualquer responsabilidade para efeito de devolução de taxa de administração de contrato nem de prestação de serviço de assessoria imobiliária e intermediação.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+Recurso - MRV ENGENHARIA E PARTICIPAÇÕES SA e PARQUE ALABAMA INCORPORAÇÕES SPE LTDA:
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 300 e 373, I, do CPC, 476 do CC/02, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à análise do disposto no contrato, quanto ao cerceamento de defesa, no que concerne ao cumprimento do contrato, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Recurso - ARMOND COMERCIO E LOCAÇÃO DE IMÓVEIS LTDA:
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 265 e 722 do CC/02, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à análise dos documentos acostados aos autos, quanto à legitimidade da parte, a respeito do disposto no contrato, em relação às condutas das partes, acerca da configuração do dano, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO dos agravos e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO dos recursos especiais.
+Publique-se. Intimem-se.
