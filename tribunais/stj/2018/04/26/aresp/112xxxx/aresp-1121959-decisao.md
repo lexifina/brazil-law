@@ -1,0 +1,27 @@
+EMENTA
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMPRESA QUE EXERCE ATIVIDADE DE FACTORING. REGISTRO NO RESPECTIVO CONSELHO REGIONAL DE ADMINISTRAÇÃO. DESNECESSIDADE. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 83 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 189):
+ADMINISTRATIVO E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. CONSELHO REGIONAL DE ADMINISTRAÇÃO. ATIVIDADE BÁSICA. EMPRESA DE FACTORING. REGISTRO. INEXIGIBILIDADE. SENTENÇA REFORMADA.
+1. Verifica se que a parte autora tem como objeto social, basicamente negócios de fomento mercantil (factoring), que consiste na devolução ao cedente do valor do título cedido, descontados os valores referentes à comissão da empresa de fomento mercantil (fator de compra); aquisição de direitos representados pelos títulos de crédito transferidos, e ser credor dos sacados, compradores de produtos ou mercadorias que foram negociados pela empresa-cliente. Como atividades acessórias, a prestação de serviços de acompanhamento de contas a receber e a pagar; seleção e avaliação dos sacados-devedores ou dos fornecedores das empresas-clientes.
+2. O Superior Tribunal de Justiça e esta Corte vinham adotando o entendimento de que era obrigatória a inscrição das empresas de factoring e fomento mercantil no Conselho Regional de Administração - CRA, porém ocorreu divergência de entendimento entre as teses jurídicas aplicadas pelas Turmas da Primeira Seção do STJ.
+3. Apontada a divergência no recente julgamento dos Embargos de Divergência em REsp n. 1.236.002/ES, prevaleceu a tese consubstanciada pelo acórdão paradigma REsp. 932.978/SC, de que a atividade principal da empresa de fomento mercantil ou factoring convencional consiste na cessão de créditos representados por títulos decorrentes dos negócios da empresa-cliente (comerciante/industrial), situação que dispensa a fiscalização da atividade profissional pelo CRA, por não caracterizar atividade de natureza administrativa.
+4. "As empresas que desempenham atividades relacionadas ao factoring estão dispensadas da obrigatoriedade de registro no Conselho Regional de Administração, porquanto comercializam títulos de crédito." (REsp 932.978/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 06/11/2008, DJe 01/12/2008).
+5. Inexistente o vínculo jurídico obrigacional entre a parte autora e o CRA, configura-se nulo, por falta de liquidez e certeza, o título executivo decorrente da autuação.
+6. Invertida a sucumbência, condeno o Conselho embargado, ora apelado, ao pagamento da verba honorária que fixo em R$ 2.000,00 (dois mil reais) e ao pagamento das custas em ressarcimento.
+7. Apelação provida para, reformando a sentença, julgar procedente o pedido e, reconhecendo a nulidade da autuação fiscal e da CDA, julgar extinta a execução fiscal.
+No recurso especial sustenta ofensa aos artigos 2º e 15, § 1º, III, "d" da Lei 4.769/1965, e dissídio jurisprudencial, sob o argumento de é obrigatório o registro da recorrida no Conselho Regional de Administração, visto que a sua atividade básica é o factoring, atividade que envolve conhecimento único e exclusivo de administração.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+O Tribunal de origem consignou que não é obrigatória o registro das empresas factoring no Conselho Regional de Administração, visto que exercem atividades predominantemente mercantis.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ADMINISTRATIVO. EMPRESA DE FACTORING. ATIVIDADE SUJEITA AO REGISTRO NO CONSELHO REGIONAL DE ADMINISTRAÇÃO, NA ESPÉCIE. AGRAVO REGIMENTAL DA EMPRESA DESPROVIDO.
+1. A 1a. Seção desta Corte, ao julgar o EREsp. 1.236.002/ES, de minha Relatoria, uniformizou o entendimento pela desnecessidade de inscrição das empresas de factoring nos conselhos regionais de administração quando suas atividades forem de natureza eminentemente mercantil, prescindindo, dest"arte, de oferta, às empresas-clientes, de conhecimentos inerentes às técnicas de administração, nem de administração mercadológica ou financeira.
+2. Na espécie, o Tribunal de origem, ao analisar o contrato social da empresa, consignou que a atividade básica desenvolvida por ela exige conhecimentos técnicos específicos na área de administração mercadológica e de gerenciamento, bem como técnicas administrativas atinentes às esferas financeira e comercial. Assim, em não se tratando de apenas factoring convencional, necessário o registro no respectivo Conselho Regional de Administração. Precedente: REsp 1.587.600/SP, Rel. Min. HERMAN BENJAMIN, DJe 24.5.2016.
+3. Agravo Regimental da empresa desprovido.
+(AgRg nos EDcl no REsp 1.186.111/ES, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 15/02/2017).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
