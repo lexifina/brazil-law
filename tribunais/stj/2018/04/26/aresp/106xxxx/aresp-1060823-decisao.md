@@ -1,0 +1,33 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. PRINCÍPIO DA DIALETICIDADE RECURSAL, AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTIGO 932, INCISO III, CPC/2015. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por HABITARE CONSTRUTORA E INCORPORADORA S.A, em face de decisão do Tribunal de Justiça do Estado de Minas Gerais, que inadmitiu o recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+É o breve relatório.
+Passo a decidir.
+O presente recurso não pode ser conhecido, em virtude da ausência de impugnação específica dos fundamentos da decisão agravada.
+Isso porque, em atenção ao princípio da dialeticidade, esta Corte Superior tem manifestado reiteradamente, conforme previsto no artigo 932, inciso III, do Código de Processo Civil de 2015, a necessidade de impugnação específica a todos os fundamentos de inadmissão do recurso especial.
+Na hipótese dos autos, o Tribunal de origem, em decisão de fls. 295-296, e-STJ, negou seguimento ao recurso especial por considerar que (i) "acerca da juntada dos documentos de fls. 225/233 aos autos quando da interposição do recurso especial, registro que tais documentos não se constituem novos, por tratarem de fato supostamente ocorrido em 08/05/2015 (data anterior ao julgamento do recurso de apelação) e por não haver prova de que a recorrente estava impedida de exibi-los no momento processual oportuno" (fls.295, e-STJ), (ii) a incidência da Súmula 282 e 356/STF, porquanto "em relação ao artigos 110, 320, 409, 410 e 725 do CC, tido por violados, verifica-se que os respectivos conteúdos normativos não foram objeto de apreciação pela Turma Julgadora. Incidência da súmula 282 e 356 do STF" (fls. 295, e-STJ).
+Ademais, concluiu que, (iii) "a constatação da responsabilidade da recorrente pela rescisão do contrato em virtude de não cumprimento de suas obrigações contratuais demanda reexame do conjunto probatório dos autos, providência vedada em sede especial, a teor das súmulas 5 e 07/STJ. Aplicável, assim, a súmula 83 do STJ" (fls. 296, e-STJ).
+Nas razões do agravo em recurso especial (fls. 299-312, e-STJ), a agravante alegou, quanto aos óbices das Súmulas 282 e 356/STF, que "como declinado na decisão agravada, é nítida a sustentação meramente legal do Recurso Especial interposto, porquanto da perfunctória análise das razões recursais é possível observar o prequestionamento da violação aos dispositivos legais, que inclusive são mencionados na decisão agravada" (fls. 303, e-STJ).
+Quanto à ausência de prequestionamento levantada pelo Tribunal a quo, a agravante apresentou argumentação genérica, não impugnando devidamente a decisão atacada.
+Quanto aos óbices das Súmulas nº 05, nº 07, alegou que "ocorre que, data máxima vênia, está equivocada a fundamentação do nobre julgador, sendo que tão logo encerrada as tratativas referentes à destituição e em sua primeira manifestação, qual seja o Recurso Especial, a agravante informou quanto a destituição ocorrida, razão pela qual trata-se de fato superveniente" (fls. 303, e-STJ).
+No mais, limitou-se a repetir a argumentação do recurso especial, não impugnando os fundamentos de inadmissão do recurso especial.
+Com efeito, é pacífico o entendimento desta Corte de que a parte agravante deve impugnar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Sobre o tema, confiram-se os seguintes julgados desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+(..)
+5. Agravo interno não provido, com aplicação de multa.
+(AgInt no AREsp 1075210/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/05/2017, DJe 26/05/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. 2. AGRAVO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, do CPC (artigo 544, § 4º, I, do CPC/1973).
+2. Agravo interno improvido.
+(AgInt no AREsp 884.574/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016 - grifei).8
+Nesse contexto, à luz do princípio da dialeticidade, conclui-se pelo não conhecimento do presente recurso.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015.
+O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que a sentença fixou a verba honorária em 10% sobre o valor total da condenação, em benefício do patrono da recorrida (e-STJ fl. 202), a majoração dos honorários devidos pela recorrente para 13% sobre o valor total da condenação é medida adequada ao caso.
+Ante o exposto, não conheço do agravo em recurso especial, e, conforme no art. 85, § 11, do CPC/2015, majoro os honorários de sucumbência para 13% sobre o valor total da condenação.
+Intimem-se.
