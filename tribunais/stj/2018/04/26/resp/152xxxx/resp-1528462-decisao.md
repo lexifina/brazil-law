@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973. EXISTENTE. RECURSO PROVIDO COM DETERMINAÇÃO DE RETORNO DOS AUTOS PARA NOVA ANÁLISE DOS EMBARGOS DE DECLARAÇÃO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] e outros, com fundamento no artigo 105, III, "a", da CF contra acórdão oriundo da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 621-623):
+EXECUÇÃO DE SENTENÇA. PAGAMENTO ADMINISTRATIVO.
+HONORÁRIOS ADVOCATÍCIOS.
+1) as parcelas pagas administrativamente não integram o valor da execução, devendo, conseqüentemente, ser excluídas do cálculo exeqüendo. Havendo dúvida quanto à origem dos pagamentos alegadamente realizados na via administrativa, deve-se oportunizar às partes a produção de provas.
+2) em sede de embargos à execução, o limite de 10% sobre o valor da execução para a fixação dos honorários não é absoluto, e pode ceder diante de conceitos como quantia ínfima ou exorbitante, os quais, por sua evidente subjetividade, comportam interpretações e alcances variados.
+Os embargos de declaração foram rejeitados (fls. 656-658).
+Os recorrentes alegam violação dos artigos 458, II e 535, II, do CPC/1973. Para tanto, argumenta em apertada síntese que o Tribunal de origem, não obstante a oposição de embargos de declaração, foi obscuro quanto à fixação da verba honorária, não deixando claro se a sentença proferida estava sendo mantida ou alterada; e omisso quanto a correção dos cálculos elaborados pela contadoria, dizendo que os valores pagos administrativamente não abrangem o período de cálculo buscado na execução.
+Ao final, requerem o provimento do recurso, a fim de que o Tribunal de origem "julgue novamente os embargos de declaração, apreciando os vícios acerca da fixação da verba honorária e dos cálculos da contadoria" (fl. 673).
+Às fls. 681-683, a recorrida se contrapõe, ao argumento de que a pretensão recursal encontra óbice na Súmula 7/STJ.
+Crivo positivo de, admissibilidade às fls. 686.
+É o relatório. Passo a decidir.
+Com efeito, os ora recorrentes opuseram embargos de declaração contra o acórdão recorrido, apontando omissões no julgado na análise dos cálculos da Contadoria Judicial; quanto à fixação da verba honorária e em relação à autonomia da execução e dos correlatos embargos. Confiram-se:
+1. Da omissão quanto a correção dos cálculos elaborados pela contadoria - valores pagos administrativamente não abrangem o período de cálculo buscado na presente execução
+A E. Turma entendeu pelo parcial provimento do recurso de apelação da UFSM para deixar expresso que as parcelas pagas administrativamente não integram o valor da execução, devendo, consequentemente, ser excluídas do cálculo exequendo. Nesse viés, restou consignado no voto-condutor do acórdão que, havendo dúvida quanto à origem dos pagamentos alegadamente realizados na via administrativa, deve-se oportunizar às partes a produção de provas.
+Contudo, o acórdão embargado olvidou que os valores recebidos pelas exequentes na via administrativa são relativos a período em que não abrange o cálculo exequendo.
+Tal fato foi efetivamente comprovado através dos cálculos elaborados pela contadoria, que é órgão contábil é isento e qualificado, onde resta demonstrada a situação de tais pagamentos terem sido feitos por conta de matéria não discutida nos autos, ou melhor, relativos a período em que não abrange o cálculo (vide evento 45).
+Como referido no exemplo da servidora [NOME], de acordo com a informação presente no evento 1 - CALC2 - página 15, a mesma tinha incorporados, já em 1998 (o período deferido pelo título exequendo refere-se a abril/98 a setembro/01), 6/10 CD3. Esses 6/10 de CD3 estavam sendo pagos no valor de R$ 1.932,44, quando o correto seria R$ 2.280,00. Portanto, essa diferença (R$ 347,56), relativa a período anterior a abril de 1998, foi alcançada administrativamente, o que não pode ser abatido, haja vista não ser objeto da ação.
+Sendo assim, o acórdão ora embargado desconsiderou que já houve comprovação nos autos de que os pagamentos administrativos não podem ser abatidos do cálculo exequendo, sob pena de enriquecimento ilícito da embargada (art. 884, CC). Ora, é indiscutível que o parecer da contadoria é prova robusta e inquestionável, mostrando-se equivocado o acórdão embargado ao referir que não houve comprovação acerca destes pagamentos.
+Diante do exposto, impõe-se o provimento do presente recurso de embargos de declaração, a fim de que, sanado o vício apontado, lhe seja conferido excepcionais efeitos infringentes para determinar o prosseguimento da execução, em conformidade com os cálculos elaborados pela contadoria judicial, no que diz com as servidoras [NOME] e [NOME].
+2. Da obscuridade do julgado: fixação da verba honorária
+Ademais, da leitura do acórdão embargado é possível constatar flagrante obscuridade no que tange a fixação da verba honorária.
+Isso porque, ao fundamentar o decisum, o voto-condutor manifestou-se no sentido de que os honorários de sucumbência foram fixados adequadamente pela sentença, o que leva a crer que entendeu pela sua manutenção.
+Vejamos excerto que demonstra tal assertiva:
+(..) Quanto aos honorários, tenho que o valor fixado na sentença foi adequado, pois, na esteira do acima exposto, o limite de 10% não é absoluto, cedendo diante de conceitos como quantia ínfima ou exorbitante, os quais, por sua evidente subjetividade, comportam interpretações e alcances variados.
+Contudo, no dispositivo do acórdão constou: Voto por dar parcial provimento ao(s) recurso(s), nos termos da fundamentação retro, reduzidos os ônus sucumbenciais em 5%.
+Nesse passo, cumpre referir que a sentença recorrida fixou honorários em valor fixo, no montante de R$ 1.500,00 (um mil e quinhentos reais), de acordo com o disposto no art. 20, § 4º, do CPC. Assim, é possível constatar que há flagrante obscuridade no decisum, haja vista que não ficou claro o entendimento do julgador sobre a alteração do ônus sucumbencial.
+Por isso, devem ser providos os presentes embargos para sanar a obscuridade apontada, restando mantida a verba sucumbencial determinada na sentença dos embargos à execução.
+Como se denota, os recorrentes apresentaram questões jurídicas relevantes, qual seja, omissões no julgado na análise dos cálculos da Contadoria Judicial; quanto à fixação da verba honorária e em relação à autonomia da execução e dos correlatos embargos.
+Ocorre que o Tribunal de origem rejeitou os embargos de declaração, limitando-se a concluir que "o julgador não está obrigado a se manifestar sobre todas as teses levantadas pelas partes, bastando que os fundamentos utilizados tenham sido suficientes para embasar a decisão".
+Dessa forma, diante das referidas omissões, constata-se violado o art. 535 do CPC/1973, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao Tribunal de origem para a realização de nova análise dos embargos de declaração.
+Ante o exposto, dou provimento ao recurso especial, pela violação do artigo 535 do CPC/1973.
+Publique-se. Intimem-se.
