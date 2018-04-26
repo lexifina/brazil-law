@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 5º, II, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    A verificação da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo demanda prévio reexame da interpretação conferida pelo Tribunal de origem a cláusulas contratuais, bem como o revolvimento do quadro fático delineado, o que é vedado a esta instância extraordinária, a teor das Súmulas 279 e 454/STF: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CIVIL E CONSUMIDOR. PLANO DE SAÚDE. TRATAMENTO. COBERTURA. NECESSIDADE DE REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454/STF. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. MAJORAÇÃO DE HONORÁRIOS. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – Para dissentir da conclusão adotada pelo Tribunal de origem, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas de contrato, o que inviabiliza o recurso extraordinário nos termos das Súmulas 279 e 454/STF. Precedentes. II – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de legislação infraconstitucional que fundamenta a decisão a quo. Precedentes. III – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais do art. 85, § 2° e § 3°, do CPC. IV – Agravo regimental a que se nega provimento, com aplicação de multa prevista no art. 1.021, § 4°, do CPC.” (ARE 1066071 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 16/10/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de abril de 2018.
+Ministra Rosa Weber
+Relatora
