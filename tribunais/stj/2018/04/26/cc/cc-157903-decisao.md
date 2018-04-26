@@ -1,0 +1,18 @@
+EMENTA
+CONFLITO DE COMPETÊNCIA. ART. 66 DO CPC/2015. NÃO CONFIGURAÇÃO. POSSIBILIDADE DE DECISÕES CONFLITANTES. INEXISTÊNCIA. CONFLITO. SUCEDÂNEO RECURSAL. INVIABILIDADE.
+1. Para a caracterização do conflito de competência deve estar presente uma das hipóteses previstas no art. 66 do CPC/15, quais sejam: (i) dois ou mais juízes se declarando competentes; (ii) dois ou mais juízes se considerando incompetentes; ou (iii) controvérsia estabelecida entre dois ou mais juízes acerca da reunião ou separação dos processos identificados na inicial.
+2. Tendo havido o exaurimento da competência do Juízo Arbitral, que reconheceu ser a interessada a proprietária do bem, não mais existem decisões conflitantes acerca do destino do mesmo patrimônio.
+3. O conflito de competência não constitui sucedâneo recursal.
+4. Conflito não conhecido.
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante COOPERATIVA DE PRODUTORES DE CANA-DE-AÇÚCAR, AÇÚCAR E ÁLCOOL DO ESTADO DE SÃO PAULO, e suscitados o TRIBUNAL ARBITRAL DA CÂMARA DE CONCILIAÇÃO, MEDIAÇÃO E ARBITRAGEM DE SÃO PAULO - CIESP, o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE RIO VERDE - GO e o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Ação em trâmite no Tribunal Arbitral: procedimento arbitral que discutiu a propriedade e posse do etanol objeto de contrato entre a suscitante e a empresa recuperanda, já encerrado, com o reconhecimento da propriedade da USINA RIO VERDE LTDA - EM RECUPERAÇÃO JUDICIAL.
+Ação em trâmite no Juízo da 3ª Vara Cível de Uruguaiana - RS: recuperação judicial da empresa USINA RIO VERDE LTDA - EM RECUPERAÇÃO JUDICIAL, na qual se proferiu decisão determinando à suscitante ao depósito da quantia de R$ 61.334.238,71, referente ao etanol com ela depositado.
+Conflito de competência: alega que o Juízo da Recuperação descumpre a decisão do Juízo Arbitral ao determinar à suscitante a venda do etanol que está em seu poder. Aduz que a decisão do Juízo Arbitral deve ser cumprida em seus exatos termos, quais sejam, o de ser conferida a posse do etanol à recuperanda, somente a partir de então podendo o Juízo da Recuperação dar ao bem a destinação que entender adequada.
+RELATADO O PROCESSO, DECIDO.
+Conforme destacado na decisão proferida em 27/02/2018 nos autos do CC 149.520/GO, "o Juízo arbitral declarou que o bem objeto da discussão constitui propriedade da suscitante, determinando sua imissão na posse e reconhecendo a competência do Juízo da recuperação judicial para conferir-lhe a destinação adequada", razão pela qual "o presente incidente perdeu seu objeto, na medida que não há decisões conflitantes acerca do destino do mesmo patrimônio".
+De fato, com o encerramento do processo arbitral, no qual se decidiu que a propriedade do etanol seria da recuperanda, não há decisão conflitante sobre o destino do mesmo patrimônio.
+Não ocorre, portanto, na hipótese concreta, a caracterização de uma das hipóteses previstas no art. 66 do CPC/15, na medida em que não há: (i) dois ou mais juízes se declarando competentes; (ii) dois ou mais juízes se considerando incompetentes; ou (iii) controvérsia estabelecida entre dois ou mais juízes acerca da reunião ou separação dos processos identificados na inicial.
+Evidencia-se, dessa forma, a pretensão do suscitante de utilizar o presente conflito de competência como sucedâneo recursal, visando desconstituir as decisões proferidas pelo JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE RIO VERDE - GO e já submetidas à apreciação do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS por meio da interposição de agravo de instrumento, o que, todavia, não se adequa à via eleita.
+Forte nessas razões, JULGO PREJUDICADO o pedido de tutela de urgência e NÃO CONHEÇO do conflito de competência.
+Publique-se. Intime-se.
