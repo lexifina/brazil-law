@@ -1,0 +1,25 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “RECURSO INOMINADO. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. SERVIDOR PÚBLICO ESTADUAL. CONTRATO TEMPORÁRIO. DEPÓSITO DE FGTS. VÍNCULO ADMINISTRATIVO. DIREITO NÃO EVIDENCIADO.
+    1. Trata-se de ação em que pretende a parte autora, que ocupava o cargo de agente educacional, seja determinado ao requerido o pagamento/depósito do FGTS em razão do rompido contrato emergencial de trabalho.
+    2. A parte demandante manteve-se vinculada aos quadros públicos por força de contrato temporário de trabalho. Tal figura encontra amparo no texto constitucional, restando enunciado no artigo 37, IX, da CRFB/88, que a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público.
+    3. Aqui não há como se negar o vínculo administrativo a que submetido a parte demandante, não havendo falar em contrato trabalhista, pelo que afastados os institutos que salvaguardam o labor regrado pela CLT.
+    4. Sentença de improcedência mantida por seus próprios fundamentos.
+    RECURSO INOMINADO DESPROVIDO” (pág. 15 do documento eletrônico 2).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 7°, III e 37, II, IX e § 2°, da mesma Carta, sob o argumento de que a recorrente, ante a irregularidade de sua contratação temporária, faz jus ao depósito do FGTS, nos termos do art. 19-A da Lei 8.036/1990.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, ao examinar a questão, consignou: :
+    “[...] A Parte Demandante manteve-se vinculada aos quadros públicos por força de contrato temporário de trabalho. Tal figura encontra amparo no texto constitucional, restando enunciado no artigo 37, IX, da CRFB/88, que a lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público.
+     Aqui não há como se negar o vínculo administrativo a que submetido a Parte Demandante, não havendo falar em contrato trabalhista, pelo que afastados os institutos que salvaguardam o labor regrado pela CLT” (pág. 17 do documento eletrônico 2).
+    Assim, para divergir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, notadamente quanto à apuração de eventual nulidade do contrato em discussão, seria necessário o reexame do conjunto fático-probatório dos autos e da norma local aplicável à espécie, o que é vedado pelas Súmulas 279/STF e 280/STF. Nesse sentido, destaco o RE 965.893-AgR/MG, de minha relatoria, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRATO TEMPORÁRIO. FGTS. LEI 8.036/1990 E LEI ESTADUAL 10.254/1990. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 279 E 280 DO STF. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. AGRAVO A QUE SE NEGA PROVIMENTO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. III – Agravo regimental a que se nega provimento, com majoração dos honorários advocatícios (art. 85, § 11, do CPC)”.
+    Ademais, o acórdão recorrido não se afasta do entendimento jurisprudencial desta Corte sobre a matéria, conforme se percebe do julgado abaixo transcrito:
+    “Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Tocantis, que assentou não ser devido o pagamento de FGTS à parte recorrente em razão da sua contratação junto ao recorrido.
+    O recurso extraordinário não pode ser provido, uma vez que o acórdão recorrido está alinhado com a jurisprudência desta Corte.
+    O Plenário do Supremo Tribunal Federal, no julgamento do RE 596.478-RG, Relator para o acórdão o Ministro Dias Toffoli, assentou serem devidos os valores relativos ao Fundo de Garantia de Tempo de Serviço (FGTS) àqueles cujo contrato de trabalho fora declarado nulo pela Administração em decorrência de violação à regra do concurso público (Tema 191).
+    No caso, o Tribunal de origem não declarou nulo o contrato de trabalho dos recorridos. Dissentir desse entendimento exigiria a análise dos fatos e provas constantes dos autos, o que inviável de ser realizado neste momento processual (Súmula 279/STF).
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015” (RE 1.047.944/TO, Rel. Min. Roberto Barroso).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
