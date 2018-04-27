@@ -1,0 +1,28 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. É manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente e de maneira consistente, os fundamentos da decisão agravada.
+2. Agravo não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interno interposto por LAMINADORA CIDADE ALTA LTDA - ME contra decisão que não conheceu do agravo em recurso especial.
+Ação: de cobrança ajuizada pela ora agravante contra MOBASA REFLORESTAMENTO S.A, na qual alega que firmou contrato de cessão de direitos sobre 10.000 (dez mil) pés de árvores pinus taeda, produto que não foi entregue. Requer, assim, a condenação da agravada à devolução dos valores pagos.
+Sentença: julgou improcedente o pedido ante a inexistência de provas de que o objetivo do contrato não tenha sido satisfeito.
+Acórdão: o TJ/SC negou provimento ao recurso de apelação interposto pela agravante, nos termos assim ementados (e-STJ fls. 227/228):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE COBRANÇA. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA AUTORA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA PELO JULGAMENTO ANTECIPADO DA LIDE. NÃO OCORRÊNCIA. DOCUMENTOS CARREADOS AOS AUTOS QUE SÃO SUFICIENTES PARA O JULGAMENTO DA LIDE. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. ART. 371 DO CPC/2015 (CORRESPONDENTE AO ART. 131 DO CPC/1973). RECURSO DESPROVIDO NO PONTO.
+"A valoração objetiva dos elementos probatórios é ato consciente e reflexivo do juiz, sobrepondo-se, obviamente, à convicção dos litigantes, porquanto, conforme o art. 131 do Código de Processo Civil, é ele o destinatário das provas produzidas no processo, cabendo-lhe, por isso mesmo, o livre exame delas, observada a diretriz da persuasão racional e o dever de motivação do decisório conseqüente." (Apelação Cível n. 2005.003552-7, de Porto União, rei. Des. Eládio Torret Rocha, j. 4-6-2009).
+AVENTADA INTEMPESTIVIDADE DA CONTESTAÇÃO.INOCORRÊNCIA. EVENTUAL REVELIA, ADEMAIS, QUE NÃO INDUZ A IMEDIATA PROCEDÊNCIA DO PEDIDO. PRETENSÃO TRAZIDA A JUÍZO QUE DEVE SER ANALISADA À LUZ DA RAZOABILIDADE E DOS DEMAIS ELEMENTOS CONSTANTES NOS AUTOS. REQUERIMENTO AFASTADO.
+"É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que a presunção de veracidade dos fatos alegados pelo autor em razão da ocorrência da revelia é relativa, sendo que para o pedido ser julgado procedente o juiz deve analisar as alegações do autor e as provas produzidas." (AgRg no AREsp 537.630/SP, rei. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 4-8-2015).
+MÉRITO. CELEBRAÇÃO DE CONTRATO DE CESSÃO DE DIREITOS PARA REPOSIÇÃO FLORESTAL. AUTORA/APELANTE QUE ATUA NO RAMO DE EXPLORAÇÃO DE MADEIRA. E POSSUI A OBRIGAÇÃO DE PROMOVER O REFLORESTAMENTO. NOS TERMOS DA PORTARIA N. 302-P/IBDF, DE 3-7-1984, VIGENTE À ÉPOCA. PACTUAÇÃO COM A EMPRESA REQUERIDA, QUE DESENVOLVE PROJETO DE REFLORESTAMENTO, OBJETIVANDO CESSÃO DOS DIREITOS DE CRÉDITO DE REPOSIÇÃO FLORESTAL ALEGADO O INADIMPLEMENTO DO CONTRATO DE CESSÃO. POR MOTIVO DA AUSÊNCIA DE PAGAMENTO DO PRODUTO DA VENDA DAS ÁRVORES. DESCABIMENTO. AVENÇA QUE PREVÊ APENAS CESSÃO DE CRÉDITO DE REPOSIÇÃO FLORESTAL E NÃO DIREITO A AQUISIÇÃO DAS ÁRVORES DO REFLORESTAMENTO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. PLEITO DE REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. QUANTIA ARBITRADA NA SENTENÇA QUE ATENDE AOS PARÂMETROS DO ART. 20, § 3o, DO CPC/1973). APELO DESPROVIDO NO PONTO. PREQUESTIONAMENTO. DESNECESSIDADE DE MANIFESTAÇÃO EXPRESSA ACERCA DE DETERMINADOS DISPOSITIVOS LEGAIS. ANÁLISE REALIZADA EXPLÍCITA OU IMPLICITAMENTE. AUSÊNCIA DE OFENSA AO ART. 489 DO CPC/2015. RECURSO CONHECIDO E DESPROVIDO.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos da decisão denegatória de seguimento do recurso especial (Súmula 182/STJ).
+Agravo interno: a agravante alega que rebateu todos fundamentos da decisão denegatória de processamento do recurso e requer a sua reconsideração.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+O agravo interno não merece acolhida, porquanto os argumentos deduzidos nas razões recursais pelo agravante são incapazes de alterar o julgado.
+Conforme anteriormente relatado, a decisão agravada não conheceu do recurso especial interposto pela agravante, aplicando a Súmula 182/STJ, haja vista que não teria ocorrido a impugnação dos fundamentos da decisão denegatória do apelo nobre.
+De fato, a agravante não demonstrou que, nas razões do agravo em recurso especial, impugnou a incidência do óbice da Súmula 83/STJ.
+Outrossim, cumpre ressaltar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela aplicação do enunciado n. 83/STJ, é imprescindível que a parte agravante demonstre que as razões de decidir do acórdão recorrido estariam em discordância com o entendimento desta Corte, por meio de julgados recentes e possuidores da mesma base fática, procedimento que não foi adotado na presente hipótese.
+Ante o exposto, diante da não impugnação dos fundamentos da decisão agravada, deve ser mantido o óbice da Súmula 182/STJ.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
