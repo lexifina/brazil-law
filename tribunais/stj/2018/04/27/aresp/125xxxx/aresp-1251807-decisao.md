@@ -1,0 +1,14 @@
+EMENTA
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA AFASTADA NA ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão que enfrenta acórdão assim ementado (fls. 157):
+EMENTA EMBARGOS À EXECUÇÃO FISCAL - Meio ambiente - Execução proposta com base em auto de infração ambiental, com imposição de multa, consistente no depósito de resíduos sólidos irregular -Aplicação da responsabilidade objetiva e da teoria do risco da atividade da empresa - Inexistência de provas suficientes para afastar o encargo - Presunção de veracidade do ato administrativo não elidida -Recurso improvido.
+No apelo especial, a parte recorrente alega ofensa do artigo 442 do CPC/2015, na medida em que caracteriza cerceamento de defesa, já que a prova testemunhal possuia informações precisas e de fundamental importância para a demandada.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+É cediço nesta Corte que inocorre cerceamento de defesa quando desnecessária a produção da prova pretendida.
+Frise-se, por oportuno, que, segundo o princípio da persuasão racional ou da livre convicção motivada do juiz, a teor do que dispõe o art. 131 do Código de Processo Civil, cabe ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, competindo-lhe, pois, rejeitar diligências que delonguem desnecessariamente o julgamento, de forma a garantir a observância do princípio da celeridade processual, razão pela qual não merece prosperar a alegação de violação à lei federal nessa parte.
+No caso concreto, o Tribunal a quo, com base na análise do acervo fático-probatório dos autos, asseverou que "não seria hábil a arredar a presunção de veracidade e de legitimidade do ato administrativo em questão , com afastamento da responsabilidade objetiva e do risco da atividade. Neste ponto, anote-se que o julgamento antecipado não trouxe cerceamento de defesa, havendo prova suficiente ao livre convencimento do juízo, pois a oportunidade de apresentação de documentos que configurassem prova efetiva, tanto no âmbito administrativo quanto no judicial , foi assegurada à recorrente, mas não foi suficiente a afastar a improcedência dos embargos, que não vieram acompanhados de indícios para não considerar a aludida responsabilidade objetiva" (fls. 159).
+Mostra-se, portanto, inviável o seguimento da pretensão recursal quanto à análise da suposta violação, pois necessário o reexame do conjunto fático-probatório dos autos para se obter entendimento diverso do exarado pelo Tribunal a quo, o que é obstado pela Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se. Intimem-se.
