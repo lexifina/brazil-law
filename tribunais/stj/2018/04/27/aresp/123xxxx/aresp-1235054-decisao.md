@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. OMISSÃO. AUSÊNCIA. JULGAMENTO ESTADUAL DEVIDAMENTE FUNDAMENTADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL, com fundamento na alínea a do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fls. 628-635):
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI. CUMPRIMENTO DA SENTENÇA. SALDO APURADO. DEDUÇÃO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS. MATÉRIA PRECLUSA. NECESSIDADE.
+1. A matéria relativa ao necessário desconto das contribuições previdenciárias foi discutida e sedimentada neste feito quando do julgamento do agravo de instrumento n.º [CPF].
+2. Portanto, descabe rediscutir a questão neste momento processual, tendo em vista que aquela está sujeita a preclusão, cabendo apenas a verificar se o cálculo apresentado atendeu às precitadas disposições.
+3. Assim, o cálculo apresentado pela parte recorrida não procedeu os descontos previdenciários, sob o argumento de que as contribuições encontravam-se suspensas em janeiro de 2007.
+4. Contudo, a questão foi levada a apreciação no julgamento do supracitado recurso, tendo sido julgado totalmente procedente, sem qualquer ressalva quanto à suspensão das contribuições. Ao contrário, foi referido que eram necessárias a deduções sobre a totalidade do quantum devido, de sorte a ser mantido o equilíbrio atuarial na relação, o
+que ocorre com o prévio custeio das parcelas a serem percebidas quando da aposentação.
+5. Por outro lado, ressalta-se que o custeio prévio das parcelas que a parte ora executa foi relativizado, em razão do entendimento jurisprudencial consolidado à época, no sentido de que reconhecida a omissão de receita no cálculo do benefício relativo à suplementação de aposentadoria traz como conseqüência que a contribuição previdenciária poderia ser descontada quando do pagamento desta, razão pela qual devem ser deduzidas as contribuições previdenciárias dos valores que a parte beneficiária do plano de previdência tem a receber, mesmo que ocorra em momento posterior.
+Dado provimento ao agravo de instrumento
+
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 667-675).
+No recurso especial, a recorrente apontou violação dos arts. 489, § 1º, IV, e 1.022 do novo Código de Processo Civil.
+Esclareceu que se insurgiu contra o julgado estadual de agravo de instrumento interposto contra decisão em cumprimento de sentença que homologou o cálculo apresentado pelos agravados. Ponderou que a prestação jurisprudencial não foi feita em sua plenitude, configurando-se omissa, haja vista que não enfrentou a questão acerca da cobrança pelos recorridos em duplicidade de valores, em determinado período, culminando com excesso de execução. Enfatizou que, no cálculo apresentado, não teriam sido considerados os valores pagos diretamente no benefício dos autores (e-STJ, fls. 680-689).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 736-753).
+Contraminuta apresentada (e-STJ, fls. 713-720 e 769-775).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento da segunda instância, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do novo CPC. A decisão estadual dirimiu a causa com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+Conforme se depreende dos autos, o Tribunal de Justiça enfrentou, de forma motivada, a questão ora suscitada pela embargante. Esclareceu, inclusive, nos embargos de declaração, que "a documentação acostada pela parte embargante não tem o condão de impor a homologação do cálculo que apresentou. Um simples contracheque, de um único mês não possibilita aferir que  há  reincorporação da parcela no benefício previdenciário" (e-STJ, fl. 669).
+Portanto, com base na apreciação fático-probatória da causa, estabeleceu-se que era incabível o acolhimento da questão acerca do excesso de execução no tocante à duplicidade de cobrança de valores, pois as provas juntadas pela embargante seriam insuficientes para acolher sua pretensão. Aplicação da Súmula 7/STJ, obstando o conhecimento do apelo especial.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
