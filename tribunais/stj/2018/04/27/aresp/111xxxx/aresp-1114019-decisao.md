@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] BRASIL INDÚSTRIA E COMÉRCIO LTDA. contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 168/169):
+"MANDADO DE SEGURANÇA - CIRCULAR 2.172/92 BACEN - LEGALIDADE - IMPORTAÇÃO DE MERCADORIA ESTRANGEIRA - COMPRA DE MOEDA ESTRANGEIRA - MERCADO DE CÂMBIO OFICIAL E MERCADO FLUTUANTE.
+I - Há previsão constitucional de que o Presidente da República pode delegar, em determinadas matérias, a atribuição do poder de regulamentação, conforme previsto no art. 84, § único, da Constituição Federal.
+II - Nessa realidade, uma das áreas mais sensíveis ao poder regulamentar é a que abrange as instituições financeiras, sujeitas ao cumprimento das leis, e submetidas a ampla regulamentação.
+III - O sistema financeiro dispõe de normas estruturais formuladas pelo Legislativo, porém, estão sujeitas a regulamentação que lhes dão efetividade e dinamismo, especialmente no mercado de câmbio, posto que este, a todo tempo, está exposto a surpresas advindas do mercado internacional.
+IV - O poder regulamentar do Banco Central do Brasil na execução da política econômica e monetária é monitorar o mercado financeiro, intervindo quando preciso, determinando medidas que compatibilizem os mecanismos de estabilização da moeda e preservem os interesses do País em face do mercado internacional de moedas.
+V - O mercado de taxas flutuantes prevê a possibilidade de alterações, divulgadas por meio de circular, cuidando-se de ato discricionário de autoridade administrativa, com a necessária avaliação de conveniência e oportunidade.
+VI - A importação de mercadoria estrangeira contratada entre empresas e a compra de moeda estrangeira perante o Banco Central são operações distintas, estando esta última sujeita a alterações regulamentares que preservem o interesse nacional.
+VII- Apelação a que se nega provimento."
+Embargos de declaração rejeitados (e-STJ fls. 177/182).
+No especial obstaculizado, o ora agravante, além de divergência jurisprudencial, apontou violação ad art. 535, II, do CPC/1973, ao argumento de que o acórdão recorrido teria sido omisso acerca das seguintes questões:
+a) derrogação da competência do Poder Executivo em disciplinar matéria cambial, por força do art. 25 do ADCT; b) não aplicação do mercado flutuante em razão da destinação diversa do propósito a que se vinculava; c) inaplicabilidade da Circular do BACEN n. 2.172/1992, ante a inocorrência de mora; d) ofensa ao princípio da legalidade, por violação dos arts. 22, VII, e 48, XIII, da CF/1988; e) ofensa ao ato jurídico perfeito e ao direito adquirido (art. 5º, XXXVI, da CF/1988.
+Sustentou que, por se tratar de pontos relevantes para o deslinde da controvérsia, a ausência de manifestação do Tribunal a quo configura negativa de prestação jurisdicional e inviabiliza o acesso às Cortes Superiores (e-STJ fls. 188/200).
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 232/234), o que desafiou a interposição do presente agravo (e-STJ fls. 236/248).
+Contraminuta às e-STJ fls. 252/256.
+Parecer ministerial às e-STJ fls. 265/268.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+De início, verifica-se, a partir da própria ementa do julgado recorrido, que o Tribunal a quo decidiu a controvérsia mediante fundamentação constitucional e infraconstitucional, ambas suficientes e autônomas à preservação do decisum.
+Todavia, a recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial manejado, sendo esse manifestamente inadmissível, nos termos da Súmula 126 do STJ.
+A propósito, consulte-se o AgInt no AREsp n. 295.982/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe 02/09/2016 e AgInt no REsp n. 1.584.711/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe 08/09/2016.
+Importa registrar o que decidiu o Tribunal de origem (e-STJ fls. 165/167):
+"O princípio da legalidade é regra constitucional que, porém, não exclui o poder regulamentar do Presidente da República, nos termos do art. 84, IV, da Constituição Federal.
+Há igualmente a previsão constitucional de que o Presidente da República pode delegar, em determinadas matérias, a atribuição do poder de regulamentação, conforme previsto no art. 84, § único, da CF.
+Nessa realidade, uma das áreas mais sensíveis ao poder regulamentar é a que abrange as instituições financeiras, sujeitas ao cumprimento das leis, e submetidas a ampla regulamentação.
+Donde o poder normativo do Conselho Monetário Nacional e do Banco Central do Brasil, em matérias que reclamam urgentes e imediatas soluções, como é o mercado de câmbio.
+Assim, pode-se dizer que o sistema financeiro dispõe de normas estruturais formuladas pelo Legislativo, porém, estão sujeitas a regulamentação que lhes dão efetividade e dinamismo, especialmente no mercado de câmbio, posto que este a todo tempo está exposto a surpresas advindas sobretudo do mercado internacional.
+Dessa forma, o poder regulamentar do Banco Central do Brasil, na execução da política econômica e monetária é monitorar o mercado financeiro, intervindo quando preciso, determinando medidas que compatibilizem os mecanismos de estabilização da moeda e preservem os interesses do País em face do mercado internacional de moedas. Para tanto, age como autoridade monetária, administrando as reservas monetárias externas e gerenciando o câmbio.
+O inciso III do art. 11, da Lei nº 4.595/64, estabelece:
+"Art. 11. Compete ao Banco Central do Brasil:
+III - atuar no sentido de funcionamento regular do mercado cambial, da estabilidade relativa das taxas de câmbio e do eqidlíbrio no balanço de pagamento, podendo para esse fim comprar e vender ouro e moeda estrangeira, bem como realizar operações de crédito no exterior, inclusive as referentes aos Direitos Especiais de Saque e separar os mercados de câmbio financeiro e comercial;"
+Dentro da lógica do sistema, para exercer a competência acima expressa, deverá o Banco Central do Brasil atentar para as normas do Conselho Monetário Nacional, a quem incumbe, nos termos do art. 4º, inciso XXXI, da mesma Lei 4.595/64:
+"Art. 4º. Compete ao Conselho Monetário Nacional, segundo diretrizes estabelecidas pelo Presidente da República:
+XXXI - Baixar normas que regulem as operações de câmbio, inclusive "swaps" fixando limites, taxas, prazos e outras condições."
+É possível ao BACEN estabelecer as taxas de câmbio, diante da delegação outorgada no inciso XVIII do art. 4º da Lei 4595/64, não sendo demais transcrevê-lo:
+"Art. 4º. Compete ao Conselho Monetário Nacional, segundo diretrizes estabelecidas pelo Presidente da República:
+XVIII - Outorgar ao Banco Central do Brasil o monopólio das operações de câmbio quando ocorrer grave desequilíbrio no balanço de pagamento ou houver sérias razões para prever a iminência de tal situação."
+Bem se vê, na interpretação das normas que disciplinam o Sistema Financeiro Nacional, deve-se ter em conta a possibilidade de delegação, diante da necessidade de rapidez de decisão operações cambiais, não podendo se dizer que, na espécie, foi desatendido o princípio da legalidade.
+A tarefa delegada ao BACEN tem supedâneo no arcabouço jurídico brasileiro, visando prevenir desequilíbrios no balanço de pagamento.
+O mercado de taxas flutuantes prevê a possibilidade de alterações, divulgadas por meio de circular, cuidando-se de ato discricionário da autoridade administrativa, com a necessária avaliação de conveniência e oportunidade.
+A importação de mercadoria estrangeira contratada entre empresas e a compra de moeda estrangeira perante o Banco Central são operações distintas, estando esta última sujeita a alterações regulamentares que preservem o interesse nacional.
+Cumpre ressaltar, ainda, que é assente na jurisprudência que não cabe a esta Corte Superior, a pretexto de ofensa ao art. 535 do CPC/1973, analisar suposta omissão quanto a dispositivos constitucionais, haja vista tratar-se de matéria reservada ao STF, em sede de recurso extraordinário.
+Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/03/2017, DJe 29/03/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. ESTABILIDADE FINANCEIRA. DIFERENÇA DE PARCELAS. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/1973 OU DO ART. 1.022 DO CPC/2015. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS, TIDOS POR VIOLADOS. IMPOSSIBILIDADE, NA VIA ESPECIAL, PELO STJ. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF.
+1. Aponta-se violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, nos seguintes termos: "Resta evidente que o v. acórdão guerreado vulnerou o disposto no art. 535, II, do CPC (art. 1.022, II do CPC/15), eis que deveria ter suprido as omissões de pontos sobre os quais caberia ao E. Tribunal a quo pronunciar-se e que foram objeto do agravo legal e dos embargos de declaração opostos precisamente com o fim de obter o prequestionamento explícito do art. 2º, art. 37, caput e incisos X e XIII; art. 61, §1º, II, "a", art. 169, §1º, incisos I e II, art. 165, § 8º, e art. 167, incisos I, II, V, VI e VII, todos da CF/88". (fl. 320, e-STJ).
+2. Ressalta-se que não cabe ao STJ, a pretexto de violação ao art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão quanto a dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do Recurso Extraordinário.
+3. Ademais, a controvérsia em exame remete à análise de Direito local, revelando-se incabível a via recursal especial para rediscussão da matéria, ante a incidência da Súmula 280 do STF.
+4. Recurso Especial não conhecido.
+(REsp 1659614/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2017, DJe 19/06/2017)
+Por fim, é inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do art. 105, III, da CF), quando o recorrente não demonstra o alegado dissídio jurisprudencial, nos termos dos arts. 541, parágrafo único, do CPC/1973 e 255, §§ 1º e 2º, do RISTJ, não bastando "a mera transcrição de ementas ou de excertos do julgado alegadamente dissidente, sem exposição das circunstâncias que identifiquem ou assemelhem os casos confrontados." (AgRg no AREsp 738.599/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 23/02/2016).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se.
+Intimem-se.
