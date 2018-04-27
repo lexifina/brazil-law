@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento no artigo 105, III, "a" e "c" , da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região, assim ementado (fl. 2589/2590):
+ADMINISTRATIVO. AÇÃO POPULAR. IMPROBIDADE ADMINISTRATIVA. EX- PREFEITO. CONVÊNIO. MINISTÉRIO DA INTEGRAÇÃO. LEI N" 8.429/1992. CONSTRUÇÃO DE CISTERNAS.
+I. Na hipótese, ex-prefeito recorre de sentença que julgou procedente o pedido inicial formulado em ação popular, para declarar nulo o contrato firmado entre o Município de Poçinhos/PB e a CONSTRUTORA CAIÇARA LTDA. referente ao Convênio nº 621/2001, relativo a construção de 130 cisternas na área rural do Município e condenar o apelante e demais réus a restituir, de forma solidária, o valor de R$ 136.190,47 em. favor da UNIÃO e R$ 6.809,53 em favor do ente Municipal, acrescidos de juros de mora e correção monetária.
+II. No que atine à preliminar de inadequação da via eleita, estão presentes os requisitos para processamento da presente ação popular, porquanto, em consonância com o disposto na lei n" 4717/65, esta objetiva anular atos supostamente ilegais e lesivos ao patrimônio público e à moralidade administrativa, que teriam sido perpetrados na execução do Convênio n" 621/2001, do Município de Poçinhos/PB.
+III. Quanto à nulidade da decisão que indeferiu a colheita da prova testemunhal requerida pelo apelante, a mesma está escoimada no princípio da economia processual, segundo o qual o juiz tem o poder/dever de indeferir as diligências inúteis ou meramente protelatórias, na condução do processo. Na espécie, as provas colacionadas aos autos são suficientes à elucidação dos fatos, não importando seu indeferimento prejuízo à defesa do réu.
+IV. O autor popular, ex-vereador do Município, afirma que o ex-prefeito estaria relacionando como tendo sido executadas pelo aludido Convênio, cisternas já construídas através de outras parcerias. Afirma que a gestão não obteve a aprovação da Corte de Contas, e que as empresas contratadas nunca atuaram na região na execução do contrato licitado.
+V. No entanto, a construção e conclusão integral das obras foi atestada pela auditoria do Tribunal de Contas do Estado, no relatório DECOP/DICOP Nº624/09, instruído com fotos georeferenciadas das cisternas licitadas. O mesmo relatório cita Nota do Ministério da Integração informando que a SEDEC (Secretaria Nacional de Defesa Civil) emitiu o Parecer Técnico nº 8/2007/DRR/JLDF, de 15/3/2007, "considerando atingida 100% das metas físicas do Convênio. De semelhante modo, o TCU também decidiu pela regularidade das contas relativas ao aludido convênio.
+VI. Portanto, como não há provas da utilização dissimulada de obras de um convênio para prestação de contas de um convênio diverso e os relatórios das auditorias realizadas indicam que as obras foram realizadas a preços compatíveis com os de mercado, entende-se pela improcedência das acusações em relação ao ex-prefeito.
+VII. Apelação provida, para julgar improcedente a ação em relação ao réu ADRIANO CESAR GALDINO DE ARAUJO. Agravo retido improvido.
+Embargos de declaração rejeitados.
+Embargos infringentes rejeitados.
+O recorrente alega violação à legislação federal e dissídio jurisprudencial.
+Com contrarrazões.
+Juízo positivo de admissibilidade à fl. 2909.
+Parecer do MPF às fls. 2925/2938.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Quanto à questão da suposta ilicitude do procedimento licitatório e a possibilidade de o objeto do ajuste não ter sido totalmente executado, o recorrente não indicou os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+O dissídio jurisprudencial não foi demonstrado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, §§ 1º e 2º do RISTJ, pois não realizado o devido cotejo analítico. Imprescindível a apresentação objetiva do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como suficiente, a simples transcrição de ementa ou voto.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
