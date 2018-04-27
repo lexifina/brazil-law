@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pela Defensoria Pública do Estado de São Paulo contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça local, está assim ementado:
+    “Agravo de Instrumento Ação civil pública ambiental – Deferimento, pelo juízo, de realização de prova pericial – Inversão do ônus da prova, com base no art. 21, da Lei nº 7.347/85, e no art. 6º, inciso VIII, do CPC – Admissibilidade – Responsabilidade, pelo pagamento das despesas decorrentes da produção da prova pericial, da parte que a requereu, ou, se determinada pelo Juízo, do autor da ação – Aplicação dos arts. 19, § 2º, e 33, do CPC – Recurso provido, em parte, com observação.”
+    A parte ora recorrente sustenta, no apelo extremo em questão, que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional  (Código de Processo Civil), circunstância esta que obsta o próprio conhecimento do apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem estritamente infraconstitucional:
+    “No que diz respeito à responsabilidade pelo pagamento das despesas para a produção da prova pericial, a jurisprudência do E. STJ vem se consolidando no sentido de que a inversão do ônus não implica, necessariamente, na inversão da obrigação de arcar com os honorários periciais: ‘o ônus probatório não se confunde com o dever do Ministério Público arcar com os honorários periciais nas provas por ele requeridas, em ação civil pública. São questões distintas e juridicamente independentes.’
+    O art. 19, do CPC, por sua vez, estabelece que:
+    ‘Salvo as disposições concernentes à justiça gratuita, cabe às partes prover as despesas dos atos que realizam ou requerem no processo, antecipando-lhes o pagamento desde o início até a sentença final; e bem ainda na execução, até a plena satisfação do direito declarado na sentença.
+    …..........................................................................................
+    § 2º. Compete ao autor adiantar as despesas relativas a atos cuja realização o juiz determinar de ofício ou a requerimento do Ministério Público.’
+    E, o art. 33, do CPC, que:
+    ‘Cada parte pagará a remuneração do assistente técnico que houver indicado; a do perito será paga pela parte que houver requerido o exame, ou pelo autor, quando requerido por ambas as partes ou determinado de ofício pelo juiz.’
+    …...................................................................................................
+    Observa-se, por oportuno, que, mesmo sendo admitida a inversão do ônus da prova, na ação civil pública, cujo objeto é a preservação e conservação do meio ambiente, com base no art. 21, da Lei nº 7.347/85, e no art. 6º, inciso VIII, do CPC, tal disposição não retira da autora, ora agravada, a obrigação de produzir as provas dos fatos constitutivos do seu direito, como dispõe o art. 333, I, do CPC.”
+    Vê-se, desse modo, que o apelo extremo deduzido nestes autos não se revela viável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
