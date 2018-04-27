@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos (e-STJ fl. 800):
+EMBARGOS INFRINGENTES - TRÁFICO DE DROGAS - ABSOLVIÇÃO - IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA COMPROVADAS - DESTINAÇÃO MERCANTIL DA DROGA EVIDENCIADA - CONDENAÇÃO MANTIDA. EMBARGOS NÃO ACOLHIDOS.
+- Sobejamente demonstradas a materialidade e autoria delitiva, incabível a absolvição.
+V.V: EMBARGOS INFRINGENTES - FRAGILIDADE DE PROVAS - ABSOLVIÇÃO. Revela-se escorreita a solução absolutória quando as provas coligidas não demonstram segurança e certeza acerca da responsabilidade penal do acusado.
+Nas razões do especial, fulcrado na alínea "a" do permissivo constitucional, sustenta a Defensoria Pública que o recorrente faz jus à redução da pena privativa de liberdade, uma vez que a confissão, ainda que qualificada ou parcial, garante ao réu o direito subjetivo à aplicação da atenuante prevista do art. 65, III, "d", do Código Penal.
+Contra-arrazoado (e-STJ fls. 826/833) o recurso foi admitido (e-STJ fls. 834/835), manifestando-se o Ministério Público Federal pelo desprovimento do apelo (e-STJ fls. 852/858), nos termos da seguinte ementa:
+RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES.
+DOSIMETRIA DA PENA.
+1. Não incide a atenuante relativa à confissão espontânea se o agente não reconhece a prática do crime descrito na denúncia.
+2. Parecer pelo não provimento do apelo.
+É o relatório. Decido.
+O recurso é tempestivo e a matéria encontra-se prequestionada.
+Inicialmente, registre-se que, nos termos da Súmula n. 568 desta Corte, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No caso, sem razão o recorrente.
+É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que a confissão do acusado, ainda que parcial, condicionada ou posteriormente retratada, enseja a incidência da atenuante prevista no art. 65, inciso III, alínea d, do Código Penal, desde que utilizada como fundamento para a condenação.
+E o enunciado da Súmula n. 545/STJ dispõe que: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal".
+No caso, colho do acórdão dos embargos de declaração (e-STJ fls. 765/768):
+ALEXANDRE [NOME], na fase extrajudicial, não admitiu o seu envolvimento com o tráfico ilícito de drogas. Ao revés, buscando atenuar a sua responsabilidade penal, afirmou ser apenas usuário de drogas, nos seguintes termos:
+"QUE está sendo assistida pelo Advogado Dr. [NOME], [OAB]; QUE o declarante trabalha como pedreiro e está trabalhando em uma obra no Bairro Marconi; QUE o "Marcinho" é mestre de obra e está gerenciando a obra onde o declarante está trabalhando para entregar a mesma ao seu proprietário final; QUE o declarante costuma ficar homiziado naquela obra; QUE na noite de ontem o declarante se encontrou com um indivíduo de nome Fernando da cidade de Trigs Corações, o qual pediu ao declarante para guardar para ele alguns pinos de cocaína e. em troca o declarante ganharia "10 pinos para cheirar"; QUE o declarante permitiu que Fernando guardasse a droga na obra, "shekel meus pinos e fui dormir"; QUE Fernando deveria ter pego a droga hoje, mas a Policia compareceu na obra na data de hoje e encontrou as drogas; "QUE o local onde as drogas foram encontradas é um cómodo aberto com acesso para qualquer pessoa; QUE o declarante se declara usuário de drogas: QUE o declarante já foi preso por tráfico de drogas, sendo que está em liberdade há poucos meses" (fl. 07) (Destaque nosso).
+Sob o crivo do contraditório, ALEXANDRE retificou as declarações prestadas perante a Autoridade Policial, limitando-se a negar a prática do delito de tráfico de drogas e de associação para o tráfico, nos seguintes termos:
+"(..)que não são verdadeiros os fatos narrados na denúncia de folhas 02/04 (..) que bateu uma lage na obra do Ezequiel e que na sexta - feira foi trabalhar na obra em que foi preso" (fl. 247).
+Ora, conforme se depreende dos excertos acima, ALEXANDRE não admitiu a prática do delito de tráfico de entorpecentes, tendo, na fase extrajudicial, apresentado confissão qualificada, modalidade inapta ao reconhecimento da atenuante insculpida no art. 65, inc. III al. "d", do Código Penal. Explico:
+A confissão para servir como atenuante genérica precisa ser voluntária, ou seja, livre de qualquer coação.
+Assim, posiciona-se o SUPERIOR TRIBUNAL DE JUSTIÇA:
+"(..) A teor do entendimento desta corte, a atenuante genérica da confissão, prevista no art. 65, inciso Ill, alínea "d" do Código Penal, tem caráter objetivo, bastando que seja voluntária, não importando o caráter das situações em que foi efetivada a confissão (..)"(HC 111.641/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 24/11/2008, DJe 15/12/2008) (Destaque nosso) (Destaque nosso).
+"HABEAS CORPUS. INCIDÊNCIA DA ATENUANTE PREVISTA NO ART 65, III, "D", DO CÓDIGO PENAL.
+REQUISITOS MERAMENTE OBJETIVOS. DISTINÇÃO ENTRE ESPONTANEIDADE E VOLUNTARIEDADE.
+IRRELEVÂNCIA EM FACE DA REFORMA DO CÓDIGO PENAL DE 1984. 1. A reforma do Código Penal de 1984 modificou a base de reconhecimento da atenuante prevista em seu art. 65, lll, "d", procurando o legislador beneficiar o agente que colabora com a celeridade da
+Justiça na busca da verdade real, conforme se depreende da respectiva Exposição de Motivos Item 55:
+"Beneficia-se, como estimulo à verdade processual, o agente que confessa espontaneamente, perante a autoridade, a autoria do crime , sem a exigência. em vigor, de ser a autoria "ignorada ou imputada a outrem". 2. A confissão espontânea prevista no texto legal hoje é de caráter meramente objetivo, não fazendo a lei referência alguma a motivos ou circunstâncias que cercaram a prática do crime, incidindo a atenuante, assim, todas as vezes em que o acusado admitir sua participação na ação delituosa. 3. Ordem concedida. (HC 22095/MS, Rel. Ministro PAULO GALLOTTI, SEXTA TURMA, julgado em 12/11/2002, DJ 04/0812003, p. 433) (Destaque nosso).
+Além disso, exige-se que a confissão seja relativa à autoria (em sentido amplo, para abranger a autoria propriamente dita e a participação) e que seja prestada perante a autoridade pública envolvida na persecução penal.
+No caso sub judice, o réu, na fase administrativa, como visto alhures, confessou a posse de substância entorpecente para uso pessoal, mas não o delito de tráfico de drogas (fl. 07).
+Tal confissão, denominada confissão qualificada, não caracteriza a atenuante genérica prevista no art. 65, inc. I, alínea "d", do Estatuto Repressivo, uma vez que nesta o acusado não reconhece a autoria do fato típico, mas procura minimizar a sua responsabilidade penal.
+Nesta hipótese, o réu tem por finalidade exercer a sua autodefesa e não contribuir para a verdade real.
+Logo, inexistindo lealdade processual, não pode a confissão qualificada ser reconhecida como atenuante.
+Como se pode observar pelos trechos acima transcritos, não houve a confissão do acusado, não havendo que se falar em reconhecimento da atenuante prevista no art. 65, III, "d", do Código Penal.
+A propósito do tema, vale destacar os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ATENUANTE DA CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial, ou mesmo que tenha havido posterior retratação. Inteligência da Súmula n. 545 do STJ.
+2. O acusado, em nenhum momento, admitiu a prática do delito, limitando-se, basicamente, a afirmar que a droga apreendida pertencia a terceiro e que a substância estava em seu estabelecimento comercial (um bar) contra a sua vontade, motivo pelo qual não há como ser aplicada a atenuante da confissão espontânea em seu favor.
+3. Agravo regimental não provido. (AgInt no AREsp 1153574/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CONFISSÃO ESPONTÂNEA. INCIDÊNCIA. IMPOSSIBILIDADE. RECONHECIMENTO DA PROPRIEDADE DA DROGA PARA USO PESSOAL. TRAFICÂNCIA NÃO CONFESSADA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, se a confissão do réu, ainda que parcial (qualificada) ou retratada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante (HC 237.252/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 26/2/2014).
+2. Todavia, no caso dos autos, embora o réu tenha reconhecido a propriedade da droga apreendida, não confessou a prática do crime de tráfico de drogas, afirmando ser mero usuário.
+3. É firme nesta Corte Superior o entendimento de que a incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não sendo apta para atenuar a pena a mera admissão da propriedade para uso próprio. Nessa hipótese, inexiste, nem sequer parcialmente, o reconhecimento do crime de tráfico de drogas, mas apenas a prática de delito diverso. Precedentes.
+4. Agravo regimental ao qual se dá provimento. (AgRg no REsp 1417551/SC, Rel. Ministro NEFI CORDEIRO, Rel. p/ Acórdão Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 12/12/2017)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONFISSÃO ESPONTÂNEA. INCIDÊNCIA. IMPOSSIBILIDADE. RECONHECIMENTO DA PROPRIEDADE DA DROGA PARA USO PESSOAL. TRAFICÂNCIA NÃO CONFESSADA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, se a confissão dos réus, ainda que parcial (qualificada) ou retratada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante (HC 237.252/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 26/2/2014).
+2. No caso dos autos, embora o paciente tenha reconhecido a propriedade da droga apreendida, não confessou a prática do crime de tráfico de drogas, afirmando ser mero usuário.
+3. É firme nesta Corte Superior o entendimento de que a incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não sendo apta para atenuar a pena a mera admissão da propriedade para uso próprio. Nessa hipótese, inexiste, sequer parcialmente, o reconhecimento do crime de tráfico de drogas, mas apenas a prática de delito diverso.
+4. Agravo regimental a que se nega provimento. (AgRg no HC 351.962/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/06/2017, DJe 01/08/2017)
+Ante o exposto, com fundamento no art. 932, IV, do CPC, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+Intime-se.
