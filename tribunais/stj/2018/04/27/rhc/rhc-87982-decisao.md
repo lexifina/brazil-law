@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por [NOME], de próprio punho, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n.º 0010069-04.2017.8.26.0000).
+Da análise da confusa petição, depreende-se que pretende o ora recorrente a remição pelo tempo em que se encontra preso na Penitenciária Nestor Canoa de Mirandópolis I, a qual não lhe oferece a oportunidade de participar das poucas atividades laborterápicas disponíveis naquela unidade prisional.
+O tribunal de origem denegou a ordem, consignando que "o paciente teve remidas suas penas de acordo com as horas trabalhadas e de estudo, não havendo notícias de impedimento ao exercício do labor, conforme alegado na inicial".
+Em atendimento à cota ministerial, deu-se vista à Defensoria Pública, que, por meio da petição de fl. 46, solicitou o encaminhamento da petição subscrita pelo ora recorrente para o juízo da execução penal competente para eventuais providências.
+Às fls. 50-55, o Ministério Público Federal manifestou-se pelo não conhecimento do writ, em parecer assim sintetizado:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. RECORRENTE ATUANDO EM CAUSA PRÓPRIA. AUSÊNCIA DE CAPACIDADE POSTULATÓRIA. POSSIBILIDADE. INTERPOSIÇÃO DIRETA PERANTE O STJ. NÃO CABIMENTO. EXECUÇÃO PENAL. REMIÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. NÃO CONHECIMENTO.
+Não há como prosperar a irresignação.
+No que tange ao presente "recurso ordinário", observa-se sua interposição diretamente nesta Corte Superior, e não perante o tribunal de origem, em clara dissonância procedimental legal.
+Com efeito, a competência do Superior Tribunal de Justiça para julgamento do recurso ordinário, conforme previsão do art. 105, inciso II, alínea "a", da Constituição Federal, reclama a forma de procedimento estatuída em lei, a qual submete a interposição perante o próprio Tribunal no qual a ordem de habeas corpus foi denegada. Assim, diante da irregularidade procedimental, tenho por incabível o recurso ordinário.
+Ressalte-se, ademais, não ser possível, no caso, conhecer do pleito como habeas corpus, uma vez que a questão suscitada não é eminentemente de direito.
+In casu, como assinalou o parecer ministerial, não há como acolher o pleito formulado pelo ora recorrente sem ampla dilação probatória, inviável na via angusta do habeas corpus, na medida em que o tribunal a quo asseverou que não há "notícias de impedimento ao exercício do labor, conforme alegado na inicial".
+Confira-se, a propósito, o seguinte julgado:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO E TUMULTO PRATICADOS EM RAZÃO DE EVENTO FUTEBOLÍSTICO. INCOMPETÊNCIA DO JUÍZO. NÃO CONFIGURAÇÃO. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA EM DESFAVOR DE TRÊS ACUSADOS. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. EXTENSÃO DOS EFEITOS DO DECISUM QUE FIXOU CAUTELARES DIVERSAS A CORRÉU. IMPOSSIBILIDADE. SITUAÇÃO FÁTICA DIVERSA. REVOGAÇÃO DAS MEDIDAS CAUTELARES. IMPOSSIBILIDADE. ANTECIPAÇÃO DA PENA. NÃO CONFIGURAÇÃO. RECURSO NÃO PROVIDO.
+1. A Lei n. 10.671/2006 (Estatuto do Torcedor) prevê, em seu art. 41, a possibilidade de os Estados e o Distrito Federal criarem órgãos especializados de defesa do torcedor, os quais terão "competência cível e criminal" (art. 41-A do mesmo diploma legal). Dito de outra forma, a legislação específica não restringe a competência do órgão jurisdicional a delitos de menor potencial ofensivo.
+2. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar cautelarmente o réu deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+3. O Juízo sentenciante ressaltou o descumprimento de medida cautelar anteriormente imposta aos três primeiros recorrentes (comparecimento ao Corpo de Bombeiros ou ao Instituto Médico Legal nos dias de jogos da Sociedade Esportiva Palmeiras, duas horas antes do começo e saída quinze minutos após o final do evento), circunstância suficiente para demonstrar a necessidade cautelar de segregação dos réus, consoante a previsão do art. 282, § 4º, c/c o art. 312, parágrafo único, do CPP.
+4. Para analisar o pedido de extensão dos efeitos do benefício garantido ao último recorrente - manutenção das medidas cautelares anteriormente impostas -, seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus, uma vez que o acórdão impugnado foi claro ao afirmar a inexistência de similitude fática entre os acusados.
+5. No que tange ao quarto recorrente, a manutenção da medida cautelar anteriormente imposta não configura antecipação de pena, pois decorre de previsão expressa do Código de Processo Penal (art. 387, § 1º).
+6. Recurso não provido.
+(RHC 92.375/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/04/2018, DJe 16/04/2018)
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso ordinário em habeas corpus.
+Entretanto, defiro o pedido formulado pela Defensoria Pública e determino a remessa da petição de fls. 1-14 para o Juízo das Execuções Penais de Araçatuba/SP, com vista à Defensoria Pública local.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Intime-se.
