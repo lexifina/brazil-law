@@ -1,0 +1,20 @@
+DESPACHO: Trata-se de ação direta de inconstitucionalidade ajuizada com o objetivo de questionar a validade jurídico- -constitucional da Resolução Administrativa nº 020/97, que, emanada do E. Tribunal Regional do Trabalho da 22ª Região, afastou a incidência do sistema de alíquotas progressivas resultante da MP nº 560/94 e suas posteriores reedições, para “reduzir a alíquota da Contribuição para o Plano de Seguridade Social do Servidor de 12% para 6%”.
+    O Plenário do Supremo Tribunal Federal deferiu o pedido de medida cautelar então formulado pelo eminente Procurador-Geral da República, para suspender, com eficácia “ex tunc”, até final julgamento desta ação direta, “a execução e aplicabilidade da Resolução Administrativa nº 020/97, adotada pelo Tribunal Regional do Trabalho da 22ª Região” (fls. 30), fazendo-o em acórdão assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. MEDIDA PROVISÓRIA. C.F., art. 62, parág. único.
+    I. – A medida provisória não convertida em lei no prazo de trinta dias, a partir de sua publicação, perde eficácia, desde a edição, devendo o Congresso Nacional disciplinar as relações jurídicas dela decorrentes C.F., art. 62, parág. único.
+    II. – Suspensão cautelar, com efeitos ‘ex tunc’, da Resolução Administrativa 020/97, do TRT/22ª Região, que reduziu de 12% para 6% a alíquota de contribuição dos servidores e juízes ao PSSS.” (grifei)
+    Como se sabe, a controvérsia suscitada na presente causa já foi apreciada pelo Plenário do Supremo Tribunal Federal (ADI 1.135/DF, Red. p/ o acórdão Ministro SEPÚLVEDA PERTENCE), que veio a reconhecer  a constitucionalidade do sistema de alíquotas progressivas instituído pela Lei nº 8.688/93 e prorrogado pela MP nº 560/94 e suas sucessivas reedições, ressalvando, no entanto, a necessidade de observar-se o princípio constitucional da anterioridade mitigada ou especial (CF, art. 195, § 6º).
+    Esse mesmo entendimento veio a ser reafirmado em sucessivos julgamentos no âmbito desta Suprema Corte (ADI 1.647/PA, Rel. Min. CARLOS VELLOSO – ADI 1.660/SE, Red. p/ o acórdão Min. NELSON JOBIM – ADI 1.711/SP, Rel. Min. OCTAVIO GALLOTI, v.g.):
+    “DIREITO CONSTITUCIONAL, PREVIDENCIÁRIO, ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE DA RESOLUÇÃO DO CONSELHO ADMINISTRATIVO DO SUPERIOR TRIBUNAL DE JUSTIÇA, DE 14.05.1997 (PROCESSO STJ Nº 01813/97), QUE REDUZIU, DE 12 PARA 6%, A ALÍQUOTA DA CONTRIBUIÇÃO AO PLANO DE SEGURIDADE SOCIAL.
+    1. Não tinha (e não tem) o Superior Tribunal de Justiça competência legislativa para reduzir alíquota de contribuição ao Plano de Custeio da Seguridade Social, dispondo, normativamente, em sentido diverso daquele previsto em Medida Provisória, sucessivamente reeditada e ainda em vigor, com força de lei, ao tempo em que baixou Resolução administrativa nesse sentido.
+    2. Precedentes do S.T.F.
+    3. Ação Direta de Inconstitucionalidade que, por maioria, não se considera prejudicada e, no mérito, por unanimidade, se julga procedente, nos termos do voto do Relator.”
+    (ADI 1.610/DF, Rel. Min. SYDNEY SANCHES – grifei)
+    “Ação direta de inconstitucionalidade. 2. Resolução do Tribunal de Justiça do Distrito Federal e dos Territórios,  em sessão administrativa, que reduziu de doze para seis  por cento a alíquota de contribuição previdenciária, ‘com pedido de verba para a devolução dos montantes descontados em percentual superior”. 3. Alegação de ofensa ao parágrafo único do art. 62 da Constituição Federal. 4. Caráter normativo da Resolução.  5. Precedentes do STF, na ADI 1.727/PA e na ADI 1.610/DF.  6. Ação julgada procedente.”
+    (ADI 1.618/DF, Rel. Min. GILMAR MENDES – grifei)
+    Desse modo, e tendo em vista os precedentes desta Corte que permitem reconhecer a manifesta inconstitucionalidade da resolução administrativa em causa, oficie-se ao E. Tribunal Regional do Trabalho da 22ª Região, solicitando-se-lhe informação sobre se a Resolução Administrativa nº 020/97 já teria sido revogada por essa Corte regional.
+    O ofício em questão deverá ser instruído com cópia do presente despacho.
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
