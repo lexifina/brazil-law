@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. RESOLUÇÃO DE VÍNCULO EMPREGATÍCIO. DIREITO DE MANUTENÇÃO. REQUISITOS. COPARTICIPAÇÃO. CONTRIBUIÇÃO EXCLUSIVA DA EMPRESA.
+1. Nos termos dos arts. 30 e 31 da Lei 9.656/98, não há direito de manutenção de ex-empregado como beneficiário de plano de saúde coletivo, cuja contribuição foi exclusivamente custeada pelo empregador.
+2. A mera coparticipação nos procedimentos utilizados pelo consumidor não é suficiente para assegurar-lhe o direito de permanência na apólice, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho.
+3. O plano de assistência médica concedido pelo empregador não constitui salário indireto do empregado, razão pela qual, nessas circunstâncias, restaria ausente a efetiva contribuição do empregado, o qual se limita a arcar com a sua simples coparticipação.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interno interposto por MARCIA EGYDIO DOS SANTOS contra a decisão unipessoal de fls. 198/200, e-STJ, que deu provimento ao recurso especial manejado por BRADESCO SAÚDE S/A, assim resumida:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL. APOSENTADO. DIREITO DE MANUTENÇÃO. REQUISITOS. CONTRIBUIÇÃO INDIRETA. INSUFICIÊNCIA. CONTRIBUIÇÃO EXCLUSIVA DA EMPRESA.
+1. Nos termos dos arts. 30 e 31 da Lei 9.656/98, não há direito de manutenção do ex-empregado como beneficiário de plano de saúde coletivo, cuja contribuição foi exclusivamente custeada pelo empregador. Precedentes.
+2. Recurso especial conhecido e provido.
+Ação: de obrigação de fazer, ajuizada pela agravante, em face de BRADESCO SAUDE S/A, pleiteando sua manutenção como beneficiária do plano de saúde ofertado pela ex-empregadora.
+Sentença: julgou procedente o pedido.
+Acórdão: negou provimento à apelação interposta pela agravada, nos termos da seguinte ementa:
+PLANO DE SAÚDE COLETIVO. Beneficiária aposentada que continuou a laborar e, posteriormente, foi demitida sem justa causa. Preliminar de ilegitimidade passiva afastada. Empregador que atuou como mero intermediário na contratação da apólice de seguro saúde coletivo. Cabe apenas à operadora o ônus de mantê-la como favorecida. Mérito. Aplicação do art. 31 da Lei no 9.656/98. Benefício assegurado à funcionária durante todo seu contrato de trabalho. Remuneração indireta. Manutenção da titular e seus dependentes no plano, até então operado sob o regime da coparticipação, que deverão custeá-lo integralmente. Sentença mantida. PRELIMINAR REJEITADA. RECURSO DESPROVIDO. (e-STJ, fl. 124)
+Decisão unipessoal: deu provimento recurso especial, sob o fundamento de que a jurisprudência do STJ possui entendimento no sentido de que há necessidade do ex-empregado ter contribuído diretamente para o custeio do plano de saúde para fins de sua manutenção, nos termos dos arts. 30 e 31 da Lei n. 9.656/98, sendo insuficiente a mera coparticipação nos procedimentos utilizados pelo consumidor.
+Agravo interno: nas razões do presente recurso, a agravante pleiteia a reforma de decisão agravada, sustentando que preencheu todos os requisitos legais previstos no art. 31 da Lei n. 9.656/98, "não havendo que se falar em ausência do preenchimento do requisito legal da contribuição, que se cumpre ainda que de forma indireta" (e-STJ fl. 207).
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada deu provimento ao recurso especial interposto por BRADESCO SAÚDE S/A, conforme fundamentação abaixo:
+- Da manutenção em plano de saúde coletivo
+O TJ/SP, ao decidir que há o preenchimento dos requisitos do art. 31 da Lei 9.656/98 ainda quando haja apenas a contribuição indireta do trabalhador, como ocorre na hipótese dos autos, para a manutenção do plano foi de encontro ao entendimento do STJ quanto à matéria.
+Nos termos dos arts. 30 e 31 da Lei 9.656/98, não há direito de manutenção do ex-empregado como beneficiário de plano de saúde coletivo, cuja contribuição foi exclusivamente custeada pelo empregador.
+A mera coparticipação nos procedimentos utilizados pelo consumidor não é suficiente para assegurar-lhe o direito de permanência na apólice, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho.
+Nesse sentido: AgInt nos EREsp 1620750/SP, 2ª Seção, DJe 30/08/2017; REsp 1615760/SP, 3ª Turma, DJe 22/06/2017; AgInt no REsp 1608346/SP, 4ª Turma, DJe 30/11/2016.
+Na hipótese dos autos, as instâncias ordinárias consignaram que houve apenas a coparticipação nos procedimentos utilizados pela parte autora, sem a efetiva contribuição para o custeio do plano de saúde. Confira-se trecho extraído da sentença:
+Todavia, o que se observa é que embora a parte autora não tenha contribuído com pagamentos mensais para manutenção do plano de saúde em questão, apenas fazendo pagamentos em regime justamente de coparticipação quando se valia de alguns serviços colocados a sua disposição, não há como se afastar o argumento de que o benefício disponibilizado, na forma de assistência médica incorporou-se a sua remuneração, de forma indireta. (e-STJ fl. 88)
+O propósito recursal consiste em definir a quem é assegurado, após a cessação do vínculo empregatício por aposentadoria ou demissão sem justa causa, o direito de manutenção como beneficiário de seguro saúde coletivo empresarial, previsto nos arts. 30 e 31 da Lei 9.656/98.
+1. Da manutenção da apólice de plano de saúde coletivo empresarial após a cessação do vínculo empregatício, por aposentadoria ou demissão sem justa causa.
+A jurisprudência do Superior Tribunal de Justiça estabeleceu a interpretação dos arts. 30 e 31 da Lei 9.656/98 no sentido de não haver direito de manutenção do ex-empregado como beneficiário de plano de saúde coletivo, cuja contribuição foi exclusivamente custeada pelo empregador.
+Nessa linha, firmou-se que a mera coparticipação nos procedimentos utilizados pelo consumidor não é suficiente para assegurar-lhe o direito de permanência na apólice, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho. Precedentes: AgInt nos EREsp 1620750/SP, 2ª Seção, DJe 30/08/2017; AgInt no REsp 1600197/SP, 3ª Turma, DJe 27/10/2017 REsp 1615760/SP, 3ª Turma, DJe 22/06/2017; AgInt no REsp 1608346/SP, 4ª Turma, DJe 30/11/2016.
+Restou assentado, também, que o plano de assistência médica concedido pelo empregador não constitui salário indireto do empregado, razão pela qual, nessas circunstâncias, restaria ausente a efetiva contribuição do empregado, o qual se limita a arcar com a sua simples coparticipação.
+Nesse sentido: AgInt no REsp 1630969/SP, 4ª Turma, DJe 02/10/2017; AgInt no REsp 1691315/SP, 4ª Turma, DJe 31/10/2017; AgInt nos EDcl no REsp 1637573/SP, 3ª Turma; REsp 1594346/SP, 3ª Turma, DJe 16/08/2016.
+2. Da hipótese dos autos
+De acordo com premissas fáticas delineadas pelas instâncias ordinárias, a agravante manteve vínculo empregatício junto a empresa que lhe disponibilizava o plano de saúde por mais de 10 anos; tendo sido admitida em 21/12/1982, aposentada em 01/01/2013, e laborado até 21/01/2014, quando foi demitida sem justa causa (e-STJ fl. 85).
+O pedido autoral foi julgado procedente, sendo na sentença, mantida integralmente pelo Tribunal de origem, consignado que "embora a parte autora não tenha contribuído com pagamentos mensais para manutenção do plano de saúde em questão, apenas fazendo pagamentos em regime justamente de coparticipação quando se valia de alguns serviços colocados a sua disposição, não há como se afastar o argumento de que o benefício disponibilizado, na forma de assistência médica incorporou-se a sua remuneração, de forma indireta". (e-STJ fl. 88)
+Entretanto, tal como registrado por esta Corte, não se tem como salário indireto o plano de saúde custeado exclusivamente pelo empregador. Ausente, portanto, a contribuição do recorrido para o plano de saúde, não lhe é assegurado por lei o direito a ser mantido na apólice.
+A decisão agravada, portanto, não merece reforma.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
