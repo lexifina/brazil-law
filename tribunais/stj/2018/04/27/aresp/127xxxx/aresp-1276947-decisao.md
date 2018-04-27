@@ -1,0 +1,30 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+PENAL. APELAÇÃO CRIMINAL. USO DE DOCUMENTO PÚBLICO FALSO. ART. 304 DO CÓDIGO PENAL. MATERIALIDADE, AUTORIA E DOLO INCONTROVERSOS. DOSIMETRIA DA PENA. REFORMA DA PENA DEFINITIVA E DA PENA DE MULTA. MANTIDO O REGIME INICIAL FECHADO DE CUMPRIMENTO DE PENA. REINCIDÊNCIA. RECURSO IMPROVIDO.
+1. A materialidade do delito e a autoria restaram devidamente demonstradas nos autos pelos Auto de Prisão em Flagrante Delito, Auto de Apresentação e Apreensão da CNH falsa, Boletim de Ocorrência, Laudo Pericial Documentoscópico, bem como juntada da Carteira Nacional de Habilitação falsa.
+2. O crime de uso de documento falso se consuma no momento da apresentação do documento, sendo irrelevante que a exibição ocorra em virtude de solicitação, revista pessoal ou exigência da autoridade policial.
+3. A autoria e o dolo também foram devidamente comprovados, pelo Auto de Prisão em Flagrante, pelos depoimentos prestados em sede policial e judicial, e também pela confissão do réu em sede de interrogatório judicial.
+4. Dosimetria da pena. Primeira fase. Valoração negativa das circunstâncias judiciais do artigo 59 do CP, especialmente, quanto aos maus antecedentes do réu. Pena-base mantida em 3 (três) anos de reclusão.
+5. Na segunda fase da dosimetria da pena, foram compensadas, no patamar de 1/6 para cada uma, as circunstâncias legais, quais sejam, atenuante da confissão com a agravante da reincidência, porquanto, configuram circunstâncias igualmente preponderantes, à luz do disposto do artigo 67 do CP e de reiterada jurisprudência do Col. STJ. Pena intermediária reduzida de ofício para 03 (três) anos de reclusão.
+6. Terceira fase da dosimetria da pena. Ausência de causas de aumento e diminuição a serem avaliadas. Pena definitiva reduzida, de ofício, para 3 (três) anos de reclusão. Reformada a pena de multa para 15 (quinze) dias-multa, com base no princípio da proporcionalidade, à razão de 1/30 (um trinta avos) do salário mínimo vigente à época da prisão em flagrante.
+7. Mantido, por fim, o regime inicial fechado de cumprimento de pena, em virtude das circunstâncias judiciais desfavoráveis, dos maus antecedentes e reincidência.
+8. Recurso improvido. De ofício, reduzida a pena para 3 (três) anos de reclusão e a pena de multa para 15 (quinze) dias-multa, mantendo-se, no mais, a r. sentença em seus exatos termos. (e-STJ fl. 507)
+Aponta a defesa a violação do art. 59 do Código Penal, alegando, em síntese, que "a pena-base foi exasperada, nos termos do art. 59 do CP, tão somente pelo fato de que o acusado ostentaria maus antecedentes. Contudo, em razão de apenas um processo, a pena foi elevada na razão de metade, ou seja, elevou-se a pena mínima de 2 anos para o montante de 3 anos." (e-STJ fl. 515). Aduz que "a matéria sustentada é de ordem pública passível de ser reconhecida de oficio, razão pela qual se requer que este Colendo Tribunal aprecie e acolha os argumentos aqui sustentados, ainda que mediante a concessão de habeas corpus de ofício" (e-STJ fl. 516).
+Contrarrazões às e-STJ fls. 521/528.
+Manifestação do Ministério Público Federal pelo desprovimento do recurso às e-STJ fls. 559/564.
+É o relatório. Decido.
+A irresignação não prospera.
+Anota-se, inicialmente, que ao contrário do alegado a pena-base não foi majorada apenas em razão dos maus antecedentes, mas também porque foram consideradas desfavoráveis a culpabilidade e as circunstâncias do crime (e-STJ fl. 504), de forma que as razões recursais encontram-se dissociadas dos fundamentos do acórdão recorrido, o que atrai o óbice do Enunciado n. 284 da Súmula do STF. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DOSIMETRIA. MAUS ANTECEDENTES E REINCIDÊNCIA. RAZÕES DISSOCIADAS DA FUNDAMENTAÇÃO EXARADA NAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 284, 282 E 356/STF.
+1. O recurso especial demonstra evidente deficiência, porquanto suas razões não estão em consonância com a fundamentação expendida pelas instâncias ordinárias, atraindo a incidência da Súmula 284/STF. A pena-base do recorrente foi majorada em razão dos maus antecedentes, não sendo, ao contrário do alegado pela defesa, reconhecida a agravante da reincidência.
+ ..
+4. Agravo regimental desprovido. (AgRg no AREsp 896.312/SP, Rel. Desta Relatoria, DJe 29/6/2016).
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NO RECURSO ESPECIAL. LICITAÇÃO. EDITAL DE TOMADA DE PREÇOS. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA E IMPESSOALIDADE. RAZÕES DISSOCIADAS. INCIDÊNCIA DA SÚMULA 284/STF. INTERPRETAÇÃO DA CLÁUSULA DO EDITAL. SÚMULA 5/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+ ..
+5. Agravo interno não provido. (AgInt no REsp 1581337/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 19/8/2016).
+Ademais, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, desta Relatoria, DJ de 1º/8/2017).
+Por fim, registre-se que "é descabido requerer a concessão de habeas corpus de ofício, pois a expedição deste pressupõe, justamente, a inexistência de postulação prévia da medida concedida" (AgRg no AREsp 199.440/MG, Relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 5/9/2012).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
