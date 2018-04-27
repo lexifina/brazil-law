@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo, interposto por CDLM GASTRONOMIA ENTRETENIMENTO E SERVIÇOS LTDA, contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que inadmitiu o Recurso Especial manifestado contra acórdão, proferido na vigência do CPC/2015, assim ementado:
+"AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. COMPETÊNCIA TERRITORIAL.
+ART. 45, § 5º, DO CPC. A regra contemplada pelo art. 46, § 5º, do CPC não deve ser aplicada integral e indistintamente a todas as execuções fiscais. A interpretação do dispositivo que melhor se coaduna com o ordenamento vigente é a de que sua aplicação fica restrita ao território do ente federativo que figura no polo ativo da execução fiscal. Entendimento contrário inviabilizaria a cobrança dos valores devidos por pessoas domiciliadas fora do território da unidade federativa credora, por ausência de representação judicial, em manifesta afronta ao princípio da isonomia tributária. Manutenção da decisão que reconheceu a competência territorial do Juízo de Origem.
+AGRAVO DE INSTRUMENTO DESPROVIDO" (fl. 31e).
+Opostos embargos de declaração (fls. 51/54e), esses foram rejeitados.
+Nas razões do Recurso Especial aponta a insurgente violação aos arts. 46, § 5º, do CPC/2015, 100, inciso IV, a, e 578 do CPC/73 e 127, inciso II, do CTN.
+Apresentadas contrarrazões às fls. 110/114e, foi o Recurso Especial inadmitido na origem (fls. 117/120e), daí a interposição do presente Agravo (fls. 129/138e).
+Não houve contraminuta.
+A irresignação não merece acolhimento.
+O Tribunal de origem ao analisar a presente controvérsia confirmou a competência do juízo onde foi ajuizada a presente execução utilizando-se de fundamento constitucional, vejamos:
+"Em se tratando de ação executiva ajuizada pela Fazenda Pública Estadual, apenas dentro do respectivo território será possível modificar-se a competência. A aplicação plena do dispositivo fica restrita às execuções fiscais ajuizadas pela União, pois, nesses casos, há representação judicial do credor em todo o território nacional.
+Entendimento contrário, à evidência, inviabilizaria a cobrança dos valores devidos por pessoas domiciliadas fora do território da unidade federativa responsável pela cobrança, o que encerraria por conferir tratamento diferenciado aos contribuintes. Alguns valores, com efeito, deixariam de ser cobrados ante a dificuldade de se promover a ação executiva pertinente, em manifesta afronta ao princípio da isonomia.
+O dispositivo em lume, inclusive, é objeto da ação direta de inconstitucionalidade n. 5.492/RJ. Embora não tenha havido liminar suspendendo sua eficácia, pelas razões já declinadas, não há como sustentar sua aplicação às execuções fiscais promovidas pela Fazenda Estadual em face de devedores domiciliados em unidades federativas distintas" (fls. 33/34e) (grifo nosso)
+Dessa forma, inviável ao STJ apreciar a demanda, primeiro por não ser de sua competência, e sim do STF, apreciar temas referentes à temas constitucionais, e, segundo, por não ter sido observada a Súmula 126/STJ - "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamento constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e parte vencida não manifesta recurso extraordinário".
+Nesse sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. LEI ESTADUAL 11.064/2002. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. INCONSTITUCIONALIDADE DE LEI. RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. SÚMULA 126/STJ.
+1. O Tribunal de origem, fundamentou seu decisum essencialmente através da análise de lei local, sendo defesa a sua apreciação pelo STJ. Aplicação, por analogia, da Súmula 280/STF.
+2. O Tribunal de origem, ao analisar a questão, fê-lo com base na inconstitucionalidade de lei, o que afasta a análise pelo STJ dos citados preceitos, sob pena de invadir a competência do STF. E não havendo interposto o recurso correspondente, atrai a incidência da Súmula 126 do STJ.
+3. Recurso Especial não conhecido" (STJ, REsp 1.666.332/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/06/2017).
+Em face do exposto, com fundamento do art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
