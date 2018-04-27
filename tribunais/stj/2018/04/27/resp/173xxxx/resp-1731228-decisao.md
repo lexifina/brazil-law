@@ -1,0 +1,32 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por VIA VAREJO S/A, contra acórdão prolatado, por unanimidade, pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 2.923/2.925e):
+DIREITO CONSTITUCIONAL E TRIBUTÁRIO - MANDADO DE SEGURANÇA - APELAÇÃO - ICMS - OPERAÇÕES DE COMPRA E VENDA PRESENCIAIS REALIZADAS EM OUTRA UNIDADE FEDERADA - CONSUMIDOR FINAL DOMICILIADO NO DF - DIFERENCIA DE ALÍQUOTAS INTERNA E INTERESTADUAL - EC 87/15 - LEI 5.546/15 - EXIGIBILIDADE DO DIFERENCIAL DE ALÍQUOTAS - RECURSO DESPROVIDO.
+1. As empresas não sediadas no DF submetem-se ao recolhimento do diferencial de alíquota do ICMS previsto no artigo 20 da Lei 1.254/96, na redação atribuída pela Lei 5.546/15, editado em conformidade com as previsões constantes da EC 87/15, o qual incide sobre operações de compra e venda efetuadas por consumidores finais aqui domiciliados, ainda que a efetiva entrega da mercadoria tenha ocorrido, presencialmente, na unidade da federação em que realizado o negócio jurídico.
+2. A Emenda Constitucional 87/15, ao incluir o inciso VII no parágrafo 2º do artigo 155 da Constituição da República, não limitou a possibilidade de recolhimento da diferença entre a alíquota interna e interestadual do ICMS às operações não presenciais.
+3. Ausente vício de inconstitucionalidade, vigora a previsão constate do artigo 20 da Lei 1.254/96, expressa ao preconizar que o tributo será exigido "na hipótese de aquisição de bens ou contratação de serviços de forma presencial" e "no caso de o bem adquirido ou de o serviço tomado por destinatário não contribuinte do imposto, domiciliado no Distrito Federal, ser entregue ou prestado em outra unidade federada" (incisos 1º e 3º).
+4. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese, que "o v. acórdão, ora combatido, ao negar o direito líquido e certo da Recorrente a não ser compelida a realizar o recolhimento de qualquer quantia a título de ICMS ao Distrito Federal, decorrentes das aquisições realizadas de forma presencial em outro Estado da Federação (no caso, Goiás), por consumidor final com domicilio no Distrito Federal, julgou válida a lei de governo local (§§ 1º e 3º, do artigo 20 da Lei (DF) nº 1.254/96, com fulcro na alteração introduzida pela Lei (DF) nº 5.546, de 05 de outubro de 2015), devidamente contestada em face da Lei Federal (artigo 12, da Lei Complementar 87/96)".
+Com contrarrazões, o recurso foi admitido.
+O Ministério Público Federal opinou, pelo não conhecimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Após a edição da Emenda Constitucional 45/2004, "compete ao Supremo Tribunal Federal julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida julgar válida lei local contestada em face de lei federal", nos termos do art. 102, III, "d", da Constituição da República, conforme estampam os julgados, assim ementados:
+PROCESSUAL CIVIL. ISSQN. TRIBUTAÇÃO FIXA. ACÓRDÃO CUJA CONCLUSÃO SE APÓIA EM LEI LOCAL. TESE DE VIOLAÇÃO A LEI FEDERAL. SUPERIOR TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA.
+1. Conforme previsão do art. 102, III, "d", da Constituição Federal, "compete ao Supremo Tribunal Federal julgar, mediante recurso extraordinário, as causas decididas em única ou última instância, quando a decisão recorrida julgar válida lei local contestada em face de lei federal".
+2. Hipótese em que o apelo nobre ataca acórdão que julgou válida lei local que determinaria o recolhimento do ISS pelas sociedades de advogados tão somente por meio de alíquota fixa, contestada em face de disposição contida no DL n. 406/1968 (art. 9º), apontada pela recorrente para respaldar a sua pretensão de recolher o imposto com base em alíquota variável, de modo que o tema não é da competência desta Corte Superior.
+3. Agravo interno desprovido.
+(AgInt no REsp 1511915/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/06/2017, DJe 07/08/2017).
+PROCESSUAL CIVIL. ANÁLISE DE LEI LOCAL. INVIABILIDADE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. "Por ofensa a direito local não cabe recurso extraordinário." - Súmula 280/STF.
+2. Após a edição da Emenda Constitucional 45/2004, a competência para julgar as causas decididas em única ou última instância, quando a decisão recorrida julgar válida lei local, contestada em face de lei federal, foi transferida para o STF, nos termos do art. 102, III, "d", da CF/88. Precedentes do STJ.
+3. Os fundamentos utilizados pelo Tribunal de origem capazes de manter o acórdão hostilizado não foram atacados pelo recorrente. Incidência, por analogia, da Súmula 283/STF.
+4. Recurso Especial não conhecido.
+(REsp 1659648/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2017, DJe 25/04/2017)
+Isto posto, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
