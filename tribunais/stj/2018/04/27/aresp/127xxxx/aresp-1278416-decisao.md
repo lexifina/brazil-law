@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 468):
+ADMINISTRATIVO. FISCALIZAÇÃO. DUPLA VISITA. MICROEMPRESA. EMPRESA DE PEQUENO PORTE. VENDA DE BOTIJÕES DE GÁS LIQÜEFEITO DE PETRÓLEO - GLP.
+1. As empresas de pequeno porte e microempresas têm direito à dupla visita nas ações de fiscalização (art. 55 da LC 2 123/2006 e § 1s do mesmo dispositivo).
+2. Manutenção da sentença.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 3º da Lei 9.847/99; 55, caput e § 1º, da LC 123/06.
+Sustenta que "No caso dos autos, o procedimento da dupla visita não tem cabimento, pelas seguintes razões: 1. o infrator tinha conhecimento da irregularidade da sua atuação, consistente em fornecer a revendedores de GLP quantidade de recipientes acima das suas capacidades máximas de armazenamento, o que constitui afronta ao artigo 3o, inciso II da Lei 9.847/99 ; e 2. a atividade desenvolvida pelo apelado "por sua natureza" não possui grau de risco compatível com o procedimento da dupla visita (a primeira apenas orientadora)." (fl. 477).
+Ademais, alega que o critério de dupla visita não está prevista na Lei 9.847/99, legislação especial que prevê as hipóteses de infrações administrativas e estabelece as respectivas sanções que devem ser aplicadas pelo agente fiscalizador.
+É o relatório.
+O inconformismo não prospera.
+No caso, o Tribunal Regional manteve a sentença pelos seus próprios fundamentos (fls. 463/467):
+Penso que a sentença deslindou bem a controvérsia e merece ser mantida por seus próprios fundmentos, in verbis:
+II - FUNDAMENTAÇÃO
+Insurge-se a parte autora contra fiscalização realizada pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP, que resultou na aplicação de multa no valor originário de R$ 20.000,00 (vinte mil reais), arguindo, entre outras questões de mérito, a falta de observância do critério da dupla visita e fiscalização orientada, previsto no art. 55 da Lei Complementar nº 123/06, o que implicaria nulidade do auto de infração.
+Pois bem.
+Muito embora não compartilhe do mesmo entendimento, verifico que o C. TRF da 4- Região, através de sua 4- Turma, em decisão da lavra do Ilustre Desembargador Federal LUÍS ALBERTO D AZEVEDO AURVALLE, exarada por ocasião do julgamento do Agravo de Instrumento nQ 5035988-86.2016.4.04.0000 aviado pela autora da decisão que nestes autos indeferiu o pedido de tutela de urgência provisória, houve por bem analisar o meritum causae, esgotando, assim, a questão judicialmente posta. Na oportunidade, dispôs o Ilustre Desembargador (EVENT035):
+"Ao analisar o pedido de antecipação da tutela recursal foi proferida decisão assim lavrada:
+(..)
+Quanto ao alegado direito à dupla visitação pela fiscalização, considero que deve ser afastado, na dicção da lei, quando houver risco na espera pela próxima visita da Administração. Não é outro o caso quando se trata de armazenamento e comercialização de substâncias inflamáveis.
+No que diz com a questão da entrega de botijões para além da capacidade das empresas, considero que a alegação da autora configura invocação da própria falha em seu benefício. A cada compra e venda deve corresponder uma nota fiscal, a cada negócio um documento. A alegada/confessada irregularidade documental também configura ilícito administrativo, e não pode isentar a autora do cumprimento de outros dispositivos da própria legislação aplicável ao setor.
+Assim, não vislumbro probabilidade no direito alegado de inocorrência de infração.
+(..)
+Quanto à probabilidade do direito, não se desconhece que os atos administrativos gozam de presunção de legalidade. Tal presunção, contudo, é relativa, de modo que pode o administrado requerer a tutela judicial caso demonstre a ocorrência de ilegalidade.
+Na hipótese, a autuação ocorreu em primeira visita.
+Sobre as atividades de fiscalização, dispõe o art. 55 da Lei Complementar 123/06:
+Art. 55. A fiscalização, no que se refere aos aspectos trabalhista, metrológico, sanitário, ambiental, de segurança e de uso e ocupação do solo das microempresas e empresas de pequeno porte deverá ter natureza prioritariamente orientadora, quando a atividade ou situação, por sua natureza, comportar grau de risco compatível com esse procedimento. (Redação dada pela Lei Complementar nQ 147, de 7 de agosto de 2014)  sublinhado e negrito não originais .
+§ 1Q Será observado o critério de dupla visita para lavratura de autos de infração, salvo quando for constatada infração por falta de registro de empregado ou anotação da Carteira de Trabalho e Previdência Social - CTPS, ou, ainda, na ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.
+§ 3a Os órgãos e entidades competentes definirão, em 12 (doze) meses, as atividades e situações cujo grau de risco seja considerado alto, as quais não se sujeitarão ao disposto neste artigo.
+Consoante se verifica, a microempresa tem tratamento diferenciado, havendo precedentes deste Tribunal reconhecendo que a ANP deve obediência a este tratamento. Confira-se:
+(..)
+A par desse entendimento, o critério da dupla visita pode ser afastado se presente alguma das hipóteses referidas na parte final do art. 55 da Lei Complementar 123/2006 e no §1Q e § 3Q do mesmo dispositivo, entre elas a existência de risco incompatível com a adoção da dupla visita, assim como a ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.
+Na espécie, não se vislumbra risco incompatível com a adoção da dupla visita, tanto é que, como bem assinalado do auto de infração (que contém inclusive fotografias) não houve a apreensão de botijões ou a interdição do local, tendo a mera atividade orientadora do fiscal bastado para sanar as irregularidades, não havendo falar, tampouco, em fraude, resistência ou embaraço à fiscalização.
+Nesse contexto, tenho por evidenciada a probabilidade do direito.
+Ademais, na linha da mais moderna jurisprudência do Superior Tribunal de Justiça, é possível, em casos excepcionais, a suspensão da execução sem a garantia do débito, o que se aplica, por evidente, à ação anulatória.
+Ante o exposto, defiro a antecipação de tutela recursal.
+Considerando que as empresas de pequeno porte e microempresas têm direito à dupla visita nas ações de fiscalização (art. 55 da LC Q 123/2006 e § 1Q do mesmo dispositivo), que o critério da dupla visita pode ser desconsiderado se verificada reincidência, fraude, resistência ou embaraço à fiscalização, o que não ocorreu no caso dos autos, mantenho o entendimento expendido.
+Frente ao exposto, voto por dar provimento ao agravo de instrumento."
+Compulsando os autos, não vislumbro a existência de qualquer motivo relevante seja de ordem normativa ou fática que possa ensejar a modificação do que ficou ali decidido, razão pela qual, em nome da harmonização dos julgados, e da efetividade do provimento, ratifico, agora em sede de cognição exauriente, a motivação da decisão transcrita, para o fim de reconhecer a nulidade do Auto de Infração n. 905.408.2014.43.435480, decorrente do Processo administrativo n. 48610.003034/2015-99, em razão da inexistência de dupla visitação, nos moldes delineados pelo art. 55 da LC Q 123/2006 e §1Q do mesmo dispositivo.
+Como se vê, o Tribunal de origem não se manifestou sobre a alegação de que a Lei n. 9.847/1999 não inclui o critério da dupla visita, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, a alteração das conclusões adotadas pela Corte de origem, no sentido de que não restaram configurados nos autos a reincidência, fraude, resistência ou embaraço à fiscalização aptos a afastar o critério da dupla visita, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo. Por fim, levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Publique-se.
