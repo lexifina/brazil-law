@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DINALDO MEDEIROS [NOME] FILHO e MIRNA MEDEIROS [NOME], contra decisão monocrática de indeferimento liminar do presente habeas corpus, pois não indicada na impetração qual o ato coator a viabilizar a competência desta Corte.
+Dizem, em suma, os embargantes, que este writ é preventivo e a coação é a própria tramitação da ação penal no Tribunal de Justiça do Estado da Paraíba, dado que não há justa causa, em razão da atipicidade da conduta dos pacientes, prefeito e primeira dama da cidade de Patos/PB, denunciados por crime previsto no art. 1º, II, do Decreto-Lei nº 201/1967 c/c o art. 29 do Código Penal.
+Afirmam que merece reforma a decisão embargada para que seja processado este habeas corpus, com deferimento da liminar e concessão da ordem, ao final, para "interromper" a ação penal.
+É o relatório.
+Não há nada a reparar no julgamento monocrático.
+Com efeito, se equívoco existe na espécie, é ele da própria defesa dos ora embargantes, pois, ao mesmo tempo em que afirma que há uma ação penal de competência originária do Tribunal de Justiça do Estado da Paraíba, diz também que não há nenhuma decisão expedida por aquela Corte.
+Confiram-se as razões dos embargos (fl. 133):
+19. O constrangimento analisado na presente peça necessita, portanto, de sutileza para ser percebido, pois, como dito na decisão retro, "Não há, na inicial, sequer, a vaga menção a julgamento no Tribunal de Justiça do Estado da Paraíba (um dos denunciados é prefeito)", e, de fato, não houve julgamento, mas tal fato não impossibilita o cabimento do presente Habeas Corpus que se insurge contra ação penal sem justa causa em tramite, cuja morosidade, como dito, esta a provocar profundos danos à imagem pública dos pacientes.
+Ora, somente pode existir ação penal após o recebimento da denúncia e, na espécie, tratando-se de prefeito, é de se esperar que haja um acórdão (colegiado) no Tribunal de Justiça do Estado da Paraíba recebendo a incoativa.
+Se não existe nenhuma decisão, conforme afirma a própria defesa, não há ação penal e, portanto, não existe ato coator a ser aferido por esta Corte e muito menos qualquer possibilidade de "interromper" algo inexistente.
+Não há o menor cabimento em "trancamento preventivo" de ação penal que ainda não existe. Há, sim, a possibilidade, muito excepcional, de trancamento de inquérito, ou seja, da investigação que antecede a persecução penal, mas, como se vê, não é essa a hipótese, pois insiste a defesa que esta impetração é preventiva para obstar, ao que parece, uma futura ação penal, já que, repita-se, não há acórdão, na origem, recebendo a denúncia.
+Rejeito os embargos.
