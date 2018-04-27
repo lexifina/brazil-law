@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por NIVALDO BARBOSA DOS SANTOS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+EMBARGOS DE TERCEIRO. APELAÇÃO. EXECUÇÃO FISCAL. CONSTRIÇÃO JUDICIAL SOBRE IMÓVEL ALIENADO ANTES DO REDIRECIONAMENTO DA EXECUÇÃO. PRESUNÇÃO DE ALIENAÇÃO FRAUDULENTA AFASTADA. RECURSOS IMPROVIDO.
+I. O artigo 185 do CTN institui uma garantia inerente aos créditos tributários, já que torna ineficazes perante a Fazenda Pública, os atos do devedor que afetam a sua solvabilidade.
+II. Na redação anterior à Lei complementar 118/2005, a presunção de fraude operava a partir da propositura da execução fiscal.
+Apesar de muitos defenderem a interpretação literal da norma, pacificou-se a jurisprudência no sentido de que somente após a citação do devedor no processo executivo podia-se falar em presunção de alienação fraudulenta. A discussão restou superada após a edição da Lei complementar 118/2005, que estabeleceu que basta haver a alienação de bens ou rendas após a inscrição em dívida ativa, para que se presuma a ocorrência de fraude.
+III. Desse modo, no caso em comento, o instrumento de compra e venda do imóvel em questão está datado de 26/05/1995, e o redirecionamento da execução ao coexecutado [NOME] ocorreu somente em 23/02/1996, não havendo que se falar em fraude a execução.
+IV. Remessa oficial e apelações da parte embargante e da União Federal improvidas.
+No presente recurso especial, o recorrente aponta violação do art. 20, §3º e §4º, do CPC/1973.
+Sustenta, em síntese, que o montante de R$ 1.000,00 (mil reais), fixado pelo juízo monocrático e ratificado pelo Tribunal a quo a título de honorários advocatícios, não é capaz de remunerar adequadamente o trabalho realizado pelo advogado, razão pela qual, defende a majoração do quantum ora balizado.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Primeiramente, cumpre destacar que, mediante a simples leitura da peça recursal, percebe-se que o recorrente fundamenta seu inconformismo em relação aos honorários sucumbenciais em virtude do elevado valor da causa ora defendida pelo causídico.
+Contudo, a despeito do expressivo valor atribuído à demanda judicial, deve-se destacar que o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, assentou que "Os honorários devem ser fixados em quantia que valorize a atividade profissional advocatícia, homenageando-se o grau de zelo, o lugar de prestação do serviço, a natureza e a importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, tudo visto de modo equitativo.", concluindo, em seguida, que "afigura-se razoável a fixação de honorários advocatícios no valor de R$ 1.000,00 (mil reais), uma vez que arbitrados com moderação.".
+Dessa forma, verifica-se que a irresignação do recorrente, acerca do montante dos honorários advocatícios, vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no artigo 255, § 4º, I, do RI/STJ não conheço do recurso especial.
+Publique-se. Intimem-se.
