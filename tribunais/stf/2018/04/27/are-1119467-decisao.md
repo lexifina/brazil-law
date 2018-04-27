@@ -1,0 +1,30 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por São Paulo Previdência – SPPREV contra acórdão que, proferido pelo E. Tribunal de Justiça local, está assim ementado:
+    “APELAÇÃO. PRETENSÃO DE REFORMA DE SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO MEDIATO.
+    MÉRITO. PENSÃO POR MORTE. INSTITUIÇÃO EM FAVOR DE NETO. Falecimento do instituidor da pensão em 04.07.2003, enquanto vigente a redação original do art. 153 da Lei Complementar Estadual nº 180/78. Revogação tácita. Lei Federal nº 9.717/98. Inocorrência. O comando legal proibiu os entes federados de, apenas e tão somente, conceder benefícios distintos daqueles previstos no Regime Geral de Previdência. Não há restrição dos beneficiários da previdência social, deixando ao encargo dos entes federados a edição de legislação suplementar para regulamentar o rol de acordo com as peculiaridades regionais. Preservação da autonomia dos entes federados. Inteligência do princípio federativo.
+    HONORÁRIOS ADVOCATÍCIOS. Arbitramento considera a regra do § 4º do art. 20 do CPC, fundada no princípio da equidade, levando-se em conta o grau de zelo do profissional; o lugar de prestação do serviço; e, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, conforme alíneas ‘a’, ‘b’ e ‘c’, do § 3º do art. 20 do CPC.
+    NEGADO PROVIMENTO AO RECURSO.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 24, XII e § 4º, da Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu a questão com fundamento em legislação infraconstitucional (Leis nºs 8.213/91 e 9.717/98), o que torna incognoscível o apelo extremo.
+    Cabe enfatizar, ainda, que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Lei Complementar estadual nº 180/78), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em interpretação de direito local:
+    “No caso dos autos, a autora pretende a anulação do ato administrativo que suspendeu o pagamento de pensão à neta de ex-servidora, que lhe deixou declaração de vontade instituindo-o como beneficiário de pensão por morte. A autora foi contemplada à época da morte (04.07.2003) e passou a gozá-lo nos termos do artigo 153 da Lei Complementar Estadual nº 180/78. ’In verbis’:
+    .......................................................................................................
+    Interessa saber se o advento da Lei Federal 9.717/98, estabelecendo normas gerais sobre a matéria, teria tido o condão de suspender a eficácia do art. 153, da Lei Complementar Estadual 180/78.
+    .......................................................................................................
+    À luz do exposto, depreende-se que o comando legal proibiu os entes federados de, apenas e tão somente, conceder benefícios distintos daqueles previstos no Regime Geral de Previdência.
+    Contudo, em momento algum a lei federal restringiu os beneficiários da previdência social, deixando ao encargo dos entes federados a edição de legislação suplementar para regulamentar o rol de acordo com as peculiaridades regionais.
+    .......................................................................................................
+    ‘In casu’, inexiste colisão entre a lei estadual e a federal, pois o regime geral da previdência social alberga o benefício de pensão por morte ora postulado.
+    .......................................................................................................
+    A ausência de colisão com a Lei Federal 9.717/98 determina a plena vigência, na data do óbito do servidor (04.07.2003), da LC 180/78, na parte em que admitiu o estabelecimento de beneficiário instituído conforme os ditames do art. 153.”
+    Impõe-se observar, por relevante, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (ARE 951.994/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.102.500/SP, Rel. Min. EDSON FACHIN – ARE 1.111.971/SP, Rel. Min. LUIZ FUX – RE 999.410/SP, Rel. Min. CELSO DE MELLO, v.g.).
+    Cumpre registrar, finalmente, que não se demonstrou, considerada a hipótese prevista no art. 102, III, “d”, da Carta Política, que a decisão recorrida tenha julgado válida lei local em face de lei federal.
+    Sendo assim, e tendo em considerações as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
