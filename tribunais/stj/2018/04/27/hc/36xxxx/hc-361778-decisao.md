@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal Regional Federal da 3ª Região (Apelação Criminal n. 0000936-43.2008.4.03.6105/SP), que negou provimento à apelação anteriormente interposta em acórdão cuja ementa foi assim definida (e-STJ fls. 44/45):
+PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. ARTIGO 1º, I, DA LEI 8.137/90. PRAZO PRESCRICIONAL. TERMO A QUO. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. PROCEDIMENTO ADMINISTRATIVO. CITAÇÃO POR EDITAL. OBEDIÊNCIA AO ARTIGO 23 DO DECRETO 70.235/72. MATERIALIDADE E AUTORIA COMPROVADAS. CONDENAÇÃO MANTIDA. APELO NÃO PROVIDO.
+1. A ação penal preenche a condição inserta na Súmula Vinculante nº 24, segundo a qual: "Não se tipifica crime material contra a ordem tributária, previsto no artigo 1º, incisos I a IV, da Lei 8.137/90, antes do lançamento definitivo do tributo".
+2. O termo a quo para a contagem do prazo prescricional no crime previsto no art. 1º, da Lei nº 8.137/90, é o da constituição do crédito tributário, porque é aí que há de fato a configuração do crime, preenchendo assim a condição objetiva de punibilidade necessária à pretensão punitiva do Estado.
+3. Conforme o previsto no Decreto 70.235/72 que dispõe sobre o processo administrativo fiscal, com redação vigente à época dos fatos, a intimação será feita pessoalmente, por via postal ou por meio eletrônico (artigo 23), sendo que tais meios de intimação não estão sujeitos a ordem de preferência (§3º) e, resultando improfícuo um deles, a intimação poderá ser feita por edital (§1º).
+4. Materialidade e autoria demonstradas. Réu, responsável pela administração da pessoa jurídica CRIOGEN - CRIOGENIA LTDA, omitiu informações sobre o lucro real da empresa, ensejando a lavratura do auto de infração em razão da sonegação de Imposto de Renda Pessoa Jurídica, PIS, CSLL e COFINS.
+4. Apelo não provido.
+No presente writ, sustentam os impetrantes, inicialmente, que o paciente teria sido processado e julgado pelos mesmos fatos, sendo que, em 2012, foi absolvido numa das ações penais e condenado, pelo crime de sonegação fiscal, em outra, à pena de 2 anos e 8 meses de reclusão, substituída a pena privativa de liberdade por dois restritivas de direitos.
+Aduzem, ademais, que "os elementos normativos do núcleo penal ora debatido, são carecedores de concretude e a partir disso é elementar a carência do dolo especifico e, daí, a conclusão, de claridade solar, de atipicidade", e que "Não obstante a flagrante ilegalidade praticada contra o Paciente  ..  a d. Autoridade Coatora ainda o condenou em um Respeitável Acordão, manifestamente carente de justa causa, pela suposta prática do crime fiscal" (e-STJ fls. 11/12).
+Requerem, liminarmente, a suspensão da pena de prestação de serviços à comunidade e, no mérito, a concessão da ordem para que seja decretada "a rescisão do acórdão condenatório e a validade da sentença, reconhecendo-se a atipicidade dos fatos" (e-STJ fl. 19).
+A liminar foi indeferida às e-STJ fls. 77/78.
+As informações foram prestadas às e-STJ fls. 82/112, e 122/123.
+O Ministério Público Federal, às e-STJ fls. 115/120, manifestou-se pelo não conhecimento do writ.
+É, em síntese, o relatório.
+Inicialmente, no que concerne à alegação de que o paciente estaria sofrendo constrangimento ilegal consubstanciado em dupla persecução penal, o que acarretaria indevido bis in idem, tem-se que tal matéria nem sequer foi apreciada pelo Tribunal de origem, o que impede o exame do tema diretamente pelo Superior Tribunal de Justiça, sobrepujando a competência da Corte estadual, sob pena de se incorrer em indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC 68.025/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/05/2016, DJe 25/05/2016.)
+No mais, deve-se ressaltar que o trancamento de ação penal por ausência de justa causa exige comprovação, de plano, da atipicidade da conduta, da ocorrência de causa de extinção da punibilidade, ou da ausência de lastro probatório mínimo de autoria ou materialidade.
+Nesse sentido, "É inviável pretender-se o trancamento da ação penal quando já houver decisão condenatória transitada em julgado, confirmada, inclusive, em sede de apelação criminal" (HC n. 121.174/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 5/5/2015, DJe 14/5/2015), como na espécie.
+Ante o exposto, conheço parcialmente do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
