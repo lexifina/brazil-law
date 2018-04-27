@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de são paulo, assim ementado:
+    “Policial Militar – Prisão Cautelar – Suspensão de Vencimentos decorrente de Prisão Cautelar – Legalidade – Inaplicabilidade do art. 70 da Lei nº 10.261/68 – Sentença reformada – Recurso provido”. (eDOC 11)
+    Nas razões do recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição, aponta-se violação aos artigos 5º, LVII e 37, XV, do texto constitucional. (eDOC 13)
+    Nas razões recursais, defende-se, em síntese, a ilegalidade do ato administrativo que suspendeu seus vencimentos antes do transito em julgado da ação penal por violação aos princípios da dignidade da pessoa humana, da irredutibilidade de vencimentos e da presunção de inocência.
+    A Procuradoria-Geral da Republica manifestou-se pelo provimento do recurso, em parecer assim ementado:
+    “Recurso Extraordinário. Policial militar. Prisão cautelar. Supressão dos vencimentos. Impossibilidade. Afronta aos princípios da presunção de inocência e da irredutibilidade de vencimentos. Arts. 5º, LVII, e 37, XV, da CF. Matéria de fundo consolidada no STF em sentido diverso do acórdão recorrido. Parecer pelo provimento do recurso”. (eDOC 20)
+    Decido.
+    O recurso merece prosperar.
+    Isso porque o acórdão recorrido está em confronto com a jurisprudência da Corte que se firmou no sentido de não é possível a redução de remuneração de servidor público que tenha sido denunciado ou esteja respondendo a processo penal, uma vez que há ofensa aos princípios da presunção de inocência e irredutibilidade de vencimentos.
+    Nesse sentido, destacam-se os seguintes precedentes:
+    “ART. 2º DA LEI ESTADUAL 2.364/61 DO ESTADO DE MINAS GERAIS, QUE DEU NOVA REDAÇÃO À LEI ESTADUAL 869/52, AUTORIZANDO A REDUÇÃO DE VENCIMENTOS DE SERVIDORES PÚBLICOS PROCESSADOS CRIMINALMENTE. DISPOSITIVO NÃO-RECEPCIONADO PELA CONSTITUIÇÃO DE 1988. AFRONTA AOS PRINCÍPIOS DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS. RECURSO IMPROVIDO. I - A redução de vencimentos de servidores públicos processados criminalmente colide com o disposto nos arts. 5º, LVII, e 37, XV, da Constituição, que abrigam, respectivamente, os princípios da presunção de inocência e da irredutibilidade de vencimentos. II - Norma estadual não-recepcionada pela atual Carta Magna, sendo irrelevante a previsão que nela se contém de devolução dos valores descontados em caso de absolvição. III - Impossibilidade de pronunciamento desta Corte sobre a retenção da Gratificação de Estímulo à Produção Individual - GEPI, cuja natureza não foi discutida pelo tribunal a quo, visto implicar vedado exame de normas infraconstitucionais em sede de RE. IV - Recurso extraordinário conhecido em parte e, na parte conhecida, improvido”. (RE 482.006, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, Dje 14.12.2007)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – POLICIAL CIVIL – PRISÃO CAUTELAR – REDUÇÃO DOS VENCIMENTOS – IMPOSSIBILIDADE – VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS (CF, ART. 5º, INCISO LVII, E ART. 37, INCISO XV) – RECURSO IMPROVIDO”. (ARE-AgR 715.658, Rel. Min. Celso de Mello, Segunda Turma, DJe 5.9.2013)
+    “Agravo regimental em recurso extraordinário com agravo. 2. Administrativo. Prisão preventiva. Redução dos vencimentos durante afastamento das atividades. 3. Decisão em conformidade com a jurisprudência da Corte. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento”. (ARE-AgR 876.980, de minha relatoria, Segunda Turma, DJe 28.4.2015)
+    Além dos precedentes citados, destacam-se as seguintes decisões monocráticas, em casos idênticos a destes autos: ARE 1.023.689, Rel. Min. Ricardo Lewandowiski, DJe 15.2.2017 e ARE 1.060.797, Rel. Min. Dias Toffoli, DJe 23.8.2017, ambas transitadas em julgado.
+    Desse entendimento divergiu o acordão recorrido.
+    Ante ao exposto, dou provimento ao recurso extraordinário (932, VIII, do NCPC, c/c art. 21, §1º, do RISTF ), para restabelecer a sentença (eDOC 7), invertidos os ônus de sucumbência.
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
