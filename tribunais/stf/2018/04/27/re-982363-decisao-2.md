@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. TRANSFERÊNCIA AO MUNICÍPIO DO SISTEMA DE ILUMINAÇÃO PÚBLICA REGISTRADO COMO ATIVO IMOBILIZADO EM SERVIÇO. PROCESSO CIVIL. AMICUS CURIAE. ABRADEE. CUMPRIMENTO DOS REQUISITOS SUBJETIVOS E OBJETIVOS PARA INGRESSO NO FEITO. PEDIDO DEFERIDO.
+    DECISÃO: Referente às Petições 4.246/2017 , 5.371/2017 e 5.609/2017.
+    A Associação Brasileira dos Distribuidores de Energia Elétrica – ABRADEE, sociedade civil sem fins lucrativos, por intermédio das Petições 4.246/2017 e 5.371/2017, requer sua habilitação como amicus curiae nos presentes autos, sob o argumento da “indiscutível importância que o tema em questão traz consigo, da relevância dos impactos sociais, jurídicos e econômicos que a manutenção ou não da validade da ReN nº 414/2010 da ANEEL implica para, literalmente, todos os municípios e todas as Distribuidoras do país” (Vol. 4 – fl. 2).
+    A ABRADEE, por intermédio da Petição 5.609/2017, requer que todas as publicações e intimações relativas ao presente feito sejam realizadas exclusivamente em nome do procurador João Dácio Rolim, OAB/DF 1941-A, sob pena de nulidade.
+    É o relatório. DECIDO.
+    Com efeito, a admissibilidade de amicus curiae, por si só, não compromete a celeridade do feito. Por não adquirir qualidade de parte, o amicus curiae não altera a competência nem possui legitimidade recursal, razão pela qual não compromete a celeridade processual, como já tive oportunidade de me manifestar em doutrina (FUX, Luiz. Mandado de Segurança. Rio de Janeiro: Forense, p. 35). Ao contrário, ao oferecer subsídios para o desate da lide, a atuação daquele no feito apresenta a possibilidade de enriquecer o debate e, assim, auxiliar a Corte na formação de sua convicção.
+    Ademais, a participação do amicus é excepcional, o que se corrobora pela estipulação de requisitos subjetivos e objetivos para ingresso. Dessa forma, seu ingresso no feito não se traduz em direito subjetivo (COVEY Jr., Frank M. Amicus Curiae: Friend of The Court. DePaul Law Review. 9, 1959-1960, p. 30). Cabe ao Relator, na análise do binômio relevância–representatividade, a avaliação dos benefícios potencialmente auferíveis dessa participação, bem como a delimitação de seus poderes. A celeridade processual, então, assegura-se pelo indeferimento dos pedidos daqueles que pouco têm a contribuir.
+    Deveras, a Associação Brasileira dos Distribuidores de Energia Elétrica – ABRADEE, desempenha, in casu, relevante papel enquanto colaborador do presente processo de fiscalização de normas jurídicas, em reforço, inclusive, com as recentes tendências do princípio da cooperação processual (artigo 6º do CPC/2015), devendo, por isso, ingressar no feito sub examine.
+    Ex positis, DEFIRO o ingresso no feito, na qualidade de amicus curiae, da Associação Brasileira dos Distribuidores de Energia Elétrica – ABRADEE e determino, outrossim, que as suas intimações sejam realizadas exclusivamente em nome do procurador João Dácio Rolim, OAB/DF 1941-A.
+    À Secretaria para as providências de praxe.
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
