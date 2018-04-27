@@ -1,0 +1,34 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal de Justiça do Ceará, assim ementado:
+APELAÇÃO CRIMINAL - TRÁFICO DE SUBSTÂNCIA ENTORPECENTE, ART. 33 DA LEI 11.343/06 - PRELIMINARMENTE, PELA NULIDADE DO DECISUM VERGASTADO POR AUSÊNCIA DE FUNDAMENTAÇÃO QUANDO DA APLICAÇÃO DA PENA ACIMA DA MÍNIMA LEGAL - IMPROCEDÊNCIA - ART. 42 DA NOVA LEI DE DROGAS QUE PREPONDERA SOBRE O ART. 59 DO CP - PENA MÍNIMA AUMENTADA EM RAZÃO DA NATUREZA E QUANTIDADE DA DROGA APREENDIDA (1011 gramas de crack) - PRELIMINAR REJEITADA.
+NO MÉRITO, POR SUA ABSOLVIÇÃO E, ALTERNATIVAMENTE, PELA APLICABILIDADE DA PENA MÍNIMA LEGAL TESE INSUBSISTENTE - MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS APELO IMPROVIDO.
+Preliminarmente, ressalto que não há que se falar em ausência de fundamentação, se o julgador sentenciante preponderou a natureza e a quantidade da droga apreendida para elevar a pena mínima legal.
+Preliminar rejeitada.
+No mérito, quanto à autoria, os elementos de convicção estão, de forma segura, como o responsável pelo evento delitivo, tendo em vista a apreensão de 1011 gramas de crack, 5 unidades de pote plástico de bicarbonato de sódio 100g da cor branca e tampa verde, 2 unidades de caixas de bicarbonato de sódio de 50g e 1 unidade de rolo de papel alumínio, elementos estes que se fizeram presumir tratar-se de ponto de venda de drogas, não havendo que se falar em absolvição.
+No que tange ao pleito de aplicabilidade da pena mínima legal, entendo, de igual forma, que não mereça prosperar, momento em que sou pela manutenção do decisum em seus integrais termos.
+Apelo improvido. (e-STJ fl. 246)
+Sustenta a defesa a violação dos arts. 59, 68, 156 e 386, VII, do Código de Processo Penal alegando, em síntese, a inexistência de provas suficientes para a condenação do recorrente. Aduz, também, que as circunstâncias judiciais do art. 59 do CP foram analisadas de forma genérica, devendo a pena-base retornar ao mínimo legal.
+Contrarrazões às e-STJ fls. 303/313.
+Manifestação do Ministério Público Federal pelo não conhecimento do recurso às e-STJ fls. 387/389.
+É o relatório. Decido.
+A irresignação não prospera.
+Os elementos existentes nos autos informam que o Tribunal de Justiça do Ceará negou provimento ao apelo defensivo e manteve a sentença que condenou o recorrente à pena de 8 (oito) anos de reclusão, em regime fechado, pelo cometimento do crime do art. 33 da Lei n. 11.343/2006.
+Neste recurso, a defesa alega, inicialmente, que inexistem provas suficientes para a condenação do recorrente.
+Ocorre que a referida questão não pode ser analisada no âmbito do recurso especial por não prescindir do reexame de provas, providência vedada pelo Enunciado n. 7 da Súmula deste Tribunal. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 33, CAPUT, E 40, III, AMBOS DA LEI Nº 11.343/2006. TRÁFICO DE DROGAS. PLEITO CONDENATÓRIO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INADMISSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar o decreto condenatório, ou a ensejar a absolvição, porquanto é vedado na via eleita o reexame de fatos e provas. Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 948.377/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 12/09/2016)
+Observa-se, por fim, que, não obstante a defesa apontar como violado o art. 59 do Código Penal, não explicitou de que maneira ocorreu tal afronta, alegando genericamente que inexistem elementos para dosar a pena-base de modo mais gravoso, sem sequer especificar qual ou quais das circunstâncias se ressente(m) de fundamentação idônea. Incidência da Súmula n. 284/STF. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS ACLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. MALFERIMENTO AO ART. 41 DO CPP. INÉPCIA DA DENÚNCIA. INEXISTÊNCIA. DESCRIÇÃO SUFICIENTE DOS FATOS. SENTENÇA CONDENATÓRIA. TESE DE INÉPCIA DA INICIAL. PRECLUSÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. CONTRARIEDADE AO ART. 22 DO CP. INEXIGIBILIDADE DE CONDUTA DIVERSA. VIOLAÇÃO AO § 4º DO ART. 33 DA LEI Nº 11.343/06 E AO ART. 59 DO CP. CAUSA DE DIMINUIÇÃO DA PENA. QUANTUM DE DIMINUIÇÃO. REEXAME FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AFRONTA AOS ARTS. 65, III, "D" E 33, §§ 2º E 3º, AMBOS DO CP. AUSÊNCIA DAS RAZÕES JURÍDICAS DA VULNERAÇÃO. APELO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+5. Aplicável o enunciado 284 da Súmula do Supremo Tribunal Federal quando o recorrente, apesar de apontar o dispositivo legal, não indica precisamente as razões jurídicas pelas quais considerou violada a norma.
+6. Agravo regimental a que se nega provimento (AgRg nos EDcl no AREsp 817.327/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 18/2/2016).
+Ainda que assim não fosse, o art. 42 da Lei n. 11.343/2006 estabelece que o magistrado, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente, tal como no caso em tela em que a pena foi exasperada em razão da apreensão de mais de um quilo de crack. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS E AQUISIÇÃO DE MAQUINÁRIO DESTINADO À FABRICAÇÃO DE ENTORPECENTES. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTO VÁLIDO. AUMENTO PROPORCIONAL. MANIFESTA ILEGALIDADE NÃO VERIFICADA. WRIT NÃO CONHECIDO.
+ ..
+2. A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados pela lei, sendo permitido ao julgador, contudo, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios estabelecidos na dosimetria.
+3. Nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+ ..
+5. Habeas corpus não conhecido. (HC 433.187/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 11/04/2018)
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intime-se.
