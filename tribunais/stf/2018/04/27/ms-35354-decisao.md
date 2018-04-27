@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Cuida-se de mandado de segurança impetrado pelo Ministério Público Federal em face do Presidente da Comissão Parlamentar Mista de Inquérito - CPI da JBS, com o fim de obter concessão da ordem, para “que seja invalidada a convocação do membro do Ministério Público para depor sobre o tema objeto da CPMI em apreço e para que a digna autoridade impetrada se abstenha de reiterar convocação dessa ordem”.
+    Concedi a liminar pleiteada, em decisão datada de 20/11/17, para suspender qualquer ato tendente à convocação do membro do parquet, o Procurador Regional da República Eduardo Botão Pelella, perante a Comissão Mista de Inquérito instituída pelo requerimento n. 01, de 2017, sob a compreensão de que eventual convocação implicaria apreciação indevida de suas atribuições institucionais (eDoc. 5).
+    Contra esse decisum de natureza precária, a autoridade tida como coatora apresentou pedido de reconsideração e, caso não obtido êxito, pleitou seu recebimento como agravo interno (e Doc. 10).
+    A douta PGR se manifestou pela extinção do presente mandamus, sem resolução de mérito, ao argumento de perda superveniente de seu objeto (eDoc. 15).
+    É o relato do necessário. Decido.
+    Bem examinados os autos, tenho que é o caso se julgar prejudicada a apreciação do mandamus, dada a perda superveniente de seu objeto.
+    Isso porque se pretende, na espécie, obstar a convocação de membro do parquet para prestar depoimento à Comissão Parlamentar Mista de Inquérito criada por força do Requerimento n. 1, de 30 de maio de 2017 – destinada a investigar supostas irregularidades envolvendo as empresas JBS e J&F -, sob argumento, em suma, de que não se pode compelir aquela autoridade a apresentar quaisquer esclarecimentos à CPMI sobre atos praticados em decorrência de seu ofício.
+    Ocorre que, em consulta ao sítio do Senado Federal, apercebo que os trabalhos investigatórios da CPMI criada por meio do Requerimento n. 01/2017 encontram-se encerrados, com relatório final aprovado em 14/12/2017, o que implica prejudicialidade da apreciação do presente writ, dada a perda superveniente de seu objeto.
+    Nesse sentido é a jurisprudência desta Corte Suprema. Vide:
+    “Agravo Interno em Mandado de Segurança. Comissão Parlamentar de Inquérito. Encerramento das suas atividades. Perda Superveniente do Objeto. Prejudicialidade do Writ. Desprovimento do agravo. 1. Extinta a Comissão Parlamentar de Inquérito pela conclusão dos seus trabalhos tem-se por prejudicado o mandado de segurança por perda superveniente do objeto, não mais existindo legitimidade passiva do órgão impetrado. Precedentes. 2. A instauração de nova CPI nos mesmo moldes da comissão da qual dimanou o ato atacado pelo presente mandamus não tem o condão de superar a prejudicialidade decorrente da extinção da primeira CPI. 3. Agravo interno julgado improcedente em votação unânime da Segunda Turma do Supremo Tribunal Federal, com fixação de multa nos termos do art. 1.021, §4º, CPC” (MS n. 34318 AgR, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 28/6/17 – grifei).
+    “MANDADO DE SEGURANÇA - COMISSÃO PARLAMENTAR DE INQUÉRITO - EXTINÇÃO - PERDA SUPERVENIENTE DE OBJETO - AÇÃO MANDAMENTAL PREJUDICADA - RECURSO DE AGRAVO IMPROVIDO. - A jurisprudência do Supremo Tribunal Federal considera prejudicadas as ações de mandado de segurança e de "habeas corpus", sempre que - impetrados tais "writs" constitucionais contra Comissões Parlamentares de Inquérito - vierem estas a ser declaradas extintas, em virtude da conclusão de seus trabalhos investigatórios e da aprovação de seu relatório final. Precedentes” (MS n. 25995 AgR-AgR, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe de 18/9/9 – grifei).
+    Pelo exposto, julgo prejudicado o presente mandamus por perda de seu objeto, nos termos do art. 485, VI, do CPC.
+    Prejudicada a apreciação do pedido de reconsideração do provimento monocrático de natureza cautelar.
+    Publique-se. Intime-se.
+    Brasília, 27 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
