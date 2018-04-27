@@ -1,0 +1,41 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão prolatado, pela 7ª Turma do Tribunal Regional Federal da 3ª Região no julgamento de apelação, assim ementado (fl. 553e):
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO EXCEPCIONAL COM BASE NO ART. 543-B, § 3º, DO CPC. REPRESENTATIVO DA CONTROVÉRSIA. A CONSTITUIÇÃO FEDERAL EXIGE QUE O ACÓRDÃO OU DECISÃO SEJAM FUNDAMENTADOS, AINDA QUE SUCINTAMENTE, SEM DETERMINAR, CONTUDO, O EXAME PORMENORIZADO DE CADA UMA DAS ALEGAÇÕES OU PROVAS, NEM QUE SEJAM CORRETOS OS FUNDAMENTOS DA DECISÃO. APLICAÇÃO ADEQUADA DO PARADIGMA AO CASO CONCRETO. RECURSO MANIFESTAMENTE PROTELATÓRIO. MULTA POR LITIGÃNCIA DE MÁ-FÉ. AGRAVO IMPROVIDO.
+I - O agravante se insurge contra a adequação do seu recurso extraordinário ao paradigma julgado pelo E. STF no âmbito da repercussão geral (AI nº 791.292/PE), nos moldes estabelecidos pelo artigo 543-B, § 3º, do CPC.
+II - O recurso extraordinário interposto pelo agravante traz em seu bojo tese contrária ao entendimento sufragado pelo STF no julgamento do paradigma indicado, segundo o qual se exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+III - Recurso manifestamente protelatório. Litigância tic má-fé caracterizada. Incidência da multa prevista no artigo 17, incisos IV, V e VII, c.c.
+18, caput, todos do CPC.
+IV - Agravo regimental improvido.
+Opostos embargos de declaração, foram rejeitados (fls. 450/457e).
+Com amparo no art. 105, III, a, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos artigos 14, II, III e V; 17, IV, V e VII, 18, 543-B, §3º e 544 do Código de Processo Civil , alegando-se, em síntese, que manejar recurso previsto no ordenamento jurídico e de acordo com o entendimento tranquilo dos Tribunais Superiores não confronta com os deveres das partes e não corresponde à litigância de má fé, estando o Recorrente, portanto, em exercício regular de direito.
+Sem contrarrazões, o recurso foi inadmitido (fl. 602/604e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fls. 625e).
+O Ministério Público Federal manifestou-se às fls. 620/623e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a configuração de litigância de má-fé, nos seguintes termos (fls. 550/552e):
+No caso vertente, depreende-se que o v. acórdão está suficientemente fundamentado, tendo o órgão julgador, após cumprir análise exauriente dos autos, mantido a sentença favorável ao segurado (pensionista de ex -combatente).
+Nessa toada, o que se verifica é o manifesto inconformismo do agravante com a solução dada à controvérsia.
+Vê-se, pois, que a tese do agravante é contrária ao entendimento sufragado pela Suprema Corte, no âmbito de recurso representativo de controvérsia.
+Em verdade, a interposição deste recurso bem demonstra a indisposição da parte recorrente em acatar qualquer decisão que ponha termo à controvérsia, o que conspira contra a rápida solução do litígio e agride flagrantemente o princípio constitucional da duração razoável do processo. A conduta assim perpetrada viola, outrossim, dever inescusável das partes e de todos aqueles que participam do processo, consistente em proceder com lealdade e boa -fé, não formulando pretensões destituídas de fundamento nem criando embaraços à efetivação de provimentos judiciais (CPC, artigo 14, II, III e V).
+A interposição deste recurso obriga, finalmente, ao reconhecimento de que se trata de expediente manifestamente protelatório, configurador de litigância de má-fé, ex vi do artigo 17, IV, V e VII, do CPC.
+De se consignar que em casos análogos, nos quais a parte se insurge contra a adequação do caso concreto ao paradigma resolvido no âmbito dos repetitivos ou de repercussão geral, os Tribunais Superiores têm, reiteradamente, aplicado multa, de forma a coibir a conduta temerária do recorrente, que insiste em obstar o trânsito em julgado de decisão que lhe é desfavorável.
+(..)
+Ante o exposto, nego provimento ao agravo regimental e, com fundamento nos artigos 17, IV, V e VII, c.c. 18, capuz, todos do CPC, condeno o agravante ao pagamento de multa por litigância de má-fé, em favor da parte contrária e por valor equivalente a 1% (um por cento) do valor da causa
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, reformando o acórdão recorrido para afastar a litigância de má-fé demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL. LITISPENDÊNCIA. COISA JULGADA. LITIGÂNCIA DE MÁ-FÉ. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7. INCIDÊNCIA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+2. A análise da tese recursal de existência de litispendência/coisa julgada depende do reexame do conjunto fático-probatório dos autos, o que é inviável no âmbito do recurso especial. Incidência do óbice da Súmula 7.
+3. O Tribunal de origem, para aplicar a multa por litigância de má-fé, reconheceu que a recorrente agiu de forma temerária, "atentando contra a credibilidade do Poder Judiciário", de modo que a revisão desse entendimento demandaria o reexame de matéria fático-probatória, providência vedada na sede especial, por força da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 872.521/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 07/12/2017, DJe 16/02/2018)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. OFERECIMENTO À PENHORA DE IMÓVEL INEXISTENTE. CONDENAÇÃO EM LITIGÂNCIA DE MÁ-FÉ. POSSIBILIDADE DE PENHORA SOBRE FATURAMENTO DA EMPRESA.
+1. O Tribunal a quo entendeu que a oferta de imóvel inexistente à penhora constitui em litigância de má-fé. Esclareço que modificar tal conclusão, de modo a acolher a tese da recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+2. A penhora de faturamento da empresa só pode ocorrer em casos excepcionais, que devem ser avaliados pelo magistrado à luz das circunstâncias fáticas apresentadas no curso da Execução, obedecendo o que preceitua o art. 866 do CPC e desde que não existam outros bens penhoráveis e a constrição não afete o funcionamento da empresa.
+3. Dessarte, correta a decisão da Corte regional que fixou a penhora sobre o faturamento da empresa no percentual de 5% "como forma de equilibrar a relação de forças entre as partes da execução fiscal, de modo a preservar a atividade empresarial desenvolvida e permitir que, ao menos uma parte do débito tributário, seja revertido para os cofres públicos".
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1696970/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/11/2017, DJe 19/12/2017)
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
