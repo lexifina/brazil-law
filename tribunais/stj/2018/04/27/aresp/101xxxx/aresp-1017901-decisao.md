@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA REGIONAL DE CONSUMO DOS FUNCIONÁRIOS DO BANCO DO BRASIL SANTA MARIA LTDA - COOBB em que pretende admissão de recurso especial, no qual alega violação do art. 462 do CPC/1973 e afirma ser nula a sentença, tendo em vista que o juízo de origem deixou de valorar quesitos respondidos em perícia judicial realizada em processo diverso, mas que demonstrariam o reconhecimento do direito de tributar sua receita de modo distinto do exigido na execução fiscal originária do presente apelo extremo.
+Com contrarrazões, o recurso não foi admitido ante a incidência do óbice disposto na Súmula 7 do STJ, fundamento com o qual não concorda a agravante.
+Contraminuta apresentada pela parte agravada.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC de 2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa consideração, importa mencionar, inicialmente, que o recurso especial origina-se de embargos à execução fiscal opostos pela agravante.
+No primeiro grau de jurisdição, após a decretação de nulidade do provimento jurisdicional primevo, ante o reconhecimento de cerceamento de defesa, o Juízo da 4ª Vara Federal de Santa Maria julgou improcedentes os embargos, extinguindo o processo com julgamento de mérito, nos termos do art. 269, I, do CPC.
+Irresignada, a agravante interpôs recurso de apelação, desprovido pelo TRF da 4ª Região. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 2.420/2.425)
+No processo nº 1999.71.02.004769-1 foi reconhecida a não incidência de tributos sobre as receitas oriundas de atos cooperativos. O acórdão desta ação restou assim ementado:
+(..)
+Houve trânsito em julgado do referido feito, sendo posteriormente levantados pela Cooperativa os valores depositados junto àquela demanda.
+Assim, não há discussão alguma sobre não incidência de tributos sobre as receitas oriundas de atos cooperativos, uma vez que já acobertada pela coisa julgada.
+De igual forma, não há pertinência na discussão acerca da incidência sobre atos não cooperados, uma vez que os tributos em execução tiveram origem no equívoco do preenchimento das declarações pela própria executada, que lançou valores já restituídos (recolhidos em depósito judicial em diversos processos) como valores já pagos de tributo.
+Os créditos em cobrança no Processo Administrativo nº. 11060.900.598/2006- 44 referem-se à contribuição social exercício 2003, ano-calendário de 2002 (evento 2 - ANEXOS PET INI 3, fl. 42).
+Os créditos em cobrança no Processo Administrativo nº 11060.001.710/2008- 24, por sua vez, referem-se a imposto e a crédito de IOF, devidos no período de agosto de 2002 a maio de 2004 (evento 2 - ANEXOS PET INI 3, fl. 43).
+Todos estes créditos são decorrentes de Termo de Confissão Espontânea, decorrente de pedidos de compensação, tendo como crédito saldo negativo de IRPJ apurado no exercício de 2003, ano-calendário 2002.
+(..)
+De tudo que foi exposto, entendo que restou comprovado que foi correta a autuação fiscal. Também ficou demonstrado que, quanto aos atos não-cooperativos, era de conhecimento da cooperativa a necessidade de segregar suas receitas.
+Também adoto com razões de decidir os argumentos contidos na sentença, uma vez que o juízo de primeira instância apreciou as questões de fato e de direito de forma minuciosa, não tendo a recorrente logrado apontar equívoco naquele entendimento:
+(..)
+Reitero, por pertinente, que, como bem asseverou o julgador em seus aclaratórios, "não houve tributação em desrespeito ao julgado nos processos anteriores, mas sim correção nos valores equivocadamente declarados como recolhidos, com a cobrança do saldo faltante, já considerando o direito à isenção; conforme conclusão do expert, sequer houve "incremento" do imposto considerado devido pela própria cooperativa, mas, justamente, apenas a cobrança do saldo entre aquilo que foi efetivamente recolhido (após a restituição dos depósitos judiciais) e aquilo que foi declarado como recolhido (incluindo os depósitos judiciais)".
+Assim, resta mantida a autuação fiscal e a execução fiscal dela decorrente.
+Os embargos de declaração opostos pela agravante foram rejeitados.
+Pois bem.
+Em primeiro lugar, observa-se claramente que a instância ordinária não emitiu juízo de valor expresso sobre o disposto no art. 462 do CPC/1973. Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação da Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De todo modo, o TRF da 4ª Região assim se manifestou quanto à apreciação da perícia judicial realizada em processo diverso - tese ratificada pela Corte na oportunidade em que apreciados os embargos declaratórios (e-STJ fl. 2.459):
+No voto foi referido que "não houve tributação em desrespeito ao julgado nos processos anteriores, mas sim correção nos valores equivocadamente declarados como recolhidos, com a cobrança do saldo faltante, já considerando o direito à isenção;
+conforme conclusão do expert, sequer houve "incremento" do imposto considerado devido pela própria cooperativa, mas, justamente, apenas a cobrança do saldo entre aquilo que foi efetivamente recolhido (após a restituição dos depósitos judiciais) e aquilo que foi declarado como recolhido (incluindo os depósitos judiciais).
+É bom que se esclareça, também, que a perícia realizado no processo nº 5004106-53.2010.404.7102, no item 8, referiu que "conforme documentos juntados ao processo físico houve a retificação da contabilidade dos anos calendários 2003 à 2007, bem como há comprovação do efetivo recolhimento dos créditos apurados neste procedimento". Entretanto, neste processo, estão sendo cobrados tributos relativos ao ano-calendário 2002 (evento 2 - ANEXOS PET INI 3, fl. 42).
+Ressalto, inclusive, que a perícia realizada neste processo (evento 2, LAUD 42 e evento 34) foi enfática em dizer que, "por ocasião da entrega das DECOMP, a autora tinha conhecimento da incidência tributaria tão somente sobre atos não-cooperado".
+E a conclusão do perito foi de que são devidas as exigências cobradas na Execução Fiscal nº 2009.71.02.001464-4.
+Assim, não há desrespeito a perícia realizada em outro processo judicial, mas sim a prevalência do que foi verificado pela perícia nestes autos processuais.
+Da leitura do excerto supra, percebe-se que as conclusões da perícia realizada em processo diverso foram rechaçadas, seja porque no presente feito estão sendo cobrados tributos relativos a ano-calendário não examinado naquela perícia, seja pelo fato de a cobrança dizer respeito à correção dos valores equivocadamente declarados como recolhidos.
+Nas razões do recurso especial, todavia, a agravante não impugnou esses fundamentos, limitando-se a afirmar que o Tribunal desrespeitou o disposto no art. 462 do CPC/1973.
+Com efeito, a ausência de impugnação de fundamento central do acórdão, que é suficiente para mantê-lo, atrai a incidência da Súmula 283 do STF, segundo a qual: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Finalmente, considerado o contexto delineado no acórdão recorrido, nota-se que sua eventual reforma está vinculada a novo exame de provas, providência não adequada em recurso especial, consoante enunciado da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
