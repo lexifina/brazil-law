@@ -1,0 +1,19 @@
+Decisão
+    Cuida-se de Agravo interposto pela UNIÃO contra decisão da instância de origem que, aplicando precedente desta CORTE formado sob a sistemática da repercussão geral (RE 855.178 -RG, Rel. Min. LUIZ FUX, Tema 793), julgou prejudicado, no ponto, o Recurso Extraordinário e, quanto às demais questões, inadmitiu o apelo extremo apontando violação reflexa à Carta Magna e o óbice da Súmula 279 do STF, aduzindo, ainda, que, “nos pontos alusivos ao requerimento de parcial provimento para o direcionamento da obrigação ao ente federativo pertinente, bem como a questão da repartição do ônus financeiro da prestação que é objeto de condenação judicial – divisão 'pro rata' e ressarcimento administrativo, restam prejudicadas as pretensões, busque a resolução nas vias ordinárias” (fl. 346, Evento 56, Vol. 3)
+    A parte agravante sustenta que (a) não pretende abordar a decisão que declarou prejudicado o recurso, pois a matéria foi pacificada em sede de repercussão geral (fl. 387, Vol. 3); (b) há ofensa direta à Constituição Federal; e (c) no caso, é inaplicável o Verbete 279/STF. No mais, renova as razões de apelo extremo.
+    É o relatório. Decido.
+    A matéria devolvida à análise desta CORTE cinge-se à questão da repartição do ônus financeiro da prestação que é objeto de condenação judicial – divisão “pro rata” e ressarcimento administrativo.
+    Quanto à alegação de afronta à ampla defesa e ao direito de ação, o apelo extraordinário não tem chances de êxito, pois esta CORTE, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.
+    Ademais, o Tribunal de origem assim se manifestou no que tange à questão em análise (fl. 204, Vol. 3):
+    “É certo que os réus são solidários nesta ação, e, a partir dessa solidariedade, é que deverão, administrativamente, proceder à repartição/ressarcimento dos valores de compra do medicamento entre si, haja vista ser medida de cunho administrativo que não deve ser resolvido na esfera judicial, mas na executiva.
+    Portanto, determino que as tratativas referentes ao reembolso de valores entre os réus dêem-se no âmbito administrativo.”
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as ofensas à indicadas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Nesse sentido, confira-se trecho da decisão do Eminente Decano desta CORTE, Min. CELSO DE MELLO (ARE 979.166, DJe de 9/8/2016) proferida em caso idêntico a este:
+    “De outro lado, quanto aos ressarcimentos na via administrativa, a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEYSANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.”
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO DA UNIÃO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
