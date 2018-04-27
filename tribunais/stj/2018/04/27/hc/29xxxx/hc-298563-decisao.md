@@ -1,0 +1,50 @@
+EMENTA
+HABEAS CORPUS. TENTATIVA DE FURTO DE 5 BARRAS DE CHOCOLATE, NO VALOR TOTAL DE R$ 25, 00 (VINTE E CINCO REAIS). RESTITUIÇÃO DOS BENS À VÍTIMA. ACUSADA REINCIDENTE. VALOR DA RES FURTIVA IRRISÓRIO. REDUZIDA OFENSIVIDADE PENAL E SOCIAL DA CONDUTA EXCEPCIONALIDADE DO CASO CONCRETO. ATIPICIDADE MATERIAL DA CONDUTA. PRECEDENTES DESTA CORTE. CONSTRANGIMENTO ILEGAL CONFIGURADO
+Ordem concedida, a fim de reconhecer a ausência de tipicidade material da conduta imputada à paciente na Ação Penal n. 0025511-30.2012.8.26.0050 (Controle nº 473/12), da 23ª Vara Criminal de São Paulo/SP, determinando, por consequência, a absolvição.
+DECISÃO
+Trata-se de habeas corpus impetrado pela Defensoria Pública em favor de [NOME], apontando como autoridade coatora a Décima Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que negou provimento à Apelação n. 0025511-30.2012.8.26.0050, mantendo a sentença condenatória, com esta ementa (fl. 38):
+APELAÇÃO - FURTO SIMPLES TENTADO EM SUPERMERCADO - ABSOLVIÇÃO POR TRATAR-SE DE CRIME IMPOSSÍVEL - Descabimento: Embora a vigilância nos estabelecimentos comerciais sirva para minorar as subtrações, não as torna impossível e, assim, inviável falar-se em absoluta impropriedade do meio, já que a maioria das subtrações se dá pela ocultação de mercadorias pelos clientes.
+AGENTE REINCIDENTE EM CRIME PATRIMONIAL - APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - Impossibilidade: Ao demonstrar, por seu histórico de crimes, fazer das subtrações seu meio de vida, pouco importa o valor do butim, já que a absolvição seria um incentivo inaceitável para manter-se na seara criminosa. Recurso não provido.
+
+Narra a defensora pública que o Juízo da Vigésima Terceira Vara Criminal da comarca de São Paulo/SP (Processo nº 0025511-30.2012.8.26.0050 (Controle nº 473/2012) - fls. 28/31) condenou a paciente [NOME] à pena de 4 meses e 20 dias de reclusão, em regime inicial semiaberto, e pagamento de 3 dias-multa, pela prática do fato típico descrito no art. 155, caput, c/c o art. 14, II, ambos do Código Penal, facultado o recurso em liberdade.
+Irresignada, a defesa interpôs recurso de apelação (n. 0025511-30.2012 - fls. 37/42), objetivando a absolvição, ao argumento de crime impossível pela absoluta impropriedade do meio empregado ou, então, pela aplicação do princípio da insignificância. O Tribunal a quo, por unanimidade, negou provimento ao apelo defensivo, em acórdão assim ementado (fl. 38):
+APELAÇÃO - FURTO SIMPLES TENTADO EM SUPERMERCADO - ABSOLVIÇÃO POR TRATAR-SE DE CRIME IMPOSSÍVEL - Descabimento: Embora a vigilância nos estabelecimentos comerciais sirva para minorar as subtrações, não as torna impossível e, assim, inviável falar-se em absoluta impropriedade do meio, já que a maioria das subtrações se dá pela ocultação de mercadorias pelos clientes.
+AGENTE REINCIDENTE EM CRIME PATRIMONIAL - APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - Impossibilidade: Ao demonstrar, por seu histórico de crimes, fazer das subtrações seu meio de vida, pouco importa o valor do butim, já que a absolvição seria um incentivo inaceitável para manter-se na seara criminosa. Recurso não provido.
+Impetrado então o presente habeas corpus, a defensora pública almeja, em suma, a concessão da ordem de Habeas Corpus em favor de [NOME], R.G. nº 51.633.431-1, para que seja reconhecida a atipicidade material da conduta que lhe foi imputada, pela aplicação do princípio da insignificância, tornando-se definitiva a decisão liminar (fl. 11).
+Liminar indeferida pelo então Presidente em exercício, Ministro Gilson Dipp, nestes termos (fl. 48):
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de [NOME], contra acórdão do Tribunal de Justiça do Estado de São Paulo, que deu negou provimento ao recurso de apelação, mantendo a sentença condenatória por seus próprios fundamentos.
+Consta dos autos que a paciente foi condenada à pena de 04 meses e 20 dias de reclusão, em regime inicial semiaberto, pela prática do delito descrito no art. 155, caput, c/c art. 14, II, ambos do Código Penal.
+No presente writ, a defesa sustenta ser o caso de aplicação do princípio da insignificância, uma vez que a ré teria tentado subtrair 05 barras de chocolate, avaliadas em R$25,00 (vinte e cinco reais), sendo inexpressiva, portanto, a lesão causada.
+Aduz, ainda, que, diante do reconhecimento da atipicidade dos fatos praticados pela acusada, pouco importa que a mesma seja portadora de maus antecedentes ou mesmo reincidente.
+Pugna, assim, pelo trancamento da ação penal contra ele instaurada, em razão da ausência de justa causa para a persecução criminal.
+Entretanto, não se pode acolher a pretensão liminar, pois não se verifica, em princípio, ilegalidade flagrante no acórdão atacado, fazendo-se ausentes os requisitos indispensáveis ao atendimento do pleito de urgência.
+Ademais, a eventual concessão do pedido liminar depende de incursão no próprio mérito do writ, o que deve ser feito pelo Órgão Colegiado competente desta Corte, no momento oportuno.
+Diante do exposto, indefiro a liminar.
+Solicitem-se informações à Autoridade Coatora.
+Dê-se vista ao Ministério Público Federal, para parecer.
+Após, façam-se os autos conclusos ao Relator.
+Publique-se. Intimem-se.
+Prestadas as informações (fls. 51/73), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 77/78).
+Requisitadas informações atualizadas acerca do eventual cumprimento da pena pela ora paciente (fls. 98 e 103), foram-me assim prestadas pelo Juízo de Direito da 4ª Vara das Execuções Criminais de São Paulo/SP (fl. 115):
+ ..
+A paciente suporta execução criminal neste juízo para o cumprimento de pena privativa de liberdade de 6 anos, 7 meses e 10 dias de reclusão. Promovida ao regime aberto em 11 de maio de 2015, nunca compareceu ao setor de fiscalização de albergados e tampouco foi localizada no endereço que declarou residir. Por tal, em 21 de fevereiro de 2017 este juízo determinou a sustação cautelar do regime aberto.
+Aguarda-se o cumprimento do mandado de prisão ou a prescrição da pretensão executória.
+ ..
+É o relatório.
+A insurgência merece prosperar.
+Consta dos autos que a paciente foi denunciada por furto, porque no dia 20 de março de 2012, às 21h30, aproximadamente, na Avenida Sapopemba, nº 15894, bairro Jardim Rodolfo Pirani, nesta Capital, no supermercado Rossi New Ltda., a denunciada tentou subtrair, para si, cinco barras de chocolate Nestlé, avaliadas em R$ 25,00, pertencentes ao estabelecimento vítima, conforme auto de exibição e apreensão de fls. 11, somente não conseguindo consumar o crime por circunstâncias alheias à sua vontade (fls. 12/13).
+Em primeira instância, a ação penal foi julgada procedente para condenar a ré à pena de 4 meses e 20 dias de reclusão, em regime semiaberto, e pagamento de 3 dias-multa, como incursa no art. 155, caput, c/c o art. 14, II, ambos do Código Penal, facultado o recurso em liberdade (Ação Penal nº 0025511-30.2012.8.26.0050 (Controle nº 473/12) - fls. 28/31).
+Instado a se manifestar, o Tribunal a quo manteve a sentença monocrática, em todos os seus termos (Apelação nº 0025511-30.2012.8.26.0050 - fls. 37/42), consignando, no que se refere à aplicação do princípio da insignificância, o seguinte (fl. 41):
+ ..
+No presente caso, ainda, incabível a aplicação do princípio da insignificância ou do crime de bagatela, pois apesar do pequeno valor dos bens, avaliados em R$ 25,00 (vinte e cinco reais) (fls. 12), a apelante é useira e vezeira na prática de crimes patrimoniais, ostentando, inclusive, duas condenações com trânsito em julgado (fls. 71 e 75/76) deixando claro fazer do crime seu meio de vida.
+Nestas circunstâncias o non liquet certamente serviria como incentivo para que prosseguisse na seara criminosa, o que é inaceitável.
+ ..
+
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça entendem que, para a aplicação do princípio da insignificância, devem estar presentes, de forma concomitante, os seguintes requisitos: 1) conduta minimamente ofensiva; 2) ausência de periculosidade do agente; 3) reduzido grau de reprovabilidade do comportamento; e, 4) lesão jurídica inexpressiva.
+Relativamente ao grau de reprovabilidade do comportamento do acusado, a Terceira Seção do Superior Tribunal de Justiça firmou, em 11/11/2015, o entendimento de que, em regra, a reiteração criminosa inviabiliza a aplicação do princípio da insignificância, ressalvada a possibilidade de, no caso concreto, as instâncias ordinárias verificarem que a medida é socialmente recomendável (EAREsp n. 221.999/RS, Ministro Reynaldo Soares da Fonseca, DJe 10/12/2015).
+In casu, observo que, a despeito de a acusada registrar duas condenações definitivas anteriores por crimes patrimoniais (fl. 41), o que evidenciaria a maior reprovabilidade de seu comportamento, o valor irrisório subtraído - R$ 25,00 - dispensa, sem sombra de dúvidas, qualquer consideração acerca da mínima ofensividade da conduta.
+Logo, ante o ínfimo valor do produto subtraído, constato reduzida ofensividade penal e social da conduta, razão pelo qual deve ser afastada a intervenção do Direito Penal e absolvida a ré.
+Em casos análogos, esta Corte assim já decidiu: HC nº 420.450/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/3/2018, AgInt no HC nº 391.969/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 20/3/2018, HC nº 418.945/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/12/2017, AgRg no AREsp nº 1103145/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/8/2017, AgRg no AREsp nº 1078971/MG, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/6/2017, HC nº 370.101/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/11/2016, AgInt no AREsp nº 948586/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 29/8/2016 e HC nº 314.232/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 31/3/2015.
+Ante o exposto, concedo a ordem impetrada para reconhecer a ausência de tipicidade material da conduta imputada à paciente na Ação Penal n. 0025511-30.2012.8.26.0050 (Controle nº 473/12), da 23ª Vara Criminal de São Paulo/SP, determinando, por consequência, a absolvição.
+Comunique-se com urgência.
+Publique-se.
