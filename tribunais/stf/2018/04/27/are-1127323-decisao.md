@@ -1,0 +1,21 @@
+Decisão
+    Trata-se de Agravo contra decisão que inadmitiu Recurso Extraordinário interposto em face de acórdão da Turma da Fazenda do Colégio Recursal de Araçatuba – SP, que recebeu a seguinte ementa (fl. 109, Vol. 1):
+    “IMUNIDADE TRIBUTÁRIA. Policial Militar da Reserva. Pretensão ao reconhecimento da isenção do art. 40, § 21, da CF. Norma aplicável não apenas aos servidores civis, mas também aos militares. Precedentes do Eg. TJ/SP. Correção monetária e juros de mora em conformidade com tema 810.Recurso desprovido. Sentença mantida.”
+    No apelo extremo, interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta violação ao art. 40, § 21, 42 e 142 , da CF/88.
+    Em contrarrazões, o recorrido alega que o acórdão recorrido está em conformidade com o ordenamento jurídico pátrio e com as provas dos autos, bem como que a matéria teve a repercussão geral reconhecida no RE 630.137 (Tema 317). No mais, pleiteia o desprovimento do recurso.
+    É o relatório. Decido.
+    Não merecem prosperar as alegações do recorrido, pois o acórdão recorrido divergiu da jurisprudência desta CORTE. Ademais, o recurso paradigma (RE 630.137, Tema 317) discute questão restrita aos servidores públicos civis, não alcançando os militares.
+    No caso, o Tribunal de origem concluiu ser aplicável ao ora recorrido, militar aposentado, a redução da contribuição previdenciária prevista no art. 40, § 21, da CF/88, ao fundamento de que, por ser portador de doença incapacitante, faz jus à imunidade parcial prevista no aludido dispositivo da Constituição, pois se trata de norma aplicável não apenas aos servidores civis, mas também aos militares. Colhe-se do acórdão o seguinte excerto (e-STJ, fls. 109, Vol. 1) :
+    “A r. sentença deve ser mantida pelos seus próprios e judiciosos fundamentos.
+     O art. 40, § 21, da CF estabelece que a contribuição prevista no § 18 deste artigo incidirá apenas sobre as parcelas de proventos de aposentadoria e de pensão que superem o dobro do limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201 desta Constituição, quando o beneficiário, na forma da lei, for portador de doença incapacitante.
+    Na espécie, não houve impugnação em relação ao fato de o autor estar acometido de doença incapacitante, de sorte que a questão é apenas de direito. Ou seja, se a imunidade conferida pelo artigo em tela se estende aos militares ou restringe-se apenas aos servidores públicos civis.
+    Como bem destacou o magistrado sentenciante, o texto constitucional não fez qualquer restrição naquele ponto, demonstrando a inequívoca intenção de estender a imunidade também aos militares.”
+    Tal entendimento, todavia, diverge da orientação firmada pelo SUPREMO TRIBUNAL FEDERAL na análise do RE 570.177 (Rel. Min. RICARDO LEWANDOWSKI, Tema 15), julgado pela sistemática da repercussão geral, em que se assentou que aos militares não se aplica o regime jurídico dos servidores civis. Confira-se:
+    “CONSTITUCIONAL. SERVIÇO MILITAR OBRIGATÓRIO. SOLDO. VALOR INFERIOR AO SALÁRIO MÍNIMO. VIOLAÇÃO AOS ARTS. 1º, III, 5º, CAPUT, E 7º, IV, DA CF. INOCORRÊNCIA. RE DESPROVIDO. I - A Constituição Federal não estendeu aos militares a garantia de remuneração não inferior ao salário mínimo, como o fez para outras categorias de trabalhadores. II - O regime a que submetem os militares não se confunde com aquele aplicável aos servidores civis, visto que têm direitos, garantias, prerrogativas e impedimentos próprios. III - Os cidadãos que prestam serviço militar obrigatório exercem um múnus público relacionado com a defesa da soberania da pátria. IV - A obrigação do Estado quanto aos conscritos limita-se a fornecer-lhes as condições materiais para a adequada prestação do serviço militar obrigatório nas Forças Armadas. V - Recurso extraordinário desprovido.” (grifo nosso)
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, CONHEÇO DO AGRAVO PARA ADMITIR O RECURSO EXTRAORDINÁRIO E DAR-LHE PROVIMENTO PARA JULGAR IMPROCEDENTE O PEDIDO INICIAL.
+    Ficam invertidos os ônus de sucumbência.
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
