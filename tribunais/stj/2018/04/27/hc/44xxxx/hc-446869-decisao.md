@@ -1,0 +1,11 @@
+DECISÃO
+ALESSANDRO PEREIRA, paciente neste habeas corpus substitutivo de recurso especial, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de decisão proferida por desembargador do Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 7014141-26.2014.8.26.0482.
+No caso vertente, o Juízo singular declarou remidos 7 dias da pena do sentenciado, porquanto teria desenvolvido 84 horas de estudo, ocasião em que determinou a elaboração de nova conta de liquidação. Irresignada, a defesa interpôs agravo em execução, sob a alegação de que "foram descontados os dias remidos do total da pena do agravante, posto que devessem ter sido computados como pena efetivamente cumprida, na forma od artigo 128 da LEP" (fl. 34).
+Todavia, a Corte de origem, por sua vez, deixou de conhecer do recurso, visto que, "da leitura da decisão hostilizada, não é possível concluir como será feito o abatimento do tempo declarado remido, ou, dito de maneira mais clara, o decisum objurgado não especificou a forma de desconto do tempo remido" (fl. 35, sublinhei).
+Ademais, o Tribunal local ainda apontou que "o recurso não veio adequadamente instruído, porque não foi juntado cálculo de atualização de penas elaborado em inobservância ao citado artigo 128 da LEP e respectiva decisão homologatória" (fls. 35-36, destaquei), de modo que é defeso a esta Corte Superior de Justiça a análise da matéria aventada. Confira-se:
+ ..
+I - A jurisprudência desta Corte Superior firmou-se no sentido de que a ação mandamental de habeas corpus exige a apresentação de prova pré-constituída, recaindo sobre o impetrante o ônus de instruir corretamente o mandamus, a fim de que seja possível identificar o alegado constrangimento ilegal.
+II - No presente caso, o impetrante não juntou aos autos cópia das decisões que estariam trazendo constrangimento ilegal aos Pacientes, apenas colaciona links de sítios eletrônicos de portais de notícias, em que este relator poderia acessar o conteúdo das decisões, tornando inviável a análise da quaestio.
+Agravo Regimental desprovido (AgRg no n. HC 438.187/PR, Rel. Ministro Felix Fischer, 5ª T., DJe 27/3/2018, grifei).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
