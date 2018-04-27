@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou admissão a recurso especial interposto pelo ESTADO DO RIO GRANDE DO SUL, com fundamento no artigo 105, inciso III, alínea a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+O recurso especial tem origem em embargos à execução interpostos pelo Estado do Rio Grande do Sul nos autos de ação para pagamento de diferenças relativas à promoção, com efeitos retroativos, de servidora pública, já em fase de execução, em que se alega prescrição da pretensão executória e, subsidiariamente, excesso de execução.
+A sentença de fls. 72-78 julgou parcialmente procedentes os embargos, apenas definindo os critérios para atualização do débito.
+O Estado interpôs a apelação de fls. 80-90.
+A decisão de fls. 113-124 negou seguimento ao recurso à vista dos seguintes fundamentos:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. EMBARGOS. ALEGAÇÃO DE PRESCRIÇÃO DA AÇÃO DE EXECUÇÃO. DESCABIMENTO. AUSÊNCIA DE INÉRCIA.
+De fato, entre o trânsito em julgado da ação ordinária e o ajuizamento da execução passaram- se mais de cinco anos. Contudo, não ficou comprovada a inércia da parte na fase de liquidação. Aliás, verificou-se que a parte foi diligente no sentido de buscar os documentos necessários para a realização do cálculo.
+Na esteira da jurisprudência do Eg. Superior Tribunal de Justiça, o lapso prescricional para a execução da sentença contra a Fazenda Pública só tem início quando finda a liquidação, que é fase do processo de conhecimento.
+Entendimento da jurisprudência dominante desta Corte.
+NEGADO SEGUIMENTO AO APELO, NA FORMA DO ART. 557, DO CPC, EM RAZÃO DA MANIFESTA IMPROCEDÊNCIA.
+O agravo interno de fls. 130-141 foi improvido pelo acórdão assim ementado:
+AGRAVO. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA. EMBARGOS. ALEGAÇÃO DE PRESCRIÇÃO DA AÇÃO DE EXECUÇÃO. DESCABIMENTO. AUSÊNCIA DE INÉRCIA.
+A parte, nas razões de agravo, não trouxe qualquer argumentação nova e capaz de mudar o entendimento acerca do caso em tela.
+AGRAVO DESPROVIDO (fl. 151).
+Opostos embargos de declaração, foram eles rejeitados pelo acórdão de fls. 177-186.
+Nas razões do recurso especial, alega a fazenda estadual, inicialmente, ofensa ao art. 1.022, inciso II, do CPC/2015. Sustenta que o tribunal deixou de se pronunciar acerca da suposta inexistência de fase de liquidação de sentença e da tese de que as diligências tendentes à obtenção de fichas financeiras para realização do cálculo não constituem causa legal da interrupção do lapso prescricional. Alega ainda que a Corte se negou a realizar o necessário prequestionamento da matéria federal (fls. 195-196).
+Em seguida, alega-se que o tribunal a quo negou vigência ao artigo 1º do Decreto n. 20.910/32, artigo 524, §§ 4º e 5º, do CPC/2015, artigos 197 a 204, 884, 885 e 886 do Código Civil e súmula 150 do STF. Argumenta-se que não se verifica, no caso, a existência de fase de liquidação de sentença, por se tratar de execução a ser realizada mediante simples cálculos aritméticos. Sustenta que "as diligências tendentes à obtenção de fichas financeiras para realização do cálculo não se constituem em incidente de liquidação e, portanto, não se caracterizam como causa legal da interrupção do lapso prescricional". Destarte, tendo transcorrido mais de 5 anos do trânsito em julgado da ação ordinária, estaria prescrita a pretensão executória (fls. 199-200).
+Foram apresentadas contrarrazões pela manutenção do acórdão recorrido (fls. 219-233).
+A decisão de inadmissibilidade do recurso especial tem fundamento na incidência da súmula n. 7/STJ.
+O agravo apresenta argumentos que visam a infirmar os fundamentos da decisão agravada.
+É o relatório. Decido.
+O agravante impugnou os fundamentos da decisão agravada e estão atendidos os demais pressupostos de admissibilidade do agravo. Assim, passo ao exame do recurso especial.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+Esta Corte possui entendimento de que "o atraso no fornecimento de contracheques e fichas financeiras não é hábil a interromper ou suspender o curso da prescrição, quando a liquidação da sentença se resume a meros cálculos aritméticos." (AgRg nos EDcl no REsp 1219052/DF, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 21/8/2012, DJe 29/8/2012.)
+No caso concreto, entretanto, o tribunal a quo, verificando que não houve inércia da parte exequente e que as diligências e informações enviadas pela Secretaria da Fazenda foram necessárias para a apuração do quantum debeatur, asseverou que não seria razoável prejudicar as exequentes por demora decorrente da morosidade dos mecanismos judicias, conforme se percebe do seguinte excerto (fl. 158):
+Durante este interregno, verifica-se que houve intensa atividade da parte embargada na fase de liquidação do feito (07/04/2008, 15/12/2008, 01/02/2011, 22/12/2011, 10/08/2012, 14/06/2013, 11/12/2014, 09/02/2015 e 02/03/2015 - fls. 112, 116, 122, 125, 129, 167/169, 226/228 e 232/234), tendo sido necessárias diligências e informações enviadas pela Secretaria da Fazenda até a apuração do quantum debeatur, vindo a ser a execução ajuizada em 12/05/2015 (fl. 243).
+Assim, embora a citação tenha sido realizada apenas em 08/06/2015 (fl. 246), não poderá a parte exequente ser prejudicada pela demora oriunda de questões alheias à sua vontade, decorrentes da morosidade dos mecanismos judiciários.
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame dos elementos fático-probatórios constante dos autos, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DISPOSITIVOS TIDOS POR VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. LIQUIDAÇÃO DE SENTENÇA. PRESCINDIBILIDADE. REEXAME FÁTICO. SÚMULA 7/STJ.
+(..)
+3. Não se desconhece a novel orientação desta Corte no sentido de que "o atraso no fornecimento de contracheques e fichas financeiras não é hábil a interromper ou suspender o curso da prescrição, quando a liquidação da sentença se resume a meros cálculos aritméticos." (AgRg nos EDcl no REsp 1219052/DF, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 21/8/2012, DJe 29/8/2012.)
+4. Todavia, os precedentes não se aplicam ao caso, em que o Tribunal local concluiu que tais documentos seriam indispensáveis à realização da liquidação em curso e que não ocorreu inércia da credora, mas a demora decorrente dos mecanismos do Judiciário.
+5. Assim, insuscetível de revisão, nesta via recursal, o referido entendimento, por demandar reapreciação de matéria fática. Incidência da Súmula 7/STJ. Agravo regimental improvido.
+(AgRg no AREsp 464747 / RS, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 20/03/2014, DJe 28/03/2014).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RI/STJ, conheço do agravo para conhecer parcialmente do recurso especial e nessa parte negar-lhe provimento.
+Publique-se. Intime-se.
