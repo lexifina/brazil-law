@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. JUROS REMUNERATÓRIOS. EXCLUSÃO DO VALOR EXEQUENDO. DESCABIMENTO. MATÉRIA DECIDIDA PELA SEGUNDA SEÇÃO NO JULGAMENTO DO RESP 1.372.688/SP E RESP 1.392.245/DF, SOB O RITO DO ART. 543-C DO CPC/1973. ENTENDIMENTO DO TRIBUNAL LOCAL EM CONFORMIDADE COM O DESTA CORTE. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA. AGRAVO INTERNO DESPROVIDO.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, decide a Egrégia TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Aurélio Bellizze (Presidente), Moura Ribeiro e Nancy Andrighi votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Trata-se de agravo interno interposto por BANCO DO BRASIL S/A, em face de decisão assim ementada:
+RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. AÇÃO CIVIL PÚBLICA. JUROS REMUNERATÓRIOS. EXCLUSÃO DO VALOR EXEQUENDO. DESCABIMENTO. MATÉRIA DECIDIDA PELA SEGUNDA SEÇÃO NO JULGAMENTO DO RESP 1.372.688/SP E RESP 1.392.245/DF, SOB O RITO DO ART. 543-C DO CPC/73. ENTENDIMENTO DO TRIBUNAL LOCAL EM CONFORMIDADE COM O DESTA CORTE. RECURSO ESPECIAL DESPROVIDO. (e-STJ fl. 112)
+Nas razões do agravo, a parte agravante sustenta, em síntese, que não houve previsão expressa de inclusão de juros remuneratórios na sentença exequenda; que os referidos juros não podem ser impostos em sede executiva, sob pena de violação à coisa julgada; bem como que os juros remuneratórios a serem incluídos nos cálculos de liquidação deverão ter incidência única no mês de fevereiro de 1989, correspondente ao mês de pagamento da correção monetária relativa ao mês de janeiro de 1989, em que foi reconhecido o expurgo da correção monetária, sob pena de violação à coisa julgada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO PAULO DE TARSO SANSEVERINO (Relator):
+Eminentes colegas, a irresignação não merece acolhida.
+Inicialmente, verifica-se que foi negado provimento ao recurso especial, uma vez que o v. acórdão decidiu a questão de acordo com o entendimento da Segunda Seção desta Corte Superior, o qual preconiza que descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, o que não ocorreu no presente caso. (e-STJ fls. 112-114).
+A parte agravante, por sua vez, nas razões do presente agravo interno, alega, em síntese, que não houve previsão expressa de inclusão de juros remuneratórios na sentença exequenda; que os referidos juros não podem ser impostos em sede executiva, sob pena de violação à coisa julgada; bem como que os juros remuneratórios a serem incluídos nos cálculos de liquidação deverão ter incidência única no mês de fevereiro de 1989, correspondente ao mês de pagamento da correção monetária relativa ao mês de janeiro de 1989, em que foi reconhecido o expurgo da correção monetária, sob pena de violação à coisa julgada.
+Destarte, percebe-se que razão não assiste ao agravante.
+Com efeito, resta patente que os argumentos expostos no bojo do agravo interno não são aptos a desconstituir a decisão recorrida, uma vez que se mostra cristalino que o v. acórdão encontra-se em consonância com o entendimento deste Superior Tribunal de Justiça.
+Ora, conforme bem salientado na decisão proferida em sede de recurso especial, verifica-se que a pretensão do ora recorrente quanto à impossibilidade de inclusão de juros remuneratórios nos cálculos exequendos, de fato, não merece guarida, haja vista que o v. acórdão, ao concluir que "os juros remuneratórios devem persistir computados no cálculo do débito decorrente da condenação externada na sentença em questão, mês a mês, a contar de fevereiro de 1989, até a data do encerramento da conta-poupança", encontra-se em consonância com o entendimento da Segunda Seção desta Corte Superior, consolidado no julgamento do REsp 1.372.688/SP e do REsp 1.392.245/DF, sob o rito dos recursos especiais repetitivos, o qual preconiza que descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, o que não ocorreu no presente caso, confira-se:
+DIREITO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). EXECUÇÃO INDIVIDUAL. INCLUSÃO DE JUROS REMUNERATÓRIOS. OMISSÃO DO TÍTULO.
+1. Na execução individual de sentença proferida em ação civil pública que reconhece o direito de poupadores aos expurgos inflacionários decorrentes do Plano Verão (janeiro de 1989), descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento.
+2. Recurso especial provido.
+(REsp 1.372.688/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 27/05/2015, DJe 25/08/2015 - grifou-se).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JUROS REMUNERATÓRIOS NÃO FIXADOS EM SENTENÇA COLETIVA. INCLUSÃO NA FASE DE EXECUÇÃO INDIVIDUAL. IMPOSSIBILIDADE. OFENSA À COISA JULGADA. PRECEDENTE SUBMETIDO AO RITO DO ART. 543-C DO CPC/1973. DECISÃO MANTIDA.
+1. Na execução individual de sentença, proferida em ação civil pública que reconhece o direito de poupadores a expurgos inflacionários, descabe a inclusão de juros remuneratórios nos cálculos de liquidação, se inexistir condenação expressa, sem prejuízo de o interessado ajuizar, quando cabível, ação individual de conhecimento (REsp n. 1.392.245/DF, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 8/4/2015, DJe 7/5/2015).
+Precedente representativo de controvérsia.
+2. Na espécie, a execução individual tem por base a mesma sentença examinada no recurso repetitivo, decorrente da ação civil pública n.
+1998.01.016798-9, proposta pelo Instituto Brasileiro de Defesa do Consumidor - IDEC contra o Banco do Brasil, que tramitou na 12ª Vara Cível de Brasília - DF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 398.842/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 05/10/2017, DJe 09/10/2017) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. JUROS REMUNERATÓRIOS. CONDENAÇÃO EXPRESSA. POSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A Segunda Seção desta Corte, no julgamento de Recurso Representativo da Controvérsia (REsp 1.372.688/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO), pacificou o entendimento de que, "Na execução individual de sentença proferida em ação civil pública que reconhece o direito de poupadores aos expurgos inflacionários decorrentes do Plano Verão (janeiro de 1989), descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento".
+2. No caso, tem-se que houve condenação expressa do agravante ao pagamento de juros remuneratórios no título judicial executado, razão pela qual se afigura correta a inclusão do mencionado encargo nos cálculos apresentados pela parte exequente, como também entendeu o eg. Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no AREsp 258.558/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/10/2016, DJe 20/10/2016) - g.n.
+Destarte, o desprovimento do recurso é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+É o voto.
