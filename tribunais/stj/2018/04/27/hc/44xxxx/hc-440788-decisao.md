@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] CAIQUE [NOME] [NOME] - preso cautelarmente em 27/11/2016 e denunciado pela suposta prática do crime previsto no artigo 158, § 1º, do Código Penal - contra decisão do Tribunal de Justiça do Estado de Santa Catarina (HC n. 4027251-86.2017.8.24.0000).
+No writ originário, a defesa alegou, em síntese, excesso de prazo na formação da culpa e na prolação da sentença, já que o paciente está preso desde 27/11/2016, a instrução encerrou-se em 17/8/2017, e desde então não foram realizadas diligências. Pleiteou assim, o relaxamento da prisão preventiva do paciente, com ou sem imposição de outras medidas cautelares. O Tribunal de origem, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl. 23):
+HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. ALEGAÇÕES FINAIS DE CORRÉU. PROVIDÊNCIAS PELO JUÍZO DE ORIGEM. O fato de a prisão preventiva estender-se por cerca de 1 ano, e desde o término da instrução terem transcorrido aproximadamente 3 meses não configura excesso de prazo se desde o fim da etapa instrutória o processo não esteve indevidamente parado, se a diligência pendente é o oferecimento de alegações finais por corréu, e se o Juízo de origem tomou as providências necessárias ao regular andamento do feito. ORDEM DENEGADA.
+Na presente oportunidade, o impetrante reafirma que a decisão combatida não teria apontado dados concretos, à luz dos requisitos do art. 312 do CPP, que atestem a necessidade da segregação cautelar do paciente. Alega, também, que o paciente está sofrendo constrangimento ilegal em razão do excesso de prazo na formação da culpa, já que se encontra preso há 1 ano e 5 meses.
+ Assim, pede, em liminar e no mérito, a revogação da prisão preventiva do paciente, com a substituição por medidas cautelares.
+A liminar foi indeferida (e-STJ fls. 880/882).
+As informações foram prestadas (e-STJ fls. 887/888) e o Ministério Público Federal, previamente ouvido, manifestou-se pela perda superveniente do objeto, em parecer assim resumido (e-STJ fl. 890):
+HABEAS CORPUS. EXTORSÃO. PRISÃO PREVENTIVA PARA A GARANTIA DA ORDEM PÚBLICA. SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA PRISÃO PREVENTIVA. NOVO TÍTULO. PERDA SUPERVENIENTE DO OBJETO. HABEAS CORPUS PREJUDICADO.
+É o relatório, decido.
+Preliminarmente, cumpre asseverar que o habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Não é o caso dos autos.
+De acordo com as informações prestadas pelo Juízo de primeiro grau, em 15/3/2018 sobreveio sentença condenando o paciente nos seguintes termos (e-STJ fl. 888):
+(..) no dia 15 de março de 2018 foi prolatada sentença por este juízo, condenando o paciente [NOME] nas sanções do art. 158, § 1o, do Código Penal (fato 1), a pena de 5 (cinco) anos e 4 (quatro) meses de reclusão, em regime semiaberto, e ao pagamento de 13 (treze) dias-multa. Por fim, o paciente foi absolvido da prática do crime previsto no art. 158, § 1o, do Código Penal (fato 2), nos termos do art. 386, inciso V, do Código de Processo Penal (fls. 847/864).
+Nesse contexto, fica superada a alegação de excesso de prazo para a formação da culpa, aplicando-se ao caso o enunciado n. 52 da Súmula desta Corte: "ENCERRADA A INSTRUÇÃO CRIMINAL, FICA SUPERADA A ALEGAÇÃO DE CONSTRANGIMENTO POR EXCESSO DE PRAZO.".
+Quanto a alegação de ausência dos requisitos legais que autorizam a prisão preventiva, é certo que não houve manifestação por parte do Tribunal estadual, circunstância que impede a análise direta da alegação por configurar indevida supressão de instância (art. 105, II, da CF).
+Nesse sentido:
+ .. . 3. Impossível a apreciação, diretamente por esta Corte Superior de Justiça, da alegada ausência de fundamentação da prisão cautelar, bem como da negativa de autoria, tendo em vista que tais questões não foram analisadas no aresto recorrido.
+4. Recurso em parte conhecido e, nessa extensão, improvido. (RHC n. 56.777/CE, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 7/4/2015, DJe 16/4/2015).
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço o presente habeas corpus.
+Publique-se.
