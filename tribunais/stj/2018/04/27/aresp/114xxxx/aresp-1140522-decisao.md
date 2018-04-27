@@ -1,0 +1,53 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO (6,35 Kg DE COCAÍNA). OPOSIÇÃO DA SÚMULA 83/STJ. IRRESIGNAÇÃO APRESENTADA PELO ART. 105, III, a, DA CF. POSSIBILIDADE. PRECEDENTE. DOSIMETRIA DA PENA. VETORES DO ART. 42 DA LEI N. 11.343/2006. QUANTIDADE DE DROGA APREENDIDA. FUNDAMENTAÇÃO UTILIZADA NA TERCEIRA FASE DA DOSIMETRIA. CONCESSÃO DA CAUSA DE DIMINUIÇÃO (§ 4º DO ART. 33 DA LEI N. 11.343/2006). QUANTIDADE DE VIAGENS INTERNACIONAIS. REEXAME DE PROVAS. SÚMULA 7/STJ. PRECEDENTE.
+Agravo conhecido para negar provimento a recurso especial.
+DECISÃO
+Trata-se de agravo de Guito Mukandi Miguel contra decisão de inadmissão de recurso especial, este interposto contra acórdão proferido na apelação criminal n. 0001762-46.2016.4.03.6119 pela Quinta Turma do Tribunal Regional Federal da 3ª Região que, dando parcial provimento ao apelo defensivo, redimensionou a pena a 6 anos, 2 meses e 29 dias de reclusão, em regime semiaberto, e 624 dias-multa, pela prática de conduta descrita no art. 33 c/c 40, I, ambos da Lei n. 11.343/2006, conforme termos da seguinte ementa (fl. 341):
+PENAL. PROCESSUAL PENAL. TRÁFICO INTERNACIONAL DE DROGA. DOSIMETRIA. PENA-BASE. CAUSA DE DIMINUIÇÃO DA PENA §4º ART. 33 LEI DE DROGAS. REGIME INICIAL. SUBSTITUIÇÃO DA PENA. RECURSO DA DEFESA PARCIALMENTE PROVIDO.
+1. A natureza e a quantidade da droga, bem como a personalidade e a conduta social do agente são circunstâncias que devem ser consideradas com preponderância sobre o artigo 59 do Código Penal na primeira fase da dosimetria da pena.
+2. Mantida a não aplicação do §4º do artigo 33 da Lei de Drogas por falta de preenchimento dos requisitos legais.
+3. Para o estabelecimento do regime prisional, devem ser observados os seguintes fatores: modalidade de pena de privativa de liberdade; quantidade de pena aplicada; caracterização ou não da reincidência e circunstâncias do artigo 59 do Código Penal.
+4. Diante da pena em concreto incabível a substituição da pena privativa de liberdade por restritivas de direitos.
+5. Recurso da defesa parcialmente provido.
+O recorrente interpôs recurso especial, no qual alega, em síntese, que o acórdão recorrido teria violado o art. 59 do Código Penal e o art. 42 da Lei n. 11.343/2006, porquanto a pena-base teria sido exasperada em 1/4 em razão da quantidade de droga apreendida. O volume encontrado, in casu, 6,35 kg de cocaína, não justificaria a majoração acima do mínimo legal nem a qualidade da substância, cocaína, revelaria potencialidade lesiva maior do que outros entorpecentes. Nos casos em que mulas são presas com determinada quantidade, o caso em apreço estaria dentro dos padrões de normalidade antevisto pelo legislador.
+No ponto, estaria configurado dissídio jurisprudencial, pois julgado do Tribunal Regional Federal da 2ª Região teria mantido a pena-base no mínimo legal.
+Sustenta, outrossim, que teria havido vulneração do art. 33, § 4º, da Lei n. 11.343/2006, visto que não aplicou a benesse no patamar máximo. Seria indiscutível a primariedade e os bons antecedentes. O registro de histórico de viagens não seria fundamento suficiente para afastara causa especial de diminuição da pena, não comprovando o pertencimento à organização criminosa e a dedicação às atividades criminosas. Reforça, também, que a presunção de inocência afetaria não só o juízo de mérito, mas também a forma de tratamento durante o processo. Não se poderia entender sua condição como integrante de organização criminosa sem verificação de unidade de desígnios em relação à organização.
+Nesse ponto também haveria dissídio jurisprudencial em relação a julgado do Tribunal Regional Federal da 1ª Região no qual teria sido aplicada a causa de diminuição em caso semelhante.
+Por fim, caso a pena seja reduzida a patamar inferior a 4 anos, pede a substituição da pena (fls. 347/367).
+Contrarrazões às fls. 397/405.
+O apelo foi obstado na origem por estar o acórdão em consonância com a jurisprudência do Superior Tribunal de Justiça e por demandar reexame de provas (fls. 407/418).
+O recorrente aviou, então, o presente agravo, no qual aduz, em suma, que a Súmula 83/STJ não poderia ser aplicada aos recursos interpostos pela alínea a do permissivo legal. Não haveria, ainda, decisão com força vinculante, razão pela qual seria possível a análise dos argumentos exposto. Acresce não ter tratado de reanálise do conjunto fático-probatório, pois não discutiria a existência ou a inexistência de provas, mas a revaloração da prova (fls. 425/430).
+Contrarrazões ao agravo em recurso especial às fls. 433/438.
+O Ministério Público Federal opina pelo não conhecimento do agravo, dada a consonância do acórdão recorrido com a jurisprudência do Superior Tribunal de Justiça (fls. 450/455)
+É o relatório.
+O presente agravo deve ser conhecido, já que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Inicialmente, embora o recurso especial tenha sido interposto com fundamento no art. 105, III, a, da Constituição Federal, entende este Tribunal Superior, a despeito da literalidade do enunciado, ser oponível a Súmula 83/STJ.
+O entendimento acima está explicitado no seguinte precedente: AgRg no Resp n. 795.184/SP, Ministro Celso Limongi (Desembargador convocado do TJ/SP), Sexta Turma, DJe 1º/2/2011.
+Passando ao recurso especial, quanto à suposta violação do § 4º do art. 33 da Lei n. 11.343/2006, em razão da utilização dos vetores do art. 42 do mencionado diploma legal na terceira fase da dosimetria, a posição do Superior Tribunal de Justiça, e também do Plenário do Supremo Tribunal Federal, é no sentido de que as circunstâncias relativas à quantidade e natureza de drogas apreendidas podem ser utilizadas na primeira fase da dosimetria da pena, para exasperar pena-base, ou na terceira fase, para modular fração de diminuição decorrente da incidência de causa de diminuição, sempre de forma não cumulativa, sob pena de caracterizar bis in idem.
+Nesse sentido: REsp n. 1.294.540/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/2/2016; REsp n. 1.225.059/MG, de minha relatoria, Sexta Turma, DJe 10/4/2014; AgRg no REsp n. 1.357.075/SP, Ministro Jorge Mussi, Quinta Turma, DJe 27/8/2014.
+Esse tema foi tratado da seguinte maneira pelo Tribunal local (fls. 336/338):
+ ..
+O Juiz de primeira instância, ao fixar a pena-base em 7 (sete) anos de reclusão e 700 (setecentos) dias-multa, valorou negativamente a circunstância relativa à quantidade e natureza da droga apreendida com o acusado, em atendimento ao disposto no artigo 42 da Lei de Drogas, o qual estabelece que na primeira fase da dosimetria da pena, a natureza e a quantidade da droga, bem como a personalidade e a conduta social do agente são circunstâncias que devem ser consideradas com preponderância sobre o artigo 59 do Código Penal.
+Contudo, a pena aplicada em primeiro grau mostra-se desproporcional e excessiva para a prevenção e repressão do delito.
+No particular, a apreensão de significativa quantidade de droga de alto custo, demasiadamente nociva e viciante (6.353g de cocaína) justifica a exasperação da pena-base, mas na fração de 1/4 (um quarto) acima do mínimo legal.
+E, ademais, a personalidade, a conduta social e as demais circunstâncias judiciais presentes no caso concreto não podem ser valoradas negativamente, pois não ultrapassam o grau de normalidade daquelas que se verificam habitualmente.
+Assim, na primeira fase de dosimetria da pena, fixo a pena-base de 6 (seis) anos e 3 (três) meses de reclusão e 625 (seiscentos e vinte e cinco) dias-multa (1/4 acima do mínimo legal).
+Como não houve insurgencia da defesa na segunda fase da dosimetria da pena, mantenho a redução da pena em razão da aplicação da atenuante de confissão no patamar de 1/7 (um sétimo), de que resulta pena provisória de 5 (cinco) anos, 4 (quatro) meses e 8 (oito) dias de reclusão e 535 (quinhentos e trinta e cinco) dias-multa.
+Requer a defesa à aplicação da causa de diminuição da pena prevista no artigo 33, §4º, da Lei nº 11.343/06 no patamar máximo previsto pela lei.
+Sem razão.
+O §4º do artigo 33 da Lei nº 11.343/06 prevê a redução da pena de 1/6 (um sexto) a 2/3 (dois terços) desde que o agente seja primário, possua bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+No julgamento do Recurso Extraordinário com Agravo nº 666.334/AM, com repercussão geral reconhecida, o Supremo Tribunal Federal decidiu que, em caso de condenação por tráfico ilícito de entorpecentes, a natureza e a quantidade da droga apreendida devem ser levadas em consideração tão somente em uma das fases da dosimetria da pena, vedada a sua aplicação cumulativa, que acarretaria bis in idem (STF, Plenário, Rel. Min. Gilmar Mendes, RE com Agravo nº 666.334/AM, j. 03/04/2014).
+No caso dos autos, o Juiz de primeiro grau utilizou a circunstância relativa à natureza e à quantidade da droga apenas para fundamentar a majoração da pena-base.
+Contudo, afastou a aplicação do benefício por entender que o réu integrava organização criminosa diante de outras três viagens ao Brasil feitas em curtos períodos e sem justificação plausível.
+De fato, a despeito de o apelante não possuir antecedentes criminais, há evidências de que ele se dedica a atividades criminosas ou integra organização criminosa.
+ ..
+Do excerto, verifica-se que a quantidade de drogas foi utilizada apenas na primeira fase da dosimetria da pena, motivo pelo qual não prospera a insurgência no ponto.
+Quanto à concessão da causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, o Superior Tribunal de Justiça já assentou não ser suficiente a conclusão pelo pertencimento à organização criminosa ou dedicação às atividades criminosas com base exclusiva na quantidade de drogas.
+Nesse sentido: HC n. 343.290/SP, de minha relatoria, Sexta Turma, Dje 13/5/2016.
+É possível, no entanto, que a quantidade seja elemento de convicção acerca do pertencimento à organização criminosa ou da dedicação às atividades criminosas.
+Essa diferenciação entre elemento de convicção e fundamento exclusivo foi esmiuçada pelo Supremo Tribunal Federal no HC n. 118.697/SP, Ministro Teori Zavascki, Segunda Turma, DJe 27/5/2014.
+No caso, conforme excerto supra, o Tribunal se valeu das contumazes viagens internacionais, elementos de provas estes não reexamináveis em sede de recurso especial, conforme Súmula 7/STJ.
+Não prospera, assim, a pretensão recursal.
+Desse modo, depreende-se dos autos que o acórdão recorrido se encontra em consonância com a jurisprudência assente neste Tribunal. Assim sendo, aplica-se ao caso vertente a Súmula 568/STJ.
+Ante o exposto, com fulcro nos arts. 932 do Código de Processo Civil e arts. 34, XVIII, e 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
