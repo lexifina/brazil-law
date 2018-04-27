@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região, ementado nos seguintes termos:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AÇÃO DE DEPÓSITO. PRESCRIÇÃO. OCORRÊNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Nos termos da Súmula 50 da Terceira seção deste Tribunal: “prescreve em 3 (três) meses para a CONAB a prescrição para a propositura da ação de depósito, contado a partir do dia em que a mercadoria foi ou deveria ter sido entregue (Decreto nº 1.102/1903, art. 11, in fine), hipótese dos autos. 2. Agravo Regimental a que se nega provimento” (eDOC 36, p. 25)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos art. 37, § 5º, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que o Decreto n. 1.102/1903, “trata como privados recursos públicos, não sendo este o tratamento que deve ser preconizado de acordo com o estabelecido art. 37, § 5º, CF.” (eDOC 36, p. 55)
+    Além disso, sustenta-se que a CONAB atua como prestadora de serviço público, utilizando recursos federais para a compra de grãos. Neste sentido, a perda ou desvio dos bens constitui prejuízo ao erário, sendo imprescritível a pretensão de sua reparação.
+    É o relatório.
+    Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, ao examinar a legislação infraconstitucional aplicável à espécie (Decreto n. 1.102/1903) e o conjunto probatório constante dos autos, consignou que a pretensão do recorrente está prescrita. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A matéria é objeto de Súmula (n.50) desta Corte, do seguinte teor:
+    Prescreve em 3 (três) meses para a CONAB, o prazo para propositura da ação de depósito, contato a partir do dia em que a mercadoria foi ou deveria ser entregue (Decreto nº 1.102/1903, art. 11, in fine)”. (eDOC 36, p. 23)
+    Assim, verifica-se que a matéria debatida no acórdão recorrido restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+    Além disso, divergir do entendimento firmado pelo Tribunal de origem demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental nos embargos de declaração no recurso extraordinário. Direito Administrativo. Artigo 93, inciso IX, da CF/88. Violação. Não ocorrência. Prescrição.Decreto n. 1.102/1903. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. O art. 93, inciso IX, da Constituição Federal não determina que o órgão judicante se manifeste sobre todos os argumentos de defesa apresentados, mas sim que ele explicite as razões que entendeu suficientes à formação de seu convencimento. Ao reconhecer a repercussão geral desse tema, o Plenário do Supremo Tribunal Federal reafirmou essa orientação (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10). 2. A matéria relativa ao prazo prescricional da pretensão indenizatória, no caso, está circunscrita ao âmbito infraconstitucional. Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, pois a parte agravada não apresentou contrarrazões.” (RE 656908 AgR-ED, Segunda Turma, Rel. Min. Dias Toffoli, 7.4.2017)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. DEPÓSITO DE GRÃO DE ARROZ. PERDA PARCIAL. RESSARCIMENTO.  PRESCRIÇÃO CARACTERIZADA. DECRETO Nº 1.102/1903. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. O exame do recurso extraordinário permite constatar que a hipótese envolveria a interpretação de legislação infraconstitucional sem que se discuta o seu sentido à luz da Constituição. Precedentes. A decisão agravada apresenta fundamentação suficiente, embora em sentido contrário aos interesses da parte recorrente, circunstância que não configura violação ao art. 93, IX, da CF/88. Agravo regimental a que se nega provimento.” (AI 853917 AgR, Primeira Turma, Rel. Min. Roberto Barroso, 08-08-2014)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
