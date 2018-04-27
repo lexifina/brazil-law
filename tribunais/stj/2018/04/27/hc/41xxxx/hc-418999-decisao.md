@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso ordinário, com pedido liminar, interposto em favor de [NOME], contra decisão proferida pelo eg. Tribunal de Justiça do Estado do Mato Grosso.
+Aponta o impetrante, em apertada síntese, ilegalidade na decisão proferida pelo d. Juízo Presidente do Tribunal do Juri, que "determinou a cisão/desmembramento da sessão de julgamento, após a fase do art. 422, do CPP, ao designar audiência de inquirição de testemunhas de acusação previamente a data do julgamento por videoconferência, retirando dos jurados (juiz natural da causa) a competência e o direito de participar da livre produção da prova em plenário, fazer questionamentos, requerer a realização de acareação ou reconhecimento de pessoas em face das referidas testemunhas, conforme preceitua a legislação processual penal (art. 473, § 2º e 3º, do CPP)." (fl. 3).
+Sustenta que a decisão afronta o disposto no art. 473 do Código de Processo Penal, bem como o art. 5º, XXXVIII e LIV, da Constituição Federal. Ressalta que deveria ter sido designada a oitiva das testemunhas por meio de videoconferência, durante a realização da sessão de julgamento.
+Argumenta que o paciente "tem o direito de ter um julgamento pautado na observância do devido processo legal, alem do que, a risco de condenação aumentando o prejuízo já demonstrado." e, ainda, que "a simples repetição de mídia contendo a oitiva das testemunhas aos jurados são insuficientes, mormente foi-lhes retirado o direito de questionar as testemunhas, pedir acareação, reconhecimento de pessoas entre outras providencias legalmente prevista na norma legal citada, dispensando o mesmo tratamento a Defesa." (fl. 11)
+Requer a concessão da ordem, em liminar, para "determinar a nulidade das inquirições das testemunhas de acusação que operou-se sem a presença dos jurados em audiência antecipada a sessão do júri, sem prejuízo de realização de novas inquirições por carta precatória utilizando-se do sistema de videoconferência, desde que, durante o julgamento". Alternativamente, pugna pela concessão da ordem, liminarmente, para que seja suspensa a sessão de julgamento determinada para o dia 29/11/2017.
+O pedido liminar foi indeferido, bem como o pedido de reconsideração (fls. 106-108 e 122).
+Informações às fls. 125-221, 226-322 e 323-356.
+ O Ministério Público Federal manifestou-se às fls. 358-360 no sentido de que seja reconhecida a perda do objeto do writ.
+É o relatório.
+Decido.
+Pretendia a Defesa, no presente habeas corpus, a declaração de nulidade em face da determinação de oitiva de testemunhas por carta precatória, entendendo que o ato deveria ser realizado por meio de videoconferência, durante o julgamento pelo Tribunal do Juri.
+Ocorre que o d. Juízo de 1º Grau informou à fl. 325, "atendendo o pleito da defesa, o Ministério Público Federal trouxe à sessão plenária as testemunhas arroladas pela acusação, o que tornou desnecessária a reprodução das gravações das inquirições previamente realizadas."
+Assim sendo, forçoso reconhecer que o habeas corpus perdeu o objeto, uma vez que as testemunhas foram ouvidas na presença do Corpo de Jurados, nos moldes do art. 473 do Código de Processo Penal, de modo que não se verifica mais utilidade no provimento do presente feito.
+Diante do exposto, com fulcro no art. 34, XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+[NOME]
