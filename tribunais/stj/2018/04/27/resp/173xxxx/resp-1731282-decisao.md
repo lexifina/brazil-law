@@ -1,0 +1,81 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ fl. 142):
+APELAÇÃO CRIMINAL - DELITO DE TENTATIVA DE FURTO QUALIFICADO COM ROMPIMENTO DE OBSTÁCULO À SUBTRAÇÃO DA COISA (CP, ART. 155, § 4o, I, C/C ART. 14, II) - SENTENÇA CONDENATÓRIA - RECURSO DA DEFESA.
+PEDIDO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - INVIABILIDADE - PRESSUPOSTOS NÃO PREENCHIDOS - TENTATIVA DE FURTO PRATICADA MEDIANTE ARROMBAMENTO - REPROVABILIDADE DO COMPORTAMENTO DO ACUSADO - CONDUTA PENAL- MENTE RELEVANTE - PRECEDENTES DO STJ - CONDENAÇÃO MANTIDA.
+"Inviabiliza-se o reconhecimento do crime bagatelar, porquanto o crime de furto foi qualificado pelo rompimento de obstáculo, circunstância concreta desabonadora, nos termos da jurisprudência deste Tribunal Superior, suficiente para impedir a aplicação do referido brocardo" (STJ , Min. Ribeiro Dantas).
+RECURSO CONHECIDO E DESPROVIDO.
+No recurso especial, fulcrado na alínea "c" do permissivo constitucional, alega o recorrente, em suma, divergência jurisprudencial quanto à aplicação do princípio da insignificância.
+Contra-arrazoado (e-STJ fls. 192/196), o recurso foi admitido (e-STJ fls. 198/202), manifestando-se o Ministério Público Federal, nesta instância, pelo não conhecimento do especial (e-STJ fls. 216/221), em virtude da ocorrência de coisa julgada.
+É o relatório. DECIDO.
+O recurso não merece conhecimento por se encontrar prejudicado.
+Com efeito, como bem observado no parecer ministerial, foi interposto nesta Corte o HC n. 420315/SC, com fundamentos idênticos ao presente especial.
+Em decisão publicada em 19/12/2017 no dia 28/11/2017, não conheci do habeas corpus, nos termos seguintes:
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de [NOME] contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0007219-76.2014.8.24.0019).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 8 meses de reclusão, em regime inicial aberto, e multa, com substituição da pena privativa de liberdade por uma restritiva de direitos, pela prática do crime previsto no art. 155, §2º e § 4º, inciso I, na forma do art. 14, inciso II, ambos do Código Penal (fls. 86/92).
+Irresignada, a defesa interpôs recurso de apelação, ao qual foi negado provimento (fls. 146/155), em acórdão assim ementado:
+APELAÇÃO CRIMINAL - DELITO DE TENTATIVA DE FURTO QUALIFICADO COM ROMPIMENTO DE OBSTÁCULO À SUBTRAÇÃO DA COISA (CP, ART. 155, § 4º, I, C/C ART. 14, II) - SENTENÇA CONDENATÓRIA - RECURSO DA DEFESA.
+PEDIDO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA - INVIABILIDADE - PRESSUPOSTOS NÃO PREENCHIDOS - TENTATIVA DE FURTO PRATICADA MEDIANTE ARROMBAMENTO - REPROVABILIDADE DO COMPORTAMENTO DO ACUSADO - CONDUTA PENALMENTE RELEVANTE - PRECEDENTES DO STJ - CONDENAÇÃO MANTIDA.
+"Inviabiliza-se o reconhecimento do crime bagatelar, porquanto o crime de furto foi qualificado pelo rompimento de obstáculo, circunstância concreta desabonadora, nos termos da jurisprudência deste Tribunal Superior, suficiente para impedir a aplicação do referido brocardo" (STJ , Min. Ribeiro Dantas).
+RECURSO CONHECIDO E DESPROVIDO.
+No presente mandamus (fls. 1/6), a impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois manteve condenação por fato materialmente atípico, na medida em que a conduta seria insignificante sob o prisma jurídico-penal. Aduz que o paciente não é um criminoso contumaz, possui comportamento psicológico fragilizado e a quantia que tentava subtrair é irrisória, sendo hipótese de aplicação do princípio da bagatela.
+Ao final, liminarmente e no mérito, pede a absolvição do paciente.
+Pedido liminar indeferido (fls. 162/164).
+Parecer do Ministério Público Federal opinando pelo não conhecimento do writ, com a manutenção da decisão impugnada (fls. 169/173).
+É o relatório. Decido.
+Inicialmente, cumpre analisar a adequação da via eleita para a manifestação da irresignação contra o acórdão proferido pelo Tribunal a quo.
+O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+No caso, a impetração insurge-se contra acórdão do Tribunal de origem que negou provimento ao apelo da defesa, o que, de acordo com a nossa sistemática recursal, ensejaria a hipótese de recurso especial.
+Dessa forma, o habeas corpus em tela não merece conhecimento.
+Contudo, a coação ilegal apontada na inicial será analisada, a fim de verificar a existência de flagrante ilegalidade que justifique a atuação, de ofício, por este Superior Tribunal de Justiça.
+Como já consignado no relatório, busca-se, na presente impetração, a absolvição do paciente, mediante a aplicação do princípio da insignificância.
+Consoante já assentado pelo Supremo Tribunal Federal, o princípio da insignificância deve ser analisado em correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, no sentido de excluir ou afastar a própria tipicidade da conduta, examinada em seu caráter material, observando-se, ainda, a presença dos seguintes vetores: (I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da ação; (III) ínfimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica ocasionada (HC n. 84.412/SP, de relatoria do Ministro Celso de Mello, DJU 19/4/2004).
+Nessa esteira, a aplicação do princípio da insignificância tem sido rechaçada, como regra, no crime de furto qualificado, tendo em vista que tal circunstância denota maior ofensividade e reprovabilidade da conduta. Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO CIRCUNSTANCIADO. VIOLAÇÃO AOS ARTS. 1º E 155, AMBOS DO CP E AO ART. 386, III, DO CPP. ABSOLVIÇÃO. ATIPICIDADE DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. (I) - FURTO QUALIFICADO. (II) - VALOR DO BEM CONSIDERADO EXPRESSIVO. PLEITO DE ABRANDAMENTO DO REGIME INICIAL DE CUMPRIMENTO DAS PENAS. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. No que concerne à aplicação do princípio da insignificância, firmou-se nesta Corte o entendimento segundo o qual a prática do delito de furto qualificado pelo rompimento de obstáculo e pela escalada indica a maior reprovabilidade do comportamento do réu, a afastar a aplicação do referido princípio.
+(..)
+4. Agravo regimental a que se nega provimento. (AgRg no AREsp 1099050/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/08/2017, DJe 24/08/2017) - grifei.
+CONSTITUCIONAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. TENTATIVA DE FURTO DUPLAMENTE QUALIFICADO. INSIGNIFICÂNCIA. REITERAÇÃO DELITIVA. ROMPIMENTO DE OBSTÁCULO. WRIT NÃO CONHECIDO.
+(..)
+5. Resta obstado o reconhecimento do crime bagatelar, igualmente, por se tratar de crime de furto qualificado pelo rompimento de obstáculo, circunstância concreta desabonadora, nos termos da jurisprudência deste Tribunal Superior, suficiente para impedir a absolvição dos pacientes pela atipicidade material da conduta a eles imputada.
+6. Ordem não conhecida. (HC 385.137/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/03/2017, DJe 23/03/2017) - grifei.
+No caso, o sentenciante não aplicou o princípio da insignificância, mas reconheceu a figura do furto privilegiado, com lastro na seguinte fundamentação (fls. 88/90):
+A tese de aplicação do princípio da insignificância não merece guarida.
+Não se olvida reconhecer que o legislador, em matéria penal, pauta sua seletividade nos princípios da ultima ratio, também concebido como o princípio da intervenção mínima, e da fragmentariedade, com os quais prospera tutelar criminalmente apenas os bens que deveras são relevantes para a coletividade, visto os reflexos causados por qualquer espécie de sanção penal.
+Não obstante tal propósito, existem casos em que, mesmo existindo norma objetiva incriminadora que se amolda à conduta praticada, torna-se imperioso reconhecer a atipicidade desta ante a insignificância da lesão ocorrida ao bem jurídico tutelado, sendo que a aplicação de uma sanção penal demonstrar-se-ia totalmente desproporcional.
+Conforme sedimentado na jurisprudência do Supremo Tribunal Federal, impõe-se a reunião das seguintes condições para reconhecer a insignificância de conduta formalmente típica: "(a) mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) grau reduzido de reprovabilidade do comportamento, e (d) inexpressividade da lesão jurídica provocada." (HC 112262. Relator(a): Min. LUIZ FUX. Primeira Turma. Julgado em 10/04/2012).
+Ocorre que, no caso em tela, encontra-se presente a qualificadora disposta no art. 155, § 4º, I, do Código Penal, desencadeando maior desvalor da conduta, o que afasta a incidência do princípio da insignificância.
+Para ilustrar esse posicionamento, colaciona-se recente precedente do nosso Tribunal de Justiça: (..)
+Lado outro, impõe-se reconhecer a incidência da causa privilegiadora disposta no § 2º do artigo 155 do Código Penal.
+O furto tentado incidiu sobre pequeno valor (R$ 27,75), assim entendido como aquele inferior a um salário mínimo, conforme entendimento dominante (RT 657/323). Ademais, conforme demonstram as certidões de fls. 70/72, o acusado é tecnicamente primário.
+Frisa-se, por fim, que não há qualquer óbice para o reconhecimento da privilegiadora em concomitância com circunstância qualificadora de natureza objetiva, conforme entendimento do Tribunal de Justiça de Santa Catarina e do Superior Tribunal de Justiça:
+(..)
+Assim sendo, considerando a necessidade concreta de repressão da conduta, em decorrência de o furto ser qualificado, entendo cabível a diminuição da pena em 1/3 (um terço)
+Ao negar provimento ao apelo defensivo, o Tribunal local manteve o não reconhecimento da insignificância, havendo o voto condutor do acórdão recorrido assentado que (fls. 150/151):
+Pleiteou a defesa pela atipicidade da conduta ante a aplicação do princípio da insignificância, pois ainda que o delito tenha sido realizado com rompimento de obstáculo, o valor da res furtiva é insignificante.
+Razão não lhe assiste.
+Isso porque a conduta só será materialmente típica quando houver uma proporção entre a gravidade da ação realizada e a necessidade da intervenção estatal por meio do direito penal.
+É por isso que a aplicação do princípio da bagatela deve ocorrer com vistas ao caso concreto, levando em conta critérios objetivos e subjetivos da conduta, sob pena de enfraquecer o respaldo do Estado na persecução penal.
+Para a incidência do princípio da insignificância devem estar pre- sentes, "cumulativamente, as seguintes condições objetivas: (a) mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) grau reduzido de reprovabilidade do comportamento, e (d) inexpressividade da lesão jurídica provocada" (STF, HC n. 120043, Min. Luiz Fux, j. 19.11.2013)
+(..)
+Sabe-se que referido princípio é uma regra auxiliar de interpretação, que exclui dos tipos penais os danos de pouca importância e, por isso, se ajusta à concepção material de tipo.
+No caso concreto, conquanto o valor do bem subtraído (R$ 27,75) seja inferior a 10% do valor do salário mínimo à época dos fatos (R$ 724,00), a tentativa de furto foi praticada mediante arrombamento. Aliás, o arrombamento está sobejamente demonstrado por perícia técnica (fls. 38-43) e pelos depoimentos testemunhais, inclusive pelo próprio depoimento do réu que, embora tenha negado a subtração, admitiu ter arrombado a porta para adentrar no estabelecimento (mídia de fl. 69). Tal circunstância inviabiliza o acolhimento da pre- tensão, por ser patente a reprovabilidade do comportamento do acusado.
+Na espécie, inviável a aplicação do princípio da insignificância, pois evidente o elevado grau de reprovabilidade da conduta do agente que, mediante rompimento de obstáculo, consistente no arrombamento de duas portas que davam acesso ao interior do estabelecimento comercial, bem como o rompimento da fiação do alarme, a qual estava instalada junto a uma das portas, tentou furtar o valor acima referido.
+Nessa linha:
+HABEAS CORPUS. IMPETRAÇÃO CONTRA ACÓRDÃO DE APELAÇÃO. SUCEDÂNEO RECURSAL INOMINADO. IMPROPRIEDADE DA VIA ELEITA. FURTO. TENTATIVA. ARROMBAMENTO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. ATIPICIDADE MATERIAL. NÃO RECONHECIMENTO.
+(..)
+3. Não é insignificante a conduta de tentar furtar objetos de dentro do carro da vítima, no valor de R$ 30,00, depois de rompimento de obstáculo, ou seja, após entortar e danificar a porta do carro para do seu interior retirar as coisas. O pequeno valor não prevalece diante das características do fato.
+4. Em tais circunstâncias, não há como reconhecer o caráter bagatelar do comportamento imputado, havendo afetação do bem jurídico.
+5. Ausência de ilegalidade a sanar, apta a fazer relevar a impropriedade da via eleita.
+6. Impetração não conhecida. (HC 240.027/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/05/2014, DJe 09/06/2014) - grifei.
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. IMPROPRIEDADE DA VIA ELEITA. TENTATIVA DE FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. ATIPICIDADE MATERIAL. NÃO RECONHECIMENTO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do habeas corpus, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Consoante já assentado pelo Supremo Tribunal Federal, o princípio da insignificância deve ser analisado em correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, no sentido de excluir ou afastar a própria tipicidade da conduta, examinada em seu caráter material, observando-se, ainda, a presença dos seguintes vetores: (I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da ação;
+(III) ínfimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica ocasionada (HC n. 84.412/SP, de relatoria do Ministro Celso de Mello, DJU 19/4/2004).
+- A jurisprudência pacífica desta Corte é no sentido de que a prática do delito de furto qualificado por escalada, arrombamento ou rompimento de obstáculo, concurso de agentes, ou se o paciente é reincidente ou possuidor de maus antecedentes, indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância (HC 355.468/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 27/09/2016, DJe 06/10/2016).
+- Na hipótese, inviável a aplicação do princípio da insignificância, pois, não obstante a quantia de R$ 28,06 seja de pequena monta, é evidente o elevado grau de reprovabilidade da conduta do agente que, mediante rompimento de obstáculo, consistente no arrombamento da caixa coletora de objetos metálicos, tentou furtar a quantia acima referida, mais dez folhas de talões de cheque, tudo pertencente à agência bancária.
+- Habeas corpus não conhecido. (HC 364.287/SP, deste Relator, QUINTA TURMA, julgado em 13/12/2016, DJe 01/02/2017) - grifei.
+Ante o exposto, com base no artigo 34, XX, do Regimento Interno do Superior Tribunal de Justiça, inexistindo coação ilegal a ensejar a atuação ex officio desta Corte, não conheço do habeas corpus, pois manifestamente incabível na espécie.
+Publique-se. Intimem-se.
+Após o trânsito em julgado, arquivem-se os autos.
+Desse modo, considerando que a pretensão aqui formulada foi apreciada à oportunidade do julgamento do já mencionado HC n. 420315/SC, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
