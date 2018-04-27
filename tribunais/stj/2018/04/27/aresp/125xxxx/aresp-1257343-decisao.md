@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] contra decisão do Tribunal de Justiça do Estado do Mato Grosso do Sul, que não admitiu seu apelo nobre.
+Consta dos autos que o agravante foi condenado à pena de 20 anos e 8 meses de reclusão, em regime fechado, como incurso nas sanções dos artigos 157, § 3º, segunda parte c.c art. 29, caput, e art. 155, caput c.c art. 14, inciso II, todos do Código Penal.
+O Juízo da execução indeferiu pedido de progressão de regime formulado em favor do agravante, em razão do não preenchimento do requisito subjetivo.
+Inconformada, a defesa interpôs agravo em execução, ao qual o Tribunal a quo negou provimento, por maioria.
+Apresentados embargos infringentes e de nulidade, também restaram improvidos.
+Interposto Recurso Especial com fulcro na alínea "a" do inciso III, do art. 105 da Constituição Federal, esse não foi admitido pela instância de origem, ensejando a presente insurgência, na qual o recorrente sustenta que o óbice indicado na decisão objurgada não incidiria na hipótese dos autos.
+Requer o acolhimento do agravo, a fim de que seja admitido e provido o apelo nobre.
+O Ministério Público Federal opinou pelo não provimento da insurgência.
+É o relatório.
+No Recurso Especial a parte sustenta violação aos arts. 7º, 8º e 112 da Lei n. 7.210/84, argumentando, em síntese, que o laudo pericial acostado aos autos, utilizado como prova da ausência do requisito subjetivo, está eivado de nulidade, eis que realizado por psicólogo e não por médico psiquiatra.
+Requer o reconhecimento de seu direito subjetivo à progressão do regime fechado para o semiaberto ou, subsidiariamente, a realização de novo exame criminológico por médico psiquiatra e a elaboração de parecer por "Comissão Técnica de Classificação".
+A par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que o Recurso Especial interposto, de fato, não merece seguimento.
+Segundo o entendimento jurisprudencial vigente nesta Corte Superior de Justiça, inexiste nulidade do laudo emitido em exame criminológico realizado por profissional de psicologia, pois a aferição do cumprimento do requisito subjetivo pode ser verificada por outros meios de prova diversos do parecer psiquiátrico.
+A propósito, confiram-se os seguintes precedentes das Turmas que compõem a Terceira Seção deste Sodalício:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME CASSADA POR AUSÊNCIA DE MÉRITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. EXAME CRIMINOLÓGICO FAVORÁVEL REALIZADO POR PSICÓLOGO. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O art. 122 da Lei de Execução Penal exige, para a concessão da progressão de regime, o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário). 2. De acordo com a Súmula 439/STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". A análise técnica pode ser usada como fundamento à análise do requisito subjetivo a autorizar ou não a progressão de regime. Precedentes.
+3. No caso dos autos, verifica-se que o Tribunal de origem cassou a decisão do Juízo das Execuções Penais, determinando nova apreciação do pleito de progressão de regime após a realização de exame criminológico, sem apontar nenhum elemento concreto que comprovasse o demérito do paciente, amparando-se tão somente na gravidade abstrata do delito, na reincidência específica, bem como na necessidade de o exame criminológico ser elaborado por equipe multidisciplinar, com a participação de um psiquiatra e não apenas por assistentes sociais e psicólogos.
+4. É cediço nesta Corte Superior de Justiça a possibilidade de que psicólogo nomeado pelo Juízo ateste a presença, ou não, do requisito subjetivo do reeducando, pois o exame criminológico é dispensável e, quando elaborado, ainda que pelos referidos profissionais, representa um elemento no conjunto probatório apto a formar a convicção do Juízo. Portanto, inexiste qualquer vício pela ausência de médico psiquiatra a atestar o exame criminológico.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para restabelecer a decisão do Juízo das Execuções Criminais, que concedeu ao paciente a progressão ao regime semiaberto.
+(HC 436.653/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/03/2018, DJe 26/03/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. LAUDO TÉCNICO FORMULADO POR PSICÓLOGO. POSSIBILIDADE.
+1. "A elaboração do laudo criminológico por psiquiatra, psicólogo ou assistente psicossocial não traz qualquer mácula ou ilegalidade à decisão que indeferiu a progressão de regime com base em tal documento, mormente porque qualquer destes profissionais está habilitado a realizar perícia técnica compatível com o que se busca saber para a concessão do benefício de progressão de regime" (HC n. 371.602/MS, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 6/2/2018, DJe 15/2/2018).
+2. Na hipótese, é possível o indeferimento da progressão de regime, por inobservância do requisito subjetivo, com base em laudo elaborado por psicólogo que não recomendou o benefício.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1208131/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 05/04/2018, DJe 12/04/2018)
+Nesse sentido, constata-se que a pretensão do agravante esbarra no óbice previsto na Súmula n. 83/STJ, pois a decisão impugnada encontra-se em sintonia com a jurisprudência vigente nesta Corte Superior.
+Por tais razões, conhece-se do agravo para negar provimento ao Recurso Especial, nos termos do artigo 34, VII, combinado com o artigo 253, parágrafo único, inciso II, alínea "b", ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
