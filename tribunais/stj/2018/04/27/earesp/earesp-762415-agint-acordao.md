@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. A Segunda Seção deste Tribunal Superior, no julgamento do REsp 880.605/RN (DJe de 17/9/2012), firmou entendimento de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo por qualquer dos contratantes, desde que haja prévia notificação em prazo razoável. Precedentes.
+2. Agravo interno no agravo em recurso especial não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, negar provimento ao agravo, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por VERA LUCIA BAYER CARNASCIALI e RUY CARNASCIALI JUNIOR contra decisão unipessoal que conheceu do agravo em recurso especial interposto por SUL AMÉRICA SEGUROS DE PESSOAS E PREVIDÊNCIA S.A, para conhecer parcialmente de seu recurso especial e, nessa parte, dar-lhe provimento, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. A Segunda Seção deste Tribunal Superior, no julgamento do REsp 880.605/RN (DJe de 17/9/2012), firmou entendimento de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo por qualquer dos contratantes, desde que haja prévia notificação em prazo razoável. Precedentes.
+2. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, provido. (e-STJ Fl. 3.235)
+Nas razões do presente recurso, os agravantes afirmam que o contrato de seguro de vida em grupo celebrado junto à agravada é vitalício, de modo que o precedente que prevê a possibilidade de não renovação automática do contrato não se aplica à hipótese dos autos.
+É o relatório.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+O propósito recursal consiste no reconhecimento da abusividade decorrente da rescisão do contrato de seguro de vida em grupo celebrado entre as partes em razão das novas regras apresentadas pela agravada.
+A decisão agravada foi assim fundamentada, na parte em que impugnada pelos agravantes:
+- Julgamento: CPC/73
+De início, impõe-se ressaltar que o agravo em recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+- Da validade da cláusula que autoriza a não renovação da apólice de seguro de vida em grupo
+O TJ/PR, ao decidir pela abusividade da rescisão do contrato de seguro de vida em razão da não aceitação das novas regras pelos agravados, contrariou o entendimento do STJ no sentido de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo por qualquer dos contratantes, desde que haja prévia notificação em prazo razoável, oferecendo proposta de adesão a novo produto. (AgInt no REsp 1628850/BA, Terceira Turma, Dje de 21/08/2017; AgInt no REsp 1584109/RS, Terceira Turma, Dje de 25/05/2017 e AgInt no REsp 1193982/MG, Quarta Turma, Dje de 07/02/2017). Logo, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, DOU-LHE PROVIMENTO, com fundamento no art. 253, parágrafo único, II, "c do RISTJ, para julgar improcedente a demanda, haja vista a validade da cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo por qualquer dos contratantes, desde que haja prévia notificação em prazo razoável, oferecendo proposta de adesão a novo produto.
+Invertida a sucumbência, deverão os agravados arcar com o pagamento integral das custas e honorários advocatícios arbitrados na sentença (e-STJ Fls. 2.955/2.966).
+Publique-se. Intimem-se. (e-STJ Fl. 3.237/3.238)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que os agravantes não trouxeram qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Da validade da cláusula que autoriza a não renovação da apólice de seguro de vida em grupo
+De fato, o TJ/PR, ao decidir pela abusividade da rescisão do contrato de seguro de vida em razão da não aceitação das novas regras pelos agravados, contrariou o entendimento do STJ no sentido de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo por qualquer dos contratantes, desde que haja prévia notificação em prazo razoável, oferecendo proposta de adesão a novo produto. (AgInt no REsp 1628850/BA, Terceira Turma, Dje de 21/08/2017; AgInt no REsp 1584109/RS, Terceira Turma, Dje de 25/05/2017 e AgInt no REsp 1193982/MG, Quarta Turma, Dje de 07/02/2017).
+Outrossim, esta Corte possui o entendimento de que não se concebe que o exercício, por qualquer dos contratantes, de um direito (consistente na não renovação do contrato), inerente à própria natureza do contrato de seguro de vida, e, principalmente, previsto na lei civil, possa, ao mesmo tempo, encerrar abusividade sob a égide do Código de Defesa do Consumidor, ou, ainda, inobservância da boa-fé objetiva, fundada, tão-somente, no fato de o contrato entabulado entre as partes ter tido vigência por determinado período.
+Ademais, no contrato entabulado entre as partes, encontra-se inserta a cláusula contratual que expressamente viabiliza, por ambas as partes, a possibilidade de não renovar a apólice de seguro contratada. Tal faculdade, repisa-se, decorre da própria lei de regência.
+Desta feita, levando-se em conta tais circunstâncias de caráter eminentemente objetivo, tem-se que a duração do contrato, seja ela qual for, não tem o condão de criar legítima expectativa aos segurados quanto à pretendida renovação.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial
