@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal da Fazenda Pública do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (eDOC 4, p. 160):
+    “RECURSO INOMINADO. SERVIDOR PÚBLICO ESTADUAL. MAGISTÉRIO. CONTRATAÇÃO TEMPORÁRIA. SUCESSIVAS RENOVAÇÕES. DECLARAÇÃO DA NULIDADE CONTRATUAL QUE RESULTARIA NA EXTINÇÃO DO CONTRATO, AINDA ATIVO. IMPOSSIBILIDADE DE APLICAÇÃO DO ART. 19-A DA LEI 8.036/90 (FGTS).
+    1) O regime especial de contratação temporária tem fundamento no artigo 37, inciso IX, da Constituição da República e no artigo 19, inciso IV, da Constituição do Estado do Rio Grande do Sul, sendo disciplinada, em âmbito estadual, pela Lei Estadual nº 10.376/95, que, entre outras disposições, regulamenta a forma de remuneração dos professores temporários.
+    2) No entanto, a CF de 1988 considera nula a contratação de servidores sem a devida observância dos requisitos elencados nos incisos II e III do artigo 37 da CF, garantindo-lhes apenas a percepção dos salários referentes ao período trabalhado e, ainda, o depósito do Fundo de Garantia por Tempo de Serviço, nos termos do artigo 19-A da Lei nº 8.036/1990.
+    3) No caso dos autos, a parte autora foi contratada em caráter excepcional, muito embora as sucessivas renovações, para o desempenho de serviço ordinário permanente do Estado (magistério).
+    4) No entanto, o contrato com o ente público continua ativo e, a declaração de nulidade contratual resultaria na extinção da contratação, o que flagrantemente a demandante não objetiva.
+    5) Destarte, como somente mediante a declaração de nulidade da contratação efetivada com o ente público seria possível alcançar o direito postulado (depósito de FGTS), merece ser mantida a sentença de improcedência, por fundamentos diversos.
+    RECURSO DESPROVIDO. UNÂNIME.”
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 7ºIII; e 37, II, IX e § 2º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que a natureza do contrato temporário é emergencial. Entretanto, no caso em comento, alega que houve descaracterização do caráter de emergência, já que os servidores são contratados e mantidos por vários anos no serviço público, gerando o direito de perceberem o FGTS (DOC 4, p. 196-198).
+    A 1ª Vice-Presidência do TJ/RS inadmitiu o recurso em virtude de incidir na hipótese as Súmulas 279 e 280 do STF (eDOC 4, p. 247-252).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o tribunal de origem, quando do julgamento do recurso inominado, assim asseverou (eDOC 4, p. 167):
+    “No caso dos autos, a parte autora foi contratada em caráter excepcional, muito embora as sucessivas renovações, para o desempenho de serviço ordinário permanente do Estado (magistério).
+    No entanto, o contrato com o ente público continua ativo e a declaração de nulidade contratual resultaria na extinção da contratação, o que flagrantemente a demandante não objetiva.
+    Destarte, como somente mediante a declaração de nulidade da contratação efetivada com o ente público seria possível alcançar o direito postulado (depósito de FGTS), merece ser mantida a sentença de improcedência, por fundamentos diversos.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, e o exame da legislação local aplicável à espécie, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONTRATAÇÃO TEMPORÁRIA. EXCEPCIONAL INTERESSE PÚBLICO. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 765.306-AgR, Rel. Min. Cármen Lúcia, Segunda Turma).
+    “RECURSO. Extraordinário. Inadmissibilidade. Depósitos de FGTS. Condenação. Alegação de ofensa ao art. 37, II, § 2º, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Aplicação da súmula 279. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas.” (AI 546.752-AgR, Rel. Min. Cézar Peluso, Primeira Turma).
+    Ademais, em relação ao citado RE 596.478 (Tema 191), de relatoria da Min. Ellen Gracie, referente à sistemática da repercussão geral, observa-se que os casos não guardam semelhanças entre si, porquanto a hipótese de incidência do referido Tema 191 abrange os casos de contrato declarado nulo, situação diversa da narrada nos presentes autos, em que não foi reconhecida a nulidade da contratação.
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC e majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os limites dos §§ 2º e 3º do artigo 85, §11, do Código de Processo Civil.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
