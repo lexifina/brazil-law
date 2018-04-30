@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] OUTRO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ fl. 128):
+Agravo de instrumento. Execução fiscal. Indícios de dissolução irregular da empresa executada. Redirecionamento do feito executivo aos sócios. Viabilidade. Enunciado 435 da Súmula do STJ. Atenção. Citação por edital. Possibilidade. Recurso improvido.
+1- A não localização da empresa executada em endereço cadastrado junto ao Fisco, atestada na certidão do oficial de justiça, representa indício de dissolução irregular, legitimando o redirecionamento da execução fiscal ao sócio-gerente.
+2- Conquanto como regra geral a jurisprudência realmente venha exigindo o prévio esgotamento de todas as tentativas possíveis de citação pessoal do réu antes de admitir sua citação ficta, por edital, no caso dos autos essa é perfeitamente admissível, diante da incúria dos agravantes em manter atualizado o endereço da empresa junto aos órgãos públicos.
+No recurso especial, os recorrentes sustentam, além de divergência jurisprudencial, violação do art. 8º da Lei 6.830/1980 e do art. 247 do CPC/1973. Sustentam, em síntese, a ilegalidade da citação por edital que ensejou o redirecionamento de execução fiscal (e-STJ fls. 128/140).
+Com contrarrazões (e-STJ fls. 150/158), o recurso foi admitido (e-STj fls. 160/164).
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Isso considerado, vejamos, no que interessa, o que consignou e decidiu o Tribunal de Justiça (e-STJ fls. 122/123):
+A agravante alega impossibilidade de redirecionamento da execução aos sócios-gerentes da empresa, bem como nulidade da citação por edital.
+1) Impossibilidade de redirecionamento da execução aos sócios da empresa executada.
+No caso em apreço, observa-se que a execução foi proposta em desfavor da pessoa jurídica Translima Transporte e Encomendas Ltda, tendo sido certificado à f. 27-TJ, pelo Sr. Oficial de Justiça, que ao diligenciar no local indicado, foi informado que a empresa executada teria mudado há mais de um ano.
+Posto isto, foi requerido pela exequente, ora agravada, o redirecionamento do feito executivo aos sócios [NOME] e [NOME].
+Ora, verificado o encerramento irregular das atividades empresariais da executada no endereço cadastrado junto ao Fisco Estadual, conforme consta da certidão de f. 27-TJ, possível a inclusão, no polo passivo da presente execução fiscal, dos sócios-gerentes dessa pessoa jurídica, conforme estabelece o art. 135 do Código Tributário Nacional.
+Aliás, sobre a questão cabe transcrever o enunciado 435 da Súmula do Superior Tribunal de Justiça:
+Presume-se dissolvida irregularmente a empresa que deixar de funcionar no seu domicílio fiscal, sem comunicação aos órgãos competentes, legitimando o redirecionamento da execução fiscal para o sócio-gerente.
+Outrossim, no presente caso, o pedido de redirecionamento se deu dentro do prazo de cinco anos contados da citação da empresa executada, revelando-se perfeitamente possível.
+2) Alegação de nulidade da citação por edital.
+Como cediço, a citação constitui pressuposto de validade da relação processual, nos termos do art. 214 do Código de Processo Civil, de modo que a existência de qualquer vício na sua efetivação enseja nulidade arguível a qualquer tempo e grau de jurisdição, pois consiste em matéria de ordem pública.
+Assim sendo, conquanto como regra geral a jurisprudência realmente venha exigindo o prévio esgotamento de todas as tentativas possíveis de citação pessoal do réu antes de admitir sua citação ficta, por edital, no caso dos autos essa é perfeitamente admissível, diante da incúria dos agravantes em manter atualizado o endereço da empresa junto aos órgãos competentes.
+Ademais, infere-se que a citação por edital preenche todos os requisitos elencados pelo art. 231 e 232, ambos do Código de Processo Civil, sendo perfeitamente válida.
+Com tais considerações, nego provimento ao recurso.
+Pois bem.
+Em relação ao redirecionamento da execução fiscal, nos termos da Súmula 435 do STJ e tal como decidido, na sistemática dos recursos repetitivos, pela Primeira Seção desta Corte Superior, a dissolução irregular da sociedade empresária legitima o redirecionamento para o sócio-gerente.
+Com efeito, tem-se entendido que "é obrigação dos gestores das empresas manter atualizados os respectivos cadastros, incluindo os atos relativos à mudança de endereço dos estabelecimentos e, especialmente, referentes à dissolução da sociedade. A regularidade desses registros é exigida para que se demonstre que a sociedade dissolveu-se de forma regular, em obediência aos ritos e formalidades previstas nos arts. 1.033 a 1.038 e arts. 1.102 a 1.112, todos do Código Civil de 2002 - onde é prevista a liquidação da sociedade com o pagamento dos credores em sua ordem de preferência - ou na forma da Lei n. 11.101/2005, no caso de falência. A desobediência a tais ritos caracteriza infração à lei" (REsp 1.371.128/RS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 17/09/2014).
+Nessa linha, estabelecida a premissa de dissolução irregular da sociedade empresária, o acórdão recorrido está em consonância com a orientação deste Tribunal a respeito da possibilidade de redirecionamento da execução fiscal ao sócio-gerente, o que atrai a incidência da Súmula 83 do STJ.
+Relativamente à citação editalícia, não se desconhece a tese sedimentada desta Corte no sentido de que a citação por edital na execução fiscal somente é cabível quando frustradas as demais modalidades (Tema n. 102).
+Ocorre que o principal fundamento adotado pelo Tribunal de origem para respaldar o juízo rescindendo - de que a intimação pessoal dos recorrentes não foi possível em decorrência da não atualização de seus endereços nos órgãos competentes - não foi especificamente impugnado pelos recorrentes, o que atrai a aplicação do óbice de conhecimento estampado na Súmula 283 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
