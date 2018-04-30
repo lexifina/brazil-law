@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário no qual se alega contrariedade ao artigo 146, III, “b”, da Constituição Federal.
+    Colhe-se parte da ementa do acórdão recorrido:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. PROTESTO INTERRUPTIVO DA PRESCRIÇÃO. JUROS DE MORA. NATUREZA INDENIZATÓRIA. INDEPENDÊNCIA DO PRINCIPAL. REPETIÇÃO DO INDÉBITO. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+    1. A jurisprudência do STJ, bem como a dos órgãos integrantes da Primeira Seção desta Corte, amplamente admite a interrupção da prescrição tributária por meio da ação cautelar de protesto”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que para ultrapassar o entendimento do Tribunal de origem acerca da paralisação do prazo prescricional em tela, seria necessário o reexame da causa à luz da legislação infraconstitucional pertinente. Assim, a afronta ao dispositivo constitucional suscitado no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ainda nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Inexistência. Súmula 282 e 356/STF. Prescrição. Interrupção. Artigo 219, § 1º, do CPC. Retroação. Questão infraconstitucional. Afronta reflexa. 1. O requisito do prequestionamento não foi suprido. Se a suposta violação surgiu no julgamento dos embargos de declaração, fazia-se necessária a oposição de novos embargos declaratórios, a fim de prequestionar a matéria. 2. O Tribunal de origem decidiu a lide amparado na legislação infraconstitucional aplicável à espécie, adotando entendimento consolidado do Superior Tribunal de Justiça na Súmula 106, no sentido de não se poder imputar à Fazenda a responsabilidade pelo atraso na citação em razão de circunstâncias ínsitas ao aparelhamento do Poder Judiciário. 3. A afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. 4. Agravo regimental não provido” (ARE nº 773.000/DF-AgR, Primeira Turma, de minha relatoria, DJe de 3/2/15).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS DO RECORRENTE. EXECUÇÃO FISCAL. PRESCRIÇÃO. INCIDÊNCIA DO ART. 219, § 1º, DO CPC. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS (CÓDIGO DE PROCESSO CIVIL, CÓDIGO TRIBUTÁRIO NACIONAL E LEI 6.830/80). INVIABILIDADE. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (ARE nº 814.202/SC-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 20/8/14).
+    Destaca-se que este Supremo Tribunal Federal decidiu pela ausência de repercussão geral de questões envolvendo interrupção de prazo prescricional na análise do RE nº 602.883/SP, Relatora a Ministra Ellen Gracie, assim ementado:
+    “EMENTA TRIBUTÁRIO. EXECUÇÃO FISCAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONFLITO ENTRE A APLICAÇÃO DO ART. 174, PARÁGRAFO ÚNICO, I, DO CTN, COM REDAÇÃO ANTERIOR À LC 118/05, E A DO ART. 8º, § 2º, DA LEI 6.830/80. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) do seu total, nos termos do art. 85, § 11, do novo Código de Processo Civil, obedecidos os limites dos §§ 2º e 3º do citado artigo, observada, ainda, a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
