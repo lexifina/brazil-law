@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por [NOME] AQUINO E OUTRO contra decisão (fls. 316-317), exarada pela il. Presidência do eg. Tribunal de Justiça do Estado de Rondônia (TJ-RO), que inadmitiu seu recurso especial.
+Historiam os autos que [NOME] AQUINO E OUTRO opuseram "embargos à execução" em desfavor de LENY OLIVERIA DE LIMA, os quais foram julgados improcedentes, conforme sentença às fls. 123-125.
+Diante disso, [NOME] AQUINO E OUTRO interpuseram apelação, que foi desprovida pelo eg. TJ-RO, conforme v. acórdão assim ementado (fls. 219):
+"Apelação cível. Embargos à execução. Cheque. Endosso. Terceiro de boa-fé. Inoponibilidade das exceções pessoais. Autonomia e abstração. Em razão do princípio da autonomia da obrigação cambiária, após a circulação do título mediante endosso, vigora o sub-princípio da abstração, tendo como corolário lógico a inoponibilidade das exceções pessoais do devedor em relação ao credor originário."
+Inconformados, [NOME] AQUINO E OUTRO manejaram recurso especial, com arrimo nas alíneas "a" e "c" do permissivo constitucional, apontando, além de divergência jurisprudencial, violação aos arts. 13, 17, §1º, 25 da Lei n. 7.357/82 e aos arts. 421, 422, 476 e 884 do Código Civil, pois "(..) embora o FLAGRANTE VÍCIO existente nessa sessão de crédito, na qual a Recorrida tornou-se credora dos Recorrentes indevidamente, tento o e. Juiz singular como o c. Tribunal de Justiça de Rondônia entenderam ser improcedentes os pedido formulados em sede de embargos à execução, tendo em vista a impossibilidade de oposição do negócio jurídico que deu origem a emissão do título de crédito contra terceiro de boa-fé" (fls. 232 - destaques no original).
+Afirmam, também, que com o documento juntado ao presente recurso especial "(..) A MENTIRA DA RECORRIDA FOI DESCOBERTA, POIS, CONFORME CONFORME DOCUMENTO ANEXO, É SÓCIA DE EMPRESA FACTORING! POR ISSO A RECORRIDO POSSUÍA TANTOS CHEQUES EM NOME DA VIDRAÇARIA RONDÔNIA! (fls. 234 - destaques no original).
+Sustentam, ainda, que "(..) AS CÁRTULAS EXEQUENDAS ADVÉM DO CONTRATO NÃO CUMPRIDO, além do que a possuidora do cheque, exequente, é SÓCIA DE EMPRESA DE FACTORING, MUITO EMBORA TENHA DESMENTIDO TAL CIRCUNSTÂNCIA AO LONGO DO PRESENTE PROCESSO, TEMENDO NÃO RECEBER OS VALORES CONSTANTFS DAS DEZENAS DE CHEQUES QUE APARELHAM AS INÚMERAS AÇÕES DE EXECUÇÃO DL TÍTULO EXTRAJUDICIAL" (fls. 241-242 - destaques no original).
+Sem contrarrazões (vide certidão à fl. 308).
+Como dito, o apelo nobre foi inadmitido (fls. 316-317), motivando o manejo do presente agravo em recurso especial (fls. 320-326).
+É o relatório. Passo a decidir.
+Cumpre salientar que os presentes recursos serão examinados à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Como sabido, o prequestionamento é requisito de admissibilidade do apelo especial, uma vez que compete ao eg. STJ julgar, em sede de recurso especial, conforme dicção do art. 105, III, da Carta Magna, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios.
+Na espécie, tem-se que os temas referentes à suposta violação aos arts. 421, 422, 476 e 884 do Código Civil não foram apreciados pelo eg. TJ-RO, acarretando a ausência de prequestionamento desses dispositivos legais. Ademais, não foram opostos embargos de declaração em face do o v. acórdão que julgou a apelação, para fins de prequestionar essas normas.
+Nesse diapasão, nessa parte o apelo nobre não merece conhecimento, em face da incidência, por analogia, do óbice da Súmula 282 e 356 do STF. Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REAJUSTE DE BENEFÍCIO. FALTA DE PREQUESTIONAMENTO E INVIABILIDADE DE ANÁLISE DE INSTRUMENTOS CONTRATUAIS E CONTEXTO FÁTICO-PROBATÓRIO. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. (..). É entendimento assente neste Superior Tribunal de Justiça a exigência do prequestionamento dos dispositivos tidos por violados, ainda que a contrariedade tenha surgido no julgamento do próprio acórdão recorrido. Incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+(..)
+3. Agravo interno não provido."
+(AgInt no REsp 1693829/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 08/02/2018, DJe 16/02/2018 - grifou-se)
+Melhor sorte não socorre aos então recorrentes, ora agravantes, no que pertine à suscitada ofensa aos arts. 13, 17, §1º, 25 da Lei n. 7.357/82. Sobre o tema, o eg. TJ-RO assentou que os cheques objeto da execução foram postos em circulação por endosso, motivo pelo qual as exceções pessoais não são oponíveis ao terceiro, não tendo, ainda, os recorrentes provado a má-fé deste. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual (fls. 221-223):
+ "Como é cediço, uma das principais características dos títulos de crédito é a sua autonomia, ou seja, as obrigações representadas pelo mesmo título são independentes entre si, de modo que cada interveniente deve assumir sua própria obrigação relativa ao título (art. 43 do Decreto nº 2.044, de 31/12/1908).
+(..)
+ Compulsando os autos, é possível perceber que os títulos de crédito foram postos em circulação pelo instrumento cambiário do endosso. Assim, e em atenção ao princípio da autonomia da obrigação cambiária, prevista no art. 25 da Lei nº 7.357/85 (que reproduz, na disciplina legal específica do cheque, a previsão do art. 17 da LUG), incide à espécie o sub-princípio da abstração, segundo o qual o endosso faz a obrigação cambiária desprender-se daquela da qual se originou o título, e a inoponibilidade das exceções pessoais do devedor em relação ao credor originário da cártula como corolário lógico.
+ (..)
+ Dessa forma, não se perquire da existência de causa debendi como fundamento hábil a desconstituir a obrigação cambiária entre as partes contratantes em razão do endosso, especialmente se não fora demonstrado o conhecimento ou má-fé do terceiro portador da cártula.
+(..)
+ Diante de tais circunstâncias, impõe-se o desacolhimento dos embargos e o alerta de que o ressarcimento pelo prejuízo eventualmente suportado pelos recorrentes, se assim entenderem, deve ser perseguido pela via adequada contra quem efetivamente lhe deu causa (Vidraçaria Rondônia)
+ Os emitentes do título poderiam se eximir da sua responsabilidade, desde que comprovassem eventual nulidade apta a afastar a exigibilidade, liquidez ou certeza do crédito representado. No entanto, deixaram de produzir qualquer prova nesse sentido, ainda que indiciaria, infirmando o crédito descrito na cártula, ônus que lhe cabia.
+ A simples menção ao fato de que a exequente pratica o factoring despida de indícios mínimos de prova não permite, sequer, seja discutida a qualidade com que o exequente recebe o título.
+(..)
+ Com efeito, embora o negócio originário tenha sido realizado entre os apelantes e a Vidraçaria Rondônia, não se pode admitir a anulação dos títulos, como pretendido, por dois motivos: 1) a circulação de riquezas é uma característica inerente aos títulos cambiariformes, como é o cheque; 2) não é possível a oposição de exceções pessoais contra a apelada em razão da proteção destinada aos terceiros de boa-fé.
+ Por fim, como já salientado, embora os apelantes não estejam liberados da divida perante o terceiro de boa-fé, atual credor do título, nada impede que após cumprir sua obrigação, venha a juízo pedir o devido ressarcimento."
+(grifou-se)
+Nesse cenário, não se infere violação aos arts. 13, 17, §1º, 25 da Lei n. 7.357/82, uma vez que o v. acórdão recorrido está em consonância com a jurisprudência desta eg. Corte, como se infere da leitura dos seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULOS DE CRÉDITO. CHEQUE. TRANSMISSÃO A TERCEIRO VIA ENDOSSO. AUSÊNCIA DE CONFIGURAÇÃO DE MÁ-FÉ. INOPONIBILIDADE DE EXCEÇÕES PESSOAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte firmou-se no sentido de que as exceções pessoais não são oponíveis a terceiro de boa-fé, salvo se comprovada sua má-fé.
+2. No REsp 1.231.856/PR, a Quarta Turma desta Corte Superior reafirmou o entendimento de que a relação jurídica subjacente à emissão do cheque não pode ser oponível ao endossatário que se presume terceiro de boa-fé, ao tomar a cártula por meio do endosso, ressalvada a possibilidade de confirmação da má-fé por parte deste.
+3. Não havendo de se cogitar má-fé do terceiro (endossatário), é vedada a oponibilidade de exceções pessoais relativas ao emitente do título e ao endossante, uma vez que a execução da cártula, no caso dos autos, constituiu simples exercício regular de direito por parte do endossatário.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 861.575/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2017, DJe 10/04/2017 - grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ENDOSSO-TRANSLATIVO. SUSTAÇÃO DO CHEQUE POR INADIMPLEMENTO CONTRATUAL. ALEGAÇÃO DE RESPONSABILIDADE PELO RISCO DA ATIVIDADE DA EMPRESA ENDOSSATÁRIA. INOPONIBILIDADE DE EXCEÇÕES PESSOAIS. NÃO COMPROVAÇÃO DA MÁ-FÉ. PRINCÍPIO DA AUTONOMIA E ABSTRAÇÃO DO TÍTULO DE CRÉDITO. AGRAVO REGIMENTAL IMPROVIDO.
+1. À luz dos arts. 915 e 916 do Código Civil, o devedor só pode opor ao portador as exceções fundadas em relação pessoal com este ou em relação ao título, em aspectos formais e materiais, salvo na hipótese de má-fé do endossatário, não verificado na espécie.
+2. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 724.963/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/11/2015, DJe 09/12/2015 - grifou-se)
+Nessa senda, estando o v. acórdão em consonância com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, que é aplicável ao recurso especial pela alínea "a" e pela alínea "c", como consagrado na jurisprudência deste eg. Tribunal. Nesse sentido, confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. VIOLAÇÃO DOs ARTs. 458, II, e 535 DO CPC. NÃO CONFIGURADA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+(..)
+5. É assente o entendimento nesta Corte, segundo o qual a Súmula 83/STF, é aplicável tanto na interposição do recurso especial pela alínea "a", quanto pela alínea "c" do permissivo constitucional. Precedentes do STJ.
+6. Agravo interno não provido."
+(AgInt no AREsp 506.777/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/05/2017, DJe 22/05/2017)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MEMÓRIA DE CÁLCULO. CORREÇÃO. EMENDA À INICIAL. RECURSO ESPECIAL PELA ALÍNEA "A". SÚMULA 83 DO STJ. POSSIBILIDADE.
+(..)
+2. A jurisprudência do STJ entende que a Súmula 83 não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do inciso III do art. 105 da Constituição Federal, sendo também aplicável nos recursos fundados na alínea "a".
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 832.631/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/06/2016, DJe 17/06/2016 - grifou-se)
+Finalmente, registre-se, ainda, que o eg. TJ-RO, soberano na análise do acervo fático-probatório carreado aos autos, assentou que além de não haver comprovação da má-fé do recorrido, também não foi demonstrada a suposta pratica de "factoring" pelo recorrido. Assim sendo, a reforma desse entendimento demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, conforme preconiza a Súmula n. 7/STJ.
+Com essas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "b", do RI-STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
