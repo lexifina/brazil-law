@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado da Bahia, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER. PRELIMINAR. ILEGITIMIDADE ATIVA PARA POSTULAR. RESSARCIMENTO POR DANO MATERIAL. REJEITADA. PLANSERV. RELAÇÃO CONSUMERISTA. SÚMULA 09 DO TJBA. BENEFICIÁRIA TITULAR DO PLANSERV. DEPENDÊNCIA QUÍMICA COMPROVADA. DIREITO A REALIZAÇÃO DE TRATAMENTO. NÃO OFERECIMENTO DE CLÍNICA AUTORIZADA. DIREITO DE REEMBOLSO. HONORÁRIOS DE SUCUMBÊNCIA – APLICAÇÃO DA REGRA CONTIDA NO ART. 20, §3º, DO CPC. SENTENÇA REFORMADA EM PARTE. RECURSO PARCIALMENTE PROVIDO.
+    1. Rejeita-se a preliminar de ilegitimidade ativa para postulação dos danos materiais, pois mesmo que a apelada não figure como responsável direta pelo pagamento das despesas com o internamento, restou comprovado que este refere-se ao seu tratamento, assim como é a apelada a titular do plano, configurando a relação contratual existente com a apelante, da qual se origina a legitimidade para requerer sua restituição.
+    2. Encontra-se sumulado o entendimento deste Tribunal no sentido da aplicabilidade do Código de Defesa do Consumidor às relações jurídicas existentes entre o PLANSERV e os seus filiados – Súmula 09 do TJBA: “Aplicam-se as disposições do Código de Defesa do Consumidor às relações jurídicas travadas entre o PLANSERV e seus filiados.”
+    4. A apelada faz seu requerimento com base em sua condição de beneficiária titular do PLANSERV e neste sentido foi constatado o seu direito a realização do tratamento de alcoolismo e consequente reembolso, uma vez que não foi disponibilizado pelo plano qualquer outro local para realização, nos termos dos artigos 14 e 17 do Dec. 9552 de 21/09/2005 que regulamenta o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais.
+    5. Lado outro, observa-se que o valor estipulado a título de honorários sucumbenciais na sentença não merece guarida, devendo este ser fixado em 15% sobre o valor da condenação, dentro dos critérios previstos no §3° do art. 20 do CPC, que reflete o exato desempenho do advogado na causa, no que tange ao dispêndio de tempo e de energia e ainda relativamente à complexidade da demanda em si.
+    RECURSO PARCIALMENTE PROVIDO ” .
+    No recurso extraordinário sustenta-se violação dos artigos 37, 161, incisos I e III, e 167, incisos I e IV da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, destaca-se:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02)”.
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636/STF.
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
