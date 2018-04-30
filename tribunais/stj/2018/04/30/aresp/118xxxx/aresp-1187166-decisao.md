@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, este fundamentado no artigo 105, III, "a", da Constituição Federal, contra acórdão assim ementado:
+CIVIL E PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DO IMÓVEL. CULPA CONCORRENTE DA CONSTRUTORA E DA ADQUIRENTE DO BEM. MORA DA CONSTRUTORA. PERÍODO ENTRE TERMO FINAL DO PRAZO DE ENTREGA E DATA DA AVERBAÇÃO DA CARTA DE "HABITE-SE". COBRANÇA DE TAXAS CONDOMINIAIS ANTES DA ENTREGA DAS CHAVES. OBSERVÂNCIA DE CLÁUSULA CONSTANTE DE TERMO DE AJUSTAMENTO DE CONDUTA. (..) Recursos de Apelação conhecidos e não providos.
+Embargos de declaração rejeitados.
+Nas razões do especial a parte recorrente alega dissídio jurisprudencial e ofensa aos arts. 1022 do CPC/2015, 52 da Lei 4.591/1964 e 476 do CC. Argumenta, em síntese, negativa da prestação jurisdicional, legitimidade da retenção das chaves e que a mora seria do devedor, e assim, não poderia ser condenada ao pagamento de lucros cessantes.
+É o relatório. Decido.
+a) Inicialmente, não prospera a alegada negativa da prestação jurisdicional tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+b) Quanto à legitimidade da retenção das chaves e mora seria do devedor a sentença foi mantida pelo o col. Tribunal a quo que com base no substrato probatório asseverou:
+A construtora ré/apelante asseverou que não houve demora na entrega do imóvel, porquanto nada obstante o termo final para entrega da unidade imobiliária estivesse previsto contratualmente para junho de 2011, a carta de "habite- se" teria sido expedida em 25/04/2011. De acordo com o contrato de promessa de concessão real de uso de unidade autônoma firmado pelas partes (fls. 29/45), a entrega do imóvel se encontrava prevista para dezembro de 2010, com tolerância de 180 (cento e oitenta) dias, independentemente de atrasos decorrentes de motivos de caso fortuito e força maior (fls. 31 e 37). Contudo, evidencia-se dos autos que até a data da propositura da demanda (04/12/2015) as chaves não haviam sido entregues.
+Com efeito, a mera expedição da Carta de "Habite-se" não tem o condão de configurar a entrega do imóvel, pois, somente com a entrega das chaves, a promitente compradora é imitida na posse do bem.
+No caso específico dos autos, a ré demonstrou que a demora na entrega das chaves também foi motivada por culpa da promitente compradora porquanto a obtenção do financiamento bancário para quitação do saldo do contrato somente ocorreu em julho de 2014 (fI. 266).
+De fato, na hipótese de o saldo final ser pago com financiamento bancário, como é o caso, a liberação do pagamento da última parcela do contrato pela instituição financeira fica condicionada à averbação da carta de "habite-se" no registro imobiliário, que era de responsabilidade da empresa apelante.
+Conforme pode ser verificado à fI. 412-v, a averbação da carta de "habite-se" somente foi efetivada em 09/08/2011.
+Portanto, entendo que ficou configurada a inadimplência da empresa ré/apelante no período de 1º/07/2011, até 09/08/2011, de modo que se mostra correta a sua condenação ao pagamento de indenização por lucros cessantes neste interregno. (grifou-se)
+Como visto, as instâncias ordinárias concluíram que houve mora da promitente vendedora que ensejaria o pagamento de lucros cessantes no período de atraso na entrega do imóvel.
+Nesse contexto, para se alterar as premissas firmadas na origem, tal como pretendido pela parte recorrente, mister o reexame de fatos e provas, providência vedada no recurso especial pelas Súmulas 5 e 7 do STJ.
+Vejam-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. ATRASO NA ENTREGA DA OBRA. LUCROS CESSANTES. CABIMENTO. DECISÃO MANTIDA.(..)
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu pela ausência de caso fortuito ou força maior a justificar o atraso na entrega da obra. Alterar esse entendimento demandaria reexame das provas produzidas nos autos, vedado em recurso especial.
+4. De acordo com a jurisprudência desta Corte, o atraso na entrega de imóvel enseja pagamento de lucros cessantes, sendo presumível o prejuízo experimentado pelo promitente comprador. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1189236/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/03/2018, DJe 27/03/2018)
+De outro lado, verifica-se que o entendimento adotado pelo Tribunal local está de acordo com a orientação desta Corte no sentido de que o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO UNIPESSOAL ANTERIOR, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não constatada a alegada violação ao artigo 535 do CPC/73, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+2. Alterar as premissas adotadas pelo decisum atacado, no tocante à alegada exceção do contrato não cumprido, demanda a interpretação das cláusulas contratuais e a rediscussão da matéria fático-probatória, inviável em sede de recurso especial, ante o disposto nas Súmulas 5 e 7 desta Corte.
+3. Na hipótese, o Tribunal local seguiu orientação desta Corte no sentido de que o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Incidência da Súmula 83/STJ.
+4. Segundo a jurisprudência desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 614.880/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/03/2018, DJe 23/03/2018)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
