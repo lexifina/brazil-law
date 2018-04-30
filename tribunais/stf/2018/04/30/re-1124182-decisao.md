@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Paraná, ementado nos seguintes termos:
+    “DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. QUESTÃO 07 DO CONCURSO PÚBLICO PARA O CARGO DE ASSESSOR JURÍDICO DA DEFENSORIA PÚBLICA DO PARANÁ. IMPUGNAÇÃO DE CORREÇÃO DE QUESTÃO OBJETIVA QUE REPRODUZ DISPOSITIVO CONSTITUCIONAL. POSSIBILIDADE.
+    a) O fato da comissão examinadora do Concurso considerar como incorreta uma assertiva que fielmente reproduz dispositivo constitucional viola direito líquido e certo do candidato a cargo público.
+    b) O Poder judiciário tem legitimidade para examinar a legalidade do ato administrativo impugnado, sem que isso caracterize substituição da banca examinadora, eis que a mácula demonstrada pelo administrado é manifesta. Precedentes do STJ.
+    c) É incorreto o examinador transcrever um parágrafo da Constituição e dá-lo como resposta errada, na pressuposição de que o candidato não estaria levando em consideração o "caput" da disposição. d) Dessa forma, impõe-se a correção do ato e consequente atribuição de pontos à candidata, assegurando, assim, a finalidade do Concurso Público de selecionar os melhores candidatos. 2) SEGURANÇA CONCEDIDA.” (eDOC 1 p. 121, 122)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 2°, caput, do texto constitucional.
+    Nas razões recursais, alega-se que não compete ao Poder Judiciário pronunciar-se acerca do mérito administrativo.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que foi constatada ilegalidade na correção da questão n° 7, sendo necessário a intervenção do Poder Judiciário para assegurar um concurso justo. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “Por fim, tendo em vista que a Autoridade Coatora desatendeu a medida liminar que determinava a exibição do cartão resposta da candidata-Impetrante, é de se reconhecer a manifesta plausibilidade da alegação da Impetrante de que teria assinalado a resposta B, razão pela qual entendo que lhe devem ser atribuídos os pontos correspondentes à questão nº 7.
+    Esclareço que não seria o caso de determinar a atribuição de pontos aos demais candidatos ou a anulação da questão, eis que se trata de Mandado de Segurança individual.” (eDOC 1 p. 134)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Administrativo. Concurso público. Anulação de questões de prova pelo Poder Judiciário. Reexame de fatos e provas. Impossibilidade. Teoria do fato consumado. Inaplicabilidade. Precedentes. 1. Pacífica a jurisprudência desta Corte de que o Poder Judiciário não pode se substituir à banca examinadora do concurso público para aferir a correção das questões de prova e a elas atribuir a devida pontuação, consoante previsão editalícia. 2. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos. Incidência da Súmula nº 279/STF. 3. A jurisprudência deste Tribunal é no sentido da inaplicabilidade da teoria do fato consumado a casos nos quais se pleiteia a permanência em cargo público, cuja posse tenha ocorrido de forma precária, em razão de decisão judicial não definitiva. 4. Agravo regimental não provido.” (RE-AgR 405.964, Rel. Min. Dias Toffoli, Primeira Turma, DJe 16.5.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES DO CERTAME. CONTROLE JURISDICIONAL. IMPOSSIBILIDADE. SÚMULA N. 279 DO STF. 1. Não cabe ao poder judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora nos critérios de correção de provas e distribuição de notas a elas. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.” (RE-AgR 560.551, Rel. Min. Eros Grau, Segunda Turma, DJe 1.8.2008)
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do NCPC c/c art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
