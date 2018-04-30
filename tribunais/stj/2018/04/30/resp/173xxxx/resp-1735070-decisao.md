@@ -1,0 +1,116 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO CPC/73. AÇÃO INDENIZATÓRIA. DANO MORAL E MATERIAL. RESPONSABILIDADE POR MORTE EM ACIDENTE DE TRÂNSITO. PROCEDÊNCIA. VIOLAÇÃO A DISPOSITIVOS DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. ART. 27 DO CDC. INAPLICABILIDADE. ACIDENTE OCORRIDO NA VIGÊNCIA DO CC/1916. PRESCRIÇÃO VINTENÁRIA. PRECEDENTES. ILEGITIMIDADE PASSIVA. NÃO OCORRÊNCIA. CISÃO PARCIAL DA EMPRESA DEMANDADA. RESPONSABILIDADE RECONHECIDA. SÚMULAS 5 E 7. VALOR INDENIZATÓRIO. OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. MANUTENÇÃO DA QUANTIA. JUROS DE MORA. TERMO INICIAL. RELAÇÃO CONTRATUAL. CITAÇÃO VÁLIDA. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. VERBA HONORÁRIA. DISTRIBUIÇÃO DA SUCUMBÊNCIA. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+MANOEL DANTAS e MARIA ADELAIDE RODRIGUES DANTAS (MANOEL e ADELAIDE) ajuizaram ação de indenização por danos morais e materiais contra MASSA FALIDA DE IRMÃOS PAULA JOCA S.A (MASSA FALIDA) e EXPRESSO GUANABARA S.A (EXPRESSO GUANABARA), em virtude de acidente de trânsito ocorrido aos 9/2/1991, em que foi vitimado [NOME], filho dos autores.
+Em primeira instância os pedidos foram julgados procedentes, a fim de condenar, solidariamente, a MASSA FALIDA e EXPRESSO GUANABARA, ao pagamento de (1) indenização por dano moral na quantia de R$ 160.000,00 (cento e sessenta mil reais), descontados desse valor a quantia referente ao seguro DPVAT; (2) dano material, consubstanciado na prestação alimentícia, a ser paga mensalmente, no valor de 2/3 do salário mínimo, até a data em que a vítima completaria 25 anos de idade, devendo tal valor ser reduzido, a partir daquela data, para 1/3 do salários mínimo, pago até a data em que a vítima completaria 70 anos, sendo tais valores devidamente atualizados; e, (3) custas processuais e honorários advocatícios fixados em 10% sobre valor da condenação.
+O Tribunal a quo deu parcial provimento ao recurso, a fim de reduzir a indenização por dano moral para a quantia de R$ 122.500,00 (cento e vinte e dois mil e quinhentos reais), correspondentes a 350 salários mínimos vigentes na data da prolação da sentença, e também reduzir o termo final da pensão mensal para até a data em que a vítima completaria 65 anos de idade, com a necessária constituição de capital para garantir o cumprimento da obrigação, e fixar a correção monetária e os juros de mora a partir do arbitramento para os danos morais e à partir da citação para os danos materiais, recaindo a sucumbencial sobre a totalidade das verbas e parcelas vencidas e doze das parcelas vincendas.
+O referido acórdão foi ementado nos seguintes termos:
+APELAÇÃO CÍVEL. RESPONSABILIDADE POR MORTE EM ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANO MATERIAL E MORAL. PRELIMINARES: CERCEAMENTO DE DEFESA; DO SURGIMENTO DE DOCUMENTO NOVO; ILEGITIMIDADE PASSIVA AD CAUSA; PRESCRIÇÃO DO CDC; REJEITADAS. DANOS MORAIS. MINORAÇÃO. DANOS MATERIAIS. ESTIMATIVA MÉDIA DA VIDA LABORAL DA VÍTIMA. JUROS E CORREÇÃO MONETÁRIA. RESPONSABILIDADE CONTRATUAL. HONORÁRIOS. BASE DE CALCULO. CONDENAÇÃO. SUCUMBÊNCIA. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.
+1. À outra conclusão não se chega senão a de que não houve cerceamento de defesa, estando a sentença muito bem fundamentada e amparada em elementos constantes nos autos, não havendo necessidade de produção probatória;
+2. Somente se admite a juntada de documento que consubstancie fato novo em grau de recurso se a parte provar força maior impeditiva de exibição oportuna, o que não se verificou no caso dos autos;
+3. A empresa demandada responde solidaria mente por eventual direito à indenização, em momento anterior à cisão e, empós operada a cisão, tendo em vista que parte de seu patrimônio foi absorvido pela nova companhia, deve a sucessora responder, também, pelos compromissos assumidos anteriormente à cisão;
+4. Tem o dever de reparar o dano causado aquele que provoca acidente de trânsito por sua culpa;
+5. O Superior Tribunal de Justiça firmou o entendimento de que a prescrição quinquenal prevista no Código de Defesa do Consumidor atinge as ações que buscam indenização pelo modo defeituoso da prestação do serviço de transporte, não alcançando as ações que colimam indenização pleiteada em decorrência da morte do filho dos autores em razão de ato ilícito perpetrado pelo preposto da transportadora;
+6. Caracterizados a conduta ilícita, o nexo de causalidade e o dano, nasce a responsabilidade civil e o dever de ressarcir pelos danos cometidos em razão do falecimento da vítima;
+7. Danos morais caracterizados, porém minorados para atender o princípio da proporcionalidade;
+8. Danos materiais caracterizados ante a violenta interrupção da vida no auge de vigor físico,
+sendo razoável o arbitramento da indenização por danos materiais, considerando a estimativa média de vida laboral que teria a vítima;
+9. Honorários advocaticios incidentes sobre a condenação, assim consideradas as verbas vencidas e doze das prestações vincendas;
+10. Não há que se falar em sucumbência recíproca, conforme verbete sumular nº 326 do colendo Superior Tribunal de Justiça;
+11. Apelação conhecida e parcialmente provida (e-STJ, fl. 555/557).
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 616/632).
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da CF, EXPRESSO GUANABARA alegou, a par de dissídio jurisprudencial, violação dos seguintes artigos: (1) 2º, 3º e 27 do CPC, afirmando tratar-se o caso de responsabilidade do fornecedor por fato do serviço, sendo aplicável, à espécie, o prazo prescricional de cinco anos; (2) 130, 330, I, e 332 aduzindo a nulidade do processo em razão do cerceamento de defesa pelo indeferimento de oitiva das testemunhas arrolada; (3) 269, III, do CPC/73 e 1025 do CC/16, sustentando a existência de termo de transação e acordo, no qual os pais da vítima foram indenizados, recebendo a quantia de Cr$ 1.250,00 (um milhão e duzentos e cinquenta mil cruzeiros), dando assim, plena quitação quanto aos prejuízos supostamente advindos da morte de [NOME], filho dos autores; (4) 267, VI, do CPC/73 e 932, II, do CC/02, aduzindo ser parte ilegítima para figurar no polo passivo da relação processual, uma vez que o veículo envolvido no acidente do qual resultou a morte do filho dos autores pertencia à MASSA FALIDA; (5) 944, § único do CC/02, asseverando o enriquecimento sem causa dos pais da vítima pelo exorbitante valor fixado a título de dano moral; (6) 21 do CPC/73, ao argumento de que indevida a fixação da sucumbência recíproca em relação a dano moral; (7) 467, 468, 472, 473 c/c 525 do CPC/73, por entender existir ofensa à coisa julgada, no que diz respeito ao termo inicial dos juros moratórios sobre os danos morais; e, (8) 405 do CC/02, ao entendimento de que o termo inicial dos juros moratórios sobre os danos morais é a data do respectivo arbitramento definitivo, que, no caso, se deu na prolação do acórdão.
+Após transcorrer in albis o prazo para apresentar as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O presente recurso não merece provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+(1) Da violação a dispositivos de lei federal
+A matéria contida nos arts. 2º e 3º do CDC; 130, 330, I, 332, 269, III, 467, 468, 472, 473 c/c 525 do CPC/73, e 1025 do CC/16, tidos por ofendido, não foi enfrentada pelo Tribunal de origem nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 do STJ, o recurso especial não poderia ter sido analisado neste Tribunal Superior: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+Cumpre ainda destacar que caberia à parte, nas razões do seu especial, alegar a violação do art. 535 do CPC/73, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+(2) Da alegada prescrição (art. 27 do CDC)
+EXPRESSO GUANABARA alegou que o direito da parte autora encontra-se acobertado pela prescrição quinquenal, a teor do que dispõe o art. 27 do CDC.
+Sem razão, contudo.
+É assente nesta Corte que o prazo prescricional para se pleitear indenização decorrente de acidente ocorrido em veículo de transporte público de passageiros na vigência do Código Civil de 1916 é vintenária.
+A esse respeito, vejam-se os julgados:
+CIVIL E PROCESSUAL. AGRAVO REGIMENTAL. DECISÃO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE AUTOMOBILÍSTICO. TRANSPORTE COLETIVO DE PASSAGEIROS. PRESCRIÇÃO. EVENTO ANTERIOR À VIGÊNCIA DO NOVO CÓDIGO CIVIL. PRAZO VINTENÁRIO. QUEDA. FRATURA. TRATAMENTO CIRÚRGICO. VALOR ARBITRADO PELA INSTÂNCIA ORDINÁRIA. RAZOABILIDADE E PROPORCIONALIDADE. MANUTENÇÃO. PRECEDENTES DO STJ. SUCUMBÊNCIA RECÍPROCA. NÃO OCORRÊNCIA. SÚMULA 326/STJ.
+1. Durante a vigência do Código Civil de 1916, a prescrição para haver indenização por acidente ocorrido no interior de veículo de transporte público de passageiros esteve adstrita ao prazo vintenário. Precedentes.
+ .. .
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.074.649/CE, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 5/02/2015, DJe 12/2/2015)
+CIVIL E PROCESSUAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE COM COLETIVO. MORTE DE PASSAGEIROS. NULIDADE DO ACÓRDÃO NÃO CONFIGURADA. DEPENDÊNCIA ECONÔMICA. FUNDAMENTAÇÃO. SUFICIÊNCIA. PROVA. REEXAME. IMPOSSIBILIDADE. DANO MORAL DEVIDO AOS FILHOS E IRMÃOS. TARIFAÇÃO PELO CÓDIGO BRASILEIRO DE TELECOMUNICAÇÕES INADEQUADA. VALOR FIXADO. RAZOABILIDADE. PRESCRIÇÃO VINTENÁRIA. ININCIDÊNCIA DO ART. 27 DO CDC. TRANSAÇÃO CELEBRADA COM A 1ª AUTORA. NÃO PREJUDICIALIDADE DO DIREITO DOS DEMAIS AUTORES. INEXISTÊNCIA DE SOLIDARIEDADE.
+ .. .
+IV. Por defeito de serviço, na previsão do art. 14, parágrafo 1º, incisos I a III, do CDC, há que se entender, no caso do transporte de passageiros, aquele inerente ao curso comum da atividade comercial, em tal situação não se compreendendo acidente que vitima fatalmente passageiros de coletivo, uma vez que constitui circunstância extraordinária, alheia à expectativa dos contratantes, inserindo-se no campo da responsabilidade civil e, assim, sujeita à prescrição vintenária do art. 177 do Código Substantivo, e não à qüinqüenal do art. 27 da Lei n. 8.078/90.
+V. Não há solidariedade entre os parentes, de sorte que a transação feita pela esposa e mãe das vítimas com a ré não faz desaparecer o direito à indenização dos demais autores, filhos e irmãos dos extintos, em face da independência da relação de parentesco.
+VI. Recurso especial conhecido em parte e improvido.
+(REsp 330.288/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, Quarta Turma, j. 27/6/2002, DJ 26/8/2002)
+De fato, somente após a edição do Código Civil atual, com vigência a partir de 11/1/2003, é que a prescrição passou a ser computada com base no art. 27 do CDC, conforme se vê do precedente abaixo:
+PROCESSO CIVIL, CIVIL E CONSUMIDOR. TRANSPORTE RODOVIÁRIO DE PESSOAS. ACIDENTE DE TRÂNSITO. DEFEITO NA PRESTAÇÃO DO SERVIÇO. PRESCRIÇÃO. PRAZO. ART. 27 DO CDC. NOVA INTERPRETAÇÃO, VÁLIDA A PARTIR DA VIGÊNCIA DO NOVO CÓDIGO CIVIL.
+- O CC/16 não disciplinava especificamente o transporte de pessoas e coisas. Até então, a regulamentação dessa atividade era feita por leis esparsas e pelo CCom, que não traziam dispositivo algum relativo à responsabilidade no transporte rodoviário de pessoas.
+- Diante disso, cabia à doutrina e à jurisprudência determinar os contornos da responsabilidade pelo defeito na prestação do serviço de transporte de passageiros. Nesse esforço interpretativo, esta Corte firmou o entendimento de que danos causados ao viajante, em decorrência de acidente de trânsito, não importavam em defeito na prestação do serviço e; portanto, o prazo prescricional para ajuizamento da respectiva ação devia respeitar o CC/16, e não o CDC.
+- Com o advento do CC/02, não há mais espaço para discussão. O art. 734 fixa expressamente a responsabilidade objetiva do transportador pelos danos causados às pessoas por ele transportadas, o que engloba o dever de garantir a segurança do passageiro, de modo que ocorrências que afetem o bem-estar do viajante devem ser classificadas de defeito na prestação do serviço de transporte de pessoas.
+- Como decorrência lógica, os contratos de transporte de pessoas ficam sujeitos ao prazo prescricional específico do art. 27 do CDC.
+Deixa de incidir, por ser genérico, o prazo prescricional do Código Civil.
+Recurso especial não conhecido.
+(3ª Turma, REsp 958.833/RS, Rel. Ministra NANCY ANDRIGHI, unânime, DJU de 25/2/2008).
+Sendo assim, o sinistro ocorrido ainda na vigência do Código Civil de 1916 tem a prescrição disciplinada pelo art. 177 daquela norma, que previa o prazo vintenário.
+A esse respeito, confiram-se, ainda, os seguintes precedentes oriundos das Turmas integrantes da Segunda Seção desta Corte: REsp 330.288/SP, Rel. Ministro ALDIR PASSARINHO JUNIOR, DJU 26/8/2002; REsp 327.718/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, DJU de 12/8/2002; REsp 226.286/RJ, Rel. p/ acórdão o MINISTRO ANTÔNIO DE PÁDUA RIBEIRO, DJU de 24/9/2001.
+No caso dos autos, como o acidente ocorreu aos 9/2/1991 e a ação indenizatória foi distribuída aos 19/4/1999 (fl. 7), não há falar em prescrição.
+(3) Da ilegitimidade passiva (art. 267, VI, do CPC/73 e 932, II, do CC/02)
+O Tribunal a quo afastou a alegada ilegitimidade passiva de EXPRESSO GUANABARA ante o reconhecimento de sua responsabilidade pelo acidente de trânsito que vitimou o filho dos autores, em virtude da ocorrência da cisão parcial da empresa IRMÃOS PAULA JOCA S.A, senão vejamos:
+Depreende-se dos autos de ação de indenização por dano material oriundo de acidente de trânsito que a empresa Irmãos Paula Joca S/A, foi parcialmente cindida, criando-se a Expresso Guanabara, empresas as quais são integrantes do mesmo grupo financeiro e possuem os mesmos sócios.
+De fato, é bem de se ver que há nos autos documentos que apontam que as duas empresas são constituídas pelos mesmos acionistas, sendo certo que o contrato de cisão nada estipula sobre as obrigações existentes anteriormente a esta. Assim, restou perfeitamente demonstrado nos autos que ocorreu a cisão parcial da empresa, sem qualquer estipulação sobre a transferência ou não de responsabilidades.
+E, conforme regra do artigo 229, § I, da Lei nº 6.404/76, "sem prejuízo do disposto no artigo 233, a sociedade que absorver parcela do patrimônio da companhia cindida sucede a esta nos direitos e obrigações relacionados no ato da cisão".
+E o mencionado artigo 233, parte final, diz com todas as letras que "a companhia cindida que subsistir e as que absorverem parcelas do seu património responderão solidariamente pelas obrigações anteriores à cisão".
+Se assim é, somado aos elementos probatórios existentes nestes autos, impõe-se o reconhecimento da responsabilidade solidária da apelante que é, por isso, parte legitima no polo passivo da demanda.
+Nestes termos, rejeito a preliminar de ilegitimidade passiva ad causan, porquanto a empresa demandada responde solidariamente por eventual direito à indenização, em momento anterior à cisão e, empós operada a cisão, tendo em vista que parte de seu patrimônio foi absorvido pela nova companhia, deve a sucessora responder, também, pelos compromissos assumidos anteriormente à cisão (e-STJ, fls. 561/562).
+Para reformar o entendimento acima adotado, é necessário o reexame do conjunto fático-probatório dos autos, o que encontra óbice no enunciado das Súmulas nºs 5 e 7 do STJ:
+A simples interpretação de cláusula contratual não enseja recurso especial.
+A pretensão de simples reexame de prova não enseja recurso especial.
+A esse respeito, veja-se o precedente, ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AUSÊNCIA. JULGADOS DEVIDAMENTE FUNDAMENTADOS. CISÃO DE EMPRESAS. ILEGITIMIDADE PASSIVA. EXISTÊNCIA DE CLÁUSULA LIMITATIVA DA RESPONSABILIDADE. COMPREENSÃO ADOTADA NA ORIGEM, COM BASE EM LEI ESTADUAL. ENUNCIADO N. 280/STF. INCIDÊNCIA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+ . .
+2. Segundo a jurisprudência, há a "possibilidade de ser excepcionada a regra da solidariedade passiva entre as empresas na cisão parcial mediante a estipulação de cláusula expressa no protocolo de cisão acerca das responsabilidades sociais da empresa cindida e da resultante da cisão. Nessa hipótese, pode haver o repasse às sociedades que absorveram o patrimônio da cindida apenas das obrigações que lhes forem expressamente transferidas, afastando a solidariedade passiva relativamente às obrigações anteriores à cisão" (REsp 1.396.716/MG, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 24/03/2015, DJe 30/03/2015).
+ .. .
+4. Em confronto com a compreensão exarada na origem, demandam-se o revolvimento de matéria fático-probatória e interpretação contratual, proceder que se afigura vedado, a teor dos enunciados n.
+5 e 7 da súmula do STJ. Isso porque a irresponsabilidade do Bansirul foi fundada na apreciação de elementos probatórios dos autos.
+5. Agravo interno desprovido.
+(AgInt no AREsp 964.939/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 13/3/2018, DJe 27/3/2018)
+(3) Do valor indenizatório (art. 944, § único do CC/02)
+EXPRESSO GUANABARA pugnou pela redução da verba indenizatória por dano moral, fixada na quantia de R$ 122.500,00 (cento e vinte e dois mil e quinhentos reais), afirmando ser referido valor exorbitante, ensejando o enriquecimento ilícito dos pais da vítima.
+Nesse aspecto, é certo que a lei não fixa valores ou critérios para a quantificação do dano moral, que, entretanto, deve ter assento na regra do art. 944 do CC/02.
+No presente caso, observa-se que a quantia fixada na origem, aos 11/9/2013 (cf. e-STJ, fl. 580), encontra-se aquém dos parâmetros adotados por esta Corte no arbitramento de indenização por morte, que em casos semelhantes - acidente de trânsito com resultado morte -, admite a fixação da reparação moral em valor equivalente a até 500 (quinhentos) salários mínimos, atualmente no importe de R$ 477.000,00 (quatrocentos e setenta e sete mil reais).
+Assim, não se mostra exorbitante a indenização fixada na quantia de R$ 122.500,00 (cento e vinte e dois mil e quinhentos reais), valor que reputo apto e suficiente a cumprir o dúplice caráter reparatório/inibitório da medida.
+(4) Do termo inicial dos juros de mora
+EXPRESSO GUANABARA afirmou que os juros de mora referentes ao dano moral devem ser fixados na data do arbitramento definitivo da indenização, que no caso se deu no julgamento do recurso de apelação, que reduziu o valor indenizatório de R$ 160.000,00 (cento e sessenta mil reais) para R$ 122.500,00 (cento e vinte e dois mil e quinhentos reais).
+O Tribunal a quo, no julgamento dos embargos de declaração, alterou, de oficio, o termo inicial dos juros moratórios, fixando-os a partir da citação, tendo em vista tratar-se de responsabilidade contratual (cf. e-STJ, fls. 621/622).
+Tal entendimento, está em conformidade com a orientação firmada nesta Corte, nos termos dos precedentes abaixo destacados.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. DESDOBRAMENTO DE UNIDADES CONDOMINIAIS.  .. .. 4. TERMO INICIAL DOS JUROS DE MORA. ACÓRDÃO RECORRIDO CONFORME A ORIENTAÇÃO JURISPRUDENCIAL. 5. AGRAVO IMPROVIDO.
+ .. .
+4. O Superior Tribunal de Justiça firmou entendimento de que, nos casos de indenização por danos morais decorrentes de responsabilidade contratual, o termo inicial dos juros de mora é a data da citação.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1054558/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 22/03/2018, DJe 3/4/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CONJUGADO COM DANOS MORAIS E MATERIAIS. PROTESTO REGULAR.  .. . JUROS MORATÓRIOS. TERMO INICIAL. CITAÇÃO. RELAÇÃO CONTRATUAL. DISSÍDIO DEFICIÊNCIA. SÚMULA Nº 284/STF. SÚMULA Nº 83/STJ.
+ ..
+7. O marco inicial para a incidência dos juros de mora, no caso de responsabilidade contratual é a citação. Precedentes.
+8. Agravo interno não provido.
+(AgInt no AREsp 1169647/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 6/3/2018, DJe 12/3/2018).
+(5) Da distribuição da verba da sucumbência (art. 21 do CPC/73)
+Com relação à distribuição do ônus da sucumbência, destaco que este Sodalício consolidou o entendimento de que a apreciação, na hipótese, do quantitativo em que as partes saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, e a fixação do respectivo quantum demandam a incursão no suporte fático-probatório dos autos, esbarrando no óbice da Súmula 7 deste Sodalício". (AgRg no AREsp 562.130/ES, Rel. Ministro RAUL ARAÚJO, Quarta Turma, DJe 13/4/2016).
+No mesmo sentido, vejam-se os julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTS. 2º, 128, E 460 DO CPC. NÃO PREQUESTIONAMENTO. NÃO DEMONSTRAÇÃO. ENUNCIADOS 282 E 284 DA SÚMULA/STF. INDENIZAÇÃO. OBRIGATORIEDADE. REEXAME. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ. ARTS. 46 E 47 DO CDC. APLICAÇÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. ENTENDIMENTO ADOTADO NESTA CORTE. CORREÇÃO MONETÁRIA. TERMO. CONTRATAÇÃO DO SEGURO. REFORMATIO IN PEJUS. NEGATIVA DE COBERTURA. SUCUMBÊNCIA RECÍPROCA. REVISÃO. SÚMULA 7/STJ. NÃO PROVIMENTO.
+ ..
+6. Inviável a avaliação da proporção do decaimento das partes, para revisão da verba honorária, por aplicação da Súmula 7/STJ.
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 421.805/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 10/8/2015).
+PROCESSO CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Segundo a jurisprudência desta Corte a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ.
+ ..
+4. Agravo regimental improvido.
+(AgRg no AgRg no AREsp 605.108/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 30/6/2015).
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários (art. 85, § 2º e 11, do NCPC) por serem inaplicáveis ao presente caso.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º, do NCPC).
+Publique-se. Intimem-se.
