@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – AGRAVO DESPROVIDO.
+    1. O Tribunal Regional Federal da 3ª Região confirmou o entendimento do Juízo quanto à improcedência do pedido de concessão de aposentadoria, ressaltando a impossibilidade de reconhecimento de tempo de serviço especial referente ao período de 31/03/1977 a 05/03/1997. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos 7º, inciso XXIV, e 201, § 7º, da Constituição Federal. Alega fazer jus ao benefício. Discorre sobre a legislação de regência. Requer o reconhecimento da especialidade do período laborado em exposição a agente insalubre.
+    2. Colho da decisão recorrida o seguinte trecho:
+    De se observar que, os laudos técnicos carreados foram confeccionados em abril de 2001, para demonstrar a especialidade dos períodos de 31/03/1977 a 28/02/1985, 01/03/1985 a 30/04/1991, 01/05/1991 a 29/12/1991 e de 30/12/1991 a 05/03/1997, não havendo a informação de que as condições do ambiente de trabalho em que o segurado laborou continuam inalteradas. Portanto, tais documentos não são hábeis para comprovar a especialidade da atividade.
+    Ressalte-se que, o reconhecimento como especial pela categoria profissional apenas é permitida até 28/04/1995 (data da Lei n° 9.032/95), sendo que a conversão dar-se-á baseado nas atividades profissionais do segurado, conforme classificação inserida no Anexo do Decreto n° 53.831/64 e Anexos I e II do Decreto n° 83.080/79.
+    In casu, não é possível reconhecer a atividade especial porque o labor como auxiliar de dutos, contramestre e mestre de manutenção civil não está no rol das categorias profissionais que admitem, por si só, o enquadramento.
+    Logo, impossível o reconhecimento dos períodos questionados.
+    Assentado esse aspecto, resta examinar se o requerente havia preenchido as exigências à sua aposentadoria.
+    Foram refeitos os cálculos do tempo de serviço, somado o labor na Petrobras S/A de 31/03/1977 a 30/01/2002, data do requerimento administrativo, o requerente perfez apenas 24 anos, 10 meses e 01 dia de trabalho, não fazendo jus à aposentadoria pretendida, eis que para beneficiar-se das regras permanentes estatuídas no artigo 201, § 7°, da CF/88, deveria cumprir pelo menos 35 (trinta e cinco) anos de, contribuição.
+    Ora, somente pela análise das provas constantes do processo seria dado concluir em sentido diverso, o que é vedado em sede extraordinária. Por outro lado, o ato impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    Acresce que, no caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula do Supremo.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 906.569/PE, da relatoria do ministro Edson Fachin, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à avaliação judicial de critérios para a caracterização de trabalho especial, para fins de reconhecimento de aposentadoria especial ou de conversão de tempo de serviço, nos termos dos artigos 57 e 58 da Lei nº 8.213/91. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de abril de 2018.
+ Ministro MARCO AURÉLIO
+Relator
