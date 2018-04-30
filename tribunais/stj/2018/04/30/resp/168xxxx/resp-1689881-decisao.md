@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. REENQUADRAMENTO. AUSÊNCIA DE DECISÃO DA ADMINISTRAÇÃO NO REQUERIMENTO ADMINISTRATIVO. PRAZO PRESCRICIONAL QUE PERMANECE SUSPENSO. NÃO OCORRÊNCIA DA PRESCRIÇÃO. RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal contra acórdão proferido pelo Tribunal de Justiça estadual, assim ementado (e-STJ fl. 124):
+CONSTITUCIONAL E ADMINISTRATIVO - SERVIDOR PÚBLICO - REENQUADRAMENTO FUNCIONAL RECONHECIMENTO ADMINISTRATIVAMENTE - DIFERENÇAS REMUNERATÓRIAS - PAGAMENTO - ADMISSIBILIDADE. 1. Não corre a prescrição durante a demora que, no estudo, ao reconhecimento ou no pagamento da dívida, considerada líquida, tiveram as repartições ou funcionários encarregados de estudar e apurá-la (art. 4º do Decreto-lei nº 20.910/32). Prescrição afastada. 2. Reenquadramento funcional. Reconhecimento administrativo. A falta de recursos orçamentários não serve como justificativa para negativa do pagamento de diferenças remuneratórias devidas a servidor público. Cobrança. Pedido procedente. Incidência de correção monetária, juros de mora e contribuição previdenciária. Reexame necessário, considerado interposto, e recurso da ré providos, em parte. Recurso da autora provido.
+No apelo especial, a parte recorrente alega que houve ofensa aos arts. 1º, 3º, e 6º, do Decreto 20.910/1932. Argumenta que ocorreu a prescrição do próprio fundo do direito, pois "o ato ou fato do qual se originou o pleito administrativo foi a data da própria admissão da servidora, o que ocorreu em 27/02/2003, posto que, conforme fundamentado na sua própria inicial, a referida nomenclatura "D1" já se encontrava extinta antes mesmo de sua admissão" (e-STJ fl. 181, grifos no original).
+Com contrarrazões (e-STJ fls. 191-196).
+Decisão de admissibilidade às e-STJ fls. 198-199.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+A Corte de origem decidiu em consonância com a jurisprudência desta Corte Superior, firme no sentido de que o requerimento administrativo suspende o curso do prazo prescricional, o qual apenas volta a fluir após a decisão administrativa.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. PENSÃO POR MORTE. AUSÊNCIA DE DECISÃO DA ADMINISTRAÇÃO NO REQUERIMENTO ADMINISTRATIVO. PRAZO PRESCRICIONAL QUE PERMANECE SUSPENSO.
+1. Nos termos do que decidido pelo Plenário do STJ, " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2)".
+2. Nos termos da jurisprudência do STJ, inexistindo decisão quanto ao requerimento administrativo, o prazo prescricional permanece suspenso. O lapso prescricional somente volta a fluir após a decisão administrativa.
+3. Agravo regimental não provido.
+(AgRg no REsp 1259455/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 10/11/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PRESCRIÇÃO DO DIREITO À REINTEGRAÇÃO. TRIBUNAL A QUO DECIDIU PELO EXAURIMENTO DO PRAZO PRESCRICIONAL, JÁ CONSIDERADO TODAS AS CAUSAS SUSPENSIVAS. CONTAGEM DE PRAZO. EXAME DE FATOS E DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem considerou a ocorrência da prescrição já observando o tempo no qual não houve a contagem do prazo prescricional em face da causa suspensiva provocada pela apresentação de requerimento administrativo.
+2. O provimento da pretensão recursal - atinente à não ocorrência da prescrição - depende da análise das provas e dos fatos dos autos com o intuito de aferir se houve o exaurimento do prazo de cinco anos, somado ao período em que houve a suspensão do prazo prescricional pelo requerimento administrativo, antes da propositura dessa ação.
+Essa tarefa, contudo, não é possível em recurso especial por força do óbice da Súmula n. 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 827.341/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 17/06/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. SERVIDOR PÚBLICO. PROCESSUAL CIVIL. REQUERIMENTO ADMINISTRATIVO. SUSPENSÃO DA PRESCRIÇÃO. PRECEDENTES. JULGAMENTO ANTECIPADO DE MÉRITO. ANULAÇÃO DO JULGADO PELA NECESSIDADE DE PRODUÇÃO DE PROVAS. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DEVOLUÇÃO DE QUANTIA RECEBIDA INDEVIDAMENTE POR SERVIDOR PÚBLICO. IMPOSSIBILIDADE PELA NATUREZA ALIMENTAR DA VERBA. TESE NÃO PREQUESTIONADA PELO TRIBUNAL DE A QUO. SÚMULA N. 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo em vista a norma contida no artigo 4º do Decreto-Lei n. 20.910/32, a prescrição para a Administração resta suspensa durante o exame da irresignação administrativa.
+2. A acolhida da pretensão recursal, no tocante à impossibilidade de julgamento antecipado de mérito no caso dos autos, com a consequente revisão do julgado impugnado, depende de reexame fático-probatório dos autos no intuito de aferir a certeza conferida pelos fatos comprovados pelas provas já contidas nos autos. Essa tarefa, contudo, não é possível em sede de recurso especial por força do óbice da Súmula n. 7/STJ.
+3. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súmula n. 211/STJ.
+4. Agravo regimental não provido.
+(AgInt no AREsp 860.790/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/05/2016)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. NÃO OCORRÊNCIA DA PRESCRIÇÃO DE FUNDO DE DIREITO. PENDÊNCIA DE REQUERIMENTO ADMINISTRATIVO. SITUAÇÃO QUE IMPEDE O TRANSCURSO DO PRAZO PRESCRICIONAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. CIÊNCIA DO INDEFERIMENTO DO REQUERIMENTO ADMINISTRATIVO. REEXAME DE MATÉRIA FÁTICA, QUE ENCONTRA ÓBICE NA SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A teor do disposto no art. 4o. do Decreto 20.910/32, o curso do prazo prescricional aplicável às ações contra a Fazenda Pública é suspenso durante a pendência de requerimento administrativo, e somente torna a correr com a decisão final ou ato que põe fim ao processo administrativo.
+2. Na hipótese dos autos, é forçoso concluir pela inocorrência da prescrição do fundo de direito, haja vista a suspensão do prazo extintivo ante a pendência de requerimento administrativo.
+3. O acolhimento das alegações deduzidas no Apelo Nobre, notadamente quanto à ciência da parte recorrida do indeferimento do pedido administrativo, ensejaria a incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+4. Agravo Regimental a que se nega provimento.
+(AgRg no AREsp 419.690/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 04/11/2015)
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
