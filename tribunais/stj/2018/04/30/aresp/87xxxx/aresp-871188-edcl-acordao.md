@@ -1,0 +1,38 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REITERAÇÃO DE ALEGAÇÃO EXPRESSAMENTE APRECIADA E DECIDIDA NAS ANTERIORES FASES DE JULGAMENTO. AUSÊNCIA DOS VÍCIOS QUE ENSEJAM O RECURSO INTEGRATIVO. OPOSIÇÃO INJUSTIFICADA AO ANDAMENTO PROCESSUAL. CARÁTER PROTELATÓRIO. MULTA DO § 2º DO ART. 1.026 DO CPC/2015. EMBARGOS REJEITADOS COM IMPOSIÇÃO DE MULTA.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Manifesto o caráter protelatório dos embargos de declaração, é de rigor a aplicação de multa sobre o valor atualizado da causa, prevista no art. § 2º do art. 1.026 do CPC/2015.
+3. Embargos de declaração rejeitados, com imposição de multa de 1% sobre o valor da causa.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Quarta Turma, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti, Antonio Carlos Ferreira (Presidente) e Marco Buzzi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO): Cuida-se de novos embargos declaratórios opostos por [NOME] contra o acórdão de fls. 830/836, que rejeitou anterior recurso aclaratório por ausência dos apontados vícios.
+Sustenta o embargante que persiste a omissão quanto ao requerimento de que fosse "desconstituído o processo a partir da sentença ou cassado o acórdão recorrido, sendo determinado que sejam expressamente examinadas as questões injustamente não conhecidas", defendendo a tese de que "a teoria da perda de uma chance é uma mera tese, ou seja, pode ser utilizada como fundamentação de julgamento mas não é essencial sua alegação na petição inicial, e mais, sua invocação posterior não altera a causa de pedir".
+Aduz, também, ser contraditória a fundamentação de que não seria possível a análise do art. 6º do CDC e arts. 258, 264, 282, 286, 359, 460, 462 e 517 do CPC/1973, porque não teriam servido de fundamento à conclusão obtida pelo Tribunal a quo, e a rejeição de ofensa ao art. 535 do CPC/73.
+Aponta contradição e obscuridade na afirmação de ausência de prova de nexo causal entre a conduta dos embargados (e prepostos) do hospital e os danos sofridos pelo embargante, alegando ser obscura a decisão embargada pela "recusa ao exame de vital questão ao deslinde do feito".
+Requer a concessão de efeitos infringentes aos embargos.
+Não foi apresentada impugnação (certidão de fl. 850).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO) - Relator: A irresignação não merece prosperar, pois não há vício que autorize a oposição dos presentes embargos de declaração.
+Na verdade, esses segundos embargos repetem as razões já expendidas na primeira apresentação de recurso aclaratório.
+Observe-se, outrossim, que os embargos de declaração têm como objetivo sanar eventual obscuridade, contradição, omissão ou erro material existente na decisão recorrida (CPC/2015, art. 1.022), de modo que é inadmissível a sua oposição para rediscutir questões exaustivamente analisadas e devidamente fundamentadas ao longo do iter processual, já que não são cabíveis para provocar novo julgamento da lide, como pretende novamente a parte ora embargante no presente recurso integrativo. A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL REPETITIVO. JUROS COMPOSTOS. CAPITALIZAÇÃO DE JUROS. MATÉRIA CONSTITUCIONAL. PROPÓSITO INFRINGENTE. OMISSÃO INEXISTENTE. REDISCUSSÃO. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. São intempestivos os embargos de declaração opostos fora do prazo de cinco dias previsto nos arts. 536 do CPC e 263, caput, do RISTJ.
+3. Primeiros embargos de declaração rejeitados, não conhecidos os segundos."
+(EDcl no REsp 973.827/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 10/10/2012, DJe de 19/10/2012)
+"EMBARGOS DE DECLARAÇÃO - AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE - EMBARGOS REJEITADOS.
+1.- Os Embargos de Declaração são recurso de natureza particular, cujo objetivo é esclarecer o real sentido de decisão eivada de obscuridade, contradição ou omissão.
+2.- Estando o Acórdão Embargado devidamente fundamentado, inclusive em jurisprudência sedimentada desta Corte, são inadmissíveis os embargos que pretendem reabrir a discussão da matéria.
+3.- Embargos de Declaração rejeitados."
+(EDcl no REsp 1.114.398/PR, Rel. Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, julgado em 25/4/2012, DJe de 9/5/2012)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. AUSÊNCIA DE QUALQUER DOS VÍCIOS DO ART. 535 DO CPC. ALEGAÇÃO DE NOVO PEDIDO DE RECUPERAÇÃO JUDICIAL. PRETENSÃO DE NOVO JULGAMENTO. IMPOSSIBILIDADE.
+1. Não possuindo o acórdão embargado os vícios de contradição, obscuridade ou omissão, são incabíveis os embargos declaratórios.
+2. Na verdade, apresentando fatos recentes, pretende a embargante obter novo julgamento do feito, o que não se admite.
+3. Cuida-se - o segundo processamento da recuperação - de nova decisão judicial, que não pode ser levada em consideração no julgamento do presente conflito, fundado exclusivamente em fatos e decisões pretéritas.
+4. Embargos de declaração rejeitados."
+(EDcl no AgRg no CC 118.422/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 12/9/2012, DJe de 18/9/2012)
+Infere-se, assim, que a parte embargante insiste na interposição de recurso manifestamente inadmissível e infundado, mormente porque não configurada nenhuma das hipóteses de cabimento de embargos de declaração (CPC, art. 1.022), circunstância que evidencia o nítido intento protelatório do recurso integrativo, com ensejo à aplicação da multa por conduta processual indevida, prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, rejeito os embargos de declaração, com aplicação de multa de 1% sobre o valor da causa.
+É como voto.
