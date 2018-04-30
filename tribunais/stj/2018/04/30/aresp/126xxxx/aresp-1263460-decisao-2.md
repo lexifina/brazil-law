@@ -1,0 +1,38 @@
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS. ÓBITO POR ERRO MÉDICO. REVISÃO DO VALOR INDENIZATÓRIO. IMPOSSIBILIDADE. VALOR ARBITRADO EM PATAMAR RAZOÁVEL. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. VALOR. SUCUMBÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto pelo Município de Lençóis Paulista contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7/STJ.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 636):
+AÇÃO ORDINÁRIA  Indenização por danos morais e materiais  Erro médico  Negligência e imperícia na prestação do serviço público de saúde  Nexo de causalidade reconhecido  Responsabilidade objetiva do Estado  Recurso provido.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente sustenta ofensa aos seguintes artigos: i) 944 do CC/2002, sob o argumento de que o dano moral fixado na quantia de R$ 75.000,00 para cada autor (R$ 225.000,00 no total) é exorbitante, pois a dor da perda do ente querido atenuou-se pelo decurso do tempo;
+ii) 85, § 3º, II e 86, do CPC/2015, já que os honorários fixados em 10% do valor da condenação também são exorbitantes, notadamente pela sucumbência recíproca, razão pela qual devem ser excluídos ou reduzidos.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+De início, no que concerne ao valor arbitrado a título de danos morais, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento no sentido de que somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, em afronta os princípios da razoabilidade e da proporcionalidade, sob pena de ofensa ao disposto na Súmula 7 desta Corte.
+No caso, o Tribunal a quo, em virtude das peculiaridades fáticas do caso  óbito por erro médico decorrente de negligência e imperícia  , manteve o valor de R$ 75.000,00 para cada autor (R$ 225.000,00 no total), fixado pela sentença, a título de reparação por danos morais, o que merece ser mantido, por consentâneo com os princípios da proporcionalidade e da razoabilidade e com a jurisprudência do STJ em casos análogos.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. MORTE POR ERRO MÉDICO. INDENIZAÇÃO POR DANOS MORAIS. VALOR FIXADO EM R$ 100.000,00 FUNDADO EM PRECEDENTES DESTE STJ E DE OUTROS TRIBUNAL ESTADUAIS. RECONHECIMENTO EXPRESSO DE QUE A FALHA NO ATENDIMENTO MÉDICO E A NEGLIGÊNCIA NA PRESTAÇÃO DO SERVIÇO DE SAÚDE FORAM DETERMINANTES PARA O ÓBITO DO FILHO DA PARTE AUTORA. ENTENDIMENTO DESTE STJ DE QUE SOMENTE SE PODE REANALISAR A CONDENAÇÃO EM DANOS MORAIS CASO O MONTANTE SEJA EXORBITANTE OU IRRISÓRIO, HIPÓTESES AUSENTES NO CASO PRESENTE. AGRAVO INTERNO DO ESTADO DO ACRE A QUE SE NEGA PROVIMENTO.
+1. Ainda que existam precedentes cuja condenação foi inferior ao da presente demanda, como alega a parte agravante, há também inúmeros outros cuja condenação foi equivalente e ainda há aqueles com condenação superior. Tal ocorre dada as peculiaridades casuísticas e não ensejam, por si só, a revisão do julgado local.
+2. Na espécie, verifica-se que houve no acórdão local o reconhecimento expresso de que a falha no atendimento médico e a negligência na prestação do serviço de saúde foram determinantes para o óbito do filho da parte autora, não havendo, portanto, plausibilidade jurídica a se revisar o montante indenizatório.
+3. Agravo Interno do Estado do Acre a que se nega provimento. (AgInt no AgRg no AREsp 686058/AC, Primeira Turma, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 12/03/2018)
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO. VALOR PROPORCIONAL. REVISÃO. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que a revisão do valor a ser indenizado somente é possível quando exorbitante ou irrisória a importância arbitrada, o que não é o caso dos autos. Incidência da Súmula 7/STJ.
+2. Agravo interno não provido. (AgInt no AREsp 836324/SP, Primeira Turma, Minha Relatoria, DJe 02/02/2017)
+Desta forma, o acolhimento da pretensão recursal demanda prévio reexame do conjunto fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7 deste Tribunal.
+No mais, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que os valores fixados a título de honorários advocatícios somente podem ser modificados em situações excepcionais, quando se mostrarem irrisórios ou exorbitantes, de modo a afrontar os parâmetros da razoabilidade.
+No presente caso, o Tribunal de origem, ao analisar os elementos fáticos dos autos, concluiu que o montante de 10% sobre o valor da condenação é suficiente para retribuir o trabalho do advogado, situação que impede a revisão nesta Corte, pois somente valores que fogem da razoabilidade são viáveis a flexibilizar o óbice da Súmula n. 7/STJ.
+Nesse sentido: AgRg no AREsp 664.134/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/5/2016; AgInt no REsp 1.447.641/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 31/5/2016; AgRg no AREsp 626.844/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/3/2015; AgRg nos EREsp 1.373.653/RS, Rel. Min. Laurita Vaz, Corte Especial, DJe 28/5/2014.
+Por fim, frise-se que a jurisprudência desta Corte Superior de Justiça firmou-se no sentido de que a revisão dos critérios adotados para atribuição da sucumbência, com intuito de aferir se foi mínima ou recíproca, demanda incursão nos suportes fático e probatório dos autos, esbarrando no óbice contido na súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL, CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. FORNECIMENTO DE ÁGUA. REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO. PRAZO GERAL PREVISTO NO CÓDIGO CIVIL.
+ ..
+3. A revisão do quantitativo de decaimento de cada parte, para o fim de aferição da ocorrência da sucumbência mínima ou recíproca, depende de nova análise de fatos e provas constantes dos autos. Orientação da Súmula 7/STJ.
+ ..  (AgInt no REsp 1532512/SP, Segunda Turma, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), DJe 10/08/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO DA ANÁLISE EM RECURSO ESPECIAL. FUNDAMENTAÇÃO CONSTITUCIONAL DO ACÓRDÃO INATACADA. SÚMULA 126/STJ. AÇÃO INDENIZATÓRIA. REVISÃO DO QUANTUM. SÚMULA 7/STJ. SUCUMBÊNCIA MÍNIMA. DESCABIMENTO DA AFERIÇÃO NESSA SEDE. SÚMULA 7/STJ. DECISÃO DE PROVIMENTO DO AGRAVO (ART. 544 DO CPC). POSTERIOR JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. POSSIBILIDADE.
+ ..
+4. A revisão do quantitativo de decaimento de cada parte, para o fim de aferição da ocorrência da sucumbência mínima ou recíproca, depende de nova análise de fatos e provas constantes dos autos. Aplicação da Súmula 7/STJ.
+ ..  (AgRg no REsp 1384664/SP, Segunda Turma, Rel. Ministro OG FERNANDES, DJe 12/11/2015)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (artigo 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
