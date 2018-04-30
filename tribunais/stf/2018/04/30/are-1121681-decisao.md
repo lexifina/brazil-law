@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão que possui a seguinte ementa:
+    “Recurso em Sentido Estrito. Homicídio qualificado, desobediência e furto qualificado. Pleito defensivo preliminar de nulidade da decisão, por cerceamento de defesa, pela não oitiva dos peritos em audiência de instrução. Ausência de nulidade. Aberta vista às partes para elaboração de novos quesitos e eventual laudo complementar. Defesa que permaneceu silente. Não demonstrado prejuízo, opera-se, assim, a preclusão temporal. No mérito, requer o reconhecimento da atipicidade dos crimes conexos. Impossibilidade. Delitos de acordo com os depoimentos prestados. Pleitos subsidiário de afastamento da qualificadora do perigo comum. Comprovada a materialidade e indícios suficientes de autoria. Qualificado do perigo comum em consonância com a prova colhida. Pronúncia mantida. Recurso improvido” (pág. 22 do documento eletrônico 7).
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 5°, LIV e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Com efeito, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código de Processo Penal), bem como no conjunto fático-probatório constante dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, além de incidir, na espécie, a Súmula 279/STF, o que também inviabiliza o extraordinário.
+    Além disso, registro que este Supremo Tribunal já definiu que a violação dos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando implicarem em exame de legislação infraconstitucional, é matéria sem repercussão geral (Tema 660). Confira-se a ementa do leading case:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.” (ARE 748.371-RG/SP, Rel. Min. Gilmar Mendes)
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
