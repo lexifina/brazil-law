@@ -1,0 +1,25 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por AVA – Serviços de Transportes Intermunicipais Ltda. contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “AGRAVO DE INSTRUMENTO – Ação de Execução Fiscal – Contra rejeição de Exceção de Pré-Executividade – Alegação de inconstitucionalidade na cobrança de ICMS pelas atividades prestadas pela ora agravante, ou seja, transportes terrestres – Empresa que já apresentou embargos à execução julgados improcedentes, conforme informações do Juízo – Exceção que é instrumento desenvolvido pela doutrina e pela jurisprudência onde se ventilam matérias de ordem pública, a respeito das quais o juiz deve pronunciar-se de ofício – Inconstitucionalidade inexistente – Decisão escorreita – Recurso improvido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a controvérsia jurídica objeto deste processo já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (ARE 788.455-AgR/SP, Rel. Min. CÁRMEN LÚCIA – ARE 795.765-AgR/MT, Rel. Min. DIAS TOFFOLI – ARE 924.972-AgR/SP,. Rel. Min. ROSA WEBER – ARE 942.530-AgR/MG, Rel. Min. DIAS TOFFOLI – RE 774.698-AgR/RS, Rel. Min. TEORI ZAVASCKI – RE 878.957-AgR/PR, Rel. Min. ROBERTO BARROSO – RE 896.752-AgR/PR, Rel. Min. EDSON FACHIN, v.g.):
+    “Agravo regimental no recurso extraordinário com agravo. ICMS. Prestação de serviço de transporte terrestre interestadual e intermunicipal de passageiros. Constitucionalidade. ADI nº 2.669/DF. Não cumulatividade. Dependência de previsão legal. Honorários recursais. Majoração. Possibilidade.
+    1. O Plenário da Corte, no julgamento da ADI nº 2.669/DF, Relator para o acórdão o Ministro Marco Aurélio, firmou entendimento no sentido da constitucionalidade da incidência de ICMS sobre a prestação de serviços de transporte terrestre interestadual e intermunicipal de passageiros.
+    2. O princípio constitucional da não cumulatividade é uma garantia do emprego de técnica escritural que evite a sobreposição de incidências, que não pode ser inferido diretamente do texto constitucional. Precedentes.
+    3. Aplica-se a majoração referente aos honorários recursais mesmo ante a ausência de contrarrazões ao recurso.
+    4. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC). Majoração da verba honorária em valor equivalente a 10% (dez por cento) do total daquela já fixada (art. 85, §§ 2º, 3º e 11, do CPC), observada a eventual concessão do benefício de gratuidade da justiça.”
+    (ARE 1.044.410-AgR/SE, Rel. Min. DIAS TOFFOLI)
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. ICMS. INCIDÊNCIA SOBRE OPERAÇÕES DE TRANSPORTE RODOVIÁRIO INTERESTADUAL. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. EXISTÊNCIA DE PRECEDENTE FIRMADO PELO PLENÁRIO DO STF. POSSIBILIDADE DE JULGAMENTO IMEDIATO.
+    1. A jurisprudência desta Corte fixou entendimento no sentido da constitucionalidade da incidência de ICMS sobre a prestação de serviços de transporte rodoviário interestadual e intermunicipal de passageiros.
+    2. O entendimento adotado pelo Tribunal de origem não diverge da jurisprudência do Supremo Tribunal Federal.
+    3. A existência de precedente firmado pelo Plenário desta Corte autoriza o julgamento imediato de causas que versem sobre o mesmo tema, independentemente da publicação ou do trânsito em julgado do acórdão.
+    4. Nos termos do art. 85, §11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    5. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.”
+    (RE 1.055.550-AgR/SP, Rel. Min. ROBERTO BARROSO)
+    Impõe-se ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte (ARE 1.054.656/SP, Rel. Min. ALEXANDRE DE MORAES – ARE 1.065.445/SP, Rel. Min. GILMAR MENDES – RE 1.049.906/SP, Rel. Min. CELSO DE MELLO – RE 1.065.605/MT, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, nego provimento ao recurso extraordinário, por achar-se este em confronto com entendimento firmado por esta Suprema Corte (CPC, art. 932, IV, “b”).
+    Não incide, neste caso, o que prescreve o art. 85, § 11, do CPC, ante a ausência de condenação em verba honorária na origem em favor da parte ora recorrida.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
