@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME], com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO, NÃO ESPECIFICADO. INEXIGIBILIDADE DE TITULO. INDENIZATÓRIA.
+Não há falar em inexigibilidade de título e indenização por danos morais quando o termo de quitação firmado em nada se relaciona com o negócio jurídico que deu origem ao valor cobrado, visto que decorrentes de relações absolutamente independentes.
+Nos termos do art. 20, § 4º, do Código de Processo Civil, nas ações em que não houver condenação, os honorários devem ser fixados em valor monetário. No caso, impõe-se o redimensionamento da verba honorária.
+DERAM PARCIAL PROVIMENTO AO RECURSO.
+UNÂNIME." (e-STJ,fl. 147)
+Opostos embargos de declaração, restaram rejeitados (e-STJ, fls. 162/167).
+Em suas razões recursais, a recorrente aponta violação do art. 20, §§ 3º e 4º, do Código de Processo Civil de 1973, sustentando, em síntese, que a verba honorária de R$ 1.000,00 (mil reais) deve ser majorada levando em consideração o valor em discussão nas duas demandas (R$ 293.248,57).
+Não foram apresentadas contrarrazões (e-STJ, fls. 219).
+É o relatório. Passo a decidir.
+A questão discutida no presente recurso especial é apenas o valor arbitrado a título de honorários advocatícios a serem pagos ao recorrente, na quantia de R$ 1.000,00 (mil reais), uma vez que o Tribunal alterou de 15% do valor dado à causa para o referido valor fixo, uma vez que não houve condenação. Confira-se:
+"Por outro lado, prospera a irresignação relativa aos ônus sucumbenciais, pois, nos termos do art. 20, § 4º, do Código de Processo Civil, nas ações em que não houver condenação, a verba honorária deve ser fixada em valor monetário, observadas as balizadoras do parágrafo terceiro do referido dispositivo legal.
+Na hipótese em exame, pertinente o arbitramento da verba honorária em R$ 1.000,00 ao patrono do réu, porquanto condizente com o trabalho realizado na lide, além de se adequar ao posicionamento deste órgão fracionário em feitos semelhantes.
+Ante o exposto, o voto é no sentido de DAR PARCIAL PROVIMENTO ao recurso, apenas para readequar a verba honorária." (e-STJ, fls. 149/151)
+Em relação ao valor da verba honorária, a jurisprudência do Superior Tribunal de Justiça delineia que somente é admissível o exame do montante fixado a título honorários advocatícios, em sede de recurso especial, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no Ag 1.271.295/RJ, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe 29/3/2010; REsp 1.185.338/RS, Segunda Turma, Rel. Min. CASTRO MEIRA, DJe de 21/5/2010; REsp 1.074.066/PR, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 13/5/2010; AgRg no Ag 1.136.981/SP, Quarta Turma, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 26/10/2009.
+Na presente hipótese, o exame do processado revela a excepcional necessidade de que esta Corte intervenha para alterar o quantum fixado a título de honorários advocatícios pelo colendo Tribunal de origem, de modo a adequar a aludida verba aos critérios estabelecidos pela legislação de regência, notadamente o grau de zelo do profissional, a natureza e importância da causa, bem assim o trabalho realizado pelo advogado.
+Dessarte, tomando como base o valor atribuído às demandas no montante de R$ 293.248,57 (centavos), valor reconhecido no próprio acórdão vergastado, os honorários advocatícios arbitrados pelo Tribunal de origem no montante de R$ 1.000,00 (mil reais) revelam-se irrisórios e desproporcionais, correspondendo a aproximadamente 0,5% (meio por cento) do valor da dívida exigida.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar a verba honorária em 10% sobre o valor dado a causa, nos termos do art. 20, § 4º, do aludido diploma legal.
+Publique-se.
