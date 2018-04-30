@@ -1,0 +1,59 @@
+EMENTA
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. RECURSO ESPECIAL COM FUNDAMENTAÇÃO DEFICIENTE. NÃO CONHECIMENTO. INCIDÊNCIA, POR ANALOGIA, DO ENUNCIADO N. 284 DA SÚMULA DO STF.
+I - A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+II - Da mesma forma fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivo infraconstitucional como malferido, deixa de demonstrar como tal dispositivo foi ofendido.
+III - Verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+IV - No que tange à alegação de divergência jurisprudencial, a parte recorrente não demonstra a divergência, apenas transcreve ementas de acórdãos. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+V - O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RISTJ) impede o conhecimento do recurso especial com base na alínea c do inciso III do art. 105 da Constituição Federal. Nesse sentido: REsp 1.666.682/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/6/2017, DJe 19/6/2017; AgInt no AREsp 995.373/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 4/4/2017, DJe 11/4/2017.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negou provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Trata-se de agravo interno interposto contra monocrática que decidiu recurso especial interposto por ARTUR LUCIAN FIALHO MICHEL, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 348):
+PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. DIREITO ADQUIRIDO A MELHOR BENEFÍCIO.
+1. O segurado tem direito adquirido ao cálculo do benefício em conformidade com as regras vigentes quando da implementação das condições para à concessão. Nesse sentido, RE nº 269407, STF, Rel. Min. Carlos Velloso, DJU 02-08-2002 e RE nº 266.927-RS, STF, Rel. Min. Ilmar Galvão, DJ 10-11-2000.
+2. Os efeitos financeiros da revisão devem retroagir à data da concessão do benefício, tendo em vista que o deferimento do benefício apenas em ação judicial representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado quando da DER.
+No presente recurso especial (fls. 356-379), o recorrente aponta violação do art. 21 da Lei n. 8.880/94, alegando que seja aplicada a média dos salários de contribuição e não do salário de benefício. Apresenta divergência jurisprudencial.
+Sem contrarrazões, o recurso foi admitido na origem.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no artigo 255, § 4º, I, do RI/STJ não conheço do recurso especial".
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação ao recurso.
+É relatório.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+ O recurso de agravo interno não merece provimento.
+A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida.
+Sem razão a parte agravante.
+A competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Da mesma forma fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivo infraconstitucional como malferido, deixa de demonstrar como tal dispositivo foi ofendido.
+Nesse diapasão, verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. VIOLAÇÃO DO ART. 557, § 1º, DO CPC/73. INEXISTÊNCIA. SÚMULAS 282, 356 E 284 DO STF.
+1. Não há de se falar de violação do art. 557, § 1º, do CPC/73 quando o colegiado mantém a decisão por não haver comprovação de efetivo prejuízo da parte.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 461.849/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 2/5/2017, DJe 5/5/2017).
+PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRIMEIROS QUINZE QUE ANTECEDEM O AUXÍLIOS DOENÇA OU ACIDENTE. FALTA DE INTERESSE RECURSAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF.
+1. O Tribunal de origem concluiu pela não incidência de contribuição previdenciária sobre a importância paga pelo empregador ao empregado durante os primeiros quinze dias de afastamento por motivo de doença ou acidente. Dessa forma, ausente o interesse recursal quanto ao ponto.
+2. Não se conhece do pedido de compensação em razão da deficiência da fundamentação. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF" (AgRg no REsp 919239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007).
+3. Agravo Interno não provido.
+(AgInt no REsp 1.595.285/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/10/2016, DJe 17/10/2016).
+ No que tange à alegação de divergência jurisprudencial, a parte recorrente não demonstra a divergência, apenas transcreve ementas de acórdãos. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RISTJ) impede o conhecimento do recurso especial com base na alínea c do inciso III do art. 105 da Constituição Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. CONVERSÃO EM URV. LEI 8.880/1994. SERVIDORES PÚBLICOS ESTADUAIS. INATIVOS E PENSIONISTAS. ILEGITIMIDADE PASSIVA DA FESP RECONHECIDA PELO TRIBUNAL A QUO. INTERPRETAÇÃO DA LCE 1.010/2007. DIREITO LOCAL. SÚMULA 280/STF. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O Tribunal de origem analisou e aplicou a Lei Complementar Estadual 1.010/2007, reconhecendo, a partir daí, a ilegitimidade passiva da FESP para as ações envolvendo pensionista e inativos, razão pela qual extinguiu o processo, sem julgamento de mérito, nos termos do art. 267, VI, do CPC/1973.
+2. Assim, ao adentrar na legislação local para decidir a lide, o Tribunal a quo acabou por afastar a competência do STJ para o deslinde do desiderato contido no Recurso Especial, ante o óbice da Súmula 280 do STF.
+3. Em relação ao dissídio jurisprudencial, destaco que a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. É indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a interpretação legal divergente.
+4. Recurso Especial não conhecido.
+(REsp 1.666.682/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 6/6/2017, DJe 19/6/2017).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO DO TRIBUNAL COM BASE NO EXAME DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. SERVIDOR PÚBLICO. DIFERENÇAS REMUNERATÓRIAS. PRESCRIÇÃO DE FUNDO DE DIREITO. NÃO OCORRÊNCIA. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA N. 85 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS.
+1. A leitura da tese recursal expõe a presença do impeditivo descrito na Súmula 280/STF, porquanto a fundamentação do aresto é calcada na interpretação de lei e decretos municipais.
+2. Inexistindo manifestação expressa da administração pública negando o direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, ficando caracterizada a relação de trato sucessivo. Incidência da Súmula 85 do Superior Tribunal de Justiça.
+3. A simples transcrição de ementas de acórdãos é inservível para a finalidade de comprovação da divergência jurisprudencial. Para esse fim, deve o insurgente demonstrar, mediante o devido cotejo analítico, a existência de similitude fática entre os julgados confrontados, bem como a aplicação de solução jurídica distinta nos casos supostamente assemelhados.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 995.373/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 4/4/2017, DJe 11/4/2017).
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
