@@ -1,0 +1,49 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Rafael Paes Vieira e outros, em favor de Jadson Alexandre Cordova, contra acórdão da Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimental no HC 379.159/SC.
+    Consta dos autos que o paciente foi denunciado pela suposta prática do delito descrito no artigo 121, § 2º, inciso III, do Código Penal c/c o art. 1º, da Lei 8.072/1990, pois no dia 11.4.2016, na cidade de Lages/SC, mediante o uso de um machado, teria agredido a vítima Nestor Francisco Moreira na cabeça, que veio à óbito.
+    Em 13.5.2016, foi decretada a prisão temporária, no entanto, o acusado encontra-se foragido desde a data dos fatos. (eDOC 4, p. 33-36)
+    Irresignada, a defesa manejou habeas corpus no Tribunal de Justiça catarinense postulando, em suma, a revogação do decreto cautelar.
+    A ordem foi denegada nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS PREVENTIVO. HOMICÍDIO QUALIFICADO PELO MEIO CRUEL. PRISÃO TEMPORÁRIA DECRETADA PELO JUÍZO A QUO PENDENTE DE CUMPRIMENTO.
+    TESE DE NEGATIVA DE AUTORIA. INCURSÃO NO CONTEXTO FÁTICO INVIÁVEL NA VIA DO WRIT. NÃO CONHECIMENTO NO PONTO.
+    EXCESSO DE PRAZO PARA A DENÚNCIA. INOCORRÊNCIA. INQUÉRITO POLICIAL EM ANDAMENTO PARA PRODUÇÃO DE PROVAS. INVESTIGAÇÃO NÃO CONCLUÍDA. PACIENTE FORAGIDO. EXCESSO INEXISTENTE.
+    ALEGADA AFRONTA À PRESUNÇÃO DE INOCÊNCIA. PRISÃO CAUTELAR COMO MEDIDA PROCESSUAL E ASSECURATÓRIA DA INVESTIGAÇÃO. AFRONTA NÃO VERIFICADA.
+    PLEITO DE REVOGAÇÃO DA MEDIDA. NECESSIDADE PARA A CONCLUSÃO DA INVESTIGAÇÃO, BEM COMO PARA A LOCALIZAÇÃO DO PACIENTE. REQUISITOS DO ARTIGO 1º DA LEI N. 7.960/1989 PREENCHIDOS. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA”. (eDOC 5, p. 15)
+    Daí a impetração de novo writ no Superior Tribunal de Justiça. Na ocasião a defesa pleiteou, sobretudo, a liberdade provisória do acusado, como também, alegou que o Tribunal a quo não teria observado a formalidade da sustentação oral no julgamento do HC 4011996-25.2016.8.24.0000, mesmo requerido anteriormente pelos patronos do réu.
+    O Ministro relator julgou prejudicado o mandamus uma vez que a questão já havia sido dirimida no RHC 76.988/SC.
+    Impugnou-se a decisão por meio de agravo regimental, que restou desprovido com os seguintes fundamentos:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. HOMICÍDIO. PEDIDO DE SUSTENTAÇÃO ORAL. AUSÊNCIA DE PRÉVIA COMUNICAÇÃO DO IMPETRANTE ACERCA DA DATA EM QUE O MANDAMUS SERIA LEVADO À DELIBERAÇÃO. IMPOSSIBILIDADE DE RECONHECIMENTO DA MÁCULA EM QUESTÃO. REMÉDIO CONSTITUCIONAL ORIGINÁRIO NO QUAL SE QUESTIONOU A LEGALIDADE DA PRISÃO TEMPORÁRIA DO RÉU. SUPERVENIÊNCIA DE DECRETO DE PRISÃO PREVENTIVA. NOVO TÍTULO. PERDA DO OBJETO. DESPROVIMENTO DO RECLAMO.
+    1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento. Precedentes.
+    2. É nulo o julgamento de habeas corpus proferido em sessão cuja data não foi cientificada à defesa do paciente quando há requerimento expresso nesse sentido. Precedentes.
+    3. No caso dos autos, embora a defesa tenha manifestado o interesse de sustentar oralmente no julgamento no mandamus, após este Sodalício haver determinado o exame do mérito do writ originário pela Corte Estadual, o processo foi colocado em mesa sem que o impetrante fosse previamente intimado da data da respectiva sessão, o que, a princípio, ensejaria a nulidade do acórdão impugnado.
+    4. Consoante já assentado quando do exame do RHC 76.988/SC, interposto pelo ora recorrente também contra o acórdão aqui impugnado, o writ impetrado na origem objetivava a revogação da prisão temporária do acusado, bem como o reconhecimento do excesso de prazo na formação da culpa, notadamente no oferecimento de denúncia pelo Ministério Público, sendo que, conforme informações prestadas pelo magistrado singular, o órgão acusatório apresentou a peça vestibular, que já foi recebida, ocasião em que a custódia foi convertida em preventiva, o que revela a perda do objeto tanto deste remédio constitucional quanto do apresentado perante o Tribunal Estadual. Precedentes.
+    5. Agravo regimental desprovido”. (eDOC 10, p. 48)
+    Nesta Corte o impetrante reitera os pedidos pretéritos e enfatiza a revogação da prisão decretada em desfavor do réu.
+    Alega, ainda, excesso de prazo para a formação da culpa.
+    É o relatório.
+    Passo a decidir.
+    De modo geral, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para sua decretação, nos termos do artigo 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    Na linha da jurisprudência deste Tribunal, porém, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Dessa forma, a tarefa de interpretação constitucional para análise de excepcional situação jurídica de constrição da liberdade exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados.
+    Por oportuno, transcrevo trechos da decisão que decretou a prisão cautelar do paciente:
+    “Não obstante a decretação da prisão temporária do autuado, prevê o artigo 311 do CPP que em qualquer fase do inquérito policial ou da instrução criminal caberá a prisão preventiva do acusado. Nesse contexto, os artigos 312 e 313 do mesmo Código definem os requisitos autorizadores da prisão cautelar.
+    In casu, compulsando os autos, constato que estão comprovados todos os requisitos ensejadores para a decretação da custódia preventiva do representado.
+    Primeiramente, o crime que está sendo atribuído ao investigado (homicídio qualificado) é punido com reclusão, cuja a pena máxima é superior a quatro anos (art. 313, inciso I, do CPP).
+    Igualmente, há nos autos prova da materialidade do delito, bem como existem indícios suficientes da autoria, o que se extrai das declarações das testemunhas inquiridas pela autoridade policial.
+    Ainda, faz-se imprescindível a decretação da custódia preventiva com fundamento da garantia da aplicação da lei penal e na conveniência da instrução criminal. Isso porque, conforme apurado nos autos, o autuado está se ocultando para ser interrogado. Veja-se que, até a presente data, Jadison ainda não foi ouvido pela Autoridade Policial, mesmo após a decretação de sua prisão temporária.
+    Outrossim, a prisão também se justifica para a garantia da ordem pública. É sabido que o conceito de garantia da ordem pública vem sendo alargado para abranger o envolvimento em delitos graves, de repercussão, como, por exemplo, o crime em tela, hipótese em que a liberdade do indiciado pode abalar a credibilidade da justiça e o caráter preventivo da reposta penal.
+    (…) Assim, presentes os requisitos legais, necessária a autorização da prisão preventiva do investigado.
+    Destarte, presentes os requisitos autorizadores, CONVERTO A PRISÃO TEMPORÁRIA do representado JADISON ALEXANDRE CÓRDOVA em PRISÃO PREVENTIVA, nos termos do art. 312 e 313, I, do Código de Processo Penal”. (eDOC 8, p. 70-71)
+    Assim, da leitura dos trechos acima transcritos, verifico que o decreto prisional encontra-se devidamente fundamentado em dados concretos, não apenas na gravidade abstrata do delito.
+    As circunstâncias da prisão em apreço – crime de homicídio cometido pelo genro contra o sogro mediante meio cruel (golpe de machado na cabeça) e o fato de encontrar-se foragido desde a data dos fatos –, autorizam a conclusão pela necessidade da segregação cautelar para garantia da ordem pública e para assegurar a aplicação da lei penal.
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime (HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Além disso, menciono que a jurisprudência do Supremo Tribunal Federal sedimentou-se no sentido de que primariedade, bons antecedentes, residência fixa e ocupação lícita, por si sós, não afastam a possibilidade da prisão preventiva (cf.: RHC 124.486/DF, de minha relatoria, Segunda Turma, DJe 19.2.2015; HC 126.051/MG, rel. Min. Dias Toffoli, Segunda Turma, DJe 29.5.2015; e HC 124.535/SP, rel. Min. Teori Zavascki, Segunda Turma, DJe 19.12.2014).
+    Vê-se, portanto, que a medida extrema lastreou-se em elementos concretos colhidos dos próprios autos, harmonizando-se a constrição da liberdade do acusado com a jurisprudência do STF.
+    Ademais, no que se refere ao alegado excesso de prazo na formação da culpa, verifico também não assistir razão à defesa.
+    Sobre o tema, registro, ainda, que é firme o entendimento deste Tribunal no sentido de que somente o excesso indevido de prazo imputável ao aparelho judiciário traduz situação anômala que compromete a efetividade do processo, além de tornar evidente o desprezo estatal pela liberdade (HC 85.237-DF, rel. Min. Celso de Mello, Tribunal Pleno, DJ 29.4.2005).
+    Assim, possível excesso de prazo para a conclusão da instrução deve ser imputado à defesa pois o réu encontra-se foragido desde a data dos fatos.
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
