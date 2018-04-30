@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de [NOME], contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0001167-57.2017.8.19.0000).
+Extrai-se dos autos que o paciente foi preso em flagrante, em 1.12.2015, pela suposta prática dos delitos tipificados nos arts. 15 (duas vezes, na forma do art. 71 do CP), e 16, parágrafo único, IV, da Lei n. 10.826/2003 (disparo de arma de fogo e porte ilegal de arma de fogo de uso restrito), e art. 147 do Código Penal (três vezes) (ameaça), tudo na forma do art. 69, do Código Penal. A custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou writ perante a Corte de origem, que denegou a ordem em acórdão assim ementado:
+EMENTA: Habeas Corpus. Artigo 121, § 2º, do Código Penal. Alega o impetrante que o paciente encontra-se acautelado além do prazo permitido sem culpa formada. Requer o impetrante o relaxamento da prisão, ante o excesso de prazo na prestação jurisdicional. Segundo as informações prestadas o paciente foi preso em flagrante, tendo sido convertida em preventiva. Noticia ainda, ter sido recebida a denúncia, indeferido o pleito libertário. Por fim, informa que os autos aguardam a apreciação do conflito negativo de competência. Feito com tramitação regular, ausente inércia ou desídia do Juízo dito coator. O excesso de prazo não se mostra configurado, devendo ser analisado diante de hipóteses excepcionais, o prazo poderá eventualmente ser superado, desde que respeitado o princípio da razoabilidade. Consta do sistema informatizado deste Tribunal de Justiça que o feito aguarda apenas o julgamento do conflito negativo de competência para a devida prestação jurisdicional. Presentes o "fumus comissi delicti" e o "periculu m libertatis". Trata-se de crime imputado ao paciente gravíssimo, com pena máxima de reclusão superior a quatro anos. Necessária a mantença da prisão cautelar do paciente para acautelar-se o meio social e a própria credibilidade da justiça, garantindo-se, assim, a ordem pública e para assegurar a aplicação da lei penal, na forma do artigo 312 do Código de Processo Penal. Inexistência de constrangimento ilegal. Ordem denegada (fls. 14).
+No presente mandamus, alega excesso de prazo na formação da culpa, porquanto a constrição cautelar perdura por cerca de 412 dias sem que a instrução criminal tenha sido encerrada.
+Destaca que a defesa não contribuiu para a demora no processamento do feito, que ocorreu ante o aditamento da denúncia pelo Ministério Público, para incluir a conduta prevista no art. 121, § 2º, inciso IV, c/c art. 14, inciso II, do Código Penal (tentativa de homicídio qualificado), o que acabou por ocasionar a suscitação de conflito de competência perante o Tribunal estadual, ainda pendente de julgamento.
+Sustenta, ainda, que a prisão foi fundamentada de forma genérica e baseada na gravidade abstrata dos delitos e afirma não estarem presentes os requisitos autorizadores do art. 312 do Código de Processo Penal.
+Requer, em liminar e no mérito, a expedição de alvará de soltura.
+Indeferida a liminar (fls. 87/89), Ministério Público Federal opinou pela denegação da ordem (fls. 147/151).
+Informações prestadas às fls. 153/157.
+É o relatório.
+Decido.
+O writ está prejudicado.
+Isso porque, das informações colhidas na página eletrônica do Tribunal de origem constatou-se que, nos autos da Ação Penal n. 0031860-68.2015.8.19.0202, aqui tratada, em 28/3/2018, foi prolatada sentença de impronúncia em favor do ora paciente, tendo sido expedido alvará de soltura em seu favor.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista ter cessado as circunstâncias determinantes da impetração.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus, ante a superveniente perda do seu objeto.
+Publique-se.
+Intimações necessárias.
