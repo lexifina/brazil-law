@@ -1,0 +1,29 @@
+DECISÃO
+O presente feito decorre de ação ajuizada por Farmárcia Natufarma Ltda. em desfavor do Estado do Rio Grande do Sul, objetivando a declaração de inexistência de relação jurídico-tributária que lhe obrigue recolher o ISS sobre as atividades de farmácia de manipulação, bem como a anulação dos autos de lançamento.
+Na primeira instância, os pedidos formulados na inicial foram julgados parcialmente procedentes. No Tribunal de Justiça do Estado do Rio Grande do Sul, a sentença foi parcialmente reformada em acórdão assim ementado:
+TRIBUTÁRIO. AÇÃO DECLARATÓRIA. REPETIÇÃO DE INDÉBITO. FARMÁCIA. PRODUTOS MANIPULADOS. ISS. ICMS. SIMPLES NACIONAL. LC 147/2014.
+1. A partir da vigência da LC 116/03, a comercialização de medicamentos manipulados por farmácias sujeita-se ao ISS. Jurisprudência do STJ. Todavia, relativamente aos optantes do SIMPLES NACIONAL, incide ICMS (Anexo III da LC 123) até 07 de agosto de 2014, data da edição da LC 147, que alterou a LC 123. A partir de 08 de agosto de 2014, contudo, tais serviços passaram a ser tributados pelo ISS.
+2. Em razão da insegurança jurídica instaurada quanto ao tributo devido pelo optante do SIMPLES NACIONAL, o art. 13 da Lei Complementar n.º 147, de 08 de agosto de 2014, convalidou "os atos referentes à apuração e ao recolhimento dos impostos e contribuições da União, dos Estados, do Distrito Federal e dos Municípios mediante regime previsto na Lei Complementar nº.123, de 14 de dezembro de 2006, e alterações posteriores, inclusive em relação às obrigações acessórias, pelas empresas que desenvolveram as atividades de comercialização de medicamentos produzidos por manipulação de fórmulas magistrais, até a data de publicação desta Lei Complementar".
+Agravo retido do Estado do Rio Grande do Sul desprovido. Recurso de apelação da Autora e do ESTADO DO RIO GRANDE DO SUL provido em parte. Recurso de apelação do MUNICÍPIO DE CAXIAS DO SUL não conhecido e provido, em parte, o recurso adesivo. Sentença confirmada, no mais, em reexame necessário.
+Opostos embargos de declaração, foram acolhidos para " ..  reconhecer a impossibilidade de a embargante recorrer relativamente à prescrição da repetição de indébitos de valores anteriores a 2007" (fl. 1.214).
+A Farmácia Natufarma Ltda. interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, por ofensa aos arts. 165 e 168, II, do Código Tributário Nacional.
+A parte alega em síntese que não houve o decurso do prazo prescricional para requerer a repetição do indébito, in verbis (fl. 1.249):
+ ..
+Considerando que se está tratando de recolhimentos realizados a partir de 2005, bem como de demanda proposta em 2012, é evidente que não transcorreu o lapso prescricional com relação a repetição de indébito. Esse, em verdade, se consolidaria apenas em 2015. Entretanto, houve interrupção da prescrição quando da interposição da demanda ordinária em que havia pedido expresso de repetição, distribuída em 2012.
+Apresentadas contrarrazões, a parte recorrida requer o desprovimento do recurso especial.
+O Tribunal de origem proferiu decisão negando seguimento ao recurso especial, o que ensejou a interposição de agravo nos próprios autos.
+É o relatório. Decido.
+Conheço do agravo em recurso especial, passo a analisar o recurso especial.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, de que a parte não tinha interesse na repetição dos valores pagos a título de ICMS, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Os excertos do acórdão regional comprovam a ausência de impugnação (fls. 1.213-1.214):
+ ..
+Veja-se que a sentença, ao entender que a correta tributação sobre a atividade que desenvolve a autora é o ISS, utilizou como critérios para declarar a sua exigibilidade de forma retroativa a data do ajuizamento da ação e a prescrição qüinqüenal, o que resultou na data de 19/11/2007. Com o intuito de evitar a bitributação, a magistrada utilizou o mesmo critério para condenar o Estado a ressarcir os valores pagos a título de ICMS, de modo em que no período de 19/11/2007 a 19/11/2012 a autora seja tributada somente pelo Município.
+Registre-se que, em sendo reconhecida a exigibilidade do ISS somente a partir de 19/11/2007, não teria a embargante interesse jurídico em buscar a restituição de ICMS antes de 19/11/2007.
+Ainda, ao apelar contra a sentença, a autora pretendia que fossem reconhecidos como corretos os recolhimentos de ICMS realizados até a interposição da ação, bem como fossem declaradas nulas as autuações realizadas pelo Município.
+Considerando que a ora embargante justamente buscava a declaração de incidência do ICMS no período anterior a sentença, não haveria ela que se insurgir contra a decretação da prescrição da repetição dos valores pagos deste tributo.
+Logo, associado o recurso a uma das hipóteses autorizadoras do art. 1.022 do novo Código de Processo Civil, impõe-se o acolhimento dos embargos.
+Deste modo, tenho que os embargos de declaração merecem ser acolhidos, apenas para o fim de reconhecer a impossibilidade de a embargante recorrer relativamente à prescrição da repetição de indébito de valores anteriores a 2007.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, alínea a, do RI/STJ, conheço do agravo em recurso especial para não conhecer do recurso especial.
+Publique-se. Intimem-se.
