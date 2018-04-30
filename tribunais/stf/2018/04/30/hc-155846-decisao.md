@@ -1,0 +1,31 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Eliseu Gomes Silva, em favor de Gustavo Paiva Dias, contra decisão do Ministro Rogério Schietti da Cruz, do Superior Tribunal de Justiça (STJ) que indeferiu liminarmente o HC 440.720/SP.
+    Na espécie, o paciente foi condenado à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial fechado, pela prática do delito descrito no artigo 33, caput, da Lei 11.343/2006. Negado o direito de recorrer em liberdade (eDOC 10, p. 1).
+    Em grau de apelação, a pena foi aumentada para 5 anos e 8 meses de reclusão (eDOC 13, p. 42).
+    Opostos embargos de declaração, que foram rejeitados (eDOC 14, p. 14)
+    Irresignada, a defesa interpôs recurso especial (1.675.461-SP). O STJ deu parcial provimento ao recurso para alterar o regime inicial de cumprimento de pena para o semiaberto. Negados os pedidos de aplicação da minorante do artigo 33, § 4º, da Lei 11.343/2006, da substituição de pena privativa de liberdade por restritivas de direitos e de suspensão da execução provisória da pena (eDOC 17, p. 7-8).
+    Daí a impetração de mandamus no Superior Tribunal de Justiça, postulando-se em suma, a aplicação do regime aberto e a concessão do direito de recorrer em liberdade.
+    Decisão monocrática do HC 440.720/SP indeferiu liminarmente o pedido (eSTJ).
+    Nesta Corte, o impetrante reitera os pedidos anteriores e afirma que o paciente já cumpriu mais de 80% da pena, o que determina o término do cumprimento no regime aberto.
+    Requer, liminarmente e no mérito, que seja expedido alvará de soltura.
+    É o relatório.
+    Decido.
+    Inicialmente, verifico que o ato coator deste writ é a decisão proferida no HC 440.720/SP, tendo em vista que o requerimento do referido mandamus também refere-se ao pedido de cumprimento de pena em regime aberto.
+    Consoante consta dos autos, o aludido habeas corpus foi indeferido liminarmente pelos seguintes fundamentos:
+    “Em consulta processual realizada na página eletrônica deste Superior Tribunal, verifico a anterior interposição do REsp n. 1.675.461/SP, sendo que o referido recurso, manejado em favor do ora paciente, também se insurge contra o acórdão proferido nos autos da Apelação n. 0071197-11.2013.8.26.0050 e pleiteia, igualmente, a imposição do regime inicial aberto.  Assim, tendo em vista que este habeas corpus se trata de mera reiteração de pedido, não se pode dele conhecer.
+    Nesse sentido, confira-se o seguinte julgado, mutatis mutandis: (...)
+    Aliás, ressalto que o referido recurso especial já foi julgado por esta Corte Superior de Justiça, ao qual foi dado parcial provimento para estabelecer ao acusado o regime inicial semiaberto de cumprimento de pena, em decisão assim fundamentada, no que interessa:
+    ‘Na espécie, constato que o Tribunal de origem entendeu devida a imposição do regime inicial fechado, com base tão somente na hediondez do delito, sem, no entanto, terem apontado elementos concretos dos autos que, efetivamente, evidenciassem a imprescindibilidade de imposição do modo mais gravoso. Assim, uma vez que o recorrente era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes, teve todas as circunstâncias tidas como favoráveis (tanto que a pena-base foi fixada no mínimo legal – fl. 272), entendo que o regime inicial semiaberto é, efetivamente, o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 3º, do Código Penal, com observância também ao preconizado no art. 42 da Lei de Drogas.’
+    Quanto à pretendida concessão do direito de recorrer em liberdade, constato que análise do pleito está prejudicada, uma vez que já houve o trânsito em julgado da condenação do paciente em 27/10/2017 (conforme se verifica da certidão de fl. 385 dos autos do REsp n. 1.675.461/SP), de maneira que se trata, agora, de prisão-pena, e não mais de prisão processual.
+    À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus” (e-STJ).
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017 e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental contra a decisão do STJ. Aliás, no que se refere ao tema, tenho-me posicionado, na Segunda Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014 e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no artigo 102, inciso II, alínea a, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (art. 5º, XXXV, CF), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de evidente constrangimento ilegal ou abuso de poder, o que não se verifica no presente caso.
+    Feitas essas considerações, ressalvo minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao pedido formulado neste habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
