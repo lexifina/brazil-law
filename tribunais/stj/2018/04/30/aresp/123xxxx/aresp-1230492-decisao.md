@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NÃO CONFIGURADO.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+2. A interpretação de cláusulas contratuais e o reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. O inadimplemento contratual não causa, por si só, danos morais. Precedentes.
+5. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, provido.
+DECISÃO
+Cuida-se de agravo interposto por CONSTRUTORA CARRARA EIRELI - EPP contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/10/2017.
+Concluso ao gabinete em: 29/01/2018.
+Ação: de rescisão contratual cumulada com ação de indenização por danos materiais e compensação por danos morais, ajuizada por CLÁUDIA CARVALHO GOMES, em face de CONSTRUTORA CARRARA EIRELI - EPP, devido a atraso na entrega de imóvel objeto de contrato de promessa de compra e venda celebrado entre as partes.
+Sentença: julgou procedente o pedido, para: a) decretar a rescisão do contrato particular de compra e venda celebrado entre as partes; b) condenar a agravante a: b.1) restituir a integralidade do valor desembolsado (R$ 40.000,00); b.2) pagar a multa rescisória de 10% sobre o valor do contrato; b.3) reparar pelos valores desembolsados com aluguel de outro imóvel, na quantia mensal de R$ 1.100,00 (mil e cem reais), desde 18/03/2014 até o efetivo cumprimento das obrigações previstas, respeitado o índice de reajuste anual previsto contratualmente; b.4) compensar a título de danos morais pela quantia de R$ 9.000,00 (nove mil reais).
+Acórdão: negou provimento ao recurso de apelação interposto pela agravante, conforme ementa que segue:
+INDENIZAÇÃO - DANOS MORAIS E MATERIAIS - ATRASO NA ENTREGA DA OBRA - EXCEÇÃO DO CONTRATO NÃO CUMPRIDO - CLÁUSULA PENAL - DESPESA COM MORADIA - ATRASO SUBSTANCIAL - DANO MORAL. Para que o credor de obrigação decorrente de contrato bilateral exija o implemento da obrigação do devedor, é necessário que comprove o cumprimento do seu dever. A cláusula penal estipula, previamente, o montante da reparação por perdas e danos, caso uma das partes descumpra o contrato. Deve ser reconhecida a possibilidade de indenização pelos danos materiais correspondentes às despesas com moradia, conforme recente entendimento do STJ. O atraso substancial e injustificado na entrega do imóvel enseja danos morais indenizáveis, por repercutir na esfera íntima do comprador. A fixação da indenização a título de danos morais é tarefa cometida ao Juiz, devendo o seu arbitramento operar-se com razoabilidade, proporcionalmente ao grau de culpa, ao nível socioeconômico da parte ofendida, o porte do ofensor e, ainda, levando-se em conta as circunstâncias do caso.
+Recurso especial: alega violação do art. 413 do CC/02, bem como dissídio jurisprudencial. Sustenta que: i) o simples inadimplemento contratual não é causa geradora de danos morais; ii) a multa rescisória de 10% sobre o preço total do contrato demonstra-se desproporcional.
+É O RELATÓRIO, DECIDO.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou o art. 413 do CC/02, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+O TJ/MG concluiu que não se verifica presente qualquer das hipóteses que autorize a redução do valor da cláusula penal, porquanto a agravante descumpriu sua obrigação, bem como o valor estipulado não se revela excessivo, tendo em vista a natureza do negócio. Alterar o decidido no acórdão impugnado exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Com relação à tese de que a multa rescisória é desproporcional, verifica-se que, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+- Da não configuração de dano moral pelo simples inadimplemento contratual (atraso na entrega de bem imóvel)
+O acórdão recorrido, ao reconhecer a possibilidade de compensação por danos morais em razão de simples inadimplemento contratual (atraso na entrega de bem imóvel objeto de contrato de compra e venda), divergiu da jurisprudência do STJ quanto ao tema, firmada no sentido de que o inadimplemento contratual não causa, por si só, danos morais (REsp 1.642.314/SE, 3ª Turma, DJe de 22/3/2017; e AgRg no AREsp 316.555/RJ, 4ª Turma, Dje de 24/2/2017).
+Logo, nesse ponto, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, DOU-LHE PROVIMENTO, para afastar a condenação da agravante no tocante à compensação por danos morais.
+Tendo em vista a sucumbência recíproca, redimensiono as despesas, custas processuais e honorários advocatícios para serem pagos na proporção de 20% pela agravada e 80% pela agravante, mantendo-se o valor arbitrado na sentença.
+Publique-se. Intimem-se.
