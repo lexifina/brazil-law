@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. INÉPCIA. MANIFESTA INADMISSIBILIDADE. MULTA.
+1. É manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+2. Agravo interno no agravo de instrumento não conhecido, com imposição de multa.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, não conhecer do agravo, com imposição de multa, nos termos do voto do(a) Sr(a) Ministro(a) Relator(a). Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATORA: MINISTRA NANCY ANDRIGHI
+RELATÓRIO
+Cuida-se de agravo interno interposto por FUNDAÇÃO CODESC DE SEGURIDADE SOCIAL contra decisão unipessoal que negou provimento ao agravo de instrumento que interpusera.
+Ação: de cobrança, ajuizada por IVETE KUNS GOULART, em desfavor da agravante, por meio qual objetiva a aplicação dos expurgos inflacionários na correção do saldo de sua reserva de poupança.
+Sentença: julgou parcialmente procedente o pedido, para condenar a agravante a atualizar o valor da reserva de poupança da agravada com acréscimos dos expurgos inflacionários.
+Decisão monocrática: negou seguimento à apelação interposta pela agravante.
+Acórdão: negou provimento ao agravo interposto pela agravante, mantendo a decisão unipessoal do relator.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 6º, § 1º, da LICC; 21, 46, 47, 269, III, IV e V, 459, 460, 535, II, do CPC/73; 999, 1.025 e 1.030 do CC/16; 104, 182, 219, 320, 360, 840, 848, 849, 884 e 885, do CC/02; 4º, § 1º, 42, V, da Lei 6.435/77; 20, V e 31, VIII, § 2º, do Decreto 81.240/78; 6º e 7º da LC 108/01; 14, III, 15, 18, 19, 21, 31, 48 e 75 da LC 109/01, 3º, § 2º, do CDC; 103, caput e parágrafo único, da Lei 8.213/91; 347, § 1º, do Decreto 3.048/1999, bem como divergência jurisprudencial.
+Decisão monocrática: negou provimento ao agravo de instrumento interposto pela agravante, ante i) o não reconhecimento de violação do art. 535, II, do CPC/73; ii) a incidência da Súmula 7/STJ quanto às questões relativas ao litisconsórcio passivo da patrocinadora e ao redimensionamento dos ônus sucumbenciais; iii) a incidência da Súmula 83/STJ quanto às questões relativas à prescrição, à aplicabilidade do CDC e à restituição das importâncias descontadas com correção monetária; iv) a incidência da Súmula 5/STJ quanto às paculiaridades da migração do plano; v) o não reconhecimento de violação do art. 460 do CPC/73; e vi) a incidência da Súmula 282/STF.
+Agravo interno: sustenta que o agravado postulou a incidência dos expurgos inflacionários sobre a reserva de poupança formada ao longo do vínculo contratual mantido com a entidade ré, ainda que não tenha efetuado o resgate de suas contribuições, uma vez que, após a sua aposentadoria, optou por converter o seu benefício em pagamento único. Afirma que o CDC não é aplicável às entidades fechadas de previdência privada. Reitera a violação do art. 535, II, do CPC/73, bem como a tese relativa ao litisconsórcio passivo necessário da patrocinadora. Quanto ao prazo prescricional, aduz que o termo inicial a ser considerado é o momento do dano, ou seja, o momento da ocorrência dos expurgos relacionados. Aponta a ocorrência de novação e de transação validamente firmada quando da migração entre planos de benefício. Repete seus argumentos quanto à ocorrência de julgamento extra petita. Por fim, defende o prequestionamento dos dispositivos legais tidos por violados e a ocorrência de sucumbência recíproca.
+É o relatório.
+RELATORA: MINISTRA NANCY ANDRIGHI
+VOTO
+Julgamento: CPC/2015
+A decisão agravada negou provimento ao agravo de instrumento interposto pela agravante, ante i) o não reconhecimento de violação do art. 535, II, do CPC/73; ii) a incidência da Súmula 7/STJ quanto às questões relativas ao litisconsórcio passivo da patrocinadora e ao redimensionamento dos ônus sucumbenciais; iii) a incidência da Súmula 83/STJ quanto às questões relativas à prescrição, à aplicabilidade do CDC e à restituição das importâncias descontadas com correção monetária; iv) a incidência da Súmula 5/STJ quanto às paculiaridades da migração do plano; v) o não reconhecimento de violação do art. 460 do CPC/73; e vi) a incidência da Súmula 282/STF.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Isso porque não impugna, consistentemente, o fundamento da decisão ora agravada relativo à aplicação da Súmula 83/STJ quanto à q uestão relativa à prescrição.
+Com efeito, a agravante, nas razões do presente agravo interno, não elenca nenhum julgado que possa, de fato, confrontar a aplicação do mencionado óbice sumular pela decisão agravada.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, a teor do disposto na Súmula 182 do STJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno no agravo de instrumento.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser desprovido este recurso, à unanimidade, fixo multa de 3% (três por cento) sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
