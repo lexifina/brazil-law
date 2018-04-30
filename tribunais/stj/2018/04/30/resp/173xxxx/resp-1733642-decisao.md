@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. COMPENSAÇÃO DE OFÍCIO.
+IMPOSSIBILIDADE.
+A Corte Especial, na sessão do dia 27.11.14, nos autos da Arguição de Inconstitucionalidade n. 5025932-62.2014.404.0000, reconheceu a inconstitucionalidade do parágrafo único do art. 73 da Lei n. 9.430/96, incluído pela Lei n. 12.844/13, que autorizava a compensação de ofício com débitos objeto de parcelamento sem garantia.
+A recorrente alega violação do art. 7º do Decreto n. 2.287/1986 e do art. 73 da Lei n. 9.430/1996, defendendo a possibilidade de a Fazenda compensar créditos existentes em favor do contribuinte com débitos tributários parcelados.
+Contrarrazões apresentadas por AGRÍCOLA JANDELLE S/A, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (e-STJ fls. 871 e seguintes).
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado n. 3 do Plenário do STJ).
+Isso considerado, vejamos, no que interessa, o que está consignado no voto condutor do acórdão a quo:
+Compensação de ofício de débitos com exigibilidade suspensa A jurisprudência do STJ pacificou-se no sentido de que não cabe impor compensação de ofício aos débitos do sujeito passivo que se encontram com exigibilidade suspensa, na forma do art. 151 do CTN. Tal entendimento restou consubstanciado no julgamento do Recurso Especial n. 1.213.082/PR, submetido ao regime do artigo 543-C do CPC:
+ ..
+Ademais, a Corte Especial deste Regional declarou a inconstitucionalidade do parágrafo único do art. 73 da Lei n. 9.430/96, incluído pela Lei n. 12.844/13, afastando a possibilidade de compensação de ofício dos débitos parcelados sem garantia.
+Pois bem.
+Importa mencionar que a Primeira Seção deste Tribunal Superior, na sistemática dos recursos repetitivos, no julgamento do REsp 1.213.082/PR, firmou o entendimento de que não é legal o art. 6º do Decreto n. 2.138/1997, pois a compensação de créditos devidos ao contribuinte com débitos tributários com a exigibilidade suspensa não está prevista no art. 7º do DL n. 2.287/1986, ainda que na redação dada pela Lei n. 11.196/2005 (v.g.: REsp 1.213.082/PR, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 18/08/2011).
+Com relação ao art. 73 da Lei n. 9.430/1996, na redação dada pela Lei n. 12.844/2013, o recurso não pode ser conhecido porque a conclusão do acórdão recorrido se apóia no fundamento de sua inconstitucionalidade, o que não pode ser revisto em sede de recurso especial, nos termos do art. 105, III, da Constituição Federal.
+A respeito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. IMPOSSIBILIDADE DE COMPENSAÇÃO COM CRÉDITO TRIBUTÁRIO SUSPENSO EM DECORRÊNCIA DE PARCELAMENTO. FALTA DE PREVISÃO LEGAL. AUSÊNCIA DE OMISSÃO. ART. 535, II, DO CPC. DECLARAÇÃO DE INCONSTITUCIONALIDADE. COMPETÊNCIA DO STF.
+1. A recorrente sustenta que o art. 535, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. Cuida a demanda de Mandado de Segurança impetrado pela empresa com escopo de anular as decisões administrativas que determinaram a compensação de ofício dos créditos reconhecidos pelo impetrante com débitos cuja exigibilidade se encontra suspensa em virtude de adesão ao programa de parcelamento.
+3. O Tribunal de origem registrou que a Corte Especial reconheceu a inconstitucionalidade do art. 73, parágrafo único, da Lei 9.430/1996, incluída pela Lei 12.844/2013. Assim sendo, o TRF analisou exclusivamente a norma contida no revogado art. 73, caput, do referido texto legal. Dessa maneira, o STJ possui permissão legal de apreciar apenas a violação ao dispositivo originário da lei, pois o debate travado na Corte a quo restringiu-se à sua interpretação.
+4. Por outro lado, qualquer debate, no julgamento deste Recurso Especial, sobre o art. 73, parágrafo único, da Lei 9.430/1996, teria como objeto a declaração de sua inconstitucionalidade pelo Tribunal regional. Entretanto, a competência para a apreciação de questão constitucional está reservada ao STF.
+5. No julgamento do Recurso Especial 1.213.082/PR, sob o rito dos Recursos Repetitivos, a Primeira Seção, Relatoria do eminente Ministro Mauro Campbell Marques, entendeu que a imposição da compensação de ofício aos débitos do sujeito passivo, que se encontram com exigibilidade suspensa, na forma do art. 151 do CTN, extrapola os ditames legais.
+6. O STJ, seguindo o entendimento do REsp 1.213.082/PR, não autoriza o procedimento compensatório de ofício, visto que imprescindível, para tanto, a exigibilidade dos créditos tributários a serem compensados, o que não se observa quando os débitos pretensamente compensáveis encontram-se suspensos, por adesão em programa de parcelamento. Portanto, inexiste previsão para a compensação defendida pela autoridade coatora.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1586947/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/09/2016, DJe 07/10/2016)
+Cumpre destacar que há recurso extraordinário da Fazenda Nacional, sobrestado, à espera do julgamento do RE 917.285/SC (tema 874), no qual se discute a constitucionalidade do art. 73, parágrafo único, da Lei n. 9.430/1996, na redação da Lei n. 12.844/2013, o que torna desnecessária a abertura de prazo para a readequação da petição recursal a que se refere o art. 1.032 do CPC/2015.
+Ante o exposto, com base no art. 255, § 4º, I, do RI-STJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
