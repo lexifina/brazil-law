@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo de decisão interposto por CAIXA SEGURADORA que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Eg. Tribunal de Justiça do Estado do Amazonas, assim ementado:
+"APELAÇÃO CÍVEL. CONTRATO DE PLANO DE PREVIDÊNCIA. RECEBIMENTO DE PECÚLIO. HERDEIROS DO DE CUJUS. RECUSA DE PAGAMENTO. ALEGADA OMISSÃO * DE DOENÇA PREEXISTENTE NO MOMENTO DO PREENCHIMENTO DA PROPOSTA. ALEGADA MÁ-FÉ DO CONTRATANTE. 1. FATO IMPEDITIVO DO DIREITO DOS AUTORES NÃO COMPROVADO (ART. 333, 11, DO CPC). 2. DANOS MORAIS NÃO CARACTERIZADOS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Para se operar a perda ao direito ao pagamento da indenização securitária, faz-se imprescindível a prova da má-fé do segurado em omitir informações acerca de doença preexistente e, partindo do pressuposto de que a má-fé não se presume, cabe à seguradora a comprovação da sua configuração, por se tratar de fato impeditivo do direito do autor (art 333, 11 do CPC);
+2. O inadimplemento das obrigações assumidas por um dos contratantes, embora seja causa de aborrecimento para aqueles que não recebem a prestação pretendida, por si só, não é suficiente para afetar a dignidade dos credores, não ensejando, pois, danos morais;
+3. Recurso conhecido e parcialmente provido." (fl. 368)
+Nas razões do recurso especial, a agravante aponta violação aos arts. 5º, XXXV e XXXVI, da Constituição Federal, 6º, §1º, da Lei de Introdução do Código Civil, 757, 760 e 766 do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese, não ser devida a indenização securitária pois o segurado deixou de declarar doenças preexistentes.
+Apresentadas contrarrazões às fls. 449-455.
+É o relatório.
+Inicialmente, no tocante à alegada contrariedade ao art. 5º, XXXV e XXXVI, da Carta Magna, trata-se de questão a ser apreciada pela instância suprema, haja vista que é inviável a análise de matéria constitucional nesta via recursal, de modo que tal providência implicaria usurpação da competência atribuída àquela egrégia Corte (CF, art. 102).
+Ademais, consoante entendimento consolidado nesta Corte Superior, é indevida a recusa da cobertura securitária, sob a alegação de doença preexistente à contratação do seguro, se a seguradora não submeteu o segurado a prévio exame de saúde e não comprovou má-fé.
+A propósito:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE DOENÇA PREEXISTENTE. AUSÊNCIA DE EXAMES PRÉVIOS. MÁ-FÉ NÃO COMPROVADA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. RECUSA INDEVIDA. DANO MORAL INDENIZÁVEL. DECISÃO MANTIDA.
+1. Conforme pacificado no STJ, "não comprovada a má-fé do segurado quando da contratação do seguro saúde e, ainda, não exigida, pela seguradora, a realização de exames médicos, não pode a cobertura securitária ser recusada com base na alegação da existência de doença preexistente" (AgRg no AREsp n. 177.250/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/10/2012, DJe 30/10/2012).
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o Tribunal de origem concluiu não ter sido comprovada a má-fé da segurada nem a exigência de exames médicos pela seguradora, de modo que a recusa na cobertura do tratamento se deu de forma indevida, gerando dano moral indenizável. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Agravo interno a que se nega provimento." (AgInt no AREsp 1163036/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/02/2018, DJe 08/03/2018, g.n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. SEGURO DE VIDA. DOENÇA PREEXISTENTE. MÁ-FÉ NÃO COMPROVADA. REEXAME DE CLÁUSULAS CONTRATUAIS E DE PROVAS. SÚMULAS N. 5 E 7/STJ.
+1. Não comprovada a má-fé do segurado quando da contratação do seguro saúde e, ainda, não exigida, pela seguradora, a realização de exames médicos, não pode a cobertura securitária ser recusada com base na alegação da existência de doença pré-existente. Precedentes.
+2. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e de matéria fática da lide, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento." (AgInt no REsp 1280544/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/05/2017, DJe 09/05/2017, g.n.)
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
