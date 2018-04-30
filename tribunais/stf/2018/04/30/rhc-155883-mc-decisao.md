@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso ordinário em “habeas corpus”, com pedido de medida liminar, interposto contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. TRÁFICO DE DROGAS. REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. CIRCUNSTÂNCIAS DO DELITO QUE EVIDENCIAM ENVOLVIMENTO COM O CRIME ORGANIZADO. GRANDE QUANTIDADE DA DROGA APREENDIDA – 45 KG DE MACONHA. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. VIA ELEITA INADEQUADA. AGRAVO REGIMENTAL DESPROVIDO.
+    1. A aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/06 depende do convencimento do Magistrado de que o apenado, primário e de bons antecedentes, não se dedique a atividades delituosas nem integre organização criminosa.
+    O entendimento registrado pelas instâncias ordinárias está em consonância com a jurisprudência deste Tribunal Superior, firmada no sentido de que a grande quantidade da droga apreendida – 45 quilos de maconha –, aliada às circunstâncias do delito que evidenciam envolvimento com o crime organizado, são circunstâncias aptas para evidenciar a dedicação da agente à atividade criminosa e suficientes a afastar a aplicação da redutora prevista no art. 33, § 4º, da Lei n. 11.343/06.
+    2. Ademais, a reforma do entendimento firmado pelas instâncias ordinárias quanto à dedicação da paciente às atividades criminosas constitui matéria que refoge ao restrito escopo do ‘habeas corpus’, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+    Agravo regimental desprovido.”
+    (HC 421.971-AgRg/MS, Rel. Min. JOEL ILAN PACIORNIK – grifei)
+    Busca-se, em síntese, nesta sede processual, em caráter definitivo, a aplicação da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/2006, suspendendo-se, desde logo, cautelarmente, a própria eficácia do acórdão ora impugnado.
+    Sendo esse o contexto, passo a apreciar o pedido de medida cautelar. E, ao fazê-lo, observo que o exame dos fundamentos em que se apoia o acórdão ora impugnado parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida pela parte recorrente.
+    Com efeito, os elementos produzidos no processo penal de conhecimento não autorizariam, segundo acentuado pelo magistrado sentenciante e, também, pelo E. Superior Tribunal de Justiça, a pretendida incidência, na espécie, da cláusula inscrita no § 4º do art. 33 da Lei nº 11.343/2006, notadamente porque – conforme se enfatizou – a paciente em questão, ora recorrente, dedicar-se-ia a atividades criminosas, com envolvimento com a criminalidade organizada, circunstâncias que impediriam a aplicação da norma legal acima referida (§ 4º).
+    Demais disso, e como se sabe, a reforma do acórdão ora impugnado mostrar-se-ia inviável na via sumaríssima do processo de “habeas corpus”, em cujo âmbito procedimental não se admite a instauração de fase incidental de dilação probatória (RTJ 136/1221 – RTJ 137/198 – RTJ 140/893, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e sem prejuízo de ulterior reapreciação da matéria no julgamento final do presente recurso ordinário, indefiro o pedido de medida liminar.
+    2. Ouça-se a douta Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
