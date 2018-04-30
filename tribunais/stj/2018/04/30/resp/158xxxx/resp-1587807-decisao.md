@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Construtora Lais Ltda., com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 496):
+PROCESSUAL CIVIL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. CONSTRUÇÃO CIVIL. MÃO DE OBRA. AFERIÇÃO INDIRETA. TABELA CUB. POSSIBILIDADE.
+1. Nos casos em que o débito tributário-previdenciário não é constituído pelo sujeito passivo (a quem cabe referida atividade, na condição de dever instrumental), cabível sua constituição e cobrança por meio supletivamente atribuído à Administração, o da aferição indireta fundada na tabela CUB do SINDUSCON, critério eleito pelo legislador para a apuração do custo da obra.
+2. As presunções, como as decorrentes das chamadas aferições indiretas, hão de ser excepcionalmente admitidas, impondo-se, para seu uso, explícita previsão legal, condição na hipótese preenchida.
+Opostos embargos declaratórios, foram rejeitados (fls. 509/514)
+A parte recorrente aponta violação aos arts. 535 do CPC/73. Sustenta, em resumo, que a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca dos artigos 12, 25, 20, 22, 28, 30, 31 e 33 da Lei 8.212/91.
+É o relatório.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF. Nesse mesmo sentido são os seguintes precedentes: AgRg no REsp 1.084.998/SC, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 12/3/2010; AgRg no REsp 702.802/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma DJe 19/11/2009, e REsp 972.559/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, DJe de 9/3/2009.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
