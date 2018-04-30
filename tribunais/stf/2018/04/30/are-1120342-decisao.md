@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. REPROVAÇÃO NO EXAME MÉDICO. PERÍCIA JUDICIAL. APTIDÃO CONSTATADA. NOMEAÇÃO E POSSE. LIMITE DE GASTOS COM PESSOAL. LEI DE RESPONSABILIDADE FISCAL. ALEGAÇÃO DE OFENSA AOS ARTIGOS 167, INCISO II, E 169, CAPUT E § 1º, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO STF. VIOLAÇÃO AO ARTIGO 93, IX, DA CONSTITUIÇÃO. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo DISTRITO FEDERAL objetivando a reforma de decisão que inadmitiu recurso extraordinário, manejado com arrimo na alínea a do permissivo constitucional, contra acórdão que assentou, in verbis:
+    “DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. AÇÃO DE CONHECIMENTO. APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. CONCURSO PÚBLICO. PROFESSOR. SECRETARIA DE EDUCAÇÃO DO DISTRITO FEDERAL. INSPEÇÃO DE SAÚDE PRÉVIA. INAPTIDÃO TEMPORÁRIA. NOVO EXAME. POSSIBILIDADE. PERDAS E DANOS. POSSE TARDIA. IMPOSSIBILIDADE. SENTENÇA MANTIDA.
+    1. Ultrapassadas todas as fases do certame, sendo a candidata considerada inapta temporariamente na inspeção médica para o exercício do cargo almejado, afere-se que não foi excluída do certame diante da transitoriedade da situação. Realizada perícia judicial que constatou a aptidão para o exercício do cargo é cabível a determinação da posse imediata da candidata.
+    2. Em observância à jurisprudência do Superior Tribunal de Justiça e desta Corte, alinhando-se à jurisprudência firmada no Supremo Tribunal Federal, entende-se não ser devida indenização ao candidato cuja nomeação tardia decorre de decisão judicial. Precedentes. (EREsp 1.117.974/RS, Rel. Ministra ELIANA CALMON, Rel. para o acórdão Ministro TEORI ZAVASCKI, CORTE ESPECIAL, j. 21/9/2011, DJe 19/12/2011).
+    3. Recursos conhecidos e não providos.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões do apelo extremo, o recorrente sustenta preliminar de repercussão geral e, no mérito, aponta violação aos artigos 93, IX, 167, II, e 169, caput e § 1º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que o acórdão recorrido estaria em harmonia com a jurisprudência do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    A interposição do recurso extraordinário impõe que o dispositivo constitucional tido por violado, como meio de se aferir a admissão da impugnação, tenha sido debatido no acórdão recorrido, sob pena de padecer o recurso da imposição jurisprudencial do prequestionamento.
+    In casu, dessume-se dos autos que a parte recorrente se furtou em prequestionar, em momento oportuno, os artigos 167, II, e 169, caput, da Constituição Federal, apontados como violados nas razões do apelo extremo, atraindo, inarredavelmente, o óbice da ausência de prequestionamento, requisito essencial à sua admissão.
+    Esta Corte já firmou entendimento no sentido de que a alegação tardia, só suscitada na oposição dos embargos de declaração no Tribunal de origem, quanto à matéria versada pelos dispositivos constitucionais, não supre a falta do requisito do prequestionamento, viabilizador da abertura da instância extraordinária. Incidência do óbice erigido pelo enunciado da Súmula 282 do STF, de seguinte teor: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INCORPORAÇÃO DE GRATIFICAÇÃO. LEI COMPLEMENTAR ESTADUAL N. 13/94. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL (SÚMULA 282). IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes.” (RE 598.123-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 30/4/2010, grifos meus)
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ART. 7º, LV, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE. SÚMULAS STF 282 E 356.
+    1. São inviáveis os embargos de declaração opostos para fins de prequestionamento quando o tema constitucional não tiver sido ventilado previamente no recurso interposto perante o Tribunal de origem.
+    2. E a circunstância de a matéria poder ser suscitada em qualquer momento processual ou grau de jurisdição, por se tratar de questão de ordem pública, como afirmado pela recorrente, não afasta o preenchimento de tal requisito, inerente ao cabimento do recurso de natureza extraordinária. Precedentes.
+    3. Agravo regimental improvido.” (AI 521.577-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 16/4/2010, grifos meus)
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
