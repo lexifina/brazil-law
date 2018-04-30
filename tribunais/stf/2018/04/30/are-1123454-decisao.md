@@ -1,0 +1,24 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Sales Oliveira/SP contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “Apelação e Reexame Necessário – Demanda declaratória – Concurso Público – Agentes Comunitários de Saúde – Pretensão dos aprovados à declaração da natureza de concurso público ao procedimento de seleção e à contratação efetiva – Procedência – Insurgência – Descabimento – Debate acerca da natureza da seleção e contratação para o exercício dos cargos – Ausência de previsão no edital do caráter temporário da contratação – Indicativos no texto relativo ao certame de que se tratava de cargo efetivo provido por concurso público – Vinculação ao edital – Precedentes deste E. Tribunal de Justiça – Sentença mantida. Recurso voluntário e reexame necessário desprovidos.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe observar, desde logo, que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 454/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos e a interpretação de cláusula de edital, circunstâncias essas que obstam, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279/STF e 454/STF.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, apoiou as suas conclusões em aspectos fático-probatórios e em interpretação de cláusula de edital:
+    “Da leitura do instrumento convocatório é possível depreender que a requerida tratou a seleção como verdadeiro concurso público, uma vez que esta dar-se ia para ’provimento de cargos vagos, atualmente existentes, dos que vagarem e dos que forem criados dentro do prazo de validade do Processo Seletivo previsto no Edital, providos pelo Regime Estatutário’ (fls. 25).
+    …..................................................................................................
+    No mais, em momento algum a requerida demonstrou situação de urgência ou excepcionalidade para contratação de profissionais em todas aquelas áreas abrangidas pelo Processo Seletivo nº 001/2010.
+    …..................................................................................................
+    Além de todos estes fatores, é relevante consignar que o instrumento convocatório não menciona a contratação na forma temporária, de modo que não se pode partir da presunção de que os aprovados tinham ciência da seleção e contratação nesta modalidade, quando, consoante o sobredito, somente a regra expressa no edital vincula as partes.
+    No que toca à temporariedade suscitada, a validade de um ano concerne ao prazo para o chamamento dos aprovados, aquele no qual o concurso estaria válido, não se cuida de hipótese de regulação do prazo de duração do contrato, senão vide a literal transcrição do item 13.10 do instrumento convocatório (fls. 34):
+    ‘13.10 A validade do presente Processo Seletivo será de ‘1’ (um) ano, contados da homologação final dos resultados, podendo haver prorrogação por igual período, a critério da Administração.’
+    Tanto é verdade que a disposição faz referência ao processo seletivo, nominalmente, e é omissa quanto à contratação.”
+    Impende registrar, por necessário, que o entendimento exposto na presente decisão tem sido observado em julgamentos que, proferidos no âmbito desta Corte, versaram questões idênticas à que ora se examina nesta sede recursal (ARE 1.082.884-AgR/SP, Rel. Min. CÁRMEN LÚCIA – ARE 1.098.586-AgR/SP, Rel. Min. ALEXANDRE DE MORAES, v.g.).
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063-AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
