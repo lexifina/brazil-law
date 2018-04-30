@@ -1,0 +1,32 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMBARGOS INFRINGENTES. RESPONSABILIDADE CIVIL DO ESTADO. INFECÇÃO HOSPITALAR. SURTO EPIDÊMICO. FORTUITO. EXCLUSÃO DO NEXO CAUSAL.
+    1. Na hipótese, postula a autora/embargada a reparação de danos materiais e morais, em virtude de infecção contraída após submissão à cirurgia por videolaparoscopia realizada, em fevereiro de 2007, no Instituto Fernandes Figueira da Fundação Oswaldo Cruz.
+    2. A teor do que dispõe o art. 37, § 6°, da Constituição Federal, é necessária à responsabilização civil objetiva do Estado, a concorrência dos seguintes requisitos: a) ação ou omissão administrativa, b) existência de dano causado a um terceiro; c) nexo causal entre o dano e a ação ou omissão administrativa; d) ausência de causa excludente da responsabilidade estatal.
+    3. No caso em apreço, é forçoso concluir pela não aplicação do art. 37, § 6°, da Constituição Federal, pois a responsabilidade civil do Estado em razão de danos causados a pacientes em tratamento médico-hospitalar, tal como na espécie, é de natureza subjetiva e não objetiva, uma vez que a autora, ora embargada, não ostenta qualidade de terceiro em relação à Administração.
+    4. Ainda que se entenda, porém, que, no caso, a responsabilidade seria objetiva, certo é que necessária a verificação do nexo causal entre o dano e a ação ou omissão administrativa, devendo inexistir, portanto, causa excludente do nexo causal – fato exclusivo da vítima, caso fortuito, força maior e fato exclusivo de terceiro.
+    5 Na hipótese, configurado caos fortuito, dado que a infecção sofrida pela autora se deu em virtude de micobactéria de crescimento rápido, em contexto de epidemia nos hospitais do Estado do Rio de Janeiro, no período de agosto/2006 a julho/2007, por tolerância das referidas bactérias ao material utilizado, à época, pela maioria das instituições hospitalares, para esterilização dos equipamentos utilizados em cirurgias assistidas por vídeo.
+    6. Note-se que, somente por meio da RDC n° 8, de 27.02.2009, a ANVISA suspendeu a esterilização por imersão em agentes químicos líquidos do instrumental utilizado em procedimentos cirúrgicos e diagnósticos por videoscopias com penetração.
+    7. De se evidenciar que, tal como consta do laudo pericial e se verifica dos fatos descritos na inicial, tão logo se teve conhecimento da infecção sofrida pela embargante, foi-lhe dada toda a assistência médica e hospitalar que o caso exigia pela própria embargada, que forneceu medicamentos, realizou a cirurgia para retirada de nódulos inflamatórios e acompanhamento por meio de consultas médicas periódicas.
+    8. Embargos infringentes desprovidos” (págs. 23 e 24 do documento eletrônico 46).
+    No RE, fundado no art. 102, III, a, da Constituição, sustenta-se, em suma, violação aos arts. 37, § 6º da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    De início, colhe-se do voto condutor do acórdão recorrido os seguintes excertos:
+    “[...]
+    Ora, a ocorrência de surto epidêmico de micobactérias que se tornaram resistentes a algumas das técnicas de desinfecção e esterilização utilizadas em conformidade com as técnicas da medicina da época, corresponde a evento furtuito (sic) e, portanto, à causa de exclusão do nexo causal.
+     […]
+    De se evidenciar, ainda, que, tão logo se teve conhecimento da infecção sofrida pela embargante, foi-lhe dada toda a assistência médica e hospitalar que o caso exigia pela própria Fundação Oswaldo Cruz, que, conforme se verifica do próprio relato dos fatos constantes da inicial, forneceu medicamentos, realizou a cirurgia para retirada de nódulos inflamatórios e o acompanhamento por meio de consultas médicas periódicas. Isso é o que consta também do laudo pericial, na resposta ao quesito 15 formulado pela embargada:
+    ‘15 – CONSIDERA CORRETO AFIRMARMOS QUE identificada a infecção por M. Abscessus foi a paciente corretamente tratada pelo hospital ora suplicado?
+    Sim.’
+    Dessa forma, diante da exclusão do nexo causal e da ausência de qualquer erro, negligência ou descuido no tratamento médico prestado à autora após o diagnóstico da infecção, não há como imputar à embargada qualquer responsabilidade civil pelo ocorrido” (págs. 3, 6 e 7 do documento eletrônico 46).
+    Desse modo, para divergir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, cito julgados de ambas as Turmas desta Corte:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA DO ESTADO. ERRO MÉDICO. CABIMENTO DE INDENIZAÇÃO. NECESSIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. O nexo de causalidade apto a gerar indenização por dano moral em face da responsabilidade do Estado, quando controversa sua existência, demanda a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279/STF que dispõe verbis: ‘Para simples reexame de prova não cabe recurso extraordinário’.
+    2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    3. In casu, o acórdão recorrido assentou: ‘APELAÇÃO CÍVEL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DA ADMINISTRAÇÃO. ATENDIMENTO REALIZADO EM HOSPITAL PÚBLICO. AUSÊNCIA DE NEXO CAUSAL ENTRE O DANO E O PROCEDIMENTO MÉDICO ADOTADO. APELO IMPROVIDO’.
+    4. Agravo regimental DESPROVIDO” (ARE 720.459-AgR/PE, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. Responsabilidade civil do estado. Erro médico. 3. Nexo causal. Revolvimento do acervo fático-probatório e da legislação infraconstitucional aplicável. Súmula 279. 4. Ausência de argumentos suficientes a infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento” (ARE 846.471-AgR/RJ, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 20% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites do art. 85, § 2º e § 3º, do CPC e eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
