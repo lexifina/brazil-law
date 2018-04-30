@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Agravo, interposto por PERFILADOS VANZIN LTDA, em 07/02/2018, contra decisão do Tribunal Regional Federal da 4ª Região, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CDA. TAXA SELIC.
+MULTA CONFISCATÓRIA. ENCARGO LEGAL. RECUPERAÇÃO JUDICIAL.
+1. É válida a CDA que, preenchendo os requisitos legais, permite a identificação de todos os aspectos do débito, inclusive da forma de cálculo dos consectários moratórios.
+2. É legítima a correção monetária do débito e a cobrança de juros pela Taxa SELIC.
+3. A finalidade punitiva e dissuasória da multa justifica a sua fixação em percentuais mais elevados sem que com isso ela assuma natureza confiscatória.
+4. É legal e constitucional a cobrança do encargo legal, previsto no Decreto- Lei nº 1.025, de 1967.
+5. Embora as execuções de natureza fiscal não sejam suspensas pelo deferimento da recuperação judicial, devem ser suspensos os atos judiciais tendentes a reduzir o patrimônio da sociedade empresária, pois a redução do patrimônio inicialmente apurado no deferimento da recuperação judicial certamente comprometeria a execução e o sucesso do plano" (fl. 425e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO.
+INEXISTÊNCIA. REJULGAMENTO DA CAUSA.
+Deve ser negado provimento aos embargos de declaração que, a pretexto de sanar omissão e contradição, pretendem, na verdade, apenas o rejulgamento da causa e o prequestionamento de dispositivos legais" (fl. 485e).
+Nas razões do Agravo, a parte sustenta, em síntese, o seguinte:
+"A r. Decisão agravada (EVENTO 44), que não admitiu o Recurso Especial interposto alega que o referido recurso não merece trânsito, porquanto a questão suscitada implica revolvimento do conjunto probatório, vedado em sede de Recurso Especial, nos termos da Súmula nº 07 do Superior Tribunal de Justiça, que assim estabelece: a pretensão de simples reexame de prova não enseja recurso especial.
+Ocorre que, com o devido respeito, tal alegação não pode prosperar, uma vez que a Agravante demonstrou de forma precisa a ofensa ocorrida à Legislação Federal e a divergência existente quanto à matéria, o que por si só demonstra que a matéria não se encontra pacificada no âmbito dos Tribunais Superiores.
+Assim, mais uma vez não pode ser admitida a afirmação contida no r. despacho, visto que os dissídios apresentados como paradigmas mostram claramente a divergência existente sobre o assunto objeto do Recurso Especial. Tendo os mesmos todos os requisitos necessários para comprovar o pensamento conflitante sobre a matéria entre os Tribunais Pátrios.
+(..)
+Com o máximo respeito Nobres Julgadores, a ora Agravante demonstrou de forma analítica a divergência jurisprudencial existente entre o v. Acórdão recorrido com outras decisões proferidas pelos Tribunais Pátrios no que tange às nulidades e vícios constantes das CDA"s que lastreiam a Execução Fiscal.
+Restou demonstrado, conforme supramencionado, que a decisão recorrida acabou por firmar entendimento divergente (..)" (fls. 687/688e).
+Requer, ao final, "seja recebido o presente Agravo, remetendo-se os autos ao Egrégio Superior Tribunal de Justiça, para que julgue a causa, reformando o v. Acórdão recorrido" (fl. 712e).
+Por sua vez, a parte agravada afirma que "a discussão proposta pelo recurso especial não pode seguir adiante, eis que a orientação jurisprudencial no âmbito do STJ firmou-se em sentido contrário àquele defendido pela recorrente" (fl. 746e).
+Do exame dos autos, verifica-se que os fundamentos da decisão agravada, para inadmitir o Recurso Especial, são os seguintes: a) quanto à suposta nulidade das CDAs, incidência da Súmula 7/STJ (fls. 659/660e); b) "a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (fl. 661e); c) em relação à multa aplicada, o STF apreciou o tema em sede de repercussão geral (Tema 214) e o STJ se posiciona no mesmo sentido (fls. 662/663e); d) "relativamente à aplicação da SELIC, o Superior Tribunal de Justiça, ao julgar o REsp nº 1111175, havido como representativo da controvérsia, pacificou o assunto ora tratado" (fl. 663e) e, por fim; e) "no que respeita à insurgência relativa ao encargo legal, a pretensão não merece trânsito, pois o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça, incidindo, na espécie, o óbice da Súmula 83" (fl. 663e).
+A parte, no entanto, no Agravo, não cuidou de impugnar quaisquer dos fundamentos da decisão agravada, limitando-se a defender que "demonstrou de forma precisa a ofensa ocorrida à Legislação Federal e a divergência existente quanto à matéria" e a reafirmar integralmente as razões constantes do Recurso Especial (fls. 688/712e). Verifica-se que não foi trazido qualquer argumento no sentido de infirmar os fundamentos utilizados pelo Tribunal de origem para a inadmissão do recurso.
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+I.
