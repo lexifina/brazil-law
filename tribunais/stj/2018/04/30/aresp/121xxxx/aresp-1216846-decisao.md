@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. DEMOLIÇÃO DE IMÓVEL. REVISÃO DOS VALORES ARBITRADOS A TÍTULO DE DANOS MORAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência das Súmulas 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 258):
+RESPONSABILIDADE CIVIL. MUNICÍPIO DO RIO DE JANEIRO. DEMOLIÇÃO DE RESIDÊNCIA SOB A ALEGAÇÃO DE ENCONTRAR-SE A MESMA SITUADA EM ÁREA DE RISCO. AUTORA QUE DEMONSTRA SER POSSUIDORA DO IMÓVEL. TESTEMUNHOS PRESTADOS POR AGENTES MUNICIPAIS" GARANTINDO À AUTORA INDENIZAÇÃO PELO ATO PRATICADO. DANO MORAL CONFIGURADO. OFENSA À DIGNIDADE DA PESSOA HUMANA. VALOR FIXADO COM RAZOABILIDADE E ATENTO À EXTENSÃO DO DANO E AS CONSEQÜÊNCIAS DO EVENTO. DANO MATERIAL, CUJO VALOR FOI FIXADO FORA DO PEDIDO AUTORAL. ADEQUAÇÃO DO JULGADO. INSATISFAÇÃO DO MUNICÍPIO DO RIO" DE JANEIRO MANEJADA POR MEIO DE AGRAVO. APRECIAÇÃO OBRIGATÓRIA DA MATÉRIA PELO COLEGIADO.
+Como deixou assentado o Juiz de primeiro grau, a autora demonstrou, pelos documentos acostados a fls. 17/21 e pela prova oral colhida, ser legítima possuidora do imóvel objeto da demolição pelo ente municipal..
+Ademais, restou demonstrado o efetivo comprometimento do réu, através de  seus agentes envolvidos na interdição e demolição, com, o pagamento de indenização e a possibilidade do pagamento de um aluguel para a autora. Dano moral configurado. Perda da moradia. Princípio da dignidade da pessoa humana.
+Quanto ao dano material, com razão o Município, pois, de fato, a sentença foi além do pedido da autora, que era o de recebimento da quantia de R$ 43.494,69 (fls. 08), devendo tal sentença ser adequada ao pedido do autor nos termos do art. 128 do Código de Processo" Civil, que fixa os limites da litisconstestatio. - Recurso não provido.
+Embargos de declaração rejeitados.
+No recurso especial sustenta ofensa aos artigos 927 e 945 do Código Civil, sob os seguintes argumentos: (a) não há um nexo causal entre a conduta do recorrente e dano sofrido pela corrida, pois trata-se de culpa exclusivamente ou concorrente da vítima, visto que o imóvel demolido era construído irregularmente e oferecia riscos de desabamento; e (b) deve ser reduzido o valor da indenização ante a ocorrência de culpa concorrente da vítima.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No que diz respeito à ofensa aos artigos 927 e 945 do Código Civil , a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que ficou demonstrada responsabilidade do recorrente pelo dano decorrente da demolição, fixando o valor a título de danos morais em R$ 20.000,00.
+Destaco trecho do acórdão (fls. 262/264):
+Adernais, restou demonstrado o efetivo comprometimento do réu, através de seus agentes envolvidos na ,interdição e demolição, com o pagamento de indenização e a possibilidade do pagamento de um aluguel para a autora (..)
+O valor da indenização por dano moral sujeita-se ao controle do Superior Tribunal de Justiça, sendo certo que, na fixação da indenização a esse titulo, recomendável que o arbitramento seja. feito com moderação, proporcionalmente ao grau de culpa, ao nível sócio- , econômico do autor, e, ainda, ao porte econômico do réu, orientando-se o Juiz pelos critérios sugeridos pela doutrina e pela jurisprudência, com .
+razoabilidade, valendo-se de sua experiência e do bom senso, atento à realidade da vida e às peculiaridades de cada caso (RESP 216.904, 19.8.99, 4" Turma STJ, rel. Min. Salvio de Figueiredo, in DJU 20.9.99, p. 67).
+Nesse contexto, e atento à peculiaridade do caso, tenho como razoável o valor de R$ 20.000,00 (vinte mil reais), fixado pala sentença para reparar o dano moral, vez que a extensão e a natureza dos danos sofridos pela autora exigiam uma reparação neste patamar.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. ATUAÇÃO ILEGAL DA ADMINISTRAÇÃO PÚBLICA. INDEVIDA DEMOLIÇÃO DE IMÓVEL. REVISÃO DOS VALORES ARBITRADOS A TÍTULO DE DANOS MORAIS E HONORÁRIOS ADVOCATÍCIOS.. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. ATUALIZAÇÃO MONETÁRIA. RECOMPOSIÇÃO DA MOEDA.
+1. A jurisprudência do Superior Tribunal de Justiça admite, em caráter excepcional, a alteração do quantum arbitrado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade. O recorrente, contudo, não logrou demonstrar que, na espécie, o valor arbitrado seria excessivo, de forma que o acórdão recorrido deve ser mantido.
+2. Do mesmo modo, a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+3. A atualização monetária não serve ao desiderato de demonstrar a exorbitância dos valores arbitrados à título de danos morais e honorários advocatícios, porquanto se trata de mera recomposição do valor da moeda.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 875.718/DF, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 23/06/2016).
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
