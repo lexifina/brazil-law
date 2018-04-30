@@ -1,0 +1,18 @@
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. INSCRIÇÃO INDEVIDA DO NOME DE PESSOA FALECIDA EM CADASTRO DE PROTEÇÃO AO CRÉDITO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. LEGITIMIDADE ATIVA. FILHA. REPARAÇÃO DOS PREJUÍZOS CAUSADOS A SUA PRÓPRIA HONRA, EM DECORRÊNCIA DAS REITERADAS COBRANÇAS E POSTERIOR NEGATIVAÇÃO DO NOME DE SEU GENITOR. AGRAVO PROVIDO PARA DETERMINAR SUA CONVERSÃO EM RECURSO ESPECIAL.
+DECISÃO
+ZÉLIA GOMES DE ARAÚJO ajuizou ação de obrigação de fazer cumulada com indenização por danos materiais e compensação por danos morais contra BV FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO (BV FINANCEIRA) e BANCO VOTORANTIM S.A. (BANCO), cujos pedidos foram julgados procedentes (e-STJ, fls. 125/127).
+A apelação interposta pela BV FINANCEIRA foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+Apelação Cível. Responsabilidade Civil. Ação de Obrigação de Fazer o/c Indenização por Danos Morais, com pedido de antecipação de tutela. Autora pleiteia reconhecimento da nulidade dos descontos efetuados na conta de seu falecido pai, em razão de empréstimo contratado junto a parte ré. Informa que mesmo após comunicar o falecimento do seu genitor a parte ré continuou a efetuar cobranças e realizou a negativação do nome do falecido nos Cadastros Restritivos de Crédito. Pleiteia reparação por dano moral e a devolução dos valores descontados indevidamente. Sentença de 1§ grau dando procedência aos pedidos. Apelo do réu requerendo a reforma da sentença quanto à devolução em dobro e ao dano moral. Ilegitimidade da autora em demandar em nome próprio direito alheio. Negativação indevida de falecido que não extravasa a pessoa do negativado. Dano moral. Impossibilidade. Ausência de dano capaz de produzir reflexos extrapatrimoniais. Recurso provido (e-STJ, fl. 171).
+Os embargos de declaração interpostos foram rejeitados (e-STJ, fls. 208/215).
+Inconformada, ZÉLIA manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. (1) 489 e 927, ambos do NCPC, ao sustentar negativa de prestação jurisdicional por omissão e contradição; (2) 12 e 20, ambos do CC/02. Defendeu que, na qualidade de filha do falecido, cujo nome foi inscrito, após sua morte, em cadastro restritivo de crédito, possui legitimidade para demandar por danos morais quanto a sua própria honra subjetiva, decorrentes da negativação do nome de seu genitor. Aduziu que o dano moral foi evidenciado, ainda, em virtude das reiteradas cobranças enviadas à sua residência, e que todo o ocorrido causou-lhe constrangimentos, desgostos e preocupações. Acenou com divergência de interpretação jurisprudencial.
+As contrarrazões não foram apresentadas (e-STJ, fls. 254).
+O apelo nobre não foi admitido sob o fundamento de não estar comprovação do dissídio interpretativo, bem como de incidência da Súmula nº 7 do STJ (e-STJ, fls. 256/258).
+Nas razões do presente agravo em recurso especial, ZÉLIA sustentou que a divergência jurisprudencial foi devidamente demonstrada nos moldes legais e do RISTJ. Disse, ainda, que não pretende revolver o conjunto fático-probatório dos autos, mas, sim, a valoração das provas e fatos incontroversos (e-STJ, fls. 267/293).
+A contraminuta não foi apresentada (e-STJ, fl. 395).
+É o relatório.
+Decido.
+Considerando as razões expostas, para melhor examinar a controvérsia suscitada, DOU PROVIMENTO ao presente agravo, determinando a sua conversão em recurso especial.
+Por fim, advirta-se que eventual recurso interposto contra este julgado estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se.
+Intimem-se.
