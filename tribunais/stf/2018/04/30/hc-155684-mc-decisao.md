@@ -1,0 +1,21 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+PRISÃO PREVENTIVA – PRAZO – EXCESSO.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+LIMINAR – EXTENSÃO – CORRÉU.
+    1. A assessora Dra. Mariana Madera Nunes prestou as seguintes informações:
+    O Juízo da Vara do Plantão da Comarca de Tupã/SP, no processo nº 0006673-48.2017.8.26.0637, converteu em preventivas as prisões em flagrante do paciente e de outra pessoa, ocorridas em 1º de dezembro de 2017, ante o suposto cometimento das infrações descritas nos artigos 33, cabeça (tráfico de drogas), e 35 (associação para o tráfico) da Lei nº 11.343/2006. Destacou a presença de prova da materialidade delitiva, consubstanciada na apreensão de 27 eppendorfs de cocaína. Frisou indispensável a custódia para garantir a ordem pública, a instrução criminal e a aplicação da lei penal, aludindo à gravidade do delito, aos malefícios do tráfico para a sociedade e ao fato de tratar-se de reincidente específico. Afastou a viabilidade de medida cautelar diversa.
+    Chegou-se ao Superior Tribunal de Justiça com o recurso em habeas corpus nº 95.464/SP, desprovido pela Sexta Turma.
+    O impetrante aponta a inidoneidade da fundamentação do ato que implicou a preventiva, tendo-o como lastreado na gravidade abstrata da infração. Sublinha as condições pessoais favoráveis do paciente – primariedade e bons antecedentes –, aduzindo equivocada a afirmação de tratar-se de reincidente. Ressalta a quantidade ínfima da substância encontrada, alegando destinada a consumo próprio. Assinala o caráter excepcional da constrição provisória, tendo-a como desproporcional. Sustenta que eventual condenação implicará o cumprimento de pena em regime menos gravoso. Assevera a possibilidade de imposição de cautelar alternativa.
+    Requer, no campo precário e efêmero, a revogação da preventiva e sucessivamente, a imposição de medida cautelar descrita no artigo 319 do Código de Processo Penal. No mérito, busca a confirmação da providência.
+    Em consulta ao sítio do Tribunal de Justiça, no dia 28 de abril de 2018, constatou-se que o Juízo da Vara Criminal da Comarca de Tupã/SP recebeu a denúncia apresentada em desfavor do paciente, em virtude da suposta prática do crime versado no artigo 33, cabeça, da Lei de Drogas, designando audiência de instrução e julgamento para 3 de julho seguinte.
+    A fase é de apreciação da liminar.
+    2. A gradação do tráfico de drogas, considerada a quantidade e a natureza do entorpecente apreendido – 27 eppendorfs de cocaína –, revela estar em jogo a preservação da ordem pública. Sem prejuízo do princípio da não culpabilidade, a custódia se impunha, considerada a periculosidade, ao menos sinalizada. Daí ter-se como razoável e conveniente o ato atacado. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, observando-se o figurino legal.
+    Ocorre que o paciente está preso, sem culpa formada, há 4 meses e 29 dias. Surge o excesso de prazo, tendo em vista a custódia provisória e o estágio do processo-crime, porquanto sequer iniciada a fase de instrução. Privar da liberdade, por tempo desproporcional, pessoa cuja responsabilidade penal não veio a ser declarada em definitivo viola o princípio da não culpabilidade. Concluir pela manutenção da medida é autorizar a transmutação do pronunciamento mediante o qual implementada, em execução antecipada de sanção, ignorando-se garantia constitucional.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso da prisão preventiva retratada no processo nº 0006673-48.2017.8.26.0637, da Vara Criminal da Comarca de Tupã/SP. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar eventual transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Sendo idêntica a situação do corréu Israel Wendland, considerado o excesso de prazo da custódia, estendo-lhe a medida acauteladora, com os mesmos cuidados, consoante o disposto no artigo 580 do Código de Processo Penal.
+    5. Colham o parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 30 de abril de 2018.
+Ministro MARCO AURÉLIO
+Relator
