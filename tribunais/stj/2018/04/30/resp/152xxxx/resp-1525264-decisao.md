@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do respectivo ente da federação, assim ementado:
+"APELAÇÃO CRIME. CRIMES CONTRA O PATRIMÔNIO. ROUBO MAJORADO. FRAGILIDADE PROBATÓRIA NÃO CONSTATADA - MATERIALIDADE E AUTORIA. Prova cabal da autoria e da materialidade. Autos que contemplam elementos autorizadores da manutenção da condenação. Depoimentos e declarações coerentes em sede policial e na fase judicializada. DOSIMETRIA DA PENA. Reprimenda reduzida para três anos, seis meses e vinte dias de reclusão, inalteradas as demais disposições sentenciais, nos termos do voto médio, exarado pelo Presidente.
+DETRAÇÃO. ART. 387, § 2º, CPP. LEI Nº 12.736/2012. Operada no caso concreto pelo tempo de prisão provisória no presente feito Regime de cumprimento da pena alterado para o aberto.
+POR MAIORIA DERAM PARCIAL PROVIMENTO AO RECURSO, A FIM DE, PREVALECENDO O VOTO MÉDIO, EXARADO PELO PRESIDENTE, REDUZIR A PENA PRIVATIVA DE LIBERDADE PARA TRÊS ANOS, SEIS MESES E VINTE DIAS DE RECLUSÃO, INALTERADOS OS DEMAIS CONSECTÁRIOS DA CONDENAÇÃO, VENCIDA A RELATORA QUE DESPROVIA O RECURSO, VENCIDO O REVISOR, QUE PROVIA O APELO E ABSOLVIA O RÉU E VENCIDO O PRESIDENTE, QUE ANULAVA PARCIALMENTE O DECRETO DE PRIMEIRO GRAU." (e-STJ, fl. 313)
+Os dois embargos de declaração opostos pelo Ministério Público foram desacolhidos.
+Nas razões recursais, o órgão acusatório aponta negativa de vigência ao artigo 615 do Código de Processo Penal. Sustenta que a Corte local incorreu em contradição no julgamento da apelação, pois, a despeito de ter afastado, em sede preliminar, suposta nulidade da sentença pela ausência de explicitação do peso atribuído a cada uma das circunstâncias negativas na primeira fase da dosimetria, acolheu, no mérito, a referida tese, pois "utilizou o pressuposto da suposta obrigatoriedade da explicitação do peso para, ao final, reduzir a pena ao mínimo legal" (e-STJ, fl. 377).
+Aduz que o Tribunal de origem, ao proceder dessa forma, "acabou por tornar vencedora tese que já havia sido afastada em preliminar, permitindo que fosse reeditada, no mérito, com efeitos ainda mais danosos" (e-STJ, fl. 379).
+Alega, ainda, que, "se não foi considerada necessária, na dosimetria da pena, a atribuição de peso individual a cada circunstância dotada de poder de modulação, não poderia a ausência de tal atribuição justificar, por si só, a condução da pena-base a seu mínimo legal" (e-STJ, fl. 378).
+Assim, requer o provimento do recurso especial a fim de que seja restaurada a pena-base fixada na sentença, porquanto vencida, em preliminar, a tese que fundou sua redução ao mínimo legal em grau de apelação.
+Contrarrazões apresentadas (e-STJ, fls. 396-398).
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ, fls. 419-423).
+É o relatório.
+Decido.
+Acerca da alegada negativa de vigência ao artigo 615 do Código de Processo Penal - sob o argumento de que a Corte local não poderia reduzir a pena-base do recorrido ao mínimo legal com fundamento em tese rechaçada na análise de preliminar da apelação, isto é, a necessidade de atribuição de peso individual a cada uma das moduladoras do artigo 59 do Código Penal -, denota-se que o tema questionado, qual seja, ausência de fundamentação idônea e concreta para a redução da pena-base ao mínimo legal, não encontra guarida na norma apontada como malferida, mas sim, em dispositivo próprio, previsto no artigo 59 do Código Penal, norma essa que não foi apontada como afrontada pelo ora recorrente.
+Assim, observa-se que o dispositivo de lei indicado como violado possui comando legal dissociado das razões recursais a ele relacionadas, o que impossibilita a compreensão da controvérsia arguida nos autos, ante a deficiência na fundamentação recursal.
+Dessarte, incide, na hipótese, o enunciado n. 284 da Súmula do STF, por analogia, verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 535 DO CPC/1973. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA N. 284 DO STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. REANÁLISE DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 535 do CPC/1973, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+(..)
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 903.376/DF, Rel. Min. ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 10/02/2017)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO E ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.
+I - A jurisprudência desta Corte considera que quando o recurso não aponta o dispositivo de lei federal violado pelo acórdão recorrido e/ou a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido".
+(AgRg no REsp 1394902/MA, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 18/05/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
