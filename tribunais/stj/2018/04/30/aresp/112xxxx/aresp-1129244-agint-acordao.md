@@ -1,0 +1,25 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO APELO NOBRE. SÚMULA 182/STJ. AUSÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA.
+1. É necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo, o que não ocorreu na espécie. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Não ocorre negativa de prestação jurisdicional quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão (Presidente) e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SR. MINISTRO OG FERNANDES: Trata-se de agravo interno manejado por Nascimento Agência de Viagens e Turismo Ltda. e outros contra decisão em que não conheci do agravo em recurso especial.
+As agravantes alegam que não se aplica o óbice da Súmula 182/STJ; que não há falar em jurisprudência recente, porque o recurso foi interposto pela alínea "c" do permissivo constitucional; que deve ser aplicada a teoria da encampação, porquanto "a ação mandamental é garantia individual para proteção de direito líquido e certo, não podendo simples questões formais inviabilizar sua efetiva análise, ainda mais tendo em vista simples equívoco na eleição da autoridade coautora, o que é comum face às complexas e numerosas divisões internas na Receita Federal não podem impedir ao acesso ao Judiciário" (e-STJ, fl. 507).
+É o relatório.
+VOTO
+O SR. MINISTRO OG FERNANDES (Relator): Mantenho a decisão combatida, visto que a parte agravante não impugnou especificamente os fundamentos da decisão que inadmitiu o especial, o que atrai a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Torna-se imprescindível o confronto específico dos pressupostos, a fim de demonstrar o desacerto da decisão, o que não ocorreu na espécie.
+No ponto:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+2. Inadmitido o recurso especial com base na Súmula 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 600.416/MG, de minha relatoria, SEGUNDA TURMA, julgado em 10/11/2016, DJe 18/11/2016)
+Saliente-se, no tocante à levantada ausência de fundamentação do acórdão recorrido, que o Tribunal regional foi bastante claro na questão da ilegitimidade da autoridade apontada como coatora ("Sucede que no caso, descabe invocar a teoria da encampação, visto que a indicação errônea da autoridade coatora ocorreu em relação a sujeito de "jurisdição" de outro município, ao apontarem como autoridade coatora o Delegado da Receita Federal em São Paulo, quando a exigência da multa imposta à impetrante MMSW Administração de Bens e Participações Ltda., sediada em Piracaia/SP (fls. 133/138), partiu do Delegado da Receita Federal em Jundiaí"; e-STJ, fl. 344), bem como sobre a alegação de confisco ("Por outro lado, não é dado ao Poder Judiciário, sem que tenha sido declarada a inconstitucionalidade de texto de lei, "criar", como se legislador positivo fosse, uma nova regra de modo a diminuir ou afastar multa fiscal diversamente daquele já abrigado nas leis tributárias. Ademais, a multa de ofício tem caráter punitivo, objetivando, além de reprimir a conduta infratora, desestimular a evasão fiscal, o que impõe que o seu montante seja alto o suficiente para incentivar os contribuintes a cumprirem suas obrigações tributárias, não havendo que se cogitar, diante da finalidade da multa de ofício, em efeito confiscatório"; e-STJ, fl. 347).
+Como sabido, não ocorre negativa de prestação jurisdicional quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+Por fim, a deixou de impugnar, de forma eficaz, a motivação da decisão agravada no tocante à impossibilidade de aplicação da teoria da encampação.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
