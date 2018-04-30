@@ -1,0 +1,21 @@
+EMENTA
+CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. PROCEDÊNCIA. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. PRESCRIÇÃO E ILEGITIMIDADE ATIVA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284, DO STF, POR ANALOGIA. INVERSÃO DO ÔNUS DA PROVA. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282, DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
+DECISÃO
+CASCAVEL MÁQUINAS AGRÍCOLAS LTDA promoveu ação monitória contra JÚLIO CÉSAR MESSIAS DE PAIVA (JÚLIO) e JOELSON MESSIAS DE PAIVA (JOELSON), julgada procedente para constituir o título executivo judicial, bem como condená-los nas custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação (e-STJ, fls. 258/263).
+Interposta apelação pelos réus JÚLIO e JOELSON, o Tribunal de origem negou-lhes provimento, majorando-se os honorários advocatícios para 15% sobre o valor da condenação, em acórdão assim ementado:
+AÇÃO MONITÓRIA. Contrato de financiamento para aquisição de equipamento agrícola. Legitimidade ativa o caracterizada. Comprovada a sub-rogação da autora nos direitos do credor originário. Prescrição. Inocorrência. Prazo prescricional de cinco anos contado a partir do vencimento da última parcela do financiamento. Código de Defesa do Consumidor. Aplicabilidade que, todavia, não implica acolhimento das teses defendidas pelos ó réus. Juros de mora e correção monetária que devem incidir a partir do inadimplemento. Embargos monitórios rejeitados. Sentença mantida. RECURSOS DESPROVIDOS (e-STJ, fl. 389).
+Inconformado, JÚLIO interpôs recurso especial com base no art. 105, III, a e c, da Constituição Federal, sustentando a ocorrência de violação dos arts. 6º, VIII do CDC, alegando, em síntese (1) ocorrência de prescrição; (2) Ilegitimidade ativa; e; (3) necessidade de inversão do ônus da prova.
+Em juízo de admissibilidade, a presidência da seção de direito privado do Tribunal de origem inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 432/434).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1)(2) Prescrição e Ilegitimidade Ativa
+Não ficou demonstrado, quando da apresentação das razões recursais, quais dispositivos de lei federal teriam sido eventualmente violados, fazendo incidir à hipótese o teor da Súmula nº 284 do STF: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+(3) Inversão do ônus da prova - 6º, VIII do CDC
+Verifica-se que o art. 6º, VIII do CDC não foi objeto de discussão no acórdão recorrido e tampouco foram opostos embargos de declaração para esta finalidade. Assim, inexistente o prequestionamento, obstaculizada está a via de acesso ao apelo excepcional. Inafastável assim, por analogia, a incidência da Súmula nº 282 do STF: É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Assim, considerando a aplicabilidade das regras do NCPC e o não conhecimento do recurso especial, MAJORO os honorários advocatícios anteriormente fixados em desfavor de JÚLIO de 15% para 20%, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
