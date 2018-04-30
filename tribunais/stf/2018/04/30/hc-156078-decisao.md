@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus com pedido de liminar, impetrado por Jorge Luiz Bonadio de Oliveira, em favor de GUILHERME DE SOUZA DA SILVA, contra decisão proferida pelo Ministro Joel Ilan Paciornik, do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente o HC 443.427/SP.
+    Segundo os autos, o paciente foi preso em flagrante na data de 15.3.2018 em razão da prática do delito tipificado no artigo 33, caput, da Lei 11.343/2006, porquanto foi apreendido em seu poder, para fins de mercancia, 11 “eppendorfs” de cocaína, com peso bruto aproximado de 10,200g (dez gramas e duzentos miligramas). Referida custódia foi convertida em prisão preventiva. (eDOC 9, p. 65-69)
+    Irresignada, a defesa impetrou o HC 2049980-52.2018.8.26.0000 no Tribunal de Justiça do Estado de São Paulo requerendo a revogação da custódia cautelar. A Corte estadual indeferiu o pedido de liminar. (eDOC 4)
+    Daí a impetração do citado HC 443.427/SP no STJ, que indeferiu liminarmente o pedido. (eDOC 6)
+    Nestes autos, a defesa reitera as alegações pretéritas e enfatiza a tese de carência de fundamentação idônea do decreto da prisão preventiva do paciente, porquanto baseada em motivação genérica, reputando ausentes os requisitos autorizadores da medida, previstos no art. 312 do CPP.
+    Sustenta que o paciente é tecnicamente primário, foi apreendido pequena quantidade de droga (10.2 gramas de cocaína), exerce atividade lícita de entregador/servente de pedreiro e evidencia-se a desproporcionalidade da medida extrema que é a custódia cautelar, mormente quando inexistem outros elementos. (eDOC 1, p. 11)
+    Nestes autos, pugna o impetrante o afastamento da Súmula 691/STF para que, liminarmente e no mérito, seja revogado o decreto de prisão e expedido alvará de soltura, com ou sem aplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+    É o relatório.
+    Decido.
+    Observa-se que a decisão impugnada limitou-se a indeferir liminarmente o habeas corpus sem que houvesse o exame das matérias suscitadas. (eDOC 6)
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou inexistindo prévia manifestação das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC 131.320-AgR/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, DJe 3.3.2017 e HC 139.829/SP, Rel. Min. Dias Toffoli, DJe 6.3.2017.
+    Além disso, cumpre destacar a ausência de interposição de agravo regimental contra a referida decisão monocrática do STJ até a presente data. Aliás, no que se refere ao tema, tenho-me posicionado, na Segunda Turma, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se manifestou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, DJe 13.2.2014 e HC 114.087/SP, Rel. Min. Teori Zavascki, DJe 2.10.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, previsto no art. 102, inciso II, alínea “a”, da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011 e RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação dos entendimentos jurisprudenciais trazidos à baila pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste habeas corpus.
+    Ademais, importante destacar os precedentes desta Corte no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta dos crimes e em virtude do fundado receio de reiteração delitiva (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; AgR no HC 125.290/MG, rel. min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. min. Teori Zavascki, Segunda Turma, DJe 29.5.2014 e HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015).
+    Dessarte, não vislumbro constrangimento ilegal manifesto a justificar o excepcional conhecimento deste habeas corpus. Daí, o acerto da decisão vergastada.
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente habeas corpus.
+    Ante o exposto, nego seguimento ao presente habeas corpus, por ser manifestamente incabível (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
