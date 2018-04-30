@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE SÃO PAULO contra decisão do Tribunal de Justiça do Estado de São Paulo, a qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 178):
+APELAÇÃO - Execução fiscal - Multa administrativa (postura em geral) - Vencimento no exercício de 1997 - Dívida não tributária - Aplicação do Decreto nº 20.910/32 - Interrupção do prazo prescricional, de acordo com o artigo 8o, § 2o da Lei 6.830/80 - Prescrição intercorrente consumada - Honorários Advocatícios - Possibilidade - Extinção da ação executiva após a propositura da exceção de pré-executividade - Princípios da causalidade e sucumbência - Redução da verba honorária - Possibilidade - Aplicabilidade do artigo 20, parágrafos 3o e 4o do Código de Processo Civil - Recurso parcialmente provido. REEXAME NECESSÁRIO - Não conhecido - Valor da execução inferior ao limite do § 2o do artigo 475 do CPC.
+Os embargos de declaração opostos foram rejeitados.
+No especial obstaculizado, o ora agravante sustentou que é inaplicável o Decreto n. 20.910/1932 à hipótese, devendo ser afastada a prescrição da pretensão fazendária.
+Após contrarrazões, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem ao entendimento de que a revisão do julgado demandaria novo exame fático-probatório (Súmula 7 do STJ).
+Em sua irresignação, o agravante infirma a decisão agravada e, no mais, reitera os argumentos articulados no recurso especial.
+Contraminuta apresentada.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado n. 2).
+Isso considerado, verifico que a parte recorrente não indicou o dispositivo de lei federal supostamente violado capaz de amparar o direito alegado, limitando-se a sustentar, genericamente, a inaplicabilidade do Decreto indicado, esbarrando, dessa forma, na Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO QUE DISCUTE A ESTRUTURAÇÃO DE CARGOS DE PROVIMENTO EM COMISSÃO AFETOS À CÂMARA MUNICIPAL DE CARIACICA/ES. RECURSO ESPECIAL QUE NÃO INDICOU OS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284 DO STF. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL POR ESTA CORTE SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO REGIMENTAL DO MUNICÍPIO DE CARIACICA DESPROVIDO.
+1. É pacífica a jurisprudência desta Corte Superior de que a interposição do Recurso Especial tanto pela alínea a quanto pela alínea c exige a indicação expressa do dispositivo de lei federal ao qual o Tribunal de origem teria negado vigência ou dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso dos autos, importa deficiência de fundamentação, atraindo a incidência do contido na Súmula 284 do STF.
+2. Ademais, a competência do STJ restringe-se à interpretação e uniformização do Direito infraconstitucional não sendo possível o exame de violação a dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Agravo Regimental do MUNICÍPIO DE CARIACICA/ES desprovido.
+(AgRg no AREsp 372.647/ES, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 17/03/2016). (Grifos acrescidos).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Sem honorários advocatícios recursais (art. 85, §11, do CPC /2015), em razão do disposto no Enunciado n. 7 do STJ).
+Publique-se. Intimem-se.
