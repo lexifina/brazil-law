@@ -1,0 +1,9 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO E ADMINISTRATIVO. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÃO PREVIDENCIÁRIA. POLICIAL MILITAR REFORMADO. INCIDÊNCIA DO REGIME PREVIDENCIÁRIO DOS SERVIDORES PÚBLICOS (ARTIGO 40 DA CONSTITUIÇÃO). TEMA 160. RE 596.701. IMUNIDADE DA CONTRIBUIÇÃO PREVIDENCIÁRIA NA HIPÓTESE DE BENEFICIÁRIO PORTADOR DE DOENÇA INCAPACITANTE. APLICABILIDADE DO ARTIGO 40, § 21, DA CONSTITUIÇÃO. EFICÁCIA DA NORMA. TEMA 317. RE 630.137. MATÉRIAS SUBMETIDAS AO REGIME DA REPERCUSSÃO GERAL. REGIME DE ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA FAZENDA PÚBLICA. ARTIGO 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. CONTROVÉRSIA RELATIVA À MODULAÇÃO TEMPORAL DOS EFEITOS DO ACÓRDÃO PROFERIDO NO JULGAMENTO DO RE 870.947. TEMA 810 DA REPERCUSSÃO GERAL. PENDÊNCIA DO JULGAMENTO DE EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DO FEITO À ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: As matérias versadas no recurso extraordinário foram submetidas por esta Corte ao regime da repercussão geral (Tema 160, RE 596.701, Rel. Min. Edson Fachin; e Tema 317, RE 630.137, Rel. Min. Roberto Barroso).
+    Verifica-se, ademais, que a matéria relativa à modulação dos efeitos do acórdão proferido no julgamento do RE 870.947 encontra-se pendente de julgamento em embargos de declaração (Tema 810, RE 870.947-ED, Rel. Min. Luiz Fux).
+    Ex positis, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO do feito à origem para aplicação dos Temas 160 e 317 da repercussão geral e, quanto ao Tema 810, para aguardar o julgamento dos referidos embargos e efetuar eventual adequação do julgado.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
