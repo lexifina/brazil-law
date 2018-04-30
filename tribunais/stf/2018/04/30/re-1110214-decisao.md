@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto em face do acórdão da Turma Recursal do Tribunal Regional Federal da 4ª Região que confirmou o entendimento do juízo de origem e julgou improcedente o pedido de revisão de benefício com base no RE 583.834/SC (pág. 3 do doc. eletrônico 30).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 1°, III, da mesma Carta. Sustentou-se o direito ao cômputo do tempo de contribuição, ainda que não intercalados com períodos de atividade, com base na legislação de regência, sob pena de violação ao princípio da dignidade da pessoa humana (pág. 3 do doc. Eletrônico 30).
+    A pretensão recursal não merece acolhida.
+    Quanto à impugnação do fundamento do acórdão recorrido referente à aplicação do entendimento firmado pelo Supremo Tribunal Federal no RE 583.834-RG (Tema 088 da repercussão geral), observo que não é cabível recurso contra decisão que aplica a sistemática da repercussão geral. Nesse sentido, cito o seguinte julgado do Plenário desta Corte:
+    “EMENTA: CONSTITUCIONAL E PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. DECISÃO DENEGATÓRIA DE SEGUIMENTO. AUSÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA RECONHECIDA. NÃO CABIMENTO DE RECURSO OU RECLAMAÇÃO PARA O STF. 1. O Plenário desta Corte firmou o entendimento de que não cabe recurso ou reclamação ao Supremo Tribunal Federal para rever decisão do Tribunal de origem que aplica a sistemática da repercussão geral, a menos que haja negativa motivada do juiz em se retratar para seguir a decisão da Suprema Corte. Precedentes. 2. Agravo regimental a que se nega provimento”(Rcl 13.508-AgR/DF, Rel. Min. Teori Zavascki).
+    No mesmo sentido, cito os seguintes precedentes desta Corte: Rcl 21.249/SP, Rel. Min. Rosa Weber; Rcl 23.593/SP, Rel. Min. Gilmar Mendes; e Rcl 23.616/ES, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro em 10% os honorários advocatícios anteriormente fixados pelo juízo de origem, observados os limites dos § 2º e § 3º do aludido artigo, suspensos seus efeitos em razão da concessão da gratuidade de justiça.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
