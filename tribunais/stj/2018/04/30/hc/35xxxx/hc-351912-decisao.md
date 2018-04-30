@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (HC n. 0157139-50.2015.8.24.00000).
+Depreende-se dos autos que o paciente foi denunciado em razão da suposta prática dos delitos tipificados no art. 155, § 4º, IV, c/c o art. 14, II, e no art. 307, na forma do art. 69, todos do Código Penal (e-STJ fls. 55/57).
+Recebida a denúncia, o réu foi citado para apresentar resposta à acusação.
+Irresignada, a defesa impetrou habeas corpus na origem, argumentando ausência de fundamentação da decisão que recebeu a denúncia, e a Terceira Câmara Criminal do Tribunal de Justiça do Estado de Santa Catarina denegou a ordem.
+Recebeu o acórdão esta ementa (e-STJ fl. 115):
+HABEAS CORPUS. CRIME CONTRA O PATRIMÔNIO. FURTO QUALIFICADO. ALEGADO CONSTRANGIMENTO ILEGAL POR AUSÊNCIA DE FUNDAMENTAÇÃO NO RECEBIMENTO DA DENÚNCIA. ATO JUDICIAL QUE REALMENTE POSSUI NATUREZA JURÍDICA DE DECISÃO INTERLOCUTÓRIA SIMPLES, MAS QUE NÃO SE QUALIFICA, NEM SE EQUIPARA, A ATO DE CARÁTER DECISÓRIO PARA OS FINS A QUE SE REMETE O ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL, SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE. CONSTRANGIMENTO NÃO EVIDENCIADO. WRIT CONHECIDO E ORDEM DENEGADA.
+No Superior Tribunal de Justiça, a Defensoria Pública do Estado de Santa Catarina aponta constrangimento ilegal decorrente da ausência de fundamentação idônea da decisão que recebeu a denúncia. Sustenta que não merece prosperar o entendimento do Tribunal a quo de que referida decisão não precisa de motivação, e alega ofensa ao art. 93, IX, da Constituição Federal.
+Diante disso, requer, a declaração de ilegalidade da decisão proferida pelo Tribunal de origem, com a nulidade do feito a partir da decisão que recebeu a denúncia.
+O pedido liminar foi indeferido (e-STJ fls. 129/130).
+Prestadas as informações (e-STJ fls. 144/172), os autos foram encaminhados ao Ministério Público Federal, que se manifestou pela denegação da ordem (e-STJ fls. 142/143).
+Eis a ementa do parecer:
+HABEAS CORPUS. Furto qualificado. Alegação de carência de fundamentação. Decisum devidamente fundamentado.
+I - Decisão proferida de forma sucinta não pode ser qualificada como não fundamentada. (Precedentes).
+II - Parecer pela denegação da ordem.
+É o relatório.
+Em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que já houve prolação de sentença na ação penal em comento, e que o paciente e o corréu foram absolvidos com fundamento no art. 386, VII, do Código de Processo Penal, nos seguintes termos:
+Aberta a audiência, presente o réu [NOME], como a suspensão do processo foi revogada e o réu será assistido pela Defensoria Pública, a Defesa apresentou resposta à acusação oral, no seguintes termos: "Em relação ao réu repisa-se o item 3 da resposta à acusação já apresentada em favor do correu às fls. 70/73, da mesma forma como os pedidos no item 4, arrolando as mesmas testemunhas arroladas pela acusação." Mantenho o recebimento da denúncia pelos mesmos fundamentos da decisão. Portanto, a ação penal prosseguirá em relação aos dois réus. Foram ouvidas três testemunhas, com a desistência das demais, o réu [NOME] foi interrogado. Foi decretada a revelia do réu Rafael. Não havendo diligências, o Ministério Público apresentou alegações finais, requerendo a absolvição dos réus, com fundamento no art. 386, VII, do CPP, ante a falta de prova judicial acerca da autoria. A Defesa ratificou o pedido de absolvição e acrescentou a absolvição pelo princípio da insignificância. Em seguida foi proferida a seguinte sentença: Vistos, etc. Acolho a argumentação das partes, posto que em juízo não foram produzida prova suficiente da autoria, razão pela qual julgo improcedente a denúncia para absolver ambos os réus, com fundamento no art. 386, VIII, do CPP. Pública em audiência. Registre-se. Intimados os presentes. Não havendo bens apreendidos, arquivem-se.
+Nessas circunstâncias, havendo a superveniência de sentença, o pedido de nulidade ficou prejudicado, já que não persiste o interesse de agir.
+Tal o contexto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
