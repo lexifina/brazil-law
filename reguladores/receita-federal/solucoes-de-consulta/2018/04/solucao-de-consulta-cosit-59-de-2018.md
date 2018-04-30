@@ -1,0 +1,4 @@
+Solução de Consulta Cosit nº 59, de 29 de março de 2018
+ASSUNTO: NORMAS DE ADMINISTRAÇÃO TRIBUTÁRIA EMENTA: REGIME ESPECIAL DE TRIBUTAÇÃO. PMCMV. VALOR COMERCIAL. Para fins de enquadramento de projeto de incorporação de imóveis residenciais como de interesse social, deve-se considerar como valor das unidades imobiliárias a que se refere o § 7º do art. 4º da Lei nº 10.931, de 2004, o valor comercial, assim definido como o preço de venda do imóvel. Na eventualidade de alguma unidade ser alienada por valor superior ao limite estabelecido, a totalidade das receitas decorrentes do empreendimento imobiliário abrangido pelo RET será tributada mediante aplicação do percentual de 4% (quatro por cento). Dispositivos Legais: Lei nº 10.931, de 2004, art. 4º, caput e §§ 6º e 7º.
+.
+[arquivo anexo: SC Cosit nº 59-2018.pdf]
