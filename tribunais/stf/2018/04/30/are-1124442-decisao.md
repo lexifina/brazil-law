@@ -1,0 +1,22 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto contra acórdão que, proferido pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “APELAÇÃO – Pensão por morte – Pretensão à manutenção do benefício até os 24 anos ou o término de curso superior – Impossibilidade – Morte do servidor público ocorrida em 2009, aplicando-se a legislação vigente à época do óbito – Inteligência da Súmula nº 340 do Superior Tribunal de Justiça – Lei Complementar Estadual nº 1.012/07 e Lei nº 8.213/91 que prevêem, como regra geral, a cessação do benefício aos 21 anos de idade – Falta de amparo legal ao pedido – Sentença reformada – Recurso provido.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa, caso existente, também apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal (Lei nº 8.213/91). Não se tratando, pois, de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o acesso à via recursal extraordinária.
+    Cabe assinalar, ainda, que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incide, na espécie, o enunciado constante da Súmula 280/STF, que assim dispõe:
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que a questão ora em exame foi decidida com base no direito local (Leis Complementares estaduais ns. 180/78 e 1.012/2007), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o E. Tribunal de Justiça do Estado de São Paulo, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal e em interpretação de direito local:
+    “Conforme já relatado, o Apelado é pensionista de servidor público estadual falecido em 2009, e, à época da propositura da ação, se encontrava com 20 anos de idade, na iminência de ter seu benefício interrompido, razão pela qual requereu sua manutenção até os 24 anos ou até que completasse curso universitário.
+    Inicialmente, cumpre destacar que a legislação previdenciária que rege o benefício de pensão por morte se submete ao princípio do ‘tempus regit actum’, tendo o Superior Tribunal de Justiça consolidado este entendimento na Súmula nº 340: ‘A lei aplicável à concessão de pensão previdenciária por morte é aquela vigente na data do óbito do segurado’.
+    Tendo o segurado falecido em 2009, aplica-se ao caso as disposições da Lei Complementar Estadual nº 1.012/07, que alterou o art. 147, inciso III, da Lei Complementar Estadual nº 180/78, assim dispondo:
+    …...................................................................................................
+    Verifica-se que a lei expressamente se referiu à legislação federal que rege o Regime Geral de Previdência Social quando tratou do limite de idade para o recebimento da pensão por morte. Neste caso, deve-se analisar o art. 77, § 2º, inciso II, da Lei nº 8.213/91:
+    …...................................................................................................
+    Desta forma, não há dúvida de que à época do falecimento do servidor, a legislação não mais previa a manutenção do benefício até os 25 anos caso o pensionista estivesse frequentando curso superior, devendo cessar quando este atingir os 21 anos de idade.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
