@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. ANTECIPAÇÃO DA TUTELA. RESTABELECIMENTO DE PENSÃO. JULGAMENTO PELO SEGUNDO GRAU. POSTERIOR REVOGAÇÃO DA LIMINAR. DEVOLUÇÃO DE VALORES. PERCEPÇÃO POR MAIS DE CINCO ANOS. PRINCÍPIOS DA SEGURANÇA JURÍDICA E DA CONFIANÇA.
+Ainda que sejam reversíveis as concessões de liminares antecipatórias e, com isso, saber beneficiário da submissão a devolver o que assim recebido, tal como assentado na jurisprudência do Superior Tribunal de Justiça, o caso dos autos atrai circunstâncias peculiares, que levam a que se reconheça, até em termos objetivos, boa -fé de quem passou a perceber a pensão primeiro por liminar, depois por decisão final, em termos de segundo grau, durante mais de cinco anos.
+As mesmas razões que levam a que se reconheça a decadência (ou prescrição) administrativa quanto a vantagens assim percebidas por cinco anos ou mais, justificam, por sobradas razões, que tal se leve em consideração quando a ordem de pagamento emana de decisão judicial, a partir de determinado momento não mais antecipatória.
+Os Embargos de Declaração foram rejeitados (fl. 230, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação dos arts. 927, parágrafo único, 302, 520, I e II, e 1.022 do CPC/2015; 884 e 885 do Código Civil. Alega:
+O acórdão recorrido deu provimento ao presente agravo de instrumento, isentando a ora recorrida à ressarcir o IPERGS dos danos advindos da tutela antecipada que restou revogada, em face da extinção da ação por ilegitimidade passiva, já com trânsito em julgado.
+A decisão recorrida entendeu ser irrepetível a quantia auferida, em face dos princípios da segurança jurídica e da confiança.
+O referido entendimento não pode ser mantido!
+Com efeito, revogada a antecipação dos efeitos da tutela, todos os valores recebidos pela autora, ora recorrida, em face da medida precária, devem ser devolvidos, em obediência ao disposto nos artigos 273, §3º, c/c artigo 475-0, I, (588, incisos 1 e II), do CPC/1973, vigente da época da concessão da medida e do trânsito da decisão que julgou a ação ordinária. Aludidos dispositivos, tem redação equivalente nos arts. 297, parágrafo único, 302, I, e 520, I e II, do CPC/2015, vigente quando da decisão do juízo a quo, determinando a restituição dos valores, dando ensejo ao recurso de agravo em questão.
+O recurso foi inadmitido na origem. Para melhor análise da controvérsia, foi dado provimento ao Agravo para determinar sua conversão em Recurso Especial.
+O MPF opinou pelo parcial provimento ao recurso em parecer assim ementado:
+DIREITO PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL.
+ALEGADA VIOLAÇÃO AOS ARTS. 489, II E § 1º, E 1.022, II E PARÁGRAFO ÚNICO, II, DO NCPC.
+DECISÃO FUNDAMENTADA. INEXISTÊNCIA DE OMISSÃO. ANTECIPAÇÃO DE TUTELA.
+CASSAÇÃO. DEVER DE RESTITUIR AS COISAS AO ESTADO ANTERIOR. ARTS. 273, §§ 2º E 3º, C/C 588, III, DO CPC/1973, CORRESPONDENTES AOS ARTS. 300, § 3º, E 302, I, DO CPC/2015. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA N.
+1.401.560/MT. PARECER PELO PARCIAL PROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.2.2018.
+Inicialmente, constata-se que não se configura a ofensa ao art. 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. (..) ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIOS INEXISTENTES. MERO INCONFORMISMO. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS, TIDOS POR VIOLADOS. IMPOSSIBILIDADE, NA VIA ESPECIAL, PELO STJ. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+(..)
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material _ seja à luz do art. 535 do CPC/73 ou do art. 1.022 do CPC vigente _, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+(..)
+V. Embargos de Declaração rejeitados.
+(EDcl nos EDcl no REsp 1334203/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24.6.2016)
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido:
+Ou seja, a agravante percebeu a pensão durante mais de cinco anos, lapso considerável em termos de gerar confiança e, mais, estabelecer inerente acomodação à situação financeira assim gerada, consolidada com o aspecto temporal, e, cuja quebra, pois, representa violação à segurança jurídica.
+Como também há de se destacar, em termos de confiança e segurança jurídica, ter o pensionamento, fiado na verossimilhança da antecipação de tutela, rumado para concessão em juízo de certeza, a contar de 29.04.2014, pela decisão monocrática lançada na AC n.º [CPF], MARIA ISABEL DE AZEVEDO SOUZA, fls. 107 a 113, e, depois, colegiada, Agravo n.º [CPF], mesma relatora, fls. 114 a 123.
+Se é certo assentar orientação do Superior Tribunal de Justiça em negar boa -fé objetiva a quem percebe vantagens com base em liminar antecipatória e, até, depois, por sentença que a confirme (é a hipótese do REsp n.º 1.401.560/MT, julgado em sede repetitiva), porém, quando se está diante de lapso de tempo superior a cinco anos e emanar decisão do próprio segundo grau, penso que já assim não se pode falar.
+Lembrando que boa fé, segurança jurídica e proteção à confiança não são conceitos intercambiáveis ou expressões sinônimas, enfatiza ALMIRO DO COUTO E SILVA, quanto ao último, a tutela que se confere à crença legitimamente gerada nos beneficiários, administrados ou na sociedade em geral, relativamente a atos que bem se apresentam como legítimos CO Princípio da Segurança Jurídica (Proteção à Confiança) no Direito Público Brasileiro e o Direito da Administração Pública de Anular seus Próprios Atos Administrativos: o Prazo Decadencial do art. 54 da Lei do Processo Administrativo da União (Lei nº 9.784/99)", in Revista da PGE, 27, p. 36 a 37.
+Como se sabe, a Lei n.º 9.784/99 e seu artigo 54 corresponde a elogiável evolução do pensamento jurídico, consolidando compreensão doutrinária e jurisprudencial visando harmonizar princípio da legalidade e princípio da segurança jurídica lato sensu, colocados ambos no mesmo patamar:
+(..)
+Dispositivo este que supõe a boa fé dos destinatários, especialmente que não tenham contribuído para a prática do ato administrativo ilegal (idem, idem, p. 66).
+A construção doutrinário-jurisprudencial e, depois, solução legislativa, quanto à seara administrativa, especialmente no que tange ao lapso quinquenal, que passa a ter referência normativa para sua adoção, e a coagulação de um padrão de conduta, bem se pode transportar a atos da esfera jurisdicional e por sobradas razões.
+Ora, submeter os efeitos de decisão judicial que se protraiam no tempo, criando realidade financeira praticamente consolidada, a posterior retroação ao que adiante vier a ser decidido, implica ignorar a confiança legítima da parte beneficiária, notadamente quando, a partir de determinado momento, não mais emanados de decisão impregnada de provisoriedade.
+Em suma, penso que, objetivamente - preocupação que sempre tenho -, podem ser estabelecidos critérios em casos envolvendo percepção de benefícios por força de liminar, sentença ou acórdão (emanado de competência recursal), com a distinção relativa ao juízo de verossimilhança ou certeza que impregna a tais decisões, especialmente, quanto às últimas, uma vez consolidadas no tempo, para tal sendo marco o prazo de cinco anos.
+Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual merece prosperar a irresignação.
+A Primeira Seção, no julgamento do Recurso Especial Representativo da Controvérsia 1.401.560/MT, definiu que é legítima a restituição de valores percebidos pelo segurado, em virtude do cumprimento de decisão judicial precária posteriormente revogada, independentemente da natureza alimentar da verba e da boa-fé do beneficiário.
+Segue ementa do referido julgado:
+PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. ANTECIPAÇÃO DE TUTELA. REVERSIBILIDADE DA DECISÃO.
+O grande número de ações, e a demora que disso resultou para a prestação jurisdicional, levou o legislador a antecipar a tutela judicial naqueles casos em que, desde logo, houvesse, a partir dos fatos conhecidos, uma grande verossimilhança no direito alegado pelo autor. O pressuposto básico do instituto é a reversibilidade da decisão judicial. Havendo perigo de irreversibilidade, não há tutela antecipada (CPC, art. 273, § 2º). Por isso, quando o juiz antecipa a tutela, está anunciando que seu decisum não é irreversível. Mal sucedida a demanda, o autor da ação responde pelo recebeu indevidamente. O argumento de que ele confiou no juiz ignora o fato de que a parte, no processo, está representada por advogado, o qual sabe que a antecipação de tutela tem natureza precária.
+Para essa solução, há ainda o reforço do direito material. Um dos princípios gerais do direito é o de que não pode haver enriquecimento sem causa. Sendo um princípio geral, ele se aplica ao direito público, e com maior razão neste caso porque o lesado é o patrimônio público. O art. 115, II, da Lei nº 8.213, de 1991, é expresso no sentido de que os benefícios previdenciários pagos indevidamente estão sujeitos à repetição. Uma decisão do Superior Tribunal de Justiça que viesse a desconsiderá-lo estaria, por via transversa, deixando de aplicar norma legal que, a contrario sensu, o Supremo Tribunal Federal declarou constitucional. Com efeito, o art. 115, II, da Lei nº 8.213, de 1991, exige o que o art. 130, parágrafo único na redação originária (declarado inconstitucional pelo Supremo Tribunal Federal - ADI 675) dispensava.
+Orientação a ser seguida nos termos do art. 543-C do Código de Processo Civil: a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos.
+Recurso especial conhecido e provido.
+(REsp 1401560/MT, Rel. Ministro SÉRGIO KUKINA, Rel. p/ Acórdão Ministro ARI PARGENDLER, PRIMEIRA SEÇÃO, julgado em 12/02/2014, DJe 13/10/2015)
+A Corte Especial fixou, alinhada com o julgamento precitado da Primeira Seção, que, nas hipóteses em que a antecipação de tutela é confirmada pela primeira e segunda instância, é presumida a boa-fé do receptor da verba alimentar, não obstante a revogação da medida nas instâncias especial ou extraordinária, o que não é o caso dos presentes autos.
+Nessa linha:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SENTENÇA QUE DETERMINA O RESTABELECIMENTO DE PENSÃO POR MORTE. CONFIRMAÇÃO PELO TRIBUNAL DE ORIGEM. DECISÃO REFORMADA NO JULGAMENTO DO RECURSO ESPECIAL. DEVOLUÇÃO DOS VALORES RECEBIDOS DE BOA-FÉ. IMPOSSIBILIDADE. PRECEDENTES DO STJ.
+1. A dupla conformidade entre a sentença e o acórdão gera a estabilização da decisão de primeira instância, de sorte que, de um lado, limita a possibilidade de recurso do vencido, tornando estável a relação jurídica submetida a julgamento; e, de outro, cria no vencedor a legítima expectativa de que é titular do direito reconhecido na sentença e confirmado pelo Tribunal de segunda instância.
+2. Essa expectativa legítima de titularidade do direito, advinda de ordem judicial com força definitiva, é suficiente para caracterizar a boa-fé exigida de quem recebe a verba de natureza alimentar posteriormente cassada, porque, no mínimo, confia - e, de fato, deve confiar - no acerto do duplo julgamento.
+3. Por meio da edição da súm. 34/AGU, a própria União reconhece a irrepetibilidade da verba recebida de boa-fé, por servidor público, em virtude de interpretação errônea ou inadequada da Lei pela Administração. Desse modo, e com maior razão, assim também deve ser entendido na hipótese em que o restabelecimento do benefício previdenciário dá-se por ordem judicial posteriormente reformada.
+4. Na hipótese, impor ao embargado a obrigação de devolver a verba que por anos recebeu de boa-fé, em virtude de ordem judicial com força definitiva, não se mostra razoável, na medida em que, justamente pela natureza alimentar do benefício então restabelecido, pressupõe-se que os valores correspondentes foram por ele utilizados para a manutenção da própria subsistência e de sua família.
+Assim, a ordem de restituição de tudo o que foi recebido, seguida à perda do respectivo benefício, fere a dignidade da pessoa humana e abala a confiança que se espera haver dos jurisdicionados nas decisões judiciais.
+5. Embargos de divergência no recurso especial conhecidos e desprovidos.
+(EREsp 1086154/RS, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 19/03/2014).
+Nesse sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. TUTELA ANTECIPADA. REVOGAÇÃO.
+DEVOLUÇÃO DOS VALORES PAGOS EM RAZÃO DA MEDIDA ANTECIPATÓRIA.
+POSSIBILIDADE. RESP 1.401.560/MT, REPRESENTATIVO DA CONTROVÉRSIA. I - A Primeira Seção desta Corte, em sede de recurso representativo da controvérsia, ao apreciar o mérito do REsp n. 1.401.560/MT, definiu que "a reforma da decisão que antecipa a tutela obriga o autor da ação a devolver os benefícios previdenciários indevidamente recebidos".
+II - A Corte Especial fixou, alinhada com o julgamento precitado da Primeira Seção, que, nas hipóteses em que a antecipação de tutela é confirmada pela primeira e segunda instância, é presumida a boa-fé do receptor da verba alimentar, não obstante a revogação da medida nas instâncias especial ou extraordinária, o que não é o caso dos presentes autos. A propósito: EREsp 1.086.154/RS, Rel. Ministra Nancy Andrighi, Corte Especial, DJe 19.3.2014.
+III - Agravo interno improvido.
+(AgInt no REsp 1659472/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 24/10/2017, DJe União
+O acórdão combatido diverge da jurisprudência do STJ na medida em que decidiu que não é repetível o valor de benefícios previdenciários pagos por força de tutela antecipada posteriormente revogada.
+Por tudo isso, parcial provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
