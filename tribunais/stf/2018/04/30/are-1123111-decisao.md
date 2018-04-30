@@ -1,0 +1,17 @@
+Trata-se de agravo em recurso extraordinário interposto contra acórdão do Tribunal Regional da 4ª Região – TRF4, assim ementado:
+    “AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. GRATIFICAÇÃO POR ATIVIDADE DE SEGURANÇA. FUNÇÃO COMISSIONADA. CUMULAÇÃO. ART. 17, § 2º, DA LEI 11.416/06. VEDAÇÃO.
+    Considerando a expressa vedação legal (art. 17, § 2º, da Lei 11.416/2006), não há possibilidade de reconhecer o direito ao pagamento cumulativo da Gratificação de Atividade de Segurança com a função comissionada de Supervisor da Seção de Segurança Operacional (FC-05). Inexistindo fundamentos hábeis a alterar a decisão monocrática, o agravo deve ser improvido” (pág. 198 do documento eletrônico 1).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, ofensa aos arts. 37, XV; 39, § 1°, da Constituição Federal.
+    Aduz o recorrente que o acórdão ora combatido não deu a correta interpretação ao art. 17, § 2° da Lei 11.416/2006 e por isso incorreu em violação ao texto constitucional.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Tribunal de origem decidiu a questão posta nos autos com fundamento em legislação infraconstitucional (Lei 11.416/2006) e analisar a eventual pretensão do recorrente demandaria o reexame, por este Tribunal, da interpretação dada à norma pelo Juízo a quo, o que é inviável pela via do extraordinário. Suposta contrariedade se daria de forma meramente reflexa.
+    Ademais, para se chegar a conclusão contrária à adotada no aresto combatido, seria necessário a reanálise do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 desta Corte.
+    Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ATIVIDADE DE SEGURANÇA. CUMULAÇÃO COM FUNÇÃO COMISSIONADA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279 DO STF. CONCESSÃO DE VANTAGEM COM FUNDAMENTO NO PRINCÍPIO CONSTITUCIONAL DA ISONOMIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 339 DO SUPREMO TRIBUNAL FEDERAL, RECENTEMENTE TRANSFORMADA NA SÚMULA VINCULANTE 37. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STF. AGRAVO DESPROVIDO” (ARE 863.386/RS, Rel. Min. Luiz Fux).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. GRATIFICAÇÃO DE ATIVIDADE DE SEGURANÇA - GAS. FUNÇÃO COMISSIONADA. DEBATE SOBRE A POSSIBILIDADE DE ACUMULAÇÃO. VEDAÇÃO EXPRESSA NA LEI 11.416/2006. NECESSIDADE DE REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO.
+    1. O exame da questão referente à possibilidade, ou não, de acumulação da Gratificação de Atividade de Segurança com Função Comissionada depende da apreciação da legislação infraconstitucional que serviu de base ao acórdão recorrido. Eventual ofensa à Constituição Federal seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, observado o disposto no § 5º do mesmo dispositivo, bem como o § 3º do art. 98 do CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente, devendo ser observados os §§ 2º e 3º do mesmo dispositivo” (ARE 1.014.769-AgR/RJ, Rel. Min. Edson Fachin).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1° do RISTF).
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Ricardo Lewandowski
+Relator
