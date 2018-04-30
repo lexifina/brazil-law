@@ -1,0 +1,16 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 284 do STF.
+O apelo nobre obstado enfrenta acórdão assim ementado (fl. 167):
+APELAÇÕES - Ações ordinárias conexas - Empresa locadora de veículos - Nulidade de autuações de trânsito - Transporte coletivo de passageiros sem autorização - Liberação do certificado de registro e licenciamento do veículo flagrado na fiscalização e abstenção de apreensão do documento, em fiscalizações futuras - Julgamento conjunto - Parcial procedência - Pretensão de reforma Impossibilidade - Competência da ARTESP para a fiscalização do transporte coletivo intermunicipal - Inteligência do Decreto n". 29.912/89 e da Lei Complementar nº 914/2012 - Fiscalização exercida correta e legalmente - Presunção de legitimidade e veracidade do ato administrativo não elidida, na hipótese - Impossibilidade, contudo, de retenção do documento do veículo - Ausência de previsão legal nesse sentido - Inadmissibilidade de se determinar a abstenção de apreensão do documento do veículo, em futuras fiscalizações - Vedação ao provimento condicional - Não provimento das apelacões.
+No recurso especial, o recorrente sustenta ofensa aos artigos artigos 107; 231, VIII, 262, §§ 1º e 2º, 269, II e § 2º e 274, III, todos do Código de Trânsito Brasileiro, ao argumento de que a apreensão da documentação do veículo da recorrida está prevista como penalidade na lei de trânsito, razão pela qual é legal.
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+A irresignação não comporta conhecimento.
+Compulsando-se as razões do acórdão recorrido, evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento no Decreto Estadual n. 29.912/1989 (art. 4, sobretudo), razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+Ademais, o recorrente, ao indicar ofensa aos artigos 107; 231, VIII, 262, §§ 1º e 2º, 269, II e § 2º e 274, III, do CTB e direcionar a sua tese no sentido de de que o referido codex permite a apreensão da documentação, deixou de impugnar os fundamentos do acórdão recorrido segundo os quais a apreensão não está elencada no supramencionada decreto como penalidade aplicável, e, ainda, que não é o caso de se aplicar a referida penalidade, com apoio no artigo 274, III, do CTB, pois não se pode confundir poder de polícia de trânsito com poder de polícia do transporte coletivo.
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
