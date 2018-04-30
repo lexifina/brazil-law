@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO DE AÇÕES. BRASIL TELECOM. CARÊNCIA DE AÇÃO EM RELAÇÃO AOS DIVIDENDOS. Se a parte autora tem direito à subscrição de diferenças acionárias, faz jus também aos reflexos desta subscrição, com todos os desdobramentos posteriores, inclusive parcela referente aos dividendos e juros sobre capital próprio.
+PRESCRIÇÃO. Prazo vintenário. Nas demandas em que se discute o direito à complementação de ações em face do descumprimento de contrato de participação financeira firmado com sociedade anônima, a pretensão é de natureza pessoal e prescreve nos prazos previstos no artigo 177 do Código Civil revogado e artigos 205 e 2.028 do Novo Código Civil. Precedente do STJ.
+APLICABILIDADE DO ART. 359 DO CPC. Incidente à espécie o contido no artigo 359 do CPC, tendo em vista a inércia da parte ré em apresentar cópia do Relatório de Informações Cadastrais completo determinada no primeiro grau e ratificada por esta Instância em decorrência da interposição de agravo de instrumento em face de decisão interlocutória que estabeleceu a juntada.
+DIVIDENDOS E JUROS SOBRE CAPITAL PRÓPRIO. Faz jus a parte autora às referidas rubricas das ações não subscritas, como parcela do lucro líquido das empresas de telefonia móvel e fixa relativa a cada ação ou cota de ações formadora do seu capital, com correção pelo IGP-M desde quando devidos e com juros de mora de 1% ao mês desde a citação.
+CORREÇÃO MONETÁRIA. A correção monetária é devida a contar do momento em que convertida a obrigação em pecúnia, até o efetivo pagamento.
+HONORÁRIOS ADVOCATÍCIOS. Arbitrados na forma § 3%, do art. 20, do CPC" (fl. 257 e-STJ).
+A denegação se deu em virtude dos óbices das Súmulas nºs 7 e 83/STJ e 284/STF e ausência de negativa de prestação jurisdicional.
+Sustenta a parte agravante, além de dissídio jurisprudencial, violação dos arts. 9º, §7º da Lei nº 9.249/1995, 333, 1, 359, 535, I e II, e 269, IV do Código de Processo Civil de 1973, 1º, 5º, 12, 166, I e II, 170, §1º, 201, 202, §1º, 229, §5º, 287, III, "g", da Lei nº 6.404/1976 e 884 e 206, § 3º, do Código Civil. Alega:
+(i) negativa de prestação jurisdicional;
+(ii) é dever do autor apresentar as provas constitutivas de seu direito;
+(iii) impossibilidade de aplicar a presunção de veracidade;
+(iv) o prazo prescricional específico para o exercício da pretensão de reparação civil é de três anos; e
+(v) a impossibilidade de cumulação entre juros sobre capítal próprio e dividendos.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial, bem como a decisão de admissibilidade do recurso especial foram publicados na vigência do Código de Processo Civil de 1973 (Enunciado Administrativo nºs 2/STJ).
+O agravo não comporta conhecimento.
+De início, registra-se que a Corte Especial, apreciando Questão de Ordem no AG n.º 1.154.599/SP, da relatoria do Ministro César Ásfor Rocha (DJ de 12.05.2011), decidiu pelo não cabimento do agravo contra decisão que nega seguimento ao recurso especial, com base no art. 543-C, § 7º, inciso I, do CPC/1973, nos termos da seguinte ementa:
+"QUESTÃO DE ORDEM. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CABIMENTO. EXEGESE DOS ARTS. 543 E 544 DO CPC. AGRAVO NÃO CONHECIDO. - Não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com base no art. 543, § 7º, inciso I, do CPC. Agravo não conhecido".
+Nesse sentido, o seguinte precedente:
+"PROCESSUAL CIVIL. AGRAVO. LEI N. 12.322/2010. APLICAÇÃO. DATA DA PUBLICAÇÃO DA DECISÃO AGRAVADA. DECISÃO MONOCRÁTICA FUNDAMENTADA EM PRECEDENTE DA CORTE ESPECIAL. (..) 3. Ademais, recentemente a Corte Especial consagrou entendimento no sentido de não ser cabível agravo de instrumento contra a decisão que nega seguimento ao recurso especial lastreada no artigo 543-C, § 7º, inciso I, do CPC, pois o acórdão recorrido estaria no mesmo sentido daquele proferido em recurso representativo de controvérsia por este Superior Tribunal. 4. Precedente: QO no Ag 1.154.599-SP, Rel. Min. Cesar Asfor Rocha, julgada em 16.2.2011. 5. Agravo regimental não provido" (AgRg no AREsp 677/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/04/2011, DJe 15/04/2011).
+No mais, constata-se que não houve impugnação específica dos fundamentos da decisão agravada, atraindo, portanto, a aplicação do disposto no art. 932, III, do Código de Processo Civil de 2015, que faculta ao relator "não conhecer do recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Com efeito, é pacífico o entendimento desta Corte de que a parte agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE DO APELO NOBRE. IMPUGNAÇÃO ESPECÍFICA DOS SEUS FUNDAMENTOS. AUSÊNCIA. 1. A teor do disposto nos arts. 544, § 4º, I, do CPC/1973 e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, sejam eles autônomos ou não, mostrando-se inadmissível o agravo que não se insurge contra todos eles. 2. Hipótese em que a recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão agravada. 3. Agravo interno desprovido, com aplicação de verba honorária recursal, cuja exigibilidade, no entanto, ficará suspensa na forma do art. 98, § 3º, do CPC/2015" (AgInt no AREsp 944.917/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 20/10/2016, DJe 25/11/2016).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+Intimem-se.
