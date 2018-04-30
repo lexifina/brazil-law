@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “ALÍQUOTA ADICIONAL DE COFINS-IMPORTAÇÃO. LEI 10.865, DE 2004, ART. 8º, § 21. INCONSTITUCIONALIDADE. INEXISTÊNCIA. DIREITO DE CRÉDITO ADICIONAL E EQUIVALENTE. DESCABIMENTO.
+    1. É devida a cobrança da alíquota adicional da COFINS-importação, prevista no art. 8º, § 21, da Lei nº 10.865, de 2004, não se cogitando de inconstitucionalidade.
+    2. Não tem o contribuinte o direito de deduzir, no âmbito do regime não-cumulativo da COFINS, crédito adicional de 1%, equivalente à alíquota adicional de 1% da COFINS-importação prevista no art. 8º, § 21, da Lei nº 10.865, de 2004.” (eDOC 1, p. 178)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 150, II; e 195, § 12, do texto constitucional.
+    Nas razões recursais, alega-se que violaria os princípios da não cumulatividade e da isonomia a vedação ao creditamento do adicional da Cofins-Importação.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, verifico que o acórdão impugnado encontra-se em consonância com a jurisprudência desta Corte, que reconhece que a fixação de alíquota adicional de Cofins-Importação para determinados bens e a vedação à redução da base de cálculo pelo desconto do crédito proveniente do seu recolhimento não violam o art. 195, § 12, da Constituição Federal.
+     Ademais, como apontado pelo Min. Dias Toffoli em seu voto proferido no RE n. 559.937, DJe 17.10.2013, a majoração da alíquota da Cofins-Importação para certos bens objeto de importação não afronta, por si só, o princípio da isonomia, tratando-se, em verdade, de política tributária de extrafiscalidade plenamente justificável.
+    Confira-se, nesse sentido, o seguinte precedente:
+    “Agravo regimental no recurso extraordinário. Tributário. COFINS-Importação. Majoração da alíquota em 1%. Lei nº 12.715/2012. Lei Complementar. Desnecessidade. Princípio da Isonomia. Ausência de afronta. Orientação jurisprudencial consolidada no RE nº 559.937/RS, com repercussão geral reconhecida. 1. A instituição do adicional de 1% da COFINS-Importação, perpetrada pelo art. 8º, § 21, da Lei nº 10.865/2004, com a redação dada pelo art. 53 da Lei nº 12.715/2012, e direcionada a determinados setores da economia, prescindia de lei complementar, na esteira do que decidido no RE nº 559.937/RS, com repercussão geral reconhecida. É, portanto, plenamente constitucional a majoração da alíquota da contribuição por meio de lei ordinária. 2. A majoração da alíquota da COFINS-Importação para alguns produtos importados não caracteriza, por si só, violação do princípio da isonomia, tampouco afronta à norma do art. 195, § 9º, da Constituição. Possibilidade de tratamento diferenciado quando presente política tributária de extrafiscalidade devidamente justificada. 3. Agravo regimental não provido. Deixo de majorar os honorários advocatícios na forma do art. 85, § 11, do novo Código de Processo Civil, uma vez que não houve o arbitramento de honorários sucumbenciais pela Corte de origem.” (RE 969735 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 16.3.2017 – grifo nosso)
+    No mesmo sentido: RE n. 940.612, Rel. Min. Roberto Barroso, DJe 12.2.2016; RE n. 927.154, de minha relatoria, DJe 19.11.2015; RE n. 984.055, Rel. Min. Ricardo Lewandowski, DJe 10.5.2017.
+    Ante o exposto, nego seguimento ao recurso (art. 932, VIII, do CPC, c/c art. 21, §1º, do RISTF) e, tendo em vista tratar-se de mandado de segurança na origem, deixo de aplicar o disposto no § 11 do art. 85 do CPC, em virtude do art. 25 da Lei 12.016/2009.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
