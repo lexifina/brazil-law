@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo (art. 544 do CPC/73), interposto por BRASIL TELECOM S.A., contra a decisão de fls. 249/254, e-STJ, em que se negou seguimento ao recurso especial.
+O apelo extremo manejado com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafia acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fls. 136):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. BRASIL TELECOM S.A. AÇÃO ORDINÁRIA DE RESTITUIÇÃO DE VALORES POR FALTA DE EMISSÃO DE AÇÕES. CONTRATO.DE PARTICIPAÇÃO FINANCEIRA. OFERTA PÚBLICA ACEITA, TODAVIA, AUSENTE. PROVA DO PAGAMENTO. PRESCRIÇÃO. OCORRÊNCIA.
+O prazo de prescrição trienal previsto no artigo 287, II, "g", da Lei das Sociedades Anônimas, não se aplica quando a relação jurídica travada entre as partes é de natureza civil, objetivando o correto cumprimento do" contrato de participação financeira. Orientação do STJ e precedentes desta Corte.
+Igualmente inaplicável a prescrição trienal com fundamento no art. 206, § 3º, incisos IV e V do Código Civil, por se tratar de ação decorrente de descumprimento de relação obrigacional, situação, não relacionada no art. 206 do. Código Civil vigente, aplicando-se ao caso o prazo o prazo decenal do artigo 205 do C. Civil vigente ou o vintenário do artigo 177 do C. Civil de 1916, observado o disposto no artigo 2.028, atual Código Civil. Ação ajuizada após o transcurso do prazo decenal. Prescrição reconhecida.
+APELAÇÃO PROVIDA.
+Embargos de declaração opostos pela parte autora, às fls. 151/156, e-STJ, alegando-se que o prazo prescricional de 20 anos foi interrompido em razão do ajuizamento de ação cautelar, e acolhidos, com efeitos infringentes, nos seguintes termos:
+EMBARGOS DE DECLARAÇÃO. JULGAMENTO DE APELO QUE, RECONHECENDO A INCIDÊNCIA DA PRESCRIÇÃO, JULGOU PROCEDENTE O APELO. BRASIL TELECOM S.A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO ORDINÁRIA DE RESTITUIÇAO DE VALORES POR FALTA DE EMISSÃO DE AÇÕES. OFERTA PÚBLICA ACEITA, TODAVIA, AUSENTE PROVA DO PAGAMENTO. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INTERRUPÇÃO DA PRESCRIÇÃO.
+O ajuizamento de ação cautelar de exibição de documentos tem o condão de interromper o prazo prescricional da demanda ordinária. Precedentes desta Corte. Hipótese dos autos em que a parte autora ingressou com a ação cautelar em 11/04/2012, não havendo falar em extinção do processo com base no art. 269, IV, do CPC.
+Análise do recurso de apelação interposto pela ré.
+PRELIMINARES. PRESCRIÇÃO.
+Rejeitada a tese de prescrição, visto que a pretensão deduzida tem caráter indenizatório, a qual é regulada pelas disposições do direito civil reforçado pelo fato de que houve a interrupção do prazo prescricional com o ingresso da ação cautelar.
+Principio da Isonomia rejeitado.
+Restituição dos valores aportados: Não tendo a ré adimplido com sua obrigação de emitir ações, ou restituído o valor inicialmente investido, procede o pedido de rescisão contratual e devolução da quantia paga, corrigida, sob pena de injustificado enriquecimento da companhia. Não obstante na contestação ré tenha juntado aos autos o formulário de aceitação da oferta pública, os extratos bancários comprovam que não houve o referido depósito. Ônus que incumbia à Companhia demandada, com base no artigo 333,11, do CPC.
+JUROS DE MORA.
+Devidos em face do descumprimento da obrigação por parte da demandada. Inteligência do artigo 397 do epe.
+EMBARGOS DECLARATÓRIOS ACOLHIDOS COM EFEITOS INFRINGENTES. Acolhimento para, no apelo, afastar as preliminares de prescrição e de aplicação do principio da isonomia e, julgando o mérito, negar provimento.
+Novos aclaratórios opostos e rejeitados às fls. 207/213, e-STJ.
+Nas razões do recurso especial (fls. 218/235, e-STJ), aponta a insurgente ofensa aos arts. 206, § 3º, incisos IV e V, § 5º, inciso I, e 884 do Código Civil; 333, incisos I e II, do Código de Processo Civil de 1973.
+Defende, em suma: (a) o enriquecimento ilícito da parte autora, tendo em vista que o Tribunal a quo reconheceu o direito à restituição, inobstante terem as partes aceitado a oferta pública; (b) há documento juntado aos autos (RIC - Relatório de Informações Cadastrais) que comprova o número de ações subscritas aos recorridos, cabendo-lhes a prova do déficit alegado; (c) o prazo prescricional aplicado para esses casos - em que se pretende a restituição de valores -, na vigência do Código Civil de 1.916, se realiza em vinte anos (art. 177); mas, em apenas cinco anos, quando sob o patrocínio do Código Civil de 2002, nos termos do artigo 206, § 5º, inciso I, e (d) da prescrição trienal em caráter subsidiário.
+Diante da negativa de seguimento ao apelo extremo, interpôs a recorrente o respectivo agravo (art. 544 do CPC/73), em cujas razões refutou os óbices aplicados, pugnando pelo processamento de seu recurso especial.
+Contraminuta às fls. 293/300, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, consigne-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. O conteúdo normativo inserto no artigo 884 do Código Civil, não foi objeto de exame pelo acórdão recorrido, razão pela qual, incide, no ponto, o óbice inscrito na Súmula 211/STJ, ante a ausência de prequestionamento.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Confira-se, a propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. QUESTÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO. SÚMULA 211/STJ. ART. 557 DO CPC. EVENTUAL AFRONTA. AFASTAMENTO COM O JULGAMENTO PELO ÓRGÃO COLEGIADO. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Constata-se que o Tribunal de origem, apesar da oposição dos embargos declaratórios, não examinou a controvérsia sob enfoque do dispositivo apontado como violado, razão pela qual, à falta do necessário prequestionamento, a questão não merece ser conhecida. Caberia à recorrente, de acordo com a iterativa jurisprudência desta Corte, alegar, nas razões do apelo especial, violação ao artigo 535 do Código de Processo Civil, providência, todavia, da qual não se incumbiu. Correta, portanto, a aplicação da Súmula 211 do Superior Tribunal de Justiça.
+ Eventual ofensa ao art. 557 do Código de Processo Civil foi superada por ocasião do julgamento do agravo interno pelo órgão colegiado, o qual teve a oportunidade de reapreciar a irresignação da ora recorrente, confirmando, entretanto, a decisão tomada de forma monocrática.
+3. Para a configuração do dissídio jurisprudencial, faz-se necessária a indicação das circunstâncias que identifiquem as semelhanças entre o aresto recorrido e os paradigmas citados, nos termos dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ. Na hipótese, contudo, a agravante não procedeu ao devido cotejo analítico entre os arestos confrontados, de modo que não ficou caracterizada a sugerida divergência pretoriana.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 745.555/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/04/2013, DJe 24/05/2013)
+Outrossim, ressalte-se que sequer houve a alegação de ofensa ao art. 535 do CPC/73.
+3. Ademais, o Tribunal a quo, a partir da análise do substrato fático-probatório dos autos, consignou que houve a prova do fato constitutivo do direito dos autores, sendo que a parte ré não se desincumbiu do ônus de demonstrar as circunstâncias impeditivas, modificativas ou extintivas do alegado direito, isto é, não comprovou ter procedido à restituição dos valores investidos, nos seguintes termos:
+Os documentos colacionados aos autos demonstram ser a parte autora credora do valor investido, pois a Companhia teve aumento patrimonial pelo capital aportado, porquanto recebeu o valor da integralização do contrato antecipadamente, sem, no entanto, converter as ações em favor da parte autora ou restituir o valor inicialmente investido, como proposta posteriormente.
+Não obstante na contestação a ora recorrente tenha juntado aos aut"os o formulário de aceitação da oferta pública da fl. 56157, os extratos bancários acostados às fís. 29/37 comprovam que não houve o referido depósito.
+O ônus de prova impeditiva, negativa ou modificativa do direito da parte autora é da ré (art. 333, II, CPC), e dele não se desincumbiu a Companhia recorrente. (fl. 98, e-STJ).
+Dessa forma, para alteração do entendimento firmado pelo Tribunal a quo, seria necessária a incursão no acervo probatório dos autos, providência vedada em sede de especial, a teor da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL - CONTRATO DE PARTICIPAÇÃO FINANCEIRA EM PLANO DE EXPANSÃO DE REDE DE TELEFONIA - RESTITUIÇÃO DOS VALORES INVESTIDOS - ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS - ÓBICE DAS SÚMULAS 5 E 7 DESTE STJ - LITIGÂNCIA DE MÁ-FÉ - INOVAÇÃO RECURSAL - ANÁLISE NESTA FASE PROCESSUAL - IMPOSSIBILIDADE - RECURSO IMPROVIDO. (AgRg no Ag 1.388.926/RS, Rel. Min. MASSAMI UYEDA, Terceira Turma, DJe 28/06/2011)
+4. Melhor sorte não acolhe a recorrente quanto à alegada prescrição.
+No tocante à argüida prescrição do direito do autor/agravado, o entendimento dessa Corte é no sentido de que há pretensão de natureza pessoal nos casos em que se discute o direito à complementação de ações em face do descumprimento de contrato de participação financeira, motivo pelo qual a prescrição aplicável à espécie é a prevista nos arts. 177 do Código Civil de 1916 e 205 e 2.028 do Código Civil atual.
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. BRASIL TELECOM. COMPLEMENTAÇÃO ACIONÁRIA. PRESCRIÇÃO.
+DIREITO PESSOAL. ARTS. 177 DO CC/1916, 205 E 2.028 DO CC/2002.
+1. A Segunda Seção do STJ, em sede de recurso especial repetitivo, ao julgar o REsp 1.033.241/RS, entendeu que há pretensão de natureza pessoal nos casos em que se discute o direito à complementação de ações em face do descumprimento de contrato de participação financeira, motivo pelo qual a prescrição aplicável à espécie é a prevista nos arts. 177 do Código Civil de 1916 e 205 e 2.028 do Código Civil atual. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no Ag 1.021.089/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/06/2013, DJe 01/08/2013).
+Assim, a decisão recorrida reflete o entendimento dessa Corte, incidindo na espécie, por analogia, o óbice da Súmula 83/STJ, a impedir o seguimento do recurso.
+5. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
