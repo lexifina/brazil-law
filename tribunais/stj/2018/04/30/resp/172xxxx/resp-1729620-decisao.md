@@ -1,0 +1,22 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REPETAIÇÃO DE INDÉBITO CUMULADA COM REPARAÇÃO POR DANO MATERIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+4. Recurso especial não conhecido, com majoração de honorários.
+DECISÃO
+Cuida-se de recurso especial interposto por [NOME] e ROSIMEIRE CRISTINA PADOVAN NUNES, com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Ação: de repetição de indébito cumulada com reparação por dano material, ajuizada pelos recorrentes, em face de MRV ENGENHARIA E PARTICIPACOES SA, devido a cobranças indevidas decorrentes do contrato de compra e venda de imóvel celebrado entre as partes, na qual pleiteiam o ressarcimento referente às cobranças de comissão de corretagem e taxa de obra.
+Sentença: julgou procedentes os pedidos, para condenar a recorrida ao pagamento da quantia de R$ 3.300,00 (três mil e trezentos reais) a título de comissão de corretagem, bem como aos pagamentos de R$ 2.265,67 (dois mil, duzentos e sessenta e cinco reais e sessenta e sete reais) a título de taxa de evolução de obras e R$ 281,22 (duzentos e oitenta e um reais e vinte e dois centavos) relativo ao condomínio de abril do ano de 2012.
+Acórdão: deu parcial provimento à apelação interposta pela recorrida, nos termos da seguinte ementa:
+Repetição de indébito, cumulada com indenização por danos materiais. Aquisição de imóvel em construção. Relação de consumo se faz presente. Legitimidade passiva configurada diante da responsabilidade solidária de todos os integrantes do negócio. Pretensão de devolução de valores pagos a título de comissão de corretagem alcançada pela prescrição. Aplicação do artigo 206, § 3º, inciso IV do Código Civil. Tema 938 do STJ. Taxa de evolução da obra é exigida diretamente pelo agente financeiro e envolve as fases da construção, não participando a construtora de tais cobranças. Taxa de condomínio deve ser paga pelo adquirente somente após a entrega das chaves. Restituição correspondente ao mês de abril de 2012 está apta a sobressair. Apelo provido em parte. (e-STJ Fl. 241)
+Recurso especial: alega violação dos arts. 186 e 927 do CC; 43 e 44 da Lei nº 4.591/64, bem como dissídio jurisprudencial. Sustentam fazer jus à reparação referente à taxa de evolução da obra, eis que sua incidência decorreu da morosidade da recorrida em averbar o habite-se. Afirmam que o atraso na conclusão da obra enseja a obrigação de compensar dano extrapatrimonial.
+Relatado o processo, decide-se.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 186 e 927 do CC; 43 e 44 da Lei nº 4.591/64, indicados como violados. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na espécie, a Súmula 282/STF.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+Outrossim, a ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no REsp 909.113/RS, 3ª Turma, Rel. Min. Paulo de Tarso Sanseverino, DJe 02/05/2011 e AgRg no Ag 781.322/RS, 4ª Turma, Rel. Min. Carlos Fernando Mathias, DJe 24/11/2008.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, condeno a parte recorrente, a título de honorários recursais, ao pagamento de mais R$ 500,00 (quinhentos reais) em favor do procurador da parte recorrida.
+Publique-se. Intimem-se.
