@@ -1,0 +1,27 @@
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS E INDENIZAÇÃO POR DANOS MATERIAIS. FUNDAMENTAÇÃO. LUCROS CESSANTES. SÚMULA 568/STJ. AUSENTE. DEFICIENTE. SÚMULA 284/STF. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DO IMÓVEL. DANO MORAL. NÃO OCORRÊNCIA.
+1. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. O dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes-compradores, hipótese que não se verifica no caso vertente.
+4. Recurso especial parcialmente conhecido e parcialmente provido.
+DECISÃO
+Cuida-se de recurso especial interposto por MELBOURNE INVESTIMENTOS IMOBILIARIOS LTDA e OUTRA, com fundamento na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 06/06/2017.
+Distribuição ao Gabinete em: 30/01/2018.
+Ação: de rescisão contratual cumulada com compensação por danos morais e indenização por danos materiais, ajuizada por [NOME] em face das recorrentes, em razão de atraso na entrega de imóvel adquirido pelo recorrido.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar as recorrentes: a) a declarar rescindido o contrato de compra e venda entabulado entre as partes por culpa exclusiva das rés; b) a restituir a integralidade do valor pago pelo autor, a ser atualizado desde o efetivo desembolso pela Tabela Prática do TJ/SP, com juros de 1% ao mês desde a citação; c) a pagar à parte autora a multa prevista na cláusula 7.4 do contrato, no patamar de 0,5% do valor efetivamente pago por mês de atraso, abstraindo-se o período de tolerância de 180 dias, na forma da fundamentação supra; d) ao pagamento de indenização de danos morais na forma da fundamentação supra (R$ 10.000,00, com acréscimo de correção monetária a contar deste arbitramento - Súmula nº 362 do e. STJ - e de juros moratórios de 1% ao mês, a contar da citação, observados os termos dos artigos 406 c.c 161, parágrafo primeiro do CTN), e) a devolução/pagamento dos honorários contratuais, limitado à Tabela de Honorários da OAB-SP.
+Acórdão: deu parcial provimento à apelação interposta pelas recorrentes para determinar a retenção de 15% dos valores a serem devolvidos ao autor, nos termos da seguinte ementa:
+APELAÇÃO. Ação de rescisão contratual c.c indenização por danos morais e patrimoniais. Sentença de parcial procedência. Inconformismo das rés. Atraso para entrega do imóvel. Possibilidade de retenção de 10% do valor pago pelo autor. Quantia que se mostra, no presente caso, suficiente para compensar os custos operacionais oriundos do desfazimento do negócio jurídico. Inviabilidade de aplicação de multa contratual às vendedoras por analogia ou interpretação extensiva. Inteligência da recente Súmula 159 deste Tribunal. Lucros cessantes devidos no equivalente a 0,5% do valor atualizado do imóvel. Danos morais configurados. Recurso a que se dá parcial provimento.
+Recurso especial: alega violação dos arts. 104, 402, 411, 421, 422 e 944 do CC, bem como dissídio jurisprudencial. Defende o afastamento da condenação em lucros cessantes. Assevera que o mero inadimplemento contratual não enseja compensação por dano extrapatrimonial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: CPC/2015.
+- Da fundamentação deficiente
+ Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts. 104, 421 e 422 do CC, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da Súmula 568/STJ
+O TJ/SP, ao decidir que a parte recorrida faz jus à indenização por lucros cessantes ante a não fruição do imóvel durante o período da mora das recorrentes, alinhou-se ao entendimento do STJ quanto à matéria. Sobre o tema: AgInt no AREsp 978.237/MG, 4ª Turma, DJe de 16/03/2017; AgInt no AREsp 879.322/MG, 3ª Turma, DJe de 13/03/2017; AgInt no REsp 1.605.244/SP, 4ª Turma, DJe de 17/02/2017; REsp 1.633.274/SP, 3ª Turma, DJe de 14/11/2016; AgInt no AREsp 922.329/SP, 3ª Turma, DJe de 09/11/2016 e AgInt no AREsp 301.607/RJ, 4ª Turma, DJe de 15/09/2016.
+- Da compensação por dano moral decorrente do atraso na entrega de imóvel
+O TJ/SP, ao decidir que o atraso injustificável na entrega do imóvel configura dano extrapatrimonial a ser compensado, contrariou o entendimento do STJ no sentido de que o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes-compradores, hipótese que não se verifica no caso vertente (EDcl no AgRg no AREsp 745.577/RJ, 3ª Turma, DJe de 05/06/2017 e EDcl no AgRg no AREsp 745.577/RJ, 3ª Turma, DJe de 05/06/2017).
+Logo, o acórdão recorrido merece reforma no ponto.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO parcialmente do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para afastar a condenação ao pagamento de compensação por danos morais.
+Mantidos os ônus sucumbenciais, conforme fixados na origem.
+Publique-se. Intimem-se.
