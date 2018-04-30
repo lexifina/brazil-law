@@ -1,0 +1,35 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. PRETENSÃO DE REAJUSTE SALARIAL. REVISÃO DO ATO. SUPERAÇÃO DO PRAZO. PRESCRIÇÃO QUINQUENAL ENTRE A APOSENTADORIA DA PARTE AUTORA E O AJUIZAMENTO DA AÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. PRECEDENTES. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que inadmitiu recurso especial, face a incidência da Súmula 83/STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 85):
+APELAÇÃO CÍVEL. POLÍTICA SALARIAL. REAJUSTE DOS VENCIMENTOS. LEI ESTADUAL N.º 10.395/95. PARCELA AUTÔNOMA DO MAGISTÉRIO PÚBLICO. DIFERENÇAS DE VENCIMENTO BÁSICO DECORRENTE DA INCORPORAÇÃO PARCIAL DA PARCELA AUTÔNOMA. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. APOSENTADORIA PELAS MÉDIAS HÁ MAIS DE CINCO ANOS DO AJUIZAMENTO DA AÇÃO. LIMITAÇÃO DA CONDENAÇÃO ÀS DIFERENÇAS DECORRENTES DO RECALCULO DOS PROVENTOS. PRESCRIÇÃO QUINQUENAL.
+-Inocorrência de prescrição do fundo de direito da parcela autônoma incorporada não reajustada pela Lei nº 10.395/95 quando da aposentadoria da parte autora, pelas médias salariais. Mudança de entendimento.
+-Descabe a limitação do pagamento dos valores retroativos à data da aposentadoria do servidor, ainda que este tenha se aposentado pelo regime das médias, sob pena de afronta aos princípios constitucionais da legalidade, do direito adquirido, do ato jurídico perfeito e da irredutibilidade de vencimentos. Circunstância em que não haviam sido implantados os reajustes sobre o vencimento básico referente à parcela autônoma incorporada no percentual de 20% quando do cálculo dos proventos em relação à matrícula em que ocorreu a aposentadoria pelas médias.
+-A partir da data da aposentadoria, mediante recálculo dos proventos, incluindo, nas maiores remunerações, o percentual de reajustes antes concedido, tem a servidora direito à diferença de proventos e esta diferença é devida pelo Estado, mensalmente, até o momento em que corrigir o valor dos proventos, respeitada a prescrição qüinqüenal.
+-Reexame necessário, previsto no artigo 496 do CPC/2015, efetuado nos termos da Súmula nº 490 do STJ.
+-Recurso não provido.
+-Sentença mantida, em reexame necessário.
+Embargos de declaração rejeitados.
+No apelo especial, a parte agravante alega violação do art. 1º do Decreto n. 20.910/1932, ao argumento de que pretende o agravado a "revisão de seus proventos por meio do recálculo do valor inicial, passados mais de cinco anos da data em que foi aposentado e cessou o percebimento da vantagem em decorrência da aposentadoria pela média salarial" (fl. 147).
+Sem contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016).
+Tendo o agravante impugnado o fundamento de inadmissibilidade, passo a apreciação do apelo especial.
+Na origem, a autora, servidora pública aposentada, ajuizou ação ordinária objetivando impor ao Estado do Rio Grande do Sul a completa implantação do reajuste previsto na Lei Estadual 10.395/1995.
+A Corte de origem, afastou a prescrição de fundo de direito, tendoreconhecido a incidência tão somente da prescrição quinquenal das parcelas.
+Nesse sentido, o seguinte trecho do julgado:
+" ..
+Na hipótese dos autos, o que a servidora inativa pretende é o reajuste de seus proventos de aposentadoria, com base nos reajustes instituídos pela Lei nº 10.395/95 sobre a parcela autônoma, o que, como referido, importa necessariamente no recálculo de sua aposentadoria.
+Vinha entendendo que o direito ao recálculo surgia quando da publicação do ato de aposentadoria, passando a correr dessa data o prazo prescricional de cinco anos previsto no artigo 19 do Decreto nº 20.910/32.
+Portanto, a demandante, pelo decurso do tempo, teria perdido o direito ao exercício de ação para recálculo de seus proventos, autorizada pela Lei nº 10.395/95, porque não buscou tempestivamente junto ao Estado a incidência dos reajustes previstos na referida lei.
+No entanto, mudo meu entendimento para passar a entender que a pretensão não se encontra prescrita. Isso porque se, no momento do cálculo da aposentadoria, a parcela autônoma incorporada ao vencimento básico no percentual de 20% não havia sido reajustada pelos índices da Lei nº 10.395/95, o valor dos proventos importaram em uma base de cálculo menor. E, como se trata de prestações continuadas, a quantia faltante tem repercussão mensal até que se implementem os reajustes, devendo haver pagamento da diferença, exceto em relação às parcelas anteriores aos cinco anos do ajuizamento da ação.
+Dessa forma, merece ser afastada a prescrição do fundo de direito." (fls. 118-119)
+Considerando tais aspectos, tenho que o presente caso se distancia do entendimento firmado em sede de recurso repetitivo pela Primeira Seção deste e.STJ, quando do julgamento do Resp n. 1.336.213/RS, ocasião em que assentou-se que "a incorporação da PAM aos vencimentos dos servidores continua a gerar efeitos financeiros de trato sucessivo, de forma que a revisão daquela parcela repercute continuamente na esfera jurídico-patrimonial do servidor", incidindo, assim, a Súmula 85/STJ.
+Conforme reconhecido pelo acórdão recorrido, tendo transcorrido prazo superior a cinco anos entre a aposentadoria da agravada e a data do ajuizamento da ação, impõe-se o reconhecimento da prescrição do fundo de direito.
+Nesse sentido, recente precedente da Primeira Turma desta Corte, em que fui designado relator para o acórdão:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORA PÚBLICA ESTADUAL. PRETENSÃO DE REAJUSTE SALARIAL. REVISÃO DO ATO. SUPERAÇÃO DO PRAZO PRESCRIÇÃO QUINQUENAL ENTRE A APOSENTADORIA DA PARTE AUTORA E O AJUIZAMENTO DA AÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO. PRECEDENTES. AGRAVO INTERNO DO ESTADO DO RIO GRANDE DO SUL PROVIDO, PARA CONHECER DO AGRAVO EM RECURSO ESPECIAL E PROVER O APELO NOBRE, RESTABELECENDO A SENTENÇA. DIVERGINDO DO RELATOR, MINISTRO NAPOLEÃO NUNES MAIA FILHO. (AgInt no AREsp 962.978/RS, Rel. Ministro Napoleão Nunes Maia Filho, Rel. p/ Acórdão Ministro Benedito Gonçalves, Primeira Turma, DJe 29/6/2017).
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial do Estado do Rio Grande do Sul, reconhecendo a incidência da prescrição de fundo de direito.
+Inverto os honorários advocatícios e os majoro em 10%, observados os limites e parâmetros dos §§ 2º , 3º e 11, do art. 85 do CPC/2015 e eventual gratuidade da justiça (art. 98, § 3º, do CPC/2015).
+Publique-se. Intimem-se.
