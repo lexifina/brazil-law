@@ -1,0 +1,10 @@
+DECISÃO
+Vistos.
+Fls. 576/583e - Trata-se de petição apresentada pelo Ministério Público do Estado do Rio de Janeiro informando ter havido o trânsito em julgado de decisão referente ao mérito da ação civil pública da qual decorreu o agravo de instrumento analisado pelo acórdão impugnado mediante o presente Recurso Especial, consoante se infere de certidão juntada aos autos do Agravo em Recurso Especial n. 752.062/RJ.
+O agravo de instrumento interposto perante o tribunal de origem (fls. 5/26e) impugna decisão liminar que antecipou parcialmente a tutela requerida na ação civil pública.
+A decisão de fls. 563/570e julgou o Recurso Especial e analisou duas questões independentes entre si, quais sejam: i) a possibilidade de conhecimento do agravo de instrumento; e ii) o afastamento da multa imposta pelo tribunal de origem por ocasião da interposição de agravo regimental pela Recorrente.
+Em relação ao primeiro ponto, embora, efetivamente, esteja prejudicado pelo trânsito em julgado da decisão que analisou o mérito da ação civil pública, não há utilidade na modificação do julgado monocrático, como requereu o Parquet na petição examinada, pois: i) já transcorreram os prazos para interposição de eventuais recursos pela empresa Recorrente; e ii) o Ministério Público do Estado do Rio de Janeiro não teria interesse de recorrer de decisão contrária à parte ré na ação civil pública.
+No tocante ao segundo ponto, observo que não existe relação de prejudicialidade entre a imposição de multa em agravo regimental em agravo de instrumento e o trânsito em julgado de decisão que examinou o mérito da ação civil pública, pois são matérias independentes entre si.
+Com efeito, caso tivesse havido o trânsito em julgado nos autos da ação civil pública antes da interposição do presente recurso especial, ainda subsistiria o interesse recursal da empresa em afastar a multa aplicada por ocasião do julgamento do agravo regimental no agravo de instrumento.
+Isto posto, INDEFIRO O PEDIDO formulado na petição ora analisada.
+Publique-se e intimem-se.
