@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal 5ª Região, assim ementado (fls. 529/530):
+EMENTA: ADMINISTRATIVO. FUNCIONÁRIA CONTRATADA DO SERPRO. DESVIO DE FUNÇÃO. EXERCÍCIO DE ATIVIDADES DO CARGO TÉCNICO DA. RECEITA FEDERAL. DIFERENÇAS DEVIDAS.
+I - Cuida-se de apelações e remessa oficial de sentença que julgou parcialmente procedente o pedido, condenando a União no pagamento de diferenças relativas ao período em que a autora exerceu a função de técnica da Receita Federal, decorrente de desvio de função.
+II - Apela a parte autora, pleiteando o seu enquadramento no cargo de Técnico da Receita Federal.
+III - Apela a União, pleiteando a reforma total da sentença.
+IV - Inicialmente, ressalte-se que tendo a presente ação sido ajuizada em 16/01/2006, estão alcançadas pela prescrição quinquenal as parcelas porventura devidas anteriores a 16 de janeiro de 2001.
+V - Quanto à integração no cargo de técnica da Receita Federal, após a Constituição de 1988, a investidura em cargo público somente é permitida, através de concurso público.
+VI - No que se refere ao período em que a autora trabalhou na função de técnico da Receita Federal, examinando os documentos de fls. 19/34, verifica-se que a demandante tinha acesso ao sistema privativo dos funcionários do referido órgão, trabalhava com atendimento aos contribuintes, ressaltando-se, também, que sua avaliação era feita pela Receita Federal.
+VII - A autora foi contratada pelo SERPRO a desempenhar funções relativas a processamentos de dados, teleproessamento e comunicação de voz e imagem, além de assistência técnica no campo de sua ativividade.
+VIII - As testemunhas arroladas, também foram unânimes em dizer que a autora trabalhava no mesmo setor dos técnicos da Receita, com senha de idêntica natureza, desempenhando as mesmas funções do referido cargo, cabendo o pagamento das diferenças devidas, relativas ao período em que trabalhou na referida função.
+IX - Apelações e remessa oficial improvidas."
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 535 do CPC (fls. 543/549)
+A parte recorrente aponta, preliminarmente, violação ao artigo 535 do Código de Processo Civil, sustentando, em síntese, que o acórdão recorrido foi omisso e contraditório em relação a questões devidamente suscitadas nos embargos declaratórios.
+Indica, ainda, violação ao artigo 1º-F da Lei 9.494/97, pugnando que os juros de mora e a correção monetária sejam calculados de acordo com as modificações introduzidas pela Lei 11.960/2009.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida em relação à tese de negativa de prestação jurisdicional, pois a parte recorrente, nas razões deduzidas nos embargos declaratórios (fls. 536/541), pugnou, dentre outras questões, pelo enfrentamento da tese que a apuração dos juros de mora e da correção monetária deveria observar a disciplina prevista no artigo 1-Fº da Lei 9.494/97, com a redação dada pela Lei 11.960/2009.
+Contudo, observa-se que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou silente sobre a aludida argumentação que se mostra relevante para o deslinde da controvérsia, em franca violação ao art. 535 do CPC.
+A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO CONTRA DECISÃO QUE PROVEU O RECURSO ESPECIAL, EM VIRTUDE DE OFENSA AO ART. 535 DO CPC. ACÓRDÃO RECORRIDO. OMISSÃO CARACTERIZADA.
+1. Deixando o Tribunal a quo de apreciar tema relevante para o deslinde da controvérsia, o qual foi suscitado em momento oportuno, fica caracterizada a ofensa ao disposto no art. 535 do CPC.
+2. No caso, é imprescindível que o Tribunal de origem se manifeste sobre a questão no sentido de que "o primeiro pedido de suspensão ou arquivamento do processo, feito pelo Estado exequente, em 18/03/2003, é o termo inicial da prescrição intercorrente no caso concreto", sobretudo em razão do entendimento desta Corte no sentido de que o prazo da prescrição intercorrente se inicia após um ano da suspensão da execução fiscal quando não localizados bens penhoráveis do devedor, conforme dispõe a Súmula 314/STJ. 3. Agravo regimental não provido.
+(AgRg no REsp 1340084/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/05/2013, DJe 13/05/2013)
+Ante o exposto, dou provimento ao recurso especial para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui consideradas omitidas.
+Publique-se.
