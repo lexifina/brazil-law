@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. ALEGAÇÃO DE REFORMATIO IN PEJUS EM RECURSO EXCLUSIVO DA DEFESA. INOCORRÊNCIA. CIRCUNSTÂNCIAS JUDICIAIS. PATAMAR DE REDUÇÃO. PODER DISCRICIONÁRIO DO JULGADOR. PERSUASÃO RACIONAL E LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE REDUZIDA. REPRIMENDA FINAL MAIS BENÉFICA AO RÉU.
+Agravo conhecido para desprover o recurso especial.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra a decisão que inadmitiu o recurso especial interposto pela alínea a do permissivo constitucional dirigido contra acórdão proferido pelo Tribunal de Justiça do Mato Grosso do Sul nos autos da Apelação Criminal n. 0008935-94.2015.8.12.0001.
+Consta dos autos que o réu foi denunciado, juntamente com [NOME], pela prática do crime tipificado no art. 33, caput, da Lei n. 11.343/2006 (fls. 1/4). Condenados, foi imposta pena de 6 anos de reclusão e 600 dias-multa para o réu [NOME] e de 9 anos de reclusão, e 900 dias-multa para o réu [NOME], ora apelante (fls. 388/421).
+As defesas de ambos os réus apelaram (fls. 443/455 e 463/479), tendo o Tribunal, por maioria, dado parcial provimento ao apelo de [NOME] para, redimensionando a pena-base, fixar a pena definitiva em 7 anos de reclusão, em regime inicial fechado, e pagamento de 700 dias-multa, e negado nego provimento ao recurso de [NOME], redimensionando, de ofício, sua reprimenda para 5 anos de reclusão, em regime semiaberto, e pagamento de 500 dias-multa.
+A defesa de [NOME] opôs então embargos de declaração (fls. 573/580), os quais foram rejeitados, por unanimidade (fls. 595/603).
+Contra referido acórdão foi interposto recurso especial (fls. 611/627), apontando-se ofensa ao art. 617 do Código de Processo Penal. Em suma, alega a ocorrência de reformatio in pejus, uma vez que o acórdão, conquanto tenha se dignado a afastar 05 das 06 moduladoras citadas na sentença por absoluta falta de lastro empírico, atribuiu patamar de aumento mais gravoso à moduladora remanescente, em recurso exclusivo da defesa, e sem que tenha acrescentado nenhuma fundamentação nova, baseada em elementos presentes nos autos, diferente da aposta na sentença, apenas estabelecendo um critério matemático próprio, gerando situação mais gravosa em sede de recurso exclusivo da defesa (fl. 616).
+Apresentadas contrarrazões (fls. 633/635), o recurso especial foi inadmitido pela Corte de origem por aplicação da Súmula 83/STJ (fls. 637/641). Contra tal decisão foi manejado o agravo em análise (fls. 645/657), com contraminuta ofertada às fls. 663/665.
+O Ministério Público Federal opina pelo não conhecimento do agravo ou pelo desprovimento do recurso especial (fls. 672/674).
+É o relatório.
+Tem-se que, na hipótese, a pena-base do recorrente foi elevada em 3 anos em razão do desabono de 6 circunstâncias judiciais - a saber: antecedentes, conduta social, personalidade, motivos, circunstâncias e consequências do delito -, ficando a pena-base fixada, portanto, em 8 anos de reclusão.
+Julgando apelo exclusivo da defesa, o Tribunal de origem entendeu por bem refazer a primeira fase da dosimetria, para excluir 5 vetores que haviam sido considerados como desfavoráveis ao réu mediante fundamentação genérica, mantendo, contudo, o desabono relativo às circunstâncias do delito.
+Nesse contexto, sustenta a defesa, ter incorrido o acórdão em indevido reformatio in pejus, uma vez que, segundo entende, tendo a sentença exasperado em 6 meses cada vetor negativado, não poderia o acórdão combatido atribuir patamar de aumento mais gravoso, em recurso exclusivo da defesa, sem que tenha acrescentado nenhuma fundamentação nova (fl. 619).
+Sem razão, contudo, o recorrente.
+Entendeu o Tribunal de origem que o efeito devolutivo do recurso de apelação licencia a análise de questões que envolvam a individualização da pena, ainda que não tenham sido suscitadas nas razões recursais, desde que tal não importe em agravamento da penalidade imposta ao réu (fl. 595). E, completando o raciocínio, acrescentou que não houve agravamento da penalidade imposta originariamente ao embargante, vez que a pena-base experimentou redução em 02 (dois) anos de reclusão e 200 (duzentos) dias-multa (fl. 597).
+Nesse contexto, cumpre destacar que não há ilegalidade no procedimento adotado pelo Tribunal a quo, pois a orientação jurisprudencial desta Corte é no sentido de que é lícito ao Tribunal de apelação agregar fundamentação jurídica, ainda que em recurso exclusivo da defesa, desde que não implique o agravamento da situação concreta do apelante, uma vez que tal providência não consubstancia reformatio in pejus.
+Com efeito, entendo que pelo poder de persuação racional do juiz e do livre convencimento motivado, não estaria o órgão colegiado atrelado ao percentual adotado pelo magistrado singular para ponderar o grau de reprovabilidade que entenda - e fundamentadamente justifique - cabível a cada vetor negativado. Nesse esteira, desde que o faça de maneira idônea e sem agravar a pena final concreta do recorrente, nada impede que o Tribunal reveja a individualização da reprimenda, ainda que se tratando de recurso exclusivo da defesa.
+Sobre o tema, confiram-se:
+ ..
+3. Pelo princípio da non reformatio in pejus, o recorrente tem o direito de não ter sua situação agravada, direta ou indiretamente, quando se tratar de recurso exclusivo. Ressalvado meu entendimento pessoal sobre a matéria, em julgados recentes, a Sexta Turma tem decidido no sentido de que não fere o princípio em comento a adoção pelo Tribunal de motivação própria sobre as questões jurídicas ampla e contraditoriamente debatidas no juízo a quo, não se tratando de inovação indevida, desde que não agravada a situação do réu.
+ ..
+(HC n. 330.706/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/10/2015)
+ ..
+1. A proibição de reforma para pior garante ao recorrente, na espécie ora versada, o direito de não ter sua situação agravada, direta ou indiretamente. Não obsta, entretanto, que o tribunal, para dizer o direito - exercendo, portanto, sua soberana função de juris dictio - encontre motivação própria, respeitados, insisto, a imputação deduzida pelo órgão de acusação, a extensão cognitiva da sentença impugnada e os limites da pena imposta no juízo de origem.
+ ..
+(HC n. 283.267/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/12/2014)
+ ..
+3. Esta Corte Superior de Justiça já decidiu no sentido de que o Tribunal de origem, quando da análise da dosimetria, não está adstrito aos fundamentos da sentença de 1º Grau, uma vez que a apelação criminal tem efeito devolutivo amplo, possibilitando ao Juízo ad quem a ponderação das circunstâncias judiciais do art. 59 do Código Penal, segundo seu prudente arbítrio, mas se limitando ao quantum arbitrado pelo magistrado singular, caso o recurso seja exclusivamente defensivo.
+ ..
+(AgRg no AREsp n. 487.720/ES, Ministro Walter de Almeida Guilheme (Desembargador convocado do TJ/SP), Quinta Turma, DJe 26/11/2014)
+ ..
+1. O preceito da non reformatio in pejus pressupõe prejuízo ou, pelo menos, um agravamento da situação do Acusado decorrente da apreciação de recurso interposto, exclusivamente, em prol de sua defesa.
+2. Na hipótese, o Tribunal apenas utilizou novo fundamento para afastar a alegação de nulidade e confirmou a pena imposta em primeira instância, não ocorrendo aumento do quantum da reprimenda e, consequentemente, não restou caracterizado qualquer prejuízo ao Réu, uma vez que não causou dano maior do que o inicialmente imposto pela condenação.
+ ..
+(AgRg no REsp n. 1.389.150/PR, Ministra Laurita Vaz, Quinta Turma, DJe 5/9/2014)
+In casu, a sentença condenatória impôs ao ora agravante uma pena total de 9 anos de reclusão, e 900 dias-multa (fls. 388/421). Com o provimento parcial de seu apelo defensivo, a reprimenda final do recorrente passou para 7 anos de reclusão e 700 dias-multa (fls. 535/563). Logo, não há falar-se em reformatio in pejus, pois a situação do recorrente não foi agravada, como se percebe.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
