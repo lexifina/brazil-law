@@ -1,0 +1,56 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ESTELIONATO MAJORADO. DOSIMETRIA. INDEVIDA EXASPERAÇÃO DA PENA-BASE. NÃO OCORRÊNCIA. VALORAÇÃO NEGATIVA DO VETOR CULPABILIDADE DEVIDAMENTE FUNDAMENTADA. CONTINUIDADE DELITIVA. RECONHECIMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+DECISÃO
+Trata-se de agravo de MARIA TEREZINHA DE OLIVEIRA BORGES manejado contra a decisão que inadmitiu o recurso especial interposto perante o eg. TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO.
+O juízo singular condenou a agravante como incursa nas sanções do artigo 171, § 3º, do Código Penal, à pena de 4 (quatro) anos, 7 (sete) meses e 26 (vinte e seis) dias de reclusão, no regime semiaberto, e 250 (duzentos e cinquenta) dias-multa (fls. 475-510).
+Irresignada, a defesa interpôs apelação, com vistas à reforma da sentença condenatória. No Tribunal de origem, o recurso teve negado o provimento (fls. 989-1.010).
+No recurso especial, interposto com fulcro na alínea a do permissivo constitucional, a defesa alega ofensa aos artigos 59 e 71, ambos do Código Penal, aos argumentos de que:
+(i) " o  juízo a quo, ratificando o entendimento do juiz sentenciante, abaixo transcrito, entendeu por valorar negativamente a culpabilidade, como limite da pena, em razão do potencial conhecimento da ilicitude e atuação inerente ao tipo penal por parte do ora recorrente" (fl. 1.041);
+(ii) "o caso narrado se trata de continuidade delitiva, haja vista que ambas as infrações penais, da mesma espécie, foram praticadas com notável similitude de tempo, lugar e modus operandi, o que autoriza, na forma do artigo 71 do Código Penal, a unificação das penas, não obstante o lapso temporal entre os fatos superar minimamente os 30 dias utilizados como parâmetro" (fl. 1.046).
+Contrarrazões às fls. 1.088-1.105.
+O recurso especial foi inadmitido pelo Tribunal de origem em razão do óbice da Súmula 7 do STJ (fls. 1.108-1.111).
+Nas razões do presente agravo, a parte alega que não incide o referido óbice (fls. 1.151-1.158).
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 1.242-1.243).
+É o relatório.
+Decido.
+Tendo em vista os relevantes fundamentos apontados pela parte agravante, conheço do agravo e passo a examinar os requisitos do recurso especial.
+Busca a parte recorrente, em princípio, nas suas razões recursais, a redução da pena-base em relação ao delito previsto no artigo 171, § 3º, do Código Penal. Confira-se, oportunamente, trecho do v. acórdão de apelação sobre o tema, verbis:
+"a) fixação da pena-base. A valoração negativa da culpabilidade deve manter-se na espécie, visto que os delitos foram cometidos com premeditação e organização. A ré ludibriou o sistema previdenciário utilizando-se de toda uma técnica e orientações especiais para que Joel e Tatiane obtivessem sucesso na conduta fraudulenta, motivo pelo qual a conduta da ré merece maior reprovabilidade. Mantenho a vetorial como negativa.
+O MPF requer a valoração da personalidade da agente como negativa. No entanto, entendo que os argumentos ministeriais já foram utilizados para valorar negativamente a culpabilidade da ré. Dessa forma, não poderiam os mesmos argumentos ser utilizados para valorar negativamente a personalidade da agente, motivo pelo qual mantenho a vetorial como neutra. Ressalto que a análise da personalidade da agente é algo extremamente subjetivo e aberto à discricionariedade do julgador, sendo esse mais um motivo para manter a análise feita pelo juízo sentenciante em relação à personalidade.
+ Assim, fixo a pena-base em 01 (um) ano e 03 (três) meses de reclusão." (fl. 1.002)
+Pois bem.
+Sobre este tema, é preciso ter presente que o Supremo Tribunal Federal tem entendido que "a dosimetria da pena é questão de mérito da ação penal, estando necessariamente vinculada ao conjunto fático probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada" (HC n. 137.769/SP, Primeira Turma, Rel. Min. Roberto Barroso, julgado em 24/10/2016).
+O Pretório Excelso também entende não ser possível para as instâncias superiores reexaminar o acervo probatório para a revisão da dosimetria, exceto em circunstâncias excepcionais, já que, ordinariamente, a atividade dos Tribunais Superiores, em geral, e do Supremo, em particular, deve circunscrever-se "ao controle da legalidade dos critérios utilizados, com a correção de eventuais arbitrariedades" (HC n. 128.446/PE, Segunda Turma, Rel. Min. Teori Zavascki, julgado em 15/9/2015).
+Na mesma linha, esta Corte tem assentado o entendimento de que a dosimetria da pena é atividade inserida no âmbito da atividade discricionária do julgador, atrelada às particularidades de cada caso concreto.
+Desse modo, cabe às instâncias ordinárias, a partir da apreciação das circunstâncias objetivas e subjetivas de cada crime, estabelecer a reprimenda que melhor se amolda à situação, admitindo-se revisão nesta instância apenas quando for constatada evidente desproporcionalidade entre o delito e a pena imposta, hipótese em que deverá haver reapreciação para a correção de eventual desacerto quanto ao cálculo das frações de aumento e de diminuição e a reavaliação das circunstâncias judiciais listadas no art. 59 do Código Penal.
+A circunstância judicial da culpabilidade se define a partir da concepção de que a ré tem liberdade para agir, e poderia ter escolhido o respeito ao justo e assim não o fez.
+A medida da culpabilidade está relacionada ao grau de censurabilidade da conduta a partir dos elementos concretos disponíveis no caso em apreço.
+No caso destes autos, as instâncias ordinárias, ao valorarem esse vetor, discorreram: " a  ré ludibriou o sistema previdenciário utilizando-se de toda uma técnica e orientações especiais para que Joel e Tatiane obtivessem sucesso na conduta fraudulenta, motivo pelo qual a conduta da ré merece maior reprovabilidade " (fl. 1.002).
+Destarte, a elevação da pena com base na apreciação negativa da culpabilidade, nos moldes operados pelas instâncias ordinárias, não merece qualquer reparo, porquanto devidamente fundamentada.
+Nesse toar:
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONCUSSÃO. DOSIMETRIA DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL JUSTIFICADA. FIXAÇÃO DO REGIME FECHADO. POSSIBILIDADE.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação.
+2. Ausente violação do art. 59 do Código Penal quando a pena-base é fixada acima do mínimo legal de forma fundamentada, como no caso concreto, em vista da culpabilidade e das circunstâncias do delito terem sido graves  ..
+3. Considerando a gravidade concreta das condutas, pode-se elevar a pena-base na primeira fase da dosimetria, realizando o julgador a necessária individualização da pena, justificando o aumento de cada circunstância judicial acima de 1/6, como no presente caso.
+ ..
+5. Agravo regimental não provido (AgRg nos EDcl no REsp n. 1.535.170/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 3/5/2017 - grifei).
+"HABEAS CORPUS  ..  DOSIMETRIA. PRIMEIRA FASE. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE  .. ORDEM CONCEDIDA EM PARTE.
+1. Não há ilegalidade na primeira fase da dosimetria da pena se instâncias de origem apontam motivos concretos para a fixação das penas patamar estabelecido. Em sede de habeas corpus não se afere o quantum aplicado, desde que devidamente fundamentado, como ocorre na espécie, sob pena de revolvimento fático-probatório.
+ ..
+4. Ordem concedida em parte  .. " (HC n. 395.869/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 15/5/2017 - grifei).
+Em relação à continuidade delitiva, o Tribunal de origem fez constar o seguinte do v. acórdão ora vergastado:
+"f) continuidade delitiva e redução da pena pecuniária. Os delitos cometidos pela ré não foram considerados em continuidade delitiva, mas as penas foram somadas em concurso material. Como a conduta da ré resultou em dois benefícios previdenciários diferentes e não na prorrogação de um único benefício, mantenho a condenação por dois estelionatos em concurso material. Dessa forma, o quantum da pena não autoriza a substituição para penas restritivas de direito, de modo que os pleitos de afastamento da continuidade delitiva e redução da pena pecuniária restam prejudicados" (fl. 1.003)
+Como se vê do excerto em referência, o e. Tribunal de origem, apreciando detalhadamente a prova produzida nos autos, concluiu pela existência de elementos aptos a atestar o concurso material de crime perpetrados pela ora recorrente.
+Está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal a quo, como pretende o recorrente, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTERPOSIÇÃO PELA ALÍNEA "A". OFENSA AOS ARTS. 41, 384 E 569, TODOS DO CPP. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282 E 356/STF. AFRONTA AO ART. 69 DO CP. CONTINUIDADE DELITIVA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. INTERPOSIÇÃO PELA ALÍNEA "C". DIVERGÊNCIA JURISPRUDENCIAL. ART. 255/RISTJ. INOBSERVÂNCIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. De fato, esta Corte possui o entendimento de que "o reconhecimento da continuidade delitiva depende da verificação da presença de requisitos cuja aferição implica o reexame aprofundado de todo o conjunto fático-probatório" (HC 284.828/SP, Rel. Min. MARCO AURÉLIO BELLIZZE , QUINTA TURMA, DJe 14/04/2014) . Incidência da Súmula 7 deste Tribunal.
+ ..
+4. Agravo regimental a que se nega provimento" (AgRg no REsp 1525571/RS, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe de 7/10/2015).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. CONCURSO MATERIAL. CONTINUIDADE DELITIVA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. PRECEDENTES.
+1. A pretensão referente ao reconhecimento, in casu, da continuidade delitiva, conforme previsto no art. 71 do Código Penal, afastando-se o concurso material entre crimes (art. 69 do Estatuto Repressor), demandaria necessariamente o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial, ante o óbice da Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Agravo regimental desprovido." (AgRg no AREsp 711.471/SP, Quinta Turma, Rel. Min. Gurgel de Faria, DJe de 6/10/2015).
+Ante o exposto, com fulcro no art. 253, parágrafo único,I e II, b, do RISTJ conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+P. e I.
