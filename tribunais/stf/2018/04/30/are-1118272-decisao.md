@@ -1,0 +1,18 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. A Turma Recursal confirmou o entendimento do Juízo quanto à improcedência do pedido de indenização por danos morais e materiais, tendo por não comprovado o dano. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 1º, inciso III, 5º, incisos XXXV, e XXXVI, e 7º, inciso X, da Constituição Federal. Argui a nulidade da decisão por negativa de prestação jurisdicional. Insiste no direito pleiteado, adentrando os contornos da situação fática.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho da decisão recorrida o seguinte trecho:
+    A sentença julgou improcedente o pedido inicial sob os seguintes fundamentos:
+    No que concerne aos pedidos de danos material e moral, a autora fundamenta tais pretensões em suposta responsabilidade imputável ao INSS consistente na redução da renda mensal em decorrência da substituição da aposentadoria de que ela gozava pela que passou a obter em decorrência de sentença judicial transitada em julgado nos autos nº 0008128-21.2007.4.03.6183.
+    Não há guarida para o acolhimento do pleito de indenização por dano material, correspondente, em tese, ao montante da diferença entre as rendas das aposentadorias NB 32/570.658.093-2 e 41/175.187.224-3. Consta dos autos a disponibilização do crédito correspondente à reativação da aposentadoria por invalidez a partir da competência de novembro de 2016 (fl. 31 do anexo nº 38). De mais a mais, a reparação do dano material implicaria, por via transversa, intervir nas questões pertinentes ao restabelecimento do benefício previdenciário NB 42/175.187.224-3, que já são objeto de fase de Cumprimento de Sentença nos autos do processo nº 0008128-21.2007.4.03.6183 (3ª Vara Previdenciária Federal da Subseção Judiciária de São Paulo/SP – anexo 41), nada cabendo a deliberar quanto ao título judicial formado naquela demanda.
+    Outrossim, no presente caso, quanto ao dano moral, tenho que resta manifestamente indevido.
+    Não caracteriza ato ilícito, a ensejar reparação moral, a simples demora no restabelecimento de benefício previdenciário por parte do INSS, ou o seu cancelamento, ou a demora na sua concessão, salvo se provado o dolo ou a negligência do servidor responsável pelo ato, de modo a prejudicar deliberadamente o interessado.
+    Os fundamentos da sentença se deram, também, com base em parecer contábil que apurou inexistir qualquer valor devido à parte autora.
+    Tenho, portanto, que a r. sentença atacada enfrentou bem as questões postas, cuja fundamentação é suficiente para embasar o raciocínio jurídico, ao explicitar fática e juridicamente as questões subjacentes ao caso concreto, cuja análise é coesa aos fatos coligidos aos autos, razão pela qual merece ser mantida.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de abril de 2018.
+Ministro MARCO AURÉLIO
