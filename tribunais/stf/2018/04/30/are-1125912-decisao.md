@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face do acórdão da 12ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 1, p. 107):
+    “PENSIONISTA DE SERVIDOR PÚBLICO ESTADUAL – Invalidação de ato administrativo de concessão da pensão – Decurso de lapso temporal superior a 10 anos – Prescrição administrativa consumada – Sentença de improcedência confirmada – Recurso de apelação desprovido.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, interposto com fundamento no art. 102, III, d, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXXV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em síntese, que “o acórdão do TJ-SP claramente aplicou a Lei Estadual n° 10.177/1998 (artigo 10, inciso I) em detrimento dos artigos 205 e 2.028 do Novo Código Civil e artigo 177, do Código Civil de 1916” (eDOC 1, p. 115).
+    A Presidência da Seção de Direito Público do TJ/SP inadmitiu o recurso assentando a inexistência no acórdão recorrido de homenagem a lei local em face de lei federal (eDOC 1, p. 152/153).
+    É o relatório. Decido.
+    O recurso não merece ser conhecido.
+    A jurisprudência deste Supremo Tribunal Federal é pacífica no sentido de que a discussão a autorizar o processamento do extraordinário com fundamento no permissivo da alínea d do inciso III do art. 102 da Constituição Federal é aquela em que presente a violação do sistema de repartição de competências legislativas.
+    Confiram-se, a propósito, os seguintes acórdão:
+    “EMENTA: CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. CONSTITUIÇÃO, ART. 102, III, D. CABIMENTO. INVIABILIDADE. INTERPRETAÇÃO DE LEI ORDINÁRIA. QUESTÃO MERAMENTE INFRACONSTITUCIONAL. AUSÊNCIA DE CONFLITO DE COMPETÊNCIAS LEGISLATIVAS. Nos termos da orientação deste Tribunal, cabe à parte impugnar todos os fundamentos da decisão agravada, o que não ocorreu no caso. Ademais, o enquadramento do recurso extraordinário na hipótese de cabimento inscrita no art. 102, III, "d" exige a demonstração, pelo recorrente, de que a Corte de origem, ao julgar válida lei local contestada em face de lei federal, ofendeu o sistema de repartição de competências legislativas estatuído na Constituição. Agravo regimental a que se nega provimento.” (AI 774514 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1º.10.2010)
+    “EMENTA: DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO MUNICIPAL. VALE ALIMENTAÇÃO. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA D DO ART. 102, III, DA CONSTITUIÇÃO FEDERAL. ESTATUTO DOS SERVIDORES MUNICIPAIS CONTESTADO EM FACE DA LEI FEDERAL Nº 8.213/1990. INOCORRÊNCIA DE CONFLITO DE COMPETÊNCIA LEGISLATIVA. DESCABIMENTO. 1. Hipótese em que o Tribunal de origem decidiu a questão à luz da interpretação da legislação que disciplina o regime jurídico dos servidores públicos municipais, sem aplicação da lei local em detrimento da lei federal. Nessas condições, não há violação ao sistema de repartição de competências legislativas previsto na Constituição Federal. Precedentes. 2. Agravo regimental a que se nega provimento.” (ARE 891419 AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 28.9.2015)
+    Na espécie, extrai-se do acórdão recorrido que a lide foi dirimida mediante interpretação e aplicação da legislação local (art. 10 da Lei Estadual 10.177/1998) ao conjunto fático-probatório dos autos, sem enfrentamento de questão a envolver possível violação ao sistema constitucional de repartição de competências legislativas em face da legislação federal apontada no recurso.
+    Assim, a mera pretensão de revisão da interpretação dada à legislação infraconstitucional não é suficiente a autorizar o conhecimento de recurso extraordinário com fundamento no art. 102, III, d, da Carta da Republica.
+    Ante o exposto, não conheço do recurso, nos termos do art. 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
