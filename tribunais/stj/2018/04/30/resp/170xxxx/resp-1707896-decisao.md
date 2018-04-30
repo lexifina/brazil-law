@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal, interposto em desfavor de decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina.
+Consta dos autos que o Parquet ofereceu denúncia contra o réu, dando-o como incurso nas sanções do art. 157, § 2º, incisos I e II, c/c o art. 14, inciso II, ambos do CP (tentativa de roubo circunstanciado pelo emprego de arma e concurso de agentes), tendo a sentença proferida pelo magistrado de piso absolvido o ora recorrente da imputação com fulcro no art. 386, inciso IV, do Código de Processo Penal.
+Irresignada a parte no que tange aos honorários advocatícios do defensor dativo e interposto recurso, restou este desprovido por acórdão assim ementado (e-STJ, fl. 377):
+APELAÇÃO CRIMINAL. CRIME CONTRA O PATRIMÔNIO. TENTATIVA DE ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA E CONCURSO DE AGENTES. SENTENÇA ABSOLUTÓRIA. RECURSO DA DEFESA. PEDIDO DE MAJORAÇÃO DA VERBA HONORÁRIA ARBITRADA EM FAVOR DO DEFENSOR DATIVO, DE ACORDO COM A TABELA DA OAB/SC. IMPOSSIBILIDADE, NA ESPÉCIE. HONORÁRIOS QUE DEVEM LEVAR EM CONSIDERAÇÃO OS PARÂMETROS ESTABELECIDOS NO ART. 20, §§ 3o E 4o, DO CPC VIGENTE À ÉPOCA, C/C O ART. 3o DO CPP, E AO ENTENDIMENTO CONSOLIDADO NA SEÇÃO CRIMINAL DESTE TRIBUNAL. ARBITRAMENTO QUE LEVOU EM CONSIDERAÇÃO A ATUAÇÃO DO DEFENSOR NO CASO CONCRETO, OBSERVADOS OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. NECESSIDADE, NO ENTANTO, DA CONVERSÃO, DE OFÍCIO, DO VALOR FIXADO NA SENTENÇA EM URH"S PARA PECÚNIA. RECURSO DESPROVIDO.
+No arbitramento da verba honorária do defensor dativo, os parâmetros a serem utilizados para a fixação judicial são de livre convencimento motivado do Magistrado, v.g., o trabalho desempenhado, o grau de zelo profissional, o tempo e o labor exigidos para a prestação do serviço, e a complexidade do caso concreto, haja vista tratar-se de defensor nomeado pelo juízo, e não de advogado contratado. Por isso que a tabela da OAB. disciplinando de modo apenas sugestivo e não obrigatório, não vincula o Juízo na fixação da verba honorária ao defensor dativo, sob pena de quebrar financeiramente o Estado se aplicada sistematicamente, de modo a tornar duvidosa a capacidade do erário de suportá-los. "O valor a ser fixado a titulo de verba honorária não deve ter por base o dispositivo legal mencionado pela defesa, porquanto este último se refere à remuneração dos defensores constituídos, tornando-se apenas uma norma de caráter sugestivo sem efeito vinculante, diferentemente da verba devida aos defensores nomeados pelo Estado, que era fixada de acordo com a tabela constante do Anexo Único da Lei Complementar Estadual n. 155/97, antes de ser declarada inconstitucional pelo Supremo Tribunal Federai" (Apelação Criminal n. 2013.083236-6, Des. Alexandre d"lvanenko, Terceira Câmara Criminal, de Joinville, j. 25/2/2014).
+Opostos embargos de declaração, não foram estes conhecidos (e-STJ, fls. 395/401).
+Na petição de recurso especial, a parte recorrente alega negativa de vigência aos arts. 3º do CPP e 22, §§ 1º e 2º, da Lei n. 8.906/94.
+Requer que o arbitramento de honorários advocatícios do defensor dativo criminal se atenha aos valores mínimos previstos na tabela da OAB da Seccional.
+Contrarrazões às fls. 442/447.
+Admitido o recurso (fls. 449/451) os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo provimento do recurso especial nos termos da seguinte ementa (e-STJ, fl. 464):
+RECURSO ESPECIAL RECURSO FUNDADO NAS ALÍNEAS A E C, INCISO III, DO ART. 105 DA CONSTITUIÇÃO FEDERAL. OFENSA AO ART. 22, §§ 1o E 2o, DA LEI N 8.906/1994.
+HONORÁRIOS ADVOCATÍCIOS DO DEFENSOR DATIVO. NECESSIDADE DE VALORES MÍNIMOS FIXADOS NA TABELA DE HONORÁRIOS DA OAB. ACÓRDÃO RECORRIDO EM CONFRONTO COM JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+PARECER PELO PROVIMENTO DO RECURSO ESPECIAL, PARA QUE O TRIBUNAL DE ORIGEM OBSERVE OS VALORES MÍNIMOS ESTABELECIDOS NA TABELA DA OAB.
+É o relatório. Decido.
+Discute-se nestes autos à tese da obrigatoriedade ou não de serem observados, em feitos criminais, os valores estabelecidos na tabela organizada pelo respectivo Conselho Seccional da Ordem dos Advogados a título de verba advocatícia devida a advogados dativos.
+Sobre o tema, a Terceira Seção deste egrégio Superior Tribunal de Justiça, no REsp 1656322/SC e REsp 1665033/SC, Tema n. 984, Rel. Min. Rogerio Schietti Cruz, afetado em 22/11/2017, decidiu sobrestar o julgamento dos processos que versem sobre essa questão até decisão definitiva desta Corte.
+É o que deve ser feito no presente caso.
+Desse modo, com fundamento no art. 1.037, II, do Código de Processo Civil de 2015, determino o sobrestamento do presente recurso até o julgamento definitivo do REsp n. 1656322/SC e REsp n. 1665033/SC.
+Permaneçam os autos na Coordenadoria da Quinta Turma, até o julgamento dos aludidos recursos especiais.
+Após, certifique-se os julgamentos e voltem conclusos.
+Cumpra-se.
+Publique-se. Intimem-se.
