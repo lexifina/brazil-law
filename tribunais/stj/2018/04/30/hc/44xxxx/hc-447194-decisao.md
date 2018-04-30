@@ -1,0 +1,18 @@
+EMENTA
+HABEAS CORPUS CONTRA DECISÃO QUE INDEFERIU PEDIDO LIMINAR EM PRÉVIO WRIT. EXTORSÃO QUALIFICADA. ASSOCIAÇÃO CRIMINOSA. PRISÃO CAUTELAR. FUNDAMENTOS. EXCESSO DE PRAZO PARA OFERECIMENTO DA DENÚNCIA. INEVIDENTE CONSTRANGIMENTO ILEGAL. APLICAÇÃO DA SÚMULA 691/STF.
+Petição inicial indeferida liminarmente.
+DECISÃO
+Em razão do indeferimento do pedido liminar formulado no HC n. 0007056-33.2018.8.27.0000, que tramita no Tribunal de Justiça do Tocantins, impetrou-se este habeas corpus, no qual se pretende a revogação da prisão preventiva de [NOME], ao argumento de ausência de fundamentação idônea a amparar a custódia cautelar e excesso de prazo para formação da culpa.
+Aduz ser o paciente primário, (pai de 02 (dois) filhos menores, dependentes exclusivamente dos cuidados de seu genitor, tendo em vista que este ficou viúvo recentemente, e que a menor de 12 (doze) anos é portadora de cegueira legal) (fl. 15), possuir profissão lícita e residência fixa.
+Narram os autos que o paciente foi denunciado - ao lado de [NOME] - pela suposta prática dos delitos previstos no art. 158, § 1º 3º, e art. 288, caput, na forma do art. 69, todos do Código Penal, por se associar com o fim específico de praticar crimes contra o patrimônio, especialmente, os executados com ardil e outros meios fraudulentos em face de idosos e mulheres (fl. 58).
+Em 14/8/2017, o Juízo da 1ª Vara Criminal da comarca de Araguaína/TO, ao receber a peça acusatória, decretou a prisão preventiva do ora paciente. O mandado foi cumprido em 18/12/2017 (fl. 4). (Autos n. 0000995-89.2018.8.27.2706, desmembrado do Processo n. 0013627-84.2017.8.27.2706).
+É o relatório.
+As Turmas integrantes da Terceira Seção desta Corte, na esteira do preceituado na Súmula n. 691/STF, têm entendimento pacificado de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar em ação de igual natureza, ajuizada nos Tribunais de segundo grau.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+A Juíza de origem, ao decretar a prisão preventiva, além da gravidade concreta da conduta (fl. 67), mencionou que o paciente já registra passagens policiais em diversos Estados da Federação por crimes semelhantes (fl. 70).
+E, aqui, há a compreensão de que o histórico criminal do agente (que pode ser extraído inclusive de inquéritos e ações penais em curso), a revelar fundado receio de reiteração na prática criminosa, autoriza, por si só, o decreto de prisão preventiva como forma de garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal. Nesse sentido, o HC n. 299.156/MG, de minha relatoria, Sexta Turma, DJe 17/11/2014.
+Por fim, segundo pacífico entendimento doutrinário e jurisprudencial, a configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida segundo os critérios de razoabilidade, tendo em vista as peculiaridades do caso. Ademais, destacou o Desembargador Relator que o processo principal se encontra em seu regular processamento, estando a instrução criminal, ao que tudo indica, próxima de seu fim (fl. 90).
+Por fim, inexiste nos autos prova de que o paciente seja o único responsável pelos cuidados de seus filhos.
+Inviável, portanto, a pretendida supressão de instância. Convém aguardar o trâmite regular do habeas corpus impetrado da origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
