@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que inadmitiu recurso especial, fundamentado no art. 105, III, "a" da Constituição Federal, este interposto contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Agravo regimental. Decisão monocrática negou seguimento a agravo de instrumento manifestamente improcedente  Ausência de comprovação da alegação de excesso de execução  A responsabilidade da LBV pelo inadimplemento do acordo é questão preclusa - A existência de Recurso Especial contra o mencionado AI n. 0110460-06.2013.8.26.0000 não modifica o fato de que a agravante tenta rediscutir questão já decidida - O e- mail transcrito às fls. 7 das razões deste agravo regimental não demonstra a alegada suspensão do pagamento (nessa comunicação não há a palavra "suspensão" tampouco menção à modificação do acordo homologado) - Nega-se provimento ao recurso." (fl. 1128)
+Opostos embargos declaratórios, foram rejeitados (fls. 1155/1160).
+Nas razões do recurso especial, LEGIÃO DA BOA VONTADE - LBV alega, preliminarmente, negativa de vigência do art. 1022 do CPC/15 por ocorrência de omissão e contradição quanto às questões da exceção de contrato não cumprido e excesso de execução.
+No mérito, sustenta ofensa aos arts. 525 e 805 do CPC/15, bem como ao art. 476 do Código Civil no que diz respeito à exceção de contrato não cumprido.
+É o relatório.
+A irresignação não merece prosperar.
+De início, não prospera a alegada ofensa ao art. 1022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido examinou cada um dos argumentos suscitados pela parte, adotando fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Acerca das alegações de exceção de contrato não cumprido, o v. aresto recorrido procedeu a uma análise do acordo entabulado entre as partes, bem como de todo o iter processual até a fase de cumprimento de sentença.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento do suporte fático-probatório dos autos, bem como do acordo objeto destes autos, o que é inviável em sede de recurso especial, a teor do que dispõe as Súmulas 5 e 7 deste Pretório.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
