@@ -1,0 +1,23 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Roberto Medrado Reis e outro(a/s) contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado de São Paulo, está assim ementado:
+    “PROCESSUAL CIVIL – Valor da causa inferior a 60 salários mínimos – Reexame necessário – Não conhecimento – par. 2º do art. 475 do C.P.C.
+    COMPLEMENTAÇÃO DE VENCIMENTOS – Servidores Públicos Estaduais – Conversão dos vencimentos/proventos em URV, no período de março de 1994 – Ação ajuizada em junho de 2009. Ocorrência de prescrição do próprio fundo de direito (art. 1º, do Decreto n. 20.910/32) – R. Sentença de procedência reformada.
+    Recurso oficial não conhecido. Recurso da Ré provido.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Com efeito, o acórdão impugnado em sede recursal extraordinária, ao decidir a controvérsia jurídica objeto deste processo, dirimiu  a questão com fundamento em legislação infraconstitucional (Lei nº 8.880/1994 e Decreto nº 20.910/1932), o que torna incognoscível o apelo extremo.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em dispositivos de ordem meramente legal:
+    “Visam os Autores o recálculo dos vencimentos desde março de 1994, além do recebimento das diferenças ocorridas na conversão da URV, alegando descumprimento por parte da Ré, ao ter desrespeitado dispositivo legal que instituiu o Programa de Estabilização Econômica e a Unidade Real de Valor, nos termos da Lei Federal nº 8.880, de 27.5.94.
+    Almejam a revisão do ato administrativo praticado em Março de 1994.
+    A presente ação foi ajuizada em 08 de junho de 2009 e, portanto, mais de quinze anos após o ato impugnado, encontrando-se prescrito o próprio fundo de direito, incidindo o disposto no art. 1º, do Decreto n. 20.910/32.”
+    Vale referir que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questão assemelhada à suscitada em sede recursal extraordinária (ARE 1.064.420/SP, Rel. Min. CELSO DE MELLO – ARE 1.120.827/SP, Rel. Min. ALEXANDRE DE MORAES – ARE 1.122.569/SP, Rel. Min. GILMAR MENDES, v.g.):
+    “Agravo regimental em agravo de instrumento. 2. Servidor público. Reposição salarial de 11,98%. Lei no 8.880, de 1994. Conversão em URV. Prazo prescricional. Decreto no 20.910, de 1932. 3. Prescrição. Contagem de prazo. Análise da legislação infraconstitucional processual. Necessidade. Ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento.”
+    (AI 665.103-AgR/BA, Rel. Min. GILMAR MENDES)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. PRESCRIÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. CONVERSÃO EM UNIDADE REAL DE VALOR – URV. LEI N. 8.088/1994. RE 561.836-RG. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (ARE 891.568-AgR/TO, Rel. Min. CÁRMEN LÚCIA)
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e tendo em consideração as razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Majoro, ainda, em 10% (dez por cento), nos termos do art. 85, § 11, do CPC, a verba honorária anteriormente arbitrada nestes autos, observados os limites estabelecidos nos §§ 2º e 3º desse mesmo art. 85 do referido estatuto processual civil e considerada a orientação que culminou por prevalecer no Plenário desta Suprema Corte no julgamento da AO 2.063- -AgR/CE, Red. p/ o acórdão Min. LUIZ FUX.
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro CELSO DE MELLO
+Relator
