@@ -1,0 +1,52 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra acórdão prolatado, por unanimidade, pela 4ª Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 243/247e):
+AGRAVO EM AGRAVO DE INSTRUMENTO. DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO. PENHORA DE CRÉDITO DE PRECATÓRIO. NATUREZA ALIMENTAR. NÃO CABIMENTO.
+A jurisprudência desta Corte, firmou entendimento no sentido de que o precatório que detém natureza alimentar não pode ser utilizado para compensação de débito tributário.
+Opostos embargos de declaração, foram parcialmente acolhidos, consoante fundamentos resumidos na seguinte ementa (fls. 261/266e):
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. HIPÓTESES DE CABIMENTO. PREQUESTIONAMENTO.
+1. São pré-requisitos autorizadores dos embargos de declaração a omissão, contradição ou obscuridade na decisão embargada. Também a jurisprudência os admite para a correção de erro material e para fim de prequestionamento.
+2. No caso, não há omissão, contradição, obscuridade ou erro material acórdão embargado, contudo, prequestionam-se artigos de lei na intenção de evitar não sejam conhecidos eventuais recursos a serem manejados nas instâncias superiores.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+(i) art. 535 do Código de Processo Civil de 1973 - "verifica-se, assim a contrariedade da decisão recorrida ao disposto no art. 535 do CPC, tendo em vista que foram rejeitados os embargos de declaração opostos pela autarquia, não tendo havido manifestação de forma expressa sobre as teses e dispositivos legais cujo prequestionamento foi requerido. (..) é evidente a omissão do acórdão quanto aos dispositivos invocados para fins de prequestionamento, eis que não houve juízo de valor quanto à conformidade da decisão recorrida em relação aos arts. 11 da LEF e 591, 649, 655, 671 e 672 do CPC, ou seja, não foi efetivamente interpretada sua aplicação ao caso concreto" (fl. 274e);
+(ii) arts. 11 da Lei de Execuções Fiscais e 591, 649, 655, 671 e 672 do Código de Processo Civil de 1973 - "precatório ou a requisição de pequeno valor, ainda que alimentar, não se confunde com dinheiro, verba imediatamente fruível, mas é mero crédito. Portanto, não incide, ao caso, o óbice do art. 649, IV, do Código de Processo Civil, o qual trata de verbas alimentares materializadas em pagamentos sucessivos em dinheiro" (fl. 278e); "as requisições amparadas pelo art. 100 da CF/88 e pelo art. 87 do ADCT possuem a mera natureza de crédito e, quando pagas, são um acréscimo patrimonial, sendo bem disponível; tanto que o art. 100, § 9º, da CF/88 autoriza a compensação no pagamento de precatórios e o art. 100, §§ 13 e 14, da CF/88, autoriza a cessão de créditos de precatório,independentemente de sua natureza, se alimentar ou não. É que a natureza alimentar tem por finalidade, apenas, classificar o precatório para fins de verificação da preferência em lista paralela: (..)" (fl. 279e); "se até o benefício é consignável, há de se inferir que acréscimos patrimoniais decorrentes de requisições judiciais amparadas pelo art. 100 da CF/88 são penhoráveis" (fl. 281e).
+Sem contrarrazões (fl. 286e), o recurso foi inadmitido (fl. 289/290e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 313e).
+O Ministério Público Federal manifestou-se às fls. 323/327e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Prequestionados, implicitamente, os dispositivos tidos por violados, afasto a alegada ofensa ao art. 535, II, do Código de Processo Civil.
+Neste sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO - VIOLAÇÃO DO ART. 535 DO CPC - INOCORRÊNCIA - EXECUÇÃO FISCAL - MULTA MORATÓRIA APLICADA SOBRE MASSA FALIDA - INEXIGIBILIDADE.
+1. Afasta-se violação do art. 535 do CPC quando implicitamente prequestionada a matéria objeto do recurso especial.
+(..)
+3. Recurso especial não provido.
+(REsp 1218364/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 19/02/2013, DJe 27/02/2013)
+PROCESSUAL CIVIL - RECURSO ESPECIAL - INEXISTENTE VIOLAÇÃO DO ART. 535 DO CPC - MATÉRIA VENTILADA IMPLICITAMENTE - VIOLAÇÃO DOS ARTS. 165, 458, II E III - INEXISTÊNCIA - ACÓRDÃO BEM FUNDAMENTADO - DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO - ACÓRDÃO RECORRIDO DECIDIDO À LUZ DA LEGISLAÇÃO ESTADUAL - VEDADO O EXAME DA CONTROVÉRSIA EM SEDE DE RECURSO ESPECIAL.
+1. Afasta-se a alegação de ofensa ao art. 535 do CPC quando o Tribunal, ainda que implicitamente, emite juízo de valor a respeito da questão tida por omissa.
+2. Em nosso sistema processual, o juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se apenas que a decisão seja fundamentada, aplicando o magistrado, ao caso concreto, a legislação por ele considerada pertinente. Caso em que o Tribunal de origem bem fundamentou seu entendimento, afastando, ainda que implicitamente, as teses do recurso especial.
+(..) 6. Recurso especial conhecido parcialmente, mas nessa parte não provido.
+(REsp 1049969/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 24/06/2008, DJe 22/08/2008)
+TRIBUTÁRIO E PROCESSUAL CIVIL. IPI. DIREITO DE CREDITAMENTO. VIOLAÇÃO DO ART. 535 DO CPC NÃO-CONFIGURADA. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. NÃO-OCORRÊNCIA. MULTA PREVISTA NO ART. 538, PARÁGRAFO ÚNICO, DO CPC. DESCABIMENTO.
+1. Afasta-se a violação do art. 535 do CPC quando implicitamente prequestionada a matéria infraconstitucional deduzida nas razões do recurso especial.
+(..)
+4. Recurso especial parcialmente conhecido e, nessa parte, parcialmente provido para afastar a multa de que trata o art. 538, parágrafo único, do CPC.
+(REsp 214.940/PI, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, julgado em 03/05/2005, DJ 27/06/2005, p. 308).
+O tribunal de origem decidiu pela impenhorabilidade do crédito em questão em razão de sua natureza previdenciária, conforme extrai-se dos seguintes excertos do acórdão recorrido (fl. 243e):
+Merece ser mantida a decisão agravada porque em consonância com a jurisprudência do STJ. Isso porque, não se desconhece da possibilidade de penhora de crédito encartado em precatório. Porém, a situação dos autos carrega a peculiaridade de se tratar de crédito de natureza de benefício previdenciário.
+Nas razões do Recurso Especial, tal fundamentação não foi refutada, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha, destaco os seguintes julgados de ambas as Turmas que compõem a 1ª Seção desta Corte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+4. A argumentação do recurso especial não atacou o fundamento autônomo e suficiente empregado pelo acórdão recorrido para decidir que o Código de Edificações do Distrito Federal autoriza à Administração Pública, no exercício regular do poder de polícia, determinar a demolição de obra irregular, inserida em área pública e de preservação permanente. Incide, no ponto, a Súmula 283/STF.
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014);
+ADMINISTRATIVO E PROCESSUAL CIVIL. FASE DE EXECUÇÃO DE SENTENÇA CONDENATÓRIA POR ATO DE IMPROBIDADE. BENS IMÓVEIS PENHORADOS, LEVADOS A HASTA PÚBLICA E ARREMATADOS. SUPERVENIÊNCIA DE DECISÃO EM AÇÃO RESCISÓRIA, RESCINDINDO O ACÓRDÃO CONDENATÓRIO. PRETENSÃO DE ANULAÇÃO DAS ARREMATAÇÕES. NECESSIDADE DE AÇÃO PRÓPRIA. IMÓVEIS QUE TERIAM SIDO ARREMATADOS POR PREÇO VIL. INDENIZAÇÃO QUE DEVE SER BUSCADA EM AÇÃO PRÓPRIA. ACÓRDÃO RECORRIDO CUJOS FUNDAMENTOS NÃO SÃO IMPUGNADOS PELAS TESES DO RECORRENTE. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC.
+(..)
+4. Com relação aos demais pontos arguidos pelo recorrente, forçoso reconhecer que o recurso especial não merece conhecimento, porquanto, além da ausência de prequestionamento das teses que suscita (violação dos artigos 687, 698 do CPC e 166, inciso IV, e 1.228 do Código Civil) (Súmula n. 211 do STJ), tem-se que as razões recursais não impugnam, especificamente, os fundamentos do acórdão recorrido, o que atrai o entendimento da Súmula n. 283 do STF.
+5. Não sendo possível o retorno ao status quo ante, deve o prejudicado pedir indenização por meio de ação própria, caso entenda que aquela arbitrada pelo juízo da execução é insuficiente para recompor sua indevida perda patrimonial.
+Recurso especial não conhecido.
+(REsp 1407870/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/08/2014, DJe 19/08/2014).
+Isto posto, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
