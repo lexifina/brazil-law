@@ -1,0 +1,28 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 155 DO CPP E 121, § 2º, IV, DO CP. DECISÃO DE PRONÚNCIA. INCIDÊNCIA DE QUALIFICADORA. MATÉRIA APRECIADA NO HABEAS CORPUS Nº 415.729/RS. NÃO CONHECIMENTO. AGRAVO NÃO CONHECIDO.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado verbis:
+"APELAÇÃO. HOMICÍDIO QUALIFICADO. INDÍCIOS SUFICIENTES DE AUTORIA E MATERIALIDADE. PRONÚNCIA. ENCAMINHAMENTO DO ACUSADO A JULGAMENTO PELO TRIBUNAL JÚRI. DÚVIDA QUE SE RESOLVE EM FAVOR DA SOCIEDADE. ADMISSIBILIDADE DA QUALIFADORA. A decisão de pronúncia não traduz um juízo condenatório, mas, tão somente um decreto de admissibilidade da acusação, em vista do princípio do indubio pro societate, através da verificação de indícios suficientes de autoria e materialidade do fato, evitando-se o aprofundamento na análise da prova, preservando-se, por conseguinte, a imparcialidade dos jurados na formação do veredicto. Hipótese dos autos em que a prova oral colhida nas fases policial e judicial possibilita o encaminhamento do acusado a julgamento pelo Conselho de Sentença, para que este, no exercício de sua competência constitucional, decida acerca do efetivo envolvimento ou não daquele no crime descrito na peça acusatória. Prescinde seja a prova judicializada (produzida sob o crivo do contraditório) para que seja possível sua utilização para fins de pronúncia. Precedentes desta e. Corte. De igual modo, a prova permite a admissibilidade da qualificadora do recurso que dificultou a defesa da vítima, razão pela qual também deve ser levada para apreciação dos populares. RECURSO PROVIDO. UNÂNIME."
+Em seu recurso especial, às fls. 454/465, sustenta o recorrente afronta aos artigos 155 do Código de Processo Penal e 121, § 2º, inciso IV, do Código Penal, alegando, em resumo, inexistir prova judicializada acerca da autoria delitiva, e não restar demonstrado que utilizou de recurso a impossibilitar a defesa da vítima, devendo ser elidida a qualificadora correspondente.
+O Tribunal de origem, entretanto, negou seguimento ao recurso, às fls. 481/503.
+Em seu agravo, às fls. 509/518, defende o recorrente que a decisão agravada extrapola os limites de exame dos requisitos de admissibilidade do recurso especial, avançando na análise do mérito.
+O Ministério Público Federal manifestou-se às fls. 539/548, pelo não provimento do agravo em recurso especial.
+É o relatório.
+Em consulta aos assentos eletrônicos desta Corte Superior de Justiça, constata-se o trâmite do Habeas Corpus nº 415.729/RS, também de minha relatoria, impetrado em favor do ora recorrente, discutindo a mesma matéria posta no presente recurso.
+Ocorre que, em sessão de julgamento realizada em 8.2.2018, a Sexta Turma desta Corte, à unanimidade, denegou a ordem, apreciando as matérias relativas à impronúncia e exclusão da qualificadora.
+Eis o acórdão, publicado em DJe 26.2.2018, do referido Habeas Corpus:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. NULIDADE. VIOLAÇÃO AO ART. 155 DO CPP. NÃO OCORRÊNCIA. CONDENAÇÃO BASEADA EM OUTROS ELEMENTOS DE PROVA COLHIDOS NA FASE JUDICIAL. EXCLUSÃO DE QUALIFICADORA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. COMPETÊNCIA DO TRIBUNAL DO JÚRI. ORDEM DENEGADA.
+1. Estando a decisão de pronúncia amparada em elementos colhidos na fase inquisitorial e judicial, não há falar em ofensa ao art. 155 do Código de Processo Penal. Hipótese em que a Corte de origem pautou-se em farta prova oral colhida em Juízo para fundamentar a decisão de pronúncia.
+2. Conforme jurisprudência remansosa desta Corte, em sede de decisão de pronúncia, a exclusão de qualificadoras só é admissível quando manifestamente improcedentes, situação diversa da dos presentes autos, devendo ser preservada a competência constitucional do Tribunal do Júri. Precedentes.
+3. Ordem denegada.
+Dessa forma, verifica-se que não há como dar seguimento ao corrente recurso, uma vez que cuida-se de manifesta reiteração de pedido, pleito este inadmissível à luz da jurisprudência pacífica deste Tribunal Superior. Veja-se:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO. PENA CONCRETIZADA EM 5 ANOS, 8 MESES E 22 DIAS DE RECLUSÃO EM REGIME FECHADO. PLEITO DE AGUARDAR EM LIBERDADE O JULGAMENTO DA APELAÇÃO PREJUDICADO. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO. PEDIDO DE APLICAÇÃO DE REGIME PRISIONAL MENOS GRAVOSO JÁ APRECIADO NESTA CORTE (HC 103.501/SP). MERA REITERAÇÃO. PARECER DO MPF PELO DESPROVIMENTO DO RECURSO. RECURSO NÃO CONHECIDO.
+1. Sobrevindo o trânsito em julgado da condenação, resta prejudicado o pedido de aguardar em liberdade o julgamento do apelo defensivo.
+2. Tratando-se de mera reiteração de pedido, inviável o conhecimento do recurso, consoante precedentes deste Egrégio Tribunal.
+3. Parecer pelo desprovimento.
+4. Recurso não conhecido.
+(RHC 24.925/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, QUINTA TURMA, DJe 08/03/2010)
+Ademais, observa-se que já houve a efetiva prestação jurisdicional por este Superior Tribunal quanto à contenda de fundo posta neste agravo em recurso especial, tendo em vista que no julgamento do referido mandamus foi decidido a matéria colocada em debate neste recurso.
+Diante do exposto, com fundamento no artigo 253, parágrafo único, inciso I, do Regimento Interno deste Tribunal, não conheço do corrente agravo em recurso especial.
+Publique-se.
+Intime-se.
