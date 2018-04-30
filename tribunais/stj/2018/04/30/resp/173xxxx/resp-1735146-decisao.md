@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alíneas "a" e "c", inc. III, art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi condenado pela prática do crime previsto no artigo 16, § único, IV, da Lei n. 10.826/2003 (posse de arma de fogo com numeração suprimida), e condenado à pena de 4 anos e 1 mês de reclusão, e 12 dias-multa, em regime fechado, conforme a sentença às fls. 242-248.
+A defesa apelou da sentença e o Tribunal de origem deu parcial provimento ao recurso, conforme o acórdão às fls. 334-344.
+Na sequência, a defesa interpôs recurso especial, no qual alega violação dos arts. 16, § único, IV, da Lei n. 10.826/2003, 386, III, do Código de Processo Penal e 33 do Código Penal, além de divergência jurisprudencial.
+Sustenta que o recorrente não portava ou transportava qualquer arma, sendo que apenas estava em companhia do outro réu que portava a arma de fogo, o que não configura o crime.
+Alega que o acórdão fixou o regime mais severo com fundamento nos maus antecedentes, sem individualizar a conduta do recorrente em conformidade com o entendimento da Súmula n. 719/STF.
+Contrarrazoado (fls. 370-379) e admitido parcialmente (fls. 382-383), manifestou-se o Ministério Público Federal pelo não conhecimento do recurso e pela concessão de habeas corpus de ofício (fls. 396-399).
+É o relatório. Decido.
+O recurso merece parcial provimento.
+Com efeito, verifica-se que o acórdão recorrido concluiu pela participação do ora recorrente na prática do crime, consignando que, muito embora não tenha tido contato direto com o artefato, agiu em conluio com o outro agente, restando comprovada a coautoria. O entendimento do Tribunal de origem não contraria a orientação jurisprudencial do STJ. Confiram-se, nesse sentido, os seguintes precedentes:
+HABEAS CORPUS. PENAL. PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. COAUTORIA. POSSIBILIDADE. TESE DE ATIPICIDADE DA CONDUTA. IMPROCEDÊNCIA. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. ORDEM DE HABEAS CORPUS DENEGADA.
+1. Conforme consignou o Tribunal de origem, as circunstâncias em que a prisão dos Acusados foi efetuada evidenciam que o porte ilegal da arma de fogo apreendida era compartilhado. Assim, presente a unidade de desígnios para o cometimento do delito, descabe falar-se em atipicidade da conduta. Precedentes.
+2. Ordem de habeas corpus denegada (HC 158.931/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 5/9/2012).
+LEGAL DE ARMA DE FOGO DE USO PERMITIDO. CRIME COMUM. CONCURSO DE AGENTES. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. A tipificação da conduta relativa ao porte ilegal de arma de fogo de uso permitido (art. 14 da Lei n. 10.826/06) não exige a qualidade especial do sujeito ativo, podendo ser praticado por qualquer pessoa, não havendo que se falar em crime de mão própria.
+2. Ainda que apenas um dos agentes esteja portando a arma de fogo, é possível que os demais tenham concorrido de qualquer forma para a prática delituosa, motivo pelo qual devem responder na medida de sua participação, nos termos do artigo 29 do Código Penal.
+3. Agravo regimental desprovido (AgRg no REsp 1.577.945/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 01/02/2017).
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CONDENAÇÃO CONFIRMADA PELO TRIBUNAL A QUO. PLEITO DE ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. COAUTORIA DO DELITO. POSSIBILIDADE. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, ser o réu autor do delito descrito na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ. Precedentes.
+3. No caso em exame, as circunstâncias em que a prisão dos acusados foi efetuada evidenciam que o porte ilegal da arma de fogo apreendida era compartilhado, razão pela qual presente a unidade de desígnios para a prática delituosa, não há falar em atipicidade da conduta.
+4. Habeas corpus não conhecido (HC 322.359/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/12/2017).
+Ademais, o acolhimento da pretensão recursal encontra óbice no enunciado n. 7 da Súmula do STJ, por demandar profundo revolvimento do conteúdo fático-probatório dos autos, o que não se viabiliza em recurso especial.
+Quanto ao regime de pena, in casu, embora a primariedade do réu e o quantum de pena (art. 33, § 2º, "c", do CP) permitem, em tese, a fixação do regime aberto, "a existência de circunstância judicial desfavorável (art. 59 do CP) justifica a imposição de regime prisional mais gravoso, no caso o semiaberto, de acordo com o disposto no art. 33, §§ 2º e 3º, do Código Penal" (HC 335.143/SP, desta relatoria, Quinta Turma, DJe de 1º.8.2016).
+Portanto, no tocante ao regime inicial de cumprimento da pena, merece reforma o acórdão, porquanto injustificada a imposição do regime fechado.
+Ante o exposto, com fundamento no art. 932, inc. V, alínea "a", do Código de Processo Civil c/c o art. 3.º do Código de Processo Penal, dou parcial provimento ao recurso especial para fixar o regime inicial semiaberto, nos termos da fundamentação supra.
+Publique-se. Intimem-se.
