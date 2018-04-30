@@ -1,0 +1,19 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "c", da Constituição Federal, contra acórdão proferido pelo TRF da 3ª Região, assim ementado (fl. 227):
+MANDADO DE SEGURANÇA - AGENTE MARÍTIMO - RESPONSABILIDADE POR AUSÊNCIA DE CERTIFICADO INTERNACIONAL DE VACINAÇÃO - LEI N. 6.437/97.
+1. A questão trazida a exame restringe-se a estabelecer os parâmetros de responsabilização do agente marítimo por ato praticado pelo transportador por si agenciado.
+2. A impetrante não trouxe aos autos contrato de agenciamento, ou de instrumento particular de representação, avençado entre si e o armador do navio, impossibilitando a aferição dos limites de atuação daquele enquanto representante desse.
+3. Sob outro aspecto, a Lei n.º 6.437, de 20 de agosto de 1977, determina em seu artigo 30 ser o resultado da infração sanitária imputável tanto a quem lhe deu causa como a quem para ela concorreu.
+4. E, estabelece no artigo 10, inciso XXIII, consistir infração sanitária o "descumprimento de normas legais e regulamentares, medidas, formalidades e outras exigências sanitárias pelas empresas de transportes, seus agentes e consignatários, comandantes ou responsáveis diretos por embarcações, aeronaves, ferrovias, veículos terrestres, nacionais e estrangeiros".
+5. Quer em se considerando a ausência de documentação necessária à verificação dos limites de atuação da impetrante enquanto agente marítimo do navio Solta, quer em face do disposto na referida norma legal, deve ser mantida a sentença denegatória da segurança.
+O recorrente alega divergência entre o acórdão recorrido e julgado deste Superior Tribunal de Justiça defendendo que não existe nexo de causalidade entre conduta de agente marítimo com atuação restrita após a efetiva chegada da embarcação e infração sanitária ocorrida a bordo de navio, motivo pelo qual não pode responder pela mesma.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 347/349.
+É o relatório. Passo a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No caso dos autos, o recorrente não individualizou qual dispositivo de lei federal ou tratado se apresenta malferido. De fato, revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a expor alegações genéricas e não indica qual dispositivo de lei federal ou tratado foi contrariado pelo acórdão recorrido, situação que se evidencia nos autos e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+A jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente, configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com fundamento no artigo 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
