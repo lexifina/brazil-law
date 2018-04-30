@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo, interposto por DIVA LUIZA MOSER DOS SANTOS, em 03/08/2017, contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que inadmitiu o Recurso Especial manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO. LOTEAMENTO IRREGULAR. REGULARIZAÇÃO. RESPONSABILIDADE SUBSIDIÁRIA DO MUNICÍPIO. LITISCONSÓRCIO NECESSÁRIO INOCORRENTE. INTERVENÇÃO DO ENTE PÚBLICO MUNICIPAL. ASSISTENTE SIMPLES.
+- O litisconsórcio necessário somente ocorre nas hipóteses previstas pelo art. 47 do CPC (art. 114 do CPC/15), ou seja, por disposição expressa de lei, ou quando o juiz, diante da natureza da relação jurídica, tiver de decidir a lide de modo uniforme para todas as partes. Situação não verificada na hipótese, tendo em vista que a responsabilidade primária pela regularização do loteamento é do loteador, possuindo o Município responsabilidade apenas subsidiária, já que inexiste projeto aprovado.
+- Se o Ministério Público não demandou contra o Município de Guaporé, tampouco este se manifestou nos autos requerendo participação como assistente litisconsorcial do autor, bem como não se está diante de caso de litisconsórcio passivo necessário, não é possível a inclusão de ofício da municipalidade no polo ativo ou no polo passivo da demanda.
+- Reforma parcial da decisão agravada, para que seja admitida a intervenção do Município de Guaporé na qualidade de assistente simples do Ministério Público autor.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO" (fl. 93e).
+O acórdão em questão foi objeto de Embargos de Declaração, rejeitados nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. PROCESSO CIVIL. DIREITO PÚBLICO. LOTEAMENTO IRREGULAR. REGULARIZAÇÃO. RESPONSABILIDADE. LITISCONSÓRCIO NECESSÁRIO. INEXISTÊNCIA. OMISSÃO. CONTRADIÇÃO. DESACOLHIMENTO.
+- Nos termos do art. 1.022 do CPC, cabem embargos de declaração contra qualquer decisão judicial para (i) esclarecer obscuridade ou eliminar contradição, (ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para (iii) corrigir erro material.
+- Omissão e contradição inexistentes. Alegações da embargante que remontam ao mérito da demanda, o que não pode ser analisado para definição de exigência de litisconsórcio passivo necessário - cuja análise recai apenas sobre o pedido e a causa de pedir postos na inicial.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS" (fl. 120e).
+Sustenta a parte agravante, nas razões do Recurso Especial, ofensa aos artigos 47 do CPC/73 (114 do CPC/2015), 71 da Lei 11.977/2009 e 21 do Decreto 7.499/2011, sob os seguintes fundamentos: a) "ao contrário do que refere o acórdão hostilizado, estamos diante de caso de litisconsórcio passivo necessário do Município de Guaporé, eis que se trata de loteamento do ano 1946, ou sela, anterior à Lei 6.766/79", de modo que "a adequação da gleba não tem como ser efetivada sem a participação da municipalidade" (fl. 142e); b) a área, adquirida por herança, sempre foi absolutamente regular, de modo que a falta de alguma formalidade, não é capaz de macular tal condição, tendo em vista ter atendido às exigências legais da época de sua inscrição; c) "sua integração no polo passivo da ação é medida impositiva, razão pela qual merece ser dado provimento a este excepcional, para que seja reconhecida a existência de litisconsórcio passivo do Município de Guaporé no caso em apreço, com a sua consequente inclusão no polo passivo da demanda" (fl. 146e).
+Requer, ao final, o conhecimento e provimento do Recurso Especial.
+Em contrarrazões, a parte ora agravada assevera que deve ser negado seguimento ao Recurso Especial.
+Negado seguimento ao Recurso Especial (fls. 168/172e), foi interposto o presente Agravo (fls. 180/187e).
+Em contraminuta, a parte agravada afirma que deve ser negado provimento ao Agravo.
+A irresignação não merece acolhimento.
+Acerca da tese da necessidade de reconhecimento do litisconsórcio passivo necessário, manifestou-se o Tribunal de origem:
+"Descabida a inclusão ex officio do ente público municipal no polo passivo, não havendo litisconsórcio passivo necessário no caso em questão.
+Narram os autos que o loteamento ocupado pela agravante e pelos demais demandados está pendente de regularização, tratando-se de responsabilidade primária do loteador e apenas subsidiária do Município, já que não há projeto de loteamento aprovado. Inteligência esta do art. 40 da Lei 6.766/79 (Lei Lehmann).
+(..)
+O litisconsórcio necessário somente ocorre nas hipóteses previstas pelo art. 47 do CPC/73 (art. 114 do CPC/15), ou seja, por disposição expressa de lei, ou quando o juiz, diante da natureza da relação jurídica, tiver de decidir a lide de modo uniforme para todas as partes, o que não ocorre na hipótese, tendo em vista que a regularização deve ser cobrada do ente fiscalizador e dos responsáveis pelo empreendimento.
+(..)
+Houvesse responsabilidade solidária do loteador e do Município, aí sim seria caso de litisconsórcio necessário.
+Todavia, em se tratando de responsável subsidiário o ente público, não há que se falar em sentença de conteúdo idêntico.
+(..)
+Em síntese, se o Ministério Público não demandou contra o Município de Guaporé, tampouco este se manifestou nos autos requerendo participação como assistente litisconsorcial do autor, bem como não se está diante de caso de litisconsórcio passivo necessário, não é possível a inclusão de ofício da municipalidade no polo ativo ou no polo passivo da demanda" (fls. 96/100e).
+Constou, ainda, do acórdão que julgou os Embargos Declaratórios:
+"De fato, consta do acórdão que a responsabilidade pela regularização de loteamento irregular é, primariamente, do loteador e, de forma subsidiária, do Município - inexistindo loteamento aprovado, como aduzido na inicial inexistir. E, ainda, que a regularização deve ser cobrada dos responsáveis pelo empreendimento e do ente fiscalizador. Mas não se disse, em momento algum, que essa cobrança seria de forma solidária, senão sucessiva (porque a responsabilidade é subsidiária, tal como se infere do acórdão embargado).
+(..)
+De toda sorte, reitera-se que não é caso de litisconsórcio, à luz da pretensão formulada na inicial, consoante as premissas postas na decisão embargada.
+Se, eventualmente, procederem as alegações da embargante e constatar-se que não há responsabilidade sua pela regularização do loteamento, ou que o loteamento já é regular, a consequência será a improcedência dos pedidos veiculados na ação civil pública. Não cabe, contudo, discussão de mérito, inclusive com análise de provas, para definição de litisconsórcio" (fls. 124/125e).
+Do exposto, constata-se que a recorrente não infirmou, de forma específica, os fundamentos suficientes destacados, utilizados pelo Tribunal de origem. Destarte, incide, na espécie, a Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"), por analogia.
+Além disso, a modificação das conclusões do acórdão recorrido, no sentido da irregularidade do loteamento, bem como acerca do descabimento do litisconsórcio, demandaria a incursão no conteúdo fático-probatório dos autos, o que é vedado, em sede de Recurso Especial, em razão do óbice da Súmula 7/STJ.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+I.
