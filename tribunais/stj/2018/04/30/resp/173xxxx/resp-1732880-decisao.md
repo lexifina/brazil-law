@@ -1,0 +1,17 @@
+EMENTA
+RECURSO ESPECIAL. SEGURO HABITACIONAL. AÇÃO INDENIZATÓRIA. O TJRS REFORMOU A SENTENÇA QUE HAVIA EXTINGUIDO O PROCESSO POR ILEGITIMIDADE ATIVA E DETERMINOU O RETORNO DOS AUTOS À ORIGEM. IRRESIGNAÇÃO DA RÉ. TESES RECURSAIS: NEGATIVA DE PRESTAÇÃO JURISDICIONAL - OCORRÊNCIA; INTERESSE DA CEF QUE TRANSFERE A COMPETÊNCIA PARA A JUSTIÇA FEDERAL E ILEGITIMIDADE ATIVA - ANÁLISES PREJUDICADAS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+DECISÃO
+Cuida-se de recurso especial interposto por Sul América Companhia Nacional de Seguros, com fulcro no artigo 105, inciso III, alíneas a e c, da Constituição da República, contra os acórdãos proferidos pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementados:
+Apelação cível. Seguros. Seguro habitacional. Processo extinto. Legitimidade ativa dos autores. Sentença desconstituída. Apelo provido.
+Embargos de declaração. Seguros. Seguro habitacional. Inexistência de omissão, obscuridade e contradição. O embargante postula, em verdade, o rejulgamento de mérito, objetivo que não se coaduna com o recurso manejado. O prequestionamento pleiteado não se justifica, visto que a matéria foi totalmente analisada na decisão embargada. Embargos de declaração rejeitados.
+Nas razões do apelo extremo (e-STJ, fls. 401-426), aponta a insurgente, além de dissídio jurisprudencial, a existência de violação aos artigos 485, VI, 489, § 1º, IV e VI, e 1.022 do Código de Processo Civil de 2015; e 3º da Lei 13.000/2014. Sustenta, em síntese: i) a ocorrência de negativa de prestação jurisdicional; ii) haver interesse da Caixa Econômica Federal na lide e, consequentemente, competência da Justiça Federal; e iii) ilegitimidade ativa dos autores.
+Sem contrarrazões (e-STJ, fl. 468).
+Admitido o processamento do recurso na origem (e-STJ, fls. 470-477), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Primeiramente, cinge-se o recurso sobre a ocorrência de negativa de prestação jurisdicional. Defende a insurgente que o Tribunal de origem foi omisso quanto aos seguintes pontos da lide: ilegitimidade ativa dos autores, tendo em vista a irregularidade na cessão do imóvel; e interesse da CEF na lide que desloca a competência para a Justiça Federal.
+Observa-se que, de fato, a Corte local não se manifestou sobre tais argumentos e, embora a recorrente tenha provocado o TJRS através dos aclaratórios (e-STJ, fls. 380-389), este permaneceu silente, conforme se nota da ementa acima colacionada.
+Com efeito, inarredável a conclusão de ofensa ao artigo 1.022 do Código de Processo Civil de 2015, pois, independentemente do acerto ou não da tese invocada, ela deveria ter sido objeto de análise pela Corte de origem.
+Saliente-se, por oportuno, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+Quanto às demais teses recursais, suas análises se mostram prejudicadas diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Por todo o exposto, conheço parcialmente do recurso especial e, nessa extensão, dou-lhe provimento para, reconhecendo a existência de omissão na decisão, anular o acórdão que julgou os embargos de declaração e determinar que outro seja proferido, sanando-se o seu vício, nos termos da fundamentação.
+Publique-se.
