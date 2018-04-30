@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. (eDOC 9, p. 114-127 e eDOC 10, p. 1-4)
+    Consta dos autos que o recorrente, em concurso de agentes, foi condenado à pena de 9 anos, 1 mês e 24 dias de reclusão, em regime inicial fechado, pela prática do delito descrito no artigo 157, § 2º, incisos I, II e V, (por 4 vezes), do CP. (eDOC 8, p. 50-75)
+    Irresignada, a defesa interpôs apelação, que foi parcialmente provida, apenas para reduzir a pena de multa. (eDOC 10, p. 2)
+    Interposto recurso especial, o Superior Tribunal de Justiça dele não conheceu, mas concedeu a ordem de ofício, para minorar a pena e fixá-la em 8 anos, 7 meses e 10 dias de reclusão. (eDOC 13, p. 4-14)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea a, da Constituição Federal, aponta-se violação aos artigos 1º, inciso III; 5º, incisos II, XXXV, XXXXVI, LIV, LV e LVII; e 93, inciso IX, do texto constitucional. (eDOC 11, p. 4)
+    Nas razões recursais, alega-se que o recorrente foi condenado sem suporte probatório, porquanto as testemunhas Lourdes e Odelir não transmitem certeza, ao reconhecerem o agravante como autor do crime. (eDOC 11, p. 10)
+    Aduz-se que o acórdão recorrido foi omisso, por não ter se pronunciado sobre (1) a validade do procedimento de reconhecimento pessoal; (2) a falta de segurança das vítimas na indicação de autoria; (3) a majorante do emprego de arma de fogo e (4) sobre a concessão da assistência judiciária gratuita.
+    É o relatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, registre-se que o acórdão recorrido está devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de ser desnecessário o enfrentamento específico de todos os argumentos trazidos pelo recorrente. Assim, não há que se falar em violação ao artigo 93, inciso IX, da Constituição Federal.
+    Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da parte recorrente.
+    Quanto à alegada ofensa ao princípio do devido processo legal, observo que esta Corte já apreciou essa matéria por meio da sistemática da repercussão geral, tema 660, cujo paradigma é o ARE-RG 748.371, de minha relatoria, DJe 1º.8.2013, oportunidade em que rejeitou a repercussão geral da questão nos casos em que a alegação de violação aos referidos incisos depender de prévia análise da legislação infraconstitucional.
+    No caso, verifico que o Tribunal de origem, com base nas provas dos autos, consignou que a autoria e a materialidade estavam devidamente comprovadas. Nesse sentido, extrai-se o seguinte trecho do acórdão impugnado:
+    “A materialidade delitiva restou comprovada pelo boletim de ocorrência policial de fls. 09/11, pelo auto de apreensão de fl. 19, pelos termos de reconhecimento fotográfico de fls. 62/63 e 66, pelos autos de avaliação de fls. 174/175, pelos autos de exame de corpo de delito de fls. 252/254, pelos autos de verificação de violência de fls. 255/259, bem como pela prova oral colhida durante a instrução.
+    […] Também se observa que embora o réu Alex tenha confessado parcialmente a autoria da ação delituosa, referindo que praticou o crime na companhia de dois indivíduos distintos, os ofendidos Lourdes e Odelir foram seguros ao identificar o acusado Tiago, como um dos agentes do assalto.
+    Ainda, cumpre ressaltar que está pacificado o entendimento de que a palavra da vítima, nos casos como dos autos, geralmente cometidos sem prova testemunhal, possui valor relevante, servindo para constituição de prova idônea e suficiente a ensejar um juízo condenatório.” (eDOC 9, p. 121-124) (grifei)
+    Assim, divergir desse entendimento demandaria o revolvimento do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário. Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal.
+    Quanto à valoração da circunstância judicial, tenho que a controvérsia está prejudicada, em virtude da concessão da ordem pelo Superior Tribunal de Justiça.
+    Ainda que não fosse concedida, tal discussão corresponde ao tema 182 da sistemática da repercussão geral, cujo paradigma é o AI-RG 742.460/RJ, Rel. Min. Cezar Peluso, DJe 25.9.2009, com repercussão geral rejeitada por esta Corte.
+    Ante o exposto, nego seguimento ao recurso (artigo 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 30 de abril de 2018.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
