@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. ART. 1022 DO NCPC. OMISSÃO QUANTO À ANÁLISE DE TEMA RELEVANTE PARA A LIDE. PREJUDICADA A ANÁLISE DOS DEMAIS TEMAS VENTILADOS NO RECURSO ESPECIAL. RETORNO DOS AUTOS PARA JULGAMENTO DOS ACLARATÓRIOS. RECURSO ESPECIAL PROVIDO.
+DECISÃO
+RITA NUNES DA SILVA (RITA) ajuizou ação de indenização contra VIAÇÃO BONANÇA LTDA. (TRANSPORTADORA) e SILVANO LOBO DA SILVA (SILVANO), em razão de lesões sofridas ocorridas quando o coletivo da TRANSPORTADORA, conduzido por SILVANO, transpôs um quebra mola em velocidade excessiva.
+Foi ofertada denunciação à lide da COMPANHIA MUTUAL DE SEGUROS (SEGURADORA).
+O pedido foi julgado parcialmente procedente para condenar a TRANSPORTADORA ao pagamento de indenização por dano moral e danos materiais, sendo indeferido o pedido inicial com relação a SILVANO.
+Também julgou procedente a denunciação à lide, a fim de condenar a SEGURADORA litisdenunciada a reembolsar à denunciante os valores a que fora condenada a pagar à autora.
+Apelou a SEGURADORA.
+O Tribunal de origem deu parcial provimento ao recurso de apelação da SEGURADORA para determinar que o reembolso oriundo da condenação na lide secundária deverá ser feito com dedução do valor da franquia, para que os juros de mora, na condenação por danos materiais, incidam a partir da citação e para excluir a condenação da apelante no pagamento dos ônus da sucumbência na lide secundária.
+Eis o teor do referido acórdão:
+APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS - PRESTAÇÃO DE SERVIÇO DE TRANSPORTE COLETIVO - ACIDENTE - INDENIZAÇÃO - VALOR ARBITRADO - LIDE SECUNDÁRIA - DESCONTO DO VALOR DA FRANQUIA - POSSIBILIDADE - ÔNUS DA SUCUMBÊNCIA - AUSÊNCIA DE RESISTÊNCIA - IMPOSSIBILIDADE DE CONDENAÇÃO.
+1. Para a fixação dos danos morais, deve-se considerar a dupla finalidade do instituto, que é a punição do ofensor, como forma de coibir a sua reincidência na prática delituosa e a compensação da vítima pela dor e sofrimento vivenciados.
+2. Devidamente pactuado o pagamento da franquia pelo segurado na ocorrência de sinistro, não há óbice de que seu valor seja descontado daquele a que a seguradora fora condenada a reembolsar.
+3. Aceitando a denunciada o pagamento dos danos causados pela segurada, não deve ser condenada no pagamento das custas processuais e dos honorários advocatícios na lide secundária (e-STJ, fl. 371).
+Os embargos de declaração opostos pela SEGURADORA foram rejeitados (e-STJ, fls. 412/421 e 467/473).
+Sobreveio, então, recurso especial, fundado no art. 105, III, a, da CF, na qual a SEGURADORA alegou violação dos arts. 98, 99, § 2º, e 1.022, I, todos do NCPC, 18 da Lei Federal nº 6.024/1974; 407 e 884, 944 e 945 do CC/02, 98 do Decreto-Lei nº 73/1966 e 3º da Lei Federal nº 10.190/2001, além de dissídio jurisprudencial. Sustentou, em suma, (1) ausência de entrega completa da prestação jurisdicional, pois a Corte de origem não se manifestou acerca (a) do limite da apólice no que tange à Cláusula Especial de [NOME] [NOME]; (b) da não observância do art. 99, § 2º, do NCPC; (c) da suspensão da incidência de juros e da correção monetária sobre a condenação, enquanto não integralmente pago o passivo da SEGURADORA, que se encontra em liquidação extrajudicial; no mérito, aduziu (2) que nos termos do art. 18, d e f da Lei Federal nº 6.024/74, os juros de mora devem ser suspensos enquanto não integralmente pago o passivo da SEGURADORA, sendo vedada a incidência de correção monetária sobre o título executivo de empresa que se encontra em liquidação extrajudicial; (3) necessidade de suspensão das demandas propostas contra a seguradora em liquidação extrajudicial; e (4) necessidade da concessão da justiça gratuita e impossibilidade de seu indeferimento de plano.
+O recurso foi inadmitido na origem, sobrevindo o presente agravo.
+É o relatório.
+DECIDO.
+O recurso merece acolhimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da ofensa ao art. 1022 do NCPC
+A SEGURADORA alegou violação do art. 1022 do NCPC, pois, não obstante a oposição dos embargos de declaração, a Corte de origem não se manifestou acerca do limite da apólice no que tange à Cláusula Especial de [NOME], da não observância do art. 99, § 2º, do NCPC e da suspensão da incidência de juros e da correção monetária sobre a condenação, em razão da decretação de sua liquidação extrajudicial, ocorrida em novembro de 2015.
+O Tribunal a quo, ao rejeitar os embargos de declaração opostos pela SEGURADORA, indeferiu o benefício da gratuidade de justiça e destacou a inaplicabilidade da regra estabelecida no art. 99, § 2º, do NCPC, uma vez que os embargos de declaração foram opostos sob a égide do CPC/73, e no mais, reconheceu inexistir, no acórdão rechaçado, quaisquer dos vícios elencados no art. 1022 do NCPC, deixando de analisar as questões atinentes ao limite da apólice no que tange à Cláusula Especial de [NOME] e à necessidade de suspensão da incidência dos juros e da correção monetária sobre a condenação, ante a decretação de sua liquidação extrajudicial, ocorrida em novembro de 2015.
+De fato, a Corte de origem não se manifestou sobre referidos temas, suscitados nos aclaratórios.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se a Corte de origem a se manifestar sobre as questões federais invocadas nos aclaratórios, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o vício apontado, ficando prejudicada a análise dos demais pontos suscitados no presente recurso.
+Nessas condições, DOU PROVIMENTO ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que analise as matérias relativas ao limite da apólice no que tange à Cláusula Especial de [NOME] e à necessidade de suspensão da incidência dos juros e da correção monetária sobre a condenação, como entender de direito.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intime-se.
