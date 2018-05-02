@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por TECNISA EMPREENDIMENTOS IMOBILIÁRIOS LTDA e KIRRA INVESTIMENTOS IMOBILIÁRIOS LTDA, com fundamento na alínea "c" do inciso III do art. 105 da Constituição Federal, contra acórdão assim ementado (fl. 451):
+Promessa de compra e venda - atraso, indenização e restituição de valores. Parcial procedência do pedido. Inconformismo dos autores. Parcial provimento. Reconhecida a legitimidade passiva da corré Tecnisa. Atraso na obra em verificado, sem apelo pelas rés em tal questão. Danos morais verificados. Valor arbitrado em dez mil reais. Comissão de corretagem - indevida a restituição - havendo previsão contratual responsabilizando os autores e tendo sido alcançado do escopo do contrato de corretagem, não há razão que justifique o não pagamento por eles da conseqüente contraprestação. Juros moratórios da citação. Honorários advocatícios sucumbenciais em favor dos autores, arbitrados em 10% sobre o valor da condenação.
+Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (fls. 528/529).
+As recorrentes sustentam a existência de divergência jurisprudencial acerca do cabimento de indenização por danos morais decorrentes de atraso na entrega de imóvel, alegando que se trata de mero inadimplemento contratual. Pugnam, alternativamente, pela redução do valor fixado (R$ 10.000,00 - dez mil reais), a fim de que não seja superior a R$ 3.000,00 (três mil reais).
+Assim posta a questão, passo a decidir.
+No presente caso, o acórdão recorrido, em razão de atraso de nove meses após o período contratual previsto para a entrega do imóvel, considerou caracterizado o dano moral e o fixou em R$ 10.000,00 (dez mil reais).
+A jurisprudência desta Corte, contudo, entende que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Orienta, ainda, a jurisprudência que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis.
+Confiram-se, a propósito, os seguintes precedentes:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSABOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19.2.2015);
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27.10.2015);
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. DECISÃO MANTIDA.
+1. "Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais" (AgRg no AREsp n. 570.086/PE, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1076228/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 15.12.2017).
+No caso em exame, considerando que o único fundamento utilizado pelo acórdão recorrido para deferimento da indenização foi a frustração da expectativa de usufruir do imóvel, fica descaracterizado o dano extrapatrimonial.
+Com o afastamento dos danos morais, fica prejudicada a discussão acerca do valor fixado.
+Em face do exposto, dou provimento ao recurso especial para afastar a condenação em danos morais. Em razão da sucumbência recíproca, os autores arcarão com 25% (vinte e cinco por cento) e as rés com 75% (setenta e cinco por cento) das custas processuais e dos honorários advocatícios fixados no acórdão recorrido.
+Intimem-se.
