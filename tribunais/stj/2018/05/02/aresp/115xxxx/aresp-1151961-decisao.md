@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA DO ESTADO DE SÃO PAULO contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial fundado na alínea "a"  do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 358):
+EMBARGOS À EXECUÇÃO. COMPENSAÇÃO DE HONORÁRIOS DE ADVOGADO.
+"Os honorários advocatícios de sucumbência, quando vencedor o ente público, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público da entidade. Logo, é legítima a compensação determinada pelo juízo de origem" (STJ -REsp 668.586 -Rei. Min. DENISE ARRUDA, j. 3-10-2006).
+Não provimento do recurso.
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 23 da Lei n. 8.906/1994 e 369 do Código Civil. Aduziu, em síntese, que a Fazenda Pública tem regime jurídico especial e absolutamente distinto do regime jurídico dos particulares e que a execução contra ela se faz nos termos do art. 100 da CF/88, sendo vedada a compensação de débitos oriundos de honorários advocatícios com os valores a serem pagos por meio de precatórios.
+ Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 378).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Contraminuta às e-STJ fls. 391/398.
+ Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+ Feita essa consideração, observa-se que a irresignação recursal não comporta acolhida.
+Com efeito, de acordo com a jurisprudência do Superior Tribunal de Justiça, os honorários advocatícios de sucumbência, quando vencedora a Fazenda Pública, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público da entidade.
+Desse modo, o acórdão impugnado decidiu em compasso com a jurisprudência desta Corte, no sentido de possibilitar a compensação dos honorários devidos pelo ora recorrido com o montante a que tem direito a receber do Estado, via precatório. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ECT. EMPRESA PÚBLICA. HONORÁRIOS DE ADVOGADO. RESERVA EM FAVOR DE EX-ADVOGADO DA ECT, QUE ATUOU NO FEITO, NO PROCESSO DE CONHECIMENTO. IMPOSSIBILIDADE. JURISPRUDÊNCIA DOMINANTE DO STJ. SÚMULA 568/STJ. ALEGAÇÃO DE QUE O ADVOGADO NÃO É EMPREGADO PÚBLICO DA ECT. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO INTERNO IMPROVIDO.
+(..)
+IV. Nos termos da jurisprudência do STJ, ""a titularidade dos honorários advocatícios de sucumbência, quando vencedora a administração pública direta da União, dos estados, do Distrito Federal e dos municípios, ou as autarquias, as fundações instituídas pelo Poder Público, ou as empresas públicas, ou as sociedades de economia mista, não constituem direito autônomo do procurador judicial, porque integram o patrimônio público da entidade" (REsp 1.213.051/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/12/2010, DJe 08/02/2011)" (STJ, AgRg no REsp 1.243.084/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/11/2015). Em igual sentido: STJ, REsp 1.247.909/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 09/10/2013; AgRg no REsp 1.348.613/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2012; REsp 1.213.051/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 08/02/2011; AgRg no AgRg no REsp 1.251.563/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 14/10/2011; AgRg no REsp 1.169.515/RS, Rel. Ministro OLINDO MENEZES (Desembargador Federal Convocado do TRF/1ª Região), PRIMEIRA TURMA, DJe de 02/03/2016.
+(..)
+VII. Agravo interno improvido. (AgInt no AREsp 259.294/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/10/2016, Dje 17/11/2016).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRAÇÃO PÚBLICA. HONORÁRIOS DE SUCUMBÊNCIA. TITULARIDADE.
+1. As Turmas que integram a Primeira Seção do Superior Tribunal de Justiça firmaram o entendimento de que a titularidade dos honorários de sucumbência, quando vencedora a Administração Pública, suas autarquias, fundações e empresas públicas ou sociedades de economia mista, não constituem direito autônomo do procurador judicial, porquanto integram o patrimônio público da entidade estatal.
+Precedentes.
+2. Agravo interno desprovido. (AgInt no REsp 1198678/RS, minha relatoria, PRIMEIRA TURMA, julgado em 25/10/2016, DJe 21/11/2016).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM FAVOR DO ESTADO. COMPENSAÇÃO DOS HONORÁRIOS COM O CRÉDITO OBJETO DA EXECUÇÃO PROMOVIDA CONTRA O ENTE PÚBLICO. POSSIBILIDADE. NÃO CONFIGURADO DIREITO AUTÔNOMO DO PROCURADOR MUNICIPAL.
+1. Os honorários de sucumbência, quando vencedor o ente público, não constituem direito autônomo do Advogado Público, porque integram o patrimônio da entidade, não pertencendo ao procurador ou representante judicial. Logo, é legítima a determinação do juízo de origem quanto à compensação dos honorários devidos ao ente público com o crédito objeto da execução promovida contra o mesmo.
+2. Agravo não provido. (AgRg no AREsp 5.466/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/08/2011, Dje 26/08/2011).
+Incide, in casu, a Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" , do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista do Enunciado Administrativo n. 7 do STJ.
+ Publique-se. Intimem-se.
