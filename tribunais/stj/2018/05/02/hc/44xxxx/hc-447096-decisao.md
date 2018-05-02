@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de [NOME] DE RESENDE, contra acórdão do Tribunal de Justiça do Estado de Goiás (HC n. 0014343-48.2018.8.09.0000).
+Extrai-se dos autos que o paciente foi preso temporariamente em 9/3/2017 pela suposta prática dos delitos tipificados nos arts. 2º, § 2º, da Lei n. 12.850/13, e art. 157, § 2º, incisos I, II e V, do Código Penal (organização criminosa e roubo circunstanciado). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. ROUBO MAJORADO PELO EMPREGO DE ARMA, CONCURSO DE PESSOAS E RESTRIÇÃO DA LIBERDADE DA VÍTIMA. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA E DOS REQUISITOS LEGAIS. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. PREDICADOS PESSOAIS. IRRELEVÂNCIA. EXCESSO DE PRAZO. NÃO CONFIGURADO. I - Não há constrangimento ilegal decorrente da decisão que decreta a prisão preventiva do paciente e indefere o pedido de revogação da constrição, quando embasadas em fatos concretos, presentes seus pressupostos autorizadores, não a impedindo o preenchimento dos predicados pessoais, máxime quando não comprovados. II  Somente se cogita da existência de constrangimento ilegal por excesso de prazo quando a demora for motivada pelo descaso injustificado do Juízo processante. III - ORDEM CONHECIDA E DENEGADA (fl. 175).
+No presente mandamus, ressalta as condições pessoais favoráveis do paciente e alega que o decreto prisional carece de fundamentação idônea. Aduz a ausência dos requisitos autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal.
+Assevera haver excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de 400 dias sem que a instrução tenha sido encerrada. Atribui a demora ao conflito de competência entre os Juízos das Comarcas de Hidrolândia/GO e de Piracanjuba/GO. Assevera inexistir complexidade que justifique o atraso no trâmite processual.
+Destaca parecer do Parquet estadual pela concessão da ordem no writ originário. Aponta que o prazo de 30 dias concedido pelo Tribunal, para que a magistrada de primeiro grau julgasse o feito ou o desmembrasse em relação ao paciente, encontra-se expirado. Sustenta a suficiência da aplicação de medidas cautelares alternativas.
+Pugna, assim, em liminar e no mérito, pela expedição de alvará de soltura para os dois processos de primeiro grau, se for o caso com aplicação de medidas cautelares alternativas, nos termos do art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+No caso, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da tutela de urgência.
+Confundindo-se com o mérito, a pretensão deve ser submetida à análise do órgão colegiado, oportunidade na qual poderá ser feito exame aprofundado das alegações relatadas após manifestação do Parquet.
+Por tais razões, indefiro o pedido de liminar.
+Oficie-se à autoridade coatora, bem como ao juízo de primeiro grau a fim de solicitar-lhes as informações pertinentes, a serem prestadas, preferencialmente, por meio eletrônico, e o envio de senha para acesso ao processo no site do Tribunal, se for o caso.
+Após, encaminhem-se os autos ao Ministério Público Federal para parecer.
+Publique-se.
+Intimem-se.
