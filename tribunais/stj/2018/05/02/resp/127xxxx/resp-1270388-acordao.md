@@ -1,0 +1,48 @@
+EMENTA
+PREVIDENCIÁRIO. RECURSOS ESPECIAIS. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RENÚNCIA. DESAPOSENTAÇÃO. IMPOSSIBILIDADE. RETRATAÇÃO. RECURSO DO AUTOR NÃO PROVIDO. RECURSO DO INSS PROVIDO.
+1. O Supremo Tribunal Federal, em sede de repercussão geral, ao apreciar o mérito do RE 661.256/SC, definiu que, " n o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei n. 8213/91".
+2. No caso em exame, o julgado proferido pela Quinta Turma, em sede de agravo regimental interposto pelo ente estatal, não se coaduna com a tese apreciada pelo Supremo Tribunal Federal no aludido RE 661.256/SC, devendo ser realizado o seu realinhamento.
+3. Juízo de retratação exercido. Reconsideração do julgado para negar provimento ao recurso especial do autor e dar provimento ao do INSS.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, em juízo de retratação, conhecer do recurso do INSS e dar-lhe provimento e conhecer do recurso do autor e negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS(Relator):
+Trata-se de recursos especiais que retornaram para julgamento pelo órgão colegiado desta Quinta Turma, após a interposição de recurso extraordinário, em face do disposto no art. 1.030, II, do Código de Processo Civil, para análise de eventual retratação, em razão de julgado proferido no RE n. 661.256/SC, em sede de repercussão geral.
+Os mencionados recursos foram interpostos por [NOME], com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, e pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com base no art. 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região.
+Por meio de decisão monocrática, o Ministro GILSON DIPP negou provimento ao recurso da autarquia e deu provimento ao do autor para afastar a exigibilidade de devolução dos valores recebidos a título de proventos, bem como negou provimento ao do INSS. Interposto agravo regimental pelo ente estatal, a Quinta Turma negou provimento ao recurso, nos termos da seguinte ementa:
+"PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. LIMITES NORMATIVOS. APRECIAÇÃO DE MATÉRIA CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. REPERCUSSÃO GERAL. SOBRESTAMENTO DO RECURSO ESPECIAL. NÃO OBRIGATORIEDADE. INFRAÇÃO À RESERVA DO PLENÁRIO. INEXISTÊNCIA. APOSENTADORIA. DIREITO DE RENÚNCIA. CABIMENTO. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DO ENUNCIADO N. 111/STJ. AGRAVO PARCIALMENTE PROVIDO.
+I - É vedado a esta Corte, em sede de recurso especial, adentrar ao exame de pretensa violação a dispositivos constitucionais, cuja competência encontra-se adstrita ao âmbito do Supremo Tribunal Federal, conforme prevê o art. 102 da Carta Magna, ao designar o Pretório Excelso como seu guardião. Neste contexto, a pretensão trazida no especial exorbita seus limites normativos, que estão precisamente delineados no art. 105, III da Constituição Federal.
+II - Não compete ao relator determinar o sobrestamento de recurso especial em virtude do reconhecimento de repercussão geral da matéria pelo Supremo Tribunal Federal, tratando-se de providência a ser avaliada quando do exame de eventual recurso extraordinário a ser interposto, nos termos previstos no artigo 543-B do Código de Processo Civil.
+III - Não há violação ao princípio constitucional da reserva de plenário, nos termos do artigo 97 da Constituição Federal, quando não existe, ao menos implicitamente, declaração de inconstitucionalidade de qualquer lei, como se observa na presente hipótese.
+IV - O entendimento desta Corte é no sentido de se admitir a renúncia à aposentadoria objetivando o aproveitamento do tempo de contribuição e posterior concessão de novo benefício, independentemente do regime previdenciário que se encontra o segurado, não importando em devolução dos valores percebidos.
+V - Agravo interno desprovido." (e-STJ, fl. 432).
+Opostos embargos de declaração, foram rejeitados.
+Inconformado, o INSS interpôs recurso extraordinário, o qual foi sobrestado por força do reconhecimento da repercussão geral sobre o tema, nos termos do art. 328-A do RISTF.
+Ante o julgamento do RE n. 661.256/SC, pelo Supremo Tribunal Federal, estes autos foram encaminhados pela Vice-Presidência desta Corte Superior à Quinta Turma, por meio de despacho, para análise de possível retratação, conforme o disposto no art. 1.030, II, do Código de Processo Civil.
+Os autos foram a mim redistribuídos em 2/1/2018.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO. RECURSOS ESPECIAIS. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RENÚNCIA. DESAPOSENTAÇÃO. IMPOSSIBILIDADE. RETRATAÇÃO. RECURSO DO AUTOR NÃO PROVIDO. RECURSO DO INSS PROVIDO.
+1. O Supremo Tribunal Federal, em sede de repercussão geral, ao apreciar o mérito do RE 661.256/SC, definiu que, " n o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei n. 8213/91".
+2. No caso em exame, o julgado proferido pela Quinta Turma, em sede de agravo regimental interposto pelo ente estatal, não se coaduna com a tese apreciada pelo Supremo Tribunal Federal no aludido RE 661.256/SC, devendo ser realizado o seu realinhamento.
+3. Juízo de retratação exercido. Reconsideração do julgado para negar provimento ao recurso especial do autor e dar provimento ao do INSS.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS(Relator):
+Conforme relatado, retornaram os recursos especiais interpostos pela autarquia e pelo autor ao colegiado para o exercício do juízo de retratação previsto no art. 1.030, II, do Código de Processo Civil.
+Extrai-se dos autos que a sentença julgou procedente o pedido do autor. Interpostas apelações pelas partes, o recurso do autor foi desprovido e do INSS parcialmente provido pelo TRF4.
+Interpostos recursos especiais pelas partes nesta Corte, o Ministro GILSON DIPP negou provimento ao recurso da autarquia e deu provimento ao do autor para "afastar a exigibilidade de devolução dos valores recebidos a título de proventos". Interposto agravo regimental pelo ente estatal, a Quinta Turma negou provimento ao recurso.
+Opostos embargos de declaração, foram rejeitados.
+Ocorre que, no julgamento da repercussão geral, o Supremo Tribunal Federal, em sede de repercussão geral, ao apreciar o mérito do RE 661.256/SC, definiu que, " n o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei n. 8213/1991".
+Confira-se a ementa do referido julgado:
+"Constitucional. Previdenciário. Parágrafo 2º do art. 18 da Lei n. 8.213/91. Desaposentação. Renúncia a anterior benefício de aposentadoria. Utilização do tempo de serviço/contribuição que fundamentou a prestação previdenciária originária. Obtenção de benefício mais vantajoso. Julgamento em conjunto dos RE nºs 661.256/SC (em que reconhecida a repercussão geral) e 827.833/SC.
+Recursos extraordinários providos.
+1. Nos RE nºs 661.256 e 827.833, de relatoria do Ministro Luís Roberto Barroso, interpostos pelo INSS e pela União, pugna-se pela reforma dos julgados dos Tribunais de origem, que reconheceram o direito de segurados à renúncia à aposentadoria, para, aproveitando-se das contribuições vertidas após a concessão desse benefício pelo RGPS, obter junto ao INSS regime de benefício posterior, mais vantajoso.
+2. A Constituição de 1988 desenhou um sistema previdenciário de teor solidário e distributivo. inexistindo inconstitucionalidade na aludida norma do art. 18, § 2º, da Lei n. 8.213/1991, a qual veda aos aposentados que permaneçam em atividade, ou a essa retornem, o recebimento de qualquer prestação adicional em razão disso, exceto salário-família e reabilitação profissional.
+3. Fixada a seguinte tese de repercussão geral no RE n. 661.256/SC: " n o âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do art. 18, § 2º, da Lei n. 8213/1991".
+4. Providos ambos os recursos extraordinários (RE nºs 661.256/SC e 827.833/SC)." (Relator p/ acórdão Ministro DIAS TOFFOLI, TRIBUNAL PLENO, julgado em 27/10/2016, DJe 28/9/2017).
+No caso dos autos, a Quinta Turma acolheu a desaposentação, o que contraria o entendimento firmado pelo Supremo Tribunal Federal no RE n. 661.256/SC.
+Assim, diante do efeito vinculativo do referido julgado, com fundamento no art. 1.030, II, do Código de Processo Civil, em juízo de retratação, deve o posicionamento adotado nestes autos ser retratado para julgar improcedente o pedido do autor. Em consequência, condeno o autor ao pagamento das custas e dos honorários advocatícios, fixados em 10% sobre o valor atualizado da causa. Contudo, sendo ele beneficiário da assistência judiciária gratuita, a execução do julgado observará a condição suspensiva prevista no art. 98, § 3º, do NCPC.
+Ante o exposto, nego provimento ao recurso especial do autor e dou provimento ao do INSS, para julgar improcedente o pedido.
+É o voto.
