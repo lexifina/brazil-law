@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] e outro contra decisão que não admitiu o recurso especial com base na ausência de ofensa ao art. 535 do CPC/1973 e na incidência do óbice da Súmula 7 do STJ.
+O apelo nobre foi manejado com amparo nas alíneas "a" e "c" do permissivo constitucional em oposição a acórdão assim ementado (e-STJ, fl. 219):
+Apelação Cível. Ação Popular. Impugnação de ato que concedeu afastamento remunerado ao Diretor Jurídico da Câmara Municipal de Barretos. Pretensão de anulação do ato e condenação de ambos os réus, ou seja, do seu beneficiário e do Presidente da Câmara que o praticou, à restituição do valor indevidamente pago durante o indigitado período de afastamento. Ação julgada parcialmente procedente na origem, dissentindo o julgado da inicial quanto ao período de afastamento que se constatou ser inferior ao apontado. Ausência da nulidade apontada por inocorrência de prejuízo. Afastamento que, de fato, não conta com previsão na legislação municipal de regência. Nulidade do ato concessivo configurada. Servidor que recebeu os valores de boa-fé. Impossibilidade de carrear-lhe a responsabilidade pela reposição. Entendimento consolidado perante o STJ. Admissibilidade, entretanto, de impor ao gestor estatal - Presidente da Câmara - a restituição monetária dos valores pagos indevidamente com o seu beneplácito. Acolhimento parcial do recurso para esse fim. Sentença reformada em parte. Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados, nos termos do acórdão de e-STJ, fls. 236-240.
+Nas razões do especial, alega a parte interessada violação do art. 535, I e II, do CPC/1973, argumentando que o acórdão recorrido foi contraditório e omisso acerca das questões apresentadas nos recursos ordinários.
+Afirma que, "considerando a incidência da regra constante do art. 1º, da Lei nº 4.717/65, na qual se exige a legalidade e lesividade do ato questionado, e tendo havido a comprovação nos autos de que durante o período de afastamento do Dr. [NOME] verificou-se que, mesmo à distância, prestou regularmente serviços à Câmara Municipal, então se afigura ausente o requisito da lesividade, ainda que o ato liberatório seja tido por ilegal" (e-STJ, fl. 249).
+Destaca, outrossim, negativa de vigência ao art. 1º da Lei n. 4.717/1965. Sustenta que o entendimento firmado pela Corte de origem contrariou o referido dispositivo legal, em virtude de ter considerado lesivo "pagamento efetivado a título de vencimentos (durante o período de afastamento de 12 a 29 de julho de 2003), sem contudo considerar que o [NOME] prestou regularmente os serviços, conforme restou efetivamente comprovado nos autos" (e-STJ, fl. 251).
+ Assevera que "tais argumentos foram inseridos desde a contestação, os quais também devolvidos por ocasião da Apelação e mesmo em sede de Embargos Declaratórios, tendo o v. acórdão se omitido na apreciação dos mesmos" (e-STJ, fl. 251).
+Aponta, por fim, divergência jurisprudência existente entre o acórdão recorrido e a orientação de outros tribunais acerca do tema.
+Contrarrazões apresentadas às e-STJ, fls. 263-265.
+É o relatório.
+Decido.
+Com fulcro no art. 253, parágrafo único, II, "d", do RISTJ, conheço do agravo para determinar sua autuação como recurso especial, para melhor análise da questão suscitada, sem prejuízo de novo exame acerca do cabimento do apelo nobre, a ser realizado no momento processual oportuno.
+Após, encaminhem-se os autos ao Ministério Público Federal e, ato contínuo, retornem conclusos, com brevidade.
+Publique-se. Intimem-se.
