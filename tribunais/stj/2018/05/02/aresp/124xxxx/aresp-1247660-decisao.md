@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 485, VI, do Código de Processo Civil de 2015 e 186, 187 e 927 do Código Civil. O acórdão recorrido está retratado na seguinte ementa (fl. 192):
+APELAÇÃO CÍVEL. INDENIZAÇÃO. DANO MATERIAL E MORAL. ADVOGADO CONTRATADO POR ASSOCIAÇÃO DE FUNCIONÁRIOS. ERRO GROSSEIRO. PERDA DE PRAZO RECURSAL. CONTRATAÇÃO EMBASADA NA FIDÚCIA DO ASSOCIADO. O ERRO GROSSEIRO CORRESPONSABILIZA A ASSOCIAÇÃO APELADA. DIREITO COM ALTA PROBABILIDADE DE PROCEDÊNCIA. DANO MATERIAL CONFIGURADO. INDENIZAÇÃO DEVIDA. DANO MORAL. NÃO SE CONFIGURA PELO MERO PREJUÍZO ECONÔMICO SOFRIDO.
+A relação jurídica existente entre a Associação e o associado funda-se na fidúcia, quebrada quando o advogado indicado perdeu o prazo do recurso. O fato caracteriza erro grosseiro do causídico, que corresponsabiliza, por error in elegendo, a associação. Ademais, o direito invocado possuía alta probabilidade de provimento, inclusive administrativamente, motivo pelo qual é devida a indenização material. O mero prejuízo econômico, não configura, por si só, dano moral, já que não agridem a dignidade humana.
+Sustenta a associação, em síntese, que "não há fundamento legal que obrigue a ANABB a reparar dano causado pelo advogado por ela indicado" (fl. 233).
+Afirma, dessa forma, que "não se demonstra razoável o entendimento de que a associação que indica advogado para a defesa judicial de interesse de seus associados seja responsável por eventualmente negligência cometida pelo advogado no exercício da função" (fl. 235).
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que a Corte de origem consignou que ficou configurado o dano material, afastando, todavia, o dano moral, assim discorrendo (fls. 196/200):
+(..)
+Sigo no exame do mérito.
+Inicio verificando que, nos documentos de fls. 34/35 e 37/38, restou comprovado que o patrono contratado pelo autor-apelante perdera o prazo peremptório do recurso inominado contra a sentença do 23º Juizado Especial Federal.
+O advogado deve responder por seus erros. Afinal, é inaceitável o exercício da advocacia com precariedade e a prática de erros irrecusáveis, como, in casu, a perda de prazos judiciais.
+Para tanto, a sentença vergastada peca em afirmar não haver erro grosseiro do patrono indicado pela associação apelada, já que cometeu o indesculpável equívoco de perder o prazo do recurso inominado à sentença, como já dito acima.
+O pior é que sua indiligência não se encerra aí.
+A sentença de fls. 25/26, é hialina em afirmar e, devo frisar, informar que a repetição de indébito - perdida por erro grosseiro de seu advogado - poderia ser alcançada por mero requerimento administrativo, na inteligência da Instrução Normativa n.º 165/98 da Secretaria de Receita Federal (repetição de indébito dos valores pagos a título de Imposto de Renda - IR sobre as verbas recebidas por adesão a Programa de Demissão Voluntária - PDV - verbas de natureza indenizatória).
+Esclareço, ainda, que ao tempo da propositura da Ação Federal em apreço (16/11/2004 - fl. 85), o prazo para a ação de repetição de indébito nos tributos sujeitos ao lançamento por homologação - como o IR do caso dos autos - era de 10 (dez) anos - em jurisprudência pacífica até o advento da LC nº 118/05.Vide julgado abaixo:
+(..)
+Contudo, devidamente informado da possibilidade de ingresso da repetição de indébito por via administrativa (dezembro de 2005 - fls. 25/26), o patrono então contratado nada fez, deixando fluir o prazo decenal para o pedido de restituição ora base das verbas indenizatórias aqui requeridas.
+Coroando a sua indiligência, aqui adicionada por certa imperícia, o patrono em ataque, apenas informou do inêxito do pedido judicializado após transcorrido o prazo prescricional (outubro de 2007 - vide fl. 16), instruindo equivocadamente o ora apelante de que o prazo prescricional para o seu caso era quinquenal, entendimento que afronta a pacífica jurisprudência acima colacionada.
+A imperícia profissional segue na afirmação de que a Lei Complementar 118/05 alterou a prescrição da repetição de indébito em exame, já que, conforme a mesma jurisprudência acima, o novo prazo prescricional só atingiria as ações propostas a partir de 9 de junho de 2005 (vide fl. 85).
+Verificados o dano e a responsabilidade de indenizar do patrono então contratado, não sendo ele parte da contenda, sigo na apreciação de eventual corresponsabilidade da associação apelada.
+A relação jurídica existente entre a Associação Nacional dos Funcionários do Banco do Brasil - ANABB e o apelante funda-se, sobretudo, na fidúcia, pois o associado somente contribuiu para a associação apelada por acreditar que ela atuaria na busca de seus direitos como empregado do banco. Tal expectativa restou frustrada no momento em que, informado de que perdera a ação judicial, o apelante se viu sem os valores que visava restituir (vide a cobrança de IR à fl. 22).
+Reforça a ideia de corresponsabilidade da apelada o fato incontroverso de o autor-apelante nunca ter tido contato pessoal com o patrono indiligente, mas sempre por meio da apelada, que intermediou todo o processo, inclusive para informar, apenas em maio de 2011 (fl. 16) do arquivamento determinado em fevereiro de 2010 (fl. 85).
+Deverá, assim, responder a apelada pelo dano material consubstanciado no desconto indevido de Imposto de Renda verificado à fl. 22.
+Não segue a mesma sorte o pedido de danos morais.
+Afinal, a jurisprudência e doutrina de nossos tribunais é remansosa em afirmar que o mero prejuízo econômico, conforme acima verificado, não configura, por si só, dano moral, já que não agridem a dignidade humana. (..)
+Ante o exposto, dou parcial provimento ao recurso para, reformando a r. sentença, condenar a apelada no ressarcimento do imposto de renda indevidamente cobrado conforme documento de fl. 22. Correção monetária a partir da data da cobrança acima e juros de mora de 1% (um por cento) ao mês a contar da citação.
+(..)
+Com efeito, anoto que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático dos autos, o que encontra óbice no enunciado n. 7 da Súmula do STJ.
+Registro, por fim, que o dissídio jurisprudencial não foi devidamente demonstrado, uma vez que a divergência baseada em decisão singular não serve à comprovação do dissenso jurisprudencial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
