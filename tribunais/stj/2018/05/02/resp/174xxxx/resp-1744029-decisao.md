@@ -1,0 +1,12 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RECUPERAÇÃO JUDICIAL. AGRAVO CONHECIDO PARA DETERMINAR SUA REAUTUAÇÃO COMO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte:
+RECURSO DE AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL TRIBUTÁRIO. DETERMINAÇÃO DE SUBMISSÃO DOS ATOS DECONSTRIÇÃO AO JUÍZO UNIVERSAL Procedimentos de penhora e alienação em execução fiscal que foram submetidos à prévia apreciação do Juízo Universal. Hipótese em que deferido o plano de recuperação judicial nos autos nº 1000988-27.2015.8.26.0471, devem eventuais constrição e alienação de bens da empresa em recuperação judicial serem submetidos ao crivo do Juízo Universal, afim de não inviabilizar o cumprimento da recuperação judicial e em atendimento ao princípio da preservação da empresa. Precedentes do E Superior Tribunal de Justiça. Decisão mantida. Recurso desprovido
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa aos arts §7º, 57 e 58 da Lei 11.101/2005, arts. 29 e 31 da Lei 6.830/80 e arts. 184, 185, 186, 187, 188, 189, 190, 191 e 191-A do Código Tributário Nacional, alegando em síntese que: a) o deferimento da recuperação judicial não pode ter efeito sobre as suas dívidas fiscais, não se submetendo a realização dos atos executivos no processo de execução à prévia análise do juízo falimentar; b) as execuções fiscais não deve ser suspensas pela falência ou recuperação judicial; c) o juízo da recuperação fiscal deve se atentar para existência de execuções fiscais em curso; d) a recorrida não apresentou plano de recuperação judicial e nem demonstrou que a eventual penhora de bens inviabilizaria a recuperação judicial.
+Contrarrazões ao recurso especial às fls. 83/93.
+O recurso foi inadmitido pela decisão de fls. 94/95, cujos fundamentos foram combatidos em sede de agravo em recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchidos os requisitos de admissibilidade recursal, dou provimento ao agravo para que seja reautuado como recurso especial.
+Publique-se. Intimem-se.
