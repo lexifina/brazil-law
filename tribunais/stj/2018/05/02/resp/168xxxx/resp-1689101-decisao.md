@@ -1,0 +1,32 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO NÃO CONFIGURADA. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VENCIMENTO. GRATIFICAÇÃO DO PROCURATÓRIO DO LEGISLATIVO - GPL. NATUREZA JURÍDICA. VANTAGEM PECUNIÁRIA PERMANENTE E GERAL. IMPOSSIBILIDADE DE REEXAME DE PROVA E DIREITO LOCAL. SÚMULAS 7/STJ E 280/STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Amazonas, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça Estadual, assim ementado (e-STJ fl. 117):
+MANDADO DE SEGURANÇA. REAJUSTE DE VENCIMENTO. POSSIBILIDADE JURÍDICA DO PEDIDO. VIA MANDAMENTAL ADEQUADA. GRATIFICAÇÃO DO PROCURATÓRIO DO LEGISLATIVO. NATUREZA JURÍDICA. VANTAGEM PECUNIÁRIA PERMANENTE E GERAL. SEGURANÇA CONCEDIDA.
+I. Não se pode admitir que gratificações permanentes, pagas pelo mero exercício da atividade, sem nenhuma outra condição especial para ser conferida ao servidor, não possam servir de base ao cálculo ao reajuste de vencimento do cargo.
+II. Uma vez concedida a gratificação ou vantagem em caráter permanente, deverá ela ser incluída no conceito de vencimento, o mesmo não ocorrendo com verbas de caráter indenizatório ou temporário - o que não é o caso da Gratificação do Procuratório Legislativo.
+III. No caso concreto, não tem cabimento limitar a incidência do reajuste somente ao salário base, que passou a representar parcela diminuta no conjunto da remuneração dos Procuradores.
+IV. O fato de a lei aludir a tal parcela como "gratificação", por si só não impede, de pronto, que se reconheça sua natureza jurídica como de vencimento, pois, para isso, é necessário que se analise seus demais aspectos, além da nomenclatura. E, nesse ponto, tomando por base o art. 9º da Lei n. 2.705/2001, tem-se que a Gratificação do Procuratório do Legislativo é "parte integrante dos vencimentos do cargo de procurador, e vantagem permanente relativa à natureza do trabalho, concedida aos Procuradores da Assembleia Legislativa, ativos e inativos, pelo efetivo exercício das atribuições descritas no artigo 46 da Constituição do Estado do Amazonas".
+V. Assim, é necessário que se assegure o reajustamento da GPL, a fim de preservar-lhe o valor real, conforme critérios estabelecidos em lei.
+VI. Segurança concedida.
+Os embargos de declaração foram rejeitados (e-STJ fl. 168).
+No apelo especial, a parte recorrente alega violação do art. 535, II, do CPC/1973 (arts. 1.022, II, e 520, do NCPC, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia.
+Alega que não existe lei que autorize a incidência do percentual de 7,68% sobre a GPL, pois a lei estadual só determina a incidência do dito percentual sobre o vencimento.
+Com contrarrazões (e-STJ fls. 237-244).
+Decisão de admissibilidade às e-STJ fls. 245-249.
+Parecer do MPF às e-STJ fls. 265-268, da lavra do Dr. [NOME], pelo não provimento do recurso especial.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+De início, afasta-se a alegada violação do artigo 535, II, do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No tocante à omissão apontada pelo Estado, o Tribunal de origem assim se manifestou (e-STJ fls. 126-127, grifo no original):
+ ..  corroborando o entendimento acima esposado, do graduado Órgão do Ministério Público, destaco que há vantagens pecuniárias deferidas aos servidores que, por sua natureza transitória, ou por determinação legal expressa da lei instituidora, não se incorporam aos vencimentos para nenhum efeito. Vencimento seria apenas o valor do padrão e vencimentos, no plural, abrangeria o padrão e demais vantagens, entretanto, não se pode aceitar que gratificações permanentes, pagas pelo mero exercício do cargo, sem nenhuma outra condição especial, não possam servir de base ao cálculo ao reajuste.
+ ..  Assim, uma vez concedida a gratificação ou vantagem em caráter permanente, deverá ela ser incluída no conceito de vencimento, o mesmo não ocorrendo com verbas de caráter indenizatório ou temporário.
+ ..  Não tem cabimento limitar a incidência do reajuste somente ao salário base, que passou a representar parcela diminuta no conjunto da remuneração dos Procuradores, em virtude da política remuneratória que há anos o Estado vem adotando, de conceder gratificações em lugar de reajustes ou aumentos lineares de vencimentos, de modo a tornar o salário base compatível com as atribuições e complexidade do cargo.
+ ..  O fato de a lei aludir a tal parcela como "gratificação", por si só não impede, de pronto, que se reconheça sua natureza jurídica como de vencimento, pois, para isso, é necessário que se analise seus demais aspectos, além da nomenclatura. E, nesse, ponto, tomando por base o art. 9º da Lei n. 2.705/2001, tem-se que a gratificação do procuratório do legislativo é "parte integrante dos vencimentos do cargo de procurador, e vantagem permanente relativa à natureza do trabalho, concedida aos Procuradores da Assembleia Legislativa, ativos e inativos, pelo efetivo exercício das atribuições descritas no artigo 46 da Constituição do Estado do Amazonas".
+ ..  É de se concluir, pois, que a simples nomenclatura não define sua natureza jurídica, para o que faz-se necessário analisar sua efetiva destinação.
+ ..  Com efeito, no caso concreto, vislumbra-se que essa verba foi instituída de forma linear, já que para seu recebimento, como dito, não há um sine qua non, bastando o simples exercício da atividade.
+ ..  Assim, é necessário que se assegure o reajustamento da GPL, a fim de preservar-lhe o valor real, conforme critérios estabelecidos em lei.
+Desse modo, inexiste omissão ou contradição no acórdão recorrido.
+Ademais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, bem como a análise de dispositivos de legislação local, pretensões vedadas em recurso especial, conforme os óbices previstos nas Súmulas 7/STJ e 280/STF.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
