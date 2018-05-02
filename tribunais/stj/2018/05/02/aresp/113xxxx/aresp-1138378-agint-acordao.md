@@ -1,0 +1,70 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, não conheceu do agravo interno, nos termos da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por [NOME] contra decisão de fls. 612/616, proferida pela Presidência desta Corte Superior, assim disposta:
+Vistos, etc.
+Trata-se de agravo interposto por [NOME] contra decisão denegatória do seu recurso especial, fundado no artigo 105, inciso III, alíneas a e c, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Estado de Santa Catarina.
+Nas razões do nobre apelo, o ora Agravante debate: a) violação do art. 1.022 do Código de Processo Civil, em razão da negativa de prestação jurisdicional pelo Tribunal a quo, quando do julgamento dos embargos declaratórios; b) violação do art. 525, §§ 4º e 5º do Código de Processo Civil, por ausência de demonstrativo detalhado do valor que a empresa de telefonia entende devido; e c) direito às ações de telefonia móvel (dobra acionária).
+É o relatório. Decido.
+Violação do art. 1.022 do Código de Processo Civil:
+A suposta afronta ao art. 1.022 do Código de Processo Civil não subsiste, uma vez que o acórdão hostilizado solucionou a quaestio juris de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento.
+Dessa forma, ainda que a Recorrente entenda equivocadas ou insubsistentes as razões de decidir que alicerçam o acórdão atacado, isso não implica, necessariamente, que essas sejam desprovidas de fundamentação. Há significativa distinção entre a decisão que peca pela inexistência de alicerces jurídicos e aquela que traz resultado desfavorável à pretensão do litigante.
+Ausência de demonstrativo detalhado do valor que a empresa de telefonia entende devido na impugnação ao cumprimento de sentença:
+Quanto à alegação de violação do art. 525, §§ 4º e 5º do Código de Processo Civil, (art. 475-L, § 2º, do CPC/1973) sob o fundamento de que a empresa de telefonia, na sua impugnação ao cumprimento de sentença, não demonstrou detalhadamente o valor que entende devido, a Corte Especial deste Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, no exame do Tema n.º 673, firmou entendimento no sentido de que "na hipótese do art. 475-L, § 2º, do CPC, é indispensável apontar, na petição de impugnação ao cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial ", nos termos do acórdão assim ementado:
+"RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. PROCESSUAL CIVIL. BRASIL TELECOM S/A. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ILIQUIDEZ DO TÍTULO. MATÉRIA PRECLUSA. EXCESSO DE EXECUÇÃO. INDEFERIMENTO LIMINAR. CABIMENTO. ART. 475-L, § 2º, DO CPC MULTA DO ART. 475-J DO CPC. ÓBICE DA SÚMULA 283/STF.
+1. Para fins do art. 543-C do CPC: "Na hipótese do art. 475-L, § 2º, do CPC, é indispensável apontar, na petição de impugnação ao cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial".
+2. Caso concreto: 2.1. Impossibilidade de se reiterar, em impugnação ao cumprimento de sentença, matéria já preclusa no curso da execução. Precedentes.
+2.2. "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles" (Súmula 283/STF).
+2.3. Aplicação da tese firmada no item 1, supra, ao caso concreto.
+2.4. Inviabilidade de revisão de honorários advocatícios em sede de recurso especial, em razão do óbice na súmula 7/STJ, que somente pode ser afastado quando exorbitante ou irrisório o valor arbitrado, o que não ocorre na espécie.
+3. RECURSO ESPECIAL CONHECIDO, EM PARTE, E DESPROVIDO" (REsp 1387248/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, julgado em 07/05/2014, DJe 19/05/2014.)
+Na espécie, verifica-se que o Tribunal de origem, ao julgar o recurso de apelação, decidiu que:
+"Sobre a aventada inexistência de impugnação ao cumprimento de sentença, não assiste razão ao apelante. Isso porque, ao contrário do que sustenta, a impugnação ao cumprimento de sentença, fundada no excesso de execução, foi devidamente arrazoada e instruída com memória dos cálculos, atendendo ao comando do § 2º do art. 475-L do CPC. Portanto, neste ponto, não há qualquer reparo a ser feito na decisão atacada" (fl. 537).
+Assim, decidiu em conformidade com o entendimento consolidado deste Superior Tribunal de Justiça.
+Ressalte-se que, para se concluir em sentido contrário ao decidido pelo Tribunal de origem, acerca do fato de que a empresa de telefonia, ora Agravada, demonstrou expressamente em sua petição de impugnação ao cumprimento de sentença o valor do débito que entendia ser devido, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado pelo enunciado da Súmula n.º 7 deste Superior Tribunal de Justiça, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+Dobra acionária:
+No que se refere à dobra acionária, este Superior Tribunal de Justiça tem por firme o entendimento segundo o qual para que haja efetivo direito à complementação de ações da telefonia móvel é necessário pedido expresso nesse sentido, bem como que o referido pleito tenha sido acolhido na fase de conhecimento da ação.
+Isso se dá porque as ações decorrentes da chamada dobra acionária não possuem natureza jurídica de mero acessório das ações da companhia de telefonia fixa, o que impossibilita sua inserção nos cálculos apresentados na fase de cumprimento de sentença quando não houver condenação expressa que contemple as ações relativas à telefonia móvel.
+Cita-se, para tanto, os seguintes precedentes:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BRASIL TELECOM S.A. CUMPRIMENTO DE SENTENÇA. DOBRA ACIONÁRIA. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO JUDICIAL. INCLUSÃO NOS CÁLCULOS APRESENTADOS. IMPOSSIBILIDADE. PRECEDENTES. RECURSO IMPROVIDO.
+1. É necessário que, na ação de conhecimento, tenha havido reconhecimento expresso ao direito à dobra acionária (telefonia móvel), não cabendo, no cumprimento de sentença, tal inclusão na memória de cálculo em razão da coisa julgada ter-se realizado sobre o direito da complementação acionária da telefonia fixa.
+2. Agravo regimental improvido." (AgRg no REsp 1.546.740/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/08/2016, DJe 19/08/2016.)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - COMPLEMENTAÇÃO DE AÇÕES SUBSCRITAS DEFICITARIAMENTE - DECISÃO MONOCRÁTICA QUE CONHECEU DO RECLAMO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL, AFASTADOS A DOBRA ACIONÁRIA E OS JUROS SOBRE CAPITAL PRÓPRIO DO CÁLCULO DA CONDENAÇÃO, POR AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO. AFASTADA A MULTA POR LITIGÂNCIA DE MÁ-FÉ. AUSÊNCIA DE CARÁTER PROCRASTINATÓRIO. IRRESIGNAÇÃO DA COMPANHIA TELEFÔNICA.
+1. "É necessário que, na ação de conhecimento, tenha havido reconhecimento expresso ao direito à dobra acionária (telefonia móvel), não cabendo, no cumprimento de sentença, tal inclusão na memória de cálculo em razão da coisa julgada ter-se realizado sobre o direito da complementação acionária da telefonia fixa" (AgRg no AREsp 550.519/SC, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2014, DJe 25/11/2014).
+ ..
+3. Agravo regimental desprovido." (AgRg no REsp 1.524.291/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016.)
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AQUISIÇÃO DE LINHA TELEFÔNICA. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. FALTA DE PREQUESTIONAMENTO. ACÓRDÃO CUJOS FUNDAMENTOS NÃO FORAM ATACADOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE MATÉRIA FÁTICA. SÚMULA 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ).
+ ..
+4. Não havendo condenação à complementação de ações referentes à telefonia celular - dobra acionária -, é inviável incluir tal parcela no cálculo da execução. Precedentes (Súmula 83 do STJ).
+5. Agravo regimental a que se nega provimento." (AgRg no AREsp 732.634/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/03/2016, DJe 07/03/2016.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. BRASIL TELECOM S/A. CUMPRIMENTO DE SENTENÇA. DOBRA ACIONÁRIA. AUSÊNCIA DE PREVISÃO NO TÍTULO EXECUTIVO JUDICIAL. INCLUSÃO NOS CÁLCULOS APRESENTADOS. IMPOSSIBILIDADE. PRECEDENTES.
+1. "É necessário que, na ação de conhecimento, tenha havido reconhecimento expresso ao direito à dobra acionária (telefonia móvel), não cabendo, no cumprimento de sentença, tal inclusão na memória de cálculo em razão da coisa julgada ter-se realizado sobre o direito da complementação acionária da telefonia fixa" (AgRg no AREsp 550.519/SC, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 11/11/2014, DJe 25/11/2014).
+2. Agravo regimental a que se nega provimento." (AgRg no REsp 1.502.158/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2015, DJe 16/03/2015.)
+Na espécie, verifica-se que o Tribunal Estadual, decidiu em conformidade com o entendimento deste Superior Tribunal de Justiça, ao consignar que não havendo condenação à complementação acionária relativa à telefonia celular, inviável que se incluam nos cálculos exequendos o numerário de ações decorrentes da dobra acionária. Confira o seguinte trecho do decicum:
+"Em relação ao pedido de pagamento das verbas decorrentes da chamada dobra acionária, esta Câmara, amparada em decisões do Superior Tribunal de Justiça, vinha decidindo que a pretensão era consequência lógica do direito à complementação das ações da telefonia fixa, ainda que silente o título executivo judicial.
+Entretanto, a partir de uma nova análise da situação fática e da legislação em vigor acerca da matéria em debate, a Corte de Uniformização passou a considerar que "a chamada dobra acionária depende de deferimento expresso no título judicial" (STJ - Resp n. 1.514.424/SC, Rel. Min. Ricardo Villas Bôas Cueva, j. 18.5.2015).
+Assim, com base nesse novo posicionamento, o qual passa a ser acompanhado, a dobra só pode ser incluída nos cálculos do cumprimento de sentença quando deferida na fase de conhecimento.
+No caso dos autos, não houve inclusão de tais verbas nos comandos judiciais que formam o título executivo, motivo pela qual não merece reforma a decisão recorrida neste ponto.
+Assim, havendo inclusão ou não no caso em questão, o fato é que não são devidas, a título de corroborar a sentença, os valores da telefonia móvel sem estares presentes no título judicial, o que não ocorre na hipótese" (fls. 537/538).
+Ante o exposto, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
+A agravante refuta a decisão agravada, arguindo que seu direito "retroage a data da assinatura do contrato" (fl. 619), sendo certo que os proventos devidos e não pagos, entre a data da assinatura do contrato e a data da capitalização, "devem ser calculados sobre a totalidade das ações devidas na ocasião da contratação INDEPENDENTEMENTE DE HAVER OU NÃO SALDO DE AÇÕES DEVIDAS DA TELEFONIA FIXA" (fl. 619). Pretende, também, a inclusão da "planilha de cálculo (..) que aponta o valor de R$ 801,94 em 18/08/2016 REFERENTE À TELEFONIA FIXA" (fl. 620). Aduz ser possível a aplicação da multa prevista no art. 475-J do Código de Processo Civil/1973 (523, § 1º, do Código de Processo Civil/2015) "quando o depósito realizado (mesmo que dentro do prazo) é apenas para garantir o juízo, a fim de possibilitar a oposição de Impugnação" (fl. 621). Pleiteia, ainda, "a readequação do ônus da sucumbência, devendo este pesar apenas contra a parte ré ou, alternativamente, o ônus da sucumbência merece ser minorado, (..) mantendo-se, contudo, a suspensão da exigibilidade" (fl. 622).
+Requer, outrossim, a retratação desta Relatora ou o provimento do recurso pelo órgão colegiado.
+Impugnação de OI S/A, às fls. 631/637, pelo não provimento do agravo.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não merece conhecimento.
+O recurso especial foi interposto contra acórdão assim ementado (fl. 536):
+APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. DECISÃO QUE ACOLHE A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INSURGÊNCIA DA PARTE AUTORA.
+INEXISTÊNCIA DE IMPUGNAÇÃO. TESE AFASTADA.
+DOBRA ACIONÁRIA. AUSÊNCIA DE CONSIGNAÇÃO EXPRESSA NA FASE DE CONHECIMENTO. EXPURGO. ENTENDIMENTO EM CONSONÂNCIA COM A CORTE DE UNIFORMIZAÇÃO.
+AUSÊNCIA DE SUBSCRIÇÃO DEFICITÁRIA. PROVENTOS NÃO DEVIDOS.
+RECURSO IMPROVIDO.
+Verifique-se que os argumentos do agravo não se prestam a combater os fundamentos da decisão agravada, não havendo similitude com o decidido. A agravante não se insurge acerca da aplicação da Súmula 7/STJ; e da impossibilidade de inserção da dobra acionária nos "cálculos apresentados na fase de cumprimento de sentença quando não houver condenação expressa que contemple as ações relativas à telefonia móvel" (fl. 614), razões de decidir
+Em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida. Incidência do enunciado 182 da Súmula do STJ.
+Assim, não cumprida a exigência constante do art. 1021, § 1º, do Código de Processo Civil/2015, não conheço do agravo interno.
+É como voto.
