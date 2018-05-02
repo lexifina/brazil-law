@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por VANEA MARIA OLIVEIRA, com respaldo nas alíneas "a"  e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ fl. 95):
+DIREITO ADMINISTRATIVO - SERVIDORA APOSENTADA DA SECRETARIA DE ESTADO DA EDUCAÇÃO DE MINAS GERAIS - PEDIDO DE CONCESSÃO DE REAJUSTE DE 13,21% - DECRETO ESTADUAL N. 36.829/95 - DATA DA PROMULGAÇÃO - PRESCRIÇÃO DO FUNDO DE DIREITO - OCORRÊNCIA.
+1 - As dívidas passivas da União, dos Estados e dos Municípios, prescrevem em cinco anos, a contar da data do ato ou fato do qual se originaram, ou da recusa da concessão do direito pela Administração Pública.
+2 - A ação que tem como objetivo a incorporação do reajuste de 13,21% aos proventos, não se trata de uma cobrança de parcelas mensais não pagas, que são obrigações de trato sucessivo que se renovam, mas sim do próprio direito, pois o pedido se funda nos questionamentos do valor estabelecido a título de proventos.
+3 - Se da promulgação do Decreto Estadual nº 36.829/95, - que reajusta símbolos de vencimento e dos proventos do pessoal civil e militar do Poder Executivo e da propositura da ação decorreram mais de cinco anos, é imperioso o reconhecimento da prescrição do fundo de direito.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 1º do Decreto n. 20.910/1932, sustentando que a relação discutida é de trato sucessivo.
+Contrarrazões às e-STJ fls. 115/122.
+Juízo positivo de admissibilidade às e-STJ fls. 124/125.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+ Feita essa consideração, observa-se que a irresignação recursal merece prosperar.
+Com efeito, esta Corte tem o entendimento de que, nas hipóteses em que o servidor público busca um reajuste determinado por lei, em que não houve negativa inequívoca do próprio direito reclamado, não ocorre a prescrição do fundo de direito, aplicando-se a Súmula 85 do STJ. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. REAJUSTE DE SALÁRIOS. LEIS ESTADUAIS 10.688/1988, 10.722/1989 E 11.722/1995. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. O STJ entende que, nas ações propostas pelos servidores públicos municipais de São Paulo que objetivam o reajuste de fevereiro de 1995, determinado pelas Leis Municipais 10.688/1988, 10.722/1989 e 11.722/1995, a relação jurídica é de trato sucessivo, renovando-se mês a mês, sendo, de fato, aplicável a Súmula 85/STJ. Dentre os precedentes: AgRg no REsp 1.457.729/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 12/11/2014.
+2. Agravo regimental não provido. (AgRg no REsp 1458033/SP, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 06/03/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. REAJUSTE SALARIAL. LEI Nº 11.722/95 DO MUNICÍPIO DE SÃO PAULO. PRESCRIÇÃO. TRATO SUCESSIVO. SÚMULA Nº 85 DO STJ. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A orientação jurisprudencial do STJ decidiu pela aplicabilidade da Súmula nº 85/STJ nas ações propostas pelos servidores públicos municipais de São Paulo que objetivam o reajuste de fevereiro de 1995, determinado pelas Leis Municipais 10.688/1988, 10.722/1989 e 11.722/1995, pois a relação jurídica discutida nos autos é de trato sucessivo.
+2. Agravo regimental não provido. (AgRg no REsp 1457729/SP, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/11/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. LEI ESTADUAL. PARCELA AUTÔNOMA DO MAGISTÉRIO. PRESCRIÇÃO. TRATO SUCESSIVO. INCIDÊNCIA DA SÚMULA 85/STJ.
+1. O acórdão recorrido está de acordo com a jurisprudência desta Corte, segundo a qual, nas discussões afetas ao recebimento de vantagens remuneratórias, em que não houve negativa inequívoca do próprio direito reclamado, tem-se relação de trato sucessivo, aplicando-se a Súmula 85/STJ: "Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação". Precedentes.
+2. Agravo regimental não provido. (AgRg no REsp 1302529/RS, Relator Ministro CASTRO MEIRA, SEGUNDA TURMA, DJe 20/06/2012).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para afastar a prescrição do fundo de direito, determinando o retorno dos autos à origem para que prossiga no julgamento da ação como entender de direito.
+Publique-se. Intimem-se.
