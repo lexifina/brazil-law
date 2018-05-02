@@ -1,0 +1,47 @@
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. ROUBO MAJORADO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. O Juízo de primeiro grau, ao decretar a prisão preventiva dos pacientes, baseou-se em elementos inerentes ao próprio tipo penal, limitando-se a apontar indícios de autoria do crime e prova da materialidade do delito de estelionato, deixando, assim, de observar o disposto no art. 312 do CPP. Não foram apontados quaisquer dados concretos a justificar a segregação provisória.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para revogar a prisão preventiva dos pacientes, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido e conceder "Habeas Corpus" de ofício, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de habeas corpus impetrado em favor de SIDRONIO MOTA DA SILVA, ANDERSON GONÇALVES e RICARDO DE OLIVEIRA DUARTE, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que os pacientes tiveram a prisão em flagrante convertida em preventivas pela suposta prática dos delitos tipificados nos arts. 171 e 307 do Código Penal (estelionato e falsa identidade).
+Sustenta o impetrante, em síntese, que os pacientes sofrem constrangimento ilegal por ausência dos requisitos autorizadores da custódia cautelar.
+Pleiteia e revogação da prisão preventiva dos pacientes.
+O pedido liminar foi deferido.
+O Ministério Público Federal manifestou-se às fls. 323-326.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. ROUBO MAJORADO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+3. O Juízo de primeiro grau, ao decretar a prisão preventiva dos pacientes, baseou-se em elementos inerentes ao próprio tipo penal, limitando-se a apontar indícios de autoria do crime e prova da materialidade do delito de estelionato, deixando, assim, de observar o disposto no art. 312 do CPP. Não foram apontados quaisquer dados concretos a justificar a segregação provisória.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para revogar a prisão preventiva dos pacientes, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes provas da existência do crime e indícios suficientes de autoria.
+No caso dos autos, os pacientes tiveram a custódia cautelar decretada pelos seguintes fundamentos:
+"Os fatos descritos são, a princípio, típicos e antijurídicos. Além disso, no momento da abordagem policial persistia a situação de flagrância, eis que os autuados foram encontrados dentro de um veículo estacionado em frente ao banco HSBC com cartão bancário em nome de terceira pessoa, dinheiro, um envelope com dados pessoais da vítima, um tablet com fotos de cartões bancários e, após contato com o gerente da agência bancária, constatou-se que o dono dos dados apreendidos havia sido vítima de golpe. Por fim, foram cumpridas as demais formalidades exigidas pelo Código de Processo Penal.
+Passo a analisar os pedidos de liberdade provisória apresentados pelos autuados que fundamentam seus requerimentos, o fato de serem pessoas primárias, com residência fixa e ocupação lícila (fls. 02/12 do apenso nº 0002192-63.2015 c lis. 02/12 do apenso nº 0002195-18.2015).
+O Ministério Público manifestou-se desfavoravelmente aos pedidos (fls. 13 do apenso nº 0002192-63.2015 e fls. 13 do apenso nº 0002195-18.2015).
+De fato, os pedidos devem ser indeferidos.
+Ressalta-se que inexistem indícios suficientes da materialidade do crime diante do relato da vítima (fls. 14), bem como da sua autoria, uma vez que os autuados foram flagrados em posse dos dados da vítima em frente a agencia bancária. Primariedade, residência lixa e mesmo ocupação lícita cedem lugar a preservação imperiosa da ordem pública.
+Dessa forma, ante a presença dos requisitos previstos no art. 312 do Código Penal, INDEFIRO o pedido de liberdade provisória e CONVERTO A PRISÃO EM FRAGRANTE dos acusados ANDERSON GONÇALVES, RICARDO DE OLIVEIRA DUARTE e SIDRONIO MOTA DA SILVA, qualificados nos autos, em prisão preventiva." (e-STJ, fl. 72)
+O Juízo de primeiro grau, ao decretar a prisão preventiva dos pacientes, baseou-se em elementos inerentes ao próprio tipo penal, limitando-se a apontar indícios de autoria do crime e prova da materialidade do delito de estelionato, deixando, assim, de observar o disposto no art. 312 do Código de Processo Penal. Não foram apontados quaisquer dados concretos a justificar a segregação provisória.
+Sobre o tema, o seguinte precedentes:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ESTELIONATO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO. AUSÊNCIA DE INDIVIDUALIZAÇÃO. MERO APONTAMENTO SOBRE OS REQUISITOS NECESSÁRIOS PARA A PRISÃO PREVENTIVA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. REVOGAÇÃO DO DECRETO PRISIONAL. RECURSO PROVIDO.
+1. O decreto prisional carece de fundamentação idônea. A privação antecipada da liberdade do cidadão acusado de crime reveste-se de caráter excepcional em nosso ordenamento jurídico, e a medida deve estar embasada em decisão judicial fundamentada (art. 93, IX, da CF), que demonstre a existência da prova da materialidade do crime e a presença de indícios suficientes da autoria, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal. Exige-se, ainda, na linha perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal, que a decisão esteja pautada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+2. No caso, a decisão singular não apontou dados concretos, à luz do art. 312 do Código de Processo Penal, a respaldar a restrição da liberdade do paciente. Ainda, não apontou elementos concretos, colhidos da conduta imputada, que demonstrassem a periculosidade do acusado e a real imprescindibilidade da medida. Além disso, não individualizou a necessidade da medida em relação ao recorrente, ressaltando apenas os elementos abstratos necessários para a decretação da medida cautelar extrema.
+3. Recurso provido para revogar o decreto prisional do recorrente, salvo se por outro motivo estiver preso, sem prejuízo da decretação de nova prisão, desde que concretamente fundamentada, ou da aplicação de outras medidas cautelares previstas no artigo 319 do Código de Processo Penal."
+(RHC 87.704/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/10/2017, DJe 23/10/2017)
+Ante o exposto, não conheço do habeas corpus. Contudo, concedo a ordem, de ofício, para, confirmando a liminar anteriormente deferida, revogar a prisão preventiva dos pacientes, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Magistrado de primeiro grau.
+Ressalvo a possibilidade de nova decretação da prisão, caso demonstrada, de forma fundamentada, sua necessidade.
+É como voto.
