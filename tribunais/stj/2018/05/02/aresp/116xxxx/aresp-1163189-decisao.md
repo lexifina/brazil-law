@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial, interposto com fulcro no art. 105, III, alínea "a", da Constituição Federal - CF.
+Consta dos autos que a 4ª execução do agravante foi declarada extinta, na forma dos artigos 192 e 193, ambos da Lei n. 7.210/84 - Lei de Execução Penal - LEP, em razão da concessão de indulto, previsto no art. 1º, XIV, do Decreto Presidencial n. 8.172/13, excluindo-se da conta de liquidação o período de recolhimento anterior a 25/12/13 (fls. 16/17 e 30).
+A Defesa interpôs agravo em execução penal que foi desprovido. O acórdão ficou assim ementado:
+RECURSO DE AGRAVO. INDULTO PLENO. CUMPRIMENTO DE 1/6 DA PENA EM PRISÃO PROVISÓRIA. INCISO XIV DO ART. 1o DO DECRETO PRESIDENCIAL N. 8.172/2013. EXCLUSÃO DA CONTA DE LIQUIDAÇÃO APENAS DO PERÍODO EM QUE O CONDENADO PREENCHEU O REQUISITO OBJETIVO. DIREITO INEXISTENTE ATÉ A PUBLICAÇÃO DA NORMA. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Impossível conceder ao apenado, por antecipação, o direito a um benefício que ainda não existe no ordenamento jurídico, a fim de beneficiá-lo, hoje, com um possível direito futuro, não sendo, cabível, portanto, extrair-se de tal raciocínio qualquer razão lógica ou jurídica.
+2. Mantém-se a exclusão da Conta de Liquidação do recorrente do período compreendido entre a data do seu recolhimento (24.01.2013) e da publicação do Decreto Presidencial nº 8.172/2013 (25.12.2013), para fins de concessão do indulto pleno nele previsto, com fulcro no seu inciso XIV do art. 1o, em face do cumprimento de 1/6 da pena em prisão provisória, uma vez que o direito à referida benesse apenas surge quando a norma que a concede é publicada.
+3. Para fins de prequestionamento, é desnecessário que o julgador esmiúce cada um dos argumentos e dispositivos legais tidos por violados, bastando que esclareçam os motivos que o levaram à determinada conclusão.
+4. Recurso conhecido e desprovido (fls. 46/47).
+Em sede de recurso especial, a defesa alegou violação do art. 1º, XIV, do Decreto Presidencial n. 8.172/13, porque a concessão do indulto demanda o cumprimento de 1/6 da pena, requisito que foi alcançado pelo agravante entre 24/1/13 e 9/5/13, motivo pelo qual a exclusão da pena cumprida até 25/12/13, data da publicação do referido decreto, é ilegal. Ressalta que o Decreto Presidencial possui efeitos retroativos, não obrigando que o sentenciado execute fração superior àquela prevista. Requer a exclusão da conta de liquidação até 9/5/13.
+Contrarrazões (fls. 70/74).
+A r. decisão agravada não admitiu o recurso especial haja vista o acórdão estar estar de acordo com entendimento do Superior Tribunal de Justiça - STJ, conforme Súmula 83/STJ (fls. 76/77).
+Em agravo em recurso especial, a defesa refuta o referido óbice (fls. 81/86).
+Contraminuta (fl. 89).
+O Ministério Público Federal - MPF opinou pelo desprovimento do agravo em recurso especial (fls. 102/105).
+É o relatório. Decido.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem manteve o período de pena cumprido até a data da publicação do Decreto excluído da conta de liquidação porque não se opera efeito retroativo. Cito o trecho:
+Compulsando os autos, observa-se da Conta de Liquidação de fl. 7v, que o recorrente restou condenado por sentença proferida em 12.06.2013, nos autos nº 2013.07.1.002463-2 (4a execução), pela prática do crime previsto no art. 157, § 2o, inciso II, c/c o art. 14, inciso II, ambos do Código Penal, à pena de 1 ano, 9 meses e 10 dias de reclusão, no regime inicial aberto.
+Depreende-se, ainda, que o recorrente foi recolhido ao cárcere em 24.01.2013 e posto em liberdade no dia 12.06.2013, tendo cumprido, portanto, 4 meses e 19 dias da sua reprimenda, ou seja, mais de 1/6 (3 meses e 15 dias), motivo pelo qual o Juízo da Execução, acertadamente, concedeu-lhe indulto pleno com fulcro no inciso XIV do Decreto Presidencial nº 8.172/2013, bem como determinou a exclusão da Conta de Liquidação do período anterior ao dia 25.12.2013, data de publicação do referido Decreto.
+Vale dizer que, embora não exista dúvida de que a sentença concessiva do indulto pleno possua natureza declaratória, bem como que o recorrente cumpriu o requisito objetivo para a concessão do benefício em 09.05.2013 (1/6 da reprimenda em prisão provisória), de acordo com inciso XIV do referido Decreto, considerando o seu recolhimento em 24.01.2013; não parece razoável crer que o condenado possa adquirir o direito a essa benesse antes mesmo da norma criadora começar a produzir seus efeitos a partir de sua publicação que, na espécie, é o dia 25.12.2013.
+Seria, em última análise, conceder ao apenado, por antecipação, o direito a um benefício que ainda não existe no ordenamento jurídico, a fim de beneficiá-lo, hoje, com um possível direito futuro, não sendo, possível, portanto, extrair-se de tal raciocínio qualquer razão lógica ou jurídica.
+Desse modo, escorreita a decisão proferida pelo Juízo a quo, da qual vale registrar o seguinte excerto:
+(..) o direito ao indulto não surge na data do requisito, mas, apenas, com a publicação do Decreto. Até então, o que existe é a mera expectativa de direito. Do contrário, o sentenciado poderia, até mesmo, cogitar a existência de indenização pelo período de recolhimento que excedesse o marco para o requisito objetivo, o que é de todo impensável (..) (fl. 14).
+Assim, a decisão impugnada não merece qualquer reforma, devendo manter-se a exclusão do período anterior à publicação do Decreto Presidencial nº 8.172/2013, qual seja 25.12.2013, da Conta de Liquidação do recorrente, para fins de concessão do indulto pleno nele previsto (fls. 50/51).
+No mesmo sentido, ou seja, pela data da extinção da pena ser a data da publicação do Decreto Presidencial, cito precedente:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. INDULTO. DECISÃO CONCESSIVA. NATUREZA DECLARATÓRIA. EXTINÇÃO DA PUNIBILIDADE. DATA DA PUBLICAÇÃO DO DECRETO PRESIDENCIAL. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+2. "A sentença que tem por objeto o indulto e a comutação de pena tem natureza meramente declaratória, na medida em que o direito já fora constituído pelo Decreto presidencial concessivo destes benefícios" (HC 82.184/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 28/06/2007, DJ 06/08/2007)
+3. Na espécie, deve ser declarado o dia 25/12/2007 (publicação do Decreto Presidencial n. 6.294/07) como data da extinção da pena imposta nos autos da Ação Penal n. 050.05.097273-1/00 (1ª Execução), devendo o Juízo de origem retificar o cálculo/roteiro de penas do paciente.
+ ..
+5. Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a natureza declaratória da decisão concessiva do indulto, devendo ser retificado o roteiro de pena do paciente.
+(HC 288.909/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/11/2016, DJe 28/11/2016)
+Ante o exposto, com fundamento na Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
