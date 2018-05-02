@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos infringentes interpostos por [NOME], amparado no art. 609, parágrafo único, do CPP, impugnando acórdão da 6ª Turma desta Corte que, por maioria, negou provimento a seu recurso ordinário em habeas corpus, em acórdão assim ementado:
+PROCESSUAL PENAL. CORRUPÇÃO PASSIVA. DENÚNCIA. DESCRIÇÃO FÁTICA SUFICIENTE E CLARA. DEMONSTRAÇÃO DE INDÍCIOS DE AUTORIA E DA MATERIALIDADE. INÉPCIA. NÃO OCORRÊNCIA. AÇÃO PENAL. FALTA DE JUSTA CAUSA. AUSÊNCIA DE SUPORTE PROBATÓRIO MÍNIMO. TRANCAMENTO. REVOLVIMENTO FÁTICO. IMPOSSIBILIDADE NA VIA ELEITA.
+1. Devidamente descritos os fatos delituosos (indícios de autoria e materialidade), possibilitando o exercício do direito de defesa, não há falar em inépcia. Plausibilidade da acusação, em face do liame entre a pretensa atuação do paciente e os fatos.
+2. O habeas corpus não se apresenta como via adequada ao trancamento da ação penal, quando o pleito se baseia em falta justa causa (ausência de suporte probatório mínimo à acusação), não relevada, primo oculi. Intento que demanda revolvimento fático-probatório, não condizente com a via restrita do writ.
+3. Recurso não provido.
+(RHC 88.143/SC, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 20/03/2018, DJe 05/04/2018)
+Inconformado, o ora embargante insiste em que "A inépcia da inicial acusatória no caso em estudo é evidente, na medida em que não descreve que no que se baseia a alegação de que o recorrente teria solicitado ou recebido algum valor indevido em razão de sua função pública, o que configuraria o crime positivado no artigo 317, do CP, no qual o recorrente está incurso" (e-STJ fl. 932).
+Pede, assim, a prevalência do voto vencido, do Min. SEBASTIÃO REIS JÚNIOR, para quem a inépcia da denúncia é patente e não há indícios mínimos de razoabilidade nas acusações feitas ao recorrente.
+É o relatório. Passo a decidir.
+Não há previsão legal de cabimento de embargos infringentes contra acórdão proferido por órgão julgador fracionário do Superior Tribunal de Justiça, limitando-se o cabimento deste recurso à impugnação de julgados colegiados proferidos por maioria em tribunais de segundo grau, como se vê, expressamente, do teor do art. 609 do CPP:
+ Art. 609. Os recursos, apelações e embargos serão julgados pelos Tribunais de Justiça, câmaras ou turmas criminais, de acordo com a competência estabelecida nas leis de organização judiciária. (Redação dada pela Lei nº 1.720-B, de 3.11.1952)
+Parágrafo único. Quando não for unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser opostos dentro de 10 (dez) dias, a contar da publicação de acórdão, na forma do art. . Se o desacordo for parcial, os embargos serão restritos à matéria objeto de divergência. (Incluído pela Lei nº 1.720-B, de 3.11.1952)
+(negritei e grifei)
+Contra acórdãos proferidos em recurso especial e extraordinário o art. 1.043 do CPC/2015 somente admite embargos de divergência, cabíveis quando houver dissenso entre julgados proferidos por órgãos fracionários de um mesmo tribunal - seja dizer, entre duas Turmas, entre Turma e Seção, entre Turma ou Seção e a Corte Especial.
+Não há nem mesmo como, em homenagem ao princípio da fungibilidade recursal, conhecer o presente recurso como embargos de divergência, pois o recorrente não aponta nenhum julgado de outro órgão fracionário do STJ como paradigma e, de consequência, não efetua cotejo analítico entre eles.
+Ante o exposto, com amparo no art. 34, XVIII, "a", do Regimento Interno do STJ, não conheço dos embargos infringentes interpostos pelo recorrente.
+Publique-se. Intimem-se..
