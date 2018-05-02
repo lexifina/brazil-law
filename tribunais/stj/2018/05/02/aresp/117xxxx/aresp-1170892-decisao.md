@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. MULTA DE TRÂNSITO. MUNICÍPIO. LEGITIMIDADE PASSIVO. DESTINATÁRIO DAS MULTAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da decisão do Tribunal de origem não caracteriza ofensa à legislação.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 203):
+RECURSOS VOLUNTÁRIOS DO DEPARTAMENTO DE TRÂNSITO DE SÃO PAULO - DETRAN/SP E DA PREFEITURA MUNICIPAL DE SOROCABA - Ação declaratória c.c. obrigação de fazer com pedido de antecipação de tutela - Infração de trânsito - Multas - Veículo clonado ("dublê") - Aplicação do artigo 252 do Regimento Interno do Tribunal de Justiça do Estado de São Paulo - Sentença que julgou extinto o processo, sem resolução de mérito, no tocante a troca de placa, por conta da inexistência do pedido administrativo e, julgou parcialmente procedente a ação, confirmando a tutela antecipada anteriormente deferida às fls. 45/46, que determinou a suspensão de todos os efeitos das multas, inclusive quanto à eventual inscrição no CADIN, bem como a suspensão dos referidos pontos na CNH do autor, mantida - Recursos voluntários do Departamento de Trânsito de São Paulo-Detran/SP e da Prefeitura Municipal de Sorocaba, improvidos.
+No recurso especial sustenta ofensa aos artigos artigo 485, inciso VI, e ao artigo 489, § 1º, inciso IV do CPC/2015, sob os seguintes argumentos: (a) o recorrente não possui legitimidade passiva, visto que a URBES é empresa pública independente; e (b) é de competência exclusiva da URBES a aplicação de multas e seu gerenciamento, e a análise de eventual fraude quanto à utilização em duplicidade das placas do veículo cabe ao DETRAN .
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No que diz respeito à legitimidade do recorrente, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o Município de Sorocaba e foi o corresponsável pela elaboração das referidas multas e o ente é o destinatário dos recursos dos pagamentos das multas de trânsito.
+Destaco trecho do acórdão (fl. 206):
+Por sua vez, também deve ser afastada à alegação de ilegitimidade passiva "ad causam" do Município de Sorocaba, uma vez que foi o corresponsável pela elaboração das referidas multas. Ademais, tudo indica que o próprio Município é quem fica com o recurso dos pagamentos das multas de trânsito e ainda, não ficou demonstrada efetivamente que o dinheiro arrecadado com as multas não é destinado ao próprio Município de Sorocaba.
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
