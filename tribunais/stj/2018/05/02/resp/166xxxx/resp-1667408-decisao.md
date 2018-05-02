@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto por UM MINUTO LANCHES LTDA. contra decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. BRASIL TELECOM S/A. DECISÃO PUBLICADA NA VIGÊNCIA DO CPC DE 2015. APLICAÇÃO DO ART. 400 DO CPC/2015 AFASTADA. Portanto, no caso em apreço, levando- e em consideração que a presunção de veracidade prevista no art. 400 do CPC/2015 é juris tantum se torna inaplicável em face de outros elementos presentes nos autos, em especial o RIC completo juntado pela ré, deve ser afastada a aplicação do art. 400 do CPC/2015, devendo o cálculo ser realizado de acordo com as informações estampadas no documento da fl. 446 do apenso. CORREÇÃO MONETÁRIA SOBRE OS RENDIMENTOS. A correção monetária dos dividendos deve incidir a partir do momento em que passa a ser devida esta parcela, nos termos do artigo 389 do CCB/2002. JUROS DE MORA SOBRE OS RENDIMENTOS. Os juros de mora dos dividendos, quanto às parcelas, devem incidir a partir da citação, nos termos do artigo 389 e 405 do CCB/2002. Precedente do STJ no sistema de recursos repetitivos do artigo Art. 1.041 do CPC/2015. IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA. HONORÁRIOS ADVOCATÍCIOS.
+Restando vencida a executada/impugnante mostra-se indevida nova fixação de honorários advocatícios. Somente nos casos de provimento total ou parcial da impugnação ao cumprimento de sentença devem ser fixados honorários advocatícios em favor do executado/impugnante, tendo em vista a extinção total ou parcial do cumprimento de sentença. HONORÁRIOS RECURSAIS. A interposição do presente recurso e o resultado nele alcançado impõe a majoração dos honorários outrora fixados.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO" (fl. 73 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o agravante sustenta violação dos artigos 1º, 2º, 132, 134, 170, 176 da Lei nº 6.404/76, 402 do Código Civil, 400 e 1.022 do Código de Processo Civil de 2015.
+Na origem, o Tribunal recorrido negou seguimento ao apelo, conforme decisão de fls. 198/201 e-STJ, dando ensejo à interposição do presente agravo em recurso especial (fls. 205/213 e-STJ).
+O Ministério Público Federal, em seu parecer, opinou pelo desprovimento do recurso (fls. 244/257 e-STJ).
+É o relatório.
+DECIDO.
+Tendo em vista o julgamento do recurso especial interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL, o qual foi provido para anular o acórdão dos aclaratórios de fls. 115/121 e-STJ, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de fls. 97/105 e-STJ, verifica-se a perda superveniente do objeto do presente recurso.
+Ante o exposto, com fundamento no artigo 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o recurso.
+Publique-se.
+Intimem-se.
