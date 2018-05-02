@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"EMENTA: PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. DECISAO MONOCRATICA QUE NEGOU SEGUIMENTO AO AGRAVO DE INSTRUMENTO POR AUSÊNCIA DEZ DOCUMENTOS FACULTATIVOS, PORÉM ESSENCIAIS E INDISPENSÁVEIS Ã ANÁLISE DO MÉRITO DO RECURSO. DECISÃO MANTIDA. AGRAVO INTERNO CONHECIDO E DESPROVIDO." (e-STJ. 115)
+Opostos embargos de declaração, restaram rejeitados (e-STJ, fls. 145/153).
+Nas razões do recurso especial, a parte agravante alega violação do art. 535 do Código de Processo Civil de 1973, sustentando, em síntese, que o acórdão foi omisso quanto à alegação do motivo daquele documento ser essencial ao processamento do recurso de agravo de instrumento. No mérito, alega que não há como prosperar o entendimento do acórdão recorrido, na medida em que já houve prolação de sentença, cujo pedido, naquela demanda de Brasília, foi parcialmente concedido, mas ainda não foi transitado em julgado.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010; AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+No mérito, no tocante à alegação de que já foi proferida sentença não transitada em julgado na demanda cuja inicial entenderam como peça essencial à análise do agravo de instrumento, Inicialmente, observa-se que a parte recorrente alega violação à norma federal, mas não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido." (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 27/08/2015)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
