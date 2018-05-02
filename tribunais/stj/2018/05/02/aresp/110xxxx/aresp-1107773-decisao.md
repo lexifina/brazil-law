@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se agravo interposto por [NOME] contra decisão que negou seguimento ao recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - Preliminares de não conhecimento rejeitadas - Habilitação de Crédito trabalhista parcialmente acolhida, para determinar a exclusão dos juros de mora e da correção monetária incluídas após a data do pedido de recuperação - Decisão correta - Hipótese de aplicação dos artigos 9º, II, c.c. 124, da Lei 11.101/05 - Eventual diminuição do crédito trabalhista levada a efeito pelo Juízo da falência ou da recuperação judicial, nos termos do art. 9º, II, da LRF, não afronta a coisa julgada, tendo o juízo falimentar competência para fazê-lo, porque não diz respeito à constituição do título, mas sim a sua execução - Crédito da agravante que deve ser habilitado pelo valor do principal da dívida trabalhista, excluindo-se a atualização monetária e os juros moratórios incidentes após o início do processamento da recuperação judicial Precedentes desta Corte - Decisão mantida - Recurso improvido" (e-STJ fl. 157).
+Nas razões do especial, a recorrente alega violação dos artigos 5º, XXXVI, da Constituição Federal, 39, §1º, da Lei nº 8.177/91, 6º, § 2º, da Lei n. 11.101/2005 e 15, da Lei 10.192/01.
+Sustenta, em síntese, que havendo lei específica a respeito do termo inicial dos juros de mora e correção monetária aplicáveis sobre os créditos trabalhistas constantes de condenação pela Justiça, não há razão para afastar a forma de cálculo definida no juízo trabalhista.
+Aduz que o débito da executada não se enquadra em nenhuma das hipóteses de isenção de juros e, portanto, faz jus ao pagamento da diferença de juros de mora do seu crédito.
+Sem contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Primeiramente, compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável discutir, nesta seara, a violação de dispositivos constitucionais, matéria afeta à competência do Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+No tocante à tese em torno dos arts. 39 da Lei nº 8.177/1991 e 15 da Lei nº 10.192/2011, verifica-se que não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não indicou a parte recorrente a contrariedade ao art. 1.022 do Código de Processo Civil de 2015.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.".
+Por fim, quanto à incidência de juros após o pedido de recuperação judicial, eis o que decidiu a Corte de origem:
+"(..) Isso porque, estando o crédito sujeito à recuperação judicial, a atualização monetária (que é mera recomposição da moeda) é devida até a data da decretação da falência ou do pedido de recuperação judicial, nos termos do artigo 9º, II, da Lei nº 11.101/05 1 .
+E tal dispositivo legal deve ser interpretado à luz do artigo 124 2 da Lei 11.101/05, para permitir o acréscimo de atualização monetária e juros de mora, ao valor do crédito habilitado, até a data do pedido de recuperação judicial.
+Não existe conflito de normas entre o §1º do art. 39 da Lei 8177/91 (que prevê a incidência de juros aos débitos trabalhistas desde o ajuizamento da reclamatória até seu efetivo pagamento) com o art. 9º, inciso II, da LRF, pois este prevalece em razão de sua especificidade no caso concreto.
+Da mesma forma, ocorre em relação ao art. 405 do Código Civil, pois independentemente do percentual de juros a ser aplicado, o termo final para sua incidência, em se tratando de habilitação de crédito trabalhista, é a data do pedido de recuperação.
+Ressalte-se que o cômputo dos juros de mora além da data do requerimento da recuperação judicial cria uma situação eminentemente prejudicial à coletividade de credores em concurso e, no caso concreto, a exclusão de juros se mostra correta, devendo ser adotado o marco temporal correto.
+(..) Importante ressaltar que a eventual diminuição do crédito trabalhista levada a efeito pelo Juízo da falência ou da recuperação judicial, nos termos do art. 9º, II, da LRF, não afronta a coisa julgada, tendo o juízo falimentar competência para fazê-lo, porque não diz respeito à constituição do título, mas sim a sua execução.
+(..) Feita uma análise dos valores pretendidos pela agravante, verifica-se que os encargos aplicados sobre o valor principal estão referenciados a uma data posterior a do pedido de recuperação judicial.
+Assim, conclui-se que o crédito da agravante a ser inserido na recuperação deve tomar como base de cálculo apenas o valor do principal da dívida trabalhista, excluindo-se a atualização monetária e os juros moratórios incidentes após o início do processamento da recuperação judicial, em conformidade ao inciso II do artigo 9º da Lei 11.101/2005"(e-STJ fls. 160-163).
+O acórdão recorrido portanto está em consonância com o entendimento do STJ quanto à incidência de juros e atualização, após o pedido de recuperação judicial, de acordo com o plano.
+Nesse sentido, confira-se o seguinte precedente:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. ATUALIZAÇÃO. TRATAMENTO IGUALITÁRIO. NOVAÇÃO. JUROS E CORREÇÃO. DATA DO PEDIDO DA RECUPERAÇÃO.
+ ..
+2. O propósito recursal é decidir se há violação da coisa julgada na decisão de habilitação de crédito que limita a incidência de juros de mora e correção monetária, delineados em sentença condenatória por reparação civil, até a data do pedido de recuperação judicial.
+3. Em habilitação de créditos, aceitar a incidência de juros de mora e correção monetária em data posterior ao pedido da recuperação judicial implica negativa de vigência ao art. 9º, II, da LRF.
+4. O plano de recuperação judicial implica novação dos créditos anteriores ao pedido, e obriga o devedor e todos os credores a ele sujeitos. Assim, todos os créditos devem ser atualizados até a data do pedido de recuperação judicial, sem que isso represente violação da coisa julgada, pois a execução seguirá as condições pactuadas na novação e não na obrigação extinta, sempre respeitando-se o tratamento igualitário entre os credores.
+5. Recurso especial não provido" (REsp 1.662.793/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 8/8/2017, DJe 14/8/2017).
+Portanto, o acórdão não merece qualquer reparo, atraindo a incidência da Súmula nº 568 do STJ.
+Ante o exposto, conheço do agravo, para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Publique-se.
+Intimem-se.
