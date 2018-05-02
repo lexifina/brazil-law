@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por FCA FIAT CRHYSLER AUTOMÓVEIS BRASIL LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - RESCISÃO CONTRATUAL E REPARAÇÃO CIVIL - PEDIDO DE INVERSÃO DO ÕNUS DA PROVA - REQUISITOS CONFIGURADOS - DEFERIMENTO - RECURSO DESPROVIDO. Para o deferimento da inversão do ônus da prova deve estar presente a verossimilhança das alegações ou a hipossuficiência do consumidor, a teor do art. 6º, inciso VIII, do CDC. Restando evidenciado nos autos os requisitos, notadamente por se tratar a matéria que demanda conhecimento técnico e dilação probatória, é de se deferir o pedido de inversão do ônus da prova. Recurso desprovido" (fl. 394 e-STJ).
+Os embargos de declaração opostos, foram rejeitados (fls. 431-435 e-STJ).
+No recurso especial (fls. 438-453 e-STJ), a parte recorrente aponta violação dos arts. 6º, VIII, e 50 do Código de Defesa do Consumidor e dos arts. 373, § 1º, e 1.022, II, do Código de Processo Civil de 2015.
+Argumenta, em síntese, que o acórdão recorrido incorreu em omissão pois não se manifestou sobre a adulteração do veículo, o que ensejou a negativa de conserto.
+Insurge-se contra a inversão do ônus da prova em favor do consumidor por considerar que não há verossimilhança das alegações e hipossuficiência. Sustenta que a garantia contratual é facultativa e sujeita à outras condicionantes, além da obrigação de realizar as revisões periódicas.
+Contrarrazões ao recurso especial apresentadas às fls. 461-477 (e-STJ).
+O Presidente do Tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente. De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Eis o trecho do acórdão impugnado, relevante para a solução da controvérsia:
+"(..)
+Adentrando ao mérito, impende ressaltar ser a relação existente entre as partes inquestionavelmente uma relação de consumo. Isso porque a agravada é empresa que atua no ramo de mineral, tendo como atividades: 1) extração de calcário e dolomita e o beneficiamento associado ou em continuação à extração; 2) extração e britamento de pedras e outros matérias para a construção civil e beneficiamento associado; 3) comércio atacadista de calcário; 4) comércio atacadista de britas e pedras (f.27-TJ).
+Vislumbra-se, portanto, ser ela destinatária final dos serviços prestados pela recorrente, (artigo 2º, caput, e 3º, caput, e § 2º, do Código de Defesa do Consumidor), razão pela qual incide no caso as regras da legislação consumerista.
+A hipossuficiência autorizadora da inversão do ônus da prova não decorre da simples posição de desvantagem ordinariamente colocada o consumidor e ensejadora da sua proteção legal. É necessária a verificação da dificuldade ou impossibilidade da parte em produzir a prova, ou seja, trata-se de hipossuficiência técnica, e não financeira.
+A demanda em questão objetiva a reparação civil, alegando a autora a existência de defeito no veículo adquirido. Pontua ter cumprido todas as recomendações do Manual de Garantia e Manutenção, sendo as revisões realizadas devidamente. Aduz que 04 meses após sua aquisição, o automóvel atingiu a quilometragem de aproximadamente 20.000 quilômetros e começou a apresentar problemas na parte elétrica, os quais nunca foram informados nas revisões e não foram solucionados. Em contrapartida, em sede de contestação, a agravante sustentou que os reparos não foram realizados em virtude da perda da garantia, decorrente de suposta adulteração no veículo, ressaltando que a alteração será constatada em perícia judicial a ser deferida.
+Pois bem.
+Tecidas tais considerações, tenho não merecer reparo a decisão agravada, já que configurados os requisitos para a concessão da inversão do ônus da prova.
+No tocante a verossimilhança das alegações, noto que a parte ré não contesta eventual término do prazo de garantia, mas sim o fato de a autora ter realizado adulterações no veículo. Assim, a princípio, considerando que o veículo foi adquirido em 28/06/2012, consoante nota fiscal de f. 27-TJ, sendo de três anos a garantia, conforme informado em defesa, às f. 123-TJ, e tendo o defeito ocorrido em outubro de 2013, resta configurada, por ora, a verossimilhança das alegações quanto ao direito da autora em ter o carro reparado.
+Ademais, consubstanciando a perda da garantia em matéria que demanda realização de perícia, concluo estar demonstrada a vulnerabilidade técnica da requerente em produzir as provas, haja vista requerer conhecimento específico quanto à composição original do automóvel" (fls. 396-398 e-STJ).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Por outro lado, a conclusão do Tribunal de origem acerca da hipossuficiência técnica da parte recorrida e da necessidade de inversão do ônus da prova em seu favor decorreu da convicção extraída da análise dos fatos e das provas do processo. Rever tais fundamentos importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal ante o teor da Súmula nº 7/STJ.
+Observe-se o seguinte julgado:
+"DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. HIPOSSUFICIÊNCIA TÉCNICA. INVERSÃO DO ÔNUS DA PROVA. POSSIBILIDADE. DANOS MORAIS. VALOR. REVISÃO PELO STJ. POSSIBILIDADE, DESDE QUE IRRISÓRIO OU EXORBITANTE.
+1. Ação indenizatória fundada na alegação de que, após submeter-se a tratamento bucal na clínica ré, o autor ficou sem os dois dentes superiores frontais e impossibilitado de utilizar prótese dentária.
+Evidencia-se a hipossuficiência técnica do autor frente à ré, na medida em que a relação de consumo deriva da prestação de serviços em odontologia, o desconhecimento do paciente acerca das minúcias dos procedimentos a serem realizados. A clínica, por sua vez, detém amplo domínio das técnicas ligadas à confecção de próteses, tanto que se dispôs a prestar serviços nessa área.
+2. A hipossuficiência exigida pelo art. 6º, VIII, do CDC abrange aquela de natureza técnica. Dessa forma, questões atinentes à má utilização da prótese deveriam ter sido oportunamente suscitadas pela clínica. A despeito da sua expertise, não atuou, porém, de modo a evitar lacunas na perícia realizada, as quais tornaram o laudo inconcludente em relação à origem do defeito apresentado pela prótese dentária.
+3. A revisão da condenação a título de danos morais somente é possível se o montante for irrisório ou exorbitante, fora dos padrões da razoabilidade.
+4. Recurso especial a que se nega provimento."
+(REsp 1.178.105/SP, Rel. Ministro MASSAMI UYEDA, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/4/2011, DJe 25/4/2011 - grifou-se)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se.
+Intimem-se.
