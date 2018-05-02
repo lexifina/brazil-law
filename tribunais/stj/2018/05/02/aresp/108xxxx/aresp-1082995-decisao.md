@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto pelo Ministério Público do Rio Grande do Norte, em face de decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça, provendo, em parte, apelação de FRANCISCO GILCIVAN DOS SANTOS, para reduzir a 1 (um) ano e 8 (oito) meses de reclusão, a pena que lhe foi imposta pela prática de tráfico de drogas, mantendo inalterada a sanção por infração ao art. 12 da Lei n. 10.826/2003 - 1 ano de detenção - , substituindo, ainda, as privativas de liberdade por restritivas de direito. É esta a ementa do r. julgado (e-STJ fls. 269/270):
+EMENTA: PENAL E PROCESSO PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES (ART. 33, CAPUT, DA LEI N. 11.343/06). APELAÇÃO CRIMINAL. PRELIMINAR DE NULIDADE PROCESSUAL, DECORRENTE DE PRODUÇÃO ILÍCITA DE PROVA, SUSCITADA PELO APELANTE. NÃO ACOLHIMENTO. AÇÃO POLICIAL QUE IMPÕE A ANÁLISE DO CASO CONCRETO. CRIME DE NATUREZA PERMANENTE. REALIZAÇÃO DE CAMPANA POLICIAL JUSTIFICADORA DO MOMENTO DA APREENSÃO. PRECEDENTES DO STF. PLEITO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. IMPOSSIBILIDADE. PROVA DOCUMENTAL E TESTEMUNHAL SUFICIENTE PARA RESPALDAR A CONDENAÇÃO DO APELANTE. PRETENDIDA INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO § 4o, DO ART. 33, DA LEI N. 11.343/06. POSSIBILIDADE. RECORRENTE QUE PREENCHE TODOS OS REQUISITOS. APLICAÇÃO DA MINORANTE NA FRAÇÃO MÁXIMA. PRECEDENTES DO STJ. SUBSTITUIÇÃO DAS PENAS PRIVATIVAS DE LIBERDADE POR RESTRITIVAS DE DIREITOS. PREENCHIMENTO DOS REQUISITOS DO ART. 44 DO CP. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Embargos de declaração rejeitados (e-STJ fl. 305):
+EMENTA: PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO COM EFEITOS INFRINGENTES EM APELAÇÃO CRIMINAL. ALEGAÇÃO DE CONTRADIÇÃO NO ACÓRDÃO. NÃO ACOLHIMENTO. NÍTIDO PROPÓSITO DE REDISCUSSÃO DA MATÉRIA. PREQUESTIONAMENTO. INVIABILIDADE. CONHECIMENTO E REJEIÇÃO DOS EMBARGOS.
+1- Não configurado quaisquer dos vícios apontados no art. 619 do CPP, devem os presentes aclaratórios serem desprovidos e, por conseqüência, o seu pleito infringente, sob pena de rediscussão da matéria já decidida, não podendo também serem admitidos com o fim único de prequestionamento.
+2- Conhecimento e rejeição dos Embargos Declaratórios.
+Nas razões do especial, fulcrado na alínea "a" do permissivo constitucional, alega o representante do Parquet ofensa aos arts. 619 do Código de Processo Penal e 33, §4º, da Lei n. 11.343/2006.
+Sustenta, em síntese, a existência de contradição insanável no acórdão recorrido, pois, mesmo reconhecendo ser o réu traficante notoriamente conhecido na região, decidiu pela aplicação da causa de diminuição de pena em seu patamar máximo.
+Pugna, ao final, pelo provimento do recurso, afastando a minorante do art. 33, §4º, da Lei n. 11.343/2006, restaurando a condenação do recorrido à pena de 5 (cinco) anos de reclusão, em regime fechado, mais 500 (quinhentos) dias-multa.
+Inadmitido o apelo raro (e-STJ fls. 332/335), sobreveio o presente agravo.
+Manifestação ministerial, nesta instância, pelo provimento, em parecer assim ementado (e-STJ fl. 364):
+Penal e processo penal. Agravo em recurso especial. Tráfico de drogas. Condenação. Aplicação da minorante do art. 33, § 4º da Lei 11343/2006. Impossibilidade. Dedicação dos réus a atividades criminosas. Parecer pelo conhecimento e provimento do agravo, admitindo-se o recurso especial para provê-lo.
+Contrarrazões ao recurso especial às e-STJ fls. 389/395 e resposta ao presente agravo às e-STJ fls. 396/402.
+É o relatório. Decido.
+O agravo é tempestivo e foram impugnados os fundamentos do despacho de inadmissibilidade.
+Passo, então, à análise do mérito do recurso especial.
+Não vislumbro violação do 619 do CPP.
+Os embargos de declaração somente são cabíveis quando a decisão embargada for ambígua, obscura, contraditória ou omissa, o que não se verifica na espécie.
+No caso, a alegação suscitada nos embargos de declaração foi devidamente repelida, conforme se observa dos seguintes trechos do acórdão recorrido (e-STJ fls. 307/310):
+Compulsando detalhadamente os autos, verifico no acórdão embargado, que não há nenhuma contradição a ser sanada quanto a aplicação da minorante do § 4o do art. 33 da Lei nº 11.343/2006, a meu ver, pretende o embargante rediscutir a matéria já decidida por esta Câmara Criminal, o que não é possível, visto que esta já foi devidamente debatida pela decisum hostilizada.
+ ..
+Assim, o recorrente com este embargo, objetiva única e exclusivamente rediscutir a matéria já julgada por esta câmara, conforme acórdão de fls. 243-258.
+Acresço, ainda, que as provas consignadas na decisum combatida demonstra apenas que o embargado praticava o crime de tráfico de drogas na modalidade "vender", não existindo nos autos elementos concretos que o mesmo se dedique ou integre organização criminosa.
+Ademais, os argumentos utilizados na decisão embargada são suficientes ao conhecimento dos motivos que fundamentaram o julgamento das questões que pretende o embargante rediscutir, devendo ele, caso assim entenda pertinente, valer-se dos instrumentos processais que o ordenamento lhes faculta.
+Nesta ordem de considerações, não configurado quaisquer dos vícios contidos no art. 619 do CPP, especialmente contradição sob pena de rediscussão da matéria já decidida, padecem as alegações nos presentes aclaratórios e, logicamente, o seu pleito infringente, não sendo admitidos unicamente para fins de prequestionamento.
+Resolvida a questão com fundamentação satisfatória, acertadamente foram desacolhidos os aclaratórios, que possuem função processual limitada. De fato, acaso a parte não se conforme com as razões declinadas ou considere a existência de algum equívoco ou erro de julgamento, não são os embargos a via própria para impugnar o julgado ou rediscutir a causa.
+Melhor sorte não assiste ao Ministério Público quando se insurge contra incidência da causa de diminuição prevista no art. 33, §4º, da Lei n. 11.343/2006.
+A incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 requer o preenchimento dos requisitos legais: a) que o agente seja primário; b) tenha bons antecedentes; c) não se dedique a atividades delituosas; e d) não integre organização criminosa.
+O referido benefício legal tem como objetivo favorecer os pequenos e eventuais traficantes, não alcançando aqueles que fazem do tráfico de drogas um meio de vida.
+No caso, são estes, no que interessa, os fundamentos do acórdão recorrido (e-STJ fls. 280/281):
+Na terceira etapa, em relação ao pleito de incidência da causa especial de diminuição da pena, prevista no art. 33, §4º, da Lei 11.343/06, acolho o pedido do acusado. Explico melhor.
+Cabe ressaltar, que para a concessão do benefício (§4º, do art. 33 da Lei de drogas) é necessário que o réu seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Portanto, verifico que o apelante preenche todos os requisitos para concessão da minorante, uma vez que ele é primário possuidor de bons antecedentes, bem como, não há nos autos provas concretas que o mesmo se dedique ou integre organização criminosa. Nesse sentido:
+ ..
+Assim, após as considerações supra, reconheço a causa de diminuição de pena do §4º, do art. 33 da lei 11.343/06.
+In casu, após análise do termo de exibição e apreensão (fl. 27) e do exame químico toxicológico (fl. 98), restou provado que a única droga encontrada com o apelante foi 51g (cinqüenta e uma gramas) de maconha. Isto posto, diante da natureza e quantidade da droga apreendida, não significativas, aplico a fração de 2/3 (dois terços) para reduzir à pena do acusado.
+Pelos trechos acima transcritos, observo que o Tribunal a quo expressamente reconheceu que "não há nos autos provas concretas que o mesmo se dedique ou integre organização criminosa". Em razão das circunstâncias fáticas da causa, concluiu que o recorrido não pratica o tráfico ilício de drogas como meio de vida.
+O Superior Tribunal de Justiça pacificou entendimento no sentido de ser inviável aferir em recurso especial se o acusado dedica-se ou não à atividade criminosa, em face do óbice da Súmula n. 7 do STJ.
+Confiram-se:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO À ATIVIDADE CRIMINOSA. ALTERAÇÃO DO ENTENDIMENTO. NECESSÁRIO REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. AGRAVAMENTO DO REGIME. IMPOSSIBILIDADE. CIRCUNSTÂNCIA PREVALECENTE. CUMPRIMENTO DA PENA UM REGIME IMEDIATAMENTE MAIS GRAVE QUE A SANÇÃO IMPOSTA. AGRAVO NÃO PROVIDO.
+1. Na hipóteses dos autos, assentado pelo Tribunal de origem, com arrimo no conteúdo fático dos autos, inexistir prova da dedicação do recorrido ao tráfico fazendo incidir a causa de diminuição, concluir em sentido diverso demandaria, invariavelmente, o revolvimento do conteúdo probatório, inadmissível em recurso especial (Súmula 7/STJ).
+ ..
+3. Agravo regimental não provido. (AgRg no AREsp 916.976/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/03/2017, DJe 22/03/2017)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA DE DIMINUIÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. REQUISITOS. PRIMARIEDADE E AUSÊNCIA DE ANTECEDENTES. PREENCHIMENTO. VERIFICAÇÃO. QUANTIDADE E NATUREZA DAS DROGAS. 100 KG DE MACONHA. SUPOSTA DEDICAÇÃO A ATIVIDADES CRIMINOSAS. SÚMULA 7/STJ. MANUTENÇÃO DO DECISUM A QUO.
+1. Este Superior Tribunal firmou a orientação de que, para a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, é exigido do acusado que seja primário, tenha bons antecedentes, não integre organização criminosa e não se dedique a atividades delituosas.
+2. O Tribunal de origem considerou que o agravado é tecnicamente primário e possuidor de bons antecedentes e as circunstâncias do caso concreto - notadamente, a natureza, a diversidade e a elevada quantidade de drogas apreendidas (100 Kg de maconha) - não levam a crer, por si, que o réu se dedicava a atividades delituosas, especialmente ao narcotráfico.
+3. Rever o entendimento externado pelas instâncias ordinárias, para afastar a compreensão de que o réu se dedicava à atividade criminosa, implicaria necessário reexame de provas, o que não se admite na presente via do recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+4. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+5. Agravo regimental improvido. (AgRg no REsp 1557613/SE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2015, DJe 15/02/2016)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA LEI DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE PROVAS. IMPOSSIBILIDADE. REGIME INICIAL. CIRCUNSTÂNCIAS DESFAVORÁVEIS.
+1. Desfazer o entendimento a que chegou as instâncias ordinárias para verificar se o réu se dedicava a atividades criminosas implicaria no reexame de matéria fático-probatória dos autos.
+Incidência da Súmula 7 do STJ.
+ ..
+3. Agravo regimental desprovido. (AgRg no AREsp 569.600/SP, Rel. Ministro GURGEL DE FARIA, Quinta Turma, julgado em 5/3/2015, DJe 17/3/2015).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRÁFICO DE DROGAS INTERESTADUAL. DESNECESSIDADE DE COMPROVAÇÃO DA TRANSPOSIÇÃO DOS LIMITES ENTRE ESTADOS DA FEDERAÇÃO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ÓBICE À INCIDÊNCIA DO REDUTOR DO ART. 33, § 4º, DA LEI Nº 11.343/2006. TESE DEFENSIVA DE MERA SUPOSIÇÃO. ÓBICE DA SÚMULA 7 INAFASTÁVEL. DECISÃO AGRAVADA QUE DEVE SER MANTIDA PELOS SEUS PRÓPRIOS TERMOS. AGRAVO IMPROVIDO.
+ ..
+2. O óbice sedimentado na Súmula 7 mostra-se insuperável, pois para se aferir se a dedicação a atividades ilícitas decorre de mera suposição ou não, esta Corte teria, necessariamente, de envolver-se na análise de fatos e provas.
+3. E nesta ocasião, o agravante não traz argumento persuasivo o bastante para afastar com êxito os fundamentos da decisão ora agravada, devendo, assim, ser mantida intacta pelos seus termos.
+4. Agravo regimental improvido. (AgRg no AREsp 529.848/MS, Rel. Ministro WALTER DE ALMEIDA GUILHERME - Desembargador convocado do TJ/SP - Quinta Turma, julgado em 18/12/2014, DJe 2/2/2015).
+Ante o exposto, com fulcro no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
