@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INTERPRETAÇÃO DE NORMAS LEGAIS — INVIABILIDADE — NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região confirmou o entendimento do Juízo quanto à improcedência do pedido de reintegração e transposição do regime celetista para o estatutário. No extraordinário, o recorrente aponta violados os artigos 37, inciso II, e 39 da Constituição Federal. Insurge-se contra a manutenção do regime celetista e a demissão, aludindo à necessidade de observância do regime jurídico único e das regras atinentes ao processo administrativo disciplinar previsto na Lei nº 8.112/90. Requer tratamento em igualdade de condições com os servidores públicos.
+    2. Da sentença, expressamente mantida pela decisão impugnada, consta:
+    Sem embargo disso, para a adoção do regime jurídico estatutário pelo Conselho réu, faz-se necessário a criação, por lei, de cargos, assim entendido o conjunto de atribuições e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor (art. 3º da Lei 8.112/90).
+    Não se olvide que o artigo 243, § 1º, da Lei nº 8.112/90, expressamente converteu os empregos ocupados pelos servidores incluídos no regime por ela instituído em cargos, contudo tal transformação se deu na data de sua publicação, em 1990.
+          Fato é que não se tem notícias de qualquer lei criando cargos no âmbito dos Conselhos profissionais - notadamente para o Conselho Regional de Fisioterapia e Terapia Ocupacional da 8ª Região / CREFITO/PR - e, assim, ainda que a contratação do autor em 2009 tenha ocorrido de forma contrária à redação originária do artigo 39, caput, da Constituição da República, tenho que não há como se reconhecer a sujeição do autor ao regime estatutário.
+    Decidiu a Corte a partir de premissas fáticas, a esta altura inafastáveis, e da legislação comum de regência do tema. O acórdão impugnado revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Nego seguimento ao extraordinário. Considerada a fixação em sentença dos honorários advocatícios no valor de R$ 2.000,00 (dois mil reais), fixo os honorários recursais no patamar de R$ 1.000,00 (mil reais), nos termos do artigo 85, § 11, do Código de Processo Civil. Tendo a parte agravante litigado sob o pálio da assistência judiciária gratuita, arcará com o ônus dos  honorários caso ocorra a recuperação do poder aquisitivo no prazo de cinco anos.
+    4. Publiquem.
+Brasília, 2 de maio de 2018.
+Ministro MARCO AURÉLIO
+Relator
