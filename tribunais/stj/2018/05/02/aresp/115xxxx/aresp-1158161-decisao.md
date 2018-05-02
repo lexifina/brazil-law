@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 325):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ABONO DE PERMANÊNCIA. RECONHECIMENTO DO DIREITO NA ESFERA ADMINISTRATIVA. DIFERENÇAS. AUSÊNCIA DE PAGAMENTO.
+O direito de receber obrigação reconhecida no âmbito administrativo não pode ficar condicionado a critério unilateral da Administração Pública, impossibilitando a sua efetivação em determinado lapso temporal, sob pena de transformar o direito concreto em mera expectativa de direito.
+Parcialmente providos os aclaratórios para fins de prequestionamento (e-STJ fls. 344/349).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 1.022 do CPC/2015, 4º, caput, 9º do Decerto n. 20.910/1932 e 269, IV, do CPC/1973, sustentando negativa de prestação jurisdicional e prescrição da pretensão da parte adversa, uma vez que ajuizada a ação após dois anos e meio do encerramento do procedimento administrativo.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de incidência da Súmula 7 do STJ (e-STJ fls. 380/381).
+Na presente irresignação, a parte agravante alega, em resumo, a inadequação de aludido fundamento.
+Contraminuta às e-STJ fls. 396/404.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Quanto à alegada ofensa ao art. 1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como se confundir o resultado desfavorável ao litigante com a falta de fundamentação.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO LIVRE DE OMISSÃO. TRIBUTÁRIO. EXECUÇÃO FISCAL. O SIMPLES PEDIDO DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO QUE ESTEJA EM FASE DE COBRANÇA JUDICIAL E GARANTIDO POR PENHORA, SE NÃO FOR INFORMADO AO JUIZ DA EXECUÇÃO ANTES DA ARREMATAÇÃO, NÃO TEM O CONDÃO DE SUSPENDER A EXIGIBILIDADE DA DÍVIDA EXECUTADA, PARA O QUE SE EXIGE, AINDA, A HOMOLOGAÇÃO DO PARCELAMENTO. PRECEDENTES DO STJ. ACÓRDÃO, QUE, ADEMAIS, É EXPRESSO AO AFIRMAR A MÁ-FÉ DA RECORRENTE EM DEIXAR DE COMUNICAR, TÃO LOGO FOSSE POSSÍVEL, A REALIZAÇÃO DO PARCELAMENTO, AINDA QUE TAL COMUNICAÇÃO TENHA OCORRIDO ANTES DA ARREMATAÇÃO. SÚMULA 7/STJ. NEGADO PROVIMENTO AO AGRAVO REGIMENTAL.
+1. Trata-se, na origem, de embargos à arrematação em execução fiscal do INSS em que a executada alega a suspensão do crédito tributário pelo parcelamento e sua comunicação ao Juízo antes da arrematação, pleiteando, assim, sua desconstituição.
+2. A alegada violação ao art. 535, II do CPC não ocorreu, pois a lide foi fundamentadamente resolvida nos limites propostos. As questões postas a debate foram decididas com clareza, não se justificando o manejo dos Embargos de Declaração. Ademais, o julgamento diverso do pretendido não implica ofensa à norma ora invocada. Tendo encontrado motivação suficiente, não fica o órgão julgador obrigado a responder, um a um, todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado. Precedente: AgRg no AREsp 12.346/RO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.08.2011.
+(..)
+5. Agravo Regimental desprovido. (AgRg no AREsp 163417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014)
+In casu, a sentença adotada, no ponto, como razões de decidir pelo aresto hostilizado entendeu que " ..  no caso, o processo administrativo ainda não foi concluído (evento 1, PROCADM6, p. 54), razão pela qual a prescrição encontra-se suspensa (artigo 4.º do Decreto 20.910/1932)" (e-STJ fls. 320).
+Assim, não há que se falar em ofensa ao dispositivo invocado.
+Quanto ao mais, como visto, o decisum de segundo grau consignou que não foi encerrado o procedimento administrativo.
+Assim, verifica-se no acórdão recorrido que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
