@@ -1,0 +1,79 @@
+DECISÃO
+1. Cuida-se de agravo tirado de decisão denegatória do seguimento de recurso especial, por sua vez manejado com amparo na alínea "a" do permissivo constitucional, objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. MATÉRIA DE FATO. CASO CONCRETO. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS CONTÁBEIS. RESCISÃO DE CONTRATO. INADIMPLÊNCIA DOS HONORÁRIOS CONTÁBEIS A PARTIR DE NOVEMBRO/2013 ATÉ FEVEREIRO/2014. INSUFICIÊNCIA DO DEPÓSITO VERIFICADA. EXISTÊNCIA DE SALDO DEVEDOR. ALTERAÇÃO DO VALOR EM RAZÃO DOS DOCUMENTOS JUNTADOS AOS AUTOS. SUCUMBÊNCIA REDIMENSIONADA. RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO.
+(fl. 178)
+Opostos embargos de declaração pela ora recorrente, foram rejeitados (fls. 219-224).
+Opostos embargos de declaração pela ora recorrida, foram acolhidos para sanar a omissão então apontada, reconhecendo a existência de saldo devedor na quantia de R$ 5.845,22 e redimensionando, consequentemente, o ônus da sucumbência (fls. 212-218).
+Nas razões do especial, a recorrente aponta violação ao art. 408 do Código de Processo Civil, ao argumento de que teriam sido ignorados documentos acostados aos autos que, se examinados, demonstrariam que o salvo devedor seria inferior aquele apontado pela Corte de origem.
+Certidão de transcurso in albis do prazo para o oferecimento de contrarrazões (fl. 261).
+O recurso recebeu crivo negativo de admissibilidade na origem (fls. 275 - 282), ascendendo a esta Corte Superior por meio da interposição de agravo (fls. 285-298).
+É o relatório.
+DECIDO.
+2. Trata-se, na origem, de ação de consignação em pagamento movida por [NOME] E CIA LTDA em face de [NOME] a qual foi dado parcial provimento.
+Em sede de recurso especial, aduz, a ora recorrente, violação ao art. 408 do CPC, ao argumento de que teria sido ignorado o documento de fl. 25 que se trataria de notificação elaborada pela própria recorrida na qual esta reconheceria que os débitos existentes seriam devidos a partir do mês de novembro de 2013, conforme referido pela autora, ora recorrente, na exordial.
+Ademais, não teria sido examinado o documento de fl. 12, dos autos do processo de busca e apreensão em apenso, nº 026/1.14.0002571-4, segundo o qual o saldo devedor, segundo a própria recorrida, em 15/2/2014, seria de R$3.985,00.
+Nesse sentido, obtempera que, a partir da análise dos documentos apontados, o valor do saldo devedor não seria aquele fixado pelo Tribunal a quo.
+A Corte de origem, não obstante, em sede de embargos de declaração opostos pela ora recorrida, consignou que o saldo devedor seria de R$ 5.845,22, merecendo menção o seguinte excerto do acórdão integrativo, verbis:
+No caso, o acórdão incorreu em omissão ao não analisar o termo inicial dos débitos inadimplidos referente aos serviços que estavam fora do pacote básico mensal.
+Denota-se dos autos que a notificação da fl. 25 estabeleceu o termo inicial do inadimplemento somente com relação aos honorários contratuais convencionados em R$ 480,00 mensais, conforme se verifica no item n2 2, a saber:
+2. Serve a presente, outrossim, para notificar V. Senhoria do inadimplemento verificado pelo não pagamento dos honorários mensais, devidos a partir do mês de novembro de 2013; demais encargos contratuais e realização de outros serviços solicitados.
+Assim, não há dúvida que o termo inicial do inadimplemento, com relação aos honorários contratuais, ocorreu a partir de novembro de 2013.
+Ocorre que o acórdão embargado não analisou o termo inicial dos débitos inadimplidos referente aos serviços que estavam fora do pacote básico mensal, utilizando o mesmo termo inicial dos honorários contratuais convencionados, de modo que foram excluídos do saldo devedor os valores anteriores a novembro/2013.
+Para estes serviços, considerando que não há nos autos qualquer documento que comprove o adimplemento da obrigação, deve ser observada a data do início a relação contratual, qual seja, 02.04.2013 (fl. 21).
+Assim, deverão ser incluídos no saldo devedor, os seguintes valores referentes aos serviços extras prestados, conforme a tabela das fls. 28-30, a saber: 30.04.2013 (carimbo- R$ 15,00), 30.04.2013 (Declarações IRPF/2013 Diversos - R$ 165,00), 30.04.2013 (Admissões, Caged e serviços RH - R$ 250,00), 10.05.2013 (Rescisões trabalhistas -5 empregados - R$ 250,00), 31.05.2013 (Admissões e serviços RH - R$ 250,00), 12.06.2013 (Atualização de guias atrasadas e material de escri - R$ 45,00), 29.06.2013 (Rescisões trabalhistas - 4 empr. R$ 250,00), 31.07.2013 (Admissões empr. Caged e RH - R$ 150,00), 10.08.2013 (Serviços extras em final de semana - R$ 60,00), 31.08.2013 (Rescisão -4 empregados e caged - R$ 200,00), 31.08.2013 (Rescisão -4 empregados e caged - R$ 200,00), 31.08.2013 (Horas extras- serviços em final de semana - R$ 34,00), 30.09.2013 (Rescisão -3 empregados e caged - R$ 100,00), 30.09.2013 (Rescisão - 1 empregado, materiais e caged - R$30,00) e 30.09.2013 (Atualização FGTS atrasado - R$ 20,00), totalizand o a quantia de R$ 2.019,00.
+Nesse contexto, somando a quantia de R$ 3.826,22 (reconhecido no acórdão como saldo devedor) com o valor referente aos serviços extras (R$ 2.019,00), deve ser alterado o dispositivo do acórdão para o fim de reconhecer a existência de saldo devedor na quantia de R$ 5.845,22, que deverá ser atualizada conforme os encargos de inadimplência previstos no contrato, considerando que não houve insurgência quanto à validade destes.
+Dou por prequestionados os dispositivos legais, até porque o julgador não está compelido a analisar de forma expressa todos os dispositivos legais elencados pela parte ou contrapor-se cada um dos argumentos.
+Basta que a decisão esteja fundamentada, coerente e lógica, e que traga dos elementos que levaram ao convencimento do julgador, enfrentando todos os argumentos que, em tese, possam infirmar a conclusão adotada no julgado, na forma do que dispõe o artigo 489, IV, do NCPC.
+Por todo o exposto, voto por acolher os embargos de declaração para sanar a omissão acima apontada, reconhecendo a existência de saldo devedor na quantia de R$ 5.845,22, a qual deverá ser atualizada conforme os encargos de inadimplência previstos no contrato, considerando que não há insurgência quanto à validade destes.
+Em razão do resultado do julgamento e, em face do decaimento mínimo da ré, altero os ônus da sucumbência, de modo que condeno a parte autora ao pagamento da integralidade das custas processuais e dos honorários advocatícios que fixo em R$ 800,00, nos termos do artigo 20, §4º, do CPC.
+(fls. 215-217)  g.n.
+Observa-se que a conclusão a que chegou a Corte de origem, soberana na análise dos fatos e das provas, decorreu de ampla aferição do arcabouço fático-probatório acostado aos autos, bem como da interpretação e exame dos documentos colacionados.
+Desse modo, examinar e interpretar os documentos mencionados pela ora recorrente, para então derruir as conclusões a que chegou o Tribunal estadual, demandaria, necessariamente, incursão no acervo fático-probatório dos autos, bem como interpretação do contrato e dos demais documentos, o que é vedado pelos enunciados das Súmulas 5 e 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE CONSIGNAÇÃO DE BEM MÓVEL LOCADO - INDENIZAÇÃO POR LUCRO CESSANTE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA DA AUTORA.
+1. O Tribunal de origem, diante de todo o acervo fático-probatório carreados aos autos e do teor do contrato entabulado entre as partes, entendeu ser devida a indenização em razão do descumprimento do acordo para a entrega dos equipamentos. Para acolhimento do apelo extremo, seria imprescindível derruir as conclusões a que chegou o Tribunal de origem, o que demandaria rediscussão de matéria fática e interpretação de cláusulas contratuais, com o revolvimento das provas juntadas aos autos, incidindo, na espécie, os óbices das Súmulas 5 e 7 deste Superior Tribunal de Justiça. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 513.899/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/09/2017, DJe 27/09/2017)  g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. VIOLAÇÃO DO ART. 535 DO CPC/73. INOCORRÊNCIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. REINTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SUMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Não se verifica também, no caso, a alegada contrariedade ao artigo 460 do Código de Processo Civil, porquanto a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+3. No presente caso, constato que para desconstituir a convicção formada pelas instâncias ordinárias, por qualquer das alíneas do permissivo constitucional, far-se-ia necessário incursionar no substrato fático-probatório bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial em face dos óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 918.972/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/10/2016, DJe 25/10/2016)  g.n.
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. MÚTUO HABITACIONAL. REAJUSTE DAS PRESTAÇÕES. PLANO DE EQUIVALÊNCIA SALARIAL - PES. SÚMULAS 5 E 7/STJ. CONSIGNAÇÃO EM PAGAMENTO. IMPROCEDENCIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não há que se falar em violação do art. 535, do Código de Processo Civil, pois o tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes. Além disso, basta ao órgão julgador que decline as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais.
+2. O acolhimento da pretensão recursal, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos e interpretação de cláusula contratual, o que é vedado pelas Súmulas 5 e 7 do STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 573.712/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/11/2014, DJe 12/11/2014)  g.n.
+Ademais, esta Corte Superior ressalta que cabe ao magistrado, como destinatário final, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento.
+O princípio da persuasão racional ou do livre convencimento motivado constitui prerrogativa concedida ao juiz, para que, com fulcro nos elementos relevantes constantes nos autos, possa firmar a convicção sobre a matéria debatida.
+Com efeito, como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pela civilística processual, proceder à exegese necessária à formação do livre convencimento motivado.
+Nesse sentido, citam-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. APRECIAÇÃO DE PROVA. PRINCÍPIO DO LIVRE CONVENCIMENTO. ART. 131 DO CÓDIGO DE PROCESSO CIVIL DE 1973. PRODUÇÃO DE PROVA PERICIAL. DESNECESSIDADE. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação dos artigos 165, 458 e 535 do Código de Processo Civil de 1973.
+2. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+3. Inviável o recurso especial cuja análise impõe reexame do contexto fático-probatório da lide (Súmula 7 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 891.083/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/09/2016, DJe 20/09/2016)  g.n.
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. ACÓRDÃO FUNDADO NA PROVA DOS AUTOS. REVISÃO. SÚMULA 7/STJ.
+1. Afastada a alegada contrariedade ao art. 535 do CPC, tendo em vista que o Tribunal de origem decidiu as questões essenciais à solução da controvérsia.
+2. O juiz não está adstrito aos fundamentos legais apontados pelas partes. Exige-se apenas que a decisão seja fundamentada, aplicando o julgador a solução por ele considerada pertinente ao caso concreto, segundo o princípio do livre convencimento fundamentado, positivado no art. 131 do CPC.
+3. Na via especial, não cabe a análise de tese recursal que demande a incursão na seara fático-probatória dos autos. Incidência da orientação fixada pela Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1358752/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 20/09/2016)  g.n.
+AGRAVO REGIMENTAL INTERPOSTO SOB A ÉGIDE DO CPC/1973. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CIVIL. EMBARGOS À EXECUÇÃO. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROVA PERICIAL. ABUSIVIDADE DOS JUROS. REVISÃO. SÚMULA N. 7 DO STJ.
+ ..
+2. O ordenamento jurídico, com amparo no art. 131 do CPC/73, adota o princípio do livre convencimento motivado, segundo o qual o juiz pode apreciar com liberdade as provas produzidas pelas partes.
+3. Incide a Súmula n. 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 846.321/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 18/08/2016, DJe 01/09/2016)  g.n.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DEPÓSITO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 131, 458, II, 330 E 20 §§ 3º e 4º DO CPC E DECRETO Nº 3.855/200. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. HONORÁRIOS. SÚMULA 07 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que compete às instâncias ordinárias exercer juízo acerca das provas produzidas, haja vista sua proximidade com as circunstâncias fáticas da causa, cujo reexame é vedado em âmbito de recurso especial, a teor da Súmula 7 deste Tribunal.
+2. Não há que se falar em violação aos arts. 131, 458, II e 330 do Código de Processo Civil. Hão de ser levados em consideração o princípio da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do art. 130 do Código de Processo Civil, permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou protelatórias. Ademais, a Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas. O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão.
+3. A discussão sobre honorários advocatícios, nesta Corte, na maioria das hipóteses, encontra óbice na súmula nº 07/STJ, salvo quando se tratar de sua fixação em patamar irrisório ou exorbitante, o que não se amolda à hipótese dos autos.
+4. Agravo regimental não provido.
+(AgRg no AREsp 655.945/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/10/2015, DJe 21/10/2015)  g.n.
+Portanto, compete às instâncias ordinárias exercer juízo acerca dos elementos probatórios acostados aos autos, cujo reexame é vedado no âmbito do recurso especial, por encontrar óbice na Súmula nº 7/STJ.
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao recurso.
+Publique-se. Intimem-se.
