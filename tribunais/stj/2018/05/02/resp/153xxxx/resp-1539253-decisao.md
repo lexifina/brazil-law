@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 381):
+COMPROMISSO DE COMPRA E VENDA. IMÓVEL. ATRASO NA ENTREGA DA UNIDADE ADQUIRIDA POR CULPA DA DEMANDADA. DANOS MATERIAIS. OCORRÊNCIA. VALOR QUE DEVE SER FIXADO NO PARÂMETRO USUAL DE 0,5% SOBRE O VALOR DE MERCADO DO IMÓVEL. DESCABIMENTO DA PRETENSÃO ATINENTE À DEVOLUÇÃO DA COMISSÃO DE CORRETAGEM. DANO MORAL AFASTADO. SUCUMBÊNCIA RECÍPROCA. RECURSOS PARCIALMENTE PROVIDOS.
+Nas razões do recurso, alegando dissídio jurisprudencial, os recorrentes pretendem a condenação da recorrida ao pagamento de indenização por danos morais, bem como a restituição da comissão de corretagem.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso especial sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Analisando os pressupostos de admissibilidade, verifico que o recurso não merece conhecimento.
+Com efeito, nos termos do disposto no art. 932, III, do novo Código de Processo Civil, incumbe ao Relator, de forma singular, negar seguimento a recurso inadmissível.
+De fato, da análise das razões do recurso, nota-se que não se delimitou o dispositivo legal, objeto de interpretação divergente entre os Tribunais, de modo que a deficiência na fundamentação obsta o conhecimento do recurso especial interposto com fundamento na alínea "c" do inciso III do art. 105 da Constituição Federal. Aplica-se, por analogia, o óbice da Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE SUBSCRIÇÃO DE AÇÕES. DISSÍDIO JURISPRUDENCIAL QUANTO À ILEGITIMIDADE ATIVA DO CEDENTE E CRITÉRIO DE CONVERSÃO DAS AÇÕES EM PECÚNIA. DISSÍDIO NÃO COMPROVADO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. PRECEDENTES. (..) 2. Não há falar em dissenso interpretativo tendo em vista que não foi feita a indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, de onde se evidencia a deficiência na fundamentação do recurso a atrair o óbice da Súmula nº 284 do STF. (..) 4. Agravo interno não provido.
+(AgInt no REsp 1.606.052/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 6.6.2017, DJe 12.6.2017).
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO - AÇÃO INDENIZATÓRIA - DELIBERAÇÃO MONOCRÁTICA QUE RECONSIDEROU DECISÃO ANTERIORMENTE PROFERIDA, PARA CONHECER DO RECLAMO A FIM DE NEGAR SEGUIMENTO AO RECURSO ESPECIAL, ANTE A INCIDÊNCIA DA SÚMULA 284/STF. INSURGÊNCIA DOS DEMANDADOS. (..) 2. A ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF. Precedentes. 3. Agravo regimental desprovido.
+(AgRg no AgRg no Ag 1.155.444/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16.5.2017, DJe 24.5.2017).
+Em face do exposto, não conheço do recurso especial.
+Intimem-se.
