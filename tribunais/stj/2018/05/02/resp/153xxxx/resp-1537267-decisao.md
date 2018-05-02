@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fl. 186):
+ADMINISTRATIVO E PROCESSUAL CIVIL. APELAÇÃO. TERRENO DE MARINHA. RAZÕES DISSOCIADAS. NÃO CONHECIMENTO.
+REMESSA OFICIAL DESPROVIDA
+1. Não se conhece da apelação cujas razões estejam dissociadas daquilo que foi decidido na sentença.
+2. Manutenção da sentença pela análise da remessa oficial, que se tem por desprovida.
+3. Tendo em conta o disposto no artigo 47, I, e § 1º, da Lei n. 9.636/98, a SPU apenas poderia ter lançado a multa prevista nos § 4º e § 5º do artigo 3º do Decreto-Lei n. 2.398, de 21.12.1987, se as transferências de ocupação descritas na inicial tivessem ocorrido dentro dos cinco anos que antecederam o conhecimento delas pela SPU. Decadência reconhecida.
+Opostos embargos de declaração, foram parcialmente acolhidos para fins de prequestionamento, sem efeitos infringentes (e-STJ fl. 214)
+Nas suas razões, a recorrente aponta violação dos arts. 535, II, do Código de Processo Civil de 1973, 3º, § 2º, I, e § 4º, do Decreto-Lei n. 2.398/87, 1º a 4º do Decreto n. 95.760/88 e 7º, § 7º, e 47, I, e § 1º da Lei n. 9.636/98.
+Sustenta, preliminarmente, negativa de prestação jurisdicional, visto que o Tribunal de origem não se pronunciou sobre questões relevantes para o deslinde da controvérsia, apesar de opostos os declaratórios.
+Quanto ao mérito, defende a legitimidade da cobrança da taxa de ocupação, tendo em conta que o autor não comunicou a transferência do imóvel à autoridade competente - SPU, razão pela qual deve-se considerar como termo inicial para a contagem do prazo decadencial ou prescricional a data em que a Administração tomou ciência do fato gerador da obrigação (29/09/2009).
+Defende que, "tendo a notificação da autora/recorrida para pagamento do débito sido emitida em 27 de janeiro de 2010 (como se vê do evento 06 PROCADM2, página 46), é nítido que não decorreu o prazo decadencial previsto no citado artigo art. 47, I da Lei nº 9.636/98, para a cobrança da referida multa de transferência" (e-STJ fl. 232).
+Contrarrazões às e-STJ fls. 242/247.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 250.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feito tal esclarecimento, verifica-se que assiste razão à recorrente quanto à ofensa ao art. 535 do CPC/1973. De fato, o Tribunal de origem não analisou o disposto nos arts. 3º, § 2º, I, e § 4º, do Decreto-Lei n. 2.398/1987 e 47, § 1º, da Lei n. 9.636/1998, a despeito de ter sido oportunamente provocado mediante aclaratórios.
+Os aludidos comando normativos amparam a tese de que o prazo decadencial para a cobrança da taxa de ocupação e multas relativas à transferência do terreno de marinha começa a fluir a partir do momento em que a Administração toma ciência do negócio jurídico realizado sobre o domínio útil do imóvel da União.
+Nessa quadra, a ocorrência de vício de integração justifica a nulidade do acórdão recorrido, por violação do art. 535 do CPC/1973, para que as questões levantadas pela União sejam apreciadas pelo Tribunal de origem, à luz do caso concreto, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. OMISSÃO NO ACÓRDÃO CONFIGURADA. ANÁLISE DE QUESTÕES EMINENTEMENTE FÁTICAS EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO IMPROVIDO.
+1. Reconhecida a existência de omissão no acórdão recorrido e referindo-se o vício a questões eminentemente fáticas, impõe-se o retorno dos autos à Corte de origem para novo julgamento, tendo em vista a impossibilidade de esta Corte Superior adentrar a análise do acervo fático-probatório dos autos.
+2. Agravo interno improvido. (AgInt no AREsp 1149082/DF, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. Incide em violação ao art. 1.022 do CPC/2015 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante.
+2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o ponto apresentado pela parte recorrente: "por força da previsão no edital e expresso entendimento do ilustre Magistrado da 4ª Vara Especializada de Execuções Fiscais, os Arrematantes/Embargados, no caso concreto, são responsáveis pelo pagamento dos tributos com fatos geradores anteriores à arrematação".
+3. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios. (REsp 1695486 / SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para anular o acórdão de e-STJ fls. 212/215, por violação do art. 535, II, do CPC/1973, determinando o retorno dos autos para que o Tribunal de origem reaprecie os embargos de declaração opostos pela ora recorrente, sanando o vício de integração ora identificado, ficando prejudicadas as demais alegações.
+Publique-se. Intimem-se.
