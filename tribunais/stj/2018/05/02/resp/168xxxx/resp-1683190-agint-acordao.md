@@ -1,0 +1,31 @@
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182, DO STJ.
+1. A ausência de impugnação aos fundamentos da decisão recorrida enseja a aplicação da Súmula 182, do STJ.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+ A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Antonio Carlos Ferreira (Presidente), Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Luis Felipe Salomão votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: CENTRAIS ELÉTRICAS BELÉM S/A ajuizou agravo interno em face da decisão de fls. 1.188/1.190 e-STJ, que negou seguimento ao seu recurso especial.
+A agravante sustenta que para ocorrer o protesto por indicação das duplicatas por meio magnético, necessária a comprovação do envio do título ao sacado para aceite e a sua não devolução no prazo legal.
+A parte agravada ofereceu impugnação às fls. 1.205/1.215 e-STJ.
+É o relatório.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão recorrida julgou recurso especial interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+Declaratória de nulidade de título. Duplicata virtual. Possibilidade. Protesto por indicação. Boleto bancário. Comprovação da relação comercial subjacente. Provimento. As duplicatas virtuais - emitidas e recebidas por meio magnético ou de gravação eletrônica - podem ser protestadas por mera indicação, de modo que a exibição do título não é imprescindível para o ajuizamento da execução judicial. Considerando os usos e costumes comerciais, é possível a emissão de duplicata "virtual", quando comprovada a relação comercial subjacente, por meio de boletos de cobrança bancária vinculados ao título virtual, devidamente acompanhados dos instrumentos de protesto por indicação e dos comprovantes de entrega da mercadoria ou da prestação dos serviços, o que supre a ausência física do título cambiário eletrônico e constitui, em princípio, títulos executivos extrajudiciais. Precedentes STJ.
+Argumentou a parte recorrente, ora agravante, que os títulos objetos da petição inicial devem ser declarados nulos e inexigíveis, porque foi comprovado nos autos a inexistência de emissão das duplicatas, bem como prova do seu envio para aceite ou a ausência da devolução no prazo legal.
+Quanto à ausência de comprovação da emissão da duplicata física e sua remessa para aceite, o Tribunal estadual entendeu que, ausente documento físico, ainda assim é possível o protesto por indicação, desde que acompanhado de documento hábil comprobatório da entrega e recebimento de mercadorias e que a sacada não tenha recusado o aceite pelos motivos dos arts. 7º e 8º da Lei n. 5.474/1968. Esse fundamento não foi impugnado e é suficiente por si só para manter o acórdão, que por consequência não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Outrossim, a Corte de origem firmou a validade da duplicata virtual, em consonância com a jurisprudência do STJ, de que é exemplo o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DUPLICATAS. TRIBUNAL A QUO RECONHECE A PRESENÇA DOS REQUISITOS DO ART. 15 DA LEI 5.474/68. ALTERAÇÃO DO ENTENDIMENTO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. PROVIMENTO NEGADO. 1. O col. Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu que a duplicata virtual acompanhada de prova da prestação dos serviços, e de notas fiscais com o respectivo instrumento de protesto, satisfazem o disposto no art. 15 da Lei 5.474/68, sendo possível a cobrança judicial das duplicatas mencionadas na petição inicial.
+2. Nesse contexto, incide, no ponto, o óbice contido na Súmula 83 do STJ, porque o acórdão recorrido está em sintonia com a jurisprudência desta Corte, no sentido de "ser possível o ajuizamento de execução de duplicata virtual, desde que devidamente acompanhada dos instrumentos de protesto por indicação e dos comprovantes de entrega da mercadoria e da prestação do serviço" (AgRg no REsp 1.559.824/MG, Rel. Ministro RICARDO VILLAS BOAS CUEVA, TERCEIRA TURMA, DJe de 11/11/2015).
+3. A modificação das premissas lançadas no v. acórdão recorrido - suficiência de provas para demonstrar a exigibilidade do título executivo - demandaria o revolvimento de suporte fático-probatório dos autos, o que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento.
+(AgInt no AREsp 1.038.662/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 29/6/2017)
+A agravante sequer impugnou a fundamentação da decisão agravada, apenas reiterando a necessidade de reforma do acórdão estadual. Imperioso concluir, portanto, pela incidência da Súmula 182, deste Tribunal, que dispõe que "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravo." (atual artigo 1.021, do Novo Código de Processo Civil).
+Assim se manifesta esta Corte:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO. COMPROVAÇÃO DA MORA. CONTRATO DE FINANCIAMENTO COM GARANTIA FIDUCIÁRIA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ). INTERPOSIÇÃO DE SEGUNDO AGRAVO REGIMENTAL. ERRO GROSSEIRO. INTEMPESTIVIDADE.
+1. O agravo regimental não impugnou especificamente toda a fundamentação da decisão agravada, o que atrai a incidência da Súmula 182 do STJ.
+2. A interposição de recurso manifestamente incabível não interrompe ou suspende o prazo para a interposição de outros recursos, nem impede o trânsito em julgado do acórdão ou decisão inadequadamente impugnados. Intempestividade do recurso especial. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 750.225/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2015, DJe 01/02/2016)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
