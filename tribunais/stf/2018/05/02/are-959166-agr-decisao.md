@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo regimental interposto em face de decisão monocrática em que neguei seguimento ao recurso extraordinário, nos termos do art. 21, § 1º, do RISTF.
+    Sustenta-se, em síntese, que a decisão agravada deve ser reformada, visto que partiu de premissa equivocada, pois o acórdão recorrido violou o art. 40, § 4º, da Constituição Federal e está em confronto com a jurisprudência do STF (eDOC 6, p. 2). Alega-se que a questão referente ao alcance da norma do referido dispositivo constitucional tem repercussão geral reconhecida no RE 1.014.286 (tema 942). Ademais, aduz-se a inaplicabilidade da Súmula 279/STF, visto que, “quer o tempo de serviço seja suficiente quer não, a questão que se põe não é a concessão de aposentadoria especial stricto sensu, mas sim a possibilidade de averbação de tempo de serviço prestado em condições especiais, mediante contagem diferenciada” (eDOC 6, p. 4).
+    Devidamente intimada, a parte Agravada quedou-se silente (eDOC 10).
+    É o relatório. Decido.
+    Assiste razão à parte Agravante.
+    Com efeito, o Supremo Tribunal Federal, ao analisar o RE 1.014286-RG, Rel. Min. Luiz Fux, reconheceu a existência de repercussão geral da matéria em debate, referente à “possibilidade de aplicação das regras do regime geral de previdência social para a averbação do tempo de serviço prestado em atividades exercidas sob condições especiais, nocivas à saúde ou à integridade física de servidor público, com conversão do tempo especial em comum, mediante contagem diferenciada”. Reproduzo a ementa desse julgado:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ARTIGO 40, § 4º, III, DA CONSTITUIÇÃO FEDERAL. PEDIDO DE AVERBAÇÃO DE TEMPO DE SERVIÇO PRESTADO EM ATIVIDADES EXERCIDAS SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA DO SERVIDOR, COM CONVERSÃO DO TEMPO ESPECIAL EM COMUM, MEDIANTE CONTAGEM DIFERENCIADA, PARA OBTENÇÃO DE OUTROS BENEFÍCIOS PREVIDENCIÁRIOS. QUESTÃO NÃO ABRANGIDA PELO ENUNCIADO DA SÚMULA VINCULANTE 33. REITERAÇÃO DA CONTROVÉRSIA EM MÚLTIPLOS PROCESSOS. IMPACTO DA DECISÃO NO EQUILÍBRIO FINANCEIRO E ATUARIAL DA PREVIDÊNCIA PÚBLICA. RECONHECIDA A EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ante o exposto, reconsidero a decisão agravada e, em consequência, julgo prejudicado o agravo regimental. Determino a remessa dos autos ao Tribunal de origem para adequação à sistemática da repercussão geral, nos termos do art. 1.036 do CPC, combinado com o art. 328 do RISTF.
+    Publique-se.
+    Brasília, 2 de maio de 2018.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
