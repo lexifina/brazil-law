@@ -1,0 +1,27 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ.SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. COISA JULGADA. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DIREITO LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado do Rio Grande do Sul, que negou admissibilidade a recurso contra acórdão assim ementado:
+APELAÇÃO CÍVEL. REAJUSTES DA LEI Nº 10.395/95. COISA JULGADA. LEI ESTADUAL 12.961/08.
+Não se aplicam ao caso em tela as novas regras preconizadas pelo Código de Processo Civil de 2015, tendo em vista a sentença proferida na vigência da Legislação anterior, bem como o recurso interposto, forte no art. 14 do novel instituto processualista.
+Há coisa julgada quando ajuizada nova ação postulando os reajustes da Lei nº 10.395/95 se a autora postulou em ação anterior tais reajustes, a qual foi julgada improcedente, sendo reconhecida a eficácia da coisa julgada inclusive quando a autora invoca nova causa de pedir para postular os mesmos reajustes da Lei 10.395/95.
+Apelação improvida.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões de recurso especial, sustenta a parte recorrente violação do art. 1.022 do CPC/2015, ante a negativa de prestação jurisdicional. Aduz, violação do art. 467, I, face a inexistência de coisa julgada.
+Apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que: I) compete ao STF a análise de dispositivos constitucionais; II) inexiste violação ao art. 1.022 do CPC/2015; III) o exame da coisa julgada demandaria reexame de provas, a atrair a Súmula 7/STJ; IV) a pretensão recursal envolve análise de direito local, nos termos da Súmula 280/STF.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque preenchidos os pressupostos de admissibilidade recursal.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo a agravante impugnado o fundamento da decisão de inadmissibilidade, passo a análise do recurso especial.
+Não conheço da apontada violação do art. 1.022, do CPC/2015, pois as alegações que fundamentaram a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros ou sobre os quais tenha ocorrido erro material, deixando a recorrente de expor de forma clara os motivos pelos quais o Tribunal a quo teria violado o dispositivo infraconstitucional em questão, restando, assim, inviabilizada a exata compreensão da controvérsia, razão pela qual incide o óbice da Súmula 284/STF.
+No que concerne a suposta violação aos arts. 5º, LIV e LV e 93, IX, da CF/1988 , o Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal.
+Acerca da coisa julgada, o Tribunal de origem assentou os seguintes fundamentos, verbis:
+A própria autora/apelada refere que havia anteriormente ajuizado ação buscando os reajustes da Lei Estadual nº 10.395/05, a qual foi julgada improcedente em segundo grau pela 4º Câmara Cível do Tribunal de Justiça.
+No entanto, a autora renovou a presente ação postulando novamente o pagamento dos reajustes pretéritos previstos na Lei Estadual nº 10.395/95, argumentando que o Estado reconheceu o direito da parte autora com a edição da Lei Estadual n5 12.961/2008.
+Há que ser reconhecida a coisa julgada quando ajuizada nova ação postulando os reajustes da Lei ne 10.395/95 ao passo que a demandante ajuizou ação anterior postulando estes reajustes, a qual foi julgada improcedente, sendo reconhecida a eficácia da coisa julgada mesmo quando ocorre modificação de posicionamento em órgão do Tribunal de Justiça e inclusive quando a parte demandante invoca nova causa de pedir para postular os mesmos reajustes da Lei 10.395/95, razão pela qual não merece provimento o apelo. Assim não fosse restaria perecido o instituto da coisa julgada bastando a todos que tiveram seu julgamento de improcedência arriscarem com nova formação do grupo julgador para renovarem o pleito já desacolhido pela Justiça, nova roupagem para a pretérita pretensão não ilide a ocorrência da coisa julgada.
+Com efeito, a revisão do entendimento adotado pelo Tribunal de origem, no que concerne a suposta violação à coisa julgada, demandaria, necessariamente, incursão no conjunto probatório dos autos, a atrair a incidência da Súmula 7/STJ.
+Por fim, vale frisar, conforme se observa do acórdão recorrido, a presente demanda foi apreciada com base em interpretação de direito local (Lei Estadual nº 10.395/1995 e 12.961/2008), sendo vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
