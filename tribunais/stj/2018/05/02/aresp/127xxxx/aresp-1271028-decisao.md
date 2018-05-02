@@ -1,0 +1,40 @@
+DECISÃO
+1. Cuida-se de agravo interposto por UNIMED GOIÂNIA COOPERATIVA DE TRABALHO MÉDICO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado:
+AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MÁ-FÉ DA AUTORA NÃO COMPROVADA. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. GASTROPLASTIA. CIRURGIA DE EMERGÊNCIA. ART. 35-C DA LEI 9.656/98. DANOS MORAIS IN RE IPSA. REDUÇÃO A PATAMAR RAZOÁVEL.
+1- A má-fé não se presume, devendo ser cabalmente demonstrada pela recorrente, principalmente por se tratar de seguro saúde, cujos débitos são cobrados por vias adequadas. Ademais, somente possível a negativa de cobertura e rescisão unilateral do pacto após a notificação do consumidor, a teor do art. 13, II, Lei 9.656/98.
+2 - Clara a natureza emergencial da cirurgia pleiteada pela autora recorrida, já que em risco iminente das doenças causadas pela obesidade conforme laudo médico juntado com a inicial, circunstância que desqualifica a cláusula contratual de carência.
+3 - Segundo o artigo 14, CDC, o fornecedor de produtos e serviços responde, independentemente da existência de culpa pela reparação dos danos causados por defeitos relativos a prestação de serviços que disponibiliza no mercado de consumo, mostrando-se desnecessária a prova efetiva do prejuízo por se cuidar a hipótese de dano moral in re ipsa.
+4 - O valor fixado na sentença revela exorbitante e inadequado aos preceitos do art. 944, Código Civil, merecendo redução para patamar razoável, que não levará a recorrente à ruína, nem significará enriquecimento indevido da autora.
+5- Apelo parcialmente provido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao art. 188, I, do CC. Sustenta que a recusa da autorização para a gastroplastia está amparada na lei e no contrato, não constituindo assim um ato ilícito. Busca afastar o reconhecimento de dano moral indenizável.
+Decido.
+2. O Tribunal de origem, com base nas provas constantes dos autos, concluiu que houve dano moral indenizável. Sobre o tema, vale conferir o seguinte trecho do acórdão recorrido:
+Assim, não juntada a notificação prevista em lei e tendo em conta o curto espaço de tempo decorrido entre o suposto cancelamento do contrato (15/01/2014) e a propositura da demanda 20/01/2014), não configurada a má-fé da recorrida, cuja prova cabia à recorrente, a teor do art. 333, II, CPC/73. De mais, forçoso acrescentar que a pronta quitação do débito anterior (f. 181) e a assinatura de novo pacto sem que aproveitada a carência anterior (fs. 165/167) fazem prova a favor da autora apelada, que se viu compelida a propor a presente ação pela evolução do quadro clínico conforme atestado à f. 41.
+(..)
+Voltando ao caso concreto, foi negada pela apelante a cobertura de cirurgia bariátrica, de natureza emergencial e prescrita pela médica que acompanha a apelada (f. 41), alicerçando a negativa na alegação de que ANS determina a carência de 24 meses para o caso de doenças preexistentes no momento da contratação, consoante artigo 117 da Lei nº 9.656/98.
+Não obstante as razões recursais apresentadas, clara a natureza emergencial da cirurgia pleiteada pela autora recorrida, já que em risco iminente em razão das doenças causadas pela obesidade conforme laudo médico juntado com a inicial, circunstância que desqualifica a cláusula contratual de carência.
+Nesse contexto, o acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA DO BENEFICIÁRIO DO SERVIÇO. QUEBRA DA BOA-FÉ OBJETIVA. NEGATIVA DE COBERTURA PARA REALIZAÇÃO DE CIRURGIA BARIÁTRICA AUTORIZADA. DANOS MORAIS CARACTERIZADOS. VALOR. REVISÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+(AgInt no AREsp 891.282/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/08/2017, DJe 22/08/2017)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. TRATAMENTO. OBESIDADE MÓRBIDA.
+CIRURGIA BARIÁTRICA. COBERTURA. NEGATIVA. DANO MORAL IN RE IPSA.
+CABIMENTO. QUANTUM DA INDENIZAÇÃO. MINORAÇÃO. IMPOSSIBILIDADE. VALOR DE ACORDO COM OS PARÂMETROS ESTABELECIDOS NO STJ. REVISÃO. SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O Superior Tribunal de Justiça entende ser abusiva a cláusula contratual que exclui tratamento prescrito para garantir a saúde ou a vida do beneficiário, porque o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica, indicada por profissional habilitado, na busca da cura.
+3. A orientação desta Corte Superior é de que a recusa indevida ou injustificada pela operadora de plano de saúde em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada gera direito de ressarcimento a título de dano moral, em razão de tal medida, agravar a situação tanto física quanto psicologicamente do beneficiário. Caracterização de dano moral in re ipsa.
+4. A jurisprudência do STJ é firme no entendimento de que os valores estabelecidos a título de danos morais somente podem ser modificados, na via especial, em hipóteses excepcionais e quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, situação que não se verifica nesses autos, nos quais a verba indenizatória foi fixada, na origem, em R$ 10.000,00 (dez mil reais).
+5. A operadora do plano de saúde não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado para dar provimento ao recurso especial manejado pela beneficiária, reconhecendo o cabimento da indenização por dano moral.
+6. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no AgInt no REsp 1622150/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/06/2017, DJe 18/08/2017)
+CIVIL E CONSUMIDOR. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. RECUSA INJUSTIFICADA. DANO MORAL. INDENIZAÇÃO.
+MONTANTE ADEQUADO.
+1. Segundo a jurisprudência do STJ, é causa de dano moral indenizável a recusa injustificada da seguradora a cobrir o tratamento de saúde requerido pelo segurado.
+2. Tendo a recusa recaído sobre cirurgia bariátrica, mostra-se justa e razoável a indenização fixada em R$ 12.000,00 (doze mil reais), considerando a intensidade dos abalos psíquicos sofridos pela consumidora.
+3. Conforme o art. 20, § 3º, do CPC/1973, a fixação dos honorários de sucumbência deve levar em conta, entre outros parâmetros, a natureza da causa, observados o mínimo de 10% e o máximo de 20% sobre o valor da condenação.
+4. Na hipótese, os honorários foram estabelecidos em 15%, em consonância com a disposição legal.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1277418/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/06/2016, DJe 09/06/2016)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
