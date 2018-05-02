@@ -1,0 +1,37 @@
+DECISÃO
+ Cuida-se de agravo (art. 1.042 do NCPC) interposto por [NOME] contra decisão que negou seguimento ao recurso especial, manejado com fundamento na alínea "a" do permissivo constitucional.
+O apelo extremo desafiou acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 231, e-STJ):
+APELAÇÃO CÍVEL. ROUBO DE VEÍCULO EM ESTACIONAMENTO DE SUPERMERCADO . BOLETIM DE OCORRÊNCIA POR SI SÓ NÃO É DOCUMENTO HÁBIL A DEMONSTRAR A OCORRÊNCIA DO FATO, VEZ QUE SE TRATA DE PEÇA BASEADA APENAS E TÃO-SOMENTE NAS DECLARAÇÕES UNILATERAIS PRESTADAS PELA VÍTIMA INEXISTÊNCIA PRESUNÇÃO JURIS TANTUM. ESCASSEZ DE PROVA. INCUMBE A CADA PARTE PROVAR SUAS ALEGAÇÕES AGRAVO RETIDO. PROVA TESTEMUNHAL ARROLADA FORA DO PRAZO. APRECIAÇÃO NÃO REQUERIDA PELO AGRAVANTE EM SEDE DE APELAÇÃO . NÃO CONHECIMENTO DO AGRAVO REGRA DO ART. 523, § 1º DO CPC. RECURSO CONHECIDO E IMPROVIDO
+Opostos embargos de declaração, estes não foram acolhidos (fls. 258-268, e-STJ).
+Nas razões do especial (fls. 271-285, e-STJ), o recorrente alegou: violação dos arts. 535 do Código de Processo Civil/1973 e art. 6º, inciso VIII do Código de Defesa do Consumidor.
+Sustenta, em síntese, (i) nulidade do acórdão recorrido, tendo em vista omissão no julgado e (ii) "erro em inadmitir a possibilidade de aplicação da inversão do ônus da prova para a hipótese de roubo de veículo em estacionamento de supermercado" (fl. 275, e-STJ)
+Não foram apresentadas contrarrazões
+Em juízo de admissibilidade (fls. 299-301, e-STJ), negou-se seguimento ao reclamo. Daí o presente agravo, em que se busca destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. De início, destaca-se que o acórdão recorrido foi publicado antes da entrada em vigor da Lei n. 13.105/2015, pelo que o recurso em análise está sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme o Enunciado Administrativo n. 2/2016 desta Corte.
+2. Quanto à apontada violação do art. 535 do CPC, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia, revelando-se desnecessário ao magistrado rebater cada um dos argumentos declinados pela parte (Precedentes: AgRg no Ag 1.402.701/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 01/09/2011, DJe 06/09/2011; REsp 1.264.044/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 01/09/2011, DJe 08/09/2011; AgRg nos EDcl no Ag 1.304.733/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 23/08/2011, DJe 31/08/2011; AgRg no REsp 1.245.079/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/08/2011, DJe 19/08/2011 e AgRg no Ag 1.407.760/RJ, Rel. Ministro Sidnei Beneti, Terceira Turma, julgado em 09/08/2011, DJe 22/08/2011).
+3. Ao solucionar a questão posta nestes autos, a Corte estadual se pronunciou nos seguintes termos (fl. 230, e-STJ):
+As provas colacionadas não são suficiente a evidenciar que o apelante foi vítima de roubo no interior do estacionamento. Sobre este fato especifico, o ônus da prova é de responsabilidade do apelante e, não se desincumbindo de demonstrar os fatos constitutivos do seu direito, a improcedência do pedido é medida que se impõe (art. 333, I, do CPC).
+O Tribunal de origem, após a análise do conjunto probatório constante dos autos, entendeu que as provas colacionadas não foram suficientes para evidenciar que o Recorrente teria sido vítima de roubo no interior do estacionamento de supermercado, bem como não se desincumbiu do seu ônus da prova.
+O acolhimento do apelo extremo ensejaria o revolvimento das provas juntadas aos autos, o que esbarra no óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS E MATERIAIS. DIREITO DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. SÚMULA Nº 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A análise das razões recursais, quanto ao acerto ou desacerto no deferimento da inversão do ônus probatório, com base no art. 6º, VIII, do Código de Defesa do Consumidor, demandaria necessária incursão nos aspectos fáticos da lide, hipótese vedada, nesta via recursal, ante o teor da Súmula nº 7 desta Corte.
+3. Apesar de ter oposto embargos de declaração com a finalidade de sanar omissão, a parte recorrente não indicou a contrariedade ao art. 1.022 do Código de Processo Civil de 2015 nas razões do especial, incidindo o disposto na Súmula nº 211/STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.100.407/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018)  grifou-se .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. AGRAVO NÃO PROVIDO. INVERSÃO DO ÔNUS DA PROVA. MATÉRIA DE PROVA. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. VIOLAÇÃO AO ART. 398 DO CPC. JUNTADA DE DOCUMENTO APÓS A CONTESTAÇÃO. OBSERVADO O CONTRADITÓRIO. POSSIBILIDADE. JURISPRUDÊNCIA. JULGAMENTO ANTECIPADO. CERCEAMENTO DE DEFESA. INEXISTÊNCIA.
+1. Não se constata violação ao art. 535 do CPC/73 quando a col. Corte de origem dirime, fundamentadamente, todas as questões suscitadas. Havendo manifestação expressa acerca dos temas necessários à integral solução da lide, ainda que em sentido contrário à pretensão da parte, fica afastada qualquer omissão, contradição ou obscuridade no julgado.
+2. Nos termos da jurisprudência do col. STJ, a inversão do ônus da prova, prevista no art. 6º, VIII, do Código de Defesa do Consumidor, fica a critério do juiz, conforme apreciação dos aspectos de verossimilhança das alegações do consumidor ou de sua hipossuficiência.
+3. Na hipótese em exame, a eg. Corte de origem entendeu não ser o caso de inversão do ônus probatório, porquanto, após sopesar o acervo fático-probatório reunido nos autos, concluiu pela ausência de verossimilhança das alegações, consubstanciada no fato de que todos os elementos de prova adequados ao correto julgamento da lide já estariam presentes no processo. Desse modo, o reexame de tais elementos, formadores da convicção do d. Juízo da causa, não é possível na via estreita do recurso especial, por exigir a análise do conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ.
+4. A jurisprudência do STJ é no sentido de que a nulidade por inobservância do art. 398 do CPC/73 deve ser proclamada nos casos em que os documentos juntados pela parte adversa tenham sido relevantes e não submetidos ao contraditório, de modo a causar-lhe prejuízo, situação que não ocorreu na espécie. Precedentes.
+5. O Superior Tribunal de Justiça entende que não configura cerceamento de defesa o julgamento antecipado da lide quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção de prova pericial, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente, como na hipótese dos autos.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.096.542/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/09/2017, DJe 02/10/2017)  grifou-se .
+4. Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
