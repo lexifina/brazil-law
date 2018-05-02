@@ -1,0 +1,31 @@
+DECISÃO
+
+Trata-se de agravo interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 5ª Região, que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 169):
+Administrativo. Apelação e recurso ex officio interpostos contra sentença procedente proferida em ação ordinária a buscar determinação no sentido de permitir a inscrição do autor no Edital de Concurso de Admissão e Matrícula nos Cursos de Formação de Oficiais do Serviço de Saúde do Exército (CFO/S SAL), obstada em razão da sua idade.
+O Supremo Tribunal Federal decidiu que a expressão nos regulamentos não se coaduna com a Carta Magna, sendo necessária que a definição seja feita através de Lei. Com o intuito de preservar as situações já consolidadas e os processos de admissão em andamento, modulou os efeitos da decisão, definindo como válidas as regras de limitação etária definidas por regulamentos até 31 de dezembro de 2011, preservando, ainda, o direito daqueles que já haviam ajuizado ação com o mesmo objeto discutido no RE 600.885-RS.
+No julgamento dos embargos de declaração opostos contra a citada decisão, ficou decidido que a modulação da declaração de não recepção da expressão "nos regulamentos da Marinha, do Exército e da Aeronáutica" do art. 10 da Lei n. 6.880/1980 não alcança os candidatos com ações ajuizadas nas quais se discute o mesmo objeto deste recurso extraordinário (ED RE 600885, min. Carmen Lúcia, julgado em 29 de junho de 2012).
+O ora apelado está albergado pelo primeiro item da ementa, acima reproduzida.
+Apelação e remessa oficial improvidas.
+Embargos declaratórios rejeitados (e-STJ fl. 182)
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 10 e 11, ambos da Lei n. 6.880/1980, e 535, II, do CPC/1973, sustentando, além da negativa de prestação jurisdicional, a legalidade da limitação etária para concursos envolvendo carreiras militares.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o acórdão recorrido possuía índole, eminentemente, constitucional. (e-STJ fl. 239).
+No presente agravo, a parte recorrente alega, em resumo, a inadequação de aludidos fundamentos.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Em relação ao art. 535, II, do CPC/1973, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, julgado em 07/04/2016, Dje 15/04/2016). Logo, não há que se falar em nulidade do acórdão que decidiu os aclaratórios.
+Noutro giro, deve-se destacar que o acórdão recorrido foi pautado em fundamento constitucional, na medida em que examinou a questão a partir dos contornos traçados pelo Supremo Tribunal Federal ao julgar o tema da limitação etária para ingresso no serviço público com enfoque no art. 142, §3º, X, da CF/1988, o qual trata da carreira militar. Logo, mostra-se inviável a apreciação do pleito em sede de Recurso Especial, sob pena de usurpação da competência da Suprema Corte
+Nesse sentido:
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.
+ENSINO SUPERIOR. ENEM. MATRÍCULA EM UNIVERSIDADE. PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. TEMA APRECIADO SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. NORMAS INFRALEGAIS. IMPRESCINDIBILIDADE DE SUA INTERPRETAÇÃO. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. A controvérsia tratada nos autos foi dirimida pela Corte de origem com base em fundamentação eminentemente constitucional, sendo inviável sua apreciação em sede de Recurso Especial, sob pena de usurpação da competência da Suprema Corte.
+ ..
+(AgInt no REsp 1540529/RN, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. MÉDICO CONTRIBUINTE INDIVIDUAL. PRESTAÇÃO DE SERVIÇO PARA ENTIDADES IMUNES. DEDUÇÃO DA ALÍQUOTA. FUNDAMENTO DE CUNHO EMINENTEMENTE CONSTITUCIONAL. PRINCÍPIOS DA ISONOMIA, PROPORCIONALIDADE E RAZOABILIDADE. IMPOSSIBILIDADE DE APRECIAÇÃO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES.
+1. O Tribunal a quo, no julgamento da lide, baseou-se em fundamento eminentemente constitucional, pautando suas razões nos princípios constitucionais da isonomia, proporcionalidade e razoabilidade, pelo que a discussão acerca da matéria se encontra inserida na competência do Supremo Tribunal Federal. 2. Quando a controvérsia é solucionada com base em princípios ou dispositivos constitucionais, o recurso especial é inviável, sob pena de usurpação da competência reservada pela Constituição ao STF.
+Precedente: AgRg no REsp 788.758/RS, Rel. Ministro Francisco Falcão, Primeira Turma, DJ 10/4/2006.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1576358/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/08/2017, DJe 21/08/2017)
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
