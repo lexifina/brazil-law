@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], desafiando decisão denegatória de admissibilidade a recurso especial manejado com fundamento no art. 105, III, a, da CF, em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fls.91/92):
+ADMINISTRATIVO. AÇÃO ORDINÁRIA. CONSELHO REGIONAL DE PROFISSIONAIS DE RELAÇÕES PÚBLICAS. ANUIDADE. EXIGIBILIDADE. FATO GERADOR. INSCRIÇÃO. LEGITIMIDADE DA COBRANÇA. INDENIZAÇÃO POR DANOS MORAIS. INEXISTÊNCIA. IMPROVIMENTO.
+1. A hipótese de incidência da anuidade devida a Conselho Regional de Profissão perfaz-se com a inscrição do respectivo profissional, sendo irrelevante a efetiva prática da profissão. Precedentes do STJ e desta Corte Regional.
+2. Na espécie, afigura-se legítima a cobrança das anuidades referentes ao período de 2005 a 2013, já que a autora, inscrita no Conselho Regional de Profissionais de Relações Públicas desde 2005, somente requereu administrativamente o seu cancelamento em 2014.
+3. Não há que se falar em indenização por danos morais, porquanto foi justamente a inércia da demandante que deu causa a cobrança das anuidades ora impugnadas.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos arts. 113, §1º, 114 e 116 do CTN. Sustenta, em resumo, que é inexigível a cobrança das anuidades pelo conselho profissional na hipótese dos autos, tendo em vista que: (I) "como não se deu o exercício da atividade de Relações Públicas pela recorrente, não poderá existir crédito tributário referente às anuidades dos anos em que nunca houve o efetivo exercício da profissão, pois não há fato gerador do tributo." (fl. 101); e (II) "o STJ e a jurisprudência dos tribunais regionais entendem que embora se presuma a liquidez e certeza da CDA, tal presunção não é absoluta, permitindo seu afastamento mediante prova inequívoca de que o filiado que não estava exercendo a profissão no período cobrado" (fl.102).
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O recurso especial não comporta trânsito.
+Com efeito, a matéria pertinente aos arts. 113, §1º, 114 e 116 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
