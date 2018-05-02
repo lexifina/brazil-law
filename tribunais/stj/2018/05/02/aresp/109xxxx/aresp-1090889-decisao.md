@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão do Tribunal Regional Federal da 2ª Região, a qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional e desafia acórdão assim ementado (e-STJ fl. 180):
+APELAÇÃO. PREVIDENCIÁRIO. READEQUAÇÃO DO VALOR DOS BENEFÍCIOS LIMITADOS AO TETO PREVIDENCIÁRIO. EMENDAS CONSTITUCIONAIS 20/1998 E 41/2003. APLICABILIDADE. PRESCRIÇÃO QUINQUENAL A CONTAR DO AJUIZAMENTO DA AÇÃO CIVIL PÚBLICA 0004911-28.2011.4.03.6183. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. INADEQUADOS.
+1. O Supremo Tribunal Federal, no julgamento do Recurso Extraordinário com Repercussão Geral nº 564.354/SE, Relatora Ministra Cármen Lúcia, publicado em 15/02/2011, assentou entendimento no sentido da possibilidade de aplicação dos tetos previstos nas Emendas Constitucionais nos 20/1998 e 41/2003 mesmo em relação aos benefícios previdenciários concedidos antes da vigência dessas normas.
+2. Faz jus o autor ao reajuste pleiteado, eis que os documentos trazidos aos autos comprovam que o benefício foi concedido em 05/06/1990, com salário de benefício limitado ao teto.
+3. Descabida a contagem de prazo prescricional a partir do ajuizamento da Ação Civil Pública 0004911-28.2011.4.03.6183, por não conter amparo legal.
+4. Justifica-se a majoração dos honorários sucumbenciais, tendo em vista as peculiaridades da causa.
+5. Apelação do INSS e remessa necessária desprovidas. Apelação do autor parcialmente provida para elevar a verba de sucumbência, fixando-a em 10% (dez por cento) do valor da condenação, excluídas as parcelas vincendas, nos termos da Súmula 111 do STJ.
+Os primeiros embargos de declaração do autor não foram conhecidos e os segundos, rejeitados (e-STJ fls. 210/214).
+No especial obstaculizado, o recorrente apontou violação dos arts. 219, § 1º, do Código de Processo Civil de 1973 (240, § 1º, do CPC de 2015) e 203 do Código Civil, postulando o reconhecimento da prescrição a partir da Ação Civil Pública n. 0004911-28.2011.4.03.6183.
+Após apresentação de contrarrazões às fls. 234/236, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, ao entendimento de que o julgado foi baseado em matéria fática, cuja alteração esbarra na Súmula 7 do STJ.
+Na presente irresignação, o agravante sustenta que não requer o reexame de provas, mas apenas a aplicação da norma de regência.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feito tal esclarecimento, verifico que o acórdão recorrido considerou a interrupção do curso prescricional a contar da data do ajuizamento da ação em curso (e-STJ fl. 180).
+Ao assim decidir, o julgado aquiesceu com a orientação desta Corte, segundo a qual "em relação ao pagamento de parcelas vencidas, a prescrição quinquenal tem como marco inicial o ajuizamento da ação individual" (AgInt no REsp 1.642.625/ES, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 12/06/2017).
+Com efeito, "a propositura de ação coletiva com o mesmo objeto de ação individual tem o condão de interromper a prescrição. Ocorre que a prescrição é interrompida apenas para os fins de ajuizamento de ação individual e não para pagamento de parcelas vencidas  ..  a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da presente Ação Individual, nos termos da Súmula 85/STJ" (AgRg no REsp 1.559.883/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 23/05/2016).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, II, "b", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se e intimem-se.
