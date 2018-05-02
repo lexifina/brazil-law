@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo espólio de [NOME] (representado pelo inventariante [NOME]) E OUTRA contra a decisão que conheceu de seu agravo e deu parcial provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem a fim de que seja apreciada matéria suscitada nos embargos de declaração opostos na origem.
+Os agravantes requerem o conhecimento e o provimento de seu agravo ao argumento de que o acórdão combatido incorreu em negativa de prestação jurisdicional, já reconhecida por esta Corte, e deixou de apreciar a suscitada violação do art. 22, § 2º, da Lei nº 8.906/1994, na parte que se refere à dimensão do arbitramento, que não pode ser inferior ao estabelecido na Tabela da OAB adotada na Seccional correspondente ao território onde foram prestados os serviços que, na hipótese, correspondem a 20% (vinte por cento) sobre o proveito econômico.
+Requerem a reforma da decisão atacada.
+Devidamente intimada, a parte agravada não apresentou impugnação.
+É o relatório.
+DECIDO.
+Com razão os agravantes.
+Assim, reconsidera-se a decisão proferida e passa-se ao exame do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS. 1) Trata-se de recursos de apelação interpostos contra a sentença de parcial procedência que condenou a requerida ao pagamento em favor dos autores, em honorários advocatícios. 2) De acordo com o princípio da congruência, inspirador dos artigos 128, 459 e 460 do CPC, o juiz deve decidir a lide dentro dos limites em que proposta, sendo-lhe defeso proferir sentença de natureza diversa da pedida ou condenar o réu em quantidade superior ou objeto diverso do que lhe foi demandado, evitando-se, assim, decisão fora, além ou aquém do postulado. Na hipótese, tratava-se de arbitramento de honorários e não pedido condenatório. Sentença ultra petita. Excesso extirpado de ofício. 3) As demais violações enumeradas no apelo foram minuciosamente analisadas e não merecem provimento. O juiz é o destinatário da prova, incumbindo a ele decidir acerca da necessidade e utilidade da prova para a formação do seu livre convencimento motivado, a teor do disposto no artigo 130 do CPC. No presente caso, o magistrado muito bem indicou as razões que formaram seu convencimento (art. 131 do CPC), enfrentando as questões quanto aos processos onde atuaram os advogados, adotando a manifestação contábil e arbitrando os percentuais que entendeu devidos. Sentença mantida. APELOS DESPROVIDOS" (e-STJ fl. 1.589).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, os recorrentes alegam violação dos seguintes dispositivos legais com as respectivas teses:
+(i) arts. 11, 489, § 1º, IV, 1.022, II, e 1.024 e do Código de Processo Civil de 2015 - o acórdão combatido teria incorrido em negativa de prestação jurisdicional ao não apreciar as questões postas nos declaratórios,
+(ii) art. 22, § 2º, da Lei nº 8.906/1994 - os honorários advocatícios arbitrados pelas instâncias de origem devem ser majorados para 20% (vinte por cento) do proveito econômico da ré, ou seja, R$ 609.710,76 (seiscentos e nove mil setecentos e dez reais e setenta e seis centavos) e R$ 1.775.000,00 (um milhão setecentos e setenta e cinco mil reais), e
+(iii) art. 389 do Código Civil - sobre a verba honorária devem incidir atualização monetária pelo IGP-M e juros moratórios a partir de 27 de agosto de 2002.
+Sem as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A alegação de negativa de prestação jurisdicional merece prosperar.
+Observa-se da leitura do acórdão recorrido que o colegiado estadual, ao decidir a apelação, consignou que o arbitramento dos honorários advocatícios foi realizado de forma correta e detalhada pelo magistrado singular, devendo apenas ser extirpada a expressão "condenação" e utilizada a palavra "arbitramento" no dispositivo da sentença.
+Na petição dos aclaratórios opostos ao acórdão impugnado, a parte embargante, ora recorrente, indicou que o julgado deixou de se pronunciar a respeito dos seguintes temas: (i) art. 22, § 2º, da Lei nº 8.906/1994 (o valor arbitrado não pode ser inferior ao estabelecido na Tabela da OAB adotada na seccional correspondente ao território onde foram prestados os serviços que, na hipótese, correspondem a 20% - vinte por cento - sobre o proveito econômico) e (ii) art. 389 do Código Civil (incidência de atualização monetária pelo IGP-M e juros moratórios a partir de 27 de agosto de 2002).
+No entanto, os declaratórios foram rejeitados sem a análise dessas questões.
+Assim sendo, está caracterizada a negativa de prestação jurisdicional, porquanto se buscou o pronunciamento acerca de pontos relevantes para a solução da controvérsia que não foram suficientemente esclarecidos.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para que sejam apreciadas as matérias suscitadas nos declaratórios acima especificadas, como entender de direito.
+Publique-se.
+Intimem-se.
