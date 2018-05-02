@@ -1,0 +1,18 @@
+EMENTA
+PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO QUE DETERMINOU O RETORNO DOS AUTOS PARA NOVO JULGAMENTO. INOVAÇÃO PROCESSUAL. OCORRÊNCIA. AGRAVO INTERNO PROVIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DO INSS.
+DECISÃO
+Trata-se de agravo interno interposto por [NOME] contra a decisão de fls. 162-163, que deu provimento ao recurso especial do INSS, por violação ao art. 535 do CPC/73, determinando o retorno dos autos para novo julgamento dos embargos de declaração por ele oposto.
+Argumenta o agravante:
+"Pela leitura dos Embargos de Declaração e Recurso Especial autárquicos, repetindo a tese defendida no Agravo Legal, verifica-se que o mesmo, além de se opor à forma da apuração da RMI determinada pelo E. TRF da 3ª Região, sustenta que, ainda que o autor tenha direito de optar pelo benefício mais vantajoso, tal opção deveria ser feita de modo integral, lhe sendo vedado o recebimento de parcelas do benefício rejeitado.
+Ocorre que não merece prosperar tal argumento, pois o próprio título exequendo, que está acobertado pelo manto da coisa julgada, conferiu ao exequente, ora Agravante, a possibilidade de execução das parcelas do benefício concedido judicialmente, tendo delimitado que o cálculo alcançasse "..as prestações vencidas do requerimento administrativo até sua implantação definitiva (14/10/2003).." (vide e-STJ fl. 42 - 1§º).
+ ..
+Insta acrescentar que, além de não haver qualquer omissão do julgado guerreado no recurso extremo quanto a esta questão, o E. TRF da 3ª Região apreciou a lide tratada nos autos dos Embargos à Execução nos limites em que ela foi proposta, vez que, como apontando assim, após a apresentação da conta de liquidação pelo exequente, ora Agravante, que apurou as diferenças devidas no período de 02/01/1998 a 13/10/2003, citado, o INSS, ora Agravado, apenas opôs-se à forma de apuração da RMI do benefício concedido judicialmente, nada questionando sobre a suposta impossibilidade de execução das parcelas em atraso de referido beneficio, mesmo tendo sido mantida a concessão da aposentadoria administrativa.
+Assim, contata-se que a "questão" que levou esta E. Superior Corte a dar provimento ao Recurso Especial interposto pelo INSS não é relevante e, portanto, não se mostra pertinente à necessária resolução da demanda, pois, além de contrária ao que expressamente determinou o título judicial, estar preclusa diante de ausência de qualquer questionamento autárquico na fase cognitiva e também quando iniciada a fase executória, principalmente quando opostos os embargos à execução, somente começou a ser aventada no Agravo Legal interposto pelo INSS, em verdadeira inovação da tese de defesa do ente autárquico, o que é vedado em nosso ordenamento jurídico, vez que fere o princípio do duplo grau de jurisdição e a ampla defesa, bem como ao disposto nos artigos 515, §1º e 517, ambos do CPC (hoje artigos 1.013, §1º e 1.014 do Novo CPC).
+Pugna pela reforma da decisão, com o desprovimento do recurso especial.
+É o relatório. Decido.
+Acolho os argumentos do agravante.
+Compulsando os autos, realmente constata-se que a tese jurídica não apreciada pela Corte de origem foi suscitada somente em agravo regimental interposto após o julgamento do recurso da apelação do segurado, ora agravante. Essa circunstância configura indevida inovação recursal que deve ser superada pela preclusão consumativa.
+Ausente, portanto, omissão a ensejar o retorno dos autos à Corte de origem.
+Ante a inovação recursal, deve ser negado provimento ao recurso especial interposto pelo INSS.
+Ante o exposto, reconsidero a decisão de fls. 162-163, para negar provimento ao recurso especial do INSS.
+Publique-se. Intimem-se.
