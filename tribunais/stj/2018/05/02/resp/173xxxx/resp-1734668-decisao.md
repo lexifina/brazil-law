@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO DISTRITO FEDERAL E TERRITÓRIOS com base na alínea "a" do permissivo constitucional, contra acórdão proferido pelo respectivo Tribunal de Justiça, assim ementado:
+"RECURSO DE AGRAVO. LIVRAMENTO CONDICIONAL COMETIMENTO DE FALTA GRAVE, AVALIAÇÃO DOS ÚLTIMOS SEIS MESES. REQUISITOS PREENCHIDOS. DEFERIMENTO.
+1. Falta grave cometida pelo condenado há mais de 6 meses antes da decisão que analisou seu pedido de concessão do benefício do livramento condicional não pode ser considerada para determinar seu comportamento insatisfatório e fundamentar seu indeferimento, a teor do disposto do art. 42 do Regimento Interno dos Estabelecimentos Penais do Distrito Federal - RIEP/DF e Súmula 441 do STJ.
+2. Preenchidos os requisitos objetivos e subjetivos, defere-se a concessão do livramento condicional ao agravante.
+3. Recurso conhecido e provido" (e-STJ, fl. 67).
+O recorrente alega contrariedade ao art. 83, III, do Código Penal, sustentando, em síntese, que não deve prevalecer o entendimento de "que apenas infrações recentes, que foram cometidas nos seis meses anteriores ao pedido de livramento, obstam a concessão do livramento condicional" (e-STJ, fl. 92).
+Requer, assim, que o recurso seja provido, para se reformar a decisão concessiva do livramento condicional ao apenado.
+Contrarrazões às fls. 97-114 (e-STJ).
+Decisão de admissão às fls. 117-118 (e-STJ).
+O Ministério Público opina pelo conhecimento e provimento do recurso especial (e-STJ, fls. 130-132).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+No acórdão recorrido, o Tribunal a quo concedeu o mencionado benefício ao agravado sob a seguinte motivação:
+" ..  O livramento condicional será concedido ao sentenciado que preencher, cumulativamente, os pressupostos objetivos e subjetivos previstos no art. 131 da Lei nº 7.210/1984 e no art. 83 do Código Penal. Preceituam os citados dispositivos legais que:
+ Art. 131. O livramento condicional poderá ser concedido pelo Juiz da execução, presentes os requisitos do artigo 83, incisos e parágrafo único, do Código Penal, ouvidos o Ministério Público e Conselho Penitenciário.
+ Art. 83. O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a dois anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes; II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+- comprovado comportamento satisfatório durante aexecução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover a própria subsistência mediante trabalho honesto;
+- tenha reparado, salvo efetiva impossibilidade de fazê-lo, odano causado pela infração;
+- cumprido mais de dois terços da pena, nos casos decondenação por crime hediondo, prática da tortura, tráfico ilícito de entorpecentes e drogas afins, e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza. Parágrafo único. Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir.
+ O art. 112, § 2º, da Lei de Execução Penal, por sua vez, dispõe que para a concessão do livramento condicional deverá ser observado o mesmo procedimento adotado por esta lei para a progressão de regime, ou seja, terá direito ao livramento condicional o sentenciado que atender o requisito objetivo, previsto no art. 83 do Código Penal, e o requisito subjetivo, consubstanciado no bom comportamento carcerário, comprovado pelo diretor do estabelecimento.
+ Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos um sexto da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+(..)
+§ 2º Idêntico procedimento será adotado na concessão de livramento condicional, indulto e comutação de penas, respeitados os prazos previstos nas normas vigentes.
+ Por outro lado, quanto ao período para verificação da conduta carcerária do sentenciado, firmou-se o entendimento neste Tribunal de que deve ser adotado o prazo previsto no artigo 42 do Regimento Interno dos Estabelecimentos Penais do Distrito Federal - RIEP/DF, o qual estabelece que "as alterações de classificação não podem ocorrer em período inferior a seis meses". Ademais, consoante o Enunciado nº 441 da Súmula do Superior Tribunal de Justiça, a falta grave cometida durante a execução da pena não interrompe o prazo para obtenção do livramento condicional.
+Portanto, para a caracterização do bom comportamento carcerário exigido para a concessão de livramento condicional, basta a análise da conduta do sentenciado nos últimos seis meses, aliada aos requisitos objetivos exigidos pelo art. 83 do Código Penal.
+Com efeito, o cometimento de falta, ainda que de natureza grave, em período anterior aos últimos seis meses, não tem o condão de obstar, por si só, a concessão do benefício, sob pena de inviabilizá-lo sempre, o que representaria afronta aos princípios da individualização da pena e da razoabilidade.
+Na espécie, observa-se que está presente o requisito objetivo, pois o agravante já cumpriu mais da metade da pena total de 10 anos, 8 meses e 28 dias (inciso II do art. 83 do Código Penal), consoante se verifica às fls. 6-8.
+No tocante ao requisito subjetivo, ressalte-se que este se encontra preenchido, conforme se passa a demonstrar.
+A decisão que indeferiu o benefício do livramento condicional (fls. 20-20v) foi proferida em 28.07.2017 e a falta grave praticada em 19.07.2016 (fl. 11 e fl. 18v), tendo o agravante sido apenado com a regressão do regime semiaberto para o fechado, a revogação dos benefícios externos concedidos e a perda de 1/6 de toda a remição anterior à data do cometimento da falta (fls. 9v), depreendendo-se que a citada falta foi praticada há mais de 1 ano antes da referida decisão.
+A respeito do tema, a jurisprudência desta Corte de Justiça é pacífica no sentido de que, para a classificação do comportamento, deve ser considerada a conduta do apenado nos últimos seis meses:
+RECURSO DE AGRAVO. IRRESIGNAÇÃO MINISTERIAL. REVOGAÇÃO DO LIVRAMENTO CONDICIONAL IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS OBJETIVOS E SUBJETIVOS EXIGIDOS PELA LEI. RECURSO NÃO PROVIDO.
+Para a caracterização do bom comportamento carcerário exigido para a concessão de livramento condicional basta a análise da conduta do encarcerado nos últimos seis meses, aliada aos requisitos objetivos exigidos pelo art. 83 do Código Penal.
+(Acórdão n.590782, 20120020098562RAG, Relator: ROMÃO C. OLIVEIRA 1ª Turma Criminal, Data de Julgamento: 24/05/2012, Publicado no DJE: 13/06/2012. Pág.: 171) (grifou-se).
+AGRAVO EM EXECUÇÃO. INDEFERIMENTO DE LIVRAMENTO CONDICIONAL. COMETIMENTO DE FALTA GRAVE NO CURSO DA EXECUÇÃO DA PENA. COMPORTAMENTO CARCERÁRIO SATISFATÓRIO NOS ÚLTIMOS SEIS MESES. REQUISITO OBJETIVO PREENCHIDO. DECISÃO CASSADA.
+A Defensoria Pública agrava em execução da decisão que indeferiu o pedido de livramento condicional sob o fundamento de que o reeducando não atendeu aos requisitos subjetivos para a concessão do benefício ante o cometimento de falta grave durante a execução, relativa a fuga.
+Afalta grave prejudica o conceito de comportamento satisfatório, mas o artigo 42 do Regimento Interno dos Estabelecimentos Penais do Distrito Federal - RIEPE afirma que assim será considerado quando não cometer falta nos últimos seis meses. Logo, faltas disciplinares praticadas anteriormente não obstam a concessão do livramento condicional.
+Agravo provido (Acórdão n.801032, 20140020090537RAG, Relator: GEORGE LOPES LEITE, Relator Designado:SANDRA DE SANTIS, 1ª Turma Criminal, Data de Julgamento: 25/06/2014, Publicado no DJE: 09/07/2014. Pág.: 118) (grifou-se).
+ Dessa forma, a falta grave cometida pelo sentenciado em período anterior a seis meses do pedido de livramento condicional não pode ser considerada como impeditiva do benefício. Posto isso, voto no sentido de CONHECER e DAR PROVIMENTO ao recurso, a fim de conceder ao apenado BRUNO SANTANA ATAIZE DE LIMA o benefício do livramento condicional" (e-STJ, fls. 70-73, grifou-se).
+Segundo reiterada jurisprudência desta Corte, a conduta do sentenciado, no curso do cumprimento da pena, deve ser avaliada de forma global e contínua, sendo inadmissível qualquer limitação temporal para a consideração das faltas por ele cometidas na análise do preenchimento do requisito subjetivo.
+Desse modo, a falta grave cometida em período anterior aos últimos seis meses de seu recolhimento, é causa suficiente para o indeferimento do benefício legal, consoante exposto no art. 83, III, do Código Penal.
+Nesse sentido, confira-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO SUBJETIVO. FALTA GRAVE PRATICADA NO DECORRER DO CUMPRIMENTO DA REPRIMENDA. FUNDAMENTO IDÔNEO. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. INCIDÊNCIA DO ENUNCIADO N.º 83 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. O aresto objurgado alinha-se a entendimento pacificado neste Sodalício no sentido de que não é vedado ao magistrado o indeferimento de livramento condicional quando, a despeito do reeducando apresentar atestado de bom comportamento carcerário, entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado, como ocorreu in casu.
+2. Incidência do óbice do Enunciado n.º 83 da Súmula do STJ, também aplicável ao recurso especial interposto com fundamento na alínea a do permissivo constitucional.
+3. Agravo regimental a que se nega provimento".
+(AgRg no AREsp 1016992/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/04/2017, DJe 05/05/2017, grifou-se).
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL E PROGRESSÃO AO REGIME ABERTO INDEFERIDOS EM 1º GRAU. MANUTENÇÃO DO DECISUM PELO TRIBUNAL DE ORIGEM. REQUISITO SUBJETIVO NÃO PREENCHIDO. PRÁTICA DE DUAS FALTAS DISCIPLINARES GRAVES, DENTRE ELAS O NÃO RETORNO DE UMA SAÍDA TEMPORÁRIA. ILEGALIDADE FLAGRANTE. INEXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Legítimo é o indeferimento dos pedidos de livramento condicional e progressão ao regime aberto, com base em fundamentos concretos, ante o não preenchimento do requisito subjetivo em virtude, essencialmente, do histórico carcerário conturbado do paciente, que ostenta a prática de duas faltas disciplinares graves, dentre elas o não retorno de uma saída temporária. Precedentes.
+3. Habeas corpus não conhecido.
+(HC 337.301/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/02/2016, DJe 29/02/2016, grifou-se).
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do STJ, dou provimento ao recurso especial, para revogar o livramento condicional concedido em favor do ora recorrido.
+Publique-se. Intimem-se.
