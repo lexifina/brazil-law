@@ -1,0 +1,20 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto pelo Município de Cambé/PR contra acórdão que, complementado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Paraná, está, no ponto objeto de impugnação, assim ementado:
+    “MÉRITO. DIREITO A INCORPORAÇÃO AOS VENCIMENTOS DE VALORES PERCEBIDOS A TÍTULO DE FUNÇÃO COMISSIONADA. ESTATUTO DOS SERVIDORES PÚBLICOS MUNICIPAIS (LEI Nº 1.718/2003). SERVIDOR PERTENCENTE AO QUADRO DO PODER EXECUTIVO MUNICIPAL, CEDIDO PARA O PODER LEGISLATIVO (CÂMARA MUNICIPAL DE CAMBÉ). DESIGNAÇÃO PARA O EXERCÍCIO DE CARGO EM COMISSÃO DE DIRETOR DE SECRETARIA DA CÂMARA MUNICIPAL, CHEFE DO SERVIÇO DE ADMINISTRAÇÃO E ASSESSOR TÉCNICO LEGISLATIVO. REQUISITOS OBJETIVOS DISPOSTOS NO ART. 15 DA LEI MUNICIPAL Nº 1.718/2003. PREENCHIMENTO. INCORPORAÇÃO DEVIDA. PRINCÍPIO DA LEGALIDADE. ESTATUTO DO SERVIDOR PÚBLICO MUNICIPAL, O QUAL PREVIU A POSSIBILIDADE DE INCORPORAÇÃO PARA OS CASOS DE NOMEAÇÃO DE FUNÇÃO GRATIFICADA NO ÂMBITO DO EXECUTIVO OU LEGISLATIVO MUNICIPAL. SENTENÇA ESCORREITA NESSA PARTE. APELAÇÃO CÍVEL (2) PARCIALMENTE CONHECIDA E, NESSA PARTE, NÃO PROVIDA.”
+    A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Sendo esse o contexto, passo a examinar a postulação recursal em causa. E, ao fazê-lo, observo que o recurso extraordinário revela-se insuscetível de conhecimento, eis que incidem, na espécie, os enunciados constantes das Súmulas 279/STF e 280/STF, que assim dispõem:
+    “Para simples reexame de prova, não cabe recurso extraordinário.” (grifei)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (grifei)
+    É que, para se acolher o pleito deduzido em sede recursal extraordinária, tornar-se-ia necessário o reexame dos fatos e das provas constantes dos autos, circunstância essa que obsta, como acima observado, o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Observo, ainda, que a questão ora em exame foi decidida com base no direito local (Lei municipal nº 1.718/2003), sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    A mera análise do acórdão recorrido torna evidente que o Tribunal “a quo”, ao proferir a decisão questionada, fundamentou as suas conclusões em aspectos fático-probatórios e em interpretação de direito local:
+    “(...) para que o servidor público adquira o direito à incorporação aos vencimentos mensais da gratificação de comissão faz-se necessário o preenchimento do requisito temporal de 10 (dez) anos, previsto no art. 15, § 4º, da Lei Municipal nº 1.718/2003, com que tem o seguinte teor:
+    …...................................................................................................
+    Assim, para que haja o direito à incorporação da função gratificada e cargo comissionado, o servidor público municipal precisa, necessariamente preencher os seguintes requisitos: (I) ser efetivo; (II) ter sido nomeado para função comissionada gratificada; e (III) permanecer na referida função por pelo menos 10 (dez) anos.
+    Em interpretação ao texto legal, infere-se que à época da edição do Estatuto dos Servidores Públicos Municipais, o autor já havia preenchido o lapso temporal decenal, não condicionado a legislação em comento a qualquer outro requisito objetivo.”
+    Vê-se, portanto, que a pretensão deduzida no apelo extremo pela parte recorrente revela-se processualmente inviável.
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Não incide, no caso em exame, o que prescreve o art. 85, § 11, do CPC/15, por tratar-se de recurso deduzido contra decisão publicada sob a égide do CPC/73.
+    Publique-se.
+    Brasília, 02 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
