@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão do Vice-Presidente do Tribunal Regional Federal da 2ª Região, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional, e que desafia acórdão assim ementado (e-STJ fl. 121):
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. JULGAMENTO DO PROCESSO PRINCIPAL. AUSÊNCIA DE INTERESSE RECURSAL.
+1. Agravo interno interposto contra decisão monocrática que julgou prejudicado o agravo de instrumento, em razão da perda de objeto, haja vista a notícia de prolação da sentença nos autos da ação ordinária. Agravo de instrumento interposto contra a decisão que indeferiu a produção de prova pericial.
+2. A prolação de sentença no processo originário faz desaparecer o interesse recursal, posto que tal decisão se sobrepõe e substitui a decisão interlocutória, uma vez que emana de uma cognição exauriente. Eventual irresignação deve ser suscitada por meio de recurso de apelação. (TRF2, 5ª Turma Especializada, AG 0009794-28.2015.4.02.0000, Rel. Juíza Fed. Conv. [NOME], E-DJF2R 14.12.2015; TRF2, 8ª Turma Especializada, AG 201202010178660, Rel. Juiz Fed. Conv. ALEXANDRE LIBONATI DE ABREU, E-DJF2R 2.7.2013 e TRF2, 4ª Turma Especializada, AG 201102010172469, Rel. Juiz Fed. Conv. THEOPHILO MIGUEL, E-DJF2R 29.4.2013).
+3. Ressalte-se que se verificada, em sede de apelação, que a produção das provas requeridas é indispensável à solução do litígio, é possível a anulação da sentença para que os autos retomem ao juízo de origem. Desse modo, o não conhecimento do recurso de agravo de instrumento não acarreta prejuízo à recorrente.
+4. Agravo Interno não provido.
+Aclaratórios rejeitados (e-STJ fls. 135/141).
+No especial obstaculizado, o ora agravante apontou violação do art. 1.022 do Código de Processo Civil de 2015, sustentando que, apesar de opostos embargos de declaração, o Tribunal de origem não se manifestou sobre questão relevante ao deslinde da controvérsia.
+Aduziu, ainda, que o entendimento do aresto combatido contraria a jurisprudência desta Casa de Justiça de que não fica prejudicado, pela superveniência de sentença de mérito, o agravo de instrumento que combate decisão interlocutória referente à produção de prova.
+Depois de contra-arrazoado, o apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fl. 187/188).
+Na presente irresignação, o agravante alega que o recurso obstado atende aos pressupostos para a sua admissão (e-STJ fls. 193/207).
+Contraminuta às e-STJ fls. 211/223
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Relativamente à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, visto que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1671609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017)
+Quanto à tese de que a superveniência de sentença de mérito não acarreta a perda do objeto do agravo de instrumento interposto contra decisão indeferitória de produção de prova, verifica-se que o recorrente não apontou nenhum dispositivo de lei federal supostamente contrariado pelo acórdão objurgado, procedimento indispensável, também, ao conhecimento do recurso interposto com fulcro na alínea "c" do permissivo constitucional. Incide, dessa forma, o óbice da Súmula 284 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. INCIDÊNCIA DA SÚMULA 284 DO STF. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial, pela alínea c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Precedentes do STJ.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 1119408/SP, Relator Ministro LÁZARO GUIMARÃES, Desembargador Convocado do TRF 5ª Região, QUARTA TURMA, DJe 14/02/2018). (Grifos acrescidos).
+ADMINISTRATIVO. DESAPROPRIAÇÃO. REFORMA AGRÁRIA. INDENIZAÇÃO. RESERVA LEGAL. ÁREA DE PRESERVAÇÃO PERMANENTE. VALOR. CRITÉRIOS. SÚMULA 7/STJ. APLICAÇÃO. JUROS COMPENSATÓRIOS E MORATÓRIOS. DISSÍDIO. NÃO DEMONSTRAÇÃO. NORMA FEDERAL VIOLADA. NÃO INDICAÇÃO. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. INCIDÊNCIA.
+1. Os valores encontrados pelas instâncias ordinárias para as diferentes áreas do imóvel foram embasados em aspectos fáticos e provas produzidas nos autos. Revisar o entendimento incorre na vedação da Súmula 7/STJ.
+2. A ausência de indicação do dispositivo federal violado impede o conhecimento do recurso pela divergência. Incidência da Súmula 284/STF.
+3. A demonstração do dissídio demanda o efetivo cotejo analítico dos acórdãos, não suprindo essa deficiência a mera colação das decisões.
+4. Agravo conhecido para não se conhecer do recurso especial (Ag no REsp 1583705/SP, Relator Ministro OG FERNANDES, SEGUNDA TURMA, DJe 04/04/2018). (Grifos acrescidos).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
