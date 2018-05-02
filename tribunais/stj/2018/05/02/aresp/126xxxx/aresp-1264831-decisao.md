@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base na aplicação das Súmulas de nº 7/STJ e 284//STF, nos seguintes termos (fl. 455/460):
+em relação à alegação de não incidência da renda do irmão menor cálculo da renda familiar, o recurso especial, como é sabido, tem fundamentação vinculada, de modo que não basta que a parte indique o seu direito sem veicular ofensa a algum dispositivo específico de lei infraconstitucional. No caso, a recorrente limitou-se a defender sua tese como se fosse mero recurso ordinário.
+Não apontou, de forma precisa, quais os dispositivos de lei federal que teriam sido violados e, consequentemente, não atendeu aos requisitos de admissibilidade do recurso extremo. Em casos como este o colendo Superior Tribunal de Justiça não tem admitido o especial, ao argumento de que "(..)".
+Por fim, imperioso anotar que na via estreita do recurso especial, para que haja interesse em recorrer não basta a mera sucumbência como ocorre nos demais recursos ordinários. É necessário que haja efetivamente uma questão de direito federal, pois o especial não se presta a examinar a justiça da decisão, mas a solucionar controvérsia acerca da interpretação das normas federais.
+(..).
+Daí que a pretensão do recorrente de reexame do arcabouço fático-probatório relativo à infirmada condição de miserabilidade social esbarra no entendimento consolidado na Súmula nº 7 do C. STJ, de seguinte teor, verbis:
+É o relatório.
+Inicialmente, sem razão a parte recorrente ao alegar que a instância de origem, ao realizar o juízo de admissibilidade do recurso especial, usurpou a competência do Superior Tribunal de Justiça. Isso porque, nos termos da Súmula 123/STJ ("A decisão que admite, ou não, o recurso especial deve ser fundamentada, com o exame dos seus pressupostos gerais e constitucionais."), é atribuição do Tribunal a quo, naquele momento processual, analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia. Confiram-se, nesse mesmo sentido, os seguintes precedentes: RCDESP no AREsp 211.716/SP, Rel. Ministro Raul Araújo, Quarta Turma DJe 25/9/2012; AgRg no Ag 1.424.298/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 27/10/2011; AgRg no Ag 1.147.395/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 12/11/2010; e AgRg no Ag 1.134.224/SP, Rel. Ministro Castro Meira, Segunda Turma, DJe 2/2/2010.
+Ademais, o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a aplicação do óbice previsto na Súmula 284/STF, fundamento autônomo e suficiente para a manutenção da decisão ora agravada.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Em reforço:
+AGRAVO REGIMENTAL. AGRAVO CONTRA DECISÃO QUE, NA ORIGEM, NÃO ADMITIU RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182 DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.
+1 - Cumpre à parte, nas razões do Agravo, impugnar todos os fundamentos suficiente da decisão que, na origem, não admite o recurso especial. Além disso, é preciso que tal impugnação seja efetiva, exigindo-se da parte que demonstre a impertinência dos motivos nos quais fundada a decisão agravada.
+2 - Os agravantes, quando da interposição do Agravo, não cuidaram de impugnar a decisão agravada em toda a sua extensão, mormente de Justiça e da Súmula 284 do Supremo Tribunal Federal, limitando-se a renegar o juízo de admissibilidade realizado, bem como a infirmar, tão-somente, o cabimento do recurso pelas razões expostas no recurso especial.
+3 - Agravo Regimental improvido.
+(AgRg no AREsp 98.330/BA, Rel. Min. SIDNEI BENETTI, Terceira Turma, DJe 4/5/12)
+Diante do exposto, não conheço do agravo.
+Publique-se.
