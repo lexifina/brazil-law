@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. contra decisão que inadmitiu o recurso especial. O apelo extremo, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"SEGURO SAÚDE - Pedido de reembolso integral de honorários médicos Improcedência Inconformismo da autora Alegação de que a quantia reembolsa é ínfima e que a requerida desobedeceu ao dever de informação, não observando o princípio da boa-fé contratual Acolhimento - Cláusula contratual que estabelece critérios de cálculo e limita os valores dos reembolsos - Abusividade e ausência de clareza e de informação acerca dos coeficientes para cálculo do reembolso - Desequilíbrio contratual Reembolso integral devido Sentença reformada, para julgar procedente a demanda RECURSO PROVIDO" (fl.293 e-STJ).
+A denegação se deu em virtude do óbice da Súmula nº 5/STJ.
+Sustenta a parte agravante, em síntese, violação dos arts. 373, II, e 1.022, II, do Código de Processo Civil de 2015, 6º, III, do Código de Defesa do Consumidor, 422 478 e 884 do Código Civil. Alega:
+negativa de prestação jurisdicional, e
+que "juntou a Tabela AMB/90, que equivale à Tabela Amil de Reembolso, contendo todas as informações necessárias para o cálculo dos valores de reembolso especificados no contrato da Amil", e "independentemente da redação das cláusulas contratuais, a autora tinha absoluto conhecimento acerca das formas de reembolso, desde o momento da contratação, não podendo, pois, ser beneficiada com o reembolso integral" (e-STJ fls. 319/320).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Assim, impende asseverar que cabe ao julgador apreciar os fatos e as provas da demanda segundo seu livre convencimento, declarando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, o não acolhimento das teses ventiladas pelo recorrente não significa omissão ou deficiência de fundamentação da decisão, ainda mais quando o aresto aborda todos os pontos relevantes da controvérsia, como na espécie.
+Quanto à cláusula contratual que prevê o reembolso de despesas médicas, a Corte estadual, ao concluir ser esta abusiva, além de analisar as cláusulas contratuais, incursionou detalhadamente na apreciação do conjunto fático-probatório, conforme se extrai da leitura do voto condutor, merecendo destaque os seguintes trechos:
+"(..)
+Analisando o contrato, observo que tem razão a autora quando diz que a cláusula em estudo (fl. 43) não é clara acerca do valor a ser efetivamente reembolsado. A disposição sequer estabelece um critério objetivo, prevendo reembolsos com base em uma tabela obscura e desprovida de clareza, o que dificulta a sua compreensão, afrontando o dever de informação previsto no artigo 6º, inciso III, do Código de Defesa do Consumidor.
+Vejamos a redação da tal cláusula:
+No Plano AMIL opções Plus, além do referido acima, haverá o reembolso para o atendimento de consultas e honorários médicos de internação, de acordo com o plano escolhido entre os Grupos de Multiplicadores R212 e R213, que asseguram os seguintes valores de reembolso, com base na Tabela AMIL:
+(..)
+Com efeito, a referência feita aos múltiplos da tabela de reembolso (2 vezes), bem como a fórmula de cálculo contida na discriminação de reembolso (R212 e R213), contém redação pouco clara ao entendimento do consumidor em geral e possibilita toda sorte de abusos, porque não informa com a objetividade necessária o caminho que leva ao resultado final do reembolso, deixando a critério exclusivo da seguradora a fixação do valor.
+Assim, a dúvida se resolve a favor do consumidor, sendo impossível, no caso, a limitação do valor a ser desembolsado, ante a abusividade da cláusula restritiva" (e-STJ fls. 294/295).
+Desse modo, assim como posta a matéria, a verificação da procedência dos argumentos expendidos no recurso obstado exigiria por parte desta Corte o reexame de matéria fática, bem como a reanálise de cláusulas contratuais, procedimentos vedados na estreita via do recurso especial, consoante entendimento sumulado nos enunciados nºs 5 e 7 deste Tribunal.
+Ademais, não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. INTERNAÇÃO EMERGENCIAL. PARADA CARDIORRESPIRATÓRIA. CLÁUSULA CONTRATUAL QUE LIMITA O REEMBOLSO DAS DESPESAS MÉDICO-HOSPITALARES. ADOÇÃO DE CRITÉRIOS DESPROVIDOS DE CLAREZA. ABUSIVIDADE. REVISÃO. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. CDC. INCIDÊNCIA. ENTENDIMENTO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Especial é firme no sentido de que "o contrato de seguro de saúde é obrigação de trato sucessivo, que se renova ao longo do tempo e, portanto, se submete às normas supervenientes, especialmente às de ordem pública, a exemplo do CDC, o que não significa ofensa ao ato jurídico perfeito" (AgRg no Ag n. 1.341.183/PB, Relator o Ministro Massami Uyeda, Terceira Turma, julgado em 10/4/2012, DJe 20/4/2012).
+2. Tendo o Tribunal estadual - soberano na apreciação de fatos e provas - concluído ser abusiva a cláusula contratual que limita o reembolso das despesas médico-hospitalares, considerando, sobretudo, a adoção de critérios desprovidos de clareza, não se mostra possível modificar tal conclusão ante os óbices das Súmulas 5 e 7 desta Corte.
+3. Agravo interno desprovido" (AgInt no AREsp 1.027.818/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/11/2017, DJe 4/12/2017).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. PLANO DE SAÚDE. CLÁUSULA DE LIMITAÇÃO DE REEMBOLSO. ABUSIVIDADE. RECONHECIMENTO NA ORIGEM. CONSUMIDOR. REDAÇÃO DE DIFÍCIL COMPREENSÃO. INVERSÃO DO JULGADO. INVIABILIDADE. CLÁUSULAS CONTRATUAIS E ACERVO PROBATÓRIO. INTERPRETAÇÃO. REEXAME. VEDAÇÃO.
+1. É inviável o provimento do recurso especial, para afastar a abusividade da cláusula de limitação de reembolso lançada em contrato de plano de saúde, haja vista os óbices descritos nas Súmulas nºs 5 e 7 do Superior Tribunal de Justiça.
+2. Agravo interno não provido" (AgInt no AREsp 982.527/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/12/2016, DJe 2/2/2017).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
