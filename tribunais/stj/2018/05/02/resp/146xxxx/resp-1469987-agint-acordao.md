@@ -1,0 +1,24 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 621):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ARTS. 144 E 170 DO CTN, 74 DA LEI 9430/1996 E 16, §2º, DA LEF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. ARTS. 144 E 170 DO CTN E 74 DA LEI 9430/1996. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante sustenta que prequestionou os arts. 144 e 170 do CTN, 74 da Lei 9430/1996 e 16, §2º, da LEF, visto que "(..) a tese sustentada pela agravante em recurso especial é idêntica àquela que consta em seus embargos e, posteriormente, em seu recurso de apelação. (..) Ou seja, não houve qualquer espécie de inovação no caso dos autos e a tese de defesa foi alvo de sucessivas medidas judiciais, as quais não encontraram amparo perante as instâncias inferiores." (fls. 628-629), sendo que ainda opôs embargos de declaração na origem, não obtendo êxito, de modo que "(..) se não houve menção expressa aos dispositivos legais invocados em recurso especial, o fato é que todos foram devidamente abordados pela agravante, tornando inviável ser-lhe imputado o ônus de rejeição de recurso, fundado na Súmula 211 desta e. Corte." (fl. 630). Quanto à Súmula 283/STF, sustenta que ao longo de todo o feito suscitou exatamente a impossibilidade de se aplicar o art. 16, §3º, da LEF ao caso concreto. Quanto à Súmula 284/STF, sustenta que esta "(..) prevê que é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Entretanto, verifica-se que tal disposição não se aplica ao caso dos autos, uma vez que restou profundamente fundamentada a aplicação dos artigos 144 e 170 do CTN e 74 da Lei 9430/1996, no Recurso Especial em comento." (fl. 632). Por fim, acrescenta que demonstrada a impossibilidade de aplicação das súmulas anteriormente referidas ao caso, mostra-se pedagógico prosseguir com o julgamento do recurso especial, como medida de uniformização jurisprudencial, vez que invocou paradigma do STJ que indica caminho diametralmente oposto àquele trilhado pela Corte de origem.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): A decisão agravada não conheceu do recurso especial aos seguintes fundamentos: a) incidência das Súmulas 211/STJ, 283/STF e 284/STF (esta última, por ausência de comando normativo nos dispositivos indicados); b) dissenso jurisprudencial prejudicado, diante da aplicação ao caso dos óbices sumulares.
+Ocorre que o agravante não impugnou, especificamente, a incidência das Súmulas 211/STJ, 283/STF e 284/STF, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
