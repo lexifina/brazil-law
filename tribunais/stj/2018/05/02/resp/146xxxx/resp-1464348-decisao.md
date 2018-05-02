@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. COMPENSAÇÃO DE OFÍCIO. CRÉDITOS DO SUJEITO PASSIVO COM DÉBITOS TRIBUTÁRIOS COM EXIGIBILIDADE SUSPENSA. ART. 151, DO CTN. IMPOSSIBILIDADE. RETENÇÃO. AFRONTA AOS PRINCÍPIOS DA LEGALIDADE E DA ISONOMIA. RESP 1213082/PR.
+Opostos embargos de declaração, foram rejeitados.
+A recorrente alega violação do art. 535 do CPC/1973, do art. 7º do Decreto n. 2.287/1986, do art. 73 da Lei n. 9.430/1996 e do art. 170 do CTN e defende a possibilidade de a Fazenda compensar créditos existentes em favor do contribuinte com débitos tributários parcelados.
+Contrarrazões apresentadas por A. RIZZON E CIA. LTDA., nas quais pede o desprovimento do recurso (e-STJ fls. 175 e seguintes).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso.
+Passo a decidir.
+"Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do Plenário do STJ).
+Não há violação do art. 535 do CPC/1973, quando o acórdão se apóia em conclusão coerente, adequada e suficiente ao embasamento de sua conclusão, mormente no caso dos autos, em que houve expressa manifestação do órgão judicial sobre os dispositivos legais pertinentes.
+Aliás, importa mencionar que a Primeira Seção deste Tribunal Superior, na sistemática dos recursos repetitivos, no julgamento do REsp 1.213.082/PR, firmou o entendimento de que não é legal o art. 6º do Decreto n. 2.138/1997, pois a compensação de créditos devidos ao contribuinte com débitos tributários com a exigibilidade suspensa não está prevista no art. 7º do DL n. 2.287/1986, ainda que na redação dada pela Lei n. 11.196/2005 (v.g.: REsp 1.213.082/PR, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 18/08/2011).
+Deve-se registrar que a hipótese dos autos refere-se à situação anterior à alteração do art. 73 da Lei n. 9.430/1996 pela Lei n. 12.844/2013, de tal sorte que plenamente aplicável ao caso o entendimento firmado no repetitivo, tendo em vista que sua redação original não abona a pretensão recursal.
+A respeito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. IMPOSSIBILIDADE DE COMPENSAÇÃO COM CRÉDITO TRIBUTÁRIO SUSPENSO EM DECORRÊNCIA DE PARCELAMENTO. FALTA DE PREVISÃO LEGAL. AUSÊNCIA DE OMISSÃO. ART. 535, II, DO CPC. DECLARAÇÃO DE INCONSTITUCIONALIDADE. COMPETÊNCIA DO STF.
+1. A recorrente sustenta que o art. 535, II, do CPC foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+2. Cuida a demanda de Mandado de Segurança impetrado pela empresa com escopo de anular as decisões administrativas que determinaram a compensação de ofício dos créditos reconhecidos pelo impetrante com débitos cuja exigibilidade se encontra suspensa em virtude de adesão ao programa de parcelamento.
+3. O Tribunal de origem registrou que a Corte Especial reconheceu a inconstitucionalidade do art. 73, parágrafo único, da Lei 9.430/1996, incluída pela Lei 12.844/2013. Assim sendo, o TRF analisou exclusivamente a norma contida no revogado art. 73, caput, do referido texto legal. Dessa maneira, o STJ possui permissão legal de apreciar apenas a violação ao dispositivo originário da lei, pois o debate travado na Corte a quo restringiu-se à sua interpretação.
+4. Por outro lado, qualquer debate, no julgamento deste Recurso Especial, sobre o art. 73, parágrafo único, da Lei 9.430/1996, teria como objeto a declaração de sua inconstitucionalidade pelo Tribunal regional. Entretanto, a competência para a apreciação de questão constitucional está reservada ao STF.
+5. No julgamento do Recurso Especial 1.213.082/PR, sob o rito dos Recursos Repetitivos, a Primeira Seção, Relatoria do eminente Ministro Mauro Campbell Marques, entendeu que a imposição da compensação de ofício aos débitos do sujeito passivo, que se encontram com exigibilidade suspensa, na forma do art. 151 do CTN, extrapola os ditames legais.
+6. O STJ, seguindo o entendimento do REsp 1.213.082/PR, não autoriza o procedimento compensatório de ofício, visto que imprescindível, para tanto, a exigibilidade dos créditos tributários a serem compensados, o que não se observa quando os débitos pretensamente compensáveis encontram-se suspensos, por adesão em programa de parcelamento. Portanto, inexiste previsão para a compensação defendida pela autoridade coatora.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1586947/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/09/2016, DJe 07/10/2016)
+Ante o exposto, com base no art. 255, § 4º, I, do RI-STJ, NÃO CONHEÇO do recurso especial.
+Publique-se.
+Intimem-se.
