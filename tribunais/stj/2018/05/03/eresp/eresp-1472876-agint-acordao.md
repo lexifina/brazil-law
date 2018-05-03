@@ -1,0 +1,33 @@
+EMENTA
+CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. COTA-PARTE DE ICMS. RETENÇÃO. JUROS DE MORA E CORREÇÃO MONETÁRIA. INCIDÊNCIA DA LC N. 63/1990 AOS ENTES ESTADUAIS. JURISPRUDÊNCIA DO STJ.
+1. Consoante a jurisprudência consolidada nesta Corte Superior de Justiça, a incidência da Lei Complementar n. 63/1990, para fins de aplicação de correção monetária e juros de mora, deve ocorrer na hipótese de retenção de verbas devidas pelos entes públicos estaduais aos municipais, o que não se configura nos autos, pois houve mero atraso por ato de terceiro (Instituição Financeira). Precedentes: AgRg no AREsp 743.167/SP, Segunda Turma, Rel. Ministro Herman Benjamin, Dje 2/2/2016; REsp 799.975/SP, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJe 22/9/2008.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno do Município de Cristianópolis, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Município de Cristianópolis contra decisão assim ementada (fl. 1112):
+DIREITO ADMINISTRATIVO E CIVIL. RECURSO ESPECIAL. FALTA DE ENTREGA DE QUOTA PARTE DE ICMS. NÃO OCORRÊNCIA. RETENÇÃO INDEVIDA POR PARTE ESTRANHA AO ENTE PÚBLICO ESTADUAL. LEGISLAÇÃO DE REGÊNCIA QUANTO AOS JUROS. CÓDIGO CIVIL. INAPLICABILIDADE DA LEI COMPLEMENTAR N. 63/1990. RECURSO ESPECIAL NÃO PROVIDO.
+O agravante alega que: i) o repasse não chegou a ser feito, tratando-se de mero lançamento contábil;
+ii) ao confirmar o entendimento desenvolvido pelo acórdão recorrido, estar-se-ia premiando o autor de um ato ilícito;
+iii) a jurisprudência do STJ é firme no sentido de que deve incidir a LC n. 63/1990 para o atraso de repasses de verbas pelo Estado ao ente Municipal (cota parte de ICMS).
+Sem impugnação.
+É o relatório.
+EMENTA
+CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. COTA-PARTE DE ICMS. RETENÇÃO. JUROS DE MORA E CORREÇÃO MONETÁRIA. INCIDÊNCIA DA LC N. 63/1990 AOS ENTES ESTADUAIS. JURISPRUDÊNCIA DO STJ.
+1. Consoante a jurisprudência consolidada nesta Corte Superior de Justiça, a incidência da Lei Complementar n. 63/1990, para fins de aplicação de correção monetária e juros de mora, deve ocorrer na hipótese de retenção de verbas devidas pelos entes públicos estaduais aos municipais, o que não se configura nos autos, pois houve mero atraso por ato de terceiro (Instituição Financeira). Precedentes: AgRg no AREsp 743.167/SP, Segunda Turma, Rel. Ministro Herman Benjamin, Dje 2/2/2016; REsp 799.975/SP, Primeira Turma, Rel. Ministro Teori Albino Zavascki, DJe 22/9/2008.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Compulsando-se os autos, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, ao contrário do que pretende fazer crer o ora agravante, a hipótese dos autos não trata de apuração de eventual cometimento de ato ilícito e, consequentemente, dos responsáveis pelo atraso no repasse da cota parte do ICMS ao ente Municipal. Não. O debate proposto cinge-se a qual legislação deve incidir para fins de aplicação de juros e correção monetária, dadas as peculiaridades do caso concreto, sobre o montante já reconhecido como devido.
+Consoante amplamente descrito na decisão agravada por intermédio de fatos constantes no acórdão proferido na origem, a retenção de valores não se deu por qualquer ente público, mas sim por terceiro, instituição financeira  repita-se, não importando o motivo  , a qual as disposições contidas na Lei Complementar n. 63/1990 não se aplicam, razão pela qual atrai-se a incidência do art. 405 do CC/2002. Para melhor elucidação da questão, destaquem-se os seguintes trechos da decisão agravada (fl. 1113):
+Como bem ressaltado pelo acórdão recorrido, a hipótese dos autos não trata de falta de entrega propriamente dita e abarcada pela Lei Complementar n. 63/1990, haja vista, principalmente, que a parte envolvida no fato não é o ente público estadual, mas sim terceiro que adentrou casuísticamente, por convênio, na relação, o qual não possui tal incumbência legal, não se submetendo às disposições do referido diploma.
+Na presente situação, apenas para reforçar, o repasse foi concretizado, e o que se verifica é uma retenção indevida por parte estranha à relação entre os poderes públicos municipal e estadual, que deve ser regida pelo diploma legal comum (Código Civil).
+O terceiro envolvido poderia ser até mesmo uma Instituição Financeira que se recusasse, por qualquer motivo, a repassar os valores, hipótese em que submeteria à mesma disciplina, sendo irrelevante a existência ou não de eventuais pactos.
+Nesse passo, consoante a jurisprudência consolidada nesta Corte Superior de Justiça, a incidência da Lei Complementar n. 63/1990, para fins de aplicação de correção monetária e juros de mora, deve ocorrer na hipótese de retenção de verbas devidas pelos entes públicos estaduais aos municipais, o que, conforme exposto acima, não é o caso dos autos, pois houve mero atraso por ato de terceiro (Instituição Financeira), e não retenção pelo Poder Público estadual. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. IPVA. ATRASO NO REPASSE DA ARRECADAÇÃO. ATUALIZAÇÃO MONETÁRIA. JUROS DE MORA DE 1% AO MÊS. ART. 10, PARÁGRAFO ÚNICO, DA LC 63/90. SÚMULA 83/STJ.
+ ..
+2. A jurisprudência desta Corte Superior é no sentido de que devem ser aplicados juros no percentual de 1% ao mês ao valor de IPVA tardiamente repassado pelo Estado ao Município, tal como estabelecido, expressamente, na LC 63/90. Aplicação da Súmula 83/STJ.
+3. Agravo Regimental não provido. (AgRg no AREsp 743167/SP, Segunda Turma, Rel. Ministro HERMAN BENJAMIN, DJe 02/02/2016)
+TRIBUTÁRIO. IPVA. ATRASO NO REPASSE PELO ESTADO AO MUNICÍPIO. ART 10, PARÁGRAFO ÚNICO, DA LC 63/90. JUROS DE MORA DEVIDOS NO VALOR DE 1% POR MÊS. SENTENÇA TRANSITADA EM JULGADO. IMPOSSIBILIDADE DE ALTERAÇÃO EM SEDE DE LIQÜIDAÇÃO DE JULGADO. PRECEDENTE: RESP 845.885/SP, 1ª TURMA, MIN. [NOME], DJ de 05.10.2006. RECURSO A QUE SE NEGA PROVIMENTO. (REsp 799975/SP, Primeira Turma, Rel. Ministro TEORI ALBINO ZAVASCKI, DJe 22/09/2008)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
