@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por [NOME], com fundamento no art. 105, III, a e c, da CF/88, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. REQUISITOS. AUSÊNCIA.
+AVERBAÇÃO. ATIVIDADE ESPECIAL. AGENTES NOCIVOS: UMIDADE E CIMENTO. CONVERSÃO DE TEMPO COMUM EM ESPECIAL. IMPOSSIBILIDADE. RESP N. 1.310.034.
+1. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições nocivas são disciplinados pela lei em vigor à época em que efetivamente exercidos, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador.
+2. Até 28-04-1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, aceitando-se qualquer meio de prova (exceto para ruído e calor); a partir de 29-04-1995 não mais é possível o enquadramento por categoria profissional, devendo existir comprovação da sujeição a agentes nocivos por qualquer meio de prova até 05-03-1997 e, a partir de então, por meio de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+3. A exposição à umidade e ao cimento enseja o reconhecimento do tempo de serviço como especial.
+4. Em face do decidido pelo STJ nos Embargos de Declaração no Recurso Especial Repetitivo n. 1.310.034, no sentido de que a lei vigente por ocasião da aposentadoria é a aplicável ao direito à conversão entre tempos de serviço especial e comum, independentemente do regime jurídico à época da prestação do serviço, inviável a conversão, para especial, do tempo de serviço comum pretendido, haja vista que, no caso concreto, os requisitos foram implementados quando não mais estava vigendo a norma que admitia a referida conversão.
+5. A aposentadoria especial, prevista no art. 57 da Lei n. 8.213/91, é devida ao segurado que, além da carência, tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física durante 15, 20 ou 25 anos.
+6. Não comprovado tempo de serviço especial suficiente para o deferimento da aposentadoria especial, esta não é devida.
+7. Considerando que o § 5.º do art. 57 da Lei n. 8.213/91 não foi revogado pela Lei n. 9.711/98, e que, por disposição constitucional (art. 15 da Emenda Constitucional n. 20, de 15- 12-1998), permanecem em vigor os arts. 57 e 58 da Lei de Benefícios até que a lei complementar a que se refere o art. 201, § 1.º, da Constituição Federal, seja publicada, é possível a conversão de tempo de serviço especial em comum inclusive após 28-05-1998. Precedentes do STJ.
+8. Ausente o tempo de serviço/contribuição, é indevida a concessão do benefício previdenciário de aposentadoria por tempo de serviço na data da Emenda Constitucional nº 20, de 1998 e a aposentadoria por tempo de contribuição em 1999, bem assim, ausente o requisito etário, é indevida a concessão de aposentadoria por tempo de contribuição proporcional na data da DER.
+9. Reconhecida a especialidade das atividades prestadas de 01-06-1996 a 22-04- 1999, 01-02-2000 a 20-03-2000 e de 01-09-2000 a 31-05-2001, é devida a sua averbação para fins de futura concessão de benefício previdenciário.
+10. Para o segurado empregado, o ônus do recolhimento das contribuições previdenciárias é do empregador, não podendo, o segurado, ser prejudicado por eventual falta cometida por quem tinha o dever legal de recolher (art. 30, I, a e b, da Lei 8.212/91).
+11. O segurado poderá, a qualquer momento, solicitar a retificação das informações constantes no CNIS, com a apresentação de documentos comprobatórios sobre o período divergente (art. 29-A, § 2º, da Lei nº 8.213/91)" (fl. 733/734e)
+O acórdão em questão foi objeto de Embargos de Declaração de ambas as partes, rejeitados nos seguintes termos:
+"PREVIDENCIÁRIO. PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. OMISSÃO OU CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EFEITOS INFRINGENTES. PREQUESTIONAMENTO.
+1. A acolhida dos embargos declaratórios só tem cabimento nas hipóteses de omissão, contradição ou obscuridade, sendo cabível a atribuição de efeitos infringentes somente em casos excepcionais.
+2. A circunstância de o acórdão decidir contrariamente às pretensões do recorrente não possibilita o uso da via dos embargos declaratórios.
+3. Estando bem evidenciada a tese jurídica em que se sustenta a decisão proferida nesta Instância, não é necessário declarar todos os dispositivos legais em que se fundamenta.
+4. Desnecessária a menção a todas as teses invocadas pelas partes e que não foram consideradas significativas para o desate da lide.
+5. Para fins de recurso extraordinário, resta perfectibilizado o acesso à via excepcional por meio da oposição de embargos de declaração pleiteando o prequestionamento dos dispositivos constitucionais, ainda que os aclaratórios sejam desacolhidos" (fl. 816e).
+Alega a parte recorrente, em síntese, divergência jurisprudencial e violação ao art. 57, caput e § 3º, da Lei 8.213/91, ao argumento de que o acórdão recorrido deixou de reconhecer, indevidamente, tempo de serviço especial em que esteve exposto a condições de trabalho penosas.
+Não foram apresentadas contrarrazões.
+O Recurso Especial não merece prosperar.
+Por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal de que a parte recorrente estaria exposta a condições penosas e que tal situação seria suficiente para caracterizar o direito a contagem de tempo de serviço especial sequer implicitamente foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração para tal fim.
+ Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 535 do CPC/73, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
