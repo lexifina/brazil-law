@@ -1,0 +1,26 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. BENEFÍCIO DE PENSÃO POR MORTE. ANÁLISE DE DIREITO LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial manejado por [NOME] em face de decisão do Tribunal de Justiça do Estado do Paraná, que negou admissibilidade a recurso contra acórdão assim ementado:
+DIREITO PREVIDENCIÁRIO. APELAÇÃO CÍVEL EM NOMINADA "AÇÃO DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO PENSÃO POR MORTE C/C COBRANÇA". SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA AUTORA. (1) ALEGAÇÃO DE SENTENÇA CITRA PETITA - INOCORRÊNCIA - AUSÊNCIA DE PEDIDO SUCESSIVO - JUÍZO A QUO QUE NÃO ESTAVA OBRIGADO A APRECIAR EXPRESSAMENTE TODAS AS TESES SUCESSIVAS LEVANTADAS PELAS PARTES. (2) AUTORA, NA CONDIÇÃO DE VIÚVA DE SERVIDOR ESTADUAL DEMITIDO DO QUADRO DE FUNCIONÁRIOS DO PODER EXECUTIVO, NAO TEM DIREITO A PERCEPÇÃO DE PENSÃO POR MORTE, MESMO SE PREENCHE OS REQUISITOS EXIGIDOS PELA LEI. (2.1) NO REGIME PRÓPRIO DE PREVIDÊNCIA FUNCIONAL INEXISTE PREVISÃO DE "PERÍODO DE GRAÇA". IMPOSSIBILIDADE DE APLICAÇÃO SUBSIDIÁRIA DA LEI 8.213/91, SOB PENA DE CONFIGURAR SISTEMA HÍBRIDO DE NORMAS PREVIDENCIÁRIAS. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões de recurso especial, sustenta a parte recorrente violação do art. 15, II, da Lei nº 8.213/1991, porquanto, sendo a legislação estadual omissa quanto ao período de graça, revela-se aplicável o referido dispositivo "que confere o prazo de carência de 12 meses contados da perda da condição de segurado, ou seja, quando cessa a filiação do ex-segurado ao regime previdenciário".
+Apresentadas contrarrazões.
+A decisão agravada negou seguimento ao especial sob a compreensão de que a revisão do acórdão demandaria interpretação de direito local, a atrair a Súmula 280/STF.
+Sustenta a parte agravante que deve ser conhecido o recurso especial, porque indicou os dispositivos de lei federal violados.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo a agravante impugnado o fundamento da decisão de inadmissibilidade, passo a análise do recurso especial.
+O Tribunal de origem ao analisar o presente caso, assentou os seguintes fundamentos, verbis:
+É que, havendo legislação específica regulamentando o regime previdenciário da autora - a lei 12.398/98, impossível se falar em lacuna legislativa apta a permitir a aplicação supletiva do Regime Geral da Previdência Social.
+Impossível se falar em lacuna legislativa, como faz a apelante, diante da existência de lei estadual estabelecendo expressamente critérios para inscrição dos segurados e manutenção da qualidade de segurado  dependentes dos servidores estadual.
+E não há, na lei específica que regulamenta o Sistema de Seguridade Funcional do Estado do Paraná, previsão de que a autora teria direito à manutenção da qualidade de segurado por 12 meses após a demissão do servidor.
+Como ninguém pode ser obrigado a fazer ou deixar de fazer, senão em virtude de lei, não se pode imputar ao Estado do Paraná e à Paranaprevidência a responsabilidade pelo cumprimento de obrigação legal taxativamente inexistente - qual seja, a manutenção da qualidade de segurado após a demissão do servidor.
+Não é só.
+A se albergar a pretensão da apelante, estar-se-ia autorizando a mistura de dispositivos favoráveis de leis de regência diversas, quais sejam, o regime geral de previdência e o regime próprio dos servidores estadual.
+ ..
+A conjugação desses elementos - existência de lei específica regulamentando o regime de previdência dos servidores do Estado do Paraná, e impossibilidade de conjunção de regras oriundas de regime jurídicos distintos indica o acerto da sentença.
+Com efeito, conforme se observa do acórdão recorrido, a presente demanda foi apreciada com base em interpretação de direito local (Lei Complementar Estadual nº 12.398/1998), sendo vedado a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "por ofensa a direito local não cabe recurso extraordinário".
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS. REAJUSTE VENCIMENTAL. CONVERSÃO DA MOEDA. UNIDADE REAL DE VALOR - URV. LEI 8.880/94.  .. . LIMITAÇÃO TEMPORAL. REESTRUTURAÇÃO DE CARREIRA. POSSIBILIDADE. LEI ESTADUAL. SÚMULA 280/STF. NÃO CONHECIMENTO DO RECURSO PELA ALÍNEA "A". DISSÍDIO PRETORIANO PREJUDICADO. RECURSO ESPECIAL NÃO PROVIDO.  ..  3. A controvérsia em exame remete à análise de Direito local (Leis Complementares Estaduais 836/1997 e 888/2000), revelando-se incabível a via recursal especial para rediscussão da matéria, ante a incidência da Súmula 280 do STF.  ..  5. Recurso Especial não conhecido. (REsp 1703978/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/12/2017, DJe 19/12/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
