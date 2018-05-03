@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015), interposto contra decisão que negou seguimento ao recurso especial, sob fundamento de incidência das Súmulas n. 5 e 7/STJ (e-STJ fls. 446/447).
+O acórdão do TJSP está assim ementado (e-STJ fl. 411):
+SEGURO DE VIDA E ACIDENTES PESSOAIS - AÇÃO DE COBRANÇA - TRAUMA NA COLUNA E SEQUELA PSICOLÓGICA - VÍTIMA DE ESPANCAMENTO EM REBELIÃO NA FEBEM - ACIDENTE - INVALIDEZ TOTAL E PERMANENTE CONFIGURADA - INDENIZAÇÃO DEVIDA - AÇÃO PROCEDENTE APELAÇÃO PROVIDA.
+No recurso especial (e-STJ fls. 421/430), fundamentado no art. 105, III, "a", da CF, a recorrente apontou ofensa aos arts. 757 e 760 do CC/2002, alegando que, na espécie, seria indevida a indenização securitária, pois a apólice contém cobertura apenas para invalidez por doença e o recorrido não está inválido de forma total e permanente.
+No agravo (e-STJ fls. 450/455), afirma a presença dos requisitos de admissibilidade do recurso especial.
+Contraminuta apresentada às fls. 458/461 (e-STJ).
+É o relatório.
+Decido.
+Ao entender ser devida a indenização securitária, assim decidiu o Tribunal de origem (e-STJ fls. 414/415):
+Ora, não se há olvidar que o conceito de incapacidade deve ser analisado em conjunto com as condições gerais do segurado. O autor era agente de segurança lotado na FEBEM, atividade que, como cediço, não demanda habilidades ou capacitação especiais que pudessem distingui-lo e possibilitar-lhe nova inserção no mercado de trabalho. Considerando, outrossim, contar com quase 60 anos de idade, e histórico de afastado pelo INSS recebendo auxílio acidente, ostenta perfil que a exclui da disputa exitosa por posto de trabalho no mercado atual, inviabilizando-lhe qualquer possibilidade concreta de prover, de forma digna, sua subsistência mediante trabalho remunerado.
+Nessa perspectiva, há que se reputar total a incapacidade laboral do segurado, o que faz devida a indenização securitária no valor fixado na apólice copiada às fls. 12, no valor de R$ 100.000,00.
+A decisão colegiada admitiu que o segurado apresentou incapacidade laboral total, nos termos cobertos pela apólice, sendo, nesses termos, devida a cobertura securitária. Assim, para modificar a conclusão do Tribunal de origem nesse ponto, a fim de reconhecer que a invalidez do segurado não se enquadra na cobertura do seguro, como pretende a recorrente, seria necessário o reexame do conjunto fático-probatório, bem como a análise de cláusulas contidas nas condições gerais do ajuste e na apólice, providência incabível a esta Corte, de acordo com as Súmulas n. 5 e 7/STJ.
+A propósito, guardadas as devidas circunstâncias fáticas próprias de cada caso, vejam-se os seguintes julgados que aplicaram os mesmos enunciados sumulares acima mencionados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO DE VIDA. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC/73. INVALIDEZ PERMANENTE. GRADUAÇÃO. REEXAME DE PROVA E DO CONTRATO DE SEGURO. IMPOSSIBILIDADE. APLICAÇÃO DAS SÚMULAS Nº 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA. SÚMULAS Nº 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexiste ofensa ao art. 535 do CPC/73 se a matéria necessária ao deslinde da lide foi devidamente enfrentada pelo Tribunal de origem ainda que em sentido contrário à pretensão do recorrente.
+3. Para adotar conclusão diversa da que chegou o Tribunal a quo, acerca da implementação pelo segurado recorrido das condições necessárias ao recebimento da indenização securitária integral, seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, bem como a análise de cláusulas contidas nas condições gerais do ajuste e na apólice, procedimento sabidamente inviável na instância especial, a teor do que dispõem as Súmulas nºs 5 e 7 desta Corte.
+4. A recorrente não infirmou de forma específica, todos os fundamentos do acórdão recorrido, o que atrai a aplicação das Súmulas nºs 283 e 284 do STF.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 898.182/RS. Relator Ministro Moura Ribeiro, Terceira Turma, DJe 20/2/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO DE VIDA. 1. INVALIDEZ TOTAL PERMANENTE POR DOENÇA. PERÍCIA TÉCNICA E CONCESSÃO DO BENEFÍCIO DE APOSENTADORIA POR INVALIDEZ PELO INSS. INDENIZAÇÃO DEVIDA. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 2. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 3. AGRAVO IMPROVIDO.
+1. Para prevalecer a conclusão em sentido contrário ao decidido pelo Tribunal estadual, necessária se faz a revisão do contrato e do acervo fático dos autos, o que se encontra inviabilizado, nesta instância superior, pelas Súmulas n. 5 e 7/STJ.
+2. A necessidade do reexame da matéria fática impede o recurso especial também pela alínea c do permissivo constitucional, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Agravo interno improvido.
+(AgInt no AREsp 1163309/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem, observados os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
