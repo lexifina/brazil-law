@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), contra decisão que negou seguimento ao recurso especial por incidência da Súmula n. 7 do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 61/62).
+O acórdão recorrido está assim ementado (e-STJ fl. 20):
+AGRAVO DE INSTRUMENTO ASSISTÊNCIA JUDICIÁRIA GRATUITA Presume-se verdadeira a alegação de insuficiência deduzida por pessoa natural, podendo, todavia, ser indeferida a gratuidade se houver nos autos elementos que evidenciem a falta dos pressupostos legais Inteligência do art. 99, §§2º e 3º, do CPC/2015 Elementos carreados aos autos que contrariam a alegação de miserabilidade Gratuidade negada, com oportunidade de recolhimento do preparo do agravo de instrumento, sob pena de inscrição na dívida ativa Recurso não provido, com observação.
+No especial (e-STJ fls. 22/44), fundamentado no art. 105, III, "c", da CF, os recorrentes suscitaram divergência jurisprudencial por ofensa ao art. 4º da Lei n. 1.060/1950, sustentando que teriam sido preenchidos os requisitos para a concessão do benefício da justiça gratuita e que não seria necessária a comprovação de hipossuficiência, bastando a simples declaração de pobreza para o deferimento do pedido.
+No agravo (e-STJ fls. 65/89), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pelas recorridas (e-STJ fls. 91/107).
+É o relatório.
+Decido.
+Para a comprovação do dissídio jurisprudencial, é indispensável que haja a indicação do dispositivo legal ao qual foi atribuída interpretação divergente e a demonstração da divergência mediante o cotejo analítico dos acórdãos recorrido e paradigmas, de modo a se verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados.
+No caso, ficou delineado no acórdão recorrido que as provas dos autos seriam suficientes para afastar a presunção de hipossuficiência conferida pela simples declaração dos requerentes.
+Essa premissa fática não foi verificada no acórdão paradigma, de modo que não ficou configurada a divergência jurisprudencial diante da ausência de similitude entre os arestos comparados. Portanto, é de rigor o não conhecimento do recurso especial com fundamento no art. 105, III, "c", da CF. Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. NÃO OCORRÊNCIA.
+1. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo não provido.
+(AgRg no REsp n. 1430733/SP, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/4/2014, DJe 2/5/2014.)
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. TRANSPORTE AÉREO. DANOS MORAIS. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões deve ser afastada a alegada violação aos arts. 458 e 535 do Código de Processo Civil.
+2. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+3. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+4. Dissídio jurisprudencial não configurado diante da ausência de similitude fática entre os acórdãos recorrido e paradigma.
+5. Agravo regimental a que se nega provimento.
+(AgRg no Ag n. 1289748/GO, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 6/2/2014, DJe 18/2/2014.)
+Ainda que assim não fosse, segundo a jurisprudência do STJ, a declaração de pobreza, para fins de obtenção do benefício da justiça gratuita, tem presunção relativa e pode ser afastada pelo magistrado, com base na prova dos autos. Confira-se:
+AGRAVO REGIMENTAL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - INDEFERIMENTO DOS BENEFÍCIOS DA GRATUIDADE DE JUSTIÇA - MONOCRÁTICA NEGANDO PROVIMENTO A AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DO AUTOR/POSTULANTE. 1. Gratuidade da justiça. Matéria sobre a qual incide o óbice da Súmula n. 7/STJ. Encontra-se sedimentada a orientação desta Corte Superior no sentido de que a declaração de hipossuficiência apresentada pela parte detém presunção juris tantum de veracidade, podendo a autoridade judiciária indeferir a benesse quando convencida acerca da capacidade econômica do postulante. Afastada nas instâncias ordinárias a condição de carência econômica, a revisão de tal entendimento não prescinde do reexame do quadro fático da lide, providência incabível na estreita via do recurso especial. 2. Agravo regimental não provido, aplicando-se multa ao recorrente.
+(AgRg no AREsp n. 98.143/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/3/2012, DJe 9/4/2012.)
+No caso, o Tribunal de origem decidiu a matéria nos seguintes termos (e-STJ fl. 23):
+Os elementos de prova coligidos aos autos afastam a presunção de hipossuficiência conferida pela simples declaração, demonstrando perfil econômico incompatível com a alegada impossibilidade de arcar com as custas e despesas processuais, mormente diante do valor supostamente devido, que afirmam girar em torno de R$1.000,00.
+Por outro lado, as dívidas noticiadas já existiam quando do ingresso das partes nestes autos, no entanto, nada foi deduzido na oportunidade, a respeito de eventual dificuldade em arcar com as custas e despesas processuais, não servindo, portanto, para sustentar eventual alegação de mudança da situação anterior dos agravantes.
+Dissentir das conclusões do acórdão recorrido, quanto à ausência dos requisitos para a concessão do benefício da justiça gratuita, demandaria revolvimento do conjunto fático-probatório, o que é vedado em recurso especial, ante o disposto na Súmula n. 7/STJ, a qual também inviabiliza o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012; REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011; EDcl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/3/2010, DJe 5/4/2010; AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
