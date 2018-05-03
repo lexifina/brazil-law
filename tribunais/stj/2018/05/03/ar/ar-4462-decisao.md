@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de ação rescisória (art. 485, V, do CPC/1973) ajuizada por CLEANTO FARINA WEIDLICH para rescindir acórdão da TERCEIRA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA, proferido nos autos do AGRG NO AG n. 950.012/RS, da relatoria do MINISTRO HUMBERTO GOMES DE BARROS, assim ementado:
+AGRAVO INTERNO - SÚMULA 182.
+- "É inviável o agravo do Art. 545 do CPC que não ataca especificamente os fundamentos da decisão agravada."
+Sustenta violação dos arts. 5º e 93, IX e XIV, da CF, 20, §§ 3º e 4º, 128 e 458, II, do CPC/1973 e 43 do CPC/2015.
+Declara-se (e-STJ fl. 2):
+(..) pessoa pobre na expressão legal do termo, o que faz certo com a juntada de sua declaração de rendimentos, necessitando, portanto, para estar em juízo, do benefício da Assistência Judiciária Gratuita, uma vez que o pagamento das custas e honorários advocatícios implicaria desfalque ao seu sustento pessoal e de sua família.
+4. Requer, portanto, seja-lhe concedido o direito a Assistência Judicial Gratuita, nos termos da Constituição Federal.
+Destaca ser esta Corte superior competente para julgar a presente ação rescisória, visto que ratificou a decisão proferida pelo Tribunal de Justiça do Rio Grande do Sul.
+Relata que (e-STJ fl. 7):
+1. Ao contestar a ação de indenização claramente temerária, promovida por [NOME], que, aliás, ciente disso, deu à causa o valor irrisório de R$ 50.000,00 e solicitou os benefícios da justiça gratuita, salientou o réu que os valores reclamados pela autora chegavam a cerca de R$ 1.000.000,00 pelo que aquele valor deveria ser retificado.
+2. Sua pretensão foi acolhida, passando a causa a ter o valor de R$ 966.830,00 (R$ 1.959.168,48 atualmente).
+3. Isso significa que, fosse procedente a ação, o réu deveria pagar cerca de R$ 100.000,00 de verba honorária, a teor do contido no artº 20, § 3º, do Código de Processo Civil.
+4. Como não poderia deixar de ser, aquela temerária ação foi julgada improcedente, fixando-se, porém, a verba honorária em cerca de 1% desse valor, "a teor do art. 20 do Código de Processo Civil", como ali se diz, vale dizer 0,1% do valor da causa.
+Informa que a sentença foi mantida pelo Tribunal de origem, decidindo que nas ações em que não há condenação os honorários não estão necessariamente limitados pelos percentuais previstos no art. 20, § 3º, do CPC/1973 .
+Alega que o acórdão da Corte de origem não observou os princípios da isonomia, proporcionalidade e razoabilidade ao fixar os honorários fora dos percentuais previstos no art. 20, §§ 3º e 4º, do CPC/1973, "tratando-se desigualmente as partes, pois se a ação tivesse sido julgada procedente, os honorários mínimos certamente seriam de R$ 100.000,00" (e-STJ fl. 11).
+Aduz ser indevida a fixação dos honorários em percentual menor que 10% (dez por cento) do valor da causa, tratando-se de valor irrisório.
+Ressalta que (e-STJ fl. 33):
+(..) não pode haver dúvida de que está presente a repercussão geral, ensejadora da submissão do presente processo ao E. Supremo Tribunal Federal, para aferir a (in)adequação do contido nos parágrafos do art.º 20 e seus parágrafos do Código de Processo Civil aos preceitos do devido processo legal, em especial a equidade, a isonomia, a razoabilidade e a proporcionalidade.
+Sustenta a violação do art. 458, II, do CPC/1973, pois "nula é a decisão que fixa honorários advocatícios sem especificar, nos termos do exigido pelo artigo 20, §§ 3º e 4º, "a efetiva correspondência entre a natureza do trabalho dos patronos e um valor justo que o remunere"" (e-STJ fl. 37).
+Requer que "seja a expressão "valor da condenação" interpretada conforme a Constituição Federal, significando assim "valor do benefício disputado", para que não restem afrontados os princípios constitucionais da isonomia, da equidade e da razoabilidade" (e-STJ fls. 41/42).
+Por fim, solicita (e-STJ fls. 42/43):
+b) seja, ao depois, rescindido o v. Acórdão proferido na Apelação nº [CPF] (Nona Câmara Cível do TJRS), dada a afronta ao art. 458, II, do Código de Processo Civil, sendo em seguida, como consequência, declarados insubsistentes a decisão monocrática proferida no AI nº 950.012-RS (2007/0208782-5) e sua confirmação pelo AgRg no AI n. 950.012-RS (2007/0208782-5), por haverem incorrido nos mesmos vícios.
+c) seja determinado àquele E. Tribunal que reexamine o contido naquele recurso, dando ao mencionado artº 20, parágrafos 3º e 4º, interpretação conforme a Constituição, dispensando-se a autora e réu o mesmo tratamento, em se cuidando de fixação da verba sucumbencial;
+d) caso a E. Turma considere não factível o julgamento plúrimo, nada obstante a instrumentalidade do processo e o princípio da economia processual, requer seja rescindido o V. Acórdão proferido no AgRg no AI 950.012-RS (2007/0208782-5), por violação do art. 458, II, do Código de Processo Civil, determinado-se que outro seja proferido, fundamentando-se então adequadamente a fixação da verba advocatícia, tal como exige o art. 20, parágrafos 3º e 4º, do mesmo Código.
+A justiça gratuita foi deferida (e-STJ fl. 992).
+Contestação apresentada (e-STJ fls. 1.012/1.036). A parte ré sustenta: (i) indeferimento da inicial, ante a ausência de depósito, (ii) carência da ação e (iii) não violação do art. 20, §§ 3º e 4º, do CPC/1973, pois "não havendo condenação não há como se aplicar tal dispositivo legal, portanto, não existe qualquer ofensa ao mesmo face a sua literalidade expressa" (e-STJ fl. 1.016).
+A ORDEM DOS ADVOGADOS DO BRASIL - SECCIONAL RIO GRANDE DO SUL requereu sua atuação como litisconsorte assistencial simples do autor (e-STJ fls. 1.074/1.083).
+Houve impugnação à gratuidade de Justiça, que processa em separado (e-STJ fl. 1.085).
+A autora apresentou réplica (e-STJ fls. 1.090/1.097).
+Na decisão de fl. 1.101 (e-STJ) foi indeferido o pedido de intervenção da ORDEM DOS ADVOGADOS DO BRASIL - SECCIONAL RIO GRANDE DO SUL.
+Instado, o Ministério Público Federal manifestou-se nos seguintes termos (e-STJ fl. 1.107):
+Ação rescisória. Hipóteses de cabimento. Considerações sobre a chamada relativização da coisa julgada. Entendimento novo do Supremo Tribunal Federal reforçando a sua súmula 343.
+As hipóteses de cabimento de ação rescisória são apenas aquelas previstas no art. 485 do Código de Processo Civil.
+Deve ser prestigiado pronunciamento do Supremo Tribunal Federal, em sede de repercussão geral, no sentido de que não cabe colar "a sinonímia às expressões "ação rescisória" e "uniformização de jurisprudência"" e de que "o Verbete nº 343 da Súmula do Supremo deve de ser observado em situação jurídica na qual, inexistente controle concentrado de constitucionalidade, haja entendimentos diversos sobre o alcance da norma, .." (trecho da ementa do RE 590.809, j. 22.10.14).
+Fixação da tese de que a alteração superveniente de orientação não pode qualificar-se como hipótese de rescindibilidade de julgado a que se refere o inciso V do artigo 485 do Código de Processo Civil (trecho da manifestação do Ministro Celso de Mello no RE 590.809).
+Parecer pelo não cabimento da ação rescisória.
+É o relatório.
+Decido.
+A autora pretende rescindir acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL, inclusive tal pedido está expresso na inicial (e-STJ fl. 42).
+A tese de ofensa à norma jurídica (art. 485, V, do CPC/2015), a saber: arts. 5º e 93, IX e XIV, da CF, 20, §§ 3º e 4º, 128 e 458, II, do CPC/1973 e 43 do CPC/2015, trata de hipótese de violação pelo acórdão do Tribunal de origem. Não há indicação de inobservância de dispositivo legal por parte desta Corte, inclusive a matéria relacionada nesta ação rescisória sequer foi tratada no acórdão desta Corte Superior, incompetência interna do TJSP sequer foi apreciada no REsp n. 1.438.576/SP, da relatoria do MINISTRO VILLAS BÔAS CUEVA.
+Ressalto que "o pedido inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, levando em conta todos os fatos e fundamentos jurídicos presentes, de modo que o acolhimento da pretensão extraído da interpretação lógico-sistemática da peça inicial não implica julgamento "extra petita"" (REsp n. 1.365.999/PR, Relator Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/4/2015, DJe 17/4/2015).
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NÃO INCIDÊNCIA DO IMPOSTO DE RENDA SOBRE OS VALORES DA COMPLEMENTAÇÃO DE APOSENTADORIA REFERENTES ÀS CONTRIBUIÇÕES EFETIVADAS PARA A ENTIDADE DE PREVIDÊNCIA PRIVADA, ATÉ O LIMITE DO QUE FOI RECOLHIDO PELO BENEFICIÁRIO SOB A ÉGIDE DA LEI 7.713/88. O PEDIDO DO AUTOR CONTIDO NA EXORDIAL DEVE SER INTERPRETADO LEVANDO EM CONSIDERAÇÃO TODA A PETIÇÃO INICIAL, E NÃO APENAS O CAPÍTULO DOS PEDIDOS, UTILIZANDO-SE O MÉTODO LÓGICO-SISTEMÁTICO. PRESCRIÇÃO. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO DE MATÉRIA DE ORDEM PÚBLICA. A CORREÇÃO MONETÁRIA É MERO ACESSÓRIO DE NATUREZA EMINENTEMENTE PROCESSUAL DA CONDENAÇÃO PRINCIPAL, NÃO SE TRATANDO DE PEDIDO AUTÔNOMO E SEM INTERDEPENDÊNCIA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO, APENAS PARA RESTRINGIR A ISENÇÃO ATÉ O LIMITE DO QUE FOI RECOLHIDO PELO BENEFICIÁRIO SOB A ÉGIDE DA LEI 7.713/88.
+1. Não incide o Imposto de Renda sobre os valores da complementação de aposentadoria referentes às contribuições efetivadas para a entidade de previdência privada, até o limite do que foi recolhido pelo beneficiário sob a égide da Lei 7.713/88 (de janeiro de 1989 a dezembro de 1995).
+2. O pedido do autor contido na exordial deve ser interpretado levando em consideração toda a petição inicial, e não apenas o capítulo dos pedidos, utilizando-se o método lógico-sistemático (AgRg no REsp. 769.765/SP, Rel. Min. ALDERITA RAMOS DE OLIVEIRA, DJe 27.08.2013).
+(..)
+5. Agravo Regimental da FAZENDA NACIONAL parcialmente provido para restringir a isenção até o limite do que foi recolhido pelo beneficiário sob a égide da Lei 7.713/88.
+(AgRg no REsp n. 1.105.061/ES, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/10/2013, DJe 11/11/2013.)
+Portanto, o STJ não é competente para rescindir acórdão de Tribunal de Justiça, devendo ocorrer a remessa dos autos ao devido órgão.
+Diante do exposto, DECLINO DA COMPETÊNCIA para apreciar e julgar a presente ação rescisória, e DETERMINO a remessa dos autos ao TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO SUL, com fundamento no art. 968, §§ 5º e 6º, do CPC/2015, para se proceder à análise dos pressupostos de admissibilidade e mérito da presente ação rescisória, bem como para ser julgado novamente o pedido de assistência judiciária (art. 64, § 4º, do CPC/2015), da forma que se entender de direito.
+Publique-se e intimem-se.
