@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por IGOR FERNANDES PEREIRA, em 03/03/2018 (fls. 211/215e), contra a decisão por mim proferida, que, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheceu do Agravo para negar provimento ao Recurso Especial (fls. 203/208e).
+Inconformada, sustenta a parte embargante que:
+"DO JULGAMENTO UNIPESSOAL DE FORMA EXTRA PETITA:
+Quanto a arguida nulidade do aresto estadual por ausência de prestação jurisdicional, em que pese a r. decisão unipessoal asseverar que não teria ocorrido omissão alguma, uma vez que o voto condutor do julgado apreciara, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida, permissa venia, a r. decisão embargada incorreu em vício mais grave daquele suscitado no apelo excepcional, vale dizer, tornou-se extra petita.
+Isso porque, a r. Decisão unipessoal transcreveu matéria alheia ao quanto pleiteado no recurso de Apelação, reiterado em sede de Embargos de Declaração e no Recurso Especial.
+(..)
+Ora, a omissão suscitada na preliminar de mérito que embasou o apelo excepcional refere-se à inobservância pelo v. Acórdão da Corte de revista sobre a arguida inobservância pelo juízo primevo do artigo indenização do artigo 69, inciso I do Código de Buzaid.
+Com efeito, descreveu o embargante em sua peça recursal, verbis:
+"cientificada da ação, em preliminar ao mérito, alegou ilegitimidade passiva, sobre o argumento de que o nosocômio onde teria ocorrido os fatos objetos da demanda seria uma AUTARQUIA HOSPITALAR, que possuía autonomia administrativa e financeira.
+Em manifestação à Contestação (fls. 59/66), a parte recorrente postulou pela indenização do artigo 69, inciso I do Código de Processo Civil, pela omissão da parte recorrente em deixar de nomear à autoria a pessoa jurídica legitimada a responder à demanda, visto que os usuários da unidade hospitalar não têm obrigação em saber a relação contratual que o Poder Público faz com terceiros, mormente porque inexistia até a apresentação da peça de defesa quaisquer elementos que indicassem tratar-se o nosocômio de autarquia da parte recorrida.
+Com efeito, a decisão de piso acolheu a preliminar de ilegitimidade passiva, extinguindo o feito sem resolução de mérito, contudo, omitindo o pedido e causa de pedir da parte recorrente de condenação da parte recorrida por omissão de nomeação à autoria, daí a interposição do recurso de EMBARGOS DE DECLARAÇÃO visando integrar a matéria (fls. 70/71).
+No entanto, o recurso foi rejeitado sobre o velho e conhecido argumento padrão de inexistência de vício no julgado (fls. 72/73)." E, pergunta-se: onde consta dos julgados a análise dessa questão essencial debatida ab initio a fim de justificar a dita ausência de omissão naquele julgado
+R: EM LUGAR ALGUM!
+Desta forma, a despeito do que orienta a súmula nº 356 do STF (cristalizada no artigo 1.025 da nova legislação processual), o jurisdicionado não mais pode suportar as consequências dos erros criados pelo próprio Judiciário, e, quando instada a instância superior, tão somente para manter coesa as decisões de seus subordinados, alega a tese há muito conhecida pelos profissionais do direito de que "está tudo certinho", "não há nenhuma mácula" , "será necessário analisar provas".
+(..)
+Em suma, considerando que a r. decisão embargada considerou fatores externos e de somenos importância para justificar a suposta ausência de omissão da decisão do Tribunal a quo, evidente que julgou de forma extra petita.
+(..)
+No caso vertente, conquanto a r. decisão embargada fundamente em sentido contrário, ictu oculi, não há como deixar de reconhecer a manifesta contradição entre trechos da própria decisão ora embargada.
+Isso porque, sobre a matéria a que asseverou não poder analisar pela aplicação dos enunciados das súmulas 07 e 211 desse sodalício, no caso vertente, não há nelas nenhuma incidência.
+Primeiro porque, sobre a matéria objeto de apelação - e isso foi reconhecido na r. decisão unipessoal ora embargada - foi interposto o recurso de embargos de declaração, viabilizando o prequestionamento implícito, contudo, manteve-se silente sobre a questão estrutural, o que não implica em incidência nos aludidos enunciados" (fls. 211/215e).
+Por fim, requer "reconhecer o erro material quanto a suposta incidência dos enunciados das súmulas 07 e 211 desse sodalício, quando a matéria é arguida para tornar nula a decisão da Corte de revista, a fim de que outra seja prolatada, já que isso, por ser decorrência lógica do julgado, não implica em usurpação de competência" (fl. 215e).
+A irresignação não merece acolhida.
+De início, nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+In casu, quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está suficientemente fundamentada, uma vez que para a alteração do entendimento do Tribunal de origem seria necessário reexame das provas carreadas nos autos, procedimento vedado, pela Súmulas 7 desta Corte, bem como que não houve violação ao art. 535 do CPC/73, e que os temas relativos aos arts. 128 e 460 do CPC/73, não foram prequestionados, com a incidência da Súmula 211/STJ
+Ademais, verifica-se que, nas razões do Recurso Especial, o ora embargante, não alegou que o acórdão local teria negado provimento por ausência de provas e estas terem sido indeferidas, o que configura verdadeira inovação.
+Deve-se ressaltar que, seja à luz do CPC/73 ou do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. RECLAMAÇÃO. RESOLUÇÃO STJ N. 12/2009. OMISSÃO. ACOLHIMENTO.
+1. Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como quando há erro material a ser sanado.
+2. Embargos declaratórios acolhidos sem efeitos infringentes" (STJ, EDcl nos EDcl na Rcl 28.977/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, DJe de 11/03/2016).
+"PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados" (STJ, EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada do TRF/3ª Região), PRIMEIRA SEÇÃO, DJe de 04/03/2016).
+Pelo exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
