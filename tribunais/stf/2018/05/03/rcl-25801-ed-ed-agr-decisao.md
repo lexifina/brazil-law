@@ -1,0 +1,19 @@
+RECLAMAÇÃO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. CRITÉRIOS DE AVALIAÇÃO. LEGALIDADE. OBJETIVIDADE. DECISÃO SUPERVENIENTE. MATÉRIA SUBMETIDA AO REGIME DA REPERCUSSÃO GERAL. DEVOLUÇÃO DO FEITO PRINCIPAL À ORIGEM. RECLAMAÇÃO PREJUDICADA.
+    Decisão: Trata-se de agravo regimental interposto contra decisão de minha relatoria que negou provimento aos embargos de declaração, a teor da seguinte ementa:
+    “EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO DESPROVIDOS.”
+    Em suas razões, a agravante repisa a argumentação expendida na petição inicial.
+    Nesse contexto, argumenta que a decisão agravada violou a Súmula Vinculante n. 44.
+    Ademais, a agravante sustenta que não utilizou a via reclamatória como sucedâneo recursal.
+    Requer, ao final, seja reconsiderada a decisão agravada, a fim de que a reclamação seja conhecida e julgada procedente.
+    É o relatório. DECIDO.
+    Ab initio, constato, de plano, a ocorrência de fato posterior capaz de ensejar a prejudicialidade da presente ação.
+    Conforme se extrai da decisão proferida no ARE 1.117.441, a matéria objeto desta reclamação foi submetida por esta Corte à sistemática da repercussão geral (Tema 338, AI 758.533, Rel. Min. Gilmar Mendes). Como consequência, o processo restou devolvido à origem.
+    Com efeito, essa decisão enseja a perda superveniente do objeto da reclamação proposta, porquanto o pedido principal formulado é, justamente, reformar a sentença face à suposta ilegalidade quanto à exclusão da candidata do concurso público submetida a exame psicotécnico. É firme a jurisprudência desta Corte no sentido de que a substituição do ato reclamado acarreta a perda do objeto da reclamação. Nesse sentido, in verbis:
+    “SEGUNDO AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA AFRONTA À AUTORIDADE DO DECIDIDO NA ADC Nº 16. PRIMEIRO AGRAVO REGIMENTAL JULGADO PREJUDICADO. SUBSTITUIÇÃO DA DECISÃO RECLAMADA. PERDA DE OBJETO. 1. O instituto da reclamação não se destina ao atropelamento da marcha processual, a substituir ou complementar os meios de defesa previstos na legislação processual, haja vista a fundamentação vinculada desta ação constitucional. 2. Ato judicial reclamado substituído por ato decisório proferido em julgamento de recurso. Incidência do efeito substitutivo dos recursos. Art. 512 do CPC/73. Perda de objeto. 3. Agravo regimental conhecido e não provido”. (Rcl 16202 AgR-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 9/5/2017)
+     “SEGUNDO AGRAVO REGIMENTAL. RECLAMAÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO DA DECISÃO PROFERIDA NOS AUTOS DO RE 248.466. SENTENÇA REFORMADA. APELAÇÃO. EFEITO SUBSTITUTIVO. PROPOSITURA DE NOVA RECLAMAÇÃO. AUSÊNCIA DE INTERESSE DE AGIR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. A substituição da decisão objeto da reclamação importa a perda de objeto da impugnação. 2. In casu: a) a decisão que supostamente teria violado a autoridade do que decidido no RE 248.466 foi substituída pelo acórdão proferido pelo TJ/DFT no julgamento da apelação, o que, segundo a jurisprudência desta Corte, acarreta a perda de objeto da ação (Rcl 2.788-QO, Rel. Min. Cezar Peluso; Rcl 2.496-QO/PE, Rel. Min. Marco Aurélio); b) contra o acórdão proferido pelo TJ/DFT, a reclamante ajuizou nova reclamação neste Tribunal, a Rcl 2.627, com decisão já proferida. A providência inicialmente buscada com a propositura desta ação é objeto de exame nos autos daquela. Portanto, não mais se justifica o prosseguimento da presente reclamação, diante da ausência de interesse de agir. 3. Agravo regimental desprovido”. (Rcl 2.313 AgR-segundo, Rel. Min. Luiz Fux, Primeira Turma, DJe de 29/5/2014)
+    Ex positis, julgo prejudicada esta reclamação, por perda superveniente de objeto, nos termos do art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 3 de maio de 2018.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
