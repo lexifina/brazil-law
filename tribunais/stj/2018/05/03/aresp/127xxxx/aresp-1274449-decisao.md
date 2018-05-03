@@ -1,0 +1,20 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONSÓRCIO. AÇÃO DECLARATÓRIA DE CESSÃO DE CRÉDITO. DESNECESSIDADE. AUSÊNCIA DE INTERESSE RECURSAL. ORIENTAÇÃO DO ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do artigo 105 da Constituição Federal, que desafia acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 438):
+APELAÇÃO. CONSÓRCIO. AÇÃO DECLARATÓRIA DE TITULARIDADE DE CRÉDITO C/C OBRIGAÇÃO DE FAZER. CESSÃO DE CRÉDITO DE COTAS CANCELADAS. NEGATIVA DA ADMINISTRADORA EM ANOTAR A CESSÃO DE CRÉDITO. SITUAÇÃO QUE NÃO IMPLICA EM RECUSA AO PAGAMENTO. INTERESSE PROCESSUAL NÃO EVIDENCIADO. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO, DE OFÍCIO. RECURSO PREJUDICADO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 453-456).
+Nas razões do recurso especial (e-STJ, fls. 459-472), o recorrente apontou violação dos arts. 104 e 286 do Código Civil de 2002; e 2º, 17 e 19, I, do Código de Processo Civil de 2015.
+Sustentou, em síntese, que a demanda que pleiteia o reconhecimento da validade da cessão de crédito realizada é necessária e útil. Ponderou que, se não houver a declaração de legalidade da cessão do crédito o pagamento será realizado a outrem.
+Foram apresentadas contrarrazões (e-STJ, fls. 478-481).
+Juízo de admissibilidade negativo (e-STJ, fls. 483-484).
+Brevemente relatado, decido.
+O entendimento externado pelo Tribunal de origem não merece reparos.
+O caso, como se depreende dos autos, versa sobre cessão de crédito, isto é, quando uma pessoa (o cedente) transfere um direito creditício que possui em face de outra (o cedido) para uma pessoa estranha à relação obrigacional (cessionário). Nesse caso, o cessionário é quem deve receber integralmente o crédito, independente da vontade do devedor. Entretanto, como ressaltou o decisum, cabe ao cessionário apenas notificar o cedido, o que ocorreu na hipótese.
+É bom registrar que, mesmo no caso de não haver notificação, o que aqui não se aplica, ainda assim, "a ausência de notificação do devedor acerca da cessão do crédito (art. 290 do CC/2002) não torna a dívida inexigível, tampouco impede o novo credor de praticar os atos necessários à preservação dos direitos cedidos" (AgRg no AREsp n. 390.888/SC, Relator o Ministro Antonio Carlos Ferreira, DJe de 26/8/2015).
+Diversamente seria se houvesse a cessão de contrato, quando uma parte em ato cede a sua posição contratual a um terceiro, transferindo-lhe, por conseguinte, os direitos e deveres recíprocos previstos no contrato.
+Conforme a compreensão desta Corte, "a cessão de direitos e obrigações oriundos de contrato,  .. , implica a transferência de um complexo de direitos, de deveres, débitos e créditos, motivo pelo qual se confere legitimidade ao cessionário de contrato (cessão de posição contratual) para discutir a validade de cláusulas contratuais com reflexo, inclusive, em prestações pretéritas já extintas" (REsp 356.383/SP, Relatora a Ministra Nancy Andrighi DJe de 6/5/2002).
+Assim, enquanto na cessão de crédito ocorre a transferência do crédito, na cessão de contrato ocorre a transferência de todas as obrigações advindas da relação contratual. Logo, é desnecessário o ajuizamento de ação declaratória quando há apenas a cessão de crédito e, por isso mesmo, carece o recorrente de interesse na sua propositura. Correto, portanto, o acórdão, quando afirmou que "a cessão pode se operar independentemente da anuência ou participação do devedor, exigindo-se somente a notificação do devedor como condição de eficácia do negócio para evitar que o pagamento seja realizado ao credor originário (art. 290 do CC)" (e-STJ fl. 439).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor do advogado da parte recorrida em R$ 300,00 (trezentos reais).
+Publique-se.
