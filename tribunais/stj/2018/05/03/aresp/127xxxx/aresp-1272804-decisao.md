@@ -1,0 +1,10 @@
+DECISÃO
+ 1. Cuida-se de agravo interposto por [NOME] em face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão assim ementado:
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. PREPARO. INTERPOSIÇÃO DO RECURSO. SENTENÇA PROFERIDA NA VIGÊNCIA DO CPC 1973.
+OBSERVÂNCIA AO PRINCÍPIO DO TEMPUS REGIT ACTUM.
+1- No ato da interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção.
+2- O Direito Processual Civil orienta-se pela regra do isolamento dos atos processuais, segundo o qual a lei nova é aplicada aos atos pendentes, mas não aos já praticados, nos termos do artigo 2º da LINDB (princípio do tempus regit actum). Considerando que a sentença recorrida foi publicada sob a égide do CPC de 1973, o julgamento do presente recurso se orientará pelas regras nele definidas, por força dos princípios da boa fé processual e segurança jurídica, entendimento este que inclusive orientou a edição do enunciado administrativo nº 2 pelo Superior Tribunal de Justiça.
+RECURSO CONHECIDO E IMPROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta violação do art. 1.046 do CPC/2015. Sustenta que "o ato processual teve início na vigência da lei processual de 1973 (sentença de mérito), mas frente a interposição dos aclaratórios, o ato processual se finalizou com a decisão proferida em sede de embargos de declaração, já na vigência da lei processual de 2015, bem como o recurso de apelação foi interposto sob a exegese do novo Código de Processo, assim é sob esse regramento que deverá ser analisado." (fl. 1854)
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
