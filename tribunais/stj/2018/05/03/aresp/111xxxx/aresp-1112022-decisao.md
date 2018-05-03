@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por COENGEN COMÉRCIO E ENGENHARIA LTDA. contra decisão que negou seguimento a recurso especial, fundamentado na alínea "c" do inciso III do art. 105 da Constituição Federal, impugnando acórdão assim ementado (fl. 201, e-STJ):
+PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. AUDIÊNCIA DE CONCILIAÇÃO. SENTENÇA HOMOLOGATÓRIA DE ACORDO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA NA ORIGEM. INDÍCIOS DE DESCUMPRIMENTO DO ACORDO FIRMADO. IRRESIGNAÇÃO EM RELAÇÃO À MULTA DIÁRIA ANTERIORMENTE ESTIPULADA. ALEGAÇÃO DE AUSÊNCIA DE INTIMAÇÃO PESSOAL DO EXECUTADO PARA DAR CUMPRIMENTO A OBRIGAÇÃO ASSUMIDA. DESNECESSIDADE. NOTIFICAÇÃO DAS PARTES NO MOMENTO DA AUDIÊNCIA CONCILIATÓRIA. CIÊNCIA DO INTEIRO TEOR DOS TERMOS DO ACORDO E DE SUAS CONSEQUÊNCIAS PELO EVENTUAL DESCUMPRIMENTO DA OBRIGAÇÃO. MULTA DIÁRIA ANTERIORMENTE ESTABELECIDA QUE SE MOSTRA DEVIDA. PROSSEGUIMENTO DA EXECUÇÃO. MANUTENÇÃO DA DECISÃO AGRAVADA. CONHECIMENTO E IMPROVIMENTO DO RECURSO. PRECEDENTES.
+A agravante sustenta, nas razões de recurso especial, divergência jurisprudencial quanto à interpretação do art. 461, § 4º, do Código de Processo Civil de 1973, correspondente ao art. 537 do CPC/2015. Alega que a multa executada é inexigível, uma vez que não foi intimado pessoalmente para o cumprimento da obrigação de fazer.
+Assim delimitada a controvérsia, passo a decidir.
+Conforme consignado no acórdão recorrido e no recurso especial, a jurisprudência desta Corte orienta que "a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer" (Súmula 410/STJ).
+No caso em exame, o Tribunal de origem afastou a aplicação da referida súmula, sob a alegação de que "diante do teor do acordo homologado entre as partes, restou demonstrado que a ora agravante ficou devidamente notificada de sua obrigação, bem como da multa anteriormente estipulada em caso de descumprimento"
+Ocorre que a Segunda Seção desta Corte, no julgamento do REsp 1.349.790/RJ, de minha relatoria, decidiu que o "entendimento compendiado na Súmula n. 410, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005,  ..  continua válido em face do ordenamento jurídico em vigor".
+Na ocasião foi reafirmado que:
+ ..  a intimação do conteúdo da sentença, em nome do advogado, para o cumprimento da obrigação de pagar, realizada na forma do art. 475-J do CPC, não é suficiente para o início da fluência da multa cominatória voltada ao cumprimento da obrigação de fazer. (REsp 1.349.790/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, DJe 27.2.2014).
+Confiram-se, a propósito, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ASTREINTES. TERMO INICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. SÚMULA 410/STJ. AGRAVO DESPROVIDO.
+1. A Segunda Seção desta Corte, no julgamento do REsp 1.349.790/RJ, de relatoria da Ministra MARIA ISABEL GALLOTTI, consolidou o entendimento de que a prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer. Entendimento compendiado na Súmula 410, editada em 25.11.2009, anos após a entrada em vigor da Lei 11.232/2005, o qual continua válido em face do ordenamento jurídico em vigor. Esclarecimento do decidido pela Segunda Seção nos EAg 857.758/RS. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.653.624/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 24.5.2017);
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. OMISSÃO DA INSTÂNCIA ORDINÁRIA. QUESTÃO RELEVANTE. CELERIDADE E ECONOMIA PROCESSUAIS. APLICAÇÃO DO DIREITO À ESPÉCIE. SÚMULA Nº 410 DO STJ. INTIMAÇÃO PESSOAL DO DEVEDOR PARA O CUMPRIMENTO DE OBRIGAÇÃO DE NÃO FAZER. NECESSIDADE. RECURSO ESPECIAL PROVIDO.
+1. São inaplicáveis, neste julgamento, as disposições do NCPC ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Sendo incontroversos os fatos dos autos, aplica-se o direito à espécie, mesmo diante de omissão da origem, por economia e celeridade processuais.
+3. Nos termos da jurisprudência desta Corte Superior, a incidência de multa diária por descumprimento de obrigação de fazer ou não fazer demanda a intimação pessoal da parte, não bastando a de seu advogado. Súmula nº 410 do STJ.
+4. Hipótese em que a abstenção do uso da marca se consumou antes da intimação pessoal do devedor, afastando a possibilidade de cobrança de qualquer multa diária.
+5. Recurso especial provido, prejudicando os Recursos Especiais nºs 1.517.406 e 1.454.240, que devem ser extintos.
+(REsp 1.492.933/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 23.2.2017);
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA. EXECUÇÃO. CUMPRIMENTO DE DECISÃO. INTIMAÇÃO. NECESSIDADE. SÚMULA Nº 410/STJ.
+1. Necessária a intimação pessoal da parte a quem se destina a obrigação de fazer, especialmente quando há fixação de astreintes. Súmula nº 410/STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 742.085/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 21.9.2016);
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ASTREINTES. OBRIGAÇÃO DE FAZER. NECESSIDADE DE INTIMAÇÃO PESSOAL. SÚMULA 410/STJ. MITIGAÇÃO. NÃO OCORRÊNCIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 574.655/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 18.4.2016).
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para reconhecer a nulidade da cobrança da multa pelo descumprimento de obrigação de fazer, em razão da ausência de intimação pessoal do devedor, prejudicada a análise das demais questões.
+Intimem-se.
