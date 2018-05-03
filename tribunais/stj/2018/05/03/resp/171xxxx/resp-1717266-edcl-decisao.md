@@ -1,0 +1,14 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. CONTRADIÇÃO. OCORRÊNCIA. DESNECESSIDADE DE SOBRESTAMENTO DO FEITO NO PRESENTE MOMENTO. ACLARATÓRIOS ACOLHIDOS, COM EFEITOS INFRINGENTES, APENAS PARA DEIXAR DE SOBRESTAR O FEITO A FIM DE QUE TAL PROVIDÊNCIA SEJA ANALISADA OPORTUNAMENTE NA ORIGEM.
+DECISÃO
+Cuida-se de embargos de declaração manejados por PERKONS S/A em face de decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. CONSTITUCIONALIDADE DO § 3º DO ART. 8º DA LEI Nº 8.029/1990. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. CONTRIBUIÇÃO DESTINADA A TERCEIROS. LEGITIMIDADE PASSIVA DAS ENTIDADES DESTINATÁRIAS DAS CONTRIBUIÇÕES. LITISCONSÓRCIO PASSIVO. PRECEDENTES. SUSPENSÃO DO FEITO NA ORIGEM PARA AGUARDAR O JULGAMENTO DO TEMA 325 EM REPERCUSSÃO GERAL NO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, PARCIALMENTE PROVIDO.
+A embargante alega contradição na decisão embargada, na medida em que acolheu a nulidade relativa à exclusão das entidades beneficiárias da contribuição a terceiros do feito e, ao mesmo tendo, determinou a suspensão do feito na origem para aguardar orientação do STF sobre o mérito em sede de repercussão geral.
+Requer o acolhimento dos aclaratórios para sanar o vício apontado.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a decisão embargada incorreu em contradição, razão pela qual conheço dos embargos para sanar o vício apontado.
+Em razão do provimento do recurso especial para reconhecer a legitimidade passiva das entidades destinatárias da contribuição devida a terceiros e anular o processo a partir de quando tais entidades foram excluídas do feito a fim de que os atos processuais sejam repetidos com a presença de tais entidades no feito, não se faz necessário o sobrestamento do feito por este STJ na forma do art. 1.037, II, do CPC/2015, devendo o processo prosseguir na origem, conforme declinado acima. Eventual necessidade de sobrestamento para aguardar o julgamento do tema 325 admitido em sede de repercussão geral pelo Supremo Tribunal Federal nos autos do RE 603.624 deve ser analisada na origem em momento oportuno.
+Ante o exposto, ACOLHO os aclaratórios, com efeitos infringentes, apenas para deixar de determinar o sobrestamento do feito no presente momento, a fim de que eventual necessidade de sobrestamento seja analisada na origem oportunamente.
+Publique-se. Intimem-se.
