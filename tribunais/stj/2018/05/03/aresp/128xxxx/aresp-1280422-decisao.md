@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo MUNICÍPIO DE MONTEIRO, em 11/02/2018, contra decisão do Tribunal de Justiça do Estado da Paraíba, que inadmitiu o Recurso Especial interposto contra acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. DEFERIMENTO DA MEDIDA EMERGENCIAL EM PRIMEIRO GRAU. INSATISFAÇÃO DA EDILIDADE. PACIENTE COM ENFERMIDADE. FORNECIMENTO DE MEDICAMENTO. LAUDO MÉDICO. NECESSIDADE DE TRATAMENTO.DEVER DO PODER PÚBLICO. PRINCÍPIO DA DIGNIDADE DA PESSOA HUMANA. GARANTIA CONSTITUCIONAL. DIREITO À VIDA E À SAÚDE. INTELIGÊNCIA DO ART. 196, DA CONSTITUIÇÃO FEDERAL. MANUTENÇÃO DO DECISUM. DESPROVIMENTO.
+- Nos termos do art. 196, da Constituição Federal, a saúde é direito de todos e dever do Estado e sendo o direito à vida norma emanada diretamente do texto constitucional e de caráter autoaplicável, independe de previsão orçamentária e o seu desatendimento ou o atendimento de modo a não garantir o fornecimento de medicamento viola o conjunto de normas disposta constitucionalmente e na legislação infraconstitucional.
+- É possível ao Poder Judiciário determinar a implantação de políticas públicas constitucionalmente previstas, sem que haja ingerência em questão que envolve o poder discricionário do Poder Executivo" (fl.65e).
+Nas razões do Recurso Especial, aduz a parte recorrente violação aos arts. 7º, XIII, da Lei 8.080/90, ao sustentar o seguinte:
+"O acórdão recorrido contraria o artigo 7º, XIII, da Lei 8.080/1990, e autoriza a interposição deste recurso através do permissivo da alínea "a".
+O Sistema Único de Saúde - SUS foi criado para que toda e qualquer pessoa que necessite de tratamento de saúde, seja atendido. Entretanto, os recursos são finitos, sendo necessário uma repartição de competências.
+Para disciplinar o SUS há várias normas: a Constituição Federal; a Lei Federal nº 8.080/90, que dispõe sobre as condições para promoção, proteção e recuperação da saúde, bem como a organização e o funcionamento dos serviços correspondentes; a Lei nº 8.142/90, que disciplina a participação da comunidade na gestão do SUS e sobre as transferências intergovernamentais de recursos
+financeiros na área da saúde; o Pacto pela Saúde de 2006 - Consolidação do SUS e suas diretrizes operacionais; a Norma Operacional da Assistência à Saúde - NOAS SUS 2002; a Norma Operacional Básica - NOB SUS 01/96; e Portarias do Ministério da Saúde.
+Através dessas normas foi realizada uma divisão para o fornecimento dos medicamentos com o intuito de que não haja ônus excessivo, e para que cada ente cumpra seu papel.
+É que, a Lei Federal n. 8.080/1990, em seu artigo 7º, XIII, determina, expressamente, que se observe a organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos, vejamos:
+Lei Federal n. 8.080/1990, em seu artigo 7º, XIII - Organização dos serviços públicos de modo a evitar duplicidade de meios para fins idênticos.
+Para cumprir esse comando legal, foram editadas várias Portarias pelo Ministério da Saúde, inclusive a lista RENAME.
+Ademais, há, como já dito, o Pacto pela Saúde de 2006 - Consolidação do SUS e suas diretrizes operacionais; a Norma Operacional da Assistência à Saúde - NOAS SUS 2002; a Norma Operacional Básica - NOB SUS 01/96.
+Não obstante, o próprio Judiciário, notadamente na primeira e na segunda instâncias, nem sempre observa essa divisão, sendo os mais prejudicados os Municípios, pois são obrigados a cumprir as competências da União e dos Estados.
+É certo que os Municípios são obrigados a disponibilizar os remédios constantes na lista da RENAME.
+Entretanto, os de alto custo e os referentes a situações excepcionais são de responsabilidade da União e dos Estados, aos quais cabe a aquisição e distribuição.
+Assim, é incabível afirmar que o Município possui responsabilidade de fornecer todo e qualquer medicamento, ficando isentos assim, os Estados e a União" (fls. 85/89e).
+Requer, ao final, o provimento do recurso.
+Não apresentadas as contrarrazões (fl. 91e), negado seguimento ao Recurso Especial (fls. 100/104e), foi interposto o presente Agravo (fls. 107/112e).
+Não foi apresentada a contraminuta (fl. 114e).
+A irresignação não merece acolhimento.
+A jurisprudência do STJ é firme no sentido de que o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, do Estados e dos Municípios, conforme se verifica dos seguintes precedentes:
+"ADMINISTRATIVO. FORNECIMENTO DE MEDICAMENTOS. SISTEMA ÚNICO DE SAÚDE (SUS). RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. SÚMULA 83/STJ.
+1. A Saúde Pública consubstancia direito fundamental do homem e dever do Poder Público, expressão que abarca a União, os Estados-membros, o Distrito Federal e os Municípios, todos em conjunto.
+2. O legislador pátrio instituiu um regime de responsabilidade solidária entre as pessoas políticas para o desempenho de atividades voltadas a assegurar o direito fundamental à saúde, que inclui o fornecimento gratuito de medicamentos e congêneres a pessoas desprovidas de recursos financeiros, para o tratamento de enfermidades. Incidência da Súmula 83/STJ.
+Agravo regimental improvido" (STJ, AgRg no AREsp 468.887/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 28/03/2014).
+"ADMINISTRATIVO. FORNECIMENTO DE REMÉDIO. PORTADOR DO VÍRUS HIV. OBRIGAÇÃO DA UNIÃO, ESTADOS, MUNICÍPIOS E DISTRITO FEDERAL. MEDICAMENTOS INDICADOS POR PRESCRIÇÃO MÉDICA. POSSIBILIDADE. DIREITO À VIDA E À SAÚDE.
+1. É assente o entendimento de que a Saúde Pública consubstancia direito fundamental do homem e dever do Poder Público, expressão que abarca a União, os Estados-membros, o Distrito Federal e os Municípios, todos em conjunto. Nesse sentido, dispõem os arts. 2º e 4º da Lei n. 8.080/1990.
+2. Assim, o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, do Estados e dos Municípios. Dessa forma, qualquer um destes entes tem legitimidade ad causam para figurar no polo passivo da demanda.
+3. "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não incorre em condenação genérica o provimento jurisdicional que determina ao Estado prestar tratamento de saúde e fornecer medicamentos necessários ao cuidado contínuo de enfermidades determinadas e já diagnosticadas por médicos" (AgRg no AREsp 24.283/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 04/04/2013, DJe 10/04/2013).
+4. Observa-se a perda de objeto dos embargos de declaração de fls. 319/325, visto que objetivavam o julgamento do presente agravo regimental, que estava sobrestado. Agravo regimental improvido. Embargos de declaração prejudicados". (STJ, AgRg no Ag 822.197/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 09/12/2013).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
