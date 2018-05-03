@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIVERSIDADE FEDERAL DE SERGIPE, com respaldo na alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 189/190):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. UFS. DOCENTES. ADICIONAL DE INSALUBRIDADE. ART. 12 DA LEI Nº 8.270/91. PAGAMENTO RETROATIVO. PERÍODO ANTERIOR AO LAUDO PERICIAL. IDÊNTICA SITUAÇÃO DE FATO. CARACTERIZAÇÃO DA INSALUBRIDADE.
+I. De acordo com o art. 12 da Lei nº 8.270/91, os servidores civis da União, das autarquias e das fundações públicas federais perceberão adicionais de insalubridade nos termos das normas legais e regulamentares pertinentes aos trabalhadores em geral e calculados com base nos seguintes percentuais de cinco, dez e vinte por cento, no caso de insalubridade nos graus mínimo, médio e máximo, respectivamente.
+II. Conforme as declarações emitidas pela UFS, os docentes/apelados estão expostos à condições insalubres desde o ingresso na universidade, ocorrido respectivamente em 1997 e 1999.
+III. O entendimento firmado pela Corte Superior é no sentido de que "Os servidores públicos federais passaram a fazer jus ao adicional de insalubridade com o advento da Lei n.º 8.270, de 17/12/1991, desde que a atividade estivesse inclusa nos quadros do Ministério do Trabalho, nos termos do 195 da Consolidação das Leis do Trabalho, sendo o pagamento do adicional devido a partir da referida inclusão, como prevê o art. 196 do mesmo diploma legal, e não da realização do laudo pericial" (REsp 712.952/AL, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 01/03/2005, DJ 04/04/2005, p. 352).
+IV. Assim, reconhecido o caráter insalubre das atividades desempenhadas pelos requerentes, e considerando que a situação de fato que originou o pagamento não se alterou, é devido o pagamento do adicional no período anterior à emissão do laudo.
+V. Como a prescrição não corre entre a data do requerimento administrativo e a data da decisão, e uma vez que a ação foi ajuizada dentro do prazo prescricional quinquenal, somente estão prescritas as parcelas anteriores aos cinco anos que antecederam o pleito administrativo, no caso, anteriores a 28/02/1998.
+VI. Juros de mora de acordo com o disposto na Lei nº 11.960/2009, que deu nova redação ao art. 1º-F da Lei nº 9.494/97, a qual determinou que para a atualização monetária, remuneração do capital e compensação de mora, nas condenações impostas à Fazenda Pública, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+VII. Honorários advocatícios nos termos da sentença.
+VIII. Apelação e remessa oficial improvidas
+Embargos declaratórios rejeitados (e-STJ fl. 205)
+No especial, a parte recorrente apontou violação dos arts. 61, IV, da Lei n. 8.112/1990, 60 do Decreto Lei n. 97.458/1989, bem como do artigo 267, VI, do CPC/1973, sustentando a impossibilidade do pagamento do adicional de insalubridade, em período anterior à emissão do laudo pericial para constatação da existência de condições prejudiciais à saúde.
+Contrarrazões às fls. 223/237.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Com efeito, percebe-se que a recorrente, apesar de alegar a pura e simples impossibilidade de pagamento do adicional em período anterior à emissão do laudo técnico, não se insurgiu especificamente quanto ao fato de que a própria autarquia já havia emitido declarações no sentido de que os recorridos estavam expostos à condições insalubres desde o ingresso na universidade (e-STJ fl. 186).
+Assim, verifica-se que a pretensão recursal está desassociada dos fundamentos do aresto recorrido, devendo a argumentação ser considerada deficiente, ensejando, portanto, a aplicação da Súmula 284 do STF.
+Além disso, faz-se mister ressaltar a impossibilidade de aferir a idoneidade das declarações formuladas pela recorrente para fins de pagamento do adicional de insalubridade, pois demandaria o revolvimento de matéria-fático probatória, o que encontra óbice na Súmula 7 do STJ.
+Por fim, cumpre salientar que "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do novo CPC" (Enunciado Administrativo n. 7 do Plenário do STJ, sessão de 09/03/2016), o que não é o caso dos autos.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se.
+Intimem-se.
