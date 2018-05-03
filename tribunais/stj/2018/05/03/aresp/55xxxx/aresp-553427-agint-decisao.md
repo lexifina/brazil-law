@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RENÚNCIA À PRETENSÃO FORMULADA NA AÇÃO. ARTIGO 487, III, "C", DO CPC/2015. VINCULAÇÃO DO JUIZ AO DIREITO POTESTATIVO DA PARTE. HOMOLOGAÇÃO. RESOLUÇÃO DE MÉRITO. PREJUDICADA A ANÁLISE DOS AGRAVOS INTERNOS E DAS PETIÇÕES POSTERIORES.
+DECISÃO
+Vistos etc.
+Trata-se de agravos internos interpostos por DESENVOLVIMENTO ENGENHARIA LTDA - MASSA FALIDA e [NOME] em face de decisão monocrática cuja ementa restou consignada nos seguintes termos:
+"AGRAVOS EM RECURSOS ESPECIAIS. PROCESSUAL CIVIL (CPC/73). AÇÃO DE USUCAPIÃO.
+I - PEDIDO DE ASSISTÊNCIA. DEFERIMENTO NA MODALIDADE SIMPLES.
+II - MANIFESTAÇÕES DE TERCEIRO ESTRANHO À LIDE. NADA A DECIDIR.
+III - RECURSO ESPECIAL DE BRADIC EMPREENDIMENTOS IMOBILIÁRIOS LTDA. DEFICIENTE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ANALOGIA. ART. 535 DO CPC/73. OMISSÃO E CONTRADIÇÃO. INOCORRÊNCIA. MERA PRETENSÃO DE REJULGAMENTO DA CAUSA. RECURSO QUE NÃO REFUTA FUNDAMENTO APTO A MANTER A CONCLUSÃO DO ARESTO IMPUGNADO. SÚMULA 283/STF. ANALOGIA.
+IV - RECURSO ESPECIAL DE DESENVOLVIMENTO ENGENHARIA LTDA - MASSA FALIDA. ART. 535 DO CPC/73. OMISSÃO. INOCORRÊNCIA. MERA PRETENSÃO DE REJULGAMENTO DA CAUSA. RECURSO QUE NÃO REFUTA FUNDAMENTO APTO A MANTER A CONCLUSÃO DO ARESTO IMPUGNADO. SÚMULA 283/STF. ANALOGIA.
+V - RECURSO ESPECIAL DE COUNTRY CLUB DE CAÇA E PESCA. ART. 535 DO CPC/73. OMISSÃO. INOCORRÊNCIA. MERA PRETENSÃO DE REJULGAMENTO DA CAUSA. REVOLVIMENTO DO QUADRANTE FÁTICO-PROBATÓRIO DA CAUSA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+VI - AGRAVOS CONHECIDOS PARA NEGAR PROVIMENTO AOS RECURSOS ESPECIAIS NA PARTE CONHECIDA." (e-STJ fl. 2085).
+Nas petições ns. 00173777/2018 e 00173847/2018 (e-STJ fls. 2635/2636 e 2637/2638), nas quais COUNTRY CLUB DE CAÇA E PESCA apresenta-se como requerente, esta informa "sua renúncia à pretensão formulada na inicial, na forma do artigo 487, III, "c", esperando seja a mesma homologada".
+Devidamente instada a comprovar a regularidade de sua representação processual, bem como os poderes específicos dos subscritores para a renúncia à pretensão formulada na ação de usucapião que deu origem ao presente recurso, a parte cumpriu a determinação, além de ter ratificado todos os atos anteriormente praticados (e-STJ fls. 2674/2675).
+Isso posto, tenho que a renúncia ao direito sobre o qual se funda a ação é uma prerrogativa do autor que não depende da concordância da parte contrária, ou seja, trata-se de direito potestativo da parte.
+Assim, desde já, cabe a análise e homologação do pedido de renúncia formulado.
+Nesse sentido, colhe-se da doutrina de Marinoni, Arenhart e Mitidiero o seguinte ensinamento:
+"Renúncia à pretensão. A renúncia à pretensão concerne ao direito material e resolve o mérito da causa (art. 487, III, c, CPC). Há formação de coisa julgada. Não se confunde com a desistência da ação (art. 485, VIII, CPC), que diz respeito tão somente ao plano do direito processual e não alcança de maneira nenhuma o direito material. A renúncia ao direito deve ser expressa e inequívoca, não sendo possível extrair da simples desistência da ação renúncia ao direito material (STJ, 1.ª Turma, REsp 850.737/MG, rel. Min. Francisco Falcão, j. 26.09.2006, DJ 23.10.2006, p. 277). A renúncia pode se dar a qualquer tempo no processo. Pode-se renunciar até a formação da coisa julgada (STJ, 4.ª Turma, REsp 19.758/RS, rel. Min. Sálvio de Figueiredo Teixeira, j. 03.05.1994, DJ 30.05.1994, p. 12.485). O juiz está vinculado ao ato da parte, tendo simplesmente de homologá-lo por sentença. A homologação depende de ser o agente capaz e de ser renunciável o direito."
+(Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero. Código de Processo Civil comentado  livro eletrônico , 4ª ed. em e-book baseada na 4.ª ed. impressa. São Paulo: Thomson Reuters Brasil, 2018, p. 106, grifei).
+Ante o exposto, sendo disponível o direito e possuindo os procuradores da parte poderes específicos para tanto, HOMOLOGO A RENÚNCIA à pretensão formulada na ação, JULGANDO EXTINTO O PROCESSO, COM RESOLUÇÃO DO MÉRITO, nos termos do disposto no art. 487, III, "c", do Código de Processo Civil de 2015, restando, por conseguinte, prejudicada a análise dos agravos internos de e-STJ fls. 2.120/2.128 e 2.129/2.163, bem como das petições posteriores.
+A parte requerente deverá arcar com as custas processuais e honorários advocatícios, nos termos do art. 90 do CPC/15.
+Intimem-se.
