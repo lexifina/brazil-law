@@ -1,0 +1,19 @@
+DECISÃO
+KLEYDSON SOUZA CORREA, paciente neste habeas corpus substitutivo de recurso ordinário, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de decisão proferida por desembargador do Tribunal de Justiça do Estado do Paraná no Habeas Corpus n. 0014083-73.2018.8.16.0000.
+Pleiteou a defesa, perante a Corte de origem, a revogação da prisão preventiva, decretada em 29/8/2017, porquanto não estariam presentes os requisitos estabelecidos nos arts. 312 e 313 do Código de Processo Penal, além de estar configurado excesso de prazo para o encerramento do feito. O Desembargador relator, por sua vez, indeferiu o pleito liminar.
+Decido.
+Inicialmente, destaca-se que as matérias aventadas neste habeas corpus não foi objeto de análise pelo Tribunal a quo, o que impediria sua admissão, sob pena da indevida supressão de instância.
+Nesse contexto, cumpre esclarecer os termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, segundo a qual "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+O referido impeditivo é ultrapassado tão somente em casos excepcionais, nos quais a ilegalidade é tão flagrante de modo a não escapar à pronta percepção do julgador, o não que ocorre nos autos.
+Primeiramente, no que tange à manutenção da prisão preventiva, a Corte de origem, ao manter a medida, apontou que "o paciente é suspeito de integrar organização criminosa extremamente aparelhada e voltada à prática específica de crimes relacionados a roubos, furtos e desmanches de veículos, de onde se depreende que, em liberdade, certamente encontraria os mesmos estímulos criminosos que o levaram a praticar, em tese, os crimes descritos na denúncia" (fl. 19, sublinhei).
+A esse respeito, urge consignar, ainda, que "se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo" (RHC n. 70.101/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/10/2016, destaquei).
+Destaco o precedente abaixo:
+ ..
+II - No caso, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, aptos a demonstrar a indispensabilidade da prisão para a garantia da ordem pública, notadamente se considerada a periculosidade do agente, tendo em vista, em tese, pertencer à organização criminosa com a "finalidade de praticar delitos de roubo, furto, receptação, falsificação de documento público e adulteração de sinal identificador de veículo automotor".
+III - Sobre o tema, já se pronunciou o col. Supremo Tribunal Federal no sentido de que "A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (HC n. 95.024/SP, Primeira Turma, Relª. Minª. Cármen Lúcia, DJe de 20/2/2009).
+ ..
+Recurso ordinário não provido (RHC n. 86.230/DF, Rel. Ministro Felix Fischer, 5ª T., DJe 22/9/2017, destaquei).
+Ademais, quanto ao suposto excesso de prazo, o Desembargador relator asseverou que é "situação que merece ser melhor analisada após a prestação de informações pela autoridade impetrada, seguida do pronunciamento ministerial, haja vista que, à luz da complexidade e das peculiaridades do feito em questão, até o momento, verifica-se a regularidade do trâmite processual" (fl. 19, grifei).
+Assim, diante das razões asseveradas, não vislumbro a possibilidade de infirmar os elementos trazidos pelas instâncias ordinárias, especialmente, em momento tão precoce, dado o não julgamento do mérito do writ originário.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente este habeas corpus.
+Publique-se e intimem-se.
