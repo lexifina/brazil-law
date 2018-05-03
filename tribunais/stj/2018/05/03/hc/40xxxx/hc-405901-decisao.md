@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de [NOME], no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Os autos dão conta de que o Juízo da 1ª Vara do Júri e das Execuções Criminais da Comarca de Ribeirão Preto/SP deferiu o pedido de comutação de pena formulado com base no Decreto n. 8.615/2015 (e-STJ fl. 91).
+Irresignado, o Ministério Público estadual interpôs agravo em execução penal, que foi provido, nos termos do acórdão assim ementado (e-STJ fl. 8):
+Agravo em Execução - Comutação de penas com base no Decreto n. 8.615/15 - Recurso Ministerial requerendo a cassação da comutação de penas concedida, por ausência do requisito objetivo - Sentenciado que cumpria pena por diversas condenações - Processos de execução que tiveram as penas extintas pelo cumprimento antes da publicação do referido Decreto Presidencial que não devem integrar o cálculo para a concessão do benefício - Aferição do quantum cumprido que deve ser feito com base nas penas em cumprimento e nas penas a cumprir - Impossibilidade de as reprimendas extintas integrarem o cálculo - Ausência do preenchimento do requisito objetivo - Recurso Ministerial provido.
+Neste writ, a Defensoria Pública do Estado de São Paulo afirma que o paciente preenche os requisitos necessários à concessão da comutação, tendo em vista que, além de não ter cometido qualquer falta grave nos 12 (doze) meses anteriores à publicação do decreto presidencial, teria preenchido o requisito objetivo, ao argumento de que o cálculo para a obtenção do benefício deve levar em consideração o total das penas, e não somente o restante da pena a cumprir.
+Por fim, requer a concessão da ordem, "para o fim de afastar a decisão determinada pelo TJ/SP que cassou o benefício, restabelecendo a comutação da pena concedida em primeira instância pela MMa. Juíza de 1º grau" (e-STJ fl. 5).
+Não houve pedido liminar.
+Foram prestadas as informações (e-STJ fls. 100/135).
+O Ministério Público Federal, ao se manifestar, opinou pelo não conhecimento do habeas corpus, ou, caso conhecido, pela sua denegação (e-STJ fls. 137/142).
+É, em síntese, o relatório.
+No caso dos autos, o Juízo da execução concedeu a comutação ao ora paciente, consignando, para tanto, que (e-STJ fl. 91):
+Com razão o nobre defensor, porquanto, melhor analisando os autos observo que a decisão de fls. 26 baseou-se em cálculo desatualizado, constante dos autos, não mencionado na decisão.
+Dessa forma, conheço dos embargos, e passo a retratação.
+Consoante demonstrado nos autos, especialmente do cálculo elaborado às fls. 109/121 do apenso situação processual, o pedido atende todas as exigências legais do Decreto 8.615/15, restando preenchidos os requisitos necessários para concessão.
+Isto posto, DEFIRO o requerido pelo(a) sentenciado(a), para conceder a comutação de 1/5 do restante da pena imposta.
+O Tribunal de origem, ao reformar a decisão, assim se manifestou (e-STJ fls. 11/12):
+O Ministério Público, inconformado com o r. decisum, sustenta que, diante do fato de as execuções 06 e 08 terem sido extintas pelo cumprimento em data anterior à publicação do referido Decreto Presidencial, elas não poderiam integrar o cálculo para a análise da comutação, razão pela qual o reeducando não faz jus ao benefício.
+O recurso comporta provimento.
+De fato, consoante se verifica às fls. 10-v, as Execuções de n. 06 e 07 foram extintas pelo cumprimento no período anterior ao Decreto 8.615/15.
+E o referido Decreto, ao estabelecer o regramento para a comutação de penas, dispôs, em seu art. 2º, caput: "Concede-se a comutação da pena remanescente, aferida em 25 de dezembro de 2015, de um quarto, se não reincidentes, e de um quinto, se reincidentes, às pessoas condenadas a pena privativa de liberdade, não beneficiadas com a suspensão condicional da pena que, até a referida data, tenham cumprido um quarto da pena, se não reincidentes, ou um terço, se reincidentes, e não preencham os requisitos deste Decreto para receber o indulto" (destaquei).
+ ..
+Assim, levando-se em conta apenas as penas referentes às execuções em cumprimento e a cumprir (processo de Execução 08 - condenação à 01 ano, 07 meses e 10 dias; e processo de Execução 09 - condenação à pena de 05 anos e 04 meses), denota-se que o reeducando, reincidente, não cumpriu requisito temporal exigido pelo Decreto.
+Ante o exposto, pelo meu voto, dou provimento ao recurso Ministerial para cassar a comutação de 1/5 (um quinto) da pena restante do sentenciado [NOME], diante da ausência do requisito objetivo, determinando-se a realização de novo cálculo de penas.
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, na medida em que, quando a defesa formulou o pedido de comutação das penas, o paciente já havia cumprido duas execuções, segundo se depreende de sua folha de antecedentes criminais (e-STJ fls. 130/135), e conforme acórdão impugnado (e-STJ fl. 11).
+Como bem ponderou o Ministério Público Federal, "como se observa a olho desarmado, de lege lata tem-se, pois, que somente as execuções que componham, efetivamente, a pena "remanescente", aferida como tal na data de publicação do Decreto Presidencial, devem ser consideradas na respectiva base de cálculo para apuração do cumprimento do requisito objetivo, afastando-se dele as reprimendas corporais já cumpridas anteriormente à sua publicação" (e-STJ fl. 142).
+A propósito:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO. INADEQUAÇÃO DA VIA. EXECUÇÃO. INDULTO. DECRETO 8.172/2013. INCIDÊNCIA SOBRE PENAS JÁ EXTINTAS. IMPOSSIBILIDADE. ILEGALIDADE PATENTE. INEXISTÊNCIA. WRIT NÃO CONHECIDO.
+1. Por se tratar de habeas corpus substitutivo de recurso ordinário, inviável o seu conhecimento, devendo ser analisada, entretanto, a existência de ilegalidade flagrante.
+2. O indulto é um benefício concedido durante a execução que visa abreviar as penas em cumprimento pelo sentenciado quando da edição do decreto.
+3. Writ não conhecido.
+(HC 374.192/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, grifei).
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. INDULTO DE PENAS. DECRETO N. 8.380/2014. INCIDÊNCIA SOBRE PENA JÁ EXTINTA. PLEITO FORMULADO QUANDO A REPRIMENDA JÁ HAVIA SIDO CUMPRIDA. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. HABEAS CORPUS NÃO CONHECIDO.
+I - Não mais se admite, perfilhando o entendimento do col. Pretório Excelso e da eg. Terceira Seção deste Superior Tribunal de Justiça, a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Contudo, no caso de se verificar configurada flagrante ilegalidade, recomenda a jurisprudência a concessão da ordem de ofício.
+II - Não é possível se decidir acerca da incidência de indulto ou de comutação sobre reprimenda já extinta, quando os benefícios não foram nem mesmo pleiteados no curso do desconto da reprimenda.
+III - "O indulto é um beneficio concedido durante a execução que visa abreviar as penas em cumprimento pelo sentenciado quando da edição do decreto" (HC 374.192/SP, Sexta Turma, Rela. Min. Maria Thereza de Assis Moura, DJe 29/11/2016).
+IV - Na hipótese, a defesa formulou pedido de comutação, com apoio no Decreto n. 8.380/2014, sob o fundamento de que o paciente já havia cumprido 1/3 (um terço) da pena, considerando para este fim inclusive a sanção cumprida na primeira execução em 17/4/2007, a qual, consoante precedentes desta Corte de Justiça, não poderá ser considerada. Dessa forma, havendo o pedido do benefício sido formulado quando a pena já estava extinta, não há ilegalidade no seu indeferimento. Habeas corpus não conhecido (HC 414.534/SP, relator o Ministro FELIX FISCHER, QUINTA TURMA, DJe de 6/12/2017, grifei).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
