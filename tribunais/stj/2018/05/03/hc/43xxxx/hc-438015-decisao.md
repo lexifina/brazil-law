@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LEU VIEIRA DE MOURA, apontando-se como autoridade coatora o Tribunal Regional Federal da 4ª Região (Habeas Corpus n.º 5069967-05.2017.4.04.0000/PR).
+Consta dos autos que o Juízo da 5ª Vara Federal de Foz do Iguaçu/PR, nos Autos n.º 5004579-04.2017.4.04.7002/PR, decretou a prisão preventiva do paciente e outros acusados, tendo em vista a prática do delito do art. 35, c.c art. 40, I, ambos da Lei 11.343/06. Eis o teor da decisão, no que interessa (fls. 62/64):
+(..)
+Conforme já mencionado acima, os indícios de autoria quanto ao delito de associação para o tráfico de drogas estão presentes quando analisada a relação de LEU com JONAS NEI, em nome de quem realizou grande parte da negociação relacionada no fato 4, tendo vindo pessoalmente a esta região de fronteira tratar com o grupo de FIDELCINO. Tal proceder não condiz com uma atuação esporádica ou eventual, mas sim com uma união existente já há tempo suficiente a garantir a confiança entre os associados.
+Assinalo, ainda, a existência de anotações criminais em desfavor de LEU pela prática de diversos tipos de delitos, como roubo, porte ilegal de arma de fogo, associação criminosa, entre outros (evento 12, CERTANTCRIM11).
+Detalhes da atuação se encontram na representação policial associada ao evento 1, "REPRESENTACAO_ BUSCAl", p. 42-43.
+Portanto, de acordo com as provas constantes nos autos, há fortes indícios do envolvimento de [NOME] no crime de associação para o tráfico internacional de substâncias entorpecentes investigado, considerando-se o fato ao qual ele foi vinculado e os diversos diálogos representativos de que ele se mantém estável e perenemente vinculado com outros indivíduos para o desenvolvimento de atividades ilícitas.
+Assim, há suficientes indícios a sustentar a prática do crime previsto no art. 35, c/c art. 40, I, ambos da Lei 11.343/06, por [NOME].
+Na hipótese do investigado, justifica-se a imposição da prisão preventiva para garantia da ordem pública, em virtude do risco concreto de reiteração criminosa.
+Como já consignado, o investigado está vinculado a pelo menos uma negociação de grande quantidade de drogas (2 ou 6 toneladas). Ademais, sua forma de atuação demonstra experiência, sintomática de que o caso não detém contornos de amadorismo.
+Nesse cenário, tendo em vista os evidentes sinais de habitual idade, bem como a alta lucratividade da traficância, tudo indica que se o investigado não for preso preventivamente muito provavelmente continuará a delinquir.
+Assim, a decretação da prisão preventiva se impõe para assegurar que cesse a prática continuada e reiterada do crime de associação para o tráfico de drogas, sob pena de ficar fragilizada a ordem pública.
+Ante o exposto, conforme razões supracitadas, DECRETO A PRISÃO PREVENTIVA de LÉU VIEIRA DE MOURA, pois presentes os indícios de autoria e materialidade do crime previsto no art. 35 c/c art. 40, I, ambos da Lei 11.343/06, buscando-se, com a medida, a garantia da ordem pública (art. 312 do Código de Processo Penal).
+Impetrado habeas corpus na Corte de origem, a ordem foi denegada (fls. 12/23), com a seguinte fundamentação:
+5. Conforme referiu o magistrado de origem, há fortes indícios do envolvimento de [NOME] no crime de associação para o tráfico internacional de substâncias entorpecentes investigado, considerando-se o fato ao qual ele foi vinculado e os diversos diálogos representativos de que ele se mantém estável e perenemente vinculado com outros indivíduos para o desenvolvimento de atividades ilícitas.
+Portanto, não se há falar em constrangimento ilegal. Mesmo sem implicar antecipação do juízo de cognição plena, há fortes indicativos de que o paciente participou ativamente do delito de tráfico de drogas, bem como que integra associação criminosa voltada para tal fim.
+6. Nessa linha, inviável até mesmo a substituição por restrição alternativa prevista no art. 319 do Código de Processo Penal. Na esteira dos precedentes do Tribunal e diante do caso concreto, "as medidas cautelares diversas da prisão, previstas no artigo 319 do Código de Processo Penal, com a redação dada pela Lei nº 12.409/11, não se mostram suficientes para garantir a ordem pública, já que não se apresentam eficazes a obstar o agir delituoso" (HC nº 5027740-39.2013.404.0000, 7ª TURMA, Juiz Federal LUIZ CARLOS CANALLI, EM 03/12/2013).
+Daí o presente mandamus, no qual a defesa afirma que nos autos da ação penal 5004579-04.2017.404.7002, verificou-se não haver indícios mínimos de autoria/ e/ou participação do ora paciente, notadamente diante dos depoimentos prestados pelos policiais federais, que não souberam indicar quaisquer elementos que levassem a apontar a prática de ato ilícito por parte do paciente.
+Assevera que não há elementos de convicção da prática criminosa pelo paciente, pois além dos depoimentos prestados serem frágeis no tocante à autoria, não relatam qualquer convicção da participação do paciente, sendo deduções sem qualquer base indiciária.
+Sustenta o fundamento baseado nos antecedentes e anotações criminais não são suficientes para a manutenção da custódia cautelar imposta, pois os registros referem-se acerca de fatos ocorridos há mais de 10 anos, não podendo ser levados em consideração para justificar a prisão, de modo que interpretaria a não cessação de eventuais condutas ilícitas praticadas pelo paciente, que na última década não praticou ou participou de conduta considerada crime.
+Pontua que a gravidade em abstrato do delito, por si só, não podem justificar a prisão preventiva.
+Consigna que a segregação cautelar é medida excepcional e somente se justifica quando presentes os requisitos do art. 312 do CPP.
+Assinala que não há indício que o acusado integre organização ou grupo criminoso, que tenha coagido testemunhas, destruído provas ou que ofereça risco às investigações.
+Enfatiza que o paciente possui residência fixa, compareceu espontaneamente aos autos, não se furtando das acusações impostas.
+Invoca o princípio da presunção de inocência
+Requer, liminarmente e no mérito, que seja revogado o decreto prisional e aplicada medida alternativa da prisão, nos moldes do art. 319 do CPP.
+A liminar foi indeferida às fls. 150-153.
+Foram juntadas informações às fls. 157-170 e 172-181.
+O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República [NOME], manifestou-se "pelo não conhecimento do writ, ou se conhecido, quando ao mérito, que seja denegação a ordem". (fls. 184-189).
+É o relatório.
+De saída, ressalte-se não ser possível, nesta via, avaliar a tese de negativa de autoria, dada a impossibilidade de análise aprofundada das provas.
+Quanto à carência na fundamentação da custódia cautelar, verifica-se que a matéria já foi apreciada por esta Corte, por ocasião do julgamento do HC nº 407.895/SP, no qual, em 21/11/2017, a ordem foi denegada, nos seguintes termos da ementa:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS E RESPECTIVA ASSOCIAÇÃO. PRISÃO CAUTELAR. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A prisão provisória é medida odiosa, reservada para os casos de absoluta imprescindibilidade, demonstrados os pressupostos e requisitos de cautelaridade.
+2. Na hipótese, está presente a gravidade in concreto dos fatos a ensejar o resguardo da ordem pública, visto que o paciente, em tese, integrava grupo criminoso voltado para o crime de tráfico internacional de entorpecentes, com "grau razoável de esquematização e organização do delito, sintomáticos de que há profissionalismo nas condutas que vem sendo praticada", conforme consignado pelo magistrado. O acusado, em tese, seria motorista de um corréu e estaria vinculado a pelo menos uma negociação de grande quantidade de drogas (2 ou 6 toneladas), destacando-se que "sua forma de atuação demonstra experiência, sintomática de que o caso não detém contornos de amadorismo". Além disso, o paciente seria renitente na prática delitiva, porquanto ostenta outros envolvimentos criminais.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Ordem denegada.
+Deste modo, constatando-se que já foi realizada a prestação jurisdicional quanto ao referido tema, verifica-se a manifesta ausência de interesse para o manejo do presente writ.
+Diante do exposto, com fundamento no art. 34, XVIII, "a", do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se.
+Sem recurso, arquivem-se os autos.
