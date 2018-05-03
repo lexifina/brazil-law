@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO E RECURSO ESPECIAL INTERPOSTOS SOB A ÉGIDE DO NCPC. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. INTERESSE PROCESSUAL. REEXAME DE PROVAS. SÚMULA 7 DO STJ. A SÚMULA 7 DO STJ É ÓBICE PARA O DISSÍDIO JURISPRUDENCIAL. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+IZABEL DOS SANTOS (IZABEL) ajuizou ação cautelar de exibição de documentos contra LUIZACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO (LUIZACRED), que foi julgada procedente e extinta com base no art. 269, inc. I, do CPC.
+A apelação interposta por LUIZACRED não foi provida pelo Tribunal de origem, nos termos da seguinte ementa:
+Ação Cautelar. Exibição de documentos. O interesse de agir restou caracterizado no caso concreto. Foram atendidos os requisitos previstos na jurisprudência consolidada do C. Superior Tribunal de Justiça. Sentença mantida. Recurso improvido.
+Os dois embargos de declaração interpostos por LUIZACRED foram rejeitados. (e-STJ fls. 139/143 e 150/153)
+Inconformada, LUIZACRED interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando violação do art. 485, inc. VI, do NCPC, ao sustentar que (1) a autora não possui interesse processual, pois não esgotou as vias administrativas adequadas oferecidas pela instituição financeira; (2) a notificação enviada ao autora era genérica, não constando qualquer documento pessoal da parte; e, (3) divergência jurisprudencial.
+O apelo nobre não foi admitido em virtude (i) da incidência da Súmula 7 do STJ, e (ii) de não haver divergência entre o julgado paradigma e acórdão recorrido.
+Nas razões do presente agravo em recurso especial, LUIZACRED sustentou que (a) não é caso de incidência da referida súmula, e (b) não há decisão divergente entre acórdão recorrido e acórdão paradigma.
+Sem impugnação.
+É o relatório.
+Decido.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A irresignação não merece prosperar.
+(1) (2) Do art. 485, inc. VI, do NCPC
+Inicialmente, na Segunda Seção do Superior Tribunal de Justiça, no julgamento do Recurso Especial 1.349.453/MS, processado nos termos do art. 543-C do CPC, foi firmado o entendimento de que "A propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável e o pagamento do custo do serviço conforme previsão contratual e a normatização da autoridade monetária." (REsp 1349453/MS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10/12/2014, DJe 02/02/2015). O julgado recebeu a seguinte ementa:
+PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA. EXIBIÇÃO DE EXTRATOS BANCÁRIOS. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. PEDIDO PRÉVIO À INSTITUIÇÃO FINANCEIRA E PAGAMENTO DO CUSTO DO SERVIÇO. NECESSIDADE.
+1. Para efeitos do art. 543-C do CPC, firma-se a seguinte tese: A propositura de ação cautelar de exibição de documentos bancários (cópias e segunda via de documentos) é cabível como medida preparatória a fim de instruir a ação principal, bastando a demonstração da existência de relação jurídica entre as partes, a comprovação de prévio pedido à instituição financeira não atendido em prazo razoável, e o pagamento do custo do serviço conforme previsão contratual e normatização da autoridade monetária.
+2. No caso concreto, recurso especial provido.
+(REsp 1349453/MS, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, DJe 02/02/2015)
+Nos termos da jurisprudência desta Corte, na ação de exibição de documentos deve estar caracterizada a pretensão resistida da instituição financeira para que haja sua condenação aos ônus sucumbenciais.
+Esta pacificado neste Tribunal que, "apresentada prontamente pela parte ré a documentação pleiteada e não comprovada a recusa anterior, descabe a condenação desta nos ônus sucumbenciais, pela aplicação do princípio da causalidade. (REsp n. 453.790-RS, Rel. Min. Carlos Alberto Menezes Direito, DJU de 04.08.2003; REsp n. 533.866-RS, Rel. Min. Aldir Passarinho Junior, DJU de 31.05.2004); (AgRg no REsp 861.457/DF, Rel. Ministro ALDIR PASSARINHO JUNIOR, DJ 20/08/2007).
+No caso, a Corte estadual, após análise do conjunto fático probatório dos autos, concluiu que a autora tem interesse processual, assim consignando:
+Na espécie, a autora comprovou que encaminhou à ré notificação extrajudicial, consoante documentos de fls. 19/20, a qual conta com assinatura de recebimento e carimbo da requerida, na data de 16/04/2015.
+Em nenhum momento a ora apelante negou o recebimento da carta, nem demonstrou o envio de resposta à apelada, mesmo com a finalidade de, eventualmente, esclarecer para a autora a forma adequada de se postular a exibição dos documentos.
+Assim, não restou outra alternativa à requerente senão o ajuizamento da presente ação, ressaltando-se que, em contestação, a ré informou que não cobra tarifa para a prestação do serviço de exibição de cópia de contrato (fls. 28).
+Todos os requisitos insculpidos na jurisprudência do C. Superior Tribunal de Justiça restaram configurados no presente caso, restando patente o interesse processual da autora. Ademais, a apelante acostou aos autos apenas faturas de determinados cartões de crédito, sem apresentar os contratos que foram objeto da negativação do nome da apelada. Correta, portanto, a condenação da recorrente a exibir os documentos faltantes. (e-STJ fls. 129/130)
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido:
+"PROCESSUAL CIVIL. EXIBIÇÃO DE DOCUMENTOS. ÔNUS DE SUCUMBÊNCIA. PRETENSÃO RESISTIDA. EXISTÊNCIA DE PRÉVIO PEDIDO ADMINISTRATIVO. OCORRÊNCIA. REEXAME DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. Nas ações cautelares de exibição de documentos, em razão dos princípios da sucumbência e da causalidade, haverá condenação a honorários advocatícios quando estiver caracterizada a resistência à exibição dos documentos pleiteados.
+2. Na hipótese, o Tribunal local entendeu que ficou configurada a resistência à exibição, pois houve o prévio pedido administrativo e os documentos somente foram apresentados em Juízo.
+3. Assim, modificar a conclusão a que chegou o Tribunal de origem implica reexame do conjunto fático-probatório dos autos, o que é obstado em Recurso Especial, ante o óbice da Súmula 7 do STJ.
+4. Recurso Especial não conhecido."
+(REsp 1.654.987/MG, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. em 06/04/2017, DJe 25/04/2017)
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. INTERPOSIÇÃO DE DOIS RECURSOS. PRECLUSÃO CONSUMATIVA. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. PRETENSÃO RESISTIDA. REVISÃO. SÚMULA N. 7/STJ. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. SÚMULA N. 83/STJ.
+1. Interpostos dois recursos pela mesma parte contra a mesma decisão, é inviável o conhecimento do segundo recurso em razão da preclusão consumativa.
+2. Estando caracterizada nos autos a resistência à exibição de documentos pleiteados na via administrativa, é cabível a condenação a honorários advocatícios em virtude da sucumbência no feito.
+3. A comprovação de que não houve prévia recusa administrativa à exibição de documento demanda o reexame do conjunto fático-probatório dos autos, o que é vedado na instância especial, nos termos da Súmula n. 7/STJ.
+4. Agravo regimental provido."
+(AgRg no REsp 1.431.875/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. em 15/09/2015, DJe 21/09/2015)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. SUCUMBÊNCIA. NÃO OCORRÊNCIA DE PRETENSÃO RESISTIDA. AGRAVO IMPROVIDO.
+1. Em ação de exibição de documentos, para haver condenação em honorários advocatícios, deve estar caracterizada, nos autos, a resistência à exibição dos documentos pleiteados.
+2. No caso, o Tribunal de origem concluiu inexistir a alegada pretensão resistida, seja porque, conforme acórdão recorrido, não houve pedido válido na esfera administrativa, seja porque a parte ré apresentou os documentos pleiteados junto com a contestação.
+3. Agravo regimental improvido."
+(AgRg no REsp 1.409.614/RS, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. em 25/08/2015, DJe 16/09/2015)
+AGRAVO REGIMENTAL NO AGRAVO. EXIBIÇÃO DE DOCUMENTOS. HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO NÃO RESISTIDA. MAJORAÇÃO. IMPOSSIBILIDADE. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- O Acórdão recorrido, embora entendendo não ser possível a condenação do réu em custas e honorários, por considerar não caracterizada a pretensão resistida, deixou de reformar a sentença que condenou a instituição financeira ao pagamento dos honorários advocatícios em razão da vedação da reformatio in pejus, já que não houve recurso por parte desta.
+2.- Desta forma, não há como acolher o pleito de majoração dos honorários advocatícios, uma vez que tal posicionamento coaduna-se com a jurisprudência desta Corte é no sentido de que "apresentada prontamente pela parte ré a documentação pleiteada e não comprovada a recusa anterior, descabe a condenação desta nos ônus sucumbenciais, pela aplicação do princípio da causalidade (REsp n. 453.790-RS, Rel. Min. Carlos Alberto Menezes Direito, DJU de 04.08.2003; REsp n. 533.866-RS, Rel. Min. Aldir Passarinho Junior, DJU de 31.05.2004); (AgRg no REsp 861.457/DF, Rel. Ministro ALDIR PASSARINHO JUNIOR, DJ 20/08/2007).
+3.- O agravo não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos. 4.- Agravo Regimental improvido."
+(AgRg no AREsp 262.723/RS, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. em 19/2/2013, DJe de 28/2/2013) (sem destaque no original)
+(3) Da divergência jurisprudencial
+É impossível o conhecimento do recurso lastreado pela alínea c do permissivo constitucional, uma vez que para verificar a identidade entre o paradigma apresentado e os fundamentos do acórdão recorrido, necessário seria o reexame da situação fática de cada caso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IDEC. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ILEGITIMIDADE DA PARTE RECONHECIDA. INEXISTÊNCIA DE MENÇÃO EXPRESSA NO TÍTULO JUDICIAL ACERCA DO SEU ALCANCE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no AREsp 965.951/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/12/2016, DJe 1/2/2017 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de LUIZACRED, nos termos do art. 85, § 11 do NCPC. Ressalte-se não ser aplicável, no caso, o limite previsto no § 2º do mesmo artigo, porque a verba honorária foi estipulada com base na equidade.
+Advirta-se que eventual recurso interposto contra esta decisão estará sujeito às normas do NCPC, inclusive no que tange ao cabimento de multa (arts. 1.021, § 4º e 1.026, § 2º).
+Publique-se. Intimem-se.
