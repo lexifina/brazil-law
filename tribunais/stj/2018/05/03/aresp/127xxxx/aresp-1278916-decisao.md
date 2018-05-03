@@ -1,0 +1,28 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. JUROS REMUNERATÓRIOS. DECISÃO DENEGATÓRIA DO RECURSO ESPECIAL BASEADA EM RECURSO REPETITIVO. AGRAVO DO ART. 1.042 DO CPC/2015. ERRO GROSSEIRO. CARACTERIZAÇÃO. DEMAIS QUESTÕES. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO QUE INADMITIU O APELO EXTREMO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+DECISÃO
+[NOME] ajuizou ação em desfavor de Banco Ficsa S.A., objetivando a revisão do contrato de financiamento firmado entre as partes, que foi julgada parcialmente procedente para determinar a cobrança isolada da comissão de permanência, excluídos os juros de mora e multa, bem como a devolução da Tarifa Registro de Contrato e Tarifa de Cadastro, além de eventual restituição de cobrança em excesso.
+Em apelação, o Tribunal de Justiça de Minas Gerais reconheceu a nulidade, também, da taxa de juros remuneratórios contratada e a limitou à taxa média de mercado, em acórdão assim ementado (e-STJ, fl. 183):
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - CÓDIGO DE DEFESA DO CONSUMIDOR - APLICABILIDADE - JUROS REMUNERATÓRIOS - LIMITAÇÃO - NECESSIDADE - COMPROVAÇÃO DE ABUSIVIDADE - CAPITALIZAÇÃO MENSAL - POSSIBILIDADE - REPETIÇÃO DE INDÉBITO - RESTITUIÇÃO DE FORMA SIMPLES.
+- O Código de Defesa do Consumidor é aplicável aos contratos bancários, conforme pacificado na Súmula 297 do STJ, desde que haja relação de consumo, ainda que por equiparação.
+- Sob a égide do Código de Defesa do Consumidor, adequar-se-á o princípio pacta sunt servanda, tornando-o relativo, face à função social do contrato e à boa-fé das partes, proporcionando a defesa do consumidor em caso de pactos abusivos, sem que isso enseje insegurança jurídica.
+- Embora não haja a limitação dos juros para instituições financeiras, não pode sua taxa ser totalmente liberada, sem nenhum controle efetivo, permitindo-se a limitação dos juros remuneratórios quando superarem uma vez e meia a taxa média de mercado fornecida pelo Banco Central.
+- A capitalização de juros é licita se contratada, conforme MP 1.963- 17/2000. - A divergência entre a taxa de juros anual e o duodécuplo da taxa de juros mensal indica a existência de previsão contratual acerca da capitalização de juros.
+- O direito à repetição em dobro requer a presença de dois requisitos:
+que a quantia cobrada seja indevida e comprovação da má-fé do credor.
+Inconformada, a instituição financeira interpôs recurso especial, fundamentado na alínea c do permissivo constitucional.
+Alegou, para tanto, dissídio jurisprudencial, tendo em vista a ausência de abusividade na taxa de juros remuneratórios contratada, no caso, capaz de justificar a sua revisão, dando conta que "a taxa contratual é de 48,42% ao ano, e na época a taxa média era de 24,88% ao ano, ou seja, não há discrepância exorbitante entre a taxa de juros contratual e aquela praticada à época da contratação" (e-STJ, fl. 207).
+Acrescentou ser cabível a cobrança da comissão de permanência, porquanto prevista no ajuste celebrado entre partes, assim como a Tarifa de Registro de Contrato e a TAC.
+Acentuou que atendeu plenamente os arts. 39 e 40 do CDC, ao dar conhecimento ao ora recorrido, por meio do CET (Custo Efetivo Total), de informações sobre os encargos incidentes no contrato, não havendo razão para o acolhimento do pedido restituitório do autor.
+Requereu, assim, o afastamento da limitação dos juros remuneratórios e da repetição de valores, bem como seja permitida a cobrança das Tarifas de Registro de Contrato e TAC, e imputada ao ora recorrido a responsabilidade pelas despesas processuais e honorários advocatícios.
+O Tribunal de origem obstou o seguimento do apelo extremo diante da existência de jurisprudência pacificada pela sistemática dos recursos repetitivos sobre a questão dos juros remuneratórios e, em relação as demais matérias, fez incidir a Súmula 282/STF, o que ensejou a interposição do presente agravo em recurso especial.
+Contraminuta apresentada às fls. 331-333 (e-STJ).
+Brevemente relatado, decido.
+Em relação aos juros remuneratórios, é incabível a interposição do agravo, previsto pelo art. 1.042, caput, do CPC/2015, contra decisão proferida pelo Tribunal de origem que, após a vigência do CPC/2015 (18/3/2016), nega seguimento ao recurso especial com base na conformidade da decisão recorrida com precedente do STJ estabelecido por ocasião do julgamento de recurso repetitivo.
+Com efeito, a nova ordem processual vigente é expressa quanto ao descabimento de agravo, no caso, de modo que não há mais como afastar a pecha de erro grosseiro ao agravo interposto contra inadmissão de recurso especial que contrarie entendimento firmado em recurso especial repetitivo e, assim, determinar o retorno do feito ao Tribunal de origem para que o aprecie como agravo interno, consoante anterior orientação firmada pela Corte Especial no AgRg no AREsp 260.033/PR.
+Assim, diante de decisão de inadmissão do recurso especial publicada na vigência do novo Código de Processo Civil, em 15/12/2017 (e-STJ, fl. 311), não é possível o conhecimento do agravo em recurso especial interposto.
+Ademais, observo que não houve impugnação específica nas razões do agravo em recurso especial em relação à aplicação da Súmula 282/STF, pelo Tribunal de origem, ao inadmitir o apelo extremo no tocante às demais questões.
+Daí que não há como conhecer do recurso, também, em relação a tais matérias, tendo em vista a inobservância, pelo agravante, da dialeticidade recursal.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em R$ 300,00 (trezentos reais).
+Publique-se.
