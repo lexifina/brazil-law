@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE PLANO DE SAÚDE. EX-EMPREGADO APOSENTADO. MANUTENÇÃO DE ASSISTÊNCIA MÉDICA. ARTS. 30 E 31 DA LEI N. 9.656/1998. NECESSIDADE DE JULGAMENTO DA APELAÇÃO COM OBSERVÂNCIA DA NOVA ORIENTAÇÃO DESTA CORTE SOBRE A MATÉRIA. AGRAVO IMPROVIDO.
+1. A Terceira Turma desta Corte adotou entendimento no sentido de que, nos termos do art. 30, § 6º, da Lei n. 9.656/1998, "não é considerada contribuição a coparticipação do consumidor, única e exclusivamente, em procedimentos, como fator de moderação, na utilização dos serviços de assistência médica ou hospitalar, como ocorre nos planos coletivos custeados integralmente pela empresa" (REsp n. 1.594.346/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 9/8/2016, DJe 16/8/2016).
+2. O Tribunal de origem apreciou a controvérsia, de maneira genérica, sem, no entanto, esclarecer se existia, de fato, uma contribuição mensal ao plano de saúde ou se, na hipótese, tratava-se apenas de coparticipação.
+3. É necessário o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento da apelação, à luz da nova orientação jurisprudencial firmada por ocasião do julgamento do REsp n. 1.594.346/SP, de relatoria do Ministro Ricardo Villas Bôas Cueva.
+4. Agravo interno improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Moura Ribeiro, Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE:
+Cuida-se de agravo interno interposto por Bradesco Saúde S.A. contra decisão desta relatoria que deu provimento ao recurso especial do ora agravado para determinar o retorno dos autos ao Tribunal de origem, nos termos da seguinte ementa (e-STJ, fl. 512):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. EX-EMPREGADO. APOSENTADO. MANUTENÇÃO DA ASSISTÊNCIA MÉDICA. ARTS. 30 E 31 DA LEI N. 9.656/1998. NECESSIDADE DE JULGAMENTO DA APELAÇÃO COM OBSERVÂNCIA DA ORIENTAÇÃO DESTA CORTE SOBRE A MATÉRIA. AGRAVO CONHECIDO PARA, EM JUÍZO DE RECONSIDERAÇÃO, DAR PROVIMENTO AO RECURSO ESPECIAL, DETERMINANDO O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+Sustenta, em síntese, que o acórdão recorrido reconheceu que o seguro-saúde do qual fazia parte o autor era custeado integralmente pela empresa empregadora, motivo pelo qual ele não tem direito à manutenção na apólice coletiva após o desligamento da empresa empregadora.
+Assim, postula a reforma da decisão para que seja julgado improcedentes os pedidos da inicial.
+Sem impugnação (e-STJ,fl. 533).
+É o relatório.
+VOTO
+O SENHOR MINISTRO MARCO AURÉLIO BELLIZZE (RELATOR):
+A insurgência não merece prosperar.
+Mediante juízo de reconsideração, foi dado provimento ao recurso especial a fim de determinar o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento da apelação à luz da nova orientação jurisprudencial firmada por ocasião do julgamento do REsp n. 1.594.346/SP, de relatoria do Ministro Ricardo Villas Bôas Cueva.
+No referido julgado, destaca-se a diferença existente entre o requisito de contribuição e a coparticipação, conforme trecho abaixo transcrito:
+Extrai-se, assim, que uma das condições exigidas para a aquisição desse direito é o empregado contribuir, na atividade, para o custeio do plano de saúde, não podendo ser considerados para tanto os pagamentos a título exclusivo de coparticipação.
+Com efeito, nos termos do art. 30, § 6º, da Lei nº 9.656/1998, não é considerada contribuição a coparticipação do consumidor, única e exclusivamente, em procedimentos, como fator de moderação, na utilização dos serviços de assistência médica ou hospitalar, como ocorre nos planos coletivos custeados integralmente pela empresa.
+Eis a redação dos arts. 30, § 6º, e 31, § 2º, da Lei nº 9.656/1998:
+"Art. 30. Ao consumidor que contribuir para produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, em decorrência de vínculo empregatício, no caso de rescisão ou exoneração do contrato de trabalho sem justa causa, é assegurado o direito de manter sua condição de beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral.
+(..)
+§ 6º Nos planos coletivos custeados integralmente pela empresa, não é considerada contribuição a co-participação do consumidor, única e exclusivamente, em procedimentos, como fator de moderação, na utilização dos serviços de assistência médica ou hospitalar."
+"Art. 31. Ao aposentado que contribuir para produtos de que tratam o inciso I e o § 1º do art. 1º desta Lei, em decorrência de vínculo empregatício, pelo prazo mínimo de dez anos, é assegurado o direito de manutenção como beneficiário, nas mesmas condições de cobertura assistencial de que gozava quando da vigência do contrato de trabalho, desde que assuma o seu pagamento integral.
+(..)
+§ 2º Para gozo do direito assegurado neste artigo, observar-se-ão as mesmas condições estabelecidas nos §§ 2º, 3º, 4º, 5º e 6º do art. 30."
+Desse modo, contribuir para o plano de saúde significa, nos termos da lei, pagar uma mensalidade, independentemente de se estar usufruindo dos serviços de assistência médica.
+A coparticipação, por sua vez, é um fator de moderação, previsto em alguns contratos, que consiste no valor cobrado do consumidor apenas quando utilizar o plano de saúde, possuindo, por isso mesmo, valor variável, a depender do evento sucedido. Sua função, portanto, é a de desestimular o uso desenfreado dos serviços da saúde suplementar.
+Nesse contexto, cabe conferir o conceito constante na Resolução Normativa (RN) nº 279/2011 da Agência Nacional de Saúde Suplementar (ANS), que regulamentou os arts. 30 e 31 da Lei nº 9.656/1997:
+"Art. 2º Para os efeitos desta Resolução, considera-se:
+I - contribuição: qualquer valor pago pelo empregado, inclusive com desconto em folha de pagamento, para custear parte ou a integralidade da contraprestação pecuniária de seu plano privado de assistência à saúde oferecido pelo empregador em decorrência de vínculo empregatício, à exceção dos valores relacionados aos dependentes e agregados e à co-participação ou franquia paga única e exclusivamente em procedimentos, como fator de moderação, na utilização dos serviços de assistência médica ou odontológica;" (grifou-se).
+Logo, quanto aos planos de saúde coletivos custeados exclusivamente pelo empregador, não há direito de permanência do ex-empregado aposentado ou demitido sem justa causa como beneficiário, salvo disposição contrária expressa prevista em contrato ou em convenção coletiva de trabalho, sendo irrelevante a existência de coparticipação, pois, como visto, esta não se confunde com contribuição.
+A propósito, cumpre transcrever o art. 6º da RN nº 279/2011 da ANS:
+"Da Contribuição
+Art. 6º Para fins dos direitos previstos nos artigos 30 e 31 da Lei nº 9.656, de 1998, e observado o disposto no inciso I do artigo 2º desta Resolução, também considera-se contribuição o pagamento de valor fixo, conforme periodicidade contratada, assumido pelo empregado que foi incluído em outro plano privado de assistência à saúde oferecido pelo empregador em substituição ao originalmente disponibilizado sem a sua participação financeira.
+§ 1º Os direitos previstos nos artigos 30 e 31 da Lei nº 9.656, de 1998, não se aplicam na hipótese de planos privados de assistência à saúde com característica de preço pós-estabelecido na modalidade de custo operacional, uma vez que a participação do empregado se dá apenas no pagamento de co-participação ou franquia em procedimentos, como fator de moderação, na utilização dos serviços de assistência médica ou odontológica.
+§ 2º Ainda que o pagamento de contribuição não esteja ocorrendo no momento da demissão, exoneração sem justa causa ou aposentadoria, é assegurado ao empregado os direitos previstos nos artigos 30 e 31 da Lei nº 9.656, de 1998, na proporção do período ou da soma dos períodos de sua efetiva contribuição para o plano privado de assistência à saúde." (grifou-se).
+Dessa forma, havendo tão somente a coparticipação do empregado quando utilizado o plano de saúde, sem o pagamento de uma mensalidade, não há que se falar em contribuição e, portanto, não há direito à permanência como beneficiário do plano de saúde.
+Do acórdão recorrido extrai-se o seguinte (e-STJ, fls. 397-400):
+No Caso, Luiz foi beneficiário do plano de saúde coletivo da Bradesco Saúde S/A contratado por sua ex-empregadora onde trabalhou por 20 anos, inclusive após sua aposentadoria quando foi demitido sem justa causa, como se comprova dos documentos de fls. 16/17.
+Assim, é incontroverso que ele permaneceu na empresa de 1995 a 2015, entretanto, após a sua demissão a seguradora não aceitou sua manutenção no plano de saúde na condição de aposentado, sob o argumento de que ele apenas contribuía para gastos com eventos simples, fato que originou a propositura desta ação.
+Sucede que, o sistema de coparticipação não deixa de configurar a contraprestação, logo não desnaturando as exigências do artigo 31 da Lei 9656/98, isso porque houve efetivo pagamento pela apelada por mais de dez anos, para que, posteriormente, tivesse direito à manutenção do seu plano de saúde.
+Ademais, ainda que assim não fosse, a contribuição existe, na medida em que o segurado recebia o benefício como forma de salário indireto.
+(..)
+Nesse rumo, ressalta-se que o escopo da lei é colocar a salvo pessoas na mesma situação da apelada, que, após longo período de contribuição, terão maiores dificuldades para a contratação de novo seguro saúde.
+Portanto, com todo o respeito ao entendimento do d. Magistrado, o melhor é reformar a r. sentença, porquanto ante a demissão sem justa causa do segurado já aposentado, é o caso de aplicação dos termos do artigo 31 da Lei 9656/98, assim, mantendo o segurado no plano, juntamente com seus dependentes, por prazo indeterminado, com o pagamento integral da mensalidade (parcela anteriormente já paga mais a parcela que era de responsabilidade patronal).
+A partir desses trechos, exsurge a compreensão de que o Tribunal de origem apreciou a controvérsia atestando que o ora agravante contribuiu por mais de 10 (dez) anos para o plano de saúde, bem como entendeu que o sistema de coparticipação constitui salário indireto, o que não o excluiria do benefício assegurado pelo art. 31 da Lei n. 9656/1998 . No entanto, deixou o acórdão recorrido de esclarecer se existia, de fato, uma contribuição mensal do plano de saúde ou se, na hipótese, tratava-se apenas de coparticipação.
+Destarte, a melhor solução encontrada consiste na devolução dos autos para que proceda a uma análise mais acurada do presente feito, à luz da nova orientação desta Corte.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
