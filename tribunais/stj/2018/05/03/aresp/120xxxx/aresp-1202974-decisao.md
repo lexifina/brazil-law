@@ -1,0 +1,17 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da ausência de ofensa a legislação federal e de cotejo analítico apto a demonstrar a divergência, bem como da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 301):
+[NOME] e Vigilância Penitenciária - Candidato declarado inapto em razão da não comprovação da entrega de documento de forma regular, sem observância do edital (item 10.8.2.2) - Igualdade entre os candidatos que obsta o recebimento de documentos com nítido descumprimento do edital - Denegação da segurança decretada pelo Colegiado - Sentença reformada - Recursos oficial e voluntário da fazenda do Estado providos, prejudicado o apelo do impetrante.
+O recurso especial foi interposto por violação à legislação federal, e dissídio jurisprudencial, sob o argumento de que a exclusão do recorrente de concurso público para provimento de cargo de Agente Penitenciário, por ter apresentado cópia simples de certidão de casamento, não se mostra razoável, pois entregou todos os documentos nos prazos previstos em edital e logrou êxito nas demais fases do certame.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2, aprovado pelo Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+No caso dos autos, o recorrente não indicou os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+Ainda que assim não fosse, depreende-se dos autos que a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que o ato de se declarar o candidato inapto obedeceu previsão editalícia e que tal exigência não se mostrou indevida.
+Assim, a revisão a que chegou o Tribunal de origem sobre a questão demandaria o reexame de item previsto em edital e dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidem ao caso as Súmulas 5 e 7/STJ.
+Quanto ao dissídio jurisprudencial suscitado no apelo, tem-se que, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
