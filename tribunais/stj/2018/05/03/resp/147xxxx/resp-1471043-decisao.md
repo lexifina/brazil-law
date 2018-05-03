@@ -1,0 +1,11 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. QUESTÃO AFETADA À SISTEMÁTICA DO ART. 543-C DO CPC: RESP. 1.340.553/RS. REL. MIN. MAURO CAMPBELL MARQUES. RETORNO DOS AUTOS, SOBRESTANDO-OS NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DO ART. 543-C, §§ 7o. E 8o. DO CPC (ATUAL ART. 1.040 DO CPC/2015).
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo egrégio TRF da 4a. Região, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. NÃO-OCORRÊNCIA. EXTINÇÃO DO FEITO SEM JULGAMENTO DO MÉRITO. CABIMENTO.
+1. O mero transcurso do tempo, em sede de execução fiscal, não é suficiente para deflagrar a prescrição, sendo imprescindível a paralisação do processo por culpa da parte exequente, o que não ocorreu no presente feito.
+2. Extinção do executivo fiscal, mas por motivo diverso, qual seja, a ausência de elementos necessários ao desenvolvimento da ação c de interesse do exequente na demanda, nos termos do art. 267, IV e VI, do CPC (fls. 302).
+2. É o breve relatório.
+3. Verifica-se que a matéria discutida nos autos, referente à prescrição intercorrente, encontra-se afetada à 1a. Seção do STJ como representativo da controvérsia e aguarda julgamento (REsp. 1.340.553/RS).
+4. Com efeito, a admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma do art. 543-C, §§ 7o. e 8o. do CPC (atual art. 1.040 do CPC/2015) e da Resolução 8, de 7.8.2008 do STJ.
+5. Em face do exposto, determina-se a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão representativo da controvérsia: (a) o Recurso Especial tenha seguimento negado, caso o julgamento recorrido esteja em conformidade com a orientação firmada pelo STJ, ou (b) para que ele seja provido, conforme o caso, quando o julgamento recorrido divergir do entendimento firmado nesta Corte Superior de Justiça, nos termos do art. 543-C, §§ 7o. e 8o. do CPC (atual art. 1.040 do CPC/2015).
+6. Publique-se. Intimações necessárias.
