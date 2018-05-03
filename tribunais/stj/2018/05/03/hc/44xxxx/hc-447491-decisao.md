@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDMUNDO ROCHA GORINI, apontando como autoridade coatora Desembargador do Tribunal de Justiça do Estado de São Paulo, no julgamento do HC n. 2073479-65.2018.8.26.0000.
+Noticiam os autos que o paciente foi denunciado como incurso no artigo 1º, inciso V e parágrafo único, da Lei 8.137/1990.
+Buscando a extinção da punibilidade do acusado pela prescrição, a defesa impetrou prévio writ na origem, cujo pedido liminar foi indeferido.
+Sustenta a impetrante que se estaria diante de manifesta ilegalidade passível de afastar o óbice contido no enunciado 691 da Súmula do Supremo Tribunal Federal.
+Alega que o réu foi acusado de praticar infração administrativa acessória, sem caráter sonegatório, tratando-se de crime de mera conduta que teria se consumado na data dos fatos, o que afastaria a incidência do verbete 24 da Súmula Vinculante.
+Afirma que entre a data dos fatos, que ocorreram em 11.4.2000, e o recebimento da denúncia, ocorrido aos 22.3.2017, teria transcorrido tempo suficiente para o reconhecimento da prescrição da pretensão punitiva estatal.
+Requer, liminarmente, a suspensão do processo originário, e, no mérito, pugna pela concessão da ordem para que seja reconhecida a prescrição da pretensão punitiva estatal.
+É o relatório.
+Este Superior Tribunal de Justiça, "na esteira do preceituado no Enunciado n. 691 da Súmula do Pretório Excelso, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada perante os Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta" (AgRg no HC 427.758/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/03/2018, DJe 27/03/2018).
+E, da análise da documentação acostada, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, restando fundamentada a negativa do pleito liminar.
+Com efeito, o Desembargador Relator consignou que "a análise sumária da impetração não autoriza inferir se houve o preenchimento dos requisitos cumulados típicos da medida liminar, vale dizer, o "fumus boni iuris er periculum in mora"" (e-STJ fl. 53).
+Desta forma, não se constata qualquer vício na negativa do pleito liminar formulado no mandamus originário, tendo sido declinadas justificativas plausíveis para o indeferimento da cautela almejada, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ademais, o reconhecimento da prescrição da pretensão punitiva do Estado, que evidenciaria a ilegalidade da manutenção da ação penal em tela, demanda a verificação de todos os marcos interruptivos do prazo prescricional, análise própria do julgamento do mérito da impetração, circunstância que reforça a impossibilidade de conhecimento do remédio constitucional em tela.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente o presente habeas corpus.
+Publique-se.
