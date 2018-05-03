@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de pedido de distinção, com fundamento no art. 1.037, § 9º, do CPC/2015, formulado por [NOME] e outros, em face de decisão de minha lavra, publicada em 07/08/2017, que determinou a devolução do presente feito ao Tribunal de origem, nos termos do art. 1.040 do CPC/2015, eis que "a matéria tratada no Recurso Especial foi afetada neste Tribunal, para julgamento segundo o rito dos recursos representativos de controvérsia, previsto no art. 543-C do CPC/73 - Tema 973, REsp 1.648.238/RS, 1.648.498/RS e 1,650.588/MG, Relator Ministro GURGEL DE FARIA (DJe de 11/05/2017)" (fls. 336/339e).
+Sustenta, a parte requerente, na presente petição, que:
+"II - DA DISTINÇÃO ENTRE O PRESENTE CASO E AQUELE AFETADO AO RITO DOS RECURSOS REPETITIVOS
+Sucede que o artigo 1.037, § 9º, do CPC/2015 permite que a parte demonstre a distinção entre a questão a ser decidida no processo e aquela que foi objeto de decisão no caso paradigma submetido ao rito dos repetitivos.
+(..)
+Como se vê, discute-se a compatibilidade da Súmula nº 345/STJ com a disposição prevista no artigo 85, § 7º, do CPC/2015, cuja vigência remonta a março de 2016.
+Todavia, os fatos que, nos presentes autos, ensejam a controvérsia em torno da incidência dos honorários advocatícios são anteriores à vigência do CPC/2015 e, por isso mesmo, não são por ele atingidos.
+Com efeito, veja Vossa Excelência que a execução teve início em outubro/2014 (fl. 30 - e-STJ). Antes, portanto, do advento do CPC/2015, cuja vigência remonta a 18/3/2016.
+A r. decisão de primeiro grau que repeliu a fixação da verba honorária igualmente remonta a período cronologicamente anterior ao novo CPC, já que foi proferida em 8/10/2015 (fls. 260/261 e-STJ).
+Também o v. acórdão impugnado pelo recurso especial foi proferido antes da entrada em vigor do novo CPC, conforme se infere a fls. 267/269.
+A circunstância de os demais atos do processo haverem sido praticados já na vigência do CPC/2015 não implica na alteração da moldura jurídica apta a incidir em relação ao tema sub judice, todo ele regrado à luz das disposições do Código de Processo Civil anterior e não do novo CPC.
+(..)
+Conforme fica evidente a partir da transcrição acima, o debate está vinculado à exegese dos artigos 20, § 4º, e 730 do CPC/73. E, nesse contexto, não se divisa relação de pertinência com o tema a ser objeto de definição no âmbito dessa Colenda Corte, na seara dos recursos repetitivos. Realmente, conforme se infere julgado que afetou o Recurso Especial nº 1.648.238/RS, o debate centra-se exclusivamente no confronto entre a Súmula nº 345/STJ e o artigo 85, § 7º, do CPC/2015" (fls. 343/349e).
+Requer, ao final, "a reconsideração da r. decisão agravada ou, caso mantida, a sua reforma mediante o provimento do presente agravo interno, de modo a que seja afastada a determinação de remessa dos autos à Eg. Corte de origem, com consequente processamento e julgamento do recurso especial no âmbito desse Colendo Superior Tribunal de Justiça" (fl. 350e).
+Consoante se vê da petição ora em análise e das razões do Recurso Especial, interposto pela parte ora requerente, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, o apelo trata, entre outros temas, especificamente, se são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas, a teor da Súmula 345/STJ.
+Em que pese o esforço do requerente, não prospera a pretensão deduzida na presente petição.
+Isso porque, não tendo esta Corte concluído o julgamento, sob o rito dos recursos repetitivos, do tema referente à "análise acerca da aplicabilidade da Súmula 345 do STJ diante da superveniência do art. 85, § 7º, do CPC/2015" (Tema 973), é de ser mantida a devolução dos autos à origem, eis que a afetação de Recurso Especial como representativo da controvérsia demanda a suspensão dos recursos interpostos que abordem idêntica questão, até o julgamento definitivo da controvérsia, como ocorre no caso.
+Após o pronunciamento desta Corte, os recursos suspensos devem ser analisados na forma prevista nos arts. 1.039 e seguintes do CPC/2015.
+Ante o exposto, devolvam-se os autos à origem, nos termos do art. 1.040 do CPC/2015, como antes determinado.
+I.
