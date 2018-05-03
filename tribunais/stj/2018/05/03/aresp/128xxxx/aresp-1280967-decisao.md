@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. RECLAMO FUNDADO EM DISSÍDIO JURISPRUDENCIAL. COTEJO NÃO EFETUADO. DISSÍDIO NÃO DEMONSTRADO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo (artigo 1.042 do CPC/2015) interposto por [NOME] DA COSTA contra decisão de fls. 392-394 (e-STJ) que negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no artigo 105, inciso III, alínea c, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal de Justiça do Estado de Mato Grosso assim ementado (fl. 329, e-STJ):
+INDENIZAÇÃO POR DANO MORAL C/C OBRIGAÇÃO DE FAZER - ATO ILÍCITO NÃO COMPROVADO - PROVAS INSUFICIENTES - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+O ônus da prova é regra fundamental em nosso Estado Democrático de Direito que atrai para a parte autora o encargo de provar de forma robusta suas alegações, ônus do qual não se libertou, já que não demonstrou concretamente o alegado.
+No caso, não há que se falar em dever de indenizar diante da não verificação do nexo de causalidade entre o resultado e a conduta, que sequer foi comprovada.
+Os embargos de declaração opostos foram rejeitados (fls. 347-351, e-STJ).
+Nas razões do recurso especial (fls. 354-363, e-STJ), fundado em dissídio jurisprudencial, o recorrente alegou que o acórdão impugnado incorreu em violação aos artigos 186 e 927 do Código Civil de 2002.
+Sustentou, em suma: (i) fazer jus à indenização por danos morais pleiteada, em razão da recusa de autorização para abertura de empresa em seu nome, por constar, junto à Fazenda do Estado de São Paulo, indevidamente, a situação de "inidôneo perante o cadastro de contribuintes" (fl. 357, e-STJ), haja vista seu nome figurar como sócio-diretor da empresa Posto Salta Laura Ltda, apesar de nunca ter sido sócio ou proprietário da aludida empresa; e (ii) ser desnecessária a demonstração de nexo causal entre o ato ilícito praticado e o dano dele decorrente, por se tratar de dano moral presumido.
+Em juízo de admissibilidade, a Corte de origem negou o processamento do recurso especial, ante a ausência de demonstração do dissenso alegado, porquanto não realizado o cotejo analítico exigido.
+Irresignado (fls. 397-403, e-STJ), aduz o agravante que o reclamo merece trânsito, refutando o retrocitado óbice de admissibilidade.
+Contraminuta às fls. 407-424 (e-STJ).
+Brevemente relatado, decido.
+De início, verifico que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Não se revela cognoscível a irresignação deduzida por meio da alínea c do permissivo constitucional, porquanto o recorrente não demonstrou a divergência nos moldes exigidos pelos artigos 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ.
+É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea c do permissivo constitucional.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA RECLAMAÇÃO. ACÓRDÃO ORIUNDO DA TURMA RECURSAL DO JUIZADO ESPECIAL DE ITAPETININGA. DISSÍDIO COM JULGADOS DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE COMPROVAÇÃO NA FORMA REGIMENTAL. AGRAVO NÃO PROVIDO. 1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a mera transcrição de ementas é insuficiente à demonstração do dissídio jurisprudencial. Para o conhecimento da insurgência, na via especial, incumbe à parte interessada realizar o cotejo analítico das teses divergentes, nos moldes do arts. 541, parágrafo único, do CPC e 255, § 2º, do Regimento Interno deste Tribunal. 2. Agravo regimental não provido. (AgRg na Rcl 8.544/SP, Rel. Ministro Arnaldo Esteves de Lima, Primeira Seção, julgado em 08/08/2012, DJe 17/08/2012)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL. DISSÍDIO NÃO COMPROVADO NEM DEMONSTRADO. COTEJO ANALÍTICO NÃO REALIZADO. INEXISTÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ARESTOS CONFRONTADOS. DIÁRIO DA JUSTIÇA. ÓRGÃO DE DIVULGAÇÃO DA JURISPRUDÊNCIA. ART. 128, I, DO RISTJ. (..)2. A divergência jurisprudencial deve ser comprovada e demonstrada na forma preceituada pelo Código de Processo Civil e pelo RISTJ, com a realização do cotejo analítico dos arestos em confronto. 3. Não se caracteriza o dissenso interpretativo quando inexiste similitude fático-jurídica entre os arestos recorrido e paradigma. (..) 5. Agravo regimental desprovido. (AgRg nos EREsp 1028683/RS, Rel. Ministro João Otávio de Noronha, Segunda Seção, julgado em 10/03/2010, DJe 18/03/2010)
+Ademais, o Tribunal de origem, com base nos fatos e provas dos autos, assim se manifestou (fls. 331-336, e-STJ):
+(..)
+In casu, analisando o caderno processual, verifico que o conjunto fático probatório, trazido à baila, não demonstra a existência da conduta ilícita atribuída aos recorridos, a embasar a provimento do apelo.
+Assim, mister se faz constar que para configurar a responsabilidade civil pelo dano causado, necessário a verificação da conduta dolosa ou culposa, dano e nexo de causalidade entre o ato do agente e o resultado danoso.
+Ocorre que o apelante não demonstrou de forma suficiente a fraude por parte dos apelados, diante da sua inclusão indevida como sócio da empresa.
+Com efeito, conforme se extrai dos autos, não há sequer questionamento quanto à veracidade de qualquer documento utilizado para o procedimento.
+Nesta senda, andou bem o douto magistrado a quo ao asseverar:
+"Contudo, par que seja efetivada alguma mudança no quadro societário da empresa são necessários todos os dados da pessoa que será incluída como sócio proprietário, no caso o requerente, bem como a anuência de forma expressa deste com a assinatura reconhecida em cartório.
+Além disso, é necessário também as modificações junto a órgãos públicos e agentes financeiros, incumbindo ao requerente anuir com todos os atos para, de fato, efetivar a alteração do contrato social da empresa e, na sequência, encaminhá-lo à Junta Comercial do Estado.
+Nesta toada, compulsando os autos vislumbro que o requerente não trouxe sequer a cópia do contrato social para comprovar uma suposta falsificação na assinatura (fraude)". (fls. 225/226).
+Vale ressaltar que o apelante não se desincumbiu de provar, minimamente nos autos, que a operação foi realizada, de fato, de forma escusa.
+Desta feita, deve-se mencionar que foi deferida a produção da prova oral requerida (fls. 195/1 99), consubstanciada na oitiva das testemunhas arroladas, contudo, constata-se que não houve qualquer manifestação acerca da conduta atribuída aos apelados, limitando-se a atestar as atividades desempenhadas pelo recorrente.
+(..)
+Não obstante, o art. 373, inc. I e II, do CPC/15, preceitua que cabe ao autor comprovar o fato constitutivo de seu direito, determinando ser ônus do réu apresentar provas hábeis a demonstrar fato impeditivo, modificativo ou extintivo do direito por aquele postulado. In litteris:
+(..)
+Nesta trilha, não tendo o apelante comprovado, de forma cabal, a efetiva realização do negócio entre as partes, o nexo de causalidade entre a suposta conduta dos apelados e o resultado danoso ou, como neste caso, sequer a existência de uma conduta ilícita, não há que se falar em rescisão ou em dever de indenizar.
+(..)
+Colhe-se da doutrina citada que não basta o recorrente alegar o dano moral, mas, demonstrar a existência da conduta, além do nexo causal entre esta e o dano suportado. Sem tal comprovação, não há como acolher as pretensões deduzidas na ação indenizatória.
+O ônus da prova é regra fundamental em nosso Estado Democrático de Direito que atrai para a parte autora o encargo de provar de forma robusta suas alegações, ônus do qual não se libertou, na medida em que não demonstrou concretamente o alegado (Sem grifos no original).
+Dessa forma, para rever tais premissas e acolher a tese recursal do insurgente, seria imprescindível o reexame de fatos e provas dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
