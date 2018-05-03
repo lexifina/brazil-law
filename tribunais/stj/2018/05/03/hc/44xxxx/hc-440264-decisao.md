@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ROSIMAR ALVES MENDES - presa cautelarmente no dia 26/1/2018 pela suposta prática do crime de tráfico de drogas - contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0020242-43.2018.8.21.7000).
+Homologado o flagrante e decretada a prisão em preventiva (e-STJ fls. 78/80), a defesa entrou com pedido de liberdade provisória, o qual foi indeferido (e-STJ fls. 108/109).
+Inconformada, impetrou habeas corpus, com pedido liminar, na Corte estadual, alegando, em síntese, ausência dos requisitos do art. 312, que justifiquem a segregação cautelar.
+O Tribunal de origem, contudo, denegou a ordem, recebendo o acórdão, a seguinte ementa (e-STJ fl. 120):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. No caso concreto, foi efetuada a prisão da paciente na posse de uma porção de cocaína (50g), balanças de precisão, mais de R$ 5.000,00 (em espécie), 3 cartuchos que servem a arma de fogo, além de 6 aparelhos celulares, no momento do cumprimento de mandado de busca, em local investigado pela mercancia de entorpecentes, evidenciando, em tese, sua participação com o tráfico.
+As circunstâncias referidas, cumuladas com o cenário fático quando da abordagem feita pelos agentes de segurança, bem como a quantidade de droga apreendida, apontam indícios de autoria e materialidade bastante a permitir a manutenção da segregação. A existência de condições pessoais favoráveis, tais como a primariedade, bons antecedentes, residência fixa, trabalho, conduta abonada, filhos dependentes, entre outros, não é suficiente para determinar a liberdade provisória, quando constatado, a partir das circunstâncias referidas, que a decretação da prisão é devida. Pedido subsidiário. Indeferida a aplicação das medidas cautelares previstas no art. 319 do CPP, dado o caráter permanente do crime de tráfico de drogas, sendo latente o risco de reiteração da atividade criminosa, diante do relato colhido com os milicianos.
+Ministério Público ofertou denúncia contra a paciente, sendo a exordial recebida pela autoridade processante no dia 02/03/18. A prisão preventiva não ofende o princípio constitucional da presunção de inocência, nem se trata de execução antecipada de pena. A Constituição Federal prevê, no seu art. 5º, LXI, a possibilidade de prisão, desde que decorrente de ordem escrita e fundamentada. ORDEM DENEGADA.
+Neste habeas corpus, o impetrante alega constrangimento ilegal que vem sofrendo a paciente, sob o fundamento de que não estão presentes os requisitos do artigo 312, caput, do Código de Processo Penal.
+Destaca, ainda, as qualidades subjetivas da paciente, primária, ter residência fixa, trabalho lícito, ser genitora de 04 filhos, além de ter como dependente uma enteada órfã.
+Desta forma, requer, liminarmente e no mérito, a concessão de liberdade provisória ou aplicação das medidas cautelares.
+O pleito urgente foi indeferido (e-STJ fls. 134/138).
+Prestadas as informações (e-STJ fls. 143/144), o Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (e-STJ fls. 147/156).
+É o relatório, decido.
+Consoante informações colhidas do site do Tribunal de origem, foi concedida a liberdade provisória à ré, ora paciente, sendo determinada a expedição de alvará de soltura em seu favor.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar da paciente.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique. Intime-se.
