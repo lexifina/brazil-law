@@ -1,0 +1,35 @@
+DECISÃO
+PABLO GUILHERME DA ROSA, paciente neste habeas corpus, alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul na Apelação n. 0355698-54.2013.8.21.7000.
+Nesta Corte, a defesa sustenta que "há um conjunto de incertezas sobre a prática de tráfico de entorpecentes  ..  por parte do acusado, devendo, portanto, ser aplicado o princípio do in dúbio pro reo, haja vista ser indispensável para a prolação de um decreto penal condenatório, provas robustas e consistentes da existência do delito e de seu autor" (fl. 5). Caso não se entenda pela absolvição, alega que o paciente deve, ao menos, ter a conduta desclassificada para o delito previsto no art. 28 da Lei n. 11.343/2006.
+Aduz, ainda, que o acusado é "primário, inexistindo qualquer prova nos autos de que o paciente se dedique a atividades criminosas e de que integre organização criminosa", por isso não há razão para a não aplicação da causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Requer, liminarmente e no mérito, a absolvição do paciente ou a desclassificação para o art. 28 da Lei n. 11.343/2006. Subsidiariamente, pleiteia a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Decido.
+I. Contextualização
+O paciente foi condenado, em primeira instância, à pena de 5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006. A sentença consignou que (fls. 360-364, grifei):
+Não há porque se duvidar da palavra dos policiais que flagraram o acusado, em razão de serem agentes públicos credenciados pelo Estado para reprimir a criminalidade, não tendo sentido que seus depoimentos não sejam considerados em juízo, especialmente quando não comprovada qualquer animosidade com o réu.
+Nesse sentido, a palavra dos policiais para a configuração do crime de tráfico é incontestável, conforme já consolidado na jurisprudência atual.
+ ..
+Ressalto, ainda, que o local em que ocorreu a prisão do acusado é uma área bastante conhecida desta Comarca pela alta incidência de tráfico de drogas, sendo palco de diversas prisões por esse tipo de delito.
+Ademais, a abordagem policial não se deu por acaso, mas sim devido à denúncias de que naquela região um indivíduo, com as mesmas características do acusado, estaria vendendo substâncias entorpecentes.
+Alegou a defesa do acusado que a droga apreendida seria para seu consumo pessoal, contudo, é importante mencionar que não basta a tese de que se trata de usuário de drogas, devendo tal alegação vir amparada por outros elementos, o que não ocorreu no caso.
+ ..
+Há ainda a se dizer que o fato do réu ser usuário de droga não exclui a traficância, pelo contrário, até a retorça, pois na maioria das vezes a traficância é adotada como forma de se manter o vicio, o que merece repressão.
+Mesmo que dependente e viciado, o traficante possui plena capacidade de entendimento do caráter ilícito do tráfico, com liberdade de escolha no seu proceder, nada impedindo que trafique e use drogas, ou seja é absolutamente imputável penalmente.
+Assim sendo, diante das provas coligidas nos autos, verifica-se que o réu tenta se esquivar da imputação delitiva que lhe é atribuída. Todavia, diante das contraditórias declarações do réu e das testemunhas, e da esclarecedora palavra do policial militar, pode-se aferir a clara tentativa de ludibriar o destinatário da prova.
+ ..
+Com relação ao requerimento da defesa acerca da aplicação da causa de diminuição prevista no artigo 33, § 4º da Lei 11.343/2006, tenho que o pedido não merece prosperar, diante das condições do agente, que não comprovou emprego lícito, além de possuir condenação criminal (ainda não transitada em julgado) pela prática de delito de mesma natureza. Demonstrando assim não ser merecedor de tal benesse.
+O Tribunal a quo, ao julgar o apelo defensivo, manteve a conclusão exarada na sentença.
+Feito esse registro, examino os pleitos da defesa.
+II. Absolvição e desclassificação
+Pela leitura do excerto transcrito, observo que o Juízo singular justificou a condenação do réu e a impossibilidade de desclassificação da conduta a ele imputada em circunstâncias que envolveram a prática delitiva e que, no seu entender, evidenciavam a destinação comercial do entorpecente.
+Com efeito, a sentença ressaltou que os policiais se deslocaram até o local em razão de prévias notícias anônimas de que uma pessoa - com descrição semelhante à do paciente - estava em local publicamente conhecido como ponto de venda de drogas e, lá chegando, encontraram o réu na posse de "04 tabletes de "maconha", pesando aproximadamente 14,0 gramas" (fl. 351).
+Desse modo, para alterar a conclusão das instâncias antecedentes seria necessária amplo dilação probatória, incompatível com a via estreita do habeas corpus.
+III. Aplicação da minorante
+Para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06" (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+Na hipótese, não obstante o acusado fosse tecnicamente primário ao tempo do delito e possuidor de bons antecedentes, verifico que foram apontados elementos concretos dos autos que, efetivamente, evidenciam a impossibilidade de aplicação da referida causa de diminuição de pena, por ausência de preenchimento do requisito de "não se dedicar a atividades criminosas", em virtude do registro de processo criminal em andamento, no qual se apura a prática de crime de delito de mesma natureza.
+Não se discute que a existência de inquéritos policiais ou de ações penais em andamento, ou mesmo de condenações ainda sem a certificação do trânsito em julgado, não possui o condão de exasperar a reprimenda-base, consoante o enunciado na Súmula n. 444 deste Superior Tribunal. Essa, aliás, é a essência do princípio da presunção de não culpabilidade.
+Portanto, não identifico nenhuma violação legal no ponto em que, fundamentadamente, foi negada ao réu a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
