@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos pelo MUNICÍPIO DE PRAIA GRANDE contra decisão que negou provimento a agravo em recurso especial, aos fundamentos de que: (I) o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "a apelante, em sua defesa, efetivamente, não se deu ao trabalho de trazer aos autos qualquer elemento hábil a demonstração, sequer, da propositura das cogitadas execuções fiscais, quanto mais da existência de qualquer fato interruptivo do cômputo prescricional, a esta altura consumado, pelo decurso do prazo previsto, pelo art. 174 do CTN, sem obstáculos" (fl. 76), esbarrando, pois, no obstáculo da Súmula 283/STF; (II) com relação ao art. 1º do Decreto-lei nº 20.910/32, nota-se que o referido dispositivo legal não contém comando capaz de, por si só, sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF.
+A embargante, em síntese, sustenta existência de omissão na decisão embargada pois "a tese da prescrição quinquenal da pretensão anulatória, com fundamento no Decreto 20.910/32, não foi apreciada por essa E. Corte Especial" (fl. 130) .
+Disponibilizada vista à parte embargada, houve impugnação às fls. 135/140.
+É o relatório.
+Não prospera a irresignação da parte embargante. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+Conforme se pode depreender do relatório antes realizado, a respeito da suposta violação ao art. 1º do Decreto-lei nº 20.910/32 , vislumbrou-se a incidência da Súmula 284/STF. Não há, pois, qualquer omissão a suprir.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com a decisão ora embargada, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
