@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] contra acórdão do Tribunal de Justiça do Estado do Amazonas, ementado nos seguintes termos (e-STJ fl. 329):
+PENAL. APELAÇÃO CRIMINAL. ART. 157, §2º, I, DO CP. DOSIMETRIA. PENA-BASE JÁ FIXADA NO MÍNIMO LEGAL. PRESENÇA DE ATENUANTES. REDUÇÃO DA REPRIMENDA. IMPOSSIBILIDADE. SÚMULA Nº 231 DO STJ.
+1. Tendo sido fixada a pena-base no mínimo legal, incabível reduzi-la ainda mais em virtude da presença de atenuantes. Inteligência da súmula nº 231, do STJ.
+2. Ainda que não seja de observância obrigatória, a aplicação da referida súmula é questão pacífica em ambas as Câmaras Criminais deste E. Tribunal.
+3. Apelação criminal conhecida e não provida.
+No recurso especial, fundado na alínea "a" do permissivo constitucional, apontou a defesa contrariedade aos arts. 29, 33,§ 2º, "b" e "c", 44, 59 e 68, todos do Código Penal.
+Argumentou, em suma, a necessidade de aplicação da atenuante da confissão espontânea, e pugnou pela substituição da pena no caso do provimento do recurso.
+Contra-arrazoado (e-STJ fls. 348/355), o Tribunal local admitiu o recurso (e-STJ fls. 356/359), manifestando-se o Ministério Público Federal, nesta instância, pelo não conhecimento ou pelo desprovimento do especial (e-STJ fls. 372/374), nos termos da seguinte ementa:
+RECURSO ESPECIAL. ROUBO MAJORADO. RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NO ART. 105, III, "A" DA CF. ALEGAÇÃO DE VIOLAÇÃO AOS ARTIGOS 29, 33, §2º, "B" E "C", 44, 59 E 58 CP. PLEITO DE APLICAÇÃO DA ATENUANTE NA CONFISSÃO ESPONTÂNEA SOBRE A PENA-BASE FIXADA NO MÍNIMO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 07/STJ. FUNDAMENTAÇÃO DEFICIENTE. APLICAÇÃO DA SÚMULA 284/STF. PRETENSÃO DE APLICAR A ATENUANTE AQUÉM DO MÍNIMO LEGAL. IMPOSSIBILIDADE. DECISÃO RECORRIDA EM CONFORMIDADE COM A SÚMULA 231 DO STJ. PARECER PELO NÃO CONHECIMENTO OU DESPROVIMENTO DO RECURSO ESPECIAL .
+É o relatório. Decido.
+O recurso é tempestivo, e a matéria foi devidamente prequestionada.
+Inicialmente, registre-se que, nos termos da Súmula n. 568 desta Corte, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+No caso, sem razão o recorrente.
+Da leitura dos autos, verifico que a dosimetria da pena se alinhou ao entendimento adotado por esta Corte, presente no enunciado n. 231/STJ, segundo o qual a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal.
+A propósito:
+RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. VIOLAÇÃO DO ART. 59 DO CP. DOSIMETRIA. PENAS-BASE FIXADAS ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS. IDONEIDADE DOS FUNDAMENTOS QUANTO ÀS CIRCUNSTÂNCIAS DO CRIME. VIOLAÇÃO DO ART. 65 DO CP. PENA INTERMEDIÁRIA, DE ANTEMÃO, REDUZIDA AO MÍNIMO LEGAL PELO TRIBUNAL DE ORIGEM. CIRCUNSTÂNCIAS ATENUANTES. CONFISSÃO ESPONTÂNEA E MENORIDADE RELATIVA. AMPLIAÇÃO DO GRAU DE REDUÇÃO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 231/STJ.
+1. O elemento apresentado para a negativação das circunstâncias do crime - juntamente com outros indivíduos aproveitaram-se de uma forte chuva na cidade para assaltar um estabelecimento comercial no qual transitavam várias pessoas, entre clientes e funcionários, causando pânico no local -, revela-se apto a lastrear a negativação perpetrada pelas instâncias ordinárias, haja vista configurar um elemento robusto, específico ao caso em concreto.
+2. Na segunda fase da dosimetria da pena, o Tribunal de origem reduziu a pena-base da agravante ao mínimo legal (4 anos de reclusão). Portanto, ainda que reconhecida a existência das duas atenuantes, diante do óbice da Súmula 231/STJ, inviável a redução da pena aquém do mínimo legal.
+3. Nos termos da Súmula 231 do STJ, a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal (AgRg no AREsp n. 758.847/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 19/12/2016).
+4. Agravo regimental desprovido. (AgRg no REsp 1637245/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 9/3/2017, DJe 15/3/2017)
+PENAL E PROCESSUAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALSIFICAÇÃO DE MOEDA. CRIME CONTRA FÉ PÚBLICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. INSIGNIFICÂNCIA. INAPLICABILIDADE. CONFISSÃO ESPONTÂNEA. SÚMULA 231 DO STJ.
+1. O art. 557, caput, do Código de Processo Civil, autoriza o relator a negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior, de modo a afastar a alegação de desrespeito ao princípio da colegialidade.
+2. Conforme reiterada jurisprudência desta Corte Superior, o princípio da insignificância é inaplicável ao delito de moeda falsa uma vez que o bem jurídico tutelado é a fé pública, sendo, independentemente do valor falsificado ou da quantidade de moeda expedida, malferida a credibilidade da moeda e a segurança da sua tramitação. Não há, portanto, falar em mínima ofensividade da conduta.
+3. Embora se considere a confissão espontânea na dosimetria, estando a pena-base estabelecida no mínimo legal, não há como reduzir a pena intermediária aquém desse patamar, consoante o que dispõe a Súmula 231 desta Corte de Justiça, que estabelece que "a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+4. Agravo regimental não provido. (AgRg no REsp 1459167/RS, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 16/2/2016, DJe 4/3/2016)
+Por fim, no que se refere ao pleito de substituição da pena privativa de liberdade por restritivas de direitos, inviável a sua análise em razão da manutenção do acórdão recorrido.
+Ante o exposto, com fundamento no art. 932, IV, "a" do CPC, c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intime-se.
