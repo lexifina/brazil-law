@@ -1,0 +1,24 @@
+DECISÃO
+1. Trata-se de agravo interno interposto por [NOME] em face de decisão da lavra do então Ministro Presidente desta Corte, que não conheceu do agravo em recurso especial, sob o fundamento de intempestividade do recurso especial.
+Nas razões do agravo interno, a parte agravante alega que o recurso especial foi tempestivo, pois o seu termo inicial deu-se apenas em 05/05/2014, primeiro dia útil após a publicação do aresto recorrido, no dia 30/04/2014.
+2. Com razão a parte recorrente, pois após a publicação do aresto recorrido houve o feriado nacional no dia 01/05/2014, uma quinta-feira; houve recesso forense no Estado de São Paulo no dia 02/05/2014, uma sexta-feira, conforme comprovado nos autos. Assim, somente na segunda-feira subsequente, dia 05/05/2014 o prazo recursal passou a correr, cujo término deu-se em 19/05/2014, quando ocorreu o protocolo do recurso especial.
+3. Ultrapassado tal óbice, dou prosseguimento à análise do agravo em recurso especial.
+4. Cuida-se de agravo interposto por [NOME] contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim ementado:
+INDENIZAÇÃO. Autor pretende receber valores referentes a ações. Sentença de improcedência. Ausência de comprovação de titularidades dessas ações. Necessária formalização da transferência dessa|s ações, que não ocorreu. Requisito indispensável previsto na Lei de Sociedade por Ações.
+Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 236, § 1º, 302, 303 e 535 do Código de Processo Civil de 1973 e 113 do Código Civil.
+Alega que o julgamento dos Embargos de Declaração foi absolutamente nulo, tendo em vista que os Patronos do Recorrente não foram intimados da Sessão de Julgamento ocorrida.
+Defende ter ocorrido negativa de prestação jurisdicional, pois o tribunal de origem permaneceu silente quanto aos aspectos da lei 6.404/76, no sentido de o caso dos autos não ser de compra e venda de ações.
+Argumenta que também não teriam sido sanadas (a) contradição sobre a validade das cessões e titularidade inconteste do recorrente quanto ao direito discutido e (b) omissão a respeito da verba sucumbencial.
+Sustenta que o caso dos autos não é de venda e compra de ações fora de bolsa, uma vez que as ditas sociedades foram extintas e liquidadas,não existindo ativo mobiliário (ações) de uma empresa não mais existente. Argumenta que a a própria requerida admitiu que se tratava de quitação de valores inerentes à liquidação das sociedades, e não transação de ativos mobiliários.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 657.
+É o relatório.
+DECIDO.
+5. De início, consigne-se que o acórdão impugnado pelo recurso especial foi publicado antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+6. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Eg. Tribunal a quo dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes. Além disso, basta ao órgão julgador que decline as razões jurídicas que embasaram a decisão, não sendo exigível que se reporte de modo específico a determinados preceitos legais.
+Cabe observar que tanto as omissões como as contradições apontadas pelo recorrente configuram-se em simples insatisfações com a interpretação dadas aos fatos e provas pelo tribunal de origem, sem capacidade de proporcionar a anulação do aresto para determinar novo julgamento do recurso integrativo.
+Sobre o alegado dissídio pretoriano nesse ponto, é firme o entendimento deste Tribunal no sentido de que, em razão das peculiaridades de cada caso, não se mostra viável a demonstração de divergência jurisprudencial acerca da interpretação do art. 535, II, do CPC/73. A propósito, cito os seguintes precedentes: STJ, AgRg no REsp 1.405.904/RN, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 19/04/2016; AgInt no AREsp 942.653/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 04/10/2016.
+7. As matérias referentes aos arts. 236, § 1º, 302 e 303 do Código de Processo Civil de 1973 e 113 do Código Civil não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+8. Ante o exposto, reconsidero a decisão de fls. 750/751, todavia nego provimento ao agravo em recurso especial pelas razões ora expendidas.
+Intimem-se. Publique-se.
