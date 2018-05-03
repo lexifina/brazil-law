@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE RENDA. INCENTIVOS FISCAIS. DL 1.967/1982. INSTRUÇÃO NORMATIVA 37/1983. ILEGALIDADE. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, com fulcro no art. 105, III, alínea a da Constituição Federal, objetivando a reforma do acórdão proferido pelo egrégio TRF da 3a. Região, assim ementado:
+AGRAVO LEGAL. AÇÃO ORDINÁRIA. ILEGALIDADE DA IN N0 37/83. MATÉRIA JÁ DECIDIDA PELOS TRIBUNAIS SUPERIORES. INCIDÊNCIA DO ART. 557 DO CPC.
+1- Pedido de reconsideração da decisão a fim que seja processada a remessa oficial e a apelação da agravante.
+2- Inexistindo qualquer fundamento que demonstre o desacerto quanto à aplicação do art. 557 do CPC, sobretudo em razão da falta de similitude da matéria tratada nos autos quando em cotejo com os precedentes nos quais a decisão recorrida se apoia, carece, o recurso, de pressuposto lógico para sua interposição.
+3- Agravo legal a que se nega provimento. (fls. 299).
+2. Nas razões de seu Recurso Especial, a parte recorrente aponta violação dos arts. 15 e 25 do Decreto-Lei 1.967/1982. Sustenta, em síntese, que a IN 37/1983 apenas explicitou o disposto no art. 15 do referido Decreto-Lei, diante da possibilidade de o Ministro da Fazenda baixar atos complementares, a fim de operacionalizar a forma de cálculo dos incentivos já vigentes e limitados legalmente.
+3. Sem contrarrazões, o recurso foi admitido na origem.
+4. É o relatório.
+5. A irresignação não merece prosperar, porquanto o Tribunal de origem seguiu entendimento firmado por esta Corte Superior de que a Instrução Normativa SRF 37/1983 extrapolou as determinações do Decreto-Lei 1.967/1974, ao determinar que os incentivos fiscais para a apresentação da declaração de rendimentos do Imposto de Renda fossem calculas em cruzeiro. A propósito, cita-se o seguinte julgado:
+TRIBUTÁRIO. IMPOSTO DE RENDA. INCENTIVOS FISCAIS. DECRETO-LEI N. 1.967/82. INSTRUÇÃO NORMATIVA N. 37/83. INAPLICABILIDADE.
+1. Não viola o art. 535, do CPC, o acórdão que decide de forma suficientemente fundamentada, não estando obrigada a Corte de Origem a emitir juízo de valor expresso a respeito de todas as teses e dispositivos legais invocados pelas partes.
+2. Os arts. 96, 100 e 111, do CTN, e 25 do Decreto-Lei n. 1.967/82, não foram mencionados em nenhum ato processual anterior aos embargos declaratórios, o que configura a falta de prequestionamento da tese apresentada sob a alegação de contrariedade a tais dispositivos legais. A Turma Regional não estava obrigada a se manifestar sobre questões que não lhe foram oportunamente submetidas, tanto é assim que, de fato, não se manifestou sobre as referidas normas. Aplica-se a Súmula 211/STJ. Também não se conhece do recurso especial em relação à alegada contrariedade à Instrução Normativa SRF n. 37/83, uma vez que este ato normativo não se enquadra no conceito de lei federal, nos termos do art. 105, III, a, da Constituição de 1988.
+3. Consoante a orientação jurisprudencial do extinto Tribunal Federal de Recursos, prestigiada pela jurisprudência deste Tribunal Superior, o art. 15 do Decreto-Lei n. 1.967/82 estabeleceu que as deduções do imposto de renda relativas a incentivos fiscais e as destinadas a aplicações específicas seriam calculadas pelo valor da ORTN do mês da entrega da declaração de rendimentos e repassadas aos beneficiários pelo mesmo valor assim estimado, de modo que a Instrução Normativa SRF n. 37/83, ao determinar que os incentivos fiscais fossem apurados em cruzeiros, desbordou de suas lindes, modificando o critério legal e trazendo prejuízo para o contribuinte.
+4. Recurso especial parcialmente conhecido, porém, nessa extensão, não provido. (REsp. 1.286.370/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 1o.12.2011).
+6. Diante do exposto, nega-se seguimento ao Recurso Especial.
+7. Publique-se.
+8. Intimações necessárias.
