@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042), interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7 do STJ (e-STJ fls. 396/401).
+O acórdão recorrido está assim ementado (e-STJ fl. 311):
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE RESCISÃO DE CONTRATO COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. FALHA NA PRESTAÇÃO DE SERVIÇOS PELA FRANQUEADA. AQUISIÇÃO DE SOFTWARE. DENUNCIAÇÃO DA LIDE DA FRANQUEADORA. AUSÊNCIA DOS REQUISITOS LEGAIS.
+Considerando a independência de atuação da franqueada, ora agravante, bem como previsão contratual de responsabilidade exclusiva desta por eventual má prestação de serviços, não se evidencia a presença dos requisitos autorizadores da denunciação da lide. Exegese do art. 125 do NCPC.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 345/350).
+No especial (e-STJ fls. 356/371), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou ofensa aos arts. 1.022 e 1.025 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou ainda afronta ao art. 125 do CPC/2015 e à Lei n. 9.609/1998, "na medida que suprimiu obrigatoriedade de chamar a lide a real proprietária do software e a única a poder contestar apropriadamente o feito, PROSOFT TECNOLOGIA S/A, fulcrando sua convicção em errôneo fundamento de que a Recorrente teria assumido total responsabilização pela comercialização do programa computacional" (e-STJ fl. 364).
+No agravo (e-STJ fls. 406/411), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida não apresentou contraminuta (e-STJ fl. 423).
+É o relatório.
+Decido.
+Não há falar em contrariedade aos arts. 1.022 e 1.025 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+Quanto à denunciação da lide, a Corte local consignou que (e-STJ fl. 314):
+Nos termos do contrato de franquia (fl. 250), a franqueada, ora agravante, se declara inteiramente responsável por toda e qualquer atividade que venha a desenvolver, diretamente ou através de seus profissionais ou prepostos (..), possuindo, franqueadora e franqueada, personalidade jurídica distinta, bem como corpo próprio de gerentes e colaboradores, assumindo cada qual, de forma exclusiva, suas responsabilidades e obrigações civis, trabalhistas, penais, administrativas, previdenciárias e sociais que assumir (..).
+Ademais, a franqueada será responsável por todas e quaisquer comercializações de software, produtos ou serviços, bem como pela má prestação destes, havendo previsão expressa, ainda, de direito da franqueadora de cobrar da franqueada o reembolso das despesas havidas em razão da má prestação dos serviços pela franqueada.
+Nesse cenário, considerando a independência de atuação da franqueada, que lhe autorizou inclusive a propositura de reconvenção em face da agravada, bem como sua responsabilidade exclusiva por eventual má prestação de serviços, conforme se extrai do contrato de franquia, não se evidencia a presença dos requisitos estabelecidos no art. 125 do NCPC.
+Para alterar os fundamentos acima transcritos e concluir que foram preenchidos os requisitos para a denunciação da lide, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+No que tange ao apontado dissídio jurisprudencial, a incidência da Súmula n. 7/STJ inviabiliza também o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012; REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011; EDcl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/3/2010, DJe 5/4/2010; AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
