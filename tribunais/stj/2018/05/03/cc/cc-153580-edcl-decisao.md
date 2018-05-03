@@ -1,0 +1,20 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+DECISÃO
+Cuida-se de embargos de declaração opostos por Viação Caiçara Ltda. - em recuperação judicial e outra à decisão monocrática proferida por este signatário, a qual não conheceu do conflito de competência, nos termos da seguinte ementa (e-STJ, fls. 237-240):
+CONFLITO DE COMPETÊNCIA. SOCIEDADE EMPRESARIAL EM RECUPERAÇÃO JUDICIAL. INDISPONIBILIDADE DE BENS DECRETADA PELO JUÍZO TRABALHISTA. CONFLITO CONFIGURADO, A PRINCÍPIO. PLANO QUE NÃO PREVÊ A DISPOSIÇÃO DE BENS IMÓVEIS. AUSÊNCIA DE ATOS CONSTRITIVOS. INEXISTÊNCIA DE CONFLITO, NO CASO. INCIDENTE NÃO CONHECIDO.
+Em suas razões (e-STJ, fls. 245-251), as embargantes alegam a existência de contradição, pois a decisão embargada citou precedentes desta Corte Superior - que afirma a competência do Juízo universal para apreciação das causas que envolvem bens da recuperanda -, porém não conheceu do incidente. Aduzem, ainda, omissão acerca da incompetência do Juízo trabalhista para decidir sobre o quadro administrativo da sociedade empresária.
+Impugnação às fls. 255-259 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - EXECUÇÃO TRABALHISTA - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO UNIVERSAL - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022, do CPC/15 (art. 535, CPC/73), são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material do acórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+ ..  4. Embargos de declaração rejeitados. (EDcl nos EDcl no AgRg no CC 122675/RJ, Rel. Min. Marco Buzzi, Segunda Seção, julgado em 14/06/2017, DJe 22/06/2017)
+Na presente hipótese, importante assinalar que a decisão embargada não conheceu do conflito em decorrência consignando que, a princípio, a decisão que determina a indisponibilidade dos bens de sociedade empresária em recuperação judicial interfere no plano de recuperação, o que, em tese, configura o conflito positivo de competência, pois incumbe ao Juízo recuperacional decidir sobre questões relacionadas ao patrimônio da recuperanda, notadamente em razão do princípio da par conditio creditorum.
+Contudo, na espécie, o conflito não existe porque o plano de recuperação não prevê a alienação de bens imóveis e, portanto, em nada interfere no cumprimento da recuperação judicial. Outrossim, ausente a constrição de bens pelo Juízo laboral, ausente também o conflito.
+Quanto à omissão, também sem razão a embargante, pois a decisão proferida pela Justiça especializada, acerca da destituição dos administradores da sociedade, deve ser impugnada perante aquele Juízo, mediante a interposição dos recursos cabíveis na demanda em que a decisão foi efetiva, da mesma forma que ocorre quando há a desconsideração da personalidade da pessoa jurídica (cf. AgInt nos EDcl no CC n. 143.924/MT, Rel. Min. Paulo de Tarso Sanseverino, Segunda Seção, julgado em 25/10/2017, DJe 31/10/2017).
+Desse modo, não se verifica os aludidos vícios, constatando-se a nítida pretensão de rejulgamento da causa em razão do inconformismo com o resultado, tornando inviável seu acolhimento.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
