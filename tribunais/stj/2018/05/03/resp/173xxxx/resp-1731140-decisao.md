@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto por PETRÓLEO BRASILEIRO S.A. - PETROBRAS, com fundamento no artigo 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. PLANO EMPRESARIAL OFERECIDO PELA PETROBRÁS DESTINADO AOS SEUS SEGURADOS E DEPENDENTES. AMS (ASSISTÊNCIA MULTIDISCIPLINA DE SAÚDE). ARGUIÇÃO DE INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. PROVOCAÇÃO DA TESE DE QUE A PRETENSÃO PRESSUPÕE REVOLVIMENTO DE CLÁUSULAS ASSENTADAS EM ACORDO COLETIVO DE TRABALHO. ALEGAÇÃO DE OFENSA AO ART. 114 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. PRONUNCIAMENTOS DO STF E STJ QUE RECONHECEM A NATUREZA CONSUMERISTA DA RELAÇÃO JURÍDICA ENTABULADA ENTRE AS PARTES. RECURSO DESPROVIDO. DECISÃO MANTIDA" (fl. 283 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, além de divergência jurisprudencial, a recorrente alega violação dos artigos 1.022, II, do Código de Processo Civil de 2015, 3º, § 2º, da Lei nº 8.078/1990 e 625 da Consolidação das Leis do Trabalho - CLT.
+Aduz que o Tribunal de origem incorreu em negativa de prestação jurisdicional ao deixar de se manifestar a respeito de matéria relevante para o deslinde da causa e que foi suscitada nos aclaratórios, referente à incompetência absoluta da Justiça Comum Estadual para julgar demanda que deriva exclusivamente de contrato de trabalho.
+Sustenta que o aresto recorrido deu interpretação divergente da conferida pelo Superior Tribunal de Justiça e Supremo Tribunal Federal em relação à competência absoluta da justiça laboral para apreciar as ações que envolvem o Programa de Assistência Multidisciplinar de Saúde (AMS) oferecido em acordo coletivo de trabalho.
+Afirma que, por se tratar de matéria de ordem pública, deve ser reconhecida de ofício e em qualquer grau de jurisdição, não estando sujeito à preclusão.
+Por outro lado, argumenta a inaplicabilidade da legislação do consumidor aos programas de autogestão, como na hipótese. Cita precedentes nesse sentido.
+Menciona a inexistência de dano moral indenizável, tratando-se o descumprimento contratual de mero aborrecimento.
+Após a apresentação das contrarrazões (e-STJ fls. 1.132/1.145), o recurso foi admitido na origem, subindo os autos a esta Corte.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil/2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar em parte.
+Registra-se, de início, no tocante ao art. 1.022 do Código de Processo Civil de 2015, que a questão da competência da Justiça laboral não foi objeto dos embargos de declaração opostos perante o Tribunal local, o qual objetivou esclarecimento apenas a respeito do valor da indenização por danos morais.
+Assim, tal ponto carece de interesse recursal.
+Por outro lado, conforme a jurisprudência desta Corte, inexiste preclusão para o juiz em matérias de ordem pública, a exemplo da competência absoluta.
+A propósito:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO INDIRETA. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC NÃO DEMONSTRADA. COMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL PROCLAMADA EM ANTERIOR AGRAVO DE INSTRUMENTO. POSTERIOR DECLARAÇÃO DE SUA INCOMPETÊNCIA EM APELAÇÃO. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. PRESSUPOSTO PROCESSUAL. ART. 473 DO CPC. INEXISTÊNCIA DE PRECLUSÃO PRO JUDICATO.
+1. Verifica-se não ter ocorrido ofensa ao art. 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. De acordo com a jurisprudência do STJ, estando em curso a lide, inexiste preclusão pro judicato diante de matérias de ordem pública, de que é exemplo a apreciação do pressuposto processual concernente à competência absoluta. Precedentes.
+3. Como explicam [NOME] e DANIEL MITIDIERO, "Determinadas matérias são insuscetíveis de preclusão e podem voltar a ser examinadas pelo órgão jurisdicional dentro do mesmo grau de jurisdição ainda que já decididas. São infensas à preclusão. O art. 267, § 3º, CPC, arrola exemplos da espécie - os pressupostos processuais e as condições da ação são insuscetíveis de preclusão" (Código de Processo Civil comentado artigo por artigo. 4. ed. São Paulo: RT, 2012, nota 2 ao art. 473, p. 454).
+4. Logo, deve prevalecer a combatida decisão do TRF da 3ª Região que, ao julgar a apelação, decidiu ser da Justiça Estadual a competência para julgar a ação, mesmo tendo, em anterior agravo de instrumento, proclamado a competência da Justiça Federal.
+5. Recurso especial a que se nega provimento" (REsp 1.240.091/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/10/2016, DJe 2/2/2017 - grifou-se).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. LEVANTAMENTO DE MONTANTE DA CONDENAÇÃO. AUSÊNCIA DE QUESTIONAMENTO ACERCA DE ATUALIZAÇÃO MONETÁRIA E JUROS DE MORA ENTRE O CÁLCULO E O DEPÓSITO EM JUÍZO DA VERBA. SUSCITAÇÃO DESSAS TESES MAIS DE ANO APÓS O LEVANTAMENTO. IMPOSSIBILIDADE. NECESSIDADE DE OBSERVÂNCIA, PELO JUDICIÁRIO, À BOA-FÉ OBJETIVA E À PRECLUSÃO PROCESSUAL.
+1. Em se tratando de direitos indisponíveis, não há falar em preclusão pro judicato, sendo tranquilo o posicionamento do Superior Tribunal de Justiça no sentido de que "existem situações ou vícios processuais imunes à preclusão, em que o direito dos litigantes cede pelo interesse público a ser preservado  .. . São as denominadas questões de ordem pública passíveis de ser apreciadas, inclusive, de ofício pela autoridade judicial" (EDcl no REsp 1.467.926/PR, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 3/11/2015, DJe 16/11/2015). (..)
+6. Recurso especial da Petros provido, prejudicado o recurso de [NOME] e outros" (REsp 1.426.413/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 1/12/2016, DJe 22/2/2017 - grifou-se).
+Dessa forma, o entendimento do Tribunal de origem afronta a jurisprudência desta Corte Superior.
+Superada tal questão, observa-se que, na hipótese em exame, o recurso especial visa discutir a competência absoluta para o julgamento da demanda, que a recorrente afirma ser da Justiça do Trabalho, tendo em vista o recorrido ser associado do Programa de Assistência Multidisciplinar de Saúde, e buscar a prestação de serviço de saúde.
+As instâncias ordinárias reconheceram a natureza consumerista da relação jurídica entabulada entre as partes e condenaram a recorrente ao pagamento da cirurgia e de todos os insumos necessários ao restabelecimento da saúde da autora e de indenização por danos morais no valor de R$ 6.000,00 (seis mil reais).
+Cuida-se, todavia, de assistência multidisciplinar à saúde mantida pela sociedade recorrente, situação acerca da qual já decidiu esta Corte competir à Justiça especializada decidir a respeito das relações jurídicas daí decorrentes.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DEMANDA PROPOSTA POR DEPENDENTE. ASSISTÊNCIA À SAÚDE OFERECIDA A EMPREGADOS, EX-EMPREGADOS E PENSIONISTAS, DE ACORDO COM DISPOSIÇÕES DE NORMA INTERNA DA EMPRESA E CONVENÇÃO COLETIVA DE TRABALHO. FALHAS NO REPASSE DE VALORES DEVIDOS. COMPETÊNCIA DO JUÍZO TRABALHISTA.
+- Consoante precedentes desta Corte, o Programa de Assistência Multidisciplinar à Saúde (AMS) da PETROBRAS decorre das disposições estabelecidas em Convenção Coletiva de Trabalho.
+- Competência do juízo trabalhista para a apreciação de todas as controvérsias originadas do referido programa, independentemente de sua natureza.
+- Embargos de divergência conhecidos e não providos" (EREsp 1.322.198/RJ, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 28/09/2016, DJe 30/09/2016).
+"PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA DO TRABALHO. PETROBRáS. PROGRAMA DE ASSISTÊNCIA MULTIDISCIPLINAR À SAÚDE (AMS). COMPETÊNCIA DA JUSTIÇA TRABALHISTA. JURISPRUDÊNCIA DO STJ.
+1. Compete à Justiça do Trabalho decidir as questões referentes ao Programa de Assistência Multidisciplinar à Saúde (AMS), oferecido pela Petrobras a seus empregados, aposentados e pensionistas, pois suas disposições são oriundas de convenção coletiva de trabalho.
+Jurisprudência do STJ.
+2. Agravo regimental provido" (AgRg no CC 131.786/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUTORIZAÇÃO PARA TRATAMENTO DE DEGENERAÇÃO MACULAR. PLANO DE ASSISTÊNCIA MULTIDISCIPLINAR. COMPETÊNCIA DA JUSTIÇA TRABALHISTA. PRECEDENTES.
+1. Segundo a jurisprudência desta Corte, "as questões referentes ao Programa de Assistência Multidisciplinar à Saúde (AMS), oferecido pela Petrobras a seus empregados, aposentados e pensionistas, são julgadas pela Justiça laboral, pois suas disposições são oriundas de Convenção Coletiva de Trabalho" (AgRg no AgRg no CC 126.545/BA, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe 20/8/2014).
+2. Agravo regimental a que se nega provimento" (AgRg nos EDcl no AREsp 580.629/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/09/2015, DJe 11/09/2015).
+Desse modo, o entendimento da Corte estadual vai de encontro ao ajustado por este Superior Tribunal.
+Ante o exposto, dou parcial provimento ao recurso especial para declarar a competência da Justiça do Trabalho para o julgamento da questão, com as consequências legais decorrentes. Invertam-se os ônus sucumbenciais.
+Publique-se.
+Intimem-se.
