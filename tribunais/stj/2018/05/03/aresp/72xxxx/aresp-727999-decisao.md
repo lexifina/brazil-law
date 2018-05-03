@@ -1,0 +1,20 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMPANHIA NACIONAL DE ABASTECIMENTO CONAB de decisão que negou seguimento a recurso especial fundamentado no art. 105, III, a, da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal Regional Federal da 2ª região assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO RENOVATÓRIO. LAUDO PERICIAL. IMPUGNAÇÃO GENÉRICA.
+I - Em ação renovatória, diante de alegações genéricas dirigidas a infirmar o trabalho realizado pelo Perito do Juízo, devem ser mantidas as conclusões do laudo pericial, elaborado de acordo com o método comparativo.
+II - Recuso de apelação desprovido." (fl. 297)
+Opostos embargos de declaração, não foram conhecidos (fls. 312/317).
+As razões do recurso especial apontam violação dos arts. 1º, parágrafo único e 54 da Lei 8.666/93 e 87 do Decreto-lei 9.760/1946, alegando a recorrente, em síntese, que, na qualidade de empresa pública federal, prestadora de serviços públicos tipicamente de Estado, não se submete às normas de direito privado previstas na Lei 8.245/91, não se lhe aplicando, portanto, a renovação compulsória da locação de seus bens.
+Foram apresentadas contrarrazões (fls. 348/355).
+É o relatório. Decido.
+2. Não assiste razão à recorrente, uma vez que o acórdão recorrido encontra-se em consonância com o entendimento firmado no âmbito do Superior Tribunal de Justiça, no sentido de que os contratos de locação mantido pela CONAB se submetem às regras da Leis 8.245/91. A propósito:
+"PROCESSUAL CIVIL. LOCAÇÕES. AÇÃO RENOVATÓRIA. LOCAÇÃO COMERCIAL. CONAB. IMÓVEL DE EMPRESA PÚBLICA. LEI N. 8.245/1991. PROIBIÇÃO DO COMPORTAMENTO CONTRADITÓRIO (NEMO POTEST VENIRE CONTRA FACTUM PROPRIUM). SUCUMBÊNCIA RECÍPROCA. INOCORRÊNCIA. ART. 21, PARÁGRAFO ÚNICO, DO CPC.
+1. Somente as locações de imóveis de propriedade da União, dos estados e dos municipios, de suas autarquias e fundações públicas não se submetem às normas da Lei n. 8.245/1991, nos expressos termos do artigo 1º, parágrafo único, alínea "a", n. 1, do texto legal.
+2. No caso concreto, não consta nenhuma informação no sentido de que o imóvel objeto do contrato de locação seria de titularidade da União, e a Conab mera possuidora deste. Muito pelo contrário, infere-se do acórdão que o imóvel é de propriedade da empresa pública, sujeita às normas aplicáveis às empresas privadas, inclusive nas relações jurídicas contratuais que venha a manter.
+3. As locações são contratos de direito privado, figure a administração como locadora ou como locatária. Neste último caso, não há norma na disciplina locatícia que retire do locador seus poderes legais. Naquele outro também não se pode descaracterizar o contrato de natureza privada, se foi este o tipo de pacto eleito pela administração, até porque, se ela o desejasse, firmaria contrato administrativo de concessão de uso. (CARVALHO FILHO, José dos Santos. Manual de direito administrativo. 22ª ed., rev, ampl. e atualizada. Editora Lumen Juris: Rio de Janeiro, 2009. p. 183)
+4. O intento da recorrente de contratar com base na Lei de Locações, oferecendo condições para renovação da locação e gerando uma legítima expectativa à locatária, e, posteriormente, não querer se submeter à Lei n. 8.245/1991, atenta contra o princípio da boa-fé objetiva, notadamente em sua vertente venire contra factum proprium.
+5. Sob o ângulo do princípio da causalidade, a recorrente, ré na ação renovatória de aluguel, ao se opor à renovação do contrato de locação celebrado entre as partes, não obstante o cumprimento dos requisitos previstos da Lei n. 8.245/1991, deve responder pelos ônus sucumbenciais. É que sem a sua conduta não haveria motivo para a propositura da demanda.
+6. Recurso especial não provido." (REsp 1.224.007/RJ, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 8/5/2014).
+No mesmo sentido: AREsp 877.857/RJ (Rel. Min. ISABEL GALLOTTI, Dje de 23/3/2018) e AREsp 1.222.396/RJ (Rel. Min. ANTONIO CARLOS FERREIRA, Dje de 1/3/2018).
+Do exposto, com fundamento nas Súmulas 83 e 568 do STJ, conheço do agravo para negar provimento ao recurso especial, nos termos do art. 253, parágrafo único, II, b, do RISTJ.
+Publique-se.
