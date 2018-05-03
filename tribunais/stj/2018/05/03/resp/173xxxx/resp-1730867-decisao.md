@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por [NOME] com fundamento no art. 105, III, a, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o recorrente foi condenado, em primeira instância, como incurso no art. 155, caput, c/c o art. 14, II, ambos do Código Penal, à pena de 1 ano de reclusão, no regime inicial semiaberto (reincidente), e ao pagamento de 8 dias-multa.
+O Tribunal de origem deu provimento à apelação do Ministério Público, afastando a forma tentada e a compensação da agravante da reincidência com a atenuante da confissão espontânea. A pena ficou redimensionada para 1 ano, 4 meses e 10 dias, mais pagamento de 12 dias-multa. O acórdão recebeu a seguinte ementa (e-STJ fl. 221):
+APELAÇÃO CRIMINAL - Furto simples - Afastada a tentativa - Autoria e materialidade delitiva perfeitamente demonstradas - Prova robusta a admitir a condenação do réu - Afastada a compensação da reincidência com a confissão - Recurso ministerial provido.
+Daí o presente recurso, no qual o recorrente alega violação do art. 67 do Código Penal. Pugna pela compensação da atenuante da confissão espontânea com a agravante da reincidência.
+Contrarrazões às e-STJ fls. 255/260.
+O Ministério Público Federal manifestou-se nos termos sintetizados na ementa a seguir transcrita (e-STJ fl. 311):
+RECURSO ESPECIAL. TENTATIVA DE FURTO MAJORADO. ARTIGO 155, CAPUT, C/C ARTIGO 14, INCISO II AMBOS DO CÓDIGO PENAL. REINCIDÊNCIA E CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO. POSSIBILIDADE. JURISPRUDÊNCIA PACÍFICA DA TERCEIRA SEÇÃO DESSE E. SUPERIOR TRIBUNAL DE JUSTIÇA. VIOLAÇÃO AO ARTIGO 67 DO CP. CONHECIMENTO E PROVIMENTO DO RECURSO ESPECIAL, PARA QUE SE PROCEDA À COMPENSAÇÃO ENTRE A ATENUANTE DA CONFISSÃO ESPONTÂNEA E A AGRAVANTE DA REINCIDÊNCIA.
+É o relatório. Decido.
+Assiste razão ao recorrente.
+Com efeito, no julgamento dos EREsp n. 1.154.752/RS, ocorrido em 23/5/2012 (DJe 4/9/2012), a Terceira Seção deste Superior Tribunal pacificou o entendimento de que é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+A propósito:
+HABEAS CORPUS. WRIT SUBSTITUTIVO. ROUBO CIRCUNSTANCIADO. CONFISSÃO ESPONTÂNEA. ATENUANTE CONFIGURADA. COMPENSAÇÃO COM A REINCIDÊNCIA. POSSIBILIDADE. TERCEIRA ETAPA DA DOSIMETRIA. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA. REGIME INICIAL MENOS GRAVOSO. IMPOSSIBILIDADE. ORDEM CONCEDIDA DE OFÍCIO.
+1. Se a confissão do réu foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal, sendo irrelevante o fato de a confissão ter sido espontânea ou não, total ou parcial, ou que tenha havido posterior retratação.
+2. No julgamento do Resp n. 1.341.370/MT, a Terceira Seção deste Superior Tribunal reafirmou o entendimento de que, observadas as peculiaridades de cada caso, é possível, na segunda fase da dosimetria da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+3. As instâncias ordinárias não indicaram nenhuma particularidade que lograsse obstar a compensação da reincidência com a confissão (tal como a existência de diversas condenações transitadas em julgado caracterizadoras da referida agravante), de forma que deve ser reconhecida a sua compensação, nos termos da jurisprudência consolidada desta Corte.
+4. O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ.
+5. O Juízo de primeiro grau indicou dados fáticos suficientes a demonstrar a gravidade concreta do crime - na espécie, delito cometido em plena via pública, contra vítima que nem sequer fala português (estrangeiro refugiado), mediante concurso de quatro agentes, que abordaram o ofendido de maneira agressiva, um dos quais portava arma de fogo.
+6. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+7. Não há ilegalidade no estabelecimento do regime inicial fechado quando apontados dados fáticos suficientes a indicar a gravidade concreta do crime, em especial o modus operandi adotado pelos agentes.
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, para reconhecer a atenuante da confissão espontânea, em relação ao primeiro paciente, a ser compensada com a agravante da reincidência, readequando a reprimenda a ele imposta (HC 355.341/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/06/2016, DJe 23/06/2016).
+Assim, faz-se necessária a readequação da pena.
+Mantenho a pena-base tal como fixada no aresto recorrido em 1 ano e 2 meses de reclusão e 11 dias-multa.
+Na segunda fase, compenso a atenuante da confissão espontânea com a agravante da reincidência, mantendo inalterada a reprimenda.
+Na terceira fase, sem razões para alteração, a pena permanece no mesmo patamar.
+O regime inicial permanece o semiaberto, considerando que as circunstâncias judiciais não eram todas favoráveis e o recorrente é reincidente.
+Ante o exposto, dou provimento ao recurso especial para determinar a compensação da atenuante da confissão espontânea com a agravante da reincidência, reduzindo a reprimenda do recorrente para 1 ano e 2 meses de reclusão, mais pagamento de 11 dias-multa, mantidos, no mais, os termos do aresto recorrido.
+Publique-se. Intimem-se.
