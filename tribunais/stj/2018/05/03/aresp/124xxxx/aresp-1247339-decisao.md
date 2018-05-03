@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], em face de decisão que negou seguimento ao recurso especial, com fundamento nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, contra acórdão assim ementado:
+
+AÇÃO DE COBRANÇA - Implementação de redes de coleta de esgoto, fornecimento de água e de transmissão de energia elétrica, em loteamento particular - Pretensão do loteador de ressarcimento dos custos com a instalação - Admissibilidade - Responsabilidade legal do loteador pela infraestrutura básica do empreendimento, nela se incluindo os equipamentos necessários ao fornecimento de energia elétrica domiciliar (art. 2o, §5º, da Lei 6.766/1979) - Despesas do loteador que podem ser repassadas aos futuros adquirentes dos lotes - Cláusula contratual válida - Sentença reformada - Recurso provido.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem, adotando-se a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO - Omissão - Inocorrência - Enfrentamento de todas as questões suscitadas no recurso - Caráter infringente, estranho à função integrativa dos embargos - Embargos rejeitados - Preclusão consumativa em relação a embargos opostos posteriormente pela mesma parte - Embargos não conhecidos.
+Nas razões do especial, aponta a parte recorrente existência de dissídio jurisprudencial, além de negativa de vigência dos artigos 489 do novo Código de Processo Civil; 18 e 22 da Lei 6.76/79, sustentando ser da recorrida a responsabilidade pelas despesas de implantação de rede de água no loteamento onde se encontra seu imóvel.
+Destaca que por meio de ação civil pública, com trânsito em julgado, foi reconhecida a responsabilidade solidária da recorrida e da prefeitura para a execução das obras de infraestrutura no loteamento onde está localizado o imóvel do recorrente, sendo reputadas como ilegais as cláusulas contratuais que repassavam a obrigação para o adquirente.
+Requer a improcedência da ação de cobrança.
+Da análise dos autos, observo que suas alegações de ofensa à lei federal não merecem prosperar.
+De início, não houve debate sobre a nulidade das cláusulas do contrato avençado entre os litigantes em que se alegou terem sido reconhecidas em ação civil pública, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, estando ausente o requisito indispensável do prequestionamento, incidindo, na hipótese, as Súmulas nº 282 e 356 do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO AUTOR.
+1. Em relação ao artigo 396 do Código Civil, incidem os enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a matéria contida em tal dispositivo não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. A despeito de o insurgente afirmar não ter manejado o reclamo com base na alínea "c" do permissivo constitucional, em uma simples leitura da folha de apresentação do recurso especial depreende-se que o apelo foi interposto com fundamento "nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição da República". Assim, não tendo a parte logrado comprovar o referido dissenso jurisprudencial, adequada a monocrática que não conheceu do recurso no ponto.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1112475/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 25/10/2017)
+Esta Corte Superior tem, de fato, entendimento de que é possível que os custos de construção da infraestrutura básica do loteamento sejam repassados aos adquirentes dos lotes.
+Leiam-se os seguintes acórdãos:
+Parcelamento do solo. Lei nº 6.766/79. Validade da cláusula contratual que permite o repasse do custo de construção das galerias de águas pluviais para os adquirentes. Precedente da Corte.
+1. A Lei nº 6.766/79 não proíbe o repasse dos custos de construção das galerias de águas pluviais aos adquirentes, como previsto contratualmente.
+2. Recurso especial conhecido e provido.
+(REsp 209.819/SP, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 11/4/2003, DJ 15/3/2004, p. 264)
+DIREITO CIVIL. LOTEAMENTO DO SOLO URBANO (LEI 6.766/79). CLÁUSULA CONTRATUAL QUE PERMITE O REPASSE DE CUSTOS DAS REDES DE ÁGUA E ESGOTO AOS ADQUIRENTES DOS IMÓVEIS. VALIDADE. INEXISTÊNCIA DE VEDAÇÃO NA LEI. RECURSO PROVIDO.
+I - A LEI 6.766/79, QUE TRATA DO PARCELAMENTO DO SOLO URBANO, NÃO VEDA O AJUSTE DAS PARTES NO TOCANTE À OBRIGAÇÃO DE CUSTEAR REDES DE ÁGUA E ESGOTO NOS LOTEAMENTOS, SENDO VÁLIDA, PORTANTO, CLÁUSULA CONTRATUAL QUE PREVEJA O REPASSE DOS CUSTOS DE TAIS OBRAS AOS ADQUIRENTES DOS LOTES.
+II - O QUE A LEI 6.766/79 CONTEMPLA, NO SEU ART. 26, SÃO DISPOSIÇÕES QUE DEVEM OBRIGATORIAMENTE ESTAR CONTIDAS NOS COMPROMISSOS DE COMPRA E VENDA DE LOTES, REQUISITOS MÍNIMOS PARA A VALIDADE DESSES CONTRATOS, O QUE NÃO SIGNIFICA QUE OUTRAS CLÁUSULAS NÃO POSSAM SER PACTUADAS. EM OUTRAS PALAVRAS, ALÉM DAS INDICAÇÕES QUE A LEI PRESCREVE COMO REFERÊNCIAS OBRIGATÓRIAS NOS CONTRATOS, PODEM AS PARTES, DENTRO DAS POSSIBILIDADES OUTORGADAS PELA LEI DE PACTUAR O LICITO, RAZOÁVEL E POSSÍVEL, CONVENCIONAR OUTRAS REGRAS QUE AS OBRIGUEM.
+(REsp 43.735/SP, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, julgado em 12/11/1996, DJ 14/4/1997, p. 12748)
+DIREITO CIVIL. A LEI DO PARCELAMENTO DE SOLO URBANO ( LEI N.º 6.766/79) NÃO VEDA O AJUSTE ENTRE AS PARTES NO TOCANTE Á OBRIGAÇÃO DE CUSTEAR DESPESAS COM INFRA-ESTRUTURA, SENDO, PORTANTO, VÁLIDA CLÁUSULA CONTRATUAL NESSE SENTIDO. INEXISTÊNCIA DE AFRONTA AO ART. 535, II, CPC. CONTUDO, VIOLAÇÃO AOS DISPOSITIVOS DA LEI 6766/79, POR ERRÔNEA INTERPRETAÇÃO EXTENSIVA. DISSÍDIO TAMBÉM RECONHECIDO.
+1. Não há falar em omissão quando o acórdão confere à lei a interpretação que entende adequada, porém não na forma almejada pela parte.
+2. Precedentes da quarta turma/STJ no sentido de que a lei n.º 6.766/79, que trata do parcelamento do solo urbano, não veda o ajuste das partes no tocante à obrigação de custear redes de água e esgoto nos loteamentos, sendo válida, portanto, cláusula contratual que preveja o repasse dos custos de tais obras aos adquirentes dos lotes".
+3. "O que a lei 6.766/79 contempla, no seu art. 26, são disposições que devem obrigatoriamente estar contidas nos compromissos de compra e venda de lotes, requisitos mínimos para a validade desses contratos, o que não significa que outras cláusulas não possam ser pactuadas. Em outras palavras, além das indicações que a lei prescreve como referências obrigatórias nos contratos, podem as partes, dentro das possibilidades outorgadas pela lei de pactuar o lícito, razoável e possível, convencionar outras regras que as abriguem".
+RECURSO CONHECIDO E PROVIDO.
+(REsp 205.901/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/8/2008, DJe 8/9/2008)
+O Tribunal estadual, ao analisar as circunstâncias fáticas contidas nos autos e o contrato tabulado, assim decidiu (fls. 251-258, e-STJ):
+A discussão dos autos se assenta na possibilidade ou não do loteador repassar aos compromissários- compradores os custos por ele despendidos com a efetivação das obras elementares de implantação do empreendimento Vale Verde, tudo conforme previsto em cláusula inserta no contrato firmado entre as partes.
+Conforme dispõe a cláusula décima segunda do contrato (fl. 18 v9), "as despesas de colocação da rede de energia elétrica, bem como posteamento, transformadores, fiação, relógios, poços artesianos e respectivas instalações, caixa d"água, rede de distribuição de água, guias, sarjetas e asfalto, serão rateadas entre os condôminos.."
+A matéria já foi objeto de discussão no Superior Tribunal de Justiça, prevalecendo o entendimento de que a Lei n.2 6.76679, que trata do parcelamento do solo urbano, não veda o ajuste das partes no tocante à obrigação de custear despesas de infraestrutura nos loteamentos, sendo válida, portanto, cláusula contratual que preveja o repasse dos custos de tais obras aos adquirentes dos lotes.
+(..)
+No caso, conforme se pode ver dos documentos trazidos ao processo, restaram bem dimensionados os valores praticados pela requerida, especificando que o preço referente às obras de infraestrutura básica.
+ (..)
+O que a Lei 6.766/79 contempla, no seu art. 26, são disposições que devem obrigatoriamente estar contidas nos compromissos de compra e venda de lotes, requisitos mínimos para a validade desses contratos, o que não significa que outras cláusulas não possam ser pactuadas. Em outras palavras, além das indicações que a lei prescreve como referências obrigatórias nos contratos, podem as partes, dentro das possibilidades outorgadas pela lei de pactuar o lícito, razoável e possível, convencionar outras regras que as abriguem.
+Além de não existir previsão, na Lei de Parcelamento de Solo, acerca da vedação para o repasse dos custos de infraestrutura aos adquirentes dos lotes, a cláusula não parece abusiva.
+E, com efeito, a avença não se subsume em nenhum dos incisos do art. 51, CDC, matéria, aliás, não debatida nesses autos.
+Nesses moldes, há que se concluir que inexiste óbice legal a que dos contratos de compra e venda de lotes, em loteamento urbano, conste cláusula atribuindo aos compradores os encargos, em valores razoáveis, para obras de infraestrutura. Certo, outrossim, que a adoção desse entendimento não importa afronta ao acórdão proferido na ação civil pública referida na sentença.
+Desta forma, o Colegiado de origem, após minudente análise do conjunto fático-probatório e das obrigações entabuladas em contrato, reconheceu a extensão das obrigações assumidas.
+A revisão do entendimento deste ponto, nos moldes das questões factuais, ainda com base na interpretação de cláusulas contratuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do arcabouço contratual, o que é vedado, em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DISPOSITIVO LEGAL INCOMPATÍVEL COM A TESE SUSTENTADA. CONTRATO DE LOTEAMENTO. CLÁUSULA ESPECÍFICA. REEXAME DE CONTRATO E DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula n. 284 do STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento de contrato e do contexto fático dos autos (Súmulas n.5 e 7 do STJ).
+3. No caso concreto, a parte alega a existência de situação excepcional, relativa a cláusula de contrato de loteamento. Entretanto, alterar o entendimento sobre o tema, consolidado pelo Tribunal de origem, demandaria reexame de suas cláusulas, bem como do conjunto probatório do feito, o que é vedado em recurso especial.
+4. Agravo interno desprovido.
+(AgInt no REsp 1503675/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 27/3/2018)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do Código de Processo Civil/2015, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
