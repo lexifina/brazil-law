@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo de instrumento de TRIBOTÉCNICA LUBRIFICANTES SINTÉTICOS LTDA. em que pretende admissão de recurso especial, no qual discute a inclusão do ICMS na base de cálculo da contribuição ao PIS e da COFINS, o direito de compensar os valores recolhidos e a respectiva atualização monetária.
+Com contrarrazões, o recurso não foi admitido porque encontraria óbice na Súmula 282 do STF, fundamento com o qual não concorda a agravante.
+Por decisão datada de 22 de outubro de 2009, o em. Min. Hamilton Carvalhido determinou o sobrestamento do recurso, à espera do julgamento do RE 574.706.
+Passo a decidir.
+O Supremo Tribunal Federal, por ocasião do julgamento do RE 574.706/PR, após o reconhecimento da repercussão geral da matéria, decidiu que o valor arrecadado a título de ICMS não se incorpora ao patrimônio do contribuinte e, dessa forma, não pode integrar a base do PIS e da COFINS.
+Ocorre que, já julgada a questão pelo Pretório Excelso, os autos deverão retornar ao Tribunal Regional Federal para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Com efeito, este Tribunal Superior tem externado que, "podendo a ulterior decisão do STF, em repercussão geral já reconhecida, afetar o julgamento da matéria veiculada no recurso especial, faz-se conveniente que o STJ, em homenagem aos princípios processuais da economia e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem para que ali, em se fazendo necessário, seja oportunamente realizado o ajuste do acórdão local ao que vier a ser decidido na Excelsa Corte" (AgInt nos EDcl no REsp 1589873/CE, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 08/08/2017, DJe 22/08/2017).
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO O SOBRESTAMENTO do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos, com a respectiva baixa, para que tal providência seja realizada.
+Publique-se. Intimem-se.
