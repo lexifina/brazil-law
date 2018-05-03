@@ -1,0 +1,26 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo foi interposto por Alexsander Roberto Pinheiro contra acórdão que, confirmado em sede de embargos de declaração pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, está assim ementado:
+    “APELAÇÃO-CRIME. POSSE IRREGULAR DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA.
+    A posse ilegal de arma de fogo é considerada delito de perigo abstrato, não sendo necessária a ocorrência de resultado naturalístico para sua consumação. Basta a mera conduta de possuir arma de fogo em desacordo com determinação legal para violar o bem jurídico tutelado. Condenação mantida. Apelo improvido. Unânime.”
+    A parte ora agravante, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos arts. 5º, LVII, e 144, da Constituição da República.
+    Cumpre assinalar, desde logo, que não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa penal.
+    No caso, a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+    Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+    Não custa enfatizar, consoante adverte o magistério da doutrina (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO e ANTONIO SCARANCE FERNANDES, “Recursos no Processo Penal”, p. 269/270, item n. 176, 1996, RT), que o reexame dos fatos e das provas constitui tema estranho ao âmbito de atuação do recurso extraordinário (Súmula 279/STF), ainda que se cuide, como no caso, de matéria de índole penal.
+    A mera análise do acórdão recorrido demonstra que o E. Tribunal de Justiça do Estado do Rio Grande do Sul, no julgamento da apelação, sustentou as suas conclusões em aspectos fático-probatórios:
+    “Materialidade delitiva consubstanciada pelo auto de apreensão (fl. 15), laudos periciais (fls. 106 e 119/121) e demais elementos coligidos ao feito.
+    Autoria induvidosa.
+    Interrogado, o réu confessou o cometimento do delito, declarando que possuía a arma de fogo para sua proteção (fls. 149/150).
+    O policial civil Márcio Leite de Carvalho afirma, em juízo, que, em cumprimento de mandado de busca e apreensão, foi localizada uma arma de fogo na residência do acusado (fl. 146 e verso).
+    No mesmo sentido é o depoimento do policial civil Juliano Daltrozo Barbosa, confirmando a apreensão da arma de fogo em poder do réu (fls. M146v/147).
+    Como consabido, inexiste óbice na consideração de depoimentos policiais como meio hábil de prova. Basta que as declarações apresentem-se coerentes no essencial, e verossímeis, exatamente como no caso.
+    Os depoimentos prestados pelos policiais, aliados à confissão do acusado, revelam o cometimento do delito de posse ilegal de arma de fogo.
+    Outrossim, verifica-se nos laudos periciais de fls. 106 e 119/121 que a arma de fogo apreendida apresentava condições normais de uso e funcionamento, bem como o número de série foi suprimido por processos abrasivos.
+    A posse irregular de arma de fogo é considerada delito de perigo abstrato, não sendo necessária a ocorrência de resultado naturalístico para sua consumação. Basta a mera conduta de possuir arma de fogo em desacordo com determinação legal para violar o bem jurídico tutelado.
+    Ao contrário do que alega a defesa, não há falar na excludente da inexigibilidade de conduta diversa. Para o reconhecimento da excludente seria necessário comprovar situação de perigo atual e inevitável, que não permita alternativa, a não ser a prática do delito, o que não ocorre.
+    Não configura nem mesmo o caso de legítima defesa. A legítima defesa em potencial ou preventiva, sob o fundamento de que o Estado não garante a segurança do cidadão não serve de motivo para excluir a ilicitude a conduta. A segurança pública é atribuição do Estado e, em razão disso, não é possível admitir que o cidadão possua irregularmente arma de fogo sob esta justificativa.”
+    Vê-se, portanto, que a pretensão deduzida, em sede recursal extraordinária, pela parte ora agravante revela-se processualmente inviável, pois o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 – RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se de inteira soberania (RTJ 152/612 – RTJ 153/1019 – RTJ 158/693, v.g.).
+    Sendo assim, e em face das razões expostas, ao apreciar o presente agravo, não conheço do recurso extraordinário a que ele se refere, por ser este manifestamente inadmissível (CPC, art. 932, III).
+    Publique-se.
+    Brasília, 03 de maio de 2018.
+Ministro CELSO DE MELLO
+Relator
