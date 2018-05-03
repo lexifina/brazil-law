@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de agravo (artigo 1042 do CPC/2015) manejado por CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS em face de decisão que negou seguimento ao recurso especial (e-STJ, fls. 381/382).
+O apelo extremo, a seu turno, com fundamento nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 303):
+AÇÃO REVISONAL DE CONTRATO BANCÁRIO.
+Contrato de empréstimo pessoal.
+AÜSÊNCIA DE INTERESSE RECURSAL. Tarifa de cadastro. Apelante que não sucumbiu nessa matéria. Recurso não conhecido neste ponto.
+REVISÃO CONTRATUAL. Possibilidade. Inexistência de mácula ao princípio do pacta sunt servanda ou da intangibilidade dos atos jurídicos perfeitos. Necessidade, no entanto, de demonstração das cláusulas abusivas (Súmula nº 381 do C. STJ).
+JUROS REMUNERATÓRIOS. Limite da taxa de juros. Inexistência de limitação ao percentual de 12% (doze por cento) ao ano (STJ, Recursos Repetitivos, REsp 1.061.530-RS). Taxa de juros contratada. Previsão contratual. A taxa se configura abusiva se e quando superior à media de mercado, consideradas as circunstâncias da contratação. Abusividade comprovada. Redução à taxa média de mercado. Precedentes do STJ (REsp 1.060.530-RS e Edcl no AgRg no REsp 989535/MG). Recurso não provido.
+REPETIÇÃO DE INDÉBITO. Admissibilidade. Forma simples. Ausência de prova inequívoca de má-fé. Enquanto pendente discussão judicial, a cobrança de encargo ou tarifa, posteriormente declarado abusivo, configura exercício regular de direito. Precedentes do C. STJ. Recurso não provido.
+DANO MORAL. Configuração. Cobrança de encargos abusivos. Negativação do nome da Apelada. Dever de reparar. Valor da condenação fixado em RS 10.000,00. Redução. Inadmissibilidade, na espécie. Razoabilidade e proporcionalidade. Recurso não provido.
+EFEITOS DA MORA. Cobrança abusiva no período de normalidade do contrato. Ocorrência. Exclusão do nome da Apelada nos órgãos de proteção ao crédito. Necessidade.
+Recurso não provido, neste ponto.
+HONORÁRIOS DE SUCUMBÊNCIA. Manutenção em 15% sobre o valor da nova verba indenizatória.
+Recurso conhecido em parte e, na parte conhecida, não provido.
+Nas razões do recurso especial, a parte agravante alega, além de divergência jurisprudencial, negativa de vigência aos artigos 4º, inciso IX, da Lei nº 4.595/1964; 43 da Lei nº 8.078/1990; e 927 do Código Civil.
+Sustenta, em síntese: a) a legalidade da taxa de juros remuneratórios da forma contratada, pois em conformidade com a média de mercado estabelecida à época da celebração para o tipo de risco assumido; b) ser devida a inclusão do nome da recorrida em órgãos de proteção ao crédito, ante a sua inadimplência perante a recorrente, agindo em exercício regular de direito; e c) a não configuração dos requisitos ensejadores do dever de indenizar.
+Postula, ainda, caso se entenda pela manutenção da responsabilização, a redução do valor da indenização por danos morais, reputando-a abusiva.
+Devidamente intimada, a parte recorrida não apresentou contrarrazões (e-STJ, fl. 380).
+O Tribunal a quo negou seguimento ao apelo extremo com base no artigo 1.030, inciso I, alínea b, do CPC/2015 (artigo 543-C, § 7º, inciso I, do CPC/1973), em razão dos Recursos Especiais nºs. 1.112.879/PR e 1.112880/PR, vinculados ao Tema 234; e inadmitiu-o com base no artigo 1.030, inciso V, do CPC/2015, quanto às demais questões.
+É o relatório.
+Decido.
+A insurgência não prospera.
+1. Não conheço do presente agravo no ponto em que trata dos juros remuneratórios
+Na hipótese em exame, como dito, o Tribunal de origem negou seguimento ao recurso especial de fls. 317/342 (e-STJ), por entender que a questão foi decidida em conformidade com os precedentes firmados pelo STJ pelo rito do art. 1.030, inciso I, alínea b, do CPC/2015 (543-C do CPC/1973, no julgamento dos Recursos Especiais nºs. 1.112.879/PR e 1.112880/PR, vinculados ao tema 234.
+A Jurisprudência desta Corte superior consolidou-se no sentido de que, contra a decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC/73 (atual art. 1.040, inciso I, do NCPC), não cabe agravo ou qualquer outro recurso direcionado ao Superior Tribunal de Justiça, por ausência de previsão legal, razão pela qual a admissão da presente irresignação equivaleria a desconstituir as diretrizes legislativas traçadas para implementar, no âmbito do Superior Tribunal de Justiça, o julgamento dos recursos repetitivos. Nesse sentido, ilustrativamente: AgRg no AREsp 815.007/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/06/2016, DJe 07/06/2016; e AgRg na MC 23.595/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/08/2016, DJe 12/08/2016.
+Não se trata, todavia, de ato irrecorrível, pois, nos termos do art. 1.030, § 2º, do NCPC, da decisão que nega seguimento a recurso especial interposto contra acórdão julgado em conformidade com entendimento firmado em julgamento processado pelo regime de recursos repetitivos, o recurso cabível é o agravo interno, para o próprio Tribunal.
+Salienta-se, por oportuno, não ser mais caso de aplicar o entendimento firmado pela Corte Especial no AgRg no AREsp 260.033/PR, porquanto, diante da nova ordem processual vigente, que é expressa quanto ao não cabimento de agravo corroborando o precedente firmado também pela Corte Especial na Questão de Ordem no Ag 1.154.599/SP, não há mais como afastar a pecha de erro grosseiro ao agravo interposto contra inadmissão de especial que contrarie entendimento firmado em recurso especial repetitivo e, assim, determinar o retorno do feito ao Tribunal de origem para que o aprecie como agravo interno.
+Inviável, portanto, o conhecimento da irresignação quanto a esse ponto.
+2. Relativamente aos artigos 43 do CDC e 927 do CC, verifica-se que a recorrente desenvolve sua argumentação defendendo ser devida a inscrição do nome da devedora nos serviços de proteção ao crédito no período em que esteve inadimplente perante a empresa credora, bem como não restarem configurados os requisitos ensejadores do dever de indenizar.
+Leia-se, a propósito, o seguinte trecho das razões do recurso especial interposto pela recorrente, in verbis, (e-STJ, fls. 337/338):
+O V. Acórdão proferido em segunda instância corroborou tal entendimento proferido pelo Juízo singular de que a negativação do nome da Recorrida teria sido indevida.
+Contudo, contrariamente ao entendimento do Juízo "a quo", a Recorrente comprovou que o nome da Recorrida foi inscrito Junto aos órgãos de proteção ao crédito ante sua inadimplência perante a Recorrente, sendo as parcelas do contrato cobradas de forma parceladas e acrescidas dos encargos moratórios devidos, sendo tal procedimento plenamente devido.
+Ora, a inclusão do nome de pessoas inadimplentes junto aos órgãos de proteção ao crédito, permitida pela regra do artigo 43 do Código de Defesa do Consumidor, tem por objetivo proteger a regularidade e a seriedade das relações negociais em geral, com a finalidade de disciplinar o crédito e criar um cadastro ou banco de dados contendo informações negativas ou positivas sobre as pessoas Interessadas em regularizar uma operação de consumo qualquer.
+Nesse aspecto, é uma postura normal e regular, não atingindo os direitos dos devedores que, justamente por se encontrarem nesta condição, devem se sujeitar a terem seus nomes lançados na lista dos maus pagadores.
+(..)
+É conferida à Recorrente a possibilidade de comunicar os órgãos de proteção ao crédito a respeito da inadimplência de seus clientes, inclusive a da Recorrida, que permanece inadimplente perante a Recorrente.
+O V. Acórdão negou vigência ao art. 43 da Lei 8.078/90 que autoriza, expressamente, a inclusão do nome do inadimplente junto aos órgãos de proteção ao crédito, demonstrando-se assim, que a Recorrente agiu apenas no exercício regular de um direito seu.
+Portanto, o entendimento contido no V. Acórdão de que a Recorrente manteve indevidamente inscrito o nome da Recorrida junto aos órgãos de proteção ao crédito está incorreto, motivo pelo qual deve ser reformado a fim de reconhecer-se a legalidade do apontamento.
+Ocorre que, no caso dos autos, o acórdão guerreado não apresenta qualquer discussão sobre a inscrição, seja devida ou indevida, do nome da recorrida nos serviços de proteção ao crédito.
+Quanto ao ponto, a Corte a quo, reconheceu tão somente configurado o dano moral in re ipsa por ser este o que decorre da inscrição indevida em cadastro de inadimplentes, já que prescinde de prova, por ser presumido e decorrer da própria ilicitude do fato.
+Dessa forma, constata-se que as razões de recurso especial estão dissociadas do conteúdo abordado no v. acórdão recorrido, não tendo os dispositivos apontados como violados teor normativo capaz de alterar a fundamentação lançada no acórdão recorrido, o que torna patente a falha de fundamentação do apelo especial, circunstância que atrai, por analogia, o disposto nas Súmulas 283 e 284 do Supremo Tribunal Federal. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RAZÕES DISSOCIADAS DO RECURSO ESPECIAL EM RELAÇÃO AO ACÓRDÃO RECORRIDO. SÚMULAS 283 E 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ, 282/STF E 356/STF. PREQUESTIONAMENTO FICTO ADMITIDO PELO ART. 1.025 DO CPC/2015. NECESSIDADE DE INDICAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp 1132325/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 12/12/2017, DJe 02/02/2018 - grifos nossos)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 535 DO CÓDIGO DE PROCESSO CIVIL. INOCORRÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. CONTRIBUIÇÕES DESTINADAS ÀS ENTIDADES DO SISTEMA "S". LEGITIMIDADE PARA COBRANÇA. SÚMULA N. 83/STJ. CERCEAMENTO DE DEFESA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+DESCABIMENTO.
+I - (..)
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.
+Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+(..)
+IX - Agravo Interno improvido.
+(AgInt no REsp 1693576/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/12/2017, DJe 15/12/2017 - grifos nossos)
+3. Por fim, observa-se que a parte recorrente postula a redução da indenização moral sem, contudo, indicar qual ou quais dispositivos de lei federal entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido.
+(AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe de 27/08/2015)
+Ademais, nos termos da jurisprudência desta Corte Superior, é incabível a revisão de quantum indenizatório estabelecido na origem com fundamento em divergência jurisprudencial, uma vez que, ainda que os julgados confrontados guardem alguma semelhança nas características externas e objetivas, sempre haverá distinção no aspecto subjetivo.
+AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE, RECONSIDERANDO DELIBERAÇÃO ANTERIOR, NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA CASA BANCÁRIA.
+(..) 2. Tratando-se de valor arbitrado a título de danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos. Precedentes.
+3. Agravo regimental desprovido.
+(AgInt no AgRg no AREsp 626.767/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/12/2017, DJe 01/02/2018)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/1973. AUSÊNCIA. NORMA PROCESSUAL. DIREITO INTERTEMPORAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. PREMISSA DE FATO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+(..) 7. No tocante à alegada divergência jurisprudencial sobre o valor fixado a título de danos morais, consoante consolidada jurisprudência desta Corte, é incabível a arguição de divergência jurisprudencial tratando-se de valoração dos danos morais, pois os elementos subjetivos e fáticos subjacentes às causas são distintos a afastar o requisito da similitude fática necessário ao conhecimento do especial interposto com fulcro na alínea c do inciso III do art. 105 da Constituição Federal. Precedentes.
+8. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 155.853/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 09/02/2018)
+4. Do exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
