@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+EMBARGOS À EXECUÇÃO - CORRETAGEM - Não concluído o contrato de compra e venda - SENTENÇA DE PROCEDÊNCIA, para declarar a "inexigibilidade da obrigação consubstanciada no título executivo extrajudicial (cheque nº 002483)" - RECURSO DA EMBARGADA- EXEQUENTE IMPROVIDO
+Os embargos de declaração opostos foram rejeitados (fls. 613-616, e-STJ).
+Nas razões de recurso especial, alega a agravante, em suma, violação aos artigos 11, 111, 337, inc. VII, § 1º e § 4º, 371, 374, II, 485, inc. V, 489, inc. II, 502, 503, 506, e 369 do Código de Processo Civil de 2015, e artigos 212, incs. I e II, 724, 725, 726 e 727 do Código Civil.
+Sustenta a existência de nulidade do acórdão local por desrespeito à coisa julgada tendo em vista a existência de demanda diversa, onde se discute o débito em litígio.
+Defende haver omissão do Tribunal local, ao argumento de que não foi analisada "toda a extensão da questão posta nos autos" (e-STJ, fl. 630).
+Suscita que o entendimento do Tribunal de origem, de que a questão acerca da conexão estava preclusa, traduz violação à Lei.
+Alega que, tendo os serviços de corretagem sido prestados, inclusive com assinatura do contrato de compra e venda, eventuais vícios inerentes ao imóvel não podem obstar a contraprestação dos aludidos serviços.
+Apresentadas contrarrazões (e-STJ fls. 680 - 695), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 719-721, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Quanto à alegada necessidade de conexão de processos e ofensa à coisa julgada, cumpre trazer à liça os fundamentos utilizados no acórdão recorrido que negaram a pretensão, nos seguintes termos (e-STJ, fl. 571):
+Preclusa a questão referente à conexão - a impossibilidade de reunião dos processos para julgamento simultâneo fora reconhecida a fls.376 (pois já prolatada sentença no Processo número 0135248-12.2012.8.26.0100), decisão da qual a Embargada-Exequente não recorreu, notando-se que descabido novo pronunciamento. acerca da questão (ainda que de ordem pública), pois não alegada modificação da situação fática.
+Verifica-se que o Tribunal de origem, além de registrar a preclusão do tema ao fundamento de que a agravante não se insurgiu contra a decisão que indeferiu a conexão dos processos, culmina por adotar providência que coincide com entendimento jurisprudencial desta Corte Superior. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. CONEXÃO. JULGAMENTO CONJUNTO. REUNIÃO INVIABILIZADA QUANDO JÁ PROFERIDA SENTENÇA EM UMA DAS AÇÕES. SÚMULA N. 235/STJ. 3. ALCANCE DA COISA JULGADA. 4. DOLO OU CULPA GRAVE DO CONDUTOR. NÃO DEMONSTRAÇÃO NOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 5. TRANSPORTE DE CORTESIA. SÚMULA N. 145/STJ. 6. AGRAVO INTERNO DESPROVIDO.
+1. Não há falar em omissão, contradição ou carência de fundamentação no acórdão a quo, pois o Tribunal de origem decidiu a questão de forma clara e fundamentada, ainda que contrariamente aos interesses da parte ora insurgente.
+2. Conforme esclarecido pelo Tribunal de origem, a ação indenizatória ajuizada por [NOME] já havia sido julgada. Dessa forma, incide à hipótese o entendimento consolidado na Súmula n. 235 desta Corte: "a conexão não determina a reunião dos processos, se um deles já foi julgado".
+3. Tendo as instâncias ordinárias, soberanas no exame do acervo fático-probatório dos autos, concluído que se tratava de relação de transporte gratuito e desinteressado, não estando demonstrados nos autos o dolo ou a culpa grave do preposto da recorrida, não se mostra possível modificar tal conclusão ante o óbice do enunciado n. 7 da Súmula desta Corte Superior. Ademais, nos termos da Súmula n. 145 do STJ: No transporte desinteressado, de simples cortesia, o transportador só será civilmente responsável por danos causados ao transportado quando incorrer em dolo ou culpa grave.
+4. Agravo interno desprovido (AgInt no AREsp 1063623/RS, Relator: Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, Julgamento 05/12/2017, DJe 15/12/2017
+Incide no caso a Súmula 83 do STJ, a obstar a pretensão veiculada.
+Quanto à tese de que o pagamento é devido por terem sido prestados os serviços de corretagem a contento, verifica-se que o Tribunal de origem afastou a pretensão utilizando-se dos seguintes fundamentos (e-STJ, fls. 571):
+O artigo 725 do Código Civil estatui que "a remuneração é devida ao corretor uma vez que tenha conseguido o resultado previsto no contrato de mediação, ou ainda que este não se efetive em virtude de arrependimento das partes".
+Todavia, o parágrafo segundo da "cláusula nona" do compromisso estipula que "Por outro lado, se, e somente se, a documentação apresentada pelos Vendedores evidenciar ônus, ou vício, que efetiva e claramente afete a segurança e a continuidade desta transação, ficará, igualmente, rescindido este contrato, devolvendo eles aos Compradores os valores até então recebidos".
+Entrementes, demover a conclusão do acórdão que, diante da análise dos fatos, provas e das cláusulas contratuais, entendeu ser indevido o pagamento da comissão de corretagem é medida que encontra veto nos verbetes 5 e 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
