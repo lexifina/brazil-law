@@ -1,0 +1,34 @@
+EMENTA
+PROCESSUAL CIVIL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM ARESP. RECURSO QUE IMPUGNA DECISÃO MONOCRÁTICA DE RELATOR PROFERIDA APÓS A ENTRADA EM VIGOR DO NOVO CPC. PRAZO AINDA REGIDO PELO ART. 39 DA LEI 8.038/90. INTEMPESTIVIDADE.
+1. O agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015).
+2. Isso porque, no ponto, não foi revogada, expressamente, como ocorreu com outros de seus artigos, a norma especial da Lei 8.038/90 que estabelece o prazo de cinco dias para o agravo regimental.
+3. Além disso, a regra do art. 798 do Código de Processo Penal, segundo a qual "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" constitui norma especial em relação às alterações trazidas pela Lei 13.105/2015.
+4. Assim sendo, interposto o agravo regimental em 25/04/2018 (quarta-feira) contra decisão monocrática de Relator publicada em 12/04/2018 (quinta-feira), é forçoso reconhecer a intempestividade do recurso, por não ter obedecido ao prazo o prazo de 5 (cinco) dias previsto no art. 39 da Lei 8.038/90.
+5. Agravo regimental de que não se conhece, em razão da sua intempestividade.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental. Os Srs. Ministros Ribeiro Dantas, Felix Fischer e Jorge Mussi votaram com o Sr. Ministro Relator. Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Cuida-se de agravo regimental interposto por [NOME], impugnando decisão monocrática de minha lavra (e-STJ fls. 886/896) que conheceu de seu agravo, para não conhecer de seu recurso especial.
+Em seu recurso especial, o recorrente questionava acórdão do Tribunal de Justiça do Espírito Santo que determinava a realização de um novo júri, por ter sido o julgamento absolutório contrário à prova dos autos.
+A defesa sustentava que a sentença absolutória decorreu da acolhida da tese de negativa de autoria sustentada pelo réu e amparada em alguns dos depoimentos judiciais, não havendo, por conseguinte, manifesta contrariedade às provas dos autos.
+Na decisão ora agravada, entretanto, entendi que "o acórdão hostilizado indicou com precisão o motivo pelo qual decidiu ter havido julgamento manifestamente contrário à prova dos autos, na medida em que indicou as provas que demonstrariam a participação do recorrente no delito e em que consistiu a contrariedade às mesmas: resposta negativa ao quesito de autoria/participação. Assim, não vislumbro ofensa ao artigo 593, III, "d", CPP". E que "Dissentir deste entendimento implicaria incursão aprofundada no arcabouço fático e probatório, a fim de perquirir se mal ou bem o apreciou o aresto objurgado, o que é vedado em sede extraordinária, a teor do disposto no verbete sumular n. 7/STJ" (e-STJ fls. 892/893).
+Inconformado, o agravante insiste em que, "No caso em debate, as questões de direito estão bem definidas no recurso especial. Não se trata, portanto, de tentativa de revolver prova, mas sim de clara impugnação a quaestio juris" (e-STJ fl. 904), sobre critérios de valoração das provas dos autos.
+Pugna, ainda, caso se mantenha a decisão agravada, pela concessão de habeas corpus de ofício, reconhecendo-se que "a decisão do tribunal revisor transmudou-se em forte sugestionadora dos jurados quando do novo julgamento em sessão plenária, restando evidenciada, pois, a sua invasão de competência" (e-STJ fl. 906).
+Pede, assim, seja "dado provimento ao presente AGRAVO REGIMENTAL para reformar a decisão monocrática e, com isso, destrancar (e prover) o recurso especial inadmitido pelo Tribunal capixaba", ou, subsidiariamente, "mesmo que improvido este agravo pela Quinta Turma, pede-se que seja analisada a possibilidade de concessão de habeas corpus "de ofício"" (e-STJ fl. 911).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O presente recurso impugna decisão monocrática de Relator proferida em 10/04/2018 e publicada no Diário da Justiça Eletrônico/STJ de 12/04/2018, portanto, já durante a vigência do novo Código de Processo Civil (Lei n. 13.105, de 16/03/2015).
+Isso não obstante, o agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015).
+Isso porque, no ponto, não foi revogada, expressamente, como ocorreu com outros de seus artigos, a norma especial da Lei 8.038/90 que dispõe sobre normas procedimentais para os processos que especifica, perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal, e que, em seu art. 39, prevê:
+Art. 39 - Da decisão do Presidente do Tribunal, de Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de cinco dias.
+Tal previsão legal é secundada pelo disposto no caput do art. 258 do Regimento Interno do Superior Tribunal de Justiça, cujo teor é o seguinte:
+Art. 258. A parte que se considerar agravada por decisão do Presidente da Corte Especial, de Seção, de Turma ou de relator, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+Além disso, importa lembrar que o art. 798 do Código de Processo Penal, em seu caput e § 1º, determina que "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" e que "Não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento".
+Com isso em mente, é forçoso reconhecer a intempestividade do agravo regimental interposto em 25/04/2018 (quarta-feira) contra decisão publicada em 12/04/2018 (quinta-feira), cf. certidão à e-STJ fl. 897.
+Iniciada a contagem do prazo no primeiro dia útil seguinte após a data da publicação no DJe, o prazo de 5 (cinco) dias previsto no art. 39 da Lei 8.038/90 se esgotou em 17/04/2018.
+Ante o exposto, não conheço do agravo regimental, ante a sua intempestividade.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
