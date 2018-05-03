@@ -1,0 +1,6 @@
+Solução de Divergência Cosit nº 98012, de 25 de abril de 2018
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Reforma de Ofício da Solução de Consulta SRRF/9ª RF/Diana nª 103, de 9 de julho de 2002. Código NCM 3401.11.90 Mercadoria: Esponja de toucador, de falso tecido, contendo, entre outros, água, edetato tetrassódico, cocoanfodiacetato dissódico, lauril éter sulfato de sódio, dietanolamida de ácido graxo, propilenoglicol, éster de ácido graxo, metilparabeno, triclosano e essência, própria para limpeza da pele, acondicionada em cartuchos de papel com 30 unidades.
+DISPOSITIVOS LEGAIS: RGI 1 (textos da Nota 3 do Capítulo 34 e da posição 34.01) e 6 (textos da subposição de 1º nível 3401.1 e de 2º nível 3401.11) c/c a Regra Geral Complementar nº 1 (texto do item 3401.11.90), da Nomenclatura Comum do Mercosul (NCM) constante na Tarifa Externa Comum (TEC), aprovada pela Resolução Camex nº 125, de 2016, e na Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 8.950, de 2016, e alterações posteriores, tendo por base os subsídios fornecidos para a interpretação da posição 34.01 pelas Notas Explicativas do Sistema Harmonizado (Nesh), aprovadas pelo Decreto nº 435, de 27 de janeiro de 1992, e atualizadas pela IN RFB nº 1.788 de 8 de fevereiro de 2018.
+.
+[arquivo anexo: SD Cosit nº 98.012-2018 .pdf]
