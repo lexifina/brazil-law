@@ -1,0 +1,17 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. OMISSÃO. OCORRÊNCIA. ACLARATÓRIOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS, APENAS PARA FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA RECURSAL.
+DECISÃO
+Cuida-se de embargos de declaração manejados por [NOME] em face de decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO DE QUESTÕES FEDERAIS. AGES POSTERIORES AO TRÂNSITO EM JULGADO DA AÇÃO. COISA JULGADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF. CONTINUIDADE DE INCIDÊNCIA DE JUROS REMUNERATÓRIOS APÓS CONTABILIZADO O MONTANTE DO CRÉDITO DAS DIFERENÇAS DEVIDAS PELA ELETROBRÁS. AUSÊNCIA DE INTERESSE RECURSAL. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O embargante alega omissão em relação à aplicação da multa de má-fé prevista no art. 80, VII, do CPC/2015, bem como em relação à majoração dos honorários advocatícios com base no art. 85 do CPC/2015.
+Sem impugnação.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, a decisão agravada incorreu em omissão, razão pela qual acolho os aclaratórios para sanar os vícios apontados.
+Primeiramente, registro não vislumbrar o enquadramento do recurso especial da Eletrobrás como manifestamente protelatório para fins de aplicação da multa por litigância de má-fé prevista nos arts. 80, VII, e 81 do CPC/2015, sobretudo em razão da grande quantidade de recursos especiais interpostos pela Eletrobrás que têm sido providos, relativamente ao Empréstimo Compulsório de energia elétrica.
+Quanto à majoração dos honorários advocatícios, assiste razão à embargante.
+Registro que os honorários advocatícios agora fixados dizem respeito tão somente aos honorários de sucumbência recursal devidos à parte recorrida em razão do parcial conhecimento e não provimento do recurso especial interposto pela Eletrobrás, e representarão o trabalho desenvolvido pelos causídicos da parte recorrida nessa nova fase.
+Nessa hipótese são aplicáveis os Enunciados Administrativos 3 e 7 deste STJ, os quais afirmam, respectivamente, que: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" e "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Desse modo, tendo em vista o disposto no art. 85, § 11, do CPC, c/c o Enunciado Administrativo n. 7/STJ, e em razão do parcial conhecimento e do não provimento recurso especial interposto pela Eletrobrás, fixo honorários de sucumbência recursal devidos pela Eletrobrás aos causídicos da exequente, no percentual de 1% sobre o valor excluído do cumprimento de sentença em razão do acolhimento da impugnação manejada pela referida empresa pública.
+Ante o exposto, acolho os aclaratórios, sem efeitos modificativos, apenas para fixar honorários de sucumbência recursal.
+Publique-se. Intimem-se.
