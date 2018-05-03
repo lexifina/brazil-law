@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pela Companhia de Eletricidade do Estado da Bahia - COELBA, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado da Bahia, que não admitiu recurso especial por considerar deserto o apelo raro, tendo em conta que "o insurgente efetuou o pagamento das custas através de GRU - Guia de Recolhimento da União Simples. A Resolução nº 1/2014, do Superior Tribunal de Justiça, prevê no caput de seu art. 7º, que tal pagamento deve ser realizado mediante GRU - Guia de Recolhimento da União Cobrança, sob pena de deserção" (fl. 195).
+Neste agravo, a parte agravante sustenta, em síntese, que o entendimento jurisprudencial do STJ é no sentido de que, "efetuado o preparo, em valor insuficiente, deverá ser assegurado à parte oportunidade para sua complementação, nos termos do artigo 511, § 2º da legislação processual civil brasileira" (fl. 201) e, desse modo, a recorrente deve ser intimada para complementação das custas.
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No caso, a jurisprudência deste Tribunal Superior é firme no sentido de que "é inafastável a deserção reconhecida, pois a indicação errônea dos "Códigos de Recolhimento" e unidade favorecida nas guias de GRU referentes às custas e ao porte de remessa e retorno dos autos impossibilita a reversão da receita obtida para esta Corte. Precedentes: AgRg no REsp 1.380.808/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe 12/6/2015; AgRg no AREsp 165.686/BA, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 1/9/2014; AgRg no AREsp 231.460/RJ, Rel.Ministro Benedito Gonçalves, Primeira Turma, DJe 22/11/2012". (AgRg no AREsp 535.571/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 1º/9/2015, DJe 15/9/2015)
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREPARO. RECOLHIMENTO. GUIA DIVERSA. REVERSÃO AOS COFRES DO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO OCORRÊNCIA. DESERÇÃO. NÃO PROVIMENTO.
+1. Decisão recorrida publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016.
+2. Necessária a comprovação de que o preparo realizado por meio de guia diversa da GRU Cobrança reverteu-se aos cofres do Superior Tribunal de Justiça, o que não ocorreu.
+3. Recurso especial deserto.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 803.571/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/5/2016, DJe 27/5/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. GUIAS DE RECOLHIMENTO DE DESPESAS PROCESSUAIS. ERROS DE INDICAÇÃO DE CÓDIGOS DE RECOLHIMENTO E DE UNIDADE FAVORECIDA. DESERÇÃO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do REsp 1.498.623/RJ, admitiu a possibilidade de conhecimento do recurso especial cuja guia de recolhimento (GRU) permita a correta identificação da parte e do processo, bem como a apuração do devido recolhimento da despesa. É necessário, porém, verificar se " ..  o fim almejado foi alcançado com a entrada do dinheiro nos cofres do Tribunal  .. ".
+2. No caso em análise, porém, foram juntadas duas guias de recolhimento com códigos distintos dos exigidos pela Resolução STJ n. 1/2011 e ambas estabelecem, como unidade favorecida, o Tribunal Regional Federal da 4ª Região.
+3. Não tendo os valores pagos a título de custas e porte de remessa e retorno dos autos sido dirigidos a esta Corte, não há como relevar a deserção do recurso especial.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.501.186/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 26/5/2015, DJe 12/6/2015)
+Diante do exposto, nego provimento ao agravo.
+Publique-se.
