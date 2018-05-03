@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo da decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma Recursal do Juizado Especial Federal de São Paulo, o qual manteve a sentença que julgou improcedente o pedido autoral de pagamento do seguro desemprego.
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se violação dos artigos 1º, inciso III, 3º, inciso I, 5º, incisos XXXVI e XXXIX, e 7º, inciso II, da Constituição Federal.
+    Decido.
+    Colhe-se da sentença, mantida por seus próprios fundamentos pelo acórdão recorrido, a seguinte fundamentação:
+    “O seguro-desemprego é um benefício integrante da seguridade social, previsto no art. 7º dos Direitos Sociais da Constituição Federal e tem por finalidade prover assistência financeira temporária ao empregado dispensado sem justa causa, auxiliando-o na procura de novo emprego.
+    A Lei 7.998/90, em seu art. 3º, estabelece os requisitos legais para a concessão do seguro desemprego:
+    (…)
+    Ou seja, o seguro-desemprego deve ser pago ao trabalhador desamparado economicamente, sem renda para o seu sustento e em busca de outro meio de sobrevivência. Para prova de tal circunstância, o autor apresentou com a inicial os seguintes documentos (andamento 2):
+    (…)
+    Por sua vez, a União apresentou documentação sob andamento 21, contendo informação de que as parcelas de seguro-desemprego chegaram a ser calculadas para liberação, mas foram suspensas exclusivamente pela constatação de empresa em nome do autor.
+    Além disso, o próprio CNIS aponta recolhimentos efetuados para o período de labor como sócio de julho a setembro de 2016.
+    Dessa maneira, a declaração de inatividade produzida unilateralmente pelo autor em 23.05.2016, logo após a demissão da TDB Transporte, não é suficiente para desconstituir a presunção de atividade de contribuinte individual como sócio da empresa TCS Com.de Informática gerada pelas contribuições vertidas pelo próprio demandante.
+    Por conseguinte, de rigor a improcedência, prejudicado o pedido de danos morais.”
+    Nessa conformidade, verifica-se que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente (Lei nº 7.998/90). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279/STF. Sobre o tema:
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Repercussão geral. Tópico devidamente fundamentado. Ausência. Seguro-desemprego. Regras de concessão. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07 devem demonstrar, em tópico devidamente fundamentado, a existência da repercussão geral das questões constitucionais discutidas no apelo extremo (AI nº 664.567/RS-QO). 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional. Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido. 4. Inaplicável o art. 85, § 11, do CPC, pois não houve a fixação prévia de honorários advocatícios na causa” (ARE nº 1.068.257/RS-AgR, Segunda Turma, de minha relatoria, DJe de 7/11/17).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. SEGURO-DESEMPREGO. TRABALHADOR RURAL. ACÓRDÃO RECORRIDO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 787.300/PE-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 14/2/14).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito do Trabalho. 3. Alegação de ausência de fundamentação. Precedente: AI-QO-RG 791.292 de minha relatoria, DJe 13.8.2010. 4. Hora extra. Trabalho externo. Controle de jornada. Incidência das súmulas 279, 454 e 636. 5. Agravo regimental a que se nega provimento” (ARE nº 719.166/DF-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 12/12/12).
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais. PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de entendimento. O instituto visa o cotejo indispensável a que se diga enquadrado o recurso extraordinário no permissivo constitucional” (ARE nº 787.117/PE-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 4/4/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso. Determino que, a título de honorários recursais, a verba honorária já fixada seja acrescida do valor equivalente a 10% (dez por cento) de seu total, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do citado artigo e a eventual concessão do benefício da gratuidade da justiça.
+    Publique-se.
+    Brasília, 3 de maio de 2018.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
