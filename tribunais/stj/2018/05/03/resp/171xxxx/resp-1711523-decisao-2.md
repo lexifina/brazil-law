@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por VERA LUCIA SOARES DE ALMEIDA, com fundamento no art. 105, III, "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INTIMAÇÃO DA PARTE CREDORA PARA IMPULSIONAR O FEITO.
+De acordo com precedentes do Colendo Superior Tribunal de Justiça, a prescrição intercorrente só poderá ser reconhecida no processo executivo se, após a intimação pessoal da parte exequente para dar andamento ao feito, a mesma permanece inerte. Na hipótese, não tendo havido intimação pessoal da parte exequente para dar andamento ao feito, não há falar em prescrição.
+Recurso do Banco apelante provido, prejudicada a apreciação do recurso adesivo.
+Embargos de declaração opostos, foram rejeitados.
+Nas razões de recurso especial, alega a agravante, em suma, divergência jurisprudencial.
+Informa, para tanto, que a sentença julgou extinto o processo, em razão do reconhecimento da prescrição intercorrente. No entanto, no acórdão recorrido consta que:
+(..) considerou que a prescrição intercorrente somente pode ser reconhecida em processo executivo se, após a intimação pessoal da parte exequente para dar andamento ao feito, a mesma permanece inerte, concluindo que, não tendo sido intimada pessoalmente a parte exequente, não há que se falar em prescrição intercorrente. (fls. 1.200-1.201, e-STJ).
+Sustenta que (fl. 1.212, e-STJ):
+ ..  o acórdão recorrido afastou a prescrição intercorrente visto não existir intimação pessoal do credor para diligenciar nos autos, se contrapondo ao acórdão paradigma, segundo o qual é desnecessária a prévia intimação do exequente para dar andamento ao feito para restar caracterizada a prescrição intercorrente, sob pena de vermos consagrado hipóteses de prolongamento indefinido de pretensões executórias ao longo do tempo, consagrando a imprescritibilidade das mesmas, em detrimento do principal objetivo do sistema jurídico, que é a pacificação dos conflitos de interesse.
+Busca que seja declarada a prescrição intercorrente, condenando a parte vencida nos honorários advocatícios.
+Não foram apresentadas as contrarrazões.
+O recurso foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Da análise dos autos, verifico que a agravante sequer apontou quais dispositivos de lei federal entendeu por violados, de modo a permitir o conhecimento do recurso especial com espeque na alínea "c" do inciso III do art. 105 da Constituição Federal.
+A agravante limitou-se a tecer argumentações genéricas sem indicar com clareza quais teriam sido os dispositivos supostamente violados pelo acórdão recorrido.
+Assim, imperioso concluir pela incidência da Súmula n. 284 do egrégio Supremo Tribunal Federal, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. VÍTIMA FATAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. TERMO FINAL DO PENSIONAMENTO. SÚMULA 284/STF. DANOS MORAIS. VALOR RAZOÁVEL.
+1. Segundo o entendimento majoritário da Segunda Seção, sufragado no REsp 1.132.866/SP (julgado em 23.11.2011), no caso de indenização por dano moral puro decorrente de ato ilícito os juros moratórios legais fluem a partir do evento danoso (Súmula 54 do STJ). Ressalva do ponto de vista pessoal da Relatora.
+2. Aplica-se a orientação contida no enunciado n. 284 da Súmula do STF quando a tese defendida no recurso especial interposto com base nas alíneas "a" e "c" do art. 105, III, da CF não vem embasada em alegação de violação a dispositivo de lei federal dito violado ou em divergência jurisprudencial.
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, em recurso especial, o reexame do valor fixado a título de danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que a verba indenizatória, consideradas as circunstâncias de fato da causa, foi estabelecida pela instância ordinária em conformidade com os princípios da proporcionalidade e razoabilidade.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.432.383/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 24.6.2014, DJe 1º.8.2014).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO COM FULCRO NA ALÍNEA "C" DO ART. 105, III DA CONSTITUIÇÃO FEDERAL. FALTA DE PARTICULARIZAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF. FUNDAMENTO INATACADO DO ACÓRDÃO RECORRIDO. SÚMULA 283 DO STF. AGRAVO NÃO PROVIDO.
+(..)
+2. A jurisprudência consolidada deste Superior Tribunal determina que na interposição do recurso especial pela alínea ""c" do permissivo constitucional é preciso particularizar o dispositivo de lei federal violado para a análise da divergência jurisprudencial entre os acórdãos recorrido e paradigma. A falta deste pressuposto recursal enseja deficiência na fundamentação e inviabiliza do conhecimento do apelo nobre, ante a incidência, por analogia, da Súmula 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+3. "Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial" (..) "A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial" (AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18.12.2013, DJe 17.03.2014).(..)
+(AgInt nos EDcl no AREsp 925.438/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10.11.2016, DJe 23.11.2016).
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
