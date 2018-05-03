@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por [NOME] contra acórdão da Quarta Turma, relatado pelo Excelentíssimo Senhor Ministro Lázaro Guimarães  Desembargador Convocado do Tribunal Regional Federal da 5ª Região - 5ª Região  , assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COLAÇÃO. IMPROCEDÊNCIA. FALTA DE PROVA DA EXISTÊNCIA DE DOAÇÃO PELA FALECIDA DE NUMERÁRIO COMO PRODUTO DE VENDA DE IMÓVEIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. Não configura ofensa aos arts. 458, II, e 535, I e II, do Código de Processo Civil de 1973 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados, adotar fundamentação contrária à pretensão da parte recorrente, suficiente para decidir integralmente a controvérsia.
+2. Segundo o Tribunal de origem, inexiste prova de que a demandada tenha recebido da falecida genitora os valores alegados na inicial ou de que eventual doação seria um adiantamento de legítima, visto que os elementos dos autos demonstraram que, se houve doação, pelo teor das declarações acostadas, a intenção da doadora era a de sair da parte disponível.
+3. Não obstante tenha a requerida recebido valores e bens da mãe, o que ocorreu, consoante as instâncias ordinárias, com ambos os filhos, de forma igualitária, o autor não comprovou que os valores reclamados na inicial estivessem entre eles.
+4. A reforma do acórdão recorrido demandaria o revolvimento do substrato fático-probatório dos autos, providência vedada no recurso especial, a teor do disposto na Súmula 7/STJ.
+5. Agravo interno não provido.
+Este recurso foi distribuído inicialmente Excelentíssimo Senhor Ministro Ricardo Villas Bôas Cueva, que proferiu decisão singular (fl. 2.296/2.301), remetendo o feito para distribuição na Corte Especial, a fim de ser examinada a tese quanto ao artigo 535 do CPC/1973, atual artigo 1.022 do CPC/2015, que se ampara nos seguintes precedentes: EDcl no AgInt nos EREsp n. 1.345.680/SC, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 13/9/2017 e AgInt nos EAREsp nº 470.837/SP, Rel. Ministro Francisco Falcão, Corte Especial, DJe 27/10/2017.
+É o relatório.
+Em que pesem os argumentos da parte embargante, não merece acolhida a insurgência.
+Esta Corte Superior consolidou entendimento quanto ao não cabimento de embargos de divergência para a verificação de ofensa ao artigo 535 do CPC/1973, atual artigo 1.022 do CPC/2015, porque impossível a configuração da similitude fática entre o acórdão embargado e os paradigmas apontados, devido às peculiaridades de cada caso examinado nesse sentido.
+Sobre o tema, os seguintes julgados da Corte Especial:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. DISCUSSÃO ACERCA DA PRESTAÇÃO JURISDICIONAL APLICADA AO CASO CONCRETO. ARTIGO 535 DO CPC DE 1973. IMPOSSIBILIDADE. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃO IMPUGNADO. AGRAVO IMPROVIDO.
+1. O provimento do agravo interno requer a apresentação de fundamentos capazes de modificar a decisão impugnada.
+2. No caso em exame, no julgamento do acórdão embargado, a Primeira Turma reconheceu a inexistência de vícios passíveis de serem corrigidos por meio dos embargos de declaração, constatando-se mero inconformismo dos embargantes com o deslinde da controvérsia.
+3. Nos embargos de divergência os agravantes sustentam a ocorrência de dissídio jurisprudencial, alegando negativa de prestação jurisdicional no caso concreto.
+4. Nos termos da jurisprudência vigente nesta Corte Superior, não há se falar em dissídio jurisprudencial com relação ao entendimento firmado em acórdão embargado quanto à existência ou não de ofensa ao disposto no artigo 535 do Código de Processo Civil de 1973  atual artigo 1.022 do CPC/2015  na medida em que a verificação de ocorrência ou não dos vícios elencados nesse dispositivo processual depende das circunstâncias particulares do caso concreto.
+Precedentes.
+5. Agravo interno improvido.
+(AgInt nos EAREsp 805.015/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 16/08/2017, DJe 24/08/2017)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. PROCESSO CIVIL E DIREITO CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. PECULIARIDADES DO CASO CONCRETO. ACÓRDÃO EMBARGADO QUE ANALISA O MÉRITO E OS PARADIGMAS NÃO ULTRAPASSAM A BARREIRA DE ADMISSIBILIDADE APLICANDO O ÓBICE DA SÚMULA 7/STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. SÚMULA 7/STJ. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. REDISTRIBUIÇÃO DETERMINADA.
+1. O "exame em torno de violação do art. 535 do CPC depende de uma verificação casuística que, na esteira do entendimento firmado nesta Corte, não pode ser levada a termo em sede de embargos de divergência." (AgRg nos EAg 870.867/SP, Rel. Ministra Eliana Calmon, Corte Especial, julgado em 2.2.2009, DJe 9.3.2009). No mesmo sentido: AgRg nos EAg 1.345.756/SP, Rel. Ministro Humberto Martins, Primeira Seção, julgado em 11.4.2012, DJe 20.4.2012.
+2. À luz do que dispõe o art. 535 do Código de Processo Civil, para observar se a prestação jurisdicional está adequada, é necessário verificar as peculiaridades de cada caso, o que afasta a similitude fática entre os julgados. (grifo nosso)
+3. A jurisprudência pacífica desta Corte é no sentido de que são incabíveis embargos de divergência quando o acórdão embargado julga o mérito da demanda, e os paradigmas não ultrapassam a barreira de admissibilidade recursal.
+4. Com relação à desconsideração de personalidade jurídica, os embargantes pleiteiam que incida no caso o teor da Súmula 7 do Superior Tribunal de Justiça. Porém, revela-se inviável rever - em embargos de divergência - o conhecimento do recurso especial.
+5. Eventual divergência entre o acórdão embargado e as Terceira e Quarta Turmas deve ser dirimida pela Segunda Seção, para onde os autos deverão ser redistribuídos após o trânsito em julgado desta decisão.
+Agravo interno improvido.
+(AgInt nos EREsp 1412997/SP, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 20/04/2016, DJe 29/04/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO DE INSTRUMENTO. VIOLAÇÃO DO ART. 535 DO CPC. CASUÍSMO. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO EMBARGADO. APLICAÇÃO DA SÚMULA 283/STF E NÃO CONHECIMENTO DO DISSÍDIO. REGRA TÉCNICA. REVISÃO. IMPOSSIBILIDADE
+1. "A jurisprudência dessa egrégia Corte Superior de Justiça vem firmando entendimento de ser incabível a oposição de Embargos de Divergência para fins de discussão acerca da ofensa (ou não) ao art. 535 do CPC, haja vista a questão jurídica em comento demandar análise de circunstâncias fáticas peculiares a cada demanda, o que obstaculiza o preenchimento do requisito atinente à comprovação da similitude fática entre o acórdão embargado e o paradigma" (AgRg nos EREsp 1.362.911/TO, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, julgado em 05/11/2014, DJe 21/11/2014). (grifo nosso)
+2. Não cabem embargos de divergência para discutir a correta aplicação de regra técnica concernente ao juízo de admissibilidade do recurso especial, no caso, a aplicação da Súmula 283/STF e o não conhecimento do dissídio pretoriano.
+3. Agravo regimental não provido.
+(AgRg nos EAg 1183842/SP, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 02/09/2015, DJe 21/09/2015)
+Ante o exposto, com fulcro no artigo 266-C do Regimento Interno do STJ, alterado pela Emenda Regimental n. 22/2016, INDEFERE-SE LIMINARMENTE OS EMBARGOS DE DIVERGÊNCIA.
+Após o trânsito em julgado desta decisão, sejam remetidos os autos à Segunda Seção, competente para o exame da tese remanescente.
+Publique-se.
+Intimem-se.
