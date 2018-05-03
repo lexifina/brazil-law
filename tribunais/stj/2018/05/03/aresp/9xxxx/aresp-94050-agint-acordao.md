@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS - TRANSPORTE AÉREO DE MERCADORIAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO.
+IRRESIGNAÇÃO DA PARTE DEMANDANTE.
+1. É necessário consignar que o recurso especial subjacente ao presente agravo interno atrai a incidência do Enunciado Administrativo n. 2/STJ: "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Inviável a análise da pretensão voltada a afastar a decadência do direito de a seguradora postular, via regressiva, o ressarcimento dos valores pagos a título de indenização, ante o óbice contido na Súmula 7/STJ, pois para modificar o quanto aduzido pela Corte local acerca do descumprimento do ditame contido no art.754, parágrafo único do Código Civil no que tange à denúncia do extravio parcial das mercadorias seria imprescindivel resolver o acervo fático-probatório dos autos, providência inviável ao STJ. Precedentes.
+3. Óbice sumular que prejudica a análise da suposta ocorrência de dissídio interpretativo, na medida em que falta identidade fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido.
+4. Agravo interno desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por ALLIANZ SEGUROS S/A e OUTROS, contra decisão monocrática de fls. 478/480 (e-STJ), da lavra deste signatário, a qual, nos autos de ação regressiva de ressarcimento de danos, negou provimento ao agravo em recurso especial.
+Depreende-se da análise dos autos da ação regressiva de danos (valor da causa: R$ 40.546,29) que o apelo nobre, amparado nas alíneas "a" e "c", do permissivo constitucional, desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 354/358, e-STJ):
+Ação regressiva - transporte aéreo - seguro - mercadoria extraviada - fato não vinculado a qualquer modalidade de ocorrência tipicamente prevista na lei especial como evento específico da aviação - aplicação do direito comum - ausência de formalização da denúncia de que dá conta o art. 754 do C.C. - decadência - extinção do direito dias autoras - recurso provido.
+Opostos embargos declaratórios, foram estes rejeitados pela Corte de origem, por não vislumbrar a ocorrência de omissão, contradição ou obscuridade a macular o aresto embargado (fls. 366/371, e-STJ).
+Em suas razões de recurso especial (fls. 374/386, e-STJ), as recorrentes apontaram ofensa aos arts. 756, do CPC de 1939 (o qual continuaria em vigor, por força do art. 1.218, XI, do CPC de 1973); 238 e 244, da Lei 7.565/86 (Código Brasileiro de Aeronáutica); 7º, parágrafo único, 17 e 25 § 2º, do CDC.
+Asseveraram que apesar do decidido, "houve o protesto pela não entrega da mercadoria, tanto que a própria transportadora aérea recorrida solicitou à Secretaria da Receita Federal a elaboração de Termo de Conferência Final de Manifesto (fls. 40). Além disso, o entendimento de que seja imprescindível a realização do protesto pela falta/extravio de mercadoria/carga, data vênia, não encontra amparo e respaldo na moderna doutrina e jurisprudência" (fl. 376, e-STJ).
+Consignaram, ainda, a imprescindibilidade do protesto por falta de mercadoria, ante e existência de outros elementos de prova constantes do autos. Por conseguinte, refutaram o implemento da decadência no caso em apreço, na media em que a transportadora teve prévia ciência do ocorrido.
+Contrarrazões às fls. 417/432 (e-STJ).
+Em juízo provisório de admissibilidade (fl. 434, e-STJ), negou-se processamento ao apelo extremo, com fundamento na ausência de demonstração de ofensa aos dispositivos de lei tidos como vulnerados e na incidência do óbice contido na Súmula 7/STJ.
+Foi interposto agravo (art. 544 do CPC/73), com o objetivo de destrancar o processamento do recurso especial, oportunidade em que alegaram ter preenchido os pressupostos de admissibilidade e refutaram o óbice aplicado.
+Contraminuta às fls. 449/464 (e-STJ).
+Por decisão monocrática (fls. 478/480, e-STJ), foi negado provimento ao apelo nobre, com fulcro no enunciado contido na Súmula 7/STJ.
+Inconformadas (fls. 483/489, e-STJ), as empresas de seguro apresentam, tempestivamente, agravo interno, oportunidade em que reafirmam os argumentos até então deduzidos e contestam a incidência do referido verbete sumular. Asseveram, novamente, que apesar do decidido, "há prova incontroversa de que houve extravio da carga, e tal informação chegou primeiro pelo transportador, quando a entregou à INFRAERO, que cuidou de lançar os dados da carga e sua chegada/extravio no sistema informatizado (SICOMEX MANTRA)" - fl. 487 (e-STJ).
+Impugnação às fls. 494/506 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS - TRANSPORTE AÉREO DE MERCADORIAS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO.
+IRRESIGNAÇÃO DA PARTE DEMANDANTE.
+1. É necessário consignar que o recurso especial subjacente ao presente agravo interno atrai a incidência do Enunciado Administrativo n. 2/STJ: "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça."
+2. Inviável a análise da pretensão voltada a afastar a decadência do direito de a seguradora postular, via regressiva, o ressarcimento dos valores pagos a título de indenização, ante o óbice contido na Súmula 7/STJ, pois para modificar o quanto aduzido pela Corte local acerca do descumprimento do ditame contido no art.754, parágrafo único do Código Civil no que tange à denúncia do extravio parcial das mercadorias seria imprescindivel resolver o acervo fático-probatório dos autos, providência inviável ao STJ. Precedentes.
+3. Óbice sumular que prejudica a análise da suposta ocorrência de dissídio interpretativo, na medida em que falta identidade fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pelas recorrentes são incapazes de infirmar a decisão hostilizada, motivo pelo qual ela merece ser mantida na íntegra, por seus próprios fundamentos.
+1. De início, consigne-se que a decisão recorrida foi publicada em 13/09/2010 (certidão de fl. 372, e-STJ), portanto, antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. Conforme destacado no decisum recorrido, com amparo nos elementos de prova constantes dos autos, compreendeu o Tribunal de origem que, conquanto seja certa a ocorrência do sinistro, não logrou a parte recorrente comprovar a existência de denúncia de extravio parcial das mercadorias transportadas, nos termos do art. 754, parágrafo único, do Código Civil, de sorte a obstar a decadência de seu direito de postular, via regressiva, o ressarcimento dos valores pagos a título de indenização.
+É o que se extrai do seguinte excerto do aresto impugnado (fls. 357/358, e-STJ):
+A ré-apelante perdeu parte da carga que lhe foi confiada.
+A contratante, mercê desse fato, viu-se reembolsada pelas seguradoras, e estas, por seu turno, ajuizaram ação regressiva em busca do ressarcimento devido.
+Assim, aplica-se à espécie a regra específica do artigo 754, parágrafo único, do Código Civil, segundo a qual "no caso de perda parcial ou de avaria não perceptível à primeira vista, o destinatário conserva a sua ação contra o transportador, desde que denuncie o dano em dez dias a contar da entrega" (g.n.).
+Conquanto inexistam nos autos elementos capazes de apontar com precisão a data em que constatado o extravio de um dos volumes contendo parte das mercadorias transportadas pela ré, é certo que o pagamento da indenização à segurada, decorrente do sinistro, deu-se em 15 de junho de 2007 (fl. 42).
+Já a denuncia à transportadora ocorreu somente em 29 de agosto de 2007 (fl. 43).
+Não há nos autos prova de que a segurada tenha formulado denúncia perante a transportadora antes da referida data (o documento de fl. 40, por si só, não o comprova, e, aliás, não está datado), bem como não consta haver a depositária feito a comunicação de extravio àquela (transportadora).
+Dessa forma, inexistindo nos autos prova de que tivesse se aperfeiçoado a denúncia de que trata a letra do art. 754 do C.C., é de se reconhecer a ocorrência de decadência.
+Na esteira de tais considerações, para superar as premissas fáticas em que se apoiou o aresto recorrido, revelar-se-ia necessária uma incursão no acervo fático-probatório constante dos autos, hipótese que encontra óbice no enunciado contido na Súmula 07/STJ.
+Neste sentido:
+RESPONSABILIDADE CIVIL. CONTRATO DE TRANSPORTE. EXTRAVIO DE MERCADORIA. DECADÊNCIA. INOCORRÊNCIA.
+Para concluir que não houve a fluência do prazo decadencial, o Tribunal de origem se louvou em documentos juntados aos autos e outras circunstâncias fático-probatórias que não poderiam ser revistas em Recurso Especial, de acordo com a Súmula STJ/7. As razões do Recurso Especial partem da premissa de que a Agravada não reclamou, no prazo legal, por danos na mercadoria transportada. Sobre tal fato o Acórdão recorrido dispõe de forma diversa, deixando claro que a Agravada tomou as cautelas necessárias para reclamar tempestivamente dos problemas que via na execução do contrato de transporte.
+Agravo Regimental improvido.
+(AgRg no Ag 1249966/RS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 26/04/2011, DJe 04/05/2011)
+Cumpre ressaltar que a revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial, como bem observou o E. Ministro Felix Fischer: "A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento" (REsp 683702/RS, QUINTA TURMA, julgado em 01.03.2005).
+Entretanto, na hipótese dos autos, para que se reconheça o dever de indenizar no caso em apreço, seria necessário o reexame das provas colacionadas aos autos, prática que é vedada a esta Corte Superior.
+3. Por outro lado, entende esta Corte de Justiça que a incidência da Súmula 07/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido:
+(..) 7. Nesse contexto, em consonância com a judiciosa opinião estampada no parecer ministerial, incide a Súmula 07/STJ, o que também impede o exame da divergência jurisprudencial na medida em as peculiaridades do caso concreto, decisivas à solução conferida pela Corte de origem, não possuem identidade com os paradigmas trazidos à colação. 8. Recurso especial não conhecido ." (REsp 1.186.481/AC, Rel. Min. Castro Meira, 2ª Turma, julgado em 18.05.2010)
+ADMINISTRATIVO. SERVIÇO DE FORNECIMENTO DE ÁGUA. AUSÊNCIA DE OMISSÃO NO ACÓRDÃO. DIVERGÊNCIA JURISPRUDENCIAL. OCORRÊNCIA DE DANO MORAL REPARÁVEL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Rever entendimento do Tribunal de origem que, com base nos elementos de convicção do autos, afasta a ocorrência de dano moral reparável demanda o revolvimento do arcabouço probatório dos autos, inviável em recurso especial, dado o óbice da Súmula 7 desta Corte.
+2. A incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução a causa. (AgRg no Ag 1.160.541/RJ, Rel. Min. Humberto Martins, 2ª Turma, 25.10.2011)
+4. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
