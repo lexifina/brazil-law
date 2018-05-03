@@ -1,0 +1,25 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 211/STJ E 282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME], contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que inadmitiu recurso especial manejado contra acórdão assim ementado (fl. 180 e-STJ):
+FORNECIMENTO DE MEDICAMENTO - REEMBOLSO - Descabimento - Impossibilidade de restituir valores gastos em virtude da aquisição do medicamento por ser matéria alheia e falta de amparo legal - Possibilidade: É obrigação do Estado o fornecimento - Decisão mantida - Precedentes. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados pelo Tribunal de origem nos seguintes termos (fl. 193 e-STJ):
+EMBARGOS DE DECLARAÇÃO - Inexistência de omissão, contradição ou obscuridade - Efeitos Infringentes - O acolhimento dos embargos declaratórios predispõem a ocorrência de um dos pressupostos apontados no Código de Processo Civil, quais sejam, a ocorrência de omissão, contradição, obscuridade e até mesmo erro material, mas não podem se prestar, a não ser em casos excepcionalíssimos, a dar efeitos infringentes ao julgado  Inexistência de quaisquer dessas hipóteses  O julgador não está obrigado a se manifestar expressamente sobre todos os argumentos trazidos pela parte, basta que tenha encontrado motivo suficiente para fundamentar a sua convicção  Precedentes deste Egrégio Tribunal, do STJ e STF. Embargos rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta violação ao art. 461, § 1º, do CPC/1973, sustendo a possibilidade de conversão da obrigação de fazer em perdas e danos.
+Contrarrazões às fls. 214/218 e-STJ.
+A Corte de origem inadmitiu o recurso especial sob o fundamento de que a pretensão recursal demanda o revolvimento do conjunto fático-probatórios dos autos, o que é vedado pela Súmula 7/STJ.
+No agravo, o agravante postula pelo processamento do recurso especial, uma vez que presentes os requisitos para sua admissibilidade.
+Contraminuta às fls. 238/243 e-STJ.
+O Ministério Público, em parecer às fls. 252/254 e-STJ, opina pelo não provimento do agravo em recurso especial.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à indicada violação ao art. 461, § 1º, do CPC/1973, nota-se, pela leitura dos autos, que não houve apreciação pelo Tribunal de origem sobre a tese em referência, o que impossibilita o julgamento do recurso nesse aspecto, por ausência de prequestionamento, nos termos das Súmulas 282/STF e 211/STJ, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+In casu, observa-se que, apesar de opostos embargos declaratórios pela ora recorrente, o apelo especial não apresenta fundamentação relativa a eventual violação ao art. 1022, do CPC/2015, por ausência de prestação jurisdicional por parte do Tribunal a quo.
+Efetivamente, para a configuração do questionamento prévio, não é necessário que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso.
+Nesse sentido, o seguinte precedente deste Tribunal Superior:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. LICITAÇÃO. ART. 31, § 5º, DA LEI 8.666/93. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. QUALIFICAÇÃO ECONÔMICO-FINANCEIRA. REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. O Tribunal de origem não se pronunciou sobre a matéria versada no art. 31, § 5º, da Lei 8.666/93, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 469.244/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/03/2015, DJe 26/03/2015)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 255, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
