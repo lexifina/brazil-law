@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 130, e-STJ):
+COMPRA E VENDA. BENS MÓVEIS. Venda e instalação de móveis. Ação de indenização cumulada com ação de rescisão parcial do contrato. Preliminar de ilegitimidade passiva da corre. Afastamento. Efetiva integração da corré, fabricante dos móveis, na cadeia de fornecedores dos produtos, a identificar sua responsabilidade civil. Negócio jurídico que envolve a venda e a prestação dos serviços de instalação de móveis na residência da contratante. Uma vez não adimplida a obrigação, inegável se apresenta a legitimidade passiva da fabricante dos móveis, cujo nome é utilizado na comercialização dos bens pela corre, por integrar a cadeia de fornecedores do produto. Prestação defeituosa dos serviços contratados. Danos morais. Configuração.
+Inadimplemento contratual das rés, que, dadas as circunstâncias do caso concreto, ultrapassou o limite do mero descumprimento contratual. Total desrespeito aos direitos consumeristas. Comportamento que deve ser coibido. Indenização devida. RECURSO PROVIDO.
+Opostos embargos de declaração, esses foram rejeitados pelo acórdão de fls. 156-161, e-STJ.
+Nas razões de recurso especial, aponta violação aos arts. 330, II, do Código de processo Civil e 18 e 34 do Código de Defesa do Consumidor.
+Sustenta ser parte ilegítima para figurar no polo passivo da demanda.
+Afirma que "Não se pode admitir que o v. acórdão recorrido tenha firmado seu entendimento quanto responsabilidade solidária da Recorrente quando os artigos 18 e 34 do Código do Consumidor preveem que a cadeia de fornecimento e a responsabilidade solidária são suportadas pelos que produzem ou introduzem um determinado produto no mercado, o que não é o caso da Recorrente em relação a pia reclamada, que jamais foi produzida/fabricada por esta, que tem por objeto social apenas a fabricação de móveis." (fl. 174, e-STJ).
+Contrarrazões às fls. 193-198, e-STJ.
+O recurso especial não foi admitido na origem, nos termos da decisão de fls. 200-201, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+A Súmula nº 568, desta Corte, dispõe que "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ao solucionar a controvérsia, o Tribunal de origem, soberano na análise do conjunto fático-probatório dos autos, assim concluiu (fls. 132-133, e-STJ):
+A autora adquiriu da Conceito"s Móveis Planejados Ltda. EPP (fls. 10/13) os móveis planejados referidos petição inicial, fabricados pela Celmarthe Indústria e Comércio Ltda., mas a pia deixou de ser entregue no prazo ajustado, o que lhe teria causado danos materiais e morais.
+A corre Celmarthe, em sua defesa (fls. 39/46), alegou que firmara contrato com a corre Conceito"s estabelecendo que sua única obrigação era a de fornecer seus produtos à referida empresa, mediante pedido devidamente formalizado por esta última.
+A presente demanda envolve discussão a respeito de relação de consumo e a corre Celmarthe faz parte da cadeia de fornecedores, por ser a fabricante de produtos que são objeto de comercialização pela vendedora, a corre Conceito"s Móveis Planejados Ltda. EPP.
+A vinculação da referida corre ao negócio bem se evidencia pelo destaque da utilização da marca Celmarthe, constituindo este ponto um fator importante de motivação do consumidor à realização do negócio.
+Ora, de tal fato não é possível desvincular a corre Celmarthe da referida relação de consumo, pouco importando que ela se autodeclare mera fornecedora de produtos para a corre Conceitos.
+Ademais, a alegação da corre Celmarthe, no sentido de que não produz pias, não a exime das responsabilidades derivadas do descumprimento do contrato em debate, uma vez que a fabricante Predilecta integra seu grupo econômico (fis. 16/20 e 57/63).
+Assim, não havendo elementos que possibilitem negar a responsabilidade da Celmarthe, até porque esta decorre de sua participação na cadeia de fornecedores dos produtos e serviços, impossível o acolhimento da preliminar de ilegitimidade passiva.
+Dessa forma, para rever o entendimento adotado no acórdão recorrido quanto à legitimidade passiva da ora recorrente para figurar na demanda, seria necessário o reexame do contexto fático-probatório dos autos, providência vedada em sede de recurso especial, em razão do óbice erigido pela Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Impossibilidade, em sede de recurso especial, de modificação do entendimento do Tribunal de origem no que se refere à ilegitimidade passiva da insurgente, pois tal análise exige o reexame da matéria de fatos e provas, o que encontra óbice na Súmula 7 do STJ.
+2. A revisão do aresto impugnado a fim de se verificar a existência ou não de sucessão empresarial, exigiria, indubitavelmente, derruir a convicção formada nas instâncias ordinárias, sendo vedado em sede de jurisdição extraordinária em decorrência do que dispõe o Enunciado 7 da Súmula do STJ, óbice que impede, aliás, a análise do alegado dissenso jurisprudencial.
+2. Agravo interno desprovido.
+(AgInt no AREsp 866.058/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/02/2018, DJe 02/03/2018).
+AGRAVO REGIMENTAL - CIVIL E PROCESSUAL CIVIL - AÇÃO DE REPARAÇÃO DE DANOS - LEGITIMIDADE ATIVA E PASSIVA - ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO - INCIDÊNCIA DA SÚMULA 7 DESTE STJ - PRESCRIÇÃO - RECONHECIMENTO - IMPOSSIBILIDADE - INTELIGÊNCIA DA SÚMULA 7/STJ - RECURSO IMPROVIDO. - RECURSO IMPROVIDO.
+(AgRg no Ag 1.229.508/SP, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, julgado em 20/11/2012, DJe 03/12/2012).
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) os honorários advocatícios já arbitrados em favor da parte agravada, nos moldes do previsto pelo artigo 85, § 11, do atual Código de Processo Civil.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
