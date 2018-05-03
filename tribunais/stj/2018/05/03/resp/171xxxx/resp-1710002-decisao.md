@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial, com fulcro no art. 105, III, alínea"a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paraná.
+Consta dos autos que, durante o curso de execução da pena determinada a CARLOS ALBERTO DE OLIVEIRA, sobreveio outra condenação à pena privativa de liberdade, tendo o Juízo da Vara de Execuções Penais de Ponta Grossa/PR, proferido decisão de unificação das penas. Na oportunidade, determinou que seu cálculo considerasse como data-base para concessão dos benefícios de progressão de regime prisional e do livramento condicional, a data da última prisão (fls. 222/223).
+Houve interposição de agravo em execução defensivo, o qual foi provido a fim de fixar como marco inicial para concessão de novos benefícios, a data do trânsito em julgado da última condenação (fls. 624/639).
+Interposto recurso especial pela defesa, alega violação aos artigos 112 e 118, ambos da LEP.
+Sustenta inexistir embasamento legal ao considerar como data-base para concessão de novos benefícios na execução da pena a data do trânsito em julgado da nova sentença condenatória.
+Consigna que o teor da Súmula n. 716/STF ("Admite-se a progressão de regime de cumprimento da pena ou a aplicação imediata de regime menos severo nela determinada, antes do trânsito em julgado da sentença condenatória") permite entender a não interrupção do lapso temporal para a concessão da progressão pelo trânsito em julgado da condenação.
+Defende a ocorrência de violação, pelo o acórdão recorrido, do Enunciado n. 441 da Súmula/STJ ("A falta grave não interrompe o prazo para obtenção de livramento condicional"), na medida em que deve ser interpretada extensivamente, tal como no presente caso, em face da inexistência de previsão legal para a interrupção pela superveniência de nova condenação, não devendo ser interrompido o prazo para a concessão do livramento condicional, colacionando julgado desta Corte Superior nesse sentido.
+Pugna pelo provimento do apelo nobre para cassar o acórdão recorrido e determinar seja considerada como data-base para a progressão de regime a data da última prisão e, para fins de livramento condicional, o início do cumprimento da pena (fls. 645/660).
+Contrarrazões às fls. 665/670).
+Admitido o recurso (fls. 672/673), os autos vieram a esta Corte.
+O Ministério Público, em seu parecer de fls. 704/710 opina pelo parcial provimento do apelo nobre.
+É o relatório.
+Decido.
+O recurso merece prosperar.
+O voto condutor assim se posicionou quanto à controvérsia, verbis (fl. 628/634):
+O Ministério Público agravante visa à reforma da decisão de fls. 222/224, na qual consta a data da última prisão como data base para a obtenção de benefícios, afirmando que o magistrado inicialmente fixou (seq. 52.1), acertadamente, como marco inicial, a data do trânsito em julgado da última sentença penal condenatória.
+Todavia, na seq. 7.3.1, reformou o entendimento anterior, nos seguintes termos:
+"Relatório aponta como data base a data do último trânsito em julgado de sentença condenatória, segundo determinação de item 52.1. Ocorre que, após isso, o sentenciado foi preso em flagrante em data de 20.03.14 nos autos 2014.1598-7 (0009439-69.2014.8.16.0019), obtendo alvará de soltura em 15.08.14.
+Desta forma, a data de sua última prisão deve ser considerada como base para fins de progressão de regime (20.03.14). Atualize-se o relatório."
+Após o pedido ministerial, para a mudança da data base para a obtenção dos benefícios, o juízo singular, na decisão ora atacada, assim dispôs:
+"Ministério Público requereu a modificação de data base para obtenção de benefícios.
+Para a Defensoria Pública, a posição do Ministério Público é ilegal e inconstitucional.
+O requerimento do Ministério Público não está fundamentado em lei, mas em Jurisprudência, inclusive de Tribunais Superiores.
+Ora, Jurisprudência não é lei, mas interpretação da iei. Querer impor obrigação sem lei é ir contra o princípio constitucional da legalidade, segundo o qual "tiinguém é obrigado a fazer ou deixar de fazer, senão em virtude de lei".
+Admitir a jurisprudência citada pelo Ministério Público significa impor ao sentenciado a obrigação de cumprir mais pena do que o necessário, em cada um dos regimes prisionais, conforme estabelecido em lei para a obtenção do benefício ou da progressão de regime ou do livramento condicional, o que configura excesso de execução, a ser corrigido pelo Poder Judiciário. Basta fazer o cálculo para se comprovar a assertiva.
+Também, admitir o entendimento abraçado pelo Ministério Público é se colocar contra o espirito e princípio da progressividade que norteia toda a lei de execução penal. Obrigar os sentenciados a permanecer por mais tempo que o necessário em cada um dos regimes, conforme estipulado em lei, é causar superpopulação carcerária e negar ao sentenciado o direito de cumprir a pena nos moldes da lei, deixando-o ao arbítrio do Poder Judiciário.
+Por todo exposto, indefiro o pedido do Ministério Público para modificara data base e mantenho a data da última prisão."  ..
+Quanto à progressão de regime, propriamente dita, vejam-se os dispositivos pertinentes.
+O art. 112, da Lei de Execução Penal, estabelece que: ..
+De igual forma, o art. Ill, da referida lei, estabelece: ..
+Não é outro o teor do art. 75, § 2Q, do Código Penal: ..
+A leitura sistemática dos dispositivos acima transcritos permite concluir, sem nenhuma dúvida, que a progressão de regime somente poderá ser deferida se o agente já tiver cumprido 1/6 (um sexto) da reprimenda, resultante do somatório da nova pena, a ser executada, com a remanescente da anterior, em execução. ..
+Importante observar, outrossim, a cautela com que se deve fazer a exegese da expressão "a partir do cometimento dessa infração", que não é o da ação/omissão, pelo agente, mas, sim, quando do trânsito em julgado da sentença, que, finalmente, o condena. É que, antes disso, há, sempre, a possibilidade de ele ser absolvido, portanto, de nem ter existido ou se configurado a conduta.
+Ressalto que a Terceira Seção deste Tribunal Superior, em recentíssimo julgamento (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, DJe 15/3/2018), alterou seu entendimento para estabelecer como marco inicial para a concessão de benefícios, após a unificação das penas, a data da última prisão do apenado. Veja-se a ementa:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. TERMO A QUO PARA CONCESSÃO DE NOVOS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE. ACÓRDÃO MANTIDO. RECURSO NÃO PROVIDO.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regime atual, está o condenado sujeito a regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal.
+2. A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal. Portanto, a desconsideração do período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado depois e já apontado como falta disciplinar grave, configura excesso de execução.
+3. Caso o crime cometido no curso da execução tenha sido registrado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, pois, segundo a jurisprudência consolidada do Superior Tribunal de Justiça, a prática de falta grave interrompe a data-base para concessão de novos benefícios executórios, à exceção do livramento condicional, da comutação de penas e do indulto. Portanto, a superveniência do trânsito em julgado da sentença condenatória não poderia servir de parâmetro para análise do mérito do apenado, sob pena de flagrante bis in idem.
+4. O delito praticado antes do início da execução da pena não constitui parâmetro idôneo de avaliação do mérito do apenado, porquanto evento anterior ao início do resgate das reprimendas impostas não desmerece hodiernamente o comportamento do sentenciado. As condenações por fatos pretéritos não se prestam a macular a avaliação do comportamento do sentenciado, visto que estranhas ao processo de resgate da pena.
+5. Recurso não provido (REsp 1557461, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 15/3/2018).
+Assim, verifico que o acórdão recorrido se encontra destoante do pacífico entendimento jurisprudencial desta Corte Superior.
+Diante do exposto, com fundamento no Enunciado n. 568 da Súmula/STJ, dou provimento ao recurso especial a fim de considerar, como marco inicial para concessão de novos benefícios, a data da última prisão do recorrente.
+Publique-se. Intimem-se.
