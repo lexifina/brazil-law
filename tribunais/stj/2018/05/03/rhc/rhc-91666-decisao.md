@@ -1,0 +1,6 @@
+DECISÃO
+LUCIO JUNIOR ALVES DE ANDRADE, ora recorrente, alega sofrer constrangimento ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro no Habeas Corpus n. 0044721-42.2017.8.19.0000.
+Nas razões recursais, a defesa informa que a Sexta Turma desta Corte Superior, em acórdão de minha relatoria, deu provimento ao RHC n. 77.250/RJ, interposto em favor de um dos corréus do ora recorrente no processo de origem, por entender configurado o excesso de prazo para o encerramento do feito. Sustenta que, de acordo com certidão lavrada na ação penal objeto deste recurso, o recorrente está preso preventivamente por mais tempo do que o réu que foi beneficiado com a soltura.
+Todavia, em consulta ao sítio eletrônico do Tribunal a quo, verifiquei que, em 13/4/2018, foi proferida sentença absolutória, ocasião em que também foi revogada a prisão preventiva do recorrente, o que evidencia a prejudicialidade deste recurso, em que se pugna pela concessão de liberdade provisória, sob suposto excesso de prazo para o encerramento do feito.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
