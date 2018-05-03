@@ -1,0 +1,25 @@
+DECISÃO
+Tendo em vista a comprovação da tempestividade do agravo em recurso especial, reconsidero a decisão de fl. 936/e-STJ.
+Trata-se de agravo contra decisão que, com base na Súmula 83/STJ, negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSO CÍVEL. APELAÇÃO. SEGURO HABITACIONAL.
+PRESCRIÇÃO AFASTADA. DEFEITO DO IMÓVEL ASSEGURADO DEPENDENTE DE PROVAS. VÍCIOS IDENTIFICADOS. NECESSIDADE DE VISTORIA E LAUDO TÉCNICO.
+RESPONSABILIDADE PRIMÁRIA DA SEGURADORA POR DEFEITOS DE CONSTRUÇÃO CIVIL.
+É IMPRESCINDÍVEL A PERÍCIA PARA AFERIÇÃO DOS DEFEITOS E DETERMINAR O TEMPO DE OCORRÊNCIA PARA PROCESSAR A CONTAGEM DO PRAZO PRESCRICIONAL. SENTENÇA CASSADA. DEVOLUÇÃO. APELO CONHECIDO E PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, a Sul América Companhia Nacional de Seguros alegou, além de divergência jurisprudencial, violação ao Código Civil, artigos 205 e 206, § 1º, II, b, e § 3º, IX; ao Código Civil de 1916, artigos 177 e 178.
+Merece reforma o acórdão recorrido, o qual foi publicado antes da entrada em vigor da Lei 13.105/2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+Com efeito, consignou o acórdão recorrido:
+De acordo com a ré, a prescrição seria de um ano, prazo já completamente decorrido. O entendimento, no entanto, é confrontado por decisões (monocráticas e colegiadas) do Superior Tribunal de Justiça, que indicam a prescrição vintenária, posicionamento recentemente adotado nos tribunais de justiça: deve ser de 20 (vinte) anos o prazo prescricional para que a seguradora indenize por vícios de construção, nos contratos envolvendo mutuários do Sistema Financeiro da Habitação, considerando a natureza especial do seguro habitacional, amparado, portanto, pelo art. 177 do CCB/1916.
+Entretanto, no presente caso, a segurada não indicou a data em que os danos do imóvel surgiram ou agravaram-se, limitando-se a afirmar que os defeitos nos imóveis foram gradativamente aumentados. Verifica-se, mesmo que o contratos tenham sido celebrados entre 23 de agosto de 1977 e 1o de julho de 1995 fl.13, com o ajuizamento da ação em 23.12.2009, portanto mais de vinte anos depois, ocorre que não há como aferir a fruição da prescrição, porque pela natureza dos danos, sua exteriorização ocorreu ao longo dos anos. Assim, somente com o laudo pericial é que se tem a constatação da origem e conseqüente determinação da fruição do prazo prescricional.
+Nesse contexto, não vejo como concordar com o magistrado a quo no tocante à fruição do prazo prescricional, que considerou a preli minar de prescrição, com base no art. 178, § 6o, II, do CC, de 1916, esta não se configura intransponível. Apesar da celebração ter ocorrido em 29.10.1981, com a promoção da ação em 23.12.2009, mais de vinte anos, sem que houvesse pelos proprietários a indicação precisa de uma data em que os danos do imóvel surgiram ou se agravaram, afirmado apenas na petição inicial genericamente, que "com o passar do tempo, alegam que apareceram paredes trincadas demonstrando os graves defeitos de construção (..)" fls.9 e 10.
+(..)
+Embora se fale em prescrição vintenária, o argumento deverá considerar sempre a regra do artigo 2028 do Código Civil, podendo-se, então, falar dos prazos de vinte ou de três anos nos termos do artigo 206, § 3.º, V, do mesmo Código.
+Mas mesmo que se opte pelo prazo anual, a maioria da jurisprudência do Superior Tribunal de Justiça, traz o entendimento que para o acolhimento da objeção dependerá da produção de provas, da averiguação da data em que os vícios surgiram e do conhecimento que os autores tiveram, ou não, de tais vícios, da sua natureza, extensão etc: (..)
+O entendimento do Tribunal de origem, no entanto, não está de acordo com a jurisprudência desta Corte, segundo a qual o prazo de prescrição é anual para as ações propostas pelo segurado contra a seguradora. Confira-se:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA POR VÍCIOS CONSTRUTIVOS - SEGURO HABITACIONAL - PRAZO PRESCRICIONAL ÂNUO - PRECEDENTES DO STJ. INCONFORMISMO DA SEGURADA.
+1. Acórdãos oriundos da mesma turma que apreciou o julgado embargado não são aptos a demonstrarem o dissídio jurisprudencial que enseja a admissão dos embargos de divergência.
+2. Aplica-se às ações ajuizadas por segurado/beneficiário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação - SFH, o prazo prescricional anual, nos termos do art. 178, § 6º, II, do Código Civil de 1916.
+3. Embargos de divergência parcialmente conhecidos e, nessa parte, desprovidos.
+(EREsp 1272518/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/06/2015, DJe 30/06/2015)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de restabelecer a sentença, a qual reconhecera a ocorrência da prescrição.
+Intimem-se.
