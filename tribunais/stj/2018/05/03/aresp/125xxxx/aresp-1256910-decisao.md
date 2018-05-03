@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE MULTA PUNITIVA, DECORRENTES DE ATRASOS NÃO JUSTIFICADOS NA APRESENTAÇÃO DAS CERTIDÕES NEGATIVAS DE DÉBITOS. INADIMPLEMENTO CONTRATUAL NA COBRANÇA. IMPOSSIBILIDADE DE RESPONSABILIZAÇÃO. MATÉRIA CONTRATUAL. REEXAME FÁTICO-PROBATÓRIO QUE NÃO SE ANALISA NESSA SEARA. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial interposto pela FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO com fundamento no art. 105, III, a da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+PRELIMINAR  Ilegitimidade passiva  Inocorrência  Possibilidade de ajuizar ação de cobrança diretamente contra a seguradora garante. Rejeição.
+CONTRATO ADMINISTRATIVO  Inadimplemento contratual (falta de apresentação de CND)  Impossibilidade de responsabilizar o Banco fiador  Descumprimento notificado quando já vencido o prazo estipulado nas garantias  Reforma da sentença neste ponto  HONORÁRIOS ADVOCATÍCIOS  Majoração, impondo-se o percentual de 10% do valor da condenação  Recursos providos, com as observações realizadas (fls. 274).
+2. Os Aclaratórios não foram conhecidos às fls. 304/308.
+3. No Recurso Especial, aduziu-se violação dos arts. 54, 56, § 1o. e 87 da Lei 8.666/1993, alegando que uma vez descumprida a obrigação contratual garantida pela carta de fiança, esta se faz exigível para cobertura da multa aplicada, daí resultando a flagrante ofensa aos dispositivos legais suscitados pela recorrente, a ensejar o regular processamento e provimento do presente recurso, a fim de se determinar a reforma do v. acórdão para o fim de se reconhecer a responsabilidade da recorrida, mantendo a decisão do Juízo a quo, condenando-a ao pagamento pleiteado na ação proposta, observando-se o limite das garantias prestadas (fls. 321/322).
+4. Contrarrazões apresentadas às fls. 333/340.
+5. Inadmitido o Recurso Especial às fls. 343, sobreveio o Agravo de fls. 346/354.
+6. É o relatório do essencial.
+7. Cuida-se, na origem, de ação intentada pela Fundação ora recorrente visando a cobrança de multa punitiva, decorrentes de atrasos não justificados na apresentação das Certidões Negativas de Débitos - CNDs, com respaldo nos Contratos Administrativos n. 05/0137/08/03; n. 05/0218/08/03 e n. 05/0136/03.
+8. Na hipótese dos autos, o TJSP partiu das seguintes premissas:
+De acordo com a avença firmada entre as partes, o prazo para cumprimento da obrigação (apresentação da CND) dar-se-ia em 60 dias, a partir do recebimento dos TRD"s, de modo que a inadimplência configurou-se, respectivamente, em: (i) 26/nov/08 relativo ao Contrato n. 05/0137/08/03 - fl. 35; (ii) 09/nov/10 relativo ao Contrato n. 05/0218/08/03 - fl. 66; e (iii) 26/nov/08 relativo ao Contrato n. 05/0136/08/03 - fl. 97.
+Ocorre que, a despeito da vigência das Cartas n. 463985 e 464339 quando do referido descumprimento, o Banco fiador só foi notificado quando já vencido o prazo estipulado nas garantias (vide notificações de fls. 48, 80, 111), razão pela qual não pode responder pela obrigação em apreço.
+(..).
+Assim, é o caso de acolher a irresignação recursal para que se exclua a condenação imposta à instituição financeira. Sucumbente, deverá a autora ressarcir as custas e despesas processuais adiantadas pelo corréu, bem como arcar com honorários de 10% do valor da condenação (fls. 278/279).
+9. Pois bem, no presente caso, o Tribunal de origem, analisando as cláusulas contratuais e as provas colhidas nos autos, concluiu que o Banco fiador, ora recorrido, não poderia responder por obrigação cobrada decorrido o prazo previsto no acordo.
+10. Como se observa, a alteração de tal entendimento tirado dos preceitos contratuais e, por implicar o revolvimento do conjunto fático-probatório dos autos, é defesa a esta Corte Superior, com base nas Súmulas 5 e 7/STJ.
+11. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial da Fundação para o Desenvolvimento da Educação.
+12. Publique-se. Intimações necessárias.
