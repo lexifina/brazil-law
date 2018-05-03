@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por [NOME], VINICIUS PEREIRA, PAULO MOISES REIS BRANDAO, MIQUEIAS REIS BRANDAO e JEISON SCHWINGEL DOS SANTOS em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, ementado nos seguintes termos (e-STJ fl. 514):
+PRONÚNCIA. EXISTÊNCIA DE INDÍCIOS DA MATERIALIDADE, AUTORIAS E QUALIFICADORAS. SENTENÇA DE PRONÚNCIA MANTIDA.
+É pacífico o entendimento jurisprudencial de que a impronúncia ou a desclassificação do delito ou, ainda, o afastamento das qualificadoras só podem ocorrer, quando não existir nenhuma prova da materialidade do delito ou da sua autoria ou do animus necandi ou, no caso das qualificadoras, que nenhuma prova sobre elas tenha sido produzida durante a instrução probatória.
+Não é a situação dos autos, razão pela qual se mantém a sentença de pronúncia, como prolatada, inclusive quanto ao delito conexo.
+DECISÃO: Recursos defensivos desprovidos. Unânime.
+Nas razões do recurso especial, fundado na alínea "a" do permissivo constitucional, argumentou a defesa que a linguagem utilizada no decisum combatido "é totalmente incompatível com os limites da cognição sumária inerente à pronúncia, conforme demanda o artigo 413, §1º, do Código de Processo Penal, pois composta por juízos de certeza acerca da prática do crime por parte dos recorrentes, passível de influenciar os jurados leigos como argumento de autoridade." (e-STJ fls. 536/537).
+Pugnou, assim, pela declaração de nulidade do acórdão, por excesso de linguagem para fundamentar a decisão.
+Contra-arrazoado (e-STJ fls. 544/548), o Tribunal local inadmitiu o recurso especial (e-STJ fls. 550/559) em decorrência da incidência da Súmula n. 83/STJ.
+Em seu agravo (e-STJ fls. 565/570), o recorrente rebate a fundamentação utilizada para inadmitir o recurso.
+Foi apresentada contraminuta (e-STJ fls. 576/580).
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 594/597).
+É o relatório. Decido.
+Num primeiro momento, esclareço que a tarefa do julgador, ao motivar as decisões relacionadas ao Tribunal do Júri, revela-se trabalhosa, uma vez que deve buscar o equilíbrio, a fim de evitar o excesso de linguagem sem se descurar da necessidade de fundamentação adequada, conforme preceitua o art. 93, IX, da Constituição Federal.
+No caso dos autos, não verifico o excesso de linguagem alegado, porquanto as instâncias ordinárias se limitaram a apontar dados dos autos aptos a demonstrar a existência de indícios suficientes de autoria, em estrita observância ao disposto no art. 413, § 1º, do Código de Processo Penal, não se verificando, portanto, a emissão de qualquer juízo de certeza.
+Constata-se, da leitura do acórdão, que o Tribunal de origem não avançou além dos limites que lhe são deferidos, tendo apenas elencado os motivos que levou os julgadores a entender pela existência de indícios de autoria, referindo-se, ademais, às provas constantes dos autos, sem emitir qualquer juízo de certeza acerca da autoria do crime, não se imiscuindo, portanto, na competência constitucional do Tribunal do Júri.
+Não se cogita, assim, de excesso de linguagem, porquanto as instâncias ordinárias mantiveram postura absolutamente imparcial quanto aos fatos, somente apontando, com cautela e cuidado, os elementos que justificaram a decisão de pronúncia, para que sejam os recorrentes submetidos a julgamento pelo Tribunal do Júri, órgão constitucionalmente competente para dirimir as dúvidas e resolver a controvérsia, nos termos do art. 5º, inciso XXXVIII, "d", da CF/88.
+Nesse sentido:
+(..). PRONÚNCIA. EXCESSO DE LINGUAGEM. INFLUÊNCIA NO ÂNIMO DOS JURADOS. NÃO OCORRÊNCIA. MÁCULA RECHAÇADA. 1. A instância de origem se absteve de qualquer manifestação acerca do mérito da acusação, não se depreendendo da respectiva decisão qualquer consideração capaz de exercer influência no ânimo dos integrantes do Conselho de Sentença, mormente em razão do cuidado no emprego dos termos, limitando-se a indicar os motivos do convencimento para evitar a nulidade da decisão por ausência de fundamentação. 2. Habeas corpus não conhecido. (HC 348.479/ES, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 17/5/2016, DJe 25/5/2016).
+PENAL E PROCESSUAL. HOMICÍDIO. PRONÚNCIA. EXCESSO DE LINGUAGEM. NÃO OCORRÊNCIA. PRISÃO. EXCESSO DE PRAZO. MATÉRIA NÃO DECIDIDA NO ACÓRDÃO (RECURSO EM SENTIDO ESTRITO) TIDO POR COATOR.
+1. Se a sentença de pronúncia, fundamentadamente, se limita a demonstrar as razões do convencimento do magistrado, acerca da existência do crime (materialidade) e de indícios veementes de ser o ora paciente o autor dos fatos (autoria), tudo nos termos do art. 413 do Código de Processo Penal, não há falar em excesso de linguagem.
+2. A eventual referência a depoimentos não torna, ipso facto, nula a pronúncia se o faz o magistrado com comedimento.
+3. Não suscitada e, por isso mesmo, não decidida no acórdão tido por coator a questão do excesso de prazo na prisão, não merece o tema conhecimento, sob pena de supressão de instância, ainda mais tratando-se de impetração assestada contra acórdão de recurso em sentido estrito, como um verdadeiro sucedâneo recursal.
+4. Ordem de habeas corpus não conhecida. (HC 357.808/PE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 17/11/2016, DJe 1/12/2016)
+Ante o exposto, com fundamento no art. 932, VII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
