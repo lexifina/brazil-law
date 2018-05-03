@@ -1,0 +1,63 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de propaganda enganosa e má prestação do serviço a gerar o direito à indenização. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+A Quarta Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Marco Buzzi, Lázaro Guimarães (Desembargador convocado do TRF 5ª Região) e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 470/510) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante insurge-se contra a aplicação da Súmula n. 7/STJ, argumentando que o caso demanda apenas revaloração de provas, e não seu reexame.
+Sustenta que "não se caracteriza a publicidade enganosa, tampouco falha na prestação do serviço ou nas informações sobre a natureza do curso, que era de farmácia, com habilitação em farmácia-bioquímica" (e-STJ fl. 473), oferta que teria sido cumprida.
+Afirma que o dissídio jurisprudencial foi devidamente demonstrado.
+Alega, por fim, a ocorrência de fato superveniente, consistente na edição da Resolução n. 6/2017 do Conselho Nacional de Educação, que teria expressamente proibido novas ofertas com a utilização da nomenclatura "Farmácia-Bioquímica". Conclui que "a medida tomada pelo CNE confirma, de forma incontroversa, que na realidade a agravante não estava proibida de oferecer o curso de Farmácia-Bioquímica, que estava reconhecido pelo MEC nessa modalidade, e que o diploma expedido aos seus alunos, inclusive às agravadas, como Farmacêutico-Bioquímico, tinha e tem validade em todo território nacional" (e-STJ fl. 483).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões, requerendo o não conhecimento do recurso ou seu desprovimento, bem como a aplicação das multas dos arts. 81 e 1.021, § 4º, do CPC/2015 e a majoração dos honorários advocatícios.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu pela existência de propaganda enganosa e má prestação do serviço a gerar o direito à indenização. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. A incidência da referida súmula também obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 464/466):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que negou seguimento ao recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7/STJ (e-STJ fls. 386/387).
+O acórdão recorrido está assim ementado (e-STJ fl. 279):
+APELAÇÃO CÍVEL. RECURSO ADESIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSTITUIÇÃO DE ENSINO SUPERIOR QUE ANUNCIAVA CURSO DE GRADUAÇÃO EM FARMÁCIA-BIOQUÍMICA. PROPAGANDA ENGANOSA. DEVER DE INDENIZAR. CONDENAÇÃO AO PAGAMENTO DA VERBA INDENIZATÓRIA POR DANOS MORAIS. MAJORAÇÃO. JUROS DE MORA. TERMO INICIAL.
+CITAÇÃO. SÚMULA Nº 83/STJ. sentença PARCIALMENTE reformada. 1 - A Resolução nº 02/2002 determinou que o curso de Farmácia passe a ter formação generalista, o que impede a Instituição de Ensino Superior oferecer o curso de Farmácia-Bioquímica, sob pena de responder objetivamente pelos danos causados, em razão de propaganda enganosa e má prestação de serviço, nos termos da legislação consumerista. 2 - Configurado o ato ilícito por parte do estabelecimento de ensino recorrente, resta patente o dever de indenizar a parte autora pelos danos morais sofridos. 3 - O valor a ser arbitrado a título de compensação por ofensa moral deve ter como parâmetro a extensão do abalo sofrido pelo lesado, considerada, ainda, a finalidade repressiva ao ofensor, sem contudo, configurar fonte de enriquecimento ilícito. Não estando a quantia fixada em conformidade com essas balizas, cabível a sua majoração para montante que melhor atenda às peculiaridades do caso e aos princípios da razoabilidade e proporcionalidade, no caso, R$ 20.00 0,00 (vinte mil reais). 4 - Nos moldes da jurisprudência consolidada do STJ, os juros moratórios fluem, nos casos de responsabilidade contratual, a partir da citação, e não da data do arbitramento da indenização. APELAÇÃO CÍVEL E RECURSO ADESIVO CONHECIDOS E PARCIALMENTE PROVIDOS.
+No especial (e-STJ fls. 283/300), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 14 e 37, § 1º, do CDC e 422 do CC/2002, sustentando, em síntese, a inexistência de danos morais. Destacou que (e-STJ fl. 288):
+Ocorre que o curso não é de Farmácia e Bioquímica, mas de Farmácia, pelo qual o aluno sai com a titulação de Farmacêutico-Bioquímico, nos termos da Portaria de Reconhecimento do curso em vigor na época.
+Ocorre também que a Resolução 514/09 do CFF, que provocou toda a celeuma tratada nos autos, só foi editada em novembro/09 e o ingresso da recorrida na instituição se deu no primeiro semestre de 2010, ou seja, até novembro de 2009, não existia nenhum óbice ao registro profissional de farmacêutico-bioquímico, sendo a formação acadêmica oferecida segundo diretrizes curriculares estabelecidas desde 2002, plenamente aceita, tanto no que tange ao registro do título quanto no efetivo exercício da profissão.
+Daí, não procede o raciocínio desenvolvido pelo acórdão recorrido de que a recorrente ofereceu "curso inexistente", praticando propaganda enganosa.
+O curso existia e foi devidamente ministrado na forma contratada, tanto que o Conselho Federal de Farmácia, até 2009, efetuava o registro de farmacêutico- bioquímico, deixando de fazê-lo só após a publicação da Resolução 514/2009.
+Portanto, não há que se falar também que a recorrente afrontou o princípio da boa fé no contrato firmado com a recorrida, pois ofertou curso que existia e prestou o serviço contratado na íntegra.
+No agravo (e-STJ fls. 394/413), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 419/425).
+Petição apresentada às fls. 431/455 (e-STJ)
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 272/273):
+Dessa forma, havendo propaganda enganosa e má prestação de serviço por parte da instituição de ensino superior apelante, uma vez que ofereceu o curso de Farmácia-Bioquímica que não mais poderia, ressai clarividente imposição de condenação pelos danos causados à aluna apelada.
+É cediço que as instituições de ensino se submetem ao regramento da legislação consumerista, razão pela qual configurado o ato ilícito por ela praticado, impõe-lhe o dever de indenizar, visto que era de sua exclusiva responsabilidade atentar-se às normas do órgão regulador que rege a matéria, o que não ocorreu no caso em análise.
+(..)
+Não obstante esse regramento próprio, importante ressaltar que os contratos de consumo são regidos, subsidiariamente, pelas normas do Código Civil, que em seu art. 422, consta expressamente o princípio da boa-fé objetiva.
+Assim, demonstrado nos autos, o nexo de causalidade entre o dano por ele suportado e a conduta da instituição de ensino apelante em oferecer curso inexistente, nasce o dever de indenizar.
+Nesse aspecto, o dano moral exsurge in re ipsa, sendo devida a indenização por parte da UNIP, independentemente de sua demonstração.
+Para alterar os fundamentos acima transcritos e reconhecer a inexistência de danos morais, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+No que diz respeito ao apontado dissídio jurisprudencial, a incidência da Súmula n. 7/STJ inviabiliza também o exame do recurso especial pela alínea "c" da norma autorizadora. Nesse sentido: AgRg no Ag n. 1.346.248/MG, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 22/5/2012; REsp n. 1.086.048/RS, Relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 21/6/2011, DJe 13/9/2011; EDcl no Ag n. 984.901/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/3/2010, DJe 5/4/2010; AgRg no REsp n. 1.030.586/SP, Relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/5/2008, DJe 23/6/2008.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Conforme delineado na monocrática, o Tribunal de origem analisou a controvérsia com base nos fatos e nos atos infralegais pertinentes para concluir que, apesar de o Conselho Nacional de Educação dispor, desde 2002, que só pode obter título de farmacêutico-bioquímico aquele que concluir especialização em Análises Clínicas, a agravante continuava oferecendo curso de graduação com a promessa de emissão de diploma com o referido título, o que caracterizaria propaganda enganosa e má prestação do serviço.
+Decidir de modo contrário demandaria o revolvimento do contexto fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+A incidência da referida súmula obsta também o conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional, pois impede que se verifique a similitude fática entre os acórdãos confrontados.
+Ademais, a edição da Resolução n. 6/2017 do Conselho Nacional de Educação não altera o desfecho dado aos autos porque o fato de ter sido expedido ato que proíba a utilização de nomenclatura que possa dar conotação de habilitações específicas para curso de graduação não significa que a conduta praticada anteriormente não configure ilícito.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório a ensejar a sanção processual prevista no referido dispositivo. Do mesmo modo, rejeito o pedido de condenação por litigância de má-fé por não vislumbrar dolo na conduta da agravante.
+Quanto ao pedido de majoração dos honorários, conforme decidiu a Quarta Turma do STJ, "os honorários devidos na fase de recurso especial compreendem a remuneração de todo o trabalho advocatício nesta etapa, inclusive eventual agravo interno que se faça necessário para que o recurso chegue ao conhecimento do colegiado naturalmente competente, a Turma. Não cabe, portanto, majorar os honorários, com base no art. 85, § 11, do CPC/2015, em razão da interposição de agravo interno. Atitudes eventualmente procrastinatórias são passíveis de sanção processual própria, inconfundível com o escopo dos honorários de sucumbência (CPC/2015, art. 80, §12)" (AgInt no AREsp 788.432/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/10/2016, DJe 11/10/2016).
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
