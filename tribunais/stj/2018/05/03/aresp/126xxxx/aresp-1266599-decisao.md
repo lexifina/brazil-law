@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. JULGAMENTO ANTECIPADO DA LIDE. 1. AUSÊNCIA DE CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. 2. PROVA DE FATO CONSTITUTIVO DO DIREITO. MOMENTO DA JUNTADA. AJUIZAMENTO DA INICIAL. SÚMULA 83/STJ. 3. ÔNUS. COMPROVAR QUE O RECORRENTE MORAVA EM LOCAL DIVERSO. FUNDAMENTO INATACADO. SÚMULA 283 DO STF. 4. DEFICIÊNCIA NA COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. 5. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Trata-se de agravo interposto por [NOME] contra decisão que não admitiu o processamento do apelo extremo.
+Na origem, verifica-se que o agravante ajuizou ação indenizatória, julgada improcedente.
+Interposta apelação pelo ora insurgente, a Terceira Câmara de Direito Civil do Tribunal de Justiça do Estado de Santa Catarina negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 904):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INCÊNDIO EM DEPÓSITO DE FERTILIZANTES QUE DESENCADEOU EXTENSA E TÓXICA FUMAÇA EM DETERMINADAS LOCALIDADES DO MUNICÍPIO DE SÃO FRANCISCO DO SUL. ORDEM DA DEFESA CIVIL DE DESOCUPAÇÃO COMPULSÓRIA DAS RESIDÊNCIAS A FIM DE EVITAR A OCORRÊNCIA DE DANOS À SAÚDE DA POPULAÇÃO. EXPEDIÇÃO DE DECRETO QUE ELENCOU OS BAIRROS AFETADOS PELO INFORTÚNIO. AUSÊNCIA DE PROVA DA RESIDÊNCIA DO ACIONANTE EM UMA DESSAS LOCALIDADES. FALTA DOCUMENTAL QUE NÃO ENSEJAVA ORDEM DE EMENDA DA INICIAL, POIS QUE NÃO SE TRATAVA DE IRREGULARIDADE CAPAZ DE OBSTACULIZAR O PROCESSAMENTO DA AÇÃO, MAS DE PROVA DO DIREITO MATERIAL POSTULADO. ADEMAIS, CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AUSÊNCIA DE REQUERIMENTO DE PRODUÇÃO DE PROVAS QUE NÃO OBRIGAVA O MAGISTRADO A INSTAURAR A FASE INSTRUTÓRIA DO PROCESSO, SOBRETUDO PORQUE A PROVA DO FATO CONSTITUTIVO CONSISTIA EM DOCUMENTO BASTANTE CORRIQUEIRO, PORTANTO, DE FÁCIL OBTENÇÃO. ALEGADA SUFICIÊNCIA DA JUNTADA DE DECLARAÇÃO DE RESIDÊNCIA EM BAIRRO ATINGIDO PELA FUMAÇA. DECLARAÇÃO QUE, ALÉM DE NÃO SUBSCRITA NA FORMA DA LEI N. 7.115/83, É TRATADA COMO PRESUNÇÃO RELATIVA E NÃO COMO PROVA À LUZ DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, o recorrente alegou, além da existência de divergência jurisprudencial, violação dos arts. 321, 352, 355, 369, 435 e 442 do Código de Processo Civil de 2015 e 1º, caput, da Lei n. 7.115/1983, sob as seguintes assertivas:
+(i) impossibilidade do julgamento antecipado da lide, ante a necessidade da produção de provas para esclarecimento de questão de direito e de fato, bem como a validade da prova testemunhal para comprovação da residência;
+(ii) possibilidade de juntada de documento em qualquer momento do processo, o que não lhe foi oportunizado em razão da ausência de despacho saneador de especificação de provas.
+Contrarrazões às fls. 948-967 (e-STJ).
+O processamento do apelo nobre não foi admitido pela Corte local, levando o insurgente a interpor o presente agravo.
+Contraminuta às fls. 1.001-1.008 (e-STJ).
+Brevemente relatado, decido.
+No tocante ao alegado cerceamento de defesa pelo julgamento antecipado da lide, cumpre salientar que o destinatário final das provas produzidas é o juiz, a quem cabe avaliar sua suficiência e necessidade.
+Assim, se o magistrado, após análise dos elementos fático-probatórios carreados aos autos, entendeu não haver a necessidade de complementação probatória para o julgamento da lide, não há que se falar em cerceamento de defesa.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. MAGISTRADO COMO DESTINATÁRIO DAS PROVAS. CERCEAMENTO DE DEFESA. CONFIGURAÇÃO. REEXAME DE PROVAS. INADMISSIBILIDADE. SÚMULA Nº 7/STJ.
+1. É possível o julgamento antecipado da lide quando o tribunal de origem entender substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Os princípios da livre admissibilidade da prova e do livre convencimento do juiz (art. 130 do CPC) permitem ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+2. Rever os fundamentos de não reconhecimento do cerceamento de defesa por ter sido a lide julgada antecipadamente demanda a reapreciação do conjunto fático-probatório dos autos, o que é inadmissível em recurso especial, a teor da Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido.
+(AgRg no AREsp 229.927/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/03/2015, DJe 23/03/2015)
+Nesse sentido, a alteração do entendimento firmado no acórdão recorrido demandaria, necessariamente, a reanálise do acervo fático-probatório, providência vedada na via eleita, ante o óbice previsto no Enunciado n. 7/STJ.
+Acerca da alegada possibilidade de juntada do comprovante de residência aos autos a qualquer momento, por ser documento "dispensável", também não assiste razão ao recorrente.
+Da leitura do acórdão objurgado, verifica-se que a Corte local não decidiu que o comprovante de residência do recorrente seria dispensável, mas que, como prova do fato constitutivo do direito, a sua ausência não ensejaria a determinação de emenda da inicial, e sim a improcedência do pedido, por insuficiência de prova.
+Nesse sentido, sendo a prova da moradia documento necessário à comprovação do direito alegado, existente ao tempo do manejo da lide, caberia à parte trazê-lo aos autos junto à petição inicial, ônus do qual não se desincumbiu.
+Por oportuno:
+DIREITO PROCESSUAL CIVIL E ADMINISTRATIVO. PROVA DOCUMENTAL. PRODUÇÃO EXTEMPORÂNEA. EXCEÇÕES LEGAIS. INAPLICABILIDADE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. A regra prevista no art. 396 do Código de Processo Civil, segundo a qual incumbe à parte instruir a inicial ou a contestação com os documentos necessários para provar o direito alegado, somente pode ser excepcionada se, após o ajuizamento da ação, surgirem documentos novos, ou seja, decorrentes de fatos supervenientes ou que somente tenham sido conhecidos pela parte em momento posterior (CPC, art. 397), o que não ocorreu, conforme relatado pelo Tribunal a quo. Precedentes do STJ.
+ ..
+4. Recurso Especial não conhecido.
+(REsp 1618161/AC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2016, DJe 06/03/2017)
+Desse modo, estando o acórdão recorrido em consonância com o entendimento dominante desta Corte Superior, incide, ao caso, o Enunciado n. 83 da Súmula do STJ.
+No ponto, como os fundamentos do acórdão recorrido não foram atacados de forma específica nas razões do recurso especial, imperiosa é a incidência do comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+Por fim, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso. Complemente-se, ainda, que a simples transcrição das ementas, trechos ou inteiro teor de julgado tido como paradigma, sem a realização do devido cotejo analítico entre os acórdãos confrontados, não atende às exigências dos arts. 541, parágrafo único, do Código de Processo Civil de 1973 e 255, §§ 1º e 2º, do RISTJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em R$ 100,00 (cem reais), suspensa a exigibilidade em razão da gratuidade de justiça deferida ao recorrente.
+Publique-se.
