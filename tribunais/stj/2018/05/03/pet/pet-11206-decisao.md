@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Pedido de Uniformização de Interpretação de Lei Federal interposto pelo ESTADO DE RONDÔNIA, com base no art. 18, § 3º, da Lei n. 12.153/2009, contra acórdão da Turma Recursal dos juizados especiais que afastou a incidência de imposto de renda sobre o terço constitucional de férias.
+Passo a decidir.
+A teor do art. 18, § 3º, da Lei n. 12.153/2009, o pedido de uniformização de interpretação de lei federal é cabível no âmbito deste Tribunal Superior, quando as Turmas Recursais de diferentes Estados derem à lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do Superior Tribunal de Justiça, especificamente no que se refere a questões de direito material.
+No caso, a Turma Recursal do Estado de Rondônia decidiu pela não incidência do imposto de renda sobre os valores recebidos a título de terço constitucional de férias por entender pela natureza indenizatória dessa verba.
+E a suscitante indica diversos precedentes deste Tribunal Superior, da Turma Nacional de Uniformização de jurisprudência dos juizados especiais federais e de outras Turmas Recursais dos juizados da Fazenda Pública que revelam a ocorrência de divergência jurisprudencial sobre o tema.
+Verificada a competência deste Tribunal Superior, o caso enseja o acolhimento do pedido.
+A Primeira Seção desta Corte Superior, no julgamento do REsp 1.459.779/MA, na sistemática dos recursos repetitivos sedimentou o entendimento pela incidência do imposto de renda sobre o terço constitucional de férias gozadas; vide:
+TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE RENDA. ADICIONAL DE 1/3 (UM TERÇO) DE FÉRIAS GOZADAS. INCIDÊNCIA DA EXAÇÃO.
+1. A jurisprudência tradicional do STJ é pacífica quanto à incidência do imposto de renda sobre o adicional (1/3) de férias gozadas.  ..
+2. A conclusão acerca da natureza do terço constitucional de férias gozadas nos julgamentos da Pet 7.296/PE e do REsp 1.230.957/RS, por si só, não infirma a hipótese de incidência do imposto de renda, cujo fato gerador não está relacionado com a composição do salário de contribuição para fins previdenciários ou com a habitualidade de percepção dessa verba, mas, sim, com a existência, ou não, de acréscimo patrimonial, que, como visto, é patente quando do recebimento do adicional de férias gozadas.
+3. Recurso especial provido, divergindo do voto do Sr. Ministro Relator.
+(REsp 1459779/MA, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 22/04/2015, DJe 18/11/2015).
+É com base nesse entendimento que este Tribunal Superior tem, reiteradamente, julgado os pedidos de uniformização (v.g.: Pet 10.397/AP, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe 19/12/2016).
+A propósito, cumpre mencionar, especificamente quanto às Turmas Recursais do Estado de Rondônia, que o em. Min. Og Fernandes deu provimento à Pet n. 11.141/RO, "para reconhecer a incidência do imposto de renda sobre o valor recebido a título de adicional (terço) de férias gozadas, julgando improcedente a pretensão autoral" (julgado em 27/04/2017).
+Ante o exposto, CONHEÇO do pedido de uniformização de interpretação de lei, ACOLHENDO-O para declarar a legalidade da incidência do imposto de renda sobre os valores recebidos a título de terço constitucional de férias gozadas; e, em consequência, julgo improcedente o pedido autoral, com inversão dos ônus sucumbenciais.
+Publique-se. Intimem-se.
