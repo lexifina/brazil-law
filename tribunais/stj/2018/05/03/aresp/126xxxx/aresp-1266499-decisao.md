@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE IMÓVEL. BEM ARRECADADO NA FALÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cuida-se, na origem, de agravo de instrumento interposto por Motorola Mobility Comércio de Produtos Eletrônicos Ltda. contra decisão que, nos autos da execução de título extrajudicial ajuizada em desfavor de [NOME] e outra, determinou o levantamento de penhora incidente sobre o bem imóvel penhorado nos autos em razão de sua arrecadação prévia pela massa falida de Barnet Indústria e Comércio S.A., cancelando-se as averbações atinentes à penhora em sua matrícula.
+A Vigésima Segunda Câmara Direito Privado do Tribunal de Justiça de São Paulo negou provimento ao recurso, em acórdão assim ementado:
+Execução de título executivo extrajudicial. Suspensão de leilão de imóvel designado ante a notícia da arrematação do mesmo nos autos da falência da empresa Barnet Indústria e Comércio S/A Insurgência Bem arrecadado pela massa falida no ano de 2000, enquanto sua penhora nos autos da execução foi efetivada apenas em 2015 Levantamento da penhora determinado, sob pena de causar prejuízo aos credores e eventual arrematante do imóvel nos autos da falência Decisão mantida Recurso improvido.
+Opostos embargos de declaração, foram rejeitados.
+A exequente interpôs recurso especial fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 24 e 70, § 4º, do DL n. 7.661/1945; 192 da Lei n. 11.101/2005; e 473 do CPC/1973.
+Sustentou, em síntese, a nulidade absoluta da arrecadação do Sítio Serrinha nos autos da falência da Barnet Indústria e Comércio S.A., pois a presente execução é anterior à referida arrecadação e o bem não poderia ser alcançado por ela. Aduziu, ainda, a ofensa à coisa julgada formal.
+O Tribunal de origem negou seguimento ao recurso sob o fundamento de incidir a Súmula 7/STJ.
+A recorrente apresenta agravo refutando o óbice apontado pela Corte estadual.
+Brevemente relatado, decido.
+Com efeito, constata-se que os dispositivos supostamente violados e as questões trazidas nas razões do apelo nobre não foram objeto de debate pelas instâncias ordinárias, estando ausente, portanto, o requisito do prequestionamento, atraindo a incidência da Súmula 211/STJ.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+Confira-se:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido. (REsp 1639314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017 - sem grifo no original)
+Ainda que assim não fosse, note-se que, consoante assinalado pelo acórdão recorrido, o pleito executório se arrasta desde 22/11/2000, haja vista que os ora recorridos se furtam indevidamente ao pagamento de quantia representada por 2 (duas) notas promissórias no valor histórico total de R$ 12.000.000,00 (doze milhões de reais).
+Buscando a satisfação da dívida, a credora localizou o imóvel denominado Sítio Serrinha na cidade de Indaiatuba/SP, porém, segundo relatado pela recorrente, o referido bem havia sido objeto de uma sequência de alienações perpetradas pelo executado [NOME] a fim de colocá-lo a salvo de seus credores.
+Em decorrência das aludidas manobras, houve a desconsideração inversa da personalidade jurídica para a qual o bem havia sido transferido, Market Consultoria em Leilões S.S. Ltda., que recebeu o imóvel em dação em pagamento da Barnet Indústria e Comércio S.A.
+Contudo, em razão da falência daquela última sociedade empresária, aberta em fevereiro de 2000, sobreveio a arrecadação do pretenso sítio em favor da massa falida, tendo sido realizado seu leilão em 12/8/2015.
+Não obstante a interposição de alguns recursos, o aresto combatido asseverou que o imóvel em questão foi arrecadado há mais de uma década e meia, sendo inalcançável, pois todas as penhoras realizadas em execuções posteriores à declaração de falência ou anteriores, mas que não contam com atos de constrição, deverão ser realizadas no rosto dos autos do processo de quebra, em decorrência da universalidade da massa falida.
+Todavia, verifica-se que os fundamentos adotados pela Corte estadual não foram objeto de impugnação nas razões do recurso especial, haja vista que se limita a arguir a ofensa à coisa julgada formal e a nulidade da arrecadação ocorrida no processo de falência.
+Assim, a manutenção de algum argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGAÇÕES DE NULIDADE DE INTIMAÇÃO, PRESCRIÇÃO DO FEITO EXECUTIVO E IMPOSSIBILIDADE DE DECLINAÇÃO DE COMPETÊNCIA. ÓBICES SUMULARES E INOVAÇÃO RECURSAL. MATÉRIA DE ORDEM PÚBLICA. NÃO CABIMENTO, NESTA SEDE, UMA VEZ QUE AUSENTE O REQUISITO DO PREQUESTIONAMENTO.
+1. A ausência de impugnação específica das razões pelas quais o Tribunal a quo deixou de conhecer da matéria atrai o óbice das Súmulas 283 e 284 do STF.
+ ..  5. Agravo regimental a que se nega provimento. (AgRg no REsp 1443474/CE, Rel. Min. Og Fernandes, Segunda Turma, julgado em 02/06/2015, DJe 15/06/2015)
+Outrossim, de se ver que a alegada nulidade da arrecadação do bem no processo de falência deveria ter sido alegada naquela demanda, pois, caso o Juízo da ação executória anulasse tal ato, estar-se-ia diante de um conflito de competência, já que dois Magistrados, de mesma hierarquia, estariam decidindo contrariamente sobre a mesma questão.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em decorrência do julgamento do presente recurso, verifica-se a perda do objeto da Petição n. 174807/2018.
+Publique-se.
