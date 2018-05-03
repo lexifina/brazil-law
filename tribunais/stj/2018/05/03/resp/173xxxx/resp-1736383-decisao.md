@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. TRIBUTÁRIO. EXECUÇÃO FISCAL. REDIRECIONAMENTO CONTRA SÓCIO. TRIBUNAL DE ORIGEM QUE ASSENTA A INEXISTÊNCIA DE DISSOLUÇÃO IRREGULAR DA PESSOA JURÍDICA EXECUTADA. DISCUSSÃO ACERCA DA OCORRÊNCIA DOS REQUISITOS AUTORIZADORES DA MEDIDA PLEITEADA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 1.016 E 1.053 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS 282 E 356/STF. RECURSO NÃO CONHECIDO.
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR DA EMPRESA NÃO CARACTERIZADA. DISTRATO. DISSOLUÇÃO REGULAR. AGRAVO DESPROVIDO.
+1. O distrato social é uma forma regular de dissolução da sociedade, o que inviabiliza o pleito de redirecionamento da execução fiscal.
+2. Agravo desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente alega violação aos arts. 123 e 135, III, do CTN, 1.016 e 1.053 do CC, asseverando que: a) "restou constatado, por meio de diligências de Oficiais de Justiça, que a empresa executada está inativa há muitos anos" (fl. 99); b) "o distrato social registrado na Junta Comercial não tem o condão de afastar a dissolução irregular verificada e certificada pelos Oficiais de Justiça" (fls. 99/100); c) "o pedido de redirecionamento da execução contra os co-responsáveis é amparado pela comprovação da dissolução irregular da pessoa jurídica" (fl. 100); d) "o distrato social foi levado a registro após o encerramento irregular da pessoa jurídica" (fl. 100); e e) "se a dissolução da sociedade se deu por distrato registrado na Junta Comercial sem que a empresa tenha efetuado a apuração do seu ativo e a liquidação de seu passivo", com a regularização de sua situação fiscal, "não há como se admitir a tese de que houve encerramento regular da pessoa jurídica e, por conseguinte, que seja afastada a responsabilidade dos sócios-gerentes" (fl. 101).
+Não houve apresentação de contrarrazões.
+O recurso foi admitido pela decisão de fls. 106/111.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem, soberano na apreciação das provas carreadas aos autos, assentou que o distrato da pessoa jurídica executada foi devidamente registrado na Junta Comercial, concluindo, assim, que não restou configurada a dissolução irregular a viabilizar o redirecionamento da execução fiscal contra os sócios-gerentes, nos seguintes termos (fls. 62/63):
+"A exequente pugna seja o representante legal incluído no polo passivo da demanda. Entretanto, não se extrai dos autos a efetiva ocorrência de dissolução irregular da empresa, causa que ensejaria o redirecionamento da execução.
+De fato, como bem salientado pelo MM. Juiz de primeira instância, "o distrato não é suficiente para a comprovação da alegada dissolução irregular" (f. 43 deste instrumento).
+Com efeito, a jurisprudência Turma é pacífica no sentido de que o distrato devidamente registrado na JUCESP representa dissolução regular da sociedade, descabendo o redirecionamento do executivo fiscal ao sócio executada.
+(..)
+No presente caso, consta dos registros da Junta Comercial de São Paulo - JUCESP o distrato social (f. 41-41v), o que importa dissolução regular da sociedade, de modo que incabível o redirecionamento da execução fiscal em face do sócio."
+Em consequência, acolher a pretensão recursal, para efeito de reputar ocorrente a dissolução irregular da empresa executada, hábil a ensejar o redirecionamento do feito executivo em desfavor dos sócios-gerentes, requer o revolvimento do acervo fático-probatório, providência inviável em sede de recurso especial em razão do óbice contido na Súmula 7/STJ.
+A corroborar tal entendimento, confira-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. EXECUÇÃO FISCAL. NECESSIDADE DE COMPROVAÇÃO DE IRREGULARIDADES. ART. 135 DO CTN. SÚMULA 7 DO STJ.
+1. A parte sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito (Súmula 284/STF).
+2. O Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou a impossibilidade do redirecionamento da execução fiscal aos sócios da pessoa jurídica por não verificar a presença dos requisitos do art. 135 do CTN: "Os elementos apresentados no feito executivo não configuram hipótese de sucessão de empresas (art. 133 do CTN) ou dissolução irregular da executada (art. 135 do CTN), podem, contudo, configurar hipótese de grupo econômico, tendo em vista a narrativa de fatos que demonstram abuso da personalidade jurídica, caracterizado pelo desvio de finalidade, ou pela confusão patrimonial (art. 50 do CCB)" (fl. 101, e-STJ). Rever tal entendimento esbarra no óbice da Súmula 7 do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1678020/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017) (grifou-se)
+Outrossim, observa-se que o Tribunal de origem não se pronunciou sobre o disposto nos arts. 1.016 e 1.053 do CC, e eventual omissão nem sequer foi suscitada por meio de embargos de declaração, razão pela qual é inviável o conhecimento da questão, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356/STF, por analogia).
+Nesse sentido, destaca-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa ao art. 535 do CPC/1973 se faz sem a demonstração objetiva dos pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência da Súmula 284/STF.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+(..)
+4. Recurso especial não conhecido.
+(REsp 1673756/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018) (grifou-se)
+Diante do exposto, com base no art. 932, III, do CPC/2015, c/c o art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
