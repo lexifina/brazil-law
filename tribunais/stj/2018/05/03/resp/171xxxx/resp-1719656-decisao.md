@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MÔNICA OLIVEIRA DOS SANTOS, em 08/08/2017, com base nas alíneas a e c do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Rondônia, assim ementado:
+"Agravo regimental. Agravo de instrumento. Apelação. Não conhecimento. Não provimento.
+O marco inicial do prazo recursal é a intimação pessoal do defensor público em audiência com prolação de sentença" (fl. 104e).
+Opostos Embargos de Declaração, foram rejeitados, nos seguintes termos:
+"Embargos de declaração em apelação. Omissão. Obscuridade. Ausência. Alegações de fato e de direito fundamentadas no acórdão.
+O acórdão embargado manteve a sentença em agravo regimental ao se ater aos fatos e fundamentos legais e inexiste prova para modificação do decisório, visto a ausência de omissão, obscuridade e prequestionamento já apreciado no acórdão.
+Recurso não provido" (fls. 147/148e).
+Alega-se, nas razões do Recurso Especial, além de dissídio jurisprudencial, ofensa aos artigos 5º, §5º, da Lei 1.060/50, 128, I, da LC 80/94, sob os seguintes fundamentos: a) "a Defensoria Pública possui prerrogativa de intimação pessoal mediante remessa dos autos à Instituição, prevista em leis específicas" (fl. 177e); b) "in casu, por mais que o Defensor Público estivesse presente na audiência que foi proferida a sentença (06/08/2015), a remessa dos autos à Defensoria Pública para início do prazo recursal, conforme entendimento do STJ e STF, só veio a ocorrer em 14/09/2015" (fl. 180e), de modo que "o protocolo do Recurso de Apelação na data 09/10/2015 é plenamente tempestivo, pois a data de início do prazo recursal é 14/09/2015 - dia que o Cartório enviou os autos à Defensoria Pública" (fl. 181e).
+Requer, ao final, "o conhecimento e admissão deste recurso especial e seu provimento, que deverá ser reformado nos pontos aqui discutidos, a fim de: a) reconhecer a violação ao Art. 5º, § 5º da Lei n. 1.060/1950 e Art. 128, inciso I da Lei Complementar 80/1994, bem como dissídio jurisprudencial a fim de determinar o retorno dos autos ao Tribunal de origem para que conheça a tempestividade do Recurso de Apelação interposto pela Recorrente" (fl. 181e).
+Não foram apresentadas contrarrazões (fl. 237e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 249e).
+Com razão a parte recorrente.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, em face de decisão que deixou de receber o seu recurso de Apelação, sob o fundamento de intempestividade.
+O Tribunal local negou provimento ao Agravo.
+Daí a interposição do presente Recurso Especial.
+No caso dos autos, o Tribunal de origem concluiu pela intempestividade do recurso de Apelação interposto pela ora recorrente, sob o seguinte fundamento:
+"Em análise aos autos, constata-se a sentença proferida em audiência em 06/08/2015, com ciência do Defensor Público nesta data, bem como sobre o início do prazo recursal.
+Portanto, a contagem do prazo iniciou em 07/08/2015 e com prazo em dobro findou em 05/09/2015 (sábado), prorrogado para 07/09/2015 (segunda-feira). Ocorre que, o Defensor Público retirou carga dos autos somente em 14/09/2015, após o término do prazo recursal e interpôs o recurso de apelação ainda em data posterior" (fl. 102e).
+Contudo, esta Corte já proferiu entendimento no sentido de que, "a despeito da presença do Defensor Público, na audiência de instrução e julgamento, a intimação pessoal da Defensoria Pública somente se concretiza com a respectiva entrega dos autos com vista, em homenagem ao princípio constitucional da ampla defesa", de modo que, somente a partir de tal momento, considera-se iniciado o prazo para interposição do recurso cabível.
+A propósito, confira-se a ementa do referido julgado:
+"RECURSO ESPECIAL - DIREITO PROCESSUAL CIVIL - NEGATIVA DE PRESTAÇÃO JURISDICIONAL - AUSÊNCIA DE DEMONSTRAÇÃO - FUNDAMENTAÇÃO DEFICIENTE - INCIDÊNCIA DA SÚMULA 284/STF - INTIMAÇÃO PESSOAL - DEFENSORIA PÚBLICA - PROTEGER E PRESERVAÇÃO A FUNÇÃO DO ÓRGÃO - DEFESA DOS NECESSITADOS - DEFENSOR PÚBLICO - PRESENÇA - AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO - ENTREGA DOS AUTOS COM VISTA - NECESSIDADE - PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA - RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PROVIDO.
+I - A não explicitação precisa, por parte da recorrente, sobre a forma como teria sido violado o dispositivo suscitado, no caso, o artigo 535, inciso II, do Código de Processo Civil, atrai a incidência do enunciado n. 284 da Súmula do STF.
+II - O artigo 74 da Lei Complementar Estadual 35/2003, por compreender-se no conceito de lei estadual, não pode dar ensejo a abertura desta Instância especial. Incide, na espécie, por analogia o óbice da Súmula n. 280/STF.
+III - A necessidade da intimação pessoal da Defensoria Pública decorre de legislação específica que concede prerrogativas que visam facilitar o bom funcionamento do órgão no patrocínio dos interesses daqueles que não possuem recursos para constituir defensor particular.
+IV - A finalidade da lei é proteger e preservar a própria função exercida pelo referido órgão e, principalmente, resguardar aqueles que não têm condições de contratar um Defensor particular. Não se cuida, pois, de formalismo ou apego exacerbado às formas, mas, sim, de reconhecer e dar aplicabilidade à norma jurídica vigente e válida.
+V - Nesse contexto, a despeito da presença do Defensor Público, na audiência de instrução e julgamento, a intimação pessoal da Defensoria Pública somente se concretiza com a respectiva entrega dos autos com vista, em homenagem ao princípio constitucional da ampla defesa.
+VI - Recurso especial parcialmente conhecido e, nessa extensão, provido" (STJ, REsp 1.190.865/MG, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe de 01/03/2012).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, determinando o retorno dos autos à origem, a fim de que analise a tempestividade da Apelação interposta pela parte ora recorrente, nos termos da fundamentação.
+I.
