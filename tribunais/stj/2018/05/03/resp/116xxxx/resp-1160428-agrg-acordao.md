@@ -1,0 +1,56 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - TELEFONIA - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DO AGRAVANTE.
+1. Razões do agravo regimental que não impugnam especificamente o fundamento invocado na deliberação monocrática. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto da decisão agravada, nos termos do art. 1021, § 1º, do NCPC. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental não conhecido.
+
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Lázaro Guimarães (Desembargador convocado do TRF 5ª Região), Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+ O EXMO SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo regimental interposto por [NOME] contra decisão proferida por esse signatário, fls. 707/709, integrada pela decisão de fls. 741/742, e-STJ, a qual negou "seguimento" ao recurso especial.
+O apelo nobre foi interposto com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que manteve decisão monocrática, assim ementada:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CASO CONCRETO. MATÉRIA DE FATO. CONVERSÃO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS. MULTA DIÁRIA.
+Postulada pelo exequente a conversão da obrigação de fazer em perdas e danos, descabida a fixação de multa diária, pois ela é instrumento de coerção próprio das execuções de obrigações de fazer e não das de pagar quantia certa, nos termos do artigo 461, § 4º, do CPC, estando correta a decisão que determinou o recálculo do débito. HONORÁRIOS ADVOCATÍCIOS NA FASE DE CUMPRIMENTO DE SENTENÇA.
+CABIMENTO. Agravo de instrumento provido em parte.
+Os embargos de declaração, opostos pelo ora recorrente, foram rejeitados na origem.
+Nas razões do especial, o recorrente apontou, além de divergência jurisprudencial, violação dos artigos 165, 182, 183, 458, inciso II, 461, § 2º, 467, 471, 473, 522, 535, 644 e 645 do CPC. Em síntese, sustentou: (i) negativa de prestação jurisdicional, por não ter sido suprida a omissão suscitada nos aclaratórios; (ii) preclusa a matéria atinente à multa coercitiva diária (astreintes) quando não manejado agravo de instrumento da decisão interlocutória que a impusera; e (iii) que a conversão da obrigação de fazer em perdas e danos não exime o devedor do pagamento de multa diária para seu cumprimento, especialmente quando decorrido o prazo para seu adimplemento voluntário.
+Apresentadas contrarrazões ao apelo extremo, o qual foi admitido na origem.
+Em decisão singular, negou-se "seguimento" ao recurso especial porquanto: i) não houve a alegada ofensa ao art. 535 do CPC/73; ii) "a Segunda Seção, quando do julgamento de recurso especial representativo da controvérsia, consolidou o entendimento de que a decisão judicial que comina a incidência da multa coercitiva diária (astreintes) não se reveste da imutabilidade da coisa julgada, sendo, portanto, insuscetível de preclusão (REsp 1.333.988/SP, Rel. Ministro Paulo de Tarso Sanseverino, julgado em 09.04.2014, DJe 11.04,2014)"; iii) uma vez reconhecida a impossibilidade material de cumprimento da obrigação de fazer, consistente na subscrição das ações em favor dos credores, mostra-se insubsistente a multa fixada pelo juízo face à conversão da obrigação em perdas e danos; iv) é inócua a fixação de multa diária em casos como o dos autos, em que é manifesta e de ciência geral a impossibilidade de emissão específica das ações de companhia estatal sucedida pela Brasil Telecom S/A; e v) incidência da Súmula 83 do STJ.
+Foram opostos embargos de declaração, alegando-se omissão acerca da apreciação de pedido de ocorrência de fato novo, relativo ao pagamento efetuado pela companhia telefônica, pois após a decisão inicialmente recorrida no origem, a executada teria pagado, em depósito, o valor em discussão, o que prejudicaria o presente agravo de instrumento interposto, por perda de objeto. Outrossim, diante de decisão judicial levantou o dinheiro e o gastou. Alertou acerca da peculiaridade do caso.
+Inconformado, o agravante interpõe o presente agravo regimental sustentando ser entendimento assentado na Primeira Seção do STJ a possibilidade de se julgar a causa, aplicando o direito à espécie, bem como dever ser observado o efeito translativo reconhecido na Súmula 456/STJ.
+Sustentou que diante da decisão de fls. 408, o recurso de agravo de instrumento interposto pelo exequente restou prejudicado, uma vez que teria perdido seu objeto.
+Afirmou ter sido tão clara a referida decisão,que o Cartório Judicial expediu o alvará no valor de R$ 20.967,40 em favor da parte autora, ora agravante, o qual o levantou.
+Por fim, afirmou que a recorrente não interpôs recurso algum acerca da decisão de fls. 408.
+Impugnação apresentada às fls. 758/767, e-STJ, alertando haver decisão declarando que a multa cominatória de astreintes não era devida (cf. fls. 478, e-STJ) e, dessa decisão, o agravante interpôs agravo de instrumento ao qual negou-se provimento, com transito em julgado dessa decisão, tornado-se preclusa qualquer discussão acerca da incidência de astreintes.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - TELEFONIA - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL.
+INSURGÊNCIA DO AGRAVANTE.
+1. Razões do agravo regimental que não impugnam especificamente o fundamento invocado na deliberação monocrática. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto da decisão agravada, nos termos do art. 1021, § 1º, do NCPC. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo regimental não conhecido.
+
+VOTO
+ O EXMO SR. MINISTRO MARCO BUZZI (Relator): O presente reclamo sequer ultrapassa o juízo de admissibilidade, porquanto violado o princípio da dialeticidade recursal.
+1. De início, consigne-se que a decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 do Plenário do Superior Tribunal de Justiça (AgRg no AREsp 849.405/MG, Quarta Turma, Julgado em 5/4/2016).
+2. Cumpre salientar que o entendimento jurisprudencial desta Corte é pacífico no sentido de que a parte recorrente deve infirmar os fundamentos da decisão impugnada, de forma específica e pormenorizada, sob pena de não conhecimento do agravo interno.
+A propósito:
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 1º Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada.
+No presente caso, a decisão ora agravada negou "seguimento" ao recurso especial, sob o fundamento de incidência da Súmula 83 do STJ, porquanto o Tribunal local teria julgado em conformidade com a entendimento do STJ, firmando quando de julgamento de recurso especial repetitivo, REsp 1.333.988/SP, o qual consignou: "a Segunda Seção, quando do julgamento de recurso especial representativo da controvérsia, consolidou o entendimento de que a decisão judicial que comina a incidência da multa coercitiva diária (astreintes) não se reveste da imutabilidade da coisa julgada, sendo, portanto, insuscetível de preclusão (REsp 1.333.988/SP, Rel. Ministro Paulo de Tarso Sanseverino, julgado em 09.04.2014, DJe 11.04.2014).
+Outrossim, consignou a referida decisão "uma vez reconhecida a impossibilidade material de cumprimento da obrigação de fazer, consistente na subscrição das ações em favor dos credores, mostra-se insubsistente a multa fixada pelo juízo face à conversão da obrigação em perdas e danos."
+Todavia, nas razões do presente recurso, limita-se o insurgente a repisar os fundamentos trazidos nos embargos de declaração, deixando de impugnar especificamente a incidência da Súmula 83 do STJ. Aliás, sequer menciona o referido óbice.
+Dessa forma, não havendo impugnação específica ao fundamento adotado pela decisão agravada, qual seja, de que os fundamentos da decisão de inadmissibilidade do recurso especial proferida pela Corte local não foram impugnados, aplica-se a Súmula 182/STJ, in verbis: "É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada."
+A corroborar esse entendimento, destaca-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FALTA DE IMPUGNAÇÃO À MOTIVAÇÃO DECLINADA NA DECISÃO MONOCRÁTICA. INOBSERVÂNCIA DO ÔNUS DA DIALETICIDADE.
+1. O art. 1.021, § 1.º, do CPC/2015, estabelece norma segundo a qual entre a motivação utilizada como fundamento do julgamento e as razões do recurso que impugna tal decisão deve haver correlação lógica, de maneira a permitir que o órgão com competência recursal possa examinar a juridicidade da "ratio decidendi", pena de inobservância do ônus da dialeticidade.
+2. No caso concreto, a decisão monocrática foi de não conhecimento do recurso especial ante os óbices das Súmulas 280 e 284 do Supremo Tribunal Federal e das Súmulas 05 e 211 do Superior Tribunal de Justiça, mas as razões do agravo interno remetem ao mérito da controvérsia, isto é, sobre o momento correto para a exigibilidade de comprovação de grau de escolaridade como requisito para o provimento de cargo público.
+3. Agravo interno não conhecido. (AgInt no REsp 1576127/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 09/05/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. DISPOSITIVO CONSTITUCIONAL. ANÁLISE. IMPOSSIBIILIDADE. RECURSO MANIFESTAMENTE INADMISSÍVEL.
+APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC.
+1. Não merece conhecimento o agravo interno que não impugna especificamente os fundamentos da decisão agravada.
+ ..
+(AgInt no AREsp 1167045/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 27/02/2018, DJe 02/03/2018)
+Vale destacar que incumbe à parte recorrente o dever processual de fundamentar os recursos por ela interpostos, cabendo-lhe expor, de modo adequado, o direito aplicável à espécie e as razões subjacentes ao pedido de nova decisão, sendo que o descumprimento desse encargo jurídico-processual legitima o não-conhecimento do recurso, de modo que é necessária a impugnação dirigida aos próprios fundamentos da decisão recorrida, não sendo suficiente, para esse efeito, a mera reiteração do teor de peças processuais existentes nos autos.
+3. Do exposto, não conheço do agravo regimental.
+É como voto.
