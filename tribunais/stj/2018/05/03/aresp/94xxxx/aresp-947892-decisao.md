@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. INCÊNDIO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS C/C ANTECIPAÇÃO DE TUTELA JULGADA PROCEDENTE QUANTO A UM DOS RÉUS E IMPROCEDENTE QUANTO AOS DEMAIS. IRRESIGNAÇÃO DO RÉU CONDENADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA DE PROVAS DE QUE FORAM SEUS FUNCIONÁRIOS QUE DERAM CAUSA AO INCÊNDIO. NECESSIDADE DE REVISÃO DO VALOR DA INDENIZAÇÃO. ANÁLISE DO AGRAVO EM RECURSO ESPECIAL DA [NOME].
+DECISÃO
+Cuida-se de agravo interposto por Empresa Brasileira de Assessoria e Consultoria em Administração e Gestão de Cidades Ltda. - EPP - [NOME] contra a decisão de fls. 1.021-1.025 (e-STJ), proferida em juízo provisório de admissibilidade, na qual foi negado seguimento ao seu recurso especial.
+O apelo extremo foi deduzido em desafio aos acórdãos prolatados pelo Tribunal de Justiça do Estado de Minas Gerais assim ementados:
+NULIDADE DA SENTENÇA - MEMORIAIS ESCRITOS - PREJUÍZO NÃO DEMONSTRADO - PERÍCIA - IMPUGNAÇÃO INJUSTIFICADA - DEMANDA RESSARCITÓRIA - RESPONSABILIDADE PELO FATO DAS COISAS - LANÇAMENTO DE COISAS DOS PRÉDIOS - ILEGITIMIDADE PASSIVA DO PROPRIETÁRIO/LOCADOR - RESPONSABILIDADE - IMPROCEDÊNCIA - DANO MORAL - CONFIGURADO - QUANTUM.
+O nosso legislador prevê como regra os debates orais para o encerramento da audiência de instrução e julgamento, porquanto prestigiada a técnica da oralidade na conformação do processo civil brasileiro. Assim, ausente a prova do prejuízo, não há falar em nulidade da sentença.
+Para contradizer o laudo pericial elaborado pelo perito de confiança do Juízo, a parte deveria trazer aos autos elementos de convicção suficientes a levantar dúvida razoável sobre o trabalho feito, não sendo bastante meras alegações, despidas de qualquer lastro probatório.
+A responsabilidade pelo evento danoso causado pelo lançamento de coisas dos prédios é daquele que habita ou do que se encontra com a finalidade de exploração, de uso, de proveito do prédio, constituindo o guardião ou o dono das coisas lançadas ou caídas.
+Não se incute a responsabilidade ao proprietário, pois não detém a guarda, a posse, o controle das coisas, afastando qualquer possibilidade de evitar o fato, e nem se podendo compeli-lo a não tirar proveito do prédio através da locação.
+Embora inexista orientação uniforme e objetiva na doutrina ou na jurisprudência de nossos tribunais para a fixação dos danos morais, é ponto pacífico que o Juiz deve sempre observar as circunstâncias fáticas do caso examinado, exaltando sempre a gravidade objetiva do dano, seu efeito lesivo, a natureza e a extensão do dano, as condições sócio-econômicas da vítima e do ofensor, visando com isto que não haja enriquecimento do ofendido e que a indenização represente um desestímulo a novas agressões.
+EMBARGOS DE DECLARAÇÃO - INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO - REQUISITOS DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. Nos termos do artigo 535 do Código de Processo Civil, cabem embargos de declaração quando houver, na sentença ou no acórdão, obscuridade, contradição ou for omitido ponto sobre o qual devia pronunciar-se o juiz ou tribunal. Inexistíndo tais requisitos, rejeitam-se os embargos.
+Nas razões do recurso especial (e-STJ, fls. 984-998), apontou a insurgente a existência de violação aos artigos 535 do Código de Processo Civil de 1973; e 186 e 927 do Código Civil. Sustentou, em síntese: i) a ocorrência de negativa de prestação jurisdicional; ii) a ausência de provas de que foram seus funcionários que deram causa ao incêndio; e iii) a necessidade de revisão do valor arbitrado para a indenização por danos morais.
+Sem contrarrazões (e-STJ, fl. 1.020).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; e b) a incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual a insurgente contesta a aplicação dos óbices.
+Sem contraminuta (e-STJ, fl. 1.117).
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Tendo em vista o provimento parcial do recurso especial interposto por Imperial Ciclista Ltda. e outro, e a consequente necessidade de novo pronunciamento por parte do Tribunal local sobre os embargos de declaração por eles opostos, a análise do presente recurso se mostra prejudicada neste momento.
+Diante do exposto, julgo prejudicado o agravo em recurso especial ante a perda do seu objeto.
+Publique-se.
