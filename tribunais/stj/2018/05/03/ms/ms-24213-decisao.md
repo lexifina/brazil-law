@@ -1,0 +1,33 @@
+DECISÃO
+MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL PRATICADO POR MINISTRO DO STJ. AÇÃO DE PRESTAÇÃO DE CONTAS. DESPESAS CONDOMINIAIS. DEFICIÊNCIA DA INSTRUÇÃO DA PETIÇÃO INICIAL DO MANDAMUS, DESACOMPANHADA DE QUALQUER DOCUMENTO. ATO COATOR. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. MANDADO DE SEGURANÇA INDEFERIDO LIMINARMENTE.
+1. Trata-se de Mandado de Segurança impetrado por MADALENA CRUZ ADAMECZ contra decisão da 4a. Turma deste Superior Tribunal de Justiça, que não conheceu Agravo Interno em razão da incidência do óbice da Súmula 182/STJ. Eis a ementa do julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno não conhecido.
+2. Segundo o Impetrante, a hipótese (i) não ensejaria a aplicação da Súmula 182/STJ, uma vez que, de acordo com sua argumentação, todos os fundamentos da decisão impugnada teriam sido atacados no Agravo Interno apresentado; defendeu, ainda, (ii) que a sua pretensão recursal diz respeito ao que afirma tratar de erro material; acrescenta (iii) não pretender qualquer reexame de prova; e conclui argumentando (iv) pelo afastamento da aplicação da multa do art. 538 do CPC/1973 e da multa de litigância de má-fé.
+3. Defende a concessão da segurança para que o ato seja considerado nulo de pleno direito, por não preencher os requisitos constitucionais e legais, violando cláusulas pétreas de direitos e garantias fundamentais e também por não observar determinações legais do CPC.
+4. Às fls. 27, foi deferida a gratuidade de justiça.
+5. Brevemente relatado. Decido.
+6. Segundo entendimento doutrinário e jurisprudencial, a ação de Mandado de Segurança não pode demandar dilação probatória, pois visa tutelar direito líquido e certo, assim considerado aquele que se apresenta manifesto em sua existência, delimitado na sua extensão e apto a ser exercido no momento da impetração.
+7. Precisamente em razão disto, o art. 6o. da Lei 12.016/2009 estabelece a obrigatoriedade da petição inicial de a ação vir acompanhada com documentos que sustentem a pretensão do Impetrante. A propósito, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. ALEGAÇÕES BASEADAS EM DOCUMENTOS JUNTADOS APENAS EM SEDE RECURSAL. INVIABILIDADE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE.
+I. A ação mandamental impõe a comprovação do direito invocado mediante prova pré-constituída, contemporânea à petição inicial, não se admitindo a juntada posterior de documentos. Precedentes.
+II. A Agravante não apresenta argumentos capazes de desconstituir a decisão agravada, reiterando apenas as alegações veiculadas no recurso anterior.
+III. Agravo regimental improvido (AgRg no RMS 39.947/MS, Rel. Min. REGINA HELENA COSTA, DJe 14.8.2015).
+8. Na hipótese dos autos, a Impetrante não instrui a petição inicial com qualquer documento, não juntando, sequer, as cópias dos atos judiciais questionados. De todo modo, o obstáculo ao acolhimento da pretensão sua pretensão não se resume à deficiência na instrução do mandamus.
+9. De acordo com a disposição contida no art. 1o. da Lei 12.016/2009, o Mandado de Segurança é o instrumento processual adequado para proteger direito líquido e certo, não amparado por Habeas Corpus ou Habeas Data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça.
+10. Embora a decisão judicial, quando sujeita a recurso sem efeito suspensivo, possa ser, em tese, objeto de mandado de segurança - art. 5o., V, da Lei 12.016/2009 -, para que isso ocorra, cumpre que se trate de ato manifestamente ilegal, abusivo ou teratológico.
+11. No presente caso, a aplicação dos óbices apresentados no julgamento da pretensão recursal da Impetrante, dentre os quais, a aplicação das Súmulas 182/STJ e 283/STF, não pode ser considerada manifestamente ilegal, abusiva ou teratológica. Nesse sentido:
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. INDEFERIMENTO LIMINAR DO WRIT. ATO COATOR. AUSÊNCIA DE ILEGALIDADE OU TERATOLOGIA. DIREITO LÍQUIDO E CERTO NÃO CONFIGURADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A utilização do mandado de segurança para impugnar decisão judicial só tem pertinência em caráter excepcionalíssimo, quando se tratar de ato manifestamente ilegal ou teratológico, devendo a parte demonstrar estarem presentes os requisitos genéricos do fumus boni iuris e do periculum in mora.
+2. Na hipótese, não se verifica a ocorrência de ato abusivo ou ilegal, tampouco a existência de direito líquido e certo amparável pelo mandado de segurança, na medida em que foi impetrado contra decisão devidamente fundamentada, a qual foi revista e mantida pelo órgão colegiado competente, com idônea fundamentação. Precedente: AgRg no MS 20.508/SP, de minha relatoria, Corte Especial, julgado em 13/3/2014, DJe 21/3/2014.
+3. Eventual discussão sobre o acerto ou equívoco do acórdão questionado neste mandado de segurança não pode ser feita por via desta ação mandamental, a qual não tem a finalidade de substituir típica modalidade recursal. Somente o recurso típico (não a ação de mandado de segurança) pode questionar o acerto de um julgado proferido e revisar os seus termos para corrigir alegado error in judicando .
+4. Agravo regimental a que se nega provimento (AgRg no MS 22.653/DF, Rel. Min. OG FERNANDES, DJe 15.12.2016).
+
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATO JUDICIAL PASSÍVEL DE RECURSO PRÓPRIO. NÃO CABIMENTO. SÚMULA 267 DO STF.
+1. Incabível o mandado de segurança contra ato judicial passível deimpugnação por meio próprio, tendo em vista não ser sucedâneo recursal.
+2. O mandado de segurança substitutivo contra ato judicial vem sendo admitido com o fim de emprestar efeito suspensivo quando o recurso cabível não o comporta, mas tão somente nos casos em que a decisão atacada seja manifestamente ilegal ou eivada de teratologia.
+3. Agravo regimental a que se nega provimento (AgRg no RMS 28.920/RS, Rel. Min. MARIA ISABEL GALLOTTI, DJe 19.2.2016).
+12. Ante o exposto, indefere-se liminarmente o Mandado de Segurança.
+13. Publique-se.
+14. Intimações necessárias.
