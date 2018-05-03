@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. CIRCULAR DO BACEN. ATO NORMATIVO SECUNDÁRIO. 2. PRORROGAÇÃO DO PRAZO PARA PAGAMENTO. AUSÊNCIA DE COMPROVAÇÃO DA IMPOSSIBILIDADE DE EMBARQUE DAS MERCADORIAS. REEXAME DE PROVAS. SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+DECISÃO
+Cerâmica Santa Terezinha Sociedade Anônima opôs embargos à execução promovida por Itaú Unibanco S.A., sucedido por BRD - Brasil Distressed Consultoria Empresarial S.A., postulando a prorrogação do prazo de adiantamentos provenientes de contratos de câmbio.
+O Magistrado de primeiro grau julgou improcedentes os embargos, determinando-se o prosseguimento da execução.
+Interposta apelação pela embargante, a Décima Quinta Câmara de Direito Privado do Tribunal de Justiça de São Paulo negou provimento ao apelo, em acórdão assim ementado (e-STJ, fl. 122) :
+APELAÇÃO  PRESSUPOSTOS RECURSAIS  OFENSA AOS ARTS. 514, II E 515 DO CPC  INOCORRÊNCIA  As razões de apelação devem ser deduzidas à vista da sentença recorrida, atacando os fundamentos desta  Hipótese em que houve observância, suficiente, do disposto nos arts. 514, II e 515 do CPC  Preliminar rejeitada.
+EXECUÇÃO  CONTRATO DE CÂMBIO  EXAME DA PROVA DOCUMENTAL  OBRIGAÇÃO CERTA, LÍQUIDA E EXIGÍVEL  DIREITO À PRORROGAÇÃO DE PRAZO QUE NÃO ESTÁ DEMONSTRADO NOS AUTOS  Infere-se da análise dos documentos trazidos com a inicial que não há nenhum inicio de prova a comprovar a incapacidade quanto ao embarque da mercadoria no período, na forma da Circular 3.589/12 do BACEN, o que incumbia à embargante nos termos do art. 396 do CPC  Existência de recuperação judicial que não afasta a obrigação de realizar essa comprovação por meio de prova documental hábil  Hipótese, além disso, em que o crédito em questão não está sujeito aos efeitos da recuperação judicial  Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 138-144).
+Cerâmica Santa Terezinha Sociedade Anônima interpôs recurso especial fundamentado na alínea a do permissivo constitucional, apontando violação aos arts. 47 da Lei n. 11.101/2005 e 596 do CPC/1973 e Circular n. 3.589/2012 do Bacen.
+Sustentou, em síntese, a necessidade de prorrogação dos prazos para adimplemento do débito, haja vista o deferimento do processamento da recuperação judicial, afastando-se a exigibilidade do crédito executado.
+Contrarrazões às fls. 169-182 (e-STJ).
+O Tribunal de origem negou seguimento ao recurso sob os fundamentos de ser inviável a alegação de ofensa a circular nesta via excepcional e de incidir a Súmula 7/STJ.
+Irresignada, a recorrente apresenta agravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 204-218 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, a alegação de ofensa à Circular n. 3.589/2012 do Bacen não é passível de análise na via estreita do recurso especial, pois não se encaixa no conceito de lei federal, consoante a remansosa jurisprudência desta Corte Superior.
+Confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL INTERPOSTO APENAS PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMOSTRADO. ACÓRDÃO COM FUNDAMENTADO EM OFÍCIO-CIRCULAR E NAS PROVAS DOS AUTOS. ANÁLISE. INVIABILIDADE.
+ ..  5. Ocorre que, além de ser necessário o reexame de provas, a atrair a incidência da Súmula 7 do STJ, o Recurso Especial não constitui via adequada para a análise de eventual ofensa a Resoluções, Portarias, Regimentos, Circulares ou Instruções Normativas, por não estarem tais atos normativos inseridos no conceito de lei federal, nos termos do art. 105, III, "a", da Constituição Federal.
+6. Recurso Especial não conhecido. (REsp n. 1.707.691/RS, Relator o Ministro Herman Benjamin, Segunda Turma, julgado em 12/12/2017, DJe 19/12/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA JULGADA IMPROCEDENTE - MANUTENÇÃO PELO V. ACÓRDÃO RECORRIDO - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DO AUTOR.
+ ..  2. Não se viabiliza o recurso especial quanto à alegada violação da Circular SUSEP 17/1992, por caracterizar ato normativo secundário (infralegal), que não se enquadram no conceito de lei federal ínsito no artigo 105, inciso III, alínea "a", do permissivo constitucional. Precedentes: REsp 1.121.275/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27.03.2012, DJe 17.04.2012; AgRg no REsp 1274513/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 01.03.2012, DJe 12.04.2012.
+ ..  4. Agravo interno desprovido. (AgInt no AREsp n. 617.544/SP, Relator o Ministro Marco Buzzi, Quarta Turma, julgado em 6/12/2016, DJe 14/12/2016)
+Quanto ao mérito, importante consignar que o acórdão recorrido, com amparo no acervo probatório dos autos, consignou que a prorrogação do termo final para o pagamento do débito seria possível somente na hipótese em que a devedora comprovasse documentalmente sua incapacidade de embarcar as mercadorias para exportação, o que não ficou demonstrado nos autos.
+Desse modo, ausente qualquer prova que demonstre a incerteza, a iliquidez ou a inexigibilidade do título executado, conforme se verifica do seguinte trecho extraído do aresto combatido:
+Infere-se do seu exame que o fato, por si só, de a sociedade-embargante estar em recuperação judicial não é suficiente para que possa realizar o embarque até a data ali referida, prevendo também essa norma o seguinte requisito: "que fique documentalmente comprovada a incapacidade do exportador para embarcar a mercadoria".
+Se a empresa está em recuperação judicial, infere-se que está realizando regulamente seus negócios, a sua atividade empresarial, visando à recuperação de uma momentânea dificuldade financeira, não havendo nenhum elemento nos autos a levar a conclusão diversa.
+Não acompanharam a petição inicial os seus balanços, os documentos fiscais comprobatórios das exportações no período ou ainda quaisquer outros elementos probatórios hábeis para a efetiva demonstração acima referida, no caso, "que fique documentalmente comprovada" a alegada incapacidade para embarcar as mercadorias naquele período para que fizesse, em tese, jus à pretendida prorrogação.
+E esse inicio de prova já deveria acompanhar a inicial, na forma prevista na lei processual civil (CPC, art. 396).
+Anote-se ainda que o documento de fl. 27 é uma Ç relação elaborada pela embargante, ressalte-se, desacompanhada dos citados documentos. Ademais, demonstra que houve embarques no período do contrato, não sendo especificados os que estariam relacionados ao contrato de câmbio em questão.
+No caso, quanto ao contrato que instrui a execução, não está demonstrado, assim, que se não trate de titulo de obrigação certa, liquida e exigível (CPC, art. 586).
+Assim, constata-se que a questão foi decidida com amparo no acervo probatório dos autos, e, para infirmar as conclusões das instâncias ordinárias, seria imprescindível o reexame de provas, o que é inadmissível nesta instância extraordinária, em razão do disposto na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor apurado na execução.
+Publique-se.
