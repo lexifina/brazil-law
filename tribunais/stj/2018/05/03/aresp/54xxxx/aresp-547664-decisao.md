@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+
+DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. ESCRITUTA PÚBLICA DE COMPRA E VENDA COM PACTO ADJETO DE HIPOTECA. FINANCIAMENTO IMOBILIÁRIO. ENTIDADE DE PREVIDÊNCIA PRIVADA (PREVI. INCIDÊNCIA DO CDC NA ESPÉCIE). TABELA PRICE. LICITUDE, DESDE QUE PACTUADA. COEFICIENTE DE EQUALIZAÇÃO DE TAXAS CUJO EMPREGO CONFIGURADA ABUSIVIDADE. MULTA. MANUTENÇÃO DO PERCENTUAL CONTRATADO. MORA AFASTADA. ADMITIDA A COMPENSAÇÃO.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Nas razões de recurso especial, alega a agravante, em suma, divergência jurisprudencial e violação aos arts. 535, II, do Código de Processo Civil de 1973; 6º do LINDT; 1º, 18, § 3º, e 19 da Lei Complementar 109/01.
+Sustenta nulidade do julgado por negativa de prestação jurisdicional diante do vício de omissão quanto à necessidade de equilíbrio atuarial ou de incidência do artigo 394 do Código Civil ao concreto.
+Defende a aplicação da CET - Coeficiente de Equalização de Taxas.
+Apresentadas contrarrazões (fls. 454-465 e-STJ), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fl. 467 e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Analisando o acórdão recorrido, verifico a ocorrência de omissão e insuficiência na fundamentação sobre a falta de apreciação dos argumentos trazidos na apelação e que foram suscitados nos embargos declaratórios opostos às fls. 336-341, e-STJ. Aponta como pendente de apreciação notadamente o tema relativo à necessidade de equilíbrio atuarial ou de incidência do artigo 394 do Código Civil ao concreto.
+Anoto que, nesses casos, a jurisprudência do Superior Tribunal de Justiça preconiza o retorno dos autos ao Tribunal de origem para novo exame dos declaratórios.
+Confiram-se:
+PROCESSO CIVIL EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO. 1. Os embargos de declaração, de regra, não autorizam a reapreciação do quanto decidido, porém nada impede que, constatada a existência de omissão, o seu suprimento implique modificação no resultado do julgamento. Precedentes. 2. Constatada a existência de omissão não sanada no acórdão proferido pelo Tribunal Estadual, a despeito da interposição de embargos de declaração, é de rigor o reconhecimento de violação do art. 535 do CPC, por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento. 3. Recurso especial provido. (REsp 1091966/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/02/2011, DJe 14/02/2011)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 535 DO CPC. OMISSÃO. VIOLAÇÃO CONFIGURADA. RETORNO DOS AUTOS. DEMAIS QUESTÕES. ANÁLISE PREJUDICADA. 1. Há ofensa ao art. 535 do CPC quando o Tribunal a quo, a despeito da omissão existente no acórdão e da oposição de embargos declaratórios, deixa de emitir juízo de valor especificamente sobre questão federal desenvolvida nos autos e relevante para o deslinde da controvérsia. 2. Acolhida no STJ a violação do art. 535 do CPC, deve o processo retornar ao Tribunal de origem, restando prejudicada a análise das demais questões. 3. Agravo regimental desprovido. (AgRg no AgRg no REsp 862.072/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 02/12/2008, DJe 18/12/2008).
+Em face do exposto, conheço do agravo para dar provimento ao recurso especial, determinando o retorno dos autos para novo exame dos embargos declaratórios, devendo o Tribunal de origem deliberar sobre as falhas apontadas.
+Intimem-se.
