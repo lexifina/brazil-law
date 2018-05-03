@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno, interposto por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS em face de decisão monocrática (fls. 1.206/1.207, e-STJ) da lavra da Presidência do STJ que não conheceu do reclamo, em razão da intempestividade do recurso especial.
+Nas razões de agravo interno (fls. 1.211/1.220, e-STJ), a insurgente sustenta a tempestividade do apelo nobre, anexando documentação comprobatória da suspensão dos prazos processuais na Corte local durante o período de 20/12/2013 a 6/1/2014.
+Impugnação às fls. 1.225/1.228, e-STJ.
+Ante as razões expendidas no agravo interno, reconsidero a decisão monocrática anteriormente proferida, porquanto verificada a tempestividade do recurso especial.
+1. Conforme a jurisprudência desta Corte, admite-se que o insurgente comprove a tempestividade do recurso em sede de agravo regimental, atualmente agravo interno.
+Nesse sentido: AgRg no AREsp 137.141/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe de 15/10/2012; AgInt no AREsp 899.275/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/09/2016, DJe 20/10/2016; AgInt no AREsp 868.551/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 17/11/2016; AgInt no AREsp 867.915/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/10/2016, DJe 11/10/2016; AgRg no AgRg no AREsp 645.743/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/11/2016, DJe 21/11/2016.
+No caso em tela, verifica-se que o acórdão foi publicado em 18/12/2013, quarta-feira, tendo iniciado a fluência do lapso temporal de quinze dias em 19/12/2013, ocorrendo suspensão dos prazos durante o recesso, compreendido entre 20/12/2013 e 06/01/2014, conforme o Provimento 1.948/2012 (fl. 1217 e-STJ), de modo a data fatal para interposição do apelo foi em 20/01/2014, de forma que se afigura tempestivo o recurso especial interposto em 16/01/2014, data do protocolo (fl. 954 e-STJ).
+Verificada a tempestividade do recurso, passo, de pronto, à nova análise do agravo (art. 544 do CPC/73).
+2. No caso dos autos, o Tribunal de origem julgou prejudicado o recurso especial, nos termos do art. 543-C, § 7º, I, do CPC/1973, por entender que a orientação do acórdão recorrido encontra-se em conformidade com a jurisprudência do STJ firmada em sede de repetitivo.
+A Corte Especial do STJ firmou entendimento quanto à impossibilidade de interposição do agravo em recurso especial, previsto no art. 544 do CPC/1973, contra decisão de inadmissibilidade que, na origem, aplicara o art. 543-C, § 7º, I, do mesmo Código. Decidiu-se, ainda, que eventual interposição desse recurso não configura erro grosseiro, devendo esta Corte remeter o reclamo à origem, para julgá-lo como agravo interno.
+Nesse sentido, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO, NO TRIBUNAL A QUO, QUE NEGA SEGUIMENTO AO ESPECIAL COM BASE NO ART. 543-C DO CPC. INTERPOSIÇÃO DO AGRAVO DO ART. 544 DO CPC. DESCABIMENTO.
+ERRO GROSSEIRO. NÃO CONFIGURAÇÃO. REMESSA DO RECURSO PELO STJ À CORTE DE ORIGEM PARA APRECIAÇÃO COMO AGRAVO INTERNO. DUPLICIDADE DE RECURSOS. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE DAS DECISÕES. PROVIMENTO NEGADO.
+ ..
+2. A Corte Especial do STJ, em recente decisão, estabeleceu que: "1. No julgamento da Questão de Ordem no Ag 1.154.599/SP, a Corte Especial assentou o entendimento de que não cabe agravo (CPC, art. 544) contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC, podendo a parte interessada manejar agravo interno ou regimental na origem, demonstrando a especificidade do caso concreto.
+2. Entretanto, o art. 544 do CPC prevê o cabimento do agravo contra a decisão que não admite o recurso especial, sem fazer distinção acerca do fundamento utilizado para a negativa de seguimento do apelo extraordinário. O não cabimento do agravo em recurso especial, naquela hipótese, deriva de interpretação adotada por esta Corte Superior, a fim de
+obter a máxima efetividade da sistemática dos recursos representativos da
+controvérsia, implementada pela Lei 11.672/2008.
+3. Então, se equivocadamente a parte interpuser o agravo do art. 544 do CPC contra a referida decisão, por não configurar erro grosseiro, cabe ao Superior Tribunal de Justiça remeter o recurso à Corte de origem para sua apreciação como agravo interno . 4. Agravo interno provido . (AgRg no AREsp 260.033/PR, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 05/08/2015, DJe de 25/09/2015).
+3. Agravo interno a que se nega provimento.
+(AgRg no AgRg no AREsp 814.247/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/03/2016, DJe 17/03/2016)
+Dessa forma, é de rigor a devolução dos autos à origem para que o recurso de agravo (art. 544, CPC/73), em primeiro lugar, seja recebido como agravo interno/regimental a ser apreciado pelo Tribunal a quo.
+2. Do exposto, dou provimento ao agravo interno para, reconsiderando a decisão monocrática impugnada, determinar o retorno dos autos ao Tribunal de origem para que o órgão julgador conheça do agravo nos próprios autos (art. 544 do CPC/73) como agravo interno/regimental e se pronuncie sobre a pretensão recursal ali expendida.
+Publique-se.
+Intimem-se.
