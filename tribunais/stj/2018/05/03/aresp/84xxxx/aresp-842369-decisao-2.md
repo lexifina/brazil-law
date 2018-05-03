@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por [NOME] com fundamento no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 429):
+COMPROMISSO DE COMPRA E VENDA - RESCISÃO CONTRATUAL - REINTEGRAÇÃO DE POSSE - Responsabilidade do Requerido-Reconvinte pela obtenção do financiamento Caracterizado o inadimplemento inescusável da obrigação - Perda do valor pago é suficiente para evitar o enriquecimento sem causa do Requerido- Reconvinte e ressarcir os danos suportados pela Autora- Reconvinda - SENTENÇA DE PROCEDÊNCIA DA AÇÃO E DE IMPROCEDÊNCIA DA RECONVENÇÃO, para declarar rescindido o contrato, reintegrar a Autora - Reconvinda na posse do imóvel e condenar o Requerido- Reconvinte ao pagamento do valor de R$ 176.400,00 - RECURSO DO REQUERIDO - RECONVINTE PARCIALMENTE PROVIDO, para afastar a condenação ao pagamento do valor de R$ 176.400,00, E DECLARADO (DE OFICIO) QUE CONDENADO O REQUERIDO - RECONVINTE, NA RECONVENÇÃO, AO PAGAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DOS PATRONOS DA AUTORA-RECONVINDA (NO VALOR DE R$ 2.500,00), OBSERVADA A GRATUIDADE PROCESSUAL.
+O agravante alega contrariedade dos arts. 11 da Lei 10.257/2001; 1.238 e 1.240 do Código Civil.
+Assim posta a questão, decido.
+O agravante afirma ter adquirido a propriedade por usucapião. O tema, porém, não foi discutido no acórdão recorrido, e os artigos tidos por violados não foram objeto de prequestionamento. O recurso especial, portanto, é inviável, de acordo com a Súmula 282 do STF, aplicável ao caso.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
