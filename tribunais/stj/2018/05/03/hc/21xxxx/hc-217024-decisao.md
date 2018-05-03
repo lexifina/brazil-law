@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ABEDEGO PESSOA contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 3 anos e 6 meses de reclusão, em regime inicialmente fechado, além de 17 dias-multa, como incurso no art. 297, caput do Código Penal.
+A defesa interpôs recurso de apelação, no qual pretendeu a absolvição ou a desclassificação para o delito do art. 307 do CP, assim como a redução da pena por caracterização de bis in idem e a consideração da atenuante da confissão espontânea.
+O recurso foi parcialmente provido para reduzir a pena para 3 anos de reclusão e 15 dias-multa, mantido o regime prisional.
+Neste writ, o impetrante sustenta que o Tribunal a quo deveria ter declarado a prescrição retroativa em favor do paciente, pois entre o recebimento da denúncia e a fase atual do processo já teria decorrido prazo superior a 8 anos.
+Aduz, por outro lado, ser descabida a fixação do regime prisional fechado, ainda que tenha sido motivada pela reincidência do réu e pelos seus maus antecedentes. De igual modo, alega que o indeferimento da conversão da pena corporal em restritiva de direitos é injustificado.
+Pugna, assim, pela concessão da ordem, para que seja declarada a extinção da punibilidade pela prescrição da pretensão punitiva ou, subsidiariamente, pela fixação de meio prisional menos severo, com a substituição da pena corporal por restritiva de direitos.
+A Subprocuradoria-Geral da República manifestou-se pela denegação da ordem (e-STJ, fls. 177-181).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+No caso, conforme registrado pelo Tribunal de origem, o acusado é reincidente e foi condenado à pena de 3 anos de reclusão pela prática do crime previsto no art. 297, caput, do Código Penal. Portanto, a pretensão punitiva está sujeita ao prazo prescricional de 8 anos de reclusão. Conforme se extrai dos autos, entre o trânsito em julgado decreto condenatório para a acusação, último marco interruptivo da prescrição, e a data da impetração não havia decorrido o prazo prescricional de 8 anos, não havendo, portanto, falar em prescrição da pretensão punitiva.
+Ademais, a execução da pena a pretensão executória está sujeita ao prazo prescricional de 8 anos, acrescido de 1/3, nos termos do art. 110, caput, do Código Penal, o que totaliza o lapso extintivo de 10 anos e 8 meses. In concreto, a sentença condenatória transitou em julgado para o Ministério Público em 27/7/2009 e a execução da pena foi iniciada em 12/9/2014, não havendo se escoado, entre os marcos interruptivos, o prazo prescricional.
+No que se refere ao regime prisional, não se infere qualquer desproporcionalidade do imposição do meio inicialmente mais gravoso para o desconto da reprimenda, pois, nada obstante ser a pena inferior a 4 anos de reclusão, os maus antecedentes do acusado implicaram majoração da pena-base, tendo, ainda, sido reconhecida a sua reincidência, não havendo se falar em negativa de vigência à Súmula 269/STJ.
+A seguir, parcialmente, ementas de acórdãos desta Corte versando a respeito da matéria e que respaldam essa solução:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO (ARTIGO 157, § 2º, INCISO I, DO CÓDIGO PENAL). REGIME INICIAL FECHADO FIXADO COM BASE EM CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. MANUTENÇÃO JUSTIFICADA. CONSTRANGIMENTO NÃO EVIDENCIADO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que a escolha do sistema prisional não está atrelada, de modo absoluto, ao quantum de pena firmada, devendo-se considerar as demais circunstâncias do caso concreto.
+2. Com efeito, não é possível constatar flagrante ilegalidade na imposição do regime inicial fechado ao paciente, pois, embora a sua pena tenha sido fixada em patamar inferior a 8 (oito) anos de reclusão, a existência de circunstância judicial desfavorável, a exemplo dos maus antecedentes, indica que o modo mais gravoso de execução mostra-se adequado na espécie.
+ ..
+2. Agravo regimental improvido."
+(AgRg no HC 326.343/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/11/2015, DJe 25/11/2015, grifou-se.)
+"HABEAS CORPUS. ART. 1º, II, DA LEI N. 8.137/1990, POR QUATRO VEZES, NA FORMA DO ART. 71 DO CP. PRIMEIRA FASE DA DOSIMETRIA. CULPABILIDADE DESFAVORÁVEL. ELEMENTOS CONCRETOS INDICADOS PELO JULGADOR. WRIT DENEGADO.
+1. A revisão da dosimetria da pena no habeas corpus somente é permitida nas hipóteses de falta de fundamentação concreta ou quando a sanção aplicada é notoriamente desproporcional e irrazoável diante do crime cometido.
+2. A vetorial culpabilidade, analisada como maior grau de censurabilidade da conduta, deve ser mantida quando o acórdão registra a maneira articulada do réu para cometer a sonegação fiscal, pois ele, de forma engenhosa, criou uma empresa formalmente integrada por sócios que, em verdade, não compunham a sociedade empresarial, com a intenção preordenada de lesar o erário. Tal reprovabilidade não é inerente ao tipo penal, pois a fraude fiscal prescinde da criação de empresa de fachada. É inviável a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por restritiva de direitos ao réu primário e condenado a reprimenda inferior a 4 anos de reclusão quando há registro de circunstância judicial desfavorável (culpabilidade), consoante o teor dos arts. 33, § 3º e 44, III, ambos do CP.
+ ..
+6. Habeas corpus denegado."
+(HC 335.245/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/12/2015, DJe 11/12/2015, grifou-se.).
+Por fim, carece de justa causa o pleito de substituição da pena privativa de liberdade por restritiva de direitos, porquanto o réu, além de ostentar maus antecedentes, é reincidente em crimes dolosos, o que vai de encontro ao requisito exigido pelo art. 44, II e III, do Código Penal.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
