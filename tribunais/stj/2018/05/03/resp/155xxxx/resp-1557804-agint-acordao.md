@@ -1,0 +1,40 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. FALECIMENTO DO AUTOR ANTES DA INSTRUÇÃO PROBATÓRIA. AUSÊNCIA DE DIREITO ADQUIRIDO DOS HERDEIROS. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA AUSÊNCIA DE PROVAS APTAS PARA COMPROVAR A PRESENÇA DOS REQUISITOS PARA O DEFERIMENTO DO BENEFÍCIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, a parte autora faleceu antes da fase instrutória, quando nem sequer havia sido reconhecido o direito ao benefício assistencial pleiteado pelo de cujus, não havendo falar em direito adquirido dos herdeiros para receberem parcelas supostamente devidas até o óbito do autor.
+3. Consignado no acórdão recorrido que o falecimento do requerente ocorreu antes que se realizasse qualquer ato de instrução probatória, especialmente o estudo social para a verificação da alegada situação de miserabilidade. Rever a conclusão a que chegou a Corte de origem exige a revisão do contexto fático e probatório dos autos, o que atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa (Presidente), Gurgel de Faria e Napoleão Nunes Maia Filho votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de Agravo Interno interposto em face da decisão que negou seguimento ao Recurso Especial, assim ementada (e-STJ fl. 163):
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFICIO ASSISTENCIAL. ACÓRDÃO DO TRIBUNAL DE ORIGEM QUE ATESTOU O ÓBITO DA PARTE AUTORA ANTES DA REALIZAÇÃO DA PROVA TÉCNICA. AUSÊNCIA DO ESTUDO SOCIAL. REEXAME DO ACERVO FÁTICO PROBATÓRIO. SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+Em suas razões, o agravante pugna pela possibilidade de realização da prova apta a concessão do beneficio de prestação continuada mesmo após a morte do autor, tendo em vista que os herdeiros fariam jus ao recebimento de valores residuais devidos em vida. Por fim, alega a não aplicação da Súmula 7/STJ.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. FALECIMENTO DO AUTOR ANTES DA INSTRUÇÃO PROBATÓRIA. AUSÊNCIA DE DIREITO ADQUIRIDO DOS HERDEIROS. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA AUSÊNCIA DE PROVAS APTAS PARA COMPROVAR A PRESENÇA DOS REQUISITOS PARA O DEFERIMENTO DO BENEFÍCIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. In casu, a parte autora faleceu antes da fase instrutória, quando nem sequer havia sido reconhecido o direito ao benefício assistencial pleiteado pelo de cujus, não havendo falar em direito adquirido dos herdeiros para receberem parcelas supostamente devidas até o óbito do autor.
+3. Consignado no acórdão recorrido que o falecimento do requerente ocorreu antes que se realizasse qualquer ato de instrução probatória, especialmente o estudo social para a verificação da alegada situação de miserabilidade. Rever a conclusão a que chegou a Corte de origem exige a revisão do contexto fático e probatório dos autos, o que atrai a incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar.
+In casu, a ação visa à concessão de benefício de prestação continuada (art. 203, V, CF/1988). No seu curso, antes mesmo que fosse concluída a instrução probatória, veio a falecer, sendo declarada, por sentença, a extinção do feito, sem resolução do mérito, nos termos do art. 267, IX, do CPC/1973. Mantida a decisão em segunda instância, foi admitido o recurso especial.
+Com efeito, consoante a jurisprudência desta Corte Superior de Justiça, é possível a habilitação de herdeiros do beneficiário da assistência social para o recebimento de valores não recebidos em vida pelo titular, quando já integravam o patrimônio jurídico do de cujus. Neste sentido, o recente julgado:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. BENEFÍCIO ASSISTENCIAL. FALECIMENTO DO TITULAR DO BENEFÍCIO NO CURSO DO PROCESSO. HABILITAÇÃO DOS HERDEIROS PARA O RECEBIMENTOS DOS VALORES NÃO PAGOS EM VIDA. POSSIBILIDADE. ARTIGOS 20 E 21 DA LEI 8.742/1993. ARTIGO 23 DO DECRETO 6.214/2007. RECURSO ESPECIAL PROVIDO.
+1. No caso de benefício assistencial de prestação continuada, previsto na Lei 8.742/1993, não obstante o seu caráter personalíssimo, eventuais créditos existentes em nome do beneficiário no momento de seu falecimento, devem ser pagos aos seus herdeiros, porquanto, já integravam o patrimônio jurídico do de cujus. Precedentes.
+2. O caráter personalíssimo do benefício impede a realização de pagamentos posteriores ao óbito, mas não retira do patrimônio jurídico a do seu titular as parcelas que lhe eram devidas antes de seu falecimento, e que, por questões de ordem administrativa e processual, não lhe foram pagas em momento oportuno.
+3. No âmbito regulamentar, o artigo 23 do Decreto nº 6.214/2007, garante expressamente aos herdeiros ou sucessores o valor residual não recebido em vida pelo beneficiário.
+4. Portanto, no caso de falecimento do beneficiário no curso do processo em que ficou reconhecido o direito ao benefício assistencial, é possível a habilitação de herdeiros do beneficiário da assistencial social, para o recebimento dos valores não recebidos em vida pelo titular.
+5. Recurso especial provido. (REsp 1.568.117/SP, Rel. Min. Mauro Campbel Marques, Segunda Turma, DJe 27/03/2017 - destaques nossos)
+PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. MORTE DO AUTOR NO CURSO DA AÇÃO. EXTINÇÃO DO PROCESSO. DIREITO DOS HERDEIROS/SUCESSORES A RECEBER EVENTUAIS PARCELAS ATÉ A DATA DO ÓBITO. POSSIBILIDADE. PRECEDENTES.
+1. O entendimento desta Corte é no sentido de que, apesar do caráter personalíssimo dos benefícios previdenciários e assistenciais, os herdeiros têm o direito de receber eventuais parcelas que seriam devidas ao autor que falece no curso da ação. Precedentes: AgRg no REsp 1.260.414/CE, Rel. Min. Laurita Vaz, Quinta Turma, Dje 26/3/2013; AgRg no Ag 1.387.980/PE, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 28/5/2012; AgRg no REsp 1.197.447/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 2/2/2011.
+2. Agravo interno não provido. (AgInt no REsp 1531347/SP, Primeira Turma, Rel. Min. Benedito Gonçalves, DJe 03/02/2017)
+Contudo essa não é a situação dos autos, cujo direito do de cujus sequer havia sido reconhecido, já que o titular do benefício faleceu antes da fase instrutória, ou seja, antes da produção da prova, isso considerando que os documentos juntados aos autos com a inicial não se mostraram suficientes para comprovar o preenchimento dos requisitos para o direito à concessão do benefício, conforme se depreende do acórdão recorrido (fl. 115):
+"(..)
+Todavia, no caso dos autos, o falecimento do requerente ocorreu antes que se realizasse qualquer ato de instrução probatória, especialmente o estudo social para a verificação da alegada situação de miserabilidade.
+Assim, tendo em vista a imprescindibilidade da realização do estudo social para a verificação do direito do falecido requerente e a impossibilidade de produção extemporânea de tal prova, já que passados quase quatro anos do ajuizamento da demanda, tenho que resta inviável a sucessão processual no presente caso.
+Nesse sentido, são oportunas as considerações do i. Procurador Regional da República no sentido de que, tratando-se de direito personalíssimo e tornando-se impossível a prova de fato constitutivo do direito do autor, não há que se falar em direito incorporado a seu patrimônio cujo resíduo seria devido a seus herdeiros.
+(..)"
+Assim, rever as conclusões a que chegaram as instâncias de origem, demandaria o revolvimento de matéria fático-probatória, o que é vedado em virtude do óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
